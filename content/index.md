@@ -1,26 +1,25 @@
 ---
 title: Base de Conocimiento
+enableToc: false
 ---
 
 # 🏛️ Terapia Liberal — Base de Conocimiento
 
 > *Análisis independiente para mentes críticas.*
 
-Bienvenido a la biblioteca de inteligencia forense de **Terapia Liberal**. Aquí encontrarás miles de nodos de conocimiento interconectados sobre poder global, geopolítica, finanzas, historia oculta y operaciones encubiertas.
+Bienvenido a la biblioteca de inteligencia forense de **Terapia Liberal**. Miles de nodos de conocimiento interconectados sobre poder global, geopolítica, finanzas, historia oculta y operaciones encubiertas.
 
 ---
 
-## 🗺️ Puntos de Entrada
+**Puntos de entrada:**
 
-| Recurso | Descripción |
-|---------|-------------|
-| [[00_Mapa_de_Poder_Global_A-Z\|Mapa A-Z]] | Índice alfabético completo de todos los nodos |
-| [[01 MOC - Base de Conocimiento\|Explorar por Categorías]] | Mapa de contenido organizado por temas |
-| [[00_INDEX_MAESTRO\|Índice Maestro]] | Vista general de toda la base de conocimiento |
+- 🗺️ [[00_Mapa_de_Poder_Global_A-Z|Mapa A-Z]] — Índice alfabético completo
+- 📂 [[01 MOC - Base de Conocimiento|Explorar por Categorías]] — Organizado por temas
+- 📋 [[00_INDEX_MAESTRO|Índice Maestro]] — Vista general de toda la base
 
 ---
 
-## 📂 Categorías Principales
+**Categorías principales:**
 
 - 🌐 [[00_MOC - Redes de Poder|Redes de Poder Global]]
 - 💰 [[00_MOC - Control Financiero|Control Financiero y CBDC]]
@@ -33,7 +32,4 @@ Bienvenido a la biblioteca de inteligencia forense de **Terapia Liberal**. Aquí
 
 ---
 
-## 📡 Seguinos
-
-- 🎬 [YouTube — @terapialiberal](https://www.youtube.com/@terapialiberal)
-- ❤️ [Patreon — Apoyá el proyecto](https://www.patreon.com/terapialiberal)
+🎬 [YouTube](https://www.youtube.com/@terapialiberal) · ❤️ [Patreon](https://www.patreon.com/terapialiberal)
