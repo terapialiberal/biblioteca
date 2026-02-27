@@ -1,3 +1,259 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+// ============================================================
+// TERAPIA LIBERAL — Identidad Visual Personalizada
+// Paleta: Dorado #d4af37 | Rojo #dc2626 | Negro #0a0a0a
+// ============================================================
+
+// Importar fuente Inter desde Google Fonts
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap");
+
+// ── Variables de marca ──────────────────────────────────────
+:root {
+  --tl-gold: #d4af37;
+  --tl-red: #dc2626;
+  --tl-black: #0a0a0a;
+  --tl-black-mid: #1a1a1a;
+  --tl-dark-card: #1f1f1f;
+  --tl-border: rgba(128, 128, 128, 0.3);
+  --tl-text-primary: #ffffff;
+  --tl-text-secondary: #e5e7eb;
+  --tl-text-muted: #9ca3af;
+  --tl-transition: 300ms ease-in-out;
+}
+
+// ── Fondo principal con gradiente negro ─────────────────────
+body {
+  background: linear-gradient(180deg, var(--tl-black) 0%, var(--tl-black-mid) 100%);
+  min-height: 100vh;
+  font-family: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+}
+
+// ── Título del sitio (sidebar izquierdo) ────────────────────
+.page-title a {
+  color: var(--tl-gold) !important;
+  font-weight: 700;
+  font-size: 1.4rem;
+  letter-spacing: 0.02em;
+  transition: color var(--tl-transition);
+
+  &:hover {
+    color: #e8c84a !important;
+    text-decoration: none;
+  }
+}
+
+// ── Encabezados ─────────────────────────────────────────────
+h1 {
+  color: var(--tl-text-primary);
+  font-weight: 700;
+}
+
+h2,
+h3 {
+  color: var(--tl-text-secondary);
+  font-weight: 600;
+}
+
+// ── Links ───────────────────────────────────────────────────
+a {
+  color: var(--tl-text-muted);
+  transition: color var(--tl-transition);
+
+  &:hover {
+    color: var(--tl-gold);
+    text-decoration: none;
+  }
+}
+
+// Links internos de contenido (wikilinks, etc.)
+.internal {
+  color: var(--tl-gold) !important;
+  border-bottom: 1px solid rgba(212, 175, 55, 0.3);
+  transition: all var(--tl-transition);
+
+  &:hover {
+    color: #e8c84a !important;
+    border-bottom-color: var(--tl-gold);
+  }
+}
+
+// ── Sidebar / Panel izquierdo ────────────────────────────────
+#quartz-body .sidebar.left {
+  background: rgba(17, 17, 17, 0.5);
+  border-right: 1px solid var(--tl-border);
+}
+
+// ── Explorador de archivos ───────────────────────────────────
+.explorer-content {
+  .folder-title,
+  .folder-button {
+    color: var(--tl-text-secondary);
+    font-weight: 600;
+    transition: color var(--tl-transition);
+
+    &:hover {
+      color: var(--tl-gold);
+    }
+  }
+
+  li > a {
+    color: var(--tl-text-muted);
+    transition: color var(--tl-transition);
+
+    &:hover {
+      color: var(--tl-gold);
+    }
+  }
+}
+
+// ── Barra de búsqueda ────────────────────────────────────────
+#search-bar {
+  background: var(--tl-dark-card);
+  border: 1px solid var(--tl-border);
+  border-radius: 8px;
+  color: var(--tl-text-secondary);
+  transition: border-color var(--tl-transition);
+
+  &:focus {
+    border-color: var(--tl-gold);
+    outline: none;
+    box-shadow: 0 0 0 2px rgba(212, 175, 55, 0.2);
+  }
+}
+
+// ── Tarjetas / Callouts ──────────────────────────────────────
+.callout {
+  background: rgba(31, 31, 31, 0.5);
+  border-radius: 16px;
+  border: 1px solid var(--tl-border);
+  backdrop-filter: blur(4px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+}
+
+// ── Tabla de contenidos ──────────────────────────────────────
+#toc-content {
+  a {
+    color: var(--tl-text-muted);
+    transition: color var(--tl-transition);
+
+    &:hover,
+    &.in-view {
+      color: var(--tl-gold);
+    }
+  }
+}
+
+// ── Backlinks ────────────────────────────────────────────────
+.backlinks {
+  ul li a {
+    color: var(--tl-text-muted);
+    transition: color var(--tl-transition);
+
+    &:hover {
+      color: var(--tl-gold);
+    }
+  }
+}
+
+// ── Tags ─────────────────────────────────────────────────────
+.tag-link,
+a[href^="/tags/"] {
+  background: rgba(212, 175, 55, 0.1);
+  border: 1px solid rgba(212, 175, 55, 0.3);
+  border-radius: 6px;
+  color: var(--tl-gold) !important;
+  padding: 0.15rem 0.5rem;
+  font-size: 0.8rem;
+  transition: all var(--tl-transition);
+
+  &:hover {
+    background: rgba(212, 175, 55, 0.2);
+    border-color: var(--tl-gold);
+    text-decoration: none;
+  }
+}
+
+// ── Grafo de conocimiento ────────────────────────────────────
+#graph-container {
+  background: rgba(17, 17, 17, 0.5);
+  border: 1px solid var(--tl-border);
+  border-radius: 12px;
+}
+
+// ── Código ───────────────────────────────────────────────────
+code {
+  background: rgba(31, 31, 31, 0.8);
+  border: 1px solid var(--tl-border);
+  border-radius: 4px;
+  color: #e8c84a;
+  font-family: "IBM Plex Mono", monospace;
+}
+
+pre {
+  background: var(--tl-dark-card) !important;
+  border: 1px solid var(--tl-border);
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+}
+
+// ── Tablas ───────────────────────────────────────────────────
+table {
+  border-collapse: collapse;
+  width: 100%;
+
+  th {
+    background: rgba(212, 175, 55, 0.1);
+    color: var(--tl-gold);
+    font-weight: 700;
+    border-bottom: 2px solid rgba(212, 175, 55, 0.3);
+    padding: 0.6rem 1rem;
+  }
+
+  td {
+    border-bottom: 1px solid var(--tl-border);
+    padding: 0.5rem 1rem;
+    color: var(--tl-text-secondary);
+  }
+
+  tr:hover td {
+    background: rgba(212, 175, 55, 0.05);
+  }
+}
+
+// ── Separadores ──────────────────────────────────────────────
+hr {
+  border: none;
+  border-top: 1px solid var(--tl-border);
+  margin: 2rem 0;
+}
+
+// ── Modo oscuro forzado (el sitio siempre es oscuro) ─────────
+.darkmode {
+  display: none !important;
+}
+
+// ── Scrollbar personalizada ──────────────────────────────────
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--tl-black);
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(212, 175, 55, 0.4);
+  border-radius: 3px;
+
+  &:hover {
+    background: var(--tl-gold);
+  }
+}
+
+// ── Selección de texto ───────────────────────────────────────
+::selection {
+  background: rgba(212, 175, 55, 0.3);
+  color: var(--tl-text-primary);
+}
