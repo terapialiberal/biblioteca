@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Terapia Liberal - Base de Conocimiento",
+    pageTitle: "Terapia Liberal",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
