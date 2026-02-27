@@ -5,6 +5,15 @@
 // Paleta: Dorado #d4af37 | Rojo #dc2626 | Negro #0a0a0a
 // ============================================================
 
+// ── Sidebar: eliminar espacio extra arriba del logo ──────────
+#quartz-body .sidebar.left {
+  padding-top: 1rem !important;
+}
+
+.sidebar.left > * {
+  margin-top: 0 !important;
+}
+
 // ── Variables de marca ──────────────────────────────────────
 :root {
   --tl-gold: #d4af37;
