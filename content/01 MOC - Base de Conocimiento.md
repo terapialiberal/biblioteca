@@ -1114,6 +1114,7 @@ Mapa maestro y índice de toda la Base de Conocimiento sobre Deep State, organiz
 > [!WARNING]
 > Notas que necesitan set clasificadas (falta `tipo` en frontmatter).
 
+- [[13_FAMILIAS_2024\|13_FAMILIAS_2024]]
 - [[Cartel de los Soles - Creacion CIA\|Cartel de los Soles - Creacion CIA]]
 - [[China busca orden mundial alternativo - US Commission\|China busca orden mundial alternativo - US Commission]]
 - [[Cómo encaja Myanmar en las nuevas rutas de la seda de China\|Cómo encaja Myanmar en las nuevas rutas de la seda de China]]
