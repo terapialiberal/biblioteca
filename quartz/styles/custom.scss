@@ -14,6 +14,48 @@
   margin-top: 0 !important;
 }
 
+// ── Cuerpo central: más margen izquierdo para separar del sidebar ──
+#quartz-body .center {
+  padding-left: 2rem !important;
+}
+
+@media (max-width: 800px) {
+  #quartz-body .center {
+    padding-left: 1rem !important;
+  }
+}
+
+// ── Títulos con color dorado/blanco ──────────────────────────
+article h1 {
+  color: #ffffff !important;
+  font-weight: 700;
+  border-bottom: 2px solid rgba(212, 175, 55, 0.3);
+  padding-bottom: 0.4rem;
+  margin-bottom: 1.2rem;
+}
+
+article h2 {
+  color: #d4af37 !important;
+  font-weight: 600;
+  border-left: 3px solid #d4af37;
+  padding-left: 0.7rem;
+  margin-top: 1.8rem;
+}
+
+article h3 {
+  color: #e5e7eb !important;
+  font-weight: 600;
+  border-left: 2px solid rgba(212, 175, 55, 0.4);
+  padding-left: 0.5rem;
+}
+
+article h4,
+article h5,
+article h6 {
+  color: #9ca3af !important;
+  font-weight: 600;
+}
+
 // ── Variables de marca ──────────────────────────────────────
 :root {
   --tl-gold: #d4af37;

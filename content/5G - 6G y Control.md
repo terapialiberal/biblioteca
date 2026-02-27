@@ -1,9 +1,6 @@
 ---
-titulo: "5G - 6G: La Infraestructura De Control Total"
----
----publish: true
+title: "5G - 6G: La Infraestructura De Control Total"
 tags: [5g, 6g, control, vigilancia]
-titulo: "5G - 6G: La Infraestructura De Control Total"
 tipo: concepto
 ---
 # 5G - 6G: La Infraestructura De Control Total
