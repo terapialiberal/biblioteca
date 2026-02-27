@@ -1,12 +1,15 @@
 ---
-titulo: 77th Brigade
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [77th, brigada, facebook, jtrig]
 publish: true
+created: 2026-01-29T19:17:05.901-03:00
+modified: 2026-02-27T13:22:08.169-03:00
+tags:
+  - 77th
+  - brigada
+  - facebook
+  - jtrig
+cssclasses: ""
 ---
+
 # 77th Brigade
 
 ## Resumen General

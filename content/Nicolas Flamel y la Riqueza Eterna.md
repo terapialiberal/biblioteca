@@ -1,12 +1,15 @@
 ---
-titulo: Nicolas Flamel — La Alquimia De La Riqueza Eterna
-tipo: concepto
-fecha: 2026-02-25
-tags: [eterna, flamel, nicolas, riqueza]
-tier-primario: "a"
-nivel-evidencia: "medio"
 publish: true
+created: 2026-02-25T22:08:55.951-03:00
+modified: 2026-02-27T13:23:29.020-03:00
+tags:
+  - eterna
+  - flamel
+  - nicolas
+  - riqueza
+cssclasses: ""
 ---
+
 
 # Nicolas Flamel — La Alquimia De La Riqueza Eterna
 

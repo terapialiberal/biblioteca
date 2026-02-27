@@ -1,12 +1,15 @@
 ---
-titulo: Asociación Médica Americana (AMA)
-tipo: organizacion
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [asociacin, mdica, pfizer, rockefeller]
 publish: true
+created: 2026-01-29T19:17:04.262-03:00
+modified: 2026-02-27T13:07:22.495-03:00
+tags:
+  - asociacin
+  - mdica
+  - pfizer
+  - rockefeller
+cssclasses: ""
 ---
+
 ![AMA Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/American_Medical_Association_logo.svg/200px-American_Medical_Association_logo.svg.png)
 # Asociación Médica Americana (AMA)
 

@@ -1,12 +1,15 @@
 ---
-titulo: Derecha Controlada
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [aipac, controlada, derecha, oposicin]
 publish: true
+created: 2026-01-29T19:17:10.026-03:00
+modified: 2026-02-27T13:22:29.085-03:00
+tags:
+  - aipac
+  - controlada
+  - derecha
+  - oposicin
+cssclasses: ""
 ---
+
 # Derecha Controlada
 
 ## Perfil TL (Resumen Ejecutivo)

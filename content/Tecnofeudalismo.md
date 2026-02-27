@@ -1,12 +1,14 @@
 ---
-titulo: Tecnofeudalismo
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [capitalismo, silicon, tecnofeudalismo]
 publish: true
+created: 2026-01-29T19:17:38.560-03:00
+modified: 2026-02-27T13:06:25.164-03:00
+tags:
+  - capitalismo
+  - silicon
+  - tecnofeudalismo
+cssclasses: ""
 ---
+
 # Tecnofeudalismo
 
 ## Resumen General

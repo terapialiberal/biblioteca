@@ -1,12 +1,14 @@
 ---
-titulo: El Establishment
-tipo: organizacion
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [establishment, goldman, mckinsey]
 publish: true
+created: 2026-01-29T19:17:11.262-03:00
+modified: 2026-02-27T13:06:29.886-03:00
+tags:
+  - establishment
+  - goldman
+  - mckinsey
+cssclasses: ""
 ---
+
 # El Establishment
 
 ## Perfil TL (Resumen Ejecutivo)
@@ -28,7 +30,7 @@ publish: true
 *   "Expertos independientes". "Consenso democrático". "El interés nacional". Términos usados para presentar los intereses privados de la clase dirigente como beneficios universales para la población.
 
 ## Conexiones Clave
-- [[Estado Profundo]] (Su socio en la sombra)
+- [[Estado profundo]] (Su socio en la sombra)
 - [[Foro Económico Mundial (WEF)]] (Su punto de encuentro global)
 - [[CFR (Council on Foreign Relations)]] (Su cerebro de política exterior)
 - [[Tecnofeudalismo]] (Su evolución actual)

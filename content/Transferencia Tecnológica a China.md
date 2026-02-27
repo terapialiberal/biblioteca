@@ -1,12 +1,15 @@
 ---
-titulo: Transferencia Tecnológica a China (Clinton/Loral)
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [bill, china, clinton, loral]
 publish: true
+created: 2026-01-29T19:17:40.887-03:00
+modified: 2026-02-27T13:24:04.791-03:00
+tags:
+  - bill
+  - china
+  - clinton
+  - loral
+cssclasses: ""
 ---
+
 # Transferencia Tecnológica a China (Clinton/Loral)
 
 ## Resumen Ejecutivo

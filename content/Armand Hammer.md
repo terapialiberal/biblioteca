@@ -1,12 +1,15 @@
 ---
-titulo: Armand Hammer
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [albert, armand, hammer, transferencia]
 publish: true
+created: 2026-01-29T19:17:03.888-03:00
+modified: 2026-02-27T13:06:27.755-03:00
+tags:
+  - albert
+  - armand
+  - hammer
+  - transferencia
+cssclasses: ""
 ---
+
 # Armand Hammer
 
 ## Resumen Ejecutivo

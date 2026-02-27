@@ -1,12 +1,13 @@
 ---
-titulo: Narrativas Del Apocalipsis
-tipo: "concepto"
-fecha: 2026-02-25
-tags: [apocalipsis, narrativas]
-tier-primario: "b"
-nivel-evidencia: "medio"
 publish: true
+created: 2026-02-25T22:08:33.276-03:00
+modified: 2026-02-27T13:23:27.060-03:00
+tags:
+  - apocalipsis
+  - narrativas
+cssclasses: ""
 ---
+
 
 # Narrativas Del Apocalipsis
 

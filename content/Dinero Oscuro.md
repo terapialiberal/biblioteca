@@ -1,12 +1,15 @@
 ---
-titulo: Resumen General
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [dinero, george, oscuro, robert]
 publish: true
+created: 2026-01-29T19:17:10.308-03:00
+modified: 2026-02-27T13:07:38.249-03:00
+tags:
+  - dinero
+  - george
+  - oscuro
+  - robert
+cssclasses: ""
 ---
+
 # Resumen General
 "Dark Money" refiere a fondos políticos cuya fuente no es públicamente divulgada. A través de organizaciones 501(c)(4) y Super PACs, billonarios y corporaciones pueden influir en elecciones sin revelar su identidad.
 

@@ -1,12 +1,15 @@
 ---
-titulo: Boring Company (Hubs Logísticos)
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [boring, company, elon, hubs]
 publish: true
+created: 2026-02-09T17:33:10.771-03:00
+modified: 2026-02-27T13:22:07.233-03:00
+tags:
+  - boring
+  - company
+  - elon
+  - hubs
+cssclasses: ""
 ---
+
 # [[Boring Company (Hubs Logísticos)]]
 
 **Clasificación:** Tier B (Logística Subterránea Autónoma)  

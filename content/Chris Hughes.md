@@ -1,12 +1,15 @@
 ---
-titulo: Chris Hughes
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [chris, facebook, hughes, mark]
 publish: true
+created: 2026-01-29T19:17:07.580-03:00
+modified: 2026-02-27T13:07:34.325-03:00
+tags:
+  - chris
+  - facebook
+  - hughes
+  - mark
+cssclasses: ""
 ---
+
 # Chris Hughes
 
 > [!INFO] Perfil Operativo (Tier B)

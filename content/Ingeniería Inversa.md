@@ -1,12 +1,15 @@
 ---
-titulo: Ingeniería Inversa (Método De Análisis)
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [dialctica, inversa, mtodo, problema]
 publish: true
+created: 2026-01-29T19:17:18.428-03:00
+modified: 2026-02-27T13:22:56.464-03:00
+tags:
+  - dialctica
+  - inversa
+  - mtodo
+  - problema
+cssclasses: ""
 ---
+
 # Ingeniería Inversa (Método De Análisis)
 
 ## Perfil TL (Resumen Ejecutivo)

@@ -1,12 +1,13 @@
 ---
-titulo: TikTok Gnosis (Atención)
-tipo: "concepto"
-fecha: 2026-02-25
-tags: [gnosis, tiktok]
-tier-primario: "b"
-nivel-evidencia: "medio"
 publish: true
+created: 2026-02-25T22:08:51.702-03:00
+modified: 2026-02-27T13:24:03.955-03:00
+tags:
+  - gnosis
+  - tiktok
+cssclasses: ""
 ---
+
 
 # TikTok Gnosis (Atención)
 

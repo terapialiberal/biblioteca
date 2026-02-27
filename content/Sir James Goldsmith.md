@@ -1,12 +1,15 @@
 ---
-titulo: "Sir James Goldsmith (v2.0): El Maverick De La Disidencia Élite"
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [disidencia, gatt, james, maverick]
 publish: true
+created: 2026-01-29T19:17:36.943-03:00
+modified: 2026-02-27T13:23:56.023-03:00
+tags:
+  - disidencia
+  - gatt
+  - james
+  - maverick
+cssclasses: ""
 ---
+
 # Sir James Goldsmith (v2.0): El Maverick De La Disidencia Élite
 
 > [!ABSTRACT] Hipótesis Informativa

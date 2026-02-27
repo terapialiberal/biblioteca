@@ -1,12 +1,15 @@
 ---
-titulo: "Bitcoin: La Salida"
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [bitcoin, blackrock, brics, salida]
 publish: true
+created: 2026-01-29T19:17:05.496-03:00
+modified: 2026-02-27T13:22:05.220-03:00
+tags:
+  - bitcoin
+  - blackrock
+  - brics
+  - salida
+cssclasses: ""
 ---
+
 # Bitcoin: La Salida
 
 ## Resumen General

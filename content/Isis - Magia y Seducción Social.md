@@ -1,12 +1,15 @@
 ---
-titulo: Isis - Magia Y Seducción Social (El Velo Del Sistema)
-tipo: "concepto"
-fecha: 2026-02-25
-tags: [isis, magia, seduccin, social]
-tier-primario: "a"
-nivel-evidencia: "alto"
 publish: true
+created: 2026-02-25T22:28:36.359-03:00
+modified: 2026-02-27T13:22:57.904-03:00
+tags:
+  - isis
+  - magia
+  - seduccin
+  - social
+cssclasses: ""
 ---
+
 
 # Isis - Magia Y Seducción Social (El Velo Del Sistema)
 

@@ -1,12 +1,13 @@
 ---
-titulo: Resonancia Schuman
-tipo: persona
-fecha: 2026-02-25
-tags: [resonancia, schuman]
-tier-primario: "b"
-nivel-evidencia: "medio"
 publish: true
+created: 2026-02-25T22:08:33.170-03:00
+modified: 2026-02-27T13:23:49.229-03:00
+tags:
+  - resonancia
+  - schuman
+cssclasses: ""
 ---
+
 
 # Resonancia Schuman
 

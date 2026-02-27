@@ -1,12 +1,15 @@
 ---
-titulo: Eduardo Eurnekian
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [corporacin, eduardo, eurnekian, javier]
 publish: true
+created: 2026-01-29T19:17:10.983-03:00
+modified: 2026-02-27T13:22:32.457-03:00
+tags:
+  - corporacin
+  - eduardo
+  - eurnekian
+  - javier
+cssclasses: ""
 ---
+
 # Eduardo Eurnekian
 
 ## Perfil TL (Resumen Ejecutivo)

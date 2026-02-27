@@ -1,12 +1,15 @@
 ---
-titulo: China Vs Soros
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [brics, china, george, soros]
 publish: true
+created: 2026-01-29T19:17:07.530-03:00
+modified: 2026-02-27T13:22:18.666-03:00
+tags:
+  - brics
+  - china
+  - george
+  - soros
+cssclasses: ""
 ---
+
 # China Vs Soros
 
 ## Resumen General

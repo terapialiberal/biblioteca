@@ -1,12 +1,15 @@
 ---
 publish: true
-titulo: American Enterprise Institute (AEI)
-tipo: organizacion
-fecha: 2026-02-25
-tier-primario: b
-nivel-evidencia: medio
-tags: [american, enterprise, institute, richard]
+created: 2026-01-29T19:17:03.429-03:00
+modified: 2026-02-27T11:53:45.502-03:00
+tags:
+  - american
+  - enterprise
+  - institute
+  - richard
+cssclasses: ""
 ---
+
 # American Enterprise Institute (AEI)
 
 ## Resumen Ejecutivo

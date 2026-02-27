@@ -1,12 +1,15 @@
 ---
-titulo: Henry Kissinger
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [golpe, henry, kissinger, operacin]
 publish: true
+created: 2026-01-29T19:17:16.957-03:00
+modified: 2026-02-27T13:07:20.740-03:00
+tags:
+  - golpe
+  - henry
+  - kissinger
+  - operacin
+cssclasses: ""
 ---
+
 # Henry Kissinger
 
 ## Perfil TL (Resumen Ejecutivo)

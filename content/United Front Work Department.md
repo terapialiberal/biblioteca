@@ -1,12 +1,15 @@
 ---
-titulo: United Front Work Department (UFWD)
-tipo: organizacion
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [brics, department, infiltracin, ufwd]
 publish: true
+created: 2026-01-29T19:17:42.336-03:00
+modified: 2026-02-27T13:06:47.501-03:00
+tags:
+  - brics
+  - department
+  - infiltracin
+  - ufwd
+cssclasses: ""
 ---
+
 # United Front Work Department (UFWD)
 
 ## Resumen General

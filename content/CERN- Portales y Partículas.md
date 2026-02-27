@@ -1,12 +1,15 @@
 ---
-titulo: "CERN: Portales Y Partículas"
-tipo: concepto
-fecha: 2026-02-25
-tags: [gematra, partculas, portales, shiva]
-tier-primario: "a"
-nivel-evidencia: "bajo"
 publish: true
+created: 2026-02-25T22:08:55.710-03:00
+modified: 2026-02-27T13:22:17.716-03:00
+tags:
+  - gematra
+  - partculas
+  - portales
+  - shiva
+cssclasses: ""
 ---
+
 
 # CERN: Portales Y Partículas
 

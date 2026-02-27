@@ -1,12 +1,15 @@
 ---
-titulo: Charlie Hebdo (Ataques 2015)
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [ataques, charlie, guerra, hebdo]
 publish: true
+created: 2026-01-29T19:17:07.396-03:00
+modified: 2026-02-27T13:06:29.861-03:00
+tags:
+  - ataques
+  - charlie
+  - guerra
+  - hebdo
+cssclasses: ""
 ---
+
 # Charlie Hebdo (Ataques 2015)
 
 ## Perfil TL (Resumen Ejecutivo)

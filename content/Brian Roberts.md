@@ -1,12 +1,14 @@
 ---
-titulo: Brian Roberts
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [brian, msnbc, roberts]
 publish: true
+created: 2026-01-29T19:17:05.859-03:00
+modified: 2026-02-27T13:07:46.239-03:00
+tags:
+  - brian
+  - msnbc
+  - roberts
+cssclasses: ""
 ---
+
 # Brian Roberts
 
 > [!INFO] Perfil Operativo (Tier A)

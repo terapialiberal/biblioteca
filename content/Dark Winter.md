@@ -1,12 +1,15 @@
 ---
-titulo: Dark Winter (Operación Invierno Oscuro)
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [ataques, dark, evento, invierno]
 publish: true
+created: 2026-01-29T19:17:09.671-03:00
+modified: 2026-02-27T13:06:55.024-03:00
+tags:
+  - ataques
+  - dark
+  - evento
+  - invierno
+cssclasses: ""
 ---
+
 # Dark Winter (Operación Invierno Oscuro)
 
 ## Perfil TL (Resumen Ejecutivo)

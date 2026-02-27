@@ -1,12 +1,13 @@
 ---
-titulo: El Mercurio De Los Sabios (Capital Flotante)
-tipo: "concepto"
-fecha: 2026-02-25
-tags: [mercurio, sabios]
-tier-primario: "b"
-nivel-evidencia: "medio"
 publish: true
+created: 2026-02-25T22:08:51.421-03:00
+modified: 2026-02-27T13:22:35.558-03:00
+tags:
+  - mercurio
+  - sabios
+cssclasses: ""
 ---
+
 
 # El Mercurio De Los Sabios (Capital Flotante)
 

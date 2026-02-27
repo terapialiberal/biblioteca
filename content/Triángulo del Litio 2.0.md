@@ -1,12 +1,15 @@
 ---
-titulo: "Triángulo Del Litio 2.0: El Chokepoint De La Transición Energética"
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [chokepoint, litio, puerto, transicin]
 publish: true
+created: 2026-02-25T14:01:04.603-03:00
+modified: 2026-02-27T13:24:06.137-03:00
+tags:
+  - chokepoint
+  - litio
+  - puerto
+  - transicin
+cssclasses: ""
 ---
+
 # Triángulo Del Litio 2.0: El Chokepoint De La Transición Energética
 
 > [!ABSTRACT] BLUF (Bottom Line Up Front)

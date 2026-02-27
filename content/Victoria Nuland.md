@@ -1,12 +1,15 @@
 ---
-titulo: Victoria Nuland
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [nuland, proyecto, robert, victoria]
 publish: true
+created: 2026-01-29T19:17:43.084-03:00
+modified: 2026-02-27T13:06:56.621-03:00
+tags:
+  - nuland
+  - proyecto
+  - robert
+  - victoria
+cssclasses: ""
 ---
+
 # Victoria Nuland
 
 ## Resumen Ejecutivo

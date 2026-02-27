@@ -1,12 +1,15 @@
 ---
-titulo: Mario Ishii
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [barones, ishii, mario, narcotrfico]
 publish: true
+created: 2026-01-29T19:17:24.025-03:00
+modified: 2026-02-27T13:07:29.348-03:00
+tags:
+  - barones
+  - ishii
+  - mario
+  - narcotrfico
+cssclasses: ""
 ---
+
 # Mario Ishii
 
 ## Resumen Ejecutivo

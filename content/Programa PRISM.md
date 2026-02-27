@@ -30,7 +30,7 @@ publish: true
 - [[NSA]]: La agencia ejecutora.
 - [[Google (Orígenes)]] / [[Facebook (Orígenes)]] / [[Microsoft]]: Los nodos de extracción.
 - [[XKeyscore]]: El motor de búsqueda que utiliza los datos de PRISM.
-- [[Echelon]]: El precursor de la vigilancia global.
+- [[ECHELON]]: El precursor de la vigilancia global.
 
 ## Conclusión Del Análisis
 PRISM nos enseña que **si es gratis y está en la nube, es propiedad del Estado**. El programa destruyó el mito de la privacidad en internet y demostró que las fronteras entre el poder corporativo de Silicon Valley y el poder militar de Maryland han desaparecido. Para el habitante soberano del Tier C, PRISM es el mandato de la **Desconexión y Encriptación Extrema**: si no posees físicamente tus datos y tus claves, tus pensamientos digitales pertenecen a la NSA por defecto.

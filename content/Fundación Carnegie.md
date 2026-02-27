@@ -1,12 +1,15 @@
 ---
-titulo: Carnegie Endowment
-tipo: organizacion
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [carnegie, comit, endowment, fundacin]
 publish: true
+created: 2026-01-29T19:17:14.417-03:00
+modified: 2026-02-27T13:06:48.343-03:00
+tags:
+  - carnegie
+  - comit
+  - endowment
+  - fundacin
+cssclasses: ""
 ---
+
 # Carnegie Endowment
 
 ## Perfil TL (Resumen Ejecutivo)

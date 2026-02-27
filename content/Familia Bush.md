@@ -1,12 +1,15 @@
 ---
-titulo: "Familia Bush: La Dinastía Del Estado Profundo"
-tipo: organizacion
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [bush, dinasta, estado, skull]
 publish: true
+created: 2026-01-29T19:17:13.199-03:00
+modified: 2026-02-27T13:22:41.341-03:00
+tags:
+  - bush
+  - dinasta
+  - estado
+  - skull
+cssclasses: ""
 ---
+
 # Familia Bush: La Dinastía Del Estado Profundo
 
 > [!ABSTRACT] Hipótesis Informativa

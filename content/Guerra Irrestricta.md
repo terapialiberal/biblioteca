@@ -1,12 +1,15 @@
 ---
-titulo: Guerra Irrestricta (Unrestricted Warfare)
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [guerra, irrestricta, lawfare, warfare]
 publish: true
+created: 2026-01-29T19:17:16.453-03:00
+modified: 2026-02-27T13:06:18.865-03:00
+tags:
+  - guerra
+  - irrestricta
+  - lawfare
+  - warfare
+cssclasses: ""
 ---
+
 # Guerra Irrestricta (Unrestricted Warfare)
 
 ## Perfil TL (Resumen Ejecutivo)

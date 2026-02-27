@@ -1,12 +1,15 @@
 ---
-titulo: Mena Arkansas
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [arkansas, barry, irn, mena]
 publish: true
+created: 2026-01-29T19:17:24.662-03:00
+modified: 2026-02-27T13:06:47.548-03:00
+tags:
+  - arkansas
+  - barry
+  - irn
+  - mena
+cssclasses: ""
 ---
+
 # Mena Arkansas
 
 > **Perfil TL:** El aeropuerto rural donde la CIA traficaba cocaína cuando Bill Clinton era gobernador.

@@ -1,12 +1,13 @@
 ---
-titulo: Fractalidad De La Deuda
-tipo: "concepto"
-fecha: 2026-02-25
-tags: [deuda, fractalidad]
-tier-primario: "b"
-nivel-evidencia: "medio"
 publish: true
+created: 2026-02-25T22:08:57.719-03:00
+modified: 2026-02-27T13:22:44.283-03:00
+tags:
+  - deuda
+  - fractalidad
+cssclasses: ""
 ---
+
 
 # Fractalidad De La Deuda
 

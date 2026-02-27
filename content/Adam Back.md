@@ -1,12 +1,15 @@
 ---
 publish: true
-titulo: Adam Back
-tipo: persona
-fecha: 2026-02-25
-tier-primario: b
-nivel-evidencia: medio
-tags: [adam, back, blockstream, satoshi]
+created: 2026-01-29T19:17:02.831-03:00
+modified: 2026-02-27T08:35:14.206-03:00
+tags:
+  - adam
+  - back
+  - blockstream
+  - satoshi
+cssclasses: ""
 ---
+
 # Adam Back
 
 > [!INFO] Perfil Operativo (Tier B)

@@ -1,12 +1,15 @@
 ---
-titulo: Victoria Villarruel
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [javier, naciones, victoria, villarruel]
 publish: true
+created: 2026-01-29T19:17:43.119-03:00
+modified: 2026-02-27T13:06:29.005-03:00
+tags:
+  - javier
+  - naciones
+  - victoria
+  - villarruel
+cssclasses: ""
 ---
+
 # Victoria Villarruel
 
 ## Resumen General

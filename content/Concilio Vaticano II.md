@@ -1,12 +1,15 @@
 ---
-titulo: Concilio Vaticano II
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [concilio, jesuits, masonera, vaticano]
 publish: true
+created: 2026-01-29T19:17:08.522-03:00
+modified: 2026-02-27T13:22:22.028-03:00
+tags:
+  - concilio
+  - jesuits
+  - masonera
+  - vaticano
+cssclasses: ""
 ---
+
 ![Vatican II](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Council_Vatican_II_Tanjug.jpg/220px-Council_Vatican_II_Tanjug.jpg)
 # Concilio Vaticano II
 

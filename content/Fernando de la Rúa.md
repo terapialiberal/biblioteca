@@ -1,12 +1,14 @@
 ---
-titulo: Fernando De La Rúa
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [crisis, domingo, fernando]
 publish: true
+created: 2026-01-29T19:17:13.613-03:00
+modified: 2026-02-27T13:22:43.521-03:00
+tags:
+  - crisis
+  - domingo
+  - fernando
+cssclasses: ""
 ---
+
 # Fernando De La Rúa
 
 ## Perfil TL (Resumen Ejecutivo)

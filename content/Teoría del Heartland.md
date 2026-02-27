@@ -1,12 +1,14 @@
 ---
-titulo: Teoría Del Heartland
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [heartland, teora, zbigniew]
 publish: true
+created: 2026-01-29T19:17:39.046-03:00
+modified: 2026-02-27T13:07:05.917-03:00
+tags:
+  - heartland
+  - teora
+  - zbigniew
+cssclasses: ""
 ---
+
 # Teoría Del Heartland
 
 ## Resumen Ejecutivo

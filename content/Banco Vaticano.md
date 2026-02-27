@@ -1,12 +1,14 @@
 ---
-titulo: Banco Vaticano (IOR)
-tipo: empresa
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [banco, mafia, vaticano]
 publish: true
+created: 2026-01-29T19:17:04.777-03:00
+modified: 2026-02-27T13:22:03.153-03:00
+tags:
+  - banco
+  - mafia
+  - vaticano
+cssclasses: ""
 ---
+
 # Banco Vaticano (IOR)
 
 ## Perfil TL (Resumen Ejecutivo)

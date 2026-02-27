@@ -1,12 +1,15 @@
 ---
-titulo: Allen Dulles
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [allen, dulles, john, paperclip]
 publish: true
+created: 2026-01-29T19:17:03.363-03:00
+modified: 2026-02-27T13:07:02.397-03:00
+tags:
+  - allen
+  - dulles
+  - john
+  - paperclip
+cssclasses: ""
 ---
+
 # Allen Dulles
 
 ## Perfil TL (Resumen Ejecutivo)

@@ -1,12 +1,15 @@
 ---
-titulo: Mercado De Acciones — La Democratización De La Captura
-tipo: "concepto"
-fecha: 2026-02-25
-tags: [acciones, democratizacin, derivados, mercado]
-tier-primario: "a"
-nivel-evidencia: "alto"
 publish: true
+created: 2026-02-25T22:50:20.067-03:00
+modified: 2026-02-27T13:23:21.429-03:00
+tags:
+  - acciones
+  - democratizacin
+  - derivados
+  - mercado
+cssclasses: ""
 ---
+
 
 # Mercado De Acciones — La Democratización De La Captura
 

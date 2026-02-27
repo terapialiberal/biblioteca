@@ -1,12 +1,15 @@
 ---
-titulo: Michael Aquino
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [aquino, escndalo, michael, temple]
 publish: true
+created: 2026-01-29T19:17:24.911-03:00
+modified: 2026-02-27T13:06:31.189-03:00
+tags:
+  - aquino
+  - escndalo
+  - michael
+  - temple
+cssclasses: ""
 ---
+
 # Michael Aquino
 
 > [!INFO] Perfil Operativo (Tier B)

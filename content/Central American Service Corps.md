@@ -1,12 +1,15 @@
 ---
-titulo: Central American Service Corps
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [american, central, service, usaid]
 publish: true
+created: 2026-02-09T17:33:13.288-03:00
+modified: 2026-02-27T13:22:17.669-03:00
+tags:
+  - american
+  - central
+  - service
+  - usaid
+cssclasses: ""
 ---
+
 # [[Central American Service Corps]]
 
 **Clasificación:** Tier B (Gestión de Población / Contención Migratoria)  

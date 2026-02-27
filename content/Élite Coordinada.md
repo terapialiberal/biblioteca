@@ -1,12 +1,15 @@
 ---
-titulo: Resumen General
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [bilderberg, comisin, coordinada, lite]
 publish: true
+created: 2026-01-29T19:17:45.068-03:00
+modified: 2026-02-27T13:06:28.311-03:00
+tags:
+  - bilderberg
+  - comisin
+  - coordinada
+  - lite
+cssclasses: ""
 ---
+
 # Resumen General
 No have falta una "conspiración" centralizada para que las élites actúen coordinadamente. Intereses compartidos, educación común, círculos sociales exclusivos y selección de clase producen comportamiento coordinado sin necesidad de reuniones secretas.
 

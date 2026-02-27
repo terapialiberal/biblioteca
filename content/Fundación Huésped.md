@@ -1,12 +1,15 @@
 ---
-titulo: Fundación Huésped (Biopolítica Local)
-tipo: organizacion
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [fundacin, husped, local, organizacin]
 publish: true
+created: 2026-01-29T19:17:14.479-03:00
+modified: 2026-02-27T13:07:27.284-03:00
+tags:
+  - fundacin
+  - husped
+  - local
+  - organizacin
+cssclasses: ""
 ---
+
 # Fundación Huésped (Biopolítica Local)
 
 ## Perfil TL (Resumen Ejecutivo)

@@ -1,12 +1,14 @@
 ---
-titulo: ALEX KARP (v12_1)
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [alex, karp, palantir]
 publish: true
+created: 2026-01-29T19:17:03.238-03:00
+modified: 2026-02-27T13:21:58.471-03:00
+tags:
+  - alex
+  - karp
+  - palantir
+cssclasses: ""
 ---
+
 # ALEX KARP (v12_1)
 
 #### BLUF

@@ -1,12 +1,15 @@
 ---
-titulo: Banca En La Sombra — El Sistema Financiero Paralelo (Shadow Banking)
-tipo: "concepto"
-fecha: 2026-02-25
-tags: [financiero, paralelo, sistema, tokenizacin]
-tier-primario: "a"
-nivel-evidencia: "alto"
 publish: true
+created: 2026-02-25T22:47:13.532-03:00
+modified: 2026-02-27T13:22:02.427-03:00
+tags:
+  - financiero
+  - paralelo
+  - sistema
+  - tokenizacin
+cssclasses: ""
 ---
+
 
 # Banca En La Sombra — El Sistema Financiero Paralelo (Shadow Banking)
 

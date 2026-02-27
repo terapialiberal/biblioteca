@@ -1,12 +1,15 @@
 ---
-titulo: SOCIAL CREDIT WEST (v12_1)
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "a"
-nivel-evidencia: "alto"
-tags: [bajo, credit, disfraz, sector]
 publish: true
+created: 2026-02-25T16:10:42.672-03:00
+modified: 2026-02-27T13:23:58.036-03:00
+tags:
+  - bajo
+  - credit
+  - disfraz
+  - sector
+cssclasses: ""
 ---
+
 # SOCIAL CREDIT WEST (v12_1)
 
 #### BLUF

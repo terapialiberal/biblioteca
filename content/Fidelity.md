@@ -1,12 +1,15 @@
 ---
-titulo: "Fidelity: El Poder Privado En La Sombra"
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [bitcoin, blackrock, fidelity, poder]
 publish: true
+created: 2026-01-29T19:17:13.680-03:00
+modified: 2026-02-27T13:22:43.572-03:00
+tags:
+  - bitcoin
+  - blackrock
+  - fidelity
+  - poder
+cssclasses: ""
 ---
+
 # Fidelity: El Poder Privado En La Sombra
 
 > [!ABSTRACT] Hipótesis Informativa

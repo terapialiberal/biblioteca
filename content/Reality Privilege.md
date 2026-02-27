@@ -1,12 +1,15 @@
 ---
-titulo: REALITY PRIVILEGE (v12_1)
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "a"
-nivel-evidencia: "alto"
-tags: [apartheid, reality, sector, virtual]
 publish: true
+created: 2026-02-25T16:12:41.152-03:00
+modified: 2026-02-27T13:23:47.533-03:00
+tags:
+  - apartheid
+  - reality
+  - sector
+  - virtual
+cssclasses: ""
 ---
+
 # REALITY PRIVILEGE (v12_1)
 
 #### BLUF

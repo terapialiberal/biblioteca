@@ -1,12 +1,15 @@
 ---
-titulo: Codex Alimentarius
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [alimentarius, codex, monsanto, organizacin]
 publish: true
+created: 2026-01-29T19:17:08.120-03:00
+modified: 2026-02-27T13:22:20.153-03:00
+tags:
+  - alimentarius
+  - codex
+  - monsanto
+  - organizacin
+cssclasses: ""
 ---
+
 # Codex Alimentarius
 
 ## Resumen Ejecutivo

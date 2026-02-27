@@ -1,12 +1,13 @@
 ---
-titulo: Solsticios Operativos
-tipo: persona
-fecha: 2026-02-25
-tags: [operativos, solsticios]
-tier-primario: "b"
-nivel-evidencia: "medio"
 publish: true
+created: 2026-02-25T22:08:57.132-03:00
+modified: 2026-02-27T13:23:58.991-03:00
+tags:
+  - operativos
+  - solsticios
+cssclasses: ""
 ---
+
 
 # Solsticios Operativos
 

@@ -1,12 +1,15 @@
 ---
-titulo: Resumen General
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [donald, elon, ramaswamy, vivek]
 publish: true
+created: 2026-01-29T19:17:43.403-03:00
+modified: 2026-02-27T13:06:43.379-03:00
+tags:
+  - donald
+  - elon
+  - ramaswamy
+  - vivek
+cssclasses: ""
 ---
+
 # Resumen General
 Vivek Ramaswamy (1985-) es un empresario y político que compitió por la nominación republicana 2024. Fundador de Roivant Sciences (biotech), se posicionó como candidato "anti-woke" y luego se alineó con Trump.
 

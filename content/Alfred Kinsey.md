@@ -1,12 +1,16 @@
 ---
-titulo: Resumen General
-tipo: persona
-fecha: 2026-02-25
-tier-primario: b
-nivel-evidencia: medio
-tags: [kinsey, alfred, fundación, ingeniería, v12_1]
 publish: true
+created: 2026-01-29T19:17:03.250-03:00
+modified: 2026-02-26T16:08:46.521-03:00
+tags:
+  - kinsey
+  - alfred
+  - fundación
+  - ingeniería
+  - v12_1
+cssclasses: ""
 ---
+
 # Resumen General
 Alfred Kinsey fue un entomólogo que, financiado por la Fundación Rockefeller, publicó los "Informes Kinsey" (1948/1953) sobre sexualidad humana. Estos estudios sentaron la base de la Revolución Sexual, normalizando comportamientos marginales. Décadas después, se reveló que usó datos de pedófilos activos y abusadores de niños para sus "estadísticas" sobre sexualidad infantil.
 

@@ -1,12 +1,12 @@
 ---
-titulo: Escatología De La IA
-tipo: "concepto"
-fecha: 2026-02-25
-tags: [escatologa]
-tier-primario: "b"
-nivel-evidencia: "medio"
 publish: true
+created: 2026-02-25T22:08:52.337-03:00
+modified: 2026-02-27T13:22:39.249-03:00
+tags:
+  - escatologa
+cssclasses: ""
 ---
+
 
 # Escatología De La IA
 

@@ -1,12 +1,15 @@
 ---
-titulo: Eyes Wide Shut
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [bohemian, eyes, shut, stanley]
 publish: true
+created: 2026-01-29T19:17:12.951-03:00
+modified: 2026-02-27T13:06:36.132-03:00
+tags:
+  - bohemian
+  - eyes
+  - shut
+  - stanley
+cssclasses: ""
 ---
+
 ![Eyes Wide Shut](https://upload.wikimedia.org/wikipedia/en/8/87/Eyes_Wide_Shut_poster.jpg/220px-Eyes_Wide_Shut_poster.jpg)
 # Eyes Wide Shut
 

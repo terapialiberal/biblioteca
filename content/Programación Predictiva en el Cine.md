@@ -1,12 +1,15 @@
 ---
-titulo: Programación Predictiva En El Cine
-tipo: organizacion
-fecha: 2026-02-25
-tags: [cine, hollywood, predictiva, programacin]
-tier-primario: "b"
-nivel-evidencia: "alto"
 publish: true
+created: 2026-02-25T22:08:32.233-03:00
+modified: 2026-02-27T13:23:43.934-03:00
+tags:
+  - cine
+  - hollywood
+  - predictiva
+  - programacin
+cssclasses: ""
 ---
+
 
 # Programación Predictiva En El Cine
 

@@ -1,12 +1,13 @@
 ---
-titulo: Noblezas Negras - Los Dueños Del Relato Europeo
-tipo: persona
-fecha: 2026-02-25
-tags: [negras, noblezas]
-tier-primario: "a"
-nivel-evidencia: "alto"
 publish: true
+created: 2026-02-25T22:24:38.308-03:00
+modified: 2026-02-27T13:23:30.610-03:00
+tags:
+  - negras
+  - noblezas
+cssclasses: ""
 ---
+
 
 # Noblezas Negras - Los Dueños Del Relato Europeo
 

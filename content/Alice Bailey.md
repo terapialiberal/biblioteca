@@ -1,12 +1,15 @@
 ---
-titulo: Alice Bailey
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [agenda, alice, bailey, teosofa]
 publish: true
+created: 2026-01-29T19:17:03.339-03:00
+modified: 2026-02-27T13:07:37.396-03:00
+tags:
+  - agenda
+  - alice
+  - bailey
+  - teosofa
+cssclasses: ""
 ---
+
 # Alice Bailey
 
 ## Perfil TL (Resumen Ejecutivo)

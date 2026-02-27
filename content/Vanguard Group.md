@@ -1,12 +1,15 @@
 ---
-titulo: "Vanguard Group: La Materia Oscura (Nivel 1 / Tier A)"
-tipo: empresa
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [blackrock, materia, oscura, vanguard]
 publish: true
+created: 2026-01-29T19:17:42.828-03:00
+modified: 2026-02-27T13:24:07.614-03:00
+tags:
+  - blackrock
+  - materia
+  - oscura
+  - vanguard
+cssclasses: ""
 ---
+
 # Vanguard Group: La Materia Oscura (Nivel 1 / Tier A)
 
 > [!ABSTRACT] Hipótesis Informativa

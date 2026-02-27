@@ -1,12 +1,15 @@
 ---
-titulo: LAB-GROWN MEAT (v12_1)
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "a"
-nivel-evidencia: "alto"
-tags: [bill, grown, meat, protena]
 publish: true
+created: 2026-02-25T15:44:51.382-03:00
+modified: 2026-02-27T13:23:10.319-03:00
+tags:
+  - bill
+  - grown
+  - meat
+  - protena
+cssclasses: ""
 ---
+
 # LAB-GROWN MEAT (v12_1)
 
 #### BLUF

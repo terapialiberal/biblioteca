@@ -1,12 +1,15 @@
 ---
-titulo: "Cyber Polygon: La Simulación De Ciberataque Global"
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [ciberataque, global, simulacin, world]
 publish: true
+created: 2026-01-29T19:17:09.434-03:00
+modified: 2026-02-27T13:22:26.836-03:00
+tags:
+  - ciberataque
+  - global
+  - simulacin
+  - world
+cssclasses: ""
 ---
+
 # Cyber Polygon: La Simulación De Ciberataque Global
 
 > [!ABSTRACT] Hipótesis Informativa

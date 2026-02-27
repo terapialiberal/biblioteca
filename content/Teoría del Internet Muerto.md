@@ -1,12 +1,15 @@
 ---
-titulo: Teoría Del Internet Muerto (Dead Internet Theory)
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [dead, naciones, panptico, theory]
 publish: true
+created: 2026-01-29T19:17:39.129-03:00
+modified: 2026-02-27T13:06:32.093-03:00
+tags:
+  - dead
+  - naciones
+  - panptico
+  - theory
+cssclasses: ""
 ---
+
 # Teoría Del Internet Muerto (Dead Internet Theory)
 
 ## Resumen General

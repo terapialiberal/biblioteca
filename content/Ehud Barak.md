@@ -1,12 +1,15 @@
 ---
-titulo: Ehud Barak
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [barak, edmond, ehud, jeffrey]
 publish: true
+created: 2026-01-29T19:17:11.160-03:00
+modified: 2026-02-27T13:22:33.107-03:00
+tags:
+  - barak
+  - edmond
+  - ehud
+  - jeffrey
+cssclasses: ""
 ---
+
 # Ehud Barak
 
 ## Perfil TL (Resumen Ejecutivo)

@@ -1,12 +1,15 @@
 ---
-titulo: The Truman Show (El Panóptico De La Complacencia)
-tipo: persona
-fecha: 2026-02-25
-tags: [iniciacin, show, truman, ventana]
-tier-primario: "b"
-nivel-evidencia: "alto"
 publish: true
+created: 2026-02-25T22:32:36.126-03:00
+modified: 2026-02-27T13:24:03.157-03:00
+tags:
+  - iniciacin
+  - show
+  - truman
+  - ventana
+cssclasses: ""
 ---
+
 
 # The Truman Show (El Panóptico De La Complacencia)
 

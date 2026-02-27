@@ -1,12 +1,15 @@
 ---
-titulo: Banco Mundial (World Bank)
-tipo: empresa
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [banco, mundial, robert, world]
 publish: true
+created: 2026-01-29T19:17:04.763-03:00
+modified: 2026-02-27T13:22:03.146-03:00
+tags:
+  - banco
+  - mundial
+  - robert
+  - world
+cssclasses: ""
 ---
+
 # Banco Mundial (World Bank)
 
 ## Perfil TL (Resumen Ejecutivo)

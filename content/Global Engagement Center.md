@@ -1,12 +1,15 @@
 ---
-titulo: Global Engagement Center (GEC)
-tipo: organizacion
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [center, departamento, engagement, global]
 publish: true
+created: 2026-01-29T19:17:15.509-03:00
+modified: 2026-02-27T13:22:47.892-03:00
+tags:
+  - center
+  - departamento
+  - engagement
+  - global
+cssclasses: ""
 ---
+
 # Global Engagement Center (GEC)
 
 ## Perfil TL (Resumen Ejecutivo)

@@ -1,12 +1,14 @@
 ---
-titulo: Transmutación De Metales Y CBDCs
-tipo: "concepto"
-fecha: 2026-02-25
-tags: [cbdcs, metales, transmutacin]
-tier-primario: "b"
-nivel-evidencia: "medio"
 publish: true
+created: 2026-02-25T22:08:53.356-03:00
+modified: 2026-02-27T13:24:05.510-03:00
+tags:
+  - cbdcs
+  - metales
+  - transmutacin
+cssclasses: ""
 ---
+
 
 # Transmutación De Metales Y CBDCs
 

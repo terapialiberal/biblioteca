@@ -1,12 +1,15 @@
 ---
-titulo: DIGITAL YUAN EXPANSION (E-CNY) (v12_1)
-tipo: concepto
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "alto"
-tags: [digital, pboc, project, software]
 publish: true
+created: 2026-02-25T16:07:00.901-03:00
+modified: 2026-02-27T13:22:30.263-03:00
+tags:
+  - digital
+  - pboc
+  - project
+  - software
+cssclasses: ""
 ---
+
 # DIGITAL YUAN EXPANSION (E-CNY) (v12_1)
 
 #### BLUF

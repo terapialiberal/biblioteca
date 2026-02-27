@@ -1,12 +1,15 @@
 ---
-titulo: Resumen General
-tipo: organizacion
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [boris, bullingdon, club, reino]
 publish: true
+created: 2026-01-29T19:17:06.025-03:00
+modified: 2026-02-27T13:22:08.284-03:00
+tags:
+  - boris
+  - bullingdon
+  - club
+  - reino
+cssclasses: ""
 ---
+
 # Resumen General
 Un club estudiantil ultra-exclusivo de la Universidad de Oxford, famoso por sus miembros (David Cameron, Boris Johnson, George Osborne) y sus rituales de vandalismo aristocrático. Queman billetes frente a indigentes y destrozan restaurantes, pagando los daños en efectivo al memento. Es la escuela de la impunidad de la clase dirigente británica.
 

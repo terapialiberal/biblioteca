@@ -1,12 +1,15 @@
 ---
-titulo: Carroll Quigley
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [bill, carroll, cecil, quigley]
 publish: true
+created: 2026-01-29T19:17:06.630-03:00
+modified: 2026-02-27T13:06:52.341-03:00
+tags:
+  - bill
+  - carroll
+  - cecil
+  - quigley
+cssclasses: ""
 ---
+
 # Carroll Quigley
 
 ## Perfil TL (Resumen Ejecutivo)

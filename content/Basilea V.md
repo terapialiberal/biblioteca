@@ -1,12 +1,14 @@
 ---
 publish: true
-titulo: Basilea V (Drafts)
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [basel, basilea, drafts]
+created: 2026-02-09T17:33:36.394-03:00
+modified: 2026-02-27T13:22:03.178-03:00
+tags:
+  - basel
+  - basilea
+  - drafts
+cssclasses: ""
 ---
+
 # [[Basilea V (Drafts)]]
 
 **Clasificación:** Tier A (Respuesta a la Crisis de la Banca en la Sombra)  

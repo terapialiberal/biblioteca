@@ -1,12 +1,13 @@
 ---
-titulo: Rex 84
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [john, oliver]
 publish: true
+created: 2026-01-29T19:17:33.900-03:00
+modified: 2026-02-27T13:07:07.870-03:00
+tags:
+  - john
+  - oliver
+cssclasses: ""
 ---
+
 # Rex 84
 
 > **Perfil TL:** El plan secreto del gobierno de EEUU para declarar ley marcial y detener masivamente a ciudadanos.

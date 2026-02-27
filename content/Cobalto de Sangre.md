@@ -1,12 +1,15 @@
 ---
-titulo: Cobalto De Sangre
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [china, cobalto, cuarta, sangre]
 publish: true
+created: 2026-01-29T19:17:08.056-03:00
+modified: 2026-02-27T13:06:46.728-03:00
+tags:
+  - china
+  - cobalto
+  - cuarta
+  - sangre
+cssclasses: ""
 ---
+
 # Cobalto De Sangre
 
 ## Resumen Ejecutivo

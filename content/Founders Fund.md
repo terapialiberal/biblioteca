@@ -1,12 +1,15 @@
 ---
-titulo: Founders Fund
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [founders, fund, luke, peter]
 publish: true
+created: 2026-01-29T19:17:13.977-03:00
+modified: 2026-02-27T13:06:20.482-03:00
+tags:
+  - founders
+  - fund
+  - luke
+  - peter
+cssclasses: ""
 ---
+
 # Founders Fund
 
 ## Perfil TL (Resumen Ejecutivo)

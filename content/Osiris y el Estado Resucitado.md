@@ -1,12 +1,15 @@
 ---
-titulo: Osiris Y El Estado Resucitado
-tipo: organizacion
-fecha: 2026-02-25
-tags: [domo, estado, osiris, solve]
-tier-primario: "a"
-nivel-evidencia: "alto"
 publish: true
+created: 2026-02-25T22:27:58.729-03:00
+modified: 2026-02-27T13:23:36.920-03:00
+tags:
+  - domo
+  - estado
+  - osiris
+  - solve
+cssclasses: ""
 ---
+
 
 # Osiris Y El Estado Resucitado
 

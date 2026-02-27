@@ -1,17 +1,16 @@
 ---
-titulo: Eduardo Duhalde
-tipo: persona
-fecha: 2026-02-25T00:00:00.000Z
-tier-primario: b
-nivel-evidencia: medio
+publish: true
+created: 2026-01-29T19:17:10.927-03:00
+modified: 2026-02-26T22:32:49.723-03:00
 tags:
   - pesificacion-asimetrica
   - crisis-2001
   - transferencia-riqueza
   - capitalismo-amigos
   - peronismo
-publish: true
+cssclasses: ""
 ---
+
 # Eduardo Duhalde
 
 ## Perfil TL (Resumen Ejecutivo)

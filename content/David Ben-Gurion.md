@@ -1,12 +1,15 @@
 ---
-titulo: David Ben-Gurion
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [asesinato, david, gurion, mossad]
 publish: true
+created: 2026-01-29T19:17:09.743-03:00
+modified: 2026-02-27T13:07:45.359-03:00
+tags:
+  - asesinato
+  - david
+  - gurion
+  - mossad
+cssclasses: ""
 ---
+
 # David Ben-Gurion
 
 ## Perfil TL (Resumen Ejecutivo)

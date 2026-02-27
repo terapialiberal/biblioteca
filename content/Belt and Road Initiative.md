@@ -1,12 +1,15 @@
 ---
-titulo: Belt and Road Initiative (BRI)
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [belt, brics, initiative, road]
 publish: true
+created: 2026-01-29T19:17:05.115-03:00
+modified: 2026-02-27T13:07:47.444-03:00
+tags:
+  - belt
+  - brics
+  - initiative
+  - road
+cssclasses: ""
 ---
+
 ![BRI Map](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/One_Belt_One_Road.svg/220px-One_Belt_One_Road.svg.png)
 # Belt and Road Initiative (BRI)
 

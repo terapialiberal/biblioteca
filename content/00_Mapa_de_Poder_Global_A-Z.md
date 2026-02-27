@@ -1,12 +1,15 @@
 ---
-titulo: "🗺️ Mapa De Poder Global: La Matriz GOLD (v4.0)"
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [00-mapa-de-poder-global-a, mapa, matriz, vanguard]
 publish: true
+created: 2026-01-29T19:17:02.490-03:00
+modified: 2026-02-27T13:21:55.417-03:00
+tags:
+  - 00-mapa-de-poder-global-a
+  - mapa
+  - matriz
+  - vanguard
+cssclasses: ""
 ---
+
 # 🗺️ Mapa De Poder Global: La Matriz GOLD (v4.0)
 
 Este documento es el índice estructural de la **Bóveda de Terapia Liberal**. Mapea los incentivos de la oligarquía transnacional mediante la **Matriz de Dos Niveles**.

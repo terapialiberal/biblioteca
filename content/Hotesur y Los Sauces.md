@@ -1,12 +1,15 @@
 ---
-titulo: Hotesur Y Los Sauces
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [cristina, hotesur, lzaro, sauces]
 publish: true
+created: 2026-01-29T19:17:17.445-03:00
+modified: 2026-02-27T13:06:25.777-03:00
+tags:
+  - cristina
+  - hotesur
+  - lzaro
+  - sauces
+cssclasses: ""
 ---
+
 # Hotesur Y Los Sauces
 
 ## Perfil TL (Resumen Ejecutivo)

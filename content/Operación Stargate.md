@@ -1,12 +1,15 @@
 ---
-titulo: Operación Stargate (Visión Remota)
-tipo: evento
-fecha: 2026-02-25
-tags: [cuerpo, ingo, operacin, stargate]
-tier-primario: "b"
-nivel-evidencia: "total"
 publish: true
+created: 2026-02-25T22:08:32.992-03:00
+modified: 2026-02-27T13:23:35.391-03:00
+tags:
+  - cuerpo
+  - ingo
+  - operacin
+  - stargate
+cssclasses: ""
 ---
+
 
 # Operación Stargate (Visión Remota)
 

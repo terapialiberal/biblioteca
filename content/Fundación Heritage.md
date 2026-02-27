@@ -1,12 +1,15 @@
 ---
-titulo: Heritage Foundation
-tipo: organizacion
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [foundation, fundacin, heritage, ronald]
 publish: true
+created: 2026-01-29T19:17:14.460-03:00
+modified: 2026-02-27T13:06:20.984-03:00
+tags:
+  - foundation
+  - fundacin
+  - heritage
+  - ronald
+cssclasses: ""
 ---
+
 # Heritage Foundation
 
 ## Perfil TL (Resumen Ejecutivo)

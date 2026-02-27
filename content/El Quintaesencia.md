@@ -1,12 +1,12 @@
 ---
-titulo: El Quintaesencia (Ether)
-tipo: persona
-fecha: 2026-02-25
-tags: [quintaesencia]
-tier-primario: "b"
-nivel-evidencia: "medio"
 publish: true
+created: 2026-02-25T22:08:52.695-03:00
+modified: 2026-02-27T13:22:36.792-03:00
+tags:
+  - quintaesencia
+cssclasses: ""
 ---
+
 
 # El Quintaesencia (Ether)
 

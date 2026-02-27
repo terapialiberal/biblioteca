@@ -1,12 +1,15 @@
 ---
-titulo: "Lilia Lemoine: La Interfaz Estética De La Anti-Política"
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [esttica, guerra, lilia, poltica]
 publish: true
+created: 2026-01-29T19:17:22.556-03:00
+modified: 2026-02-27T13:23:14.015-03:00
+tags:
+  - esttica
+  - guerra
+  - lilia
+  - poltica
+cssclasses: ""
 ---
+
 # Lilia Lemoine: La Interfaz Estética De La Anti-Política
 
 > [!ABSTRACT] Resumen de Inteligencia

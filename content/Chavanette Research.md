@@ -1,12 +1,14 @@
 ---
-titulo: Chavanette Research
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [banca, chavanette, research]
 publish: true
+created: 2026-02-09T17:33:31.573-03:00
+modified: 2026-02-27T13:22:18.622-03:00
+tags:
+  - banca
+  - chavanette
+  - research
+cssclasses: ""
 ---
+
 # [[Chavanette Research]]
 
 **Clasificación:** Tier B (Broker de Datos e Ingeniería de Percepción)  

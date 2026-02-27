@@ -1,12 +1,14 @@
 ---
-titulo: Boston Consulting Group (BCG)
-tipo: empresa
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [boston, consulting, group]
 publish: true
+created: 2026-01-29T19:17:05.801-03:00
+modified: 2026-02-27T13:06:34.379-03:00
+tags:
+  - boston
+  - consulting
+  - group
+cssclasses: ""
 ---
+
 # Boston Consulting Group (BCG)
 
 > **Resumen:** Los arquitectos de la reestructuración estatal global (Saudi Vision 2030, etc).

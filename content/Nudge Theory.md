@@ -1,12 +1,15 @@
 ---
-titulo: NUDGE THEORY (v12_1)
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "alto"
-tags: [cass, empujoncito, nudge, theory]
 publish: true
+created: 2026-02-25T16:12:26.124-03:00
+modified: 2026-02-27T13:23:31.364-03:00
+tags:
+  - cass
+  - empujoncito
+  - nudge
+  - theory
+cssclasses: ""
 ---
+
 # NUDGE THEORY (v12_1)
 
 #### BLUF

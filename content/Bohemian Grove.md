@@ -1,12 +1,15 @@
 ---
-titulo: Bohemian Grove
-tipo: persona
-fecha: 2026-02-25
-tags: [bohemian, cremation, grove, proyecto]
-tier-primario: "a"
-nivel-evidencia: "alto"
 publish: true
+created: 2026-01-29T19:17:05.690-03:00
+modified: 2026-02-27T13:22:06.302-03:00
+tags:
+  - bohemian
+  - cremation
+  - grove
+  - proyecto
+cssclasses: ""
 ---
+
 
 # Bohemian Grove
 

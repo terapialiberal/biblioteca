@@ -1,12 +1,15 @@
 ---
-titulo: ALGORITHMIC GOVERNANCE (v12_1)
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [algorithmic, anduril, governance, palantir]
 publish: true
+created: 2026-02-25T16:10:40.583-03:00
+modified: 2026-02-27T13:21:58.487-03:00
+tags:
+  - algorithmic
+  - anduril
+  - governance
+  - palantir
+cssclasses: ""
 ---
+
 # ALGORITHMIC GOVERNANCE (v12_1)
 
 #### BLUF

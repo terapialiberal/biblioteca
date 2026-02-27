@@ -1,12 +1,15 @@
 ---
-titulo: "Ley De La Reserva Federal: El Acta De Rendición Monetaria"
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [acta, conferencia, monetaria, reserva]
 publish: true
+created: 2026-01-29T19:17:22.362-03:00
+modified: 2026-02-27T13:23:13.208-03:00
+tags:
+  - acta
+  - conferencia
+  - monetaria
+  - reserva
+cssclasses: ""
 ---
+
 # Ley De La Reserva Federal: El Acta De Rendición Monetaria
 
 > [!ABSTRACT] Resumen de Inteligencia

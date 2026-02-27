@@ -1,12 +1,14 @@
 ---
-titulo: Die Glocke (La Campana)
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [antigravedad, glocke, operacin]
 publish: true
+created: 2026-01-29T19:17:10.274-03:00
+modified: 2026-02-27T13:22:29.724-03:00
+tags:
+  - antigravedad
+  - glocke
+  - operacin
+cssclasses: ""
 ---
+
 ![Die Glocke Model](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Riese_Ludwikowice_K%C5%82odzkie_Mucha%C5%82apka_01.jpg/220px-Riese_Ludwikowice_K%C5%82odzkie_Mucha%C5%82apka_01.jpg)
 # Die Glocke (La Campana)
 

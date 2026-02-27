@@ -1,12 +1,15 @@
 ---
-titulo: "Louis Dreyfus: El Jugador Invisible Del Granero Global"
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [bunge, granero, invisible, jugador]
 publish: true
+created: 2026-01-29T19:17:23.033-03:00
+modified: 2026-02-27T13:23:16.766-03:00
+tags:
+  - bunge
+  - granero
+  - invisible
+  - jugador
+cssclasses: ""
 ---
+
 # Louis Dreyfus: El Jugador Invisible Del Granero Global
 
 > [!ABSTRACT] Resumen de Inteligencia

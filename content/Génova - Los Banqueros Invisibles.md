@@ -1,12 +1,14 @@
 ---
-titulo: Génova - Los Banqueros Invisibles
-tipo: concepto
-fecha: 2026-02-25
-tags: [banqueros, gnova, invisibles]
-tier-primario: "a"
-nivel-evidencia: "alto"
 publish: true
+created: 2026-02-25T22:40:44.728-03:00
+modified: 2026-02-27T13:22:46.220-03:00
+tags:
+  - banqueros
+  - gnova
+  - invisibles
+cssclasses: ""
 ---
+
 
 # Génova - Los Banqueros Invisibles
 

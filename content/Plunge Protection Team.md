@@ -1,12 +1,15 @@
 ---
-titulo: "Plunge Protection Team: La Falsificación Del Mercado"
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [plunge, protection, reserva, team]
 publish: true
+created: 2026-01-29T19:17:30.951-03:00
+modified: 2026-02-27T13:23:41.851-03:00
+tags:
+  - plunge
+  - protection
+  - reserva
+  - team
+cssclasses: ""
 ---
+
 # Plunge Protection Team: La Falsificación Del Mercado
 
 > [!ABSTRACT] Hipótesis Informativa

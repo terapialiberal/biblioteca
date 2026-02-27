@@ -1,12 +1,15 @@
 ---
-titulo: "Lynn Forester De Rothschild: El Puente Entre El Capital Y La Política"
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [henry, jeffrey, poltica, rothschild]
 publish: true
+created: 2026-01-29T19:17:23.180-03:00
+modified: 2026-02-27T13:23:17.484-03:00
+tags:
+  - henry
+  - jeffrey
+  - poltica
+  - rothschild
+cssclasses: ""
 ---
+
 # Lynn Forester De Rothschild: El Puente Entre El Capital Y La Política
 
 > [!ABSTRACT] Resumen de Inteligencia

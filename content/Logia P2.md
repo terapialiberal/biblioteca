@@ -1,12 +1,15 @@
 ---
-titulo: "Logia P2: La Mafia Institucionalizada"
-tipo: organizacion
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [banco, institucionalizada, logia, mafia]
 publish: true
+created: 2026-01-29T19:17:22.825-03:00
+modified: 2026-02-27T13:23:15.379-03:00
+tags:
+  - banco
+  - institucionalizada
+  - logia
+  - mafia
+cssclasses: ""
 ---
+
 # Logia P2: La Mafia Institucionalizada
 
 > [!ABSTRACT] Hipótesis Informativa

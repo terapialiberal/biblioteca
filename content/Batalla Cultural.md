@@ -1,12 +1,15 @@
 ---
-titulo: Batalla Cultural (Argentina)
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [batalla, cultural, javier, lilia]
 publish: true
+created: 2026-01-29T19:17:04.910-03:00
+modified: 2026-02-27T13:06:36.940-03:00
+tags:
+  - batalla
+  - cultural
+  - javier
+  - lilia
+cssclasses: ""
 ---
+
 # Batalla Cultural (Argentina)
 
 ## Resumen General

@@ -1,12 +1,13 @@
 ---
-titulo: Ocultismo En KGB/Stasi
-tipo: "concepto"
-fecha: 2026-02-25
-tags: [kgb-stasi, ocultismo]
-tier-primario: "b"
-nivel-evidencia: "medio"
 publish: true
+created: 2026-02-25T22:08:57.435-03:00
+modified: 2026-02-27T13:23:32.164-03:00
+tags:
+  - kgb-stasi
+  - ocultismo
+cssclasses: ""
 ---
+
 
 # Ocultismo En KGB/Stasi
 

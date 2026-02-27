@@ -1,12 +1,13 @@
 ---
-titulo: La Sombra Colectiva
-tipo: persona
-fecha: 2026-02-25
-tags: [colectiva, sombra]
-tier-primario: "b"
-nivel-evidencia: "medio"
 publish: true
+created: 2026-02-25T22:08:54.529-03:00
+modified: 2026-02-27T13:23:09.708-03:00
+tags:
+  - colectiva
+  - sombra
+cssclasses: ""
 ---
+
 
 # La Sombra Colectiva
 

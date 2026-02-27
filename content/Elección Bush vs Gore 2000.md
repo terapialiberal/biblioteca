@@ -1,12 +1,15 @@
 ---
-titulo: Elección Bush Vs Gore 2000
-tipo: evento
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [bush, gore, patriot, pnac]
 publish: true
+created: 2026-01-29T19:17:11.579-03:00
+modified: 2026-02-27T13:22:37.368-03:00
+tags:
+  - bush
+  - gore
+  - patriot
+  - pnac
+cssclasses: ""
 ---
+
 # Elección Bush Vs Gore 2000
 
 ## Perfil TL (Resumen Ejecutivo)

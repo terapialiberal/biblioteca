@@ -1,12 +1,15 @@
 ---
-titulo: Grupo Clarín
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [clarn, grupo, hctor, papel]
 publish: true
+created: 2026-01-29T19:17:16.060-03:00
+modified: 2026-02-27T13:22:50.202-03:00
+tags:
+  - clarn
+  - grupo
+  - hctor
+  - papel
+cssclasses: ""
 ---
+
 # Grupo Clarín
 
 ## Perfil TL (Resumen Ejecutivo)

@@ -1,12 +1,15 @@
 ---
-titulo: "Blockchain: El Libro De La Verdad Inmutable"
-tipo: "concepto"
-fecha: 2026-02-25
-tags: [blockchain, cbdcs, inmutabilidad, satoshi]
-tier-primario: "a"
-nivel-evidencia: "alto"
 publish: true
+created: 2026-02-25T22:08:51.773-03:00
+modified: 2026-02-27T13:22:06.206-03:00
+tags:
+  - blockchain
+  - cbdcs
+  - inmutabilidad
+  - satoshi
+cssclasses: ""
 ---
+
 
 # Blockchain: El Libro De La Verdad Inmutable
 

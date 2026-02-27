@@ -1,12 +1,15 @@
 ---
-titulo: Michael Hayden
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [edward, five, hayden, michael]
 publish: true
+created: 2026-01-29T19:17:24.991-03:00
+modified: 2026-02-27T13:06:22.159-03:00
+tags:
+  - edward
+  - five
+  - hayden
+  - michael
+cssclasses: ""
 ---
+
 # Michael Hayden
 
 ## Resumen Ejecutivo

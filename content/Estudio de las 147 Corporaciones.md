@@ -1,12 +1,15 @@
 ---
-titulo: Estudio De Las 147 Corporaciones (ETH Zurich)
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [blackrock, corporaciones, vanguard, zurich]
 publish: true
+created: 2026-01-29T19:17:12.544-03:00
+modified: 2026-02-27T13:07:20.697-03:00
+tags:
+  - blackrock
+  - corporaciones
+  - vanguard
+  - zurich
+cssclasses: ""
 ---
+
 # Estudio De Las 147 Corporaciones (ETH Zurich)
 
 > **Perfil TL:** El estudio científico que demostró que 147 corporaciones controlan el 40% de la economía global.

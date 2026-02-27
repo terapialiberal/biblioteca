@@ -1,12 +1,15 @@
 ---
-titulo: Simbología De Banderas Tier B (Heráldica De Operaciones)
-tipo: organizacion
-fecha: 2026-02-25
-tags: [banderas, estrellas, simbologa, union]
-tier-primario: "b"
-nivel-evidencia: "alto"
 publish: true
+created: 2026-02-25T22:08:56.973-03:00
+modified: 2026-02-27T13:23:55.388-03:00
+tags:
+  - banderas
+  - estrellas
+  - simbologa
+  - union
+cssclasses: ""
 ---
+
 
 # Simbología De Banderas Tier B (Heráldica De Operaciones)
 

@@ -10,7 +10,7 @@ publish: true
 # Renta Básica Universal (UBI) (v2.0): El Sedante Del Tecnofeudalismo
 
 > [!ABSTRACT] Hipótesis Informativa
-> La Renta Básica Universal (UBI) no es un acto de filantropía social, sino el **Mecanismo de Pacificación de [[Tier A]]** para gestionar a la masa de población desplazada por la **[[Inteligencia Artificial]]** y la automatización. Impulsada por los propios arquitectos del desplazamiento laboral (como **[[Sam Altman]]**), la UBI busca transformar al ciudadano soberano de **[[Tier C]]** en un dependiente absoluto del Estado y las Big Tech. Su función real es evitar una rebelión social masiva (la "Clase Inútil") mediante un estipendio de subsistencia condicionado a la entrega de datos biométricos (**[[Worldcoin]]**) y al cumplimiento de un **[[Crédito Social (China)|Crédito Social]]** digital, consolidando el control total sobre la supervivencia humana.
+> La Renta Básica Universal (UBI) no es un acto de filantropía social, sino el **Mecanismo de Pacificación de [[Tier A]]** para gestionar a la masa de población desplazada por la **[[Inteligencia Artificial]]** y la automatización. Impulsada por los propios arquitectos del desplazamiento laboral (como **[[Sam Altman]]**), la UBI busca transformar al ciudadano soberano de **[[Tier C]]** en un dependiente absoluto del Estado y las Big Tech. Su función real es evitar una rebelión social masiva (la "Clase Inútil") mediante un estipendio de subsistencia condicionado a la entrega de datos biométricos (**[[Worldcoin]]**) y al cumplimiento de un **[[Crédito Social (China)\|Crédito Social]]** digital, consolidando el control total sobre la supervivencia humana.
 
 ## Análisis De Tiers
 

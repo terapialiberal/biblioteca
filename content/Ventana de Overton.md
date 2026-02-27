@@ -1,12 +1,16 @@
 ---
-titulo: Ventana De Overton
-tipo: concepto
-fecha: 2026-02-25T00:00:00.000Z
-tier-primario: b
-nivel-evidencia: medio
-tags: [cambio-social-gradualismo, ingenieria-social, opinion-publica, politica-conceptos, ventana-de-overton]
 publish: true
+created: 2026-01-29T19:17:42.978-03:00
+modified: 2026-02-26T16:07:59.120-03:00
+tags:
+  - cambio-social-gradualismo
+  - ingenieria-social
+  - opinion-publica
+  - politica-conceptos
+  - ventana-de-overton
+cssclasses: ""
 ---
+
 # Ventana De Overton
 
 ## Resumen General

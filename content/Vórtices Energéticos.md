@@ -1,12 +1,13 @@
 ---
-titulo: Vórtices Energéticos
-tipo: persona
-fecha: 2026-02-25
-tags: [energticos, vrtices]
-tier-primario: "b"
-nivel-evidencia: "medio"
 publish: true
+created: 2026-02-25T22:08:51.508-03:00
+modified: 2026-02-27T13:24:08.719-03:00
+tags:
+  - energticos
+  - vrtices
+cssclasses: ""
 ---
+
 
 # Vórtices Energéticos
 

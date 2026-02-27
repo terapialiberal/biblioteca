@@ -1,12 +1,15 @@
 ---
-titulo: "Pasaportes De Vacuna: El Control De Movimiento Biomédico"
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [biomdico, movimiento, pasaportes, vacuna]
 publish: true
+created: 2026-01-29T19:17:29.876-03:00
+modified: 2026-02-27T13:23:38.582-03:00
+tags:
+  - biomdico
+  - movimiento
+  - pasaportes
+  - vacuna
+cssclasses: ""
 ---
+
 # Pasaportes De Vacuna: El Control De Movimiento Biomédico
 
 > [!ABSTRACT] Hipótesis Informativa

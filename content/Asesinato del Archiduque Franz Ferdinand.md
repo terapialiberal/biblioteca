@@ -1,12 +1,15 @@
 ---
 publish: true
-titulo: Asesinato Del Archiduque Franz Ferdinand
-tipo: evento
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [asesinato, declaracin, ferdinand, tratado]
+created: 2026-01-29T19:17:04.248-03:00
+modified: 2026-02-27T13:06:59.645-03:00
+tags:
+  - asesinato
+  - declaracin
+  - ferdinand
+  - tratado
+cssclasses: ""
 ---
+
 # Asesinato Del Archiduque Franz Ferdinand
 
 > [!INFO] Contexto

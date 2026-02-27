@@ -1,12 +1,15 @@
 ---
-titulo: KAIROS POWER (v12_1)
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "a"
-nivel-evidencia: "alto"
-tags: [alphabet, google, power, reactor]
 publish: true
+created: 2026-02-25T14:25:26.537-03:00
+modified: 2026-02-27T13:23:03.986-03:00
+tags:
+  - alphabet
+  - google
+  - power
+  - reactor
+cssclasses: ""
 ---
+
 # KAIROS POWER (v12_1)
 
 #### BLUF

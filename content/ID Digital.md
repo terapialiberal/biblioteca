@@ -1,12 +1,15 @@
 ---
-titulo: "ID Digital: La Identidad Universal Controlada"
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [controlada, digital, sistemas, universal]
 publish: true
+created: 2026-01-29T19:17:17.895-03:00
+modified: 2026-02-27T13:22:53.498-03:00
+tags:
+  - controlada
+  - digital
+  - sistemas
+  - universal
+cssclasses: ""
 ---
+
 # ID Digital: La Identidad Universal Controlada
 
 > [!ABSTRACT] Hipótesis Informativa

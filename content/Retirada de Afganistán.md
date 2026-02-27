@@ -1,17 +1,16 @@
 ---
-titulo: 'Retirada De Afganistán (v2.0): El Colapso De La Simulación De Hegemonía'
-tipo: concepto
-fecha: 2026-02-25T00:00:00.000Z
-tier-primario: b
-nivel-evidencia: medio
+publish: true
+created: 2026-01-29T19:17:33.469-03:00
+modified: 2026-02-27T11:19:36.276-03:00
 tags:
   - retirada-afganistan
   - colapso-hegemonia
   - geopolitica
   - estados-unidos
   - multipolaridad
-publish: true
+cssclasses: ""
 ---
+
 # Retirada De Afganistán (v2.0): El Colapso De La Simulación De Hegemonía
 
 > [!ABSTRACT] Hipótesis Informativa

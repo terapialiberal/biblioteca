@@ -1,12 +1,15 @@
 ---
-titulo: Bonos Soberanos — El Grillete De Las Naciones
-tipo: "concepto"
-fecha: 2026-02-25
-tags: [bonos, grillete, historia, naciones]
-tier-primario: "a"
-nivel-evidencia: "alto"
 publish: true
+created: 2026-02-25T22:49:02.833-03:00
+modified: 2026-02-27T13:22:07.204-03:00
+tags:
+  - bonos
+  - grillete
+  - historia
+  - naciones
+cssclasses: ""
 ---
+
 
 # Bonos Soberanos — El Grillete De Las Naciones
 

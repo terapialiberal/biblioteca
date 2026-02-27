@@ -1,12 +1,15 @@
 ---
-titulo: Logia P2 (Propaganda Due)
-tipo: organizacion
-fecha: 2026-02-25
-tags: [banco, licio, logia, propaganda]
-tier-primario: "a"
-nivel-evidencia: "total"
 publish: true
+created: 2026-02-25T22:08:53.640-03:00
+modified: 2026-02-27T13:23:15.353-03:00
+tags:
+  - banco
+  - licio
+  - logia
+  - propaganda
+cssclasses: ""
 ---
+
 
 # Logia P2 (Propaganda Due)
 

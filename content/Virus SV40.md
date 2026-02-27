@@ -1,12 +1,15 @@
 ---
-titulo: Virus SV40 (Cáncer En Vacunas)
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [bill, cncer, sv40, vacunas]
 publish: true
+created: 2026-01-29T19:17:43.337-03:00
+modified: 2026-02-27T13:07:33.502-03:00
+tags:
+  - bill
+  - cncer
+  - sv40
+  - vacunas
+cssclasses: ""
 ---
+
 # Virus SV40 (Cáncer En Vacunas)
 
 ## Resumen Ejecutivo

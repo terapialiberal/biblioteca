@@ -1,12 +1,15 @@
 ---
-titulo: "BlackRock: El Sistema Operativo Del Capitalismo (Nivel 1)"
-tipo: empresa
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [blackrock, capitalismo, sistema, vanguard]
 publish: true
+created: 2026-01-29T19:17:05.564-03:00
+modified: 2026-02-27T13:22:06.087-03:00
+tags:
+  - blackrock
+  - capitalismo
+  - sistema
+  - vanguard
+cssclasses: ""
 ---
+
 # BlackRock: El Sistema Operativo Del Capitalismo (Nivel 1)
 
 > [!ABSTRACT] Hipótesis Informativa

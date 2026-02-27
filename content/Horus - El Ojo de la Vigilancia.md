@@ -1,12 +1,13 @@
 ---
-titulo: Horus - El Ojo De La Vigilancia
-tipo: "concepto"
-fecha: 2026-02-25
-tags: [horus, vigilancia]
-tier-primario: "a"
-nivel-evidencia: "alto"
 publish: true
+created: 2026-02-25T22:28:34.325-03:00
+modified: 2026-02-27T13:22:53.398-03:00
+tags:
+  - horus
+  - vigilancia
+cssclasses: ""
 ---
+
 
 # Horus - El Ojo De La Vigilancia
 

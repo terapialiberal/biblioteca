@@ -1,12 +1,15 @@
 ---
-titulo: Trucker Convoy Canadá
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [canad, convoy, justin, trucker]
 publish: true
+created: 2026-01-29T19:17:41.466-03:00
+modified: 2026-02-27T13:06:36.195-03:00
+tags:
+  - canad
+  - convoy
+  - justin
+  - trucker
+cssclasses: ""
 ---
+
 # Trucker Convoy Canadá
 
 > [!INFO] Contexto

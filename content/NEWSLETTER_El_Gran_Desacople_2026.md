@@ -1,12 +1,15 @@
 ---
-titulo: EL GRAN DESACOPLE
-tipo: concepto
-fecha: 2026-02-25
-tier-primario: "a"
-nivel-evidencia: "alto"
-tags: [desacople, infraestructura, ia, neurotecnologia]
 publish: true
+created: 2026-02-25T14:38:51.126-03:00
+modified: 2026-02-27T13:23:28.897-03:00
+tags:
+  - desacople
+  - infraestructura
+  - ia
+  - neurotecnologia
+cssclasses: ""
 ---
+
 
 # EL GRAN DESACOPLE
 ## Análisis De Fuentes Abiertas Sobre La Secesión De La Infraestructura En 2026

@@ -1,12 +1,15 @@
 ---
-titulo: Masacre De Tiananmen
-tipo: evento
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [david, masacre, microsoft, tiananmen]
 publish: true
+created: 2026-01-29T19:17:24.244-03:00
+modified: 2026-02-27T13:06:19.758-03:00
+tags:
+  - david
+  - masacre
+  - microsoft
+  - tiananmen
+cssclasses: ""
 ---
+
 # Masacre De Tiananmen
 
 ## Resumen Ejecutivo

@@ -32,7 +32,7 @@ publish: true
 | Anduril Industries | Empresa | Defensa autnoma; el fin del factor humano en la guerra. | [[Palmer Luckey]], [[Peter Thiel]] |
 | Shield AI | Empresa | IA para combate areo (F-16 autnomos). | [[Pentgono]], [[Lockheed Martin]] |
 | Epirus & Directed Energy | Tecnologa | Armas de microondas; obsolescencia del misil tradicional. | [[Guerra Electrnica]], [[DARPA]] |
-| Groq LPUs | Hardware | La arquitectura de chips que desplazar a NVIDIA en inferencia. | [[NVIDIA]], [[Inteligencia Artificial]] |
+| Groq LPUs | Hardware | La arquitectura de chips que desplazar a NVIDIA en inferencia. | [[Nvidia]], [[Inteligencia Artificial]] |
 | Anthropic Constitutional AI | Concepto | IA basada en reglas morales rgidas; censura algortmica invisible. | [[OpenAI]], [[NewsGuard]] |
 | Palantir Apollo | Software | El sistema operativo de la guerra en tiempo real. | [[Palantir]], [[Alex Karp]] |
 | In-Q-Tel 2026 | Fondo | La evolucin del brazo inversor de la CIA hacia la Bio-Tech. | [[CIA]], [[Silicon Valley]] |
@@ -102,7 +102,7 @@ publish: true
 | Corredor IMEC (India-Middle East-Europe) | 2026-02-25 | [[Corredor IMEC (India-Middle East-Europe)]] |
 | Corredor Trans-Caspio (Middle Corridor) | 2026-02-25 | [[Corredor Trans-Caspio (Middle Corridor)]] |
 | Puerto de Chancay (Cosco Shipping) | 2026-02-25 | [[Puerto de Chancay (Cosco Shipping)]] |
-| ASML High-NA EUV | 2026-02-25 | [[ASML High-NA EUV]] |
+| ASML High-NA EUV | 2026-02-25 | [[99_AI/Legacy/ASML High-NA EUV]] |
 | TSMC | 2026-02-25 | [[TSMC]] |
 | AUKUS II - Expansion Japon | 2026-02-25 | [[AUKUS II - Expansion Japon]] |
 | Tringulo del Litio 2.0 | 2026-02-25 | [[Tringulo del Litio 2.0 (Guerra del Oro Blanco)]] |
@@ -134,7 +134,7 @@ publish: true
 
 ---
 
-*Ver tambi�n: [[INDEX_MAESTRO]] | [[DASHBOARD_PRODUCCION]] | [[Entity_Graph]]*
+*Ver tambi�n: [[INDEX_MAESTRO]] | [[DASHBOARD_PRODUCCION]] | [[99_AI/05_Memoria_Central/Entity_Graph]]*
 *Actualizado: 2026-02-24*
 
 

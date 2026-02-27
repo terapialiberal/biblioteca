@@ -1,12 +1,15 @@
 ---
 publish: true
-titulo: Resumen General
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [admiral, antrtida, byrd, operacin]
+created: 2026-01-29T19:17:02.874-03:00
+modified: 2026-02-27T13:06:44.173-03:00
+tags:
+  - admiral
+  - antrtida
+  - byrd
+  - operacin
+cssclasses: ""
 ---
+
 # Resumen General
 Almirante de la Marina de EE.UU., explorador polar y masón de alto grado. Lideró la **Operación Highjump** (1946), una invasión militar masiva a la Antártida que terminó en retirada prematura tras supuestamente encontrar "resistencia" (¿Nazis? ¿OVNIs?). Su diario secreto (disputado) habla de tierras verdes y civilizaciones más allá de los polos.
 

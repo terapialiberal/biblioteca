@@ -1,12 +1,15 @@
 ---
-titulo: Manufactura De Consenso
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [consenso, manufactura, operacin, ventana]
 publish: true
+created: 2026-01-29T19:17:23.560-03:00
+modified: 2026-02-27T13:07:00.680-03:00
+tags:
+  - consenso
+  - manufactura
+  - operacin
+  - ventana
+cssclasses: ""
 ---
+
 # Manufactura De Consenso
 
 ## Resumen Ejecutivo

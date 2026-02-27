@@ -1,17 +1,16 @@
 ---
-titulo: Resumen General
-tipo: persona
-fecha: 2026-02-25T00:00:00.000Z
-tier-primario: b
-nivel-evidencia: medio
+publish: true
+created: 2026-01-29T19:17:09.088-03:00
+modified: 2026-02-27T13:21:14.522-03:00
 tags:
   - crimson-contagion
   - simulacion-pandemia
   - preparacion-pandemias
   - respuesta-gubernamental
   - ejercicio-gubernamental
-publish: true
+cssclasses: ""
 ---
+
 # Resumen General
 Un ejercicio de simulación de pandemia realizado por el gobierno de EE.UU. de enero a agosto de 2019 (justo antes del COVID-19). Simulaba un virus de influenza aviar proveniente de China que se esparcía globalmente. Reveló que el gobierno federal no tenía fondos ni coordinación para responder.
 

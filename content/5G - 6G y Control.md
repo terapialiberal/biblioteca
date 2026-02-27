@@ -1,8 +1,15 @@
 ---
-title: "5G - 6G: La Infraestructura De Control Total"
-tags: [5g, 6g, control, vigilancia]
-tipo: concepto
+publish: true
+created: 2026-01-29T19:17:02.612-03:00
+modified: 2026-02-27T16:25:45.917-03:00
+tags:
+  - intel
+  - analisis
+  - v12_0
+cssclasses: ""
 ---
+
+
 # 5G - 6G: La Infraestructura De Control Total
 
 > [!ABSTRACT] Hipótesis Informativa

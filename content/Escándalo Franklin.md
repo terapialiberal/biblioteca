@@ -1,18 +1,21 @@
 ---
-titulo: Escándalo Franklin
-tipo: evento
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [escndalo, estado, franklin, irn]
 publish: true
+created: 2026-01-29T19:17:12.201-03:00
+modified: 2026-02-27T13:06:28.981-03:00
+tags:
+  - escndalo
+  - estado
+  - franklin
+  - irn
+cssclasses: ""
 ---
+
 # Escándalo Franklin
 
 ## Perfil TL (Resumen Ejecutivo)
 **¿Qué fue?** Un escándalo que comenzó como un masivo fraude financiero en una cooperativa de crédito en Omaha, Nebraska, y terminó revelando una red de tráfico sexual infantil, abuso ritual y chantaje que involucraba a las más altas esferas del Partido Republicano y la administración de George H.W. Bush.
 
-**¿Por qué importa?** El Escándalo Franklin es el **predecesor sistémico de Jeffrey Epstein**. Reveló cómo el Tier A utiliza el **Chantaje Sexual (Compromat)** para asegurar la obediencia de los legisladores y funcionarios de Tier B. El caso involucró a **Lawrence King**, un líder republicano negro vinculado a la CIA, quien organizaba "fiestas" con menores para políticos influyentes de Washington. A pesar de los testimonios detallados de víctimas como Paul Bonacci y Alicia Rio, y de las investigaciones del senador estatal John DeCamp, el FBI y los medios de comunicación masivos operaron un encubrimiento total, encarcelando a las víctimas por "perjurio" mientras el banco Franklin Credit servía para lavar dinero del escándalo **[[Irán-Contra]]**. Franklin demuestra que las redes de abuso de élite no son fallos del sistema, sino infraestructuras operativas del **[[Estado Profundo]]**.
+**¿Por qué importa?** El Escándalo Franklin es el **predecesor sistémico de Jeffrey Epstein**. Reveló cómo el Tier A utiliza el **Chantaje Sexual (Compromat)** para asegurar la obediencia de los legisladores y funcionarios de Tier B. El caso involucró a **Lawrence King**, un líder republicano negro vinculado a la CIA, quien organizaba "fiestas" con menores para políticos influyentes de Washington. A pesar de los testimonios detallados de víctimas como Paul Bonacci y Alicia Rio, y de las investigaciones del senador estatal John DeCamp, el FBI y los medios de comunicación masivos operaron un encubrimiento total, encarcelando a las víctimas por "perjurio" mientras el banco Franklin Credit servía para lavar dinero del escándalo **[[Irán-Contra]]**. Franklin demuestra que las redes de abuso de élite no son fallos del sistema, sino infraestructuras operativas del **[[Estado profundo]]**.
 
 ## Análisis De Poder (Tiers)
 

@@ -1,12 +1,15 @@
 ---
-titulo: "Serco: El Subcontratista Del Apocalipsis"
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [apocalipsis, crown, serco, subcontratista]
 publish: true
+created: 2026-01-29T19:17:36.238-03:00
+modified: 2026-02-27T13:23:54.192-03:00
+tags:
+  - apocalipsis
+  - crown
+  - serco
+  - subcontratista
+cssclasses: ""
 ---
+
 # Serco: El Subcontratista Del Apocalipsis
 
 > [!ABSTRACT] Hipótesis Informativa

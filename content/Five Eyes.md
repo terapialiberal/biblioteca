@@ -1,12 +1,15 @@
 ---
-titulo: Five Eyes (Los Cinco Ojos)
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [edward, estado, eyes, five]
 publish: true
+created: 2026-01-29T19:17:13.777-03:00
+modified: 2026-02-27T13:22:44.162-03:00
+tags:
+  - edward
+  - estado
+  - eyes
+  - five
+cssclasses: ""
 ---
+
 # Five Eyes (Los Cinco Ojos)
 
 ## Perfil TL (Resumen Ejecutivo)
@@ -31,7 +34,7 @@ publish: true
 - [[NSA (National Security Agency)]] (El socio mayoritario)
 - [[Edward Snowden]] (El hombre que desmanteló el secreto de Tier A)
 - [[Julian Assange]] (El perseguido por exponer la red)
-- [[Echelon]] (El antecesor analógico)
+- [[ECHELON]] (El antecesor analógico)
 
 ## Por Qué Importa (Estilo Nico)
 

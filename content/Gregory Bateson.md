@@ -1,12 +1,15 @@
 ---
-titulo: Gregory Bateson
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [bateson, conferencias, gaslighting, gregory]
 publish: true
+created: 2026-01-29T19:17:16.041-03:00
+modified: 2026-02-27T13:07:18.832-03:00
+tags:
+  - bateson
+  - conferencias
+  - gaslighting
+  - gregory
+cssclasses: ""
 ---
+
 # Gregory Bateson
 
 ## Perfil TL (Resumen Ejecutivo)

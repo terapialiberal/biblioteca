@@ -1,12 +1,15 @@
 ---
-titulo: "Mario Firmenich: El Revolucionario De Inteligencia"
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [emilio, firmenich, inteligencia, revolucionario]
 publish: true
+created: 2026-01-29T19:17:23.999-03:00
+modified: 2026-02-27T13:23:18.193-03:00
+tags:
+  - emilio
+  - firmenich
+  - inteligencia
+  - revolucionario
+cssclasses: ""
 ---
+
 # Mario Firmenich: El Revolucionario De Inteligencia
 
 > [!ABSTRACT] Hipótesis Informativa

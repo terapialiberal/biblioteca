@@ -1,12 +1,15 @@
 ---
-titulo: Teoría Monetaria Moderna (MMT)
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [dinero, moderna, monetaria, reserva]
 publish: true
+created: 2026-01-29T19:17:39.228-03:00
+modified: 2026-02-27T13:06:22.172-03:00
+tags:
+  - dinero
+  - moderna
+  - monetaria
+  - reserva
+cssclasses: ""
 ---
+
 # Teoría Monetaria Moderna (MMT)
 
 ## Resumen General

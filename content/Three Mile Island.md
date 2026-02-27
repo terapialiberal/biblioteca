@@ -1,12 +1,15 @@
 ---
-titulo: THREE MILE ISLAND (v12_1)
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "a"
-nivel-evidencia: "alto"
-tags: [azure, mile, santuario, three]
 publish: true
+created: 2026-02-25T14:25:29.387-03:00
+modified: 2026-02-27T13:24:03.911-03:00
+tags:
+  - azure
+  - mile
+  - santuario
+  - three
+cssclasses: ""
 ---
+
 # THREE MILE ISLAND (v12_1)
 
 #### BLUF

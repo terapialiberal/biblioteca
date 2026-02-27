@@ -1,12 +1,14 @@
 ---
-titulo: Resumen General
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [charlie, gatekeepers, tpusa]
 publish: true
+created: 2026-01-29T19:17:40.780-03:00
+modified: 2026-02-27T13:06:54.088-03:00
+tags:
+  - charlie
+  - gatekeepers
+  - tpusa
+cssclasses: ""
 ---
+
 # Resumen General
 Turning Point USA (TPUSA) es la organización conservadora juvenil más grande de Estados Unidos, fundada por Charlie Kirk en 2012. Opera principalmente en campus universitarios y organiza conferencias masivas como AmericaFest.
 

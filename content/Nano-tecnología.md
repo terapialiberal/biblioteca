@@ -1,12 +1,13 @@
 ---
-titulo: Nano-tecnología (Polvo Inteligente)
-tipo: "concepto"
-fecha: 2026-02-25
-tags: [nano, tecnologa]
-tier-primario: "b"
-nivel-evidencia: "medio"
 publish: true
+created: 2026-02-25T22:08:57.614-03:00
+modified: 2026-02-27T13:23:26.987-03:00
+tags:
+  - nano
+  - tecnologa
+cssclasses: ""
 ---
+
 
 # Nano-tecnología (Polvo Inteligente)
 

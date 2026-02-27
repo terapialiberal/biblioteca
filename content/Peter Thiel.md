@@ -1,17 +1,16 @@
 ---
-titulo: 'Peter Thiel (v2.0): El Arquitecto Del Tecno-Feudalismo'
-tipo: persona
-fecha: 2026-02-25T00:00:00.000Z
-tier-primario: b
-nivel-evidencia: medio
+publish: true
+created: 2026-01-29T19:17:30.419-03:00
+modified: 2026-02-27T13:23:48.662-03:00
 tags:
   - peter-thiel
   - tecno-feudalismo
   - palantir
   - vigilancia-tecnológica
   - control-social
-publish: true
+cssclasses: ""
 ---
+
 # Peter Thiel (v2.0): El Arquitecto Del Tecno-Feudalismo
 
 > [!ABSTRACT] Hipótesis Informativa

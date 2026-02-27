@@ -1,12 +1,13 @@
 ---
-titulo: COUNCIL ON FOREIGN RELATIONS (CFR) (v12_1)
-tipo: concepto
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "alto"
-tags: [blackrock, michael]
 publish: true
+created: 2026-02-25T15:42:31.015-03:00
+modified: 2026-02-27T13:22:18.539-03:00
+tags:
+  - blackrock
+  - michael
+cssclasses: ""
 ---
+
 # COUNCIL ON FOREIGN RELATIONS (CFR) (v12_1)
 
 #### BLUF

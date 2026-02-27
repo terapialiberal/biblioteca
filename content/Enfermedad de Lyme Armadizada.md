@@ -1,12 +1,15 @@
 ---
-titulo: Enfermedad De Lyme Armadizada
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [armadizada, enfermedad, fort, guerra]
 publish: true
+created: 2026-01-29T19:17:11.851-03:00
+modified: 2026-02-27T13:22:38.595-03:00
+tags:
+  - armadizada
+  - enfermedad
+  - fort
+  - guerra
+cssclasses: ""
 ---
+
 # Enfermedad De Lyme Armadizada
 
 ## Perfil TL (Resumen Ejecutivo)

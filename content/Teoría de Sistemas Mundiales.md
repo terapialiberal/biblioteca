@@ -1,12 +1,15 @@
 ---
-titulo: Teoría De Sistemas Mundiales
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [bandung, mundiales, prebisch, sistemas]
 publish: true
+created: 2026-01-29T19:17:38.982-03:00
+modified: 2026-02-27T13:07:18.979-03:00
+tags:
+  - bandung
+  - mundiales
+  - prebisch
+  - sistemas
+cssclasses: ""
 ---
+
 # Teoría De Sistemas Mundiales
 
 ## Resumen Ejecutivo

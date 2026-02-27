@@ -1,12 +1,15 @@
 ---
-titulo: IA Y El Golem De Praga
-tipo: "concepto"
-fecha: 2026-02-25
-tags: [cabal, golem, praga, silicon]
-tier-primario: "a"
-nivel-evidencia: "medio"
 publish: true
+created: 2026-02-25T22:08:32.746-03:00
+modified: 2026-02-27T13:22:53.470-03:00
+tags:
+  - cabal
+  - golem
+  - praga
+  - silicon
+cssclasses: ""
 ---
+
 
 # IA Y El Golem De Praga
 

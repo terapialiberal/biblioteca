@@ -1,12 +1,13 @@
 ---
-titulo: Anclajes Psicológicos Del Tier B
-tipo: "concepto"
-fecha: 2026-02-25
-tags: [anclajes, psicolgicos]
-tier-primario: "b"
-nivel-evidencia: "medio"
 publish: true
+created: 2026-02-25T22:08:56.719-03:00
+modified: 2026-02-27T13:21:59.046-03:00
+tags:
+  - anclajes
+  - psicolgicos
+cssclasses: ""
 ---
+
 
 # Anclajes Psicológicos Del Tier B
 

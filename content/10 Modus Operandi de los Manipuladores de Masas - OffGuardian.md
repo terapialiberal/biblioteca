@@ -1,18 +1,16 @@
 ---
-titulo: 10 Modus Operandi De Los Manipuladores De Masas (Off-Guardian)
-descripcion: ''
-link: >-
-  //off-guardian.org/2026/01/08/more-fool-you-10-modus-operandi-of-the-mass-manipulators/
-tipo: articulo
-fecha: 2026-01-08T00:00:00.000Z
+publish: true
+created: 2026-01-29T19:05:08.327-03:00
+modified: 2026-02-26T21:50:11.619-03:00
 tags:
   - manipulacion-masas
   - psicologia-conductual
   - id-digital
   - control-social
   - guerra-cognitiva
-publish: true
+cssclasses: ""
 ---
+
 
 # 10 Modus Operandi De Los Manipuladores De Masas (Off-Guardian)
 

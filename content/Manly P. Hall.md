@@ -1,17 +1,16 @@
 ---
-titulo: Manly P. Hall
-tipo: persona
-fecha: 2026-02-25T00:00:00.000Z
-tier-primario: b
-nivel-evidencia: medio
+publish: true
+created: 2026-01-29T19:17:23.480-03:00
+modified: 2026-02-26T23:11:23.105-03:00
 tags:
   - sociedades-secretas
   - nueva-atlántida
   - masonería
   - filosofía-esotérica
   - estado-profundo
-publish: true
+cssclasses: ""
 ---
+
 # Manly P. Hall
 
 ## Resumen Ejecutivo

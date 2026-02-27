@@ -10,7 +10,7 @@ publish: true
 # Shell (v2.0): El Tentáculo Energético Del Imperio Anglo-Holandés
 
 > [!ABSTRACT] Hipótesis Informativa
-> Royal Dutch Shell es la **Soberanía Corporativa de [[Tier A]]** que personifica la continuidad del poder colonial europeo en la era moderna. Como una de las **[[Seven Sisters (Siete Hermanas)|Siete Hermanas]]**, Shell no es solo una petrolera, sino un brazo administrativo y de inteligencia que ha operado históricamente para asegurar el suministro energético de Occidente a costa de la devastación ambiental y social del Sur Global. Su función real es la de un **"Agente de Extracción Neocolonial"**: utilizar su peso financiero y su influencia en los gobiernos para capturar los recursos de naciones soberanas (como Nigeria), externalizando los costos de muerte y contaminación hacia el **[[Tier C]]** local.
+> Royal Dutch Shell es la **Soberanía Corporativa de [[Tier A]]** que personifica la continuidad del poder colonial europeo en la era moderna. Como una de las **[[Seven Sisters (Siete Hermanas)\|Siete Hermanas]]**, Shell no es solo una petrolera, sino un brazo administrativo y de inteligencia que ha operado históricamente para asegurar el suministro energético de Occidente a costa de la devastación ambiental y social del Sur Global. Su función real es la de un **"Agente de Extracción Neocolonial"**: utilizar su peso financiero y su influencia en los gobiernos para capturar los recursos de naciones soberanas (como Nigeria), externalizando los costos de muerte y contaminación hacia el **[[Tier C]]** local.
 
 ## Análisis De Tiers
 

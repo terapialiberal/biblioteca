@@ -1,12 +1,15 @@
 ---
-titulo: 'Elisa Carrió ("Lilita")'
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [carri, elisa, jaime, lawfare]
 publish: true
+created: 2026-01-29T19:17:11.725-03:00
+modified: 2026-02-27T13:22:37.916-03:00
+tags:
+  - carri
+  - elisa
+  - jaime
+  - lawfare
+cssclasses: ""
 ---
+
 # Elisa Carrió ("Lilita")
 
 ## Perfil TL (Resumen Ejecutivo)

@@ -1,12 +1,15 @@
 ---
-titulo: Hiroshima Y Nagasaki
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [harry, hiroshima, nagasaki, proyecto]
 publish: true
+created: 2026-01-29T19:17:17.257-03:00
+modified: 2026-02-27T13:06:22.111-03:00
+tags:
+  - harry
+  - hiroshima
+  - nagasaki
+  - proyecto
+cssclasses: ""
 ---
+
 # Hiroshima Y Nagasaki
 
 ## Perfil TL (Resumen Ejecutivo)

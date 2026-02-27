@@ -1,12 +1,15 @@
 ---
-titulo: Resumen General
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [divide, loops, operaciones, vencers]
 publish: true
+created: 2026-01-29T19:17:10.374-03:00
+modified: 2026-02-27T13:06:49.653-03:00
+tags:
+  - divide
+  - loops
+  - operaciones
+  - vencers
+cssclasses: ""
 ---
+
 # Resumen General
 "Divide et Impera" es una estrategia de control donde una minoría coordinada puede gobernar una mayoría fragmentada manteniéndola dividida en facciones enfrentadas. Es la táctica fundamental del poder desde Roma hasta las redes sociales.
 

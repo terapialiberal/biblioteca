@@ -1,12 +1,13 @@
 ---
-titulo: Vigilancia Predictiva
-tipo: persona
-fecha: 2026-02-25
-tags: [predictiva, vigilancia]
-tier-primario: "b"
-nivel-evidencia: "medio"
 publish: true
+created: 2026-02-25T22:08:56.414-03:00
+modified: 2026-02-27T13:24:08.652-03:00
+tags:
+  - predictiva
+  - vigilancia
+cssclasses: ""
 ---
+
 
 # Vigilancia Predictiva
 

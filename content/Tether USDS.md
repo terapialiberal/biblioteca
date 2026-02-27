@@ -1,12 +1,15 @@
 ---
-titulo: TETHER USDS (v12_1)
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "a"
-nivel-evidencia: "alto"
-tags: [dlar, estado, paolo, usds]
 publish: true
+created: 2026-02-25T16:07:03.031-03:00
+modified: 2026-02-27T13:24:02.290-03:00
+tags:
+  - dlar
+  - estado
+  - paolo
+  - usds
+cssclasses: ""
 ---
+
 # TETHER USDS (v12_1)
 
 #### BLUF

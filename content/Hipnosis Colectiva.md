@@ -1,12 +1,13 @@
 ---
-titulo: Hipnosis Colectiva
-tipo: persona
-fecha: 2026-02-25
-tags: [colectiva, hipnosis]
-tier-primario: "b"
-nivel-evidencia: "medio"
 publish: true
+created: 2026-02-25T22:08:56.097-03:00
+modified: 2026-02-27T13:22:52.538-03:00
+tags:
+  - colectiva
+  - hipnosis
+cssclasses: ""
 ---
+
 
 # Hipnosis Colectiva
 

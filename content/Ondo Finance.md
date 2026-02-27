@@ -1,12 +1,15 @@
 ---
-titulo: ONDO FINANCE (v12_1)
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "alto"
-tags: [blackrock, blockchain, nathan, peaje]
 publish: true
+created: 2026-02-25T13:55:13.964-03:00
+modified: 2026-02-27T13:23:33.366-03:00
+tags:
+  - blackrock
+  - blockchain
+  - nathan
+  - peaje
+cssclasses: ""
 ---
+
 # ONDO FINANCE (v12_1)
 
 #### BLUF

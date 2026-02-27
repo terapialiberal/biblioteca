@@ -1,12 +1,15 @@
 ---
-titulo: Experimento Tuskegee
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [experimento, experimentos, rockefeller, tuskegee]
 publish: true
+created: 2026-01-29T19:17:12.876-03:00
+modified: 2026-02-27T13:22:40.640-03:00
+tags:
+  - experimento
+  - experimentos
+  - rockefeller
+  - tuskegee
+cssclasses: ""
 ---
+
 # Experimento Tuskegee
 
 ## Resumen Ejecutivo

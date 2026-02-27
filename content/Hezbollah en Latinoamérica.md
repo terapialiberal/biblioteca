@@ -1,12 +1,15 @@
 ---
-titulo: Hezbollah En Latinoamérica
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [hezbollah, irn, latinoamrica, triple]
 publish: true
+created: 2026-01-29T19:17:17.078-03:00
+modified: 2026-02-27T13:06:49.679-03:00
+tags:
+  - hezbollah
+  - irn
+  - latinoamrica
+  - triple
+cssclasses: ""
 ---
+
 # Hezbollah En Latinoamérica
 
 ## Perfil TL (Resumen Ejecutivo)

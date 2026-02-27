@@ -1,12 +1,14 @@
 ---
-titulo: "Urano: El Cambiador Súbito"
-tipo: "concepto"
-fecha: 2026-02-25
-tags: [cambiador, sbito, urano]
-tier-primario: "b"
-nivel-evidencia: "medio"
 publish: true
+created: 2026-02-25T22:08:53.778-03:00
+modified: 2026-02-27T13:24:06.854-03:00
+tags:
+  - cambiador
+  - sbito
+  - urano
+cssclasses: ""
 ---
+
 
 # Urano: El Cambiador Súbito
 

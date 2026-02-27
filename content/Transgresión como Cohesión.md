@@ -1,12 +1,15 @@
 ---
-titulo: Transgresión Como Cohesión (Concepto)
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [bohemian, concepto, skull, transgresin]
 publish: true
+created: 2026-01-29T19:17:40.952-03:00
+modified: 2026-02-27T13:24:04.838-03:00
+tags:
+  - bohemian
+  - concepto
+  - skull
+  - transgresin
+cssclasses: ""
 ---
+
 # Transgresión Como Cohesión (Concepto)
 
 > **Perfil TL:** La teoría de juegos de las sociedades secretas: cuanto mayor es el tabú compartido, mayor es la lealtad.

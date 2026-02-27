@@ -1,12 +1,14 @@
 ---
-titulo: Resumen General
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [brigada, jtrig, modernizada]
 publish: true
+created: 2026-01-29T19:17:05.955-03:00
+modified: 2026-02-27T13:06:49.598-03:00
+tags:
+  - brigada
+  - jtrig
+  - modernizada
+cssclasses: ""
 ---
+
 # Resumen General
 La Brigada 77 es la unidad de guerra de información del Ejército Británico, especializada en operaciones psicológicas y "guerra no letal". Durante COVID, fue desplegada para monitorear y contrarrestar "desinformación" de ciudadanos británicos en redes sociales.
 

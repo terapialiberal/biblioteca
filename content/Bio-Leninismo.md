@@ -1,12 +1,13 @@
 ---
-titulo: Bio-Leninismo (Spandrell)
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [leninismo, spandrell]
 publish: true
+created: 2026-01-29T19:17:05.405-03:00
+modified: 2026-02-27T13:22:05.163-03:00
+tags:
+  - leninismo
+  - spandrell
+cssclasses: ""
 ---
+
 # Bio-Leninismo (Spandrell)
 
 > **Resumen:** El uso de "marginados biológicos" como tropa de choque leal.

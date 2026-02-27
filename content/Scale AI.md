@@ -29,7 +29,7 @@ publish: true
 - [[Alexandr Wang]]: El rostro del éxito meteórico en la tecnocracia.
 - [[Pentágono]]: El principal cliente y definidor de la agenda militar.
 - [[OpenAI]]: El socio comercial que depende de sus datos.
-- [[Meta Platforms|Meta]]: (Mark Zuckerberg) Cliente clave para el metaverso y la visión.
+- [[Meta Platforms\|Meta]]: (Mark Zuckerberg) Cliente clave para el metaverso y la visión.
 - [[Inteligencia Artificial]]: El campo de batalla que Scale AI domina desde la base.
 
 ## Conclusión Del Análisis

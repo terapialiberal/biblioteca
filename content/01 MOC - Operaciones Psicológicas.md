@@ -1,12 +1,15 @@
 ---
-titulo: 🧠 MOC - Operaciones Psicológicas Y Control Social
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [control, divide, operaciones, psicolgicas]
 publish: true
+created: 2026-01-29T19:17:02.587-03:00
+modified: 2026-02-27T13:21:56.742-03:00
+tags:
+  - control
+  - divide
+  - operaciones
+  - psicolgicas
+cssclasses: ""
 ---
+
 # 🧠 MOC - Operaciones Psicológicas Y Control Social
 
 > [!WARNING] OBJETIVO
@@ -165,12 +168,7 @@ publish: true
 ---
 
 ## Generación Automática (Dataview)
-```dataview
-LIST
-FROM "03 Base de Conocimiento"
-WHERE contains(tags, "PsyOps") OR contains(tags, "Manipulación") OR contains(tags, "Guerra_Cognitiva")
-SORT file.name ASC
-```
+
 
 
 

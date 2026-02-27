@@ -1,12 +1,15 @@
 ---
-titulo: Valijas De Antonini Wilson
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [cristina, naciones, valijas, wilson]
 publish: true
+created: 2026-01-29T19:17:42.759-03:00
+modified: 2026-02-27T13:06:28.408-03:00
+tags:
+  - cristina
+  - naciones
+  - valijas
+  - wilson
+cssclasses: ""
 ---
+
 # Valijas De Antonini Wilson
 
 ## Resumen General

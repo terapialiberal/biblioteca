@@ -1,12 +1,15 @@
 ---
-titulo: Ciudades Inteligentes (Smart Cities)
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [agenda, ciudades, inteligentes, world]
 publish: true
+created: 2026-01-29T19:17:07.869-03:00
+modified: 2026-02-27T13:07:14.511-03:00
+tags:
+  - agenda
+  - ciudades
+  - inteligentes
+  - world
+cssclasses: ""
 ---
+
 # Ciudades Inteligentes (Smart Cities)
 
 ## Resumen Ejecutivo

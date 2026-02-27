@@ -1,12 +1,15 @@
 ---
-titulo: Fentanilo (Guerra Híbrida)
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [cjng, fentanilo, guerra, hbrida]
 publish: true
+created: 2026-01-29T19:17:13.594-03:00
+modified: 2026-02-27T13:22:43.512-03:00
+tags:
+  - cjng
+  - fentanilo
+  - guerra
+  - hbrida
+cssclasses: ""
 ---
+
 # Fentanilo (Guerra Híbrida)
 
 ## Perfil TL (Resumen Ejecutivo)

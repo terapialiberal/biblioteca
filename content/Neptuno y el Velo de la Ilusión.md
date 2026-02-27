@@ -1,12 +1,14 @@
 ---
-titulo: Neptuno Y El Velo De La Ilusión
-tipo: "concepto"
-fecha: 2026-02-25
-tags: [ilusin, neptuno, velo]
-tier-primario: "b"
-nivel-evidencia: "medio"
 publish: true
+created: 2026-02-25T22:08:54.864-03:00
+modified: 2026-02-27T13:23:27.720-03:00
+tags:
+  - ilusin
+  - neptuno
+  - velo
+cssclasses: ""
 ---
+
 
 # Neptuno Y El Velo De La Ilusión
 

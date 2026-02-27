@@ -1,12 +1,14 @@
 ---
-titulo: Comercio Ilegal De Drogas
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [comercio, drogas, ilegal]
 publish: true
+created: 2026-01-29T19:17:08.314-03:00
+modified: 2026-02-27T13:06:26.248-03:00
+tags:
+  - comercio
+  - drogas
+  - ilegal
+cssclasses: ""
 ---
+
 # Comercio Ilegal De Drogas
 ![](https://wikispooks.com/w/images/6/64/Drugroutemap.gif)
 

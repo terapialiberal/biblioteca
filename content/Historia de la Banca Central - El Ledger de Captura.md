@@ -1,12 +1,15 @@
 ---
-titulo: Historia De La Banca Central - El Ledger De Captura
-tipo: concepto
-fecha: 2026-02-25
-tags: [captura, central, historia, ledger]
-tier-primario: "a"
-nivel-evidencia: "alto"
 publish: true
+created: 2026-02-25T22:36:03.943-03:00
+modified: 2026-02-27T13:22:52.547-03:00
+tags:
+  - captura
+  - central
+  - historia
+  - ledger
+cssclasses: ""
 ---
+
 
 # Historia De La Banca Central - El Ledger De Captura
 

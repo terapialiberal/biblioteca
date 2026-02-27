@@ -1,12 +1,15 @@
 ---
-titulo: Geometría Fractal En El Mercado (Predación Matemática)
-tipo: "concepto"
-fecha: 2026-02-25
-tags: [fractal, geometra, mercado, ondas]
-tier-primario: "a"
-nivel-evidencia: "total"
 publish: true
+created: 2026-02-25T22:08:52.659-03:00
+modified: 2026-02-27T13:22:46.270-03:00
+tags:
+  - fractal
+  - geometra
+  - mercado
+  - ondas
+cssclasses: ""
 ---
+
 
 # Geometría Fractal En El Mercado (Predación Matemática)
 

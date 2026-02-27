@@ -1,12 +1,15 @@
 ---
-titulo: COGNITIVE WARFARE (v12_1)
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "alto"
-tags: [cognitive, darpa, espacio, warfare]
 publish: true
+created: 2026-02-25T16:09:24.269-03:00
+modified: 2026-02-27T13:22:20.188-03:00
+tags:
+  - cognitive
+  - darpa
+  - espacio
+  - warfare
+cssclasses: ""
 ---
+
 # COGNITIVE WARFARE (v12_1)
 
 #### BLUF

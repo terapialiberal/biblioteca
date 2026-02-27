@@ -1,12 +1,15 @@
 ---
-titulo: Center for American Progress
-tipo: organizacion
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [american, center, hillary, progress]
 publish: true
+created: 2026-01-29T19:17:07.181-03:00
+modified: 2026-02-27T13:22:17.655-03:00
+tags:
+  - american
+  - center
+  - hillary
+  - progress
+cssclasses: ""
 ---
+
 # Center for American Progress
 
 > [!ABSTRACT] Ficha Técnica

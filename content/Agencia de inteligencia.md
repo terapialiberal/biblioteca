@@ -1,12 +1,14 @@
 ---
 publish: true
-titulo: Agencia De Inteligencia
-tipo: organizacion
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [agencia, inteligencia, mossad]
+created: 2026-01-29T19:17:02.955-03:00
+modified: 2026-02-27T13:06:19.782-03:00
+tags:
+  - agencia
+  - inteligencia
+  - mossad
+cssclasses: ""
 ---
+
 # Agencia De Inteligencia
 ![](https://wikispooks.com/w/images/e/ec/Intelligence_agency.png)
 

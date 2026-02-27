@@ -1,12 +1,14 @@
 ---
-titulo: CIA Narcotráfico — El Motor Del Presupuesto Negro
-tipo: organizacion
-fecha: 2026-02-25
-tags: [gary, mena, narcotrfico]
-tier-primario: "a"
-nivel-evidencia: "alto"
 publish: true
+created: 2026-01-29T19:17:07.633-03:00
+modified: 2026-02-27T13:07:03.975-03:00
+tags:
+  - gary
+  - mena
+  - narcotrfico
+cssclasses: ""
 ---
+
 
 # CIA Narcotráfico — El Motor Del Presupuesto Negro
 

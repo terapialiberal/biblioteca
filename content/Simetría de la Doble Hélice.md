@@ -1,12 +1,14 @@
 ---
-titulo: Simetría De La Doble Hélice
-tipo: "concepto"
-fecha: 2026-02-25
-tags: [doble, hlice, simetra]
-tier-primario: "b"
-nivel-evidencia: "medio"
 publish: true
+created: 2026-02-25T22:08:57.979-03:00
+modified: 2026-02-27T13:23:55.425-03:00
+tags:
+  - doble
+  - hlice
+  - simetra
+cssclasses: ""
 ---
+
 
 # Simetría De La Doble Hélice
 

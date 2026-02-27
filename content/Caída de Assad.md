@@ -1,12 +1,15 @@
 ---
-titulo: Caída De Assad
-tipo: evento
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [assad, cada, guerra, vladimir]
 publish: true
+created: 2026-01-29T19:17:06.938-03:00
+modified: 2026-02-27T13:07:11.861-03:00
+tags:
+  - assad
+  - cada
+  - guerra
+  - vladimir
+cssclasses: ""
 ---
+
 # Caída De Assad
 
 > [!INFO] Contexto

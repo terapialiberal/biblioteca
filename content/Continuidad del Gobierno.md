@@ -1,12 +1,15 @@
 ---
-titulo: Continuity of Government (COG)
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [continuidad, dick, gobierno, naciones]
 publish: true
+created: 2026-01-29T19:17:08.729-03:00
+modified: 2026-02-27T13:22:22.858-03:00
+tags:
+  - continuidad
+  - dick
+  - gobierno
+  - naciones
+cssclasses: ""
 ---
+
 ![COG Mount Weather](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Mount_Weather_Emergency_Operations_Center_Aerial.jpg/800px-Mount_Weather_Emergency_Operations_Center_Aerial.jpg)
 # Continuity of Government (COG)
 

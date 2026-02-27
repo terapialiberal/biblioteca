@@ -1,12 +1,14 @@
 ---
-titulo: Theranos
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [henry, rupert, theranos]
 publish: true
+created: 2026-01-29T19:17:40.159-03:00
+modified: 2026-02-27T13:07:17.872-03:00
+tags:
+  - henry
+  - rupert
+  - theranos
+cssclasses: ""
 ---
+
 # Theranos
 
 ## Resumen General

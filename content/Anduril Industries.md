@@ -1,12 +1,15 @@
 ---
-titulo: ANDURIL INDUSTRIES (v12_1)
-tipo: empresa
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [anduril, industries, palmer, peter]
 publish: true
+created: 2026-01-29T19:17:03.543-03:00
+modified: 2026-02-27T13:21:59.494-03:00
+tags:
+  - anduril
+  - industries
+  - palmer
+  - peter
+cssclasses: ""
 ---
+
 # ANDURIL INDUSTRIES (v12_1)
 
 #### BLUF

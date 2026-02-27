@@ -1,12 +1,14 @@
 ---
-titulo: Control De Grid Energético
-tipo: "concepto"
-fecha: 2026-02-25
-tags: [control, energtico, grid]
-tier-primario: "b"
-nivel-evidencia: "medio"
 publish: true
+created: 2026-02-25T22:08:53.814-03:00
+modified: 2026-02-27T13:22:22.935-03:00
+tags:
+  - control
+  - energtico
+  - grid
+cssclasses: ""
 ---
+
 
 # Control De Grid Energético
 

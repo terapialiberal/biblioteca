@@ -135,7 +135,7 @@ publish: true
 - [[Lnea de Tiempo - 1940s-1960s]] | [[Lnea de Tiempo - 1980s-2000s]] | [[Lnea de Tiempo - 2010s-2020s]]
 - [[MOC - Operaciones Encubiertas]]  Los eventos con participacin de inteligencia
 - [[MOC - Control Financiero]]  Las crisis financieras como herramienta
-- [[Entity_Graph]]  Quin aparece en mltiples eventos
+- [[99_AI/05_Memoria_Central/Entity_Graph]]  Quin aparece en mltiples eventos
 
 ---
 

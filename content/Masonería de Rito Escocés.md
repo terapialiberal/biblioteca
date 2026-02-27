@@ -1,12 +1,15 @@
 ---
-titulo: Masonería De Rito Escocés
-tipo: organizacion
-fecha: 2026-02-25
-tags: [albert, complejo, escocs, masonera]
-tier-primario: "a"
-nivel-evidencia: "total"
 publish: true
+created: 2026-02-25T22:08:32.712-03:00
+modified: 2026-02-27T13:23:19.008-03:00
+tags:
+  - albert
+  - complejo
+  - escocs
+  - masonera
+cssclasses: ""
 ---
+
 
 # Masonería De Rito Escocés
 

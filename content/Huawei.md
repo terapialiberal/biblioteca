@@ -1,12 +1,14 @@
 ---
-titulo: Huawei
-tipo: evento
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [belt, huawei, partido]
 publish: true
+created: 2026-01-29T19:17:17.531-03:00
+modified: 2026-02-27T13:07:06.830-03:00
+tags:
+  - belt
+  - huawei
+  - partido
+cssclasses: ""
 ---
+
 # Huawei
 
 ## Perfil TL (Resumen Ejecutivo)

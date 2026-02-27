@@ -1,12 +1,13 @@
 ---
-titulo: Transfinitud De Cantor
-tipo: "concepto"
-fecha: 2026-02-25
-tags: [cantor, transfinitud]
-tier-primario: "b"
-nivel-evidencia: "medio"
 publish: true
+created: 2026-02-25T22:08:55.100-03:00
+modified: 2026-02-27T13:24:04.818-03:00
+tags:
+  - cantor
+  - transfinitud
+cssclasses: ""
 ---
+
 
 # Transfinitud De Cantor
 

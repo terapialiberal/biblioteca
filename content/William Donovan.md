@@ -1,12 +1,15 @@
 ---
-titulo: William Donovan
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [allen, donovan, wall, william]
 publish: true
+created: 2026-01-29T19:17:44.430-03:00
+modified: 2026-02-27T13:07:04.899-03:00
+tags:
+  - allen
+  - donovan
+  - wall
+  - william
+cssclasses: ""
 ---
+
 # William Donovan
 
 > **Perfil TL:** "Wild Bill" - El abogado de Wall Street que fundó la OSS y estableció el ADN de la CIA.

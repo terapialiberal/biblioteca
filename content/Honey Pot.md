@@ -1,12 +1,15 @@
 ---
-titulo: Honey Pot (Operación)
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [honey, jeffrey, mossad, operacin]
 publish: true
+created: 2026-01-29T19:17:17.324-03:00
+modified: 2026-02-27T13:07:50.729-03:00
+tags:
+  - honey
+  - jeffrey
+  - mossad
+  - operacin
+cssclasses: ""
 ---
+
 # Honey Pot (Operación)
 
 ## Perfil TL (Resumen Ejecutivo)

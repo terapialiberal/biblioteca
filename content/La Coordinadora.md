@@ -10,7 +10,7 @@ publish: true
 # La Coordinadora (v2.0): Los Arquitectos De La Gestión De La Transición
 
 > [!ABSTRACT] Hipótesis Informativa
-> "La Coordinadora" constituyó la **primera tecnocracia de cuadros de la democracia argentina moderna**. Surgida de la juventud radical, su función fue administrar la transición del poder militar al **Consenso de [[Tier B]]**. Bajo el liderazgo de figuras como **[[Enrique Coti Nosiglia|Coti Nosiglia]]**, el grupo transformó la militancia ética en una estructura de **gestión de cajas del Estado** y mediación corporativa. La Coordinadora diseñó el modelo de "operador político" moderno, asegurando que la alternancia democrática no interfiriera con los intereses de fondo del [[Tier A]] y estableciendo los puentes de impunidad judicial que definirían la política argentina por las décadas siguientes.
+> "La Coordinadora" constituyó la **primera tecnocracia de cuadros de la democracia argentina moderna**. Surgida de la juventud radical, su función fue administrar la transición del poder militar al **Consenso de [[Tier B]]**. Bajo el liderazgo de figuras como **[[Enrique Coti Nosiglia\|Coti Nosiglia]]**, el grupo transformó la militancia ética en una estructura de **gestión de cajas del Estado** y mediación corporativa. La Coordinadora diseñó el modelo de "operador político" moderno, asegurando que la alternancia democrática no interfiriera con los intereses de fondo del [[Tier A]] y estableciendo los puentes de impunidad judicial que definirían la política argentina por las décadas siguientes.
 
 ## Análisis De Tiers
 

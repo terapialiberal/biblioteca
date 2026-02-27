@@ -1,12 +1,15 @@
 ---
-titulo: Desobediencia Fiscal
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [desobediencia, economa, fiscal, naciones]
 publish: true
+created: 2026-01-29T19:17:10.158-03:00
+modified: 2026-02-27T13:07:55.773-03:00
+tags:
+  - desobediencia
+  - economa
+  - fiscal
+  - naciones
+cssclasses: ""
 ---
+
 # Desobediencia Fiscal
 
 ## Resumen General

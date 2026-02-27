@@ -1,12 +1,15 @@
 ---
-titulo: Viktor Orban - El Opositor Controlado
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [opositor, orban, tisza, viktor]
 publish: true
+created: 2026-02-09T17:28:32.783-03:00
+modified: 2026-02-27T13:24:08.667-03:00
+tags:
+  - opositor
+  - orban
+  - tisza
+  - viktor
+cssclasses: ""
 ---
+
 # [[Viktor Orban - El Opositor Controlado]]
 
 **Clasificación:** Tier C (Regulador de Tensión / "Brake" sistémico)  

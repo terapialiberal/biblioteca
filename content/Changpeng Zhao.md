@@ -1,12 +1,15 @@
 ---
-titulo: Changpeng Zhao (CZ)
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [binance, changpeng, gary, zhao]
 publish: true
+created: 2026-01-29T19:17:07.322-03:00
+modified: 2026-02-27T13:22:18.592-03:00
+tags:
+  - binance
+  - changpeng
+  - gary
+  - zhao
+cssclasses: ""
 ---
+
 # Changpeng Zhao (CZ)
 
 ## Perfil TL (Resumen Ejecutivo)

@@ -1,12 +1,15 @@
 ---
-titulo: Resumen General
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [devin, donald, kash, nunes]
 publish: true
+created: 2026-01-29T19:17:10.192-03:00
+modified: 2026-02-27T13:22:29.663-03:00
+tags:
+  - devin
+  - donald
+  - kash
+  - nunes
+cssclasses: ""
 ---
+
 # Resumen General
 Devin Nunes (1973-) fue congresista republicano y ahora CEO de Truth Social (Trump Media). Lideró la investigación del Congreso que expuso el dossier Steele y los abusos del FBI en Russiagate.
 

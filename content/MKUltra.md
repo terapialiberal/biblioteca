@@ -1,12 +1,15 @@
 ---
-titulo: "MKUltra: Control Mental Y Manipulación Psicológica"
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [control, manipulacin, mkultra, sidney]
 publish: true
+created: 2026-01-29T19:17:25.557-03:00
+modified: 2026-02-27T13:23:23.721-03:00
+tags:
+  - control
+  - manipulacin
+  - mkultra
+  - sidney
+cssclasses: ""
 ---
+
 # MKUltra: Control Mental Y Manipulación Psicológica
 
 > [!ABSTRACT] Hipótesis Informativa

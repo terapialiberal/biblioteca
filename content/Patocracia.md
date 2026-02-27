@@ -1,12 +1,15 @@
 ---
-titulo: "Patocracia (v2.0): La Gobernanza Del Mal Totalitario"
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [andrew, gobernanza, ponerologa, totalitario]
 publish: true
+created: 2026-01-29T19:17:29.903-03:00
+modified: 2026-02-27T13:23:38.591-03:00
+tags:
+  - andrew
+  - gobernanza
+  - ponerologa
+  - totalitario
+cssclasses: ""
 ---
+
 # Patocracia (v2.0): La Gobernanza Del Mal Totalitario
 
 > [!ABSTRACT] Hipótesis Informativa

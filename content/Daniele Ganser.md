@@ -1,12 +1,15 @@
 ---
-titulo: Daniele Ganser
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [daniele, ganser, operacin, otan]
 publish: true
+created: 2026-01-29T19:17:09.593-03:00
+modified: 2026-02-27T13:07:02.241-03:00
+tags:
+  - daniele
+  - ganser
+  - operacin
+  - otan
+cssclasses: ""
 ---
+
 # Daniele Ganser
 
 ## Perfil TL (Resumen Ejecutivo)

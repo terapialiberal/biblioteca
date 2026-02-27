@@ -1,12 +1,15 @@
 ---
-titulo: Decrecimiento (Degrowth)
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [agenda, club, decrecimiento, degrowth]
 publish: true
+created: 2026-01-29T19:17:09.890-03:00
+modified: 2026-02-27T13:22:28.164-03:00
+tags:
+  - agenda
+  - club
+  - decrecimiento
+  - degrowth
+cssclasses: ""
 ---
+
 # Decrecimiento (Degrowth)
 
 ## Perfil TL (Resumen Ejecutivo)

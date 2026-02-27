@@ -1,12 +1,15 @@
 ---
-titulo: "Archivos Epstein (2024): La Transparencia Coreografiada"
-tipo: articulo
-fecha: 2024-01-01
-tier-primario: "b"
-nivel-evidencia: "alto"
-tags: [archivos, epstein, jeffrey, transparencia]
 publish: true
+created: 2026-01-29T19:17:03.813-03:00
+modified: 2026-02-27T13:06:19.804-03:00
+tags:
+  - archivos
+  - epstein
+  - jeffrey
+  - transparencia
+cssclasses: ""
 ---
+
 # Archivos Epstein (2024): La Transparencia Coreografiada
 
 > [!NOTE] Antecedente Histórico

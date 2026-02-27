@@ -1,12 +1,14 @@
 ---
-titulo: Antigravedad Y TR-3B
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [antigravedad, nikola, rea]
 publish: true
+created: 2026-01-29T19:17:03.649-03:00
+modified: 2026-02-27T13:06:48.251-03:00
+tags:
+  - antigravedad
+  - nikola
+  - rea
+cssclasses: ""
 ---
+
 ![Black Triangle](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Black_triangle_UFO.png/220px-Black_triangle_UFO.png)
 # Antigravedad Y TR-3B
 

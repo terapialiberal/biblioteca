@@ -1,12 +1,15 @@
 ---
-titulo: Agencia De Seguridad Nacional
-tipo: organizacion
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [conocimiento, nacional, palantir, seguridad]
 publish: true
+created: 2026-01-29T19:17:02.980-03:00
+modified: 2026-02-27T13:06:32.282-03:00
+tags:
+  - conocimiento
+  - nacional
+  - palantir
+  - seguridad
+cssclasses: ""
 ---
+
 # Agencia De Seguridad Nacional
 ![](https://wikispooks.com/w/images/c/c4/NSA_HQ.jpg)
 

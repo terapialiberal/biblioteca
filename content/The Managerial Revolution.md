@@ -1,12 +1,15 @@
 ---
-titulo: The Managerial Revolution (James Burnham)
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [burnham, james, managerial, revolution]
 publish: true
+created: 2026-01-29T19:17:39.817-03:00
+modified: 2026-02-27T13:06:40.228-03:00
+tags:
+  - burnham
+  - james
+  - managerial
+  - revolution
+cssclasses: ""
 ---
+
 # The Managerial Revolution (James Burnham)
 
 > **Resumen:** El origen real del Estado Profundo burocrático.

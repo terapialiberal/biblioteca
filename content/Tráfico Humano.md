@@ -1,12 +1,15 @@
 ---
-titulo: Tráfico Humano — El Arma De La Desestabilización Demográfica
-tipo: persona
-fecha: 2026-02-25
-tags: [george, humano, plan, trfico]
-tier-primario: "a"
-nivel-evidencia: "alto"
 publish: true
+created: 2026-01-29T19:17:41.642-03:00
+modified: 2026-02-27T13:06:58.993-03:00
+tags:
+  - george
+  - humano
+  - plan
+  - trfico
+cssclasses: ""
 ---
+
 
 # Tráfico Humano — El Arma De La Desestabilización Demográfica
 

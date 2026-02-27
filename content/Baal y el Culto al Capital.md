@@ -1,12 +1,15 @@
 ---
-titulo: Baal Y El Culto Al Capital (El Señor De La Renta)
-tipo: concepto
-fecha: 2026-02-25
-tags: [baal, capital, culto, historia]
-tier-primario: "a"
-nivel-evidencia: "alto"
 publish: true
+created: 2026-02-25T22:25:27.170-03:00
+modified: 2026-02-27T13:22:02.415-03:00
+tags:
+  - baal
+  - capital
+  - culto
+  - historia
+cssclasses: ""
 ---
+
 
 # Baal Y El Culto Al Capital (El Señor De La Renta)
 

@@ -1,12 +1,14 @@
 ---
-titulo: 678 Y El Relato
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [cristina, naciones, relato]
 publish: true
+created: 2026-01-29T19:17:02.626-03:00
+modified: 2026-02-27T16:24:29.451-03:00
+tags:
+  - cristina
+  - naciones
+  - relato
+cssclasses: ""
 ---
+
 # 678 Y El Relato
 
 ## Resumen General

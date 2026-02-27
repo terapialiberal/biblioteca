@@ -1,12 +1,15 @@
 ---
-titulo: Brookings Institution
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [brookings, ford, institution, partido]
 publish: true
+created: 2026-01-29T19:17:06.011-03:00
+modified: 2026-02-27T13:22:08.247-03:00
+tags:
+  - brookings
+  - ford
+  - institution
+  - partido
+cssclasses: ""
 ---
+
 ![Brookings](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Brookings_Institution_building.jpg/220px-Brookings_Institution_building.jpg)
 # Brookings Institution
 

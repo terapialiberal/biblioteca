@@ -1,12 +1,14 @@
 ---
-titulo: Disonancia Cognitiva (Isis)
-tipo: persona
-fecha: 2026-02-25
-tags: [cognitiva, disonancia, isis]
-tier-primario: "b"
-nivel-evidencia: "medio"
 publish: true
+created: 2026-02-25T22:08:31.844-03:00
+modified: 2026-02-27T13:22:30.709-03:00
+tags:
+  - cognitiva
+  - disonancia
+  - isis
+cssclasses: ""
 ---
+
 
 # Disonancia Cognitiva (Isis)
 

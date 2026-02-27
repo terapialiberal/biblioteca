@@ -1,12 +1,15 @@
 ---
-titulo: Manipulación De Mercados — La Mano Invisible De Tier B
-tipo: "concepto"
-fecha: 2026-02-25
-tags: [invisible, manipulacin, mano, mercados]
-tier-primario: "b"
-nivel-evidencia: "alto"
 publish: true
+created: 2026-02-25T22:50:22.160-03:00
+modified: 2026-02-27T13:23:18.095-03:00
+tags:
+  - invisible
+  - manipulacin
+  - mano
+  - mercados
+cssclasses: ""
 ---
+
 
 # Manipulación De Mercados — La Mano Invisible De Tier B
 

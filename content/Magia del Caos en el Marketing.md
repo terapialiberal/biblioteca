@@ -1,12 +1,14 @@
 ---
-titulo: Magia Del Caos En El Marketing
-tipo: "concepto"
-fecha: 2026-02-25
-tags: [caos, magia, marketing]
-tier-primario: "b"
-nivel-evidencia: "medio"
 publish: true
+created: 2026-02-25T22:08:32.199-03:00
+modified: 2026-02-27T13:23:17.571-03:00
+tags:
+  - caos
+  - magia
+  - marketing
+cssclasses: ""
 ---
+
 
 # Magia Del Caos En El Marketing
 

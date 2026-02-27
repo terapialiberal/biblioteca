@@ -1,12 +1,15 @@
 ---
-titulo: "John Elkann: El Modernizador Silencioso"
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [elkann, modernizador, silencioso, wallenberg]
 publish: true
+created: 2026-01-29T19:17:19.808-03:00
+modified: 2026-02-27T13:23:00.928-03:00
+tags:
+  - elkann
+  - modernizador
+  - silencioso
+  - wallenberg
+cssclasses: ""
 ---
+
 # John Elkann: El Modernizador Silencioso
 
 > [!ABSTRACT] Hipótesis Informativa

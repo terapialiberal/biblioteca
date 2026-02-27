@@ -1,12 +1,15 @@
 ---
-titulo: Digital ID - Global Protocol
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [digital, european, global, protocol]
 publish: true
+created: 2026-02-09T17:27:01.602-03:00
+modified: 2026-02-27T13:22:30.233-03:00
+tags:
+  - digital
+  - european
+  - global
+  - protocol
+cssclasses: ""
 ---
+
 # [[Digital ID - Global Protocol]]
 
 **Clasificación:** Tier B (Arquitectura de Identidad Global)  

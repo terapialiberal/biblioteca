@@ -1,12 +1,15 @@
 ---
-titulo: Aleister Crowley
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [aleister, barbara, crowley, jack]
 publish: true
+created: 2026-01-29T19:17:03.203-03:00
+modified: 2026-02-27T13:06:37.573-03:00
+tags:
+  - aleister
+  - barbara
+  - crowley
+  - jack
+cssclasses: ""
 ---
+
 # Aleister Crowley
 
 ## Perfil TL (Resumen Ejecutivo)

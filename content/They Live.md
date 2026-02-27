@@ -1,12 +1,15 @@
 ---
-titulo: They Live (Están Vivos)
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [edward, live, menticidio, they]
 publish: true
+created: 2026-01-29T19:17:40.208-03:00
+modified: 2026-02-27T13:24:03.215-03:00
+tags:
+  - edward
+  - live
+  - menticidio
+  - they
+cssclasses: ""
 ---
+
 ![They Live](https://upload.wikimedia.org/wikipedia/en/thumb/2/23/They_Live_poster.jpg/220px-They_Live_poster.jpg)
 # They Live (Están Vivos)
 

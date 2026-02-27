@@ -1,12 +1,15 @@
 ---
-titulo: Fragmentación Del Discurso
-tipo: evento
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [atomizacin, discurso, dividir, fragmentacin]
 publish: true
+created: 2026-01-29T19:17:14.017-03:00
+modified: 2026-02-27T13:22:44.297-03:00
+tags:
+  - atomizacin
+  - discurso
+  - dividir
+  - fragmentacin
+cssclasses: ""
 ---
+
 # Fragmentación Del Discurso
 
 ## Perfil TL (Resumen Ejecutivo)

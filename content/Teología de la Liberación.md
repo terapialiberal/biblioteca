@@ -1,12 +1,15 @@
 ---
-titulo: Teología De La Liberación
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [jesuitas, liberacin, marxismo, teologa]
 publish: true
+created: 2026-01-29T19:17:38.766-03:00
+modified: 2026-02-27T13:24:01.577-03:00
+tags:
+  - jesuitas
+  - liberacin
+  - marxismo
+  - teologa
+cssclasses: ""
 ---
+
 # Teología De La Liberación
 
 ## Resumen General

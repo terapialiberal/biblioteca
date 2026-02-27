@@ -1,12 +1,15 @@
 ---
-titulo: Explosión Del Puerto De Beirut
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [beirut, explosin, hezbollah, puerto]
 publish: true
+created: 2026-01-29T19:17:12.913-03:00
+modified: 2026-02-27T13:06:23.212-03:00
+tags:
+  - beirut
+  - explosin
+  - hezbollah
+  - puerto
+cssclasses: ""
 ---
+
 # Explosión Del Puerto De Beirut
 
 > [!INFO] Contexto

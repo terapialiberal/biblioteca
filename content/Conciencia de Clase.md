@@ -1,12 +1,15 @@
 ---
-titulo: Resumen General
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [bilderberg, clase, conciencia, lite]
 publish: true
+created: 2026-01-29T19:17:08.489-03:00
+modified: 2026-02-27T13:07:13.198-03:00
+tags:
+  - bilderberg
+  - clase
+  - conciencia
+  - lite
+cssclasses: ""
 ---
+
 # Resumen General
 Las élites tienen alta conciencia de clase—saben que son un grupo con intereses comunes y actúan en consecuencia. Las clases trabajadoras tienen baja conciencia de clase y creen que la sociedad son individuos aislados.
 

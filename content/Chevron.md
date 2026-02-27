@@ -1,12 +1,14 @@
 ---
-titulo: Chevron
-tipo: organizacion
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [chevron, john, standard]
 publish: true
+created: 2026-01-29T19:17:07.487-03:00
+modified: 2026-02-27T13:07:10.601-03:00
+tags:
+  - chevron
+  - john
+  - standard
+cssclasses: ""
 ---
+
 # Chevron
 
 ## Perfil TL (Resumen Ejecutivo)

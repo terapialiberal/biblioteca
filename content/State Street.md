@@ -1,12 +1,15 @@
 ---
-titulo: "State Street: El Guardián Invisible Del Capital"
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [blackrock, invisible, state, vanguard]
 publish: true
+created: 2026-01-29T19:17:37.897-03:00
+modified: 2026-02-27T13:24:00.308-03:00
+tags:
+  - blackrock
+  - invisible
+  - state
+  - vanguard
+cssclasses: ""
 ---
+
 # State Street: El Guardián Invisible Del Capital
 
 > [!ABSTRACT] Hipótesis Informativa

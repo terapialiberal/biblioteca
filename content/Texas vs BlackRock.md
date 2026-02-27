@@ -1,12 +1,14 @@
 ---
-titulo: Texas Vs BlackRock
-tipo: empresa
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [blackrock, larry, texas]
 publish: true
+created: 2026-01-29T19:17:39.402-03:00
+modified: 2026-02-27T13:06:37.627-03:00
+tags:
+  - blackrock
+  - larry
+  - texas
+cssclasses: ""
 ---
+
 # Texas Vs BlackRock
 
 ## Resumen General

@@ -1,12 +1,15 @@
 ---
-titulo: Geopolítica Del Agua (El Oro Azul)
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [agua, azul, geopoltica, nestl]
 publish: true
+created: 2026-01-29T19:17:15.065-03:00
+modified: 2026-02-27T13:07:35.372-03:00
+tags:
+  - agua
+  - azul
+  - geopoltica
+  - nestl
+cssclasses: ""
 ---
+
 # Geopolítica Del Agua (El Oro Azul)
 
 ## Perfil TL (Resumen Ejecutivo)

@@ -1,12 +1,15 @@
 ---
-titulo: Gold Backed CBDC - Pilot
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [backed, cbdc, pilot, rusia]
 publish: true
+created: 2026-02-09T17:26:09.520-03:00
+modified: 2026-02-27T13:22:48.859-03:00
+tags:
+  - backed
+  - cbdc
+  - pilot
+  - rusia
+cssclasses: ""
 ---
+
 # [[Gold Backed CBDC - Pilot]]
 
 **Clasificación:** Tier A (Guerra de Divisas / Hard-Money)  

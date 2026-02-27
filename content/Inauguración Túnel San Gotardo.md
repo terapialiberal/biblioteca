@@ -1,12 +1,15 @@
 ---
-titulo: Inauguración Túnel De San Gotardo
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [gotardo, inauguracin, rituales, simbolismo]
 publish: true
+created: 2026-01-29T19:17:18.133-03:00
+modified: 2026-02-27T13:07:19.665-03:00
+tags:
+  - gotardo
+  - inauguracin
+  - rituales
+  - simbolismo
+cssclasses: ""
 ---
+
 # Inauguración Túnel De San Gotardo
 
 ## Perfil TL (Resumen Ejecutivo)

@@ -1,12 +1,15 @@
 ---
 publish: true
-titulo: Angela Merkel
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [angela, klaus, merkel, vladimir]
+created: 2026-01-29T19:17:03.576-03:00
+modified: 2026-02-27T13:07:10.587-03:00
+tags:
+  - angela
+  - klaus
+  - merkel
+  - vladimir
+cssclasses: ""
 ---
+
 ![Angela Merkel](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Besuch_Bundeskanzlerin_Angela_Merkel_im_Rathaus_K%C3%B6ln-0901.jpg/220px-Besuch_Bundeskanzlerin_Angela_Merkel_im_Rathaus_K%C3%B6ln-0901.jpg)
 # Angela Merkel
 

@@ -1,12 +1,14 @@
 ---
 publish: true
-titulo: Cartel De Sinaloa
-tipo: evento
-fecha: 2026-02-25
-tier-primario: b
-nivel-evidencia: medio
-tags: [cartel, hsbc, sinaloa]
+created: 2026-01-29T19:17:06.675-03:00
+modified: 2026-02-27T13:06:23.066-03:00
+tags:
+  - cartel
+  - hsbc
+  - sinaloa
+cssclasses: ""
 ---
+
 # Cartel De Sinaloa
 
 ## Perfil TL (Resumen Ejecutivo)

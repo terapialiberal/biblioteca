@@ -1,12 +1,15 @@
 ---
-titulo: Efecto Streisand (Censura)
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [censura, efecto, psicologa, streisand]
 publish: true
+created: 2026-01-29T19:17:11.108-03:00
+modified: 2026-02-27T13:22:33.056-03:00
+tags:
+  - censura
+  - efecto
+  - psicologa
+  - streisand
+cssclasses: ""
 ---
+
 # Efecto Streisand (Censura)
 
 ## Perfil TL (Resumen Ejecutivo)

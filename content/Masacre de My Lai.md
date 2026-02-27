@@ -1,12 +1,14 @@
 ---
-titulo: Masacre De My Lai
-tipo: evento
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [guerra, masacre, seymour]
 publish: true
+created: 2026-01-29T19:17:24.165-03:00
+modified: 2026-02-27T13:06:46.799-03:00
+tags:
+  - guerra
+  - masacre
+  - seymour
+cssclasses: ""
 ---
+
 # Masacre De My Lai
 
 ## Resumen Ejecutivo

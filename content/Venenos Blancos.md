@@ -1,12 +1,15 @@
 ---
-titulo: Resumen General
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [blancos, codex, lobby, venenos]
 publish: true
+created: 2026-01-29T19:17:42.945-03:00
+modified: 2026-02-27T13:24:07.693-03:00
+tags:
+  - blancos
+  - codex
+  - lobby
+  - venenos
+cssclasses: ""
 ---
+
 # Resumen General
 Término coloquial para los tres ingredientes industriales refinados que forman la base de la dieta moderna: Azúcar, Harina y Sal (refinada). Desde una perspectiva de control ("Terapia Liberal"), no son alimentos, sino drogas de diseño subsidiadas para mantener a la población enferma, adicta, dócil y dependiente del sistema farmacéutico.
 

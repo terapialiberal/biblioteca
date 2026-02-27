@@ -1,12 +1,15 @@
 ---
-titulo: Guerra Cognitiva (Cognitive Warfare)
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [ciberntica, cognitive, guerra, warfare]
 publish: true
+created: 2026-01-29T19:17:16.184-03:00
+modified: 2026-02-27T13:07:44.427-03:00
+tags:
+  - ciberntica
+  - cognitive
+  - guerra
+  - warfare
+cssclasses: ""
 ---
+
 # Guerra Cognitiva (Cognitive Warfare)
 
 ## Perfil TL (Resumen Ejecutivo)

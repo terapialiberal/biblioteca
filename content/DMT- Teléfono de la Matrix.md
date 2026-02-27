@@ -1,12 +1,15 @@
 ---
-titulo: DMT- Teléfono De La Matrix (La Molécula Del Espíritu)
-tipo: "concepto"
-fecha: 2026-02-25
-tags: [glndula, matrix, psicodlicos, telfono]
-tier-primario: "a"
-nivel-evidencia: "medio"
 publish: true
+created: 2026-02-25T22:08:56.562-03:00
+modified: 2026-02-27T13:22:30.758-03:00
+tags:
+  - glndula
+  - matrix
+  - psicodlicos
+  - telfono
+cssclasses: ""
 ---
+
 
 # DMT- Teléfono De La Matrix (La Molécula Del Espíritu)
 

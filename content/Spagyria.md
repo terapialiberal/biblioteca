@@ -1,12 +1,12 @@
 ---
-titulo: Spagyria
-tipo: "concepto"
-fecha: 2026-02-25
-tags: [spagyria]
-tier-primario: "b"
-nivel-evidencia: "medio"
 publish: true
+created: 2026-02-25T22:08:57.332-03:00
+modified: 2026-02-27T13:23:59.051-03:00
+tags:
+  - spagyria
+cssclasses: ""
 ---
+
 
 # Spagyria
 

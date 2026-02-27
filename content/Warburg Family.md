@@ -1,12 +1,15 @@
 ---
-titulo: Warburg Family
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [familia, family, reserva, warburg]
 publish: true
+created: 2026-01-29T19:17:43.870-03:00
+modified: 2026-02-27T13:24:09.322-03:00
+tags:
+  - familia
+  - family
+  - reserva
+  - warburg
+cssclasses: ""
 ---
+
 ![Paul Warburg](https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Paul_Warburg.jpg/220px-Paul_Warburg.jpg)
 # Warburg Family
 

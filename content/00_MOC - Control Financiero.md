@@ -1,12 +1,15 @@
 ---
-titulo: 💰 MOC — CONTROL FINANCIERO
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [00-moc, banco, financiero, reserva]
 publish: true
+created: 2026-02-24T13:32:27.996-03:00
+modified: 2026-02-27T13:21:56.145-03:00
+tags:
+  - 00-moc
+  - banco
+  - financiero
+  - reserva
+cssclasses: ""
 ---
+
 # 💰 MOC — CONTROL FINANCIERO
 
 > **Cui Bono**: El dinero no desaparece. Se transfiere.
@@ -123,11 +126,50 @@ publish: true
 
 ## 📊 NODOS AUTOMÁTICOS (Dataview)
 
-```dataview
-LIST
-FROM #finanzas OR #control-financiero OR #cbdc OR #deuda OR #great-taking OR #banca
-SORT file.name ASC
-```
+- [[00_MOC - Finanzas y CBDC\|00_MOC - Finanzas y CBDC]]
+- [[Anubis - El Pescador de Almas En Deuda\|Anubis - El Pescador de Almas En Deuda]]
+- [[Banco de Pagos Internacionales\|Banco de Pagos Internacionales]]
+- [[Biometría Global\|Biometría Global]]
+- [[BIS Innovation Hub\|BIS Innovation Hub]]
+- [[Carney_en_Beijing_DW\|Carney_en_Beijing_DW]]
+- [[CBDC Interoperability\|CBDC Interoperability]]
+- [[Chavanette Research\|Chavanette Research]]
+- [[Cómo la casa de Rothschild se entrelazó con Epstein\|Cómo la casa de Rothschild se entrelazó con Epstein]]
+- [[Crédito Social\|Crédito Social]]
+- [[Crédito Social Chino\|Crédito Social Chino]]
+- [[Cybernetics of Control\|Cybernetics of Control]]
+- [[Diem\|Diem]]
+- [[El Gran Reinicio\|El Gran Reinicio]]
+- [[El Patrón Bitcoin\|El Patrón Bitcoin]]
+- [[Escritura Cuneiforme y Deuda\|Escritura Cuneiforme y Deuda]]
+- [[Ethereum Foundation\|Ethereum Foundation]]
+- [[Euroclear\|Euroclear]]
+- [[Fondos Buitre\|Fondos Buitre]]
+- [[Fractalidad de la Deuda\|Fractalidad de la Deuda]]
+- [[Geocercas\|Geocercas]]
+- [[Gold Backed CBDC - Pilot\|Gold Backed CBDC - Pilot]]
+- [[Grupo de los Treinta\|Grupo de los Treinta]]
+- [[Guerra de Divisas\|Guerra de Divisas]]
+- [[Hal Finney\|Hal Finney]]
+- [[KKR\|KKR]]
+- [[Las afirmaciones de sexo con menores sacuden al grupo de Bitcoin\|Las afirmaciones de sexo con menores sacuden al grupo de Bitcoin]]
+- [[Línea de Tiempo - 2010s-2020s\|Línea de Tiempo - 2010s-2020s]]
+- [[Los correos electrónicos de Epstein arrojan una la\|Los correos electrónicos de Epstein arrojan una la]]
+- [[Mercado Pago\|Mercado Pago]]
+- [[Monedas de Privacidad\|Monedas de Privacidad]]
+- [[N M Rothschild and Sons\|N M Rothschild and Sons]]
+- [[Nicholas Brady\|Nicholas Brady]]
+- [[Nuevo Bretton Woods\|Nuevo Bretton Woods]]
+- [[Nuevos correos revelan que Epstein financió indire\|Nuevos correos revelan que Epstein financió indire]]
+- [[05_Videos_Publicados/2026/2026-01-07_Gaza_SA/Post Gaza SA\|Post Gaza SA]]
+- [[Reserva Federal\|Reserva Federal]]
+- [[Rishi Sunak\|Rishi Sunak]]
+- [[Santiago Bausili\|Santiago Bausili]]
+- [[Saturno y Deuda\|Saturno y Deuda]]
+- [[Score Ciudadano\|Score Ciudadano]]
+- [[Shock de Nixon\|Shock de Nixon]]
+- [[01_Ideas/video-baby-trump-blackrock\|video-baby-trump-blackrock]]
+
 
 ---
 

@@ -1,12 +1,15 @@
 ---
-titulo: "Realpolitik (Realismo Geopolítico): El Tablero Sin Árbitro"
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [geopoltico, henry, realismo, rbitro]
 publish: true
+created: 2026-01-29T19:17:32.660-03:00
+modified: 2026-02-27T13:23:47.539-03:00
+tags:
+  - geopoltico
+  - henry
+  - realismo
+  - rbitro
+cssclasses: ""
 ---
+
 # Realpolitik (Realismo Geopolítico): El Tablero Sin Árbitro
 
 > [!ABSTRACT] Hipótesis Informativa
@@ -27,7 +30,7 @@ publish: true
 ## Conexiones Críticas
 - [[Henry Kissinger]]: El practicante moderno más visible.
 - [[Dilema del Prisionero]]: El modelo matemático que explica por qué la cooperación falla bajo anarquía.
-- [[Estado Profundo]]: Quien gestiona la Realpolitik mientras el gobierno visible habla de moral.
+- [[Estado profundo]]: Quien gestiona la Realpolitik mientras el gobierno visible habla de moral.
 
 ## Conclusión Del Análisis
 La Realpolitik es el sistema operativo del Nivel 2 (Estado vs Estado). Mientras los presidentes hablan de valores, las agencias de inteligencia operan bajo reglas de suma cero por recursos y geografía. Ignorar esto es confundir el mapa con el territorio.

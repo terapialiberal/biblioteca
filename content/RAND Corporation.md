@@ -29,7 +29,7 @@ publish: true
 - [[Complejo Militar-Industrial]]: Su creador y financiador principal.
 - [[Pentágono]]: Su cliente número uno.
 - [[Herman Kahn]]: El estratega nuclear definitivo.
-- [[Darpa]]: Su socio en la ejecución técnica de los planes de RAND.
+- [[DARPA]]: Su socio en la ejecución técnica de los planes de RAND.
 - [[Teoría de Juegos]]: El marco matemático de su análisis.
 - [[Comisión Trilateral]]: Donde los planes de RAND se globalizan.
 

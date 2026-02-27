@@ -1,12 +1,14 @@
 ---
-titulo: "Sirio: El Guía Externo"
-tipo: "concepto"
-fecha: 2026-02-25
-tags: [externo, gua, sirio]
-tier-primario: "b"
-nivel-evidencia: "medio"
 publish: true
+created: 2026-02-25T22:08:53.966-03:00
+modified: 2026-02-27T13:23:56.049-03:00
+tags:
+  - externo
+  - gua
+  - sirio
+cssclasses: ""
 ---
+
 
 # Sirio: El Guía Externo
 

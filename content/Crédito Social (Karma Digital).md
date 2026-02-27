@@ -1,12 +1,15 @@
 ---
-titulo: Crédito Social (Karma Digital)
-tipo: "concepto"
-fecha: 2026-02-25
-tags: [crdito, digital, karma, social]
-tier-primario: "b"
-nivel-evidencia: "medio"
 publish: true
+created: 2026-02-25T22:08:33.324-03:00
+modified: 2026-02-27T13:22:24.570-03:00
+tags:
+  - crdito
+  - digital
+  - karma
+  - social
+cssclasses: ""
 ---
+
 
 # Crédito Social (Karma Digital)
 

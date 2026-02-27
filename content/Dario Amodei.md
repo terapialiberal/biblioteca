@@ -1,12 +1,15 @@
 ---
-titulo: Dario Amodei
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [amodei, dario, google, openai]
 publish: true
+created: 2026-01-29T19:17:09.649-03:00
+modified: 2026-02-27T13:07:29.699-03:00
+tags:
+  - amodei
+  - dario
+  - google
+  - openai
+cssclasses: ""
 ---
+
 # Dario Amodei
 
 ## Perfil TL (Resumen Ejecutivo)

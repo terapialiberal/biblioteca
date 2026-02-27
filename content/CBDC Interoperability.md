@@ -1,12 +1,15 @@
 ---
-titulo: CBDC INTEROPERABILITY (v12_1)
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "alto"
-tags: [cbdc, interoperability, project, swift]
 publish: true
+created: 2026-02-25T16:06:49.246-03:00
+modified: 2026-02-27T13:22:16.865-03:00
+tags:
+  - cbdc
+  - interoperability
+  - project
+  - swift
+cssclasses: ""
 ---
+
 # CBDC INTEROPERABILITY (v12_1)
 
 #### BLUF

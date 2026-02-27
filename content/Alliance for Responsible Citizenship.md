@@ -1,12 +1,15 @@
 ---
-titulo: Resumen General
-tipo: organizacion
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [alliance, citizenship, jordan, rishi]
 publish: true
+created: 2026-01-29T19:17:03.375-03:00
+modified: 2026-02-27T13:21:58.544-03:00
+tags:
+  - alliance
+  - citizenship
+  - jordan
+  - rishi
+cssclasses: ""
 ---
+
 # Resumen General
 ARC es una organización internacional fundada en 2023 por Jordan Peterson, John Anderson y otros conservadores de alto perfil. Se presenta como la "alternativa al WEF", pero su financiamiento (Legatum Institute, Paul Marshall) y su alineación con el establishment pro-guerra y pro-Israel sugieren que es un mecanismo de contención para la disidencia populista.
 

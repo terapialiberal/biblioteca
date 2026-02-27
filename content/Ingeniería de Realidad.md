@@ -1,12 +1,13 @@
 ---
-titulo: Ingeniería De Realidad (AR/VR)
-tipo: "concepto"
-fecha: 2026-02-25
-tags: [ingeniera, realidad]
-tier-primario: "b"
-nivel-evidencia: "medio"
 publish: true
+created: 2026-02-25T22:08:56.257-03:00
+modified: 2026-02-27T13:22:56.449-03:00
+tags:
+  - ingeniera
+  - realidad
+cssclasses: ""
 ---
+
 
 # Ingeniería De Realidad (AR/VR)
 

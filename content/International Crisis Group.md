@@ -1,12 +1,15 @@
 ---
-titulo: International Crisis Group
-tipo: empresa
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [crisis, george, international, otan]
 publish: true
+created: 2026-01-29T19:17:18.617-03:00
+modified: 2026-02-27T13:22:57.290-03:00
+tags:
+  - crisis
+  - george
+  - international
+  - otan
+cssclasses: ""
 ---
+
 # International Crisis Group
 
 ## Perfil TL (Resumen Ejecutivo)

@@ -1,19 +1,22 @@
 ---
-titulo: Derogación De Glass-Steagall
-tipo: evento
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [bill, citigroup, derogacin, glass]
 publish: true
+created: 2026-01-29T19:17:10.089-03:00
+modified: 2026-02-27T13:07:10.561-03:00
+tags:
+  - bill
+  - citigroup
+  - derogacin
+  - glass
+cssclasses: ""
 ---
+
 # Derogación De Glass-Steagall
 
 > [!INFO] Contexto
 > Clinton firma la ley que permitió la crisis de 2008.
 
 ## Qué Pasó
-En 1999, Clinton firmó la Gramm-Leach-Bliley Act que derogó [[Ley Glass-Steagall|Glass-Steagall]].
+En 1999, Clinton firmó la Gramm-Leach-Bliley Act que derogó [[Ley Glass-Steagall\|Glass-Steagall]].
 
 Esto permitió que bancos comerciales y de inversión se fusionaran.
 

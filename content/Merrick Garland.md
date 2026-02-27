@@ -31,7 +31,7 @@ publish: true
 - [[Hunter Biden]]: Su protegido.
 - [[Donald Trump]]: Su objetivo.
 - [[Lawfare]]: Su método.
-- [[Estado Profundo]]: Sus jefes.
+- [[Estado profundo]]: Sus jefes.
 
 ## Conclusión Del Análisis
 Merrick Garland será recordado como el hombre que terminó con la ilusión de la neutralidad judicial en Estados Unidos. Transformó al Departamento de Justicia en el brazo legal de la campaña de reelección demócrata.

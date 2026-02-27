@@ -1,12 +1,15 @@
 ---
-titulo: DEAD INTERNET THEORY (v12_1)
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [agencias, desierto, openai, theory]
 publish: true
+created: 2026-02-25T16:09:11.530-03:00
+modified: 2026-02-27T13:22:28.099-03:00
+tags:
+  - agencias
+  - desierto
+  - openai
+  - theory
+cssclasses: ""
 ---
+
 # DEAD INTERNET THEORY (v12_1)
 
 #### BLUF

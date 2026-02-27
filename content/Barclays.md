@@ -1,12 +1,14 @@
 ---
-titulo: Barclays
-tipo: evento
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [barclays, city, reserva]
 publish: true
+created: 2026-01-29T19:17:04.815-03:00
+modified: 2026-02-27T13:07:47.384-03:00
+tags:
+  - barclays
+  - city
+  - reserva
+cssclasses: ""
 ---
+
 # Barclays
 
 ## Perfil TL (Resumen Ejecutivo)

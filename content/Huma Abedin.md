@@ -1,12 +1,15 @@
 ---
-titulo: Huma Abedin
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [abedin, hermanos, hillary, huma]
 publish: true
+created: 2026-01-29T19:17:17.661-03:00
+modified: 2026-02-27T13:06:46.647-03:00
+tags:
+  - abedin
+  - hermanos
+  - hillary
+  - huma
+cssclasses: ""
 ---
+
 # Huma Abedin
 
 ## Perfil TL (Resumen Ejecutivo)

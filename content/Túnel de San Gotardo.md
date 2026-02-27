@@ -1,12 +1,15 @@
 ---
-titulo: Túnel De San Gotardo (Ritual)
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [cern, european, gotardo, tnel]
 publish: true
+created: 2026-01-29T19:17:41.916-03:00
+modified: 2026-02-27T13:24:06.236-03:00
+tags:
+  - cern
+  - european
+  - gotardo
+  - tnel
+cssclasses: ""
 ---
+
 # Túnel De San Gotardo (Ritual)
 
 ## Resumen Ejecutivo

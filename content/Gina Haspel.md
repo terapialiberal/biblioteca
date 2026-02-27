@@ -1,12 +1,15 @@
 ---
-titulo: Gina Haspel
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [donald, gina, haspel, tortura]
 publish: true
+created: 2026-01-29T19:17:15.329-03:00
+modified: 2026-02-27T13:22:47.173-03:00
+tags:
+  - donald
+  - gina
+  - haspel
+  - tortura
+cssclasses: ""
 ---
+
 # Gina Haspel
 
 ## Perfil TL (Resumen Ejecutivo)

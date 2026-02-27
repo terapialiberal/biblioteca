@@ -1,12 +1,15 @@
 ---
-titulo: "Technocracy Inc: El Abuelo De Silicon Valley"
-tipo: empresa
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [abuelo, elon, silicon, valley]
 publish: true
+created: 2026-01-29T19:17:38.495-03:00
+modified: 2026-02-27T13:24:01.525-03:00
+tags:
+  - abuelo
+  - elon
+  - silicon
+  - valley
+cssclasses: ""
 ---
+
 # Technocracy Inc: El Abuelo De Silicon Valley
 
 > [!ABSTRACT] Hipótesis Informativa

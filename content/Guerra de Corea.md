@@ -1,12 +1,15 @@
 ---
-titulo: Guerra De Corea
-tipo: evento
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [complejo, corea, guerra, naciones]
 publish: true
+created: 2026-01-29T19:17:16.220-03:00
+modified: 2026-02-27T13:06:35.300-03:00
+tags:
+  - complejo
+  - corea
+  - guerra
+  - naciones
+cssclasses: ""
 ---
+
 # Guerra De Corea
 
 ## Perfil TL (Resumen Ejecutivo)

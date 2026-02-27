@@ -1,17 +1,16 @@
 ---
-titulo: Caso Skripal (Envenenamiento De Salisbury)
-tipo: evento
-fecha: 2026-02-25T00:00:00.000Z
-tier-primario: b
-nivel-evidencia: medio
+publish: true
+created: 2026-01-29T19:17:06.874-03:00
+modified: 2026-02-27T12:35:06.134-03:00
 tags:
   - caso-skripal
   - guerra-híbrida
   - falsa-bandera
   - inteligencia-británica
   - propaganda
-publish: true
+cssclasses: ""
 ---
+
 # Caso Skripal (Envenenamiento De Salisbury)
 
 ## Perfil TL (Resumen Ejecutivo)

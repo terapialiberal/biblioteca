@@ -1,12 +1,15 @@
 ---
-titulo: Declaración De Great Barrington
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [barrington, ciencia, declaracin, declaration]
 publish: true
+created: 2026-01-29T19:17:15.939-03:00
+modified: 2026-02-27T13:07:07.766-03:00
+tags:
+  - barrington
+  - ciencia
+  - declaracin
+  - declaration
+cssclasses: ""
 ---
+
 # Declaración De Great Barrington
 
 ## Perfil TL (Resumen Ejecutivo)

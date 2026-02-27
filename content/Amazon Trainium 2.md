@@ -1,12 +1,15 @@
 ---
-titulo: AMAZON TRAINIUM 2 (v12_1)
-tipo: empresa
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [amazon, andy, jeff, trainium]
 publish: true
+created: 2026-02-25T14:52:34.692-03:00
+modified: 2026-02-27T13:21:58.946-03:00
+tags:
+  - amazon
+  - andy
+  - jeff
+  - trainium
+cssclasses: ""
 ---
+
 # AMAZON TRAINIUM 2 (v12_1)
 
 #### BLUF

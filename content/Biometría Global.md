@@ -1,12 +1,15 @@
 ---
-titulo: Biometría Global
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [biometra, cbdc, cyber, global]
 publish: true
+created: 2026-01-29T19:17:05.419-03:00
+modified: 2026-02-27T13:22:05.171-03:00
+tags:
+  - biometra
+  - cbdc
+  - cyber
+  - global
+cssclasses: ""
 ---
+
 # Biometría Global
 
 ## Resumen Ejecutivo

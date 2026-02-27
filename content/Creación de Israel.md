@@ -1,12 +1,15 @@
 ---
-titulo: Creación De Israel
-tipo: evento
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [creacin, david, declaracin, israel]
 publish: true
+created: 2026-01-29T19:17:09.021-03:00
+modified: 2026-02-27T13:07:39.173-03:00
+tags:
+  - creacin
+  - david
+  - declaracin
+  - israel
+cssclasses: ""
 ---
+
 # Creación De Israel
 
 > [!INFO] Contexto
@@ -24,7 +27,7 @@ Para los palestinos, esto fue la "Nakba" (catástrofe):
 - Creación de refugiados permanentes
 
 ## Antecedentes
-- [[Declaración Balfour (Evento)|Declaración Balfour]] (1917)
+- [[Declaración Balfour (Evento)\|Declaración Balfour]] (1917)
 - Mandato británico
 - Holocausto (generó simpatía mundial)
 - Terrorismo sionista (Irgun, Stern)

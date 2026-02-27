@@ -1,12 +1,14 @@
 ---
-titulo: "Agenda 2030: El Plan De Transformación Social Global"
-tipo: evento
-fecha: 2026-02-25
-tier-primario: b
-nivel-evidencia: medio
-tags: [agenda, detallada, transformacin]
 publish: true
+created: 2026-01-29T19:17:02.992-03:00
+modified: 2026-02-27T13:21:57.991-03:00
+tags:
+  - agenda
+  - detallada
+  - transformacin
+cssclasses: ""
 ---
+
 # Agenda 2030: El Plan De Transformación Social Global
 
 > [!ABSTRACT] Hipótesis Informativa

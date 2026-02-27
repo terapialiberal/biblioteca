@@ -1,12 +1,15 @@
 ---
-titulo: Cartago - El Nodo Expansivo De Canaán
-tipo: evento
-fecha: 2026-02-25
-tags: [canan, cartago, expansivo, nodo]
-tier-primario: "a"
-nivel-evidencia: "alto"
 publish: true
+created: 2026-02-25T22:35:52.972-03:00
+modified: 2026-02-27T13:22:15.888-03:00
+tags:
+  - canan
+  - cartago
+  - expansivo
+  - nodo
+cssclasses: ""
 ---
+
 
 # Cartago - El Nodo Expansivo De Canaán
 

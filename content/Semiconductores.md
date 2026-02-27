@@ -32,7 +32,7 @@ publish: true
 - [[TSMC]]: La catedral del silicio moderno.
 - [[AGI]]: El objetivo final que requiere estos chips.
 - [[ASML]]: La empresa holandesa que posee el monopolio de las máquinas de fabricar chips.
-- [[NVIDIA]]: La empresa de Tier B que diseña los planos del cerebro de la IA.
+- [[Nvidia]]: La empresa de Tier B que diseña los planos del cerebro de la IA.
 - [[Trampa de Tucídides (Poder Ascendente vs Dominante)]]: El marco histórico del conflicto EE.UU.-China por los chips.
 - [[Samsung]]: El único competidor real de Tier B que aún respira.
 

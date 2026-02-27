@@ -10,7 +10,7 @@ publish: true
 # Robert Mueller (v2.0): El Custodio Del Encubrimiento Sistémico
 
 > [!ABSTRACT] Hipótesis Informativa
-> Robert Mueller es el **Operador de [[Tier B]]** definitivo del establishment encargado de la preservación del secreto institucional ante las crisis existenciales de la Matrix. Nombrado director del **[[FBI]]** solo una semana antes del **[[Atentados del 11 de Septiembre|9/11]]**, Mueller supervisó la transformación de la agencia en una máquina de vigilancia doméstica y garantizó que las líneas de investigación que conducían al **[[Tier A]]** transnacional (como la conexión saudí) fueran neutralizadas. Su función real fue la de un **"Fixer" Institucional**, regresando años después como Fiscal Especial del **[[Russiagate]]** para gestionar la demolición controlada de la credibilidad política, asegurando que el Deep State permaneciera intocable.
+> Robert Mueller es el **Operador de [[Tier B]]** definitivo del establishment encargado de la preservación del secreto institucional ante las crisis existenciales de la Matrix. Nombrado director del **[[FBI]]** solo una semana antes del **[[Atentados del 11 de Septiembre\|9/11]]**, Mueller supervisó la transformación de la agencia en una máquina de vigilancia doméstica y garantizó que las líneas de investigación que conducían al **[[Tier A]]** transnacional (como la conexión saudí) fueran neutralizadas. Su función real fue la de un **"Fixer" Institucional**, regresando años después como Fiscal Especial del **[[Russiagate]]** para gestionar la demolición controlada de la credibilidad política, asegurando que el Deep State permaneciera intocable.
 
 ## Análisis De Tiers
 

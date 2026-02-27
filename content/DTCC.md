@@ -1,12 +1,15 @@
 ---
-titulo: DTCC (Depository Trust & Clearing Corp)
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [clearing, depository, dtcc, trust]
 publish: true
+created: 2026-01-29T19:17:10.609-03:00
+modified: 2026-02-27T13:07:11.843-03:00
+tags:
+  - clearing
+  - depository
+  - dtcc
+  - trust
+cssclasses: ""
 ---
+
 # DTCC (Depository Trust & Clearing Corp)
 
 > **Perfil TL:** Los verdaderos dueños de tus acciones (Cede & Co).

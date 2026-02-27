@@ -1,12 +1,15 @@
 ---
-titulo: "Plan Cóndor 2.0 (Lawfare) (v2.0): La Guerra Por Otros Medios"
-tipo: evento
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [guerra, lawfare, medios, otros]
 publish: true
+created: 2026-01-29T19:17:30.759-03:00
+modified: 2026-02-27T13:23:41.237-03:00
+tags:
+  - guerra
+  - lawfare
+  - medios
+  - otros
+cssclasses: ""
 ---
+
 # Plan Cóndor 2.0 (Lawfare) (v2.0): La Guerra Por Otros Medios
 
 > [!ABSTRACT] Hipótesis Informativa

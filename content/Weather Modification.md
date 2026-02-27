@@ -1,12 +1,15 @@
 ---
-titulo: Weather Modification (Enmod)
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [bill, darpa, modification, weather]
 publish: true
+created: 2026-01-29T19:17:44.036-03:00
+modified: 2026-02-27T13:24:09.368-03:00
+tags:
+  - bill
+  - darpa
+  - modification
+  - weather
+cssclasses: ""
 ---
+
 ![Operation Popeye](https://upload.wikimedia.org/wikipedia/commons/e/e0/Operation_Popeye_C-130.jpg)
 # Weather Modification (Enmod)
 

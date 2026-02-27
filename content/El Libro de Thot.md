@@ -1,12 +1,15 @@
 ---
-titulo: El Libro De Thot (Tarot Y Programación)
-tipo: concepto
-fecha: 2026-02-25
-tags: [alistair, hermetismo, libro, thot]
-tier-primario: "a"
-nivel-evidencia: "medio"
 publish: true
+created: 2026-02-25T22:08:52.530-03:00
+modified: 2026-02-27T13:22:35.532-03:00
+tags:
+  - alistair
+  - hermetismo
+  - libro
+  - thot
+cssclasses: ""
 ---
+
 
 # El Libro De Thot (Tarot Y Programación)
 

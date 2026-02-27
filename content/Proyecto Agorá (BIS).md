@@ -1,12 +1,15 @@
 ---
-titulo: Proyecto Agorá (BIS)
-tipo: evento
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [agor, mastercard, proyecto, visa]
 publish: true
+created: 2026-01-29T19:17:31.990-03:00
+modified: 2026-02-27T13:23:46.083-03:00
+tags:
+  - agor
+  - mastercard
+  - proyecto
+  - visa
+cssclasses: ""
 ---
+
 # Proyecto Agorá (BIS)
 
 > **Perfil TL:** El proyecto del BIS para crear la infraestructura global de las CBDCs. El fin del dinero libre.

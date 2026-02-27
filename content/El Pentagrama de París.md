@@ -1,12 +1,13 @@
 ---
-titulo: El Pentagrama De París
-tipo: "concepto"
-fecha: 2026-02-25
-tags: [pars, pentagrama]
-tier-primario: "b"
-nivel-evidencia: "medio"
 publish: true
+created: 2026-02-25T22:08:32.113-03:00
+modified: 2026-02-27T13:22:36.227-03:00
+tags:
+  - pars
+  - pentagrama
+cssclasses: ""
 ---
+
 
 # El Pentagrama De París
 

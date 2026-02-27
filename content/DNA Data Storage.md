@@ -1,12 +1,13 @@
 ---
-titulo: DNA Data Storage
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [data, storage]
 publish: true
+created: 2026-01-29T19:17:10.391-03:00
+modified: 2026-02-27T13:06:29.028-03:00
+tags:
+  - data
+  - storage
+cssclasses: ""
 ---
+
 # DNA Data Storage
 
 > **Resumen:** El futuro del archivo de datos biyológicos.

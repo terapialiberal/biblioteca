@@ -1,12 +1,14 @@
 ---
-titulo: Cargill
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [archer, cargill, cartel]
 publish: true
+created: 2026-01-29T19:17:06.450-03:00
+modified: 2026-02-27T13:22:14.894-03:00
+tags:
+  - archer
+  - cargill
+  - cartel
+cssclasses: ""
 ---
+
 # Cargill
 
 ## Perfil TL (Resumen Ejecutivo)

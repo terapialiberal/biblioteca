@@ -1,12 +1,15 @@
 ---
-titulo: Trampa De Tucídides
-tipo: evento
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [china, poder, trampa, tucdides]
 publish: true
+created: 2026-01-29T19:17:40.856-03:00
+modified: 2026-02-27T13:07:30.446-03:00
+tags:
+  - china
+  - poder
+  - trampa
+  - tucdides
+cssclasses: ""
 ---
+
 # Trampa De Tucídides
 
 ## Resumen Ejecutivo

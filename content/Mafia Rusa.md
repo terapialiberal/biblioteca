@@ -1,12 +1,13 @@
 ---
-titulo: Mafia Rusa (Bratva) — El Brazo Armado Del Capitalismo De Estado
-tipo: persona
-fecha: 2026-02-25
-tags: [mafia, rusa]
-tier-primario: "b"
-nivel-evidencia: "alto"
 publish: true
+created: 2026-02-25T22:45:04.463-03:00
+modified: 2026-02-27T13:23:17.552-03:00
+tags:
+  - mafia
+  - rusa
+cssclasses: ""
 ---
+
 
 # Mafia Rusa (Bratva) — El Brazo Armado Del Capitalismo De Estado
 

@@ -1,12 +1,13 @@
 ---
 publish: true
-titulo: "B'nai B'rith"
-tipo: persona
-fecha: 2026-02-25
-tags: [aipac, rith]
-tier-primario: "b"
-nivel-evidencia: "total"
+created: 2026-02-25T22:08:57.571-03:00
+modified: 2026-02-27T13:22:02.408-03:00
+tags:
+  - aipac
+  - rith
+cssclasses: ""
 ---
+
 
 # B'nai B'rith
 

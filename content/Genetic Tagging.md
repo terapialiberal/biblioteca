@@ -1,12 +1,15 @@
 ---
-titulo: GENETIC TAGGING (v12_1)
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "a"
-nivel-evidencia: "alto"
-tags: [23andme, bayer, propiedad, tagging]
 publish: true
+created: 2026-02-25T15:45:35.203-03:00
+modified: 2026-02-27T13:22:45.664-03:00
+tags:
+  - 23andme
+  - bayer
+  - propiedad
+  - tagging
+cssclasses: ""
 ---
+
 # GENETIC TAGGING (v12_1)
 
 #### BLUF

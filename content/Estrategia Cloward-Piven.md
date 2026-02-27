@@ -1,12 +1,15 @@
 ---
-titulo: Estrategia Cloward-Piven
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [cloward, estrategia, piven, saul]
 publish: true
+created: 2026-01-29T19:17:12.360-03:00
+modified: 2026-02-27T13:07:00.752-03:00
+tags:
+  - cloward
+  - estrategia
+  - piven
+  - saul
+cssclasses: ""
 ---
+
 # Estrategia Cloward-Piven
 
 ## Perfil TL (Resumen Ejecutivo)

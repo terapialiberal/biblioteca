@@ -1,18 +1,21 @@
 ---
-titulo: El Perro Que No Ladra (Análisis De Omisión)
-tipo: organizacion
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [epstein, estado, ladra, omisin]
 publish: true
+created: 2026-01-29T19:17:11.494-03:00
+modified: 2026-02-27T13:22:36.243-03:00
+tags:
+  - epstein
+  - estado
+  - ladra
+  - omisin
+cssclasses: ""
 ---
+
 # El Perro Que No Ladra (Análisis De Omisión)
 
 ## Perfil TL (Resumen Ejecutivo)
 **¿Qué es?** Una técnica de análisis inspirada en un relato de Sherlock Holmes (*Silver Blaze*), que consiste en identificar la importancia de lo que **debería estar ocurriendo o diciéndose, pero no pasa**.
 
-**¿Por qué importa?** En un ecosistema de información saturado por el ruido de Tier B, la **ausencia de un evento o de una narrativa es un indicador más potente que su presencia**. Si una persona poderosa es acusada de un crimen atroz y la prensa de Tier B guarda un silencio absoluto y coordinado, ese silencio es el "perro que no ladra". Significa que hay una orden de protección, una amenaza mutua asegurada o un interés compartido en el encubrimiento. Para el analista de Terapia Liberal, "el perro que no ladra" revela las fronteras de lo que el sistema no permite discutir y expone a los actores que están bajo protección del **[[Estado Profundo]]**.
+**¿Por qué importa?** En un ecosistema de información saturado por el ruido de Tier B, la **ausencia de un evento o de una narrativa es un indicador más potente que su presencia**. Si una persona poderosa es acusada de un crimen atroz y la prensa de Tier B guarda un silencio absoluto y coordinado, ese silencio es el "perro que no ladra". Significa que hay una orden de protección, una amenaza mutua asegurada o un interés compartido en el encubrimiento. Para el analista de Terapia Liberal, "el perro que no ladra" revela las fronteras de lo que el sistema no permite discutir y expone a los actores que están bajo protección del **[[Estado profundo]]**.
 
 ## Metodología De Aplicación (Tiers)
 

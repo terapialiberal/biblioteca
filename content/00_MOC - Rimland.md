@@ -1,12 +1,15 @@
 ---
-titulo: 🗺️ MOC — RIMLAND (Geopolítica De Contención)
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [00-moc, contencin, geopoltica, rimland]
 publish: true
+created: 2026-02-09T17:48:56.666-03:00
+modified: 2026-02-27T13:21:56.193-03:00
+tags:
+  - 00-moc
+  - contencin
+  - geopoltica
+  - rimland
+cssclasses: ""
 ---
+
 # 🗺️ MOC — RIMLAND (Geopolítica De Contención)
 
 > **Tesis Spykman**: "Who rules the Rimland rules Eurasia. Who rules Eurasia controls the destinies of the world."
@@ -118,16 +121,39 @@ publish: true
 ## 🔗 NODOS RELACIONADOS
 - [[MOC - Redes de Poder]] — Quién financia el control del Rimland
 - [[MOC - Control Financiero]] — Cómo se monetiza el Rimland
-- [[Entity_Graph]] — Actores completos por Tier
+- [[99_AI/05_Memoria_Central/Entity_Graph]] — Actores completos por Tier
 - [[MOC - Cronológico]] — Timeline del Gran Juego
 
 ---
 
-```dataview
-LIST
-FROM #geopolitica OR #rimland OR #choke-points
-SORT file.name ASC
-```
+- [[05_Videos_Publicados/2025/2025-10-24_El_RESET_MALTHUSIANO_GEOPOLITICA/🚨 Prediccion de The Economist El Tiempo se acaba + Trump se enfurece con Rusia y otras noticias\|🚨 Prediccion de The Economist El Tiempo se acaba + Trump se enfurece con Rusia y otras noticias]]
+- [[00_MOC - Rimland\|00_MOC - Rimland]]
+- [[05_Videos_Publicados/2026/2026-02-05_Caos_Controlado/Archivo - Demolicion Controlada Spykman 2026-02-05\|Archivo - Demolicion Controlada Spykman 2026-02-05]]
+- [[05_Videos_Publicados/2026/2026-02-05_Caos_Controlado/Articulo_Rimland_2026_Completo\|Articulo_Rimland_2026_Completo]]
+- [[99_AI/Legacy/ASML High-NA EUV\|ASML High-NA EUV]]
+- [[Astro-Cartografía del Rimland\|Astro-Cartografía del Rimland]]
+- [[05_Videos_Publicados/2026/2026-01-07_Gaza_SA/bookmarks_2026_1_8\|bookmarks_2026_1_8]]
+- [[Cambio China hacia mercado interno\|Cambio China hacia mercado interno]]
+- [[Carney_en_Beijing_DW\|Carney_en_Beijing_DW]]
+- [[Cómo encaja Myanmar en las nuevas rutas de la seda de China\|Cómo encaja Myanmar en las nuevas rutas de la seda de China]]
+- [[Corredor IMEC\|Corredor IMEC]]
+- [[El arsenal americano de China\|El arsenal americano de China]]
+- [[El establishment angloamericano\|El establishment angloamericano]]
+- [[El vicepresidente estadounidense JD Vance presentó\|El vicepresidente estadounidense JD Vance presentó]]
+- [[Estrecho de Malaca\|Estrecho de Malaca]]
+- [[05_Videos_Publicados/2025/2025-10-24_El_RESET_MALTHUSIANO_GEOPOLITICA/Graficos Geopolitica y Plan Marshall\|Graficos Geopolitica y Plan Marshall]]
+- [[05_Videos_Publicados/2025/2025-12-04_Jeffrey_NO_es_lo_que_parece/Jeffrey NADA ES LO QUE PARECE - Investigación Exclusiva al Estilo Terapia Liberal\|Jeffrey NADA ES LO QUE PARECE - Investigación Exclusiva al Estilo Terapia Liberal]]
+- [[La Comisión Trilateral califica al 2023 como el Añ\|La Comisión Trilateral califica al 2023 como el Añ]]
+- [[La Teoría Geopolítica del Rimland Una Perspectiva Estratégica\|La Teoría Geopolítica del Rimland Una Perspectiva Estratégica]]
+- [[05_Videos_Publicados/2025/2025-10-24_El_RESET_MALTHUSIANO_GEOPOLITICA/MOC\|MOC]]
+- [[99_AI/Legacy/prompts/Prompt Lite v10.0 Consolidated\|Prompt Lite v10.0 Consolidated]]
+- [[99_AI/Legacy/prompts/Prompt Maestro v3.1 Lite\|Prompt Maestro v3.1 Lite]]
+- [[99_AI/Legacy/prompts/Prompt TL-NEWS v1.0 Monitor\|Prompt TL-NEWS v1.0 Monitor]]
+- [[99_AI/Legacy/prompts/Prompt_Maestro_Produccion_v11\|Prompt_Maestro_Produccion_v11]]
+- [[Retirada de Afganistán\|Retirada de Afganistán]]
+- [[Teoría del Rimland\|Teoría del Rimland]]
+- [[99_AI/02_Transcripts/Trasncript GAZA SA\|Trasncript GAZA SA]]
+
 
 *MOC expandido: 2026-02-24 | Parte del [[INDEX_MAESTRO]]*
 

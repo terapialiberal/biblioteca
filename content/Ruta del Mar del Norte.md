@@ -1,14 +1,16 @@
 ---
-titulo: "Ruta Del Mar Del Norte: El Ártico Ruso (v2.0): El Nuevo Eje Del Mundo"
-tipo: concepto
-fecha: 2026-02-25T00:00:00.000Z
-tier-primario: a
-nivel-evidencia: alto
-ubicacion: Ártico (Costa Norte de Rusia)
-organizaciones: ['[[Rusia]]', '[[China (Influencia)|China]]', '[[Rosatom]]', '[[BRICS]]']
-tags: [comercio-martimo, geopoltica-rtico, recursos-naturales-rtico, ruta-mar-norte, soberana-martima-rusa]
 publish: true
+created: 2026-01-29T19:17:34.894-03:00
+modified: 2026-02-26T16:06:24.497-03:00
+tags:
+  - comercio-martimo
+  - geopoltica-rtico
+  - recursos-naturales-rtico
+  - ruta-mar-norte
+  - soberana-martima-rusa
+cssclasses: ""
 ---
+
 # Ruta Del Mar Del Norte: El Ártico Ruso (v2.0): El Nuevo Eje Del Mundo
 
 > [!ABSTRACT] Hipótesis Informativa
@@ -33,7 +35,7 @@ publish: true
 
 ## Conexiones Críticas
 - [[Rusia]]: El soberano territorial de la ruta.
-- [[China (Influencia)|China]]: El principal socio comercial e inversor.
+- [[China (Influencia)\|China]]: El principal socio comercial e inversor.
 - [[BRICS]]: El bloque económico que utilizará la ruta para su integración.
 - [[Cambio Climático]]: La cobertura narrativa y el motor físico del cambio de ruta.
 - [[Poder Marítimo (Alfred Thayer Mahan)]]: La doctrina que Rusia está desafiando con esta ruta continental/marítima.

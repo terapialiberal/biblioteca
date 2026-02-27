@@ -1,12 +1,15 @@
 ---
-titulo: Barry Seal
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [barry, bill, george, seal]
 publish: true
+created: 2026-01-29T19:17:04.856-03:00
+modified: 2026-02-27T13:07:22.449-03:00
+tags:
+  - barry
+  - bill
+  - george
+  - seal
+cssclasses: ""
 ---
+
 ![Barry Seal](https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Barry_Seal_mugshot.jpg/220px-Barry_Seal_mugshot.jpg)
 # Barry Seal
 

@@ -1,12 +1,15 @@
 ---
-titulo: Vanguard & State Street
-tipo: empresa
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [orsini, rothschild, state, vanguard]
 publish: true
+created: 2026-01-29T19:17:42.794-03:00
+modified: 2026-02-27T13:07:49.883-03:00
+tags:
+  - orsini
+  - rothschild
+  - state
+  - vanguard
+cssclasses: ""
 ---
+
 # Vanguard & State Street
 
 ## Resumen Ejecutivo

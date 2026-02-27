@@ -1,12 +1,15 @@
 ---
-titulo: Fundación Mediterránea
-tipo: organizacion
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [carlos, domingo, fundacin, mediterrnea]
 publish: true
+created: 2026-01-29T19:17:14.500-03:00
+modified: 2026-02-27T13:06:28.968-03:00
+tags:
+  - carlos
+  - domingo
+  - fundacin
+  - mediterrnea
+cssclasses: ""
 ---
+
 # Fundación Mediterránea
 
 ## Perfil TL (Resumen Ejecutivo)

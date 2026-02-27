@@ -1,12 +1,15 @@
 ---
-titulo: European Union (Origins)
-tipo: organizacion
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [europea, naciones, plan, unin]
 publish: true
+created: 2026-01-29T19:17:42.408-03:00
+modified: 2026-02-27T13:06:23.129-03:00
+tags:
+  - europea
+  - naciones
+  - plan
+  - unin
+cssclasses: ""
 ---
+
 ![EU Flag](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/220px-Flag_of_Europe.svg.png)
 # European Union (Origins)
 

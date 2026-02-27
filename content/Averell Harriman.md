@@ -1,12 +1,15 @@
 ---
-titulo: Averell Harriman
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [averell, brown, harriman, skull]
 publish: true
+created: 2026-01-29T19:17:04.577-03:00
+modified: 2026-02-27T13:07:54.877-03:00
+tags:
+  - averell
+  - brown
+  - harriman
+  - skull
+cssclasses: ""
 ---
+
 # Averell Harriman
 
 > [!INFO] Perfil Operativo (Tier A)

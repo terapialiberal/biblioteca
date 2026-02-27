@@ -1,12 +1,13 @@
 ---
-titulo: Iniciación Traumática (Gaza)
-tipo: persona
-fecha: 2026-02-25
-tags: [iniciacin, traumtica]
-tier-primario: "b"
-nivel-evidencia: "medio"
 publish: true
+created: 2026-02-25T22:08:52.812-03:00
+modified: 2026-02-27T13:22:56.496-03:00
+tags:
+  - iniciacin
+  - traumtica
+cssclasses: ""
 ---
+
 
 # Iniciación Traumática (Gaza)
 

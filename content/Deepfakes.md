@@ -1,12 +1,15 @@
 ---
-titulo: Deepfakes (Ultrafalsos)
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [deepfakes, guerra, posverdad, ultrafalsos]
 publish: true
+created: 2026-01-29T19:17:09.908-03:00
+modified: 2026-02-27T13:22:28.175-03:00
+tags:
+  - deepfakes
+  - guerra
+  - posverdad
+  - ultrafalsos
+cssclasses: ""
 ---
+
 # Deepfakes (Ultrafalsos)
 
 ## Perfil TL (Resumen Ejecutivo)

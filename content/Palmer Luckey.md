@@ -1,12 +1,14 @@
 ---
-titulo: PALMER LUCKEY (v12_1)
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [anduril, luckey, palmer]
 publish: true
+created: 2026-02-25T14:51:05.995-03:00
+modified: 2026-02-27T13:23:37.673-03:00
+tags:
+  - anduril
+  - luckey
+  - palmer
+cssclasses: ""
 ---
+
 # PALMER LUCKEY (v12_1)
 
 #### BLUF

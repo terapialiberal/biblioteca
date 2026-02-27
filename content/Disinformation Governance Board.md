@@ -1,12 +1,15 @@
 ---
-titulo: DISINFORMATION GOVERNANCE BOARD (v12_1)
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "alto"
-tags: [board, disinformation, governance, ministerio]
 publish: true
+created: 2026-02-25T16:12:13.476-03:00
+modified: 2026-02-27T13:22:30.297-03:00
+tags:
+  - board
+  - disinformation
+  - governance
+  - ministerio
+cssclasses: ""
 ---
+
 # DISINFORMATION GOVERNANCE BOARD (v12_1)
 
 #### BLUF

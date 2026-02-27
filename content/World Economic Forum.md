@@ -1,12 +1,15 @@
 ---
-titulo: "World Economic Forum: El Think Tank De La Oligarquía Global"
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [economic, klaus, oligarqua, think]
 publish: true
+created: 2026-01-29T19:17:44.534-03:00
+modified: 2026-02-27T13:24:10.722-03:00
+tags:
+  - economic
+  - klaus
+  - oligarqua
+  - think
+cssclasses: ""
 ---
+
 # World Economic Forum: El Think Tank De La Oligarquía Global
 
 > [!ABSTRACT] Hipótesis Informativa

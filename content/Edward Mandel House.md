@@ -1,12 +1,15 @@
 ---
-titulo: Edward Mandel House
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [edward, house, mandel, reserva]
 publish: true
+created: 2026-01-29T19:17:11.024-03:00
+modified: 2026-02-27T13:22:32.497-03:00
+tags:
+  - edward
+  - house
+  - mandel
+  - reserva
+cssclasses: ""
 ---
+
 # Edward Mandel House
 
 ## Perfil TL (Resumen Ejecutivo)

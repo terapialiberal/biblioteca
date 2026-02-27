@@ -1,12 +1,15 @@
 ---
-titulo: "CBDCs: El Control Monetario Total"
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [banco, cbdcs, fondo, total]
 publish: true
+created: 2026-01-29T19:17:07.090-03:00
+modified: 2026-02-27T13:22:16.909-03:00
+tags:
+  - banco
+  - cbdcs
+  - fondo
+  - total
+cssclasses: ""
 ---
+
 # CBDCs: El Control Monetario Total
 
 > [!ABSTRACT] Hipótesis Informativa

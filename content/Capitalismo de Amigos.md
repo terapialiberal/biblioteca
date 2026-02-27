@@ -1,12 +1,15 @@
 ---
-titulo: Capitalismo De Amigos (Crony Capitalism)
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [amigos, blackrock, capitalismo, crony]
 publish: true
+created: 2026-01-29T19:17:06.378-03:00
+modified: 2026-02-27T13:22:13.319-03:00
+tags:
+  - amigos
+  - blackrock
+  - capitalismo
+  - crony
+cssclasses: ""
 ---
+
 # Capitalismo De Amigos (Crony Capitalism)
 
 ## Perfil TL (Resumen Ejecutivo)

@@ -1,12 +1,15 @@
 ---
-titulo: "Lysander Spooner: El Demoledor De La Legitimidad Estatal"
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [demoledor, estatal, soberana, spooner]
 publish: true
+created: 2026-01-29T19:17:23.212-03:00
+modified: 2026-02-27T13:23:17.494-03:00
+tags:
+  - demoledor
+  - estatal
+  - soberana
+  - spooner
+cssclasses: ""
 ---
+
 # Lysander Spooner: El Demoledor De La Legitimidad Estatal
 
 > [!ABSTRACT] Resumen de Inteligencia

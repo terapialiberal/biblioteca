@@ -1,12 +1,15 @@
 ---
-titulo: Caso Rosenberg (Espionaje Nuclear)
-tipo: evento
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [caso, guerra, nuclear, proyecto]
 publish: true
+created: 2026-01-29T19:17:06.858-03:00
+modified: 2026-02-27T13:22:16.019-03:00
+tags:
+  - caso
+  - guerra
+  - nuclear
+  - proyecto
+cssclasses: ""
 ---
+
 # Caso Rosenberg (Espionaje Nuclear)
 
 ## Perfil TL (Resumen Ejecutivo)

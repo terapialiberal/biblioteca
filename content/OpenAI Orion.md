@@ -1,12 +1,14 @@
 ---
-titulo: OpenAI Orion
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [microsoft, openai, orion]
 publish: true
+created: 2026-02-09T17:33:34.290-03:00
+modified: 2026-02-27T13:23:33.454-03:00
+tags:
+  - microsoft
+  - openai
+  - orion
+cssclasses: ""
 ---
+
 # [[OpenAI Orion]]
 
 **Clasificación:** Tier A (Razonamiento Lógico de Nivel Superior)  

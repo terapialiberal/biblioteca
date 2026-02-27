@@ -1,12 +1,15 @@
 ---
-titulo: Escuela De Frankfurt
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [correccin, escuela, frankfurt, marxismo]
 publish: true
+created: 2026-01-29T19:17:12.067-03:00
+modified: 2026-02-27T13:06:23.621-03:00
+tags:
+  - correccin
+  - escuela
+  - frankfurt
+  - marxismo
+cssclasses: ""
 ---
+
 # Escuela De Frankfurt
 
 ## Perfil TL (Resumen Ejecutivo)

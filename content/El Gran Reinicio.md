@@ -1,12 +1,15 @@
 ---
-titulo: The Great Reset (El Gran Reinicio)
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [cbdc, gran, reinicio, reset]
 publish: true
+created: 2026-01-29T19:17:11.365-03:00
+modified: 2026-02-27T13:22:34.676-03:00
+tags:
+  - cbdc
+  - gran
+  - reinicio
+  - reset
+cssclasses: ""
 ---
+
 # The Great Reset (El Gran Reinicio)
 
 ## Perfil TL (Resumen Ejecutivo)

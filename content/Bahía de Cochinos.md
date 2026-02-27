@@ -1,12 +1,15 @@
 ---
-titulo: Bahía De Cochinos
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [allen, baha, cochinos, john]
 publish: true
+created: 2026-01-29T19:17:04.648-03:00
+modified: 2026-02-27T13:07:40.604-03:00
+tags:
+  - allen
+  - baha
+  - cochinos
+  - john
+cssclasses: ""
 ---
+
 # Bahía De Cochinos
 
 ## Perfil TL (Resumen Ejecutivo)

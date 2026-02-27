@@ -1,12 +1,15 @@
 ---
-titulo: Conferencia De Yalta
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [conferencia, josef, winston, yalta]
 publish: true
+created: 2026-01-29T19:17:08.605-03:00
+modified: 2026-02-27T13:07:51.515-03:00
+tags:
+  - conferencia
+  - josef
+  - winston
+  - yalta
+cssclasses: ""
 ---
+
 # Conferencia De Yalta
 
 > [!INFO] Contexto

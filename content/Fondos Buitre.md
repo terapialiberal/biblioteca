@@ -1,12 +1,15 @@
 ---
-titulo: Fondos Buitre
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [buitre, deuda, fondos, paul]
 publish: true
+created: 2026-01-29T19:17:13.882-03:00
+modified: 2026-02-27T13:22:44.255-03:00
+tags:
+  - buitre
+  - deuda
+  - fondos
+  - paul
+cssclasses: ""
 ---
+
 # Fondos Buitre
 
 ## Perfil TL (Resumen Ejecutivo)

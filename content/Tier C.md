@@ -1,9 +1,10 @@
 ---
-tags: []
-titulo: Tier C — El Teatro
-tipo: persona
 publish: true
+created: 2026-02-25T23:42:20.203-03:00
+modified: 2026-02-26T16:05:43.827-03:00
+cssclasses: ""
 ---
+
 # Tier C — El Teatro
 
 Capa visible de la política y medios. Gestión de la percepción y distracción.

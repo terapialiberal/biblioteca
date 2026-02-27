@@ -1,12 +1,13 @@
 ---
 publish: true
-titulo: Alquimia Operativa
-tipo: concepto
-fecha: 2026-02-25
-tags: [alquimia, operativa]
-tier-primario: b
-nivel-evidencia: medio
+created: 2026-02-25T22:08:56.798-03:00
+modified: 2026-02-27T11:50:42.351-03:00
+tags:
+  - alquimia
+  - operativa
+cssclasses: ""
 ---
+
 
 # Alquimia Operativa
 

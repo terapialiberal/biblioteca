@@ -1,12 +1,15 @@
 ---
-titulo: Resumen General
-tipo: organizacion
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [council, erik, national, policy]
 publish: true
+created: 2026-01-29T19:17:08.875-03:00
+modified: 2026-02-27T13:07:56.542-03:00
+tags:
+  - council
+  - erik
+  - national
+  - policy
+cssclasses: ""
 ---
+
 # Resumen General
 El CNP es el club secreto más poderoso de la derecha conservadora en EE.UU. Fundado en 1981 por Tim LaHaye, reúne a activistas evangélicos, donantes millonarios (DeVos, Prince, Mercer) y estrategas políticos (Bannon, Conway). Es donde se coordina la estrategia del movimiento conservador y se bendice a los candidatos.
 

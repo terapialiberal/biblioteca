@@ -1,12 +1,14 @@
 ---
-titulo: Efecto Nocebo Global
-tipo: "concepto"
-fecha: 2026-02-25
-tags: [efecto, global, nocebo]
-tier-primario: "b"
-nivel-evidencia: "medio"
 publish: true
+created: 2026-02-25T22:08:51.585-03:00
+modified: 2026-02-27T13:22:33.027-03:00
+tags:
+  - efecto
+  - global
+  - nocebo
+cssclasses: ""
 ---
+
 
 # Efecto Nocebo Global
 

@@ -1,12 +1,13 @@
 ---
-titulo: Arquetipos De Poder (Mago/Rey)
-tipo: "concepto"
-fecha: 2026-02-25
-tags: [arquetipos, poder]
-tier-primario: "b"
-nivel-evidencia: "medio"
 publish: true
+created: 2026-02-25T22:08:55.668-03:00
+modified: 2026-02-27T13:21:59.969-03:00
+tags:
+  - arquetipos
+  - poder
+cssclasses: ""
 ---
+
 
 # Arquetipos De Poder (Mago/Rey)
 

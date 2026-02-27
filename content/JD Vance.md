@@ -1,12 +1,15 @@
 ---
-titulo: J.D. VANCE (v12_1)
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "alto"
-tags: [embajador, peter, silicon, vance]
 publish: true
+created: 2026-02-25T15:42:29.816-03:00
+modified: 2026-02-27T13:22:59.623-03:00
+tags:
+  - embajador
+  - peter
+  - silicon
+  - vance
+cssclasses: ""
 ---
+
 # J.D. VANCE (v12_1)
 
 #### BLUF

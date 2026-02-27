@@ -1,17 +1,16 @@
 ---
-titulo: 'â³ Línea De Tiempo: 2010s-2020s (La Captura Tecnocrática)'
-tipo: concepto
-fecha: 2026-02-25T00:00:00.000Z
-tier-primario: b
-nivel-evidencia: medio
+publish: true
+created: 2026-01-29T19:17:23.342-03:00
+modified: 2026-02-26T23:11:01.428-03:00
 tags:
   - tecnocracia
   - gran-reinicio
   - cbdc
   - vigilancia-digital
   - biopolitica
-publish: true
+cssclasses: ""
 ---
+
 # â³ Línea De Tiempo: 2010s-2020s (La Captura Tecnocrática)
 
 > [!ABSTRACT] Resumen Era

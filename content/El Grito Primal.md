@@ -1,12 +1,13 @@
 ---
-titulo: El Grito Primal (Catarsis)
-tipo: persona
-fecha: 2026-02-25
-tags: [grito, primal]
-tier-primario: "b"
-nivel-evidencia: "medio"
 publish: true
+created: 2026-02-25T22:08:54.413-03:00
+modified: 2026-02-27T13:22:35.456-03:00
+tags:
+  - grito
+  - primal
+cssclasses: ""
 ---
+
 
 # El Grito Primal (Catarsis)
 

@@ -1,12 +1,15 @@
 ---
-titulo: Enrique Eskenazi (Grupo Petersen)
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [burford, enrique, nstor, petersen]
 publish: true
+created: 2026-01-29T19:17:11.874-03:00
+modified: 2026-02-27T13:22:38.647-03:00
+tags:
+  - burford
+  - enrique
+  - nstor
+  - petersen
+cssclasses: ""
 ---
+
 # Enrique Eskenazi (Grupo Petersen)
 
 ## Perfil TL (Resumen Ejecutivo)

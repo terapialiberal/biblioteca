@@ -1,12 +1,14 @@
 ---
 publish: true
-titulo: Astro-Cartografía Del Rimland
-tipo: "concepto"
-fecha: 2026-02-25
-tags: [astro, cartografa, rimland]
-tier-primario: "b"
-nivel-evidencia: "medio"
+created: 2026-02-25T22:08:57.211-03:00
+modified: 2026-02-27T13:22:01.786-03:00
+tags:
+  - astro
+  - cartografa
+  - rimland
+cssclasses: ""
 ---
+
 
 # Astro-Cartografía Del Rimland
 

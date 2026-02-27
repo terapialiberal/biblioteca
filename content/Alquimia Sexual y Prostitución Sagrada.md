@@ -1,12 +1,15 @@
 ---
 publish: true
-titulo: Alquimia Sexual Y Prostitución Sagrada
-tipo: concepto
-fecha: 2026-02-25
-tags: [alquimia, dioniso, ordo, prostitucion]
-tier-primario: a
-nivel-evidencia: alto
+created: 2026-02-25T22:29:56.045-03:00
+modified: 2026-02-27T11:53:01.226-03:00
+tags:
+  - alquimia
+  - dioniso
+  - ordo
+  - prostitucion
+cssclasses: ""
 ---
+
 
 # Alquimia Sexual Y Prostitución Sagrada
 

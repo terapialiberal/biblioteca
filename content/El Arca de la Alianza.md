@@ -1,12 +1,13 @@
 ---
-titulo: El Arca De La Alianza (Diseño)
-tipo: "concepto"
-fecha: 2026-02-25
-tags: [alianza, arca]
-tier-primario: "b"
-nivel-evidencia: "medio"
 publish: true
+created: 2026-02-25T22:08:53.398-03:00
+modified: 2026-02-27T13:22:33.893-03:00
+tags:
+  - alianza
+  - arca
+cssclasses: ""
 ---
+
 
 # El Arca De La Alianza (Diseño)
 

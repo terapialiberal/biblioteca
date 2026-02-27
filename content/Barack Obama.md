@@ -1,12 +1,16 @@
 ---
 publish: true
-titulo: Barack Obama
-tipo: persona
-fecha: 2026-02-25T00:00:00.000Z
-tier-primario: b
-nivel-evidencia: medio
-tags: [barack-obama, presidencia-eeuu, vigilancia-masiva, agencia-inteligencia, guerra-drones]
+created: 2026-01-29T19:17:04.802-03:00
+modified: 2026-02-26T21:00:35.601-03:00
+tags:
+  - barack-obama
+  - presidencia-eeuu
+  - vigilancia-masiva
+  - agencia-inteligencia
+  - guerra-drones
+cssclasses: ""
 ---
+
 # Barack Obama
 
 ## Perfil TL (Resumen Ejecutivo)

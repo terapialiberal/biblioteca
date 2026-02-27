@@ -1,14 +1,16 @@
 ---
-titulo: Vínculos Kushner Soros Thiel
-descripcion: "Revelación de los vínculos comerciales no divulgados de Jared Kushner con George Soros, Peter Thiel y Goldman Sachs, incluyendo deudas masivas de $1.000 millones."
-link: "https://www.businessinsider.com/jared-kushner-ties-george-soros-goldman-sachs-peter-thiel-1-billion-loan-2017-5"
-tipo: "articulo"
-fecha: 2017-05-02
-tier-primario: "b"
-nivel-evidencia: "alto"
-tags: [kushner, soros, thiel, cadre, goldman-sachs]
 publish: true
+created: 2026-01-29T19:05:10.070-03:00
+modified: 2026-02-27T13:24:08.678-03:00
+tags:
+  - kushner
+  - soros
+  - thiel
+  - cadre
+  - goldman-sachs
+cssclasses: ""
 ---
+
 # Vínculos Kushner Soros Thiel
 ![](https://i.insider.com/58e7b3488af57843238b4cff?width=1200&format=jpeg)
 ---

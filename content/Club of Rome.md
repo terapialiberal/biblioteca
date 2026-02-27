@@ -1,17 +1,16 @@
 ---
-titulo: Club of Rome
-tipo: organizacion
-fecha: 2026-02-25T00:00:00.000Z
-tier-primario: b
-nivel-evidencia: medio
+publish: true
+created: 2026-01-29T19:17:08.010-03:00
+modified: 2026-02-26T22:20:04.463-03:00
 tags:
   - club-de-roma
   - límites-del-crecimiento
   - agenda-climática
   - gobierno-global
   - decrecimiento
-publish: true
+cssclasses: ""
 ---
+
 ![Club of Rome](https://upload.wikimedia.org/wikipedia/commons/e/ee/Club_of_Rome_Logo.png)
 # Club of Rome
 

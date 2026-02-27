@@ -1,12 +1,15 @@
 ---
-titulo: "Proyecto Huemul (v2.0): El Sueño Atómico Y La Infiltración Nazi"
-tipo: evento
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [atmico, huemul, infiltracin, nazi]
 publish: true
+created: 2026-01-29T19:17:32.017-03:00
+modified: 2026-02-27T13:23:46.122-03:00
+tags:
+  - atmico
+  - huemul
+  - infiltracin
+  - nazi
+cssclasses: ""
 ---
+
 # Proyecto Huemul (v2.0): El Sueño Atómico Y La Infiltración Nazi
 
 > [!ABSTRACT] Hipótesis Informativa

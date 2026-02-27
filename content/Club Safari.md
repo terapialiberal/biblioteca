@@ -1,17 +1,16 @@
 ---
-titulo: Club Safari
-tipo: organizacion
-fecha: 2026-02-25T00:00:00.000Z
-tier-primario: b
-nivel-evidencia: medio
+publish: true
+created: 2026-01-29T19:17:08.041-03:00
+modified: 2026-02-26T22:20:07.631-03:00
 tags:
   - club-safari
   - estado-profundo
   - operaciones-encubiertas
   - geopolítica
   - financiamiento-ilícito
-publish: true
+cssclasses: ""
 ---
+
 # Club Safari
 
 > [!ABSTRACT] Hipótesis Informativa

@@ -1,12 +1,14 @@
 ---
-titulo: Triple Frontera (Inteligencia)
-tipo: organizacion
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [frontera, inteligencia, triple]
 publish: true
+created: 2026-01-29T19:17:41.286-03:00
+modified: 2026-02-27T13:07:28.739-03:00
+tags:
+  - frontera
+  - inteligencia
+  - triple
+cssclasses: ""
 ---
+
 # Triple Frontera (Inteligencia)
 
 > **Resumen:** El hub de Hezbollah/CIA/Mossad en la región.

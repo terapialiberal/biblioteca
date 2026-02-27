@@ -1,12 +1,15 @@
 ---
-titulo: "Lusitania: El Sacrificio Necesario Para La Guerra"
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [edward, guerra, necesario, sacrificio]
 publish: true
+created: 2026-01-29T19:17:23.157-03:00
+modified: 2026-02-27T13:23:16.873-03:00
+tags:
+  - edward
+  - guerra
+  - necesario
+  - sacrificio
+cssclasses: ""
 ---
+
 # Lusitania: El Sacrificio Necesario Para La Guerra
 
 > [!ABSTRACT] Resumen de Inteligencia

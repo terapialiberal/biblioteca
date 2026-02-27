@@ -1,12 +1,14 @@
 ---
-titulo: Astroturfing
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [astroturfing, open, revolucin]
 publish: true
+created: 2026-01-29T19:17:04.328-03:00
+modified: 2026-02-27T13:07:24.549-03:00
+tags:
+  - astroturfing
+  - open
+  - revolucin
+cssclasses: ""
 ---
+
 # Astroturfing
 
 > **Perfil TL:** Movimientos "espontáneos" que son financiados y coordinados desde arriba para parecer de base.

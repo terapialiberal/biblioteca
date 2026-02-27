@@ -1,12 +1,15 @@
 ---
-titulo: "India Stack (Aadhaar): El Plano Maestro Del Control Digital"
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [aadhaar, digital, plano, stack]
 publish: true
+created: 2026-02-25T13:59:19.024-03:00
+modified: 2026-02-27T13:22:55.545-03:00
+tags:
+  - aadhaar
+  - digital
+  - plano
+  - stack
+cssclasses: ""
 ---
+
 # India Stack (Aadhaar): El Plano Maestro Del Control Digital
 
 > [!ABSTRACT] BLUF (Bottom Line Up Front)

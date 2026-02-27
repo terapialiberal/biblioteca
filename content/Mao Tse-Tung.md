@@ -1,12 +1,14 @@
 ---
-titulo: Mao Tse-Tung
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [partido, skull, tung]
 publish: true
+created: 2026-01-29T19:17:23.585-03:00
+modified: 2026-02-27T13:23:18.136-03:00
+tags:
+  - partido
+  - skull
+  - tung
+cssclasses: ""
 ---
+
 # Mao Tse-Tung
 
 ## Resumen Ejecutivo

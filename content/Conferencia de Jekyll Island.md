@@ -1,12 +1,15 @@
 ---
-titulo: Conferencia De Jekyll Island
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [conferencia, jekyll, pnico, reserva]
 publish: true
+created: 2026-01-29T19:17:08.588-03:00
+modified: 2026-02-27T13:06:28.481-03:00
+tags:
+  - conferencia
+  - jekyll
+  - pnico
+  - reserva
+cssclasses: ""
 ---
+
 # Conferencia De Jekyll Island
 
 > [!INFO] Contexto

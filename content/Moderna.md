@@ -1,12 +1,15 @@
 ---
-titulo: MODERNA (v12_1)
-tipo: concepto
-fecha: 2026-02-25
-tier-primario: "a"
-nivel-evidencia: "alto"
-tags: [moderna, software, stphane, vida]
 publish: true
+created: 2026-01-29T19:17:25.584-03:00
+modified: 2026-02-27T13:23:23.741-03:00
+tags:
+  - moderna
+  - software
+  - stphane
+  - vida
+cssclasses: ""
 ---
+
 # MODERNA (v12_1)
 
 #### BLUF

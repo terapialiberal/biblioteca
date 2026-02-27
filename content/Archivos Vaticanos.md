@@ -1,12 +1,15 @@
 ---
-titulo: Archivos Vaticanos (El Búnker De La Historia)
-tipo: articulo
-fecha: 2026-02-25
-tags: [archivos, dones, lnea, vaticanos]
-tier-primario: "a"
-nivel-evidencia: "total"
 publish: true
+created: 2026-02-25T22:08:57.760-03:00
+modified: 2026-02-27T13:21:59.936-03:00
+tags:
+  - archivos
+  - dones
+  - lnea
+  - vaticanos
+cssclasses: ""
 ---
+
 
 # Archivos Vaticanos (El Búnker De La Historia)
 

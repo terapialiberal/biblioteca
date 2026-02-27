@@ -1,12 +1,14 @@
 ---
-titulo: Freenet
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [cypherpunks, freenet, julian]
 publish: true
+created: 2026-01-29T19:17:14.245-03:00
+modified: 2026-02-27T13:06:55.781-03:00
+tags:
+  - cypherpunks
+  - freenet
+  - julian
+cssclasses: ""
 ---
+
 # Freenet
 
 ## Perfil TL (Resumen Ejecutivo)

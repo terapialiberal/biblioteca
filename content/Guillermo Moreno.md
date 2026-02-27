@@ -1,12 +1,15 @@
 ---
-titulo: Guillermo Moreno
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [cristina, guillermo, indec, moreno]
 publish: true
+created: 2026-01-29T19:17:16.516-03:00
+modified: 2026-02-27T13:22:50.273-03:00
+tags:
+  - cristina
+  - guillermo
+  - indec
+  - moreno
+cssclasses: ""
 ---
+
 # Guillermo Moreno
 
 ## Perfil TL (Resumen Ejecutivo)

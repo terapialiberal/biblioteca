@@ -1,12 +1,15 @@
 ---
-titulo: El Fracaso Del Cambio De Régimen En Siria
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [brics, cambio, fracaso, siria]
 publish: true
+created: 2026-01-29T19:17:11.316-03:00
+modified: 2026-02-27T13:07:10.532-03:00
+tags:
+  - brics
+  - cambio
+  - fracaso
+  - siria
+cssclasses: ""
 ---
+
 # El Fracaso Del Cambio De Régimen En Siria
 
 ## Perfil TL (Resumen Ejecutivo)

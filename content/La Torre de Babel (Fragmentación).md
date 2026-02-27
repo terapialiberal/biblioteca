@@ -1,12 +1,15 @@
 ---
-titulo: La Torre De Babel (Fragmentación De Identidades)
-tipo: "concepto"
-fecha: 2026-02-25
-tags: [babel, fragmentacin, identidad, torre]
-tier-primario: "a"
-nivel-evidencia: "medio"
 publish: true
+created: 2026-02-25T22:18:01.863-03:00
+modified: 2026-02-27T13:23:09.748-03:00
+tags:
+  - babel
+  - fragmentacin
+  - identidad
+  - torre
+cssclasses: ""
 ---
+
 
 # La Torre De Babel (Fragmentación De Identidades)
 

@@ -1,12 +1,15 @@
 ---
-titulo: "Familia Sassoon: Los Reyes Del Opio Imperial"
-tipo: organizacion
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [guerras, hsbc, reyes, sassoon]
 publish: true
+created: 2026-01-29T19:17:13.348-03:00
+modified: 2026-02-27T13:22:42.223-03:00
+tags:
+  - guerras
+  - hsbc
+  - reyes
+  - sassoon
+cssclasses: ""
 ---
+
 # Familia Sassoon: Los Reyes Del Opio Imperial
 
 > [!ABSTRACT] Hipótesis Informativa

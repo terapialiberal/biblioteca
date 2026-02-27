@@ -1,12 +1,15 @@
 ---
-titulo: "Council on Foreign Relations: El Think Tank Del Imperio Estadounidense"
-tipo: organizacion
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [david, henry, relations, think]
 publish: true
+created: 2026-01-29T19:17:08.910-03:00
+modified: 2026-02-27T13:22:24.443-03:00
+tags:
+  - david
+  - henry
+  - relations
+  - think
+cssclasses: ""
 ---
+
 # Council on Foreign Relations: El Think Tank Del Imperio Estadounidense
 
 > [!ABSTRACT] Hipótesis Informativa

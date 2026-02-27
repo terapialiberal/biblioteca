@@ -1,12 +1,15 @@
 ---
-titulo: Anubis - El Pescador De Almas En Deuda
-tipo: "concepto"
-fecha: 2026-02-25
-tags: [almas, anubis, deuda, pescador]
-tier-primario: "b"
-nivel-evidencia: "alto"
 publish: true
+created: 2026-02-25T22:29:14.513-03:00
+modified: 2026-02-27T13:21:59.527-03:00
+tags:
+  - almas
+  - anubis
+  - deuda
+  - pescador
+cssclasses: ""
 ---
+
 
 # Anubis - El Pescador De Almas En Deuda
 

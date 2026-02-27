@@ -1,12 +1,12 @@
 ---
-titulo: H.A.A.R.P. Y El Ether
-tipo: "concepto"
-fecha: 2026-02-25
-tags: [ether]
-tier-primario: "b"
-nivel-evidencia: "medio"
 publish: true
+created: 2026-02-25T22:08:31.925-03:00
+modified: 2026-02-27T13:22:50.890-03:00
+tags:
+  - ether
+cssclasses: ""
 ---
+
 
 # H.A.A.R.P. Y El Ether
 

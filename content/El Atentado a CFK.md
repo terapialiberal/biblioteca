@@ -1,12 +1,15 @@
 ---
-titulo: El Atentado a Cristina Kirchner (El Copito)
-tipo: evento
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [atentado, copito, cristina, kirchner]
 publish: true
+created: 2026-01-29T19:17:11.178-03:00
+modified: 2026-02-27T13:22:33.911-03:00
+tags:
+  - atentado
+  - copito
+  - cristina
+  - kirchner
+cssclasses: ""
 ---
+
 # El Atentado a Cristina Kirchner (El Copito)
 
 ## Perfil TL (Resumen Ejecutivo)

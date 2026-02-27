@@ -148,15 +148,12 @@ Rhodes Trust ? Round Table ? CFR ? Bilderberg ? Trilateral ? WEF
 - [[MOC - Rimland]]  El tablero geogrfico donde operan estas redes
 - [[MOC - Control Financiero]]  Los mecanismos de extraccin econmica
 - [[MOC - Operaciones Encubiertas]]  El brazo operativo clandestino
-- [[Entity_Graph]]  ndice completo de actores
+- [[99_AI/05_Memoria_Central/Entity_Graph]]  ndice completo de actores
 
 ---
 
-```dataview
-LIST
-FROM #tier-a OR #tier-b OR #redes-de-poder OR #atlantismo
-SORT file.name ASC
-```
+- [[01_Ideas/Sueltas/Biblia Scofield 1\|Biblia Scofield 1]]
+
 
 *MOC expandido: 2026-02-24 | Parte del [[INDEX_MAESTRO]]*
 

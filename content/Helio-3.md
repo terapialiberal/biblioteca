@@ -1,12 +1,15 @@
 ---
-titulo: Helio-3 (Minería Lunar futura)
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [fusin, futura, helio, minera]
 publish: true
+created: 2026-01-29T19:17:16.935-03:00
+modified: 2026-02-27T13:07:30.545-03:00
+tags:
+  - fusin
+  - futura
+  - helio
+  - minera
+cssclasses: ""
 ---
+
 # Helio-3 (Minería Lunar futura)
 
 ## Perfil TL (Resumen Ejecutivo)

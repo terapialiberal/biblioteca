@@ -1,12 +1,14 @@
 ---
 publish: true
-titulo: Ben Bernanke
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [bernanke, reserva, timothy]
+created: 2026-01-29T19:17:05.145-03:00
+modified: 2026-02-27T13:07:33.446-03:00
+tags:
+  - bernanke
+  - reserva
+  - timothy
+cssclasses: ""
 ---
+
 # Ben Bernanke
 
 > [!INFO] Perfil Operativo (Tier B)

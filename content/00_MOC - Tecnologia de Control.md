@@ -1,12 +1,15 @@
 ---
 publish: true
-titulo: 🤖 MOC — TECNOLOGÍA DE CONTROL
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [00-moc, deepmind, openai, tecnologa]
+created: 2026-02-24T13:33:13.310-03:00
+modified: 2026-02-27T13:21:56.224-03:00
+tags:
+  - 00-moc
+  - deepmind
+  - openai
+  - tecnologa
+cssclasses: ""
 ---
+
 # 🤖 MOC — TECNOLOGÍA DE CONTROL
 
 > **Doctrina final (Mecanismo de Extracción TL-INTEL)**: No es fascismo ni comunismo.
@@ -120,7 +123,7 @@ tags: [00-moc, deepmind, openai, tecnologa]
 ### Internet De Los Cuerpos
 - [[Internet de los Cuerpos (IoB)]] — El siguiente paso
 - [[Internet of Bio-Nano Things (IoBNT)]] — Nanotecnología en el cuerpo
-- [[Neuralink & Transhumanismo]] — Musk y la interfaz cerebro-máquina
+- [[99_AI/Legacy/Neuralink & Transhumanismo]] — Musk y la interfaz cerebro-máquina
 - [[Optogenética]] — Control neural por luz
 - [[Voice to Skull (Voz a Cráneo)]] — 🔶 Tecnología de microondas para audición dirigida
 
@@ -146,7 +149,7 @@ tags: [00-moc, deepmind, openai, tecnologa]
 ## 🏙️ SMART CITIES Y CONTROL FÍSICO
 
 - [[Ciudades C40]] / [[C40 Cities]] — La red de ciudades bajo agenda climática
-- [[15 Minute Cities (Ciudad de 15 Minutos)]] — El concepto y sus críticos
+- [[99_AI/Legacy/15 Minute Cities (Ciudad de 15 Minutos)]] — El concepto y sus críticos
 - [[Las Smart Cities Fantasmas de China]] — El modelo exportado
 - [[Score Ciudadano]] — El crédito social en versión occidental
 - [[Crédito Social Chino]] — El modelo original
@@ -164,11 +167,73 @@ tags: [00-moc, deepmind, openai, tecnologa]
 
 ## 📊 NODOS AUTOMÁTICOS (Dataview)
 
-```dataview
-LIST
-FROM #tecnologia OR #vigilancia OR #ia OR #digital-id OR #cbdc OR #bioseguridad OR #control
-SORT file.name ASC
-```
+- [[00_MOC - Finanzas y CBDC\|00_MOC - Finanzas y CBDC]]
+- [[01 MOC - Operaciones Psicológicas\|01 MOC - Operaciones Psicológicas]]
+- [[99_AI/Legacy/15 Minute Cities (Ciudad de 15 Minutos)\|15 Minute Cities (Ciudad de 15 Minutos)]]
+- [[15-Minute Cities\|15-Minute Cities]]
+- [[Atenea - Estrategia y Control Civil\|Atenea - Estrategia y Control Civil]]
+- [[Banco de Pagos Internacionales\|Banco de Pagos Internacionales]]
+- [[Biometría Global\|Biometría Global]]
+- [[BIS Innovation Hub\|BIS Innovation Hub]]
+- [[BlackRock - Vanguard - State Street\|BlackRock - Vanguard - State Street]]
+- [[Cables submarinos el talón de Aquiles del mundo digital\|Cables submarinos el talón de Aquiles del mundo digital]]
+- [[Cambio China hacia mercado interno\|Cambio China hacia mercado interno]]
+- [[Capitalismo de Vigilancia\|Capitalismo de Vigilancia]]
+- [[Carney_en_Beijing_DW\|Carney_en_Beijing_DW]]
+- [[CBDC Interoperability\|CBDC Interoperability]]
+- [[Chamanismo y Control\|Chamanismo y Control]]
+- [[China accede a tecnología nuclear de EEUU a través\|China accede a tecnología nuclear de EEUU a través]]
+- [[CISA Vigilancia 2026\|CISA Vigilancia 2026]]
+- [[Computación Espacial\|Computación Espacial]]
+- [[Control de Grid Energético\|Control de Grid Energético]]
+- [[Control Risks\|Control Risks]]
+- [[Crédito Social\|Crédito Social]]
+- [[Crédito Social Chino\|Crédito Social Chino]]
+- [[Cybernetics of Control\|Cybernetics of Control]]
+- [[Diem\|Diem]]
+- [[El Gran Reinicio\|El Gran Reinicio]]
+- [[El Patrón Bitcoin\|El Patrón Bitcoin]]
+- [[Epstein Rothschild Ciberarmas\|Epstein Rothschild Ciberarmas]]
+- [[Ethereum Foundation\|Ethereum Foundation]]
+- [[Five Eyes Alliance\|Five Eyes Alliance]]
+- [[Geocercas\|Geocercas]]
+- [[Gold Backed CBDC - Pilot\|Gold Backed CBDC - Pilot]]
+- [[Google Glass\|Google Glass]]
+- [[Grupo de los Treinta\|Grupo de los Treinta]]
+- [[Grupo mediático Trump acuerda una fusión de 6.000\|Grupo mediático Trump acuerda una fusión de 6.000]]
+- [[Guerra de Divisas\|Guerra de Divisas]]
+- [[H.A.A.R.P. y el Control del Ether\|H.A.A.R.P. y el Control del Ether]]
+- [[Hal Finney\|Hal Finney]]
+- [[Hallazgos detallados de la investigación de AP sob\|Hallazgos detallados de la investigación de AP sob]]
+- [[Horus - El Ojo de la Vigilancia\|Horus - El Ojo de la Vigilancia]]
+- [[Jeff Bezos\|Jeff Bezos]]
+- [[John McAfee\|John McAfee]]
+- [[John Poindexter\|John Poindexter]]
+- [[La Comisión Trilateral califica al 2023 como el Añ\|La Comisión Trilateral califica al 2023 como el Añ]]
+- [[Las conexiones de Jeffrey Epstein en la industria de la vigilancia\|Las conexiones de Jeffrey Epstein en la industria de la vigilancia]]
+- [[LifeLog\|LifeLog]]
+- [[Línea de Tiempo - 2010s-2020s\|Línea de Tiempo - 2010s-2020s]]
+- [[Mercado Pago\|Mercado Pago]]
+- [[MKUltra\|MKUltra]]
+- [[Monedas de Privacidad\|Monedas de Privacidad]]
+- [[NEWSLETTER_El_Gran_Desacople_2026\|NEWSLETTER_El_Gran_Desacople_2026]]
+- [[Nuevo Bretton Woods\|Nuevo Bretton Woods]]
+- [[Palantir, financiada por la CIA vinculada a Israel\|Palantir, financiada por la CIA vinculada a Israel]]
+- [[Patriot Act\|Patriot Act]]
+- [[Programa PRISM\|Programa PRISM]]
+- [[Rishi Sunak\|Rishi Sunak]]
+- [[Sanger Institute\|Sanger Institute]]
+- [[Score Ciudadano\|Score Ciudadano]]
+- [[Sergey Brin\|Sergey Brin]]
+- [[Técnicas de Control Mental\|Técnicas de Control Mental]]
+- [[Tecnologicas EEUU y Estado Policial China\|Tecnologicas EEUU y Estado Policial China]]
+- [[Ted Cruz quiere que la vigilancia no sea China, sea propia\|Ted Cruz quiere que la vigilancia no sea China, sea propia]]
+- [[Tratado de Pandemias OMS\|Tratado de Pandemias OMS]]
+- [[Trump firma una orden ejecutiva que impide a los e\|Trump firma una orden ejecutiva que impide a los e]]
+- [[01_Ideas/video-baby-trump-blackrock\|video-baby-trump-blackrock]]
+- [[01_Ideas/video-silicon-valley-cia\|video-silicon-valley-cia]]
+- [[Vigilancia Predictiva\|Vigilancia Predictiva]]
+
 
 ---
 

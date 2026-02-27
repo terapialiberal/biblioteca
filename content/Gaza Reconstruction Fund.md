@@ -1,12 +1,15 @@
 ---
-titulo: Gaza Reconstruction Fund
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [arabia, fund, gaza, reconstruction]
 publish: true
+created: 2026-02-09T17:33:07.775-03:00
+modified: 2026-02-27T13:22:45.598-03:00
+tags:
+  - arabia
+  - fund
+  - gaza
+  - reconstruction
+cssclasses: ""
 ---
+
 # [[Gaza Reconstruction Fund]]
 
 **Clasificación:** Geo-Estratégico (Normalización vía Ladrillo)  

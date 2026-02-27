@@ -31,7 +31,7 @@ publish: true
 - [[CIA]]: Quien facilitó su libertad y lo utilizó como activo regional.
 - [[Juan Domingo Perón]]: Su anfitrión y socio en el Cono Sur.
 - [[Operación Paperclip]]: El contexto general de reubicación de talentos nazis.
-- [[ODESSA Network]]: La red que Skorzeny presuntamente coordinó para salvar a sus camaradas.
+- [[Odessa Network]]: La red que Skorzeny presuntamente coordinó para salvar a sus camaradas.
 
 ## Conclusión Del Análisis
 Otto Skorzeny es el espejo donde se refleja la hipocresía del orden mundial. Nos enseña que para los que manejan la Matrix, un criminal de guerra es solo un "experto no utilizado". El hombre con la cicatriz en la mejilla nos recuerda que los que nos dicen ser nuestros protectores contra el mal suelen estar cenando con el mal en hoteles de Madrid o Buenos Aires, planeando el próximo asesinato rentable. En el mundo de Skorzeny, la guerra nunca terminó; simplemente cambió de nómina.

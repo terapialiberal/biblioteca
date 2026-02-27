@@ -1,12 +1,15 @@
 ---
-titulo: Hiperstición (Hyperstition)
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [aceleracionismo, hipersticin, hyperstition, nick]
 publish: true
+created: 2026-01-29T19:17:17.232-03:00
+modified: 2026-02-27T13:06:20.524-03:00
+tags:
+  - aceleracionismo
+  - hipersticin
+  - hyperstition
+  - nick
+cssclasses: ""
 ---
+
 # Hiperstición (Hyperstition)
 
 ## Perfil TL (Resumen Ejecutivo)

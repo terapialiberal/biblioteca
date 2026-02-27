@@ -1,12 +1,13 @@
 ---
-titulo: El Algoritmo Como Oráculo
-tipo: "concepto"
-fecha: 2026-02-25
-tags: [algoritmo, orculo]
-tier-primario: "b"
-nivel-evidencia: "medio"
 publish: true
+created: 2026-02-25T22:08:53.924-03:00
+modified: 2026-02-27T13:22:33.134-03:00
+tags:
+  - algoritmo
+  - orculo
+cssclasses: ""
 ---
+
 
 # El Algoritmo Como Oráculo
 

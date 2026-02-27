@@ -1,12 +1,15 @@
 ---
-titulo: El Metaverso (El Pueblo Fantasma Digital)
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [digital, mark, metaverso, transhumanismo]
 publish: true
+created: 2026-01-29T19:17:11.440-03:00
+modified: 2026-02-27T13:22:35.588-03:00
+tags:
+  - digital
+  - mark
+  - metaverso
+  - transhumanismo
+cssclasses: ""
 ---
+
 # El Metaverso (El Pueblo Fantasma Digital)
 
 ## Perfil TL (Resumen Ejecutivo)

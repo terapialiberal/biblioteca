@@ -1,12 +1,14 @@
 ---
-titulo: Yulia Navalnaya
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [navalnaya, rusia, yulia]
 publish: true
+created: 2026-02-09T17:28:37.655-03:00
+modified: 2026-02-27T13:24:13.415-03:00
+tags:
+  - navalnaya
+  - rusia
+  - yulia
+cssclasses: ""
 ---
+
 # [[Yulia Navalnaya]]
 
 **Clasificación:** Tier C (Arquetipo de Resistencia / Narrativa Externa)  

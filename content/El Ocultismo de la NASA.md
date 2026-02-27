@@ -1,12 +1,15 @@
 ---
-titulo: El Ocultismo De La NASA
-tipo: concepto
-fecha: 2026-02-25
-tags: [jack, nasa, ocultismo, wernher]
-tier-primario: "a"
-nivel-evidencia: "total"
 publish: true
+created: 2026-02-25T22:08:57.054-03:00
+modified: 2026-02-27T13:22:36.119-03:00
+tags:
+  - jack
+  - nasa
+  - ocultismo
+  - wernher
+cssclasses: ""
 ---
+
 
 # El Ocultismo De La NASA
 

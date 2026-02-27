@@ -1,11 +1,16 @@
 ---
-titulo: "Le Cercle - Wikispooks --- Le Cercle - Wikispooks"
-tipo: "concepto"
-source: "https://wikispooks.com/wiki/Le_Cercle"
-description: "Coalición internacional de veteranos de inteligencia de derecha y activos de propaganda."
-tags: [le-cercle, deep-state, inteligencia, guerra-fria]
 publish: true
+description: Coalición internacional de veteranos de inteligencia de derecha y activos de propaganda.
+created: 2026-01-29T19:05:10.815-03:00
+modified: 2026-02-27T13:23:11.632-03:00
+tags:
+  - le-cercle
+  - deep-state
+  - inteligencia
+  - guerra-fria
+cssclasses: ""
 ---
+
 # Le Cercle - Wikispooks --- Le Cercle - Wikispooks
 ![](https://wikispooks.com/w/images/b/b8/December_2016_meeting_of_Le_Cercle_Washington_3.jpg)
 
@@ -18,7 +23,7 @@ publish: true
 ## TLDR
 - El [[Círculo]] (anteriormente [[Grupo Pinay]], [[Círculo Pinay]], [[Cercle Pinay]] o [[Cercle Violet]]) es un [[ambiente de estado profundo]] comparable en edad al [[Bilderberg]], pero más pequeño, más secreto y menos expuesto.
 - David Teacher lo describió como \\"una coalición internacional de veteranos de inteligencia de derecha, activos de propaganda y políticos de alto nivel que darían forma a los [[años 70]] y [[años 80]].\\"
-- Fundado en [[1952]] por [[Jean Violet]], pretendía cimentar las relaciones [[franco-alemán|franco-alemán]], como un amortiguador contra la agresión [[soviético|soviética]] durante la [[Guerra Fría]].
+- Fundado en [[1952]] por [[Jean Violet]], pretendía cimentar las relaciones [[franco-alemán\|franco-alemán]], como un amortiguador contra la agresión [[soviético\|soviética]] durante la [[Guerra Fría]].
 - Se reunía originalmente solo en [[Europa]] durante 15 años, pero desde [[1968]] se reúne anualmente tanto en [[Washington]] como en Europa.
 - Los documentos filtrados indican que sus [[actividades]] incluyen [[subversión]], [[tráfico de armas]] y [[fraude]].
 - Se le ha descrito como un \\"grupo político que organiza conferencias\

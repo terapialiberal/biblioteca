@@ -1,12 +1,14 @@
 ---
-titulo: Lilith Y La Sombra Feminina
-tipo: "concepto"
-fecha: 2026-02-25
-tags: [feminina, lilith, sombra]
-tier-primario: "b"
-nivel-evidencia: "medio"
 publish: true
+created: 2026-02-25T22:08:51.622-03:00
+modified: 2026-02-27T13:23:14.037-03:00
+tags:
+  - feminina
+  - lilith
+  - sombra
+cssclasses: ""
 ---
+
 
 # Lilith Y La Sombra Feminina
 

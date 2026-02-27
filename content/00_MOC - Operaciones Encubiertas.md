@@ -1,12 +1,15 @@
 ---
 publish: true
-titulo: 🕵️ MOC — OPERACIONES ENCUBIERTAS
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [00-moc, encubiertas, manual-tl-conceptos-forenses, operaciones]
+created: 2026-02-24T13:31:46.461-03:00
+modified: 2026-02-27T13:21:56.178-03:00
+tags:
+  - 00-moc
+  - encubiertas
+  - manual-tl-conceptos-forenses
+  - operaciones
+cssclasses: ""
 ---
+
 # 🕵️ MOC — OPERACIONES ENCUBIERTAS
 
 > **Axioma**: Toda operación tiene un objetivo de activo real detrás. La narrativa es el envoltorio.
@@ -145,11 +148,26 @@ tags: [00-moc, encubiertas, manual-tl-conceptos-forenses, operaciones]
 
 ## 📊 NODOS AUTOMÁTICOS (Dataview)
 
-```dataview
-LIST
-FROM #false-flag OR #psyop OR #operaciones-encubiertas OR #inteligencia OR #asesinato-politico
-SORT file.name ASC
-```
+- [[Abu Dhabi’s G42\|Abu Dhabi’s G42]]
+- [[AFI\|AFI]]
+- [[Agencia de inteligencia\|Agencia de inteligencia]]
+- [[Chiche Gelblung\|Chiche Gelblung]]
+- [[Club Safari\|Club Safari]]
+- [[99_AI/Legacy/agent_old/workflows/dark\|dark]]
+- [[Feminismo e Inteligencia\|Feminismo e Inteligencia]]
+- [[Fuentes y Marcadores\|Fuentes y Marcadores]]
+- [[Gobernanza Algorítmica\|Gobernanza Algorítmica]]
+- [[Hermes - Trimegisto - Inteligencia y Señales\|Hermes - Trimegisto - Inteligencia y Señales]]
+- [[Honeypot\|Honeypot]]
+- [[Jeff Epstein, las Hermanas Maxwell y la Base de Datos Antiterrorista del FBI\|Jeff Epstein, las Hermanas Maxwell y la Base de Datos Antiterrorista del FBI]]
+- [[Jonathan Pollard\|Jonathan Pollard]]
+- [[LA CIA CONSTRUYÓ CIENTOS DE SITIOS WEB ENCUBIERTOS\|LA CIA CONSTRUYÓ CIENTOS DE SITIOS WEB ENCUBIERTOS]]
+- [[Le Cercle - Wikispooks\|Le Cercle - Wikispooks]]
+- [[Mario Firmenich\|Mario Firmenich]]
+- [[Renta Básica Universal\|Renta Básica Universal]]
+- [[99_Recursos/Templates/Template - Radar Briefing\|Template - Radar Briefing]]
+- [[Triple Frontera (Inteligencia)\|Triple Frontera (Inteligencia)]]
+
 
 ---
 

@@ -18,7 +18,7 @@ publish: true
 
 ## Financiamiento
 Financiado por:
-- [[NED|National Endowment for Democracy]]
+- [[NED\|National Endowment for Democracy]]
 - [[Open Society Foundations]]
 - Gobiernos occidentales
 

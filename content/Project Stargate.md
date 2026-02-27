@@ -10,7 +10,7 @@ publish: true
 # PROJECT STARGATE (v12_1)
 
 #### BLUF
-Project Stargate no es un centro de datos; es la **Catedral de la Post-Humanidad**. En 2026, [[Microsoft]] y [[OpenAI]] han ejecutado la Fase 3 de un megaproyecto de +\100B diseado para albergar la primera Inteligencia Artificial General ([[Agi]]). Con una demanda proyectada de 5 GW (el consumo de una nacin pequea), Stargate es el motor fsico que justifica el renacimiento nuclear del **Tier A** ([[Three Mile Island]], [[SMR]]).
+Project Stargate no es un centro de datos; es la **Catedral de la Post-Humanidad**. En 2026, [[Microsoft]] y [[OpenAI]] han ejecutado la Fase 3 de un megaproyecto de +\100B diseado para albergar la primera Inteligencia Artificial General ([[AGI]]). Con una demanda proyectada de 5 GW (el consumo de una nacin pequea), Stargate es el motor fsico que justifica el renacimiento nuclear del **Tier A** ([[Three Mile Island]], [[SMR]]).
 
 
 #### MAPA DE ACTORES

@@ -1,12 +1,15 @@
 ---
-titulo: Singularidad De Kurzweil (Apotheosis)
-tipo: "concepto"
-fecha: 2026-02-25
-tags: [kurzweil, neuralink, singularidad, transhumanismo]
-tier-primario: "a"
-nivel-evidencia: "medio"
 publish: true
+created: 2026-02-25T22:08:51.539-03:00
+modified: 2026-02-27T13:23:55.980-03:00
+tags:
+  - kurzweil
+  - neuralink
+  - singularidad
+  - transhumanismo
+cssclasses: ""
 ---
+
 
 # Singularidad De Kurzweil (Apotheosis)
 

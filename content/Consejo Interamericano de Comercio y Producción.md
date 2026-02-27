@@ -1,12 +1,15 @@
 ---
-titulo: Consejo Interamericano De Comercio Y Producción (CICYP)
-tipo: organizacion
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [comercio, consejo, interamericano, produccin]
 publish: true
+created: 2026-01-29T19:17:08.658-03:00
+modified: 2026-02-27T13:22:22.801-03:00
+tags:
+  - comercio
+  - consejo
+  - interamericano
+  - produccin
+cssclasses: ""
 ---
+
 # Consejo Interamericano De Comercio Y Producción (CICYP)
 
 > **Perfil TL:** El verdadero lobby.

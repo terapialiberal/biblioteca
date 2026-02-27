@@ -10,7 +10,7 @@ publish: true
 # Rumble (v2.0): ¿Refugio De Disidentes O Captura De Datos De La Matrix?
 
 > [!ABSTRACT] Hipótesis Informativa
-> Rumble es la **Infraestructura de Medios de [[Tier B]]** posicionada como la alternativa soberana a la censura de **[[YouTube]]**. Impulsada por una base de usuarios que huye de la agenda **[[Wokismo|Woke]]** y la biopolítica sanitaria del **[[Tier A]]**, Rumble se vende como el último bastión de la libertad de expresión. Sin embargo, su función real en la Matrix podría ser la de un **"Embudo de Disidencia Controlada"**: una plataforma financiada por el establishment tecnológico-financiero (**[[Peter Thiel]]**, **[[Howard Lutnick]]**) diseñada para centralizar y perfilar a los elementos más críticos del **[[Tier C]]**, asegurando que sus datos y metadatos permanezcan bajo la vigilancia de entidades vinculadas al complejo de inteligencia (**[[Palantir]]**).
+> Rumble es la **Infraestructura de Medios de [[Tier B]]** posicionada como la alternativa soberana a la censura de **[[YouTube]]**. Impulsada por una base de usuarios que huye de la agenda **[[Wokismo\|Woke]]** y la biopolítica sanitaria del **[[Tier A]]**, Rumble se vende como el último bastión de la libertad de expresión. Sin embargo, su función real en la Matrix podría ser la de un **"Embudo de Disidencia Controlada"**: una plataforma financiada por el establishment tecnológico-financiero (**[[Peter Thiel]]**, **[[Howard Lutnick]]**) diseñada para centralizar y perfilar a los elementos más críticos del **[[Tier C]]**, asegurando que sus datos y metadatos permanezcan bajo la vigilancia de entidades vinculadas al complejo de inteligencia (**[[Palantir]]**).
 
 ## Análisis De Tiers
 

@@ -1,12 +1,15 @@
 ---
-titulo: Resumen General
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [donald, epstein, jeffrey, trump]
 publish: true
+created: 2026-01-29T19:17:41.515-03:00
+modified: 2026-02-27T13:06:45.861-03:00
+tags:
+  - donald
+  - epstein
+  - jeffrey
+  - trump
+cssclasses: ""
 ---
+
 # Resumen General
 La relación Trump-Epstein abarca más de una década y está documentada en fotos, vuelos, testimonios y declaraciones contradictorias de Trump. La narrativa official de "lo conocí superficialmente" no resiste escrutinio.
 

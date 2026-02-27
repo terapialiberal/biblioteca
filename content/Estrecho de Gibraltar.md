@@ -1,18 +1,21 @@
 ---
-titulo: Estrecho De Gibraltar
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [echelon, estrecho, five, gibraltar]
 publish: true
+created: 2026-01-29T19:17:12.489-03:00
+modified: 2026-02-27T13:22:40.050-03:00
+tags:
+  - echelon
+  - estrecho
+  - five
+  - gibraltar
+cssclasses: ""
 ---
+
 # Estrecho De Gibraltar
 
 ## Perfil TL (Resumen Ejecutivo)
 **¿Qué es?** Un canal de agua de 14 km de ancho que separa Europa de África y conecta el Océano Atlántico con el Mar Mediterráneo.
 
-**¿Por qué importa?** Gibraltar es la **"Cámara de Seguridad" de Tier A en el Mediterráneo**. Quien controla este estrecho controla el acceso comercial y militar a 22 países. A pesar de los reclamos históricos de España, el Peñón permanece en manos del Reino Unido por una razón geopolítica de Tier A: el Mediterráneo es un "lago de la OTAN" y ninguna potencia marítima anglosajona va a entregar la llave del cerrojo a una potencia peninsular que podría cambiar de alianzas. La base militar y de inteligencia de señales (SIGINT) en el Peñón monitorea cada barco, submarino y comunicación que entra o sale del Mediterráneo, haciendo de Gibraltar un nodo crítico de la red **[[Echelon]]**. Además, es un centro financiero opaco de Tier B que sirve para el movimiento de capitales y el tráfico ilícito que fluye desde el norte de África.
+**¿Por qué importa?** Gibraltar es la **"Cámara de Seguridad" de Tier A en el Mediterráneo**. Quien controla este estrecho controla el acceso comercial y militar a 22 países. A pesar de los reclamos históricos de España, el Peñón permanece en manos del Reino Unido por una razón geopolítica de Tier A: el Mediterráneo es un "lago de la OTAN" y ninguna potencia marítima anglosajona va a entregar la llave del cerrojo a una potencia peninsular que podría cambiar de alianzas. La base militar y de inteligencia de señales (SIGINT) en el Peñón monitorea cada barco, submarino y comunicación que entra o sale del Mediterráneo, haciendo de Gibraltar un nodo crítico de la red **[[ECHELON]]**. Además, es un centro financiero opaco de Tier B que sirve para el movimiento de capitales y el tráfico ilícito que fluye desde el norte de África.
 
 ## Análisis De Poder (Tiers)
 

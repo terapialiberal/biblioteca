@@ -1,12 +1,15 @@
 ---
-titulo: Yale University / Skull & Bones
-tipo: organizacion
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [george, skull, university, yale]
 publish: true
+created: 2026-01-29T19:17:44.786-03:00
+modified: 2026-02-27T13:24:12.100-03:00
+tags:
+  - george
+  - skull
+  - university
+  - yale
+cssclasses: ""
 ---
+
 ![Skull and Bones](https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Skull_and_Bones_logo.png/220px-Skull_and_Bones_logo.png)
 # Yale University / Skull & Bones
 

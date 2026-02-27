@@ -1,12 +1,13 @@
 ---
-titulo: Singularidad Noosférica
-tipo: persona
-fecha: 2026-02-25
-tags: [noosfrica, singularidad]
-tier-primario: "b"
-nivel-evidencia: "medio"
 publish: true
+created: 2026-02-25T22:08:55.825-03:00
+modified: 2026-02-27T13:23:55.987-03:00
+tags:
+  - noosfrica
+  - singularidad
+cssclasses: ""
 ---
+
 
 # Singularidad Noosférica
 

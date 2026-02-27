@@ -1,12 +1,14 @@
 ---
-titulo: Opus Dei
-tipo: persona
-fecha: 2026-02-25
-tags: [banco, iese, opus]
-tier-primario: "a"
-nivel-evidencia: "total"
 publish: true
+created: 2026-02-25T22:12:53.020-03:00
+modified: 2026-02-27T13:23:36.258-03:00
+tags:
+  - banco
+  - iese
+  - opus
+cssclasses: ""
 ---
+
 
 # Opus Dei
 

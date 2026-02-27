@@ -1,12 +1,15 @@
 ---
-titulo: Aegis Ashore (Polonia-Rumania)
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [aegis, ashore, lockheed, polonia]
 publish: true
+created: 2026-02-09T17:21:56.965-03:00
+modified: 2026-02-27T13:21:57.362-03:00
+tags:
+  - aegis
+  - ashore
+  - lockheed
+  - polonia
+cssclasses: ""
 ---
+
 # [[Aegis Ashore (Polonia-Rumania)]]
 
 **Clasificación:** Tier B (Hard-Power / Escalada Nuclear)  

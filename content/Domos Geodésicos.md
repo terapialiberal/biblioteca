@@ -1,12 +1,13 @@
 ---
-titulo: Domos Geodésicos
-tipo: persona
-fecha: 2026-02-25
-tags: [domos, geodsicos]
-tier-primario: "b"
-nivel-evidencia: "medio"
 publish: true
+created: 2026-02-25T22:08:33.201-03:00
+modified: 2026-02-27T13:22:30.827-03:00
+tags:
+  - domos
+  - geodsicos
+cssclasses: ""
 ---
+
 
 # Domos Geodésicos
 

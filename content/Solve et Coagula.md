@@ -1,12 +1,15 @@
 ---
-titulo: Solve Et Coagula (Reset Masivo)
-tipo: "concepto"
-fecha: 2026-02-25
-tags: [caos, coagula, great, solve]
-tier-primario: "a"
-nivel-evidencia: "total"
 publish: true
+created: 2026-02-25T22:08:54.485-03:00
+modified: 2026-02-27T13:23:59.004-03:00
+tags:
+  - caos
+  - coagula
+  - great
+  - solve
+cssclasses: ""
 ---
+
 
 # Solve Et Coagula (Reset Masivo)
 

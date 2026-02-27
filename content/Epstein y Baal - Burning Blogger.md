@@ -1,12 +1,15 @@
 ---
-titulo: Epstein Y Baal - Burning Blogger
-descripcion: "Análisis de la psicosis social desatada por la liberación de los archivos de Epstein en 2026."
-link: "https://burningblogger.com/2026/02/19/from-epstein-sightings-to-effigies-of-baal-the-inevitable-epstein-files-psychosis/"
-tipo: "articulo"
-fecha: 2026-02-20
-tags: [epstein, baal, psicosis-colectiva, desinformacion]
 publish: true
+created: 2026-02-20T11:26:50.729-03:00
+modified: 2026-02-27T13:22:38.677-03:00
+tags:
+  - epstein
+  - baal
+  - psicosis-colectiva
+  - desinformacion
+cssclasses: ""
 ---
+
 # Epstein Y Baal - Burning Blogger
 ![](https://burningblogger.com/wp-content/uploads/2026/02/burningBAALiran.jpg)
 ---

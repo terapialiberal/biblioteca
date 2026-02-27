@@ -1,12 +1,15 @@
 ---
-titulo: Adnan Khashoggi
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [adnan, jeffrey, khashoggi, oliver]
 publish: true
+created: 2026-01-29T19:17:02.885-03:00
+modified: 2026-02-27T13:21:57.331-03:00
+tags:
+  - adnan
+  - jeffrey
+  - khashoggi
+  - oliver
+cssclasses: ""
 ---
+
 # Adnan Khashoggi
 
 > [!ABSTRACT] Hipótesis Informativa

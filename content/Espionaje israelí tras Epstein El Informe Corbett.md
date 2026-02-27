@@ -1,11 +1,15 @@
 ---
-tipo: "articulo"
-titulo: Espionaje Israelí Tras Epstein | El Informe Corbett
-fuente: "https://corbettreport.com/israeli-spying-after-epstein/"
-fecha: 2026-02-15
-tags: [espionaje, israel, epstein, ciberseguridad]
 publish: true
+created: 2026-02-22T12:38:50.624-03:00
+modified: 2026-02-27T13:22:39.319-03:00
+tags:
+  - espionaje
+  - israel
+  - epstein
+  - ciberseguridad
+cssclasses: ""
 ---
+
 
 # Espionaje Israelí Tras Epstein | El Informe Corbett
 
@@ -65,7 +69,7 @@ La transición del espionaje se marca por el paso de las trampas de miel de carn
 
 ## 🧩 Análisis Propio
 
-**Cui bono:** Los principales beneficiarios de esta transición son el [[Estado Profundo]] israelí y las élites tecnológicas de [[Silicon Valley]]. [[Israel]] ha logrado convertir su aparato de inteligencia militar en un producto de exportación esencial, asegurando que cualquier gobierno que desee mantener el control social dependa de su tecnología. Por otro lado, los "broligarcas" obtienen acceso a capacidades de vigilancia que el estado formal no podría desarrollar tan rápidamente debido a restricciones legales.
+**Cui bono:** Los principales beneficiarios de esta transición son el [[Estado profundo]] israelí y las élites tecnológicas de [[Silicon Valley]]. [[Israel]] ha logrado convertir su aparato de inteligencia militar en un producto de exportación esencial, asegurando que cualquier gobierno que desee mantener el control social dependa de su tecnología. Por otro lado, los "broligarcas" obtienen acceso a capacidades de vigilancia que el estado formal no podría desarrollar tan rápidamente debido a restricciones legales.
 
 **Anomalías:** Resulta altamente sospechoso que la narrativa oficial de [[Carbyne]] presente su origen como una simple respuesta a un "atraco en la playa" de [[Amir Elichai]], cuando casi todo su equipo directivo proviene de los niveles más altos de la inteligencia militar y el descifrado de señales. Esta "historia de origen" tipo startup es una máscara civil para una operación de inteligencia de señales (SIGINT) que busca infiltrarse en los sistemas de respuesta a emergencias (911) de todo el mundo.
 
@@ -81,7 +85,7 @@ La transición del espionaje se marca por el paso de las trampas de miel de carn
 - [[Unidad 8200]]
 - [[Whitney Webb]]
 - [[Vigilancia Masiva]]
-- [[Estado Profundo]]
+- [[Estado profundo]]
 
 ---
 

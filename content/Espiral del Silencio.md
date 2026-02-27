@@ -1,12 +1,15 @@
 ---
-titulo: Espiral Del Silencio
-tipo: evento
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [consenso, correccin, espiral, silencio]
 publish: true
+created: 2026-01-29T19:17:12.262-03:00
+modified: 2026-02-27T13:06:48.359-03:00
+tags:
+  - consenso
+  - correccin
+  - espiral
+  - silencio
+cssclasses: ""
 ---
+
 # Espiral Del Silencio
 
 ## Perfil TL (Resumen Ejecutivo)

@@ -1,12 +1,15 @@
 ---
-titulo: Teoría Del Terreno Vs Teoría Del Germen
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [germen, informe, teora, tratado]
 publish: true
+created: 2026-01-29T19:17:39.195-03:00
+modified: 2026-02-27T13:07:49.965-03:00
+tags:
+  - germen
+  - informe
+  - teora
+  - tratado
+cssclasses: ""
 ---
+
 # Teoría Del Terreno Vs Teoría Del Germen
 
 ## Resumen Ejecutivo

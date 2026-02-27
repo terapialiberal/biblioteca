@@ -1,12 +1,14 @@
 ---
 publish: true
-titulo: Resumen General
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [aipac, antisemitismo, charlie]
+created: 2026-01-29T19:17:03.664-03:00
+modified: 2026-02-27T13:21:59.509-03:00
+tags:
+  - aipac
+  - antisemitismo
+  - charlie
+cssclasses: ""
 ---
+
 # Resumen General
 La acusación de "antisemitismo" se ha convertido en una herramienta para silenciar cualquier crítica a políticas del Estado de Israel, lobbies pro-Israel, o figuras públicas de origen judío—independientemente de si la crítica es racista o simplemente política.
 

@@ -33,7 +33,7 @@ publish: true
 
 ## Conexiones Críticas
 - [[Benjamin Netanyahu]]: El ejecutor político que consumó su repatriación triunfal.
-- [[LAKAM]]: La agencia secreta de inteligencia científica que lo manejó.
+- [[Lakam]]: La agencia secreta de inteligencia científica que lo manejó.
 - [[Rafi Eitan]]: El maestro de espías que diseñó la captura de la inteligencia naval estadounidense.
 - [[NSA]]: La agencia cuyo monopolio sobre los códigos globales fue roto por la filtración de Pollard.
 - [[Caspar Weinberger]]: El Secretario de Defensa de EE.UU. que proporcionó la declaración jurada secreta sobre el daño incalculable causado por Pollard.

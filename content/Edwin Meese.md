@@ -1,12 +1,15 @@
 ---
-titulo: Edwin Meese
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [edwin, meese, ronald, wedtech]
 publish: true
+created: 2026-01-29T19:17:11.073-03:00
+modified: 2026-02-27T13:22:32.614-03:00
+tags:
+  - edwin
+  - meese
+  - ronald
+  - wedtech
+cssclasses: ""
 ---
+
 # Edwin Meese
 
 ## Perfil TL (Resumen Ejecutivo)

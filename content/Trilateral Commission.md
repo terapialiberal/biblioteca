@@ -1,12 +1,15 @@
 ---
-titulo: TRILATERAL COMMISSION (v12_1)
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "alto"
-tags: [commission, david, motor, planetaria]
 publish: true
+created: 2026-01-29T19:17:41.223-03:00
+modified: 2026-02-27T13:24:06.191-03:00
+tags:
+  - commission
+  - david
+  - motor
+  - planetaria
+cssclasses: ""
 ---
+
 # TRILATERAL COMMISSION (v12_1)
 
 #### BLUF

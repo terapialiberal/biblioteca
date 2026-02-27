@@ -1,12 +1,15 @@
 ---
-titulo: Caso McMartin (Satanic Panic original)
-tipo: evento
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [abuso, caso, original, panic]
 publish: true
+created: 2026-01-29T19:17:06.807-03:00
+modified: 2026-02-27T13:22:15.991-03:00
+tags:
+  - abuso
+  - caso
+  - original
+  - panic
+cssclasses: ""
 ---
+
 # Caso McMartin (Satanic Panic original)
 
 ## Perfil TL (Resumen Ejecutivo)

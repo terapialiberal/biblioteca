@@ -1,12 +1,14 @@
 ---
-titulo: Agharta Y El Tier A (La Continuidad Oculta)
-tipo: "concepto"
-fecha: 2026-02-25
-tags: [agharta, misterios, operacin]
-tier-primario: "a"
-nivel-evidencia: "bajo"
 publish: true
+created: 2026-02-25T22:08:52.213-03:00
+modified: 2026-02-27T13:21:58.034-03:00
+tags:
+  - agharta
+  - misterios
+  - operacin
+cssclasses: ""
 ---
+
 
 # Agharta Y El Tier A (La Continuidad Oculta)
 

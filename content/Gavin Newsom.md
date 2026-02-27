@@ -1,12 +1,15 @@
 ---
-titulo: Gavin Newsom
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [familia, gavin, nancy, newsom]
 publish: true
+created: 2026-01-29T19:17:14.807-03:00
+modified: 2026-02-27T13:06:28.334-03:00
+tags:
+  - familia
+  - gavin
+  - nancy
+  - newsom
+cssclasses: ""
 ---
+
 # Gavin Newsom
 
 ## Perfil TL (Resumen Ejecutivo)

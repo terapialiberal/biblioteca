@@ -1,12 +1,13 @@
 ---
-titulo: Xi Jinping
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [jinping, partido]
 publish: true
+created: 2026-01-29T19:17:44.717-03:00
+modified: 2026-02-27T13:06:47.522-03:00
+tags:
+  - jinping
+  - partido
+cssclasses: ""
 ---
+
 # Xi Jinping
 
 > [!INFO] Perfil Operativo (Tier A)

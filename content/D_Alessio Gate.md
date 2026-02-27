@@ -1,12 +1,15 @@
 ---
-titulo: "Caso D'Alessio"
-tipo: evento
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [alessio, causa, d-alessio, naciones]
 publish: true
+created: 2026-01-29T19:17:10.731-03:00
+modified: 2026-02-27T13:07:02.265-03:00
+tags:
+  - alessio
+  - causa
+  - d-alessio
+  - naciones
+cssclasses: ""
 ---
+
 # Caso D'Alessio
 
 ## Resumen General

@@ -1,12 +1,15 @@
 ---
-titulo: 'Enrique "Coti" Nosiglia'
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [coti, enrique, martn, universidad]
 publish: true
+created: 2026-01-29T19:17:11.917-03:00
+modified: 2026-02-27T13:22:38.639-03:00
+tags:
+  - coti
+  - enrique
+  - martn
+  - universidad
+cssclasses: ""
 ---
+
 # Enrique "Coti" Nosiglia
 
 ## Perfil TL (Resumen Ejecutivo)

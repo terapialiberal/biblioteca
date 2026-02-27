@@ -1,12 +1,15 @@
 ---
-titulo: Identidad Digital Soberana (SSI)
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [criptografa, digital, id2020, identidad]
 publish: true
+created: 2026-01-29T19:17:17.940-03:00
+modified: 2026-02-27T13:07:47.407-03:00
+tags:
+  - criptografa
+  - digital
+  - id2020
+  - identidad
+cssclasses: ""
 ---
+
 # Identidad Digital Soberana (SSI)
 
 ## Perfil TL (Resumen Ejecutivo)

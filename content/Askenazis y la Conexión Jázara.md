@@ -1,12 +1,15 @@
 ---
-titulo: Askenazis Y La Conexión Jázara — La Capa De Gestión Intermedia
-tipo: concepto
-fecha: 2026-02-25
-tags: [askenazis, jzara, mafia, venecia]
-tier-primario: "b"
-nivel-evidencia: "medio"
 publish: true
+created: 2026-02-25T22:35:58.212-03:00
+modified: 2026-02-27T13:22:00.543-03:00
+tags:
+  - askenazis
+  - jzara
+  - mafia
+  - venecia
+cssclasses: ""
 ---
+
 
 # Askenazis Y La Conexión Jázara — La Capa De Gestión Intermedia
 

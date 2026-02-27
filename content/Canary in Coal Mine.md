@@ -1,12 +1,15 @@
 ---
-titulo: Resumen General
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [canary, coal, mine, patrones]
 publish: true
+created: 2026-01-29T19:17:06.348-03:00
+modified: 2026-02-27T13:06:59.022-03:00
+tags:
+  - canary
+  - coal
+  - mine
+  - patrones
+cssclasses: ""
 ---
+
 # Resumen General
 Un "canario en la mina de carbón" es un indicador temprano de peligro. En análisis geopolítico, ciertos eventos o reacciones funcionan como advertencias de tendencias mayores.
 
@@ -35,7 +38,7 @@ Un "canario en la mina de carbón" es un indicador temprano de peligro. En anál
 # Conexiones
 - [[Análisis predictivo]]
 - [[Patrones históricos]]
-- [[Ingeniería inversa]]
+- [[Ingeniería Inversa]]
 
 # Por Qué Importa
 Los que tienen información actúan antes del evento. Observar sus acciones es la mejor predicción disponible para los que no tenemos acceso a la mesa.

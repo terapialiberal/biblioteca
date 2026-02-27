@@ -1,12 +1,14 @@
 ---
-titulo: Council of the Americas
-tipo: organizacion
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [americas, council, david]
 publish: true
+created: 2026-01-29T19:17:08.893-03:00
+modified: 2026-02-27T13:22:23.852-03:00
+tags:
+  - americas
+  - council
+  - david
+cssclasses: ""
 ---
+
 # Council of the Americas
 
 > [!ABSTRACT] Ficha Técnica

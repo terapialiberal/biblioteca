@@ -1,12 +1,15 @@
 ---
-titulo: Logia Hijos De Oriente
-tipo: organizacion
-fecha: 2026-02-25
-tags: [baring, comercio, hijos, logia]
-tier-primario: "b"
-nivel-evidencia: "medio"
 publish: true
+created: 2026-02-25T22:08:55.638-03:00
+modified: 2026-02-27T13:23:15.332-03:00
+tags:
+  - baring
+  - comercio
+  - hijos
+  - logia
+cssclasses: ""
 ---
+
 
 # Logia Hijos De Oriente
 

@@ -1,12 +1,13 @@
 ---
-titulo: AGI (Inteligencia Artificial General)
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [google, neuralink]
 publish: true
+created: 2026-01-29T19:17:03.049-03:00
+modified: 2026-02-27T13:06:41.737-03:00
+tags:
+  - google
+  - neuralink
+cssclasses: ""
 ---
+
 # AGI (Inteligencia Artificial General)
 
 ## Resumen Ejecutivo
@@ -34,7 +35,7 @@ El peligro no es "Terminator" (robots disparando), sino manipulación y control 
 
 ## Conexiones
 - [[Sam Altman]]
-- [[Neuralink & Transhumanismo]]
+- [[99_AI/Legacy/Neuralink & Transhumanismo]]
 - [[Google (Origins)]]
 
 ## Fuentes

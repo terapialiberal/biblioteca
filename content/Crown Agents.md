@@ -1,12 +1,15 @@
 ---
-titulo: "Crown Agents: Los Administradores Del Imperio Invisible"
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [agents, city, imperio, invisible]
 publish: true
+created: 2026-01-29T19:17:09.331-03:00
+modified: 2026-02-27T13:22:25.206-03:00
+tags:
+  - agents
+  - city
+  - imperio
+  - invisible
+cssclasses: ""
 ---
+
 # Crown Agents: Los Administradores Del Imperio Invisible
 
 > [!ABSTRACT] Hipótesis Informativa

@@ -1,12 +1,15 @@
 ---
-titulo: Bitcoin Foundation
-tipo: organizacion
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [bitcoin, foundation, fundacin, jeffrey]
 publish: true
+created: 2026-01-29T19:17:14.397-03:00
+modified: 2026-02-27T13:07:25.968-03:00
+tags:
+  - bitcoin
+  - foundation
+  - fundacin
+  - jeffrey
+cssclasses: ""
 ---
+
 # Bitcoin Foundation
 
 ## Perfil TL (Resumen Ejecutivo)

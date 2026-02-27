@@ -1,12 +1,15 @@
 ---
 publish: true
-titulo: 📉 MOC - Fricciones Y Fallos De La Matrix (Glitches)
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [agenda, fricciones, matrix, protestas]
+created: 2026-01-29T19:17:02.562-03:00
+modified: 2026-02-27T13:21:56.708-03:00
+tags:
+  - agenda
+  - fricciones
+  - matrix
+  - protestas
+cssclasses: ""
 ---
+
 # 📉 MOC - Fricciones Y Fallos De La Matrix (Glitches)
 
 > [!FAILURE] OBJETIVO
@@ -169,7 +172,4 @@ graph TD
 
 > [!NOTE] Rastriables Dataview
 > Lista completa generada automáticamente:
-> ```dataview
-> LIST FROM #categoría/resistencia OR #categoría/colapso OR #tipo/conflicto
-> SORT file.name ASC
-> ```
+>  

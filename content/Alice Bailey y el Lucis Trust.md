@@ -1,12 +1,15 @@
 ---
-titulo: Alice Bailey Y El Lucis Trust (Nexo ONU)
-tipo: "persona"
-fecha: 2026-02-25
-tags: [bailey, lucis, robert, trust]
-tier-primario: "a"
-nivel-evidencia: "total"
 publish: true
+created: 2026-02-25T22:20:43.662-03:00
+modified: 2026-02-27T13:21:58.516-03:00
+tags:
+  - bailey
+  - lucis
+  - robert
+  - trust
+cssclasses: ""
 ---
+
 
 # Alice Bailey Y El Lucis Trust (Nexo ONU)
 

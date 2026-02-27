@@ -1,12 +1,15 @@
 ---
-titulo: Impresión 3D De Armas (FGC-9)
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [armas, descentralizacin, impresin, segunda]
 publish: true
+created: 2026-01-29T19:17:18.066-03:00
+modified: 2026-02-27T13:22:54.423-03:00
+tags:
+  - armas
+  - descentralizacin
+  - impresin
+  - segunda
+cssclasses: ""
 ---
+
 # Impresión 3D De Armas (FGC-9)
 
 ## Perfil TL (Resumen Ejecutivo)

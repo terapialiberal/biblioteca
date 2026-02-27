@@ -1,12 +1,15 @@
 ---
-titulo: Caída De La URSS
-tipo: evento
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [cada, hipernormalizacin, jeffrey, urss]
 publish: true
+created: 2026-01-29T19:17:06.986-03:00
+modified: 2026-02-27T13:06:55.822-03:00
+tags:
+  - cada
+  - hipernormalizacin
+  - jeffrey
+  - urss
+cssclasses: ""
 ---
+
 # Caída De La URSS
 
 ## Perfil TL (Resumen Ejecutivo)

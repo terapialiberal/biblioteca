@@ -1,12 +1,15 @@
 ---
-titulo: Gerardo Morales
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [gerardo, litio, morales, sergio]
 publish: true
+created: 2026-01-29T19:17:15.212-03:00
+modified: 2026-02-27T13:22:47.101-03:00
+tags:
+  - gerardo
+  - litio
+  - morales
+  - sergio
+cssclasses: ""
 ---
+
 # Gerardo Morales
 
 ## Perfil TL (Resumen Ejecutivo)

@@ -1,12 +1,15 @@
 ---
-titulo: HAARP (Manipulación Ionosférica)
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [haarp, ionosfrica, manipulacin, weather]
 publish: true
+created: 2026-01-29T19:17:16.642-03:00
+modified: 2026-02-27T13:06:26.326-03:00
+tags:
+  - haarp
+  - ionosfrica
+  - manipulacin
+  - weather
+cssclasses: ""
 ---
+
 # HAARP (Manipulación Ionosférica)
 
 ## Perfil TL (Resumen Ejecutivo)

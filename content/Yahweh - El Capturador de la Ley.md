@@ -1,12 +1,13 @@
 ---
-titulo: Yahweh - El Capturador De La Ley
-tipo: "concepto"
-fecha: 2026-02-25
-tags: [capturador, yahweh]
-tier-primario: "a"
-nivel-evidencia: "alto"
 publish: true
+created: 2026-02-25T22:26:17.767-03:00
+modified: 2026-02-27T13:24:12.072-03:00
+tags:
+  - capturador
+  - yahweh
+cssclasses: ""
 ---
+
 
 # Yahweh - El Capturador De La Ley
 

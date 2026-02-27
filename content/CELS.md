@@ -1,12 +1,15 @@
 ---
-titulo: CELS (Centro De Estudios Legales Y Sociales)
-tipo: organizacion
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [centro, fundacin, horacio, legales]
 publish: true
+created: 2026-01-29T19:17:07.165-03:00
+modified: 2026-02-27T13:07:04.917-03:00
+tags:
+  - centro
+  - fundacin
+  - horacio
+  - legales
+cssclasses: ""
 ---
+
 # CELS (Centro De Estudios Legales Y Sociales)
 
 ## Perfil TL (Resumen Ejecutivo)

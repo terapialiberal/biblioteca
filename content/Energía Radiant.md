@@ -1,12 +1,13 @@
 ---
-titulo: Energía Radiant (Tesla)
-tipo: persona
-fecha: 2026-02-25
-tags: [energa, radiant]
-tier-primario: "b"
-nivel-evidencia: "medio"
 publish: true
+created: 2026-02-25T22:08:33.097-03:00
+modified: 2026-02-27T13:22:38.579-03:00
+tags:
+  - energa
+  - radiant
+cssclasses: ""
 ---
+
 
 # Energía Radiant (Tesla)
 

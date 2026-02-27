@@ -10,7 +10,7 @@ publish: true
 # Rosemont Seneca Partners (v2.0): El Hub Del Tráfico De Influencias De La Matrix
 
 > [!ABSTRACT] Hipótesis Informativa
-> Rosemont Seneca Partners es la **Infraestructura de Lavado de Influencia de [[Tier B]]** utilizada por la familia Biden para monetizar el poder político de la vicepresidencia de EE.UU. Co-fundada por **[[Hunter Biden]]**, Christopher Heinz (hijastro de John Kerry) y Devon Archer, la firma actuó como la interfaz entre los intereses estratégicos de potencias extranjeras (**[[China (Influencia)|China]]**, Ucrania, Rusia) y el acceso directo a la Casa Blanca. Su función real fue la de un **"Agente de Cobro Transnacional"**: extraer millones de dólares de oligarcas y entidades estatales extranjeras a cambio de protección, información privilegiada y dirección de la política exterior de EE.UU. bajo el control del "Big Guy".
+> Rosemont Seneca Partners es la **Infraestructura de Lavado de Influencia de [[Tier B]]** utilizada por la familia Biden para monetizar el poder político de la vicepresidencia de EE.UU. Co-fundada por **[[Hunter Biden]]**, Christopher Heinz (hijastro de John Kerry) y Devon Archer, la firma actuó como la interfaz entre los intereses estratégicos de potencias extranjeras (**[[China (Influencia)\|China]]**, Ucrania, Rusia) y el acceso directo a la Casa Blanca. Su función real fue la de un **"Agente de Cobro Transnacional"**: extraer millones de dólares de oligarcas y entidades estatales extranjeras a cambio de protección, información privilegiada y dirección de la política exterior de EE.UU. bajo el control del "Big Guy".
 
 ## Análisis De Tiers
 

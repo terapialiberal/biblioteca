@@ -1,12 +1,15 @@
 ---
-titulo: Evergreen International Aviation
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [aviation, evergreen, modificacin, naciones]
 publish: true
+created: 2026-01-29T19:17:12.765-03:00
+modified: 2026-02-27T13:07:04.052-03:00
+tags:
+  - aviation
+  - evergreen
+  - modificacin
+  - naciones
+cssclasses: ""
 ---
+
 # Evergreen International Aviation
 
 ## Resumen General

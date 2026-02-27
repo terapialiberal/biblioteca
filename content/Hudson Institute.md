@@ -1,12 +1,15 @@
 ---
-titulo: Hudson Institute
-tipo: organizacion
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [hudson, institute, mike, rand]
 publish: true
+created: 2026-01-29T19:17:17.567-03:00
+modified: 2026-02-27T13:22:53.438-03:00
+tags:
+  - hudson
+  - institute
+  - mike
+  - rand
+cssclasses: ""
 ---
+
 # Hudson Institute
 
 > [!ABSTRACT] Ficha Técnica

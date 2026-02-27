@@ -1,12 +1,14 @@
 ---
-titulo: Teoría De Juegos
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [juegos, public, teora]
 publish: true
+created: 2026-01-29T19:17:38.832-03:00
+modified: 2026-02-27T13:24:01.596-03:00
+tags:
+  - juegos
+  - public
+  - teora
+cssclasses: ""
 ---
+
 # Teoría De Juegos
 
 > [!ABSTRACT] Definición

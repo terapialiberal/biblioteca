@@ -1,12 +1,15 @@
 ---
-titulo: "Institute for Statecraft: La Guerra Psicológica contra El Ciudadano"
-tipo: organizacion
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [ciudadano, contra, institute, otan]
 publish: true
+created: 2026-01-29T19:17:18.518-03:00
+modified: 2026-02-27T13:22:57.249-03:00
+tags:
+  - ciudadano
+  - contra
+  - institute
+  - otan
+cssclasses: ""
 ---
+
 # Institute for Statecraft: La Guerra Psicológica contra El Ciudadano
 
 > [!ABSTRACT] Hipótesis Informativa

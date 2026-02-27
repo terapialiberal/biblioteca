@@ -1,12 +1,15 @@
 ---
-titulo: Resumen General
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [alarmismo, coordinado, operaciones, problema]
 publish: true
+created: 2026-01-29T19:17:03.131-03:00
+modified: 2026-02-27T13:21:58.457-03:00
+tags:
+  - alarmismo
+  - coordinado
+  - operaciones
+  - problema
+cssclasses: ""
 ---
+
 # Resumen General
 El alarmismo coordinado es una táctica donde múltiples medios amplifican simultáneamente una amenaza (real o exagerada) para crear un estado de miedo que justifique medidas extraordinarias.
 

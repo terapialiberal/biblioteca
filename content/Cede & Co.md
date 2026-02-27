@@ -1,12 +1,15 @@
 ---
-titulo: "Cede & Co: La Ilusión De La Propiedad Privada"
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [dtcc, ilusin, propiedad, reserva]
 publish: true
+created: 2026-01-29T19:17:07.135-03:00
+modified: 2026-02-27T13:22:16.921-03:00
+tags:
+  - dtcc
+  - ilusin
+  - propiedad
+  - reserva
+cssclasses: ""
 ---
+
 # Cede & Co: La Ilusión De La Propiedad Privada
 
 > [!ABSTRACT] Hipótesis Informativa

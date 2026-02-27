@@ -1,12 +1,15 @@
 ---
-titulo: Minoría Organizada Vs Mayoría Desorganizada
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [desorganizada, minora, organizada, transgresin]
 publish: true
+created: 2026-01-29T19:17:25.384-03:00
+modified: 2026-02-27T13:06:33.315-03:00
+tags:
+  - desorganizada
+  - minora
+  - organizada
+  - transgresin
+cssclasses: ""
 ---
+
 # Minoría Organizada Vs Mayoría Desorganizada
 
 > **Perfil TL:** El principio fundamental del poder real: la coordinación vence al número.

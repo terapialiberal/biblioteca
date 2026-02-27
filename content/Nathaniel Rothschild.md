@@ -1,12 +1,15 @@
 ---
-titulo: "Nathaniel Rothschild: El Soberano De Los Recursos (v1.0)"
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [jacob, nathaniel, rothschild, soberano]
 publish: true
+created: 2026-01-29T19:17:26.445-03:00
+modified: 2026-02-27T13:23:27.095-03:00
+tags:
+  - jacob
+  - nathaniel
+  - rothschild
+  - soberano
+cssclasses: ""
 ---
+
 # Nathaniel Rothschild: El Soberano De Los Recursos (v1.0)
 
 > [!ABSTRACT] Hipótesis Informativa

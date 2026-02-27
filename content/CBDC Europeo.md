@@ -1,12 +1,15 @@
 ---
-titulo: CBDC EUROPEO (v12_1)
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "a"
-nivel-evidencia: "alto"
-tags: [christine, digital, grillete, programable]
 publish: true
+created: 2026-02-25T14:13:18.100-03:00
+modified: 2026-02-27T13:22:16.831-03:00
+tags:
+  - christine
+  - digital
+  - grillete
+  - programable
+cssclasses: ""
 ---
+
 # CBDC EUROPEO (v12_1)
 
 #### BLUF

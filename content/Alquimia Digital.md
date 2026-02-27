@@ -1,12 +1,15 @@
 ---
-titulo: Alquimia Digital (Silicio Vs Carbono)
-tipo: "concepto"
-fecha: 2026-02-25
-tags: [alquimia, blockchain, digital, singularidad]
-tier-primario: "a"
-nivel-evidencia: "medio"
 publish: true
+created: 2026-02-25T22:08:32.280-03:00
+modified: 2026-02-27T13:21:58.920-03:00
+tags:
+  - alquimia
+  - blockchain
+  - digital
+  - singularidad
+cssclasses: ""
 ---
+
 
 # Alquimia Digital (Silicio Vs Carbono)
 

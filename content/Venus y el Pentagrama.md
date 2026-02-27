@@ -1,12 +1,13 @@
 ---
-titulo: Venus Y El Pentagrama
-tipo: "concepto"
-fecha: 2026-02-25
-tags: [pentagrama, venus]
-tier-primario: "b"
-nivel-evidencia: "medio"
 publish: true
+created: 2026-02-25T22:08:57.845-03:00
+modified: 2026-02-27T13:24:07.700-03:00
+tags:
+  - pentagrama
+  - venus
+cssclasses: ""
 ---
+
 
 # Venus Y El Pentagrama
 

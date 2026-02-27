@@ -1,12 +1,15 @@
 ---
-titulo: Física De Plasma Y Alquimia Modern
-tipo: "concepto"
-fecha: 2026-02-25
-tags: [alquimia, fsica, modern, plasma]
-tier-primario: "b"
-nivel-evidencia: "medio"
 publish: true
+created: 2026-02-25T22:08:57.479-03:00
+modified: 2026-02-27T13:22:43.586-03:00
+tags:
+  - alquimia
+  - fsica
+  - modern
+  - plasma
+cssclasses: ""
 ---
+
 
 # Física De Plasma Y Alquimia Modern
 

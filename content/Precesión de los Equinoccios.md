@@ -1,12 +1,15 @@
 ---
-titulo: Precesión De Los Equinoccios Y El Reseteo Del Mundo
-tipo: "concepto"
-fecha: 2026-02-25
-tags: [equinoccios, gran, mitos, precesin]
-tier-primario: "a"
-nivel-evidencia: "alto"
 publish: true
+created: 2026-02-25T22:08:53.043-03:00
+modified: 2026-02-27T13:23:42.560-03:00
+tags:
+  - equinoccios
+  - gran
+  - mitos
+  - precesin
+cssclasses: ""
 ---
+
 
 # Precesión De Los Equinoccios Y El Reseteo Del Mundo
 

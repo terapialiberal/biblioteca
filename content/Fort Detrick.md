@@ -1,12 +1,15 @@
 ---
-titulo: Fort Detrick
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [detrick, ecohealth, fort, operacin]
 publish: true
+created: 2026-01-29T19:17:13.959-03:00
+modified: 2026-02-27T13:07:40.580-03:00
+tags:
+  - detrick
+  - ecohealth
+  - fort
+  - operacin
+cssclasses: ""
 ---
+
 # Fort Detrick
 
 ## Perfil TL (Resumen Ejecutivo)

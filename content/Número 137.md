@@ -1,12 +1,14 @@
 ---
-titulo: Número 137 (Constante De Estructura Fina)
-tipo: persona
-fecha: 2026-02-25
-tags: [gematra, nmero, wolfgang]
-tier-primario: "a"
-nivel-evidencia: "alto"
 publish: true
+created: 2026-02-25T22:08:56.675-03:00
+modified: 2026-02-27T13:23:32.055-03:00
+tags:
+  - gematra
+  - nmero
+  - wolfgang
+cssclasses: ""
 ---
+
 
 # Número 137 (Constante De Estructura Fina)
 

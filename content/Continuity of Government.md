@@ -1,12 +1,15 @@
 ---
-titulo: "Continuity of Government: El Plan Para Suspender La Constitución"
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [constitucin, continuity, fema, suspender]
 publish: true
+created: 2026-01-29T19:17:08.746-03:00
+modified: 2026-02-27T13:22:22.919-03:00
+tags:
+  - constitucin
+  - continuity
+  - fema
+  - suspender
+cssclasses: ""
 ---
+
 # Continuity of Government: El Plan Para Suspender La Constitución
 
 > [!ABSTRACT] Hipótesis Informativa

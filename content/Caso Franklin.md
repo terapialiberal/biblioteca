@@ -1,12 +1,15 @@
 ---
-titulo: Caso Franklin (El Encubrimiento original)
-tipo: evento
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [caso, encubrimiento, george, original]
 publish: true
+created: 2026-01-29T19:17:06.704-03:00
+modified: 2026-02-27T13:06:59.687-03:00
+tags:
+  - caso
+  - encubrimiento
+  - george
+  - original
+cssclasses: ""
 ---
+
 # Caso Franklin (El Encubrimiento original)
 
 ## Perfil TL (Resumen Ejecutivo)

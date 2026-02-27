@@ -1,12 +1,15 @@
 ---
-titulo: Crédito Social (Occidental)
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [cbdc, crdito, occidental, social]
 publish: true
+created: 2026-01-29T19:17:09.349-03:00
+modified: 2026-02-27T13:06:26.991-03:00
+tags:
+  - cbdc
+  - crdito
+  - occidental
+  - social
+cssclasses: ""
 ---
+
 # Crédito Social (Occidental)
 
 ## Resumen Ejecutivo

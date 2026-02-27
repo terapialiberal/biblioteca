@@ -1,12 +1,15 @@
 ---
 publish: true
-titulo: "🗺️ MOC: Reconfiguración Financiera (CBDC & Rieles)"
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [00-moc, cbdc, financiera, reconfiguracin]
+created: 2026-02-09T17:49:12.815-03:00
+modified: 2026-02-27T13:21:56.171-03:00
+tags:
+  - 00-moc
+  - cbdc
+  - financiera
+  - reconfiguracin
+cssclasses: ""
 ---
+
 # 🗺️ MOC: Reconfiguración Financiera (CBDC & Rieles)
 
 ## 📌 TESIS CENTRAL
@@ -52,8 +55,8 @@ El sistema fíat basado en el dólar está siendo migrado hacia una arquitectura
 ## 🔗 CONEXIONES DE MEMORIA
 - [[MOC - Rimland]] (La base física del capital)
 - [[MOC - Control Financiero]] ← **Ver diferencia de alcance abajo**
-- [[Entity_Graph]]
-- [[SISTEMA-IA]]
+- [[99_AI/05_Memoria_Central/Entity_Graph]]
+- [[99_AI/05_Memoria_Central/SISTEMA-IA]]
 
 > [!NOTE] Diferencia con [[MOC - Control Financiero]]
 > - **Este MOC** cubre la **arquitectura técnica**: CBDC, rieles DLT, mBridge, Project Agora. El *cómo* se mueve el dinero.

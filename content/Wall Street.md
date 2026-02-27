@@ -1,12 +1,15 @@
 ---
-titulo: Wall Street
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [allen, familia, street, wall]
 publish: true
+created: 2026-01-29T19:17:43.800-03:00
+modified: 2026-02-27T13:07:04.993-03:00
+tags:
+  - allen
+  - familia
+  - street
+  - wall
+cssclasses: ""
 ---
+
 # Wall Street
 ![](https://wikispooks.com/w/images/thumb/e/e4/Wall_Street.jpg/1200px-Wall_Street.jpg)
 

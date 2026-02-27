@@ -1,12 +1,15 @@
 ---
-titulo: El Tanque Armata (T-14)
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [armata, complejo, tanque, vladimir]
 publish: true
+created: 2026-01-29T19:17:11.540-03:00
+modified: 2026-02-27T13:22:36.879-03:00
+tags:
+  - armata
+  - complejo
+  - tanque
+  - vladimir
+cssclasses: ""
 ---
+
 # El Tanque Armata (T-14)
 
 ## Perfil TL (Resumen Ejecutivo)

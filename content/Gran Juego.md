@@ -1,12 +1,15 @@
 ---
-titulo: Gran Juego (The Great Game)
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [game, gran, guerra, juego]
 publish: true
+created: 2026-01-29T19:17:15.875-03:00
+modified: 2026-02-27T13:07:05.958-03:00
+tags:
+  - game
+  - gran
+  - guerra
+  - juego
+cssclasses: ""
 ---
+
 # Gran Juego (The Great Game)
 
 ## Perfil TL (Resumen Ejecutivo)

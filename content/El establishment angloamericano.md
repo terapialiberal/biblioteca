@@ -1,10 +1,15 @@
 ---
-titulo: El Establishment Angloamericano
-tipo: concepto
-source: "https://wikispooks.com/wiki/The_Anglo-American_Establishment"
-tags: [establishment-angloamericano, quigley, geopolitica, historia]
 publish: true
+created: 2026-01-29T19:05:09.140-03:00
+modified: 2026-02-27T13:22:34.640-03:00
+tags:
+  - establishment-angloamericano
+  - quigley
+  - geopolitica
+  - historia
+cssclasses: ""
 ---
+
 # El Establishment Angloamericano
 ![](https://wikispooks.com/w/images/6/6b/The_Anglo-American_Establishment.jpg)
 

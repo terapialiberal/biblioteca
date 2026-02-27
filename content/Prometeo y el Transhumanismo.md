@@ -1,12 +1,15 @@
 ---
-titulo: Prometeo Y El Transhumanismo
-tipo: "concepto"
-fecha: 2026-02-25
-tags: [anunnaki, frankenstein, prometeo, transhumanismo]
-tier-primario: "a"
-nivel-evidencia: "alto"
 publish: true
+created: 2026-02-25T22:28:04.008-03:00
+modified: 2026-02-27T13:23:44.025-03:00
+tags:
+  - anunnaki
+  - frankenstein
+  - prometeo
+  - transhumanismo
+cssclasses: ""
 ---
+
 
 # Prometeo Y El Transhumanismo
 

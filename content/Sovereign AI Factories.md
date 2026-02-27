@@ -1,12 +1,15 @@
 ---
-titulo: SOVEREIGN AI FACTORIES (v12_1)
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "alto"
-tags: [factories, japn, nacionalismo, tecnolgico]
 publish: true
+created: 2026-02-25T14:29:24.065-03:00
+modified: 2026-02-27T13:23:59.022-03:00
+tags:
+  - factories
+  - japn
+  - nacionalismo
+  - tecnolgico
+cssclasses: ""
 ---
+
 # SOVEREIGN AI FACTORIES (v12_1)
 
 #### BLUF

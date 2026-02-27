@@ -1,12 +1,14 @@
 ---
-titulo: Gigantes Y Arqueología Oficial (Missing Nodes)
-tipo: concepto
-fecha: 2026-02-25
-tags: [arqueologa, gigantes, oficial]
-tier-primario: "a"
-nivel-evidencia: "bajo"
 publish: true
+created: 2026-02-25T22:08:33.129-03:00
+modified: 2026-02-27T13:22:47.134-03:00
+tags:
+  - arqueologa
+  - gigantes
+  - oficial
+cssclasses: ""
 ---
+
 
 # Gigantes Y Arqueología Oficial (Missing Nodes)
 

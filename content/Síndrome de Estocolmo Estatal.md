@@ -1,12 +1,14 @@
 ---
-titulo: Síndrome De Estocolmo Estatal
-tipo: "concepto"
-fecha: 2026-02-25
-tags: [estatal, estocolmo, sndrome]
-tier-primario: "b"
-nivel-evidencia: "medio"
 publish: true
+created: 2026-02-25T22:08:53.608-03:00
+modified: 2026-02-27T13:23:55.924-03:00
+tags:
+  - estatal
+  - estocolmo
+  - sndrome
+cssclasses: ""
 ---
+
 
 # Síndrome De Estocolmo Estatal
 

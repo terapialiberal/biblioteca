@@ -18,7 +18,7 @@ Dustin Moskovitz fue roommate de Zuckerberg en Harvard y co-fund Facebook. Dej l
 
 Fund **Asana** (software de productividad) y **[[Open Philanthropy]]** con su esposa Cari Tuna. Open Philanthropy es uno de los mayores financistas del movimiento de "Effective Altruism".
 
-EA se volvi controversial tras el colapso de [[FTX & Sam Bankman-Fried|FTX]], cuyos fondos tambin venan del ecosistema EA.
+EA se volvi controversial tras el colapso de [[FTX & Sam Bankman-Fried\|FTX]], cuyos fondos tambin venan del ecosistema EA.
 
 ## Red De Conexiones
 - **Facebook:** Mark Zuckerberg, Chris Hughes

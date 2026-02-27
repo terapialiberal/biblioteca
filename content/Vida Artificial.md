@@ -1,12 +1,13 @@
 ---
-titulo: Vida Artificial (Prometheus)
-tipo: persona
-fecha: 2026-02-25
-tags: [artificial, vida]
-tier-primario: "b"
-nivel-evidencia: "medio"
 publish: true
+created: 2026-02-25T22:08:51.266-03:00
+modified: 2026-02-27T13:24:08.624-03:00
+tags:
+  - artificial
+  - vida
+cssclasses: ""
 ---
+
 
 # Vida Artificial (Prometheus)
 

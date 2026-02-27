@@ -1,12 +1,15 @@
 ---
-titulo: The Octopus (El Pulpo)
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [bcci, octopus, promis, pulpo]
 publish: true
+created: 2026-01-29T19:17:39.983-03:00
+modified: 2026-02-27T13:24:03.113-03:00
+tags:
+  - bcci
+  - octopus
+  - promis
+  - pulpo
+cssclasses: ""
 ---
+
 # The Octopus (El Pulpo)
 
 ## Resumen Ejecutivo

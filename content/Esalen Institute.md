@@ -1,12 +1,15 @@
 ---
-titulo: Esalen Institute
-tipo: organizacion
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [esalen, institute, silicon, tavistock]
 publish: true
+created: 2026-01-29T19:17:11.974-03:00
+modified: 2026-02-27T13:22:39.215-03:00
+tags:
+  - esalen
+  - institute
+  - silicon
+  - tavistock
+cssclasses: ""
 ---
+
 # Esalen Institute
 
 ## Perfil TL (Resumen Ejecutivo)

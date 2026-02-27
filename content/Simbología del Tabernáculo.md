@@ -1,12 +1,13 @@
 ---
-titulo: Simbología Del Tabernáculo
-tipo: "concepto"
-fecha: 2026-02-25
-tags: [simbologa, tabernculo]
-tier-primario: "b"
-nivel-evidencia: "medio"
 publish: true
+created: 2026-02-25T22:08:56.028-03:00
+modified: 2026-02-27T13:23:55.401-03:00
+tags:
+  - simbologa
+  - tabernculo
+cssclasses: ""
 ---
+
 
 # Simbología Del Tabernáculo
 

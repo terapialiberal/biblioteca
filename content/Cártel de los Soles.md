@@ -1,12 +1,15 @@
 ---
-titulo: Cártel De Los Soles
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [crtel, naciones, soles, venezuela]
 publish: true
+created: 2026-01-29T19:17:09.480-03:00
+modified: 2026-02-27T13:07:22.527-03:00
+tags:
+  - crtel
+  - naciones
+  - soles
+  - venezuela
+cssclasses: ""
 ---
+
 # Cártel De Los Soles
 
 ## Resumen General

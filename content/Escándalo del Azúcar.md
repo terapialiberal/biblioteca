@@ -1,12 +1,15 @@
 ---
-titulo: Escándalo Del Azúcar (Harvard)
-tipo: evento
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [ancel, azcar, escndalo, harvard]
 publish: true
+created: 2026-01-29T19:17:12.182-03:00
+modified: 2026-02-27T13:07:37.365-03:00
+tags:
+  - ancel
+  - azcar
+  - escndalo
+  - harvard
+cssclasses: ""
 ---
+
 # Escándalo Del Azúcar (Harvard)
 
 ## Perfil TL (Resumen Ejecutivo)

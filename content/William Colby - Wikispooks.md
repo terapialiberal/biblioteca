@@ -1,11 +1,15 @@
 ---
-tipo: "persona"
-titulo: William Colby - Wikispooks
-link: "https://wikispooks.com/wiki/William_Colby"
-fecha: 2026-02-06
-tags: [william-colby, cia, vietnam, programa-phoenix]
 publish: true
+created: 2026-02-06T11:07:09.115-03:00
+modified: 2026-02-27T13:24:10.658-03:00
+tags:
+  - william-colby
+  - cia
+  - vietnam
+  - programa-phoenix
+cssclasses: ""
 ---
+
 # William Colby - Wikispooks
 ![](https://wikispooks.com/w/images/f/f3/William_Colby.jpg)
 ---

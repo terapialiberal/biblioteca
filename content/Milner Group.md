@@ -1,12 +1,15 @@
 ---
-titulo: Milner Group
-tipo: empresa
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [cecil, chatham, group, milner]
 publish: true
+created: 2026-01-29T19:17:25.299-03:00
+modified: 2026-02-27T13:06:22.637-03:00
+tags:
+  - cecil
+  - chatham
+  - group
+  - milner
+cssclasses: ""
 ---
+
 # Milner Group
 
 > **Perfil TL:** La sociedad secreta dentro del Imperio Británico que creó Chatham House, CFR, y el marco de la gobernanza global.

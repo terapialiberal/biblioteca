@@ -1,12 +1,15 @@
 ---
-titulo: Oliver North
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [irn, john, north, oliver]
 publish: true
+created: 2026-01-29T19:17:28.014-03:00
+modified: 2026-02-27T13:06:57.607-03:00
+tags:
+  - irn
+  - john
+  - north
+  - oliver
+cssclasses: ""
 ---
+
 # Oliver North
 
 > **Perfil TL:** El operador militar que conecta narcotráfico, armas ilegales, ley marcial y los orígenes de la vigilancia masiva.

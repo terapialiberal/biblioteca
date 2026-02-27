@@ -1,12 +1,15 @@
 ---
-titulo: Information Overload (Sobrecarga Informativa)
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [guerra, information, overload, sobrecarga]
 publish: true
+created: 2026-01-29T19:17:18.383-03:00
+modified: 2026-02-27T13:22:55.616-03:00
+tags:
+  - guerra
+  - information
+  - overload
+  - sobrecarga
+cssclasses: ""
 ---
+
 # Information Overload (Sobrecarga Informativa)
 
 ## Perfil TL (Resumen Ejecutivo)

@@ -1,12 +1,15 @@
 ---
 publish: true
-titulo: Adolf Hitler
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [adolf, hitler, prescott, wall]
+created: 2026-01-29T19:17:02.897-03:00
+modified: 2026-02-27T13:21:57.342-03:00
+tags:
+  - adolf
+  - hitler
+  - prescott
+  - wall
+cssclasses: ""
 ---
+
 # Adolf Hitler
 
 > [!INFO] Perfil Operativo (Tier A)

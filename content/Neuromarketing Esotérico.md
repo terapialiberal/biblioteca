@@ -1,12 +1,13 @@
 ---
-titulo: Neuromarketing Esotérico
-tipo: "concepto"
-fecha: 2026-02-25
-tags: [esotrico, neuromarketing]
-tier-primario: "b"
-nivel-evidencia: "medio"
 publish: true
+created: 2026-02-25T22:08:57.176-03:00
+modified: 2026-02-27T13:23:28.360-03:00
+tags:
+  - esotrico
+  - neuromarketing
+cssclasses: ""
 ---
+
 
 # Neuromarketing Esotérico
 

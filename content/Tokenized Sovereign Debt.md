@@ -1,12 +1,15 @@
 ---
-titulo: TOKENIZED SOVEREIGN DEBT (v12_1)
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "a"
-nivel-evidencia: "alto"
-tags: [blackrock, digital, naciones, vanguard]
 publish: true
+created: 2026-02-25T15:50:41.672-03:00
+modified: 2026-02-27T13:24:03.977-03:00
+tags:
+  - blackrock
+  - digital
+  - naciones
+  - vanguard
+cssclasses: ""
 ---
+
 # TOKENIZED SOVEREIGN DEBT (v12_1)
 
 #### BLUF

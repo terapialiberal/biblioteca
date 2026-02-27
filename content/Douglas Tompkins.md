@@ -1,12 +1,14 @@
 ---
-titulo: Douglas Tompkins (Legacy)
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [douglas, legacy, tompkins]
 publish: true
+created: 2026-01-29T19:17:10.569-03:00
+modified: 2026-02-27T13:06:45.095-03:00
+tags:
+  - douglas
+  - legacy
+  - tompkins
+cssclasses: ""
 ---
+
 # Douglas Tompkins (Legacy)
 
 > **Resumen:** Conservacionismo como restricción de soberanía.

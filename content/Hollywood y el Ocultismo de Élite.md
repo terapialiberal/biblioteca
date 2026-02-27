@@ -1,12 +1,15 @@
 ---
-titulo: Hollywood Y El Ocultismo De Élite
-tipo: concepto
-fecha: 2026-02-25
-tags: [hollywood, programacin, walt, lite]
-tier-primario: "b"
-nivel-evidencia: "alto"
 publish: true
+created: 2026-02-25T22:23:25.805-03:00
+modified: 2026-02-27T13:22:52.562-03:00
+tags:
+  - hollywood
+  - programacin
+  - walt
+  - lite
+cssclasses: ""
 ---
+
 
 # Hollywood Y El Ocultismo De Élite
 

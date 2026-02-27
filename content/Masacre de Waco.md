@@ -1,12 +1,15 @@
 ---
-titulo: Masacre De Waco
-tipo: evento
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [atentado, janet, masacre, waco]
 publish: true
+created: 2026-01-29T19:17:24.329-03:00
+modified: 2026-02-27T13:23:19.002-03:00
+tags:
+  - atentado
+  - janet
+  - masacre
+  - waco
+cssclasses: ""
 ---
+
 # Masacre De Waco
 
 ## Resumen Ejecutivo

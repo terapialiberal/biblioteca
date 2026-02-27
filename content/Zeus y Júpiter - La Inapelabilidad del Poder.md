@@ -1,12 +1,16 @@
 ---
-titulo: Zeus Y Júpiter - La Inapelabilidad Del Poder
-tipo: concepto
-fecha: 2026-02-25T00:00:00.000Z
-tags: [castigo-sistmico, jerarqua-poder, mitologa-zeus, poder-hegemona, poder-soberana]
-tier-primario: a
-nivel-evidencia: alto
 publish: true
+created: 2026-02-25T22:28:50.481-03:00
+modified: 2026-02-26T16:06:06.533-03:00
+tags:
+  - castigo-sistmico
+  - jerarqua-poder
+  - mitologa-zeus
+  - poder-hegemona
+  - poder-soberana
+cssclasses: ""
 ---
+
 
 # Zeus Y Júpiter - La Inapelabilidad Del Poder
 

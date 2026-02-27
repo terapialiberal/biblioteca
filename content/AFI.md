@@ -1,12 +1,15 @@
 ---
-titulo: AFI (Agencia Federal De Inteligencia)
-tipo: organizacion
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [agencia, estado, inteligencia, jaime]
 publish: true
+created: 2026-01-29T19:17:02.943-03:00
+modified: 2026-02-27T13:06:58.197-03:00
+tags:
+  - agencia
+  - estado
+  - inteligencia
+  - jaime
+cssclasses: ""
 ---
+
 # AFI (Agencia Federal De Inteligencia)
 
 ## Resumen General

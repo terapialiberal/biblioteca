@@ -1,12 +1,15 @@
 ---
-titulo: Cinco Ojos (Five Eyes)
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [eyes, five, gchq, revelaciones]
 publish: true
+created: 2026-01-29T19:17:07.709-03:00
+modified: 2026-02-27T13:22:19.484-03:00
+tags:
+  - eyes
+  - five
+  - gchq
+  - revelaciones
+cssclasses: ""
 ---
+
 # Cinco Ojos (Five Eyes)
 
 > **Perfil TL:** La alianza de inteligencia anglófona que comparte TODO y evade restricciones legales nacionales.

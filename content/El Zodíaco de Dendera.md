@@ -1,12 +1,13 @@
 ---
-titulo: El Zodíaco De Dendera
-tipo: "concepto"
-fecha: 2026-02-25
-tags: [dendera, zodaco]
-tier-primario: "b"
-nivel-evidencia: "medio"
 publish: true
+created: 2026-02-25T22:08:53.322-03:00
+modified: 2026-02-27T13:22:37.340-03:00
+tags:
+  - dendera
+  - zodaco
+cssclasses: ""
 ---
+
 
 # El Zodíaco De Dendera
 

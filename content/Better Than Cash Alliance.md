@@ -1,12 +1,15 @@
 ---
-titulo: Better Than Cash Alliance
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [better, bill, cash, crdito]
 publish: true
+created: 2026-01-29T19:17:05.244-03:00
+modified: 2026-02-27T13:07:14.552-03:00
+tags:
+  - better
+  - bill
+  - cash
+  - crdito
+cssclasses: ""
 ---
+
 # Better Than Cash Alliance
 
 ## Resumen Ejecutivo

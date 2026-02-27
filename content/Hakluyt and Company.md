@@ -1,12 +1,15 @@
 ---
-titulo: Hakluyt & Company
-tipo: evento
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [company, hakluyt, henry, royal]
 publish: true
+created: 2026-01-29T19:17:16.686-03:00
+modified: 2026-02-27T13:22:50.941-03:00
+tags:
+  - company
+  - hakluyt
+  - henry
+  - royal
+cssclasses: ""
 ---
+
 # Hakluyt & Company
 
 ## Perfil TL (Resumen Ejecutivo)

@@ -1,12 +1,15 @@
 ---
-titulo: Total Information Awareness (TIA)
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [awareness, information, palantir, total]
 publish: true
+created: 2026-01-29T19:17:40.666-03:00
+modified: 2026-02-27T13:24:03.995-03:00
+tags:
+  - awareness
+  - information
+  - palantir
+  - total
+cssclasses: ""
 ---
+
 # Total Information Awareness (TIA)
 
 > **Perfil TL:** El programa de vigilancia total que el Congreso canceló por ser "demasiado orwelliano"... y que renació como Palantir.

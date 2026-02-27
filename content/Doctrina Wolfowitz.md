@@ -1,12 +1,15 @@
 ---
-titulo: Doctrina Wolfowitz
-tipo: organizacion
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [doctrina, paul, proyecto, wolfowitz]
 publish: true
+created: 2026-01-29T19:17:10.423-03:00
+modified: 2026-02-27T13:22:30.772-03:00
+tags:
+  - doctrina
+  - paul
+  - proyecto
+  - wolfowitz
+cssclasses: ""
 ---
+
 # Doctrina Wolfowitz
 
 ## Resumen Ejecutivo

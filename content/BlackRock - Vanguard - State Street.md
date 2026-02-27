@@ -1,12 +1,15 @@
 ---
-titulo: "BlackRock - Vanguard - State Street: La Trifecta Del Control Financiero"
-tipo: empresa
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [blackrock, control, financiero, vanguard]
 publish: true
+created: 2026-01-29T19:17:05.549-03:00
+modified: 2026-02-27T13:22:05.234-03:00
+tags:
+  - blackrock
+  - control
+  - financiero
+  - vanguard
+cssclasses: ""
 ---
+
 # BlackRock - Vanguard - State Street: La Trifecta Del Control Financiero
 
 > [!ABSTRACT] Hipótesis Informativa

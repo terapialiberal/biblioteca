@@ -1,12 +1,15 @@
 ---
-titulo: Hope Porn
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [hope, indefensin, porn, qanon]
 publish: true
+created: 2026-01-29T19:17:17.402-03:00
+modified: 2026-02-27T13:07:49.906-03:00
+tags:
+  - hope
+  - indefensin
+  - porn
+  - qanon
+cssclasses: ""
 ---
+
 # Hope Porn
 
 ## Perfil TL (Resumen Ejecutivo)

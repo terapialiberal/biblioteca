@@ -1,16 +1,15 @@
 ---
-titulo: "🇦🇷 MOC - Argentina: La Estructura De Poder"
-tipo: concepto
-fecha: 2026-02-25
-tier-primario: b
-nivel-evidencia: medio
+publish: true
+created: 2026-01-29T19:17:02.536-03:00
+modified: 2026-02-27T16:22:06.619-03:00
 tags:
   - eduardo
   - estructura
   - paolo
   - poder
-publish: true
+cssclasses: ""
 ---
+
 # 🇦🇷 MOC - Argentina: La Estructura De Poder
 
 > [!INFO]
@@ -130,7 +129,4 @@ graph TD
 
 > [!NOTE] Rastriables Dataview
 > Lista completa generada automáticamente:
-> ```dataview
-> LIST FROM #país/argentina
-> SORT file.name ASC
-> ```
+>  

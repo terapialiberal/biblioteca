@@ -1,13 +1,16 @@
 ---
 publish: true
-tipo: organizacion
-estado: sin-procesar
-titulo: How Many Members Does Antifa Have? Where Is Its Headquarters? The FBI Has No Answers
-fuente: https://theintercept.com/2025/12/11/fbi-antifa-terrorist-location/
-fecha: 2025-12-11T00:00:00.000Z
-descripcion: Despite saying that antifa is the biggest U.S. domestic threat, the FBI couldn’t explain how the movement is a “terror organization” — or an organization at all.
-tags: [antifa-organizacion-fluida, audiencias-congresuales, fbi-inteligencia, politica-estadounidense-donald-trump, seguridad-nacional-terrorismo-domestico]
+created: 2026-01-29T19:05:12.156-03:00
+modified: 2026-02-26T21:50:46.499-03:00
+tags:
+  - antifa-organizacion-fluida
+  - audiencias-congresuales
+  - fbi-inteligencia
+  - politica-estadounidense-donald-trump
+  - seguridad-nacional-terrorismo-domestico
+cssclasses: ""
 ---
+
 ![](https://theintercept.com/wp-content/uploads/2025/12/GettyImages-2251379975-e1765473538833.jpg?fit=5329%2C2664&w=1200&h=800)
 
 ---

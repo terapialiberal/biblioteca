@@ -1,12 +1,14 @@
 ---
-titulo: Resumen General
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [falsas, kayfabe, uniparty]
 publish: true
+created: 2026-01-29T19:17:42.220-03:00
+modified: 2026-02-27T13:06:19.725-03:00
+tags:
+  - falsas
+  - kayfabe
+  - uniparty
+cssclasses: ""
 ---
+
 # Resumen General
 "Uniparty" describe la observación de que Demócratas y Republicanos, a pesar de su teatro de conflicto, actúan como un solo partido en los temas que realmente importan: Wall Street, guerra, vigilancia, y protección de élites.
 

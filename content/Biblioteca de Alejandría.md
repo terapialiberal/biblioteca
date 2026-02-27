@@ -1,12 +1,14 @@
 ---
-titulo: Biblioteca De Alejandría (El Reset De La Información)
-tipo: concepto
-fecha: 2026-02-25
-tags: [alejandra, archivos, biblioteca]
-tier-primario: "a"
-nivel-evidencia: "medio"
 publish: true
+created: 2026-02-25T22:08:56.487-03:00
+modified: 2026-02-27T13:22:04.463-03:00
+tags:
+  - alejandra
+  - archivos
+  - biblioteca
+cssclasses: ""
 ---
+
 
 # Biblioteca De Alejandría (El Reset De La Información)
 

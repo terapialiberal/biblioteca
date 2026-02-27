@@ -1,12 +1,15 @@
 ---
-titulo: PROGRAMMABLE FOOD (v12_1)
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "a"
-nivel-evidencia: "alto"
-tags: [algoritmo, bajo, dieta, nestl]
 publish: true
+created: 2026-02-25T15:44:53.433-03:00
+modified: 2026-02-27T13:23:43.965-03:00
+tags:
+  - algoritmo
+  - bajo
+  - dieta
+  - nestl
+cssclasses: ""
 ---
+
 # PROGRAMMABLE FOOD (v12_1)
 
 #### BLUF

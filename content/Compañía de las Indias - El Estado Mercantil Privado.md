@@ -1,12 +1,15 @@
 ---
-titulo: Compañía De Las Indias - El Estado Mercantil Privado
-tipo: organizacion
-fecha: 2026-02-25
-tags: [compaa, estado, mercantil, privado]
-tier-primario: "a"
-nivel-evidencia: "alto"
 publish: true
+created: 2026-02-25T22:37:12.468-03:00
+modified: 2026-02-27T13:22:21.968-03:00
+tags:
+  - compaa
+  - estado
+  - mercantil
+  - privado
+cssclasses: ""
 ---
+
 
 # Compañía De Las Indias - El Estado Mercantil Privado
 

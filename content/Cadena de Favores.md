@@ -1,12 +1,15 @@
 ---
-titulo: Cadena De Favores (Política)
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [cadena, favores, jeffrey, poltica]
 publish: true
+created: 2026-01-29T19:17:06.264-03:00
+modified: 2026-02-27T13:22:12.060-03:00
+tags:
+  - cadena
+  - favores
+  - jeffrey
+  - poltica
+cssclasses: ""
 ---
+
 # Cadena De Favores (Política)
 
 ## Perfil TL (Resumen Ejecutivo)

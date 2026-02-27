@@ -1,12 +1,14 @@
 ---
-titulo: Tokenización De Activos Reales (RWA)
-tipo: concepto
-fecha: 2026-02-25
-tags: [activos, reales, tokenizacin]
-tier-primario: "a"
-nivel-evidencia: "alto"
 publish: true
+created: 2026-01-29T19:17:40.516-03:00
+modified: 2026-02-27T13:06:19.735-03:00
+tags:
+  - activos
+  - reales
+  - tokenizacin
+cssclasses: ""
 ---
+
 
 # Tokenización De Activos Reales (RWA)
 

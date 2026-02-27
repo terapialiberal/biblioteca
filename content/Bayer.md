@@ -1,12 +1,13 @@
 ---
 publish: true
-titulo: Bayer
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [bayer, monsanto]
+created: 2026-01-29T19:17:04.937-03:00
+modified: 2026-02-27T13:22:03.771-03:00
+tags:
+  - bayer
+  - monsanto
+cssclasses: ""
 ---
+
 # Bayer
 
 > [!ABSTRACT] Ficha Tcnica

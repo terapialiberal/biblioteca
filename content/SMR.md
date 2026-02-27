@@ -1,12 +1,15 @@
 ---
-titulo: SMR (v12_1)
-tipo: concepto
-fecha: 2026-02-25
-tier-primario: "a"
-nivel-evidencia: "alto"
-tags: [bill, modular, pila, small]
 publish: true
+created: 2026-02-25T14:22:57.642-03:00
+modified: 2026-02-27T13:23:57.971-03:00
+tags:
+  - bill
+  - modular
+  - pila
+  - small
+cssclasses: ""
 ---
+
 # SMR (v12_1)
 
 #### BLUF
@@ -17,7 +20,7 @@ Los Small Modular Reactors (SMR) son la respuesta del **Tier A** al cuello de bo
 | Actor | Tier | Rol Real | Incentivo Oculto |
 |-------|------|----------|-----------------|
 | [[Bill Gates]] | A | Arquitecto de Infraestructura | Captura de subsidios verdes para alimentar [[Microsoft]]. |
-| [[Sam Altman]] | A | Financista del Sol Sintético | Asegurar energía barata para la escala de [[Agi]]. |
+| [[Sam Altman]] | A | Financista del Sol Sintético | Asegurar energía barata para la escala de [[AGI]]. |
 | [[NRC (EE.UU.)]] | B | Validador Regulatorio | Acelerar licencias para no perder la carrera contra China. |
 | [[BlackRock]] | A | Financista Maestro | Controlar la cadena de suministro del uranio y el hardware. |
 

@@ -1,12 +1,15 @@
 ---
-titulo: Logia Lautaro
-tipo: organizacion
-fecha: 2026-02-25
-tags: [francisco, lautaro, logia, plan]
-tier-primario: "b"
-nivel-evidencia: "alto"
 publish: true
+created: 2026-02-25T22:08:32.329-03:00
+modified: 2026-02-27T13:23:15.344-03:00
+tags:
+  - francisco
+  - lautaro
+  - logia
+  - plan
+cssclasses: ""
 ---
+
 
 # Logia Lautaro
 

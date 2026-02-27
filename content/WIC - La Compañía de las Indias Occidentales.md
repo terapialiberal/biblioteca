@@ -1,12 +1,14 @@
 ---
-titulo: WIC - La Compañía De Las Indias Occidentales
-tipo: organizacion
-fecha: 2026-02-25
-tags: [compaa, indias, occidentales]
-tier-primario: "a"
-nivel-evidencia: "alto"
 publish: true
+created: 2026-02-25T22:42:34.069-03:00
+modified: 2026-02-27T13:24:10.611-03:00
+tags:
+  - compaa
+  - indias
+  - occidentales
+cssclasses: ""
 ---
+
 
 # WIC - La Compañía De Las Indias Occidentales
 

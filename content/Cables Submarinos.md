@@ -1,12 +1,15 @@
 ---
-titulo: Cables Submarinos (El Sistema Nervioso De Internet)
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [cables, edward, submarinos, swift]
 publish: true
+created: 2026-01-29T19:17:06.233-03:00
+modified: 2026-02-27T13:22:12.025-03:00
+tags:
+  - cables
+  - edward
+  - submarinos
+  - swift
+cssclasses: ""
 ---
+
 # Cables Submarinos (El Sistema Nervioso De Internet)
 
 ## Perfil TL (Resumen Ejecutivo)

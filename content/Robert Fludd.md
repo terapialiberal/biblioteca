@@ -1,12 +1,13 @@
 ---
-titulo: Robert Fludd
-tipo: persona
-fecha: 2026-02-25
-tags: [fludd, robert]
-tier-primario: "b"
-nivel-evidencia: "medio"
 publish: true
+created: 2026-02-25T22:08:52.964-03:00
+modified: 2026-02-27T13:23:50.630-03:00
+tags:
+  - fludd
+  - robert
+cssclasses: ""
 ---
+
 
 # Robert Fludd
 

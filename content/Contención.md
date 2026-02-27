@@ -1,12 +1,15 @@
 ---
-titulo: Contención (George Kennan)
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [contencin, george, guerra, kennan]
 publish: true
+created: 2026-01-29T19:17:08.675-03:00
+modified: 2026-02-27T13:06:58.303-03:00
+tags:
+  - contencin
+  - george
+  - guerra
+  - kennan
+cssclasses: ""
 ---
+
 # Contención (George Kennan)
 
 ## Resumen Ejecutivo

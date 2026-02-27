@@ -1,12 +1,15 @@
 ---
-titulo: Tráfico De Armas — La Logística De La Guerra Perpetua
-tipo: evento
-fecha: 2026-02-25
-tags: [guerra, irn, logstica, viktor]
-tier-primario: "a"
-nivel-evidencia: "alto"
 publish: true
+created: 2026-02-25T22:46:35.587-03:00
+modified: 2026-02-27T13:24:04.719-03:00
+tags:
+  - guerra
+  - irn
+  - logstica
+  - viktor
+cssclasses: ""
 ---
+
 
 # Tráfico De Armas — La Logística De La Guerra Perpetua
 

@@ -19,7 +19,7 @@ publish: true
 *   **El Handler Despiadado:** En el caso de **[[Jonathan Pollard]]**, Eitan demostró la disposición del Tier B de sacrificar activos (dejando a Pollard a su suerte frente a la embajada israelí) para proteger la estructura superior del Estado. Para Eitan, el individuo es desechable; la red es eterna.
 
 ### Tier A (La Conexión Maxwell-Sionismo)
-*   **El Software como Caballo de Troya:** Eitan coordinó con **[[Robert Maxwell]]** la inserción de puertas traseras (backdoors) en el software **[[PROMIS Software|PROMIS]]**. Este acto no fue un simple robo corporativo, sino una **Operación de Tier A** para penetrar las infraestructuras de inteligencia de aliados y enemigos por igual. Bajo su dirección, el Mossad pasó de ser una agencia de acción a ser una agencia de interceptación de flujos de información globales.
+*   **El Software como Caballo de Troya:** Eitan coordinó con **[[Robert Maxwell]]** la inserción de puertas traseras (backdoors) en el software **[[PROMIS Software\|PROMIS]]**. Este acto no fue un simple robo corporativo, sino una **Operación de Tier A** para penetrar las infraestructuras de inteligencia de aliados y enemigos por igual. Bajo su dirección, el Mossad pasó de ser una agencia de acción a ser una agencia de interceptación de flujos de información globales.
 
 ## ¸ Mecanisms De Poder (Operativos)
 

@@ -1,12 +1,15 @@
 ---
-titulo: Colateral Y Rehipotecación — El Truco Del Título
-tipo: "concepto"
-fecha: 2026-02-25
-tags: [colateral, rehipotecacin, tokenizacin, truco]
-tier-primario: "a"
-nivel-evidencia: "alto"
 publish: true
+created: 2026-02-25T22:49:09.065-03:00
+modified: 2026-02-27T13:22:21.032-03:00
+tags:
+  - colateral
+  - rehipotecacin
+  - tokenizacin
+  - truco
+cssclasses: ""
 ---
+
 
 # Colateral Y Rehipotecación — El Truco Del Título
 

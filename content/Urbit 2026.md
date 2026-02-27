@@ -1,12 +1,15 @@
 ---
-titulo: URBIT (2026 UPDATE) (v12_1)
-tipo: evento
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "alto"
-tags: [panptico, peer, tlon, urbit]
 publish: true
+created: 2026-02-25T16:12:39.110-03:00
+modified: 2026-02-27T13:24:06.861-03:00
+tags:
+  - panptico
+  - peer
+  - tlon
+  - urbit
+cssclasses: ""
 ---
+
 # URBIT (2026 UPDATE) (v12_1)
 
 #### BLUF

@@ -10,7 +10,7 @@ publish: true
 # La Apertura De China (v2.0): El Nacimiento Del Laboratorio Globalista
 
 > [!ABSTRACT] Hipótesis Informativa
-> La Apertura de China en 1972 constituyó el **acto fundacional del nuevo paradigma de [[Tier A]] para el siglo XXI**. Orquestada por **[[Henry Kissinger]]** bajo el auspicio financiero y estratégico de la familia **[[Rockefeller Family|Rockefeller]]**, la visita de **[[Richard Nixon]]** no fue una "misión de paz", sino un operativo para externalizar la base manufacturera de Occidente hacia un régimen totalitario. El objetivo fue doble: 1) Destruir el poder de la clase media y los sindicatos del [[Tier C]] occidental mediante la desindustrialización, y 2) Utilizar a la China de Mao como un **laboratorio de ingeniería social masiva**, probando tecnologías de control que hoy se exportan de vuelta a Occidente.
+> La Apertura de China en 1972 constituyó el **acto fundacional del nuevo paradigma de [[Tier A]] para el siglo XXI**. Orquestada por **[[Henry Kissinger]]** bajo el auspicio financiero y estratégico de la familia **[[Rockefeller Family\|Rockefeller]]**, la visita de **[[Richard Nixon]]** no fue una "misión de paz", sino un operativo para externalizar la base manufacturera de Occidente hacia un régimen totalitario. El objetivo fue doble: 1) Destruir el poder de la clase media y los sindicatos del [[Tier C]] occidental mediante la desindustrialización, y 2) Utilizar a la China de Mao como un **laboratorio de ingeniería social masiva**, probando tecnologías de control que hoy se exportan de vuelta a Occidente.
 
 ## Análisis De Tiers
 

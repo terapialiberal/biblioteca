@@ -1,12 +1,15 @@
 ---
-titulo: Rockefeller Y La Gnosis Colectiva
-tipo: concepto
-fecha: 2026-02-25
-tags: [colectiva, gnosis, rockefeller, transhumanismo]
-tier-primario: "a"
-nivel-evidencia: "total"
 publish: true
+created: 2026-02-25T22:24:43.775-03:00
+modified: 2026-02-27T13:23:51.184-03:00
+tags:
+  - colectiva
+  - gnosis
+  - rockefeller
+  - transhumanismo
+cssclasses: ""
 ---
+
 
 # Rockefeller Y La Gnosis Colectiva
 

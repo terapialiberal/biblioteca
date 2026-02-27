@@ -1,12 +1,15 @@
 ---
-titulo: George Floyd Y El Ciclo BLM 2020
-tipo: evento
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [ciclo, ford, george, open]
 publish: true
+created: 2026-01-29T19:17:15.107-03:00
+modified: 2026-02-27T13:06:20.977-03:00
+tags:
+  - ciclo
+  - ford
+  - george
+  - open
+cssclasses: ""
 ---
+
 # George Floyd Y El Ciclo BLM 2020
 
 ## Perfil TL (Resumen Ejecutivo)

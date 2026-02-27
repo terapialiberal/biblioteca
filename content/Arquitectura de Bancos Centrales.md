@@ -1,12 +1,14 @@
 ---
-titulo: Arquitectura De Bancos Centrales
-tipo: "concepto"
-fecha: 2026-02-25
-tags: [arquitectura, bancos, centrales]
-tier-primario: "b"
-nivel-evidencia: "medio"
 publish: true
+created: 2026-02-25T22:08:57.289-03:00
+modified: 2026-02-27T13:22:00.498-03:00
+tags:
+  - arquitectura
+  - bancos
+  - centrales
+cssclasses: ""
 ---
+
 
 # Arquitectura De Bancos Centrales
 

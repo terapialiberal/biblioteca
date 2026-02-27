@@ -1,12 +1,14 @@
 ---
-titulo: Computación Cuántica Y Multiveros
-tipo: "concepto"
-fecha: 2026-02-25
-tags: [computacin, cuntica, multiveros]
-tier-primario: "b"
-nivel-evidencia: "medio"
 publish: true
+created: 2026-02-25T22:08:54.082-03:00
+modified: 2026-02-27T13:22:21.979-03:00
+tags:
+  - computacin
+  - cuntica
+  - multiveros
+cssclasses: ""
 ---
+
 
 # Computación Cuántica Y Multiveros
 

@@ -1,12 +1,14 @@
 ---
-titulo: Incidente Del U-2
-tipo: evento
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [dwight, guerra, incidente]
 publish: true
+created: 2026-01-29T19:17:18.234-03:00
+modified: 2026-02-27T13:22:54.482-03:00
+tags:
+  - dwight
+  - guerra
+  - incidente
+cssclasses: ""
 ---
+
 # Incidente Del U-2
 
 ## Perfil TL (Resumen Ejecutivo)

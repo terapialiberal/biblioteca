@@ -1,12 +1,15 @@
 ---
-titulo: World Health Organization (WHO)
-tipo: organizacion
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [bill, china, health, world]
 publish: true
+created: 2026-01-29T19:17:44.602-03:00
+modified: 2026-02-27T13:24:10.735-03:00
+tags:
+  - bill
+  - china
+  - health
+  - world
+cssclasses: ""
 ---
+
 ![WHO Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/World_Health_Organization_Logo.svg/220px-World_Health_Organization_Logo.svg.png)
 # World Health Organization (WHO)
 
@@ -33,7 +36,7 @@ publish: true
 - [[Bill Gates]]
 - [[ONU]]
 - [[China]]
-- [[Gavi]] (Alianza de vacunas)
+- [[GAVI]] (Alianza de vacunas)
 
 ## Fuentes
 - "The WHO and the Pandemic Treaty"

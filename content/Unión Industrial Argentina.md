@@ -1,12 +1,15 @@
 ---
-titulo: Unión Industrial Argentina (UIA)
-tipo: organizacion
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [industrial, naciones, proteccionismo, unin]
 publish: true
+created: 2026-01-29T19:17:42.440-03:00
+modified: 2026-02-27T13:06:24.381-03:00
+tags:
+  - industrial
+  - naciones
+  - proteccionismo
+  - unin
+cssclasses: ""
 ---
+
 # Unión Industrial Argentina (UIA)
 
 ## Resumen General

@@ -1,12 +1,13 @@
 ---
-titulo: Alquimia Sexual - La Captura Del Fluido Vital
-tipo: concepto
-fecha: 2026-02-25
-tags: [alquimia, sexual]
-tier-primario: "a"
-nivel-evidencia: "medio"
 publish: true
+created: 2026-02-25T22:08:55.473-03:00
+modified: 2026-02-27T13:21:58.933-03:00
+tags:
+  - alquimia
+  - sexual
+cssclasses: ""
 ---
+
 
 # Alquimia Sexual - La Captura Del Fluido Vital
 

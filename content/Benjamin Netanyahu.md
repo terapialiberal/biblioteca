@@ -1,12 +1,15 @@
 ---
-titulo: Benjamin Netanyahu
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [benjamin, jared, mega, netanyahu]
 publish: true
+created: 2026-01-29T19:17:05.174-03:00
+modified: 2026-02-27T13:07:55.831-03:00
+tags:
+  - benjamin
+  - jared
+  - mega
+  - netanyahu
+cssclasses: ""
 ---
+
 # Benjamin Netanyahu
 
 ## Resumen Ejecutivo

@@ -1,12 +1,14 @@
 ---
-titulo: Colapso De Enron
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [colapso, enron, george]
 publish: true
+created: 2026-01-29T19:17:08.183-03:00
+modified: 2026-02-27T13:06:56.604-03:00
+tags:
+  - colapso
+  - enron
+  - george
+cssclasses: ""
 ---
+
 # Colapso De Enron
 
 > [!INFO] Contexto

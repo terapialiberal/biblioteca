@@ -1,12 +1,15 @@
 ---
-titulo: Insaurralde En El Yate
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [axel, insaurralde, javier, yate]
 publish: true
+created: 2026-01-29T19:17:18.474-03:00
+modified: 2026-02-27T13:22:56.529-03:00
+tags:
+  - axel
+  - insaurralde
+  - javier
+  - yate
+cssclasses: ""
 ---
+
 # Insaurralde En El Yate
 
 ## Perfil TL (Resumen Ejecutivo)

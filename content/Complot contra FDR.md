@@ -1,12 +1,13 @@
 ---
-titulo: Complot contra FDR
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [complot, contra]
 publish: true
+created: 2026-01-29T19:17:08.456-03:00
+modified: 2026-02-27T13:07:44.298-03:00
+tags:
+  - complot
+  - contra
+cssclasses: ""
 ---
+
 # Complot contra FDR
 
 > [!INFO] Contexto

@@ -1,12 +1,15 @@
 ---
-titulo: "Familia Orsini: Los Dueños De Roma"
-tipo: organizacion
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [banco, nobleza, orsini, roma]
 publish: true
+created: 2026-01-29T19:17:13.240-03:00
+modified: 2026-02-27T13:22:42.150-03:00
+tags:
+  - banco
+  - nobleza
+  - orsini
+  - roma
+cssclasses: ""
 ---
+
 # Familia Orsini: Los Dueños De Roma
 
 > [!ABSTRACT] Hipótesis Informativa

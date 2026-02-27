@@ -1,12 +1,15 @@
 ---
-titulo: Brookfield Asset Management
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [asset, blackrock, brookfield, management]
 publish: true
+created: 2026-02-09T17:22:07.953-03:00
+modified: 2026-02-27T13:22:08.214-03:00
+tags:
+  - asset
+  - blackrock
+  - brookfield
+  - management
+cssclasses: ""
 ---
+
 # [[Brookfield Asset Management]]
 
 **Clasificación:** Tier A (Los Dueños Silenciosos)  

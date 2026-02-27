@@ -1,12 +1,14 @@
 ---
-titulo: Jano - La Dualidad De Las Puertas (Protocolo De Transición)
-tipo: "concepto"
-fecha: 2026-02-25
-tags: [dualidad, jano, puertas]
-tier-primario: "a"
-nivel-evidencia: "alto"
 publish: true
+created: 2026-02-25T22:28:58.855-03:00
+modified: 2026-02-27T13:22:59.561-03:00
+tags:
+  - dualidad
+  - jano
+  - puertas
+cssclasses: ""
 ---
+
 
 # Jano - La Dualidad De Las Puertas (Protocolo De Transición)
 

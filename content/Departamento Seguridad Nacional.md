@@ -1,12 +1,15 @@
 ---
-titulo: Departamento De Seguridad Nacional (DHS)
-tipo: organizacion
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [departamento, estado, patriot, seguridad]
 publish: true
+created: 2026-01-29T19:17:10.009-03:00
+modified: 2026-02-27T13:22:29.060-03:00
+tags:
+  - departamento
+  - estado
+  - patriot
+  - seguridad
+cssclasses: ""
 ---
+
 # Departamento De Seguridad Nacional (DHS)
 
 ## Perfil TL (Resumen Ejecutivo)

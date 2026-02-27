@@ -1,12 +1,15 @@
 ---
-titulo: Masacre De Tlatelolco
-tipo: evento
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [guerra, litempo, masacre, tlatelolco]
 publish: true
+created: 2026-01-29T19:17:24.269-03:00
+modified: 2026-02-27T13:23:18.970-03:00
+tags:
+  - guerra
+  - litempo
+  - masacre
+  - tlatelolco
+cssclasses: ""
 ---
+
 # Masacre De Tlatelolco
 
 ## Resumen Ejecutivo

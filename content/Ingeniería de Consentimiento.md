@@ -1,12 +1,13 @@
 ---
-titulo: Ingeniería De Consentimiento
-tipo: "concepto"
-fecha: 2026-02-25
-tags: [consentimiento, ingeniera]
-tier-primario: "b"
-nivel-evidencia: "medio"
 publish: true
+created: 2026-02-25T22:08:52.369-03:00
+modified: 2026-02-27T13:22:55.650-03:00
+tags:
+  - consentimiento
+  - ingeniera
+cssclasses: ""
 ---
+
 
 # Ingeniería De Consentimiento
 

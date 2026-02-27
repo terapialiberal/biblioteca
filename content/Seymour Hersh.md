@@ -10,7 +10,7 @@ publish: true
 # Seymour Hersh (v2.0): El Cirujano De Los Secretos Del Imperio
 
 > [!ABSTRACT] Hipótesis Informativa
-> Seymour Hersh es el **Investigador de [[Tier C]]** más letal para la narrativa oficial de la Matrix angloamericana. Con una carrera de más de 50 años, ha sido el encargado de realizar la **"Autopsia de las Operaciones Negras"** del Estado Profundo, exponiendo desde la masacre de My Lai en Vietnam hasta el sabotaje del gasoducto **[[Sabotaje del Nord Stream|Nord Stream]]** en 2023. Su función real es la de un **"Agente de Transparencia Traumática"**: utiliza sus fuentes profundas dentro de la comunidad de inteligencia de Tier B para revelar que las "guerras por la democracia" son, en realidad, actos de terrorismo de Estado o ingeniería geopolítica destinados a mantener la hegemonía del **[[Tier A]]**.
+> Seymour Hersh es el **Investigador de [[Tier C]]** más letal para la narrativa oficial de la Matrix angloamericana. Con una carrera de más de 50 años, ha sido el encargado de realizar la **"Autopsia de las Operaciones Negras"** del Estado Profundo, exponiendo desde la masacre de My Lai en Vietnam hasta el sabotaje del gasoducto **[[Sabotaje del Nord Stream\|Nord Stream]]** en 2023. Su función real es la de un **"Agente de Transparencia Traumática"**: utiliza sus fuentes profundas dentro de la comunidad de inteligencia de Tier B para revelar que las "guerras por la democracia" son, en realidad, actos de terrorismo de Estado o ingeniería geopolítica destinados a mantener la hegemonía del **[[Tier A]]**.
 
 ## Análisis De Tiers
 

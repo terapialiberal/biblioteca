@@ -1,12 +1,14 @@
 ---
 publish: true
-titulo: Cada De Beyond Meat
-tipo: evento
-fecha: 2026-02-25
-tier-primario: b
-nivel-evidencia: medio
-tags: [beyond, carne, meat]
+created: 2026-01-29T19:17:06.957-03:00
+modified: 2026-02-27T13:06:20.413-03:00
+tags:
+  - beyond
+  - carne
+  - meat
+cssclasses: ""
 ---
+
 # Cada De Beyond Meat
 
 ## Resumen General

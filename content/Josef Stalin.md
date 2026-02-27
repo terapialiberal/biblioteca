@@ -1,12 +1,15 @@
 ---
-titulo: Josef Stalin
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [conferencia, holodomor, josef, stalin]
 publish: true
+created: 2026-01-29T19:17:20.190-03:00
+modified: 2026-02-27T13:06:45.070-03:00
+tags:
+  - conferencia
+  - holodomor
+  - josef
+  - stalin
+cssclasses: ""
 ---
+
 # Josef Stalin
 
 ## Perfil TL (Resumen Ejecutivo)

@@ -10,7 +10,7 @@ publish: true
 # Robert Maxwell (v2.0): El Nexo De La Inteligencia Triple Y El Control De Los Medios
 
 > [!ABSTRACT] Hipótesis Informativa
-> Robert Maxwell fue el **Operador Sistémico de [[Tier A]]** que personificó la fusión total entre el poder de los medios de comunicación y las agencias de inteligencia transnacionales. Agente confirmado de **[[Mossad]]**, **[[MI6]]** y **[[KGB]]**, Maxwell utilizó su imperio editorial para manipular la opinión pública y facilitar operaciones de espionaje global, notablemente mediante la distribución de software con puertas traseras (**[[PROMIS Software|PROMIS]]**). Como padre de **[[Ghislaine Maxwell]]**, su legado de servicios a la inteligencia se extendió a la red de **[[Jeffrey Epstein]]**, demostrando que la Matrix utiliza dinastías de operativos para garantizar la continuidad del control social y la vigilancia biopolítica a través de las décadas.
+> Robert Maxwell fue el **Operador Sistémico de [[Tier A]]** que personificó la fusión total entre el poder de los medios de comunicación y las agencias de inteligencia transnacionales. Agente confirmado de **[[Mossad]]**, **[[MI6]]** y **[[KGB]]**, Maxwell utilizó su imperio editorial para manipular la opinión pública y facilitar operaciones de espionaje global, notablemente mediante la distribución de software con puertas traseras (**[[PROMIS Software\|PROMIS]]**). Como padre de **[[Ghislaine Maxwell]]**, su legado de servicios a la inteligencia se extendió a la red de **[[Jeffrey Epstein]]**, demostrando que la Matrix utiliza dinastías de operativos para garantizar la continuidad del control social y la vigilancia biopolítica a través de las décadas.
 
 ## Análisis De Tiers
 

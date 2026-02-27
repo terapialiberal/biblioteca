@@ -1,12 +1,15 @@
 ---
-titulo: "BRICS: La Alternativa Geopolítica Al Orden Occidental"
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [banco, brics, geopoltica, occidental]
 publish: true
+created: 2026-01-29T19:17:05.873-03:00
+modified: 2026-02-27T13:22:07.305-03:00
+tags:
+  - banco
+  - brics
+  - geopoltica
+  - occidental
+cssclasses: ""
 ---
+
 # BRICS: La Alternativa Geopolítica Al Orden Occidental
 
 > [!ABSTRACT] Hipótesis Informativa

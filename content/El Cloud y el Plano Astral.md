@@ -1,12 +1,14 @@
 ---
-titulo: El Cloud Y El Plano Astral
-tipo: "concepto"
-fecha: 2026-02-25
-tags: [astral, cloud, plano]
-tier-primario: "b"
-nivel-evidencia: "medio"
 publish: true
+created: 2026-02-25T22:08:54.155-03:00
+modified: 2026-02-27T13:22:33.988-03:00
+tags:
+  - astral
+  - cloud
+  - plano
+cssclasses: ""
 ---
+
 
 # El Cloud Y El Plano Astral
 

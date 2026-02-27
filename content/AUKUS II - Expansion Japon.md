@@ -1,12 +1,15 @@
 ---
-titulo: "AUKUS II: El Pilar Digital Y La Integración De Japón"
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [anduril, aukus, digital, pilar]
 publish: true
+created: 2026-02-09T17:24:48.793-03:00
+modified: 2026-02-27T13:22:02.376-03:00
+tags:
+  - anduril
+  - aukus
+  - digital
+  - pilar
+cssclasses: ""
 ---
+
 # AUKUS II: El Pilar Digital Y La Integración De Japón
 
 > [!ABSTRACT] BLUF (Bottom Line Up Front)

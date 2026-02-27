@@ -1,12 +1,13 @@
 ---
-titulo: Martinismo Y Revolución
-tipo: "concepto"
-fecha: 2026-02-25
-tags: [martinismo, revolucin]
-tier-primario: "b"
-nivel-evidencia: "medio"
 publish: true
+created: 2026-02-25T22:08:53.724-03:00
+modified: 2026-02-27T13:23:18.955-03:00
+tags:
+  - martinismo
+  - revolucin
+cssclasses: ""
 ---
+
 
 # Martinismo Y Revolución
 

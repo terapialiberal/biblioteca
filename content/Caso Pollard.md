@@ -1,12 +1,15 @@
 ---
-titulo: Caso Pollard (Espionaje Para Israel)
-tipo: evento
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [caso, espionaje, israel, mega]
 publish: true
+created: 2026-01-29T19:17:06.839-03:00
+modified: 2026-02-27T13:06:21.004-03:00
+tags:
+  - caso
+  - espionaje
+  - israel
+  - mega
+cssclasses: ""
 ---
+
 # Caso Pollard (Espionaje Para Israel)
 
 ## Perfil TL (Resumen Ejecutivo)

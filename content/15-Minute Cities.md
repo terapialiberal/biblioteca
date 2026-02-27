@@ -1,12 +1,15 @@
 ---
-titulo: 15-MINUTE CITIES (v12_1)
-tipo: persona
-fecha: 2026-02-25
-tier-primario: a
-nivel-evidencia: medio
-tags: [archipilago, oxford, urbana, vigilancia]
 publish: true
+created: 2026-02-25T14:13:31.339-03:00
+modified: 2026-02-27T13:21:56.751-03:00
+tags:
+  - archipilago
+  - oxford
+  - urbana
+  - vigilancia
+cssclasses: ""
 ---
+
 # 15-MINUTE CITIES (v12_1)
 
 #### BLUF

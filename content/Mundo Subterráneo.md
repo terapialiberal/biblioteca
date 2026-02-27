@@ -1,12 +1,13 @@
 ---
-titulo: Mundo Subterráneo (Agartha)
-tipo: persona
-fecha: 2026-02-25
-tags: [mundo, subterrneo]
-tier-primario: "a"
-nivel-evidencia: "bajo"
 publish: true
+created: 2026-02-25T22:08:53.431-03:00
+modified: 2026-02-27T13:23:26.185-03:00
+tags:
+  - mundo
+  - subterrneo
+cssclasses: ""
 ---
+
 
 # Mundo Subterráneo (Agartha)
 

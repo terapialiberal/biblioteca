@@ -31,7 +31,7 @@ publish: true
 - [[Max Weber]]: El autor original del concepto.
 - [[De-banking]]: La nueva pena de muerte social.
 - [[Academi]] / [[Grupo Wagner]]: La privatización de la guerra.
-- [[Estado Profundo]]: Quien dirige realmente el monopolio.
+- [[Estado profundo]]: Quien dirige realmente el monopolio.
 - [[Anarcocapitalismo]]: La ideología que desafía la legitimidad de este monopolio.
 
 ## Conclusión Del Análisis

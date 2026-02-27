@@ -1,12 +1,15 @@
 ---
-titulo: Domingo Cavallo
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [carlos, cavallo, domingo, fernando]
 publish: true
+created: 2026-01-29T19:17:10.491-03:00
+modified: 2026-02-27T13:06:26.999-03:00
+tags:
+  - carlos
+  - cavallo
+  - domingo
+  - fernando
+cssclasses: ""
 ---
+
 # Domingo Cavallo
 
 > [!INFO] Perfil Operativo (Tier B)

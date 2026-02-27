@@ -1,12 +1,14 @@
 ---
-titulo: Líneas Ley (Meridianos Del Globo)
-tipo: "concepto"
-fecha: 2026-02-25
-tags: [giza, lneas, meridianos]
-tier-primario: "a"
-nivel-evidencia: "medio"
 publish: true
+created: 2026-02-25T22:08:52.136-03:00
+modified: 2026-02-27T13:23:14.101-03:00
+tags:
+  - giza
+  - lneas
+  - meridianos
+cssclasses: ""
 ---
+
 
 # Líneas Ley (Meridianos Del Globo)
 

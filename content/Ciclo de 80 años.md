@@ -1,12 +1,13 @@
 ---
-titulo: Ciclo De 80 Años (The Turning)
-tipo: "concepto"
-fecha: 2026-02-25
-tags: [aos, ciclo]
-tier-primario: "b"
-nivel-evidencia: "medio"
 publish: true
+created: 2026-02-25T22:08:51.665-03:00
+modified: 2026-02-27T13:22:19.442-03:00
+tags:
+  - aos
+  - ciclo
+cssclasses: ""
 ---
+
 
 # Ciclo De 80 Años (The Turning)
 

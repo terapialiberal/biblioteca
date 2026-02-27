@@ -1,12 +1,15 @@
 ---
-titulo: El Hundimiento Del Estonia
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [encubrimiento, estonia, hundimiento, operaciones]
 publish: true
+created: 2026-01-29T19:17:11.401-03:00
+modified: 2026-02-27T13:07:03.395-03:00
+tags:
+  - encubrimiento
+  - estonia
+  - hundimiento
+  - operaciones
+cssclasses: ""
 ---
+
 # El Hundimiento Del Estonia
 
 ## Perfil TL (Resumen Ejecutivo)

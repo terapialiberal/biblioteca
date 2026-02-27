@@ -1,12 +1,14 @@
 ---
-titulo: Mito Del Progreso Lineal
-tipo: "concepto"
-fecha: 2026-02-25
-tags: [lineal, mito, progreso]
-tier-primario: "a"
-nivel-evidencia: "alto"
 publish: true
+created: 2026-02-25T22:08:56.896-03:00
+modified: 2026-02-27T13:23:23.653-03:00
+tags:
+  - lineal
+  - mito
+  - progreso
+cssclasses: ""
 ---
+
 
 # Mito Del Progreso Lineal
 

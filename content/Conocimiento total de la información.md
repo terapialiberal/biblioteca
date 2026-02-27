@@ -1,12 +1,15 @@
 ---
-titulo: Conocimiento Total De La Información
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [conocimiento, informacin, palantir, total]
 publish: true
+created: 2026-01-29T19:17:08.640-03:00
+modified: 2026-02-27T13:06:40.200-03:00
+tags:
+  - conocimiento
+  - informacin
+  - palantir
+  - total
+cssclasses: ""
 ---
+
 # Conocimiento Total De La Información
 ![](https://wikispooks.com/w/images/thumb/c/cb/Poindexter_TIA.webp/850px-Poindexter_TIA.webp.png)
 

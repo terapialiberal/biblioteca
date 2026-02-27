@@ -1,12 +1,15 @@
 ---
-titulo: Resumen General
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [dancing, mossad, systems, urban]
 publish: true
+created: 2026-01-29T19:17:42.502-03:00
+modified: 2026-02-27T13:06:54.892-03:00
+tags:
+  - dancing
+  - mossad
+  - systems
+  - urban
+cssclasses: ""
 ---
+
 # Resumen General
 Urban Moving Systems era la empresa de mudanzas "pantalla" en Weehawken, New Jersey, donde trabajaban los "Dancing Israelis" (los 5 israelíes arrestados celebrando y filmando las Torres Gemelas el 11-S). El dueño, Dominik Suter, huyó a Israel precipitadamente días después, abandonando todo, tras set interrogado por el FBI.
 

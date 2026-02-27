@@ -1,12 +1,13 @@
 ---
-titulo: Vesica Piscis
-tipo: persona
-fecha: 2026-02-25
-tags: [piscis, vesica]
-tier-primario: "b"
-nivel-evidencia: "medio"
 publish: true
+created: 2026-02-25T22:08:57.099-03:00
+modified: 2026-02-27T13:24:07.752-03:00
+tags:
+  - piscis
+  - vesica
+cssclasses: ""
 ---
+
 
 # Vesica Piscis
 

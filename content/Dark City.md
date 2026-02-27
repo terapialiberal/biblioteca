@@ -1,12 +1,15 @@
 ---
-titulo: Dark City (La Ciudad Del Reset Perpetuo)
-tipo: persona
-fecha: 2026-02-25
-tags: [city, dark, solve, tartaria]
-tier-primario: "a"
-nivel-evidencia: "alto"
 publish: true
+created: 2026-02-25T22:32:31.539-03:00
+modified: 2026-02-27T13:22:26.934-03:00
+tags:
+  - city
+  - dark
+  - solve
+  - tartaria
+cssclasses: ""
 ---
+
 
 # Dark City (La Ciudad Del Reset Perpetuo)
 

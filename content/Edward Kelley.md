@@ -1,12 +1,13 @@
 ---
-titulo: Edward Kelley
-tipo: persona
-fecha: 2026-02-25
-tags: [edward, kelley]
-tier-primario: "b"
-nivel-evidencia: "medio"
 publish: true
+created: 2026-02-25T22:08:54.826-03:00
+modified: 2026-02-27T13:22:32.479-03:00
+tags:
+  - edward
+  - kelley
+cssclasses: ""
 ---
+
 
 # Edward Kelley
 

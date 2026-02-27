@@ -1,12 +1,15 @@
 ---
-titulo: Poder Marítimo (Alfred Thayer Mahan)
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [mahan, martimo, poder, thayer]
 publish: true
+created: 2026-01-29T19:17:30.979-03:00
+modified: 2026-02-27T13:07:10.616-03:00
+tags:
+  - mahan
+  - martimo
+  - poder
+  - thayer
+cssclasses: ""
 ---
+
 # Poder Marítimo (Alfred Thayer Mahan)
 
 ## Resumen Ejecutivo

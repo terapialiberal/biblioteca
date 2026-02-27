@@ -1,12 +1,13 @@
 ---
-titulo: xAI
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [elon, openai]
 publish: true
+created: 2026-01-29T19:17:44.669-03:00
+modified: 2026-02-27T13:24:12.050-03:00
+tags:
+  - elon
+  - openai
+cssclasses: ""
 ---
+
 # xAI
 
 > [!ABSTRACT] Ficha Técnica

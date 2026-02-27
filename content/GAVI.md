@@ -1,12 +1,15 @@
 ---
-titulo: GAVI (THE VACCINE ALLIANCE) (v12_1)
-tipo: organizacion
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "alto"
-tags: [alianza, bill, gavi, logstica]
 publish: true
+created: 2026-02-25T15:49:09.103-03:00
+modified: 2026-02-27T13:22:45.570-03:00
+tags:
+  - alianza
+  - bill
+  - gavi
+  - logstica
+cssclasses: ""
 ---
+
 # GAVI (THE VACCINE ALLIANCE) (v12_1)
 
 #### BLUF

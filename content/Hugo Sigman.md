@@ -1,12 +1,15 @@
 ---
-titulo: Hugo Sigman (Grupo Insud)
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [astrazeneca, gins, hugo, sigman]
 publish: true
+created: 2026-01-29T19:17:17.640-03:00
+modified: 2026-02-27T13:06:23.779-03:00
+tags:
+  - astrazeneca
+  - gins
+  - hugo
+  - sigman
+cssclasses: ""
 ---
+
 # Hugo Sigman (Grupo Insud)
 
 ## Perfil TL (Resumen Ejecutivo)

@@ -1,12 +1,15 @@
 ---
-titulo: El Domo Y El Obelisco (Dualidad De Poder)
-tipo: "concepto"
-fecha: 2026-02-25
-tags: [city, domo, obelisco, vaticano]
-tier-primario: "a"
-nivel-evidencia: "total"
 publish: true
+created: 2026-02-25T22:08:52.013-03:00
+modified: 2026-02-27T13:22:34.611-03:00
+tags:
+  - city
+  - domo
+  - obelisco
+  - vaticano
+cssclasses: ""
 ---
+
 
 # El Domo Y El Obelisco (Dualidad De Poder)
 

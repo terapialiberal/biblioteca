@@ -1,12 +1,14 @@
 ---
-titulo: Bombardeo De Dresden
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [bombardeo, dresden, segunda]
 publish: true
+created: 2026-01-29T19:17:05.737-03:00
+modified: 2026-02-27T13:22:07.188-03:00
+tags:
+  - bombardeo
+  - dresden
+  - segunda
+cssclasses: ""
 ---
+
 # Bombardeo De Dresden
 
 > [!INFO] Contexto

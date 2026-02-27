@@ -1,12 +1,15 @@
 ---
-titulo: Defense Intelligence Agency (DIA)
-tipo: organizacion
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [agency, defense, departamento, intelligence]
 publish: true
+created: 2026-01-29T19:17:09.959-03:00
+modified: 2026-02-27T13:22:28.223-03:00
+tags:
+  - agency
+  - defense
+  - departamento
+  - intelligence
+cssclasses: ""
 ---
+
 # Defense Intelligence Agency (DIA)
 
 ## Perfil TL (Resumen Ejecutivo)

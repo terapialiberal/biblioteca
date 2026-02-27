@@ -1,12 +1,15 @@
 ---
-titulo: CHATHAM HOUSE (THE ROYAL INSTITUTE OF INTERNATIONAL AFFAIRS) (v12_1)
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "alto"
-tags: [americano, arquitecto, baroness, house]
 publish: true
+created: 2026-01-29T19:17:07.427-03:00
+modified: 2026-02-27T13:07:37.292-03:00
+tags:
+  - americano
+  - arquitecto
+  - baroness
+  - house
+cssclasses: ""
 ---
+
 # CHATHAM HOUSE (THE ROYAL INSTITUTE OF INTERNATIONAL AFFAIRS) (v12_1)
 
 #### BLUF

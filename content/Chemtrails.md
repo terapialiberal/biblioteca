@@ -1,12 +1,15 @@
 ---
-titulo: Chemtrails (Geoingeniería)
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [chemtrails, geoingeniera, haarp, monsanto]
 publish: true
+created: 2026-01-29T19:17:07.456-03:00
+modified: 2026-02-27T13:22:18.640-03:00
+tags:
+  - chemtrails
+  - geoingeniera
+  - haarp
+  - monsanto
+cssclasses: ""
 ---
+
 # Chemtrails (Geoingeniería)
 
 ## Perfil TL (Resumen Ejecutivo)

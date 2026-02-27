@@ -1,12 +1,15 @@
 ---
-titulo: "Corredor IMEC: La Pinza De Occidente Sobre El Rimland"
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [adebayo, imec, pinza, rimland]
 publish: true
+created: 2026-02-25T13:58:42.462-03:00
+modified: 2026-02-27T13:22:23.812-03:00
+tags:
+  - adebayo
+  - imec
+  - pinza
+  - rimland
+cssclasses: ""
 ---
+
 # Corredor IMEC: La Pinza De Occidente Sobre El Rimland
 
 > [!ABSTRACT] BLUF (Bottom Line Up Front)

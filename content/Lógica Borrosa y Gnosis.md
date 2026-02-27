@@ -1,12 +1,14 @@
 ---
-titulo: Lógica Borrosa Y Gnosis
-tipo: "concepto"
-fecha: 2026-02-25
-tags: [borrosa, gnosis, lgica]
-tier-primario: "b"
-nivel-evidencia: "medio"
 publish: true
+created: 2026-02-25T22:08:56.638-03:00
+modified: 2026-02-27T13:23:15.386-03:00
+tags:
+  - borrosa
+  - gnosis
+  - lgica
+cssclasses: ""
 ---
+
 
 # Lógica Borrosa Y Gnosis
 

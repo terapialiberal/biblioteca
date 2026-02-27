@@ -1,12 +1,15 @@
 ---
-titulo: MANUFACTURE OF CONSENT 2.0 (v12_1)
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "alto"
-tags: [consent, newsguard, poynter, verdad]
 publish: true
+created: 2026-02-25T16:09:26.306-03:00
+modified: 2026-02-27T13:23:18.109-03:00
+tags:
+  - consent
+  - newsguard
+  - poynter
+  - verdad
+cssclasses: ""
 ---
+
 # MANUFACTURE OF CONSENT 2.0 (v12_1)
 
 #### BLUF

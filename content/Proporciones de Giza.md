@@ -1,12 +1,15 @@
 ---
-titulo: Proporciones De Giza (Ingeniería De La Antigüedad)
-tipo: concepto
-fecha: 2026-02-25
-tags: [giza, nikola, proporciones, velocidad]
-tier-primario: "a"
-nivel-evidencia: "medio"
 publish: true
+created: 2026-02-25T22:08:54.380-03:00
+modified: 2026-02-27T13:23:45.095-03:00
+tags:
+  - giza
+  - nikola
+  - proporciones
+  - velocidad
+cssclasses: ""
 ---
+
 
 # Proporciones De Giza (Ingeniería De La Antigüedad)
 

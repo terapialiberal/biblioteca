@@ -1,12 +1,15 @@
 ---
-titulo: Ataque Del 7 De Octubre
-tipo: evento
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [ataque, benjamin, mossad, octubre]
 publish: true
+created: 2026-01-29T19:17:04.341-03:00
+modified: 2026-02-27T13:22:01.810-03:00
+tags:
+  - ataque
+  - benjamin
+  - mossad
+  - octubre
+cssclasses: ""
 ---
+
 # Ataque Del 7 De Octubre
 
 > [!INFO] Contexto

@@ -1,12 +1,15 @@
 ---
-titulo: CISA (Cybersecurity and Infrastructure Security Agency)
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [agency, cisa, cybersecurity, infrastructure]
 publish: true
+created: 2026-01-29T19:17:07.755-03:00
+modified: 2026-02-27T13:22:19.543-03:00
+tags:
+  - agency
+  - cisa
+  - cybersecurity
+  - infrastructure
+cssclasses: ""
 ---
+
 # CISA (Cybersecurity and Infrastructure Security Agency)
 
 > **Perfil TL:** Censura como infraestructura crítica.

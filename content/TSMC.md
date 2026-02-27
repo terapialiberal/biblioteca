@@ -34,7 +34,7 @@ publish: true
 * **Japn**: Revive su industria de chips va la planta de Kumamoto (JASM).
 
 ## ?? Conexiones Crticas
-- [[ASML High-NA EUV]]: El nico proveedor que puede hacer funcionar las plantas de TSMC.
+- [[99_AI/Legacy/ASML High-NA EUV]]: El nico proveedor que puede hacer funcionar las plantas de TSMC.
 - [[Microsoft Stargate]]: El cliente final de los chips de TSMC.
 - [[AUKUS II - Expansion Japon]]: El marco de seguridad que escolta la expansin tecnolgica.
 

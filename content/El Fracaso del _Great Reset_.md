@@ -1,12 +1,15 @@
 ---
-titulo: "El Fracaso Del Branding 'The Great Reset'"
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [branding, effective, fracaso, klaus]
 publish: true
+created: 2026-01-29T19:17:11.335-03:00
+modified: 2026-02-27T13:06:51.525-03:00
+tags:
+  - branding
+  - effective
+  - fracaso
+  - klaus
+cssclasses: ""
 ---
+
 # El Fracaso Del Branding 'The Great Reset'
 
 ## Perfil TL (Resumen Ejecutivo)

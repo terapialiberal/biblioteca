@@ -1,12 +1,15 @@
 ---
-titulo: Margaret Sanger
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [john, margaret, planned, sanger]
 publish: true
+created: 2026-01-29T19:17:23.860-03:00
+modified: 2026-02-27T13:07:24.584-03:00
+tags:
+  - john
+  - margaret
+  - planned
+  - sanger
+cssclasses: ""
 ---
+
 # Margaret Sanger
 
 ## Resumen Ejecutivo

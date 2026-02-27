@@ -1,12 +1,15 @@
 ---
-titulo: "Pegasus Spyware (NSO Group) (v2.0): La Diplomacia De La Infección"
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [pegasus, project, spyware, unit]
 publish: true
+created: 2026-01-29T19:17:30.190-03:00
+modified: 2026-02-27T13:23:39.478-03:00
+tags:
+  - pegasus
+  - project
+  - spyware
+  - unit
+cssclasses: ""
 ---
+
 # Pegasus Spyware (NSO Group) (v2.0): La Diplomacia De La Infección
 
 > [!ABSTRACT] Hipótesis Informativa

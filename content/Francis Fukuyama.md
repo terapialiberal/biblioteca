@@ -1,12 +1,15 @@
 ---
-titulo: Francis Fukuyama
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [consenso, francis, fukuyama, neoconservadurismo]
 publish: true
+created: 2026-01-29T19:17:14.057-03:00
+modified: 2026-02-27T13:22:44.952-03:00
+tags:
+  - consenso
+  - francis
+  - fukuyama
+  - neoconservadurismo
+cssclasses: ""
 ---
+
 # Francis Fukuyama
 
 ## Perfil TL (Resumen Ejecutivo)

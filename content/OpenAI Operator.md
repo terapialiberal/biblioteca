@@ -1,12 +1,15 @@
 ---
-titulo: OPENAI OPERATOR (v12_1)
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [apple, microsoft, openai, operator]
 publish: true
+created: 2026-02-25T14:51:36.180-03:00
+modified: 2026-02-27T13:23:33.423-03:00
+tags:
+  - apple
+  - microsoft
+  - openai
+  - operator
+cssclasses: ""
 ---
+
 # OPENAI OPERATOR (v12_1)
 
 #### BLUF

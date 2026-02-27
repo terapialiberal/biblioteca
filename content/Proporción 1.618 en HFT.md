@@ -1,12 +1,12 @@
 ---
-titulo: Proporción 1.618 En HFT
-tipo: "concepto"
-fecha: 2026-02-25
-tags: [proporcin]
-tier-primario: "b"
-nivel-evidencia: "medio"
 publish: true
+created: 2026-02-25T22:08:54.907-03:00
+modified: 2026-02-27T13:23:45.070-03:00
+tags:
+  - proporcin
+cssclasses: ""
 ---
+
 
 # Proporción 1.618 En HFT
 

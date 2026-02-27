@@ -1,12 +1,15 @@
 ---
-titulo: DARPA (Defense Advanced Research Projects Agency)
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [darpa, internet, projects, research]
 publish: true
+created: 2026-01-29T19:17:09.708-03:00
+modified: 2026-02-27T13:07:19.631-03:00
+tags:
+  - darpa
+  - internet
+  - projects
+  - research
+cssclasses: ""
 ---
+
 # DARPA (Defense Advanced Research Projects Agency)
 
 ## Perfil TL (Resumen Ejecutivo)

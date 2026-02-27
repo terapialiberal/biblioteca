@@ -1,12 +1,14 @@
 ---
-titulo: Complejo Industrial De La Censura
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [censura, complejo, industrial]
 publish: true
+created: 2026-01-29T19:17:08.439-03:00
+modified: 2026-02-27T13:07:17.768-03:00
+tags:
+  - censura
+  - complejo
+  - industrial
+cssclasses: ""
 ---
+
 # Complejo Industrial De La Censura
 
 > **Resumen:** La red de ONGs/Gov que terceriza la censura (CTIL Files).

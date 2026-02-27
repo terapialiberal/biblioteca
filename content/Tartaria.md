@@ -1,12 +1,14 @@
 ---
-titulo: Resumen General
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [mudflood, nicola, tartaria]
 publish: true
+created: 2026-01-29T19:17:38.397-03:00
+modified: 2026-02-27T13:07:52.979-03:00
+tags:
+  - mudflood
+  - nicola
+  - tartaria
+cssclasses: ""
 ---
+
 # Resumen General
 Una teoría viral de historia alternativa que sostiene que existió una civilización global avanzada ("Tartaria") hasta mediados del siglo XIX, la cual fue destruida por un "Diluvio de Barro" (Mudflood) y borrada de los libros de historia. Edificios majestuosos (Capitolios, Catedrales) serían remanentes tecnológicos de esta era, no construcciones victorianas.
 

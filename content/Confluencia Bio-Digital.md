@@ -1,12 +1,13 @@
 ---
-titulo: Confluencia Bio-Digital
-tipo: concepto
-fecha: 2026-02-25
-tags: [confluencia, digital]
-tier-primario: "a"
-nivel-evidencia: "alto"
 publish: true
+created: 2026-02-25T22:40:57.773-03:00
+modified: 2026-02-27T13:22:22.789-03:00
+tags:
+  - confluencia
+  - digital
+cssclasses: ""
 ---
+
 
 # Confluencia Bio-Digital
 

@@ -1,12 +1,15 @@
 ---
-titulo: Mercados De Futuros — La Apuesta Por La Escasez
-tipo: "concepto"
-fecha: 2026-02-25
-tags: [apuesta, blackrock, escasez, futuros]
-tier-primario: "a"
-nivel-evidencia: "alto"
 publish: true
+created: 2026-02-25T22:49:10.985-03:00
+modified: 2026-02-27T13:23:21.476-03:00
+tags:
+  - apuesta
+  - blackrock
+  - escasez
+  - futuros
+cssclasses: ""
 ---
+
 
 # Mercados De Futuros — La Apuesta Por La Escasez
 

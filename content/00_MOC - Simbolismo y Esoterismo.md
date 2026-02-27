@@ -1,12 +1,15 @@
 ---
 publish: true
-titulo: 🛰️ 00_MOC — Simbolismo Y Esoterismo (v12_0)
-tipo: concepto
-fecha: 2026-02-25
-tags: [00-moc, esoterismo, fraternidad, masonera]
-tier-primario: "a"
-nivel-evidencia: "alto"
+created: 2026-02-25T22:08:08.998-03:00
+modified: 2026-02-27T13:21:56.218-03:00
+tags:
+  - 00-moc
+  - esoterismo
+  - fraternidad
+  - masonera
+cssclasses: ""
 ---
+
 
 # 🛰️ 00_MOC — Simbolismo Y Esoterismo (v12_0)
 

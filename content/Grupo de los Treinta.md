@@ -1,12 +1,15 @@
 ---
-titulo: Grupo De Los Treinta (G-30)
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [cbdc, grupo, reserva, treinta]
 publish: true
+created: 2026-01-29T19:17:16.080-03:00
+modified: 2026-02-27T13:07:03.346-03:00
+tags:
+  - cbdc
+  - grupo
+  - reserva
+  - treinta
+cssclasses: ""
 ---
+
 # Grupo De Los Treinta (G-30)
 
 ## Perfil TL (Resumen Ejecutivo)

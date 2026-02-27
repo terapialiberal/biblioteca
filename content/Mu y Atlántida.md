@@ -1,12 +1,12 @@
 ---
-titulo: Mu Y Atlántida (Iteraciones Del Sistema V1.0 Y v2.0)
-tipo: concepto
-fecha: 2026-02-25
-tags: [atlntida]
-tier-primario: "a"
-nivel-evidencia: "medio"
 publish: true
+created: 2026-02-25T22:08:53.473-03:00
+modified: 2026-02-27T13:23:25.391-03:00
+tags:
+  - atlntida
+cssclasses: ""
 ---
+
 
 # Mu Y Atlántida (Iteraciones Del Sistema V1.0 Y v2.0)
 

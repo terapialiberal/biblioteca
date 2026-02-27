@@ -1,12 +1,14 @@
 ---
-titulo: Gazprom
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [gazprom, nord, vladimir]
 publish: true
+created: 2026-01-29T19:17:14.848-03:00
+modified: 2026-02-27T13:07:01.455-03:00
+tags:
+  - gazprom
+  - nord
+  - vladimir
+cssclasses: ""
 ---
+
 # Gazprom
 
 ## Perfil TL (Resumen Ejecutivo)

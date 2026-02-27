@@ -1,12 +1,15 @@
 ---
-titulo: Estrecho De Malaca
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [aquiles, belt, estrecho, taln]
 publish: true
+created: 2026-01-29T19:17:12.508-03:00
+modified: 2026-02-27T13:06:38.221-03:00
+tags:
+  - aquiles
+  - belt
+  - estrecho
+  - taln
+cssclasses: ""
 ---
+
 # Estrecho De Malaca
 
 ## Perfil TL (Resumen Ejecutivo)

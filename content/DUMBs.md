@@ -1,12 +1,14 @@
 ---
-titulo: Resumen General
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [aeropuerto, area, dumbs]
 publish: true
+created: 2026-01-29T19:17:10.627-03:00
+modified: 2026-02-27T13:06:24.290-03:00
+tags:
+  - aeropuerto
+  - area
+  - dumbs
+cssclasses: ""
 ---
+
 # Resumen General
 Bases Militares Subterráneas Profundas. Ciudades enteras construidas kilómetros bajo tierra, conectadas por trenes de levitación magnética de alta velocidad. Oficialmente existen búnkers (Cheyenne Mountain, Mount Weather), pero la teoría DUMB sostiene que hay una red masiva secreta para la élite en caso de cataclismo global.
 

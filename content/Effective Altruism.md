@@ -1,12 +1,15 @@
 ---
-titulo: Effective Altruism (Altruismo Efectivo)
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [altruismo, efectivo, effective, openai]
 publish: true
+created: 2026-01-29T19:17:11.125-03:00
+modified: 2026-02-27T13:22:33.064-03:00
+tags:
+  - altruismo
+  - efectivo
+  - effective
+  - openai
+cssclasses: ""
 ---
+
 # Effective Altruism (Altruismo Efectivo)
 
 ## Perfil TL (Resumen Ejecutivo)

@@ -1,12 +1,13 @@
 ---
-titulo: Calendario De 13 Lunas
-tipo: "concepto"
-fecha: 2026-02-25
-tags: [calendario, lunas]
-tier-primario: "b"
-nivel-evidencia: "medio"
 publish: true
+created: 2026-02-25T22:08:32.956-03:00
+modified: 2026-02-27T13:22:12.597-03:00
+tags:
+  - calendario
+  - lunas
+cssclasses: ""
 ---
+
 
 # Calendario De 13 Lunas
 

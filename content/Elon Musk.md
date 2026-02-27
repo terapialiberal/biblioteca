@@ -1,12 +1,15 @@
 ---
-titulo: Elon Musk - El Contratista de Estado
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [contratista, elon, estado, starlink]
 publish: true
+created: 2026-01-29T19:17:11.761-03:00
+modified: 2026-02-27T13:22:37.957-03:00
+tags:
+  - contratista
+  - elon
+  - estado
+  - starlink
+cssclasses: ""
 ---
+
 # [[Elon Musk - El Contratista de Estado]]
 
 **Clasificación:** Tier B (Conector Operativo / Infraestructura Dual)  

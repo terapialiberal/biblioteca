@@ -1,12 +1,15 @@
 ---
-titulo: Aldous Huxley
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [aldous, huxley, julian, unesco]
 publish: true
+created: 2026-01-29T19:17:03.179-03:00
+modified: 2026-02-27T13:07:35.453-03:00
+tags:
+  - aldous
+  - huxley
+  - julian
+  - unesco
+cssclasses: ""
 ---
+
 # Aldous Huxley
 
 ## Perfil TL (Resumen Ejecutivo)

@@ -1,12 +1,15 @@
 ---
-titulo: Glifosato (Roundup)
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [glifosato, microbioma, monsanto, roundup]
 publish: true
+created: 2026-01-29T19:17:15.487-03:00
+modified: 2026-02-27T13:22:47.884-03:00
+tags:
+  - glifosato
+  - microbioma
+  - monsanto
+  - roundup
+cssclasses: ""
 ---
+
 # Glifosato (Roundup)
 
 ## Perfil TL (Resumen Ejecutivo)

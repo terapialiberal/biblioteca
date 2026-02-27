@@ -1,12 +1,15 @@
 ---
-titulo: "Leo Strauss: El Arquitecto De La Mentira Noble"
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [mentira, neoconservadores, noble, strauss]
 publish: true
+created: 2026-01-29T19:17:22.223-03:00
+modified: 2026-02-27T13:23:12.573-03:00
+tags:
+  - mentira
+  - neoconservadores
+  - noble
+  - strauss
+cssclasses: ""
 ---
+
 # Leo Strauss: El Arquitecto De La Mentira Noble
 
 > [!ABSTRACT] Resumen de Inteligencia

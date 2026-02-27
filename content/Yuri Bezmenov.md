@@ -1,12 +1,15 @@
 ---
-titulo: Yuri Bezmenov
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [bezmenov, escuela, naciones, yuri]
 publish: true
+created: 2026-01-29T19:17:44.953-03:00
+modified: 2026-02-27T13:06:37.743-03:00
+tags:
+  - bezmenov
+  - escuela
+  - naciones
+  - yuri
+cssclasses: ""
 ---
+
 # Yuri Bezmenov
 
 ## Resumen General

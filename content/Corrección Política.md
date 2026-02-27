@@ -1,12 +1,15 @@
 ---
-titulo: Corrección Política
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [correccin, frankfurt, george, poltica]
 publish: true
+created: 2026-01-29T19:17:08.828-03:00
+modified: 2026-02-27T13:06:35.226-03:00
+tags:
+  - correccin
+  - frankfurt
+  - george
+  - poltica
+cssclasses: ""
 ---
+
 # Corrección Política
 
 ## Resumen Ejecutivo

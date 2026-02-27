@@ -1,12 +1,14 @@
 ---
-titulo: Silicio Y Memoria De Cristal
-tipo: "concepto"
-fecha: 2026-02-25
-tags: [cristal, memoria, silicio]
-tier-primario: "b"
-nivel-evidencia: "medio"
 publish: true
+created: 2026-02-25T22:08:55.787-03:00
+modified: 2026-02-27T13:23:55.358-03:00
+tags:
+  - cristal
+  - memoria
+  - silicio
+cssclasses: ""
 ---
+
 
 # Silicio Y Memoria De Cristal
 

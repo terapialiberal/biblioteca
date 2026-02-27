@@ -1,12 +1,15 @@
 ---
-titulo: Aníbal Fernández
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [anbal, fernndez, naciones, triple]
 publish: true
+created: 2026-01-29T19:17:03.724-03:00
+modified: 2026-02-27T13:07:21.669-03:00
+tags:
+  - anbal
+  - fernndez
+  - naciones
+  - triple
+cssclasses: ""
 ---
+
 # Aníbal Fernández
 
 ## Resumen General

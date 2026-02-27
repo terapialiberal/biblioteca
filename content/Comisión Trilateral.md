@@ -1,12 +1,15 @@
 ---
-titulo: Comisión Trilateral
-tipo: organizacion
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [bilderberg, comisin, henry, trilateral]
 publish: true
+created: 2026-01-29T19:17:08.347-03:00
+modified: 2026-02-27T13:06:22.597-03:00
+tags:
+  - bilderberg
+  - comisin
+  - henry
+  - trilateral
+cssclasses: ""
 ---
+
 # Comisión Trilateral
 
 ## Resumen General

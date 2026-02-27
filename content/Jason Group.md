@@ -33,7 +33,7 @@ publish: true
 
 ## Conexiones Críticas
 - [[DARPA]]: El brazo ejecutor que convierte las teorías de JASON en hardware bélico.
-- [[MITRE Corporation]]: La entidad que administra administrativamente al grupo y sirve de puente con la inteligencia.
+- [[Mitre Corporation]]: La entidad que administra administrativamente al grupo y sirve de puente con la inteligencia.
 - [[Proyecto HAARP]]: Un descendiente directo de las teorías de manipulación atmosférica discutidas por los Jasons.
 - [[McNamara Line]]: El primer experimento masivo de "campo de batalla electrónico" diseñado por el grupo.
 - [[Complejo Industrial Militar]]: El consumidor final de la "magia" física producida por JASON.

@@ -1,12 +1,13 @@
 ---
-titulo: La Ventana De Overton
-tipo: "concepto"
-fecha: 2026-02-25
-tags: [overton, ventana]
-tier-primario: "b"
-nivel-evidencia: "medio"
 publish: true
+created: 2026-02-25T22:08:56.062-03:00
+modified: 2026-02-27T13:23:10.286-03:00
+tags:
+  - overton
+  - ventana
+cssclasses: ""
 ---
+
 
 # La Ventana De Overton
 

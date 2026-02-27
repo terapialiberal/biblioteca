@@ -1,12 +1,15 @@
 ---
-titulo: NEURALINK (v12_1)
-tipo: concepto
-fecha: 2026-02-25
-tier-primario: "a"
-nivel-evidencia: "alto"
-tags: [conquista, elon, hardware, noland]
 publish: true
+created: 2026-02-09T17:33:15.326-03:00
+modified: 2026-02-27T13:23:28.332-03:00
+tags:
+  - conquista
+  - elon
+  - hardware
+  - noland
+cssclasses: ""
 ---
+
 # NEURALINK (v12_1)
 
 #### BLUF

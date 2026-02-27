@@ -1,12 +1,14 @@
 ---
-titulo: Ceguera Inatencional Geopolítica
-tipo: persona
-fecha: 2026-02-25
-tags: [ceguera, geopoltica, inatencional]
-tier-primario: "b"
-nivel-evidencia: "medio"
 publish: true
+created: 2026-02-25T22:08:33.054-03:00
+modified: 2026-02-27T13:22:17.628-03:00
+tags:
+  - ceguera
+  - geopoltica
+  - inatencional
+cssclasses: ""
 ---
+
 
 # Ceguera Inatencional Geopolítica
 

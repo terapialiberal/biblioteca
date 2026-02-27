@@ -1,12 +1,15 @@
 ---
-titulo: El Fallo De La Corte Por La Coparticipación (CABA Vs Nación)
-tipo: evento
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [alberto, caba, fallo, nacin]
 publish: true
+created: 2026-01-29T19:17:11.280-03:00
+modified: 2026-02-27T13:07:33.587-03:00
+tags:
+  - alberto
+  - caba
+  - fallo
+  - nacin
+cssclasses: ""
 ---
+
 # El Fallo De La Corte Por La Coparticipación (CABA Vs Nación)
 
 ## Perfil TL (Resumen Ejecutivo)
