@@ -1,17 +1,12 @@
 ---
-titulo: index
-tipo: 'concepto'
-tier-primario: 'b'
-nivel-evidencia: 'medio'
-tags: [clasificado-ai]
 publish: true
----
-﻿---
-title: Base de Conocimiento
-enableToc: false
+created: 2026-02-25T11:26:39.294-03:00
+modified: 2026-03-01T10:22:48.434-03:00
+cssclasses: ""
 ---
 
-# 🏛️ Terapia Liberal — Base de Conocimiento
+# Index
+﻿# 🏛️ Terapia Liberal — Base de Conocimiento
 
 > *Análisis independiente para mentes críticas.*
 
