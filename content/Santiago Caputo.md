@@ -1,5 +1,5 @@
 ---
-titulo: "Santiago Caputo (v2.0): El Arquitecto Del Espectáculo Y Las Sombras"
+titulo: "Santiago Caputo (TL V.2): El Arquitecto Del Espectáculo Y Las Sombras"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,10 +7,10 @@ nivel-evidencia: "medio"
 tags: [arquitecto, luis, santiago, sombras]
 publish: true
 ---
-# Santiago Caputo (v2.0): El Arquitecto Del Espectáculo Y Las Sombras
+# Santiago Caputo (TL V.2): El Arquitecto Del Espectáculo Y Las Sombras
 
 > [!ABSTRACT] Hipótesis Informativa
-> Santiago Caputo es el **Operador de [[Tier B]]** encargado de la ingeniería de percepción y el control de la inteligencia estatal bajo el gobierno de Javier Milei. Sobrino del magnate **[[Nicolás Caputo]]** y primo de **[[Luis "Toto" Caputo]]**, Santiago actúa como el **"Monje Negro"** de la Matrix libertaria, diseñando la estética disruptiva y la narrativa de confrontación que capturó al **[[Tier C]]**. Su función real es la de un **"Agente de Captura Narrativa y Control Profundo"**: desde las sombras y sin cargo formal inicial, ha tomado el mando de la reestructurada **[[SIDE]]**, utilizando el aparato de inteligencia y un ejército de trolls digitales para neutralizar a la disidencia y consolidar el poder dinástico de la familia Caputo dentro del nuevo orden libertario.
+> Santiago Caputo es el **Operador de [[Tier B]]** encargado de la ingeniería de percepción y el control de la inteligencia estatal bajo el gobierno de Javier Milei. Sobrino del magnate **[[Nicolás Caputo]]** y primo de **[[00_Glosario - Conceptos Fase 1#Luis "Toto" Caputo\|Luis "Toto" Caputo]]**, Santiago actúa como el **"Monje Negro"** de la Matrix libertaria, diseñando la estética disruptiva y la narrativa de confrontación que capturó al **[[Tier C]]**. Su función real es la de un **"Agente de Captura Narrativa y Control Profundo"**: desde las sombras y sin cargo formal inicial, ha tomado el mando de la reestructurada **[[SIDE]]**, utilizando el aparato de inteligencia y un ejército de trolls digitales para neutralizar a la disidencia y consolidar el poder dinástico de la familia Caputo dentro del nuevo orden libertario.
 
 ## Análisis De Tiers
 
@@ -28,7 +28,7 @@ publish: true
 
 ## Conexiones Críticas
 - [[Javier Milei]]: Su principal activo y vehículo de poder.
-- [[Luis "Toto" Caputo]]: El socio en la gestión del capital financiero de la nación.
+- [[00_Glosario - Conceptos Fase 1#Luis "Toto" Caputo\|Luis "Toto" Caputo]]: El socio en la gestión del capital financiero de la nación.
 - [[Karina Milei (El Jefe)]]: Con quien forma el "triángulo de hierro" del poder.
 - [[Nicolás Caputo]]: El respaldo del poder real y dinástico de la obra pública.
 - [[SIDE (Servicio de Inteligencia del Estado)]]: Su brazo ejecutivo en las sombras.
@@ -40,7 +40,8 @@ Santiago Caputo nos enseña que **quien controla el relato y el secreto, control
 ---
 **Versión:** 2.0
 **Enfoque:** Caputo como monje negro de Milei, su control sobre la nueva SIDE y el ejército de trolls, el nexo familiar con la casta Caputo y el uso de la estética cinematográfica como herramienta de ingeniería social.
-**Estado:** Refactoreado a v2.0 - Framework de Operaciones de Inteligencia y Comunicación Política.
+**Estado:** Refactoreado a TL V.2 - Framework de Operaciones de Inteligencia y Comunicación Política.
+
 
 
 

@@ -28,7 +28,7 @@ publish: true
 *   "Guerra defensiva contra terroristas que secuestran soldados". "Resistencia heroica contra la agresión sionista". Narrativas que dividieron al Tier C global mientras los civiles libaneses y los residentes del norte de Israel ponían los muertos y los hogares destruidos. El Tier C libanés sufrió el desplazamiento de un millón de personas, convirtiéndose en el rehén de un conflicto de Tier A que se jugaba sobre sus cabezas.
 
 ## Conexiones Clave
-- [[Hezbollah]] (El actor asimétrico de Tier B)
+- [[00_Glosario - Conceptos Fase 1#Hezbollah\|Hezbollah]] (El actor asimétrico de Tier B)
 - [[Benjamin Netanyahu / Neocons]] (La ideología de fondo)
 - [[Irán (Geopolítica)]] (El patrocinador estratégico)
 - [[Guerra de Gaza]] (La evolución de las mismas tácticas)

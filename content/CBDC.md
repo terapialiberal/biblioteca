@@ -1,15 +1,12 @@
 ---
+titulo: CBDC (Moneda Digital De Banco Central)
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [banco, central, digital, reserva]
 publish: true
-created: 2026-01-29T19:17:07.062-03:00
-modified: 2026-02-27T13:22:16.876-03:00
-tags:
-  - banco
-  - central
-  - digital
-  - reserva
-cssclasses: ""
 ---
-
 # CBDC (Moneda Digital De Banco Central)
 
 ## Perfil TL (Resumen Ejecutivo)
@@ -36,7 +33,7 @@ Es la fusión del sistema bancario con el sistema de vigilancia estatal, elimina
 *   "Inclusión financiera para los no bancarizados". "Prevención del terrorismo y el lavado". "Dinero verde y eficiente". Discurso emocional para que el esclavo pida sus propias cadenas digitales a cambio de "comodidad".
 
 ## Conexiones Clave
-- [[Banco de Pagos Internacionales (BIS)]] (El arquitecto global)
+- [[Banco de Pagos Internacionales\|Banco de Pagos Internacionales (BIS)]] (El arquitecto global)
 - [[Reserva Federal]] (El emisor del dólar digital)
 - [[Crédito Social]] (El sistema de premios y castigos vinculado)
 - [[Agenda 2030]] (El marco temporal del Gran Reinicio)

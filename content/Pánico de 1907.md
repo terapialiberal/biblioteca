@@ -1,5 +1,5 @@
 ---
-titulo: "Pánico De 1907 (v2.0): El Catalizador Del Banco Central"
+titulo: "Pánico De 1907 (TL V.2): El Catalizador Del Banco Central"
 tipo: evento
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: ["1907", banco, problema, reserva]
 publish: true
 ---
-# Pánico De 1907 (v2.0): El Catalizador Del Banco Central
+# Pánico De 1907 (TL V.2): El Catalizador Del Banco Central
 
 > [!ABSTRACT] Hipótesis Informativa
 > El Pánico de 1907 fue la **Crisis Manufacturada de [[Tier A]]** definitiva para convencer al pueblo y al Congreso de EE.UU. de la "necesidad" de un Banco Central. Utilizando el colapso de la Knickerbocker Trust como detonante, la élite bancaria liderada por J.P. Morgan ejecutó un ciclo de **[[Problema-Reacción-Solución]]**: provocaron o profundizaron la liquidez para luego aparecer como los "salvadores" privados de la nación. El trauma resultante fue el combustible necesario para la reunión secreta en Jekyll Island y la posterior creación de la **[[Reserva Federal]]** en 1913, marcando el fin de la soberanía monetaria individual de **[[Tier C]]**.
@@ -38,7 +38,8 @@ El Pánico de 1907 nos enseña que **las crisis financieras son la partera de la
 ---
 **Versión:** 2.0
 **Enfoque:** El uso del pánico para justificar la creación de la Reserva Federal, el rol de J.P. Morgan como salvador/incendiario y la reunión de Jekyll Island como síntesis final.
-**Estado:** Refactoreado a v2.0 - Framework de Ingeniería Financiera.
+**Estado:** Refactoreado a TL V.2 - Framework de Ingeniería Financiera.
+
 
 
 

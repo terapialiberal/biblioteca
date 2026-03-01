@@ -1,5 +1,13 @@
 ---
-titulo: ASML (v12_1)
+titulo: ASML
+tipo: 'organizacion'
+tier-primario: 'a'
+nivel-evidencia: 'medio'
+tags: [clasificado-ai]
+publish: true
+---
+﻿---
+titulo: ASML (TL V.2)
 tipo: concepto
 fecha: 2026-02-25
 tier-primario: "a"
@@ -7,7 +15,7 @@ nivel-evidencia: "alto"
 tags: [apple, asml, culo, nvidia]
 publish: true
 ---
-# ASML (v12_1)
+# ASML (TL V.2)
 
 #### BLUF
 ASML es el **Chokepoint Absoluto** de la civilizacin tecnolgica. En 2026, su monopolio sobre las mquinas de litografa **High-NA EUV** (Twinscan EXE) determina qu naciones y empresas pueden cruzar la frontera de los 2nm. Sin las mquinas de Veldhoven, la IA de [[Nvidia]], [[Apple]] o [[OpenAI]] simplemente deja de existir. ASML no fabrica chips; fabrica las herramientas que permiten al **Tier A** esculpir la realidad fsica a escala atmica.
@@ -70,6 +78,7 @@ ASML es una empresa vulnerable con una cadena de suministro demasiado frgil. Su 
 Cuntos ingenieros de ASML han sido reclutados por el programa "Seis Camas" de China para acelerar su litografa domstica mediante espionaje industrial?
 
 ---
-*Versi�n: 1.0 (v12_1) | Dossier de Chokepoint de Infraestructura*
+*Versiï¿½n: 1.0 (TL V.2) | Dossier de Chokepoint de Infraestructura*
+
 
 

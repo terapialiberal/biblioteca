@@ -1,16 +1,11 @@
 ---
+titulo: "Le Cercle - Wikispooks --- Le Cercle - Wikispooks"
+tipo: "concepto"
+source: "https://wikispooks.com/wiki/Le_Cercle"
+description: "Coalición internacional de veteranos de inteligencia de derecha y activos de propaganda."
+tags: [le-cercle, deep-state, inteligencia, guerra-fria]
 publish: true
-description: Coalición internacional de veteranos de inteligencia de derecha y activos de propaganda.
-created: 2026-01-29T19:05:10.815-03:00
-modified: 2026-02-27T13:23:11.632-03:00
-tags:
-  - le-cercle
-  - deep-state
-  - inteligencia
-  - guerra-fria
-cssclasses: ""
 ---
-
 # Le Cercle - Wikispooks --- Le Cercle - Wikispooks
 ![](https://wikispooks.com/w/images/b/b8/December_2016_meeting_of_Le_Cercle_Washington_3.jpg)
 
@@ -79,14 +74,14 @@ cssclasses: ""
 - [[Deep state]]
 - [[Guerra Fría]]
 - [[Organización del Tratado del Atlántico Norte]] ([[OTAN]])
-- [[Unión Soviética]] ([[URSS]])
+- [[00_Glosario - Conceptos Fase 1#Unión Soviética\|Unión Soviética]] ([[00_Glosario - Conceptos Fase 1#URSS\|URSS]])
 - [[Yemen]]
 - [[Jordania]]
 - [[David Stirling]]
 - [[Alec Douglas-Home]]
 - [[John Carbaugh]]
 - [[GeoMiliTech Consultants Corporation]]
-- [[Iran-Contra]]
+- [[Irán-Contra\|Iran-Contra]]
 - [[Margaret Carlisle]]
 - [[Paul Channon]]
 - [[Alan Clark]]
@@ -134,7 +129,7 @@ cssclasses: ""
 - [[Brian Franks]]
 - [[MI6]]
 - [[GeoMiliTech Consultants Corporation]]
-- [[Iran-Contra]]
+- [[Irán-Contra\|Iran-Contra]]
 - [[Margaret Carlisle]]
 - [[Paul Channon]]
 - [[Alan Clark]]

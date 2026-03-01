@@ -1,5 +1,5 @@
 ---
-titulo: "Mega Group (v2.0): La Sala De Máquinas Del Poder Sionista"
+titulo: "Mega Group (TL V.2): La Sala De Máquinas Del Poder Sionista"
 tipo: empresa
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [jeffrey, mega, sala, sionista]
 publish: true
 ---
-# Mega Group (v2.0): La Sala De Máquinas Del Poder Sionista
+# Mega Group (TL V.2): La Sala De Máquinas Del Poder Sionista
 
 > [!ABSTRACT] Hipótesis Informativa
 > El Mega Group constituye el **sindicato de crimen organizado de élite más poderoso y menos conocido del mundo**. Formado en 1991 por los billonarios **Leslie Wexner** y **Charles Bronfman**, este club privado reúne a la oligarquía judía de **Tier A** con el objetivo explícito de coordinar la filantropía, pero con el propósito operativo de **fusionar el capital financiero estadounidense con la inteligencia israelí ([[Mossad]])**. Fue el entorno que "incumbó" y financió la operación de chantaje sexual de **[[Jeffrey Epstein]]**, utilizándola como herramienta para asegurar la lealtad política de Occidente hacia los intereses del grupo.
@@ -34,7 +34,7 @@ publish: true
 
 ## Conexiones Críticas
 - [[Les Wexner]]: El arquitecto financiero y patrón de Epstein.
-- [[Charles Bronfman]]: El nexo histórico con el crimen organizado y el sionismo duro.
+- [[00_Glosario - Conceptos Fase 1#Charles Bronfman\|Charles Bronfman]]: El nexo histórico con el crimen organizado y el sionismo duro.
 - [[Jeffrey Epstein]]: El brazo ejecutor de las operaciones sucias del grupo.
 - [[Mossad]]: La agencia estatal beneficiaria de la inteligencia recolectada.
 - [[Maxwell Family (Robert & Ghislaine)]]: Los operadores de campo y enlace con la inteligencia británica.
@@ -45,7 +45,8 @@ El Mega Group es la **"Junta Directiva del Estado Profundo Sionista"**. No es un
 ---
 **Versión:** 2.0
 **Enfoque:** Origen en la fusión Bronfman-Wexner, rol como incubadora de la operación Epstein, nexo con el Mossad y uso de la filantropía como cobertura para operaciones de inteligencia.
-**Estado:** Refactoreado a v2.0 - Framework de Crimen Organizado de Ã‰lite.
+**Estado:** Refactoreado a TL V.2 - Framework de Crimen Organizado de Ã‰lite.
+
 
 
 

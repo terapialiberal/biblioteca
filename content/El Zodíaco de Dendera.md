@@ -1,21 +1,29 @@
 ---
+titulo: El Zodíaco de Dendera
+tipo: 'concepto'
+tier-primario: 'b'
+nivel-evidencia: 'medio'
+tags: [clasificado-ai]
 publish: true
-created: 2026-02-25T22:08:53.322-03:00
-modified: 2026-02-27T13:22:37.340-03:00
-tags:
-  - dendera
-  - zodaco
-cssclasses: ""
+---
+﻿---
+titulo: El ZodÃ­aco De Dendera
+tipo: "concepto"
+fecha: 2026-02-25
+tags: [dendera, zodaco]
+tier-primario: "b"
+nivel-evidencia: "medio"
+publish: true
 ---
 
+# El ZodÃ­aco De Dendera
 
-# El Zodíaco De Dendera
+> [!ABSTRACT] HipÃ³tesis Informativa
+> Nodo perteneciente a la Matrix de Simbolismo y Esoterismo TL V.2.
 
-> [!ABSTRACT] Hipótesis Informativa
-> Nodo perteneciente a la Matrix de Simbolismo y Esoterismo v12_0.
-
-## Análisis De Tiers
+## AnÃ¡lisis De Tiers
 *En desarrollo...*
 
 ## Cui Bono
-*Pendiente de análisis forense.*
+*Pendiente de anÃ¡lisis forense.*
+

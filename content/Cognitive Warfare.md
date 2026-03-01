@@ -1,16 +1,13 @@
 ---
+titulo: COGNITIVE WARFARE (TL V.2)
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "alto"
+tags: [cognitive, darpa, espacio, warfare]
 publish: true
-created: 2026-02-25T16:09:24.269-03:00
-modified: 2026-02-27T13:22:20.188-03:00
-tags:
-  - cognitive
-  - darpa
-  - espacio
-  - warfare
-cssclasses: ""
 ---
-
-# COGNITIVE WARFARE (v12_1)
+# COGNITIVE WARFARE (TL V.2)
 
 #### BLUF
 La Guerra Cognitiva es el **Sexto Dominio Operativo** de la guerra moderna (tras tierra, mar, aire, espacio y ciberespacio). Su objetivo no es destruir el cuerpo del enemigo, sino **Hackear su Mente** para que se destruya a sí mismo. En 2026, el Tier B utiliza la Guerra Cognitiva no solo contra potencias extranjeras, sino contra su propia población, utilizando el entorno digital para inducir estados de miedo, polarización extrema y pasividad aprendida, asegurando que ninguna resistencia organizada sea posible.
@@ -73,6 +70,7 @@ Es la forma más humana de hacer la guerra. Si podemos convencer al enemigo de q
 ¿Cuáles son los "frecuencias de resonancia cognitiva" específicas que las IAs de Tier B han identificado como más efectivas para inducir el suicidio o la parálisis emocional en grupos demográficos específicos en 2026?
 
 ---
-*Dossier forense v12_1 | La Conquista del Alma Humana*
+*Dossier forense TL V.2 | La Conquista del Alma Humana*
+
 
 

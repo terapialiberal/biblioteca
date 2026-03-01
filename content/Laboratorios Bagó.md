@@ -1,5 +1,5 @@
 ---
-titulo: "Laboratorios Bagó (v2.0): La Arquidiócesis De La Sanidad Protegida"
+titulo: "Laboratorios Bagó (TL V.2): La Arquidiócesis De La Sanidad Protegida"
 tipo: empresa
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [arquidicesis, cilfa, pami, protegida]
 publish: true
 ---
-# Laboratorios Bagó (v2.0): La Arquidiócesis De La Sanidad Protegida
+# Laboratorios Bagó (TL V.2): La Arquidiócesis De La Sanidad Protegida
 
 > [!ABSTRACT] Hipótesis Informativa
 > Laboratorios Bagó constituye uno de los **nodos de poder más inexpugnables de la burguesía de [[Tier B]] argentina**. Operando bajo el manto de la "industria nacional", el grupo ha consolidado un dominio basado en el **lobby regulador, la captura de la seguridad social y el financiamiento de la política partidaria**. Su importancia sistémica no reside solo en su capacidad industrial, sino en su rol como guardián de un mercado cerrado que garantiza rentas extraordinarias al [[Tier A]] local y transatlántico, utilizando el control del vademécum estatal como una herramienta de extracción de riqueza del [[Tier C]] a través de precios inflados y subsidios públicos.
@@ -46,6 +46,7 @@ Laboratorios Bagó es la **"Guardia Pretoriana de la Farmacia"** en Argentina. S
 **Versión:** 2.0
 **Enfoque:** Oligopolio farmacéutico nacional, captura de la seguridad social (PAMI), financiamiento de campañas políticas para mantener proteccionismo y la relación simbiótica con Big Pharma transnacional.
 **Estado:** Refactorización Completa.
+
 
 
 

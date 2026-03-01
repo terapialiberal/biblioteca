@@ -31,9 +31,10 @@ Lucis Trust es el "Departamento de Almas" de la Globalización. Su función es c
 - **Huésped Principal:** [[Naciones Unidas (ONU)]].
 - **Mentes Maestras:** [[Alice Bailey]], [[Robert McNamara]], [[Maurice Strong]] (Arquitecto de la Agenda Verde).
 - **Relaciones:** [[Club of Rome]], [[World Economic Forum]], [[UNESCO]].
-- **Conceptos:** [[Luciferianismo]], [[Agenda 2030]], [[Nuevo Orden Mundial]].
+- **Conceptos:** [[Luciferianismo]], [[Agenda 2030]], [[00_Glosario - Conceptos Fase 1#Nuevo Orden Mundial\|Nuevo Orden Mundial]].
 
-**Estado:** Refactoreado a v2.0 - Marco de Inteligencia Espiritual-Global.
+**Estado:** Refactoreado a TL V.2 - Marco de Inteligencia Espiritual-Global.
+
 
 
 

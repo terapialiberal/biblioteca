@@ -1,19 +1,16 @@
 ---
+titulo: El Fallo De La Corte Por La Coparticipación (CABA Vs Nación)
+tipo: evento
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [alberto, caba, fallo, nacin]
 publish: true
-created: 2026-01-29T19:17:11.280-03:00
-modified: 2026-02-27T13:07:33.587-03:00
-tags:
-  - alberto
-  - caba
-  - fallo
-  - nacin
-cssclasses: ""
 ---
-
 # El Fallo De La Corte Por La Coparticipación (CABA Vs Nación)
 
 ## Perfil TL (Resumen Ejecutivo)
-**¿Qué pasó?** La Corte Suprema de Justicia de la Nación dictó una medida cautelar ordenando al Gobierno Nacional de **[[Alberto Fernández]]** devolverle a la Ciudad de Buenos Aires parte de los fondos de coparticipación que le habían sido quitados por decreto para financiar un aumento salarial a la policía bonaerense de **[[Axel Kicillof]]**.
+**¿Qué pasó?** La Corte Suprema de Justicia de la Nación dictó una medida cautelar ordenando al Gobierno Nacional de **[[00_Glosario - Conceptos Fase 1#Alberto Fernández\|Alberto Fernández]]** devolverle a la Ciudad de Buenos Aires parte de los fondos de coparticipación que le habían sido quitados por decreto para financiar un aumento salarial a la policía bonaerense de **[[Axel Kicillof]]**.
 
 **¿Por qué importa?** Este fallo representó el **momento de "Desobediencia Abierta" del Tier B político hacia el orden constitucional**. El Presidente, presionado por el kirchnerismo duro, declaró que el fallo era de "fallecimiento imposible" y amagó con no cumplirlo, lo que constituyó un quiebre de facto de la división de poderes. Es un caso testigo de cómo el Tier B peronista considera la "voluntad política" (y la necesidad de financiar sus feudos territoriales) como una jerarquía superior a la ley. La resolución del conflicto (pagar con bonos de deuda y no con efectivo) fue un parche técnico que no ocultó la fragilidad absoluta del Estado de Derecho frente a la voracidad de la caja política.
 

@@ -1,5 +1,5 @@
 ---
-titulo: "Lazard (v2.0): El Arquitecto De La Quiebra Soberana"
+titulo: "Lazard (TL V.2): El Arquitecto De La Quiebra Soberana"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [arquitecto, felix, quiebra, rothschild]
 publish: true
 ---
-# Lazard (v2.0): El Arquitecto De La Quiebra Soberana
+# Lazard (TL V.2): El Arquitecto De La Quiebra Soberana
 
 > [!ABSTRACT] Hipótesis Informativa
 > Lazard constituye la **unidad de élite técnica del [[Tier A]] para la gestión y liquidación de activos nacionales**. A diferencia de los bancos comerciales masivos, Lazard opera como una boutique de asesoría de "sangre azul" especializada en sentarse a ambos lados de la mesa de negociación. Su función sistémica es actuar como el **traductor y mediador entre las democracias en crisis y el capital transnacional**, asegurando que las reestructuraciones de deuda no liberen a las naciones, sino que las subordinen definitivamente a la disciplina fiscal de Tier A, facilitando la transferencia ordenada de infraestructuras soberanas hacia el mercado corporativo global.
@@ -46,6 +46,7 @@ Lazard es el **"Liquidador de Guante Blanco"** del sistema financiero. Su import
 **Versión:** 2.0
 **Enfoque:** Asesoría en deuda soberana como herramienta de pérdida de soberanía, rol de doble agente entre Estados y acreedores, historia de Felix Rohatyn y la gobernanza tecnocrática, y el nexo con el capital financiero de Tier A.
 **Estado:** Refactorización Completa.
+
 
 
 

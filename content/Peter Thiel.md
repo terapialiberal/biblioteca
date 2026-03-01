@@ -1,17 +1,18 @@
 ---
-publish: true
-created: 2026-01-29T19:17:30.419-03:00
-modified: 2026-02-27T13:23:48.662-03:00
+titulo: 'Peter Thiel (TL V.2): El Arquitecto Del Tecno-Feudalismo'
+tipo: persona
+fecha: 2026-02-25T00:00:00.000Z
+tier-primario: b
+nivel-evidencia: medio
 tags:
   - peter-thiel
   - tecno-feudalismo
   - palantir
   - vigilancia-tecnológica
   - control-social
-cssclasses: ""
+publish: true
 ---
-
-# Peter Thiel (v2.0): El Arquitecto Del Tecno-Feudalismo
+# Peter Thiel (TL V.2): El Arquitecto Del Tecno-Feudalismo
 
 > [!ABSTRACT] Hipótesis Informativa
 > Peter Thiel es el **Ideólogo Supremo de la Ã‰lite de [[Tier A]]** que busca la superación de la democracia tradicional mediante el control tecnológico absoluto. Cofundador de PayPal y **[[Palantir]]**, Thiel ha fusionado el libertarismo radical con la infraestructura de vigilancia estatal profunda. Su visión post-democrática propone un mundo donde las élites se desconectan de la población de **[[Tier C]]** mediante la biotecnología (extensión de la vida), el escape físico (seasteading/espacio) y el procesamiento algorítmico del comportamiento humano, posicionándose como el nexo entre el capital de riesgo de Silicon Valley y el complejo militar-industrial.
@@ -42,7 +43,8 @@ Peter Thiel nos enseña que **el futuro de la libertad para las élites es la es
 ---
 **Versión:** 2.0
 **Enfoque:** La síntesis entre vigilancia estatal y capital libertario, la red de la PayPal Mafia, las conexiones con Epstein y Bilderberg, y su ideología post-democrática de monopolio total.
-**Estado:** Refactoreado a v2.0 - Framework de Ã‰lite Tecnocrática Global.
+**Estado:** Refactoreado a TL V.2 - Framework de Ã‰lite Tecnocrática Global.
+
 
 
 

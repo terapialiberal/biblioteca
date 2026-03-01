@@ -1,5 +1,5 @@
 ---
-titulo: "Merrick Garland (v2.0): El Verdugo Burocrático"
+titulo: "Merrick Garland (TL V.2): El Verdugo Burocrático"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [departamento, garland, merrick, verdugo]
 publish: true
 ---
-# Merrick Garland (v2.0): El Verdugo Burocrático
+# Merrick Garland (TL V.2): El Verdugo Burocrático
 
 > [!ABSTRACT] Hipótesis Informativa
 > Merrick Garland personifica la **Militarización del Sistema Judicial (Lawfare)** por parte del **[[Tier B]]** demócrata. Como Fiscal General, su misión no es la justicia ciega, sino la protección del **Estado Profundo**. Garland opera con una doble vara: actúa como escudo impenetrable para las corrupciones de la familia Biden (retrasando y sabotéando la causa de Hunter Biden) mientras lanza todo el peso del DOJ y el FBI contra **[[Donald Trump]]** y sus seguidores (etiquetando a padres en reuniones escolares como "terroristas domésticos"). Es el burócrata perfecto: gris, técnico y despiadado en la ejecución de las órdenes políticas de **[[Tier A]]**.
@@ -31,7 +31,7 @@ publish: true
 - [[Hunter Biden]]: Su protegido.
 - [[Donald Trump]]: Su objetivo.
 - [[Lawfare]]: Su método.
-- [[Estado profundo]]: Sus jefes.
+- [[Estado profundo\|Estado Profundo]]: Sus jefes.
 
 ## Conclusión Del Análisis
 Merrick Garland será recordado como el hombre que terminó con la ilusión de la neutralidad judicial en Estados Unidos. Transformó al Departamento de Justicia en el brazo legal de la campaña de reelección demócrata.
@@ -39,7 +39,8 @@ Merrick Garland será recordado como el hombre que terminó con la ilusión de l
 ---
 **Versión:** 2.0
 **Enfoque:** Politización del DOJ, protección de Hunter Biden, persecución de Trump (Lawfare) y uso del FBI contra disidentes civiles.
-**Estado:** Refactoreado a v2.0 - Framework de Justicia Armada.
+**Estado:** Refactoreado a TL V.2 - Framework de Justicia Armada.
+
 
 
 

@@ -1,15 +1,12 @@
 ---
+titulo: "Continuity of Government: El Plan Para Suspender La Constitución"
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [constitucin, continuity, fema, suspender]
 publish: true
-created: 2026-01-29T19:17:08.746-03:00
-modified: 2026-02-27T13:22:22.919-03:00
-tags:
-  - constitucin
-  - continuity
-  - fema
-  - suspender
-cssclasses: ""
 ---
-
 # Continuity of Government: El Plan Para Suspender La Constitución
 
 > [!ABSTRACT] Hipótesis Informativa
@@ -35,7 +32,7 @@ cssclasses: ""
 ## Conexiones Críticas
 - [[Oliver North]]: Involucrado en la planificación de Rex 84 en los 80.
 - [[9-11]]: El día que el COG salió a la luz (Dick Cheney en el búnker).
-- [[FEMA]]: La agencia ejecutora (que se convierte en el gobierno de facto).
+- [[00_Glosario - Conceptos Fase 1#FEMA\|FEMA]]: La agencia ejecutora (que se convierte en el gobierno de facto).
 - [[Estado de Excepción]]: El concepto jurídico (Carl Schmitt).
 
 ## Conclusión Del Análisis

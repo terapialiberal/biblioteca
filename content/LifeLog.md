@@ -29,12 +29,13 @@ publish: true
 ---
 
 ## Conexiones De La Red
-- **El Heredero:** [[Facebook (Orígenes)]], [[Mark Zuckerberg]].
+- **El Heredero:** [[00_Glosario - Conceptos Fase 1#Facebook (Orígenes)\|Facebook (Orígenes)]], [[Mark Zuckerberg]].
 - **El Diseñador:** [[DARPA]], [[Pentágono]].
 - **El Financista:** [[Peter Thiel]], [[In-Q-Tel]].
 - **Conceptos:** [[Vigilancia Masiva]], [[Capitalismo de Vigilancia]].
 
-**Estado:** Refactoreado a v2.0 - Framework de Inteligencia Aplicado.
+**Estado:** Refactoreado a TL V.2 - Framework de Inteligencia Aplicado.
+
 
 
 

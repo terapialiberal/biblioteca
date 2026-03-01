@@ -1,15 +1,12 @@
 ---
+titulo: "Lobby Del Azúcar (Big Sugar): El Fraude Nutricional Del Siglo"
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [azcar, blackrock, lobby, nutricional]
 publish: true
-created: 2026-01-29T19:17:22.741-03:00
-modified: 2026-02-27T13:23:14.686-03:00
-tags:
-  - azcar
-  - blackrock
-  - lobby
-  - nutricional
-cssclasses: ""
 ---
-
 # Lobby Del Azúcar (Big Sugar): El Fraude Nutricional Del Siglo
 
 > [!ABSTRACT] Resumen de Inteligencia
@@ -36,7 +33,8 @@ Big Sugar no vende alimentos, vende **inflamación sistémica**. Tu obesidad no 
 - **Beneficiaries Farma:** [[Pfizer]], [[Novo Nordisk]] (Ozempic), [[Eli Lilly]].
 - **Conceptos:** [[Alzheimer (Diabetes Tipo 3)]], [[Síndrome Metabólico]], [[Resistencia a la Insulina]].
 
-**Estado:** Refactoreado a v2.0 - Framework de Salud Sistémica.
+**Estado:** Refactoreado a TL V.2 - Framework de Salud Sistémica.
+
 
 
 

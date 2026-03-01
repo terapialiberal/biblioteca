@@ -1,5 +1,5 @@
 ---
-titulo: "John Perkins (v2.0): El Confesor Del Colonialismo Financiero"
+titulo: "John Perkins (TL V.2): El Confesor Del Colonialismo Financiero"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [banco, colonialismo, financiero, perkins]
 publish: true
 ---
-# John Perkins (v2.0): El Confesor Del Colonialismo Financiero
+# John Perkins (TL V.2): El Confesor Del Colonialismo Financiero
 
 > [!ABSTRACT] Hipótesis Informativa
 > John Perkins es el **descodificador del sistema de captura soberana mediante la deuda**. Como ex-"Sicario Económico" (*Economic Hitman*), reveló la metodología del [[Tier A]] para subyugar naciones enteras sin necesidad de invasiones militares directas. Su testimonio describe la **Corporatocracia**: una alianza entre la inteligencia estatal y las megacorporaciones que utiliza proyecciones económicas fraudulentas para hipotecar el futuro del [[Tier C]], asegurando la transferencia de recursos naturales y soberanía política hacia la élite globalista bajo la amenaza de intervención de los "Chacales" (asesinos de la CIA).
@@ -45,6 +45,7 @@ John Perkins es el **"Analista de la Esclavitud Moderna"**. Su vida es el record
 **Versión:** 2.0
 **Enfoque:** Método del Sicario Económico, mecanismos de la Corporatocracia y la deuda como herramienta de control neocolonial.
 **Estado:** Refactorización Completa.
+
 
 
 

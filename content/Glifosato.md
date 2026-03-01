@@ -1,15 +1,12 @@
 ---
+titulo: Glifosato (Roundup)
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [glifosato, microbioma, monsanto, roundup]
 publish: true
-created: 2026-01-29T19:17:15.487-03:00
-modified: 2026-02-27T13:22:47.884-03:00
-tags:
-  - glifosato
-  - microbioma
-  - monsanto
-  - roundup
-cssclasses: ""
 ---
-
 # Glifosato (Roundup)
 
 ## Perfil TL (Resumen Ejecutivo)
@@ -31,7 +28,7 @@ cssclasses: ""
 *   "Alimentando al mundo". "Herbicida seguro como la sal de mesa". Narrativas de marketing que ocultaron durante décadas la relación directa entre el glifosato y el Linfoma No Hodgkin, hasta que los juicios millonarios en EE.UU. forzaron la verdad a la luz, aunque el producto sigue usándose masivamente.
 
 ## Conexiones Clave
-- [[Monsanto / Bayer]] (Su creador y dueño)
+- [[00_Glosario - Conceptos Fase 1#Monsanto / Bayer\|Monsanto / Bayer]] (Su creador y dueño)
 - [[Microbioma e Inmunidad]] (Su objetivo biológico)
 - [[Alimentación (Como Arma)]] (Su función estratégica)
 - [[Pueblos Fumigados (Caso Argentina)]] (Su impacto territorial)

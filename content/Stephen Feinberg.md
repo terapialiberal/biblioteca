@@ -1,5 +1,5 @@
 ---
-titulo: "Stephen Feinberg (v2.0): El Capitalista En La Sombra Del Complejo Militar-Industrial"
+titulo: "Stephen Feinberg (TL V.2): El Capitalista En La Sombra Del Complejo Militar-Industrial"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [capitalista, dyncorp, industrial, stephen]
 publish: true
 ---
-# Stephen Feinberg (v2.0): El Capitalista En La Sombra Del Complejo Militar-Industrial
+# Stephen Feinberg (TL V.2): El Capitalista En La Sombra Del Complejo Militar-Industrial
 
 > [!ABSTRACT] Hipótesis Informativa
 > Stephen Feinberg es el **Oligarca de [[Tier A]]** que personifica la fusión definitiva entre Wall Street, la industria de defensa y la comunidad de inteligencia. Como fundador de **[[Cerberus Capital Management]]**, su función real en la Matrix es la de un **"Adquiriente de Activos Críticos de la Zona Gris"**: comprar empresas en problemas que son fundamentales para la seguridad nacional (como el contratista mercenario **[[DynCorp]]** o el fabricante de armas **Remington**). Feinberg opera en un nivel de opacidad casi total, actuando como un gestor de capital privado para la infraestructura de guerra y vigilancia del **[[SDS (Supranational Deep State)]]**.
@@ -41,7 +41,8 @@ Stephen Feinberg nos enseña que **las empresas que gestionan la deuda y las que
 ---
 **Versión:** 2.0
 **Enfoque:** Stephen Feinberg como oligarca de Tier A financiero-militar, el rol de Cerberus y DynCorp en la privatización de la guerra, su acceso a la inteligencia estatal y su obsesión por el bajo perfil como herramienta de negación plausible para el poder real.
-**Estado:** Refactoreado a v2.0 - Framework de Private Equity Militar y Seguridad Nacional.
+**Estado:** Refactoreado a TL V.2 - Framework de Private Equity Militar y Seguridad Nacional.
+
 
 
 

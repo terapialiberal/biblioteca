@@ -1,5 +1,5 @@
 ---
-titulo: "Juan Grabois (v2.0): El Gestor Del Feudalismo De La Exclusión"
+titulo: "Juan Grabois (TL V.2): El Gestor Del Feudalismo De La Exclusión"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [exclusin, feudalismo, grabois, papa]
 publish: true
 ---
-# Juan Grabois (v2.0): El Gestor Del Feudalismo De La Exclusión
+# Juan Grabois (TL V.2): El Gestor Del Feudalismo De La Exclusión
 
 > [!ABSTRACT] Hipótesis Informativa
 > Juan Grabois actúa como el **administrador de contención de [[Tier B]] para la masa excluida del sistema productivo**. Como enlace orgánico entre el **[[Vaticano]]** ([[Papa Francisco]]) y los movimientos sociales argentinos, su función es organizar la precariedad del [[Tier C]] bajo una estructura de "Economía Popular" que evita la insurrección violenta a cambio de una gestión clientelar de recursos estatales. Grabois es el arquitecto de un modelo que estabiliza la marginalidad, convirtiéndola en un feudo político-religioso que permite al [[Tier A]] mantener la estabilidad del sistema mientras extrae valor de la clase media residual.
@@ -45,6 +45,7 @@ Juan Grabois es el **"Garante de la Pobreza Sustentable"**. Su importancia resid
 **Versión:** 2.0
 **Enfoque:** Gestión clientelar de la exclusión, vínculos con la agenda social del Vaticano (Papa Francisco) y administración de fondos públicos para la militancia territorial.
 **Estado:** Refactorización Completa.
+
 
 
 

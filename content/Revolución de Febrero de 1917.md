@@ -1,5 +1,5 @@
 ---
-titulo: "Revolución De Febrero De 1917 (v2.0): El Desmantelamiento De La Soberanía Imperial"
+titulo: "Revolución De Febrero De 1917 (TL V.2): El Desmantelamiento De La Soberanía Imperial"
 tipo: evento
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,10 +7,10 @@ nivel-evidencia: "medio"
 tags: [desmantelamiento, febrero, jacob, soberana]
 publish: true
 ---
-# Revolución De Febrero De 1917 (v2.0): El Desmantelamiento De La Soberanía Imperial
+# Revolución De Febrero De 1917 (TL V.2): El Desmantelamiento De La Soberanía Imperial
 
 > [!ABSTRACT] Hipótesis Informativa
-> La Revolución de Febrero de 1917 no fue un estallido puramente espontáneo del hambre popular, sino la **Primera Fase de la Operación de Cambio de Régimen de [[Tier A]]** para destruir el Imperio Ruso. Mientras la población de **[[Tier C]]** sufría los estragos de la PGM, una cáscara de banqueros internacionales (liderados por **[[Jacob Schiff]]**) y operativos de **[[Tier B]]** diplomático aseguraron el colapso de la dinastía Romanov. Su función real fue instalar un Gobierno Provisional débil y pro-occidental que sirviera como un "parachoques" temporal antes de la entrega definitiva de Rusia al experimento colectivista de la **[[Revolución de Octubre 1917\|Revolución de Octubre]]**, eliminando a un competidor geopolítico soberano y abriendo el país al saqueo de los recursos por parte del capital financiero transnacional.
+> La Revolución de Febrero de 1917 no fue un estallido puramente espontáneo del hambre popular, sino la **Primera Fase de la Operación de Cambio de Régimen de [[Tier A]]** para destruir el Imperio Ruso. Mientras la población de **[[Tier C]]** sufría los estragos de la PGM, una cáscara de banqueros internacionales (liderados por **[[00_Glosario - Conceptos Fase 1#Jacob Schiff\|Jacob Schiff]]**) y operativos de **[[Tier B]]** diplomático aseguraron el colapso de la dinastía Romanov. Su función real fue instalar un Gobierno Provisional débil y pro-occidental que sirviera como un "parachoques" temporal antes de la entrega definitiva de Rusia al experimento colectivista de la **[[Revolución de Octubre 1917\|Revolución de Octubre]]**, eliminando a un competidor geopolítico soberano y abriendo el país al saqueo de los recursos por parte del capital financiero transnacional.
 
 ## Análisis De Tiers
 
@@ -26,9 +26,9 @@ publish: true
 2.  **Agitación y Propaganda Financiada**: Infiltración de agentes provocadores en las huelgas de Petrogrado, transformando una protesta por pan en un movimiento de cambio constitucional radical bajo la dirección de operativos financiados desde el exterior.
 
 ## Conexiones Críticas
-- [[Jacob Schiff]]: El banquero de Wall Street que financió la caída del Zar.
+- [[00_Glosario - Conceptos Fase 1#Jacob Schiff\|Jacob Schiff]]: El banquero de Wall Street que financió la caída del Zar.
 - [[Antony Sutton]]: El historiador que documentó las transacciones financieras entre Wall Street y los revolucionarios rusos.
-- [[Jacob Schiff]]: (Repetición necesaria por su rol central).
+- [[00_Glosario - Conceptos Fase 1#Jacob Schiff\|Jacob Schiff]]: (Repetición necesaria por su rol central).
 - [[Antony Sutton]]: Investigador clave.
 - [[Revolución de Octubre 1917]]: La conclusión lógica y financiada de este proceso.
 - [[Primera Guerra Mundial]]: El pretexto global para el rediseño del mapa mundial.
@@ -40,7 +40,8 @@ La Revolución de Febrero nos enseña que **las revueltas por "pan y libertad" s
 ---
 **Versión:** 2.0
 **Enfoque:** El financiamiento de Jacob Schiff a la revolución, la naturaleza orquestada de la caída del Zar y el rol de Wall Street en la destrucción del Imperio Ruso como competidor geopolítico.
-**Estado:** Refactoreado a v2.0 - Framework de Historia Financiera y Cambio de Régimen.
+**Estado:** Refactoreado a TL V.2 - Framework de Historia Financiera y Cambio de Régimen.
+
 
 
 

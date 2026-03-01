@@ -1,5 +1,5 @@
 ---
-titulo: "Project Veritas Vs James O'Keefe (v2.0): La Captura Institucional"
+titulo: "Project Veritas Vs James O'Keefe (TL V.2): La Captura Institucional"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [keefe, pfizer, project, veritas]
 publish: true
 ---
-# Project Veritas Vs James O'Keefe (v2.0): La Captura Institucional
+# Project Veritas Vs James O'Keefe (TL V.2): La Captura Institucional
 
 > [!ABSTRACT] Hipótesis Informativa
 > La expulsión de James O'Keefe de Project Veritas no fue un conflicto laboral interno, sino una **Operación de Decapitación de [[Tier A]]** ejecutada por infiltrados corporativos. Tras la publicación de un vídeo donde un director de **[[Pfizer]]** admitía la "evolución dirigida" de virus, el sistema activó a sus activos dentro de la junta directiva de Veritas para neutralizar la mayor amenaza mediática independiente del momento. El caso es el ejemplo definitivo de cómo las estructuras de **[[Tier B]]** (periodismo disidente) son parasitadas y destruidas desde adentro cuando tocan los nervios sensibles del poder farmacéutico y estatal de la Matrix.
@@ -38,7 +38,8 @@ El caso Veritas vs O'Keefe nos enseña que **las instituciones son temporales, p
 ---
 **Versión:** 2.0
 **Enfoque:** La expulsión de O'Keefe como respuesta directa a la filtración sobre Pfizer, el rol de la infiltración en la junta directiva y la destrucción de la organización disidente.
-**Estado:** Refactoreado a v2.0 - Framework de Captura Institucional.
+**Estado:** Refactoreado a TL V.2 - Framework de Captura Institucional.
+
 
 
 

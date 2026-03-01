@@ -1,15 +1,12 @@
 ---
+titulo: International Crisis Group
+tipo: empresa
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [crisis, george, international, otan]
 publish: true
-created: 2026-01-29T19:17:18.617-03:00
-modified: 2026-02-27T13:22:57.290-03:00
-tags:
-  - crisis
-  - george
-  - international
-  - otan
-cssclasses: ""
 ---
-
 # International Crisis Group
 
 ## Perfil TL (Resumen Ejecutivo)
@@ -31,7 +28,7 @@ cssclasses: ""
 *   "Previniendo guerras y salvando vidas". "Análisis independiente sobre el terreno". Narrativas de Tier B destinadas a captar el apoyo del Tier C humanitario. El Tier C cree que estas organizaciones son "árbitros de paz", cuando en realidad son los cartógrafos que el Tier A envía antes de que lleguen los tanques o los préstamos del FMI para reconstruir el país que ellos mismos ayudaron a desestabilizar.
 
 ## Conexiones Clave
-- [[George Soros / Open Society]] (Su financista principal)
+- [[00_Glosario - Conceptos Fase 1#George Soros / Open Society\|George Soros / Open Society]] (Su financista principal)
 - [[OTAN / ONU]] (Sus brazos ejecutores)
 - [[Doctrina R2P (Responsabilidad de Proteger)]] (Su marco legal)
 - [[Cambio de Régimen (Estrategia)]] (Su objetivo táctico)

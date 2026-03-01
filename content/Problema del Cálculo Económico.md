@@ -1,5 +1,5 @@
 ---
-titulo: "Problema Del Cálculo Económico (v2.0): La Ceguera Del Leviatán"
+titulo: "Problema Del Cálculo Económico (TL V.2): La Ceguera Del Leviatán"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [clculo, econmico, ludwig, problema]
 publish: true
 ---
-# Problema Del Cálculo Económico (v2.0): La Ceguera Del Leviatán
+# Problema Del Cálculo Económico (TL V.2): La Ceguera Del Leviatán
 
 > [!ABSTRACT] Hipótesis Informativa
 > El Problema del Cálculo Económico es el **golpe de gracia intelectual de [[Tier C]] contra la Planificación Central**. Formulado por [[Ludwig von Mises]] en 1920, demuestra que sin propiedad privada de los medios de producción, no hay precios reales; y sin precios, es imposible saber qué, cómo y cuánto producir de manera racional. El socialismo y el intervencionismo pesado de **[[Tier A]]** no son solo ineficientes, sino **Estructuralmente Imposibles**: son intentos de gestionar un sistema complejo mediante la fuerza bruta, lo que conduce inevitablemente al caos, la escasez y la destrucción de la civilización.
@@ -30,7 +30,7 @@ publish: true
 - [[F.A. Hayek]]: Quien expandió el argumento hacia el "Uso del Conocimiento en la Sociedad".
 - [[Escuela Austríaca]]: El marco metodológico que sostiene esta tesis.
 - [[Problema de Incentivos]]: El hermano menor (moral) del problema del cálculo (lógico).
-- [[URSS]]: El laboratorio de campo que confirmó la teoría mediante la miseria masiva.
+- [[00_Glosario - Conceptos Fase 1#URSS\|URSS]]: El laboratorio de campo que confirmó la teoría mediante la miseria masiva.
 
 ## Conclusión Del Análisis
 El Cálculo Económico es la prueba de que el mundo no puede ser una hoja de Excel gestionada por una élite. Nos enseña que **la libertad es una necesidad técnica**, no solo un anhelo moral. Sin libertad para elegir y poseer, la mente humana pierde su capacidad para razonar sobre el mundo material. El Tier C debe entender que cada regulación es un paso hacia la oscuridad informativa, y que la única "salida" al caos económico es la devolución total del poder de cálculo a los individuos soberanos.
@@ -38,7 +38,8 @@ El Cálculo Económico es la prueba de que el mundo no puede ser una hoja de Exc
 ---
 **Versión:** 2.0
 **Enfoque:** La imposibilidad lógica de la planificación central, precios como sistema de comunicación y la crítica a la tecnocracia de IA de Tier A.
-**Estado:** Refactoreado a v2.0 - Framework de Epistemología Económica.
+**Estado:** Refactoreado a TL V.2 - Framework de Epistemología Económica.
+
 
 
 

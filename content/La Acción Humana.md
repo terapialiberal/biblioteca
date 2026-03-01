@@ -1,5 +1,5 @@
 ---
-titulo: "La Acción Humana (v2.0): El Código Fuente De La Desobediencia Económica"
+titulo: "La Acción Humana (TL V.2): El Código Fuente De La Desobediencia Económica"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [accin, fuente, ludwig, praxeologa]
 publish: true
 ---
-# La Acción Humana (v2.0): El Código Fuente De La Desobediencia Económica
+# La Acción Humana (TL V.2): El Código Fuente De La Desobediencia Económica
 
 > [!ABSTRACT] Hipótesis Informativa
 > *La Acción Humana* de **[[Ludwig von Mises]]** constituye el **manual de supervivencia intelectual frente a la Matrix colectivista**. Al fundamentar la economía en la **[[Praxeología]]** (el estudio de la acción humana deliberada), Mises desmantela la visión de la sociedad como una máquina que puede ser gestionada por tecnócratas de [[Tier B]]. Su tesis sobre la **imposibilidad del cálculo económico en el socialismo** es el veredicto definitivo contra la ingeniería social del [[Tier A]], demostrando que cualquier intento de centralizar el conocimiento destruye la base física de la civilización: la capacidad de asignar recursos para satisfacer necesidades reales.
@@ -46,6 +46,7 @@ publish: true
 **Versión:** 2.0
 **Enfoque:** Economía como ciencia de la acción (no de números), condonación lógica del socialismo por falta de cálculo y la inflación como robo de Tier B hacia Tier C.
 **Estado:** Refactorización Completa.
+
 
 
 

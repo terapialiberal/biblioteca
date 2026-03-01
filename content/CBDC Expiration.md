@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-09T17:32:49.772-03:00
-modified: 2026-02-27T13:22:16.856-03:00
+modified: 2026-02-27T13:22:41.561-03:00
 tags:
   - dinero
   - expiration

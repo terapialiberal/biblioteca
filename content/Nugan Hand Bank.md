@@ -1,5 +1,5 @@
 ---
-titulo: "Nugan Hand Bank (v2.0): El Cajero Automático De La Guerra Negra"
+titulo: "Nugan Hand Bank (TL V.2): El Cajero Automático De La Guerra Negra"
 tipo: empresa
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [automtico, guerra, negra, nugan]
 publish: true
 ---
-# Nugan Hand Bank (v2.0): El Cajero Automático De La Guerra Negra
+# Nugan Hand Bank (TL V.2): El Cajero Automático De La Guerra Negra
 
 > [!ABSTRACT] Hipótesis Informativa
 > Nugan Hand Bank fue el **prototipo de la Banca Criminal de [[Tier A]]**. No operaba bajo las reglas del mercado, sino como una **lavandería de narcodólares** diseñada por la comunidad de inteligencia (CIA) para financiar operaciones encubiertas, golpes de estado y tráfico de armas en el sudeste asiático y Australia sin supervisión legislativa. Su existencia demuestra que para la élite de Tier A, el narcotráfico masivo del **[[Tier C]]** no es un problema social a combatir, sino una fuente necesaria de liquidez "fuera de los libros" para mantener su hegemonía geopolítica.
@@ -39,7 +39,8 @@ Nugan Hand Bank es la ventana por la cual podemos ver los cimientos de la Matrix
 ---
 **Versión:** 2.0
 **Enfoque:** Finanzas negras para operaciones encubiertas, rol de la CIA en el narcotráfico y la desestabilización política de Australia como caso de estudio.
-**Estado:** Refactoreado a v2.0 - Framework de Narcofinanzas de Estado.
+**Estado:** Refactoreado a TL V.2 - Framework de Narcofinanzas de Estado.
+
 
 
 

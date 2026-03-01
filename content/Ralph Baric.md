@@ -1,5 +1,5 @@
 ---
-titulo: "Ralph Baric (v2.0): El Arquitecto Del Virus Quimérico"
+titulo: "Ralph Baric (TL V.2): El Arquitecto Del Virus Quimérico"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [arquitecto, ecohealth, quimrico, ralph]
 publish: true
 ---
-# Ralph Baric (v2.0): El Arquitecto Del Virus Quimérico
+# Ralph Baric (TL V.2): El Arquitecto Del Virus Quimérico
 
 > [!ABSTRACT] Hipótesis Informativa
 > Ralph Baric es el **Científico de [[Tier B]]** que perfeccionó las herramientas de creación de virus sintéticos que hicieron posible la pandemia de COVID-19. Como líder en la investigación de coronavirus en la Universidad de Carolina del Norte (UNC), Baric desarrolló las técnicas de "genética inversa" y sistemas sin costuras (seamless) que permiten manipular virus sin dejar rastro de intervención humana. Su colaboración con **[[Shi Zhengli]]** (la "Mujer Murciélago" de Wuhan) y el financiamiento de la **[[EcoHealth Alliance]]** de Peter Daszak lo sitúan en el nexo entre el complejo bio-militar de EE.UU. y los laboratorios de máxima seguridad del **[[Tier A]]**.
@@ -39,7 +39,8 @@ Ralph Baric nos enseña que **el progreso científico sin ética es el prólogo 
 ---
 **Versión:** 2.0
 **Enfoque:** La creación técnica del SARS-CoV-2 quimérico, la transferencia de tecnología a Wuhan y el rol de las patentes de genética inversa en la bioguerra moderna.
-**Estado:** Refactoreado a v2.0 - Framework de Biopolítica y Bio-armamento.
+**Estado:** Refactoreado a TL V.2 - Framework de Biopolítica y Bio-armamento.
+
 
 
 

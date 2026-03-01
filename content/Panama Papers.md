@@ -1,5 +1,5 @@
 ---
-titulo: "Panama Papers (v2.0): La Limpieza Selectiva Del Capital"
+titulo: "Panama Papers (TL V.2): La Limpieza Selectiva Del Capital"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [george, limpieza, papers, selectiva]
 publish: true
 ---
-# Panama Papers (v2.0): La Limpieza Selectiva Del Capital
+# Panama Papers (TL V.2): La Limpieza Selectiva Del Capital
 
 > [!ABSTRACT] Hipótesis Informativa
 > Los Panama Papers no fueron un triunfo del periodismo independiente, sino una **Operación de Guerra Financiera de [[Tier A]]** ejecutada para destruir la competencia de los paraísos fiscales offshore independientes (Panamá, Islas Vírgenes) y forzar el flujo de capitales hacia los paraísos fiscales controlados por el sistema de EE.UU. (Delaware, Nevada, South Dakota). La filtración de 11.5 millones de documentos de Mossack Fonseca fue sospechosamente selectiva: expuso a enemigos de EE.UU. (Putin, Xi, Assad) y aliados desechables (Islandia) mientras blindaba por completo a las corporaciones y políticos de Wall Street, demostrando que en la Matrix, la "transparencia" es un arma que solo dispara en una dirección.
@@ -38,7 +38,8 @@ Los Panama Papers nos enseñan que **quien controla la filtración controla la h
 ---
 **Versión:** 2.0
 **Enfoque:** La selectividad de la filtración, el papel de Soros y USAID en el ICIJ, y la centralización del capital offshore en EE.UU. tras la destrucción de Mossack Fonseca.
-**Estado:** Refactoreado a v2.0 - Framework de Guerra de Información Financiera.
+**Estado:** Refactoreado a TL V.2 - Framework de Guerra de Información Financiera.
+
 
 
 

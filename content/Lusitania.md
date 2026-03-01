@@ -1,15 +1,12 @@
 ---
+titulo: "Lusitania: El Sacrificio Necesario Para La Guerra"
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [edward, guerra, necesario, sacrificio]
 publish: true
-created: 2026-01-29T19:17:23.157-03:00
-modified: 2026-02-27T13:23:16.873-03:00
-tags:
-  - edward
-  - guerra
-  - necesario
-  - sacrificio
-cssclasses: ""
 ---
-
 # Lusitania: El Sacrificio Necesario Para La Guerra
 
 > [!ABSTRACT] Resumen de Inteligencia
@@ -31,12 +28,13 @@ El Lusitania es el prototipo de la **Falsa Bandera Pasiva**: no hace falta dispa
 ---
 
 ## Conexiones De La Red
-- **Arquitectos:** [[Winston Churchill]], [[J.P. Morgan]], [[Edward Mandell House]].
+- **Arquitectos:** [[Winston Churchill]], [[J.P. Morgan]], [[Edward Mandel House\|Edward Mandell House]].
 - **Políticos:** [[Woodrow Wilson]] (quien ganó con el eslogan "Ã‰l nos mantuvo fuera de la guerra").
 - **Táctica:** [[Falsa Bandera]], [[Propaganda de Atrocidad]].
-- **Contexto:** [[Primera Guerra Mundial]], [[Banca Central]].
+- **Contexto:** [[Primera Guerra Mundial]], [[00_Glosario - Conceptos Fase 1#Banca Central\|Banca Central]].
 
-**Estado:** Refactoreado a v2.0 - Framework de Ingeniería de Guerra.
+**Estado:** Refactoreado a TL V.2 - Framework de Ingeniería de Guerra.
+
 
 
 

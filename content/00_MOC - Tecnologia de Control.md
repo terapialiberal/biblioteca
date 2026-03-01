@@ -1,15 +1,12 @@
 ---
 publish: true
-created: 2026-02-24T13:33:13.310-03:00
-modified: 2026-02-27T13:21:56.224-03:00
-tags:
-  - 00-moc
-  - deepmind
-  - openai
-  - tecnologa
-cssclasses: ""
+titulo: 🤖 MOC — TECNOLOGÍA DE CONTROL
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [00-moc, deepmind, openai, tecnologa]
 ---
-
 # 🤖 MOC — TECNOLOGÍA DE CONTROL
 
 > **Doctrina final (Mecanismo de Extracción TL-INTEL)**: No es fascismo ni comunismo.
@@ -28,7 +25,7 @@ cssclasses: ""
 
 ### Infraestructura Y Financiamiento
 ### Complejo Militar-IA (Tier B)
-- [[Anduril Industries]] — La guerra autónoma privatizada (v12_1)
+- [[Anduril Industries]] — La guerra autónoma privatizada (TL V.2)
 - [[Shield AI]] — Enjambres de drones con IA
 - [[Palmer Luckey]] — El visionario del hardware de defensa
 - [[Alex Karp]] — El ideólogo de Palantir
@@ -95,7 +92,7 @@ cssclasses: ""
 ## 🧬 BIOSEGURIDAD Y CONTROL CORPORAL
 
 ### La Infraestructura De Bioseguridad
-- [[Tratado de Pandemias OMS]] — El marco de la soberanía sanitaria global (v12_1)
+- [[Tratado de Pandemias OMS]] — El marco de la soberanía sanitaria global (TL V.2)
 - [[GAVI]] — La alianza para la logística biopolítica y el ID digital
 - [[CEPI]] — La alianza para la preparación epidémica
 - [[EcoHealth Alliance]] — El intermediario del lab leak
@@ -123,7 +120,7 @@ cssclasses: ""
 ### Internet De Los Cuerpos
 - [[Internet de los Cuerpos (IoB)]] — El siguiente paso
 - [[Internet of Bio-Nano Things (IoBNT)]] — Nanotecnología en el cuerpo
-- [[99_AI/Legacy/Neuralink & Transhumanismo]] — Musk y la interfaz cerebro-máquina
+- [[Neuralink & Transhumanismo]] — Musk y la interfaz cerebro-máquina
 - [[Optogenética]] — Control neural por luz
 - [[Voice to Skull (Voz a Cráneo)]] — 🔶 Tecnología de microondas para audición dirigida
 
@@ -131,7 +128,7 @@ cssclasses: ""
 ## 🌐 CONTROL DE LA NARRATIVA DIGITAL
 
 ### Plataformas Como Armas
-- [[Algorithmic Governance]] — El gobierno de la caja negra (v12_1)
+- [[Algorithmic Governance]] — El gobierno de la caja negra (TL V.2)
 - [[Sesgo Algorítmico]] — ¿Error o diseño?
 - [[Loops de Dopamina]] — El diseño adictivo de las plataformas
 - [[Dead Internet Theory]] — El desierto de lo sintético
@@ -140,7 +137,7 @@ cssclasses: ""
 
 ### Censura Industrial
 - [[Complejo Industrial de la Censura]] — El término de Mike Benz
-- [[Election Integrity Partnership (EIP)]] — La censura electoral coordinada
+- [[Election Integrity Partnership\|Election Integrity Partnership (EIP)]] — La censura electoral coordinada
 - [[Virality Project]] — Supresión de narrativas COVID
 - [[Twitter Files]] — El expediente de la censura
 - [[CISA Vigilancia 2026]] — El brazo de censura del DHS
@@ -149,7 +146,7 @@ cssclasses: ""
 ## 🏙️ SMART CITIES Y CONTROL FÍSICO
 
 - [[Ciudades C40]] / [[C40 Cities]] — La red de ciudades bajo agenda climática
-- [[99_AI/Legacy/15 Minute Cities (Ciudad de 15 Minutos)]] — El concepto y sus críticos
+- [[15 Minute Cities (Ciudad de 15 Minutos)]] — El concepto y sus críticos
 - [[Las Smart Cities Fantasmas de China]] — El modelo exportado
 - [[Score Ciudadano]] — El crédito social en versión occidental
 - [[Crédito Social Chino]] — El modelo original
@@ -167,9 +164,9 @@ cssclasses: ""
 
 ## 📊 NODOS AUTOMÁTICOS (Dataview)
 
+- [[99_AI/00_INDICE_MAESTRO_IA\|00_INDICE_MAESTRO_IA]]
 - [[00_MOC - Finanzas y CBDC\|00_MOC - Finanzas y CBDC]]
-- [[01 MOC - Operaciones Psicológicas\|01 MOC - Operaciones Psicológicas]]
-- [[99_AI/Legacy/15 Minute Cities (Ciudad de 15 Minutos)\|15 Minute Cities (Ciudad de 15 Minutos)]]
+- [[00_MOC - Operaciones Psicologicas\|00_MOC - Operaciones Psicologicas]]
 - [[15-Minute Cities\|15-Minute Cities]]
 - [[Atenea - Estrategia y Control Civil\|Atenea - Estrategia y Control Civil]]
 - [[Banco de Pagos Internacionales\|Banco de Pagos Internacionales]]
@@ -185,7 +182,6 @@ cssclasses: ""
 - [[China accede a tecnología nuclear de EEUU a través\|China accede a tecnología nuclear de EEUU a través]]
 - [[CISA Vigilancia 2026\|CISA Vigilancia 2026]]
 - [[Computación Espacial\|Computación Espacial]]
-- [[Control de Grid Energético\|Control de Grid Energético]]
 - [[Control Risks\|Control Risks]]
 - [[Crédito Social\|Crédito Social]]
 - [[Crédito Social Chino\|Crédito Social Chino]]
@@ -207,7 +203,6 @@ cssclasses: ""
 - [[Hallazgos detallados de la investigación de AP sob\|Hallazgos detallados de la investigación de AP sob]]
 - [[Horus - El Ojo de la Vigilancia\|Horus - El Ojo de la Vigilancia]]
 - [[Jeff Bezos\|Jeff Bezos]]
-- [[John McAfee\|John McAfee]]
 - [[John Poindexter\|John Poindexter]]
 - [[La Comisión Trilateral califica al 2023 como el Añ\|La Comisión Trilateral califica al 2023 como el Añ]]
 - [[Las conexiones de Jeffrey Epstein en la industria de la vigilancia\|Las conexiones de Jeffrey Epstein en la industria de la vigilancia]]
@@ -220,6 +215,7 @@ cssclasses: ""
 - [[Nuevo Bretton Woods\|Nuevo Bretton Woods]]
 - [[Palantir, financiada por la CIA vinculada a Israel\|Palantir, financiada por la CIA vinculada a Israel]]
 - [[Patriot Act\|Patriot Act]]
+- [[Patron - Deepfake\|Patron - Deepfake]]
 - [[Programa PRISM\|Programa PRISM]]
 - [[Rishi Sunak\|Rishi Sunak]]
 - [[Sanger Institute\|Sanger Institute]]
@@ -232,12 +228,12 @@ cssclasses: ""
 - [[Trump firma una orden ejecutiva que impide a los e\|Trump firma una orden ejecutiva que impide a los e]]
 - [[01_Ideas/video-baby-trump-blackrock\|video-baby-trump-blackrock]]
 - [[01_Ideas/video-silicon-valley-cia\|video-silicon-valley-cia]]
-- [[Vigilancia Predictiva\|Vigilancia Predictiva]]
 
 
 ---
 
 *MOC creado: 2026-02-24 | Parte del [[INDEX_MAESTRO]]*
+
 
 
 

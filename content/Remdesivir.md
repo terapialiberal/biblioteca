@@ -1,5 +1,5 @@
 ---
-titulo: "Remdesivir (Protocolo) (v2.0): El Estándar De La Mortalidad Inducida"
+titulo: "Remdesivir (Protocolo) (TL V.2): El Estándar De La Mortalidad Inducida"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [estndar, inducida, protocolo, remdesivir]
 publish: true
 ---
-# Remdesivir (Protocolo) (v2.0): El Estándar De La Mortalidad Inducida
+# Remdesivir (Protocolo) (TL V.2): El Estándar De La Mortalidad Inducida
 
 > [!ABSTRACT] Hipótesis Informativa
 > El Remdesivir (comercializado como Veklury) es el **Fármaco de [[Tier B]]** que se impuso como el estándar único de tratamiento hospitalario para COVID-19 a pesar de su probada ineficacia y su alta toxicidad renal. Producido por **[[Gilead Sciences]]** y defendido agresivamente por **[[Anthony Fauci]]**, el protocolo Remdesivir funcionó como un **Acelerador de Letalidad**: la falla renal y el edema pulmonar resultantes del fármaco fueron sistemáticamente confundidos con los efectos del virus, justificando el uso masivo de ventilación mecánica y aumentando las estadísticas de mortalidad que alimentaban la narrativa de emergencia de la Matrix sanitaria.
@@ -38,7 +38,8 @@ El Protocolo Remdesivir nos enseña que **la medicina oficial puede ser usada co
 ---
 **Versión:** 2.0
 **Enfoque:** La toxicidad renal del Remdesivir, los incentivos financieros de los hospitales para su uso y la proscripción de tratamientos alternativos para asegurar el monopolio de Gilead.
-**Estado:** Refactoreado a v2.0 - Framework de Biopolítica Médica e Iatrogenia.
+**Estado:** Refactoreado a TL V.2 - Framework de Biopolítica Médica e Iatrogenia.
+
 
 
 

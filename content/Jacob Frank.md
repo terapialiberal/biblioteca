@@ -1,5 +1,5 @@
 ---
-titulo: "Jacob Frank (v2.0): El Mesías De La Inversión Moral"
+titulo: "Jacob Frank (TL V.2): El Mesías De La Inversión Moral"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [frank, inversin, jacob, sabbatai]
 publish: true
 ---
-# Jacob Frank (v2.0): El Mesías De La Inversión Moral
+# Jacob Frank (TL V.2): El Mesías De La Inversión Moral
 
 > [!ABSTRACT] Hipótesis Informativa
 > Jacob Frank fue el **ingeniero jefe del mimetismo subversivo**. Al radicalizar la doctrina de [[Sabbatai Zevi]], estableció que la única vía a la redención era la violación sistemática de todas las leyes divinas y humanas ("Redención a través del Pecado"). El frankismo no fue solo una secta, sino un **modelo de infiltración institucional** que permitió a su élite de seguidores penetrar en la nobleza y el clero europeo fingiendo conversiones, con el objetivo de erosionar el orden tradicional desde sus cimientos y preparar el terreno para las revoluciones nihilistas del [[Tier A]].
@@ -45,6 +45,7 @@ Jacob Frank fue el hombre que descubrió que **la oscuridad más eficiente es la
 **Versión:** 2.0
 **Enfoque:** Infiltración institucional, redención a través del pecado y el origen místico del nihilismo revolucionario.
 **Estado:** Refactorización Completa.
+
 
 
 

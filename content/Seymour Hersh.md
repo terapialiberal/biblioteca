@@ -1,5 +1,5 @@
 ---
-titulo: "Seymour Hersh (v2.0): El Cirujano De Los Secretos Del Imperio"
+titulo: "Seymour Hersh (TL V.2): El Cirujano De Los Secretos Del Imperio"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [hersh, sabotaje, secretos, vietnam]
 publish: true
 ---
-# Seymour Hersh (v2.0): El Cirujano De Los Secretos Del Imperio
+# Seymour Hersh (TL V.2): El Cirujano De Los Secretos Del Imperio
 
 > [!ABSTRACT] Hipótesis Informativa
 > Seymour Hersh es el **Investigador de [[Tier C]]** más letal para la narrativa oficial de la Matrix angloamericana. Con una carrera de más de 50 años, ha sido el encargado de realizar la **"Autopsia de las Operaciones Negras"** del Estado Profundo, exponiendo desde la masacre de My Lai en Vietnam hasta el sabotaje del gasoducto **[[Sabotaje del Nord Stream\|Nord Stream]]** en 2023. Su función real es la de un **"Agente de Transparencia Traumática"**: utiliza sus fuentes profundas dentro de la comunidad de inteligencia de Tier B para revelar que las "guerras por la democracia" son, en realidad, actos de terrorismo de Estado o ingeniería geopolítica destinados a mantener la hegemonía del **[[Tier A]]**.
@@ -41,7 +41,8 @@ Seymour Hersh nos enseña que **la verdad es la única arma capaz de perforar el
 ---
 **Versión:** 2.0
 **Enfoque:** Hersh como periodista de investigación clave contra el Deep State, sus hitos históricos (My Lai, Abu Ghraib, Nord Stream) y su transición a la independencia total en Substack ante la censura de los medios de Tier A.
-**Estado:** Refactoreado a v2.0 - Framework de Periodismo de Investigación y Transparencia.
+**Estado:** Refactoreado a TL V.2 - Framework de Periodismo de Investigación y Transparencia.
+
 
 
 

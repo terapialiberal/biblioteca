@@ -1,5 +1,5 @@
 ---
-titulo: "Red Echelon (v2.0): El Oído Invisible De La Matrix"
+titulo: "Red Echelon (TL V.2): El Oído Invisible De La Matrix"
 tipo: organizacion
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,10 +7,10 @@ nivel-evidencia: "medio"
 tags: [invisible, matrix, odo, panptico]
 publish: true
 ---
-# Red Echelon (v2.0): El Oído Invisible De La Matrix
+# Red Echelon (TL V.2): El Oído Invisible De La Matrix
 
 > [!ABSTRACT] Hipótesis Informativa
-> La Red Echelon es la **Infraestructura de Interceptación de Señales (SIGINT) de [[Tier A]]** operada por la alianza de los **[[Five Eyes (Los Cinco Ojos)]]**. Lo que comenzó como un sistema para espiar a la URSS se transformó en una red de arrastre global capaz de capturar billones de faxes, correos electrónicos, llamadas y señales de satélite en tiempo real. Su función real es proveer a la élite anglo-americana de una **Ventaja Estratégica Total**: desde el espionaje industrial contra competidores de **[[Tier B]]** hasta el mapeo preventivo de cualquier disidencia soberana de **[[Tier C]]**, eliminando la noción de privacidad en las comunicaciones digitales.
+> La Red Echelon es la **Infraestructura de Interceptación de Señales (SIGINT) de [[Tier A]]** operada por la alianza de los **[[00_Glosario - Conceptos Fase 1#Five Eyes (Los Cinco Ojos)\|Five Eyes (Los Cinco Ojos)]]**. Lo que comenzó como un sistema para espiar a la URSS se transformó en una red de arrastre global capaz de capturar billones de faxes, correos electrónicos, llamadas y señales de satélite en tiempo real. Su función real es proveer a la élite anglo-americana de una **Ventaja Estratégica Total**: desde el espionaje industrial contra competidores de **[[Tier B]]** hasta el mapeo preventivo de cualquier disidencia soberana de **[[Tier C]]**, eliminando la noción de privacidad en las comunicaciones digitales.
 
 ## Análisis De Tiers
 
@@ -26,7 +26,7 @@ publish: true
 2.  **Espionaje Industrial Geopolítico**: Uso de la red militar para recolectar secretos comerciales y de patentes de empresas extranjeras, transfiriendo esa inteligencia a corporaciones estratégicas de EE.UU. para asegurar el dominio económico del Tier A.
 
 ## Conexiones Críticas
-- [[Five Eyes (Los Cinco Ojos)]] - La estructura política de la red.
+- [[00_Glosario - Conceptos Fase 1#Five Eyes (Los Cinco Ojos)\|Five Eyes (Los Cinco Ojos)]] - La estructura política de la red.
 - [[NSA]]: El cerebro técnico de Echelon.
 - [[Menwith Hill]]: La estación de escucha más grande del mundo (Reino Unido).
 - [[Vigilancia Masiva]]: El modelo operativo que Echelon inauguró.
@@ -38,7 +38,8 @@ La Red Echelon nos enseña que **el aire que respiramos está lleno de oídos es
 ---
 **Versión:** 2.0
 **Enfoque:** Echelon como herramienta de espionaje industrial y político de los Five Eyes, el uso de estaciones globales como Menwith Hill y la legalización del espionaje doméstico vía intercambio internacional.
-**Estado:** Refactoreado a v2.0 - Framework de Vigilancia Global y SIGINT.
+**Estado:** Refactoreado a TL V.2 - Framework de Vigilancia Global y SIGINT.
+
 
 
 

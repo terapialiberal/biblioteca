@@ -1,5 +1,13 @@
 ---
-titulo: "Julian Assange (v2.0): El Rompeolas De La Matrix Informativa"
+titulo: Julian Assange
+tipo: 'organizacion'
+tier-primario: 'b'
+nivel-evidencia: 'medio'
+tags: [clasificado-ai]
+publish: true
+---
+﻿---
+titulo: "Julian Assange (TL V.2): El Rompeolas De La Matrix Informativa"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,10 +15,10 @@ nivel-evidencia: "medio"
 tags: [assange, matrix, vault, wikileaks]
 publish: true
 ---
-# Julian Assange (v2.0): El Rompeolas De La Matrix Informativa
+# Julian Assange (TL V.2): El Rompeolas De La Matrix Informativa
 
 > [!ABSTRACT] Hiptesis Informativa
-> Julian Assange representa la **insurreccin del cdigo contra el secreto de Estado**. A travs de **[[WikiLeaks]]**, Assange transform la criptografa en una herramienta de rendicin de cuentas masiva, exponiendo la criminalidad sistmica del [[Tier A]] atlantista (crmenes de guerra en Irak/Afganistn, espionaje diplomtico, manipulacin electoral). Su persecucin y tortura psicolgica prolongada constituyen el castigo ejemplar del sistema para disuadir a cualquier operativo de [[Tier B]] o ciudadano de [[Tier C]] de intentar perforar el velo de la opacidad gubernamental. Assange no es solo un periodista; es el arquitecto de una nueva soberana basada en la verdad tcnica e irrefutable.
+> Julian Assange representa la **insurreccin del cdigo contra el secreto de Estado**. A travs de **[[00_Glosario - Conceptos Fase 1#WikiLeaks\|WikiLeaks]]**, Assange transform la criptografa en una herramienta de rendicin de cuentas masiva, exponiendo la criminalidad sistmica del [[Tier A]] atlantista (crmenes de guerra en Irak/Afganistn, espionaje diplomtico, manipulacin electoral). Su persecucin y tortura psicolgica prolongada constituyen el castigo ejemplar del sistema para disuadir a cualquier operativo de [[Tier B]] o ciudadano de [[Tier C]] de intentar perforar el velo de la opacidad gubernamental. Assange no es solo un periodista; es el arquitecto de una nueva soberana basada en la verdad tcnica e irrefutable.
 
 ## Anlisis De Tiers
 
@@ -42,9 +50,10 @@ publish: true
 Julian Assange es el **"Prometeo del Siglo XXI"**. Rob el fuego de la informacin a los dioses de Tier A y se lo entreg al Tier C, y por ello ha sido encadenado a la piedra del sistema judicial internacional. Su legado es la prueba de que en la era digital, la nica defensa contra la tirana es la **transparencia total de los poderosos**. Assange nos ense que la Matrix se mantiene en pie gracias a nuestras mentiras aceptadas, y que un solo hombre con un servidor y un ideal de libertad puede hacer temblar los cimientos de la mayor estructura de espionaje de la historia. Entender a Assange es comprender que la verdadera guerra de nuestra era no es por el territorio, sino por la **propiedad de la verdad**.
 
 ---
-**Versi�n:** 2.0
-**Enfoque:** WikiLeaks como ruptura del monopolio informativo, persecuci�n estatal como tortura ejemplar y la verdad t�cnica como herramienta de liberaci�n del Tier C.
-**Estado:** Refactorizaci�n Completa.
+**Versiï¿½n:** 2.0
+**Enfoque:** WikiLeaks como ruptura del monopolio informativo, persecuciï¿½n estatal como tortura ejemplar y la verdad tï¿½cnica como herramienta de liberaciï¿½n del Tier C.
+**Estado:** Refactorizaciï¿½n Completa.
+
 
 
 

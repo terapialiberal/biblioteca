@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:17.963-03:00
-modified: 2026-02-27T13:06:22.125-03:00
+modified: 2026-02-27T13:06:38.479-03:00
 tags:
   - bayer
   - farben

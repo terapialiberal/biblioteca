@@ -1,15 +1,12 @@
 ---
+titulo: Yoel Roth
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [aspen, roth, vijaya, yoel]
 publish: true
-created: 2026-01-29T19:17:44.854-03:00
-modified: 2026-02-27T13:24:12.142-03:00
-tags:
-  - aspen
-  - roth
-  - vijaya
-  - yoel
-cssclasses: ""
 ---
-
 # Yoel Roth
 
 > [!INFO] Perfil Operativo (Tier B)
@@ -36,7 +33,7 @@ Fue la figura instrumental interna que justificó el baneo de Donald Trump en en
 - [[Vijaya Gadde]] (Su jefa legal)
 - [[Aspen Institute]] (Comisión de desinformación)
 - [[Twitter Files]]
-- [[Censura Digital]]
+- [[00_Glosario - Conceptos Fase 1#Censura Digital\|Censura Digital]]
 
 ## Fuentes
 - Twitter Files (Partes 1-8).

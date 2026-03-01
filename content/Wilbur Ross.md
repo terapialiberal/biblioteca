@@ -1,15 +1,12 @@
 ---
+titulo: Resumen General
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [donald, ross, rothschild, wilbur]
 publish: true
-created: 2026-01-29T19:17:44.252-03:00
-modified: 2026-02-27T13:24:10.626-03:00
-tags:
-  - donald
-  - ross
-  - rothschild
-  - wilbur
-cssclasses: ""
 ---
-
 # Resumen General
 Wilbur Ross (1937-) fue Secretario de Comercio bajo Trump (2017-2021). Antes de eso, fue el representante de los intereses Rothschild en Estados Unidos y el artífice del rescate financiero de los casinos de Trump en Atlantic City en los años 90.
 
@@ -31,7 +28,7 @@ Wilbur Ross (1937-) fue Secretario de Comercio bajo Trump (2017-2021). Antes de 
 
 # Conexiones
 - [[Donald Trump]]
-- [[Rothschild and Co.]]
+- [[Rothschild and Co\|Rothschild and Co.]]
 - [[Peter Thiel]]
 - [[Atlantic City]]
 - [[City of London]]

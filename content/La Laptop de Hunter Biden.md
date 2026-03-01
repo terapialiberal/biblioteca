@@ -1,5 +1,5 @@
 ---
-titulo: "La Laptop De Hunter Biden (v2.0): El Registro De La Decadencia Oligárquica"
+titulo: "La Laptop De Hunter Biden (TL V.2): El Registro De La Decadencia Oligárquica"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [biden, burisma, decadencia, twitter]
 publish: true
 ---
-# La Laptop De Hunter Biden (v2.0): El Registro De La Decadencia Oligárquica
+# La Laptop De Hunter Biden (TL V.2): El Registro De La Decadencia Oligárquica
 
 > [!ABSTRACT] Hipótesis Informativa
 > La laptop abandonada por Hunter Biden constituye el **archivo forense más devastador sobre la arquitectura de captura de rentas del [[Tier B]] político estadounidense**. Más allá del contenido escandaloso personal, el dispositivo documenta la venta de acceso al Poder Ejecutivo (**[[Joe Biden]]**) a intereses energéticos y financieros de Ucrania y China. La importancia sistémica del caso reside en la respuesta del **Complejo Industrial de la Censura**: la coordinación masiva entre agencias de inteligencia y plataformas digitales para suprimir una verdad verificable bajo la etiqueta de "desinformación rusa", alterando el curso de las elecciones presidenciales de 2020.
@@ -35,7 +35,7 @@ publish: true
 ## Conexiones Críticas
 - [[Joe Biden]]: El beneficiario final de las gestiones y el blindaje mediático.
 - [[Twitter Files]]: La filtración posterior que demostró la colusión entre el FBI y Twitter.
-- [[Burisma]]: La empresa ucraniana que pagaba por el acceso de Tier B.
+- [[00_Glosario - Conceptos Fase 1#Burisma\|Burisma]]: La empresa ucraniana que pagaba por el acceso de Tier B.
 - [[Tony Bobulinski]]: El socio comercial que confirmó la identidad del "Big Guy".
 - [[Deep State]]: El actor colectivo de inteligencia que protegió la narrativa.
 
@@ -46,6 +46,7 @@ La Laptop de Hunter Biden es el **"Caja Negra" del sistema de poder estadouniden
 **Versión:** 2.0
 **Enfoque:** Tráfico de influencias internacional de la familia Biden, censura coordinada entre el complejo de inteligencia y Silicon Valley, y el uso del concepto de "desinformación" como arma de guerra informativa doméstica.
 **Estado:** Refactorización Completa.
+
 
 
 

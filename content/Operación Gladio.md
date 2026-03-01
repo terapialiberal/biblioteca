@@ -1,5 +1,5 @@
 ---
-titulo: "Operación Gladio (v2.0): El Terrorismo De Estado Como Herramienta De Control"
+titulo: "Operación Gladio (TL V.2): El Terrorismo De Estado Como Herramienta De Control"
 tipo: evento
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [estado, herramienta, otan, terrorismo]
 publish: true
 ---
-# Operación Gladio (v2.0): El Terrorismo De Estado Como Herramienta De Control
+# Operación Gladio (TL V.2): El Terrorismo De Estado Como Herramienta De Control
 
 > [!ABSTRACT] Hipótesis Informativa
 > La Operación Gladio fue la red de **ejércitos secretos de la [[OTAN]]** diseñados para asegurar que el **[[Tier A]]** mantuviera el control de Europa Occidental durante y después de la Guerra Fría. Utilizando la **Estrategia de la Tensión**, estas redes subordinadas a la **[[CIA]]** y al **[[MI6]]** ejecutaron ataques de bandera falsa contra el **[[Tier C]]** civil para culpar a la izquierda política y forzar a la población a refugiarse en el autoritarismo de derecha. Gladio demuestra que para el sistema, el terrorismo no es un enemigo externo, sino una **tecnología de gestión social** utilizada para impedir cualquier desviación de la agenda atlantista.
@@ -39,7 +39,8 @@ La Operación Gladio es la prueba definitiva de que los estados modernos están 
 ---
 **Versión:** 2.0
 **Enfoque:** Ejércitos secretos de la OTAN, Estrategia de la Tensión y la evolución hacia "Gladio B" (terrorismo islámico como proxy).
-**Estado:** Refactoreado a v2.0 - Framework de Operación Continua de Inteligencia.
+**Estado:** Refactoreado a TL V.2 - Framework de Operación Continua de Inteligencia.
+
 
 
 

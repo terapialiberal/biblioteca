@@ -1,5 +1,5 @@
 ---
-titulo: "Nicolás Caputo (v2.0): El Patriarca Del Capitalismo De Amigos"
+titulo: "Nicolás Caputo (TL V.2): El Patriarca Del Capitalismo De Amigos"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [amigos, capitalismo, luis, patriarca]
 publish: true
 ---
-# Nicolás Caputo (v2.0): El Patriarca Del Capitalismo De Amigos
+# Nicolás Caputo (TL V.2): El Patriarca Del Capitalismo De Amigos
 
 > [!ABSTRACT] Hipótesis Informativa
 > Nicolás "Nicky" Caputo es el **nodo de anclaje del Establishment argentino**. Representa la fusión indisoluble entre el **Tier B** político (su relación simbiótica con **[[Mauricio Macri]]**) y el **Tier A** corporativo (el poder de las licitaciones estatales y el proteccionismo). Caputo es el ejemplo vivo de que en Argentina el "liberalismo de mercado" es a menudo solo una narrativa de exportación; el negocio real reside en la captura de rentas del Estado mediante el acceso privilegiado a la mesa de decisiones, asegurando que los beneficios de la familia y sus socios internacionales permanezcan intocables bajo cualquier bandera ideológica.
@@ -28,7 +28,7 @@ publish: true
 
 ## Conexiones Críticas
 - [[Mauricio Macri]]: Su plataforma histórica de poder político.
-- [[Luis "Toto" Caputo]]: El nexo con el endeudamiento internacional.
+- [[00_Glosario - Conceptos Fase 1#Luis "Toto" Caputo\|Luis "Toto" Caputo]]: El nexo con el endeudamiento internacional.
 - [[Santiago Caputo]]: El estratega del nuevo ciclo de poder (Milei).
 - [[Obra Pública (Argentina)]]: El motor de su acumulación inicial.
 - [[Mirgor]]: El emblema del proteccionismo de casta.
@@ -39,7 +39,8 @@ Nicolás Caputo es el recordatorio de que en Argentina las caras cambian pero lo
 ---
 **Versión:** 2.0
 **Enfoque:** Fusión de poder político-empresarial, rol en el régimen de Tierra del Fuego (Mirgor) y la transversalidad de la familia Caputo en el Estado argentino.
-**Estado:** Refactoreado a v2.0 - Framework de Capitalismo de Casta.
+**Estado:** Refactoreado a TL V.2 - Framework de Capitalismo de Casta.
+
 
 
 

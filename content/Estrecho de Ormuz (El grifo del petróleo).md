@@ -30,7 +30,7 @@ publish: true
 ## Conexiones Clave
 - [[Sistema Petrodlar (Hegemona y Guerra)]] (La razn financiera)
 - [[Irn]] (El guardin de la costa norte)
-- [[Escalada Israel-Irn 2024]] (Contexto reciente de tensin)
+- [[Escalada Israel-Irán 2024\|Escalada Israel-Irn 2024]] (Contexto reciente de tensin)
 - [[Puntos de Estrangulamiento (Choke Points Martimos)]] (Su categora estratgica)
 
 ## Por Qu Importa (Estilo Nico)

@@ -1,4 +1,12 @@
 ---
+titulo: Fondo Noruego
+tipo: 'organizacion'
+tier-primario: 'a'
+nivel-evidencia: 'medio'
+tags: [clasificado-ai]
+publish: true
+---
+﻿---
 titulo: "Fondo Noruego (NBIM): El Dueo Silencioso Del Planeta"
 tipo: persona
 fecha: 2026-02-25
@@ -40,8 +48,9 @@ publish: true
 - [[TSMC]]: La joya de la corona tecnolgica bajo su control.
 
 ---
-**Falsabilidad**: Si el gobierno noruego decide liquidar el fondo para gasto interno ante una crisis social o si las naciones receptoras de inversi�n (como EEUU) bloquean el derecho a voto de fondos extranjeros, el NBIM perder�a su capacidad de control sist�mico.
+**Falsabilidad**: Si el gobierno noruego decide liquidar el fondo para gasto interno ante una crisis social o si las naciones receptoras de inversiï¿½n (como EEUU) bloquean el derecho a voto de fondos extranjeros, el NBIM perderï¿½a su capacidad de control sistï¿½mico.
 
-*Versi�n: 1.0 | Protocolo TL-INTEL v12_0*
+*Versiï¿½n: 1.0 | Protocolo TL-INTEL TL V.2*
+
 
 

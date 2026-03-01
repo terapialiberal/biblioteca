@@ -1,21 +1,18 @@
 ---
+titulo: The Octopus (El Pulpo)
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [bcci, octopus, promis, pulpo]
 publish: true
-created: 2026-01-29T19:17:11.517-03:00
-modified: 2026-02-27T13:22:36.269-03:00
-tags:
-  - bcci
-  - octopus
-  - promis
-  - pulpo
-cssclasses: ""
 ---
-
 # The Octopus (El Pulpo)
 
 ## Perfil TL (Resumen Ejecutivo)
 **¿Qué es?** El nombre dado por el periodista **Danny Casolaro** a una red transnacional de inteligencia, finanzas y crimen organizado que presuntamente controlaba eventos clave de finales del siglo XX, operando por encima de las estructuras gubernamentales formales.
 
-**¿Por qué importa?** "The Octopus" es la **radiografía del Estado Profundo operando como una mafia corporativa**. Casolaro fue encontrado muerto en una bañera con las muñecas cortadas múltiples veces cuando estaba a punto de recibir pruebas sobre la interconexión de: el robo del software **[[PROMIS Software]]** por parte del Departamento de Justicia, el lavado de dinero del **[[BCCI Scandal]]**, el escándalo **[[Irán-Contra]]** y la manipulación de la elección de 1980 (**October Surprise**). La red utilizaba bases militares y corporaciones de seguridad privada (**Wackenhut/G4S**) para desarrollar armas biológicas y software de espionaje con backdoors para vigilar a aliados y enemigos. La muerte de Casolaro y el silenciamiento de testigos como **[[Michael Riconosciuto]]** demuestran que "El Pulpo" no es una teoría, sino una infraestructura operativa que asegura que los secretos del Tier A permanezcan enterrados bajo una capa de "suicidios" y archivos clasificados.
+**¿Por qué importa?** "The Octopus" es la **radiografía del Estado Profundo operando como una mafia corporativa**. Casolaro fue encontrado muerto en una bañera con las muñecas cortadas múltiples veces cuando estaba a punto de recibir pruebas sobre la interconexión de: el robo del software **[[PROMIS Software]]** por parte del Departamento de Justicia, el lavado de dinero del **[[00_Glosario - Conceptos Fase 1#BCCI Scandal\|BCCI Scandal]]**, el escándalo **[[Irán-Contra]]** y la manipulación de la elección de 1980 (**October Surprise**). La red utilizaba bases militares y corporaciones de seguridad privada (**Wackenhut/G4S**) para desarrollar armas biológicas y software de espionaje con backdoors para vigilar a aliados y enemigos. La muerte de Casolaro y el silenciamiento de testigos como **[[Michael Riconosciuto]]** demuestran que "El Pulpo" no es una teoría, sino una infraestructura operativa que asegura que los secretos del Tier A permanezcan enterrados bajo una capa de "suicidios" y archivos clasificados.
 
 ## Análisis De Poder (Tiers)
 

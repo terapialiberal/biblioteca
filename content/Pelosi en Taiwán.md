@@ -1,5 +1,5 @@
 ---
-titulo: "Pelosi En Taiwán (v2.0): El Test De Estrés Del Estrecho"
+titulo: "Pelosi En Taiwán (TL V.2): El Test De Estrés Del Estrecho"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [estrs, pelosi, plausible, test]
 publish: true
 ---
-# Pelosi En Taiwán (v2.0): El Test De Estrés Del Estrecho
+# Pelosi En Taiwán (TL V.2): El Test De Estrés Del Estrecho
 
 > [!ABSTRACT] Hipótesis Informativa
 > La visita de Nancy Pelosi a Taiwán en 2022 no fue un acto de "solidaridad democrática", sino una **Operación de Provocación y Reconocimiento de [[Tier A]]** diseñada para testear las líneas rojas militares de China y acelerar el desacople tecnológico. Enmarcada en la guerra por el control de los semiconductores (**[[TSMC]]**), la visita forzó a Beijing a mostrar su capacidad de bloqueo total de la isla, permitiendo a la inteligencia estadounidense mapear la respuesta táctica china mientras se enviaba un mensaje claro a la industria de **[[Tier B]]** de que la "Paz de Taiwán" ha terminado y la relocalización de la producción de chips es imperativa.
@@ -38,7 +38,8 @@ Pelosi en Taiwán nos enseña que **el teatro político es la máscara de la gue
 ---
 **Versión:** 2.0
 **Enfoque:** La provocación como herramienta de mapeo militar chino, la centralidad de TSMC y la transición de Taiwán de aliado a campo de batalla tecnológico.
-**Estado:** Refactoreado a v2.0 - Framework de Geopolítica Tecnológica.
+**Estado:** Refactoreado a TL V.2 - Framework de Geopolítica Tecnológica.
+
 
 
 

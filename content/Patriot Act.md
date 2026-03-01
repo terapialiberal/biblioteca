@@ -1,5 +1,5 @@
 ---
-titulo: "Patriot Act (v2.0): El Acta De Defunción De La Privacidad"
+titulo: "Patriot Act (TL V.2): El Acta De Defunción De La Privacidad"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [patriot, privacidad, problema, vigilancia]
 publish: true
 ---
-# Patriot Act (v2.0): El Acta De Defunción De La Privacidad
+# Patriot Act (TL V.2): El Acta De Defunción De La Privacidad
 
 > [!ABSTRACT] Hipótesis Informativa
 > La USA PATRIOT Act es la **Legislación Maestro de [[Tier A]]** diseñada para demoler los límites constitucionales a la vigilancia gubernamental bajo la excusa del terrorismo. Aprobada mediante la técnica de **[[Problema-Reacción-Solución]]** solo 45 días después del 11 de septiembre, esta ley de 300+ páginas estaba **Pre-Redactada** años antes (con borradores de **[[Joe Biden]]** en 1995), esperando el evento catalizador necesario para su imposición. Representa el paso definitivo hacia un Estado de Vigilancia Omnipresente donde el ciudadano de **[[Tier C]]** es tratado como un sospechoso permanente, eliminando la necesidad de órdenes judiciales para el espionaje masivo.
@@ -38,7 +38,8 @@ La Patriot Act nos enseña que **las crisis son el combustible de la tiranía le
 ---
 **Versión:** 2.0
 **Enfoque:** La pre-redacción de la ley antes del 11-S, el papel de Joe Biden en los borradores previos, y la demolición de la Cuarta Enmienda para el control doméstico.
-**Estado:** Refactoreado a v2.0 - Framework de Legislación de Control.
+**Estado:** Refactoreado a TL V.2 - Framework de Legislación de Control.
+
 
 
 

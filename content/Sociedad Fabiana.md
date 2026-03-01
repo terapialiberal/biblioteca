@@ -1,5 +1,5 @@
 ---
-titulo: "Sociedad Fabiana (v2.0): Los Arquitectos Del Gradualismo Totalitario"
+titulo: "Sociedad Fabiana (TL V.2): Los Arquitectos Del Gradualismo Totalitario"
 tipo: organizacion
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [fabiana, george, london, totalitario]
 publish: true
 ---
-# Sociedad Fabiana (v2.0): Los Arquitectos Del Gradualismo Totalitario
+# Sociedad Fabiana (TL V.2): Los Arquitectos Del Gradualismo Totalitario
 
 > [!ABSTRACT] Hipótesis Informativa
 > La Sociedad Fabiana es la **Organización de Diseño Ideológico de [[Tier A]]** más exitosa de la modernidad. Fundada en 1884 por intelectuales británicos como George Bernard Shaw y **[[H.G. Wells]]**, su función real en la Matrix ha sido la de un **"Ingeniero de la Transformación Silenciosa"**: implementar el socialismo colectivista no mediante la revolución violenta, sino a través del **Gradualismo** y la infiltración institucional ("permeación"). Su lema histórico, ilustrado en el famoso "Fabian Window", muestra a la élite moldeando el mundo con un martillo mientras su escudo original â€”un **lobo con piel de oveja**â€” revela su estrategia: la captura total del Estado mediante la domesticación lenta y técnica de la soberanía del **[[Tier C]]**.
@@ -42,7 +42,8 @@ La Sociedad Fabiana nos enseña que **el lobo más peligroso es el que se viste 
 ---
 **Versión:** 2.0
 **Enfoque:** La Sociedad Fabiana como motor del gradualismo y la infiltración institucional, su rol en la creación de la LSE y el Labour Party, la influencia de H.G. Wells y Shaw, y el uso de la piel de oveja para ocultar una agenda de control tecnocrático global.
-**Estado:** Refactoreado a v2.0 - Framework de Ingeniería Social e Ideología de Ã‰lite.
+**Estado:** Refactoreado a TL V.2 - Framework de Ingeniería Social e Ideología de Ã‰lite.
+
 
 
 

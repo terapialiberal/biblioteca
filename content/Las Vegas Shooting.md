@@ -1,5 +1,5 @@
 ---
-titulo: "Las Vegas Shooting (v2.0): El Debacle De La Operación En La Sombra"
+titulo: "Las Vegas Shooting (TL V.2): El Debacle De La Operación En La Sombra"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,10 +7,10 @@ nivel-evidencia: "medio"
 tags: [arabia, debacle, shooting, vegas]
 publish: true
 ---
-# Las Vegas Shooting (v2.0): El Debacle De La Operación En La Sombra
+# Las Vegas Shooting (TL V.2): El Debacle De La Operación En La Sombra
 
 > [!ABSTRACT] Hipótesis Informativa
-> La masacre de Las Vegas de 2017 constituye el **evento de "Gestión de Crisis Colectiva" más opaco y anómalo del siglo XXI**. Lejos de la narrativa oficial del "lobo solitario" (Tier C), el tiroteo presenta todas las marcas de una **operación de inteligencia de [[Tier A]] (Sting Operation o Intento de Asesinato)** que sufrió un colapso catastrófico. El uso de **Stephen Paddock** como un "patsy" (cabeza de turco) con vínculos probados con el Complejo Militar-Industrial (**Lockheed Martin**), el reporte de múltiples tiradores y la sincronización con la purga de poder en **[[Arabia Saudita]]** sugieren que el tiroteo fue la "limpieza de ruido" necesaria para cubrir un enfrentamiento armado de alto nivel entre facciones del Deep State y la corona saudí en los pisos superiores del Mandalay Bay.
+> La masacre de Las Vegas de 2017 constituye el **evento de "Gestión de Crisis Colectiva" más opaco y anómalo del siglo XXI**. Lejos de la narrativa oficial del "lobo solitario" (Tier C), el tiroteo presenta todas las marcas de una **operación de inteligencia de [[Tier A]] (Sting Operation o Intento de Asesinato)** que sufrió un colapso catastrófico. El uso de **Stephen Paddock** como un "patsy" (cabeza de turco) con vínculos probados con el Complejo Militar-Industrial (**Lockheed Martin**), el reporte de múltiples tiradores y la sincronización con la purga de poder en **[[00_Glosario - Conceptos Fase 1#Arabia Saudita\|Arabia Saudita]]** sugieren que el tiroteo fue la "limpieza de ruido" necesaria para cubrir un enfrentamiento armado de alto nivel entre facciones del Deep State y la corona saudí en los pisos superiores del Mandalay Bay.
 
 ## Análisis De Tiers
 
@@ -34,7 +34,7 @@ publish: true
 
 ## Conexiones Críticas
 - [[FBI]]: El director de la narrativa post-evento y custodio del secreto.
-- [[Arabia Saudita]] / [[MBS]]: El factor geopolítico que da sentido al incidente.
+- [[00_Glosario - Conceptos Fase 1#Arabia Saudita\|Arabia Saudita]] / [[MBS]]: El factor geopolítico que da sentido al incidente.
 - [[MGM Resorts]]: La corporación de Tier B que facilitó la escena y el encubrimiento posterior.
 - [[Lockheed Martin]]: El cordón umbilical que unía al tirador con el Complejo Militar-Industrial.
 - [[Operación Fast and Furious]]: Un antecedente de "entrega de armas fallida" que resuena con la logística de Paddock.
@@ -46,6 +46,7 @@ Las Vegas Shooting no fue un crimen; fue un **Debacle de Ingeniería en la Sombr
 **Versión:** 2.0
 **Enfoque:** Anomalías acústicas y balísticas, conexión con la purga real saudí (MBS), rol de Paddock como activo de inteligencia y la orquestación del encubrimiento por parte del FBI y MGM.
 **Estado:** Refactorización Completa.
+
 
 
 

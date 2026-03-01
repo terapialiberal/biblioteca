@@ -1,16 +1,13 @@
 ---
+titulo: "Sir James Goldsmith (TL V.2): El Maverick De La Disidencia Élite"
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [disidencia, gatt, james, maverick]
 publish: true
-created: 2026-01-29T19:17:36.943-03:00
-modified: 2026-02-27T13:23:56.023-03:00
-tags:
-  - disidencia
-  - gatt
-  - james
-  - maverick
-cssclasses: ""
 ---
-
-# Sir James Goldsmith (v2.0): El Maverick De La Disidencia Élite
+# Sir James Goldsmith (TL V.2): El Maverick De La Disidencia Élite
 
 > [!ABSTRACT] Hipótesis Informativa
 > Sir James Goldsmith fue el **Operador de [[Tier B]]** que prefiguró el surgimiento del populismo nacionalista y el Brexit décadas antes de su materialización. Como magnate financiero de éxito masivo, su función real en la Matrix fue la de un **"Agente de Disidencia de Alto Nivel"**: utilizar su inmensa fortuna para oponerse al globalismo mercantilista (**[[GATT]]**) y a la integración europea, actuando como un faro para el descontento del **[[Tier C]]** mientras mantenía vínculos íntimos con el corazón de la aristocracia financiera de Tier A. Goldsmith representa la facción de la élite que aboga por un capitalismo local y ecológicamente consciente frente a la tecnocracia de Bruselas.
@@ -44,7 +41,8 @@ Sir James Goldsmith nos enseña que **las voces más peligrosas para el sistema 
 ---
 **Versión:** 2.0
 **Enfoque:** Sir James Goldsmith como precursor del euroescepticismo y el antiglobalismo, su origen en la élite financiera y su giro hacia la defensa de la soberanía nacional y la ecología, su uso del Referendum Party para alterar la política del Reino Unido y su crítica visionaria al GATT y la integración europea.
-**Estado:** Refactoreado a v2.0 - Framework de Maverick Financiero y Disidencia de Élite.
+**Estado:** Refactoreado a TL V.2 - Framework de Maverick Financiero y Disidencia de Élite.
+
 
 
 

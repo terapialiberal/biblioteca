@@ -1,5 +1,5 @@
 ---
-titulo: "La Fiesta De Olivos (v2.0): El Colapso De La Autoridad Moral"
+titulo: "La Fiesta De Olivos (TL V.2): El Colapso De La Autoridad Moral"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,10 +7,10 @@ nivel-evidencia: "medio"
 tags: [alberto, autoridad, colapso, fiesta]
 publish: true
 ---
-# La Fiesta De Olivos (v2.0): El Colapso De La Autoridad Moral
+# La Fiesta De Olivos (TL V.2): El Colapso De La Autoridad Moral
 
 > [!ABSTRACT] Hipótesis Informativa
-> "La Fiesta de Olivos" constituyó la **evidencia empírica de la desconexión ontológica entre el [[Tier B]] político y el [[Tier C]] civil**. Durante el período de restricciones bioseguridad más estrictas en la historia argentina, el presidente **[[Alberto Fernández]]** y su círculo íntimo celebraron eventos sociales que el propio gobierno había criminalizado para el resto de la población. Este evento no fue un simple error de etiqueta, sino la demostración de que para los administradores del sistema, las leyes son **herramientas de control de masas** que no se aplican a los arquitectos del orden, rompiendo irreversiblemente el contrato social y abonando el terreno para la emergencia de liderazgos anti-sistema.
+> "La Fiesta de Olivos" constituyó la **evidencia empírica de la desconexión ontológica entre el [[Tier B]] político y el [[Tier C]] civil**. Durante el período de restricciones bioseguridad más estrictas en la historia argentina, el presidente **[[00_Glosario - Conceptos Fase 1#Alberto Fernández\|Alberto Fernández]]** y su círculo íntimo celebraron eventos sociales que el propio gobierno había criminalizado para el resto de la población. Este evento no fue un simple error de etiqueta, sino la demostración de que para los administradores del sistema, las leyes son **herramientas de control de masas** que no se aplican a los arquitectos del orden, rompiendo irreversiblemente el contrato social y abonando el terreno para la emergencia de liderazgos anti-sistema.
 
 ## Análisis De Tiers
 
@@ -33,9 +33,9 @@ publish: true
 3. **Gestión de la Información Segmentada**: El intento inicial de ocultar los registros de ingresos a Olivos, demostrando que la transparencia es una concesión graciosa del poder y no un derecho del ciudadano.
 
 ## Conexiones Críticas
-- [[Alberto Fernández]]: El responsable jerárquico y rostro de la hipocresía.
+- [[00_Glosario - Conceptos Fase 1#Alberto Fernández\|Alberto Fernández]]: El responsable jerárquico y rostro de la hipocresía.
 - [[Cuarentena Argentina (ASPO)]]: El marco legal de opresión que se violó en la fiesta.
-- [[Vacunatorio VIP]]: El otro pilar de la gestión de privilegios de Tier B durante la pandemia.
+- [[El Vacunatorio VIP\|Vacunatorio VIP]]: El otro pilar de la gestión de privilegios de Tier B durante la pandemia.
 - [[Javier Milei]]: El capitalizador político del odio generado por este evento.
 - [[Justicia de Dos Niveles]]: El concepto legal que explica por qué el presidente no fue procesado como un ciudadano común.
 
@@ -46,6 +46,7 @@ La Fiesta de Olivos fue el **"Momento María Antonieta"** de la política argent
 **Versión:** 2.0
 **Enfoque:** Ruptura del contrato social por hipocresía de élite, demostración de la "Justicia de Dos Niveles" y el impacto del escándalo en la emergencia de fenomenos anti-casta.
 **Estado:** Refactorización Completa.
+
 
 
 

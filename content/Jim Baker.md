@@ -1,5 +1,5 @@
 ---
-titulo: "Jim Baker (v2.0): El Comisario De La Puerta Giratoria"
+titulo: "Jim Baker (TL V.2): El Comisario De La Puerta Giratoria"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [baker, comisario, puerta, twitter]
 publish: true
 ---
-# Jim Baker (v2.0): El Comisario De La Puerta Giratoria
+# Jim Baker (TL V.2): El Comisario De La Puerta Giratoria
 
 > [!ABSTRACT] Hipótesis Informativa
 > Jim Baker es la **evidencia física de la fusión entre la policía política y la censura tecnológica**. Su carrera, que transita sin fricciones desde la asesoría general del [[FBI]] hasta la dirección legal de [[Twitter]], demuestra que el aparato de inteligencia no "vigila" a las Big Tech, sino que las **coordina desde adentro**. Su función para el [[Tier A]] ha sido actuar como el "validador legal" de operaciones de guerra psicológica doméstica, asegurando que la verdad incómoda para el sistema sea etiquetada y suprimida como "amenaza a la seguridad nacional".
@@ -45,6 +45,7 @@ Jim Baker es el **"Filtro de Seguridad" de la Mentira de Estado**. Su trabajo co
 **Versión:** 2.0
 **Enfoque:** Puerta giratoria inteligencia-tech, supresión de información electoral y el rol de los abogados en el Deep State.
 **Estado:** Refactorización Completa.
+
 
 
 

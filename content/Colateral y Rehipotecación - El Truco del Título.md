@@ -1,15 +1,12 @@
 ---
+titulo: Colateral Y Rehipotecación — El Truco Del Título
+tipo: "concepto"
+fecha: 2026-02-25
+tags: [colateral, rehipotecacin, tokenizacin, truco]
+tier-primario: "a"
+nivel-evidencia: "alto"
 publish: true
-created: 2026-02-25T22:49:09.065-03:00
-modified: 2026-02-27T13:22:21.032-03:00
-tags:
-  - colateral
-  - rehipotecacin
-  - tokenizacin
-  - truco
-cssclasses: ""
 ---
-
 
 # Colateral Y Rehipotecación — El Truco Del Título
 
@@ -36,9 +33,9 @@ cssclasses: ""
 - "Tengo mi casa pagada" o "Tengo mis acciones en el broker". El Tier C no entiende que su derecho de propiedad ha sido subordinado legalmente a la solvencia de la institución financiera que custodia sus activos.
 
 ## Conexiones Críticas
-- [[The Great Taking (David Webb)]]: El estudio definitivo sobre este proceso.
+- [[00_Glosario - Conceptos Fase 1#The Great Taking (David Webb)\|The Great Taking (David Webb)]]: El estudio definitivo sobre este proceso.
 - [[Banca en la Sombra - El Sistema Financiero Paralelo]]: Donde ocurre la rehipotecación masiva.
-- [[Tokenización de Activos Reales (RWA)]]: La digitalización del colateral para facilitar su captura instantánea algorítmica.
+- [[Tokenización de Activos Reales\|Tokenización de Activos Reales (RWA)]]: La digitalización del colateral para facilitar su captura instantánea algorítmica.
 
 ## Cui Bono
 **Las Entidades Sistémicamente Importantes (SIFIs)**. Tienen el privilegio legal de cobrar sus reclamaciones de colateral antes que cualquier otro depositante o inversor.

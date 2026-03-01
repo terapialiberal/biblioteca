@@ -1,5 +1,5 @@
 ---
-titulo: "Seven Sisters (v2.0): El Cartel Energético Que Diseñó El Siglo XX"
+titulo: "Seven Sisters (TL V.2): El Cartel Energético Que Diseñó El Siglo XX"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [cartel, energtico, seven, sisters]
 publish: true
 ---
-# Seven Sisters (v2.0): El Cartel Energético Que Diseñó El Siglo XX
+# Seven Sisters (TL V.2): El Cartel Energético Que Diseñó El Siglo XX
 
 > [!ABSTRACT] Hipótesis Informativa
 > Las "Siete Hermanas" fue el **Cartel Oligopólico de [[Tier A]]** que controló la producción, el refinamiento y el precio del petróleo mundial durante gran parte del siglo XX. Consolidado tras el **Acuerdo de Achnacarry (1928)**, este grupo de siete compañías angloamericanas eliminó la competencia para establecer un dominio total sobre el recurso vital de la Matrix industrial. Su función real fue la de un **"Gobierno Invisible de la Energía"**: dictaron la política exterior de las naciones, financiaron el ascenso y caída de dictadores y aseguraron que la soberanía del **[[Tier C]]** global dependiera de un suministro energético controlado por los herederos de la **[[Standard Oil]]** y los intereses imperiales europeos.
@@ -32,7 +32,7 @@ publish: true
 - [[Standard Oil]]: La matriz genética de la mayoría de las Hermanas.
 - [[John D. Rockefeller]]: El arquitecto intelectual del monopolio energético.
 - [[Operación Ajax]]: El clímax del poder del cartel sobre la soberanía nacional.
-- [[Petrodólares]]: El sistema financiero que sostiene el poder del petróleo.
+- [[Petrodólar\|Petrodólares]]: El sistema financiero que sostiene el poder del petróleo.
 - [[Cartel de Energía]]: La estructura de colusión perpetua.
 
 ## Conclusión Del Análisis
@@ -41,7 +41,8 @@ Las Siete Hermanas nos enseñan que **quien controla la energía, controla el ri
 ---
 **Versión:** 2.0
 **Enfoque:** El cartel de las petroleras como gobierno invisible, el Acuerdo de Achnacarry, la eliminación de la competencia, el papel de la inteligencia en la protección de sus intereses y la consolidación de las Supermajors actuales.
-**Estado:** Refactoreado a v2.0 - Framework de Energía y Geopolítica Corporativa.
+**Estado:** Refactoreado a TL V.2 - Framework de Energía y Geopolítica Corporativa.
+
 
 
 

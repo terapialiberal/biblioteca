@@ -1,21 +1,29 @@
 ---
+titulo: Alquimia Operativa
+tipo: 'concepto'
+tier-primario: 'b'
+nivel-evidencia: 'medio'
+tags: [clasificado-ai]
 publish: true
-created: 2026-02-25T22:08:56.798-03:00
-modified: 2026-02-27T11:50:42.351-03:00
-tags:
-  - alquimia
-  - operativa
-cssclasses: ""
 ---
-
+﻿---
+publish: true
+titulo: Alquimia Operativa
+tipo: concepto
+fecha: 2026-02-25
+tags: [alquimia, operativa]
+tier-primario: b
+nivel-evidencia: medio
+---
 
 # Alquimia Operativa
 
-> [!ABSTRACT] Hipótesis Informativa
-> Nodo perteneciente a la Matrix de Simbolismo y Esoterismo v12_0.
+> [!ABSTRACT] HipÃ³tesis Informativa
+> Nodo perteneciente a la Matrix de Simbolismo y Esoterismo TL V.2.
 
-## Análisis De Tiers
+## AnÃ¡lisis De Tiers
 *En desarrollo...*
 
 ## Cui Bono
-*Pendiente de análisis forense.*
+*Pendiente de anÃ¡lisis forense.*
+

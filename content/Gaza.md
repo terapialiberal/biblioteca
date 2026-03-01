@@ -1,5 +1,13 @@
 ---
-titulo: "Gaza (v2.0): Del Enclave De Resistencia Al Hub Logstico Privatizado"
+titulo: Gaza
+tipo: 'concepto'
+tier-primario: 'b'
+nivel-evidencia: 'medio'
+tags: [clasificado-ai]
+publish: true
+---
+﻿---
+titulo: "Gaza (TL V.2): Del Enclave De Resistencia Al Hub Logstico Privatizado"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +15,7 @@ nivel-evidencia: "medio"
 tags: [enclave, gaza, imec, privatizado]
 publish: true
 ---
-# Gaza (v2.0): Del Enclave De Resistencia Al Hub Logstico Privatizado
+# Gaza (TL V.2): Del Enclave De Resistencia Al Hub Logstico Privatizado
 
 > [!ABSTRACT] Hiptesis Informativa
 > Gaza constituye el **escenario de laboratorio definitivo del [[Tier A]] para la liquidacin de una nacin y su reemplazo por una infraestructura corporativa transnacional**. Histricamente gestionada como una "crcel a cielo abierto" para contener la resistencia demogrfica palestina, la Franja est siendo sometida a una fase de **demolicin controlada y limpieza de terreno** (post-7 de octubre) para liberar su valor estratgico como nodo portuario de aguas profundas del corredor **[[IMEC]]**. Bajo planes como el **[[Great Trust (Plan Gaza)]]**, el territorio dejar de ser una entidad poltica palestina para convertirse en una "propiedad frente al mar" gestionada por el capital del Golfo y fondos de inversin occidentales (**[[Affinity Partners]]**).
@@ -43,9 +51,10 @@ publish: true
 Gaza es el **"Punto Cero de la Privatizacin Geoestratgica"**. Su importancia reside en haber revelado que en el siglo XXI, el Estado-Nacin ya no es el lmite del poder; el lmite es el **contrato de concesin logstica**. No es un conflicto religioso; es una **operacin de M&A (Fusiones y Adquisiciones) territorial**. Entender Gaza es comprender que el Tier A ya no busca "conquistar" personas, busca **vaciar el espacio para instalar infraestructuras**. Para el Tier C, es la mayor tragedia de su historia; para el Tier A, es el **costo operativo necesario para que el mapa coincida con su hoja de ruta comercial**.
 
 ---
-**Versi�n:** 2.0
-**Enfoque:** Gaza como zona de liquidaci�n de activos, plan de hub log�stico IMEC, rol de la ingenier�a social via Blair/Kushner y la teolog�a de despojo vinculada a Chabad.
-**Estado:** Refactorizaci�n Completa e Integraci�n de Datos 2025.
+**Versiï¿½n:** 2.0
+**Enfoque:** Gaza como zona de liquidaciï¿½n de activos, plan de hub logï¿½stico IMEC, rol de la ingenierï¿½a social via Blair/Kushner y la teologï¿½a de despojo vinculada a Chabad.
+**Estado:** Refactorizaciï¿½n Completa e Integraciï¿½n de Datos 2025.
+
 
 
 

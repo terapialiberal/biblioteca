@@ -1,5 +1,5 @@
 ---
-titulo: "Revelaciones De Snowden (v2.0): El Desgarro Del Velo Del Panóptico"
+titulo: "Revelaciones De Snowden (TL V.2): El Desgarro Del Velo Del Panóptico"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [booz, five, panptico, revelaciones]
 publish: true
 ---
-# Revelaciones De Snowden (v2.0): El Desgarro Del Velo Del Panóptico
+# Revelaciones De Snowden (TL V.2): El Desgarro Del Velo Del Panóptico
 
 > [!ABSTRACT] Hipótesis Informativa
 > Las revelaciones de Edward Snowden en 2013 constituyen el **Punto de Inflexión de [[Tier C]]** en el que la humanidad cobró conciencia de la existencia de la **Matrix de Vigilancia Total**. Snowden, un analista de infraestructura de **[[Booz Allen Hamilton]]**, expuso documentos que demostraban que la **[[NSA]]** y sus aliados de los **[[Five Eyes]]** habían capturado ilegalmente toda la infraestructura de comunicación global. Su función real fue demostrar que el concepto de "derecho a la privacidad" es una cáscara vacía frente a la capacidad técnica del **[[Tier A]]** para interceptar, almacenar y procesar cada bit de información humana mediante programas como **[[PRISM]]** y **[[XKeyscore]]**.
@@ -30,7 +30,7 @@ publish: true
 - [[Edward Snowden]]: El denunciante que sacrificó su vida en el sistema.
 - [[Programa PRISM]]: El nexo entre Big Tech e Inteligencia.
 - [[XKeyscore]]: El motor de búsqueda que permite "leer cualquier email del mundo".
-- [[Five Eyes (Los Cinco Ojos)]]: La alianza geopolítica que sustenta la red.
+- [[00_Glosario - Conceptos Fase 1#Five Eyes (Los Cinco Ojos)\|Five Eyes (Los Cinco Ojos)]]: La alianza geopolítica que sustenta la red.
 - [[Julian Assange]]: Su contraparte en la revelación de crímenes de guerra.
 
 ## Conclusión Del Análisis
@@ -39,7 +39,8 @@ Las revelaciones de Snowden nos enseñan que **si algo es técnico, será utiliz
 ---
 **Versión:** 2.0
 **Enfoque:** Snowden como el catalizador de la conciencia sobre la vigilancia total, la entrega de datos de Big Tech a través de PRISM y la naturaleza global e ilegal de la alianza Five Eyes.
-**Estado:** Refactoreado a v2.0 - Framework de Vigilancia y Soberanía Digital.
+**Estado:** Refactoreado a TL V.2 - Framework de Vigilancia y Soberanía Digital.
+
 
 
 

@@ -1,14 +1,12 @@
 ---
 publish: true
-created: 2026-01-29T19:17:02.626-03:00
-modified: 2026-02-27T16:24:29.451-03:00
-tags:
-  - cristina
-  - naciones
-  - relato
-cssclasses: ""
+titulo: 678 Y El Relato
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [cristina, naciones, relato]
 ---
-
 # 678 Y El Relato
 
 ## Resumen General
@@ -25,7 +23,7 @@ Programa emitido por la TV Pública (2009-2015). Producido por **Diego Gvirtz**.
 ## Conexiones
 - [[Pauta Oficial]]
 - [[Propaganda]]
-- [[Kirchnerismo]]
+- [[00_Glosario - Conceptos Fase 1#Kirchnerismo\|Kirchnerismo]]
 
 
 

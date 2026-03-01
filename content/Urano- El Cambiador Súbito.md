@@ -1,22 +1,29 @@
 ---
+titulo: Urano- El Cambiador Súbito
+tipo: 'concepto'
+tier-primario: 'b'
+nivel-evidencia: 'medio'
+tags: [clasificado-ai]
 publish: true
-created: 2026-02-25T22:08:53.778-03:00
-modified: 2026-02-27T13:24:06.854-03:00
-tags:
-  - cambiador
-  - sbito
-  - urano
-cssclasses: ""
+---
+﻿---
+titulo: "Urano: El Cambiador SÃºbito"
+tipo: "concepto"
+fecha: 2026-02-25
+tags: [cambiador, sbito, urano]
+tier-primario: "b"
+nivel-evidencia: "medio"
+publish: true
 ---
 
+# Urano: El Cambiador SÃºbito
 
-# Urano: El Cambiador Súbito
+> [!ABSTRACT] HipÃ³tesis Informativa
+> Nodo perteneciente a la Matrix de Simbolismo y Esoterismo TL V.2.
 
-> [!ABSTRACT] Hipótesis Informativa
-> Nodo perteneciente a la Matrix de Simbolismo y Esoterismo v12_0.
-
-## Análisis De Tiers
+## AnÃ¡lisis De Tiers
 *En desarrollo...*
 
 ## Cui Bono
-*Pendiente de análisis forense.*
+*Pendiente de anÃ¡lisis forense.*
+

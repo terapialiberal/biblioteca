@@ -33,7 +33,7 @@ En 2013, filtró miles de documentos sobre programas de vigilancia masiva:
 ## Conexiones
 - [[NSA]]
 - [[Revelaciones de Snowden]]
-- [[Glenn Greenwald]]
+- [[00_Glosario - Conceptos Fase 1#Glenn Greenwald\|Glenn Greenwald]]
 
 ## Fuentes
 - "Permanent Record" (autobiografía)

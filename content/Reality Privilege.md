@@ -1,16 +1,13 @@
 ---
+titulo: REALITY PRIVILEGE (TL V.2)
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "a"
+nivel-evidencia: "alto"
+tags: [apartheid, reality, sector, virtual]
 publish: true
-created: 2026-02-25T16:12:41.152-03:00
-modified: 2026-02-27T13:23:47.533-03:00
-tags:
-  - apartheid
-  - reality
-  - sector
-  - virtual
-cssclasses: ""
 ---
-
-# REALITY PRIVILEGE (v12_1)
+# REALITY PRIVILEGE (TL V.2)
 
 #### BLUF
 El Privilegio de la Realidad (Reality Privilege) es la **Nueva Barrera de Clase del Siglo XXI**. En 2026, la mayor distinción de estatus no es el dinero en el banco, sino la capacidad de vivir fuera de la Matrix Algorítmica. Mientras que el **Tier C** es confinado a una existencia de bajo coste, mediada por pantallas, alimentos sintéticos ([[Lab-Grown Meat]]), y educación por IA, el **Tier A/B** consume **Realidad Pura**: comida orgánica, interacción humana física sin vigilancia, educación académica presencial y viajes analógicos. La realidad es ahora un activo de lujo.
@@ -73,6 +70,7 @@ Es una cuestión de elección personal. Cualquiera puede apagar el móvil y sali
 ¿Cuáles son los protocolos de "limpieza digital" forzosa que los servicios secretos aplican a sus agentes de Tier B para asegurar que su juicio crítico no se vea afectado por la misma internet muerta que ellos gestionan?
 
 ---
-*Dossier forense v12_1 | La Nueva Aristocracia de lo Real*
+*Dossier forense TL V.2 | La Nueva Aristocracia de lo Real*
+
 
 

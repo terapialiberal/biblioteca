@@ -1,16 +1,13 @@
 ---
+titulo: "Proyecto Huemul (TL V.2): El Sueño Atómico Y La Infiltración Nazi"
+tipo: evento
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [atmico, huemul, infiltracin, nazi]
 publish: true
-created: 2026-01-29T19:17:32.017-03:00
-modified: 2026-02-27T13:23:46.122-03:00
-tags:
-  - atmico
-  - huemul
-  - infiltracin
-  - nazi
-cssclasses: ""
 ---
-
-# Proyecto Huemul (v2.0): El Sueño Atómico Y La Infiltración Nazi
+# Proyecto Huemul (TL V.2): El Sueño Atómico Y La Infiltración Nazi
 
 > [!ABSTRACT] Hipótesis Informativa
 > El Proyecto Huemul fue la **Operación de Soberanía Tecnológica Fallida del [[Tier B]] peronista**, captada por el espejismo de la ciencia nazi tras la Segunda Guerra Mundial. Bajo la dirección de Ronald Richter (un científico alemán de dudosa reputación vinculado a la **[[Operación Paperclip]]** frustrada), Argentina anunció en 1951 haber logrado la **Fusión Nuclear Controlada**, décadas antes que el resto del mundo. El proyecto es un estudio de caso sobre cómo la necesidad de prestigio geopolítico de un líder puede ser explotada por "vendedores de humo" científicos, y cómo la herencia del conocimiento oculto nazi se dispersó por el Cono Sur buscando un nuevo refugio.
@@ -41,7 +38,8 @@ El Proyecto Huemul nos enseña que **el atajo hacia la superpotencia no existe**
 ---
 **Versión:** 2.0
 **Enfoque:** El fraude de Ronald Richter, el uso político de la energía nuclear por parte de Perón y la herencia de la ciencia alemana post-WWII en Argentina.
-**Estado:** Refactoreado a v2.0 - Framework de Historia de la Ciencia y Poder.
+**Estado:** Refactoreado a TL V.2 - Framework de Historia de la Ciencia y Poder.
+
 
 
 

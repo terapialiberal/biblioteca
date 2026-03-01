@@ -1,5 +1,5 @@
 ---
-titulo: "Playbooks Del Deep State (v2.0): El Manual De La Matrix"
+titulo: "Playbooks Del Deep State (TL V.2): El Manual De La Matrix"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [deep, matrix, palantir, state]
 publish: true
 ---
-# Playbooks Del Deep State (v2.0): El Manual De La Matrix
+# Playbooks Del Deep State (TL V.2): El Manual De La Matrix
 
 > [!ABSTRACT] Hipótesis Informativa
 > Los "Playbooks del Deep State" son el **Conjunto de Patrones Tácticos Recurrentes de [[Tier B]]** utilizados para manipular la realidad social, ejecutar cambios de régimen y silenciar la disidencia sin revelar la mano del **[[Tier A]]**. Estas tácticas van desde la creación de crisis artificiales (**Problema-Reacción-Solución**) hasta la gestión de fugas informáticas (**Limited Hangout**) y la neutralización física de amenazas. No son teorías, sino metodologías de gobernanza invisible documentadas históricamente que permiten al sistema operativo del poder mantenerse funcional mientras el individuo de **[[Tier C]]** permanece distraído en el teatro de la política formal.
@@ -39,7 +39,8 @@ Los Playbooks del Deep State nos enseñan que **el poder no improvisa; repite lo
 ---
 **Versión:** 2.0
 **Enfoque:** Compilación sintética de las tácticas de manipulación (Hegelian Dialectic, Limited Hangout, Strategy of Tension) y su aplicación histórica para consolidar el poder del Deep State.
-**Estado:** Refactoreado a v2.0 - Framework de Operatoria Sistémica.
+**Estado:** Refactoreado a TL V.2 - Framework de Operatoria Sistémica.
+
 
 
 

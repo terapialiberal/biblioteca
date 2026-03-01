@@ -1,14 +1,12 @@
 ---
 publish: true
-created: 2026-01-29T19:17:04.380-03:00
-modified: 2026-02-27T13:06:26.266-03:00
-tags:
-  - atentado
-  - hezbollah
-  - irn
-cssclasses: ""
+titulo: Atentado De Beirut 1983
+tipo: evento
+fecha: 2026-02-25
+tier-primario: b
+nivel-evidencia: medio
+tags: [atentado, hezbollah, irn]
 ---
-
 # Atentado De Beirut 1983
 
 > [!INFO] Contexto
@@ -30,7 +28,7 @@ Los Marines estaban en Beirut como "peacekeepers" tras la invasión israelí de 
 El atentado demostró que el terrorismo suicida podía derrotar a superpotencias.
 
 ## Conexiones
-- [[Hezbollah]]
+- [[00_Glosario - Conceptos Fase 1#Hezbollah\|Hezbollah]]
 - Invasion de Líbano 1982
 - [[Irán]] (sponsor)
 

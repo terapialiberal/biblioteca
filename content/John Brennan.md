@@ -1,5 +1,5 @@
 ---
-titulo: "John Brennan (v2.0): El Ejecutor De La Guerra Tecnocrática"
+titulo: "John Brennan (TL V.2): El Ejecutor De La Guerra Tecnocrática"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [barack, ejecutor, guerra, tecnocrtica]
 publish: true
 ---
-# John Brennan (v2.0): El Ejecutor De La Guerra Tecnocrática
+# John Brennan (TL V.2): El Ejecutor De La Guerra Tecnocrática
 
 > [!ABSTRACT] Hipótesis Informativa
 > John Brennan es el **arquitecto de la guerra extrajudicial y el control algorítmico de la disidencia**. Como director de la [[CIA]], normalizó el programa de asesinatos selectivos mediante drones (la "Lista de la Muerte") y la politización de la inteligencia doméstica. Brennan actúa como el nodo de conexión entre el [[Tier A]] globalista y la burocracia de inteligencia del [[Tier B]], asegurando que el Estado Profundo mantenga una soberanía operativa por encima de la ley, la supervisión del Congreso y la verdad pública.
@@ -45,6 +45,7 @@ John Brennan es el **"Inquisidor Digital"** del siglo XXI. Representa el matrimo
 **Versión:** 2.0
 **Enfoque:** Guerra de drones, saboteo institucional (Russiagate) y la fusión de inteligencia con medios masivos.
 **Estado:** Refactorización Completa.
+
 
 
 

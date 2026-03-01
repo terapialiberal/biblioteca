@@ -1,5 +1,5 @@
 ---
-titulo: "Mudflood (Diluvio De Barro) (v2.0): La Evidencia Del Reset"
+titulo: "Mudflood (Diluvio De Barro) (TL V.2): La Evidencia Del Reset"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [barro, diluvio, mudflood, reset]
 publish: true
 ---
-# Mudflood (Diluvio De Barro) (v2.0): La Evidencia Del Reset
+# Mudflood (Diluvio De Barro) (TL V.2): La Evidencia Del Reset
 
 > [!ABSTRACT] Hipótesis Informativa
 > La teoría del **Mudflood** (Diluvio de Barro) postula que a mediados del siglo XIX ocurrió un evento cataclísmico global no registrado en la historia oficial, que enterró las plantas bajas de edificios en todo el mundo bajo metros de tierra. Lejos de ser un fenómeno arquitectónico menor ("ventanas de sótano"), esta anomalía sugiere un **Reset Civilizatorio**: el **[[Tier A]]** habría heredado y reocupado ciudades magníficas construidas por una civilización anterior tecnológicamente superior (a veces llamada **[[Tartaria]]**), reescribiendo la historia para presentarse como los constructores originales y ocultar que nuestra civilización actual es una sociedad "okupa" viviendo sobre las ruinas de un pasado borrado.
@@ -39,7 +39,8 @@ El Mudflood es la "Pastilla Roja" de la arquitectura. Una vez que ves las ventan
 ---
 **Versión:** 2.0
 **Enfoque:** Hipótesis de civilización anterior (Tartaria), inconsistencias arquitectónicas, Trenes de Huérfanos como repoblación y rol del Tier A en reescribir la historia post-cataclismo.
-**Estado:** Refactoreado a v2.0 - Framework de Revisionismo Histórico Radical.
+**Estado:** Refactoreado a TL V.2 - Framework de Revisionismo Histórico Radical.
+
 
 
 

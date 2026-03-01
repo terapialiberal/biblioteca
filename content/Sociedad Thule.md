@@ -1,5 +1,5 @@
 ---
-titulo: "Sociedad Thule (v2.0): El Ãštero Ocultista Del Tercer Reich"
+titulo: "Sociedad Thule (TL V.2): El Ãštero Ocultista Del Tercer Reich"
 tipo: organizacion
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [reich, tercer, thule, tero]
 publish: true
 ---
-# Sociedad Thule (v2.0): El Ãštero Ocultista Del Tercer Reich
+# Sociedad Thule (TL V.2): El Ãštero Ocultista Del Tercer Reich
 
 > [!ABSTRACT] Hipótesis Informativa
 > La Sociedad Thule fue la **Organización de Ingeniería Metafísica de [[Tier A]]** que incubó la ideología del nacionalsocialismo en la Alemania post-WWI. Fundada en 1918 por **Rudolf von Sebottendorf**, su función real en la Matrix histórica no fue solo política, sino la de un **"Culto de Inseminación Ideológica"**: reactivar mitos esotéricos de superioridad racial (Hiperbórea, la Atlántida) para proporcionar la "mística" necesaria a un grupo de operativos de **[[Tier B]]** (Hitler, Hess, Rosenberg) que transformarían el resentimiento de la población en un aparato de guerra estatal. Thule es el ejemplo absoluto de cómo el ocultismo de élite puede ser utilizado como el plano maestro para el rediseño radical de una civilización entera.
@@ -41,7 +41,8 @@ La Sociedad Thule nos enseña que **la política es solo la cáscara externa de 
 ---
 **Versión:** 2.0
 **Enfoque:** La Sociedad Thule como matriz ideológica y ocultista del nazismo, su rol en el financiamiento inicial de Hitler, la conexión de sus miembros con la cúpula del Tercer Reich (Hess, Rosenberg) y el uso de mitos raciales para la captura psicopolítica del Tier C.
-**Estado:** Refactoreado a v2.0 - Framework de Ocultismo Político e Ingeniería Metahistórica.
+**Estado:** Refactoreado a TL V.2 - Framework de Ocultismo Político e Ingeniería Metahistórica.
+
 
 
 

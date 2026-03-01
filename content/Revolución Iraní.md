@@ -1,5 +1,5 @@
 ---
-titulo: "Revolución Iraní (v2.0): La Creación Del Enemigo Teocrático"
+titulo: "Revolución Iraní (TL V.2): La Creación Del Enemigo Teocrático"
 tipo: evento
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [creacin, enemigo, iran, zbigniew]
 publish: true
 ---
-# Revolución Iraní (v2.0): La Creación Del Enemigo Teocrático
+# Revolución Iraní (TL V.2): La Creación Del Enemigo Teocrático
 
 > [!ABSTRACT] Hipótesis Informativa
 > La Revolución Iraní de 1979 no fue un simple levantamiento religioso contra un monarca impopular, sino una **Operación de Reequilibrio de [[Tier A]]** diseñada para demoler al Shah de Irán una vez que este comenzó a buscar soberanía energética e industrial fuera del control de las Siete Hermanas (petróleo). Bajo la doctrina del "Arco de Crisis" de **[[Zbigniew Brzezinski]]**, agentes occidentales facilitaron el ascenso del **Ayatollah Khomeini** (quien fue transportado desde su exilio en París para tomar el poder). Su función real fue crear un **Enemigo Dialéctico Islámico** estable que permitiera al complejo militar-industrial justificar décadas de intervención en el Medio Oriente y el control de los precios del crudo, sacrificando el progreso secular del **[[Tier C]]** iraní en el altar de la estrategia geopolítica trasnacional.
@@ -28,7 +28,7 @@ publish: true
 ## Conexiones Críticas
 - [[Operación Ajax]]: El golpe de 1953 que instaló al Shah y plantó las semillas del resentimiento.
 - [[Zbigniew Brzezinski]]: El estratega del "Arco de Crisis" y la desestabilización del sur de la URSS.
-- [[Jimmy Carter]]: El presidente que ejecutó el abandono diplomático del Shah.
+- [[00_Glosario - Conceptos Fase 1#Jimmy Carter\|Jimmy Carter]]: El presidente que ejecutó el abandono diplomático del Shah.
 - [[Octubre Sorpresa 1980]]: La negociación secreta entre el equipo de Reagan e Irán para ganar las elecciones en EE.UU.
 - [[Irán-Contra]]: La prueba definitiva de la relación transaccional secreta entre la "Matrix teocrática" y la "Matrix de inteligencia".
 
@@ -38,7 +38,8 @@ La Revolución Iraní nos enseña que **el fanatismo religioso es, a menudo, una
 ---
 **Versión:** 2.0
 **Enfoque:** El abandono del Shah por parte de Occidente, la doctrina Brzezinski del Arco de Crisis y la función del régimen islámico como enemigo controlado y catalizador de crisis petroleras.
-**Estado:** Refactoreado a v2.0 - Framework de Geopolítica e Ingeniería de Conflictos.
+**Estado:** Refactoreado a TL V.2 - Framework de Geopolítica e Ingeniería de Conflictos.
+
 
 
 

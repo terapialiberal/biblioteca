@@ -1,5 +1,5 @@
 ---
-titulo: "Saqueo De Venezuela (v2.0): La Ingeniería Del Desfalco Del Siglo XXI"
+titulo: "Saqueo De Venezuela (TL V.2): La Ingeniería Del Desfalco Del Siglo XXI"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [desfalco, pdvsa, saqueo, venezuela]
 publish: true
 ---
-# Saqueo De Venezuela (v2.0): La Ingeniería Del Desfalco Del Siglo XXI
+# Saqueo De Venezuela (TL V.2): La Ingeniería Del Desfalco Del Siglo XXI
 
 > [!ABSTRACT] Hipótesis Informativa
 > El saqueo de Venezuela es la **Operación de Extracción de Riqueza de [[Tier A]]** más masiva de la historia republicana de América Latina. Bajo la cobertura ideológica del **[[Socialismo del Siglo XXI]]**, se estima que se han drenado más de **300 mil millones de dólares** (equivalentes a varios planes Marshall) a través de mecanismos de control de cambio, corrupción en la industria petrolera (**[[PDVSA]]**) y el contrabando de oro. Su función real fue la de un **"Vaciamiento Sistémico de una Nación Soberana"**: utilizar la renta petrolera para enriquecer a una nueva élite burocrático-militar (la Boliburguesía) y a sus socios financieros internacionales, dejando al **[[Tier C]]** en un estado de miseria planificada para asegurar su control absoluto mediante el hambre.
@@ -42,7 +42,8 @@ El Saqueo de Venezuela nos enseña que **las tiranías modernas no buscan gobern
 ---
 **Versión:** 2.0
 **Enfoque:** El saqueo a través del control de cambio y PDVSA, la formación de la boliburguesía, el rol de la banca internacional en el lavado y el hambre como mecanismo de control social.
-**Estado:** Refactoreado a v2.0 - Framework de Cleptocracia y Colapso Nacional.
+**Estado:** Refactoreado a TL V.2 - Framework de Cleptocracia y Colapso Nacional.
+
 
 
 

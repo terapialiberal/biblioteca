@@ -1,21 +1,21 @@
 ---
+titulo: Alquimia China (Dan)
+tipo: "concepto"
+fecha: 2026-02-25
+tags: [alquimia, china]
+tier-primario: "b"
+nivel-evidencia: "medio"
 publish: true
-created: 2026-02-25T22:08:32.912-03:00
-modified: 2026-02-27T13:21:58.903-03:00
-tags:
-  - alquimia
-  - china
-cssclasses: ""
 ---
-
 
 # Alquimia China (Dan)
 
 > [!ABSTRACT] Hipótesis Informativa
-> Nodo perteneciente a la Matrix de Simbolismo y Esoterismo v12_0.
+> Nodo perteneciente a la Matrix de Simbolismo y Esoterismo TL V.2.
 
 ## Análisis De Tiers
 *En desarrollo...*
 
 ## Cui Bono
 *Pendiente de análisis forense.*
+

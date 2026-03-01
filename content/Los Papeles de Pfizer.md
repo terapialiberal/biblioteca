@@ -1,4 +1,12 @@
 ---
+titulo: Los Papeles de Pfizer
+tipo: 'organizacion'
+tier-primario: 'b'
+nivel-evidencia: 'medio'
+tags: [clasificado-ai]
+publish: true
+---
+﻿---
 titulo: "Los Papeles De Pfizer: La Verdad Detrs De La Inmunidad"
 tipo: empresa
 fecha: 2026-02-25
@@ -22,7 +30,7 @@ publish: true
 *   **Inmunidad Legal:** Pfizer se asegur que los gobiernos de **Tier C** firmaran contratos donde la empresa no tiene responsabilidad civil. Esto permiti a Pfizer obtener ganancias rcord de **\100,000 millones** mientras el Estado obligaba a la poblacin a consumir el producto. Es el sueo hmedo de cualquier oligarca de Tier A: consumo obligatorio con riesgo cero.
 
 
-## ⚡ Conclusin De Terapia Liberal
+## âš¡ Conclusin De Terapia Liberal
 Los Papeles de Pfizer son la prueba escrita de que el sistema de salud global es un **modelo extractivo**. No fall la ciencia; fall la tica de quienes la gestionan. El hecho de que hayan intentado ocultarlos por 75 aos es la nica confesin que un analista de inteligencia necesita para entender la magnitud de la PsyOp sanitaria.
 
 ---
@@ -32,7 +40,8 @@ Los Papeles de Pfizer son la prueba escrita de que el sistema de salud global es
 - **Mecanismos:** [[Captura Regulatoria]], [[Censura de Redes Sociales]], [[Pasaporte Sanitario]].
 - **Consecuencias:** [[Miocarditis]], [[Exceso de Mortalidad]], [[Crisis de Confianza Institucional]].
 
-**Estado:** Refactoreado a v2.0 - Framework de Biopol�tica Aplicado.
+**Estado:** Refactoreado a TL V.2 - Framework de Biopolï¿½tica Aplicado.
+
 
 
 

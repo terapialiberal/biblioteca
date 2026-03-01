@@ -1,15 +1,12 @@
 ---
+titulo: Google (Orígenes Y Estructura)
+tipo: empresa
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [capitalismo, estructura, google, orgenes]
 publish: true
-created: 2026-01-29T19:17:15.795-03:00
-modified: 2026-02-27T13:07:09.122-03:00
-tags:
-  - capitalismo
-  - estructura
-  - google
-  - orgenes
-cssclasses: ""
 ---
-
 # Google (Orígenes Y Estructura)
 
 ## Perfil TL (Resumen Ejecutivo)
@@ -33,7 +30,7 @@ cssclasses: ""
 ## Conexiones Clave
 - [[CIA / In-Q-Tel]] (Sus patrocinadores originales)
 - [[Capitalismo de Vigilancia]] (Su modelo económico)
-- [[YouTube]] (Su herramienta de control cultural)
+- [[00_Glosario - Conceptos Fase 1#YouTube\|YouTube]] (Su herramienta de control cultural)
 - [[Inteligencia Artificial / DeepMind]] (Su evolución final)
 
 ## Por Qué Importa (Estilo Nico)

@@ -1,5 +1,5 @@
 ---
-titulo: "Morgellons (v2.0): La Infección Bio-Sintética"
+titulo: "Morgellons (TL V.2): La Infección Bio-Sintética"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [chemtrails, infeccin, morgellons, polvo]
 publish: true
 ---
-# Morgellons (v2.0): La Infección Bio-Sintética
+# Morgellons (TL V.2): La Infección Bio-Sintética
 
 > [!ABSTRACT] Hipótesis Informativa
 > El Morgellons no es un "delirio parasitario" como sostiene el establishment médico de **[[Tier B]]**; es la manifestación clínica de una **contaminación ambiental transhumanista**. Caracterizada por la aparición de fibras sintéticas (polímeros auto-ensamblables) que brotan de la piel, esta condición sugiere una **saturación biológica de nanotecnología** (Smart Dust) dispersada a través de geoingeniería (**[[Chemtrails]]**) y la cadena alimentaria. Representa el "Fallo de Integración" en un experimento masivo y no consentido para fusionar la biología humana con interfaces sintéticas, donde el cuerpo de algunas personas (Tier C) rechaza violentamente la invasión de materiales extraños diseñados para la vigilancia o el control.
@@ -30,7 +30,7 @@ publish: true
 2.  **Ubicuidad Ambiental**: Dispersar los agentes a través del aire (aerosoles estratosféricos), haciendo imposible que el individuo se proteja o aisle de la fuente de contaminación.
 
 ## Conexiones Críticas
-- [[Chemtrails (Geoingeniería)]]: El vector de transmisión principal.
+- [[00_Glosario - Conceptos Fase 1#Chemtrails (Geoingeniería)\|Chemtrails (Geoingeniería)]]: El vector de transmisión principal.
 - [[Polvo Inteligente (Smart Dust)]]: La naturaleza tecnológica de las fibras.
 - [[Transhumanismo]]: La ideología detrás de la fusión hombre-máquina.
 - [[DARPA]]: La fuente de financiamiento de la nanotecnología militar.
@@ -42,7 +42,8 @@ Morgellons es la frontera final de la violación de la propiedad privada: la inv
 ---
 **Versión:** 2.0
 **Enfoque:** Hipótesis de nanotecnología auto-ensamblable, encubrimiento del CDC, vínculo con geoingeniería y Smart Dust, y la patologización de las víctimas.
-**Estado:** Refactoreado a v2.0 - Framework de Bio-Invasión.
+**Estado:** Refactoreado a TL V.2 - Framework de Bio-Invasión.
+
 
 
 

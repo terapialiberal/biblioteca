@@ -1,5 +1,5 @@
 ---
-titulo: "Jesús Huerta De Soto (v2.0): El Fabricante De La Disidencia Intelectual"
+titulo: "Jesús Huerta De Soto (TL V.2): El Fabricante De La Disidencia Intelectual"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [huerta, jess, ludwig, soto]
 publish: true
 ---
-# Jesús Huerta De Soto (v2.0): El Fabricante De La Disidencia Intelectual
+# Jesús Huerta De Soto (TL V.2): El Fabricante De La Disidencia Intelectual
 
 > [!ABSTRACT] Hipótesis Informativa
 > Jesús Huerta de Soto es el **principal proveedor del software intelectual para la insurrección de [[Tier C]] contra el Estado de Bienestar**. Al rescatar y expandir la Teoría del Ciclo Económico de la Escuela Austríaca, ha identificado la **reserva fraccionaria** y la banca central como el núcleo del fraude institucionalizado del [[Tier A]]. Su importancia reside en su capacidad para formar a la próxima generación de líderes políticos (como [[Javier Milei]]) que buscan desmantelar el sistema monetario fiduciario, devolviendo la soberanía económica al individuo mediante el patrón oro y la banca con reserva del 100%.
@@ -35,7 +35,7 @@ publish: true
 - [[Javier Milei]]: Su discípulo más exitoso y ejecutor político de sus teorías.
 - [[Ludwig von Mises / Murray Rothbard]]: Los cimientos intelectuales de su visión del mundo.
 - [[Escuela de Salamanca]]: La base teológica y jurídica con la que legitima el libre mercado.
-- [[Banca Central]]: El enemigo sistémico que busca destruir mediante la reserva del 100%.
+- [[00_Glosario - Conceptos Fase 1#Banca Central\|Banca Central]]: El enemigo sistémico que busca destruir mediante la reserva del 100%.
 - [[España S.A.]]: La empresa que le otorga el poder material para ser un pensador libre.
 
 ## Conclusión Del Análisis
@@ -45,6 +45,7 @@ Jesús Huerta de Soto es el **"Mises del Siglo XXI"**. Su legado no son solo lib
 **Versión:** 2.0
 **Enfoque:** Deslegitimación de la banca central, formación de líderes libertarios y la ética de la propiedad privada.
 **Estado:** Refactorización Completa.
+
 
 
 

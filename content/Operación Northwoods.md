@@ -1,5 +1,5 @@
 ---
-titulo: "Operación Northwoods (v2.0): El Plano Maestro Del Auto-Terrorismo"
+titulo: "Operación Northwoods (TL V.2): El Plano Maestro Del Auto-Terrorismo"
 tipo: evento
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [asesinato, auto, operacin, terrorismo]
 publish: true
 ---
-# Operación Northwoods (v2.0): El Plano Maestro Del Auto-Terrorismo
+# Operación Northwoods (TL V.2): El Plano Maestro Del Auto-Terrorismo
 
 > [!ABSTRACT] Hipótesis Informativa
 > La Operación Northwoods es el **documento canónico de [[Tier A]]** que prueba la disposición del Estado para asesinar a sus propios ciudadanos con el fin de instigar guerras. Propuesto unánimemente por el **Estado Mayor Conjunto (JCS)** en 1962, el plan sugería secuestrar aviones, hundir barcos de refugiados y colocar bombas en ciudades de EE.UU. para culpar a Fidel Castro. Northwoods representa la **Psicopatía Institucional de la Matrix**: la prueba de que para el alto mando militar, el **[[Tier C]]** es una masa sacrificable cuya sangre es simplemente una moneda de cambio para la expansión del imperio.
@@ -39,7 +39,8 @@ La Operación Northwoods es el "libro de cocina" del terrorismo de estado. Quien
 ---
 **Versión:** 2.0
 **Enfoque:** Prueba documental de planificación de auto-atentados, paralelismos con el 11S y el conflicto entre JFK y el alto mando psicopático.
-**Estado:** Refactoreado a v2.0 - Framework de Anatomía de Falsa Bandera.
+**Estado:** Refactoreado a TL V.2 - Framework de Anatomía de Falsa Bandera.
+
 
 
 

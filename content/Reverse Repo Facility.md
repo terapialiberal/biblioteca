@@ -1,5 +1,5 @@
 ---
-titulo: "Reverse Repo Facility (v2.0): El Sumidero De La Liquidez De La Matrix"
+titulo: "Reverse Repo Facility (TL V.2): El Sumidero De La Liquidez De La Matrix"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [liquidez, matrix, reserva, reverse]
 publish: true
 ---
-# Reverse Repo Facility (v2.0): El Sumidero De La Liquidez De La Matrix
+# Reverse Repo Facility (TL V.2): El Sumidero De La Liquidez De La Matrix
 
 > [!ABSTRACT] Hipótesis Informativa
 > La Facilidad de Repo Inverso (ON RRP) de la **[[Reserva Federal (FED)]]** es el **Mecanismo de Gestión de Excedentes de [[Tier A]]** diseñado para evitar el colapso del sistema de tipos de interés ante la hiper-impresión de dinero. Funciona como un **Sumidero Financiero**: la FED absorbe billones de dólares de los bancos y fondos del mercado monetario de **[[Tier B]]** para mantenerlos fuera de la economía real de **[[Tier C]]**. Su función real es "esterilizar" la moneda fiduciaria, permitiendo a la élite financiera inflar activos selectos mientras mata de hambre a la economía productiva, asegurando que el exceso de liquidez nunca llegue a las manos del soberano individual de forma incontrolada.
@@ -38,7 +38,8 @@ La Reverse Repo Facility nos enseña que **el sistema financiero moderno es un c
 ---
 **Versión:** 2.0
 **Enfoque:** El Reverse Repo como drenadora de liquidez para proteger los tipos de interés, el enriquecimiento sin riesgo del Tier B financiero y la esterilización de la moneda para el control de la inflación.
-**Estado:** Refactoreado a v2.0 - Framework de Ingeniería Financiera y Control Monetario.
+**Estado:** Refactoreado a TL V.2 - Framework de Ingeniería Financiera y Control Monetario.
+
 
 
 

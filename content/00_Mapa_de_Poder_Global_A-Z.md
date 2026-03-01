@@ -1,15 +1,12 @@
 ---
+titulo: "🗺️ Mapa De Poder Global: La Matriz GOLD (v4.0)"
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [00-mapa-de-poder-global-a, mapa, matriz, vanguard]
 publish: true
-created: 2026-01-29T19:17:02.490-03:00
-modified: 2026-02-27T13:21:55.417-03:00
-tags:
-  - 00-mapa-de-poder-global-a
-  - mapa
-  - matriz
-  - vanguard
-cssclasses: ""
 ---
-
 # 🗺️ Mapa De Poder Global: La Matriz GOLD (v4.0)
 
 Este documento es el índice estructural de la **Bóveda de Terapia Liberal**. Mapea los incentivos de la oligarquía transnacional mediante la **Matriz de Dos Niveles**.
@@ -20,7 +17,7 @@ Este documento es el índice estructural de la **Bóveda de Terapia Liberal**. M
 ### NIVEL 1: JUEGO COOPERATIVO (Cartel Tier A)
 *Por encima de las naciones. Aquí no hay enemigos, solo socios en la extracción de rentas.*
 
-*   **[[BIS (Banco de Pagos Internacionales)]]:** El nodo soberano. Define las reglas del dinero.
+*   **[[Banco de Pagos Internacionales\|BIS (Banco de Pagos Internacionales)]]:** El nodo soberano. Define las reglas del dinero.
 *   **Gestores de Activos:** [[BlackRock]], [[Vanguard Group]]. Consolidan el capital sistémico y eliminan la competencia (Propiedad Común).
 *   **Dinastías:** [[Familia Rothschild]], [[Familia Rockefeller]]. Capital histórico y fundadores de la infraestructura de control.
 
@@ -30,7 +27,7 @@ Este documento es el índice estructural de la **Bóveda de Terapia Liberal**. M
 #### ♟️ Tier B: Los Ejecutores
 *Aparatos técnicos que materializan las órdenes del Nivel 1.*
 *   **Inteligencia:** [[CIA]], [[Mossad]], [[MI6]]. Gestión de activos, cambio de régimen y chantaje.
-*   **Banca Central:** [[Reserva Federal]], [[BCE]]. Ejecución de la inflación y control de liquidez.
+*   **Banca Central:** [[Reserva Federal]], [[00_Glosario - Conceptos Fase 1#BCE\|BCE]]. Ejecución de la inflación y control de liquidez.
 *   **Think Tanks:** [[WEF]], [[CFR]], [[Chatham House]]. Reclutamiento de élites y diseño de narrativas (Great Reset).
 
 #### 🎪 Tier C: La Narrativa
@@ -79,7 +76,7 @@ graph TD
 
 ### 1. Nodos De Finanzas & Control
 *   **[[Reserva Federal]]**: El motor de la deuda.
-*   **[[CBDC]]** / [[CBDC Interoperability]]: El mecanismo final de "dinero programado" (v12_1).
+*   **[[CBDC]]** / [[CBDC Interoperability]]: El mecanismo final de "dinero programado" (TL V.2).
 *   **[[BlackRock BUIDL]]**: Tokenización de la liquidez institucional.
 *   **[[Proyecto Agorá]]** / [[Proyecto mBridge]]: Los nuevos rieles del BIS.
 *   **[[ESG]]** / [[Social Credit West]]: El score social corporativo y su implementación occidental.
@@ -107,7 +104,7 @@ graph TD
 
 ## 📑 ÍNDICE DE EXPANSIÓN 2026 (A-Z)
 
-A continuación, la lista completa de las 50 entidades incorporadas en la auditoría v12_1:
+A continuación, la lista completa de las 50 entidades incorporadas en la auditoría TL V.2:
 
 | A-C | D-G | H-L | M-P | R-Z |
 | :--- | :--- | :--- | :--- | :--- |
@@ -133,6 +130,7 @@ El mapa de poder no es un organigrama, es un **Diagrama de Incentivos**. Quita e
 ---
 **Versión:** 4.0 GOLD
 **Estado:** Mapa Maestro Actualizado
+
 
 
 

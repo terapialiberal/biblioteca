@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:39.858-03:00
-modified: 2026-02-27T13:07:20.770-03:00
+modified: 2026-02-27T13:07:33.785-03:00
 tags:
   - gnosticismo
   - matrix

@@ -1,22 +1,21 @@
 ---
+titulo: Geometría Del Gran Sello
+tipo: "concepto"
+fecha: 2026-02-25
+tags: [geometra, gran, sello]
+tier-primario: "b"
+nivel-evidencia: "medio"
 publish: true
-created: 2026-02-25T22:08:32.148-03:00
-modified: 2026-02-27T13:22:46.251-03:00
-tags:
-  - geometra
-  - gran
-  - sello
-cssclasses: ""
 ---
-
 
 # Geometría Del Gran Sello
 
 > [!ABSTRACT] Hipótesis Informativa
-> Nodo perteneciente a la Matrix de Simbolismo y Esoterismo v12_0.
+> Nodo perteneciente a la Matrix de Simbolismo y Esoterismo TL V.2.
 
 ## Análisis De Tiers
 *En desarrollo...*
 
 ## Cui Bono
 *Pendiente de análisis forense.*
+

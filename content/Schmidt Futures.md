@@ -1,5 +1,5 @@
 ---
-titulo: "Schmidt Futures (v2.0): El Caballo De Troya De La Tecnocracia De Ã‰lite"
+titulo: "Schmidt Futures (TL V.2): El Caballo De Troya De La Tecnocracia De Ã‰lite"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [caballo, futures, google, schmidt]
 publish: true
 ---
-# Schmidt Futures (v2.0): El Caballo De Troya De La Tecnocracia De Ã‰lite
+# Schmidt Futures (TL V.2): El Caballo De Troya De La Tecnocracia De Ã‰lite
 
 > [!ABSTRACT] Hipótesis Informativa
 > Schmidt Futures es la **Plataforma de Influencia de [[Tier B]]** creada por **[[Eric Schmidt]]** (ex-CEO de Google) para capturar el talento científico y moldear la política tecnológica global en favor de la seguridad nacional de EE.UU. Bajo el disfraz de filantropía, su función real es la de un **"Agente de Infiltración Académica y Política"**: financia a jóvenes líderes y proyectos de IA para asegurar que la futura arquitectura de la Matrix sea diseñada por individuos alineados con los intereses de la casta de inteligencia y el complejo militar-industrial.
@@ -38,7 +38,8 @@ Schmidt Futures nos enseña que **la filantropía de la élite es la continuaci�
 ---
 **Versión:** 2.0
 **Enfoque:** Schmidt Futures como herramienta de Eric Schmidt para influir en la política científica y de IA, su conexión con la seguridad nacional de EE.UU. y el uso de la filantropía para capturar talento y agendas académicas.
-**Estado:** Refactoreado a v2.0 - Framework de Filantropía Tecnocrática e Influencia Global.
+**Estado:** Refactoreado a TL V.2 - Framework de Filantropía Tecnocrática e Influencia Global.
+
 
 
 

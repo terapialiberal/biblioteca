@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:17.808-03:00
-modified: 2026-02-27T13:07:30.511-03:00
+modified: 2026-02-27T13:07:40.726-03:00
 tags:
   - goat
   - programacin

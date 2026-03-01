@@ -1,21 +1,18 @@
 ---
+titulo: Fentanilo (Guerra Híbrida)
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [cjng, fentanilo, guerra, hbrida]
 publish: true
-created: 2026-01-29T19:17:13.594-03:00
-modified: 2026-02-27T13:22:43.512-03:00
-tags:
-  - cjng
-  - fentanilo
-  - guerra
-  - hbrida
-cssclasses: ""
 ---
-
 # Fentanilo (Guerra Híbrida)
 
 ## Perfil TL (Resumen Ejecutivo)
 **¿Qué es?** Un opioide sintético 50 veces más potente que la heroína, originalmente desarrollado como analgésico terminal, que se ha convertido en la principal causa de muerte entre jóvenes en EE.UU.
 
-**¿Por qué importa?** El fentanilo es el **arma de guerra irrestricta de China contra Occidente**. Analístas de inteligencia lo definen como la **"Guerra del Opio Inversa"**: en el siglo XIX, los británicos destruyeron a China introduciendo opio para debilitar su población y saquear sus recursos; hoy, el Partido Comunista Chino aplica la misma receta a EE.UU. China provee los precursores químicos de forma subsidiada a los cárteles mexicanos (**[[Cártel de Sinaloa]]**, **[[CJNG]]**), quienes manufacturan las pastillas para inundar las calles americanas. Para el Tier A chino, el objetivo no es el lucro (aunque sus bancos lavan el dinero), sino la **desmoralización y desestabilización del rival**: el fentanilo elimina a 100.000 ciudadanos al año, satura el sistema de salud, destruye la fuerza laboral y fractura el tejido social sin disparar una sola bala. Es la "muerte por mil cortes" química.
+**¿Por qué importa?** El fentanilo es el **arma de guerra irrestricta de China contra Occidente**. Analístas de inteligencia lo definen como la **"Guerra del Opio Inversa"**: en el siglo XIX, los británicos destruyeron a China introduciendo opio para debilitar su población y saquear sus recursos; hoy, el Partido Comunista Chino aplica la misma receta a EE.UU. China provee los precursores químicos de forma subsidiada a los cárteles mexicanos (**[[Cartel de Sinaloa\|Cártel de Sinaloa]]**, **[[CJNG]]**), quienes manufacturan las pastillas para inundar las calles americanas. Para el Tier A chino, el objetivo no es el lucro (aunque sus bancos lavan el dinero), sino la **desmoralización y desestabilización del rival**: el fentanilo elimina a 100.000 ciudadanos al año, satura el sistema de salud, destruye la fuerza laboral y fractura el tejido social sin disparar una sola bala. Es la "muerte por mil cortes" química.
 
 ## Análisis De Poder (Tiers)
 
@@ -33,7 +30,7 @@ cssclasses: ""
 ## Conexiones Clave
 - [[Guerra Irrestricta (Unrestricted Warfare)]] (El marco estratégico)
 - [[Guerras del Opio (Historial)]] (El precedente histórico)
-- [[Cártel de Sinaloa]] (El distribuidor de Tier B)
+- [[Cartel de Sinaloa\|Cártel de Sinaloa]] (El distribuidor de Tier B)
 - [[Black Budgets / Inteligencia]] (El rol de las agencias en permitir el flujo)
 
 ## Por Qué Importa (Estilo Nico)

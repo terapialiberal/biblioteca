@@ -1,16 +1,13 @@
 ---
+titulo: TRATADO DE PANDEMIAS DE LA OMS (TL V.2)
+tipo: evento
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "alto"
+tags: [bill, bioseguridad, pandemias, tratado]
 publish: true
-created: 2026-02-25T15:44:39.927-03:00
-modified: 2026-02-27T13:24:05.536-03:00
-tags:
-  - bill
-  - bioseguridad
-  - pandemias
-  - tratado
-cssclasses: ""
 ---
-
-# TRATADO DE PANDEMIAS DE LA OMS (v12_1)
+# TRATADO DE PANDEMIAS DE LA OMS (TL V.2)
 
 #### BLUF
 El Tratado de Pandemias de la Organización Mundial de la Salud (OMS) es el **Protocolo de Suspensión de Soberanía** del Tier B. En 2026, las enmiendas al Reglamento Sanitario Internacional (RSI) han otorgado al Director General de la OMS la autoridad para declarar "emergencias" de forma unilateral que activan mandatos de compra obligatoria de productos farmacéuticos y restricciones de movimiento globales. No es un tratado de salud; es un **Acuerdo de Custodia Biológica** que subordina el cuerpo del ciudadano al algoritmo de gestión de crisis centralizado.
@@ -20,7 +17,7 @@ El Tratado de Pandemias de la Organización Mundial de la Salud (OMS) es el **Pr
 | Actor | Tier | Rol Real | Incentivo Oculto |
 |-------|------|----------|-----------------|
 | [[Tedros Adhanom Ghebreyesus]]| B | El Gestor de Crisis | Centralizar la toma de decisiones sanitarias para evitar la "ineficiencia" de las democracias nacionales. |
-| [[Bill & Melinda Gates Foundation]]| A | El Financista Principal | Asegurar que la arquitectura del tratado favorezca a las empresas de Tier A en el reparto de subsidios biotecnológicos. |
+| [[00_Glosario - Conceptos Fase 1#Bill & Melinda Gates Foundation\|Bill & Melinda Gates Foundation]]| A | El Financista Principal | Asegurar que la arquitectura del tratado favorezca a las empresas de Tier A en el reparto de subsidios biotecnológicos. |
 | [[GAVI / CEPI]] | B | Los Distribuidores | Gestionar la logística de las "vacunas de respuesta rápida" (100 días). |
 | [[Unión Europea]] | B | El Validador Legal | Proporcionar el marco jurídico para que las directivas de la OMS tengan rango de ley interna. |
 
@@ -73,6 +70,7 @@ El tratado es una herramienta de coordinación necesaria en un mundo hiperconect
 ¿Cuál es la relación real entre los algoritmos de detección temprana de la OMS y los sistemas de vigilancia de datos de las Big Tech que monitorizan los síntomas de la población en tiempo real?
 
 ---
-*Dossier forense v12_1 | La Arquitectura de la Dictadura Sanitaria*
+*Dossier forense TL V.2 | La Arquitectura de la Dictadura Sanitaria*
+
 
 

@@ -1,15 +1,12 @@
 ---
+titulo: Daniele Ganser
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [daniele, ganser, operacin, otan]
 publish: true
-created: 2026-01-29T19:17:09.593-03:00
-modified: 2026-02-27T13:07:02.241-03:00
-tags:
-  - daniele
-  - ganser
-  - operacin
-  - otan
-cssclasses: ""
 ---
-
 # Daniele Ganser
 
 ## Perfil TL (Resumen Ejecutivo)
@@ -31,7 +28,7 @@ cssclasses: ""
 ## Conexiones Clave
 - [[Operación Gladio]] (Su mayor objeto de estudio)
 - [[OTAN]] (La institución que diseccionó)
-- [[Guerra Híbrida]] (El marco donde ubica sus hallazgos)
+- [[00_Glosario - Conceptos Fase 1#Guerra Híbrida\|Guerra Híbrida]] (El marco donde ubica sus hallazgos)
 - [[False Flag]] (El método que documentó empíricamente)
 
 ## Fuentes

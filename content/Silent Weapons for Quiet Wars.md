@@ -1,5 +1,5 @@
 ---
-titulo: "Silent Weapons for Quiet Wars (v2.0): El Manual De Operaciones De La Matrix"
+titulo: "Silent Weapons for Quiet Wars (TL V.2): El Manual De Operaciones De La Matrix"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [matrix, milton, wars, weapons]
 publish: true
 ---
-# Silent Weapons for Quiet Wars (v2.0): El Manual De Operaciones De La Matrix
+# Silent Weapons for Quiet Wars (TL V.2): El Manual De Operaciones De La Matrix
 
 > [!ABSTRACT] Hipótesis Informativa
 > *Silent Weapons for Quiet Wars* es el **Manual Doctrinario de [[Tier A]]** que describe la metodología de la guerra biológica y económica no cinética contra la población civil. Supuestamente fechado en 1954 y "hallado" en 1986, el documento detalla cómo tratar a la sociedad humana como un sistema termodinámico de energía que puede ser controlado mediante el modelado matemático, la ingeniería social y la manipulación del capital. Su función real es la de un **"Plano de Arquitectura Social de la Matrix"**: establecer las bases para una dominación invisible donde el **[[Tier C]]** es mantenido en la ignorancia y la distracción perpetua mientras el **[[Tier A]]** extrae su energía vital de forma silenciosa e indetectable.
@@ -40,9 +40,10 @@ publish: true
 
 **Versión:** 2.0
 **Enfoque:** Análisis del documento como manual de guerra económica y psicológica de Tier A, la metodología de distracción masiva, el manejo de la sociedad como sistema de energía y el papel de la educación deficiente en el mantenimiento del control sobre el Tier C.
-**Estado:** Refactoreado a v2.0 - Framework de Ingeniería Social y Guerra No Cinética. 
+**Estado:** Refactoreado a TL V.2 - Framework de Ingeniería Social y Guerra No Cinética. 
 ---
 **Nota de Sincronización:** Este archivo es el nexo fundamental para entender la transición del poder físico al poder cibernético/algorítmico.
+
 
 
 

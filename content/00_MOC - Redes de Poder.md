@@ -1,4 +1,12 @@
 ---
+titulo: 00_MOC - Redes de Poder
+tipo: 'persona'
+tier-primario: 'a'
+nivel-evidencia: 'medio'
+tags: [clasificado-ai]
+publish: true
+---
+﻿---
 titulo: ??? MOC  REDES DE PODER (El Cartel Global)
 tipo: "concepto"
 fecha: 2026-02-25
@@ -51,7 +59,7 @@ Rhodes Trust ? Round Table ? CFR ? Bilderberg ? Trilateral ? WEF
 ```
 - [[Carroll Quigley]]  El historiador que document la red (Tragedy and Hope)
 - [[La Mesa Redonda (The Round Table Group)]]  El origen: Lord Milner
-- [[CFR]]  El ms poderoso think tank anglosajn (v12_1)
+- [[CFR]]  El ms poderoso think tank anglosajn (TL V.2)
 - [[Grupo Bilderberg]] / [[Bilderberg]]  La reunin anual del cartel
 - [[Trilateral Commission]]  El motor de la tecnocracia trilateral
 - [[WEF 2026]] / [[Klaus Schwab]]  La actualizacin para el siglo XXI
@@ -61,7 +69,7 @@ Rhodes Trust ? Round Table ? CFR ? Bilderberg ? Trilateral ? WEF
 
 ### Track Conservador & New Right
 - [[Le Cercle]]  La red atlantista secreta de inteligencia
-- [[Council for National Policy (CNP)]]  La versin americana conservadora
+- [[Council for National Policy\|Council for National Policy (CNP)]]  La versin americana conservadora
 - [[Heritage Foundation]]  El motor de Project 2025
 - [[JD Vance]]  El embajador de Silicon Valley en Washington
 - [[Mont Pelerin Society]]  El origen intelectual neoliberal
@@ -99,7 +107,7 @@ Rhodes Trust ? Round Table ? CFR ? Bilderberg ? Trilateral ? WEF
 
 ### Kompromat Y Lealtad Forzada (Dark Game Theory)
 - [[Honey Pot (Operacin)]] / [[Honeypot (Operacin de Inteligencia)]]  El chantaje como governance
-- [[Programacin Monarch]]  Control mental documentado (MKUltra operativo)
+- [[Programación Monarch\|Programacin Monarch]]  Control mental documentado (MKUltra operativo)
 - [[Carpeta (Extorsin)]]  La versin argentina del kompromat
 - [[J. Edgar Hoover]]  El archivo que control a presidentes
 
@@ -129,14 +137,14 @@ Rhodes Trust ? Round Table ? CFR ? Bilderberg ? Trilateral ? WEF
 
 ### Argentina (Tier A Local)
 - [[Eduardo Elsztain]] / [[Eduardo Eurnekian]] / [[Paolo Rocca]]
-- [[Hctor Magnetto]] (Grupo Clarn) / [[Marcos Galperin]] (MercadoLibre)
-- Ver: [[01 MOC - Argentina]]
+- [[Héctor Magnetto\|Hctor Magnetto]] (Grupo Clarn) / [[Marcos Galperin]] (MercadoLibre)
+- Ver: [[00_MOC - Argentina]]
 
 
 ## ?? COORDINAR LA NARRATIVA (El Vector Infosfrico)
 
 - [[Manufactura de Consenso]]  Chomsky/Bernays: el manual
-- [[Operacin Mockingbird]]  La CIA y los medios
+- [[Operación Mockingbird\|Operacin Mockingbird]]  La CIA y los medios
 - [[Edelman]]  La mayor firma de PR del mundo
 - [[Hill+Knowlton]]  Guerra del Golfo: los bebs en las incubadoras
 - [[Atlantic Council DFRLab]]  La fbrica de narrativa atlantista
@@ -146,16 +154,17 @@ Rhodes Trust ? Round Table ? CFR ? Bilderberg ? Trilateral ? WEF
 
 ## ?? NODOS RELACIONADOS
 - [[MOC - Rimland]]  El tablero geogrfico donde operan estas redes
-- [[MOC - Control Financiero]]  Los mecanismos de extraccin econmica
-- [[MOC - Operaciones Encubiertas]]  El brazo operativo clandestino
+- [[00_MOC - Control Financiero\|MOC - Control Financiero]]  Los mecanismos de extraccin econmica
+- [[00_MOC - Operaciones Encubiertas\|MOC - Operaciones Encubiertas]]  El brazo operativo clandestino
 - [[99_AI/05_Memoria_Central/Entity_Graph]]  ndice completo de actores
 
 ---
 
-- [[01_Ideas/Sueltas/Biblia Scofield 1\|Biblia Scofield 1]]
+- [[01_Ideas/Biblia Scofield 1\|Biblia Scofield 1]]
 
 
 *MOC expandido: 2026-02-24 | Parte del [[INDEX_MAESTRO]]*
+
 
 
 

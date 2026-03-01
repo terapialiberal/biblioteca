@@ -1,15 +1,12 @@
 ---
+titulo: "Ley Smith-Mundt Modernizada: La Guerra De Información Legalizada"
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [guerra, informacin, legalizada, mundt]
 publish: true
-created: 2026-01-29T19:17:22.410-03:00
-modified: 2026-02-27T13:23:13.234-03:00
-tags:
-  - guerra
-  - informacin
-  - legalizada
-  - mundt
-cssclasses: ""
 ---
-
 # Ley Smith-Mundt Modernizada: La Guerra De Información Legalizada
 
 > [!ABSTRACT] Resumen de Inteligencia
@@ -35,7 +32,8 @@ Hoy, un periodista de un "Mainstream Media" no es un investigador, es un **retra
 - **Estructuras:** [[Complejo Industrial de la Censura]], [[Departamento de Estado]], [[Pentágono]].
 - **Actores:** [[Hillary Clinton]] (Promotora), [[Michael Hastings]] (Mártir/Investigador).
 
-**Estado:** Refactoreado a v2.0 - Framework de Inteligencia Aplicado.
+**Estado:** Refactoreado a TL V.2 - Framework de Inteligencia Aplicado.
+
 
 
 

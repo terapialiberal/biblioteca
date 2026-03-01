@@ -1,16 +1,13 @@
 ---
+titulo: AMAZON TRAINIUM 2 (TL V.2)
+tipo: empresa
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [amazon, andy, jeff, trainium]
 publish: true
-created: 2026-02-25T14:52:34.692-03:00
-modified: 2026-02-27T13:21:58.946-03:00
-tags:
-  - amazon
-  - andy
-  - jeff
-  - trainium
-cssclasses: ""
 ---
-
-# AMAZON TRAINIUM 2 (v12_1)
+# AMAZON TRAINIUM 2 (TL V.2)
 
 #### BLUF
 Amazon Trainium 2 es la herramienta de **Secesión Tecnológica** de AWS. En 2026, ante los costos prohibitivos de Nvidia, Amazon ha desplegado su propia infraestructura de silicio optimizada para el entrenamiento de trillones de parámetros. Trainium 2 no busca competir en el mercado abierto; busca que el **Tier A** (Jeff Bezos / Andy Jassy) sea dueño absoluto de su propia cadena de valor cognitiva, eliminando el "Impuesto CUDA".
@@ -73,6 +70,7 @@ Trainium 2 es simplemente una optimización de eficiencia energética y costos. 
 ¿Hasta qué punto el Departamento de Defensa de EE.UU. tiene "puertas traseras" integradas en el diseño de silicio de Annapurna Labs para asegurar la soberanía de los datos nacionales que corren en AWS?
 
 ---
-*Dossier forense v12_1 | La Secesión del Silicio de AWS*
+*Dossier forense TL V.2 | La Secesión del Silicio de AWS*
+
 
 

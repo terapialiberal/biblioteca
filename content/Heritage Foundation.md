@@ -1,16 +1,13 @@
 ---
+titulo: HERITAGE FOUNDATION (TL V.2)
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [elon, foundation, heritage, peter]
 publish: true
-created: 2026-01-29T19:17:16.990-03:00
-modified: 2026-02-27T13:06:52.397-03:00
-tags:
-  - elon
-  - foundation
-  - heritage
-  - peter
-cssclasses: ""
 ---
-
-# HERITAGE FOUNDATION (v12_1)
+# HERITAGE FOUNDATION (TL V.2)
 
 #### BLUF
 The Heritage Foundation es el **Centro Logístico de la Derecha Tecnocrática** de Tier B. En 2026, su iniciativa **Project 2025** ha pasado de ser un documento doctrinal a ser el manual de operaciones para la "desmantelación" del Estado Administrativo. Heritage no busca eliminar el Estado, sino purgarlo de la burocracia de Tier C para entregárselo a una gestión de "Eficiencia Algorítmica" respaldada por Silicon Valley ([[Elon Musk]], [[Peter Thiel]]).
@@ -73,6 +70,7 @@ Heritage simplemente está tratando de devolver el poder al pueblo a través de 
 ¿Cuál es la relación real entre los algoritmos de selección de personal de Heritage y las métricas de lealtad política procesadas por sistemas de inteligencia privada?
 
 ---
-*Dossier forense v12_1 | El Laboratorio de la Tecnocracia de Derecha*
+*Dossier forense TL V.2 | El Laboratorio de la Tecnocracia de Derecha*
+
 
 

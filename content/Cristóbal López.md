@@ -1,15 +1,12 @@
 ---
+titulo: Cristóbal López
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [cristbal, lavado, lpez, medios]
 publish: true
-created: 2026-01-29T19:17:09.315-03:00
-modified: 2026-02-27T13:22:25.182-03:00
-tags:
-  - cristbal
-  - lavado
-  - lpez
-  - medios
-cssclasses: ""
 ---
-
 # Cristóbal López
 
 ## Resumen General
@@ -26,7 +23,7 @@ Empresario kirchnerista (Grupo Indalo). Hizo fortuna con concesiones de **tragam
 ## Conexiones
 - [[Medios de Comunicación]]
 - [[Lavado de Dinero]]
-- [[Kirchnerismo]]
+- [[00_Glosario - Conceptos Fase 1#Kirchnerismo\|Kirchnerismo]]
 
 
 

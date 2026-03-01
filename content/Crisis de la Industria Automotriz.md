@@ -1,15 +1,12 @@
 ---
+titulo: Crisis De Los Vehículos Eléctricos (EVs)
+tipo: evento
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [automotriz, crisis, industria, litio]
 publish: true
-created: 2026-01-29T19:17:09.139-03:00
-modified: 2026-02-27T13:22:25.120-03:00
-tags:
-  - automotriz
-  - crisis
-  - industria
-  - litio
-cssclasses: ""
 ---
-
 # Crisis De Los Vehículos Eléctricos (EVs)
 
 ## Resumen General
@@ -23,7 +20,7 @@ Ford y GM apostaron su futuro a set "100% eléctricos" por mandato gubernamental
 
 ## Conexiones
 - [[Agenda 2030]]
-- [[Litio en Jujuy (Livent)]]
+- [[00_Glosario - Conceptos Fase 1#Litio en Jujuy (Livent)\|Litio en Jujuy (Livent)]]
 - [[Elon Musk]] (El único que gana dinero con EVs)
 
 

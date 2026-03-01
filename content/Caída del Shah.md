@@ -1,15 +1,12 @@
 ---
+titulo: Caída Del Shah (Revolución Iraní)
+tipo: evento
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [cada, golpe, iran, shah]
 publish: true
-created: 2026-01-29T19:17:07.047-03:00
-modified: 2026-02-27T13:07:38.198-03:00
-tags:
-  - cada
-  - golpe
-  - iran
-  - shah
-cssclasses: ""
 ---
-
 # Caída Del Shah (Revolución Iraní)
 
 ## Perfil TL (Resumen Ejecutivo)
@@ -33,7 +30,7 @@ cssclasses: ""
 ## Conexiones Clave
 - [[Golpe en Irán 1953]] (El origen de la tragedia)
 - [[Octubre Sorpresa 1980]] (La traición política en EE.UU.)
-- [[Jimmy Carter]] (El presidente que "perdió" Irán)
+- [[00_Glosario - Conceptos Fase 1#Jimmy Carter\|Jimmy Carter]] (El presidente que "perdió" Irán)
 - [[Petróleo]] (La razón de fondo de cada movimiento)
 
 ## Fuentes

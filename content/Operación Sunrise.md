@@ -1,5 +1,5 @@
 ---
-titulo: "Operación Sunrise (v2.0): El Pacto Secreto De La Impunidad"
+titulo: "Operación Sunrise (TL V.2): El Pacto Secreto De La Impunidad"
 tipo: evento
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [impunidad, pacto, secreto, sunrise]
 publish: true
 ---
-# Operación Sunrise (v2.0): El Pacto Secreto De La Impunidad
+# Operación Sunrise (TL V.2): El Pacto Secreto De La Impunidad
 
 > [!ABSTRACT] Hipótesis Informativa
 > La Operación Sunrise fue la **primera traición estratégica de la posguerra** realizada por el **[[Tier A]]** occidental. Al negociar secretamente en Suiza la rendición de las fuerzas nazis en Italia con el General SS **Karl Wolff**, el jefe de la OSS **[[Allen Dulles]]** estableció el modelo de la "paz por separado" que enfureció a Stalin y aceleró el inicio de la Guerra Fría. Sunrise representa el momento en que el sistema decidió que proteger a las élites nazis era preferible a cumplir las promesas de justicia para el **[[Tier C]]**, garantizando que los cuadros de mando de la SS fueran reciclados para la futura arquitectura de inteligencia global.
@@ -39,7 +39,8 @@ La Operación Sunrise es el amanecer de la era de la traición institucionalizad
 ---
 **Versión:** 2.0
 **Enfoque:** Negociaciones de Dulles con Karl Wolff, origen de la desconfianza Este-Oeste y la impunidad negociada de los criminales nazis.
-**Estado:** Refactoreado a v2.0 - Framework de Realpolitik de Inteligencia.
+**Estado:** Refactoreado a TL V.2 - Framework de Realpolitik de Inteligencia.
+
 
 
 

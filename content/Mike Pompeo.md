@@ -1,5 +1,5 @@
 ---
-titulo: "Mike Pompeo (v2.0): El Halcón Del Sionismo Cristiano"
+titulo: "Mike Pompeo (TL V.2): El Halcón Del Sionismo Cristiano"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [julian, mike, miriam, pompeo]
 publish: true
 ---
-# Mike Pompeo (v2.0): El Halcón Del Sionismo Cristiano
+# Mike Pompeo (TL V.2): El Halcón Del Sionismo Cristiano
 
 > [!ABSTRACT] Hipótesis Informativa
 > Mike Pompeo representa la **fusión operativa entre el fundamentalismo evangélico y el realismo sucio de la [[CIA]]**. Como Director de la Agencia y luego Secretario de Estado, personificó la **"Diplomacia del Arrebato"**: una política exterior diseñada no para la estabilidad, sino para precipitar condiciones de conflicto (especialmente con Irán) que satisfacen tanto los objetivos geopolíticos de **Tier A** (Israel/Neocons) como las profecías escatológicas de su base electoral (**Sionismo Cristiano**). Su famosa admisión, *"Mentimos, engañamos, robamos"*, no fue un desliz, sino la declaración de principios de un **Tier B** que ha normalizado la criminalidad estatal.
@@ -39,7 +39,8 @@ Mike Pompeo es el **"Inquisidor del Estado Profundo"**. Su legado es la destrucc
 ---
 **Versión:** 2.0
 **Enfoque:** Rol en la CIA y Departamento de Estado, confesión sobre tácticas de engaño, persecución a Assange y alineación teológica con el Sionismo Cristiano.
-**Estado:** Refactoreado a v2.0 - Framework de Diplomacia Coercitiva.
+**Estado:** Refactoreado a TL V.2 - Framework de Diplomacia Coercitiva.
+
 
 
 

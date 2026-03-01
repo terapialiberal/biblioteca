@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:02.920-03:00
-modified: 2026-02-27T13:21:57.374-03:00
+modified: 2026-02-27T13:22:06.408-03:00
 tags:
   - aeropuerto
   - continuity

@@ -1,5 +1,5 @@
 ---
-titulo: "Pan Y Circo (v2.0): La Anestesia De La Dopamina Infinita"
+titulo: "Pan Y Circo (TL V.2): La Anestesia De La Dopamina Infinita"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [anestesia, dopamina, infinita, tiktok]
 publish: true
 ---
-# Pan Y Circo (v2.0): La Anestesia De La Dopamina Infinita
+# Pan Y Circo (TL V.2): La Anestesia De La Dopamina Infinita
 
 > [!ABSTRACT] Hipótesis Informativa
 > "Pan y Circo" es la **estrategia de pacificación biopolítica de [[Tier A]]** para mantener a la población de **[[Tier C]]** en un estado de servidumbre voluntaria. Mientras el Imperio Romano utilizaba trigo y gladiadores, la Matrix moderna utiliza la **Renta Básica Universal (Pan)** y el **Entretenimiento Digital Infinito (Circo)**: redes sociales, pornografía, videojuegos y deportes espectáculo. El objetivo es secuestrar los circuitos de recompensa del cerebro mediante picos constantes de dopamina, asegurando que el individuo prefiera la simulación placentera a la lucha dolorosa por su soberanía real.
@@ -38,7 +38,8 @@ Pan y Circo nos enseña que **la libertad no solo se pierde por la fuerza, sino 
 ---
 **Versión:** 2.0
 **Enfoque:** La evolución de Panem et Circenses hacia la era digital, el uso de la dopamina como herramienta de control y la neutralización de la disidencia mediante el entretenimiento total.
-**Estado:** Refactoreado a v2.0 - Framework de Ingeniería Social Antropológica.
+**Estado:** Refactoreado a TL V.2 - Framework de Ingeniería Social Antropológica.
+
 
 
 

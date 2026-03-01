@@ -30,7 +30,7 @@ publish: true
 3. **Lobbying Regulatorio**: Han impedido sistemticamente que los derivados se negocien en bolsas pblicas y transparentes, mantenindolos en el mercado "OTC" (Over-The-Counter), oscuro y opaco.
 
 ## Conexiones Crticas
-- [[Derivados (Quadrillion Dollar Bubble)]]: El mercado que regulan.
+- [[00_Glosario - Conceptos Fase 1#Derivados (Quadrillion Dollar Bubble)\|Derivados (Quadrillion Dollar Bubble)]]: El mercado que regulan.
 - [[Crisis Financiera 2008]]: El evento causado por sus productos.
 - [[Fondos Buitre]]: Usuarios intensivos de las decisiones de la ISDA (Paul Singer).
 - [[Grecia]]: El caso donde la ISDA manipul la definicin de default.

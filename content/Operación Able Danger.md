@@ -1,5 +1,5 @@
 ---
-titulo: "Operación Able Danger (v2.0): El Conocimiento Previo Del 11S"
+titulo: "Operación Able Danger (TL V.2): El Conocimiento Previo Del 11S"
 tipo: evento
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [able, danger, previo, proyecto]
 publish: true
 ---
-# Operación Able Danger (v2.0): El Conocimiento Previo Del 11S
+# Operación Able Danger (TL V.2): El Conocimiento Previo Del 11S
 
 > [!ABSTRACT] Hipótesis Informativa
 > Able Danger fue una operación de inteligencia de datos de alto nivel que identificó a **Mohammed Atta** y a otros secuestradores del 11S como una célula terrorista activa en EE.UU. **un año antes de los ataques**. El hecho de que el mando militar y los abogados del Pentágono de **[[Tier B]]** ordenaran la destrucción de los datos y prohibieran compartir la información con el FBI revela la estrategia de **LIHOP (Let It Happen On Purpose)**: el **[[Tier A]]** permitió que la tragedia ocurriera para obtener el pretexto necesario (el "Nuevo Pearl Harbor") para la expansión del control militar y la reconfiguración geopolítica de Medio Oriente.
@@ -39,7 +39,8 @@ Able Danger es la smoking gun del 11S. Nos enseña que el sistema no falló por 
 ---
 **Versión:** 2.0
 **Enfoque:** Conocimiento previo de los secuestradores de 11S, obstrucción deliberada de los analistas y la tesis de LIHOP como motor de la agenda Neoconservadora.
-**Estado:** Refactoreado a v2.0 - Framework de Inteligencia Crítica.
+**Estado:** Refactoreado a TL V.2 - Framework de Inteligencia Crítica.
+
 
 
 

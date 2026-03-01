@@ -1,15 +1,12 @@
 ---
+titulo: Hiperinflación De Weimar
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [hiperinflacin, hjalmar, tratado, weimar]
 publish: true
-created: 2026-01-29T19:17:17.192-03:00
-modified: 2026-02-27T13:07:23.650-03:00
-tags:
-  - hiperinflacin
-  - hjalmar
-  - tratado
-  - weimar
-cssclasses: ""
 ---
-
 # Hiperinflación De Weimar
 
 ## Perfil TL (Resumen Ejecutivo)
@@ -34,7 +31,7 @@ cssclasses: ""
 - [[Tratado de Versalles / Reparaciones]] (El disparador legal)
 - [[Hjalmar Schacht]] (El "salvador" que detuvo la inflación para el Tier A)
 - [[Ascenso de Hitler / Nazismo]] (La consecuencia política directa)
-- [[Banco de Pagos Internacionales (BIS)]] (Donde se gestionó la deuda post-caos)
+- [[Banco de Pagos Internacionales\|Banco de Pagos Internacionales (BIS)]] (Donde se gestionó la deuda post-caos)
 
 ## Por Qué Importa (Estilo Nico)
 

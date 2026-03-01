@@ -1,15 +1,12 @@
 ---
+titulo: Baal Y El Culto Al Capital (El Señor De La Renta)
+tipo: concepto
+fecha: 2026-02-25
+tags: [baal, capital, culto, historia]
+tier-primario: "a"
+nivel-evidencia: "alto"
 publish: true
-created: 2026-02-25T22:25:27.170-03:00
-modified: 2026-02-27T13:22:02.415-03:00
-tags:
-  - baal
-  - capital
-  - culto
-  - historia
-cssclasses: ""
 ---
-
 
 # Baal Y El Culto Al Capital (El Señor De La Renta)
 
@@ -38,7 +35,7 @@ cssclasses: ""
 ## Conexiones Críticas
 - [[Moloch - Sacrificio y Estado]]: El hermano oscuro; mientras Baal captura la renta, Moloch captura el activo biológico.
 - [[Historia de la Banca Central - El Ledger de Captura]]: La implementación técnica de Baal en la era moderna.
-- [[Tokenización de Activos Reales (RWA)]]: El intento final de Baal de poseer cada átomo de la realidad.
+- [[Tokenización de Activos Reales\|Tokenización de Activos Reales (RWA)]]: El intento final de Baal de poseer cada átomo de la realidad.
 
 ## Cui Bono
 **El Dueño del Derecho de Emisión**. El que emite la moneda es el que hereda el título de "Baal" sobre el territorio.

@@ -1,5 +1,5 @@
 ---
-titulo: "PayPal Mafia (v2.0): El Alto Mando De La Matrix Tecnológica"
+titulo: "PayPal Mafia (TL V.2): El Alto Mando De La Matrix Tecnológica"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [alto, mafia, matrix, palantir]
 publish: true
 ---
-# PayPal Mafia (v2.0): El Alto Mando De La Matrix Tecnológica
+# PayPal Mafia (TL V.2): El Alto Mando De La Matrix Tecnológica
 
 > [!ABSTRACT] Hipótesis Informativa
 > la "PayPal Mafia" no es solo un grupo de emprendedores exitosos, sino el **Célula Central de Poder de [[Tier A]]** que controla la infraestructura crítica de la vida moderna. Formada por los fundadores de PayPal (Thiel, Musk, Hoffman, Levchin), este grupo utilizó el capital de la venta a eBay en 2002 para fundar y financiar el ecosistema que hoy domina el espacio (**SpaceX**), el transporte (**Tesla**), los datos de inteligencia (**[[Palantir]]**), la opinión pública (**X/Twitter**) y el control profesional (**LinkedIn**). Son el **Estado Mayor Tecnológico** que opera mediante una red de lealtades internas para asegurar que el futuro digital sea diseñado bajo su visión de mundo.
@@ -38,7 +38,8 @@ La PayPal Mafia nos enseña que **el poder moderno no se vota, se programa**. No
 ---
 **Versión:** 2.0
 **Enfoque:** La red de lealtades internas, el control de infraestructura de vigilancia y pagos, y el rol de Thiel/Musk como arquitectos del nuevo establishment tecnocrático.
-**Estado:** Refactoreado a v2.0 - Framework de Ã‰lite Tecnocrática.
+**Estado:** Refactoreado a TL V.2 - Framework de Ã‰lite Tecnocrática.
+
 
 
 

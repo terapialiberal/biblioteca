@@ -1,15 +1,12 @@
 ---
+titulo: Eduardo Eurnekian
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [corporacin, eduardo, eurnekian, javier]
 publish: true
-created: 2026-01-29T19:17:10.983-03:00
-modified: 2026-02-27T13:22:32.457-03:00
-tags:
-  - corporacin
-  - eduardo
-  - eurnekian
-  - javier
-cssclasses: ""
 ---
-
 # Eduardo Eurnekian
 
 ## Perfil TL (Resumen Ejecutivo)
@@ -34,7 +31,7 @@ cssclasses: ""
 - [[Javier Milei]] (Su ex-empleado estrella)
 - [[Corporación América]] (Su nave de mando)
 - [[Nicolás Posse]] (Ex-gerente de AA2000 y Jefe de Gabinete)
-- [[Círculo Rojo]] (El club de poder argentino que él lidera)
+- [[00_Glosario - Conceptos Fase 1#Círculo Rojo\|Círculo Rojo]] (El club de poder argentino que él lidera)
 
 ## Fuentes
 - Reportes financieros de Corporación América Airports S.A. (NYSE: CAAP).

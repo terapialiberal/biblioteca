@@ -1,5 +1,5 @@
 ---
-titulo: "No Comply (Movimiento) [v2.0]: La Secesión Psicológica De La Matrix"
+titulo: "No Comply (Movimiento) [TL V.2]: La Secesión Psicológica De La Matrix"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [comply, indefensin, matrix, movimiento]
 publish: true
 ---
-# No Comply (Movimiento) [v2.0]: La Secesión Psicológica De La Matrix
+# No Comply (Movimiento) [TL V.2]: La Secesión Psicológica De La Matrix
 
 > [!ABSTRACT] Hipótesis Informativa
 > El movimiento "No Comply" no es una protesta política, sino la **Prueba de Fallo de la Ingeniería Social de [[Tier A]]**. Representa la recuperación de la soberanía individual mediante la negativa sistemática a participar en rituales de obediencia (confinamientos, mascarillas, pases sanitarios). Al demostrar que el poder del **[[Tier B]]** depende enteramente del consentimiento del **[[Tier C]]**, el No Comply rompe el hechizo de la **Indefensión Aprendida**, obligando a la Matrix a retroceder en sus agendas cuando se enfrenta a una minoría inquebrantable que ya no responde al miedo.
@@ -38,7 +38,8 @@ El No Comply es la salida de la caverna. Es el recordatorio de que la Matrix sol
 ---
 **Versión:** 2.0
 **Enfoque:** Resistencia civil como secesión psicológica, el fracaso de la ingeniería social de shock y la teoría de la minoría intransigente.
-**Estado:** Refactoreado a v2.0 - Framework de Resistencia Soberana.
+**Estado:** Refactoreado a TL V.2 - Framework de Resistencia Soberana.
+
 
 
 

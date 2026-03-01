@@ -1,16 +1,13 @@
 ---
+titulo: SOVEREIGN AI FACTORIES (TL V.2)
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "alto"
+tags: [factories, japn, nacionalismo, tecnolgico]
 publish: true
-created: 2026-02-25T14:29:24.065-03:00
-modified: 2026-02-27T13:23:59.022-03:00
-tags:
-  - factories
-  - japn
-  - nacionalismo
-  - tecnolgico
-cssclasses: ""
 ---
-
-# SOVEREIGN AI FACTORIES (v12_1)
+# SOVEREIGN AI FACTORIES (TL V.2)
 
 #### BLUF
 En 2026, el concepto de "Nación" ha mutado a la capacidad de procesar datos en territorio propio. Las **Sovereign AI Factories** son la respuesta de los Estados de **Tier B** ([[India]], [[Japón]], [[Italia]]) para evitar el vasallaje digital ante el **Tier A** estadounidense. Sin embargo, al depender de un solo proveedor de hardware ([[Nvidia]]), estas "fábricas de soberanía" son en realidad **Feudos de Cómputo** alquilados bajo la ilusión de independencia.
@@ -73,6 +70,7 @@ Es una democratización real del cómputo. Al permitir que cada país tenga su p
 ¿Cómo se gestionará la propiedad intelectual de los modelos entrenados en "Fábricas Soberanas" cuando el hardware es alquilado o financiado por fondos buitres internacionales (Tier A)?
 
 ---
-*Versión: 1.0 (v12_1) | Dossier de Geopolítica Digital*
+*Versión: 1.0 (TL V.2) | Dossier de Geopolítica Digital*
+
 
 

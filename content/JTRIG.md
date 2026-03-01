@@ -1,5 +1,5 @@
 ---
-titulo: "JTRIG (v2.0): El Escuadrón De La Inquisición Digital"
+titulo: "JTRIG (TL V.2): El Escuadrón De La Inquisición Digital"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [digital, five, gchq, jtrig]
 publish: true
 ---
-# JTRIG (v2.0): El Escuadrón De La Inquisición Digital
+# JTRIG (TL V.2): El Escuadrón De La Inquisición Digital
 
 > [!ABSTRACT] Hipótesis Informativa
 > JTRIG (Joint Threat Research Intelligence Group) es el **brazo operativo de la guerra sucia psicológica** en el ciberespacio. Bajo el paraguas del [[GCHQ]], esta unidad no se dedica a la defensa de redes, sino a la destrucción preventiva de individuos y grupos que amenazan los intereses del [[Tier A]]. Su metodología se basa en el "Arte del Engaño": la manipulación de percepciones, la destrucción de reputaciones y la creación de consensos artificiales mediante tácticas que violan cualquier noción de soberanía individual en internet.
@@ -45,6 +45,7 @@ JTRIG es la prueba de que **internet es el panóptico donde los guardias tambié
 **Versión:** 2.0
 **Enfoque:** Ciberguerra psicológica, tácticas de engaño estatal y destrucción de reputaciones.
 **Estado:** Refactorización Completa.
+
 
 
 

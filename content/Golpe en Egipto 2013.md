@@ -12,7 +12,7 @@ publish: true
 ## Perfil TL (Resumen Ejecutivo)
 **Qu fue?** La intervencin militar liderada por el General Abdel Fattah el-Sisi que derroc al primer presidente elegido democrticamente en Egipto, Mohamed Morsi, tras protestas masivas contra su gobierno vinculado a los Hermanos Musulmanes.
 
-**Por qu importa?** El Golpe en Egipto es el ejemplo de **"Restauracin del Orden del Estado Profundo"**. Despus del caos controlado de las **[[Primaveras rabes]]**, el Tier A regional e internacional decidi que el experimento democrtico de los Hermanos Musulmanes era demasiado inestable para los intereses petroleros y de seguridad. Al-Sisi actu como el **operador de Tier B encargado de "quemar" la democracia** para devolver el poder al complejo militar-industrial egipcio, financiado masivamente por EE.UU. y Arabia Saudita. Demostr que, en el Medio Oriente, el Tier A prefiere una dictadura militar predecible que una democracia religiosa impredecible. La masacre de la plaza Rabaa (donde murieron cientos de manifestantes) fue el precio que el sistema estuvo dispuesto a pagar para cerrar el parntesis de la "insurreccin popular".
+**Por qu importa?** El Golpe en Egipto es el ejemplo de **"Restauracin del Orden del Estado Profundo"**. Despus del caos controlado de las **[[Primaveras Árabes\|Primaveras rabes]]**, el Tier A regional e internacional decidi que el experimento democrtico de los Hermanos Musulmanes era demasiado inestable para los intereses petroleros y de seguridad. Al-Sisi actu como el **operador de Tier B encargado de "quemar" la democracia** para devolver el poder al complejo militar-industrial egipcio, financiado masivamente por EE.UU. y Arabia Saudita. Demostr que, en el Medio Oriente, el Tier A prefiere una dictadura militar predecible que una democracia religiosa impredecible. La masacre de la plaza Rabaa (donde murieron cientos de manifestantes) fue el precio que el sistema estuvo dispuesto a pagar para cerrar el parntesis de la "insurreccin popular".
 
 ## Anlisis De Poder (Tiers)
 
@@ -28,9 +28,9 @@ publish: true
 *   "Segunda revolucin para salvar la identidad egipcia". "Intervencin necesaria para evitar una teocracia". Narrativas que convencieron a una parte del Tier C de aplaudir el regreso de la bota militar, sin darse cuenta de que estaban intercambiando una libertad fallida por una opresin duradera.
 
 ## Conexiones Clave
-- [[Primaveras rabes]] (El contexto previo)
+- [[Primaveras Árabes\|Primaveras rabes]] (El contexto previo)
 - [[Hermanos Musulmanes]] (El enemigo a neutralizar)
-- [[Arabia Saudita]] (El financista del golpe)
+- [[00_Glosario - Conceptos Fase 1#Arabia Saudita\|Arabia Saudita]] (El financista del golpe)
 - [[Estado Profundo (Egipto)]] (La estructura de poder permanente)
 
 ## Por Qu Importa (Estilo Nico)

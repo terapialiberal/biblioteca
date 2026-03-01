@@ -1,5 +1,5 @@
 ---
-titulo: "Principio De No Agresión (v2.0): La Muralla Ã‰tica Del Individuo"
+titulo: "Principio De No Agresión (TL V.2): La Muralla Ã‰tica Del Individuo"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [anarcocapitalismo, muralla, murray, principio]
 publish: true
 ---
-# Principio De No Agresión (v2.0): La Muralla Ã‰tica Del Individuo
+# Principio De No Agresión (TL V.2): La Muralla Ã‰tica Del Individuo
 
 > [!ABSTRACT] Hipótesis Informativa
 > El Principio de No Agresión (NAP) es el **Criptosistema Ã‰tico de [[Tier C]]** diseñado para declarar la ilegitimidad intrínseca de la Matrix estatal. Sostiene que nadie (individuo o grupo) tiene el derecho de iniciar el uso de la fuerza física o el fraude contra la persona o la propiedad de otro. El NAP no es solo una regla moral; es una **Herramienta de Deslegitimación del [[Tier A]]**, ya que si se aplica de forma coherente, desvela que todas las funciones del Estado (impuestos, regulaciones, guerras) son violaciones criminales de la propiedad privada y la soberanía individual.
@@ -38,7 +38,8 @@ El Principio de No Agresión es la brújula moral en la niebla de la Matrix. Nos
 ---
 **Versión:** 2.0
 **Enfoque:** El NAP como herramienta de deslegitimación estatal, la autopropiedad como base ética y la agresión sistémica del Tier A.
-**Estado:** Refactoreado a v2.0 - Framework de Ã‰tica Soberana.
+**Estado:** Refactoreado a TL V.2 - Framework de Ã‰tica Soberana.
+
 
 
 

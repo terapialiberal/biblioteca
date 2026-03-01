@@ -1,5 +1,5 @@
 ---
-titulo: "Plum Island (v2.0): El Laboratorio De La Garrapata Armadizada"
+titulo: "Plum Island (TL V.2): El Laboratorio De La Garrapata Armadizada"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [erich, garrapata, laboratorio, plum]
 publish: true
 ---
-# Plum Island (v2.0): El Laboratorio De La Garrapata Armadizada
+# Plum Island (TL V.2): El Laboratorio De La Garrapata Armadizada
 
 > [!ABSTRACT] Hipótesis Informativa
 > Plum Island es la **Instalación de Guerra Biológica de [[Tier B]]** donde se originó, por accidente o diseño, la epidemia de la **[[Enfermedad de Lyme Armadizada]]**. Bajo la dirección inicial de **[[Erich Traub]]** (especialista nazi en virus traído por la **[[Operación Paperclip]]**), el laboratorio investigó patógenos transmitidos por insectos para destruir la economía ganadera soviética. La cercanía geográfica extrema entre la isla y el brote original en Old Lyme, Connecticut, junto con documentos desclasificados sobre experimentos de dispersión de garrapatas desde el aire, sitúa a Plum Island como la Zona Cero de un desastre biológico oculto que el Estado ha encubierto durante décadas.
@@ -38,7 +38,8 @@ Plum Island nos enseña que **las islas del gobierno suelen ser laboratorios de 
 ---
 **Versión:** 2.0
 **Enfoque:** La dirección de Erich Traub, la conexión geográfica con el brote de Lyme, los experimentos con garrapatas armadizadas y la herencia de la Operación Paperclip en la investigación biológica de EE.UU.
-**Estado:** Refactoreado a v2.0 - Framework de Bioguerra Clandestina.
+**Estado:** Refactoreado a TL V.2 - Framework de Bioguerra Clandestina.
+
 
 
 

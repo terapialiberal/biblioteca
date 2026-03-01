@@ -1,16 +1,13 @@
 ---
+titulo: J.D. VANCE (TL V.2)
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "alto"
+tags: [embajador, peter, silicon, vance]
 publish: true
-created: 2026-02-25T15:42:29.816-03:00
-modified: 2026-02-27T13:22:59.623-03:00
-tags:
-  - embajador
-  - peter
-  - silicon
-  - vance
-cssclasses: ""
 ---
-
-# J.D. VANCE (v12_1)
+# J.D. VANCE (TL V.2)
 
 #### BLUF
 J.D. Vance es el **Eslabón Político** entre el capital de riesgo de Tier A ([[Peter Thiel]]) y el bloque de poder nacionalista de Tier B. En 2026, Vance ha consolidado la narrativa de que el "interés nacional" de EE.UU. es indistinguible del dominio global de sus empresas de IA y defensa. Vance es el rostro de una **Derecha Post-Libertaria** que utiliza el poder del Estado para proteger los monopolios tecnológicos nacionales bajo el pretexto de la lucha contra China.
@@ -73,6 +70,7 @@ Vance es simplemente un político que entiende que el futuro de su país depende
 ¿Hasta qué punto Vance está coordinando su agenda legislativa con los planes de despliegue físico de Microsoft y Google en el Midwest para asegurar el "enclosure" de recursos?
 
 ---
-*Perfil forense v12_1 | El Rostro de la Tecnocracia de la Nueva Derecha*
+*Perfil forense TL V.2 | El Rostro de la Tecnocracia de la Nueva Derecha*
+
 
 

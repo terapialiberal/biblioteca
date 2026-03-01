@@ -1,5 +1,5 @@
 ---
-titulo: "Plan Andinia (v2.0): El Arca De Noé De La Patagonia"
+titulo: "Plan Andinia (TL V.2): El Arca De Noé De La Patagonia"
 tipo: evento
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [arca, guerra, patagonia, theodore]
 publish: true
 ---
-# Plan Andinia (v2.0): El Arca De Noé De La Patagonia
+# Plan Andinia (TL V.2): El Arca De Noé De La Patagonia
 
 > [!ABSTRACT] Hipótesis Informativa
 > El Plan Andinia es la **Estrategia de Geopolítica de [[Tier A]] para la creación de un enclave de soberanía extraterritorial** en la Patagonia argentino-chilena. Lejos de ser solo un mito nacionalista, se manifiesta mediante la **Captura de Tierras Estratégicas** (Joe Lewis, Benetton, Tompkins) que controlan las mayores reservas de agua dulce del mundo. La hipótesis sostiene que ante un colapso del hemisferio norte, la Patagonia ha sido designada como un **"Refugio de Continuidad"** para la élite global, utilizando la presencia masiva de soldados israelíes en servicio (mochileros) como una fuerza de reconocimiento y mapeo permanente de un territorio que el **[[Tier C]]** local está perdiendo de facto.
@@ -38,7 +38,8 @@ El Plan Andinia nos enseña que **las fronteras son invisibles para quienes tien
 ---
 **Versión:** 2.0
 **Enfoque:** La Patagonia como refugio para la élite de Tier A, la presencia de inteligencia del IDF bajo la fachada de mochileros, y el control de Lewis y Benetton sobre el agua dulce.
-**Estado:** Refactoreado a v2.0 - Framework de Ocupación Territorial Silenciosa.
+**Estado:** Refactoreado a TL V.2 - Framework de Ocupación Territorial Silenciosa.
+
 
 
 

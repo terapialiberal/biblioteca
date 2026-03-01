@@ -1,5 +1,5 @@
 ---
-titulo: "Koch Industries (v2.0): Los Arquitectos De La Libertad Corporativa"
+titulo: "Koch Industries (TL V.2): Los Arquitectos De La Libertad Corporativa"
 tipo: empresa
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [cato, industries, koch, mercatus]
 publish: true
 ---
-# Koch Industries (v2.0): Los Arquitectos De La Libertad Corporativa
+# Koch Industries (TL V.2): Los Arquitectos De La Libertad Corporativa
 
 > [!ABSTRACT] Hipótesis Informativa
 > Koch Industries constituye el **centro de gravedad de la facción "productivista" del [[Tier A]]**. Mientras que otras dinastías de élite apuestan por el control digital y financiero, los Koch dominan la base física de la economía (energía, materiales, alimentos). Su función es capturar la narrativa de la "libertad individual" del [[Tier C]] para transformarla en un escudo de protección para la autonomía corporativa absoluta. A través de una red masiva de think tanks y grupos de presión, han diseñado una **oposición controlada** que permite al sistema avanzar hacia la desregulación ambiental y laboral sin perder la legitimidad democrática.
@@ -45,6 +45,7 @@ Koch Industries es el **"Estado Profundo de la Derecha"**. Su importancia reside
 **Versión:** 2.0
 **Enfoque:** Control de la infraestructura energética, financiación de think tanks para la ingeniería social conservadora y captura del poder judicial para proteger la autonomía corporativa.
 **Estado:** Refactorización Completa.
+
 
 
 

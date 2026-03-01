@@ -1,5 +1,5 @@
 ---
-titulo: "John Poindexter (v2.0): El Ingeniero De La Matrix De Vigilancia"
+titulo: "John Poindexter (TL V.2): El Ingeniero De La Matrix De Vigilancia"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,10 +7,10 @@ nivel-evidencia: "medio"
 tags: [irn, matrix, total, vigilancia]
 publish: true
 ---
-# John Poindexter (v2.0): El Ingeniero De La Matrix De Vigilancia
+# John Poindexter (TL V.2): El Ingeniero De La Matrix De Vigilancia
 
 > [!ABSTRACT] Hipótesis Informativa
-> John Poindexter es el **nexo operativo entre la insurgencia estatal de la Guerra Fría y la tecnocracia de vigilancia del siglo XXI**. Como ejecutor de [[Irán-Contra]], demostró la capacidad del [[Tier B]] para operar mediante presupuestos negros y criminalidad paramilitar. Su legado definitivo fue la creación del programa **[[Total Information Awareness (TIA)]]** en [[DARPA]], el primer intento de centralizar toda la información digital del [[Tier C]] para la predicción conductual y el control social, un modelo que posteriormente mutó en la industria privada de vigilancia masiva encarnada por entidades como **[[Palantir]]**.
+> John Poindexter es el **nexo operativo entre la insurgencia estatal de la Guerra Fría y la tecnocracia de vigilancia del siglo XXI**. Como ejecutor de [[Irán-Contra]], demostró la capacidad del [[Tier B]] para operar mediante presupuestos negros y criminalidad paramilitar. Su legado definitivo fue la creación del programa **[[Total Information Awareness\|Total Information Awareness (TIA)]]** en [[DARPA]], el primer intento de centralizar toda la información digital del [[Tier C]] para la predicción conductual y el control social, un modelo que posteriormente mutó en la industria privada de vigilancia masiva encarnada por entidades como **[[Palantir]]**.
 
 ## Análisis De Tiers
 
@@ -33,7 +33,7 @@ publish: true
 
 ## Conexiones Críticas
 - [[Irán-Contra]]: Su bautismo de fuego en el Deep State.
-- [[Total Information Awareness (TIA)]]: Su manual operativo para el control poblacional.
+- [[Total Information Awareness\|Total Information Awareness (TIA)]]: Su manual operativo para el control poblacional.
 - [[Palantir / Peter Thiel]]: Los beneficiarios finales de su arquitectura de datos.
 - [[DARPA]]: El laboratorio donde el Tier B diseña las pesadillas del Tier C.
 - [[Oliver North]]: Su brazo ejecutor en la logística del contrabando estatal.
@@ -45,6 +45,7 @@ John Poindexter es el **"Arquitecto del Panóptico Electrónico"**. Su carrera e
 **Versión:** 2.0
 **Enfoque:** Vigilancia masiva predictiva, operaciones encubiertas fuera del presupuesto oficial y la base tecnológica de Palantir.
 **Estado:** Refactorización Completa.
+
 
 
 

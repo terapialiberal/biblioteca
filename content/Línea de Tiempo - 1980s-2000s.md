@@ -33,11 +33,12 @@ publish: true
 ---
 
 ## Conexiones De La Red
-- **Personas Clave:** [[George H.W. Bush]], [[Dick Cheney]], [[Donald Rumsfeld]], [[Bill Clinton]].
+- **Personas Clave:** [[George H. W. Bush\|George H.W. Bush]], [[Dick Cheney]], [[Donald Rumsfeld]], [[Bill Clinton]].
 - **Operativos:** [[Oliver North]], [[Barry Seal]], [[Jeffrey Epstein]] (Inicio de carrera).
 - **Conceptos:** [[Shock Doctrine]], [[Presupuesto Negro]], [[Falsa Bandera]], [[Especulación Financiera]].
 
-**Estado:** Refactoreado a v2.0 - Perspectiva de Inteligencia Sistémica.
+**Estado:** Refactoreado a TL V.2 - Perspectiva de Inteligencia Sistémica.
+
 
 
 

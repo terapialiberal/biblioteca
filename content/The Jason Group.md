@@ -1,15 +1,12 @@
 ---
+titulo: "The Jason Group: La Élite Científica Del Pentágono"
+tipo: empresa
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [cientfica, darpa, jason, proyecto]
 publish: true
-created: 2026-01-29T19:17:39.767-03:00
-modified: 2026-02-27T13:24:03.076-03:00
-tags:
-  - cientfica
-  - darpa
-  - jason
-  - proyecto
-cssclasses: ""
 ---
-
 # The Jason Group: La Élite Científica Del Pentágono
 
 > [!ABSTRACT] Hipótesis Informativa
@@ -35,8 +32,8 @@ cssclasses: ""
 
 ## Conexiones Críticas
 - [[DARPA]]: Su principal cliente.
-- [[Proyecto Manhattan]]: El origen espiritual del grupo (muchos fundadores vinieron de ahí).
-- [[Mitre Corporation]]: Su actual administrador administrativo.
+- [[00_Glosario - Conceptos Fase 1#Proyecto Manhattan\|Proyecto Manhattan]]: El origen espiritual del grupo (muchos fundadores vinieron de ahí).
+- [[Mitre Corporation\|MITRE Corporation]]: Su actual administrador administrativo.
 - [[Guerra de Vietnam]]: Su campo de pruebas inicial.
 
 ## Conclusión Del Análisis

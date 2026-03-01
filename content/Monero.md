@@ -1,5 +1,5 @@
 ---
-titulo: "Monero (v2.0): El Efectivo Digital Inconfiscable"
+titulo: "Monero (TL V.2): El Efectivo Digital Inconfiscable"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [bitcoin, digital, efectivo, monedas]
 publish: true
 ---
-# Monero (v2.0): El Efectivo Digital Inconfiscable
+# Monero (TL V.2): El Efectivo Digital Inconfiscable
 
 > [!ABSTRACT] Hipótesis Informativa
 > Monero (XMR) es la única criptomoneda que cumple la promesa original del movimiento Cypherpunk: **Dinero digital, descentralizado y absolutamente privado**. A diferencia de Bitcoin (que es un libro contable público y transparente), Monero utiliza criptografía avanzada (**Ring Signatures, Stealth Addresses, RingCT**) para ofuscar el emisor, el receptor y el monto de cada transacción por defecto. Esto lo convierte en la principal amenaza técnica para el sistema de vigilancia financiera del **[[Tier A]]**, razón por la cual el IRS ha puesto precio a la cabeza de su código (Bounties de rastreo fallidos) y es la moneda estándar de la economía libre de censura (Darknet/Resistencia).
@@ -39,7 +39,8 @@ Monero no compite con Bitcoin por el "Number Go Up"; compite contra el Euro Digi
 ---
 **Versión:** 2.0
 **Enfoque:** Superioridad técnica sobre Bitcoin en privacidad, algoritmo RandomX, fungibilidad como dinero real y resistencia a la vigilancia estatal.
-**Estado:** Refactoreado a v2.0 - Framework de Criptografía Ofensiva.
+**Estado:** Refactoreado a TL V.2 - Framework de Criptografía Ofensiva.
+
 
 
 

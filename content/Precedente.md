@@ -1,5 +1,5 @@
 ---
-titulo: "Precedente: El Método De Investigación Del Patrón (v2.0)"
+titulo: "Precedente: El Método De Investigación Del Patrón (TL V.2)"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [antony, investigacin, mtodo, precedente]
 publish: true
 ---
-# Precedente: El Método De Investigación Del Patrón (v2.0)
+# Precedente: El Método De Investigación Del Patrón (TL V.2)
 
 > [!ABSTRACT] Hipótesis Informativa
 > El Método del Precedente es la **herramienta de contra-inteligencia soberana de [[Tier C]]** para detectar las mentiras de la Matrix en tiempo real. Se basa en el axioma de que el sistema recicla sus tácticas de control debido a que la psicología de masas es constante. Si un evento actual presenta anomalías similares a una operación de falsa bandera o ingeniería social del pasado, el investigador puede **Predecir el Resultado** y desmantelar la narrativa oficial antes de que sea aceptada como verdad histórica. Dominar el precedente es aprender a leer el "guion" antes de que los actores salgan a escena.
@@ -38,7 +38,8 @@ El Precedente es el fin de la sorpresa. Nos enseña que **quien controla el pasa
 ---
 **Versión:** 2.0
 **Enfoque:** Uso del patrón histórico para predecir tácticas de falsa bandera, la desmemoria inducida como herramienta de control y la soberanía del investigador de Tier C.
-**Estado:** Refactoreado a v2.0 - Framework de Metodología Crítica.
+**Estado:** Refactoreado a TL V.2 - Framework de Metodología Crítica.
+
 
 
 

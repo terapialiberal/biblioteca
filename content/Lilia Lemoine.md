@@ -1,15 +1,12 @@
 ---
+titulo: "Lilia Lemoine: La Interfaz Estética De La Anti-Política"
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [esttica, guerra, lilia, poltica]
 publish: true
-created: 2026-01-29T19:17:22.556-03:00
-modified: 2026-02-27T13:23:14.015-03:00
-tags:
-  - esttica
-  - guerra
-  - lilia
-  - poltica
-cssclasses: ""
 ---
-
 # Lilia Lemoine: La Interfaz Estética De La Anti-Política
 
 > [!ABSTRACT] Resumen de Inteligencia
@@ -18,7 +15,7 @@ cssclasses: ""
 ## Análisis De Poder (Matrix)
 
 ### Tier C: El Factor Distracción (Shock and Awe)
-*   **La Gestión del Escándalo:** Lemoine actúa como un pararrayos de controversias. Sus declaraciones extravagantes (terraplanismo, paternidad opcional, etc.) sirven para saturar la conversación pública, permitiendo que las reformas estructurales de **Tier A** (como el **[[RIGI]]** o privatizaciones) pasen con menos escrutinio mediático.
+*   **La Gestión del Escándalo:** Lemoine actúa como un pararrayos de controversias. Sus declaraciones extravagantes (terraplanismo, paternidad opcional, etc.) sirven para saturar la conversación pública, permitiendo que las reformas estructurales de **Tier A** (como el **[[00_Glosario - Conceptos Fase 1#RIGI\|RIGI]]** o privatizaciones) pasen con menos escrutinio mediático.
 *   **La Esteticista del Poder:** Su rol original como maquilladora de [[Javier Milei]] (diseño de la papada, peinado característico) no es trivial; es la construcción de una **Marca Mesiánica** diseñada para la viralidad.
 
 ### Tier B: Operativa Digital
@@ -36,7 +33,8 @@ Lemoine es el síntoma de una política que ha dejado de ser debate de ideas par
 - **Conceptos:** [[Batalla Cultural (Argentina)]], [[Anti-Política]], [[Populismo Digital]].
 - **Contexto:** [[La Libertad Avanza]].
 
-**Estado:** Refactoreado a v2.0 - Framework de Inteligencia Aplicado.
+**Estado:** Refactoreado a TL V.2 - Framework de Inteligencia Aplicado.
+
 
 
 

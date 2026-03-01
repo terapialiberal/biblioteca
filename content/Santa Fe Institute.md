@@ -1,5 +1,5 @@
 ---
-titulo: "Santa Fe Institute (v2.0): El Modelador De Los Sistemas Y El Caos De La Matrix"
+titulo: "Santa Fe Institute (TL V.2): El Modelador De Los Sistemas Y El Caos De La Matrix"
 tipo: organizacion
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [gran, jeffrey, matrix, modelador]
 publish: true
 ---
-# Santa Fe Institute (v2.0): El Modelador De Los Sistemas Y El Caos De La Matrix
+# Santa Fe Institute (TL V.2): El Modelador De Los Sistemas Y El Caos De La Matrix
 
 > [!ABSTRACT] Hipótesis Informativa
 > El Santa Fe Institute (SFI) es el **Centro de Modelado Estratégico de [[Tier B]]** encargado de descifrar y predecir los comportamientos de los sistemas complejos (economía, sociedades, epidemias). Fundado por científicos de Los Álamos, su función real es proveer al **[[Tier A]]** la capacidad de realizar **Ingeniería Social Algorítmica**: entender cómo pequeños cambios en una red pueden provocar colapsos o reestructuraciones masivas. El SFI es el laboratorio donde la "Teoría del Caos" se transforma en una herramienta de gestión administrativa para la Matrix, permitiendo el control de las poblaciones de **[[Tier C]]** mediante la simulación y la predicción de su comportamiento sistémico.
@@ -39,7 +39,8 @@ El Santa Fe Institute nos enseña que **quien entiende la red, domina el tráfic
 ---
 **Versión:** 2.0
 **Enfoque:** El SFI como centro de modelado de sistemas complejos para la élite, su origen en Los Álamos, la conexión con las donaciones de Epstein y su rol en la creación de herramientas de ingeniería social predictiva.
-**Estado:** Refactoreado a v2.0 - Framework de Ciencia de la Complejidad y Control de Sistemas.
+**Estado:** Refactoreado a TL V.2 - Framework de Ciencia de la Complejidad y Control de Sistemas.
+
 
 
 

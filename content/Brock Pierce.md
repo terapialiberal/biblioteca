@@ -1,14 +1,12 @@
 ---
 publish: true
-created: 2026-01-29T19:17:05.969-03:00
-modified: 2026-02-27T13:06:27.730-03:00
-tags:
-  - brock
-  - pierce
-  - tether
-cssclasses: ""
+titulo: Brock Pierce
+tipo: persona
+fecha: 2026-02-25
+tier-primario: b
+nivel-evidencia: medio
+tags: [brock, pierce, tether]
 ---
-
 # Brock Pierce
 
 ## Resumen Biogrfico
@@ -127,7 +125,7 @@ Pierce fue actor infantil de Disney en los 90. Pas de DEN (escndalo de abuso) a 
 - [[Larry Summers]]
 - [[Peter Thiel]]
 - [[La mafia de PayPal]]
-- [[MIT Media Lab]]
+- [[00_Glosario - Conceptos Fase 1#MIT Media Lab\|MIT Media Lab]]
 
 
 

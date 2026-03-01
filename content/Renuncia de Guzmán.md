@@ -1,5 +1,5 @@
 ---
-titulo: 'Renuncia De Guzmán (v2.0): El Colapso De La Simulación "Sarasa"'
+titulo: 'Renuncia De Guzmán (TL V.2): El Colapso De La Simulación "Sarasa"'
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [alberto, cristina, guzmn, renuncia]
 publish: true
 ---
-# Renuncia De Guzmán (v2.0): El Colapso De La Simulación "Sarasa"
+# Renuncia De Guzmán (TL V.2): El Colapso De La Simulación "Sarasa"
 
 > [!ABSTRACT] Hipótesis Informativa
 > La renuncia de Martín Guzmán al Ministerio de Economía de Argentina fue un **Evento de Implosión de [[Tier B]]** que desnudó la ingobernabilidad de la coalición Frente de Todos. Ejecutada vía Twitter mientras la vicepresidenta **[[Cristina Fernández de Kirchner (CFK)]]** hablaba en vivo, la salida de Guzmán no fue solo un desacuerdo técnico sobre el **[[FMI]]**, sino la claudicación del "académico de la Matrix" ante el Lawfare interno y la realidad termodinámica de un modelo de gasto insostenible. Su función real en la historia argentina fue la de un **"Agente de Dilación"**: un operador enviado desde la academia de EE.UU. para postergar el colapso mediante la retórica ("Sarasa") mientras el poder real se desintegraba en la interna palaciega.
@@ -23,11 +23,11 @@ publish: true
 ## ¸ Mecanisms De Poder (Políticos Y Económicos)
 
 1.  **Sarasa (Obscurecimiento Técnico)**: El uso de lenguaje académico complejo para ocultar la falta de plan real y la sumisión a los dictados de las élites financieras internacionales, manteniendo al Tier C en un estado de confusión mientras se licuaban sus ahorros.
-2.  **Renuncia como Sabotaje**: El timing deliberado de la renuncia para maximizar el impacto mediático y político sobre el presidente **[[Alberto Fernández]]**, demostrando que en la Matrix política argentina, la traición es el método estándar de reequilibrio de fuerzas.
+2.  **Renuncia como Sabotaje**: El timing deliberado de la renuncia para maximizar el impacto mediático y político sobre el presidente **[[00_Glosario - Conceptos Fase 1#Alberto Fernández\|Alberto Fernández]]**, demostrando que en la Matrix política argentina, la traición es el método estándar de reequilibrio de fuerzas.
 
 ## Conexiones Críticas
 - [[Martín Guzmán]]: El ministro que "no se quería ir sin avisar... pero avisó por Twitter".
-- [[Alberto Fernández]]: El presidente cuya autoridad terminó de morir ese sábado.
+- [[00_Glosario - Conceptos Fase 1#Alberto Fernández\|Alberto Fernández]]: El presidente cuya autoridad terminó de morir ese sábado.
 - [[Cristina Fernández de Kirchner (CFK)]]: El arquitecto de la salida de Guzmán.
 - [[FMI]]: El acreedor de Tier A que Guzmán intentó contentar sin éxito.
 - [[Sergio Massa]]: El beneficiario final que tomó el poder total del gabinete semanas después.
@@ -38,7 +38,8 @@ La Renuncia de Guzmán nos enseña que **el conocimiento técnico sin respaldo p
 ---
 **Versión:** 2.0
 **Enfoque:** La salida de Guzmán como síntoma del vacío de poder, el origen del término "Sarasa" como técnica de oscurecimiento y la interna CFK-Alberto como causa del pánico financiero.
-**Estado:** Refactoreado a v2.0 - Framework de Crisis Política y Economía Argentina.
+**Estado:** Refactoreado a TL V.2 - Framework de Crisis Política y Economía Argentina.
+
 
 
 

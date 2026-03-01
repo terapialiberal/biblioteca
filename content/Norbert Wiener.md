@@ -1,5 +1,5 @@
 ---
-titulo: "Norbert Wiener (v2.0): El Programador Del Sistema Operativo Social"
+titulo: "Norbert Wiener (TL V.2): El Programador Del Sistema Operativo Social"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [norbert, sistema, transhumanismo, wiener]
 publish: true
 ---
-# Norbert Wiener (v2.0): El Programador Del Sistema Operativo Social
+# Norbert Wiener (TL V.2): El Programador Del Sistema Operativo Social
 
 > [!ABSTRACT] Hipótesis Informativa
 > Norbert Wiener es el **Padre Intelectual de la Matrix**. Al fundar la Cibernética, proporcionó al [[Tier A]] el manual técnico para transformar la sociedad de un organismo vivo en un sistema de procesamiento de información controlable. Su concepto de *feedback loop* (bucle de retroalimentación) es el "código fuente" de toda la ingeniería social moderna, permitiendo que el poder pase de la coerción física a la gestión algorítmica de la conducta humana.
@@ -45,6 +45,7 @@ Norbert Wiener fue el genio que nos dio el mapa de nuestra prisión, pero tambi�
 **Versión:** 2.0
 **Enfoque:** Ciencia del control, retroalimentación social y los fundamentos técnicos de la gobernanza algorítmica.
 **Estado:** Refactorización Completa.
+
 
 
 

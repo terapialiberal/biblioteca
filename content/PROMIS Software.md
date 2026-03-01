@@ -1,5 +1,5 @@
 ---
-titulo: "PROMIS Software (v2.0): El Caballo De Troya Original"
+titulo: "PROMIS Software (TL V.2): El Caballo De Troya Original"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [original, palantir, robert, software]
 publish: true
 ---
-# PROMIS Software (v2.0): El Caballo De Troya Original
+# PROMIS Software (TL V.2): El Caballo De Troya Original
 
 > [!ABSTRACT] Hipótesis Informativa
 > PROMIS (Prosecutorâ€™s Management Information System) es el **pecado original de la vigilancia digital global de [[Tier A]]**. Desarrollado por Inslaw Inc. como el primer software capaz de integrar bases de datos incompatibles, fue robado por el Departamento de Justicia de EE.UU. e infectado con una "puerta trasera" (backdoor) en colaboración con el Mossad. Vendido a agencias de inteligencia de todo el mundo mediante agentes como **[[Robert Maxwell]]**, PROMIS permitió a la CIA y al Mossad leer los secretos de aliados y enemigos durante décadas. Es el ancestro directo de **[[Palantir]]** y **[[Pegasus]]**, marcando el inicio de la era donde el software es el arma suprema de control geopolítico.
@@ -39,7 +39,8 @@ PROMIS nos enseña que **el software es una extensión de la soberanía**. Nos a
 ---
 **Versión:** 2.0
 **Enfoque:** El robo del software a Inslaw, la inserción del backdoor por el Mossad, el rol de Robert Maxwell y la conexión con el caso Casolaro/Octopus.
-**Estado:** Refactoreado a v2.0 - Framework de Espionaje de Software.
+**Estado:** Refactoreado a TL V.2 - Framework de Espionaje de Software.
+
 
 
 

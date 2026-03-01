@@ -1,15 +1,12 @@
 ---
+titulo: Charles Lieber
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [charles, lieber, programa, wuhan]
 publish: true
-created: 2026-01-29T19:17:07.381-03:00
-modified: 2026-02-27T13:07:38.159-03:00
-tags:
-  - charles
-  - lieber
-  - programa
-  - wuhan
-cssclasses: ""
 ---
-
 # Charles Lieber
 
 ## Perfil TL (Resumen Ejecutivo)
@@ -34,7 +31,7 @@ cssclasses: ""
 - [[Programa Mil Talentos]] (Mecanismo de captura chino)
 - [[Wuhan]] (Su centro operativo secreto)
 - [[Transhumanismo]] (El fin de su ciencia)
-- [[Nanotecnología]] (Su herramienta)
+- [[Nano-tecnología\|Nanotecnología]] (Su herramienta)
 
 ## Fuentes
 - Departamento de Justicia de EE.UU.: Comunicados de prensa sobre el arresto y sentencia de Charles Lieber.

@@ -1,15 +1,12 @@
 ---
+titulo: Hjalmar Schacht
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [bonos, hjalmar, montagu, schacht]
 publish: true
-created: 2026-01-29T19:17:17.279-03:00
-modified: 2026-02-27T13:06:50.583-03:00
-tags:
-  - bonos
-  - hjalmar
-  - montagu
-  - schacht
-cssclasses: ""
 ---
-
 # Hjalmar Schacht
 
 ## Perfil TL (Resumen Ejecutivo)
@@ -31,7 +28,7 @@ cssclasses: ""
 *   "El genio que eliminó el desempleo". "El patriota alemán que salvó la economía post-Weimar". Narrativas de Tier B diseñadas para que el Tier C amara al régimen, ocultando que el "milagro" era una burbuja crediticia militarizada que solo podía sostenerse mediante la invasión y el saqueo de otros países. Schacht fue el encargado de endulzar la píldora económica antes del veneno de la guerra total.
 
 ## Conexiones Clave
-- [[BIS (Banco de Pagos Internacionales)]] (Su base de operaciones real)
+- [[Banco de Pagos Internacionales\|BIS (Banco de Pagos Internacionales)]] (Su base de operaciones real)
 - [[Montagu Norman / Banco de Inglaterra]] (Su socio y protector británico)
 - [[IG Farben / Wall Street]] (Sus clientes corporativos)
 - [[Bonos MEFO]] (Su arma de destrucción crediticia)

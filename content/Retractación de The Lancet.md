@@ -1,5 +1,5 @@
 ---
-titulo: 'Retractación De The Lancet (v2.0): El Fraude De La "Ciencia" Como Arma De Guerra'
+titulo: 'Retractación De The Lancet (TL V.2): El Fraude De La "Ciencia" Como Arma De Guerra'
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [donald, lancet, retractacin, surgisphere]
 publish: true
 ---
-# Retractación De The Lancet (v2.0): El Fraude De La "Ciencia" Como Arma De Guerra
+# Retractación De The Lancet (TL V.2): El Fraude De La "Ciencia" Como Arma De Guerra
 
 > [!ABSTRACT] Hipótesis Informativa
 > La publicación y posterior retractación de un estudio masivo sobre la Hidroxicloroquina en **[[The Lancet]]** fue el **Fraude Científico de [[Tier B]]** más flagrante de la era COVID. Utilizando datos falsos proporcionados por una empresa fantasma llamada **[[Surgisphere]]**, (cuyos empleados incluían a una actriz porno y un escritor de ciencia ficción), el estudio afirmó que el fármaco aumentaba la mortalidad. Su función real fue la **Neutralización Política y Farmacéutica**: desacreditar una opción de tratamiento barata promovida por **[[Donald Trump]]** para despejar el mercado hacia fármacos patentados y caros (**[[Remdesivir (Protocolo)\|Remdesivir]]**) y asegurar que la única salida fuera la vacunación masiva.
@@ -38,7 +38,8 @@ La Retractación de The Lancet nos enseña que **las revistas científicas de é
 ---
 **Versión:** 2.0
 **Enfoque:** El escándalo de Surgisphere como operación de desinformación científica, el uso de The Lancet para atacar a Trump y prohibir tratamientos baratos, y el impacto en la autonomía médica.
-**Estado:** Refactoreado a v2.0 - Framework de Biopolítica e Integridad Científica.
+**Estado:** Refactoreado a TL V.2 - Framework de Biopolítica e Integridad Científica.
+
 
 
 

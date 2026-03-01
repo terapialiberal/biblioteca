@@ -1,5 +1,5 @@
 ---
-titulo: "Milton Friedman (v2.0): El Mercenario Académico Del Neoliberalismo"
+titulo: "Milton Friedman (TL V.2): El Mercenario Académico Del Neoliberalismo"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [friedman, milton, neoliberalismo, reserva]
 publish: true
 ---
-# Milton Friedman (v2.0): El Mercenario Académico Del Neoliberalismo
+# Milton Friedman (TL V.2): El Mercenario Académico Del Neoliberalismo
 
 > [!ABSTRACT] Hipótesis Informativa
 > Milton Friedman no fue el defensor de la libertad que la historia oficial retrata, sino el **intelectual orgánico más eficaz del [[Tier A]] bancario**. Su rol histórico fue proporcionar la coartada académica ("Libertad de Elegir") para desmantelar la soberanía económica de los estados-nación y entregar los bienes públicos al capital financiero transnacional. Como padre de la **Escuela de Chicago**, diseñó la "Doctrina del Shock": el uso de crisis traumáticas para imponer privatizaciones y austeridad que, en condiciones democráticas normales, serían rechazadas por la población. Su defensa de la **[[Reserva Federal]]** y el dinero fiduciario revela su verdadera lealtad: no al mercado libre, sino al monopolio monetario de la élite.
@@ -45,7 +45,8 @@ Milton Friedman es el **"Santo Patrono de la Oligarquía Financiera"**. Su genio
 ---
 **Versión:** 2.0
 **Enfoque:** Rol en la Escuela de Chicago y el laboratorio chileno, la "Doctrina del Shock", defensa de la Reserva Federal y la transformación de la economía en una herramienta de saqueo financiero bajo el disfraz de libertad.
-**Estado:** Refactoreado a v2.0 - Framework de Neoliberalismo de Guerra.
+**Estado:** Refactoreado a TL V.2 - Framework de Neoliberalismo de Guerra.
+
 
 
 

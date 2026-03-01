@@ -1,5 +1,5 @@
 ---
-titulo: "Mercado Pago (v2.0): El Caballo De Troya De Las CBDC"
+titulo: "Mercado Pago (TL V.2): El Caballo De Troya De Las CBDC"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [caballo, cbdc, jpmorgan, pago]
 publish: true
 ---
-# Mercado Pago (v2.0): El Caballo De Troya De Las CBDC
+# Mercado Pago (TL V.2): El Caballo De Troya De Las CBDC
 
 > [!ABSTRACT] Hipótesis Informativa
 > Mercado Pago no es una empresa de "inclusión financiera"; es la **Infraestructura Privada para la Moneda Digital del Banco Central ([[CBDC]])** en América Latina. Al dominar los pagos minoristas y eliminar el efectivo de la economía informal (vendedores ambulantes, ferias), Marcos Galperin está construyendo el **Panóptico Fiscal** que el Estado por sí solo no pudo implementar. Su alianza estratégica con **[[JPMorgan]]** y Goldman Sachs revela que es el brazo ejecutor local del **[[Tier A]]** financiero global. El objetivo final es la **Trazabilidad Total**: un sistema donde no existe transacción anónima y donde tu "libertad" de gastar puede ser revocada por un algoritmo de crédito social privado.
@@ -39,7 +39,8 @@ Mercado Pago ofrece comodidad a cambio de soberanía. Es el entrenamiento masivo
 ---
 **Versión:** 2.0
 **Enfoque:** Rol como precursor de CBDC, alianza con banca global (JPMorgan), eliminación del efectivo y función de vigilancia fiscal automatizada.
-**Estado:** Refactoreado a v2.0 - Framework de Vigilancia Financiera.
+**Estado:** Refactoreado a TL V.2 - Framework de Vigilancia Financiera.
+
 
 
 

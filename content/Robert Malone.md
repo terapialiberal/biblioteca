@@ -1,5 +1,5 @@
 ---
-titulo: "Robert Malone (v2.0): El Padre De La Tecnología ARNm Y El Disidente Suprema"
+titulo: "Robert Malone (TL V.2): El Padre De La Tecnología ARNm Y El Disidente Suprema"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [disidente, malone, robert, tecnologa]
 publish: true
 ---
-# Robert Malone (v2.0): El Padre De La Tecnología ARNm Y El Disidente Suprema
+# Robert Malone (TL V.2): El Padre De La Tecnología ARNm Y El Disidente Suprema
 
 > [!ABSTRACT] Hipótesis Informativa
 > El Dr. Robert Malone es el **Científico de [[Tier B]]** cuya autoridad técnica ha sido el obstáculo más difícil de superar para la narrativa sanitaria de la Matrix. Como coinventor de la tecnología de **[[ARNm]]** en los años 80, Malone posee el conocimiento íntimo sobre las limitaciones y riesgos de la plataforma que se utilizó para las vacunas COVID-19. Su función real ha sido actuar como un **Desprogramador del Consenso Científico**: su aparición en el podcast de **[[Joe Rogan]]** (el evento mediático más censurado y escuchado de la historia) rompió el monopolio informativo del **[[Tier A]]**, exponiendo la manipulación de datos y la peligrosidad de la proteína espiga ante millones de ciudadanos de **[[Tier C]]**.
@@ -40,7 +40,8 @@ Robert Malone nos enseña que **el mayor riesgo para el sistema es el hombre que
 ---
 **Versión:** 2.0
 **Enfoque:** Malone como coinventor de la tecnología ARNm y su transición a principal crítico de su uso masivo, su censura digital y su rol en la desprogramación de la psicosis de masas.
-**Estado:** Refactoreado a v2.0 - Framework de Integridad Científica y Biopolítica.
+**Estado:** Refactoreado a TL V.2 - Framework de Integridad Científica y Biopolítica.
+
 
 
 

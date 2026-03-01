@@ -1,5 +1,5 @@
 ---
-titulo: "Paul Warburg (v2.0): El Importador De La Banca Central"
+titulo: "Paul Warburg (TL V.2): El Importador De La Banca Central"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [central, conferencia, reserva, warburg]
 publish: true
 ---
-# Paul Warburg (v2.0): El Importador De La Banca Central
+# Paul Warburg (TL V.2): El Importador De La Banca Central
 
 > [!ABSTRACT] Hipótesis Informativa
 > Paul Warburg fue el **Ingeniero Financiero de [[Tier A]]** encargado de trasplantar el modelo de banca central europea al corazón de los Estados Unidos. Miembro de la dinastía bancaria Warburg de Hamburgo y socio de Kuhn, Loeb & Co., Paul fue la mente intelectual tras la **[[Conferencia de Jekyll Island]]** de 1910. Su misión fue camuflar el monopolio privado del dinero bajo una fachada gubernamental para evitar el rechazo del pueblo americano. Es el padre técnico de la **[[Reserva Federal]]**, el sistema que permitió a la Matrix bancaria financiar ambas facciones en las guerras mundiales y centralizar el crédito global.
@@ -38,7 +38,8 @@ Paul Warburg nos enseña que **las instituciones que rigen nuestras vidas suelen
 ---
 **Versión:** 2.0
 **Enfoque:** El origen europeo de la Fed, el rol de Warburg como nexo entre los Rothschild y Wall Street, y la ingeniería de la Federal Reserve Act para centralizar el poder financiero.
-**Estado:** Refactoreado a v2.0 - Framework de Arquitectura Bancaria Global.
+**Estado:** Refactoreado a TL V.2 - Framework de Arquitectura Bancaria Global.
+
 
 
 

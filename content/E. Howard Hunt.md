@@ -1,15 +1,12 @@
 ---
+titulo: E. Howard Hunt
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [asesinato, howard, hunt, watergate]
 publish: true
-created: 2026-01-29T19:17:10.772-03:00
-modified: 2026-02-27T13:22:31.722-03:00
-tags:
-  - asesinato
-  - howard
-  - hunt
-  - watergate
-cssclasses: ""
 ---
-
 # E. Howard Hunt
 
 ## Perfil TL (Resumen Ejecutivo)
@@ -33,7 +30,7 @@ cssclasses: ""
 - [[Asesinato de JFK]] (Su confesión póstuma)
 - [[Watergate]] (Su caída pública)
 - [[CIA]] (Su verdadera lealtad)
-- [[Richard Nixon]] (Su empleador político y víctima)
+- [[00_Glosario - Conceptos Fase 1#Richard Nixon\|Richard Nixon]] (Su empleador político y víctima)
 
 ## Fuentes
 - E. Howard Hunt: "American Spy: My Secret History in the CIA, Watergate and Beyond".

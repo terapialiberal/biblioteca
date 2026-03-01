@@ -1,5 +1,5 @@
 ---
-titulo: "Sabotaje Del Nord Stream (v2.0): El Atentado De La Matrix contra La Soberanía Europea"
+titulo: "Sabotaje Del Nord Stream (TL V.2): El Atentado De La Matrix contra La Soberanía Europea"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [atentado, contra, matrix, stream]
 publish: true
 ---
-# Sabotaje Del Nord Stream (v2.0): El Atentado De La Matrix contra La Soberanía Europea
+# Sabotaje Del Nord Stream (TL V.2): El Atentado De La Matrix contra La Soberanía Europea
 
 > [!ABSTRACT] Hipótesis Informativa
 > El sabotaje de los gasoductos Nord Stream 1 y 2 en septiembre de 2022 fue un **Acto de Terrorismo de Estado de [[Tier A]]** ejecutado por EE.UU. (con complicidad o conocimiento de miembros de la **[[OTAN]]**) para cortar definitivamente el nexo energético entre Rusia y Alemania. Bajo la narrativa de un "ataque misterioso" o un improbable operativo ucraniano en un velero, su función real fue la de un **"Secuestro de Soberanía Energética"**: obligar a Europa a depender del caro Gas Natural Licuado (GNL) estadounidense y asegurar que Alemania permanezca como un estado vasallo desindustrializado y totalmente alineado con la agenda bélica de Washington.
@@ -33,7 +33,7 @@ publish: true
 - [[Victoria Nuland]]: La arquitecta de la ruptura entre Rusia y Europa.
 - [[Seymour Hersh]]: El periodista que desnudó la logística del ataque.
 - [[OTAN]]: El marco de seguridad donde se coordinó el silencio.
-- [[Crisis Energética]]: El resultado directo e intencionado del sabotaje.
+- [[00_Glosario - Conceptos Fase 1#Crisis Energética\|Crisis Energética]]: El resultado directo e intencionado del sabotaje.
 - [[Vasallaje Geopolítico]]: El estado actual de la Unión Europea post-Nord Stream.
 
 ## Conclusión Del Análisis
@@ -42,7 +42,8 @@ El Sabotaje del Nord Stream nos enseña que **no hay amigos en la cima de la Mat
 ---
 **Versión:** 2.0
 **Enfoque:** El atentado como operación de EE.UU. para cortar el vínculo Alemania-Rusia, el reporte de Seymour Hersh, el silencio de vasallaje de la UE y las consecuencias de inflación energética para el Tier C.
-**Estado:** Refactoreado a v2.0 - Framework de Terrorismo Industrial y Geopolítica.
+**Estado:** Refactoreado a TL V.2 - Framework de Terrorismo Industrial y Geopolítica.
+
 
 
 

@@ -1,15 +1,12 @@
 ---
+titulo: Cables Submarinos (El Sistema Nervioso De Internet)
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [cables, edward, submarinos, swift]
 publish: true
-created: 2026-01-29T19:17:06.233-03:00
-modified: 2026-02-27T13:22:12.025-03:00
-tags:
-  - cables
-  - edward
-  - submarinos
-  - swift
-cssclasses: ""
 ---
-
 # Cables Submarinos (El Sistema Nervioso De Internet)
 
 ## Perfil TL (Resumen Ejecutivo)
@@ -33,7 +30,7 @@ cssclasses: ""
 ## Conexiones Clave
 - [[NSA]] (El principal espía del cable)
 - [[Edward Snowden]] (Quien reveló el pinchazo)
-- [[SWIFT]] (Que depende 100% de esta red)
+- [[00_Glosario - Conceptos Fase 1#SWIFT\|SWIFT]] (Que depende 100% de esta red)
 - [[Alphabet Inc]] (Dueño de infraestructura)
 
 ## Fuentes

@@ -1,5 +1,5 @@
 ---
-titulo: "Stuxnet (v2.0): El Rubicón De La Guerra Cinética Digital"
+titulo: "Stuxnet (TL V.2): El Rubicón De La Guerra Cinética Digital"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [cintica, digital, guerra, irn]
 publish: true
 ---
-# Stuxnet (v2.0): El Rubicón De La Guerra Cinética Digital
+# Stuxnet (TL V.2): El Rubicón De La Guerra Cinética Digital
 
 > [!ABSTRACT] Hipótesis Informativa
 > Stuxnet es la **Ciberarma de [[Tier B]]** (desarrollada por el Tier A de EE.UU. e Israel) que marcó el inicio de una era donde el código informático puede causar destrucción física masiva. Concebido bajo la **"Operación Juegos Olímpicos"**, su función real en la Matrix fue la de un **"Mecanismo de Sabotaje Invisible"**: infiltrar las instalaciones nucleares de Irán para destruir físicamente sus centrífugas de uranio mediante la manipulación de los controladores lógicos programables (PLC) de Siemens. Stuxnet demostró que la infraestructura física del **[[Tier C]]** global es vulnerable a ataques de "zona gris" que no requieren declaración de guerra ni presencia física.
@@ -41,7 +41,8 @@ Stuxnet nos enseña que **las murallas de código son tan frágiles como las de 
 ---
 **Versión:** 2.0
 **Enfoque:** Stuxnet como la primera ciberarma capaz de daño físico, la colaboración EE.UU.-Israel, el sabotaje a Irán como precedente de la vulnerabilidad de infraestructuras críticas globales y el fin de la seguridad en sistemas desconectados (air-gap).
-**Estado:** Refactoreado a v2.0 - Framework de Ciberguerra y Seguridad Nacional.
+**Estado:** Refactoreado a TL V.2 - Framework de Ciberguerra y Seguridad Nacional.
+
 
 
 

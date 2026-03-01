@@ -1,5 +1,5 @@
 ---
-titulo: "Proyecto X (v2.0): El Panóptico De La Progresía"
+titulo: "Proyecto X (TL V.2): El Panóptico De La Progresía"
 tipo: evento
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [panptico, progresa, proyecto, sergio]
 publish: true
 ---
-# Proyecto X (v2.0): El Panóptico De La Progresía
+# Proyecto X (TL V.2): El Panóptico De La Progresía
 
 > [!ABSTRACT] Hipótesis Informativa
 > El Proyecto X fue la **Operación de Vigilancia y Perfilamiento Ideológico de [[Tier B]]** ejecutada por la Gendarmería Nacional Argentina bajo el gobierno de Cristina Kirchner. A pesar de la narrativa oficial de defensa de los derechos humanos, el Estado utilizaba un software de base de datos ilegal y agentes infiltrados ("balboas") para monitorear a líderes sindicales, movimientos sociales y organismos de DDHH. Representa la **Hipocresía del Estado Progresista**: el uso del aparato de inteligencia heredado de las dictaduras para neutralizar la protesta social que escapaba al control del oficialismo, demostrando que para la Matrix, el control es más importante que la ideología.
@@ -38,7 +38,8 @@ Proyecto X nos enseña que **el Estado siempre vigila, especialmente a los que d
 ---
 **Versión:** 2.0
 **Enfoque:** Espionaje ilegal a movimientos sociales bajo el kirchnerismo, agentes infiltrados y el quiebre de la Ley de Inteligencia para el control político.
-**Estado:** Refactoreado a v2.0 - Framework de Inteligencia Doméstica.
+**Estado:** Refactoreado a TL V.2 - Framework de Inteligencia Doméstica.
+
 
 
 

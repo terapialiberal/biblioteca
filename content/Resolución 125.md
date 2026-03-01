@@ -1,5 +1,5 @@
 ---
-titulo: "Resolución 125 (v2.0): El Big Bang De La Grieta Argentina"
+titulo: "Resolución 125 (TL V.2): El Big Bang De La Grieta Argentina"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [bang, cristina, mart, resoluci]
 publish: true
 ---
-# Resolución 125 (v2.0): El Big Bang De La Grieta Argentina
+# Resolución 125 (TL V.2): El Big Bang De La Grieta Argentina
 
 > [!ABSTRACT] Hiptesis Informativa
 > La Resolución 125 no fue solo una medida fiscal sobre las exportaciones de soja, sino un **Evento de Fractura de [[Tier B]]** que redefini el mapa del poder en Argentina. Propuesta por el entonces ministro **[[Martn Lousteau]]**, la imposicin de retenciones mviles fue el intento del kirchnerismo de capturar la renta extraordinaria del sector ms productivo del **[[Tier C]]** para financiar la expansin de su aparato de control clientelar estatales. Su funcin real fue el nacimiento de **"La Grieta"**: la construccin de un enemigo interno (el "campo" como oligarqua) que permiti al poder centralizado polarizar a la sociedad y consolidar un modelo de hegemona poltica basado en el conflicto permanente.
@@ -38,7 +38,8 @@ La Resolución 125 nos ensea que **el Estado no quiere tu bienestar, quiere tu e
 ---
 **Versi�n:** 2.0
 **Enfoque:** La Resoluci�n 125 como origen de la polarizaci�n pol�tica ("La Grieta"), el intento de captura de renta por el kirchnerismo y el rol de Lousteau y Cobos en el evento.
-**Estado:** Refactoreado a v2.0 - Framework de Conflicto Pol�tico y Econom�a Argentina.
+**Estado:** Refactoreado a TL V.2 - Framework de Conflicto Pol�tico y Econom�a Argentina.
+
 
 
 

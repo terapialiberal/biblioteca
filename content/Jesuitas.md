@@ -1,5 +1,5 @@
 ---
-titulo: "Jesuitas (v2.0): El Servicio De Inteligencia Trans-Histórico"
+titulo: "Jesuitas (TL V.2): El Servicio De Inteligencia Trans-Histórico"
 tipo: organizacion
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [francisco, histrico, jesuitas, universidad]
 publish: true
 ---
-# Jesuitas (v2.0): El Servicio De Inteligencia Trans-Histórico
+# Jesuitas (TL V.2): El Servicio De Inteligencia Trans-Histórico
 
 > [!ABSTRACT] Hipótesis Informativa
 > La Compañía de Jesús (Jesuitas) constituye la **infraestructura de inteligencia y captura cognitiva más resiliente del [[Tier A]] occidental**. Bajo una estructura de mando militar centrada en el Superior General ("Papa Negro"), la orden ha perfeccionado durante siglos el arte de la infiltración política, la educación de élites y la subversión dialéctica. Su función es asegurar la hegemonía del Vaticano y el orden global mediante la formación de los cuadros dirigentes del [[Tier B]] y el control de las narrativas morales en ambos extremos del espectro político.
@@ -34,7 +34,7 @@ publish: true
 ## Conexiones Críticas
 - [[Vaticano]]: La base soberana de su poder diplomático y financiero.
 - [[CIA]]: La agencia que heredó la estructura de inteligencia y muchos de los métodos de la orden.
-- [[Adam Weishaupt]]: El fundador de los [[Illuminati]], formado por jesuitas y cuya estructura de grados fue copiada de la Compañía.
+- [[Adam Weishaupt]]: El fundador de los [[00_Glosario - Conceptos Fase 1#Illuminati\|Illuminati]], formado por jesuitas y cuya estructura de grados fue copiada de la Compañía.
 - [[Club de Roma]]: El organismo de Tier A que promueve la "gobernanza global" bajo directrices afines a la visión jesuita de centralización.
 - [[Nobleza Negra]]: Las familias aristocráticas europeas que han servido como el músculo financiero tradicional de la orden.
 
@@ -45,6 +45,7 @@ Los Jesuitas son los **"Arquitectos del Síntesis"**. Su poder no reside en la f
 **Versión:** 2.0
 **Enfoque:** Inteligencia humana, captura de élites educativas y el uso de la dialéctica para el control geopolítico.
 **Estado:** Refactorización Completa.
+
 
 
 

@@ -1,16 +1,13 @@
 ---
+titulo: GRUPO BILDERBERG 2026 (TL V.2)
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "alto"
+tags: [consenso, corporativo, google, hlne]
 publish: true
-created: 2026-02-25T15:44:06.075-03:00
-modified: 2026-02-27T13:22:50.109-03:00
-tags:
-  - consenso
-  - corporativo
-  - google
-  - hlne
-cssclasses: ""
 ---
-
-# GRUPO BILDERBERG 2026 (v12_1)
+# GRUPO BILDERBERG 2026 (TL V.2)
 
 #### BLUF
 El Grupo Bilderberg es el **Foro de Armonización de Tiers A y B**. A diferencia del WEF (que es un show publicitario), Bilderberg es una reunión de **Trabajo Estratégico** donde se alinean los propietarios del capital con los ejecutores de las agencias de inteligencia y defensa. En 2026, la agenda de Bilderberg se centra en la "Estabilización de la Realidad Post-AGI", asegurando que la transición hacia una sociedad automatizada no resulte en una insurrección masiva que amenace la propiedad privada del Tier A.
@@ -22,7 +19,7 @@ El Grupo Bilderberg es el **Foro de Armonización de Tiers A y B**. A diferencia
 | [[Hélène Cartier]] | B | La Coordinadora (Steering Committee) | Asegurar la participación equilibrada de tecnócratas europeos y halcones americanos. |
 | [[Google]] / [[Microsoft]] | A | Los Dueños de la Infraestructura | Definir las reglas de censura algorítmica necesarias para mantener la paz social. |
 | [[CIA]] / [[MI6]] | B | Los Vigilantes | Monitorizar las tensiones internas entre las facciones de la élite. |
-| [[Financial Times]] / [[The Economist]] | Multimedia| Los Taquígrafos Selectos | Publicar la narrativa acordada en forma de editoriales "preocupados" por el futuro. |
+| [[Financial Times]] / [[00_Glosario - Conceptos Fase 1#The Economist\|The Economist]] | Multimedia| Los Taquígrafos Selectos | Publicar la narrativa acordada en forma de editoriales "preocupados" por el futuro. |
 
 
 #### SEÑALES VS RUIDO
@@ -73,6 +70,7 @@ Bilderberg permite que las personas que realmente mueven el mundo se conozcan a 
 ¿Cuáles son las directrices de Bilderberg respecto a la gestión de las criptomonedas privadas y su plan de absorción por parte de la arquitectura de activos tokenizados de BlackRock?
 
 ---
-*Dossier forense v12_1 | La Mesa Redonda del Capital Transatlántico*
+*Dossier forense TL V.2 | La Mesa Redonda del Capital Transatlántico*
+
 
 

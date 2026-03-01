@@ -1,15 +1,12 @@
 ---
+titulo: Osiris Y El Estado Resucitado
+tipo: organizacion
+fecha: 2026-02-25
+tags: [domo, estado, osiris, solve]
+tier-primario: "a"
+nivel-evidencia: "alto"
 publish: true
-created: 2026-02-25T22:27:58.729-03:00
-modified: 2026-02-27T13:23:36.920-03:00
-tags:
-  - domo
-  - estado
-  - osiris
-  - solve
-cssclasses: ""
 ---
-
 
 # Osiris Y El Estado Resucitado
 
@@ -29,7 +26,7 @@ cssclasses: ""
 
 ## Conexiones Críticas
 - [[Solve et Coagula (Reset Masivo)]]: El motor alquímico de Osiris.
-- [[Domo y el Obelisco]]: El obelisco representa el miembro perdido de Osiris que Isis no pudo encontrar: el poder generador (falo) que el Tier A mantiene oculto.
+- [[El Domo y el Obelisco\|Domo y el Obelisco]]: El obelisco representa el miembro perdido de Osiris que Isis no pudo encontrar: el poder generador (falo) que el Tier A mantiene oculto.
 - [[Gran Reseteo (WEF)]]: Un rito osiriano moderno de reconstrucción global.
 
 ## Cui Bono

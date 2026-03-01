@@ -1,15 +1,12 @@
 ---
+titulo: Psicodélicos En Silicon Valley (Tecno-Gnosis)
+tipo: "concepto"
+fecha: 2026-02-25
+tags: [burning, psicodlicos, silicon, valley]
+tier-primario: "b"
+nivel-evidencia: "alto"
 publish: true
-created: 2026-02-25T22:08:54.045-03:00
-modified: 2026-02-27T13:23:46.771-03:00
-tags:
-  - burning
-  - psicodlicos
-  - silicon
-  - valley
-cssclasses: ""
 ---
-
 
 # Psicodélicos En Silicon Valley (Tecno-Gnosis)
 
@@ -29,7 +26,7 @@ cssclasses: ""
 
 ## Conexiones Críticas
 - [[Steve Jobs y el LSD]]: El precursor de la visión estética psicodélica en la tecnología.
-- [[MK-Ultra]]: El origen histórico de la experimentación con estados alterados por parte de la inteligencia.
+- [[MKUltra\|MK-Ultra]]: El origen histórico de la experimentación con estados alterados por parte de la inteligencia.
 - [[Burning Man]]: El ritual anual de recarga psicodélica del Tier B técnico.
 
 ## Cui Bono

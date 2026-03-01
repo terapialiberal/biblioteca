@@ -1,16 +1,13 @@
 ---
+titulo: NEURO-RIGHTS (TL V.2)
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "alto"
+tags: [derechos, mente, neuro, rights]
 publish: true
-created: 2026-02-25T13:55:16.010-03:00
-modified: 2026-02-27T13:23:28.354-03:00
-tags:
-  - derechos
-  - mente
-  - neuro
-  - rights
-cssclasses: ""
 ---
-
-# NEURO-RIGHTS (v12_1)
+# NEURO-RIGHTS (TL V.2)
 
 #### BLUF
 Los Neuro-Derechos no protegen la mente; establecen el **Marco de Propiedad Estatal** sobre los datos neuronales. En 2026, con el estándar global de la UNESCO activo, el Estado ha nacionalizado preventivamente el "espacio mental" para regular la inminente integración masiva de [[Neuralink]] y otras BCIs comerciales.
@@ -73,6 +70,7 @@ Es un avance necesario de los derechos humanos ante tecnologías disruptivas. Si
 ¿Cómo se distinguirá entre un pensamiento "orgánico" y uno inducido por la IA en un entorno donde ambos coexisten en el mismo chip de Neuralink?
 
 ---
-*Versión: 2.0 (v12_1) | Dossier de Soberanía Mental*
+*Versión: 2.0 (TL V.2) | Dossier de Soberanía Mental*
+
 
 

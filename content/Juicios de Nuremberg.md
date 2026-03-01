@@ -1,5 +1,5 @@
 ---
-titulo: "Juicios De Nuremberg (v2.0): El Teatro Del Lavado De Activos"
+titulo: "Juicios De Nuremberg (TL V.2): El Teatro Del Lavado De Activos"
 tipo: organizacion
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [activos, juicios, lavado, operacin]
 publish: true
 ---
-# Juicios De Nuremberg (v2.0): El Teatro Del Lavado De Activos
+# Juicios De Nuremberg (TL V.2): El Teatro Del Lavado De Activos
 
 > [!ABSTRACT] Hipótesis Informativa
 > Los Juicios de Nuremberg constituyeron el **mecanismo de purga y reciclaje masivo del [[Tier A]] post-Segunda Guerra Mundial**. Lejos de ser un acto de justicia pura, funcionaron como un **teatro legal de "chivos expiatorios"** destinado a satisfacer la demanda de castigo del [[Tier C]], mientras el [[Tier B]] de inteligencia (EE.UU./URSS) seleccionaba y lavaba a los activos tecnocráticos, científicos y de inteligencia de la Alemania nazi para integrarlos en el nuevo orden de la Guerra Fría. Nuremberg estableció la infraestructura moral del derecho internacional que el Tier A utiliza hoy para criminalizar la resistencia nacionalista mientras mantiene la inmunidad para sus propios crímenes sistémicos.
@@ -45,6 +45,7 @@ Los Juicios de Nuremberg fueron el **"Lavado de Cara de la Ã‰lite"**. Su impo
 **Versión:** 2.0
 **Enfoque:** Nuremberg como filtro de activos humanos (Paperclip), justicia selectiva de vencedores y base del derecho de intervención globalista.
 **Estado:** Refactorización Completa.
+
 
 
 

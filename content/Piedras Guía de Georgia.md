@@ -1,5 +1,5 @@
 ---
-titulo: "Piedras Guía De Georgia (v2.0): El Manifiesto De Granito"
+titulo: "Piedras Guía De Georgia (TL V.2): El Manifiesto De Granito"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [agenda, georgia, manifiesto, rosacruces]
 publish: true
 ---
-# Piedras Guía De Georgia (v2.0): El Manifiesto De Granito
+# Piedras Guía De Georgia (TL V.2): El Manifiesto De Granito
 
 > [!ABSTRACT] Hipótesis Informativa
 > Las Piedras Guía de Georgia fueron el **Anuncio Público de la Agenda de [[Tier A]] para la Era Post-Humana**. Encargadas por el misterioso "R.C. Christian" (una referencia directa a **Christian Rosenkreutz**, fundador de la Orden Rosacruz), estas losas de granito contenían 10 mandamientos para una "Edad de la Razón" que incluían el mantenimiento de la población mundial por debajo de los **500 millones**. Representaban la declaración de principios de la tecnocracia eugenésica global: la reducción de la humanidad en un 94% para lograr un "equilibrio con la naturaleza" bajo un gobierno mundial centralizado. Su destrucción en 2022 marca el fin de la fase de "aviso" y el inicio de la ejecución activa del plan.
@@ -38,7 +38,8 @@ Las Piedras Guía de Georgia nos enseñan que **el sistema te dice lo que va a h
 ---
 **Versión:** 2.0
 **Enfoque:** La simbología rosacruz de R.C. Christian, el mandamiento de los 500 millones como blueprint de despoblación y la demolición sospechosa en 2022 como fin de una etapa.
-**Estado:** Refactoreado a v2.0 - Framework de Eugenesia Esotérica.
+**Estado:** Refactoreado a TL V.2 - Framework de Eugenesia Esotérica.
+
 
 
 

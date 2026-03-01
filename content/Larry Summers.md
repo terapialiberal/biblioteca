@@ -1,5 +1,5 @@
 ---
-titulo: "Larry Summers (v2.0): El Centinela Del Capital Concentrado"
+titulo: "Larry Summers (TL V.2): El Centinela Del Capital Concentrado"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [concentrado, jeffrey, larry, openai]
 publish: true
 ---
-# Larry Summers (v2.0): El Centinela Del Capital Concentrado
+# Larry Summers (TL V.2): El Centinela Del Capital Concentrado
 
 > [!ABSTRACT] Hipótesis Informativa
 > Larry Summers constituye el **oficial de enlace supremo del [[Tier B]] con el capital de [[Tier A]]**. Su carrera es el registro de la demolición de la soberanía económica del [[Tier C]]. Desde la desregulación masiva del sector bancario en los 90 hasta su instalación estratégica en la junta de **[[OpenAI]]** en 2023, la función de Summers es asegurar que cualquier transición tecnológica o financiera sea capturada y domesticada para servir a la hegemonía del dólar y la banca central. Summers representa la amoralidad técnica de la "Catedral", donde la vida y la libertad son variables de ajuste en una hoja de cálculo actuarial.
@@ -46,6 +46,7 @@ Larry Summers es el **"Contable del Apocalipsis Financiero"**. Su importancia re
 **Versión:** 2.0
 **Enfoque:** Rol como tecnócrata permanente, desregulación financiera (Glass-Steagall), nexo con Jeffrey Epstein en Harvard y captura estratégica de la gobernanza de OpenAI para el capital de Tier A.
 **Estado:** Refactorización Completa.
+
 
 
 

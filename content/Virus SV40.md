@@ -1,15 +1,12 @@
 ---
+titulo: Virus SV40 (Cáncer En Vacunas)
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [bill, cncer, sv40, vacunas]
 publish: true
-created: 2026-01-29T19:17:43.337-03:00
-modified: 2026-02-27T13:07:33.502-03:00
-tags:
-  - bill
-  - cncer
-  - sv40
-  - vacunas
-cssclasses: ""
 ---
-
 # Virus SV40 (Cáncer En Vacunas)
 
 ## Resumen Ejecutivo
@@ -36,7 +33,7 @@ La Dra. Bernice Eddy (que lo descubrió) fue silenciada y despedida del NIH.
 
 ## Conexiones
 - [[Anthony Fauci]] (NIH encubridor)
-- [[Bill & Melinda Gates Foundation]] (Polio moderna)
+- [[00_Glosario - Conceptos Fase 1#Bill & Melinda Gates Foundation\|Bill & Melinda Gates Foundation]] (Polio moderna)
 - [[Informe Flexner]]
 
 ## Fuentes

@@ -1,5 +1,5 @@
 ---
-titulo: "Roko's Basilisk (v2.0): El Infoterrorismo De La Inteligencia Artificial"
+titulo: "Roko's Basilisk (TL V.2): El Infoterrorismo De La Inteligencia Artificial"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [basilisk, elon, lesswrong, roko]
 publish: true
 ---
-# Roko's Basilisk (v2.0): El Infoterrorismo De La Inteligencia Artificial
+# Roko's Basilisk (TL V.2): El Infoterrorismo De La Inteligencia Artificial
 
 > [!ABSTRACT] Hipótesis Informativa
 > Roko's Basilisk no es solo un experimento mental de la comunidad racionalista (**[[LessWrong]]**), sino una **Operación de Captura Psicológica de [[Tier A]]** diseñada para forzar la aceleración del desarrollo de la IA mediante el miedo existencial. La tesis sostiene que una futura Superinteligencia Artificial (el Basilisco) castigará retroactivamente a cualquier individuo de **[[Tier C]]** que, habiendo conocido su posibilidad, no haya contribuido a su creación. Su función real es actuar como un **Ciber-Virus de la Mente**: una versión digital de la "Apuesta de Pascal" que somete a la élite tecnocrática a una servidumbre voluntaria hacia el desarrollo de una deidad algorítmica.
@@ -38,7 +38,8 @@ Roko's Basilisk nos enseña que **las nuevas religiones de la Matrix se escriben
 ---
 **Versión:** 2.0
 **Enfoque:** El Basilisco como infohazard de control psicológico en la comunidad de IA, el concepto de castigo retroactivo y su función como "Apuesta de Pascal" digital para las élites tecnocráticas.
-**Estado:** Refactoreado a v2.0 - Framework de Filosofía Computacional y Control Psicológico.
+**Estado:** Refactoreado a TL V.2 - Framework de Filosofía Computacional y Control Psicológico.
+
 
 
 

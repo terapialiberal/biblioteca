@@ -1,14 +1,12 @@
 ---
+titulo: Mae Brussell
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [asesinato, brussell, operacin]
 publish: true
-created: 2026-01-29T19:17:23.393-03:00
-modified: 2026-02-27T13:06:54.956-03:00
-tags:
-  - asesinato
-  - brussell
-  - operacin
-cssclasses: ""
 ---
-
 # Mae Brussell
 
 ## Resumen Ejecutivo
@@ -36,7 +34,7 @@ Mae Brussell enseñó que la libertad depende de la calidad de nuestra "dieta de
 - [[Asesinato de JFK]]
 - [[Watergate]]
 - [[Dave McGowan]] / [[Peter Levenda]] (Herederos intelectuales)
-- [[Charles Manson]] / [[Laurel Canyon]]
+- [[00_Glosario - Conceptos Fase 1#Charles Manson\|Charles Manson]] / [[Laurel Canyon]]
 
 ## Fuentes
 - "The Essential Mae Brussell: Investigations of Fascism in America" - Paul Krassner.

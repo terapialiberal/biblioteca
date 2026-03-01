@@ -1,5 +1,5 @@
 ---
-titulo: "Menticidio (v2.0): La Lobotomía Sistémica"
+titulo: "Menticidio (TL V.2): La Lobotomía Sistémica"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [joost, lobotoma, menticidio, sistmica]
 publish: true
 ---
-# Menticidio (v2.0): La Lobotomía Sistémica
+# Menticidio (TL V.2): La Lobotomía Sistémica
 
 > [!ABSTRACT] Hipótesis Informativa
 > El Menticidio ("Asesinato de la Mente"), definido por **[[Joost Meerloo]]** tras la Segunda Guerra Mundial, es el proceso sistemático de quebrar la voluntad humana mediante el terror, la confusión y el aislamiento. Hoy, el **[[Tier A]]** ha industrializado este proceso a escala global. Ya no se necesita una sala de interrogatorios de la KGB; basta con el ciclo de noticias de 24 horas y las redes sociales. El objetivo del Menticidio moderno es inducir un estado de **Psicosis de Formación de Masas** permanente, donde el **[[Tier C]]** renuncia voluntariamente a su lógica y libertad a cambio de una falsa sensación de seguridad paternalista provista por el Estado Terapéutico.
@@ -33,7 +33,7 @@ publish: true
 - [[Joost Meerloo]]: El diagnosticador original.
 - [[Disonancia Cognitiva]]: El efecto interno.
 - [[Control de Masas (Caso 2020)]]: La aplicación práctica reciente.
-- [[MK Ultra]]: La investigación científica del quiebre.
+- [[MKUltra\|MK Ultra]]: La investigación científica del quiebre.
 - [[Totalitarismo]]: El fin político del menticidio.
 
 ## Conclusión Del Análisis
@@ -42,7 +42,8 @@ El menticidio es el crimen supremo contra la condición humana. Mata al individu
 ---
 **Versión:** 2.0
 **Enfoque:** Aplicación de las teorías de Meerloo al control moderno, rol del miedo y el aislamiento (pandemia), destrucción de la lógica y la obediencia ritualista.
-**Estado:** Refactoreado a v2.0 - Framework de Psicología Totalitaria.
+**Estado:** Refactoreado a TL V.2 - Framework de Psicología Totalitaria.
+
 
 
 

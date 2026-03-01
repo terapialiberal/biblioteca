@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:23.456-03:00
-modified: 2026-02-27T13:07:21.702-03:00
+modified: 2026-02-27T13:07:35.289-03:00
 tags:
   - espiral
   - manipulacin

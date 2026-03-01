@@ -1,5 +1,5 @@
 ---
-titulo: "Operación Timber Sycamore (v2.0): La Fábrica De Yihadistas De La CIA"
+titulo: "Operación Timber Sycamore (TL V.2): La Fábrica De Yihadistas De La CIA"
 tipo: evento
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [fbrica, guerra, sycamore, timber]
 publish: true
 ---
-# Operación Timber Sycamore (v2.0): La Fábrica De Yihadistas De La CIA
+# Operación Timber Sycamore (TL V.2): La Fábrica De Yihadistas De La CIA
 
 > [!ABSTRACT] Hipótesis Informativa
 > Timber Sycamore fue la operación de **[[Tier A]]** para la destrucción controlada de Siria mediante la creación y el armamento de una insurgencia yihadista. Al inundar la región con miles de toneladas de armamento y billones de dólares de origen saudí, la **[[CIA]]** no buscaba "democracia", sino la fragmentación del estado sirio para neutralizar la influencia de Irán y Rusia. Timber Sycamore representa el modelo de **"Guerra Proxy por Saturación"**, donde el sistema crea deliberadamente el caos que luego justifica la intervención militar permanente bajo el pretexto de combatir el terrorismo (ISIS) que el propio programa ayudó a engendrar.
@@ -39,7 +39,8 @@ La Operación Timber Sycamore es la prueba de que en el Tier A, la moralidad es 
 ---
 **Versión:** 2.0
 **Enfoque:** Armamento masivo de yihadistas por la CIA y Arabia Saudita, creación deliberada de inestabilidad regional y la falsedad de la narrativa de los "rebeldes moderados".
-**Estado:** Refactoreado a v2.0 - Framework de Guerra Proxy.
+**Estado:** Refactoreado a TL V.2 - Framework de Guerra Proxy.
+
 
 
 

@@ -1,5 +1,5 @@
 ---
-titulo: "Operación Highjump (v2.0): La Batalla Por El Hielo Sagrado"
+titulo: "Operación Highjump (TL V.2): La Batalla Por El Hielo Sagrado"
 tipo: evento
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [batalla, highjump, sagrado, tratado]
 publish: true
 ---
-# Operación Highjump (v2.0): La Batalla Por El Hielo Sagrado
+# Operación Highjump (TL V.2): La Batalla Por El Hielo Sagrado
 
 > [!ABSTRACT] Hipótesis Informativa
 > La Operación Highjump no fue una expedición exploratoria, sino una **misión de combate contra los restos del Tercer Reich en la Antártida**. Tras el fin de la WWII, el **[[Tier A]]** estadounidense detectó que un contingente nazi de alta tecnología se había refugiado en cavernas submarinas (Base 211/Neuschwabenland). La flota del Almirante **Richard Byrd** fue enviada para eliminarlos, pero fue repelida por tecnología de **Antigravedad** avanzada. Este evento forzó al Tier A a pasar de la confrontación a la asimilación, sentando las bases del **[[Tratado Antártico]]** para ocultar la existencia de bases no-humanas y el acceso a la Tierra Hueca.
@@ -39,7 +39,8 @@ La Operación Highjump es la grieta por donde se escapa la historia oficial. Nos
 ---
 **Versión:** 2.0
 **Enfoque:** Conflicto militar real en la Antártida contra fuerzas nazis/exóticas, advertencias de Byrd sobre tecnología de polo a polo y el origen secreto del Tratado Antártico.
-**Estado:** Refactoreado a v2.0 - Framework de Historia Prohibida.
+**Estado:** Refactoreado a TL V.2 - Framework de Historia Prohibida.
+
 
 
 

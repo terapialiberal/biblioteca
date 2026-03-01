@@ -1,15 +1,12 @@
 ---
+titulo: Banca En La Sombra — El Sistema Financiero Paralelo (Shadow Banking)
+tipo: "concepto"
+fecha: 2026-02-25
+tags: [financiero, paralelo, sistema, tokenizacin]
+tier-primario: "a"
+nivel-evidencia: "alto"
 publish: true
-created: 2026-02-25T22:47:13.532-03:00
-modified: 2026-02-27T13:22:02.427-03:00
-tags:
-  - financiero
-  - paralelo
-  - sistema
-  - tokenizacin
-cssclasses: ""
 ---
-
 
 # Banca En La Sombra — El Sistema Financiero Paralelo (Shadow Banking)
 
@@ -38,8 +35,8 @@ cssclasses: ""
 
 ## Conexiones Críticas
 - [[BIS - El Banco de Pagos Internacionales]]: El nodo que intenta (secretamente) coordinar este caos.
-- [[The Great Taking (David Webb)]]: Cómo la banca en la sombra utilizará los colaterales confiscados en el próximo reset.
-- [[Tokenización de Activos Reales (RWA)]]: El futuro de la banca en la sombra mediante smart contracts inmutables.
+- [[00_Glosario - Conceptos Fase 1#The Great Taking (David Webb)\|The Great Taking (David Webb)]]: Cómo la banca en la sombra utilizará los colaterales confiscados en el próximo reset.
+- [[Tokenización de Activos Reales\|Tokenización de Activos Reales (RWA)]]: El futuro de la banca en la sombra mediante smart contracts inmutables.
 - [[City de Londres]]: El epicentro legal de estas operaciones.
 
 ## Cui Bono

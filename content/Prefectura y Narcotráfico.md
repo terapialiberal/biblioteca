@@ -1,5 +1,5 @@
 ---
-titulo: "Prefectura Y Narcotráfico (v2.0): El Peaje De La Hidrovía"
+titulo: "Prefectura Y Narcotráfico (TL V.2): El Peaje De La Hidrovía"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [hidrova, narcotrfico, peaje, prefectura]
 publish: true
 ---
-# Prefectura Y Narcotráfico (v2.0): El Peaje De La Hidrovía
+# Prefectura Y Narcotráfico (TL V.2): El Peaje De La Hidrovía
 
 > [!ABSTRACT] Hipótesis Informativa
 > La Prefectura Naval Argentina (PNA) actúa como el **operador de [[Tier B]]** encargado de gestionar y "peajear" el flujo logístico del narcotráfico en la **[[Hidrovía Paraná]]**. Lejos de ser una falla de vigilancia, la porosidad del río es un diseño sistémico: la PNA garantiza la seguridad de las rutas de tránsito para la cocaína que desciende desde Bolivia y Paraguay hacia los puertos exportadores de Rosario y Buenos Aires. En la Matrix del narcotráfico de Estado, la Prefectura no combate el tráfico, sino que administra quién puede operar y a qué costo, asegurando que la caja negra de la política se mantenga financiada.
@@ -29,7 +29,7 @@ publish: true
 - [[Hidrovía Paraná]]: La infraestructura física del tráfico.
 - [[Narcotráfico]]: El fenómeno macro.
 - [[Rosario]]: El nodo de exportación y violencia.
-- [[Cartel de los Soles]]: Por la conexión regional de flujos de droga.
+- [[Cártel de los Soles\|Cartel de los Soles]]: Por la conexión regional de flujos de droga.
 - [[Puerta Giratoria (Concepto)]]: Entre jefes de fuerza y empresas de seguridad privada de puertos.
 
 ## Conclusión Del Análisis
@@ -38,7 +38,8 @@ Prefectura es el ejemplo perfecto de cómo una institución de seguridad puede s
 ---
 **Versión:** 2.0
 **Enfoque:** La complicidad sistémica en la Hidrovía como corredor logístico, el control selectivo y la función recaudadora de la fuerza para la política.
-**Estado:** Refactoreado a v2.0 - Framework de Seguridad Capturada.
+**Estado:** Refactoreado a TL V.2 - Framework de Seguridad Capturada.
+
 
 
 

@@ -1,5 +1,5 @@
 ---
-titulo: "Rebekah Mercer (v2.0): La Arquitecta De La Infraestructura Disidente"
+titulo: "Rebekah Mercer (TL V.2): La Arquitecta De La Infraestructura Disidente"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [disidente, infraestructura, rebekah, robert]
 publish: true
 ---
-# Rebekah Mercer (v2.0): La Arquitecta De La Infraestructura Disidente
+# Rebekah Mercer (TL V.2): La Arquitecta De La Infraestructura Disidente
 
 > [!ABSTRACT] Hipótesis Informativa
 > Rebekah Mercer es la **Operadora de [[Tier B]]** que transformó la inmensa riqueza algorítmica de su padre, **[[Robert Mercer]]**, en una infraestructura de guerra cultural y política en EE.UU. A diferencia de otros donantes, Rebekah no solo entrega dinero; ella **Construye Sistemas**. Fue la pieza clave en la toma de control de **[[Cambridge Analytica]]** y en el financiamiento de medios y plataformas (Breitbart, Parler) diseñadas para romper el monopolio informativo liberal. Su función real es la creación de una **Matriz Alternativa** para canalizar el descontento del **[[Tier C]]**, asegurando que la rebelión contra las élites tradicionales sea financiada y dirigida por una nueva casta de multimillonarios tecnológicos de Tier A.
@@ -38,7 +38,8 @@ Rebekah Mercer nos enseña que **la disidencia financiada por multimillonarios d
 ---
 **Versión:** 2.0
 **Enfoque:** Rebekah como operadora técnica de la fortuna de Robert Mercer, su rol central en Cambridge Analytica y la creación de plataformas de disidencia controlada como Parler.
-**Estado:** Refactoreado a v2.0 - Framework de Ingeniería Política y Donaciones.
+**Estado:** Refactoreado a TL V.2 - Framework de Ingeniería Política y Donaciones.
+
 
 
 

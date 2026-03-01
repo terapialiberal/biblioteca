@@ -1,15 +1,12 @@
 ---
+titulo: "Corredor IMEC: La Pinza De Occidente Sobre El Rimland"
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [adebayo, imec, pinza, rimland]
 publish: true
-created: 2026-02-25T13:58:42.462-03:00
-modified: 2026-02-27T13:22:23.812-03:00
-tags:
-  - adebayo
-  - imec
-  - pinza
-  - rimland
-cssclasses: ""
 ---
-
 # Corredor IMEC: La Pinza De Occidente Sobre El Rimland
 
 > [!ABSTRACT] BLUF (Bottom Line Up Front)
@@ -37,7 +34,7 @@ cssclasses: ""
 * **India (Modi)**: Se posiciona como el socio estratégico preferencial de Occidente para el siglo XXI.
 
 ## 🔗 Conexiones Críticas
-- [[Acuerdos de Abraham]]: El lubricante político del IMEC.
+- [[00_Glosario - Conceptos Fase 1#Acuerdos de Abraham\|Acuerdos de Abraham]]: El lubricante político del IMEC.
 - [[MBS (Mohammed bin Salman)]]: El financista principal vía PIF.
 - [[Adebayo Ogunlesi]]: Su firma GIP es el dueño real de muchos de estos puertos.
 - [[Project mBridge]]: mBridge es la competencia financeira (Brics); IMEC es la competencia física (G7).
@@ -45,6 +42,7 @@ cssclasses: ""
 ---
 **Falsabilidad**: Si Arabia Saudita prioriza el BRICS Bridge y mBridge por encima de la normalización con Israel, el IMEC se degradará a una simple ruta marítima India-EAU sin conexión ferroviaria al Mediterráneo.
 
-*Versión: 2.0 | Protocolo TL-INTEL v12_0*
+*Versión: 2.0 | Protocolo TL-INTEL TL V.2*
+
 
 

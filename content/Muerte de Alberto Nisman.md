@@ -1,5 +1,5 @@
 ---
-titulo: "Muerte De Alberto Nisman (v2.0): El Sacrificio Geopolítico"
+titulo: "Muerte De Alberto Nisman (TL V.2): El Sacrificio Geopolítico"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [alberto, cristina, geopoltico, muerte]
 publish: true
 ---
-# Muerte De Alberto Nisman (v2.0): El Sacrificio Geopolítico
+# Muerte De Alberto Nisman (TL V.2): El Sacrificio Geopolítico
 
 > [!ABSTRACT] Hipótesis Informativa
 > La muerte del fiscal Alberto Nisman no fue un suicidio ni un crimen pasional; fue una **Ejecución de Inteligencia de [[Tier A]]** en suelo argentino. Nisman quedó atrapado en el fuego cruzado entre dos bloques de poder global: el eje **Irán-Venezuela** (con el que el gobierno de **[[Cristina Kirchner]]** intentaba alinearse mediante el Memorándum) y el eje **EE.UU.-Israel** (CIA/Mossad, representados localmente por **[[Jaime Stiuso]]**). Al convertirse en una amenaza existencial para el pacto geopolítico del gobierno, el sistema de seguridad fue desactivado (Zona Liberada) y un comando profesional ejecutó la limpieza. La escena fue luego contaminada torpemente por el **Tier B** local para simular un suicidio, dejando huellas indelebles de encubrimiento estatal.
@@ -40,7 +40,8 @@ Alberto Nisman fue la primera víctima de la "Guerra Fría del Siglo XXI" en Arg
 ---
 **Versión:** 2.0
 **Enfoque:** Conflicto geopolítico Irán vs Israel/EEUU, rol de Stiuso y CIA, zona liberada por Tier B local y encubrimiento como política de estado.
-**Estado:** Refactoreado a v2.0 - Framework de Crimen de Estado Transnacional.
+**Estado:** Refactoreado a TL V.2 - Framework de Crimen de Estado Transnacional.
+
 
 
 

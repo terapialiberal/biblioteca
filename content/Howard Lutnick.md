@@ -1,4 +1,12 @@
 ---
+titulo: Howard Lutnick
+tipo: 'persona'
+tier-primario: 'a'
+nivel-evidencia: 'medio'
+tags: [clasificado-ai]
+publish: true
+---
+﻿---
 titulo: "Howard Lutnick: El Guardin Del Tesoro Digital"
 tipo: persona
 fecha: 2026-02-25
@@ -40,8 +48,9 @@ publish: true
 - [[BlackRock BUIDL]]: El competidor "prolijo" del sistema que Lutnick gestiona.
 
 ---
-**Falsabilidad**: Si una auditor�a forense del Departamento de Justicia (DoJ) logra probar que las reservas de Tether son fraudulentas o se usan para eludir sanciones contra enemigos estatales, Lutnick se ver�a obligado a elegir entre su cargo y su empresa.
+**Falsabilidad**: Si una auditorï¿½a forense del Departamento de Justicia (DoJ) logra probar que las reservas de Tether son fraudulentas o se usan para eludir sanciones contra enemigos estatales, Lutnick se verï¿½a obligado a elegir entre su cargo y su empresa.
 
-*Versi�n: 3.0 | Protocolo TL-INTEL v12_0*
+*Versiï¿½n: 3.0 | Protocolo TL-INTEL TL V.2*
+
 
 

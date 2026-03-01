@@ -1,5 +1,5 @@
 ---
-titulo: "Revuelta De Sri Lanka (v2.0): El Canario En La Mina De La Agenda Verde"
+titulo: "Revuelta De Sri Lanka (TL V.2): El Canario En La Mina De La Agenda Verde"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [canario, fertilizantes, foro, mina]
 publish: true
 ---
-# Revuelta De Sri Lanka (v2.0): El Canario En La Mina De La Agenda Verde
+# Revuelta De Sri Lanka (TL V.2): El Canario En La Mina De La Agenda Verde
 
 > [!ABSTRACT] Hipótesis Informativa
 > La Revuelta de Sri Lanka de 2022 fue el **Primer Colapso Nacional por Ideología Tecnocrática** de la era moderna. Siguiendo las directrices del **[[Foro Económico Mundial (WEF)]]** para alcanzar un puntaje de **[[ESG]]** perfecto (98/100), el gobierno prohibió abruptamente los fertilizantes sintéticos para convertir al país en "100% orgánico". Su función real fue demostrar la **Inviabilidad de la Agenda 2030** en el mundo real: la producción de té y arroz colapsó, generando una hambruna y una crisis de divisas que llevó al pueblo de **[[Tier C]]** a asaltar el palacio presidencial, forzando la huida de la élite de **[[Tier B]]** que ejecutó el experimento.
@@ -38,7 +38,8 @@ La Revuelta de Sri Lanka nos enseña que **las utopías de la élite son las dis
 ---
 **Versión:** 2.0
 **Enfoque:** El colapso agrícola causado por la directiva orgánica-ESG, la responsabilidad del WEF en la narrativa del país y la respuesta popular ante el hambre manufacturada.
-**Estado:** Refactoreado a v2.0 - Framework de Seguridad Alimentaria y Colapso Tecnocrático.
+**Estado:** Refactoreado a TL V.2 - Framework de Seguridad Alimentaria y Colapso Tecnocrático.
+
 
 
 

@@ -1,5 +1,5 @@
 ---
-titulo: "RAND Health (v2.0): La Ingeniería Del Capital Humano"
+titulo: "RAND Health (TL V.2): La Ingeniería Del Capital Humano"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [capital, crdito, health, humano]
 publish: true
 ---
-# RAND Health (v2.0): La Ingeniería Del Capital Humano
+# RAND Health (TL V.2): La Ingeniería Del Capital Humano
 
 > [!ABSTRACT] Hipótesis Informativa
 > RAND Health es la **División de Gestión Biopolítica de [[Tier B]]** que aplica la fría lógica militar de la RAND Corporation al cuerpo humano y a la salud de las poblaciones. No es una institución médica, sino una de **Planificación Tecnocrática** que diseña los sistemas de salud (como el Obamacare o las políticas de respuesta al COVID) basándose en modelos de eficiencia económica y control poblacional. Su función real es transformar la salud del individuo de **[[Tier C]]** en un recurso gestionado por el Estado y las corporaciones, asegurando que el "cuidado" sea en realidad una herramienta de vigilancia y estandarización del comportamiento humano.
@@ -23,7 +23,7 @@ publish: true
 
 ## ¸ Mecanisms De Poder (Biopolíticos)
 
-1.  **Diferenciación de Riesgo Algorítmica**: Clasificación de ciudadanos por su "puntaje de salud" para condicionar precios, seguros y libertades civiles, un precursor médico del **[[Crédito Social (China)]]**.
+1.  **Diferenciación de Riesgo Algorítmica**: Clasificación de ciudadanos por su "puntaje de salud" para condicionar precios, seguros y libertades civiles, un precursor médico del **[[Crédito Social Chino\|Crédito Social (China)]]**.
 2.  **Estandarización de Protocolos**: Eliminación del juicio clínico individual en favor de guías de tratamiento diseñadas por RAND que favorecen a la industria farmacéutica de Tier A bajo la excusa de la "evidencia científica estandarizada".
 
 ## Conexiones Críticas
@@ -39,7 +39,8 @@ RAND Health nos enseña que **tu cuerpo es, para la Matrix, un activo financiero
 ---
 **Versión:** 2.0
 **Enfoque:** La aplicación de la teoría de sistemas de RAND a la salud pública, el rol en la creación de Obamacare y la transformación del paciente en un dato de control biopolítico.
-**Estado:** Refactoreado a v2.0 - Framework de Biopolítica y Gestión Poblacional.
+**Estado:** Refactoreado a TL V.2 - Framework de Biopolítica y Gestión Poblacional.
+
 
 
 

@@ -1,5 +1,5 @@
 ---
-titulo: "Reinhard Gehlen (v2.0): El Puente Nazi Del Espionaje Occidental"
+titulo: "Reinhard Gehlen (TL V.2): El Puente Nazi Del Espionaje Occidental"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [allen, espionaje, nazi, occidental]
 publish: true
 ---
-# Reinhard Gehlen (v2.0): El Puente Nazi Del Espionaje Occidental
+# Reinhard Gehlen (TL V.2): El Puente Nazi Del Espionaje Occidental
 
 > [!ABSTRACT] Hipótesis Informativa
 > Reinhard Gehlen fue el **Operador de [[Tier B]]** que aseguró la continuidad de la inteligencia nazi dentro de la estructura de poder de la Guerra Fría. General de la Wehrmacht y jefe de inteligencia en el frente oriental, Gehlen negoció su rendición ante EE.UU. entregando sus vastos archivos sobre la URSS a cambio de inmunidad y financiamiento para crear la **[[Gehlen Org]]**. Su función real fue **Infectar la Inteligencia Occidental** con cuadros y mentalidades nacionalsocialistas, fundando el **[[BND]]** alemán y demostrando que para el **[[Tier A]]** geopolítico, la utilidad técnica del espionaje es superior a cualquier principio ético o democrático.
@@ -40,7 +40,8 @@ Reinhard Gehlen nos enseña que **el sistema de inteligencia moderno no nació p
 ---
 **Versión:** 2.0
 **Enfoque:** Gehlen como el nexo que permitió la supervivencia del espionaje nazi en la CIA y el BND, el pacto con Allen Dulles y la vulnerabilidad de su red ante la infiltración soviética.
-**Estado:** Refactoreado a v2.0 - Framework de Biografía de Inteligencia e Impunidad Histórica.
+**Estado:** Refactoreado a TL V.2 - Framework de Biografía de Inteligencia e Impunidad Histórica.
+
 
 
 

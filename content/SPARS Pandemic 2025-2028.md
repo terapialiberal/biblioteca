@@ -1,5 +1,5 @@
 ---
-titulo: "SPARS Pandemic 2025-2028 (v2.0): El Manual De Gestión Del Disentimiento"
+titulo: "SPARS Pandemic 2025-2028 (TL V.2): El Manual De Gestión Del Disentimiento"
 tipo: evento
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,10 +7,10 @@ nivel-evidencia: "medio"
 tags: ["2028", gestin, johns, manual]
 publish: true
 ---
-# SPARS Pandemic 2025-2028 (v2.0): El Manual De Gestión Del Disentimiento
+# SPARS Pandemic 2025-2028 (TL V.2): El Manual De Gestión Del Disentimiento
 
 > [!ABSTRACT] Hipótesis Informativa
-> El documento "The SPARS Pandemic 2025-2028" es la **Hoja de Ruta de Ingeniería Social de [[Tier B]]** publicada en 2017 por el Johns Hopkins Center for Health Security. A diferencia de un simulacro médico, su función real en la Matrix es la de un **"Manual de Guerra Cognitiva"**: describe con precisión milimétrica cómo gestionar la narrativa, censurar el disentimiento en redes sociales y manejar los daños colaterales de vacunas apresuradas años antes de que ocurran. SPARS es el plano maestro para la **[[Censura Industrial]]**, convirtiendo una crisis sanitaria en una oportunidad para consolidar el control gubernamental sobre la verdad pública del **[[Tier C]]**.
+> El documento "The SPARS Pandemic 2025-2028" es la **Hoja de Ruta de Ingeniería Social de [[Tier B]]** publicada en 2017 por el Johns Hopkins Center for Health Security. A diferencia de un simulacro médico, su función real en la Matrix es la de un **"Manual de Guerra Cognitiva"**: describe con precisión milimétrica cómo gestionar la narrativa, censurar el disentimiento en redes sociales y manejar los daños colaterales de vacunas apresuradas años antes de que ocurran. SPARS es el plano maestro para la **[[00_Glosario - Conceptos Fase 1#Censura Industrial\|Censura Industrial]]**, convirtiendo una crisis sanitaria en una oportunidad para consolidar el control gubernamental sobre la verdad pública del **[[Tier C]]**.
 
 ## Análisis De Tiers
 
@@ -31,7 +31,7 @@ publish: true
 ## Conexiones Críticas
 - [[Johns Hopkins Center for Health Security]]: El laboratorio de ideas de la bioseguridad.
 - [[Evento 201]]: El simulacro hermano que prefiguró el COVID-19.
-- [[Censura Industrial]]: El aparato de control de redes sociales derivado de estas ideas.
+- [[00_Glosario - Conceptos Fase 1#Censura Industrial\|Censura Industrial]]: El aparato de control de redes sociales derivado de estas ideas.
 - [[Iatrogenia]]: El daño médico planificado y gestionado comunicativamente.
 - [[Programación Predictiva]]: El marco psicológico donde SPARS opera.
 
@@ -41,7 +41,8 @@ El documento SPARS nos enseña que **las crisis del futuro ya están siendo edit
 ---
 **Versión:** 2.0
 **Enfoque:** SPARS como manual de comunicación y censura, su precisión en predecir la respuesta al COVID-19, la gestión de la desinformación y los efectos secundarios de las vacunas, y el uso de la simulación como herramienta de programación predictiva para el Tier A.
-**Estado:** Refactoreado a v2.0 - Framework de Bioseguridad e Ingeniería Social.
+**Estado:** Refactoreado a TL V.2 - Framework de Bioseguridad e Ingeniería Social.
+
 
 
 

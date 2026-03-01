@@ -1,5 +1,5 @@
 ---
-titulo: "Shi Zhengli (v2.0): El Eslabón Perdido Del Laboratorio De Wuhan"
+titulo: "Shi Zhengli (TL V.2): El Eslabón Perdido Del Laboratorio De Wuhan"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [ecohealth, eslabn, instituto, laboratorio]
 publish: true
 ---
-# Shi Zhengli (v2.0): El Eslabón Perdido Del Laboratorio De Wuhan
+# Shi Zhengli (TL V.2): El Eslabón Perdido Del Laboratorio De Wuhan
 
 > [!ABSTRACT] Hipótesis Informativa
 > Shi Zhengli, conocida como "Bat Lady", es la **Operadora de [[Tier B]]** cuya investigación científica sobre coronavirus de murciélagos se encuentra en el epicentro de la mayor crisis biopolítica del siglo XXI. Como jefa del Centro de Enfermedades Infecciosas Emergentes en el **[[Instituto de Virología de Wuhan (WIV)]]**, su función real ha sido la de una **"Ingeniera de Ganancia de Función"**: realizar experimentos para aumentar la infectividad de virus animales en humanos, financiados en parte por instituciones de EE.UU. (vía **[[EcoHealth Alliance]]**). Shi Zhengli representa la cara visible de la colaboración científica transnacional entre el **[[Tier A]]** de Washington y Pekín para la creación de herramientas biológicas de control global.
@@ -41,7 +41,8 @@ Shi Zhengli nos enseña que **dentro de la Matrix, la ciencia es a menudo un arm
 ---
 **Versión:** 2.0
 **Enfoque:** Shi Zhengli como figura central de la investigación en el WIV, su conexión con el financiamiento de EE.UU. a través de EcoHealth, el desarrollo de experimentos de ganancia de función y el encubrimiento del origen del COVID-19.
-**Estado:** Refactoreado a v2.0 - Framework de Biotecnología y Pandemias.
+**Estado:** Refactoreado a TL V.2 - Framework de Biotecnología y Pandemias.
+
 
 
 

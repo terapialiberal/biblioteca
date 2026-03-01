@@ -1,14 +1,12 @@
 ---
 publish: true
-created: 2026-01-29T19:17:06.957-03:00
-modified: 2026-02-27T13:06:20.413-03:00
-tags:
-  - beyond
-  - carne
-  - meat
-cssclasses: ""
+titulo: Cada De Beyond Meat
+tipo: evento
+fecha: 2026-02-25
+tier-primario: b
+nivel-evidencia: medio
+tags: [beyond, carne, meat]
 ---
-
 # Cada De Beyond Meat
 
 ## Resumen General
@@ -23,7 +21,7 @@ La accin de Beyond Meat pas de \230 (2019) a menos de \10 (2024). A pesar del ma
 ## Conexiones
 - [[Bill Gates]]
 - [[Carne Sinttica (Lab-Grown)]]
-- [[Comisin EAT-Lancet]]
+- [[Comisión EAT-Lancet\|Comisin EAT-Lancet]]
 
 
 

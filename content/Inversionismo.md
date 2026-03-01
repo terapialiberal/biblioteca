@@ -28,7 +28,7 @@ publish: true
 
 ## Conexiones Clave
 - [[1984 / George Orwell]] (La guía literaria)
-- [[Gaslighting (Político)]] (Su técnica táctica)
+- [[00_Glosario - Conceptos Fase 1#Gaslighting (Político)\|Gaslighting (Político)]] (Su técnica táctica)
 - [[Ideología de Género / Transhumanismo]] (Aplicaciones biológicas)
 - [[Doblepensar (Doublethink)]] (El estado mental requerido)
 

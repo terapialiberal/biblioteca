@@ -1,5 +1,5 @@
 ---
-titulo: "Proyecto Para El Nuevo Siglo Estadounidense (v2.0): El Guion Del Caos Global"
+titulo: "Proyecto Para El Nuevo Siglo Estadounidense (TL V.2): El Guion Del Caos Global"
 tipo: evento
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [george, guion, problema, proyecto]
 publish: true
 ---
-# Proyecto Para El Nuevo Siglo Estadounidense (v2.0): El Guion Del Caos Global
+# Proyecto Para El Nuevo Siglo Estadounidense (TL V.2): El Guion Del Caos Global
 
 > [!ABSTRACT] Hipótesis Informativa
 > El Proyecto para el Nuevo Siglo Estadounidense (PNAC) fue el **Think-Tank de Diseño Imperial de [[Tier A]]** que redactó la hoja de ruta para la dominación global de EE.UU. en el siglo XXI. Famoso por su informe de 2000, "Rebuilding America's Defenses", donde se afirmaba que la transformación militar necesaria sería lenta a menos que ocurriera un **"acontecimiento catastrófico y catalizador, como un nuevo Pearl Harbor"**. El PNAC es la prueba documental de que las guerras de Irak, Afganistán y la expansión del complejo militar-industrial no fueron reacciones al terrorismo, sino objetivos predeterminados ejecutados por sus propios miembros una vez instalados en el poder.
@@ -38,7 +38,8 @@ El PNAC es el "humo del arma" de la conspiración pública. Nos enseña que **la
 ---
 **Versión:** 2.0
 **Enfoque:** La cita del "Nuevo Pearl Harbor", la infiltración de sus miembros en el gobierno de Bush y el diseño de las guerras del siglo XXI como objetivos preestablecidos.
-**Estado:** Refactoreado a v2.0 - Framework de Arquitectura Imperial.
+**Estado:** Refactoreado a TL V.2 - Framework de Arquitectura Imperial.
+
 
 
 

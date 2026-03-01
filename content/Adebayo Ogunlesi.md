@@ -30,7 +30,7 @@ Ogunlesi facilita que capitales como el de [[BlackRock]] capturen "choke points"
 - [[BlackRock]]
 - [[Larry Fink]]
 - [[OpenAI]]
-- [[Canal de Panam]] (va puertos de GIP)
+- [[Canal de Panamá\|Canal de Panam]] (va puertos de GIP)
 
 
 

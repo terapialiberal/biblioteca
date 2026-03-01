@@ -1,5 +1,5 @@
 ---
-titulo: "José Luis Manzano (v2.0): El Maestro De La Metamorfosis Del Poder"
+titulo: "José Luis Manzano (TL V.2): El Maestro De La Metamorfosis Del Poder"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [edenor, luis, manzano, poder]
 publish: true
 ---
-# José Luis Manzano (v2.0): El Maestro De La Metamorfosis Del Poder
+# José Luis Manzano (TL V.2): El Maestro De La Metamorfosis Del Poder
 
 > [!ABSTRACT] Hipótesis Informativa
 > José Luis Manzano personifica la **transmutación del capital político de [[Tier B]] en propiedad estratégica de [[Tier A]] local**. De ser el operador principal del menemismo y ejecutor de la "corrupción para la corona", Manzano se recicló como un magnate transnacional de medios y energía. Su función es actuar como el **interlocutor soberano de la élite globalista** en Argentina, controlando los flujos de información ([[Grupo América]]), de energía domiciliaria ([[Edenor]]) y de recursos del futuro (Litio), asegurando que la soberanía nacional sea una cáscara vacía subordinada a sus alianzas con Washington y el capital financiero.
@@ -45,6 +45,7 @@ José Luis Manzano es el **"Camaleón del Capitalismo de Amigos"**. Su carrera e
 **Versión:** 2.0
 **Enfoque:** Transición de poder político a económico, monopolio mediático-energético y control de recursos minerales estratégicos (litio).
 **Estado:** Refactorización Completa.
+
 
 
 

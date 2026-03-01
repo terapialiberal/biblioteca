@@ -1,15 +1,12 @@
 ---
+titulo: Fifth Generation Warfare (5GW)
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [fifth, generation, guerra, warfare]
 publish: true
-created: 2026-01-29T19:17:13.756-03:00
-modified: 2026-02-27T13:22:43.580-03:00
-tags:
-  - fifth
-  - generation
-  - guerra
-  - warfare
-cssclasses: ""
 ---
-
 # Fifth Generation Warfare (5GW)
 
 ## Perfil TL (Resumen Ejecutivo)
@@ -42,7 +39,7 @@ cssclasses: ""
 
 ## Conexiones Clave
 - [[Guerra Irrestricta (Unrestricted Warfare)]] (El manual chino de 5GW)
-- [[Consenso Manufacturado]] (Su base teórica)
+- [[00_Glosario - Conceptos Fase 1#Consenso Manufacturado\|Consenso Manufacturado]] (Su base teórica)
 - [[Cambridge Analytica / PsyOps]] (La prueba de concepto)
 - [[Neurotecnología / IA]] (El futuro de la 5GW)
 

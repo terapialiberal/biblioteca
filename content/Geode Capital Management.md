@@ -28,7 +28,7 @@ publish: true
 
 ## Conexiones Clave
 - [[Fidelity / Familia Johnson]] (Su creador y socio principal)
-- [[BlackRock / Vanguard / State Street]] (Sus competidores/aliados en el Big Four)
+- [[BlackRock - Vanguard - State Street\|BlackRock / Vanguard / State Street]] (Sus competidores/aliados en el Big Four)
 - [[ESG (Environmental, Social and Governance)]] (Su marco operativo de control)
 - [[Financiarizacin / Indexing]] (Su motor de crecimiento)
 

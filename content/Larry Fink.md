@@ -1,5 +1,13 @@
 ---
-titulo: "Larry Fink (v2.0): El Programador De La Realidad Financiera"
+titulo: Larry Fink
+tipo: 'persona'
+tier-primario: 'a'
+nivel-evidencia: 'medio'
+tags: [clasificado-ai]
+publish: true
+---
+﻿---
+titulo: "Larry Fink (TL V.2): El Programador De La Realidad Financiera"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +15,7 @@ nivel-evidencia: "medio"
 tags: [blackrock, financiera, fink, vanguard]
 publish: true
 ---
-# Larry Fink (v2.0): El Programador De La Realidad Financiera
+# Larry Fink (TL V.2): El Programador De La Realidad Financiera
 
 > [!ABSTRACT] Hiptesis Informativa
 > Larry Fink constituye el **principal oficial operativo del [[Tier A]] para la transicin hacia un modelo de gobernanza corporativa global**. Como CEO de **[[BlackRock]]**, Fink no solo gestiona el mayor pool de capital de la historia (~\10 billones), sino que ha diseado el mecanismo de disciplina ideolgica conocido como **[[ESG]]** para forzar la alineacin de las empresas del [[Tier B]] con la agenda del Gran Reset. Fink representa la fusin definitiva entre el capital financiero y la ingeniera social, utilizando la plataforma de IA **Aladdin** para monitorizar y dirigir el flujo de valor del planeta, convirtiendo la economa de mercado en una **economa de mando tecnocrtico**.
@@ -43,9 +51,10 @@ publish: true
 Larry Fink es el **"Fiduciario de la Humanidad" segn el Tier A**. Su importancia reside en haber comprendido que el control del capital es, en ltima instancia, el control del comportamiento. No necesita ganar elecciones porque posee las empresas que financian a los candidatos y los bancos que gestionan sus deudas. Entender a Fink es comprender que la democracia es un subsistema de la estructura de BlackRock. Para el Tier C, es un exitoso hombre de negocios; para el Tier A, es el **gestor del despliegue del nuevo orden tecnocrtico**. Bajo su mando, el dinero ha dejado de ser un medio de intercambio para convertirse en un **dispositivo de seguimiento y correccin social**.
 
 ---
-**Versi�n:** 2.0
-**Enfoque:** Rol de BlackRock como gobierno en la sombra, uso de la plataforma Aladdin para el control global de riesgos, implementaci�n del sistema ESG como cr�dito social corporativo y la estrategia de desposesi�n del Tier C.
-**Estado:** Refactorizaci�n Completa.
+**Versiï¿½n:** 2.0
+**Enfoque:** Rol de BlackRock como gobierno en la sombra, uso de la plataforma Aladdin para el control global de riesgos, implementaciï¿½n del sistema ESG como crï¿½dito social corporativo y la estrategia de desposesiï¿½n del Tier C.
+**Estado:** Refactorizaciï¿½n Completa.
+
 
 
 

@@ -1,5 +1,5 @@
 ---
-titulo: "Primaveras Árabes (v2.0): La Ingeniería Del Caos Regional"
+titulo: "Primaveras Árabes (TL V.2): La Ingeniería Del Caos Regional"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [primaveras, regional, revolucin, rabes]
 publish: true
 ---
-# Primaveras Árabes (v2.0): La Ingeniería Del Caos Regional
+# Primaveras Árabes (TL V.2): La Ingeniería Del Caos Regional
 
 > [!ABSTRACT] Hipótesis Informativa
 > Las Primaveras Árabes no fueron un despertar democrático espontáneo, sino una **Operación Multiregional de Cambio de Régimen de [[Tier A]]** ejecutada mediante la metodología de la **[[Revolución del color]]**. Utilizando el "agravio legítimo" de la población de **[[Tier C]]** como combustible, el sistema orquestó la caída de gobiernos soberanos (o simplemente incómodos) para reemplazarlos por regímenes dóciles al consenso de Washington/Bruselas o para sumergir a las naciones en una guerra civil permanente (Libia, Siria), eliminando competidores geopolíticos y abriendo mercados energéticos bajo el paraguas de la "protección de derechos humanos".
@@ -38,7 +38,8 @@ Las Primaveras Árabes nos enseñan que el sistema puede secuestrar los anhelos 
 ---
 **Versión:** 2.0
 **Enfoque:** Aplicación regional de la técnica de revolución de colores, el rol de la NED y CANVAS, y la destrucción de Libia como objetivo de Tier A.
-**Estado:** Refactoreado a v2.0 - Framework de Ingeniería Insurreccional.
+**Estado:** Refactoreado a TL V.2 - Framework de Ingeniería Insurreccional.
+
 
 
 

@@ -1,5 +1,5 @@
 ---
-titulo: "Preferencia Temporal (v2.0): El Pulso De La Civilización"
+titulo: "Preferencia Temporal (TL V.2): El Pulso De La Civilización"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [civilizacin, hans, preferencia, temporal]
 publish: true
 ---
-# Preferencia Temporal (v2.0): El Pulso De La Civilización
+# Preferencia Temporal (TL V.2): El Pulso De La Civilización
 
 > [!ABSTRACT] Hipótesis Informativa
 > La Preferencia Temporal es el **indicador antropológico definitivo de la salud de una civilización**. Es la valoración relativa que el individuo otorga a un bien en el presente frente al mismo bien en el futuro. Una **Baja Preferencia Temporal** (ahorro, inversión, sacrificio presente por éxito futuro) construye catedrales y familias estables. Una **Alta Preferencia Temporal** (consumo inmediato, deuda, gratificación instantánea) es la herramienta de **[[Tier A]]** para convertir al ciudadano de **[[Tier C]]** en un lactante dependiente del Estado, destruyendo la acumulación de capital y la previsión a largo plazo.
@@ -39,7 +39,8 @@ La Preferencia Temporal no es solo un concepto económico; es una elección mora
 ---
 **Versión:** 2.0
 **Enfoque:** La preferencia temporal como motor civilizatorio vs. herramienta de control estatal a través de la inflación y la gratificación instantánea.
-**Estado:** Refactoreado a v2.0 - Framework de Psicología Económica.
+**Estado:** Refactoreado a TL V.2 - Framework de Psicología Económica.
+
 
 
 

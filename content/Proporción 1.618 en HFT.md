@@ -1,20 +1,29 @@
 ---
+titulo: Proporción 1.618 en HFT
+tipo: 'concepto'
+tier-primario: 'b'
+nivel-evidencia: 'medio'
+tags: [clasificado-ai]
 publish: true
-created: 2026-02-25T22:08:54.907-03:00
-modified: 2026-02-27T13:23:45.070-03:00
-tags:
-  - proporcin
-cssclasses: ""
+---
+﻿---
+titulo: ProporciÃ³n 1.618 En HFT
+tipo: "concepto"
+fecha: 2026-02-25
+tags: [proporcin]
+tier-primario: "b"
+nivel-evidencia: "medio"
+publish: true
 ---
 
+# ProporciÃ³n 1.618 En HFT
 
-# Proporción 1.618 En HFT
+> [!ABSTRACT] HipÃ³tesis Informativa
+> Nodo perteneciente a la Matrix de Simbolismo y Esoterismo TL V.2.
 
-> [!ABSTRACT] Hipótesis Informativa
-> Nodo perteneciente a la Matrix de Simbolismo y Esoterismo v12_0.
-
-## Análisis De Tiers
+## AnÃ¡lisis De Tiers
 *En desarrollo...*
 
 ## Cui Bono
-*Pendiente de análisis forense.*
+*Pendiente de anÃ¡lisis forense.*
+

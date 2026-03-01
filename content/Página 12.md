@@ -1,5 +1,5 @@
 ---
-titulo: "Página/12 (v2.0): El Bastión Narrativo De La Hegemonía"
+titulo: "Página/12 (TL V.2): El Bastión Narrativo De La Hegemonía"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [bastin, hegemona, horacio, kirchnerismo]
 publish: true
 ---
-# Página/12 (v2.0): El Bastión Narrativo De La Hegemonía
+# Página/12 (TL V.2): El Bastión Narrativo De La Hegemonía
 
 > [!ABSTRACT] Hipótesis Informativa
 > Página/12 es la **Usina de Guerra Cultural de [[Tier B]]** encargada de suministrar el marco ideológico y moral a la intelectualidad progresista y al aparato político del kirchnerismo en Argentina. De propiedad del sindicalista Víctor Santa María, el diario opera como una herramienta de **Profilaxis Informativa**: blinda las contradicciones de la élite gobernante mediante una estética de vanguardia y una retórica de "derechos humanos" selectivos. Su función es evitar que el individuo de **[[Tier C]]** detecte la fusión entre el sindicalismo millonario, la pauta estatal y la construcción de un relato de resistencia ficticio.
@@ -27,7 +27,7 @@ publish: true
 
 ## Conexiones Críticas
 - [[Horacio Verbitsky]]: El ideólogo y nexo histórico entre la inteligencia y el diario.
-- [[Kirchnerismo]]: La facción política que utiliza al medio como usina.
+- [[00_Glosario - Conceptos Fase 1#Kirchnerismo\|Kirchnerismo]]: La facción política que utiliza al medio como usina.
 - [[Víctor Santa María]]: El nexo entre el sindicalismo rancio y los medios de "vanguardia".
 - [[Pauta Oficial]]: El combustible económico del medio.
 - [[Batalla Cultural]]: El marco de guerra comunicacional en el que opera.
@@ -38,7 +38,8 @@ Página/12 nos enseña que **el periodismo de autor puede ser la forma más refi
 ---
 **Versión:** 2.0
 **Enfoque:** El rol del diario como usina ideológica del kirchnerismo, su financiación sindical y estatal, y el uso de la retórica de DDHH para blindar al poder.
-**Estado:** Refactoreado a v2.0 - Framework de Medios de Oposición Controlada.
+**Estado:** Refactoreado a TL V.2 - Framework de Medios de Oposición Controlada.
+
 
 
 

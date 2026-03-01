@@ -1,5 +1,5 @@
 ---
-titulo: "N M Rothschild and Sons (v2.0): El Arquitecto De La Deuda Soberana"
+titulo: "N M Rothschild and Sons (TL V.2): El Arquitecto De La Deuda Soberana"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [arquitecto, city, deuda, rothschild]
 publish: true
 ---
-# N M Rothschild and Sons (v2.0): El Arquitecto De La Deuda Soberana
+# N M Rothschild and Sons (TL V.2): El Arquitecto De La Deuda Soberana
 
 > [!ABSTRACT] Hipótesis Informativa
 > N M Rothschild and Sons no es solo un banco de inversión; es el **nodo central de la arquitectura financiera de [[Tier A]]**. Desde las guerras napoleónicas hasta las privatizaciones modernas, ha actuado como el asesor invisible que transforma el patrimonio de las naciones en activos para la élite global. Su poder reside en su rol como intermediario de confianza de las dinastías europeas y su control histórico sobre los mecanismos de fijación de valor (oro), asegurando que el sistema de deuda global siempre favorezca a los acreedores sutiles sobre los estados soberanos.
@@ -39,7 +39,8 @@ N M Rothschild and Sons es el archivo vivo del capital. Representa la transició
 ---
 **Versión:** 2.0
 **Enfoque:** Arquitectura de deuda soberana, fijación del precio del oro y rol de asesoría en la transferencia de activos estatales al sector privado.
-**Estado:** Refactoreado a v2.0 - Framework de Alta Finanza Dinástica.
+**Estado:** Refactoreado a TL V.2 - Framework de Alta Finanza Dinástica.
+
 
 
 

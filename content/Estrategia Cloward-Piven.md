@@ -1,15 +1,12 @@
 ---
+titulo: Estrategia Cloward-Piven
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [cloward, estrategia, piven, saul]
 publish: true
-created: 2026-01-29T19:17:12.360-03:00
-modified: 2026-02-27T13:07:00.752-03:00
-tags:
-  - cloward
-  - estrategia
-  - piven
-  - saul
-cssclasses: ""
 ---
-
 # Estrategia Cloward-Piven
 
 ## Perfil TL (Resumen Ejecutivo)
@@ -33,7 +30,7 @@ cssclasses: ""
 - [[Saul Alinsky / Rules for Radicals]] (La base operativa)
 - [[Escuela de Frankfurt]] (Su raíz ideológica de deconstrucción)
 - [[Renta Básica Universal (UBI)]] (La "solución" pre-empaquetada al colapso)
-- [[George Soros / Open Society]] (Financiamiento de la praxis)
+- [[00_Glosario - Conceptos Fase 1#George Soros / Open Society\|George Soros / Open Society]] (Financiamiento de la praxis)
 
 ## Fuentes
 - Richard Cloward & Frances Fox Piven: "The Weight of the Poor: A Strategy to End Poverty" (The Nation, 1966).

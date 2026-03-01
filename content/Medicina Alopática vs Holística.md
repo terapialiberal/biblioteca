@@ -1,5 +1,5 @@
 ---
-titulo: "Medicina Alopática Vs Holística (v2.0): El Origen Del Monopolio De Rockefeller"
+titulo: "Medicina Alopática Vs Holística (TL V.2): El Origen Del Monopolio De Rockefeller"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [medicina, monopolio, origen, rockefeller]
 publish: true
 ---
-# Medicina Alopática Vs Holística (v2.0): El Origen Del Monopolio De Rockefeller
+# Medicina Alopática Vs Holística (TL V.2): El Origen Del Monopolio De Rockefeller
 
 > [!ABSTRACT] Hipótesis Informativa
 > La hegemonía actual de la Medicina Alopática (basada en fármacos y cirugía) sobre la Holística no es el resultado de una evolución científica natural, sino de una **toma hostil corporativa** orquestada por **[[John D. Rockefeller]]** a principios del siglo XX. A través del **Informe Flexner (1910)**, Rockefeller y Carnegie utilizaron su inmensa riqueza para desfinanciar y cerrar cualquier facultad de medicina que enseñara nutrición, homeopatía o fitoterapia. Su objetivo era crear un sistema de salud que sirviera exclusivamente como canal de ventas para la incipiente industria petroquímica farmacéutica. El resultado es un modelo de "Cuidado de la Enfermedad", no de la Salud, diseñado para cronificar pacientes rentables bajo la tutela de patentes de **[[Tier A]]**.
@@ -30,7 +30,7 @@ publish: true
 - [[Informe Flexner (1910)]]: El arma del crimen.
 - [[John D. Rockefeller]]: El arquitecto del sistema.
 - [[Big Pharma]]: La industria resultante.
-- [[Códex Alimentarius]]: La extensión global de este control.
+- [[Codex Alimentarius\|Códex Alimentarius]]: La extensión global de este control.
 - [[Teoría de los Gérmenes vs Terreno]]: El debate científico suprimido.
 
 ## Conclusión Del Análisis
@@ -39,7 +39,8 @@ La medicina moderna es una maravilla tecnológica construida sobre una base corr
 ---
 **Versión:** 2.0
 **Enfoque:** El Informe Flexner como captura corporativa, el rol de Rockefeller en la creación de la Big Pharma y la supresión sistemática de terapias no patentables.
-**Estado:** Refactoreado a v2.0 - Framework de Petro-Medicina.
+**Estado:** Refactoreado a TL V.2 - Framework de Petro-Medicina.
+
 
 
 

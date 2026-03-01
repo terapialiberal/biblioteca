@@ -1,5 +1,13 @@
 ---
-titulo: "John McAfee (v2.0): El Hacker Renegado De La Matrix"
+titulo: John McAfee
+tipo: 'persona'
+tier-primario: 'b'
+nivel-evidencia: 'medio'
+tags: [clasificado-ai]
+publish: true
+---
+﻿---
+titulo: "John McAfee (TL V.2): El Hacker Renegado De La Matrix"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +15,7 @@ nivel-evidencia: "medio"
 tags: [ghost, matrix, renegado, vigilancia]
 publish: true
 ---
-# John McAfee (v2.0): El Hacker Renegado De La Matrix
+# John McAfee (TL V.2): El Hacker Renegado De La Matrix
 
 > [!ABSTRACT] Hiptesis Informativa
 > John McAfee representa al **operador de [[Tier B]] que intent subvertir la soberana del [[Tier A]] mediante la asimetra informativa**. Como pionero de la ciberseguridad, conoca el rol del software como Caballo de Troya para la vigilancia estatal. Tras desertar del sistema, dedic su vida a promover herramientas de privacidad radical y denunciar la corrupcin del Deep State, utilizando su propia excentricidad como una armadura meditica para proteger un arsenal de datos robados (31 Terabytes) que amenazaba la estabilidad de las cpulas de inteligencia occidentales.
@@ -42,9 +50,10 @@ publish: true
 John McAfee fue el **"Pirata de la Soberana Individual"**. Su vida es el recordatorio de que en el siglo XXI, la libertad no se pide, se hackea. McAfee no era un santo, era un **gladiador digital** que conoca las cloacas del sistema porque l mismo haba ayudado a construirlas. Su eliminacin prueba que el Tier A no perdona la traicin de quienes manejan las llaves de sus servidores. Entender a McAfee es comprender que tu antivirus es el espa de tu casa y que el nico espacio seguro es el que t mismo eres capaz de cifrar. Muri como vivi: advirtiendo que la Matrix no se reforma, se desconecta o se incendia.
 
 ---
-**Versi�n:** 2.0
-**Enfoque:** Renegado de la inteligencia, soberan�a digital mediante criptograf�a y el uso de la informaci�n como seguro de vida (Dead Man's Switch).
-**Estado:** Refactorizaci�n Completa.
+**Versiï¿½n:** 2.0
+**Enfoque:** Renegado de la inteligencia, soberanï¿½a digital mediante criptografï¿½a y el uso de la informaciï¿½n como seguro de vida (Dead Man's Switch).
+**Estado:** Refactorizaciï¿½n Completa.
+
 
 
 

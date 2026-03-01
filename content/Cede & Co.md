@@ -1,15 +1,12 @@
 ---
+titulo: "Cede & Co: La Ilusión De La Propiedad Privada"
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [dtcc, ilusin, propiedad, reserva]
 publish: true
-created: 2026-01-29T19:17:07.135-03:00
-modified: 2026-02-27T13:22:16.921-03:00
-tags:
-  - dtcc
-  - ilusin
-  - propiedad
-  - reserva
-cssclasses: ""
 ---
-
 # Cede & Co: La Ilusión De La Propiedad Privada
 
 > [!ABSTRACT] Hipótesis Informativa
@@ -33,7 +30,7 @@ cssclasses: ""
 3. **The Great Taking**: Concepto expuesto por David Webb, donde se detalla cómo las leyes han sido modificadas para permitir que, en el próximo crash, Cede & Co absorba legalmente todos los activos colateralizados.
 
 ## Conexiones Críticas
-- [[The Great Taking (David Webb)]]: El libro que expone este mecanismo.
+- [[00_Glosario - Conceptos Fase 1#The Great Taking (David Webb)\|The Great Taking (David Webb)]]: El libro que expone este mecanismo.
 - [[DTCC (Depository Trust & Clearing Corp)]]: La nave nodriza de Cede & Co.
 - [[Reserva Federal]]: El garante último de este sistema de deuda.
 - [[BlackRock]]: Opera dentro de este sistema, beneficiándose de la liquidez centralizada.

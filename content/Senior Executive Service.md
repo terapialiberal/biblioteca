@@ -1,15 +1,12 @@
 ---
+titulo: "Senior Executive Service: Los Verdaderos Dueños De Washington"
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [deep, executive, service, verdaderos]
 publish: true
-created: 2026-01-29T19:17:36.132-03:00
-modified: 2026-02-27T13:23:54.172-03:00
-tags:
-  - deep
-  - executive
-  - service
-  - verdaderos
-cssclasses: ""
 ---
-
 # Senior Executive Service: Los Verdaderos Dueños De Washington
 
 > [!ABSTRACT] Hipótesis Informativa
@@ -36,7 +33,7 @@ cssclasses: ""
 ## Conexiones Críticas
 - [[Deep State]]: Son su cuerpo físico.
 - [[Donald Trump]]: Intentó combatirlos con la "Schedule F" (reclasificación para poder despedirlos), que Biden revocó el día 1.
-- [[Jimmy Carter]]: El creador involuntario del monstruo.
+- [[00_Glosario - Conceptos Fase 1#Jimmy Carter\|Jimmy Carter]]: El creador involuntario del monstruo.
 
 ## Conclusión Del Análisis
 El SES es el **Sistema Inmune de la Matrix**. Su función es expulsar cualquier "virus" democrático (un outsider) que intente alterar el funcionamiento del organismo estatal. Sin purgar el SES, ningún presidente controla realmente el gobierno federal.

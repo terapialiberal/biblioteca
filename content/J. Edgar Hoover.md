@@ -1,5 +1,5 @@
 ---
-titulo: "J. Edgar Hoover (v2.0): El Arquitecto De La Extorsión Sistémica"
+titulo: "J. Edgar Hoover (TL V.2): El Arquitecto De La Extorsión Sistémica"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [edgar, jeffrey, patriot, sistmica]
 publish: true
 ---
-# J. Edgar Hoover (v2.0): El Arquitecto De La Extorsión Sistémica
+# J. Edgar Hoover (TL V.2): El Arquitecto De La Extorsión Sistémica
 
 > [!ABSTRACT] Hipótesis Informativa
 > J. Edgar Hoover no fue un servidor público, sino el primer **Soberano Burocrático** de los Estados Unidos. Mediante la creación del FBI, transformó la información recolectada por inteligencia en una herramienta de chantaje político absoluto, invirtiendo la jerarquía constitucional: el burócrata permanente pasó a mandar sobre el político electo. Su legado es la fundación del **Estado Profundo** moderno, un sistema donde el expediente tiene más peso que el voto.
@@ -45,6 +45,7 @@ J. Edgar Hoover fue el tipo que descubrió que **las democracias son, en realida
 **Versión:** 2.0
 **Enfoque:** Extorsión política, creación del Estado Profundo y vigilancia como mecanismo de dominio burocrático.
 **Estado:** Refactorización Completa.
+
 
 
 

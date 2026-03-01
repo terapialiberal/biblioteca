@@ -1,15 +1,12 @@
 ---
+titulo: 🗺️ MOC — RIMLAND (Geopolítica De Contención)
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [00-moc, contencin, geopoltica, rimland]
 publish: true
-created: 2026-02-09T17:48:56.666-03:00
-modified: 2026-02-27T13:21:56.193-03:00
-tags:
-  - 00-moc
-  - contencin
-  - geopoltica
-  - rimland
-cssclasses: ""
 ---
-
 # 🗺️ MOC — RIMLAND (Geopolítica De Contención)
 
 > **Tesis Spykman**: "Who rules the Rimland rules Eurasia. Who rules Eurasia controls the destinies of the world."
@@ -19,13 +16,13 @@ cssclasses: ""
 
 ### Los Teóricos
 - [[Teoría del Rimland (Nicholas Spykman)]] / [[Nicholas Spykman]] — El padre de la contención
-- [[Teoría del Heartland (Halford Mackinder)]] — El contrapunto: el pivot geográfico
+- [[00_Glosario - Conceptos Fase 1#Teoría del Heartland (Halford Mackinder)\|Teoría del Heartland (Halford Mackinder)]] — El contrapunto: el pivot geográfico
 - [[Zbigniew Brzezinski]] / [[El Gran Tablero Mundial (Zbigniew Brzezinski)]] — Aplicación moderna
 - [[Lebensraum (Karl Haushofer y la Geopolitik)]] — La versión alemana
 - [[Gran Juego (The Great Game)]] — El antecedente histórico británico-ruso
 - [[NSS 2025 (Doctrina)]] — La actualización doctrinaria del Pentágono
 - [[Doctrina Wolfowitz (Unilateralismo y Guerra Preventiva)]] — La versión neocon
-- [[Poder Marítimo (Alfred Thayer Mahan)]] — El control de los mares como doctrina
+- [[00_Glosario - Conceptos Fase 1#Poder Marítimo (Alfred Thayer Mahan)\|Poder Marítimo (Alfred Thayer Mahan)]] — El control de los mares como doctrina
 
 
 ## 🔑 CHOKE POINTS CRÍTICOS (Las Llaves Del Mundo)
@@ -81,7 +78,7 @@ cssclasses: ""
 - [[Gaza]] / [[Great Trust (Plan Gaza)]] — El gas del Mediterráneo oriental
 - [[Escalada Israel-Irán 2024]] — El frente persa
 - [[Corredor IMEC]] — La apuesta post-Gaza
-- [[Hezbolá en Latinoamérica]] — La extensión del frente
+- [[Hezbollah en Latinoamérica\|Hezbolá en Latinoamérica]] — La extensión del frente
 
 ### Indo-Pacífico
 - [[AUKUS II - Expansion Japon]] — La alianza del Pacífico expandida
@@ -111,7 +108,7 @@ cssclasses: ""
 ## 🇦🇷 ARGENTINA EN EL RIMLAND
 
 - [[Hidrovía Paraná (Control)]] — La vía de agua más importante de Sudamérica
-- [[Litio en Jujuy (Livent)]] / [[Triángulo del Litio]] — El litio como choke point tecnológico
+- [[00_Glosario - Conceptos Fase 1#Litio en Jujuy (Livent)\|Litio en Jujuy (Livent)]] / [[Triángulo del Litio]] — El litio como choke point tecnológico
 - [[Antártida Argentina]] — El control del paso Drake
 - [[Base China en Neuquén]] — El avance chino al Rimland sur
 - [[Vaca Muerta]] — Gas y petróleo no convencional
@@ -119,8 +116,8 @@ cssclasses: ""
 
 
 ## 🔗 NODOS RELACIONADOS
-- [[MOC - Redes de Poder]] — Quién financia el control del Rimland
-- [[MOC - Control Financiero]] — Cómo se monetiza el Rimland
+- [[00_MOC - Redes de Poder\|MOC - Redes de Poder]] — Quién financia el control del Rimland
+- [[00_MOC - Control Financiero\|MOC - Control Financiero]] — Cómo se monetiza el Rimland
 - [[99_AI/05_Memoria_Central/Entity_Graph]] — Actores completos por Tier
 - [[MOC - Cronológico]] — Timeline del Gran Juego
 
@@ -130,8 +127,6 @@ cssclasses: ""
 - [[00_MOC - Rimland\|00_MOC - Rimland]]
 - [[05_Videos_Publicados/2026/2026-02-05_Caos_Controlado/Archivo - Demolicion Controlada Spykman 2026-02-05\|Archivo - Demolicion Controlada Spykman 2026-02-05]]
 - [[05_Videos_Publicados/2026/2026-02-05_Caos_Controlado/Articulo_Rimland_2026_Completo\|Articulo_Rimland_2026_Completo]]
-- [[99_AI/Legacy/ASML High-NA EUV\|ASML High-NA EUV]]
-- [[Astro-Cartografía del Rimland\|Astro-Cartografía del Rimland]]
 - [[05_Videos_Publicados/2026/2026-01-07_Gaza_SA/bookmarks_2026_1_8\|bookmarks_2026_1_8]]
 - [[Cambio China hacia mercado interno\|Cambio China hacia mercado interno]]
 - [[Carney_en_Beijing_DW\|Carney_en_Beijing_DW]]
@@ -146,10 +141,8 @@ cssclasses: ""
 - [[La Comisión Trilateral califica al 2023 como el Añ\|La Comisión Trilateral califica al 2023 como el Añ]]
 - [[La Teoría Geopolítica del Rimland Una Perspectiva Estratégica\|La Teoría Geopolítica del Rimland Una Perspectiva Estratégica]]
 - [[05_Videos_Publicados/2025/2025-10-24_El_RESET_MALTHUSIANO_GEOPOLITICA/MOC\|MOC]]
-- [[99_AI/Legacy/prompts/Prompt Lite v10.0 Consolidated\|Prompt Lite v10.0 Consolidated]]
-- [[99_AI/Legacy/prompts/Prompt Maestro v3.1 Lite\|Prompt Maestro v3.1 Lite]]
-- [[99_AI/Legacy/prompts/Prompt TL-NEWS v1.0 Monitor\|Prompt TL-NEWS v1.0 Monitor]]
-- [[99_AI/Legacy/prompts/Prompt_Maestro_Produccion_v11\|Prompt_Maestro_Produccion_v11]]
+- [[Patron - Weaponization (Armamentizacion)\|Patron - Weaponization (Armamentizacion)]]
+- [[99_AI/03_Prompts/PROMPT_Monica_Analisis_WEB\|PROMPT_Monica_Analisis_WEB]]
 - [[Retirada de Afganistán\|Retirada de Afganistán]]
 - [[Teoría del Rimland\|Teoría del Rimland]]
 - [[99_AI/02_Transcripts/Trasncript GAZA SA\|Trasncript GAZA SA]]

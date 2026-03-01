@@ -1,15 +1,12 @@
 ---
+titulo: Resumen General
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [archivos, rupert, street, wall]
 publish: true
-created: 2026-01-29T19:17:43.638-03:00
-modified: 2026-02-27T13:06:58.264-03:00
-tags:
-  - archivos
-  - rupert
-  - street
-  - wall
-cssclasses: ""
 ---
-
 # Resumen General
 El Wall Street Journal, propiedad de Rupert Murdoch, ha jugado un rol notable en la cobertura del caso Trump-Epstein, publicando historias que maximizan daño sin mostrar evidencia completa.
 
@@ -35,7 +32,7 @@ El Wall Street Journal, propiedad de Rupert Murdoch, ha jugado un rol notable en
 
 # Conexiones
 - [[Rupert Murdoch]]
-- [[Archivos Epstein (2024)]]
+- [[Archivos Epstein (2026)\|Archivos Epstein (2024)]]
 - [[Donald Trump]]
 - [[Operaciones Psicológicas (PsyOps)]]
 

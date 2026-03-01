@@ -1,16 +1,13 @@
 ---
+titulo: LE CERCLE (TL V.2)
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "alto"
+tags: [cercle, discreto, lord, paralela]
 publish: true
-created: 2026-01-29T19:17:22.123-03:00
-modified: 2026-02-27T13:23:12.476-03:00
-tags:
-  - cercle
-  - discreto
-  - lord
-  - paralela
-cssclasses: ""
 ---
-
-# LE CERCLE (v12_1)
+# LE CERCLE (TL V.2)
 
 #### BLUF
 Le Cercle es el **Nodo de Inteligencia más Discreto del Tier B**. A diferencia del WEF o el CFR, Le Cercle no emite comunicados ni tiene página web. Es una red de antiguos jefes de inteligencia (CIA, MI6, Mossad), políticos de derecha y banqueros que coordinan **Operaciones de Seguridad Profunda**. En 2026, su enfoque ha mutado de la "lucha anticomunista" a la **Defensa de la Infraestructura de la Matrix** frente a la fragmentación interna de Occidente.
@@ -21,7 +18,7 @@ Le Cercle es el **Nodo de Inteligencia más Discreto del Tier B**. A diferencia 
 |-------|------|----------|-----------------|
 | [[Lord Lothian]] | B | El Facilitador Histórico | Mantener la línea de comunicación secreta entre Londres y Washington fuera de los canales oficiales. |
 | [[CIA]] / [[MI6]] | B | Los Operadores | Utilizar Le Cercle como canal de "denegación plausible" para misiones estratégicas. |
-| [[Banca Central]] | B | El Financista | Asegurar que la estabilidad geopolítica permita el despliegue de los CBDC sin insurrecciones civiles. |
+| [[00_Glosario - Conceptos Fase 1#Banca Central\|Banca Central]] | B | El Financista | Asegurar que la estabilidad geopolítica permita el despliegue de los CBDC sin insurrecciones civiles. |
 | [[Nicholas Elliott]] | B | La Sombra (Histórico/Red) | El legado del espionaje británico que fundamenta la estructura de la red. |
 
 
@@ -73,6 +70,7 @@ Le Cercle es un mal necesario. En un mundo donde los políticos de Tier C cambia
 ¿Quiénes son los miembros actuales de la sección alemana de Le Cercle y cómo están influyendo en la política energética del país para favorecer a las Big Tech americanas?
 
 ---
-*Dossier forense v12_1 | La Red de Guardianes de la Matrix*
+*Dossier forense TL V.2 | La Red de Guardianes de la Matrix*
+
 
 

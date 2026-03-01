@@ -1,16 +1,13 @@
 ---
+titulo: TETHER USDS (TL V.2)
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "a"
+nivel-evidencia: "alto"
+tags: [dlar, estado, paolo, usds]
 publish: true
-created: 2026-02-25T16:07:03.031-03:00
-modified: 2026-02-27T13:24:02.290-03:00
-tags:
-  - dlar
-  - estado
-  - paolo
-  - usds
-cssclasses: ""
 ---
-
-# TETHER USDS (v12_1)
+# TETHER USDS (TL V.2)
 
 #### BLUF
 Tether USDS es la **Metamorfosis Regulatoria** de la mayor stablecoin del mundo. En 2026, lo que comenzó como una herramienta de libertad financiera (USDT) ha sido absorbido por la arquitectura de cumplimiento de EE.UU. bajo la etiqueta **USDS**. Tether ha pasado de ser una zona gris a ser el **Contratista de Liquidez en la Sombra** del Tesoro Americano, permitiendo que el dólar mantenga su hegemonía en la blockchain a cambio de entregar el control total de las wallets y el congelamiento de fondos a las agencias de Tier B occidentales.
@@ -73,6 +70,7 @@ Tether está haciendo el trabajo que el gobierno no puede hacer: digitalizar el 
 ¿Cuál es el porcentaje real de transacciones de Tether que son ignoradas deliberadamente por el sistema de vigilancia para permitir operaciones de bandera falsa de agencias de inteligencia de Tier B?
 
 ---
-*Dossier forense v12_1 | El Dólar Digital de la Matrix*
+*Dossier forense TL V.2 | El Dólar Digital de la Matrix*
+
 
 

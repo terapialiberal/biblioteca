@@ -1,5 +1,5 @@
 ---
-titulo: "Nina Jankowicz (v2.0): El Rostro Del Ministerio De La Verdad"
+titulo: "Nina Jankowicz (TL V.2): El Rostro Del Ministerio De La Verdad"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [jankowicz, ministerio, newsguard, wilson]
 publish: true
 ---
-# Nina Jankowicz (v2.0): El Rostro Del Ministerio De La Verdad
+# Nina Jankowicz (TL V.2): El Rostro Del Ministerio De La Verdad
 
 > [!ABSTRACT] Hipótesis Informativa
 > Nina Jankowicz no fue un error burocrático, sino un **fusible deliberado**. Su nombramiento como directora del *Disinformation Governance Board* (DGB) sirvió para testear la resistencia social (Tier C) ante la institucionalización de la censura estatal. Al ser "sacrificada" mediáticamente, la función de gobernanza de la verdad se desplazó de la esfera pública (DHS) a la privada (Big Tech y ONGs), donde hoy opera con mayor eficacia e invisibilidad.
@@ -44,6 +44,7 @@ Nina Jankowicz es el recordatorio de que **el sistema prefiere ser humillado a s
 **Versión:** 2.0
 **Enfoque:** Institucionalización de la censura y desplazamiento de la gobernanza a la esfera privada.
 **Estado:** Refactorización Completa.
+
 
 
 

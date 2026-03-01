@@ -1,5 +1,5 @@
 ---
-titulo: "Nobleza Negra Veneciana (v2.0): El Plano Maestro De La Esclavitud Financiera"
+titulo: "Nobleza Negra Veneciana (TL V.2): El Plano Maestro De La Esclavitud Financiera"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [esclavitud, financiera, nobleza, veneciana]
 publish: true
 ---
-# Nobleza Negra Veneciana (v2.0): El Plano Maestro De La Esclavitud Financiera
+# Nobleza Negra Veneciana (TL V.2): El Plano Maestro De La Esclavitud Financiera
 
 > [!ABSTRACT] Hipótesis Informativa
 > La Nobleza Negra Veneciana representa la **continuidad biológica del poder de [[Tier A]]**. Son los arquitectos originales del sistema de banca central, la deuda perpetua y la ingeniería de la escasez. Tras siglos de dominar el Mediterráneo mediante el control del oro y el espionaje diplomático, estas familias trasladaron su capital y sus métodos hacia el norte, fundando la **[[City de Londres]]** y capturando el Imperio Británico para transformarlo en el nuevo "Mainframe" de la Matrix financiera que hoy gestiona la existencia del **[[Tier C]]** global.
@@ -39,7 +39,8 @@ La Nobleza Negra Veneciana es la prueba de que el poder no se crea ni se destruy
 ---
 **Versión:** 2.0
 **Enfoque:** Origen histórico de la banca central, transferencia de poder a la City de Londres y la dialéctica Gelfos-Gibelinos como base de la política moderna.
-**Estado:** Refactoreado a v2.0 - Framework de Aristocracia Financiera.
+**Estado:** Refactoreado a TL V.2 - Framework de Aristocracia Financiera.
+
 
 
 

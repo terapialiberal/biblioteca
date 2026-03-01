@@ -1,5 +1,5 @@
 ---
-titulo: "Jason Group (v2.0): El Oráculo Científico Del Pentágono"
+titulo: "Jason Group (TL V.2): El Oráculo Científico Del Pentágono"
 tipo: empresa
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [cientfico, darpa, jason, orculo]
 publish: true
 ---
-# Jason Group (v2.0): El Oráculo Científico Del Pentágono
+# Jason Group (TL V.2): El Oráculo Científico Del Pentágono
 
 > [!ABSTRACT] Hipótesis Informativa
 > JASON es el **gabinete de curiosidades y soluciones extremas del [[Tier A]] militar**. Compuesto por las mentes más brillantes de la física y la ingeniería teórica de EE.UU., este grupo ultra-secreto actúa como el filtro de viabilidad para las tecnologías de dominio global. Su función es determinar la frontera entre lo posible y lo imposible para el Estado Profundo, asegurando que el complejo militar-industrial mantenga una ventaja tecnológica asimétrica en campos como la guerra geofísica, la óptica adaptativa y el armamento de energía dirigida.
@@ -33,7 +33,7 @@ publish: true
 
 ## Conexiones Críticas
 - [[DARPA]]: El brazo ejecutor que convierte las teorías de JASON en hardware bélico.
-- [[Mitre Corporation]]: La entidad que administra administrativamente al grupo y sirve de puente con la inteligencia.
+- [[Mitre Corporation\|MITRE Corporation]]: La entidad que administra administrativamente al grupo y sirve de puente con la inteligencia.
 - [[Proyecto HAARP]]: Un descendiente directo de las teorías de manipulación atmosférica discutidas por los Jasons.
 - [[McNamara Line]]: El primer experimento masivo de "campo de batalla electrónico" diseñado por el grupo.
 - [[Complejo Industrial Militar]]: El consumidor final de la "magia" física producida por JASON.
@@ -45,6 +45,7 @@ JASON es la prueba de que **el conocimiento no es libre en la cima de la jerarqu
 **Versión:** 2.0
 **Enfoque:** Ciencia de frontera para fines militares, veto tecnológico y el diseño del campo de batalla automatizado.
 **Estado:** Refactorización Completa.
+
 
 
 

@@ -1,5 +1,5 @@
 ---
-titulo: "La Mesa Del Hambre (v2.0): El Teatro De La Solidaridad De Estado"
+titulo: "La Mesa Del Hambre (TL V.2): El Teatro De La Solidaridad De Estado"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [alberto, estado, hambre, marcelo]
 publish: true
 ---
-# La Mesa Del Hambre (v2.0): El Teatro De La Solidaridad De Estado
+# La Mesa Del Hambre (TL V.2): El Teatro De La Solidaridad De Estado
 
 > [!ABSTRACT] Hipótesis Informativa
 > "La Mesa del Hambre" constituyó una **operación de distracción mediática y captura de legitimidad de [[Tier B]]**. Diseñada en los inicios de la gestión de Alberto Fernández, su objetivo no fue la resolución técnica de la inseguridad alimentaria en un país que exporta calorías para 400 millones de personas, sino la creación de un **escudo moral** compuesto por celebridades y líderes de la sociedad civil. La importancia del caso reside en la demostración de cómo el sistema utiliza el **Virtue Signaling** para camuflar la destrucción del poder adquisitivo del [[Tier C]] provocada por la inflación y la presión impositiva sobre la producción básica.
@@ -33,7 +33,7 @@ publish: true
 3. **Inacción Burocrática Estratégica**: La creación de consejos y mesas que sirven para "estudiar" el problema de forma infinita, evitando la aplicación de soluciones simples como la eliminación del IVA en alimentos básicos.
 
 ## Conexiones Críticas
-- [[Alberto Fernández]]: El impulsor de la simulación.
+- [[00_Glosario - Conceptos Fase 1#Alberto Fernández\|Alberto Fernández]]: El impulsor de la simulación.
 - [[Marcelo Tinelli]]: El activo mediático de mayor impacto utilizado para la legitimación inicial.
 - [[Pobreza en Argentina]]: El sustrato de realidad que la Mesa intentaba tapar con marketing.
 - [[La 125]]: El antecedente del castigo fiscal al sector que realmente produce los alimentos.
@@ -46,6 +46,7 @@ La Mesa del Hambre fue el **"Catering del Cinismo"**. Su importancia reside en h
 **Versión:** 2.0
 **Enfoque:** Simulación política y uso de celebridades para el lavado de imagen gubernamental, ineficiencia deliberada de los consejos de "emergencia" y el fracaso rotundo de los indicadores de pobreza post-iniciativa.
 **Estado:** Refactorización Completa.
+
 
 
 

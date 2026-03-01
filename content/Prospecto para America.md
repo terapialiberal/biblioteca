@@ -1,5 +1,5 @@
 ---
-titulo: "Prospecto Para America (1961) (v2.0): El Mapa De La Hegemonía"
+titulo: "Prospecto Para America (1961) (TL V.2): El Mapa De La Hegemonía"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [hegemona, henry, mapa, prospecto]
 publish: true
 ---
-# Prospecto Para America (1961) (v2.0): El Mapa De La Hegemonía
+# Prospecto Para America (1961) (TL V.2): El Mapa De La Hegemonía
 
 > [!ABSTRACT] Hipótesis Informativa
 > "Prospect for America" no es solo un informe, es el **Plano Maestro de [[Tier A]] para la construcción del Nuevo Orden Mundial de la posguerra**. Publicado por la Fundación Rockefeller, este documento de 600 páginas estableció las directrices para la política exterior, económica y social de EE.UU. por los siguientes 60 años. Define la visión de un mundo totalmente integrado bajo instituciones supranacionales (ONU, FMI, Banco Mundial), donde el Estado-Nación de **[[Tier C]]** es una estructura obsoleta que debe ser disuelta en favor de una gobernanza técnica gestionada por élites atlantistas.
@@ -38,7 +38,8 @@ Leer "Prospect for America" es ver el presente antes de que ocurriera. Nos ense�
 ---
 **Versión:** 2.0
 **Enfoque:** El diseño deliberado de la globalización y las instituciones supranacionales, el rol de Kissinger y los Rockefeller, y la obsolescencia programada del Estado-Nación.
-**Estado:** Refactoreado a v2.0 - Framework de Planificación Global.
+**Estado:** Refactoreado a TL V.2 - Framework de Planificación Global.
+
 
 
 

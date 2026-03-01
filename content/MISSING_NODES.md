@@ -15,9 +15,9 @@ publish: true
 ## ?? TIER A: CAPTURA DE ACTIVOS Y ARQUITECTURA FINANCIERA
 | Entidad | Tipo | Relevancia Forense | Conecta con |
 |---------|------|--------------------|-------------|
-| BlackRock BUIDL | Fondo/RWA | Primer fondo tokenizado de BlackRock; migracin de liquidez a cadena. | [[BlackRock]], [[Ethereum]] |
+| BlackRock BUIDL | Fondo/RWA | Primer fondo tokenizado de BlackRock; migracin de liquidez a cadena. | [[BlackRock]], [[00_Glosario - Conceptos Fase 1#Ethereum\|Ethereum]] |
 | Project Agor (BIS) | Sistema | El sistema de depsitos tokenizados del BIS para bancos centrales. | [[BIS]], [[CBDC]] |
-| Project mBridge | Sistema | El puente de CBDC que permite saltar el sistema SWIFT. | [[SWIFT]], [[BRICS]] |
+| Project mBridge | Sistema | El puente de CBDC que permite saltar el sistema SWIFT. | [[00_Glosario - Conceptos Fase 1#SWIFT\|SWIFT]], [[BRICS]] |
 | Howard Lutnick | Persona | Cantor Fitzgerald; el nexo entre Tether, el Tesoro USA y Trump. | [[Tether]], [[Donald Trump]] |
 | Scott Bessent | Persona | Secretario del Tesoro; el puente entre George Soros y el MAGA-Pipeline. | [[George Soros]], [[Quantum Fund]] |
 | Fondo Noruego (NBIM) | Institucin | El mayor accionista del mundo; ejecutor de la agenda ESG 2.0. | [[Vanguard Group]], [[ESG]] |
@@ -32,12 +32,12 @@ publish: true
 | Anduril Industries | Empresa | Defensa autnoma; el fin del factor humano en la guerra. | [[Palmer Luckey]], [[Peter Thiel]] |
 | Shield AI | Empresa | IA para combate areo (F-16 autnomos). | [[Pentgono]], [[Lockheed Martin]] |
 | Epirus & Directed Energy | Tecnologa | Armas de microondas; obsolescencia del misil tradicional. | [[Guerra Electrnica]], [[DARPA]] |
-| Groq LPUs | Hardware | La arquitectura de chips que desplazar a NVIDIA en inferencia. | [[Nvidia]], [[Inteligencia Artificial]] |
+| Groq LPUs | Hardware | La arquitectura de chips que desplazar a NVIDIA en inferencia. | [[Nvidia\|NVIDIA]], [[Inteligencia Artificial]] |
 | Anthropic Constitutional AI | Concepto | IA basada en reglas morales rgidas; censura algortmica invisible. | [[OpenAI]], [[NewsGuard]] |
 | Palantir Apollo | Software | El sistema operativo de la guerra en tiempo real. | [[Palantir]], [[Alex Karp]] |
 | In-Q-Tel 2026 | Fondo | La evolucin del brazo inversor de la CIA hacia la Bio-Tech. | [[CIA]], [[Silicon Valley]] |
 | Starshield (SpaceX) | Sistema | La red satelital militar total de Elon Musk. | [[Elon Musk]], [[SpaceX]] |
-| Radiant Nuclear | Empresa | Reactores nucleares porttiles para bases militares remotas. | [[Energa Nuclear]], [[Pentgono]] |
+| Radiant Nuclear | Empresa | Reactores nucleares porttiles para bases militares remotas. | [[Energía Nuclear\|Energa Nuclear]], [[Pentgono]] |
 | Worldcoin / Tools for Humanity | Sistema | Prueba de humanidad biomtrica como collar digital global. | [[Sam Altman]], [[Digital ID]] |
 
 ## ?? GEOPOLTICA DE CORREDORES Y CHOKES
@@ -46,7 +46,7 @@ publish: true
 | Corredor IMEC | Corredor | Bypass al Canal de Suez; India-Medio Oriente-Europa. | [[Geopoltica G7]], [[India Stack]] |
 | Corredor Trans-Caspio | Corredor | El "Middle Corridor" para aislar a Rusia del comercio asitico. | [[Belt and Road Initiative]], [[Kazajistn]] |
 | Puerto de Chancay | Chokepoint | El ancla china en el Pacfico Sur (Per). | [[China]], [[Ruta de la Seda]] |
-| ASML High-NA EUV | Tecnologa | El cuello de botella fsico de la inteligencia humana (chips <2nm). | [[Semicondutores]], [[Taiwan]] |
+| ASML High-NA EUV | Tecnologa | El cuello de botella fsico de la inteligencia humana (chips <2nm). | [[Semiconductores\|Semicondutores]], [[Taiwan]] |
 | TSMC Arizona Phase 2 | Proyecto | El refugio seguro de la tecnologa punta fuera de la zona de guerra. | [[Geopoltica Tech]], [[EEUU]] |
 | AUKUS Pillar 2 | Alianza | Integracin de IA y Quantum entre UK, USA y Australia. | [[OTAN]], [[Guerra Fra 2.0]] |
 | Litio Triangle 2.0 | Regin | La batalla por el control del litio en Argentina/Chile/Bolivia. | [[Javier Milei]], [[Elon Musk]] |
@@ -59,7 +59,7 @@ publish: true
 |---------|------|--------------------|-------------|
 | Neuralink Telepathy | Tecnologa | La captura directa del pensamiento pre-lingstico. | [[Elon Musk]], [[Neuro-Soberana]] |
 | Neuro-Rights Legislation | Ley | Primera captura legal del cerebro; Chile como laboratorio. | [[Soberana]], [[Transhumanismo]] |
-| Programmable Food | Concepto | Carne de laboratorio y protena de diseo como control biolgico. | [[Bill Gates]], [[Protena de Insectos]] |
+| Programmable Food | Concepto | Carne de laboratorio y protena de diseo como control biolgico. | [[Bill Gates]], [[Proteína de Insectos\|Protena de Insectos]] |
 | WHO Pandemic Treaty 2026 | Tratado | El marco legal final para la gobernanza sanitaria global. | [[OMS]], [[Gobernanza Global]] |
 | 15-Minute Cities (Oxford Model) | Concepto | La fragmentacin urbana para el control de movilidad. | [[C40 Cities]], [[Agenda 2030]] |
 | Carbon Credits Tokenized | Sistema | El impuesto al oxgeno y al movimiento de Tier C. | [[ESG]], [[Blockchain]] |
@@ -77,7 +77,7 @@ publish: true
 | The Heritage Foundation 2026 | Think Tank | El diseo de la burocracia paralela republicana. | [[Project 2025]], [[CNP]] |
 | Digital Public Square Capture | Concepto | El uso de "X" y el algoritmo como nica fuente de verdad. | [[Elon Musk]], [[Manufactura de Consenso]] |
 | SEC & Crypto Normalization | Ley | La absorcin de las cripto por parte de Wall Street. | [[Gary Gensler]], [[BlackRock]] |
-| Commercial Real Estate Crisis 2.0 | Evento | La demolicin controlada de las ciudades fsicas. | [[Reset Econmico]], [[Banca Central]] |
+| Commercial Real Estate Crisis 2.0 | Evento | La demolicin controlada de las ciudades fsicas. | [[Reset Econmico]], [[00_Glosario - Conceptos Fase 1#Banca Central\|Banca Central]] |
 | Sovereign Debt Tokenization | Concepto | El uso de la deuda nacional como activo colateralizado. | [[Argentina]], [[Lazard]] |
 | SpaceX Starshield Global Net | Sistema | El fin de la soberana informativa terrestre. | [[Soberana]], [[Elon Musk]] |
 | BlackRock Aladdin Wealth | Software | La gestin algortmica de los ahorros individuales (Tier C). | [[BlackRock]], [[Aladdin]] |
@@ -94,7 +94,7 @@ publish: true
 | Scott Bessent | 2026-02-25 | [[Scott Bessent]] |
 | Fondo Noruego (NBIM) | 2026-02-25 | [[Fondo Noruego (NBIM)]] |
 | Microsoft Stargate | 2026-02-25 | [[Microsoft Stargate]] |
-| Abu Dhabis G42 | 2026-02-25 | [[Abu Dhabis G42]] |
+| Abu Dhabis G42 | 2026-02-25 | [[Abu Dhabi’s G42\|Abu Dhabis G42]] |
 | Ondo Finance | 2026-02-25 | [[Ondo Finance]] |
 | Neuro-Rights | 2026-02-25 | [[Neuro-Rights]] |
 | Anduril Industries | 2026-02-25 | [[Anduril Industries]] |
@@ -102,7 +102,7 @@ publish: true
 | Corredor IMEC (India-Middle East-Europe) | 2026-02-25 | [[Corredor IMEC (India-Middle East-Europe)]] |
 | Corredor Trans-Caspio (Middle Corridor) | 2026-02-25 | [[Corredor Trans-Caspio (Middle Corridor)]] |
 | Puerto de Chancay (Cosco Shipping) | 2026-02-25 | [[Puerto de Chancay (Cosco Shipping)]] |
-| ASML High-NA EUV | 2026-02-25 | [[99_AI/Legacy/ASML High-NA EUV]] |
+| ASML High-NA EUV | 2026-02-25 | [[ASML High-NA EUV]] |
 | TSMC | 2026-02-25 | [[TSMC]] |
 | AUKUS II - Expansion Japon | 2026-02-25 | [[AUKUS II - Expansion Japon]] |
 | Tringulo del Litio 2.0 | 2026-02-25 | [[Tringulo del Litio 2.0 (Guerra del Oro Blanco)]] |

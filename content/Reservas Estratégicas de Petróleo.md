@@ -1,5 +1,5 @@
 ---
-titulo: "Reservas Estratégicas De Petróleo (SPR) (v2.0): El Sabotaje De La Seguridad Nacional"
+titulo: "Reservas Estratégicas De Petróleo (SPR) (TL V.2): El Sabotaje De La Seguridad Nacional"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [crisis, estratgicas, reservas, sabotaje]
 publish: true
 ---
-# Reservas Estratégicas De Petróleo (SPR) (v2.0): El Sabotaje De La Seguridad Nacional
+# Reservas Estratégicas De Petróleo (SPR) (TL V.2): El Sabotaje De La Seguridad Nacional
 
 > [!ABSTRACT] Hipótesis Informativa
 > Las Reservas Estratégicas de Petróleo (SPR) son la **Infraestructura de Supervivencia de [[Tier B]]** diseñada para garantizar que EE.UU. pueda operar militar y civilmente durante 90 días en caso de una guerra total o un embargo energético. Sin embargo, en 2022-2023, la administración de **[[Joe Biden]]** ejecutó el mayor vaciado de la historia de estas reservas, reduciéndolas a niveles no vistos en 40 años. Su función real pasó de ser un seguro nacional a convertirse en una **Herramienta de Manipulación Electoral**: drenar el inventario crítico para bajar artificialmente el precio de la gasolina antes de las elecciones de medio término, debilitando deliberadamente la capacidad de respuesta de EE.UU. ante un conflicto inminente con potencias como China o Rusia.
@@ -27,7 +27,7 @@ publish: true
 
 ## Conexiones Críticas
 - [[Joe Biden]]: El ejecutor político del vaciado masivo.
-- [[Crisis Energética]]: El contexto provocado por la agenda verde y la guerra.
+- [[00_Glosario - Conceptos Fase 1#Crisis Energética\|Crisis Energética]]: El contexto provocado por la agenda verde y la guerra.
 - [[Sistema Petrodólar (Hegemonía y Guerra)]]: La matriz que la SPR protege históricamente.
 - [[China]]: El principal beneficiario de la compra de barriles de la SPR.
 - [[Agenda 2030]]: El marco de descarbonización forzada que requiere la escasez de hidrocarburos.
@@ -38,7 +38,8 @@ Las Reservas Estratégicas de Petróleo nos enseñan que **un país sin energía
 ---
 **Versión:** 2.0
 **Enfoque:** El vaciado masivo de la reserva para fines electorales por la administración Biden, la venta de petróleo estratégico a China y el debilitamiento resultante de la capacidad militar de EE.UU.
-**Estado:** Refactoreado a v2.0 - Framework de Geopolítica y Seguridad Nacional.
+**Estado:** Refactoreado a TL V.2 - Framework de Geopolítica y Seguridad Nacional.
+
 
 
 

@@ -1,15 +1,12 @@
 ---
+titulo: "AUKUS II: El Pilar Digital Y La Integración De Japón"
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [anduril, aukus, digital, pilar]
 publish: true
-created: 2026-02-09T17:24:48.793-03:00
-modified: 2026-02-27T13:22:02.376-03:00
-tags:
-  - anduril
-  - aukus
-  - digital
-  - pilar
-cssclasses: ""
 ---
-
 # AUKUS II: El Pilar Digital Y La Integración De Japón
 
 > [!ABSTRACT] BLUF (Bottom Line Up Front)
@@ -44,6 +41,7 @@ cssclasses: ""
 ---
 **Falsabilidad**: Si Japón se niega a reformar sus leyes de secreto (debido a presiones de privacidad interna) o si la interoperabilidad de software entre los 4 países falla por proteccionismo de datos, AUKUS Pilar 2 se fracturaría en proyectos bilaterales ineficientes.
 
-*Versión: 2.0 | Protocolo TL-INTEL v12_0*
+*Versión: 2.0 | Protocolo TL-INTEL TL V.2*
+
 
 

@@ -1,24 +1,21 @@
 ---
+titulo: 💰 MOC — CONTROL FINANCIERO
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [00-moc, banco, financiero, reserva]
 publish: true
-created: 2026-02-24T13:32:27.996-03:00
-modified: 2026-02-27T13:21:56.145-03:00
-tags:
-  - 00-moc
-  - banco
-  - financiero
-  - reserva
-cssclasses: ""
 ---
-
 # 💰 MOC — CONTROL FINANCIERO
 
 > **Cui Bono**: El dinero no desaparece. Se transfiere.
-> Ver también: [[MOC - Finanzas y CBDC]] para la capa CBDC/digital.
+> Ver también: [[00_MOC - Finanzas y CBDC\|MOC - Finanzas y CBDC]] para la capa CBDC/digital.
 
 ## 🏦 ARQUITECTURA DEL SISTEMA
 
 ### Los Nodos Centrales
-- [[BIS]] / [[Banco de Pagos Internacionales (BIS)]] — El banco de los bancos centrales
+- [[BIS]] / [[Banco de Pagos Internacionales\|Banco de Pagos Internacionales (BIS)]] — El banco de los bancos centrales
 - [[BIS Innovation Hub]] — Donde se diseña el futuro CBDC
 - [[Reserva Federal]] — La Fed y sus mecanismos de control
 - [[Banco de Inglaterra]] — El origen del sistema moderno
@@ -48,7 +45,7 @@ cssclasses: ""
 ### Deuda Como Arma
 - [[Fondos Buitre]] — Elliott Management y la deuda soberana
 - [[Armas de Destrucción Financiera]] — Los derivados de Warren Buffett
-- [[Derivados (Quadrillion Dollar Bubble)]] — La bomba de tiempo
+- [[00_Glosario - Conceptos Fase 1#Derivados (Quadrillion Dollar Bubble)\|Derivados (Quadrillion Dollar Bubble)]] — La bomba de tiempo
 - [[Long-Term Capital Management (LTCM)]] — El ensayo de 1998
 - [[Crisis Financiera 2008]] — El manual del rescate
 - [[Bail-in (Rescate Interno)]] — Chipre 2012, el nuevo estándar
@@ -93,7 +90,7 @@ cssclasses: ""
 ### Arquitectura Del Crimen Corporate
 - [[Captura Regulatoria]] — La puerta giratoria como sistema
 - [[Puerta Giratoria (Concepto)]] — El mecanismo
-- [[Puerta Giratoria de la FDA]] — El caso farmacéutico
+- [[La Puerta Giratoria de la FDA\|Puerta Giratoria de la FDA]] — El caso farmacéutico
 - [[Big Pharma Fines]] — Las multas como costo operativo
 - [[Capitalismo de Amigos]] — El sistema de favores
 - [[Rent-Seeking]] — Capturar rentas sin crear valor
@@ -113,13 +110,13 @@ cssclasses: ""
 
 
 ## 🔗 NODOS RELACIONADOS
-- [[MOC - Finanzas y CBDC]] ← **Ver diferencia de alcance abajo**
+- [[00_MOC - Finanzas y CBDC\|MOC - Finanzas y CBDC]] ← **Ver diferencia de alcance abajo**
 - [[Familia Rothschild]] — Dinastía bancaria fundacional
 - [[Familia Warburg]] — Architects of the Fed
 - [[J.P. Morgan]] — El banquero que construyó el siglo XX
 - [[Carroll Quigley]] — Tragedy and Hope: el texto que lo documenta todo
 
-> [!NOTE] Diferencia con [[MOC - Finanzas y CBDC]]
+> [!NOTE] Diferencia con [[00_MOC - Finanzas y CBDC\|MOC - Finanzas y CBDC]]
 > - **Este MOC** cubre los **mecanismos de extracción**: deuda, inflación, Great Taking, bail-in. El *a quién* se lo sacan.
 > - **MOC Finanzas y CBDC** cubre la **arquitectura técnica**: CBDC, rieles DLT, mBridge, Project Agora. El *cómo* se mueve el dinero.
 > Son complementarios. Este MOC es el robo. El otro, la plomería.
@@ -145,13 +142,11 @@ cssclasses: ""
 - [[Ethereum Foundation\|Ethereum Foundation]]
 - [[Euroclear\|Euroclear]]
 - [[Fondos Buitre\|Fondos Buitre]]
-- [[Fractalidad de la Deuda\|Fractalidad de la Deuda]]
 - [[Geocercas\|Geocercas]]
 - [[Gold Backed CBDC - Pilot\|Gold Backed CBDC - Pilot]]
 - [[Grupo de los Treinta\|Grupo de los Treinta]]
 - [[Guerra de Divisas\|Guerra de Divisas]]
 - [[Hal Finney\|Hal Finney]]
-- [[KKR\|KKR]]
 - [[Las afirmaciones de sexo con menores sacuden al grupo de Bitcoin\|Las afirmaciones de sexo con menores sacuden al grupo de Bitcoin]]
 - [[Línea de Tiempo - 2010s-2020s\|Línea de Tiempo - 2010s-2020s]]
 - [[Los correos electrónicos de Epstein arrojan una la\|Los correos electrónicos de Epstein arrojan una la]]

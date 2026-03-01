@@ -1,5 +1,5 @@
 ---
-titulo: "Pentagon Papers (v2.0): El Desnudo Del Engaño Imperial"
+titulo: "Pentagon Papers (TL V.2): El Desnudo Del Engaño Imperial"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [daniel, engao, imperial, watergate]
 publish: true
 ---
-# Pentagon Papers (v2.0): El Desnudo Del Engaño Imperial
+# Pentagon Papers (TL V.2): El Desnudo Del Engaño Imperial
 
 > [!ABSTRACT] Hipótesis Informativa
 > Los "Pentagon Papers" fueron la **primera gran fisura en el muro de secreto de [[Tier B]]** durante la era moderna. El estudio secreto del Departamento de Defensa demostró que cuatro administraciones sucesivas mintieron al pueblo de **[[Tier C]]** sobre la escala, el propósito y la viabilidad de la Guerra de Vietnam. Filtrados por **[[Daniel Ellsberg]]**, estos documentos revelaron que el Estado Profundo sabía que la guerra era una catástrofe inganable mucho antes de enviar a miles de jóvenes a la muerte, demostrando que la soberanía democrática es la primera víctima de la "Seguridad Nacional".
@@ -38,7 +38,8 @@ Los Pentagon Papers nos enseñan que **el secreto es el escudo de la ineptitud d
 ---
 **Versión:** 2.0
 **Enfoque:** La mentira sistemática sobre Vietnam, la filtración de Ellsberg como punto de inflexión para el periodismo y la conexión con el espionaje ilegal que llevó a Watergate.
-**Estado:** Refactoreado a v2.0 - Framework de Whistleblowing Histórico.
+**Estado:** Refactoreado a TL V.2 - Framework de Whistleblowing Histórico.
+
 
 
 

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-25T22:08:55.710-03:00
-modified: 2026-02-27T13:22:17.716-03:00
+modified: 2026-02-27T13:22:42.945-03:00
 tags:
   - gematra
   - partculas

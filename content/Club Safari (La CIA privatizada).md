@@ -1,15 +1,12 @@
 ---
+titulo: Club Safari
+tipo: organizacion
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [adnan, club, george, safari]
 publish: true
-created: 2026-01-29T19:17:08.025-03:00
-modified: 2026-02-27T13:06:29.073-03:00
-tags:
-  - adnan
-  - club
-  - george
-  - safari
-cssclasses: ""
 ---
-
 # Club Safari
 
 ## Resumen Ejecutivo
@@ -34,7 +31,7 @@ Adnan Khashoggi (tío de Dodi Fayed y Jamal Khashoggi) fue el traficante de arma
 
 ## Conexiones
 - [[CIA]]
-- [[George H.W. Bush]]
+- [[George H. W. Bush\|George H.W. Bush]]
 - [[Adnan Khashoggi]]
 - [[BCCI]]
 

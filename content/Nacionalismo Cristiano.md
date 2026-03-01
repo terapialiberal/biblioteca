@@ -1,5 +1,5 @@
 ---
-titulo: "Nacionalismo Cristiano (v2.0): La Teología Del Imperio"
+titulo: "Nacionalismo Cristiano (TL V.2): La Teología Del Imperio"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [biblia, nacionalismo, sionismo, teologa]
 publish: true
 ---
-# Nacionalismo Cristiano (v2.0): La Teología Del Imperio
+# Nacionalismo Cristiano (TL V.2): La Teología Del Imperio
 
 > [!ABSTRACT] Hipótesis Informativa
 > El Nacionalismo Cristiano no es un movimiento de fe orgánica, sino la **instrumentalización del fervor religioso por el Tier A**. Al fusionar la identidad nacional con una interpretación escatológica del cristianismo (vía la [[Biblia Scofield]]), el sistema ha creado un ejército de reserva emocional (Tier C) que valida políticas de guerra, extractivismo y lealtad a potencias extranjeras como misiones de origen divino. Es el software teológico necesario para que el individuo acepte su sacrificio en el altar del Complejo Militar-Industrial.
@@ -36,7 +36,7 @@ publish: true
 - [[Sionismo Cristiano]]: El nexo entre la fe protestante y la agenda geopolítica anglo-americana.
 - [[Donald Trump]] / [[Mike Pence]]: Los interfaces políticos que canalizaron esta energía hacia la Casa Blanca.
 - [[AIPAC]]: El nodo donde el nacionalismo espiritual se convierte en política de defensa dura.
-- [[Teocracia]]: El modelo de gobernanza que el nacionalismo cristiano propone como "alternativa" a la modernidad.
+- [[Tecnocracia\|Teocracia]]: El modelo de gobernanza que el nacionalismo cristiano propone como "alternativa" a la modernidad.
 
 ## Conclusión Del Análisis
 El Nacionalismo Cristiano es el **"Patriotismo Secuestrado"**. Es la herramienta que utiliza el Tier A para que el Tier C marche hacia la guerra cantando himnos. Al externalizar la esperanza de justicia hacia un evento apocalíptico futuro, el sistema asegura que nadie luche por la justicia aquí y ahora. Quien cree que el mundo debe arder para que Dios regrese, es el ciudadano más útil para quienes son dueños de las fábricas de lanzallamas.
@@ -45,6 +45,7 @@ El Nacionalismo Cristiano es el **"Patriotismo Secuestrado"**. Es la herramienta
 **Versión:** 2.0
 **Enfoque:** Instrumentalización de la religión, control geopolítico mediante la profecía y el impacto de la Biblia Scofield.
 **Estado:** Refactorización Completa.
+
 
 
 

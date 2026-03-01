@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-25T22:24:43.775-03:00
-modified: 2026-02-27T13:23:51.184-03:00
+modified: 2026-02-27T13:25:23.926-03:00
 tags:
   - colectiva
   - gnosis

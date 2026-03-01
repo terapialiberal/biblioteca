@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:03.038-03:00
-modified: 2026-02-27T13:21:58.022-03:00
+modified: 2026-02-27T13:22:07.438-03:00
 tags:
   - agenda
   - neuralink
@@ -34,7 +34,7 @@ El objetivo final no es la "tolerancia", sino el **Transhumanismo**: la desconex
 - "Cuidados de afirmación de género"
 
 ## Conexiones
-- [[99_AI/Legacy/Neuralink & Transhumanismo]] (el destino final)
+- [[Neuralink & Transhumanismo]] (el destino final)
 - [[Pfizer]] (beneficiario hormonal)
 - [[George Soros]] (Open Society también financia esto)
 

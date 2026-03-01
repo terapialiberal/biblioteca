@@ -1,5 +1,5 @@
 ---
-titulo: "Sexta Extinción (v2.0): La Narrativa De La Humanidad Como Virus"
+titulo: "Sexta Extinción (TL V.2): La Narrativa De La Humanidad Como Virus"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [decrecimiento, narrativa, sexta, sixth]
 publish: true
 ---
-# Sexta Extinción (v2.0): La Narrativa De La Humanidad Como Virus
+# Sexta Extinción (TL V.2): La Narrativa De La Humanidad Como Virus
 
 > [!ABSTRACT] Hipótesis Informativa
 > El argumento de la "Sexta Extinción" es la **Operación de Guerra Psicológica de [[Tier B]]** diseñada para inocular en la población la idea de que la existencia humana es intrínsecamente destructiva para el planeta. Se presenta como una verdad científica irrebatible sobre la pérdida de biodiversidad, pero su función real en la Matrix es la de un **"Justificador de la Austeridad Coercitiva"**: proporcionar la base moral para políticas de **[[Decrecimiento (Degrowth)]]**, control de la reproducción, restricción de la movilidad y destrucción de la soberanía alimentaria del **[[Tier C]]**. Al declarar a la humanidad como una "plaga", la élite de **[[Tier A]]** se posiciona como el "administrador benevolente" que debe racionar la vida para "salvar" a la biosfera.
@@ -41,7 +41,8 @@ El argumento de la Sexta Extinción nos enseña que **las crisis ambientales son
 ---
 **Versión:** 2.0
 **Enfoque:** La Sexta Extinción como narrativa de control social y justificación del decrecimiento, el rol del WEF y el Club de Roma en su promoción, y el impacto psicológico de la culpa climática en la soberanía del Tier C.
-**Estado:** Refactoreado a v2.0 - Framework de Biopolítica y Escasez Artificial.
+**Estado:** Refactoreado a TL V.2 - Framework de Biopolítica y Escasez Artificial.
+
 
 
 

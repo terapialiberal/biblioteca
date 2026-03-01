@@ -1,15 +1,12 @@
 ---
+titulo: El Gran Tablero Mundial
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [gran, mundial, otan, zbigniew]
 publish: true
-created: 2026-01-29T19:17:11.383-03:00
-modified: 2026-02-27T13:22:35.447-03:00
-tags:
-  - gran
-  - mundial
-  - otan
-  - zbigniew
-cssclasses: ""
 ---
-
 # El Gran Tablero Mundial
 
 ## Perfil TL (Resumen Ejecutivo)
@@ -33,7 +30,7 @@ cssclasses: ""
 - [[Zbigniew Brzezinski]] (El autor y estratega)
 - [[OTAN (Ampliación)]] (La herramienta de control geopolítico)
 - [[Conflicto de Ucrania]] (La puesta en práctica del libro)
-- [[Teoría del Heartland (Halford Mackinder)]] (La raíz intelectual de la obra)
+- [[00_Glosario - Conceptos Fase 1#Teoría del Heartland (Halford Mackinder)\|Teoría del Heartland (Halford Mackinder)]] (La raíz intelectual de la obra)
 
 ## Fuentes
 - Zbigniew Brzezinski: "The Grand Chessboard: American Primacy and Its Geostrategic Imperatives".

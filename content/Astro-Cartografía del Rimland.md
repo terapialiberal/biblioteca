@@ -1,22 +1,29 @@
 ---
+titulo: Astro-Cartografía del Rimland
+tipo: 'concepto'
+tier-primario: 'b'
+nivel-evidencia: 'medio'
+tags: [clasificado-ai]
 publish: true
-created: 2026-02-25T22:08:57.211-03:00
-modified: 2026-02-27T13:22:01.786-03:00
-tags:
-  - astro
-  - cartografa
-  - rimland
-cssclasses: ""
+---
+﻿---
+publish: true
+titulo: Astro-CartografÃ­a Del Rimland
+tipo: "concepto"
+fecha: 2026-02-25
+tags: [astro, cartografa, rimland]
+tier-primario: "b"
+nivel-evidencia: "medio"
 ---
 
+# Astro-CartografÃ­a Del Rimland
 
-# Astro-Cartografía Del Rimland
+> [!ABSTRACT] HipÃ³tesis Informativa
+> Nodo perteneciente a la Matrix de Simbolismo y Esoterismo TL V.2.
 
-> [!ABSTRACT] Hipótesis Informativa
-> Nodo perteneciente a la Matrix de Simbolismo y Esoterismo v12_0.
-
-## Análisis De Tiers
+## AnÃ¡lisis De Tiers
 *En desarrollo...*
 
 ## Cui Bono
-*Pendiente de análisis forense.*
+*Pendiente de anÃ¡lisis forense.*
+

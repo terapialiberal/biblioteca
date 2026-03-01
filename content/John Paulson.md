@@ -1,5 +1,5 @@
 ---
-titulo: "John Paulson (v2.0): El Buitre Del Colapso Sistmico"
+titulo: "John Paulson (TL V.2): El Buitre Del Colapso Sistmico"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [buitre, colapso, goldman, mico]
 publish: true
 ---
-# John Paulson (v2.0): El Buitre Del Colapso Sistmico
+# John Paulson (TL V.2): El Buitre Del Colapso Sistmico
 
 > [!ABSTRACT] Hiptesis Informativa
 > John Paulson representa la **rentabilidad del fallo estructural** dentro del sistema financiero de [[Tier A]]. Su fama, cimentada en "La Mejor Apuesta de la Historia" contra el mercado inmobiliario en 2008, demuestra que el colapso del nivel de vida del [[Tier C]] es un producto de inversin diseado y ejecutado mediante asimetra de informacin. Paulson acta como el operador que retira la liquidez del sistema justo antes del reseteo, utilizando la complicidad de los megabancos para apostar contra los activos que ellos mismos venden al pblico.
@@ -36,7 +36,7 @@ publish: true
 - [[Crisis Financiera 2008]]: El evento que lo catapult al Olimpo del capital depredador.
 - [[Donald Trump]]: Su enlace hacia la proteccin poltica y la desregulacin futura.
 - [[Hedge Funds / Derivados]]: La tecnologa de guerra financiera que utiliza para el saqueo.
-- [[Banca Central]]: El sistema que, mediante la impresin de dinero, garantiza que tipos como Paulson siempre tengan una mesa libre para apostar.
+- [[00_Glosario - Conceptos Fase 1#Banca Central\|Banca Central]]: El sistema que, mediante la impresin de dinero, garantiza que tipos como Paulson siempre tengan una mesa libre para apostar.
 
 ## Conclusin Del Anlisis
 John Paulson es el **"Forense de los Mercados"**. Su trabajo consiste en apostar a que el paciente morir y luego cobrar el seguro de vida. Representa la etapa final del capitalismo financiero, donde la creacin de riqueza ha sido reemplazada por la **recoleccin de restos** en el campo de batalla econmico. Entender a Paulson es comprender que en la Matrix del Tier A, la destruccin no es un accidente, es el **margen de ganancia**. Mientras t rezas por que el sistema se mantenga en pie, hombres como Paulson ya han pagado la apuesta por tu cada, y el banquero que te da la mano es el mismo que le est pasando el mazo para golpear la mesa.
@@ -45,6 +45,7 @@ John Paulson es el **"Forense de los Mercados"**. Su trabajo consiste en apostar
 **Versi�n:** 2.0
 **Enfoque:** Beneficio del colapso, colusi�n con Goldman Sachs en la crisis de 2008 y la moralidad del capital buitre.
 **Estado:** Refactorizaci�n Completa.
+
 
 
 

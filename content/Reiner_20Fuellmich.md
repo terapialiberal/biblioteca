@@ -1,5 +1,5 @@
 ---
-titulo: "Reiner Fuellmich (v2.0): El Invitado Del Nuremberg 2.0"
+titulo: "Reiner Fuellmich (TL V.2): El Invitado Del Nuremberg 2.0"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [christian, fuellmich, reiner, reiner-20fuellmich]
 publish: true
 ---
-# Reiner Fuellmich (v2.0): El Invitado Del Nuremberg 2.0
+# Reiner Fuellmich (TL V.2): El Invitado Del Nuremberg 2.0
 
 > [!ABSTRACT] Hipótesis Informativa
 > Reiner Fuellmich es el **Líder de [[Tier C]]** que articuló la respuesta legal y discursiva más ambiciosa contra la tiranía sanitaria del COVID-19, centrada en la narrativa del "Nuremberg 2.0". Como rostro del Comité de Investigación de la Corona, Fuellmich recopiló testimonios de expertos mundiales para demostrar que la pandemia fue un "Crimen contra la Humanidad". Sin embargo, su posterior procesamiento legal en Alemania por cargos de malversación de fondos dentro de su propio comité plantea la dialéctica crítica: ¿fue un luchador legítimo aplastado por el **[[Tier B]]** judicial, o fue una **[[Oposición Controlada]]** diseñada para canalizar la esperanza de la resistencia hacia un callejón legal sin salida?
@@ -37,7 +37,8 @@ Reiner Fuellmich nos enseña que **la ley es una herramienta de la Matrix, no un
 ---
 **Versión:** 2.0
 **Enfoque:** Fuellmich como catalizador de la resistencia legal, el análisis de la narrativa de Nuremberg 2.0 como esperanza pasiva y el debate sobre su arresto como persecución vs. corrupción real.
-**Estado:** Refactoreado a v2.0 - Framework de Resistencia Civil y Derecho.
+**Estado:** Refactoreado a TL V.2 - Framework de Resistencia Civil y Derecho.
+
 
 
 

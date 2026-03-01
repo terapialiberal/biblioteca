@@ -1,15 +1,12 @@
 ---
+titulo: Wall Street Y FDR (Socialismo Corporativo)
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [antony, corporativo, street, wall]
 publish: true
-created: 2026-01-29T19:17:43.717-03:00
-modified: 2026-02-27T13:24:09.307-03:00
-tags:
-  - antony
-  - corporativo
-  - street
-  - wall
-cssclasses: ""
 ---
-
 # Wall Street Y FDR (Socialismo Corporativo)
 
 ## Resumen Ejecutivo
@@ -34,7 +31,7 @@ Es el modelo de Mussolini aplicado en EEUU.
 
 ## Conexiones
 - [[Antony Sutton]]
-- [[Franklin D. Roosevelt]]
+- [[00_Glosario - Conceptos Fase 1#Franklin D. Roosevelt\|Franklin D. Roosevelt]]
 - [[Capitalismo de Partes Interesadas (Stakeholder Capitalism)]] (El nombre moderno)
 
 ## Fuentes

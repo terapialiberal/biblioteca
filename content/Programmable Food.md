@@ -1,16 +1,13 @@
 ---
+titulo: PROGRAMMABLE FOOD (TL V.2)
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "a"
+nivel-evidencia: "alto"
+tags: [algoritmo, bajo, dieta, nestl]
 publish: true
-created: 2026-02-25T15:44:53.433-03:00
-modified: 2026-02-27T13:23:43.965-03:00
-tags:
-  - algoritmo
-  - bajo
-  - dieta
-  - nestl
-cssclasses: ""
 ---
-
-# PROGRAMMABLE FOOD (v12_1)
+# PROGRAMMABLE FOOD (TL V.2)
 
 #### BLUF
 La comida programable es la frontera final de la **Modulación de la Conducta**. A través de la bio-digitalización del suministro alimentario (nanotags, códigos biológicos, suplementos inteligentes), el **Tier A** busca integrar la nutrición en el sistema de **Gobernanza de Datos**. En 2026, lo que comes ya no es solo energía; es un punto de dato que activa o desactiva derechos de salud vinculados a tu perfil de cumplimiento corporal.
@@ -73,6 +70,7 @@ Es la culminación de la medicina preventiva. ¿Por qué esperar a que alguien t
 ¿Quién posee las claves de acceso a las "librerías nutricionales" que definen qué compuestos son legales o ilegales dentro de la comida programada en 2026?
 
 ---
-*Dossier forense v12_1 | La Eucaristía Tecnocrática*
+*Dossier forense TL V.2 | La Eucaristía Tecnocrática*
+
 
 

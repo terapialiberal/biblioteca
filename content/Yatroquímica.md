@@ -1,20 +1,29 @@
 ---
+titulo: Yatroquímica
+tipo: 'concepto'
+tier-primario: 'b'
+nivel-evidencia: 'medio'
+tags: [clasificado-ai]
 publish: true
-created: 2026-02-25T22:08:55.180-03:00
-modified: 2026-02-27T13:24:12.130-03:00
-tags:
-  - yatroqumica
-cssclasses: ""
+---
+﻿---
+titulo: YatroquÃ­mica
+tipo: "concepto"
+fecha: 2026-02-25
+tags: [yatroqumica]
+tier-primario: "b"
+nivel-evidencia: "medio"
+publish: true
 ---
 
+# YatroquÃ­mica
 
-# Yatroquímica
+> [!ABSTRACT] HipÃ³tesis Informativa
+> Nodo perteneciente a la Matrix de Simbolismo y Esoterismo TL V.2.
 
-> [!ABSTRACT] Hipótesis Informativa
-> Nodo perteneciente a la Matrix de Simbolismo y Esoterismo v12_0.
-
-## Análisis De Tiers
+## AnÃ¡lisis De Tiers
 *En desarrollo...*
 
 ## Cui Bono
-*Pendiente de análisis forense.*
+*Pendiente de anÃ¡lisis forense.*
+

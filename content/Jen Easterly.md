@@ -1,5 +1,5 @@
 ---
-titulo: "Jen Easterly (v2.0): La Comisaria De La Infraestructura Cognitiva"
+titulo: "Jen Easterly (TL V.2): La Comisaria De La Infraestructura Cognitiva"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [comisaria, complejo, easterly, infraestructura]
 publish: true
 ---
-# Jen Easterly (v2.0): La Comisaria De La Infraestructura Cognitiva
+# Jen Easterly (TL V.2): La Comisaria De La Infraestructura Cognitiva
 
 > [!ABSTRACT] Hipótesis Informativa
 > Jen Easterly es la **arquitecta de la militarización del discurso público**. Como directora de [[CISA]], ha transformado la ciberseguridad defensiva en una operación de **guerra cognitiva ofensiva**. Su mayor logro para el [[Tier A]] ha sido la normalización del concepto de "Infraestructura Cognitiva", que define el pensamiento y la percepción del [[Tier C]] como un recurso nacional que el Estado tiene el "deber" de proteger (censurar) contra cualquier información (verdadera o falsa) que amenace la estabilidad del régimen o la narrativa oficial.
@@ -45,6 +45,7 @@ Jen Easterly es la **"Operadora en Jefe del Gaslighting de Estado"**. En un mund
 **Versión:** 2.0
 **Enfoque:** Guerra cognitiva, censura de la verdad (malinformation) y la fusión de ciberseguridad con control de narrativa.
 **Estado:** Refactorización Completa.
+
 
 
 

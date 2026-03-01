@@ -1,5 +1,5 @@
 ---
-titulo: "Oposición Controlada (v2.0): El Rebaño Con Perro De Guardia Propio"
+titulo: "Oposición Controlada (TL V.2): El Rebaño Con Perro De Guardia Propio"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [guardia, open, operation, propio]
 publish: true
 ---
-# Oposición Controlada (v2.0): El Rebaño Con Perro De Guardia Propio
+# Oposición Controlada (TL V.2): El Rebaño Con Perro De Guardia Propio
 
 > [!ABSTRACT] Hipótesis Informativa
 > La Oposición Controlada es la **estrategia de [[Tier A]] para neutralizar la insurgencia real mediante la creación de una disidencia artificial**. Al financiar, promover o infiltrar los movimientos de protesta, el sistema asegura que la ira del **[[Tier C]]** sea canalizada hacia callejones sin salida, debates estériles o líderes que, en última instancia, son leales a la Matrix. Su función es mantener la **Ilusión de Elección** y evitar que surjan alternativas soberanas que puedan amenazar los fundamentos del poder (moneda, guerra, energía).
@@ -39,7 +39,8 @@ La Oposición Controlada es la herramienta más sofisticada de la Matrix porque 
 ---
 **Versión:** 2.0
 **Enfoque:** Neutralización de la disidencia mediante líderes fabricados, dialéctica hegeliana aplicada a la política y la distinción entre revolución orgánica vs. teatro político controlado.
-**Estado:** Refactoreado a v2.0 - Framework de Ingeniería Política.
+**Estado:** Refactoreado a TL V.2 - Framework de Ingeniería Política.
+
 
 
 

@@ -1,5 +1,5 @@
 ---
-titulo: "Oded Yinon Plan (v2.0): El Mapa De La Fragmentación Del Mundo Árabe"
+titulo: "Oded Yinon Plan (TL V.2): El Mapa De La Fragmentación Del Mundo Árabe"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [clean, fragmentacin, mapa, oded]
 publish: true
 ---
-# Oded Yinon Plan (v2.0): El Mapa De La Fragmentación Del Mundo Árabe
+# Oded Yinon Plan (TL V.2): El Mapa De La Fragmentación Del Mundo Árabe
 
 > [!ABSTRACT] Hipótesis Informativa
 > El Plan Oded Yinon (1982) es el **algoritmo de supervivencia hebrea mediante el caos regional**. Propone que la seguridad de Israel y la hegemonía del **[[Tier A]]** en el Levante dependen de la **Balcanización de los estados árabes**. El plan establece la necesidad de fragmentar a naciones como Irak, Siria y Egipto en un mosaico de micro-estados débiles, sectarios y en guerra perpetua entre sí. Lo que el **[[Tier C]]** percibe como "inestabilidad natural" u "odio religioso" en Medio Oriente es, en realidad, la ejecución metódica de un diseño estratégico para eliminar cualquier amenaza existencial al orden regional establecido.
@@ -30,7 +30,7 @@ publish: true
 - [[Gran Israel]]: El objetivo territorial/ideológico subyacente.
 - [[Clean Break Memo]]: El manual operativo de los años 90.
 - [[Guerra de Irak 2003]]: La realización del sueño de fragmentación de Yinon.
-- [[Primavera Árabe]]: La onda expansiva de desestabilización inducida.
+- [[Primaveras Árabes\|Primavera Árabe]]: La onda expansiva de desestabilización inducida.
 - [[Benjamin Netanyahu]]: Heredero político de la visión de seguridad defensiva a través de la ofensa regional.
 
 ## Conclusión Del Análisis
@@ -39,7 +39,8 @@ El Plan Oded Yinon es el recordatorio de que en Medio Oriente, el caos no se enc
 ---
 **Versión:** 2.0
 **Enfoque:** Balcanización estratégica de los estados árabes, uso de conflictos sectarios como herramienta de seguridad y la continuidad del plan en las intervenciones modernas en Irak y Siria.
-**Estado:** Refactoreado a v2.0 - Framework de Segmentación Geopolítica.
+**Estado:** Refactoreado a TL V.2 - Framework de Segmentación Geopolítica.
+
 
 
 

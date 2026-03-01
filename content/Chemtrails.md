@@ -1,22 +1,19 @@
 ---
+titulo: Chemtrails (Geoingeniería)
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [chemtrails, geoingeniera, haarp, monsanto]
 publish: true
-created: 2026-01-29T19:17:07.456-03:00
-modified: 2026-02-27T13:22:18.640-03:00
-tags:
-  - chemtrails
-  - geoingeniera
-  - haarp
-  - monsanto
-cssclasses: ""
 ---
-
 # Chemtrails (Geoingeniería)
 
 ## Perfil TL (Resumen Ejecutivo)
 **¿Qué son?** Estelas de larga duración dejadas por aviones que, a diferencia de las estelas de condensación normales (contrails), persisten durante horas, se expanden y terminan formando un velo blanquecino que cubre el cielo y reduce la radiación solar.
 
 **¿Por qué importa?** Esta es la **"conspiración" que se volvió política oficial**. Durante décadas, el sistema tildó de locos a quienes denunciaban fumigaciones aéreas; hoy, el Tier A discute abiertamente el uso de la **Geoingeniería** (o SRM) como la "solución de emergencia" contra el cambio climático. El objetivo oculto tras el velo ambiental es doble:
-1.  **Dominio Agrícola:** La saturación de la atmósfera con metales pesados (aluminio, bario, estroncio) acidifica el suelo, matando las semillas naturales y forzando a los agricultores a comprar semillas transgénicas patentadas (como las de **[[Monsanto / Bayer]]**) diseñadas para resistir al aluminio.
+1.  **Dominio Agrícola:** La saturación de la atmósfera con metales pesados (aluminio, bario, estroncio) acidifica el suelo, matando las semillas naturales y forzando a los agricultores a comprar semillas transgénicas patentadas (como las de **[[00_Glosario - Conceptos Fase 1#Monsanto / Bayer\|Monsanto / Bayer]]**) diseñadas para resistir al aluminio.
 2.  **Modificación Conductual y de Salud:** El bombardeo constante de nanopartículas metálicas que respiramos afecta directamente al sistema respiratorio y neurológico (vínculos sospechados con el aumento de Alzheimer y autismo), facilitando una población más dócil y enferma.
 
 ## Análisis De Poder (Tiers)
@@ -35,7 +32,7 @@ cssclasses: ""
 ## Conexiones Clave
 - [[Agenda del Cambio Climático]] (La coartada ideológica)
 - [[HAARP]] (El receptor de la señal atmosférica)
-- [[Monsanto / Bayer]] (Los beneficiarios de la muerte del suelo)
+- [[00_Glosario - Conceptos Fase 1#Monsanto / Bayer\|Monsanto / Bayer]] (Los beneficiarios de la muerte del suelo)
 - [[Bill Gates]] (Principal financista de proyectos de "enfriamiento global")
 
 ## Fuentes

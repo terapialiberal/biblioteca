@@ -30,12 +30,13 @@ Les Wexner es el hombre detrás de la cortina. Si Epstein era la marioneta que a
 
 ## Conexiones De La Red
 - **Operativo Principal:** [[Jeffrey Epstein]].
-- **Socio Estratégico:** [[Charles Bronfman]], [[Leon Black]].
+- **Socio Estratégico:** [[00_Glosario - Conceptos Fase 1#Charles Bronfman\|Charles Bronfman]], [[Leon Black]].
 - **Inteligencia:** [[Mossad]], [[Mega Group]].
 - **Empresas:** [[Victoria's Secret]], [[The Limited]], [[Abercrombie & Fitch]].
 - **Alianzas Políticas:** [[Netanyahu]], [[RJC (Republican Jewish Coalition)]].
 
-**Estado:** Refactoreado a v2.0 - Framework de Inteligencia Aplicado.
+**Estado:** Refactoreado a TL V.2 - Framework de Inteligencia Aplicado.
+
 
 
 

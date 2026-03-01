@@ -1,5 +1,5 @@
 ---
-titulo: "Paul Wolfowitz (v2.0): El Ideólogo De La Guerra Preventiva"
+titulo: "Paul Wolfowitz (TL V.2): El Ideólogo De La Guerra Preventiva"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [banco, guerra, pnac, wolfowitz]
 publish: true
 ---
-# Paul Wolfowitz (v2.0): El Ideólogo De La Guerra Preventiva
+# Paul Wolfowitz (TL V.2): El Ideólogo De La Guerra Preventiva
 
 > [!ABSTRACT] Hipótesis Informativa
 > Paul Wolfowitz fue el **Cerebro Operativo de [[Tier B]]** encargado de formalizar la doctrina de hegemonía unipolar de EE.UU. tras la Guerra Fría. Miembro central del **[[PNAC]]**, Wolfowitz redactó en 1992 la "Wolfowitz Doctrine" (Defense Planning Guidance), la cual establecía que EE.UU. debía prevenir el surgimiento de cualquier rival global mediante el uso preventivo de la fuerza. Fue el arquitecto intelectual de la invasión de Irak, utilizando la mentira de las "armas de destrucción masiva" como una palanca técnica para ejecutar una agenda de reordenamiento territorial en Medio Oriente diseñada años antes de los ataques del 11 de septiembre.
@@ -26,7 +26,7 @@ publish: true
 2.  **Desbaazificación (De-Baathification)**: Decisión administrativa de Wolfowitz que desmanteló el ejército iraquí, creando intencionalmente el caos y el vacío de poder necesario para justificar una ocupación de largo plazo y, eventualmente, la aparición de grupos insurgentes controlados.
 
 ## Conexiones Críticas
-- [[PNAC (Project for the New American Century)]]: El think tank donde diseñó el plan.
+- [[00_Glosario - Conceptos Fase 1#PNAC (Project for the New American Century)\|PNAC (Project for the New American Century)]]: El think tank donde diseñó el plan.
 - [[Dick Cheney]]: Su protector político y aliado en el Ejecutivo.
 - [[Donald Rumsfeld]]: Su jefe directo en el Pentágono durante la invasión.
 - [[9-11]]: El evento que catalizó su doctrina.
@@ -38,7 +38,8 @@ Paul Wolfowitz nos enseña que **las guerras se ganan en los think tanks mucho a
 ---
 **Versión:** 2.0
 **Enfoque:** La doctrina de hegemonía unipolar, el uso de mentiras para invadir Irak y la vinculación de su carrera entre el Pentágono y el Banco Mundial como una sola estrategia de poder.
-**Estado:** Refactoreado a v2.0 - Framework de Ideología de Guerra.
+**Estado:** Refactoreado a TL V.2 - Framework de Ideología de Guerra.
+
 
 
 

@@ -1,5 +1,5 @@
 ---
-titulo: "Robert Maxwell (v2.0): El Nexo De La Inteligencia Triple Y El Control De Los Medios"
+titulo: "Robert Maxwell (TL V.2): El Nexo De La Inteligencia Triple Y El Control De Los Medios"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,10 +7,10 @@ nivel-evidencia: "medio"
 tags: [maxwell, medios, robert, triple]
 publish: true
 ---
-# Robert Maxwell (v2.0): El Nexo De La Inteligencia Triple Y El Control De Los Medios
+# Robert Maxwell (TL V.2): El Nexo De La Inteligencia Triple Y El Control De Los Medios
 
 > [!ABSTRACT] Hipótesis Informativa
-> Robert Maxwell fue el **Operador Sistémico de [[Tier A]]** que personificó la fusión total entre el poder de los medios de comunicación y las agencias de inteligencia transnacionales. Agente confirmado de **[[Mossad]]**, **[[MI6]]** y **[[KGB]]**, Maxwell utilizó su imperio editorial para manipular la opinión pública y facilitar operaciones de espionaje global, notablemente mediante la distribución de software con puertas traseras (**[[PROMIS Software\|PROMIS]]**). Como padre de **[[Ghislaine Maxwell]]**, su legado de servicios a la inteligencia se extendió a la red de **[[Jeffrey Epstein]]**, demostrando que la Matrix utiliza dinastías de operativos para garantizar la continuidad del control social y la vigilancia biopolítica a través de las décadas.
+> Robert Maxwell fue el **Operador Sistémico de [[Tier A]]** que personificó la fusión total entre el poder de los medios de comunicación y las agencias de inteligencia transnacionales. Agente confirmado de **[[Mossad]]**, **[[MI6]]** y **[[00_Glosario - Conceptos Fase 1#KGB\|KGB]]**, Maxwell utilizó su imperio editorial para manipular la opinión pública y facilitar operaciones de espionaje global, notablemente mediante la distribución de software con puertas traseras (**[[PROMIS Software\|PROMIS]]**). Como padre de **[[Ghislaine Maxwell]]**, su legado de servicios a la inteligencia se extendió a la red de **[[Jeffrey Epstein]]**, demostrando que la Matrix utiliza dinastías de operativos para garantizar la continuidad del control social y la vigilancia biopolítica a través de las décadas.
 
 ## Análisis De Tiers
 
@@ -40,7 +40,8 @@ Robert Maxwell nos enseña que **las grandes fortunas de los medios suelen ser c
 ---
 **Versión:** 2.0
 **Enfoque:** Maxwell como agente triple (Mossad, KGB, MI6), el escándalo de PROMIS, su funeral de estado en Israel y el legado de inteligencia transferido a su hija Ghislaine Maxwell.
-**Estado:** Refactoreado a v2.0 - Framework de Espionaje y Poder Mediático.
+**Estado:** Refactoreado a TL V.2 - Framework de Espionaje y Poder Mediático.
+
 
 
 

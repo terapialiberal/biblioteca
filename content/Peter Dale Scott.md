@@ -1,5 +1,5 @@
 ---
-titulo: "Peter Dale Scott (v2.0): El Cartógrafo Del Estado Profundo"
+titulo: "Peter Dale Scott (TL V.2): El Cartógrafo Del Estado Profundo"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [deep-state, parapolitics, deep-events, scott]
 publish: true
 ---
-# Peter Dale Scott (v2.0): El Cartógrafo Del Estado Profundo
+# Peter Dale Scott (TL V.2): El Cartógrafo Del Estado Profundo
 
 > [!ABSTRACT] Hipótesis Informativa
 > Peter Dale Scott es el **Arquitecto Intelectual de la Resistencia de [[Tier C]]** que acuñó la terminología necesaria para entender la gobernanza invisible. Ex diplomático y académico de Berkeley, Scott introdujo conceptos clave como **[[Deep State]]** (Estado Profundo), **Parapolítica** y **Deep Events** (Eventos Profundos). Su hipótesis sostiene que bajo la superficie de la política democrática formal existe una red de intereses militares, financieros y de inteligencia que opera mediante el crimen organizado y la violencia estructural para dictar el rumbo de la historia, convirtiendo los traumas nacionales (JFK, 11-S) en motores de cambio institucional fuera del control electoral.
@@ -38,7 +38,8 @@ Peter Dale Scott nos enseña que **el lenguaje es la primera defensa contra la t
 ---
 **Versión:** 2.0
 **Enfoque:** Los conceptos de Deep State, Parapolítica y Deep Events, el rol de la COG y la trayectoria de Scott como el intelectual que validó el análisis de la conspiración sistémica.
-**Estado:** Refactoreado a v2.0 - Framework de Metodología de Investigación.
+**Estado:** Refactoreado a TL V.2 - Framework de Metodología de Investigación.
+
 
 
 

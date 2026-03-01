@@ -1,14 +1,12 @@
 ---
+titulo: Resumen General
+tipo: organizacion
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [cointelpro, donald, weaponizacin]
 publish: true
-created: 2026-01-29T19:17:44.004-03:00
-modified: 2026-02-27T13:06:40.273-03:00
-tags:
-  - cointelpro
-  - donald
-  - weaponizacin
-cssclasses: ""
 ---
-
 # Resumen General
 La "weaponización del FBI" refiere al uso partidista de la agencia para perseguir enemigos políticos mientras protege a aliados. Tanto demócratas como republicanos han acusado al FBI de esto, dependiendo de quién esté en el poder.
 
@@ -40,7 +38,7 @@ La "weaponización del FBI" refiere al uso partidista de la agencia para persegu
 - [[J. Edgar Hoover]]
 - [[COINTELPRO]]
 - [[Donald Trump]]
-- [[Archivos Epstein (2024)]]
+- [[Archivos Epstein (2026)\|Archivos Epstein (2024)]]
 - [[Estado profundo]]
 
 # Por Qué Importa

@@ -1,5 +1,13 @@
 ---
-titulo: Alineación De 2026
+titulo: Alineación de 2026
+tipo: 'concepto'
+tier-primario: 'b'
+nivel-evidencia: 'medio'
+tags: [clasificado-ai]
+publish: true
+---
+﻿---
+titulo: AlineaciÃ³n De 2026
 tipo: evento
 fecha: 2026-02-25
 tags: ["2026", alineacin]
@@ -8,13 +16,14 @@ nivel-evidencia: "medio"
 publish: true
 ---
 
-# Alineación De 2026
+# AlineaciÃ³n De 2026
 
-> [!ABSTRACT] Hipótesis Informativa
-> Nodo perteneciente a la Matrix de Simbolismo y Esoterismo v12_0.
+> [!ABSTRACT] HipÃ³tesis Informativa
+> Nodo perteneciente a la Matrix de Simbolismo y Esoterismo TL V.2.
 
-## Análisis De Tiers
+## AnÃ¡lisis De Tiers
 *En desarrollo...*
 
 ## Cui Bono
-*Pendiente de análisis forense.*
+*Pendiente de anÃ¡lisis forense.*
+

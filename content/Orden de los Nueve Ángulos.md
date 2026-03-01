@@ -1,5 +1,5 @@
 ---
-titulo: "Orden De Los Nueve Ángulos (v2.0): La Teología Del Colapso"
+titulo: "Orden De Los Nueve Ángulos (TL V.2): La Teología Del Colapso"
 tipo: organizacion
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [colapso, nueve, teologa, ngulos]
 publish: true
 ---
-# Orden De Los Nueve Ángulos (v2.0): La Teología Del Colapso
+# Orden De Los Nueve Ángulos (TL V.2): La Teología Del Colapso
 
 > [!ABSTRACT] Hipótesis Informativa
 > La Orden de los Nueve Ángulos (O9A) es la **organización esotérica más peligrosa del [[Tier A]] ocultista**, diseñada para la destrucción de la civilización judeocristiana mediante el **[[Aceleracionismo]] satánico**. A diferencia del satanismo mediático de LaVey, la O9A promueve el **Sacrificio Humano Real (Culling)** y la infiltración en fuerzas militares para preparar a una élite de "Individuos Galácticos". Su función real es actuar como una **Honey-trap (Trampa de Miel) de Inteligencia** y un catalizador de caos social, radicalizando al **[[Tier C]]** marginado para justificar leyes de vigilancia total y represión del disidente.
@@ -39,7 +39,8 @@ La Orden de los Nueve Ángulos es el rostro más oscuro de la Matrix. Nos enseñ
 ---
 **Versión:** 2.0
 **Enfoque:** Satanismo neonazi radical, promoción del sacrificio humano real, infiltración en ejércitos y el rol de David Myatt en la creación de una "honey-trap" de inteligencia.
-**Estado:** Refactoreado a v2.0 - Framework de Ocultismo Terrorista.
+**Estado:** Refactoreado a TL V.2 - Framework de Ocultismo Terrorista.
+
 
 
 

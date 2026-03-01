@@ -1,5 +1,5 @@
 ---
-titulo: "NDAA Y Detención Indefinida (v2.0): El Fin Del Habeas Corpus"
+titulo: "NDAA Y Detención Indefinida (TL V.2): El Fin Del Habeas Corpus"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [barack, corpus, indefinida, patriot]
 publish: true
 ---
-# NDAA Y Detención Indefinida (v2.0): El Fin Del Habeas Corpus
+# NDAA Y Detención Indefinida (TL V.2): El Fin Del Habeas Corpus
 
 > [!ABSTRACT] Hipótesis Informativa
 > El NDAA (Ley de Autorización de Defensa Nacional) de 2012 marca la **legalización de la tiranía en suelo estadounidense**. Al incluir la Sección 1021, que permite la detención indefinida de ciudadanos sin cargos ni juicio bajo sospecha de terrorismo, el **[[Tier A]]** ha borrado formalmente el *Habeas Corpus*. Esta ley transforma a los Estados Unidos en un "campo de batalla continental" donde el ejército tiene jurisdicción sobre los civiles, estableciendo el marco legal necesario para la neutralización física de cualquier resistencia de **[[Tier C]]** en escenarios de colapso social o insurrección.
@@ -40,7 +40,8 @@ El NDAA es la prueba de que en la Matrix de Poder, la Constitución es un papel 
 ---
 **Versión:** 2.0
 **Enfoque:** Suspensión del Habeas Corpus, rol de Obama en la firma, el concepto de "Battlefield USA" y la complicidad judicial de Tier B.
-**Estado:** Refactoreado a v2.0 - Framework de Tiranía Legal.
+**Estado:** Refactoreado a TL V.2 - Framework de Tiranía Legal.
+
 
 
 

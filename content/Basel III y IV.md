@@ -1,15 +1,12 @@
 ---
+titulo: "Basel III Y IV: El Control Bancario Estructurado"
+tipo: evento
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [bancario, banco, basel, blackrock]
 publish: true
-created: 2026-01-29T19:17:04.897-03:00
-modified: 2026-02-27T13:22:03.160-03:00
-tags:
-  - bancario
-  - banco
-  - basel
-  - blackrock
-cssclasses: ""
 ---
-
 # Basel III Y IV: El Control Bancario Estructurado
 
 > [!ABSTRACT] Hipótesis Informativa
@@ -28,7 +25,7 @@ cssclasses: ""
 2. **Stress Tests:** Mecanismo de aprobación/denegación discrecional de operaciones bancarias.
 
 ## Conexiones Críticas
-- [[Banco de Pagos Internacionales (BIS)]]: Creador y custodio de las normas.
+- [[Banco de Pagos Internacionales\|Banco de Pagos Internacionales (BIS)]]: Creador y custodio de las normas.
 - [[BlackRock - Vanguard - State Street (Trifecta)]]: Beneficiarios directos de consolidación.
 
 ## Conclusión Del Análisis

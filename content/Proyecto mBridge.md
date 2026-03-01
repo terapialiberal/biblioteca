@@ -1,16 +1,13 @@
 ---
+titulo: PROYECTO MBRIDGE (TL V.2)
+tipo: evento
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "alto"
+tags: [banco, digital, pboc, proyecto]
 publish: true
-created: 2026-02-25T15:50:06.497-03:00
-modified: 2026-02-27T13:23:46.143-03:00
-tags:
-  - banco
-  - digital
-  - pboc
-  - proyecto
-cssclasses: ""
 ---
-
-# PROYECTO MBRIDGE (v12_1)
+# PROYECTO MBRIDGE (TL V.2)
 
 #### BLUF
 El Proyecto mBridge es el **Caballo de Troya de la Desdolarización Digital**. Liderado operativamente por China (PBOC) junto a Tailandia, EAU y Hong Kong, utiliza una blockchain propietaria para liquidar transacciones internacionales de petróleo y commodities en monedas locales, eludiendo completamente la red SWIFT y el sistema de compensación de Nueva York. En 2026, mBridge es la infraestructura real que sostiene la autonomía financiera del bloque BRICS+ frente a las sanciones de Tier B occidentales.
@@ -20,7 +17,7 @@ El Proyecto mBridge es el **Caballo de Troya de la Desdolarización Digital**. L
 | Actor | Tier | Rol Real | Incentivo Oculto |
 |-------|------|----------|-----------------|
 | [[PBOC (Banco Popular de China)]]| B | El Arquitecto Técnico | Exportar el estándar del E-CNY como la moneda de reserva digital del sur global. |
-| [[Banco de Pagos Internacionales (BIS)]]| B | El Observador / Validador | Mantenerse relevante en un sistema que ya no controla centralizadamente. |
+| [[Banco de Pagos Internacionales\|Banco de Pagos Internacionales (BIS)]]| B | El Observador / Validador | Mantenerse relevante en un sistema que ya no controla centralizadamente. |
 | [[Eirates Árabes Unidos (EAU)]]| B | El Nodo Energético | Liquidez instantánea de petróleo en monedas fuera del dólar para proteger su soberanía. |
 | [[Tailandia / Hong Kong]]| B | Los Centros de Compensación | Convertirse en los hubs financieros de la nueva ruta de la seda digital. |
 
@@ -73,6 +70,7 @@ Es simplemente una mejora en los corredores de pago regionales. China siempre ha
 ¿Hasta qué punto el software de mBridge tiene "puertas traseras" integradas por la inteligencia china para monitorizar los flujos de capital neto de sus socios estratégicos en tiempo real?
 
 ---
-*Dossier forense v12_1 | La Fragmentación de la Matrix Financiera*
+*Dossier forense TL V.2 | La Fragmentación de la Matrix Financiera*
+
 
 

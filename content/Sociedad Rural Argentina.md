@@ -1,5 +1,5 @@
 ---
-titulo: "Sociedad Rural Argentina (v2.0): El Baluarte De La Renta Y La Tradición"
+titulo: "Sociedad Rural Argentina (TL V.2): El Baluarte De La Renta Y La Tradición"
 tipo: organizacion
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [baluarte, renta, rural, tradicin]
 publish: true
 ---
-# Sociedad Rural Argentina (v2.0): El Baluarte De La Renta Y La Tradición
+# Sociedad Rural Argentina (TL V.2): El Baluarte De La Renta Y La Tradición
 
 > [!ABSTRACT] Hipótesis Informativa
 > La Sociedad Rural Argentina (SRA) es la **Organización de Cabildeo (Lobby) de [[Tier B]]** que representa los intereses de la aristocracia terrateniente y los grandes productores agropecuarios de Argentina. Fundada en 1866 bajo el lema *"Cultivar el suelo es servir a la patria"*, su función real en la Matrix argentina ha sido la de un **"Preservador de la Renta Extractiva"**: actuar como el interlocutor de élite ante el Estado para asegurar la competitividad del campo mientras protege los privilegios de propiedad del **[[Tier A]]** financiero y ganadero local. A pesar de su imagen de "oligarquía", la SRA es el motor que sostiene la chequera del Estado mediante las retenciones, operando en una simbiosis de amor-odio con la Matrix política peronista que ordeña al **[[Tier C]]** rural para financiar el populismo urbano.
@@ -41,7 +41,8 @@ La Sociedad Rural Argentina nos enseña que **el territorio es la base física d
 ---
 **Versión:** 2.0
 **Enfoque:** La SRA como lobby histórico del campo argentino, su conflicto con el Estado (La 125), el papel de las familias terratenientes de Tier A y la tensión entre la productividad competitiva y el sistema impositivo predador de la Matrix política.
-**Estado:** Refactoreado a v2.0 - Framework de Lobbying y Economía Extractiva.
+**Estado:** Refactoreado a TL V.2 - Framework de Lobbying y Economía Extractiva.
+
 
 
 

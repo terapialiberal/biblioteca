@@ -1,5 +1,5 @@
 ---
-titulo: "Smartmatic (v2.0): El Gestor Tecnocrático Del Consenso Electoral"
+titulo: "Smartmatic (TL V.2): El Gestor Tecnocrático Del Consenso Electoral"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [george, lord, smartmatic, tecnocrtico]
 publish: true
 ---
-# Smartmatic (v2.0): El Gestor Tecnocrático Del Consenso Electoral
+# Smartmatic (TL V.2): El Gestor Tecnocrático Del Consenso Electoral
 
 > [!ABSTRACT] Hipótesis Informativa
 > Smartmatic es la **Corporación de [[Tier B]]** que ha capturado la infraestructura de la democracia representativa mediante el voto electrónico. Fundada por ingenieros venezolanos y vinculada históricamente al régimen de Hugo Chávez, su función real en la Matrix es la de un **"Administrador de la Percepción Democrática"**: una caja negra tecnológica que centraliza el conteo de votos en naciones críticas (Filipinas, Venezuela, EE.UU.), permitiendo que el resultado de las urnas sea una función de algoritmos privados y no de la inspección pública directa. Bajo la presidencia de **[[Lord Malloch-Brown]]**, Smartmatic se ha integrado plenamente en la red globalista de **[[George Soros]]**, asegurando que el proceso electoral sea una gestión administrativa controlada por la élite.
@@ -41,7 +41,8 @@ Smartmatic nos enseña que **quien cuenta los votos es más importante que quien
 ---
 **Versión:** 2.0
 **Enfoque:** Smartmatic como actor clave en la infraestructura electoral global, su origen venezolano, el papel de Lord Malloch-Brown como intermediario con las redes de Soros y la ONU, y la crítica a la opacidad del voto electrónico como herramienta de control político del Tier B.
-**Estado:** Refactoreado a v2.0 - Framework de Tecnología Electoral y Gobernanza Global.
+**Estado:** Refactoreado a TL V.2 - Framework de Tecnología Electoral y Gobernanza Global.
+
 
 
 

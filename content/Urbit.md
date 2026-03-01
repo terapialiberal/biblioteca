@@ -1,14 +1,12 @@
 ---
+titulo: Resumen General
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [curtis, peter, urbit]
 publish: true
-created: 2026-01-29T19:17:42.535-03:00
-modified: 2026-02-27T13:07:00.641-03:00
-tags:
-  - curtis
-  - peter
-  - urbit
-cssclasses: ""
 ---
-
 # Resumen General
 Urbit es un proyecto de "computación personal soberana" iniciado por Curtis Yarvin (Mencius Moldbug), el padre de la Neorreacción (NRx). Busca reconstruir internet desde cero, eliminando el modelo cliente-servidor (donde tus datos viven en Google/Facebook) y reemplazándolo por servidores personales (naves) que son propiedad criptográfica del usuario.
 
@@ -27,7 +25,7 @@ Urbit es un proyecto de "computación personal soberana" iniciado por Curtis Yar
 - Crea una aristocracia digital de early adopters competentes.
 
 # Conexiones
-- [[Curtis Yarvin (Moldbug)]]
+- [[00_Glosario - Conceptos Fase 1#Curtis Yarvin (Moldbug)\|Curtis Yarvin (Moldbug)]]
 - [[Peter Thiel]]
 - [[Estado Red (Network State)]]
 - [[Web3]]

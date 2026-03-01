@@ -1,5 +1,5 @@
 ---
-titulo: "Leidos (v2.0): Los Administradores Del Sistema Operativo Estatal"
+titulo: "Leidos (TL V.2): Los Administradores Del Sistema Operativo Estatal"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [edward, estatal, leidos, sistema]
 publish: true
 ---
-# Leidos (v2.0): Los Administradores Del Sistema Operativo Estatal
+# Leidos (TL V.2): Los Administradores Del Sistema Operativo Estatal
 
 > [!ABSTRACT] Hipótesis Informativa
 > Leidos constituye el **brazo operativo y tecnológico de la burocracia privatizada de [[Tier B]]**. Como el mayor contratista de servicios gubernamentales de EE.UU., Leidos no solo vende productos, sino que **administra físicamente el Estado**: gestiona los servidores de la NSA, los registros médicos militares y los sistemas de mando y control del Pentágono. Su importancia reside en la **captura de las "Funciones Inherentemente Gubernamentales"**, permitiendo que las decisiones críticas de seguridad nacional y vigilancia masiva sean ejecutadas por una entidad corporativa que escapa al escrutinio democrático, funcionando como el **custodio técnico de la supervivencia del [[Tier A]]** en caso de colapso sistémico.
@@ -46,6 +46,7 @@ Leidos es el **"Hardware de la Catedral"**. Su importancia reside en haber demos
 **Versión:** 2.0
 **Enfoque:** Privatización de la burocracia de inteligencia, rol como mayor contratista de TI del Estado Profundo (NSA/Pentágono), gestión de la Continuidad del Gobierno (COG) y el uso de la puerta giratoria para asegurar el monopolio del procesamiento de datos públicos.
 **Estado:** Refactorización Completa.
+
 
 
 

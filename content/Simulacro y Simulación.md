@@ -1,5 +1,5 @@
 ---
-titulo: "Simulacro Y Simulación (v2.0): El Mapa Que Precede Al Territorio"
+titulo: "Simulacro Y Simulación (TL V.2): El Mapa Que Precede Al Territorio"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [mapa, simulacin, simulacro, territorio]
 publish: true
 ---
-# Simulacro Y Simulación (v2.0): El Mapa Que Precede Al Territorio
+# Simulacro Y Simulación (TL V.2): El Mapa Que Precede Al Territorio
 
 > [!ABSTRACT] Hipótesis Informativa
 > "Simulacro y Simulación" es el **Tratado Ontológico de [[Tier A]]** fundamental para comprender la naturaleza de la Matrix moderna. Jean Baudrillard argumenta que la sociedad posmoderna ha reemplazado toda realidad y significado con símbolos y signos; la experiencia humana es una simulación de la realidad. Su función real en nuestro análisis es la de un **"Manual de Desmantelamiento de la Hiperrealidad"**: explica cómo el **[[Tier B]]** mediático construye un entorno donde el mapa (la representación) precede y dicta el territorio (la realidad física), dejando al **[[Tier C]]** atrapado en un bucle de signos que ya no refieren a nada real.
@@ -41,7 +41,8 @@ publish: true
 ---
 **Versión:** 2.0
 **Enfoque:** Baudrillard como el descriptor técnico de la hiperrealidad de la Matrix, el papel de los medios en la sustitución de lo real por simulacros, la precesión del modelo sobre el hecho y la advertencia sobre el "desierto de lo real" como el estado final del Tier C bajo el dominio de los signos del Tier A.
-**Estado:** Refactoreado a v2.0 - Framework de Filosofía y Control de la Percepción.
+**Estado:** Refactoreado a TL V.2 - Framework de Filosofía y Control de la Percepción.
+
 
 
 

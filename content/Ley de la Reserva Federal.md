@@ -1,15 +1,12 @@
 ---
+titulo: "Ley De La Reserva Federal: El Acta De Rendición Monetaria"
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [acta, conferencia, monetaria, reserva]
 publish: true
-created: 2026-01-29T19:17:22.362-03:00
-modified: 2026-02-27T13:23:13.208-03:00
-tags:
-  - acta
-  - conferencia
-  - monetaria
-  - reserva
-cssclasses: ""
 ---
-
 # Ley De La Reserva Federal: El Acta De Rendición Monetaria
 
 > [!ABSTRACT] Resumen de Inteligencia
@@ -35,9 +32,10 @@ cssclasses: ""
 - **La Cuna:** [[Conferencia de Jekyll Island]].
 - **Los Arquitectos:** [[J.P. Morgan]], [[Paul Warburg]], [[Nelson Aldrich]], [[John D. Rockefeller]].
 - **Antecedentes:** [[Pánico de 1907]] (La crisis fabricada).
-- **Consecuencias:** [[Depresión de 1920]], [[Crash de Wall Street 1929]], [[Bretton Woods]].
+- **Consecuencias:** [[Depresión de 1920]], [[Crash de Wall Street 1929]], [[00_Glosario - Conceptos Fase 1#Bretton Woods\|Bretton Woods]].
 
-**Estado:** Refactoreado a v2.0 - Framework de Inteligencia Aplicado.
+**Estado:** Refactoreado a TL V.2 - Framework de Inteligencia Aplicado.
+
 
 
 

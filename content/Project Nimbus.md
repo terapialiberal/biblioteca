@@ -1,5 +1,5 @@
 ---
-titulo: "Project Nimbus (v2.0): El Cerebro Digital De La Ocupación"
+titulo: "Project Nimbus (TL V.2): El Cerebro Digital De La Ocupación"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [cerebro, palantir, project, unit]
 publish: true
 ---
-# Project Nimbus (v2.0): El Cerebro Digital De La Ocupación
+# Project Nimbus (TL V.2): El Cerebro Digital De La Ocupación
 
 > [!ABSTRACT] Hipótesis Informativa
 > Project Nimbus es la **Infraestructura de Computación en la Nube de [[Tier A]]** que fusiona el poder de Big Tech con la maquinaria militar del Estado de Israel. Con un contrato de 1.200 millones de dólares, Google y Amazon proporcionan las herramientas de inteligencia artificial y almacenamiento masivo necesarias para automatizar la vigilancia, el reconocimiento facial y la clasificación de objetivos en tiempo real. Nimbus representa la **Digitalización de la Guerra**, donde los algoritmos de Silicon Valley se convierten en los arquitectos de la ocupación física y el control poblacional sistemático del individuo de **[[Tier C]]**.
@@ -39,7 +39,8 @@ Project Nimbus es la advertencia final de que **la tecnología no es neutral**. 
 ---
 **Versión:** 2.0
 **Enfoque:** La integración de la nube de Google/Amazon en el aparato de vigilancia israelí, el despido de empleados críticos y la automatización del control poblacional.
-**Estado:** Refactoreado a v2.0 - Framework de Tecno-Ocupación.
+**Estado:** Refactoreado a TL V.2 - Framework de Tecno-Ocupación.
+
 
 
 

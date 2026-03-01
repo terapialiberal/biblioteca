@@ -1,5 +1,5 @@
 ---
-titulo: "Nicholas Brady (v2.0): El Ingeniero De La Servidumbre Por Deuda"
+titulo: "Nicholas Brady (TL V.2): El Ingeniero De La Servidumbre Por Deuda"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [deuda, ingeniero, servidumbre, wall]
 publish: true
 ---
-# Nicholas Brady (v2.0): El Ingeniero De La Servidumbre Por Deuda
+# Nicholas Brady (TL V.2): El Ingeniero De La Servidumbre Por Deuda
 
 > [!ABSTRACT] Hipótesis Informativa
 > Nicholas Brady no fue un salvador de las economías emergentes, sino el **Arquitecto de la Titulación de la Esclavitud Financiera**. Mediante el "Plan Brady" (1989), permitió que el [[Tier A]] bancario (JPMorgan, Citibank, Chase) transformara sus préstamos incobrables a naciones soberanas en activos líquidos y negociables. Este movimiento forzó al [[Tier C]] de América Latina y otras regiones a vender su infraestructura básica y recursos naturales para pagar intereses perpetuos a una casta de acreedores anónimos de Wall Street.
@@ -45,6 +45,7 @@ Nicholas Brady fue el hombre que descubrió que **no hace falta una flota de gue
 **Versión:** 2.0
 **Enfoque:** Ingeniería financiera de deuda soberana, privatización por deuda y el rescate de la banca transnacional.
 **Estado:** Refactorización Completa.
+
 
 
 

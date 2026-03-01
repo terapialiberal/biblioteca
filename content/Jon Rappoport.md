@@ -1,5 +1,5 @@
 ---
-titulo: "Jon Rappoport (v2.0): El Descodificador Del Cartel Médico"
+titulo: "Jon Rappoport (TL V.2): El Descodificador Del Cartel Médico"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [cartel, descodificador, gates, rappoport]
 publish: true
 ---
-# Jon Rappoport (v2.0): El Descodificador Del Cartel Médico
+# Jon Rappoport (TL V.2): El Descodificador Del Cartel Médico
 
 > [!ABSTRACT] Hipótesis Informativa
 > Jon Rappoport actúa como el **analista de inteligencia independiente especializado en la ingeniería de la percepción médica**. Su trabajo de más de tres décadas se centra en exponer cómo el [[Tier A]] utiliza el sistema de salud y las "epidemias" como herramientas de control biopolítico y psicológico sobre el [[Tier C]]. Rappoport desmantela la lógica del "Cartel Médico" (la alianza entre Big Pharma, agencias estatales y medios), revelando que el objetivo final de la medicina moderna no es la salud, sino la creación de una población crónicamente dependiente y psíquicamente fragmentada, incapaz de resistir la centralización del poder.
@@ -45,6 +45,7 @@ Jon Rappoport es el **"Guerreador de la Lógica contra la Matrix Médica"**. Su 
 **Versión:** 2.0
 **Enfoque:** Desmantelamiento de epidemias fabricadas, crítica al monopolio médico y análisis de la ingeniería de la percepción.
 **Estado:** Refactorización Completa.
+
 
 
 

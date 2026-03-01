@@ -1,5 +1,5 @@
 ---
-titulo: "Scott Gottlieb (v2.0): El Maestro De La Puerta Giratoria Big Pharma"
+titulo: "Scott Gottlieb (TL V.2): El Maestro De La Puerta Giratoria Big Pharma"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [pharma, fda, pfizer, gottlieb]
 publish: true
 ---
-# Scott Gottlieb (v2.0): El Maestro De La Puerta Giratoria Big Pharma
+# Scott Gottlieb (TL V.2): El Maestro De La Puerta Giratoria Big Pharma
 
 > [!ABSTRACT] Hipótesis Informativa
 > Scott Gottlieb es el **Operador de [[Tier B]]** que personifica la simbiosis absoluta entre las agencias reguladoras y la industria farmacéutica. Como ex-comisionado de la **[[FDA]]** (2017-2019) y actual miembro de la junta directiva de **[[Pfizer]]**, su función real es la de un **"Agente de Captura Regulatoria"**: asegurar que los procesos de aprobación de drogas y vacunas estén alineados con los intereses financieros de las corporaciones de **[[Tier A]]**, utilizando su influencia política y mediática para normalizar un sistema de salud basado en la medicación perpetua y la supresión de la competencia genérica.
@@ -31,7 +31,7 @@ publish: true
 ## Conexiones Críticas
 - [[Pfizer]]: Su hogar corporativo actual y empleador directo.
 - [[FDA]]: El organismo que capturó para beneficio de la industria.
-- [[American Enterprise Institute (AEI)]]: El think tank desde donde diseña políticas pro-corporativas.
+- [[American Enterprise Institute\|American Enterprise Institute (AEI)]]: El think tank desde donde diseña políticas pro-corporativas.
 - [[Vacunas COVID-19]]: El producto que Gottlieb promovió agresivamente desde ambos lados del mostrador.
 - [[Big Pharma]]: El ecosistema de poder que Gottlieb representa y protege.
 
@@ -41,7 +41,8 @@ Scott Gottlieb nos enseña que **dentro de la Matrix sanitaria, el juez y la par
 ---
 **Versión:** 2.0
 **Enfoque:** Gottlieb como ejemplo máximo de puerta giratoria entre el Estado (FDA) y la industria (Pfizer), su rol en la aprobación acelerada de fármacos y su función como vocero mediático de los intereses de Big Pharma.
-**Estado:** Refactoreado a v2.0 - Framework de Captura Regulatoria y Biopolítica Corporativa.
+**Estado:** Refactoreado a TL V.2 - Framework de Captura Regulatoria y Biopolítica Corporativa.
+
 
 
 

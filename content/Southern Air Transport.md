@@ -1,5 +1,5 @@
 ---
-titulo: "Southern Air Transport (v2.0): El Puente Aéreo Del Narcotráfico De Estado"
+titulo: "Southern Air Transport (TL V.2): El Puente Aéreo Del Narcotráfico De Estado"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [estado, irn, southern, transport]
 publish: true
 ---
-# Southern Air Transport (v2.0): El Puente Aéreo Del Narcotráfico De Estado
+# Southern Air Transport (TL V.2): El Puente Aéreo Del Narcotráfico De Estado
 
 > [!ABSTRACT] Hipótesis Informativa
 > Southern Air Transport (SAT) fue la **Empresa de Logística de [[Tier B]]** de propiedad encubierta de la **[[CIA]]** que operó como la columna vertebral del transporte de armas y drogas durante la era de **[[Irán-Contra]]**. Bajo la fachada de una aerolínea de carga comercial situada en Miami, su función real en la Matrix fue la de un **"Agente de Transporte de Operaciones Negras"**: facilitar el envío de armamento ilegal a las guerrillas anticomunistas en Nicaragua (los Contras) mientras sus aviones regresaban a EE.UU. cargados de cocaína, proporcionando financiamiento "fuera de los libros" para las agendas geopolíticas del **[[Tier A]]** sin supervisión del Congreso.
@@ -41,7 +41,8 @@ Southern Air Transport nos enseña que **las fronteras son porosas para la intel
 ---
 **Versión:** 2.0
 **Enfoque:** Southern Air Transport como herramienta logística de la CIA para el tráfico de armas y drogas, su rol central en Irán-Contra, la conexión con los cárteles y el impacto de la epidemia de crack en el Tier C financiada por operaciones negras de Tier B.
-**Estado:** Refactoreado a v2.0 - Framework de Inteligencia y Narcopolítica.
+**Estado:** Refactoreado a TL V.2 - Framework de Inteligencia y Narcopolítica.
+
 
 
 

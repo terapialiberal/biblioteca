@@ -1,5 +1,5 @@
 ---
-titulo: "La Pelea Por OpenAI (v2.0): El Golpe De Estado Del Capital Aceleracionista"
+titulo: "La Pelea Por OpenAI (TL V.2): El Golpe De Estado Del Capital Aceleracionista"
 tipo: evento
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [estado, golpe, openai, pelea]
 publish: true
 ---
-# La Pelea Por OpenAI (v2.0): El Golpe De Estado Del Capital Aceleracionista
+# La Pelea Por OpenAI (TL V.2): El Golpe De Estado Del Capital Aceleracionista
 
 > [!ABSTRACT] Hipótesis Informativa
 > La crisis institucional de OpenAI en noviembre de 2023 constituyó el **momento de captura definitiva de la Inteligencia Artificial General (AGI) por parte del [[Tier A]] corporativo**. El despido y posterior reinstalación de **[[Sam Altman]]** en apenas 72 horas no fue un error administrativo, sino una purga estratégica de la facción idealista (vinculada al Altruismo Efectivo) que intentaba frenar el desarrollo comercial de la IA por razones éticas. La victoria de Altman, respaldada por la fuerza bruta de **[[Microsoft]]**, consolidó el paso de OpenAI de un laboratorio de seguridad a una **herramienta de soberanía tecnocrática**, integrándola plenamente en el complejo financiero-militar de Tier A.
@@ -46,6 +46,7 @@ La Pelea por OpenAI fue la **"Guerra de los Mundos" de la Inteligencia Artificia
 **Versión:** 2.0
 **Enfoque:** Captura corporativa por parte de Microsoft y el sector financiero (Larry Summers), derrota del idealismo de seguridad (Altruismo Efectivo) y rol de Sam Altman como diplomático del monopolio tecnológico.
 **Estado:** Refactorización Completa.
+
 
 
 

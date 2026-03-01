@@ -1,5 +1,5 @@
 ---
-titulo: "Primado Negativo (v2.0): La Vacuna contra La Verdad"
+titulo: "Primado Negativo (TL V.2): La Vacuna contra La Verdad"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [contra, negativo, primado, vacuna]
 publish: true
 ---
-# Primado Negativo (v2.0): La Vacuna contra La Verdad
+# Primado Negativo (TL V.2): La Vacuna contra La Verdad
 
 > [!ABSTRACT] Hipótesis Informativa
 > El Primado Negativo es una **técnica de cirugía psíquica de [[Tier A]]** diseñada para invalidar información verídica antes de que el individuo de **[[Tier C]]** pueda procesarla seriamente. Consiste en presentar verdades incómodas o secretos de estado en contextos **negativos, ridículos, satíricos o ficticios**. El cerebro, entrenado por la Matrix, asocia esa información con "fantasía" o "locura". Cuando la verdad emerge en la realidad, el sistema inmunológico cognitivo del sujeto la rechaza automáticamente, protegiendo la estructura de poder de la sospecha racional.
@@ -19,7 +19,7 @@ publish: true
 *   **La Creación del "Loco del Pueblo":** El Tier A financia o promueve a personajes que defienden verdades reales pero con una estética o comportamiento desagradable (sucio, paranoico, fanático). Así, el Tier C no analiza el mensaje, sino que rechaza al mensajero, aplicando el primado negativo por asociación.
 
 ### Tier B (La Industria Del Entretenimiento Como Vector)
-*   **Hollywood y la CIA:** El Tier B mediático actúa como el laboratorio de pruebas. Las películas de "ciencia ficción" a menudo contienen las hojas de ruta tecnológicas de Tier A. Al verlas como ficción, el público se familiariza con el concepto pero pierde la capacidad de alarmarse cuando el mismo concepto se implementa legalmente (ej. [[Pre-Crimen]], [[Crédito Social (China)]]). El entretenimiento es la anestesia necesaria para la cirugía social del sistema.
+*   **Hollywood y la CIA:** El Tier B mediático actúa como el laboratorio de pruebas. Las películas de "ciencia ficción" a menudo contienen las hojas de ruta tecnológicas de Tier A. Al verlas como ficción, el público se familiariza con el concepto pero pierde la capacidad de alarmarse cuando el mismo concepto se implementa legalmente (ej. [[Pre-Crimen]], [[Crédito Social Chino\|Crédito Social (China)]]). El entretenimiento es la anestesia necesaria para la cirugía social del sistema.
 
 ## ¸ Mecanisms De Poder (Cognitivos)
 
@@ -39,7 +39,8 @@ El Primado Negativo nos enseña que **nuestra mente ha sido vacunada contra la r
 ---
 **Versión:** 2.0
 **Enfoque:** Uso de la ridiculez y la ficción para invalidar verdades reales, la inhibición latente como proceso biológico y la industria del entretenimiento como vector de inoculación.
-**Estado:** Refactoreado a v2.0 - Framework de Guerra Psicológica.
+**Estado:** Refactoreado a TL V.2 - Framework de Guerra Psicológica.
+
 
 
 

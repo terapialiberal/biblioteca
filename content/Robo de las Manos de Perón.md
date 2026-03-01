@@ -1,5 +1,5 @@
 ---
-titulo: "Robo De Las Manos De Perón (v2.0): El Ritual De Desarticulación Del Poder"
+titulo: "Robo De Las Manos De Perón (TL V.2): El Ritual De Desarticulación Del Poder"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [desarticulacin, juan, pern, poder]
 publish: true
 ---
-# Robo De Las Manos De Perón (v2.0): El Ritual De Desarticulación Del Poder
+# Robo De Las Manos De Perón (TL V.2): El Ritual De Desarticulación Del Poder
 
 > [!ABSTRACT] Hipótesis Informativa
 > El robo de las manos de Juan Domingo Perón en 1987 no fue un acto de vandalismo ni un secuestro con fines económicos, sino una **Operación de Guerra Psicológica y Esotérica de [[Tier B]]**. Ejecutada con precisión quirúrgica en el Cementerio de la Chacarita, la profanación tuvo como objetivo real la **Neutralización Simbólica del Movimiento Peronista** o un ritual de transferencia de poder orquestado por la **[[P2 Lodge]]**. Su función real fue enviar un mensaje de vulnerabilidad total al gobierno de Raúl Alfonsín y al pueblo de **[[Tier C]]**, demostrando que los "Dueños de las Sombras" (inteligencia residual y sociedades secretas) seguían teniendo la llave del subconsciente colectivo argentino.
@@ -30,7 +30,7 @@ publish: true
 - [[Juan Domingo Perón]]: El líder cuya imagen y cuerpo son el centro del conflicto.
 - [[Licio Gelli]]: El Gran Maestre de la P2 con intereses esotéricos en Argentina.
 - [[José López Rega]]: El brujo de Perón y nexo con el ocultismo de Tier B.
-- [[Ocultismo]]: El marco de referencia para entender la profanación ritual.
+- [[00_Glosario - Conceptos Fase 1#Ocultismo\|Ocultismo]]: El marco de referencia para entender la profanación ritual.
 - [[SIDE (Servicio de Inteligencia del Estado)]]: El organismo donde se sospecha que se gestó la logística.
 - [[Roberto Calvi]]: (Vinculado por la red de la P2 y la cultura del mensaje ritual).
 
@@ -40,7 +40,8 @@ El Robo de las Manos de Perón nos enseña que **la política argentina es una r
 ---
 **Versión:** 2.0
 **Enfoque:** La profanación como ritual esotérico de la P2 y táctica de desestabilización política, las muertes sospechosas de los investigadores y el rol del cuerpo del líder como talismán de poder.
-**Estado:** Refactoreado a v2.0 - Framework de Ocultismo Político y Guerra Psicológica.
+**Estado:** Refactoreado a TL V.2 - Framework de Ocultismo Político y Guerra Psicológica.
+
 
 
 

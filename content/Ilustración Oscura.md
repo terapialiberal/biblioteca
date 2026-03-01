@@ -1,15 +1,12 @@
 ---
+titulo: Dark Enlightenment (Ilustración Oscura)
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [curtis, enlightenment, oscura, peter]
 publish: true
-created: 2026-01-29T19:17:17.997-03:00
-modified: 2026-02-27T13:07:39.287-03:00
-tags:
-  - curtis
-  - enlightenment
-  - oscura
-  - peter
-cssclasses: ""
 ---
-
 # Dark Enlightenment (Ilustración Oscura)
 
 ## Perfil TL (Resumen Ejecutivo)
@@ -30,7 +27,7 @@ cssclasses: ""
 *   "Filosofía de internet para nerds de extrema derecha". Narrativas de Tier B (proyectadas por "La Catedral" de medios) para estigmatizar el movimiento y evitar que el Tier C entienda que las personas que diseñan su tecnología (IA, redes sociales) ya han abandonado la fe en la democracia y están construyendo herramientas para un orden social jerárquico y punitivo.
 
 ## Conexiones Clave
-- [[Curtis Yarvin (Moldbug)]] (El autor del concepto)
+- [[00_Glosario - Conceptos Fase 1#Curtis Yarvin (Moldbug)\|Curtis Yarvin (Moldbug)]] (El autor del concepto)
 - [[La Catedral (Estructura de Poder)]] (Su enemigo definido)
 - [[Peter Thiel]] (Su principal financista y promotor)
 - [[Tecnofeudalismo / Ciudades Privadas]] (Su objetivo práctico)

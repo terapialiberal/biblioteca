@@ -1,5 +1,5 @@
 ---
-titulo: "Sirius: La Estrella Oculta (v2.0): El Faro De La Iluminación De Ã‰lite"
+titulo: "Sirius: La Estrella Oculta (TL V.2): El Faro De La Iluminación De Ã‰lite"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [estatua, estrella, faro, oculta]
 publish: true
 ---
-# Sirius: La Estrella Oculta (v2.0): El Faro De La Iluminación De Ã‰lite
+# Sirius: La Estrella Oculta (TL V.2): El Faro De La Iluminación De Ã‰lite
 
 > [!ABSTRACT] Hipótesis Informativa
 > Sirius no es solo la estrella más brillante del firmamento, es la **Referencia Metafísica de [[Tier A]]** fundamental para el diseño de la Matrix civilizatoria. Conocida como el "Sol detrás del Sol", su función real en la cosmogonía de las sociedades secretas es la de un **"Punto de Origen de la Jerarquía Espiritual"**: es la fuente oculta de la sabiduría que el Sol físico solo refleja. La alineación de monumentos, calendarios (4 de Julio) y la simbiología de las potencias globales con Sirius revela que la élite de Tier A se considera a sí misma como la administradora terrestre de un orden galáctico que emana de este sistema estelar.
@@ -41,7 +41,8 @@ Sirius nos enseña que **el poder que gobierna la tierra tiene sus ojos puestos 
 ---
 **Versión:** 2.0
 **Enfoque:** Sirius como centro de la cosmogonía de las élites y sociedades secretas, su relación con Isis y las pirámides, la sincronización de la fundación de EE.UU. con su ciclo estelar, la doctrina de los Dogon como anomalía informativa y el uso de su simbiología en monumentos y cultura pop para marcar el dominio del Tier A.
-**Estado:** Refactoreado a v2.0 - Framework de Ocultismo Galáctico y Simbolismo de Ã‰lite.
+**Estado:** Refactoreado a TL V.2 - Framework de Ocultismo Galáctico y Simbolismo de Ã‰lite.
+
 
 
 

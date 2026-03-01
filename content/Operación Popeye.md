@@ -1,5 +1,5 @@
 ---
-titulo: "Operación Popeye (v2.0): El Clima Como Arma De Asedio"
+titulo: "Operación Popeye (TL V.2): El Clima Como Arma De Asedio"
 tipo: evento
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [arma, clima, haarp, popeye]
 publish: true
 ---
-# Operación Popeye (v2.0): El Clima Como Arma De Asedio
+# Operación Popeye (TL V.2): El Clima Como Arma De Asedio
 
 > [!ABSTRACT] Hipótesis Informativa
 > La Operación Popeye fue la primera demostración oficial del **Dominio de Espectro Completo sobre la Naturaleza de [[Tier A]]**. Al utilizar la siembra de nubes con yoduro de plata para extender la temporada del monzón en Vietnam y Laos, el sistema militar estadounidense transformó el clima en un **Arma de Negación de Área**. Esta operación demuestra que el Tier A posee la capacidad de manipular los procesos atmosféricos básicos para fines tácticos desde hace más de 50 años, estableciendo el precedente histórico para los proyectos modernos de **[[Geoingeniería]]** y control ionosférico del que el **[[Tier C]]** no tiene conocimiento ni consentimiento.
@@ -28,7 +28,7 @@ publish: true
 
 ## Conexiones Críticas
 - [[HAARP (Manipulación Ionosférica)]]: El sucesor electromagnético de la manipulación climática.
-- [[Chemtrails (Geoingeniería)]]: El debate moderno sobre la siembra de aerosoles a gran escala.
+- [[00_Glosario - Conceptos Fase 1#Chemtrails (Geoingeniería)\|Chemtrails (Geoingeniería)]]: El debate moderno sobre la siembra de aerosoles a gran escala.
 - [[Guerra de Vietnam]]: El campo de pruebas donde los límites morales se disolvieron.
 - [[Convención ENMOD]]: La ley que "prohibió" estas técnicas (pero protegió su desarrollo secreto).
 - [[Geoingeniería]]: La nota central sobre la modificación del planeta.
@@ -39,7 +39,8 @@ La Operación Popeye es la prueba de que el cielo ya no es virgen. Nos enseña q
 ---
 **Versión:** 2.0
 **Enfoque:** Modificación climática militar en Vietnam, concepto de lodo como arma y el origen de la convención internacional que supuestamente prohíbe el uso belicoso del clima.
-**Estado:** Refactoreado a v2.0 - Framework de Dominio Ambiental.
+**Estado:** Refactoreado a TL V.2 - Framework de Dominio Ambiental.
+
 
 
 

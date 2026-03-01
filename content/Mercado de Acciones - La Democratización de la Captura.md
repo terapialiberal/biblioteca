@@ -1,15 +1,12 @@
 ---
+titulo: Mercado De Acciones — La Democratización De La Captura
+tipo: "concepto"
+fecha: 2026-02-25
+tags: [acciones, democratizacin, derivados, mercado]
+tier-primario: "a"
+nivel-evidencia: "alto"
 publish: true
-created: 2026-02-25T22:50:20.067-03:00
-modified: 2026-02-27T13:23:21.429-03:00
-tags:
-  - acciones
-  - democratizacin
-  - derivados
-  - mercado
-cssclasses: ""
 ---
-
 
 # Mercado De Acciones — La Democratización De La Captura
 
@@ -36,7 +33,7 @@ cssclasses: ""
 - "Soy socio de Apple". El Tier C cree que posee una parte del futuro. No entiende que su acción es un **Pasivo de su Broker** y que no tiene voz ni voto real en la dirección del mundo que esa empresa está construyendo.
 
 ## Conexiones Críticas
-- [[Derivados (Quadrillion Dollar Bubble)]]: La capa superior de apuestas que mueve el precio de las acciones.
+- [[00_Glosario - Conceptos Fase 1#Derivados (Quadrillion Dollar Bubble)\|Derivados (Quadrillion Dollar Bubble)]]: La capa superior de apuestas que mueve el precio de las acciones.
 - [[ETF - El Caballo de Troya de la Propiedad]]: Cómo el Tier A capturó la bolsa mediante la gestión pasiva.
 - [[Colateral y Rehipotecación - El Truco del Título]]: Por qué tus acciones en el broker no son realmente tuyas.
 

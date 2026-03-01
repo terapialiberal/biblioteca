@@ -1,21 +1,18 @@
 ---
+titulo: Fort Detrick
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [detrick, ecohealth, fort, operacin]
 publish: true
-created: 2026-01-29T19:17:13.959-03:00
-modified: 2026-02-27T13:07:40.580-03:00
-tags:
-  - detrick
-  - ecohealth
-  - fort
-  - operacin
-cssclasses: ""
 ---
-
 # Fort Detrick
 
 ## Perfil TL (Resumen Ejecutivo)
 **¿Qué es?** Una instalación militar del Ejército de EE.UU. que sirve como el centro neurálgico del programa de defensa (y históricamente de ataque) biológico de la nación.
 
-**¿Por qué importa?** Fort Detrick es el **laboratorio de experimentos prohibidos de Tier A**. Fue el corazón de la **[[Operación Paperclip]]** biológica, donde EE.UU. integró a científicos japoneses de la **Unidad 731** (quienes realizaron vivisecciones humanas) a cambio de sus datos de armas bacteriológicas. Durante la Guerra Fría, fue la sede del proyecto **[[MK-Ultra]]** relacionado con drogas y control químico (donde Frank Olson fue "suicidado"). Aunque hoy dicen que solo investigan "defensa", Fort Detrick mantiene el stock más letal de patógenos del planeta (Ã‰bola, Ántrax, Peste). En 2019, el laboratorio fue cerrado repentinamente por el CDC debido a "fallos de seguridad en la contención de patógenos", justo meses antes de que el mundo conociera el COVID-19. Para un analista de Deep State, Detrick es el lugar donde el Tier A desarrolla las herramientas de **biopolítica extrema**: virus que pueden ser usados como agentes de cambio social, económico y demográfico.
+**¿Por qué importa?** Fort Detrick es el **laboratorio de experimentos prohibidos de Tier A**. Fue el corazón de la **[[Operación Paperclip]]** biológica, donde EE.UU. integró a científicos japoneses de la **Unidad 731** (quienes realizaron vivisecciones humanas) a cambio de sus datos de armas bacteriológicas. Durante la Guerra Fría, fue la sede del proyecto **[[MKUltra\|MK-Ultra]]** relacionado con drogas y control químico (donde Frank Olson fue "suicidado"). Aunque hoy dicen que solo investigan "defensa", Fort Detrick mantiene el stock más letal de patógenos del planeta (Ã‰bola, Ántrax, Peste). En 2019, el laboratorio fue cerrado repentinamente por el CDC debido a "fallos de seguridad en la contención de patógenos", justo meses antes de que el mundo conociera el COVID-19. Para un analista de Deep State, Detrick es el lugar donde el Tier A desarrolla las herramientas de **biopolítica extrema**: virus que pueden ser usados como agentes de cambio social, económico y demográfico.
 
 ## Análisis De Poder (Tiers)
 
@@ -33,7 +30,7 @@ cssclasses: ""
 ## Conexiones Clave
 - [[MK-Ultra / Sidney Gottlieb]] (La conexión con control mental)
 - [[Unidad 731 / Operación Paperclip]] (Sus oscuros orígenes)
-- [[Antrax Attacks 2001]] (Su uso como herramienta de shock política)
+- [[Anthrax Attacks 2001\|Antrax Attacks 2001]] (Su uso como herramienta de shock política)
 - [[Guerra Biológica (Biowarfare)]] (Su categoría estratégica)
 
 ## Por Qué Importa (Estilo Nico)

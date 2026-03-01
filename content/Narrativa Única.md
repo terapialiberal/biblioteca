@@ -1,5 +1,5 @@
 ---
-titulo: "Narrativa Ãšnica (v2.0): El Monopolio Epistemológico De La Matrix"
+titulo: "Narrativa Ãšnica (TL V.2): El Monopolio Epistemológico De La Matrix"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [matrix, monopolio, narrativa, nica]
 publish: true
 ---
-# Narrativa Ãšnica (v2.0): El Monopolio Epistemológico De La Matrix
+# Narrativa Ãšnica (TL V.2): El Monopolio Epistemológico De La Matrix
 
 > [!ABSTRACT] Hipótesis Informativa
 > La Narrativa Ãšnica no es una coincidencia de opiniones, sino una **Operación de Guerra Cognitiva Coordinada**. Se basa en la sincronización total de todos los nodos de información (medios, Big Tech, Fact-Checkers y Gobiernos) para emitir una versión idéntica de la realidad en tiempo real. Su objetivo es saturar el paisaje mental del **[[Tier C]]** hasta eliminar su capacidad de razonamiento crítico, transformando la disidencia en una patología social y asegurando que las emergencias fabricadas por el **[[Tier A]]** logren un cumplimiento masivo sin necesidad de fuerza física aparente.
@@ -31,7 +31,7 @@ publish: true
 ## Conexiones Críticas
 - [[Complejo Industrial de la Censura]]: La infraestructura de ejecución.
 - [[NewsGuard]]: El sistema de calificación de la verdad oficial.
-- [[Gaslighting (Político)]]: El efecto psicológico buscado.
+- [[00_Glosario - Conceptos Fase 1#Gaslighting (Político)\|Gaslighting (Político)]]: El efecto psicológico buscado.
 - [[Operación Mockingbird]]: El ancestro histórico de esta táctica.
 - [[Psicosis de Formación de Masas]]: El resultado sociológico.
 
@@ -41,7 +41,8 @@ La Narrativa Ãšnica es la membrana de la Matrix. Su función es que nunca te d
 ---
 **Versión:** 2.0
 **Enfoque:** Sincronización mediática total, rol del Trusted News Initiative, censura algorítmica y patologización del pensamiento crítico.
-**Estado:** Refactoreado a v2.0 - Framework de Guerra Cognitiva.
+**Estado:** Refactoreado a TL V.2 - Framework de Guerra Cognitiva.
+
 
 
 

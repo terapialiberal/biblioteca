@@ -1,4 +1,12 @@
 ---
+titulo: TSMC
+tipo: 'organizacion'
+tier-primario: 'a'
+nivel-evidencia: 'medio'
+tags: [clasificado-ai]
+publish: true
+---
+﻿---
 titulo: "TSMC: El Escudo De Silicio Y El Dilema De La Dispora"
 tipo: "concepto"
 fecha: 2026-02-25
@@ -34,13 +42,14 @@ publish: true
 * **Japn**: Revive su industria de chips va la planta de Kumamoto (JASM).
 
 ## ?? Conexiones Crticas
-- [[99_AI/Legacy/ASML High-NA EUV]]: El nico proveedor que puede hacer funcionar las plantas de TSMC.
+- [[ASML High-NA EUV]]: El nico proveedor que puede hacer funcionar las plantas de TSMC.
 - [[Microsoft Stargate]]: El cliente final de los chips de TSMC.
 - [[AUKUS II - Expansion Japon]]: El marco de seguridad que escolta la expansin tecnolgica.
 
 ---
-**Falsabilidad**: Si China logra un avance disruptivo en computaci�n fot�nica que no dependa de la litograf�a de ASML/TSMC, la importancia estrat�gica de estas f�bricas en Arizona caer�a a cero.
+**Falsabilidad**: Si China logra un avance disruptivo en computaciï¿½n fotï¿½nica que no dependa de la litografï¿½a de ASML/TSMC, la importancia estratï¿½gica de estas fï¿½bricas en Arizona caerï¿½a a cero.
 
-*Versi�n: 2.0 | Protocolo TL-INTEL v12_0*
+*Versiï¿½n: 2.0 | Protocolo TL-INTEL TL V.2*
+
 
 

@@ -1,5 +1,5 @@
 ---
-titulo: "James Jesus Angleton (v2.0): El Sumo Sacerdote De La Wilderness of Mirrors"
+titulo: "James Jesus Angleton (TL V.2): El Sumo Sacerdote De La Wilderness of Mirrors"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [james, mirrors, mossad, sacerdote]
 publish: true
 ---
-# James Jesus Angleton (v2.0): El Sumo Sacerdote De La Wilderness of Mirrors
+# James Jesus Angleton (TL V.2): El Sumo Sacerdote De La Wilderness of Mirrors
 
 > [!ABSTRACT] Hipótesis Informativa
 > James Jesus Angleton fue el **arquitecto de la compartimentación absoluta del Estado Profundo**. Como jefe de contrainteligencia de la [[CIA]] durante dos décadas, transformó la desconfianza en una herramienta de gestión burocrática ("Wilderness of Mirrors"). Su función para el [[Tier A]] fue doble: asegurar que la inteligencia estadounidense fuera impenetrable para la auditoría democrática y actuar como el puente secreto que permitió al [[Mossad]] capturar nodos críticos de la política exterior de EE.UU., operando fuera de los canales oficiales de supervisión.
@@ -45,6 +45,7 @@ James Jesus Angleton fue el **Hombre que Inventó la Oscuridad Moderna**. Su leg
 **Versión:** 2.0
 **Enfoque:** Contrainteligencia como herramienta de control institucional, paranoia estratégica y el nexo fundamental con el Mossad.
 **Estado:** Refactorización Completa.
+
 
 
 

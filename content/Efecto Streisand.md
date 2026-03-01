@@ -1,15 +1,12 @@
 ---
+titulo: Efecto Streisand (Censura)
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [censura, efecto, psicologa, streisand]
 publish: true
-created: 2026-01-29T19:17:11.108-03:00
-modified: 2026-02-27T13:22:33.056-03:00
-tags:
-  - censura
-  - efecto
-  - psicologa
-  - streisand
-cssclasses: ""
 ---
-
 # Efecto Streisand (Censura)
 
 ## Perfil TL (Resumen Ejecutivo)
@@ -29,7 +26,7 @@ cssclasses: ""
 *   "Información peligrosa". "Combatiendo la desinformación". La narrativa oficial que justifica la censura pero que, irónicamente, sirve como la señal de humo para que el público sepa hacia dónde mirar.
 
 ## Conexiones Clave
-- [[Censura Digital]] (El mecanismo que falla)
+- [[00_Glosario - Conceptos Fase 1#Censura Digital\|Censura Digital]] (El mecanismo que falla)
 - [[Psicología Inversa]] (La raíz del comportamiento)
 - [[Guerra Cognitiva]] (El contexto estratégico)
 - [[Efecto Streisand]] (Este concepto)

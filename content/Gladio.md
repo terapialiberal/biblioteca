@@ -1,15 +1,12 @@
 ---
+titulo: Gladio (Estrategia De Tensión)
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [estrategia, gladio, otan, tensin]
 publish: true
-created: 2026-01-29T19:17:15.369-03:00
-modified: 2026-02-27T13:22:47.836-03:00
-tags:
-  - estrategia
-  - gladio
-  - otan
-  - tensin
-cssclasses: ""
 ---
-
 # Gladio (Estrategia De Tensión)
 
 ## Perfil TL (Resumen Ejecutivo)
@@ -32,7 +29,7 @@ cssclasses: ""
 
 ## Conexiones Clave
 - [[OTAN (NATO)]] (Su paraguas institucional)
-- [[Operación Gladio B]] (Su evolución hacia el Islam radical)
+- [[Operación Gladio\|Operación Gladio B]] (Su evolución hacia el Islam radical)
 - [[Falsa Bandera (False Flag)]] (Su técnica principal)
 - [[Propaganda Due (P2)]] (Su red de encubrimiento)
 

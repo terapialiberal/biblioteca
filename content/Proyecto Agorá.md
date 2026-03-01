@@ -1,16 +1,13 @@
 ---
+titulo: PROYECTO AGORÁ (BIS) (TL V.2)
+tipo: evento
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "alto"
+tags: [agor, libro, mayor, reserva]
 publish: true
-created: 2026-02-25T15:50:04.446-03:00
-modified: 2026-02-27T13:23:46.097-03:00
-tags:
-  - agor
-  - libro
-  - mayor
-  - reserva
-cssclasses: ""
 ---
-
-# PROYECTO AGORÁ (BIS) (v12_1)
+# PROYECTO AGORÁ (BIS) (TL V.2)
 
 #### BLUF
 El Proyecto Agorá es la **Fusión del Sistema Monetario y Financiero** en una sola capa digital. Liderado por el Bank for International Settlements (BIS), integra a los principales bancos centrales del G7 y a gigantes del sector privado (Tier A) para crear una **Plataforma de Liquidez Programable**. En 2026, Agorá representa el fin de la distinción entre "dinero público" y "activos privados", creando un ecosistema donde cada transacción es un contrato inteligente pre-aprobado por la arquitectura del BIS.
@@ -20,7 +17,7 @@ El Proyecto Agorá es la **Fusión del Sistema Monetario y Financiero** en una s
 | Actor | Tier | Rol Real | Incentivo Oculto |
 |-------|------|----------|-----------------|
 | [[Agustín Carstens]] | B | El Arquitecto del BIS | Implementar el "Unified Ledger" (Libro Mayor Unificado) para el control total de la liquidez global. |
-| [[Reserva Federal (Fed)]]| B | El Socio Dominante | Asegurar que el dólar digital sea la unidad de cuenta base de la plataforma Agorá. |
+| [[00_Glosario - Conceptos Fase 1#Reserva Federal (Fed)\|Reserva Federal (Fed)]]| B | El Socio Dominante | Asegurar que el dólar digital sea la unidad de cuenta base de la plataforma Agorá. |
 | [[IIF (Institute of International Finance)]]| B | El Representante de los Megabancos | Asegurar que los bancos privados mantengan su rol de intermediarios en el nuevo sistema digital. |
 | [[J.P. Morgan]] / [[HSBC]]| A | Los Nodos Operativos | Utilizar Agorá para liquidar sus propios activos tokenizados con el respaldo de la banca central. |
 
@@ -73,6 +70,7 @@ Es la respuesta racional a la digitalización del mundo. No podemos seguir opera
 ¿Cómo se reparten las cuotas de poder de validación entre la FED y el BCE dentro del software de Agorá y qué algoritmos de consenso están usando para evitar que una nación "imprima" activos digitales sin permiso?
 
 ---
-*Dossier forense v12_1 | La Arquitectura de la Cárcel Financiera*
+*Dossier forense TL V.2 | La Arquitectura de la Cárcel Financiera*
+
 
 

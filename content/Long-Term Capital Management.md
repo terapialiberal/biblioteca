@@ -1,4 +1,12 @@
 ---
+titulo: Long-Term Capital Management
+tipo: 'persona'
+tier-primario: 'b'
+nivel-evidencia: 'medio'
+tags: [clasificado-ai]
+publish: true
+---
+﻿---
 titulo: "Long-Term Capital Management (LTCM): El Fracaso De Los Genios"
 tipo: persona
 fecha: 2026-02-25
@@ -22,7 +30,7 @@ publish: true
 *   **Socializacin del Riesgo:** Cuando LTCM implosion, la **[[Reserva Federal]]** de Nueva York oblig a los principales bancos (JPMorgan, Goldman, Merrill Lynch) a rescatar el fondo. Por qu? No para salvar a LTCM, sino para salvar las contrapartes (los propios bancos). Fue el ensayo general para el rescate masivo de 2008.
 
 
-## ⚡ Conclusin De Terapia Liberal
+## âš¡ Conclusin De Terapia Liberal
 LTCM nos ense que los "expertos" de Tier B son los ms peligrosos, porque su fe ciega en los modelos los desconecta de la realidad. Pero la leccin real es poltica: desde 1998, el mercado libre muri. Hoy vivimos en un sistema de **Capitalismo de Rescate Permanente** donde las apuestas de la lite de Tier A tienen el seguro de vida pagado por el ciudadano.
 
 ---
@@ -30,10 +38,11 @@ LTCM nos ense que los "expertos" de Tier B son los ms peligrosos, porque su fe c
 ## Conexiones De La Red
 - **El Organismo:** [[Reserva Federal (NY)]].
 - **Los Actores:** [[John Meriwether]], [[Myron Scholes]], [[Robert Merton]].
-- **Eventos Similares:** [[Crisis Financiera 2008]], [[Efecto Tequila]], [[Crisis Asi�tica 1997]].
+- **Eventos Similares:** [[Crisis Financiera 2008]], [[Efecto Tequila]], [[Crisis Asiï¿½tica 1997]].
 - **Conceptos:** [[Apalancamiento]], [[Derivados Financieros]], [[Too Big to Fail]], [[Cisne Negro]].
 
-**Estado:** Refactoreado a v2.0 - Framework de Crisis Sist�mica.
+**Estado:** Refactoreado a TL V.2 - Framework de Crisis Sistï¿½mica.
+
 
 
 

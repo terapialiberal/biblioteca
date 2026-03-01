@@ -1,5 +1,5 @@
 ---
-titulo: "Miércoles Negro (1992): El Golpe De Estado Financiero (v2.0)"
+titulo: "Miércoles Negro (1992): El Golpe De Estado Financiero (TL V.2)"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [banco, estado, george, golpe]
 publish: true
 ---
-# Miércoles Negro (1992): El Golpe De Estado Financiero (v2.0)
+# Miércoles Negro (1992): El Golpe De Estado Financiero (TL V.2)
 
 > [!ABSTRACT] Hiptesis Informativa
 > El Miércoles Negro no fue un "ajuste de mercado", sino una **Demostracin de Fuerza Cintica del [[Tier A]] Financiero** contra la soberana del Estado-Nacin. **[[George Soros]]** y su Quantum Fund no solo apostaron contra la libra; coordinaron un ataque especulativo masivo que quebr la voluntad del **[[Banco de Inglaterra]]**, forzando al Reino Unido a salir del Mecanismo Europeo de Cambio (ERM). Este evento marc el fin de la era donde los gobiernos controlaban sus monedas y el inicio de la **Dictadura de los Mercados de Bonos**, donde un fondo de inversin privado tiene ms poder de fuego real que el Tesoro de una potencia nuclear.
@@ -42,7 +42,8 @@ El Miércoles Negro fue el da en que el **Capital declar su independencia de la 
 ---
 **Versi�n:** 2.0
 **Enfoque:** Ataque especulativo de Soros/Quantum Fund, derrota del Banco de Inglaterra, transferencia de riqueza del contribuyente al especulador y el inicio de la supremac�a de los mercados sobre los estados.
-**Estado:** Refactoreado a v2.0 - Framework de Guerra Financiera.
+**Estado:** Refactoreado a TL V.2 - Framework de Guerra Financiera.
+
 
 
 

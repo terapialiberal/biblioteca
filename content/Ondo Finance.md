@@ -1,16 +1,13 @@
 ---
+titulo: ONDO FINANCE (TL V.2)
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "alto"
+tags: [blackrock, blockchain, nathan, peaje]
 publish: true
-created: 2026-02-25T13:55:13.964-03:00
-modified: 2026-02-27T13:23:33.366-03:00
-tags:
-  - blackrock
-  - blockchain
-  - nathan
-  - peaje
-cssclasses: ""
 ---
-
-# ONDO FINANCE (v12_1)
+# ONDO FINANCE (TL V.2)
 
 #### BLUF
 Ondo Finance es el **Canal de Absorción Institucional**. Fundada por ex-miembros de Goldman Sachs, su misión es empaquetar productos financieros del Tier A (Bonos del Tesoro, fondos de BlackRock) en tokens para su consumo en el ecosistema DeFi. En 2026, Ondo actúa como el **Filtro de Cumplimiento**, asegurando que solo el capital "limpio" y verificado por el sistema de vigilancia estatal pueda acceder a los rendimientos de la nueva economía digital.
@@ -73,6 +70,7 @@ Es el puente necesario hacia la madurez. Sin empresas como Ondo, el ecosistema b
 ¿Cuál es la relación real entre los oráculos de precios de Ondo y los algoritmos de front-running de los megabancos que operan en la misma red en 2026?
 
 ---
-*Dossier forense v12_1 | El Peaje de la Tokenización Institucional*
+*Dossier forense TL V.2 | El Peaje de la Tokenización Institucional*
+
 
 

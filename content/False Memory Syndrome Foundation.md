@@ -1,21 +1,18 @@
 ---
+titulo: False Memory Syndrome Foundation (FMSF)
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [fmsf, foundation, jeffrey, memory]
 publish: true
-created: 2026-01-29T19:17:13.108-03:00
-modified: 2026-02-27T13:22:41.280-03:00
-tags:
-  - fmsf
-  - foundation
-  - jeffrey
-  - memory
-cssclasses: ""
 ---
-
 # False Memory Syndrome Foundation (FMSF)
 
 ## Perfil TL (Resumen Ejecutivo)
 **¿Qué fue?** Una influyente organización sin fines de lucro que promovía el concepto del "Síndrome de Falsa Memoria" para desacreditar los testimonios de víctimas de abuso sexual que recuperaban sus recuerdos a través de la terapia.
 
-**¿Por qué importa?** La FMSF fue **la firewall del Tier A contra las denuncias de [[Abuso Ritual Satánico (SRA)]] y experimentos de [[MK-Ultra]]**. Fundada oportunamente en los años 90 (cuando empezaban a llover juicios por abusos en redes de élite), la fundación utilizó una fachada de "rigor científico" para convencer al sistema judicial y a los medios de que cualquier recuerdo de abuso recuperado años después era una invención implantada por terapeutas "sugestivos". Lo más revelador son los miembros de su junta directiva y consejo asesor: psiquiatras vinculados directamente con los experimentos de control mental de la CIA, como **Louis Jolyon West** (el psiquiatra que trató al asesino de RFK y trabajó en MKUltra) y **Martin Orne**. Su misión real era blindar legalmente a los perpetradores de alto nivel y asegurar que nadie creyera a los sobrevivientes del sistema de chantaje y trauma de la élite. Se disolvieron sospechosamente en 2019, justo cuando el caso **[[Jeffrey Epstein]]** amenazaba con reventar la represa del silencio.
+**¿Por qué importa?** La FMSF fue **la firewall del Tier A contra las denuncias de [[Abuso Ritual Satánico (SRA)]] y experimentos de [[MKUltra\|MK-Ultra]]**. Fundada oportunamente en los años 90 (cuando empezaban a llover juicios por abusos en redes de élite), la fundación utilizó una fachada de "rigor científico" para convencer al sistema judicial y a los medios de que cualquier recuerdo de abuso recuperado años después era una invención implantada por terapeutas "sugestivos". Lo más revelador son los miembros de su junta directiva y consejo asesor: psiquiatras vinculados directamente con los experimentos de control mental de la CIA, como **Louis Jolyon West** (el psiquiatra que trató al asesino de RFK y trabajó en MKUltra) y **Martin Orne**. Su misión real era blindar legalmente a los perpetradores de alto nivel y asegurar que nadie creyera a los sobrevivientes del sistema de chantaje y trauma de la élite. Se disolvieron sospechosamente en 2019, justo cuando el caso **[[Jeffrey Epstein]]** amenazaba con reventar la represa del silencio.
 
 ## Análisis De Poder (Tiers)
 

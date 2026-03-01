@@ -1,14 +1,12 @@
 ---
+titulo: Estado De Excepción
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [estado, excepcin, giorgio]
 publish: true
-created: 2026-01-29T19:17:12.281-03:00
-modified: 2026-02-27T13:07:07.793-03:00
-tags:
-  - estado
-  - excepcin
-  - giorgio
-cssclasses: ""
 ---
-
 # Estado De Excepción
 
 ## Perfil TL (Resumen Ejecutivo)
@@ -33,7 +31,7 @@ cssclasses: ""
 - [[Giorgio Agamben]] (El principal teórico)
 - [[Biopolítica]] (La gestión de la vida en la excepción)
 - [[Patriot Act]] (La institucionalización de la excepción en EE.UU.)
-- [[Consenso Manufacturado]] (Para legitimar la emergencia)
+- [[00_Glosario - Conceptos Fase 1#Consenso Manufacturado\|Consenso Manufacturado]] (Para legitimar la emergencia)
 
 ## Fuentes
 - Giorgio Agamben: "Estado de Excepción" (Homo Sacer II, 1).

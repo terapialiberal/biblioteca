@@ -1,15 +1,13 @@
 ---
+titulo: PALMER LUCKEY (TL V.2)
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [anduril, luckey, palmer]
 publish: true
-created: 2026-02-25T14:51:05.995-03:00
-modified: 2026-02-27T13:23:37.673-03:00
-tags:
-  - anduril
-  - luckey
-  - palmer
-cssclasses: ""
 ---
-
-# PALMER LUCKEY (v12_1)
+# PALMER LUCKEY (TL V.2)
 
 #### BLUF
 Palmer Luckey es el puente estético y técnico entre la cultura "hacker" y el **Estatismo Militar de Tier B**. Tras ser expulsado de Facebook por sus vínculos políticos, ha transicionado de la **Realidad Virtual** (escapismo) a la **Defensa Autónoma** (control físico). En 2026, es la cara visible de un nacionalismo tecnológico que busca blindar a Occidente mediante una frontera automatizada y letal, operada por [[Anduril Industries]].
@@ -72,6 +70,7 @@ Luckey es un visionario que entiende que la única forma de evitar una guerra mu
 ¿Cuál es la relación real entre Luckey y los grupos de milicias privadas en EE.UU. que están siendo entrenados con tecnología de simulación de Anduril fuera del radar oficial?
 
 ---
-*Perfil forense v12_1 | El Arquitecto de la Frontera Digital*
+*Perfil forense TL V.2 | El Arquitecto de la Frontera Digital*
+
 
 

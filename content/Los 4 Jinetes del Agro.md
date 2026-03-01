@@ -1,15 +1,12 @@
 ---
+titulo: "Los 4 Jinetes Del Agro (Cartel ABCD): El Monopolio De La Comida"
+tipo: evento
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [abcd, cartel, comida, jinetes]
 publish: true
-created: 2026-01-29T19:17:22.923-03:00
-modified: 2026-02-27T13:23:16.073-03:00
-tags:
-  - abcd
-  - cartel
-  - comida
-  - jinetes
-cssclasses: ""
 ---
-
 # Los 4 Jinetes Del Agro (Cartel ABCD): El Monopolio De La Comida
 
 > [!ABSTRACT] Resumen de Inteligencia
@@ -37,7 +34,8 @@ Quien controla el petróleo controla las naciones, pero **quien controla la comi
 - **Contexto:** [[Ucrania]], [[Seguridad Alimentaria]], [[Monsanto (Bayer)]].
 - **Mecanismos:** [[Especulación de Commodities]], [[Soberanía Alimentaria]].
 
-**Estado:** Refactoreado a v2.0 - Framework de Cartelización Agraria.
+**Estado:** Refactoreado a TL V.2 - Framework de Cartelización Agraria.
+
 
 
 

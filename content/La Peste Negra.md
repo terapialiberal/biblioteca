@@ -1,5 +1,5 @@
 ---
-titulo: "La Peste Negra (v2.0): El Gran Reset De La Servidumbre"
+titulo: "La Peste Negra (TL V.2): El Gran Reset De La Servidumbre"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [negra, peste, renacimiento, servidumbre]
 publish: true
 ---
-# La Peste Negra (v2.0): El Gran Reset De La Servidumbre
+# La Peste Negra (TL V.2): El Gran Reset De La Servidumbre
 
 > [!ABSTRACT] Hipótesis Informativa
 > La Peste Negra constituyó el **cisne negro biológico que demolió la arquitectura de control de [[Tier A]] del Feudalismo**. Al aniquilar entre el 30% y el 60% de la población europea, la pandemia no solo provocó un colapso demográfico, sino que alteró fundamentalmente las **leyes de escasez del trabajo**. Por primera vez en la historia medieval, el individuo de [[Tier C]] adquirió un poder de negociación (leverage) superior al del señor feudal y la Iglesia, forzando la transición hacia una economía de salarios y propiedad privada, y sembrando las semillas de la soberanía individual que florecerían en el Renacimiento y la Revolución Industrial.
@@ -46,6 +46,7 @@ La Peste Negra fue el **"Incendio Forestal del Orden Medieval"**. Su importancia
 **Versión:** 2.0
 **Enfoque:** Destrucción del feudalismo por escasez de mano de obra, empoderamiento del campesinado frente a la élite y el fracaso de las primeras leyes de control de precios de Tier A.
 **Estado:** Refactorización Completa.
+
 
 
 

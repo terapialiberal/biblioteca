@@ -1,5 +1,5 @@
 ---
-titulo: "Programación Monarch (v2.0): La Mecanización Del Trauma"
+titulo: "Programación Monarch (TL V.2): La Mecanización Del Trauma"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [jeffrey, mecanizacin, monarch, trauma]
 publish: true
 ---
-# Programación Monarch (v2.0): La Mecanización Del Trauma
+# Programación Monarch (TL V.2): La Mecanización Del Trauma
 
 > [!ABSTRACT] Hipótesis Informativa
 > La Programación Monarch es la **técnica de fragmentación psíquica de [[Tier A]]** diseñada para crear "activos biológicos" (alters) totalmente compartimentados y controlables. Basada en el **Trastorno de Identidad Disociativo (TID)** inducido mediante traumas extremos (abuso ritual, tortura eléctrica, aislamiento), esta técnica permite que el individuo de **[[Tier B]]** (esclavos sexuales, asesinos, mensajeros) opere sin conciencia de sus actos hasta ser activado por "palabras gatillo". Monarch es la culminación del sueño tecnocrático: la conversión del ser humano en un hardware programable al servicio de la élite de la Matrix.
@@ -30,7 +30,7 @@ publish: true
 2.  **Activadores de Espejo**: Uso de espejos y laberintos para reforzar la fragmentación visual del "yo", impidiendo que la víctima reconstruya su identidad original.
 
 ## Conexiones Críticas
-- [[MK Ultra]]: El paraguas institucional de la investigación.
+- [[MKUltra\|MK Ultra]]: El paraguas institucional de la investigación.
 - [[Operación Paperclip]]: El origen de los científicos "programadores".
 - [[Cathy O'Brien]]: El testimonio más detallado de una sobreviviente de alto nivel.
 - [[Disney (Control Mental)]]: Por el uso recurrente de su iconografía en la programación infantil.
@@ -42,7 +42,8 @@ Programación Monarch es el recordatorio de que **el cuerpo puede ser una cárce
 ---
 **Versión:** 2.0
 **Enfoque:** Origen nazi de la técnica, uso de la disociación traumática para crear activos de inteligencia y el simbolismo monarca en la cultura pop.
-**Estado:** Refactoreado a v2.0 - Framework de Biopoder y Control Psíquico.
+**Estado:** Refactoreado a TL V.2 - Framework de Biopoder y Control Psíquico.
+
 
 
 

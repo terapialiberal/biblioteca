@@ -1,19 +1,16 @@
 ---
+titulo: 77th Brigade
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [77th, brigada, facebook, jtrig]
 publish: true
-created: 2026-01-29T19:17:05.901-03:00
-modified: 2026-02-27T13:22:08.169-03:00
-tags:
-  - 77th
-  - brigada
-  - facebook
-  - jtrig
-cssclasses: ""
 ---
-
 # 77th Brigade
 
 ## Resumen General
-La **77th Brigade** es una unidad del Ejército Británico creada en 2015, especializada en "guerra de información" y "guerra no letal". Su campo de batalla son las redes sociales (Twitter, [[Facebook (Orígenes)]]). Utilizan tácticas psicológicas para moldear narrativas, contrarrestar desinformación (o crearla) y atacar objetivos cognitivos. Durante la pandemia COVID-19, se reveló que monitoreaban y actuaban contra ciudadanos británicos críticos de las políticas de lockdown (Big Brother Watch).
+La **77th Brigade** es una unidad del Ejército Británico creada en 2015, especializada en "guerra de información" y "guerra no letal". Su campo de batalla son las redes sociales (Twitter, [[00_Glosario - Conceptos Fase 1#Facebook (Orígenes)\|Facebook (Orígenes)]]). Utilizan tácticas psicológicas para moldear narrativas, contrarrestar desinformación (o crearla) y atacar objetivos cognitivos. Durante la pandemia COVID-19, se reveló que monitoreaban y actuaban contra ciudadanos británicos críticos de las políticas de lockdown (Big Brother Watch).
 
 ## Análisis Terapia Liberal (Cui Bono)
 ### Tier A (Beneficiarios)

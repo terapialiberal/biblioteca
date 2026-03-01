@@ -1,15 +1,13 @@
 ---
+titulo: ALEX KARP (TL V.2)
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [alex, karp, palantir]
 publish: true
-created: 2026-01-29T19:17:03.238-03:00
-modified: 2026-02-27T13:21:58.471-03:00
-tags:
-  - alex
-  - karp
-  - palantir
-cssclasses: ""
 ---
-
-# ALEX KARP (v12_1)
+# ALEX KARP (TL V.2)
 
 #### BLUF
 Alex Karp es el cerebro operativo de la **Gobernanza de Datos del Tier B**. A través de [[Palantir]], ha integrado verticalmente la inteligencia estatal con el análisis predictivo. Karp no vende software; vende la capacidad de **Prevenir la Realidad** antes de que ocurra. En 2026, con Palantir AIP instalado en los núcleos de mando de la OTAN e Israel, Karp es el guardián de la "Verdad Algorítmica" necesaria para sostener el orden occidental.
@@ -72,6 +70,7 @@ Karp es un intelectual genuinamente preocupado por el colapso de las democracias
 ¿Cuál es la relación real de Alex Karp con las sociedades discretas europeas que están facilitando la entrada de Palantir en los sistemas de vigilancia de la UE a pesar de las leyes de privacidad?
 
 ---
-*Perfil forense v12_1 | El Guardián del Algoritmo del Estado*
+*Perfil forense TL V.2 | El Guardián del Algoritmo del Estado*
+
 
 

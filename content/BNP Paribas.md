@@ -24,7 +24,7 @@ publish: true
 ## Conexiones
 - Sistema bancario europeo
 - Sanciones de EEUU (las viola)
-- [[BCE]]
+- [[00_Glosario - Conceptos Fase 1#BCE\|BCE]]
 
 ## Fuentes
 - DOJ/OFAC settlements

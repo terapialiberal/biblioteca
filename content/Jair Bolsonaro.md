@@ -1,5 +1,5 @@
 ---
-titulo: "Jair Bolsonaro (v2.0): El Rompehielos Del Sistema"
+titulo: "Jair Bolsonaro (TL V.2): El Rompehielos Del Sistema"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [bolsonaro, brics, rompehielos, sistema]
 publish: true
 ---
-# Jair Bolsonaro (v2.0): El Rompehielos Del Sistema
+# Jair Bolsonaro (TL V.2): El Rompehielos Del Sistema
 
 > [!ABSTRACT] Hipótesis Informativa
 > Jair Bolsonaro no fue un "outsider", sino un **activo de Tier C instrumentalizado por el Tier B (Militar/Agro)** para ejecutar una demolición controlada del esquema de poder del PT. Su función histórica fue servir como "rompehielos" ideológico: utilizando una retórica hiper-conservadora, pavimentó el camino para la transferencia masiva de activos estratégicos al [[Tier A]] financiero (vía [[Paulo Guedes]]) y devolvió a los cuarteles la tutela política sobre el Estado brasileño bajo el disfraz del populismo democrático.
@@ -45,6 +45,7 @@ Jair Bolsonaro fue el **"Fusible del Sistema"**. Su rol fue absorber la rabia po
 **Versión:** 2.0
 **Enfoque:** Populismo de transición, tutela militar indirecta y la entrega de recursos estratégicos bajo retórica nacionalista.
 **Estado:** Refactorización Completa.
+
 
 
 

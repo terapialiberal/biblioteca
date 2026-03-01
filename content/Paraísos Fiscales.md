@@ -1,5 +1,5 @@
 ---
-titulo: "Paraísos Fiscales (EEUU) (v2.0): El Nuevo Refugio De La Cleptocracia"
+titulo: "Paraísos Fiscales (EEUU) (TL V.2): El Nuevo Refugio De La Cleptocracia"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [nuevo, panama, parasos, refugio]
 publish: true
 ---
-# Paraísos Fiscales (EEUU) (v2.0): El Nuevo Refugio De La Cleptocracia
+# Paraísos Fiscales (EEUU) (TL V.2): El Nuevo Refugio De La Cleptocracia
 
 > [!ABSTRACT] Hipótesis Informativa
 > Estados Unidos se ha convertido en el **Paraíso Fiscal Definitivo de [[Tier A]]**, superando a Suiza, Panamá e Islas Caimán en opacidad y protección legal. A través de estados como **South Dakota** (fideicomisos perpetuos) y **Delaware** (LLCs anónimas), EE.UU. permite que la élite global, dictadores y corporaciones oculten billones de dólares bajo la inmunidad del sistema legal americano. Mientras Washington impone leyes de transparencia al resto del mundo (FATCA), se niega a cumplir los estándares de reciprocidad internacional, consolidando un monopolio de la opacidad que le permite "importar el capital del mundo" y controlar los flujos de dinero del **[[Tier C]]** global.
@@ -38,7 +38,8 @@ Los Paraísos Fiscales en EE.UU. nos enseñan que **la moralidad financiera es u
 ---
 **Versión:** 2.0
 **Enfoque:** South Dakota y Delaware como los nuevos epicentros del secreto financiero global, la hipocresía de la OCDE/EE.UU. y el uso de los fideicomisos como herramientas de dinastía económica.
-**Estado:** Refactoreado a v2.0 - Framework de Geopolítica Financiera.
+**Estado:** Refactoreado a TL V.2 - Framework de Geopolítica Financiera.
+
 
 
 

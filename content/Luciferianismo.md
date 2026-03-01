@@ -1,15 +1,12 @@
 ---
+titulo: "Luciferianismo: El Inversionismo Moral De La Ã‰lite"
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [inversionismo, luciferianismo, lucis, transhumanismo]
 publish: true
-created: 2026-01-29T19:17:23.058-03:00
-modified: 2026-02-27T13:23:16.797-03:00
-tags:
-  - inversionismo
-  - luciferianismo
-  - lucis
-  - transhumanismo
-cssclasses: ""
 ---
-
 # Luciferianismo: El Inversionismo Moral De La Ã‰lite
 
 > [!ABSTRACT] Resumen de Inteligencia
@@ -33,10 +30,11 @@ El Luciferianismo es la psicología de quien se cree dueño de la granja. Si dio
 ## Conexiones De La Red
 - **Herederos:** [[Alice Bailey]], [[Manly P. Hall]], [[Albert Pike]].
 - **Instituciones:** [[Lucis Trust]], [[Masonería (Illuminati)]], [[Theosophical Society]].
-- **Proyecciones:** [[Transhumanismo]], [[Agenda 2030]], [[Nuevo Orden Mundial]].
+- **Proyecciones:** [[Transhumanismo]], [[Agenda 2030]], [[00_Glosario - Conceptos Fase 1#Nuevo Orden Mundial\|Nuevo Orden Mundial]].
 - **Conceptos:** [[Loosh]], [[Mentira Noble (Strauss)]].
 
-**Estado:** Refactoreado a v2.0 - Framework Esotérico-Praxeológico.
+**Estado:** Refactoreado a TL V.2 - Framework Esotérico-Praxeológico.
+
 
 
 

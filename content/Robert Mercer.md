@@ -1,5 +1,5 @@
 ---
-titulo: "Robert Mercer (v2.0): El Ingeniero De La Reingeniería Social"
+titulo: "Robert Mercer (TL V.2): El Ingeniero De La Reingeniería Social"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [ingeniero, reingeniera, renaissance, robert]
 publish: true
 ---
-# Robert Mercer (v2.0): El Ingeniero De La Reingeniería Social
+# Robert Mercer (TL V.2): El Ingeniero De La Reingeniería Social
 
 > [!ABSTRACT] Hipótesis Informativa
 > Robert Mercer es el **Operador de [[Tier A]]** que fusionó la superioridad algorítmica de los mercados financieros con la ingeniería del comportamiento político. Co-CEO de **[[Renaissance Technologies]]** (el hedge fund más exitoso de la historia), Mercer aplicó la misma lógica de "descifrado de patrones" para capturar la mente del votante de **[[Tier C]]**. Su función real fue el financiamiento y la exportación del modelo de guerra psicológica de **[[Cambridge Analytica]]**, demostrando que para la élite tecnocrática, la democracia no es un ejercicio de voluntad popular, sino un problema de optimización de datos y manipulación predictiva a gran escala.
@@ -39,7 +39,8 @@ Robert Mercer nos enseña que **quien entiende el algoritmo puede rediseñar la 
 ---
 **Versión:** 2.0
 **Enfoque:** Mercer como nexo entre la criptografía financiera de RenTech y la manipulación electoral de Cambridge Analytica, su rol en Breitbart y su visión del mundo basada en la optimización de datos.
-**Estado:** Refactoreado a v2.0 - Framework de Big Data y Guerra Psicológica.
+**Estado:** Refactoreado a TL V.2 - Framework de Big Data y Guerra Psicológica.
+
 
 
 

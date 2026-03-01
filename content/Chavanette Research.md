@@ -1,18 +1,16 @@
 ---
+titulo: Chavanette Research
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [banca, chavanette, research]
 publish: true
-created: 2026-02-09T17:33:31.573-03:00
-modified: 2026-02-27T13:22:18.622-03:00
-tags:
-  - banca
-  - chavanette
-  - research
-cssclasses: ""
 ---
-
 # [[Chavanette Research]]
 
 **Clasificación:** Tier B (Broker de Datos e Ingeniería de Percepción)  
-**Actores:** [[Banca Central]], Campañas Políticas, Grupos de Inteligencia.
+**Actores:** [[00_Glosario - Conceptos Fase 1#Banca Central\|Banca Central]], Campañas Políticas, Grupos de Inteligencia.
 
 ## 🦾 ANÁLISIS FORENSE
 **Chavanette Research** es el sucesor espiritual de Cambridge Analytica, pero con mayor sofisticación técnica. Se especializan en el mapeo de la "Opinión Pública Sintética" y la detección de riesgos sociales antes de que se manifiesten en la calle.

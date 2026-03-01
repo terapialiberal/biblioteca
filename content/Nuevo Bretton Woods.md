@@ -1,5 +1,5 @@
 ---
-titulo: "Nuevo Bretton Woods (v2.0): El Reinicio Del Software De La Deuda"
+titulo: "Nuevo Bretton Woods (TL V.2): El Reinicio Del Software De La Deuda"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [bretton, cbdc, deuda, software]
 publish: true
 ---
-# Nuevo Bretton Woods (v2.0): El Reinicio Del Software De La Deuda
+# Nuevo Bretton Woods (TL V.2): El Reinicio Del Software De La Deuda
 
 > [!ABSTRACT] Hipótesis Informativa
 > El Nuevo Bretton Woods no es una reforma económica, sino un **evento de liquidación sistémica**. El sistema de deuda infinita basado en el dólar (1971) ha alcanzado su límite matemático; el [[Tier A]] está gestionando un colapso controlado para forzar la migración hacia una infraestructura de **Dinero Programable (CBDC)** vinculada a la identidad digital y al crédito social. Es el paso de la "libertad de mercado" ilusoria al **Feudalismo Algorítmico**.
@@ -15,7 +15,7 @@ publish: true
 ## Análisis De Tiers
 
 ### Tier A: Los Liquidadores De Soberanía
-* **La Torre de Control de Basilea:** El [[BIS (Banco de Pagos Internacionales)]] emerge como el soberano absoluto del nuevo sistema. Mientras el dólar (Tier B imperial) se desvanece, el Tier A prepara una canasta de monedas digitales (o el oro tokenizado) para centralizar el flujo de capital mundial. La "multipolaridad" impulsada por los [[BRICS]] es la distracción necesaria para que el Tier C no vea que el software de control â€”las [[CBDC]]â€” es el mismo en Beijing que en Nueva York.
+* **La Torre de Control de Basilea:** El [[Banco de Pagos Internacionales\|BIS (Banco de Pagos Internacionales)]] emerge como el soberano absoluto del nuevo sistema. Mientras el dólar (Tier B imperial) se desvanece, el Tier A prepara una canasta de monedas digitales (o el oro tokenizado) para centralizar el flujo de capital mundial. La "multipolaridad" impulsada por los [[BRICS]] es la distracción necesaria para que el Tier C no vea que el software de control â€”las [[CBDC]]â€” es el mismo en Beijing que en Nueva York.
 * **El Dinero como Permiso:** En el Nuevo Bretton Woods, el dinero deja de ser un depósito de valor para convertirse en un **Vale de Consumo Programable**. El Tier A podrá incentivar o penalizar comportamientos en tiempo real (huella de carbono, cumplimiento de vacunas, discurso online) bloqueando la capacidad transaccional del individuo.
 
 ### Tier B: Los Administradores Del Caos
@@ -32,7 +32,7 @@ publish: true
 3. **Crédito Social Financiero**: La fusión de los datos de comportamiento con la capacidad de gasto. Si tu opinión no se alinea con la agenda del Tier A, tu dinero simplemente "deja de funcionar" para ciertos productos o regiones.
 
 ## Conexiones Críticas
-- [[BIS (Banco de Pagos Internacionales)]]: El banco de bancos y cerebro del reset.
+- [[Banco de Pagos Internacionales\|BIS (Banco de Pagos Internacionales)]]: El banco de bancos y cerebro del reset.
 - [[CBDC (Moneda Digital de Banco Central)]]: La cadena electrónica que reemplaza al efectivo.
 - [[Agenda 2030]]: El marco de justificación "moral" para el racionamiento financiero.
 - [[Desdolarización]]: El proceso de demolición del viejo orden para dar paso al nuevo.
@@ -45,6 +45,7 @@ El Nuevo Bretton Woods es el **Tratado de Versalles del Individuo Soberano**. No
 **Versión:** 2.0
 **Enfoque:** Transición monetaria, fin del petrodólar y establecimiento del control digital total por bancos centrales.
 **Estado:** Refactorización Completa.
+
 
 
 

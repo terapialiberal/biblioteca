@@ -1,5 +1,5 @@
 ---
-titulo: "Sergio Massa (v2.0): El Prestidigitador De La Decadencia Argentina"
+titulo: "Sergio Massa (TL V.2): El Prestidigitador De La Decadencia Argentina"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [argentina, decadencia, embajada, prestidigitador]
 publish: true
 ---
-# Sergio Massa (v2.0): El Prestidigitador De La Decadencia Argentina
+# Sergio Massa (TL V.2): El Prestidigitador De La Decadencia Argentina
 
 > [!ABSTRACT] Hipótesis Informativa
 > Sergio Massa es el **Operador de [[Tier B]]** definitivo de la política argentina, caracterizado por una flexibilidad ideológica absoluta que le permite actuar como puente entre el peronismo kirchnerista, el establishment corporativo local y los intereses de **[[Wall Street]]**. Su función real en la Matrix ha sido la de un **"Administrador de la Agonía Sistémica"**: utilizar su control sobre la caja del Estado y sus vínculos con la **[[Embajada de EE.UU.]]** para postergar el colapso económico mediante parches financieros (como el "Dólar Soja"), mientras construía una red de poder personal basada en el intercambio de favores con el Círculo Rojo y los medios de comunicación masivos.
@@ -30,7 +30,7 @@ publish: true
 
 ## Conexiones Críticas
 - [[José Luis Manzano]] / [[Daniel Vila]]: Sus principales sostenes en el ámbito de los medios y la energía.
-- [[Kirchnerismo]]: La estructura de la que renegó y a la que terminó fagocitando.
+- [[00_Glosario - Conceptos Fase 1#Kirchnerismo\|Kirchnerismo]]: La estructura de la que renegó y a la que terminó fagocitando.
 - [[FMI]]: El organismo con el que negoció la supervivencia del modelo.
 - [[MBS (Dólar Soja)]]: Su principal mecanismo de captura de reservas de corto plazo.
 - [[Jorge Brito]]: Su nexo histórico con la banca privada nacional.
@@ -41,7 +41,8 @@ Sergio Massa nos enseña que **dentro de la Matrix política, el cinismo es una 
 ---
 **Versión:** 2.0
 **Enfoque:** Massa como operador transversal de la política argentina, su rol en la gestión de la crisis económica 2022-2023, sus vínculos con el establishment económico y la Embajada de EE.UU., y el uso del "Plan Platita" como herramienta de manipulación electoral de Tier C.
-**Estado:** Refactoreado a v2.0 - Framework de Operaciones Políticas y Gestión de Crisis.
+**Estado:** Refactoreado a TL V.2 - Framework de Operaciones Políticas y Gestión de Crisis.
+
 
 
 

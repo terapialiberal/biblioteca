@@ -1,5 +1,5 @@
 ---
-titulo: "Sociedad De Peregrinos (v2.0): El Núcleo De La Relación Especial"
+titulo: "Sociedad De Peregrinos (TL V.2): El Núcleo De La Relación Especial"
 tipo: organizacion
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [especial, ncleo, peregrinos, sociedad]
 publish: true
 ---
-# Sociedad De Peregrinos (v2.0): El Núcleo De La Relación Especial
+# Sociedad De Peregrinos (TL V.2): El Núcleo De La Relación Especial
 
 > [!ABSTRACT] Hipótesis Informativa
 > La Sociedad de Peregrinos (Pilgrims Society) es la **Organización Matriz de [[Tier A]]** que cementa la alianza inquebrantable entre las élites financieras de la City de Londres y Wall Street. Fundada en 1902 para "promover la paz eterna y la amistad" entre EE.UU. y Gran Bretaña, su función real en la Matrix es la de un **"Consejo Superior del Imperio Anglo-Americano"**: un club exclusivo donde la aristocracia británica y la realeza (Windsor) se fusionan con las dinastías bancarias estadounidenses (Rockefeller, Morgan) para coordinar la política exterior global, la hegemonía monetaria y la gestión del **[[SDS (Supranational Deep State)]]**. Es la organización madre de la que descienden el **[[CFR]]** y **[[Chatham House]]**.
@@ -41,7 +41,8 @@ La Sociedad de Peregrinos nos enseña que **las fronteras son para el Tier C, mi
 ---
 **Versión:** 2.0
 **Enfoque:** Los Pilgrims como organización matriz de la élite anglo-estadounidense, su rol en la creación del CFR y Chatham House, el patronato de la realeza y la presidencia, y su función en la alineación geopolítica de la "Relación Especial" sobre el interés de las poblaciones de Tier C.
-**Estado:** Refactoreado a v2.0 - Framework de Aristocracia Financiera y Geopolítica Transatlántica.
+**Estado:** Refactoreado a TL V.2 - Framework de Aristocracia Financiera y Geopolítica Transatlántica.
+
 
 
 

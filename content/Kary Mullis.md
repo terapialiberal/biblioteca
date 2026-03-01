@@ -1,5 +1,5 @@
 ---
-titulo: "Kary Mullis (v2.0): El Saboteador Técnico Del Relato Pandémico"
+titulo: "Kary Mullis (TL V.2): El Saboteador Técnico Del Relato Pandémico"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [mullis, relato, saboteador, tcnico]
 publish: true
 ---
-# Kary Mullis (v2.0): El Saboteador Técnico Del Relato Pandémico
+# Kary Mullis (TL V.2): El Saboteador Técnico Del Relato Pandémico
 
 > [!ABSTRACT] Hipótesis Informativa
 > Kary Mullis fue el **propietario intelectual del arma de doble filo más poderosa del siglo XXI: la PCR**. Su invención permitió la decodificación masiva de la vida, pero también proporcionó al [[Tier A]] la herramienta necesaria para fabricar "casos" mediante la amplificación infinita de ruido biológico. Mullis actuó como el **saboteador interno del sistema de bioseguridad**, denunciando la corrupción de operadores de [[Tier B]] como **[[Anthony Fauci]]** y advirtiendo que su tecnología estaba siendo utilizada para el fraude diagnóstico. Su muerte, ocurrida meses antes de la operación [[COVID-19]], eliminó la única voz de autoridad técnica capaz de desarticular el "estándar de oro" del miedo global.
@@ -45,6 +45,7 @@ Kary Mullis fue el **"Prometeo que intentó apagar su propio fuego"** al ver que
 **Versión:** 2.0
 **Enfoque:** Crítica a Fauci, advertencia sobre el uso diagnóstico de la PCR y su rol como científico Nobel independiente frente a la burocracia estatal.
 **Estado:** Refactorización Completa.
+
 
 
 

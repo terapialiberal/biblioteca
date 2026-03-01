@@ -1,16 +1,13 @@
 ---
+titulo: 15-MINUTE CITIES (TL V.2)
+tipo: persona
+fecha: 2026-02-25
+tier-primario: a
+nivel-evidencia: medio
+tags: [archipilago, oxford, urbana, vigilancia]
 publish: true
-created: 2026-02-25T14:13:31.339-03:00
-modified: 2026-02-27T13:21:56.751-03:00
-tags:
-  - archipilago
-  - oxford
-  - urbana
-  - vigilancia
-cssclasses: ""
 ---
-
-# 15-MINUTE CITIES (v12_1)
+# 15-MINUTE CITIES (TL V.2)
 
 #### BLUF
 Las "Ciudades de 15 Minutos" son la herramienta de **Control Territorial** del **Tier A** (C40/WEF) para fragmentar las ciudades en burbujas logísticamente manejables. Bajo la coartada de la "sustentabilidad", se implementa una infraestructura de **geofencing digital** (ANPR + Mobility Credits) para restringir el movimiento físico de la población.
@@ -73,6 +70,7 @@ Es simplemente urbanismo clásico mejorado. Las ciudades congestionadas son invi
 ¿Cuál es la conexión exacta entre los proveedores de cámaras (Dahua/Hikvision/Siemens) y los fondos de inversión de Tier A que financian las campañas de los alcaldes de C40?
 
 ---
-*Versión: 1.0 (v12_1) | Dossier de Control Territorial*
+*Versión: 1.0 (TL V.2) | Dossier de Control Territorial*
+
 
 

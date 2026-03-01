@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:07.150-03:00
-modified: 2026-02-27T13:06:40.299-03:00
+modified: 2026-02-27T13:07:03.091-03:00
 tags:
   - cellebrite
   - surveillance

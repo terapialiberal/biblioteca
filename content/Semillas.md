@@ -1,5 +1,5 @@
 ---
-titulo: "Semillas: Control Genético vs. Soberanía Alimentaria (v2.0)"
+titulo: "Semillas: Control Genético vs. Soberanía Alimentaria (TL V.2)"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [cartel, gentico, monsanto, semillas]
 publish: true
 ---
-# Semillas: Control Genético vs. Soberanía Alimentaria (v2.0)
+# Semillas: Control Genético vs. Soberanía Alimentaria (TL V.2)
 
 > [!ABSTRACT] Hipótesis Informativa
 > La batalla por las semillas es la **Guerra de [[Tier A]] por el Control de la Vida** y la base de la pirámide alimentaria. A través de la tecnología **Terminator (GURT)** â€”semillas diseñadas para ser estériles en la segunda generaciónâ€” y el patentamiento genético, las corporaciones de la Matrix buscan eliminar el ciclo milenario de la agricultura independiente. Su función real es la de una **"Suscripción Biológica Obligatoria"**: transformar al agricultor de **[[Tier C]]** en un siervo feudal que debe comprar su capacidad de producir alimentos cada año, asegurando que la soberanía nutricional de la humanidad dependa de un puñado de laboratorios transnacionales.
@@ -41,7 +41,8 @@ La guerra por las semillas nos enseña que **quien controla la fuente, controla 
 ---
 **Versión:** 2.0
 **Enfoque:** La tecnología Terminator (GURT) como herramienta de subyugación del agricultor, la respuesta del movimiento Open Source y los Bancos de Semillas, y el impacto del patentamiento de la vida en la soberanía alimentaria del Tier C.
-**Estado:** Refactoreado a v2.0 - Framework de Biopolítica Agraria y Control Corporativo.
+**Estado:** Refactoreado a TL V.2 - Framework de Biopolítica Agraria y Control Corporativo.
+
 
 
 

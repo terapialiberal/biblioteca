@@ -1,5 +1,5 @@
 ---
-titulo: "La Cámpora (v2.0): La Maquinaria De Colonización Estatal"
+titulo: "La Cámpora (TL V.2): La Maquinaria De Colonización Estatal"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [colonizacin, cristina, estatal, mximo]
 publish: true
 ---
-# La Cámpora (v2.0): La Maquinaria De Colonización Estatal
+# La Cámpora (TL V.2): La Maquinaria De Colonización Estatal
 
 > [!ABSTRACT] Hipótesis Informativa
 > La Cámpora constituye la **agencia de inteligencia y extracción financiera de [[Tier B]] del proyecto kirchnerista**. Su función operativa no es el activismo social, sino el **"copamiento" sistemático de los nodos de liquidez del Estado** (ANSES, PAMI, YPF, Aerolíneas). A través del entrismo institucional, la organización ha construido un **Estado Paralelo** capaz de autofinanciarse y resistir la alternancia democrática, utilizando la "militancia" como una capa de legitimidad para una burocracia prebendaria que garantiza la impunidad de la familia Kirchner y el control territorial mediante el clientelismo de alta gama.
@@ -45,6 +45,7 @@ La Cámpora es el **"Gendarme de la Caja"**. Su importancia reside en haber prof
 **Versión:** 2.0
 **Enfoque:** Captura de organismos con presupuestos masivos para el financiamiento de la estructura política, creación de una burocracia militante y el rol de la organización como guardia pretoriana del kirchnerismo dinástico.
 **Estado:** Refactorización Completa.
+
 
 
 

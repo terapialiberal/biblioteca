@@ -1,16 +1,13 @@
 ---
+titulo: LAB-GROWN MEAT (TL V.2)
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "a"
+nivel-evidencia: "alto"
+tags: [bill, grown, meat, protena]
 publish: true
-created: 2026-02-25T15:44:51.382-03:00
-modified: 2026-02-27T13:23:10.319-03:00
-tags:
-  - bill
-  - grown
-  - meat
-  - protena
-cssclasses: ""
 ---
-
-# LAB-GROWN MEAT (v12_1)
+# LAB-GROWN MEAT (TL V.2)
 
 #### BLUF
 La carne de laboratorio (cultivada) es el vehículo para la **Desposesión de la Tierra** y la **Captura del Metabolismo**. En 2026, bajo la bandera de la "Sostenibilidad ESG", se están implementando regulaciones que asfixian a la ganadería tradicional para forzar la adopción de proteínas sintéticas patentables. No es una alternativa ética; es la transición de un sistema de producción descentralizado (granjeros) a uno centralizado en biorreactores controlados por el **Tier A**.
@@ -73,6 +70,7 @@ Es una innovación necesaria. El sistema de cría intensiva de animales es inefi
 ¿Cuál es la relación real entre los "carbohidratos refinados" obligatorios para alimentar los tanques de cultivo de carne y la industria del azúcar controlada por el mismo Tier A?
 
 ---
-*Dossier forense v12_1 | El Control de la Cadena Trófica*
+*Dossier forense TL V.2 | El Control de la Cadena Trófica*
+
 
 

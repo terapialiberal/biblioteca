@@ -30,7 +30,7 @@ publish: true
 ## Conexiones Clave
 - [[Victoria Nuland]] (La arquitecta operativa)
 - [[NED (National Endowment for Democracy)]] (La billetera del golpe)
-- [[Revoluciones de Color]] (La técnica de Tier B)
+- [[Revolución de Color\|Revoluciones de Color]] (La técnica de Tier B)
 - [[Gran Juego (The Great Game)]] (El marco estratégico)
 
 ## Por Qué Importa (Estilo Nico)

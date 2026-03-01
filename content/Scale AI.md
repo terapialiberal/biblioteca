@@ -1,5 +1,5 @@
 ---
-titulo: "Scale AI (v2.0): La Fábrica De Datos De La Matrix Militar"
+titulo: "Scale AI (TL V.2): La Fábrica De Datos De La Matrix Militar"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [fbrica, matrix, openai, scale]
 publish: true
 ---
-# Scale AI (v2.0): La Fábrica De Datos De La Matrix Militar
+# Scale AI (TL V.2): La Fábrica De Datos De La Matrix Militar
 
 > [!ABSTRACT] Hipótesis Informativa
 > Scale AI es la **Infraestructura Logística de [[Tier B]]** encargada de preparar el "alimento" (datos etiquetados) para los modelos de Inteligencia Artificial más avanzados del mundo. Fundada por Alexandr Wang, su función real es la de un **"Agente de Traducción de Realidad a Algoritmo"**: convierte imágenes de satélites, texto y video en datos estructurados que permiten al **[[Pentágono]]** y a empresas como **[[OpenAI]]** automatizar el reconocimiento de objetivos y la toma de decisiones. Scale AI es el eslabón necesario para la militarización de la IA, utilizando una fuerza laboral globalizada de **[[Tier C]]** para entrenar a los sistemas que eventualmente centralizarán el poder del **[[Tier A]]**.
@@ -38,7 +38,8 @@ Scale AI nos enseña que **la IA no es mágica, es trabajo humano procesado**. N
 ---
 **Versión:** 2.0
 **Enfoque:** Scale AI como proveedor crítico de datos para IA militar (Pentágono) y comercial (OpenAI), el rol del etiquetado humano masivo en países en desarrollo y la consolidación del monopolio de datos en el Tier B.
-**Estado:** Refactoreado a v2.0 - Framework de Logística de IA y Complejo Militar-Industrial.
+**Estado:** Refactoreado a TL V.2 - Framework de Logística de IA y Complejo Militar-Industrial.
+
 
 
 

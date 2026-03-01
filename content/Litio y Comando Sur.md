@@ -10,7 +10,7 @@ publish: true
 # âš”ï¸ Litio Y Comando Sur: La Militarización De Los Recursos
 
 > [!ABSTRACT] Resumen de Inteligencia
-> Las declaraciones frontales de la General [[Laura Richardson]] (Jefa del Comando Sur de EE.UU.) sobre el "Triángulo del Litio" marcan el fin de la sutileza diplomática. El Pentágono ha identificado explícitamente los recursos naturales de Sudamérica (agua, litio, petróleo) como de vital importancia para la **Seguridad Nacional de EE.UU.** ante el avance de China y Rusia. Esto posiciona al litio no como un bien de mercado, sino como un **Activo Estratégico de Guerra** bajo la tutela directa del aparato militar de **Tier B**.
+> Las declaraciones frontales de la General [[00_Glosario - Conceptos Fase 1#Laura Richardson\|Laura Richardson]] (Jefa del Comando Sur de EE.UU.) sobre el "Triángulo del Litio" marcan el fin de la sutileza diplomática. El Pentágono ha identificado explícitamente los recursos naturales de Sudamérica (agua, litio, petróleo) como de vital importancia para la **Seguridad Nacional de EE.UU.** ante el avance de China y Rusia. Esto posiciona al litio no como un bien de mercado, sino como un **Activo Estratégico de Guerra** bajo la tutela directa del aparato militar de **Tier B**.
 
 ## Análisis De Poder (Matrix)
 
@@ -28,12 +28,13 @@ Cuando una General de cuatro estrellas habla de "nuestros recursos" refiriéndos
 ---
 
 ## Conexiones De La Red
-- **El Actor Clave:** [[Laura Richardson]], [[Comando Sur (SOUTHCOM)]].
-- **El Recurso:** [[Litio en Jujuy (Livent)]], [[Triángulo del Litio]], [[Acuífero Guaraní]].
+- **El Actor Clave:** [[00_Glosario - Conceptos Fase 1#Laura Richardson\|Laura Richardson]], [[Comando Sur (SOUTHCOM)]].
+- **El Recurso:** [[00_Glosario - Conceptos Fase 1#Litio en Jujuy (Livent)\|Litio en Jujuy (Livent)]], [[Triángulo del Litio]], [[Acuífero Guaraní]].
 - **La Amenaza:** [[China]], [[Rusia]], [[BRICS]].
 - **Conceptos:** [[Doctrina Monroe 2.0]], [[Soberanía de Recursos]].
 
-**Estado:** Refactoreado a v2.0 - Framework de Geopolítica Militar.
+**Estado:** Refactoreado a TL V.2 - Framework de Geopolítica Militar.
+
 
 
 

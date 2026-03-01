@@ -1,5 +1,5 @@
 ---
-titulo: "Siembra De Nubes (v2.0): La Arquitectura Del Robo Pluvial Geopolítico"
+titulo: "Siembra De Nubes (TL V.2): La Arquitectura Del Robo Pluvial Geopolítico"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [clima, geopoltico, pluvial, siembra]
 publish: true
 ---
-# Siembra De Nubes (v2.0): La Arquitectura Del Robo Pluvial Geopolítico
+# Siembra De Nubes (TL V.2): La Arquitectura Del Robo Pluvial Geopolítico
 
 > [!ABSTRACT] Hipótesis Informativa
 > La Siembra de Nubes (Cloud Seeding) es la **Tecnología de Intervención Atmosférica de [[Tier B]]** que permite la manipulación deliberada de las precipitaciones mediante la dispersión de sustancias químicas (yoduro de plata, sal) en las nubes. Si bien se presenta como una solución científica a las sequías, su función real en la Matrix es la de un **"Mecanismo de Arbitraje Hídrico"**: permite que las naciones con mayor capacidad técnica capturen la humedad atmosférica que el ciclo hidrológico natural destinaba a otras regiones. La siembra de nubes es la base de la **Guerra Climática Silenciosa**, transformando la lluvia en un activo soberano que el **[[Tier A]]** puede redistribuir según sus intereses económicos y estratégicos.
@@ -41,7 +41,8 @@ La Siembra de Nubes nos enseña que **el cielo ya no es un espacio común, sino 
 ---
 **Versión:** 2.0
 **Enfoque:** La siembra de nubes como tecnología de geoingeniería local, su uso sistemático en China y EAU, las implicaciones geopolíticas del "robo de lluvia", el antecedente militar de la Operación Popeye y el impacto de la manipulación climática en el Tier C.
-**Estado:** Refactoreado a v2.0 - Framework de Clima y Poder Geopolítico.
+**Estado:** Refactoreado a TL V.2 - Framework de Clima y Poder Geopolítico.
+
 
 
 

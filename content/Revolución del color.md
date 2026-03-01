@@ -1,5 +1,5 @@
 ---
-titulo: 'Revolución Del Color (v2.0): La Tecnología Del Cambio De Régimen "Blando"'
+titulo: 'Revolución Del Color (TL V.2): La Tecnología Del Cambio De Régimen "Blando"'
 tipo: evento
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [color, gene, revolucin, usaid]
 publish: true
 ---
-# Revolución Del Color (v2.0): La Tecnología Del Cambio De Régimen "Blando"
+# Revolución Del Color (TL V.2): La Tecnología Del Cambio De Régimen "Blando"
 
 > [!ABSTRACT] Hipótesis Informativa
 > La Revolución del color es la **Metodología de Guerra Híbrida de [[Tier A]]** diseñada para derrocar gobiernos soberanos mediante la simulación de levantamientos populares espontáneos. Utilizando el manual de tácticas no-violentas de **[[Gene Sharp]]**, el financiamiento masivo de ONGs de fachada (**[[NED]]**, **[[USAID]]**) y la amplificación algorítmica en redes sociales, estas operaciones logran la transferencia de poder hacia élites pro-globalistas sin necesidad de una invasión militar directa. Su función real es la **Neutralización de la Soberanía Nacional**, transformando el legítimo descontento del **[[Tier C]]** en un arma de ingeniería geopolítica que siempre resulta en la captura de recursos y el alineamiento con la Matrix financiera internacional.
@@ -29,7 +29,7 @@ publish: true
 - [[NED (National Endowment for Democracy)]]: El brazo de "poder blando" que financia el cambio.
 - [[Gene Sharp]]: El ideólogo técnico de la no-violencia como arma de guerra.
 - [[George Soros]]: El principal arquitecto financiero de la infraestructura de ONGs.
-- [[Primavera Árabe]]: El mayor experimento de aplicación simultánea de este modelo.
+- [[Primaveras Árabes\|Primavera Árabe]]: El mayor experimento de aplicación simultánea de este modelo.
 - [[Gladio 3.0]]: La evolución de estas redes hacia la insurgencia armada cuando el "golpe suave" falla.
 - [[Revolución de Color (Doméstica)]]: El retorno de estas técnicas al interior de EE.UU.
 
@@ -39,7 +39,8 @@ La Revolución del color nos enseña que **la calle puede estar llena de gente, 
 ---
 **Versión:** 2.0
 **Enfoque:** El modelo técnico de Gene Sharp, el rol del NED y Soros en la creación de "sociedades civiles" artificiales y la función geopolítica de rodear a rivales estratégicos.
-**Estado:** Refactoreado a v2.0 - Framework de Geopolítica y Guerra Híbrida.
+**Estado:** Refactoreado a TL V.2 - Framework de Geopolítica y Guerra Híbrida.
+
 
 
 

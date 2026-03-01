@@ -1,16 +1,13 @@
 ---
+titulo: SOCIAL CREDIT WEST (TL V.2)
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "a"
+nivel-evidencia: "alto"
+tags: [bajo, credit, disfraz, sector]
 publish: true
-created: 2026-02-25T16:10:42.672-03:00
-modified: 2026-02-27T13:23:58.036-03:00
-tags:
-  - bajo
-  - credit
-  - disfraz
-  - sector
-cssclasses: ""
 ---
-
-# SOCIAL CREDIT WEST (v12_1)
+# SOCIAL CREDIT WEST (TL V.2)
 
 #### BLUF
 El Crédito Social Occidental es la **Versión Privatizada del Modelo Chino**. Mientras que en Oriente el Estado es el juez, en Occidente el sistema es implementado por el **Tier A Corporativo** a través de la integración de métricas ESG, identidades digitales y historiales de consumo. En 2026, tu capacidad de alquilar una casa, acceder a un seguro de salud o viajar no depende de tu saldo bancario, sino de tu **Puntaje de Cumplimiento Narrativo**, un índice invisible que mide tu lealtad a los objetivos de la tecnocracia global.
@@ -73,6 +70,7 @@ Es la única forma de gestionar una sociedad global de 8 mil millones de persona
 ¿Cuál es la relación real entre los algoritmos de crédito social y los sistemas de "seguro de salud dinámico" que ajustan la insulina según los likes del usuario en posts de "comida saludable" en 2026?
 
 ---
-*Dossier forense v12_1 | La Tiranía del Puntaje Invisible*
+*Dossier forense TL V.2 | La Tiranía del Puntaje Invisible*
+
 
 

@@ -1,15 +1,12 @@
 ---
+titulo: "Petrodólar: El Trono Del Dólar Estadounidense"
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [arabia, dlar, reserva, trono]
 publish: true
-created: 2026-01-29T19:17:30.476-03:00
-modified: 2026-02-27T13:23:40.269-03:00
-tags:
-  - arabia
-  - dlar
-  - reserva
-  - trono
-cssclasses: ""
 ---
-
 # Petrodólar: El Trono Del Dólar Estadounidense
 
 > [!ABSTRACT] Hipótesis Informativa
@@ -28,8 +25,8 @@ cssclasses: ""
 2. **Reciclaje de Petrodólares:** Inversión de excedentes en deuda estadounidense (Treasuries).
 
 ## Conexiones Críticas
-- [[Arabia Saudita]]: Garante clave del sistema.
-- [[Reserva Federal (Fed)]]: Emisor del dólar respaldado por petróleo.
+- [[00_Glosario - Conceptos Fase 1#Arabia Saudita\|Arabia Saudita]]: Garante clave del sistema.
+- [[00_Glosario - Conceptos Fase 1#Reserva Federal (Fed)\|Reserva Federal (Fed)]]: Emisor del dólar respaldado por petróleo.
 
 ## Conclusión Del Análisis
 El petrodólar es el mecanismo que convierte al dólar en moneda de reserva global forzada, permitiendo a EE.UU. exportar inflación y financiar déficits infinitos.

@@ -1,15 +1,12 @@
 ---
+titulo: Floración De Algas Nocivas (Bio-Señales)
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [algas, fertilizantes, guerra, nocivas]
 publish: true
-created: 2026-01-29T19:17:13.820-03:00
-modified: 2026-02-27T13:22:44.174-03:00
-tags:
-  - algas
-  - fertilizantes
-  - guerra
-  - nocivas
-cssclasses: ""
 ---
-
 # Floración De Algas Nocivas (Bio-Señales)
 
 ## Perfil TL (Resumen Ejecutivo)
@@ -31,7 +28,7 @@ cssclasses: ""
 
 ## Conexiones Clave
 - [[Fertilizantes y Fósforo (Seguridad Alimentaria)]] (El origen técnico)
-- [[Monsanto / Bayer]] (Los emisores de precursores)
+- [[00_Glosario - Conceptos Fase 1#Monsanto / Bayer\|Monsanto / Bayer]] (Los emisores de precursores)
 - [[Ecología Real vs Agenda 2030]] (La manipulación de la respuesta)
 - [[Sargazo]] (La manifestación masiva en el Caribe)
 

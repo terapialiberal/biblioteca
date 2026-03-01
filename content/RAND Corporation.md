@@ -1,5 +1,5 @@
 ---
-titulo: "RAND Corporation (v2.0): El Laboratorio De La Destrucción Racional"
+titulo: "RAND Corporation (TL V.2): El Laboratorio De La Destrucción Racional"
 tipo: empresa
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [complejo, destruccin, laboratorio, racional]
 publish: true
 ---
-# RAND Corporation (v2.0): El Laboratorio De La Destrucción Racional
+# RAND Corporation (TL V.2): El Laboratorio De La Destrucción Racional
 
 > [!ABSTRACT] Hipótesis Informativa
 > RAND Corporation es la **Matriz de Pensamiento de [[Tier A]]** que diseñó la lógica de la Guerra Fría y la estructura del dominio global de EE.UU. Nacida de la fusión entre la industria aeroespacial y la inteligencia militar post-WWII, RAND es donde la **Tecnocracia** se convirtió en el método supremo de gobierno. A través del desarrollo de la **Teoría de Juegos** y la doctrina de la **Destrucción Mutua Asegurada (MAD)**, RAND deshumanizó la geopolítica, reduciendo la supervivencia humana de **[[Tier C]]** a una variable en una ecuación de costo-beneficio militar, sentando las bases de la automatización del control que hoy vemos en la IA de vigilancia.
@@ -29,7 +29,7 @@ publish: true
 - [[Complejo Militar-Industrial]]: Su creador y financiador principal.
 - [[Pentágono]]: Su cliente número uno.
 - [[Herman Kahn]]: El estratega nuclear definitivo.
-- [[DARPA]]: Su socio en la ejecución técnica de los planes de RAND.
+- [[DARPA\|Darpa]]: Su socio en la ejecución técnica de los planes de RAND.
 - [[Teoría de Juegos]]: El marco matemático de su análisis.
 - [[Comisión Trilateral]]: Donde los planes de RAND se globalizan.
 
@@ -39,7 +39,8 @@ RAND Corporation nos enseña que **el poder moderno no se ejerce con la fuerza, 
 ---
 **Versión:** 2.0
 **Enfoque:** La invención de la estrategia nuclear MAD, la creación de la infraestructura de Internet para fines militares y el rol de RAND como el cerebro tecnocrático de la élite globalista.
-**Estado:** Refactoreado a v2.0 - Framework de Arquitectura de Poder y Tecnocracia.
+**Estado:** Refactoreado a TL V.2 - Framework de Arquitectura de Poder y Tecnocracia.
+
 
 
 

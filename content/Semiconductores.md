@@ -1,5 +1,5 @@
 ---
-titulo: "Semiconductores: El Escudo De Silicio (v2.0): El Cuello De Botella Del Cerebro Global"
+titulo: "Semiconductores: El Escudo De Silicio (TL V.2): El Cuello De Botella Del Cerebro Global"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [cuello, escudo, semiconductores, silicio]
 publish: true
 ---
-# Semiconductores: El Escudo De Silicio (v2.0): El Cuello De Botella Del Cerebro Global
+# Semiconductores: El Escudo De Silicio (TL V.2): El Cuello De Botella Del Cerebro Global
 
 > [!ABSTRACT] Hipótesis Informativa
 > Los Semiconductores de vanguardia son el **Recurso Estratégico de [[Tier A]]** más crítico del siglo XXI, desplazando al petróleo como motor de la hegemonía mundial. La concentración del **90%** de la fabricación de chips de alta gama en una sola empresa, **[[TSMC]]** en Taiwán, ha creado el **"Escudo de Silicio"**: una situación de dependencia mutua donde EE.UU. debe defender a la isla y China no puede destruirla sin colapsar su propia economía. Su función real es la de un **"Estrangulador de Desarrollo Algorítmico"**: quien controle los chips de nanómetros inferiores controla el avance de la **[[AGI]]** y, por ende, el destino de la soberanía computacional de la especie.
@@ -32,7 +32,7 @@ publish: true
 - [[TSMC]]: La catedral del silicio moderno.
 - [[AGI]]: El objetivo final que requiere estos chips.
 - [[ASML]]: La empresa holandesa que posee el monopolio de las máquinas de fabricar chips.
-- [[Nvidia]]: La empresa de Tier B que diseña los planos del cerebro de la IA.
+- [[Nvidia\|NVIDIA]]: La empresa de Tier B que diseña los planos del cerebro de la IA.
 - [[Trampa de Tucídides (Poder Ascendente vs Dominante)]]: El marco histórico del conflicto EE.UU.-China por los chips.
 - [[Samsung]]: El único competidor real de Tier B que aún respira.
 
@@ -42,7 +42,8 @@ Los Semiconductores nos enseñan que **en la era digital, la geografía sigue si
 ---
 **Versión:** 2.0
 **Enfoque:** La importancia geopolítica de los chips de alta gama, el monopolio de TSMC y ASML, la teoría del Escudo de Silicio y la función de los semiconductores como el cuello de botella físico para el desarrollo de la IA y el control militar global.
-**Estado:** Refactoreado a v2.0 - Framework de Geopolítica Tecnológica y Guerra de Hardware.
+**Estado:** Refactoreado a TL V.2 - Framework de Geopolítica Tecnológica y Guerra de Hardware.
+
 
 
 

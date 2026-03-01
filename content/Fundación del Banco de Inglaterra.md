@@ -1,15 +1,12 @@
 ---
+titulo: Fundación Del Banco De Inglaterra
+tipo: organizacion
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [banco, fundacin, inglaterra, reserva]
 publish: true
-created: 2026-01-29T19:17:14.440-03:00
-modified: 2026-02-27T13:06:24.312-03:00
-tags:
-  - banco
-  - fundacin
-  - inglaterra
-  - reserva
-cssclasses: ""
 ---
-
 # Fundación Del Banco De Inglaterra
 
 ## Perfil TL (Resumen Ejecutivo)
@@ -34,7 +31,7 @@ cssclasses: ""
 - [[Reserva Federal (FED)]] (Su copia más potente en EE.UU.)
 - [[City de Londres]] (Su hogar geográfico y legal)
 - [[Deuda Eterna / Patrón Deuda]] (El sistema que inició)
-- [[Dinero Fiat]] (La evolución final de este modelo)
+- [[00_Glosario - Conceptos Fase 1#Dinero Fiat\|Dinero Fiat]] (La evolución final de este modelo)
 
 ## Por Qué Importa (Estilo Nico)
 

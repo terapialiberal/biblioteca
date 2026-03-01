@@ -1,5 +1,5 @@
 ---
-titulo: "Nostr (v2.0): El Protocolo De La Secesión Digital"
+titulo: "Nostr (TL V.2): El Protocolo De La Secesión Digital"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [bitcoin, digital, nostr, protocolo]
 publish: true
 ---
-# Nostr (v2.0): El Protocolo De La Secesión Digital
+# Nostr (TL V.2): El Protocolo De La Secesión Digital
 
 > [!ABSTRACT] Hipótesis Informativa
 > Nostr no es una red social, sino el **sistema de señales de la resistencia**. Al desacoplar la identidad (clave privada) de la plataforma (relés), Nostr anula el poder de censura del [[Tier B]] corporativo (X, Meta, Google). Es la infraestructura necesaria para que el [[Tier C]] coordine una economía y una comunicación inconfiscable, rompiendo el monopolio de la percepción que sostiene a la Matriz de Poder.
@@ -33,7 +33,7 @@ publish: true
 
 ## Conexiones Críticas
 - [[Bitcoin / Lightning Network]]: El motor económico que hace que Nostr sea independiente de la Matrix financiera.
-- [[Censura Digital]]: El enemigo histórico que Nostr está diseñado para derrotar.
+- [[00_Glosario - Conceptos Fase 1#Censura Digital\|Censura Digital]]: El enemigo histórico que Nostr está diseñado para derrotar.
 - [[Soberanía Digital]]: El estado mental y técnico que Nostr facilita.
 - [[fiatjaf]]: El creador anónimo (o pseudo-anónimo) cuya visión minimalista permitió este escape.
 - [[Jack Dorsey]]: El polémico aliado de Tier B que ayudó a la expansión inicial del protocolo.
@@ -45,6 +45,7 @@ Nostr es a las redes sociales lo que el fuego fue a las cuevas: **iluminación i
 **Versión:** 2.0
 **Enfoque:** Descentralización radical, resistencia a la censura por diseño y soberanía de la identidad digital.
 **Estado:** Refactorización Completa.
+
 
 
 

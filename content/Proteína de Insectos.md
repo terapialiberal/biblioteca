@@ -1,5 +1,5 @@
 ---
-titulo: "Proteína De Insectos (v2.0): El Ritual De La Desposesión Nutricional"
+titulo: "Proteína De Insectos (TL V.2): El Ritual De La Desposesión Nutricional"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [foro, insectos, nutricional, protena]
 publish: true
 ---
-# Proteína De Insectos (v2.0): El Ritual De La Desposesión Nutricional
+# Proteína De Insectos (TL V.2): El Ritual De La Desposesión Nutricional
 
 > [!ABSTRACT] Hipótesis Informativa
 > La promoción masiva de la proteína de insectos no es una respuesta "sostenible" a la crisis climática, sino una **Operación de Desmoralización y Humillación Ritual de [[Tier A]]** (WEF/ONU). Al intentar normalizar el consumo de insectos en Occidente, el sistema busca romper el tabú evolutivo y estético del individuo de **[[Tier C]]**, degradando su nutrición y su dignidad. El objetivo final es la creación de un sistema de castas nutricional: carne real y orgánica para la élite de la Matrix, y harinas de insectos cargadas de **Quitina** y soja para la masa dependiente, consolidando el control sobre la biología humana.
@@ -38,7 +38,8 @@ La proteína de insectos es el alimento de la servidumbre. Nos enseña que para 
 ---
 **Versión:** 2.0
 **Enfoque:** La agenda del WEF para degradar la dieta humana, los efectos biológicos de la quitina y el uso de la alimentación como herramienta de sumisión ritual.
-**Estado:** Refactoreado a v2.0 - Framework de Biopolítica Alimentaria.
+**Estado:** Refactoreado a TL V.2 - Framework de Biopolítica Alimentaria.
+
 
 
 

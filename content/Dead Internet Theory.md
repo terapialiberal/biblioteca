@@ -1,16 +1,13 @@
 ---
+titulo: DEAD INTERNET THEORY (TL V.2)
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [agencias, desierto, openai, theory]
 publish: true
-created: 2026-02-25T16:09:11.530-03:00
-modified: 2026-02-27T13:22:28.099-03:00
-tags:
-  - agencias
-  - desierto
-  - openai
-  - theory
-cssclasses: ""
 ---
-
-# DEAD INTERNET THEORY (v12_1)
+# DEAD INTERNET THEORY (TL V.2)
 
 #### BLUF
 La Teoría de la Internet Muerta (Dead Internet Theory) ha dejado de ser una especulación de nicho para convertirse en la **Realidad Operativa de 2026**. Se estima que más del 80% del tráfico y el contenido generado en redes sociales y buscadores es sintético, creado por IAs de **Tier A** y bots de guerra cognitiva del **Tier B**. El objetivo no es solo la eficiencia, sino el **Aislamiento del Humano** en una burbuja de retroalimentación perfecta donde ninguna idea subversiva o interacción orgánica no regulada pueda florecer.
@@ -73,6 +70,7 @@ Internet no está muerta, está evolucionando. La IA permite que la información
 ¿Cuál es el "código de ética" secreto compartido entre las agencias de inteligencia de diferentes bloques (ej. CIA y FSB) para no destruir la utilidad de la internet muerta mientras compiten por ella?
 
 ---
-*Dossier forense v12_1 | El Desierto de la Realidad Sintética*
+*Dossier forense TL V.2 | El Desierto de la Realidad Sintética*
+
 
 

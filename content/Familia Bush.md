@@ -1,19 +1,16 @@
 ---
+titulo: "Familia Bush: La Dinastía Del Estado Profundo"
+tipo: organizacion
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [bush, dinasta, estado, skull]
 publish: true
-created: 2026-01-29T19:17:13.199-03:00
-modified: 2026-02-27T13:22:41.341-03:00
-tags:
-  - bush
-  - dinasta
-  - estado
-  - skull
-cssclasses: ""
 ---
-
 # Familia Bush: La Dinastía Del Estado Profundo
 
 > [!ABSTRACT] Hipótesis Informativa
-> Los **Bush** no son una familia política; son una familia de **Inteligencia y Petróleo**. Desde Prescott Bush (quien financió a Hitler a través de Union Banking Corp) hasta George H.W. Bush (Director de la CIA y Presidente) y George W. Bush (Guerra contra el Terror), el linaje representa la fusión total entre el aparato de seguridad nacional, Wall Street y la industria energética. Son los ejecutores del **[[Nuevo Orden Mundial]]** (frase popularizada por H.W. Bush). Su poder reside en la red **Skull and Bones** y en haber convertido a la CIA en su guardia pretoriana personal.
+> Los **Bush** no son una familia política; son una familia de **Inteligencia y Petróleo**. Desde Prescott Bush (quien financió a Hitler a través de Union Banking Corp) hasta George H.W. Bush (Director de la CIA y Presidente) y George W. Bush (Guerra contra el Terror), el linaje representa la fusión total entre el aparato de seguridad nacional, Wall Street y la industria energética. Son los ejecutores del **[[00_Glosario - Conceptos Fase 1#Nuevo Orden Mundial\|Nuevo Orden Mundial]]** (frase popularizada por H.W. Bush). Su poder reside en la red **Skull and Bones** y en haber convertido a la CIA en su guardia pretoriana personal.
 
 ## Análisis De Tiers
 

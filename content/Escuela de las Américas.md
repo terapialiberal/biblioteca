@@ -1,21 +1,18 @@
 ---
+titulo: Escuela De Las Américas (SOA / WHINSEC)
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [amricas, escuela, golpe, whinsec]
 publish: true
-created: 2026-01-29T19:17:12.088-03:00
-modified: 2026-02-27T13:22:39.300-03:00
-tags:
-  - amricas
-  - escuela
-  - golpe
-  - whinsec
-cssclasses: ""
 ---
-
 # Escuela De Las Américas (SOA / WHINSEC)
 
 ## Perfil TL (Resumen Ejecutivo)
 **¿Qué es?** Una institución de entrenamiento militar operada por el Ejército de los Estados Unidos, famosa por instruir a miles de oficiales de ejércitos latinoamericanos durante la Guerra Fría.
 
-**¿Por qué importa?** La Escuela de las Américas es el **centro de instrucción de las "Fuerzas de Ocupación Interna" del Tier A**. Bajo la fachada de "promover la democracia y el profesionalismo militar", la escuela entrenó a los dictadores más sangrientos de la región (Videla, Noriega, Banzer, Galtieri) y a los jefes de los escuadrones de la muerte. Sus manuales de entrenamiento, desclasificados en 1996, demostraron que se enseñaba a usar la **tortura**, el secuestro, la extorsión y las ejecuciones sumarias como herramientas legítimas contra el "enemigo interno" (cualquier ciudadano de Tier C que se opusiera al orden atlantista). La SOA fue el motor pedagógico de la **[[Operación Cóndor]]**, asegurando que los ejércitos locales operaran como mercenarios al servicio de los intereses geopolíticos y corporativos de EE.UU. en Latinoamérica.
+**¿Por qué importa?** La Escuela de las Américas es el **centro de instrucción de las "Fuerzas de Ocupación Interna" del Tier A**. Bajo la fachada de "promover la democracia y el profesionalismo militar", la escuela entrenó a los dictadores más sangrientos de la región (Videla, Noriega, Banzer, Galtieri) y a los jefes de los escuadrones de la muerte. Sus manuales de entrenamiento, desclasificados en 1996, demostraron que se enseñaba a usar la **tortura**, el secuestro, la extorsión y las ejecuciones sumarias como herramientas legítimas contra el "enemigo interno" (cualquier ciudadano de Tier C que se opusiera al orden atlantista). La SOA fue el motor pedagógico de la **[[Operación Condor\|Operación Cóndor]]**, asegurando que los ejércitos locales operaran como mercenarios al servicio de los intereses geopolíticos y corporativos de EE.UU. en Latinoamérica.
 
 ## Análisis De Poder (Tiers)
 
@@ -30,7 +27,7 @@ cssclasses: ""
 *   "Fortaleciendo las relaciones interamericanas". "Defensa de los valores democráticos". Narrativa oficial que se mantuvo durante décadas hasta que los propios documentos desclasificados del Pentágono confirmaron las atrocidades enseñadas en sus aulas.
 
 ## Conexiones Clave
-- [[Operación Cóndor]] (Su aplicación práctica regional)
+- [[Operación Condor\|Operación Cóndor]] (Su aplicación práctica regional)
 - [[CIA (Operaciones en Latam)]] (Su socio en inteligencia)
 - [[Golpe de Chile 1973]] / [[Proceso de Reorganización Nacional (Argentina)]] (Sus alumnos destacados)
 - [[Escuadrones de la Muerte]] (Su producto final en Centroamérica)

@@ -1,15 +1,12 @@
 ---
+titulo: Tratado De Pandemias (OMS)
+tipo: evento
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [bill, pandemias, tratado, world]
 publish: true
-created: 2026-01-29T19:17:41.089-03:00
-modified: 2026-02-27T13:07:04.933-03:00
-tags:
-  - bill
-  - pandemias
-  - tratado
-  - world
-cssclasses: ""
 ---
-
 # Tratado De Pandemias (OMS)
 
 ## Resumen Ejecutivo
@@ -33,7 +30,7 @@ Además, obligaría a censurar la "desinformación" (cualquier cosa que contradi
 
 ## Conexiones
 - [[World Health Organization]]
-- [[Bill & Melinda Gates Foundation]] (mayor donante privado de la OMS)
+- [[00_Glosario - Conceptos Fase 1#Bill & Melinda Gates Foundation\|Bill & Melinda Gates Foundation]] (mayor donante privado de la OMS)
 - [[GAVI (Vaccine Alliance)]]
 
 ## Fuentes

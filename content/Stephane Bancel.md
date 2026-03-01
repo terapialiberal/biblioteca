@@ -1,5 +1,5 @@
 ---
-titulo: "Stephane Bancel (v2.0): El Mercader De La Plataforma Genética"
+titulo: "Stephane Bancel (TL V.2): El Mercader De La Plataforma Genética"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [bancel, cepi, moderna, stephane]
 publish: true
 ---
-# Stephane Bancel (v2.0): El Mercader De La Plataforma Genética
+# Stephane Bancel (TL V.2): El Mercader De La Plataforma Genética
 
 > [!ABSTRACT] Hipótesis Informativa
 > Stephane Bancel es el **Operador de [[Tier B]]** que transformó a una empresa deficitaria y sin productos aprobados (**[[Moderna]]**) en el eje central de la respuesta global a la pandemia de COVID-19. Su función real en la Matrix es la de un **"Tecnócrata de la Biopolítica de Choque"**: actuar como el nexo entre el capital de riesgo de Cambridge (MA), las agencias de salud de EE.UU. (NIH) y las redes de gobernanza global del **[[WEF]]**. Bancel no es un científico, sino un vendedor de "Software Biológico" (mRNA) cuya misión es normalizar el uso de terapias genéticas bajo suscripción perpetua para el **[[Tier C]]**.
@@ -41,7 +41,8 @@ Stephane Bancel nos enseña que **el futuro de la Matrix no es digital, sino bio
 ---
 **Versión:** 2.0
 **Enfoque:** Stéphane Bancel como operador clave de la biopolítica de Moderna, su conexión con el WEF y CEPI, la transformación de la medicina en un modelo de suscripción de mRNA y el uso del estado de emergencia para la acumulación masiva de riqueza y control biológico sobre el Tier C.
-**Estado:** Refactoreado a v2.0 - Framework de Biotecnología y Gobernanza Sanitaria.
+**Estado:** Refactoreado a TL V.2 - Framework de Biotecnología y Gobernanza Sanitaria.
+
 
 
 

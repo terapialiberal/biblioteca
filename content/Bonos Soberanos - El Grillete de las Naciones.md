@@ -1,15 +1,12 @@
 ---
+titulo: Bonos Soberanos — El Grillete De Las Naciones
+tipo: "concepto"
+fecha: 2026-02-25
+tags: [bonos, grillete, historia, naciones]
+tier-primario: "a"
+nivel-evidencia: "alto"
 publish: true
-created: 2026-02-25T22:49:02.833-03:00
-modified: 2026-02-27T13:22:07.204-03:00
-tags:
-  - bonos
-  - grillete
-  - historia
-  - naciones
-cssclasses: ""
 ---
-
 
 # Bonos Soberanos — El Grillete De Las Naciones
 
@@ -37,7 +34,7 @@ cssclasses: ""
 
 ## Conexiones Críticas
 - [[Historia de la Banca Central - El Ledger de Captura]]: El origen del sistema de bonos.
-- [[The Great Taking (David Webb)]]: Cómo los bonos serán los primeros activos en ser "reseteados" en favor del colateral bancario.
+- [[00_Glosario - Conceptos Fase 1#The Great Taking (David Webb)\|The Great Taking (David Webb)]]: Cómo los bonos serán los primeros activos en ser "reseteados" en favor del colateral bancario.
 - [[FMI y Banco Mundial]]: Los departamentos de cobranza de Tier A.
 
 ## Cui Bono

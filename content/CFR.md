@@ -1,14 +1,13 @@
 ---
+titulo: COUNCIL ON FOREIGN RELATIONS (CFR) (TL V.2)
+tipo: concepto
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "alto"
+tags: [blackrock, michael]
 publish: true
-created: 2026-02-25T15:42:31.015-03:00
-modified: 2026-02-27T13:22:18.539-03:00
-tags:
-  - blackrock
-  - michael
-cssclasses: ""
 ---
-
-# COUNCIL ON FOREIGN RELATIONS (CFR) (v12_1)
+# COUNCIL ON FOREIGN RELATIONS (CFR) (TL V.2)
 
 #### BLUF
 El Council on Foreign Relations (CFR) es el **Cerebro Colectivo del Sistema Atlantista**. No es un gobierno secreto; es el mecanismo de **Coordinación de Tiers** (A y B) más eficiente de la historia. En 2026, el CFR dicta la política exterior de EE.UU. a través de sus miembros colocados en el Departamento de Estado, el Tesoro y el Pentágono, asegurando que el "Orden Internacional Basado en Reglas" sea, en realidad, un orden basado en la infraestructura financiera y tecnológica privada.
@@ -71,6 +70,7 @@ El CFR es la única razón por la cual el mundo no ha caído en un caos total de
 ¿Cuál es la relación real del CFR con las estructuras paralelas de poder en Europa (como el WEF) cuando los intereses del dólar y el euro entran en conflicto directo por la hegemonía del CBDC?
 
 ---
-*Dossier forense v12_1 | El Sistema Operativo de la Geopolítica*
+*Dossier forense TL V.2 | El Sistema Operativo de la Geopolítica*
+
 
 

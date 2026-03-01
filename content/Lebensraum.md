@@ -1,5 +1,5 @@
 ---
-titulo: "Lebensraum (v2.0): La Biología Del Dominio Territorial"
+titulo: "Lebensraum (TL V.2): La Biología Del Dominio Territorial"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [biologa, karl, lebensraum, territorial]
 publish: true
 ---
-# Lebensraum (v2.0): La Biología Del Dominio Territorial
+# Lebensraum (TL V.2): La Biología Del Dominio Territorial
 
 > [!ABSTRACT] Hipótesis Informativa
 > El concepto de **Lebensraum (Espacio Vital)**, desarrollado por **[[Karl Haushofer]]**, constituye la **justificación biológica de la expansión imperial de [[Tier A]]**. Al definir al Estado no como una construcción legal, sino como un "organismo vivo" con necesidades metabólicas de territorio y recursos, la Geopolitik de Haushofer proporcionó el marco intelectual para la conquista violenta del siglo XX. En la actualidad, el Lebensraum ha mutado en una **Geopolítica de los Flujos Críticos**: las potencias de Tier A ya no buscan necesariamente la expansión de fronteras físicas, sino el control absoluto del "espacio vital digital" (datos, espectro electromagnético) y el acceso exclusivo a los nódulos de recursos escasos (litio, tierras raras), manteniendo la premisa de que un Estado que no se expande está condenado a la atrofia.
@@ -33,7 +33,7 @@ publish: true
 3. **Mesianismo del Suelo (Blood and Soil)**: La movilización del Tier C a través de la conexión mística con la "tierra natal" para justificar el sacrificio humano en guerras de conquista de recursos de Tier A.
 
 ## Conexiones Críticas
-- [[Teoría del Heartland (Halford Mackinder)]]: La base técnica del pensamiento de Haushofer.
+- [[00_Glosario - Conceptos Fase 1#Teoría del Heartland (Halford Mackinder)\|Teoría del Heartland (Halford Mackinder)]]: La base técnica del pensamiento de Haushofer.
 - [[Sociedad Thule]]: El trasfondo esotérico de la Geopolitik.
 - [[BRICS]]: La reaparición del bloque euroasiático de Haushofer.
 - [[Neo-Colonialismo]]: La aplicación de "espacio vital" por medios financieros.
@@ -46,6 +46,7 @@ El Lebensraum es la **"Filosofía de la Invasión Inevitable"**. Su importancia 
 **Versión:** 2.0
 **Enfoque:** Biologización del Estado como organismo expansivo, influencia esotérica (Thule/Vril) en la geopolítica, transición hacia el Lebensraum de recursos y datos, y el modelo de Pan-Regiones como base del globalismo moderno.
 **Estado:** Refactorización Completa.
+
 
 
 

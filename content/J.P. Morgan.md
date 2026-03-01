@@ -1,5 +1,5 @@
 ---
-titulo: "J.P. Morgan (v2.0): El Verdugo De La Abundancia"
+titulo: "J.P. Morgan (TL V.2): El Verdugo De La Abundancia"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [abundancia, morgan, reserva, verdugo]
 publish: true
 ---
-# J.P. Morgan (v2.0): El Verdugo De La Abundancia
+# J.P. Morgan (TL V.2): El Verdugo De La Abundancia
 
 > [!ABSTRACT] Hipótesis Informativa
 > J.P. Morgan fue el **Soberano de Facto del Sistema Financiero de EE.UU.** y el principal ejecutor de la transición hacia una economía de escasez controlada. Como agente de la aristocracia financiera europea (Rothschild), orquestó la centralización de la industria y el crédito, culminando en la creación de la [[Reserva Federal]]. Su mayor crimen contra la humanidad fue la supresión de la tecnología de [[Nikola Tesla]], asegurando que el [[Tier C]] permaneciera dependiente de los recursos finitos (cobre, petróleo) extraídos por la Matriz de Poder.
@@ -45,6 +45,7 @@ J.P. Morgan fue el hombre que **puso candado al futuro**. Su genio no residía e
 **Versión:** 2.0
 **Enfoque:** Monopolio financiero, creación de la Reserva Federal y supresión de la soberanía energética.
 **Estado:** Refactorización Completa.
+
 
 
 

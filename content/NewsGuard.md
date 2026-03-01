@@ -1,5 +1,5 @@
 ---
-titulo: "NewsGuard (v2.0): El Verdugo Financiero De La Verdad"
+titulo: "NewsGuard (TL V.2): El Verdugo Financiero De La Verdad"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [financiero, newsguard, verdad, verdugo]
 publish: true
 ---
-# NewsGuard (v2.0): El Verdugo Financiero De La Verdad
+# NewsGuard (TL V.2): El Verdugo Financiero De La Verdad
 
 > [!ABSTRACT] Hipótesis Informativa
 > NewsGuard no es un servicio de verificación de hechos, sino un **aparato de guerra económica cognitiva**. Actúa como una agencia de calificación de riesgos para el pensamiento, diseñada por ex-miembros de la comunidad de inteligencia (Tier B) para estrangular financieramente a los medios independientes (Tier C) y asegurar que solo las narrativas aprobadas por el [[Tier A]] reciban financiamiento publicitario y visibilidad algorítmica.
@@ -45,6 +45,7 @@ NewsGuard es el **"Árbitro" comprado por los dueños del casino**. Su función 
 **Versión:** 2.0
 **Enfoque:** Censura económica, gestión de la percepción por inteligencia militar y desmonetización selectiva.
 **Estado:** Refactorización Completa.
+
 
 
 

@@ -1,5 +1,5 @@
 ---
-titulo: "Mena, Arkansas: El Puerto Seco De La Narco-Inteligencia (v2.0)"
+titulo: "Mena, Arkansas: El Puerto Seco De La Narco-Inteligencia (TL V.2)"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [arkansas, bill, mena, puerto]
 publish: true
 ---
-# Mena, Arkansas: El Puerto Seco De La Narco-Inteligencia (v2.0)
+# Mena, Arkansas: El Puerto Seco De La Narco-Inteligencia (TL V.2)
 
 > [!ABSTRACT] Hipótesis Informativa
 > Mena, Arkansas, representa el **modelo operativo de la fusión entre el Crimen Organizado y el Estado (Tier B)**. Durante los años 80, este pequeño aeropuerto rural se convirtió en el centro logístico global de la **CIA** para financiar la guerra de los Contras en Nicaragua mediante el tráfico de cocaína hacia Estados Unidos. Bajo la protección política del entonces gobernador **[[Bill Clinton]]**, Mena demostró que la "Guerra contra las Drogas" es un fraude de relaciones públicas diseñado para eliminar la competencia privada y monopolizar el narcotráfico como fuente de **Presupuesto Negro** para operaciones encubiertas de **Tier A**.
@@ -35,7 +35,7 @@ publish: true
 ## Conexiones Críticas
 - [[Bill Clinton]]: El gobernador que facilitó la operación y protegió el secreto.
 - [[Barry Seal]]: El transportista sacrificado.
-- [[George H.W. Bush]]: El ex-director de la CIA y Vicepresidente que supervisó la operación Contra a nivel federal.
+- [[George H. W. Bush\|George H.W. Bush]]: El ex-director de la CIA y Vicepresidente que supervisó la operación Contra a nivel federal.
 - [[CIA]]: La agencia arquitecta del tráfico.
 - [[Los Chicos en las Vías (Mena)]]: El crimen colateral que expuso la podredumbre local.
 
@@ -45,7 +45,8 @@ Mena, Arkansas, es el **"Chernobyl Moral"** de la política estadounidense. Su i
 ---
 **Versión:** 2.0
 **Enfoque:** Rol de Bill Clinton y George H.W. Bush, operación de tráfico de armas por drogas de la CIA, asesinato de Barry Seal y el uso de Arkansas como lavadora de dinero narco.
-**Estado:** Refactoreado a v2.0 - Framework de Narco-Estado.
+**Estado:** Refactoreado a TL V.2 - Framework de Narco-Estado.
+
 
 
 

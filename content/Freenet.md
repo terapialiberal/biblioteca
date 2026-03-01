@@ -1,14 +1,12 @@
 ---
+titulo: Freenet
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [cypherpunks, freenet, julian]
 publish: true
-created: 2026-01-29T19:17:14.245-03:00
-modified: 2026-02-27T13:06:55.781-03:00
-tags:
-  - cypherpunks
-  - freenet
-  - julian
-cssclasses: ""
 ---
-
 # Freenet
 
 ## Perfil TL (Resumen Ejecutivo)
@@ -30,7 +28,7 @@ cssclasses: ""
 *   "La Dark Web peligrosa". Narrativa que oculta la función vital de estas redes como bibliotecas de la humanidad que no pueden ser quemadas por ningún régimen político.
 
 ## Conexiones Clave
-- [[Cypherpunks]] (La subcultura que le dio origen)
+- [[00_Glosario - Conceptos Fase 1#Cypherpunks\|Cypherpunks]] (La subcultura que le dio origen)
 - [[Julian Assange / Wikileaks]] (Usuarios potenciales del modelo)
 - [[Criptografía de Clave Pública]] (Su base técnica)
 - [[Consenso de Redes (Distributed Consensus)]] (Su principio operativo)

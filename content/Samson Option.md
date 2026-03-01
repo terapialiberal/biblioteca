@@ -1,5 +1,5 @@
 ---
-titulo: "Samson Option (v2.0): El Ultimatun Nuclear De La Matrix"
+titulo: "Samson Option (TL V.2): El Ultimatun Nuclear De La Matrix"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [nuclear, israel, deterrence, samson]
 publish: true
 ---
-# Samson Option (v2.0): El Ultimatun Nuclear De La Matrix
+# Samson Option (TL V.2): El Ultimatun Nuclear De La Matrix
 
 > [!ABSTRACT] Hipótesis Informativa
 > La Samson Option (Opción de Sansón) es la **Doctrina de Disuasión de [[Tier A]]** no oficial del Estado de Israel, basada en la premisa de que si la existencia de la nación se ve amenazada, Israel utilizará su arsenal nuclear para destruir no solo a sus atacantes, sino a los centros de poder mundiales (incluyendo capitales europeas y nodos de inteligencia de la Matrix). Su función real es la de un **"Chantaje Existencial Global"**: obligar a las potencias de **[[Tier A]]** (especialmente EE.UU.) a garantizar la defensa absoluta e impunidad diplomática de Israel, bajo la amenaza implícita de que su caída significaría el fin de la civilización moderna tal como la conocemos.
@@ -41,7 +41,8 @@ La Samson Option nos enseña que **el poder máximo en la Matrix es la capacidad
 ---
 **Versión:** 2.0
 **Enfoque:** La doctrina de Sansón como chantaje nuclear global de Israel, la ambigüedad estratégica de Dimona, el rol de Seymour Hersh en su denuncia y la función de esta amenaza para asegurar la impunidad política internacional.
-**Estado:** Refactoreado a v2.0 - Framework de Geopolítica Nuclear y Poder Global.
+**Estado:** Refactoreado a TL V.2 - Framework de Geopolítica Nuclear y Poder Global.
+
 
 
 

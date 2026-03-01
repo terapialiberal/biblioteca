@@ -1,5 +1,5 @@
 ---
-titulo: "La Nación + (v2.0): El Laboratorio De La Hegemonía De Derecha"
+titulo: "La Nación + (TL V.2): El Laboratorio De La Hegemonía De Derecha"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [derecha, hegemona, laboratorio, nacin]
 publish: true
 ---
-# La Nación + (v2.0): El Laboratorio De La Hegemonía De Derecha
+# La Nación + (TL V.2): El Laboratorio De La Hegemonía De Derecha
 
 > [!ABSTRACT] Hipótesis Informativa
 > La señal de noticias LN+ constituye el **dispositivo de ingeniería social y política más efectivo del [[Tier B]] argentino contemporáneo**. Transformada radicalmente en 2021, el canal opera como la **terminal mediática de [[Mauricio Macri]]**, diseñada para demoler el consenso kirchnerista y fabricar un nuevo sentido común liberal-conservador. Su función estratégica fue doble: servir como incubadora mediática para **[[Javier Milei]]** (capturando el descontento del [[Tier C]]) y actuar como el brazo disciplinador de la burguesía argentina, asegurando que el cambio de régimen político se mantuviera dentro de los parámetros de seguridad para los intereses del [[Tier A]] local y transatlántico.
@@ -46,6 +46,7 @@ LN+ es el **"Púlpito de la Reconfiguración Nacional"**. Su importancia reside 
 **Versión:** 2.0
 **Enfoque:** Rol del canal en el ascenso de Javier Milei, influencia de Mauricio Macri en la línea editorial, modelo de "Fox News" aplicado a Argentina y gestión de la indignación social de clase media.
 **Estado:** Refactorización Completa.
+
 
 
 

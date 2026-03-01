@@ -1,5 +1,5 @@
 ---
-titulo: "Smart Contracts (v2.0): El Verdugo Automático De La Matrix Digital"
+titulo: "Smart Contracts (TL V.2): El Verdugo Automático De La Matrix Digital"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,10 +7,10 @@ nivel-evidencia: "medio"
 tags: [digital, ethereum, matrix, verdugo]
 publish: true
 ---
-# Smart Contracts (v2.0): El Verdugo Automático De La Matrix Digital
+# Smart Contracts (TL V.2): El Verdugo Automático De La Matrix Digital
 
 > [!ABSTRACT] Hipótesis Informativa
-> Los Smart Contracts (Contratos Inteligentes) son la **Tecnología de Ejecución Coercitiva de [[Tier B]]** que elimina la necesidad de interpretación humana y mediación legal en los acuerdos comerciales. Definidos originalmente por Nick Szabo y popularizados por **[[Ethereum]]**, su función real es la de un **"Administrador de Justicia Inflexible"**: código informático que se ejecuta automáticamente cuando se cumplen ciertas condiciones, transformando la relación contractual en una arquitectura de control donde la "misericordia" o la "fricción" judicial son imposibles. Son la infraestructura base para el **[[Tecnofeudalismo]]** y la gobernanza de las **[[CBDC]]**.
+> Los Smart Contracts (Contratos Inteligentes) son la **Tecnología de Ejecución Coercitiva de [[Tier B]]** que elimina la necesidad de interpretación humana y mediación legal en los acuerdos comerciales. Definidos originalmente por Nick Szabo y popularizados por **[[00_Glosario - Conceptos Fase 1#Ethereum\|Ethereum]]**, su función real es la de un **"Administrador de Justicia Inflexible"**: código informático que se ejecuta automáticamente cuando se cumplen ciertas condiciones, transformando la relación contractual en una arquitectura de control donde la "misericordia" o la "fricción" judicial son imposibles. Son la infraestructura base para el **[[Tecnofeudalismo]]** y la gobernanza de las **[[CBDC]]**.
 
 ## Análisis De Tiers
 
@@ -29,7 +29,7 @@ publish: true
 2.  **Oracle Dependency (Dependencia de Oráculos)**: Uso de fuentes de datos externas ("Oráculos") para alimentar al contrato inteligente, lo que permite a quien controla el oráculo manipular los contratos a escala masiva mediante la inyección de datos falsos o sesgados.
 
 ## Conexiones Críticas
-- [[Ethereum]]: La plataforma principal de despliegue.
+- [[00_Glosario - Conceptos Fase 1#Ethereum\|Ethereum]]: La plataforma principal de despliegue.
 - [[Tecnofeudalismo]]: El modelo económico basado en el cobro automático de rentas.
 - [[CBDC]]: El dinero programable que usará smart contracts para el control social.
 - [[Gobernanza Algorítmica]]: El sistema político derivado de esta tecnología.
@@ -41,7 +41,8 @@ Los Smart Contracts nos enseñan que **la ley sin humanidad es una máquina de g
 ---
 **Versión:** 2.0
 **Enfoque:** Los Smart Contracts como herramientas de automatización legal y financiera, su rol en el tecno-feudalismo y las CBDCs, el peligro de la inmutabilidad sin contexto humano y el poder de los oráculos y programadores de Tier B.
-**Estado:** Refactoreado a v2.0 - Framework de Tecnología Legal y Control Algorítmico.
+**Estado:** Refactoreado a TL V.2 - Framework de Tecnología Legal y Control Algorítmico.
+
 
 
 

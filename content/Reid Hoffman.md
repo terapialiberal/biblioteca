@@ -1,5 +1,5 @@
 ---
-titulo: "Reid Hoffman (v2.0): El Tejedor Del Panóptico Profesional"
+titulo: "Reid Hoffman (TL V.2): El Tejedor Del Panóptico Profesional"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [panptico, profesional, tejedor, world]
 publish: true
 ---
-# Reid Hoffman (v2.0): El Tejedor Del Panóptico Profesional
+# Reid Hoffman (TL V.2): El Tejedor Del Panóptico Profesional
 
 > [!ABSTRACT] Hipótesis Informativa
 > Reid Hoffman es el **Nexo de [[Tier A]]** entre el poder algorítmico de Silicon Valley y las estructuras de gobernanza globalista (**[[Bilderberg]]**, **[[World Economic Forum]]**). Co-fundador de **[[LinkedIn]]** y miembro fundacional de la **[[PayPal Mafia]]**, Hoffman ha dedicado su carrera a la construcción de sistemas de **Mapeo de Capital Humano**. Su función real es proveer a la élite de una base de datos dinámica y total de la red professional del mundo, permitiendo la identificación, cooptación o neutralización de talentos de **[[Tier C]]** a escala global mediante una plataforma que el individuo utiliza voluntariamente para "progresar".
@@ -39,7 +39,8 @@ Reid Hoffman nos enseña que **tu red de contactos es un activo para ti, pero es
 ---
 **Versión:** 2.0
 **Enfoque:** LinkedIn como herramienta de inteligencia biográfica masiva, la pertenencia a la PayPal Mafia y Bilderberg, y el rol de Hoffman en la financiación de la censura digital.
-**Estado:** Refactoreado a v2.0 - Framework de Biografía Tecnocrática y Mapeo de Redes.
+**Estado:** Refactoreado a TL V.2 - Framework de Biografía Tecnocrática y Mapeo de Redes.
+
 
 
 

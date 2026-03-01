@@ -1,5 +1,5 @@
 ---
-titulo: "Paolo Rocca (v2.0): El Estratega Del Acero Y El Poder"
+titulo: "Paolo Rocca (TL V.2): El Estratega Del Acero Y El Poder"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [paolo, poder, rocca, techint]
 publish: true
 ---
-# Paolo Rocca (v2.0): El Estratega Del Acero Y El Poder
+# Paolo Rocca (TL V.2): El Estratega Del Acero Y El Poder
 
 > [!ABSTRACT] Hipótesis Informativa
 > Paolo Rocca es el **máximo exponente del [[Tier B]] industrial de alto nivel** en Argentina y el mundo. Como líder del Grupo **[[Techint]]**, su poder no reside en la prebenda estatal básica (como otros "empresarios amigos"), sino en una estructura multinacional de vanguardia tecnológica (**Tenaris/Ternium**) que le permite negociar de igual a igual con el Estado. Rocca opera mediante la **Captura de Cuadros Técnicos**: coloca a sus ex-empleados en puestos críticos de energía y trabajo de cada gobierno (desde el kirchnerismo hasta Milei) para asegurar que la política nacional (Vaca Muerta, reforma laboral) siempre esté alineada con los intereses estratégicos de su imperio industrial.
@@ -38,7 +38,8 @@ Paolo Rocca nos enseña que **el verdadero poder no grita, se sienta a esperar e
 ---
 **Versión:** 2.0
 **Enfoque:** La infiltración de cuadros de Techint en el gobierno actual y anterior, el control de la cadena de valor energética y el rol de Rocca como nexo entre el poder local y el mercado global.
-**Estado:** Refactoreado a v2.0 - Framework de Poder Industrial.
+**Estado:** Refactoreado a TL V.2 - Framework de Poder Industrial.
+
 
 
 

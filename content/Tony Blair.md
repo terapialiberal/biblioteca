@@ -1,5 +1,13 @@
 ---
-titulo: "Tony Blair (v2.0): El Consigliere De La Gobernanza Transnacional"
+titulo: Tony Blair
+tipo: 'organizacion'
+tier-primario: 'a'
+nivel-evidencia: 'medio'
+tags: [clasificado-ai]
+publish: true
+---
+﻿---
+titulo: "Tony Blair (TL V.2): El Consigliere De La Gobernanza Transnacional"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,10 +15,10 @@ nivel-evidencia: "medio"
 tags: [blair, gobernanza, tony, transnacional]
 publish: true
 ---
-# Tony Blair (v2.0): El Consigliere De La Gobernanza Transnacional
+# Tony Blair (TL V.2): El Consigliere De La Gobernanza Transnacional
 
 > [!ABSTRACT] Hiptesis Informativa
-> Tony Blair no es un ex-poltico retirado, sino el **operador de campo definitivo del [[Tier A]] globalista**. Como miembro del Board del **[[World Economic Forum (WEF)]]** y fundador del Tony Blair Institute (TBI), Blair acta como el puente entre el capital sistmico de Davos y la reconfiguracin territorial de zonas en conflicto. Su funcin histrica reciente ha sido legitimar la limpieza tnica y la captura de recursos mediante narrativas de "estabilizacin econmica", siendo el arquitecto principal —bajo encargo de **[[Jared Kushner]]**— del plan para transformar Gaza en un hub logstico privado (IMEC), borrando la soberana nativa en favor de la rentabilidad corporativa transnacional.
+> Tony Blair no es un ex-poltico retirado, sino el **operador de campo definitivo del [[Tier A]] globalista**. Como miembro del Board del **[[World Economic Forum (WEF)]]** y fundador del Tony Blair Institute (TBI), Blair acta como el puente entre el capital sistmico de Davos y la reconfiguracin territorial de zonas en conflicto. Su funcin histrica reciente ha sido legitimar la limpieza tnica y la captura de recursos mediante narrativas de "estabilizacin econmica", siendo el arquitecto principal â€”bajo encargo de **[[Jared Kushner]]**â€” del plan para transformar Gaza en un hub logstico privado (IMEC), borrando la soberana nativa en favor de la rentabilidad corporativa transnacional.
 
 ## Anlisis De Tiers
 
@@ -43,9 +51,10 @@ publish: true
 Tony Blair es el **"Consignatario del Neocolonialismo de Datos y Suelo"**. Su importancia reside en haber perfeccionado el uso del lenguaje progresista para ejecutar la agenda ms cruda del capital sistmico. No es un ex-poltico; es un **arquitecto de la realidad de posguerra**. Entender a Blair es comprender que la guerra de Irak y el plan de reconstruccin de Gaza son captulos del mismo libro: la destruccin de la soberana nacional para su reemplazo por una administracin corporativa transnacional. Para el Tier C, es un conferencista de prestigio; para el Tier A, es el **operador de confianza que limpia la sangre del suelo** para que los inversores puedan empezar a construir.
 
 ---
-**Versi�n:** 2.0
-**Enfoque:** Rol en el WEF, plan Great Trust de Gaza por encargo de Kushner, uso de consultoras (BCG) para el despojo territorial, IMEC y la promoci�n de la Identidad Digital global.
-**Estado:** Refactorizaci�n Completa e Integraci�n de Datos 2025.
+**Versiï¿½n:** 2.0
+**Enfoque:** Rol en el WEF, plan Great Trust de Gaza por encargo de Kushner, uso de consultoras (BCG) para el despojo territorial, IMEC y la promociï¿½n de la Identidad Digital global.
+**Estado:** Refactorizaciï¿½n Completa e Integraciï¿½n de Datos 2025.
+
 
 
 

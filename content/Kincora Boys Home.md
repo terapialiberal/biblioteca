@@ -1,5 +1,5 @@
 ---
-titulo: "Kincora Boys Home (v2.0): El Laboratorio De Extorsión Del MI5"
+titulo: "Kincora Boys Home (TL V.2): El Laboratorio De Extorsión Del MI5"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [boys, jeffrey, kincora, laboratorio]
 publish: true
 ---
-# Kincora Boys Home (v2.0): El Laboratorio De Extorsión Del MI5
+# Kincora Boys Home (TL V.2): El Laboratorio De Extorsión Del MI5
 
 > [!ABSTRACT] Hipótesis Informativa
 > Kincora Boys Home no fue un "fallo del sistema de protección infantil", sino un **centro operativo de captura de inteligencia de [[Tier B]]**. Regenteado por activos vinculados al **[[MI5]]**, el centro de Belfast funcionó como una "trampa de miel" institucionalizada donde se facilitó el abuso de menores para recolectar **Kompromat** sobre la élite política, militar y paramilitar de Irlanda del Norte y el Reino Unido. Kincora constituye la prueba histórica de que el Estado Profundo utiliza el horror biológico como una herramienta técnica de gestión de lealtades y control de crisis geopolíticas.
@@ -45,6 +45,7 @@ Kincora Boys Home es el **"Plano Arquitectónico de la Matrix de Pedofilia Estat
 **Versión:** 2.0
 **Enfoque:** Uso del abuso infantil como herramienta técnica de inteligencia (Kompromat), protección del MI5 y el caso de Colin Wallace como whistleblower perseguido.
 **Estado:** Refactorización Completa.
+
 
 
 

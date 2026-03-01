@@ -1,16 +1,13 @@
 ---
+titulo: "Peter Mandelson (TL V.2): El Lord Del Dark State Británico"
+tipo: "persona"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "alto"
+tags: [andrew, archivos, lord, state]
 publish: true
-created: 2026-02-25T17:53:00.536-03:00
-modified: 2026-02-27T13:23:40.246-03:00
-tags:
-  - andrew
-  - archivos
-  - lord
-  - state
-cssclasses: ""
 ---
-
-# Peter Mandelson (v12_1): El Lord Del Dark State Británico
+# Peter Mandelson (TL V.2): El Lord Del Dark State Británico
 
 > [!ABSTRACT] Hipótesis Informativa
 > El arresto de **Peter Mandelson** en febrero de 2026 confirma su rol como el **Operador Estructural del Tier B** en el Reino Unido. Conocido como el "Príncipe de las Tinieblas" del New Labour, los **[[Archivos Epstein (2026)]]** revelan que Mandelson no solo era un amigo cercano de Epstein, sino un enlace crítico para la captura de la tecnocracia europea. Su detención por compartir documentos confidenciales del gobierno con la red de Epstein valida la tesis de que la inteligencia transnacional utilizó a Epstein para subordinar la soberanía británica a la agenda de los "Dueños" (Tier A).
@@ -48,6 +45,7 @@ Peter Mandelson no es una víctima del sistema; es un **Arquitecto que fue devor
 ---
 **Versión:** 12.1
 **Enfoque:** Arresto 2026, Captura de la UE y Colapso de la Tercera Vía.
-**Estado:** Dossier Crítico v12_1.
+**Estado:** Dossier Crítico TL V.2.
+
 
 

@@ -1,5 +1,5 @@
 ---
-titulo: "Repo Market Crisis 2019 (v2.0): El Colapso Silencioso Que Activó La Matrix"
+titulo: "Repo Market Crisis 2019 (TL V.2): El Colapso Silencioso Que Activó La Matrix"
 tipo: evento
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [market, matrix, reserva, reverse]
 publish: true
 ---
-# Repo Market Crisis 2019 (v2.0): El Colapso Silencioso Que Activó La Matrix
+# Repo Market Crisis 2019 (TL V.2): El Colapso Silencioso Que Activó La Matrix
 
 > [!ABSTRACT] Hipótesis Informativa
 > La Crisis del Mercado de Repos de septiembre de 2019 fue el **"Infarto del Sistema Financiero de [[Tier A]]"** que precedió y posiblemente gatilló la necesidad de una emergencia global. El 17 de septiembre, el tipo de interés de los préstamos interbancarios a un día (repos) se disparó del 2% al 10% en horas, señalando una parálisis total de la liquidez entre los grandes bancos. La **[[Reserva Federal (FED)]]** tuvo que intervenir inyectando cientos de miles de millones de dólares, un rescate masivo que ocurrió **antes** de que el COVID-19 fuera detectado. Su función real fue evitar la implosión de la burbuja de deuda soberana, utilizando la posterior pandemia como la cobertura perfecta para una expansión monetaria sin precedentes destinada a salvar al sistema bancario de su propio agotamiento técnico.
@@ -38,7 +38,8 @@ La Crisis de los Repos de 2019 nos enseña que **la Matrix financiera murió en 
 ---
 **Versión:** 2.0
 **Enfoque:** La crisis de liquidez previa al COVID, el rescate masivo de la FED en septiembre de 2019 y la tesis de la pandemia como cobertura para la impresión monetaria a gran escala.
-**Estado:** Refactoreado a v2.0 - Framework de Ingeniería Financiera y Crisis de Liquidez.
+**Estado:** Refactoreado a TL V.2 - Framework de Ingeniería Financiera y Crisis de Liquidez.
+
 
 
 

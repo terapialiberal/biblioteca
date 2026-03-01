@@ -1,5 +1,5 @@
 ---
-titulo: "Síndrome De Estocolmo Social (v2.0): El Idilio Con El Captor De Derechos"
+titulo: "Síndrome De Estocolmo Social (TL V.2): El Idilio Con El Captor De Derechos"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [derechos, idilio, indefensin, sndrome]
 publish: true
 ---
-# Síndrome De Estocolmo Social (v2.0): El Idilio Con El Captor De Derechos
+# Síndrome De Estocolmo Social (TL V.2): El Idilio Con El Captor De Derechos
 
 > [!ABSTRACT] Hipótesis Informativa
 > El Síndrome de Estocolmo Social es el **Estado Psicopolítico de [[Tier C]]** en el cual una población desarrolla un vínculo afectivo, de gratitud y de lealtad hacia el Estado o las élites de **[[Tier A]]** que la oprimen. Su función real en la Matrix es la de un **"Mecanismo de Inmunización ante la Libertad"**: el ciudadano es inducido a percibir la confiscación de sus derechos (propiedad, movilidad, salud) como un acto de "protección", agradeciendo al verdugo por devolverle migajas de libertad o por proporcionarle subsidios pagados con su propio esfuerzo depreciado. Es la fase final de la **[[Indefensión Aprendida]]** colectiva.
@@ -41,7 +41,8 @@ El Síndrome de Estocolmo Social nos enseña que **las cadenas más difíciles d
 ---
 **Versión:** 2.0
 **Enfoque:** El Síndrome de Estocolmo Social como herramienta de control psicopolítico, la identificación de la víctima de Tier C con el Estado de Tier B/A, el uso de crisis artificiales para generar gratitud por la "protección" y la crítica a la indefensión aprendida como base del estatismo moderno.
-**Estado:** Refactoreado a v2.0 - Framework de Psicología de Masas y Poder Político.
+**Estado:** Refactoreado a TL V.2 - Framework de Psicología de Masas y Poder Político.
+
 
 
 

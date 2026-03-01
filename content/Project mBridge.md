@@ -1,4 +1,12 @@
 ---
+titulo: Project mBridge
+tipo: 'organizacion'
+tier-primario: 'a'
+nivel-evidencia: 'medio'
+tags: [clasificado-ai]
+publish: true
+---
+﻿---
 titulo: "Project mBridge: El Bypass Al Petro-Dlar"
 tipo: "concepto"
 fecha: 2026-02-25
@@ -37,11 +45,12 @@ publish: true
 - [[BlackRock BUIDL]]: Su contraparte en el mundo del colateral tokenizado de Occidente.
 - [[BRICS]]: El bloque poltico que impulsa su adopcin.
 - [[Petroyuan]]: mBridge es el vehculo tcnico que hace posible el fin del Petro-Dlar.
-- [[SWIFT]]: El competidor obsoleto (Tier B) que est siendo bypass-eado.
+- [[00_Glosario - Conceptos Fase 1#SWIFT\|SWIFT]]: El competidor obsoleto (Tier B) que est siendo bypass-eado.
 
 ---
-**Falsabilidad**: Si Arabia Saudita vuelve a firmar un acuerdo de exclusividad total en d�lares con EEUU por razones de protecci�n militar, mBridge perder�a su principal flujo de liquidez estrat�gica.
+**Falsabilidad**: Si Arabia Saudita vuelve a firmar un acuerdo de exclusividad total en dï¿½lares con EEUU por razones de protecciï¿½n militar, mBridge perderï¿½a su principal flujo de liquidez estratï¿½gica.
 
-*Versi�n: 2.0 | Protocolo TL-INTEL v12_0*
+*Versiï¿½n: 2.0 | Protocolo TL-INTEL TL V.2*
+
 
 

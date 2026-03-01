@@ -1,14 +1,12 @@
 ---
+titulo: Opus Dei
+tipo: persona
+fecha: 2026-02-25
+tags: [banco, iese, opus]
+tier-primario: "a"
+nivel-evidencia: "total"
 publish: true
-created: 2026-02-25T22:12:53.020-03:00
-modified: 2026-02-27T13:23:36.258-03:00
-tags:
-  - banco
-  - iese
-  - opus
-cssclasses: ""
 ---
-
 
 # Opus Dei
 
@@ -28,7 +26,7 @@ cssclasses: ""
 - "Hombres y mujeres piadosos buscando la santidad en su trabajo diario". Una verdad que oculta el rol de la prelatura como una **agencia de colocación de poder** transnacional.
 
 ## Conexiones Críticas
-- [[Banco Vaticano (IOR)]]: Gestión histórica de fondos.
+- [[00_Glosario - Conceptos Fase 1#Banco Vaticano (IOR)\|Banco Vaticano (IOR)]]: Gestión histórica de fondos.
 - [[IESE / IPADE]]: Usinas de pensamiento empresarial de Tier B.
 - [[Juan Pablo II]]: El Papa que otorgó a la obra su estatus de poder actual.
 

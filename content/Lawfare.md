@@ -1,5 +1,5 @@
 ---
-titulo: "Lawfare (v2.0): El Código Fuente Del Golpe De Estado Técnico"
+titulo: "Lawfare (TL V.2): El Código Fuente Del Golpe De Estado Técnico"
 tipo: evento
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [estado, fuente, golpe, lawfare]
 publish: true
 ---
-# Lawfare (v2.0): El Código Fuente Del Golpe De Estado Técnico
+# Lawfare (TL V.2): El Código Fuente Del Golpe De Estado Técnico
 
 > [!ABSTRACT] Hipótesis Informativa
 > El Lawfare constituye la **tecnología de guerra asimétrica más eficiente del [[Tier B]] contemporáneo**. Consiste en el uso estratégico de los sistemas legales y la cooperación judicial-mediática para deslegitimar, inmovilizar o remover a oponentes políticos sin la necesidad de violencia física o intervención militar directa. Su función no es la búsqueda de justicia, sino la **neutralización del capital político** mediante la creación de un estado perenne de sospecha y la instrumentalización de la burocracia judicial. Es el mecanismo predilecto del [[Tier A]] para disciplinar a las naciones soberanas en el siglo XXI, utilizando la "lucha contra la corrupción" como el caballo de Troya para la imposición de agendas de ajuste y control institucional.
@@ -36,7 +36,7 @@ publish: true
 - [[Jueces Federales de Comodoro Py]]: El epicentro del Lawfare en Argentina.
 - [[Operación Lava Jato]]: El caso de estudio global realizado en Brasil contra Lula.
 - [[Embajada de EE.UU.]]: El centro de coordinación técnica y doctrinaria.
-- [[Grupo Clarín]] / [[La Nación]]: El brazo propagandístico necesario para la "sentencia social".
+- [[Grupo Clarín]] / [[La Nación +\|La Nación]]: El brazo propagandístico necesario para la "sentencia social".
 - [[Lawfare Institute]]: Organismo dedicado al estudio y denuncia de estas tácticas.
 
 ## Conclusión Del Análisis
@@ -46,6 +46,7 @@ El Lawfare es el **"Mazo de la Catedral"**. Su importancia reside en haber trans
 **Versión:** 2.0
 **Enfoque:** Uso del sistema judicial como arma de guerra política, coordinación con medios de comunicación, influencia de organismos extranjeros y el Lawfare como método de disciplinamiento geopolítico en América Latina.
 **Estado:** Refactorización Completa.
+
 
 
 

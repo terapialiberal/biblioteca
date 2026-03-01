@@ -1,5 +1,5 @@
 ---
-titulo: "NSO Group (v2.0): Mercenarios Del Pánico Digital"
+titulo: "NSO Group (TL V.2): Mercenarios Del Pánico Digital"
 tipo: empresa
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [apple, digital, google, pnico]
 publish: true
 ---
-# NSO Group (v2.0): Mercenarios Del Pánico Digital
+# NSO Group (TL V.2): Mercenarios Del Pánico Digital
 
 > [!ABSTRACT] Hipótesis Informativa
 > NSO Group representa la **privatización de la tiranía técnica**. No es una empresa de software convencional, sino un proxy diplomático del Estado de Israel que utiliza capacidades de ciberinteligencia de grado militar para comprar influencia geopolítica. Su producto estrella, Pegasus, actúa como el martillo del [[Tier A]] para demoler la privacidad del [[Tier C]] y someter a los operadores de [[Tier B]] mediante el chantaje y el espionaje ubicuo.
@@ -45,6 +45,7 @@ NSO Group es la prueba de que **la privacidad es ahora un lujo que el sistema ha
 **Versión:** 2.0
 **Enfoque:** Ciber-mercenarismo, erosión de la privacidad total y uso de la tecnología de vigilancia como herramienta diplomática.
 **Estado:** Refactorización Completa.
+
 
 
 

@@ -1,5 +1,5 @@
 ---
-titulo: "Palantir Gotham Vs Foundry (v2.0): Las Pinzas De La Matrix"
+titulo: "Palantir Gotham Vs Foundry (TL V.2): Las Pinzas De La Matrix"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [gotham, matrix, palantir, pinzas]
 publish: true
 ---
-# Palantir Gotham Vs Foundry (v2.0): Las Pinzas De La Matrix
+# Palantir Gotham Vs Foundry (TL V.2): Las Pinzas De La Matrix
 
 > [!ABSTRACT] Hipótesis Informativa
 > Palantir opera a través de dos herramientas fundamentales que representan las dos caras del control de **[[Tier A]]**. **Gotham** es el martillo de la vigilancia policial y militar, diseñado para cazar individuos y desmantelar redes. **Foundry** es el bisturí de la gestión corporativa y social, diseñado para colonizar el flujo de datos de las instituciones civiles. Juntos, estos sistemas forman una pinza digital que captura tanto la actividad física disidente como la vida económica y biológica del ciudadano de **[[Tier C]]**, convirtiendo la realidad en un conjunto de datos procesables para la gobernanza tecnocrática.
@@ -40,7 +40,8 @@ Gotham y Foundry son las dos hemisferios de un mismo cerebro de control. Mientra
 ---
 **Versión:** 2.0
 **Enfoque:** Diferenciación técnica y estratégica entre las dos plataformas de Palantir, su uso en seguridad vs. gestión social y la pinza de control total que representan.
-**Estado:** Refactoreado a v2.0 - Framework de Herramientas de Vigilancia.
+**Estado:** Refactoreado a TL V.2 - Framework de Herramientas de Vigilancia.
+
 
 
 

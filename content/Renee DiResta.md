@@ -1,5 +1,5 @@
 ---
-titulo: "Renee DiResta (v2.0): La Gestora Del Complejo Industrial De La Censura"
+titulo: "Renee DiResta (TL V.2): La Gestora Del Complejo Industrial De La Censura"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [diresta, industrial, renee, virality]
 publish: true
 ---
-# Renee DiResta (v2.0): La Gestora Del Complejo Industrial De La Censura
+# Renee DiResta (TL V.2): La Gestora Del Complejo Industrial De La Censura
 
 > [!ABSTRACT] Hipótesis Informativa
 > Renee DiResta es la **Operadora de [[Tier B]]** que diseñó el modelo de censura masiva "público-privada" en el ecosistema digital de EE.UU. Con un pasado como becaria de la **[[CIA]]** y directora técnica del Stanford Internet Observatory, DiResta orquestó la infraestructura necesaria para que agencias estatales (**[[CISA]]**, FBI) pudieran censurar al individuo de **[[Tier C]]** a través de las redes sociales sin violar (técnicamente) la Primera Enmienda. Su función real es la **Manufactura del Consenso Algorítmico**: etiquetar verdades incómodas como "desinformación" para proteger las narrativas de poder de la Matrix, especialmente durante las elecciones y la pandemia.
@@ -39,7 +39,8 @@ Renee DiResta nos enseña que **la censura moderna no quema libros, los hace inv
 ---
 **Versión:** 2.0
 **Enfoque:** DiResta como pieza clave en el Complejo Industrial de la Censura, su rol en el Virality Project y la transición de la inteligencia estatal a la academia para el control de la información.
-**Estado:** Refactoreado a v2.0 - Framework de Vigilancia Cognitiva y Censura.
+**Estado:** Refactoreado a TL V.2 - Framework de Vigilancia Cognitiva y Censura.
+
 
 
 

@@ -1,5 +1,5 @@
 ---
-titulo: "Office of Net Assessment (v2.0): El Oráculo De La Guerra Permanente"
+titulo: "Office of Net Assessment (TL V.2): El Oráculo De La Guerra Permanente"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [andrew, assessment, guerra, permanente]
 publish: true
 ---
-# Office of Net Assessment (v2.0): El Oráculo De La Guerra Permanente
+# Office of Net Assessment (TL V.2): El Oráculo De La Guerra Permanente
 
 > [!ABSTRACT] Hipótesis Informativa
 > La Office of Net Assessment (ONA) es el **centro de procesamiento de datos estratégicos de [[Tier A]]** dentro del ejército de EE.UU. Liderada durante décadas por el mítico **Andrew Marshall** ("Yoda"), la ONA no analiza batallas, sino la **trayectoria histórica del poder**. Su función es identificar las tendencias tecnológicas y sociales a 30 años para asegurar que la Matrix militar-industrial mantenga su hegemonía. Es el lugar donde se diseñan las narrativas de "amenaza" que justifican billones de dólares en gasto militar para el **[[Tier C]]**, transformando el futuro en un campo de batalla predecible y gestionado administrativamente.
@@ -39,7 +39,8 @@ La Office of Net Assessment es el ojo que mira al futuro para asegurarse de que 
 ---
 **Versión:** 2.0
 **Enfoque:** Análisis estratégico a largo plazo (30 años), rol de Andrew Marshall en la doctrina militar y la transición hacia la guerra centrada en datos.
-**Estado:** Refactoreado a v2.0 - Framework de Prospectiva Militar.
+**Estado:** Refactoreado a TL V.2 - Framework de Prospectiva Militar.
+
 
 
 

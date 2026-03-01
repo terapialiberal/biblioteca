@@ -1,15 +1,12 @@
 ---
+titulo: Banco De Inglaterra
+tipo: empresa
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [banco, city, familia, inglaterra]
 publish: true
-created: 2026-01-29T19:17:04.732-03:00
-modified: 2026-02-27T13:22:03.121-03:00
-tags:
-  - banco
-  - city
-  - familia
-  - inglaterra
-cssclasses: ""
 ---
-
 # Banco De Inglaterra
 
 ## Perfil TL (Resumen Ejecutivo)
@@ -33,7 +30,7 @@ cssclasses: ""
 - [[City de Londres]] (Su jurisdicción real)
 - [[Reserva Federal]] (Su "sucursal" estadounidense)
 - [[Familia Rothschild]] (Históricos controladores)
-- [[Banco de Pagos Internacionales (BIS)]] (Socio en Basilea)
+- [[Banco de Pagos Internacionales\|Banco de Pagos Internacionales (BIS)]] (Socio en Basilea)
 
 ## Fuentes
 - E.C. Knuth: "The Empire of the City".

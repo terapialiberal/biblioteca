@@ -1,22 +1,29 @@
 ---
+titulo: Metaverso como Prisión de Platón
+tipo: 'concepto'
+tier-primario: 'b'
+nivel-evidencia: 'medio'
+tags: [clasificado-ai]
 publish: true
-created: 2026-02-25T22:08:55.508-03:00
-modified: 2026-02-27T13:23:22.049-03:00
-tags:
-  - metaverso
-  - platn
-  - prisin
-cssclasses: ""
+---
+﻿---
+titulo: Metaverso Como PrisiÃ³n De PlatÃ³n
+tipo: "concepto"
+fecha: 2026-02-25
+tags: [metaverso, platn, prisin]
+tier-primario: "b"
+nivel-evidencia: "medio"
+publish: true
 ---
 
+# Metaverso Como PrisiÃ³n De PlatÃ³n
 
-# Metaverso Como Prisión De Platón
+> [!ABSTRACT] HipÃ³tesis Informativa
+> Nodo perteneciente a la Matrix de Simbolismo y Esoterismo TL V.2.
 
-> [!ABSTRACT] Hipótesis Informativa
-> Nodo perteneciente a la Matrix de Simbolismo y Esoterismo v12_0.
-
-## Análisis De Tiers
+## AnÃ¡lisis De Tiers
 *En desarrollo...*
 
 ## Cui Bono
-*Pendiente de análisis forense.*
+*Pendiente de anÃ¡lisis forense.*
+

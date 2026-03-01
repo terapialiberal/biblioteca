@@ -1,5 +1,5 @@
 ---
-titulo: "Open Philanthropy (v2.0): La Ingeniería Social Del Altruismo Efectivo"
+titulo: "Open Philanthropy (TL V.2): La Ingeniería Social Del Altruismo Efectivo"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [efectivo, effective, open, philanthropy]
 publish: true
 ---
-# Open Philanthropy (v2.0): La Ingeniería Social Del Altruismo Efectivo
+# Open Philanthropy (TL V.2): La Ingeniería Social Del Altruismo Efectivo
 
 > [!ABSTRACT] Hipótesis Informativa
 > Open Philanthropy es la **caja de resonancia financiera de la ideología de [[Tier A]]** en Silicon Valley. Bajo el financiamiento de **Dustin Moskovitz** (cofundador de Facebook), la fundación ha capturado el movimiento del **Altruismo Efectivo (Effective Altruism)** para dirigir miles de millones de dólares hacia agendas tecnocráticas específicas: bioseguridad, **AI Safety** y gobernanza global. Su función es utilizar el barniz de la "racionalidad extrema" para justificar el control de la Matrix sobre los riesgos existenciales del futuro, asegurando que la tecnología sea gestionada por una élite de Tier B "altruista" en lugar de quedar en manos del **[[Tier C]]** soberano.
@@ -39,7 +39,8 @@ Open Philanthropy es el cerebro frío de la nueva élite. Nos enseña que la car
 ---
 **Versión:** 2.0
 **Enfoque:** Captura del movimiento Altruismo Efectivo, financiamiento de regulaciones de IA pro-monopolio y vínculos con el colapso de FTX.
-**Estado:** Refactoreado a v2.0 - Framework de Tecnocracia Filantrópica.
+**Estado:** Refactoreado a TL V.2 - Framework de Tecnocracia Filantrópica.
+
 
 
 

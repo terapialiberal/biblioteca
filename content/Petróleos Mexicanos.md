@@ -1,5 +1,5 @@
 ---
-titulo: "Petróleos Mexicanos (v2.0): El Saqueo Institucionalizado"
+titulo: "Petróleos Mexicanos (TL V.2): El Saqueo Institucionalizado"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [institucionalizado, mexicanos, petrleos, saqueo]
 publish: true
 ---
-# Petróleos Mexicanos (v2.0): El Saqueo Institucionalizado
+# Petróleos Mexicanos (TL V.2): El Saqueo Institucionalizado
 
 > [!ABSTRACT] Hipótesis Informativa
 > Petróleos Mexicanos (Pemex) es la **Caja de Resonancia del [[Tier B]] corrupto en México**, donde la soberanía energética ha sido sacrificada para alimentar el financiamiento de campañas políticas y el crecimiento del crimen organizado. Lejos de ser un orgullo nacional, Pemex opera como una estructura de **Extracción de Renta para la Ã‰lite**, donde el "Huachicoleo" (robo de combustible) es una operación simbiótica entre los cárteles y los empleados de confianza de la empresa, permitiendo que la Matrix del narcotráfico se financie directamente del activo más importante del Estado.
@@ -30,7 +30,7 @@ publish: true
 - [[Emilio Lozoya]]: El director de Pemex que reveló la trama de corrupción internacional.
 - [[Narcotráfico]]: El socio operativo en la logística del combustible robado.
 - [[PRI]]: El partido que diseñó el modelo de Pemex como caja chica.
-- [[Crisis Energética]]: El resultado final de priorizar el saqueo sobre la inversión técnica.
+- [[00_Glosario - Conceptos Fase 1#Crisis Energética\|Crisis Energética]]: El resultado final de priorizar el saqueo sobre la inversión técnica.
 
 ## Conclusión Del Análisis
 Petróleos Mexicanos nos enseña que **las empresas estatales sin auditoría son, por definición, armerías del crimen organizado**. Nos advierte que la retórica del "patrimonio nacional" es el refugio de los saqueadores. Para el investigador soberano del Tier C, Pemex es la prueba de que el control estatal de los recursos naturales no produce riqueza para el pueblo, sino poder para la casta y munición para los cárteles. La libertad exige la desmonopolización energética y la transparencia absoluta que solo la competencia real puede imponer sobre los señores del petróleo.
@@ -38,7 +38,8 @@ Petróleos Mexicanos nos enseña que **las empresas estatales sin auditoría son
 ---
 **Versión:** 2.0
 **Enfoque:** El Huachicoleo como operación mixta Estado-Narco, Pemex como financiador de campañas presidenciales y el caso Odebrecht como eje de la corrupción regional.
-**Estado:** Refactoreado a v2.0 - Framework de Corrupción de Recursos Naturales.
+**Estado:** Refactoreado a TL V.2 - Framework de Corrupción de Recursos Naturales.
+
 
 
 

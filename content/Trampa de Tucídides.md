@@ -1,15 +1,12 @@
 ---
+titulo: Trampa De Tucídides
+tipo: evento
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [china, poder, trampa, tucdides]
 publish: true
-created: 2026-01-29T19:17:40.856-03:00
-modified: 2026-02-27T13:07:30.446-03:00
-tags:
-  - china
-  - poder
-  - trampa
-  - tucdides
-cssclasses: ""
 ---
-
 # Trampa De Tucídides
 
 ## Resumen Ejecutivo
@@ -33,8 +30,8 @@ La "Trampa" es que incluso si ninguno *quiere* guerra, la paranoia mutua y los i
 - **Taiwán:** Es el detonador de esta trampa. El equivalente a Sarajevo en 1914.
 
 ## Conexiones
-- [[China (Rise of)]]
-- [[Poder Marítimo (Alfred Thayer Mahan)]]
+- [[00_Glosario - Conceptos Fase 1#China (Rise of)\|China (Rise of)]]
+- [[00_Glosario - Conceptos Fase 1#Poder Marítimo (Alfred Thayer Mahan)\|Poder Marítimo (Alfred Thayer Mahan)]]
 - [[WW3]]
 
 ## Fuentes

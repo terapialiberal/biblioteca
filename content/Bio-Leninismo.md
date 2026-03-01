@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:05.405-03:00
-modified: 2026-02-27T13:22:05.163-03:00
+modified: 2026-02-27T13:22:29.099-03:00
 tags:
   - leninismo
   - spandrell

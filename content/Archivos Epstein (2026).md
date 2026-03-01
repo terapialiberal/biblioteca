@@ -1,15 +1,12 @@
 ---
+titulo: "Archivos Epstein (2026): El Vertido De Datos Definitivo"
+tipo: articulo
+fecha: 2026-01-30
+tier-primario: "b"
+nivel-evidencia: "alto"
+tags: [andrew, archivos, definitivo, vertido]
 publish: true
-created: 2026-02-25T17:52:48.586-03:00
-modified: 2026-02-27T13:21:59.930-03:00
-tags:
-  - andrew
-  - archivos
-  - definitivo
-  - vertido
-cssclasses: ""
 ---
-
 # Archivos Epstein (2026): El Vertido De Datos Definitivo
 
 > [!ABSTRACT] Hipótesis Informativa
@@ -51,6 +48,7 @@ Los Archivos Epstein de 2026 no son el fin de la red, sino su **reconfiguración
 ---
 **Versión:** 12.1
 **Enfoque:** Análisis de datos técnicos, nexos DEA y purga de Tier B.
-**Estado:** Nodo Crítico v12_1.
+**Estado:** Nodo Crítico TL V.2.
+
 
 

@@ -1,16 +1,13 @@
 ---
+titulo: "Plan Cóndor 2.0 (Lawfare) (TL V.2): La Guerra Por Otros Medios"
+tipo: evento
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [guerra, lawfare, medios, otros]
 publish: true
-created: 2026-01-29T19:17:30.759-03:00
-modified: 2026-02-27T13:23:41.237-03:00
-tags:
-  - guerra
-  - lawfare
-  - medios
-  - otros
-cssclasses: ""
 ---
-
-# Plan Cóndor 2.0 (Lawfare) (v2.0): La Guerra Por Otros Medios
+# Plan Cóndor 2.0 (Lawfare) (TL V.2): La Guerra Por Otros Medios
 
 > [!ABSTRACT] Hipótesis Informativa
 > El Plan Cóndor 2.0 es la **Evolución Tecnocrática del [[Tier A]]** para neutralizar a los líderes políticos y movimientos soberanistas en Latinoamérica sin la necesidad de golpes militares tradicionales. En lugar de tanques y fusiles, se utiliza el **Lawfare** (Guerra Jurídica): una coordinación trasnacional entre fiscalías, servicios de inteligencia y grandes medios de comunicación para criminalizar y proscribir a las figuras del **[[Tier B]]** que desafían la agenda atlantista. Mediante el uso estratégico de la lucha contra la corrupción, el sistema instala regímenes dóciles que entregan los recursos naturales del **[[Tier C]]** al capital financiero global.
@@ -41,7 +38,8 @@ Plan Cóndor 2.0 nos enseña que **el mazo del juez es el nuevo fusil del corone
 ---
 **Versión:** 2.0
 **Enfoque:** La sustitución de los golpes militares por procesos judiciales coordinados desde EE.UU., el rol de los medios en el linchamiento público y el Lawfare como herramienta de proscripción política regional.
-**Estado:** Refactoreado a v2.0 - Framework de Operaciones Judiciales Geopolíticas.
+**Estado:** Refactoreado a TL V.2 - Framework de Operaciones Judiciales Geopolíticas.
+
 
 
 

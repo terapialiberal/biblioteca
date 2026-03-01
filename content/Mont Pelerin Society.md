@@ -1,5 +1,5 @@
 ---
-titulo: "Mont Pelerin Society (v2.0): El Politburó Del Neoliberalismo"
+titulo: "Mont Pelerin Society (TL V.2): El Politburó Del Neoliberalismo"
 tipo: organizacion
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [atlas, neoliberalismo, pelerin, society]
 publish: true
 ---
-# Mont Pelerin Society (v2.0): El Politburó Del Neoliberalismo
+# Mont Pelerin Society (TL V.2): El Politburó Del Neoliberalismo
 
 > [!ABSTRACT] Hipótesis Informativa
 > La Mont Pelerin Society (MPS), fundada por **[[Friedrich Hayek]]** en 1947, funciona como el **Estado Mayor Intelectual del [[Tier A]]**. No se trata de un club de debate, sino de una **red de planificación centralizada para imponer el "libre mercado"**. Su éxito histórico radica en haber construido una infraestructura global de think tanks (**[[Atlas Network]]**) que manufactura el consenso ideológico necesario para desmantelar Estados Nación y transferir activos públicos al capital transnacional. La MPS resolvió la paradoja: para instalar la libertad económica absoluta de las corporaciones, se requiere una captura total y secreta de la academia y la política.
@@ -32,7 +32,7 @@ publish: true
 - [[Milton Friedman]]: El evangelista mediático.
 - [[Atlas Network]]: El ejército de ocupación ideológica.
 - [[Escuela de Chicago]]: La cantera académica.
-- [[Margareth Thatcher]] / [[Ronald Reagan]]: Los ejecutores políticos del plan.
+- [[Margaret Thatcher\|Margareth Thatcher]] / [[Ronald Reagan]]: Los ejecutores políticos del plan.
 
 ## Conclusión Del Análisis
 La Mont Pelerin Society es la prueba de que las "ideas" no flotan en el aire; son armas que se financian y despliegan estratégicamente. Lograron convencer al mundo de que la codicia institucionalizada es la única forma racional de organización social. Son los verdaderos dueños del software mental de la derecha moderna.
@@ -40,7 +40,8 @@ La Mont Pelerin Society es la prueba de que las "ideas" no flotan en el aire; so
 ---
 **Versión:** 2.0
 **Enfoque:** Rol como planificador central del neoliberalismo, red Atlas Network, paradoja de imponer libertad mediante influencia secreta y conexión con dictaduras de mercado.
-**Estado:** Refactoreado a v2.0 - Framework de Guerra Ideológica.
+**Estado:** Refactoreado a TL V.2 - Framework de Guerra Ideológica.
+
 
 
 

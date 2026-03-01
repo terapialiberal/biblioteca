@@ -1,5 +1,5 @@
 ---
-titulo: "Jim Simons (v2.0): El Criptógrafo Del Capital Soberano"
+titulo: "Jim Simons (TL V.2): El Criptógrafo Del Capital Soberano"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [capital, robert, simons, soberano]
 publish: true
 ---
-# Jim Simons (v2.0): El Criptógrafo Del Capital Soberano
+# Jim Simons (TL V.2): El Criptógrafo Del Capital Soberano
 
 > [!ABSTRACT] Hipótesis Informativa
 > Jim Simons representa la **fusión total entre la criptografía militar y la extracción de renta financiera**. Como ex-operador de la [[NSA]], aplicó técnicas de desciframiento de códigos soviéticos para "hackear" el flujo de precios global, creando el **Medallion Fund**: el vehículo de acumulación de capital más eficiente de la historia (66% de retorno anual promedio). Su función para el [[Tier A]] fue prototipar la **automatización del dominio financiero**, donde el algoritmo reemplaza a la ley y la intuición humana, permitiendo que una élite tecnológica extraiga riqueza sistemática del [[Tier C]] mediante la manipulación técnica de los mercados en microsegundos.
@@ -45,6 +45,7 @@ Jim Simons es el **"Hacker de la Matrix Financiera"**. Su vida es el recordatori
 **Versión:** 2.0
 **Enfoque:** Fusión inteligencia-finanzas, retornos estadísticamente imposibles (Medallion) y el algoritmo como herramienta de soberanía extra-estatal.
 **Estado:** Refactorización Completa.
+
 
 
 

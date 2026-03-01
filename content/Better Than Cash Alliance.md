@@ -1,15 +1,12 @@
 ---
+titulo: Better Than Cash Alliance
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [better, bill, cash, crdito]
 publish: true
-created: 2026-01-29T19:17:05.244-03:00
-modified: 2026-02-27T13:07:14.552-03:00
-tags:
-  - better
-  - bill
-  - cash
-  - crdito
-cssclasses: ""
 ---
-
 # Better Than Cash Alliance
 
 ## Resumen Ejecutivo
@@ -37,9 +34,9 @@ En una sociedad "Cashless" (sin efectivo):
 - "Lucha contra el lavado de dinero"
 
 ## Conexiones
-- [[Bill & Melinda Gates Foundation]]
+- [[00_Glosario - Conceptos Fase 1#Bill & Melinda Gates Foundation\|Bill & Melinda Gates Foundation]]
 - [[Narendra Modi]]
-- [[CBDC (Central Bank Digital Currency)]] (La herramienta final)
+- [[00_Glosario - Conceptos Fase 1#CBDC (Central Bank Digital Currency)\|CBDC (Central Bank Digital Currency)]] (La herramienta final)
 
 ## Fuentes
 - Sitio web official de Better Than Cash Alliance.

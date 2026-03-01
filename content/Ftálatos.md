@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:14.325-03:00
-modified: 2026-02-27T13:06:40.934-03:00
+modified: 2026-02-27T13:07:03.360-03:00
 tags:
   - biolgica
   - bisfenol

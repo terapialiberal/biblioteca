@@ -1,15 +1,12 @@
 ---
+titulo: Mark Carney
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [banco, blackrock, carney, mark]
 publish: true
-created: 2026-01-29T19:17:24.050-03:00
-modified: 2026-02-27T13:23:18.901-03:00
-tags:
-  - banco
-  - blackrock
-  - carney
-  - mark
-cssclasses: ""
 ---
-
 # Mark Carney
 
 ## Resumen Ejecutivo
@@ -33,7 +30,7 @@ Mark Carney es el hombre que está transformando el sistema bancario en una **Po
 ---
 
 ## Conexiones
-- [[Banco Central Europeo]] / [[BCE]]
+- [[Banco Central Europeo]] / [[00_Glosario - Conceptos Fase 1#BCE\|BCE]]
 - [[BlackRock]] / [[Larry Fink]] (Socio en GFANZ)
 - [[Gran Reset]] / [[WEF]]
 - [[CBDC (Monedas Digitales de Banco Central)]]

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:08.588-03:00
-modified: 2026-02-27T13:06:28.481-03:00
+modified: 2026-02-27T13:06:51.748-03:00
 tags:
   - conferencia
   - jekyll

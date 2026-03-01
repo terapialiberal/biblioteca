@@ -1,5 +1,5 @@
 ---
-titulo: "Recorded Future (v2.0): El Oráculo De La Matrix Predictiva"
+titulo: "Recorded Future (TL V.2): El Oráculo De La Matrix Predictiva"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [future, google, matrix, predictiva]
 publish: true
 ---
-# Recorded Future (v2.0): El Oráculo De La Matrix Predictiva
+# Recorded Future (TL V.2): El Oráculo De La Matrix Predictiva
 
 > [!ABSTRACT] Hipótesis Informativa
 > Recorded Future es la **Infraestructura de Inteligencia Predictiva de [[Tier A]]** diseñada para anticipar y neutralizar el comportamiento humano antes de que ocurra. Financiada originalmente por los brazos de inversión de **[[Google]]** y la **[[CIA]]** (In-Q-Tel), la empresa escanea toda la web abierta, la dark web y las redes sociales para construir un "gráfico de inteligencia" que predice disturbios civiles, ciberataques y cambios políticos. Su adquisición por **[[Mastercard]]** en 2024 marca la fusión definitiva entre la **Vigilancia de Pensamiento** y la **Vigilancia Financiera**, consolidando el sistema de **[[Pre-Crimen]]** totalitario sobre el individuo de **[[Tier C]]**.
@@ -38,7 +38,8 @@ Recorded Future nos enseña que **el anonimato ha muerto bajo el peso del Big Da
 ---
 **Versión:** 2.0
 **Enfoque:** La unión de Google y la CIA para crear inteligencia predictiva, la transición hacia el control financiero vía Mastercard y el uso de la IA para el pre-crimen social.
-**Estado:** Refactoreado a v2.0 - Framework de Vigilancia Predictiva y Pre-Crimen.
+**Estado:** Refactoreado a TL V.2 - Framework de Vigilancia Predictiva y Pre-Crimen.
+
 
 
 

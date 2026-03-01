@@ -29,7 +29,7 @@ No fue una revuelta de "campesinos oprimidos" espontnea. Fue una operacin de cam
 
 ## Conexiones
 - [[Antony Sutton]]
-- [[Jacob Schiff]]
+- [[00_Glosario - Conceptos Fase 1#Jacob Schiff\|Jacob Schiff]]
 - [[Reserva Federal]]
 
 ## Fuentes

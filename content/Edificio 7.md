@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:10.891-03:00
-modified: 2026-02-27T13:22:32.426-03:00
+modified: 2026-02-27T13:23:02.030-03:00
 tags:
   - anomalas
   - edificio

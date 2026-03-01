@@ -1,5 +1,5 @@
 ---
-titulo: "Samsung (v2.0): El Estado-Corporación Y La Arquitectura De La Dependencia"
+titulo: "Samsung (TL V.2): El Estado-Corporación Y La Arquitectura De La Dependencia"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [corporacin, dependencia, estado, tsmc]
 publish: true
 ---
-# Samsung (v2.0): El Estado-Corporación Y La Arquitectura De La Dependencia
+# Samsung (TL V.2): El Estado-Corporación Y La Arquitectura De La Dependencia
 
 > [!ABSTRACT] Hipótesis Informativa
 > Samsung no es simplemente una empresa de electrónica, sino la **Estructura de Poder de [[Tier A]]** que constituye la columna vertebral de Corea del Sur. Como el "Chaebol" (conglomerado familiar) definitivo, Samsung representa aproximadamente el **20% del PIB** nacional, funcionando como un **Estado dentro del Estado**. Su función real es la de un **"Agente de Captura Sistémica"**: controla desde la industria pesada y los seguros hasta la tecnología de semiconductores de vanguardia, asegurando que la soberanía de Corea del Sur y la vida cotidiana del **[[Tier C]]** estén indisolublemente ligadas al éxito y la supervivencia de la familia Lee.
@@ -41,7 +41,8 @@ Samsung nos teaches que **una corporación lo suficientemente grande deja de ser
 ---
 **Versión:** 2.0
 **Enfoque:** Samsung como Chaebol dominante en Corea del Sur, el poder de la familia Lee sobre la justicia y la política, y su rol crítico como fabricante de semiconductores en la cadena de suministro global.
-**Estado:** Refactoreado a v2.0 - Framework de Estado-Corporación y Monopolio Tecnocrático.
+**Estado:** Refactoreado a TL V.2 - Framework de Estado-Corporación y Monopolio Tecnocrático.
+
 
 
 

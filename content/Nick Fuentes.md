@@ -1,5 +1,5 @@
 ---
-titulo: "Nick Fuentes (v2.0): El Marcador De Límite Y El Cebo De Radicalización"
+titulo: "Nick Fuentes (TL V.2): El Marcador De Límite Y El Cebo De Radicalización"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [cebo, complejo, lmite, nick]
 publish: true
 ---
-# Nick Fuentes (v2.0): El Marcador De Límite Y El Cebo De Radicalización
+# Nick Fuentes (TL V.2): El Marcador De Límite Y El Cebo De Radicalización
 
 > [!ABSTRACT] Hipótesis Informativa
 > Nick J. Fuentes funciona como el **espantapájaros de radicalización** dentro de la Matrix de Poder. Independientemente de si su activismo es orgánico o una **Operación de Bandera Falsa Intelectual**, su utilidad para el **[[Tier A]]** es innegable: él provee el "ruido tóxico" necesario para que el **[[Tier B]]** legislativo y corporativo justifique la expansión del **[[Complejo Industrial de la Censura]]** y el **De-banking**. Fuentes es el borde externo que permite al sistema agrupar toda disidencia real bajo una etiqueta de extremismo marginal, neutralizando el descontento de la juventud de **[[Tier C]]** mediante círculos ideológicos cerrados y estériles.
@@ -38,7 +38,8 @@ Nick Fuentes es el hombre al final del callejón del sistema. Su importancia res
 ---
 **Versión:** 2.0
 **Enfoque:** Uso sistémico de su radicalismo para justificar censura, daño por asociación a movimientos populistas y distracción de los temas estructurales de poder.
-**Estado:** Refactoreado a v2.0 - Framework de Radicalización Controlada.
+**Estado:** Refactoreado a TL V.2 - Framework de Radicalización Controlada.
+
 
 
 

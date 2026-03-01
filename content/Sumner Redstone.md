@@ -1,5 +1,5 @@
 ---
-titulo: "Sumner Redstone (v2.0): El Arquitecto Del Psiquismo Colectivo"
+titulo: "Sumner Redstone (TL V.2): El Arquitecto Del Psiquismo Colectivo"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [viacom, media, content, redstone]
 publish: true
 ---
-# Sumner Redstone (v2.0): El Arquitecto Del Psiquismo Colectivo
+# Sumner Redstone (TL V.2): El Arquitecto Del Psiquismo Colectivo
 
 > [!ABSTRACT] Hipótesis Informativa
 > Sumner Redstone fue el **Oligarca de [[Tier A]]** que consolidó uno de los pilares más influyentes de la Matrix cultural estadounidense: el imperio **Viacom/CBS**. Con su lema *"Content is King"* (El contenido es el rey), su función real fue la de un **"Ingeniero de la Percepción Cultural"**: centralizar bajo un solo mando la producción de noticias (CBS), cine (Paramount) y subculturas juveniles (MTV, Nickelodeon). Redstone no solo acumuló riqueza, sino que diseñó los marcos de referencia morales y estéticos del **[[Tier C]]** global, asegurando que la narrativa de la élite de Tier A fuera consumida como entretenimiento inofensivo por generaciones enteras.
@@ -41,7 +41,8 @@ Sumner Redstone nos enseña que **quien controla lo que el pueblo ama, controla 
 ---
 **Versión:** 2.0
 **Enfoque:** Sumner Redstone como oligarca de medios de Tier A, la consolidación de Viacom/CBS, el uso de MTV y Nickelodeon para la ingeniería social, y su frase "Content is King" como la base de la captura del psiquismo colectivo del Tier C.
-**Estado:** Refactoreado a v2.0 - Framework de Monopolio Mediático e Ingeniería Cultural.
+**Estado:** Refactoreado a TL V.2 - Framework de Monopolio Mediático e Ingeniería Cultural.
+
 
 
 

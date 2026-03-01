@@ -1,16 +1,13 @@
 ---
+titulo: YOUNG GLOBAL LEADERS (YGL) (TL V.2)
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "alto"
+tags: [global, klaus, leaders, young]
 publish: true
-created: 2026-02-25T15:43:14.559-03:00
-modified: 2026-02-27T13:24:13.387-03:00
-tags:
-  - global
-  - klaus
-  - leaders
-  - young
-cssclasses: ""
 ---
-
-# YOUNG GLOBAL LEADERS (YGL) (v12_1)
+# YOUNG GLOBAL LEADERS (YGL) (TL V.2)
 
 #### BLUF
 Los Young Global Leaders (YGL) son la **Red de Infiltración Transversal** del World Economic Forum. No es un club de becas; es un sistema de **Sincronización Ideológica** diseñado para asegurar que los futuros líderes de gobiernos, empresas y medios de comunicación compartan la misma gramática tecnocrática. En 2026, los egresados de YGL ocupan puestos clave en más del 40% de los gabinetes del G20, permitiendo que el WEF "penetre en los gabinetes" (Schwab dixit) de forma irreversible.
@@ -73,6 +70,7 @@ El YGL es simplemente una red de networking moderna. El mundo es complejo y glob
 ¿Cuáles son los acuerdos de confidencialidad que firman los YGL durante sus retiros de formación en Suiza y qué sanciones enfrentan si se desvían de la "visión estratégica"?
 
 ---
-*Dossier forense v12_1 | La Selección de la Casta Tecnocrática*
+*Dossier forense TL V.2 | La Selección de la Casta Tecnocrática*
+
 
 

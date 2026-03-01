@@ -1,5 +1,5 @@
 ---
-titulo: "La Humillación En El Sahel (v2.0): El Colapso Del Neocolonialismo De Tier A"
+titulo: "La Humillación En El Sahel (TL V.2): El Colapso Del Neocolonialismo De Tier A"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [brics, colapso, humillacin, neocolonialismo]
 publish: true
 ---
-# La Humillación En El Sahel (v2.0): El Colapso Del Neocolonialismo De Tier A
+# La Humillación En El Sahel (TL V.2): El Colapso Del Neocolonialismo De Tier A
 
 > [!ABSTRACT] Hipótesis Informativa
 > La pérdida del control occidental sobre el Sahel constituye una **catástrofe estratégica para el bloque anglo-europeo del [[Tier A]]**. La región, históricamente gestionada por Francia bajo el modelo de *Françafrique*, ha iniciado una desconexión sistémica mediante una serie de golpes de estado militares. Este fenómeno no es meramente político, sino una **rebelión de recursos**: el Tier A occidental ha perdido el acceso privilegiado al uranio (vital para la energía nuclear francesa) y al oro, mientras el eje **[[BRICS]]+** (Rusia/China) asume el rol de nuevo garante de seguridad y socio comercial, marcando el fin de la era de la extracción neocolonial asimétrica.
@@ -46,6 +46,7 @@ La Humillación en el Sahel es el **"Vietnam de la hegemonía francesa"**. Su im
 **Versión:** 2.0
 **Enfoque:** Colapso de la influencia francesa (Françafrique), importancia estratégica del uranio para la UE y el giro geopolítico hacia Rusia y China como nuevos garantes de seguridad y extracción.
 **Estado:** Refactorización Completa.
+
 
 
 

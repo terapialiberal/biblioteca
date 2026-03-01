@@ -1,15 +1,12 @@
 ---
+titulo: Evergreen International Aviation
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [aviation, evergreen, modificacin, naciones]
 publish: true
-created: 2026-01-29T19:17:12.765-03:00
-modified: 2026-02-27T13:07:04.052-03:00
-tags:
-  - aviation
-  - evergreen
-  - modificacin
-  - naciones
-cssclasses: ""
 ---
-
 # Evergreen International Aviation
 
 ## Resumen General
@@ -24,7 +21,7 @@ Compañía de aviación y carga que heredó muchas misiones y activos de las aer
 *   **Quiebra:** Colapsó sospechosamente en 2013, borrando rastros.
 
 ## Conexiones
-- [[Chemtrails (Geoingeniería)]]
+- [[00_Glosario - Conceptos Fase 1#Chemtrails (Geoingeniería)\|Chemtrails (Geoingeniería)]]
 - [[CIA]]
 - [[Operaciones Negras]]
 

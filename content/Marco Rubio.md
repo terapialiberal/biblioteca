@@ -1,15 +1,12 @@
 ---
+titulo: Marco Rubio
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [aipac, donald, marco, rubio]
 publish: true
-created: 2026-01-29T19:17:23.811-03:00
-modified: 2026-02-27T13:06:41.794-03:00
-tags:
-  - aipac
-  - donald
-  - marco
-  - rubio
-cssclasses: ""
 ---
-
 # Marco Rubio
 
 ## Resumen Ejecutivo
@@ -35,7 +32,7 @@ Marco Rubio no es un rebelde contra el sistema; es el **Sistema redecorado con u
 ## Conexiones
 - [[Donald Trump]]
 - [[AIPAC]] (Su principal soporte financiero y político)
-- [[Neoconservadores]]
+- [[00_Glosario - Conceptos Fase 1#Neoconservadores\|Neoconservadores]]
 - [[Guerra Fría 2.0 (China)]]
 - [[Benjamin Netanyahu]]
 

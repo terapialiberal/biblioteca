@@ -1,5 +1,5 @@
 ---
-titulo: "Sesgo Algorítmico (v2.0): La Codificación De La Verdad Oficial"
+titulo: "Sesgo Algorítmico (TL V.2): La Codificación De La Verdad Oficial"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [guerra, sesgo, silicon, verdad]
 publish: true
 ---
-# Sesgo Algorítmico (v2.0): La Codificación De La Verdad Oficial
+# Sesgo Algorítmico (TL V.2): La Codificación De La Verdad Oficial
 
 > [!ABSTRACT] Hipótesis Informativa
 > El Sesgo Algorítmico no es un error técnico aleatorio, sino una **Herramienta de Ingeniería Social de [[Tier B]]** diseñada para moldear la percepción de la realidad del **[[Tier C]]**. Bajo el pretexto de la "seguridad" y la "ética" (RLHF), las corporaciones de Silicon Valley inyectan una moralidad progresista-tecnocrática en los modelos de Lenguaje y de Imagen. Su función real es la de un **"Filtro Ideológico Invisible"**: asegurar que la Inteligencia Artificial actúe como un policía del pensamiento que penaliza las visiones soberanas, tradicionales o disidentes, forzando un consenso global diseñado por la élite de **[[Tier A]]**.
@@ -31,7 +31,7 @@ publish: true
 ## Conexiones Críticas
 - [[Silicon Valley]]: La cuna ideológica del sesgo.
 - [[Google Gemini Founding Fathers Scandal]]: El caso de estudio de la distorsión histórica.
-- [[Marxismo Cultural]]: El marco de referencia del sesgo en Occidente.
+- [[00_Glosario - Conceptos Fase 1#Marxismo Cultural\|Marxismo Cultural]]: El marco de referencia del sesgo en Occidente.
 - [[Inteligencia Artificial]]: El campo de batalla por el alma de la red.
 - [[Propaganda]]: La técnica tradicional mecanizada por algoritmos.
 
@@ -40,9 +40,10 @@ El Sesgo Algorítmico nos enseña que **el código nunca es neutral: es la volun
 
 **Versión:** 2.0
 **Enfoque:** El sesgo como diseño deliberado de ingeniería social, el uso de RLHF para imponer la corrección política, el escándalo de Gemini como ejemplo de distorsión histórica y el impacto de la IA en la atrofia del pensamiento crítico del Tier C.
-**Estado:** Refactoreado a v2.0 - Framework de Tecnocracia e Ingeniería de la Percepción. 
+**Estado:** Refactoreado a TL V.2 - Framework de Tecnocracia e Ingeniería de la Percepción. 
 ---
 **Nota de Sincronización:** Este archivo es fundamental para entender cómo la Matrix moderna ya no censura por la fuerza, sino por la arquitectura del conocimiento.
+
 
 
 

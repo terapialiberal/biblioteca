@@ -1,5 +1,5 @@
 ---
-titulo: "Serco (v2.0): El Gestor Invisible De La Soberanía Privatizada"
+titulo: "Serco (TL V.2): El Gestor Invisible De La Soberanía Privatizada"
 tipo: empresa
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [corona, invisible, reino, serco]
 publish: true
 ---
-# Serco (v2.0): El Gestor Invisible De La Soberanía Privatizada
+# Serco (TL V.2): El Gestor Invisible De La Soberanía Privatizada
 
 > [!ABSTRACT] Hipótesis Informativa
 > Serco es la **Corporación de [[Tier A]]** que representa la mayor transferencia de funciones estatales hacia el sector privado en la historia moderna. Actuando como un **"Estado Paralelo de Servicios"**, Serco gestiona desde el arsenal nuclear del Reino Unido y el control de tráfico aéreo global hasta prisiones, sistemas de salud (Obamacare) y el rastreo de contactos durante pandemias. Su función real es la de un **"Administrador de la Matrix Administrativa"**: una entidad que opera las venas y arterias de las naciones sin responder ante ningún electorado, asegurando que la infraestructura de control sobre el **[[Tier C]]** permanezca en manos de una aristocracia corporativa vinculada al establishment británico.
@@ -41,7 +41,8 @@ Serco nos enseña que **el Estado moderno es una cáscara vacía llena de contra
 ---
 **Versión:** 2.0
 **Enfoque:** Serco como gestor global de servicios estatales privatizados, su conexión con la élite británica (Soames/Churchill), su rol en la infraestructura crítica de la defensa y la salud, y el impacto de la deslocalización de la soberanía en el ciudadano de Tier C.
-**Estado:** Refactoreado a v2.0 - Framework de Privatización y Estado Corporativo.
+**Estado:** Refactoreado a TL V.2 - Framework de Privatización y Estado Corporativo.
+
 
 
 

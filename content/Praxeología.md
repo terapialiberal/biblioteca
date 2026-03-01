@@ -1,5 +1,5 @@
 ---
-titulo: "Praxeología (v2.0): La Lógica De La Soberanía Humana"
+titulo: "Praxeología (TL V.2): La Lógica De La Soberanía Humana"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [ludwig, lgica, praxeologa, soberana]
 publish: true
 ---
-# Praxeología (v2.0): La Lógica De La Soberanía Humana
+# Praxeología (TL V.2): La Lógica De La Soberanía Humana
 
 > [!ABSTRACT] Hipótesis Informativa
 > La Praxeología es la **antítesis metodológica de la Ingeniería Social de [[Tier A]]**. Al ser la ciencia deductiva de la acción humana con propósito, demuestra que el comportamiento del individuo no puede ser reducido a ecuaciones matemáticas o modelos de laboratorio. La Praxeología es el escudo intelectual del **[[Tier C]]**: la prueba de que el ser humano es un actor soberano, no un átomo reactivo, invalidando así toda pretensión de planificación central y control tecnocrático de la sociedad.
@@ -38,7 +38,8 @@ La Praxeología es la ciencia de la libertad. Nos enseña que la Matrix no puede
 ---
 **Versión:** 2.0
 **Enfoque:** Deducción lógica vs. empirismo estatal, el individuo como actor con propósito y la invalidación de la planificación tecnocrática.
-**Estado:** Refactoreado a v2.0 - Framework de Soberanía Metodológica.
+**Estado:** Refactoreado a TL V.2 - Framework de Soberanía Metodológica.
+
 
 
 

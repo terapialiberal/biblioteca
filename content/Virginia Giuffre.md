@@ -1,15 +1,12 @@
 ---
+titulo: Resumen General
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [ghislaine, giuffre, jeffrey, virginia]
 publish: true
-created: 2026-01-29T19:17:43.304-03:00
-modified: 2026-02-27T13:06:28.435-03:00
-tags:
-  - ghislaine
-  - giuffre
-  - jeffrey
-  - virginia
-cssclasses: ""
 ---
-
 # Resumen General
 Virginia Roberts Giuffre (1983-) es una de las principales acusadoras de Jeffrey Epstein y Ghislaine Maxwell. Su testimonio público contra príncipes, billonarios y políticos catalizó mucha de la exposición del caso Epstein.
 
@@ -39,7 +36,7 @@ Virginia Roberts Giuffre (1983-) es una de las principales acusadoras de Jeffrey
 # Conexiones
 - [[Jeffrey Epstein]]
 - [[Ghislaine Maxwell]]
-- [[Archivos Epstein (2024)]]
+- [[Archivos Epstein (2026)\|Archivos Epstein (2024)]]
 - [[Trump y Epstein (Cronología)]]
 - [[Honey Pot (Operación)]]
 

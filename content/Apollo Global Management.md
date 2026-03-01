@@ -33,7 +33,7 @@ Renunci como CEO en 2021 tras revelaciones.
 ## Conexiones
 - [[Leon Black]] (fundador)
 - [[Jeffrey Epstein]] (pagos millonarios)
-- [[Blackstone Group]], [[KKR]] (competidores)
+- [[00_Glosario - Conceptos Fase 1#Blackstone Group\|Blackstone Group]], [[KKR]] (competidores)
 
 ## Fuentes
 - SEC filings

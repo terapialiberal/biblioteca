@@ -1,15 +1,12 @@
 ---
+titulo: Fragmentación Del Discurso
+tipo: evento
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [atomizacin, discurso, dividir, fragmentacin]
 publish: true
-created: 2026-01-29T19:17:14.017-03:00
-modified: 2026-02-27T13:22:44.297-03:00
-tags:
-  - atomizacin
-  - discurso
-  - dividir
-  - fragmentacin
-cssclasses: ""
 ---
-
 # Fragmentación Del Discurso
 
 ## Perfil TL (Resumen Ejecutivo)
@@ -32,7 +29,7 @@ cssclasses: ""
 
 ## Conexiones Clave
 - [[Dividir y Reinar (Divide et Impera)]] (Su objetivo estratégico)
-- [[Consenso Manufacturado]] (La versión anterior, centralizada)
+- [[00_Glosario - Conceptos Fase 1#Consenso Manufacturado\|Consenso Manufacturado]] (La versión anterior, centralizada)
 - [[Efecto de Redes Sociales / Dopamina]] (Su motor biológico)
 - [[Guerra de Quinta Generación (5GW)]] (Su categoría militar)
 

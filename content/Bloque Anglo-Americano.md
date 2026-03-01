@@ -1,15 +1,12 @@
 ---
+titulo: Resumen General
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [americano, bloque, city, five]
 publish: true
-created: 2026-01-29T19:17:05.593-03:00
-modified: 2026-02-27T13:22:06.222-03:00
-tags:
-  - americano
-  - bloque
-  - city
-  - five
-cssclasses: ""
 ---
-
 # Resumen General
 El "bloque anglo-americano" describe la alianza especial entre Reino Unido y Estados Unidos que ha dominado el sistema internacional desde 1945. Incluye las instituciones, finanzas, y operaciones de inteligencia compartidas.
 
@@ -39,7 +36,7 @@ El "bloque anglo-americano" describe la alianza especial entre Reino Unido y Est
 - China: el rival sistémico
 
 # Conexiones
-- [[Five Eyes (Los Cinco Ojos)]]
+- [[00_Glosario - Conceptos Fase 1#Five Eyes (Los Cinco Ojos)\|Five Eyes (Los Cinco Ojos)]]
 - [[City of London]]
 - [[Wall Street]]
 - [[NATO]]

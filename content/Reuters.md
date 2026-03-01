@@ -1,5 +1,5 @@
 ---
-titulo: "Reuters (v2.0): El Monopolio De La Percepción Global"
+titulo: "Reuters (TL V.2): El Monopolio De La Percepción Global"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [blackrock, monopolio, percepcin, reuters]
 publish: true
 ---
-# Reuters (v2.0): El Monopolio De La Percepción Global
+# Reuters (TL V.2): El Monopolio De La Percepción Global
 
 > [!ABSTRACT] Hipótesis Informativa
 > Reuters es la **Infraestructura de Narrativa de [[Tier A]]** que actúa como el "sistema operativo" de la información mundial. Fundada con el respaldo financiero de la **[[Familia Rothschild]]** para obtener primicias de mercado antes que el público, Reuters se ha convertido en el proveedor del 90% de las noticias que consumen los medios locales de **[[Tier C]]**. Su función real es la **Estandarización de la Realidad**: mediante su red de cables y su división de "Fact-Checking" (financiada por intereses farmacéuticos y financieros), Reuters asegura que ninguna información que desafíe los intereses del Tier A (como **[[BlackRock]]** y **[[Pfizer]]**) alcance una difusión masiva sin ser previamente neutralizada o suprimida.
@@ -40,7 +40,8 @@ Reuters nos enseña que **quien controla las noticias no tiene que preocuparse p
 ---
 **Versión:** 2.0
 **Enfoque:** La conexión histórica con los Rothschild, el conflicto de interés con Pfizer en su junta directiva, y el uso de World-Check y el Fact-Checking como herramientas de control social y financiero.
-**Estado:** Refactoreado a v2.0 - Framework de Control de Información y Censura.
+**Estado:** Refactoreado a TL V.2 - Framework de Control de Información y Censura.
+
 
 
 

@@ -1,5 +1,5 @@
 ---
-titulo: "Obeliscos De Poder (v2.0): Las Antenas Del Dominio Geomántico"
+titulo: "Obeliscos De Poder (TL V.2): Las Antenas Del Dominio Geomántico"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [antenas, jesuitas, obeliscos, poder]
 publish: true
 ---
-# Obeliscos De Poder (v2.0): Las Antenas Del Dominio Geomántico
+# Obeliscos De Poder (TL V.2): Las Antenas Del Dominio Geomántico
 
 > [!ABSTRACT] Hipótesis Informativa
 > Los obeliscos no son meros monumentos decorativos, sino **tecnología espiritual de anclaje de [[Tier A]]**. Representan el poder generativo masculino (el falo de Osiris) y funcionan como antenas geománticas encargadas de proyectar autoridad sobre las tres ciudades-estado que gobiernan la Matrix: el **Vaticano** (Religión), la **City de Londres** (Finanzas) y **Washington D.C.** (Militar). Su colocación en puntos de vórtice terrestre asegura que el flujo de energía social y espiritual de las masas (**[[Tier C]]**) sea canalizado hacia los centros de comando de la élite ocultista.
@@ -40,7 +40,8 @@ Los Obeliscos de Poder son los hitos de nuestra prisión. Nos recuerdan que, aun
 ---
 **Versión:** 2.0
 **Enfoque:** Geomancia política, simbolismo sexual ocultista (Osiris) y la conexión de las tres ciudades-estado.
-**Estado:** Refactoreado a v2.0 - Framework de Simbología Arquitectónica.
+**Estado:** Refactoreado a TL V.2 - Framework de Simbología Arquitectónica.
+
 
 
 

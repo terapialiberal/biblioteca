@@ -1,5 +1,5 @@
 ---
-titulo: "Operación Aerodynamic (v2.0): El Vivero De La Insurgencia Ucraniana"
+titulo: "Operación Aerodynamic (TL V.2): El Vivero De La Insurgencia Ucraniana"
 tipo: evento
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [insurgencia, mykola, stepan, ucraniana]
 publish: true
 ---
-# Operación Aerodynamic (v2.0): El Vivero De La Insurgencia Ucraniana
+# Operación Aerodynamic (TL V.2): El Vivero De La Insurgencia Ucraniana
 
 > [!ABSTRACT] Hipótesis Informativa
 > La Operación Aerodynamic fue el proyecto de **[[Tier A]]** para preservar y alimentar el nacionalismo radical en Ucrania como un arma de desestabilización contra la URSS. Al reclutar y proteger a criminales de guerra nazis del **[[OUN-B]]** (como Mykola Lebed), la **[[CIA]]** creó una estructura de poder paralela que operó durante décadas en la sombra. Esta operación representa la génesis del conflicto actual: el sistema utilizó la ideología de **[[Stepan Bandera]]** no por su valor democrático, sino como un **Bio-Proyectil Político** diseñado para fragmentar a Rusia, sacrificando la estabilidad de la región por la hegemonía anglo-americana a largo plazo.
@@ -39,7 +39,8 @@ La Operación Aerodynamic nos enseña que las guerras de hoy se planifican con l
 ---
 **Versión:** 2.0
 **Enfoque:** Reclutamiento de nazis ucranianos por la CIA, creación de Prolog Research Corporation y las raíces históricas de la desestabilización actual en la región.
-**Estado:** Refactoreado a v2.0 - Framework de Ingeniería Geopolítica.
+**Estado:** Refactoreado a TL V.2 - Framework de Ingeniería Geopolítica.
+
 
 
 

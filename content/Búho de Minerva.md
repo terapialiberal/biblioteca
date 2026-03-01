@@ -1,15 +1,12 @@
 ---
+titulo: Búho De Minerva
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [bohemian, bho, illuminati, minerva]
 publish: true
-created: 2026-01-29T19:17:06.137-03:00
-modified: 2026-02-27T13:22:08.254-03:00
-tags:
-  - bohemian
-  - bho
-  - illuminati
-  - minerva
-cssclasses: ""
 ---
-
 ![Bohemian Grove Owl](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Bohemian_Grove_Owl.jpg/220px-Bohemian_Grove_Owl.jpg)
 # Búho De Minerva
 
@@ -35,7 +32,7 @@ Aparece discretamente en el diseño de las calles alrededor del Capitolio en Was
 
 ## Conexiones
 - [[Bohemian Grove]]
-- [[Illuminati]]
+- [[00_Glosario - Conceptos Fase 1#Illuminati\|Illuminati]]
 - [[Albert Pike]]
 
 ## Fuentes

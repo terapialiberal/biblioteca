@@ -1,5 +1,5 @@
 ---
-titulo: "RIGI (Régimen De Incentivo a Las Grandes Inversiones) (v2.0): El Caballo De Troya De La Entrega Soberana"
+titulo: "RIGI (Régimen De Incentivo a Las Grandes Inversiones) (TL V.2): El Caballo De Troya De La Entrega Soberana"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [blackrock, caballo, incentivo, inversiones]
 publish: true
 ---
-# RIGI (Régimen De Incentivo a Las Grandes Inversiones) (v2.0): El Caballo De Troya De La Entrega Soberana
+# RIGI (Régimen De Incentivo a Las Grandes Inversiones) (TL V.2): El Caballo De Troya De La Entrega Soberana
 
 > [!ABSTRACT] Hipótesis Informativa
 > El RIGI es la **Infraestructura Legal de [[Tier A]]** diseñada para consumar la transferencia de activos estratégicos de Argentina (minería, energía, agro) hacia el capital transnacional. Aprobado bajo el marco de la "Ley Bases", este régimen otorga beneficios fiscales, cambiarios y aduaneros inéditos por 30 años a inversiones superiores a los 200 millones de USD. Su función real es la creación de un **Enclave Económico de Tier A** dentro del territorio nacional, donde las multinacionales operan con soberanía propia, sustraídas del control de la justicia argentina y con la garantía de que cualquier disputa será resuelta en tribunales extranjeros (**[[CIADI]]**).
@@ -41,7 +41,8 @@ El RIGI nos enseña que **la libertad del capital suele ser la esclavitud de la 
 ---
 **Versión:** 2.0
 **Enfoque:** El RIGI como estatuto de coloniaje fiscal y jurídico, el trato preferencial a multinacionales frente a la industria nacional y la cesión de soberanía argentina al CIADI.
-**Estado:** Refactoreado a v2.0 - Framework de Derecho y Economía Extractiva.
+**Estado:** Refactoreado a TL V.2 - Framework de Derecho y Economía Extractiva.
+
 
 
 

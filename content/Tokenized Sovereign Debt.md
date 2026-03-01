@@ -1,16 +1,13 @@
 ---
+titulo: TOKENIZED SOVEREIGN DEBT (TL V.2)
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "a"
+nivel-evidencia: "alto"
+tags: [blackrock, digital, naciones, vanguard]
 publish: true
-created: 2026-02-25T15:50:41.672-03:00
-modified: 2026-02-27T13:24:03.977-03:00
-tags:
-  - blackrock
-  - digital
-  - naciones
-  - vanguard
-cssclasses: ""
 ---
-
-# TOKENIZED SOVEREIGN DEBT (v12_1)
+# TOKENIZED SOVEREIGN DEBT (TL V.2)
 
 #### BLUF
 La Deuda Soberana Tokenizada es el **Mecanismo de Ejecución Directa del Tier A**. En 2026, la transición de los bonos del tesoro físicos a "Bonos Digitales Programables" permite que los acreedores institucionales ([[BlackRock]], [[Vanguard]]) tengan capacidad de **Embargo Automatizado** sobre los ingresos fiscales de una nación si esta se desvía de los objetivos ESG o de pago. No es solo eficiencia de mercado; es la sustitución de la diplomacia de deuda por la **Gobernanza del Smart Contract**.
@@ -73,6 +70,7 @@ Es la solución al riesgo de impago. Al hacer la deuda transparente y ejecutable
 ¿Quién posee las "puertas traseras" (backdoors) de emergencia en los puentes (bridges) financieros que conectan la deuda tokenizada con el sistema de liquidación del Banco Central?
 
 ---
-*Dossier forense v12_1 | El Embargo del Futuro*
+*Dossier forense TL V.2 | El Embargo del Futuro*
+
 
 

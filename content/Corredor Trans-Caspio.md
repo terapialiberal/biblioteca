@@ -1,4 +1,12 @@
 ---
+titulo: Corredor Trans-Caspio
+tipo: 'organizacion'
+tier-primario: 'b'
+nivel-evidencia: 'medio'
+tags: [clasificado-ai]
+publish: true
+---
+﻿---
 titulo: "Corredor Trans-Caspio (Middle Corridor): El Bypass De Eurasia"
 tipo: persona
 fecha: 2026-02-25
@@ -39,8 +47,9 @@ publish: true
 - [[Northern Sea Route]]: El competidor rtico controlado por Rusia.
 
 ---
-**Falsabilidad**: Si Rusia logra forzar un acuerdo de paz favorable que reintegre sus redes ferroviarias al sistema de seguros europeo, los costos del Corredor Medio (debido a las transferencias mar�timas en el Caspio) podr�an hacerlo perder competitividad frente a la ruta Trans-Siberiana.
+**Falsabilidad**: Si Rusia logra forzar un acuerdo de paz favorable que reintegre sus redes ferroviarias al sistema de seguros europeo, los costos del Corredor Medio (debido a las transferencias marï¿½timas en el Caspio) podrï¿½an hacerlo perder competitividad frente a la ruta Trans-Siberiana.
 
-*Versi�n: 1.0 | Protocolo TL-INTEL v12_0*
+*Versiï¿½n: 1.0 | Protocolo TL-INTEL TL V.2*
+
 
 

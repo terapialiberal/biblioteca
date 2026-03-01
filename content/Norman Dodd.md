@@ -1,5 +1,5 @@
 ---
-titulo: "Norman Dodd (v2.0): El Testigo Del Secuestro Educativo"
+titulo: "Norman Dodd (TL V.2): El Testigo Del Secuestro Educativo"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [dodd, fundacin, secuestro, testigo]
 publish: true
 ---
-# Norman Dodd (v2.0): El Testigo Del Secuestro Educativo
+# Norman Dodd (TL V.2): El Testigo Del Secuestro Educativo
 
 > [!ABSTRACT] Hipótesis Informativa
 > Norman Dodd es el hombre que descubrió los **planos de la Ingeniería Social masiva de [[Tier A]]**. Como director de investigación del Comité Reece, reveló que las grandes fundaciones exentas de impuestos (Rockefeller, Carnegie, Ford) estaban utilizando su riqueza para subvertir el sistema educativo de EE.UU. Su objetivo era reescribir la historia para condicionar al **[[Tier C]]** hacia la aceptación de un **Gobierno Mundial** y una economía planificada, eliminando la conciencia soberana de las naciones para fundirlas en un bloque tecnocrático global bajo el mando de los acreedores internacionales.
@@ -39,7 +39,8 @@ Norman Dodd nos entregó las llaves del aula de la Matrix. Gracias a su investig
 ---
 **Versión:** 2.0
 **Enfoque:** Investigación del Comité Reece sobre fundaciones exentas de impuestos, el plan de convergencia EE.UU.-URSS y el uso de la guerra como herramienta de ingeniería social.
-**Estado:** Refactoreado a v2.0 - Framework de Historia Oculta de la Educación.
+**Estado:** Refactoreado a TL V.2 - Framework de Historia Oculta de la Educación.
+
 
 
 

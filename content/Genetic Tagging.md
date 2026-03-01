@@ -1,16 +1,13 @@
 ---
+titulo: GENETIC TAGGING (TL V.2)
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "a"
+nivel-evidencia: "alto"
+tags: [23andme, bayer, propiedad, tagging]
 publish: true
-created: 2026-02-25T15:45:35.203-03:00
-modified: 2026-02-27T13:22:45.664-03:00
-tags:
-  - 23andme
-  - bayer
-  - propiedad
-  - tagging
-cssclasses: ""
 ---
-
-# GENETIC TAGGING (v12_1)
+# GENETIC TAGGING (TL V.2)
 
 #### BLUF
 El Marcado Genético es el sistema de **Propiedad Intelectual sobre la Biología**. A través de la inserción de secuencias de ADN sintético operativas como "marcas de agua", el **Tier A** puede reclamar o monitorizar la descendencia de organismos (incluyendo, potencialmente, humanos) bajo la premisa de la protección de patentes. En 2026, lo que comenzó como trazabilidad de ganado y semillas se ha extendido al monitoreo de la salud pública mediante bibliotecas de ADN que catalogan a la población según su susceptibilidad a patógenos específicos.
@@ -73,6 +70,7 @@ Es la única forma de garantizar la seguridad de los medicamentos. Si puedes ras
 ¿Hasta qué punto el marcado genético se está utilizando para identificar "perfiles de resistencia política" en la población basándose en la susceptibilidad al estrés y la obediencia neuronal?
 
 ---
-*Dossier forense v12_1 | La Patente de la Vida*
+*Dossier forense TL V.2 | La Patente de la Vida*
+
 
 

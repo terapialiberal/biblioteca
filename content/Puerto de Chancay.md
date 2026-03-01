@@ -1,15 +1,12 @@
 ---
+titulo: "Puerto De Chancay: El Chokepoint De China En El Pacífico Sur"
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [belt, pacfico, puerto, tringulo]
 publish: true
-created: 2026-02-25T13:59:04.067-03:00
-modified: 2026-02-27T13:23:46.819-03:00
-tags:
-  - belt
-  - pacfico
-  - puerto
-  - tringulo
-cssclasses: ""
 ---
-
 # Puerto De Chancay: El Chokepoint De China En El Pacífico Sur
 
 > [!ABSTRACT] BLUF (Bottom Line Up Front)
@@ -44,6 +41,7 @@ cssclasses: ""
 ---
 **Falsabilidad**: Si el gobierno peruano logra revertir judicialmente la autonomía de Cosco y permite la entrada de operadores estadounidenses o europeos para balancear la propiedad, Chancay perdería su rol como enclave estratégico puro de China.
 
-*Versión: 1.0 | Protocolo TL-INTEL v12_0*
+*Versión: 1.0 | Protocolo TL-INTEL TL V.2*
+
 
 

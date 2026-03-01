@@ -1,5 +1,5 @@
 ---
-titulo: "Jacob Rothschild (v2.0): El Custodio Del Orden Global"
+titulo: "Jacob Rothschild (TL V.2): El Custodio Del Orden Global"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [custodio, henry, jacob, rothschild]
 publish: true
 ---
-# Jacob Rothschild (v2.0): El Custodio Del Orden Global
+# Jacob Rothschild (TL V.2): El Custodio Del Orden Global
 
 > [!ABSTRACT] Hipótesis Informativa
 > Jacob Rothschild fue el **rostro visible y el gestor diplomático del [[Tier A]]** durante la transición al siglo XXI. Como cabeza de la rama británica de la dinastía bancaria más influyente de la historia, operó como el nodo central donde convergían la inteligencia militar ([[Five Eyes]]), la política exterior estadounidense ([[Henry Kissinger]]) y el sistema financiero de la City de Londres. Su función no fue solo acumular capital, sino actuar como el **custodio de última instancia** de los activos estratégicos mundiales frente a cualquier desafío soberano.
@@ -45,6 +45,7 @@ Jacob Rothschild fue el **"Director de Orquesta" de la Matriz**. En un mundo obs
 **Versión:** 2.0
 **Enfoque:** Gestión de activos estratégicos, nexo geopolítico-financiero y el papel de los Rothschild como soberanos extra-estatales.
 **Estado:** Refactorización Completa.
+
 
 
 

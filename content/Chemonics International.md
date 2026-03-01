@@ -1,15 +1,12 @@
 ---
+titulo: Chemonics International
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [blackwater, chemonics, international, usaid]
 publish: true
-created: 2026-01-29T19:17:07.441-03:00
-modified: 2026-02-27T13:07:26.236-03:00
-tags:
-  - blackwater
-  - chemonics
-  - international
-  - usaid
-cssclasses: ""
 ---
-
 # Chemonics International
 
 ## Perfil TL (Resumen Ejecutivo)
@@ -34,7 +31,7 @@ cssclasses: ""
 - [[USAID]] (Su principal cliente y socio)
 - [[CIA]] (Conexión operativa histórica en promoción de democracia)
 - [[Blackwater (Academi)]] (Su equivalente en el sector de seguridad armada)
-- [[George Soros / Open Society]] (A menudo colaboran en las mismas regiones)
+- [[00_Glosario - Conceptos Fase 1#George Soros / Open Society\|George Soros / Open Society]] (A menudo colaboran en las mismas regiones)
 
 ## Fuentes
 - Investigaciones de "The New York Times" sobre los contratos de reconstrucción en Afganistán.

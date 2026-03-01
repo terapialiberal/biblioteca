@@ -1,5 +1,5 @@
 ---
-titulo: "Operación Ajax (v2.0): El Petróleo Es La Sangre De Los Dioses"
+titulo: "Operación Ajax (TL V.2): El Petróleo Es La Sangre De Los Dioses"
 tipo: evento
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [ajax, dioses, petrleo, sangre]
 publish: true
 ---
-# Operación Ajax (v2.0): El Petróleo Es La Sangre De Los Dioses
+# Operación Ajax (TL V.2): El Petróleo Es La Sangre De Los Dioses
 
 > [!ABSTRACT] Hipótesis Informativa
 > La Operación Ajax fue el primer golpe de estado moderno orquestado por la **[[CIA]]** y el **[[MI6]]** para revertir un acto de soberanía económica. Al derrocar a **Mohammad Mosaddegh** por nacionalizar el petróleo iraní, el **[[Tier A]]** financiero (específicamente las "Seven Sisters") envió un mensaje global: los recursos naturales de los países no pertenecen a sus pueblos (**[[Tier C]]**), sino a las corporaciones transnacionales. Ajax inauguró el modelo de **"Gobernanza por el Caos"**, donde el sistema utiliza agentes provocadores y pánicos fabricados para destruir democracias y asegurar el flujo ininterrumpido de energía hacia la Matrix.
@@ -39,7 +39,8 @@ La Operación Ajax es el pecado original de la política exterior de EE.UU. en M
 ---
 **Versión:** 2.0
 **Enfoque:** Protección de monopolios petroleros, uso de agentes provocadores para simular caos comunista y el legado de desestabilización en Irán.
-**Estado:** Refactoreado a v2.0 - Framework de Imperialismo Energético.
+**Estado:** Refactoreado a TL V.2 - Framework de Imperialismo Energético.
+
 
 
 

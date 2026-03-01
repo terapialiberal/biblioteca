@@ -33,7 +33,7 @@ publish: true
 ## Conexiones
 - [[Bill Clinton]] (el indulto corrupto)
 - [[Mossad]] (sus protectores)
-- [[Irn-Contra]] (oper en las sombras)
+- [[Irán-Contra\|Irn-Contra]] (oper en las sombras)
 - [[Glencore]] (su legado monstruoso)
 
 ## Fuentes

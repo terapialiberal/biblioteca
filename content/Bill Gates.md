@@ -1,5 +1,13 @@
 ---
-titulo: BILL GATES (v12_1)
+titulo: Bill Gates
+tipo: 'organizacion'
+tier-primario: 'a'
+nivel-evidencia: 'medio'
+tags: [clasificado-ai]
+publish: true
+---
+﻿---
+titulo: BILL GATES (TL V.2)
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "a"
@@ -7,7 +15,7 @@ nivel-evidencia: "alto"
 tags: [arquitecto, bill, escaso, gates]
 publish: true
 ---
-# BILL GATES (v12_1)
+# BILL GATES (TL V.2)
 
 #### BLUF
 Gates ha transicionado de la filantropa biolgica (vacunas) a la **Soberana Energtica de Prxima Generacin** va [[TerraPower]]. En 2026, su reactor Natrium en Wyoming es el estndar del **Tier A** para el desacople de la red pblica. Gates no busca salvar el clima; busca controlar la llave del suministro de energa para la Matrix de [[Microsoft]] e [[OpenAI]].
@@ -70,6 +78,7 @@ Gates es un visionario genuinamente preocupado por el cambio climtico. TerraPowe
 Cul es la relacin real entre los asesores de seguridad nacional de Gates y la reapertura de Three Mile Island por parte de Microsoft?
 
 ---
-*Versi�n: 1.0 (v12_1) | Dossier de Actor Tier A*
+*Versiï¿½n: 1.0 (TL V.2) | Dossier de Actor Tier A*
+
 
 

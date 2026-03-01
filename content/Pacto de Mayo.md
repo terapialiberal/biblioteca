@@ -1,5 +1,5 @@
 ---
-titulo: "Pacto De Mayo (v2.0): El Decálogo Liberal De La Matrix"
+titulo: "Pacto De Mayo (TL V.2): El Decálogo Liberal De La Matrix"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [declogo, matrix, mayo, pacto]
 publish: true
 ---
-# Pacto De Mayo (v2.0): El Decálogo Liberal De La Matrix
+# Pacto De Mayo (TL V.2): El Decálogo Liberal De La Matrix
 
 > [!ABSTRACT] Hipótesis Informativa
 > El Pacto de Mayo (finalmente firmado el 9 de Julio) es el **Intento de Refundación Institucional de [[Tier B]]** para establecer un nuevo consenso liberal en Argentina tras décadas de hegemonía estatista. Elaborado por la administración de Javier Milei, este contrato de 10 puntos busca blindar la **Inviolabilidad de la Propiedad Privada** y el **Equilibrio Fiscal** como dogmas de Estado. Representa una operación de **Simbolismo Político** diseñada para alinear a los gobernadores provinciales con la agenda del poder central, intentando hackear el software político de la casta mediante la imposición de reglas de juego de libre mercado.
@@ -38,7 +38,8 @@ El Pacto de Mayo nos enseña que **las ideas no valen nada sin un marco instituc
 ---
 **Versión:** 2.0
 **Enfoque:** El decálogo de Milei como intento de cambio de paradigma económico, la presión sobre los gobernadores y el simbolismo de la Casa de Tucumán.
-**Estado:** Refactoreado a v2.0 - Framework de Reforma Institucional.
+**Estado:** Refactoreado a TL V.2 - Framework de Reforma Institucional.
+
 
 
 

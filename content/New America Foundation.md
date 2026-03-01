@@ -1,5 +1,5 @@
 ---
-titulo: "New America Foundation (v2.0): El Departamento De I+D Del Estado Profundo Digital"
+titulo: "New America Foundation (TL V.2): El Departamento De I+D Del Estado Profundo Digital"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [departamento, digital, estado, google]
 publish: true
 ---
-# New America Foundation (v2.0): El Departamento De I+D Del Estado Profundo Digital
+# New America Foundation (TL V.2): El Departamento De I+D Del Estado Profundo Digital
 
 > [!ABSTRACT] Hipótesis Informativa
 > New America Foundation es el nodo de **convergencia entre Silicon Valley y el Complejo Militar-Industrial**. Bajo el financiamiento dominante de **[[Eric Schmidt]]**, este think tank actúa como el laboratorio político del **[[Tier A]]** para integrar la **Gobernanza Algorítmica** en las estructuras del Estado. Su función es fabricar las justificaciones intelectuales para la fusión de la vigilancia tecnológica comercial con la seguridad nacional, asegurando que la infraestructura digital sea el arma principal de control social tanto en EE.UU. como en sus operaciones de "cambio de régimen" en el extranjero.
@@ -39,7 +39,8 @@ New America es el lugar donde el software se convierte en ley. Es la oficina de 
 ---
 **Versión:** 2.0
 **Enfoque:** Fusión entre Silicon Valley y Seguridad Nacional, rol de Eric Schmidt y el caso de censura interna (Barry Lynn) como ejemplo de captura de think tanks.
-**Estado:** Refactoreado a v2.0 - Framework de Tecno-Imperialismo.
+**Estado:** Refactoreado a TL V.2 - Framework de Tecno-Imperialismo.
+
 
 
 

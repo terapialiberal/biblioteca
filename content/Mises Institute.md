@@ -1,5 +1,5 @@
 ---
-titulo: "Mises Institute (v2.0): La Resistencia Anti-Banca Central"
+titulo: "Mises Institute (TL V.2): La Resistencia Anti-Banca Central"
 tipo: organizacion
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [institute, mises, reserva, resistencia]
 publish: true
 ---
-# Mises Institute (v2.0): La Resistencia Anti-Banca Central
+# Mises Institute (TL V.2): La Resistencia Anti-Banca Central
 
 > [!ABSTRACT] Hipótesis Informativa
 > El Mises Institute opera como el **Nodo de Resistencia Intelectual** más importante contra el consenso keynesiano del **[[Tier A]]**. Al preservar y difundir el pensamiento de la **Escuela Austríaca** (Mises, Rothbard), el instituto proporciona el marco teórico para deslegitimar al Estado Moderno y, específicamente, a la **[[Reserva Federal]]**. A diferencia de los think tanks de Washington (cooptados), el Mises Institute actúa como un "Banco de Semillas" de ideas radicales (Anarcocapitalismo, Oro, Nulificación), armando cognitivamente al **Tier C** para comprender la estafa inflacionaria que erosiona su vida.
@@ -40,7 +40,8 @@ El Mises Institute es la **"Biblioteca de Alejandría" de la Libertad**. Su valo
 ---
 **Versión:** 2.0
 **Enfoque:** Rol como repositorio de la Escuela Austríaca, oposición radical a la Reserva Federal, influencia en Ron Paul/Milei y su función de despertar al Tier C.
-**Estado:** Refactoreado a v2.0 - Framework de Resistencia Intelectual.
+**Estado:** Refactoreado a TL V.2 - Framework de Resistencia Intelectual.
+
 
 
 

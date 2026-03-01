@@ -1,5 +1,5 @@
 ---
-titulo: "Jonathan Pollard (v2.0): El Caballo De Troya En La Inteligencia Naval"
+titulo: "Jonathan Pollard (TL V.2): El Caballo De Troya En La Inteligencia Naval"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [caballo, inteligencia, lakam, naval]
 publish: true
 ---
-# Jonathan Pollard (v2.0): El Caballo De Troya En La Inteligencia Naval
+# Jonathan Pollard (TL V.2): El Caballo De Troya En La Inteligencia Naval
 
 > [!ABSTRACT] Hipótesis Informativa
 > Jonathan Pollard personifica la **asimetría de la "relación especial" entre EE.UU. e Israel**. Su actividad de espionaje masivo contra la Marina de EE.UU. y la [[NSA]] demuestra que el [[Tier A]] sionista opera con una soberanía absoluta que no admite subordinación aliada. Pollard fue el instrumento para extraer la arquitectura de vigilancia y defensa estadounidense, permitiendo que Israel calibrara su autonomía militar y nuclear al margen de la supervisión de Washington, y revelando cómo las lealtades identitarias son utilizadas para subvertir las lealtades estatales en los niveles de mando de [[Tier B]].
@@ -33,7 +33,7 @@ publish: true
 
 ## Conexiones Críticas
 - [[Benjamin Netanyahu]]: El ejecutor político que consumó su repatriación triunfal.
-- [[Lakam]]: La agencia secreta de inteligencia científica que lo manejó.
+- [[Lakam\|LAKAM]]: La agencia secreta de inteligencia científica que lo manejó.
 - [[Rafi Eitan]]: El maestro de espías que diseñó la captura de la inteligencia naval estadounidense.
 - [[NSA]]: La agencia cuyo monopolio sobre los códigos globales fue roto por la filtración de Pollard.
 - [[Caspar Weinberger]]: El Secretario de Defensa de EE.UU. que proporcionó la declaración jurada secreta sobre el daño incalculable causado por Pollard.
@@ -45,6 +45,7 @@ Jonathan Pollard es el **"Fisura en el Muro de la Alianza"**. Su historia nos en
 **Versión:** 2.0
 **Enfoque:** Espionaje entre aliados, subversión de lealtades estatales por identitarias y la autonomía estratégica de Israel frente a EE.UU.
 **Estado:** Refactorización Completa.
+
 
 
 

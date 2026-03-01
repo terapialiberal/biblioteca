@@ -1,14 +1,12 @@
 ---
+titulo: Comité De Los 300
+tipo: organizacion
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [comit, nobleza, tavistock]
 publish: true
-created: 2026-01-29T19:17:08.406-03:00
-modified: 2026-02-27T13:07:43.390-03:00
-tags:
-  - comit
-  - nobleza
-  - tavistock
-cssclasses: ""
 ---
-
 # Comité De Los 300
 
 ## Resumen Ejecutivo
@@ -36,7 +34,7 @@ Su objetivo es el retorno a un sistema neo-feudal bajo un Solo Gobierno Mundial.
 ## Conexiones
 - [[Nobleza Negra Veneciana]]
 - [[Tavistock Institute]]
-- [[Club de Rome]]
+- [[Club de Roma\|Club de Rome]]
 
 ## Fuentes
 - "Conspirators' Hierarchy: The Story of the Committee of 300" - John Coleman.

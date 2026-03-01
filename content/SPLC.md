@@ -1,5 +1,5 @@
 ---
-titulo: "SPLC (v2.0): El Brazo Jurídico De La Inquisición Digital"
+titulo: "SPLC (TL V.2): El Brazo Jurídico De La Inquisición Digital"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [brazo, debanking, digital, splc]
 publish: true
 ---
-# SPLC (v2.0): El Brazo Jurídico De La Inquisición Digital
+# SPLC (TL V.2): El Brazo Jurídico De La Inquisición Digital
 
 > [!ABSTRACT] Hipótesis Informativa
 > El Southern Poverty Law Center (SPLC) es la **Organización de Guerra Jurídica (Lawfare) de [[Tier B]]** que actúa como el guardián ideológico del establishment estadounidense. Aunque se presenta como un defensor de los derechos civiles contra el extremismo, su función real en la Matrix es la de un **"Agente de Persecución Política de Guante Blanco"**: utilizar su "Mapa del Odio" para etiquetar a grupos conservadores, religiosos y disidentes como "extremistas", proporcionando la justificación legal y moral para que el **[[Tier A]]** financiero (Visa, PayPal) y tecnológico (Google, Meta) aplique la censura y el "debanqueo" (debanking) contra cualquier brote de soberanía del **[[Tier C]]**.
@@ -32,7 +32,7 @@ publish: true
 - [[ADL (Anti-Defamation League)]]: Socio estratégico en la definición de la censura.
 - [[FBI]]: Agencia que ha utilizado al SPLC como proveedor de inteligencia doméstica.
 - [[Debanking]]: El método principal de castigo económico derivado de sus listas.
-- [[Censura Industrial]]: El ecosistema de control de información donde el SPLC es el filtro.
+- [[00_Glosario - Conceptos Fase 1#Censura Industrial\|Censura Industrial]]: El ecosistema de control de información donde el SPLC es el filtro.
 - [[Morris Dees]]: El fundador cuya caída por conducta inapropiada reveló la hipocresía interna.
 
 ## Conclusión Del Análisis
@@ -41,7 +41,8 @@ El SPLC nos enseña que **las ONGs más ricas suelen ser las que más libertad d
 ---
 **Versión:** 2.0
 **Enfoque:** El SPLC como herramienta de lawfare y censura, el uso de su "lista de odio" para el debanking y la purga digital, la hipocresía de sus finanzas offshore y su rol como brazo operativo no oficial del FBI y las Big Tech para atacar el disentimiento de Tier C.
-**Estado:** Refactoreado a v2.0 - Framework de Lawfare y Control Ideológico.
+**Estado:** Refactoreado a TL V.2 - Framework de Lawfare y Control Ideológico.
+
 
 
 

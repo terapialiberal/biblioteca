@@ -1,15 +1,12 @@
 ---
+titulo: Grupo De Los Treinta (G-30)
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [cbdc, grupo, reserva, treinta]
 publish: true
-created: 2026-01-29T19:17:16.080-03:00
-modified: 2026-02-27T13:07:03.346-03:00
-tags:
-  - cbdc
-  - grupo
-  - reserva
-  - treinta
-cssclasses: ""
 ---
-
 # Grupo De Los Treinta (G-30)
 
 ## Perfil TL (Resumen Ejecutivo)
@@ -31,8 +28,8 @@ cssclasses: ""
 *   "Grupo de reflexión para profundizar el conocimiento de las cuestiones económicas". "Promoviendo la estabilidad financiera global". Narrativas de benevolencia técnica que el Tier C acepta, ignorando que estas "reflexiones" suelen terminar en medidas de austeridad, inflación controlada y confiscación silenciosa del ahorro.
 
 ## Conexiones Clave
-- [[BIS (Banco de Pagos Internacionales)]] (Su socio operativo)
-- [[Reserva Federal (Fed)]] (Su fuente de poder)
+- [[Banco de Pagos Internacionales\|BIS (Banco de Pagos Internacionales)]] (Su socio operativo)
+- [[00_Glosario - Conceptos Fase 1#Reserva Federal (Fed)\|Reserva Federal (Fed)]] (Su fuente de poder)
 - [[BlackRock / Larry Summers]] (El nexo público-privado)
 - [[Agenda 2030 / CBDC]] (Su hoja de ruta estratégica)
 

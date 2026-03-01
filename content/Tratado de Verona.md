@@ -1,15 +1,12 @@
 ---
+titulo: Tratado De Verona
+tipo: evento
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [jesuits, tratado, vatican, verona]
 publish: true
-created: 2026-01-29T19:17:41.122-03:00
-modified: 2026-02-27T13:24:05.567-03:00
-tags:
-  - jesuits
-  - tratado
-  - vatican
-  - verona
-cssclasses: ""
 ---
-
 # Tratado De Verona
 
 ## Resumen Ejecutivo
@@ -34,7 +31,7 @@ El senador estadounidense Robert L. Owen introdujo este tratado en el Registro d
 - "Acuerdo diplomático post-napoleónico"
 
 ## Conexiones
-- [[Jesuits]]
+- [[Jesuitas\|Jesuits]]
 - [[Vatican Bank]]
 - [[Nobleza Negra Veneciana]]
 

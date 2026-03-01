@@ -1,15 +1,12 @@
 ---
+titulo: "Linux Y Software Libre: La Ãšltima Trinchera De La Soberanía"
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [apple, libre, linux, software]
 publish: true
-created: 2026-01-29T19:17:22.632-03:00
-modified: 2026-02-27T13:23:14.591-03:00
-tags:
-  - apple
-  - libre
-  - linux
-  - software
-cssclasses: ""
 ---
-
 # Linux Y Software Libre: La Ãšltima Trinchera De La Soberanía
 
 > [!ABSTRACT] Resumen de Inteligencia
@@ -36,7 +33,8 @@ Si usas Windows, sos un inquilino en tu propia computadora, y el dueño de casa 
 - **Amenazas:** [[Vigilancia Masiva]], [[CIA]], [[NSA]].
 - **Héroes:** [[Richard Stallman]] (Filosofía), [[Linus Torvalds]] (Ingeniería).
 
-**Estado:** Refactoreado a v2.0 - Framework de Resistencia Digital.
+**Estado:** Refactoreado a TL V.2 - Framework de Resistencia Digital.
+
 
 
 

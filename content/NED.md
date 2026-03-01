@@ -1,5 +1,5 @@
 ---
-titulo: "NED (v2.0): El Caballo De Troya De La Sociedad Civil"
+titulo: "NED (TL V.2): El Caballo De Troya De La Sociedad Civil"
 tipo: evento
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [caballo, civil, sociedad, usaid]
 publish: true
 ---
-# NED (v2.0): El Caballo De Troya De La Sociedad Civil
+# NED (TL V.2): El Caballo De Troya De La Sociedad Civil
 
 > [!ABSTRACT] Hipótesis Informativa
 > La National Endowment for Democracy (NED) no promueve la democracia, sino la **infraestructura de obediencia al Tier A**. Es el brazo público que institucionalizó las operaciones encubiertas de la CIA tras los escándalos de los años 70. Su función es crear una "quinta columna" en naciones soberanas mediante el financiamiento de ONGs, medios y partidos, asegurando que cualquier cambio político resulte en una administración favorable a los intereses financieros y militares de la Matriz Globalista.
@@ -27,7 +27,7 @@ publish: true
 * **Entrenamiento de Cuadros:** Identifican y financian a jóvenes "líderes" en países objetivo, creando una red de lealtad internacional que responde a Washington antes que a su propio pueblo.
 
 ### Tier C: El Activista Ãštil
-* **La Infantería de las Plazas:** El Tier C es movilizado mediante consignas de "libertad" y "anticorrupción". No saben que sus protestas están siendo orquestadas para reemplazar a un autócrata local por un administrador de activos del Tier A. Son la carne de cañón emocional de las **[[Revoluciones de Color]]**.
+* **La Infantería de las Plazas:** El Tier C es movilizado mediante consignas de "libertad" y "anticorrupción". No saben que sus protestas están siendo orquestadas para reemplazar a un autócrata local por un administrador de activos del Tier A. Son la carne de cañón emocional de las **[[Revolución de Color\|Revoluciones de Color]]**.
 
 ## ¸ Mecanismos De Poder
 
@@ -37,7 +37,7 @@ publish: true
 
 ## Conexiones Críticas
 - [[CIA]]: La matriz original de la cual el NED es la versión "lavada".
-- [[Revoluciones de Color]]: El producto principal del NED (Primaveras Árabes, Euromaidán, etc.).
+- [[Revolución de Color\|Revoluciones de Color]]: El producto principal del NED (Primaveras Árabes, Euromaidán, etc.).
 - [[USAID]]: El socio financiero que complementa la desestabilización política con "ayuda" económica condicionada.
 - [[George Soros]]: Co-inversor en la red de ONGs que forman el tejido de la resistencia pro-globalista.
 - [[Gene Sharp]]: El teórico de la lucha no-violenta cuyas tácticas son instrumentalizadas por el NED.
@@ -49,6 +49,7 @@ El NED es la prueba de que **la democracia se ha convertido en una marca para ve
 **Versión:** 2.0
 **Enfoque:** Cambio de régimen, desestabilización institucional y uso de la sociedad civil como arma geopolítica.
 **Estado:** Refactorización Completa.
+
 
 
 

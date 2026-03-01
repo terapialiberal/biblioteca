@@ -1,16 +1,13 @@
 ---
+titulo: "Patocracia (TL V.2): La Gobernanza Del Mal Totalitario"
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [andrew, gobernanza, ponerologa, totalitario]
 publish: true
-created: 2026-01-29T19:17:29.903-03:00
-modified: 2026-02-27T13:23:38.591-03:00
-tags:
-  - andrew
-  - gobernanza
-  - ponerologa
-  - totalitario
-cssclasses: ""
 ---
-
-# Patocracia (v2.0): La Gobernanza Del Mal Totalitario
+# Patocracia (TL V.2): La Gobernanza Del Mal Totalitario
 
 > [!ABSTRACT] Hipótesis Informativa
 > La Patocracia es el **sistema de gobierno de [[Tier A]] donde una minoría psicopática toma el control absoluto de las instituciones**, eliminando a los individuos empáticos y sanos del **[[Tier B]]** administrativo. Definida por el psiquiatra polaco Andrew Lobaczewski en su obra **"[[Ponerología Política]]"**, la patocracia no es una ideología política (puede ser de izquierda o derecha), sino un **Fenómeno Biológico**: el proceso mediante el cual los individuos con trastornos de personalidad capturan la jerarquía social para justificar su crueldad y parásitos alimentarios sobre el **[[Tier C]]**. Es el estado terminal de una civilización donde el mal ha sido institucionalizado.
@@ -41,7 +38,8 @@ La Patocracia nos enseña que **el mayor peligro para la humanidad no son las id
 ---
 **Versión:** 2.0
 **Enfoque:** El gobierno de psicópatas como fenómeno biológico, la purga de los individuos éticos y el uso de ideologías como máscaras de manipulación.
-**Estado:** Refactoreado a v2.0 - Framework de Biopatología Política.
+**Estado:** Refactoreado a TL V.2 - Framework de Biopatología Política.
+
 
 
 

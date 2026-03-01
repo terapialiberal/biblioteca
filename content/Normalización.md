@@ -1,5 +1,5 @@
 ---
-titulo: "Normalización (Proceso) [v2.0]: La Tumba Del Pensamiento Crítico"
+titulo: "Normalización (Proceso) [TL V.2]: La Tumba Del Pensamiento Crítico"
 tipo: organizacion
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [pensamiento, proceso, tumba, yuri]
 publish: true
 ---
-# Normalización (Proceso) [v2.0]: La Tumba Del Pensamiento Crítico
+# Normalización (Proceso) [TL V.2]: La Tumba Del Pensamiento Crítico
 
 > [!ABSTRACT] Hipótesis Informativa
 > La Normalización es la fase final y más peligrosa de la **Subversión Ideológica**. Es el momento en que el caos inducido (crisis) es "estabilizado" bajo un nuevo orden de **[[Tier A]]**. En esta etapa, el **[[Tier C]]**, agotado por el miedo y la incertidumbre, acepta como "normal" condiciones de vida que antes habrían sido intolerables (vigilancia total, pérdida de propiedad, racionamiento). La Normalización es el éxito de la **[[Ingeniería Social]]**: cuando el individuo ya no reconoce sus cadenas y llama "progreso" a su propia esclavitud administrativa.
@@ -39,7 +39,8 @@ Si te sientes cómodo con el mundo actual, probablemente has sido normalizado. E
 ---
 **Versión:** 2.0
 **Enfoque:** Las 4 etapas de la subversión de Bezmenov, la consolidación del nuevo paradigma tras la crisis y la eliminación de la disidencia residual.
-**Estado:** Refactoreado a v2.0 - Framework de Consolidación de Orden.
+**Estado:** Refactoreado a TL V.2 - Framework de Consolidación de Orden.
+
 
 
 

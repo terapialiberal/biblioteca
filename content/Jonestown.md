@@ -1,5 +1,5 @@
 ---
-titulo: "Jonestown (v2.0): El Laboratorio De Biopolítica En La Selva"
+titulo: "Jonestown (TL V.2): El Laboratorio De Biopolítica En La Selva"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [biopoltica, laboratorio, mkultra, selva]
 publish: true
 ---
-# Jonestown (v2.0): El Laboratorio De Biopolítica En La Selva
+# Jonestown (TL V.2): El Laboratorio De Biopolítica En La Selva
 
 > [!ABSTRACT] Hipótesis Informativa
 > Jonestown constituyó un **experimento de control mental y gestión de poblaciones aisladas bajo el auspicio del [[Tier B]] de inteligencia estadounidense**. Oficialmente catalogado como un suicidio masivo religioso, Jonestown funcionó como una estación de campo para técnicas de desindividualización y obediencia absoluta (post-[[MKUltra]]), donde se probaron los límites de la fragmentación psíquica mediante el aislamiento, la privación sensorial y el uso de psicofármacos masivos. La eliminación del congresista [[Leo Ryan]] y la posterior liquidación de la comuna fue el cierre operativo de un activo que corría el riesgo de ser expuesto ante el [[Tier C]].
@@ -45,6 +45,7 @@ Jonestown fue el **"Auschwitz de la CIA en la Amazonía"**. Su legado es la prue
 **Versión:** 2.0
 **Enfoque:** Experimento de la inteligencia estatal (MK-Ultra), control mental de masas y el asesinato político de Leo Ryan como ocultamiento de pruebas.
 **Estado:** Refactorización Completa.
+
 
 
 

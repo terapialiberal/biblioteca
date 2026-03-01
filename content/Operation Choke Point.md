@@ -1,5 +1,5 @@
 ---
-titulo: "Operation Choke Point (v2.0): El Desahucio Financiero De La Disidencia"
+titulo: "Operation Choke Point (TL V.2): El Desahucio Financiero De La Disidencia"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [choke, fdic, financiero, operation]
 publish: true
 ---
-# Operation Choke Point (v2.0): El Desahucio Financiero De La Disidencia
+# Operation Choke Point (TL V.2): El Desahucio Financiero De La Disidencia
 
 > [!ABSTRACT] Hipótesis Informativa
 > Operation Choke Point fue la operación de **[[Tier A]]** para utilizar la arquitectura bancaria como un **arma de censura extrajudicial**. Bajo la administración Obama, el Departamento de Justicia y la FDIC presionaron a los bancos para que cerraran las cuentas de negocios legales (armerías, prestamistas, industria del sexo) que eran ideológicamente inconvenientes para el sistema. Representa el modelo de **"Exclusión Social Algorítmica"**, donde el Estado de Tier B no necesita prohibir una actividad por ley si puede simplemente desconectar a sus practicantes del sistema de pagos, logrando un **Desahucio Civil** del individuo de **[[Tier C]]** sin posibilidad de defensa legal.
@@ -29,8 +29,8 @@ publish: true
 ## Conexiones Críticas
 - [[Departamento de Justicia (EEUU)]]: El arquitecto legal de la presión.
 - [[FDIC]]: El ejecutor de la intimidación sobre los bancos pequeños.
-- [[Control de Armas]]: Una de las metas principales de la operación.
-- [[Crédito Social (China)]]: La versión explícita de lo que Choke Point hizo de forma encubierta.
+- [[00_Glosario - Conceptos Fase 1#Control de Armas\|Control de Armas]]: Una de las metas principales de la operación.
+- [[Crédito Social Chino\|Crédito Social (China)]]: La versión explícita de lo que Choke Point hizo de forma encubierta.
 - [[Barack Obama]]: Bajo cuya administración se diseñó e implementó el programa.
 
 ## Conclusión Del Análisis
@@ -39,7 +39,8 @@ Operation Choke Point es el aviso de lo que viene: la extinción del dinero en e
 ---
 **Versión:** 2.0
 **Enfoque:** Uso del sistema bancario para la censura política, ataque encubierto a la industria de las armas y el precedente del Crédito Social en EE.UU.
-**Estado:** Refactoreado a v2.0 - Framework de Dictadura Financiera.
+**Estado:** Refactoreado a TL V.2 - Framework de Dictadura Financiera.
+
 
 
 

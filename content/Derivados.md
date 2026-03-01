@@ -31,7 +31,7 @@ publish: true
 - [[Citigroup]] (Uno de los mayores tenedores de riesgo en derivados)
 - [[Goldman Sachs]] (Maestros en la ingeniera de derivados)
 - [[Reserva Federal]] (El rescatista de ltima instancia de esta burbuja)
-- [[Derivados (Quadrillion Dollar Bubble)]] (Este concepto mismo)
+- [[00_Glosario - Conceptos Fase 1#Derivados (Quadrillion Dollar Bubble)\|Derivados (Quadrillion Dollar Bubble)]] (Este concepto mismo)
 
 ## Fuentes
 - Warren Buffett: "2002 Berkshire Hathaway Annual Report" (Advertencia sobre derivados).

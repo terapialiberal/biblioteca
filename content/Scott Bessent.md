@@ -1,4 +1,12 @@
 ---
+titulo: Scott Bessent
+tipo: 'organizacion'
+tier-primario: 'a'
+nivel-evidencia: 'medio'
+tags: [clasificado-ai]
+publish: true
+---
+﻿---
 titulo: "Scott Bessent: El Arquitecto De La Hegemona Monetaria"
 tipo: persona
 fecha: 2026-02-25
@@ -40,8 +48,9 @@ publish: true
 - [[Donald Trump]]: El vehculo poltico de su implementacin.
 
 ---
-**Falsabilidad**: Si Bessent no logra frenar la adopci�n de monedas locales en el petr�leo saud� (mBridge) durante sus primeros 2 a�os, su estrategia de hegemon�a monetaria habr� fracasado y el d�lar entrar� en una espiral de desvalorizaci�n irreversible.
+**Falsabilidad**: Si Bessent no logra frenar la adopciï¿½n de monedas locales en el petrï¿½leo saudï¿½ (mBridge) durante sus primeros 2 aï¿½os, su estrategia de hegemonï¿½a monetaria habrï¿½ fracasado y el dï¿½lar entrarï¿½ en una espiral de desvalorizaciï¿½n irreversible.
 
-*Versi�n: 3.0 | Protocolo TL-INTEL v12_0*
+*Versiï¿½n: 3.0 | Protocolo TL-INTEL TL V.2*
+
 
 

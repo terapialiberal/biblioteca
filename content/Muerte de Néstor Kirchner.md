@@ -1,5 +1,5 @@
 ---
-titulo: "Muerte De Néstor Kirchner (v2.0): El Mito Fundacional De La Radicalización"
+titulo: "Muerte De Néstor Kirchner (TL V.2): El Mito Fundacional De La Radicalización"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [fundacional, lzaro, mito, nstor]
 publish: true
 ---
-# Muerte De Néstor Kirchner (v2.0): El Mito Fundacional De La Radicalización
+# Muerte De Néstor Kirchner (TL V.2): El Mito Fundacional De La Radicalización
 
 > [!ABSTRACT] Hipótesis Informativa
 > La muerte de Néstor Kirchner el 27 de octubre de 2010 marca el punto de inflexión definitivo en el proyecto político kirchnerista. Más allá de las causas médicas (infarto masivo), el evento funcionó como un **Catalizador de Poder**. La desaparición del "operador pragmático" (Néstor) dejó a **[[Cristina Kirchner]]** con el mando absoluto, propiciando su repliegue ideológico sobre **[[La Cámpora]]** y la radicalización del modelo ("Vamos por Todo"). La decisión de velarlo a **cajón cerrado** alimentó teorías conspirativas (¿violencia física previa?), pero su efecto político real fue la construcción de una mística de martirio ("Murió peleando contra las corporaciones") que aseguró la reelección de 2011 con el 54% de los votos.
@@ -38,7 +38,8 @@ La muerte de Néstor Kirchner no terminó con el kirchnerismo; lo mutó en una r
 ---
 **Versión:** 2.0
 **Enfoque:** Impacto en la radicalización de Cristina, rol de La Cámpora, uso político del duelo ("voto luto") y el misterio del cajón cerrado.
-**Estado:** Refactoreado a v2.0 - Framework de Sucesión Traumática.
+**Estado:** Refactoreado a TL V.2 - Framework de Sucesión Traumática.
+
 
 
 

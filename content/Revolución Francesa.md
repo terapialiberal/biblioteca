@@ -1,5 +1,5 @@
 ---
-titulo: "Revolución Francesa (v2.0): El Prototipo De La Ingeniería Social Global"
+titulo: "Revolución Francesa (TL V.2): El Prototipo De La Ingeniería Social Global"
 tipo: evento
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [francesa, global, masonera, prototipo]
 publish: true
 ---
-# Revolución Francesa (v2.0): El Prototipo De La Ingeniería Social Global
+# Revolución Francesa (TL V.2): El Prototipo De La Ingeniería Social Global
 
 > [!ABSTRACT] Hipótesis Informativa
 > La Revolución Francesa no fue simplemente una revuelta por el hambre y la injusticia contra los Romanov franceses, sino el **Primer Despliegue de Ingeniería Social de [[Tier A]]** para destruir el Orden Tradicional de Occidente (Trono y Altar). Orquestada por sociedades secretas (particularmente la **[[Masonería (Gran Oriente)]]** e influencias de los **[[Illuminati de Baviera]]**), la revolución capturó el legítimo descontento del **[[Tier C]]** para instalar un sistema de gobernanza racionalista y centralizado. Su función real fue crear el **Estado Moderno Omnipotente**, capaz de reclutar, tasar y vigilar a la población a una escala imposible para la monarquía, sirviendo como el molde para todas las revoluciones colectivistas y totalitarias de los siglos XIX y XX.
@@ -39,7 +39,8 @@ La Revolución Francesa nos enseña que **las revoluciones que dicen liberar al 
 ---
 **Versión:** 2.0
 **Enfoque:** La Revolución Francesa como operación de sociedades secretas contra el orden tradicional, el rol de los Jacobinos y la creación del Estado Moderno centralizado como herramienta de control.
-**Estado:** Refactoreado a v2.0 - Framework de Historia Oculta y Arquitectura de Poder.
+**Estado:** Refactoreado a TL V.2 - Framework de Historia Oculta y Arquitectura de Poder.
+
 
 
 

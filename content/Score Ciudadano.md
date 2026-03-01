@@ -1,5 +1,5 @@
 ---
-titulo: "Score Ciudadano (v2.0): La Arquitectura Del Totalitarismo Algorítmico"
+titulo: "Score Ciudadano (TL V.2): La Arquitectura Del Totalitarismo Algorítmico"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [algortmico, arquitectura, cbdc, ciudadano]
 publish: true
 ---
-# Score Ciudadano (v2.0): La Arquitectura Del Totalitarismo Algorítmico
+# Score Ciudadano (TL V.2): La Arquitectura Del Totalitarismo Algorítmico
 
 > [!ABSTRACT] Hipótesis Informativa
 > El Score Ciudadano es la **Infraestructura de Control de [[Tier A]]** definitiva diseñada para sustituir el derecho penal tradicional por una gestión administrativa del comportamiento en tiempo real. Mediante la fusión de datos financieros, sociales, médicos y legales, la Matrix asigna una "nota" al individuo de **[[Tier C]]** que determina su capacidad de comprar, viajar, trabajar o acceder a servicios básicos. Su función real es la de una **"Cárcel Digital Invisible"**: un sistema de recompensas y castigos automáticos que anula la disidencia política al convertir la soberanía del individuo en una variable de cumplimiento algorítmico.
@@ -41,7 +41,8 @@ El Score Ciudadano nos enseña que **el pecado original en la tecnocracia es la 
 ---
 **Versión:** 2.0
 **Enfoque:** El score ciudadano como sistema de control totalitario, la comparación entre el modelo chino y el modelo de facto occidental (cancelación bancaria/ESG), y la función de la muerte civil digital para anular la disidencia del Tier C.
-**Estado:** Refactoreado a v2.0 - Framework de Control Social y Tecnocracia.
+**Estado:** Refactoreado a TL V.2 - Framework de Control Social y Tecnocracia.
+
 
 
 

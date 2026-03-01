@@ -1,5 +1,5 @@
 ---
-titulo: "Revolución De Octubre 1917 (v2.0): El Experimento De La Ã‰lite Financiera"
+titulo: "Revolución De Octubre 1917 (TL V.2): El Experimento De La Ã‰lite Financiera"
 tipo: evento
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [antony, experimento, financiera, octubre]
 publish: true
 ---
-# Revolución De Octubre 1917 (v2.0): El Experimento De La Ã‰lite Financiera
+# Revolución De Octubre 1917 (TL V.2): El Experimento De La Ã‰lite Financiera
 
 > [!ABSTRACT] Hipótesis Informativa
 > La Revolución de Octubre no fue una rebelión proletaria espontánea, sino un **Golpe de Estado de [[Tier B]]** financiado y dirigido por los centros de poder de **[[Tier A]]** en Nueva York y Londres. Bajo la dirección de Lenin y Trotsky, los bolcheviques capturaron Rusia para convertirla en un laboratorio de colectivismo forzado. Su función real fue **Neutralizar a Rusia como Competidor Soberano**, destruyendo su estructura tradicional y entregando sus inmensos recursos naturales a concesiones occidentales, mientras se creaba un "Enemigo Dialéctico" necesario para justificar la expansión del complejo militar-industrial global durante el siglo XX.
@@ -27,7 +27,7 @@ publish: true
 
 ## Conexiones Críticas
 - [[Antony Sutton]]: El autor definitivo sobre el financiamiento de Wall Street a la URSS.
-- [[Jacob Schiff]]: El banquero que orquestó el odio financiero contra el Zar.
+- [[00_Glosario - Conceptos Fase 1#Jacob Schiff\|Jacob Schiff]]: El banquero que orquestó el odio financiero contra el Zar.
 - [[Leon Trotsky]]: El nexo directo con las élites de Nueva York.
 - [[Vladimir Lenin]]: El arquitecto técnico del golpe de estado.
 - [[Revolución de Febrero de 1917]]: El preludio necesario.
@@ -39,7 +39,8 @@ La Revolución de Octubre nos enseña que **el comunismo es la técnica definiti
 ---
 **Versión:** 2.0
 **Enfoque:** El origen financiero de la revolución en Wall Street, el rol de Sutton en la exposición del fraude histórico y la función de la URSS como enemigo dialéctico controlado.
-**Estado:** Refactoreado a v2.0 - Framework de Historia Crítica y Finanzas.
+**Estado:** Refactoreado a TL V.2 - Framework de Historia Crítica y Finanzas.
+
 
 
 

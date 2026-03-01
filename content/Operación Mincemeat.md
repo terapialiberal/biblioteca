@@ -1,5 +1,5 @@
 ---
-titulo: "Operación Mincemeat (v2.0): El Arte De La Realidad Fabricada"
+titulo: "Operación Mincemeat (TL V.2): El Arte De La Realidad Fabricada"
 tipo: evento
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [arte, fabricada, guerra, realidad]
 publish: true
 ---
-# Operación Mincemeat (v2.0): El Arte De La Realidad Fabricada
+# Operación Mincemeat (TL V.2): El Arte De La Realidad Fabricada
 
 > [!ABSTRACT] Hipótesis Informativa
 > La Operación Mincemeat fue la **clase magistral de Guerra Cognitiva de [[Tier B]]** durante la Segunda Guerra Mundial. Al utilizar el cadáver de un indigente para plantar documentos falsos ante el alto mando nazi, la inteligencia británica demostró que la realidad es un constructo maleable mediante la acumulación de "detalles de verosimilitud" (pocket litter). Mincemeat representa el poder de la narrativa sobre la fuerza física: el sistema no necesitó mover una sola división para que Hitler moviera las suyas; solo necesitó contar una historia que el enemigo *quisiera* creer.
@@ -39,7 +39,8 @@ La Operación Mincemeat nos enseña que **las pruebas más convincentes suelen s
 ---
 **Versión:** 2.0
 **Enfoque:** Ingeniería de la identidad, uso de la narrativa como arma estratégica y el rol de Ian Fleming en los orígenes de la inteligencia creativa.
-**Estado:** Refactoreado a v2.0 - Framework de Operativo de Engaño.
+**Estado:** Refactoreado a TL V.2 - Framework de Operativo de Engaño.
+
 
 
 

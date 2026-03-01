@@ -1,5 +1,5 @@
 ---
-titulo: "Programa Mil Talentos (v2.0): El Robo De La Mente Occidental"
+titulo: "Programa Mil Talentos (TL V.2): El Robo De La Mente Occidental"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [brics, guerra, mente, occidental]
 publish: true
 ---
-# Programa Mil Talentos (v2.0): El Robo De La Mente Occidental
+# Programa Mil Talentos (TL V.2): El Robo De La Mente Occidental
 
 > [!ABSTRACT] Hipótesis Informativa
 > El Programa Mil Talentos (TTP) es la **Operación de Extracción de Capital Intelectual de [[Tier A]]** más exitosa de la historia moderna. Ejecutado por el Partido Comunista Chino (PCCh), su objetivo es capturar el conocimiento de punta de científicos y académicos occidentales de **[[Tier B]]** para transferirlo al complejo militar-industrial de los **[[BRICS]]**. Mediante incentivos financieros masivos y laboratorios espejo, el sistema logra una **Infiltración Capilar** en las universidades de élite de Occidente, permitiendo a China saltarse décadas de I+D básica y alcanzar la paridad tecnológica necesaria para el asalto final a la hegemonía global.
@@ -38,7 +38,8 @@ El Programa Mil Talentos es el recordatorio de que en el siglo XXI, el arma supr
 ---
 **Versión:** 2.0
 **Enfoque:** Extracción de tecnología académica para el PCCh, la captura de científicos de élite (Charles Lieber) y la externalización del costo de I+D hacia Occidente.
-**Estado:** Refactoreado a v2.0 - Framework de Espionaje Industrial.
+**Estado:** Refactoreado a TL V.2 - Framework de Espionaje Industrial.
+
 
 
 

@@ -1,5 +1,5 @@
 ---
-titulo: "Satélites (ARSAT) (v2.0): La Soberanía Digital Y Los Activos De La Ã“rbita"
+titulo: "Satélites (ARSAT) (TL V.2): La Soberanía Digital Y Los Activos De La Ã“rbita"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [arsat, digital, rbita, satlites]
 publish: true
 ---
-# Satélites (ARSAT) (v2.0): La Soberanía Digital Y Los Activos De La Ã“rbita
+# Satélites (ARSAT) (TL V.2): La Soberanía Digital Y Los Activos De La Ã“rbita
 
 > [!ABSTRACT] Hipótesis Informativa
 > ARSAT es la **Infraestructura de Soberanía Tecnológica de [[Tier B]]** de Argentina, encargada de ocupar las posiciones orbitales geoestacionarias y gestionar la red de fibra óptica nacional. Su función real en la Matrix es la de un **"Guardián del Espacio Soberano"**: asegurar que el Estado posea la capacidad técnica para conectar a su propia población de **[[Tier C]]** sin depender de los satélites de potencias de **[[Tier A]]**. Sin embargo, su vulnerabilidad ante la privatización y la competencia de redes como **[[Starlink]]** la sitúa en el centro de una guerra por el control del espectro y los datos del cono sur.
@@ -41,7 +41,8 @@ ARSAT nos enseña que **quien no ocupa su cielo, termina siendo colonizado por e
 ---
 **Versión:** 2.0
 **Enfoque:** ARSAT como herramienta de soberanía satelital y orbital frente al avance de competidores globales como Starlink, el rol de la Red Federal de Fibra Ã“ptica y el conflicto entre la infraestructura estatal y la privatización en la era Milei.
-**Estado:** Refactoreado a v2.0 - Framework de Tecnología Soberana y Geopolítica Espacial.
+**Estado:** Refactoreado a TL V.2 - Framework de Tecnología Soberana y Geopolítica Espacial.
+
 
 
 

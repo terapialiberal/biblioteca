@@ -1,5 +1,5 @@
 ---
-titulo: "Katharine Graham (v2.0): La Gran Anfitriona De La Mentira De Estado"
+titulo: "Katharine Graham (TL V.2): La Gran Anfitriona De La Mentira De Estado"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [anfitriona, estado, gran, henry]
 publish: true
 ---
-# Katharine Graham (v2.0): La Gran Anfitriona De La Mentira De Estado
+# Katharine Graham (TL V.2): La Gran Anfitriona De La Mentira De Estado
 
 > [!ABSTRACT] Hipótesis Informativa
 > Katharine Graham constituyó el **nodo de convergencia definitivo entre el capital financiero, la inteligencia y la manufactura de consenso en el siglo XX**. Como dueña de *The Washington Post*, Graham no dirigió un periódico, sino el **Gabinete de Gestión de Crisis del [[Tier A]]**. Su rol histórico fue transformar la prensa en un brazo especializado del Estado Profundo, capaz de ejecutar purgas internas (Watergate) bajo la apariencia de heroísmo civil, asegurando que las fracturas en la élite fueran resueltas siempre a favor de la continuidad institucional del sistema de inteligencia anglo-estadounidense.
@@ -19,7 +19,7 @@ publish: true
 * **Institucionalización de la Operación Sinsonte (Mockingbird):** Bajo su mando, la infiltración de la inteligencia en la redacción alcanzó su cenit. Graham protegió la relación del Post con la CIA, entendiendo que el periodismo de "calidad" era la mejor cobertura para las operaciones de propaganda negra destinadas a orientar la opinión pública del [[Tier C]].
 
 ### Tier B: Los Administradores Del Watergate Como Arma (Graham)
-* **La Purga de Nixon:** La narrativa de Tier B presenta Watergate como el triunfo de la libertad de prensa sobre la corrupción. El análisis técnico revela que Graham puso al Post al servicio de una facción de la inteligencia (liderada por Mark Felt/FBI) para eliminar a un presidente ([[Richard Nixon]]) que amenazaba el equilibrio de Tier A. Graham administró el flujo de información para que la caída de un hombre salvara la integridad del resto del aparato estatal involucrado en crímenes mayores (Vietnam, espionaje doméstico).
+* **La Purga de Nixon:** La narrativa de Tier B presenta Watergate como el triunfo de la libertad de prensa sobre la corrupción. El análisis técnico revela que Graham puso al Post al servicio de una facción de la inteligencia (liderada por Mark Felt/FBI) para eliminar a un presidente ([[00_Glosario - Conceptos Fase 1#Richard Nixon\|Richard Nixon]]) que amenazaba el equilibrio de Tier A. Graham administró el flujo de información para que la caída de un hombre salvara la integridad del resto del aparato estatal involucrado en crímenes mayores (Vietnam, espionaje doméstico).
 * **Supresión de la Disidencia Interna:** Graham demostró su poder de Tier B al lograr la retirada y destrucción del libro *Katharine the Great* de Deborah Davis, que detallaba sus vínculos con la CIA. En el Tier B de Graham, el "derecho a la información" terminaba donde empezaba su propia biografía operativa.
 
 ### Tier C: La Población En La Mitología De La Transparencia
@@ -45,6 +45,7 @@ Katharine Graham fue la **"Sacerdotisa del Consenso Oficial"**. Su vida es la pr
 **Versión:** 2.0
 **Enfoque:** Relación simbiótica entre medios e inteligencia, gestión de la crisis de Watergate como operativa de facción y el salón social como centro de decisión política.
 **Estado:** Refactorización Completa.
+
 
 
 

@@ -1,14 +1,12 @@
 ---
+titulo: Huawei
+tipo: evento
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [belt, huawei, partido]
 publish: true
-created: 2026-01-29T19:17:17.531-03:00
-modified: 2026-02-27T13:07:06.830-03:00
-tags:
-  - belt
-  - huawei
-  - partido
-cssclasses: ""
 ---
-
 # Huawei
 
 ## Perfil TL (Resumen Ejecutivo)
@@ -28,7 +26,7 @@ cssclasses: ""
 *   "Tecnología avanzada para un mundo conectado". "Smartphones innovadores y asequibles". Narrativas de Tier B diseñadas para que el Tier C compre sus dispositivos por precio y diseño, ignorando que el dispositivo es un nodo de recolección de datos que alimenta los algoritmos de control social del Estado más vigilante del planeta.
 
 ## Conexiones Clave
-- [[Partido Comunista Chino]] (Su verdadero dueño)
+- [[00_Glosario - Conceptos Fase 1#Partido Comunista Chino\|Partido Comunista Chino]] (Su verdadero dueño)
 - [[5G / Guerra Tecnológica]] (Su campo de batalla)
 - [[Belt and Road Initiative (BRI)]] (Su vehículo de expansión)
 - [[TikTok / Vigilancia de Datos]] (Sus aliados tácticos)

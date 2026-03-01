@@ -1,5 +1,5 @@
 ---
-titulo: "Las Smart Cities Fantasmas De China (v2.0): Los Servidores Físicos De La Sociedad"
+titulo: "Las Smart Cities Fantasmas De China (TL V.2): Los Servidores Físicos De La Sociedad"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [china, evergrande, fsicos, servidores]
 publish: true
 ---
-# Las Smart Cities Fantasmas De China (v2.0): Los Servidores Físicos De La Sociedad
+# Las Smart Cities Fantasmas De China (TL V.2): Los Servidores Físicos De La Sociedad
 
 > [!ABSTRACT] Hipótesis Informativa
 > Las ciudades fantasmas de China no constituyen errores de planificación económica, sino **nodos de control de [[Tier A]] estacionados** y laboratorios de ingeniería social a escala real. Estas megaciudades deshabitadas funcionan como **infraestructuras de reserva** para una gobernanza tecnocrática absoluta, donde la arquitectura urbana ha sido fusionada con sistemas de vigilancia 5G, reconocimiento biométrico y algoritmos de Crédito Social. Representan el **prototipo de la "Ciudad-Servidor"**, diseñada para alojar una población totalmente trazable en un entorno donde la libertad individual ha sido sustituida por la eficiencia algorítmica y la gestión de flujos de Tier B.
@@ -46,6 +46,7 @@ Las Smart Cities Fantasmas de China son el **"Hardware del Totalitarismo Digital
 **Versión:** 2.0
 **Enfoque:** Ciudades como laboratorios de vigilancia masiva, rol económico de la burbuja inmobiliaria en el PIB artificial y el uso de estas infraestructuras como búnkers de relocalización estratégica para el Tier A.
 **Estado:** Refactorización Completa.
+
 
 
 

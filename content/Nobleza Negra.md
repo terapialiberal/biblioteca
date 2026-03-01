@@ -1,5 +1,5 @@
 ---
-titulo: "Nobleza Negra (v2.0): El Plano Biológico Del Poder"
+titulo: "Nobleza Negra (TL V.2): El Plano Biológico Del Poder"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [banco, negra, nobleza, poder]
 publish: true
 ---
-# Nobleza Negra (v2.0): El Plano Biológico Del Poder
+# Nobleza Negra (TL V.2): El Plano Biológico Del Poder
 
 > [!CAUTION] Perspectiva Hierárquica (Tier A)
 > La Nobleza Negra no es una teoría de conspiración, sino una realidad histórica y genealógica. Se refiere a las familias aristocráticas de Roma y Venecia que, tras la caída de los Estados Pontificios y el surgimiento del capitalismo moderno, mutaron de un poder territorial a uno financiero y sacramental, controlando los nodos estructurales de la civilización occidental.
@@ -52,6 +52,7 @@ La Nobleza Negra representa la **persistencia biológica del poder**. Mientras l
 **Versión:** 2.0
 **Enfoque:** Linajes biológicos y el eje histórico Venecia-Vaticano-Londres.
 **Estado:** Refactorización Completa.
+
 
 
 

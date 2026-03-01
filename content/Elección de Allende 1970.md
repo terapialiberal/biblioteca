@@ -12,7 +12,7 @@ publish: true
 ## Perfil TL (Resumen Ejecutivo)
 **¿Qué pasó?** Salvador Allende, líder de la coalición de izquierda Unidad Popular, ganó las elecciones presidenciales de Chile con un 36.6% de los votos, convirtiéndose en el primer marxista en llegar democráticamente a la presidencia en el hemisferio occidental.
 
-**¿Por qué importa?** La elección de Allende es el **caso de estudio fundamental sobre la "Intolerancia de Tier A" hacia la soberanía nacional no alineada**. Para el **[[Estado profundo]]** estadounidense (Nixon y Kissinger), un gobierno socialista exitoso en Chile era un "virus" que podía contagiar a toda América Latina y Europa, amenazando el control corporativo sobre los recursos naturales (cobre). Antes incluso de que Allende asumiera, la **CIA** inició operaciones encubiertas (Track I y Track II) para sobornar al congreso chileno, asesinar al General René Schneider y "hacer chillar la economía" de Chile. Este evento marca el inicio de la destrucción sistemática de la democracia chilena por parte de intereses transnacionales que culminaría en el sangriento **[[Golpe de Chile 1973]]**.
+**¿Por qué importa?** La elección de Allende es el **caso de estudio fundamental sobre la "Intolerancia de Tier A" hacia la soberanía nacional no alineada**. Para el **[[Estado profundo\|Estado Profundo]]** estadounidense (Nixon y Kissinger), un gobierno socialista exitoso en Chile era un "virus" que podía contagiar a toda América Latina y Europa, amenazando el control corporativo sobre los recursos naturales (cobre). Antes incluso de que Allende asumiera, la **CIA** inició operaciones encubiertas (Track I y Track II) para sobornar al congreso chileno, asesinar al General René Schneider y "hacer chillar la economía" de Chile. Este evento marca el inicio de la destrucción sistemática de la democracia chilena por parte de intereses transnacionales que culminaría en el sangriento **[[Golpe de Chile 1973]]**.
 
 ## Análisis De Poder (Tiers)
 
@@ -30,7 +30,7 @@ publish: true
 ## Conexiones Clave
 - [[Salvador Allende]] (La víctima del sistema)
 - [[Henry Kissinger]] (El arquitecto del desastre)
-- [[Golpe en Chile 1973]] (La consecuencia final)
+- [[Golpe de Chile 1973\|Golpe en Chile 1973]] (La consecuencia final)
 - [[CIA (Operaciones en Latam)]] (La metodología)
 
 ## Fuentes

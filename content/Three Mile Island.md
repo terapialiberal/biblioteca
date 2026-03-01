@@ -1,16 +1,13 @@
 ---
+titulo: THREE MILE ISLAND (TL V.2)
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "a"
+nivel-evidencia: "alto"
+tags: [azure, mile, santuario, three]
 publish: true
-created: 2026-02-25T14:25:29.387-03:00
-modified: 2026-02-27T13:24:03.911-03:00
-tags:
-  - azure
-  - mile
-  - santuario
-  - three
-cssclasses: ""
 ---
-
-# THREE MILE ISLAND (v12_1)
+# THREE MILE ISLAND (TL V.2)
 
 #### BLUF
 Three Mile Island (Unit 1) ha sido resucitada por el **Tier A ([[Microsoft]])** como el símbolo del **Desacople Energético**. En 2026, bajo el nuevo nombre de "Crane Clean Energy Center", la planta que simbolizó el miedo nuclear es ahora la central eléctrica privada de la IA. Microsoft ha comprado el 100% de la producción para alimentar sus data centers, marcando el fin de la energía como bien público y el inicio de la **Energía como Activo de Inteligencia**.
@@ -73,6 +70,7 @@ Es un milagro económico y ecológico. Una planta cerrada vuelve a la vida, gene
 ¿Qué garantías de ciberseguridad tiene Microsoft sobre el sistema de control de la planta para evitar que su propio software sea el vector de ataque al reactor físico?
 
 ---
-*Versión: 1.0 (v12_1) | Dossier de Soberanía Energética*
+*Versión: 1.0 (TL V.2) | Dossier de Soberanía Energética*
+
 
 

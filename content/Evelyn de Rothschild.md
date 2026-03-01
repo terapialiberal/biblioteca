@@ -1,15 +1,12 @@
 ---
+titulo: Evelyn De Rothschild
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [evelyn, jeffrey, lynn, rothschild]
 publish: true
-created: 2026-01-29T19:17:12.692-03:00
-modified: 2026-02-27T13:22:40.151-03:00
-tags:
-  - evelyn
-  - jeffrey
-  - lynn
-  - rothschild
-cssclasses: ""
 ---
-
 # Evelyn De Rothschild
 
 > [!INFO] Perfil Operativo (Tier A)
@@ -24,7 +21,7 @@ Casado con **[[Lynn Forester de Rothschild]]**, quien tiene conexiones directas 
 ## Red De Conexiones
 - **Esposa:** [[Lynn Forester de Rothschild]] (conexión Clinton/Epstein)
 - **Familia:** [[Jacob Rothschild]], [[Ariane de Rothschild]]
-- **Instituciones:** [[The Economist]], [[De Beers]], [[City de Londres]]
+- **Instituciones:** [[00_Glosario - Conceptos Fase 1#The Economist\|The Economist]], [[De Beers]], [[City de Londres]]
 
 ## Follow The Money
 - N M Rothschild participó en las privatizaciones de Thatcher

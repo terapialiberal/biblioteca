@@ -1,21 +1,18 @@
 ---
+titulo: George Soros
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [george, ingeniera, revoluciones, soros]
 publish: true
-created: 2026-01-29T19:17:15.150-03:00
-modified: 2026-02-27T13:06:41.713-03:00
-tags:
-  - george
-  - ingeniera
-  - revoluciones
-  - soros
-cssclasses: ""
 ---
-
 # George Soros
 
 ## Perfil TL (Resumen Ejecutivo)
 **¿Quién es?** Multimillonario especulador financiero y fundador de las **Open Society Foundations (OSF)**. Conocido por haber "quebrado al Banco de Inglaterra" y por financiar miles de ONGs en todo el mundo.
 
-**¿Por qué importa?** George Soros es el **operador de Tier A especializado en la "Privatización de la Subversión"**. Su función histórica no ha sido la caridad, sino la desestabilización de estados-nación para su posterior captura económica. Mediante la **[[Ingeniería Social]]** y el financiamiento de **[[Revoluciones de Color]]**, Soros ha actuado como un "Estado Paralelo" que implementa la política exterior globalista a menudo incluso por fuera de los canales diplomáticos oficiales. Su red de ONGs captura los sistemas judiciales (**Fiscales de Soros**), modifica las leyes de migración y promueve agendas de identidad que fragmentan la cohesión social del Tier C. Soros no es un individuo aislado, sino un nodo visible de una estructura de poder más amplia (vinculada a los **[[Rothschild]]** y a la inteligencia británica) encargada de demoler la soberanía nacional para instaurar el modelo de gobernanza supranacional.
+**¿Por qué importa?** George Soros es el **operador de Tier A especializado en la "Privatización de la Subversión"**. Su función histórica no ha sido la caridad, sino la desestabilización de estados-nación para su posterior captura económica. Mediante la **[[Ingeniería Social]]** y el financiamiento de **[[Revolución de Color\|Revoluciones de Color]]**, Soros ha actuado como un "Estado Paralelo" que implementa la política exterior globalista a menudo incluso por fuera de los canales diplomáticos oficiales. Su red de ONGs captura los sistemas judiciales (**Fiscales de Soros**), modifica las leyes de migración y promueve agendas de identidad que fragmentan la cohesión social del Tier C. Soros no es un individuo aislado, sino un nodo visible de una estructura de poder más amplia (vinculada a los **[[Rothschild]]** y a la inteligencia británica) encargada de demoler la soberanía nacional para instaurar el modelo de gobernanza supranacional.
 
 ## Análisis De Poder (Tiers)
 ### Tier A (Los Dueños De La Agenda Global)
@@ -33,7 +30,7 @@ cssclasses: ""
 - [[Rothschild / Red de Poder]] (Sus patrocinadores originales)
 - [[Foro Económico Mundial (WEF)]] (Su marco estratégico)
 - [[Inmigración Masiva / Reemplazo Demográfico]] (Su agenda operativa)
-- [[Revoluciones de Color]] (Su método de cambio de régimen)
+- [[Revolución de Color\|Revoluciones de Color]] (Su método de cambio de régimen)
 
 ## Por Qué Importa (Estilo Nico)
 

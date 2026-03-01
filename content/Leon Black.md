@@ -1,4 +1,12 @@
 ---
+titulo: Leon Black
+tipo: 'organizacion'
+tier-primario: 'b'
+nivel-evidencia: 'medio'
+tags: [clasificado-ai]
+publish: true
+---
+﻿---
 titulo: "Leon Black: El Financista De La Sombra"
 tipo: persona
 fecha: 2026-02-25
@@ -23,18 +31,19 @@ publish: true
 *   **Chantaje Sistmico:** La relacin con Epstein no fue un error de juicio, sino una herramienta operativa. El capital de Black financi la logstica del chantaje que mantiene al Tier B (polticos y tecncratas) alineado con los intereses de Wall Street.
 
 
-## ⚡ Conclusin De Terapia Liberal
+## âš¡ Conclusin De Terapia Liberal
 Leon Black es la respuesta a la pregunta: "Cmo un ex-profesor de secundaria (Epstein) se convirti en billonario?". No se trata de trading, se trata de **financiamiento directo de la oligarqua**. Black no fue una vctima de Epstein; fue su **banquero central**.
 
 ---
 
 ## Conexiones De La Red
 - **Socio de Inteligencia:** [[Jeffrey Epstein]], [[Ghislaine Maxwell]].
-- **Estructura Financiera:** [[Apollo Global Management]], [[JPMorgan Chase]].
+- **Estructura Financiera:** [[Apollo Global Management]], [[00_Glosario - Conceptos Fase 1#JPMorgan Chase\|JPMorgan Chase]].
 - **Red Mercenaria:** [[Blackwater]], [[Academi]], [[Constellis]].
-- **Institucional:** [[MIT Media Lab]], [[MoMA]], [[Mega Group]].
+- **Institucional:** [[00_Glosario - Conceptos Fase 1#MIT Media Lab\|MIT Media Lab]], [[MoMA]], [[Mega Group]].
 
-**Estado:** Refactoreado a v2.0 - Framework de Inteligencia Aplicado.
+**Estado:** Refactoreado a TL V.2 - Framework de Inteligencia Aplicado.
+
 
 
 

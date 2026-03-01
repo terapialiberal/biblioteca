@@ -1,21 +1,21 @@
 ---
+titulo: Vudú Geopolítico
+tipo: persona
+fecha: 2026-02-25
+tags: [geopoltico, vud]
+tier-primario: "b"
+nivel-evidencia: "medio"
 publish: true
-created: 2026-02-25T22:08:32.634-03:00
-modified: 2026-02-27T13:24:08.725-03:00
-tags:
-  - geopoltico
-  - vud
-cssclasses: ""
 ---
-
 
 # Vudú Geopolítico
 
 > [!ABSTRACT] Hipótesis Informativa
-> Nodo perteneciente a la Matrix de Simbolismo y Esoterismo v12_0.
+> Nodo perteneciente a la Matrix de Simbolismo y Esoterismo TL V.2.
 
 ## Análisis De Tiers
 *En desarrollo...*
 
 ## Cui Bono
 *Pendiente de análisis forense.*
+

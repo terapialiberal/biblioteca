@@ -1,19 +1,16 @@
 ---
+titulo: Genomic ID (Bio-Digital Convergence)
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [convergence, digital, gdhcn, genomic]
 publish: true
-created: 2026-02-09T17:33:02.121-03:00
-modified: 2026-02-27T13:22:46.212-03:00
-tags:
-  - convergence
-  - digital
-  - gdhcn
-  - genomic
-cssclasses: ""
 ---
-
 # [[Genomic ID (Bio-Digital Convergence)]]
 
 **Clasificación:** Tier B (La última frontera del control)  
-**Actores:** [[WHO]], [[GDHCN]], [[Illumina]], Agencias de Salud Nacionales.
+**Actores:** [[00_Glosario - Conceptos Fase 1#WHO\|WHO]], [[GDHCN]], [[Illumina]], Agencias de Salud Nacionales.
 
 ## 🦾 ANÁLISIS FORENSE
 El **Genomic ID** es la integración de datos genéticos (ADN) en el perfil de Identidad Digital Global. Lo que comenzó como "rastreo de variantes" durante la pandemia ha evolucionado hacia la creación de una "huella bio-digital" inalterable.

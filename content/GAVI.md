@@ -1,19 +1,16 @@
 ---
+titulo: GAVI (THE VACCINE ALLIANCE) (TL V.2)
+tipo: organizacion
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "alto"
+tags: [alianza, bill, gavi, logstica]
 publish: true
-created: 2026-02-25T15:49:09.103-03:00
-modified: 2026-02-27T13:22:45.570-03:00
-tags:
-  - alianza
-  - bill
-  - gavi
-  - logstica
-cssclasses: ""
 ---
-
-# GAVI (THE VACCINE ALLIANCE) (v12_1)
+# GAVI (THE VACCINE ALLIANCE) (TL V.2)
 
 #### BLUF
-GAVI no es una organización benéfica; es el **Brazo Logístico de la Hegemonía Sanitaria**. Financiada por la [[Bill & Melinda Gates Foundation]] y gobiernos del G7, su función es crear la infraestructura necesaria para que el Sur Global sea un **Mercado Cautivo** de las farmacéuticas de Tier A. En 2026, GAVI lidera la transición hacia el "Check-in Biométrico" obligatorio para recibir ayuda, vinculando la salud al sistema de Identidad Digital Universal.
+GAVI no es una organización benéfica; es el **Brazo Logístico de la Hegemonía Sanitaria**. Financiada por la [[00_Glosario - Conceptos Fase 1#Bill & Melinda Gates Foundation\|Bill & Melinda Gates Foundation]] y gobiernos del G7, su función es crear la infraestructura necesaria para que el Sur Global sea un **Mercado Cautivo** de las farmacéuticas de Tier A. En 2026, GAVI lidera la transición hacia el "Check-in Biométrico" obligatorio para recibir ayuda, vinculando la salud al sistema de Identidad Digital Universal.
 
 
 #### MAPA DE ACTORES
@@ -73,6 +70,7 @@ GAVI es la mayor historia de éxito de la salud pública moderna. Han logrado ll
 ¿Cuál es la relación real entre los directivos de GAVI y los fondos de inversión de Tier A que están comprando tierras agrícolas ([[Lab-Grown Meat]]) en las mismas zonas donde GAVI opera?
 
 ---
-*Dossier forense v12_1 | La Logística del Imperio Sanitario*
+*Dossier forense TL V.2 | La Logística del Imperio Sanitario*
+
 
 

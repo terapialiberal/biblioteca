@@ -1,5 +1,5 @@
 ---
-titulo: "La Bonaerense (v2.0): La Agencia De Regulación Del Delito"
+titulo: "La Bonaerense (TL V.2): La Agencia De Regulación Del Delito"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [barones, bonaerense, eduardo, regulacin]
 publish: true
 ---
-# La Bonaerense (v2.0): La Agencia De Regulación Del Delito
+# La Bonaerense (TL V.2): La Agencia De Regulación Del Delito
 
 > [!ABSTRACT] Hipótesis Informativa
 > La Policía de la Provincia de Buenos Aires constituye un **Estado Paralelo con capacidad de veto territorial y financiero sobre el [[Tier B]] político**. Con más de 90.000 efectivos, su función real no es la prevención del delito, sino la **gestión y fiscalización de los mercados ilegales** (narcotráfico, juego, prostitución, autopartes). La Bonaerense opera como una estructura de recaudación verticalista que nutre las cajas negras de la política bonaerense, garantizando el control del Conurbano a cambio de una impunidad corporativa que la hace, en la práctica, ingobernable para cualquier administración civil que no acepte sus términos.
@@ -45,6 +45,7 @@ La Bonaerense es la **"Aduana del Delito"**. Su importancia reside en que es la 
 **Versión:** 2.0
 **Enfoque:** Gestión del delito como herramienta de financiamiento político, el pacto de autogobierno con la política y el rol de la fuerza como reguladora del narcotráfico y el orden territorial.
 **Estado:** Refactorización Completa.
+
 
 
 

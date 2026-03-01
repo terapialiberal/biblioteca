@@ -1,5 +1,5 @@
 ---
-titulo: "Nxivm (v2.0): El Laboratorio De Chantaje De La Ã‰lite"
+titulo: "Nxivm (TL V.2): El Laboratorio De Chantaje De La Ã‰lite"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [jeffrey, laboratorio, mega, nxivm]
 publish: true
 ---
-# Nxivm (v2.0): El Laboratorio De Chantaje De La Ã‰lite
+# Nxivm (TL V.2): El Laboratorio De Chantaje De La Ã‰lite
 
 > [!ABSTRACT] Hipótesis Informativa
 > Nxivm no fue una secta aislada de un "científico loco", sino un **nodo de acondicionamiento psicopolítico** para la élite de [[Tier A]]. Sirvió como laboratorio para perfeccionar el uso del trauma y la información comprometedora (colateral) como herramientas de gobernanza, vinculando linajes financieros (Bronfman) con castas políticas locales (México) en una red de lealtad basada en la destrucción mutua asegurada.
@@ -45,6 +45,7 @@ Nxivm es la **Ventanilla de Inspección de la Matrix**. Lo que ocurrió en Alban
 **Versión:** 2.0
 **Enfoque:** Sectas como herramientas de inteligencia, chantaje de élites y el nexo Bronfman-Salinas.
 **Estado:** Refactorización Completa.
+
 
 
 

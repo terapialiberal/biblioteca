@@ -1,5 +1,5 @@
 ---
-titulo: "Jueces Federales De Comodoro Py (v2.0): La Aduana De La Impunidad"
+titulo: "Jueces Federales De Comodoro Py (TL V.2): La Aduana De La Impunidad"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [aduana, federales, impunidad, lawfare]
 publish: true
 ---
-# Jueces Federales De Comodoro Py (v2.0): La Aduana De La Impunidad
+# Jueces Federales De Comodoro Py (TL V.2): La Aduana De La Impunidad
 
 > [!ABSTRACT] Hipótesis Informativa
 > Los Jueces Federales de Comodoro Py constituyen el **núcleo de estabilidad del régimen de [[Tier B]] en Argentina**. Actuando como una monarquía jurídica no electa, su función no es impartir justicia, sino gestionar el **mercado de la impunidad y la extorsión**. Son el nodo donde convergen los intereses de los servicios de inteligencia ([[AFI]]), el capital financiero y el poder ejecutivo. A través del manejo discrecional de los tiempos procesales ("cajoneo"), aseguran que la clase política permanezca en un estado de subordinación perpetua hacia las facciones del [[Tier A]] que controlan las carpetas de inteligencia.
@@ -32,7 +32,7 @@ publish: true
 3. **Escritura de la Sentencia en la AFI**: La coordinación previa con los servicios de inteligencia para que los fallos judiciales coincidan con las necesidades de la "Razón de Estado" o de facción.
 
 ## Conexiones Críticas
-- [[AFI (Agencia Federal de Inteligencia)]]: El proveedor de la "materia prima" (escuchas y carpetas).
+- [[00_Glosario - Conceptos Fase 1#AFI (Agencia Federal de Inteligencia)\|AFI (Agencia Federal de Inteligencia)]]: El proveedor de la "materia prima" (escuchas y carpetas).
 - [[Antonio Stiuso]]: El gran arquitecto de la relación justicia-espionaje durante tres décadas.
 - [[Sergio Massa]]: El especialista de Tier B en el manejo de vínculos y "puentes" con Retiro.
 - [[Consejo de la Magistratura]]: El órgano de Tier B que garantiza la impunidad disciplinaria de los jueces leales.
@@ -45,6 +45,7 @@ Los Jueces de Comodoro Py son los **"Duaneros del Destino Político"** de Argent
 **Versión:** 2.0
 **Enfoque:** Monopolio de la impunidad, coordinación con servicios de inteligencia (AFI) y uso del lawfare como herramienta de arbitraje político.
 **Estado:** Refactorización Completa.
+
 
 
 

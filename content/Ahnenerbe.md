@@ -1,14 +1,12 @@
 ---
+titulo: Resumen General
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [ahnenerbe, heinrich, sociedad]
 publish: true
-created: 2026-01-29T19:17:03.061-03:00
-modified: 2026-02-27T13:21:58.040-03:00
-tags:
-  - ahnenerbe
-  - heinrich
-  - sociedad
-cssclasses: ""
 ---
-
 # Resumen General
 La "Sociedad para la Investigación y Enseñanza del Patrimonio Ancestral Alemán", fundada por Heinrich Himmler. Fue la división ocultista y pseudocientífica de las SS. Buscaban pruebas de la raza aria superior, artefactos místicos (Grial, Lanza del Destino) y estudiaban ciencias prohibidas en todo el mundo (Tíbet, Antártida, Andes).
 
@@ -29,7 +27,7 @@ La "Sociedad para la Investigación y Enseñanza del Patrimonio Ancestral Alemá
 - [[Sociedad Thule]]
 - [[Sol Negro]] (Simbología)
 - [[Operación Highjump]] (Antártida)
-- [[Ocultismo]]
+- [[00_Glosario - Conceptos Fase 1#Ocultismo\|Ocultismo]]
 
 # Por Qué Importa
 El nazismo no era solo un movimiento político; era una secta esotérica con poder estatal. La Ahnenerbe buscaba reescribir la historia y la biología para crear una nueva religión racial.

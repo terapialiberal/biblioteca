@@ -1,5 +1,5 @@
 ---
-titulo: "Jerome Powell (v2.0): El Gestor De La Liquidez Sistémica"
+titulo: "Jerome Powell (TL V.2): El Gestor De La Liquidez Sistémica"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [jerome, liquidez, reserva, sistmica]
 publish: true
 ---
-# Jerome Powell (v2.0): El Gestor De La Liquidez Sistémica
+# Jerome Powell (TL V.2): El Gestor De La Liquidez Sistémica
 
 > [!ABSTRACT] Hipótesis Informativa
 > Jerome Powell es el **administrador de la solvencia de la élite**. A diferencia de sus predecesores académicos, Powell es un hombre del *Private Equity* ([[Carlyle Group]]), lo que marca la transición de la [[Reserva Federal]] de ser un regulador económico a ser un **fondo de cobertura de última instancia** para el [[Tier A]]. Su función es gestionar el ciclo de expansión y contracción monetaria para facilitar la consolidación de activos en manos de los grandes bancos, mientras utiliza la inflación y las tasas de interés como herramientas de disciplina social sobre el [[Tier C]].
@@ -45,6 +45,7 @@ Jerome Powell es el **"Cirujano de la Deuda"**. Su trabajo consiste en asegurars
 **Versión:** 2.0
 **Enfoque:** Banca central como herramienta de consolidación bancaria, el paso de Carlyle a la Fed y la inflación como mecanismo de disciplina social.
 **Estado:** Refactorización Completa.
+
 
 
 

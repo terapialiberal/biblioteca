@@ -1,5 +1,5 @@
 ---
-titulo: "Quantum Fund (v2.0): El Cañón De La Guerra Financiera Privada"
+titulo: "Quantum Fund (TL V.2): El Cañón De La Guerra Financiera Privada"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [financiera, fund, george, open]
 publish: true
 ---
-# Quantum Fund (v2.0): El Cañón De La Guerra Financiera Privada
+# Quantum Fund (TL V.2): El Cañón De La Guerra Financiera Privada
 
 > [!ABSTRACT] Hipótesis Informativa
 > Quantum Fund es el **Brazo de Extracción de Valor y Sabotaje Geopolítico de [[Tier A]]** fundado por [[George Soros]]. Lejos de ser un simple hedge fund especulativo, Quantum opera como una **Arma de Asalto Macroeconómico** capaz de doblegar a bancos centrales soberanos y forzar cambios de política nacional mediante ataques a la moneda. Las ganancias billonarias obtenidas mediante el colapso de divisas (Libra Esterlina, Baht Tailandés) financian posteriormente la ingeniería social de las **[[Open Society Foundations]]**, cerrando el círculo de la Matrix: la especulación financiera de Tier A destruye la estabilidad soberana del **[[Tier C]]** para instalar regimes dóciles bajo la máscara de la "filantropía".
@@ -38,7 +38,8 @@ Quantum Fund nos enseña que **el ahorro de una nación puede ser robado en una 
 ---
 **Versión:** 2.0
 **Enfoque:** Quantum Fund como herramienta de asalto macroeconómico, el financiamiento de las Open Society y el rol de Scott Bessent como operador clave en la política y las finanzas.
-**Estado:** Refactoreado a v2.0 - Framework de Guerra Financiera.
+**Estado:** Refactoreado a TL V.2 - Framework de Guerra Financiera.
+
 
 
 

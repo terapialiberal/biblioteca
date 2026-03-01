@@ -1,5 +1,13 @@
 ---
-titulo: "Sheldon Adelson (v2.0): El Comprador De La Poltica Exterior"
+titulo: Sheldon Adelson
+tipo: 'persona'
+tier-primario: 'b'
+nivel-evidencia: 'medio'
+tags: [clasificado-ai]
+publish: true
+---
+﻿---
+titulo: "Sheldon Adelson (TL V.2): El Comprador De La Poltica Exterior"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,10 +15,10 @@ nivel-evidencia: "medio"
 tags: [comprador, exterior, sheldon, tica]
 publish: true
 ---
-# Sheldon Adelson (v2.0): El Comprador De La Poltica Exterior
+# Sheldon Adelson (TL V.2): El Comprador De La Poltica Exterior
 
 > [!ABSTRACT] Hiptesis Informativa
-> Sheldon Adelson constituye el **paradigma de la captura del Estado por parte del capital privado de [[Tier A]]**. Utilizando su fortuna proveniente del imperio de casinos (herencia estructural de la red de Meyer Lansky en Las Vegas), Adelson financi sistemticamente la carrera de **[[Benjamin Netanyahu]]** y la eleccin de **[[Donald Trump]]** con un objetivo nico: la reconfiguracin agresiva de Oriente Medio en favor de un Israel expansionista. Su importancia reside en haber demostrado que un solo individuo puede "comprar" decisiones soberanas de una superpotencia —como el traslado de la embajada a Jerusaln o la ruptura del acuerdo con Irn— utilizando a **[[Jared Kushner]]** como su operador interno y a figuras como **[[David Friedman]]** y **[[John Bolton]]** como sus ejecutores doctrinarios.
+> Sheldon Adelson constituye el **paradigma de la captura del Estado por parte del capital privado de [[Tier A]]**. Utilizando su fortuna proveniente del imperio de casinos (herencia estructural de la red de Meyer Lansky en Las Vegas), Adelson financi sistemticamente la carrera de **[[Benjamin Netanyahu]]** y la eleccin de **[[Donald Trump]]** con un objetivo nico: la reconfiguracin agresiva de Oriente Medio en favor de un Israel expansionista. Su importancia reside en haber demostrado que un solo individuo puede "comprar" decisiones soberanas de una superpotencia â€”como el traslado de la embajada a Jerusaln o la ruptura del acuerdo con Irnâ€” utilizando a **[[Jared Kushner]]** como su operador interno y a figuras como **[[David Friedman]]** y **[[John Bolton]]** como sus ejecutores doctrinarios.
 
 ## Anlisis De Tiers
 
@@ -43,9 +51,10 @@ publish: true
 Sheldon Adelson fue el **"Arquitecto de la Poltica Transaccional"**. Su vida es la prueba definitiva de que la soberana nacional es una mercanca para el [[Tier A]]. No fue un filntropo; fue un **adjudicatario de polticas de Estado**. Entender a Adelson es comprender que las fronteras y los tratados pueden ser redibujados si el cheque es lo suficientemente grande. Para el Tier C, fue un empresario exitoso; para el Tier A, fue la **garanta de que el dinero puede mover montaas (y embajadas)**, asegurando que el destino de millones de personas sea decidido por los caprichos de un solo hombre en un despacho de un casino.
 
 ---
-**Versi�n:** 2.0
-**Enfoque:** Captura de la pol�tica exterior estadounidense, nexo con el Mega Group y la red de casinos (Lansky), rol de Kushner como intermediario y el impacto de sus donaciones en la reconfiguraci�n de Medio Oriente.
-**Estado:** Refactorizaci�n Completa e Integraci�n de Triaje OSINT.
+**Versiï¿½n:** 2.0
+**Enfoque:** Captura de la polï¿½tica exterior estadounidense, nexo con el Mega Group y la red de casinos (Lansky), rol de Kushner como intermediario y el impacto de sus donaciones en la reconfiguraciï¿½n de Medio Oriente.
+**Estado:** Refactorizaciï¿½n Completa e Integraciï¿½n de Triaje OSINT.
+
 
 
 

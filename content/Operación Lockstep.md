@@ -1,5 +1,5 @@
 ---
-titulo: "Operación Lockstep (v2.0): El Guion Del Control Biosocial"
+titulo: "Operación Lockstep (TL V.2): El Guion Del Control Biosocial"
 tipo: evento
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [biosocial, fundacin, guion, lockstep]
 publish: true
 ---
-# Operación Lockstep (v2.0): El Guion Del Control Biosocial
+# Operación Lockstep (TL V.2): El Guion Del Control Biosocial
 
 > [!ABSTRACT] Hipótesis Informativa
 > La Operación Lockstep es el escenario de **Ingeniería Social Predictiva** publicado por la **[[Fundación Rockefeller]]** en 2010 que describió con precisión quirúrgica la respuesta global a una pandemia diez años antes del COVID-19. No es una predicción, sino un **Blueprint (Plano Maestro) de [[Tier A]]** para la transición hacia un modelo de gobernanza autoritario y tecnocrático. "Lockstep" (Marcha al Unísono) representa la alineación obligatoria de todas las naciones bajo protocolos de vigilancia masiva, restricciones de movimiento y control biométrico, utilizando la salud pública como el pretexto final para la eliminación de la soberanía individual del **[[Tier C]]**.
@@ -39,7 +39,8 @@ La Operación Lockstep es la prueba de que el futuro de la Matrix no se improvis
 ---
 **Versión:** 2.0
 **Enfoque:** Documento de la Fundación Rockefeller de 2010 como plano para el autoritarismo sanitario global, el elogio al modelo chino y la permanencia de la vigilancia post-crisis.
-**Estado:** Refactoreado a v2.0 - Framework de Biopolítica Prospectiva.
+**Estado:** Refactoreado a TL V.2 - Framework de Biopolítica Prospectiva.
+
 
 
 

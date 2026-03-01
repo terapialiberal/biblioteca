@@ -1,15 +1,12 @@
 ---
+titulo: Carpeta (Extorsión)
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [carpeta, extorsin, jaime, natacha]
 publish: true
-created: 2026-01-29T19:17:06.615-03:00
-modified: 2026-02-27T13:06:22.662-03:00
-tags:
-  - carpeta
-  - extorsin
-  - jaime
-  - natacha
-cssclasses: ""
 ---
-
 # Carpeta (Extorsión)
 
 ## Perfil TL (Resumen Ejecutivo)
@@ -30,7 +27,7 @@ cssclasses: ""
 *   "Escándalos de corrupción". "Primicias exclusivas". Se envuelven las operaciones de inteligencia en papel de regalo de "defensa de la institucionalidad" o "búsqueda de la verdad".
 
 ## Conexiones Clave
-- [[AFI (Agencia Federal de Inteligencia)]] (La usina)
+- [[00_Glosario - Conceptos Fase 1#AFI (Agencia Federal de Inteligencia)\|AFI (Agencia Federal de Inteligencia)]] (La usina)
 - [[Jaime Stiuso]] (El gran archivista)
 - [[Natacha Jaitt]] (Un cable suelto que sabía demasiado sobre las carpetas de pedofilia)
 - [[Cadena de Favores (Política)]] (El sistema donde vive la carpeta)

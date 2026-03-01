@@ -1,4 +1,12 @@
 ---
+titulo: Affinity Partners
+tipo: 'persona'
+tier-primario: 'b'
+nivel-evidencia: 'medio'
+tags: [clasificado-ai]
+publish: true
+---
+﻿---
 titulo: "Affinity Partners: El Seguro Poltico Del Golfo"
 tipo: persona
 fecha: 2026-02-25
@@ -36,12 +44,13 @@ publish: true
 ## ?? Conexiones Crticas
 - [[Donald Trump]]: El vehculo del poder poltico final.
 - [[MBS (Mohammed bin Salman)]]: El financista principal.
-- [[Acuerdos de Abraham]]: El marco diplomtico que Affinity explota comercialmente.
+- [[00_Glosario - Conceptos Fase 1#Acuerdos de Abraham\|Acuerdos de Abraham]]: El marco diplomtico que Affinity explota comercialmente.
 - [[Corredor IMEC (India-Middle East-Europe)]]: Kushner prepara los nodos logsticos donde el IMEC debe terminar.
 
 ---
-**Falsabilidad**: Si se aprueba una legislaci�n estricta en EEUU (Foreign Agents Registration Act - FARA) que obligue a los fondos de inversi�n privados de familiares de ex-presidentes a revelar cada centavo y reuni�n, la utilidad de Affinity para el Tier A del Golfo desaparecer�a instant�neamente.
+**Falsabilidad**: Si se aprueba una legislaciï¿½n estricta en EEUU (Foreign Agents Registration Act - FARA) que obligue a los fondos de inversiï¿½n privados de familiares de ex-presidentes a revelar cada centavo y reuniï¿½n, la utilidad de Affinity para el Tier A del Golfo desaparecerï¿½a instantï¿½neamente.
 
-*Versi�n: 2.0 | Protocolo TL-INTEL v12_0*
+*Versiï¿½n: 2.0 | Protocolo TL-INTEL TL V.2*
+
 
 

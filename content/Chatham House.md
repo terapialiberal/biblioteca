@@ -1,16 +1,13 @@
 ---
+titulo: CHATHAM HOUSE (THE ROYAL INSTITUTE OF INTERNATIONAL AFFAIRS) (TL V.2)
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "alto"
+tags: [americano, arquitecto, baroness, house]
 publish: true
-created: 2026-01-29T19:17:07.427-03:00
-modified: 2026-02-27T13:07:37.292-03:00
-tags:
-  - americano
-  - arquitecto
-  - baroness
-  - house
-cssclasses: ""
 ---
-
-# CHATHAM HOUSE (THE ROYAL INSTITUTE OF INTERNATIONAL AFFAIRS) (v12_1)
+# CHATHAM HOUSE (THE ROYAL INSTITUTE OF INTERNATIONAL AFFAIRS) (TL V.2)
 
 #### BLUF
 Chatham House es el **Centro de Coordinación Estratégica del Reino Unido** y el equivalente británico del CFR. Actúa como el puente entre el sector financiero de la City de Londres y la política exterior del Commonwealth. En 2026, su función principal es asegurar la **Interoperabilidad Normativa** entre el atlantismo y los intereses británicos post-Brexit, utilizando sus famosas "Reglas de Chatham House" para facilitar pactos discretos entre el Tier A corporativo y el Tier B político sin transparencia pública.
@@ -73,6 +70,7 @@ Chatham House es esencial para la diplomacia moderna. Ofrece el único espacio e
 ¿Cuál es la relación real entre Chatham House y los algoritmos de inversión de alta frecuencia de la City que utilizan la inteligencia geopolítica del instituto para apostar contra monedas de países en desarrollo?
 
 ---
-*Dossier forense v12_1 | El Centro de Inteligencia Civil del Imperio*
+*Dossier forense TL V.2 | El Centro de Inteligencia Civil del Imperio*
+
 
 

@@ -10,7 +10,7 @@ publish: true
 # GAVI (The Vaccine Alliance)
 
 ## Perfil TL (Resumen Ejecutivo)
-**Qu es?** Una asociacin pblico-privada presentada como "misin humanitaria", financiada inicialmente por la **[[Fundacin Bill y Melinda Gates]]** (quien aport \750 millones para su creacin).
+**Qu es?** Una asociacin pblico-privada presentada como "misin humanitaria", financiada inicialmente por la **[[Fundación Bill y Melinda Gates\|Fundacin Bill y Melinda Gates]]** (quien aport \750 millones para su creacin).
 
 **Por qu importa?** GAVI es la **entidad soberana de Tier A para el control del mercado biolgico mundial**. Lo que la mayora ignora es que GAVI goza de **Inmunidad Diplomtica total en Suiza**: sus oficinas no pueden ser allanadas, sus documentos son inviolables y sus empleados no pueden ser procesados legalmente. Es, de facto, una potencia extranjera operando dentro del sector salud. GAVI funciona como el **"Departamento de Ventas" de Big Pharma**: utiliza el dinero de los contribuyentes occidentales para comprar vacunas masivamente y luego "donarlas" o subsidiarlas en pases en desarrollo, asegurando que las farmacuticas (donde Gates tiene intereses financieros) tengan mercados cautivos garantizados y sin riesgo. Es el ejemplo perfecto de **Filantrocapitalismo de Tier A**: una inversin financiera disfrazada de caridad que genera retornos monetarios (20:1 segn Gates) y retornos de poder (control del estatus sanitario de millones).
 
@@ -28,7 +28,7 @@ publish: true
 *   "Salvar a los nios de enfermedades prevenibles". "Equidad sanitaria global". Narrativas morales potentes que impiden cualquier cuestionamiento sobre la falta de transparencia financiera, los efectos adversos no reportados o el conflicto de inters masivo de sus fundadores.
 
 ## Conexiones Clave
-- [[Fundacin Bill y Melinda Gates]] (Su creador y dueo real)
+- [[Fundación Bill y Melinda Gates\|Fundacin Bill y Melinda Gates]] (Su creador y dueo real)
 - [[Organizacin Mundial de la Salud (OMS)]] (Su socio institucional)
 - [[Big Pharma (Pfizer / GSK / Merck)]] (Sus proveedores protegidos)
 - [[ID2020]] (El nexo entre vacunas e identidad digital)

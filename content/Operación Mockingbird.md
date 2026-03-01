@@ -1,5 +1,5 @@
 ---
-titulo: "Operación Mockingbird (v2.0): El Eco-Cámara De La Matrix"
+titulo: "Operación Mockingbird (TL V.2): El Eco-Cámara De La Matrix"
 tipo: evento
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [comit, cmara, matrix, operacin]
 publish: true
 ---
-# Operación Mockingbird (v2.0): El Eco-Cámara De La Matrix
+# Operación Mockingbird (TL V.2): El Eco-Cámara De La Matrix
 
 > [!ABSTRACT] Hipótesis Informativa
 > La Operación Mockingbird es el sistema de **colonización de la conciencia pública por parte de la [[CIA]]**. Mediante el reclutamiento de cientos de periodistas y dueños de medios de comunicación, el **[[Tier A]]** de inteligencia transformó a la prensa libre en una "Wurlitzer Poderosa" (un órgano musical) capaz de tocar cualquier melodía propagandística al unísono. Mockingbird no ha terminado; ha evolucionado hacia la **convergencia corporativa total**, donde los medios tradicionales y las plataformas digitales de **[[Tier B]]** operan como repetidores de los guiones de seguridad nacional, asegurando que el **[[Tier C]]** viva en una realidad fabricada donde la disidencia es invisible o ridiculizada.
@@ -39,7 +39,8 @@ La Operación Mockingbird es la pared de la caverna de Platón sobre la que se p
 ---
 **Versión:** 2.0
 **Enfoque:** Control estructural de los medios masivos, reclutamiento de periodistas de élite y la evolución del programa hacia el actual ecosistema de redes sociales y "fact-checkers".
-**Estado:** Refactoreado a v2.0 - Framework de Control de la Narrativa.
+**Estado:** Refactoreado a TL V.2 - Framework de Control de la Narrativa.
+
 
 
 

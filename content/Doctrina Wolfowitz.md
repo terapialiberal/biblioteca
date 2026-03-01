@@ -1,15 +1,12 @@
 ---
+titulo: Doctrina Wolfowitz
+tipo: organizacion
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [doctrina, paul, proyecto, wolfowitz]
 publish: true
-created: 2026-01-29T19:17:10.423-03:00
-modified: 2026-02-27T13:22:30.772-03:00
-tags:
-  - doctrina
-  - paul
-  - proyecto
-  - wolfowitz
-cssclasses: ""
 ---
-
 # Doctrina Wolfowitz
 
 ## Resumen Ejecutivo
@@ -36,7 +33,7 @@ Su objetivo real es impedir que Europa, Japón o China se vuelvan independientes
 ## Conexiones
 - [[Paul Wolfowitz]]
 - [[Proyecto para el Nuevo Siglo Estadounidense]]
-- [[Neoconservadores]]
+- [[00_Glosario - Conceptos Fase 1#Neoconservadores\|Neoconservadores]]
 
 ## Fuentes
 - "Defense Planning Guidance FY 1994-1999" (Texto filtrado al NYT).

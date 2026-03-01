@@ -1,16 +1,13 @@
 ---
+titulo: ANDURIL INDUSTRIES (TL V.2)
+tipo: empresa
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [anduril, industries, palmer, peter]
 publish: true
-created: 2026-01-29T19:17:03.543-03:00
-modified: 2026-02-27T13:21:59.494-03:00
-tags:
-  - anduril
-  - industries
-  - palmer
-  - peter
-cssclasses: ""
 ---
-
-# ANDURIL INDUSTRIES (v12_1)
+# ANDURIL INDUSTRIES (TL V.2)
 
 #### BLUF
 Anduril Industries es el ejecutor de la transición del **Tier B** hacia la guerra autónoma total. En 2026, su sistema operativo **Lattice** ha subordinado la toma de decisiones humana al algoritmo en teatros de operaciones críticos. Anduril no fabrica armas; fabrica la **Capa de Inteligencia** que permite al Pentágono desplegar el sistema "Replicator" (miles de drones autónomos) antes de que el adversario pueda reaccionar.
@@ -73,6 +70,7 @@ Anduril es una respuesta necesaria a la obsolescencia de los contratistas de def
 ¿Cuál es el protocolo real de Anduril respecto a la "discriminación de objetivos" en entornos urbanos densos cuando el enlace de comunicaciones con la base se pierde?
 
 ---
-*Dossier forense v12_1 | Inteligencia de Defensa Autónoma*
+*Dossier forense TL V.2 | Inteligencia de Defensa Autónoma*
+
 
 

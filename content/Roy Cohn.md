@@ -1,5 +1,5 @@
 ---
-titulo: "Roy Cohn (v2.0): El Maestro Del Compromat Y El Mentor De La Matrix"
+titulo: "Roy Cohn (TL V.2): El Maestro Del Compromat Y El Mentor De La Matrix"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [cohn, compromat, matrix, mentor]
 publish: true
 ---
-# Roy Cohn (v2.0): El Maestro Del Compromat Y El Mentor De La Matrix
+# Roy Cohn (TL V.2): El Maestro Del Compromat Y El Mentor De La Matrix
 
 > [!ABSTRACT] Hipótesis Informativa
 > Roy Cohn fue el **Operador de [[Tier B]]** que diseñó el manual de instrucciones para la captura del poder mediante el cinismo, el chantaje y la infiltración en las redes de la élite de Nueva York. Desde sus inicios como fiscal en el caso Rosenberg y asesor de McCarthy, hasta convertirse en el mentor y primer abogado de **[[Donald Trump]]**, Cohn personificó el nexo entre la inteligencia estatal, la **Mafia** y el mundo corporativo. Su función real fue la de un **"Ingeniero de Corrupción de Ã‰lite"**: perfeccionó el uso de los **Honey Pots** (trampas sexuales) y el chantaje íntimo de **[[Compromat]]** para garantizar la impunidad de sus clientes de **[[Tier A]]**, estableciendo el modelo operativo que posteriormente heredó y escaló **[[Jeffrey Epstein]]**.
@@ -40,7 +40,8 @@ Roy Cohn nos enseña que **el poder real se ejerce mediante las debilidades de l
 ---
 **Versión:** 2.0
 **Enfoque:** Roy Cohn como mentor de Trump, su rol en el McCarthyismo y su perfeccionamiento del modelo de chantaje y Honey Pots que precedió a Epstein, vinculando la mafia neoyorquina con la inteligencia estatal.
-**Estado:** Refactoreado a v2.0 - Framework de Operaciones de Inteligencia y Corrupción de Ã‰lite.
+**Estado:** Refactoreado a TL V.2 - Framework de Operaciones de Inteligencia y Corrupción de Ã‰lite.
+
 
 
 

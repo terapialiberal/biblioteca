@@ -1,5 +1,5 @@
 ---
-titulo: "Reece Committee (v2.0): La Develación Del Gobierno Invisible"
+titulo: "Reece Committee (TL V.2): La Develación Del Gobierno Invisible"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [fundacin, invisible, norman, reece]
 publish: true
 ---
-# Reece Committee (v2.0): La Develación Del Gobierno Invisible
+# Reece Committee (TL V.2): La Develación Del Gobierno Invisible
 
 > [!ABSTRACT] Hipótesis Informativa
 > El Comité Reece fue la **Investigación de [[Tier B]]** (Congreso de EE.UU.) que accidentalmente descubrió la **Arquitectura de [[Tier A]]** para la transformación radical de la sociedad americana. Liderado por el congresista Carroll Reece y su director de investigación, **[[Norman Dodd]]**, el comité desveló que las grandes fundaciones exentas de impuestos (Rockefeller, Carnegie, Ford) habían coordinado fuerzas para capturar el sistema educativo, reescribir la historia nacional y suprimir la soberanía individual de **[[Tier C]]**. Sus hallazgos demostraron que el objetivo final de estas élites era la convergencia de EE.UU. con un sistema colectivista global, utilizando la educación como una herramienta de ingeniería social a largo plazo.
@@ -38,7 +38,8 @@ El Comité Reece nos enseña que **las instituciones que dicen ser "filantrópic
 ---
 **Versión:** 2.0
 **Enfoque:** El descubrimiento de Norman Dodd sobre la agenda de guerra y paz de la Fundación Carnegie, el control de la educación por las fundaciones Rockefeller y Ford, y el sabotaje político del comité.
-**Estado:** Refactoreado a v2.0 - Framework de Historia de la Ingeniería Social.
+**Estado:** Refactoreado a TL V.2 - Framework de Historia de la Ingeniería Social.
+
 
 
 

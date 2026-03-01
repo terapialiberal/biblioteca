@@ -1,5 +1,5 @@
 ---
-titulo: "J.D. Vance (v2.0): El Interfaz De La PayPal Mafia"
+titulo: "J.D. Vance (TL V.2): El Interfaz De La PayPal Mafia"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [elon, interfaz, mafia, vance]
 publish: true
 ---
-# J.D. Vance (v2.0): El Interfaz De La PayPal Mafia
+# J.D. Vance (TL V.2): El Interfaz De La PayPal Mafia
 
 > [!ABSTRACT] Hipótesis Informativa
 > J.D. Vance no es un líder populista orgánico, sino una **criatura política diseñada en Silicon Valley**. Representa el desembarco del [[Tier A]] tecnológico ([[Peter Thiel]], [[Elon Musk]]) en la estructura del Estado para sustituir la vieja burocracia del "Estado Profundo" por una tecnocracia neorreaccionaria. Su función es canalizar el descontento del [[Tier C]] hacia un modelo de soberanía corporativa donde el algoritmo y el capital de riesgo reemplacen la deliberación democrática.
@@ -16,7 +16,7 @@ publish: true
 
 ### Tier A: Los Barones Del Tecno-Feudalismo
 * **El Eje Thiel-Musk:** Vance es el activo político de la **PayPal Mafia**. Su carrera fue financiada y moldeada por Peter Thiel (Founders Fund) con el objetivo de asegurar que la infraestructura del futuro (IA, vigilancia, espacio) sea gestionada por un cartel de corporaciones amigas sin interferencia regulatoria. El Tier A ve en Vance al gestor capaz de implementar el "Patch" al sistema operativo de EE.UU.
-* **La Ideología NRx:** Basado en las tesis de [[Curtis Yarvin (Moldbug)]], el Tier A busca el "Reset" del Estado administrativo (La Catedral) para imponer una estructura de mando empresarial. Vance es el operador encargado de ejecutar esta transición hacia un modelo de "Estado Red" ([[Network State]]).
+* **La Ideología NRx:** Basado en las tesis de [[00_Glosario - Conceptos Fase 1#Curtis Yarvin (Moldbug)\|Curtis Yarvin (Moldbug)]], el Tier A busca el "Reset" del Estado administrativo (La Catedral) para imponer una estructura de mando empresarial. Vance es el operador encargado de ejecutar esta transición hacia un modelo de "Estado Red" ([[Network State]]).
 
 ### Tier B: El Operador Post-Liberal (Vance)
 * **La Conversión Estratégica:** Su paso de crítico feroz a leal absoluto de Trump es un movimiento táctico de Tier B. Comprendió que el MAGA es la "topadora" necesaria para demoler las viejas instituciones, y se posicionó como el cerebro que construirá el nuevo edificio neorreaccionario sobre los escombros.
@@ -33,7 +33,7 @@ publish: true
 
 ## Conexiones Críticas
 - [[Peter Thiel]]: Su creador y financista principal. No existiría Vance sin el capital de Thiel.
-- [[Curtis Yarvin (Moldbug)]]: El filósofo cuya visión de "Monarquía Corporativa" guía su agenda estructural.
+- [[00_Glosario - Conceptos Fase 1#Curtis Yarvin (Moldbug)\|Curtis Yarvin (Moldbug)]]: El filósofo cuya visión de "Monarquía Corporativa" guía su agenda estructural.
 - [[Elon Musk]]: Socio estratégico en la reconfiguración del eje de poder republicano.
 - [[Donald Trump]]: La herramienta demoledora que Vance utiliza para ascender al poder absoluto.
 - [[Palantir]]: La empresa de vigilancia de Thiel que simboliza la nueva burocracia tech.
@@ -45,6 +45,7 @@ J.D. Vance es el **Software "Upgrade" del Trumpismo**. Mientras Trump es el caos
 **Versión:** 2.0
 **Enfoque:** Neorreaccionismo, captura tecnológica del Estado y subordinación a la PayPal Mafia.
 **Estado:** Refactorización Completa.
+
 
 
 

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:22.433-03:00
-modified: 2026-02-27T13:06:25.907-03:00
+modified: 2026-02-27T13:06:47.025-03:00
 tags:
   - mundt
   - operacin

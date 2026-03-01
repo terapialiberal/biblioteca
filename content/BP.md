@@ -16,7 +16,7 @@ publish: true
 ## Historia
 BP era **Anglo-Iranian Oil Company** cuando Irn nacionaliz el petrleo.
 
-El [[Golpe en Irn 1953]] fue para proteger esta empresa.
+El [[Golpe en Irán 1953\|Golpe en Irn 1953]] fue para proteger esta empresa.
 
 ## ⚠️ Deepwater Horizon
 2010: Mayor derrame de petrleo en historia americana.
@@ -26,7 +26,7 @@ El [[Golpe en Irn 1953]] fue para proteger esta empresa.
 \65+ billion en costos.
 
 ## Conexiones
-- [[Golpe en Irn 1953]]
+- [[Golpe en Irán 1953\|Golpe en Irn 1953]]
 - Imperialismo britnico
 - Desastres ambientales
 

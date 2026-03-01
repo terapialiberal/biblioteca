@@ -1,22 +1,29 @@
 ---
+titulo: Control de Grid Energético
+tipo: 'concepto'
+tier-primario: 'b'
+nivel-evidencia: 'medio'
+tags: [clasificado-ai]
 publish: true
-created: 2026-02-25T22:08:53.814-03:00
-modified: 2026-02-27T13:22:22.935-03:00
-tags:
-  - control
-  - energtico
-  - grid
-cssclasses: ""
+---
+﻿---
+titulo: Control De Grid EnergÃ©tico
+tipo: "concepto"
+fecha: 2026-02-25
+tags: [control, energtico, grid]
+tier-primario: "b"
+nivel-evidencia: "medio"
+publish: true
 ---
 
+# Control De Grid EnergÃ©tico
 
-# Control De Grid Energético
+> [!ABSTRACT] HipÃ³tesis Informativa
+> Nodo perteneciente a la Matrix de Simbolismo y Esoterismo TL V.2.
 
-> [!ABSTRACT] Hipótesis Informativa
-> Nodo perteneciente a la Matrix de Simbolismo y Esoterismo v12_0.
-
-## Análisis De Tiers
+## AnÃ¡lisis De Tiers
 *En desarrollo...*
 
 ## Cui Bono
-*Pendiente de análisis forense.*
+*Pendiente de anÃ¡lisis forense.*
+

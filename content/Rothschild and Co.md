@@ -1,5 +1,5 @@
 ---
-titulo: "Rothschild and Co (v2.0): El Corazón De La Ingeniería Financiera Soberana"
+titulo: "Rothschild and Co (TL V.2): El Corazón De La Ingeniería Financiera Soberana"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [corazn, emmanuel, financiera, rothschild]
 publish: true
 ---
-# Rothschild and Co (v2.0): El Corazón De La Ingeniería Financiera Soberana
+# Rothschild and Co (TL V.2): El Corazón De La Ingeniería Financiera Soberana
 
 > [!ABSTRACT] Hipótesis Informativa
 > Rothschild and Co es la **Institución Suprema de [[Tier A]]** que representa la consolidación del poder bancario de la dinastía **[[Familia Rothschild]]** en el siglo XXI. Tras la unificación de las ramas francesa y británica en 2012, la firma se ha consolidado como el asesor privilegiado de los estados soberanos para la gestión y reestructuración de su deuda. Su función real es la de una **"Interfaz de Captura de Estados"**: operar como el puente entre los mercados globales y los gobiernos nacionales, colocando a sus propios cuadros (como **[[Emmanuel Macron]]**) en las jefaturas de estado para garantizar que la política fiscal de las naciones de **[[Tier C]]** esté permanentemente alineada con los intereses de los acreedores de la Matrix.
@@ -38,7 +38,8 @@ Rothschild and Co nos enseña que **el verdadero poder no necesita publicidad, n
 ---
 **Versión:** 2.0
 **Enfoque:** La firma como centro de poder de la rama francesa de los Rothschild, su rol en la reestructuración de deudas estatales y su éxito en catapultar a Macron a la presidencia de Francia.
-**Estado:** Refactoreado a v2.0 - Framework de Poder Financiero y Captura del Estado.
+**Estado:** Refactoreado a TL V.2 - Framework de Poder Financiero y Captura del Estado.
+
 
 
 

@@ -1,16 +1,17 @@
 ---
-publish: true
-created: 2026-01-29T19:17:08.041-03:00
-modified: 2026-02-26T22:20:07.631-03:00
+titulo: Club Safari
+tipo: organizacion
+fecha: 2026-02-25T00:00:00.000Z
+tier-primario: b
+nivel-evidencia: medio
 tags:
   - club-safari
   - estado-profundo
   - operaciones-encubiertas
   - geopolítica
   - financiamiento-ilícito
-cssclasses: ""
+publish: true
 ---
-
 # Club Safari
 
 > [!ABSTRACT] Hipótesis Informativa
@@ -41,7 +42,7 @@ cssclasses: ""
 ## Conexiones Críticas
 - [[BCCI]]: El motor financiero.
 - [[Adnan Khashoggi]]: El operador comercial.
-- [[George H.W. Bush]]: Director de la CIA en el momento clave.
+- [[George H. W. Bush\|George H.W. Bush]]: Director de la CIA en el momento clave.
 - [[Operación Ciclón]]: El Club Safari fue el preludio del armado de los muyahidines (Bin Laden) en Afganistán.
 
 ## Conclusión Del Análisis

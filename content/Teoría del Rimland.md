@@ -1,14 +1,12 @@
 ---
+titulo: Teoría Del Rimland
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [nato, rimland, teora]
 publish: true
-created: 2026-01-29T19:17:39.162-03:00
-modified: 2026-02-27T13:07:36.390-03:00
-tags:
-  - nato
-  - rimland
-  - teora
-cssclasses: ""
 ---
-
 # Teoría Del Rimland
 
 ## Resumen Ejecutivo
@@ -38,7 +36,7 @@ La Guerra de Vietnam, Corea y Afganistán fueron guerras por el control del Riml
 - "Protección del comercio libre"
 
 ## Conexiones
-- [[Teoría del Heartland (Halford Mackinder)]]
+- [[00_Glosario - Conceptos Fase 1#Teoría del Heartland (Halford Mackinder)\|Teoría del Heartland (Halford Mackinder)]]
 - [[NATO]]
 - [[Contención]]
 

@@ -1,5 +1,5 @@
 ---
-titulo: "Sionismo Cristiano (v2.0): El Guión Teológico Del Conflicto Global"
+titulo: "Sionismo Cristiano (TL V.2): El Guión Teológico Del Conflicto Global"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [conflicto, cufi, israel, sionismo]
 publish: true
 ---
-# Sionismo Cristiano (v2.0): El Guión Teológico Del Conflicto Global
+# Sionismo Cristiano (TL V.2): El Guión Teológico Del Conflicto Global
 
 > [!ABSTRACT] Hipótesis Informativa
 > El Sionismo Cristiano es el **Marco de Ingeniería Cultural de [[Tier B]]** que moviliza a millones de evangélicos (especialmente en EE.UU.) para apoyar incondicionalmente las políticas de **[[Israel]]**. Basado en la interpretación futurista de la profecía bíblica (Dispensacionalismo), su función real en la Matrix es la de un **"Acelerador de la Agenda de Armagedón"**: proporcionar la base social y política necesaria para que el **[[Tier A]]** justifique guerras en Medio Oriente y el control geopolítico de la región bajo la premisa de estar cumpliendo la "voluntad divina", convirtiendo la fe del **[[Tier C]]** en un activo de guerra del complejo militar-industrial.
@@ -41,7 +41,8 @@ El Sionismo Cristiano nos enseña que **las escrituras más peligrosas son las q
 ---
 **Versión:** 2.0
 **Enfoque:** El Sionismo Cristiano como herramienta de cabildeo teológico-militar, el rol de la Biblia Scofield en la programación del evangelismo americano, la hipocresía del apoyo a Israel por motivos apocalípticos y la instrumentalización de la fe del Tier C para fines geopolíticos de la élite de Tier A.
-**Estado:** Refactoreado a v2.0 - Framework de Teopolítica y Ingeniería Social.
+**Estado:** Refactoreado a TL V.2 - Framework de Teopolítica y Ingeniería Social.
+
 
 
 

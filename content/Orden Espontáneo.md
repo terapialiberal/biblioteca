@@ -1,5 +1,5 @@
 ---
-titulo: "Orden Espontáneo (v2.0): El Algoritmo De La Libertad"
+titulo: "Orden Espontáneo (TL V.2): El Algoritmo De La Libertad"
 tipo: organizacion
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [algoritmo, espontneo, libertad, libertarianismo]
 publish: true
 ---
-# Orden Espontáneo (v2.0): El Algoritmo De La Libertad
+# Orden Espontáneo (TL V.2): El Algoritmo De La Libertad
 
 > [!ABSTRACT] Hipótesis Informativa
 > El Orden Espontáneo es la prueba de que el **[[Tier A]] tecnocrático es innecesario para la vida humana**. Es la estructura auto-organizada que surge de las decisiones descentralizadas de millones de individuos de **[[Tier C]]** sin la necesidad de un "Arquitecto" o planificador central. Es el némesis de la Matrix: mientras el sistema busca el control total mediante la ley coercitiva, el Orden Espontáneo demuestra que el lenguaje, el mercado, el derecho y la moneda son **Tecnologías Emergentes** que funcionan mejor cuando son libres del sabotaje administrativo del Estado.
@@ -39,7 +39,8 @@ El Orden Espontáneo es el código base de la libertad. Nos enseña que el mundo
 ---
 **Versión:** 2.0
 **Enfoque:** Hayek y la crítica a la planificación central, el orden espontáneo como antítesis de la tecnocracia y la aplicación del concepto al lenguaje, derecho y criptografía.
-**Estado:** Refactoreado a v2.0 - Framework de Filosofía Política.
+**Estado:** Refactoreado a TL V.2 - Framework de Filosofía Política.
+
 
 
 

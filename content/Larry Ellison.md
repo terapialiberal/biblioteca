@@ -1,5 +1,13 @@
 ---
-titulo: LARRY ELLISON (v12_1)
+titulo: Larry Ellison
+tipo: 'concepto'
+tier-primario: 'b'
+nivel-evidencia: 'medio'
+tags: [clasificado-ai]
+publish: true
+---
+﻿---
+titulo: LARRY ELLISON (TL V.2)
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "a"
@@ -7,7 +15,7 @@ nivel-evidencia: "alto"
 tags: [datos, ellison, nube, oracle]
 publish: true
 ---
-# LARRY ELLISON (v12_1)
+# LARRY ELLISON (TL V.2)
 
 #### BLUF
 Ellison ha consolidado a [[Oracle]] como la infraestructura crtica del **Tier A** mediante la captura de la **Soberana de Datos** (TikTok USDS) y la independencia energtica (SMRs). En 2026, es el arquitecto del nexo hardware-poltica, operando como el guardin de la "Nube de Seguridad Nacional" de Trump.
@@ -71,16 +79,17 @@ Cul es la participacin exacta de Ellison en el financiamiento oculto de la campa
 
 ---
 
-### /r�pido � Larry Ellison 2026
+### /rï¿½pido ï¿½ Larry Ellison 2026
 ```
-TL;DR: Larry Ellison ha dejado de vender software para vender soberan�a digital y energ�a nuclear.
-?? Qui�n gana: Oracle (Monopolio de datos soberanos G7).
-?? Qui�n pierde: Microsoft/AWS (En contratos gubernamentales IL6/Top Secret).
-?? Se�al real: Inversi�n de \50B en infraestructura propia y reactores nucleares.
+TL;DR: Larry Ellison ha dejado de vender software para vender soberanï¿½a digital y energï¿½a nuclear.
+?? Quiï¿½n gana: Oracle (Monopolio de datos soberanos G7).
+?? Quiï¿½n pierde: Microsoft/AWS (En contratos gubernamentales IL6/Top Secret).
+?? Seï¿½al real: Inversiï¿½n de \50B en infraestructura propia y reactores nucleares.
 ?? Ignorar: Comentarios sobre "bases de datos legacy".
-?? Predicci�n: Oracle ser� la columna vertebral del "Cerebro Digital" de la administraci�n Trump.
+?? Predicciï¿½n: Oracle serï¿½ la columna vertebral del "Cerebro Digital" de la administraciï¿½n Trump.
 ```
 
-*Versi�n: 1.0 (v12_1) | Dossier Forense*
+*Versiï¿½n: 1.0 (TL V.2) | Dossier Forense*
+
 
 

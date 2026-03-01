@@ -1,5 +1,5 @@
 ---
-titulo: "Rent-Seeking (v2.0): El Parasitismo Institucionalizado"
+titulo: "Rent-Seeking (TL V.2): El Parasitismo Institucionalizado"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [institucionalizado, public, puerta, rent]
 publish: true
 ---
-# Rent-Seeking (v2.0): El Parasitismo Institucionalizado
+# Rent-Seeking (TL V.2): El Parasitismo Institucionalizado
 
 > [!ABSTRACT] Hipótesis Informativa
 > El Rent-Seeking es el **Mecanismo de Extracción de [[Tier B]]** mediante el cual las élites corporativas y burocráticas obtienen riqueza a través de la manipulación del favor político en lugar de la producción de valor en el mercado. A diferencia del capitalismo de libre mercado, el Rent-Seeking utiliza el poder coercitivo del Estado para crear monopolios, obtener subsidios o imponer regulaciones que bloquean la competencia del **[[Tier C]]**. Su función real es la **Transferencia Forzosa de Riqueza** desde la base productiva hacia una casta de lobbistas y corporatistas que dependen de la expansión de la Matrix burocrática para su supervivencia financiera.
@@ -39,7 +39,8 @@ El Rent-Seeking nos enseña que **cuando las leyes pueden comprarse, el trabajo 
 ---
 **Versión:** 2.0
 **Enfoque:** El Rent-Seeking como destrucción de valor social, la captura del regulador por el regulado y la diferencia entre la creación de valor y la extracción de beneficios políticos.
-**Estado:** Refactoreado a v2.0 - Framework de Economía Política y Libertarismo.
+**Estado:** Refactoreado a TL V.2 - Framework de Economía Política y Libertarismo.
+
 
 
 

@@ -1,5 +1,5 @@
 ---
-titulo: "Segunda Guerra Mundial (v2.0): El Gran Reequilibrio De La Matrix Global"
+titulo: "Segunda Guerra Mundial (TL V.2): El Gran Reequilibrio De La Matrix Global"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,10 +7,10 @@ nivel-evidencia: "medio"
 tags: [bretton, gran, matrix, segunda]
 publish: true
 ---
-# Segunda Guerra Mundial (v2.0): El Gran Reequilibrio De La Matrix Global
+# Segunda Guerra Mundial (TL V.2): El Gran Reequilibrio De La Matrix Global
 
 > [!ABSTRACT] Hipótesis Informativa
-> La Segunda Guerra Mundial (WW2) no fue solo un conflicto ideológico entre democracia y fascismo, sino la **Operación de Reingeniería Sistémica de [[Tier A]]** que permitió la transición del Imperio Británico al Imperio Americano y la creación de la infraestructura de control global moderna. Para el estudio del Estado Profundo, la guerra funcionó como una **"Gran Limpieza y Recogida de Activos"**: permitió al **[[Tier A]]** financiero (Wall Street / City de Londres) financiar ambos bandos, destruir las soberanías europeas tradicionales y establecer un sistema de gobernanza transnacional (**[[ONU]]**, **[[Bretton Woods]]**) que mantiene al **[[Tier C]]** bajo un estado de vigilancia y deuda perpetua desde 1945.
+> La Segunda Guerra Mundial (WW2) no fue solo un conflicto ideológico entre democracia y fascismo, sino la **Operación de Reingeniería Sistémica de [[Tier A]]** que permitió la transición del Imperio Británico al Imperio Americano y la creación de la infraestructura de control global moderna. Para el estudio del Estado Profundo, la guerra funcionó como una **"Gran Limpieza y Recogida de Activos"**: permitió al **[[Tier A]]** financiero (Wall Street / City de Londres) financiar ambos bandos, destruir las soberanías europeas tradicionales y establecer un sistema de gobernanza transnacional (**[[ONU]]**, **[[00_Glosario - Conceptos Fase 1#Bretton Woods\|Bretton Woods]]**) que mantiene al **[[Tier C]]** bajo un estado de vigilancia y deuda perpetua desde 1945.
 
 ## Análisis De Tiers
 
@@ -31,7 +31,7 @@ publish: true
 ## Conexiones Críticas
 - [[Operación Paperclip]]: El trasvase de la élite técnica nazi a la Matrix de EE.UU.
 - [[Allen Dulles]]: El puente entre el espionaje de guerra y el Estado Profundo moderno.
-- [[Bretton Woods]]: El acta de nacimiento de la dictadura financiera del dólar.
+- [[00_Glosario - Conceptos Fase 1#Bretton Woods\|Bretton Woods]]: El acta de nacimiento de la dictadura financiera del dólar.
 - [[Operación Gladio]]: La red de control terrorista en la Europa de posguerra.
 - [[Banqueros de Wall Street]]: Los financistas transversales del conflicto.
 - [[ONU]]: La fachada diplomática de la gobernanza global de Tier A.
@@ -42,7 +42,8 @@ La Segunda Guerra Mundial nos enseña que **las guerras son los ritos de iniciac
 ---
 **Versión:** 2.0
 **Enfoque:** La WW2 como catalizador del nuevo orden financiero de Bretton Woods, la integración de redes nazis en el Deep State occidental (Paperclip/Gladio) y el financiamiento transversal de Wall Street como motor oculto del conflicto.
-**Estado:** Refactoreado a v2.0 - Framework de Geopolítica Histórica y Reingeniería Global.
+**Estado:** Refactoreado a TL V.2 - Framework de Geopolítica Histórica y Reingeniería Global.
+
 
 
 

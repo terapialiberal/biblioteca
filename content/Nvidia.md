@@ -1,5 +1,13 @@
 ---
-titulo: NVIDIA (v12_1)
+titulo: Nvidia
+tipo: 'organizacion'
+tier-primario: 'b'
+nivel-evidencia: 'medio'
+tags: [clasificado-ai]
+publish: true
+---
+﻿---
+titulo: NVIDIA (TL V.2)
 tipo: concepto
 fecha: 2026-02-25
 tier-primario: "a"
@@ -7,7 +15,7 @@ nivel-evidencia: "alto"
 tags: [digital, infinito, jensen, monopolio]
 publish: true
 ---
-# NVIDIA (v12_1)
+# NVIDIA (TL V.2)
 
 #### BLUF
 Nvidia ha dejado de ser una empresa de chips para convertirse en la **Gobernanza del Cmputo Global**. En 2026, con la arquitectura Blackwell agotada y Rubin en produccin total, Jensen Huang controla el nico recurso escaso de la era de la IA: el tiempo de entrenamiento. Su foso no es el hardware, es el **Ecosistema CUDA**, un bloqueo de software que hace que el costo de abandonar a Nvidia sea prohibitivo para cualquier nacin o corporacin.
@@ -70,6 +78,7 @@ Nvidia es simplemente una empresa que fabrica los mejores productos en el moment
 Cul es la relacin real entre Nvidia y la recopilacin de datos de entrenamiento va sus propios clusters internos ("Selene") para entrenar modelos propietarios ocultos?
 
 ---
-*Versi�n: 1.0 (v12_1) | Dossier de Chokepoint de Hardware*
+*Versiï¿½n: 1.0 (TL V.2) | Dossier de Chokepoint de Hardware*
+
 
 

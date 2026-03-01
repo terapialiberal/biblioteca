@@ -1,15 +1,13 @@
 ---
+titulo: SHIELD AI (TL V.2)
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [brandon, pentgono, shield]
 publish: true
-created: 2026-02-25T14:50:55.882-03:00
-modified: 2026-02-27T13:23:54.793-03:00
-tags:
-  - brandon
-  - pentgono
-  - shield
-cssclasses: ""
 ---
-
-# SHIELD AI (v12_1)
+# SHIELD AI (TL V.2)
 
 #### BLUF
 Shield AI es el arquitecto del **Hivemind**, el piloto de IA que supera a los humanos en combate aéreo y operaciones en entornos denegados (sin GPS/Comunicaciones). En 2026, su tecnología es el núcleo de la estrategia de "Masa" de EE.UU. en el Indo-Pacífico. Shield AI no construye aviones; construye el **Cerebro** que hará que los pilotos humanos sean obsoletos en las primeras 24 horas de un conflicto de alta intensidad.
@@ -72,6 +70,7 @@ Shield AI simplemente está salvando vidas. Al enviar máquinas a entornos donde
 ¿Cómo se gestiona la "ética del blanco" en el software de Shield AI cuando el algoritmo debe elegir entre dos pérdidas inevitables en combate urbano?
 
 ---
-*Dossier forense v12_1 | Inteligencia de Combate Autónomo*
+*Dossier forense TL V.2 | Inteligencia de Combate Autónomo*
+
 
 

@@ -1,18 +1,16 @@
 ---
+titulo: Global Shield (G7)
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [alemania, global, shield]
 publish: true
-created: 2026-02-09T17:27:09.237-03:00
-modified: 2026-02-27T13:22:47.929-03:00
-tags:
-  - alemania
-  - global
-  - shield
-cssclasses: ""
 ---
-
 # [[Global Shield (G7)]]
 
 **Clasificación:** Tier A (Captura Financiera vía Clima)  
-**Actores:** [[G7]], V20 (Países vulnerables), [[Alemania]].
+**Actores:** [[G7]], V20 (Países vulnerables), [[00_Glosario - Conceptos Fase 1#Alemania\|Alemania]].
 
 ## 🦾 ANÁLISIS FORENSE
 El **Global Shield** es un sistema de "seguros climáticos" para países pobres. Oficialmente es solidaridad; forensemente es **Captura Estructural**.

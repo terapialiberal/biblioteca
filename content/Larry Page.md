@@ -1,5 +1,5 @@
 ---
-titulo: "Larry Page (v2.0): El Programador Del Destino Humano"
+titulo: "Larry Page (TL V.2): El Programador Del Destino Humano"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [destino, google, humano, sergey]
 publish: true
 ---
-# Larry Page (v2.0): El Programador Del Destino Humano
+# Larry Page (TL V.2): El Programador Del Destino Humano
 
 > [!ABSTRACT] Hipótesis Informativa
 > Larry Page constituye el **ingeniero jefe de la Matrix de Datos del [[Tier A]]**. Su misión, empaquetada bajo el eslogan "organizar la información del mundo", es en realidad la **indexación total de la experiencia humana** para su mercantilización y control predictivo. A través de **[[Google]]**, Page ha construido la infraestructura de vigilancia más profunda de la historia, fusionando la inteligencia artificial, el mapeo geoespacial y la biotecnología para transmutar al ser humano de [[Tier C]] en un nodo de datos procesable. Representa la vanguardia del transhumanismo, donde la tecnología no sirve para asistir al hombre, sino para superarlo y, eventualmente, reemplazarlo mediante una deidad digital (AGI).
@@ -36,7 +36,7 @@ publish: true
 - [[Sergey Brin]]: El socio de diseño técnico y ambición transhumanista.
 - [[Eric Schmidt]]: El oficial de enlace que conectó a Google con el Complejo Militar-Industrial de EE.UU.
 - [[Ray Kurzweil]]: El profeta de la Singularidad contratado por Page para dirigir la visión a largo plazo.
-- [[Alphabet Inc.]]: El holding que oculta las operaciones de biotecnología y robótica.
+- [[Alphabet Inc\|Alphabet Inc.]]: El holding que oculta las operaciones de biotecnología y robótica.
 - [[DARPA]] / [[CIA]]: Los patrocinadores iniciales del mapeo de datos masivo.
 
 ## Conclusión Del Análisis
@@ -46,6 +46,7 @@ Larry Page es el **"San Pedro Digital"**. Su importancia reside en haber constru
 **Versión:** 2.0
 **Enfoque:** Indexación humana para control predictivo, vínculos originales con programas de inteligencia (MDDS), ambiciones transhumanistas y el rol de Google como editor global de la realidad.
 **Estado:** Refactorización Completa.
+
 
 
 

@@ -1,5 +1,5 @@
 ---
-titulo: "Protocolo Anti-Piquetes (v2.0): La Doctrina Del Orden Público"
+titulo: "Protocolo Anti-Piquetes (TL V.2): La Doctrina Del Orden Público"
 tipo: evento
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [doctrina, patricia, protocolo, pblico]
 publish: true
 ---
-# Protocolo Anti-Piquetes (v2.0): La Doctrina Del Orden Público
+# Protocolo Anti-Piquetes (TL V.2): La Doctrina Del Orden Público
 
 > [!ABSTRACT] Hipótesis Informativa
 > El Protocolo Anti-Piquetes es la **herramienta de restauración de la autoridad de [[Tier B]]** tras décadas de anomia en el espacio público argentino. Implementado bajo la premisa de "El que las hace las paga", busca desmantelar el poder logístico de los grupos de presión para-estatales (**[[Piqueteros]]**) que utilizaban el corte de calles como moneda de cambio política. Representa un giro hacia la **Prioridad del Libre Tránsito** sobre el derecho absoluto a la protesta obstructiva, estableciendo un límite físico a la capacidad de la calle para determinar la agenda del gobierno.
@@ -39,7 +39,8 @@ El Protocolo Anti-Piquetes es un test de estrés para la democracia argentina. N
 ---
 **Versión:** 2.0
 **Enfoque:** La recuperación del espacio público, el ataque financiero a los grupos piqueteros y el equilibrio entre seguridad y derecho a la protesta.
-**Estado:** Refactoreado a v2.0 - Framework de Doctrina de Seguridad.
+**Estado:** Refactoreado a TL V.2 - Framework de Doctrina de Seguridad.
+
 
 
 

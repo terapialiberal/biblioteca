@@ -1,5 +1,5 @@
 ---
-titulo: "SRI International (v2.0): El Laboratorio De Lo Impensable De La Matrix"
+titulo: "SRI International (TL V.2): El Laboratorio De Lo Impensable De La Matrix"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [arpanet, impensable, laboratorio, matrix]
 publish: true
 ---
-# SRI International (v2.0): El Laboratorio De Lo Impensable De La Matrix
+# SRI International (TL V.2): El Laboratorio De Lo Impensable De La Matrix
 
 > [!ABSTRACT] Hipótesis Informativa
 > SRI International (anteriormente Stanford Research Institute) es la **Organización de Investigación Avanzada de [[Tier B]]** que opera como el puente entre la ciencia de vanguardia y las operaciones encubiertas de la Matrix. Fundada en 1946, su función real ha sido la de un **"Agente de Exploración de Fronteras"**: desde el desarrollo de **[[ARPANET]]** y la **[[Inteligencia Artificial]]** temprana hasta la investigación de fenómenos psíquicos (**Remote Viewing**) para la **[[CIA]]**. SRI es el laboratorio donde la ciencia dura y el esoterismo militar se fusionan para crear las herramientas de control, vigilancia y armamento que el **[[Tier A]]** desplegará décadas después contra el **[[Tier C]]**.
@@ -30,7 +30,7 @@ publish: true
 
 ## Conexiones Críticas
 - [[ARPANET]]: El precursor de internet desarrollado en parte en SRI.
-- [[Proyecto Stargate]]: El programa de Remote Viewing financiado por la CIA/DIA en SRI.
+- [[Project Stargate\|Proyecto Stargate]]: El programa de Remote Viewing financiado por la CIA/DIA en SRI.
 - [[Siri]]: Tecnología de inteligencia artificial nacida de un proyecto de SRI para el Departamento de Defensa.
 - [[In-Q-Tel]]: El fondo de la CIA que financia muchos spin-offs industriales de SRI.
 - [[Silicon Valley]]: El ecosistema que se alimenta de la investigación base de SRI.
@@ -41,7 +41,8 @@ SRI International nos enseña que **el progreso tecnológico no es neutro, sino 
 ---
 **Versión:** 2.0
 **Enfoque:** SRI como nexo entre el Pentágono y Silicon Valley, su rol en el desarrollo de Internet y la IA, su investigación en parapsicología militar (Stargate) y la transferencia de tecnología de vigilancia hacia el mercado de consumo de Tier C.
-**Estado:** Refactoreado a v2.0 - Framework de Ciencias Avanzadas y Seguridad Nacional.
+**Estado:** Refactoreado a TL V.2 - Framework de Ciencias Avanzadas y Seguridad Nacional.
+
 
 
 

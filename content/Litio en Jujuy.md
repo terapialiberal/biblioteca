@@ -1,15 +1,12 @@
 ---
+titulo: 'Litio En Jujuy: La Cara Oculta De La "Transición Verde"'
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [blackrock, jujuy, litio, vanguard]
 publish: true
-created: 2026-01-29T19:17:22.663-03:00
-modified: 2026-02-27T13:23:14.613-03:00
-tags:
-  - blackrock
-  - jujuy
-  - litio
-  - vanguard
-cssclasses: ""
 ---
-
 # Litio En Jujuy: La Cara Oculta De La "Transición Verde"
 
 > [!ABSTRACT] Resumen de Inteligencia
@@ -23,7 +20,7 @@ cssclasses: ""
 
 ### Tier B: Operadores Territoriales
 *   **La Represión Institucional:** El control del litio requiere "paz social" forzada. Los conflictos en Jujuy (reforma constitucional de Morales) son la respuesta de **Tier B** para blindar los contratos mineros frente a la resistencia indígena y popular de Tier C.
-*   **Geopolítica del Commando Sur:** La general [[Laura Richardson]] ha sido explícita: el Triángulo del Litio es una cuestión de "Seguridad Nacional" para EE.UU. frente al avance de China. El litio no es una mercancía, es un **activo de guerra**.
+*   **Geopolítica del Commando Sur:** La general [[00_Glosario - Conceptos Fase 1#Laura Richardson\|Laura Richardson]] ha sido explícita: el Triángulo del Litio es una cuestión de "Seguridad Nacional" para EE.UU. frente al avance de China. El litio no es una mercancía, es un **activo de guerra**.
 
 
 ## âš¡ Conclusión De Terapia Liberal
@@ -37,7 +34,8 @@ Cuando te vendan el auto eléctrico como la "salvación del planeta", recordá q
 - **Poder Global:** [[BlackRock]], [[Comando Sur (Laura Richardson)]].
 - **Conflictos:** [[Guerra del Litio (El Triángulo de Sudamérica)]].
 
-**Estado:** Refactoreado a v2.0 - Framework de Extractivismo.
+**Estado:** Refactoreado a TL V.2 - Framework de Extractivismo.
+
 
 
 

@@ -1,5 +1,5 @@
 ---
-titulo: "Jaime Stiuso (v2.0): El Dueño De La Cloaca Argentina"
+titulo: "Jaime Stiuso (TL V.2): El Dueño De La Cloaca Argentina"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [cloaca, cristina, dueo, stiuso]
 publish: true
 ---
-# Jaime Stiuso (v2.0): El Dueño De La Cloaca Argentina
+# Jaime Stiuso (TL V.2): El Dueño De La Cloaca Argentina
 
 > [!ABSTRACT] Hipótesis Informativa
 > Antonio "Jaime" Stiuso representa el **Soberano Burocrático de la Inteligencia Argentina**. Durante más de 30 años, operó como el nodo central del **Estado Profundo** local, utilizando el control del espionaje doméstico ("El Carpetazo") para subordinar a la justicia y a la política a sus intereses y a los de sus mandantes internacionales. Stiuso fue el interfaz necesario entre el [[Tier A]] extranjero ([[CIA]], [[Mossad]]) y la administración de los secretos de la casta política argentina, demostrando que en el país el poder real no emana del voto, sino del expediente extorsivo.
@@ -45,6 +45,7 @@ Jaime Stiuso es el **Arquitecto de la Inseguridad Jurídica**. Su existencia es 
 **Versión:** 2.0
 **Enfoque:** Estado Profundo argentino, el uso del espionaje como herramienta de control político y judicial, y el nexo con agencias internacionales.
 **Estado:** Refactorización Completa.
+
 
 
 

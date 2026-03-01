@@ -1,5 +1,5 @@
 ---
-titulo: "Programa PRISM (v2.0): El Cordón Umbilical De La Vigilancia"
+titulo: "Programa PRISM (TL V.2): El Cordón Umbilical De La Vigilancia"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [cordn, panptico, umbilical, vigilancia]
 publish: true
 ---
-# Programa PRISM (v2.0): El Cordón Umbilical De La Vigilancia
+# Programa PRISM (TL V.2): El Cordón Umbilical De La Vigilancia
 
 > [!ABSTRACT] Hipótesis Informativa
 > PRISM (oficialmente US-984XN) es el **Protocolo de Acceso Directo de [[Tier A]] a los Servidores de [[Big Tech]]**. Revelado por [[Edward Snowden]] en 2013, este programa de la NSA permite a la comunidad de inteligencia extraer correos, chats, vídeos y fotos directamente de los servidores de Microsoft, Google, Apple, Facebook y otros. PRISM es la prueba de que el sector privado tecnológico no es un aliado del ciudadano de **[[Tier C]]**, sino un **Ã“rgano de Extracción de Datos** integrado orgánicamente en el aparato de seguridad nacional, garantizando que el anonimato digital sea una ilusión técnica para las masas.
@@ -28,9 +28,9 @@ publish: true
 ## Conexiones Críticas
 - [[Edward Snowden]]: El denunciante que desmanteló el secreto de PRISM.
 - [[NSA]]: La agencia ejecutora.
-- [[Google (Orígenes)]] / [[Facebook (Orígenes)]] / [[Microsoft]]: Los nodos de extracción.
+- [[Google (Orígenes)]] / [[00_Glosario - Conceptos Fase 1#Facebook (Orígenes)\|Facebook (Orígenes)]] / [[Microsoft]]: Los nodos de extracción.
 - [[XKeyscore]]: El motor de búsqueda que utiliza los datos de PRISM.
-- [[ECHELON]]: El precursor de la vigilancia global.
+- [[ECHELON\|Echelon]]: El precursor de la vigilancia global.
 
 ## Conclusión Del Análisis
 PRISM nos enseña que **si es gratis y está en la nube, es propiedad del Estado**. El programa destruyó el mito de la privacidad en internet y demostró que las fronteras entre el poder corporativo de Silicon Valley y el poder militar de Maryland han desaparecido. Para el habitante soberano del Tier C, PRISM es el mandato de la **Desconexión y Encriptación Extrema**: si no posees físicamente tus datos y tus claves, tus pensamientos digitales pertenecen a la NSA por defecto.
@@ -38,7 +38,8 @@ PRISM nos enseña que **si es gratis y está en la nube, es propiedad del Estado
 ---
 **Versión:** 2.0
 **Enfoque:** Acceso directo a servidores de Big Tech, la colaboración de las empresas tecnológicas y la revelación histórica de Snowden como punto de quiebre.
-**Estado:** Refactoreado a v2.0 - Framework de Vigilancia Masiva.
+**Estado:** Refactoreado a TL V.2 - Framework de Vigilancia Masiva.
+
 
 
 

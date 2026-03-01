@@ -1,5 +1,5 @@
 ---
-titulo: "Ojo De La Providencia (v2.0): El Panóptico De La Gnosis"
+titulo: "Ojo De La Providencia (TL V.2): El Panóptico De La Gnosis"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [gnosis, information, panptico, providencia]
 publish: true
 ---
-# Ojo De La Providencia (v2.0): El Panóptico De La Gnosis
+# Ojo De La Providencia (TL V.2): El Panóptico De La Gnosis
 
 > [!ABSTRACT] Hipótesis Informativa
 > El Ojo de la Providencia no es un símbolo de protección divina, sino la **declaración visual de la Omnisciencia de [[Tier A]]**. Como emblema central de la Masonería y los Illuminati, representa el "Tercer Ojo" o la Glándula Pineal del iniciado que ha alcanzado la iluminación (Gnosis) y que ahora vigila a la masa humana (**[[Tier C]]**), representada por los ladrillos ciegos de la pirámide truncada. Su ubicación en el billete de un dólar es el **Sello de Posesión de la Matrix**: un recordatorio constante de que incluso en nuestras transacciones más íntimas, estamos bajo la mirada y el control de quienes poseen el conocimiento oculto que nos es negado.
@@ -39,7 +39,8 @@ El Ojo de la Providencia es el vigilante de nuestra celda sin muros. Nos recuerd
 ---
 **Versión:** 2.0
 **Enfoque:** Simbología masónica de la Glándula Pineal, jerarquía ontológica de la pirámide truncada y la transición hacia el panóptico digital moderno.
-**Estado:** Refactoreado a v2.0 - Framework de Simbología del Poder.
+**Estado:** Refactoreado a TL V.2 - Framework de Simbología del Poder.
+
 
 
 

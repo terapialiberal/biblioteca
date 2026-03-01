@@ -1,5 +1,13 @@
 ---
-titulo: PROJECT STARGATE (v12_1)
+titulo: Project Stargate
+tipo: 'organizacion'
+tier-primario: 'b'
+nivel-evidencia: 'medio'
+tags: [clasificado-ai]
+publish: true
+---
+﻿---
+titulo: PROJECT STARGATE (TL V.2)
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "a"
@@ -7,10 +15,10 @@ nivel-evidencia: "alto"
 tags: [openai, project, stargate, templo]
 publish: true
 ---
-# PROJECT STARGATE (v12_1)
+# PROJECT STARGATE (TL V.2)
 
 #### BLUF
-Project Stargate no es un centro de datos; es la **Catedral de la Post-Humanidad**. En 2026, [[Microsoft]] y [[OpenAI]] han ejecutado la Fase 3 de un megaproyecto de +\100B diseado para albergar la primera Inteligencia Artificial General ([[AGI]]). Con una demanda proyectada de 5 GW (el consumo de una nacin pequea), Stargate es el motor fsico que justifica el renacimiento nuclear del **Tier A** ([[Three Mile Island]], [[SMR]]).
+Project Stargate no es un centro de datos; es la **Catedral de la Post-Humanidad**. En 2026, [[Microsoft]] y [[OpenAI]] han ejecutado la Fase 3 de un megaproyecto de +\100B diseado para albergar la primera Inteligencia Artificial General ([[AGI\|Agi]]). Con una demanda proyectada de 5 GW (el consumo de una nacin pequea), Stargate es el motor fsico que justifica el renacimiento nuclear del **Tier A** ([[Three Mile Island]], [[SMR]]).
 
 
 #### MAPA DE ACTORES
@@ -70,6 +78,7 @@ Stargate es una burbuja inmobiliaria tecnolgica. Microsoft est construyendo de m
 Cmo planea Microsoft proteger fsicamente Stargate ante la amenaza de un ataque cintico (misiles o drones) si la AGI se vuelve el activo estratgico #1 de la seguridad nacional de EE.UU.?
 
 ---
-*Versi�n: 1.0 (v12_1) | Dossier de Megaproyecto Tecnocr�tico*
+*Versiï¿½n: 1.0 (TL V.2) | Dossier de Megaproyecto Tecnocrï¿½tico*
+
 
 

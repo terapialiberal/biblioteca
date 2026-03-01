@@ -1,5 +1,5 @@
 ---
-titulo: "NSSM 200 (v2.0): La Logística Del Exterminio Silencioso"
+titulo: "NSSM 200 (TL V.2): La Logística Del Exterminio Silencioso"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [banco, exterminio, henry, logstica]
 publish: true
 ---
-# NSSM 200 (v2.0): La Logística Del Exterminio Silencioso
+# NSSM 200 (TL V.2): La Logística Del Exterminio Silencioso
 
 > [!ABSTRACT] Hipótesis Informativa
 > El NSSM 200 no es un estudio demográfico, sino una **estrategia de guerra biopolítica**. Define el crecimiento poblacional de las naciones en desarrollo como una amenaza existencial para el [[Tier A]] (EE.UU./G7), no por razones humanitarias, sino por el riesgo de que el consumo interno de recursos naturales en esos países impida la extracción barata necesaria para sostener la hegemonía global. Es el documento que institucionalizó el uso de la salud y el hambre como herramientas de contención geopolítica.
@@ -45,6 +45,7 @@ El NSSM 200 es el **Manual de Instrucciones de la Matrix para la Poda Humana**. 
 **Versión:** 2.0
 **Enfoque:** Despoblación estratégica, control de recursos por demografía y biopolítica extractiva.
 **Estado:** Refactorización Completa.
+
 
 
 

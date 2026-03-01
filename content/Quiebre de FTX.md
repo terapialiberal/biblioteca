@@ -1,5 +1,5 @@
 ---
-titulo: "Quiebre De FTX (v2.0): El Caballo De Troya Del Capitalismo Regulado"
+titulo: "Quiebre De FTX (TL V.2): El Caballo De Troya Del Capitalismo Regulado"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [capitalismo, problema, quiebre, regulado]
 publish: true
 ---
-# Quiebre De FTX (v2.0): El Caballo De Troya Del Capitalismo Regulado
+# Quiebre De FTX (TL V.2): El Caballo De Troya Del Capitalismo Regulado
 
 > [!ABSTRACT] Hipótesis Informativa
 > El quiebre de FTX no fue un "fallo de mercado" ni un error de un niño prodigio, sino una **Operación de Captura y Lavado de [[Tier B]]** diseñada para centralizar y regular el ecosistema cripto bajo el control de la Matrix financiera tradicional. Sam Bankman-Fried (SBF) fue el activo utilizado por la élite política de EE.UU. para canalizar fondos de clientes hacia el Partido Demócrata y para promover el **[[Altruismo Efectivo]]** como una fachada moral. El colapso se permitió solo cuando el rol de SBF como "regulador amigable" ya no era útil, sirviendo como el **[[Problema-Reacción-Solución]]** perfecto para que la SEC y el Congreso impusieran leyes prohibitivas contra la soberanía monetaria individual del **[[Tier C]]**.
@@ -38,7 +38,8 @@ El quiebre de FTX nos enseña que **el mayor riesgo en cripto no es la volatilid
 ---
 **Versión:** 2.0
 **Enfoque:** FTX como herramienta de financiamiento político, el uso del Altruismo Efectivo como fachada moral para el fraude y el rol de SBF en la captura regulatoria del espacio cripto.
-**Estado:** Refactoreado a v2.0 - Framework de Colapso Financiero Manufacturado.
+**Estado:** Refactoreado a TL V.2 - Framework de Colapso Financiero Manufacturado.
+
 
 
 

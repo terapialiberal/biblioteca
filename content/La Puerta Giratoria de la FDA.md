@@ -1,5 +1,5 @@
 ---
-titulo: "La Puerta Giratoria De La FDA (v2.0): El Mercado De La Salud Capturada"
+titulo: "La Puerta Giratoria De La FDA (TL V.2): El Mercado De La Salud Capturada"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [capturada, pfizer, puerta, salud]
 publish: true
 ---
-# La Puerta Giratoria De La FDA (v2.0): El Mercado De La Salud Capturada
+# La Puerta Giratoria De La FDA (TL V.2): El Mercado De La Salud Capturada
 
 > [!ABSTRACT] Hipótesis Informativa
 > La "Puerta Giratoria" entre la FDA y la industria farmacéutica constituye el **mecanismo operativo de la Captura Regulatoria de [[Tier B]]**. Al asegurar un flujo constante de capital humano y financiero entre el regulador y el regulado, el sistema transforma a la agencia estatal en un **apéndice de marketing y blindaje legal de [[Big Pharma]]**. Esta simbiosis garantiza que las políticas de salud pública del [[Tier A]] financiero se implementen sin resistencia técnica, priorizando la rentabilidad de las patentes farmacéuticas sobre la seguridad biológica del [[Tier C]], y convirtiendo el proceso de aprobación de drogas en una transacción de servicios corporativos.
@@ -46,6 +46,7 @@ La Puerta Giratoria de la FDA es el **"Contrato de Alquiler de la Salud Pública
 **Versión:** 2.0
 **Enfoque:** Mecanismos de captura regulatoria, financiamiento a través de User Fees (PDUFA), el caso Scott Gottlieb y el impacto de las barreras de entrada regulatorias en la eliminación de la competencia independiente.
 **Estado:** Refactorización Completa.
+
 
 
 

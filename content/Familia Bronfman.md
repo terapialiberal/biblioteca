@@ -1,21 +1,18 @@
 ---
+titulo: Familia Bronfman
+tipo: organizacion
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [bronfman, familia, nxivm, robert]
 publish: true
-created: 2026-01-29T19:17:13.180-03:00
-modified: 2026-02-27T13:22:41.326-03:00
-tags:
-  - bronfman
-  - familia
-  - nxivm
-  - robert
-cssclasses: ""
 ---
-
 # Familia Bronfman
 
 ## Perfil TL (Resumen Ejecutivo)
 **¿Quiénes son?** Una poderosa dinastía multimillonaria canadiense-estadounidense, herederos del imperio de licores **Seagram**.
 
-**¿Por qué importa?** Los Bronfman son el **nexo perfecto entre el crimen organizado de los años 20 y el globalismo de Tier A del siglo XXI**. La fortuna se inició con **Sam Bronfman**, quien durante la Ley Seca fue el principal proveedor de alcohol contrabandeado para la mafia de EE.UU. Su hijo, **Edgar Bronfman Sr.**, presidió el **Congreso Judío Mundial**, convirtiendo a la familia en una potencia política global. Sin embargo, su conexión más oscura ocurrió con la generación de los nietos: **Sara y Clare Bronfman** fueron las principales financistas de **[[Nxivm]]**, aportando más de 100 millones de dólares al culto sexual de Keith Raniere. Esta conexión demuestra cómo la riqueza transgeneracional de Tier A sirve para alimentar experimentos de control mental y redes de tráfico humano, protegidas por ejércitos de abogados y una influencia mediática casi total.
+**¿Por qué importa?** Los Bronfman son el **nexo perfecto entre el crimen organizado de los años 20 y el globalismo de Tier A del siglo XXI**. La fortuna se inició con **Sam Bronfman**, quien durante la Ley Seca fue el principal proveedor de alcohol contrabandeado para la mafia de EE.UU. Su hijo, **Edgar Bronfman Sr.**, presidió el **Congreso Judío Mundial**, convirtiendo a la familia en una potencia política global. Sin embargo, su conexión más oscura ocurrió con la generación de los nietos: **Sara y Clare Bronfman** fueron las principales financistas de **[[Nxivm\|NXIVM]]**, aportando más de 100 millones de dólares al culto sexual de Keith Raniere. Esta conexión demuestra cómo la riqueza transgeneracional de Tier A sirve para alimentar experimentos de control mental y redes de tráfico humano, protegidas por ejércitos de abogados y una influencia mediática casi total.
 
 ## Análisis De Poder (Tiers)
 

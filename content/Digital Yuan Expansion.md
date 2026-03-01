@@ -1,16 +1,13 @@
 ---
+titulo: DIGITAL YUAN EXPANSION (E-CNY) (TL V.2)
+tipo: concepto
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "alto"
+tags: [digital, pboc, project, software]
 publish: true
-created: 2026-02-25T16:07:00.901-03:00
-modified: 2026-02-27T13:22:30.263-03:00
-tags:
-  - digital
-  - pboc
-  - project
-  - software
-cssclasses: ""
 ---
-
-# DIGITAL YUAN EXPANSION (E-CNY) (v12_1)
+# DIGITAL YUAN EXPANSION (E-CNY) (TL V.2)
 
 #### BLUF
 La Expansión del Yuan Digital (e-CNY) es la **Capa de Aplicación de la Pax Sinica**. China no busca sustituir al dólar como reserva de valor pasiva, sino como **Medio de Liquidación Activa** en las economías emergentes. En 2026, a través de la infraestructura de [[Project mBridge]] y los préstamos de la Franja y la Ruta vinculados al uso del e-CNY, Pekín exporta su modelo de **Gobernanza de Crédito Social Financiero**, permitiendo que el Tier B chino monitorice el flujo de capital de sus aliados en tiempo real.
@@ -73,6 +70,7 @@ China está liderando el mundo en tecnología financiera. Mientras Occidente dis
 ¿Hasta qué punto el e-CNY está siendo utilizado para monitorizar el gasto de los funcionarios de Tier B fuera de China para detectar deslealtades o sobornos de potencias extranjeras?
 
 ---
-*Dossier forense v12_1 | El Software del Nuevo Orden Oriental*
+*Dossier forense TL V.2 | El Software del Nuevo Orden Oriental*
+
 
 

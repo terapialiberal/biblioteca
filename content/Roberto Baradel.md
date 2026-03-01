@@ -1,5 +1,5 @@
 ---
-titulo: "Roberto Baradel (v2.0): El Guardián Del Estancamiento Educativo"
+titulo: "Roberto Baradel (TL V.2): El Guardián Del Estancamiento Educativo"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [adoctrinamiento, educativo, estancamiento, roberto]
 publish: true
 ---
-# Roberto Baradel (v2.0): El Guardián Del Estancamiento Educativo
+# Roberto Baradel (TL V.2): El Guardián Del Estancamiento Educativo
 
 > [!ABSTRACT] Hipótesis Informativa
 > Roberto Baradel es el **Operador de [[Tier B]]** encargado de la captura del sistema educativo en la Provincia de Buenos Aires, el distrito más poblado de Argentina. Como secretario general de **SUTEBA**, Baradel ha transformado la defensa de los derechos docentes en una herramienta de **Chantaje Político Kirchnerista**. Su función real es garantizar que la educación pública del **[[Tier C]]** permanezca en un estado de degradación crítica y huelga permanente cuando gobiernan facciones no alineadas, facilitando el **[[Adoctrinamiento]]** ideológico y la creación de una masa crítica dependiente del Estado y ajena a las habilidades del mercado competitivo.
@@ -27,7 +27,7 @@ publish: true
 2.  **Adoctrinamiento en el Aula**: Distribución de materiales pedagógicos alineados con el relato del Tier B kirchnerista, transformando la escuela en un centro de reclutamiento ideológico y neutralizando el pensamiento crítico del Tier C desde temprana edad.
 
 ## Conexiones Críticas
-- [[Kirchnerismo]]: La matriz política de su lealtad suprema.
+- [[00_Glosario - Conceptos Fase 1#Kirchnerismo\|Kirchnerismo]]: La matriz política de su lealtad suprema.
 - [[Adoctrinamiento]]: El subproducto necesario de su control educativo.
 - [[Privatización de Facto]]: El resultado involuntario (o no) de su gestión.
 - [[Sindicalismo Argentino (El Modelo de la Casta)]]: El marco mayor donde opera su poder.
@@ -39,7 +39,8 @@ Roberto Baradel nos enseña que **quien controla la escuela, controla el futuro 
 ---
 **Versión:** 2.0
 **Enfoque:** Baradel como operador político del kirchnerismo en el ámbito docente, el uso del paro como herramienta asimétrica de poder y la degradación resultante de la educación pública para el Tier C.
-**Estado:** Refactoreado a v2.0 - Framework de Sindicalismo y Educación Argentina.
+**Estado:** Refactoreado a TL V.2 - Framework de Sindicalismo y Educación Argentina.
+
 
 
 

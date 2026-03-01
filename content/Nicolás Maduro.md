@@ -1,5 +1,5 @@
 ---
-titulo: "Nicolás Maduro (v2.0): El Gestor Del Estado-Cartel Multipolar"
+titulo: "Nicolás Maduro (TL V.2): El Gestor Del Estado-Cartel Multipolar"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,10 +7,10 @@ nivel-evidencia: "medio"
 tags: [cartel, estado, hugo, multipolar]
 publish: true
 ---
-# Nicolás Maduro (v2.0): El Gestor Del Estado-Cartel Multipolar
+# Nicolás Maduro (TL V.2): El Gestor Del Estado-Cartel Multipolar
 
 > [!ABSTRACT] Hipótesis Informativa
-> Nicolás Maduro no es un líder ideológico, sino el **administrador de una zona gris geopolítica**. Su función es mantener a Venezuela como una **Plataforma Logística del Narcotráfico y la Economía Negra** al servicio de potencias rivales del Eje Anglo-Americano (Rusia, China, Irán). Maduro sobrevive en el poder no por apoyo popular (Tier C), sino porque garantiza el flujo de recursos (oro, petróleo, cocaína) hacia el **[[Cartel de los Soles]]** y asegura un enclave estratégico de **[[Tier A]]** oriental en el hemisferio occidental, sacrificando la viabilidad biológica de su propio pueblo para servir al tablero de guerra global.
+> Nicolás Maduro no es un líder ideológico, sino el **administrador de una zona gris geopolítica**. Su función es mantener a Venezuela como una **Plataforma Logística del Narcotráfico y la Economía Negra** al servicio de potencias rivales del Eje Anglo-Americano (Rusia, China, Irán). Maduro sobrevive en el poder no por apoyo popular (Tier C), sino porque garantiza el flujo de recursos (oro, petróleo, cocaína) hacia el **[[Cártel de los Soles\|Cartel de los Soles]]** y asegura un enclave estratégico de **[[Tier A]]** oriental en el hemisferio occidental, sacrificando la viabilidad biológica de su propio pueblo para servir al tablero de guerra global.
 
 ## Análisis De Tiers
 
@@ -28,7 +28,7 @@ publish: true
 
 ## Conexiones Críticas
 - [[Hugo Chávez]]: El arquitecto del sistema que Maduro radicalizó.
-- [[Cartel de los Soles]]: La organización militar-narcotraficante que sostiene el régimen.
+- [[Cártel de los Soles\|Cartel de los Soles]]: La organización militar-narcotraficante que sostiene el régimen.
 - [[G2 Cubano]]: El cerebro de la inteligencia y el control político.
 - [[Narcotráfico (El Negocio de Estado)]]: La sangre financiera del sistema.
 - [[Foro de Sao Paulo]]: La red de apoyo internacional.
@@ -39,7 +39,8 @@ Nicolás Maduro es el rostro de la "Post-Política". Venezuela es el experimento
 ---
 **Versión:** 2.0
 **Enfoque:** Rol como gestor de un narco-estado multipolar, el hambre como herramienta de control social y el uso de Venezuela como plataforma para potencias extrar regionales.
-**Estado:** Refactoreado a v2.0 - Framework de Estado Fallido Criminalizado.
+**Estado:** Refactoreado a TL V.2 - Framework de Estado Fallido Criminalizado.
+
 
 
 

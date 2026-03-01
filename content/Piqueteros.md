@@ -1,5 +1,5 @@
 ---
-titulo: "Piqueteros (v2.0): Los Gerentes De La Pobreza Estructural"
+titulo: "Piqueteros (TL V.2): Los Gerentes De La Pobreza Estructural"
 tipo: evento
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [clientelismo, estructural, gerentes, juan]
 publish: true
 ---
-# Piqueteros (v2.0): Los Gerentes De La Pobreza Estructural
+# Piqueteros (TL V.2): Los Gerentes De La Pobreza Estructural
 
 > [!ABSTRACT] Hipótesis Informativa
 > Los movimientos piqueteros en Argentina han evolucionado de ser una expresión de resistencia legítima ante la crisis de 2001 a convertirse en la **Infraestructura de Control Social de [[Tier B]]**. A través de la **Intermediación de Planes Sociales**, los líderes de estas organizaciones actúan como capataces de un Estado paralelo que utiliza la necesidad del **[[Tier C]]** vulnerable como moneda de cambio para la extorsión política. El "Piquete" (el corte de vía pública) es el mecanismo de presión para asegurar el flujo de fondos públicos que alimenta una burocracia no electa, consolidando un modelo donde la pobreza es un negocio rentable que no puede ser erradicado sin destruir el poder de sus administradores.
@@ -38,7 +38,8 @@ Los Piqueteros nos enseñan que **cuando el Estado cede sus funciones a grupos d
 ---
 **Versión:** 2.0
 **Enfoque:** La evolución de los movimientos sociales hacia la intermediación corrupta, el uso de los pobres como escudos humanos políticos y el desmantelamiento del sistema de punteros bajo el nuevo paradigma.
-**Estado:** Refactoreado a v2.0 - Framework de Control Social Clientelar.
+**Estado:** Refactoreado a TL V.2 - Framework de Control Social Clientelar.
+
 
 
 

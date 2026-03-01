@@ -1,16 +1,13 @@
 ---
+titulo: PREDICTIVE PROGRAMMING (TL V.2)
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [guion, hollywood, predictive, think]
 publish: true
-created: 2026-02-25T16:10:28.694-03:00
-modified: 2026-02-27T13:23:42.575-03:00
-tags:
-  - guion
-  - hollywood
-  - predictive
-  - think
-cssclasses: ""
 ---
-
-# PREDICTIVE PROGRAMMING (v12_1)
+# PREDICTIVE PROGRAMMING (TL V.2)
 
 #### BLUF
 La Programación Predictiva es la **Ingeniería del Consentimiento mediante la Ficción**. No se trata de "predicciones" sobrenaturales, sino del uso de películas, series, literatura y medios de Tier C para familiarizar a la población con conceptos, crisis o cambios sociales que el **Tier A/B** planea implementar a corto/medio plazo. El objetivo es reducir la resistencia psicológica al cambio mediante la creación de un sentimiento de **Inevitabilidad** ("esto ya lo he visto en una película").
@@ -73,6 +70,7 @@ Los artistas son sensibles al futuro. No es una conspiración; es intuición art
 ¿Cuáles son los acuerdos específicos entre el departamento de "Transferencia Tecnológica" de la CIA y los guionistas jefe de las 5 plataformas de streaming más grandes en 2026?
 
 ---
-*Dossier forense v12_1 | La Cinematografía del Control Social*
+*Dossier forense TL V.2 | La Cinematografía del Control Social*
+
 
 

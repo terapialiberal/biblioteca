@@ -1,24 +1,21 @@
 ---
+titulo: "Familia Agnelli: Los Custodios Industriales De Europa"
+tipo: organizacion
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [custodios, europa, industriales, stellantis]
 publish: true
-created: 2026-01-29T19:17:13.147-03:00
-modified: 2026-02-27T13:22:41.300-03:00
-tags:
-  - custodios
-  - europa
-  - industriales
-  - stellantis
-cssclasses: ""
 ---
-
 # Familia Agnelli: Los Custodios Industriales De Europa
 
 > [!ABSTRACT] Hipótesis Informativa
-> Los Agnelli no son solo fabricantes de autos; son el **equivalente italiano de los Rothschild**. A través de su holding **Exor**, controlan una red vasta que va desde la industria pesada ([[Stellantis]], Ferrari) hasta la prensa global de élite ([[The Economist]], La Repubblica). Su poder reside en su capacidad de operar como una "Monarquía Corporativa" que sobrevive a todos los gobiernos italianos (desde el fascismo hasta la república), actuando como el nexo entre la **Nobleza Negra** europea y el capitalismo industrial moderno.
+> Los Agnelli no son solo fabricantes de autos; son el **equivalente italiano de los Rothschild**. A través de su holding **Exor**, controlan una red vasta que va desde la industria pesada ([[Stellantis]], Ferrari) hasta la prensa global de élite ([[00_Glosario - Conceptos Fase 1#The Economist\|The Economist]], La Repubblica). Su poder reside en su capacidad de operar como una "Monarquía Corporativa" que sobrevive a todos los gobiernos italianos (desde el fascismo hasta la república), actuando como el nexo entre la **Nobleza Negra** europea y el capitalismo industrial moderno.
 
 ## Análisis De Tiers
 
 ### Tier A: El Linaje Y La Prensa
-* **Control de la Narrativa Global:** Junto con los Rothschild, los Agnelli son los dueños de **[[The Economist]]**. Esto les da el poder de dictar la agenda liberal-globalista ("lo que hay que pensar") a la clase política mundial. No es una inversión financiera; es una herramienta de alineación ideológica.
+* **Control de la Narrativa Global:** Junto con los Rothschild, los Agnelli son los dueños de **[[00_Glosario - Conceptos Fase 1#The Economist\|The Economist]]**. Esto les da el poder de dictar la agenda liberal-globalista ("lo que hay que pensar") a la clase política mundial. No es una inversión financiera; es una herramienta de alineación ideológica.
 * **El Nexo Real:** A través de matrimonios (como el de Marella Caracciolo), el linaje se fusionó con la aristocracia antigua, dándole a la familia una legitimidad que el "dinero nuevo" no tiene. Son intocables en Italia.
 
 ### Tier B: La Maquinaria Industrial

@@ -1,5 +1,5 @@
 ---
-titulo: "Otto Skorzeny (v2.0): El Mercenario De La Matrix Transversal"
+titulo: "Otto Skorzeny (TL V.2): El Mercenario De La Matrix Transversal"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [matrix, otto, skorzeny, transversal]
 publish: true
 ---
-# Otto Skorzeny (v2.0): El Mercenario De La Matrix Transversal
+# Otto Skorzeny (TL V.2): El Mercenario De La Matrix Transversal
 
 > [!ABSTRACT] Hipótesis Informativa
 > Otto Skorzeny no fue solo un héroe militar nazi, sino el **Agente de Enlace Supremo de [[Tier B]]** entre la post-guerra y la red de inteligencia global. Famoso por rescatar a Mussolini, Skorzeny fue "reciclado" tras 1945 para servir simultáneamente a la **[[CIA]]**, a dictadores árabes, al gobierno de **[[Juan Perón]]** y, sorprendentemente, al **[[Mossad]]**. Su vida es la prueba irrefutable de que en el nivel operativo de la Matrix, la ideología es solo un disfraz: los antiguos enemigos se unen en una hermandad de espionaje y operaciones negras donde la única ley es la efectividad y la supervivencia de la cúpula de poder.
@@ -31,7 +31,7 @@ publish: true
 - [[CIA]]: Quien facilitó su libertad y lo utilizó como activo regional.
 - [[Juan Domingo Perón]]: Su anfitrión y socio en el Cono Sur.
 - [[Operación Paperclip]]: El contexto general de reubicación de talentos nazis.
-- [[Odessa Network]]: La red que Skorzeny presuntamente coordinó para salvar a sus camaradas.
+- [[Odessa Network\|ODESSA Network]]: La red que Skorzeny presuntamente coordinó para salvar a sus camaradas.
 
 ## Conclusión Del Análisis
 Otto Skorzeny es el espejo donde se refleja la hipocresía del orden mundial. Nos enseña que para los que manejan la Matrix, un criminal de guerra es solo un "experto no utilizado". El hombre con la cicatriz en la mejilla nos recuerda que los que nos dicen ser nuestros protectores contra el mal suelen estar cenando con el mal en hoteles de Madrid o Buenos Aires, planeando el próximo asesinato rentable. En el mundo de Skorzeny, la guerra nunca terminó; simplemente cambió de nómina.
@@ -39,7 +39,8 @@ Otto Skorzeny es el espejo donde se refleja la hipocresía del orden mundial. No
 ---
 **Versión:** 2.0
 **Enfoque:** Amoralidad de la inteligencia post-guerra, reclutamiento de Skorzeny por el Mossad y su rol como arquitecto de los escuadrones de la muerte globales a través de Paladin Group.
-**Estado:** Refactoreado a v2.0 - Framework de Mercenarismo de Estado.
+**Estado:** Refactoreado a TL V.2 - Framework de Mercenarismo de Estado.
+
 
 
 

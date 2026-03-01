@@ -36,7 +36,8 @@ publish: true
 - **Entidades:** [[CIA]], [[OSS]], [[OTAN]], [[Bilderberg]].
 - **Conceptos:** [[Deep State]], [[Stay-Behind]], [[Falsa Bandera]], [[Operación Paperclip]].
 
-**Estado:** Refactoreado a v2.0 - Perspectiva de Inteligencia Sistémica.
+**Estado:** Refactoreado a TL V.2 - Perspectiva de Inteligencia Sistémica.
+
 
 
 

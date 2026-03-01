@@ -1,5 +1,5 @@
 ---
-titulo: "Meta Platforms (v2.0): La Privatización De La Mente"
+titulo: "Meta Platforms (TL V.2): La Privatización De La Mente"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [mark, mente, meta, platforms]
 publish: true
 ---
-# Meta Platforms (v2.0): La Privatización De La Mente
+# Meta Platforms (TL V.2): La Privatización De La Mente
 
 > [!ABSTRACT] Hipótesis Informativa
 > Meta Platforms (anteriormente Facebook) es la maquinaria de **Ingeniería Social más sofisticada de la historia**. Su modelo de negocio no es la publicidad, sino la **Modificación Conductual** masiva. Al capturar los datos íntimos de 3.000 millones de humanos a través de WhatsApp, Instagram y Facebook, Meta ha construido un **Gemelo Digital** de la población mundial que permite al **[[Tier A]]** predecir y manipular resultados electorales, estados emocionales y patrones de consumo. Nacida con capital de **[[In-Q-Tel]]** (CIA) y DARPA (LifeLog), Meta actúa como una agencia de inteligencia privatizada que opera por encima de las leyes nacionales, censurando la disidencia y amplificando el miedo según las necesidades del Estado Profundo.
@@ -40,7 +40,8 @@ Meta es el espejo negro donde la humanidad se mira y se pierde. Ha mercantilizad
 ---
 **Versión:** 2.0
 **Enfoque:** Origen vinculado a inteligencia (LifeLog), manipulación conductual, rol en la censura global y crisis de salud mental inducida por diseño.
-**Estado:** Refactoreado a v2.0 - Framework de Vigilancia Cognitiva.
+**Estado:** Refactoreado a TL V.2 - Framework de Vigilancia Cognitiva.
+
 
 
 

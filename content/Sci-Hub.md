@@ -1,5 +1,5 @@
 ---
-titulo: "Sci-Hub (v2.0): La Guerrilla Informativa contra El Secuestro Cientfico"
+titulo: "Sci-Hub (TL V.2): La Guerrilla Informativa contra El Secuestro Cientfico"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [cient, contra, elsevier, secuestro]
 publish: true
 ---
-# Sci-Hub (v2.0): La Guerrilla Informativa contra El Secuestro Cientfico
+# Sci-Hub (TL V.2): La Guerrilla Informativa contra El Secuestro Cientfico
 
 > [!ABSTRACT] Hiptesis Informativa
 > Sci-Hub es la **Operacin de Resistencia de [[Tier B]]** ms efectiva contra el cartel de las editoriales acadmicas que han privatizado el conocimiento cientfico universal. Fundada por la programadora kazaja **Alexandra Elbakyan**, su funcin real es la de un **"Bypass de la Matrix del Conocimiento"**: permite el acceso gratuito a ms de 80 millones de artculos de investigacin que el **[[Tier A]]** corporativo (liderado por **Elsevier**) mantiene bajo paywalls de hasta \35 por documento. Sci-Hub demuestra que el libre flujo de la informacin es el mayor catalizador de la soberana intelectual del **[[Tier C]]** y el mayor peligro para los monopolios que controlan el horizonte del progreso humano.
@@ -41,7 +41,8 @@ Sci-Hub nos ensea que **el conocimiento que no es libre, no es realmente conocim
 ---
 **Versi�n:** 2.0
 **Enfoque:** Sci-Hub como herramienta de liberaci�n del conocimiento frente al monopolio par�sito de editoriales como Elsevier, el rol de Alexandra Elbakyan y la importancia del acceso a la ciencia para el desarrollo soberano del Tier C.
-**Estado:** Refactoreado a v2.0 - Framework de Acceso al Conocimiento y Desobediencia Digital.
+**Estado:** Refactoreado a TL V.2 - Framework de Acceso al Conocimiento y Desobediencia Digital.
+
 
 
 

@@ -1,16 +1,13 @@
 ---
+titulo: SMR (TL V.2)
+tipo: concepto
+fecha: 2026-02-25
+tier-primario: "a"
+nivel-evidencia: "alto"
+tags: [bill, modular, pila, small]
 publish: true
-created: 2026-02-25T14:22:57.642-03:00
-modified: 2026-02-27T13:23:57.971-03:00
-tags:
-  - bill
-  - modular
-  - pila
-  - small
-cssclasses: ""
 ---
-
-# SMR (v12_1)
+# SMR (TL V.2)
 
 #### BLUF
 Los Small Modular Reactors (SMR) son la respuesta del **Tier A** al cuello de botella energético de la IA. En 2026, las Big Tech están construyendo su propia **Soberanía Energética Corporativa**, desconectándose de la red civil para asegurar el suministro ininterrumpido de sus clusters de GPUs. El uranio es el nuevo colateral del poder digital.
@@ -20,7 +17,7 @@ Los Small Modular Reactors (SMR) son la respuesta del **Tier A** al cuello de bo
 | Actor | Tier | Rol Real | Incentivo Oculto |
 |-------|------|----------|-----------------|
 | [[Bill Gates]] | A | Arquitecto de Infraestructura | Captura de subsidios verdes para alimentar [[Microsoft]]. |
-| [[Sam Altman]] | A | Financista del Sol Sintético | Asegurar energía barata para la escala de [[AGI]]. |
+| [[Sam Altman]] | A | Financista del Sol Sintético | Asegurar energía barata para la escala de [[AGI\|Agi]]. |
 | [[NRC (EE.UU.)]] | B | Validador Regulatorio | Acelerar licencias para no perder la carrera contra China. |
 | [[BlackRock]] | A | Financista Maestro | Controlar la cadena de suministro del uranio y el hardware. |
 
@@ -73,6 +70,7 @@ Los SMR son simplemente una solución técnica lógica a un problema de ingenier
 ¿Cómo se gestionará la seguridad militar de estos reactores privados ante amenazas de sabotaje o guerra híbrida?
 
 ---
-*Versión: 3.0 (v12_1) | Dossier de Soberanía Energética*
+*Versión: 3.0 (TL V.2) | Dossier de Soberanía Energética*
+
 
 

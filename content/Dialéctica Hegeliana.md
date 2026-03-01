@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:10.209-03:00
-modified: 2026-02-27T13:22:29.685-03:00
+modified: 2026-02-27T13:22:57.054-03:00
 tags:
   - antony
   - dialctica

@@ -1,15 +1,12 @@
 ---
+titulo: Operación Stargate (Visión Remota)
+tipo: evento
+fecha: 2026-02-25
+tags: [cuerpo, ingo, operacin, stargate]
+tier-primario: "b"
+nivel-evidencia: "total"
 publish: true
-created: 2026-02-25T22:08:32.992-03:00
-modified: 2026-02-27T13:23:35.391-03:00
-tags:
-  - cuerpo
-  - ingo
-  - operacin
-  - stargate
-cssclasses: ""
 ---
-
 
 # Operación Stargate (Visión Remota)
 
@@ -28,9 +25,9 @@ cssclasses: ""
 - "Cosas de películas como *The Men Who Stare at Goats* o una curiosidad de la Guerra Fría". El Tier C cree que el programa fracasó y fue abandonado, ignorando que el Tier B nunca abandona una tecnología que le dé ventaja sobre el adversario.
 
 ## Conexiones Críticas
-- [[Mk-Ultra]]: La base para la manipulación mental necesaria para los visualizadores.
+- [[MKUltra\|Mk-Ultra]]: La base para la manipulación mental necesaria para los visualizadores.
 - [[Ingo Swann]]: El "padre" de la visión remota que describió estructuras en la Luna (Tier A).
-- [[Cuerpo de Luz vs Datos]]: El debate técnico sobre qué es lo que realmente "viaja" en la visión remota.
+- [[Cuerpos de Luz vs Datos\|Cuerpo de Luz vs Datos]]: El debate técnico sobre qué es lo que realmente "viaja" en la visión remota.
 
 ## Cui Bono
 ¿Quién gana? Los **Vigilantes del Éter**. Operación Stargate asegura que el Tier A mantenga una ventana abierta hacia lo invisible, impidiendo que cualquier disidencia de Tier C o competidor de Tier B pueda ocultar sus verdaderas intenciones.

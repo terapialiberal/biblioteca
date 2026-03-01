@@ -1,15 +1,12 @@
 ---
+titulo: El Patrón Bitcoin
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [bitcoin, cbdc, patrn, saifedean]
 publish: true
-created: 2026-01-29T19:17:11.477-03:00
-modified: 2026-02-27T13:22:36.210-03:00
-tags:
-  - bitcoin
-  - cbdc
-  - patrn
-  - saifedean
-cssclasses: ""
 ---
-
 # El Patrón Bitcoin
 
 ## Perfil TL (Resumen Ejecutivo)
@@ -34,7 +31,7 @@ cssclasses: ""
 - [[Saifedean Ammous]] (El teórico principal)
 - [[Escuela Austríaca de Economía]] (La base intelectual)
 - [[CBDC (Central Bank Digital Currencies)]] (Su némesis del control total)
-- [[Dinero Fiat]] (El sistema que busca reemplazar)
+- [[00_Glosario - Conceptos Fase 1#Dinero Fiat\|Dinero Fiat]] (El sistema que busca reemplazar)
 
 ## Fuentes
 - Saifedean Ammous: "The Bitcoin Standard: The Decentralized Alternative to Central Banking".

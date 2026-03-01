@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-25T22:08:33.243-03:00
-modified: 2026-02-27T13:23:27.666-03:00
+modified: 2026-02-27T13:24:43.178-03:00
 tags:
   - lovecraft
   - necronomicn

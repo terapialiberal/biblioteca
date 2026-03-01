@@ -1,5 +1,5 @@
 ---
-titulo: "Sistema Petrodólar (v2.0): El Motor De La Hegemonía Infinita"
+titulo: "Sistema Petrodólar (TL V.2): El Motor De La Hegemonía Infinita"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [henry, infinita, reserva, sistema]
 publish: true
 ---
-# Sistema Petrodólar (v2.0): El Motor De La Hegemonía Infinita
+# Sistema Petrodólar (TL V.2): El Motor De La Hegemonía Infinita
 
 > [!ABSTRACT] Hipótesis Informativa
 > El Sistema Petrodólar es la **Arquitectura Geofinanciera de [[Tier A]]** que ha sustentado el dominio global de EE.UU. desde el colapso del patrón oro en 1971. Nacido de un pacto secreto entre **[[Henry Kissinger]]** y la **Casa de Saud**, su función real en la Matrix es la de un **"Mecanismo de Subsidio Global Forzado"**: obligar a que toda la energía del planeta se transe exclusivamente en dólares estadounidenses, forzando a las naciones de **[[Tier B]]** y **[[Tier C]]** a acumular reservas en USD y financiar permanentemente el déficit y el gasto militar de Washington a cambio de "seguridad" y acceso al mercado energético.
@@ -41,7 +41,8 @@ El Sistema Petrodólar nos enseña que **el dinero moderno no está respaldado p
 ---
 **Versión:** 2.0
 **Enfoque:** El Petrodólar como base de la hegemonía del dólar, el pacto Kissinger-Saud, el rol de las guerras de cambio de régimen para proteger la moneda y la actual transición hacia la multipolaridad financiera liderada por los BRICS.
-**Estado:** Refactoreado a v2.0 - Framework de Geopolítica Financiera y Poder Militar.
+**Estado:** Refactoreado a TL V.2 - Framework de Geopolítica Financiera y Poder Militar.
+
 
 
 

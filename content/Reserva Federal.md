@@ -1,15 +1,12 @@
 ---
+titulo: "Reserva Federal: El Motor De La Deuda (Nivel 2 / Tier B)"
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [deuda, efecto, jekyll, reserva]
 publish: true
-created: 2026-01-29T19:17:33.351-03:00
-modified: 2026-02-27T13:23:48.767-03:00
-tags:
-  - deuda
-  - efecto
-  - jekyll
-  - reserva
-cssclasses: ""
 ---
-
 # Reserva Federal: El Motor De La Deuda (Nivel 2 / Tier B)
 
 > [!ABSTRACT] Hipótesis Informativa
@@ -19,7 +16,7 @@ cssclasses: ""
 
 ### Tier A: Los Dueños (Nivel 1)
 * **Bancos Miembros:** Las acciones de la FED de Nueva York (el nodo real de poder) están en manos de dinastías bancarias y corporaciones sistémicas. Este Tier A captura la renta mediante dividendos garantizados y el control del flujo del crédito global.
-* **Coordinación Transnacional:** La FED opera bajo los estándares técnicos definidos por el **[[BIS (Banco de Pagos Internacionales)]]**, asegurando que el dólar sirva como arquitectura del sistema de control global.
+* **Coordinación Transnacional:** La FED opera bajo los estándares técnicos definidos por el **[[Banco de Pagos Internacionales\|BIS (Banco de Pagos Internacionales)]]**, asegurando que el dólar sirva como arquitectura del sistema de control global.
 
 ### Tier B: Los Ejecutores (Nivel 2)
 * **Gestión de la Ilusión:** Funcionarios como Jerome Powell ejecutan políticas de *Quantitative Easing* o subida de tasas para "ajustar" el tablero económico según las necesidades de liquidez del Tier A.

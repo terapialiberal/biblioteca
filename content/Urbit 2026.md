@@ -1,16 +1,13 @@
 ---
+titulo: URBIT (2026 UPDATE) (TL V.2)
+tipo: evento
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "alto"
+tags: [panptico, peer, tlon, urbit]
 publish: true
-created: 2026-02-25T16:12:39.110-03:00
-modified: 2026-02-27T13:24:06.861-03:00
-tags:
-  - panptico
-  - peer
-  - tlon
-  - urbit
-cssclasses: ""
 ---
-
-# URBIT (2026 UPDATE) (v12_1)
+# URBIT (2026 UPDATE) (TL V.2)
 
 #### BLUF
 Urbit es la **Reinvención del Sistema Operativo** desde una perspectiva de soberanía personal... o de **Gobernanza Neocameralista**. En 2026, tras años de desarrollo oscuro, Urbit se posiciona como la única alternativa real a la "Internet Muerta" controlada por las Big Tech de Tier A. Sin embargo, su arquitectura jerárquica (Galaxias, Estrellas, Planetas) y los vínculos ideológicos de sus fundadores con la "Reacción Oscura" (NRx) plantean la duda de si es un bote de salvamento para el individuo o una **Cárcel Digital de Lujo** para el Tier B que busca escapar del colapso del Tier C.
@@ -73,6 +70,7 @@ Es la única solución honesta. En Urbit eres dueño de tu computadora de la mis
 ¿Cuál es la relación real entre los nodos de salida (estrellas) de Urbit y la infraestructura de fibra óptica física que sigue en manos de empresas de Tier A vinculadas a la inteligencia estatal?
 
 ---
-*Dossier forense v12_1 | La Arquitectura de la Post-Internet*
+*Dossier forense TL V.2 | La Arquitectura de la Post-Internet*
+
 
 

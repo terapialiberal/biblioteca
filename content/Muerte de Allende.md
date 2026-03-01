@@ -1,5 +1,5 @@
 ---
-titulo: "Muerte De Allende (v2.0): El Castigo Imperial"
+titulo: "Muerte De Allende (TL V.2): El Castigo Imperial"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [allende, augusto, castigo, henry]
 publish: true
 ---
-# Muerte De Allende (v2.0): El Castigo Imperial
+# Muerte De Allende (TL V.2): El Castigo Imperial
 
 > [!ABSTRACT] Hipótesis Informativa
 > La muerte de Salvador Allende y el derrocamiento de su gobierno no fueron asuntos internos de la política chilena; fueron una **Operación de Disciplinamiento Global de [[Tier A]]**. Henry Kissinger y Richard Nixon ordenaron explícitamente "hacer chillar la economía" chilena, no porque Allende fuera una amenaza militar, sino porque su "Vía Chilena al Socialismo" (democrática y constitucional) representaba un "virus" ideológico inaceptable: la idea de que un país periférico podía nacionalizar sus recursos (Cobre) sin pedir permiso a Wall Street. **[[Augusto Pinochet]]** fue simplemente el contratista local (**Tier B**) ejecutando una demolición planificada en Washington.
@@ -31,7 +31,7 @@ publish: true
 - [[Henry Kissinger]]: El autor intelectual.
 - [[Augusto Pinochet]]: El ejecutor material.
 - [[CIA]]: La agencia coordinadora (Operación FUBELT).
-- [[Operación Cóndor]]: La consecuencia regional.
+- [[Operación Condor\|Operación Cóndor]]: La consecuencia regional.
 - [[Mont Pelerin Society]]: Los arquitectos económicos que esperaban en la sombra (Friedman/Chicago Boys).
 
 ## Conclusión Del Análisis
@@ -40,7 +40,8 @@ Salvador Allende murió defendiendo la soberanía del Cobre y del Estado Nación
 ---
 **Versión:** 2.0
 **Enfoque:** Intervención directa de Kissinger/CIA, intereses corporativos de ITT, sabotaje económico previo y el golpe como escarmiento ejemplar para la soberanía de recursos.
-**Estado:** Refactoreado a v2.0 - Framework de Cambio de Régimen.
+**Estado:** Refactoreado a TL V.2 - Framework de Cambio de Régimen.
+
 
 
 

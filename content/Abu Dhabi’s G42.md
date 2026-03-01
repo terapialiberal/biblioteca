@@ -1,4 +1,12 @@
 ---
+titulo: Abu Dhabi’s G42
+tipo: 'organizacion'
+tier-primario: 'a'
+nivel-evidencia: 'medio'
+tags: [clasificado-ai]
+publish: true
+---
+﻿---
 titulo: "Abu Dhabis G42: El Hub De Inteligencia Del Desierto"
 tipo: persona
 fecha: 2026-02-25
@@ -39,8 +47,9 @@ publish: true
 - [[Project mBridge]]: mBridge es el riel financiero; G42 es el riel de datos del nuevo Golfo.
 
 ---
-**Falsabilidad**: Si los Emiratos retoman la cooperaci�n estrat�gica con Huawei en el despliegue de 6G o inteligencia biol�gica avanzada, el pacto con Washington se romper�a y G42 ser�a sancionada como un nodo hostil.
+**Falsabilidad**: Si los Emiratos retoman la cooperaciï¿½n estratï¿½gica con Huawei en el despliegue de 6G o inteligencia biolï¿½gica avanzada, el pacto con Washington se romperï¿½a y G42 serï¿½a sancionada como un nodo hostil.
 
-*Versi�n: 1.0 | Protocolo TL-INTEL v12_0*
+*Versiï¿½n: 1.0 | Protocolo TL-INTEL TL V.2*
+
 
 

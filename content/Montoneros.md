@@ -1,5 +1,13 @@
 ---
-titulo: "Montoneros (v2.0): La Dialctica De Sangre"
+titulo: Montoneros
+tipo: 'organizacion'
+tier-primario: 'b'
+nivel-evidencia: 'medio'
+tags: [clasificado-ai]
+publish: true
+---
+﻿---
+titulo: "Montoneros (TL V.2): La Dialctica De Sangre"
 tipo: evento
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +15,7 @@ nivel-evidencia: "medio"
 tags: [ctica, dial, eduardo, sangre]
 publish: true
 ---
-# Montoneros (v2.0): La Dialctica De Sangre
+# Montoneros (TL V.2): La Dialctica De Sangre
 
 > [!ABSTRACT] Hiptesis Informativa
 > Montoneros no fue simplemente una guerrilla revolucionaria; fue un **vector de aceleracin del caos (Tier B)** funcional a la estrategia de tensin que prepar el terreno para el Golpe de 1976. Aunque su base militante (**Tier C**) estaba impulsada por un idealismo genuino, su cpula (**Firmenich, Galimberti**) oper bajo sospechas fundamentadas de infiltracin y pactos con servicios de inteligencia locales y extranjeros. El secuestro de los hermanos Born y el manejo opaco de su botn (\60M) revelan la verdadera naturaleza de la organizacin: una **empresa poltico-militar** que termin reciclndose en la misma burguesa que jur destruir, demostrando que en el juego del poder argentino, los extremos se tocan en la caja fuerte.
@@ -37,9 +45,10 @@ publish: true
 Montoneros es la leccin argentina definitiva: **No hay revolucin pura**. Detrs de la retrica de liberacin nacional, operaban los mismos mecanismos de inteligencia y dinero sucio que gobiernan el sistema. La sangre de los jvenes paviment el camino para la instalacin del modelo neoliberal, en una irona trgica que define la historia nacional.
 
 ---
-**Versi�n:** 2.0
-**Enfoque:** Rol como insurgencia controlada/infiltrada, manejo financiero del caso Born, traici�n de la c�pula y funcionalidad al golpe de Estado mediante la estrategia de tensi�n.
-**Estado:** Refactoreado a v2.0 - Framework de Falsa Disidencia.
+**Versiï¿½n:** 2.0
+**Enfoque:** Rol como insurgencia controlada/infiltrada, manejo financiero del caso Born, traiciï¿½n de la cï¿½pula y funcionalidad al golpe de Estado mediante la estrategia de tensiï¿½n.
+**Estado:** Refactoreado a TL V.2 - Framework de Falsa Disidencia.
+
 
 
 

@@ -1,15 +1,12 @@
 ---
+titulo: Polvo Inteligente (Smart Dust)
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [chemtrails, darpa, polvo, smart]
 publish: true
-created: 2026-01-29T19:17:31.037-03:00
-modified: 2026-02-27T13:23:41.912-03:00
-tags:
-  - chemtrails
-  - darpa
-  - polvo
-  - smart
-cssclasses: ""
 ---
-
 # Polvo Inteligente (Smart Dust)
 
 ## Resumen Ejecutivo
@@ -35,7 +32,7 @@ Se conecta con la red 5G/6G para transmitir datos en tiempo enjambre.
 
 ## Conexiones
 - [[DARPA]]
-- [[Chemtrails (Geoingeniería)]] (Possible método de dispersión)
+- [[00_Glosario - Conceptos Fase 1#Chemtrails (Geoingeniería)\|Chemtrails (Geoingeniería)]] (Possible método de dispersión)
 - [[Internet de los Cuerpos (IoB)]]
 
 ## Fuentes

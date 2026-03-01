@@ -1,5 +1,5 @@
 ---
-titulo: "Revolución De Color (Doméstica) (v2.0): El Cambio De Régimen Interno"
+titulo: "Revolución De Color (Doméstica) (TL V.2): El Cambio De Régimen Interno"
 tipo: evento
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [cambio, color, domstica, george]
 publish: true
 ---
-# Revolución De Color (Doméstica) (v2.0): El Cambio De Régimen Interno
+# Revolución De Color (Doméstica) (TL V.2): El Cambio De Régimen Interno
 
 > [!ABSTRACT] Hipótesis Informativa
 > La Revolución de Color Doméstica es la aplicación de las **Técnicas de Cambio de Régimen de [[Tier A]]** (previamente perfeccionadas en naciones como Ucrania, Georgia o Serbia) dentro del propio territorio de los Estados Unidos. Mediante el uso de ONGs financiadas por **[[George Soros]]**, el entrenamiento de grupos de choque (BLM/Antifa) por parte de operativos vinculados a la inteligencia (**[[NED]]**) y la captura narrativa de los medios de comunicación de **[[Tier B]]**, esta estrategia busca deslegitimar las instituciones soberanas y deponer a líderes no alineados con el Consenso Globalista. Su función real es la **Neutralización de la Soberanía Popular** de **[[Tier C]]**, transformando la política nacional en una serie de crisis pre-fabricadas que siempre resultan en un aumento del control estatal y la censura digital.
@@ -39,7 +39,8 @@ La Revolución de Color Doméstica nos enseña que **las armas que el imperio di
 ---
 **Versión:** 2.0
 **Enfoque:** La importación de tácticas de cambio de régimen de la CIA a EE.UU., el rol de Soros y el NED en el financiamiento de disturbios, y el uso del Lawfare y la captura mediática para neutralizar a líderes soberanos.
-**Estado:** Refactoreado a v2.0 - Framework de Guerra Híbrida y Desestabilización Interna.
+**Estado:** Refactoreado a TL V.2 - Framework de Guerra Híbrida y Desestabilización Interna.
+
 
 
 

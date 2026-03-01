@@ -1,16 +1,13 @@
 ---
+titulo: "Pegasus Spyware (NSO Group) (TL V.2): La Diplomacia De La Infección"
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [pegasus, project, spyware, unit]
 publish: true
-created: 2026-01-29T19:17:30.190-03:00
-modified: 2026-02-27T13:23:39.478-03:00
-tags:
-  - pegasus
-  - project
-  - spyware
-  - unit
-cssclasses: ""
 ---
-
-# Pegasus Spyware (NSO Group) (v2.0): La Diplomacia De La Infección
+# Pegasus Spyware (NSO Group) (TL V.2): La Diplomacia De La Infección
 
 > [!ABSTRACT] Hipótesis Informativa
 > Pegasus es el **Ciberarmamento de [[Tier A]]** más invasivo de la historia, diseñado por ex-miembros de la inteligencia israelí (Unit 8200) para convertir cualquier smartphone en un dispositivo de espionaje total. Capaz de realizar infecciones de "click-cero" (sin que el usuario toque nada), Pegasus otorga acceso a micrófonos, cámaras, archivos y mensajes encriptados. Más allá de su función técnica, Pegasus actúa como una herramienta de **Diplomacia Gris de Israel**: el Estado cede licencias del software a regímenes de **[[Tier B]]** (Marruecos, Arabia Saudita, México, Hungría) a cambio de apoyo diplomático y el silenciamiento de disidentes de **[[Tier C]]** en foros internacionales.
@@ -41,7 +38,8 @@ Pegasus nos enseña que **tu teléfono es una terminal de la Matrix en tu bolsil
 ---
 **Versión:** 2.0
 **Enfoque:** Uso de Pegasus como herramienta de diplomacia israelí, la tecnología Zero-Click y la persecución de la disidencia global por parte de regímenes de Tier B.
-**Estado:** Refactoreado a v2.0 - Framework de Ciberarmamento Geopolítico.
+**Estado:** Refactoreado a TL V.2 - Framework de Ciberarmamento Geopolítico.
+
 
 
 

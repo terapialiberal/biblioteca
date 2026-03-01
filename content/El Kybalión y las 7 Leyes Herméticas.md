@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-25T22:08:57.255-03:00
-modified: 2026-02-27T13:22:35.497-03:00
+modified: 2026-02-27T13:23:08.786-03:00
 tags:
   - hermetismo
   - hermticas

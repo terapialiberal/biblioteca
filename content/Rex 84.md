@@ -1,13 +1,12 @@
 ---
+titulo: Rex 84
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [john, oliver]
 publish: true
-created: 2026-01-29T19:17:33.900-03:00
-modified: 2026-02-27T13:07:07.870-03:00
-tags:
-  - john
-  - oliver
-cssclasses: ""
 ---
-
 # Rex 84
 
 > **Perfil TL:** El plan secreto del gobierno de EEUU para declarar ley marcial y detener masivamente a ciudadanos.
@@ -25,13 +24,13 @@ La continuidad del poder oligárquico en caso de colapso social o resistencia po
 ### Tier B (Operadores)
 - **[[Oliver North]]:** Diseñador principal. Operador de [[Irán-Contra]].
 - **[[John Poindexter]]:** Supervisor. Luego crearía el programa [[Total Information Awareness]] (precursor de Palantir).
-- **[[FEMA]]:** Agencia ejecutora.
+- **[[00_Glosario - Conceptos Fase 1#FEMA\|FEMA]]:** Agencia ejecutora.
 
 ## Conexiones Clave
 - [[Continuidad del Gobierno]]
 - [[Irán-Contra]]
 - [[Oliver North]]
-- [[FEMA]]
+- [[00_Glosario - Conceptos Fase 1#FEMA\|FEMA]]
 - [[Patriot Act]]
 
 ## Fuentes

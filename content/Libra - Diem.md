@@ -1,15 +1,12 @@
 ---
+titulo: "Libra / Diem: El Intento De Golpe De Estado De Silicon Valley"
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [estado, libra, mark, silicon]
 publish: true
-created: 2026-01-29T19:17:22.461-03:00
-modified: 2026-02-27T13:23:13.246-03:00
-tags:
-  - estado
-  - libra
-  - mark
-  - silicon
-cssclasses: ""
 ---
-
 # Libra / Diem: El Intento De Golpe De Estado De Silicon Valley
 
 > [!ABSTRACT] Resumen de Inteligencia
@@ -32,11 +29,12 @@ Libra fue el momento en que Zuckerberg voló demasiado cerca del sol. Intentó e
 
 ## Conexiones De La Red
 - **El Protagonista:** [[Mark Zuckerberg]], [[David Marcus]].
-- **La Contraparte:** [[Reserva Federal]], [[BPI (Banco de Pagos Internacionales)]], [[FMI]].
+- **La Contraparte:** [[Reserva Federal]], [[Banco de Pagos Internacionales\|BPI (Banco de Pagos Internacionales)]], [[FMI]].
 - **El Sucesor:** [[CBDC (Moneda Digital de Banco Central)]].
 - **Sombra:** [[Jeffrey Epstein]] (Relación con el sistema bancario).
 
-**Estado:** Refactoreado a v2.0 - Framework de Inteligencia Aplicado.
+**Estado:** Refactoreado a TL V.2 - Framework de Inteligencia Aplicado.
+
 
 
 

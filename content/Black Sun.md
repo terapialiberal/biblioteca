@@ -1,14 +1,12 @@
 ---
+titulo: Resumen General
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [ahnenerbe, black, heinrich]
 publish: true
-created: 2026-01-29T19:17:05.534-03:00
-modified: 2026-02-27T13:07:32.650-03:00
-tags:
-  - ahnenerbe
-  - black
-  - heinrich
-cssclasses: ""
 ---
-
 # Resumen General
 El *Schwarze Sonne*. Un símbolo esotérico compuesto por 12 runas Sig (victoria/rayo) radiales. Ocupa el piso central del castillo de Wewelsburg (cuartel general de la SS de Himmler). Representa el "sol invisible" del espíritu ario, opuesto al sol dorado material, o un portal a otra dimensión.
 
@@ -26,7 +24,7 @@ El *Schwarze Sonne*. Un símbolo esotérico compuesto por 12 runas Sig (victoria
 - [[Ahnenerbe]]
 - [[Heinrich Himmler]]
 - [[Azov (Blanqueamiento Mediático)]]
-- [[Ocultismo]]
+- [[00_Glosario - Conceptos Fase 1#Ocultismo\|Ocultismo]]
 - [[Culto a Saturno (El Cubo Negro)]]
 
 # Por Qué Importa

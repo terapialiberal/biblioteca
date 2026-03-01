@@ -1,5 +1,5 @@
 ---
-titulo: ESTRATEGIA DOD 2026 (v12_1)
+titulo: ESTRATEGIA DOD 2026 (TL V.2)
 tipo: evento
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: ["2026", anduril, china, estrategia]
 publish: true
 ---
-# ESTRATEGIA DOD 2026 (v12_1)
+# ESTRATEGIA DOD 2026 (TL V.2)
 
 #### BLUF
 La Estrategia del Departamento de Defensa (DOD) para 2026 marca el fin del paradigma del "Plataforma-centrismo" (aviones/barcos caros) y el inicio de la **Guerra de Masa Autónoma**. Bajo el programa **Replicator**, el Pentágono busca inundar el teatro de operaciones del Indo-Pacífico con miles de drones de bajo costo y alta autonomía. El objetivo es simple: obligar a [[China]] a gastar misiles caros en máquinas baratas mientras el software de [[Anduril]] y [[Shield AI]] gestiona el campo de batalla.
@@ -70,6 +70,7 @@ Es una estrategia defensiva necesaria. Ante la superioridad numérica de China e
 ¿Cómo se impedirá que la tecnología de "Masa Autónoma" termine en manos de carteles o grupos insurgentes domésticos cuando la producción se vuelva masiva y barata?
 
 ---
-*Dossier forense v12_1 | La Arquitectura de la Guerra del Futuro*
+*Dossier forense TL V.2 | La Arquitectura de la Guerra del Futuro*
+
 
 

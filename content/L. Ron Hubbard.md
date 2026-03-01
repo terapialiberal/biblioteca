@@ -1,5 +1,5 @@
 ---
-titulo: "L. Ron Hubbard (v2.0): El Ingeniero De La Inteligencia Escatológica"
+titulo: "L. Ron Hubbard (TL V.2): El Ingeniero De La Inteligencia Escatológica"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [cienciologa, escatolgica, ingeniero, jack]
 publish: true
 ---
-# L. Ron Hubbard (v2.0): El Ingeniero De La Inteligencia Escatológica
+# L. Ron Hubbard (TL V.2): El Ingeniero De La Inteligencia Escatológica
 
 > [!ABSTRACT] Hipótesis Informativa
 > L. Ron Hubbard constituye el **vínculo perdido entre la inteligencia militar, el ocultismo de vanguardia y la ingeniería social de [[Tier B]]**. Su creación, la Cienciología, no es una religión en el sentido tradicional, sino un **dispositivo de recolección masiva de Kompromat** y un sistema de control mental basado en la externalización de la conciencia. Hubbard aplicó protocolos de **Inteligencia Naval** y rituales thelémicos para diseñar una red de vigilancia privada capaz de infiltrar al Estado (Operación Snow White) y capturar a la élite cultural de Hollywood, operando como un **Estado Paralelo** que protege los secretos de sus miembros a cambio de su soberanía absoluta.
@@ -34,7 +34,7 @@ publish: true
 ## Conexiones Críticas
 - [[Cienciología]]: La estructura operativa.
 - [[Jack Parsons]]: Su compañero en la apertura de portales ocultistas.
-- [[MK-Ultra]]: El programa gubernamental paralelo de fragmentación de la psique.
+- [[MKUltra\|MK-Ultra]]: El programa gubernamental paralelo de fragmentación de la psique.
 - [[Crowley / Thelema]]: La base filosófica de "Haz lo que quieras" refinada para el control organizacional.
 - [[Sea Org]]: El brazo paramilitar que asegura la continuidad del mando de Hubbard.
 
@@ -45,6 +45,7 @@ L. Ron Hubbard fue el **"Stalin de la Ciencia Ficción"**. Su genialidad residi�
 **Versión:** 2.0
 **Enfoque:** Vínculo entre inteligencia naval y ocultismo, uso de la auditación como extracción de Kompromat y la Operación Snow White como infiltración estatal masiva.
 **Estado:** Refactorización Completa.
+
 
 
 

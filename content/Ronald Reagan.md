@@ -1,5 +1,5 @@
 ---
-titulo: "Ronald Reagan (v2.0): El Rostro Amigable De La Reingeniería Estructural"
+titulo: "Ronald Reagan (TL V.2): El Rostro Amigable De La Reingeniería Estructural"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [amigable, reingeniera, ronald, wall]
 publish: true
 ---
-# Ronald Reagan (v2.0): El Rostro Amigable De La Reingeniería Estructural
+# Ronald Reagan (TL V.2): El Rostro Amigable De La Reingeniería Estructural
 
 > [!ABSTRACT] Hipótesis Informativa
 > Ronald Reagan fue el **Operador de [[Tier A]]** que transformó la política americana en un espectáculo de optimismo escénico para ocultar la demolición del contrato social y el nacimiento del **[[Tecnofeudalismo]]** moderno. Como el "Gran Comunicador", Reagan utilizó sus habilidades de actor para vender la **Revolución Neoliberal** (Reaganomics) al **[[Tier C]]**, mientras en la sombra expandía el poder del Complejo Militar-Industrial y la CIA. Su función real fue la de un **"Agente de Transición de Ã‰poca"**: desmantelar la soberanía económica de la clase media para favorecer el ascenso de la aristocracia financiera global, utilizando la Guerra Fría como la cobertura narrativa perfecta para este trasvase masivo de riqueza.
@@ -40,7 +40,8 @@ Ronald Reagan nos enseña que **el carisma es el aceite de la máquina de exprop
 ---
 **Versión:** 2.0
 **Enfoque:** Reagan como ejecutor del neoliberalismo (Reaganomics), el escándalo Irán-Contra como revelación del poder del Estado Profundo y su rol como actor para vender la transformación económica a las masas.
-**Estado:** Refactoreado a v2.0 - Framework de Neoliberalismo y Poder Ejecutivo.
+**Estado:** Refactoreado a TL V.2 - Framework de Neoliberalismo y Poder Ejecutivo.
+
 
 
 

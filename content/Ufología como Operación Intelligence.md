@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-25T22:08:52.179-03:00
-modified: 2026-02-27T13:24:06.803-03:00
+modified: 2026-02-27T13:25:51.068-03:00
 tags:
   - intelligence
   - operacin

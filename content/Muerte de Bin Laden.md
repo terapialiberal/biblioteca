@@ -1,5 +1,13 @@
 ---
-titulo: "Muerte De Bin Laden (v2.0): La Clausura Del Activo"
+titulo: Muerte de Bin Laden
+tipo: 'concepto'
+tier-primario: 'b'
+nivel-evidencia: 'medio'
+tags: [clasificado-ai]
+publish: true
+---
+﻿---
+titulo: "Muerte De Bin Laden (TL V.2): La Clausura Del Activo"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +15,7 @@ nivel-evidencia: "medio"
 tags: [activo, barack, clausura, muerte]
 publish: true
 ---
-# Muerte De Bin Laden (v2.0): La Clausura Del Activo
+# Muerte De Bin Laden (TL V.2): La Clausura Del Activo
 
 > [!ABSTRACT] Hiptesis Informativa
 > La operacin que result en la muerte de Osama Bin Laden no fue una batalla heroica contra un lder terrorista prfugo, sino la **Disposicin Final de un Activo de Inteligencia Caducado**. Segn investigaciones disidentes (Seymour Hersh), Bin Laden no estaba "escondido"; estaba bajo custodia (arresto domiciliario de facto) de la inteligencia pakistan (ISI) desde 2006, financiado por Arabia Saudita. La incursin de los Navy SEALs fue una entrega pactada que se convirti en ejecucin para cerrar el ciclo narrativo de la "Guerra contra el Terror" y asegurar la reeleccin de **Obama**. El "entierro en el mar" inmediato fue la destruccin de evidencia necesaria para evitar cualquier autopsia que contradijera el relato oficial.
@@ -37,9 +45,10 @@ publish: true
 La muerte de Bin Laden fue un asesinato administrativo. Cerr el libro de contabilidad de una era de terror fabricado. Nos ense que en la guerra moderna, los grandes enemigos del Estado suelen ser sus antiguos empleados, y su jubilacin es siempre una ejecucin sumaria.
 
 ---
-**Versi�n:** 2.0
-**Enfoque:** Tesis de Seymour Hersh (prisionero del ISI), ejecuci�n pactada vs raid heroico, sospechas sobre el accidente del SEAL Team 6 y funci�n pol�tica de su muerte para Obama.
-**Estado:** Refactoreado a v2.0 - Framework de Limpieza de Inteligencia.
+**Versiï¿½n:** 2.0
+**Enfoque:** Tesis de Seymour Hersh (prisionero del ISI), ejecuciï¿½n pactada vs raid heroico, sospechas sobre el accidente del SEAL Team 6 y funciï¿½n polï¿½tica de su muerte para Obama.
+**Estado:** Refactoreado a TL V.2 - Framework de Limpieza de Inteligencia.
+
 
 
 

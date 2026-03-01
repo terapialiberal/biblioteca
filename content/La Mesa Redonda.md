@@ -1,5 +1,5 @@
 ---
-titulo: "La Mesa Redonda (v2.0): El Código Fuente Del Globalismo Moderno"
+titulo: "La Mesa Redonda (TL V.2): El Código Fuente Del Globalismo Moderno"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [cecil, fuente, moderno, reserva]
 publish: true
 ---
-# La Mesa Redonda (v2.0): El Código Fuente Del Globalismo Moderno
+# La Mesa Redonda (TL V.2): El Código Fuente Del Globalismo Moderno
 
 > [!ABSTRACT] Hipótesis Informativa
 > "La Mesa Redonda" (The Round Table Group) constituye la **matriz histórica y estructural del [[Tier A]] anglo-americano**. Fundada por el magnate de los diamantes **[[Cecil Rhodes]]** y el vizconde **Alfred Milner**, su función es la creación de un sistema de control global que trasciende las fronteras nacionales mediante una federación de élites financieras y académicas. De este grupo germinal surgieron las instituciones que hoy dictan la agenda del mundo occidental (CFR, Chatham House), operando a través de **círculos concéntricos de secreto** para dirigir la política exterior y monetaria de las naciones de [[Tier B]] hacia la consolidación de un gobierno mundial de carácter tecnocrático.
@@ -45,6 +45,7 @@ La Mesa Redonda es la **"Placa Madre" de la política global moderna**. Su impor
 **Versión:** 2.0
 **Enfoque:** Origen histórico de las redes globalistas (CFR, Chatham House), sistema de adoctrinamiento de élites mediante Becas Rhodes y el rol de Carroll Quigley como documentalista de la red.
 **Estado:** Refactorización Completa.
+
 
 
 

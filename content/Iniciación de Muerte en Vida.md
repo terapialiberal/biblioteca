@@ -1,15 +1,12 @@
 ---
+titulo: Iniciación De Muerte En Vida
+tipo: "concepto"
+fecha: 2026-02-25
+tags: [masonera, muerte, skull, vida]
+tier-primario: "a"
+nivel-evidencia: "medio"
 publish: true
-created: 2026-02-25T22:08:54.638-03:00
-modified: 2026-02-27T13:22:56.484-03:00
-tags:
-  - masonera
-  - muerte
-  - skull
-  - vida
-cssclasses: ""
 ---
-
 
 # Iniciación De Muerte En Vida
 
@@ -30,7 +27,7 @@ cssclasses: ""
 ## Conexiones Críticas
 - [[Skull and Bones]]: El ritual de "La Tumba".
 - [[Masonería de Rito Escocés]]: El grado de Maestro como simbología de muerte y resurrección.
-- [[MK-Ultra]]: La versión científica y coercitiva de la fragmentación iniciática.
+- [[MKUltra\|MK-Ultra]]: La versión científica y coercitiva de la fragmentación iniciática.
 
 ## Cui Bono
 ¿Quién gana? La **Elite Inmutable**. La iniciación de muerte en vida asegura que el poder nunca sea permeable para los no-iniciados, creando una barrera psíquica insalvable entre los que "saben" (porque han muerto) y los que "creen" (porque siguen vivos en la simulación).

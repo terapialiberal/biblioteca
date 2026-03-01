@@ -1,15 +1,12 @@
 ---
+titulo: Estado Profundo (Deep State)
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [asesinato, deep, estado, state]
 publish: true
-created: 2026-01-29T19:17:12.299-03:00
-modified: 2026-02-27T13:06:19.311-03:00
-tags:
-  - asesinato
-  - deep
-  - estado
-  - state
-cssclasses: ""
 ---
-
 # Estado Profundo (Deep State)
 
 ## Perfil TL (Resumen Ejecutivo)
@@ -31,7 +28,7 @@ cssclasses: ""
 *   **Elecciones como distracción:** La idea de que "tu voto cuenta" es la capa de barniz que el Estado Profundo aplica para que la población se sienta partícipe mientras las decisiones reales se toman en habitaciones cerradas. Los medios de comunicación (Tier B de narrativa) se encargan de ridiculizar el concepto de "Deep State" como una fantasía para proteger su realidad.
 
 ## Conexiones Clave
-- [[Estados Unidos Estado profundo]] (El caso de estudio principal)
+- [[Estados Unidos Estado profundo\|Estados Unidos Estado Profundo]] (El caso de estudio principal)
 - [[Asesinato de JFK]] / [[9-11]] (Eventos profundos clave)
 - [[Continuity of Government (COG)]] (Su base legal secreta)
 - [[SDS (Supranational Deep State)]] (Cuando el Estado Profundo trasciende fronteras)

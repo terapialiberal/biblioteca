@@ -1,16 +1,13 @@
 ---
+titulo: SYNTHETIC BIOLOGY (TL V.2)
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "a"
+nivel-evidencia: "alto"
+tags: [jennifer, manufactura, synthetic, vida]
 publish: true
-created: 2026-02-25T15:45:47.484-03:00
-modified: 2026-02-27T13:24:00.827-03:00
-tags:
-  - jennifer
-  - manufactura
-  - synthetic
-  - vida
-cssclasses: ""
 ---
-
-# SYNTHETIC BIOLOGY (v12_1)
+# SYNTHETIC BIOLOGY (TL V.2)
 
 #### BLUF
 La Biología Sintética es la **Industrialización del Genoma**. No se trata de modificar la vida existente, sino de **Diseñar y Construir Life-Forms** desde cero (o mediante el ensamblaje de partes genéticas estandarizadas). En 2026, esta tecnología permite al **Tier A** crear sus propios "biorreceptores", patógenos de diseño y organismos de limpieza, eliminando la dependencia de la evolución natural y convirtiendo a la biosfera en un entorno de manufactura programable.
@@ -73,6 +70,7 @@ Es la herramienta de salvación ecológica más potente que tenemos. Podemos dis
 ¿Hasta qué punto la biología sintética está siendo utilizada para crear "contramedidas biológicas" para etnias específicas basándose en sus marcadores genéticos únicos?
 
 ---
-*Dossier forense v12_1 | La Manufactura de la Existencia*
+*Dossier forense TL V.2 | La Manufactura de la Existencia*
+
 
 

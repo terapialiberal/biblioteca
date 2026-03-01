@@ -1,5 +1,5 @@
 ---
-titulo: "Russiagate (v2.0): El Golpe Blando De La Inteligencia Contra La Urna"
+titulo: "Russiagate (TL V.2): El Golpe Blando De La Inteligencia Contra La Urna"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [contra, golpe, hillary, russiagate]
 publish: true
 ---
-# Russiagate (v2.0): El Golpe Blando De La Inteligencia Contra La Urna
+# Russiagate (TL V.2): El Golpe Blando De La Inteligencia Contra La Urna
 
 > [!ABSTRACT] Hipótesis Informativa
 > Russiagate es la **Operación de Guerra Psicológica de [[Tier B]]** más masiva y prolongada de la historia moderna de EE.UU. Lanzada por una alianza entre la comunidad de inteligencia (**[[CIA]]**, **[[FBI]]**) y el establishment del Partido Demócrata, su objetivo real no fue investigar una colusión con Rusia (la cual se demostró inexistente tras años de investigación), sino **Sabotear la Soberanía Popular** de la elección de **[[Donald Trump]]**. La función real del Russiagate fue la creación de un **Estado de Excepción Narrativo** donde el presidente electo fue tratado como un agente extranjero para paralizar su agenda, justificar el espionaje ilegal y movilizar al **[[Tier C]]** en un estado de histeria colectiva contra un enemigo externo ficticio.
@@ -39,7 +39,8 @@ El Russiagate nos enseña que **las democracias occidentales tienen servicios de
 ---
 **Versión:** 2.0
 **Enfoque:** Russiagate como operación de bandera falsa de inteligencia para deslegitimar a Trump, el rol del FBI y la campaña de Clinton, y el fracaso total de las acusaciones de colusión tras el informe Mueller y Durham.
-**Estado:** Refactoreado a v2.0 - Framework de Operaciones de Inteligencia y Guerra Psicológica.
+**Estado:** Refactoreado a TL V.2 - Framework de Operaciones de Inteligencia y Guerra Psicológica.
+
 
 
 

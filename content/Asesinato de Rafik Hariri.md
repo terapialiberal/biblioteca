@@ -1,15 +1,12 @@
 ---
+titulo: Asesinato De Rafik Hariri
+tipo: evento
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [asesinato, hariri, hezbollah, rafik]
 publish: true
-created: 2026-01-29T19:17:04.210-03:00
-modified: 2026-02-27T13:06:23.175-03:00
-tags:
-  - asesinato
-  - hariri
-  - hezbollah
-  - rafik
-cssclasses: ""
 ---
-
 # Asesinato De Rafik Hariri
 
 > [!INFO] Contexto
@@ -34,7 +31,7 @@ Sin embargo, investigadores independientes notan:
 - Patrón similar a otros asesinatos de "bandera falsa"
 
 ## Conexiones
-- [[Hezbollah]] (acusado)
+- [[00_Glosario - Conceptos Fase 1#Hezbollah\|Hezbollah]] (acusado)
 - Siria (acusada inicialmente)
 - Geopolítica de Líbano
 

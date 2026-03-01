@@ -1,5 +1,5 @@
 ---
-titulo: "Sentient World Simulation (v2.0): El Avatar Digital De La Humanidad"
+titulo: "Sentient World Simulation (TL V.2): El Avatar Digital De La Humanidad"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [avatar, digital, panptico, sentient]
 publish: true
 ---
-# Sentient World Simulation (v2.0): El Avatar Digital De La Humanidad
+# Sentient World Simulation (TL V.2): El Avatar Digital De La Humanidad
 
 > [!ABSTRACT] Hipótesis Informativa
 > Sentient World Simulation (SWS) es la **Arquitectura de Modelado Predictivo de [[Tier A]]** diseñada para crear una réplica digital en tiempo real de la población global. Propuesto originalmente por el comando de fuerzas conjuntas del **[[Pentágono]]**, su función real es la de un **"Oráculo Tecnocrático"**: un sistema alimentado por **[[Big Data]]** que crea agentes de IA para cada set humano real del **[[Tier C]]**, permitiendo a la Matrix simular crisis, guerras o campañas de propaganda para observar la reacción de las masas antes de ejecutarlas en la realidad física. SWS es la culminación del panóptico: ya no solo nos vigilan, sino que nos simulan para predecir y anular nuestra libre voluntad.
@@ -41,7 +41,8 @@ Sentient World Simulation nos enseña que **la Matrix ya no espera a que ocurra 
 ---
 **Versión:** 2.0
 **Enfoque:** El SWS como simulador global del Pentágono para predecir el comportamiento ciudadano, el rol de la Universidad de Purdue y el Big Data en la creación de avatares digitales y el uso de la simulación para la guerra cognitiva y el control social.
-**Estado:** Refactoreado a v2.0 - Framework de Simulación y Control Predictivo.
+**Estado:** Refactoreado a TL V.2 - Framework de Simulación y Control Predictivo.
+
 
 
 

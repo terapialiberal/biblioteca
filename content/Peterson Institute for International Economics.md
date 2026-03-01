@@ -1,5 +1,5 @@
 ---
-titulo: "Peterson Institute for International Economics (v2.0): El Oráculo De La Globalización"
+titulo: "Peterson Institute for International Economics (TL V.2): El Oráculo De La Globalización"
 tipo: organizacion
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [institute, neofeudalismo, orculo, peterson]
 publish: true
 ---
-# Peterson Institute for International Economics (v2.0): El Oráculo De La Globalización
+# Peterson Institute for International Economics (TL V.2): El Oráculo De La Globalización
 
 > [!ABSTRACT] Hipótesis Informativa
 > El Peterson Institute (PIIE) es el **Centro de Ingeniería Económica de [[Tier B]]** encargado de fabricar el consenso académico para la globalización extractiva. Fundado por **Peter G. Peterson** (ex Secretario de Comercio y jefe del **[[CFR]]**), el PIIE actúa como el laboratorio de ideas que legitima las políticas de libre comercio desigual, la austeridad para las naciones deudoras y la deslocalización industrial que ha erosionado la clase media de **[[Tier C]]**. Es el brazo ideológico que asegura que las decisiones del **[[Tier A]]** financiero (Wall Street/Blackstone) se presenten como "leyes económicas inevitables".
@@ -28,7 +28,7 @@ publish: true
 ## Conexiones Críticas
 - [[Peter Peterson]]: El fundador, nexo con el CFR y Blackstone.
 - [[CFR (Council on Foreign Relations)]]: La organización madre del pensamiento exterior de EE.UU.
-- [[Blackstone Group]]: Donde Peterson amasó su fortuna mediante el capital privado de Tier A.
+- [[00_Glosario - Conceptos Fase 1#Blackstone Group\|Blackstone Group]]: Donde Peterson amasó su fortuna mediante el capital privado de Tier A.
 - [[Consenso de Washington]]: El marco ideológico que el PIIE ayuda a mantener vivo.
 - [[NAFTA / TPP]]: Los tratados que el PIIE diseñó y promovió agresivamente.
 
@@ -38,7 +38,8 @@ El Peterson Institute nos enseña que **la economía es la continuación de la g
 ---
 **Versión:** 2.0
 **Enfoque:** El rol del PIIE en la legitimación del libre comercio desigual, la relación de su fundador con Blackstone y el CFR, y su impacto en la desindustrialización de Occidente.
-**Estado:** Refactoreado a v2.0 - Framework de Ingeniería Económica Global.
+**Estado:** Refactoreado a TL V.2 - Framework de Ingeniería Económica Global.
+
 
 
 

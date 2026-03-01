@@ -1,5 +1,5 @@
 ---
-titulo: "José López Rega (v2.0): El Pontífice Del Terror Paraestatal"
+titulo: "José López Rega (TL V.2): El Pontífice Del Terror Paraestatal"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [lpez, pontfice, rega, triple]
 publish: true
 ---
-# José López Rega (v2.0): El Pontífice Del Terror Paraestatal
+# José López Rega (TL V.2): El Pontífice Del Terror Paraestatal
 
 > [!ABSTRACT] Hipótesis Informativa
 > José López Rega constituye el **punto de sutura entre el ocultismo metafísico, la inteligencia transnacional y el exterminio político**. Como "El Brujo", utilizó el esoterismo para capturar la voluntad de la cúpula del poder peronista, mientras que como miembro de la **[[Logia P2]]**, actuó como el ejecutor local de la "Estrategia de la Tensión" diseñada por el [[Tier A]] atlantista. Su creación, la **[[Triple A]]**, fue el prototipo de ejército paraestatal que permitió al [[Tier B]] realizar la limpieza ideológica necesaria para el posterior asalto total de la dictadura militar.
@@ -45,6 +45,7 @@ José López Rega fue el **"Sacerdote de la Sangre"** del Estado Profundo argent
 **Versión:** 2.0
 **Enfoque:** Fusión de ocultismo y terror de estado, vínculos con la Logia P2 y la creación de la Triple A como herramienta de limpieza ideológica pre-dictatorial.
 **Estado:** Refactorización Completa.
+
 
 
 

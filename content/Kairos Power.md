@@ -1,16 +1,13 @@
 ---
+titulo: KAIROS POWER (TL V.2)
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "a"
+nivel-evidencia: "alto"
+tags: [alphabet, google, power, reactor]
 publish: true
-created: 2026-02-25T14:25:26.537-03:00
-modified: 2026-02-27T13:23:03.986-03:00
-tags:
-  - alphabet
-  - google
-  - power
-  - reactor
-cssclasses: ""
 ---
-
-# KAIROS POWER (v12_1)
+# KAIROS POWER (TL V.2)
 
 #### BLUF
 Kairos Power es el vehículo de **Soberanía Energética de [[Google]]**. En 2026, tras firmar el primer acuerdo masivo para el despliegue de múltiples SMRs, la empresa ha iniciado la fase crítica de pilotaje de sus reactores de **Sexta Generación** (Sales Fundidas). Google no está invirtiendo en energía limpia; está asegurando la **Pila de Carga Base** para su infraestructura de IA global.
@@ -73,6 +70,7 @@ Es simplemente un paso lógico hacia el Net Zero. Google tiene excedente de capi
 ¿Cuál es la relación entre Kairos y los laboratorios nacionales de EE.UU. para la transferencia de tecnología de enfriamiento de ojivas nucleares hacia usos civiles?
 
 ---
-*Versión: 1.0 (v12_1) | Dossier de Soberanía Energética*
+*Versión: 1.0 (TL V.2) | Dossier de Soberanía Energética*
+
 
 

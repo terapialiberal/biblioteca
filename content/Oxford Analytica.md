@@ -1,5 +1,5 @@
 ---
-titulo: "Oxford Analytica (v2.0): El Oráculo Académico Del Capital"
+titulo: "Oxford Analytica (TL V.2): El Oráculo Académico Del Capital"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [analytica, henry, orculo, oxford]
 publish: true
 ---
-# Oxford Analytica (v2.0): El Oráculo Académico Del Capital
+# Oxford Analytica (TL V.2): El Oráculo Académico Del Capital
 
 > [!ABSTRACT] Hipótesis Informativa
 > Oxford Analytica es la **red de inteligencia de guante blanco de [[Tier B]]** que utiliza la legitimidad de la Universidad de Oxford para suministrar datos estratégicos a corporaciones y gobiernos. Fundada por un ex-asesor de **[[Henry Kissinger]]**, la firma opera como un **Servicio de Espionaje Tercerizado**, destilando el conocimiento de más de 1,500 académicos para anticipar cambios geopolíticos y asegurar que la élite de **[[Tier A]]** pueda posicionar sus activos antes de que el **[[Tier C]]** perciba el cambio de rumbo. Es la mercantilización del conocimiento profundo para el mantenimiento de la hegemonía anglo-americana.
@@ -39,7 +39,8 @@ Oxford Analytica nos enseña que el conocimiento es el arma más cara de la Matr
 ---
 **Versión:** 2.0
 **Enfoque:** Uso del prestigio académico para el espionaje corporativo, conexión con la unidad "Plumbers" de Nixon y el rol de David Young como interface entre la academia y el Deep State.
-**Estado:** Refactoreado a v2.0 - Framework de Inteligencia Macro-geoestratégica.
+**Estado:** Refactoreado a TL V.2 - Framework de Inteligencia Macro-geoestratégica.
+
 
 
 

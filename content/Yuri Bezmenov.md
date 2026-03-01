@@ -1,15 +1,12 @@
 ---
+titulo: Yuri Bezmenov
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [bezmenov, escuela, naciones, yuri]
 publish: true
-created: 2026-01-29T19:17:44.953-03:00
-modified: 2026-02-27T13:06:37.743-03:00
-tags:
-  - bezmenov
-  - escuela
-  - naciones
-  - yuri
-cssclasses: ""
 ---
-
 # Yuri Bezmenov
 
 ## Resumen General
@@ -28,9 +25,9 @@ cssclasses: ""
 *   **Predicción:** Describió con precisión el estado actual de la cultura "Woke" décadas antes.
 
 ## Conexiones
-- [[Marxismo Cultural]]
-- [[KGB]]
-- [[Guerra Híbrida]]
+- [[00_Glosario - Conceptos Fase 1#Marxismo Cultural\|Marxismo Cultural]]
+- [[00_Glosario - Conceptos Fase 1#KGB\|KGB]]
+- [[00_Glosario - Conceptos Fase 1#Guerra Híbrida\|Guerra Híbrida]]
 - [[Escuela de Frankfurt]]
 
 

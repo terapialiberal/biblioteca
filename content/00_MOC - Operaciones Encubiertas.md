@@ -1,15 +1,12 @@
 ---
 publish: true
-created: 2026-02-24T13:31:46.461-03:00
-modified: 2026-02-27T13:21:56.178-03:00
-tags:
-  - 00-moc
-  - encubiertas
-  - manual-tl-conceptos-forenses
-  - operaciones
-cssclasses: ""
+titulo: 🕵️ MOC — OPERACIONES ENCUBIERTAS
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [00-moc, encubiertas, manual-tl-conceptos-forenses, operaciones]
 ---
-
 # 🕵️ MOC — OPERACIONES ENCUBIERTAS
 
 > **Axioma**: Toda operación tiene un objetivo de activo real detrás. La narrativa es el envoltorio.
@@ -53,7 +50,7 @@ cssclasses: ""
 ### Técnicas
 - [[Astroturfing]] — Movimientos falsos de base
 - [[Framing (Encuadre)]] — Cómo se construye la narrativa
-- [[Gaslighting (Político)]] — Negación de la realidad observable
+- [[00_Glosario - Conceptos Fase 1#Gaslighting (Político)\|Gaslighting (Político)]] — Negación de la realidad observable
 - [[Alarmismo Coordinado]] — Crisis fabricadas para homeostasis
 - [[Normalización (Proceso)]] — Overton Window en acción
 - [[Hipernormalización]] — Adam Curtis / Baudrillard
@@ -67,7 +64,7 @@ cssclasses: ""
 
 ### CIA / Deep State
 - [[Operación Gladio]] — Red de stay-behind europea
-- [[Operación Gladio B]] — La alianza Islam-OTAN
+- [[Operación Gladio\|Operación Gladio B]] — La alianza Islam-OTAN
 - [[Operación Condor]] — Latinoamérica como teatro de operaciones
 - [[Operación Paperclip]] — Nazis reciclados en el aparato americano
 - [[Operación Phoenix]] — Vietnam / programa de neutralización
@@ -87,12 +84,12 @@ cssclasses: ""
 - [[Continuidad del Gobierno]] — Rex 84 y planes de emergencia
 
 ### La Red Epstein (Kompromat Y Fallout 2026)
-- [[Jeffrey Epstein]] — El administrador del kompromat v12_1
+- [[Jeffrey Epstein]] — El administrador del kompromat TL V.2
 - [[Archivos Epstein (2026)]] — El vertido de 3.5M de páginas
 - [[Andrew Mountbatten-Windsor]] — El arresto de la corona británica
 - [[Peter Mandelson]] — El arresto del 'Lord de las Tinieblas'
 - [[Ghislaine Maxwell]] — La técnica operativa
-- [[Archivos Epstein (2024)]] — Antecedente de transparencia coreografiada
+- [[Archivos Epstein (2026)\|Archivos Epstein (2024)]] — Antecedente de transparencia coreografiada
 
 
 ## 🔫 ASESINATOS POLÍTICOS
@@ -141,19 +138,17 @@ cssclasses: ""
 - [[Estado profundo]] — El aparato que ejecuta estas operaciones
 - [[Deep State (Glosario)]] — Marco conceptual
 - [[Playbooks del Deep State]] — Los patrones repetibles
-- [[Estrategia de Tensión]] — La doctrina Gladio
+- [[Estrategia de la Tensión\|Estrategia de Tensión]] — La doctrina Gladio
 - [[Lawfare]] — La judicialización como arma
 
 
 
 ## 📊 NODOS AUTOMÁTICOS (Dataview)
 
-- [[Abu Dhabi’s G42\|Abu Dhabi’s G42]]
 - [[AFI\|AFI]]
 - [[Agencia de inteligencia\|Agencia de inteligencia]]
 - [[Chiche Gelblung\|Chiche Gelblung]]
 - [[Club Safari\|Club Safari]]
-- [[99_AI/Legacy/agent_old/workflows/dark\|dark]]
 - [[Feminismo e Inteligencia\|Feminismo e Inteligencia]]
 - [[Fuentes y Marcadores\|Fuentes y Marcadores]]
 - [[Gobernanza Algorítmica\|Gobernanza Algorítmica]]
@@ -164,14 +159,18 @@ cssclasses: ""
 - [[LA CIA CONSTRUYÓ CIENTOS DE SITIOS WEB ENCUBIERTOS\|LA CIA CONSTRUYÓ CIENTOS DE SITIOS WEB ENCUBIERTOS]]
 - [[Le Cercle - Wikispooks\|Le Cercle - Wikispooks]]
 - [[Mario Firmenich\|Mario Firmenich]]
+- [[Patron - Deepfake\|Patron - Deepfake]]
+- [[Patron - Need to Know (Necesidad de Saber)\|Patron - Need to Know (Necesidad de Saber)]]
+- [[Patron - Virtue Signalling (Señalizacion de Virtudes)\|Patron - Virtue Signalling (Señalizacion de Virtudes)]]
+- [[Red Epstein-Maxwell (Trampa de Inteligencia)\|Red Epstein-Maxwell (Trampa de Inteligencia)]]
 - [[Renta Básica Universal\|Renta Básica Universal]]
-- [[99_Recursos/Templates/Template - Radar Briefing\|Template - Radar Briefing]]
 - [[Triple Frontera (Inteligencia)\|Triple Frontera (Inteligencia)]]
 
 
 ---
 
 *MOC creado: 2026-02-24 | Parte del [[INDEX_MAESTRO]]*
+
 
 
 

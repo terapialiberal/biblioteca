@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:10.089-03:00
-modified: 2026-02-27T13:07:10.561-03:00
+modified: 2026-02-27T13:07:25.418-03:00
 tags:
   - bill
   - citigroup

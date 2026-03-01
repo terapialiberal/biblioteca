@@ -1,5 +1,5 @@
 ---
-titulo: "La Conexión Francesa (v2.0): La Logística Del Narcotráfico De Estado"
+titulo: "La Conexión Francesa (TL V.2): La Logística Del Narcotráfico De Estado"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [estado, francesa, logstica, mafia]
 publish: true
 ---
-# La Conexión Francesa (v2.0): La Logística Del Narcotráfico De Estado
+# La Conexión Francesa (TL V.2): La Logística Del Narcotráfico De Estado
 
 > [!ABSTRACT] Hipótesis Informativa
 > La "French Connection" constituyó el **primer gran experimento de simbiosis total entre el narcotráfico masivo y la inteligencia de [[Tier B]] (CIA/SDECE)**. Lo que la narrativa oficial presenta como una red criminal perseguida, fue en realidad una **infraestructura para-estatal** utilizada para financiar el control político de Europa y la desarticulación de movimientos sociales en EE.UU. a través de la adicción. Los laboratorios de Marsella operaron bajo protección de la inteligencia occidental a cambio de que la mafia corsa actuara como el brazo armado rompehuelgas contra el comunismo en el Mediterráneo, demostrando que para el [[Tier A]], la salud del [[Tier C]] es un costo aceptable para asegurar la hegemonía geopolítica.
@@ -45,6 +45,7 @@ La Conexión Francesa fue el **"Modelo Alfa" del Narcocapitalismo de Estado**. S
 **Versión:** 2.0
 **Enfoque:** Simbiosis entre CIA y mafia corsa para el control portuario anticomunista, uso de la heroína como herramienta de pacificación social en EE.UU. y financiamiento de operaciones negras de la Guerra Fría.
 **Estado:** Refactorización Completa.
+
 
 
 

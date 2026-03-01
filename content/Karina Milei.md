@@ -1,5 +1,5 @@
 ---
-titulo: "Karina Milei (v2.0): La Arquitecta Del Sostén Psico-Político"
+titulo: "Karina Milei (TL V.2): La Arquitecta Del Sostén Psico-Político"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [arquitecta, poltico, psico, sostn]
 publish: true
 ---
-# Karina Milei (v2.0): La Arquitecta Del Sostén Psico-Político
+# Karina Milei (TL V.2): La Arquitecta Del Sostén Psico-Político
 
 > [!ABSTRACT] Hipótesis Informativa
 > Karina Milei, denominada internamente como "El Jefe", constituye el **nodo de estabilidad emocional y operativa de la administración Milei**. Su función trasciende lo administrativo para ubicarse en la dimensión de la **biopolítica familiar y esotérica**. Como Secretaria General, actúa como el filtro absoluto de acceso al Presidente, gestionando las purgas de los cuadros de [[Tier B]] no subordinados y validando la narrativa mística que sostiene al mandatario. Karina es la pieza que permite que el discurso disruptivo de Javier Milei aterrice en una estructura de poder tradicional, asegurando la lealtad total del entorno presidencial hacia el "Triángulo de Hierro".
@@ -45,6 +45,7 @@ Karina Milei es la **"Guardiana del Arca del Poder"**. Su importancia reside en 
 **Versión:** 2.0
 **Enfoque:** Control del entorno presidencial, purgas internas por lealtad y el factor místico-emocional como motor de la gobernabilidad local.
 **Estado:** Refactorización Completa.
+
 
 
 

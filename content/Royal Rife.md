@@ -1,5 +1,5 @@
 ---
-titulo: "Royal Rife (v2.0): El Descifrador De La Resonancia Vital Y Su Supresión"
+titulo: "Royal Rife (TL V.2): El Descifrador De La Resonancia Vital Y Su Supresión"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,10 +7,10 @@ nivel-evidencia: "medio"
 tags: [informe, royal, supresin, vital]
 publish: true
 ---
-# Royal Rife (v2.0): El Descifrador De La Resonancia Vital Y Su Supresión
+# Royal Rife (TL V.2): El Descifrador De La Resonancia Vital Y Su Supresión
 
 > [!ABSTRACT] Hipótesis Informativa
-> Royal Raymond Rife fue el **Científico de [[Tier B]]** que descubrió la clave electromagnética para la erradicación de enfermedades infecciosas y oncológicas. Mediante la invención de su **Microscopio Universal** (capaz de observar patógenos vivos en resoluciones imposibles para la época) e identificando la **Frecuencia Oscilatoria Mortal (MOR)** de cada microorganismo, Rife demostró en 1934 que el cáncer podía ser curado mediante resonancia sin dañar el tejido sano. Su función real fue la de un **"Disruptor de la Matrix Farmacéutica"**: su tecnología fue sistemáticamente destruida por la **[[Asociación Médica Americana (AMA)]]** para proteger el modelo de negocio basado en la cronicidad y el tratamiento químico de los síntomas.
+> Royal Raymond Rife fue el **Científico de [[Tier B]]** que descubrió la clave electromagnética para la erradicación de enfermedades infecciosas y oncológicas. Mediante la invención de su **Microscopio Universal** (capaz de observar patógenos vivos en resoluciones imposibles para la época) e identificando la **Frecuencia Oscilatoria Mortal (MOR)** de cada microorganismo, Rife demostró en 1934 que el cáncer podía ser curado mediante resonancia sin dañar el tejido sano. Su función real fue la de un **"Disruptor de la Matrix Farmacéutica"**: su tecnología fue sistemáticamente destruida por la **[[Asociación Médica Americana\|Asociación Médica Americana (AMA)]]** para proteger el modelo de negocio basado en la cronicidad y el tratamiento químico de los síntomas.
 
 ## Análisis De Tiers
 
@@ -26,7 +26,7 @@ publish: true
 2.  **Destrucción de Activos Físicos**: Uso de sabotaje directo y persecución judicial para asegurar que las copias del Microscopio Universal y las máquinas de frecuencia originales desaparecieran, forzando al Tier C a depender de la tecnología de Tier A (como el microscopio electrónico, que mata las muestras e impide ver la vida en acción).
 
 ## Conexiones Críticas
-- [[Asociación Médica Americana (AMA)]]: El brazo ejecutor de la supresión comercial.
+- [[Asociación Médica Americana\|Asociación Médica Americana (AMA)]]: El brazo ejecutor de la supresión comercial.
 - [[Informe Flexner]]: El documento de Tier A que prohibió la medicina no química.
 - [[Nikola Tesla (Supresión)]]: Contemporáneo en la investigación de la resonancia y también suprimido.
 - [[Big Pharma]]: El beneficiario final de la desaparición de la tecnología Rife.
@@ -38,7 +38,8 @@ Royal Rife nos teaches que **en la Matrix, una cura barata es un crimen contra e
 ---
 **Versión:** 2.0
 **Enfoque:** Rife como el inventor de la cura por resonancia para el cáncer, la supresión violenta por parte de la AMA (Fishbein) y la superioridad de su microscopio universal sobre la tecnología actual.
-**Estado:** Refactoreado a v2.0 - Framework de Ciencia Suprimida y Libertad Sanitaria.
+**Estado:** Refactoreado a TL V.2 - Framework de Ciencia Suprimida y Libertad Sanitaria.
+
 
 
 

@@ -1,16 +1,13 @@
 ---
+titulo: BLACKROCK BUIDL (TL V.2)
+tipo: empresa
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [blackrock, buidl, larry, securitize]
 publish: true
-created: 2026-02-25T13:31:41.057-03:00
-modified: 2026-02-27T13:22:05.249-03:00
-tags:
-  - blackrock
-  - buidl
-  - larry
-  - securitize
-cssclasses: ""
 ---
-
-# BLACKROCK BUIDL (v12_1)
+# BLACKROCK BUIDL (TL V.2)
 
 #### BLUF
 BlackRock BUIDL (BlackRock USD Institutional Digital Liquidity Fund) es el **Caballo de Troya Institucional** en la infraestructura blockchain. En 2026, representa la transición definitiva del **Tier A** desde el control de las cuentas bancarias tradicionales al control del **Libro Mayor Programable**. No es "adopción de cripto"; es la **Absorción de la Tecnología Ledger** por parte de Larry Fink para convertir toda la riqueza del mundo en activos líquidos, trazables y confiscables en tiempo real bajo protocolos institucionales.
@@ -21,7 +18,7 @@ BlackRock BUIDL (BlackRock USD Institutional Digital Liquidity Fund) es el **Cab
 |-------|------|----------|-----------------|
 | [[Larry Fink]] | A | El Arquitecto del Sistema | Convertir a BlackRock en el único intermediario necesario para cualquier intercambio de valor global. |
 | [[Securitize]] | B | El Ejecutor Técnico | Proveer el marco regulatorio y tecnológico para que los valores tradicionales operen en redes blockchain. |
-| [[Ethereum]] (Fundación)| B | La Infraestructura de Captura | Permitir que la red sea colonizada por el capital institucional a cambio de legitimidad y liquidez. |
+| [[00_Glosario - Conceptos Fase 1#Ethereum\|Ethereum]] (Fundación)| B | La Infraestructura de Captura | Permitir que la red sea colonizada por el capital institucional a cambio de legitimidad y liquidez. |
 | [[Circle]] | B | El Proveedor de rampa (USDC)| Facilitar la salida y entrada del sistema fiduciario a la red BUIDL. |
 
 
@@ -73,6 +70,7 @@ Es la evolución necesaria para que el sistema financiero no colapse bajo su pro
 ¿Cuál es el protocolo de coordinación entre BlackRock y la Reserva Federal para el uso de BUIDL como una CBDC "en la sombra" antes del lanzamiento oficial del Dólar Digital?
 
 ---
-*Dossier forense v12_1 | La Programación Financiera del Mundo*
+*Dossier forense TL V.2 | La Programación Financiera del Mundo*
+
 
 

@@ -1,15 +1,12 @@
 ---
+titulo: Gary Webb
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [gary, operacin, rick, webb]
 publish: true
-created: 2026-01-29T19:17:14.693-03:00
-modified: 2026-02-27T13:07:37.336-03:00
-tags:
-  - gary
-  - operacin
-  - rick
-  - webb
-cssclasses: ""
 ---
-
 # Gary Webb
 
 ## Perfil TL (Resumen Ejecutivo)
@@ -31,7 +28,7 @@ cssclasses: ""
 *   "Periodista desacreditado". "Conspiranoico". Narrativas que utilizaron el descrédito profesional de Webb para que el público de Tier C ignorara la realidad de que sus propias agencias de seguridad estaban envenenando sus comunidades con crack para financiar guerras extranjeras.
 
 ## Conexiones Clave
-- [[CIA / Narcotráfico]] (El núcleo de su investigación)
+- [[CIA Narcotráfico\|CIA / Narcotráfico]] (El núcleo de su investigación)
 - [[Operación Mockingbird]] (La red que lo destruyó)
 - [[Rick Ross (Freeway)]] (Su fuente principal en la calle)
 - [[Irán-Contra]] (El marco histórico de su historia)

@@ -1,15 +1,12 @@
 ---
+titulo: "Lynn Forester De Rothschild: El Puente Entre El Capital Y La Política"
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [henry, jeffrey, poltica, rothschild]
 publish: true
-created: 2026-01-29T19:17:23.180-03:00
-modified: 2026-02-27T13:23:17.484-03:00
-tags:
-  - henry
-  - jeffrey
-  - poltica
-  - rothschild
-cssclasses: ""
 ---
-
 # Lynn Forester De Rothschild: El Puente Entre El Capital Y La Política
 
 > [!ABSTRACT] Resumen de Inteligencia
@@ -34,9 +31,10 @@ Lynn Forester es la prueba de que el poder no se divide en naciones, sino en red
 - **El Linaje:** [[Evelyn de Rothschild]], [[Henry Kissinger]] (Celestino político).
 - **Socios del Poder:** [[Bill Clinton]], [[Hillary Clinton]], [[Papa Francisco]] (Alianza por el Capitalismo Inclusivo).
 - **Sombra:** [[Jeffrey Epstein]] (Relación documentada en registros y correos).
-- **Medios:** [[The Economist]].
+- **Medios:** [[00_Glosario - Conceptos Fase 1#The Economist\|The Economist]].
 
-**Estado:** Refactoreado a v2.0 - Framework de Redes de Poder Global.
+**Estado:** Refactoreado a TL V.2 - Framework de Redes de Poder Global.
+
 
 
 

@@ -1,15 +1,12 @@
 ---
+titulo: Fundación Huésped (Biopolítica Local)
+tipo: organizacion
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [fundacin, husped, local, organizacin]
 publish: true
-created: 2026-01-29T19:17:14.479-03:00
-modified: 2026-02-27T13:07:27.284-03:00
-tags:
-  - fundacin
-  - husped
-  - local
-  - organizacin
-cssclasses: ""
 ---
-
 # Fundación Huésped (Biopolítica Local)
 
 ## Perfil TL (Resumen Ejecutivo)
@@ -31,7 +28,7 @@ cssclasses: ""
 *   "Ciencia al servicio de los derechos". "Derechos sexuales y reproductivos". "Cuidarte es cuidarnos". Narrativas afectivas que desactivan el pensamiento crítico del Tier C y evitan que se cuestione el conflicto de interés entre la fundación y sus financistas farmacéuticos.
 
 ## Conexiones Clave
-- [[Organización Mundial de la Salud (OMS)]] (Su marco de referencia)
+- [[Organización Mundial de la Salud\|Organización Mundial de la Salud (OMS)]] (Su marco de referencia)
 - [[Fundación Bill y Melinda Gates]] (Su socio de Tier A)
 - [[Big Pharma]] (Sus patrocinadores reales)
 - [[COVID-19 / Cuarentena Argentina]] (Su momento de mayor poder real)

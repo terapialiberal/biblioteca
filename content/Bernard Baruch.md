@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:05.201-03:00
-modified: 2026-02-27T13:06:55.863-03:00
+modified: 2026-02-27T13:07:15.868-03:00
 tags:
   - baruch
   - bernard

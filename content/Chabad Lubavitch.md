@@ -1,16 +1,13 @@
 ---
 publish: true
-created: 2026-01-29T19:17:07.254-03:00
-modified: 2026-02-27T13:22:18.552-03:00
-tags:
-  - benjamin
-  - infraestructura
-  - jared
-  - poder
-cssclasses: ""
+titulo: "Chabad Lubavitch (TL V.2): La Infraestructura De Coordinación Del Poder"
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [benjamin, infraestructura, jared, poder]
 ---
-
-# Chabad Lubavitch (v2.0): La Infraestructura De Coordinación Del Poder
+# Chabad Lubavitch (TL V.2): La Infraestructura De Coordinación Del Poder
 
 > [!ABSTRACT] Hipótesis Informativa
 > Chabad Lubavitch no constituye meramente un movimiento religioso jasídico, sino la **infraestructura de coordinación transnacional más resiliente del [[Tier A]]**. Operando como una red de "embajadas espirituales" en 100+ países, Chabad funciona como el tejido conectivo que vincula al Kremlin (**Putin**), la Casa Blanca de la era Trump (**[[Jared Kushner]]**), el gobierno de Israel (**Netanyahu**) y las oligarquías globales. Su importancia estratégica reside en su capacidad para actuar como un canal de comunicación informal (*back-channel*) impenetrable, donde la teología mesiánica (la llegada del Mashiaj) sirve como el software ideológico para justificar la expansión territorial israelí y la consolidación de un orden mundial oligárquico basado en la red de lealtades jasídicas.
@@ -22,7 +19,7 @@ cssclasses: ""
 * **La Operativa Putin-Lazar:** En Rusia, Putin utilizó a Chabad (vía el rabino **[[Berel Lazar]]**) para destruir a los oligarcas judíos seculares de los 90 y reemplazarlos con una élite leal (Leviev, Abramovich) coordinada bajo el ala del Kremlin. A cambio, Chabad obtuvo el monopolio de la vida judía en Rusia y un canal directo con los líderes más poderosos de Occidente. El Tier A usa Chabad para proyectar a Rusia como la defensora de los "valores tradicionales" frente a una modernidad decadente.
 
 ### Tier B: Los Administradores Del Networking Y El Flujo (The Brokers)
-* **Matching Geopolítico y los Acuerdos de Abraham:** En el nivel de Tier B, rabinos de Chabad como **Levi Shemtov** en DC actuaron como los facilitadores invisibles de los **[[Acuerdos de Abraham]]**, conectando a líderes del Golfo con operativos israelíes y estadounidenses en cenas "espirituales" que eludían el registro de lobbies. Chabad es el hub de networking donde se fraguan las alianzas de defensa y tecnología de Tier B bajo cobertura de diálogo interreligioso.
+* **Matching Geopolítico y los Acuerdos de Abraham:** En el nivel de Tier B, rabinos de Chabad como **Levi Shemtov** en DC actuaron como los facilitadores invisibles de los **[[00_Glosario - Conceptos Fase 1#Acuerdos de Abraham\|Acuerdos de Abraham]]**, conectando a líderes del Golfo con operativos israelíes y estadounidenses en cenas "espirituales" que eludían el registro de lobbies. Chabad es el hub de networking donde se fraguan las alianzas de defensa y tecnología de Tier B bajo cobertura de diálogo interreligioso.
 * **Gestión de Capital Soberano y Offshore:** Oligarcas como **[[Lev Leviev]]** y **Roman Abramovich**, principales patrones de Chabad, utilizan la red para mover capitales y asegurar influencias entre Moscú, Tel Aviv y Nueva York. La red de centros Chabad funciona como una infraestructura logística que puede facilitar desde la liberación de rehenes hasta la protección de activos bajo investigación de lavado de dinero.
 
 ### Tier C: La Población En La Ficción De La Bondad Jasídica
@@ -40,7 +37,7 @@ cssclasses: ""
 - [[Vladimir Putin]] / [[Berel Lazar]]: La simbiosis estado-religión en Rusia.
 - [[Benjamin Netanyahu]]: El ejecutor del mandato territorial mesiánico.
 - [[Lev Leviev]] / [[Roman Abramovich]]: Los financistas de la infraestructura global.
-- [[Acuerdos de Abraham]]: La gran obra de ingeniería diplomática facilitada por Chabad.
+- [[00_Glosario - Conceptos Fase 1#Acuerdos de Abraham\|Acuerdos de Abraham]]: La gran obra de ingeniería diplomática facilitada por Chabad.
 - [[Mega Group]]: La red de billionaires que utiliza a Chabad como base de networking social y espiritual.
 
 ## Conclusión Del Análisis
@@ -50,6 +47,7 @@ Chabad Lubavitch es el **"Sistema Nervioso de la Ã‰lite Transnacional"**. Su 
 **Versión:** 2.0
 **Enfoque:** Infraestructura de coordinación transnacional, nexo Putin-Trump-Netanyahu, papel de los oligarcas (Leviev/Abramovich), teología de la Gran Israel y el rol facilitador en los Acuerdos de Abraham.
 **Estado:** Refactorización Completa e Integración de Triaje OSINT.
+
 
 
 

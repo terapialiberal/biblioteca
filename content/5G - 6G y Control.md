@@ -1,14 +1,10 @@
 ---
 publish: true
-created: 2026-01-29T19:17:02.612-03:00
-modified: 2026-02-27T16:44:36.686-03:00
-tags:
-  - intel
-  - analisis
-  - v12_0
-cssclasses: ""
+titulo: "5G - 6G: La Infraestructura De Control Total"
+tipo: concepto
+fecha: 2026-02-27
+tags: [intel, analisis, TL V.2]
 ---
-
 
 # 5G - 6G: La Infraestructura De Control Total
 
@@ -38,6 +34,7 @@ cssclasses: ""
 **Versión:** 1.0
 **Enfoque:** Análisis de Infraestructura de Control
 **Estado:** Informe de Inteligencia Activo
+
 
 
 

@@ -1,5 +1,5 @@
 ---
-titulo: "Plan Kalergi (v2.0): El Diseño De La Nueva Europa"
+titulo: "Plan Kalergi (TL V.2): El Diseño De La Nueva Europa"
 tipo: evento
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [europa, george, nueva, unin]
 publish: true
 ---
-# Plan Kalergi (v2.0): El Diseño De La Nueva Europa
+# Plan Kalergi (TL V.2): El Diseño De La Nueva Europa
 
 > [!ABSTRACT] Hipótesis Informativa
 > El Plan Kalergi es la **Estrategia de Reemplazo Demográfico de [[Tier A]]** para disolver las identidades nacionales europeas y crear una población homogénea, dócil y fácil de gobernar. Basado en los escritos del conde **Richard von Coudenhove-Kalergi** (fundador de la Unión Paneuropea), el plan propone la creación de una raza mestiza ("euroasiática-negroide") que carezca de raíces históricas profundas, facilitando el control por parte de una aristocracia tecnocrática. Este diseño se ejecuta hoy mediante la promoción de la inmigración masiva descontrolada, financiada por entidades de **[[Tier B]]** (como las ONGs de Soros) y legitimada por organismos trasnacionales bajo el pretexto del "envejecimiento poblacional".
@@ -38,7 +38,8 @@ El Plan Kalergi nos enseña que **las poblaciones son vistas por la élite como 
 ---
 **Versión:** 2.0
 **Enfoque:** La tesis original de Kalergi sobre la raza mestiza dócil, el financiamiento de Soros y las ONGs, y el uso del reemplazo demográfico para consolidar el Super-Estado Europeo.
-**Estado:** Refactoreado a v2.0 - Framework de Ingeniería Demográfico.
+**Estado:** Refactoreado a TL V.2 - Framework de Ingeniería Demográfico.
+
 
 
 

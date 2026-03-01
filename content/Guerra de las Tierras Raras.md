@@ -1,15 +1,12 @@
 ---
+titulo: Guerra De Las Tierras Raras
+tipo: evento
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [agenda, guerra, raras, tierras]
 publish: true
-created: 2026-01-29T19:17:16.307-03:00
-modified: 2026-02-27T13:06:52.371-03:00
-tags:
-  - agenda
-  - guerra
-  - raras
-  - tierras
-cssclasses: ""
 ---
-
 # Guerra De Las Tierras Raras
 
 ## Perfil TL (Resumen Ejecutivo)
@@ -31,7 +28,7 @@ cssclasses: ""
 *   "Salvando el planeta con energía limpia". Narrativa de Tier B que oculta el hecho de que la minería de tierras raras en China destruye provincias enteras con residuos radiactivos y tóxicos. El Tier C compra un coche eléctrico para "sentirse bien", sin saber que su batería es el resultado de un monopolio geopolítico que ha esclavizado la seguridad nacional de su propio país.
 
 ## Conexiones Clave
-- [[China (Rise of)]] (Su estrategia de dominio)
+- [[00_Glosario - Conceptos Fase 1#China (Rise of)\|China (Rise of)]] (Su estrategia de dominio)
 - [[Agenda del Cambio Climático / Green New Deal]] (Su víctima dependiente)
 - [[F-35 / Complejo Militar-Industrial]] (Su vulnerabilidad táctica)
 - [[Collar de Perlas (Estrategia China)]] (Su marco de expansión)

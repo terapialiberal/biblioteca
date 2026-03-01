@@ -1,5 +1,5 @@
 ---
-titulo: "Ruta De La Cocaína: Los Balcanes Y África (v2.0): El Corredor Narco-Soberano"
+titulo: "Ruta De La Cocaína: Los Balcanes Y África (TL V.2): El Corredor Narco-Soberano"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [balcanes, cocana, otan, soberano]
 publish: true
 ---
-# Ruta De La Cocaína: Los Balcanes Y África (v2.0): El Corredor Narco-Soberano
+# Ruta De La Cocaína: Los Balcanes Y África (TL V.2): El Corredor Narco-Soberano
 
 > [!ABSTRACT] Hipótesis Informativa
 > La Ruta de la Cocaína que conecta Sudamérica con Europa a través de África Occidental y los Balcanes es la **Infraestructura Logística de [[Tier A]]** que ha sustituido los canales tradicionales de Miami/Caribe. Esta ruta no es solo una operación criminal, sino una **Estrategia Geopolítica de Financiación Paralela** donde los "Narco-Estados" africanos (como Guinea-Bissau) y los protectorados de inteligencia en los Balcanes (como **[[Kosovo]]**) actúan como estaciones de paso protegidas. Su función real es proveer de liquidez negra a grupos insurgentes, agencias de inteligencia y redes terroristas, operando bajo la sombra estratégica de la **[[OTAN]]** y la complacencia de las potencias coloniales de la **[[Françafrique]]**.
@@ -42,7 +42,8 @@ La Ruta de la Cocaína nos enseña que **el crimen organizado es la mano izquier
 ---
 **Versión:** 2.0
 **Enfoque:** La ruta como eje geopolítico Sudamérica-África-Europa, el rol de la mafia albanesa y el PCC, la complicidad de instituciones en Kosovo y el papel de Guinea-Bissau como narco-estado de paso.
-**Estado:** Refactoreado a v2.0 - Framework de Geopolítica del Narcotráfico.
+**Estado:** Refactoreado a TL V.2 - Framework de Geopolítica del Narcotráfico.
+
 
 
 

@@ -1,5 +1,5 @@
 ---
-titulo: "Silenciamiento De La Mayoría (v2.0): La Arquitectura Del Aislamiento Social"
+titulo: "Silenciamiento De La Mayoría (TL V.2): La Arquitectura Del Aislamiento Social"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [espiral, gran, mayora, silenciamiento]
 publish: true
 ---
-# Silenciamiento De La Mayoría (v2.0): La Arquitectura Del Aislamiento Social
+# Silenciamiento De La Mayoría (TL V.2): La Arquitectura Del Aislamiento Social
 
 > [!ABSTRACT] Hipótesis Informativa
 > El Silenciamiento de la Mayoría es la **Operación Psicopolítica de [[Tier B]]** diseñada para neutralizar la voluntad del **[[Tier C]]** mediante la distorsión de la percepción social. Basado en la teoría de la **[[Espiral del Silencio]]**, su función real en la Matrix es la de un **"Mecanismo de Desactivación Democrática"**: utilizar los medios masivos y los algoritmos de redes sociales para proyectar opiniones minoritarias radicales (Woke, agendas de Tier A) como si fueran el consenso mayoritario, induciendo al individuo soberano a la autocensura por miedo al aislamiento o al linchamiento digital.
@@ -40,9 +40,10 @@ El Silenciamiento de la Mayoría nos enseña que **el poder de la Matrix reside 
 
 **Versión:** 2.0
 **Enfoque:** El silenciamiento como técnica de control social mediante la distorsión de la percepción de las mayorías, el papel de los algoritmos y los medios en la creación de falsos consensos y el uso del miedo al aislamiento para desactivar la resistencia del Tier C.
-**Estado:** Refactoreado a v2.0 - Framework de Psicología de Masas y Control Narrativo. 
+**Estado:** Refactoreado a TL V.2 - Framework de Psicología de Masas y Control Narrativo. 
 ---
 **Nota de Sincronización:** Este archivo unifica las teorías de Noelle-Neumann con la realidad de la censura digital moderna.
+
 
 
 

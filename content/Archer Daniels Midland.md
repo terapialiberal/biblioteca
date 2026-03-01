@@ -1,15 +1,12 @@
 ---
+titulo: Archer Daniels Midland (ADM)
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [archer, bunge, cargill, daniels]
 publish: true
-created: 2026-01-29T19:17:03.800-03:00
-modified: 2026-02-27T13:21:59.922-03:00
-tags:
-  - archer
-  - bunge
-  - cargill
-  - daniels
-cssclasses: ""
 ---
-
 # Archer Daniels Midland (ADM)
 
 ## Resumen Ejecutivo
@@ -32,7 +29,7 @@ cssclasses: ""
 
 ## Conexiones Clave
 - [[Cargill]], [[Bunge]] y [[Louis Dreyfus]] (Los otros jinetes del cartel ABCD)
-- [[Monsanto / Bayer]] (Relación simbiótica de insumos)
+- [[00_Glosario - Conceptos Fase 1#Monsanto / Bayer\|Monsanto / Bayer]] (Relación simbiótica de insumos)
 - [[BlackRock]] y [[Vanguard]] (Accionistas mayoritarios)
 
 ## Fuentes

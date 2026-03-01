@@ -1,5 +1,5 @@
 ---
-titulo: "Operación Soberanía (v2.0): El Abismo Del Nacionalismo De Cuartel"
+titulo: "Operación Soberanía (TL V.2): El Abismo Del Nacionalismo De Cuartel"
 tipo: evento
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [cuartel, guerra, nacionalismo, soberana]
 publish: true
 ---
-# Operación Soberanía (v2.0): El Abismo Del Nacionalismo De Cuartel
+# Operación Soberanía (TL V.2): El Abismo Del Nacionalismo De Cuartel
 
 > [!ABSTRACT] Hipótesis Informativa
 > La Operación Soberanía fue el plan de invasión militar de Argentina contra Chile en 1978 por el control de las islas del Canal Beagle. Representa la **culminación del nacionalismo desviado de [[Tier B]]**, donde dos dictaduras enfrentadas por una frontera mínima estuvieron a punto de sacrificar a miles de ciudadanos de **[[Tier C]]** para ganar legitimidad interna. El hecho de que la guerra fuera detenida por una mediación papal de último minuto revela cómo el **[[Vaticano]]** actúa como el interface supremo de resolución de conflictos cuando los operadores de Tier B pierden el control de la dialéctica de la violencia.
@@ -39,7 +39,8 @@ La Operación Soberanía nos enseña que el nacionalismo es a menudo el último 
 ---
 **Versión:** 2.0
 **Enfoque:** Nacionalismo como herramienta de control interno en dictaduras, rol mediador del Vaticano y la conexión causal con la futura Guerra de Malvinas.
-**Estado:** Refactoreado a v2.0 - Framework de Conflicto Regional.
+**Estado:** Refactoreado a TL V.2 - Framework de Conflicto Regional.
+
 
 
 

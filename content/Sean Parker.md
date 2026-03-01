@@ -1,5 +1,5 @@
 ---
-titulo: "Sean Parker (v2.0): El Confesor De La Adicción Algorítmica"
+titulo: "Sean Parker (TL V.2): El Confesor De La Adicción Algorítmica"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [algortmica, loops, mark, parker]
 publish: true
 ---
-# Sean Parker (v2.0): El Confesor De La Adicción Algorítmica
+# Sean Parker (TL V.2): El Confesor De La Adicción Algorítmica
 
 > [!ABSTRACT] Hipótesis Informativa
 > Sean Parker es el **Operador de [[Tier B]]** que ha alternado entre la ruptura del orden tradicional (Napster) y la construcción de la infraestructura de captura de atención más poderosa de la historia (Facebook). Como primer presidente de Facebook, Parker fue instrumental en la transformación de la red social en un motor de **Modificación del Comportamiento**. Su función real en la Matrix ha sido la de un **"Ingeniero de la Dopamina"**: en una confesión pública sin precedentes en 2017, admitió que Facebook fue diseñado intencionalmente para explotar "vulnerabilidades en la psicología humana", convirtiendo al individuo de **[[Tier C]]** en un receptor pasivo de estímulos diseñados para maximizar el tiempo de permanencia y el consumo de datos.
@@ -30,7 +30,7 @@ publish: true
 
 ## Conexiones Críticas
 - [[Mark Zuckerberg]]: Su socio original en la captura de la red social.
-- [[Facebook (Orígenes)]]: La plataforma donde implementó sus teorías de adicción.
+- [[00_Glosario - Conceptos Fase 1#Facebook (Orígenes)\|Facebook (Orígenes)]]: La plataforma donde implementó sus teorías de adicción.
 - [[Chamath Palihapitiya]]: Otro ex-ejecutivo que denunció el diseño adictivo del sistema.
 - [[Napster]]: El proyecto que destruyó la industria discográfica tradicional.
 - [[Capitalismo de Vigilancia]]: El modelo económico que ayudó a cimentar.
@@ -41,7 +41,8 @@ Sean Parker nos enseña que **dentro de la Matrix, tu atención es el recurso m�
 ---
 **Versión:** 2.0
 **Enfoque:** Parker como primer presidente de Facebook, su confesión sobre el diseño adictivo de las redes sociales (hackeo de dopamina) y su transición hacia la biotecnología de Tier A.
-**Estado:** Refactoreado a v2.0 - Framework de Psicología del Comportamiento y Capitalismo de Vigilancia.
+**Estado:** Refactoreado a TL V.2 - Framework de Psicología del Comportamiento y Capitalismo de Vigilancia.
+
 
 
 

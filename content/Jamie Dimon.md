@@ -1,5 +1,13 @@
 ---
-titulo: "Jamie Dimon (v2.0): El Rey Del Riesgo Moral"
+titulo: Jamie Dimon
+tipo: 'organizacion'
+tier-primario: 'a'
+nivel-evidencia: 'medio'
+tags: [clasificado-ai]
+publish: true
+---
+﻿---
+titulo: "Jamie Dimon (TL V.2): El Rey Del Riesgo Moral"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +15,7 @@ nivel-evidencia: "medio"
 tags: [dimon, jeffrey, reserva, riesgo]
 publish: true
 ---
-# Jamie Dimon (v2.0): El Rey Del Riesgo Moral
+# Jamie Dimon (TL V.2): El Rey Del Riesgo Moral
 
 > [!ABSTRACT] Hiptesis Informativa
 > Jamie Dimon es la **encarnacin del Soberano Financiero post-2008**. Como jefe de [[J.P. Morgan]], ha perfeccionado el modelo de **"Inmunidad Sistmica"**: un estado donde la corporacin es tan vital para la infraestructura del dlar que sus crmenes (lavado de dinero, manipulacin de metales preciosos, complicidad en trfico humano) son tratados como simples costos operativos pagaderos mediante multas. Dimon no dirige un banco; dirige una extensin del Tesoro de EE.UU. que utiliza las crisis para centralizar el capital y eliminar cualquier vestigio de competencia financiera para el [[Tier A]].
@@ -42,9 +50,10 @@ publish: true
 Jamie Dimon es el **"Intocable de la Matrix"**. Su carrera es la prueba de que el contrato social se ha roto: existen leyes para el Tier C y multas negociables para el Tier A. Dimon no es solo un banquero; es el **administrador de la realidad econmica** que nos susurra que el sistema es estable mientras lo vaca por dentro. Cuando Dimon habla de "nubarrones en el horizonte", no est prediciendo una tormenta; est avisando que el Tier A ha decidido que es hora de otra cosecha y que su banco ya tiene listo el granero para quedarse con lo que quede de tu esfuerzo.
 
 ---
-**Versi�n:** 2.0
-**Enfoque:** Inmunidad sist�mica, consolidaci�n de la banca monopol�stica y el nexo con redes de poder oscuro (Epstein).
-**Estado:** Refactorizaci�n Completa.
+**Versiï¿½n:** 2.0
+**Enfoque:** Inmunidad sistï¿½mica, consolidaciï¿½n de la banca monopolï¿½stica y el nexo con redes de poder oscuro (Epstein).
+**Estado:** Refactorizaciï¿½n Completa.
+
 
 
 

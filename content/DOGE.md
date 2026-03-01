@@ -1,15 +1,12 @@
 ---
+titulo: "DOGE (Departamento De Eficiencia): La Purga Tecnocrática"
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [departamento, elon, tecnocrtica, vivek]
 publish: true
-created: 2026-01-29T19:17:10.457-03:00
-modified: 2026-02-27T13:22:30.799-03:00
-tags:
-  - departamento
-  - elon
-  - tecnocrtica
-  - vivek
-cssclasses: ""
 ---
-
 # DOGE (Departamento De Eficiencia): La Purga Tecnocrática
 
 > [!ABSTRACT] BLUF (Bottom Line Up Front)
@@ -45,6 +42,7 @@ cssclasses: ""
 ---
 **Falsabilidad**: Si la burocracia federal logra reorganizarse y bloquear las órdenes de DOGE mediante el poder judicial, la "Purga Tecnocrática" se estancaría y el Estado tradicional recuperaría el control.
 
-*Versión: 2.0 | Protocolo TL-INTEL v12_0*
+*Versión: 2.0 | Protocolo TL-INTEL TL V.2*
+
 
 

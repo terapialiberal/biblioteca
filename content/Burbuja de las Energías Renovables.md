@@ -1,15 +1,12 @@
 ---
+titulo: Burbuja De Las Renovables (Offshore Wind)
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [blackrock, burbuja, energas, offshore]
 publish: true
-created: 2026-01-29T19:17:06.053-03:00
-modified: 2026-02-27T13:22:09.088-03:00
-tags:
-  - blackrock
-  - burbuja
-  - energas
-  - offshore
-cssclasses: ""
 ---
-
 # Burbuja De Las Renovables (Offshore Wind)
 
 ## Resumen General
@@ -24,7 +21,7 @@ En 2023/24, empresas como Orsted y BP cancelaron proyectos masivos de parques e�
 ## Conexiones
 - [[Agenda 2030]]
 - [[BlackRock]]
-- [[Crisis Energética]]
+- [[00_Glosario - Conceptos Fase 1#Crisis Energética\|Crisis Energética]]
 
 
 

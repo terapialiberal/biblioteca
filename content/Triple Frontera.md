@@ -1,15 +1,12 @@
 ---
+titulo: Triple Frontera
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [frontera, hezbollah, mossad, triple]
 publish: true
-created: 2026-01-29T19:17:41.318-03:00
-modified: 2026-02-27T13:06:36.842-03:00
-tags:
-  - frontera
-  - hezbollah
-  - mossad
-  - triple
-cssclasses: ""
 ---
-
 # Triple Frontera
 
 ## Resumen Ejecutivo
@@ -35,7 +32,7 @@ cssclasses: ""
 ## Conexiones
 - [[Mossad]]
 - [[CIA]]
-- [[Hezbollah]]
+- [[00_Glosario - Conceptos Fase 1#Hezbollah\|Hezbollah]]
 
 ## Fuentes
 - Informes del Commando Sur de EEUU sobre la Triple Frontera a.

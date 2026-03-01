@@ -1,5 +1,5 @@
 ---
-titulo: "Prison Planet (v2.0): La Tierra Como Granja De Almas"
+titulo: "Prison Planet (TL V.2): La Tierra Como Granja De Almas"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [arcontes, planet, prison, tierra]
 publish: true
 ---
-# Prison Planet (v2.0): La Tierra Como Granja De Almas
+# Prison Planet (TL V.2): La Tierra Como Granja De Almas
 
 > [!ABSTRACT] Hipótesis Informativa
 > La teoría del Prison Planet sostiene que la Tierra es una **Instalación de Cosecha Energética de [[Tier A]] Metafísico**. Basándose en el gnosticismo antiguo y filtraciones modernas de visión remota, postula que el ciclo de muerte y reencarnación es una **Trampa Tecnológica** diseñada por entidades no humanas (**[[Arcontes]]**) para borrar la memoria del individuo de **[[Tier C]]** y reciclar su esencia vital. El objetivo es la producción constante de **[[Loosh (Concepto)]]** (energía emocional negativa: miedo, dolor, ira) que alimenta a los controladores de la Matrix, manteniendo a la humanidad en un estado de amnesia perpetua sobre su verdadera naturaleza divina y soberana.
@@ -40,7 +40,8 @@ Prison Planet es la conspiración final. Nos enseña que la Matrix no termina al
 ---
 **Versión:** 2.0
 **Enfoque:** La Tierra como sistema cerrado de cosecha energética, la trampa de la luz post-mortem y el rol del gnosticismo en la detección del engaño arcontic.
-**Estado:** Refactoreado a v2.0 - Framework de Escatología Crítica.
+**Estado:** Refactoreado a TL V.2 - Framework de Escatología Crítica.
+
 
 
 

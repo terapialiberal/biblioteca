@@ -1,5 +1,5 @@
 ---
-titulo: "Noam Chomsky (v2.0): El Maestro De La Disidencia Permitida"
+titulo: "Noam Chomsky (TL V.2): El Maestro De La Disidencia Permitida"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [disidencia, jeffrey, manufacturing, permitida]
 publish: true
 ---
-# Noam Chomsky (v2.0): El Maestro De La Disidencia Permitida
+# Noam Chomsky (TL V.2): El Maestro De La Disidencia Permitida
 
 > [!ABSTRACT] Hipótesis Informativa
 > Noam Chomsky funciona como el **Gatekeeper definitivo de la Izquierda Intelectual**. Aunque su análisis sobre la propaganda (Manufacturing Consent) es una herramienta de valor incalculable para el **[[Tier C]]**, su función sistémica es la de un **Muro de Contención**. Chomsky legitima la crítica a las corporaciones pero deslegitima el cuestionamiento a las redes profundas de inteligencia y a los eventos traumáticos estructurales (9/11, JFK), etiquetándolos preventivamente como "conspiraciones". Es el intelectual que permite al **[[Tier A]]** mantener la disidencia dentro de un corral académico seguro y previsible.
@@ -39,7 +39,8 @@ Noam Chomsky es el mapa que te muestra todas las salidas prohibidas para asegura
 ---
 **Versión:** 2.0
 **Enfoque:** Gatekeeping intelectual, conexiones con Epstein y el rol del MIT en la disidencia controlada de izquierda.
-**Estado:** Refactoreado a v2.0 - Framework de Contención Intelectual.
+**Estado:** Refactoreado a TL V.2 - Framework de Contención Intelectual.
+
 
 
 

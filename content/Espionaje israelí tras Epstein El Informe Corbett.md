@@ -1,15 +1,11 @@
 ---
+tipo: "articulo"
+titulo: Espionaje Israelí Tras Epstein | El Informe Corbett
+fuente: "https://corbettreport.com/israeli-spying-after-epstein/"
+fecha: 2026-02-15
+tags: [espionaje, israel, epstein, ciberseguridad]
 publish: true
-created: 2026-02-22T12:38:50.624-03:00
-modified: 2026-02-27T13:22:39.319-03:00
-tags:
-  - espionaje
-  - israel
-  - epstein
-  - ciberseguridad
-cssclasses: ""
 ---
-
 
 # Espionaje Israelí Tras Epstein | El Informe Corbett
 
@@ -33,7 +29,7 @@ El veredicto sobre [[Jeffrey Epstein]] es que actuó como un espía que trabajab
 
 Tras la muerte de [[Jeffrey Epstein]], la influencia israelí se canaliza a través de la industria de la ciberseguridad. La empresa [[Carbyne]] (originalmente [[Reporty]]), presidida por [[Ehud Barak]] y financiada por [[Jeffrey Epstein]] y [[Peter Thiel]], fue fundada por [[Amir Elichai]], un veterano de la [[Unidad 8200]]. Otros miembros del consejo incluyen a [[Lital Leshem]], [[Alex Dizengof]] (ex ciberseguridad en la oficina del Primer Ministro) y [[Pinchas Berkus]] (antiguo general de la [[Unidad 8200]]). Esta unidad es responsable de operaciones como [[Stuxnet]], el ataque al reactor nuclear sirio en 2007, y la detonación remota de dispositivos en [[Líbano]] y [[Siria]].
 
-La transición del espionaje se marca por el paso de las trampas de miel de carne y hueso a la vigilancia panóptica tipo [[Palantir]]. Mientras que el chantaje sexual clásico de figuras como [[J. Edgar Hoover]] o el [[KGB]] requería instalaciones intervenidas, la distopía digital actual permite el seguimiento 24/7 a través de smartphones. Empresas como [[Comverse Infosys]], [[NSO Group]] (creadores de [[Pegasus]]), [[Toka]] y [[Paragon Solutions]] permiten a los gobiernos espiar disidentes y periodistas. Recientemente, la administración [[Donald Trump]] levantó sanciones a ejecutivos del consorcio [[Intellexa]], fundado por [[Tal Dilian]], mientras inversores estadounidenses como [[Integrity Partners]] adquieren empresas de software espía sancionadas como [[Saito Tech Ltd]].
+La transición del espionaje se marca por el paso de las trampas de miel de carne y hueso a la vigilancia panóptica tipo [[Palantir]]. Mientras que el chantaje sexual clásico de figuras como [[J. Edgar Hoover]] o el [[00_Glosario - Conceptos Fase 1#KGB\|KGB]] requería instalaciones intervenidas, la distopía digital actual permite el seguimiento 24/7 a través de smartphones. Empresas como [[Comverse Infosys]], [[NSO Group]] (creadores de [[Pegasus]]), [[Toka]] y [[Paragon Solutions]] permiten a los gobiernos espiar disidentes y periodistas. Recientemente, la administración [[Donald Trump]] levantó sanciones a ejecutivos del consorcio [[Intellexa]], fundado por [[Tal Dilian]], mientras inversores estadounidenses como [[Integrity Partners]] adquieren empresas de software espía sancionadas como [[Saito Tech Ltd]].
 
 ## 🖍️ Highlights
 
@@ -53,9 +49,9 @@ La transición del espionaje se marca por el paso de las trampas de miel de carn
 
 ## 🧠 Entidades Detectadas
 
-**Personas:** [[Jeffrey Epstein]] — [[Ehud Barak]] — [[Benjamin Netanyahu]] — [[Peter Thiel]] — [[Amir Elichai]] — [[Whitney Webb]] — [[James Corbett]] — [[Donald Trump]] — [[Tal Dilian]] — [[Jared Kushner]] — [[Steve Bannon]] — [[Pinchas Berkus]]
+**Personas:** [[Jeffrey Epstein]] — [[Ehud Barak]] — [[Benjamin Netanyahu]] — [[Peter Thiel]] — [[Amir Elichai]] — [[Whitney Webb]] — [[00_Glosario - Conceptos Fase 1#James Corbett\|James Corbett]] — [[Donald Trump]] — [[Tal Dilian]] — [[Jared Kushner]] — [[Steve Bannon]] — [[Pinchas Berkus]]
 
-**Organizaciones:** [[Unidad 8200]] — [[Carbyne]] — [[Palantir]] — [[NSO Group]] — [[Intellexa]] — [[FBI]] — [[KGB]] — [[Microsoft]] — [[Integrity Partners]] — [[Saito Tech Ltd]] — [[Paragon Solutions]]
+**Organizaciones:** [[Unidad 8200]] — [[Carbyne]] — [[Palantir]] — [[NSO Group]] — [[Intellexa]] — [[FBI]] — [[00_Glosario - Conceptos Fase 1#KGB\|KGB]] — [[Microsoft]] — [[Integrity Partners]] — [[Saito Tech Ltd]] — [[Paragon Solutions]]
 
 **Conceptos:** [[Deep State]] — [[Ciberespionaje]] — [[Trampa de miel]] — [[Panóptico]] — [[Spyware]] — [[Pegasus]] — [[Stuxnet]] — [[Kompromat]] — [[Internet de las Cosas]]
 
@@ -69,7 +65,7 @@ La transición del espionaje se marca por el paso de las trampas de miel de carn
 
 ## 🧩 Análisis Propio
 
-**Cui bono:** Los principales beneficiarios de esta transición son el [[Estado profundo]] israelí y las élites tecnológicas de [[Silicon Valley]]. [[Israel]] ha logrado convertir su aparato de inteligencia militar en un producto de exportación esencial, asegurando que cualquier gobierno que desee mantener el control social dependa de su tecnología. Por otro lado, los "broligarcas" obtienen acceso a capacidades de vigilancia que el estado formal no podría desarrollar tan rápidamente debido a restricciones legales.
+**Cui bono:** Los principales beneficiarios de esta transición son el [[Estado profundo\|Estado Profundo]] israelí y las élites tecnológicas de [[Silicon Valley]]. [[Israel]] ha logrado convertir su aparato de inteligencia militar en un producto de exportación esencial, asegurando que cualquier gobierno que desee mantener el control social dependa de su tecnología. Por otro lado, los "broligarcas" obtienen acceso a capacidades de vigilancia que el estado formal no podría desarrollar tan rápidamente debido a restricciones legales.
 
 **Anomalías:** Resulta altamente sospechoso que la narrativa oficial de [[Carbyne]] presente su origen como una simple respuesta a un "atraco en la playa" de [[Amir Elichai]], cuando casi todo su equipo directivo proviene de los niveles más altos de la inteligencia militar y el descifrado de señales. Esta "historia de origen" tipo startup es una máscara civil para una operación de inteligencia de señales (SIGINT) que busca infiltrarse en los sistemas de respuesta a emergencias (911) de todo el mundo.
 
@@ -85,7 +81,7 @@ La transición del espionaje se marca por el paso de las trampas de miel de carn
 - [[Unidad 8200]]
 - [[Whitney Webb]]
 - [[Vigilancia Masiva]]
-- [[Estado profundo]]
+- [[Estado profundo\|Estado Profundo]]
 
 ---
 

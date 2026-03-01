@@ -1,16 +1,13 @@
 ---
+titulo: MANUFACTURE OF CONSENT 2.0 (TL V.2)
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "alto"
+tags: [consent, newsguard, poynter, verdad]
 publish: true
-created: 2026-02-25T16:09:26.306-03:00
-modified: 2026-02-27T13:23:18.109-03:00
-tags:
-  - consent
-  - newsguard
-  - poynter
-  - verdad
-cssclasses: ""
 ---
-
-# MANUFACTURE OF CONSENT 2.0 (v12_1)
+# MANUFACTURE OF CONSENT 2.0 (TL V.2)
 
 #### BLUF
 La Manufactura del Consenso 2.0 es la **Actualización Algorítmica de la Propaganda**. Mientras que el modelo 1.0 (Chomsky/Herman) se basaba en el filtrado de medios masivos, el 2.0 utiliza la **IA Predictiva** para anticiparse a la disidencia y moldear el "Sentido Común" antes de que el ciudadano tenga tiempo de formar una opinión propia. En 2026, no se trata de ocultar la verdad, sino de **Saturar la Verdad** con un ecosistema de narrativas pre-fabricadas que hacen imposible cualquier conclusión fuera del marco permitido por el Tier B.
@@ -73,6 +70,7 @@ Es la única forma de evitar el caos. En un mundo con armas nucleares e IA, no p
 ¿Cuál es el "protocolo de silencio" entre Google y el Departamento de Estado cuando una narrativa oficial colapsa y debe ser sustituida por una nueva "verdad" en cuestión de horas?
 
 ---
-*Dossier forense v12_1 | La Maquinaria de la Ilusión Democrática*
+*Dossier forense TL V.2 | La Maquinaria de la Ilusión Democrática*
+
 
 

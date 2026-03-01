@@ -1,15 +1,12 @@
 ---
+titulo: El Domo Y El Obelisco (Dualidad De Poder)
+tipo: "concepto"
+fecha: 2026-02-25
+tags: [city, domo, obelisco, vaticano]
+tier-primario: "a"
+nivel-evidencia: "total"
 publish: true
-created: 2026-02-25T22:08:52.013-03:00
-modified: 2026-02-27T13:22:34.611-03:00
-tags:
-  - city
-  - domo
-  - obelisco
-  - vaticano
-cssclasses: ""
 ---
-
 
 # El Domo Y El Obelisco (Dualidad De Poder)
 
@@ -30,7 +27,7 @@ cssclasses: ""
 ## Conexiones Críticas
 - [[Vaticano]]: El nodo de control espiritual.
 - [[City of London]]: El nodo de control financiero.
-- [[Washington D.C.]]: El nodo de control militar/logístico.
+- [[00_Glosario - Conceptos Fase 1#Washington D.C.\|Washington D.C.]]: El nodo de control militar/logístico.
 
 ## Cui Bono
 ¿Quién gana? La **Elite Tripartita**. El uso del Domo y el Obelisco es el "Sello de Agua" que indica que esas tres ciudades-estado operan bajo un mismo mando de Tier A, independientemente de lo que piensen sus poblaciones locales.

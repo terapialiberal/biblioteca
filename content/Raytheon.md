@@ -1,5 +1,5 @@
 ---
-titulo: "Raytheon (v2.0): El Martillo Del Complejo Militar-Industrial"
+titulo: "Raytheon (TL V.2): El Martillo Del Complejo Militar-Industrial"
 tipo: evento
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [complejo, industrial, puerta, raytheon]
 publish: true
 ---
-# Raytheon (v2.0): El Martillo Del Complejo Militar-Industrial
+# Raytheon (TL V.2): El Martillo Del Complejo Militar-Industrial
 
 > [!ABSTRACT] Hipótesis Informativa
 > Raytheon (ahora RTX Corporation) es el **Brazo Ejecutor Cinético de [[Tier A]]** especializado en la proyección de fuerza a distancia. Como uno de los mayores contratistas de defensa del mundo, Raytheon es la empresa que transforma los USD trillones del presupuesto de defensa de EE.UU. en misiles Tomahawk, drones y sistemas de defensa Patriot. Su función real es asegurar que la política exterior de EE.UU. sea siempre una **Política de Guerra Perpetua**, garantizando la obsolescencia programada del armamento y la necesidad constante de "amenazas" para alimentar los retornos de inversión de Wall Street.
@@ -38,7 +38,8 @@ Raytheon nos enseña que **detrás de cada "defensa de la democracia" hay una fa
 ---
 **Versión:** 2.0
 **Enfoque:** Raytheon como motor de la guerra perpetua, el rol de la puerta giratoria con Lloyd Austin y la ingeniería financiera de la destrucción por encargo.
-**Estado:** Refactoreado a v2.0 - Framework de Complejo Militar-Industrial.
+**Estado:** Refactoreado a TL V.2 - Framework de Complejo Militar-Industrial.
+
 
 
 

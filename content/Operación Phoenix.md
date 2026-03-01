@@ -1,5 +1,5 @@
 ---
-titulo: "Operación Phoenix (v2.0): La Arquitectura Del Exterminio Administrativo"
+titulo: "Operación Phoenix (TL V.2): La Arquitectura Del Exterminio Administrativo"
 tipo: evento
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [administrativo, arquitectura, exterminio, phoenix]
 publish: true
 ---
-# Operación Phoenix (v2.0): La Arquitectura Del Exterminio Administrativo
+# Operación Phoenix (TL V.2): La Arquitectura Del Exterminio Administrativo
 
 > [!ABSTRACT] Hipótesis Informativa
 > La Operación Phoenix fue el laboratorio de **[[Tier A]]** para la **neutralización sistemática de la infraestructura social civil**. Bajo la dirección de la **[[CIA]]**, este programa no buscaba guerrilleros en el frente, sino el exterminio de maestros, líderes comunitarios y funcionarios de **[[Tier C]]** sospechosos de afinidad con el Viet Cong. Phoenix transformó la guerra en un ejercicio de **Gestión Logística de la Muerte**, estableciendo el modelo de "escuadrones de la muerte" y centros de tortura provinciales que luego serían exportados a Latinoamérica a través de la **[[Operación Condor]]**.
@@ -39,7 +39,8 @@ La Operación Phoenix es la tumba de la moralidad liberal en la guerra. Nos ense
 ---
 **Versión:** 2.0
 **Enfoque:** Industrialización del asesinato selectivo, rol de William Colby y la exportación del modelo de escuadrones de la muerte a nivel global.
-**Estado:** Refactoreado a v2.0 - Framework de Exterminio Selectivo.
+**Estado:** Refactoreado a TL V.2 - Framework de Exterminio Selectivo.
+
 
 
 

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:08.640-03:00
-modified: 2026-02-27T13:06:40.200-03:00
+modified: 2026-02-27T13:07:01.126-03:00
 tags:
   - conocimiento
   - informacin

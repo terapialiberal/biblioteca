@@ -1,5 +1,5 @@
 ---
-titulo: "Represión Financiera (v2.0): El Impuesto Invisible Sobre El Ahorro"
+titulo: "Represión Financiera (TL V.2): El Impuesto Invisible Sobre El Ahorro"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [ahorro, financiera, inflacin, invisible]
 publish: true
 ---
-# Represión Financiera (v2.0): El Impuesto Invisible Sobre El Ahorro
+# Represión Financiera (TL V.2): El Impuesto Invisible Sobre El Ahorro
 
 > [!ABSTRACT] Hipótesis Informativa
 > La Represión Financiera es la **Estrategia de Expropiación Silenciosa de [[Tier A]]** utilizada para reducir el peso de la deuda soberana impagable a costa del patrimonio del **[[Tier C]]**. Mediante la manipulación de los bancos centrales para mantener los tipos de interés sistemáticamente por debajo de la tasa de inflación real, el sistema ejecuta una transferencia de riqueza desde los ahorristas hacia los deudores estatales y las megacorporaciones de **[[Tier B]]**. Su función real es la **Licuación de la Clase Media**, forzando al individuo a elegir entre la pérdida segura de poder adquisitivo en el banco o la especulación riesgosa en mercados de activos inflados por la Matrix.
@@ -38,7 +38,8 @@ La Represión Financiera nos enseña que **el ahorro en moneda fiduciaria es una
 ---
 **Versión:** 2.0
 **Enfoque:** La represión financiera como impuesto invisible para pagar deudas estatales, la zombificación de la economía y la destrucción de la previsibilidad para la clase media.
-**Estado:** Refactoreado a v2.0 - Framework de Economía y Soberanía Financiera.
+**Estado:** Refactoreado a TL V.2 - Framework de Economía y Soberanía Financiera.
+
 
 
 

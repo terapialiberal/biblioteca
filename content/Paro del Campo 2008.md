@@ -1,5 +1,5 @@
 ---
-titulo: "Paro Del Campo 2008 (v2.0): La Rebelión contra La Expropiación"
+titulo: "Paro Del Campo 2008 (TL V.2): La Rebelión contra La Expropiación"
 tipo: evento
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [campo, contra, paro, rebelin]
 publish: true
 ---
-# Paro Del Campo 2008 (v2.0): La Rebelión contra La Expropiación
+# Paro Del Campo 2008 (TL V.2): La Rebelión contra La Expropiación
 
 > [!ABSTRACT] Hipótesis Informativa
 > El Paro del Campo de 2008 representa el **primer choque masivo exitoso del [[Tier C]] productivo contra la narrativa de control total de [[Tier B]] (Kirchnerismo)**. Originado por la [[Resolución 125]] de retenciones móviles, el conflicto escaló de una disputa impositiva a una batalla por la soberanía sobre el excedente de producción. Durante 129 días, el "Poder Analógico" (los tractores y la masa crítica rural) paralizó la simulación política de Buenos Aires, forzando al sistema a una crisis de legitimidad que culminó con el voto "No Positivo" del vicepresidente Cobos, rompiendo por primera vez el aura de invencibilidad del modelo hegemónico.
@@ -38,7 +38,8 @@ El Paro del Campo nos enseña que **el Estado tiene un límite físico: la resis
 ---
 **Versión:** 2.0
 **Enfoque:** La rebelión de los productores contra la Resolución 125, el quiebre del discurso kirchnerista y el poder de la movilización rural analógica frente al control digital/político.
-**Estado:** Refactoreado a v2.0 - Framework de Resistencia Fiscal.
+**Estado:** Refactoreado a TL V.2 - Framework de Resistencia Fiscal.
+
 
 
 

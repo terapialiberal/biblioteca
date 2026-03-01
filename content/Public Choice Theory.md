@@ -1,5 +1,5 @@
 ---
-titulo: "Public Choice Theory (v2.0): El Desnudo Del Leviatán"
+titulo: "Public Choice Theory (TL V.2): El Desnudo Del Leviatán"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [choice, grupos, public, theory]
 publish: true
 ---
-# Public Choice Theory (v2.0): El Desnudo Del Leviatán
+# Public Choice Theory (TL V.2): El Desnudo Del Leviatán
 
 > [!ABSTRACT] Hipótesis Informativa
 > La Public Choice Theory (Teoría de la Elección Pública) es la **deconstrucción económica del altruismo estatal de [[Tier A]]**. Al aplicar las herramientas del análisis de mercado a la política, demuestra que los actores estatales (políticos y burócratas) no buscan el "bien común", sino que actúan bajo el mismo interés propio que cualquier otro actor: buscan votos, presupuesto, poder y prestigio. Es la **"Política sin Romance"**: el reconocimiento de que el Estado es un mercado de intercambio de favores y privilegios, donde el individuo de **[[Tier C]]** es el recurso a ser saqueado por coaliciones de minorías organizadas (**[[Grupos de Interés]]**).
@@ -38,7 +38,8 @@ Public Choice nos enseña que **el Estado no es la cura, es el mercado más corr
 ---
 **Versión:** 2.0
 **Enfoque:** Análisis de políticos y burócratas como actores racionales egoístas, la ineficiencia sistémica de la burocracia y la explotación de la mayoría desinformada por grupos de interés.
-**Estado:** Refactoreado a v2.0 - Framework de Microeconomía Política.
+**Estado:** Refactoreado a TL V.2 - Framework de Microeconomía Política.
+
 
 
 

@@ -1,5 +1,5 @@
 ---
-titulo: "Síndrome De La Habana (v2.0): La Frontera De La Guerra Invisible"
+titulo: "Síndrome De La Habana (TL V.2): La Frontera De La Guerra Invisible"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [guerra, habana, invisible, sndrome]
 publish: true
 ---
-# Síndrome De La Habana (v2.0): La Frontera De La Guerra Invisible
+# Síndrome De La Habana (TL V.2): La Frontera De La Guerra Invisible
 
 > [!ABSTRACT] Hipótesis Informativa
 > El Síndrome de la Habana es la manifestación clínica del uso de **Armas de Energía Dirigida (DEW)** en conflictos de "Zona Gris" entre potencias globales. Identificado inicialmente en 2016, su función real en la Matrix es la de un **"Mecanismo de Incapacitación no Atribuible"**: el uso de microondas pulsadas o radiofrecuencias para dañar el sistema neurológico de diplomáticos y espías de **[[Tier B]]** sin dejar rastro físico de agresión externa. El síndrome expone la existencia de una carrera armamentística silenciosa que utiliza el espectro electromagnético para la **Guerra Cognitiva y Neurológica**.
@@ -31,8 +31,8 @@ publish: true
 ## Conexiones Críticas
 - [[Armas de Energía Dirigida]] (DEW): El marco tecnológico donde se inserta el síndrome.
 - [[CIA]]: Institución cuyos activos han sido los más afectados por estos incidentes.
-- [[Guerra Híbrida]]: El modelo de conflicto donde este síndrome es una táctica clave.
-- [[MK Ultra]]: Antecedentes de experimentación neurológica sobre seres humanos.
+- [[00_Glosario - Conceptos Fase 1#Guerra Híbrida\|Guerra Híbrida]]: El modelo de conflicto donde este síndrome es una táctica clave.
+- [[MKUltra\|MK Ultra]]: Antecedentes de experimentación neurológica sobre seres humanos.
 - [[Zonas Grises]]: El territorio diplomático y militar donde se libran estas batallas invisibles.
 
 ## Conclusión Del Análisis
@@ -41,7 +41,8 @@ El Síndrome de la Habana nos enseña que **las murallas de cemento no protegen 
 ---
 **Versión:** 2.0
 **Enfoque:** El Síndrome de la Habana como evidencia del uso de armas DEW, el ataque neurológico a los cuadros de Tier B de inteligencia, el papel de la zona gris en la geopolítica moderna y la amenaza latente para el Tier C de una tecnología que manipula la biología mediante frecuencias invisibles.
-**Estado:** Refactoreado a v2.0 - Framework de Armas Exóticas y Guerra Neurológica.
+**Estado:** Refactoreado a TL V.2 - Framework de Armas Exóticas y Guerra Neurológica.
+
 
 
 

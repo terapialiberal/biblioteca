@@ -1,15 +1,12 @@
 ---
+titulo: Resumen General
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [benjamin, clean, memo, neoconservadores]
 publish: true
-created: 2026-01-29T19:17:07.886-03:00
-modified: 2026-02-27T13:07:54.045-03:00
-tags:
-  - benjamin
-  - clean
-  - memo
-  - neoconservadores
-cssclasses: ""
 ---
-
 # Resumen General
 "A Clean Break: A New Strategy for Securing the Realm" (1996). Un documento escrito por neoconservadores estadounidenses (Richard Perle, David Wurmser) para Benjamin Netanyahu. Proponía abandonar los Acuerdos de Oslo y "remodelar" Medio Oriented derrocando a Saddam Hussein en Irak y desestabilizando Siria/Irán.
 
@@ -24,7 +21,7 @@ cssclasses: ""
 
 # Conexiones
 - [[Benjamin Netanyahu]]
-- [[Neoconservadores]]
+- [[00_Glosario - Conceptos Fase 1#Neoconservadores\|Neoconservadores]]
 - [[Invasión de Irak 2003]]
 - [[Richard N. Perle]]
 - [[Proyecto para el Nuevo Siglo Estadounidense]] (PNAC)

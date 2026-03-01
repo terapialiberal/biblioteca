@@ -1,5 +1,5 @@
 ---
-titulo: "Operación Sea-Spray (v2.0): El Rocío De La Traición Biológica"
+titulo: "Operación Sea-Spray (TL V.2): El Rocío De La Traición Biológica"
 tipo: evento
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [biolgica, roco, spray, traicin]
 publish: true
 ---
-# Operación Sea-Spray (v2.0): El Rocío De La Traición Biológica
+# Operación Sea-Spray (TL V.2): El Rocío De La Traición Biológica
 
 > [!ABSTRACT] Hipótesis Informativa
 > La Operación Sea-Spray fue el primer acto de **bioguerra real del [[Tier A]] contra su propia población civil**. Al rociar masivamente nubes de bacterias (*Serratia marcescens*) sobre la ciudad de San Francisco, el sistema militar no buscaba defenderse de los soviéticos, sino estudiar la **Eficiencia del Contagio Urbano**. Esta operación demuestra que para la élite de Tier A, los ciudadanos de **[[Tier C]]** son vistos como un "Paisaje Experimental": conejillos de indias en un laboratorio de cielo abierto donde la salud pública es sacrificada en el altar de la preparación militar para el dominio biopolítico.
@@ -29,7 +29,7 @@ publish: true
 ## Conexiones Críticas
 - [[Fort Detrick]]: El centro de diseño de las bacterias usadas.
 - [[Experimento Tuskegee]]: La nota sobre la experimentación humana sistémica en EE.UU.
-- [[Chemtrails (Geoingeniería)]]: El debate moderno sobre el rociado persistente de la atmósfera.
+- [[00_Glosario - Conceptos Fase 1#Chemtrails (Geoingeniería)\|Chemtrails (Geoingeniería)]]: El debate moderno sobre el rociado persistente de la atmósfera.
 - [[Agenda 2030 (Bioseguridad)]]: El marco actual donde la salud pública justifica el control total.
 - [[Edward Nevin]]: La primera víctima identificada de la bioguerra doméstica americana.
 
@@ -39,7 +39,8 @@ La Operación Sea-Spray es la prueba de que el cielo puede ser un arma tóxica d
 ---
 **Versión:** 2.0
 **Enfoque:** Experimentación biológica masiva en suelo estadounidense, ocultamiento de muertes civiles y la violación sistémica del consentimiento informado por parte del complejo bio-militar.
-**Estado:** Refactoreado a v2.0 - Framework de Experimentación de Masa.
+**Estado:** Refactoreado a TL V.2 - Framework de Experimentación de Masa.
+
 
 
 

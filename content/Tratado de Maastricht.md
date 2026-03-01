@@ -1,21 +1,18 @@
 ---
+titulo: Tratado De Maastricht
+tipo: evento
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [club, european, maastricht, tratado]
 publish: true
-created: 2026-01-29T19:17:41.054-03:00
-modified: 2026-02-27T13:24:05.523-03:00
-tags:
-  - club
-  - european
-  - maastricht
-  - tratado
-cssclasses: ""
 ---
-
 # Tratado De Maastricht
 
 ## Resumen Ejecutivo
 **¿Qué es?** El tratado fundacional de la **Unión Europea** moderna y el euro. Transformó la Comunidad Económica (comercio) en una Unión Política.
 
-**¿Por qué importa?** Fue el golpe mortal a la soberanía de las naciones europeas. Transfirió el poder monetario (imprimir dinero), fiscal (limites de déficit) y legal a burócratas no electos en Bruselas y Frankfurt ([[BCE]]).
+**¿Por qué importa?** Fue el golpe mortal a la soberanía de las naciones europeas. Transfirió el poder monetario (imprimir dinero), fiscal (limites de déficit) y legal a burócratas no electos en Bruselas y Frankfurt ([[00_Glosario - Conceptos Fase 1#BCE\|BCE]]).
 Fue diseñado en secreto por la élite (Club Bilderberg jugó un rol clave) para atar a Alemania tras la reunificación y diluir las identidades nacionales en un bloque tecnocrático. Francia votó "Sí" por un margen minúsculo (51%), manipulado por el miedo.
 
 ## Análisis (Tiers)

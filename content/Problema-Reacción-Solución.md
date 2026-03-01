@@ -1,5 +1,5 @@
 ---
-titulo: "Problema-Reacción-Solución (v2.0): El Motor Del Cambio Forzado"
+titulo: "Problema-Reacción-Solución (TL V.2): El Motor Del Cambio Forzado"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [cambio, forzado, problema, solucin]
 publish: true
 ---
-# Problema-Reacción-Solución (v2.0): El Motor Del Cambio Forzado
+# Problema-Reacción-Solución (TL V.2): El Motor Del Cambio Forzado
 
 > [!ABSTRACT] Hipótesis Informativa
 > La técnica Problema-Reacción-Solución (o **[[Dialéctica Hegeliana]] Aplicada**) es el **mecanismo de propulsión legislativa de [[Tier A]]**. Consiste en crear o permitir una crisis (el Problema) para inducir un estado de shock y miedo en el **[[Tier C]]** (la Reacción), forzando a la población a demandar una intervención estatal que antes era inaceptable. El sistema entonces ofrece la "Solución" (leyes de control, deuda, pérdida de soberanía) que ya tenía preparada de antemano. Es la forma en que la Matrix avanza hacia el totalitarismo sin necesidad de una guerra abierta, utilizando la propia demanda del pueblo como motor de su esclavitud.
@@ -38,7 +38,8 @@ Problema-Reacción-Solución es el guion de la historia moderna. Nos enseña que
 ---
 **Versión:** 2.0
 **Enfoque:** Uso de la dialéctica hegeliana para forzar cambios sociales, la preparación previa de las leyes de control y el shock emocional como herramienta de gobierno.
-**Estado:** Refactoreado a v2.0 - Framework de Ingeniería de Crisis.
+**Estado:** Refactoreado a TL V.2 - Framework de Ingeniería de Crisis.
+
 
 
 

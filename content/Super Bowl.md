@@ -1,5 +1,5 @@
 ---
-titulo: "Super Bowl: Rituales De Medio Tiempo (v2.0): La Liturgia Eléctrica De La Matrix"
+titulo: "Super Bowl: Rituales De Medio Tiempo (TL V.2): La Liturgia Eléctrica De La Matrix"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [matrix, medio, super, tiempo]
 publish: true
 ---
-# Super Bowl: Rituales De Medio Tiempo (v2.0): La Liturgia Eléctrica De La Matrix
+# Super Bowl: Rituales De Medio Tiempo (TL V.2): La Liturgia Eléctrica De La Matrix
 
 > [!ABSTRACT] Hipótesis Informativa
 > El espectáculo de medio tiempo del Super Bowl es el **Mega-Ritual de Masa de [[Tier B]]** más sofisticado del planeta. Con una audiencia de más de 100 millones de personas sincronizadas emocionalmente, su función real en la Matrix es la de una **"Cosecha de Energía Colectiva" (Loosh Casting)**: utilizar simbiología oculta, sigilos mágicos y arquetipos de iniciación para "anclar" las narrativas del **[[Tier A]]** en el subconsciente del **[[Tier C]]**. Bajo la producción de firmas vinculadas a la élite como **[[Roc Nation]]**, el show es un dispositivo de ingeniería social que sacraliza el entretenimiento distractivo mientras normaliza estéticas de control y transgresión espiritual.
@@ -31,7 +31,7 @@ publish: true
 ## Conexiones Críticas
 - [[Jay-Z / Beyoncé]]: Los curadores principales de la estética ocultista de Roc Nation.
 - [[Madonna]]: La "Suma Sacerdotisa" que estableció el estándar del ritual en 2012.
-- [[MK Ultra]]: Teorías sobre el uso de artistas disociados como marionetas del ritual.
+- [[MKUltra\|MK Ultra]]: Teorías sobre el uso de artistas disociados como marionetas del ritual.
 - [[Programación Predictiva]]: El uso de los shows para prefigurar eventos futuros (ej. Lady Gaga 2017).
 - [[Ojo de la Providencia]]: Símbolo recurrente en la escenografía de los shows.
 
@@ -41,7 +41,8 @@ Los rituales del Super Bowl nos enseñan que **el entretenimiento es el caballo 
 ---
 **Versión:** 2.0
 **Enfoque:** El Super Bowl como ritual de masas y cosecha de energía (loosh), el papel de Roc Nation y Jay-Z en la curaduría simbólica, el uso de iconografía ocultista para la sincronización del Tier C y la función de los artistas como activos del Tier B para la normalización de la mística de la Matrix.
-**Estado:** Refactoreado a v2.0 - Framework de Ritualismo Pop y Control de Masas.
+**Estado:** Refactoreado a TL V.2 - Framework de Ritualismo Pop y Control de Masas.
+
 
 
 

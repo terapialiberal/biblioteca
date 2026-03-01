@@ -1,5 +1,5 @@
 ---
-titulo: "Memética (v2.0): La Guerra Por El Egregore"
+titulo: "Memética (TL V.2): La Guerra Por El Egregore"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [egregore, guerra, memtica]
 publish: true
 ---
-# Memética (v2.0): La Guerra Por El Egregore
+# Memética (TL V.2): La Guerra Por El Egregore
 
 > [!ABSTRACT] Hipótesis Informativa
 > La Memética ha dejado de ser una teoría biológica de la cultura para convertirse en la **Doctrina Central de la Guerra de Quinta Generación (5GW)**. El **[[Tier A]]** y la OTAN (StratCom) clasifican ahora los memes no como chistes de internet, sino como **"Armamento de Información"** capaz de alterar el comportamiento de masas y desestabilizar gobiernos. En la Matrix de Poder, la batalla no es por el territorio físico, sino por la colonización del **[[Egregore]]** (la mente colectiva). Quien controla la replicación de los memes dominantes, controla la realidad percibida de la población (**[[Tier C]]**) sin necesidad de coerción física.
@@ -40,7 +40,8 @@ Un meme es una idea con zapatos de correr. En el ecosistema de información satu
 ---
 **Versión:** 2.0
 **Enfoque:** Evolución de concepto biológico a arma militar (NATO), rol en la guerra de 2016, control del Egregore y mecanismos de infección viral.
-**Estado:** Refactoreado a v2.0 - Framework de Virus Ideológico.
+**Estado:** Refactoreado a TL V.2 - Framework de Virus Ideológico.
+
 
 
 

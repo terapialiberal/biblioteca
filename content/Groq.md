@@ -1,5 +1,13 @@
 ---
-titulo: GROQ (v12_1)
+titulo: Groq
+tipo: 'concepto'
+tier-primario: 'b'
+nivel-evidencia: 'medio'
+tags: [clasificado-ai]
+publish: true
+---
+﻿---
+titulo: GROQ (TL V.2)
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +15,7 @@ nivel-evidencia: "medio"
 tags: [groq, jonathan, nvidia]
 publish: true
 ---
-# GROQ (v12_1)
+# GROQ (TL V.2)
 
 #### BLUF
 Groq es el contendiente de **Tier B** que amenaza el predominio de NVIDIA en el mercado de la **Inferencia**. Mientras Nvidia domina el entrenamiento, Groq domina la **Velocidad del Lenguaje** mediante su arquitectura LPU (Language Processing Unit). En 2026, sus sistemas permiten una interaccin con la IA que es indistinguible de la humana por su latencia cero, facilitando la integracin masiva de agentes autnomos en el comercio y la guerra.
@@ -70,6 +78,7 @@ Groq es solo una optimizacin tcnica, no un cambio de paradigma de poder. Es la e
 Quines son los inversores reales detrs de la expansin de Groq en Oriente Medio, y qu acceso a los datos de inferencia estn exigiendo a cambio del financiamiento?
 
 ---
-*Dossier forense v12_1 | Acelerando la Matrix Cognitiva*
+*Dossier forense TL V.2 | Acelerando la Matrix Cognitiva*
+
 
 

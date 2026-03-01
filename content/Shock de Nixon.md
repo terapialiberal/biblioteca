@@ -1,5 +1,5 @@
 ---
-titulo: "Shock De Nixon (v2.0): El Día Que El Dinero Se Convirtió En Deuda"
+titulo: "Shock De Nixon (TL V.2): El Día Que El Dinero Se Convirtió En Deuda"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,10 +7,10 @@ nivel-evidencia: "medio"
 tags: [bretton, deuda, dinero, nixon]
 publish: true
 ---
-# Shock De Nixon (v2.0): El Día Que El Dinero Se Convirtió En Deuda
+# Shock De Nixon (TL V.2): El Día Que El Dinero Se Convirtió En Deuda
 
 > [!ABSTRACT] Hipótesis Informativa
-> El Shock de Nixon es el **Evento de Ruptura Sistémica de [[Tier A]]** más trascendental del siglo XX financero. El 15 de agosto de 1971, Richard Nixon suspendió unilateralmente la convertibilidad del dólar en oro, liquidando el sistema de **[[Bretton Woods]]**. Su función real fue la de un **"Default Soberano Encubierto"**: ante la imposibilidad de pagar sus deudas en oro debido a los gastos de la Guerra de Vietnam, EE.UU. impuso al mundo un sistema de **[[Dinero Fiat]]** puro. Esto permitió a la Matrix financiera imprimir capital ilimitado, iniciando una era de **[[Inflación]]** perpetua, deuda exponencial y transferencia masiva de riqueza desde el **[[Tier C]]** productivo hacia el **[[Tier A]]** parasitario.
+> El Shock de Nixon es el **Evento de Ruptura Sistémica de [[Tier A]]** más trascendental del siglo XX financero. El 15 de agosto de 1971, Richard Nixon suspendió unilateralmente la convertibilidad del dólar en oro, liquidando el sistema de **[[00_Glosario - Conceptos Fase 1#Bretton Woods\|Bretton Woods]]**. Su función real fue la de un **"Default Soberano Encubierto"**: ante la imposibilidad de pagar sus deudas en oro debido a los gastos de la Guerra de Vietnam, EE.UU. impuso al mundo un sistema de **[[00_Glosario - Conceptos Fase 1#Dinero Fiat\|Dinero Fiat]]** puro. Esto permitió a la Matrix financiera imprimir capital ilimitado, iniciando una era de **[[Inflación]]** perpetua, deuda exponencial y transferencia masiva de riqueza desde el **[[Tier C]]** productivo hacia el **[[Tier A]]** parasitario.
 
 ## Análisis De Tiers
 
@@ -29,8 +29,8 @@ publish: true
 2.  **Exportación de Inflación**: Capacidad de EE.UU. para imprimir dólares y comprar bienes reales en el extranjero, haciendo que el Tier C de otras naciones pague el costo del ajuste estadounidense a través de la pérdida de valor de sus propias reservas.
 
 ## Conexiones Críticas
-- [[Bretton Woods]]: El sistema que Nixon destruyó.
-- [[Dinero Fiat]]: La consecuencia técnica del Shock.
+- [[00_Glosario - Conceptos Fase 1#Bretton Woods\|Bretton Woods]]: El sistema que Nixon destruyó.
+- [[00_Glosario - Conceptos Fase 1#Dinero Fiat\|Dinero Fiat]]: La consecuencia técnica del Shock.
 - [[Petrodólar]]: El respaldo que sustituyó al oro.
 - [[Reserva Federal]]: El máximo beneficiario de la emisión sin límites.
 - [[Señoreaje]]: El beneficio mágico que el Shock magnificó.
@@ -42,7 +42,8 @@ El Shock de Nixon nos enseña que **las promesas del Estado tienen fecha de venc
 ---
 **Versión:** 2.0
 **Enfoque:** El fin del patrón oro como un default encubierto de EE.UU., el desacople entre productividad y salarios desde 1971, la transición al dinero fiat y al petrodólar como mecanismos de hegemonía del Tier A sobre el ahorro global.
-**Estado:** Refactoreado a v2.0 - Framework de Historia Monetaria y Poder Financiero.
+**Estado:** Refactoreado a TL V.2 - Framework de Historia Monetaria y Poder Financiero.
+
 
 
 

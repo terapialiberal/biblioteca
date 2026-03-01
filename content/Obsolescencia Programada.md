@@ -1,5 +1,5 @@
 ---
-titulo: "Obsolescencia Programada (v2.0): La Ingeniería De La Escasez Forzada"
+titulo: "Obsolescencia Programada (TL V.2): La Ingeniería De La Escasez Forzada"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [apple, escasez, forzada, programada]
 publish: true
 ---
-# Obsolescencia Programada (v2.0): La Ingeniería De La Escasez Forzada
+# Obsolescencia Programada (TL V.2): La Ingeniería De La Escasez Forzada
 
 > [!ABSTRACT] Hipótesis Informativa
 > La Obsolescencia Programada no es un fallo del diseño, sino una **estrategia de extracción de energía vital de [[Tier A]]**. Al diseñar productos para que fallen prematuramente, el sistema fuerza al **[[Tier C]]** a un ciclo perpetuo de deuda y trabajo para reponer bienes básicos. Es el método por el cual las corporaciones de **[[Tier B]]** aseguran sus flujos de caja infinitos, transformando el derecho de propiedad en un "derecho de suscripción" de facto y asegurando que la población nunca acumule el capital suficiente para volverse independiente de la Matrix de consumo.
@@ -40,7 +40,8 @@ La Obsolescencia Programada es el impuesto invisible a la existencia. No estamos
 ---
 **Versión:** 2.0
 **Enfoque:** Sabotaje industrial sistemático, rol del sector financiero en la exigencia de obsolescencia y la muerte de la propiedad privada real a través del software.
-**Estado:** Refactoreado a v2.0 - Framework de Depredación Económica.
+**Estado:** Refactoreado a TL V.2 - Framework de Depredación Económica.
+
 
 
 

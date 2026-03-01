@@ -1,5 +1,5 @@
 ---
-titulo: "P2 Lodge (v2.0): El Estado Profundo Trasnacional"
+titulo: "P2 Lodge (TL V.2): El Estado Profundo Trasnacional"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [estado, lodge, posmodernismo, trasnacional]
 publish: true
 ---
-# P2 Lodge (v2.0): El Estado Profundo Trasnacional
+# P2 Lodge (TL V.2): El Estado Profundo Trasnacional
 
 > [!ABSTRACT] Hipótesis Informativa
 > La Logia P2 (Propaganda Due) es la **prueba irrefutable de la existencia del [[Tier A]] operativo**. Dirigida por Licio Gelli, esta logia masónica "irregular" integró a la cúpula del poder italiano (ministros, generales, banqueros, dueños de medios) con las redes de inteligencia de la CIA y el Vaticano para gobernar Italia desde las sombras. Actuando como un **Estado dentro del Estado**, la P2 coordinó la estrategia de la tensión (terrorismo) y el lavado de dinero a escala global, extendiendo sus tentáculos hasta las dictaduras del Cono Sur (Argentina/Uruguay), demostrando que la soberanía nacional es una fachada para el individuo de **[[Tier C]]**.
@@ -38,7 +38,8 @@ La P2 Lodge nos enseña que **las conspiraciones no son teorías; son estructura
 ---
 **Versión:** 2.0
 **Enfoque:** La logia como Estado paralelo, la conexión financiera con el Vaticano (Calvi) y la exportación del modelo de control a las dictaduras sudamericanas.
-**Estado:** Refactoreado a v2.0 - Framework de Organizaciones Ocultas de Poder.
+**Estado:** Refactoreado a TL V.2 - Framework de Organizaciones Ocultas de Poder.
+
 
 
 

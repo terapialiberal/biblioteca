@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:40.988-03:00
-modified: 2026-02-27T13:24:04.845-03:00
+modified: 2026-02-27T13:25:50.432-03:00
 tags:
   - digital
   - fusin
@@ -36,7 +36,7 @@ Implicaciones: Chips cerebrales, edición genética (CRISPR), úteros artificial
 - "Mejorar la calidad de vida"
 
 ## Conexiones
-- [[99_AI/Legacy/Neuralink & Transhumanismo]]
+- [[Neuralink & Transhumanismo]]
 - [[Agenda Transgénero y Pritzker]] (Paso 1: disociarse del cuerpo)
 - [[World Economic Forum]]
 

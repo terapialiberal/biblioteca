@@ -1,16 +1,13 @@
 ---
+titulo: PFIZER (TL V.2)
+tipo: empresa
+fecha: 2026-02-25
+tier-primario: "a"
+nivel-evidencia: "alto"
+tags: [albert, biontech, salud, soberano]
 publish: true
-created: 2026-01-29T19:17:30.533-03:00
-modified: 2026-02-27T13:06:16.658-03:00
-tags:
-  - albert
-  - biontech
-  - salud
-  - soberano
-cssclasses: ""
 ---
-
-# PFIZER (v12_1)
+# PFIZER (TL V.2)
 
 #### BLUF
 Pfizer es el **Sectores de Salud en la Sombra**. Más que un laboratorio, es una **Entidad Diplomática de Tier A**. En 2026, su capacidad de negociar directamente con jefes de estado mediante contratos secretos (que incluyen el embargo de activos nacionales como garantía) la sitúa por encima de la justicia ordinaria. Pfizer ha capturado el **Ciclo de Vida del Tier C** desde la prevención (vacunas) hasta el tratamiento de los efectos adversos crónicos del sistema industrial.
@@ -73,6 +70,7 @@ Pfizer es una de las pocas instituciones capaces de movilizar recursos a escala 
 ¿Cuál es la relación real entre los fondos de inversión de Pfizer y las empresas de "comida programable" ([[Programmable Food]]) que están induciendo las mismas deficiencias metabólicas que Pfizer promete curar?
 
 ---
-*Dossier forense v12_1 | El Soberano de la Biopolítica Moderna*
+*Dossier forense TL V.2 | El Soberano de la Biopolítica Moderna*
+
 
 

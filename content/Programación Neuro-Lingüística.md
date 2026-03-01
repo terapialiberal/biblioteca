@@ -1,5 +1,5 @@
 ---
-titulo: "Programación Neuro-Lingüística (Política) (v2.0): El Bypass Crítico"
+titulo: "Programación Neuro-Lingüística (Política) (TL V.2): El Bypass Crítico"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [edward, lingstica, neuro, poltica]
 publish: true
 ---
-# Programación Neuro-Lingüística (Política) (v2.0): El Bypass Crítico
+# Programación Neuro-Lingüística (Política) (TL V.2): El Bypass Crítico
 
 > [!ABSTRACT] Hipótesis Informativa
 > La Programación Neuro-Lingüística (PNL) aplicada a la política es el **conjunto de herramientas de [[Tier B]] para el secuestro del subconsciente del votante**. Al utilizar patrones de lenguaje específicos, anclajes emocionales y gestos hipnóticos, los asesores de imagen logran **Puentear el Factor Crítico** del cerebro racional del individuo de **[[Tier C]]**. El objetivo no es comunicar ideas, sino "instalar" estados emocionales (esperanza, miedo, lealtad) y asociarlos automáticamente a la figura del candidato o a una agenda específica de la Matrix, convirtiendo el proceso democrático en un ejercicio de sugestión masiva.
@@ -38,7 +38,8 @@ La PNL en política nos enseña que **quien controla el lenguaje, controla el pe
 ---
 **Versión:** 2.0
 **Enfoque:** Uso de técnicas de hipnosis y lingüística para saltarse la razón del votante, el rol de los asesores de Tier B y la creación de anclajes emocionales.
-**Estado:** Refactoreado a v2.0 - Framework de Ingeniería Bio-Lingüística.
+**Estado:** Refactoreado a TL V.2 - Framework de Ingeniería Bio-Lingüística.
+
 
 
 

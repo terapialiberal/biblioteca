@@ -1,5 +1,13 @@
 ---
-titulo: "Jensen Huang (v2.0): El Dueo Del Cuello De Botella De La Realidad"
+titulo: Jensen Huang
+tipo: 'organizacion'
+tier-primario: 'a'
+nivel-evidencia: 'medio'
+tags: [clasificado-ai]
+publish: true
+---
+﻿---
+titulo: "Jensen Huang (TL V.2): El Dueo Del Cuello De Botella De La Realidad"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +15,7 @@ nivel-evidencia: "medio"
 tags: [cuello, jensen, nvidia, tsmc]
 publish: true
 ---
-# Jensen Huang (v2.0): El Dueo Del Cuello De Botella De La Realidad
+# Jensen Huang (TL V.2): El Dueo Del Cuello De Botella De La Realidad
 
 > [!ABSTRACT] Hiptesis Informativa
 > Jensen Huang es el **soberano industrial de la Era del Silicio**. Al monopolizar el hardware necesario para la Inteligencia Artificial moderna, acta como el **Gatekeeper del Cmputo Global**. Huang no solo vende chips; vende la capacidad de simular, predecir y controlar la realidad fsica y social mediante el "Omniverse". Para el [[Tier A]], Huang es el socio indispensable que proporciona los "ladrillos" electrnicos para la construccin del nuevo sistema de gobernanza algortmica y vigilancia totalitaria del [[Tier C]].
@@ -42,9 +50,10 @@ publish: true
 Jensen Huang es el **"Fsico del Nuevo Orden"**. En un mundo que se digitaliza a paso acelerado, l es el dueo de los tomos que procesan los bits. Su chaqueta de cuero es el uniforme de un nuevo tipo de monarca: uno que no necesita ejrcitos territoriales porque es el dueo del **silicio donde reside la conciencia de la red**. Entender a Huang es comprender que la IA no es un programa, es una **mquina fsica de poder** que tiene un dueo, un origen y una intencin: la centralizacin absoluta del conocimiento y la capacidad de decisin en manos de quienes pueden pagar su factura elctrica y sus chips.
 
 ---
-**Versi�n:** 2.0
-**Enfoque:** Monopolio de hardware para IA, simulaci�n predictiva (Omniverse) como herramienta de control y nexo geopol�tico del silicio.
-**Estado:** Refactorizaci�n Completa.
+**Versiï¿½n:** 2.0
+**Enfoque:** Monopolio de hardware para IA, simulaciï¿½n predictiva (Omniverse) como herramienta de control y nexo geopolï¿½tico del silicio.
+**Estado:** Refactorizaciï¿½n Completa.
+
 
 
 

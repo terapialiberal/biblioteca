@@ -1,5 +1,5 @@
 ---
-titulo: "Salud De Trump (v2.0): El Baluarte Físico Y La Opacidad De La Matrix"
+titulo: "Salud De Trump (TL V.2): El Baluarte Físico Y La Opacidad De La Matrix"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [baluarte, fsico, matrix, salud]
 publish: true
 ---
-# Salud De Trump (v2.0): El Baluarte Físico Y La Opacidad De La Matrix
+# Salud De Trump (TL V.2): El Baluarte Físico Y La Opacidad De La Matrix
 
 > [!ABSTRACT] Hipótesis Informativa
 > El estado de salud de Donald Trump es una **Narrativa de Cobertura de [[Tier C]]** utilizada tanto por sus seguidores como por sus detractores para proyectar imágenes de fortaleza mesiánica o de decadencia cognitiva. A pesar de su avanzada edad (78 años), la salud de Trump se gestiona como un secreto de Estado, utilizando informes médicos hiperbólicos (como los del Dr. **[[Ronny Jackson]]**) para ocultar la realidad biológica del candidato. Su función real es la de una **"Arquitectura de Resiliencia Escénica"**: proyectar una vitalidad inagotable que contrasta con la fragilidad mostrada por sus oponentes (**[[Joe Biden]]**), transformando su cuerpo en un talismán político para el **[[Tier C]]**.
@@ -39,7 +39,8 @@ La Salud de Trump nos enseña que **el cuerpo del líder es propiedad de la Matr
 ---
 **Versión:** 2.0
 **Enfoque:** La gestión mediática de la salud de Trump, el rol de Ronny Jackson, la opacidad tras el atentado de 2024 y la comparación estratégica con el declive de Biden en la gerontocracia republicana.
-**Estado:** Refactoreado a v2.0 - Framework de Biopolítica y Comunicación Política.
+**Estado:** Refactoreado a TL V.2 - Framework de Biopolítica y Comunicación Política.
+
 
 
 

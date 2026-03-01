@@ -1,5 +1,5 @@
 ---
-titulo: "Nick Szabo (v2.0): El Arquitecto De La Justicia Inmanente"
+titulo: "Nick Szabo (TL V.2): El Arquitecto De La Justicia Inmanente"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [arquitecto, bitcoin, justicia, nick]
 publish: true
 ---
-# Nick Szabo (v2.0): El Arquitecto De La Justicia Inmanente
+# Nick Szabo (TL V.2): El Arquitecto De La Justicia Inmanente
 
 > [!ABSTRACT] Hipótesis Informativa
 > Nick Szabo es el pensador más peligroso para el **[[Tier B]]** burocrático. Al inventar el concepto de **Contratos Inteligentes (Smart Contracts)** y diseñar **Bit Gold**, Szabo proporcionó al **[[Tier C]]** los planos para una justicia y una economía que no requieren de la "confianza" en los hombres ni en los Estados. Su obra representa el fin del "PEAJE" institucional: la idea de que para ser dueños de nuestras promesas y de nuestro valor, debemos pedir permiso a un burócrata. Más allá de si es o no **Satoshi Nakamoto**, Szabo es el filósofo de la libertad codificada en matemáticas.
@@ -28,9 +28,9 @@ publish: true
 
 ## Conexiones Críticas
 - [[Bitcoin (Satoshi Nakamoto)]]: La aplicación práctica de sus teorías de escasez.
-- [[Cypherpunks]]: El ecosistema intelectual donde nació su visión.
+- [[00_Glosario - Conceptos Fase 1#Cypherpunks\|Cypherpunks]]: El ecosistema intelectual donde nació su visión.
 - [[Contratos Inteligentes (Smart Contracts)]]: El concepto que borra al notario de la historia.
-- [[Ethereum]]: La plataforma que industrializó su visión contractual.
+- [[00_Glosario - Conceptos Fase 1#Ethereum\|Ethereum]]: La plataforma que industrializó su visión contractual.
 - [[Bit Gold]]: Su diseño original para un dinero sin bancos centrales.
 
 ## Conclusión Del Análisis
@@ -39,7 +39,8 @@ Nick Szabo es el prototipo del hombre libre del Siglo XXI. Nos enseñó que la �
 ---
 **Versión:** 2.0
 **Enfoque:** Eliminación de intermediarios mediante Smart Contracts, rol en el origen de Bitcoin (Bit Gold) y filosofía de sistemas sin confianza (Trustless) como base de la libertad de Tier C.
-**Estado:** Refactoreado a v2.0 - Framework de Cripto-Anarquismo Intelectual.
+**Estado:** Refactoreado a TL V.2 - Framework de Cripto-Anarquismo Intelectual.
+
 
 
 

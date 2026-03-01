@@ -1,5 +1,5 @@
 ---
-titulo: "Monsanto (v2.0): El Feudalismo Genético"
+titulo: "Monsanto (TL V.2): El Feudalismo Genético"
 tipo: empresa
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [bayer, feudalismo, fundacin, gentico]
 publish: true
 ---
-# Monsanto (v2.0): El Feudalismo Genético
+# Monsanto (TL V.2): El Feudalismo Genético
 
 > [!ABSTRACT] Hipótesis Informativa
 > Monsanto (ahora absorbida por **[[Bayer]]**) representa la implementación corporativa del **Feudalismo Agrario de [[Tier A]]**. Su modelo de negocio no es la agricultura, sino la **Propiedad Intelectual sobre la Biología**. Al patentar semillas genéticamente modificadas ("Roundup Ready") y diseñar leyes que criminalizan el guardado de semillas ancestrales, Monsanto ha creado un sistema de dependencia total donde el agricultor deja de ser propietario de su producción para convertirse en un arrendatario de la tecnología genética de la élite. Su alianza estratégica con la **[[Fundación Bill y Melinda Gates]]** en África revela el objetivo final: la erradicación de la agricultura soberana en favor de cadenas de suministro centralizadas y químicamente dependientes.
@@ -42,7 +42,8 @@ Monsanto no es una empresa de semillas; es una empresa de **Control Demográfico
 ---
 **Versión:** 2.0
 **Enfoque:** Patentes sobre la vida, fusión con Bayer, daño sistémico del glifosato y alianza con Gates en el Sur Global.
-**Estado:** Refactoreado a v2.0 - Framework de Monopolio Alimentario.
+**Estado:** Refactoreado a TL V.2 - Framework de Monopolio Alimentario.
+
 
 
 

@@ -1,5 +1,5 @@
 ---
-titulo: "Laboratorios Richmond (v2.0): El Puerto Sanitario De La Geopolítica"
+titulo: "Laboratorios Richmond (TL V.2): El Puerto Sanitario De La Geopolítica"
 tipo: empresa
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [geopoltica, marcelo, puerto, sanitario]
 publish: true
 ---
-# Laboratorios Richmond (v2.0): El Puerto Sanitario De La Geopolítica
+# Laboratorios Richmond (TL V.2): El Puerto Sanitario De La Geopolítica
 
 > [!ABSTRACT] Hipótesis Informativa
 > Laboratorios Richmond constituye el **modelo de negocios de [[Tier B]] basado en la intermediación geopolítica y la captura de recursos públicos**. Bajo el liderazgo de **[[Marcelo Figueiras]]**, la empresa se transformó de un laboratorio regional en el **socio estratégico del capital estatal ruso** en el Cono Sur durante la pandemia de COVID-19. Su función no fue la innovación científica autónoma, sino actuar como el **Caballo de Troya logístico** para la vacuna **[[Sputnik V]]**, permitiendo al gobierno argentino desviar capitales estatales hacia una estructura privada aliada mientras se utilizaba la biopolítica como moneda de cambio diplomática.
@@ -46,6 +46,7 @@ Laboratorios Richmond es la **"Embotelladora de la Hegemonía Rusa"** en Argenti
 **Versión:** 2.0
 **Enfoque:** Operaciones de crony-capitalism, acuerdo geopolítico con Rusia por la Sputnik V, financiamiento mediante fideicomisos con fondos públicos y el rol de Marcelo Figueiras como mediador entre el poder político local y el capital estatal extranjero.
 **Estado:** Refactorización Completa.
+
 
 
 

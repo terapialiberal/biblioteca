@@ -1,5 +1,5 @@
 ---
-titulo: "Peter Daszak (v2.0): El Eslabón Perdido De Wuhan"
+titulo: "Peter Daszak (TL V.2): El Eslabón Perdido De Wuhan"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [ecohealth, eslabn, perdido, wuhan]
 publish: true
 ---
-# Peter Daszak (v2.0): El Eslabón Perdido De Wuhan
+# Peter Daszak (TL V.2): El Eslabón Perdido De Wuhan
 
 > [!ABSTRACT] Hipótesis Informativa
 > Peter Daszak es el **Operativo de [[Tier B]] encargado de la intermediación y el encubrimiento** del origen del SARS-CoV-2. Como presidente de **[[EcoHealth Alliance]]**, Daszak actuó como el "lavadero" de fondos del NIH (canalizados por Anthony Fauci) para financiar investigaciones prohibidas de **Ganancia de Función** en el Instituto de Virología de Wuhan. Tras el brote, Daszak orquestó la campaña de desinformación científica para estigmatizar la "Teoría del Laboratorio" como conspiración, protegiendo así la infraestructura de bioguerra del **[[Tier A]]** y su propia responsabilidad legal ante el individuo de **[[Tier C]]**.
@@ -38,7 +38,8 @@ Peter Daszak nos enseña que **las pandemias modernas son el resultado de la amb
 ---
 **Versión:** 2.0
 **Enfoque:** El rol de Daszak en el financiamiento del WIV, la orquestación del encubrimiento científico en The Lancet y su conflicto de interés masivo en las misiones de la OMS.
-**Estado:** Refactoreado a v2.0 - Framework de Biopatología Operativa.
+**Estado:** Refactoreado a TL V.2 - Framework de Biopatología Operativa.
+
 
 
 

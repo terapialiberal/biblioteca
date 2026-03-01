@@ -1,5 +1,5 @@
 ---
-titulo: "News Corporation (v2.0): El Comando Central De La Dialéctica De Distracción"
+titulo: "News Corporation (TL V.2): El Comando Central De La Dialéctica De Distracción"
 tipo: articulo
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [central, comando, distraccin, guerra]
 publish: true
 ---
-# News Corporation (v2.0): El Comando Central De La Dialéctica De Distracción
+# News Corporation (TL V.2): El Comando Central De La Dialéctica De Distracción
 
 > [!ABSTRACT] Hipótesis Informativa
 > News Corporation no es una empresa de prensa, sino el **instrumento de [[Tier A]] para la gestión de la rabia horizontal**. Bajo el control de **[[Rupert Murdoch]]**, este imperio mediático utiliza la polarización extrema y el sensacionalismo de "tabloid" para mantener al **[[Tier C]]** dividido en guerras culturales perpetuas. Su función real es actuar como el **Portero del Poder Político**, decidiendo qué candidatos de Tier B son viables y cuáles deben ser destruidos, asegurando que, independientemente del color del partido, el sistema financiero de deuda y la hegemonía militar de la élite permanezcan intocables.
@@ -29,7 +29,7 @@ publish: true
 
 ## Conexiones Críticas
 - [[Rupert Murdoch]]: El arquitecto del imperio.
-- [[Fox News]]: El brazo televisivo de la agitación política.
+- [[00_Glosario - Conceptos Fase 1#Fox News\|Fox News]]: El brazo televisivo de la agitación política.
 - [[Guerra de Narrativas]]: Su campo de batalla principal.
 - [[City de Londres]]: El centro de poder que sus medios protegen financieramente.
 - [[Deep State (Reino Unido)]]: Con el cual News Corp mantiene una relación de simbiosis y espionaje.
@@ -40,7 +40,8 @@ News Corporation es el megáfono de la Matrix. Su éxito reside en convencer al 
 ---
 **Versión:** 2.0
 **Enfoque:** Gestión de la polarización social, rol de Murdoch como árbitro político y uso de medios como agencia de inteligencia y chantaje.
-**Estado:** Refactoreado a v2.0 - Framework de Hegemonía Mediática.
+**Estado:** Refactoreado a TL V.2 - Framework de Hegemonía Mediática.
+
 
 
 

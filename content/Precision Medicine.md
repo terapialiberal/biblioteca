@@ -1,5 +1,13 @@
 ---
-titulo: PRECISION MEDICINE (v12_1)
+titulo: Precision Medicine
+tipo: 'concepto'
+tier-primario: 'b'
+nivel-evidencia: 'medio'
+tags: [clasificado-ai]
+publish: true
+---
+﻿---
+titulo: PRECISION MEDICINE (TL V.2)
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "a"
@@ -7,7 +15,7 @@ nivel-evidencia: "alto"
 tags: [illumina, medicine, salud, verily]
 publish: true
 ---
-# PRECISION MEDICINE (v12_1)
+# PRECISION MEDICINE (TL V.2)
 
 #### BLUF
 La Medicina de Precisin es el **Fin de la Salud Universal** y el inicio de la **Discriminacin Actuarial Biolgica**. Bajo la promesa de tratamientos personalizados segn el ADN y el estilo de vida, el **Tier A** desplaza el modelo de "riesgo compartido" hacia uno de "riesgo individualizado". En 2026, esto permite a aseguradoras y gobiernos segmentar a la poblacin: los "Biopolticamente Obedientes" (Tier B) reciben medicina de punta; los "Residuos Biolgicos" (Tier C) son relegados a protocolos de mantenimiento de bajo costo operados por IA.
@@ -70,6 +78,7 @@ Es la forma ms justa de medicina. Se acab el recetar a ciegas y los efectos secu
 Cmo se est utilizando la medicina de precisin para disear "protocolos de fin de vida" automatizados para el Tier C con el fin de reducir la carga de las pensiones y el sistema de salud en pases con poblaciones envejecidas?
 
 ---
-*Dossier forense v12_1 | La Segmentaci�n Biopol�tica de la Salud*
+*Dossier forense TL V.2 | La Segmentaciï¿½n Biopolï¿½tica de la Salud*
+
 
 

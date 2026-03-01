@@ -1,5 +1,5 @@
 ---
-titulo: "Pauta Oficial (v2.0): El Mecanismo De Silencio Comprado"
+titulo: "Pauta Oficial (TL V.2): El Mecanismo De Silencio Comprado"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [comprado, mecanismo, pauta, silencio]
 publish: true
 ---
-# Pauta Oficial (v2.0): El Mecanismo De Silencio Comprado
+# Pauta Oficial (TL V.2): El Mecanismo De Silencio Comprado
 
 > [!ABSTRACT] Hipótesis Informativa
 > La Pauta Oficial no es una herramienta de comunicación pública, sino el **mecanismo de corrupción legalizada de [[Tier B]]** para controlar la línea editorial de los medios masivos. Al distribuir miles de millones de fondos públicos bajo el nombre de "publicidad de actos de gobierno", el sistema se asegura de que los medios de comunicación no muerdan la mano que los alimenta. Esto crea un **Monopolio de la Realidad** donde los periodistas de **[[Tier C]]** se autocensuran para proteger la solvencia económica de sus empresas, convirtiendo a la prensa en el brazo de propaganda no oficial del Estado.
@@ -38,7 +38,8 @@ La Pauta Oficial nos enseña que **las noticias no son gratis: si no las pagas t
 ---
 **Versión:** 2.0
 **Enfoque:** La función de la pauta como soborno institucional, su uso para quebrar la independencia periodística y la necesidad de separar el Estado de la financiación de medios.
-**Estado:** Refactoreado a v2.0 - Framework de Corrupción Mediática.
+**Estado:** Refactoreado a TL V.2 - Framework de Corrupción Mediática.
+
 
 
 

@@ -1,5 +1,5 @@
 ---
-titulo: "Néstor Kirchner (v2.0): El Gerente De La Captura Estatal"
+titulo: "Néstor Kirchner (TL V.2): El Gerente De La Captura Estatal"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [blackrock, estatal, gerente, nstor]
 publish: true
 ---
-# Néstor Kirchner (v2.0): El Gerente De La Captura Estatal
+# Néstor Kirchner (TL V.2): El Gerente De La Captura Estatal
 
 > [!ABSTRACT] Hipótesis Informativa
 > Néstor Kirchner no fue un "liberador" frente al capital internacional, sino el gestor que reorganizó la captura del Estado argentino tras el colapso de 2001. Su función fue transformar el aparato estatal en una maquinaria de acumulación primitiva para una nueva oligarquía local, garantizando la paz social necesaria para que el [[Tier A]] (acreedores internacionales y fondos de inversión) extrajera valor de forma ordenada tras el default.
@@ -45,6 +45,7 @@ Néstor Kirchner representa el éxito de la **"Izquierda de la Matriz"**: la cap
 **Versión:** 2.0
 **Enfoque:** Captura estatal y reorganización del capital local bajo supervisión del Tier A.
 **Estado:** Refactorización Completa.
+
 
 
 

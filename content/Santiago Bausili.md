@@ -1,5 +1,5 @@
 ---
-titulo: "Santiago Bausili (v2.0): El Ejecutor De La Ingeniería De Deuda"
+titulo: "Santiago Bausili (TL V.2): El Ejecutor De La Ingeniería De Deuda"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,10 +7,10 @@ nivel-evidencia: "medio"
 tags: [banco, bausili, deuda, santiago]
 publish: true
 ---
-# Santiago Bausili (v2.0): El Ejecutor De La Ingeniería De Deuda
+# Santiago Bausili (TL V.2): El Ejecutor De La Ingeniería De Deuda
 
 > [!ABSTRACT] Hipótesis Informativa
-> Santiago Bausili es el **Operador de [[Tier B]]** encargado de la gestión técnica del balance del **[[Banco Central de la República Argentina (BCRA)]]** bajo el gobierno de Javier Milei. Socio histórico y mano derecha de **[[Luis "Toto" Caputo]]** en la consultora **Anker**, Bausili personifica el traspaso de la gestión de la deuda pública desde el sector privado especializado hacia los controles del Estado. Su función real es la de un **"Ingeniero de la Bicicleta Financiera"**: desarmar la bomba de las Leliqs y reconvertir la deuda del BCRA en deuda del Tesoro, asegurando que los flujos de capital del **[[Tier A]]** financiero (bancos locales e internacionales) permanezcan protegidos mientras se opera la licuación de los ahorros del **[[Tier C]]**.
+> Santiago Bausili es el **Operador de [[Tier B]]** encargado de la gestión técnica del balance del **[[Banco Central de la República Argentina (BCRA)]]** bajo el gobierno de Javier Milei. Socio histórico y mano derecha de **[[00_Glosario - Conceptos Fase 1#Luis "Toto" Caputo\|Luis "Toto" Caputo]]** en la consultora **Anker**, Bausili personifica el traspaso de la gestión de la deuda pública desde el sector privado especializado hacia los controles del Estado. Su función real es la de un **"Ingeniero de la Bicicleta Financiera"**: desarmar la bomba de las Leliqs y reconvertir la deuda del BCRA en deuda del Tesoro, asegurando que los flujos de capital del **[[Tier A]]** financiero (bancos locales e internacionales) permanezcan protegidos mientras se opera la licuación de los ahorros del **[[Tier C]]**.
 
 ## Análisis De Tiers
 
@@ -26,7 +26,7 @@ publish: true
 2.  **Unidad de Mando con Economía**: Eliminación de facto de la separación entre el emisor de moneda y el gestor del gasto, permitiendo una ingeniería de deuda coordinada sin los frenos y contrapesos que exige la soberanía institucional.
 
 ## Conexiones Críticas
-- [[Luis "Toto" Caputo]]: Su mentor y socio en la estructura de poder.
+- [[00_Glosario - Conceptos Fase 1#Luis "Toto" Caputo\|Luis "Toto" Caputo]]: Su mentor y socio en la estructura de poder.
 - [[Anker Latinoamérica]]: La consultora de donde proviene su equipo técnico.
 - [[J.P. Morgan]]: Su escuela de formación en la banca de inversión global.
 - [[Banco Central de la República Argentina (BCRA)]]: El organismo que gestiona para el Tier A.
@@ -38,7 +38,8 @@ Santiago Bausili nos enseña que **dentro de la Matrix económica, nada se pierd
 ---
 **Versión:** 2.0
 **Enfoque:** Bausili como ejecutor de la política financiera de Caputo en el BCRA, su rol en la licuación de pasivos y su trayectoria en la banca de inversión de Tier A.
-**Estado:** Refactoreado a v2.0 - Framework de Finanzas Públicas y Deuda Soberana.
+**Estado:** Refactoreado a TL V.2 - Framework de Finanzas Públicas y Deuda Soberana.
+
 
 
 

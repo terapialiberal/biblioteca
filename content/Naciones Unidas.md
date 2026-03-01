@@ -1,5 +1,5 @@
 ---
-titulo: "Naciones Unidas (v2.0): El Sistema Operativo De La Gobernanza Global"
+titulo: "Naciones Unidas (TL V.2): El Sistema Operativo De La Gobernanza Global"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [gobernanza, naciones, sistema, unidas]
 publish: true
 ---
-# Naciones Unidas (v2.0): El Sistema Operativo De La Gobernanza Global
+# Naciones Unidas (TL V.2): El Sistema Operativo De La Gobernanza Global
 
 > [!ABSTRACT] Hipótesis Informativa
 > Las Naciones Unidas no son un foro de paz, sino la **infraestructura administrativa del Tier A** para la transición hacia un gobierno mundial tecnocrático. Su función es desmantelar la soberanía de los Estados-Nación mediante la imposición de tratados supra-legales, estandarizando la vida humana bajo métricas de control (Carbono, Salud, Identidad Digital) que anulan la autodeterminación de los pueblos (Tier C).
@@ -19,7 +19,7 @@ publish: true
 * **El Pacto para el Futuro (2024):** Este documento marca la transición de la ONU desde una entidad de consulta a una de **Emergencia Ejecutiva**. Otorga al Secretario General poderes planetarios ante crisis climáticas, biológicas o digitales, creando de facto una "dictadura de la emergencia" que elude los parlamentos nacionales.
 
 ### Tier B: Los Gestores De La Normativa
-* **Las Agencias Especializadas (OMS, FMI, Banco Mundial):** Operan como los ministerios del gobierno global. La [[OMS (Organización Mundial de la Salud)]] gestiona la biopolítica, mientras que la UNESCO gestiona la reingeniería cultural y educativa. Su rol es transformar las agendas del Tier A en normativas técnicas imposibles de cuestionar por el Tier C.
+* **Las Agencias Especializadas (OMS, FMI, Banco Mundial):** Operan como los ministerios del gobierno global. La [[Organización Mundial de la Salud\|OMS (Organización Mundial de la Salud)]] gestiona la biopolítica, mientras que la UNESCO gestiona la reingeniería cultural y educativa. Su rol es transformar las agendas del Tier A en normativas técnicas imposibles de cuestionar por el Tier C.
 * **Burocracia Internacional:** Una casta de funcionarios no electos que gozan de inmunidad diplomática y cuyos salarios dependen de la perpetuación de crisis globales que solo ellos dicen poder "gestionar".
 
 ### Tier C: La Población Administrada
@@ -33,7 +33,7 @@ publish: true
 
 ## Conexiones Críticas
 - [[Agenda 2030]]: El mapa de ruta para el cercamiento de los bienes comunes.
-- [[OMS (Organización Mundial de la Salud)]]: El brazo ejecutor de la tiranía médica.
+- [[Organización Mundial de la Salud\|OMS (Organización Mundial de la Salud)]]: El brazo ejecutor de la tiranía médica.
 - [[Gran Reset (Great Reset)]]: La convergencia estratégica entre la ONU y el [[WEF]].
 - [[Lucis Trust]]: El trasfondo filosófico/esotérico de la reingeniería moral de la ONU.
 - [[UNESCO]]: El laboratorio para la homogeneización educativa y cultural global.
@@ -45,6 +45,7 @@ La ONU es el **Caballo de Troya de la Soberanía**. Bajo la bandera de la paz y 
 **Versión:** 2.0
 **Enfoque:** Gobernanza global, erosión de soberanía y centralización tecnocrática de emergencias.
 **Estado:** Refactorización Completa.
+
 
 
 

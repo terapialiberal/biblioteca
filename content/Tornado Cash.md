@@ -1,15 +1,12 @@
 ---
+titulo: Tornado Cash
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [cash, estado, naciones, tornado]
 publish: true
-created: 2026-01-29T19:17:40.629-03:00
-modified: 2026-02-27T13:06:53.179-03:00
-tags:
-  - cash
-  - estado
-  - naciones
-  - tornado
-cssclasses: ""
 ---
-
 # Tornado Cash
 
 ## Resumen General
@@ -24,10 +21,10 @@ cssclasses: ""
 *   **North Korea:** La excusa fue que hackers norcoreanos (Lazarus Group) usaban Tornado para lavar fondos robados.
 
 ## Conexiones
-- [[Ethereum]]
+- [[00_Glosario - Conceptos Fase 1#Ethereum\|Ethereum]]
 - [[Smart Contracts]]
 - [[Lavado de Dinero]]
-- [[Cypherpunks]]
+- [[00_Glosario - Conceptos Fase 1#Cypherpunks\|Cypherpunks]]
 
 
 

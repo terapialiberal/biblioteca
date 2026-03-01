@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:02.735-03:00
-modified: 2026-02-27T13:06:19.255-03:00
+modified: 2026-02-27T13:06:31.577-03:00
 tags:
   - accord
   - acuerdo

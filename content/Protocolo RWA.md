@@ -1,5 +1,13 @@
 ---
-titulo: PROTOCOLO RWA (REAL WORLD ASSETS) (v12_1)
+titulo: Protocolo RWA
+tipo: 'organizacion'
+tier-primario: 'b'
+nivel-evidencia: 'medio'
+tags: [clasificado-ai]
+publish: true
+---
+﻿---
+titulo: PROTOCOLO RWA (REAL WORLD ASSETS) (TL V.2)
 tipo: evento
 fecha: 2026-02-25
 tier-primario: "a"
@@ -7,7 +15,7 @@ nivel-evidencia: "alto"
 tags: [centrifuge, digitalizaci, propiedad, protocolo]
 publish: true
 ---
-# PROTOCOLO RWA (REAL WORLD ASSETS) (v12_1)
+# PROTOCOLO RWA (REAL WORLD ASSETS) (TL V.2)
 
 #### BLUF
 El Protocolo RWA no es una tecnologa, es una **Arquitectura de Expropiacin Fluida**. Define las reglas por las cuales la tierra, el oro, las fbricas y la deuda de Tier C se introducen en el Ledger Digital del Tier A. En 2026, estos protocolos (impulsados por empresas como [[Centrifuge]] o [[Maple Finance]]) permiten al gran capital fragmentar y vender cualquier activo fsico como una "accin digital", diluyendo la propiedad real y permitiendo la vigilancia y el embargo centralizado de la riqueza material.
@@ -70,6 +78,7 @@ Es la nica forma de desbloquear los \300 trillones de riqueza ilquida del mundo.
 Cul es el protocolo de respaldo fsico cuando el servidor de AWS que aloja el contrato de propiedad de Tier C se apaga o es censurado por razones polticas?
 
 ---
-*Dossier forense v12_1 | La Escriban�a de la Matrix Material*
+*Dossier forense TL V.2 | La Escribanï¿½a de la Matrix Material*
+
 
 

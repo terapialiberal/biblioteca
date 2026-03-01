@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:12.380-03:00
-modified: 2026-02-27T13:07:53.161-03:00
+modified: 2026-02-27T13:07:58.529-03:00
 tags:
   - atentado
   - estrategia

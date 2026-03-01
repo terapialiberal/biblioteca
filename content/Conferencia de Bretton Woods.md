@@ -30,7 +30,7 @@ El sistema colaps en 1971 cuando Nixon termin la convertibilidad del dlar en oro
 - [[FMI]]
 - [[Banco Mundial]]
 - [[Shock de Nixon]]
-- [[Sistema Petrodlar]]
+- [[Sistema Petrodólar\|Sistema Petrodlar]]
 
 ## Fuentes
 - Documentos de la conferencia

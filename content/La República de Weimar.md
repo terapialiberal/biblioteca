@@ -1,5 +1,5 @@
 ---
-titulo: "La República De Weimar (v2.0): El Manual De La Demolición Controlada"
+titulo: "La República De Weimar (TL V.2): El Manual De La Demolición Controlada"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [demolicin, hiperinflacin, ludwig, repblica]
 publish: true
 ---
-# La República De Weimar (v2.0): El Manual De La Demolición Controlada
+# La República De Weimar (TL V.2): El Manual De La Demolición Controlada
 
 > [!ABSTRACT] Hipótesis Informativa
 > La República de Weimar constituyó el **laboratorio de ingeniería social y financiera más radical del [[Tier A]] en el siglo XX**. Lejos de ser un fallo accidental de la democracia, Weimar fue el escenario donde se probaron las técnicas de **hiperinflación programada** para destruir la independencia económica del [[Tier C]], junto con una **subversión cultural** extrema destinada a fracturar la moral tradicional. La importancia sistémica del caso reside en la creación deliberada de un caos insoportable para el ciudadano común, con el fin de inducir una reacción violenta de [[Tier B]] que justificara el ascenso de un régimen totalitario industrial-militar que sirviera a los planes de reordenamiento global.
@@ -46,6 +46,7 @@ La República de Weimar fue la **"Fase de Ablandamiento" de la civilización mod
 **Versión:** 2.0
 **Enfoque:** Uso estratégico de la hiperinflación para destruir a la clase media, subversión moral como herramienta de atomización social y la gestión de la polarización para inducir el totalitarismo.
 **Estado:** Refactorización Completa.
+
 
 
 

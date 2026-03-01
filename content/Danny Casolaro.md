@@ -1,21 +1,18 @@
 ---
+titulo: Danny Casolaro
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [bcci, casolaro, danny, promis]
 publish: true
-created: 2026-01-29T19:17:09.609-03:00
-modified: 2026-02-27T13:22:26.902-03:00
-tags:
-  - bcci
-  - casolaro
-  - danny
-  - promis
-cssclasses: ""
 ---
-
 # Danny Casolaro
 
 ## Perfil TL (Resumen Ejecutivo)
 **¿Quién fue?** Un periodista de investigación independiente que fue encontrado muerto en la habitación de un hotel en Virginia mientras investigaba una vasta red de conspiración que él denominó **"The Octopus" (El Pulpo)**.
 
-**¿Por qué importa?** Casolaro es el **mártir de la investigación sobre el Deep State**. Su muerte fue declarada oficialmente como "suicidio" (se encontró con las muñecas cortadas en una bañera), pero su familia y colegas denunciaron que sus notas de investigación, su maletín y el último capítulo de su libro desaparecieron del lugar. Danny estaba uniendo los puntos entre el robo del software **[[PROMIS Software\|PROMIS]]**, la quiebra del banco **[[BCCI Scandal\|BCCI]]**, el escándalo **Irán-Contra**, el **Octubre Sorpresa** y el papel de agentes de inteligencia renegados trabajando para corporaciones privadas. Su muerte sirvió como una advertencia brutal al Tier C investigador: si te acercas demasiado al cerebro del "Pulpo", el sistema te limpia y borra tu rastro.
+**¿Por qué importa?** Casolaro es el **mártir de la investigación sobre el Deep State**. Su muerte fue declarada oficialmente como "suicidio" (se encontró con las muñecas cortadas en una bañera), pero su familia y colegas denunciaron que sus notas de investigación, su maletín y el último capítulo de su libro desaparecieron del lugar. Danny estaba uniendo los puntos entre el robo del software **[[PROMIS Software\|PROMIS]]**, la quiebra del banco **[[00_Glosario - Conceptos Fase 1#BCCI Scandal\|BCCI]]**, el escándalo **Irán-Contra**, el **Octubre Sorpresa** y el papel de agentes de inteligencia renegados trabajando para corporaciones privadas. Su muerte sirvió como una advertencia brutal al Tier C investigador: si te acercas demasiado al cerebro del "Pulpo", el sistema te limpia y borra tu rastro.
 
 ## Análisis De Poder (Tiers)
 
@@ -33,7 +30,7 @@ cssclasses: ""
 ## Conexiones Clave
 - [[El Pulpo (The Octopus)]] (El objeto de su investigación)
 - [[PROMIS Software]] (El arma digital que rastreaba)
-- [[BCCI Scandal]] (La lavandería de dinero que encontró)
+- [[00_Glosario - Conceptos Fase 1#BCCI Scandal\|BCCI Scandal]] (La lavandería de dinero que encontró)
 - [[Irán-Contra]] (El marco operativo de fondo)
 
 ## Fuentes

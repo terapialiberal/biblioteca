@@ -1,16 +1,13 @@
 ---
+titulo: ALGORITHMIC GOVERNANCE (TL V.2)
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [algorithmic, anduril, governance, palantir]
 publish: true
-created: 2026-02-25T16:10:40.583-03:00
-modified: 2026-02-27T13:21:58.487-03:00
-tags:
-  - algorithmic
-  - anduril
-  - governance
-  - palantir
-cssclasses: ""
 ---
-
-# ALGORITHMIC GOVERNANCE (v12_1)
+# ALGORITHMIC GOVERNANCE (TL V.2)
 
 #### BLUF
 La Gobernanza Algorítmica es la **Sustitución de la Ley por el Código**. En 2026, las decisiones sobre asignación de recursos, gestión de crédito, políticas de salud y sentencias judiciales ya no son el resultado de un debate humano (Tier C), sino el output de sistemas de IA (Tier A) opacos. El ciudadano ya no es un sujeto de derechos, sino una **Variable en una Ecuación de Optimización** cuyo objetivo es la estabilidad del sistema y la rentabilidad del capital, no la justicia o la libertad.
@@ -73,6 +70,7 @@ Los humanos somos corruptibles, lentos y prejuiciosos. Un algoritmo no acepta so
 ¿Quién posee las "llaves maestras" de edición del algoritmo de gobernanza global que coordina las políticas de los bancos centrales con las de las agencias de seguridad nacional?
 
 ---
-*Dossier forense v12_1 | El Gobierno del Cálculo Invisible*
+*Dossier forense TL V.2 | El Gobierno del Cálculo Invisible*
+
 
 

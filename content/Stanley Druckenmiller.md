@@ -1,5 +1,5 @@
 ---
-titulo: "Stanley Druckenmiller (v2.0): El Ejecutor Del Arbitraje Sistémico"
+titulo: "Stanley Druckenmiller (TL V.2): El Ejecutor Del Arbitraje Sistémico"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [george, quantum, sistmico, stanley]
 publish: true
 ---
-# Stanley Druckenmiller (v2.0): El Ejecutor Del Arbitraje Sistémico
+# Stanley Druckenmiller (TL V.2): El Ejecutor Del Arbitraje Sistémico
 
 > [!ABSTRACT] Hipótesis Informativa
 > Stanley Druckenmiller es el **Operador de [[Tier B]]** financiero más dotado de su generación. Como brazo derecho de **[[George Soros]]** durante la era dorada del **[[Quantum Fund]]**, su función real en la Matrix fue la de un **"Ingeniero de la Inestabilidad Monetaria"**: identificar las fisuras en los bancos centrales para lanzar ataques especulativos masivos contra divisas nacionales (como la Libra en 1992). Druckenmiller personifica la transición del poder financiero desde las instituciones tradicionales hacia los gestores de "dinero inteligente" de Tier B, quienes extraen riqueza del **[[Tier C]]** global mediante la manipulación de la volatilidad y la deuda.
@@ -41,7 +41,8 @@ Stanley Druckenmiller nos enseña que **el sistema financiero no es un mercado d
 ---
 **Versión:** 2.0
 **Enfoque:** Druckenmiller como el cerebro táctico detrás de Soros, su rol en el Miércoles Negro, su éxito en Duquesne Capital y su función como operador de Tier B que explota las debilidades del sistema de moneda fiat para concentrar riqueza de Tier A a expensas del Tier C.
-**Estado:** Refactoreado a v2.0 - Framework de Especulación Macro y Poder Financiero.
+**Estado:** Refactoreado a TL V.2 - Framework de Especulación Macro y Poder Financiero.
+
 
 
 

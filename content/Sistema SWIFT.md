@@ -1,15 +1,12 @@
 ---
+titulo: "Sistema SWIFT: El Control De Flujos Financieros Globales"
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [banco, flujos, sistema, swift]
 publish: true
-created: 2026-01-29T19:17:37.114-03:00
-modified: 2026-02-27T13:23:56.554-03:00
-tags:
-  - banco
-  - flujos
-  - sistema
-  - swift
-cssclasses: ""
 ---
-
 # Sistema SWIFT: El Control De Flujos Financieros Globales
 
 > [!ABSTRACT] Hipótesis Informativa
@@ -28,7 +25,7 @@ cssclasses: ""
 2. **Exclusión Geopolítica:** Arma financiera para sancionar estados no alineados.
 
 ## Conexiones Críticas
-- [[Banco de Pagos Internacionales (BIS)]]: Supervisión y estándares.
+- [[Banco de Pagos Internacionales\|Banco de Pagos Internacionales (BIS)]]: Supervisión y estándares.
 - [[Agencia de Seguridad Nacional]]: Acceso a datos de vigilancia.
 
 ## Conclusión Del Análisis

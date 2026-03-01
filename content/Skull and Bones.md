@@ -1,5 +1,5 @@
 ---
-titulo: "Skull and Bones (v2.0): El Semillero De La Aristocracia Del Estado Profundo"
+titulo: "Skull and Bones (TL V.2): El Semillero De La Aristocracia Del Estado Profundo"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [estado, george, skull, wall]
 publish: true
 ---
-# Skull and Bones (v2.0): El Semillero De La Aristocracia Del Estado Profundo
+# Skull and Bones (TL V.2): El Semillero De La Aristocracia Del Estado Profundo
 
 > [!ABSTRACT] Hipótesis Informativa
 > Skull and Bones (Calavera y Huesos) es la **Sociedad Secreta de Reclutamiento de [[Tier A]]** más influyente del sistema de poder estadounidense. Fundada en 1832 en la Universidad de Yale por **William Huntington Russell** y **Alphonso Taft**, su función real en la Matrix es la de un **"Filtro de Lealtad Intergeneracional"**: seleccionar a 15 miembros de la élite estudiantil cada año para integrarlos en una red de por vida que ha ocupado la Presidencia de EE.UU., la dirección de la **[[CIA]]**, el Tribunal Supremo y los principales bancos de **[[Wall Street]]**. Skull and Bones es la prueba de que la "democracia" de EE.UU. es administrada por una fraternidad consanguínea que prioriza los secretos de "La Orden" por encima de la soberanía del **[[Tier C]]**.
@@ -41,7 +41,8 @@ Skull and Bones nos enseña que **las democracias son a menudo oligarquías con 
 ---
 **Versión:** 2.0
 **Enfoque:** Skull and Bones como núcleo de reclutamiento de la élite estadounidense, su control sobre la CIA y la presidencia (Bush/Kerry), sus rituales de lealtad absoluta y el impacto del nepotismo de Yale en la dirección de la política exterior y financiera de EE.UU.
-**Estado:** Refactoreado a v2.0 - Framework de Sociedades Secretas y Estructura de Ã‰lite.
+**Estado:** Refactoreado a TL V.2 - Framework de Sociedades Secretas y Estructura de Ã‰lite.
+
 
 
 

@@ -1,15 +1,12 @@
 ---
+titulo: Canal De Panamá
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [canal, confesiones, john, panam]
 publish: true
-created: 2026-01-29T19:17:06.307-03:00
-modified: 2026-02-27T13:22:12.677-03:00
-tags:
-  - canal
-  - confesiones
-  - john
-  - panam
-cssclasses: ""
 ---
-
 # Canal De Panamá
 
 ## Perfil TL (Resumen Ejecutivo)
@@ -32,7 +29,7 @@ cssclasses: ""
 
 ## Conexiones Clave
 - [[Confesiones de un sicario económico]] (El contexto de control)
-- [[Poder Marítimo (Alfred Thayer Mahan)]] (La doctrina de base)
+- [[00_Glosario - Conceptos Fase 1#Poder Marítimo (Alfred Thayer Mahan)\|Poder Marítimo (Alfred Thayer Mahan)]] (La doctrina de base)
 - [[China en Latinoamérica]] (El nuevo dueño)
 - [[Canal de Suez]] (Su contraparte en el este)
 

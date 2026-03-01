@@ -1,5 +1,5 @@
 ---
-titulo: "Standard Chartered (v2.0): El Centinela Financiero De Las Ex-Colonias"
+titulo: "Standard Chartered (TL V.2): El Centinela Financiero De Las Ex-Colonias"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [chartered, city, colonias, financiero]
 publish: true
 ---
-# Standard Chartered (v2.0): El Centinela Financiero De Las Ex-Colonias
+# Standard Chartered (TL V.2): El Centinela Financiero De Las Ex-Colonias
 
 > [!ABSTRACT] Hipótesis Informativa
 > Standard Chartered es la **Institución Financiera de [[Tier A]]** que personifica la continuidad del control bancario británico sobre sus antiguos dominios coloniales. Aunque tiene su sede en Londres, su función real en la Matrix es la de un **"Administrador de Flujos en Mercados Emergentes"**: actuar como el puente de capital entre los recursos de Asia, África y Medio Oriente y los nodos de poder de la **[[City de Londres]]**. Standard Chartered opera como una infraestructura de **[[SDS (Supranational Deep State)]]** para la gestión de divisas y la facilitación del comercio transnacional, habiéndose visto involucrado en escándalos sistémicos de lavado de dinero que revelan su rol en la gestión de los mercados grises permitidos por el soberano.
@@ -32,7 +32,7 @@ publish: true
 - [[City de Londres]]: El epicentro de poder desde donde opera.
 - [[HSBC]]: Su contraparte en la red bancaria oriental británica.
 - [[Lavado de Dinero]]: El marco de sus mayores controversias legales.
-- [[BIS (Banco de Pagos Internacionales)]]: El organismo que define las reglas que SCB impone en las ex-colonias.
+- [[Banco de Pagos Internacionales\|BIS (Banco de Pagos Internacionales)]]: El organismo que define las reglas que SCB impone en las ex-colonias.
 - [[Reserva Federal]]: El regulador de facto que permite a SCB operar en dólares a pesar de sus violaciones.
 
 ## Conclusión Del Análisis
@@ -41,7 +41,8 @@ Standard Chartered nos enseña que **el imperio nunca se retiró, solo se digita
 ---
 **Versión:** 2.0
 **Enfoque:** Standard Chartered como banco colonial moderno, su rol en el flujo de capital de mercados emergentes, sus escándalos de lavado de dinero para Irán y su función como brazo de influencia de la City de Londres en las ex-colonias.
-**Estado:** Refactoreado a v2.0 - Framework de Finanzas Imperiales y Mercados Emergentes.
+**Estado:** Refactoreado a TL V.2 - Framework de Finanzas Imperiales y Mercados Emergentes.
+
 
 
 

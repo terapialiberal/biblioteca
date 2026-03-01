@@ -1,16 +1,17 @@
 ---
-publish: true
-created: 2026-01-29T19:17:23.480-03:00
-modified: 2026-02-26T23:11:23.105-03:00
+titulo: Manly P. Hall
+tipo: persona
+fecha: 2026-02-25T00:00:00.000Z
+tier-primario: b
+nivel-evidencia: medio
 tags:
   - sociedades-secretas
   - nueva-atlántida
   - masonería
   - filosofía-esotérica
   - estado-profundo
-cssclasses: ""
+publish: true
 ---
-
 # Manly P. Hall
 
 ## Resumen Ejecutivo
@@ -36,7 +37,7 @@ Manly P. Hall nos dio el mapa del tesoro de los amos del mundo. Si quieres enten
 ## Conexiones
 - [[Francis Bacon]] (Su mentor espiritual)
 - [[Masonería]]
-- [[Franklin D. Roosevelt]]
+- [[00_Glosario - Conceptos Fase 1#Franklin D. Roosevelt\|Franklin D. Roosevelt]]
 - [[Nueva Atlántida]]
 - [[Philosophical Research Society]]
 

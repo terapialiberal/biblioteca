@@ -1,20 +1,21 @@
 ---
-publish: true
-created: 2026-01-29T19:17:33.469-03:00
-modified: 2026-02-27T11:19:36.276-03:00
+titulo: 'Retirada De Afganistán (TL V.2): El Colapso De La Simulación De Hegemonía'
+tipo: concepto
+fecha: 2026-02-25T00:00:00.000Z
+tier-primario: b
+nivel-evidencia: medio
 tags:
   - retirada-afganistan
   - colapso-hegemonia
   - geopolitica
   - estados-unidos
   - multipolaridad
-cssclasses: ""
+publish: true
 ---
-
-# Retirada De Afganistán (v2.0): El Colapso De La Simulación De Hegemonía
+# Retirada De Afganistán (TL V.2): El Colapso De La Simulación De Hegemonía
 
 > [!ABSTRACT] Hipótesis Informativa
-> La retirada de EE.UU. de Afganistán en agosto de 2021 fue el **Evento de Humillación Estratégica de [[Tier A]]** que marcó el fin de la ilusión de la competencia unipolar americana. Tras 20 años de ocupación y trillones de dólares gastados, la administración de **[[Joe Biden]]** ejecutó una salida caótica que entregó el país a los **[[Talibanes]]** en días, dejando atrás **80 mil millones de dólares** en equipo militar de última generación. Su función real fue servir como una **Señal de Debilidad Máxima** a los adversarios geopolíticos (**[[BRICS]]**, Rusia, China), demostrando que la Matrix militar ya no puede sostener sus proyecciones de fuerza y acelerando la transición hacia un nuevo orden nominalmente multipolar.
+> La retirada de EE.UU. de Afganistán en agosto de 2021 fue el **Evento de Humillación Estratégica de [[Tier A]]** que marcó el fin de la ilusión de la competencia unipolar americana. Tras 20 años de ocupación y trillones de dólares gastados, la administración de **[[Joe Biden]]** ejecutó una salida caótica que entregó el país a los **[[00_Glosario - Conceptos Fase 1#Talibanes\|Talibanes]]** en días, dejando atrás **80 mil millones de dólares** en equipo militar de última generación. Su función real fue servir como una **Señal de Debilidad Máxima** a los adversarios geopolíticos (**[[BRICS]]**, Rusia, China), demostrando que la Matrix militar ya no puede sostener sus proyecciones de fuerza y acelerando la transición hacia un nuevo orden nominalmente multipolar.
 
 ## Análisis De Tiers
 
@@ -32,7 +33,7 @@ cssclasses: ""
 ## Conexiones Críticas
 - [[Joe Biden]]: El presidente que ordenó la retirada contra el consejo de sus generales.
 - [[Complejo Militar Industrial]]: El verdadero ganador financiero de los 20 años de conflicto.
-- [[Talibanes]]: Los nuevos custodios del arsenal abandonado por EE.UU.
+- [[00_Glosario - Conceptos Fase 1#Talibanes\|Talibanes]]: Los nuevos custodios del arsenal abandonado por EE.UU.
 - [[BRICS]]: El bloque que vio en este evento el pistoletazo de salida para el desafío a la hegemonía del dólar.
 - [[Atentado del Aeropuerto de Kabul]]: El costo humano inmediato del caos logístico.
 
@@ -42,7 +43,8 @@ La Retirada de Afganistán nos enseña que **el poder que no puede ejecutar una 
 ---
 **Versión:** 2.0
 **Enfoque:** El caos logístico de la retirada, la entrega de 80 mil millones en equipo militar a los Talibanes y el mensaje de debilidad enviado a las potencias del bloque BRICS.
-**Estado:** Refactoreado a v2.0 - Framework de Geopolítica y Decadencia Imperial.
+**Estado:** Refactoreado a TL V.2 - Framework de Geopolítica y Decadencia Imperial.
+
 
 
 

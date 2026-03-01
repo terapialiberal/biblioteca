@@ -1,15 +1,12 @@
 ---
+titulo: "John Elkann: El Modernizador Silencioso"
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [elkann, modernizador, silencioso, wallenberg]
 publish: true
-created: 2026-01-29T19:17:19.808-03:00
-modified: 2026-02-27T13:23:00.928-03:00
-tags:
-  - elkann
-  - modernizador
-  - silencioso
-  - wallenberg
-cssclasses: ""
 ---
-
 # John Elkann: El Modernizador Silencioso
 
 > [!ABSTRACT] Hipótesis Informativa
@@ -19,7 +16,7 @@ cssclasses: ""
 
 ### Tier A: La Mesa Chica Global
 * **Comité Directivo de Bilderberg:** Elkann es un asistente regular y miembro del comité directivo del Grupo Bilderberg. Allí coordina la desindustrialización de Occidente y la transición hacia el modelo de "Capitalismo de Stakeholders".
-* **Dueño de la Palabra:** Al controlar **[[The Economist]]**, Elkann supervisa la línea editorial que define qué países son "viables" y cuáles son "populistas". Su poder de veto sobre la reputación de un país es inmenso.
+* **Dueño de la Palabra:** Al controlar **[[00_Glosario - Conceptos Fase 1#The Economist\|The Economist]]**, Elkann supervisa la línea editorial que define qué países son "viables" y cuáles son "populistas". Su poder de veto sobre la reputación de un país es inmenso.
 
 ### Tier B: Ejecución Corporativa
 * **El Arquitecto de Stellantis:** Orquestó la fusión con Peugeot, creando una entidad capaz de imponer condiciones a la Unión Europea. Su gestión se basa en la eficiencia financiera despiadada, cerrando fábricas históricas en Italia para mover producción a zonas de menor costo (Marruecos, Europa del Este, Sudamérica).

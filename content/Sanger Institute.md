@@ -1,5 +1,5 @@
 ---
-titulo: "Sanger Institute (v2.0): El Panóptico De La Vigilancia Genómica Global"
+titulo: "Sanger Institute (TL V.2): El Panóptico De La Vigilancia Genómica Global"
 tipo: organizacion
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [panptico, sanger, transhumanismo, vigilancia]
 publish: true
 ---
-# Sanger Institute (v2.0): El Panóptico De La Vigilancia Genómica Global
+# Sanger Institute (TL V.2): El Panóptico De La Vigilancia Genómica Global
 
 > [!ABSTRACT] Hipótesis Informativa
 > El Sanger Institute es el **Centro de Inteligencia Biológica de [[Tier A]]** más avanzado del mundo. Financiado por el **[[Wellcome Trust]]**, su función real no es solo el avance de la medicina, sino la **Captura y Secuenciación del Código Fuente de la Vida**. Como epicentro de la "vigilancia genómica", el instituto mapea las vulnerabilidades biológicas de la población de **[[Tier C]]**, permitiendo que la élite de la Matrix posea un mapa detallado del And humano y viral. Esto facilita la transición hacia el **[[Transhumanismo]]** controlado y el diseño de políticas biopolíticas de precisión basadas en la discriminación genética.
@@ -41,7 +41,8 @@ El Sanger Institute nos enseña que **quien lee tu And, escribe tu destino**. No
 ---
 **Versión:** 2.0
 **Enfoque:** El instituto como centro de captura de datos genéticos masivos, su rol en la vigilancia de variantes durante la pandemia y su vinculación con la agenda transhumanista y eugenésica del Wellcome Trust.
-**Estado:** Refactoreado a v2.0 - Framework de Biotecnología y Vigilancia Global.
+**Estado:** Refactoreado a TL V.2 - Framework de Biotecnología y Vigilancia Global.
+
 
 
 

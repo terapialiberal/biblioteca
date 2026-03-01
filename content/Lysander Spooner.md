@@ -1,15 +1,12 @@
 ---
+titulo: "Lysander Spooner: El Demoledor De La Legitimidad Estatal"
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [demoledor, estatal, soberana, spooner]
 publish: true
-created: 2026-01-29T19:17:23.212-03:00
-modified: 2026-02-27T13:23:17.494-03:00
-tags:
-  - demoledor
-  - estatal
-  - soberana
-  - spooner
-cssclasses: ""
 ---
-
 # Lysander Spooner: El Demoledor De La Legitimidad Estatal
 
 > [!ABSTRACT] Resumen de Inteligencia
@@ -35,7 +32,8 @@ Spooner es el autor que te "desenchufa" de la Matrix legal. Si la Constitución 
 - **Conceptos:** [[Ley Natural]], [[Soberanía Individual]], [[No Treason]], [[Derecho de Autodefensa]].
 - **Antídotos:** [[Bitcoin]], [[Descentralización]], [[Desobediencia Civil]].
 
-**Estado:** Refactoreado a v2.0 - Marco de Resistencia Individualista.
+**Estado:** Refactoreado a TL V.2 - Marco de Resistencia Individualista.
+
 
 
 

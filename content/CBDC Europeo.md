@@ -1,16 +1,13 @@
 ---
+titulo: CBDC EUROPEO (TL V.2)
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "a"
+nivel-evidencia: "alto"
+tags: [christine, digital, grillete, programable]
 publish: true
-created: 2026-02-25T14:13:18.100-03:00
-modified: 2026-02-27T13:22:16.831-03:00
-tags:
-  - christine
-  - digital
-  - grillete
-  - programable
-cssclasses: ""
 ---
-
-# CBDC EUROPEO (v12_1)
+# CBDC EUROPEO (TL V.2)
 
 #### BLUF
 El Euro Digital no es una criptomoneda; es una actualización de la **Arquitectura de Control del Tier A (BCE)** para eliminar el anonimato del efectivo. En 2026, con el marco legal finalizado y la fase piloto en marcha, el objetivo real es la **Programabilidad de la Vida**: la capacidad de condicionar el gasto según créditos de carbono o cumplimiento de normas de salud.
@@ -22,7 +19,7 @@ El Euro Digital no es una criptomoneda; es una actualización de la **Arquitectu
 | [[Christine Lagarde]] (BCE) | A | Administradora de Liquidez | Centralizar el poder monetario fuera de la banca comercial. |
 | [[Comisión Europea]] | B | Brazo Legislador | Crear el marco legal para el dinero con fecha de vencimiento. |
 | [[Bancos Comerciales]] | B | Distribuidores / Rehenes | No ser desintermediados totalmente por el BCE. |
-| [[BIS (Bank for International Settlements)]] | A | El Nodo Maestro | Coordinar la interoperabilidad global vía [[Project Agorá (BIS)]]. |
+| [[BIS (Bank for International Settlements)]] | A | El Nodo Maestro | Coordinar la interoperabilidad global vía [[Proyecto Agorá (BIS)\|Project Agorá (BIS)]]. |
 
 
 #### SEÑALES VS RUIDO
@@ -73,6 +70,7 @@ El Euro Digital es solo un intento desesperado de Europa de no quedarse atrás f
 ¿Cómo se integrará el Euro Digital con el sistema de **Digital ID** europeo para restringir compras transfronterizas basándose en la "huella de carbono"?
 
 ---
-*Versión: 1.0 (v12_1) | Dossier de Control Financiero*
+*Versión: 1.0 (TL V.2) | Dossier de Control Financiero*
+
 
 

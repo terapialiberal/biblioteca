@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:31.522-03:00
-modified: 2026-02-27T13:07:51.547-03:00
+modified: 2026-02-27T13:07:56.572-03:00
 tags:
   - autocumplida
   - manufactura

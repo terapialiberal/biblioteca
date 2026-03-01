@@ -1,5 +1,5 @@
 ---
-titulo: "Jorge Brito (v2.0): El Cajero De La Gobernabilidad Tier B"
+titulo: "Jorge Brito (TL V.2): El Cajero De La Gobernabilidad Tier B"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [banco, brito, jorge, sergio]
 publish: true
 ---
-# Jorge Brito (v2.0): El Cajero De La Gobernabilidad Tier B
+# Jorge Brito (TL V.2): El Cajero De La Gobernabilidad Tier B
 
 > [!ABSTRACT] Hipótesis Informativa
 > Jorge Brito constituyó el **nodo central de la simbiosis entre el capital financiero local y el poder político de Argentina**. Como fundador del **[[Banco Macro]]**, transformó una mesa de dinero en el pulmón financiero del Estado, privatizando las cajas provinciales para capturar la liquidez de los gobernadores. Brito actuó como el "Garante de la Continuidad" de la clase política de [[Tier B]], financiando campañas de todo el espectro ideológico para asegurar que la estructura de extracción de renta bancaria permaneciera inmune a los ciclos electorales del [[Tier C]].
@@ -45,6 +45,7 @@ Jorge Brito fue el **"Arquitecto de la Corrupción de Guante Blanco"** en Argent
 **Versión:** 2.0
 **Enfoque:** Financiamiento transversal de la política argentina, captura de bancos provinciales y el rol del Banco Macro como pulmón financiero del Estado.
 **Estado:** Refactorización Completa.
+
 
 
 

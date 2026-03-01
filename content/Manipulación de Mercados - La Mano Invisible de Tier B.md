@@ -1,15 +1,12 @@
 ---
+titulo: Manipulación De Mercados — La Mano Invisible De Tier B
+tipo: "concepto"
+fecha: 2026-02-25
+tags: [invisible, manipulacin, mano, mercados]
+tier-primario: "b"
+nivel-evidencia: "alto"
 publish: true
-created: 2026-02-25T22:50:22.160-03:00
-modified: 2026-02-27T13:23:18.095-03:00
-tags:
-  - invisible
-  - manipulacin
-  - mano
-  - mercados
-cssclasses: ""
 ---
-
 
 # Manipulación De Mercados — La Mano Invisible De Tier B
 
@@ -40,7 +37,7 @@ cssclasses: ""
 ## Conexiones Críticas
 - [[Manipulación de Mercados - La Mano Invisible de Tier B]]
 - [[Mercado de Acciones - La Democratización de la Captura]]
-- [[Derivados (Quadrillion Dollar Bubble)]]: La herramienta principal para la manipulación a gran escala.
+- [[00_Glosario - Conceptos Fase 1#Derivados (Quadrillion Dollar Bubble)\|Derivados (Quadrillion Dollar Bubble)]]: La herramienta principal para la manipulación a gran escala.
 - [[PsyOp - Operaciones Sicológicas]]: La manipulación del mercado es 90% psicología de masas.
 
 ## Cui Bono

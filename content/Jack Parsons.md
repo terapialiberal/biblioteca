@@ -1,5 +1,5 @@
 ---
-titulo: "Jack Parsons (v2.0): El Alquimista De La Era Espacial"
+titulo: "Jack Parsons (TL V.2): El Alquimista De La Era Espacial"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [aleister, espacial, jack, nasa]
 publish: true
 ---
-# Jack Parsons (v2.0): El Alquimista De La Era Espacial
+# Jack Parsons (TL V.2): El Alquimista De La Era Espacial
 
 > [!ABSTRACT] Hipótesis Informativa
 > Jack Parsons representa el **nexo biopolítico entre la ciencia de vanguardia y el ocultismo de élite**. Pionero de la propulsión sólida y cofundador del JPL, Parsons no veía contradicción entre la ingeniería de cohetes y la magia ritual de Aleister Crowley. Su función para el [[Tier A]] fue proporcionar el "avance de Prometeo" (la capacidad de abandonar la Tierra) mientras exploraba, mediante el ritual *Babalon Working*, las fronteras de la manipulación psíquica y la invocación de entidades, sentando las bases de una tecnocracia que es, en su núcleo, profundamente esotérica.
@@ -45,6 +45,7 @@ Jack Parsons es el **Prometeo que fue incinerado por su propio fuego**. Su vida 
 **Versión:** 2.0
 **Enfoque:** Fusión de ciencia aeroespacial y ocultismo (OTO), Babalon Working y el sacrificio del genio disruptivo.
 **Estado:** Refactorización Completa.
+
 
 
 

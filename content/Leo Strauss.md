@@ -1,19 +1,16 @@
 ---
+titulo: "Leo Strauss: El Arquitecto De La Mentira Noble"
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [mentira, neoconservadores, noble, strauss]
 publish: true
-created: 2026-01-29T19:17:22.223-03:00
-modified: 2026-02-27T13:23:12.573-03:00
-tags:
-  - mentira
-  - neoconservadores
-  - noble
-  - strauss
-cssclasses: ""
 ---
-
 # Leo Strauss: El Arquitecto De La Mentira Noble
 
 > [!ABSTRACT] Resumen de Inteligencia
-> Leo Strauss fue el motor intelectual detrás de la captura ideológica del Estado Profundo estadounidense. A través de su lectura esotérica de los clásicos, enseñó a una generación de operadores de **Tier B** ([[Neoconservadores]]) que la democracia es una fachada necesaria y que la estabilidad social depende de una élite de **Tier A** capaz de administrar la **"Mentira Noble"**. Su legado es la justificación filosófica para el engaño masivo de **Tier C**: la creación de enemigos artificiales y crisis fabricadas para movilizar a la "turba" hacia los objetivos estratégicos de la oligarquía.
+> Leo Strauss fue el motor intelectual detrás de la captura ideológica del Estado Profundo estadounidense. A través de su lectura esotérica de los clásicos, enseñó a una generación de operadores de **Tier B** ([[00_Glosario - Conceptos Fase 1#Neoconservadores\|Neoconservadores]]) que la democracia es una fachada necesaria y que la estabilidad social depende de una élite de **Tier A** capaz de administrar la **"Mentira Noble"**. Su legado es la justificación filosófica para el engaño masivo de **Tier C**: la creación de enemigos artificiales y crisis fabricadas para movilizar a la "turba" hacia los objetivos estratégicos de la oligarquía.
 
 ## Análisis De Poder (Matrix)
 
@@ -34,10 +31,11 @@ Leo Strauss es el hombre que le quitó la culpa a los mentirosos del poder. Para
 ## Conexiones De La Red
 - **Operadores:** [[Paul Wolfowitz]], [[Dick Cheney]], [[Bill Kristol]].
 - **Conceptos:** [[Mentira Noble (Platón)]], [[Manufactura de Consenso]], [[Nihilismo]].
-- **Organizaciones:** [[PNAC (Project for the New American Century)]], [[American Enterprise Institute]].
+- **Organizaciones:** [[00_Glosario - Conceptos Fase 1#PNAC (Project for the New American Century)\|PNAC (Project for the New American Century)]], [[American Enterprise Institute]].
 - **Inspiración:** [[Maquiavelo]], [[Platón]] (Lectura Esotérica).
 
-**Estado:** Refactoreado a v2.0 - Framework de Inteligencia Aplicado.
+**Estado:** Refactoreado a TL V.2 - Framework de Inteligencia Aplicado.
+
 
 
 

@@ -1,15 +1,12 @@
 ---
+titulo: DAO (Decentralized Autonomous Organization)
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [autonomous, decentralized, organization, smart]
 publish: true
-created: 2026-01-29T19:17:09.632-03:00
-modified: 2026-02-27T13:07:16.069-03:00
-tags:
-  - autonomous
-  - decentralized
-  - organization
-  - smart
-cssclasses: ""
 ---
-
 # DAO (Decentralized Autonomous Organization)
 
 ## Perfil TL (Resumen Ejecutivo)
@@ -32,7 +29,7 @@ cssclasses: ""
 
 ## Conexiones Clave
 - [[Smart Contracts]] (El motor de la DAO)
-- [[Ethereum]] (La cuna de la mayoría de las DAOs)
+- [[00_Glosario - Conceptos Fase 1#Ethereum\|Ethereum]] (La cuna de la mayoría de las DAOs)
 - [[Estado Red (Network State)]] (El objetivo político final)
 - [[Web3]] (El envoltorio publicitario)
 

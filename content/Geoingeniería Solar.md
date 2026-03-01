@@ -1,15 +1,12 @@
 ---
+titulo: Geoingeniería Solar (SCoPEx)
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [bill, modificacin, scopex, solar]
 publish: true
-created: 2026-01-29T19:17:15.031-03:00
-modified: 2026-02-27T13:07:54.768-03:00
-tags:
-  - bill
-  - modificacin
-  - scopex
-  - solar
-cssclasses: ""
 ---
-
 # Geoingeniería Solar (SCoPEx)
 
 ## Perfil TL (Resumen Ejecutivo)
@@ -33,7 +30,7 @@ cssclasses: ""
 ## Conexiones Clave
 - [[Bill Gates]] (Su principal financista privado)
 - [[Harvard University]] (Su base de legitimación académica)
-- [[Chemtrails (Geoingeniería)]] (La versión operativa no oficial)
+- [[00_Glosario - Conceptos Fase 1#Chemtrails (Geoingeniería)\|Chemtrails (Geoingeniería)]] (La versión operativa no oficial)
 - [[Agenda del Cambio Climático]] (Su marco de justificación)
 
 ## Por Qué Importa (Estilo Nico)

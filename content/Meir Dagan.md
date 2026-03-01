@@ -1,5 +1,5 @@
 ---
-titulo: "Meir Dagan (v2.0): El Arquitecto Del Sabotaje Infinito"
+titulo: "Meir Dagan (TL V.2): El Arquitecto Del Sabotaje Infinito"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [arquitecto, dagan, infinito, sabotaje]
 publish: true
 ---
-# Meir Dagan (v2.0): El Arquitecto Del Sabotaje Infinito
+# Meir Dagan (TL V.2): El Arquitecto Del Sabotaje Infinito
 
 > [!ABSTRACT] Hipótesis Informativa
 > Meir Dagan transformó al **[[Mossad]]** de una agencia de espionaje en una máquina de **Guerra Híbrida**. Como director (2002-2011), implementó la doctrina de que "una guerra no declarada es más efectiva que una invasión". Fue el cerebro detrás de **[[Stuxnet]]** (el primer ciberataque cinético de la historia) y de la campaña sistemática de asesinatos selectivos de científicos nucleares iraníes. Dagan representa la cúspide del **Tier B** operativo: un ejecutor despiadado que, paradójicamente, frenó las ambiciones bélicas convencionales de **[[Benjamin Netanyahu]]** (Tier A político), demostrando que el sabotaje silencioso es una herramienta de control superior al bombardeo masivo.
@@ -39,7 +39,8 @@ Meir Dagan enseñó al mundo moderno cómo se pelea en el siglo XXI. No con tanq
 ---
 **Versión:** 2.0
 **Enfoque:** Creación de Stuxnet, campaña de asesinatos de científicos, doctrina de guerra no convencional y oposición al ataque militar abierto.
-**Estado:** Refactoreado a v2.0 - Framework de Sabotaje Estatal.
+**Estado:** Refactoreado a TL V.2 - Framework de Sabotaje Estatal.
+
 
 
 

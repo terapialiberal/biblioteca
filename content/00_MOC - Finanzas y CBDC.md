@@ -1,15 +1,12 @@
 ---
 publish: true
-created: 2026-02-09T17:49:12.815-03:00
-modified: 2026-02-27T13:21:56.171-03:00
-tags:
-  - 00-moc
-  - cbdc
-  - financiera
-  - reconfiguracin
-cssclasses: ""
+titulo: "🗺️ MOC: Reconfiguración Financiera (CBDC & Rieles)"
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [00-moc, cbdc, financiera, reconfiguracin]
 ---
-
 # 🗺️ MOC: Reconfiguración Financiera (CBDC & Rieles)
 
 ## 📌 TESIS CENTRAL
@@ -20,7 +17,7 @@ El sistema fíat basado en el dólar está siendo migrado hacia una arquitectura
 
 ### El Banco Central De Los Bancos Centrales
 - [[BIS]] (Bank for International Settlements)
-- [[Proyecto Agorá]]: La unificación de depósitos bancarios tokenizados (v12_1).
+- [[Proyecto Agorá]]: La unificación de depósitos bancarios tokenizados (TL V.2).
 - [[BIS Innovation Hub]]: El laboratorio de la tecnocracia financiera.
 - [[CBDC Interoperability]]: El pegamento del control monetario transfronterizo.
 
@@ -54,11 +51,11 @@ El sistema fíat basado en el dólar está siendo migrado hacia una arquitectura
 
 ## 🔗 CONEXIONES DE MEMORIA
 - [[MOC - Rimland]] (La base física del capital)
-- [[MOC - Control Financiero]] ← **Ver diferencia de alcance abajo**
+- [[00_MOC - Control Financiero\|MOC - Control Financiero]] ← **Ver diferencia de alcance abajo**
 - [[99_AI/05_Memoria_Central/Entity_Graph]]
-- [[99_AI/05_Memoria_Central/SISTEMA-IA]]
+- [[99_AI/05_Memoria_Central/00_ONBOARDING_MAESTRO]]
 
-> [!NOTE] Diferencia con [[MOC - Control Financiero]]
+> [!NOTE] Diferencia con [[00_MOC - Control Financiero\|MOC - Control Financiero]]
 > - **Este MOC** cubre la **arquitectura técnica**: CBDC, rieles DLT, mBridge, Project Agora. El *cómo* se mueve el dinero.
 > - **MOC Control Financiero** cubre los **mecanismos de extracción**: deuda, inflación, Great Taking, bail-in. El *a quién* se lo sacan.
 > Son complementarios. Este MOC es la plomería. El otro, el robo.
@@ -67,3 +64,45 @@ El sistema fíat basado en el dólar está siendo migrado hacia una arquitectura
 
 > [!IMPORTANT]
 > Los movimientos en este MOC son SEÑALES (Tier 1). Ignorar el cambio de rieles es ignorar el cambio de Dueño del sistema.
+
+- [[00_MOC - Finanzas y CBDC\|00_MOC - Finanzas y CBDC]]
+- [[Articulo Pendiente - Great Taking (bail-in)\|Articulo Pendiente - Great Taking (bail-in)]]
+- [[Banco de Pagos Internacionales\|Banco de Pagos Internacionales]]
+- [[Bio-Identidad Digital\|Bio-Identidad Digital]]
+- [[Biometría Global\|Biometría Global]]
+- [[BIS Innovation Hub\|BIS Innovation Hub]]
+- [[Blockchain e Inmutabilidad\|Blockchain e Inmutabilidad]]
+- [[Cambio China hacia mercado interno\|Cambio China hacia mercado interno]]
+- [[Carney_en_Beijing_DW\|Carney_en_Beijing_DW]]
+- [[CBDC Interoperability\|CBDC Interoperability]]
+- [[CBDCs\|CBDCs]]
+- [[CHEAT_SHEET_PRAXEOLOGIA\|CHEAT_SHEET_PRAXEOLOGIA]]
+- [[Cómo la casa de Rothschild se entrelazó con Epstein\|Cómo la casa de Rothschild se entrelazó con Epstein]]
+- [[Crédito Social\|Crédito Social]]
+- [[Crédito Social Chino\|Crédito Social Chino]]
+- [[Cybernetics of Control\|Cybernetics of Control]]
+- [[Diem\|Diem]]
+- [[El Gran Reinicio\|El Gran Reinicio]]
+- [[El Patrón Bitcoin\|El Patrón Bitcoin]]
+- [[Estados Unidos ha advertido a otros que eviten pré\|Estados Unidos ha advertido a otros que eviten pré]]
+- [[Ethereum Foundation\|Ethereum Foundation]]
+- [[General Richardson resalta el vasto potencial de S\|General Richardson resalta el vasto potencial de S]]
+- [[Geocercas\|Geocercas]]
+- [[Gold Backed CBDC - Pilot\|Gold Backed CBDC - Pilot]]
+- [[Great Reset\|Great Reset]]
+- [[Grupo de los Treinta\|Grupo de los Treinta]]
+- [[Guerra de Divisas\|Guerra de Divisas]]
+- [[Hal Finney\|Hal Finney]]
+- [[Línea de Tiempo - 2010s-2020s\|Línea de Tiempo - 2010s-2020s]]
+- [[Mercado Pago\|Mercado Pago]]
+- [[Monedas de Privacidad\|Monedas de Privacidad]]
+- [[Nuevo Bretton Woods\|Nuevo Bretton Woods]]
+- [[Rishi Sunak\|Rishi Sunak]]
+- [[Score Ciudadano\|Score Ciudadano]]
+- [[Sistemas de Crédito Social\|Sistemas de Crédito Social]]
+- [[Vínculos Ocultos Cómo Figuras Clave del FMI y el E\|Vínculos Ocultos Cómo Figuras Clave del FMI y el E]]
+- [[Wall Street and FDR\|Wall Street and FDR]]
+- [[Wall Street and the Bolshevik Revolution\|Wall Street and the Bolshevik Revolution]]
+- [[Wall Street and the Rise of Hitler\|Wall Street and the Rise of Hitler]]
+- [[Xi Jinping pide que el renminbi chino alcance el e\|Xi Jinping pide que el renminbi chino alcance el e]]
+

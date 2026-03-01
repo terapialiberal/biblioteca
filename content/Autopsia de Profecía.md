@@ -1,15 +1,12 @@
 ---
+titulo: Resumen General
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [autopsia, operaciones, problema, profeca]
 publish: true
-created: 2026-01-29T19:17:04.529-03:00
-modified: 2026-02-27T13:07:16.993-03:00
-tags:
-  - autopsia
-  - operaciones
-  - problema
-  - profeca
-cssclasses: ""
 ---
-
 # Resumen General
 La "profecía autocumplida" ocurre cuando una predicción causa que se cumpla. En geopolítica, los medios y el poder usan este mecanismo: anuncian que "algo sucederá" y luego crean las condiciones para que suceda.
 
@@ -37,7 +34,7 @@ La "profecía autocumplida" ocurre cuando una predicción causa que se cumpla. E
 # Conexiones
 - [[Operaciones Psicológicas (PsyOps)]]
 - [[Problema-Reacción-Solución]]
-- [[Gaslighting (Político)]]
+- [[00_Glosario - Conceptos Fase 1#Gaslighting (Político)\|Gaslighting (Político)]]
 - [[Framing (Encuadre)]]
 
 # Por Qué Importa

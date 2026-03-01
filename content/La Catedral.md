@@ -1,16 +1,13 @@
 ---
+titulo: "La Catedral (TL V.2): El Sistema De Control Descentralizado"
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [curtis, descentralizado, hegemona, sistema]
 publish: true
-created: 2026-01-29T19:17:21.044-03:00
-modified: 2026-02-27T13:23:06.580-03:00
-tags:
-  - curtis
-  - descentralizado
-  - hegemona
-  - sistema
-cssclasses: ""
 ---
-
-# La Catedral (v2.0): El Sistema De Control Descentralizado
+# La Catedral (TL V.2): El Sistema De Control Descentralizado
 
 > [!ABSTRACT] Hipótesis Informativa
 > "La Catedral" es el concepto neorreaccionario que describe la **infraestructura de sincronización ideológica del [[Tier A]]**. Acuñado por **[[Curtis Yarvin]]**, define al complejo descentralizado de universidades, medios de comunicación de masas y burocracia estatal (Deep State) que actúa como un "coro" para fabricar el consenso oficial. A diferencia de una tiranía centralizada, la Catedral no emite órdenes directas; funciona mediante una red de incentivos de prestigio y exclusión que asegura que todas las instituciones operen bajo una misma cosmología globalista y progresista, eliminando el disenso mediante la **excomunión social** y la muerte civil.
@@ -35,7 +32,7 @@ cssclasses: ""
 3. **Control del Lenguaje (PC-Speech)**: La imposición de neologismos y términos prohibidos que limitan la capacidad del Tier C para conceptualizar la realidad fuera de los parámetros permitidos por la Catedral.
 
 ## Conexiones Críticas
-- [[Curtis Yarvin (Moldbug)]]: El biógrafo de la arquitectura de la Catedral.
+- [[00_Glosario - Conceptos Fase 1#Curtis Yarvin (Moldbug)\|Curtis Yarvin (Moldbug)]]: El biógrafo de la arquitectura de la Catedral.
 - [[Hegemonía Cultural]]: El concepto marxista que la Catedral utiliza para su dominación.
 - [[Manufactura de Consenso]]: El proceso técnico descrito por Chomsky aplicado a la escala total de la Catedral.
 - [[Silicon Valley]]: El brazo técnico que proporciona la infraestructura de censura algorítmica.
@@ -48,6 +45,7 @@ La Catedral es la **"Iglesia de la Razón de Estado"**. Su importancia reside en
 **Versión:** 2.0
 **Enfoque:** Sistema descentralizado de consenso, rol de la academia y los medios como clero moderno y mecanismos de exclusión social para proteger la hegemonía del Tier A.
 **Estado:** Refactorización Completa.
+
 
 
 

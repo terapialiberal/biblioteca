@@ -1,5 +1,5 @@
 ---
-titulo: "Modificación Del Clima (v2.0): El Arma De Dominación Invisible"
+titulo: "Modificación Del Clima (TL V.2): El Arma De Dominación Invisible"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [arma, clima, haarp, invisible]
 publish: true
 ---
-# Modificación Del Clima (v2.0): El Arma De Dominación Invisible
+# Modificación Del Clima (TL V.2): El Arma De Dominación Invisible
 
 > [!ABSTRACT] Hipótesis Informativa
 > La Modificación del Clima no es ciencia ficción ni "salvación ecológica"; es una doctrina militar activa de **[[Tier A]]**. Bajo el concepto de **"Full Spectrum Dominance"**, la capacidad de provocar sequías, inundaciones o tormentas dirigidas se utiliza como un arma de guerra asimétrica para desestabilizar economías rivales (Guerra Híbrida) sin declarar hostilidades abiertas. Proyectos como la Inyección de Aerosoles Estratosféricos (Chemtrails) y la manipulación ionosférica (**[[HAARP]]**) sirven a una doble función: militarizar la atmósfera para comunicaciones/radar y crear una crisis ambiental artificial que justifique la imposición de una gobernanza climática global centralizada.
@@ -33,7 +33,7 @@ publish: true
 
 ## Conexiones Críticas
 - [[HAARP (Manipulación Ionosférica)]]: La tecnología de excitación atmosférica.
-- [[Chemtrails (Geoingeniería)]]: El método de dispersión de partículas.
+- [[00_Glosario - Conceptos Fase 1#Chemtrails (Geoingeniería)\|Chemtrails (Geoingeniería)]]: El método de dispersión de partículas.
 - [[Monsanto]]: El beneficiario agrícola del desastre.
 - [[Bill Gates]]: El financiador de la geoingeniería solar.
 - [[Agenda 2030]]: La estructura política que se beneficia de la "crisis".
@@ -44,7 +44,8 @@ La modificación del clima es el último cercamiento: la privatización del aire
 ---
 **Versión:** 2.0
 **Enfoque:** Doctrina militar "Owning the Weather", impacto en agricultura y salud, HAARP y Chemtrails como armas, y la narrativa del cambio climático como encubrimiento.
-**Estado:** Refactoreado a v2.0 - Framework de Guerra Ambiental.
+**Estado:** Refactoreado a TL V.2 - Framework de Guerra Ambiental.
+
 
 
 

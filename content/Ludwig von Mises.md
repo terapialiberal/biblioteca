@@ -1,15 +1,12 @@
 ---
+titulo: "Ludwig Von Mises: El Arquitecto De La Libertad Económica"
+tipo: evento
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [arquitecto, ludwig, mises, reserva]
 publish: true
-created: 2026-01-29T19:17:23.108-03:00
-modified: 2026-02-27T13:23:16.829-03:00
-tags:
-  - arquitecto
-  - ludwig
-  - mises
-  - reserva
-cssclasses: ""
 ---
-
 # Ludwig Von Mises: El Arquitecto De La Libertad Económica
 
 > [!ABSTRACT] Resumen de Inteligencia
@@ -36,7 +33,8 @@ Mises es el hombre que le quitó la máscara a los planificadores centrales. Nos
 - **Legado:** [[Escuela Austríaca]], [[Bitcoin]], [[Liberalismo Clásico]].
 - **Conceptos:** [[Acción Humana]], [[Ciclo Económico]], [[Patrón Oro]].
 
-**Estado:** Refactoreado a v2.0 - Marco de Resistencia Praxeológica.
+**Estado:** Refactoreado a TL V.2 - Marco de Resistencia Praxeológica.
+
 
 
 

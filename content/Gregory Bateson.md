@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:16.041-03:00
-modified: 2026-02-27T13:07:18.832-03:00
+modified: 2026-02-27T13:07:31.868-03:00
 tags:
   - bateson
   - conferencias

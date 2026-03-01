@@ -1,15 +1,12 @@
 ---
+titulo: "Project Agorá (BIS): El Libro Mayor Unificado (Unified Ledger)"
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [agor, blackrock, jpmorgan, project]
 publish: true
-created: 2026-02-25T13:51:11.142-03:00
-modified: 2026-02-27T13:23:43.972-03:00
-tags:
-  - agor
-  - blackrock
-  - jpmorgan
-  - project
-cssclasses: ""
 ---
-
 # Project Agorá (BIS): El Libro Mayor Unificado (Unified Ledger)
 
 > [!ABSTRACT] BLUF (Bottom Line Up Front)
@@ -45,6 +42,7 @@ cssclasses: ""
 ---
 **Falsabilidad**: Si los bancos comerciales de EEUU se niegan a ceder el control de sus bases de datos al ledger unificado del BIS por razones de soberanía de datos, el proyecto podría fragmentarse en redes privadas incompatibles.
 
-*Versión: 2.0 | Protocolo TL-INTEL v12_0*
+*Versión: 2.0 | Protocolo TL-INTEL TL V.2*
+
 
 

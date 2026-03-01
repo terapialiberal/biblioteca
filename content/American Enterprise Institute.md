@@ -1,15 +1,12 @@
 ---
 publish: true
-created: 2026-01-29T19:17:03.429-03:00
-modified: 2026-02-27T11:53:45.502-03:00
-tags:
-  - american
-  - enterprise
-  - institute
-  - richard
-cssclasses: ""
+titulo: American Enterprise Institute (AEI)
+tipo: organizacion
+fecha: 2026-02-25
+tier-primario: b
+nivel-evidencia: medio
+tags: [american, enterprise, institute, richard]
 ---
-
 # American Enterprise Institute (AEI)
 
 ## Resumen Ejecutivo
@@ -30,8 +27,8 @@ cssclasses: ""
 *   "Defensa de la libertad y el libre mercado". Organizan galas con políticos famosos para dar una pátina de legitimidad académica a la expansión militar corporativa.
 
 ## Conexiones Clave
-- [[PNAC (Project for the New American Century)]] (Overlap total de objetivos)
-- [[Council on Foreign Relations (CFR)]] (Coordinación de niveles altos)
+- [[00_Glosario - Conceptos Fase 1#PNAC (Project for the New American Century)\|PNAC (Project for the New American Century)]] (Overlap total de objetivos)
+- [[Council on Foreign Relations\|Council on Foreign Relations (CFR)]] (Coordinación de niveles altos)
 - [[Raytheon]] y [[Lockheed Martin]] (Financistas indirectos/beneficiarios)
 - [[Dick Cheney]] (Miembro honorario y usuario de sus políticas)
 

@@ -1,15 +1,12 @@
 ---
+titulo: Virality Project
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [project, renee, stanford, virality]
 publish: true
-created: 2026-01-29T19:17:43.266-03:00
-modified: 2026-02-27T13:07:52.273-03:00
-tags:
-  - project
-  - renee
-  - stanford
-  - virality
-cssclasses: ""
 ---
-
 # Virality Project
 
 > [!INFO] Entidad de Control (Tier B)
@@ -34,7 +31,7 @@ El Gobierno (DHS/CISA) no puede censurar legalmente.
 - [[Stanford Internet Observatory]]
 - [[Renee DiResta]] (Directora, ex-CIA fellow)
 - [[DHS]] (Departamento de Seguridad Nacional)
-- [[Censura Digital]]
+- [[00_Glosario - Conceptos Fase 1#Censura Digital\|Censura Digital]]
 - [[Twitter Files]]
 
 ## Fuentes

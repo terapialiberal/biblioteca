@@ -1,5 +1,5 @@
 ---
-titulo: "Riesgo De La Inversión Pasiva (v2.0): La Centralización Del Poder Accionarial"
+titulo: "Riesgo De La Inversión Pasiva (TL V.2): La Centralización Del Poder Accionarial"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [blackrock, inversin, poder, riesgo]
 publish: true
 ---
-# Riesgo De La Inversión Pasiva (v2.0): La Centralización Del Poder Accionarial
+# Riesgo De La Inversión Pasiva (TL V.2): La Centralización Del Poder Accionarial
 
 > [!ABSTRACT] Hipótesis Informativa
 > El auge de la Inversión Pasiva (fondos indexados y ETFs) ha generado el mayor fenómeno de **Centralización del Control de [[Tier A]]** en la historia del capitalismo. Al delegar la elección de acciones en índices automáticos gestionados por el "Big Three" (**[[BlackRock]]**, **[[Grupo Vanguard]]** y **[[State Street]]**), el **[[Tier C]]** ha entregado sin saberlo el poder de voto de sus ahorros a una tríada de gestoras que hoy poseen la mayoría accionarial de casi todas las empresas del S&P 500. Su función real es la **Cartelización de la Economía**: eliminar la competencia real entre empresas y forzar la adopción de agendas ideológicas (**[[ESG]]**) mediante el chantaje del voto institucional, transformando el mercado en una economía planificada por la élite financiera de la Matrix.
@@ -39,7 +39,8 @@ El Riesgo de la Inversión Pasiva nos enseña que **el bajo coste de las comisio
 ---
 **Versión:** 2.0
 **Enfoque:** La concentración de poder en el Big Three (BlackRock, Vanguard, State Street) a través de ETFs, la imposición de agendas ESG y el fin de la competencia corporativa real.
-**Estado:** Refactoreado a v2.0 - Framework de Ingeniería Financiera y Control Corporativo.
+**Estado:** Refactoreado a TL V.2 - Framework de Ingeniería Financiera y Control Corporativo.
+
 
 
 

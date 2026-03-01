@@ -1,5 +1,5 @@
 ---
-titulo: "Rumble (v2.0): ¿Refugio De Disidentes O Captura De Datos De La Matrix?"
+titulo: "Rumble (TL V.2): ¿Refugio De Disidentes O Captura De Datos De La Matrix?"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,10 +7,10 @@ nivel-evidencia: "medio"
 tags: [disidentes, matrix, rumble, wokismo]
 publish: true
 ---
-# Rumble (v2.0): ¿Refugio De Disidentes O Captura De Datos De La Matrix?
+# Rumble (TL V.2): ¿Refugio De Disidentes O Captura De Datos De La Matrix?
 
 > [!ABSTRACT] Hipótesis Informativa
-> Rumble es la **Infraestructura de Medios de [[Tier B]]** posicionada como la alternativa soberana a la censura de **[[YouTube]]**. Impulsada por una base de usuarios que huye de la agenda **[[Wokismo\|Woke]]** y la biopolítica sanitaria del **[[Tier A]]**, Rumble se vende como el último bastión de la libertad de expresión. Sin embargo, su función real en la Matrix podría ser la de un **"Embudo de Disidencia Controlada"**: una plataforma financiada por el establishment tecnológico-financiero (**[[Peter Thiel]]**, **[[Howard Lutnick]]**) diseñada para centralizar y perfilar a los elementos más críticos del **[[Tier C]]**, asegurando que sus datos y metadatos permanezcan bajo la vigilancia de entidades vinculadas al complejo de inteligencia (**[[Palantir]]**).
+> Rumble es la **Infraestructura de Medios de [[Tier B]]** posicionada como la alternativa soberana a la censura de **[[00_Glosario - Conceptos Fase 1#YouTube\|YouTube]]**. Impulsada por una base de usuarios que huye de la agenda **[[Wokismo\|Woke]]** y la biopolítica sanitaria del **[[Tier A]]**, Rumble se vende como el último bastión de la libertad de expresión. Sin embargo, su función real en la Matrix podría ser la de un **"Embudo de Disidencia Controlada"**: una plataforma financiada por el establishment tecnológico-financiero (**[[Peter Thiel]]**, **[[Howard Lutnick]]**) diseñada para centralizar y perfilar a los elementos más críticos del **[[Tier C]]**, asegurando que sus datos y metadatos permanezcan bajo la vigilancia de entidades vinculadas al complejo de inteligencia (**[[Palantir]]**).
 
 ## Análisis De Tiers
 
@@ -29,7 +29,7 @@ publish: true
 - [[Peter Thiel]]: El cerebro financiero con conexiones profundas con la inteligencia.
 - [[Howard Lutnick]]: El facilitador de su estructura de capital.
 - [[Donald Trump]]: Rumble proporciona la infraestructura de video para Truth Social y sus rallies.
-- [[YouTube]]: El "enemigo" necesario para validar la narrativa de libertad de Rumble.
+- [[00_Glosario - Conceptos Fase 1#YouTube\|YouTube]]: El "enemigo" necesario para validar la narrativa de libertad de Rumble.
 - [[Palantir]]: (Vinculado por la red de Thiel y el potencial uso de IA para análisis de datos).
 
 ## Conclusión Del Análisis
@@ -38,7 +38,8 @@ Rumble nos enseña que **dentro de la Matrix, la libertad suele venir con una et
 ---
 **Versión:** 2.0
 **Enfoque:** Rumble como alternativa comercial a YouTube, su financiamiento por parte de Thiel y Lutnick, y el riesgo de que funcione como una trampa de datos (Honey Pot) para monitorear a la disidencia global.
-**Estado:** Refactoreado a v2.0 - Framework de Plataformas Digitales y Vigilancia.
+**Estado:** Refactoreado a TL V.2 - Framework de Plataformas Digitales y Vigilancia.
+
 
 
 

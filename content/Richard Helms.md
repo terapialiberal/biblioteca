@@ -1,5 +1,5 @@
 ---
-titulo: "Richard Helms (v2.0): El Guardián De Las Tinieblas Institucionales"
+titulo: "Richard Helms (TL V.2): El Guardián De Las Tinieblas Institucionales"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [helms, mkultra, richard, sidney]
 publish: true
 ---
-# Richard Helms (v2.0): El Guardián De Las Tinieblas Institucionales
+# Richard Helms (TL V.2): El Guardián De Las Tinieblas Institucionales
 
 > [!ABSTRACT] Hipótesis Informativa
 > Richard Helms fue el **Operador de [[Tier B]]** que institucionalizó el secreto absoluto y la negación plausible como la religión oficial de la **[[CIA]]**. Director de la Agencia entre 1966 y 1973, Helms es la cara del "Estado Profundo" que sobrevive a las administraciones políticas. Su función real fue proteger la infraestructura de la Matrix ante el escrutinio democrático, ordenando la **Destrucción Masiva de Archivos de [[MKUltra]]** en 1973. Al quemar la evidencia del control mental y el espionaje doméstico ilegal, Helms aseguró que el **[[Tier A]]** pudiera continuar sus experimentos de ingeniería social sin consecuencias legales, estableciendo el precedente de que la "Seguridad Nacional" es una licencia para el crimen sistémico.
@@ -39,7 +39,8 @@ Richard Helms nos enseña que **el secreto es el sistema operativo del poder rea
 ---
 **Versión:** 2.0
 **Enfoque:** Helms como el director que ordenó la destrucción de los archivos de MKUltra, su lealtad suprema a la CIA por encima de la ley y su rol en el derrocamiento de Allende en Chile.
-**Estado:** Refactoreado a v2.0 - Framework de Inteligencia y Secreto de Estado.
+**Estado:** Refactoreado a TL V.2 - Framework de Inteligencia y Secreto de Estado.
+
 
 
 

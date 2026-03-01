@@ -1,5 +1,5 @@
 ---
-titulo: "Programación Predictiva (v2.0): El Guion Planeado De La Realidad"
+titulo: "Programación Predictiva (TL V.2): El Guion Planeado De La Realidad"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [guion, planeado, predictiva, primado]
 publish: true
 ---
-# Programación Predictiva (v2.0): El Guion Planeado De La Realidad
+# Programación Predictiva (TL V.2): El Guion Planeado De La Realidad
 
 > [!ABSTRACT] Hipótesis Informativa
 > La Programación Predictiva es la **estrategia de pre-acondicionamiento psicológico de [[Tier A]]** ejecutada a través de la industria del entretenimiento. Consiste en introducir conceptos, eventos catastróficos o cambios sociales radicales en obras de ficción (cine, series, libros) años antes de su implementación real. El objetivo es lograr que el **[[Tier C]]** desarrolle una **Familiaridad Subconsciente** con el evento, reduciendo su resistencia y capacidad de shock cuando este ocurre en la realidad. Bajo este marco, la ficción no "predice" el futuro; lo **anuncia** para obtener el consentimiento implícito o kármico de la población.
@@ -39,7 +39,8 @@ La Programación Predictiva nos enseña que **nada en la Matrix es un accidente*
 ---
 **Versión:** 2.0
 **Enfoque:** El cine como herramienta de familiarización traumática, el consentimiento kármico de la élite y el rol de Hollywood en la revelación de la agenda.
-**Estado:** Refactoreado a v2.0 - Framework de Pre-Acondicionamiento Social.
+**Estado:** Refactoreado a TL V.2 - Framework de Pre-Acondicionamiento Social.
+
 
 
 

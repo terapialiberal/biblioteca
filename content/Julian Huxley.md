@@ -1,5 +1,5 @@
 ---
-titulo: "Julian Huxley (v2.0): El Diseñador Del Ganado Humano Global"
+titulo: "Julian Huxley (TL V.2): El Diseñador Del Ganado Humano Global"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [diseador, ganado, humano, julian]
 publish: true
 ---
-# Julian Huxley (v2.0): El Diseñador Del Ganado Humano Global
+# Julian Huxley (TL V.2): El Diseñador Del Ganado Humano Global
 
 > [!ABSTRACT] Hipótesis Informativa
 > Julian Huxley fue el **arquitecto principal para la mutación de la eugenesia en gobernanza global biopolítica**. Miembro de uno de los linajes intelectuales más influyentes del [[Tier A]] británico, Huxley fundó la **[[UNESCO]]** no como un organismo cultural, sino como una herramienta de ingeniería social destinada a estandarizar la psique humana y normalizar la gestión biológica de la población. Su mayor logro fue la transmutación semántica de la eugenesia (desprestigiada tras el nazismo) en conceptos aceptables para el [[Tier C]] como "Planificación Familiar", "Transhumanismo" y "Conservacionismo Ambiental".
@@ -45,6 +45,7 @@ Julian Huxley fue el **"Jardinero del Planeta"** desde la perspectiva de la éli
 **Versión:** 2.0
 **Enfoque:** Transformación de la eugenesia en planeación demográfica y ambientalismo, fundación de la UNESCO como herramienta de adoctrinamiento global y origen del transhumanismo.
 **Estado:** Refactorización Completa.
+
 
 
 

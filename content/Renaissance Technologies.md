@@ -1,5 +1,5 @@
 ---
-titulo: "Renaissance Technologies (v2.0): El Algoritmo De La Riqueza Absoluta"
+titulo: "Renaissance Technologies (TL V.2): El Algoritmo De La Riqueza Absoluta"
 tipo: empresa
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [absoluta, algoritmo, renaissance, robert]
 publish: true
 ---
-# Renaissance Technologies (v2.0): El Algoritmo De La Riqueza Absoluta
+# Renaissance Technologies (TL V.2): El Algoritmo De La Riqueza Absoluta
 
 > [!ABSTRACT] Hipótesis Informativa
 > Renaissance Technologies (RenTech) no es un hedge fund convencional, sino la **Infraestructura de Extracción de Capital Algorítmico de [[Tier A]]** más exitosa de la historia. Fundada por el criptógrafo de la **[[NSA]]** Jim Simons, la firma ha logrado con su **Medallion Fund** retornos anuales de ~66%, una cifra estadísticamente imposible bajo las leyes de eficiencia de mercado tradicionales. Su función real es doble: servir como un **Cajero Automático para la Ã‰lite** de inteligencia y financiar, a través de figuras como **[[Robert Mercer]]**, la reingeniería política de Occidente (vía Cambridge Analytica), demostrando que en la Matrix, el código de descifrado militar y el código financiero son la misma arma.
@@ -38,7 +38,8 @@ Renaissance Technologies nos enseña que **el mercado está trucado por la super
 ---
 **Versión:** 2.0
 **Enfoque:** RenTech como extensión de la capacidad criptográfica de la NSA, los retornos imposibles del Medallion Fund y el financiamiento de Robert Mercer a la ingeniería política post-2016.
-**Estado:** Refactoreado a v2.0 - Framework de Ingeniería Financiera y Ciber-Poder.
+**Estado:** Refactoreado a TL V.2 - Framework de Ingeniería Financiera y Ciber-Poder.
+
 
 
 

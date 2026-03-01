@@ -1,15 +1,12 @@
 ---
+titulo: Teología De La Liberación
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [jesuitas, liberacin, marxismo, teologa]
 publish: true
-created: 2026-01-29T19:17:38.766-03:00
-modified: 2026-02-27T13:24:01.577-03:00
-tags:
-  - jesuitas
-  - liberacin
-  - marxismo
-  - teologa
-cssclasses: ""
 ---
-
 # Teología De La Liberación
 
 ## Resumen General
@@ -24,9 +21,9 @@ La **Teología de la Liberación** es una corriente teológica cristiana nacida 
 *   **Papa Francisco:** Formado en el ambiente intellectual argentino influenciado por vertientes de esta teología (Teología del Pueblo), lo que explica su postura anticapitalista.
 
 ## Conexiones
-- [[KGB]]
+- [[00_Glosario - Conceptos Fase 1#KGB\|KGB]]
 - [[Jesuitas]]
-- [[Marxismo Cultural]]
+- [[00_Glosario - Conceptos Fase 1#Marxismo Cultural\|Marxismo Cultural]]
 - [[Papa Francisco]]
 
 

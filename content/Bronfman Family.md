@@ -34,7 +34,7 @@ publish: true
 - [[Mega Group]] (fundadores)
 - [[Jeffrey Epstein]] (crculo social)
 - [[Les Wexner]] (socio clave)
-- [[Meyer Lansky]] (socio original)
+- [[00_Glosario - Conceptos Fase 1#Meyer Lansky\|Meyer Lansky]] (socio original)
 
 ## Fuentes
 - "The Bronfman Dynasty" - Peter C. Newman

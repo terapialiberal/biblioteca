@@ -1,12 +1,12 @@
 ---
+titulo: Asesinato De RFK
+tipo: evento
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [asesinato]
 publish: true
-created: 2026-01-29T19:17:04.223-03:00
-modified: 2026-02-27T13:07:29.399-03:00
-tags:
-  - asesinato
-cssclasses: ""
 ---
-
 # Asesinato De RFK
 
 ## Resumen Ejecutivo
@@ -40,7 +40,7 @@ cssclasses: ""
 ## Conexiones
 - [[Asesinato de JFK]] (hermano, prometió investigar)
 - [[CIA]] (enemigos de los Kennedy)
-- [[MK-Ultra]] (programación de asesinos)
+- [[MKUltra\|MK-Ultra]] (programación de asesinos)
 
 ## Fuentes
 - "RFK Must Die" - documentary

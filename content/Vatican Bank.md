@@ -36,7 +36,7 @@ El Arzobispo **Paul Marcinkus** ("El Gorila"), su director en los 70/80, dijo: "
 ## Conexiones
 - [[P2 Lodge]]
 - [[CIA]]
-- [[Operacin Gladio]]
+- [[Operación Gladio\|Operacin Gladio]]
 - [[Mafia]]
 
 ## Fuentes

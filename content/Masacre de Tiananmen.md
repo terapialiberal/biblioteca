@@ -1,15 +1,12 @@
 ---
+titulo: Masacre De Tiananmen
+tipo: evento
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [david, masacre, microsoft, tiananmen]
 publish: true
-created: 2026-01-29T19:17:24.244-03:00
-modified: 2026-02-27T13:06:19.758-03:00
-tags:
-  - david
-  - masacre
-  - microsoft
-  - tiananmen
-cssclasses: ""
 ---
-
 # Masacre De Tiananmen
 
 ## Resumen Ejecutivo
@@ -33,7 +30,7 @@ Tiananmen fue el momento en que el PCCh decidió que China sería una **fábrica
 ---
 
 ## Conexiones
-- [[Partido Comunista Chino]]
+- [[00_Glosario - Conceptos Fase 1#Partido Comunista Chino\|Partido Comunista Chino]]
 - [[Deng Xiaoping]] (El arquitecto de la represión)
 - [[David Rockefeller]] (Socio estratégico del PCCh)
 - [[Censura Digital China]]

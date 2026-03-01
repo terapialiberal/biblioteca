@@ -1,5 +1,5 @@
 ---
-titulo: "Lago Escondido (v2.0): El Cuartel General De La Soberanía Delegada"
+titulo: "Lago Escondido (TL V.2): El Cuartel General De La Soberanía Delegada"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [escondido, george, grupo, lago]
 publish: true
 ---
-# Lago Escondido (v2.0): El Cuartel General De La Soberanía Delegada
+# Lago Escondido (TL V.2): El Cuartel General De La Soberanía Delegada
 
 > [!ABSTRACT] Hipótesis Informativa
 > Lago Escondido no constituye meramente una estancia de lujo, sino un **enclave de soberanía extraterritorial de [[Tier A]] en territorio argentino**. Bajo el control del magnate británico **[[Joe Lewis]]**, este territorio funciona como un nodo logístico sin supervisión estatal (pista de aterrizaje masiva) y como el **centro de procesamiento de la política de [[Tier B]]**. Es el espacio geográfico donde se materializa la fusión entre el capital financiero global, el poder judicial federal y los oligopolios mediáticos, operando como un "Camp David" privado para la coordinación de estrategias de Lawfare, preservación de intereses extractivos y la administración del status quo colonial en la Patagonia.
@@ -46,6 +46,7 @@ Lago Escondido es la **"Embajada del Poder Real"** en Argentina. Su importancia 
 **Versión:** 2.0
 **Enfoque:** Enclave de soberanía extraterritorial, uso de infraestructura secreta para logística de Tier A, y el rol del lugar como cuna de la coordinación judicial y mediática (Lawfare) en Argentina.
 **Estado:** Refactorización Completa.
+
 
 
 

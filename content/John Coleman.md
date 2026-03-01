@@ -1,5 +1,5 @@
 ---
-titulo: "John Coleman (v2.0): El Cartógrafo De La Jerarquía De Los 300"
+titulo: "John Coleman (TL V.2): El Cartógrafo De La Jerarquía De Los 300"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [cartgrafo, coleman, comit, instituto]
 publish: true
 ---
-# John Coleman (v2.0): El Cartógrafo De La Jerarquía De Los 300
+# John Coleman (TL V.2): El Cartógrafo De La Jerarquía De Los 300
 
 > [!ABSTRACT] Hipótesis Informativa
 > John Coleman actúa como el **primer cartógrafo moderno de la infraestructura de control del [[Tier A]]**. Supuestamente ex-miembro del [[MI6]], Coleman decodificó la arquitectura de la gobernanza global no como un conjunto de estados-nación, sino como una jerarquía de familias dinásticas (la "Nobleza Negra") que operan a través del **[[Comité de los 300]]**. Su importancia reside en haber revelado el rol del [[Instituto Tavistock]] en la guerra psicológica contra el [[Tier C]] y en predecir, décadas antes de que ocurrieran, la desindustrialización de Occidente y el avance hacia un estado tecnocrático de vigilancia total.
@@ -45,6 +45,7 @@ John Coleman es el **"Analista que Desertó de la Matrix"**. Su legado no es sol
 **Versión:** 2.0
 **Enfoque:** Jerarquía de familias dinásticas, Tavistock como arma de ingeniería social y predicción de la gobernanza tecnocrática.
 **Estado:** Refactorización Completa.
+
 
 
 

@@ -1,5 +1,5 @@
 ---
-titulo: "Port Arthur Massacre (v2.0): El Diseño Del Desarme Total"
+titulo: "Port Arthur Massacre (TL V.2): El Diseño Del Desarme Total"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [arthur, desarme, overton, total]
 publish: true
 ---
-# Port Arthur Massacre (v2.0): El Diseño Del Desarme Total
+# Port Arthur Massacre (TL V.2): El Diseño Del Desarme Total
 
 > [!ABSTRACT] Hipótesis Informativa
 > La Masacre de Port Arthur fue el **evento catalizador de [[Tier A]]** utilizado para desarmar a la población civil de Australia en un tiempo récord. Con 35 muertos atribuidos a un único tirador con discapacidad intelectual (Martin Bryant), el evento proporcionó el trauma necesario para que el **[[Tier B]]** político impusiera el Acuerdo Nacional sobre Armas de Fuego (NFA). Port Arthur es el estudio de caso definitivo de cómo el sistema utiliza una tragedia masiva para forzar una **Indefensión Aprendida** en el **[[Tier C]]**, eliminando el principal obstáculo físico para el control estatal absoluto.
@@ -39,7 +39,8 @@ Port Arthur nos enseña que el costo de la "seguridad" estatal es a menudo la p�
 ---
 **Versión:** 2.0
 **Enfoque:** Uso de la masacre para el desarme civil masivo, velocidad legislativa sospechosa y el rol de Port Arthur como modelo global de control.
-**Estado:** Refactoreado a v2.0 - Framework de Ingeniería de Crisis.
+**Estado:** Refactoreado a TL V.2 - Framework de Ingeniería de Crisis.
+
 
 
 

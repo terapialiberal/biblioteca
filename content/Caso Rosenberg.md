@@ -1,15 +1,12 @@
 ---
+titulo: Caso Rosenberg (Espionaje Nuclear)
+tipo: evento
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [caso, guerra, nuclear, proyecto]
 publish: true
-created: 2026-01-29T19:17:06.858-03:00
-modified: 2026-02-27T13:22:16.019-03:00
-tags:
-  - caso
-  - guerra
-  - nuclear
-  - proyecto
-cssclasses: ""
 ---
-
 # Caso Rosenberg (Espionaje Nuclear)
 
 ## Perfil TL (Resumen Ejecutivo)
@@ -31,7 +28,7 @@ cssclasses: ""
 *   "Traidores a la patria". "Comunistas infiltrados". La prensa utilizó el caso para alimentar una histeria colectiva que permitió perseguir a cualquier disidente político bajo la etiqueta de "agente soviético".
 
 ## Conexiones Clave
-- [[Proyecto Manhattan]] (La fuente)
+- [[00_Glosario - Conceptos Fase 1#Proyecto Manhattan\|Proyecto Manhattan]] (La fuente)
 - [[Guerra Fría]] (El escenario)
 - [[McCarthyismo]] (La herramienta política)
 - [[CIA]] / FBI (Los cazadores)

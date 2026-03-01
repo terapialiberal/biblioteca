@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:03.274-03:00
-modified: 2026-02-27T13:21:58.499-03:00
+modified: 2026-02-27T13:22:11.523-03:00
 tags:
   - gemini
   - imgenes

@@ -1,5 +1,5 @@
 ---
-titulo: "Roberto Calvi (v2.0): El Banquero De Dios Y El Sacrificio De La P2"
+titulo: "Roberto Calvi (TL V.2): El Banquero De Dios Y El Sacrificio De La P2"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [banco, calvi, dios, sacrificio]
 publish: true
 ---
-# Roberto Calvi (v2.0): El Banquero De Dios Y El Sacrificio De La P2
+# Roberto Calvi (TL V.2): El Banquero De Dios Y El Sacrificio De La P2
 
 > [!ABSTRACT] Hipótesis Informativa
 > Roberto Calvi fue el **Operador de [[Tier A]]** que gestionó el nexo prohibido entre las finanzas del Vaticano, la red masónica **[[P2 Lodge]]** y el crimen organizado. Presidente del **[[Banco Ambrosiano]]**, Calvi fue el arquitecto de un sistema de lavado de dinero de dimensiones globales para financiar la lucha contra el comunismo y los intereses de la logia de **[[Licio Gelli]]**. Su función real fue la de un **"Agente de Transferencia de Fondos de la Matrix"**: cuando el sistema colapsó en 1982, Calvi fue eliminado mediante un **Asesinato Ritual** bajo el puente Blackfriars de Londres, sirviendo como un mensaje codificado para la élite sobre el costo de la traición y la necesidad de silenciar los secretos del Banco del Vaticano.
@@ -39,7 +39,8 @@ Roberto Calvi nos enseña que **el altar y el banco son a menudo caras de la mis
 ---
 **Versión:** 2.0
 **Enfoque:** Calvi como el nexo entre el Banco Ambrosiano, el Vaticano y la logia P2, su asesinato ritual en Londres y el encubrimiento masivo de la red de lavado de dinero internacional.
-**Estado:** Refactoreado a v2.0 - Framework de Finanzas Oscuras y Sociedades Secretas.
+**Estado:** Refactoreado a TL V.2 - Framework de Finanzas Oscuras y Sociedades Secretas.
+
 
 
 

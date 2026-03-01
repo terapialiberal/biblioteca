@@ -1,5 +1,5 @@
 ---
-titulo: "Nassim Nicholas Taleb (v2.0): El Desmantelador De La Fragilidad Tecnocrática"
+titulo: "Nassim Nicholas Taleb (TL V.2): El Desmantelador De La Fragilidad Tecnocrática"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [antifragilidad, cisne, fragilidad, taleb]
 publish: true
 ---
-# Nassim Nicholas Taleb (v2.0): El Desmantelador De La Fragilidad Tecnocrática
+# Nassim Nicholas Taleb (TL V.2): El Desmantelador De La Fragilidad Tecnocrática
 
 > [!ABSTRACT] Hipótesis Informativa
 > Nassim Taleb representa la **insurrección del realismo empírico** contra el racionalismo constructivista del [[Tier A]]. A través de su concepto de *Antifragilidad*, proporciona al [[Tier C]] un manual de supervivencia contra una Matriz de Poder que sobrevive eliminando las variaciones naturales y centralizando el riesgo. Su obra es un ataque frontal a la legitimidad de los expertos de [[Tier B]] que gestionan sistemas complejos sin sufrir las consecuencias de sus errores.
@@ -45,6 +45,7 @@ Nassim Taleb es el antídoto contra el **Racionalismo Ingenuo**. Su obra enseña
 **Versión:** 2.0
 **Enfoque:** Antifragilidad, crítica a la tecnocracia e independencia intelectual del Tier C.
 **Estado:** Refactorización Completa.
+
 
 
 

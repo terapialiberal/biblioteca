@@ -1,15 +1,12 @@
 ---
+titulo: El Fracaso Del Cambio De Régimen En Siria
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [brics, cambio, fracaso, siria]
 publish: true
-created: 2026-01-29T19:17:11.316-03:00
-modified: 2026-02-27T13:07:10.532-03:00
-tags:
-  - brics
-  - cambio
-  - fracaso
-  - siria
-cssclasses: ""
 ---
-
 # El Fracaso Del Cambio De Régimen En Siria
 
 ## Perfil TL (Resumen Ejecutivo)
@@ -34,7 +31,7 @@ cssclasses: ""
 - [[Vladimir Putin]] (El arquitecto de la supervivencia de Assad)
 - [[ISIS (Orígenes)]] (El subproducto o herramienta del conflicto)
 - [[CFR / Brookings Institution]] (Donde se planificó el cambio de régimen)
-- [[Guerra Híbrida]] (La técnica empleada)
+- [[00_Glosario - Conceptos Fase 1#Guerra Híbrida\|Guerra Híbrida]] (La técnica empleada)
 
 ## Fuentes
 - Seymour Hersh: "The Red Line and the Rat Line".

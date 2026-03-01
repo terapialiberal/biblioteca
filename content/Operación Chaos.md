@@ -1,5 +1,5 @@
 ---
-titulo: "Operación Chaos (v2.0): El Espionaje contra El Corazón De La Disidencia"
+titulo: "Operación Chaos (TL V.2): El Espionaje contra El Corazón De La Disidencia"
 tipo: evento
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [chaos, contra, corazn, panptico]
 publish: true
 ---
-# Operación Chaos (v2.0): El Espionaje contra El Corazón De La Disidencia
+# Operación Chaos (TL V.2): El Espionaje contra El Corazón De La Disidencia
 
 > [!ABSTRACT] Hipótesis Informativa
 > La Operación CHAOS fue la **violación sistémica de la soberanía doméstica por parte de la [[CIA]]**. Al espiar a más de 300,000 ciudadanos estadounidenses involucrados en movimientos contra la guerra y derechos civiles, el **[[Tier A]]** de inteligencia borró formalmente la distinción entre enemigo extranjero y disidente interno. CHAOS representa la paranoia institucional del sistema ante el despertar del **[[Tier C]]**, utilizando el aparato de seguridad nacional para desarticular cualquier movimiento orgánico que amenazara la hegemonía del complejo militar-industrial.
@@ -39,7 +39,8 @@ La Operación Chaos es el recordatorio de que para el sistema de inteligencia, "
 ---
 **Versión:** 2.0
 **Enfoque:** Espionaje ilegal de la CIA en suelo estadounidense, represión de movimientos anti-guerra y la falta de pruebas de influencia extranjera como evidencia de control interno puro.
-**Estado:** Refactoreado a v2.0 - Framework de Vigilancia Doméstica.
+**Estado:** Refactoreado a TL V.2 - Framework de Vigilancia Doméstica.
+
 
 
 

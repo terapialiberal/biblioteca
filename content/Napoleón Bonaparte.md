@@ -1,5 +1,5 @@
 ---
-titulo: "Napoleón Bonaparte (v2.0): El Instalador Del Sistema Operativo Estatal"
+titulo: "Napoleón Bonaparte (TL V.2): El Instalador Del Sistema Operativo Estatal"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [banco, estatal, operativo, sistema]
 publish: true
 ---
-# Napoleón Bonaparte (v2.0): El Instalador Del Sistema Operativo Estatal
+# Napoleón Bonaparte (TL V.2): El Instalador Del Sistema Operativo Estatal
 
 > [!ABSTRACT] Hipótesis Informativa
 > Napoleón no fue simplemente un conquistador militar; fue el **"Destructor Creativo" necesario para el ascenso de la Banca Internacional**. Sus guerras forzaron la centralización del poder estatal y la creación de deudas impagables que permitieron a la **[[Familia Rothschild]]** consolidar su hegemonía financiera global. A través del Código Civil, Napoleón estandarizó a las poblaciones europeas (Tier C), transformándolas en "unidades de administración" (biodatos) legibles para la nueva burocracia de **[[Tier B]]** al servicio de los acreedores de **[[Tier A]]**.
@@ -39,7 +39,8 @@ Napoleón Bonaparte fue el martillo que rompió el viejo mundo para que el Tier 
 ---
 **Versión:** 2.0
 **Enfoque:** Rol como catalizador del poder financiero de los Rothschild, centralización estatal mediante el Código Civil y creación del modelo de banca central en Francia.
-**Estado:** Refactoreado a v2.0 - Framework de Transición de Orden.
+**Estado:** Refactoreado a TL V.2 - Framework de Transición de Orden.
+
 
 
 

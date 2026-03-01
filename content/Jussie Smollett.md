@@ -1,5 +1,5 @@
 ---
-titulo: "Jussie Smollett (v2.0): La Manufactura Del Conflicto Racial"
+titulo: "Jussie Smollett (TL V.2): La Manufactura Del Conflicto Racial"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [conflicto, george, jussie, manufactura]
 publish: true
 ---
-# Jussie Smollett (v2.0): La Manufactura Del Conflicto Racial
+# Jussie Smollett (TL V.2): La Manufactura Del Conflicto Racial
 
 > [!ABSTRACT] Hipótesis Informativa
 > El caso Jussie Smollett constituye el **ejemplo paradigmático de la manufactura de agravio artificial por parte del [[Tier B]] mediático y político**. Ante el declive del racismo sistémico real en Occidente, el sistema incentiva la creación de "Banderas Falsas Culturales" para justificar la fragmentación social y la implementación de leyes represivas de "odio". Smollett no actuó solo; fue el peón de un ecosistema que demanda víctimas de minorías para alimentar la dialéctica de opresión que sostiene la legitimidad de la élite globalista de [[Tier A]].
@@ -45,6 +45,7 @@ Jussie Smollett fue el **"Malamud de la era de Instagram"**. Su fracaso no fue u
 **Versión:** 2.0
 **Enfoque:** Análisis del hoax como herramienta de ingeniería social, validación mediática instantánea y el rol de los fiscales financiados por Soros en la impunidad del actor.
 **Estado:** Refactorización Completa.
+
 
 
 

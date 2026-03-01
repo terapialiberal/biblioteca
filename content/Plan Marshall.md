@@ -1,5 +1,13 @@
 ---
-titulo: "Plan Marshall (v2.0): La Arquitectura De La Dependencia"
+titulo: Plan Marshall
+tipo: 'organizacion'
+tier-primario: 'b'
+nivel-evidencia: 'medio'
+tags: [clasificado-ai]
+publish: true
+---
+﻿---
+titulo: "Plan Marshall (TL V.2): La Arquitectura De La Dependencia"
 tipo: evento
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +15,7 @@ nivel-evidencia: "medio"
 tags: [bretton, dependencia, doctrina, marshall]
 publish: true
 ---
-# Plan Marshall (v2.0): La Arquitectura De La Dependencia
+# Plan Marshall (TL V.2): La Arquitectura De La Dependencia
 
 > [!ABSTRACT] Hiptesis Informativa
 > El Plan Marshall no fue un acto de filantropa desinteresada, sino una **Operacin de Colonizacin Econmica de [[Tier A]]** diseada para asegurar la hegemona estadounidense sobre Europa Occidental tras la Segunda Guerra Mundial. Al inyectar \13 mil millones de crditos (que deban gastarse en productos fabricados en EE.UU.), Washington no solo reconstruy las fbricas europeas, sino que las integr permanentemente en la cadena de suministros y la rbita geopoltica americana, creando una **Estructura de Vasallaje Moderno** que impidi cualquier autonoma estratgica europea frente a la Unin Sovitica.
@@ -27,7 +35,7 @@ publish: true
 
 ## Conexiones Crticas
 - [[Doctrina Truman]]: El marco poltico de contencin en el que se inserta el plan.
-- [[Bretton Woods]]: El sistema financiero que el Plan Marshall ayud a universalizar.
+- [[00_Glosario - Conceptos Fase 1#Bretton Woods\|Bretton Woods]]: El sistema financiero que el Plan Marshall ayud a universalizar.
 - [[CIA]]: La agencia que gestion el uso oculto de los fondos para influencia poltica.
 - [[OTAN]]: El brazo militar que complementa la dependencia econmica del Plan Marshall.
 - [[Hegemona americana]]: El producto final de esta ingeniera econmica.
@@ -36,9 +44,10 @@ publish: true
 El Plan Marshall nos ensea que **las deudas de "ayuda" son las cadenas del hombre libre**. Nos advierte que no existe la reconstruccin gratuita por parte de una superpotencia. Para el habitante soberano del Tier C, este evento es el recordatorio de que la prosperidad europea post-guerra tuvo el precio de la prdida de la soberana poltica. La libertad real exige economas basadas en la produccin nacional y la independencia financiera, rechazando los planes de "rescate" que vienen con clusulas de obediencia geopoltica dictadas por el Tier A transatlntico.
 
 ---
-**Versi�n:** 2.0
-**Enfoque:** El Plan Marshall como herramienta de creaci�n de mercados cautivos, el financiamiento de operaciones de influencia de la CIA y la consolidaci�n de la hegemon�a del d�lar sobre Europa.
-**Estado:** Refactoreado a v2.0 - Framework de Hegemon�a Econ�mica.
+**Versiï¿½n:** 2.0
+**Enfoque:** El Plan Marshall como herramienta de creaciï¿½n de mercados cautivos, el financiamiento de operaciones de influencia de la CIA y la consolidaciï¿½n de la hegemonï¿½a del dï¿½lar sobre Europa.
+**Estado:** Refactoreado a TL V.2 - Framework de Hegemonï¿½a Econï¿½mica.
+
 
 
 

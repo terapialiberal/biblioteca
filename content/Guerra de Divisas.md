@@ -1,15 +1,12 @@
 ---
+titulo: Guerra De Divisas (Currency War)
+tipo: evento
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [cbdc, currency, guerra, reset]
 publish: true
-created: 2026-01-29T19:17:16.242-03:00
-modified: 2026-02-27T13:07:50.815-03:00
-tags:
-  - cbdc
-  - currency
-  - guerra
-  - reset
-cssclasses: ""
 ---
-
 # Guerra De Divisas (Currency War)
 
 ## Perfil TL (Resumen Ejecutivo)
@@ -31,7 +28,7 @@ cssclasses: ""
 *   "Necesitamos una moneda competitiva para defender el empleo nacional". "Luchando contra la manipulación cambiaria extranjera". Narrativas patrióticas que el Tier C abraza, sin entender que la devaluación es un robo directo a sus salarios y que el "empleo defendido" suele ser en condiciones de precarización extrema.
 
 ## Conexiones Clave
-- [[Reserva Federal (Fed)]] (El principal disparador)
+- [[00_Glosario - Conceptos Fase 1#Reserva Federal (Fed)\|Reserva Federal (Fed)]] (El principal disparador)
 - [[Guerra Comercial (China vs EE.UU.)]] (Su rama industrial)
 - [[Inflación (Como Impuesto Invisible)]] (Su consecuencia directa)
 - [[CBDC / Fin del Efectivo]] (El objetivo final del caos)

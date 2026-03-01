@@ -1,5 +1,5 @@
 ---
-titulo: "Milei Y El Sionismo (v2.0): El Pacto Espiritual Y Geopolítico"
+titulo: "Milei Y El Sionismo (TL V.2): El Pacto Espiritual Y Geopolítico"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [eduardo, espiritual, geopoltico, sionismo]
 publish: true
 ---
-# Milei Y El Sionismo (v2.0): El Pacto Espiritual Y Geopolítico
+# Milei Y El Sionismo (TL V.2): El Pacto Espiritual Y Geopolítico
 
 > [!ABSTRACT] Hipótesis Informativa
 > La alineación de Javier Milei con el **Sionismo** y **[[Chabad Lubavitch]]** no es una preferencia religiosa privada, sino el **Eje Estructural de su Identidad de Poder**. Representa un quiebre histórico en la tradición diplomática argentina, transformando al país en un "Estado Cliente Radical" del eje Washington-Tel Aviv. Para Milei, el Sionismo cumple una doble función: **Validación Espiritual** (otorgándole una narrativa mesiánica de "fuerzas del cielo" ante su base de Tier C) y **Blindaje Financiero de Tier A** (asegurando el respaldo de redes globales como las de **[[Eduardo Elsztain]]**, BlackRock y el lobby estadounidense) para sostener su gobierno de ajuste.
@@ -43,7 +43,8 @@ Milei y el Sionismo configuran la **"Teocracia de Mercado"**. No se puede entend
 ---
 **Versión:** 2.0
 **Enfoque:** Vínculo con Chabad y Elsztain, uso político de la mística judía, traslado de embajada y sumisión geopolítica.
-**Estado:** Refactoreado a v2.0 - Framework de Teocracia Geopolítica.
+**Estado:** Refactoreado a TL V.2 - Framework de Teocracia Geopolítica.
+
 
 
 

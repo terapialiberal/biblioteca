@@ -1,5 +1,5 @@
 ---
-titulo: "Soft Power (v2.0): El Arte De La Conquista Por Consentimiento"
+titulo: "Soft Power (TL V.2): El Arte De La Conquista Por Consentimiento"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [conquista, consentimiento, hollywood, power]
 publish: true
 ---
-# Soft Power (v2.0): El Arte De La Conquista Por Consentimiento
+# Soft Power (TL V.2): El Arte De La Conquista Por Consentimiento
 
 > [!ABSTRACT] Hipótesis Informativa
 > El "Soft Power" (Poder Blando) es la **Estrategia de Dominación de [[Tier B]]** que permite a un Estado o una élite influir en el comportamiento de otros mediante la atracción, los valores y la cultura, en lugar de la coerción física o económica (Hard Power). Acuñado por Joseph Nye, su función real en la Matrix es la de un **"Mecanismo de Colonización Mental"**: utilizar el cine, la música, la educación y las ONGs para que el **[[Tier C]]** global desee voluntariamente los objetivos del **[[Tier A]]**, eliminando la necesidad de guerras costosas al ganar preventivamente la batalla por el sentido común y la estética de la libertad.
@@ -41,7 +41,8 @@ El Soft Power nos enseña que **el poder más absoluto es aquel que no se siente
 ---
 **Versión:** 2.0
 **Enfoque:** El Soft Power como herramienta de hegemonía cultural, su distinción con el Hard Power, el rol de Hollywood y las ONGs en la exportación de valores pro-establishment, y el impacto de la seducción ideológica en la pérdida de soberanía del Tier C.
-**Estado:** Refactoreado a v2.0 - Framework de Geopolítica Cultural y Control Narrativo.
+**Estado:** Refactoreado a TL V.2 - Framework de Geopolítica Cultural y Control Narrativo.
+
 
 
 

@@ -1,5 +1,5 @@
 ---
-titulo: "Puerta Giratoria (v2.0): El Diseño De La Captura Institucional"
+titulo: "Puerta Giratoria (TL V.2): El Diseño De La Captura Institucional"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [diseo, goldman, institucional, puerta]
 publish: true
 ---
-# Puerta Giratoria (v2.0): El Diseño De La Captura Institucional
+# Puerta Giratoria (TL V.2): El Diseño De La Captura Institucional
 
 > [!ABSTRACT] Hipótesis Informativa
 > La Puerta Giratoria es el **mecanismo de integración orgánica de [[Tier A]]** entre el poder corporativo y el poder estatal. Describe el flujo constante de personal entre altos cargos gubernamentales (reguladores, ministros) y las industrias privadas que supuestamente deben ser reguladas (Banca, Pharma, Tech). No es una anomalía ética, sino una **Arquitectura de Fusión**: asegura que el Estado sirva a los intereses de las grandes corporaciones, garantizando que quien redacta la ley hoy sea quien se beneficie de ella mañana como consultor de lujo, eliminando cualquier rastro de soberanía real para el ciudadano de **[[Tier C]]**.
@@ -38,7 +38,8 @@ La Puerta Giratoria es la prueba de que **el Estado ha sido comprado desde adent
 ---
 **Versión:** 2.0
 **Enfoque:** La fusión del interés público y privado, los incentivos perversos del funcionario que busca empleo corporativo y la puerta giratoria como herramienta de creación de monopolios.
-**Estado:** Refactoreado a v2.0 - Framework de Captura de Ã‰lites.
+**Estado:** Refactoreado a TL V.2 - Framework de Captura de Ã‰lites.
+
 
 
 

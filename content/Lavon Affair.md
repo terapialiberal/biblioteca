@@ -1,5 +1,5 @@
 ---
-titulo: "Lavon Affair (v2.0): El Prototipo De La Falsa Bandera Moderna"
+titulo: "Lavon Affair (TL V.2): El Prototipo De La Falsa Bandera Moderna"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [bandera, falsa, moderna, prototipo]
 publish: true
 ---
-# Lavon Affair (v2.0): El Prototipo De La Falsa Bandera Moderna
+# Lavon Affair (TL V.2): El Prototipo De La Falsa Bandera Moderna
 
 > [!ABSTRACT] Hipótesis Informativa
 > El "Lavon Affair" (Operación Susannah) constituye la **"Fumarola del Crimen" histórica que valida la existencia del terrorismo de falsa bandera como doctrina de [[Tier B]]**. En 1954, comandos de inteligencia israelíes atacaron objetivos civiles y diplomáticos de EE.UU. y el Reino Unido en Egipto, con el fin de culpar a grupos extremistas locales y forzar a las potencias occidentales a mantener su presencia militar en el Canal de Suez. La importancia del evento reside en la demostración de que una estructura de inteligencia estatal está dispuesta a **atacar a sus propios aliados y protectores** si esto sirve para manipular la percepción geopolítica del [[Tier A]] y asegurar objetivos de seguridad nacional.
@@ -46,6 +46,7 @@ El Lavon Affair es el **"Fósil del Estado Profundo"**. Su importancia reside en
 **Versión:** 2.0
 **Enfoque:** Operación Susannah, uso de falsa bandera contra aliados occidentales (EE.UU./UK), crisis política interna en Israel y el legado del evento como precursor de la Operación Northwoods.
 **Estado:** Refactorización Completa.
+
 
 
 

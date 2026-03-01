@@ -1,21 +1,29 @@
 ---
+titulo: Protocolo 5G y Bio-resonancia
+tipo: 'concepto'
+tier-primario: 'b'
+nivel-evidencia: 'medio'
+tags: [clasificado-ai]
 publish: true
-created: 2026-02-25T22:08:51.299-03:00
-modified: 2026-02-27T13:23:46.014-03:00
-tags:
-  - protocolo
-  - resonancia
-cssclasses: ""
 ---
-
+﻿---
+titulo: Protocolo 5G Y Bio-resonancia
+tipo: evento
+fecha: 2026-02-25
+tags: [protocolo, resonancia]
+tier-primario: "b"
+nivel-evidencia: "medio"
+publish: true
+---
 
 # Protocolo 5G Y Bio-resonancia
 
-> [!ABSTRACT] Hipótesis Informativa
-> Nodo perteneciente a la Matrix de Simbolismo y Esoterismo v12_0.
+> [!ABSTRACT] HipÃ³tesis Informativa
+> Nodo perteneciente a la Matrix de Simbolismo y Esoterismo TL V.2.
 
-## Análisis De Tiers
+## AnÃ¡lisis De Tiers
 *En desarrollo...*
 
 ## Cui Bono
-*Pendiente de análisis forense.*
+*Pendiente de anÃ¡lisis forense.*
+

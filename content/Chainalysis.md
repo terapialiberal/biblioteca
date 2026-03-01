@@ -1,16 +1,13 @@
 ---
+titulo: CHAINALYSIS (TL V.2)
+tipo: concepto
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "alto"
+tags: [bancos, ledger, michael, panptico]
 publish: true
-created: 2026-01-29T19:17:07.269-03:00
-modified: 2026-02-27T13:07:27.590-03:00
-tags:
-  - bancos
-  - ledger
-  - michael
-  - panptico
-cssclasses: ""
 ---
-
-# CHAINALYSIS (v12_1)
+# CHAINALYSIS (TL V.2)
 
 #### BLUF
 Chainalysis es el **Servicio de Inteligencia de la Economía Digital**. Operando como un contratista de Tier B para agencias como el IRS, el FBI y Europol, su función es la **Desanonimización de la Riqueza**. Mediante algoritmos de aprendizaje profundo, Chainalysis vincula direcciones de blockchain con identidades del mundo real, eliminando la promesa original de privacidad de las criptomonedas y entregando al Estado y al Tier A un mapa completo y en tiempo real de los flujos de capital global.
@@ -73,6 +70,7 @@ Son los "buenos" de la película. Gracias a ellos se han recuperado fondos de ha
 ¿Cuál es la relación real entre los fondos de capital riesgo que financiaron a Chainalysis y las agencias de inteligencia que les dieron acceso a las bases de datos de identidades iniciales?
 
 ---
-*Dossier forense v12_1 | El Archivero del Panóptico Financiero*
+*Dossier forense TL V.2 | El Archivero del Panóptico Financiero*
+
 
 

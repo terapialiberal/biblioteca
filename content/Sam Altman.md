@@ -1,16 +1,13 @@
 ---
+titulo: SAM ALTMAN (TL V.2)
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "a"
+nivel-evidencia: "alto"
+tags: [altman, energa, helion, openai]
 publish: true
-created: 2026-01-29T19:17:35.199-03:00
-modified: 2026-02-27T13:06:14.800-03:00
-tags:
-  - altman
-  - energa
-  - helion
-  - openai
-cssclasses: ""
 ---
-
-# SAM ALTMAN (v12_1)
+# SAM ALTMAN (TL V.2)
 
 #### BLUF
 Altman ha consolidado un **Integración Vertical de Poder** sin precedentes: controla el software ([[OpenAI]]), el hardware (inversiones en Chips) y la energía ([[Helion]] / [[Oklo]]). En 2026, su estrategia es crear un archipiélago de **Datos y Energía Soberana**, asegurando que la computación masiva sea independiente de las redes civiles y los costos energéticos tradicionales.
@@ -19,7 +16,7 @@ Altman ha consolidado un **Integración Vertical de Poder** sin precedentes: con
 #### MAPA DE ACTORES
 | Actor | Tier | Rol Real | Incentivo Oculto |
 |-------|------|----------|-----------------|
-| [[Sam Altman]] | A | Arquitecto de Realidades Sintéticas | Lograr la [[AGI]] mediante el control del triplete Datos-Chips-Energía. |
+| [[Sam Altman]] | A | Arquitecto de Realidades Sintéticas | Lograr la [[AGI\|Agi]] mediante el control del triplete Datos-Chips-Energía. |
 | [[Satya Nadella]] (Microsoft) | A | Socio / Landlord | Proveer la escala de Azure a cambio de exclusividad en modelos de IA. |
 | [[Bill Gates]] | A | Mentor / Competidor nuclear | Colaborar en la transición nuclear (Natrium) mientras compiten en Cloud. |
 | [[MBS (Saudi Arabia)]]| A | Financista (AI Infrastructure) | Inversiones en la red de Altman para diversificar el petróleo. |
@@ -73,6 +70,7 @@ Sam Altman es un inversor de riesgo agresivo que simplemente diversifica. Sus ap
 ¿Cuál es la participación exacta de Altman en las redes de inteligencia (In-Q-Tel) para asegurar que su tríada de poder no sea intervenida por el Estado?
 
 ---
-*Versión: 1.0 (v12_1) | Dossier de Actor Tier A*
+*Versión: 1.0 (TL V.2) | Dossier de Actor Tier A*
+
 
 

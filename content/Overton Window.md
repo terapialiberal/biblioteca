@@ -1,5 +1,5 @@
 ---
-titulo: "Overton Window (v2.0): Los Grilletes De Lo Pensable"
+titulo: "Overton Window (TL V.2): Los Grilletes De Lo Pensable"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [grilletes, overton, pensable, window]
 publish: true
 ---
-# Overton Window (v2.0): Los Grilletes De Lo Pensable
+# Overton Window (TL V.2): Los Grilletes De Lo Pensable
 
 > [!ABSTRACT] Hipótesis Informativa
 > La Ventana de Overton es la **tecnología de confinamiento cognitivo de [[Tier A]]**. Define el rango de ideas que el **[[Tier C]]** percibe como "aceptables" o "sensatas" en un momento dado. El control de la Matrix no se ejerce prohibiendo ideas (lo cual las hace atractivas), sino **desplazando la ventana** mediante la ingeniería social de los medios de **[[Tier B]]**. Al mover los límites de lo debatible, el sistema logra que la población exija voluntariamente mañana lo que hoy considera radical o impensable, permitiendo una tiranía incremental que el sujeto nunca identifica como tal.
@@ -39,7 +39,8 @@ La Ventana de Overton es el marco de nuestra celda mental. Nos enseña que la li
 ---
 **Versión:** 2.0
 **Enfoque:** Tecnología de control del discurso público, táctica de normalización incremental y el uso de crisis para forzar el movimiento de la ventana hacia el autoritarismo.
-**Estado:** Refactoreado a v2.0 - Framework de Ingeniería Psicosocial.
+**Estado:** Refactoreado a TL V.2 - Framework de Ingeniería Psicosocial.
+
 
 
 

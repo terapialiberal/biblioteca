@@ -1,5 +1,5 @@
 ---
-titulo: "Sidney Gottlieb (v2.0): El Alquimista Del Terror Y La Aniquilación Del Yo"
+titulo: "Sidney Gottlieb (TL V.2): El Alquimista Del Terror Y La Aniquilación Del Yo"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [aniquilacin, gottlieb, mkultra, sidney]
 publish: true
 ---
-# Sidney Gottlieb (v2.0): El Alquimista Del Terror Y La Aniquilación Del Yo
+# Sidney Gottlieb (TL V.2): El Alquimista Del Terror Y La Aniquilación Del Yo
 
 > [!ABSTRACT] Hipótesis Informativa
 > Sidney Gottlieb fue el **Operador de [[Tier B]]** más oscuro y prolífico de la era de la Guerra Fría. Como arquitecto jefe del programa **[[MKUltra]]** de la **[[CIA]]**, su función real fue la de un **"Ingeniero de la Destrucción Psíquica"**: dirigió un imperio de experimentación ilegal en humanos para desarrollar técnicas de control mental, interrogatorio mediante drogas y asesinato con venenos. Gottlieb representa el punto donde la "ciencia" se convierte en una herramienta pura de la Matrix para desmantelar la conciencia individual del **[[Tier C]]**, buscando crear el "candidato manchú" y el control absoluto sobre la voluntad humana mediante el trauma sistemático.
@@ -41,7 +41,8 @@ Sidney Gottlieb nos enseña que **el poder absoluto sobre la mente es la meta fi
 ---
 **Versión:** 2.0
 **Enfoque:** Gottlieb como director de MKUltra, sus experimentos con LSD y otras drogas en sujetos sin consentimiento, su rol en el diseño de venenos para la CIA y la destrucción de archivos para proteger la impunidad del programa de control mental.
-**Estado:** Refactoreado a v2.0 - Framework de Control Mental y Ã‰tica de la Inteligencia.
+**Estado:** Refactoreado a TL V.2 - Framework de Control Mental y Ã‰tica de la Inteligencia.
+
 
 
 

@@ -1,15 +1,12 @@
 ---
+titulo: Hiroshima Y Nagasaki
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [harry, hiroshima, nagasaki, proyecto]
 publish: true
-created: 2026-01-29T19:17:17.257-03:00
-modified: 2026-02-27T13:06:22.111-03:00
-tags:
-  - harry
-  - hiroshima
-  - nagasaki
-  - proyecto
-cssclasses: ""
 ---
-
 # Hiroshima Y Nagasaki
 
 ## Perfil TL (Resumen Ejecutivo)
@@ -32,7 +29,7 @@ cssclasses: ""
 
 ## Conexiones Clave
 - [[Harry Truman]] (El ejecutor masón)
-- [[Proyecto Manhattan]] (La incubadora de la élite nuclear)
+- [[00_Glosario - Conceptos Fase 1#Proyecto Manhattan\|Proyecto Manhattan]] (La incubadora de la élite nuclear)
 - [[Operación Paperclip]] (El botín tecnológico nazi tras la bomba)
 - [[Guerra Fría / Era Nuclear]] (El orden mundial nacido del hongo)
 

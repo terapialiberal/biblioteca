@@ -1,16 +1,13 @@
 ---
+titulo: BIO-DIGITAL CONVERGENCE (TL V.2)
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [convergence, darpa, digital, klaus]
 publish: true
-created: 2026-02-25T15:45:24.053-03:00
-modified: 2026-02-27T13:22:04.499-03:00
-tags:
-  - convergence
-  - darpa
-  - digital
-  - klaus
-cssclasses: ""
 ---
-
-# BIO-DIGITAL CONVERGENCE (v12_1)
+# BIO-DIGITAL CONVERGENCE (TL V.2)
 
 #### BLUF
 La Convergencia Bio-Digital es el **Paradigma de Unificación** del Tier A. No es una tecnología única, sino el proceso por el cual los sistemas biológicos son tratados como **Código Programable** y los sistemas digitales son integrados orgánicamente en la biología. En 2026, este proceso ha superado la fase teórica para implementarse en la monitorización en tiempo real de poblaciones mediante biosensores y la edición genética *in vivo* justificada por la "salud pública".
@@ -73,6 +70,7 @@ Es la evolución natural. Del mismo modo que el lenguaje y las herramientas nos 
 ¿Cómo se resolverá la soberanía legal cuando el software que mantiene vivo un órgano artificial sea propiedad de una corporación que entra en quiebra o cambia sus términos de servicio?
 
 ---
-*Dossier forense v12_1 | El fin de la Excepción Biológica*
+*Dossier forense TL V.2 | El fin de la Excepción Biológica*
+
 
 

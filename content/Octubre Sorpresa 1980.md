@@ -1,5 +1,5 @@
 ---
-titulo: "Octubre Sorpresa 1980 (v2.0): El Mercado De Rehenes Por Poder"
+titulo: "Octubre Sorpresa 1980 (TL V.2): El Mercado De Rehenes Por Poder"
 tipo: evento
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [george, octubre, poder, rehenes]
 publish: true
 ---
-# Octubre Sorpresa 1980 (v2.0): El Mercado De Rehenes Por Poder
+# Octubre Sorpresa 1980 (TL V.2): El Mercado De Rehenes Por Poder
 
 > [!ABSTRACT] Hipótesis Informativa
 > El Octubre Sorpresa de 1980 no fue solo una maniobra política, sino un **acto de traición de alto nivel para el cambio de régimen interno en EE.UU.** Representa el pacto secreto entre el equipo de campaña de Reagan (liderado por **[[William Casey]]** y **[[George H. W. Bush]]**) y el régimen revolucionario de Irán para retrasar la liberación de 52 rehenes estadounidenses hasta después de las elecciones. Al asegurar el fracaso de Jimmy Carter, la facción de inteligencia del **[[Tier A]]** instaló a sus propios operadores en la Casa Blanca, inaugurando una era de operaciones de "armas por rehenes" que definirían la política exterior de las décadas siguientes.
@@ -31,7 +31,7 @@ publish: true
 - [[William Casey]]: El arquitecto de la traición y futuro jefe de la CIA.
 - [[Irán-Contra]]: La conclusión lógica y el pago del pacto de 1980.
 - [[Ari Ben-Menashe]]: El insider que reveló los detalles de las reuniones en París.
-- [[Jimmy Carter]]: El objetivo de la demolición política.
+- [[00_Glosario - Conceptos Fase 1#Jimmy Carter\|Jimmy Carter]]: El objetivo de la demolición política.
 
 ## Conclusión Del Análisis
 El Octubre Sorpresa es la prueba de que en la Matrix, las elecciones son a menudo eventos terminados antes de que se emita el primer voto. Es el recordatorio de que los rehenes no solo estaban en Teherán, sino que la propia democracia estadounidense fue tomada rehén por una facción de inteligencia que antepuso el poder de partido y de agencia a la lealtad nacional.
@@ -39,7 +39,8 @@ El Octubre Sorpresa es la prueba de que en la Matrix, las elecciones son a menud
 ---
 **Versión:** 2.0
 **Enfoque:** Traición electoral coordinada, rol de la CIA y George H.W. Bush, y el vínculo estructural con el futuro escándalo Irán-Contra.
-**Estado:** Refactoreado a v2.0 - Framework de Ingeniería Electoral.
+**Estado:** Refactoreado a TL V.2 - Framework de Ingeniería Electoral.
+
 
 
 

@@ -1,15 +1,12 @@
 ---
+titulo: The Great Taking (El Gran Despojo)
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [despojo, gran, naciones, unin]
 publish: true
-created: 2026-01-29T19:17:39.661-03:00
-modified: 2026-02-27T13:06:45.790-03:00
-tags:
-  - despojo
-  - gran
-  - naciones
-  - unin
-cssclasses: ""
 ---
-
 # The Great Taking (El Gran Despojo)
 
 ## Resumen General
@@ -33,7 +30,7 @@ cssclasses: ""
 - [[Gran Reinicio]] (The Great Reset)
 - [[BlackRock y Aladdin]]
 - [[Crisis Financiera 2008]]
-- [[Banco de Pagos Internacionales (BIS)]]
+- [[Banco de Pagos Internacionales\|Banco de Pagos Internacionales (BIS)]]
 
 
 

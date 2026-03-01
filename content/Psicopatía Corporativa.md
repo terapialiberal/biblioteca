@@ -1,5 +1,5 @@
 ---
-titulo: "Psicopatía Corporativa (v2.0): El Diseño De La Crueldad"
+titulo: "Psicopatía Corporativa (TL V.2): El Diseño De La Crueldad"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [diseo, ponerologa, psicopata, wall]
 publish: true
 ---
-# Psicopatía Corporativa (v2.0): El Diseño De La Crueldad
+# Psicopatía Corporativa (TL V.2): El Diseño De La Crueldad
 
 > [!ABSTRACT] Hipótesis Informativa
 > La Psicopatía Corporativa no es un fallo del capitalismo, sino un **mecanismo de selección de [[Tier A]]** para asegurar que las estructuras de poder más influyentes del mundo sean dirigidas por individuos sin empatía. Al premiar rasgos como la falta de remordimiento, la manipulación y la búsqueda de beneficios a corto plazo, la Matrix corporativa actúa como un **Filtro Ponerológico**: eleva a los psicópatas clínicos a la cúpula del **[[Tier B]]** (CEOs, banqueros), garantizando que las decisiones que afectan a millones (despidos, contaminación, fraudes) se tomen con la frialdad técnica de un algoritmo. La corporación misma es, por estatuto legal, una entidad psicópata que obliga a sus miembros a comportarse como tales para sobrevivir en el sistema.
@@ -38,7 +38,8 @@ La Psicopatía Corporativa nos enseña que **las instituciones imitan la mente d
 ---
 **Versión:** 2.0
 **Enfoque:** La corporación como entidad legal sin conciencia, la sobre-representación de psicópatas en el liderazgo de Tier B y la selección sistémica de la crueldad para el beneficio financiero.
-**Estado:** Refactoreado a v2.0 - Framework de Psicología del Poder.
+**Estado:** Refactoreado a TL V.2 - Framework de Psicología del Poder.
+
 
 
 

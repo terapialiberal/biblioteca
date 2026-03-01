@@ -1,5 +1,5 @@
 ---
-titulo: "Pre-Crimen (v2.0): La Abolición De La Inocencia"
+titulo: "Pre-Crimen (TL V.2): La Abolición De La Inocencia"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [crimen, inocencia, operation, palantir]
 publish: true
 ---
-# Pre-Crimen (v2.0): La Abolición De La Inocencia
+# Pre-Crimen (TL V.2): La Abolición De La Inocencia
 
 > [!ABSTRACT] Hipótesis Informativa
 > El Pre-Crimen es la **transición del sistema de justicia desde la reparación hacia el control preventivo absoluto de [[Tier A]]**. Mediante el uso de IA, Big Data y algoritmos de vigilancia masiva, el Estado busca castigar o neutralizar al individuo de **[[Tier C]]** basándose en la **Intención Probabilística** y no en el acto físico. Representa el fin de la presunción de inocencia y la instauración de una **Dictadura de Datos** donde la máquina define quién es un peligro para la Matrix antes de que el sujeto haya tomado una decisión consciente.
@@ -30,7 +30,7 @@ publish: true
 - [[Palantir]]: El gigante tecnológico detrás del pre-crimen global.
 - [[Panóptico Digital]]: El entorno físico y digital necesario para la predicción.
 - [[In-Q-Tel]]: El brazo inversor de la CIA que financia estas tecnologías.
-- [[Crédito Social (China)]]: La implementación más avanzada de pre-crimen y control de conducta.
+- [[Crédito Social Chino\|Crédito Social (China)]]: La implementación más avanzada de pre-crimen y control de conducta.
 - [[Optogenética]]: Para el futuro del pre-crimen mediante la detección directa de intenciones cerebrales.
 
 ## Conclusión Del Análisis
@@ -39,7 +39,8 @@ El Pre-Crimen es la abolición del Albedrío. Nos enseña que para la Matrix, el
 ---
 **Versión:** 2.0
 **Enfoque:** Uso de IA para la eliminación de la presunción de inocencia, el rol de Palantir y la CIA, y la transición hacia un sistema de castigo basado en puntajes de riesgo.
-**Estado:** Refactoreado a v2.0 - Framework de Justicia Predictiva.
+**Estado:** Refactoreado a TL V.2 - Framework de Justicia Predictiva.
+
 
 
 

@@ -1,5 +1,5 @@
 ---
-titulo: "Steven Schwarzman (v2.0): El Dueño De Los Ladrillos De La Matrix"
+titulo: "Steven Schwarzman (TL V.2): El Dueño De Los Ladrillos De La Matrix"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,10 +7,10 @@ nivel-evidencia: "medio"
 tags: [dueo, matrix, schwarzman, skull]
 publish: true
 ---
-# Steven Schwarzman (v2.0): El Dueño De Los Ladrillos De La Matrix
+# Steven Schwarzman (TL V.2): El Dueño De Los Ladrillos De La Matrix
 
 > [!ABSTRACT] Hipótesis Informativa
-> Steven Schwarzman es el **Oligarca de [[Tier A]]** que lidera la mayor transferencia de propiedad física de la historia moderna hacia las manos del capital privado. Como cofundador de **[[Blackstone Group]]**, su función real en la Matrix es la de un **"Consolidador de Activos Reales"**: utilizar la liquidez infinita del sistema financiero para comprar viviendas, almacenes y centros de datos a escala global. Miembro de la sociedad secreta **[[Skull and Bones]]**, Schwarzman opera como un puente entre el poder dinástico de la élite de Yale y el nuevo orden tecnocrático, asegurando que el **[[Tier C]]** pase de ser una clase propietaria a una clase de eternos arrendatarios.
+> Steven Schwarzman es el **Oligarca de [[Tier A]]** que lidera la mayor transferencia de propiedad física de la historia moderna hacia las manos del capital privado. Como cofundador de **[[00_Glosario - Conceptos Fase 1#Blackstone Group\|Blackstone Group]]**, su función real en la Matrix es la de un **"Consolidador de Activos Reales"**: utilizar la liquidez infinita del sistema financiero para comprar viviendas, almacenes y centros de datos a escala global. Miembro de la sociedad secreta **[[Skull and Bones]]**, Schwarzman opera como un puente entre el poder dinástico de la élite de Yale y el nuevo orden tecnocrático, asegurando que el **[[Tier C]]** pase de ser una clase propietaria a una clase de eternos arrendatarios.
 
 ## Análisis De Tiers
 
@@ -29,7 +29,7 @@ publish: true
 2.  **Soft Power Intellectual Capture (Captura Intelectual vía Soft Power)**: Uso de donaciones multimillonarias a universidades (Oxford, MIT, Yale, Tsinghua) para que los centros de pensamiento del futuro no cuestionen la moralidad de la concentración extrema de riqueza, asegurando que la educación de Tier B esté alineada con el modelo de Blackstone.
 
 ## Conexiones Críticas
-- [[Blackstone Group]]: Su plataforma de dominio económico mundial.
+- [[00_Glosario - Conceptos Fase 1#Blackstone Group\|Blackstone Group]]: Su plataforma de dominio económico mundial.
 - [[Skull and Bones]]: El núcleo de su lealtad de élite.
 - [[Donald Trump]]: Su aliado táctico para desregulaciones financieras (aunque se alejó tras 2020).
 - [[Tsinghua University]]: Su puente de influencia con el Partido Comunista Chino.
@@ -41,7 +41,8 @@ Steven Schwarzman nos enseña que **el poder que no se ve en los ladrillos de tu
 ---
 **Versión:** 2.0
 **Enfoque:** Steven Schwarzman como oligarca de Tier A, su pertenencia a Skull & Bones, el rol de Blackstone en la crisis de la vivienda mundial y la transformación de la sociedad en una clase rentable de arrendatarios para el beneficio de la élite financiera global.
-**Estado:** Refactoreado a v2.0 - Framework de Private Equity y Neo-Feudalismo.
+**Estado:** Refactoreado a TL V.2 - Framework de Private Equity y Neo-Feudalismo.
+
 
 
 

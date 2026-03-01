@@ -1,15 +1,12 @@
 ---
 publish: true
-created: 2026-01-29T19:17:02.874-03:00
-modified: 2026-02-27T13:06:44.173-03:00
-tags:
-  - admiral
-  - antrtida
-  - byrd
-  - operacin
-cssclasses: ""
+titulo: Resumen General
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [admiral, antrtida, byrd, operacin]
 ---
-
 # Resumen General
 Almirante de la Marina de EE.UU., explorador polar y masón de alto grado. Lideró la **Operación Highjump** (1946), una invasión militar masiva a la Antártida que terminó en retirada prematura tras supuestamente encontrar "resistencia" (¿Nazis? ¿OVNIs?). Su diario secreto (disputado) habla de tierras verdes y civilizaciones más allá de los polos.
 
@@ -27,7 +24,7 @@ Almirante de la Marina de EE.UU., explorador polar y masón de alto grado. Lider
 - [[Operación Highjump]]
 - [[Ahnenerbe]] (Base 211 nazi)
 - [[Tierra Hueca]]
-- [[Ocultismo]]
+- [[00_Glosario - Conceptos Fase 1#Ocultismo\|Ocultismo]]
 
 # Por Qué Importa
 Byrd es el puente entre la historia official y la "historia prohibida". Algo encontró en el hielo que asustó al complejo militar de EE.UU. justo después de la SGM.

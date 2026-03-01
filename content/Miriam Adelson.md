@@ -1,5 +1,13 @@
 ---
-titulo: "Miriam Adelson (v2.0): La Arquitecta Financiera De La Anexin"
+titulo: Miriam Adelson
+tipo: 'organizacion'
+tier-primario: 'b'
+nivel-evidencia: 'medio'
+tags: [clasificado-ai]
+publish: true
+---
+﻿---
+titulo: "Miriam Adelson (TL V.2): La Arquitecta Financiera De La Anexin"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +15,7 @@ nivel-evidencia: "medio"
 tags: [arquitecta, financiera, israel, miriam]
 publish: true
 ---
-# Miriam Adelson (v2.0): La Arquitecta Financiera De La Anexin
+# Miriam Adelson (TL V.2): La Arquitecta Financiera De La Anexin
 
 > [!ABSTRACT] Hiptesis Informativa
 > Miriam Adelson controla, a travs de la herencia de **Las Vegas Sands**, la "billetera poltica" ms influyente del Partido Republicano. Su agenda no es partidaria, sino nacionalista israel. Como principal donante de **[[Donald Trump]]**, Miriam Adelson **compra soberana ajena**: su dinero fue el factor determinante para el traslado de la embajada de EE.UU. a Jerusaln y el reconocimiento de la anexin del Goln. Ella representa el modelo perfecto del **Tier A**: el uso de ganancias extradas de la adiccin de masas (casinos, [[Tier C]]) para financiar la expansin militar y territorial de un estado extranjero (Israel).
@@ -41,9 +49,10 @@ publish: true
 Miriam Adelson demuestra que en la democracia estadounidense, el voto de un ciudadano vale uno, pero el voto de un Adelson vale cien millones. Es la **Emperatriz del Sionismo Estadounidense**, capaz de redibujar mapas en Medio Oriente firmando un cheque en Las Vegas.
 
 ---
-**Versi�n:** 2.0
-**Enfoque:** Rol como mega-donante de Trump, due�a de Israel HaYom, objetivo de anexi�n de Cisjordania y origen de la fortuna en los casinos.
-**Estado:** Refactoreado a v2.0 - Framework de Captura Pol�tica.
+**Versiï¿½n:** 2.0
+**Enfoque:** Rol como mega-donante de Trump, dueï¿½a de Israel HaYom, objetivo de anexiï¿½n de Cisjordania y origen de la fortuna en los casinos.
+**Estado:** Refactoreado a TL V.2 - Framework de Captura Polï¿½tica.
+
 
 
 

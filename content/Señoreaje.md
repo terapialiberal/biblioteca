@@ -1,5 +1,5 @@
 ---
-titulo: "Señoreaje (v2.0): El Tributo Mágico De La Matrix Financiera"
+titulo: "Señoreaje (TL V.2): El Tributo Mágico De La Matrix Financiera"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [financiera, inflacin, matrix, reserva]
 publish: true
 ---
-# Señoreaje (v2.0): El Tributo Mágico De La Matrix Financiera
+# Señoreaje (TL V.2): El Tributo Mágico De La Matrix Financiera
 
 > [!ABSTRACT] Hipótesis Informativa
 > El Señoreaje es el **Mecanismo de Extracción de Riqueza de [[Tier A]]** más sutil y poderoso de la historia económica. Consiste en la diferencia entre el valor nominal del dinero (lo que puedes comprar con él) y su costo de producción (casi cero en la era digital). Quien controla el monopolio de la emisión de moneda posee una fuente de poder ilimitado: la capacidad de crear activos del aire mientras el **[[Tier C]]** global debe entregar su tiempo y trabajo real para obtener esos mismos dígitos. El señoreaje es el motor oculto de la **[[Inflación]]** y la herramienta principal para financiar los déficits de la Matrix sin necesidad de consentimiento parlamentario.
@@ -41,7 +41,8 @@ El Señoreaje nos enseña que **el robo más grande no se hace con armas, sino c
 ---
 **Versión:** 2.0
 **Enfoque:** El señoreaje como beneficio del monopolio de emisión, el "privilegio exorbitante" de EE.UU., el impacto de la inflación como impuesto invisible al Tier C y la función del dinero fiat como herramienta de transferencia de riqueza hacia el Tier A.
-**Estado:** Refactoreado a v2.0 - Framework de Economía Política y Poder Monetario.
+**Estado:** Refactoreado a TL V.2 - Framework de Economía Política y Poder Monetario.
+
 
 
 

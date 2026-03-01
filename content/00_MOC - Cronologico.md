@@ -15,9 +15,9 @@ publish: true
 
 ## ?? LNEAS DE TIEMPO PRINCIPALES
 
-- [[Lnea de Tiempo - 1940s-1960s]]  El orden de posguerra: Bretton Woods, CIA, Israel, Guerra Fra
-- [[Lnea de Tiempo - 1980s-2000s]]  Reaganomics, Wall Street, fin de la URSS, 9/11
-- [[Lnea de Tiempo - 2010s-2020s]]  Redes sociales, primaveras rabes, COVID, CBDC
+- [[Línea de Tiempo - 1940s-1960s\|Lnea de Tiempo - 1940s-1960s]]  El orden de posguerra: Bretton Woods, CIA, Israel, Guerra Fra
+- [[Línea de Tiempo - 1980s-2000s\|Lnea de Tiempo - 1980s-2000s]]  Reaganomics, Wall Street, fin de la URSS, 9/11
+- [[Línea de Tiempo - 2010s-2020s\|Lnea de Tiempo - 2010s-2020s]]  Redes sociales, primaveras rabes, COVID, CBDC
 
 
 ## ?? SIGLO XIX  Las Bases Del Sistema Moderno
@@ -35,7 +35,7 @@ publish: true
 
 | Ao | Evento | Significado TL |
 |-----|--------|----------------|
-| 1907 | [[Pnico de 1907]] | El ensayo para crear la Fed |
+| 1907 | [[Pánico de 1907\|Pnico de 1907]] | El ensayo para crear la Fed |
 | 1910 | [[Conferencia de Jekyll Island]] | El nacimiento de la Reserva Federal |
 | 1913 | [[Ley de la Reserva Federal]] | La privatizacin del dinero americano |
 | 1915 | [[Hundimiento del Lusitania]] | El casus belli de la WWI |
@@ -45,9 +45,9 @@ publish: true
 | 1932 | [[Complot contra FDR]] | El intento de golpe de Wall Street |
 | 1933 | [[Incendio del Reichstag]] | El manual del false flag moderno |
 | 1944 | [[Conferencia de Bretton Woods]] | El diseo del orden financiero postguerra |
-| 1945 | [[Operacin Paperclip]] | Los nazis reciclados en el aparato americano |
-| 1947 | [[Creacin de la CIA]] | El brazo ejecutor del nuevo orden |
-| 1948 | [[Creacin de Israel]] | Declaracin Balfour ejecutada |
+| 1945 | [[Operación Paperclip\|Operacin Paperclip]] | Los nazis reciclados en el aparato americano |
+| 1947 | [[Creación de la CIA\|Creacin de la CIA]] | El brazo ejecutor del nuevo orden |
+| 1948 | [[Creación de Israel\|Creacin de Israel]] | Declaracin Balfour ejecutada |
 
 
 ## ?? GUERRA FRA  El Teatro Binario
@@ -55,19 +55,19 @@ publish: true
 | Ao | Evento | Significado TL |
 |-----|--------|----------------|
 | 1950 | [[Guerra de Corea]] | El primer ensayo de guerra limitada post-nuclear |
-| 1953 | [[Golpe en Irn 1953]] / [[Operacin Ajax]] | El petrleo y la CIA |
+| 1953 | [[Golpe en Irán 1953\|Golpe en Irn 1953]] / [[Operación Ajax\|Operacin Ajax]] | El petrleo y la CIA |
 | 1954 | [[Golpe en Guatemala (1954)]] | United Fruit Company + Allen Dulles |
-| 1961 | [[Baha de Cochinos]] | El fracaso ms documentado de la CIA |
+| 1961 | [[Bahía de Cochinos\|Baha de Cochinos]] | El fracaso ms documentado de la CIA |
 | 1963 | [[Asesinato de JFK]] | El golpe de Estado ms estudiado |
-| 1964 | [[Golfo de Tonkn]] | El false flag que expandi Vietnam |
+| 1964 | [[Golfo de Tonkín\|Golfo de Tonkn]] | El false flag que expandi Vietnam |
 | 1965 | [[Golpe en Indonesia 1965]] | El milln de muertos que nadie recuerda |
 | 1968 | [[Asesinato de RFK]] / [[Asesinato de MLK]] | La liquidacin de la disidencia |
 | 1971 | [[Shock de Nixon]] | El fin del patrn oro |
 | 1972 | [[La Apertura de China (Nixon, Kissinger y Mao)]] | El mayor pivote geopoltico del s.XX |
 | 1973 | [[Golpe de Chile 1973]] | Pinochet, Kissinger, ITT |
-| 1973 | [[Crisis del Petrleo de 1973]] | El petrodlar como arquitectura |
-| 1975 | [[Cada de Saign]] | La primera derrota del Rimland americano |
-| 1979 | [[Cada del Shah]] / [[Revolución Iran]] | Carter traiciona al Shah |
+| 1973 | [[Crisis del Petróleo de 1973\|Crisis del Petrleo de 1973]] | El petrodlar como arquitectura |
+| 1975 | [[Caída de Saigón\|Cada de Saign]] | La primera derrota del Rimland americano |
+| 1979 | [[Caída del Shah\|Cada del Shah]] / [[Revolución Iraní\|Revolución Iran]] | Carter traiciona al Shah |
 | 1979 | [[MKUltra]] (revelacin FOIA) | El programa de control mental expuesto |
 
 
@@ -76,16 +76,16 @@ publish: true
 | Ao | Evento | Significado TL |
 |-----|--------|----------------|
 | 1980 | [[Octubre Sorpresa 1980]] | Reagan-Bush y los rehenes iranes |
-| 1986 | [[Irn-Contra]] | Drogas por armas: la CIA documentada |
-| 1989 | [[Cada del Muro de Berln]] | El fin del teatro binario |
-| 1991 | [[Cada de la URSS]] | Colapso real o retirada estratgica? |
-| 1991 | [[Invasin de Kuwait]] | El nuevo orden de Bush padre |
+| 1986 | [[Irán-Contra\|Irn-Contra]] | Drogas por armas: la CIA documentada |
+| 1989 | [[Caída del Muro de Berlín\|Cada del Muro de Berln]] | El fin del teatro binario |
+| 1991 | [[Caída de la URSS\|Cada de la URSS]] | Colapso real o retirada estratgica? |
+| 1991 | [[Invasión de Kuwait\|Invasin de Kuwait]] | El nuevo orden de Bush padre |
 | 1992 | [[Miércoles Negro (1992)]] | Soros rompe el Banco de Inglaterra |
 | 1993 | [[Atentado WTC 1993]] | El ensayo del 9/11 |
 | 1995 | [[Atentado de Oklahoma City (1995)]] | El McVeigh y la narrativa de la milicia |
-| 1997 | [[Crisis Financiera Asitica de 1997]] | El FMI como arma de dominacin |
+| 1997 | [[Crisis Financiera Asiática de 1997\|Crisis Financiera Asitica de 1997]] | El FMI como arma de dominacin |
 | 1998 | [[Long-Term Capital Management (LTCM)]] | El primer ensayo del "too big to fail" |
-| 1999 | [[Derogacin de Glass-Steagall]] | La puerta abierta a la crisis de 2008 |
+| 1999 | [[Derogación de Glass-Steagall\|Derogacin de Glass-Steagall]] | La puerta abierta a la crisis de 2008 |
 
 
 ## ?? SIGLO XXI  El Gran Juego Acelerado
@@ -93,26 +93,26 @@ publish: true
 | Ao | Evento | Significado TL |
 |-----|--------|----------------|
 | 2001 | [[9-11]] | El evento fundacional del siglo |
-| 2001 | [[Anthrax Attacks 2001]] / [[Ataques con ntrax de 2001]] | El segundo acto del 9/11 |
-| 2003 | [[Invasin de Irak 2003]] | La mentira de las WMD |
+| 2001 | [[Anthrax Attacks 2001]] / [[Ataques con Ántrax de 2001\|Ataques con ntrax de 2001]] | El segundo acto del 9/11 |
+| 2003 | [[Invasión de Irak 2003\|Invasin de Irak 2003]] | La mentira de las WMD |
 | 2008 | [[Crisis Financiera 2008]] | El mayor rescate de Tier A en la historia |
 | 2009 | [[La Cada de Tucker Carlson (Fox)]] | *[verificar ao]* |
 | 2010 | [[WikiLeaks Cables]] | El primer gran OSINT masivo |
-| 2011 | [[Primaveras rabes]] | NED + redes sociales como armas |
+| 2011 | [[Primaveras Árabes\|Primaveras rabes]] | NED + redes sociales como armas |
 | 2011 | [[Derrocamiento de Gaddafi]] | El oro libio y el SWIFT |
 | 2013 | [[Revelaciones de Snowden]] | El mapa completo de la vigilancia |
 | 2014 | [[Golpe de Ucrania 2014]] | Victoria Nuland: "Fuck the EU" |
-| 2016 | [[Eleccin de Trump 2016]] | El sistema contra el outsider |
+| 2016 | [[Elección de Trump 2016\|Eleccin de Trump 2016]] | El sistema contra el outsider |
 | 2019 | [[Repo Market Crisis 2019]] | La crisis que nadie vio |
 | 2019 | [[Evento 201]]  El simulacro pre-COVID |
-| 2020 | [[COVID-19 Orgenes]] | El Lab Leak y el Evento 201 |
+| 2020 | [[COVID-19 Orígenes\|COVID-19 Orgenes]] | El Lab Leak y el Evento 201 |
 | 2020 | [[George Floyd y BLM 2020]] | La revolucin de color domstica |
-| 2022 | [[Invasin de Ucrania 2022]] | Heartland vs. Rimland en Europa |
+| 2022 | [[Invasión de Ucrania 2022\|Invasin de Ucrania 2022]] | Heartland vs. Rimland en Europa |
 | 2022 | [[Sabotaje del Nord Stream]] | Quin necesitaba que no hubiera gas barato? |
 | 2022 | [[Colapso de FTX]] / [[FTX & Sam Bankman-Fried]] | Crypto como herramienta de financiamiento poltico |
 | 2023 | [[Ataque del 7 de Octubre]] | El detonador de Gaza |
 | 2023 | [[Colapso de Silicon Valley Bank]] | La crisis bancaria regional de 2023 |
-| 2024 | [[Eleccin de Trump 2024]] | El establishment contra s mismo |
+| 2024 | [[Elección de Trump 2024\|Eleccin de Trump 2024]] | El establishment contra s mismo |
 | 2025 | [[Stargate Project]] | \500B en IA: el Gran Juego tecnolgico |
 
 
@@ -120,26 +120,28 @@ publish: true
 
 | Ao | Evento |
 |-----|--------|
-| 1989 | [[Hiperinflacin de 1989]] / [[Indultos de Menem]] |
+| 1989 | [[Hiperinflación de 1989\|Hiperinflacin de 1989]] / [[Indultos de Menem]] |
 | 1994 | [[Atentado a la AMIA]] |
 | 1999 | [[Pacto de Olivos]] |
 | 2001 | [[Crisis de 2001]] / [[Corralito]] |
-| 2003-2015 | Era Kirchner (ver [[MOC - Argentina]]) |
+| 2003-2015 | Era Kirchner (ver [[00_MOC - Argentina\|MOC - Argentina]]) |
 | 2008 | [[Paro del Campo 2008 (Argentina)]] / [[Resolución 125]] |
 | 2015 | [[Muerte de Alberto Nisman]] |
-| 2023 | [[Eleccin de Milei]] |
-| 2024 | [[Pacto de Mayo]] / [[RIGI]] |
+| 2023 | [[Elección de Milei\|Eleccin de Milei]] |
+| 2024 | [[Pacto de Mayo]] / [[00_Glosario - Conceptos Fase 1#RIGI\|RIGI]] |
 
 
 ## ?? NODOS RELACIONADOS
-- [[Lnea de Tiempo - 1940s-1960s]] | [[Lnea de Tiempo - 1980s-2000s]] | [[Lnea de Tiempo - 2010s-2020s]]
-- [[MOC - Operaciones Encubiertas]]  Los eventos con participacin de inteligencia
-- [[MOC - Control Financiero]]  Las crisis financieras como herramienta
+- [[Línea de Tiempo - 1940s-1960s\|Lnea de Tiempo - 1940s-1960s]] | [[Línea de Tiempo - 1980s-2000s\|Lnea de Tiempo - 1980s-2000s]] | [[Línea de Tiempo - 2010s-2020s\|Lnea de Tiempo - 2010s-2020s]]
+- [[00_MOC - Operaciones Encubiertas\|MOC - Operaciones Encubiertas]]  Los eventos con participacin de inteligencia
+- [[00_MOC - Control Financiero\|MOC - Control Financiero]]  Las crisis financieras como herramienta
 - [[99_AI/05_Memoria_Central/Entity_Graph]]  Quin aparece en mltiples eventos
 
 ---
 
 *MOC creado: 2026-02-24 | Parte del [[INDEX_MAESTRO]]*
+
+
 
 
 

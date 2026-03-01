@@ -1,5 +1,5 @@
 ---
-titulo: "Muerte De Juan Pablo I (v2.0): El Magnicidio En El Vaticano"
+titulo: "Muerte De Juan Pablo I (TL V.2): El Magnicidio En El Vaticano"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [banco, juan, muerte, pablo]
 publish: true
 ---
-# Muerte De Juan Pablo I (v2.0): El Magnicidio En El Vaticano
+# Muerte De Juan Pablo I (TL V.2): El Magnicidio En El Vaticano
 
 > [!ABSTRACT] Hipótesis Informativa
 > La muerte de Albino Luciani (Juan Pablo I) tras solo 33 días de pontificado no fue un "infarto oportuno", sino un **Golpe de Estado Financiero** dentro de la Iglesia Católica. Luciani llegó al trono de San Pedro con una lista de destituciones en la mano: planeaba purgar el IOR (Banco Vaticano) de sus conexiones con la **Logia Masónica P2** y la Mafia, y despedir al Arzobispo **Paul Marcinkus**. Su eliminación fue una medida de protección de activos de **[[Tier A]]**. La negativa a realizar una autopsia y las contradicciones flagrantes en el relato oficial (quién encontró el cuerpo, qué leía, la desaparición de sus medicinas) confirman el encubrimiento de un envenenamiento institucional.
@@ -27,7 +27,7 @@ publish: true
 2.  **Embalsamamiento Inmediato**: Proceder al embalsamamiento apresurado para eliminar rastros de toxinas en la sangre, bajo la excusa del clima caliente de Roma.
 
 ## Conexiones Críticas
-- [[Banco Vaticano (IOR)]]: El motivo del crimen.
+- [[00_Glosario - Conceptos Fase 1#Banco Vaticano (IOR)\|Banco Vaticano (IOR)]]: El motivo del crimen.
 - [[P2 Lodge]]: La organización responsable.
 - [[Paul Marcinkus]]: El "Banquero de Dios" (sospechoso principal).
 - [[Roberto Calvi]]: "El Banquero de Dios" (asesinado en Londres años después).
@@ -39,7 +39,8 @@ Juan Pablo I fue un mártir de la verdad financiera. Su sonrisa duró 33 días, 
 ---
 **Versión:** 2.0
 **Enfoque:** Motivos financieros (Banco Ambrosiano/Marcinkus), amenaza a la Logia P2, encubrimiento de Villot y falta de autopsia. Tesis de David Yallop.
-**Estado:** Refactoreado a v2.0 - Framework de Mafia Eclesiástica.
+**Estado:** Refactoreado a TL V.2 - Framework de Mafia Eclesiástica.
+
 
 
 

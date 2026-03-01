@@ -1,15 +1,12 @@
 ---
+titulo: Aldous Huxley
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [aldous, huxley, julian, unesco]
 publish: true
-created: 2026-01-29T19:17:03.179-03:00
-modified: 2026-02-27T13:07:35.453-03:00
-tags:
-  - aldous
-  - huxley
-  - julian
-  - unesco
-cssclasses: ""
 ---
-
 # Aldous Huxley
 
 ## Perfil TL (Resumen Ejecutivo)
@@ -24,7 +21,7 @@ cssclasses: ""
 *   **Planificador Social:** Su obra describe el "Dictado Científico", un sistema donde la población ama su servidumbre gracias al condicionamiento psicológico y biológico.
 
 ### Tier B (Operador / Gestor)
-*   Introductor de psicodélicos (Mescalina/LSD) en la cultura intelectual de élite mediante "Las Puertas de la Percepción", anticipando la Operación [[MK ULTRA]] y la revolución cultural de los 60.
+*   Introductor de psicodélicos (Mescalina/LSD) en la cultura intelectual de élite mediante "Las Puertas de la Percepción", anticipando la Operación [[MKUltra\|MK ULTRA]] y la revolución cultural de los 60.
 
 ### Tier C (Narrativa / Fachada)
 *   "Visionario humanista" y "novelista distópico" que advertía sobre el futuro.
@@ -32,7 +29,7 @@ cssclasses: ""
 ## Conexiones Clave
 - [[Julian Huxley]] (Hermano, diseñador globalista)
 - [[UNESCO]] (Infraestructura de control cultural)
-- [[MK ULTRA]] (Conexión con la experimentación con drogas)
+- [[MKUltra\|MK ULTRA]] (Conexión con la experimentación con drogas)
 - [[Eugenics Society]] (Membresía familiar)
 
 ## Fuentes

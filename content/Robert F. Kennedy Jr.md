@@ -1,5 +1,5 @@
 ---
-titulo: "Robert F. Kennedy Jr. (v2.0): El Caballo De Troya contra La Matrix Sanitaria"
+titulo: "Robert F. Kennedy Jr. (TL V.2): El Caballo De Troya contra La Matrix Sanitaria"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [contra, jeffrey, matrix, robert]
 publish: true
 ---
-# Robert F. Kennedy Jr. (v2.0): El Caballo De Troya contra La Matrix Sanitaria
+# Robert F. Kennedy Jr. (TL V.2): El Caballo De Troya contra La Matrix Sanitaria
 
 > [!ABSTRACT] Hipótesis Informativa
 > Robert F. Kennedy Jr. (RFK Jr) es el **Operador de [[Tier B]]** que ha roto la barrera de contención del Complejo Industrial de la Censura. Como heredero de la dinastía política más trágica y vigilada de EE.UU., RFK Jr utiliza su linaje para atacar el corazón de la Matrix biopolítica: el nexo entre **[[Big Pharma]]** y las agencias reguladoras (FDA, CDC, NIH). Su función real es actuar como un **Disruptor del Consenso Sanitario**, utilizando su nominación al HHS bajo **[[Donald Trump]]** para intentar desmantelar el sistema de captura regulatoria, aunque persisten dudas en el **[[Tier C]]** sobre si su integración en el poder es una victoria real o una maniobra de absorción por parte del sistema.
@@ -40,7 +40,8 @@ Robert F. Kennedy Jr. nos enseña que **dentro de la Matrix, la verdad necesita 
 ---
 **Versión:** 2.0
 **Enfoque:** RFK Jr como disruptor de la captura regulatoria de Big Pharma, su conexión histórica con la tragedia de su familia ante el Deep State y la ambivalencia de su alianza con Trump y su pasado con Epstein.
-**Estado:** Refactoreado a v2.0 - Framework de Salud Pública y Poder Dinástico.
+**Estado:** Refactoreado a TL V.2 - Framework de Salud Pública y Poder Dinástico.
+
 
 
 

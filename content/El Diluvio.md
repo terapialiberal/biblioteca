@@ -1,14 +1,12 @@
 ---
+titulo: El Diluvio (Reseteo 1.0)
+tipo: persona
+fecha: 2026-02-25
+tags: [arca, atlantida, diluvio]
+tier-primario: "a"
+nivel-evidencia: "alto"
 publish: true
-created: 2026-02-25T22:08:32.473-03:00
-modified: 2026-02-27T13:22:34.600-03:00
-tags:
-  - arca
-  - atlantida
-  - diluvio
-cssclasses: ""
 ---
-
 
 # El Diluvio (Reseteo 1.0)
 
@@ -28,7 +26,7 @@ cssclasses: ""
 
 ## Conexiones Críticas
 - [[Atlantida y Mu]]: Los estados prediluvianos de Tier A.
-- [[Arca de la Alianza]]: ¿Un dispositivo tecnológico preservado del reset?
+- [[El Arca de la Alianza\|Arca de la Alianza]]: ¿Un dispositivo tecnológico preservado del reset?
 - [[Amnesia de la Especie]]: El trauma colectivo que permite el control de Tier A.
 
 ## Cui Bono

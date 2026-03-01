@@ -1,5 +1,5 @@
 ---
-titulo: "Rory Stewart (v2.0): El Insider Clásico Y El Espejismo De La Democracia"
+titulo: "Rory Stewart (TL V.2): El Insider Clásico Y El Espejismo De La Democracia"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [clsico, espejismo, reino, stewart]
 publish: true
 ---
-# Rory Stewart (v2.0): El Insider Clásico Y El Espejismo De La Democracia
+# Rory Stewart (TL V.2): El Insider Clásico Y El Espejismo De La Democracia
 
 > [!ABSTRACT] Hipótesis Informativa
 > Rory Stewart es el **Operador de [[Tier B]]** que personifica la continuidad dinástica del **Deep State Británico**. Hijo de un alto mando del **[[MI6]]** (Brian Stewart) y tutor de los príncipes William y Harry, la trayectoria de Stewart oscila entre la diplomacia de guerra (gobernador en Irak) y la política parlamentaria. Su función real es la de un **"Agente de Representación Institucional"**: un hombre que conoce las vísceras de la Matrix y que, tras su salida de la política activa, se ha dedicado a exponer ante el **[[Tier C]]** que el Parlamento es una farsa teatral donde los diputados no tienen poder real, validando la tesis de que la soberanía reside en las estructuras no electas de inteligencia y finanzas.
@@ -39,7 +39,8 @@ Rory Stewart nos enseña que **el poder real no se vota, se hereda o se induce**
 ---
 **Versión:** 2.0
 **Enfoque:** Stewart como insider del MI6 y la corona británica, su rol en Le Cercle y su admisión de que la política democrática es una farsa teatral controlada por estructuras no electas.
-**Estado:** Refactoreado a v2.0 - Framework de Inteligencia y Poder Británico.
+**Estado:** Refactoreado a TL V.2 - Framework de Inteligencia y Poder Británico.
+
 
 
 

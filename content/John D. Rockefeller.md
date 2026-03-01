@@ -1,5 +1,5 @@
 ---
-titulo: "John D. Rockefeller (v2.0): El Arquitecto Del Monopolio De La Vida"
+titulo: "John D. Rockefeller (TL V.2): El Arquitecto Del Monopolio De La Vida"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [arquitecto, monopolio, rockefeller, vida]
 publish: true
 ---
-# John D. Rockefeller (v2.0): El Arquitecto Del Monopolio De La Vida
+# John D. Rockefeller (TL V.2): El Arquitecto Del Monopolio De La Vida
 
 > [!ABSTRACT] Hipótesis Informativa
 > John D. Rockefeller es el **fundador del modelo operativo del [[Tier A]] moderno**. Su mayor innovación no fue el control del petróleo mediante [[Standard Oil]], sino la **Captura Filantrópica de las Instituciones**. Rockefeller comprendió que para perpetuar su poder dinástico debía monopolizar no solo la energía física, sino también la energía intelectual (Educación) y la salud biológica (Medicina). A través de su fundación, rediseñó la civilización occidental para que el [[Tier C]] sea dependiente de sistemas centralizados de educación masiva y medicina farmacéutica, eliminando cualquier forma de autonomía individual.
@@ -45,6 +45,7 @@ John D. Rockefeller fue el **"Soberano que Mató a la Competencia"**. Su vida es
 **Versión:** 2.0
 **Enfoque:** Captura institucional mediante filantropía, monopolio farmacéutico-energético y diseño del sistema educativo masivo.
 **Estado:** Refactorización Completa.
+
 
 
 

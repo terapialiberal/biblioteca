@@ -1,5 +1,5 @@
 ---
-titulo: "Operación Condor (v2.0): El Sindicato Del Crimen De Estado"
+titulo: "Operación Condor (TL V.2): El Sindicato Del Crimen De Estado"
 tipo: evento
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [crimen, estado, henry, sindicato]
 publish: true
 ---
-# Operación Condor (v2.0): El Sindicato Del Crimen De Estado
+# Operación Condor (TL V.2): El Sindicato Del Crimen De Estado
 
 > [!ABSTRACT] Hipótesis Informativa
 > La Operación Cóndor no fue solo una alianza anticomunista, sino la **infraestructura de seguridad de [[Tier A]] para la imposición del neoliberalismo** en Sudamérica. Al coordinar el exterminio de la oposición política mediante el intercambio transnacional de prisioneros y escuadrones de la muerte, el **[[Tier B]]** militar (Videla, Pinochet, etc.) actuó como el capataz regional que despejó el terreno para que la banca internacional y las corporaciones transnacionales saquearan los recursos de las naciones de **[[Tier C]]**. Cóndor representa el momento en que el Estado abandona la ley para convertirse en una corporación de sicariato al servicio del capital global.
@@ -39,7 +39,8 @@ La Operación Cóndor es el recordatorio de que cuando el sistema se siente amen
 ---
 **Versión:** 2.0
 **Enfoque:** Coordinación transnacional de la represión, rol de Kissinger y la CIA, y la función económica de la limpieza política para la imposición del neoliberalismo.
-**Estado:** Refactoreado a v2.0 - Framework de Terrorismo de Estado.
+**Estado:** Refactoreado a TL V.2 - Framework de Terrorismo de Estado.
+
 
 
 

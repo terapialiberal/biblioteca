@@ -1,5 +1,5 @@
 ---
-titulo: "John McCloy (v2.0): El Custodio Del Poder Permanente"
+titulo: "John McCloy (TL V.2): El Custodio Del Poder Permanente"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [custodio, fundacin, mccloy, permanente]
 publish: true
 ---
-# John McCloy (v2.0): El Custodio Del Poder Permanente
+# John McCloy (TL V.2): El Custodio Del Poder Permanente
 
 > [!ABSTRACT] Hipótesis Informativa
 > John McCloy fue el **"Chairman" unificador del [[Tier A]] estadounidense** durante el siglo XX. Actuando como el consejero supremo de nueve presidentes, su función histórica fue la de un "Fixer" (arreglador) de alto nivel, encargado de garantizar la continuidad sistémica ante crisis existenciales. Desde la integración de criminales nazis en la estructura del Deep State hasta el encubrimiento del asesinato de JFK mediante la [[Comisión Warren]], McCloy operó para asegurar que la impunidad de la élite financiera y de inteligencia permaneciera intacta frente al escrutinio del [[Tier C]].
@@ -45,6 +45,7 @@ John McCloy fue el **"Director Ejecutivo de la Matrix Estadounidense"**. Su carr
 **Versión:** 2.0
 **Enfoque:** Continuidad sistémica, encubrimiento de crímenes estatales (JFK) e integración del capital post-nazi en el orden atlantista.
 **Estado:** Refactorización Completa.
+
 
 
 

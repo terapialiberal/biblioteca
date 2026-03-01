@@ -1,15 +1,12 @@
 ---
+titulo: Resumen General
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [aleksandr, dugin, steve, vladimir]
 publish: true
-created: 2026-01-29T19:17:03.227-03:00
-modified: 2026-02-27T13:07:21.590-03:00
-tags:
-  - aleksandr
-  - dugin
-  - steve
-  - vladimir
-cssclasses: ""
 ---
-
 # Resumen General
 Filósofo ruso, a menudo llamado "el cerebro de Putin" (exagerado, pero influyente). Promotor del **Eurasianismo** y la **Cuarta Teoría Política** (ni comunismo, ni fascismo, ni liberalismo). Dugin ve la geopolítica como una batalla espiritual entre la "Tierra" (Rusia/Tradición) y el "Mar" (Atlántico/Liberalismo/EEUU).
 
@@ -29,8 +26,8 @@ Filósofo ruso, a menudo llamado "el cerebro de Putin" (exagerado, pero influyen
 # Conexiones
 - [[Vladimir Putin]]
 - [[Steve Bannon]] (Su espejo occidental)
-- [[Teoría del Heartland (Halford Mackinder)]]
-- [[Ocultismo]]
+- [[00_Glosario - Conceptos Fase 1#Teoría del Heartland (Halford Mackinder)\|Teoría del Heartland (Halford Mackinder)]]
+- [[00_Glosario - Conceptos Fase 1#Ocultismo\|Ocultismo]]
 - [[Guerra Cognitiva]]
 
 # Por Qué Importa

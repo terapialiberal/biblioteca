@@ -1,15 +1,12 @@
 ---
+titulo: "Linajes Merovingios: La Mitología De La Sangre Real"
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [merovingios, mitologa, nobleza, real]
 publish: true
-created: 2026-01-29T19:17:22.606-03:00
-modified: 2026-02-27T13:23:14.057-03:00
-tags:
-  - merovingios
-  - mitologa
-  - nobleza
-  - real
-cssclasses: ""
 ---
-
 # Linajes Merovingios: La Mitología De La Sangre Real
 
 > [!ABSTRACT] Resumen de Inteligencia
@@ -36,7 +33,8 @@ Los Merovingios son la razón por la que siempre ganan los mismos. No importa a 
 - **Conceptos:** [[Derecho Divino]], [[Quinotauro]], [[RH Negativo]].
 - **Investigadores:** [[Fritz Springmeier]], [[David Icke]] (Teoría de Hibridación).
 
-**Estado:** Refactoreado a v2.0 - Marco Esotérico-Praxeológico.
+**Estado:** Refactoreado a TL V.2 - Marco Esotérico-Praxeológico.
+
 
 
 

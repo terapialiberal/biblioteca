@@ -1,15 +1,12 @@
 ---
+titulo: City of London
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [city, familia, london, reino]
 publish: true
-created: 2026-01-29T19:17:07.833-03:00
-modified: 2026-02-27T13:06:45.833-03:00
-tags:
-  - city
-  - familia
-  - london
-  - reino
-cssclasses: ""
 ---
-
 ![City of London Coat of Arms](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Coat_of_Arms_of_The_City_of_London.svg/800px-Coat_of_Arms_of_The_City_of_London.svg.png)
 # City of London
 
@@ -38,7 +35,7 @@ cssclasses: ""
 - [[Reino Unido Estado profundo]]
 - [[Familia Rothschild]] (sede histórica en la City)
 - [[Bank of England]] (ubicado en la City, privado hasta 1946)
-- [[BCCI Scandal]] (operaba desde aquí)
+- [[00_Glosario - Conceptos Fase 1#BCCI Scandal\|BCCI Scandal]] (operaba desde aquí)
 
 ## Fuentes
 - "Treasure Islands" - Nicholas Shaxson

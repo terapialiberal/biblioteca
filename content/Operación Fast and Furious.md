@@ -1,5 +1,5 @@
 ---
-titulo: "Operación Fast and Furious (v2.0): El Tráfico De Armas Como Ingeniería De Desarme"
+titulo: "Operación Fast and Furious (TL V.2): El Tráfico De Armas Como Ingeniería De Desarme"
 tipo: evento
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [cartel, desarme, furious, ingeniera]
 publish: true
 ---
-# Operación Fast and Furious (v2.0): El Tráfico De Armas Como Ingeniería De Desarme
+# Operación Fast and Furious (TL V.2): El Tráfico De Armas Como Ingeniería De Desarme
 
 > [!ABSTRACT] Hipótesis Informativa
 > La Operación Fast and Furious no fue un error táctico de "rastreo de armas", sino una **operación de bandera falsa administrativa de [[Tier A]]**. Al facilitar deliberadamente la entrega de miles de armas de grado militar al **[[Cartel de Sinaloa]]**, la administración Obama buscaba generar una explosión de violencia que pudiera ser atribuida a las armerías civiles de EE.UU. El objetivo real era utilizar la sangre de las víctimas de **[[Tier C]]** en México y EE.UU. para justificar leyes de desarme masivo y restricciones a la Segunda Enmienda, mientras simultáneamente se protegía al cartel socio de la **[[CIA]]** en la región.
@@ -31,7 +31,7 @@ publish: true
 - [[Barack Obama]]: Quién protegió la operación mediante decretos ejecutivos.
 - [[ATF]]: La agencia operativa que ejecutó la traición.
 - [[CIA Narcotráfico]]: El marco de alianza histórica con los carteles.
-- [[Control de Armas]]: La agenda final de Tier A a la que servía esta operación.
+- [[00_Glosario - Conceptos Fase 1#Control de Armas\|Control de Armas]]: La agenda final de Tier A a la que servía esta operación.
 
 ## Conclusión Del Análisis
 Fast and Furious nos enseña que el gobierno es a menudo el principal proveedor de lo que dice combatir. Para el Tier A, las armas en manos del narco son útiles porque matan, pero las armas en manos del pueblo son peligrosas porque protegen la libertad. La operación falló no porque las armas se perdieran, sino porque los denunciantes revelaron que la pérdida fue un acto de voluntad política.
@@ -39,7 +39,8 @@ Fast and Furious nos enseña que el gobierno es a menudo el principal proveedor 
 ---
 **Versión:** 2.0
 **Enfoque:** Uso del tráfico de armas para impulsar leyes de control de armas domésticas, protección del Cartel de Sinaloa y el rol del Departamento de Justicia en el encubrimiento.
-**Estado:** Refactoreado a v2.0 - Framework de Operación de Bandera Falsa.
+**Estado:** Refactoreado a TL V.2 - Framework de Operación de Bandera Falsa.
+
 
 
 

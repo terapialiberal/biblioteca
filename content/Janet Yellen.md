@@ -1,5 +1,13 @@
 ---
-titulo: "Janet Yellen (v2.0): La Tesorera De La Puerta Giratoria"
+titulo: Janet Yellen
+tipo: 'organizacion'
+tier-primario: 'a'
+nivel-evidencia: 'medio'
+tags: [clasificado-ai]
+publish: true
+---
+﻿---
+titulo: "Janet Yellen (TL V.2): La Tesorera De La Puerta Giratoria"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +15,7 @@ nivel-evidencia: "medio"
 tags: [puerta, reserva, tesorera, yellen]
 publish: true
 ---
-# Janet Yellen (v2.0): La Tesorera De La Puerta Giratoria
+# Janet Yellen (TL V.2): La Tesorera De La Puerta Giratoria
 
 > [!ABSTRACT] Hiptesis Informativa
 > Janet Yellen es la **interfaz mxima entre el capital financiero y el poder ejecutivo**. Representa la institucionalizacin del "soborno preventivo": antes de asumir el Tesoro, cobr ms de \7 millones en honorarios de los mismos bancos que hoy supervisa. Su funcin para el [[Tier A]] es legitimar la expansin infinita de la deuda y la inflacin del dlar bajo un barniz de tecnocracia acadmica, asegurando que el [[Tier C]] acepte el empobrecimiento sistemtico como un fenmeno "transitorio" e irreversible.
@@ -42,9 +50,10 @@ publish: true
 Janet Yellen es el **"Filtro de Realidad"** de la economa estadounidense. Su funcin es convencer al Tier C de que la destruccin de su futuro es un acto de sabidura tcnica. Es la prueba viviente de que el sistema financiero es un club cerrado: los mismos que crean la crisis son los que "analizan" la solucin y los que ejecutan el rescate, cobrando en cada etapa del proceso. Yellen no est ah para arreglar la economa; est ah para asegurarse de que la mquina de deuda del Tier A nunca deje de succionar el valor del trabajo humano.
 
 ---
-**Versi�n:** 2.0
-**Enfoque:** Monopolizaci�n del discurso econ�mico, captura por honorarios bancarios y uso del d�lar como herramienta de guerra geopol�tica.
-**Estado:** Refactorizaci�n Completa.
+**Versiï¿½n:** 2.0
+**Enfoque:** Monopolizaciï¿½n del discurso econï¿½mico, captura por honorarios bancarios y uso del dï¿½lar como herramienta de guerra geopolï¿½tica.
+**Estado:** Refactorizaciï¿½n Completa.
+
 
 
 

@@ -1,5 +1,5 @@
 ---
-titulo: "Río Tercero (v2.0): El Atentado De Estado Para El Encubrimiento De La Matrix"
+titulo: "Río Tercero (TL V.2): El Atentado De Estado Para El Encubrimiento De La Matrix"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [atentado, carlos, estado, matrix]
 publish: true
 ---
-# Río Tercero (v2.0): El Atentado De Estado Para El Encubrimiento De La Matrix
+# Río Tercero (TL V.2): El Atentado De Estado Para El Encubrimiento De La Matrix
 
 > [!ABSTRACT] Hipótesis Informativa
 > La explosión de la Fábrica Militar de Río Tercero en 1995 no fue un accidente industrial, sino un **Acto de Terrorismo de Estado de [[Tier B]]** diseñado para destruir pruebas físicas del contrabando de armas a Ecuador y Croacia. Ejecutada bajo el gobierno de **[[Carlos Menem]]**, la operación implicó el bombardeo deliberado de una población civil de **[[Tier C]]** para asegurar la impunidad de un esquema de corrupción internacional que violaba embargos de la ONU. Su función real fue la de un **"Incendio de Archivos Biopolítico"**: sacrificar vidas y una ciudad entera para proteger los secretos del tráfico de armas del Complejo Militar-Industrial argentino vinculado a la Matrix global.
@@ -39,7 +39,8 @@ Río Tercero nos enseña que **el Estado es capaz de bombardear a sus propios hi
 ---
 **Versión:** 2.0
 **Enfoque:** El atentado como operación de encubrimiento del tráfico de armas, la intencionalidad probada de la explosión, la impunidad garantizada por el poder político y el sacrificio deliberado de civiles de Río Tercero.
-**Estado:** Refactoreado a v2.0 - Framework de Terrorismo de Estado y Corrupción.
+**Estado:** Refactoreado a TL V.2 - Framework de Terrorismo de Estado y Corrupción.
+
 
 
 

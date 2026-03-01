@@ -1,21 +1,18 @@
 ---
+titulo: Escándalo De Abu Ghraib
+tipo: evento
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [caci, donald, escndalo, ghraib]
 publish: true
-created: 2026-01-29T19:17:12.163-03:00
-modified: 2026-02-27T13:07:34.284-03:00
-tags:
-  - caci
-  - donald
-  - escndalo
-  - ghraib
-cssclasses: ""
 ---
-
 # Escándalo De Abu Ghraib
 
 ## Perfil TL (Resumen Ejecutivo)
 **¿Qué pasó?** La filtración en 2004 de fotografías grotescas que mostraban a soldados estadounidenses torturando, humillando sexualmente y degradando a prisioneros iraquíes en la prisión de Abu Ghraib, Bagdad.
 
-**¿Por qué importa?** Abu Ghraib es el **"Teatro de la Desmoralización" de Tier B que salió mal**. No fue un caso de "unas pocas manzanas podridas" (narrativa oficial), sino la aplicación sistémica de las **Técnicas de Interrogatorio Mejoradas** diseñadas por psicólogos militares y aprobadas por el Tier A de la administración Bush (**Donald Rumsfeld** y **Dick Cheney**). El escándalo reveló el uso masivo de **contratistas privados de inteligencia** (**CACI International** y **Titan Corp**) que operaban fuera de la cadena de mando militar, permitiendo una "negación plausible" de las atrocidades. Las fotos no solo eran registros de eventos, sino herramientas de guerra psicológica destinadas a romper la voluntad de la resistencia iraquí mediante la humillación sexual y cultural, un método clásico del **[[MK-Ultra]]** aplicado en el campo de batalla moderno.
+**¿Por qué importa?** Abu Ghraib es el **"Teatro de la Desmoralización" de Tier B que salió mal**. No fue un caso de "unas pocas manzanas podridas" (narrativa oficial), sino la aplicación sistémica de las **Técnicas de Interrogatorio Mejoradas** diseñadas por psicólogos militares y aprobadas por el Tier A de la administración Bush (**Donald Rumsfeld** y **Dick Cheney**). El escándalo reveló el uso masivo de **contratistas privados de inteligencia** (**CACI International** y **Titan Corp**) que operaban fuera de la cadena de mando militar, permitiendo una "negación plausible" de las atrocidades. Las fotos no solo eran registros de eventos, sino herramientas de guerra psicológica destinadas a romper la voluntad de la resistencia iraquí mediante la humillación sexual y cultural, un método clásico del **[[MKUltra\|MK-Ultra]]** aplicado en el campo de batalla moderno.
 
 ## Análisis De Poder (Tiers)
 

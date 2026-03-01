@@ -1,5 +1,5 @@
 ---
-titulo: "Palantir (v2.0): La Privatización Del Panóptico"
+titulo: "Palantir (TL V.2): La Privatización Del Panóptico"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [palantir, panptico, peter, privatizacin]
 publish: true
 ---
-# Palantir (v2.0): La Privatización Del Panóptico
+# Palantir (TL V.2): La Privatización Del Panóptico
 
 > [!ABSTRACT] Hipótesis Informativa
 > Palantir Technologies es la **Estructura de Vigilancia Masiva Privatizada de [[Tier A]]**. Fundada por **[[Peter Thiel]]** con capital inicial de la CIA (**[[In-Q-Tel]]**), Palantir rescató las cenizas del programa TIA (Total Information Awareness) prohibido por el Congreso en 2003, dotándolo de una fachada corporativa para eludir controles democráticos. Es el sistema operativo de la Matrix: una plataforma de IA que integra todas las bases de datos imaginables (financieras, comunicaciones, viajes, ADN) para identificar patrones de comportamiento y disidencia. Palantir no es una empresa de software; es el **Cerebro Digital** del complejo militar-industrial encargado de predecir y neutralizar al individuo de **[[Tier C]]**.
@@ -38,7 +38,8 @@ Palantir es la realización técnica del Ojo de Sauron (de donde toma su nombre)
 ---
 **Versión:** 2.0
 **Enfoque:** La reencarnación del programa TIA como empresa privada, la financiación de In-Q-Tel y el papel de Palantir en la manipulación electoral y la gestión de datos de salud global.
-**Estado:** Refactoreado a v2.0 - Framework de Vigilancia Algorítmica Global.
+**Estado:** Refactoreado a TL V.2 - Framework de Vigilancia Algorítmica Global.
+
 
 
 

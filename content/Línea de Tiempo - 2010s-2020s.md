@@ -1,16 +1,17 @@
 ---
-publish: true
-created: 2026-01-29T19:17:23.342-03:00
-modified: 2026-02-26T23:11:01.428-03:00
+titulo: 'â³ Línea De Tiempo: 2010s-2020s (La Captura Tecnocrática)'
+tipo: concepto
+fecha: 2026-02-25T00:00:00.000Z
+tier-primario: b
+nivel-evidencia: medio
 tags:
   - tecnocracia
   - gran-reinicio
   - cbdc
   - vigilancia-digital
   - biopolitica
-cssclasses: ""
+publish: true
 ---
-
 # â³ Línea De Tiempo: 2010s-2020s (La Captura Tecnocrática)
 
 > [!ABSTRACT] Resumen Era
@@ -32,7 +33,7 @@ cssclasses: ""
 
 ## âš¡ Patrones Detectados Por Bóveda
 1.  **Simulacro â†’ Evento:** Nada ocurre sin ser ensayado previamente (Dark Winter, Evento 201). La élite de Tier A no improvisa.
-2.  **Crisis â†’ Centralización:** Cada problema fabricado resulta en más poder para los organismos no electos ([[WHO]], [[WEF]], [[BIS]]).
+2.  **Crisis â†’ Centralización:** Cada problema fabricado resulta en más poder para los organismos no electos ([[00_Glosario - Conceptos Fase 1#WHO\|WHO]], [[WEF]], [[BIS]]).
 3.  **Delincuencia Tecnológica:** Las herramientas de libertad (redes sociales, internet) han sido transformadas en infraestructuras de extracción de **[[Loosh]]** y control mental.
 
 ---
@@ -43,7 +44,8 @@ cssclasses: ""
 - **Conceptos:** [[Cuarta Revolución Industrial]], [[Transhumanismo]], [[Identidad Digital]], [[CBDC]].
 - **Proyectos:** [[Gaza]] (IMEC Hub), [[Smart Cities]], [[Crédito Social]].
 
-**Estado:** Refactoreado a v2.0 - Perspectiva de Tecnocracia Global.
+**Estado:** Refactoreado a TL V.2 - Perspectiva de Tecnocracia Global.
+
 
 
 

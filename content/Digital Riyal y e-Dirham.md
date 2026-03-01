@@ -24,7 +24,7 @@ En 2024, Arabia Saudita se uni formalmente a mBridge como participante pleno. En
 
 ## ?? CONEXIONES
 - [[Project mBridge]]
-- [[Petrodlar]]
+- [[Petrodólar\|Petrodlar]]
 - [[BIS Innovation Hub]]
 - [[BRICS]]
 

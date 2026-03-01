@@ -1,5 +1,5 @@
 ---
-titulo: "Operación Griffin (v2.0): La Arquitectura De La Unión Europea"
+titulo: "Operación Griffin (TL V.2): La Arquitectura De La Unión Europea"
 tipo: evento
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [arquitectura, europea, european, unin]
 publish: true
 ---
-# Operación Griffin (v2.0): La Arquitectura De La Unión Europea
+# Operación Griffin (TL V.2): La Arquitectura De La Unión Europea
 
 > [!ABSTRACT] Hipótesis Informativa
 > La Operación Griffin (UE Origins) es el término que describe la **financiación y dirección encubierta de la integración europea por parte de la inteligencia de EE.UU.** A través del **Comité Americano para una Europa Unida (ACUE)**, la **[[CIA]]** canalizó fondos de las fundaciones Rockefeller y Ford para crear el movimiento federalista europeo. El objetivo no era la paz en el continente, sino la creación de un bloque atlántico subordinado al **[[Tier A]]** anglo-americano, eliminando la soberanía de las naciones para imponer una gobernanza tecnocrática gestionada por burócratas de **[[Tier B]]** no electos lejos del control del **[[Tier C]]**.
@@ -39,7 +39,8 @@ La Operación Griffin es la revelación de que la Unión Europea fue un proyecto
 ---
 **Versión:** 2.0
 **Enfoque:** Financiación de la CIA al movimiento federalista europeo, rol de Jean Monnet y el ACUE, y la creación deliberadamente antidemocrática de las instituciones de Bruselas.
-**Estado:** Refactoreado a v2.0 - Framework de Gobernanza Supranacional.
+**Estado:** Refactoreado a TL V.2 - Framework de Gobernanza Supranacional.
+
 
 
 

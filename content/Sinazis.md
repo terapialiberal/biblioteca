@@ -1,5 +1,5 @@
 ---
-titulo: "Sinazis: El Acuerdo Haavara (v2.0): La Dialéctica De Las Cúpulas"
+titulo: "Sinazis: El Acuerdo Haavara (TL V.2): La Dialéctica De Las Cúpulas"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [cpulas, david, haavara, sinazis]
 publish: true
 ---
-# Sinazis: El Acuerdo Haavara (v2.0): La Dialéctica De Las Cúpulas
+# Sinazis: El Acuerdo Haavara (TL V.2): La Dialéctica De Las Cúpulas
 
 > [!ABSTRACT] Hipótesis Informativa
 > El término "Sinazis" (una amalgama provocadora de **Sionista** y **Nazi**) se refiere al fenómeno histórico de colaboración pragmática entre el liderazgo sionista y el régimen de Adolf Hitler, cristalizado en el **Acuerdo Haavara (1933)**. Su función real en la Matrix histórica fue la de un **"Mecanismo de Desvío Estratégico de Capital y Población"**: permitir que las élites de **[[Tier A]]** de ambos bandos lograran sus objetivos (la expulsión de judíos de Alemania y la colonización de Palestina) mediante un pacto económico que rompió el boicot judío internacional contra el nazismo. Este caso demuestra cómo, en los niveles más altos, las ideologías supuestamente enemigas pueden operar en una simbiosis funcional para el rediseño del mapa geopolítico.
@@ -30,7 +30,7 @@ publish: true
 
 ## Conexiones Críticas
 - [[Adolf Hitler]]: El socio táctico del acuerdo para la expulsión.
-- [[David Ben-Gurión]]: Líder sionista que defendió la prioridad de Haavara sobre la lucha antinazi.
+- [[David Ben-Gurion\|David Ben-Gurión]]: Líder sionista que defendió la prioridad de Haavara sobre la lucha antinazi.
 - [[Lenni Brenner]]: Historiador que documentó la colaboración en "Zionism in the Age of the Dictators".
 - [[Segunda Guerra Mundial]]: El conflicto mayor que borró las huellas de estos acuerdos previos.
 - [[Israel (Orígenes)]]: El resultado físico de la acumulación de capital lograda vía Haavara.
@@ -41,7 +41,8 @@ El caso Haavara nos enseña que **el enemigo de mi pueblo puede ser el socio de 
 ---
 **Versión:** 2.0
 **Enfoque:** El Acuerdo Haavara como ejemplo de colaboración élite-élite, el uso del nazismo por el sionismo para la colonización de Palestina y el trasvase de activos económicos, rompiendo el boicot popular, y la crítica a la ingeniería demográfica realizada a costa del sufrimiento del Tier C.
-**Estado:** Refactoreado a v2.0 - Framework de Historia Oculta y Dialéctica de Poder.
+**Estado:** Refactoreado a TL V.2 - Framework de Historia Oculta y Dialéctica de Poder.
+
 
 
 

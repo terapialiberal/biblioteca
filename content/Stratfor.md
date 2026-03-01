@@ -1,5 +1,5 @@
 ---
-titulo: "Stratfor (v2.0): La Privatización Del Ojo Estratégico"
+titulo: "Stratfor (TL V.2): La Privatización Del Ojo Estratégico"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [estratgico, george, privatizacin, wikileaks]
 publish: true
 ---
-# Stratfor (v2.0): La Privatización Del Ojo Estratégico
+# Stratfor (TL V.2): La Privatización Del Ojo Estratégico
 
 > [!ABSTRACT] Hipótesis Informativa
 > Stratfor (Strategic Forecasting, Inc.) es la **Empresa de Inteligencia Privada de [[Tier B]]** que actúa como una extensión externa del aparato de seguridad nacional de EE.UU. Aunque se presenta como una firma de consultoría geopolítica para inversores, su función real en la Matrix es la de una **"Shadow CIA" (CIA de las Sombras)**: proporcionar análisis clasificado a corporaciones de Tier A y agencias de Tier B, utilizando una red de informantes pagados para monitorear disidentes, activistas e intereses extranjeros fuera de los canales oficiales de supervisión gubernamental.
@@ -15,7 +15,7 @@ publish: true
 ## Análisis De Tiers
 
 ### Tier B (Los Operadores De La Inteligencia Tercerizada)
-*   **George Friedman y la Inteligencia como Negocio:** Fundada por George Friedman, Stratfor es el modelo de la **Inteligencia como Servicio (IaaS)**. Para el Tier B corporativo y gubernamental, Stratfor ofrece una capa de "Negación Plausible": permite a las empresas y gobiernos obtener información sensible sin que sus propios departamentos de inteligencia aparezcan directamente en las transacciones. El Tier B de Stratfor, según revelaron los correos filtrados por **[[WikiLeaks]]** en 2012, no solo analiza datos públicos, sino que recluta informantes en bancos centrales, ministerios y movimientos sociales. Este Tier B opera bajo el principio de que la información es una mercancía que se extrae y se vende al mejor postor de la élite de Tier A.
+*   **George Friedman y la Inteligencia como Negocio:** Fundada por George Friedman, Stratfor es el modelo de la **Inteligencia como Servicio (IaaS)**. Para el Tier B corporativo y gubernamental, Stratfor ofrece una capa de "Negación Plausible": permite a las empresas y gobiernos obtener información sensible sin que sus propios departamentos de inteligencia aparezcan directamente en las transacciones. El Tier B de Stratfor, según revelaron los correos filtrados por **[[00_Glosario - Conceptos Fase 1#WikiLeaks\|WikiLeaks]]** en 2012, no solo analiza datos públicos, sino que recluta informantes en bancos centrales, ministerios y movimientos sociales. Este Tier B opera bajo el principio de que la información es una mercancía que se extrae y se vende al mejor postor de la élite de Tier A.
 
 ### Tier A (Los Consumidores De La Realidad Privada)
 *   **La Clientela de las Sombras:** Para el Tier A interesado en la anticipación de riesgos políticos y el control de la oposición (liderado por titanes como Goldman Sachs, Lockheed Martin y el Departamento de Seguridad Nacional), Stratfor es una herramienta de **Vigilancia Predictiva**. El Tier A utiliza los reportes de Stratfor para decidir dónde invertir, a qué gobiernos apoyar o qué movimientos sociales neutralizar. Los 5 millones de correos filtrados por WikiLeaks mostraron cómo corporaciones de Tier A pedían a Stratfor que espiara a activistas de **[[Tier C]]** (como los de Bhopal o Anonymous). Para el Tier A, Stratfor asegura que la estabilidad de los mercados no sea interrumpida por la voluntad imprevista de los pueblos de Tier C.
@@ -29,7 +29,7 @@ publish: true
 2.  **Corporate Espionage Cloaking (Ocultamiento de Espionaje Corporativo)**: Uso de una fachada de análisis de medios y consultoría pública para realizar actividades de vigilancia sobre grupos de la sociedad civil de Tier C, protegiendo a las corporaciones clientes de escándalos éticos directos.
 
 ## Conexiones Críticas
-- [[WikiLeaks]]: La organización que desmanteló el velo de secreto de Stratfor en 2012.
+- [[00_Glosario - Conceptos Fase 1#WikiLeaks\|WikiLeaks]]: La organización que desmanteló el velo de secreto de Stratfor en 2012.
 - [[George Friedman]]: El fundador y arquitecto de la visión geopolítica de la empresa.
 - [[CIA]]: Agencia a la que muchos analistas de Stratfor regresan o de la que provienen.
 - [[Anonymous]]: Uno de los objetivos de inteligencia que Stratfor intentó neutralizar.
@@ -41,7 +41,8 @@ Stratfor nos enseña que **el espionaje ya no es un monopolio de los Estados, si
 ---
 **Versión:** 2.0
 **Enfoque:** Stratfor como empresa de inteligencia privada (Shadow CIA), la filtración de WikiLeaks, el espionaje corporativo a activistas de Tier C y el rol de informantes pagados en la construcción de la narrativa geopolítica de Tier A.
-**Estado:** Refactoreado a v2.0 - Framework de Inteligencia Privada y Geopolítica.
+**Estado:** Refactoreado a TL V.2 - Framework de Inteligencia Privada y Geopolítica.
+
 
 
 

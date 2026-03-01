@@ -1,5 +1,5 @@
 ---
-titulo: "Plan Colombia (v2.0): La Militarización Negocio Del Narcotráfico"
+titulo: "Plan Colombia (TL V.2): La Militarización Negocio Del Narcotráfico"
 tipo: evento
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [colombia, militarizacin, monsanto, plan]
 publish: true
 ---
-# Plan Colombia (v2.0): La Militarización Negocio Del Narcotráfico
+# Plan Colombia (TL V.2): La Militarización Negocio Del Narcotráfico
 
 > [!ABSTRACT] Hipótesis Informativa
 > El Plan Colombia no fue una estrategia para erradicar la cocaína, sino una **Operación de Ingeniería de Conflicto de [[Tier B]]** diseñada para beneficiar al complejo militar-industrial de EE.UU. y consolidar el control geoestratégico de la región. Bajo la fachada de la "Guerra contra las Drogas", el plan canalizó billones de dólares hacia contratistas privados (**[[DynCorp]]**) y fabricantes de químicos (**[[Monsanto]]**), mientras que en el terreno provocó el desplazamiento masivo de campesinos de **[[Tier C]]** y la institucionalización de violaciones a los DDHH (Falsos Positivos). La producción de droga nunca bajó; solo se centralizó en manos de los actores que el Tier B decidió proteger.
@@ -38,7 +38,8 @@ El Plan Colombia nos enseña que **las guerras financiadas por el extranjero sie
 ---
 **Versión:** 2.0
 **Enfoque:** El beneficio de los contratistas estadounidenses (DynCorp, Monsanto), el fracaso de la erradicación (Efecto Globo) y las violaciones a los DDHH como resultado de la presión por resultados militares.
-**Estado:** Refactoreado a v2.0 - Framework de Militarización Geopolítica.
+**Estado:** Refactoreado a TL V.2 - Framework de Militarización Geopolítica.
+
 
 
 

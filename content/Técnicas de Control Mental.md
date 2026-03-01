@@ -1,15 +1,12 @@
 ---
+titulo: Técnicas De Control Mental
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [control, dopamina, menticidio, tcnicas]
 publish: true
-created: 2026-01-29T19:17:41.881-03:00
-modified: 2026-02-27T13:06:36.911-03:00
-tags:
-  - control
-  - dopamina
-  - menticidio
-  - tcnicas
-cssclasses: ""
 ---
-
 # Técnicas De Control Mental
 
 ## Resumen Ejecutivo
@@ -35,7 +32,7 @@ El control mental no es una película de ciencia ficción; es el ecosistema en e
 ---
 
 ## Conexiones
-- [[MK Ultra]] (El origen)
+- [[MKUltra\|MK Ultra]] (El origen)
 - [[Menticidio]] (El asesinato de la voluntad)
 - [[Dopamina Loop]]
 - [[Operaciones Psicológicas (PsyOps)]]

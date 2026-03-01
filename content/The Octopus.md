@@ -1,19 +1,16 @@
 ---
+titulo: The Octopus (El Pulpo)
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [bcci, octopus, promis, pulpo]
 publish: true
-created: 2026-01-29T19:17:39.983-03:00
-modified: 2026-02-27T13:24:03.113-03:00
-tags:
-  - bcci
-  - octopus
-  - promis
-  - pulpo
-cssclasses: ""
 ---
-
 # The Octopus (El Pulpo)
 
 ## Resumen Ejecutivo
-**¿Qué es?** El nombre que el periodista de investigación **Danny Casolaro** dio a una red interconectada de escándalos que incluía: el robo del software [[PROMIS Software]], el escándalo del banco [[BCCI Scandal]], el [[Irán-Contra]], y la "Sorpresa de Octubre" de 1980.
+**¿Qué es?** El nombre que el periodista de investigación **Danny Casolaro** dio a una red interconectada de escándalos que incluía: el robo del software [[PROMIS Software]], el escándalo del banco [[00_Glosario - Conceptos Fase 1#BCCI Scandal\|BCCI Scandal]], el [[Irán-Contra]], y la "Sorpresa de Octubre" de 1980.
 
 **¿Por qué importa?** Casolaro descubrió que no eran eventos aislados, sino operaciones de un mismo grupo de inteligencia "renegado" (The Octopus) que operaba por encima de presidentes y fronteras. Cuando estaba a punto de recibir las pruebas finales en un hotel de West Virginia, fue encontrado muerto en una bañera con las muñecas cortadas 12 veces (embalsamado ilegalmente antes de autopsia).
 
@@ -34,7 +31,7 @@ cssclasses: ""
 
 ## Conexiones
 - [[PROMIS Software]]
-- [[BCCI Scandal]]
+- [[00_Glosario - Conceptos Fase 1#BCCI Scandal\|BCCI Scandal]]
 - [[Irán-Contra]]
 - [[Wackenhut]]
 

@@ -1,5 +1,5 @@
 ---
-titulo: "Plausible Deniability (v2.0): El Escudo De La Impunidad De Ã‰lite"
+titulo: "Plausible Deniability (TL V.2): El Escudo De La Impunidad De Ã‰lite"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [deniability, escudo, impunidad, plausible]
 publish: true
 ---
-# Plausible Deniability (v2.0): El Escudo De La Impunidad De Ã‰lite
+# Plausible Deniability (TL V.2): El Escudo De La Impunidad De Ã‰lite
 
 > [!ABSTRACT] Hipótesis Informativa
 > La "Plausible Deniability" (Negación Plausible) es el **Mecanismo Técnico de [[Tier B]]** diseñado para permitir que los líderes del **[[Tier A]]** ordenen o aprueben actos ilegales, criminales o inmorales sin sufrir consecuencias legales o políticas. Mediante la compartimentación extrema, el uso de órdenes verbales imprecisas y la creación de intermediarios desechables ("Cut-outs"), el sistema asegura que cuando una operación encubierta es expuesta, la responsabilidad se detenga en los ejecutores de bajo nivel, protegiendo la integridad de la estructura de mando y permitiendo la continuidad de la agenda sin rendición de cuentas.
@@ -38,7 +38,8 @@ La Negación Plausible nos enseña que **en el poder, la ignorancia es una decis
 ---
 **Versión:** 2.0
 **Enfoque:** La estructuración del secreto para proteger a la cúpula, el uso de órdenes verbales e intermediarios, y la narrativa de la "manzana podrida" para desviar la atención del sistema.
-**Estado:** Refactoreado a v2.0 - Framework de Arquitectura del Secreto.
+**Estado:** Refactoreado a TL V.2 - Framework de Arquitectura del Secreto.
+
 
 
 

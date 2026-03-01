@@ -1,5 +1,5 @@
 ---
-titulo: "Red Inteligente (Smart Grid) (v2.0): El Interruptor Maestro De La Tecnocracia"
+titulo: "Red Inteligente (Smart Grid) (TL V.2): El Interruptor Maestro De La Tecnocracia"
 tipo: organizacion
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [ciudades, crdito, grid, smart]
 publish: true
 ---
-# Red Inteligente (Smart Grid) (v2.0): El Interruptor Maestro De La Tecnocracia
+# Red Inteligente (Smart Grid) (TL V.2): El Interruptor Maestro De La Tecnocracia
 
 > [!ABSTRACT] Hipótesis Informativa
 > La Red Inteligente (Smart Grid) no es una mejora de "eficiencia" para el consumidor, sino la **Infraestructura de Racionamiento y Vigilancia de [[Tier A]]** para el control total de la vida doméstica. Mediante la instalación obligatoria de contadores inteligentes (Smart Meters), el sistema captura datos en tiempo real sobre el comportamiento del individuo de **[[Tier C]]** dentro de su propio hogar. Su función real es permitir el **Corte Selectivo y Remoto** de suministros basado en criterios de "huella de carbono", cumplimiento de emergencia o escasez inducida, privatizando el derecho al calor y la luz bajo la métrica de agencias tecnocráticas globales.
@@ -15,7 +15,7 @@ publish: true
 ## Análisis De Tiers
 
 ### Tier A (Los Gestores De La Escasez)
-*   **El Control del Grifo Energético:** Para el Tier A (WEF, ONU, Bancos Centrales), la energía abundante es sinónimo de soberanía individual. La Smart Grid permite la **Tokenización de la Energía**: transformar el acceso a la electricidad en un privilegio condicionado. Mediante algoritmos de IA, el Tier A puede ejecutar el "ajuste de demanda", que en la práctica significa apagar electrodomésticos específicos o limitar la temperatura de los hogares de Tier C sin su consentimiento, bajo la narrativa de "salvar el planeta". Es la base física para la implementación de las **[[Ciudades de 15 minutos]]** y el **[[Crédito Social (China)\|Crédito de Carbono Individual]]**.
+*   **El Control del Grifo Energético:** Para el Tier A (WEF, ONU, Bancos Centrales), la energía abundante es sinónimo de soberanía individual. La Smart Grid permite la **Tokenización de la Energía**: transformar el acceso a la electricidad en un privilegio condicionado. Mediante algoritmos de IA, el Tier A puede ejecutar el "ajuste de demanda", que en la práctica significa apagar electrodomésticos específicos o limitar la temperatura de los hogares de Tier C sin su consentimiento, bajo la narrativa de "salvar el planeta". Es la base física para la implementación de las **[[Ciudades de 15 minutos]]** y el **[[Crédito Social Chino\|Crédito de Carbono Individual]]**.
 
 ### Tier C (El Rehén En Su Propia Casa)
 *   **La Muerte de la Privacidad Analógica:** Con la red eléctrica tradicional, el Estado sabía cuánta energía consumías al mes. Con la Smart Grid, el Tier B operativo recibe datos cada 15 segundos sobre qué aparatos usas, cuándo duermes y cuántas personas hay en la casa (mediante el análisis de las firmas de carga eléctrica). El Tier C entrega su **Soberanía del Hogar** a cambio de una promesa de "ahorro" que suele resultar en tarifas más altas y la exposición constante a radiación de microondas (frecuencias pulsadas) proveniente de los contadores, afectando la vitalidad biológica del individuo.
@@ -38,7 +38,8 @@ La Red Inteligente nos enseña que **el progreso que te quita el control del int
 ---
 **Versión:** 2.0
 **Enfoque:** La Smart Grid como herramienta de racionamiento biopolítico, la pérdida total de privacidad doméstica y la conexión con la Agenda 2030 y el crédito de carbono.
-**Estado:** Refactoreado a v2.0 - Framework de Tecnocracia Energética.
+**Estado:** Refactoreado a TL V.2 - Framework de Tecnocracia Energética.
+
 
 
 

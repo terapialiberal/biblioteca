@@ -1,5 +1,13 @@
 ---
-titulo: "Meshtastic (v2.0): La Red De La Resistencia"
+titulo: Meshtastic
+tipo: 'concepto'
+tier-primario: 'b'
+nivel-evidencia: 'medio'
+tags: [clasificado-ai]
+publish: true
+---
+﻿---
+titulo: "Meshtastic (TL V.2): La Red De La Resistencia"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +15,7 @@ nivel-evidencia: "medio"
 tags: [kill, lorawan, meshtastic, resistencia]
 publish: true
 ---
-# Meshtastic (v2.0): La Red De La Resistencia
+# Meshtastic (TL V.2): La Red De La Resistencia
 
 > [!ABSTRACT] Hiptesis Informativa
 > Meshtastic es la respuesta tecnolgica del **[[Tier C]]** ante la amenaza del **Apagn Digital (Kill Switch)**. Utilizando dispositivos de radio baratos (LoRa) que operan en frecuencias libres, crea una red descentralizada en malla (Mesh) que permite el chat y la geolocalizacin cifrada **sin necesidad de torres de telefona, internet ni satlites**. En un escenario donde el **[[Tier A]]** decida "apagar la Matrix" para controlar una insurreccin o una crisis, Meshtastic se convierte en la nica infraestructura de comunicacin civil soberana e incensurable.
@@ -37,9 +45,10 @@ publish: true
 Meshtastic no es un juguete de hobby; es el "Walkie-Talkie del Siglo XXI". Representa la capacidad de las comunidades de mantenerse coordinadas cuando el Estado apaga la luz. Tener un nodo Meshtastic es un acto de soberana digital fsica.
 
 ---
-**Versi�n:** 2.0
-**Enfoque:** Resiliencia ante apagones (Kill Switch), arquitectura descentralizada (Mesh), bajo costo y utilidad t�ctica para la comunidad civil.
-**Estado:** Refactoreado a v2.0 - Framework de Comms Soberanas.
+**Versiï¿½n:** 2.0
+**Enfoque:** Resiliencia ante apagones (Kill Switch), arquitectura descentralizada (Mesh), bajo costo y utilidad tï¿½ctica para la comunidad civil.
+**Estado:** Refactoreado a TL V.2 - Framework de Comms Soberanas.
+
 
 
 

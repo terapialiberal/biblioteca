@@ -1,14 +1,12 @@
 ---
+titulo: Banco Ambrosiano
+tipo: empresa
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [ambrosiano, banco, roberto]
 publish: true
-created: 2026-01-29T19:17:04.715-03:00
-modified: 2026-02-27T13:07:30.530-03:00
-tags:
-  - ambrosiano
-  - banco
-  - roberto
-cssclasses: ""
 ---
-
 # Banco Ambrosiano
 
 ## Perfil TL (Resumen Ejecutivo)
@@ -19,7 +17,7 @@ cssclasses: ""
 ## Análisis De Poder (Tiers)
 
 ### Tier A (Los Protegidos)
-*   **Mecanismo de Inmunidad:** El **[[Banco Vaticano (IOR)]]** era el accionista principal y el refugio soberano de los fondos. El arzobispo **Paul Marcinkus** manejaba los hilos, protegido por su estatus diplomático, demostrando que el Vaticano funciona como un paraíso fiscal intocable para operaciones de inteligencia.
+*   **Mecanismo de Inmunidad:** El **[[00_Glosario - Conceptos Fase 1#Banco Vaticano (IOR)\|Banco Vaticano (IOR)]]** era el accionista principal y el refugio soberano de los fondos. El arzobispo **Paul Marcinkus** manejaba los hilos, protegido por su estatus diplomático, demostrando que el Vaticano funciona como un paraíso fiscal intocable para operaciones de inteligencia.
 
 ### Tier B (Operadores / Sindicatos De Poder)
 *   **Licio Gelli y la [[P2 Lodge]]:** El nexo que unía a políticos, generales y banqueros en un "Estado paralelo". El Ambrosiano era el músculo financiero de esta red masónica.
@@ -30,7 +28,7 @@ cssclasses: ""
 
 ## Conexiones Clave
 - [[P2 Lodge]] (La red política)
-- [[Banco Vaticano (IOR)]] (El socio soberano)
+- [[00_Glosario - Conceptos Fase 1#Banco Vaticano (IOR)\|Banco Vaticano (IOR)]] (El socio soberano)
 - [[Roberto Calvi]] (El ejecutor caído)
 - [[CIA]] (El cliente geopolítico)
 

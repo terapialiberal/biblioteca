@@ -1,19 +1,16 @@
 ---
+titulo: Wellcome Trust
+tipo: organizacion
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [cecil, fundacin, organizacin, trust]
 publish: true
-created: 2026-01-29T19:17:14.557-03:00
-modified: 2026-02-27T13:07:03.302-03:00
-tags:
-  - cecil
-  - fundacin
-  - organizacin
-  - trust
-cssclasses: ""
 ---
-
 # Wellcome Trust
 
 ## Resumen General
-El **Wellcome Trust** es una fundación benéfica de investigación biomédica de Londres, la segunda más rica del mundo (después de Gates). Fue fundada por el farmacéutico Henry Wellcome. Su director, **Sir Jeremy Farrar** (ahora científico jefe de la [[Organización Mundial de la Salud (OMS)]]), fue el arquitecto clave del encubrimiento del origen del laboratorio de COVID-19, organizando la teleconferencia secreta con Fauci para suprimir la teoría.
+El **Wellcome Trust** es una fundación benéfica de investigación biomédica de Londres, la segunda más rica del mundo (después de Gates). Fue fundada por el farmacéutico Henry Wellcome. Su director, **Sir Jeremy Farrar** (ahora científico jefe de la [[Organización Mundial de la Salud\|Organización Mundial de la Salud (OMS)]]), fue el arquitecto clave del encubrimiento del origen del laboratorio de COVID-19, organizando la teleconferencia secreta con Fauci para suprimir la teoría.
 
 ## Análisis Terapia Liberal (Cui Bono)
 ### Tier A (Beneficiarios)

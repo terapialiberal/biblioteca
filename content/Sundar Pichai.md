@@ -1,5 +1,5 @@
 ---
-titulo: "Sundar Pichai (v2.0): El Administrador Del Filtro Global"
+titulo: "Sundar Pichai (TL V.2): El Administrador Del Filtro Global"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [administrador, filtro, google, sundar]
 publish: true
 ---
-# Sundar Pichai (v2.0): El Administrador Del Filtro Global
+# Sundar Pichai (TL V.2): El Administrador Del Filtro Global
 
 > [!ABSTRACT] Hipótesis Informativa
 > Sundar Pichai es el **Operador Prototípico de [[Tier B]]** que gestiona la mayor infraestructura de información y vigilancia de la historia: **[[Google]]/Alphabet**. A diferencia de los fundadores (**[[Larry Page]]** y **[[Sergey Brin]]**) que habitan en el Tier A de la propiedad, Pichai es el **"Gerente de la Fachada Tecnocrática"**: su función real en la Matrix es ejecutar la censura algorítmica y la integración del Big Data con los servicios de inteligencia del Estado, actuando como el escudo diplomático ante el Congreso mientras asegura que la soberanía de datos del **[[Tier C]]** permanezca secuestrada por el algoritmo del beneficio y el control social.
@@ -30,9 +30,9 @@ publish: true
 
 ## Conexiones Críticas
 - [[Google]]: Su centro operativo de poder.
-- [[Alphabet Inc.]]: La matriz que gestiona los diversos tentáculos tecnológicos.
+- [[Alphabet Inc\|Alphabet Inc.]]: La matriz que gestiona los diversos tentáculos tecnológicos.
 - [[Larry Page / Sergey Brin]]: Los soberanos de Tier A a quienes Pichai reporta.
-- [[Censura Industrial]]: El marco operativo donde Google es el actor principal.
+- [[00_Glosario - Conceptos Fase 1#Censura Industrial\|Censura Industrial]]: El marco operativo donde Google es el actor principal.
 - [[Foro Económico Mundial (WEF)]]: Plataforma donde Pichai alinea la agenda de Google con el globalismo.
 
 ## Conclusión Del Análisis
@@ -41,7 +41,8 @@ Sundar Pichai nos enseña que **el rostro de la opacidad tecnológica moderna es
 ---
 **Versión:** 2.0
 **Enfoque:** Sundar Pichai como operativo de Tier B de Google, su rol en la transformación de la empresa hacia la censura algorítmica y la vigilancia masiva, su función como escudo diplomático para los fundadores de Tier A y el impacto de su gestión en la pérdida de soberanía informativa del Tier C.
-**Estado:** Refactoreado a v2.0 - Framework de Tecnocracia Digital y Control Algorítmico.
+**Estado:** Refactoreado a TL V.2 - Framework de Tecnocracia Digital y Control Algorítmico.
+
 
 
 

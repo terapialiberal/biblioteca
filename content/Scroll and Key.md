@@ -1,5 +1,5 @@
 ---
-titulo: "Scroll and Key (v2.0): La Tumba De La Inteligencia Y La Diplomacia"
+titulo: "Scroll and Key (TL V.2): La Tumba De La Inteligencia Y La Diplomacia"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [dean, diplomacia, skull, tumba]
 publish: true
 ---
-# Scroll and Key (v2.0): La Tumba De La Inteligencia Y La Diplomacia
+# Scroll and Key (TL V.2): La Tumba De La Inteligencia Y La Diplomacia
 
 > [!ABSTRACT] Hipótesis Informativa
 > Scroll and Key es una **Sociedad Secreta de [[Tier B]]** de la Universidad de Yale, actuando como la contraparte intelectual y diplomática de **[[Skull and Bones]]**. Mientras los "Bonesmen" suelen enfocarse en la política dura, el petróleo y las finanzas, los miembros de Scroll and Key ("Keys") dominan la **Arquitectura del Pensamiento de la Matrix**: la diplomacia, los servicios de inteligencia cultural (**[[CIA]]**) y la academia de élite. Su función real es la de un **"Filtro de Reclutamiento Institucional"**: asegurar que los puestos clave en la gestión del imperio estadounidense sean ocupados por una red tribal cohesionada que comparte secretos e intereses dinásticos inconfesables para el **[[Tier C]]**.
@@ -41,7 +41,8 @@ Scroll and Key nos enseña que **el poder en la Matrix es profundamente tribal y
 ---
 **Versión:** 2.0
 **Enfoque:** Scroll and Key como sociedad secreta senior de Yale, su enfoque en la diplomacia y la CIA frente al enfoque político de Skull and Bones, y su rol en la creación de la red de poder del establishment estadounidense.
-**Estado:** Refactoreado a v2.0 - Framework de Sociedades Secretas y Reclutamiento de Elites.
+**Estado:** Refactoreado a TL V.2 - Framework de Sociedades Secretas y Reclutamiento de Elites.
+
 
 
 

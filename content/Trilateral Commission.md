@@ -1,16 +1,13 @@
 ---
+titulo: TRILATERAL COMMISSION (TL V.2)
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "alto"
+tags: [commission, david, motor, planetaria]
 publish: true
-created: 2026-01-29T19:17:41.223-03:00
-modified: 2026-02-27T13:24:06.191-03:00
-tags:
-  - commission
-  - david
-  - motor
-  - planetaria
-cssclasses: ""
 ---
-
-# TRILATERAL COMMISSION (v12_1)
+# TRILATERAL COMMISSION (TL V.2)
 
 #### BLUF
 La Trilateral Commission es el **Laboratorio de la Tecnocracia Global**. Fundada por David Rockefeller y Zbigniew Brzezinski, su función es asegurar la **Unidad Administrativa** entre los tres polos del capital occidental (Norteamérica, Europa y Japón). En 2026, la Comisión ha dejado de enfocarse en el comercio tradicional para centrarse en la **Estandarización de la Vida Humana** a través de sistemas integrados de salud, identidad digital y crédito social universal.
@@ -73,6 +70,7 @@ La Trilateral Commission es necesaria para gestionar un mundo donde los problema
 ¿Cuál es el rol real de la Trilateral en la coordinación de la "identidad única universal" que servirá de llave de entrada a todos los servicios públicos privatizados por el Tier A en 2027?
 
 ---
-*Dossier forense v12_1 | La Gerencia Planetaria del Siglo XXI*
+*Dossier forense TL V.2 | La Gerencia Planetaria del Siglo XXI*
+
 
 

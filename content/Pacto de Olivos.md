@@ -1,5 +1,5 @@
 ---
-titulo: "Pacto De Olivos (v2.0): El Tratado De Paz De La Casta"
+titulo: "Pacto De Olivos (TL V.2): El Tratado De Paz De La Casta"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [carlos, casta, pacto, tratado]
 publish: true
 ---
-# Pacto De Olivos (v2.0): El Tratado De Paz De La Casta
+# Pacto De Olivos (TL V.2): El Tratado De Paz De La Casta
 
 > [!ABSTRACT] Hipótesis Informativa
 > El Pacto de Olivos fue la **Arquitectura de Poder de [[Tier A]] local** que diseñó la Argentina contemporánea. Firmado en secreto entre Carlos Menem y Raúl Alfonsín, este acuerdo permitió la Reforma Constitucional de 1994 a cambio de la reelección presidencial. No fue un acto de "unión nacional", sino un **Cartel Político**: la cúpula de la Matrix bipartidista (PJ y UCR) acordó repartirse las instituciones (Consejo de la Magistratura, tercer senador, autonomía de CABA) para asegurar su supervivencia mutua, financiando la estructura de la casta con recursos estatales y blindando al sistema judicial contra la voluntad del individuo de **[[Tier C]]**.
@@ -38,7 +38,8 @@ El Pacto de Olivos nos enseña que **las grandes crisis de legitimidad se resuel
 ---
 **Versión:** 2.0
 **Enfoque:** El acuerdo secreto como base del sistema político actual, el reparto institucional de la magistratura y el senado, y la reelección de Menem como motor del pacto.
-**Estado:** Refactoreado a v2.0 - Framework de Ingeniería Constitucional.
+**Estado:** Refactoreado a TL V.2 - Framework de Ingeniería Constitucional.
+
 
 
 

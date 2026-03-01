@@ -1,5 +1,5 @@
 ---
-titulo: "Operation 40 (v2.0): La Universidad Del Asesinato Del Deep State"
+titulo: "Operation 40 (TL V.2): La Universidad Del Asesinato Del Deep State"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [deep, operation, richard, universidad]
 publish: true
 ---
-# Operation 40 (v2.0): La Universidad Del Asesinato Del Deep State
+# Operation 40 (TL V.2): La Universidad Del Asesinato Del Deep State
 
 > [!ABSTRACT] Hipótesis Informativa
 > Operation 40 fue la **unidad de operaciones negras de [[Tier A]]** diseñada para ejecutar asesinatos políticos, sabotajes y narcofinanzas en el Caribe y Latinoamérica. Creada originalmente para derrocar a Fidel Castro, se convirtió en una hermandad de operativos (como Félix Rodríguez, Barry Seal y los fontaneros de Watergate) que operaron por encima de la ley durante décadas. Operation 40 es la prueba de la existencia de un **Ejército Paralelo** del sistema que, tras fracasar en Cuba, dirigió su violencia hacia el propio interior de EE.UU., estando vinculada a los nodos del **[[Asesinato de JFK]]** y la corrupción de la presidencia de Nixon.
@@ -28,7 +28,7 @@ publish: true
 
 ## Conexiones Críticas
 - [[Asesinato de JFK]]: El evento donde se sospecha la participación activa de la unidad.
-- [[Richard Nixon]]: El patrocinador político original de la operación.
+- [[00_Glosario - Conceptos Fase 1#Richard Nixon\|Richard Nixon]]: El patrocinador político original de la operación.
 - [[Barry Seal]]: El piloto de la unidad que conectó la inteligencia con el narcotráfico masivo.
 - [[Bahía de Cochinos]]: El gran fracaso militar que radicalizó a los miembros de la Op 40.
 - [[CIA]]: La estructura matriz que albergó y protegió a este grupo.
@@ -39,7 +39,8 @@ Operation 40 es el recordatorio de que existe un nivel de gobierno que nunca fue
 ---
 **Versión:** 2.0
 **Enfoque:** Continuidad operativa de los asesinos de la CIA desde la lucha anticastrista hasta JFK y Watergate, y la integración del narcotráfico como fuente de financiación.
-**Estado:** Refactoreado a v2.0 - Framework de Escuadrones de la Muerte.
+**Estado:** Refactoreado a TL V.2 - Framework de Escuadrones de la Muerte.
+
 
 
 

@@ -1,5 +1,5 @@
 ---
-titulo: "OMC (Organización Mundial De Comercio) [v2.0]: El Tribunal De La Soberanía Corporativa"
+titulo: "OMC (Organización Mundial De Comercio) [TL V.2]: El Tribunal De La Soberanía Corporativa"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [bill, gatt, mundial, organizacin]
 publish: true
 ---
-# OMC (Organización Mundial De Comercio) [v2.0]: El Tribunal De La Soberanía Corporativa
+# OMC (Organización Mundial De Comercio) [TL V.2]: El Tribunal De La Soberanía Corporativa
 
 > [!ABSTRACT] Hipótesis Informativa
 > La OMC no es un organismo de "libre comercio", sino el **tribunal supremo de la Corporatocracia de [[Tier A]]**. Su función es desmantelar las industrias nacionales y la autosuficiencia de las naciones mediante la imposición de tratados que prohíben la protección del trabajo y del medio ambiente local. La OMC actúa como el martillo del globalismo para forzar al **[[Tier C]]** a una "carrera hacia el fondo" salarial, asegurando que las multinacionales de **[[Tier B]]** puedan extraer valor de forma fluida, eliminando las fronteras legislativas que protegían a las comunidades orgánicas del poder depredador del capital transnacional.
@@ -39,7 +39,8 @@ La OMC es el candado de la Matrix económica. Su existencia garantiza que ningun
 ---
 **Versión:** 2.0
 **Enfoque:** Destrucción de la soberanía nacional a través de tribunales corporativos, el "Race to the Bottom" salarial y la desindustrialización de Occidente como estrategia de Tier A.
-**Estado:** Refactoreado a v2.0 - Framework de Colonialismo Financiero.
+**Estado:** Refactoreado a TL V.2 - Framework de Colonialismo Financiero.
+
 
 
 

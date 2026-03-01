@@ -1,15 +1,12 @@
 ---
+titulo: Agenda Del Cambio Climático
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [agenda, cambio, climtico, club]
 publish: true
-created: 2026-01-29T19:17:03.026-03:00
-modified: 2026-02-27T13:21:58.015-03:00
-tags:
-  - agenda
-  - cambio
-  - climtico
-  - club
-cssclasses: ""
 ---
-
 # Agenda Del Cambio Climático
 
 ## Resumen Ejecutivo
@@ -35,7 +32,7 @@ El objetivo es la desindustrialización de Occidente y la implementación de cr�
 - "Consenso científico del 97%"
 
 ## Conexiones
-- [[Club de Rome]] (los autores intelectuales)
+- [[Club de Roma\|Club de Rome]] (los autores intelectuales)
 - [[Agenda 2030]]
 - [[Larry Fink]] (BlackRock fuerza esta agenda vía ESG)
 - [[Movimiento Tecnocrático]] (Huella de Carbono es idea suya)

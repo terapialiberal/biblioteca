@@ -1,5 +1,5 @@
 ---
-titulo: "Monumentos Masónicos Globales (v2.0): La Arquitectura Del Dominio"
+titulo: "Monumentos Masónicos Globales (TL V.2): La Arquitectura Del Dominio"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [arquitectura, escuadra, globales, obeliscos]
 publish: true
 ---
-# Monumentos Masónicos Globales (v2.0): La Arquitectura Del Dominio
+# Monumentos Masónicos Globales (TL V.2): La Arquitectura Del Dominio
 
 > [!ABSTRACT] Hipótesis Informativa
 > Los Monumentos Masónicos Globales no son decoración histórica; son anclajes de **Ingeniería Psico-Geográfica del [[Tier A]]**. La élite utiliza la arquitectura monumental y el trazado urbano (Washington D.C., Astana, París) para proyectar su sistema de creencias ocultista sobre el espacio público. Mediante el uso de **Geometría Sagrada**, obeliscos (energía solar/masculina) y cúpulas (energía lunar/femenina), transforman las capitales políticas en **Templos de Resonancia** donde el ciudadano (**Tier C**) habita inconscientemente dentro de un ritual de sumisión a la jerarquía iluminada. Es el marcado territorial definitivo: los símbolos del poder están a la vista de todos, pero su significado está reservado a los iniciados.
@@ -39,7 +39,8 @@ Los monumentos masónicos son la firma del dueño en el edificio de la civilizac
 ---
 **Versión:** 2.0
 **Enfoque:** Washington D.C. y Astana como ejemplos clave, función de los obeliscos y geometría sagrada, y el rol de arquitectos modernos en la perpetuación de simbología ocultista.
-**Estado:** Refactoreado a v2.0 - Framework de Simbología de Poder.
+**Estado:** Refactoreado a TL V.2 - Framework de Simbología de Poder.
+
 
 
 

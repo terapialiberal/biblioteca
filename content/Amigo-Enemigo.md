@@ -1,15 +1,12 @@
 ---
+titulo: Amigo-Enemigo (Freund-Feind)
+tipo: evento
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [enemigo, feind, freund, realismo]
 publish: true
-created: 2026-01-29T19:17:03.466-03:00
-modified: 2026-02-27T13:07:14.532-03:00
-tags:
-  - enemigo
-  - feind
-  - freund
-  - realismo
-cssclasses: ""
 ---
-
 # Amigo-Enemigo (Freund-Feind)
 
 ## Resumen General
@@ -26,8 +23,8 @@ cssclasses: ""
 ## Conexiones
 - [[Carl Schmitt]]
 - [[Realismo Político]]
-- [[Guerra Híbrida]]
-- [[Polarización]]
+- [[00_Glosario - Conceptos Fase 1#Guerra Híbrida\|Guerra Híbrida]]
+- [[Dolarización\|Polarización]]
 
 
 

@@ -1,16 +1,13 @@
 ---
+titulo: DISINFORMATION GOVERNANCE BOARD (TL V.2)
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "alto"
+tags: [board, disinformation, governance, ministerio]
 publish: true
-created: 2026-02-25T16:12:13.476-03:00
-modified: 2026-02-27T13:22:30.297-03:00
-tags:
-  - board
-  - disinformation
-  - governance
-  - ministerio
-cssclasses: ""
 ---
-
-# DISINFORMATION GOVERNANCE BOARD (v12_1)
+# DISINFORMATION GOVERNANCE BOARD (TL V.2)
 
 #### BLUF
 El Disinformation Governance Board (DGB) no murió en 2022; simplemente se **Fragmentó y se volvió Invisible**. Bajo nuevas etiquetas como el "GEC" (Global Engagement Center) o colaboraciones "público-privadas" (Tier B/A) de seguridad narrativa, sus funciones de censura han sido integradas en el software de las plataformas digitales. En 2026, su función es coordinar la **Muerte Civil Digital** de cualquier voz de Tier C que cuestione las narrativas centrales sobre soberanía, moneda o salud, bajo el pretexto de la "Seguridad Cognitiva Nacional".
@@ -40,7 +37,7 @@ El Disinformation Governance Board (DGB) no murió en 2022; simplemente se **Fra
 
 #### ANÁLISIS DE JUEGO
 **Tipo:** signaling / signaling
-**Equilibrio actual:** La Censura de Guante Blanco. No se borran mensajes; se "derankan" (bajan de posición) o se marcan como "poco confiables" mediante el DGB invisible. El equilibrio se mantiene mientras el ciudadano no sepa que está siendo censurado. En 2026, la filtración de nuevos "Twitter Files" (V2.0) revela que el DGB opera en todos los niveles del hardware y software de comunicación.
+**Equilibrio actual:** La Censura de Guante Blanco. No se borran mensajes; se "derankan" (bajan de posición) o se marcan como "poco confiables" mediante el DGB invisible. El equilibrio se mantiene mientras el ciudadano no sepa que está siendo censurado. En 2026, la filtración de nuevos "Twitter Files" (TL V.2) revela que el DGB opera en todos los niveles del hardware y software de comunicación.
 **Condición de ruptura:** Un tribunal de Tier B nacionalista que declare la inconstitucionalidad de la coordinación público-privada para la censura, forzando al DGB a operar fuera de la ley de forma flagrante.
 **Horizonte:** Permanente (Gobernanza informativa).
 
@@ -73,6 +70,8 @@ Vivimos en una era de guerra de información asimétrica. Si el Estado no proteg
 ¿Cuál es el "presupuesto negro" anual destinado a las startups de IA que desarrollan las herramientas de desanonimización de la disidencia para el DGB renovado en 2026?
 
 ---
-*Dossier forense v12_1 | El Archivero del Consenso Forzoso*
+*Dossier forense TL V.2 | El Archivero del Consenso Forzoso*
+
+
 
 

@@ -28,7 +28,7 @@ publish: true
 *   "Llevando la democracia al pueblo de Irak". "Haciendo el mundo más seguro después del 9/11". Narrativas de Tier B inyectadas mediante el "periodismo empotrado" (embedded) para que el Tier C aplaudiera la destrucción de una civilización milenaria. El Tier C estadounidense pagó la guerra con sus hijos y sus impuestos, mientras el Tier C iraquí pagó con un millón de muertos y un país en ruinas, todo para que las acciones de las empresas de Tier A subieran de valor en Wall Street.
 
 ## Conexiones Clave
-- [[PNAC (Project for the New American Century)]] (El plano de la invasión)
+- [[00_Glosario - Conceptos Fase 1#PNAC (Project for the New American Century)\|PNAC (Project for the New American Century)]] (El plano de la invasión)
 - [[Halliburton / Dick Cheney]] (Los beneficiarios financieros)
 - [[Wikileaks / Iraq War Logs]] (La prueba de los crímenes de guerra)
 - [[Sistema Petrodólar]] (La razón de fondo)

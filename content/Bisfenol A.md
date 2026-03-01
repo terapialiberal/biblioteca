@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:05.478-03:00
-modified: 2026-02-27T13:06:27.044-03:00
+modified: 2026-02-27T13:06:48.947-03:00
 tags:
   - bisfenol
   - ftlatos

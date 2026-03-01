@@ -1,5 +1,5 @@
 ---
-titulo: "John Money (v2.0): El Ingeniero De La Inversión Antropológica"
+titulo: "John Money (TL V.2): El Ingeniero De La Inversión Antropológica"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [instituto, inversin, money, rockefeller]
 publish: true
 ---
-# John Money (v2.0): El Ingeniero De La Inversión Antropológica
+# John Money (TL V.2): El Ingeniero De La Inversión Antropológica
 
 > [!ABSTRACT] Hipótesis Informativa
 > John Money es el **arquitecto conceptual del desmantelamiento de la identidad biológica humana**. Al introducir el término "Identidad de Género" como algo separado del sexo biológico, proporcionó al [[Tier A]] la herramienta definitiva de **ingeniería social profunda**: la capacidad de reprogramar la auto-percepción del individuo desde la infancia. Su obra, construida sobre el fraude criminal del caso David Reimer, actúa como el cimiento dogmático para la desarticulación de la familia nuclear y la creación de una dependencia vitalicia del [[Tier C]] hacia la industria farmacéutica y el Estado.
@@ -45,6 +45,7 @@ John Money fue el **"Mengele de la Sociología"**. Su importancia reside en habe
 **Versión:** 2.0
 **Enfoque:** Fraude científico, ingeniería social profunda y la desarticulación de la identidad biológica como herramienta de control estatal.
 **Estado:** Refactorización Completa.
+
 
 
 

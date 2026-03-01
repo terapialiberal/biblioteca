@@ -7,10 +7,10 @@ nivel-evidencia: "medio"
 tags: ["2026", brics, expansion, indonesia]
 publish: true
 ---
-# [[BRICS+ Expansion 2026]]
+# [[BRICS Expansion 2026\|BRICS+ Expansion 2026]]
 
 **Clasificación:** Global (Contrapeso al G7)  
-**Nuevos Miembros (2025-2026):** [[Indonesia]] (Full Member 2025), [[Nigeria]] (Partner 2025), [[Vietnam]] (Partner 2026).
+**Nuevos Miembros (2025-2026):** [[00_Glosario - Conceptos Fase 1#Indonesia\|Indonesia]] (Full Member 2025), [[Nigeria]] (Partner 2025), [[00_Glosario - Conceptos Fase 1#Vietnam\|Vietnam]] (Partner 2026).
 
 ## 🦾 ANÁLISIS FORENSE
 La expansión de los BRICS ha dejado de ser una alianza simbólica para convertirse en el mayor bloque de control de recursos físicos del planeta. En 2026, el bloque controla más del 40% de la producción de crudo y el 30% del gas global.
@@ -20,14 +20,14 @@ La expansión de los BRICS ha dejado de ser una alianza simbólica para converti
 - **Nigeria como Nodo:** Su entrada como partner en 2025 asegura la influencia del bloque en el corazón demográfico y energético de África.
 
 ### Cui Bono
-- **China / Rusia:** Reducción de la dependencia del sistema dólar ([[SWIFT]]).
+- **China / Rusia:** Reducción de la dependencia del sistema dólar ([[00_Glosario - Conceptos Fase 1#SWIFT\|SWIFT]]).
 - **Global South:** Apertura de líneas de crédito alternativas al FMI vía el Nuevo Banco de Desarrollo (NDB).
 
 ## 🔗 CONEXIONES
 - [[Project mBridge]]
 - [[AUKUS II - Expansion Japon]] (La respuesta militar a este bloque)
-- [[Petrodolar]]
-- [[Indonesia]]
+- [[Petrodólar\|Petrodolar]]
+- [[00_Glosario - Conceptos Fase 1#Indonesia\|Indonesia]]
 
 
 

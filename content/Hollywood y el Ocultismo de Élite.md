@@ -1,15 +1,12 @@
 ---
+titulo: Hollywood Y El Ocultismo De Élite
+tipo: concepto
+fecha: 2026-02-25
+tags: [hollywood, programacin, walt, lite]
+tier-primario: "b"
+nivel-evidencia: "alto"
 publish: true
-created: 2026-02-25T22:23:25.805-03:00
-modified: 2026-02-27T13:22:52.562-03:00
-tags:
-  - hollywood
-  - programacin
-  - walt
-  - lite
-cssclasses: ""
 ---
-
 
 # Hollywood Y El Ocultismo De Élite
 
@@ -29,7 +26,7 @@ cssclasses: ""
 
 ## Conexiones Críticas
 - [[Programación Predictiva en el Cine]]: El método técnico de familiarización.
-- [[Mk-Ultra]]: El uso de la industria del cine para ocultar técnicas de control mental.
+- [[MKUltra\|Mk-Ultra]]: El uso de la industria del cine para ocultar técnicas de control mental.
 - [[Walt Disney]]: Iniciado de alto nivel que transformó el entretenimiento infantil en un sistema de codificación simbólica.
 
 ## Cui Bono

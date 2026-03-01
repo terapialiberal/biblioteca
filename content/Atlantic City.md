@@ -30,7 +30,7 @@ Atlantic City fue el escenario de la debacle financiera de Donald Trump en los a
 # Conexiones
 - [[Donald Trump]]
 - [[Wilbur Ross]]
-- [[Rothschild and Co.]]
+- [[Rothschild and Co\|Rothschild and Co.]]
 - [[Lavado de Dinero]]
 - [[FBI]]
 

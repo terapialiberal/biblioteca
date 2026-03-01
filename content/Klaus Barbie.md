@@ -1,5 +1,5 @@
 ---
-titulo: "Klaus Barbie (v2.0): El Mercenario De La Sangre Del Estado Profundo"
+titulo: "Klaus Barbie (TL V.2): El Mercenario De La Sangre Del Estado Profundo"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [estado, klaus, profundo, proyecto]
 publish: true
 ---
-# Klaus Barbie (v2.0): El Mercenario De La Sangre Del Estado Profundo
+# Klaus Barbie (TL V.2): El Mercenario De La Sangre Del Estado Profundo
 
 > [!ABSTRACT] Hipótesis Informativa
 > Klaus Barbie personifica el **cinismo operativo del [[Tier A]] post-1945**. De ser el verdugo de la Gestapo en la Francia ocupada, Barbie fue transformado en un activo estratégico de la **[[CIA]]** mediante las **[[Ratlines]]**. Su importancia reside en haber exportado la tecnología de la tortura y el control paraestatal desde el Tercer Reich hacia las dictaduras sudamericanas, actuando como el catalizador del **[[Proyecto Condor]]** y el "Golpe de la Cocaína" en Bolivia. Barbie es el recordatorio de que en la cima del poder, la ideología es desechable, pero la eficiencia en el terror es un capital que el sistema siempre está dispuesto a financiar y proteger.
@@ -45,6 +45,7 @@ Klaus Barbie fue el **"Sembrador de Sombras"** en Sudamérica. Su importancia re
 **Versión:** 2.0
 **Enfoque:** Reciclaje de activos nazis por la CIA, exportación de técnicas de tortura a Sudamérica y rol consultivo en el Golpe de la Cocaína de 1980.
 **Estado:** Refactorización Completa.
+
 
 
 

@@ -1,16 +1,13 @@
 ---
+titulo: CBDC INTEROPERABILITY (TL V.2)
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "alto"
+tags: [cbdc, interoperability, project, swift]
 publish: true
-created: 2026-02-25T16:06:49.246-03:00
-modified: 2026-02-27T13:22:16.865-03:00
-tags:
-  - cbdc
-  - interoperability
-  - project
-  - swift
-cssclasses: ""
 ---
-
-# CBDC INTEROPERABILITY (v12_1)
+# CBDC INTEROPERABILITY (TL V.2)
 
 #### BLUF
 La Interoperabilidad CBDC es la **Capa de Traducción de la Gobernanza Global**. No basta con tener monedas digitales nacionales; el Tier B requiere que estas hablen el mismo lenguaje técnico para permitir la vigilancia y la liquidación transfronteriza instantánea. En 2026, protocolos como [[Project Agorá]] y [[Project mBridge]] definen los estándares de interoperabilidad que aseguren que, independientemente de la moneda utilizada, el **Tier A** pueda monitorizar y gravar el flujo de valor a nivel planetario sin fricciones soberanas.
@@ -73,6 +70,7 @@ Es eficiencia pura. Hoy enviar dinero a otro país tarda días y cuesta el 5%. C
 ¿Cuáles son los "niveles de acceso" diferenciados para agencias de inteligencia dentro de los protocolos de interoperabilidad que permiten ver el gráfico de transacciones global en tiempo real?
 
 ---
-*Dossier forense v12_1 | El Tejido de la Cárcel Monetaria*
+*Dossier forense TL V.2 | El Tejido de la Cárcel Monetaria*
+
 
 

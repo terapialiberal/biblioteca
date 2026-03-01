@@ -1,21 +1,29 @@
 ---
+titulo: Vórtices Energéticos
+tipo: 'concepto'
+tier-primario: 'b'
+nivel-evidencia: 'medio'
+tags: [clasificado-ai]
 publish: true
-created: 2026-02-25T22:08:51.508-03:00
-modified: 2026-02-27T13:24:08.719-03:00
-tags:
-  - energticos
-  - vrtices
-cssclasses: ""
+---
+﻿---
+titulo: VÃ³rtices EnergÃ©ticos
+tipo: persona
+fecha: 2026-02-25
+tags: [energticos, vrtices]
+tier-primario: "b"
+nivel-evidencia: "medio"
+publish: true
 ---
 
+# VÃ³rtices EnergÃ©ticos
 
-# Vórtices Energéticos
+> [!ABSTRACT] HipÃ³tesis Informativa
+> Nodo perteneciente a la Matrix de Simbolismo y Esoterismo TL V.2.
 
-> [!ABSTRACT] Hipótesis Informativa
-> Nodo perteneciente a la Matrix de Simbolismo y Esoterismo v12_0.
-
-## Análisis De Tiers
+## AnÃ¡lisis De Tiers
 *En desarrollo...*
 
 ## Cui Bono
-*Pendiente de análisis forense.*
+*Pendiente de anÃ¡lisis forense.*
+

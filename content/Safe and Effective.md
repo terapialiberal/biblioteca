@@ -1,5 +1,5 @@
 ---
-titulo: "Safe and Effective (v2.0): La Programación Neurolingüística Del Consentimiento"
+titulo: "Safe and Effective (TL V.2): La Programación Neurolingüística Del Consentimiento"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [consentimiento, effective, pfizer, safe]
 publish: true
 ---
-# Safe and Effective (v2.0): La Programación Neurolingüística Del Consentimiento
+# Safe and Effective (TL V.2): La Programación Neurolingüística Del Consentimiento
 
 > [!ABSTRACT] Hipótesis Informativa
 > "Safe and Effective" no fue una descripción médica, sino una **Herramienta de Programación de [[Tier B]]** diseñada para suspender el juicio crítico de la población durante la campaña de vacunación masiva de 2021. Al repetir este mantra mil millones de veces a través de todas las plataformas de la Matrix, el sistema logró imponer una terapia génica experimental como la única solución aceptable a una crisis fabricada. Su función real fue la de un **"Mecanismo de Desactivación del Consentimiento Informado"**: anular la soberanía biológica del **[[Tier C]]** mediante la repetición hipnótica de una premisa que fue variando sus promesas a medida que la realidad de los efectos adversos y la ineficacia se volvían innegables.
@@ -39,7 +39,8 @@ El mantra "Safe and Effective" nos enseña que **el lenguaje de las institucione
 ---
 **Versión:** 2.0
 **Enfoque:** El slogan como herramienta de PNL para la sumisión poblacional, el cambio constante de definiciones de "eficacia" por parte del CDC/FDA, y la supresión de datos sobre efectos adversos para mantener la narrativa.
-**Estado:** Refactoreado a v2.0 - Framework de Propaganda y Biopolítica.
+**Estado:** Refactoreado a TL V.2 - Framework de Propaganda y Biopolítica.
+
 
 
 

@@ -1,16 +1,13 @@
 ---
+titulo: ATLANTIC COUNCIL (TL V.2)
+tipo: organizacion
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [atlantic, council, digital, frederick]
 publish: true
-created: 2026-01-29T19:17:04.490-03:00
-modified: 2026-02-27T13:06:18.854-03:00
-tags:
-  - atlantic
-  - council
-  - digital
-  - frederick
-cssclasses: ""
 ---
-
-# ATLANTIC COUNCIL (v12_1)
+# ATLANTIC COUNCIL (TL V.2)
 
 #### BLUF
 El Atlantic Council es el **Ministerio de la Verdad Atlantista**. Su función principal es la **Ingeniería del Consenso** para las políticas de la OTAN y la Unión Europea. En 2026, a través de su "Digital Forensic Research Lab" (DFRLab), el Atlantic Council define qué es "desinformación", actuando como el censor de facto para las Big Tech de Tier A, asegurando que ninguna narrativa contraria a la hegemonía del dólar o la expansión militar occidental gane tracción masiva.
@@ -73,6 +70,7 @@ En un mundo de guerra híbrida y ataques de desinformación masivos por parte de
 ¿Cuál es la conexión operativa entre el Atlantic Council y los equipos de moderación de IA que entrenan los filtros de "seguridad" de modelos como GPT-4 y Claude?
 
 ---
-*Dossier forense v12_1 | La Ingeniería del Consenso Global*
+*Dossier forense TL V.2 | La Ingeniería del Consenso Global*
+
 
 

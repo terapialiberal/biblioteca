@@ -1,5 +1,5 @@
 ---
-titulo: "Shell (v2.0): El Tentáculo Energético Del Imperio Anglo-Holandés"
+titulo: "Shell (TL V.2): El Tentáculo Energético Del Imperio Anglo-Holandés"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [energtico, holands, nigeria, tentculo]
 publish: true
 ---
-# Shell (v2.0): El Tentáculo Energético Del Imperio Anglo-Holandés
+# Shell (TL V.2): El Tentáculo Energético Del Imperio Anglo-Holandés
 
 > [!ABSTRACT] Hipótesis Informativa
 > Royal Dutch Shell es la **Soberanía Corporativa de [[Tier A]]** que personifica la continuidad del poder colonial europeo en la era moderna. Como una de las **[[Seven Sisters (Siete Hermanas)\|Siete Hermanas]]**, Shell no es solo una petrolera, sino un brazo administrativo y de inteligencia que ha operado históricamente para asegurar el suministro energético de Occidente a costa de la devastación ambiental y social del Sur Global. Su función real es la de un **"Agente de Extracción Neocolonial"**: utilizar su peso financiero y su influencia en los gobiernos para capturar los recursos de naciones soberanas (como Nigeria), externalizando los costos de muerte y contaminación hacia el **[[Tier C]]** local.
@@ -41,7 +41,8 @@ Shell nos enseña que **el petróleo es la sangre de la guerra y la moneda del i
 ---
 **Versión:** 2.0
 **Enfoque:** Shell como supermajor petrolera, su historia de abusos en Nigeria (Ken Saro-Wiwa), su conexión con la realeza europea y el sistema de las Siete Hermanas, y su rol en la transición energética controlada por el Tier A.
-**Estado:** Refactoreado a v2.0 - Framework de Energía y Neocolonialismo Corporativo.
+**Estado:** Refactoreado a TL V.2 - Framework de Energía y Neocolonialismo Corporativo.
+
 
 
 

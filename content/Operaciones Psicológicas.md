@@ -1,5 +1,5 @@
 ---
-titulo: "Operaciones Psicológicas (PsyOps) [v2.0]: El Campo De Batalla Mental"
+titulo: "Operaciones Psicológicas (PsyOps) [TL V.2]: El Campo De Batalla Mental"
 tipo: evento
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [batalla, campo, instituto, psyops]
 publish: true
 ---
-# Operaciones Psicológicas (PsyOps) [v2.0]: El Campo De Batalla Mental
+# Operaciones Psicológicas (PsyOps) [TL V.2]: El Campo De Batalla Mental
 
 > [!ABSTRACT] Hipótesis Informativa
 > Las Operaciones Psicológicas (PsyOps) han dejado de ser herramientas militares aplicadas a enemigos externos para convertirse en el **sistema operativo de gestión del [[Tier C]] doméstico**. En la Matrix de Poder, las PsyOps son el método por el cual el **[[Tier A]]** manipula las percepciones y comportamientos de la población mediante el control de la información y la estimulación emocional. Su objetivo es la **neutralización de la voluntad individual** mediante el uso del miedo, la confusión y la división artificial, asegurando que la masa humana nunca identifique a los verdaderos centros de poder.
@@ -40,7 +40,8 @@ Vivimos dentro de una PsyOp permanente. Las Operaciones Psicológicas son exitos
 ---
 **Versión:** 2.0
 **Enfoque:** Transición de PsyOps militares a control social doméstico, técnica de "Problema-Reacción-Solución" y el rol de las redes sociales en la fragmentación del tejido social.
-**Estado:** Refactoreado a v2.0 - Framework de Guerra Psicológica.
+**Estado:** Refactoreado a TL V.2 - Framework de Guerra Psicológica.
+
 
 
 

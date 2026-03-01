@@ -1,5 +1,5 @@
 ---
-titulo: "Paul Volcker (v2.0): El Verdugo De La Liquidez Global"
+titulo: "Paul Volcker (TL V.2): El Verdugo De La Liquidez Global"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [david, liquidez, reserva, verdugo]
 publish: true
 ---
-# Paul Volcker (v2.0): El Verdugo De La Liquidez Global
+# Paul Volcker (TL V.2): El Verdugo De La Liquidez Global
 
 > [!ABSTRACT] Hipótesis Informativa
 > Paul Volcker fue el **operador de [[Tier A]] encargado de reconfigurar la economía mundial** a principios de los años 80 mediante el llamado "Shock Volcker". Bajo la excusa de combatir la inflación, elevó las tasas de interés de EE.UU. a niveles sin precedentes (20%), provocando deliberadamente una recesión masiva que desindustrializó la clase media estadounidense y, simultáneamente, lanzó al **[[Tier C]]** global (especialmente Latinoamérica) a la "Década Perdida" de deuda impagable. Fue el arquitecto de la transición hacia el modelo financiero extractivo donde los bancos de Wall Street capturaron la soberanía de las naciones mediante la trampa del servicio de la deuda.
@@ -38,7 +38,8 @@ Paul Volcker nos enseña que **las tasas de interés son cables de alta tensión
 ---
 **Versión:** 2.0
 **Enfoque:** El Shock Volcker como herramienta de ingeniería social y geopolítica, la destrucción de la industria nacional y la creación de la crisis de deuda latinoamericana.
-**Estado:** Refactoreado a v2.0 - Framework de Biopatología Financiera.
+**Estado:** Refactoreado a TL V.2 - Framework de Biopatología Financiera.
+
 
 
 

@@ -1,5 +1,5 @@
 ---
-titulo: "La Milla Cuadrada (v2.0): El Cuartel General De La Oligarquía Financiera"
+titulo: "La Milla Cuadrada (TL V.2): El Cuartel General De La Oligarquía Financiera"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [banco, cuadrada, milla, parasos]
 publish: true
 ---
-# La Milla Cuadrada (v2.0): El Cuartel General De La Oligarquía Financiera
+# La Milla Cuadrada (TL V.2): El Cuartel General De La Oligarquía Financiera
 
 > [!ABSTRACT] Hipótesis Informativa
 > "La Milla Cuadrada" (City de Londres) no es un distrito municipal, sino la **entidad política más poderosa y antigua del [[Tier A]] financiero**. Operando como un **Estado Corporativo Soberano** con privilegios que predatan la propia Constitución Británica, la City es el cerebro de una red global de paraísos fiscales ("The Spider's Web"). Su función es proporcionar una jurisdicción legal paralela donde el capital transnacional está por encima de la soberanía de las naciones de [[Tier B]], permitiendo el blanqueo, la elusión fiscal y la gestión de la deuda global fuera de cualquier control democrático del [[Tier C]].
@@ -46,6 +46,7 @@ La Milla Cuadrada es el **"Anillo de Poder" de la economía global**. Su importa
 **Versión:** 2.0
 **Enfoque:** Estado corporativo soberano, exenciones legales del Remembrancer, red de paraísos fiscales británicos y el mecanismo de voto corporativo como esencia del poder financiero.
 **Estado:** Refactorización Completa.
+
 
 
 

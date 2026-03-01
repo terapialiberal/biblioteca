@@ -1,14 +1,12 @@
 ---
+titulo: C40 Cities
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [agenda, cities, michael]
 publish: true
-created: 2026-01-29T19:17:06.155-03:00
-modified: 2026-02-27T13:22:11.925-03:00
-tags:
-  - agenda
-  - cities
-  - michael
-cssclasses: ""
 ---
-
 # C40 Cities
 
 ## Perfil TL (Resumen Ejecutivo)
@@ -32,7 +30,7 @@ cssclasses: ""
 ## Conexiones Clave
 - [[Agenda 2030]] (El marco temporal)
 - [[Michael Bloomberg]] (El financista)
-- [[George Soros / Open Society]] (El soporte ideológico)
+- [[00_Glosario - Conceptos Fase 1#George Soros / Open Society\|George Soros / Open Society]] (El soporte ideológico)
 - [[Crédito Social (Occidental)]] (El sistema de premios y castigos)
 
 ## Fuentes

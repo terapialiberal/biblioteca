@@ -1,5 +1,5 @@
 ---
-titulo: "Open Society Foundations (v2.0): El Departamento De Estado Paralelo"
+titulo: "Open Society Foundations (TL V.2): El Departamento De Estado Paralelo"
 tipo: organizacion
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [estado, george, open, society]
 publish: true
 ---
-# Open Society Foundations (v2.0): El Departamento De Estado Paralelo
+# Open Society Foundations (TL V.2): El Departamento De Estado Paralelo
 
 > [!ABSTRACT] Hipótesis Informativa
 > Open Society Foundations (OSF) es el **brazo operativo no gubernamental de [[Tier A]]** para la desestabilización y reordenamiento de estados-nación. Bajo la fachada de la "Sociedad Abierta" (Karl Popper), la red de **[[George Soros]]** financia la erosión de la soberanía nacional, la fragmentación social y el **cambio de régimen controlado (Revoluciones de Color)**. OSF actúa como el interfaz que prepara a las naciones para su integración en estructuras de gobernanza global, utilizando el financiamiento masivo a ONGs de **[[Tier B]]** para imponer agendas que el **[[Tier C]]** nunca votó: desde fronteras abiertas hasta la captura ideológica del sistema judicial.
@@ -40,7 +40,8 @@ Open Society Foundations es la prueba de que en la Matrix, la tiranía no siempr
 ---
 **Versión:** 2.0
 **Enfoque:** Cambio de régimen controlado, captura de sistemas judiciales locales y el uso de la filantropía para la erosión de la soberanía nacional.
-**Estado:** Refactoreado a v2.0 - Framework de Ingeniería Social Global.
+**Estado:** Refactoreado a TL V.2 - Framework de Ingeniería Social Global.
+
 
 
 

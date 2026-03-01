@@ -1,15 +1,12 @@
 ---
+titulo: Cartas De Cumpleaños (Epstein)
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [bill, cumpleaos, epstein, jeffrey]
 publish: true
-created: 2026-01-29T19:17:06.645-03:00
-modified: 2026-02-27T13:22:15.957-03:00
-tags:
-  - bill
-  - cumpleaos
-  - epstein
-  - jeffrey
-cssclasses: ""
 ---
-
 # Cartas De Cumpleaños (Epstein)
 
 ## Perfil TL (Resumen Ejecutivo)
@@ -33,7 +30,7 @@ cssclasses: ""
 - [[Bill Clinton]] (El firmante confirmado)
 - [[Donald Trump]] (El asociado)
 - [[Chantaje (Kompromat)]] (El uso real del libro)
-- [[Archivos Epstein (2024)]] (El contexto de la liberación controlada)
+- [[Archivos Epstein (2026)\|Archivos Epstein (2024)]] (El contexto de la liberación controlada)
 
 ## Fuentes
 - Deposiciones judiciales de Virginia Giuffre y otros.

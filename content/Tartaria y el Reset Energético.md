@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-25T22:08:53.119-03:00
-modified: 2026-02-27T13:24:00.876-03:00
+modified: 2026-02-27T13:25:40.918-03:00
 tags:
   - energtico
   - estructuras

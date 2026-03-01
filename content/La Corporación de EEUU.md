@@ -1,5 +1,5 @@
 ---
-titulo: "La Corporación De EEUU (v2.0): El Acta De 1871 Y El Fin De La República"
+titulo: "La Corporación De EEUU (TL V.2): El Acta De 1871 Y El Fin De La República"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [city, corporacin, repblica, reserva]
 publish: true
 ---
-# La Corporación De EEUU (v2.0): El Acta De 1871 Y El Fin De La República
+# La Corporación De EEUU (TL V.2): El Acta De 1871 Y El Fin De La República
 
 > [!ABSTRACT] Hipótesis Informativa
 > El Acta Orgánica del Distrito de Columbia de 1871 constituye el **acta de defunción de la República de los Estados Unidos y el nacimiento de "USA INC"**. Bajo esta interpretación legal, provocada por la quiebra financiera post-Guerra Civil, el gobierno se transformó en una **corporación privada con fines de lucro** cuya jurisdicción se limita a las 10 millas cuadradas de Washington D.C., pero que reclama soberanía comercial sobre los 50 estados. Esta maniobra técnica permitió a la élite financiera de [[Tier A]] ([[City de Londres]], Vaticano) hipotecar la productividad futura del pueblo estadounidense, convirtiendo al ciudadano en un **activo titulizado** (John Doe en mayúsculas) que actúa como colateral de la deuda nacional.
@@ -46,6 +46,7 @@ El Acta de 1871 es el **"Contrato Silencioso"** que rige el mundo moderno. Su im
 **Versión:** 2.0
 **Enfoque:** Análisis de la transformación legal del gobierno en corporación, el uso del Derecho Marítimo para suspender derechos constitucionales y la titulización del ciudadano como colateral de deuda.
 **Estado:** Refactorización Completa.
+
 
 
 

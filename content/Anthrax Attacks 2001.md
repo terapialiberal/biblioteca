@@ -33,7 +33,7 @@ publish: true
 ## Conexiones
 - [[9-11]] (evento gemelo)
 - [[Patriot Act]] (el objetivo político)
-- [[Operation Northwoods]] (falsa bandera biológica)
+- [[Operación Northwoods\|Operation Northwoods]] (falsa bandera biológica)
 
 ## Fuentes
 - "The 2001 Anthrax Deception" - Graeme MacQueen

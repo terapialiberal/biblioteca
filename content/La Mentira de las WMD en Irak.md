@@ -1,5 +1,5 @@
 ---
-titulo: "La Mentira De Las WMD En Irak (v2.0): La Fabricación De La Realidad Bélica"
+titulo: "La Mentira De Las WMD En Irak (TL V.2): La Fabricación De La Realidad Bélica"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [colin, irak, mentira, pnac]
 publish: true
 ---
-# La Mentira De Las WMD En Irak (v2.0): La Fabricación De La Realidad Bélica
+# La Mentira De Las WMD En Irak (TL V.2): La Fabricación De La Realidad Bélica
 
 > [!ABSTRACT] Hipótesis Informativa
 > El caso de las "Armas de Destrucción Masiva" (WMD) en Irak constituye el **fraude de inteligencia más trascendental del siglo XXI**. No fue un "fallo de análisis", sino una **operación coordinada de ingeniería de la mentira** diseñada por el [[Tier A]] neoconservador y ejecutada por el [[Tier B]] (CIA/MI6/Administración Bush) para justificar la invasión de un estado soberano. La importancia sistémica del evento reside en la demostración de que la inteligencia estatal no es una herramienta de información, sino un **dispositivo de legitimación de decisiones geopolíticas pre-tomadas**, destinadas a capturar recursos energéticos y proteger la hegemonía del petrodólar.
@@ -46,6 +46,7 @@ La Mentira de las WMD fue la **"Gran Ã“pera de la Desinformación"**. Su impo
 **Versión:** 2.0
 **Enfoque:** Fabricación deliberada de evidencia (Casus Belli), rol del PNAC en la agenda energética y geopolítica, y el impacto duradero en la pérdida de confianza del Tier C hacia las instituciones estatales.
 **Estado:** Refactorización Completa.
+
 
 
 

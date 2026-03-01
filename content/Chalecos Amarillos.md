@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:07.284-03:00
-modified: 2026-02-27T13:06:35.272-03:00
+modified: 2026-02-27T13:06:58.236-03:00
 tags:
   - agenda
   - chalecos

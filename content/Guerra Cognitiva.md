@@ -1,15 +1,12 @@
 ---
+titulo: Guerra Cognitiva (Cognitive Warfare)
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [ciberntica, cognitive, guerra, warfare]
 publish: true
-created: 2026-01-29T19:17:16.184-03:00
-modified: 2026-02-27T13:07:44.427-03:00
-tags:
-  - ciberntica
-  - cognitive
-  - guerra
-  - warfare
-cssclasses: ""
 ---
-
 # Guerra Cognitiva (Cognitive Warfare)
 
 ## Perfil TL (Resumen Ejecutivo)
@@ -33,7 +30,7 @@ cssclasses: ""
 ## Conexiones Clave
 - [[Cibernética]] (La madre de la teoría de control)
 - [[Teoría del Empujón (Nudge)]] (Su versión "suave")
-- [[Dissonancia Cognitiva]] (El estado mental buscado)
+- [[Disonancia Cognitiva\|Dissonancia Cognitiva]] (El estado mental buscado)
 - [[Inmunidad de Rebaño Cognitiva]] (La única defensa posible)
 
 ## Por Qué Importa (Estilo Nico)

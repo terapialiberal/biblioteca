@@ -1,15 +1,12 @@
 ---
+titulo: Estrecho De Malaca
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [aquiles, belt, estrecho, taln]
 publish: true
-created: 2026-01-29T19:17:12.508-03:00
-modified: 2026-02-27T13:06:38.221-03:00
-tags:
-  - aquiles
-  - belt
-  - estrecho
-  - taln
-cssclasses: ""
 ---
-
 # Estrecho De Malaca
 
 ## Perfil TL (Resumen Ejecutivo)
@@ -31,7 +28,7 @@ cssclasses: ""
 *   "Libertad de navegación". "Lucha contra el crimen marítimo". Narrativas de la ONU y las grandes potencias que disfrazan la lucha a muerte por el control del flujo energético mundial.
 
 ## Conexiones Clave
-- [[China (Rise of)]] (Su principal amenaza estratégica)
+- [[00_Glosario - Conceptos Fase 1#China (Rise of)\|China (Rise of)]] (Su principal amenaza estratégica)
 - [[Belt and Road Initiative (BRI)]] (El bypass de China)
 - [[Singapur]] (El administrador del estrecho)
 - [[Puntos de Estrangulamiento (Choke Points)]] (Su categoría geográfica)

@@ -1,21 +1,18 @@
 ---
+titulo: William Donovan
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [allen, donovan, wall, william]
 publish: true
-created: 2026-01-29T19:17:44.430-03:00
-modified: 2026-02-27T13:07:04.899-03:00
-tags:
-  - allen
-  - donovan
-  - wall
-  - william
-cssclasses: ""
 ---
-
 # William Donovan
 
 > **Perfil TL:** "Wild Bill" - El abogado de Wall Street que fundó la OSS y estableció el ADN de la CIA.
 
 ## Resumen Ejecutivo
-**¿Quién es?** Mayor General del Ejército, fundador y director de la [[OSS (Oficina de Servicios Estratégicos)]] (1942-1945). Abogado de Wall Street antes y después de la guerra.
+**¿Quién es?** Mayor General del Ejército, fundador y director de la [[Oficina de Servicios Estratégicos\|OSS (Oficina de Servicios Estratégicos)]] (1942-1945). Abogado de Wall Street antes y después de la guerra.
 
 **¿Por qué importa?** Estableció el modelo de que la inteligencia estadounidense estaría dominada por las élites de Wall Street y trabajaría estrechamente con la inteligencia británica.
 
@@ -34,7 +31,7 @@ Donovan estableció:
 4. Puerta giratoria con el sector privado.
 
 ## Conexiones Clave
-- [[OSS (Oficina de Servicios Estratégicos)]]
+- [[Oficina de Servicios Estratégicos\|OSS (Oficina de Servicios Estratégicos)]]
 - [[CIA]]
 - [[Allen Dulles]]
 - [[MI6]]

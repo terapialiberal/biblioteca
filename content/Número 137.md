@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-25T22:08:56.675-03:00
-modified: 2026-02-27T13:23:32.055-03:00
+modified: 2026-02-27T13:24:50.265-03:00
 tags:
   - gematra
   - nmero

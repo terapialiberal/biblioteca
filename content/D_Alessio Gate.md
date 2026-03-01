@@ -1,15 +1,12 @@
 ---
+titulo: "Caso D'Alessio"
+tipo: evento
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [alessio, causa, d-alessio, naciones]
 publish: true
-created: 2026-01-29T19:17:10.731-03:00
-modified: 2026-02-27T13:07:02.265-03:00
-tags:
-  - alessio
-  - causa
-  - d-alessio
-  - naciones
-cssclasses: ""
 ---
-
 # Caso D'Alessio
 
 ## Resumen General
@@ -26,7 +23,7 @@ Marcelo D'Alessio era [[Naciones Unidas (ONU)]] falso abogado y espía inorgáni
 ## Conexiones
 - [[Causa Cuadernos]]
 - [[Lawfare]]
-- [[AFI (Agencia Federal de Inteligencia)]]
+- [[00_Glosario - Conceptos Fase 1#AFI (Agencia Federal de Inteligencia)\|AFI (Agencia Federal de Inteligencia)]]
 
 
 

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-25T22:08:52.050-03:00
-modified: 2026-02-27T13:23:45.079-03:00
+modified: 2026-02-27T13:25:11.328-03:00
 tags:
   - logos
   - proporcin

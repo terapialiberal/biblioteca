@@ -1,21 +1,18 @@
 ---
+titulo: Escuela De Frankfurt
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [correccin, escuela, frankfurt, marxismo]
 publish: true
-created: 2026-01-29T19:17:12.067-03:00
-modified: 2026-02-27T13:06:23.621-03:00
-tags:
-  - correccin
-  - escuela
-  - frankfurt
-  - marxismo
-cssclasses: ""
 ---
-
 # Escuela De Frankfurt
 
 ## Perfil TL (Resumen Ejecutivo)
 **¿Qué es?** Un grupo de intelectuales y filósofos marxistas (Horkheimer, Adorno, Marcuse, Fromm) que, tras el fracaso de la revolución obrera en Europa, desarrollaron la **Teoría Crítica**.
 
-**¿Por qué importa?** La Escuela de Frankfurt es el **think-tank que diseñó la demolición controlada de la civilización occidental**. Al darse cuenta de que el sistema económico era demasiado fuerte para ser derrotado por los trabajadores, decidieron atacar la **superestructura cultural**. Su estrategia (la "Larga Marcha a través de las instituciones") consistió en infiltrar la academia, los medios y la justicia para destruir los pilares de la sociedad: la familia nuclear, la fe cristiana, la identidad nacional y la autoridad tradicional. Son los padres ideológicos del **[[Marxismo Cultural]]**, de la **[[Corrección Política]]** y de las políticas de identidad (**Woke**). Su objetivo final no es mejorar la sociedad, sino desmoralizarla mediante una "crítica despiadada de todo lo existente" hasta que la población pierda toda referencia de verdad y acepte un nuevo orden colectivista gestionado por una élite de Tier A.
+**¿Por qué importa?** La Escuela de Frankfurt es el **think-tank que diseñó la demolición controlada de la civilización occidental**. Al darse cuenta de que el sistema económico era demasiado fuerte para ser derrotado por los trabajadores, decidieron atacar la **superestructura cultural**. Su estrategia (la "Larga Marcha a través de las instituciones") consistió en infiltrar la academia, los medios y la justicia para destruir los pilares de la sociedad: la familia nuclear, la fe cristiana, la identidad nacional y la autoridad tradicional. Son los padres ideológicos del **[[00_Glosario - Conceptos Fase 1#Marxismo Cultural\|Marxismo Cultural]]**, de la **[[Corrección Política]]** y de las políticas de identidad (**Woke**). Su objetivo final no es mejorar la sociedad, sino desmoralizarla mediante una "crítica despiadada de todo lo existente" hasta que la población pierda toda referencia de verdad y acepte un nuevo orden colectivista gestionado por una élite de Tier A.
 
 ## Análisis De Poder (Tiers)
 

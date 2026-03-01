@@ -1,5 +1,5 @@
 ---
-titulo: "Ken Griffin (v2.0): El Arquitecto De La Simulación Bursátil"
+titulo: "Ken Griffin (TL V.2): El Arquitecto De La Simulación Bursátil"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [arquitecto, burstil, janet, simulacin]
 publish: true
 ---
-# Ken Griffin (v2.0): El Arquitecto De La Simulación Bursátil
+# Ken Griffin (TL V.2): El Arquitecto De La Simulación Bursátil
 
 > [!ABSTRACT] Hipótesis Informativa
 > Ken Griffin constituye el **nodo de control algorítmico del sistema financiero estadounidense**. Como CEO de **[[Citadel Securities]]**, gestiona el mayor "Market Maker" del planeta, procesando casi el 40% de todas las operaciones minoristas de EE.UU. Su función para el [[Tier A]] es actuar como la **aduana de la liquidez**, utilizando el *Payment for Order Flow* (PFOF) para obtener una ventaja de información asimétrica (front-running legal) sobre el [[Tier C]]. Griffin es la prueba de que el "Mercado Libre" ha sido reemplazado por una **simulación algorítmica** donde los precios no resultan de la oferta y la demanda, sino de la necesidad de equilibrio del libro mayor de Citadel.
@@ -45,6 +45,7 @@ Ken Griffin es el **"Algoritmo Hecho Carne"**. Su importancia reside en haber de
 **Versión:** 2.0
 **Enfoque:** Monopolio de la infraestructura de mercado (PFOF), manipulación algorítmica de precios y captura regulatoria del Departamento del Tesoro (Janet Yellen).
 **Estado:** Refactorización Completa.
+
 
 
 

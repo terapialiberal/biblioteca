@@ -1,5 +1,5 @@
 ---
-titulo: "Omidyar Network (v2.0): El Lavado De Imagen Del Control Digital"
+titulo: "Omidyar Network (TL V.2): El Lavado De Imagen Del Control Digital"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [digital, edward, glenn, imagen]
 publish: true
 ---
-# Omidyar Network (v2.0): El Lavado De Imagen Del Control Digital
+# Omidyar Network (TL V.2): El Lavado De Imagen Del Control Digital
 
 > [!ABSTRACT] Hipótesis Informativa
 > Omidyar Network no es una firma filantrópica, sino un **mecanismo de cooptación de la disidencia de [[Tier B]]**. Bajo el financiamiento del fundador de eBay, **Pierre Omidyar**, esta organización actúa como el interface que captura movimientos sociales y periodísticos para asegurar que permanezcan dentro de los límites del reformismo tecno-liberal. Su función es financiar una "crítica aceptable" al sistema mientras se integran infraestructuras de identidad digital y gobernanza de datos que fortalecen el panóptico de **[[Tier A]]**, neutralizando la insurgencia real mediante la dependencia del gran capital "progresista".
@@ -15,7 +15,7 @@ publish: true
 ## Análisis De Tiers
 
 ### Tier B (La Gestión Del Periodismo Y El Activismo)
-*   **The Intercept y la Censura Sutil:** El financiamiento de Omidyar a *The Intercept* es el caso de estudio definitivo. Al ser dueño de la plataforma que publicaba los archivos de Snowden, Omidyar se posicionó como el "protector" de la verdad, solo para que años después figuras como **[[Glenn Greenwald]]** abandonaran el medio denunciando censura editorial sobre temas críticos para el establishment demócrata de Tier B. Omidyar Network utiliza el dinero para comprar el derecho de **Veto Informativo** sobre la narrativa disidente.
+*   **The Intercept y la Censura Sutil:** El financiamiento de Omidyar a *The Intercept* es el caso de estudio definitivo. Al ser dueño de la plataforma que publicaba los archivos de Snowden, Omidyar se posicionó como el "protector" de la verdad, solo para que años después figuras como **[[00_Glosario - Conceptos Fase 1#Glenn Greenwald\|Glenn Greenwald]]** abandonaran el medio denunciando censura editorial sobre temas críticos para el establishment demócrata de Tier B. Omidyar Network utiliza el dinero para comprar el derecho de **Veto Informativo** sobre la narrativa disidente.
 *   **Inversión en Identidad Digital:** Detrás de la fachada de "empoderamiento", Omidyar es uno de los mayores impulsores de sistemas de identidad digital global, trabajando en sintonía con las agendas de las fundaciones de Tier A para asegurar que el **[[Tier C]]** sea rastreable en cada transacción y acción social.
 
 ### Tier A (La Alineación Estratégica)
@@ -28,7 +28,7 @@ publish: true
 
 ## Conexiones Críticas
 - [[The Intercept]]: Su aventura mediática más famosa y controvertida.
-- [[Glenn Greenwald]]: El disidente que escapó de la red de Omidyar.
+- [[00_Glosario - Conceptos Fase 1#Glenn Greenwald\|Glenn Greenwald]]: El disidente que escapó de la red de Omidyar.
 - [[Edward Snowden]]: Cuyos archivos fueron gestionados por un medio propiedad de Omidyar.
 - [[Identidad Digital Global]]: La infraestructura que Omidyar financia activamente.
 - [[Pierre Omidyar]]: El multimillonario de Silicon Valley que busca diseñar el "bien común".
@@ -39,7 +39,8 @@ Omidyar Network es el terciopelo que recubre la mano de hierro de Silicon Valley
 ---
 **Versión:** 2.0
 **Enfoque:** Cooptación del periodismo independiente, inversión en identidad digital y el uso de la filantropía como herramienta de expansión tecno-liberal.
-**Estado:** Refactoreado a v2.0 - Framework de Filantropía Operativa.
+**Estado:** Refactoreado a TL V.2 - Framework de Filantropía Operativa.
+
 
 
 

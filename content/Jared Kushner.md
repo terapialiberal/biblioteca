@@ -1,5 +1,13 @@
 ---
-titulo: "Jared Kushner (v2.0): El Corredor Inmobiliario De La Geopoltica"
+titulo: Jared Kushner
+tipo: 'evento'
+tier-primario: 'b'
+nivel-evidencia: 'medio'
+tags: [clasificado-ai]
+publish: true
+---
+﻿---
+titulo: "Jared Kushner (TL V.2): El Corredor Inmobiliario De La Geopoltica"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +15,7 @@ nivel-evidencia: "medio"
 tags: [inmobiliario, jared, kushner, tony]
 publish: true
 ---
-# Jared Kushner (v2.0): El Corredor Inmobiliario De La Geopoltica
+# Jared Kushner (TL V.2): El Corredor Inmobiliario De La Geopoltica
 
 > [!ABSTRACT] Hiptesis Informativa
 > Jared Kushner constituye el **operador transaccional definitivo del [[Tier B]]**, actuando como el nexo donde convergen el capital soberano de las petromonarquas, la agenda territorial de los asentamientos israeles y la infraestructura de inteligencia profunda de **[[Chabad Lubavitch]]**. Su funcin histrica fue aplicar la lgica del *real estate* de Nueva York a la diplomacia global, transformando el conflicto palestino en un proceso de liquidacin de activos y captura de infraestructura logstica (IMEC). Kushner es el **"Fiduciario del Reset en Medio Oriente"**, monetizando su acceso al poder mediante el fondo **Affinity Partners** y coordinando con actores globalistas como **[[Tony Blair]]** para redisear el mapa regional bajo el pretexto de la "paz econmica".
@@ -15,7 +23,7 @@ publish: true
 ## Anlisis De Tiers
 
 ### Tier A: Los Curadores Del Capital Y El Mesianismo
-* **El Eje Adelson-MBS:** Kushner fue el canal principal a travs del cual **[[Sheldon Adelson]]** compr la poltica exterior de EE.UU. (Embajada en Jerusaln, reconocimiento del Goln). Tras cumplir con la agenda de Adelson, Kushner fue "premiado" por el Tier A del Golfo con **\3,000 millones** (\2,000M de Riad via MBS, \1,000M de Qatar/EAU) para su fondo Affinity Partners. Este capital no es una inversin comercial, sino un **pago diferido de Tier A** por servicios prestados: blindaje narrativo post-Khashoggi y la arquitectura de los **[[Acuerdos de Abraham]]**.
+* **El Eje Adelson-MBS:** Kushner fue el canal principal a travs del cual **[[Sheldon Adelson]]** compr la poltica exterior de EE.UU. (Embajada en Jerusaln, reconocimiento del Goln). Tras cumplir con la agenda de Adelson, Kushner fue "premiado" por el Tier A del Golfo con **\3,000 millones** (\2,000M de Riad via MBS, \1,000M de Qatar/EAU) para su fondo Affinity Partners. Este capital no es una inversin comercial, sino un **pago diferido de Tier A** por servicios prestados: blindaje narrativo post-Khashoggi y la arquitectura de los **[[00_Glosario - Conceptos Fase 1#Acuerdos de Abraham\|Acuerdos de Abraham]]**.
 * **La Infraestructura Chabad-Rusia:** El linaje de Kushner (Novogrudok, Belarus) lo conecta orgnicamente con el corazn geogrfico de Chabad. Jared funciona como el puente entre el Tier A ruso (Putin/Berel Lazar/Lev Leviev) y el eje Trump-Netanyahu. Chabad acta como la **malla de coordinacin transnacional** que permite a oligarcas y lderes estatales sincronizar agendas territoriales y financieras bajo un marco mesinico que anula la supervisin secular. ^872581
 
 ### Tier B: Los Administradores Del "Cleanup" Y El "Reset"
@@ -43,9 +51,10 @@ publish: true
 Jared Kushner es el **"Liquidador de Soberanas"**. Su importancia reside en haber demostrado que las naciones pueden ser gestionadas como carteras de inmuebles. Kushner no es un diplomtico; es un **ingeniero financiero de la ocupacin**. Entender a Kushner es comprender cmo el capital transnacional utiliza la crisis humanitaria y la guerra como catalizadores de "oportunidades nicas en el siglo" para reconfigurar el comercio mundial. Para el Tier C, es el hombre de la paz econmica; para el Tier A, es el **operador de confianza** que asegura que, debajo de cada conflicto sagrado, el suelo sea siempre una inversin rentable.
 
 ---
-**Versi�n:** 2.0
-**Enfoque:** Integraci�n de la red Chabad-Rusia, plan Great Trust de Gaza, nexo Adelson-MBS y la monetizaci�n del acceso pol�tico v�a Affinity Partners.
-**Estado:** Refactorizaci�n Completa e Integraci�n de Triaje OSINT.
+**Versiï¿½n:** 2.0
+**Enfoque:** Integraciï¿½n de la red Chabad-Rusia, plan Great Trust de Gaza, nexo Adelson-MBS y la monetizaciï¿½n del acceso polï¿½tico vï¿½a Affinity Partners.
+**Estado:** Refactorizaciï¿½n Completa e Integraciï¿½n de Triaje OSINT.
+
 
 
 

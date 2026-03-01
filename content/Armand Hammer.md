@@ -1,15 +1,12 @@
 ---
+titulo: Armand Hammer
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [albert, armand, hammer, transferencia]
 publish: true
-created: 2026-01-29T19:17:03.888-03:00
-modified: 2026-02-27T13:06:27.755-03:00
-tags:
-  - albert
-  - armand
-  - hammer
-  - transferencia
-cssclasses: ""
 ---
-
 # Armand Hammer
 
 ## Resumen Ejecutivo
@@ -34,7 +31,7 @@ Lenin le dijo personalmente: *"El comunismo es poder soviético más la electrif
 
 ## Conexiones
 - [[Albert Gore Sr.]] (Protegido político de Hammer; padre de Al Gore)
-- [[KGB]]
+- [[00_Glosario - Conceptos Fase 1#KGB\|KGB]]
 - [[Transferencia Tecnológica a la URSS]]
 
 ## Fuentes

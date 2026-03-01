@@ -1,15 +1,12 @@
 ---
+titulo: Comisión Trilateral
+tipo: organizacion
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [bilderberg, comisin, henry, trilateral]
 publish: true
-created: 2026-01-29T19:17:08.347-03:00
-modified: 2026-02-27T13:06:22.597-03:00
-tags:
-  - bilderberg
-  - comisin
-  - henry
-  - trilateral
-cssclasses: ""
 ---
-
 # Comisión Trilateral
 
 ## Resumen General
@@ -52,7 +49,7 @@ Este overlap demuestra que se trata de la **MISMA red de élite operando a trav�
 La Trilateral ha incluído:
 - **[[Henry Kissinger]]** - Miembro fundacional
 - **[[Zbigniew Brzezinski]]** - Co-fundador, arquitecto de política exterior
-- **[[George H.W. Bush]]** - Ex-presidente EEUU
+- **[[George H. W. Bush\|George H.W. Bush]]** - Ex-presidente EEUU
 - Múltiples Secretarios de Estado, Treasury, Defense
 - CEOs de bancos y corporaciones transnacionales
 - Primeros ministros europeos y japoneses

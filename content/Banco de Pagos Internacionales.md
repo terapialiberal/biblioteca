@@ -1,15 +1,12 @@
 ---
+titulo: Banco De Pagos Internacionales (BIS)
+tipo: organizacion
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [banco, cbdc, pagos, reserva]
 publish: true
-created: 2026-01-29T19:17:04.747-03:00
-modified: 2026-02-27T13:22:03.134-03:00
-tags:
-  - banco
-  - cbdc
-  - pagos
-  - reserva
-cssclasses: ""
 ---
-
 # Banco De Pagos Internacionales (BIS)
 
 ## Perfil TL (Resumen Ejecutivo)
@@ -32,7 +29,7 @@ cssclasses: ""
 
 ## Conexiones Clave
 - [[Reserva Federal]] (Miembro del consejo)
-- [[CBDC (Central Bank Digital Currency)]] (Su proyecto estrella)
+- [[00_Glosario - Conceptos Fase 1#CBDC (Central Bank Digital Currency)\|CBDC (Central Bank Digital Currency)]] (Su proyecto estrella)
 - [[WEF (World Economic Forum)]] (Socio estratégico)
 - [[Nazi Gold]] (Historial de complicidad)
 

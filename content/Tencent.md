@@ -1,13 +1,12 @@
 ---
+titulo: Tencent
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [partido, tencent]
 publish: true
-created: 2026-01-29T19:17:38.701-03:00
-modified: 2026-02-27T13:24:01.552-03:00
-tags:
-  - partido
-  - tencent
-cssclasses: ""
 ---
-
 # Tencent
 
 > [!ABSTRACT] Ficha Técnica
@@ -23,7 +22,7 @@ cssclasses: ""
 WeChat es la plataforma donde el gobierno chino puede monitorear y censurar a toda la población.
 
 ## Conexiones
-- [[Partido Comunista Chino]]
+- [[00_Glosario - Conceptos Fase 1#Partido Comunista Chino\|Partido Comunista Chino]]
 - Gaming global
 - Censura y vigilancia china
 

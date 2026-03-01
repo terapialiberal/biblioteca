@@ -1,5 +1,5 @@
 ---
-titulo: "Richard N. Perle (v2.0): El Arquitecto De La Guerra Perpetua"
+titulo: "Richard N. Perle (TL V.2): El Arquitecto De La Guerra Perpetua"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,10 +7,10 @@ nivel-evidencia: "medio"
 tags: [arquitecto, guerra, pnac, richard]
 publish: true
 ---
-# Richard N. Perle (v2.0): El Arquitecto De La Guerra Perpetua
+# Richard N. Perle (TL V.2): El Arquitecto De La Guerra Perpetua
 
 > [!ABSTRACT] Hipótesis Informativa
-> Richard Perle, apodado el "Príncipe de las Tinieblas", es el **Operador Ideológico de [[Tier B]]** que diseñó la arquitectura de la guerra preventiva y el cambio de régimen en el Medio Oriente. Como miembro clave del **[[PNAC (Project for the New American Century)]]**, Perle fue uno de los principales impulsores de la invasión de Irak, utilizando falsas premisas de seguridad para avanzar en la hegemonía del **[[Tier A]]** geopolítico. Su trayectoria demuestra el nexo corrupto entre la política de defensa y el beneficio privado: Perle utilizó su posición en la **Junta de Política de Defensa** para favorecer a empresas como **[[Global Crossing]]**, demostrando que para los neocoservadores, la sangre del **[[Tier C]]** en el extranjero es el lubricante para los contratos billonarios en Washington.
+> Richard Perle, apodado el "Príncipe de las Tinieblas", es el **Operador Ideológico de [[Tier B]]** que diseñó la arquitectura de la guerra preventiva y el cambio de régimen en el Medio Oriente. Como miembro clave del **[[00_Glosario - Conceptos Fase 1#PNAC (Project for the New American Century)\|PNAC (Project for the New American Century)]]**, Perle fue uno de los principales impulsores de la invasión de Irak, utilizando falsas premisas de seguridad para avanzar en la hegemonía del **[[Tier A]]** geopolítico. Su trayectoria demuestra el nexo corrupto entre la política de defensa y el beneficio privado: Perle utilizó su posición en la **Junta de Política de Defensa** para favorecer a empresas como **[[Global Crossing]]**, demostrando que para los neocoservadores, la sangre del **[[Tier C]]** en el extranjero es el lubricante para los contratos billonarios en Washington.
 
 ## Análisis De Tiers
 
@@ -27,7 +27,7 @@ publish: true
 2.  **Infiltración de Think-Tanks**: Uso de organizaciones "sin fines de lucro" financiadas por el complejo militar-industrial para pre-producir las políticas públicas que luego él mismo implementará desde cargos oficiales, eliminando cualquier debate democrático real de Tier C.
 
 ## Conexiones Críticas
-- [[PNAC (Project for the New American Century)]]: El cerebro colectivo de la invasión de Irak.
+- [[00_Glosario - Conceptos Fase 1#PNAC (Project for the New American Century)\|PNAC (Project for the New American Century)]]: El cerebro colectivo de la invasión de Irak.
 - [[Paul Wolfowitz]]: Su socio ideológico en la destrucción de Medio Oriente.
 - [[Donald Rumsfeld]]: Su jefe y protector en el Pentágono.
 - [[Global Crossing]]: La empresa del escándalo de tráfico de influencias.
@@ -40,7 +40,8 @@ Richard Perle nos enseña que **las guerras no son errores de cálculo, son deci
 ---
 **Versión:** 2.0
 **Enfoque:** Perle como arquitecto de la guerra de Irak bajo la doctrina neocon del PNAC, su apodo de "Príncipe de las Tinieblas" por su naturaleza belicista y su corrupción en el caso Global Crossing.
-**Estado:** Refactoreado a v2.0 - Framework de Geopolítica y Complejo Militar-Industrial.
+**Estado:** Refactoreado a TL V.2 - Framework de Geopolítica y Complejo Militar-Industrial.
+
 
 
 

@@ -1,5 +1,5 @@
 ---
-titulo: "Posmodernismo Y Marxismo Cultural (v2.0): El Ácido De La Civilización"
+titulo: "Posmodernismo Y Marxismo Cultural (TL V.2): El Ácido De La Civilización"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [antonio, civilizacin, cultural, posmodernismo]
 publish: true
 ---
-# Posmodernismo Y Marxismo Cultural (v2.0): El Ácido De La Civilización
+# Posmodernismo Y Marxismo Cultural (TL V.2): El Ácido De La Civilización
 
 > [!ABSTRACT] Hipótesis Informativa
 > El Posmodernismo y el Marxismo Cultural son las **herramientas de demolición epistemológica de [[Tier A]]** diseñadas para disolver los cimientos de la civilización occidental. Al negar la existencia de la verdad objetiva, la lógica y la biología, y reemplazarlas por la dialéctica de "opresor vs. oprimido", el sistema logra la **Desmoralización del [[Tier C]]**. El objetivo final es destruir las estructuras intermedias (familia, nación, religión) para que el individuo, huérfano de identidad y valores sólidos, sea totalmente dependiente de la ingeniería social y el arbitrio estatal de la Matrix.
@@ -39,7 +39,8 @@ El Posmodernismo no es una corriente filosófica inocente; es un arma de guerra 
 ---
 **Versión:** 2.0
 **Enfoque:** Destrucción de la jerarquía de valores, fragmentación identitaria como herramienta de control y la infiltración institucional del marxismo cultural.
-**Estado:** Refactoreado a v2.0 - Framework de Guerra Cultural.
+**Estado:** Refactoreado a TL V.2 - Framework de Guerra Cultural.
+
 
 
 

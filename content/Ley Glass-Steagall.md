@@ -30,11 +30,12 @@ Glass-Steagall no era una ley antigua; era un **protocolo de seguridad**. Al qui
 
 ## Conexiones De La Red
 - **Liquidadores:** [[Larry Summers]], [[Bill Clinton]], [[Alan Greenspan]].
-- **Beneficiarios:** [[JPMorgan Chase]], [[Citigroup]], [[Goldman Sachs]].
+- **Beneficiarios:** [[00_Glosario - Conceptos Fase 1#JPMorgan Chase\|JPMorgan Chase]], [[Citigroup]], [[Goldman Sachs]].
 - **Resultados:** [[Crisis Financiera 2008]], [[Bail-out]], [[Bail-in]].
 - **Antecedentes:** [[Crash de Wall Street 1929]].
 
-**Estado:** Refactoreado a v2.0 - Framework de Inteligencia Aplicado.
+**Estado:** Refactoreado a TL V.2 - Framework de Inteligencia Aplicado.
+
 
 
 

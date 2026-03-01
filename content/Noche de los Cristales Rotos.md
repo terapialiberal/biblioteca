@@ -1,5 +1,5 @@
 ---
-titulo: "Noche De Los Cristales Rotos (v2.0): El Prototipo De La Purga Administrada"
+titulo: "Noche De Los Cristales Rotos (TL V.2): El Prototipo De La Purga Administrada"
 tipo: organizacion
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [cristales, joseph, noche, prototipo]
 publish: true
 ---
-# Noche De Los Cristales Rotos (v2.0): El Prototipo De La Purga Administrada
+# Noche De Los Cristales Rotos (TL V.2): El Prototipo De La Purga Administrada
 
 > [!ABSTRACT] Hipótesis Informativa
 > La Noche de los Cristales Rotos (*Kristallnacht*) fue la **Operación de Bandera Falsa para el Exterminio Administrativo**. No fue un estallido de ira popular, sino una acción coordinada del **[[Tier B]]** para justificar la expropiación final de los activos del **[[Tier C]]** judío. Representa el modelo operativo de la **"Violencia Estatal Tercerizada"**: el Estado retira la protección legal para que turbas orquestadas ejecuten el terror, permitiendo al sistema centralizar el botín y legalizar la segregación total bajo el pretexto de restaurar el "orden" que él mismo destruyó.
@@ -38,7 +38,8 @@ La Noche de los Cristales Rotos nos advierte: **el mayor peligro no es la turba,
 ---
 **Versión:** 2.0
 **Enfoque:** Violencia estatal coordinada, expropiación financiera tras el trauma y la técnica de "falsa espontaneidad" en operaciones de purga social.
-**Estado:** Refactoreado a v2.0 - Framework de Terrorismo de Estado.
+**Estado:** Refactoreado a TL V.2 - Framework de Terrorismo de Estado.
+
 
 
 

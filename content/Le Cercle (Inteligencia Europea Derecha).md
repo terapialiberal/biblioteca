@@ -1,5 +1,5 @@
 ---
-titulo: "Le Cercle (v2.0): El Directorio De La Inteligencia Profunda"
+titulo: "Le Cercle (TL V.2): El Directorio De La Inteligencia Profunda"
 tipo: organizacion
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [cercle, derecha, europea, profunda]
 publish: true
 ---
-# Le Cercle (v2.0): El Directorio De La Inteligencia Profunda
+# Le Cercle (TL V.2): El Directorio De La Inteligencia Profunda
 
 > [!ABSTRACT] Hipótesis Informativa
 > Le Cercle constituye el **nodo más opaco y operativo de la red de gobernanza en la sombra de [[Tier A]]**. Mucho más hermético que Bilderberg, este grupo funciona como un "Bilderberg con armas", reuniendo a ex-jefes de inteligencia, altos mandos militares, banqueros y representantes de órdenes religiosas militares (Opus Dei, Malta). Su función histórica y actual es la **coordinación de operaciones de desestabilización política, propaganda de guerra y la preservación del orden conservador-corporativo** mediante el control masivo de la inteligencia profunda, habiendo sido el cerebro político detrás de redes como **[[Operación Gladio]]** y el ascenso de la "Nueva Derecha" global.
@@ -46,6 +46,7 @@ Le Cercle es el **"Estado Profundo de los Estados Profundos"**. Su importancia r
 **Versión:** 2.0
 **Enfoque:** Grupos de inteligencia privada, coordinación de redes Gladio, nexo entre servicios secretos y órdenes religiosas (Opus Dei/Malta), y su rol como el verdadero centro operativo de la derecha global fuera de la vista pública.
 **Estado:** Refactorización Completa.
+
 
 
 

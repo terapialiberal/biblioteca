@@ -30,7 +30,7 @@ publish: true
 ## Conexiones Clave
 - [[John D. Rockefeller]] (El financista del monopolio)
 - [[Big Pharma]] (El subproducto industrial)
-- [[Asociación Médica Americana (AMA)]] (La policía del sistema)
+- [[Asociación Médica Americana\|Asociación Médica Americana (AMA)]] (La policía del sistema)
 - [[Iatrogenia]] (El resultado estadístico del modelo)
 
 ## Por Qué Importa (Estilo Nico)

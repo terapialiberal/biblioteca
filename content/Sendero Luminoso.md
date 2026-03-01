@@ -1,5 +1,5 @@
 ---
-titulo: "Sendero Luminoso (v2.0): El Fanatismo Como Motor Del Caos Estatal"
+titulo: "Sendero Luminoso (TL V.2): El Fanatismo Como Motor Del Caos Estatal"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [estatal, luminoso, maosmo, motor]
 publish: true
 ---
-# Sendero Luminoso (v2.0): El Fanatismo Como Motor Del Caos Estatal
+# Sendero Luminoso (TL V.2): El Fanatismo Como Motor Del Caos Estatal
 
 > [!ABSTRACT] Hipótesis Informativa
 > Sendero Luminoso fue el **Movimiento Terrorista insurgente de [[Tier B]]** más sanguinario de la historia de América Latina. Liderado por el profesor de filosofía **Abimael Guzmán** (alias Presidente Gonzalo), su función real en la Matrix peruana fue la de un **"Acelerador de Militarización Estatal"**: su brutalidad extrema (cuota de sangre) proporcionó la justificación perfecta para la suspensión del orden constitucional y el ascenso del autoritarismo de **Alberto Fujimori**. Tras la captura de Guzmán, el grupo mutó en una **Insurgencia Mercenaria** vinculada al narcotráfico en el VRAEM, manteniendo focos de inestabilidad que sirven para justificar presupuestos militares perpetuos sobre el **[[Tier C]]**.
@@ -41,7 +41,8 @@ Sendero Luminoso nos enseña que **el fanatismo ideológico es la mejor herramie
 ---
 **Versión:** 2.0
 **Enfoque:** Sendero Luminoso como grupo maoísta de terror extremo, su rol en la consolidación del fujimorismo, su mutación hacia el narcoterrorismo en el VRAEM y el impacto devastador en el campesinado de Tier C.
-**Estado:** Refactoreado a v2.0 - Framework de Terrorismo e Insurgencia.
+**Estado:** Refactoreado a TL V.2 - Framework de Terrorismo e Insurgencia.
+
 
 
 

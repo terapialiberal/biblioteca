@@ -1,5 +1,5 @@
 ---
-titulo: "Rafi Eitan (v2.0): El Arquitecto Del Espionaje Técnico Y Humano"
+titulo: "Rafi Eitan (TL V.2): El Arquitecto Del Espionaje Técnico Y Humano"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [arquitecto, eitan, rafi, tcnico]
 publish: true
 ---
-# Rafi Eitan (v2.0): El Arquitecto Del Espionaje Técnico Y Humano
+# Rafi Eitan (TL V.2): El Arquitecto Del Espionaje Técnico Y Humano
 
 > [!ABSTRACT] Hipótesis Informativa
 > Rafi Eitan fue el **Operador Maestro de [[Tier B]]** que definió la agresividad y la superioridad técnica de la inteligencia israelí en la segunda mitad del siglo XX. Desde la captura de Eichmann hasta el manejo de activos estratégicos en el corazón del Pentágono (**[[Jonathan Pollard]]**), Eitan personificó la amoralidad estratégica necesaria para asegurar la supervivencia y el dominio técnico de la Matrix sionista. Su papel en el robo y redistribución de **[[PROMIS Software]]** demuestra que fue un nexo clave entre el espionaje tradicional y la era de la vigilancia digital masiva administrada por el **[[Mossad]]**.
@@ -40,7 +40,8 @@ Rafi Eitan nos enseña que **el espionaje no es política, es ingeniería de pod
 ---
 **Versión:** 2.0
 **Enfoque:** El rol de Eitan como director de Lakam, el caso Pollard, la conexión con Robert Maxwell/PROMIS y la transición del espionaje físico al cibernético.
-**Estado:** Refactoreado a v2.0 - Framework de Biografía de Inteligencia.
+**Estado:** Refactoreado a TL V.2 - Framework de Biografía de Inteligencia.
+
 
 
 

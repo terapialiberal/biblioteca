@@ -1,15 +1,12 @@
 ---
+titulo: Bohemian Grove
+tipo: persona
+fecha: 2026-02-25
+tags: [bohemian, cremation, grove, proyecto]
+tier-primario: "a"
+nivel-evidencia: "alto"
 publish: true
-created: 2026-01-29T19:17:05.690-03:00
-modified: 2026-02-27T13:22:06.302-03:00
-tags:
-  - bohemian
-  - cremation
-  - grove
-  - proyecto
-cssclasses: ""
 ---
-
 
 # Bohemian Grove
 
@@ -29,9 +26,9 @@ cssclasses: ""
 - "Un campamento de vacaciones para hombres ricos haciendo teatro". Esta narrativa infantiliza un espacio de coordinación geopolítica de primer orden.
 
 ## Conexiones Críticas
-- [[Proyecto Manhattan]]: Origen histórico de la cooperación Tier A/B.
+- [[00_Glosario - Conceptos Fase 1#Proyecto Manhattan\|Proyecto Manhattan]]: Origen histórico de la cooperación Tier A/B.
 - [[Cremation of Care]]: El ritual de "despersonalización" moral.
-- [[Richard Nixon]]: Testigo del poder del Grove.
+- [[00_Glosario - Conceptos Fase 1#Richard Nixon\|Richard Nixon]]: Testigo del poder del Grove.
 
 ## Cui Bono
 ¿Quién gana? La **Elite del Complejo Industrial-Militar**. En el Grove se eliminan las fricciones entre competidores para asegurar que la agenda global siga una dirección unificada.

@@ -33,7 +33,7 @@ Michael Bloomberg es el hombre que est comprando el futuro a base de talonario. 
 - [[Bloomberg LP]]
 - [[C40 Cities]] (Su red de influencia urbana)
 - [[Bill Gates]] (Socio en filantrop�a de Tier A)
-- [[Control de Armas]]
+- [[00_Glosario - Conceptos Fase 1#Control de Armas\|Control de Armas]]
 - [[WEF (World Economic Forum)]]
 
 ## Fuentes

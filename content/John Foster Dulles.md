@@ -1,5 +1,5 @@
 ---
-titulo: "John Foster Dulles (v2.0): El Abogado Del Imperio Corporativo"
+titulo: "John Foster Dulles (TL V.2): El Abogado Del Imperio Corporativo"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [abogado, corporativo, dulles, imperio]
 publish: true
 ---
-# John Foster Dulles (v2.0): El Abogado Del Imperio Corporativo
+# John Foster Dulles (TL V.2): El Abogado Del Imperio Corporativo
 
 > [!ABSTRACT] Hipótesis Informativa
 > John Foster Dulles constituye el **puente originario entre la oligarquía financiera de Wall Street y el poder ejecutivo de EE.UU.** Como socio principal de la firma [[Sullivan & Cromwell]], Dulles transformó la política exterior de la Guerra Fría en un servicio de protección para los activos del [[Tier A]] global. Junto a su hermano [[Allen Dulles]], estableció la doctrina de la intervención militar y encubierta como herramienta estándar para aplastar cualquier brote de soberanía económica en el [[Tier C]] que amenazara los beneficios de sus clientes corporativos.
@@ -45,6 +45,7 @@ John Foster Dulles es el **"Abogado que Privatizó al Estado"**. Su legado es un
 **Versión:** 2.0
 **Enfoque:** Fusión de Wall Street con diplomacia estatal, defensa de intereses corporativos transnacionales y el origen del Deep State moderno.
 **Estado:** Refactorización Completa.
+
 
 
 

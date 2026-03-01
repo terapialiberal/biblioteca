@@ -1,15 +1,12 @@
 ---
+titulo: "CBDCs: El Control Monetario Total"
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [banco, cbdcs, fondo, total]
 publish: true
-created: 2026-01-29T19:17:07.090-03:00
-modified: 2026-02-27T13:22:16.909-03:00
-tags:
-  - banco
-  - cbdcs
-  - fondo
-  - total
-cssclasses: ""
 ---
-
 # CBDCs: El Control Monetario Total
 
 > [!ABSTRACT] Hipótesis Informativa
@@ -28,7 +25,7 @@ cssclasses: ""
 2. **Negative Interest Rates:** Incentivo al consumo inmediato y destrucción de ahorros.
 
 ## Conexiones Críticas
-- [[Banco de Pagos Internacionales (BIS)]]: Arquitecto global del sistema CBDC.
+- [[Banco de Pagos Internacionales\|Banco de Pagos Internacionales (BIS)]]: Arquitecto global del sistema CBDC.
 - [[Fondo Monetario Internacional (FMI)]]: Impulsor de adopción masiva.
 
 ## Conclusión Del Análisis

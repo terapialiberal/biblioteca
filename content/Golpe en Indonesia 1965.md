@@ -12,7 +12,7 @@ publish: true
 ## Perfil TL (Resumen Ejecutivo)
 **¿Qué fue?** Un suceso traumático donde el ejército indonesio, liderado por el General Suharto, utilizó un supuesto intento de golpe comunista para tomar el poder y masacrar a entre 500,000 y 1,000,000 de personas (comunistas, sindicalistas y chinos étnicos) con el apoyo activo de la CIA.
 
-**¿Por qué importa?** Indonesia 1965 es la implementación del **"Método Yakarta"**: la eliminación física quirúrgica de toda la oposición de izquierda en un país estratégico. Este evento es el **Tier A operando a escala genocida**. La CIA proporcionó listas de nombres de personas que debían ser ejecutadas, asegurándose de que la base social que apoyaba al presidente nacionalista Sukarno (líder de los Países No Alineados) fuera exterminada. El éxito de esta masacre fue tan grande para el Tier A que se convirtió en el plano a seguir para la **[[Operación Cóndor]]** en Latinoamérica. Fue el momento en que el sistema globalista decidió que el asesinato en masa era una herramienta válida de política exterior para asegurar que los recursos naturales (petróleo y caucho de Indonesia) permanecieran bajo control occidental.
+**¿Por qué importa?** Indonesia 1965 es la implementación del **"Método Yakarta"**: la eliminación física quirúrgica de toda la oposición de izquierda en un país estratégico. Este evento es el **Tier A operando a escala genocida**. La CIA proporcionó listas de nombres de personas que debían ser ejecutadas, asegurándose de que la base social que apoyaba al presidente nacionalista Sukarno (líder de los Países No Alineados) fuera exterminada. El éxito de esta masacre fue tan grande para el Tier A que se convirtió en el plano a seguir para la **[[Operación Condor\|Operación Cóndor]]** en Latinoamérica. Fue el momento en que el sistema globalista decidió que el asesinato en masa era una herramienta válida de política exterior para asegurar que los recursos naturales (petróleo y caucho de Indonesia) permanecieran bajo control occidental.
 
 ## Análisis De Poder (Tiers)
 
@@ -30,7 +30,7 @@ publish: true
 ## Conexiones Clave
 - [[CIA]] (El cerebro detrás de las listas)
 - [[Conferencia de Bandung / Sukarno]] (El objetivo político)
-- [[Operación Cóndor]] (La secuela en Latam)
+- [[Operación Condor\|Operación Cóndor]] (La secuela en Latam)
 - [[El Método Yakarta (Libro)]] (La investigación técnica)
 
 ## Por Qué Importa (Estilo Nico)

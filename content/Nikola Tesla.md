@@ -1,5 +1,5 @@
 ---
-titulo: "Nikola Tesla (v2.0): El Sabotaje a La Soberanía Energética"
+titulo: "Nikola Tesla (TL V.2): El Sabotaje a La Soberanía Energética"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [energa, nikola, sabotaje, soberana]
 publish: true
 ---
-# Nikola Tesla (v2.0): El Sabotaje a La Soberanía Energética
+# Nikola Tesla (TL V.2): El Sabotaje a La Soberanía Energética
 
 > [!ABSTRACT] Hipótesis Informativa
 > Nikola Tesla no fue simplemente un inventor prolífico, sino el arquitecto de una civilización post-escasez que el [[Tier A]] no podía permitir. Su propuesta de energía inalámbrica y gratuita atacaba la base misma de la Matriz de Poder: el control mediante la escasez de recursos y la medición de la deuda. Su supresión marca el momento en que la humanidad fue desviada de una trayectoria de evolución tecnológica libre hacia un modelo de esclavitud energética basado en el carbono.
@@ -45,6 +45,7 @@ Nikola Tesla es la prueba de que **el progreso tecnológico no es lineal, sino f
 **Versión:** 2.0
 **Enfoque:** Supresión estratégica de la energía de punto cero y control por escasez.
 **Estado:** Refactorización Completa.
+
 
 
 

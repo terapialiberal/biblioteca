@@ -1,5 +1,5 @@
 ---
-titulo: "Spirit Cooking (v2.0): La Liturgia Sangrienta Del Poder Global"
+titulo: "Spirit Cooking (TL V.2): La Liturgia Sangrienta Del Poder Global"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [pizzagate, poder, sangrienta, wikileaks]
 publish: true
 ---
-# Spirit Cooking (v2.0): La Liturgia Sangrienta Del Poder Global
+# Spirit Cooking (TL V.2): La Liturgia Sangrienta Del Poder Global
 
 > [!ABSTRACT] Hipótesis Informativa
 > Spirit Cooking es la **Práctica Ritual de [[Tier A]]** que expone la convergencia entre el arte performático de vanguardia y el ocultismo de las cúpulas políticas occidentales. Popularizado por la filtración de los correos de **John Podesta** (jefe de campaña de Hillary Clinton) por **[[Wikileaks]]**, el ritual â€”creado por **Marina Abramovic**â€” involucra el uso de sangre de cerdo, esperma y leche materna para "cocinar" intenciones en las paredes. Su función real en la Matrix es la de un **"Mecanismo de Cohesión de Ã‰lite"**: el uso de la magia de sangre y la transgresión tabú para solidificar la lealtad grupal y canalizar energías arquetípicas (Thelema) que sustentan la autoridad de los soberanos de **[[Tier A]]**.
@@ -41,7 +41,8 @@ Spirit Cooking nos enseña que **el poder real siempre tiene una dimensión sagr
 ---
 **Versión:** 2.0
 **Enfoque:** Spirit Cooking como ritual de élite revelado por Wikileaks, la figura de Marina Abramovic como puente entre el arte y el ocultismo de Tier A, el uso de Thelema y Crowley como base espiritual, y la reacción de la Matrix (censura y etiquetas de conspiración) ante el despertar del Tier C.
-**Estado:** Refactoreado a v2.0 - Framework de Ocultismo de Ã‰lite y Poder Simbólico.
+**Estado:** Refactoreado a TL V.2 - Framework de Ocultismo de Ã‰lite y Poder Simbólico.
+
 
 
 

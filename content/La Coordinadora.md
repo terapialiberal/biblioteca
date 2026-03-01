@@ -1,5 +1,5 @@
 ---
-titulo: "La Coordinadora (v2.0): Los Arquitectos De La Gestión De La Transición"
+titulo: "La Coordinadora (TL V.2): Los Arquitectos De La Gestión De La Transición"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,16 +7,16 @@ nivel-evidencia: "medio"
 tags: [coordinadora, enrique, gestin, transicin]
 publish: true
 ---
-# La Coordinadora (v2.0): Los Arquitectos De La Gestión De La Transición
+# La Coordinadora (TL V.2): Los Arquitectos De La Gestión De La Transición
 
 > [!ABSTRACT] Hipótesis Informativa
-> "La Coordinadora" constituyó la **primera tecnocracia de cuadros de la democracia argentina moderna**. Surgida de la juventud radical, su función fue administrar la transición del poder militar al **Consenso de [[Tier B]]**. Bajo el liderazgo de figuras como **[[Enrique Coti Nosiglia\|Coti Nosiglia]]**, el grupo transformó la militancia ética en una estructura de **gestión de cajas del Estado** y mediación corporativa. La Coordinadora diseñó el modelo de "operador político" moderno, asegurando que la alternancia democrática no interfiriera con los intereses de fondo del [[Tier A]] y estableciendo los puentes de impunidad judicial que definirían la política argentina por las décadas siguientes.
+> "La Coordinadora" constituyó la **primera tecnocracia de cuadros de la democracia argentina moderna**. Surgida de la juventud radical, su función fue administrar la transición del poder militar al **Consenso de [[Tier B]]**. Bajo el liderazgo de figuras como **[[Enrique _Coti_ Nosiglia\|Coti Nosiglia]]**, el grupo transformó la militancia ética en una estructura de **gestión de cajas del Estado** y mediación corporativa. La Coordinadora diseñó el modelo de "operador político" moderno, asegurando que la alternancia democrática no interfiriera con los intereses de fondo del [[Tier A]] y estableciendo los puentes de impunidad judicial que definirían la política argentina por las décadas siguientes.
 
 ## Análisis De Tiers
 
 ### Tier A: Los Curadores De La Estabilidad Del Régimen
 * **La Garantía de Continuidad:** Para el Tier A financiero y diplomático, la Coordinadora fue el interlocutor necesario para asegurar que el fin de la dictadura no derivara en un desborde revolucionario o en un default de la deuda externa. El Tier A delegó en estos "jóvenes brillantes" la tarea de domesticar las expectativas del [[Tier C]], asegurando que el diseño macroeconómico permaneciera alineado con las directrices internacionales a cambio de permitirles el manejo discrecional de la burocracia doméstica.
-* **El Puente Nosiglia:** A través de **[[Enrique Coti Nosiglia]]**, el Tier A mantuvo un canal de comunicación permanente con el peronismo (su supuesto enemigo), demostrando que la Coordinadora era el pegamento que mantenía unido al **Unipartido Argentino** bajo el disfraz del radicalismo.
+* **El Puente Nosiglia:** A través de **[[Enrique _Coti_ Nosiglia\|Enrique Coti Nosiglia]]**, el Tier A mantuvo un canal de comunicación permanente con el peronismo (su supuesto enemigo), demostrando que la Coordinadora era el pegamento que mantenía unido al **Unipartido Argentino** bajo el disfraz del radicalismo.
 
 ### Tier B: Los Administradores Del Botón Del Estado (La Cúpula)
 * **Captura de Empresas Públicas:** Durante el gobierno de Alfonsín, los miembros de la Coordinadora ocuparon puestos clave en la gestión de servicios públicos y comunicaciones. Su función de Tier B fue utilizar estos recursos para construir una base de poder territorial y mediático, a menudo priorizando la "caja" política sobre la eficiencia del servicio. Este proceso de vaciamiento deliberado (o por ineptitud técnica) fue el pretexto perfecto utilizado por el Tier A en la década siguiente para justificar la ola de privatizaciones de los años 90.
@@ -33,7 +33,7 @@ publish: true
 
 ## Conexiones Críticas
 - [[Raúl Alfonsín]]: El líder carismático que proporcionó la cobertura moral al grupo.
-- [[Enrique Coti Nosiglia]]: El cerebro operativo y sobreviviente que trascendió la extinción del grupo.
+- [[Enrique _Coti_ Nosiglia\|Enrique Coti Nosiglia]]: El cerebro operativo y sobreviviente que trascendió la extinción del grupo.
 - [[UCR]]: La cáscara institucional utilizada para el asalto al poder.
 - [[Pacto de Olivos]]: El desenlace lógico de la política de acuerdos de cúpula iniciada por la Coordinadora.
 - [[Enrique Nosiglia / Comodoro Py]]: El legado de control judicial que permanece activo.
@@ -45,6 +45,7 @@ La Coordinadora fue el **"Punto Cero de la Modernización de la Casta"**. Su imp
 **Versión:** 2.0
 **Enfoque:** Rol del grupo en la transición democrática, creación del sistema de "operadores políticos" (Coti Nosiglia) y la gestión de empresas públicas como base de financiamiento de la casta moderna.
 **Estado:** Refactorización Completa.
+
 
 
 

@@ -1,5 +1,5 @@
 ---
-titulo: "Sebastián Eskenazi (v2.0): El Prestamista De La Matrix Política Argentina"
+titulo: "Sebastián Eskenazi (TL V.2): El Prestamista De La Matrix Política Argentina"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [burford, matrix, nstor, poltica]
 publish: true
 ---
-# Sebastián Eskenazi (v2.0): El Prestamista De La Matrix Política Argentina
+# Sebastián Eskenazi (TL V.2): El Prestamista De La Matrix Política Argentina
 
 > [!ABSTRACT] Hipótesis Informativa
 > Sebastián Eskenazi es el **Operador de [[Tier B]]** que personifica la "burguesía nacional" fabricada por el kirchnerismo para capturar activos estratégicos del Estado. Como líder del **Grupo Petersen**, Eskenazi ingresó a **[[YPF]]** sin poner capital propio, pagando su participación con los mismos dividendos de la petrolera, en un esquema de "argentinización" que resultó en un vaciamiento técnico. Su función real es la de un **"Intermediario de la Captura de Renta"**: actuar como el rostro privado de una estructura de poder político que drenó la riqueza de la nación, dejando una deuda multimillonaria que hoy reclama el fondo **[[Burford Capital]]** en tribunales de Nueva York.
@@ -41,7 +41,8 @@ Sebastián Eskenazi nos enseña que **el capitalismo de amigos es la forma más 
 ---
 **Versión:** 2.0
 **Enfoque:** Eskenazi como beneficiario de la "argentinización" de YPF, su rol en el vaciamiento de la petrolera mediante el reparto de dividendos y la conexión con el juicio de Burford Capital que hipoteca a la Argentina.
-**Estado:** Refactoreado a v2.0 - Framework de Capitalismo de Amigos y Corrupción Estructural.
+**Estado:** Refactoreado a TL V.2 - Framework de Capitalismo de Amigos y Corrupción Estructural.
+
 
 
 

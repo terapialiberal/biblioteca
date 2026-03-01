@@ -1,5 +1,5 @@
 ---
-titulo: "Rhodes Trust (v2.0): El Criadero De Los Gestores De La Matrix"
+titulo: "Rhodes Trust (TL V.2): El Criadero De Los Gestores De La Matrix"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [bill, criadero, matrix, trust]
 publish: true
 ---
-# Rhodes Trust (v2.0): El Criadero De Los Gestores De La Matrix
+# Rhodes Trust (TL V.2): El Criadero De Los Gestores De La Matrix
 
 > [!ABSTRACT] Hipótesis Informativa
 > El Rhodes Trust es la **Infraestructura de Reclutamiento de Ã‰lite de [[Tier A]]** más influyente del mundo anglosajón. Establecido bajo el testamento del magnate de los diamantes **[[Cecil Rhodes]]**, su objetivo fundacional no fue la excelencia académica por sí misma, sino el entrenamiento de una casta de administradores (los **Rhodes Scholars**) dedicados a la reunificación del mundo bajo la hegemonía anglo-americana. Su función real es la **Infiltración Institucional**: colocar a jóvenes brillantes seleccionados en posiciones clave de los gobiernos, la banca y los medios de comunicación de **[[Tier B]]**, asegurando que el destino de las naciones sea gestionado por individuos con una lealtad subconsciente a la agenda globalista.
@@ -39,7 +39,8 @@ El Rhodes Trust nos enseña que **el poder no se hereda solo por sangre, sino po
 ---
 **Versión:** 2.0
 **Enfoque:** La herencia de Cecil Rhodes, el reclutamiento de líderes para la agenda anglo-americana (Rhodes Scholars) y la conexión con la red de sociedades secretas descrita por Carroll Quigley.
-**Estado:** Refactoreado a v2.0 - Framework de Arquitectura de Poder y Redes de Ã‰lite.
+**Estado:** Refactoreado a TL V.2 - Framework de Arquitectura de Poder y Redes de Ã‰lite.
+
 
 
 

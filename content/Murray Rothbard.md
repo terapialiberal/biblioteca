@@ -1,5 +1,5 @@
 ---
-titulo: "Murray Rothbard (v2.0): El Desprogramador Del Estado"
+titulo: "Murray Rothbard (TL V.2): El Desprogramador Del Estado"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [estado, ludwig, mises, rothbard]
 publish: true
 ---
-# Murray Rothbard (v2.0): El Desprogramador Del Estado
+# Murray Rothbard (TL V.2): El Desprogramador Del Estado
 
 > [!ABSTRACT] Hipótesis Informativa
 > Murray Rothbard es el **Intelectual Más Peligroso para el [[Tier B]]** (Estado Administrativo). Al fusionar la economía austríaca con los derechos naturales, creó el **Anarcocapitalismo**: un sistema lógico cerrado que define al Estado no como un contrato social, sino como una **"Banda de Ladrones con Escritura Pública"**. Su obra "Anatomía del Estado" es la pastilla roja definitiva: desmantela la legitimidad moral de los impuestos y la guerra. Sin embargo, su legado es un arma de doble filo: mientras busca liberar al **[[Tier C]]**, sus argumentos de privatización total pueden ser cooptados por el **[[Tier A]]** corporativo para justificar la creación de **Ciudadelas Privadas** y un orden neofeudal donde la ley la dicta quien la paga.
@@ -39,7 +39,8 @@ Murray Rothbard es el hombre que dijo que el Emperador iba desnudo y además era
 ---
 **Versión:** 2.0
 **Enfoque:** Rol como creador del Anarcocapitalismo, deslegitimación moral del Estado (PNA), advertencia sobre el uso corporativo de sus ideas y conexión con el movimiento paleolibertario actual.
-**Estado:** Refactoreado a v2.0 - Framework de Abolicionismo Estatal.
+**Estado:** Refactoreado a TL V.2 - Framework de Abolicionismo Estatal.
+
 
 
 

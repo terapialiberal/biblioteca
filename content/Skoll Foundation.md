@@ -1,5 +1,5 @@
 ---
-titulo: "Skoll Foundation (v2.0): El Lavado De Cara Del Capitalismo De Plataformas"
+titulo: "Skoll Foundation (TL V.2): El Lavado De Cara Del Capitalismo De Plataformas"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [capitalismo, ebay, foundation, skoll]
 publish: true
 ---
-# Skoll Foundation (v2.0): El Lavado De Cara Del Capitalismo De Plataformas
+# Skoll Foundation (TL V.2): El Lavado De Cara Del Capitalismo De Plataformas
 
 > [!ABSTRACT] Hipótesis Informativa
 > La Skoll Foundation es la **Plataforma de Influencia de [[Tier B]]** creada por **Jeff Skoll** (primer presidente de **[[eBay]]**) para moldear la percepción social y política global. Bajo el disfraz del "emprendimiento social" y el "cambio sistémico", su función real es la de un **"Agente de Ingeniería de Narrativas Corporativas"**: utiliza la inmensa riqueza generada por la Silicon Valley primitiva para financiar proyectos audiovisuales y sociales que normalicen las agendas del **[[Tier A]]** (clima, salud global, justicia social tecnocrática). A través de su brazo cinematográfico, **[[Participant Media]]**, la fundación ha operado como el departamento de propaganda de la Matrix, produciendo documentales y películas que preparan psicológicamente al **[[Tier C]]** para las transformaciones estructurales de la élite.
@@ -41,7 +41,8 @@ La Skoll Foundation nos enseña que **el cine y la caridad son las formas modern
 ---
 **Versión:** 2.0
 **Enfoque:** Skoll como vehículo de influencia cultural de Silicon Valley, el rol de Participant Media en la programación predictiva, la cooptación del activismo social a través de premios y la conexión con las agendas globales de clima y salud de Tier A.
-**Estado:** Refactoreado a v2.0 - Framework de Filantropía y Poder de Medios.
+**Estado:** Refactoreado a TL V.2 - Framework de Filantropía y Poder de Medios.
+
 
 
 

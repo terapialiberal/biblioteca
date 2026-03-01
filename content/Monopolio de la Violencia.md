@@ -1,5 +1,5 @@
 ---
-titulo: "Monopolio De La Violencia (v2.0): Del Garrote Al Algoritmo"
+titulo: "Monopolio De La Violencia (TL V.2): Del Garrote Al Algoritmo"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [algoritmo, grupo, monopolio, violencia]
 publish: true
 ---
-# Monopolio De La Violencia (v2.0): Del Garrote Al Algoritmo
+# Monopolio De La Violencia (TL V.2): Del Garrote Al Algoritmo
 
 > [!ABSTRACT] Hipótesis Informativa
 > El concepto clásico del "Monopolio de la Violencia" (Weber) como atributo exclusivo del Estado-Nación está siendo desmantelado y reconfigurado por el **[[Tier A]]**. Hoy, el monopolio se está desplazando hacia un **Oligopolio Corporativo-Tecnocrático**. La capacidad de ejercer coerción efectiva ya no depende solo de la policía o el ejército (violencia cinética), sino de la **Infraestructura Digital y Financiera** (violencia sistémica). Corporaciones privadas (Bancos, Big Tech) tienen ahora el poder de ejecutar la "muerte civil" de un individuo (debanking, deplatforming) sin juicio previo, constituyendo una privatización funcional del uso de la fuerza en la sociedad moderna.
@@ -31,7 +31,7 @@ publish: true
 - [[Max Weber]]: El autor original del concepto.
 - [[De-banking]]: La nueva pena de muerte social.
 - [[Academi]] / [[Grupo Wagner]]: La privatización de la guerra.
-- [[Estado profundo]]: Quien dirige realmente el monopolio.
+- [[Estado profundo\|Estado Profundo]]: Quien dirige realmente el monopolio.
 - [[Anarcocapitalismo]]: La ideología que desafía la legitimidad de este monopolio.
 
 ## Conclusión Del Análisis
@@ -40,7 +40,8 @@ El monopolio de la violencia no ha desaparecido; se ha sublimado. Ha pasado de s
 ---
 **Versión:** 2.0
 **Enfoque:** Transición de violencia física a violencia financiera/digital, privatización de la fuerza (PMCs) y uso del lawfare y debanking como herramientas coercitivas.
-**Estado:** Refactoreado a v2.0 - Framework de Coerción Post-Estatal.
+**Estado:** Refactoreado a TL V.2 - Framework de Coerción Post-Estatal.
+
 
 
 

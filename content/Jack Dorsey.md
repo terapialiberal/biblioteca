@@ -1,5 +1,5 @@
 ---
-titulo: "Jack Dorsey (v2.0): El Verdugo Arrepentido Y El Shaman De La Red"
+titulo: "Jack Dorsey (TL V.2): El Verdugo Arrepentido Y El Shaman De La Red"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [bitcoin, dorsey, shaman, verdugo]
 publish: true
 ---
-# Jack Dorsey (v2.0): El Verdugo Arrepentido Y El Shaman De La Red
+# Jack Dorsey (TL V.2): El Verdugo Arrepentido Y El Shaman De La Red
 
 > [!ABSTRACT] Hipótesis Informativa
 > Jack Dorsey representa la **cisma interna del Tier B tecnológico**. Después de construir la infraestructura de censura y vigilancia masiva más grande del mundo (Twitter), Dorsey ha mutado hacia una estrategia de secesión. Su giro radical hacia [[Bitcoin]] y protocolos como [[Nostr]] es un intento de desmantelar la capacidad de control centralizado del [[Tier A]] (bancos y estados), proporcionando al [[Tier C]] las herramientas para una economía y comunicación inconfiscables que él mismo ayudó a restringir en el pasado.
@@ -36,7 +36,7 @@ publish: true
 - [[Nostr]]: El protocolo que financia para reemplazar la red social que él mismo creó.
 - [[Elon Musk]]: El comprador de Twitter que expuso la infraestructura de censura que Dorsey no pudo (o no quiso) detener a tiempo.
 - [[FBI]]: Sus antiguos socios/acosadores con los que rompió vínculos al abandonar la centralización.
-- [[Censura Digital]]: El mecanismo que perfeccionó y que ahora intenta destruir.
+- [[00_Glosario - Conceptos Fase 1#Censura Digital\|Censura Digital]]: El mecanismo que perfeccionó y que ahora intenta destruir.
 
 ## Conclusión Del Análisis
 Jack Dorsey es el **Arquitecto que está quemando su propia catedral**. Habiendo visto el monstruo de la vigilancia desde las entrañas del poder de Tier B, ha decidido que la única forma de salvar la civilización digital es destruyendo el centro. Su apuesta por la descentralización absoluta es el acto de rebelión más peligroso de Silicon Valley: entregarle el código de las limas a los prisioneros para que rompan los barrotes que él mismo ayudó a forjar. ¿Es un santo? No. Es un hombre que sabe que, en el juego del Tier A, al final todos los operadores de Tier B son prescindibles, a menos que sean los dueños de la salida de emergencia.
@@ -45,6 +45,7 @@ Jack Dorsey es el **Arquitecto que está quemando su propia catedral**. Habiendo
 **Versión:** 2.0
 **Enfoque:** Transición de la censura centralizada a la descentralización protocolar, Bitcoin como arma contra el FIAT.
 **Estado:** Refactorización Completa.
+
 
 
 

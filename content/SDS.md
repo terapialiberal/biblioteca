@@ -1,5 +1,5 @@
 ---
-titulo: "SDS: Supranational Deep State (v2.0): El Sistema Operativo De La Matrix Global"
+titulo: "SDS: Supranational Deep State (TL V.2): El Sistema Operativo De La Matrix Global"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [deep, matrix, riia, state]
 publish: true
 ---
-# SDS: Supranational Deep State (v2.0): El Sistema Operativo De La Matrix Global
+# SDS: Supranational Deep State (TL V.2): El Sistema Operativo De La Matrix Global
 
 > [!ABSTRACT] Hipótesis Informativa
 > El Supranational Deep State (SDS) es la **Arquitectura de Poder de [[Tier A]]** que coordina las agendas de los estados profundos nacionales para imponer una gobernanza global unificada. A diferencia de los gobiernos visibles, el SDS opera a través de redes de inteligencia entrelazadas, bancos centrales coordinados y organismos transnacionales que no responden a ningún electorado soberano. Su función real es la de una **"Capa de Abstracción del Poder"**: asegurar que, independientemente del resultado electoral en el **[[Tier C]]**, las políticas fundamentales (moneda, guerra, energía, vigilancia) permanezcan bajo el control de una élite tecnocrática que sirve a los intereses de la Matrix financiera global.
@@ -26,7 +26,7 @@ publish: true
 ## ¸ Mecanisms De Poder (Soberanía Y Tecnología)
 
 1.  **Orquestación de Eventos Catalizadores**: Uso de crisis globales (pandemias, crisis financieras, amenazas climáticas) para justificar la transferencia de soberanía desde las naciones hacia instituciones del SDS (como el Tratado de Pandemias de la OMS).
-2.  **Captura del Sistema Monetario**: Control centralizado a través del **[[BIS (Banco de Pagos Internacionales)]]** para asegurar que ninguna nación pueda desviarse de la ortodoxia financiera impuesta por el SDS sin enfrentar el colapso económico total.
+2.  **Captura del Sistema Monetario**: Control centralizado a través del **[[Banco de Pagos Internacionales\|BIS (Banco de Pagos Internacionales)]]** para asegurar que ninguna nación pueda desviarse de la ortodoxia financiera impuesta por el SDS sin enfrentar el colapso económico total.
 
 ## Conexiones Críticas
 - [[Estado profundo]]: La base nacional que nutre al SDS.
@@ -41,7 +41,8 @@ El SDS nos enseña que **la soberanía nacional es un holograma en la era de la 
 ---
 **Versión:** 2.0
 **Enfoque:** El SDS como red de estados profundos nacionales coordinados, su rol en la imposición de agendas globales (COVID, clima) y el uso de instituciones transnacionales (ONU, FMI, Bilderberg) para anular las democracias nacionales.
-**Estado:** Refactoreado a v2.0 - Framework de Gobernanza Supranacional y Control Global.
+**Estado:** Refactoreado a TL V.2 - Framework de Gobernanza Supranacional y Control Global.
+
 
 
 

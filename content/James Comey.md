@@ -1,5 +1,5 @@
 ---
-titulo: "James Comey (v2.0): El Gestor De La Continuidad Burocrática"
+titulo: "James Comey (TL V.2): El Gestor De La Continuidad Burocrática"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [burocrtica, comey, continuidad, robert]
 publish: true
 ---
-# James Comey (v2.0): El Gestor De La Continuidad Burocrática
+# James Comey (TL V.2): El Gestor De La Continuidad Burocrática
 
 > [!ABSTRACT] Hipótesis Informativa
 > James Comey personifica la **puerta giratoria entre el Complejo Militar-Industrial y la policía política**. Su carrera, que transita desde la dirección de defensa de [[Lockheed Martin]] hasta la cúpula del [[FBI]], demuestra que no es un servidor de la justicia, sino un **agente de la continuidad institucional**. Su función para el [[Tier A]] fue gestionar las discrepancias de la élite política mediante el uso táctico de expedientes judiciales, asegurando que el Estado Profundo mantuviera el control de la narrativa independientemente de los resultados electorales de 2016.
@@ -45,6 +45,7 @@ James Comey es el **"Mozo del Deep State"**: el tipo que sabe exactamente qué p
 **Versión:** 2.0
 **Enfoque:** Continuidad burocrática, el nexo entre industria de defensa y justicia, y el uso del Lawfare en la política estadounidense.
 **Estado:** Refactorización Completa.
+
 
 
 

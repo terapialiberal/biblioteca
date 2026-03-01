@@ -1,5 +1,5 @@
 ---
-titulo: "Sandra Pettovello (v2.0): La Liquidadora Del Clientelismo Kirchnerista"
+titulo: "Sandra Pettovello (TL V.2): La Liquidadora Del Clientelismo Kirchnerista"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [clientelismo, gerentes, liquidadora, pettovello]
 publish: true
 ---
-# Sandra Pettovello (v2.0): La Liquidadora Del Clientelismo Kirchnerista
+# Sandra Pettovello (TL V.2): La Liquidadora Del Clientelismo Kirchnerista
 
 > [!ABSTRACT] Hipótesis Informativa
 > Sandra Pettovello es la **Operadora de [[Tier B]]** encargada de la reingeniería total del sistema de asistencia social en Argentina. Como titular del superministerio de **Capital Humano**, su misión es desmantelar la estructura de intermediación de los **[[Gerentes de la Pobreza]]** que ha mantenido al **[[Tier C]]** cautivo durante décadas. Su función real es la de una **"Auditora de la Caja Política"**: secar el financiamiento de los grupos de choque piqueteros y centralizar la ayuda estatal mediante la digitalización del padrón, eliminando el poder de los punteros políticos en el territorio.
@@ -39,7 +39,8 @@ Sandra Pettovello nos enseña que **quien controla la logística del hambre, con
 ---
 **Versión:** 2.0
 **Enfoque:** Pettovello como ministra de Capital Humano, su guerra contra la intermediación piquetera, el escándalo de los alimentos retenidos y la centralización de los planes sociales.
-**Estado:** Refactoreado a v2.0 - Framework de Asistencia Social y Política Argentina.
+**Estado:** Refactoreado a TL V.2 - Framework de Asistencia Social y Política Argentina.
+
 
 
 

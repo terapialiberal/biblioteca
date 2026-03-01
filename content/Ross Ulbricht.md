@@ -1,5 +1,5 @@
 ---
-titulo: "Ross Ulbricht (v2.0): El Sacrificio En El Altar De La Libertad Digital"
+titulo: "Ross Ulbricht (TL V.2): El Sacrificio En El Altar De La Libertad Digital"
 tipo: persona
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [bitcoin, digital, silk]
 publish: true
 ---
-# Ross Ulbricht (v2.0): El Sacrificio En El Altar De La Libertad Digital
+# Ross Ulbricht (TL V.2): El Sacrificio En El Altar De La Libertad Digital
 
 > [!ABSTRACT] Hipótesis Informativa
 > Ross Ulbricht es la **Víctima de [[Tier C]]** y el símbolo de la guerra total del Estado contra la **Soberanía Digital**. Creador de **Silk Road**, el primer mercado negro descentralizado basado en Tor y Bitcoin, Ulbricht buscó crear un espacio de intercambio voluntario libre de la interferencia estatal. Su función real en la historia de la Matrix fue la de un **"Chivo Expiatorio Táctico"**: su condena a **dos cadenas perpetuas más 40 años** (sin posibilidad de libertad condicional) no fue por sus crímenes, sino para enviar un mensaje de terror a los desarrolladores de tecnología de privacidad, estableciendo el precedente de que el Estado responsabilizará al arquitecto de un sistema por las acciones de sus usuarios.
@@ -41,7 +41,8 @@ Ross Ulbricht nos enseña que **las herramientas de libertad son tratadas como a
 ---
 **Versión:** 2.0
 **Enfoque:** Ross Ulbricht como mártir de la libertad digital y Silk Road, la desproporcionada justicia de EE.UU. como mensaje de control a los cripto-anarquistas y la corrupción de los agentes que lo capturaron.
-**Estado:** Refactoreado a v2.0 - Framework de Soberanía Digital y Justicia Penal.
+**Estado:** Refactoreado a TL V.2 - Framework de Soberanía Digital y Justicia Penal.
+
 
 
 

@@ -1,21 +1,18 @@
 ---
+titulo: Edgar Bronfman
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [bronfman, edgar, mega, meyer]
 publish: true
-created: 2026-01-29T19:17:10.860-03:00
-modified: 2026-02-27T13:22:31.830-03:00
-tags:
-  - bronfman
-  - edgar
-  - mega
-  - meyer
-cssclasses: ""
 ---
-
 # Edgar Bronfman
 
 ## Perfil TL (Resumen Ejecutivo)
 **¿Quién era?** Heredero del imperio de destilados **Seagram** y una de las figuras políticas y financieras más influyentes del siglo XX, sirviendo como presidente del **Congreso Judío Mundial (WJC)** durante 26 años.
 
-**¿Por qué importa?** Edgar Bronfman personifica la transición del **crimen organizado hacia la legitimidad de Tier A**. La inmensa fortuna familiar fue construida por su padre, **Sam Bronfman**, mediante el contrabando masivo de alcohol durante la Prohibición en EE.UU., operando en alianza directa con el sindicato del crimen de **[[Meyer Lansky]]**. Edgar utilizó este "capital originario" para comprar un asiento en la mesa del poder global, convirtiéndose en el interlocutor necesario entre el Estado de Israel, las naciones occidentales y la Unión Soviética. Fue un miembro clave del **[[Mega Group]]**, el círculo ultra-exclusivo de billonarios (junto a [[Les Wexner]]) obsesionado con la captura de influencia política y la seguridad nacional. Su clan ha estado permanentemente vinculado a operaciones de inteligencia y escándalos que rozan lo profundo (como el caso NXIVM con su hija Clare).
+**¿Por qué importa?** Edgar Bronfman personifica la transición del **crimen organizado hacia la legitimidad de Tier A**. La inmensa fortuna familiar fue construida por su padre, **Sam Bronfman**, mediante el contrabando masivo de alcohol durante la Prohibición en EE.UU., operando en alianza directa con el sindicato del crimen de **[[00_Glosario - Conceptos Fase 1#Meyer Lansky\|Meyer Lansky]]**. Edgar utilizó este "capital originario" para comprar un asiento en la mesa del poder global, convirtiéndose en el interlocutor necesario entre el Estado de Israel, las naciones occidentales y la Unión Soviética. Fue un miembro clave del **[[Mega Group]]**, el círculo ultra-exclusivo de billonarios (junto a [[Les Wexner]]) obsesionado con la captura de influencia política y la seguridad nacional. Su clan ha estado permanentemente vinculado a operaciones de inteligencia y escándalos que rozan lo profundo (como el caso NXIVM con su hija Clare).
 
 ## Análisis De Poder (Tiers)
 
@@ -32,7 +29,7 @@ cssclasses: ""
 
 ## Conexiones Clave
 - [[Sam Bronfman]] (El patriarca contrabandista)
-- [[Meyer Lansky]] (Socio histórico de la familia)
+- [[00_Glosario - Conceptos Fase 1#Meyer Lansky\|Meyer Lansky]] (Socio histórico de la familia)
 - [[Les Wexner]] (Colega en Mega Group)
 - [[Jeffrey Epstein]] (Orbió en el círculo del Mega Group financiado por Bronfman/Wexner)
 - [[Chabad Lubavitch]] (Organización que financiaban masivamente)

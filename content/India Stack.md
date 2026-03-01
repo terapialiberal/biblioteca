@@ -1,15 +1,12 @@
 ---
+titulo: "India Stack (Aadhaar): El Plano Maestro Del Control Digital"
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [aadhaar, digital, plano, stack]
 publish: true
-created: 2026-02-25T13:59:19.024-03:00
-modified: 2026-02-27T13:22:55.545-03:00
-tags:
-  - aadhaar
-  - digital
-  - plano
-  - stack
-cssclasses: ""
 ---
-
 # India Stack (Aadhaar): El Plano Maestro Del Control Digital
 
 > [!ABSTRACT] BLUF (Bottom Line Up Front)
@@ -44,6 +41,7 @@ cssclasses: ""
 ---
 **Falsabilidad**: Si se produce un robo masivo de datos biométricos que colapse la confianza en el sistema o si surge una red de pagos P2P encriptada (tipo Monero/Cash) que logre escala masiva en la India, el modelo Stack de control centralizado se vería seriamente amenazado.
 
-*Versión: 1.0 | Protocolo TL-INTEL v12_0*
+*Versión: 1.0 | Protocolo TL-INTEL TL V.2*
+
 
 

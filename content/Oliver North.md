@@ -1,15 +1,12 @@
 ---
+titulo: Oliver North
+tipo: persona
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [irn, john, north, oliver]
 publish: true
-created: 2026-01-29T19:17:28.014-03:00
-modified: 2026-02-27T13:06:57.607-03:00
-tags:
-  - irn
-  - john
-  - north
-  - oliver
-cssclasses: ""
 ---
-
 # Oliver North
 
 > **Perfil TL:** El operador militar que conecta narcotráfico, armas ilegales, ley marcial y los orígenes de la vigilancia masiva.
@@ -30,13 +27,13 @@ Tras ser condenado y luego exonerado, se convirtió en presentador de Fox News y
 ## Red De Conexiones
 - **Jefes:** [[William Casey]], [[John Poindexter]]
 - **Operaciones:** [[Irán-Contra]], [[Rex 84]], [[Mena Arkansas]]
-- **Conexión con drogas:** [[Barry Seal]], [[CIA y Narcotráfico]]
+- **Conexión con drogas:** [[Barry Seal]], [[CIA Narcotráfico\|CIA y Narcotráfico]]
 
 ## Conexiones Clave
 - [[Irán-Contra]]
 - [[Rex 84]]
 - [[John Poindexter]]
-- [[FEMA]]
+- [[00_Glosario - Conceptos Fase 1#FEMA\|FEMA]]
 - [[Barry Seal]]
 
 ## Fuentes
