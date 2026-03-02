@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:05.704-03:00
-modified: 2026-02-27T13:07:51.985-03:00
+modified: 2026-02-27T13:07:46.303-03:00
 tags:
   - blackrock
   - boicot

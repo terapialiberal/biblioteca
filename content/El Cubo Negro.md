@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-25T22:26:11.622-03:00
-modified: 2026-02-27T13:23:07.702-03:00
+modified: 2026-02-27T13:22:34.561-03:00
 tags:
   - cubo
   - negro

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-25T22:08:32.746-03:00
-modified: 2026-02-27T13:23:41.241-03:00
+modified: 2026-02-27T13:22:53.470-03:00
 tags:
   - cabal
   - golem

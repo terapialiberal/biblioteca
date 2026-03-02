@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:18.091-03:00
-modified: 2026-02-27T13:07:13.940-03:00
+modified: 2026-02-27T13:06:53.904-03:00
 tags:
   - banco
   - efecto

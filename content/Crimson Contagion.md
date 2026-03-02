@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:09.088-03:00
-modified: 2026-02-27T13:21:18.925-03:00
+modified: 2026-02-27T13:21:14.522-03:00
 tags:
   - crimson-contagion
   - simulacion-pandemia

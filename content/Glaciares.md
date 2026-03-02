@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:15.349-03:00
-modified: 2026-02-27T13:23:31.382-03:00
+modified: 2026-02-27T13:22:47.200-03:00
 tags:
   - barrick
   - cristina

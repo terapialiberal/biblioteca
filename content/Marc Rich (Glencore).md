@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:23.734-03:00
-modified: 2026-02-27T13:07:15.591-03:00
+modified: 2026-02-27T13:06:56.681-03:00
 tags:
   - glencore
   - marc

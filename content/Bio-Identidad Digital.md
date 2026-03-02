@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-25T22:15:02.519-03:00
-modified: 2026-02-27T13:22:27.341-03:00
+modified: 2026-02-27T13:22:04.517-03:00
 tags:
   - cbdcs
   - crdito

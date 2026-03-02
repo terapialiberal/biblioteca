@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:18.304-03:00
-modified: 2026-02-27T13:23:44.581-03:00
+modified: 2026-02-27T13:22:55.554-03:00
 tags:
   - brics
   - india

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:23.366-03:00
-modified: 2026-02-27T13:24:27.003-03:00
+modified: 2026-02-27T13:23:17.538-03:00
 tags:
   - hubbert
   - king

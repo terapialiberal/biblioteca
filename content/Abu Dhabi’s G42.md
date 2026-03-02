@@ -1,11 +1,12 @@
 ---
-titulo: Abu Dhabi’s G42
-tipo: 'organizacion'
-tier-primario: 'a'
-nivel-evidencia: 'medio'
-tags: [clasificado-ai]
 publish: true
+created: 2026-02-25T13:55:07.387-03:00
+modified: 2026-03-01T17:20:29.891-03:00
+tags:
+  - clasificado-ai
+cssclasses: ""
 ---
+
 ﻿---
 titulo: "Abu Dhabis G42: El Hub De Inteligencia Del Desierto"
 tipo: persona

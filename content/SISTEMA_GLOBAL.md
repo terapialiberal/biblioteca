@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:02.115-03:00
-modified: 2026-02-27T16:46:41.794-03:00
+modified: 2026-02-27T16:46:37.880-03:00
 tags:
   - sistema-global
   - familias-dinásticas

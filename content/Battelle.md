@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:04.923-03:00
-modified: 2026-02-27T13:22:24.060-03:00
+modified: 2026-02-27T13:22:03.191-03:00
 tags:
   - battelle
   - darpa

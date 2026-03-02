@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:26.601-03:00
-modified: 2026-02-27T13:24:43.228-03:00
+modified: 2026-02-27T13:23:27.711-03:00
 tags:
   - banco
   - financiera

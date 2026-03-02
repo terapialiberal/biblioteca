@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:03.494-03:00
-modified: 2026-02-27T13:22:14.233-03:00
+modified: 2026-02-27T13:21:59.022-03:00
 tags:
   - anarcocapitalismo
   - gustave_le_bon

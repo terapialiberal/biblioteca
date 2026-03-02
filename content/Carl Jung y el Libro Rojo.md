@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-25T22:08:53.576-03:00
-modified: 2026-02-27T13:22:40.706-03:00
+modified: 2026-02-27T13:22:14.923-03:00
 tags:
   - carl
   - libro

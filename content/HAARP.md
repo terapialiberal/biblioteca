@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:16.642-03:00
-modified: 2026-02-27T13:06:47.625-03:00
+modified: 2026-02-27T13:06:26.326-03:00
 tags:
   - haarp
   - ionosfrica

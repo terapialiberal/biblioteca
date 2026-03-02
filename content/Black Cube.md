@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:05.514-03:00
-modified: 2026-02-27T13:07:45.777-03:00
+modified: 2026-02-27T13:07:37.315-03:00
 tags:
   - black
   - cube

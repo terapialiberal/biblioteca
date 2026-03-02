@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:17.874-03:00
-modified: 2026-02-27T13:07:49.417-03:00
+modified: 2026-02-27T13:07:42.284-03:00
 tags:
   - pacto
   - quincy

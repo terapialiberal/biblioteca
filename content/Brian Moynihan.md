@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:05.845-03:00
-modified: 2026-02-27T13:22:33.125-03:00
+modified: 2026-02-27T13:22:07.285-03:00
 tags:
   - bank
   - brian
