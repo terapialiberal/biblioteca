@@ -144,6 +144,7 @@ publish: true
 - [[05_Videos_Publicados/2025/2025-10-24_El_RESET_MALTHUSIANO_GEOPOLITICA/MOC\|MOC]]
 - [[99_AI/04_Herramientas_Externas/Monica prompt de analisis\|Monica prompt de analisis]]
 - [[Patron - Weaponization (Armamentizacion)\|Patron - Weaponization (Armamentizacion)]]
+- [[99_AI/03_Prompts/05_DISTRIBUCION/Dossier Mensual para Inversores/PROMPT_Dossier_Mensual_v3\|PROMPT_Dossier_Mensual_v3]]
 - [[Retirada de Afganistan\|Retirada de Afganistan]]
 - [[Teoria del Rimland\|Teoria del Rimland]]
 - [[99_AI/02_Transcripts/Trasncript GAZA SA\|Trasncript GAZA SA]]

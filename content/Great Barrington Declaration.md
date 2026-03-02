@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:15.939-03:00
-modified: 2026-02-27T13:07:07.766-03:00
+modified: 2026-02-27T13:07:24.591-03:00
 tags:
   - barrington
   - ciencia

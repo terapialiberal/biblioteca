@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:15.549-03:00
-modified: 2026-02-27T13:22:48.818-03:00
+modified: 2026-02-27T13:23:33.330-03:00
 tags:
   - demiurgo
   - gnosticismo

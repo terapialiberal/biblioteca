@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:23.560-03:00
-modified: 2026-02-27T13:07:00.680-03:00
+modified: 2026-02-27T13:07:18.951-03:00
 tags:
   - consenso
   - manufactura

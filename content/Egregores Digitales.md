@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-25T22:08:52.102-03:00
-modified: 2026-02-27T13:22:33.100-03:00
+modified: 2026-02-27T13:23:03.871-03:00
 tags:
   - digitales
   - egregores

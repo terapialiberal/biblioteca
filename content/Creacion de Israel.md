@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:09.021-03:00
-modified: 2026-02-27T13:07:39.173-03:00
+modified: 2026-03-02T13:18:20.944-03:00
 tags:
   - creacin
   - david

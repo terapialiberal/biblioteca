@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:09.383-03:00
-modified: 2026-02-27T13:07:57.248-03:00
+modified: 2026-03-02T13:18:22.332-03:00
 tags:
   - crdito
   - cuarta

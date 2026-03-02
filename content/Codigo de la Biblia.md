@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-25T22:08:51.225-03:00
-modified: 2026-02-27T13:22:20.163-03:00
+modified: 2026-03-02T13:18:57.228-03:00
 tags:
   - biblia
   - cdigo

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-25T22:08:51.345-03:00
-modified: 2026-02-27T13:22:45.643-03:00
+modified: 2026-03-02T13:18:51.382-03:00
 tags:
   - cabal
   - gematra

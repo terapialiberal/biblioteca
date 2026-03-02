@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:14.264-03:00
-modified: 2026-02-27T13:07:21.735-03:00
+modified: 2026-02-27T13:07:35.112-03:00
 tags:
   - friedrich
   - hayek

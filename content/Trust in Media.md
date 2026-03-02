@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:41.559-03:00
-modified: 2026-02-27T13:07:24.946-03:00
+modified: 2026-02-27T13:07:36.787-03:00
 tags:
   - colapso
   - confianza

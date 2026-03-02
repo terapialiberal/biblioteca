@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:05.257-03:00
-modified: 2026-02-27T13:22:04.449-03:00
+modified: 2026-02-27T13:22:26.237-03:00
 tags:
   - biblia
   - scofield

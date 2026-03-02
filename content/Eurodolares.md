@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:12.602-03:00
-modified: 2026-02-27T13:06:41.838-03:00
+modified: 2026-03-02T13:18:15.159-03:00
 tags:
   - city
   - eurodollar

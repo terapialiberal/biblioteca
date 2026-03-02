@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-25T22:08:52.530-03:00
-modified: 2026-02-27T13:22:35.532-03:00
+modified: 2026-02-27T13:23:08.743-03:00
 tags:
   - alistair
   - hermetismo

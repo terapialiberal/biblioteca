@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:02.807-03:00
-modified: 2026-02-27T13:06:42.559-03:00
+modified: 2026-02-27T13:07:04.300-03:00
 tags:
   - acuerdos
   - oslo

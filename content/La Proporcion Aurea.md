@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-25T22:08:31.796-03:00
-modified: 2026-02-27T13:23:09.665-03:00
+modified: 2026-03-02T13:18:57.245-03:00
 tags:
   - logotipos
   - proporcin

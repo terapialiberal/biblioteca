@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:03.049-03:00
-modified: 2026-02-27T13:06:41.737-03:00
+modified: 2026-02-27T13:07:03.023-03:00
 tags:
   - google
   - neuralink
@@ -35,7 +35,7 @@ El peligro no es "Terminator" (robots disparando), sino manipulación y control 
 
 ## Conexiones
 - [[Sam Altman]]
-- [[99_AI/Legacy/Neuralink & Transhumanismo]]
+- [[Neuralink & Transhumanismo]]
 - [[Google (Origins)]]
 
 ## Fuentes

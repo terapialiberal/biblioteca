@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:43.372-03:00
-modified: 2026-02-27T13:24:08.690-03:00
+modified: 2026-02-27T13:25:55.535-03:00
 tags:
   - buterin
   - ethereum

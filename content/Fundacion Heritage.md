@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:14.460-03:00
-modified: 2026-02-27T13:06:20.984-03:00
+modified: 2026-03-02T13:18:10.980-03:00
 tags:
   - foundation
   - fundacin

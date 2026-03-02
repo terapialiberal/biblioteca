@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:44.218-03:00
-modified: 2026-02-27T13:07:17.023-03:00
+modified: 2026-02-27T13:07:30.285-03:00
 tags:
   - cables
   - julian

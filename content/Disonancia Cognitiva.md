@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:10.358-03:00
-modified: 2026-02-27T13:22:30.725-03:00
+modified: 2026-02-27T13:22:59.665-03:00
 tags:
   - cognitiva
   - disonancia

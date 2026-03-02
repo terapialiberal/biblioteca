@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-25T22:35:50.936-03:00
-modified: 2026-02-27T13:22:42.912-03:00
+modified: 2026-02-27T13:23:24.767-03:00
 tags:
   - arquitectos
   - comercio

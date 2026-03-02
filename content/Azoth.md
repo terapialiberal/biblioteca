@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-25T22:08:55.298-03:00
-modified: 2026-02-27T13:22:02.395-03:00
+modified: 2026-02-27T13:22:21.429-03:00
 tags:
   - azoth
   - confluencia

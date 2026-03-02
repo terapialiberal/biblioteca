@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:08.223-03:00
-modified: 2026-02-27T13:06:56.656-03:00
+modified: 2026-02-27T13:07:15.390-03:00
 tags:
   - cisne
   - colapso

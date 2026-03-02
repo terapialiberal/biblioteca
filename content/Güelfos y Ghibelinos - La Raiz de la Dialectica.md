@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-25T22:40:11.469-03:00
-modified: 2026-02-27T13:22:50.224-03:00
+modified: 2026-03-02T13:18:54.751-03:00
 tags:
   - dialctica
   - ghibelinos

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:24.459-03:00
-modified: 2026-02-27T13:06:25.120-03:00
+modified: 2026-02-27T13:06:44.847-03:00
 tags:
   - company
   - crisis
