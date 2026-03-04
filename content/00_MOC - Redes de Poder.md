@@ -161,6 +161,8 @@ Rhodes Trust ? Round Table ? CFR ? Bilderberg ? Trilateral ? WEF
 ---
 
 - [[01_Ideas/Biblia Scofield 1\|Biblia Scofield 1]]
+- [[Club de Madrid\|Club de Madrid]]
+- [[DTCC\|DTCC]]
 
 
 *MOC expandido: 2026-02-24 | Parte del [[INDEX_MAESTRO]]*

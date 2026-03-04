@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-25T22:27:07.731-03:00
-modified: 2026-03-02T13:18:53.001-03:00
+modified: 2026-02-27T13:23:51.925-03:00
 tags:
   - energa
   - gestin

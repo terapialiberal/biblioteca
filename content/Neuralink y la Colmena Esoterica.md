@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-25T22:14:46.512-03:00
-modified: 2026-03-02T13:18:59.362-03:00
+modified: 2026-02-27T13:23:28.301-03:00
 tags:
   - colmena
   - internet

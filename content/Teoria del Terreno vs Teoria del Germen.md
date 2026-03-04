@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:39.195-03:00
-modified: 2026-03-02T13:18:21.303-03:00
+modified: 2026-02-27T13:07:49.965-03:00
 tags:
   - germen
   - informe

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:09.874-03:00
-modified: 2026-03-02T13:18:32.382-03:00
+modified: 2026-02-27T13:22:28.136-03:00
 tags:
   - balfour
   - declaracin

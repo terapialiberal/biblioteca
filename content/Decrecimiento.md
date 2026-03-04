@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:09.890-03:00
-modified: 2026-02-27T13:22:54.611-03:00
+modified: 2026-02-27T13:22:28.164-03:00
 tags:
   - agenda
   - club

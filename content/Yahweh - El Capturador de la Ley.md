@@ -1,19 +1,39 @@
 ---
 publish: true
 created: 2026-02-25T22:26:17.767-03:00
-modified: 2026-02-27T13:25:59.026-03:00
+modified: 2026-03-04T13:55:11.747-03:00
 tags:
-  - capturador
+  - esoterismo
+  - arquetipo
+  - ley
+  - control
   - yahweh
 cssclasses: ""
 ---
 
+# Yahweh: El Arquetipo del Capturador de la Ley (V.3)
 
-# Yahweh - El Capturador De La Ley
+> [!IMPORTANT] MÓDULO ESOTÉRICO MAESTRO
+> Desde la perspectiva de Terapia Liberal, "Yahweh" no se analiza como una deidad religiosa, sino como un **Arquetipo de Control de Nivel A** que define la lógica de la deuda, el contrato y la ley restrictiva.
 
-> [!ABSTRACT] Hipótesis Informativa
-> **Yahweh** representa la deidad de la **Ley y el Contrato Exclusivo**. Forensemente, es la **Divinidad del Convenio Corporativo**, utilizada para imponer una moralidad de jerarquía técnica y exclusión.
+## 👁️ Análisis de Función Sistémica
+El arquetipo de Yahweh representa la **Captura de la Ley Natural** para convertirla en **Ley Positiva (Humana)**:
+1. **El Contrato (Covenant):** La base del sistema financiero y legal moderno. Se establece una relación de deuda perpetua del individuo hacia la "Autoridad" a cambio de una protección condicionada.
+2. **La Exclusividad:** La fragmentación del mundo en "Elegidos" y "Otros", una técnica milenaria para impedir la cooperación horizontal del Tier C.
+3. **El Castigo (Enforcement):** La justificación del uso de la fuerza y la vigilancia total como herramientas de "rectitud" (Nivel 2).
 
-## Análisis Forense
-(Contenido idéntico al anterior)
-...
+## 🕵️ Nexos con 2026
+La digitalización total (CBDC, ID Digital) es la secularización del arquetipo:
+- **Omnisciencia:** El Ojo que todo lo ve se convierte en la base de datos de [[Palantir CIA]].
+- **Inexorabilidad:** La ley de los algoritmos (Smart Contracts) que no permiten el perdón ni la excepción, replicando la dureza del arquetipo original.
+
+## 🔗 Nodos Conectados
+- **[[Geometria del Gran Sello]]**: El despliegue visual de este poder en el billete de dólar.
+- **[[Modulo Esoterico]]**: El marco general de análisis simbólico de la bóveda.
+- **[[Captura Regulatoria]]**: La versión burocrática de la captura de la ley.
+
+## 📊 Cui Bono
+El **Tier A (Los Dueños)** captura la autoridad última sobre lo que es "lícito". Yahweh es el sigilo que protege la estructura de la deuda infinita.
+
+---
+*TL V.3 | Investigación Arquetípica y Metafísica de Poder*

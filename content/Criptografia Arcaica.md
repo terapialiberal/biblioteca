@@ -1,21 +1,29 @@
 ---
 titulo: Criptografía Arcaica
-tipo: persona
-fecha: 2026-02-25
-tags: [arcaica, criptografa]
-tier-primario: "b"
+tipo: concepto
+tier-primario: "a"
 nivel-evidencia: "medio"
+tags: [tecnologia, historia, criptografia, secretos, poder]
 publish: true
 ---
+# Criptografía Arcaica (V.3)
 
-# Criptografía Arcaica
+> [!TIP] AXIOMA 11: El Silencio como Dato
+> Antes de los bits, el poder se protegía mediante la **Criptografía de la Ocultación**. No se trataba de cifrar archivos, sino de cifrar la realidad misma mediante lenguajes de símbolos.
 
-> [!ABSTRACT] Hipótesis Informativa
-> Nodo perteneciente a la Matrix de Simbolismo y Esoterismo TL V.2.
+## 👁️ Métodos de Nivel 2 en la Historia
+1. **Lenguaje de los Pájaros:** Uso de la homofonía y el doble sentido para comunicar verdades operativas delante del [[Tier C]] sin que este las perciba.
+2. **Steganografía Simbólica:** Inclusión de mensajes de red y geolocalización de poder en pinturas, catedrales y monumentos públicos.
+3. **Cifras de Substitución Rituales:** Uso de alfabetos esotéricos (Enoquiano, Angélico) no para invocar "espíritus", sino como canales de comunicación seguros para el espionaje de la corte.
 
-## Análisis De Tiers
-*En desarrollo...*
+## ⛓️ El Salto a la Modernidad
+La criptografía arcaica es el ancestro directo de la **Criptografía de Curva Elíptica** (ECC):
+- El secreto sigue siendo la base de la soberanía. El [[Tier A]] siempre ha entendido que quien posee la "Llave" (el código de acceso), posee el activo.
 
-## Cui Bono
-*Pendiente de análisis forense.*
+## 🔗 Nodos Relacionados
+- [[John Dee y el Lenguaje Enoquiano]]: El espía 007 original.
+- [[Asonancia Fonetica en Hechizos]]: El uso del sonido como cifrado.
+- [[Bitcoin]]: La secularización total del secreto inmutable.
 
+---
+*TL-INTEL V.3 | Historia de la Inteligencia*

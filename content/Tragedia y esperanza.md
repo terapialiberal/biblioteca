@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:05:11.723-03:00
-modified: 2026-02-27T13:25:46.804-03:00
+modified: 2026-02-27T13:24:04.784-03:00
 tags:
   - quigley
   - historia

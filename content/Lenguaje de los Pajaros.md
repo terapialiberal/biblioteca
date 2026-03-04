@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-25T22:08:54.198-03:00
-modified: 2026-03-02T13:18:54.964-03:00
+modified: 2026-02-27T13:23:12.548-03:00
 tags:
   - fulcanelli
   - gematra

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-25T22:08:57.571-03:00
-modified: 2026-02-27T13:22:21.184-03:00
+modified: 2026-02-27T13:22:02.408-03:00
 tags:
   - aipac
   - rith

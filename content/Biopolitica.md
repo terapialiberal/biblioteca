@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:05.447-03:00
-modified: 2026-03-02T13:18:21.283-03:00
+modified: 2026-02-27T13:07:49.931-03:00
 tags:
   - biopoltica
   - michel

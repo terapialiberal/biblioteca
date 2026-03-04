@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:38.560-03:00
-modified: 2026-02-27T13:06:44.924-03:00
+modified: 2026-02-27T13:06:25.164-03:00
 tags:
   - capitalismo
   - silicon

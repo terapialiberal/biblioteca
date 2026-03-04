@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-09T17:32:21.596-03:00
-modified: 2026-02-27T13:22:29.137-03:00
+modified: 2026-02-27T13:22:05.227-03:00
 tags:
   - black
   - nato

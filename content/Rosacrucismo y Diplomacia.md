@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-25T22:08:51.893-03:00
-modified: 2026-02-27T13:25:24.915-03:00
+modified: 2026-02-27T13:23:51.260-03:00
 tags:
   - diplomacia
   - john

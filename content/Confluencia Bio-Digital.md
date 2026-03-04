@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-25T22:40:57.773-03:00
-modified: 2026-02-27T13:22:48.341-03:00
+modified: 2026-02-27T13:22:22.789-03:00
 tags:
   - confluencia
   - digital

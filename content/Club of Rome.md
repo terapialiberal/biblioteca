@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:08.010-03:00
-modified: 2026-02-26T22:19:55.070-03:00
+modified: 2026-02-26T22:20:04.463-03:00
 tags:
   - club-de-roma
   - límites-del-crecimiento

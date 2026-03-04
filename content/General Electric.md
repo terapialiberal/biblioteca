@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:14.947-03:00
-modified: 2026-02-27T13:07:22.822-03:00
+modified: 2026-02-27T13:07:04.017-03:00
 tags:
   - desindustrializacin
   - electric

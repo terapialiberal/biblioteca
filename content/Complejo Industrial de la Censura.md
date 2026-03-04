@@ -1,29 +1,36 @@
 ---
 publish: true
 created: 2026-01-29T19:17:08.439-03:00
-modified: 2026-02-27T13:07:30.403-03:00
+modified: 2026-03-04T14:11:10.593-03:00
 tags:
+  - vigilancia
+  - narrativa
   - censura
-  - complejo
-  - industrial
+  - inteligencia
 cssclasses: ""
 ---
 
-# Complejo Industrial De La Censura
+# Complejo Industrial de la Censura (V.3)
 
-> **Resumen:** La red de ONGs/Gov que terceriza la censura (CTIL Files).
+> [!WARNING] ALERTA DE VIGILANCIA
+> Este no es un esfuerzo estatal directo, sino una red público-privada de ONGs, universidades, plataformas tecnológicas y agencias de inteligencia que automatizan la eliminación del discurso disidente.
 
-## Notas Iniciales
-*Nota generada automáticamente tras análisis de huecos de información.*
+## 🕸️ Estructura de la Red
+El complejo opera bajo la fachada de "combate a la desinformación" (MIS-DIS-MAL) y está compuesto por:
+1. **Agencias Madre:** [[DHS]], [[CISA]] (EE. UU.), Ofcom (Reino Unido), Comisión Europea.
+2. **Nodos "Académicos":** Stanford Internet Observatory, University of Washington (CIP).
+3. **Verificadores (Fact-Checkers):** NewsGuard, Graphika, Bellingcat (muchos con financiamiento indirecto del Tier B).
+4. **Plataformas Meta-Control:** [[Open Society Foundations]], [[Omidyar Network]].
 
-## Puntos a Investigar
-- Definir conexión exacta con Tier A.
-- Buscar contratos o financiamiento (Follow the Money).
-- Identificar operadores clave.
+## 🛠️ Modus Operandi
+- **Algorithm-First:** No borran contenido manualmente; ajustan el "algoritmo de recomendación" para enterrar la verdad sin que el usuario lo note (Shadowbanning).
+- **Inyección de Ruido:** Saturan el espacio informativo con versiones "oficiales" y distracciones para diluir señales críticas (Axioma 4).
+- **Armamentización del Lenguaje:** Términos como "Teoría de la Conspiración" se usan como sigilos de exclusión social.
 
-## Conexiones Potenciales
-- [[00 Índice Maestro]]
+## 🔗 Nodos Relacionados
+- [[Twitter Files]]: La mayor filtración documental del complejo.
+- [[Cognitive Warfare]]: El objetivo final.
+- [[Palantir CIA]]: La infraestructura técnica.
 
-
-
-
+---
+*TL-INTEL V.3 | Guerra Narrativa*

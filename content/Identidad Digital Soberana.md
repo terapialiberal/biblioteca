@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:17.940-03:00
-modified: 2026-02-27T13:07:54.270-03:00
+modified: 2026-02-27T13:07:47.407-03:00
 tags:
   - criptografa
   - digital

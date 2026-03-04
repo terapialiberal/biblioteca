@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:15.289-03:00
-modified: 2026-03-02T13:18:18.895-03:00
+modified: 2026-02-27T13:07:16.027-03:00
 tags:
   - coparticipacin
   - feudalismo

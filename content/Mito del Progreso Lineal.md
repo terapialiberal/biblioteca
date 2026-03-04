@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-25T22:08:56.896-03:00
-modified: 2026-02-27T13:24:35.824-03:00
+modified: 2026-02-27T13:23:23.653-03:00
 tags:
   - lineal
   - mito

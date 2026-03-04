@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-25T22:23:31.122-03:00
-modified: 2026-02-27T13:22:42.148-03:00
+modified: 2026-02-27T13:22:17.641-03:00
 tags:
   - egregores
   - sigilos

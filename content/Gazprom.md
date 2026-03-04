@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:14.848-03:00
-modified: 2026-02-27T13:07:20.294-03:00
+modified: 2026-02-27T13:07:01.455-03:00
 tags:
   - gazprom
   - nord

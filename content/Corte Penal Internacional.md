@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:08.845-03:00
-modified: 2026-02-27T13:06:57.070-03:00
+modified: 2026-02-27T13:06:33.396-03:00
 tags:
   - george
   - internacional

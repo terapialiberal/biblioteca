@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-25T22:08:51.377-03:00
-modified: 2026-02-27T13:22:43.569-03:00
+modified: 2026-02-27T13:22:18.564-03:00
 tags:
   - chamanismo
   - control

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:14.417-03:00
-modified: 2026-03-02T13:18:15.357-03:00
+modified: 2026-02-27T13:06:48.343-03:00
 tags:
   - carnegie
   - comit

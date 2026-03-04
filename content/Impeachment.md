@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:18.043-03:00
-modified: 2026-02-27T13:07:41.705-03:00
+modified: 2026-02-27T13:07:32.528-03:00
 tags:
   - impeachment
   - jared

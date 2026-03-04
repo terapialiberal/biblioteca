@@ -75,8 +75,10 @@ publish: true
 - [[Guerra de Georgia 2008]] — El primer round
 
 ### Medio Oriente
-- [[Gaza]] / [[Great Trust (Plan Gaza)]] — El gas del Mediterráneo oriental
 - [[Escalada Israel-Irán 2024]] — El frente persa
+- [[Investigación Activa: Irán 2026]] — Reordenamiento energético y mBridge
+- [[Steve Witkoff]] / [[Abbas Araghchi]] / [[Masoud Pezeshkian]] — Actores clave de la reconstrucción
+- [[Gaza]] / [[Great Trust (Plan Gaza)]] — El gas del Mediterráneo oriental
 - [[Corredor IMEC]] — La apuesta post-Gaza
 - [[Hezbollah en Latinoamérica\|Hezbolá en Latinoamérica]] — La extensión del frente
 
@@ -127,6 +129,7 @@ publish: true
 - [[00_MOC - Rimland\|00_MOC - Rimland]]
 - [[05_Videos_Publicados/2026/2026-02-05_Caos_Controlado/Archivo - Demolicion Controlada Spykman 2026-02-05\|Archivo - Demolicion Controlada Spykman 2026-02-05]]
 - [[05_Videos_Publicados/2026/2026-02-05_Caos_Controlado/Articulo_Rimland_2026_Completo\|Articulo_Rimland_2026_Completo]]
+- [[Astro-Cartografia del Rimland\|Astro-Cartografia del Rimland]]
 - [[05_Videos_Publicados/2026/2026-01-07_Gaza_SA/bookmarks_2026_1_8\|bookmarks_2026_1_8]]
 - [[Cambio China hacia mercado interno\|Cambio China hacia mercado interno]]
 - [[Carney_en_Beijing_DW\|Carney_en_Beijing_DW]]
@@ -137,17 +140,18 @@ publish: true
 - [[El vicepresidente estadounidense JD Vance presento\|El vicepresidente estadounidense JD Vance presento]]
 - [[Estrecho de Malaca\|Estrecho de Malaca]]
 - [[05_Videos_Publicados/2025/2025-10-24_El_RESET_MALTHUSIANO_GEOPOLITICA/Graficos Geopolitica y Plan Marshall\|Graficos Geopolitica y Plan Marshall]]
-- [[Guerra Medio Oriente - Situación Irán Marzo 2026\|Guerra Medio Oriente - Situación Irán Marzo 2026]]
+- [[01_Ideas/ATAQUE A IRAN/iran-2026-situacion-general\|iran-2026-situacion-general]]
 - [[05_Videos_Publicados/2025/2025-12-04_Jeffrey_NO_es_lo_que_parece/Jeffrey NADA ES LO QUE PARECE - Investigacion Exclusiva al Estilo Terapia Liberal\|Jeffrey NADA ES LO QUE PARECE - Investigacion Exclusiva al Estilo Terapia Liberal]]
 - [[La Comision Trilateral califica al 2023 como el Añ\|La Comision Trilateral califica al 2023 como el Añ]]
 - [[La Teoria Geopolitica del Rimland Una Perspectiva Estrategica\|La Teoria Geopolitica del Rimland Una Perspectiva Estrategica]]
 - [[05_Videos_Publicados/2025/2025-10-24_El_RESET_MALTHUSIANO_GEOPOLITICA/MOC\|MOC]]
-- [[99_AI/04_Herramientas_Externas/Monica prompt de analisis\|Monica prompt de analisis]]
 - [[Patron - Weaponization (Armamentizacion)\|Patron - Weaponization (Armamentizacion)]]
-- [[99_AI/03_Prompts/05_DISTRIBUCION/Dossier Mensual para Inversores/PROMPT_Dossier_Mensual_v3\|PROMPT_Dossier_Mensual_v3]]
+- [[99_AI/03_Prompts/04_DISTRIBUCION/Dossier Mensual para Inversores/PROMPT_Dossier_Mensual_v3\|PROMPT_Dossier_Mensual_v3]]
 - [[Retirada de Afganistan\|Retirada de Afganistan]]
 - [[Teoria del Rimland\|Teoria del Rimland]]
 - [[99_AI/02_Transcripts/Trasncript GAZA SA\|Trasncript GAZA SA]]
+- [[Vladimir Putin\|Vladimir Putin]]
+- [[Vudu Geopolitico\|Vudu Geopolitico]]
 
 
 *MOC expandido: 2026-02-24 | Parte del [[INDEX_MAESTRO]]*

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:39.046-03:00
-modified: 2026-03-02T13:18:17.480-03:00
+modified: 2026-02-27T13:07:05.917-03:00
 tags:
   - heartland
   - teora

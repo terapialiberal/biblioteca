@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:17.124-03:00
-modified: 2026-02-27T13:23:39.465-03:00
+modified: 2026-02-27T13:22:52.498-03:00
 tags:
   - guerra
   - industria

@@ -1,37 +1,34 @@
 ---
 titulo: Ali Khamenei
 tipo: persona
-fecha: 2026-02-25
+fecha: 2026-03-04
 tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [hamas, hezbollah, khamenei]
+nivel-evidencia: "confirmado"
+tags: [iran, magnicidio, decapitación, irgc, mbridge]
 publish: true
 ---
-# Ali Khamenei
+# Ali Khamenei (1939 - 2026)
 
-> [!INFO] Perfil Operativo (Tier A)
-> **Resumen:** Líder Supremo de Irán desde 1989. El hombre más poderoso de Irán.
-> **Función Real:** Dictador teocrático que controla Irán y sus proxies regionales.
+> [!CAUTION] PERFIL CERRADO: MAGNICIDIO CONFIRMADO
+> **Fecha de Deceso:** 28 de febrero de 2026.
+> **Causa:** Ataque de precisión multivectorial (US-Israel) en Teherán.
+> **Estatus Operativo:** Vacancia del Líder Supremo; transición bajo control del IRGC.
 
-## Biografía
-Ali Khamenei sucedió a Khomeini como Líder Supremo en 1989.
+## 🔎 Autopsia Política
+El 28 de febrero de 2026, una operación de "decapitación" coordinada por la CIA y el Mossad eliminó a Ali Khamenei en su complejo de Teherán. El ataque utilizó una combinación de inteligencia de señales (hacked cameras) y un activo humano (confirmado por fuentes de inteligencia). Su muerte marca el fin de una era de 37 años y el inicio de un reordenamiento forzoso del Rimland.
 
-Controla:
-- Fuerzas armadas (IRGC)
-- Poder judicial
-- Medios
-- Política exterior
+## ⛓️ Conexiones y Sucesión
+- **[[Mojtaba Khamenei]]**: Hijo y sucesor aparente (ver [[Sucesión en Irán 2026]]).
+- **[[IRGC]]**: El verdadero ejecutor que sostiene la transición.
+- **[[99_AI/Legacy/Project mBridge]]**: La infraestructura financiera que Khamenei impulsó para saltar el SWIFT, ahora crítica para la supervivencia del régimen post-magnicidio.
 
-Los presidentes iraníes tienen poder limitado comparado con él.
+## 📊 Impacto Sistémico (Cui Bono)
+1. **Tier A (Gestores):** Reordenamiento de los flujos energéticos hacia el corredor [[Corredor IMEC]].
+2. **Tier B (Ejecutores):** Eliminación del mayor obstáculo para la integración regional bajo un modelo de "neutralidad comprada".
+3. **Rusia/China:** Pérdida de un aliado ideológico, pero oportunidad para acelerar el bloque BRICS+ financiero.
 
-## Conexiones
-- [[00_Glosario - Conceptos Fase 1#Hezbollah\|Hezbollah]] (proxy)
-- [[Hamas]] (apoyo)
-- Milicas en Irak, Yemen
-- Rusia, China
-
-## Fuentes
-- Análisis de Irán
+---
+*TL V.3 | Nota de Archivo Forense | 04-03-2026*
 
 
 

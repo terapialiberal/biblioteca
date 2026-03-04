@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-25T22:08:52.659-03:00
-modified: 2026-03-02T13:18:58.124-03:00
+modified: 2026-02-27T13:22:46.270-03:00
 tags:
   - fractal
   - geometra

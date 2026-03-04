@@ -1,9 +1,7 @@
 ---
 publish: true
 created: 2026-02-25T11:26:39.294-03:00
-modified: 2026-03-01T10:33:47.391-03:00
-tags:
-  - clasificado-ai
+modified: 2026-03-04T14:21:20.001-03:00
 cssclasses: ""
 ---
 
@@ -16,11 +14,8 @@ Bienvenido a la biblioteca de inteligencia forense de **Terapia Liberal**. Miles
 
 ---
 
-**Puntos de entrada:**
-
 - 🗺️ [[00_Mapa_de_Poder_Global_A-Z\|Mapa A-Z]] — Índice alfabético completo
 - 📂 [[00_MOC - Base de Conocimiento\|Explorar por Categorías]] — Organizado por temas
-- 📋 [[00_INDEX_MAESTRO\|Índice Maestro]] — Vista general de toda la base
 
 ---
 

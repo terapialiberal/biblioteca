@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:05:08.327-03:00
-modified: 2026-02-26T21:50:03.118-03:00
+modified: 2026-02-26T21:50:11.619-03:00
 tags:
   - manipulacion-masas
   - psicologia-conductual

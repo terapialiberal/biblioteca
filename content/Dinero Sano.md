@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:10.324-03:00
-modified: 2026-02-27T13:22:58.705-03:00
+modified: 2026-02-27T13:22:30.278-03:00
 tags:
   - bitcoin
   - dinero

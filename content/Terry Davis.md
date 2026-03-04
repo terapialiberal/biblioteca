@@ -1,25 +1,36 @@
 ---
 publish: true
 created: 2026-01-29T19:17:39.326-03:00
-modified: 2026-02-27T13:07:57.713-03:00
+modified: 2026-03-04T13:54:54.851-03:00
 tags:
-  - davis
-  - terry
+  - temple-os
+  - programacion
+  - resistencia
+  - salud-mental
+  - cia
 cssclasses: ""
 ---
 
-# Terry Davis
+# Terry Davis: El Arquitecto del Templo Digital (V.3)
 
-> **Perfil TL:** TempleOS. El genio esquizofrénico.
+> [!IMPORTANT] AXIOMA 11: EL SILENCIO POSITIVO
+> Terry Davis (creador de **TempleOS**) fue ridiculizado como "esquizofrénico" para ocultar la potencia técnica de su crítica al Nivel 2 informático.
 
-## Contexto Preliminar
-*(Nota semilla creada desde el Gap Analysis. Require investigación profunda con Mónica).*
+## 💻 TempleOS: El Sistema Operativo de Dios
+Davis escribió desde cero (incluyendo compiladores y drivers) un SO de 64 bits y 100.000 líneas de código.
+- **Ring 0 Permanente:** TempleOS opera sin protecciones de memoria, dándole al programador control total sobre el hardware. Esto es lo opuesto a la arquitectura de vigilancia de [[Palantir CIA]] o Microsoft.
+- **Oráculo Digital:** Incluyó algoritmos de generación aleatoria para "hablar con Dios", una forma arcaica y pura de lo que hoy llamamos IA generativa estocástica.
 
-## Ejes De Investigación
-- [] Conexiones financieras (Funding)
-- [] Rol en la estructura de poder (Tiers)
-- [] Anomalías detectadas
+## 🕵️ El Acoso del Tier B
+Davis afirmaba ser perseguido por "Glowies" (agentes de la CIA que brillan en la oscuridad). Aunque su salud mental era frágil, su análisis sobre cómo los sistemas operativos modernos son prisiones de software era 100% lúcido (Axioma 7: Navaja Anti-Paranoica).
 
+## ⛓️ Nexos Críticos
+- **[[TempleOS]]**: El artefacto técnico de resistencia absoluta.
+- **[[CIA]]**: El antagonista real y percibido en su narrativa.
+- **[[Soberania Digital]]**: Davis es el extremo radical del individuo que rechaza las herramientas del Nivel 2.
 
+## 📊 Cui Bono
+Su muerte (atropellado por un tren en 2018) eliminó una de las voces más brillantes y disruptivas del subsuelo técnico. El **Tier B** prefiere programadores que operen dentro de sus sandboxes (ver [[Google]]).
 
-
+---
+*TL V.3 | Perfil de Resistencia Técnica y Disidencia*

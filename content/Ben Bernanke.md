@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:05.145-03:00
-modified: 2026-02-27T13:07:42.682-03:00
+modified: 2026-02-27T13:07:33.446-03:00
 tags:
   - bernanke
   - reserva

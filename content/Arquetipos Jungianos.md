@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:03.934-03:00
-modified: 2026-02-27T13:22:16.117-03:00
+modified: 2026-02-27T13:22:00.432-03:00
 tags:
   - arquetipos
   - carl

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:38.982-03:00
-modified: 2026-03-02T13:18:19.022-03:00
+modified: 2026-02-27T13:07:18.979-03:00
 tags:
   - bandung
   - mundiales
