@@ -1,6 +1,6 @@
 ---
 titulo: Tratado De Verona
-tipo: evento
+tipo: "evento"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

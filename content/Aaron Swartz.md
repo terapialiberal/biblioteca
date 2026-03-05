@@ -1,16 +1,12 @@
 ---
+titulo: Aaron Swartz
+tipo: "persona"
+fecha: 2026-03-04
+tier-primario: "c"
+nivel-evidencia: "alto"
+tags: [hacktivismo, open-access, rss, reddit, martir-digital]
 publish: true
-created: 2026-01-29T19:17:02.674-03:00
-modified: 2026-03-04T13:54:53.555-03:00
-tags:
-  - hacktivismo
-  - open-access
-  - rss
-  - reddit
-  - martir-digital
-cssclasses: ""
 ---
-
 # Aaron Swartz: El Prometeo de la Información (V.3)
 
 > [!WARNING] JUSTICIA FORENSE

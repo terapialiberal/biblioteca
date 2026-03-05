@@ -1,15 +1,12 @@
 ---
+titulo: Jacob Frank Y El Sabetianismo (La Inversión)
+tipo: "persona"
+fecha: 2026-02-25
+tags: [frank, inversin, jacob, sabetianismo]
+tier-primario: "a"
+nivel-evidencia: "alto"
 publish: true
-created: 2026-02-25T22:08:52.256-03:00
-modified: 2026-02-27T13:22:58.753-03:00
-tags:
-  - frank
-  - inversin
-  - jacob
-  - sabetianismo
-cssclasses: ""
 ---
-
 
 # Jacob Frank Y El Sabetianismo (La Inversión)
 

@@ -1,15 +1,12 @@
 ---
+titulo: Tríadas Chinas — La Logística De La Diáspora
+tipo: "entidad"
+fecha: 2026-02-25
+tags: [chinas, dispora, logstica, tradas]
+tier-primario: "a"
+nivel-evidencia: "alto"
 publish: true
-created: 2026-02-25T22:45:01.153-03:00
-modified: 2026-02-27T13:24:06.112-03:00
-tags:
-  - chinas
-  - dispora
-  - logstica
-  - tradas
-cssclasses: ""
 ---
-
 
 # Tríadas Chinas — La Logística De La Diáspora
 

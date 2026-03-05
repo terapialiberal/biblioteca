@@ -1,14 +1,12 @@
 ---
+titulo: The Matrix
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [gnosticismo, matrix, platn]
 publish: true
-created: 2026-01-29T19:17:39.858-03:00
-modified: 2026-02-27T13:07:20.770-03:00
-tags:
-  - gnosticismo
-  - matrix
-  - platn
-cssclasses: ""
 ---
-
 # The Matrix
 
 ## Resumen Ejecutivo

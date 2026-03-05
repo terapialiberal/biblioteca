@@ -1,15 +1,12 @@
 ---
+titulo: Resumen General
+tipo: "persona"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [aldea, global, internet, marshall]
 publish: true
-created: 2026-01-29T19:17:03.166-03:00
-modified: 2026-02-27T13:07:35.398-03:00
-tags:
-  - aldea
-  - global
-  - internet
-  - marshall
-cssclasses: ""
 ---
-
 # Resumen General
 Término acuñado por Marshall McLuhan en los 60. Predijo que los medios eléctricos (TV, luego internet) reducirían el planeta a las dimensions de una aldea tribal, donde todos están involucrados en la vida de todos al instante. Lejos de set armonioso, McLuhan advirtió que sería un lugar de terror, pánico total y pérdida de privacidad.
 

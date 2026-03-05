@@ -1,15 +1,11 @@
 ---
+titulo: Alquimia Sexual y Prostitución Sagrada
+tipo: "concepto"
+tier-primario: "a"
+nivel-evidencia: "medio"
+tags: [historia, esoterismo, prostitucion-sagrada, arquetipos]
 publish: true
-created: 2026-02-25T22:29:56.045-03:00
-modified: 2026-03-04T14:13:52.958-03:00
-tags:
-  - historia
-  - esoterismo
-  - prostitucion-sagrada
-  - arquetipos
-cssclasses: ""
 ---
-
 # Alquimia Sexual y Prostitución Sagrada (V.3)
 
 > [!IMPORTANT] PERSPECTIVA HISTÓRICA FORENSE

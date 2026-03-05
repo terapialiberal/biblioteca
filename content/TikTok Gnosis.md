@@ -1,6 +1,6 @@
 ---
 titulo: TikTok Gnosis
-tipo: concepto
+tipo: "concepto"
 tier-primario: "b"
 nivel-evidencia: "alto"
 tags: [tecnologia, fragmentacion, control-mental, gnosis]

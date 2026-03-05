@@ -1,16 +1,12 @@
 ---
+titulo: Club de Madrid
+tipo: "entidad"
+fecha: 2026-03-04
+tier-primario: "b"
+nivel-evidencia: "alto"
+tags: [agenda-2030, globalismo, presidentes, tier-b, influencia]
 publish: true
-created: 2026-01-29T19:17:07.979-03:00
-modified: 2026-03-04T13:53:39.046-03:00
-tags:
-  - agenda-2030
-  - globalismo
-  - presidentes
-  - tier-b
-  - influencia
-cssclasses: ""
 ---
-
 # Club de Madrid: El Retiro de Oro del Tier B
 
 > [!IMPORTANT] DEFINICIÓN OPERATIVA

@@ -1,6 +1,6 @@
 ---
 titulo: "NED (TL V.2): El Caballo De Troya De La Sociedad Civil"
-tipo: evento
+tipo: "evento"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

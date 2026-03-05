@@ -1,6 +1,6 @@
 ---
 titulo: "Mont Pelerin Society (TL V.2): El Politburó Del Neoliberalismo"
-tipo: organizacion
+tipo: "entidad"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

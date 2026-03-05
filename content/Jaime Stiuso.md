@@ -1,6 +1,6 @@
 ---
 titulo: "Jaime Stiuso (TL V.2): El Dueño De La Cloaca Argentina"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

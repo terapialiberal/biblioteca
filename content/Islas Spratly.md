@@ -1,14 +1,12 @@
 ---
+titulo: Islas Spratly
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [estrecho, islas, spratly]
 publish: true
-created: 2026-02-09T17:24:56.310-03:00
-modified: 2026-02-27T13:22:57.919-03:00
-tags:
-  - estrecho
-  - islas
-  - spratly
-cssclasses: ""
 ---
-
 # [[Islas Spratly]]
 
 **Clasificación:** Geo-Estratégico (Militarización de la Ruta de la Seda)  

@@ -1,6 +1,6 @@
 ---
 titulo: "Paro Del Campo 2008 (TL V.2): La Rebelión contra La Expropiación"
-tipo: evento
+tipo: "evento"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

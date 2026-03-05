@@ -1,15 +1,12 @@
 ---
+titulo: "Familia Pallavicini: Los Arquitectos De La Banca Global"
+tipo: "entidad"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [george, global, nobleza, pallavicini]
 publish: true
-created: 2026-01-29T19:17:13.259-03:00
-modified: 2026-02-27T13:22:42.174-03:00
-tags:
-  - george
-  - global
-  - nobleza
-  - pallavicini
-cssclasses: ""
 ---
-
 # Familia Pallavicini: Los Arquitectos De La Banca Global
 
 > [!ABSTRACT] Hipótesis Informativa

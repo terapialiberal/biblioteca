@@ -1,15 +1,12 @@
 ---
+titulo: G4S (Group 4 Securicor)
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [agenda, blackrock, group, securicor]
 publish: true
-created: 2026-01-29T19:17:14.617-03:00
-modified: 2026-02-27T13:06:57.573-03:00
-tags:
-  - agenda
-  - blackrock
-  - group
-  - securicor
-cssclasses: ""
 ---
-
 # G4S (Group 4 Securicor)
 
 ## Perfil TL (Resumen Ejecutivo)

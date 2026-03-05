@@ -1,6 +1,6 @@
 ---
 titulo: "Sexta Extinción (TL V.2): La Narrativa De La Humanidad Como Virus"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

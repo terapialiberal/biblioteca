@@ -1,6 +1,6 @@
 ---
 titulo: "Lysenkoísmo Moderno: El Secuestro De La Realidad Biológica"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

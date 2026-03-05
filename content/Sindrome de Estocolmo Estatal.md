@@ -1,6 +1,6 @@
 ---
 titulo: Síndrome de Estocolmo Estatal
-tipo: 'concepto'
+tipo: "concepto"
 tier-primario: 'b'
 nivel-evidencia: 'medio'
 tags: [clasificado-ai]

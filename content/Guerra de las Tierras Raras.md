@@ -1,6 +1,6 @@
 ---
 titulo: Guerra De Las Tierras Raras
-tipo: evento
+tipo: "evento"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

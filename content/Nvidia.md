@@ -1,6 +1,6 @@
 ---
 titulo: Nvidia
-tipo: 'organizacion'
+tipo: "entidad"
 tier-primario: 'b'
 nivel-evidencia: 'medio'
 tags: [clasificado-ai]

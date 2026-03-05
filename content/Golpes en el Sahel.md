@@ -1,15 +1,12 @@
 ---
+titulo: Golpes En El Sahel
+tipo: "evento"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [golpes, sahel, uranio, wagner]
 publish: true
-created: 2026-01-29T19:17:15.775-03:00
-modified: 2026-02-27T13:06:54.990-03:00
-tags:
-  - golpes
-  - sahel
-  - uranio
-  - wagner
-cssclasses: ""
 ---
-
 # Golpes En El Sahel
 
 ## Perfil TL (Resumen Ejecutivo)

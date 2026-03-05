@@ -1,15 +1,12 @@
 ---
+titulo: "Neoliberalismo: La Ideología De La Oligarquía Financiera"
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [banco, financiera, fondo, oligarqua]
 publish: true
-created: 2026-01-29T19:17:26.601-03:00
-modified: 2026-02-27T13:23:27.711-03:00
-tags:
-  - banco
-  - financiera
-  - fondo
-  - oligarqua
-cssclasses: ""
 ---
-
 # Neoliberalismo: La Ideología De La Oligarquía Financiera
 
 > [!ABSTRACT] Hipótesis Informativa

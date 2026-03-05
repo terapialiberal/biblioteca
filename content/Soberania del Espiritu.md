@@ -1,15 +1,12 @@
 ---
+titulo: Soberanía Del Espíritu
+tipo: "concepto"
+fecha: 2026-02-25
+tags: [derecho, espritu, gnosis, soberana]
+tier-primario: "a"
+nivel-evidencia: "alto"
 publish: true
-created: 2026-02-25T22:08:55.223-03:00
-modified: 2026-02-27T13:23:58.008-03:00
-tags:
-  - derecho
-  - espritu
-  - gnosis
-  - soberana
-cssclasses: ""
 ---
-
 
 # Soberanía Del Espíritu
 

@@ -1,6 +1,6 @@
 ---
 titulo: "José Luis Manzano (TL V.2): El Maestro De La Metamorfosis Del Poder"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

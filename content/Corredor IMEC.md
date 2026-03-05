@@ -1,6 +1,6 @@
 ---
 titulo: "Corredor IMEC: La Pinza De Occidente Sobre El Rimland"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

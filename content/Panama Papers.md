@@ -1,6 +1,6 @@
 ---
 titulo: "Panama Papers (TL V.2): La Limpieza Selectiva Del Capital"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

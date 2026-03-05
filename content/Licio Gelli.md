@@ -1,15 +1,12 @@
 ---
+titulo: "Licio Gelli: El Gerente Del Estado Profundo"
+tipo: "persona"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [estado, gelli, juan, logia]
 publish: true
-created: 2026-01-29T19:17:22.489-03:00
-modified: 2026-02-27T13:23:13.271-03:00
-tags:
-  - estado
-  - gelli
-  - juan
-  - logia
-cssclasses: ""
 ---
-
 # Licio Gelli: El Gerente Del Estado Profundo
 
 > [!ABSTRACT] Hipótesis Informativa

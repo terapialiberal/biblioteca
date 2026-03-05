@@ -1,12 +1,12 @@
 ---
+titulo: Egregore - La Entidad Colectiva Programada
+tipo: "entidad"
+fecha: 2026-02-25
+tags: [egregore]
+tier-primario: "a"
+nivel-evidencia: "medio"
 publish: true
-created: 2026-01-29T19:17:11.142-03:00
-modified: 2026-02-27T13:22:33.072-03:00
-tags:
-  - egregore
-cssclasses: ""
 ---
-
 
 # Egregore - La Entidad Colectiva Programada
 

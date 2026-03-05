@@ -1,6 +1,6 @@
 ---
 titulo: "Seymour Hersh (TL V.2): El Cirujano De Los Secretos Del Imperio"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

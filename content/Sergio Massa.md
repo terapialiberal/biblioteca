@@ -1,6 +1,6 @@
 ---
 titulo: "Sergio Massa (TL V.2): El Prestidigitador De La Decadencia Argentina"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

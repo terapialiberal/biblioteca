@@ -1,14 +1,12 @@
 ---
+titulo: Gustave Le Bon
+tipo: "persona"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [edward, gustave, propaganda]
 publish: true
-created: 2026-01-29T19:17:16.559-03:00
-modified: 2026-02-27T13:22:50.283-03:00
-tags:
-  - edward
-  - gustave
-  - propaganda
-cssclasses: ""
 ---
-
 # Gustave Le Bon
 
 ## Perfil TL (Resumen Ejecutivo)

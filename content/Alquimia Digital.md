@@ -1,16 +1,11 @@
 ---
+titulo: Alquimia Digital
+tipo: "concepto"
+tier-primario: "b"
+nivel-evidencia: "alto"
+tags: [blockchain, cbdc, alquimia, oro-digital, control]
 publish: true
-created: 2026-02-25T22:08:32.280-03:00
-modified: 2026-03-04T14:13:43.953-03:00
-tags:
-  - blockchain
-  - cbdc
-  - alquimia
-  - oro-digital
-  - control
-cssclasses: ""
 ---
-
 # Alquimia Digital (V.3)
 
 > [!IMPORTANT] DEFINICIÓN OPERATIVA

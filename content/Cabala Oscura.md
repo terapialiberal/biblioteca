@@ -1,15 +1,12 @@
 ---
+titulo: "Cabalá Oscura (Qlippoth: Cáscaras Del Mal)"
+tipo: "persona"
+fecha: 2026-02-25
+tags: [cabal, jacob, oscura, sephirot]
+tier-primario: "a"
+nivel-evidencia: "medio"
 publish: true
-created: 2026-02-25T22:20:22.050-03:00
-modified: 2026-02-27T13:22:11.953-03:00
-tags:
-  - cabal
-  - jacob
-  - oscura
-  - sephirot
-cssclasses: ""
 ---
-
 
 # Cabalá Oscura (Qlippoth: Cáscaras Del Mal)
 

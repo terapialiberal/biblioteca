@@ -1,14 +1,12 @@
 ---
+titulo: The Finders
+tipo: "persona"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [abuso, finders, programacin]
 publish: true
-created: 2026-01-29T19:17:39.501-03:00
-modified: 2026-02-27T13:24:02.375-03:00
-tags:
-  - abuso
-  - finders
-  - programacin
-cssclasses: ""
 ---
-
 # The Finders
 
 ## Resumen Ejecutivo

@@ -1,16 +1,12 @@
 ---
+titulo: In-Q-Tel
+tipo: "entidad"
+fecha: 2026-03-04
+tier-primario: "b"
+nivel-evidencia: "alto"
+tags: [cia, in-q-tel, venture-capital, biotecnologia, vigilancia]
 publish: true
-created: 2026-01-29T19:17:18.111-03:00
-modified: 2026-03-04T13:53:28.895-03:00
-tags:
-  - cia
-  - in-q-tel
-  - venture-capital
-  - biotecnologia
-  - vigilancia
-cssclasses: ""
 ---
-
 # In-Q-Tel: El Capitalismo de Riesgo de la Inteligencia (V.3)
 
 > [!IMPORTANT] MISIÓN REAL

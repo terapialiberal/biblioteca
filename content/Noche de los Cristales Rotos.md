@@ -1,6 +1,6 @@
 ---
 titulo: "Noche De Los Cristales Rotos (TL V.2): El Prototipo De La Purga Administrada"
-tipo: organizacion
+tipo: "entidad"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

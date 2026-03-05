@@ -1,15 +1,12 @@
 ---
+titulo: Ford Foundation
+tipo: "persona"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [black, divide, ford, foundation]
 publish: true
-created: 2026-01-29T19:17:13.906-03:00
-modified: 2026-02-27T13:07:02.335-03:00
-tags:
-  - black
-  - divide
-  - ford
-  - foundation
-cssclasses: ""
 ---
-
 # Ford Foundation
 
 ## Perfil TL (Resumen Ejecutivo)

@@ -1,6 +1,6 @@
 ---
 titulo: Informe Flexner (1910)
-tipo: articulo
+tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

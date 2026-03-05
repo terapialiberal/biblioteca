@@ -1,15 +1,12 @@
 ---
+titulo: Center for Strategic and International Studies (CSIS)
+tipo: "entidad"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [csis, henry, strategic, studies]
 publish: true
-created: 2026-01-29T19:17:07.196-03:00
-modified: 2026-02-27T13:06:28.444-03:00
-tags:
-  - csis
-  - henry
-  - strategic
-  - studies
-cssclasses: ""
 ---
-
 # Center for Strategic and International Studies (CSIS)
 
 ## Perfil TL (Resumen Ejecutivo)

@@ -1,6 +1,6 @@
 ---
 titulo: "Movimiento Tecnocrático (TL V.2): La Raíz Del Gran Reset"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

@@ -1,15 +1,12 @@
 ---
+titulo: Skull and Bones (Sociedad 322)
+tipo: "entidad"
+fecha: 2026-02-25
+tags: [harriman, russell, skull, sociedad]
+tier-primario: "a"
+nivel-evidencia: "alto"
 publish: true
-created: 2026-02-25T22:08:54.601-03:00
-modified: 2026-02-27T13:23:56.589-03:00
-tags:
-  - harriman
-  - russell
-  - skull
-  - sociedad
-cssclasses: ""
 ---
-
 
 # Skull and Bones (Sociedad 322)
 

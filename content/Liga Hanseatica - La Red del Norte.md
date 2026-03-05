@@ -1,14 +1,12 @@
 ---
+titulo: Liga Hanseática - La Red Del Norte
+tipo: "entidad"
+fecha: 2026-02-25
+tags: [hansetica, liga, norte]
+tier-primario: "a"
+nivel-evidencia: "alto"
 publish: true
-created: 2026-02-25T22:40:38.073-03:00
-modified: 2026-02-27T13:23:13.984-03:00
-tags:
-  - hansetica
-  - liga
-  - norte
-cssclasses: ""
 ---
-
 
 # Liga Hanseática - La Red Del Norte
 

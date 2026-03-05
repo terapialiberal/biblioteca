@@ -1,15 +1,12 @@
 ---
+titulo: George W. Bush
+tipo: "persona"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [bush, george, pnac, skull]
 publish: true
-created: 2026-01-29T19:17:15.174-03:00
-modified: 2026-02-27T13:07:07.829-03:00
-tags:
-  - bush
-  - george
-  - pnac
-  - skull
-cssclasses: ""
 ---
-
 # George W. Bush
 
 ## Perfil TL (Resumen Ejecutivo)

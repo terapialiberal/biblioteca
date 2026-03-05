@@ -1,13 +1,12 @@
 ---
+titulo: Necronomicón Y Lovecraft (El Horror De Los Primigenios)
+tipo: "concepto"
+fecha: 2026-02-25
+tags: [lovecraft, necronomicn]
+tier-primario: "a"
+nivel-evidencia: "medio"
 publish: true
-created: 2026-02-25T22:08:33.243-03:00
-modified: 2026-02-27T13:23:27.666-03:00
-tags:
-  - lovecraft
-  - necronomicn
-cssclasses: ""
 ---
-
 
 # Necronomicón Y Lovecraft (El Horror De Los Primigenios)
 

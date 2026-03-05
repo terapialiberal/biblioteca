@@ -1,15 +1,12 @@
 ---
+titulo: Invasión De Panamá (1989)
+tipo: "evento"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [canal, george, invasin, panam]
 publish: true
-created: 2026-01-29T19:17:18.818-03:00
-modified: 2026-02-27T13:06:21.491-03:00
-tags:
-  - canal
-  - george
-  - invasin
-  - panam
-cssclasses: ""
 ---
-
 # Invasión De Panamá (1989)
 
 ## Perfil TL (Resumen Ejecutivo)

@@ -1,15 +1,12 @@
 ---
+titulo: Energía Nuclear (INVAP)
+tipo: "persona"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [cnea, energa, nuclear, satlites]
 publish: true
-created: 2026-01-29T19:17:11.832-03:00
-modified: 2026-02-27T13:22:38.564-03:00
-tags:
-  - cnea
-  - energa
-  - nuclear
-  - satlites
-cssclasses: ""
 ---
-
 # Energía Nuclear (INVAP)
 
 ## Perfil TL (Resumen Ejecutivo)

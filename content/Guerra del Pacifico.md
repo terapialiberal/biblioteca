@@ -1,15 +1,12 @@
 ---
+titulo: Guerra Del Pacífico (Geopolítica)
+tipo: "evento"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [geopoltica, guerra, imperio, pacfico]
 publish: true
-created: 2026-01-29T19:17:16.431-03:00
-modified: 2026-02-27T13:06:50.702-03:00
-tags:
-  - geopoltica
-  - guerra
-  - imperio
-  - pacfico
-cssclasses: ""
 ---
-
 # Guerra Del Pacífico (Geopolítica)
 
 ## Perfil TL (Resumen Ejecutivo)

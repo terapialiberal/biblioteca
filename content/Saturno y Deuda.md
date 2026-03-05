@@ -1,16 +1,11 @@
 ---
+titulo: Saturno y Deuda
+tipo: "concepto"
+tier-primario: "a"
+nivel-evidencia: "medio"
+tags: [esoterismo, arqueo-finanzas, saturno, deuda, contrato]
 publish: true
-created: 2026-02-25T22:08:54.753-03:00
-modified: 2026-03-04T14:12:52.777-03:00
-tags:
-  - esoterismo
-  - arqueo-finanzas
-  - saturno
-  - deuda
-  - contrato
-cssclasses: ""
 ---
-
 # Saturno y Deuda (V.3)
 
 > [!IMPORTANT] MÓDULO ESOTÉRICO MAESTRO

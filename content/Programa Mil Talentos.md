@@ -1,6 +1,6 @@
 ---
 titulo: "Programa Mil Talentos (TL V.2): El Robo De La Mente Occidental"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

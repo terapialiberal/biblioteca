@@ -1,14 +1,12 @@
 ---
 publish: true
-created: 2026-01-29T19:17:03.084-03:00
-modified: 2026-02-27T13:06:38.335-03:00
-tags:
-  - aipac
-  - guerra
-  - israel
-cssclasses: ""
+titulo: AIPAC
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [aipac, guerra, israel]
 ---
-
 ![AIPAC Conference](https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/AIPAC_Policy_Conference_2016.jpg/220px-AIPAC_Policy_Conference_2016.jpg)
 # AIPAC
 

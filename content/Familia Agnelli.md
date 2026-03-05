@@ -1,6 +1,6 @@
 ---
 titulo: "Familia Agnelli: Los Custodios Industriales De Europa"
-tipo: organizacion
+tipo: "entidad"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

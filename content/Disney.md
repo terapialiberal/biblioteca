@@ -1,14 +1,12 @@
 ---
+titulo: Disney
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [disney, jeffrey, mkultra]
 publish: true
-created: 2026-01-29T19:17:10.341-03:00
-modified: 2026-02-27T13:22:30.306-03:00
-tags:
-  - disney
-  - jeffrey
-  - mkultra
-cssclasses: ""
 ---
-
 ![Disney Castle](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Disney_Wordmark.svg/200px-Disney_Wordmark.svg.png)
 # Disney
 

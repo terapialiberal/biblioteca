@@ -1,6 +1,6 @@
 ---
 titulo: Jared Kushner
-tipo: 'evento'
+tipo: "evento"
 tier-primario: 'b'
 nivel-evidencia: 'medio'
 tags: [clasificado-ai]

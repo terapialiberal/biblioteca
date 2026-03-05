@@ -1,14 +1,12 @@
 ---
+titulo: Atlantic Council DFRLab
+tipo: "entidad"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [atlantic, council, dfrlab]
 publish: true
-created: 2026-01-29T19:17:04.477-03:00
-modified: 2026-02-27T13:06:45.047-03:00
-tags:
-  - atlantic
-  - council
-  - dfrlab
-cssclasses: ""
 ---
-
 # Atlantic Council DFRLab
 
 > **Perfil TL:** La fábrica de narrativa OTAN.

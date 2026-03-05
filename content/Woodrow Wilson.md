@@ -1,15 +1,12 @@
 ---
+titulo: Woodrow Wilson
+tipo: "persona"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [colonel, reserva, wilson, woodrow]
 publish: true
-created: 2026-01-29T19:17:44.500-03:00
-modified: 2026-02-27T13:24:10.697-03:00
-tags:
-  - colonel
-  - reserva
-  - wilson
-  - woodrow
-cssclasses: ""
 ---
-
 ![Woodrow Wilson](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Thomas_Woodrow_Wilson%2C_Harris_%26_Ewing.jpg/220px-Thomas_Woodrow_Wilson%2C_Harris_%26_Ewing.jpg)
 # Woodrow Wilson
 

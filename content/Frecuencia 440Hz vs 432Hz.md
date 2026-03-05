@@ -1,6 +1,6 @@
 ---
 titulo: Frecuencia 440Hz vs 432Hz
-tipo: 'concepto'
+tipo: "concepto"
 tier-primario: 'b'
 nivel-evidencia: 'medio'
 tags: [clasificado-ai]

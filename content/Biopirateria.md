@@ -1,14 +1,12 @@
 ---
+titulo: Biopiratería
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [biopiratera, brics, naciones]
 publish: true
-created: 2026-01-29T19:17:05.433-03:00
-modified: 2026-02-27T13:07:54.802-03:00
-tags:
-  - biopiratera
-  - brics
-  - naciones
-cssclasses: ""
 ---
-
 # Biopiratería
 
 ## Resumen General

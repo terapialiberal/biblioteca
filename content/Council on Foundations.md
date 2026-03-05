@@ -1,14 +1,12 @@
 ---
+titulo: Council on Foundations
+tipo: "entidad"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [council, foundations, fundacin]
 publish: true
-created: 2026-01-29T19:17:08.929-03:00
-modified: 2026-02-27T13:22:24.455-03:00
-tags:
-  - council
-  - foundations
-  - fundacin
-cssclasses: ""
 ---
-
 # Council on Foundations
 
 > [!ABSTRACT] Ficha Técnica

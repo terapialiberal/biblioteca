@@ -1,15 +1,12 @@
 ---
+titulo: FMI (Fondo Monetario Internacional)
+tipo: "entidad"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [banco, confesiones, fondo, internacional]
 publish: true
-created: 2026-01-29T19:17:13.860-03:00
-modified: 2026-02-27T13:07:31.551-03:00
-tags:
-  - banco
-  - confesiones
-  - fondo
-  - internacional
-cssclasses: ""
 ---
-
 # FMI (Fondo Monetario Internacional)
 
 ## Perfil TL (Resumen Ejecutivo)

@@ -1,6 +1,6 @@
 ---
 titulo: "Lavon Affair (TL V.2): El Prototipo De La Falsa Bandera Moderna"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

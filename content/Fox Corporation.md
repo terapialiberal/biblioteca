@@ -1,14 +1,12 @@
 ---
+titulo: Fox Corporation
+tipo: "entidad"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [corporation, roger, tucker]
 publish: true
-created: 2026-01-29T19:17:13.996-03:00
-modified: 2026-02-27T13:06:53.203-03:00
-tags:
-  - corporation
-  - roger
-  - tucker
-cssclasses: ""
 ---
-
 # Fox Corporation
 
 ## Perfil TL (Resumen Ejecutivo)

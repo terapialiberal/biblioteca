@@ -1,15 +1,12 @@
 ---
+titulo: Sacrificios Rituales Y Gestión De Energía
+tipo: "concepto"
+fecha: 2026-02-25
+tags: [energa, gestin, rituales, satanismo]
+tier-primario: "a"
+nivel-evidencia: "alto"
 publish: true
-created: 2026-02-25T22:27:07.731-03:00
-modified: 2026-02-27T13:23:51.925-03:00
-tags:
-  - energa
-  - gestin
-  - rituales
-  - satanismo
-cssclasses: ""
 ---
-
 
 # Sacrificios Rituales Y Gestión De Energía
 

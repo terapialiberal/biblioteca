@@ -1,15 +1,12 @@
 ---
+titulo: Mar Argentino (Pesca Ilegal)
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [argentino, brics, ilegal, pesca]
 publish: true
-created: 2026-01-29T19:17:23.612-03:00
-modified: 2026-02-27T13:07:22.471-03:00
-tags:
-  - argentino
-  - brics
-  - ilegal
-  - pesca
-cssclasses: ""
 ---
-
 # Mar Argentino (Pesca Ilegal)
 
 ## Resumen Ejecutivo

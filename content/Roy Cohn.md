@@ -1,6 +1,6 @@
 ---
 titulo: "Roy Cohn (TL V.2): El Maestro Del Compromat Y El Mentor De La Matrix"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

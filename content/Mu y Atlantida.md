@@ -1,6 +1,6 @@
 ---
 titulo: Mu y Atlántida
-tipo: 'concepto'
+tipo: "concepto"
 tier-primario: 'b'
 nivel-evidencia: 'medio'
 tags: [clasificado-ai]

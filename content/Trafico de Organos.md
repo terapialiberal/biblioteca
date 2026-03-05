@@ -1,14 +1,12 @@
 ---
+titulo: Tráfico De Órganos — El Mercado Rojo De La Biopolítica
+tipo: "concepto"
+fecha: 2026-02-25
+tags: [adrenocromo, trfico, rganos]
+tier-primario: "a"
+nivel-evidencia: "alto"
 publish: true
-created: 2026-01-29T19:17:41.606-03:00
-modified: 2026-02-27T13:06:27.715-03:00
-tags:
-  - adrenocromo
-  - trfico
-  - rganos
-cssclasses: ""
 ---
-
 
 # Tráfico De Órganos — El Mercado Rojo De La Biopolítica
 

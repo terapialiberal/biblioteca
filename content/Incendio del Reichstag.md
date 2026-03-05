@@ -1,15 +1,12 @@
 ---
+titulo: Incendio Del Reichstag
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [bandera, estado, incendio, reichstag]
 publish: true
-created: 2026-01-29T19:17:18.157-03:00
-modified: 2026-02-27T13:06:23.057-03:00
-tags:
-  - bandera
-  - estado
-  - incendio
-  - reichstag
-cssclasses: ""
 ---
-
 # Incendio Del Reichstag
 
 ## Perfil TL (Resumen Ejecutivo)

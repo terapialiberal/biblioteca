@@ -1,6 +1,6 @@
 ---
 titulo: El Laberinto de Chartres
-tipo: 'concepto'
+tipo: "concepto"
 tier-primario: 'b'
 nivel-evidencia: 'medio'
 tags: [clasificado-ai]

@@ -1,6 +1,6 @@
 ---
 titulo: "Psicopatía Corporativa (TL V.2): El Diseño De La Crueldad"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

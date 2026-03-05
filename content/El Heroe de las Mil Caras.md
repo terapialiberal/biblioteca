@@ -1,6 +1,6 @@
 ---
 titulo: El Héroe de las Mil Caras
-tipo: 'concepto'
+tipo: "concepto"
 tier-primario: 'b'
 nivel-evidencia: 'medio'
 tags: [clasificado-ai]

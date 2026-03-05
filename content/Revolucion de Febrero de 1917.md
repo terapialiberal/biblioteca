@@ -1,6 +1,6 @@
 ---
 titulo: "Revolución De Febrero De 1917 (TL V.2): El Desmantelamiento De La Soberanía Imperial"
-tipo: evento
+tipo: "evento"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

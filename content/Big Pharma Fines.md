@@ -1,6 +1,6 @@
 ---
 titulo: Multas Criminales De Las Farmacuticas
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

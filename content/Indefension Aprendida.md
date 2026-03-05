@@ -1,15 +1,12 @@
 ---
+titulo: Indefensión Aprendida
+tipo: "persona"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [aprendida, guerra, indefensin, pandemia]
 publish: true
-created: 2026-01-29T19:17:18.279-03:00
-modified: 2026-02-27T13:22:54.517-03:00
-tags:
-  - aprendida
-  - guerra
-  - indefensin
-  - pandemia
-cssclasses: ""
 ---
-
 # Indefensión Aprendida
 
 ## Perfil TL (Resumen Ejecutivo)

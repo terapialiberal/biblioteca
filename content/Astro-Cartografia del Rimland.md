@@ -1,6 +1,6 @@
 ---
 titulo: Astro-Cartografía del Rimland
-tipo: concepto
+tipo: "concepto"
 tier-primario: "a"
 nivel-evidencia: "medio"
 tags: [geopolitica, esoterismo, rimland, astrologia]

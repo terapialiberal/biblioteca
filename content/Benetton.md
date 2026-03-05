@@ -1,14 +1,12 @@
 ---
+titulo: Benetton (Tierras Patagónicas)
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [benetton, patagnicas, tierras]
 publish: true
-created: 2026-01-29T19:17:05.159-03:00
-modified: 2026-02-27T13:06:18.845-03:00
-tags:
-  - benetton
-  - patagnicas
-  - tierras
-cssclasses: ""
 ---
-
 # Benetton (Tierras Patagónicas)
 
 > **Resumen:** El Estado dentro del Estado en el sur.

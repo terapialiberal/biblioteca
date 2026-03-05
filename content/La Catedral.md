@@ -1,6 +1,6 @@
 ---
 titulo: "La Catedral (TL V.2): El Sistema De Control Descentralizado"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

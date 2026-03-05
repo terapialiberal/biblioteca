@@ -1,6 +1,6 @@
 ---
 titulo: Alquimia China
-tipo: concepto
+tipo: "concepto"
 tier-primario: "a"
 nivel-evidencia: "medio"
 tags: [esoterismo, china, longevidad, control-biologico]

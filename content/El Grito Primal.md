@@ -1,6 +1,6 @@
 ---
 titulo: El Grito Primal
-tipo: 'concepto'
+tipo: "concepto"
 tier-primario: 'b'
 nivel-evidencia: 'medio'
 tags: [clasificado-ai]

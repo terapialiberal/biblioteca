@@ -1,15 +1,12 @@
 ---
+titulo: Guardia De Hierro (Argentina)
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [guardia, hierro, jesuitas, papa]
 publish: true
-created: 2026-01-29T19:17:16.143-03:00
-modified: 2026-02-27T13:06:25.096-03:00
-tags:
-  - guardia
-  - hierro
-  - jesuitas
-  - papa
-cssclasses: ""
 ---
-
 # Guardia De Hierro (Argentina)
 
 ## Perfil TL (Resumen Ejecutivo)

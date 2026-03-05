@@ -1,6 +1,6 @@
 ---
 titulo: "Operación Fast and Furious (TL V.2): El Tráfico De Armas Como Ingeniería De Desarme"
-tipo: evento
+tipo: "evento"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

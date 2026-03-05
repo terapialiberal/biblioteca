@@ -1,6 +1,6 @@
 ---
 titulo: "Peter Daszak (TL V.2): El Eslabón Perdido De Wuhan"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

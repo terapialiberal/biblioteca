@@ -1,6 +1,6 @@
 ---
 titulo: "Berel Lazar: El Arquitecto Del Eje Moscú-Chabad"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

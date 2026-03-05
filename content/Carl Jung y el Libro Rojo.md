@@ -1,15 +1,12 @@
 ---
+titulo: Carl Jung Y El Libro Rojo
+tipo: "persona"
+fecha: 2026-02-25
+tags: [carl, libro, rojo, sincronicidad]
+tier-primario: "b"
+nivel-evidencia: "alto"
 publish: true
-created: 2026-02-25T22:08:53.576-03:00
-modified: 2026-02-27T13:22:14.923-03:00
-tags:
-  - carl
-  - libro
-  - rojo
-  - sincronicidad
-cssclasses: ""
 ---
-
 
 # Carl Jung Y El Libro Rojo
 

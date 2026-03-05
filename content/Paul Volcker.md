@@ -1,6 +1,6 @@
 ---
 titulo: "Paul Volcker (TL V.2): El Verdugo De La Liquidez Global"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

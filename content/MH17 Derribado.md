@@ -1,15 +1,12 @@
 ---
+titulo: MH17 Derribado
+tipo: "persona"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [bellingcat, derribado, golpe, mh17]
 publish: true
-created: 2026-01-29T19:17:24.886-03:00
-modified: 2026-02-27T13:06:23.632-03:00
-tags:
-  - bellingcat
-  - derribado
-  - golpe
-  - mh17
-cssclasses: ""
 ---
-
 # MH17 Derribado
 
 ## Resumen Ejecutivo

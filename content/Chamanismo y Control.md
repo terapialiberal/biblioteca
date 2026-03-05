@@ -1,13 +1,12 @@
 ---
+titulo: Chamanismo Y Control (La Gestión Del Éxtasis)
+tipo: "concepto"
+fecha: 2026-02-25
+tags: [chamanismo, control]
+tier-primario: "b"
+nivel-evidencia: "alto"
 publish: true
-created: 2026-02-25T22:08:51.377-03:00
-modified: 2026-02-27T13:22:18.564-03:00
-tags:
-  - chamanismo
-  - control
-cssclasses: ""
 ---
-
 
 # Chamanismo Y Control (La Gestión Del Éxtasis)
 

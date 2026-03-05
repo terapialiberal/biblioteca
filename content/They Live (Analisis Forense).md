@@ -1,15 +1,12 @@
 ---
+titulo: They Live (Señales Vs Ruido En La Vía Pública)
+tipo: "concepto"
+fecha: 2026-02-25
+tags: [forense, live, proporcin, simbologa]
+tier-primario: "b"
+nivel-evidencia: "alto"
 publish: true
-created: 2026-02-25T22:32:38.206-03:00
-modified: 2026-02-27T13:24:03.189-03:00
-tags:
-  - forense
-  - live
-  - proporcin
-  - simbologa
-cssclasses: ""
 ---
-
 
 # They Live (Señales Vs Ruido En La Vía Pública)
 

@@ -1,15 +1,12 @@
 ---
+titulo: Fluoruro Y Calcificación (Control Biológico)
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [calcificacin, edward, fluoruro, glndula]
 publish: true
-created: 2026-01-29T19:17:13.840-03:00
-modified: 2026-02-27T13:22:44.211-03:00
-tags:
-  - calcificacin
-  - edward
-  - fluoruro
-  - glndula
-cssclasses: ""
 ---
-
 # Fluoruro Y Calcificación (Control Biológico)
 
 ## Perfil TL (Resumen Ejecutivo)

@@ -1,6 +1,6 @@
 ---
 titulo: "Prison Planet (TL V.2): La Tierra Como Granja De Almas"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

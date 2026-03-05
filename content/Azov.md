@@ -1,14 +1,12 @@
 ---
+titulo: Resumen General
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [azov, victoria, volodymyr]
 publish: true
-created: 2026-01-29T19:17:04.610-03:00
-modified: 2026-02-27T13:22:02.401-03:00
-tags:
-  - azov
-  - victoria
-  - volodymyr
-cssclasses: ""
 ---
-
 # Resumen General
 El Batallón Azov (ahora Regimiento) es una unidad militar ucraniana con orígenes y simbología abiertamente neonazi (Wolfsangel, Sol Negro). El fenómeno a analizar no es el grupo en sí, sino el giro de 180° de los medios occidentales: de reportarlos como "peligrosos neonazis" (2014-2019) a celebrarlos como "héroes defensores" (2022-presente).
 

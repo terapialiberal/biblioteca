@@ -1,6 +1,6 @@
 ---
 titulo: "Reinhard Gehlen (TL V.2): El Puente Nazi Del Espionaje Occidental"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

@@ -1,15 +1,12 @@
 ---
+titulo: McKinsey & Company
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [company, crisis, mckinsey, purdue]
 publish: true
-created: 2026-01-29T19:17:24.459-03:00
-modified: 2026-02-27T13:06:25.120-03:00
-tags:
-  - company
-  - crisis
-  - mckinsey
-  - purdue
-cssclasses: ""
 ---
-
 # McKinsey & Company
 
 ## Resumen Ejecutivo

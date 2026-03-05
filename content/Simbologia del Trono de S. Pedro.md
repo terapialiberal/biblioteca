@@ -1,14 +1,12 @@
 ---
+titulo: Simbología Del Trono De S. Pedro (La Silla Del Pescador)
+tipo: "concepto"
+fecha: 2026-02-25
+tags: [pedro, simbologa, trono]
+tier-primario: "a"
+nivel-evidencia: "alto"
 publish: true
-created: 2026-02-25T22:08:32.595-03:00
-modified: 2026-02-27T13:23:55.413-03:00
-tags:
-  - pedro
-  - simbologa
-  - trono
-cssclasses: ""
 ---
-
 
 # Simbología Del Trono De S. Pedro (La Silla Del Pescador)
 

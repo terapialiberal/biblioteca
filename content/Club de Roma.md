@@ -1,15 +1,12 @@
 ---
+titulo: Club De Roma
+tipo: "entidad"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [agenda, club, roma, world]
 publish: true
-created: 2026-01-29T19:17:07.995-03:00
-modified: 2026-02-27T13:07:33.541-03:00
-tags:
-  - agenda
-  - club
-  - roma
-  - world
-cssclasses: ""
 ---
-
 # Club De Roma
 
 ## Resumen Ejecutivo

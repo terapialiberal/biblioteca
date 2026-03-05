@@ -1,15 +1,11 @@
 ---
+titulo: DTCC - Depository Trust & Clearing Corporation
+tipo: "entidad"
+tier-primario: "a"
+nivel-evidencia: "muy-alto"
+tags: [finanzas, custodia, infraestructura, tier-a]
 publish: true
-created: 2026-01-29T19:17:10.609-03:00
-modified: 2026-03-04T14:11:24.799-03:00
-tags:
-  - finanzas
-  - custodia
-  - infraestructura
-  - tier-a
-cssclasses: ""
 ---
-
 # DTCC: El Depósito Central (V.3)
 
 > [!CAUTION] ADVERTENCIA FINANCIERA

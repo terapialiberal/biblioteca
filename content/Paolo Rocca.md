@@ -1,6 +1,6 @@
 ---
 titulo: "Paolo Rocca (TL V.2): El Estratega Del Acero Y El Poder"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

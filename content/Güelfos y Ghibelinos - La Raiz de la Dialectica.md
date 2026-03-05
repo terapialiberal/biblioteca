@@ -1,15 +1,12 @@
 ---
+titulo: Güelfos Y Ghibelinos - La Raíz De La Dialéctica
+tipo: "evento"
+fecha: 2026-02-25
+tags: [dialctica, ghibelinos, gelfos, raz]
+tier-primario: "a"
+nivel-evidencia: "alto"
 publish: true
-created: 2026-02-25T22:40:11.469-03:00
-modified: 2026-02-27T13:22:50.224-03:00
-tags:
-  - dialctica
-  - ghibelinos
-  - gelfos
-  - raz
-cssclasses: ""
 ---
-
 
 # Güelfos Y Ghibelinos - La Raíz De La Dialéctica
 

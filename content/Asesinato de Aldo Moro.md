@@ -1,15 +1,12 @@
 ---
+titulo: Asesinato De Aldo Moro
+tipo: "evento"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [aldo, asesinato, moro, operacin]
 publish: true
-created: 2026-01-29T19:17:03.984-03:00
-modified: 2026-02-27T13:06:21.460-03:00
-tags:
-  - aldo
-  - asesinato
-  - moro
-  - operacin
-cssclasses: ""
 ---
-
 # Asesinato De Aldo Moro
 
 > [!INFO] Contexto

@@ -1,15 +1,12 @@
 ---
+titulo: Carne Sintética (Lab-Grown)
+tipo: "persona"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [agenda, bill, carne, grown]
 publish: true
-created: 2026-01-29T19:17:06.572-03:00
-modified: 2026-02-27T13:07:03.258-03:00
-tags:
-  - agenda
-  - bill
-  - carne
-  - grown
-cssclasses: ""
 ---
-
 # Carne Sintética (Lab-Grown)
 
 ## Perfil TL (Resumen Ejecutivo)

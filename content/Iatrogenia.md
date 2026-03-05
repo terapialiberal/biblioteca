@@ -1,14 +1,12 @@
 ---
+titulo: Iatrogenia
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [iatrogenia, informe, salud]
 publish: true
-created: 2026-01-29T19:17:17.851-03:00
-modified: 2026-02-27T13:06:59.717-03:00
-tags:
-  - iatrogenia
-  - informe
-  - salud
-cssclasses: ""
 ---
-
 # Iatrogenia
 
 ## Perfil TL (Resumen Ejecutivo)

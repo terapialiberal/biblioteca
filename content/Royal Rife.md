@@ -1,6 +1,6 @@
 ---
 titulo: "Royal Rife (TL V.2): El Descifrador De La Resonancia Vital Y Su Supresión"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

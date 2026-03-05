@@ -1,15 +1,12 @@
 ---
+titulo: César Milani
+tipo: "persona"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [cristina, csar, milani, naciones]
 publish: true
-created: 2026-01-29T19:17:09.501-03:00
-modified: 2026-02-27T13:06:22.624-03:00
-tags:
-  - cristina
-  - csar
-  - milani
-  - naciones
-cssclasses: ""
 ---
-
 # César Milani
 
 ## Resumen General

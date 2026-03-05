@@ -1,6 +1,6 @@
 ---
 titulo: "Ruta Del Mar Del Norte: El Ártico Ruso (TL V.2): El Nuevo Eje Del Mundo"
-tipo: concepto
+tipo: "concepto"
 fecha: 2026-02-25T00:00:00.000Z
 tier-primario: a
 nivel-evidencia: alto

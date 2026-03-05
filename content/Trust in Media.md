@@ -1,15 +1,12 @@
 ---
+titulo: Colapso De Confianza En Los Medios
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [colapso, confianza, medios, trust]
 publish: true
-created: 2026-01-29T19:17:41.559-03:00
-modified: 2026-02-27T13:07:24.946-03:00
-tags:
-  - colapso
-  - confianza
-  - medios
-  - trust
-cssclasses: ""
 ---
-
 # Colapso De Confianza En Los Medios
 
 ## Resumen General

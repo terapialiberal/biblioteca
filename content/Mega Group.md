@@ -1,6 +1,6 @@
 ---
 titulo: "Mega Group (TL V.2): La Sala De Máquinas Del Poder Sionista"
-tipo: empresa
+tipo: "entidad"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

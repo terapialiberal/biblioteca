@@ -1,6 +1,6 @@
 ---
 titulo: Banca en la Sombra - Shadow Banking
-tipo: concepto
+tipo: "concepto"
 tier-primario: "b"
 nivel-evidencia: "alto"
 tags: [finanzas, liquidez, off-shore, riesgo-sistemico]

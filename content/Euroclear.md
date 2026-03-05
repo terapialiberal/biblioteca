@@ -1,15 +1,12 @@
 ---
+titulo: "Euroclear: La Lavandería De La Deuda Soberana"
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [clearstream, deuda, dtcc, lavandera]
 publish: true
-created: 2026-01-29T19:17:12.583-03:00
-modified: 2026-02-27T13:22:40.122-03:00
-tags:
-  - clearstream
-  - deuda
-  - dtcc
-  - lavandera
-cssclasses: ""
 ---
-
 # Euroclear: La Lavandería De La Deuda Soberana
 
 > [!ABSTRACT] Hipótesis Informativa

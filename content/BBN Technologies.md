@@ -1,14 +1,12 @@
 ---
+titulo: BBN Technologies
+tipo: "entidad"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [darpa, raytheon, technologies]
 publish: true
-created: 2026-01-29T19:17:04.977-03:00
-modified: 2026-02-27T13:22:03.809-03:00
-tags:
-  - darpa
-  - raytheon
-  - technologies
-cssclasses: ""
 ---
-
 # BBN Technologies
 
 > [!ABSTRACT] Ficha Técnica

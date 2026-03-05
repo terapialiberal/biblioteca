@@ -1,15 +1,11 @@
 ---
+titulo: Tier B - Los Ejecutores
+tipo: "entidad"
+tier-primario: "b"
+nivel-evidencia: "muy-alto"
+tags: [inteligencia, ejecucion, burocracia, influencia]
 publish: true
-created: 2026-02-25T23:42:18.165-03:00
-modified: 2026-03-04T14:10:56.303-03:00
-tags:
-  - inteligencia
-  - ejecucion
-  - burocracia
-  - influencia
-cssclasses: ""
 ---
-
 # Tier B: Los Ejecutores (V.3)
 
 > [!NOTE] DEFINICIÓN OPERATIVA

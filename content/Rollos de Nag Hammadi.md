@@ -1,14 +1,12 @@
 ---
+titulo: Rollos De Nag Hammadi (La Anomalía Gnóstica)
+tipo: "concepto"
+fecha: 2026-02-25
+tags: [archivos, hammadi, rollos]
+tier-primario: "a"
+nivel-evidencia: "alto"
 publish: true
-created: 2026-02-25T22:08:53.509-03:00
-modified: 2026-02-27T13:23:51.216-03:00
-tags:
-  - archivos
-  - hammadi
-  - rollos
-cssclasses: ""
 ---
-
 
 # Rollos De Nag Hammadi (La Anomalía Gnóstica)
 

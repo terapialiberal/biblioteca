@@ -1,6 +1,6 @@
 ---
 titulo: Solsticios Operativos
-tipo: concepto
+tipo: "concepto"
 tier-primario: "a"
 nivel-evidencia: "bajo"
 tags: [esoterismo, ciclos, tiempo, ritual, poder]

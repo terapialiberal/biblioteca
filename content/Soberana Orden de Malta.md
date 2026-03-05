@@ -1,15 +1,12 @@
 ---
+titulo: Soberana Orden De Malta (SMOM)
+tipo: "entidad"
+fecha: 2026-02-25
+tags: [gladio, malta, noblezas, soberana]
+tier-primario: "a"
+nivel-evidencia: "total"
 publish: true
-created: 2026-02-25T22:08:56.371-03:00
-modified: 2026-02-27T13:23:57.997-03:00
-tags:
-  - gladio
-  - malta
-  - noblezas
-  - soberana
-cssclasses: ""
 ---
-
 
 # Soberana Orden De Malta (SMOM)
 

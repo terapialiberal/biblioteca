@@ -1,6 +1,6 @@
 ---
 titulo: "Sanger Institute (TL V.2): El Panóptico De La Vigilancia Genómica Global"
-tipo: organizacion
+tipo: "entidad"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

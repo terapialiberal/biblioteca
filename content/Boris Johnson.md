@@ -1,14 +1,12 @@
 ---
+titulo: Boris Johnson
+tipo: "persona"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [boris, dominic, johnson]
 publish: true
-created: 2026-01-29T19:17:05.773-03:00
-modified: 2026-02-27T13:06:45.763-03:00
-tags:
-  - boris
-  - dominic
-  - johnson
-cssclasses: ""
 ---
-
 # Boris Johnson
 
 > [!INFO] Perfil Operativo (Tier C)

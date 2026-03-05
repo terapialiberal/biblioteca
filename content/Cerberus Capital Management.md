@@ -1,15 +1,12 @@
 ---
+titulo: Cerberus Capital Management
+tipo: "persona"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [capital, dyncorp, management, stephen]
 publish: true
-created: 2026-01-29T19:17:07.224-03:00
-modified: 2026-02-27T13:22:17.687-03:00
-tags:
-  - capital
-  - dyncorp
-  - management
-  - stephen
-cssclasses: ""
 ---
-
 # Cerberus Capital Management
 
 > [!ABSTRACT] Ficha Técnica

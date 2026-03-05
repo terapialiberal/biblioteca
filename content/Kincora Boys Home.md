@@ -1,6 +1,6 @@
 ---
 titulo: "Kincora Boys Home (TL V.2): El Laboratorio De Extorsión Del MI5"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

@@ -1,12 +1,12 @@
 ---
+titulo: Atanor (Presión Social)
+tipo: "evento"
+fecha: 2026-02-25
+tags: [atanor]
+tier-primario: "b"
+nivel-evidencia: "alto"
 publish: true
-created: 2026-02-25T22:08:52.770-03:00
-modified: 2026-02-27T13:22:01.804-03:00
-tags:
-  - atanor
-cssclasses: ""
 ---
-
 
 # Atanor (Presión Social)
 

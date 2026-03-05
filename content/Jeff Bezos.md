@@ -1,6 +1,6 @@
 ---
 titulo: "Jeff Bezos (TL V.2): El Soberano De La Infraestructura Logística"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

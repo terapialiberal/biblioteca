@@ -1,6 +1,6 @@
 ---
 titulo: Ceguera Inatencional Geopolítica
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tags: [ceguera, geopoltica, inatencional]
 tier-primario: "b"

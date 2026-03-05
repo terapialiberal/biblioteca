@@ -1,6 +1,6 @@
 ---
 titulo: "¸ Les Wexner: El Patrón Y El Sistema De Captura"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

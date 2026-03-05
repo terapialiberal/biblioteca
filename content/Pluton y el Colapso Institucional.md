@@ -1,15 +1,12 @@
 ---
+titulo: Plutón Y El Colapso Institucional
+tipo: "concepto"
+fecha: 2026-02-25
+tags: [colapso, gran, plutn, solve]
+tier-primario: "a"
+nivel-evidencia: "alto"
 publish: true
-created: 2026-02-25T22:08:32.828-03:00
-modified: 2026-02-27T13:23:41.870-03:00
-tags:
-  - colapso
-  - gran
-  - plutn
-  - solve
-cssclasses: ""
 ---
-
 
 # Plutón Y El Colapso Institucional
 

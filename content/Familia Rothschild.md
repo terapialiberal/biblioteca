@@ -1,15 +1,12 @@
 ---
+titulo: "Familia Rothschild: El Patrón Del Nivel 1"
+tipo: "entidad"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [blackrock, declaracin, patrn, rothschild]
 publish: true
-created: 2026-01-29T19:17:13.296-03:00
-modified: 2026-02-27T13:22:42.207-03:00
-tags:
-  - blackrock
-  - declaracin
-  - patrn
-  - rothschild
-cssclasses: ""
 ---
-
 # Familia Rothschild: El Patrón Del Nivel 1
 
 > [!ABSTRACT] Hipótesis Informativa

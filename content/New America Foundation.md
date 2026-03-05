@@ -1,6 +1,6 @@
 ---
 titulo: "New America Foundation (TL V.2): El Departamento De I+D Del Estado Profundo Digital"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

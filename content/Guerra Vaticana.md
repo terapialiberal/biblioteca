@@ -1,15 +1,12 @@
 ---
+titulo: Guerra Vaticana (Francisco Vs Tradición)
+tipo: "persona"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [francisco, guardia, guerra, tradicin]
 publish: true
-created: 2026-01-29T19:17:16.475-03:00
-modified: 2026-02-27T13:06:22.146-03:00
-tags:
-  - francisco
-  - guardia
-  - guerra
-  - tradicin
-cssclasses: ""
 ---
-
 # Guerra Vaticana (Francisco Vs Tradición)
 
 ## Perfil TL (Resumen Ejecutivo)

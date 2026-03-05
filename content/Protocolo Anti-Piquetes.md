@@ -1,6 +1,6 @@
 ---
 titulo: "Protocolo Anti-Piquetes (TL V.2): La Doctrina Del Orden Público"
-tipo: evento
+tipo: "evento"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

@@ -1,6 +1,6 @@
 ---
 titulo: El Antimonio y la Purga de la Matrix
-tipo: 'concepto'
+tipo: "concepto"
 tier-primario: 'b'
 nivel-evidencia: 'medio'
 tags: [clasificado-ai]

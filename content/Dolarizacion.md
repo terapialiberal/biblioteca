@@ -1,14 +1,12 @@
 ---
+titulo: Dolarización
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [dolarizacin, javier, seoreaje]
 publish: true
-created: 2026-01-29T19:17:10.474-03:00
-modified: 2026-02-27T13:22:30.812-03:00
-tags:
-  - dolarizacin
-  - javier
-  - seoreaje
-cssclasses: ""
 ---
-
 # Dolarización
 
 ## Resumen General

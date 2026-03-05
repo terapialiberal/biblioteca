@@ -1,6 +1,6 @@
 ---
 titulo: "Archivos Epstein (2026): El Vertido De Datos Definitivo"
-tipo: articulo
+tipo: "entidad"
 fecha: 2026-01-30
 tier-primario: "b"
 nivel-evidencia: "alto"

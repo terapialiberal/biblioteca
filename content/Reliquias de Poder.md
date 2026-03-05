@@ -1,13 +1,12 @@
 ---
+titulo: Reliquias De Poder (Arca Y Grial)
+tipo: "concepto"
+fecha: 2026-02-25
+tags: [poder, reliquias]
+tier-primario: "a"
+nivel-evidencia: "medio"
 publish: true
-created: 2026-02-25T22:08:54.563-03:00
-modified: 2026-02-27T13:23:48.131-03:00
-tags:
-  - poder
-  - reliquias
-cssclasses: ""
 ---
-
 
 # Reliquias De Poder (Arca Y Grial)
 

@@ -1,15 +1,12 @@
 ---
+titulo: Derecho a Reparar (Right to Repair)
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [obsolescencia, repair, reparar, right]
 publish: true
-created: 2026-01-29T19:17:10.042-03:00
-modified: 2026-02-27T13:22:29.099-03:00
-tags:
-  - obsolescencia
-  - repair
-  - reparar
-  - right
-cssclasses: ""
 ---
-
 # Derecho a Reparar (Right to Repair)
 
 ## Perfil TL (Resumen Ejecutivo)

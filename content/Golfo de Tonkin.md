@@ -1,15 +1,12 @@
 ---
+titulo: Golfo De Tonkín (Incidente)
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [complejo, falsa, golfo, tonkn]
 publish: true
-created: 2026-01-29T19:17:15.615-03:00
-modified: 2026-02-27T13:22:48.903-03:00
-tags:
-  - complejo
-  - falsa
-  - golfo
-  - tonkn
-cssclasses: ""
 ---
-
 # Golfo De Tonkín (Incidente)
 
 ## Perfil TL (Resumen Ejecutivo)

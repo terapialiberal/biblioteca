@@ -7,7 +7,7 @@ tags: [moc, indice, tl-v3, zettelkasten]
 # 00 MOC MAESTRO - BASE DE CONOCIMIENTO
 
 > **El Cerebro de Terapia Liberal.**
-> Esta carpeta (`03_Base_de_Conocimiento`) contiene +2000 notas atómicas organizadas por el sistema Zettelkasten y estructuradas a través de Mapas de Contenido (MOCs). Todo análisis profundo interactúa con estos nodos.
+> Esta carpeta (`04_Base_de_Conocimiento`) contiene +2000 notas atómicas organizadas por el sistema Zettelkasten y estructuradas a través de Mapas de Contenido (MOCs). Todo análisis profundo interactúa con estos nodos.
 
 ---
 

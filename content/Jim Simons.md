@@ -1,6 +1,6 @@
 ---
 titulo: "Jim Simons (TL V.2): El Criptógrafo Del Capital Soberano"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

@@ -1,6 +1,6 @@
 ---
 titulo: "Reserva Federal: El Motor De La Deuda (Nivel 2 / Tier B)"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

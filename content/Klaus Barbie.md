@@ -1,6 +1,6 @@
 ---
 titulo: "Klaus Barbie (TL V.2): El Mercenario De La Sangre Del Estado Profundo"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

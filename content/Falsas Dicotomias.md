@@ -1,15 +1,12 @@
 ---
+titulo: Falsas Dicotomías
+tipo: "persona"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [dialctica, dicotomas, divide, falsas]
 publish: true
-created: 2026-01-29T19:17:13.065-03:00
-modified: 2026-02-27T13:22:41.254-03:00
-tags:
-  - dialctica
-  - dicotomas
-  - divide
-  - falsas
-cssclasses: ""
 ---
-
 # Falsas Dicotomías
 
 ## Perfil TL (Resumen Ejecutivo)

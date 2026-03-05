@@ -1,6 +1,6 @@
 ---
 titulo: "Sandy Hook (TL V.2): El Trauma Sagrado Y El Cierre De La Disidencia"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

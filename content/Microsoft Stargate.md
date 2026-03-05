@@ -1,6 +1,6 @@
 ---
 titulo: Microsoft Stargate
-tipo: 'organizacion'
+tipo: "entidad"
 tier-primario: 'a'
 nivel-evidencia: 'medio'
 tags: [clasificado-ai]

@@ -1,6 +1,6 @@
 ---
 titulo: NEURALINK (TL V.2)
-tipo: concepto
+tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "a"
 nivel-evidencia: "alto"

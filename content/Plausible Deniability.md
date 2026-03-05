@@ -1,6 +1,6 @@
 ---
 titulo: "Plausible Deniability (TL V.2): El Escudo De La Impunidad De Ã‰lite"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

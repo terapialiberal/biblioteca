@@ -1,15 +1,12 @@
 ---
+titulo: Lenguaje De Los Pájaros (Diplomacia Fonética)
+tipo: "concepto"
+fecha: 2026-02-25
+tags: [fulcanelli, gematra, lenguaje, pjaros]
+tier-primario: "a"
+nivel-evidencia: "medio"
 publish: true
-created: 2026-02-25T22:08:54.198-03:00
-modified: 2026-02-27T13:23:12.548-03:00
-tags:
-  - fulcanelli
-  - gematra
-  - lenguaje
-  - pjaros
-cssclasses: ""
 ---
-
 
 # Lenguaje De Los Pájaros (Diplomacia Fonética)
 

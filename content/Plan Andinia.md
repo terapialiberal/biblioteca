@@ -1,6 +1,6 @@
 ---
 titulo: "Plan Andinia (TL V.2): El Arca De Noé De La Patagonia"
-tipo: evento
+tipo: "evento"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

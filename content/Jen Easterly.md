@@ -1,6 +1,6 @@
 ---
 titulo: "Jen Easterly (TL V.2): La Comisaria De La Infraestructura Cognitiva"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

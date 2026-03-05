@@ -1,6 +1,6 @@
 ---
 titulo: "SpaceX (TL V.2): El Contratista Del Destino Planetario De La Matrix"
-tipo: empresa
+tipo: "entidad"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

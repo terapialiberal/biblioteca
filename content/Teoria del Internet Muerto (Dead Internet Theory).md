@@ -1,15 +1,12 @@
 ---
+titulo: Teoría Del Internet Muerto (Dead Internet Theory)
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [dead, internet, muerto, theory]
 publish: true
-created: 2026-01-29T19:17:39.079-03:00
-modified: 2026-02-27T13:07:05.831-03:00
-tags:
-  - dead
-  - internet
-  - muerto
-  - theory
-cssclasses: ""
 ---
-
 # Teoría Del Internet Muerto (Dead Internet Theory)
 
 > **Perfil TL:** Profundizar: IA hablando con IA.

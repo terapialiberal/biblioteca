@@ -1,15 +1,12 @@
 ---
+titulo: Eustace Mullins
+tipo: "persona"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [conferencia, eustace, mullins, reserva]
 publish: true
-created: 2026-01-29T19:17:12.673-03:00
-modified: 2026-02-27T13:06:27.064-03:00
-tags:
-  - conferencia
-  - eustace
-  - mullins
-  - reserva
-cssclasses: ""
 ---
-
 # Eustace Mullins
 
 > [!INFO] Perfil (Investigador/Author)

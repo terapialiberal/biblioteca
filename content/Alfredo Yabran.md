@@ -1,15 +1,12 @@
 ---
+titulo: Resumen General
+tipo: "persona"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [alfredo, carlos, domingo, yabrn]
 publish: true
-created: 2026-01-29T19:17:03.262-03:00
-modified: 2026-02-27T13:07:44.326-03:00
-tags:
-  - alfredo
-  - carlos
-  - domingo
-  - yabrn
-cssclasses: ""
 ---
-
 # Resumen General
 Alfredo Yabrán (1944-1998) fue el empresario más misterioso y poderoso de la Argentina de los 90. Dueño oculto de correos privados (OCA), logística y depósitos fiscales, su frase "El poder es tener impunidad" define una era. Su suicidio (¿o desaparición?) tras el crimen de Cabezas cerró una de las cajas negras más grandes de la política argentina.
 

@@ -1,15 +1,12 @@
 ---
+titulo: Dialéctica Hegeliana
+tipo: "persona"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [antony, dialctica, hegeliana, strategy]
 publish: true
-created: 2026-01-29T19:17:10.209-03:00
-modified: 2026-02-27T13:22:29.685-03:00
-tags:
-  - antony
-  - dialctica
-  - hegeliana
-  - strategy
-cssclasses: ""
 ---
-
 # Dialéctica Hegeliana
 
 ## Resumen Ejecutivo

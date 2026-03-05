@@ -1,15 +1,12 @@
 ---
+titulo: "Five Eyes Alliance: La Red De Vigilancia Global"
+tipo: "persona"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [eyes, five, global, vigilancia]
 publish: true
-created: 2026-01-29T19:17:13.796-03:00
-modified: 2026-02-27T13:22:43.607-03:00
-tags:
-  - eyes
-  - five
-  - global
-  - vigilancia
-cssclasses: ""
 ---
-
 # Five Eyes Alliance: La Red De Vigilancia Global
 
 > [!ABSTRACT] Hipótesis Informativa

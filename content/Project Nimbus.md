@@ -1,6 +1,6 @@
 ---
 titulo: "Project Nimbus (TL V.2): El Cerebro Digital De La Ocupación"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

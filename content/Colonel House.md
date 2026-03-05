@@ -1,15 +1,12 @@
 ---
+titulo: Colonel House
+tipo: "persona"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [colonel, familia, house, woodrow]
 publish: true
-created: 2026-01-29T19:17:08.281-03:00
-modified: 2026-02-27T13:22:21.043-03:00
-tags:
-  - colonel
-  - familia
-  - house
-  - woodrow
-cssclasses: ""
 ---
-
 ![Colonel House](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Edward_M_House.jpg/220px-Edward_M_House.jpg)
 # Colonel House
 

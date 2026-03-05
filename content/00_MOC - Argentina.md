@@ -1,7 +1,7 @@
 ---
 publish: true
 titulo: "🇦🇷 MOC - Argentina: La Estructura De Poder"
-tipo: concepto
+tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: b
 nivel-evidencia: medio

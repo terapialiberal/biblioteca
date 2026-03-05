@@ -1,15 +1,11 @@
 ---
+titulo: Alquimia Sexual
+tipo: "concepto"
+tier-primario: "a"
+nivel-evidencia: "medio"
+tags: [esoterismo, energia, control, sexualidad]
 publish: true
-created: 2026-02-25T22:08:55.473-03:00
-modified: 2026-03-04T14:13:48.660-03:00
-tags:
-  - esoterismo
-  - energia
-  - control
-  - sexualidad
-cssclasses: ""
 ---
-
 # Alquimia Sexual (V.3)
 
 > [!CAUTION] MÓDULO SENSIBLE

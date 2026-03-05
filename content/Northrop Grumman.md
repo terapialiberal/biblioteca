@@ -1,6 +1,6 @@
 ---
 titulo: "Northrop Grumman (TL V.2): El Brazo De Invisibilidad Del Imperio"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

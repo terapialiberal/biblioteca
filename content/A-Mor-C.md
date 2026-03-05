@@ -1,13 +1,12 @@
 ---
+titulo: A-Mor-C (Antigua Y Mística Orden De La Rosa-Cruz)
+tipo: "entidad"
+fecha: 2026-02-25
+tags: [egiptologa, rosacrucismo]
+tier-primario: "c"
+nivel-evidencia: "total"
 publish: true
-created: 2026-02-25T22:08:52.415-03:00
-modified: 2026-02-27T13:21:56.833-03:00
-tags:
-  - egiptologa
-  - rosacrucismo
-cssclasses: ""
 ---
-
 
 # A-Mor-C (Antigua Y Mística Orden De La Rosa-Cruz)
 

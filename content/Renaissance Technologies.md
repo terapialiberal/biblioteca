@@ -1,6 +1,6 @@
 ---
 titulo: "Renaissance Technologies (TL V.2): El Algoritmo De La Riqueza Absoluta"
-tipo: empresa
+tipo: "entidad"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

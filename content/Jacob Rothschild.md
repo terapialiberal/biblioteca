@@ -1,6 +1,6 @@
 ---
 titulo: "Jacob Rothschild (TL V.2): El Custodio Del Orden Global"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

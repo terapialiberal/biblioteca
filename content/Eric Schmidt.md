@@ -1,15 +1,12 @@
 ---
+titulo: Eric Schmidt
+tipo: "persona"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [eric, google, panptico, schmidt]
 publish: true
-created: 2026-01-29T19:17:11.936-03:00
-modified: 2026-02-27T13:22:38.704-03:00
-tags:
-  - eric
-  - google
-  - panptico
-  - schmidt
-cssclasses: ""
 ---
-
 # Eric Schmidt
 
 ## Perfil TL (Resumen Ejecutivo)

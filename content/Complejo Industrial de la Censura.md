@@ -1,15 +1,11 @@
 ---
+titulo: Complejo Industrial de la Censura
+tipo: "entidad"
+tier-primario: "b"
+nivel-evidencia: "muy-alto"
+tags: [vigilancia, narrativa, censura, inteligencia]
 publish: true
-created: 2026-01-29T19:17:08.439-03:00
-modified: 2026-03-04T14:11:10.593-03:00
-tags:
-  - vigilancia
-  - narrativa
-  - censura
-  - inteligencia
-cssclasses: ""
 ---
-
 # Complejo Industrial de la Censura (V.3)
 
 > [!WARNING] ALERTA DE VIGILANCIA

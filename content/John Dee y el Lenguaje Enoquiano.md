@@ -1,6 +1,6 @@
 ---
 titulo: John Dee y el Lenguaje Enoquiano
-tipo: 'persona'
+tipo: "persona"
 tier-primario: 'b'
 nivel-evidencia: 'medio'
 tags: [clasificado-ai]

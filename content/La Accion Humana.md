@@ -1,6 +1,6 @@
 ---
 titulo: "La Acción Humana (TL V.2): El Código Fuente De La Desobediencia Económica"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

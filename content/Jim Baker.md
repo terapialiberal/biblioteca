@@ -1,6 +1,6 @@
 ---
 titulo: "Jim Baker (TL V.2): El Comisario De La Puerta Giratoria"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

@@ -1,6 +1,6 @@
 ---
 titulo: Fort Detrick
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

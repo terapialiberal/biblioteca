@@ -1,15 +1,12 @@
 ---
+titulo: Dupont Y PFOA
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [blackrock, dupont, monsanto, pfoa]
 publish: true
-created: 2026-01-29T19:17:10.664-03:00
-modified: 2026-02-27T13:22:31.687-03:00
-tags:
-  - blackrock
-  - dupont
-  - monsanto
-  - pfoa
-cssclasses: ""
 ---
-
 # Dupont Y PFOA
 
 ## Resumen Ejecutivo

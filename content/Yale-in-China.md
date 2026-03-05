@@ -1,15 +1,12 @@
 ---
+titulo: Yale-in-China (La Red De influencia)
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [china, familia, influencia, skull]
 publish: true
-created: 2026-01-29T19:17:44.820-03:00
-modified: 2026-02-27T13:06:20.400-03:00
-tags:
-  - china
-  - familia
-  - influencia
-  - skull
-cssclasses: ""
 ---
-
 # Yale-in-China (La Red De influencia)
 
 ## Resumen Ejecutivo

@@ -1,6 +1,6 @@
 ---
 titulo: "Rory Stewart (TL V.2): El Insider Clásico Y El Espejismo De La Democracia"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

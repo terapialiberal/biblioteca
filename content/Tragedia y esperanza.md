@@ -1,15 +1,11 @@
 ---
+titulo: Tragedia Y Esperanza
+tipo: "concepto"
+source: "https://wikispooks.com/wiki/Tragedy_and_Hope"
+fecha: 1966
+tags: [quigley, historia, elite, global]
 publish: true
-created: 2026-01-29T19:05:11.723-03:00
-modified: 2026-02-27T13:24:04.784-03:00
-tags:
-  - quigley
-  - historia
-  - elite
-  - global
-cssclasses: ""
 ---
-
 # Tragedia Y Esperanza
 ![](https://wikispooks.com/w/images/6/65/Tragedy_and_Hope.jpg)
 

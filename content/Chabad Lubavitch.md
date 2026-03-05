@@ -1,7 +1,7 @@
 ---
 publish: true
 titulo: "Chabad Lubavitch (TL V.2): La Infraestructura De Coordinación Del Poder"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

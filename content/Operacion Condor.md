@@ -1,6 +1,6 @@
 ---
 titulo: "Operación Condor (TL V.2): El Sindicato Del Crimen De Estado"
-tipo: evento
+tipo: "evento"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

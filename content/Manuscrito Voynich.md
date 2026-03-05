@@ -1,13 +1,12 @@
 ---
+titulo: Manuscrito Voynich (Cifrado De Alta Extrañeza)
+tipo: "persona"
+fecha: 2026-02-25
+tags: [manuscrito, voynich]
+tier-primario: "a"
+nivel-evidencia: "alto"
 publish: true
-created: 2026-02-25T22:08:53.848-03:00
-modified: 2026-02-27T13:23:18.122-03:00
-tags:
-  - manuscrito
-  - voynich
-cssclasses: ""
 ---
-
 
 # Manuscrito Voynich (Cifrado De Alta Extrañeza)
 

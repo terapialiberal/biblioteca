@@ -1,15 +1,12 @@
 ---
+titulo: Gobernanza Algorítmica
+tipo: "persona"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [algortmica, gobernanza, inteligencia, tecnocracia]
 publish: true
-created: 2026-01-29T19:17:15.573-03:00
-modified: 2026-02-27T13:22:48.851-03:00
-tags:
-  - algortmica
-  - gobernanza
-  - inteligencia
-  - tecnocracia
-cssclasses: ""
 ---
-
 # Gobernanza Algorítmica
 
 ## Perfil TL (Resumen Ejecutivo)

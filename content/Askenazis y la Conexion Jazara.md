@@ -1,15 +1,12 @@
 ---
+titulo: Askenazis Y La Conexión Jázara — La Capa De Gestión Intermedia
+tipo: "concepto"
+fecha: 2026-02-25
+tags: [askenazis, jzara, mafia, venecia]
+tier-primario: "b"
+nivel-evidencia: "medio"
 publish: true
-created: 2026-02-25T22:35:58.212-03:00
-modified: 2026-02-27T13:22:00.543-03:00
-tags:
-  - askenazis
-  - jzara
-  - mafia
-  - venecia
-cssclasses: ""
 ---
-
 
 # Askenazis Y La Conexión Jázara — La Capa De Gestión Intermedia
 
@@ -38,7 +35,7 @@ cssclasses: ""
 ## Conexiones Críticas
 - [[Mafia Jázara]]: La versión criminalizada y profunda de esta red.
 - [[Venecia - La Serenísima y el Diseño del Poder]]: Los socios de Tier A que absorbieron esta tecnología financiera.
-- [[Historia de la Banca Central - El Ledger de Captura]]: El legado técnico de esta conexión.
+- [[05_Fuentes/Historia de la Banca Central - El Ledger de Captura]]: El legado técnico de esta conexión.
 
 ---
 **Versión:** 2.0 (Deepened)

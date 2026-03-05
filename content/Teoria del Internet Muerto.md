@@ -1,16 +1,11 @@
 ---
+titulo: Teoria del Internet Muerto
+tipo: "concepto"
+tier-primario: "b"
+nivel-evidencia: "alto"
+tags: [tecnologia, narrativas, ia, bots, simulacro]
 publish: true
-created: 2026-01-29T19:17:39.129-03:00
-modified: 2026-03-04T14:12:11.025-03:00
-tags:
-  - tecnologia
-  - narrativas
-  - ia
-  - bots
-  - simulacro
-cssclasses: ""
 ---
-
 # Teoría del Internet Muerto (V.3)
 
 > [!WARNING] AXIOMA 5

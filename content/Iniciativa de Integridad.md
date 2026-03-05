@@ -1,15 +1,12 @@
 ---
+titulo: Iniciativa De Integridad (Integrity Initiative)
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [brigada, initiative, integridad, otan]
 publish: true
-created: 2026-01-29T19:17:18.450-03:00
-modified: 2026-02-27T13:22:56.511-03:00
-tags:
-  - brigada
-  - initiative
-  - integridad
-  - otan
-cssclasses: ""
 ---
-
 # Iniciativa De Integridad (Integrity Initiative)
 
 ## Perfil TL (Resumen Ejecutivo)

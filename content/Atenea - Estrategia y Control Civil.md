@@ -1,15 +1,12 @@
 ---
+titulo: Atenea - Estrategia Y Control Civil
+tipo: "concepto"
+fecha: 2026-02-25
+tags: [atenea, civil, control, estrategia]
+tier-primario: "b"
+nivel-evidencia: "alto"
 publish: true
-created: 2026-02-25T22:29:21.295-03:00
-modified: 2026-02-27T13:22:01.816-03:00
-tags:
-  - atenea
-  - civil
-  - control
-  - estrategia
-cssclasses: ""
 ---
-
 
 # Atenea - Estrategia Y Control Civil
 

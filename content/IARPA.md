@@ -1,15 +1,12 @@
 ---
+titulo: "IARPA: La Predicción Del Futuro Humano"
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [darpa, futuro, palantir, prediccin]
 publish: true
-created: 2026-01-29T19:17:17.829-03:00
-modified: 2026-02-27T13:22:53.477-03:00
-tags:
-  - darpa
-  - futuro
-  - palantir
-  - prediccin
-cssclasses: ""
 ---
-
 # IARPA: La Predicción Del Futuro Humano
 
 > [!ABSTRACT] Hipótesis Informativa

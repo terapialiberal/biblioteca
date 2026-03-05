@@ -1,15 +1,12 @@
 ---
+titulo: Hermanos Musulmanes (Muslim Brotherhood)
+tipo: "persona"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [hamas, hermanos, muslim, primaveras]
 publish: true
-created: 2026-01-29T19:17:17.038-03:00
-modified: 2026-02-27T13:06:59.757-03:00
-tags:
-  - hamas
-  - hermanos
-  - muslim
-  - primaveras
-cssclasses: ""
 ---
-
 # Hermanos Musulmanes (Muslim Brotherhood)
 
 ## Perfil TL (Resumen Ejecutivo)

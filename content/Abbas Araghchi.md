@@ -1,7 +1,7 @@
 ---
 publish: true
 titulo: Abbas Araghchi
-tipo: 'persona'
+tipo: "persona"
 tier-primario: 'c'
 nivel-evidencia: 'alto'
 tags: [iran, negociador, diplomacia]
@@ -19,7 +19,7 @@ Araghchi representa la facción "reformista funcional" que busca alivio de sanci
 ## ⛓️ Conexiones
 - **[[Ali Khamenei]]**: Recibe órdenes directas del Líder Supremo.
 - **[[Masoud Pezeshkian]]**: Canciller bajo su presidencia.
-- **[[99_AI/Legacy/Project mBridge]]**: Promotor de la integración financiera de Irán en el bloque BRICS+.
+- **[[Project mBridge]]**: Promotor de la integración financiera de Irán en el bloque BRICS+.
 
 ---
 *TL V.3 | 2026-03-04*

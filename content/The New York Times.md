@@ -1,15 +1,12 @@
 ---
+titulo: The New York Times
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [familia, guerra, times, york]
 publish: true
-created: 2026-01-29T19:17:39.945-03:00
-modified: 2026-02-27T13:07:52.167-03:00
-tags:
-  - familia
-  - guerra
-  - times
-  - york
-cssclasses: ""
 ---
-
 ![NYT Building](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/New_York_Times_Building_Nov_2008.jpg/220px-New_York_Times_Building_Nov_2008.jpg)
 # The New York Times
 

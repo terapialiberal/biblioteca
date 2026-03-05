@@ -1,6 +1,6 @@
 ---
 titulo: "Schmidt Futures (TL V.2): El Caballo De Troya De La Tecnocracia De Ã‰lite"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

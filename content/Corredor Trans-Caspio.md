@@ -1,6 +1,6 @@
 ---
 titulo: Corredor Trans-Caspio
-tipo: 'organizacion'
+tipo: "entidad"
 tier-primario: 'b'
 nivel-evidencia: 'medio'
 tags: [clasificado-ai]

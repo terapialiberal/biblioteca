@@ -1,14 +1,12 @@
 ---
+titulo: Elección De Milei
+tipo: "evento"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [eleccin, javier, milei]
 publish: true
-created: 2026-01-29T19:17:11.618-03:00
-modified: 2026-02-27T13:22:37.408-03:00
-tags:
-  - eleccin
-  - javier
-  - milei
-cssclasses: ""
 ---
-
 # Elección De Milei
 
 > [!INFO] Contexto

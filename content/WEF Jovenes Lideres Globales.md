@@ -1,15 +1,12 @@
 ---
+titulo: WEF Jóvenes Líderes Globales
+tipo: "entidad"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [elon, jvenes, klaus, lderes]
 publish: true
-created: 2026-01-29T19:17:44.084-03:00
-modified: 2026-02-27T13:07:09.093-03:00
-tags:
-  - elon
-  - jvenes
-  - klaus
-  - lderes
-cssclasses: ""
 ---
-
 # WEF Jóvenes Líderes Globales
 ![](https://wikispooks.com/w/images/d/d7/Wikispooks_on_WEF_Young_Leaders2.png)
 

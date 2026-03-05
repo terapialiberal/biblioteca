@@ -1,6 +1,6 @@
 ---
 titulo: PROMIS Software
-tipo: organizacion
+tipo: "entidad"
 fecha: 2026-03-04
 tier-primario: "b"
 nivel-evidencia: "alto"

@@ -1,6 +1,6 @@
 ---
 titulo: "Jack Parsons (TL V.2): El Alquimista De La Era Espacial"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

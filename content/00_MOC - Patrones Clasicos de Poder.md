@@ -1,6 +1,6 @@
 ---
 titulo: 00_MOC - Patrones Clasicos de Poder
-tipo: 'concepto'
+tipo: "concepto"
 tier-primario: 'b'
 nivel-evidencia: 'medio'
 tags: [clasificado-ai]
@@ -69,7 +69,7 @@ tags: [moc, patrones, geopolitica, teoria-de-juegos, tl-v2]
 
 ---
 *Versión: TL V.2 | Nodo Central: [[00_MOC_MAESTRO_BASE_DE_CONOCIMIENTO]]*
-*Nuevos hallazgos enviarlos a: `01_Ideas/Patrones_Detectados/`*
+*Nuevos hallazgos enviarlos a: `01_Research/Patrones_Detectados/`*
 
 - [[Canary in Coal Mine\|Canary in Coal Mine]]
 - [[GAME_THEORY\|GAME_THEORY]]

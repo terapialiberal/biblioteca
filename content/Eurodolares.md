@@ -1,15 +1,12 @@
 ---
+titulo: Eurodólares (Eurodollar Market)
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [city, eurodollar, eurodlares, reserva]
 publish: true
-created: 2026-01-29T19:17:12.602-03:00
-modified: 2026-02-27T13:06:41.838-03:00
-tags:
-  - city
-  - eurodollar
-  - eurodlares
-  - reserva
-cssclasses: ""
 ---
-
 # Eurodólares (Eurodollar Market)
 
 ## Resumen General

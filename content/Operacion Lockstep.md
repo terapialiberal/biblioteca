@@ -1,6 +1,6 @@
 ---
 titulo: "Operación Lockstep (TL V.2): El Guion Del Control Biosocial"
-tipo: evento
+tipo: "evento"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

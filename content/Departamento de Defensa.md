@@ -1,15 +1,12 @@
 ---
+titulo: Departamento De Defensa (DoD)
+tipo: "entidad"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [darpa, defensa, departamento, pentgono]
 publish: true
-created: 2026-01-29T19:17:09.993-03:00
-modified: 2026-02-27T13:22:29.049-03:00
-tags:
-  - darpa
-  - defensa
-  - departamento
-  - pentgono
-cssclasses: ""
 ---
-
 # Departamento De Defensa (DoD)
 
 ## Perfil TL (Resumen Ejecutivo)

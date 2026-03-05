@@ -1,6 +1,6 @@
 ---
 titulo: Caída De Kabul (2021)
-tipo: evento
+tipo: "evento"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

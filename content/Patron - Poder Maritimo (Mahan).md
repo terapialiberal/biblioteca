@@ -1,6 +1,6 @@
 ---
 titulo: Patron - Poder Maritimo (Mahan)
-tipo: 'concepto'
+tipo: "concepto"
 tier-primario: 'b'
 nivel-evidencia: 'medio'
 tags: [clasificado-ai]

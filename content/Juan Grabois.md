@@ -1,6 +1,6 @@
 ---
 titulo: "Juan Grabois (TL V.2): El Gestor Del Feudalismo De La Exclusión"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

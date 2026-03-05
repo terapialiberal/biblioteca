@@ -1,15 +1,12 @@
 ---
+titulo: Hermanos Dulles (Allen & John Foster)
+tipo: "persona"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [asesinato, dulles, hermanos, mkultra]
 publish: true
-created: 2026-01-29T19:17:17.013-03:00
-modified: 2026-02-27T13:22:51.850-03:00
-tags:
-  - asesinato
-  - dulles
-  - hermanos
-  - mkultra
-cssclasses: ""
 ---
-
 # Hermanos Dulles (Allen & John Foster)
 
 ## Perfil TL (Resumen Ejecutivo)

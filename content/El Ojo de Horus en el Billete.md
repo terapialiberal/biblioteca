@@ -1,13 +1,12 @@
 ---
+titulo: El Ojo De Horus En El Billete - La Vigilancia Del Crédito
+tipo: "concepto"
+fecha: 2026-02-25
+tags: [billete, horus]
+tier-primario: "a"
+nivel-evidencia: "alto"
 publish: true
-created: 2026-02-25T22:08:54.945-03:00
-modified: 2026-02-27T13:22:36.145-03:00
-tags:
-  - billete
-  - horus
-cssclasses: ""
 ---
-
 
 # El Ojo De Horus En El Billete - La Vigilancia Del Crédito
 

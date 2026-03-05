@@ -1,14 +1,12 @@
 ---
+titulo: "Sinarquía (Saint-Yves d'Alveydre)"
+tipo: "concepto"
+fecha: 2026-02-25
+tags: [comisin, sinarqua, tecnocracia]
+tier-primario: "a"
+nivel-evidencia: "alto"
 publish: true
-created: 2026-02-25T22:08:51.806-03:00
-modified: 2026-02-27T13:23:55.455-03:00
-tags:
-  - comisin
-  - sinarqua
-  - tecnocracia
-cssclasses: ""
 ---
-
 
 # Sinarquía (Saint-Yves d'Alveydre)
 

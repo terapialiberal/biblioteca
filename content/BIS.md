@@ -1,15 +1,12 @@
 ---
+titulo: "BIS: El Centro Del Cartel (Nivel 1)"
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [blackrock, cartel, centro, reserva]
 publish: true
-created: 2026-01-29T19:17:05.462-03:00
-modified: 2026-02-27T13:22:05.208-03:00
-tags:
-  - blackrock
-  - cartel
-  - centro
-  - reserva
-cssclasses: ""
 ---
-
 # BIS: El Centro Del Cartel (Nivel 1)
 
 > [!ABSTRACT] Hipótesis Informativa

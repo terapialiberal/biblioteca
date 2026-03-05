@@ -1,14 +1,12 @@
 ---
+titulo: Edificio 7 (WTC 7)
+tipo: "persona"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [anomalas, edificio, larry]
 publish: true
-created: 2026-01-29T19:17:10.891-03:00
-modified: 2026-02-27T13:22:32.426-03:00
-tags:
-  - anomalas
-  - edificio
-  - larry
-cssclasses: ""
 ---
-
 # Edificio 7 (WTC 7)
 
 ## Perfil TL (Resumen Ejecutivo)

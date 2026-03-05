@@ -1,16 +1,12 @@
 ---
+titulo: Terry Davis
+tipo: "persona"
+fecha: 2026-03-04
+tier-primario: "c"
+nivel-evidencia: "medio"
+tags: [temple-os, programacion, resistencia, salud-mental, cia]
 publish: true
-created: 2026-01-29T19:17:39.326-03:00
-modified: 2026-03-04T13:54:54.851-03:00
-tags:
-  - temple-os
-  - programacion
-  - resistencia
-  - salud-mental
-  - cia
-cssclasses: ""
 ---
-
 # Terry Davis: El Arquitecto del Templo Digital (V.3)
 
 > [!IMPORTANT] AXIOMA 11: EL SILENCIO POSITIVO

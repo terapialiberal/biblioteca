@@ -1,14 +1,12 @@
 ---
+titulo: Estrecho de Ormuz
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [digital, estrecho, ormuz]
 publish: true
-created: 2026-02-09T17:24:53.805-03:00
-modified: 2026-02-27T13:22:40.084-03:00
-tags:
-  - digital
-  - estrecho
-  - ormuz
-cssclasses: ""
 ---
-
 # [[Estrecho de Ormuz]]
 
 **Clasificación:** Vital (Gatillo de Crisis Energética)  

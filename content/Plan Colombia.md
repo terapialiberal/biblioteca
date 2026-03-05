@@ -1,6 +1,6 @@
 ---
 titulo: "Plan Colombia (TL V.2): La Militarización Negocio Del Narcotráfico"
-tipo: evento
+tipo: "evento"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

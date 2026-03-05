@@ -1,16 +1,11 @@
 ---
+titulo: HAARP - High Frequency Active Auroral Research Program
+tipo: "entidad"
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [tecnologia, ionosfera, clima, señales, control]
 publish: true
-created: 2026-01-29T19:17:16.642-03:00
-modified: 2026-03-04T14:13:23.261-03:00
-tags:
-  - tecnologia
-  - ionosfera
-  - clima
-  - señales
-  - control
-cssclasses: ""
 ---
-
 # HAARP y el Control del Ether (V.3)
 
 > [!WARNING] PERSPECTIVA TL

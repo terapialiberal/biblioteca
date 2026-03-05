@@ -1,16 +1,12 @@
 ---
+titulo: Documento El Pulpo
+tipo: "concepto"
+fecha: 2026-03-04
+tier-primario: "b"
+nivel-evidencia: "alto"
+tags: [casolaro, promis, inteligencia, pulpo, espionaje]
 publish: true
-created: 2026-01-29T19:17:10.440-03:00
-modified: 2026-03-04T13:52:35.326-03:00
-tags:
-  - casolaro
-  - promis
-  - inteligencia
-  - pulpo
-  - espionaje
-cssclasses: ""
 ---
-
 # El Pulpo (The Octopus): La Red de Inteligencia Privatizada
 
 > [!CAUTION] ADVERTENCIA HISTÓRICA

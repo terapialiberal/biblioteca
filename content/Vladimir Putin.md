@@ -1,16 +1,12 @@
 ---
+titulo: Vladimir Putin
+tipo: "persona"
+fecha: 2026-03-04
+tier-primario: "b"
+nivel-evidencia: "alto"
+tags: [putin, rusia, rimland, brics, iran-2026]
 publish: true
-created: 2026-01-29T19:17:43.475-03:00
-modified: 2026-03-04T13:46:09.600-03:00
-tags:
-  - putin
-  - rusia
-  - rimland
-  - brics
-  - iran-2026
-cssclasses: ""
 ---
-
 # Vladimir Putin
 
 > [!INFO] Perfil Operativo (Tier B)
@@ -20,7 +16,7 @@ cssclasses: ""
 ## 🔎 Análisis Forense (2026)
 Putin opera como un soberanista táctico dentro de la Matrix. En 2026, su estrategia se centra en:
 1. **Guerra de Desgaste:** Mantener el frente en Ucrania para agotar los recursos logísticos del Tier B occidental.
-2. **Pivot al Sur:** Tras el magnicidio de [[Ali Khamenei]], Putin ha acelerado la integración de Irán en los sistemas de pago rusos (SPFS) y el [[99_AI/Legacy/Project mBridge]].
+2. **Pivot al Sur:** Tras el magnicidio de [[Ali Khamenei]], Putin ha acelerado la integración de Irán en los sistemas de pago rusos (SPFS) y el [[Project mBridge]].
 3. **Equilibrio de Nash:** Jugar con la competencia interna por el Tier A (BlackRock/Vanguard) ofreciendo activos de energía y seguridad en un mundo fragmentado.
 
 ## ⚡ Reacción al Magnicidio 2026

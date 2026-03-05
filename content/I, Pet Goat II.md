@@ -1,14 +1,12 @@
 ---
+titulo: I, Pet Goat II
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [goat, programacin, simbologa]
 publish: true
-created: 2026-01-29T19:17:17.808-03:00
-modified: 2026-02-27T13:07:30.511-03:00
-tags:
-  - goat
-  - programacin
-  - simbologa
-cssclasses: ""
 ---
-
 # I, Pet Goat II
 
 ## Perfil TL (Resumen Ejecutivo)

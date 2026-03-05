@@ -1,15 +1,12 @@
 ---
+titulo: "Familia Savoy: La Realeza En Las Sombras"
+tipo: "entidad"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [logia, realeza, savoy, sombras]
 publish: true
-created: 2026-01-29T19:17:13.367-03:00
-modified: 2026-02-27T13:22:42.238-03:00
-tags:
-  - logia
-  - realeza
-  - savoy
-  - sombras
-cssclasses: ""
 ---
-
 # Familia Savoy: La Realeza En Las Sombras
 
 > [!ABSTRACT] Hipótesis Informativa

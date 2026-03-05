@@ -1,6 +1,6 @@
 ---
 titulo: "Jerome Powell (TL V.2): El Gestor De La Liquidez Sistémica"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

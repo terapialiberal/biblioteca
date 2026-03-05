@@ -1,6 +1,6 @@
 ---
 titulo: "Nick Szabo (TL V.2): El Arquitecto De La Justicia Inmanente"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

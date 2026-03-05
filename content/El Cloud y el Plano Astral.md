@@ -1,6 +1,6 @@
 ---
 titulo: El Cloud y el Plano Astral
-tipo: 'concepto'
+tipo: "concepto"
 tier-primario: 'b'
 nivel-evidencia: 'medio'
 tags: [clasificado-ai]

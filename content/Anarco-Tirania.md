@@ -1,14 +1,12 @@
 ---
 publish: true
-created: 2026-01-29T19:17:03.479-03:00
-modified: 2026-02-27T13:07:20.717-03:00
-tags:
-  - anarco
-  - francis
-  - tirana
-cssclasses: ""
+titulo: Anarco-Tiranía (Sam Francis)
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [anarco, francis, tirana]
 ---
-
 # Anarco-Tiranía (Sam Francis)
 
 > **Resumen:** Estado que persigue al ciudadano común pero tolera al criminal.

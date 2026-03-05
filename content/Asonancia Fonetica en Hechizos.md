@@ -1,14 +1,12 @@
 ---
+titulo: Asonancia Fonética En Hechizos Corporativos
+tipo: "concepto"
+fecha: 2026-02-25
+tags: [asonancia, fontica, hechizos]
+tier-primario: "b"
+nivel-evidencia: "alto"
 publish: true
-created: 2026-02-25T22:08:51.107-03:00
-modified: 2026-02-27T13:22:01.751-03:00
-tags:
-  - asonancia
-  - fontica
-  - hechizos
-cssclasses: ""
 ---
-
 
 # Asonancia Fonética En Hechizos Corporativos
 

@@ -1,6 +1,6 @@
 ---
 titulo: Criptografía Arcaica
-tipo: concepto
+tipo: "concepto"
 tier-primario: "a"
 nivel-evidencia: "medio"
 tags: [tecnologia, historia, criptografia, secretos, poder]

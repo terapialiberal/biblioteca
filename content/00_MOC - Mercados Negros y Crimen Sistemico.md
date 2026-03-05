@@ -1,7 +1,7 @@
 ---
 publish: true
 titulo: 00_MOC - Mercados Negros y Crimen Sistémico
-tipo: moc
+tipo: "concepto"
 fecha: 2026-03-01
 tags: [00-moc, crimen-sistemico, dark-markets, axioma-12]
 ---

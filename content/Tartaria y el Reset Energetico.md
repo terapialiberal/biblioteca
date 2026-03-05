@@ -1,15 +1,12 @@
 ---
+titulo: Tartaria Y El Reset Energético
+tipo: "concepto"
+fecha: 2026-02-25
+tags: [energtico, estructuras, reset, tartaria]
+tier-primario: "a"
+nivel-evidencia: "bajo"
 publish: true
-created: 2026-02-25T22:08:53.119-03:00
-modified: 2026-02-27T13:24:00.876-03:00
-tags:
-  - energtico
-  - estructuras
-  - reset
-  - tartaria
-cssclasses: ""
 ---
-
 
 # Tartaria Y El Reset Energético
 

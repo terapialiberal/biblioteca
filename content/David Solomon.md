@@ -1,15 +1,12 @@
 ---
+titulo: David Solomon
+tipo: "persona"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [david, goldman, lloyd, solomon]
 publish: true
-created: 2026-01-29T19:17:09.806-03:00
-modified: 2026-02-27T13:06:20.962-03:00
-tags:
-  - david
-  - goldman
-  - lloyd
-  - solomon
-cssclasses: ""
 ---
-
 # David Solomon
 
 ## Perfil TL (Resumen Ejecutivo)

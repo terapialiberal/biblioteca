@@ -1,6 +1,6 @@
 ---
 titulo: "Peterson Institute for International Economics (TL V.2): El Oráculo De La Globalización"
-tipo: organizacion
+tipo: "entidad"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

@@ -1,15 +1,12 @@
 ---
+titulo: Triple Crimen De General Rodríguez
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [cartel, crimen, cristina, triple]
 publish: true
-created: 2026-01-29T19:17:41.255-03:00
-modified: 2026-02-27T13:06:34.289-03:00
-tags:
-  - cartel
-  - crimen
-  - cristina
-  - triple
-cssclasses: ""
 ---
-
 # Triple Crimen De General Rodríguez
 
 ## Resumen General

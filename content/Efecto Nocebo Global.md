@@ -1,6 +1,6 @@
 ---
 titulo: Efecto Nocebo Global
-tipo: concepto
+tipo: "concepto"
 tier-primario: "b"
 nivel-evidencia: "alto"
 tags: [psicologia, percepcion, narrativa, salud]

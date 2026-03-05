@@ -1,15 +1,11 @@
 ---
+titulo: Tier A - Los Dueños
+tipo: "persona"
+tier-primario: "a"
+nivel-evidencia: "muy-alto"
+tags: [poder, elite, estrategia, a-ideologico]
 publish: true
-created: 2026-02-25T23:42:16.114-03:00
-modified: 2026-03-04T14:10:52.766-03:00
-tags:
-  - poder
-  - elite
-  - estrategia
-  - a-ideologico
-cssclasses: ""
 ---
-
 # Tier A: Los Dueños (V.3)
 
 > [!IMPORTANT] AXIOMA 10

@@ -1,6 +1,6 @@
 ---
 titulo: "Steve Bannon (TL V.2): El Ingeniero Del Caos Y La Disrupción Controlada"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

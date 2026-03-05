@@ -1,6 +1,6 @@
 ---
 titulo: "Mitre Corporation (TL V.2): El Sistema Operativo Del Estado Profundo"
-tipo: empresa
+tipo: "entidad"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

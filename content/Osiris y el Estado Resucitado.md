@@ -1,6 +1,6 @@
 ---
 titulo: Osiris Y El Estado Resucitado
-tipo: organizacion
+tipo: "entidad"
 fecha: 2026-02-25
 tags: [domo, estado, osiris, solve]
 tier-primario: "a"

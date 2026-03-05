@@ -1,6 +1,6 @@
 ---
 titulo: George Floyd Y El Ciclo BLM 2020
-tipo: evento
+tipo: "evento"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

@@ -1,6 +1,6 @@
 ---
 titulo: "Los 4 Jinetes Del Agro (Cartel ABCD): El Monopolio De La Comida"
-tipo: evento
+tipo: "evento"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

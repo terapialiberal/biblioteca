@@ -1,15 +1,12 @@
 ---
+titulo: "Team Jorge: Los Fantasmas De La Democracia"
+tipo: "persona"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [democracia, fantasmas, team, unit]
 publish: true
-created: 2026-01-29T19:17:38.429-03:00
-modified: 2026-02-27T13:24:00.884-03:00
-tags:
-  - democracia
-  - fantasmas
-  - team
-  - unit
-cssclasses: ""
 ---
-
 # Team Jorge: Los Fantasmas De La Democracia
 
 > [!ABSTRACT] Hipótesis Informativa

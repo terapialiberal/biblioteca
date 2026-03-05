@@ -1,15 +1,12 @@
 ---
+titulo: Incidente Del Golfo De Omán
+tipo: "evento"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [golfo, incidente, john, omn]
 publish: true
-created: 2026-01-29T19:17:18.213-03:00
-modified: 2026-02-27T13:22:54.460-03:00
-tags:
-  - golfo
-  - incidente
-  - john
-  - omn
-cssclasses: ""
 ---
-
 # Incidente Del Golfo De Omán
 
 ## Perfil TL (Resumen Ejecutivo)

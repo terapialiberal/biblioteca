@@ -1,6 +1,6 @@
 ---
 titulo: Fulcanelli y el Fin del Ciclo
-tipo: 'concepto'
+tipo: "concepto"
 tier-primario: 'b'
 nivel-evidencia: 'medio'
 tags: [clasificado-ai]

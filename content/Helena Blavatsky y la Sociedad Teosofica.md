@@ -1,15 +1,12 @@
 ---
+titulo: Helena Blavatsky Y La Sociedad Teosófica
+tipo: "entidad"
+fecha: 2026-02-25
+tags: [blavatsky, helena, sociedad, teosfica]
+tier-primario: "b"
+nivel-evidencia: "alto"
 publish: true
-created: 2026-02-25T22:20:37.999-03:00
-modified: 2026-02-27T13:22:51.836-03:00
-tags:
-  - blavatsky
-  - helena
-  - sociedad
-  - teosfica
-cssclasses: ""
 ---
-
 
 # Helena Blavatsky Y La Sociedad Teosófica
 

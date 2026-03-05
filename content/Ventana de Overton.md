@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:42.978-03:00
-modified: 2026-02-26T16:07:59.120-03:00
+modified: 2026-02-26T16:15:05.164-03:00
 tags:
   - cambio-social-gradualismo
   - ingenieria-social

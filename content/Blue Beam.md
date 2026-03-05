@@ -1,15 +1,12 @@
 ---
+titulo: Resumen General
+tipo: "persona"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [beam, blue, nuevo, voice]
 publish: true
-created: 2026-01-29T19:17:05.607-03:00
-modified: 2026-02-27T13:07:27.413-03:00
-tags:
-  - beam
-  - blue
-  - nuevo
-  - voice
-cssclasses: ""
 ---
-
 # Resumen General
 Teoría difundida por el periodista canadiense Serge Monast (muerto sospechosamente) en los 90. Sostiene que la NASA/ONU planean una falsa "Segunda Venida" o invasión alienígena usando hologramas satelitales avanzados y tecnología de ondas cerebrales para instaurar una Religión Mundial Única y el Nuevo Orden Mundial.
 

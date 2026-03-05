@@ -1,14 +1,12 @@
 ---
+titulo: Apple Inc
+tipo: "entidad"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [apple, blackrock, foxconn]
 publish: true
-created: 2026-01-29T19:17:03.763-03:00
-modified: 2026-02-27T13:06:22.617-03:00
-tags:
-  - apple
-  - blackrock
-  - foxconn
-cssclasses: ""
 ---
-
 # Apple Inc
 
 ## Resumen Ejecutivo

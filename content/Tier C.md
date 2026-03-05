@@ -1,15 +1,11 @@
 ---
+titulo: Tier C - El Teatro
+tipo: "persona"
+tier-primario: "c"
+nivel-evidencia: "alto"
+tags: [politica, medios, distraccion, corto-plazo]
 publish: true
-created: 2026-02-25T23:42:20.203-03:00
-modified: 2026-03-04T14:11:01.221-03:00
-tags:
-  - politica
-  - medios
-  - distraccion
-  - corto-plazo
-cssclasses: ""
 ---
-
 # Tier C: El Teatro (V.3)
 
 > [!CAUTION] AXIOMA 3: Matriz de Dos Niveles

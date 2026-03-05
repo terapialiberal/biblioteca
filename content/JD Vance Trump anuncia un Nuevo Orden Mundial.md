@@ -1,16 +1,11 @@
 ---
+titulo: JD Vance Trump anuncia un Nuevo Orden Mundial
+tipo: "evento"
+tier-primario: "c"
+nivel-evidencia: "muy-alto"
+tags: [politica, trump, jd-vance, nwo, trump-vance]
 publish: true
-created: 2026-02-06T11:12:43.978-03:00
-modified: 2026-03-04T14:15:03.575-03:00
-tags:
-  - politica
-  - trump
-  - jd-vance
-  - nwo
-  - trump-vance
-cssclasses: ""
 ---
-
 # JD Vance: El Portavoz del Nuevo Paradigma (V.3)
 
 > [!IMPORTANT] AXIOMA 4: Señales vs Ruido

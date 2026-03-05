@@ -1,15 +1,12 @@
 ---
+titulo: Resumen General
+tipo: "persona"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [cabinete, kash, trump, tulsi]
 publish: true
-created: 2026-01-29T19:17:06.219-03:00
-modified: 2026-02-27T13:06:23.203-03:00
-tags:
-  - cabinete
-  - kash
-  - trump
-  - tulsi
-cssclasses: ""
 ---
-
 # Resumen General
 El gabinete de la segunda administración Trump revela las tensiones entre facciones MAGA. Algunos nominados desafían al establishment; otros SON el establishment con diferente máscara.
 

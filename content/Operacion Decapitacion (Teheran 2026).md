@@ -1,7 +1,7 @@
 ---
 publish: true
 titulo: Operación Decapitación (Teherán 2026)
-tipo: 'evento'
+tipo: "evento"
 tier-primario: 'b'
 nivel-evidencia: 'confirmado'
 tags: [cia, mossad, magnicidio, iran, inteligencia-ia]

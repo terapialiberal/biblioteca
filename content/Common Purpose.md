@@ -1,15 +1,12 @@
 ---
+titulo: "Common Purpose: La Infiltración Institucional"
+tipo: "persona"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [common, infiltracin, purpose, tavistock]
 publish: true
-created: 2026-01-29T19:17:08.422-03:00
-modified: 2026-02-27T13:22:21.934-03:00
-tags:
-  - common
-  - infiltracin
-  - purpose
-  - tavistock
-cssclasses: ""
 ---
-
 # Common Purpose: La Infiltración Institucional
 
 > [!ABSTRACT] Hipótesis Informativa

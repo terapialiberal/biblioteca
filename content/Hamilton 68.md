@@ -1,14 +1,12 @@
 ---
+titulo: Hamilton 68
+tipo: "persona"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [hamilton, russiagate, twitter]
 publish: true
-created: 2026-01-29T19:17:16.749-03:00
-modified: 2026-02-27T13:22:50.956-03:00
-tags:
-  - hamilton
-  - russiagate
-  - twitter
-cssclasses: ""
 ---
-
 # Hamilton 68
 
 ## Perfil TL (Resumen Ejecutivo)

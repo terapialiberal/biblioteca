@@ -1,15 +1,12 @@
 ---
+titulo: European Council on Foreign Relations
+tipo: "entidad"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [council, george, open, relations]
 publish: true
-created: 2026-01-29T19:17:12.621-03:00
-modified: 2026-02-27T13:22:40.129-03:00
-tags:
-  - council
-  - george
-  - open
-  - relations
-cssclasses: ""
 ---
-
 # European Council on Foreign Relations
 
 > [!ABSTRACT] Ficha Técnica

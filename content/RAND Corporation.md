@@ -1,6 +1,6 @@
 ---
 titulo: "RAND Corporation (TL V.2): El Laboratorio De La Destrucción Racional"
-tipo: empresa
+tipo: "entidad"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

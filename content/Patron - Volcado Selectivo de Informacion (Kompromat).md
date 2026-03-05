@@ -1,6 +1,6 @@
 ---
 titulo: Patron - Volcado Selectivo de Informacion (Kompromat)
-tipo: 'persona'
+tipo: "persona"
 tier-primario: 'b'
 nivel-evidencia: 'medio'
 tags: [clasificado-ai]

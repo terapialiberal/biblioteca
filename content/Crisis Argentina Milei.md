@@ -1,15 +1,12 @@
 ---
+titulo: Crisis Argentina Milei
+tipo: "evento"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [argentina, crisis, javier, murray]
 publish: true
-created: 2026-01-29T19:17:09.106-03:00
-modified: 2026-02-27T13:07:02.295-03:00
-tags:
-  - argentina
-  - crisis
-  - javier
-  - murray
-cssclasses: ""
 ---
-
 # Crisis Argentina Milei
 
 > [!INFO] Contexto

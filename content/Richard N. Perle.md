@@ -1,6 +1,6 @@
 ---
 titulo: "Richard N. Perle (TL V.2): El Arquitecto De La Guerra Perpetua"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

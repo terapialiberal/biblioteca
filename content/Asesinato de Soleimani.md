@@ -1,14 +1,12 @@
 ---
+titulo: Asesinato De Soleimani
+tipo: "evento"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [asesinato, donald, soleimani]
 publish: true
-created: 2026-01-29T19:17:04.236-03:00
-modified: 2026-02-27T13:06:25.155-03:00
-tags:
-  - asesinato
-  - donald
-  - soleimani
-cssclasses: ""
 ---
-
 # Asesinato De Soleimani
 
 > [!INFO] Contexto

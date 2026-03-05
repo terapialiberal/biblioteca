@@ -1,6 +1,6 @@
 ---
 titulo: "Shi Zhengli (TL V.2): El Eslabón Perdido Del Laboratorio De Wuhan"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

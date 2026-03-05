@@ -1,6 +1,6 @@
 ---
 titulo: Bohemian Grove
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tags: [bohemian, cremation, grove, proyecto]
 tier-primario: "a"

@@ -1,6 +1,6 @@
 ---
 titulo: Kraft Heinz
-tipo: 'persona'
+tipo: "persona"
 tier-primario: 'a'
 nivel-evidencia: 'medio'
 tags: [clasificado-ai]

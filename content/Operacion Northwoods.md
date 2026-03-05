@@ -1,6 +1,6 @@
 ---
 titulo: "Operación Northwoods (TL V.2): El Plano Maestro Del Auto-Terrorismo"
-tipo: evento
+tipo: "evento"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

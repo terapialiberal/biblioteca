@@ -1,14 +1,12 @@
 ---
+titulo: Thot - El Escriba Del Sistema
+tipo: "concepto"
+fecha: 2026-02-25
+tags: [escriba, sistema, thot]
+tier-primario: "a"
+nivel-evidencia: "alto"
 publish: true
-created: 2026-02-25T22:29:11.563-03:00
-modified: 2026-02-27T13:24:03.904-03:00
-tags:
-  - escriba
-  - sistema
-  - thot
-cssclasses: ""
 ---
-
 
 # Thot - El Escriba Del Sistema
 

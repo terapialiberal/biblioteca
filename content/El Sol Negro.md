@@ -1,12 +1,12 @@
 ---
+titulo: El Sol Negro - Ocultismo Y Alquimia De La Disolución
+tipo: "persona"
+fecha: 2026-02-25
+tags: [negro]
+tier-primario: "a"
+nivel-evidencia: "medio"
 publish: true
-created: 2026-02-25T22:26:13.695-03:00
-modified: 2026-02-27T13:22:36.867-03:00
-tags:
-  - negro
-cssclasses: ""
 ---
-
 
 # El Sol Negro - Ocultismo Y Alquimia De La Disolución
 

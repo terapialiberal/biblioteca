@@ -1,15 +1,12 @@
 ---
+titulo: Fertilizantes Y Fósforo (Seguridad Alimentaria)
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [abcd, fertilizantes, fsforo, marruecos]
 publish: true
-created: 2026-01-29T19:17:13.633-03:00
-modified: 2026-02-27T13:22:43.535-03:00
-tags:
-  - abcd
-  - fertilizantes
-  - fsforo
-  - marruecos
-cssclasses: ""
 ---
-
 # Fertilizantes Y Fósforo (Seguridad Alimentaria)
 
 ## Perfil TL (Resumen Ejecutivo)

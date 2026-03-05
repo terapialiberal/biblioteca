@@ -1,6 +1,6 @@
 ---
 titulo: EL GRAN DESACOPLE
-tipo: concepto
+tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "a"
 nivel-evidencia: "alto"

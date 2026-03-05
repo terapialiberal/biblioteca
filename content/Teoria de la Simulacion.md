@@ -1,15 +1,12 @@
 ---
+titulo: Teoría De La Simulación
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [elon, gnosticismo, simulacin, teora]
 publish: true
-created: 2026-01-29T19:17:38.902-03:00
-modified: 2026-02-27T13:24:01.624-03:00
-tags:
-  - elon
-  - gnosticismo
-  - simulacin
-  - teora
-cssclasses: ""
 ---
-
 # Teoría De La Simulación
 
 ## Resumen Ejecutivo

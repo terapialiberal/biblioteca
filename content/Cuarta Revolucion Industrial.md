@@ -1,15 +1,12 @@
 ---
+titulo: Cuarta Revolución Industrial (4IR)
+tipo: "persona"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [crdito, cuarta, industrial, neuralink]
 publish: true
-created: 2026-01-29T19:17:09.383-03:00
-modified: 2026-02-27T13:07:57.248-03:00
-tags:
-  - crdito
-  - cuarta
-  - industrial
-  - neuralink
-cssclasses: ""
 ---
-
 # Cuarta Revolución Industrial (4IR)
 
 ## Resumen Ejecutivo

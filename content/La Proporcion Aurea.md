@@ -1,15 +1,12 @@
 ---
+titulo: La Proporción Áurea (Phi)
+tipo: "persona"
+fecha: 2026-02-25
+tags: [logotipos, proporcin, sucesin, urea]
+tier-primario: "a"
+nivel-evidencia: "total"
 publish: true
-created: 2026-02-25T22:08:31.796-03:00
-modified: 2026-02-27T13:23:09.665-03:00
-tags:
-  - logotipos
-  - proporcin
-  - sucesin
-  - urea
-cssclasses: ""
 ---
-
 
 # La Proporción Áurea (Phi)
 

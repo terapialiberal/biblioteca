@@ -1,14 +1,12 @@
 ---
+titulo: Nudge Theory 2.0
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [nudge, theory, world]
 publish: true
-created: 2026-02-09T17:27:07.199-03:00
-modified: 2026-02-27T13:23:31.351-03:00
-tags:
-  - nudge
-  - theory
-  - world
-cssclasses: ""
 ---
-
 # [[Nudge Theory 2.0]]
 
 **Clasificación:** Tier B (Guerra de Cuarta Generación / Psicometría)  

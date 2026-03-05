@@ -1,6 +1,6 @@
 ---
 titulo: Arquetipos de Poder
-tipo: concepto
+tipo: "concepto"
 tier-primario: "a"
 nivel-evidencia: "medio"
 tags: [psicologia, autoridad, jung, esoterismo]

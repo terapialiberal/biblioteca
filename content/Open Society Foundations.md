@@ -1,6 +1,6 @@
 ---
 titulo: "Open Society Foundations (TL V.2): El Departamento De Estado Paralelo"
-tipo: organizacion
+tipo: "entidad"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

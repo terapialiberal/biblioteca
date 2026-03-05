@@ -1,15 +1,12 @@
 ---
+titulo: Caso Monica Lewinsky (Sexgate)
+tipo: "evento"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [bill, caso, hillary, lewinsky]
 publish: true
-created: 2026-01-29T19:17:06.823-03:00
-modified: 2026-02-27T13:22:16.006-03:00
-tags:
-  - bill
-  - caso
-  - hillary
-  - lewinsky
-cssclasses: ""
 ---
-
 # Caso Monica Lewinsky (Sexgate)
 
 ## Perfil TL (Resumen Ejecutivo)

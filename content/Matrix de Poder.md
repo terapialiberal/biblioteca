@@ -1,15 +1,12 @@
 ---
+titulo: Matrix De Poder
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [blackrock, matrix, palantir, poder]
 publish: true
-created: 2026-01-29T19:17:24.357-03:00
-modified: 2026-02-27T13:06:25.202-03:00
-tags:
-  - blackrock
-  - matrix
-  - palantir
-  - poder
-cssclasses: ""
 ---
-
 # Matrix De Poder
 
 ## Resumen Ejecutivo

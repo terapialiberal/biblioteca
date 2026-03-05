@@ -1,6 +1,6 @@
 ---
 titulo: "Pentagon Papers (TL V.2): El Desnudo Del Engaño Imperial"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

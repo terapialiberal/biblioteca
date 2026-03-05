@@ -1,6 +1,6 @@
 ---
 titulo: Señoreaje
-tipo: concepto
+tipo: "concepto"
 tier-primario: "a"
 nivel-evidencia: "muy-alto"
 tags: [finanzas, robo, banca-central, inflacion]

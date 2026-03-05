@@ -1,6 +1,6 @@
 ---
 titulo: "Laboratorios Richmond (TL V.2): El Puerto Sanitario De La Geopolítica"
-tipo: empresa
+tipo: "entidad"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

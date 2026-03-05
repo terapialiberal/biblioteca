@@ -1,16 +1,12 @@
 ---
+titulo: Clearstream
+tipo: "concepto"
+fecha: 2026-03-04
+tier-primario: "b"
+nivel-evidencia: "alto"
+tags: [finanzas, luxemburgo, lavado-dinero, offshore, clearstream]
 publish: true
-created: 2026-01-29T19:17:07.901-03:00
-modified: 2026-03-04T13:53:58.853-03:00
-tags:
-  - finanzas
-  - luxemburgo
-  - lavado-dinero
-  - offshore
-  - clearstream
-cssclasses: ""
 ---
-
 # Clearstream: El Libro Mayor Invisible del Tier A (V.3)
 
 > [!CAUTION] ADVERTENCIA FORENSE

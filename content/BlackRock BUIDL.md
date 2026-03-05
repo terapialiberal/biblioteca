@@ -1,6 +1,6 @@
 ---
 titulo: BLACKROCK BUIDL (TL V.2)
-tipo: empresa
+tipo: "entidad"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

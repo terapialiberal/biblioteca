@@ -1,6 +1,6 @@
 ---
 titulo: Expansión De BRICS 2023
-tipo: evento
+tipo: "evento"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

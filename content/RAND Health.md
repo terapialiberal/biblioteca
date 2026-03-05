@@ -1,6 +1,6 @@
 ---
 titulo: "RAND Health (TL V.2): La Ingeniería Del Capital Humano"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

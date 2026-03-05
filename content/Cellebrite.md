@@ -1,14 +1,12 @@
 ---
+titulo: Cellebrite
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [cellebrite, surveillance, unidad]
 publish: true
-created: 2026-01-29T19:17:07.150-03:00
-modified: 2026-02-27T13:06:40.299-03:00
-tags:
-  - cellebrite
-  - surveillance
-  - unidad
-cssclasses: ""
 ---
-
 # Cellebrite
 
 ## Perfil TL (Resumen Ejecutivo)

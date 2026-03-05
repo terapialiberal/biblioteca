@@ -1,6 +1,6 @@
 ---
 titulo: Ciclo de 80 años
-tipo: 'concepto'
+tipo: "concepto"
 tier-primario: 'b'
 nivel-evidencia: 'medio'
 tags: [clasificado-ai]

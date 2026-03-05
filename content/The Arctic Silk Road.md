@@ -1,15 +1,12 @@
 ---
+titulo: The Arctic Silk Road
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [arctic, road, rusia, silk]
 publish: true
-created: 2026-02-09T17:33:04.839-03:00
-modified: 2026-02-27T13:24:02.364-03:00
-tags:
-  - arctic
-  - road
-  - rusia
-  - silk
-cssclasses: ""
 ---
-
 # [[The Arctic Silk Road]]
 
 **Clasificación:** Geo-Estratégico (Ruta del Norte / Desvío del Choke Point)  

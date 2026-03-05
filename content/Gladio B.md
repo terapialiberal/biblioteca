@@ -1,15 +1,12 @@
 ---
+titulo: Gladio B (La Alianza OTAN-Islam Radical)
+tipo: "persona"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [gladio, islam, otan, radical]
 publish: true
-created: 2026-01-29T19:17:15.410-03:00
-modified: 2026-02-27T13:22:47.817-03:00
-tags:
-  - gladio
-  - islam
-  - otan
-  - radical
-cssclasses: ""
 ---
-
 # Gladio B (La Alianza OTAN-Islam Radical)
 
 ## Perfil TL (Resumen Ejecutivo)

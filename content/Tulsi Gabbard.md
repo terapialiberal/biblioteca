@@ -1,15 +1,12 @@
 ---
+titulo: Resumen General
+tipo: "persona"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [donald, gabbard, militar, tulsi]
 publish: true
-created: 2026-01-29T19:17:41.777-03:00
-modified: 2026-02-27T13:06:25.216-03:00
-tags:
-  - donald
-  - gabbard
-  - militar
-  - tulsi
-cssclasses: ""
 ---
-
 # Resumen General
 Tulsi Gabbard (1981-) es ex-congresista demócrata, veterana de guerra, y ex-miembro del CFR. Dejó el Partido Demócrata en 2022 y se unió a Trump, siendo nominada como Directora de Inteligencia Nacional.
 

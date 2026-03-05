@@ -1,6 +1,6 @@
 ---
 titulo: "Laboratorios Bagó (TL V.2): La Arquidiócesis De La Sanidad Protegida"
-tipo: empresa
+tipo: "entidad"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

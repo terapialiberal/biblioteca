@@ -1,6 +1,6 @@
 ---
 titulo: "Red Inteligente (Smart Grid) (TL V.2): El Interruptor Maestro De La Tecnocracia"
-tipo: organizacion
+tipo: "entidad"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

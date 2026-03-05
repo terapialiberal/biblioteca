@@ -1,7 +1,7 @@
 ---
 publish: true
 titulo: Masoud Pezeshkian
-tipo: 'persona'
+tipo: "persona"
 tier-primario: 'c'
 nivel-evidencia: 'alto'
 tags: [iran, presidente, teatro-politico]

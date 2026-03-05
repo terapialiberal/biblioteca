@@ -1,6 +1,6 @@
 ---
 titulo: "Ken Griffin (TL V.2): El Arquitecto De La Simulación Bursátil"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

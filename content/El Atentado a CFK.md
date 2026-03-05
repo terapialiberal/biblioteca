@@ -1,6 +1,6 @@
 ---
 titulo: El Atentado a Cristina Kirchner (El Copito)
-tipo: evento
+tipo: "evento"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

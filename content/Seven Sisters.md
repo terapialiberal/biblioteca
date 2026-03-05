@@ -1,6 +1,6 @@
 ---
 titulo: "Seven Sisters (TL V.2): El Cartel Energético Que Diseñó El Siglo XX"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

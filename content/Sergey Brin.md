@@ -1,6 +1,6 @@
 ---
 titulo: "Sergey Brin (TL V.2): El Arquitecto De La Mente Global Y La Vigilancia Total"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

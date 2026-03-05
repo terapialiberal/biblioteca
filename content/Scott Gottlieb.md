@@ -1,6 +1,6 @@
 ---
 titulo: "Scott Gottlieb (TL V.2): El Maestro De La Puerta Giratoria Big Pharma"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

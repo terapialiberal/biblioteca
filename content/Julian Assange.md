@@ -1,6 +1,6 @@
 ---
 titulo: Julian Assange
-tipo: 'organizacion'
+tipo: "entidad"
 tier-primario: 'b'
 nivel-evidencia: 'medio'
 tags: [clasificado-ai]

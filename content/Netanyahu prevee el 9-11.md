@@ -1,16 +1,12 @@
 ---
+titulo: Netanyahu Prevee El 9-11
+tipo: "concepto"
+fecha: 2026-03-04
+tier-primario: "b"
+nivel-evidencia: "alto"
+tags: [netanyahu, 9-11, terrorismo, inteligencia, presciencia]
 publish: true
-created: 2026-01-29T19:05:12.920-03:00
-modified: 2026-03-04T13:53:09.744-03:00
-tags:
-  - netanyahu
-  - 9-11
-  - terrorismo
-  - inteligencia
-  - presciencia
-cssclasses: ""
 ---
-
 # Netanyahu y la Presciencia del 9-11: El "Adivino" del Tier B
 
 > [!IMPORTANT] SEÑAL FORENSE

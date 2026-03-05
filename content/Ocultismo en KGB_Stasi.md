@@ -1,6 +1,6 @@
 ---
 titulo: Ocultismo en KGB y Stasi
-tipo: concepto
+tipo: "concepto"
 tier-primario: "b"
 nivel-evidencia: "medio"
 tags: [espionaje, esoterismo, urss, guerra-fria, control]

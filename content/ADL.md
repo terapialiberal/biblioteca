@@ -1,13 +1,12 @@
 ---
+titulo: ADL (Anti-Defamation League)
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [aipac, splc]
 publish: true
-created: 2026-01-29T19:17:02.863-03:00
-modified: 2026-02-27T13:21:57.319-03:00
-tags:
-  - aipac
-  - splc
-cssclasses: ""
 ---
-
 ![ADL Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Anti-Defamation_League_logo.svg/220px-Anti-Defamation_League_logo.svg.png)
 # ADL (Anti-Defamation League)
 

@@ -1,6 +1,6 @@
 ---
 titulo: "Oxford Analytica (TL V.2): El Oráculo Académico Del Capital"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

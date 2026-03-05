@@ -1,15 +1,12 @@
 ---
+titulo: Alejandro Bulgheroni
+tipo: "persona"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [alejandro, brics, bulgheroni, naciones]
 publish: true
-created: 2026-01-29T19:17:03.215-03:00
-modified: 2026-02-27T13:06:24.321-03:00
-tags:
-  - alejandro
-  - brics
-  - bulgheroni
-  - naciones
-cssclasses: ""
 ---
-
 # Alejandro Bulgheroni
 
 ## Resumen General

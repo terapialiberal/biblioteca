@@ -1,15 +1,12 @@
 ---
+titulo: "ECHELON: El Sistema De Intercepción Global"
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [echelon, five, global, sistema]
 publish: true
-created: 2026-01-29T19:17:10.790-03:00
-modified: 2026-02-27T13:22:31.752-03:00
-tags:
-  - echelon
-  - five
-  - global
-  - sistema
-cssclasses: ""
 ---
-
 # ECHELON: El Sistema De Intercepción Global
 
 > [!ABSTRACT] Hipótesis Informativa

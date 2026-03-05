@@ -1,13 +1,12 @@
 ---
 publish: true
-created: 2026-02-25T22:08:55.298-03:00
-modified: 2026-02-27T13:22:02.395-03:00
-tags:
-  - azoth
-  - confluencia
-cssclasses: ""
+titulo: Azoth — La Interconexión Total (El Solvente Universal)
+tipo: "concepto"
+fecha: 2026-02-25
+tags: [azoth, confluencia]
+tier-primario: "a"
+nivel-evidencia: "medio"
 ---
-
 
 # Azoth — La Interconexión Total (El Solvente Universal)
 

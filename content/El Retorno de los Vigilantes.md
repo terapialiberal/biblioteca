@@ -1,6 +1,6 @@
 ---
 titulo: El Retorno de los Vigilantes
-tipo: 'concepto'
+tipo: "concepto"
 tier-primario: 'b'
 nivel-evidencia: 'medio'
 tags: [clasificado-ai]

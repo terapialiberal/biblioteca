@@ -1,6 +1,6 @@
 ---
 titulo: "Monumentos Masónicos Globales (TL V.2): La Arquitectura Del Dominio"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

@@ -1,15 +1,12 @@
 ---
+titulo: Caso Dutroux (Affair Dutroux)
+tipo: "evento"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [affair, caso, dutroux, jeffrey]
 publish: true
-created: 2026-01-29T19:17:06.689-03:00
-modified: 2026-02-27T13:06:23.718-03:00
-tags:
-  - affair
-  - caso
-  - dutroux
-  - jeffrey
-cssclasses: ""
 ---
-
 # Caso Dutroux (Affair Dutroux)
 
 ## Perfil TL (Resumen Ejecutivo)

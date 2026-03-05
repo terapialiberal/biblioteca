@@ -1,15 +1,12 @@
 ---
+titulo: Dr. Aseem Malhotra
+tipo: "persona"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [aseem, estatinas, malhotra, naciones]
 publish: true
-created: 2026-01-29T19:17:03.972-03:00
-modified: 2026-02-27T13:06:59.661-03:00
-tags:
-  - aseem
-  - estatinas
-  - malhotra
-  - naciones
-cssclasses: ""
 ---
-
 # Dr. Aseem Malhotra
 
 ## Resumen General

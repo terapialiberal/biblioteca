@@ -1,15 +1,12 @@
 ---
+titulo: Captura Regulatoria (Regulatory Capture)
+tipo: "persona"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [capture, puerta, regulatoria, regulatory]
 publish: true
-created: 2026-01-29T19:17:06.422-03:00
-modified: 2026-02-27T13:22:13.366-03:00
-tags:
-  - capture
-  - puerta
-  - regulatoria
-  - regulatory
-cssclasses: ""
 ---
-
 # Captura Regulatoria (Regulatory Capture)
 
 ## Perfil TL (Resumen Ejecutivo)

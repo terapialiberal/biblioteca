@@ -1,15 +1,12 @@
 ---
+titulo: George H. W. Bush
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [asesinato, bush, george, skull]
 publish: true
-created: 2026-01-29T19:17:15.126-03:00
-modified: 2026-02-27T13:07:55.850-03:00
-tags:
-  - asesinato
-  - bush
-  - george
-  - skull
-cssclasses: ""
 ---
-
 # George H. W. Bush
 
 ## Perfil TL (Resumen Ejecutivo)

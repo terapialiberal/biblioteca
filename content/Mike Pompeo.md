@@ -1,6 +1,6 @@
 ---
 titulo: "Mike Pompeo (TL V.2): El Halcón Del Sionismo Cristiano"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

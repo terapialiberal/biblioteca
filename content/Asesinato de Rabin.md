@@ -1,15 +1,12 @@
 ---
+titulo: Asesinato De Rabin
+tipo: "evento"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [acuerdos, asesinato, benjamin, rabin]
 publish: true
-created: 2026-01-29T19:17:04.197-03:00
-modified: 2026-02-27T13:07:54.066-03:00
-tags:
-  - acuerdos
-  - asesinato
-  - benjamin
-  - rabin
-cssclasses: ""
 ---
-
 # Asesinato De Rabin
 
 > [!INFO] Contexto

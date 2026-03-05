@@ -1,6 +1,6 @@
 ---
 titulo: "Petróleos Mexicanos (TL V.2): El Saqueo Institucionalizado"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

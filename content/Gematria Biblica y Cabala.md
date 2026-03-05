@@ -1,15 +1,12 @@
 ---
+titulo: Gematría Bíblica Y Cabalá
+tipo: "concepto"
+fecha: 2026-02-25
+tags: [cabal, gematra, numerologa, sephirot]
+tier-primario: "a"
+nivel-evidencia: "alto"
 publish: true
-created: 2026-02-25T22:08:51.345-03:00
-modified: 2026-02-27T13:22:45.643-03:00
-tags:
-  - cabal
-  - gematra
-  - numerologa
-  - sephirot
-cssclasses: ""
 ---
-
 
 # Gematría Bíblica Y Cabalá
 

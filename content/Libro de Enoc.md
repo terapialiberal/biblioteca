@@ -1,13 +1,12 @@
 ---
+titulo: Libro De Enoc (El Informe De Los Vigilantes)
+tipo: "concepto"
+fecha: 2026-02-25
+tags: [enoc, libro]
+tier-primario: "a"
+nivel-evidencia: "alto"
 publish: true
-created: 2026-02-25T22:08:50.983-03:00
-modified: 2026-02-27T13:23:13.256-03:00
-tags:
-  - enoc
-  - libro
-cssclasses: ""
 ---
-
 
 # Libro De Enoc (El Informe De Los Vigilantes)
 

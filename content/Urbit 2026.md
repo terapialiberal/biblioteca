@@ -1,6 +1,6 @@
 ---
 titulo: URBIT (2026 UPDATE) (TL V.2)
-tipo: evento
+tipo: "evento"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "alto"

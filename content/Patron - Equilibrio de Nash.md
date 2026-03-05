@@ -1,6 +1,6 @@
 ---
 titulo: Patron - Equilibrio de Nash
-tipo: 'organizacion'
+tipo: "entidad"
 tier-primario: 'b'
 nivel-evidencia: 'medio'
 tags: [clasificado-ai]

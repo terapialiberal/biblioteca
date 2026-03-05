@@ -1,6 +1,6 @@
 ---
 titulo: "Nugan Hand Bank (TL V.2): El Cajero Automático De La Guerra Negra"
-tipo: empresa
+tipo: "entidad"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

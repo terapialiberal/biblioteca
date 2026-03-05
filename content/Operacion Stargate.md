@@ -1,6 +1,6 @@
 ---
 titulo: Operación Stargate (Visión Remota)
-tipo: evento
+tipo: "evento"
 fecha: 2026-02-25
 tags: [cuerpo, ingo, operacin, stargate]
 tier-primario: "b"

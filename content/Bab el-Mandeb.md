@@ -1,15 +1,12 @@
 ---
+titulo: Bab el-Mandeb (La Puerta De Las Lágrimas)
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [canal, lgrimas, mandeb, puerta]
 publish: true
-created: 2026-01-29T19:17:04.623-03:00
-modified: 2026-02-27T13:06:27.765-03:00
-tags:
-  - canal
-  - lgrimas
-  - mandeb
-  - puerta
-cssclasses: ""
 ---
-
 # Bab el-Mandeb (La Puerta De Las Lágrimas)
 
 ## Perfil TL (Resumen Ejecutivo)

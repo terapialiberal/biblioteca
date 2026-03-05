@@ -1,6 +1,6 @@
 ---
 titulo: "Operación Chaos (TL V.2): El Espionaje contra El Corazón De La Disidencia"
-tipo: evento
+tipo: "evento"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

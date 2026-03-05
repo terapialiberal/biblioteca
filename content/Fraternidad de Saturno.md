@@ -1,15 +1,12 @@
 ---
+titulo: Fraternidad De Saturno (Fraternitas Saturni)
+tipo: "concepto"
+fecha: 2026-02-25
+tags: [astrologa, fraternidad, ordo, saturno]
+tier-primario: "b"
+nivel-evidencia: "alto"
 publish: true
-created: 2026-02-25T22:08:55.744-03:00
-modified: 2026-02-27T13:22:45.017-03:00
-tags:
-  - astrologa
-  - fraternidad
-  - ordo
-  - saturno
-cssclasses: ""
 ---
-
 
 # Fraternidad De Saturno (Fraternitas Saturni)
 

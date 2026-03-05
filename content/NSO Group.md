@@ -1,6 +1,6 @@
 ---
 titulo: "NSO Group (TL V.2): Mercenarios Del Pánico Digital"
-tipo: empresa
+tipo: "entidad"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

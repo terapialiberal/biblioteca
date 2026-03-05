@@ -1,6 +1,6 @@
 ---
 titulo: "John Poindexter (TL V.2): El Ingeniero De La Matrix De Vigilancia"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

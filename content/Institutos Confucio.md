@@ -1,15 +1,12 @@
 ---
+titulo: Institutos Confucio
+tipo: "persona"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [confucio, institutos, pcch, united]
 publish: true
-created: 2026-01-29T19:17:18.568-03:00
-modified: 2026-02-27T13:22:57.273-03:00
-tags:
-  - confucio
-  - institutos
-  - pcch
-  - united
-cssclasses: ""
 ---
-
 # Institutos Confucio
 
 ## Perfil TL (Resumen Ejecutivo)

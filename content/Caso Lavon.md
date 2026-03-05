@@ -1,15 +1,12 @@
 ---
+titulo: Lavon Affair (Asunto Lavon)
+tipo: "evento"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [affair, caso, hermanos, lavon]
 publish: true
-created: 2026-01-29T19:17:06.719-03:00
-modified: 2026-02-27T13:06:20.945-03:00
-tags:
-  - affair
-  - caso
-  - hermanos
-  - lavon
-cssclasses: ""
 ---
-
 # Lavon Affair (Asunto Lavon)
 
 ## Perfil TL (Resumen Ejecutivo)

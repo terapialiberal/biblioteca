@@ -1,6 +1,6 @@
 ---
 titulo: "SRI International (TL V.2): El Laboratorio De Lo Impensable De La Matrix"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

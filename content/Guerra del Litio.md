@@ -1,15 +1,12 @@
 ---
+titulo: Guerra Del Litio (El Triángulo De Sudamérica)
+tipo: "evento"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [elon, guerra, litio, sudamrica]
 publish: true
-created: 2026-01-29T19:17:16.369-03:00
-modified: 2026-02-27T13:22:50.232-03:00
-tags:
-  - elon
-  - guerra
-  - litio
-  - sudamrica
-cssclasses: ""
 ---
-
 # Guerra Del Litio (El Triángulo De Sudamérica)
 
 ## Perfil TL (Resumen Ejecutivo)

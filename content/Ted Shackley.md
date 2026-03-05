@@ -1,14 +1,12 @@
 ---
+titulo: Ted Shackley
+tipo: "persona"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [george, irn, shackley]
 publish: true
-created: 2026-01-29T19:17:38.605-03:00
-modified: 2026-02-27T13:24:01.542-03:00
-tags:
-  - george
-  - irn
-  - shackley
-cssclasses: ""
 ---
-
 # Ted Shackley
 
 ## Resumen Ejecutivo

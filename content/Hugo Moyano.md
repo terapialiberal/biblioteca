@@ -1,15 +1,12 @@
 ---
+titulo: Hugo Moyano
+tipo: "persona"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [hugo, marcos, moyano, sindicato]
 publish: true
-created: 2026-01-29T19:17:17.615-03:00
-modified: 2026-02-27T13:07:45.312-03:00
-tags:
-  - hugo
-  - marcos
-  - moyano
-  - sindicato
-cssclasses: ""
 ---
-
 # Hugo Moyano
 
 ## Perfil TL (Resumen Ejecutivo)

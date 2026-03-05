@@ -1,14 +1,12 @@
 ---
+titulo: Triángulo Dorado
+tipo: "persona"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [comercio, dorado, tringulo]
 publish: true
-created: 2026-01-29T19:17:41.417-03:00
-modified: 2026-02-27T13:24:06.166-03:00
-tags:
-  - comercio
-  - dorado
-  - tringulo
-cssclasses: ""
 ---
-
 # Triángulo Dorado
 
 ## Resumen Ejecutivo

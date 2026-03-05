@@ -1,15 +1,12 @@
 ---
+titulo: Chatham House (RIIA)
+tipo: "persona"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [cecil, house, lord, riia]
 publish: true
-created: 2026-01-29T19:17:07.411-03:00
-modified: 2026-02-27T13:07:13.232-03:00
-tags:
-  - cecil
-  - house
-  - lord
-  - riia
-cssclasses: ""
 ---
-
 # Chatham House (RIIA)
 
 ## Perfil TL (Resumen Ejecutivo)

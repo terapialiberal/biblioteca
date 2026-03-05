@@ -1,6 +1,6 @@
 ---
 titulo: Vigilancia Predictiva
-tipo: concepto
+tipo: "concepto"
 tier-primario: "b"
 nivel-evidencia: "alto"
 tags: [vigilancia, algoritmo, control, pre-crimen]

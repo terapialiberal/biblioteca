@@ -1,14 +1,12 @@
 ---
+titulo: Watergate
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [george, henry, watergate]
 publish: true
-created: 2026-01-29T19:17:43.971-03:00
-modified: 2026-02-27T13:06:57.532-03:00
-tags:
-  - george
-  - henry
-  - watergate
-cssclasses: ""
 ---
-
 # Watergate
 
 ## Resumen Ejecutivo

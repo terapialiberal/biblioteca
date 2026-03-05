@@ -1,6 +1,6 @@
 ---
 titulo: "Satya Nadella (TL V.2): El Gestor De La Nube Militar E Inteligente"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

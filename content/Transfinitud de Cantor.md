@@ -1,6 +1,6 @@
 ---
 titulo: Transfinitud de Cantor
-tipo: concepto
+tipo: "concepto"
 tier-primario: "a"
 nivel-evidencia: "medio"
 tags: [matematica, esoterismo, infinito, niveles]

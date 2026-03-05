@@ -1,15 +1,12 @@
 ---
+titulo: Claudio Belocopitt
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [belocopitt, claudio, daniel, jos]
 publish: true
-created: 2026-01-29T19:17:05.100-03:00
-modified: 2026-02-27T13:07:13.303-03:00
-tags:
-  - belocopitt
-  - claudio
-  - daniel
-  - jos
-cssclasses: ""
 ---
-
 # Claudio Belocopitt
 
 ## Resumen General

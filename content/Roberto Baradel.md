@@ -1,6 +1,6 @@
 ---
 titulo: "Roberto Baradel (TL V.2): El Guardián Del Estancamiento Educativo"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

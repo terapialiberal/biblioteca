@@ -1,14 +1,12 @@
 ---
+titulo: UNESCO
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [aldous, eugenics, unesco]
 publish: true
-created: 2026-01-29T19:17:42.074-03:00
-modified: 2026-02-27T13:07:46.201-03:00
-tags:
-  - aldous
-  - eugenics
-  - unesco
-cssclasses: ""
 ---
-
 ![UNESCO Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/UNESCO_logo.svg/220px-UNESCO_logo.svg.png)
 # UNESCO
 

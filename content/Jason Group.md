@@ -1,6 +1,6 @@
 ---
 titulo: "Jason Group (TL V.2): El Oráculo Científico Del Pentágono"
-tipo: empresa
+tipo: "entidad"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

@@ -1,6 +1,6 @@
 ---
 titulo: El Zodiaco de Dendera
-tipo: concepto
+tipo: "concepto"
 tier-primario: "a"
 nivel-evidencia: "medio"
 tags: [esoterismo, egipto, ciclos, precesion, tiempo]

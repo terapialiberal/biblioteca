@@ -1,6 +1,6 @@
 ---
 titulo: CELS (Centro De Estudios Legales Y Sociales)
-tipo: organizacion
+tipo: "entidad"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

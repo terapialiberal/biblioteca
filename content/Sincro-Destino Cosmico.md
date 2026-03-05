@@ -1,6 +1,6 @@
 ---
 titulo: Sincro-Destino Cósmico
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tags: [csmico, destino, sincro]
 tier-primario: "b"

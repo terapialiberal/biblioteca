@@ -1,15 +1,12 @@
 ---
+titulo: "Frank Wisner: El Director De La Orquesta De Mentiras"
+tipo: "persona"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [director, frank, mentiras, orquesta]
 publish: true
-created: 2026-01-29T19:17:14.185-03:00
-modified: 2026-02-27T13:22:44.979-03:00
-tags:
-  - director
-  - frank
-  - mentiras
-  - orquesta
-cssclasses: ""
 ---
-
 # Frank Wisner: El Director De La Orquesta De Mentiras
 
 > [!ABSTRACT] Hipótesis Informativa

@@ -1,6 +1,6 @@
 ---
 titulo: "Roko's Basilisk (TL V.2): El Infoterrorismo De La Inteligencia Artificial"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

@@ -1,6 +1,6 @@
 ---
 titulo: "Nicholas Brady (TL V.2): El Ingeniero De La Servidumbre Por Deuda"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

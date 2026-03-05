@@ -1,6 +1,6 @@
 ---
 titulo: "Operación Gladio (TL V.2): El Terrorismo De Estado Como Herramienta De Control"
-tipo: evento
+tipo: "evento"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

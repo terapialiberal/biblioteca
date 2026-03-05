@@ -1,15 +1,12 @@
 ---
+titulo: Edmond De Rothschild Group
+tipo: "entidad"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [carbine, edmond, jeffrey, rothschild]
 publish: true
-created: 2026-01-29T19:17:10.909-03:00
-modified: 2026-02-27T13:22:32.437-03:00
-tags:
-  - carbine
-  - edmond
-  - jeffrey
-  - rothschild
-cssclasses: ""
 ---
-
 # Edmond De Rothschild Group
 
 ## Perfil TL (Resumen Ejecutivo)

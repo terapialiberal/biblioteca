@@ -1,6 +1,6 @@
 ---
 titulo: Muerte de Bin Laden
-tipo: 'concepto'
+tipo: "concepto"
 tier-primario: 'b'
 nivel-evidencia: 'medio'
 tags: [clasificado-ai]

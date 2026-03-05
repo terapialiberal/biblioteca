@@ -1,6 +1,6 @@
 ---
 titulo: "Preferencia Temporal (TL V.2): El Pulso De La Civilización"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

@@ -1,6 +1,6 @@
 ---
 titulo: Guerra De Divisas (Currency War)
-tipo: evento
+tipo: "evento"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

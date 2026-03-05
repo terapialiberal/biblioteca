@@ -1,15 +1,12 @@
 ---
+titulo: Caso Vicentin (2020)
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [caso, naciones, propiedad, vicentin]
 publish: true
-created: 2026-01-29T19:17:43.047-03:00
-modified: 2026-02-27T13:24:08.610-03:00
-tags:
-  - caso
-  - naciones
-  - propiedad
-  - vicentin
-cssclasses: ""
 ---
-
 # Caso Vicentin (2020)
 
 ## Resumen General

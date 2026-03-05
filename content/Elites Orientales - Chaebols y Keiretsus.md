@@ -1,15 +1,12 @@
 ---
+titulo: Elites Orientales — Chaebol Y Keiretsu (El Neo-Feudalismo Industrial)
+tipo: "concepto"
+fecha: 2026-02-25
+tags: [blackrock, keiretsus, orientales, vanguard]
+tier-primario: "a"
+nivel-evidencia: "alto"
 publish: true
-created: 2026-02-25T22:45:08.771-03:00
-modified: 2026-02-27T13:22:37.933-03:00
-tags:
-  - blackrock
-  - keiretsus
-  - orientales
-  - vanguard
-cssclasses: ""
 ---
-
 
 # Elites Orientales — Chaebol Y Keiretsu (El Neo-Feudalismo Industrial)
 

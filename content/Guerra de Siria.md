@@ -1,15 +1,12 @@
 ---
+titulo: Guerra De Siria
+tipo: "evento"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [guerra, isis, operacin, siria]
 publish: true
-created: 2026-01-29T19:17:16.348-03:00
-modified: 2026-02-27T13:07:41.435-03:00
-tags:
-  - guerra
-  - isis
-  - operacin
-  - siria
-cssclasses: ""
 ---
-
 # Guerra De Siria
 
 ## Perfil TL (Resumen Ejecutivo)

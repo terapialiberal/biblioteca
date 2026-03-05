@@ -1,13 +1,12 @@
 ---
+titulo: The Great Taking (David Webb)
+tipo: "persona"
+fecha: 2026-02-25
+tags: [great, taking]
+tier-primario: "a"
+nivel-evidencia: "alto"
 publish: true
-created: 2026-01-29T19:17:39.608-03:00
-modified: 2026-02-27T13:07:06.782-03:00
-tags:
-  - great
-  - taking
-cssclasses: ""
 ---
-
 
 # The Great Taking (David Webb)
 

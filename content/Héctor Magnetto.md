@@ -1,15 +1,12 @@
 ---
+titulo: Héctor Magnetto
+tipo: "persona"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [grupo, hctor, magnetto, mauricio]
 publish: true
-created: 2026-01-29T19:17:17.786-03:00
-modified: 2026-02-27T13:06:23.710-03:00
-tags:
-  - grupo
-  - hctor
-  - magnetto
-  - mauricio
-cssclasses: ""
 ---
-
 # Héctor Magnetto
 
 ## Perfil TL (Resumen Ejecutivo)

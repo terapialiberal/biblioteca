@@ -1,6 +1,6 @@
 ---
 titulo: El Arca de la Alianza
-tipo: concepto
+tipo: "concepto"
 tier-primario: "a"
 nivel-evidencia: "medio"
 tags: [esoterismo, reliquia, pacto, ley, poder]

@@ -1,6 +1,6 @@
 ---
 titulo: "Primado Negativo (TL V.2): La Vacuna contra La Verdad"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

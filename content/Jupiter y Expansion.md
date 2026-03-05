@@ -1,6 +1,6 @@
 ---
 titulo: Jupiter y Expansion
-tipo: concepto
+tipo: "concepto"
 tier-primario: "a"
 nivel-evidencia: "medio"
 tags: [esoterismo, astrologia-financiera, jupiter, expansion]

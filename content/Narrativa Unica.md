@@ -1,6 +1,6 @@
 ---
 titulo: "Narrativa Ãšnica (TL V.2): El Monopolio Epistemológico De La Matrix"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

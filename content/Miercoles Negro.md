@@ -1,6 +1,6 @@
 ---
 titulo: "Miércoles Negro (1992): El Golpe De Estado Financiero (TL V.2)"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

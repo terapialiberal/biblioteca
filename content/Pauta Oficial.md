@@ -1,6 +1,6 @@
 ---
 titulo: "Pauta Oficial (TL V.2): El Mecanismo De Silencio Comprado"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

@@ -1,15 +1,12 @@
 ---
+titulo: Quantum Supremacy Crisis (Q-Day)
+tipo: "persona"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [crisis, jpmorgan, quantum, supremacy]
 publish: true
-created: 2026-02-09T17:32:15.848-03:00
-modified: 2026-02-27T13:23:46.870-03:00
-tags:
-  - crisis
-  - jpmorgan
-  - quantum
-  - supremacy
-cssclasses: ""
 ---
-
 # [[Quantum Supremacy Crisis (Q-Day)]]
 
 **Clasificación:** Tier A (Riesgo Sistémico de Encriptación)  

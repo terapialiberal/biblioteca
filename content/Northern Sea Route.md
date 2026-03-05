@@ -1,6 +1,6 @@
 ---
 titulo: "Northern Sea Route (NSR): El Corredor Del Hielo Soberano"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

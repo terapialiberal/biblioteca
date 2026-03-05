@@ -1,14 +1,12 @@
 ---
+titulo: Resumen General
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [openai, renta, worldcoin]
 publish: true
-created: 2026-01-29T19:17:44.636-03:00
-modified: 2026-02-27T13:24:10.760-03:00
-tags:
-  - openai
-  - renta
-  - worldcoin
-cssclasses: ""
 ---
-
 # Resumen General
 Worldcoin es un proyecto de criptomoneda co-fundado por Sam Altman (CEO de OpenAI) que busca crear una red financiera y de identidad global para todos los humanos... a cambio de escanear sus iris con un dispositivo esférico cromado llamado "The Orb".
 

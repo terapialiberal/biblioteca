@@ -1,6 +1,6 @@
 ---
 titulo: Cuerpos de Luz vs Datos
-tipo: concepto
+tipo: "concepto"
 tier-primario: "a"
 nivel-evidencia: "medio"
 tags: [esoterismo, tecnologia, transhumanismo, alma]

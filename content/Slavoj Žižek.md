@@ -1,6 +1,6 @@
 ---
 titulo: "Slavoj Å½iÅ¾ek (TL V.2): El Bufón De La Corte De La Matrix Global"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

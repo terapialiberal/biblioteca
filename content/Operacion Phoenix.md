@@ -1,6 +1,6 @@
 ---
 titulo: "Operación Phoenix (TL V.2): La Arquitectura Del Exterminio Administrativo"
-tipo: evento
+tipo: "evento"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

@@ -1,6 +1,6 @@
 ---
 titulo: Mohammed bin Salman
-tipo: 'persona'
+tipo: "persona"
 tier-primario: 'b'
 nivel-evidencia: 'medio'
 tags: [clasificado-ai]

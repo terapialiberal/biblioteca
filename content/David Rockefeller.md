@@ -1,15 +1,12 @@
 ---
+titulo: David Rockefeller
+tipo: "persona"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [bilderberg, comisin, david, rockefeller]
 publish: true
-created: 2026-01-29T19:17:09.789-03:00
-modified: 2026-02-27T13:06:39.141-03:00
-tags:
-  - bilderberg
-  - comisin
-  - david
-  - rockefeller
-cssclasses: ""
 ---
-
 # David Rockefeller
 
 ## Perfil TL (Resumen Ejecutivo)

@@ -1,6 +1,6 @@
 ---
 titulo: "John D. Rockefeller (TL V.2): El Arquitecto Del Monopolio De La Vida"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

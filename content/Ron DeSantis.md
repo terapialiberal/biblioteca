@@ -1,6 +1,6 @@
 ---
 titulo: "Ron DeSantis (TL V.2): El Baluarte De La Soberanía Estatal Frente a La Matrix"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

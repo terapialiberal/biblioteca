@@ -1,6 +1,6 @@
 ---
 titulo: Fractalidad de la Deuda
-tipo: 'concepto'
+tipo: "concepto"
 tier-primario: 'b'
 nivel-evidencia: 'medio'
 tags: [clasificado-ai]

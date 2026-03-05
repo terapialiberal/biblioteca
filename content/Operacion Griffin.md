@@ -1,6 +1,6 @@
 ---
 titulo: "Operación Griffin (TL V.2): La Arquitectura De La Unión Europea"
-tipo: evento
+tipo: "evento"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

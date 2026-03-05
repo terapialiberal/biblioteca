@@ -1,6 +1,6 @@
 ---
 titulo: "Jesuitas (TL V.2): El Servicio De Inteligencia Trans-Histórico"
-tipo: organizacion
+tipo: "entidad"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

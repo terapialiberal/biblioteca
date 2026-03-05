@@ -1,15 +1,12 @@
 ---
+titulo: Cartel De Granos (ABCD)
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [abcd, archer, cartel, granos]
 publish: true
-created: 2026-01-29T19:17:06.660-03:00
-modified: 2026-02-27T13:06:25.745-03:00
-tags:
-  - abcd
-  - archer
-  - cartel
-  - granos
-cssclasses: ""
 ---
-
 # Cartel De Granos (ABCD)
 
 ## Perfil TL (Resumen Ejecutivo)

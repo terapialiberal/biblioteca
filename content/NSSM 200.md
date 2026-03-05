@@ -1,6 +1,6 @@
 ---
 titulo: "NSSM 200 (TL V.2): La Logística Del Exterminio Silencioso"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

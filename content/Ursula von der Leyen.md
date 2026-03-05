@@ -1,15 +1,12 @@
 ---
+titulo: Ursula Von Der Leyen
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [angela, leyen, pfizer, ursula]
 publish: true
-created: 2026-01-29T19:17:42.569-03:00
-modified: 2026-02-27T13:06:42.591-03:00
-tags:
-  - angela
-  - leyen
-  - pfizer
-  - ursula
-cssclasses: ""
 ---
-
 ![Ursula von der Leyen](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Ursula_von_der_Leyen_%282023%29.jpg/220px-Ursula_von_der_Leyen_%282023%29.jpg)
 # Ursula Von Der Leyen
 

@@ -1,15 +1,12 @@
 ---
+titulo: Caída De Saigón
+tipo: "evento"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [cada, golfo, saign, tringulo]
 publish: true
-created: 2026-01-29T19:17:07.016-03:00
-modified: 2026-02-27T13:06:20.932-03:00
-tags:
-  - cada
-  - golfo
-  - saign
-  - tringulo
-cssclasses: ""
 ---
-
 # Caída De Saigón
 
 > [!INFO] Contexto

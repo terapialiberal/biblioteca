@@ -1,15 +1,12 @@
 ---
+titulo: Aspen Institute
+tipo: "entidad"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [aspen, carnegie, fundacin, institute]
 publish: true
-created: 2026-01-29T19:17:04.301-03:00
-modified: 2026-02-27T13:22:01.764-03:00
-tags:
-  - aspen
-  - carnegie
-  - fundacin
-  - institute
-cssclasses: ""
 ---
-
 # Aspen Institute
 
 > [!ABSTRACT] Ficha Técnica

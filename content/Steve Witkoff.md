@@ -1,7 +1,7 @@
 ---
 publish: true
 titulo: Steve Witkoff
-tipo: 'persona'
+tipo: "persona"
 tier-primario: 'b'
 nivel-evidencia: 'alto'
 tags: [trump, negociador, iran, activos-reales]

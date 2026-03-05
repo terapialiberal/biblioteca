@@ -1,6 +1,6 @@
 ---
 titulo: "Nuevo Bretton Woods (TL V.2): El Reinicio Del Software De La Deuda"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

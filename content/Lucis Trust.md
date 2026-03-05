@@ -1,6 +1,6 @@
 ---
 titulo: "¸ Lucis Trust: Los Arquitectos Espirituales Del Globalismo"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

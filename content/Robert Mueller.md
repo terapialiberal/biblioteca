@@ -1,6 +1,6 @@
 ---
 titulo: "Robert Mueller (TL V.2): El Custodio Del Encubrimiento Sistémico"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

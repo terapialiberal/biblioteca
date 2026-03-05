@@ -1,6 +1,6 @@
 ---
 titulo: "Johnny Gosch (TL V.2): El Peón En La Red De La Ã‰lite"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

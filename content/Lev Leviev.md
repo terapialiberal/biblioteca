@@ -1,6 +1,6 @@
 ---
 titulo: "Lev Leviev (v1.0): El Oligarca De Los Diamantes Y La Red De Putin"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

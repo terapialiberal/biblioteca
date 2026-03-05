@@ -1,15 +1,12 @@
 ---
+titulo: Experimento De La Prisión De Stanford
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [experimento, naciones, prisin, stanford]
 publish: true
-created: 2026-01-29T19:17:12.834-03:00
-modified: 2026-02-27T13:06:37.550-03:00
-tags:
-  - experimento
-  - naciones
-  - prisin
-  - stanford
-cssclasses: ""
 ---
-
 # Experimento De La Prisión De Stanford
 
 ## Resumen General

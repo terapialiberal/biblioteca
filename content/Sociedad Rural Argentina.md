@@ -1,6 +1,6 @@
 ---
 titulo: "Sociedad Rural Argentina (TL V.2): El Baluarte De La Renta Y La Tradición"
-tipo: organizacion
+tipo: "entidad"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

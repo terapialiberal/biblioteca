@@ -1,6 +1,6 @@
 ---
 titulo: H.A.A.R.P. Y El Control Del Ether
-tipo: concepto
+tipo: "concepto"
 fecha: 2026-02-25
 tags: [control, ether, nikola, resonancia]
 tier-primario: "a"

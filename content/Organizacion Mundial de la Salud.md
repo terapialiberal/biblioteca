@@ -1,6 +1,6 @@
 ---
 titulo: "Organización Mundial De La Salud (OMS) [TL V.2]: El Ministerio De La Bioseguridad"
-tipo: organizacion
+tipo: "entidad"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

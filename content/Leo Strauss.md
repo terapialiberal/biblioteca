@@ -1,6 +1,6 @@
 ---
 titulo: "Leo Strauss: El Arquitecto De La Mentira Noble"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

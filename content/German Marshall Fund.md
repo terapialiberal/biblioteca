@@ -1,15 +1,12 @@
 ---
+titulo: German Marshall Fund (GMF)
+tipo: "entidad"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [atlantic, fund, marshall, otan]
 publish: true
-created: 2026-01-29T19:17:15.232-03:00
-modified: 2026-02-27T13:06:41.757-03:00
-tags:
-  - atlantic
-  - fund
-  - marshall
-  - otan
-cssclasses: ""
 ---
-
 # German Marshall Fund (GMF)
 
 ## Perfil TL (Resumen Ejecutivo)

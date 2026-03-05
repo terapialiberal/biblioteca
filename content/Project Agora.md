@@ -1,6 +1,6 @@
 ---
 titulo: "Project Agorá (BIS): El Libro Mayor Unificado (Unified Ledger)"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

@@ -1,6 +1,6 @@
 ---
 titulo: "Justin Trudeau (TL V.2): El Prototipo De La Gobernanza Post-Democrática"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

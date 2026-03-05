@@ -1,6 +1,6 @@
 ---
 titulo: "Orden De Los Nueve Ángulos (TL V.2): La Teología Del Colapso"
-tipo: organizacion
+tipo: "entidad"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

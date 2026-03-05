@@ -1,6 +1,6 @@
 ---
 titulo: "Roger Ailes (TL V.2): El Fabricante De La Realidad Conservadora En Cable"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

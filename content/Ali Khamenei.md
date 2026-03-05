@@ -1,6 +1,6 @@
 ---
 titulo: Ali Khamenei
-tipo: persona
+tipo: "persona"
 fecha: 2026-03-04
 tier-primario: "b"
 nivel-evidencia: "confirmado"
@@ -20,7 +20,7 @@ El 28 de febrero de 2026, una operación de "decapitación" coordinada por la CI
 ## ⛓️ Conexiones y Sucesión
 - **[[Mojtaba Khamenei]]**: Hijo y sucesor aparente (ver [[Sucesión en Irán 2026]]).
 - **[[IRGC]]**: El verdadero ejecutor que sostiene la transición.
-- **[[99_AI/Legacy/Project mBridge]]**: La infraestructura financiera que Khamenei impulsó para saltar el SWIFT, ahora crítica para la supervivencia del régimen post-magnicidio.
+- **[[Project mBridge]]**: La infraestructura financiera que Khamenei impulsó para saltar el SWIFT, ahora crítica para la supervivencia del régimen post-magnicidio.
 
 ## 📊 Impacto Sistémico (Cui Bono)
 1. **Tier A (Gestores):** Reordenamiento de los flujos energéticos hacia el corredor [[Corredor IMEC]].

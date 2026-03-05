@@ -1,15 +1,12 @@
 ---
+titulo: Transhumanismo
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [digital, fusin, neuralink, transhumanismo]
 publish: true
-created: 2026-01-29T19:17:40.988-03:00
-modified: 2026-02-27T13:24:04.845-03:00
-tags:
-  - digital
-  - fusin
-  - neuralink
-  - transhumanismo
-cssclasses: ""
 ---
-
 # Transhumanismo
 
 ## Resumen Ejecutivo

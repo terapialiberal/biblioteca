@@ -1,6 +1,6 @@
 ---
 titulo: "Proyecto X (TL V.2): El Panóptico De La Progresía"
-tipo: evento
+tipo: "evento"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

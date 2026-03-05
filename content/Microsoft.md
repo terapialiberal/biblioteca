@@ -1,6 +1,6 @@
 ---
 titulo: "Microsoft (TL V.2): El Sistema Operativo Del Control Global"
-tipo: empresa
+tipo: "entidad"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

@@ -1,6 +1,6 @@
 ---
 titulo: Geometria del Gran Sello
-tipo: concepto
+tipo: "concepto"
 fecha: 2026-03-04
 tier-primario: "a"
 nivel-evidencia: "alto"

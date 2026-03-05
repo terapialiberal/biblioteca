@@ -1,6 +1,6 @@
 ---
 titulo: 🗺️ MOC — RIMLAND (Geopolítica De Contención)
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"
@@ -125,29 +125,38 @@ publish: true
 
 ---
 
-- [[05_Videos_Publicados/2025/2025-10-24_El_RESET_MALTHUSIANO_GEOPOLITICA/🚨 Prediccion de The Economist El Tiempo se acaba + Trump se enfurece con Rusia y otras noticias\|🚨 Prediccion de The Economist El Tiempo se acaba + Trump se enfurece con Rusia y otras noticias]]
+- [[05_Fuentes/- Los ataques contra Irán mataron a los sucesores preferidos de Estados Unidos para asumir el régimen, afirma Trump\|- Los ataques contra Irán mataron a los sucesores preferidos de Estados Unidos para asumir el régimen, afirma Trump]]
+- [[05_Fuentes/¿Cuánto tiempo lleva la élite priorizando su propia voluntad\|¿Cuánto tiempo lleva la élite priorizando su propia voluntad]]
+- [[06_Videos_Publicados/2025/2025-10-24_El_RESET_MALTHUSIANO_GEOPOLITICA/🚨 Prediccion de The Economist El Tiempo se acaba + Trump se enfurece con Rusia y otras noticias\|🚨 Prediccion de The Economist El Tiempo se acaba + Trump se enfurece con Rusia y otras noticias]]
 - [[00_MOC - Rimland\|00_MOC - Rimland]]
-- [[05_Videos_Publicados/2026/2026-02-05_Caos_Controlado/Archivo - Demolicion Controlada Spykman 2026-02-05\|Archivo - Demolicion Controlada Spykman 2026-02-05]]
-- [[05_Videos_Publicados/2026/2026-02-05_Caos_Controlado/Articulo_Rimland_2026_Completo\|Articulo_Rimland_2026_Completo]]
+- [[06_Videos_Publicados/2026/2026-02-05_Caos_Controlado/Archivo - Demolicion Controlada Spykman 2026-02-05\|Archivo - Demolicion Controlada Spykman 2026-02-05]]
+- [[06_Videos_Publicados/2026/2026-02-05_Caos_Controlado/Articulo_Rimland_2026_Completo\|Articulo_Rimland_2026_Completo]]
 - [[Astro-Cartografia del Rimland\|Astro-Cartografia del Rimland]]
-- [[05_Videos_Publicados/2026/2026-01-07_Gaza_SA/bookmarks_2026_1_8\|bookmarks_2026_1_8]]
-- [[Cambio China hacia mercado interno\|Cambio China hacia mercado interno]]
+- [[06_Videos_Publicados/2026/2026-01-07_Gaza_SA/bookmarks_2026_1_8\|bookmarks_2026_1_8]]
+- [[05_Fuentes/Cambio China hacia mercado interno\|Cambio China hacia mercado interno]]
 - [[Carney_en_Beijing_DW\|Carney_en_Beijing_DW]]
-- [[Como encaja Myanmar en las nuevas rutas de la seda de China\|Como encaja Myanmar en las nuevas rutas de la seda de China]]
+- [[05_Fuentes/Como encaja Myanmar en las nuevas rutas de la seda de China\|Como encaja Myanmar en las nuevas rutas de la seda de China]]
 - [[Corredor IMEC\|Corredor IMEC]]
-- [[El arsenal americano de China\|El arsenal americano de China]]
+- [[05_Fuentes/El arsenal americano de China\|El arsenal americano de China]]
 - [[El establishment angloamericano\|El establishment angloamericano]]
-- [[El vicepresidente estadounidense JD Vance presento\|El vicepresidente estadounidense JD Vance presento]]
+- [[05_Fuentes/El vicepresidente estadounidense JD Vance presento\|El vicepresidente estadounidense JD Vance presento]]
 - [[Estrecho de Malaca\|Estrecho de Malaca]]
-- [[05_Videos_Publicados/2025/2025-10-24_El_RESET_MALTHUSIANO_GEOPOLITICA/Graficos Geopolitica y Plan Marshall\|Graficos Geopolitica y Plan Marshall]]
-- [[01_Ideas/ATAQUE A IRAN/iran-2026-situacion-general\|iran-2026-situacion-general]]
-- [[05_Videos_Publicados/2025/2025-12-04_Jeffrey_NO_es_lo_que_parece/Jeffrey NADA ES LO QUE PARECE - Investigacion Exclusiva al Estilo Terapia Liberal\|Jeffrey NADA ES LO QUE PARECE - Investigacion Exclusiva al Estilo Terapia Liberal]]
+- [[05_Fuentes/Europa se prepara para un aumento en los precios de la energía por el conflicto en Medio Oriente\|Europa se prepara para un aumento en los precios de la energía por el conflicto en Medio Oriente]]
+- [[06_Videos_Publicados/2025/2025-10-24_El_RESET_MALTHUSIANO_GEOPOLITICA/Graficos Geopolitica y Plan Marshall\|Graficos Geopolitica y Plan Marshall]]
+- [[05_Fuentes/Irán ejecuta el plan de Jamenei para extender la guerra regional\|Irán ejecuta el plan de Jamenei para extender la guerra regional]]
+- [[01_Research/01_Radar/ATAQUE A IRAN/iran-2026-situacion-general\|iran-2026-situacion-general]]
+- [[06_Videos_Publicados/2025/2025-12-04_Jeffrey_NO_es_lo_que_parece/Jeffrey NADA ES LO QUE PARECE - Investigacion Exclusiva al Estilo Terapia Liberal\|Jeffrey NADA ES LO QUE PARECE - Investigacion Exclusiva al Estilo Terapia Liberal]]
+- [[05_Fuentes/La apuesta de China por la inteligencia artificial electricidad barata de la red más grande del mundo\|La apuesta de China por la inteligencia artificial electricidad barata de la red más grande del mundo]]
 - [[La Comision Trilateral califica al 2023 como el Añ\|La Comision Trilateral califica al 2023 como el Añ]]
+- [[05_Fuentes/La crisis energética y la falta de escala El sombrío panorama de Eric Schmidt sobre la competencia global en IA\|La crisis energética y la falta de escala El sombrío panorama de Eric Schmidt sobre la competencia global en IA]]
+- [[05_Fuentes/La guerra en Irán Una nueva oportunidad para el Gran Reinicio\|La guerra en Irán Una nueva oportunidad para el Gran Reinicio]]
+- [[05_Fuentes/La mayor sorpresa, hasta el momento, dentro de la Operación Furia Épica\|La mayor sorpresa, hasta el momento, dentro de la Operación Furia Épica]]
 - [[La Teoria Geopolitica del Rimland Una Perspectiva Estrategica\|La Teoria Geopolitica del Rimland Una Perspectiva Estrategica]]
-- [[05_Videos_Publicados/2025/2025-10-24_El_RESET_MALTHUSIANO_GEOPOLITICA/MOC\|MOC]]
+- [[06_Videos_Publicados/2025/2025-10-24_El_RESET_MALTHUSIANO_GEOPOLITICA/MOC\|MOC]]
 - [[Patron - Weaponization (Armamentizacion)\|Patron - Weaponization (Armamentizacion)]]
 - [[99_AI/03_Prompts/04_DISTRIBUCION/Dossier Mensual para Inversores/PROMPT_Dossier_Mensual_v3\|PROMPT_Dossier_Mensual_v3]]
 - [[Retirada de Afganistan\|Retirada de Afganistan]]
+- [[01_Research/01_Radar/Tecnocracia/tecnocracia-tesis\|tecnocracia-tesis]]
 - [[Teoria del Rimland\|Teoria del Rimland]]
 - [[99_AI/02_Transcripts/Trasncript GAZA SA\|Trasncript GAZA SA]]
 - [[Vladimir Putin\|Vladimir Putin]]

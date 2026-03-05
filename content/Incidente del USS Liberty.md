@@ -1,15 +1,12 @@
 ---
+titulo: Incidente Del USS Liberty
+tipo: "evento"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [guerra, incidente, liberty, lyndon]
 publish: true
-created: 2026-01-29T19:17:18.258-03:00
-modified: 2026-02-27T13:22:54.490-03:00
-tags:
-  - guerra
-  - incidente
-  - liberty
-  - lyndon
-cssclasses: ""
 ---
-
 # Incidente Del USS Liberty
 
 ## Perfil TL (Resumen Ejecutivo)

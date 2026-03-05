@@ -1,15 +1,12 @@
 ---
+titulo: Caída Del Muro De Berlín
+tipo: "evento"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [berln, cada, muro, vladimir]
 publish: true
-created: 2026-01-29T19:17:07.031-03:00
-modified: 2026-02-27T13:22:12.566-03:00
-tags:
-  - berln
-  - cada
-  - muro
-  - vladimir
-cssclasses: ""
 ---
-
 # Caída Del Muro De Berlín
 
 > [!INFO] Contexto

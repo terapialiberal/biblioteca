@@ -1,14 +1,12 @@
 ---
+titulo: WikiLeaks Cables
+tipo: "persona"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [cables, julian, wikileaks]
 publish: true
-created: 2026-01-29T19:17:44.218-03:00
-modified: 2026-02-27T13:07:17.023-03:00
-tags:
-  - cables
-  - julian
-  - wikileaks
-cssclasses: ""
 ---
-
 # WikiLeaks Cables
 
 > [!INFO] Contexto

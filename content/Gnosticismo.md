@@ -1,15 +1,12 @@
 ---
+titulo: Gnosticismo (El Demiurgo Y La Prisión Planetaria)
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [demiurgo, gnosticismo, planetaria, transhumanismo]
 publish: true
-created: 2026-01-29T19:17:15.549-03:00
-modified: 2026-02-27T13:22:48.818-03:00
-tags:
-  - demiurgo
-  - gnosticismo
-  - planetaria
-  - transhumanismo
-cssclasses: ""
 ---
-
 # Gnosticismo (El Demiurgo Y La Prisión Planetaria)
 
 ## Perfil TL (Resumen Ejecutivo)

@@ -1,6 +1,6 @@
 ---
 titulo: Hollywood Y El Ocultismo De Élite
-tipo: concepto
+tipo: "concepto"
 fecha: 2026-02-25
 tags: [hollywood, programacin, walt, lite]
 tier-primario: "b"

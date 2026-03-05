@@ -1,15 +1,12 @@
 ---
+titulo: Asesinato De Michael Hastings
+tipo: "evento"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [asesinato, internet, julian, michael]
 publish: true
-created: 2026-01-29T19:17:04.112-03:00
-modified: 2026-02-27T13:22:00.524-03:00
-tags:
-  - asesinato
-  - internet
-  - julian
-  - michael
-cssclasses: ""
 ---
-
 # Asesinato De Michael Hastings
 
 ## Resumen Ejecutivo

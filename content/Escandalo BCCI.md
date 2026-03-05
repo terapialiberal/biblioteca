@@ -1,15 +1,12 @@
 ---
+titulo: Escándalo BCCI
+tipo: "evento"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [bcci, escndalo, irn, promis]
 publish: true
-created: 2026-01-29T19:17:12.145-03:00
-modified: 2026-02-27T13:07:31.600-03:00
-tags:
-  - bcci
-  - escndalo
-  - irn
-  - promis
-cssclasses: ""
 ---
-
 # Escándalo BCCI
 
 ## Perfil TL (Resumen Ejecutivo)

@@ -1,15 +1,12 @@
 ---
+titulo: Marc Rich (Glencore)
+tipo: "entidad"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [glencore, marc, mossad, rich]
 publish: true
-created: 2026-01-29T19:17:23.734-03:00
-modified: 2026-02-27T13:06:56.681-03:00
-tags:
-  - glencore
-  - marc
-  - mossad
-  - rich
-cssclasses: ""
 ---
-
 # Marc Rich (Glencore)
 
 ## Resumen Ejecutivo

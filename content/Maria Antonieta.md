@@ -1,15 +1,12 @@
 ---
+titulo: 'María Antonieta ("Let Them Eat Cake")'
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [antonieta, gran, maria, revolucin]
 publish: true
-created: 2026-01-29T19:17:23.925-03:00
-modified: 2026-02-27T13:06:23.754-03:00
-tags:
-  - antonieta
-  - gran
-  - maria
-  - revolucin
-cssclasses: ""
 ---
-
 # María Antonieta ("Let Them Eat Cake")
 
 ## Resumen Ejecutivo

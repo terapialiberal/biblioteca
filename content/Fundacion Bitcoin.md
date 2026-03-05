@@ -1,6 +1,6 @@
 ---
 titulo: Bitcoin Foundation
-tipo: organizacion
+tipo: "entidad"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

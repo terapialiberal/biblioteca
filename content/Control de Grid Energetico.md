@@ -1,6 +1,6 @@
 ---
 titulo: Control de Grid Energético
-tipo: 'concepto'
+tipo: "concepto"
 tier-primario: 'b'
 nivel-evidencia: 'medio'
 tags: [clasificado-ai]

@@ -1,15 +1,12 @@
 ---
+titulo: GameStop Y r/WallStreetBets
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [blackrock, citadel, gamestop, wallstreetbets]
 publish: true
-created: 2026-01-29T19:17:14.640-03:00
-modified: 2026-02-27T13:06:50.663-03:00
-tags:
-  - blackrock
-  - citadel
-  - gamestop
-  - wallstreetbets
-cssclasses: ""
 ---
-
 # GameStop Y r/WallStreetBets
 
 ## Perfil TL (Resumen Ejecutivo)

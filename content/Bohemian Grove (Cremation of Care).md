@@ -1,15 +1,12 @@
 ---
+titulo: Bohemian Grove
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [bohemian, bho, george, grove]
 publish: true
-created: 2026-01-29T19:17:05.676-03:00
-modified: 2026-02-27T13:22:06.276-03:00
-tags:
-  - bohemian
-  - bho
-  - george
-  - grove
-cssclasses: ""
 ---
-
 ![Bohemian Grove](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Bohemian_Grove_Owl.jpg/220px-Bohemian_Grove_Owl.jpg)
 # Bohemian Grove
 

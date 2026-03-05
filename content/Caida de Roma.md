@@ -1,15 +1,12 @@
 ---
+titulo: Caída Del Imperio Romano
+tipo: "evento"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [cada, inflacin, naciones, roma]
 publish: true
-created: 2026-01-29T19:17:07.000-03:00
-modified: 2026-02-27T13:06:51.501-03:00
-tags:
-  - cada
-  - inflacin
-  - naciones
-  - roma
-cssclasses: ""
 ---
-
 # Caída Del Imperio Romano
 
 ## Resumen General

@@ -1,6 +1,6 @@
 ---
 titulo: 00_MOC - Redes de Poder
-tipo: 'persona'
+tipo: "persona"
 tier-primario: 'a'
 nivel-evidencia: 'medio'
 tags: [clasificado-ai]
@@ -160,9 +160,10 @@ Rhodes Trust ? Round Table ? CFR ? Bilderberg ? Trilateral ? WEF
 
 ---
 
-- [[01_Ideas/Biblia Scofield 1\|Biblia Scofield 1]]
+- [[01_Research/99_Patrones_Detectados/Biblia Scofield 1\|Biblia Scofield 1]]
 - [[Club de Madrid\|Club de Madrid]]
 - [[DTCC\|DTCC]]
+- [[01_Research/01_Radar/Tecnocracia/tecnocracia-tesis\|tecnocracia-tesis]]
 
 
 *MOC expandido: 2026-02-24 | Parte del [[INDEX_MAESTRO]]*

@@ -1,15 +1,12 @@
 ---
+titulo: Mario Draghi
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [draghi, goldman, gran, mario]
 publish: true
-created: 2026-01-29T19:17:23.975-03:00
-modified: 2026-02-27T13:07:04.975-03:00
-tags:
-  - draghi
-  - goldman
-  - gran
-  - mario
-cssclasses: ""
 ---
-
 # Mario Draghi
 
 ## Resumen Ejecutivo

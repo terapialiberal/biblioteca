@@ -1,6 +1,6 @@
 ---
 titulo: "Koch Industries (TL V.2): Los Arquitectos De La Libertad Corporativa"
-tipo: empresa
+tipo: "entidad"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

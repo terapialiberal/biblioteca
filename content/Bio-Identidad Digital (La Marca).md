@@ -1,6 +1,6 @@
 ---
 titulo: Bio-Identidad Digital (La Marca)
-tipo: 'concepto'
+tipo: "concepto"
 tier-primario: 'b'
 nivel-evidencia: 'medio'
 tags: [clasificado-ai]

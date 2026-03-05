@@ -1,6 +1,6 @@
 ---
 titulo: El Perro Que No Ladra (Análisis De Omisión)
-tipo: organizacion
+tipo: "entidad"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

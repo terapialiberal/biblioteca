@@ -1,6 +1,6 @@
 ---
 titulo: "Ross Ulbricht (TL V.2): El Sacrificio En El Altar De La Libertad Digital"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

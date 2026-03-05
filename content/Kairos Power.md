@@ -1,6 +1,6 @@
 ---
 titulo: KAIROS POWER (TL V.2)
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "a"
 nivel-evidencia: "alto"

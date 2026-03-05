@@ -1,15 +1,12 @@
 ---
+titulo: E-acc (Aceleracionismo Efectivo)
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [aceleracionismo, altruismo, efectivo, marc]
 publish: true
-created: 2026-01-29T19:17:10.751-03:00
-modified: 2026-02-27T13:22:31.694-03:00
-tags:
-  - aceleracionismo
-  - altruismo
-  - efectivo
-  - marc
-cssclasses: ""
 ---
-
 # E-acc (Aceleracionismo Efectivo)
 
 ## Perfil TL (Resumen Ejecutivo)

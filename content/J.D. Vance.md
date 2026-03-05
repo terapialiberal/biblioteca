@@ -1,6 +1,6 @@
 ---
 titulo: "J.D. Vance (TL V.2): El Interfaz De La PayPal Mafia"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

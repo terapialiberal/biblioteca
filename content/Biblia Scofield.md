@@ -1,15 +1,12 @@
 ---
+titulo: Biblia Scofield
+tipo: "persona"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [biblia, scofield, sionismo, woodrow]
 publish: true
-created: 2026-01-29T19:17:05.257-03:00
-modified: 2026-02-27T13:22:04.449-03:00
-tags:
-  - biblia
-  - scofield
-  - sionismo
-  - woodrow
-cssclasses: ""
 ---
-
 # Biblia Scofield
 
 ## Resumen Ejecutivo

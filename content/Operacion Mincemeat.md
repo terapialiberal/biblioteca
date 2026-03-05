@@ -1,6 +1,6 @@
 ---
 titulo: "Operación Mincemeat (TL V.2): El Arte De La Realidad Fabricada"
-tipo: evento
+tipo: "evento"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

@@ -1,6 +1,6 @@
 ---
 titulo: Energía Radiant (Tesla)
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tags: [energa, radiant]
 tier-primario: "b"

@@ -1,7 +1,7 @@
 ---
 publish: true
 titulo: 00_MOC - Kompromat y Dark Game Theory
-tipo: moc
+tipo: "concepto"
 fecha: 2026-03-01
 tags: [00-moc, kompromat, operaciones-inteligencia, axioma-kompromat]
 ---
@@ -12,7 +12,7 @@ tags: [00-moc, kompromat, operaciones-inteligencia, axioma-kompromat]
 
 ## 1. Operaciones Físicas (Honey Traps)
 *Redes de tráfico e infiltración humana para recolección de evidencia.*
-- [[Red Epstein-Maxwell (Trampa de Inteligencia)]]
+- [[05_Fuentes/Red Epstein-Maxwell (Trampa de Inteligencia)]]
 - [[Operación Gladio (Estrategia de Tensión)]]
 
 ## 2. Cibernética y Vigilancia Total

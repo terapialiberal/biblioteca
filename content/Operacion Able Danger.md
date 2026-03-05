@@ -1,6 +1,6 @@
 ---
 titulo: "Operación Able Danger (TL V.2): El Conocimiento Previo Del 11S"
-tipo: evento
+tipo: "evento"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

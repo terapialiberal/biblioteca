@@ -1,15 +1,12 @@
 ---
+titulo: Cecil Rhodes
+tipo: "persona"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [cecil, chatham, lord, rhodes]
 publish: true
-created: 2026-01-29T19:17:07.121-03:00
-modified: 2026-02-27T13:06:25.130-03:00
-tags:
-  - cecil
-  - chatham
-  - lord
-  - rhodes
-cssclasses: ""
 ---
-
 # Cecil Rhodes
 
 ## Perfil TL (Resumen Ejecutivo)

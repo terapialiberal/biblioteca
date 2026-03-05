@@ -1,15 +1,12 @@
 ---
+titulo: Computación Espacial (Spatial Computing)
+tipo: "persona"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [computing, espacial, metaverso, vigilancia]
 publish: true
-created: 2026-01-29T19:17:08.473-03:00
-modified: 2026-02-27T13:07:41.470-03:00
-tags:
-  - computing
-  - espacial
-  - metaverso
-  - vigilancia
-cssclasses: ""
 ---
-
 # Computación Espacial (Spatial Computing)
 
 ## Resumen General

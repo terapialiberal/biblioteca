@@ -1,15 +1,12 @@
 ---
+titulo: Bill Clinton
+tipo: "persona"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [barry, bill, clinton, hillary]
 publish: true
-created: 2026-01-29T19:17:05.332-03:00
-modified: 2026-02-27T13:07:49.222-03:00
-tags:
-  - barry
-  - bill
-  - clinton
-  - hillary
-cssclasses: ""
 ---
-
 ![Bill Clinton](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bill_Clinton.jpg/220px-Bill_Clinton.jpg)
 # Bill Clinton
 

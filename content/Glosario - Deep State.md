@@ -1,15 +1,12 @@
 ---
+titulo: Glosario - Deep State
+tipo: "concepto"
+fecha: 2026-03-04
+tier-primario: "b"
+nivel-evidencia: "alto"
+tags: [estado-profundo, terminologia, tiers, control]
 publish: true
-created: 2026-01-29T19:17:15.529-03:00
-modified: 2026-03-04T13:52:17.447-03:00
-tags:
-  - estado-profundo
-  - terminologia
-  - tiers
-  - control
-cssclasses: ""
 ---
-
 # Glosario Maestro del Estado Profundo (TL-INTEL V.3)
 
 > [!IMPORTANT] AXIOMA 1: EL ESTADO NO EXISTE

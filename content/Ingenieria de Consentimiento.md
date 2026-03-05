@@ -1,6 +1,6 @@
 ---
 titulo: Ingenieria de Consentimiento
-tipo: concepto
+tipo: "concepto"
 tier-primario: "b"
 nivel-evidencia: "muy-alto"
 tags: [psicologia, marketing, bernays, control]

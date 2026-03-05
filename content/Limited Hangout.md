@@ -1,6 +1,6 @@
 ---
 titulo: "Limited Hangout: La Táctica De La Verdad Parcial"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

@@ -1,15 +1,12 @@
 ---
+titulo: Hermes - Trimegisto - Inteligencia Y Señales
+tipo: "entidad"
+fecha: 2026-02-25
+tags: [hermes, inteligencia, seales, trimegisto]
+tier-primario: "b"
+nivel-evidencia: "alto"
 publish: true
-created: 2026-02-25T22:28:31.024-03:00
-modified: 2026-02-27T13:22:51.877-03:00
-tags:
-  - hermes
-  - inteligencia
-  - seales
-  - trimegisto
-cssclasses: ""
 ---
-
 
 # Hermes - Trimegisto - Inteligencia Y Señales
 

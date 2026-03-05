@@ -1,15 +1,12 @@
 ---
+titulo: City De Londres (The Square Mile)
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [banco, city, mile, square]
 publish: true
-created: 2026-01-29T19:17:07.815-03:00
-modified: 2026-02-27T13:07:23.748-03:00
-tags:
-  - banco
-  - city
-  - mile
-  - square
-cssclasses: ""
 ---
-
 # City De Londres (The Square Mile)
 
 ## Perfil TL (Resumen Ejecutivo)

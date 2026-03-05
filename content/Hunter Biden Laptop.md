@@ -1,15 +1,12 @@
 ---
+titulo: Hunter Biden Laptop
+tipo: "persona"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [biden, burisma, hunter, twitter]
 publish: true
-created: 2026-01-29T19:17:17.727-03:00
-modified: 2026-02-27T13:22:53.463-03:00
-tags:
-  - biden
-  - burisma
-  - hunter
-  - twitter
-cssclasses: ""
 ---
-
 # Hunter Biden Laptop
 
 ## Perfil TL (Resumen Ejecutivo)

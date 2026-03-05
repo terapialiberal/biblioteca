@@ -1,15 +1,11 @@
 ---
+titulo: Bio-Leninismo
+tipo: "concepto"
+tier-primario: "b"
+nivel-evidencia: "alto"
+tags: [sociologia, control, lealtad, bio-politica]
 publish: true
-created: 2026-01-29T19:17:05.405-03:00
-modified: 2026-03-04T14:11:05.605-03:00
-tags:
-  - sociologia
-  - control
-  - lealtad
-  - bio-politica
-cssclasses: ""
 ---
-
 # Bio-Leninismo (V.3)
 
 > [!IMPORTANT] CONCEPTO CLAVE

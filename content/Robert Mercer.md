@@ -1,6 +1,6 @@
 ---
 titulo: "Robert Mercer (TL V.2): El Ingeniero De La Reingeniería Social"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

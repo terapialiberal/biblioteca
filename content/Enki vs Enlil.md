@@ -1,14 +1,12 @@
 ---
+titulo: Enki Vs Enlil (Dualidad Primordial De Control)
+tipo: "concepto"
+fecha: 2026-02-25
+tags: [enki, enlil, sinarqua]
+tier-primario: "a"
+nivel-evidencia: "bajo"
 publish: true
-created: 2026-02-25T22:25:39.497-03:00
-modified: 2026-02-27T13:22:38.612-03:00
-tags:
-  - enki
-  - enlil
-  - sinarqua
-cssclasses: ""
 ---
-
 
 # Enki Vs Enlil (Dualidad Primordial De Control)
 

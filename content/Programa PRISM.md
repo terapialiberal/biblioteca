@@ -1,6 +1,6 @@
 ---
 titulo: "Programa PRISM (TL V.2): El Cordón Umbilical De La Vigilancia"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

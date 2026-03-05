@@ -1,15 +1,12 @@
 ---
+titulo: Carlyle Group (The Carlyle Group)
+tipo: "entidad"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [carlyle, familia, george, group]
 publish: true
-created: 2026-01-29T19:17:06.556-03:00
-modified: 2026-02-27T13:07:48.429-03:00
-tags:
-  - carlyle
-  - familia
-  - george
-  - group
-cssclasses: ""
 ---
-
 # Carlyle Group (The Carlyle Group)
 
 ## Perfil TL (Resumen Ejecutivo)

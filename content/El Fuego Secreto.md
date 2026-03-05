@@ -1,6 +1,6 @@
 ---
 titulo: El Fuego Secreto
-tipo: 'concepto'
+tipo: "concepto"
 tier-primario: 'b'
 nivel-evidencia: 'medio'
 tags: [clasificado-ai]

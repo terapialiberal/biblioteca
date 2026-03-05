@@ -1,6 +1,6 @@
 ---
 titulo: "Susan Wojcicki (TL V.2): La Inquisidora Jefe Del Ecosistema Digital"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

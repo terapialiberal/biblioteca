@@ -1,6 +1,6 @@
 ---
 titulo: Operación Aerodynamic
-tipo: evento
+tipo: "evento"
 fecha: 2026-03-04
 tier-primario: "b"
 nivel-evidencia: "alto"

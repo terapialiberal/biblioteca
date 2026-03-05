@@ -1,6 +1,6 @@
 ---
 titulo: "Plum Island (TL V.2): El Laboratorio De La Garrapata Armadizada"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

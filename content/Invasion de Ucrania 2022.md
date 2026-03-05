@@ -1,6 +1,6 @@
 ---
 titulo: Invasión De Ucrania 2022
-tipo: evento
+tipo: "evento"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

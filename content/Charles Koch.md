@@ -1,15 +1,12 @@
 ---
+titulo: Charles Koch
+tipo: "persona"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [cato, charles, koch, standard]
 publish: true
-created: 2026-01-29T19:17:07.341-03:00
-modified: 2026-02-27T13:07:16.045-03:00
-tags:
-  - cato
-  - charles
-  - koch
-  - standard
-cssclasses: ""
 ---
-
 # Charles Koch
 
 ## Perfil TL (Resumen Ejecutivo)

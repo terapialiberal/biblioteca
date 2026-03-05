@@ -1,15 +1,12 @@
 ---
+titulo: Ley Smith-Mundt
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [mundt, operacin, smith, voice]
 publish: true
-created: 2026-01-29T19:17:22.433-03:00
-modified: 2026-02-27T13:06:25.907-03:00
-tags:
-  - mundt
-  - operacin
-  - smith
-  - voice
-cssclasses: ""
 ---
-
 # Ley Smith-Mundt
 
 > **Perfil TL:** La ley que prohibía la propaganda del gobierno sobre ciudadanos estadounidenses... hasta que Obama la derogó en 2012.

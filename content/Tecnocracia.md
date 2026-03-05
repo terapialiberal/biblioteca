@@ -1,14 +1,12 @@
 ---
+titulo: Resumen General
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [klaus, peter, tecnocracia]
 publish: true
-created: 2026-01-29T19:17:38.527-03:00
-modified: 2026-02-27T13:07:13.266-03:00
-tags:
-  - klaus
-  - peter
-  - tecnocracia
-cssclasses: ""
 ---
-
 # Resumen General
 La Tecnocracia es un sistema de gobierno donde las decisiones son tomadas por "expertos técnicos" en lugar de representantes electos. El argumento: los problemas complejos requieren soluciones técnicas, no políticas. El resultado: la democracia se vuelve innecesaria.
 

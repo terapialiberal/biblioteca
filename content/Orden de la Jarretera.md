@@ -1,15 +1,12 @@
 ---
+titulo: Orden De La Jarretera
+tipo: "entidad"
+fecha: 2026-02-25
+tags: [city, jarretera, monarqua, orden]
+tier-primario: "a"
+nivel-evidencia: "alto"
 publish: true
-created: 2026-02-25T22:12:01.647-03:00
-modified: 2026-02-27T13:23:36.272-03:00
-tags:
-  - city
-  - jarretera
-  - monarqua
-  - orden
-cssclasses: ""
 ---
-
 
 # Orden De La Jarretera
 

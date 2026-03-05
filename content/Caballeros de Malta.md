@@ -1,15 +1,12 @@
 ---
+titulo: Caballeros De Malta (SMOM)
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [caballeros, malta, smom, vaticano]
 publish: true
-created: 2026-01-29T19:17:06.170-03:00
-modified: 2026-02-27T13:22:11.985-03:00
-tags:
-  - caballeros
-  - malta
-  - smom
-  - vaticano
-cssclasses: ""
 ---
-
 # Caballeros De Malta (SMOM)
 
 ## Perfil TL (Resumen Ejecutivo)

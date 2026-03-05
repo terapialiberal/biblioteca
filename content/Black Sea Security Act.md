@@ -1,14 +1,12 @@
 ---
+titulo: Black Sea Security Act
+tipo: "evento"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [black, nato, security]
 publish: true
-created: 2026-02-09T17:32:21.596-03:00
-modified: 2026-02-27T13:22:05.227-03:00
-tags:
-  - black
-  - nato
-  - security
-cssclasses: ""
 ---
-
 # [[Black Sea Security Act]]
 
 **Clasificación:** Tier B (Contención Geopolítica de Rusia)  

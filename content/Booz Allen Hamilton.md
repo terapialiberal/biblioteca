@@ -1,15 +1,12 @@
 ---
+titulo: Booz Allen Hamilton
+tipo: "persona"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [agencia, allen, booz, edward]
 publish: true
-created: 2026-01-29T19:17:05.755-03:00
-modified: 2026-02-27T13:07:53.085-03:00
-tags:
-  - agencia
-  - allen
-  - booz
-  - edward
-cssclasses: ""
 ---
-
 # Booz Allen Hamilton
 
 ## Resumen General

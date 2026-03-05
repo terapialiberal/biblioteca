@@ -1,6 +1,6 @@
 ---
 titulo: "Lockheed Martin: El Martillo Del Complejo Militar-Industrial"
-tipo: empresa
+tipo: "entidad"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

@@ -1,6 +1,6 @@
 ---
 titulo: El Quintaesencia
-tipo: 'concepto'
+tipo: "concepto"
 tier-primario: 'b'
 nivel-evidencia: 'medio'
 tags: [clasificado-ai]

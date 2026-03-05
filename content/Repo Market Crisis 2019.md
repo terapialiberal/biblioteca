@@ -1,6 +1,6 @@
 ---
 titulo: "Repo Market Crisis 2019 (TL V.2): El Colapso Silencioso Que Activó La Matrix"
-tipo: evento
+tipo: "evento"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

@@ -1,6 +1,6 @@
 ---
 titulo: "Jack Dorsey (TL V.2): El Verdugo Arrepentido Y El Shaman De La Red"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

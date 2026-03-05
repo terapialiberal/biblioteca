@@ -1,16 +1,12 @@
 ---
+titulo: Eurovision
+tipo: "evento"
+fecha: 2026-03-04
+tier-primario: "c"
+nivel-evidencia: "medio"
+tags: [ingenieria-social, percepcion, cultura, propaganda, psicologica]
 publish: true
-created: 2026-01-29T19:17:12.652-03:00
-modified: 2026-03-04T13:54:03.936-03:00
-tags:
-  - ingenieria-social
-  - percepcion
-  - cultura
-  - propaganda
-  - psicologica
-cssclasses: ""
 ---
-
 # Eurovision: La Liturgia de la Ingeniería Social (V.3)
 
 > [!IMPORTANT] AXIOMA 5: CRISIS Y HOMEOSTASIS

@@ -1,6 +1,6 @@
 ---
 titulo: Patron - Teoria del Heartland (Mackinder)
-tipo: 'concepto'
+tipo: "concepto"
 tier-primario: 'b'
 nivel-evidencia: 'medio'
 tags: [clasificado-ai]

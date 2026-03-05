@@ -1,6 +1,6 @@
 ---
 titulo: Patron - El Gran Tablero Mundial (Brzezinski)
-tipo: 'persona'
+tipo: "persona"
 tier-primario: 'b'
 nivel-evidencia: 'medio'
 tags: [clasificado-ai]

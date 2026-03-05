@@ -1,13 +1,12 @@
 ---
+titulo: Antonio Gramsci
+tipo: "persona"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [antonio, gramsci]
 publish: true
-created: 2026-01-29T19:17:03.682-03:00
-modified: 2026-02-27T13:07:58.056-03:00
-tags:
-  - antonio
-  - gramsci
-cssclasses: ""
 ---
-
 # Antonio Gramsci
 
 > [!INFO] Perfil (Ideólogo)

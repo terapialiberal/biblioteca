@@ -1,15 +1,12 @@
 ---
+titulo: Mafia Jázara — El Sindicato Del Crimen De Estado
+tipo: "persona"
+fecha: 2026-02-25
+tags: [askenazis, jacob, jzara, mafia]
+tier-primario: "a"
+nivel-evidencia: "medio"
 publish: true
-created: 2026-01-29T19:17:23.430-03:00
-modified: 2026-02-27T13:06:40.980-03:00
-tags:
-  - askenazis
-  - jacob
-  - jzara
-  - mafia
-cssclasses: ""
 ---
-
 
 # Mafia Jázara — El Sindicato Del Crimen De Estado
 

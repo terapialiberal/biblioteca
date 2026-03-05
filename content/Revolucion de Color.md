@@ -1,6 +1,6 @@
 ---
 titulo: "Revolución De Color (Doméstica) (TL V.2): El Cambio De Régimen Interno"
-tipo: evento
+tipo: "evento"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

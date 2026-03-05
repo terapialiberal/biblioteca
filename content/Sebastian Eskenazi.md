@@ -1,6 +1,6 @@
 ---
 titulo: "Sebastián Eskenazi (TL V.2): El Prestamista De La Matrix Política Argentina"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

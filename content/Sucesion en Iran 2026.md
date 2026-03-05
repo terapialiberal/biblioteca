@@ -1,7 +1,7 @@
 ---
 publish: true
 titulo: Sucesión en Irán 2026
-tipo: 'concepto'
+tipo: "concepto"
 tier-primario: 'b'
 nivel-evidencia: 'alto'
 tags: [iran, sucesion, mojtaba, irgc, golpe-blando]
@@ -20,7 +20,7 @@ Mojtaba (56 años) ha emergido como el sucesor de facto, no por legitimidad cler
 ## ⚔️ El Choque de Facciones
 | Facción | Actor Líder | Estrategia |
 | :--- | :--- | :--- |
-| **Dura (IRGC)** | Mojtaba Khamenei | Ley marcial, aceleración de [[99_AI/Legacy/Project mBridge]], represalia asimétrica. |
+| **Dura (IRGC)** | Mojtaba Khamenei | Ley marcial, aceleración de [[Project mBridge]], represalia asimétrica. |
 | **Técnica (C)** | [[Abbas Araghchi]] | Negociación con [[Steve Witkoff]] para evitar una invasión total. |
 | **Externa (B)** | [[Vladimir Putin]] | Soporte logístico a Mojtaba para evitar un cambio de régimen pro-USA. |
 

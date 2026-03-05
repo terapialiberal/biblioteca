@@ -1,15 +1,12 @@
 ---
+titulo: Infantilización De La Sociedad
+tipo: "entidad"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [estado, indefensin, infantilizacin, sociedad]
 publish: true
-created: 2026-01-29T19:17:18.348-03:00
-modified: 2026-02-27T13:22:55.590-03:00
-tags:
-  - estado
-  - indefensin
-  - infantilizacin
-  - sociedad
-cssclasses: ""
 ---
-
 # Infantilización De La Sociedad
 
 ## Perfil TL (Resumen Ejecutivo)

@@ -1,14 +1,12 @@
 ---
+titulo: Mitra Y El Pacto Militar
+tipo: "concepto"
+fecha: 2026-02-25
+tags: [militar, mitra, pacto]
+tier-primario: "b"
+nivel-evidencia: "alto"
 publish: true
-created: 2026-02-25T22:29:23.361-03:00
-modified: 2026-02-27T13:23:23.665-03:00
-tags:
-  - militar
-  - mitra
-  - pacto
-cssclasses: ""
 ---
-
 
 # Mitra Y El Pacto Militar
 

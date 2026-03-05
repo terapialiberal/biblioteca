@@ -1,13 +1,12 @@
 ---
+titulo: Camino De Santiago (Sincronización De Masas)
+tipo: "concepto"
+fecha: 2026-02-25
+tags: [camino, santiago]
+tier-primario: "b"
+nivel-evidencia: "alto"
 publish: true
-created: 2026-02-25T22:08:53.672-03:00
-modified: 2026-02-27T13:22:12.614-03:00
-tags:
-  - camino
-  - santiago
-cssclasses: ""
 ---
-
 
 # Camino De Santiago (Sincronización De Masas)
 

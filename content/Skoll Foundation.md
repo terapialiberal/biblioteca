@@ -1,6 +1,6 @@
 ---
 titulo: "Skoll Foundation (TL V.2): El Lavado De Cara Del Capitalismo De Plataformas"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

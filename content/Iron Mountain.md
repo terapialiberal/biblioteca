@@ -1,15 +1,12 @@
 ---
+titulo: Iron Mountain
+tipo: "persona"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [cambio, club, iron, mountain]
 publish: true
-created: 2026-01-29T19:17:18.909-03:00
-modified: 2026-02-27T13:07:36.446-03:00
-tags:
-  - cambio
-  - club
-  - iron
-  - mountain
-cssclasses: ""
 ---
-
 # Iron Mountain
 
 ## Perfil TL (Resumen Ejecutivo)

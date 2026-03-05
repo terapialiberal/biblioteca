@@ -1,6 +1,6 @@
 ---
 titulo: "Ray Dalio (TL V.2): El Gestor De La Rendición De Occidente"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

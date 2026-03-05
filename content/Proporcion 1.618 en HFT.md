@@ -1,6 +1,6 @@
 ---
 titulo: Proporcion 1.618 en HFT
-tipo: concepto
+tipo: "concepto"
 tier-primario: "a"
 nivel-evidencia: "medio"
 tags: [finanzas, algoritmico, geometria-sagrada, hft]

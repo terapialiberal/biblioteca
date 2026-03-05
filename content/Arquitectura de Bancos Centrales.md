@@ -1,6 +1,6 @@
 ---
 titulo: Arquitectura de Bancos Centrales
-tipo: 'organizacion'
+tipo: "entidad"
 tier-primario: 'b'
 nivel-evidencia: 'medio'
 tags: [clasificado-ai]

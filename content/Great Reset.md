@@ -1,15 +1,12 @@
 ---
+titulo: "Great Reset: El Plan De Transformación Global"
+tipo: "persona"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [cbdcs, plan, reset, transformacin]
 publish: true
-created: 2026-01-29T19:17:15.961-03:00
-modified: 2026-02-27T13:22:49.474-03:00
-tags:
-  - cbdcs
-  - plan
-  - reset
-  - transformacin
-cssclasses: ""
 ---
-
 # Great Reset: El Plan De Transformación Global
 
 > [!ABSTRACT] Hipótesis Informativa

@@ -1,13 +1,12 @@
 ---
+titulo: El Secreto De Los Nibelungos (El Oro Y La Maldición De La Deuda)
+tipo: "concepto"
+fecha: 2026-02-25
+tags: [nibelungos, secreto]
+tier-primario: "a"
+nivel-evidencia: "medio"
 publish: true
-created: 2026-02-25T22:08:32.431-03:00
-modified: 2026-02-27T13:22:36.801-03:00
-tags:
-  - nibelungos
-  - secreto
-cssclasses: ""
 ---
-
 
 # El Secreto De Los Nibelungos (El Oro Y La Maldición De La Deuda)
 

@@ -1,6 +1,6 @@
 ---
 titulo: "Operación Timber Sycamore (TL V.2): La Fábrica De Yihadistas De La CIA"
-tipo: evento
+tipo: "evento"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

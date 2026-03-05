@@ -1,15 +1,12 @@
 ---
+titulo: Marina Abramović Y El Spirit Cooking
+tipo: "persona"
+fecha: 2026-02-25
+tags: [abramovi, lady, satanismo, spirit]
+tier-primario: "a"
+nivel-evidencia: "alto"
 publish: true
-created: 2026-02-25T22:23:20.170-03:00
-modified: 2026-02-27T13:23:18.164-03:00
-tags:
-  - abramovi
-  - lady
-  - satanismo
-  - spirit
-cssclasses: ""
 ---
-
 
 # Marina Abramović Y El Spirit Cooking
 

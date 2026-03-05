@@ -1,6 +1,6 @@
 ---
 titulo: "Sibel Edmonds (TL V.2): La Mujer Que Vio Las Entrañas Del Estado Profundo"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

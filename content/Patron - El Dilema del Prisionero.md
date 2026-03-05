@@ -1,6 +1,6 @@
 ---
 titulo: Patron - El Dilema del Prisionero
-tipo: 'concepto'
+tipo: "concepto"
 tier-primario: 'b'
 nivel-evidencia: 'medio'
 tags: [clasificado-ai]

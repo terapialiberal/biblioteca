@@ -1,6 +1,6 @@
 ---
 titulo: "Operación Ajax (TL V.2): El Petróleo Es La Sangre De Los Dioses"
-tipo: evento
+tipo: "evento"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

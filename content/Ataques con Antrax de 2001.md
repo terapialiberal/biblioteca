@@ -1,6 +1,6 @@
 ---
 titulo: Anthrax Attacks 2001
-tipo: evento
+tipo: "evento"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

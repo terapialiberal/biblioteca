@@ -1,6 +1,6 @@
 ---
 titulo: "Jorge Brito (TL V.2): El Cajero De La Gobernabilidad Tier B"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

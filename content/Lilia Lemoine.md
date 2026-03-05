@@ -1,6 +1,6 @@
 ---
 titulo: "Lilia Lemoine: La Interfaz Estética De La Anti-Política"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

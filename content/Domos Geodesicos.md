@@ -1,6 +1,6 @@
 ---
 titulo: Domos Geodésicos
-tipo: concepto
+tipo: "concepto"
 tier-primario: "a"
 nivel-evidencia: "medio"
 tags: [arquitectura, buckminster-fuller, control-territorial, geometria]

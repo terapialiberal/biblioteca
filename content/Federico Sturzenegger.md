@@ -1,15 +1,12 @@
 ---
+titulo: Federico Sturzenegger
+tipo: "persona"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [federico, javier, mauricio, sturzenegger]
 publish: true
-created: 2026-01-29T19:17:13.462-03:00
-modified: 2026-02-27T13:22:42.837-03:00
-tags:
-  - federico
-  - javier
-  - mauricio
-  - sturzenegger
-cssclasses: ""
 ---
-
 # Federico Sturzenegger
 
 ## Perfil TL (Resumen Ejecutivo)

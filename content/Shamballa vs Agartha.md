@@ -1,14 +1,12 @@
 ---
+titulo: Shamballa Vs Agartha (La Dialéctica De La Soberanía)
+tipo: "concepto"
+fecha: 2026-02-25
+tags: [agartha, jano, shamballa]
+tier-primario: "a"
+nivel-evidencia: "bajo"
 publish: true
-created: 2026-02-25T22:08:52.619-03:00
-modified: 2026-02-27T13:23:54.260-03:00
-tags:
-  - agartha
-  - jano
-  - shamballa
-cssclasses: ""
 ---
-
 
 # Shamballa Vs Agartha (La Dialéctica De La Soberanía)
 

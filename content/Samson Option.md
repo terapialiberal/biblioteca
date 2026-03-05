@@ -1,6 +1,6 @@
 ---
 titulo: "Samson Option (TL V.2): El Ultimatun Nuclear De La Matrix"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

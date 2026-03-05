@@ -1,16 +1,12 @@
 ---
+titulo: Yahweh - El Capturador de la Ley
+tipo: "concepto"
+fecha: 2026-03-04
+tier-primario: "a"
+nivel-evidencia: "alto"
+tags: [esoterismo, arquetipo, ley, control, yahweh]
 publish: true
-created: 2026-02-25T22:26:17.767-03:00
-modified: 2026-03-04T13:55:11.747-03:00
-tags:
-  - esoterismo
-  - arquetipo
-  - ley
-  - control
-  - yahweh
-cssclasses: ""
 ---
-
 # Yahweh: El Arquetipo del Capturador de la Ley (V.3)
 
 > [!IMPORTANT] MÓDULO ESOTÉRICO MAESTRO

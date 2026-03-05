@@ -1,6 +1,6 @@
 ---
 titulo: "Operation Snow White (TL V.2): El Asedio De La Secta Al Estado"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

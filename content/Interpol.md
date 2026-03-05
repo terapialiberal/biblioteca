@@ -1,15 +1,12 @@
 ---
+titulo: Interpol (Uso Político)
+tipo: "entidad"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [bill, interpol, pcch, poltico]
 publish: true
-created: 2026-01-29T19:17:18.690-03:00
-modified: 2026-02-27T13:22:57.306-03:00
-tags:
-  - bill
-  - interpol
-  - pcch
-  - poltico
-cssclasses: ""
 ---
-
 # Interpol (Uso Político)
 
 ## Perfil TL (Resumen Ejecutivo)

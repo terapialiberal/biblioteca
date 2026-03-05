@@ -1,16 +1,12 @@
 ---
+titulo: DNA Data Storage
+tipo: "concepto"
+fecha: 2026-03-04
+tier-primario: "b"
+nivel-evidencia: "alto"
+tags: [biotecnologia, datos, dna, vigilancia, cia]
 publish: true
-created: 2026-01-29T19:17:10.391-03:00
-modified: 2026-03-04T13:54:09.750-03:00
-tags:
-  - biotecnologia
-  - datos
-  - dna
-  - vigilancia
-  - cia
-cssclasses: ""
 ---
-
 # DNA Data Storage: El Archivo Eterno de la Matrix (V.3)
 
 > [!WARNING] EL FIN DE LA PRIVACIDAD BIOLÓGICA

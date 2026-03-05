@@ -1,6 +1,6 @@
 ---
 titulo: Martinismo y Revolución
-tipo: concepto
+tipo: "concepto"
 tier-primario: "a"
 nivel-evidencia: "medio"
 tags: [esoterismo, historia, revolucion, iniciacion, francia]

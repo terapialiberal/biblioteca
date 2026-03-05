@@ -1,6 +1,6 @@
 ---
 titulo: "Primaveras Árabes (TL V.2): La Ingeniería Del Caos Regional"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

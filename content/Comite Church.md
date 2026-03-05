@@ -1,15 +1,12 @@
 ---
+titulo: Comité Church
+tipo: "entidad"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [allen, church, comit, playbooks]
 publish: true
-created: 2026-01-29T19:17:08.385-03:00
-modified: 2026-02-27T13:06:39.183-03:00
-tags:
-  - allen
-  - church
-  - comit
-  - playbooks
-cssclasses: ""
 ---
-
 # Comité Church
 ![](https://wikispooks.com/w/images/8/81/Church_Committee.jpg)
 

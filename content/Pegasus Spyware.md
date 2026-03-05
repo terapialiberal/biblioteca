@@ -1,6 +1,6 @@
 ---
 titulo: "Pegasus Spyware (NSO Group) (TL V.2): La Diplomacia De La Infección"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

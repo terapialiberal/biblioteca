@@ -1,7 +1,7 @@
 ---
 publish: true
 titulo: 00_MOC - Captura Regulatoria y Puertas Giratorias
-tipo: moc
+tipo: "concepto"
 fecha: 2026-03-01
 tags: [00-moc, captura-regulatoria, revolving-doors, praxeologia]
 ---
@@ -12,7 +12,7 @@ tags: [00-moc, captura-regulatoria, revolving-doors, praxeologia]
 
 ## 1. Captura Sanitaria y Farmacéutica
 *El control del biopolítico y los mandatos sanitarios.*
-- [[FDA y las Puertas Giratorias (Pfizer)]]
+- [[05_Fuentes/FDA y las Puertas Giratorias (Pfizer)]]
 - [[WHO]]
 - [[Bill & Melinda Gates Foundation]]
 

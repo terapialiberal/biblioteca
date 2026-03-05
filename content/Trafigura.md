@@ -1,13 +1,12 @@
 ---
+titulo: Trafigura
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [glencore, trafigura]
 publish: true
-created: 2026-01-29T19:17:40.817-03:00
-modified: 2026-02-27T13:24:04.751-03:00
-tags:
-  - glencore
-  - trafigura
-cssclasses: ""
 ---
-
 # Trafigura
 
 > [!ABSTRACT] Ficha Técnica

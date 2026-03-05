@@ -1,15 +1,12 @@
 ---
+titulo: "COVID-19 Orígenes: La Pandemia Planificada"
+tipo: "persona"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [covid, event, orgenes, planificada]
 publish: true
-created: 2026-01-29T19:17:08.946-03:00
-modified: 2026-02-27T13:22:24.485-03:00
-tags:
-  - covid
-  - event
-  - orgenes
-  - planificada
-cssclasses: ""
 ---
-
 # COVID-19 Orígenes: La Pandemia Planificada
 
 > [!ABSTRACT] Hipótesis Informativa

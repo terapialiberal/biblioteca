@@ -1,6 +1,6 @@
 ---
 titulo: Escalada Israel-Irán 2024
-tipo: evento
+tipo: "evento"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

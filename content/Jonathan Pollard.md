@@ -1,6 +1,6 @@
 ---
 titulo: "Jonathan Pollard (TL V.2): El Caballo De Troya En La Inteligencia Naval"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

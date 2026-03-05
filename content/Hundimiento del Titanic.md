@@ -1,14 +1,12 @@
 ---
+titulo: Hundimiento Del Titanic
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [hundimiento, reserva, titanic]
 publish: true
-created: 2026-01-29T19:17:17.706-03:00
-modified: 2026-02-27T13:07:51.482-03:00
-tags:
-  - hundimiento
-  - reserva
-  - titanic
-cssclasses: ""
 ---
-
 # Hundimiento Del Titanic
 
 ## Perfil TL (Resumen Ejecutivo)

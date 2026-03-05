@@ -1,15 +1,12 @@
 ---
+titulo: Craig Spence
+tipo: "persona"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [craig, escndalo, naciones, spence]
 publish: true
-created: 2026-01-29T19:17:08.978-03:00
-modified: 2026-02-27T13:22:24.530-03:00
-tags:
-  - craig
-  - escndalo
-  - naciones
-  - spence
-cssclasses: ""
 ---
-
 # Craig Spence
 
 ## Resumen General

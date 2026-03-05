@@ -1,18 +1,12 @@
 ---
+titulo: CIPS & SPFS
+tipo: "entidad"
+fecha: 2026-03-04
+tier-primario: "b"
+nivel-evidencia: "alto"
+tags: [china, rusia, swift, finanzas, brics, cips, spfs]
 publish: true
-created: 2026-01-29T19:17:07.740-03:00
-modified: 2026-03-04T13:53:41.081-03:00
-tags:
-  - china
-  - rusia
-  - swift
-  - finanzas
-  - brics
-  - cips
-  - spfs
-cssclasses: ""
 ---
-
 # CIPS & SPFS: Los Rieles del Orden Financiero Multipolar (V.3)
 
 > [!IMPORTANT] BLUF

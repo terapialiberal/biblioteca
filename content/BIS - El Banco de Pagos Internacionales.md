@@ -1,14 +1,12 @@
 ---
+titulo: BIS - El Banco De Pagos Internacionales
+tipo: "entidad"
+fecha: 2026-02-25
+tags: [banco, internacionales, pagos]
+tier-primario: "a"
+nivel-evidencia: "alto"
 publish: true
-created: 2026-02-25T22:40:47.979-03:00
-modified: 2026-02-27T13:22:05.193-03:00
-tags:
-  - banco
-  - internacionales
-  - pagos
-cssclasses: ""
 ---
-
 
 # BIS - El Banco De Pagos Internacionales
 

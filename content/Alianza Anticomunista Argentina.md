@@ -1,15 +1,12 @@
 ---
+titulo: Resumen General
+tipo: "persona"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [alianza, anticomunista, argentina, jos]
 publish: true
-created: 2026-01-29T19:17:03.297-03:00
-modified: 2026-02-27T13:06:36.030-03:00
-tags:
-  - alianza
-  - anticomunista
-  - argentina
-  - jos
-cssclasses: ""
 ---
-
 # Resumen General
 La Triple A fue un grupo parapolicial terrorista gestado en el Ministerio de Bienestar Social bajo José López Rega (gobierno peronista 1973-1976). Se dedicó a eliminar a la izquierda peronista (Montoneros), marxistas, intelectuales y artistas. Fue el preludio democrático del terrorismo de Estado de la dictadura.
 

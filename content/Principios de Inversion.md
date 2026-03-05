@@ -1,15 +1,12 @@
 ---
+titulo: Principios De Inversión (El Cielo En La Tierra)
+tipo: "concepto"
+fecha: 2026-02-25
+tags: [inversin, jacob, principios, transhumanismo]
+tier-primario: "a"
+nivel-evidencia: "alto"
 publish: true
-created: 2026-02-25T22:20:45.724-03:00
-modified: 2026-02-27T13:23:43.045-03:00
-tags:
-  - inversin
-  - jacob
-  - principios
-  - transhumanismo
-cssclasses: ""
 ---
-
 
 # Principios De Inversión (El Cielo En La Tierra)
 

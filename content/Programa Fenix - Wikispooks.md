@@ -1,15 +1,11 @@
 ---
+tipo: "concepto"
+titulo: Programa Fenix - Wikispooks
+link: "https://wikispooks.com/wiki/Phoenix_Program"
+fecha: 2026-02-06
+tags: [cia, vietnam, programa-fenix, control-social]
 publish: true
-created: 2026-02-06T11:07:28.494-03:00
-modified: 2026-02-27T13:23:43.098-03:00
-tags:
-  - cia
-  - vietnam
-  - programa-fenix
-  - control-social
-cssclasses: ""
 ---
-
 # Programa Fenix - Wikispooks
 ![](https://wikispooks.com/w/images/4/41/Phoenix_Program.jpg)
 ---

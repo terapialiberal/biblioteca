@@ -1,6 +1,6 @@
 ---
 titulo: "Kary Mullis (TL V.2): El Saboteador Técnico Del Relato Pandémico"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

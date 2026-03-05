@@ -1,6 +1,6 @@
 ---
 titulo: "Operation Choke Point (TL V.2): El Desahucio Financiero De La Disidencia"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

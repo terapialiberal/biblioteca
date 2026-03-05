@@ -1,6 +1,6 @@
 ---
 titulo: Experimento Milgram
-tipo: 'concepto'
+tipo: "concepto"
 tier-primario: 'b'
 nivel-evidencia: 'medio'
 tags: [clasificado-ai]

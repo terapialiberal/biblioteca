@@ -1,16 +1,12 @@
 ---
+titulo: Palantir CIA
+tipo: "entidad"
+fecha: 2026-03-04
+tier-primario: "b"
+nivel-evidencia: "alto"
+tags: [palantir, cia, in-q-tel, vigilancia, alex-karp]
 publish: true
-created: 2026-01-29T19:05:12.979-03:00
-modified: 2026-03-04T13:53:25.295-03:00
-tags:
-  - palantir
-  - cia
-  - in-q-tel
-  - vigilancia
-  - alex-karp
-cssclasses: ""
 ---
-
 # Palantir CIA: El Sistema Operativo del Estado Profundo (V.3)
 
 > [!WARNING] VIGILANCIA ALGORÍTMICA

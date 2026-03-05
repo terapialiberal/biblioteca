@@ -1,6 +1,6 @@
 ---
 titulo: "Standard Chartered (TL V.2): El Centinela Financiero De Las Ex-Colonias"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

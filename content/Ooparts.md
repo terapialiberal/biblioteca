@@ -1,12 +1,12 @@
 ---
+titulo: Ooparts (Out of Place Artifacts)
+tipo: "concepto"
+fecha: 2026-02-25
+tags: [ooparts]
+tier-primario: "a"
+nivel-evidencia: "alto"
 publish: true
-created: 2026-02-25T22:08:51.860-03:00
-modified: 2026-02-27T13:23:33.376-03:00
-tags:
-  - ooparts
-cssclasses: ""
 ---
-
 
 # Ooparts (Out of Place Artifacts)
 

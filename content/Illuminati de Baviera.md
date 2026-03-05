@@ -1,15 +1,12 @@
 ---
+titulo: Illuminati De Baviera (Hechos Vs Mitos)
+tipo: "entidad"
+fecha: 2026-02-25
+tags: [baviera, illuminati, jesuitas, revolucin]
+tier-primario: "a"
+nivel-evidencia: "alto"
 publish: true
-created: 2026-02-25T22:12:51.049-03:00
-modified: 2026-02-27T13:22:54.416-03:00
-tags:
-  - baviera
-  - illuminati
-  - jesuitas
-  - revolucin
-cssclasses: ""
 ---
-
 
 # Illuminati De Baviera (Hechos Vs Mitos)
 

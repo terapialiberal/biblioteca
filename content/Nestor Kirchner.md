@@ -1,6 +1,6 @@
 ---
 titulo: "Néstor Kirchner (TL V.2): El Gerente De La Captura Estatal"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

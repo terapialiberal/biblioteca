@@ -1,6 +1,6 @@
 ---
 titulo: 'Revolución Del Color (TL V.2): La Tecnología Del Cambio De Régimen "Blando"'
-tipo: evento
+tipo: "evento"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

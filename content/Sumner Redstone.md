@@ -1,6 +1,6 @@
 ---
 titulo: "Sumner Redstone (TL V.2): El Arquitecto Del Psiquismo Colectivo"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

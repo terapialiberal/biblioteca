@@ -1,6 +1,6 @@
 ---
 titulo: Metaverso como Prisión de Platón
-tipo: 'concepto'
+tipo: "concepto"
 tier-primario: 'b'
 nivel-evidencia: 'medio'
 tags: [clasificado-ai]

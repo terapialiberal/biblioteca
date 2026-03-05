@@ -1,15 +1,12 @@
 ---
+titulo: Armas De Destrucción Financiera (Derivados)
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [derivados, destruccin, financiera, naciones]
 publish: true
-created: 2026-01-29T19:17:03.905-03:00
-modified: 2026-02-27T13:07:28.628-03:00
-tags:
-  - derivados
-  - destruccin
-  - financiera
-  - naciones
-cssclasses: ""
 ---
-
 # Armas De Destrucción Financiera (Derivados)
 
 ## Resumen General

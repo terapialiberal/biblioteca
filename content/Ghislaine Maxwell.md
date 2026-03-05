@@ -1,15 +1,12 @@
 ---
+titulo: Ghislaine Maxwell
+tipo: "persona"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [ghislaine, jeffrey, maxwell, robert]
 publish: true
-created: 2026-01-29T19:17:15.254-03:00
-modified: 2026-02-27T13:22:47.109-03:00
-tags:
-  - ghislaine
-  - jeffrey
-  - maxwell
-  - robert
-cssclasses: ""
 ---
-
 # Ghislaine Maxwell
 
 ## Perfil TL (Resumen Ejecutivo)

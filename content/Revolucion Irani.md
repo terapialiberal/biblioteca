@@ -1,6 +1,6 @@
 ---
 titulo: "Revolución Iraní (TL V.2): La Creación Del Enemigo Teocrático"
-tipo: evento
+tipo: "evento"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

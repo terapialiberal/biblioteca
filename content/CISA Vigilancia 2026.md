@@ -1,6 +1,6 @@
 ---
 titulo: CISA - Expansin de Vigilancia 2026
-tipo: evento
+tipo: "evento"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

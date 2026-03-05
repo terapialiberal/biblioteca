@@ -1,6 +1,6 @@
 ---
 titulo: "Nicolás Caputo (TL V.2): El Patriarca Del Capitalismo De Amigos"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

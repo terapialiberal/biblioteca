@@ -1,15 +1,12 @@
 ---
+titulo: Los Chicos De Covington (Nick Sandmann)
+tipo: "persona"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [chicos, kids, naciones, sandmann]
 publish: true
-created: 2026-01-29T19:17:08.963-03:00
-modified: 2026-02-27T13:06:38.280-03:00
-tags:
-  - chicos
-  - kids
-  - naciones
-  - sandmann
-cssclasses: ""
 ---
-
 # Los Chicos De Covington (Nick Sandmann)
 
 ## Resumen General

@@ -1,15 +1,12 @@
 ---
+titulo: Guerra De Las Malvinas (Recursos Estratégicos)
+tipo: "evento"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [estratgicos, guerra, malvinas, otan]
 publish: true
-created: 2026-01-29T19:17:16.284-03:00
-modified: 2026-02-27T13:06:36.172-03:00
-tags:
-  - estratgicos
-  - guerra
-  - malvinas
-  - otan
-cssclasses: ""
 ---
-
 # Guerra De Las Malvinas (Recursos Estratégicos)
 
 ## Perfil TL (Resumen Ejecutivo)

@@ -33,7 +33,7 @@ publish: true
 - Perciben los bonos como "herramientas de financiamiento para obras públicas". No entienden que cada bono emitido es una hipoteca sobre el salario de sus hijos.
 
 ## Conexiones Críticas
-- [[Historia de la Banca Central - El Ledger de Captura]]: El origen del sistema de bonos.
+- [[05_Fuentes/Historia de la Banca Central - El Ledger de Captura]]: El origen del sistema de bonos.
 - [[00_Glosario - Conceptos Fase 1#The Great Taking (David Webb)\|The Great Taking (David Webb)]]: Cómo los bonos serán los primeros activos en ser "reseteados" en favor del colateral bancario.
 - [[FMI y Banco Mundial]]: Los departamentos de cobranza de Tier A.
 

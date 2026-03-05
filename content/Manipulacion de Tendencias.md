@@ -1,15 +1,12 @@
 ---
+titulo: Manipulación De Tendencias
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [espiral, manipulacin, tendencias, twitter]
 publish: true
-created: 2026-01-29T19:17:23.456-03:00
-modified: 2026-02-27T13:07:21.702-03:00
-tags:
-  - espiral
-  - manipulacin
-  - tendencias
-  - twitter
-cssclasses: ""
 ---
-
 # Manipulación De Tendencias
 
 ## Resumen Ejecutivo

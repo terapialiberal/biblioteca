@@ -1,13 +1,12 @@
 ---
+titulo: Asesinato De Dag Hammarskjöld
+tipo: "evento"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [asesinato, hammarskjld]
 publish: true
-created: 2026-01-29T19:17:04.023-03:00
-modified: 2026-02-27T13:06:20.920-03:00
-tags:
-  - asesinato
-  - hammarskjld
-cssclasses: ""
 ---
-
 # Asesinato De Dag Hammarskjöld
 
 > [!INFO] Contexto

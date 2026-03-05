@@ -1,14 +1,12 @@
 ---
+titulo: DynCorp
+tipo: "concepto"
+fecha: 2026-02-25
+tier-primario: "b"
+nivel-evidencia: "medio"
+tags: [dyncorp, mercenarios, trfico]
 publish: true
-created: 2026-01-29T19:17:10.700-03:00
-modified: 2026-02-27T13:06:19.272-03:00
-tags:
-  - dyncorp
-  - mercenarios
-  - trfico
-cssclasses: ""
 ---
-
 # DynCorp
 
 ## Resumen General

@@ -1,15 +1,12 @@
 ---
+titulo: Moloch — Sacrificio Y Estado (La Maquina Del Futuro)
+tipo: "concepto"
+fecha: 2026-02-25
+tags: [aborto, eduacin, estado, sacrificio]
+tier-primario: "a"
+nivel-evidencia: "alto"
 publish: true
-created: 2026-02-25T22:26:15.720-03:00
-modified: 2026-02-27T13:23:24.675-03:00
-tags:
-  - aborto
-  - eduacin
-  - estado
-  - sacrificio
-cssclasses: ""
 ---
-
 
 # Moloch — Sacrificio Y Estado (La Maquina Del Futuro)
 

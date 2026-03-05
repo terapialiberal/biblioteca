@@ -1,6 +1,6 @@
 ---
 titulo: Magia de Salón en Política
-tipo: 'concepto'
+tipo: "concepto"
 tier-primario: 'b'
 nivel-evidencia: 'medio'
 tags: [clasificado-ai]

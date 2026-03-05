@@ -1,6 +1,6 @@
 ---
 titulo: "Mises Institute (TL V.2): La Resistencia Anti-Banca Central"
-tipo: organizacion
+tipo: "entidad"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

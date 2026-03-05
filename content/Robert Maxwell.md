@@ -1,6 +1,6 @@
 ---
 titulo: "Robert Maxwell (TL V.2): El Nexo De La Inteligencia Triple Y El Control De Los Medios"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

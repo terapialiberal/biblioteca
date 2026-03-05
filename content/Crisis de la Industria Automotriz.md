@@ -1,6 +1,6 @@
 ---
 titulo: Crisis De Los Vehículos Eléctricos (EVs)
-tipo: evento
+tipo: "evento"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

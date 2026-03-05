@@ -1,6 +1,6 @@
 ---
 titulo: "Libra / Diem: El Intento De Golpe De Estado De Silicon Valley"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

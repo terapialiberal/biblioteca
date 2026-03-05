@@ -1,6 +1,6 @@
 ---
 titulo: "James Jesus Angleton (TL V.2): El Sumo Sacerdote De La Wilderness of Mirrors"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

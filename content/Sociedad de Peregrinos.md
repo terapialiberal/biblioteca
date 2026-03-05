@@ -1,6 +1,6 @@
 ---
 titulo: "Sociedad De Peregrinos (TL V.2): El Núcleo De La Relación Especial"
-tipo: organizacion
+tipo: "entidad"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

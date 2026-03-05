@@ -1,6 +1,6 @@
 ---
 titulo: "Stephen Feinberg (TL V.2): El Capitalista En La Sombra Del Complejo Militar-Industrial"
-tipo: persona
+tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

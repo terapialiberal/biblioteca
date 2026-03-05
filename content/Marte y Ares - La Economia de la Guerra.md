@@ -1,15 +1,12 @@
 ---
+titulo: Marte Y Ares - La Economía De La Guerra
+tipo: "evento"
+fecha: 2026-02-25
+tags: [ares, economa, guerra, marte]
+tier-primario: "b"
+nivel-evidencia: "alto"
 publish: true
-created: 2026-02-25T22:28:53.825-03:00
-modified: 2026-02-27T13:23:18.918-03:00
-tags:
-  - ares
-  - economa
-  - guerra
-  - marte
-cssclasses: ""
 ---
-
 
 # Marte Y Ares - La Economía De La Guerra
 

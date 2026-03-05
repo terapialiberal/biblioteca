@@ -1,15 +1,12 @@
 ---
+titulo: El Demiurgo Tecnológico
+tipo: "persona"
+fecha: 2026-02-25
+tags: [censura, demiurgo, tecnolgico, yaldabaoth]
+tier-primario: "a"
+nivel-evidencia: "bajo"
 publish: true
-created: 2026-02-25T22:08:56.519-03:00
-modified: 2026-02-27T13:22:34.583-03:00
-tags:
-  - censura
-  - demiurgo
-  - tecnolgico
-  - yaldabaoth
-cssclasses: ""
 ---
-
 
 # El Demiurgo Tecnológico
 
