@@ -125,7 +125,6 @@ publish: true
 
 ---
 
-- [[05_Fuentes/- Los ataques contra Irán mataron a los sucesores preferidos de Estados Unidos para asumir el régimen, afirma Trump\|- Los ataques contra Irán mataron a los sucesores preferidos de Estados Unidos para asumir el régimen, afirma Trump]]
 - [[05_Fuentes/¿Cuánto tiempo lleva la élite priorizando su propia voluntad\|¿Cuánto tiempo lleva la élite priorizando su propia voluntad]]
 - [[06_Videos_Publicados/2025/2025-10-24_El_RESET_MALTHUSIANO_GEOPOLITICA/🚨 Prediccion de The Economist El Tiempo se acaba + Trump se enfurece con Rusia y otras noticias\|🚨 Prediccion de The Economist El Tiempo se acaba + Trump se enfurece con Rusia y otras noticias]]
 - [[00_MOC - Rimland\|00_MOC - Rimland]]
@@ -143,6 +142,7 @@ publish: true
 - [[Estrecho de Malaca\|Estrecho de Malaca]]
 - [[05_Fuentes/Europa se prepara para un aumento en los precios de la energía por el conflicto en Medio Oriente\|Europa se prepara para un aumento en los precios de la energía por el conflicto en Medio Oriente]]
 - [[06_Videos_Publicados/2025/2025-10-24_El_RESET_MALTHUSIANO_GEOPOLITICA/Graficos Geopolitica y Plan Marshall\|Graficos Geopolitica y Plan Marshall]]
+- [[99_AI/03_Prompts/04_DISTRIBUCION/04_INFORME_INVERSORES/INFORME_MENSUAL_INVERSORES\|INFORME_MENSUAL_INVERSORES]]
 - [[05_Fuentes/Irán ejecuta el plan de Jamenei para extender la guerra regional\|Irán ejecuta el plan de Jamenei para extender la guerra regional]]
 - [[01_Research/01_Radar/ATAQUE A IRAN/iran-2026-situacion-general\|iran-2026-situacion-general]]
 - [[06_Videos_Publicados/2025/2025-12-04_Jeffrey_NO_es_lo_que_parece/Jeffrey NADA ES LO QUE PARECE - Investigacion Exclusiva al Estilo Terapia Liberal\|Jeffrey NADA ES LO QUE PARECE - Investigacion Exclusiva al Estilo Terapia Liberal]]
@@ -152,13 +152,14 @@ publish: true
 - [[05_Fuentes/La guerra en Irán Una nueva oportunidad para el Gran Reinicio\|La guerra en Irán Una nueva oportunidad para el Gran Reinicio]]
 - [[05_Fuentes/La mayor sorpresa, hasta el momento, dentro de la Operación Furia Épica\|La mayor sorpresa, hasta el momento, dentro de la Operación Furia Épica]]
 - [[La Teoria Geopolitica del Rimland Una Perspectiva Estrategica\|La Teoria Geopolitica del Rimland Una Perspectiva Estrategica]]
+- [[05_Fuentes/Los ataques contra Irán mataron a los sucesores preferidos de Estados Unidos para asumir el régimen, afirma Trump\|Los ataques contra Irán mataron a los sucesores preferidos de Estados Unidos para asumir el régimen, afirma Trump]]
 - [[06_Videos_Publicados/2025/2025-10-24_El_RESET_MALTHUSIANO_GEOPOLITICA/MOC\|MOC]]
 - [[Patron - Weaponization (Armamentizacion)\|Patron - Weaponization (Armamentizacion)]]
-- [[99_AI/03_Prompts/04_DISTRIBUCION/Dossier Mensual para Inversores/PROMPT_Dossier_Mensual_v3\|PROMPT_Dossier_Mensual_v3]]
+- [[99_AI/03_Prompts/04_DISTRIBUCION/Legacy/01_CANALES_OLD/Dossier Mensual para Inversores/PROMPT_Dossier_Mensual_v3\|PROMPT_Dossier_Mensual_v3]]
 - [[Retirada de Afganistan\|Retirada de Afganistan]]
 - [[01_Research/01_Radar/Tecnocracia/tecnocracia-tesis\|tecnocracia-tesis]]
 - [[Teoria del Rimland\|Teoria del Rimland]]
-- [[99_AI/02_Transcripts/Trasncript GAZA SA\|Trasncript GAZA SA]]
+- [[99_AI/02_Transcripts/Transcript_Gaza_SA\|Transcript_Gaza_SA]]
 - [[Vladimir Putin\|Vladimir Putin]]
 - [[Vudu Geopolitico\|Vudu Geopolitico]]
 

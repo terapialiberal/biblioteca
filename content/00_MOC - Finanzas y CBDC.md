@@ -53,7 +53,7 @@ El sistema fíat basado en el dólar está siendo migrado hacia una arquitectura
 - [[MOC - Rimland]] (La base física del capital)
 - [[00_MOC - Control Financiero\|MOC - Control Financiero]] ← **Ver diferencia de alcance abajo**
 - [[99_AI/05_Memoria_Central/Entity_Graph]]
-- [[99_AI/05_Memoria_Central/00_ONBOARDING_MAESTRO]]
+- [[00_ONBOARDING_MAESTRO]]
 
 > [!NOTE] Diferencia con [[00_MOC - Control Financiero\|MOC - Control Financiero]]
 > - **Este MOC** cubre la **arquitectura técnica**: CBDC, rieles DLT, mBridge, Project Agora. El *cómo* se mueve el dinero.

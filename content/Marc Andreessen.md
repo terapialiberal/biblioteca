@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:23.710-03:00
-modified: 2026-02-26T23:11:43.647-03:00
+modified: 2026-02-26T23:11:49.417-03:00
 tags:
   - capital-riesgo
   - tecno-feudalismo

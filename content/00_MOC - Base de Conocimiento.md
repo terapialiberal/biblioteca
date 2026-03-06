@@ -39,5 +39,5 @@ tags: [moc, indice, tl-v3, zettelkasten]
 Al crear una nueva nota en esta base de conocimiento, utilizá la herramienta `/scan` o `/tesis` para garantizar que la estructuración siga el Gradiente Epistémico (Axioma 11) y la Praxeología Forense (Axioma 2), linkeando siempre al Cui Bono final.
 
 ---
-*Versión: TL V.3 | Nodo Central: [[99_AI/01_Framework/00_INDEX_FRAMEWORK_TL_V3]]*
+*Versión: TL V.3 | Nodo Central: [[00_INDEX_FRAMEWORK_TL_V3]]*
 
