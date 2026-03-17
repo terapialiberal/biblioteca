@@ -39,7 +39,7 @@ publish: true
 - [[Código de Nuremberg]]: La base bioética que el sistema de Tier B procedió a violar sistemáticamente en las décadas siguientes (MK-Ultra, etc.).
 
 ## Conclusión Del Análisis
-Los Juicios de Nuremberg fueron el **"Lavado de Cara de la Ã‰lite"**. Su importancia reside en haber transformado una derrota militar en una victoria burocrática transnacional. Quien controla la justicia de Nuremberg controla el pasado y, por lo tanto, tiene el permiso moral para diseñar el futuro. Entender Nuremberg es comprender que en el nivel más alto del poder, los criminales no se eliminan, se **subcontratan**. Los juicios fueron la cortina de hierro legal que permitió que el horror nazi pasara de ser un enemigo público a ser un **socio secreto** de la seguridad nacional del bloque atlantista.
+Los Juicios de Nuremberg fueron el **"Lavado de Cara de la Élite"**. Su importancia reside en haber transformado una derrota militar en una victoria burocrática transnacional. Quien controla la justicia de Nuremberg controla el pasado y, por lo tanto, tiene el permiso moral para diseñar el futuro. Entender Nuremberg es comprender que en el nivel más alto del poder, los criminales no se eliminan, se **subcontratan**. Los juicios fueron la cortina de hierro legal que permitió que el horror nazi pasara de ser un enemigo público a ser un **socio secreto** de la seguridad nacional del bloque atlantista.
 
 ---
 **Versión:** 2.0

@@ -7,7 +7,7 @@ tags: [clasificado-ai]
 publish: true
 ---
 ﻿---
-titulo: SimbologÃ­a Del TabernÃ¡culo
+titulo: Simbología Del Tabernáculo
 tipo: "concepto"
 fecha: 2026-02-25
 tags: [simbologa, tabernculo]
@@ -16,14 +16,14 @@ nivel-evidencia: "medio"
 publish: true
 ---
 
-# SimbologÃ­a Del TabernÃ¡culo
+# Simbología Del Tabernáculo
 
-> [!ABSTRACT] HipÃ³tesis Informativa
+> [!ABSTRACT] Hipótesis Informativa
 > Nodo perteneciente a la Matrix de Simbolismo y Esoterismo TL V.2.
 
-## AnÃ¡lisis De Tiers
+## Análisis De Tiers
 *En desarrollo...*
 
 ## Cui Bono
-*Pendiente de anÃ¡lisis forense.*
+*Pendiente de análisis forense.*
 

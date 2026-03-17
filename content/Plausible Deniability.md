@@ -1,5 +1,5 @@
 ---
-titulo: "Plausible Deniability (TL V.2): El Escudo De La Impunidad De Ã‰lite"
+titulo: "Plausible Deniability (TL V.2): El Escudo De La Impunidad De Élite"
 tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [deniability, escudo, impunidad, plausible]
 publish: true
 ---
-# Plausible Deniability (TL V.2): El Escudo De La Impunidad De Ã‰lite
+# Plausible Deniability (TL V.2): El Escudo De La Impunidad De Élite
 
 > [!ABSTRACT] Hipótesis Informativa
 > La "Plausible Deniability" (Negación Plausible) es el **Mecanismo Técnico de [[Tier B]]** diseñado para permitir que los líderes del **[[Tier A]]** ordenen o aprueben actos ilegales, criminales o inmorales sin sufrir consecuencias legales o políticas. Mediante la compartimentación extrema, el uso de órdenes verbales imprecisas y la creación de intermediarios desechables ("Cut-outs"), el sistema asegura que cuando una operación encubierta es expuesta, la responsabilidad se detenga en los ejecutores de bajo nivel, protegiendo la integridad de la estructura de mando y permitiendo la continuidad de la agenda sin rendición de cuentas.
@@ -23,7 +23,7 @@ publish: true
 ## ¸ Mecanisms De Poder (Operativos)
 
 1.  **Cut-outs e Intermediarios**: Uso de empresas fachada, mercenarios extranjeros o activos no oficiales para realizar acciones de Tier A, asegurando que no exista un rastro de papel que conecte al gobierno con el acto.
-2.  **Ã“rdenes de "Guiño y Empujón"**: Comunicación no verbal o intuitiva donde se sobreentiende la ilegalidad de la tarea, permitiendo que el emisor de la orden mantenga la "pureza legal" mientras el receptor asume todo el riesgo jurídico.
+2.  **Órdenes de "Guiño y Empujón"**: Comunicación no verbal o intuitiva donde se sobreentiende la ilegalidad de la tarea, permitiendo que el emisor de la orden mantenga la "pureza legal" mientras el receptor asume todo el riesgo jurídico.
 
 ## Conexiones Críticas
 - [[Irán-Contra]]: El caso de estudio definitivo de negación presidencial.

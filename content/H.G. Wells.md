@@ -16,7 +16,7 @@ publish: true
 
 ## Análisis De Poder (Tiers)
 
-### Tier A (El Profeta De La Ã‰lite Globalista)
+### Tier A (El Profeta De La Élite Globalista)
 *   **La Conspiración Abierta:** Wells propuso que el gobierno mundial no debía ser una conspiración secreta, sino un movimiento público y "abierto" donde las élites de todas las naciones se integraran voluntariamente en una estructura supranacional. Esta es la base de las actuales redes de Tier A (Davos, ONU, CFR).
 *   **Diseño Eugénico:** Wells creía firmemente en la superioridad de la casta intelectual y en la necesidad de "limpiar" la humanidad de lo que él llamaba la "gente del abismo" (Tier C no productivo).
 

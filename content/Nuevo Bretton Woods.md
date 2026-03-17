@@ -15,7 +15,7 @@ publish: true
 ## Análisis De Tiers
 
 ### Tier A: Los Liquidadores De Soberanía
-* **La Torre de Control de Basilea:** El [[Banco de Pagos Internacionales\|BIS (Banco de Pagos Internacionales)]] emerge como el soberano absoluto del nuevo sistema. Mientras el dólar (Tier B imperial) se desvanece, el Tier A prepara una canasta de monedas digitales (o el oro tokenizado) para centralizar el flujo de capital mundial. La "multipolaridad" impulsada por los [[BRICS]] es la distracción necesaria para que el Tier C no vea que el software de control â€”las [[CBDC]]â€” es el mismo en Beijing que en Nueva York.
+* **La Torre de Control de Basilea:** El [[Banco de Pagos Internacionales\|BIS (Banco de Pagos Internacionales)]] emerge como el soberano absoluto del nuevo sistema. Mientras el dólar (Tier B imperial) se desvanece, el Tier A prepara una canasta de monedas digitales (o el oro tokenizado) para centralizar el flujo de capital mundial. La "multipolaridad" impulsada por los [[BRICS]] es la distracción necesaria para que el Tier C no vea que el software de control —las [[CBDC]]— es el mismo en Beijing que en Nueva York.
 * **El Dinero como Permiso:** En el Nuevo Bretton Woods, el dinero deja de ser un depósito de valor para convertirse en un **Vale de Consumo Programable**. El Tier A podrá incentivar o penalizar comportamientos en tiempo real (huella de carbono, cumplimiento de vacunas, discurso online) bloqueando la capacidad transaccional del individuo.
 
 ### Tier B: Los Administradores Del Caos

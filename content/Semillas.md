@@ -10,7 +10,7 @@ publish: true
 # Semillas: Control Genético vs. Soberanía Alimentaria (TL V.2)
 
 > [!ABSTRACT] Hipótesis Informativa
-> La batalla por las semillas es la **Guerra de [[Tier A]] por el Control de la Vida** y la base de la pirámide alimentaria. A través de la tecnología **Terminator (GURT)** â€”semillas diseñadas para ser estériles en la segunda generaciónâ€” y el patentamiento genético, las corporaciones de la Matrix buscan eliminar el ciclo milenario de la agricultura independiente. Su función real es la de una **"Suscripción Biológica Obligatoria"**: transformar al agricultor de **[[Tier C]]** en un siervo feudal que debe comprar su capacidad de producir alimentos cada año, asegurando que la soberanía nutricional de la humanidad dependa de un puñado de laboratorios transnacionales.
+> La batalla por las semillas es la **Guerra de [[Tier A]] por el Control de la Vida** y la base de la pirámide alimentaria. A través de la tecnología **Terminator (GURT)** —semillas diseñadas para ser estériles en la segunda generación— y el patentamiento genético, las corporaciones de la Matrix buscan eliminar el ciclo milenario de la agricultura independiente. Su función real es la de una **"Suscripción Biológica Obligatoria"**: transformar al agricultor de **[[Tier C]]** en un siervo feudal que debe comprar su capacidad de producir alimentos cada año, asegurando que la soberanía nutricional de la humanidad dependa de un puñado de laboratorios transnacionales.
 
 ## Análisis De Tiers
 

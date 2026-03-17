@@ -40,7 +40,7 @@ publish: true
 - [[Eurodólares]]: El mercado de dólares fuera de EE.UU. fundado en la City que rompió el control de la Fed.
 
 ## Conclusión Del Análisis
-La Milla Cuadrada es el **"Anillo de Poder" de la economía global**. Su importancia reside en su capacidad de ser **inmune a la democracia**. No es parte del Reino Unido; es el ente que lo posee. Entender la City es comprender que el mundo financiero tiene un patio de juegos privado donde las reglas de la moral y la ley común no se aplican. Para el Tier C, es un centro de negocios; para el Tier A, es el **Ãšltimo Reducto de la Soberanía Absoluta del Capital**. Un mapa del poder real no se traza por fronteras nacionales, sino por las líneas de crédito que parten y regresan a este pequeño rincón de Londres.
+La Milla Cuadrada es el **"Anillo de Poder" de la economía global**. Su importancia reside en su capacidad de ser **inmune a la democracia**. No es parte del Reino Unido; es el ente que lo posee. Entender la City es comprender que el mundo financiero tiene un patio de juegos privado donde las reglas de la moral y la ley común no se aplican. Para el Tier C, es un centro de negocios; para el Tier A, es el **Último Reducto de la Soberanía Absoluta del Capital**. Un mapa del poder real no se traza por fronteras nacionales, sino por las líneas de crédito que parten y regresan a este pequeño rincón de Londres.
 
 ---
 **Versión:** 2.0

@@ -23,7 +23,7 @@ publish: true
 ## ¸ Mecanisms De Poder (Financieros Y Políticos)
 
 1.  **Arbitraje de Deuda Soberana**: Uso de su posición como asesores de gobiernos para influir en las condiciones de los préstamos internacionales, cobrando comisiones millonarias mientras dictan las medidas de austeridad que el Tier C deberá pagar.
-2.  **Puerta Giratoria de Ã‰lite (Elite Revolving Door)**: Circulación constante de personal entre la firma y los altos cargos de la Unión Europea y el FMI, asegurando que la arquitectura financiera de la Matrix sea diseñada y protegida por individuos leales a la casa Rothschild.
+2.  **Puerta Giratoria de Élite (Elite Revolving Door)**: Circulación constante de personal entre la firma y los altos cargos de la Unión Europea y el FMI, asegurando que la arquitectura financiera de la Matrix sea diseñada y protegida por individuos leales a la casa Rothschild.
 
 ## Conexiones Críticas
 - [[Familia Rothschild]]: La matriz de propiedad y propósito.

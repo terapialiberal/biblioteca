@@ -18,7 +18,7 @@ publish: true
 
 ### Tier A (Los Dueños De La Firma Global)
 *   **Sullivan & Cromwell como Gobierno:** El bufete de los Dulles representaba a los carteles que financiaron el ascenso de Hitler y a las multinacionales que saqueaban Latinoamérica. El Tier A financiero utilizó a los hermanos para asegurar que el poder militar de EE.UU. fuera el "músculo" de sus inversiones privadas.
-*   **Inmunidad de la Ã‰lite:** Allen Dulles operó con total autonomía, reportando a la fraternidad de Wall Street antes que al Presidente. Su control sobre la **[[Comisión Warren]]** (encargada de investigar la muerte de JFK) es el ejemplo supremo de Tier A investigándose a sí mismo para ocultar la verdad.
+*   **Inmunidad de la Élite:** Allen Dulles operó con total autonomía, reportando a la fraternidad de Wall Street antes que al Presidente. Su control sobre la **[[Comisión Warren]]** (encargada de investigar la muerte de JFK) es el ejemplo supremo de Tier A investigándose a sí mismo para ocultar la verdad.
 
 ### Tier B (Operadores / Los Arquitectos Del Golpismo)
 *   **Allen Dulles:** El operador de Tier B que diseñó el modelo de cambio de régimen mediante operaciones psicológicas y sobornos, alejando a EE.UU. de la diplomacia tradicional hacia la guerra encubierta permanente.

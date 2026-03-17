@@ -41,7 +41,7 @@ tags: [benjamin, infraestructura, jared, poder]
 - [[Mega Group]]: La red de billionaires que utiliza a Chabad como base de networking social y espiritual.
 
 ## Conclusión Del Análisis
-Chabad Lubavitch es el **"Sistema Nervioso de la Ã‰lite Transnacional"**. Su importancia reside en haber borrado la frontera entre la religión y la inteligencia de Estado. No es una congregación; es un **órgano de gobernanza invisible**. Entender Chabad es comprender que los tratados internacionales son solo papel frente a los acuerdos de sangre y fe sellados en el 770 de Brooklyn. Para el Tier C, son rabinos bailando janucá; para el Tier A, es la **garantía de que el mundo sigue siendo administrado por una minoría organizada** que sabe que el poder, si es divino, es absoluto e irrevocable.
+Chabad Lubavitch es el **"Sistema Nervioso de la Élite Transnacional"**. Su importancia reside en haber borrado la frontera entre la religión y la inteligencia de Estado. No es una congregación; es un **órgano de gobernanza invisible**. Entender Chabad es comprender que los tratados internacionales son solo papel frente a los acuerdos de sangre y fe sellados en el 770 de Brooklyn. Para el Tier C, son rabinos bailando janucá; para el Tier A, es la **garantía de que el mundo sigue siendo administrado por una minoría organizada** que sabe que el poder, si es divino, es absoluto e irrevocable.
 
 ---
 **Versión:** 2.0

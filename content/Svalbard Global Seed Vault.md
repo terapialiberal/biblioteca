@@ -10,7 +10,7 @@ publish: true
 # Svalbard Global Seed Vault (TL V.2): El Arca De Noé De La Biopolítica
 
 > [!ABSTRACT] Hipótesis Informativa
-> La Bóveda Global de Semillas de Svalbard es la **Infraestructura de Reserva de [[Tier B]]** (respaldada por el Tier A globalista) diseñada para preservar la biodiversidad genética de los cultivos ante una catástrofe planetaria. Ubicada en las profundidades del permafrost ártico, su función real en la Matrix es la de un **"Seguro de Vida para la Ã‰lite"**: mientras las corporaciones de Tier A destruyen la biodiversidad mundial mediante monopolios de semillas OGM y patentes genéticas, ellas mismas financian este búnker para asegurar que poseerán el "código fuente" de la vida vegetal si el sistema agroindustrial colapsa, garantizando su dominio sobre el suministro de alimentos del **[[Tier C]]** en un escenario post-crisis.
+> La Bóveda Global de Semillas de Svalbard es la **Infraestructura de Reserva de [[Tier B]]** (respaldada por el Tier A globalista) diseñada para preservar la biodiversidad genética de los cultivos ante una catástrofe planetaria. Ubicada en las profundidades del permafrost ártico, su función real en la Matrix es la de un **"Seguro de Vida para la Élite"**: mientras las corporaciones de Tier A destruyen la biodiversidad mundial mediante monopolios de semillas OGM y patentes genéticas, ellas mismas financian este búnker para asegurar que poseerán el "código fuente" de la vida vegetal si el sistema agroindustrial colapsa, garantizando su dominio sobre el suministro de alimentos del **[[Tier C]]** en un escenario post-crisis.
 
 ## Análisis De Tiers
 

@@ -39,7 +39,7 @@ publish: true
 - [[Clyde Tolson]]: Su mano derecha y la persona con la que compartió los secretos más profundos de la agencia.
 
 ## Conclusión Del Análisis
-J. Edgar Hoover fue el tipo que descubrió que **las democracias son, en realidad, tecnocracias de la extorsión**. No necesitaba ser presidente; le bastaba con tener una foto del presidente haciendo algo prohibido. Ã‰l inventó el Deep State tal como lo conocemos hoy: ese lugar oscuro donde los tipos sin rostro deciden quién puede gobernar y bajo qué condiciones. Hoover no murió en 1972; vive en cada base de datos y en cada expediente que el sistema usa para recordarle a los vivos quién manda realmente.
+J. Edgar Hoover fue el tipo que descubrió que **las democracias son, en realidad, tecnocracias de la extorsión**. No necesitaba ser presidente; le bastaba con tener una foto del presidente haciendo algo prohibido. Él inventó el Deep State tal como lo conocemos hoy: ese lugar oscuro donde los tipos sin rostro deciden quién puede gobernar y bajo qué condiciones. Hoover no murió en 1972; vive en cada base de datos y en cada expediente que el sistema usa para recordarle a los vivos quién manda realmente.
 
 ---
 **Versión:** 2.0

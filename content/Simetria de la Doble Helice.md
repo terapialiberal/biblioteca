@@ -7,7 +7,7 @@ tags: [clasificado-ai]
 publish: true
 ---
 ﻿---
-titulo: SimetrÃ­a De La Doble HÃ©lice
+titulo: Simetría De La Doble Hélice
 tipo: "concepto"
 fecha: 2026-02-25
 tags: [doble, hlice, simetra]
@@ -16,14 +16,14 @@ nivel-evidencia: "medio"
 publish: true
 ---
 
-# SimetrÃ­a De La Doble HÃ©lice
+# Simetría De La Doble Hélice
 
-> [!ABSTRACT] HipÃ³tesis Informativa
+> [!ABSTRACT] Hipótesis Informativa
 > Nodo perteneciente a la Matrix de Simbolismo y Esoterismo TL V.2.
 
-## AnÃ¡lisis De Tiers
+## Análisis De Tiers
 *En desarrollo...*
 
 ## Cui Bono
-*Pendiente de anÃ¡lisis forense.*
+*Pendiente de análisis forense.*
 

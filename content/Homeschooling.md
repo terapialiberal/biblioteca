@@ -1,5 +1,5 @@
 ---
-titulo: Homeschooling (Ã‰xodo Educativo)
+titulo: Homeschooling (Éxodo Educativo)
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [educativo, escuela, homeschooling, xodo]
 publish: true
 ---
-# Homeschooling (Ã‰xodo Educativo)
+# Homeschooling (Éxodo Educativo)
 
 ## Perfil TL (Resumen Ejecutivo)
 **¿Qué es?** Un movimiento global creciente de familias que deciden retirar a sus hijos del sistema escolar formal (público o privado restringido) para educarlos de forma autónoma en el hogar o en comunidades descentralizadas.
@@ -25,7 +25,7 @@ publish: true
 *   **Normalización de la Ideología:** Operadores de Tier B se encargan de inyectar las últimas hipersticiones de Tier A en los libros de texto, asegurando que la próxima generación no tenga las herramientas lógicas para detectar el engaño.
 
 ### Tier C (Narrativa Pública)
-*   "Educación pública, gratuita y de calidad". "Igualdad de oportunidades". Narrativas de Tier B que el Tier C compra para entregar a sus hijos al Estado. Sin embargo, el "Ã‰xodo Educativo" es la respuesta orgánica del Tier C que ha detectado el fallo en el sistema y elige la **Secesión Intelectual** como forma de autodefensa.
+*   "Educación pública, gratuita y de calidad". "Igualdad de oportunidades". Narrativas de Tier B que el Tier C compra para entregar a sus hijos al Estado. Sin embargo, el "Éxodo Educativo" es la respuesta orgánica del Tier C que ha detectado el fallo en el sistema y elige la **Secesión Intelectual** como forma de autodefensa.
 
 ## Conexiones Clave
 - [[Escuela Prusiana (Orígenes de la Fábrica de Almas)]] (Su enemigo histórico)

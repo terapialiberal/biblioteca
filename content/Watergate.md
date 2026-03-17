@@ -34,7 +34,7 @@ publish: true
 
 ## Citas Reveladoras
 
-> *«The CIA owes me.»* â€” **Richard Nixon** (refiriéndose a Bay of Pigs)
+> *«The CIA owes me.»* — **Richard Nixon** (refiriéndose a Bay of Pigs)
 
 ## Conexiones
 - [[CIA]] (Hunt, Liddy eran agentes)

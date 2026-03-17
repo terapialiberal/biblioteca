@@ -32,7 +32,7 @@ La Revolución Francesa demostró que la ideología no puede alimentar a una pob
 - [[WEF]] (El Versalles Contemporáneo)
 - [[Revolución Francesa]]
 - [[Gran Reset]] (La nueva pastelería de Tier A)
-- [[Desconexión de Ã‰lite]]
+- [[Desconexión de Élite]]
 
 ## Fuentes
 - "Marie Antoinette: The Journey" - Antonia Fraser.

@@ -24,7 +24,7 @@ publish: true
 *   **Agencias de Control (ATF/Interpol):** Operadores de Tier B que intentan infiltrar los canales de distribución de archivos para rastrear y criminalizar al Tier C innovador.
 
 ### Tier C (Narrativa Pública)
-*   "Armas peligrosas imposibles de rastrear en manos de terroristas". Narrativas de Tier B diseñadas para asustar al Tier C pasivo y que este apoye la prohibición de las impresoras 3D o la vigilancia invasiva de internet. El Tier C consciente ve en la FGC-9 la **Ãšltima Línea de Defensa** contra un Estado que se vuelve cada vez más autoritario y menos capaz de proteger a sus ciudadanos.
+*   "Armas peligrosas imposibles de rastrear en manos de terroristas". Narrativas de Tier B diseñadas para asustar al Tier C pasivo y que este apoye la prohibición de las impresoras 3D o la vigilancia invasiva de internet. El Tier C consciente ve en la FGC-9 la **Última Línea de Defensa** contra un Estado que se vuelve cada vez más autoritario y menos capaz de proteger a sus ciudadanos.
 
 ## Conexiones Clave
 - [[Segunda Enmienda / Derecho a Armas]] (Su base filosófica)

@@ -17,7 +17,7 @@ publish: true
 ## Análisis De Poder (Tiers)
 
 ### Tier A (El Arquitecto De La Verdad)
-*   **Confesión de la Ã‰lite:** Quigley escribió el "manual de usuario" del poder del Tier A. Reveló que la democracia es una ilusión diseñada: *"Los dos partidos deberían ser casi idénticos, para que el pueblo pueda echar a los sinvergüenzas en cualquier elección sin que eso conduzca a ningún cambio profundo"*.
+*   **Confesión de la Élite:** Quigley escribió el "manual de usuario" del poder del Tier A. Reveló que la democracia es una ilusión diseñada: *"Los dos partidos deberían ser casi idénticos, para que el pueblo pueda echar a los sinvergüenzas en cualquier elección sin que eso conduzca a ningún cambio profundo"*.
 *   **Censura Editorial:** Su obra *Tragedy and Hope* sufrió una extraña censura: la editorial destruyó las planchas de impresión tras las primeras 5.000 copias, tratando de enterrar una revelación que venía del corazón del sistema.
 
 ### Tier B / C (Formador De Activos)
@@ -39,4 +39,4 @@ publish: true
 
 ## Por Qué Importa (Estilo Nico)
 
-> "Quigley es el que te dice la verdad en la cara y te pregunta si te atrevés a hacer algo. Te explicó que votar es un teatro donde los dos bandos trabajan para el mismo jefe. No era una 'teoría'; el tipo conocía los nombres, las fechas y los balances contables de la red que hoy nos gobierna. Si querés saber cómo pasamos de naciones libres a un mundo de tecnócratas, tenés que leer a Quigley. Ã‰l te dio el mapa de la prisión."
+> "Quigley es el que te dice la verdad en la cara y te pregunta si te atrevés a hacer algo. Te explicó que votar es un teatro donde los dos bandos trabajan para el mismo jefe. No era una 'teoría'; el tipo conocía los nombres, las fechas y los balances contables de la red que hoy nos gobierna. Si querés saber cómo pasamos de naciones libres a un mundo de tecnócratas, tenés que leer a Quigley. Él te dio el mapa de la prisión."

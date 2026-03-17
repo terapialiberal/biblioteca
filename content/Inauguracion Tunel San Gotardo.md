@@ -27,7 +27,7 @@ publish: true
 
 ## Conexiones Clave
 - [[Simbolismo del Hombre Cabra / Baphomet]] (La figura central)
-- [[Rituales de las Ã‰lites / Bohemian Grove]] (El contexto privado)
+- [[Rituales de las Élites / Bohemian Grove]] (El contexto privado)
 - [[CERN / Simbolismo de Shiva]] (Otro epicentro ritual en Suiza)
 - [[Gran Reseteo / Cambio de Era]] (El marco temporal)
 

@@ -23,7 +23,7 @@ publish: true
 
 ## ¸ Mecanismos De Poder
 
-1.  **Protección de Cultivos**: Ã“rdenes explícitas a los Marines de no destruir campos de amapola bajo la excusa de "no alienar a la población", asegurando la cosecha récord año tras año.
+1.  **Protección de Cultivos**: Órdenes explícitas a los Marines de no destruir campos de amapola bajo la excusa de "no alienar a la población", asegurando la cosecha récord año tras año.
 2.  **Sustitución Sintética (Fentanyl)**: Tras la prohibición talibán de 2022, el mercado está transicionando al Fentanilo. El Tier A cambia de proveedor (de granjeros afganos a laboratorios químicos) pero mantiene el control de la distribución letal.
 
 ## Conexiones Críticas

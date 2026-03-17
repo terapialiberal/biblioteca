@@ -1,12 +1,11 @@
 ---
 publish: true
 created: 2026-01-29T19:17:06.675-03:00
-modified: 2026-02-27T13:06:23.066-03:00
+modified: 2026-02-27T13:06:41.220-03:00
 tags:
   - cartel
   - hsbc
   - sinaloa
-cssclasses: ""
 ---
 
 # Cartel De Sinaloa

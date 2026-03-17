@@ -29,7 +29,7 @@ publish: true
 - **Inteligencia:** Israel como hub de tecnología de vigilancia (NSO Group, Pegasus).
 
 ### Tier C (Narrativa)
-- "Ãšnica democracia en Medio Oriented"
+- "Única democracia en Medio Oriented"
 - "Derecho a defenderse"
 - "Hamas = ISIS = todos los enemigos"
 

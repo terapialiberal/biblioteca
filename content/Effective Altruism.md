@@ -18,7 +18,7 @@ publish: true
 
 ## Análisis De Poder (Tiers)
 
-### Tier A (Los Dueños De La Ã‰tica Algorítmica)
+### Tier A (Los Dueños De La Ética Algorítmica)
 *   **Longtermism (Largoplacismo):** El Tier A utiliza el EA para desviar la atención de problemas actuales (hambre, inflación, guerra) hacia riesgos abstractos a 10.000 años vista. Esto les permite evitar la responsabilidad sobre el impacto social de sus tecnologías actuales mientras ellos se posicionan como los "guardianes del destino humano".
 *   **Eugenismo Moderno:** Bajo el manto del EA, se discuten ideas de mejora genética y selección de población basándose en la "utilidad neta", conectando directamente con las agendas transhumanistas de finales del siglo XX.
 
@@ -38,7 +38,7 @@ publish: true
 ## Fuentes
 - William MacAskill: "What We Owe The Future" (El manifiesto del largoplacismo).
 - Michael Lewis: "Going Infinite" (Sobre la obsesión de SBF con el EA).
-- Ã‰mile P. Torres: Investigaciones sobre la ideología "TESCREAL".
+- Émile P. Torres: Investigaciones sobre la ideología "TESCREAL".
 
 ## Por Qué Importa (Estilo Nico)
 

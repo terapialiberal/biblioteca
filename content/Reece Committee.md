@@ -17,7 +17,7 @@ publish: true
 ### Tier B (El Intento De Auditoría Del Sistema)
 *   **La Resistencia del Congreso:** Para el Tier B patriótico representado por Reece y Dodd, las fundaciones eran "un gobierno dentro del gobierno". Al investigar sus actas secretas, Dodd descubrió directivas explícitas (particularmente en la Fundación Carnegie) para fomentar una guerra mundial como un "cambio catalizador" para alterar la vida social de la nación. El Tier B descubrió que el control de las becas y los fondos de investigación permitía a las fundaciones dictar qué se enseñaba en las universidades, asegurando que las futuras generaciones de **[[Tier C]]** consideraran el colectivismo y el globalismo como el único camino a la paz.
 
-### Tier A (La Reacción De Las Ã‰lites De La Fundación)
+### Tier A (La Reacción De Las Élites De La Fundación)
 *   **El Sabotaje de la Investigación:** Para el Tier A globalista, el Comité Reece era una amenaza existencial al secreto de su planificación estratégica. Las fundaciones respondieron no con argumentos, sino con **Ataques de Tier B Mediático**: utilizaron sus conexiones en los grandes diarios para ridiculizar a Reece, calificarlo de "macartista" y sabotear las audiencias desde adentro mediante miembros del comité que actuaban como agentes de las propias fundaciones (*obstructionism*). El Tier A demostró que su capacidad de influir en la percepción pública era superior a la autoridad legal del Congreso, logrando que el informe final fuera enterrado y sus protagonistas condenados al ostracismo mediático.
 
 ## ¸ Mecanisms De Poder (Soberanía Y Educación)

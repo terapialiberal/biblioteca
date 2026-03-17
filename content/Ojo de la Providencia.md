@@ -29,7 +29,7 @@ publish: true
 ## Conexiones Críticas
 - [[Masonería]]: Los preservadores del rito del Ojo.
 - [[Information Awareness Office]]: La versión tecnológica de DARPA del símbolo.
-- [[Panóptico Digital]]: La manifestación física y algorítmica del Ojo Ãšnico.
+- [[Panóptico Digital]]: La manifestación física y algorítmica del Ojo Único.
 - [[Manly P. Hall]]: El filósofo de Tier B que explicó el significado real a los iniciados.
 - [[Anexo 1 - El Billete del Dólar]]: El análisis completo del mapa masónico en el dinero.
 

@@ -19,7 +19,7 @@ publish: true
 *   **Gladio B y el Satanismo Militar:** La O9A insta a sus miembros a unirse al ejército (especialmente a unidades de fuerzas especiales) para ganar "habilidades tácticas de combate" para la futura guerra civil. Esta es la **Infiltración por Radicalización**: el sistema crea monstruos con entrenamiento militar avanzado que pueden ser activados como agentes de caos (falsas banderas) cuando la agenda de Tier A lo requiera (por ejemplo, para desmonetizar o prohibir grupos de derecha u ocultistas legítimos).
 
 ### Tier B (David Myatt Y Los Ideólogos Del Mal)
-*   **La Mutación Ideológica:** David Myatt, el supuesto fundador, ha pasado del nazismo al radicalismo islámico y de vuelta al ocultismo "Ã‰onico". Este es el comportamiento típico de un interface de Tier B encargado de probar diferentes **Virus Ideológicos** en el Tier C. Su labor es crear un sistema de creencias tan extremo que atraiga a cualquier individuo con tendencias psicopáticas, centralizándolos en una red que el sistema puede monitorizar y usar a su conveniencia.
+*   **La Mutación Ideológica:** David Myatt, el supuesto fundador, ha pasado del nazismo al radicalismo islámico y de vuelta al ocultismo "Éonico". Este es el comportamiento típico de un interface de Tier B encargado de probar diferentes **Virus Ideológicos** en el Tier C. Su labor es crear un sistema de creencias tan extremo que atraiga a cualquier individuo con tendencias psicopáticas, centralizándolos en una red que el sistema puede monitorizar y usar a su conveniencia.
 
 ## ¸ Mecanismos De Poder (Estratégicos)
 

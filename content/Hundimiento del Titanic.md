@@ -22,7 +22,7 @@ publish: true
 
 ### Tier B (Operadores / Capitanes Y Jesuitas)
 *   **Capitán Edward Smith:** Un operador de Tier B que navegó a máxima velocidad por un campo de hielo advertido. Algunas investigaciones señalan su vínculo como "Jesuita Temporal", sugiriendo que el hundimiento fue un acto obediente a una jerarquía superior de Tier A.
-*   **Prensa de la Ã‰poca:** El Tier B mediático vendió la narrativa de la "arrogancia humana contra la naturaleza" para ocultar la anomalía de los botes salvavidas insuficientes y la falta de protocolos de socorro por parte del SS Californian.
+*   **Prensa de la Época:** El Tier B mediático vendió la narrativa de la "arrogancia humana contra la naturaleza" para ocultar la anomalía de los botes salvavidas insuficientes y la falta de protocolos de socorro por parte del SS Californian.
 
 ### Tier C (Narrativa Pública)
 *   "Una tragedia romántica e inevitable". "La mujer y los niños primero". Narrativas de Tier B diseñadas para que el Tier C vea el evento como una lección moral o un accidente trágico. El Tier C llora a las víctimas del iceberg, mientras ignora que ese iceberg despejó el camino para el sistema de esclavitud por deuda que ha dominado al mundo desde 1913.

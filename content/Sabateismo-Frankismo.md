@@ -42,7 +42,7 @@ El Sabateísmo-Frankismo nos enseña que **el mayor peligro para una fe es su si
 ---
 **Versión:** 2.0
 **Enfoque:** La doctrina de la redención a través del pecado, la infiltración de religiones por Jacob Frank, el nexo con los Illuminati y la función de la subversión moral como herramienta de control de élite.
-**Estado:** Refactoreado a TL V.2 - Framework de Teología de la Subversión y Ocultismo de Ã‰lite.
+**Estado:** Refactoreado a TL V.2 - Framework de Teología de la Subversión y Ocultismo de Élite.
 
 
 

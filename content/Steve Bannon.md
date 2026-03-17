@@ -42,7 +42,7 @@ Steve Bannon nos enseña que **las revoluciones televisadas suelen ser operacion
 ---
 **Versión:** 2.0
 **Enfoque:** Steve Bannon como operador de Tier B de guerra psicológica y populismo controlado, su origen en Goldman Sachs, su conexión con Epstein para influir en políticas financieras, y el uso de los datos y el caos para redireccionar la ira del Tier C en beneficio de facciones disruptivas de la élite de Tier A.
-**Estado:** Refactoreado a TL V.2 - Framework de Guerra Narrativa y Populismo de Ã‰lite.
+**Estado:** Refactoreado a TL V.2 - Framework de Guerra Narrativa y Populismo de Élite.
 
 
 

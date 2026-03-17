@@ -21,7 +21,7 @@ publish: true
 *   **Control del Pivot Geopolítico:** Al controlar el gas de Eurasia, Gazprom es la pieza central de la alianza **[[BRICS]]** contra la hegemonía del petrodólar, permitiendo a Rusia comerciar energía en rublos o yuanes y socavar la arquitectura financiera de Tier A occidental.
 
 ### Tier B (Operadores / Políticos Europeos "Capturados")
-*   **SchrÃ¶derización:** El término derivado del ex-canciller alemán **Gerhard SchrÃ¶der**, quien pasó de gobernar Alemania a trabajar para Gazprom. El Tier B político europeo ha sido sistemáticamente cooptado mediante puestos en directorios y promesas de energía barata, convirtiéndose en lobbistas de los intereses rusos dentro de la OTAN.
+*   **Schröderización:** El término derivado del ex-canciller alemán **Gerhard Schröder**, quien pasó de gobernar Alemania a trabajar para Gazprom. El Tier B político europeo ha sido sistemáticamente cooptado mediante puestos en directorios y promesas de energía barata, convirtiéndose en lobbistas de los intereses rusos dentro de la OTAN.
 *   **Gestión de Infraestructura:** Ingenieros y técnicos de Tier B que operan la red de gasoductos, cuya labor técnica es esencial para el mantenimiento de la presión política sobre el continente.
 
 ### Tier C (Narrativa Pública)

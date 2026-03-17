@@ -15,7 +15,7 @@ publish: true
 ## Análisis De Tiers
 
 ### Tier A: Los Curadores Del Consenso De Davos
-* **El Interfaz de la Ã‰lite:** Schwab es el "frontman" contratado por las familias y corporaciones de Tier A ([[BlackRock]], [[Vanguard]], realeza europea, banqueros centrales) para que la población tenga un rostro visible al cual dirigir su descontento. Su papel es socializar los planes de la élite antes de su ejecución, actuando como un globo sonda para medir la resistencia del [[Tier C]]. Para el Tier A, Klaus es el **Escudo Térmico**: si la agenda del Gran Reset falla, se sacrifica la reputación de Schwab para salvar el sistema de fondo.
+* **El Interfaz de la Élite:** Schwab es el "frontman" contratado por las familias y corporaciones de Tier A ([[BlackRock]], [[Vanguard]], realeza europea, banqueros centrales) para que la población tenga un rostro visible al cual dirigir su descontento. Su papel es socializar los planes de la élite antes de su ejecución, actuando como un globo sonda para medir la resistencia del [[Tier C]]. Para el Tier A, Klaus es el **Escudo Térmico**: si la agenda del Gran Reset falla, se sacrifica la reputación de Schwab para salvar el sistema de fondo.
 * **Fusión Estado-Corporación:** Schwab promueve el "Capitalismo de Stakeholders", que es la codificación del fascismo moderno: un sistema donde las decisiones soberanas son reemplazadas por asociaciones público-privadas que no responden a ningún electorado, eliminando la frontera entre el Estado y el Capital de Tier A.
 
 ### Tier B: El Administrador De La Infiltración (Schwab)
@@ -39,7 +39,7 @@ publish: true
 - [[Henry Kissinger]]: Su mentor en la Escuela de Verano de Harvard que le dio el acceso inicial al Tier A estadounidense.
 
 ## Conclusión Del Análisis
-Klaus Schwab es el **"Garante de la Inevitabilidad"**. Su importancia reside en convencernos de que el futuro ya ha sido decidido y que la resistencia es inútil. Schwab es el arquitecto de una jaula que no tiene barrotes, sino sensores. Entender a Schwab es comprender que el poder actual no busca convencernos, busca **reprogramarnos**. Ã‰l es el heraldo de un mundo donde el ciudadano es reemplazado por el usuario, y el alma humana por un flujo de datos. Para el Tier C, Klaus es el villano de una película distópica; para el Tier A, es el conserje que está limpiando el planeta para la llegada de sus verdaderos dueños. Su acento alemán y su estética autoritaria no son un error; son el **Kayfabe de la tiranía** que nos invita a mirar al mensajero para que no veamos la magnitud del mensaje.
+Klaus Schwab es el **"Garante de la Inevitabilidad"**. Su importancia reside en convencernos de que el futuro ya ha sido decidido y que la resistencia es inútil. Schwab es el arquitecto de una jaula que no tiene barrotes, sino sensores. Entender a Schwab es comprender que el poder actual no busca convencernos, busca **reprogramarnos**. Él es el heraldo de un mundo donde el ciudadano es reemplazado por el usuario, y el alma humana por un flujo de datos. Para el Tier C, Klaus es el villano de una película distópica; para el Tier A, es el conserje que está limpiando el planeta para la llegada de sus verdaderos dueños. Su acento alemán y su estética autoritaria no son un error; son el **Kayfabe de la tiranía** que nos invita a mirar al mensajero para que no veamos la magnitud del mensaje.
 
 ---
 **Versión:** 2.0

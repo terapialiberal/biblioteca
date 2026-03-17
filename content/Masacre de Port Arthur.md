@@ -20,7 +20,7 @@ publish: true
 *   **La Eficiencia del Francotirador:** Se documentó que el tirador disparó con una precisión del 80% desde la cadera (hip-fire), acertando a cabezas en movimiento, una hazaña que expertos militares consideran imposible para alguien con el IQ y la falta de entrenamiento de Martin Bryant. Esto sugiere la presencia de un **Profesional de Tier B** operando bajo la cobertura del caos.
 *   **El Patsy Perfecto:** Bryant nunca fue sometido a un juicio con presentación de pruebas forenses completas; fue coaccionado para declararse culpable tras meses de aislamiento. No hay filmaciones fiables de él en la escena, y la descripción de los testigos de un tirador rubio con pelo largo podría haber sido un disfraz.
 
-### Tier A (El Modelo De Ã‰xito Del Desarme)
+### Tier A (El Modelo De Éxito Del Desarme)
 *   **Logística Preparada:** Curiosamente, meses antes de la masacre, se encargó un sistema de refrigeración para cadáveres masivos en Tasmania que no tenía precedentes en la zona. El Primer Ministro John Howard utilizó el shock emocional del Tier C para imponer una agenda de Tier A que eliminó la última línea de defensa de la soberanía individual: el derecho a la autodefensa.
 
 

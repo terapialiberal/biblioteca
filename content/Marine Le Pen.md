@@ -16,7 +16,7 @@ publish: true
 
 ## Análisis (Tiers)
 
-### Tier B (La Operativa De La "Amenaza Ãštil")
+### Tier B (La Operativa De La "Amenaza Útil")
 *   **El Rival Perfecto:** Para figuras de Tier A como **[[Emmanuel Macron]]**, Le Pen es el rival ideal. Su presencia en las rondas finales de las elecciones permite que el establishment invoque el "Frente Republicano" contra el "fascismo", obligando a la población a votar por el status quo por miedo. Sin Le Pen para asustar al votante de centro, Macron no podría sostener su agenda de reformas de Tier A.
 *   **Sometimiento Financiero:** Aislada por los bancos franceses, Le Pen recurrió a préstamos de bancos rusos y checo-rusos. Esto la sitúa en una posición de vulnerabilidad y dependencia de otros actores de Tier A (como el Kremlin), convirtiéndola en una pieza de cambio en la geopolítica europea entre Washington y Moscú, más que en una líder soberana independiente.
 
@@ -38,7 +38,7 @@ Marine Le Pen es el "Límite de Seguridad" de la política francesa. Representa 
 
 ## Fuentes
 - Biografía: "Marine Le Pen" por Caroline Fourest.
-- Análisis electoral de la Fondation Jean-JaurÃ¨s sobre la "desdiabolización".
+- Análisis electoral de la Fondation Jean-Jaurès sobre la "desdiabolización".
 - Documentación de los préstamos rusos al FN (Investigación Mediapart).
 
 

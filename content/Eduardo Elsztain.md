@@ -34,7 +34,7 @@ publish: true
 - [[IRSA / Cresud]] (Sus naves insignias comerciales)
 
 ## Fuentes
-- Horacio Verbitsky: "La Educación Ã‰tica" (Investigaciones sobre IRSA y Banco Hipotecario).
+- Horacio Verbitsky: "La Educación Ética" (Investigaciones sobre IRSA y Banco Hipotecario).
 - Reportes anuales de Cresud ante la SEC (NYSE).
 - Crónicas periodísticas sobre el Hotel Libertador como búnker de Milei.
 

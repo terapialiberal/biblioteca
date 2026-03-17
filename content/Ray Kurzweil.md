@@ -19,7 +19,7 @@ publish: true
 *   **El Guardián del Algoritmo en Google:** Su posición en Google le permite dirigir los recursos del motor de búsqueda más poderoso del mundo hacia el procesamiento de lenguaje natural y la creación de redes neuronales que imiten y finalmente superen el cerebro humano. Bajo su mando, la tecnología deja de ser una herramienta para convertirse en un **Reemplazo Biológico**.
 
 ### Tier A (La Dinastía De La Eternidad Digital)
-*   **La Inmortalidad para la Ã‰lite:** Mientras que para el Tier C el transhumanismo promete "mejoras" cosméticas, para el Tier A representa la posibilidad técnica de la **Soberanía Biográfica Eterna**. Kurzweil es el nexo que une las ambiciones de los fundadores de Google (**[[Larry Page]]**, Sergey Brin) con la infraestructura técnica necesaria para una casta de seres que ya no dependan de la finitud biológica, consolidando un nivel de poder que es, literalmente, divino y permanente.
+*   **La Inmortalidad para la Élite:** Mientras que para el Tier C el transhumanismo promete "mejoras" cosméticas, para el Tier A representa la posibilidad técnica de la **Soberanía Biográfica Eterna**. Kurzweil es el nexo que une las ambiciones de los fundadores de Google (**[[Larry Page]]**, Sergey Brin) con la infraestructura técnica necesaria para una casta de seres que ya no dependan de la finitud biológica, consolidando un nivel de poder que es, literalmente, divino y permanente.
 
 ## ¸ Mecanisms De Poder (Ideológicos)
 

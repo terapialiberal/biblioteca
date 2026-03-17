@@ -7,7 +7,7 @@ tags: [clasificado-ai]
 publish: true
 ---
 ﻿---
-titulo: IoT Y Animismo TÃ©cnico
+titulo: IoT Y Animismo Técnico
 tipo: "concepto"
 fecha: 2026-02-25
 tags: [animismo, tcnico]
@@ -16,14 +16,14 @@ nivel-evidencia: "medio"
 publish: true
 ---
 
-# IoT Y Animismo TÃ©cnico
+# IoT Y Animismo Técnico
 
-> [!ABSTRACT] HipÃ³tesis Informativa
+> [!ABSTRACT] Hipótesis Informativa
 > Nodo perteneciente a la Matrix de Simbolismo y Esoterismo TL V.2.
 
-## AnÃ¡lisis De Tiers
+## Análisis De Tiers
 *En desarrollo...*
 
 ## Cui Bono
-*Pendiente de anÃ¡lisis forense.*
+*Pendiente de análisis forense.*
 

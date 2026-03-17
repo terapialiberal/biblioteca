@@ -22,7 +22,7 @@ publish: true
 * **Captura de Empresas Públicas:** Durante el gobierno de Alfonsín, los miembros de la Coordinadora ocuparon puestos clave en la gestión de servicios públicos y comunicaciones. Su función de Tier B fue utilizar estos recursos para construir una base de poder territorial y mediático, a menudo priorizando la "caja" política sobre la eficiencia del servicio. Este proceso de vaciamiento deliberado (o por ineptitud técnica) fue el pretexto perfecto utilizado por el Tier A en la década siguiente para justificar la ola de privatizaciones de los años 90.
 * **Operación y Lawfare Primitivo:** La Coordinadora perfeccionó el manejo de la Justicia Federal y la Inteligencia (ex-SIDE). Establecieron los cimientos de la red de influencias en **Comodoro Py**, garantizando que el personal político de Tier B tuviera siempre una salida de emergencia legal ante las denuncias sociales del Tier C.
 
-### Tier C: La Población En La Ilusión De La Democracia Ã‰tica
+### Tier C: La Población En La Ilusión De La Democracia Ética
 * **La Captura del Idealismo:** El Tier C juvenil de los años 80 vio en la Coordinadora un modelo de renovación y "vida democrática". El sistema utilizó esta energía para canalizar el descontento de la post-dictadura hacia canales burocráticos y electorales. El ciudadano de Tier C fue inducido a creer que estaba participando de una revolución ética, mientras la Coordinadora consolidaba el sistema de prebendas y privilegios que hoy definimos como "la casta". El Tier C terminó sufriendo el hiperinflación y el fracaso económico, mientras los cuadros de la Coordinadora quedaban instalados permanentemente en los resortes de la estructura estatal argentina.
 
 ## ¸ Mecanismos De Poder

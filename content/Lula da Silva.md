@@ -23,7 +23,7 @@ publish: true
 
 
 ## âš¡ Conclusión De Terapia Liberal
-Lula es la prueba de que en el siglo XXI la "izquierda" y la "derecha" son etiquetas de marketing. Ã‰l no sirve al pueblo brasileño; sirve a la **Agenda de Sostenibilidad Global**. Su resurrección política fue una operación de inteligencia para remover a un obstáculo indómito (Bolsonaro) y restaurar la sincronización de Brasil con las metas de **Tier A**.
+Lula es la prueba de que en el siglo XXI la "izquierda" y la "derecha" son etiquetas de marketing. Él no sirve al pueblo brasileño; sirve a la **Agenda de Sostenibilidad Global**. Su resurrección política fue una operación de inteligencia para remover a un obstáculo indómito (Bolsonaro) y restaurar la sincronización de Brasil con las metas de **Tier A**.
 
 ---
 

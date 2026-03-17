@@ -7,7 +7,7 @@ tags: [clasificado-ai]
 publish: true
 ---
 ﻿---
-titulo: IngenierÃ­a De Realidad (AR/VR)
+titulo: Ingeniería De Realidad (AR/VR)
 tipo: "concepto"
 fecha: 2026-02-25
 tags: [ingeniera, realidad]
@@ -16,14 +16,14 @@ nivel-evidencia: "medio"
 publish: true
 ---
 
-# IngenierÃ­a De Realidad (AR/VR)
+# Ingeniería De Realidad (AR/VR)
 
-> [!ABSTRACT] HipÃ³tesis Informativa
+> [!ABSTRACT] Hipótesis Informativa
 > Nodo perteneciente a la Matrix de Simbolismo y Esoterismo TL V.2.
 
-## AnÃ¡lisis De Tiers
+## Análisis De Tiers
 *En desarrollo...*
 
 ## Cui Bono
-*Pendiente de anÃ¡lisis forense.*
+*Pendiente de análisis forense.*
 

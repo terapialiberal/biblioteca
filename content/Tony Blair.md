@@ -18,7 +18,7 @@ publish: true
 # Tony Blair (TL V.2): El Consigliere De La Gobernanza Transnacional
 
 > [!ABSTRACT] Hiptesis Informativa
-> Tony Blair no es un ex-poltico retirado, sino el **operador de campo definitivo del [[Tier A]] globalista**. Como miembro del Board del **[[World Economic Forum (WEF)]]** y fundador del Tony Blair Institute (TBI), Blair acta como el puente entre el capital sistmico de Davos y la reconfiguracin territorial de zonas en conflicto. Su funcin histrica reciente ha sido legitimar la limpieza tnica y la captura de recursos mediante narrativas de "estabilizacin econmica", siendo el arquitecto principal â€”bajo encargo de **[[Jared Kushner]]**â€” del plan para transformar Gaza en un hub logstico privado (IMEC), borrando la soberana nativa en favor de la rentabilidad corporativa transnacional.
+> Tony Blair no es un ex-poltico retirado, sino el **operador de campo definitivo del [[Tier A]] globalista**. Como miembro del Board del **[[World Economic Forum (WEF)]]** y fundador del Tony Blair Institute (TBI), Blair acta como el puente entre el capital sistmico de Davos y la reconfiguracin territorial de zonas en conflicto. Su funcin histrica reciente ha sido legitimar la limpieza tnica y la captura de recursos mediante narrativas de "estabilizacin econmica", siendo el arquitecto principal —bajo encargo de **[[Jared Kushner]]**— del plan para transformar Gaza en un hub logstico privado (IMEC), borrando la soberana nativa en favor de la rentabilidad corporativa transnacional.
 
 ## Anlisis De Tiers
 

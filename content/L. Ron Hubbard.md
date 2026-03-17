@@ -39,7 +39,7 @@ publish: true
 - [[Sea Org]]: El brazo paramilitar que asegura la continuidad del mando de Hubbard.
 
 ## Conclusión Del Análisis
-L. Ron Hubbard fue el **"Stalin de la Ciencia Ficción"**. Su genialidad residió en comprender que en la era de la información, el Dios que posee tus secretos es el Dios que posee tu vida. Hubbard no fundó una fe; fundó un **software de gestión humana** que sobrevive mediante el miedo y el chantaje estructurado. Entender a Hubbard es comprender que la línea entre la "espiritualidad" y la "inteligencia" es porosa en los niveles altos del poder. Ã‰l es el recordatorio de que quien domina la tecnología de la confesión domina la realidad subjetiva de la masa. Para el Tier C, él es un salvador; para el Tier A, fue un **experto en guerra psicológica** que demostró que el hombre moderno está dispuesto a pagar por su propia esclavitud si esta viene empaquetada como "progreso espiritual".
+L. Ron Hubbard fue el **"Stalin de la Ciencia Ficción"**. Su genialidad residió en comprender que en la era de la información, el Dios que posee tus secretos es el Dios que posee tu vida. Hubbard no fundó una fe; fundó un **software de gestión humana** que sobrevive mediante el miedo y el chantaje estructurado. Entender a Hubbard es comprender que la línea entre la "espiritualidad" y la "inteligencia" es porosa en los niveles altos del poder. Él es el recordatorio de que quien domina la tecnología de la confesión domina la realidad subjetiva de la masa. Para el Tier C, él es un salvador; para el Tier A, fue un **experto en guerra psicológica** que demostró que el hombre moderno está dispuesto a pagar por su propia esclavitud si esta viene empaquetada como "progreso espiritual".
 
 ---
 **Versión:** 2.0

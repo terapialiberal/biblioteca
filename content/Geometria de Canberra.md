@@ -7,7 +7,7 @@ tags: [clasificado-ai]
 publish: true
 ---
 ﻿---
-titulo: GeometrÃ­a De Canberra
+titulo: Geometría De Canberra
 tipo: "concepto"
 fecha: 2026-02-25
 tags: [canberra, geometra]
@@ -16,14 +16,14 @@ nivel-evidencia: "medio"
 publish: true
 ---
 
-# GeometrÃ­a De Canberra
+# Geometría De Canberra
 
-> [!ABSTRACT] HipÃ³tesis Informativa
+> [!ABSTRACT] Hipótesis Informativa
 > Nodo perteneciente a la Matrix de Simbolismo y Esoterismo TL V.2.
 
-## AnÃ¡lisis De Tiers
+## Análisis De Tiers
 *En desarrollo...*
 
 ## Cui Bono
-*Pendiente de anÃ¡lisis forense.*
+*Pendiente de análisis forense.*
 

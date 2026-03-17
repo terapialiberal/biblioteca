@@ -33,7 +33,7 @@ Sabra y Shatila nos muestra que el silencio de los radares y de las luces de gua
 - [[Ariel Sharon]]
 - [[Invasión del Líbano 1982]]
 - [[OLP (Organización para la Liberación de Palestina)]]
-- [[Limpieza Ã‰tnica]]
+- [[Limpieza Étnica]]
 - [[Cascos Azules (Fracaso)]]
 
 ## Fuentes

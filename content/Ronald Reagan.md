@@ -10,7 +10,7 @@ publish: true
 # Ronald Reagan (TL V.2): El Rostro Amigable De La Reingeniería Estructural
 
 > [!ABSTRACT] Hipótesis Informativa
-> Ronald Reagan fue el **Operador de [[Tier A]]** que transformó la política americana en un espectáculo de optimismo escénico para ocultar la demolición del contrato social y el nacimiento del **[[Tecnofeudalismo]]** moderno. Como el "Gran Comunicador", Reagan utilizó sus habilidades de actor para vender la **Revolución Neoliberal** (Reaganomics) al **[[Tier C]]**, mientras en la sombra expandía el poder del Complejo Militar-Industrial y la CIA. Su función real fue la de un **"Agente de Transición de Ã‰poca"**: desmantelar la soberanía económica de la clase media para favorecer el ascenso de la aristocracia financiera global, utilizando la Guerra Fría como la cobertura narrativa perfecta para este trasvase masivo de riqueza.
+> Ronald Reagan fue el **Operador de [[Tier A]]** que transformó la política americana en un espectáculo de optimismo escénico para ocultar la demolición del contrato social y el nacimiento del **[[Tecnofeudalismo]]** moderno. Como el "Gran Comunicador", Reagan utilizó sus habilidades de actor para vender la **Revolución Neoliberal** (Reaganomics) al **[[Tier C]]**, mientras en la sombra expandía el poder del Complejo Militar-Industrial y la CIA. Su función real fue la de un **"Agente de Transición de Época"**: desmantelar la soberanía económica de la clase media para favorecer el ascenso de la aristocracia financiera global, utilizando la Guerra Fría como la cobertura narrativa perfecta para este trasvase masivo de riqueza.
 
 ## Análisis De Tiers
 

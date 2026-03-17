@@ -14,7 +14,7 @@ publish: true
 
 ## Análisis De Tiers
 
-### Tier A: Los Curadores De La Soberanía Ã‰tnica
+### Tier A: Los Curadores De La Soberanía Étnica
 *   **La Fusión Crimen-Estado:** El Mega Group es la evolución corporativa de la antigua "Kosher Nostra" (Meyer Lansky). Las familias fundadoras (Bronfman, Wexner, Lauder, Spielberg) entendieron que para proteger a Israel y su propio poder, necesitaban una red de influencia que superara al lobby tradicional (AIPAC). El Tier A diseñó este grupo para operar por encima de la ley, utilizando sus imperios comerciales (L Brands, Seagram, Hollywood) como cobertura para operaciones de inteligencia estratégica.
 *   **El Financiamiento de la "Trampa de Miel":** No fue un accidente que Epstein fuera el apoderado financiero del cofundador Wexner. El Mega Group requería un mecanismo de control sobre los políticos gentiles (Goiyim) de Tier B. La red de Epstein fue ese mecanismo: una operación de Kompromat industrial financiada por los miembros más respetables de la lista Forbes.
 
@@ -45,7 +45,7 @@ El Mega Group es la **"Junta Directiva del Estado Profundo Sionista"**. No es un
 ---
 **Versión:** 2.0
 **Enfoque:** Origen en la fusión Bronfman-Wexner, rol como incubadora de la operación Epstein, nexo con el Mossad y uso de la filantropía como cobertura para operaciones de inteligencia.
-**Estado:** Refactoreado a TL V.2 - Framework de Crimen Organizado de Ã‰lite.
+**Estado:** Refactoreado a TL V.2 - Framework de Crimen Organizado de Élite.
 
 
 

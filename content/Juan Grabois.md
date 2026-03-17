@@ -27,7 +27,7 @@ publish: true
 
 ## ¸ Mecanismos De Poder
 
-1. **Gestión de la Culpa de las Ã‰lites**: El uso del lenguaje religioso y moral para extraer concesiones presupuestarias del Tier B político y empresarial, presentándose como el único interlocutor capaz de evitar el "estallido social".
+1. **Gestión de la Culpa de las Élites**: El uso del lenguaje religioso y moral para extraer concesiones presupuestarias del Tier B político y empresarial, presentándose como el único interlocutor capaz de evitar el "estallido social".
 2. **Sindicalismo de la Exclusión**: La creación de estructuras gremiales (UTEP) para personas fuera del mercado laboral, transformando la inactividad económica en una fuerza de choque política organizada.
 3. **Validación Transnacional**: El uso de su posición en el Vaticano para blindarse de investigaciones judiciales locales, elevando cualquier conflicto doméstico a la categoría de "persecución del defensor de los pobres".
 
@@ -39,7 +39,7 @@ publish: true
 - [[Agenda 2030]]: El marco global donde sus propuestas de "economía circular" y "decrecimiento" cobran sentido estratégico.
 
 ## Conclusión Del Análisis
-Juan Grabois es el **"Garante de la Pobreza Sustentable"**. Su importancia reside en haber entendido que el futuro del control social no está en la mayoría empleada, sino en la minoría excluida. Grabois es el capataz que el Tier A necesita para que el corral de la pobreza esté ordenado, censado y bajo la bendición papal. Ã‰l no lucha para eliminar la pobreza, lucha para **gobernarla**. Entender a Grabois es comprender que la "revolución" de Tier B es el nuevo contrato de alquiler que la élite le ofrece a los que ya no tienen nada, a cambio de su alma política y su presencia en la calle. Es el "Che Guevara" con oficina en el Vaticano.
+Juan Grabois es el **"Garante de la Pobreza Sustentable"**. Su importancia reside en haber entendido que el futuro del control social no está en la mayoría empleada, sino en la minoría excluida. Grabois es el capataz que el Tier A necesita para que el corral de la pobreza esté ordenado, censado y bajo la bendición papal. Él no lucha para eliminar la pobreza, lucha para **gobernarla**. Entender a Grabois es comprender que la "revolución" de Tier B es el nuevo contrato de alquiler que la élite le ofrece a los que ya no tienen nada, a cambio de su alma política y su presencia en la calle. Es el "Che Guevara" con oficina en el Vaticano.
 
 ---
 **Versión:** 2.0

@@ -1,13 +1,12 @@
 ---
 publish: true
 created: 2026-01-29T19:17:02.638-03:00
-modified: 2026-02-27T13:21:56.798-03:00
+modified: 2026-02-27T13:22:04.271-03:00
 tags:
   - bombings
   - guerra
   - london
   - tony
-cssclasses: ""
 ---
 
 # 7/7 London Bombings

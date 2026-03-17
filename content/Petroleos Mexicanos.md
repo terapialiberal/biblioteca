@@ -10,7 +10,7 @@ publish: true
 # Petróleos Mexicanos (TL V.2): El Saqueo Institucionalizado
 
 > [!ABSTRACT] Hipótesis Informativa
-> Petróleos Mexicanos (Pemex) es la **Caja de Resonancia del [[Tier B]] corrupto en México**, donde la soberanía energética ha sido sacrificada para alimentar el financiamiento de campañas políticas y el crecimiento del crimen organizado. Lejos de ser un orgullo nacional, Pemex opera como una estructura de **Extracción de Renta para la Ã‰lite**, donde el "Huachicoleo" (robo de combustible) es una operación simbiótica entre los cárteles y los empleados de confianza de la empresa, permitiendo que la Matrix del narcotráfico se financie directamente del activo más importante del Estado.
+> Petróleos Mexicanos (Pemex) es la **Caja de Resonancia del [[Tier B]] corrupto en México**, donde la soberanía energética ha sido sacrificada para alimentar el financiamiento de campañas políticas y el crecimiento del crimen organizado. Lejos de ser un orgullo nacional, Pemex opera como una estructura de **Extracción de Renta para la Élite**, donde el "Huachicoleo" (robo de combustible) es una operación simbiótica entre los cárteles y los empleados de confianza de la empresa, permitiendo que la Matrix del narcotráfico se financie directamente del activo más importante del Estado.
 
 ## Análisis De Tiers
 

@@ -21,7 +21,7 @@ publish: true
 *   **[[Escuela de Frankfurt]]:** Aunque la URSS cayó, el "software" de desmoralización que plantaron sigue ejecutándose en las universidades occidentales.
 
 ## Puntos Clave
-*   **Idiotas Ãštiles:** Explicó que los activistas de izquierda serían los primeros en set eliminados por el nuevo régimen totalitario, pues ya no sirven y son incontrolables.
+*   **Idiotas Útiles:** Explicó que los activistas de izquierda serían los primeros en set eliminados por el nuevo régimen totalitario, pues ya no sirven y son incontrolables.
 *   **Predicción:** Describió con precisión el estado actual de la cultura "Woke" décadas antes.
 
 ## Conexiones

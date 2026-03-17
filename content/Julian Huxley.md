@@ -39,7 +39,7 @@ publish: true
 - [[Transhumanismo]]: Su proyecto de superación de la biología humana mediante la técnica.
 
 ## Conclusión Del Análisis
-Julian Huxley fue el **"Jardinero del Planeta"** desde la perspectiva de la élite. Su vida es la prueba de que el Tier A no piensa en años, sino en etapas evolutivas. Huxley nos dejó una red de instituciones que hoy deciden qué comemos, cómo nos educamos y quién tiene derecho a reproducirse, todo bajo el sello de la "ciencia y la paz". Entender a Huxley es comprender que el "Progreso" que nos venden es el **diseño de nuestra propia obsolescencia biológica**. Ã‰l fue quien tradujo el horror de los laboratorios nazis al lenguaje refinado de la diplomacia internacional. Julian Huxley no quería salvar a la humanidad; quería **editarla**.
+Julian Huxley fue el **"Jardinero del Planeta"** desde la perspectiva de la élite. Su vida es la prueba de que el Tier A no piensa en años, sino en etapas evolutivas. Huxley nos dejó una red de instituciones que hoy deciden qué comemos, cómo nos educamos y quién tiene derecho a reproducirse, todo bajo el sello de la "ciencia y la paz". Entender a Huxley es comprender que el "Progreso" que nos venden es el **diseño de nuestra propia obsolescencia biológica**. Él fue quien tradujo el horror de los laboratorios nazis al lenguaje refinado de la diplomacia internacional. Julian Huxley no quería salvar a la humanidad; quería **editarla**.
 
 ---
 **Versión:** 2.0

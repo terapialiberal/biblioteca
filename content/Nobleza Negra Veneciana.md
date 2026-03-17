@@ -16,7 +16,7 @@ publish: true
 
 ### Tier A (La Oligarquía Eterna)
 *   **La Invención de la Deuda Soberana:** Estas familias (los Welf/Guelphs) perfeccionaron el arte de prestar dinero a reyes para luego cobrar el interés mediante el control de la recaudación fiscal de naciones enteras. No son empresarios; son **Cobradores de Peaje de la Historia**. Su poder no reside en lo que poseen, sino en el sistema de leyes (Derecho Marítimo/Comercial) que diseñaron para que la riqueza siempre fluya hacia sus "Trusts" perpetuos.
-*   **El Modelo del Doge:** La estructura de Venecia â€”un consejo de familias cerradas que operan detrás de una fachada republicanaâ€” es el prototipo del **Gobierno Global** actual. Instituciones como el WEF o el BIS son simplemente la evolución arquitectónica de los palacios venecianos donde se decidía el destino de los pueblos mediante el cálculo del interés y la manipulación de la moneda.
+*   **El Modelo del Doge:** La estructura de Venecia —un consejo de familias cerradas que operan detrás de una fachada republicana— es el prototipo del **Gobierno Global** actual. Instituciones como el WEF o el BIS son simplemente la evolución arquitectónica de los palacios venecianos donde se decidía el destino de los pueblos mediante el cálculo del interés y la manipulación de la moneda.
 
 ### Tier B (La Gestión Del "Conflicto Controlado")
 *   **Gelfos vs. Gibelinos:** La Nobleza Negra es maestra en la **Dialéctica de la Tensión**. Durante siglos han dividido a la humanidad en facciones que ellos mismos financian (como la actual izquierda/derecha). Este sistema asegura que el Tier C nunca identifique al verdadero enemigo (el Tier A dinástico) mientras se agota peleando por las migajas del poder administrativo.

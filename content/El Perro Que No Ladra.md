@@ -17,7 +17,7 @@ publish: true
 ## Metodología De Aplicación (Tiers)
 
 ### Tier A (Los Dueños Del Silencio)
-*   **Ã“rdenes de No-Publicación (D-Notices):** El Tier A utiliza mecanismos legales o presiones directas sobre los dueños de los medios para asegurar que ciertos temas nunca lleguen al público. Cuando un tema desaparece simultáneamente de todos los titulares, se está activando el control de Tier A.
+*   **Órdenes de No-Publicación (D-Notices):** El Tier A utiliza mecanismos legales o presiones directas sobre los dueños de los medios para asegurar que ciertos temas nunca lleguen al público. Cuando un tema desaparece simultáneamente de todos los titulares, se está activando el control de Tier A.
 *   **MAD (Destrucción Mutua Asegurada) Política:** A veces, el perro no ladra porque ambos bandos tienen pruebas devastadoras el uno del otro. El silencio coordinado entre oponentes políticos sobre un escándalo obvio es la prueba de este pacto de impunidad.
 
 ### Tier B (Operadores / Los Censores De Guante Blanco)

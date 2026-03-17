@@ -17,7 +17,7 @@ publish: true
 ## Análisis De Poder (Tiers)
 
 ### Tier A (Arquitecto / Propietario)
-*   Fauci no es Tier A. Ã‰l responde a los intereses del complejo farmacéutico y de fundaciones como la de [[Bill Gates]]. Es un tecnócrata de alto nivel con protección política total.
+*   Fauci no es Tier A. Él responde a los intereses del complejo farmacéutico y de fundaciones como la de [[Bill Gates]]. Es un tecnócrata de alto nivel con protección política total.
 
 ### Tier B (Operador / Gestor)
 *   **Gatekeeper Científico:** Durante décadas, controló miles de millones en becas de investigación, lo que le permitió moldear el consenso académico a su antojo.

@@ -20,7 +20,7 @@ publish: true
 *   **Captura de Talento:** El Tier A (Google, Microsoft, Meta) absorbió a Hinton y a sus discípulos (como **Ilya Sutskever**) para convertir la investigación académica en herramientas de control comercial y militar. El Tier A utiliza ahora el "miedo a la IA" que Hinton propaga para pedir regulaciones que impidan que el Tier C (desarrolladores independientes/Open Source) pueda competir.
 *   **El Oráculo de Google:** Hinton operó durante una década desde el corazón de Google (Tier A), construyendo las herramientas de procesamiento de lenguaje que hoy permiten la censura algorítmica y la vigilancia predictiva masiva.
 
-### Tier B (Operadores / La Ã‰lite De La IA)
+### Tier B (Operadores / La Élite De La IA)
 *   **Diseño de Redes Neuronales:** Hinton es el arquitecto del "software del futuro". Su trabajo es la base técnica que permite al Tier B tecnológico predecir y moldear el comportamiento del Tier C con una precisión inquietante.
 *   **La Voz del Remordimiento:** Hinton actúa como la conciencia de Tier B, un "Oppenheimer de la IA" que, tras entregar el fuego a la élite, se da cuenta de que no hay forma de apagarlo.
 

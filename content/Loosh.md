@@ -30,7 +30,7 @@ El Loosh es lo que queda cuando las explicaciones económicas se quedan cortas. 
 ## Conexiones De La Red
 - **El Origen:** [[Robert Monroe]] (Monroe Institute).
 - **Mecanismos:** [[Loops de Dopamina]], [[Guerra de Cuarta Generación]], [[Sacrificio Ritual]].
-- **Entidades:** [[Arcontes (Teoría)]], [[Ã‰lites Psicopáticas]].
+- **Entidades:** [[Arcontes (Teoría)]], [[Élites Psicopáticas]].
 - **Conceptos:** [[Demiurgo]], [[Frecuencias de Solfeggio]] (Antídoto).
 
 **Estado:** Refactoreado a TL V.2 - Framework Metafísico Aplicado.

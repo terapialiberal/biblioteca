@@ -16,7 +16,7 @@ publish: true
 
 ## Análisis (Tiers)
 
-### Tier A (La Ã‰tica Del Algoritmo)
+### Tier A (La Ética Del Algoritmo)
 *   **Optimización del Caos:** McKinsey ha sido señalada por trabajar simultáneamente para reguladores y regulados. En la **Crisis de los Opioides**, asesoró a **[[Purdue Pharma]]** sobre cómo "producir de forma turbo" las ventas de OxyContin, mientras asesoraba a la FDA. Su lealtad no es hacia la salud pública, sino hacia la eficiencia de la extracción de beneficios, sin importar el coste humano (en este caso, cientos de miles de muertos).
 *   **Asesor de Dictaduras:** McKinsey es el cerebro detrás de "Vision 2030" en Arabia Saudita y ha trabajado intensamente para el gobierno chino, demostrando que para Tier A, la ideología política es irrelevante frente a la eficiencia del control tecnocrático.
 

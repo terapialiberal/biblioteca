@@ -25,7 +25,7 @@ publish: true
 *   **Uso del Título:** El prefijo "Experto", "Doctor" o "Premio Nobel" actúa como un halo lingüístico que cierra el debate crítico. Si lo dice alguien con el halo de la academia, el Tier C lo acepta como verdad absoluta.
 
 ### Tier C (Narrativa Pública)
-*   "Ã‰l parece una buena persona". "Habla con mucha seguridad". La narrativa superficial que confunde la forma con el fondo, permitiendo que el carisma actúe como un pase libre para la manipulación.
+*   "Él parece una buena persona". "Habla con mucha seguridad". La narrativa superficial que confunde la forma con el fondo, permitiendo que el carisma actúe como un pase libre para la manipulación.
 
 ## Conexiones Clave
 - [[Edward Bernays]] (Quien industrializó este sesgo)

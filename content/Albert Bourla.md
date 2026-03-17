@@ -17,7 +17,7 @@ tags: [albert, blackrock, bourla, pfizer]
 ## Análisis De Poder (Tiers)
 
 ### Tier A (Arquitecto / Propietario)
-*   Bourla no es Tier A. Ã‰l responde a los principales accionistas de [[Pfizer]]: [[BlackRock]], [[Vanguard]] y State Street.
+*   Bourla no es Tier A. Él responde a los principales accionistas de [[Pfizer]]: [[BlackRock]], [[Vanguard]] y State Street.
 
 ### Tier B (Operador / Gestor)
 *   **Gestión de Crisis:** Lideró la implementación de la tecnología de ARNm a escala global.

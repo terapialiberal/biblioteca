@@ -27,7 +27,7 @@ Revela que el poder real opera en la sombra, más allá de la moralidad burguesa
 
 ### Tier A (El Círculo Interno)
 - **Máscaras:** Simbolizan que en esos rituales, las identidades mundanas (médico, político) desaparecen y operan como arquetipos o entidades.
-- **Rothschild:** La mansión usada (Mentmore Towers) perteneció a los Rothschild. La fiesta de máscaras surrealista de 1972 de Marie-HélÃ¨ne de Rothschild es la referencia visual directa.
+- **Rothschild:** La mansión usada (Mentmore Towers) perteneció a los Rothschild. La fiesta de máscaras surrealista de 1972 de Marie-Hélène de Rothschild es la referencia visual directa.
 
 ### Tier B (Operativa)
 - **Password:** "Fidelio" (Fiel). Referencia a la ópera de Beethoven sobre libertad política y esposas que salvan esposos.

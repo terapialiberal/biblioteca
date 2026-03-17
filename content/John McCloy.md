@@ -28,7 +28,7 @@ publish: true
 ## ¸ Mecanismos De Poder
 
 1. **Lawfare de Encubrimiento**: La creación de comisiones "independientes" para investigar crímenes del Estado, cuyo objetivo real es sellar los archivos y proporcionar un cierre narrativo falso.
-2. **Puerta Giratoria de Ã‰lite**: El paso constante entre la banca, las fundaciones benéficas y los altos cargos gubernamentales, eliminando cualquier separación entre el interés público y el capital monopolístico.
+2. **Puerta Giratoria de Élite**: El paso constante entre la banca, las fundaciones benéficas y los altos cargos gubernamentales, eliminando cualquier separación entre el interés público y el capital monopolístico.
 3. **Manejo del Perdón Estratégico**: El uso del poder de indulto para recuperar activos humanos valiosos para el sistema (ej. científicos y espías de regímenes enemigos) bajo el pretexto de la seguridad nacional.
 
 ## Conexiones Críticas

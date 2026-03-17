@@ -39,7 +39,7 @@ publish: true
 - [[Claude Shannon]]: Quién cuantificó la información, permitiendo que el Tier A la tratara como un recurso extraíble.
 
 ## Conclusión Del Análisis
-Norbert Wiener fue el genio que nos dio el mapa de nuestra prisión, pero también el visionario que advirtió sobre el **"Uso Humano de los Seres Humanos"**. Ã‰l sabía que si la cibernética caía en manos de quienes solo buscan el control, el hombre dejaría de ser un fin en sí mismo para convertirse en una pieza de repuesto de una megamáquina planetaria. Hoy vivimos en el mundo que Wiener predijo: un sistema de retroalimentación perfecta donde el Tier A nos susurra al oído lo que queremos escuchar para que nunca dejemos de alimentar a la máquina con nuestros datos y nuestras vidas.
+Norbert Wiener fue el genio que nos dio el mapa de nuestra prisión, pero también el visionario que advirtió sobre el **"Uso Humano de los Seres Humanos"**. Él sabía que si la cibernética caía en manos de quienes solo buscan el control, el hombre dejaría de ser un fin en sí mismo para convertirse en una pieza de repuesto de una megamáquina planetaria. Hoy vivimos en el mundo que Wiener predijo: un sistema de retroalimentación perfecta donde el Tier A nos susurra al oído lo que queremos escuchar para que nunca dejemos de alimentar a la máquina con nuestros datos y nuestras vidas.
 
 ---
 **Versión:** 2.0

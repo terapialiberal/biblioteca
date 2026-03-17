@@ -18,7 +18,7 @@ publish: true
 *   **La Herencia de [[Operación Paperclip]]:** Monarch no es una "teoría", es la continuación técnica de los experimentos de Josef Mengele en los campos de concentración. Importado a EE.UU. por la CIA, el Tier A utiliza el Monarch para asegurar la **Lealtad Absoluta** en los niveles operativos. Los esclavos Monarch ocupan posiciones clave en la industria del entretenimiento y el servicio personal de los políticos, actuando como puentes de información y chantaje que nunca "hablarán" porque sus "alters" conscientes ignoran lo que sus "alters" de servicio realizan.
 *   **El Simbolismo de la Mariposa:** El nombre "Monarch" no es aleatorio; refiere a la metamorfosis de la mariposa y a la capacidad de la memoria genética (migración). El Tier A utiliza este simbolismo en la cultura pop para marcar sus "propiedades" ante otros iniciados, normalizando la estética de la fragmentación mental en el **[[Tier C]]**.
 
-### Tier B (Los Esclavos De La Ã‰lite)
+### Tier B (Los Esclavos De La Élite)
 *   **La Anatomía de un Alter:** El Tier B operativo se divide en funciones programadas:
     *   **Alpha/Beta (Sex Kittens):** Utilizadas para el control y chantaje de diplomáticos y celebridades (**[[Jeffrey Epstein]]**).
     *   **Delta/Theta (Asesinos):** Programados para la eliminación de objetivos sin rastro de culpa o memoria consciente, activados mediante señales visuales o auditivas.

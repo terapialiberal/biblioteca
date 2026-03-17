@@ -1,5 +1,5 @@
 ---
-titulo: "Revolución De Octubre 1917 (TL V.2): El Experimento De La Ã‰lite Financiera"
+titulo: "Revolución De Octubre 1917 (TL V.2): El Experimento De La Élite Financiera"
 tipo: "evento"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [antony, experimento, financiera, octubre]
 publish: true
 ---
-# Revolución De Octubre 1917 (TL V.2): El Experimento De La Ã‰lite Financiera
+# Revolución De Octubre 1917 (TL V.2): El Experimento De La Élite Financiera
 
 > [!ABSTRACT] Hipótesis Informativa
 > La Revolución de Octubre no fue una rebelión proletaria espontánea, sino un **Golpe de Estado de [[Tier B]]** financiado y dirigido por los centros de poder de **[[Tier A]]** en Nueva York y Londres. Bajo la dirección de Lenin y Trotsky, los bolcheviques capturaron Rusia para convertirla en un laboratorio de colectivismo forzado. Su función real fue **Neutralizar a Rusia como Competidor Soberano**, destruyendo su estructura tradicional y entregando sus inmensos recursos naturales a concesiones occidentales, mientras se creaba un "Enemigo Dialéctico" necesario para justificar la expansión del complejo militar-industrial global durante el siglo XX.

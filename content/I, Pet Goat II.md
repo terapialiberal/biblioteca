@@ -22,7 +22,7 @@ publish: true
 
 ### Tier B (Operadores / El Artista Como Canal)
 *   **Louis Lefebvre (Heliofant):** El operador de Tier B que actúa como canal. No importa si es consciente o no de la totalidad de la agenda; su trabajo comunica verdades herméticas y planes geopolíticos envueltos en una estética de "rebelión espiritual".
-*   **Descodificadores de Internet:** El Tier B de investigadores que analizan la obra cuadro por cuadro, actuando â€”a menudo involuntariamenteâ€” como los amplificadores de la propia narrativa de Tier A, dándole una pátina de "misterio prohibido".
+*   **Descodificadores de Internet:** El Tier B de investigadores que analizan la obra cuadro por cuadro, actuando —a menudo involuntariamente— como los amplificadores de la propia narrativa de Tier A, dándole una pátina de "misterio prohibido".
 
 ### Tier C (Narrativa Pública)
 *   "Un video de conspiración raro". "Arte visual impresionante". Narrativas de Tier C que se quedan en la superficie estética. El Tier C consume la obra sin entender que los símbolos que parpadean en su pantalla son las mismas marcas que el Tier A usa en su arquitectura, sus divisas y sus rituales de poder real.

@@ -39,7 +39,7 @@ publish: true
 - [[CIA / Mossad]]: El respaldo externo que le permitió a Stiuso ser el "intocable" de la política argentina.
 
 ## Conclusión Del Análisis
-Jaime Stiuso es el **Arquitecto de la Inseguridad Jurídica**. Su existencia es la prueba de que en Argentina la democracia es un teatro donde los actores de traje y corbata leen el guion escrito por los tipos de las sombras. Stiuso no fue un "espía malo", fue la **herramienta funcional de un sistema** que prefiere el chantaje a la ley. Aunque hoy esté en un semi-retiro, la "manera Stiuso" de hacer política â€”basada en el espionaje, la extorsión y la obediencia a mandantes extranjerosâ€” sigue siendo el sistema operativo de la cloaca del poder en Argentina.
+Jaime Stiuso es el **Arquitecto de la Inseguridad Jurídica**. Su existencia es la prueba de que en Argentina la democracia es un teatro donde los actores de traje y corbata leen el guion escrito por los tipos de las sombras. Stiuso no fue un "espía malo", fue la **herramienta funcional de un sistema** que prefiere el chantaje a la ley. Aunque hoy esté en un semi-retiro, la "manera Stiuso" de hacer política —basada en el espionaje, la extorsión y la obediencia a mandantes extranjeros— sigue siendo el sistema operativo de la cloaca del poder en Argentina.
 
 ---
 **Versión:** 2.0

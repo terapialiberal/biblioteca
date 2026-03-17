@@ -15,7 +15,7 @@ publish: true
 ## Análisis De Tiers
 
 ### Tier A: Los Curadores De La Continuidad (The Guardians of the Bunker)
-* **La Infraestructura de la Ã‰lite:** Para el Tier A, Leidos es el proveedor de confianza de la "Continuidad del Gobierno" (COG). Gestionan los búnkeres, los enlaces de comunicaciones satelitales encriptados y los protocolos de emergencia que aseguran que el poder real pueda seguir operando por encima de las ruinas de la civilización de [[Tier C]]. Leidos es el **"seguro de vida tecnológico"** del Tier A, garantizando que el mando y control nunca se pierda, independientemente de la volatilidad política o social.
+* **La Infraestructura de la Élite:** Para el Tier A, Leidos es el proveedor de confianza de la "Continuidad del Gobierno" (COG). Gestionan los búnkeres, los enlaces de comunicaciones satelitales encriptados y los protocolos de emergencia que aseguran que el poder real pueda seguir operando por encima de las ruinas de la civilización de [[Tier C]]. Leidos es el **"seguro de vida tecnológico"** del Tier A, garantizando que el mando y control nunca se pierda, independientemente de la volatilidad política o social.
 * **Privatización del Secreto:** Al delegar la inteligencia a Leidos, el Tier A asegura que el secreto de Estado se convierta en "secreto comercial", dificultando que filtraciones o pedidos de acceso a la información (FOIA) revelen las operaciones más oscuras del sistema.
 
 ### Tier B: Los Administradores Del "Cerebro" (SAIC Y La Puerta Giratoria)
@@ -30,7 +30,7 @@ publish: true
 
 1. **Gestión de Infraestructura Crítica de Datos**: El control físico de los centros de datos donde reside la memoria operativa del Estado Moderno (NSA/Pentágono).
 2. **Ingeniería de la Propagación del Miedo**: La creación de informes de "seguridad nacional" que justifican la expansión constante de presupuestos de Tier B para la implementación de mallas de vigilancia cada vez más densas.
-3. **Mantenimiento de Sistemas de Emergencia de Ã‰lite**: El diseño de redes de comunicación redundantes que aseguran la ventaja de información de Tier A mientras el resto de la red civil de Tier C puede ser apagada durante una crisis.
+3. **Mantenimiento de Sistemas de Emergencia de Élite**: El diseño de redes de comunicación redundantes que aseguran la ventaja de información de Tier A mientras el resto de la red civil de Tier C puede ser apagada durante una crisis.
 
 ## Conexiones Críticas
 - [[NSA]] (National Security Agency): Su cliente y simbiótico principal.

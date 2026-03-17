@@ -1,5 +1,5 @@
 ---
-titulo: "Johnny Gosch (TL V.2): El Peón En La Red De La Ã‰lite"
+titulo: "Johnny Gosch (TL V.2): El Peón En La Red De La Élite"
 tipo: "persona"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [escndalo, gosch, johnny, pen]
 publish: true
 ---
-# Johnny Gosch (TL V.2): El Peón En La Red De La Ã‰lite
+# Johnny Gosch (TL V.2): El Peón En La Red De La Élite
 
 > [!ABSTRACT] Hipótesis Informativa
 > El caso Johnny Gosch representa el **punto de intersección entre el secuestro sistémico y la extorsión de alto nivel del [[Tier A]]**. Su desaparición en 1982 no fue un acto criminal aislado, sino una operación de adquisición de "activos humanos" para una red de trata vinculada al [[Escándalo Franklin]]. Johnny Gosch es el rostro visible de un ecosistema donde el [[Tier B]] policial y judicial protege el suministro de menores para rituales de Kompromat (chantaje) y experimentación psicológica ([[Programación Monarch]]), asegurando la lealtad absoluta de la clase política y corporativa de Washington hacia sus mandantes superiores.
@@ -22,7 +22,7 @@ publish: true
 * **La Operación de Cobertura en Iowa y Nebraska:** El Tier B policial y el FBI sabotearon sistemáticamente la investigación de Noreen Gosch, ignorando fotos de Johnny amordazado y testimonios clave como el de **Paul Bonacci**. Su función es actuar como un cortafuegos que impide que el rastro de la trata llegue a las mansiones de los donantes políticos y los centros de poder en D.C.
 * **La Conexión de Washington (Craig Spence):** El lobbista **Craig Spence** (vinculado a fiestas sexuales en la Casa Blanca) actúa como el ejemplo de distribuidor de Tier B que conecta la oferta de "carne humana" del Midwest con la demanda de los operadores de la capital, bajo la protección tácita de las agencias de seguridad nacional.
 
-### Tier C: La Población En El Terror Ãštil
+### Tier C: La Población En El Terror Útil
 * **El Pánico a lo Desconocido:** Para el Tier C, la imagen de Johnny en los cartones de leche fue utilizada para inyectar un estado de pánico y dependencia hacia el Estado (el síndrome de "Stranger Danger"). El Tier C fue inducido a vigilar a sus vecinos, desviando la atención del hecho de que el peligro real residía en la estructura de poder supra-local. La narrativa del "niño perdido" es una herramienta de control emocional de Tier B para ocultar la "red de captura" corporativa-estatal.
 
 ## ¸ Mecanismos De Poder

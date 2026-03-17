@@ -1,14 +1,13 @@
 ---
 publish: true
 created: 2026-01-29T19:17:10.927-03:00
-modified: 2026-02-26T22:32:49.723-03:00
+modified: 2026-02-26T22:32:43.997-03:00
 tags:
   - pesificacion-asimetrica
   - crisis-2001
   - transferencia-riqueza
   - capitalismo-amigos
   - peronismo
-cssclasses: ""
 ---
 
 # Eduardo Duhalde

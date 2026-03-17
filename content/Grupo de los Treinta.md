@@ -21,7 +21,7 @@ publish: true
 *   **Arquitectura de las CBDC:** El G-30 es el motor ideológico detrás de las monedas digitales de banco central, el instrumento definitivo para el fin de la libertad financiera y el inicio de la vigilancia económica total.
 
 ### Tier B (Operadores / Los Tecnócratas Itinerantes)
-*   **Puertas Giratorias de Ã‰lite:** Los miembros de Tier B en el G-30 pasan de ser Presidentes del Banco Central Europeo (Draghi) a Primeros Ministros, o de Secretarios del Tesoro a directivos de fondos como BlackRock. Esta red asegura que la política presupuestaria de los países siempre sirva a las recomendaciones del G-30.
+*   **Puertas Giratorias de Élite:** Los miembros de Tier B en el G-30 pasan de ser Presidentes del Banco Central Europeo (Draghi) a Primeros Ministros, o de Secretarios del Tesoro a directivos de fondos como BlackRock. Esta red asegura que la política presupuestaria de los países siempre sirva a las recomendaciones del G-30.
 *   **Producción de Reportes de Influencia:** Generan documentos técnicos que "recomiendan" regulaciones bancarias. Debido a su prestigio, estas recomendaciones se convierten automáticamente en leyes parlamentarias en todo el mundo sin debate real.
 
 ### Tier C (Narrativa Pública)

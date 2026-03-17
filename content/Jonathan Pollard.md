@@ -39,7 +39,7 @@ publish: true
 - [[Caspar Weinberger]]: El Secretario de Defensa de EE.UU. que proporcionó la declaración jurada secreta sobre el daño incalculable causado por Pollard.
 
 ## Conclusión Del Análisis
-Jonathan Pollard es el **"Fisura en el Muro de la Alianza"**. Su historia nos enseña que las naciones no tienen amigos constantes, solo **operaciones constantes**. Pollard fue la moneda con la que Israel compró su independencia de la tutela informativa estadounidense. Al final, su regreso a Israel no fue un acto de misericordia, fue un **desfile de victoria** del Tier A sionista sobre el aparato de seguridad de Washington. Entender a Pollard es comprender que, en el tablero del poder real, la lealtad es una variable que el algoritmo de inteligencia de tu adversario â€”incluso si es tu "mejor amigo"â€” siempre intentará hackear.
+Jonathan Pollard es el **"Fisura en el Muro de la Alianza"**. Su historia nos enseña que las naciones no tienen amigos constantes, solo **operaciones constantes**. Pollard fue la moneda con la que Israel compró su independencia de la tutela informativa estadounidense. Al final, su regreso a Israel no fue un acto de misericordia, fue un **desfile de victoria** del Tier A sionista sobre el aparato de seguridad de Washington. Entender a Pollard es comprender que, en el tablero del poder real, la lealtad es una variable que el algoritmo de inteligencia de tu adversario —incluso si es tu "mejor amigo"— siempre intentará hackear.
 
 ---
 **Versión:** 2.0

@@ -40,4 +40,4 @@ publish: true
 
 ## Por Qué Importa (Estilo Nico)
 
-> "Rhodes es el tipo que te explica por qué los presidentes de EE.UU. parecen más ingleses que americanos cuando llegan al poder. Ã‰l decidió hace 150 años que el imperio no podía morir, solo tenía que volverse invisible. Las Becas Rhodes no son para 'estudiar'; son para que el Tier A te ponga el chip de lealtad a la corona financiera global. Si querés entender el mundo de hoy, dejá de mirar el mapa y empezá a mirar los anillos de influencia que este magnate de los diamantes dejó pagados con su testamento."
+> "Rhodes es el tipo que te explica por qué los presidentes de EE.UU. parecen más ingleses que americanos cuando llegan al poder. Él decidió hace 150 años que el imperio no podía morir, solo tenía que volverse invisible. Las Becas Rhodes no son para 'estudiar'; son para que el Tier A te ponga el chip de lealtad a la corona financiera global. Si querés entender el mundo de hoy, dejá de mirar el mapa y empezá a mirar los anillos de influencia que este magnate de los diamantes dejó pagados con su testamento."

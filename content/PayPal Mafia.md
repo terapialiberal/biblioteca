@@ -38,7 +38,7 @@ La PayPal Mafia nos enseña que **el poder moderno no se vota, se programa**. No
 ---
 **Versión:** 2.0
 **Enfoque:** La red de lealtades internas, el control de infraestructura de vigilancia y pagos, y el rol de Thiel/Musk como arquitectos del nuevo establishment tecnocrático.
-**Estado:** Refactoreado a TL V.2 - Framework de Ã‰lite Tecnocrática.
+**Estado:** Refactoreado a TL V.2 - Framework de Élite Tecnocrática.
 
 
 

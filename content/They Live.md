@@ -12,7 +12,7 @@ publish: true
 
 ## Resumen Ejecutivo
 **¿Qué es?** Película de culto de John Carpenter.
-Un vagabundo encuentra unas gafas de sol especiales (Hoffman Lenses) que le permiten ver la realidad tal como es: en blanco y negro, donde los anuncios publicitarios ocultan órdenes subliminales ("OBEDECE", "CONSUME", "REPRODÃšCETE", "NO PIENSES") y muchos miembros de la élite rica son en realidad alienígenas/entidades cadavéricas disfrazados.
+Un vagabundo encuentra unas gafas de sol especiales (Hoffman Lenses) que le permiten ver la realidad tal como es: en blanco y negro, donde los anuncios publicitarios ocultan órdenes subliminales ("OBEDECE", "CONSUME", "REPRODÚCETE", "NO PIENSES") y muchos miembros de la élite rica son en realidad alienígenas/entidades cadavéricas disfrazados.
 
 **¿Por qué importa?** Es el **documental** definitivo sobre la manipulación subliminal y la élite parasitaria.
 Carpenter dijo: *"They Live no es ciencia ficción. Es un documental sobre lo que estaba pasando en los 80 con Reaganomics"*.

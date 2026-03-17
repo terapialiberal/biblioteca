@@ -24,7 +24,7 @@ publish: true
 ## ¸ Mecanisms De Poder (Soberanía Y Vigilancia)
 
 1.  **Professional Profiling (Perfilamiento Profesional)**: Creación de un sistema de reputación digital que obliga al individuo de Tier C a conformarse con las normas ideológicas corporativas para no perder su empleabilidad en la red centralizada.
-2.  **Filantropía Ã‰tica de Fachada**: Uso de donaciones masivas a causas de "ética en la IA" y "seguridad informativa" para moldear la regulación futura, asegurando que las leyes protejan el monopolio de las actuales gigantes tecnológicas bajo el disfraz de la protección al usuario.
+2.  **Filantropía Ética de Fachada**: Uso de donaciones masivas a causas de "ética en la IA" y "seguridad informativa" para moldear la regulación futura, asegurando que las leyes protejan el monopolio de las actuales gigantes tecnológicas bajo el disfraz de la protección al usuario.
 
 ## Conexiones Críticas
 - [[PayPal Mafia]]: Su red de origen y poder coordinado.

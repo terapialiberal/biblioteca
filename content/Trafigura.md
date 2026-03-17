@@ -14,7 +14,7 @@ publish: true
 > **Función Real:** Uno de los mayores traders de petróleo del mundo. Escándalos en África.
 
 ## Escándalos
-- **CÃ´te d'Ivoire (2006):** Dumping de residuos tóxicos que enfermó a miles
+- **Côte d'Ivoire (2006):** Dumping de residuos tóxicos que enfermó a miles
 - Sanciones evasion
 - Trading con regímenes cuestionables
 

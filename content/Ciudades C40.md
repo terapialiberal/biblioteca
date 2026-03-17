@@ -40,7 +40,7 @@ Objetivos explícitos para 2030 (publicados en su informe "The Future of Urban C
 - [[Crédito Social (Occidental)]]
 
 ## Fuentes
-- "The Future of Urban Consumption in a 1.5Â°C World" (Informe official de C40, Arup y Leeds University).
+- "The Future of Urban Consumption in a 1.5°C World" (Informe official de C40, Arup y Leeds University).
 
 
 

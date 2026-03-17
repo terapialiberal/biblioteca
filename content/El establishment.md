@@ -17,7 +17,7 @@ publish: true
 ## Análisis De Poder (Tiers)
 
 ### Tier A (Los Arquitectos Y La Clase Hereditaria)
-*   **La Reproducción de la Ã‰lite:** El Establishment se asegura de que sus hijos hereden el poder mediante un circuito cerrado de educación (Eton, Harvard, San Andrés), matrimonios estratégicos y pasantías en organizaciones de Tier A (**[[Goldman Sachs]]**, **[[Mckinsey]]**). Es una aristocracia moderna con máscara de meritocracia.
+*   **La Reproducción de la Élite:** El Establishment se asegura de que sus hijos hereden el poder mediante un circuito cerrado de educación (Eton, Harvard, San Andrés), matrimonios estratégicos y pasantías en organizaciones de Tier A (**[[Goldman Sachs]]**, **[[Mckinsey]]**). Es una aristocracia moderna con máscara de meritocracia.
 *   **TINA (There Is No Alternative):** Su mayor arma es la eliminación de la imaginación política. Instalan la idea de que cualquier alternativa al sistema actual es sinónimo de caos, dictadura o retroceso, domesticando al Tier C mediante el miedo al cambio real.
 
 ### Tier B (Los Guardianes Del Umbral / Gatekeepers)

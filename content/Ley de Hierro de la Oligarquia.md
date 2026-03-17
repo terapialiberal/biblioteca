@@ -16,7 +16,7 @@ publish: true
 
 ### Tier A: La Emergencia De La Cúpula Permanente
 *   **Sustitución de Fines:** La élite (Tier A) descubre que su estatus, sueldo y poder dependen de que la organización sobreviva a toda costa. Por lo tanto, cualquier ideología (socialismo, liberalismo, religión) se vuelve secundaria. El objetivo real de la ONU, el WEF o cualquier partido político es **perpetuarse a sí mismos**.
-*   **La Inevitabilidad de la Ã‰lite:** Michels afirma: *"Quien dice organización, dice oligarquía"*. La democracia es el **Kayfabe** (teatro) necesario para que la mayoría desorganizada no se rebele contra la minoría organizada que detenta el conocimiento técnico.
+*   **La Inevitabilidad de la Élite:** Michels afirma: *"Quien dice organización, dice oligarquía"*. La democracia es el **Kayfabe** (teatro) necesario para que la mayoría desorganizada no se rebele contra la minoría organizada que detenta el conocimiento técnico.
 
 ### Tier B: Los Operadores De La Burocracia
 *   **El Control del Flujo:** El Tier B (la burocracia técnica) es el que ejecuta la Ley de Hierro. Al poseer el "know-how" administrativo, controlan lo que la base puede o no puede ver. Su lealtad no es hacia el votante, sino hacia la cúpula que les garantiza su puesto.
@@ -31,7 +31,7 @@ Entender la Ley de Hierro de Michels es la cura contra la decepción política. 
 ## Conexiones De La Red
 - **Antídotos:** [[Descentralización]], [[Bitcoin]], [[Soberanía Individual]].
 - **Autores Relacionados:** [[Gaetano Mosca]], [[Vilfredo Pareto]], [[James Burnham]].
-- **Conceptos:** [[Oligarquía]], [[Ã‰lite (Concepto)]], [[Kayfabe (Política)]].
+- **Conceptos:** [[Oligarquía]], [[Élite (Concepto)]], [[Kayfabe (Política)]].
 - **Ejemplos Reales:** [[ONU]], [[WEF]], [[Partidos Políticos]].
 
 **Estado:** Refactoreado a TL V.2 - Framework de Inteligencia Aplicado.

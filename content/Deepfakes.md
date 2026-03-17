@@ -12,7 +12,7 @@ publish: true
 ## Perfil TL (Resumen Ejecutivo)
 **¿Qué es?** Medios sintéticos (video, audio o imagen) creados mediante algoritmos de Inteligencia Artificial que suplantan la apariencia o voz de una persona real con un realismo casi indistinguible para el ojo o oído humano.
 
-**¿Por qué importa?** Los Deepfakes son el **arma definitiva de la era de la Posverdad**. Representan el fin de la evidencia documental: ya no podés creer en lo que ves o escuchás. Aunque el Tier C se enfoca en el porno falso o las noticias falsas, el peligro real reside en el **"Dividendo del Mentiroso"**: el Tier A puede usar Deepfakes para incriminar a enemigos políticos con videos falsos, o â€”más importante aúnâ€” puede desestimar pruebas reales de su propia corrupción alegando que son "Deepfakes generados por IA". Es la tecnología que permite la **Guerra Cognitiva** total, donde la realidad se vuelve un menú opcional gestionado por quien tiene el mejor procesador de datos.
+**¿Por qué importa?** Los Deepfakes son el **arma definitiva de la era de la Posverdad**. Representan el fin de la evidencia documental: ya no podés creer en lo que ves o escuchás. Aunque el Tier C se enfoca en el porno falso o las noticias falsas, el peligro real reside en el **"Dividendo del Mentiroso"**: el Tier A puede usar Deepfakes para incriminar a enemigos políticos con videos falsos, o —más importante aún— puede desestimar pruebas reales de su propia corrupción alegando que son "Deepfakes generados por IA". Es la tecnología que permite la **Guerra Cognitiva** total, donde la realidad se vuelve un menú opcional gestionado por quien tiene el mejor procesador de datos.
 
 ## Análisis De Poder (Tiers)
 

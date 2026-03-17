@@ -29,7 +29,7 @@ publish: true
 ## ¸ Mecanismos De Poder
 
 1. **Captura del Regulador vía Intelectualismo**: El uso de su prestigio académico en Harvard para deslegitimar cualquier intento de regulación bancaria, llamando "analfabetos económicos" a quienes predecían las crisis de deuda.
-2. **Puerta Giratoria Multidimensional**: El movimiento constante entre el Tesoro, el Banco Mundial, la Academia de Ã‰lite y los directorios de Big Tech (OpenAI), asegurando que los intereses de Tier A siempre tengan un oficial de alto rango en la toma de decisiones.
+2. **Puerta Giratoria Multidimensional**: El movimiento constante entre el Tesoro, el Banco Mundial, la Academia de Élite y los directorios de Big Tech (OpenAI), asegurando que los intereses de Tier A siempre tengan un oficial de alto rango en la toma de decisiones.
 3. **Monopolio de la Narrativa de "Crisis"**: La capacidad de presentarse como el único capaz de resolver las crisis que él mismo ayudó a sembrar (ej. la crisis de 2008 bajo Obama), garantizando su permanencia perpetua en el núcleo del poder.
 
 ## Conexiones Críticas

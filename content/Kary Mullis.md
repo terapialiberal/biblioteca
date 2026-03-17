@@ -19,7 +19,7 @@ publish: true
 * **Neutralización del Nobel Independiente:** Para el Tier A, Mullis era una anomalía: un científico con la máxima credibilidad (Nobel) que se negaba a venderse a la industria farmacéutica y que cuestionaba las bases mismas de la virología oficial (SIDA/VIH).
 
 ### Tier B: El Administrador De La Disidencia Técnica (Mullis)
-* **La Guerra contra el Clero Médico (Fauci):** Mullis fue el archienemigo de **Anthony Fauci**. Denunció que el NIH y el CDC funcionaban como feudos personales de burócratas ignorantes que utilizaban la ciencia para obtener presupuestos masivos. Mullis representaba al Tier B científico puro â€”caótico, creativo y honestoâ€” frente al Tier B burocrático, que es gris, procedimental y obediente a los intereses políticos.
+* **La Guerra contra el Clero Médico (Fauci):** Mullis fue el archienemigo de **Anthony Fauci**. Denunció que el NIH y el CDC funcionaban como feudos personales de burócratas ignorantes que utilizaban la ciencia para obtener presupuestos masivos. Mullis representaba al Tier B científico puro —caótico, creativo y honesto— frente al Tier B burocrático, que es gris, procedimental y obediente a los intereses políticos.
 * **Advertencia sobre el Mal Uso de la PCR:** Mullis fue explícito al afirmar que la PCR no detecta "virus infecciosos", sino secuencias de nucleótidos. Su insistencia en que la prueba no debía usarse para diagnosticar enfermedades fue el mayor acto de resistencia técnica del siglo, un acto que el sistema borró mediante la censura mediática post-mortem.
 
 ### Tier C: La Población Ante El "Científico Loco"

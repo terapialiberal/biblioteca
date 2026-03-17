@@ -19,7 +19,7 @@ publish: true
 * **El "Aparato de Inteligencia":** Tras su muerte, el FBI y la Oficina de Propiedad Extranjera incautaron sus baúles. La revisión fue delegada a **John G. Trump** (MIT), quien actuó como *gatekeeper* de Tier A, clasificando los hallazgos relativos a la energía de punto cero y armas de energía dirigida ([[DEW]]) como "peligrosos para la seguridad nacional" (es decir, peligrosos para el monopolio energético).
 
 ### Tier B: Los Administradores Del Monopolio
-* **Instituciones Académicas:** La física de Tesla (basada en el Ã‰ter) fue borrada de los libros de texto y reemplazada por modelos que ignoran la posibilidad de extraer energía del vacío. El Tier B científico actúa como "policía del pensamiento" para asegurar que ninguna investigación amenace la viabilidad de las petroleras y eléctricas.
+* **Instituciones Académicas:** La física de Tesla (basada en el Éter) fue borrada de los libros de texto y reemplazada por modelos que ignoran la posibilidad de extraer energía del vacío. El Tier B científico actúa como "policía del pensamiento" para asegurar que ninguna investigación amenace la viabilidad de las petroleras y eléctricas.
 * **Marconi y Edison:** Operadores de Tier B que recibieron el crédito y el respaldo financiero para implementar sistemas centralizados y controlables.
 
 ### Tier C: El Usuario En La Matrix

@@ -15,7 +15,7 @@ publish: true
 ## Análisis De Tiers
 
 ### Tier B (El Operador De La Oscuridad Científica)
-*   **El Envenenador en Jefe:** Para el Tier B de inteligencia, Gottlieb era el hombre que "podía hacer que cualquiera dijera cualquier cosa". Bajo su supervisión, la CIA estableció burdeles en San Francisco (Operación Midnight Climax) para drogar a ciudadanos de Tier C con LSD sin su conocimiento y observar su comportamiento tras espejos unidireccionales. Gottlieb no tenía límites éticos: diseñó venenos para intentar asesinar a Fidel Castro y Patrice Lumumba, y supervisó el "accidente" de su propio colega **Frank Olson**, quien murió tras ser drogado secretamente por Gottlieb. Ã‰l es la encarnación del Tier B que ve al ser humano como una simple suma de reacciones químicas que la Matrix debe recalibrar para sus fines geopolíticos.
+*   **El Envenenador en Jefe:** Para el Tier B de inteligencia, Gottlieb era el hombre que "podía hacer que cualquiera dijera cualquier cosa". Bajo su supervisión, la CIA estableció burdeles en San Francisco (Operación Midnight Climax) para drogar a ciudadanos de Tier C con LSD sin su conocimiento y observar su comportamiento tras espejos unidireccionales. Gottlieb no tenía límites éticos: diseñó venenos para intentar asesinar a Fidel Castro y Patrice Lumumba, y supervisó el "accidente" de su propio colega **Frank Olson**, quien murió tras ser drogado secretamente por Gottlieb. Él es la encarnación del Tier B que ve al ser humano como una simple suma de reacciones químicas que la Matrix debe recalibrar para sus fines geopolíticos.
 
 ### Tier A (Los Patrones De La Ingeniería Humana)
 *   **La Impunidad de Langley:** Para el Tier A interesado en la contención del comunismo y la estabilidad interna (liderado por **[[Allen Dulles]]**), Gottlieb era un activo vital. El Tier A le otorgó un presupuesto ilimitado y total autonomía para operar fuera de cualquier ley nacional o internacional. Gottlieb fue la mano que ejecutó la visión de Tier A de una sociedad donde la disidencia pudiera ser corregida mediante la química y el condicionamiento psicológico. Cuando el escándalo de MKUltra amenazó con emerger en los años 70, el Tier A permitió que Gottlieb destruyera la mayoría de los archivos del programa, asegurando que la arquitectura completa del control mental nunca fuera revelada al público de Tier C.
@@ -41,7 +41,7 @@ Sidney Gottlieb nos enseña que **el poder absoluto sobre la mente es la meta fi
 ---
 **Versión:** 2.0
 **Enfoque:** Gottlieb como director de MKUltra, sus experimentos con LSD y otras drogas en sujetos sin consentimiento, su rol en el diseño de venenos para la CIA y la destrucción de archivos para proteger la impunidad del programa de control mental.
-**Estado:** Refactoreado a TL V.2 - Framework de Control Mental y Ã‰tica de la Inteligencia.
+**Estado:** Refactoreado a TL V.2 - Framework de Control Mental y Ética de la Inteligencia.
 
 
 

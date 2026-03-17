@@ -13,7 +13,7 @@ publish: true
 **¿Qué es?** Movimiento intellectual y cultural que afirma el deber moral de usar la tecnología para mejorar las capacidades físicas y cognitivas humanas, y eventualmente **superar la muerte**.
 Lema: *"La evolución inteligente"*.
 
-**¿Por qué importa?** Es el objetivo final de la Ã‰lite. La **Inmortalidad Digital**.
+**¿Por qué importa?** Es el objetivo final de la Élite. La **Inmortalidad Digital**.
 Quieren fusionarse con la IA ([[Neuralink]]) para convertirse en "Homo Deus" (dioses), dejando atrás al "Homo Sapiens" (nosotros) como una especie obsoleta o mascota.
 No es ciencia ficción lejana; es la política actual del [[World Economic Forum]] ("La Cuarta Revolución Industrial": fusión de lo físico, digital y biológico).
 Implicaciones: Chips cerebrales, edición genética (CRISPR), úteros artificiales, fin de la privacidad mental.

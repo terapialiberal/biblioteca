@@ -39,7 +39,7 @@ publish: true
 - [[Oliver North]]: Su brazo ejecutor en la logística del contrabando estatal.
 
 ## Conclusión Del Análisis
-John Poindexter es el **"Arquitecto del Panóptico Electrónico"**. Su carrera es la prueba de que el Deep State nunca abandona a sus hombres, solo los recicla. Poindexter entendió antes que nadie que el control del siglo XXI no se basa en el fusil, sino en el **sensor**. Murió â€”o se retiróâ€” dejando un mundo donde cada bit de información es un grillete potencial. Entender a Poindexter es comprender que el Ojo que todo lo ve en el billete de dólar ha bajado a la tierra y está dentro de tu bolsillo, procesando tus pensamientos y acciones para asegurar que el orden de los 300 families de Tier A nunca sea desafiado por un Tier C consciente.
+John Poindexter es el **"Arquitecto del Panóptico Electrónico"**. Su carrera es la prueba de que el Deep State nunca abandona a sus hombres, solo los recicla. Poindexter entendió antes que nadie que el control del siglo XXI no se basa en el fusil, sino en el **sensor**. Murió —o se retiró— dejando un mundo donde cada bit de información es un grillete potencial. Entender a Poindexter es comprender que el Ojo que todo lo ve en el billete de dólar ha bajado a la tierra y está dentro de tu bolsillo, procesando tus pensamientos y acciones para asegurar que el orden de los 300 families de Tier A nunca sea desafiado por un Tier C consciente.
 
 ---
 **Versión:** 2.0

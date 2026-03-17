@@ -14,7 +14,7 @@ La **Cibernética**, formalizada por **Norbert Wiener** en 1948, es la ciencia t
 
 ## Análisis Terapia Liberal (Cui Bono)
 ### Tier A (Beneficiarios)
-*   **Ã‰lite Tecnocrática:** Les da la justificación "científica" para anular la democracia. "No es política, es eficiencia sistémica".
+*   **Élite Tecnocrática:** Les da la justificación "científica" para anular la democracia. "No es política, es eficiencia sistémica".
 *   **Fundaciones Globalistas:** Rockefeller Foundation financió masivamente las conferencias Macy donde nació la cibernética.
 
 ### Tier B (Operadores)

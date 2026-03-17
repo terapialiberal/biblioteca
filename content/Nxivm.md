@@ -1,5 +1,5 @@
 ---
-titulo: "Nxivm (TL V.2): El Laboratorio De Chantaje De La Ã‰lite"
+titulo: "Nxivm (TL V.2): El Laboratorio De Chantaje De La Élite"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [jeffrey, laboratorio, mega, nxivm]
 publish: true
 ---
-# Nxivm (TL V.2): El Laboratorio De Chantaje De La Ã‰lite
+# Nxivm (TL V.2): El Laboratorio De Chantaje De La Élite
 
 > [!ABSTRACT] Hipótesis Informativa
 > Nxivm no fue una secta aislada de un "científico loco", sino un **nodo de acondicionamiento psicopolítico** para la élite de [[Tier A]]. Sirvió como laboratorio para perfeccionar el uso del trauma y la información comprometedora (colateral) como herramientas de gobernanza, vinculando linajes financieros (Bronfman) con castas políticas locales (México) en una red de lealtad basada en la destrucción mutua asegurada.

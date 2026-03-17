@@ -1,5 +1,5 @@
 ---
-titulo: "Pizzagate (TL V.2): El Escándalo De La Ã‰lite Y El Arma Del Ridículo"
+titulo: "Pizzagate (TL V.2): El Escándalo De La Élite Y El Arma Del Ridículo"
 tipo: "evento"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [arma, jeffrey, ridculo, wikileaks]
 publish: true
 ---
-# Pizzagate (TL V.2): El Escándalo De La Ã‰lite Y El Arma Del Ridículo
+# Pizzagate (TL V.2): El Escándalo De La Élite Y El Arma Del Ridículo
 
 > [!ABSTRACT] Hipótesis Informativa
 > El "Pizzagate" no fue un bulo de Internet, sino la **exposición accidental del submundo biopolítico de [[Tier A]]** a través de la filtración de los emails de John Podesta por **[[00_Glosario - Conceptos Fase 1#WikiLeaks\|WikiLeaks]]**. El escándalo reveló el uso de un lenguaje en clave (Pizza, Pasta, Dominó) coincidente con los códigos de pedofilia documentados por el FBI, vinculando a la cúpula del Partido Demócrata con redes de logística de abuso infantil. Su rápida clasificación como "falsa noticia" por parte del **[[Tier B]]** mediático fue una operación de **Contención de Daños** diseñada para vacunar a la opinión pública contra futuras revelaciones, como las que más tarde confirmaría el caso **[[Jeffrey Epstein]]**.
@@ -38,7 +38,7 @@ Pizzagate nos enseña que **lo que la élite llama "conspiración" suele ser su 
 ---
 **Versión:** 2.0
 **Enfoque:** La validación de los códigos del FBI, la conexión con los emails reales de Podesta y la operación de ridiculización mediática para proteger a la red de chantaje de la élite.
-**Estado:** Refactoreado a TL V.2 - Framework de Biopatología de Ã‰lite.
+**Estado:** Refactoreado a TL V.2 - Framework de Biopatología de Élite.
 
 
 

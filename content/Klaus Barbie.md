@@ -39,7 +39,7 @@ publish: true
 - [[Luis García Meza]]: El dictador que utilizó a Barbie como su "ministro de la sombra".
 
 ## Conclusión Del Análisis
-Klaus Barbie fue el **"Sembrador de Sombras"** en Sudamérica. Su importancia reside en haber demostrado que las dictaduras del siglo XX no fueron accidentes históricos, sino transplantes de un sistema de control totalitario que el Tier A nunca tuvo la intención de destruir. Barbie no era un nazi arrepentido, era un **nazi subcontratado**. Entender a Barbie es comprender que el Estado Profundo no tiene amigos ni enemigos permanentes, solo tiene **intereses permanentes en el control social**. Ã‰l fue el puente humano que unió el horror de la Europa del 40 con las desapariciones forzadas de la Sudamérica del 70. Su vida es la prueba de que el "Nunca Más" es el Kayfabe más cínico del Tier A.
+Klaus Barbie fue el **"Sembrador de Sombras"** en Sudamérica. Su importancia reside en haber demostrado que las dictaduras del siglo XX no fueron accidentes históricos, sino transplantes de un sistema de control totalitario que el Tier A nunca tuvo la intención de destruir. Barbie no era un nazi arrepentido, era un **nazi subcontratado**. Entender a Barbie es comprender que el Estado Profundo no tiene amigos ni enemigos permanentes, solo tiene **intereses permanentes en el control social**. Él fue el puente humano que unió el horror de la Europa del 40 con las desapariciones forzadas de la Sudamérica del 70. Su vida es la prueba de que el "Nunca Más" es el Kayfabe más cínico del Tier A.
 
 ---
 **Versión:** 2.0

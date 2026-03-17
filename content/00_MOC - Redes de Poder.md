@@ -163,6 +163,8 @@ Rhodes Trust ? Round Table ? CFR ? Bilderberg ? Trilateral ? WEF
 - [[01_Research/99_Patrones_Detectados/Biblia Scofield 1\|Biblia Scofield 1]]
 - [[Club de Madrid\|Club de Madrid]]
 - [[DTCC\|DTCC]]
+- [[02_Produccion/IRAN STREAM/NotaTesis_Chabad_RedCoordenacion_v1\|NotaTesis_Chabad_RedCoordenacion_v1]]
+- [[Reza Pahlavi\|Reza Pahlavi]]
 - [[01_Research/01_Radar/Tecnocracia/tecnocracia-tesis\|tecnocracia-tesis]]
 
 

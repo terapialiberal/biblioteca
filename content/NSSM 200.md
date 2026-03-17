@@ -15,7 +15,7 @@ publish: true
 ## Análisis De Tiers
 
 ### Tier A: Los Curadores De La Escasez
-* **Recursos vs. Personas:** El Tier A ve la vida humana en el Sur Global como un "costo de oportunidad". El informe Kissinger identifica 13 países (incluyendo México, Brasil, India, Nigeria) donde la población debe ser reducida para asegurar que las materias primas sigan fluyendo hacia la Matriz a precios bajos. Es la **Geopolítica del Ãštero**: controlar la natalidad para impedir la emergencia de potencias rivales que reclamen su propia riqueza.
+* **Recursos vs. Personas:** El Tier A ve la vida humana en el Sur Global como un "costo de oportunidad". El informe Kissinger identifica 13 países (incluyendo México, Brasil, India, Nigeria) donde la población debe ser reducida para asegurar que las materias primas sigan fluyendo hacia la Matriz a precios bajos. Es la **Geopolítica del Útero**: controlar la natalidad para impedir la emergencia de potencias rivales que reclamen su propia riqueza.
 * **El Malthusianismo Estratégico:** El Tier A adoptó la narrativa de la "superpoblación" para ocultar su incapacidad de compartir la abundancia tecnológica. El NSSM 200 es la prueba de que el sistema prefiere eliminar consumidores potenciales antes que renunciar a su monopolio sobre la producción.
 
 ### Tier B: Los Ejecutores De La "Planificación"

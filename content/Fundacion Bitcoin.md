@@ -22,7 +22,7 @@ publish: true
 
 ### Tier B (Operadores / La Mafia De Los Fundadores)
 *   **Gavin Andresen:** El heredero de Satoshi que entregó el control de la fundación y fue despojado de sus privilegios de acceso al código tras ser engañado (o participar) en la farsa de Craig Wright. Su rol fue la transición de la legitimidad de Satoshi hacia la estructura institucional.
-*   **Charlie Shrem y Mark KarpelÃ¨s:** Miembros fundadores que terminaron presos (lavado de dinero y colapso de Mt. Gox respectivamente), sirviendo para crear la narrativa de que Bitcoin necesitaba "regulación de adultos" (Tier A).
+*   **Charlie Shrem y Mark Karpelès:** Miembros fundadores que terminaron presos (lavado de dinero y colapso de Mt. Gox respectivamente), sirviendo para crear la narrativa de que Bitcoin necesitaba "regulación de adultos" (Tier A).
 
 ### Tier C (Narrativa Pública)
 *   "Salvando la descentralización". "Protegiendo el código". Narrativas que ocultaban que el sueldo de los programadores más importantes venía de fondos de un delincuente sexual (Epstein) en el MIT.

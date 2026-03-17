@@ -1,5 +1,5 @@
 ---
-titulo: "Satélites (ARSAT) (TL V.2): La Soberanía Digital Y Los Activos De La Ã“rbita"
+titulo: "Satélites (ARSAT) (TL V.2): La Soberanía Digital Y Los Activos De La Órbita"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [arsat, digital, rbita, satlites]
 publish: true
 ---
-# Satélites (ARSAT) (TL V.2): La Soberanía Digital Y Los Activos De La Ã“rbita
+# Satélites (ARSAT) (TL V.2): La Soberanía Digital Y Los Activos De La Órbita
 
 > [!ABSTRACT] Hipótesis Informativa
 > ARSAT es la **Infraestructura de Soberanía Tecnológica de [[Tier B]]** de Argentina, encargada de ocupar las posiciones orbitales geoestacionarias y gestionar la red de fibra óptica nacional. Su función real en la Matrix es la de un **"Guardián del Espacio Soberano"**: asegurar que el Estado posea la capacidad técnica para conectar a su propia población de **[[Tier C]]** sin depender de los satélites de potencias de **[[Tier A]]**. Sin embargo, su vulnerabilidad ante la privatización y la competencia de redes como **[[Starlink]]** la sitúa en el centro de una guerra por el control del espectro y los datos del cono sur.
@@ -15,7 +15,7 @@ publish: true
 ## Análisis De Tiers
 
 ### Tier B (El Operador Del Cielo Conosur)
-*   **La Ocupación Orbital:** Para el Tier B tecnológico argentino (liderado por **[[INVAP]]** y técnicos de ARSAT), el éxito reside en haber diseñado y operado satélites geoestacionarios propios (**ARSAT-1 y 2**). Esto no es solo un orgullo nacional, es una necesidad legal de la Matrix: si Argentina no ocupa sus órbitas asignadas por la **UIT**, las pierde en favor de corporaciones o naciones de Tier A. El Tier B gestiona además la **Refefo** (Red Federal de Fibra Ã“ptica), que es el sistema nervioso de internet en el país. Su poder operativo es la clave para la autonomía informativa del **[[Tier C]]** en zonas donde la inversión privada de Tier B global no llega por falta de rentabilidad inmediata.
+*   **La Ocupación Orbital:** Para el Tier B tecnológico argentino (liderado por **[[INVAP]]** y técnicos de ARSAT), el éxito reside en haber diseñado y operado satélites geoestacionarios propios (**ARSAT-1 y 2**). Esto no es solo un orgullo nacional, es una necesidad legal de la Matrix: si Argentina no ocupa sus órbitas asignadas por la **UIT**, las pierde en favor de corporaciones o naciones de Tier A. El Tier B gestiona además la **Refefo** (Red Federal de Fibra Óptica), que es el sistema nervioso de internet en el país. Su poder operativo es la clave para la autonomía informativa del **[[Tier C]]** en zonas donde la inversión privada de Tier B global no llega por falta de rentabilidad inmediata.
 
 ### Tier A (La Captura Del Espectro Por Las Big Tech)
 *   **Starlink y la Desregulación del Cielo:** Para el Tier A interesado en la hegemonía digital (liderado por **[[Elon Musk]]** y los fondos que financian a Starlink), ARSAT es un obstáculo a la penetración total del mercado. Al desregular los cielos y promover la competencia directa de satélites de órbita baja (LEO), el Tier A busca hacer obsoleta la infraestructura de Tier B nacional. El objetivo es que el Tier A posea tanto el hardware (satélites) como los datos (tráfico de internet), convirtiendo a naciones soberanas en meros consumidores de ancho de banda privado, eliminando su capacidad de filtrar o proteger sus propias comunicaciones críticas.
@@ -40,7 +40,7 @@ ARSAT nos enseña que **quien no ocupa su cielo, termina siendo colonizado por e
 
 ---
 **Versión:** 2.0
-**Enfoque:** ARSAT como herramienta de soberanía satelital y orbital frente al avance de competidores globales como Starlink, el rol de la Red Federal de Fibra Ã“ptica y el conflicto entre la infraestructura estatal y la privatización en la era Milei.
+**Enfoque:** ARSAT como herramienta de soberanía satelital y orbital frente al avance de competidores globales como Starlink, el rol de la Red Federal de Fibra Óptica y el conflicto entre la infraestructura estatal y la privatización en la era Milei.
 **Estado:** Refactoreado a TL V.2 - Framework de Tecnología Soberana y Geopolítica Espacial.
 
 

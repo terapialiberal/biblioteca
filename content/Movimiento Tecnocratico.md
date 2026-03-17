@@ -10,7 +10,7 @@ publish: true
 # Movimiento Tecnocrático (TL V.2): La Raíz Del Gran Reset
 
 > [!ABSTRACT] Hipótesis Informativa
-> El Movimiento Tecnocrático (surgido en los años 30 con Technocracy Inc.) es el **Sistema Operativo Original del Globalismo de [[Tier A]]**. Su premisa central â€”reemplazar a los políticos y al sistema de precios por un gobierno de "expertos" que gestionen los recursos basándose en unidades de energíaâ€” es el plano exacto que hoy ejecuta el **[[WEF]]** bajo el nombre de "Capitalismo de Stakeholders" o Agenda 2030. La idea de sustituir el dinero libre por **Certificados de Energía** es el ancestro directo de los **Créditos de Carbono** y las [[CBDC]]. No es una reliquia histórica; es la profecía autocumplida de una élite que ve a la humanidad no como ciudadanos, sino como ganado energético a ser optimizado eficientemente.
+> El Movimiento Tecnocrático (surgido en los años 30 con Technocracy Inc.) es el **Sistema Operativo Original del Globalismo de [[Tier A]]**. Su premisa central —reemplazar a los políticos y al sistema de precios por un gobierno de "expertos" que gestionen los recursos basándose en unidades de energía— es el plano exacto que hoy ejecuta el **[[WEF]]** bajo el nombre de "Capitalismo de Stakeholders" o Agenda 2030. La idea de sustituir el dinero libre por **Certificados de Energía** es el ancestro directo de los **Créditos de Carbono** y las [[CBDC]]. No es una reliquia histórica; es la profecía autocumplida de una élite que ve a la humanidad no como ciudadanos, sino como ganado energético a ser optimizado eficientemente.
 
 ## Análisis De Tiers
 

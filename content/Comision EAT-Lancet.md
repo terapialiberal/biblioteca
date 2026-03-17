@@ -14,7 +14,7 @@ La **Comisión EAT-Lancet** es una colaboración entre la revista médica *The L
 
 ## Análisis Terapia Liberal (Cui Bono)
 ### Tier A (Beneficiarios)
-*   **Industria de Procesados (Nestlé, Kelloggâ€™s):** Los socios de EAT. Quieren reemplazar la carne (producto natural no patentable) con ultraprocesados patentados de alto margen.
+*   **Industria de Procesados (Nestlé, Kellogg’s):** Los socios de EAT. Quieren reemplazar la carne (producto natural no patentable) con ultraprocesados patentados de alto margen.
 *   **Chemical Giants ([[Monsanto]]/[[Monsanto]]):** Controlarán los monocultivos necesarios para las proteínas vegetales.
 
 ## Puntos Clave

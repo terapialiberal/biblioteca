@@ -7,7 +7,7 @@ tags: [clasificado-ai]
 publish: true
 ---
 ﻿---
-titulo: FÃ­sica De Plasma Y Alquimia Modern
+titulo: Física De Plasma Y Alquimia Modern
 tipo: "concepto"
 fecha: 2026-02-25
 tags: [alquimia, fsica, modern, plasma]
@@ -16,14 +16,14 @@ nivel-evidencia: "medio"
 publish: true
 ---
 
-# FÃ­sica De Plasma Y Alquimia Modern
+# Física De Plasma Y Alquimia Modern
 
-> [!ABSTRACT] HipÃ³tesis Informativa
+> [!ABSTRACT] Hipótesis Informativa
 > Nodo perteneciente a la Matrix de Simbolismo y Esoterismo TL V.2.
 
-## AnÃ¡lisis De Tiers
+## Análisis De Tiers
 *En desarrollo...*
 
 ## Cui Bono
-*Pendiente de anÃ¡lisis forense.*
+*Pendiente de análisis forense.*
 

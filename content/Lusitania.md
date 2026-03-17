@@ -29,7 +29,7 @@ El Lusitania es el prototipo de la **Falsa Bandera Pasiva**: no hace falta dispa
 
 ## Conexiones De La Red
 - **Arquitectos:** [[Winston Churchill]], [[J.P. Morgan]], [[Edward Mandel House\|Edward Mandell House]].
-- **Políticos:** [[Woodrow Wilson]] (quien ganó con el eslogan "Ã‰l nos mantuvo fuera de la guerra").
+- **Políticos:** [[Woodrow Wilson]] (quien ganó con el eslogan "Él nos mantuvo fuera de la guerra").
 - **Táctica:** [[Falsa Bandera]], [[Propaganda de Atrocidad]].
 - **Contexto:** [[Primera Guerra Mundial]], [[00_Glosario - Conceptos Fase 1#Banca Central\|Banca Central]].
 

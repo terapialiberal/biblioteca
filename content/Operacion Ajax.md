@@ -16,7 +16,7 @@ publish: true
 
 ### Tier A (La Oligarquía Petrolera Y El Dólar)
 *   **La Defensa de la Renta Corporativa:** Mosaddegh nacionalizó la Anglo-Iranian Oil Company (hoy **[[BP]]**). Para el Tier A, esto era un pecado imperdonable: el precedente de que una nación pudiera cobrar el valor real de su recurso amenazaba la estructura de deuda global. La operación fue aprobada por los **Hermanos Dulles**, quienes representaban la fusión perfecta entre el Estado de Tier B y el capital corporativo de Tier A (Sullivan & Cromwell).
-*   **El Sha como Proxy:** Reinstalaron al Sha Mohammad Reza Pahlavi como un dictador absoluto. Ã‰l actuó como el administrador de Tier B encargado de re-privatizar el petróleo y militarizar Irán, convirtiendo al país en el principal cliente del complejo militar-industrial estadounidense en la región.
+*   **El Sha como Proxy:** Reinstalaron al Sha Mohammad Reza Pahlavi como un dictador absoluto. Él actuó como el administrador de Tier B encargado de re-privatizar el petróleo y militarizar Irán, convirtiendo al país en el principal cliente del complejo militar-industrial estadounidense en la región.
 
 ### Tier B (Los Operadores De La Falsa Bandera)
 *   **Kermit Roosevelt y la Ingeniería de Turbas:** La CIA contrató a gánsteres y clérigos para organizar ataques de bandera falsa (haciéndose pasar por comunistas que atacaban mezquitas). Esta operativa de Tier B fue diseñada para asustar a la clase media de Tier C, haciendo que prefirieran la bota del Sha ante el caos "comunista" fabricado por la propia inteligencia occidental.

@@ -1,14 +1,13 @@
 ---
 publish: true
 created: 2026-01-29T19:17:23.507-03:00
-modified: 2026-02-26T23:11:28.230-03:00
+modified: 2026-02-26T23:11:22.515-03:00
 tags:
   - terapia-liberal
   - inteligencia-forense
   - analisis-geopolitico
   - individualismo-metodologico
   - cui-bono
-cssclasses: ""
 ---
 
 # MANUAL DE CONCEPTOS  TERAPIA LIBERAL

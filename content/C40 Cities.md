@@ -17,7 +17,7 @@ publish: true
 ## Análisis De Poder (Tiers)
 
 ### Tier A (Arquitectos Del Diseño Urban)
-*   **Financiamiento de Ã‰lite:** Bloomberg y Soros usan C40 para puentear a los gobiernos nacionales y aplicar agendas globales directamente a nivel municipal. El objetivo es la desarticulación de la soberanía nacional a favor de una red de ciudades-estado bajo mando tecnocrático.
+*   **Financiamiento de Élite:** Bloomberg y Soros usan C40 para puentear a los gobiernos nacionales y aplicar agendas globales directamente a nivel municipal. El objetivo es la desarticulación de la soberanía nacional a favor de una red de ciudades-estado bajo mando tecnocrático.
 *   **Arup & Leeds University:** Los autores de los informes técnicos que sugieren metas radicales para 2030: **0 kg de carne**, **0 vehículos privados** y **3 prendas de ropa** al año por habitante.
 
 ### Tier B (Operadores / Alcaldes)
@@ -34,7 +34,7 @@ publish: true
 - [[Crédito Social (Occidental)]] (El sistema de premios y castigos)
 
 ## Fuentes
-- Informe C40: "The Future of Urban Consumption in a 1.5Â°C World".
+- Informe C40: "The Future of Urban Consumption in a 1.5°C World".
 - Planes de movilidad de Oxford y Londres (ULEZ).
 - Documentos de la red Arup.
 

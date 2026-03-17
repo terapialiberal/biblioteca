@@ -40,7 +40,7 @@ publish: true
 - [[Complejo Militar-Industrial]]: El gran beneficiario financiero del conflicto eterno.
 
 ## Conclusión Del Análisis
-La Mentira de las WMD fue la **"Gran Ã“pera de la Desinformación"**. Su importancia reside en haber demostrado que en el Tier A, la verdad es una variable prescindible si el objetivo estratégico es lo suficientemente grande. La guerra de Irak no fue un error; fue un **negocio extraordinario** para los que la planificaron. Entender esta mentira es comprender que el "orden internacional" es un escenario de teatro donde los guiones se escriben en sótanos de inteligencia y se representan en las pantallas del Tier C. Para el Tier C, fue el fin de la inocencia; para el Tier A, fue la confirmación de que pueden llevar a naciones enteras al matadero de la historia siempre que el "relato" sea lo suficientemente aterrador.
+La Mentira de las WMD fue la **"Gran Ópera de la Desinformación"**. Su importancia reside en haber demostrado que en el Tier A, la verdad es una variable prescindible si el objetivo estratégico es lo suficientemente grande. La guerra de Irak no fue un error; fue un **negocio extraordinario** para los que la planificaron. Entender esta mentira es comprender que el "orden internacional" es un escenario de teatro donde los guiones se escriben en sótanos de inteligencia y se representan en las pantallas del Tier C. Para el Tier C, fue el fin de la inocencia; para el Tier A, fue la confirmación de que pueden llevar a naciones enteras al matadero de la historia siempre que el "relato" sea lo suficientemente aterrador.
 
 ---
 **Versión:** 2.0

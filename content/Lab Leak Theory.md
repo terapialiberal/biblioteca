@@ -15,7 +15,7 @@ publish: true
 ## Análisis De Tiers
 
 ### Tier A: Los Curadores Del Biopoder Transnacional
-* **Simbiosis de la Ã‰lite Global:** El Tier A utilizó el laboratorio de Wuhan como un espacio de "tercerización de riesgos". Al financiar investigaciones prohibidas en EE.UU. a través de entidades puente en China, el Tier A científico-militar buscaba el control de la biotecnología de punta. Cuando ocurrió la fuga, el Tier A activó el **Complejo Industrial de la Censura** a escala global. El objetivo fue proteger el estatus del **Consenso Científico** como la nueva religión del Estado, asegurando que el [[Tier C]] nunca cuestionara la infalibilidad de los expertos que gestionan la vida y la muerte.
+* **Simbiosis de la Élite Global:** El Tier A utilizó el laboratorio de Wuhan como un espacio de "tercerización de riesgos". Al financiar investigaciones prohibidas en EE.UU. a través de entidades puente en China, el Tier A científico-militar buscaba el control de la biotecnología de punta. Cuando ocurrió la fuga, el Tier A activó el **Complejo Industrial de la Censura** a escala global. El objetivo fue proteger el estatus del **Consenso Científico** como la nueva religión del Estado, asegurando que el [[Tier C]] nunca cuestionara la infalibilidad de los expertos que gestionan la vida y la muerte.
 * **Capitalización del Desastre:** Independientemente de la intención de la fuga, el Tier A aprovechó la pandemia para acelerar agendas pre-existentes de centralización monetaria (CBDCs), identidad digital y destrucción del pequeño comercio a favor de las megacorporaciones, validando los protocolos del **[[Evento 201]]**.
 
 ### Tier B: Los Administradores De La Mentira (Fauci Y Daszak)

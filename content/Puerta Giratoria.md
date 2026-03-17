@@ -38,7 +38,7 @@ La Puerta Giratoria es la prueba de que **el Estado ha sido comprado desde adent
 ---
 **Versión:** 2.0
 **Enfoque:** La fusión del interés público y privado, los incentivos perversos del funcionario que busca empleo corporativo y la puerta giratoria como herramienta de creación de monopolios.
-**Estado:** Refactoreado a TL V.2 - Framework de Captura de Ã‰lites.
+**Estado:** Refactoreado a TL V.2 - Framework de Captura de Élites.
 
 
 

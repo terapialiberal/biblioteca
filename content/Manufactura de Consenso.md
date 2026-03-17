@@ -11,7 +11,7 @@ publish: true
 
 ## Resumen Ejecutivo
 **Qué es:** Un modelo de análisis de medios que describe cómo las sociedades democráticas controlan a su población mediante el manejo de la información, en lugar de la fuerza física.
-**Por qué Importa:** La Manufactura de Consenso es el **Software de Control de Tier A**. Al poseer los medios de comunicación, las corporaciones y el Estado no necesitan censurar la disidencia; simplemente saturan el campo con una "Narrativa Ãšnica" y establecen los límites del debate aceptable (**[[Ventana de Overton]]**). El ciudadano (Tier C) cree que ha llegado a sus propias conclusiones basándose en "hechos libres", sin darse cuenta de que esos hechos han pasado por una serie de filtros diseñados para proteger los intereses de la élite.
+**Por qué Importa:** La Manufactura de Consenso es el **Software de Control de Tier A**. Al poseer los medios de comunicación, las corporaciones y el Estado no necesitan censurar la disidencia; simplemente saturan el campo con una "Narrativa Única" y establecen los límites del debate aceptable (**[[Ventana de Overton]]**). El ciudadano (Tier C) cree que ha llegado a sus propias conclusiones basándose en "hechos libres", sin darse cuenta de que esos hechos han pasado por una serie de filtros diseñados para proteger los intereses de la élite.
 
 
 ## Análisis (Tiers)

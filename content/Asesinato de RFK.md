@@ -35,7 +35,7 @@ publish: true
 
 ## Citas Reveladoras
 
-> *«I now fully believe that Sirhan Sirhan did not shoot my father.»* â€” **Robert F. Kennedy Jr.**
+> *«I now fully believe that Sirhan Sirhan did not shoot my father.»* — **Robert F. Kennedy Jr.**
 
 ## Conexiones
 - [[Asesinato de JFK]] (hermano, prometió investigar)

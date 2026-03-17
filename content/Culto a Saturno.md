@@ -10,7 +10,7 @@ publish: true
 # Culto a Saturno (El Cubo Negro)
 
 ## Resumen Ejecutivo
-**¿Qué es?** La adoración antigua al planeta/dios Saturno (Cronos, Ã‰l, Jehová oscuro). Se representa geométricamente como un **Cubo Negro** (el hexágono en el polo norte de Saturno es un cubo 2D).
+**¿Qué es?** La adoración antigua al planeta/dios Saturno (Cronos, Él, Jehová oscuro). Se representa geométricamente como un **Cubo Negro** (el hexágono en el polo norte de Saturno es un cubo 2D).
 
 **¿Por qué importa?** Es el culto raíz de las grandes religiones y corporaciones.
 - **Islam:** La Kaaba en la Meca es un cubo negro gigante alrededor del cual giran.

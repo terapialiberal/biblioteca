@@ -39,7 +39,7 @@ publish: true
 - [[CFR (Council on Foreign Relations)]]: El laboratorio ideológico donde se diseñaban sus políticas de dominio global.
 
 ## Conclusión Del Análisis
-John Foster Dulles es el **"Abogado que Privatizó al Estado"**. Su legado es un mundo donde las banderas nacionales son solo logos que ocultan la verdadera soberanía de los contratos firmados en Wall Street. Dulles nos enseñó que en la Matrix geopolítica, el comunismo y el socialismo son solo etiquetas vacías utilizadas para deshumanizar a los competidores del Tier A. Entender a Dulles es comprender que la Guerra Fría fue la **consolidación del monopolio corporativo occidental** mediante el terror nuclear. Ã‰l no buscaba la paz; buscaba un mundo donde la firma de un abogado de Sullivan & Cromwell fuera más poderosa que la voluntad de millones de seres humanos de Tier C.
+John Foster Dulles es el **"Abogado que Privatizó al Estado"**. Su legado es un mundo donde las banderas nacionales son solo logos que ocultan la verdadera soberanía de los contratos firmados en Wall Street. Dulles nos enseñó que en la Matrix geopolítica, el comunismo y el socialismo son solo etiquetas vacías utilizadas para deshumanizar a los competidores del Tier A. Entender a Dulles es comprender que la Guerra Fría fue la **consolidación del monopolio corporativo occidental** mediante el terror nuclear. Él no buscaba la paz; buscaba un mundo donde la firma de un abogado de Sullivan & Cromwell fuera más poderosa que la voluntad de millones de seres humanos de Tier C.
 
 ---
 **Versión:** 2.0

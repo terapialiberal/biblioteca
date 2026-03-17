@@ -15,7 +15,7 @@ Formación geológica en Neuquén. Es la segunda reserva mundial de **Shale Gas*
 ## Análisis Terapia Liberal (Cui Bono)
 ### Tier A (Beneficiarios)
 *   **Multinacionales (Chevron, Shell, Exxon):** Acceden a recursos baratos con subsidios estatales (Plan Gas).
-*   **Estado Argentino:** Ãšnica esperanza de conseguir dólares genuinos para pagar la deuda eterna.
+*   **Estado Argentino:** Única esperanza de conseguir dólares genuinos para pagar la deuda eterna.
 
 ## Puntos Clave
 *   **Acuerdo [[YPF]]-Chevron:** Cristinismo tuvo que firmar cláusulas secretas cediendo soberanía judicial para atraer a Chevron.

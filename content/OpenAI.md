@@ -1,5 +1,5 @@
 ---
-titulo: "OpenAI (TL V.2): El Ãštero De La Super-Inteligencia Centralizada"
+titulo: "OpenAI (TL V.2): El Útero De La Super-Inteligencia Centralizada"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [centralizada, openai, super, tero]
 publish: true
 ---
-# OpenAI (TL V.2): El Ãštero De La Super-Inteligencia Centralizada
+# OpenAI (TL V.2): El Útero De La Super-Inteligencia Centralizada
 
 > [!ABSTRACT] Hipótesis Informativa
 > OpenAI no es un laboratorio de investigación para el "bien de la humanidad", sino el **vehículo de aceleración de la IA General (AGI) para el [[Tier A]]**. Tras su máscara de *non-profit*, OpenAI ha construido el sistema de captura de datos más masivo de la historia, permitiendo que una entidad corporativa (Microsoft) posea los derechos sobre la "inteligencia" misma. Su función es centralizar el procesamiento del pensamiento humano en un solo embudo algorítmico, preparando el camino para la **Gobernanza por Algoritmo** y la obsolescencia biológica del **[[Tier C]]**.

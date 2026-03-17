@@ -17,7 +17,7 @@ publish: true
 ## Análisis De Poder (Tiers)
 
 ### Tier A (Los Dueños Del Secreto)
-*   **La Conexión Mossad:** Al igual que su padre, Ghislaine es considerada un activo de alto nivel de la inteligencia israelí. Su respuesta en el juicio â€”"no deliberadamente"â€” cuando se le preguntó por sus vínculos con Mossad es una admisión técnica. El Tier A utiliza el chantaje sexual como la herramienta definitiva de control político global.
+*   **La Conexión Mossad:** Al igual que su padre, Ghislaine es considerada un activo de alto nivel de la inteligencia israelí. Su respuesta en el juicio —"no deliberadamente"— cuando se le preguntó por sus vínculos con Mossad es una admisión técnica. El Tier A utiliza el chantaje sexual como la herramienta definitiva de control político global.
 *   **Protección de Clientes:** El hecho de que la lista de clientes de Epstein/Maxwell permanezca sellada y que ningún "comprador" haya sido juzgado, demuestra que el Tier A institucional ha decidido proteger a sus operadores a cambio del silencio de Ghislaine.
 
 ### Tier B (Operadores / TerraMar Y Reclutamiento)

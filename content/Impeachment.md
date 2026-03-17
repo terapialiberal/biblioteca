@@ -17,7 +17,7 @@ publish: true
 ## Análisis De Poder (Tiers)
 
 ### Tier A (Los Dueños De La Continuidad Del Sistema)
-*   **Gestión del Disidente:** Para el Tier A, Trump era una anomalía que debía ser disciplinada a través del proceso judicial, sin llegar a romper el sistema de inmunidad que protege a todos los expresidentes. El impeachment sirvió como un "correctivo" para recordarle a Trump â€”y a futuros populistasâ€” quién maneja las reglas del juego legal.
+*   **Gestión del Disidente:** Para el Tier A, Trump era una anomalía que debía ser disciplinada a través del proceso judicial, sin llegar a romper el sistema de inmunidad que protege a todos los expresidentes. El impeachment sirvió como un "correctivo" para recordarle a Trump —y a futuros populistas— quién maneja las reglas del juego legal.
 
 ### Tier B (Operadores / El Congreso Y Los Fiscales De Medios)
 *   **Nancy Pelosi / Adam Schiff:** Operadores de Tier B que utilizaron el impeachment como una herramienta de recaudación de fondos y movilización emocional del Tier C demócrata, sabiendo de antemano que la absolución en el Senado estaba garantizada.

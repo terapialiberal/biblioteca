@@ -7,7 +7,7 @@ tags: [clasificado-ai]
 publish: true
 ---
 ﻿---
-titulo: Neptuno Y El Velo De La IlusiÃ³n
+titulo: Neptuno Y El Velo De La Ilusión
 tipo: "concepto"
 fecha: 2026-02-25
 tags: [ilusin, neptuno, velo]
@@ -16,14 +16,14 @@ nivel-evidencia: "medio"
 publish: true
 ---
 
-# Neptuno Y El Velo De La IlusiÃ³n
+# Neptuno Y El Velo De La Ilusión
 
-> [!ABSTRACT] HipÃ³tesis Informativa
+> [!ABSTRACT] Hipótesis Informativa
 > Nodo perteneciente a la Matrix de Simbolismo y Esoterismo TL V.2.
 
-## AnÃ¡lisis De Tiers
+## Análisis De Tiers
 *En desarrollo...*
 
 ## Cui Bono
-*Pendiente de anÃ¡lisis forense.*
+*Pendiente de análisis forense.*
 

@@ -10,7 +10,7 @@ publish: true
 # Los Chicos En Las Vías: El Crimen De Mena Y La Protección Clinton
 
 > [!ABSTRACT] Resumen de Inteligencia
-> El asesinato de Kevin Ives y Don Henry en 1987 es el "pecado original" de la red Clinton en Arkansas. Los adolescentes fueron asesinados por presenciar un lanzamiento de droga vinculado a la operación de la **[[CIA]]** en el aeropuerto de **[[Mena, Arkansas]]**. Lo que siguió fue un encubrimiento sistémico que involucró a forenses corruptos, al FBI y al entonces gobernador **[[Bill Clinton]]**, demostrando que el **Tier B** de inteligencia eliminará cualquier obstáculo â€”incluyendo niñosâ€” para proteger sus rutas de financiamiento negro.
+> El asesinato de Kevin Ives y Don Henry en 1987 es el "pecado original" de la red Clinton en Arkansas. Los adolescentes fueron asesinados por presenciar un lanzamiento de droga vinculado a la operación de la **[[CIA]]** en el aeropuerto de **[[Mena, Arkansas]]**. Lo que siguió fue un encubrimiento sistémico que involucró a forenses corruptos, al FBI y al entonces gobernador **[[Bill Clinton]]**, demostrando que el **Tier B** de inteligencia eliminará cualquier obstáculo —incluyendo niños— para proteger sus rutas de financiamiento negro.
 
 ## Análisis De Poder (Matrix)
 

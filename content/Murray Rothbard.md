@@ -14,7 +14,7 @@ publish: true
 
 ## Análisis De Tiers
 
-### Tier C: El Arsenal Ã‰tico
+### Tier C: El Arsenal Ético
 *   **Principio de No Agresión (PNA):** Rothbard armó filosóficamente al individuo común. Estableció que ningún fin político justifica el inicio de la fuerza física. Esto despoja al político y al policía de su aura de autoridad sagrada, reduciéndolos a meros agresores si violan la propiedad ajena. Es el antídoto contra el adoctrinamiento escolar estatista.
 *   **Revisionismo Histórico:** Rothbard expuso cómo la Reserva Federal y las guerras mundiales fueron conspiraciones de élites bancarias (Tier A) aliadas con el Estado para cartelizar la economía. Devolvió la historia económica al pueblo, mostrando quiénes son los verdaderos beneficiarios de la inflación.
 

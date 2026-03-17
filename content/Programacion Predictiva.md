@@ -34,7 +34,7 @@ publish: true
 - [[1984 (George Orwell)]]: El manual de programación predictiva para el estado totalitario moderno.
 
 ## Conclusión Del Análisis
-La Programación Predictiva nos enseña que **nada en la Matrix es un accidente**. Si lo has visto en la pantalla grande antes de verlo en las noticias, estás ante una operación de ingeniería social. El Tier C debe aprender a ver el cine no como un escape, sino como un **Mapa de las Intenciones de la Ã‰lite**. La verdadera libertad creativa requiere desconectar de los guiones impuestos y recuperar la capacidad de sorprendernos, cuestionar la realidad y rechazar el futuro que intentan instalarnos como si fuese un destino inevitable.
+La Programación Predictiva nos enseña que **nada en la Matrix es un accidente**. Si lo has visto en la pantalla grande antes de verlo en las noticias, estás ante una operación de ingeniería social. El Tier C debe aprender a ver el cine no como un escape, sino como un **Mapa de las Intenciones de la Élite**. La verdadera libertad creativa requiere desconectar de los guiones impuestos y recuperar la capacidad de sorprendernos, cuestionar la realidad y rechazar el futuro que intentan instalarnos como si fuese un destino inevitable.
 
 ---
 **Versión:** 2.0

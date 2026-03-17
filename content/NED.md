@@ -26,7 +26,7 @@ publish: true
     4. **Solidarity Center (Sindicatos):** Neutralización de la resistencia obrera real.
 * **Entrenamiento de Cuadros:** Identifican y financian a jóvenes "líderes" en países objetivo, creando una red de lealtad internacional que responde a Washington antes que a su propio pueblo.
 
-### Tier C: El Activista Ãštil
+### Tier C: El Activista Útil
 * **La Infantería de las Plazas:** El Tier C es movilizado mediante consignas de "libertad" y "anticorrupción". No saben que sus protestas están siendo orquestadas para reemplazar a un autócrata local por un administrador de activos del Tier A. Son la carne de cañón emocional de las **[[Revolución de Color\|Revoluciones de Color]]**.
 
 ## ¸ Mecanismos De Poder

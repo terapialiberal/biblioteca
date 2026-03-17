@@ -21,7 +21,7 @@ publish: true
 *   **Jacques Attali:** El ideólogo globalista que presentó a Macron al sistema. Attali, quien aboga por una moneda única y un gobierno mundial, vio en Macron al ejecutor perfecto de la disolución de las naciones-estado en Europa.
 
 ### Tier B (Operadores / La Escuela De Administración)
-*   **ENA (Ã‰cole Nationale d'Administration):** Macron es producto de la casta burocrática francesa de Tier B que se cree superior al ciudadano común por su formación técnica.
+*   **ENA (École Nationale d'Administration):** Macron es producto de la casta burocrática francesa de Tier B que se cree superior al ciudadano común por su formación técnica.
 *   **Mckinsey & Co:** Durante su presidencia, Macron ha externalizado gran parte de las decisiones estatales (incluyendo la gestión de la vacunación COVID) a consultoras privadas de Tier B, moviendo el poder real fuera de los ministerios electos.
 
 ### Tier C (Narrativa Pública)
@@ -34,7 +34,7 @@ publish: true
 - [[Chalecos Amarillos]] (Su principal resistencia de Tier C)
 
 ## Fuentes
-- "Le TraÃ®tre et le Néant" (Investigación sobre su traición al partido socialista y su ascenso).
+- "Le Traître et le Néant" (Investigación sobre su traición al partido socialista y su ascenso).
 - Registros de la consultora McKinsey en el Elíseo.
 - Biografía: "Emmanuel Macron: Un joven tan perfecto".
 

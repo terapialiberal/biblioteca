@@ -17,8 +17,8 @@ publish: true
 ### Tier C (La Memoria Como Arma De Defensa)
 *   **La Inmunidad Informativa:** El Tier C vive en un estado de "presente perpetuo" inducido por los medios de comunicación. El Método del Precedente rompe este hechizo al recuperar la **Memoria de Largo Plazo**. Si el Tier C recuerda que el gobierno ya mintió en el pasado (Tonkín, WMDs en Irak) usando exactamente el mismo lenguaje que usa hoy, se vuelve inmune a la propaganda actual. El investigador de Tier C actúa como un detective de la historia, comparando las "huellas dactilares" de los eventos para identificar al mismo autor: la élite de Tier A.
 
-### Tier A (La Pereza Creativa De La Ã‰lite)
-*   **El Reciclaje de los Ã‰xitos:** El Tier A no innova si una táctica funciona. ¿Por qué cambiar el guion si la población de Tier C sigue creyendo en el "enemigo externo" o el "pánico sanitario"? El uso de **Plantillas Operativas** (como las descritas en la **[[Operación Northwoods]]**) permite al sistema ejecutar cambios geopolíticos masivos con una inversión mínima de creatividad. El Tier A confía en que el Tier C olvidará el precedente en una generación, permitiendo que la misma mentira sea "nueva" cada 30 años.
+### Tier A (La Pereza Creativa De La Élite)
+*   **El Reciclaje de los Éxitos:** El Tier A no innova si una táctica funciona. ¿Por qué cambiar el guion si la población de Tier C sigue creyendo en el "enemigo externo" o el "pánico sanitario"? El uso de **Plantillas Operativas** (como las descritas en la **[[Operación Northwoods]]**) permite al sistema ejecutar cambios geopolíticos masivos con una inversión mínima de creatividad. El Tier A confía en que el Tier C olvidará el precedente en una generación, permitiendo que la misma mentira sea "nueva" cada 30 años.
 
 ## ¸ Mecanisms De Poder (Metodológicos)
 

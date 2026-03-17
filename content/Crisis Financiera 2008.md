@@ -36,7 +36,7 @@ publish: true
 
 ## Citas Reveladoras
 
-> *«We were doing God's work.»* â€” **Lloyd Blankfein, Goldman Sachs CEO**
+> *«We were doing God's work.»* — **Lloyd Blankfein, Goldman Sachs CEO**
 
 ## Conexiones
 - [[Goldman Sachs]]

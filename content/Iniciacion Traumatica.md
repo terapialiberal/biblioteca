@@ -7,7 +7,7 @@ tags: [clasificado-ai]
 publish: true
 ---
 ﻿---
-titulo: IniciaciÃ³n TraumÃ¡tica (Gaza)
+titulo: Iniciación Traumática (Gaza)
 tipo: persona
 fecha: 2026-02-25
 tags: [iniciacin, traumtica]
@@ -16,14 +16,14 @@ nivel-evidencia: "medio"
 publish: true
 ---
 
-# IniciaciÃ³n TraumÃ¡tica (Gaza)
+# Iniciación Traumática (Gaza)
 
-> [!ABSTRACT] HipÃ³tesis Informativa
+> [!ABSTRACT] Hipótesis Informativa
 > Nodo perteneciente a la Matrix de Simbolismo y Esoterismo TL V.2.
 
-## AnÃ¡lisis De Tiers
+## Análisis De Tiers
 *En desarrollo...*
 
 ## Cui Bono
-*Pendiente de anÃ¡lisis forense.*
+*Pendiente de análisis forense.*
 

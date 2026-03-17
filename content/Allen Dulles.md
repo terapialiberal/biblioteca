@@ -41,4 +41,4 @@ publish: true
 
 ## Por Qué Importa (Estilo Nico)
 
-> "El caso de Dulles es la prueba definitiva de que en EE.UU. el presidente es solo el logo del banco. El tipo fue despedido por JFK, Kennedy terminó muerto meses después, y el mismo Dulles â€”el sospechoso número unoâ€” se puso el traje de juez para decirnos que no hubo conspiración. Dulles no era un espía, era el capo de un sindicato que privatizó la política exterior de la nación más poderosa del mundo. Si querés entender por qué JFK no pudo contra el sistema, estudiá a Dulles."
+> "El caso de Dulles es la prueba definitiva de que en EE.UU. el presidente es solo el logo del banco. El tipo fue despedido por JFK, Kennedy terminó muerto meses después, y el mismo Dulles —el sospechoso número uno— se puso el traje de juez para decirnos que no hubo conspiración. Dulles no era un espía, era el capo de un sindicato que privatizó la política exterior de la nación más poderosa del mundo. Si querés entender por qué JFK no pudo contra el sistema, estudiá a Dulles."

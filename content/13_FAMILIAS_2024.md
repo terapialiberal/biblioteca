@@ -1,14 +1,13 @@
 ---
 publish: true
 created: 2026-01-29T19:17:02.032-03:00
-modified: 2026-02-27T16:46:51.668-03:00
+modified: 2026-02-27T16:46:56.849-03:00
 tags:
   - dinastias-operativas
   - control-global
   - poder-sistemico
   - inteligencia-forense
   - cibernetica-de-poder
-cssclasses: ""
 ---
 
 

@@ -10,7 +10,7 @@ publish: true
 # Programa PRISM (TL V.2): El Cordón Umbilical De La Vigilancia
 
 > [!ABSTRACT] Hipótesis Informativa
-> PRISM (oficialmente US-984XN) es el **Protocolo de Acceso Directo de [[Tier A]] a los Servidores de [[Big Tech]]**. Revelado por [[Edward Snowden]] en 2013, este programa de la NSA permite a la comunidad de inteligencia extraer correos, chats, vídeos y fotos directamente de los servidores de Microsoft, Google, Apple, Facebook y otros. PRISM es la prueba de que el sector privado tecnológico no es un aliado del ciudadano de **[[Tier C]]**, sino un **Ã“rgano de Extracción de Datos** integrado orgánicamente en el aparato de seguridad nacional, garantizando que el anonimato digital sea una ilusión técnica para las masas.
+> PRISM (oficialmente US-984XN) es el **Protocolo de Acceso Directo de [[Tier A]] a los Servidores de [[Big Tech]]**. Revelado por [[Edward Snowden]] en 2013, este programa de la NSA permite a la comunidad de inteligencia extraer correos, chats, vídeos y fotos directamente de los servidores de Microsoft, Google, Apple, Facebook y otros. PRISM es la prueba de que el sector privado tecnológico no es un aliado del ciudadano de **[[Tier C]]**, sino un **Órgano de Extracción de Datos** integrado orgánicamente en el aparato de seguridad nacional, garantizando que el anonimato digital sea una ilusión técnica para las masas.
 
 ## Análisis De Tiers
 

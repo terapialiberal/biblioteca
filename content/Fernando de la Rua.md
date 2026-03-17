@@ -17,7 +17,7 @@ publish: true
 ## Análisis De Poder (Tiers)
 
 ### Tier A (Los Dueños De La Quiebra)
-*   **El Abandono del FMI:** El Tier A (encabezado por Horst KÃ¶hler del FMI) decidió "dejar caer" a Argentina en 2001 para disciplinar a los mercados emergentes. De la Rúa fue el sacrificio humano necesario para formatear la economía argentina bajo nuevas reglas de default y pesificación.
+*   **El Abandono del FMI:** El Tier A (encabezado por Horst Köhler del FMI) decidió "dejar caer" a Argentina en 2001 para disciplinar a los mercados emergentes. De la Rúa fue el sacrificio humano necesario para formatear la economía argentina bajo nuevas reglas de default y pesificación.
 *   **Banca Transnacional:** Durante su gobierno, los bancos permitieron la fuga masiva de capitales de la élite argentina mientras imponían el "Corralito" (congelamiento de ahorros) al ciudadano de Tier C.
 
 ### Tier B (Operadores / El Gabinete Del Caos)

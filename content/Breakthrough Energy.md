@@ -1,8 +1,7 @@
 ---
 publish: true
 created: 2026-03-04T19:45:25.947-03:00
-modified: 2026-03-05T17:25:20.829-03:00
-cssclasses: ""
+modified: 2026-03-05T17:25:16.251-03:00
 ---
 
 "Establecida en 2015 por Bill Gates y una coalición de inversores privados preocupados por los impactos del cambio climático acelerado, Breakthrough Energy apoya las innovaciones que llevarán al mundo a cero emisiones netas.

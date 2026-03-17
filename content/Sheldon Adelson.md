@@ -18,7 +18,7 @@ publish: true
 # Sheldon Adelson (TL V.2): El Comprador De La Poltica Exterior
 
 > [!ABSTRACT] Hiptesis Informativa
-> Sheldon Adelson constituye el **paradigma de la captura del Estado por parte del capital privado de [[Tier A]]**. Utilizando su fortuna proveniente del imperio de casinos (herencia estructural de la red de Meyer Lansky en Las Vegas), Adelson financi sistemticamente la carrera de **[[Benjamin Netanyahu]]** y la eleccin de **[[Donald Trump]]** con un objetivo nico: la reconfiguracin agresiva de Oriente Medio en favor de un Israel expansionista. Su importancia reside en haber demostrado que un solo individuo puede "comprar" decisiones soberanas de una superpotencia â€”como el traslado de la embajada a Jerusaln o la ruptura del acuerdo con Irnâ€” utilizando a **[[Jared Kushner]]** como su operador interno y a figuras como **[[David Friedman]]** y **[[John Bolton]]** como sus ejecutores doctrinarios.
+> Sheldon Adelson constituye el **paradigma de la captura del Estado por parte del capital privado de [[Tier A]]**. Utilizando su fortuna proveniente del imperio de casinos (herencia estructural de la red de Meyer Lansky en Las Vegas), Adelson financi sistemticamente la carrera de **[[Benjamin Netanyahu]]** y la eleccin de **[[Donald Trump]]** con un objetivo nico: la reconfiguracin agresiva de Oriente Medio en favor de un Israel expansionista. Su importancia reside en haber demostrado que un solo individuo puede "comprar" decisiones soberanas de una superpotencia —como el traslado de la embajada a Jerusaln o la ruptura del acuerdo con Irn— utilizando a **[[Jared Kushner]]** como su operador interno y a figuras como **[[David Friedman]]** y **[[John Bolton]]** como sus ejecutores doctrinarios.
 
 ## Anlisis De Tiers
 

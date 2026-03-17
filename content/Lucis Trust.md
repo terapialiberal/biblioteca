@@ -10,7 +10,7 @@ publish: true
 # ¸ Lucis Trust: Los Arquitectos Espirituales Del Globalismo
 
 > [!ABSTRACT] Resumen de Inteligencia
-> Lucis Trust (fundada por Alice Bailey en 1922) es el puente entre el esoterismo de **Tier A** y la gobernanza global de **Tier B**. Con estatus consultivo ante la **[[ONU]]**, esta organización promueve la "Religión Mundial Ãšnica" y la preparación para un "Instructor Global" (Avatar). No es un grupo marginal; es la entidad que gestiona el componente místico-espiritual necesario para legitimar la **[[Agenda 2030]]** ante la humanidad, transformando la burocracia técnica en una "Misión Mesiánica".
+> Lucis Trust (fundada por Alice Bailey en 1922) es el puente entre el esoterismo de **Tier A** y la gobernanza global de **Tier B**. Con estatus consultivo ante la **[[ONU]]**, esta organización promueve la "Religión Mundial Única" y la preparación para un "Instructor Global" (Avatar). No es un grupo marginal; es la entidad que gestiona el componente místico-espiritual necesario para legitimar la **[[Agenda 2030]]** ante la humanidad, transformando la burocracia técnica en una "Misión Mesiánica".
 
 ## Análisis De Poder (Matrix)
 

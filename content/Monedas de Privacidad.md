@@ -1,5 +1,5 @@
 ---
-titulo: "Monedas De Privacidad (TL V.2): El Ãšltimo Bastión De Soberanía"
+titulo: "Monedas De Privacidad (TL V.2): El Último Bastión De Soberanía"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -7,7 +7,7 @@ nivel-evidencia: "medio"
 tags: [cbdc, monedas, monero, privacidad]
 publish: true
 ---
-# Monedas De Privacidad (TL V.2): El Ãšltimo Bastión De Soberanía
+# Monedas De Privacidad (TL V.2): El Último Bastión De Soberanía
 
 > [!ABSTRACT] Hipótesis Informativa
 > Las Monedas de Privacidad (Privacy Coins) representan la **contra-ofensiva tecnológica** del **[[Tier C]]** frente al Panóptico Financiero Total que construye el **[[Tier A]]** (CBDCs). En un mundo donde cada transacción digital es un dato de inteligencia minado por estados y corporaciones, protocolos como **[[Monero]]** restauran la propiedad fundamental del efectivo: el **anonimato**. Por esta razón, son el objetivo prioritario de una campaña de "aniquilación regulatoria" global coordinada por el GAFI y el Tesoro de EE.UU., quienes correctamente identifican la privacidad financiera como la mayor amenaza a su capacidad de control y sanción.

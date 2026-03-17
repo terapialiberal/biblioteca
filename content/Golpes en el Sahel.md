@@ -21,7 +21,7 @@ publish: true
 *   **Guerra de Recursos Rusia vs Occidente:** El Tier A ruso (Vía Wagner) ha aprovechado el vacío para asegurar el acceso a recursos críticos, desplazando a las multinacionales occidentales en un movimiento de pinza geopolítica sobre el continente.
 
 ### Tier B (Operadores / Capitanes Del Cambio)
-*   **Ibrahim Traoré y Assimi GoÃ¯ta:** Operadores militares de Tier B que han capturado la narrativa de soberanía, utilizando el descontento del Tier C contra el colonialismo para expulsar a las embajadas y bases militares extranjeras.
+*   **Ibrahim Traoré y Assimi Goïta:** Operadores militares de Tier B que han capturado la narrativa de soberanía, utilizando el descontento del Tier C contra el colonialismo para expulsar a las embajadas y bases militares extranjeras.
 *   **Wagner Group / Africa Corps:** Los operadores de Tier B rusos que proporcionan "seguridad soberana" a los nuevos regímenes a cambio de concesiones mineras, sustituyendo un paraguas imperial por otro.
 
 ### Tier C (Narrativa Pública)

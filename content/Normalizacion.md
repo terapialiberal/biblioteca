@@ -16,7 +16,7 @@ publish: true
 
 ### Tier B (Los Arquitectos De La Ventana De Overton)
 *   **De la Crisis al Nuevo Consenso:** El Tier B operativo (medios, académicos, burócratas) gestiona la transición emocional de la población. Su labor es convencer al Tier C de que "el mundo ha cambiado para siempre" y de que la resistencia al nuevo sistema no es una opción política, sino un acto de locura o egoísmo.
-*   **La Eliminación de los "Subversores Ãštiles":** Según Bezmenov, una vez alcanzada la normalización, el Tier A elimina a los activistas y "tontos útiles" que ayudaron a destruir el orden anterior. Son descartados porque ya no son útiles y porque su tendencia a la rebelión es una amenaza para la nueva estabilidad de la Matrix.
+*   **La Eliminación de los "Subversores Útiles":** Según Bezmenov, una vez alcanzada la normalización, el Tier A elimina a los activistas y "tontos útiles" que ayudaron a destruir el orden anterior. Son descartados porque ya no son útiles y porque su tendencia a la rebelión es una amenaza para la nueva estabilidad de la Matrix.
 
 ### Tier A (El Beneficiario De La Estabilidad Impuesta)
 *   **La Capitalización del Shock:** Para el Tier A, la normalización es el día de cobrar los beneficios de la crisis. Han logrado mover la **Ventana de Overton** hacia la centralización total, eliminando la soberanía individual y nacional. La normalización permite que el sistema opere con la eficiencia de una máquina, sin la "fricción" que produce la libertad humana.
