@@ -23,11 +23,11 @@ tags: [moc, patrones, geopolitica, teoria-de-juegos, tl-v2]
 
 > *El control de los recursos y la geografía dictan el flujo del poder.*
 
-- [[Teoría del Heartland]] (Mackinder) — Quien domina el corazón de Eurasia, domina el mundo.
-- [[Teoría del Rimland]] (Spykman) — Quien domina la periferia euroasiática (costas), contiene al Heartland.
+- [[Teoria del Heartland]] (Mackinder) — Quien domina el corazón de Eurasia, domina el mundo.
+- [[Teoria del Rimland]] (Spykman) — Quien domina la periferia euroasiática (costas), contiene al Heartland.
 - [[El Gran Tablero Mundial]] (Brzezinski) — Eurasia como el tablero donde EEUU debe evitar el surgimiento de un hegemón.
-- [[Poder Marítimo]] (Mahan) — El control de los estrechos (choke points) como apalancamiento global.
-- [[Trampa de Tucídides]] — El conflicto inevitable cuando un poder emergente amenaza a un hegemón establecido.
+- [[Poder Maritimo]] (Mahan) — El control de los estrechos (choke points) como apalancamiento global.
+- [[Trampa de Tucidides]] — El conflicto inevitable cuando un poder emergente amenaza a un hegemón establecido.
 
 ---
 
@@ -38,7 +38,7 @@ tags: [moc, patrones, geopolitica, teoria-de-juegos, tl-v2]
 - [[Patron - Equilibrio de Nash]] — Situación donde nadie gana cambiando su estrategia unilateralmente (status quo ineficiente).
 - [[Patrón - Juego del Gallina (Chicken)]] — Estrategia suicida para obligar al oponente a ceder por miedo al choque mutuo (Brinkmanship).
 - [[Patron - El Dilema del Prisionero]] — Por qué actores racionales no cooperan aunque les convenga hacerlo.
-- [[Teoría de Juegos]] — El enfoque general.
+- [[Teoria de Juegos]] — El enfoque general.
 
 ---
 
@@ -59,13 +59,13 @@ tags: [moc, patrones, geopolitica, teoria-de-juegos, tl-v2]
 > *Mecanismos cibernéticos de control poblacional.*
 
 - [[Manufactura de Consenso]] (Chomsky/Herman) — Los filtros estructurales que dictan lo que los medios pueden reportar.
-- [[Dialéctica Hegeliana]] (Problema-Reacción-Solución) — Crear el caos, esperar la demanda de seguridad, ofrecer el control pre-diseñado.
+- [[Dialectica Hegeliana]] (Problema-Reacción-Solución) — Crear el caos, esperar la demanda de seguridad, ofrecer el control pre-diseñado.
 - [[Ventana de Overton]] — Expansión o contracción de lo que es políticamente aceptable discutir.
-- [[Estrategia de la Tensión]] (Gladio) — Falsas banderas y terrorismo para asegurar la alineación poblacional a un Estado protector.
-- [[Teoría del Empujón]] (Nudge Theory / Sunstein) — Arquitectura de decisión sutil para alterar el comportamiento colectivo sin coerción explícita.
+- [[Estrategia de la Tension]] (Gladio) — Falsas banderas y terrorismo para asegurar la alineación poblacional a un Estado protector.
+- [[Teoria del Empujon]] (Nudge Theory / Sunstein) — Arquitectura de decisión sutil para alterar el comportamiento colectivo sin coerción explícita.
 - [[Patron - Limited Hangout]] — Admisión de una verdad menor para encubrir la conspiración estructural mayor ante una fuga de información.
 - [[Patron - Volcado Selectivo de Informacion (Kompromat)\|Patrón - Volcado Selectivo de Información (Kompromat)]] — Filtración asimétrica de archivos secretos (Ej. Lista Epstein) como arma para purgar facciones del Tier B/C, no para buscar justicia.
-- [[Gaslighting]] / [[Hipernormalización]] (Adam Curtis) — Cuando la mentira es tan masiva y evidente que la población renuncia a entender la realidad y abraza el show.
+- [[Gaslighting]] / [[Hipernormalizacion]] (Adam Curtis) — Cuando la mentira es tan masiva y evidente que la población renuncia a entender la realidad y abraza el show.
 
 ---
 *Versión: TL V.2 | Nodo Central: [[00_MOC_MAESTRO_BASE_DE_CONOCIMIENTO]]*

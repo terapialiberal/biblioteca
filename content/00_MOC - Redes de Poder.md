@@ -107,7 +107,7 @@ Rhodes Trust ? Round Table ? CFR ? Bilderberg ? Trilateral ? WEF
 
 ### Kompromat Y Lealtad Forzada (Dark Game Theory)
 - [[Honey Pot (Operacin)]] / [[Honeypot (Operacin de Inteligencia)]]  El chantaje como governance
-- [[Programación Monarch\|Programacin Monarch]]  Control mental documentado (MKUltra operativo)
+- [[Programacion Monarch\|Programacin Monarch]]  Control mental documentado (MKUltra operativo)
 - [[Carpeta (Extorsin)]]  La versin argentina del kompromat
 - [[J. Edgar Hoover]]  El archivo que control a presidentes
 
@@ -144,7 +144,7 @@ Rhodes Trust ? Round Table ? CFR ? Bilderberg ? Trilateral ? WEF
 ## ?? COORDINAR LA NARRATIVA (El Vector Infosfrico)
 
 - [[Manufactura de Consenso]]  Chomsky/Bernays: el manual
-- [[Operación Mockingbird\|Operacin Mockingbird]]  La CIA y los medios
+- [[Operacion Mockingbird\|Operacin Mockingbird]]  La CIA y los medios
 - [[Edelman]]  La mayor firma de PR del mundo
 - [[Hill+Knowlton]]  Guerra del Golfo: los bebs en las incubadoras
 - [[Atlantic Council DFRLab]]  La fbrica de narrativa atlantista
@@ -160,12 +160,12 @@ Rhodes Trust ? Round Table ? CFR ? Bilderberg ? Trilateral ? WEF
 
 ---
 
-- [[01_Research/99_Patrones_Detectados/Biblia Scofield 1\|Biblia Scofield 1]]
 - [[Club de Madrid\|Club de Madrid]]
+- [[99_AI/01_Framework/Definicion_Atlantismo_y_Carriles\|Definicion_Atlantismo_y_Carriles]]
 - [[DTCC\|DTCC]]
-- [[02_Produccion/IRAN STREAM/NotaTesis_Chabad_RedCoordenacion_v1\|NotaTesis_Chabad_RedCoordenacion_v1]]
+- [[06_Videos_Publicados/2026/2026-03-17 IRAN_STREAM/NotaTesis_Chabad_RedCoordenacion_v1\|NotaTesis_Chabad_RedCoordenacion_v1]]
 - [[Reza Pahlavi\|Reza Pahlavi]]
-- [[01_Research/01_Radar/Tecnocracia/tecnocracia-tesis\|tecnocracia-tesis]]
+- [[01_Research/02_Recoleccion/Tecnocracia/tecnocracia-tesis\|tecnocracia-tesis]]
 
 
 *MOC expandido: 2026-02-24 | Parte del [[INDEX_MAESTRO]]*
@@ -177,3 +177,38 @@ Rhodes Trust ? Round Table ? CFR ? Bilderberg ? Trilateral ? WEF
 
 
 
+
+
+## 🔍 NODOS DETECTADOS (AUDITORIA 2026)
+- [[Sam Altman]]
+- [[Schmidt Futures]]
+- [[Comision Trilateral]]
+- [[David Rockefeller]]
+- [[Fundacion Bill y Melinda Gates]]
+- [[George Soros]]
+- [[Universidad de Yale y Skull and Bones]]
+- [[WEF Jovenes Lideres Globales]]
+- [[Club de Roma]]
+- [[Chatham House_LEGACY]]
+- [[Fundacion Rockefeller]]
+- [[Evelyn de Rothschild]]
+- [[Bill Gates]]
+- [[CFR (Council on Foreign Relations)]]
+- [[Nathaniel Rothschild]]
+- [[Bilderberg Group]]
+- [[Elon Musk]]
+- [[Edmond de Rothschild Group]]
+- [[Eric Schmidt]]
+- [[Yale University & Skull and Bones]]
+- [[Lynn Forester de Rothschild]]
+- [[Jacob Rothschild]]
+- [[John D. Rockefeller]]
+- [[Jeff Bezos]]
+- [[N M Rothschild and Sons]]
+- [[Skull and Bones]]
+- [[Thiel y las monedas digitales]]
+- [[David Rockefeller Admite Reclutar a Kissinger y Schwab]]
+- [[El Plan de Thiel desde 2012]]
+- [[Epstein Rothschild Ciberarmas]]
+- [[Vinculos Kushner Soros Thiel]]
+- [[La Comision Trilateral califica al 2023 como el Añ]]

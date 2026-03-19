@@ -37,14 +37,14 @@ publish: true
 ### El Robo Silencioso
 - [[Cantillon Effect]] — Quién recibe el dinero primero gana
 - [[Impuesto Inflacionario]] — La inflación como transferencia de riqueza
-- [[Represión Financiera]] — Tasas reales negativas como política
+- [[Represion Financiera]] — Tasas reales negativas como política
 - [[Reserva Fraccionaria (El fraude matemático de la banca)]] — Cómo los bancos crean dinero
 - [[Señoreaje]] — La ganancia de emitir moneda
 - [[Exorbitant Privilege]] — El privilegio del dólar
 
 ### Deuda Como Arma
 - [[Fondos Buitre]] — Elliott Management y la deuda soberana
-- [[Armas de Destrucción Financiera]] — Los derivados de Warren Buffett
+- [[Armas de Destruccion Financiera]] — Los derivados de Warren Buffett
 - [[00_Glosario - Conceptos Fase 1#Derivados (Quadrillion Dollar Bubble)\|Derivados (Quadrillion Dollar Bubble)]] — La bomba de tiempo
 - [[Long-Term Capital Management (LTCM)]] — El ensayo de 1998
 - [[Crisis Financiera 2008]] — El manual del rescate
@@ -80,10 +80,10 @@ publish: true
 ## 💸 DINERO Y CONTROL MONETARY
 
 ### La Guerra Del Dinero
-- [[Petrodólar]] / [[Sistema Petrodólar (Hegemonía y Guerra)]] — El acuerdo Nixon-Saud
+- [[Petrodolar]] / [[Sistema Petrodólar (Hegemonía y Guerra)]] — El acuerdo Nixon-Saud
 - [[Shock de Nixon]] — El fin de Bretton Woods
-- [[Desdolarización]] — La amenaza al sistema
-- [[Eurodólares]] — El sistema offshore del dólar
+- [[Desdolarizacion]] — La amenaza al sistema
+- [[Eurodolares]] — El sistema offshore del dólar
 - [[Gold Repatriation]] — Los países recuperan su oro
 - [[Acuerdo Plaza]] — Cómo EEUU devaluó el yen
 
@@ -98,10 +98,10 @@ publish: true
 
 ## 🧨 CRISIS COMO HERRAMIENTA
 
-- [[Pánico de 1907]] — El ensayo para crear la Fed
+- [[Panico de 1907]] — El ensayo para crear la Fed
 - [[Crash de 1929]] — El reajuste de la deuda
 - [[Crisis de 2001 (Argentina)]] — Corralito y el FMI
-- [[Crisis Financiera Asiática de 1997]] — Soros y el baht tailandés
+- [[Crisis Financiera Asiatica de 1997]] — Soros y el baht tailandés
 - [[Miércoles Negro (1992)]] — Soros rompe el Banco de Inglaterra
 - [[Colapso de Credit Suisse (Evento)]] — 2023 y el contagio
 - [[Colapso de Silicon Valley Bank]] — La primera corrida digital
@@ -123,11 +123,12 @@ publish: true
 
 ## 📊 NODOS AUTOMÁTICOS (Dataview)
 
+- [[06_Videos_Publicados/2026/2026-03-17 IRAN_STREAM/00_ARCHIVO_2026-03-17_Iran\|00_ARCHIVO_2026-03-17_Iran]]
 - [[00_MOC - Finanzas y CBDC\|00_MOC - Finanzas y CBDC]]
 - [[Alquimia Digital\|Alquimia Digital]]
 - [[Anubis - El Pescador de Almas En Deuda\|Anubis - El Pescador de Almas En Deuda]]
 - [[Astrologia Financiera\|Astrologia Financiera]]
-- [[01_Research/01_Radar/AVANCE CBDC/avance-cbdc-tesis\|avance-cbdc-tesis]]
+- [[01_Research/02_Recoleccion/AVANCE_CBDC/avance-cbdc-tesis\|avance-cbdc-tesis]]
 - [[Banca en la Sombra\|Banca en la Sombra]]
 - [[Banco de Pagos Internacionales\|Banco de Pagos Internacionales]]
 - [[Biometria Global\|Biometria Global]]
@@ -159,7 +160,7 @@ publish: true
 - [[Grupo de los Treinta\|Grupo de los Treinta]]
 - [[Guerra de Divisas\|Guerra de Divisas]]
 - [[Hal Finney\|Hal Finney]]
-- [[01_Research/01_Radar/AVANCE CBDC/KANBAN_CBDC_GoingDirect\|KANBAN_CBDC_GoingDirect]]
+- [[01_Research/02_Recoleccion/AVANCE_CBDC/KANBAN_CBDC_GoingDirect\|KANBAN_CBDC_GoingDirect]]
 - [[05_Fuentes/La CFTC pone en marcha un programa piloto para utilizar garantías de criptomonedas en los mercados de derivados\|La CFTC pone en marcha un programa piloto para utilizar garantías de criptomonedas en los mercados de derivados]]
 - [[05_Fuentes/La Fed considera cuentas de pago 'reducidas' para ampliar el acceso al sistema bancario\|La Fed considera cuentas de pago 'reducidas' para ampliar el acceso al sistema bancario]]
 - [[05_Fuentes/La Gran Expropiación\|La Gran Expropiación]]
@@ -170,9 +171,9 @@ publish: true
 - [[Monedas de Privacidad\|Monedas de Privacidad]]
 - [[N M Rothschild and Sons\|N M Rothschild and Sons]]
 - [[Nicholas Brady\|Nicholas Brady]]
-- [[02_Produccion/IRAN STREAM/ATAQUE A IRAN/nota-tesis-iran-2026-tablero-completo\|nota-tesis-iran-2026-tablero-completo]]
-- [[02_Produccion/IRAN STREAM/NotaTesis_ConvergenciaFinal_v1\|NotaTesis_ConvergenciaFinal_v1]]
-- [[02_Produccion/IRAN STREAM/NotaTesis_MegaGroup_RedContinuidad_v5\|NotaTesis_MegaGroup_RedContinuidad_v5]]
+- [[06_Videos_Publicados/2026/2026-03-17 IRAN_STREAM/nota-tesis-iran-2026-tablero-completo\|nota-tesis-iran-2026-tablero-completo]]
+- [[06_Videos_Publicados/2026/2026-03-17 IRAN_STREAM/NotaTesis_ConvergenciaFinal_v1\|NotaTesis_ConvergenciaFinal_v1]]
+- [[06_Videos_Publicados/2026/2026-03-17 IRAN_STREAM/NotaTesis_MegaGroup_RedContinuidad_v5\|NotaTesis_MegaGroup_RedContinuidad_v5]]
 - [[Nuevo Bretton Woods\|Nuevo Bretton Woods]]
 - [[05_Fuentes/Nuevos correos revelan que Epstein financio indire\|Nuevos correos revelan que Epstein financio indire]]
 - [[06_Videos_Publicados/2026/2026-01-07_Gaza_SA/Post Gaza SA\|Post Gaza SA]]
@@ -185,7 +186,7 @@ publish: true
 - [[Señoreaje\|Señoreaje]]
 - [[Shock de Nixon\|Shock de Nixon]]
 - [[Tokenizacion de Activos Reales\|Tokenizacion de Activos Reales]]
-- [[01_Research/01_Radar/AVANCE CBDC/video-baby-trump-blackrock\|video-baby-trump-blackrock]]
+- [[01_Research/02_Recoleccion/AVANCE_CBDC/video-baby-trump-blackrock\|video-baby-trump-blackrock]]
 - [[05_Fuentes/Winds of Change The Case for New Digital Currency by Christine Lagarde\|Winds of Change The Case for New Digital Currency by Christine Lagarde]]
 
 
@@ -199,3 +200,39 @@ publish: true
 
 
 
+
+
+## 🔍 NODOS DETECTADOS (AUDITORIA 2026)
+- [[Señoreaje]]
+- [[Paul Volcker]]
+- [[Fundacion del Banco de Inglaterra]]
+- [[Christine Lagarde]]
+- [[Escuela Austriaca]]
+- [[Eurodolares]]
+- [[Derogacion de Glass-Steagall]]
+- [[Bail-in]]
+- [[Friedrich Hayek]]
+- [[Colapso de Credit Suisse]]
+- [[FMI]]
+- [[Ben Bernanke]]
+- [[Vanguard & State Street]]
+- [[Banco Vaticano]]
+- [[Evergrande]]
+- [[Banco Mundial]]
+- [[Fidelity]]
+- [[BlackRock - Vanguard - State Street]]
+- [[Vanguard's Silent Consolidation]]
+- [[Credit Suisse]]
+- [[Derivados]]
+- [[Ley Glass-Steagall]]
+- [[Teoria Austriaca del Ciclo Economico]]
+- [[Ludwig von Mises]]
+- [[Janet Yellen]]
+- [[Jerome Powell]]
+- [[Murray Rothbard]]
+- [[Mises Institute]]
+- [[Stephane Bancel]]
+- [[Georgieva FMI - Cambio China Exportaciones]]
+- [[Articulo Pendiente - Great Taking (bail-in)]]
+- [[Saturno y Deuda]]
+- [[Banca en la Sombra]]

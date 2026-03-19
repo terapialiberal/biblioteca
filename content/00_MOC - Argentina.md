@@ -39,23 +39,23 @@ graph TD
 | :--- | :--- | :--- | :--- |
 | [[Eduardo Elsztain]] | IRSA / Banco Hipotecario | Inmobiliario / Tierras | A |
 | [[Paolo Rocca]] | [[Techint]] | Acero / Energía | A |
-| [[Eduardo Eurnekian]] | [[Corporación América]] | Aeropuertos / Chips | A |
+| [[Eduardo Eurnekian]] | [[Corporacion America]] | Aeropuertos / Chips | A |
 | [[Alejandro Bulgheroni]] | Pan American Energy | Petróleo | A |
-| [[Héctor Magnetto]] | [[Grupo Clarín]] | Medios / Telecom | A |
+| [[Héctor Magnetto]] | [[Grupo Clarin]] | Medios / Telecom | A |
 | [[Jorge Brito]] | Banco Macro | Finanzas | A |
-| [[Lázaro Báez]] | Austral Construcciones | Obra Pública (K) | B |
-| [[Cristóbal López]] | Grupo Indalo | Juego / Medios | B |
-| [[José Luis Manzano]] | Integra Capital | Energía / Medios / Litio | B/Conector |
+| [[Lazaro Baez]] | Austral Construcciones | Obra Pública (K) | B |
+| [[Cristobal Lopez]] | Grupo Indalo | Juego / Medios | B |
+| [[Jose Luis Manzano]] | Integra Capital | Energía / Medios / Litio | B/Conector |
 | [[Enrique Eskenazi]] | Grupo Petersburg | Petróleo / Construcción | B |
 | [[Belocopitt (Swiss Medical)]] | Swiss Medical | Salud / Medios | B |
-| [[Gregorio Pérez Companc]] | Molinos Río de la Plata | Alimentos | A |
+| [[Gregorio Perez Companc]] | Molinos Río de la Plata | Alimentos | A |
 | [[Hugo Sigman]] | Insud | Farmacéutica | A |
-| [[Nicolás Caputo]] | Mirgor | Construcción / Electrónica | B/Conector |
+| [[Nicolas Caputo]] | Mirgor | Construcción / Electrónica | B/Conector |
 | [[Marcelo Mindlin]] | Pampa Energía | Energía / Luz | A |
 | [[Gustavo Grobocopatel]] | Los Grobo | Alimentos | A |
 | [[Familia Werthein]] | Grupo Werthein | DirecTV / Seguros | A |
-| [[Sebastián Eskenazi]] | Grupo Petersburg | YPF / Construcción | B |
-| [[Laboratorios Bagó]] | Bagó | Farmacéutica | A |
+| [[Sebastian Eskenazi]] | Grupo Petersburg | YPF / Construcción | B |
+| [[Laboratorios Bago]] | Bagó | Farmacéutica | A |
 | [[Rubén Cherñajovsky]] | Newsan | Electrónica (Tierra del Fuego) | A |
 | [[Alfredo Coto]] | Coto | Supermercados | A |
 | [[Marcos Galperin]] | Mercado Libre | Tech / Finanzas | A |
@@ -73,19 +73,19 @@ graph TD
 - [[Raúl Alfonsín]] (El padre de la democracia fallida)
 - [[Hugo Moyano]] (El dueño del transporte)
 - [[Roberto Baradel]] (El dueño de la educación)
-- [[Gildo Insfrán]] (El señor feudal de Formosa)
+- [[Gildo Insfran]] (El señor feudal de Formosa)
 - [[Gerardo Morales]] (El virrey del litio)
-- [[Elisa Carrió]] (La fiscal selectiva)
+- [[Elisa Carrio]] (La fiscal selectiva)
 - [[Guillermo Moreno]] (El perro guardián)
-- [[Aníbal Fernández]] (El todoterreno)
+- [[Anibal Fernandez]] (El todoterreno)
 - [[Chiche Gelblung (Inteligencia)]] (Vínculos históricos)
 - [[Enrique _Coti_ Nosiglia\|Enrique "Coti" Nosiglia]] (El monje negro real)
-- [[José Luis Manzano]] (Litio y Medios)
+- [[Jose Luis Manzano]] (Litio y Medios)
 - [[La Coordinadora (UCR)]] (Estructura histórica)
 - [[Santiago Bausili]] (Bicicleta Financiera)
-- [[Fundación Mediterránea]] (Semillero)
-- [[Consejo Interamericano de Comercio y Producción\|Consejo Interamericano de Comercio y Producción (CICYP)]] (El Lobby)
-- [[Martín Insaurralde]] (El símbolo de la degradación)
+- [[Fundacion Mediterranea]] (Semillero)
+- [[Consejo Interamericano de Comercio y Produccion\|Consejo Interamericano de Comercio y Producción (CICYP)]] (El Lobby)
+- [[Martin Insaurralde]] (El símbolo de la degradación)
 - [[Juan Grabois]] (El gerente de la pobreza)
 
 ### La Era Milei
@@ -102,7 +102,7 @@ graph TD
 *Donde se cocinan las carpetas y el poder real.*
 
 - **Agencias:** [[00_Glosario - Conceptos Fase 1#AFI (Agencia Federal de Inteligencia)\|AFI (Agencia Federal de Inteligencia)]] | [[Inteligencia Militar]] | [[Policía de la Ciudad (Espionaje)]]
-- **Personajes:** [[Jaime Stiuso]] | [[César Milani]] | [[Alberto Nisman]]
+- **Personajes:** [[Jaime Stiuso]] | [[Cesar Milani]] | [[Alberto Nisman]]
 - **Casos/Métodos:** [[Carpeta (Extorsión)]] | [[Proyecto X (Gendarmería)]] | [[D_Alessio Gate\|D'Alessio Gate]] | [[Servicio Penitenciario Federal]] (Espionaje illegal)
 - **Justicia:** [[Jueces Federales de Comodoro Py]] | [[Lawfare]] | [[Causa Cuadernos]] | [[Hotesur y Los Sauces]] | [[Indultos de Menem]]
 
@@ -110,20 +110,55 @@ graph TD
 *El botín que busca el mundo.*
 
 - **Energía:** [[Vaca Muerta]] | [[YPF]] | [[Energía Nuclear (INVAP)]]
-- **Litio:** [[00_Glosario - Conceptos Fase 1#Litio en Jujuy (Livent)\|Litio en Jujuy (Livent)]] | [[Triángulo del Litio]]
-- **Territorio:** [[Hidrovía Paraná]] | [[Mar Argentino (Pesca Ilegal)]] | [[Antártida Argentina]] | [[Lago Escondido (Joe Lewis)]] | [[Tierras de Benetton]] | [[Base China en Neuquén]]
-- **Campo:** [[Campo y Retenciones]] | [[Resolución 125]] | [[Sociedad Rural Argentina]]
+- **Litio:** [[00_Glosario - Conceptos Fase 1#Litio en Jujuy (Livent)\|Litio en Jujuy (Livent)]] | [[Triangulo del Litio]]
+- **Territorio:** [[Hidrovia Parana]] | [[Mar Argentino (Pesca Ilegal)]] | [[Antartida Argentina]] | [[Lago Escondido (Joe Lewis)]] | [[Tierras de Benetton]] | [[Base China en Neuquen]]
+- **Campo:** [[Campo y Retenciones]] | [[Resolucion 125]] | [[Sociedad Rural Argentina]]
 - **Agua:** [[Acuífero Guaraní (Argentina)]] | [[Glaciares (Ley)]]
 
 ## 5. 📺 Medios, Cultura E Historia
 *La fábrica de consenso.*
 
-- **Medios:** [[Grupo Clarín]] | [[La Nación +]] | [[Página 12]] | [[Jorge Lanata]] | [[Horacio Verbitsky]] | [[678 y el Relato]] | [[Pauta Oficial]] | [[Fútbol para Todos]]
+- **Medios:** [[Grupo Clarin]] | [[La Nacion +]] | [[Pagina 12]] | [[Jorge Lanata]] | [[Horacio Verbitsky]] | [[678 y el Relato]] | [[Pauta Oficial]] | [[Futbol para Todos]]
 - **Fenómenos:** [[Batalla Cultural (Argentina)]] | [[Las Fuerzas del Cielo]] | [[Pacto de Mayo]] | [[Protocolo Anti-Piquetes]]
-- **Hitos Históricos:** [[Crisis de 2001]] | [[Corralito]] | [[Hiperinflación de 1989]] | [[Pacto de Olivos]] | [[Muerte de Néstor Kirchner]] | [[Triple Crimen de General Rodríguez]] | [[Valijas de Antonini Wilson]]
+- **Hitos Históricos:** [[Crisis de 2001]] | [[Corralito]] | [[Hiperinflacion de 1989]] | [[Pacto de Olivos]] | [[Muerte de Nestor Kirchner]] | [[Triple Crimen de General Rodriguez]] | [[Valijas de Antonini Wilson]]
 
 ---
 
 > [!NOTE] Rastriables Dataview
 > Lista completa generada automáticamente:
 >  
+
+## 🔍 NODOS DETECTADOS (AUDITORIA 2026)
+- [[DINASTIAS_FINANCIERAS]]
+- [[MASTER_LIST_DINASTIAS]]
+- [[Piqueteros]]
+- [[Martin Insaurralde]]
+- [[Cesar Milani]]
+- [[Héctor Magnetto]]
+- [[Union Industrial Argentina]]
+- [[Maximo Kirchner]]
+- [[Elite Coordinada]]
+- [[AMIA]]
+- [[Alianza Anticomunista Argentina]]
+- [[Antartida Argentina]]
+- [[Asesinato del Archiduque Franz Ferdinand]]
+- [[Crisis Argentina Milei]]
+- [[CELS]]
+- [[Gildo Insfran]]
+- [[Fundacion Huesped]]
+- [[Carlitos Menem Jr]]
+- [[Eleccion de Milei]]
+- [[Gregorio Perez Companc]]
+- [[Axel Kicillof]]
+- [[Grupo Clarin]]
+- [[Hector Magnetto_LEGACY]]
+- [[Karina Milei]]
+- [[Milei y el Sionismo]]
+- [[Nicolas Caputo]]
+- [[Muerte de Nestor Kirchner]]
+- [[La Coordinadora]]
+- [[Nestor Kirchner]]
+- [[Sebastian Eskenazi]]
+- [[Port Arthur Massacre]]
+- [[Paracelso y la Bio-Ingenieria]]
+- [[Tabula Smaragdina]]

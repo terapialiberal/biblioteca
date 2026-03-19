@@ -51,8 +51,8 @@ graph TD
 *   [[El Invierno ESG]] (Retiro de capitales)
 *   [[Crisis de la Industria Automotriz\|Crisis de la Industria Automotriz (EVs)]] (Ford/GM perdiendo dinero)
 *   [[Hertz vende sus Teslas]]
-*   [[Caída de Beyond Meat]] (Rechazo a carne falsa)
-*   [[Burbuja de las Energías Renovables]]
+*   [[Caida de Beyond Meat]] (Rechazo a carne falsa)
+*   [[Burbuja de las Energias Renovables]]
 *   [[Victoria_s Secret Rebranding\|Victoria's Secret Rebranding]]
 *   [[Gillette Toxic Masculinity Ad]]
 
@@ -79,7 +79,7 @@ graph TD
 *   [[Theranos (Elizabeth Holmes)]]
 *   [[El Auto de Apple (Proyecto Titan)]]
 *   [[Algoritmos Racistas (Ironía)]] ([[Google (Orígenes)]] Gemini)
-*   [[La Caída de los NFTs]]
+*   [[La Caida de los NFTs]]
 
 ## 4. ⚔️ Guerras Internas (Canibalismo De Élite)
 *   [[Elon Musk vs ADL]] (Batalla por censura)
@@ -94,7 +94,7 @@ graph TD
 *   [[La Pelea por OpenAI]] (Seguridad vs Capital)
 
 ## 5. 🤡 Incompetencia Militar Y Geopolítica
-*   [[Retirada de Afganistán]] (Desastre logístico)
+*   [[Retirada de Afganistan]] (Desastre logístico)
 *   [[Sanciones a Rusia (Efecto Boomerang)]]
 *   [[Sabotaje del Nord Stream\|Sabotaje al Nord Stream]] (Humillación alemana)
 *   [[La Mentira de las WMD en Irak]] (Fin de credibilidad [[CIA]])
@@ -102,7 +102,7 @@ graph TD
 *   [[El Tanque Armata (Rusia)]] (Vaporware militar)
 *   [[Falta de Reclutas (Crisis Militar)]]
 *   [[Crisis de Municiones OTAN]]
-*   [[El Fracaso del Cambio de Régimen en Siria]]
+*   [[El Fracaso del Cambio de Regimen en Siria]]
 *   [[La Humillación en el Sahel (África)]]
 
 ## 6. 🗣️ Colapso De La Narrativa (Mentiras cortas)
@@ -122,11 +122,11 @@ graph TD
 *   [[Los Papeles de Pfizer (Liberación Judicial)]]
 *   [[Aseem Malhotra]] (Cardiólogo arrepentido)
 *   [[Robert Malone]] (Inventor ARNm)
-*   [[Retractación de The Lancet]] (Fraude HCQ)
+*   [[Retractacion de The Lancet]] (Fraude HCQ)
 *   [[Cochrane Review sobre Mascarillas]]
 *   [[Escándalo del Azúcar (Harvard)]]
-*   [[Lysenkoísmo Moderno]]
-*   [[Crisis de replicación]]
+*   [[Lysenkoismo Moderno]]
+*   [[Crisis de replicacion]]
 *   [[Big Pharma Fines]]
 
 ## 8. 🛠️ Tecnologías De Libertad (La Salida)
@@ -142,10 +142,10 @@ graph TD
 *   [[Sci-Hub]] (Ciencia libre)
 
 ## 9. 🏛️ Precedentes Históricos (Nada Es eterno)
-*   [[Caída de la URSS]] (Colapso interno)
-*   [[La República de Weimar]] (Hiperinflación)
-*   [[Caída de Roma]]
-*   [[Revolución Francesa]]
+*   [[Caida de la URSS]] (Colapso interno)
+*   [[La Republica de Weimar]] (Hiperinflación)
+*   [[Caida de Roma]]
+*   [[Revolucion Francesa]]
 *   [[Ceausescu en Rumania]]
 *   [[La Torre de Babel]]
 *   [[Colapso de la Edad de Bronce]]
@@ -155,14 +155,14 @@ graph TD
 
 ## 10. 🇦🇷 Fricciones Argentinas (Laboratorio)
 *   [[La 125 (Derrota K)]]
-*   [[Renuncia de Guzmán]]
+*   [[Renuncia de Guzman]]
 *   [[La Fiesta de Olivos]]
 *   [[El Vacunatorio VIP]]
 *   [[Insaurralde en el Yate]]
 *   [[La Mesa del Hambre]]
 *   [[El Censo 2010 (Manipulado)]]
 *   [[Vicentin (Intento de expropiación fallido)]]
-*   [[El Fallo de la Corte por la Coparticipación]]
+*   [[El Fallo de la Corte por la Coparticipacion]]
 *   [[El Atentado a CFK (La incredulidad social)]]
 
 ---

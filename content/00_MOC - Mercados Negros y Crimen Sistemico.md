@@ -18,7 +18,7 @@ tags: [00-moc, crimen-sistemico, dark-markets, axioma-12]
 
 ## 2. Los Ejecutores (Tier B)
 *Las organizaciones que ejecutan el control de territorio, drogas y rutas de armas.*
-- [[Cártel de Sinaloa]]
+- [[Cartel de Sinaloa]]
 - [[Triadas Chinas]]
 - [[Hezbollah]]
 
@@ -29,3 +29,24 @@ tags: [00-moc, crimen-sistemico, dark-markets, axioma-12]
 
 ---
 *Pertenencia: [[00_INDEX_MAESTRO]] | [[00_MOC_MAESTRO_BASE_DE_CONOCIMIENTO]]*
+
+
+## 🔍 NODOS DETECTADOS (AUDITORIA 2026)
+- [[Archivos Epstein]]
+- [[Cartel de Sinaloa]]
+- [[Caso Dutroux]]
+- [[Cartel de Granos]]
+- [[Trafico de Organos]]
+- [[Escandalo Franklin]]
+- [[Triple Crimen de General Rodriguez]]
+- [[Trump y Epstein]]
+- [[Trafico Humano]]
+- [[Caso Franklin]]
+- [[Franklin Scandal]]
+- [[Cartel de los Soles]]
+- [[Nxivm]]
+- [[Prefectura y Narcotrafico]]
+- [[Kushner Epstein Gala Correos]]
+- [[Trafico de Armas - La Logistica de la Guerra Perpetua]]
+- [[Dark City]]
+- [[Yakuza - El Martillo de Japon]]

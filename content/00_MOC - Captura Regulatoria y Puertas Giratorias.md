@@ -28,3 +28,12 @@ tags: [00-moc, captura-regulatoria, revolving-doors, praxeologia]
 
 ---
 *Pertenencia: [[00_INDEX_MAESTRO]] | [[00_MOC_MAESTRO_BASE_DE_CONOCIMIENTO]]*
+
+
+## 🔍 NODOS DETECTADOS (AUDITORIA 2026)
+- [[Gavin Newsom]]
+- [[Bayer]]
+- [[Lobby del Azucar]]
+- [[Los Papeles de Pfizer]]
+- [[Monsanto]]
+- [[Mercado de Acciones - La Democratizacion de la Captura]]

@@ -17,26 +17,26 @@ tags: [control, divide, operaciones, psicolgicas]
 ### Tácticas De Manipulación
 - [[Operaciones Psicológicas (PsyOps)]] - Marco teórico general
 - [[Divide y Vencerás (Estrategia)]] - Fragmentación de la mayoría
-- [[Problema-Reacción-Solución]] - Crear crisis para justificar "soluciones"
+- [[Problema-Reaccion-Solucion]] - Crear crisis para justificar "soluciones"
 - [[00_Glosario - Conceptos Fase 1#Gaslighting (Político)\|Gaslighting (Político)]] - Negar la realidad percibida
-- [[Falsas Dicotomías]] - Limitar opciones de debate
+- [[Falsas Dicotomias]] - Limitar opciones de debate
 - [[Limited Hangout]] - Revelar poco para ocultar mucho
-- [[Oposición Controlada]] - Gestionar la disidencia
+- [[Oposicion Controlada]] - Gestionar la disidencia
 
 ### Fenómenos Sociales Manufacturados
 - [[Loops de Dopamina]] - Adicción digital diseñada
 - [[Espiral del Silencio]] - Autocensura por miedo
-- [[Silenciamiento de la Mayoría]] - Percepción falsa de minoría
-- [[Narrativa Única]] - Coordinación mediática total
-- [[Atomización Social]] - Destrucción de comunidad
-- [[Hipernormalización]] - Vivir en la mentira sabiendo que es mentira
+- [[Silenciamiento de la Mayoria]] - Percepción falsa de minoría
+- [[Narrativa Unica]] - Coordinación mediática total
+- [[Atomizacion Social]] - Destrucción de comunidad
+- [[Hipernormalizacion]] - Vivir en la mentira sabiendo que es mentira
 - [[Menticidio]] - Destrucción de la capacidad de pensar
 
 ### Tácticas Mediáticas
 - [[Alarmismo Coordinado]] - Miedo como herramienta
-- [[Manipulación de Tendencias]] - Control de trending topics
+- [[Manipulacion de Tendencias]] - Control de trending topics
 - [[Framing (Encuadre)]] - Cómo se presenta la información
-- [[Autopsia de Profecía]] - Profecías autocumplidas
+- [[Autopsia de Profecia]] - Profecías autocumplidas
 
 
 ## 2. 🕷️ Organizaciones Y Programas
@@ -44,8 +44,8 @@ tags: [control, divide, operaciones, psicolgicas]
 ### Históricos (Desclasificados)
 - [[MKUltra]] - Control mental CIA
 - [[COINTELPRO]] - Destrucción de movimientos
-- [[Operación Mockingbird]] - Control de medios
-- [[Operación Chaos]] - Infiltración de disidencia
+- [[Operacion Mockingbird]] - Control de medios
+- [[Operacion Chaos]] - Infiltración de disidencia
 - [[Instituto Tavistock]] - Ingeniería social británica
 
 ### Contemporáneos
@@ -143,8 +143,8 @@ tags: [control, divide, operaciones, psicolgicas]
 
 ### Técnicas Clásicas
 - [[Capitalismo de Vigilancia]]
-- [[Sesgo Algorítmico]]
-- [[Gamificación]]
+- [[Sesgo Algoritmico]]
+- [[Gamificacion]]
 
 
 ## 7. 🛡️ Defensa Y Resistencia
@@ -174,3 +174,22 @@ tags: [control, divide, operaciones, psicolgicas]
 
 
 
+
+
+## 🔍 NODOS DETECTADOS (AUDITORIA 2026)
+- [[Walter Lippmann]]
+- [[Tecnicas de Control Mental]]
+- [[Teoria del Internet Muerto (Dead Internet Theory)_LEGACY]]
+- [[Cine y Programacion Predictiva]]
+- [[Guerra Cognitiva]]
+- [[Behavioral Sponging]]
+- [[Disonancia Cognitiva]]
+- [[Behavioral Insights Team]]
+- [[Nudge Theory 2.0]]
+- [[Memetica]]
+- [[Noam Chomsky]]
+- [[Operacion Mockingbird]]
+- [[Overton Window]]
+- [[Programacion Predictiva]]
+- [[Logia P2 (Propaganda Due)_LEGACY]]
+- [[Programacion Predictiva en el Cine]]

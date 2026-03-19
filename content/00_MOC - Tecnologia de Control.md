@@ -61,7 +61,7 @@ tags: [00-moc, deepmind, openai, tecnologa]
 - [[Palantir]] / [[Palantir AIP]] — El cerebro del deep state
 
 ### Infraestructura Física De Vigilancia
-- [[Panóptico Digital]] — El concepto aplicado al siglo XXI
+- [[Panoptico Digital]] — El concepto aplicado al siglo XXI
 - [[Geocercas (Geofencing)]] — Control de movimiento por GPS
 - [[Polvo Inteligente (Smart Dust)]] — Nanosensores ambientales
 - [[Ciudades Inteligentes (Smart Cities)]] / [[C40 Cities]] — La ciudad como jaula
@@ -76,9 +76,9 @@ tags: [00-moc, deepmind, openai, tecnologa]
 - [[ID2020]] — La alianza por la identidad digital
 - [[Worldcoin (Orb)]] — El iris como passport
 - [[Genomic ID]] — ADN como identificador
-- [[Biometría Global]] — Bases de datos biométricas
+- [[Biometria Global]] — Bases de datos biométricas
 - [[Pasaportes de Vacuna]] — El ensayo del sistema
-- [[Sistemas de Crédito Social]] — Del modelo chino al occidental
+- [[Sistemas de Credito Social]] — Del modelo chino al occidental
 
 ### CBDC (Arquitectura)
 - [[CBDC (Moneda Digital de Banco Central)]] — El marco general
@@ -108,7 +108,7 @@ tags: [00-moc, deepmind, openai, tecnologa]
 - [[Precision Medicine]] — La medicina prospectiva centrada en el dato
 
 ### COVID Como Caso De Estudio
-- [[COVID-19 Orígenes]] — Lab Leak Theory
+- [[COVID-19 Origenes]] — Lab Leak Theory
 - [[Evento 201]] / [[Event 201]] — El simulacro de octubre 2019
 - [[Dark Winter]] — El ejercicio anterior
 - [[Crimson Contagion]] — El ejercicio de 2019
@@ -121,7 +121,7 @@ tags: [00-moc, deepmind, openai, tecnologa]
 - [[Internet de los Cuerpos (IoB)]] — El siguiente paso
 - [[Internet of Bio-Nano Things (IoBNT)]] — Nanotecnología en el cuerpo
 - [[Neuralink & Transhumanismo]] — Musk y la interfaz cerebro-máquina
-- [[Optogenética]] — Control neural por luz
+- [[Optogenetica]] — Control neural por luz
 - [[Voice to Skull (Voz a Cráneo)]] — 🔶 Tecnología de microondas para audición dirigida
 
 
@@ -129,11 +129,11 @@ tags: [00-moc, deepmind, openai, tecnologa]
 
 ### Plataformas Como Armas
 - [[Algorithmic Governance]] — El gobierno de la caja negra (TL V.2)
-- [[Sesgo Algorítmico]] — ¿Error o diseño?
+- [[Sesgo Algoritmico]] — ¿Error o diseño?
 - [[Loops de Dopamina]] — El diseño adictivo de las plataformas
 - [[Dead Internet Theory]] — El desierto de lo sintético
 - [[Reality Privilege]] — El nuevo apartheid entre lo físico y lo virtual
-- [[Fragmentación del Discurso]] — Las cámaras de eco como control
+- [[Fragmentacion del Discurso]] — Las cámaras de eco como control
 
 ### Censura Industrial
 - [[Complejo Industrial de la Censura]] — El término de Mike Benz
@@ -149,22 +149,22 @@ tags: [00-moc, deepmind, openai, tecnologa]
 - [[15 Minute Cities (Ciudad de 15 Minutos)]] — El concepto y sus críticos
 - [[Las Smart Cities Fantasmas de China]] — El modelo exportado
 - [[Score Ciudadano]] — El crédito social en versión occidental
-- [[Crédito Social Chino]] — El modelo original
+- [[Credito Social Chino]] — El modelo original
 - [[Pre-Crimen]] — La predicción del delito como control
 
 
 ## 🔗 NODOS RELACIONADOS
 - [[Tecnocracia]] — La doctrina política
-- [[Movimiento Tecnocrático]] — Howard Scott y Technocracy Inc.
+- [[Movimiento Tecnocratico]] — Howard Scott y Technocracy Inc.
 - [[Tecnofeudalismo]] — Varoufakis y la nueva servidumbre
-- [[Cuarta Revolución Industrial]] — El marco de Schwab
+- [[Cuarta Revolucion Industrial]] — El marco de Schwab
 - [[Gran Juego Digital]] — El control de los datos como Heartland del siglo XXI
 
 
 
 ## 📊 NODOS AUTOMÁTICOS (Dataview)
 
-- [[99_AI/Legacy/00_INDICE_MAESTRO_IA_Old\|00_INDICE_MAESTRO_IA_Old]]
+- [[06_Videos_Publicados/2026/2026-03-17 IRAN_STREAM/00_ARCHIVO_2026-03-17_Iran\|00_ARCHIVO_2026-03-17_Iran]]
 - [[00_MOC - Finanzas y CBDC\|00_MOC - Finanzas y CBDC]]
 - [[00_MOC - Operaciones Psicologicas\|00_MOC - Operaciones Psicologicas]]
 - [[15-Minute Cities\|15-Minute Cities]]
@@ -173,9 +173,8 @@ tags: [00-moc, deepmind, openai, tecnologa]
 - [[Alquimia Operativa\|Alquimia Operativa]]
 - [[Alquimia Sexual\|Alquimia Sexual]]
 - [[05_Fuentes/ARCHIVO – Banderas de Estados Unidos y China en el Aeropuerto Internacional Gimhae en Busan, Corea del Sur, el 30 de octubre de 2025. (AP FotoMark Schiefelbein, Archivo)\|ARCHIVO – Banderas de Estados Unidos y China en el Aeropuerto Internacional Gimhae en Busan, Corea del Sur, el 30 de octubre de 2025. (AP FotoMark Schiefelbein, Archivo)]]
-- [[99_AI/03_Prompts/00_CORE/03_RESOURCES/ASISTENTE_TL_LO_QUE_PODEMOS_HACER\|ASISTENTE_TL_LO_QUE_PODEMOS_HACER]]
 - [[Atenea - Estrategia y Control Civil\|Atenea - Estrategia y Control Civil]]
-- [[01_Research/01_Radar/AVANCE CBDC/avance-cbdc-tesis\|avance-cbdc-tesis]]
+- [[01_Research/02_Recoleccion/AVANCE_CBDC/avance-cbdc-tesis\|avance-cbdc-tesis]]
 - [[Banco de Pagos Internacionales\|Banco de Pagos Internacionales]]
 - [[05_Fuentes/Bannon critica el corporativismo y la IA por destruir empleos y ahorros\|Bannon critica el corporativismo y la IA por destruir empleos y ahorros]]
 - [[Bio-Leninismo\|Bio-Leninismo]]
@@ -237,8 +236,8 @@ tags: [00-moc, deepmind, openai, tecnologa]
 - [[Jeff Bezos\|Jeff Bezos]]
 - [[05_Fuentes/Jensen Huang (Nvidia) compara la minería de Bitcoin con el almacenamiento de energía\|Jensen Huang (Nvidia) compara la minería de Bitcoin con el almacenamiento de energía]]
 - [[John Poindexter\|John Poindexter]]
-- [[01_Research/01_Radar/AVANCE CBDC/KANBAN_CBDC_GoingDirect\|KANBAN_CBDC_GoingDirect]]
-- [[01_Research/01_Radar/Tecnocracia/KANBAN_Tecnocracia\|KANBAN_Tecnocracia]]
+- [[01_Research/02_Recoleccion/AVANCE_CBDC/KANBAN_CBDC_GoingDirect\|KANBAN_CBDC_GoingDirect]]
+- [[01_Research/02_Recoleccion/Tecnocracia/KANBAN_Tecnocracia\|KANBAN_Tecnocracia]]
 - [[05_Fuentes/Klaus Schwab defiende la transparencia total en el nuevo orden mundial\|Klaus Schwab defiende la transparencia total en el nuevo orden mundial]]
 - [[La Comision Trilateral califica al 2023 como el Añ\|La Comision Trilateral califica al 2023 como el Añ]]
 - [[05_Fuentes/La crisis energética y la falta de escala El sombrío panorama de Eric Schmidt sobre la competencia global en IA\|La crisis energética y la falta de escala El sombrío panorama de Eric Schmidt sobre la competencia global en IA]]
@@ -255,9 +254,9 @@ tags: [00-moc, deepmind, openai, tecnologa]
 - [[Monedas de Privacidad\|Monedas de Privacidad]]
 - [[Nanotecnologia\|Nanotecnologia]]
 - [[NEWSLETTER_El_Gran_Desacople_2026\|NEWSLETTER_El_Gran_Desacople_2026]]
-- [[02_Produccion/IRAN STREAM/ATAQUE A IRAN/nota-tesis-iran-2026-tablero-completo\|nota-tesis-iran-2026-tablero-completo]]
-- [[02_Produccion/IRAN STREAM/NotaTesis_ConvergenciaFinal_v1\|NotaTesis_ConvergenciaFinal_v1]]
-- [[02_Produccion/IRAN STREAM/NotaTesis_MegaGroup_RedContinuidad_v5\|NotaTesis_MegaGroup_RedContinuidad_v5]]
+- [[06_Videos_Publicados/2026/2026-03-17 IRAN_STREAM/nota-tesis-iran-2026-tablero-completo\|nota-tesis-iran-2026-tablero-completo]]
+- [[06_Videos_Publicados/2026/2026-03-17 IRAN_STREAM/NotaTesis_ConvergenciaFinal_v1\|NotaTesis_ConvergenciaFinal_v1]]
+- [[06_Videos_Publicados/2026/2026-03-17 IRAN_STREAM/NotaTesis_MegaGroup_RedContinuidad_v5\|NotaTesis_MegaGroup_RedContinuidad_v5]]
 - [[Nuevo Bretton Woods\|Nuevo Bretton Woods]]
 - [[Ocultismo en KGB_Stasi\|Ocultismo en KGB_Stasi]]
 - [[Palantir CIA\|Palantir CIA]]
@@ -274,7 +273,7 @@ tags: [00-moc, deepmind, openai, tecnologa]
 - [[Score Ciudadano\|Score Ciudadano]]
 - [[Sergey Brin\|Sergey Brin]]
 - [[Tecnicas de Control Mental\|Tecnicas de Control Mental]]
-- [[01_Research/01_Radar/Tecnocracia/tecnocracia-tesis\|tecnocracia-tesis]]
+- [[01_Research/02_Recoleccion/Tecnocracia/tecnocracia-tesis\|tecnocracia-tesis]]
 - [[05_Fuentes/Tecnologicas EEUU y Estado Policial China\|Tecnologicas EEUU y Estado Policial China]]
 - [[05_Fuentes/Ted Cruz quiere que la vigilancia no sea China, sea propia\|Ted Cruz quiere que la vigilancia no sea China, sea propia]]
 - [[Teoria del Internet Muerto\|Teoria del Internet Muerto]]
@@ -284,8 +283,8 @@ tags: [00-moc, deepmind, openai, tecnologa]
 - [[05_Fuentes/Trump firma una orden ejecutiva que impide a los e\|Trump firma una orden ejecutiva que impide a los e]]
 - [[05_Fuentes/Una gran parte del crecimiento del PIB de EE. UU. se mantiene gracias al gasto en IA sin retorno garantizado, dice Deutsche Bank\|Una gran parte del crecimiento del PIB de EE. UU. se mantiene gracias al gasto en IA sin retorno garantizado, dice Deutsche Bank]]
 - [[Vida Artificial\|Vida Artificial]]
-- [[01_Research/01_Radar/AVANCE CBDC/video-baby-trump-blackrock\|video-baby-trump-blackrock]]
-- [[01_Research/01_Radar/CIA Y SILICON VALLEY/video-silicon-valley-cia\|video-silicon-valley-cia]]
+- [[01_Research/02_Recoleccion/AVANCE_CBDC/video-baby-trump-blackrock\|video-baby-trump-blackrock]]
+- [[01_Research/02_Recoleccion/CIA_Y_SILICON_VALLEY/video-silicon-valley-cia\|video-silicon-valley-cia]]
 - [[Vigilancia Predictiva\|Vigilancia Predictiva]]
 - [[05_Fuentes/Vínculos de OpenAI con el gobierno ¿Cuál fue el papel de Sam Altman en la administración Biden\|Vínculos de OpenAI con el gobierno ¿Cuál fue el papel de Sam Altman en la administración Biden]]
 - [[Yahweh - El Capturador de la Ley\|Yahweh - El Capturador de la Ley]]
@@ -302,3 +301,189 @@ tags: [00-moc, deepmind, openai, tecnologa]
 
 
 
+
+
+## 🔍 NODOS DETECTADOS (AUDITORIA 2026)
+- [[CHEAT_SHEET_PRAXEOLOGIA]]
+- [[13_FAMILIAS_2024]]
+- [[Reserva Fraccionaria]]
+- [[Sanciones a Rusia]]
+- [[Masacre de Tiananmen]]
+- [[Teoria del Empujon]]
+- [[Teoria Monetaria Moderna]]
+- [[Guardia de Hierro]]
+- [[William Casey]]
+- [[Virginia Giuffre]]
+- [[Teoria del Internet Muerto]]
+- [[Minoria Organizada vs Mayoria Desorganizada]]
+- [[The Managerial Revolution]]
+- [[Mafia Jazara]]
+- [[Fabian Society]]
+- [[Victoria Nuland]]
+- [[Iatrogenia]]
+- [[Estrategia Cloward-Piven]]
+- [[El Hundimiento del Estonia]]
+- [[Internet of Bio-Nano Things]]
+- [[Evergreen International Aviation]]
+- [[William Donovan]]
+- [[Tratado de Pandemias]]
+- [[Teoria del Heartland]]
+- [[Huawei]]
+- [[El Fracaso del Cambio de Regimen en Siria]]
+- [[Chatham House (RIIA)]]
+- [[Ciudades Inteligentes]]
+- [[Triangulo del Litio]]
+- [[Teoria de las Generaciones de Guerra]]
+- [[Teoria de Sistemas Mundiales]]
+- [[Anarco-Tirania]]
+- [[Invasion de Ucrania 2022]]
+- [[Trust in Media]]
+- [[Cibernetica]]
+- [[Hidrovia Parana]]
+- [[Teoria del Rimland]]
+- [[Bahia de Cochinos]]
+- [[Guerra de Siria]]
+- [[Brian Roberts]]
+- [[Belt and Road Initiative]]
+- [[Teoria del Terreno vs Teoria del Germen]]
+- [[Tartaria]]
+- [[Estrategia de la Tension]]
+- [[Geoingenieria Solar]]
+- [[Biopirateria]]
+- [[Cuarta Revolucion Industrial]]
+- [[Ariane de Rothschild]]
+- [[Algoritmos Racistas]]
+- [[Crisis Financiera Asiatica de 1997]]
+- [[Hegemonia Cultural]]
+- [[Triangulo Dorado]]
+- [[Biometria Global]]
+- [[Biblia Scofield]]
+- [[TikTok Ban Attempts]]
+- [[Alliance for Responsible Citizenship]]
+- [[GAVI (Vaccine Alliance)]]
+- [[Teosofia]]
+- [[Teoria de la Simulacion]]
+- [[Burbuja de las Energias Renovables]]
+- [[William Barr]]
+- [[Arquetipos Jungianos]]
+- [[Georgia Guidestones]]
+- [[Teologia de la Liberacion]]
+- [[Brian Moynihan]]
+- [[Familia Orsini]]
+- [[Familia Pallavicini]]
+- [[IARPA]]
+- [[Logia P2]]
+- [[Familia Savoy]]
+- [[Familia Bush]]
+- [[Five Eyes Alliance_LEGACY]]
+- [[Belt and Road Initiative (Ruta de la Seda)_LEGACY]]
+- [[5G - 6G y Control]]
+- [[Transhumanismo]]
+- [[Yulia Navalnaya]]
+- [[Neuralink]]
+- [[Ingenieria Inversa]]
+- [[India]]
+- [[Familia Maxwell]]
+- [[Falsas Dicotomias]]
+- [[Internet de los Cuerpos]]
+- [[Familia Sackler]]
+- [[Energia de Punto Cero]]
+- [[Bohemian Grove (Cremation of Care)]]
+- [[Economia Circular]]
+- [[Dialectica Hegeliana]]
+- [[Energia Nuclear]]
+- [[Brookings China Initiative]]
+- [[Teoria de Juegos]]
+- [[Ley de Hierro de la Oligarquia]]
+- [[Luciferianismo]]
+- [[Los Chicos en las Vias]]
+- [[Viacom CBS]]
+- [[Transhumanismo (La Fusion Digital)]]
+- [[Lusitania]]
+- [[Julian Assange]]
+- [[Julian Huxley]]
+- [[Organizacion Mundial de la Salud]]
+- [[Medialuna de Oro]]
+- [[Miriam Adelson]]
+- [[La Iglesia del Proceso]]
+- [[Operacion Soberania]]
+- [[Palantir Gotham vs Foundry]]
+- [[Numerologia del 33]]
+- [[Plan Andinia]]
+- [[Segunda Guerra Mundial]]
+- [[Praxeologia]]
+- [[Psicopatia Corporativa]]
+- [[Piedras Guia de Georgia]]
+- [[Puerta Giratoria]]
+- [[Sociedad Fabiana]]
+- [[Russiagate]]
+- [[Plan Colombia]]
+- [[Kissinger en 1992 Surgira un Nuevo Orden Mundial]]
+- [[China busca orden mundial alternativo - US Commission]]
+- [[Lo que Virginia Giuffre ha dicho sobre Trump y Jeffrey Epstein 2]]
+- [[Regimen Planetario El plan de los globalistas en sus propias palabras]]
+- [[Tragedia y esperanza]]
+- [[La Teoria Geopolitica del Rimland Una Perspectiva Estrategica]]
+- [[William Colby - Wikispooks]]
+- [[India Stack]]
+- [[Triangulo del Litio 2.0]]
+- [[Estrategia DOD 2026]]
+- [[Gematria Biblica y Cabala]]
+- [[Sirio- El Guia Externo]]
+- [[Simbologia del Tabernaculo]]
+- [[Sacrificios Rituales y Gestion de Energia]]
+- [[Alquimia Sexual]]
+- [[Biblioteca de Alejandria]]
+- [[Simbologia de Banderas Tier B]]
+- [[Sinarquia]]
+- [[Masoneria de Rito Escoces]]
+- [[Urano- El Cambiador Subito]]
+- [[Criptografia Arcaica]]
+- [[Alquimia Sexual y Prostitucion Sagrada]]
+- [[Güelfos y Ghibelinos - La Raiz de la Dialectica]]
+- [[El Zodiaco de Dendera]]
+- [[TikTok Gnosis]]
+- [[Morfologia de los Mitos Modernos]]
+- [[Reliquias de Poder]]
+- [[Neuralink y Colmena Esoterica]]
+- [[Tartaria y el Reset Energetico]]
+- [[Nano-tecnologia]]
+- [[Mafia Rusa]]
+- [[Astrologia Financiera]]
+- [[Triadas Chinas - La Logistica de la Diaspora]]
+- [[Marte y Ares - La Economia de la Guerra]]
+- [[Transhumanismo (Plan Gnostico)]]
+- [[Alquimia Digital]]
+- [[Alquimia de la Percepcion]]
+- [[Ingenieria de Realidad]]
+- [[Escatologia de la IA]]
+- [[Astro-Cartografia del Rimland]]
+- [[Energia Radiant]]
+- [[Dioniso y la Ingenieria de la Catarsis]]
+- [[Nodos Lunares en la Economia]]
+- [[WIC - La Compañia de las Indias Occidentales]]
+- [[Soberania del Espiritu]]
+- [[Codigo de la Biblia]]
+- [[Logia del Dragon Negro]]
+- [[Ufologia como Operacion Intelligence]]
+- [[El Arca de la Alianza]]
+- [[Geometria de Canberra]]
+- [[Compañia de las Indias - El Estado Mercantil Privado]]
+- [[Simetria de la Doble Helice]]
+- [[Geometria del Pentagon]]
+- [[Ingenieria de Consentimiento]]
+- [[Geometria Fractal en el Mercado]]
+- [[Fisica de Plasma y Alquimia Modern]]
+- [[La Compañia de Jesus]]
+- [[Geometria del Gran Sello]]
+- [[Via de la Mano Izquierda vs Derecha]]
+- [[Simbologia del Trono de S. Pedro]]
+- [[Alquimia China]]
+- [[El Algoritmo como Oraculo]]
+- [[Neuralink y la Colmena Esoterica]]
+- [[Magia de Salon en Politica]]
+- [[Patron - Teoria del Rimland (Spykman)]]
+- [[Patron - Teoria del Heartland (Mackinder)]]
+- [[Patron - El Gran Tablero Mundial (Brzezinski)]]
+- [[Nanotecnologia]]
+- [[El Mesías Antinomiano]]

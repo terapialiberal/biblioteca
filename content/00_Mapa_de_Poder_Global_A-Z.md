@@ -33,7 +33,7 @@ Este documento es el índice estructural de la **Bóveda de Terapia Liberal**. M
 #### 🎪 Tier C: La Narrativa
 *La distracción diseñada para capturar la atención de la población.*
 *   **Política:** Actores de reparto intercambiables ([[Javier Milei]], [[Donald Trump]], [[Lula da Silva]]).
-*   **Medios:** [[Operación Mockingbird]] modernizada. Fragmentación del discurso y "Guerra Cultural".
+*   **Medios:** [[Operacion Mockingbird]] modernizada. Fragmentación del discurso y "Guerra Cultural".
 
 
 ## 📊 VISUALIZACIÓN ESTRUCTURAL (v4.0 GOLD)
@@ -78,7 +78,7 @@ graph TD
 *   **[[Reserva Federal]]**: El motor de la deuda.
 *   **[[CBDC]]** / [[CBDC Interoperability]]: El mecanismo final de "dinero programado" (TL V.2).
 *   **[[BlackRock BUIDL]]**: Tokenización de la liquidez institucional.
-*   **[[Proyecto Agorá]]** / [[Proyecto mBridge]]: Los nuevos rieles del BIS.
+*   **[[Proyecto Agora]]** / [[Proyecto mBridge]]: Los nuevos rieles del BIS.
 *   **[[ESG]]** / [[Social Credit West]]: El score social corporativo y su implementación occidental.
 
 ### 2. Nodos De Ejecución & Inteligencia
@@ -120,7 +120,7 @@ A continuación, la lista completa de las 50 entidades incorporadas en la audito
 | [[Chainalysis]] | | | [[Precision Medicine]] | [[Urbit 2026]] |
 | [[Chatham House]] | | | [[Predictive Programming]] | [[WEF 2026]] |
 | [[Cognitive Warfare]] | | | [[Programmable Food]] | [[Young Global Leaders]] |
-| | | | [[Proyecto Agorá]] | |
+| | | | [[Proyecto Agora]] | |
 | | | | [[Proyecto mBridge]] | |
 
 

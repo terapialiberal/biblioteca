@@ -29,3 +29,9 @@ tags: [00-moc, kompromat, operaciones-inteligencia, axioma-kompromat]
 
 ---
 *Pertenencia: [[00_INDEX_MAESTRO]] | [[00_MOC_MAESTRO_BASE_DE_CONOCIMIENTO]]*
+
+
+## 🔍 NODOS DETECTADOS (AUDITORIA 2026)
+- [[Ari Ben-Menashe]]
+- [[Honey Pot]]
+- [[Honeypot]]

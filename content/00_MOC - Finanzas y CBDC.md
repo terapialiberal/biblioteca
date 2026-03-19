@@ -17,7 +17,7 @@ El sistema fíat basado en el dólar está siendo migrado hacia una arquitectura
 
 ### El Banco Central De Los Bancos Centrales
 - [[BIS]] (Bank for International Settlements)
-- [[Proyecto Agorá]]: La unificación de depósitos bancarios tokenizados (TL V.2).
+- [[Proyecto Agora]]: La unificación de depósitos bancarios tokenizados (TL V.2).
 - [[BIS Innovation Hub]]: El laboratorio de la tecnocracia financiera.
 - [[CBDC Interoperability]]: El pegamento del control monetario transfronterizo.
 
@@ -53,7 +53,7 @@ El sistema fíat basado en el dólar está siendo migrado hacia una arquitectura
 - [[MOC - Rimland]] (La base física del capital)
 - [[00_MOC - Control Financiero\|MOC - Control Financiero]] ← **Ver diferencia de alcance abajo**
 - [[99_AI/05_Memoria_Central/Entity_Graph]]
-- [[99_AI/05_Memoria_Central/00_ONBOARDING_MAESTRO]]
+- [[99_AI/Legacy/00_ONBOARDING_MAESTRO]]
 
 > [!NOTE] Diferencia con [[00_MOC - Control Financiero\|MOC - Control Financiero]]
 > - **Este MOC** cubre la **arquitectura técnica**: CBDC, rieles DLT, mBridge, Project Agora. El *cómo* se mueve el dinero.
@@ -112,3 +112,28 @@ El sistema fíat basado en el dólar está siendo migrado hacia una arquitectura
 - [[Wall Street and the Bolshevik Revolution\|Wall Street and the Bolshevik Revolution]]
 - [[Wall Street and the Rise of Hitler\|Wall Street and the Rise of Hitler]]
 
+
+
+## 🔍 NODOS DETECTADOS (AUDITORIA 2026)
+- [[Sistema SPFS]]
+- [[Tokenizacion de Activos Reales]]
+- [[City of London_LEGACY]]
+- [[Fundacion Bitcoin]]
+- [[Tether]]
+- [[Bitcoin]]
+- [[Vitalik Buterin]]
+- [[CBDCs]]
+- [[Sistema SWIFT]]
+- [[mBridge Expansion]]
+- [[Stablecoin Regulation US]]
+- [[Binance]]
+- [[Coinbase]]
+- [[El Patron Bitcoin]]
+- [[Plan Condor 2.0]]
+- [[Mineria de Fondos Marinos]]
+- [[Operacion Condor]]
+- [[Satoshi Nakamoto]]
+- [[Sistema CIPS]]
+- [[Fondo Noruego]]
+- [[CBDC Europeo]]
+- [[Transmutacion de Metales y CBDCs]]

@@ -15,16 +15,21 @@ tags: [moc, indice, tl-v3, zettelkasten]
 *Puntos de entrada recomendados para navegar la red de información:*
 
 - [[00_MOC - Argentina]]
+- [[00_MOC - Captura Regulatoria y Puertas Giratorias]]
 - [[00_MOC - Control Financiero]]
 - [[00_MOC - Cronologico]]
 - [[00_MOC - Finanzas y CBDC]]
 - [[00_MOC - Fricciones de la Matrix]]
+- [[00_MOC - Kompromat y Dark Game Theory]]
+- [[00_MOC - Mercados Negros y Crimen Sistemico]]
 - [[00_MOC - Operaciones Encubiertas]]
 - [[00_MOC - Operaciones Psicologicas]]
+- [[00_MOC - Patrones Clasicos de Poder]]
 - [[00_MOC - Redes de Poder]]
 - [[00_MOC - Rimland]]
 - [[00_MOC - Simbolismo y Esoterismo]]
 - [[00_MOC - Tecnologia de Control]]
+- [[MOC_Navegacion]]
 
 ---
 
