@@ -7,15 +7,17 @@ nivel-evidencia: "medio"
 tags: [00-moc, banco, financiero, reserva]
 publish: true
 ---
+
 # 💰 MOC — CONTROL FINANCIERO
 
 > **Cui Bono**: El dinero no desaparece. Se transfiere.
-> Ver también: [[00_MOC - Finanzas y CBDC\|MOC - Finanzas y CBDC]] para la capa CBDC/digital.
+> Ver también: [[00_MOC - Finanzas y CBDC|MOC - Finanzas y CBDC]] para la capa CBDC/digital.
 
 ## 🏦 ARQUITECTURA DEL SISTEMA
 
 ### Los Nodos Centrales
-- [[BIS]] / [[Banco de Pagos Internacionales\|Banco de Pagos Internacionales (BIS)]] — El banco de los bancos centrales
+
+- [[BIS]] / [[Banco de Pagos Internacionales|Banco de Pagos Internacionales (BIS)]] — El banco de los bancos centrales
 - [[BIS Innovation Hub]] — Donde se diseña el futuro CBDC
 - [[Reserva Federal]] — La Fed y sus mecanismos de control
 - [[Banco de Inglaterra]] — El origen del sistema moderno
@@ -25,16 +27,17 @@ publish: true
 - [[Ley de la Reserva Federal]] — La privatización del dinero
 
 ### Los Gestores Pasivos (La Trifecta)
+
 - [[BlackRock]] — Aladdin y el control de activos reales
 - [[Vanguard Group]] / [[Grupo Vanguard]] — El accionista silencioso
 - [[State Street]] — El tercer pilar
 - [[BlackRock - Vanguard - State Street (Trifecta)]] — La convergencia
 - [[Estudio de las 147 Corporaciones (ETH Zurich)]] — La red de control corporativo
 
-
 ## ⚙️ MECANISMOS DE EXTRACCIÓN
 
 ### El Robo Silencioso
+
 - [[Cantillon Effect]] — Quién recibe el dinero primero gana
 - [[Impuesto Inflacionario]] — La inflación como transferencia de riqueza
 - [[Represion Financiera]] — Tasas reales negativas como política
@@ -43,25 +46,27 @@ publish: true
 - [[Exorbitant Privilege]] — El privilegio del dólar
 
 ### Deuda Como Arma
+
 - [[Fondos Buitre]] — Elliott Management y la deuda soberana
 - [[Armas de Destruccion Financiera]] — Los derivados de Warren Buffett
-- [[00_Glosario - Conceptos Fase 1#Derivados (Quadrillion Dollar Bubble)\|Derivados (Quadrillion Dollar Bubble)]] — La bomba de tiempo
+- [[00_Glosario - Conceptos Fase 1#Derivados (Quadrillion Dollar Bubble)|Derivados (Quadrillion Dollar Bubble)]] — La bomba de tiempo
 - [[Long-Term Capital Management (LTCM)]] — El ensayo de 1998
 - [[Crisis Financiera 2008]] — El manual del rescate
 - [[Bail-in (Rescate Interno)]] — Chipre 2012, el nuevo estándar
 - [[Párrafo Basel III y IV (Regulación Bancaria)]] — Las reglas que cambian las reglas
 
 ### The Great Taking
+
 - [[The Great Taking (La Gran Toma)]] — David Webb y la hipoteca de activos
 - [[Cede & Co]] — El custodio silencioso
 - [[DTCC (Depository Trust & Clearing Corp)]] — La cámara de compensación
 - [[Euroclear]] — El sistema europeo equivalente
 - [[ISDA]] — Los contratos que no podés incumplir
 
-
 ## 🏗️ INFRAESTRUCTURA BANCARIA DE PODER
 
 ### Los Bancos Del Crimen
+
 - [[BCCI (Bank of Credit and Commerce International)]] — El banco del narcotráfico global
 - [[Banco Ambrosiano]] — El banco del Vaticano y la P2
 - [[HSBC (El banco del opio)]] — Raíces en las Guerras del Opio
@@ -71,15 +76,16 @@ publish: true
 - [[JPMorgan Onyx]] — El banco que emite su propia CBDC
 
 ### Plazas Financieras Opacas
+
 - [[City de Londres]] / [[La Milla Cuadrada (City de Londres)]] — El Estado dentro del Estado
 - [[Paraísos Fiscales (EEUU)]] — Delaware y Nevada como offshore doméstico
 - [[Panama Papers]] — La fuga de datos que cambió todo
 - [[Clearstream]] — El depósito europeo con cuentas secretas
 
-
 ## 💸 DINERO Y CONTROL MONETARY
 
 ### La Guerra Del Dinero
+
 - [[Petrodolar]] / [[Sistema Petrodólar (Hegemonía y Guerra)]] — El acuerdo Nixon-Saud
 - [[Shock de Nixon]] — El fin de Bretton Woods
 - [[Desdolarizacion]] — La amenaza al sistema
@@ -88,13 +94,13 @@ publish: true
 - [[Acuerdo Plaza]] — Cómo EEUU devaluó el yen
 
 ### Arquitectura Del Crimen Corporate
+
 - [[Captura Regulatoria]] — La puerta giratoria como sistema
 - [[Puerta Giratoria (Concepto)]] — El mecanismo
-- [[La Puerta Giratoria de la FDA\|Puerta Giratoria de la FDA]] — El caso farmacéutico
+- [[La Puerta Giratoria de la FDA|Puerta Giratoria de la FDA]] — El caso farmacéutico
 - [[Big Pharma Fines]] — Las multas como costo operativo
 - [[Capitalismo de Amigos]] — El sistema de favores
 - [[Rent-Seeking]] — Capturar rentas sin crear valor
-
 
 ## 🧨 CRISIS COMO HERRAMIENTA
 
@@ -108,101 +114,92 @@ publish: true
 - [[Repo Market Crisis 2019]] — La crisis que nadie vio
 - [[Plunge Protection Team]] — El equipo que evita los crashes
 
-
 ## 🔗 NODOS RELACIONADOS
-- [[00_MOC - Finanzas y CBDC\|MOC - Finanzas y CBDC]] ← **Ver diferencia de alcance abajo**
+
+- [[00_MOC - Finanzas y CBDC|MOC - Finanzas y CBDC]] ← **Ver diferencia de alcance abajo**
 - [[Familia Rothschild]] — Dinastía bancaria fundacional
 - [[Familia Warburg]] — Architects of the Fed
 - [[J.P. Morgan]] — El banquero que construyó el siglo XX
 - [[Carroll Quigley]] — Tragedy and Hope: el texto que lo documenta todo
 
-> [!NOTE] Diferencia con [[00_MOC - Finanzas y CBDC\|MOC - Finanzas y CBDC]]
-> - **Este MOC** cubre los **mecanismos de extracción**: deuda, inflación, Great Taking, bail-in. El *a quién* se lo sacan.
-> - **MOC Finanzas y CBDC** cubre la **arquitectura técnica**: CBDC, rieles DLT, mBridge, Project Agora. El *cómo* se mueve el dinero.
-> Son complementarios. Este MOC es el robo. El otro, la plomería.
+> [!NOTE] Diferencia con [[00_MOC - Finanzas y CBDC|MOC - Finanzas y CBDC]]
+>
+> - **Este MOC** cubre los **mecanismos de extracción**: deuda, inflación, Great Taking, bail-in. El _a quién_ se lo sacan.
+> - **MOC Finanzas y CBDC** cubre la **arquitectura técnica**: CBDC, rieles DLT, mBridge, Project Agora. El _cómo_ se mueve el dinero.
+>   Son complementarios. Este MOC es el robo. El otro, la plomería.
 
 ## 📊 NODOS AUTOMÁTICOS (Dataview)
 
-- [[06_Videos_Publicados/2026/2026-03-17 IRAN_STREAM/00_ARCHIVO_2026-03-17_Iran\|00_ARCHIVO_2026-03-17_Iran]]
-- [[00_MOC - Finanzas y CBDC\|00_MOC - Finanzas y CBDC]]
-- [[Alquimia Digital\|Alquimia Digital]]
-- [[Anubis - El Pescador de Almas En Deuda\|Anubis - El Pescador de Almas En Deuda]]
-- [[Astrologia Financiera\|Astrologia Financiera]]
-- [[01_Research/02_Recoleccion/AVANCE_CBDC/avance-cbdc-tesis\|avance-cbdc-tesis]]
-- [[Banca en la Sombra\|Banca en la Sombra]]
-- [[Banco de Pagos Internacionales\|Banco de Pagos Internacionales]]
-- [[Biometria Global\|Biometria Global]]
-- [[BIS Innovation Hub\|BIS Innovation Hub]]
-- [[Carney_en_Beijing_DW\|Carney_en_Beijing_DW]]
-- [[CBDC Interoperability\|CBDC Interoperability]]
-- [[Chavanette Research\|Chavanette Research]]
-- [[05_Fuentes/Christine Lagarde admite que las CBDC son clave para mantener el poder de los bancos centrales\|Christine Lagarde admite que las CBDC son clave para mantener el poder de los bancos centrales]]
-- [[CIPS & SPFS\|CIPS & SPFS]]
-- [[Clearstream\|Clearstream]]
-- [[05_Fuentes/Como la casa de Rothschild se entrelazo con Epstein\|Como la casa de Rothschild se entrelazo con Epstein]]
-- [[Credito Social\|Credito Social]]
-- [[Credito Social Chino\|Credito Social Chino]]
-- [[Cybernetics of Control\|Cybernetics of Control]]
-- [[Diem\|Diem]]
-- [[DTCC\|DTCC]]
-- [[05_Fuentes/El banco central de Brasil planea usar datos de su CBDC para guiar las decisiones sobre tasas de interés\|El banco central de Brasil planea usar datos de su CBDC para guiar las decisiones sobre tasas de interés]]
-- [[05_Fuentes/El BIS defiende un libro mayor unificado pero describe las criptomonedas como un sistema defectuoso\|El BIS defiende un libro mayor unificado pero describe las criptomonedas como un sistema defectuoso]]
-- [[05_Fuentes/El giro histórico de Jamie Dimon reconoce la superioridad del ecosistema cripto\|El giro histórico de Jamie Dimon reconoce la superioridad del ecosistema cripto]]
-- [[El Gran Reinicio\|El Gran Reinicio]]
-- [[05_Fuentes/El Operador de la Centralita\|El Operador de la Centralita]]
-- [[El Patron Bitcoin\|El Patron Bitcoin]]
-- [[Escritura Cuneiforme y Deuda\|Escritura Cuneiforme y Deuda]]
-- [[Ethereum Foundation\|Ethereum Foundation]]
-- [[Euroclear\|Euroclear]]
-- [[Fondos Buitre\|Fondos Buitre]]
-- [[Geocercas\|Geocercas]]
-- [[Gold Backed CBDC - Pilot\|Gold Backed CBDC - Pilot]]
-- [[Grupo de los Treinta\|Grupo de los Treinta]]
-- [[Guerra de Divisas\|Guerra de Divisas]]
-- [[Hal Finney\|Hal Finney]]
-- [[01_Research/02_Recoleccion/AVANCE_CBDC/KANBAN_CBDC_GoingDirect\|KANBAN_CBDC_GoingDirect]]
-- [[05_Fuentes/La CFTC pone en marcha un programa piloto para utilizar garantías de criptomonedas en los mercados de derivados\|La CFTC pone en marcha un programa piloto para utilizar garantías de criptomonedas en los mercados de derivados]]
-- [[05_Fuentes/La Fed considera cuentas de pago 'reducidas' para ampliar el acceso al sistema bancario\|La Fed considera cuentas de pago 'reducidas' para ampliar el acceso al sistema bancario]]
-- [[05_Fuentes/La Gran Expropiación\|La Gran Expropiación]]
-- [[05_Fuentes/Las afirmaciones de sexo con menores sacuden al grupo de Bitcoin\|Las afirmaciones de sexo con menores sacuden al grupo de Bitcoin]]
-- [[Linea de Tiempo - 2010s-2020s\|Linea de Tiempo - 2010s-2020s]]
-- [[05_Fuentes/Los correos electronicos de Epstein arrojan una la\|Los correos electronicos de Epstein arrojan una la]]
-- [[Mercado Pago\|Mercado Pago]]
-- [[Monedas de Privacidad\|Monedas de Privacidad]]
-- [[N M Rothschild and Sons\|N M Rothschild and Sons]]
-- [[Nicholas Brady\|Nicholas Brady]]
-- [[06_Videos_Publicados/2026/2026-03-17 IRAN_STREAM/nota-tesis-iran-2026-tablero-completo\|nota-tesis-iran-2026-tablero-completo]]
-- [[06_Videos_Publicados/2026/2026-03-17 IRAN_STREAM/NotaTesis_ConvergenciaFinal_v1\|NotaTesis_ConvergenciaFinal_v1]]
-- [[06_Videos_Publicados/2026/2026-03-17 IRAN_STREAM/NotaTesis_MegaGroup_RedContinuidad_v5\|NotaTesis_MegaGroup_RedContinuidad_v5]]
-- [[Nuevo Bretton Woods\|Nuevo Bretton Woods]]
-- [[05_Fuentes/Nuevos correos revelan que Epstein financio indire\|Nuevos correos revelan que Epstein financio indire]]
-- [[06_Videos_Publicados/2026/2026-01-07_Gaza_SA/Post Gaza SA\|Post Gaza SA]]
-- [[Proporcion 1.618 en HFT\|Proporcion 1.618 en HFT]]
-- [[Reserva Federal\|Reserva Federal]]
-- [[Rishi Sunak\|Rishi Sunak]]
-- [[Santiago Bausili\|Santiago Bausili]]
-- [[Saturno y Deuda\|Saturno y Deuda]]
-- [[Score Ciudadano\|Score Ciudadano]]
-- [[Señoreaje\|Señoreaje]]
-- [[Shock de Nixon\|Shock de Nixon]]
-- [[Tokenizacion de Activos Reales\|Tokenizacion de Activos Reales]]
-- [[01_Research/02_Recoleccion/AVANCE_CBDC/video-baby-trump-blackrock\|video-baby-trump-blackrock]]
-- [[05_Fuentes/Winds of Change The Case for New Digital Currency by Christine Lagarde\|Winds of Change The Case for New Digital Currency by Christine Lagarde]]
-
+- [[06_Videos_Publicados/2026/2026-03-17 IRAN_STREAM/00_ARCHIVO_2026-03-17_Iran.md|00_ARCHIVO_2026-03-17_Iran]]
+- [[00_MOC - Finanzas y CBDC.md|00_MOC - Finanzas y CBDC]]
+- [[Alquimia Digital.md|Alquimia Digital]]
+- [[Anubis - El Pescador de Almas En Deuda.md|Anubis - El Pescador de Almas En Deuda]]
+- [[Astrologia Financiera.md|Astrologia Financiera]]
+- [[Banca en la Sombra.md|Banca en la Sombra]]
+- [[Banco de Pagos Internacionales.md|Banco de Pagos Internacionales]]
+- [[Biometria Global.md|Biometria Global]]
+- [[BIS Innovation Hub.md|BIS Innovation Hub]]
+- [[Carney_en_Beijing_DW.md|Carney_en_Beijing_DW]]
+- [[CBDC Interoperability.md|CBDC Interoperability]]
+- [[Chavanette Research.md|Chavanette Research]]
+- [[05_Fuentes/Christine Lagarde admite que las CBDC son clave para mantener el poder de los bancos centrales.md|Christine Lagarde admite que las CBDC son clave para mantener el poder de los bancos centrales]]
+- [[CIPS & SPFS.md|CIPS & SPFS]]
+- [[Clearstream.md|Clearstream]]
+- [[05_Fuentes/Como la casa de Rothschild se entrelazo con Epstein.md|Como la casa de Rothschild se entrelazo con Epstein]]
+- [[Credito Social.md|Credito Social]]
+- [[Credito Social Chino.md|Credito Social Chino]]
+- [[Cybernetics of Control.md|Cybernetics of Control]]
+- [[Diem.md|Diem]]
+- [[DTCC.md|DTCC]]
+- [[05_Fuentes/El banco central de Brasil planea usar datos de su CBDC para guiar las decisiones sobre tasas de interés.md|El banco central de Brasil planea usar datos de su CBDC para guiar las decisiones sobre tasas de interés]]
+- [[05_Fuentes/El BIS defiende un libro mayor unificado pero describe las criptomonedas como un sistema defectuoso.md|El BIS defiende un libro mayor unificado pero describe las criptomonedas como un sistema defectuoso]]
+- [[05_Fuentes/El giro histórico de Jamie Dimon reconoce la superioridad del ecosistema cripto.md|El giro histórico de Jamie Dimon reconoce la superioridad del ecosistema cripto]]
+- [[El Gran Reinicio.md|El Gran Reinicio]]
+- [[05_Fuentes/El Operador de la Centralita.md|El Operador de la Centralita]]
+- [[El Patron Bitcoin.md|El Patron Bitcoin]]
+- [[Escritura Cuneiforme y Deuda.md|Escritura Cuneiforme y Deuda]]
+- [[Ethereum Foundation.md|Ethereum Foundation]]
+- [[Euroclear.md|Euroclear]]
+- [[Fondos Buitre.md|Fondos Buitre]]
+- [[Geocercas.md|Geocercas]]
+- [[Gold Backed CBDC - Pilot.md|Gold Backed CBDC - Pilot]]
+- [[Grupo de los Treinta.md|Grupo de los Treinta]]
+- [[Guerra de Divisas.md|Guerra de Divisas]]
+- [[Hal Finney.md|Hal Finney]]
+- [[05_Fuentes/La CFTC pone en marcha un programa piloto para utilizar garantías de criptomonedas en los mercados de derivados.md|La CFTC pone en marcha un programa piloto para utilizar garantías de criptomonedas en los mercados de derivados]]
+- [[05_Fuentes/La Fed considera cuentas de pago 'reducidas' para ampliar el acceso al sistema bancario.md|La Fed considera cuentas de pago 'reducidas' para ampliar el acceso al sistema bancario]]
+- [[05_Fuentes/La Gran Expropiación.md|La Gran Expropiación]]
+- [[05_Fuentes/Las afirmaciones de sexo con menores sacuden al grupo de Bitcoin.md|Las afirmaciones de sexo con menores sacuden al grupo de Bitcoin]]
+- [[Linea de Tiempo - 2010s-2020s.md|Linea de Tiempo - 2010s-2020s]]
+- [[05_Fuentes/Los correos electronicos de Epstein arrojan una la.md|Los correos electronicos de Epstein arrojan una la]]
+- [[Mercado Pago.md|Mercado Pago]]
+- [[Monedas de Privacidad.md|Monedas de Privacidad]]
+- [[N M Rothschild and Sons.md|N M Rothschild and Sons]]
+- [[Nicholas Brady.md|Nicholas Brady]]
+- [[06_Videos_Publicados/2026/2026-03-26_El_Reseteo_Perfecto/NOTA_TESIS_El_Reseteo_Perfecto.md|NOTA_TESIS_El_Reseteo_Perfecto]]
+- [[06_Videos_Publicados/2026/2026-03-17 IRAN_STREAM/nota-tesis-iran-2026-tablero-completo.md|nota-tesis-iran-2026-tablero-completo]]
+- [[06_Videos_Publicados/2026/2026-03-17 IRAN_STREAM/NotaTesis_ConvergenciaFinal_v1.md|NotaTesis_ConvergenciaFinal_v1]]
+- [[06_Videos_Publicados/2026/2026-03-17 IRAN_STREAM/NotaTesis_MegaGroup_RedContinuidad_v5.md|NotaTesis_MegaGroup_RedContinuidad_v5]]
+- [[Nuevo Bretton Woods.md|Nuevo Bretton Woods]]
+- [[05_Fuentes/Nuevos correos revelan que Epstein financio indire.md|Nuevos correos revelan que Epstein financio indire]]
+- [[06_Videos_Publicados/2026/2026-01-07_Gaza_SA/Post Gaza SA.md|Post Gaza SA]]
+- [[Proporcion 1.618 en HFT.md|Proporcion 1.618 en HFT]]
+- [[Reserva Federal.md|Reserva Federal]]
+- [[Rishi Sunak.md|Rishi Sunak]]
+- [[Santiago Bausili.md|Santiago Bausili]]
+- [[Saturno y Deuda.md|Saturno y Deuda]]
+- [[Score Ciudadano.md|Score Ciudadano]]
+- [[Señoreaje.md|Señoreaje]]
+- [[Shock de Nixon.md|Shock de Nixon]]
+- [[Tokenizacion de Activos Reales.md|Tokenizacion de Activos Reales]]
+- [[05_Fuentes/Winds of Change The Case for New Digital Currency by Christine Lagarde.md|Winds of Change The Case for New Digital Currency by Christine Lagarde]]
 
 ---
 
-*MOC creado: 2026-02-24 | Parte del [[INDEX_MAESTRO]]*
-
-
-
-
-
-
-
-
+_MOC creado: 2026-02-24 | Parte del [[INDEX_MAESTRO]]_
 
 ## 🔍 NODOS DETECTADOS (AUDITORIA 2026)
+
 - [[Señoreaje]]
 - [[Paul Volcker]]
 - [[Fundacion del Banco de Inglaterra]]

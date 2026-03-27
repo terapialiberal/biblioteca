@@ -7,6 +7,7 @@ nivel-evidencia: "medio"
 tags: [edward, expanded, glenn, revelaciones]
 publish: true
 ---
+
 # Edward Snowden (Expanded)
 
 > [!INFO] Perfil (Whistleblower)
@@ -14,32 +15,33 @@ publish: true
 > **Función Real:** Reveló que el gobierno espía a todos, todo el tiempo.
 
 ## Biografía
+
 Edward Snowden era contractor de NSA (vía Booz Allen Hamilton).
 
 En 2013, filtró miles de documentos sobre programas de vigilancia masiva:
+
 - **PRISM:** Acceso directo a servidores de Google, Facebook, etc.
 - **XKeyscore:** Búsqueda en toda la internet
 - **Colección masiva de metadatos**
 
 ## Consecuencias
+
 - Huyó a Rusia (donde sigue)
 - EEUU lo acusó de espionaje
 - Debate global sobre privacidad
 - Algunas reformas cosméticas
 
 ## Âš ï¸ Preguntas
+
 ¿Fue un whistleblower genuino o un "limited hangout" controlado?
 
 ## Conexiones
+
 - [[NSA]]
 - [[Revelaciones de Snowden]]
-- [[00_Glosario - Conceptos Fase 1#Glenn Greenwald\|Glenn Greenwald]]
+- [[00_Glosario - Conceptos Fase 1#Glenn Greenwald|Glenn Greenwald]]
 
 ## Fuentes
+
 - "Permanent Record" (autobiografía)
 - Documentos filtrados
-
-
-
-
-

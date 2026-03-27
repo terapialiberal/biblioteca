@@ -16,23 +16,29 @@ publish: true
 ## Análisis De Tiers
 
 ### Tier A (La Productora / Dueños De La Franquicia)
+
 - El director "Christof" (nombre que sugiere un falso Dios/Demiurgo) representa al **Tier A/B**. Su incentivo es mantener la "Verdad" (el show) fluyendo. El mundo exterior (el Tier C que lo mira) se alimenta emocionalmente de la falta de soberanía de Truman.
 
 ### Tier B (Actores Y Equipo Técnico)
+
 - Todo el entorno social de Truman está compuesto por agentes de Tier B. Su función es "desviar" las dudas de Truman mediante el gaslighting y la publicidad insertada. Si Truman intenta viajar, el sistema (la aerolínea, el puente) "falla" convenientemente.
 
 ### Tier C (Truman / La Audiencia)
+
 - Truman es el individuo de Tier C que empieza a detectar "glitches" en la matrix. La audiencia es el Tier C pasivo que se identifica con el esclavo pero no apaga el televisor (el sistema).
 
 ## Conexiones Críticas
+
 - [[Iniciación de Muerte en Vida]]: El proceso de Truman de salir del domo.
 - [[Ventana de Overton]]: Cómo se definen los límites de lo posible para Truman.
 - [[Mito de la Caverna (Platón)]]: El marco filosófico fundamental del film.
 
 ## Cui Bono
+
 ¿Quién gana? El **Administrador del Estatus Quo**. El show debe continuar para que la población no despierte a su propia Trumanía.
 
 ---
+
 **Versión:** 1.0
 **Enfoque:** Análisis de la vigilancia emocional y las cercas invisibles del sistema.
 **Estado:** 2026-02-25 | Informe Activo

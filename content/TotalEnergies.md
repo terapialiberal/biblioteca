@@ -7,6 +7,7 @@ nivel-evidencia: "medio"
 tags: [totalenergies]
 publish: true
 ---
+
 # TotalEnergies
 
 > [!ABSTRACT] Ficha Técnica
@@ -14,24 +15,23 @@ publish: true
 > **Función Real:** Brazo energético del Estado francés en África.
 
 ## Historia
+
 Total ha sido pieza clave de la "Françafrique" - la esfera de influencia francesa en África.
 
 Opera en países donde Francia tiene intereses estratégicos.
 
 ## Âš ï¸ Controversias
+
 - Myanmar: operar bajo junta militar
 - África: relaciones con regímenes cuestionables
 
 ## Conexiones
+
 - Françafrique
 - Estado francés
 - Supermajors petroleras
 
 ## Fuentes
+
 - SEC/AMF filings
 - Africa coverage
-
-
-
-
-

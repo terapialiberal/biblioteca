@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:02.638-03:00
-modified: 2026-02-27T13:22:04.271-03:00
+modified: 2026-02-27T13:21:56.798-03:00
 tags:
   - bombings
   - guerra
@@ -12,6 +12,7 @@ tags:
 # 7/7 London Bombings
 
 ## Resumen Ejecutivo
+
 **¿Qué fue?** Series de explosiones coordinadas en el metro y autobús de Londres. 52 muertos.
 
 **¿Por qué importa?** Ocurrió el día después de que Londres ganara la sede olímpica y durante la cumbre del G8.
@@ -20,27 +21,27 @@ tags:
 ## Análisis (Tiers)
 
 ### Tier A (Tony Blair)
+
 - **Justificación:** Blair usó el atentado para reforzar el apoyo a la impopular Guerra de Irak y pasar leyes antiterroristas draconianas (90 días de detención sin cargos).
-- **Mossad:** Netanyahu estaba en Londres ese día; se le advirtió que no saliera de su hotel minutos *antes* de la explosión (reportado por AP, luego retractado/cambiado a "después").
+- **Mossad:** Netanyahu estaba en Londres ese día; se le advirtió que no saliera de su hotel minutos _antes_ de la explosión (reportado por AP, luego retractado/cambiado a "después").
 
 ### Tier B (Operativa)
+
 - **El Simulacro:** Usar un simulacro como cobertura para una operación real es el modus operandi estándar (sucedió el 11-S con los ejercicios de la Fuerza Aérea, sucedió en el ataque de Noruega). Permite mover explosivos y operativos bajo la excusa de "es un ejercicio".
 - **Los Mochileros:** Los supuestos suicidas habían comprado boletos de ida y vuelta (retorno a Leeds/Luton), lo que no encaja con perfil suicida.
 
 ### Tier C (Narrativa)
+
 - "Terrorismo islámico homegrown"
 - "Ataque a nuestros valores"
 
 ## Conexiones
+
 - [[Tony Blair]]
 - [[9-11]] (patrón de simulacros espejo)
 - [[Guerra contra el Terror]]
 
 ## Fuentes
+
 - Entrevista a Peter Power en ITV News (disponible en video).
 - "7/7 Ripple Effect" (documental prohibido).
-
-
-
-
-

@@ -16,12 +16,15 @@ publish: true
 ## Análisis Forense
 
 ### 1. El Tratado Antártico Como Muro
+
 - El tratado prohíbe la explotación comercial y la soberanía nacional exclusiva. Esto indica que el Tier A ha decidido que este territorio es **Neutral y Exclusivo** para sus operaciones. Es el "patio trasero" donde se guardan los activos críticos en caso de un colapso global en el Rimland/Heartland.
 
 ### 2. Anomalías De Radar Y Vuelos
+
 - La restricción de vuelos sobre el polo y las anomalías térmicas detectadas sugieren una actividad de infraestructura que no corresponde a la "investigación científica" oficial de Tier B.
 
 ---
+
 **Versión:** 1.0
 **Enfoque:** Geopolítica de lo extremo y santuarios de seguridad del poder.
 **Estado:** 2026-02-25 | Informe Activo

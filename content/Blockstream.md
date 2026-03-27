@@ -7,6 +7,7 @@ nivel-evidencia: "medio"
 tags: [adam, blockstream, satoshi]
 publish: true
 ---
+
 # Blockstream
 
 > [!ABSTRACT] Ficha Técnica
@@ -14,28 +15,28 @@ publish: true
 > **Función Real:** La empresa más influyente en el desarrollo de Bitcoin Core.
 
 ## Fundador
+
 Fundada por [[Adam Back]] (inventor de Hashcash, citado por Satoshi).
 
 ## Productos
+
 - Liquid Network (sidechain de Bitcoin)
 - Satellite (Bitcoin via satélite)
 - Mining
 
 ## Âš ï¸ Controversias
+
 Críticos dicen que Blockstream ha capturado el desarrollo de Bitcoin y bloquea cambios que no les benefician.
 
 La "guerra de bloques" dividió a la comunidad.
 
 ## Conexiones
+
 - [[Adam Back]]
 - Bitcoin Core development
 - [[Satoshi Nakamoto]] (conexión potential)
 
 ## Fuentes
+
 - Blockstream website
 - Bitcoin development history
-
-
-
-
-

@@ -16,12 +16,15 @@ publish: true
 ## Análisis Forense
 
 ### 1. La Puerta De Jano
+
 - El Tier A abre y cierra las puertas de la paz y la guerra según sus necesidades de captura de activos. Jano es el protocolo que asegura que, sin importar quién "gane" una transición, la llave de la puerta siga en manos del Tier A.
 
 ### 2. Dualismo En Tier B
+
 - Los agentes de inteligencia de Tier B actúan como Jano: una cara pública de "orden" y una cara privada de "caos".
 
 ---
+
 **Versión:** 1.0
 **Enfoque:** Gestión de transiciones institucionales y dialéctica de poder.
 **Estado:** 2026-02-25 | Informe Activo

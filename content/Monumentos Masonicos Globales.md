@@ -7,6 +7,7 @@ nivel-evidencia: "medio"
 tags: [arquitectura, escuadra, globales, obeliscos]
 publish: true
 ---
+
 # Monumentos Masónicos Globales (TL V.2): La Arquitectura Del Dominio
 
 > [!ABSTRACT] Hipótesis Informativa
@@ -15,18 +16,21 @@ publish: true
 ## Análisis De Tiers
 
 ### Tier A: Los Geomantes Del Poder
-*   **Washington D.C. (El Templo Masónico):** Diseñado por Pierre L'Enfant (masón), el mapa de D.C. incorpora pentagramas, escuadras y compases alineados con la Casa Blanca y el Capitolio. El Obelisco de Washington (falo de Osiris) frente al Capitolio y la Casa Blanca recrea alineaciones estelares (Sirio) destinadas a invocar "protección astral" sobre el centro del imperio.
-*   **Astana (La Capital del Nuevo Orden):** La capital de Kazajistán es el proyecto moderno más explícito. Su "Pirámide de la Paz" (Norman Foster) y las torres gemelas doradas (Jachin y Boaz) simbolizan la fusión de todas las religiones bajo una autoridad tecnocrática solar. Es el plano piloto de la religión global futura.
+
+- **Washington D.C. (El Templo Masónico):** Diseñado por Pierre L'Enfant (masón), el mapa de D.C. incorpora pentagramas, escuadras y compases alineados con la Casa Blanca y el Capitolio. El Obelisco de Washington (falo de Osiris) frente al Capitolio y la Casa Blanca recrea alineaciones estelares (Sirio) destinadas a invocar "protección astral" sobre el centro del imperio.
+- **Astana (La Capital del Nuevo Orden):** La capital de Kazajistán es el proyecto moderno más explícito. Su "Pirámide de la Paz" (Norman Foster) y las torres gemelas doradas (Jachin y Boaz) simbolizan la fusión de todas las religiones bajo una autoridad tecnocrática solar. Es el plano piloto de la religión global futura.
 
 ### Tier B: Los Constructores (Star-Architects)
-*   **Codificación del Espacio:** Arquitectos de élite (Foster, Calatrava, Koolhaas) actúan como los sumos sacerdotes técnicos que materializan estos conceptos. Su función es crear espacios que **induzcan estados de conciencia**: el gigantismo, la frialdad del vidrio y la abolición de la escala humana buscan que el individuo se sienta pequeño ante la omnipotencia del Estado/Corporación.
+
+- **Codificación del Espacio:** Arquitectos de élite (Foster, Calatrava, Koolhaas) actúan como los sumos sacerdotes técnicos que materializan estos conceptos. Su función es crear espacios que **induzcan estados de conciencia**: el gigantismo, la frialdad del vidrio y la abolición de la escala humana buscan que el individuo se sienta pequeño ante la omnipotencia del Estado/Corporación.
 
 ## ¸ Mecanismos De Poder
 
-1.  **Resonancia Subconsciente**: Saturar el campo visual con símbolos de autoridad antigua (Egipto, Roma) para legitimar el poder actual como heredero de una tradición eterna e incuestionable.
-2.  **Ocultación a Plena Vista**: Poner el secreto en la plaza pública. El obelisco es el monumento más común del mundo occidental, pero el 99% de la población desconoce su origen como símbolo de culto solar egipcio y representación del falo regenerativo de Baal/Osiris.
+1. **Resonancia Subconsciente**: Saturar el campo visual con símbolos de autoridad antigua (Egipto, Roma) para legitimar el poder actual como heredero de una tradición eterna e incuestionable.
+2. **Ocultación a Plena Vista**: Poner el secreto en la plaza pública. El obelisco es el monumento más común del mundo occidental, pero el 99% de la población desconoce su origen como símbolo de culto solar egipcio y representación del falo regenerativo de Baal/Osiris.
 
 ## Conexiones Críticas
+
 - [[Obeliscos de Poder]]: La red global de agujas de piedra (Vaticano, Londres, DC).
 - [[Escuadra y Compás]]: La firma visual de la logia.
 - [[Norman Foster]]: El arquitecto de la corte globalista.
@@ -34,18 +38,11 @@ publish: true
 - [[Washington D.C. (Simbología)]]: El pasado fundacional.
 
 ## Conclusión Del Análisis
+
 Los monumentos masónicos son la firma del dueño en el edificio de la civilización. Nos recuerdan que, aunque votemos presidentes demócratas, vivimos en ciudades diseñadas por y para magos tecnócratas que operan con una lógica simbólica anterior al cristianismo y a la democracia moderna.
 
 ---
+
 **Versión:** 2.0
 **Enfoque:** Washington D.C. y Astana como ejemplos clave, función de los obeliscos y geometría sagrada, y el rol de arquitectos modernos en la perpetuación de simbología ocultista.
 **Estado:** Refactoreado a TL V.2 - Framework de Simbología de Poder.
-
-
-
-
-
-
-
-
-

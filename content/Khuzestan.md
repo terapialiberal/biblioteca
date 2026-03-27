@@ -13,7 +13,6 @@ tags:
   - imec
 ---
 
-
 # Khuzestán — El Activo Energético Post-Conflicto Más Valioso del Tablero
 
 > [!IMPORTANT] ACTIVO TIER A
@@ -49,6 +48,7 @@ Provincia ubicada al suroeste de Irán, frontera con Iraq. Es:
 El patrón documentado en los documentos de planificación estratégica americana consiste en usar identidades subsecuentes (kurdos, baluchistanís, azeríes, árabes ahvazis) como vectores de desestabilización interna en Irán. Ver: [[Sucesion en Iran 2026]].
 
 Los árabes de Khuzestán tienen:
+
 - Organizaciones de diáspora activas en Europa (especialmente en Dinamarca y Suecia)
 - Partidos políticos en exilio que reclaman autonomía o independencia
 - Historia de represión bajo el régimen islámico (2005, 2011, 2021: protestas masivas)
@@ -61,8 +61,8 @@ En el escenario de conflicto activo (2026), la provincia es el punto más vulner
 
 | Escenario | Probabilidad | Consecuencia para Khuzestán |
 |-----------|-------------|----------------------------|
-| Cambio de régimen total | 15% | Concesiones de extracción bajo nuevo gobierno; modelo Irak 2003 | 
-| Irán fragmentado (balcanización) | 10% | Khuzestán como estado árabe autónomo; concesiones libres | 
+| Cambio de régimen total | 15% | Concesiones de extracción bajo nuevo gobierno; modelo Irak 2003 |
+| Irán fragmentado (balcanización) | 10% | Khuzestán como estado árabe autónomo; concesiones libres |
 | Régimen Mojtaba debilitado + negociación | 40% | Acceso parcial de empresas occidentales bajo sanciones reducidas |
 | Statu quo con IRGC reforzado | 35% | Khuzestán permanece cerrado; China como único comprador |
 
@@ -80,4 +80,4 @@ En el escenario de conflicto activo (2026), la provincia es el punto más vulner
 
 **Gradiente:** ✅ Datos geológicos y étnicos documentados / 🔶 Khuzestán como activo intencional de planificación post-conflicto / ⚠️ Concesiones específicas en escenario de cambio de régimen
 
-*TL-INTEL v12.0 | 2026-03-12*
+_TL-INTEL v12.0 | 2026-03-12_

@@ -15,7 +15,6 @@ tags:
   - costly-signal
 ---
 
-
 # Genie Energy — El Board que No Necesita Explicación
 
 > [!IMPORTANT] COSTLY SIGNAL MÁXIMO
@@ -59,6 +58,7 @@ La presencia simultánea de Rothschild + Steinhardt (Mega Group) + Cheney en el 
 ## 💰 Cui Bono
 
 La concesión en el Golán conecta directamente:
+
 - La agenda de expansión territorial de Netanyahu ([[Jared Kushner]])
 - La red Mega Group (Steinhardt, Rothschild)
 - El aparato de política exterior republicano (Cheney, Richardson)
@@ -80,4 +80,4 @@ No es lobby de una empresa energética. Es la estructura de intereses que hace q
 
 **Gradiente:** ✅ Composición del board documentada (SEC EDGAR, reportes públicos) / ✅ Concesión en Golán documentada / ✅ Reconocimiento soberanía Trump 2019 documentado / 🔶 Board como expresión intencional de la red vs. confluencia de intereses
 
-*TL-INTEL v12.0 | 2026-03-12*
+_TL-INTEL v12.0 | 2026-03-12_

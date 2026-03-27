@@ -14,7 +14,6 @@ tags:
   - eqt
 ---
 
-
 # AES Corp — La Adquisición que el Mainstream No Cubrió
 
 > [!CAUTION] COSTLY SIGNAL MÁXIMO — TIMING
@@ -27,6 +26,7 @@ tags:
 **AES Corporation** es una de las mayores empresas de infraestructura energética de EEUU. Opera plantas de generación eléctrica, redes de distribución y proyectos de energía renovable en **15 países**. NYSE: AES. Revenue anual: ~$13B.
 
 El deal:
+
 - **Compradores:** [[BlackRock]] Global Infrastructure Partners (GIP) + [[EQT]] (PE sueco)
 - **Precio:** $15 en efectivo por acción → totaliza **$33.4B** (equity $10.7B + deuda asumida)
 - **Forma:** Financiado 100% con equity propio — sin deuda de adquisición. Señal de máxima confianza en la tesis
@@ -51,6 +51,7 @@ El deal:
 ## 💰 Cui Bono
 
 [[BlackRock]] captura infraestructura energética americana en el **momento exacto** en que el 20% del comercio energético mundial queda interrumpido. La lógica:
+
 1. Ormuz cerrado → petróleo escaso → precio energía sube → AES Corp vale más
 2. A largo plazo → Irán post-régimen → contratos de reconstrucción energética → AES tiene presencia en Medio Oriente
 
@@ -61,11 +62,13 @@ El deal:
 ## 🔍 Señales de Fortalecimiento / Debilitamiento
 
 **Confirmaría la tesis:**
+
 - Posiciones Vanguard/State Street en AES desde julio 2025 (antes del anuncio)
 - Movimientos inusuales en opciones/futuros de utilities previos al 28 Feb
 - AES tiene contratos pre-existentes en Medio Oriente que se activan post-conflicto
 
 **Debilitaría la tesis:**
+
 - Aprobación regulatoria FERC forzó el timing independientemente del conflicto
 - Las negociaciones desde julio 2025 son puramente comerciales sin análisis geopolítico de por medio
 
@@ -83,4 +86,4 @@ El deal:
 
 **Gradiente:** ✅ Adquisición documentada (Reuters, SEC) / ✅ Timing strikes-anuncio documentado / ✅ Negociaciones desde julio 2025 documentadas / 🔶 Timing como señal intencional vs. coincidencia regulatoria / ⚠️ Conexión directa con operación militar
 
-*TL-INTEL v12.0 | 2026-03-12*
+_TL-INTEL v12.0 | 2026-03-12_

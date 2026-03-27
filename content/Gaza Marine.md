@@ -14,7 +14,6 @@ tags:
   - 7-octubre
 ---
 
-
 # Gaza Marine — El Campo de Gas que el 7 de Octubre Reconfiguró
 
 > [!IMPORTANT] ACTIVO TIER A
@@ -80,4 +79,4 @@ El ministro israelí de Energía declaró en 2026 que "el gasoducto Israel-Europ
 
 **Gradiente:** ✅ Timing del acuerdo PA y del ataque documentado / ✅ Licencias offshore durante guerra documentadas / 🔶 Ataque como mecanismo deliberado de reconfiguración de titularidad
 
-*TL-INTEL v12.0 | 2026-03-12*
+_TL-INTEL v12.0 | 2026-03-12_

@@ -16,23 +16,29 @@ publish: true
 ## Análisis De Tiers
 
 ### Tier A (Los Dueños)
+
 - **Incentivo**: El principio de **Divide et Impera** (Divide y Reinarás). El Tier A es el único que mantiene el "Lenguaje Antiguo" (la matemática, el simbolismo, el dinero). El resto de la población está en una "Babel" permanente, discutiendo por definiciones, pronombres y fronteras que el Tier A diseñó para mantenerlos en conflicto.
 
 ### Tier B (Operadores / Ejecutores)
+
 - **Medios y Academia**: Son los "Confundidores de Lenguas". Su función es inventar nuevos términos y categorías de opresión/privilegio cada semana para asegurar que la "Torre" de la unión humana nunca se vuelva a construir.
 
 ### Tier C (El Teatro / Percepción)
+
 - Vive en la burbuja de su propio "idioma" ideológico, creyendo que su grupo es el único que tiene la razón, sin ver que su vecino de Tier C tiene el mismo enemigo en los niveles superiores.
 
 ## Conexiones Críticas
+
 - [[Ingeniería Social]]: La herramienta para crear nuevas "lenguas" de conflicto.
 - [[Identidad Digital]]: La nueva forma de encasillar a los individuos en "compartimentos" de Babel.
 - [[El Parlamento Europeo]]: Cuya arquitectura imita deliberadamente la torre de Babel inconclusa (un "brag" de Tier A).
 
 ## Cui Bono
+
 ¿Quién gana? Los **Unificadores desde la Sombra**. La fragmentación de Babel asegura que el Tier A sea el único árbitro capaz de "traducir" y gestionar el caos que ellos mismos mantienen activo.
 
 ---
+
 **Versión:** 1.0
 **Enfoque:** División lingüística y social como método de parálisis colectiva.
 **Estado:** 2026-02-25 | Informe Activo

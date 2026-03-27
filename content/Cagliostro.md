@@ -16,15 +16,19 @@ publish: true
 ## Análisis Forense
 
 ### 1. El Rito Egipcio Como Cobertura
+
 - Cagliostro fundó la masonería de rito egipcio. Forensemente, esto fue una herramienta de **Profiling de Élites**. Al atraer a la aristocracia a sus rituales, accedía a sus secretos, debilidades y deudas, convirtiéndose en un nodo central de información.
 
 ### 2. El Affaire Del Collar De La Reina
+
 - Su implicación en el escándalo que destruyó el prestigio de María Antonieta no fue accidental. Fue una **PsyOp de Desprestigio** perfectamente ejecutada para alienar al Tier C (el pueblo) de la monarquía, preparando el terreno para la Revolución Francesa.
 
 ## Cui Bono
+
 **El Nuevo Orden Secular**. Cagliostro fue un catalizador necesario para que el poder pasara de la sangre noble a la **Sangre del Dinero**. Fue descartado (murió en prisión) una vez que su función de demolición terminó.
 
 ---
+
 **Versión:** 2.0 (Deepened)
 **Enfoque:** El místico como agente provocador y espía de la red masónica.
 **Estado:** 2026-02-25 | Informe Activo

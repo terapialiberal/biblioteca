@@ -16,24 +16,30 @@ publish: true
 ## Análisis De Tiers
 
 ### Tier A (Los Dueños)
+
 - **Incentivo**: Homeostasis y Predicción. Al entender la **Ley del Ritmo**, el Tier A sabe cuándo una tendencia social va a colapsar y se posiciona para la "reacción" antes de que el Tier C la perciba. Utilizan la **Ley de Mentalismo** para crear la "Realidad Percibida" que luego se manifiesta en el plano material (economía).
 - **Control de Polaridad**: Mantienen a la población enfrentada en polos opuestos (Izquierda/Derecha) para gestionar la energía social sin que esta se dirija hacia la estructura de poder real.
 
 ### Tier B (Operadores / Ejecutores)
+
 - **Ingeniería Social**: Usan la **Ley de Causa y Efecto** para diseñar eventos "Causa" (atentados, crisis, pandemias) y cosechar el "Efecto" deseado (leyes restrictivas, deuda, control biométrico).
 
 ### Tier C (El Teatro / Percepción)
+
 - Ven estas leyes como "superstición" o "autoayuda". Esta falta de comprensión técnica los convierte en sujetos pasivos de la aplicación de estas mismas leyes por parte de los niveles superiores.
 
 ## Conexiones Críticas
+
 - [[Hermetismo]]: La raíz milenaria del conocimiento.
 - [[Ingeniería Social]]: La aplicación técnica del Kybalión en el Tier B.
 - [[Ciclos Económicos]]: Manifestación de la Ley del Ritmo.
 
 ## Cui Bono
+
 ¿Quién gana? Los **Arquitectos del Sistema**. Entender las leyes herméticas permite al Tier A operar en armonía con la naturaleza de la mente humana, asegurando que el control sea percibido como "inevitable" o "natural".
 
 ---
+
 **Versión:** 1.0
 **Enfoque:** Leyes universales como algoritmos de control social.
 **Estado:** 2026-02-25 | Informe Activo

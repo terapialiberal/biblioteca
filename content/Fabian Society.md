@@ -7,9 +7,11 @@ nivel-evidencia: "medio"
 tags: [escuela, fabian, society, tavistock]
 publish: true
 ---
+
 # Fabian Society
 
 ## Perfil TL (Resumen Ejecutivo)
+
 **¿Qué es?** Una organización socialista británica cuyo propósito es avanzar en los principios del socialismo de manera gradualista y reformista en lugar de revolucionaria.
 
 **¿Por qué importa?** La Sociedad Fabiana es el **cerebro de la ingeniería social de Tier A para el control estatal de Occidente**. Su escudo original, un **lobo con piel de cordero**, es la confesión más clara de su metodología: infiltrar las instituciones (educación, medios, gobierno) para transformar la sociedad hacia el colectivismo sin que la población lo perciba como una agresión. A diferencia del marxismo violento, los fabianos creen en la "permeación". Son los arquitectos del Estado de Bienestar moderno, de la London School of Economics (LSE) y del Partido Laborista británico. Su objetivo final es un gobierno mundial tecnocrático donde una élite intelectual (Tier A) gestione todos los recursos y la vida de los ciudadanos de Tier C, bajo una apariencia de "justicia social" y democracia parlamentaria.
@@ -17,23 +19,28 @@ publish: true
 ## Análisis De Poder (Tiers)
 
 ### Tier A (Los Planificadores Globales)
-*   **Gradualismo Táctico:** El Tier A utiliza el fabianismo para mover la ventana de Overton lentamente hacia el estatismo. Entienden que la gente rechaza el cambio radical, pero acepta pequeños ajustes burocráticos constantes que terminan en la pérdida total de la libertad individual a lo largo de décadas.
-*   **Conexión LSE:** La London School of Economics fue fundada por miembros de la sociedad (Sidney y Beatrice Webb) para formar a la "clase administrativa" global. Es la fábrica de los tecnócratas de Tier B que hoy dirigen el FMI, el Banco Mundial y los bancos centrales.
+
+- **Gradualismo Táctico:** El Tier A utiliza el fabianismo para mover la ventana de Overton lentamente hacia el estatismo. Entienden que la gente rechaza el cambio radical, pero acepta pequeños ajustes burocráticos constantes que terminan en la pérdida total de la libertad individual a lo largo de décadas.
+- **Conexión LSE:** La London School of Economics fue fundada por miembros de la sociedad (Sidney y Beatrice Webb) para formar a la "clase administrativa" global. Es la fábrica de los tecnócratas de Tier B que hoy dirigen el FMI, el Banco Mundial y los bancos centrales.
 
 ### Tier B (Operadores / Políticos Y Académicos)
-*   **Infiltración Partidaria:** Los fabianos operan dentro de casi todos los partidos socialdemócratas y liberales de Occidente. Su papel es redactar políticas de regulación asfixiante y centralización del poder que parecen "progresistas" pero que en realidad consolidan el control de la élite corporativa y estatal.
-*   **H.G. Wells y George Bernard Shaw:** Intelectuales fabianos que diseñaron la narrativa de la "Nueva Religión de la Humanidad", promoviendo abiertamente el control poblacional y la eugenesia como herramientas de gestión social para los "sabios".
+
+- **Infiltración Partidaria:** Los fabianos operan dentro de casi todos los partidos socialdemócratas y liberales de Occidente. Su papel es redactar políticas de regulación asfixiante y centralización del poder que parecen "progresistas" pero que en realidad consolidan el control de la élite corporativa y estatal.
+- **H.G. Wells y George Bernard Shaw:** Intelectuales fabianos que diseñaron la narrativa de la "Nueva Religión de la Humanidad", promoviendo abiertamente el control poblacional y la eugenesia como herramientas de gestión social para los "sabios".
 
 ### Tier C (Narrativa Pública)
-*   "Haciendo que la sociedad sea más justa paso a paso". "Políticas basadas en evidencia". Narrativas de benevolencia que ocultan una profunda desconfianza hacia la capacidad de autogobierno de las personas comunes.
+
+- "Haciendo que la sociedad sea más justa paso a paso". "Políticas basadas en evidencia". Narrativas de benevolencia que ocultan una profunda desconfianza hacia la capacidad de autogobierno de las personas comunes.
 
 ## Conexiones Clave
+
 - [[Escuela de Frankfurt]] (Su contraparte cultural posterior)
 - [[Tavistock Institute]] (La aplicación psicológica de sus ideas)
 - [[WEF / Gran Reinicio]] (La evolución moderna del ideal fabiano)
 - [[London School of Economics (LSE)]] (Su centro de entrenamiento)
 
 ## Fuentes
+
 - Edward R. Pease: "The History of the Fabian Society".
 - H.G. Wells: "The Open Conspiracy" (El manifiesto fabiano para un gobierno mundial).
 - Archivos de la London School of Economics sobre los fundadores Webb.

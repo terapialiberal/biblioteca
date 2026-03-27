@@ -7,6 +7,7 @@ nivel-evidencia: "medio"
 tags: [cronol, gico, gran, tiempo]
 publish: true
 ---
+
 # ?? MOC  CRONOLGICO (El Gran Juego En El Tiempo)
 
 > **Axioma metodolgico**: Los eventos no ocurren en aislamiento.
@@ -15,10 +16,9 @@ publish: true
 
 ## ?? LNEAS DE TIEMPO PRINCIPALES
 
-- [[Linea de Tiempo - 1940s-1960s\|Lnea de Tiempo - 1940s-1960s]]  El orden de posguerra: Bretton Woods, CIA, Israel, Guerra Fra
-- [[Linea de Tiempo - 1980s-2000s\|Lnea de Tiempo - 1980s-2000s]]  Reaganomics, Wall Street, fin de la URSS, 9/11
-- [[Linea de Tiempo - 2010s-2020s\|Lnea de Tiempo - 2010s-2020s]]  Redes sociales, primaveras rabes, COVID, CBDC
-
+- [[Linea de Tiempo - 1940s-1960s|Lnea de Tiempo - 1940s-1960s]]  El orden de posguerra: Bretton Woods, CIA, Israel, Guerra Fra
+- [[Linea de Tiempo - 1980s-2000s|Lnea de Tiempo - 1980s-2000s]]  Reaganomics, Wall Street, fin de la URSS, 9/11
+- [[Linea de Tiempo - 2010s-2020s|Lnea de Tiempo - 2010s-2020s]]  Redes sociales, primaveras rabes, COVID, CBDC
 
 ## ?? SIGLO XIX  Las Bases Del Sistema Moderno
 
@@ -29,7 +29,6 @@ publish: true
 | 1844 | [[Guerras del Opio (El origen del narcotrfico estatal)]] | HSBC y el modelo del narcoestado |
 | 1871 | [[La Corporacin de EEUU (Acta de 1871)]] | La hiptesis del EEUU corporativo |
 | 1898 | [[USS Maine]] | El primer false flag documentado de EEUU |
-
 
 ## ?? PRIMERA MITAD SIGLO XX  Construccin Del Imperio
 
@@ -48,7 +47,6 @@ publish: true
 | 1945 | [[Operacion Paperclip\|Operacin Paperclip]] | Los nazis reciclados en el aparato americano |
 | 1947 | [[Creacion de la CIA\|Creacin de la CIA]] | El brazo ejecutor del nuevo orden |
 | 1948 | [[Creacion de Israel\|Creacin de Israel]] | Declaracin Balfour ejecutada |
-
 
 ## ?? GUERRA FRA  El Teatro Binario
 
@@ -70,7 +68,6 @@ publish: true
 | 1979 | [[Caida del Shah\|Cada del Shah]] / [[Revolucion Irani\|Revolución Iran]] | Carter traiciona al Shah |
 | 1979 | [[MKUltra]] (revelacin FOIA) | El programa de control mental expuesto |
 
-
 ## ?? FIN DE SIGLO  El Orden Unipolar
 
 | Ao | Evento | Significado TL |
@@ -87,7 +84,6 @@ publish: true
 | 1998 | [[Long-Term Capital Management (LTCM)]] | El primer ensayo del "too big to fail" |
 | 1999 | [[Derogacion de Glass-Steagall\|Derogacin de Glass-Steagall]] | La puerta abierta a la crisis de 2008 |
 
-
 ## ?? SIGLO XXI  El Gran Juego Acelerado
 
 | Ao | Evento | Significado TL |
@@ -96,7 +92,7 @@ publish: true
 | 2001 | [[Anthrax Attacks 2001]] / [[Ataques con Antrax de 2001\|Ataques con ntrax de 2001]] | El segundo acto del 9/11 |
 | 2003 | [[Invasion de Irak 2003\|Invasin de Irak 2003]] | La mentira de las WMD |
 | 2008 | [[Crisis Financiera 2008]] | El mayor rescate de Tier A en la historia |
-| 2009 | [[La Cada de Tucker Carlson (Fox)]] | *[verificar ao]* |
+| 2009 | [[La Cada de Tucker Carlson (Fox)]] | _\[verificar ao]_ |
 | 2010 | [[WikiLeaks Cables]] | El primer gran OSINT masivo |
 | 2011 | [[Primaveras Arabes\|Primaveras rabes]] | NED + redes sociales como armas |
 | 2011 | [[Derrocamiento de Gaddafi]] | El oro libio y el SWIFT |
@@ -115,7 +111,6 @@ publish: true
 | 2024 | [[Eleccion de Trump 2024\|Eleccin de Trump 2024]] | El establishment contra s mismo |
 | 2025 | [[Stargate Project]] | \500B en IA: el Gran Juego tecnolgico |
 
-
 ## ???? ARGENTINA  Timeline Del Poder Local
 
 | Ao | Evento |
@@ -130,22 +125,13 @@ publish: true
 | 2023 | [[Eleccion de Milei\|Eleccin de Milei]] |
 | 2024 | [[Pacto de Mayo]] / [[00_Glosario - Conceptos Fase 1#RIGI\|RIGI]] |
 
-
 ## ?? NODOS RELACIONADOS
-- [[Linea de Tiempo - 1940s-1960s\|Lnea de Tiempo - 1940s-1960s]] | [[Linea de Tiempo - 1980s-2000s\|Lnea de Tiempo - 1980s-2000s]] | [[Linea de Tiempo - 2010s-2020s\|Lnea de Tiempo - 2010s-2020s]]
-- [[00_MOC - Operaciones Encubiertas\|MOC - Operaciones Encubiertas]]  Los eventos con participacin de inteligencia
-- [[00_MOC - Control Financiero\|MOC - Control Financiero]]  Las crisis financieras como herramienta
-- [[99_AI/05_Memoria_Central/Entity_Graph]]  Quin aparece en mltiples eventos
+
+- [[Linea de Tiempo - 1940s-1960s|Lnea de Tiempo - 1940s-1960s]] | [[Linea de Tiempo - 1980s-2000s|Lnea de Tiempo - 1980s-2000s]] | [[Linea de Tiempo - 2010s-2020s|Lnea de Tiempo - 2010s-2020s]]
+- [[00_MOC - Operaciones Encubiertas|MOC - Operaciones Encubiertas]]  Los eventos con participacin de inteligencia
+- [[00_MOC - Control Financiero|MOC - Control Financiero]]  Las crisis financieras como herramienta
+- [[Entity_Graph]]  Quin aparece en mltiples eventos
 
 ---
 
-*MOC creado: 2026-02-24 | Parte del [[INDEX_MAESTRO]]*
-
-
-
-
-
-
-
-
-
+_MOC creado: 2026-02-24 | Parte del [[INDEX_MAESTRO]]_

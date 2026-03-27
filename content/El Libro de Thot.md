@@ -16,23 +16,29 @@ publish: true
 ## Análisis De Tiers
 
 ### Tier A (Los Dueños)
+
 - **Incentivo**: La **Navegación del Destino Colectivo**. El Tier A utiliza el conocimiento del Libro de Thot para identificar en qué "Fase Arquetípica" está la sociedad (La Torre, El Colgado, La Muerte). Sincronizan sus decretos con la energía del arquetipo activo para que la resistencia del Tier C sea nula.
 
 ### Tier B (Operadores / Ejecutores)
+
 - **Simbólogos y Diseñadores de Narrativas**: Utilizan las imágenes del Tarot (el consultante, el sabio, el loco) para crear personajes públicos que encadenen la atención y la devoción del Tier C de forma automática.
 
 ### Tier C (El Teatro / Percepción)
+
 - "Un juego de cartas para adivinar el futuro". El Tier C utiliza el Tarot como una curiosidad o herramienta de autoayuda, sin percibir que está interactuando con las mismas **Palancas de Mando** que el sistema usa sobre él a gran escala.
 
 ## Conexiones Críticas
+
 - [[Hermetismo de Praga]]: Centro histórico de estudio de estos símbolos.
 - [[Alistair Crowley]]: Quien re-versionó el Libro de Thot para el Tier B moderno.
 - [[Arquetipos de Poder]]: La traducción psicológica de las láminas de Thot.
 
 ## Cui Bono
+
 ¿Quién gana? Los **Grandes Navegantes**. El Libro de Thot asegura que, pase lo que pase, el Tier A siempre tenga una carta guardada en la manga, conociendo de antemano el guion simbólico de la experiencia humana.
 
 ---
+
 **Versión:** 1.0
 **Enfoque:** Simbolismo operativo y gestión de la sincronicidad.
 **Estado:** 2026-02-25 | Informe Activo

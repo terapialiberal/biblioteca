@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:02.831-03:00
-modified: 2026-02-27T08:35:24.133-03:00
+modified: 2026-02-27T08:35:14.206-03:00
 tags:
   - adam
   - back
@@ -16,26 +16,25 @@ tags:
 > **Importancia:** Possible candidato a set Satoshi o parte del grupo.
 
 ## Biografía
+
 Adam Back es criptógrafo británico que inventó Hashcash (1997) - el sistema de proof-of-work citado por Satoshi.
 
 Es CEO de Blockstream, empresa de desarrollo de Bitcoin.
 
 ## Es Satoshi?
+
 - Su trabajo es citado en el whitepaper
 - Tiene las habilidades técnicas
 - Estuvo en las comunidades correctas
 - Niega serlo
 
 ## Conexiones
+
 - [[Satoshi Nakamoto]] (citado por)
 - Cypherpunks
 - [[Blockstream]]
 
 ## Fuentes
+
 - Hashcash paper
 - Entrevistas
-
-
-
-
-

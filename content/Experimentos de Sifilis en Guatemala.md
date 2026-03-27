@@ -7,9 +7,11 @@ nivel-evidencia: "medio"
 tags: [experimentos, guatemala, hillary, sfilis]
 publish: true
 ---
+
 # Experimentos De Sífilis En Guatemala
 
 ## Resumen Ejecutivo
+
 **¿Qué fue?** Médicos del gobierno de EEUU (dirigidos por John Charles Cutler) infectaron intencionalmente a 1,300 guatemaltecos (soldados, prostitutas, prisioneros, pacientes mentales) con sífilis y gonorrea.
 A diferencia de Tuskegee (donde solo "observaron"), aquí **inyectaron la enfermedad activamente** (incluso en los ojos de los pacientes) para probar la eficacia de la penicilina como profiláctico tras la exposición.
 
@@ -20,25 +22,25 @@ John C. Cutler también participó en Tuskegee y luego en experimentos de inocul
 ## Análisis (Tiers)
 
 ### Tier A (Bioética Imperial)
+
 - **Externalización de Riesgos:** Las leyes en EEUU se estaban endureciendo (juicios de Nuremberg), así que movieron los experimentos más atroces al extranjero ("offshoring"). Es el mismo patrón que los laboratorios biológicos en Ucrania hoy.
 
 ### Tier B (Operativa)
-- **NIH:** Financiado por el Instituto Nacional de Salud. La ciencia official *es* esto.
+
+- **NIH:** Financiado por el Instituto Nacional de Salud. La ciencia official _es_ esto.
 - **Silencio:** Los archivos estuvieron ocultos en la Universidad de Pittsburgh durante 60 años.
 
 ### Tier C (Narrativa)
+
 - "Un capítulo oscuro y olvidado"
 
 ## Conexiones
+
 - [[Experimento Tuskegee]]
 - [[Hillary Clinton]] (gestión de daños)
 - [[Biolabs en Ucrania]] (continuación moderna)
 
 ## Fuentes
+
 - "Normal Exposure" (informe de la historiadora Susan Reverby).
 - Disculpa official de la Casa Blanca (2010).
-
-
-
-
-

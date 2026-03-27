@@ -12,7 +12,6 @@ tags:
   - sionismo-religioso
 ---
 
-
 # Itamar Ben Gvir — El Acelerador con Cargo Ministerial
 
 > [!CAUTION] MODELO E-3: ACELERADOR ACTIVO
@@ -41,6 +40,7 @@ Esto es el **primer caso documentado** en el tablero actual de un **Acelerador (
 ## 🧩 Por Qué el Modelo E-3 Importa
 
 Ben Gvir no puede ser:
+
 - **Sobornado**: la recompensa transcendente domina cualquier pago
 - **Amenazado políticamente**: la coalición Netanyahu lo necesita para gobernar; Netanyahu no puede removerlo sin colapsar el gobierno
 - **Disuadido por las consecuencias**: el costo presente — incluyendo un conflicto civilizatorio — es irrelevante ante la recompensa infinita de la redención
@@ -61,4 +61,4 @@ El peligro sistémico no es que Tier B lo ordene. Es que Ben Gvir actúe **por e
 
 **Gradiente:** ✅ Subida al Monte 3 enero 2023 documentada / ✅ Falta de autorización Netanyahu documentada / ✅ Modelo escatológico documentado en declaraciones / 🔶 Probabilidad de acción mayor no autorizada en horizonte 2-5 años
 
-*TL-INTEL v12.0 | 2026-03-12*
+_TL-INTEL v12.0 | 2026-03-12_

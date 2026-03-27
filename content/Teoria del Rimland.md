@@ -7,17 +7,19 @@ nivel-evidencia: "medio"
 tags: [nato, rimland, teora]
 publish: true
 ---
+
 # Teoría Del Rimland
 
 ## Resumen Ejecutivo
+
 **¿Qué es?** La respuesta de Nicholas Spykman a Mackinder.
 Spykman argumentó que el Heartland (Rusia) es demasiado frío, estático y difícil de desarrollar.
 El verdadero poder está en el **Rimland** (Anillo de Tierra): La franja costera de Eurasia (Europa Occidental, Medio Oriented, India, China, Sudeste Asiático).
 Es la zona de contacto entre el poder terrestre y el marítimo.
 
 **La Fórmula Revisada:**
-*"Quien controle el Rimland domina Eurasia.*
-*Quien domine Eurasia controla el destino del mundo."*
+_"Quien controle el Rimland domina Eurasia._
+_Quien domine Eurasia controla el destino del mundo."_
 
 **¿Por qué importa?**
 Es la base de la política de **Contención** de EEUU durante la Guerra Fría y hoy.
@@ -28,22 +30,21 @@ La Guerra de Vietnam, Corea y Afganistán fueron guerras por el control del Riml
 ## Análisis (Tiers)
 
 ### Tier A (El Cerco)
+
 - **OTAN:** La expansión de la OTAN hacia el este es simplemente la conquista del Rimland europeo para empujar la frontera hacia el Heartland.
 - **Indo-Pacífico:** El concepto moderno de "Indo-Pacífico" es el nombre nuevo para el Rimland asiático.
 
 ### Tier C (Narrativa)
+
 - "Alianzas defensivas"
 - "Protección del comercio libre"
 
 ## Conexiones
-- [[00_Glosario - Conceptos Fase 1#Teoría del Heartland (Halford Mackinder)\|Teoría del Heartland (Halford Mackinder)]]
+
+- [[00_Glosario - Conceptos Fase 1#Teoría del Heartland (Halford Mackinder)|Teoría del Heartland (Halford Mackinder)]]
 - [[NATO]]
 - [[Contención]]
 
 ## Fuentes
+
 - "The Geography of the Peace" - Nicholas Spykman.
-
-
-
-
-

@@ -6,15 +6,16 @@ nivel-evidencia: 'medio'
 tags: [clasificado-ai]
 publish: true
 ---
+
 ﻿---
 titulo: Vórtices Energéticos
 tipo: persona
 fecha: 2026-02-25
-tags: [energticos, vrtices]
+tags: \[energticos, vrtices]
 tier-primario: "b"
 nivel-evidencia: "medio"
 publish: true
----
+-------------
 
 # Vórtices Energéticos
 
@@ -22,8 +23,9 @@ publish: true
 > Nodo perteneciente a la Matrix de Simbolismo y Esoterismo TL V.2.
 
 ## Análisis De Tiers
-*En desarrollo...*
+
+_En desarrollo..._
 
 ## Cui Bono
-*Pendiente de análisis forense.*
 
+_Pendiente de análisis forense._

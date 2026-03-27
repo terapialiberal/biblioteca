@@ -7,6 +7,7 @@ nivel-evidencia: "medio"
 tags: [glencore, trafigura]
 publish: true
 ---
+
 # Trafigura
 
 > [!ABSTRACT] Ficha Técnica
@@ -14,25 +15,24 @@ publish: true
 > **Función Real:** Uno de los mayores traders de petróleo del mundo. Escándalos en África.
 
 ## Escándalos
+
 - **Côte d'Ivoire (2006):** Dumping de residuos tóxicos que enfermó a miles
 - Sanciones evasion
 - Trading con regímenes cuestionables
 
 ## Operaciones
+
 - Petróleo y productos refinados
 - Metales
 - Envío
 
 ## Conexiones
+
 - [[Glencore]] (competidor)
 - Mercado de commodities
 - Trading houses suizas
 
 ## Fuentes
+
 - Trafigura settlements
 - "The World for Sale"
-
-
-
-
-

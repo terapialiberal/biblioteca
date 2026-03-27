@@ -7,9 +7,11 @@ nivel-evidencia: "medio"
 tags: [mahan, martimo, poder, thayer]
 publish: true
 ---
+
 # Poder Marítimo (Alfred Thayer Mahan)
 
 ## Resumen Ejecutivo
+
 **¿Qué es?** La tesis presentada en "The Influence of Sea Power upon History" (1890).
 Argumenta que la grandeza nacional depende exclusivamente del comercio marítimo y de una marina de guerra fuerte para protegerlo.
 **Talasocracia:** Imperio del Mar. (Ejemplos: Fenicia, Venecia, Gran Bretaña, EEUU).
@@ -23,20 +25,19 @@ Es la base de la doctrina de la US Navy hoy: "Libertad de Navegación" (que sign
 ## Análisis (Tiers)
 
 ### Tier A (Comercio Es Guerra)
-- **Bloqueo:** Mahan enseñó que el comercio no es pacífico; es la fuente de financiación de la guerra. Cortar el comercio *es* un acto de guerra devastador. Las sanciones económicas modernas son la versión digital del bloqueo naval de Mahan.
+
+- **Bloqueo:** Mahan enseñó que el comercio no es pacífico; es la fuente de financiación de la guerra. Cortar el comercio _es_ un acto de guerra devastador. Las sanciones económicas modernas son la versión digital del bloqueo naval de Mahan.
 
 ### Tier B (Operativa)
+
 - **China:** China entiende a Mahan. Sabe que su economía depende del Estrecho de Malaca (que controla EEUU). Por eso está construyendo una Armada de Aguas Azules masiva: para romper el futuro bloqueo mahaniano.
 
 ## Conexiones
+
 - [[Puntos de Estrangulamiento (Choke Points Marítimos)]]
 - [[Collar de Perlas]]
 - [[Teoría del Rimland (Nicholas Spykman)]]
 
 ## Fuentes
+
 - "The Influence of Sea Power upon History" - A.T. Mahan.
-
-
-
-
-

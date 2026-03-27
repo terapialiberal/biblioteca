@@ -16,24 +16,30 @@ publish: true
 ## Análisis De Tiers
 
 ### Tier A (Los Dueños)
+
 - **Incentivo**: La demolición del prestigio de la Iglesia y las Coronas Absolutas. Los Illuminati no buscaban la "libertad", sino la transferencia del poder de los linajes antiguos a una tecnocracia racionalista de iniciados manejada por el capital emergente.
 
 ### Tier B (Operadores / Ejecutores)
+
 - **Adam Weishaupt**: Ex-jesuita que aplicó la disciplina militar de su antigua orden a una causa secular radical.
 - **Barón von Knigge**: El hombre que permitió la infiltración masiva en las logias masónicas de toda Europa, otorgando a los Illuminati una red de Tier B ya establecida.
 
 ### Tier C (El Teatro / Percepción)
+
 - Un mito conspirativo de internet. El sistema utiliza la exageración (ruido) para que el análisis serio de sus tácticas de infiltración histórica sea descartado como "locura".
 
 ## Conexiones Críticas
+
 - [[Revolución Francesa]]: Infiltración ideológica documentada en los clubes jacobinos.
 - [[Jesuitas]]: La estructura organizativa copiada por Weishaupt.
 - [[Masonería de Rito Escocés]]: El vehículo que los Illuminati intentaron secuestrar para sus fines.
 
 ## Cui Bono
+
 ¿Quién ganó? El **Racionalismo Administrativo**. Los Illuminati sentaron las bases para que el Estado moderno se liberara de la tutela religiosa, permitiendo que el Tier A financiero operara sin las limitaciones morales de la antigua cristiandad.
 
 ---
+
 **Versión:** 1.0
 **Enfoque:** Infiltración celular y cambio de paradigma institucional.
 **Estado:** 2026-02-25 | Informe Activo

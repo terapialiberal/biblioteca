@@ -7,6 +7,7 @@ nivel-evidencia: "medio"
 tags: [carlos, cavallo, domingo, fernando]
 publish: true
 ---
+
 # Domingo Cavallo
 
 > [!INFO] Perfil Operativo (Tier B)
@@ -14,9 +15,11 @@ publish: true
 > **Función Real:** Tecnócrata del FMI que implementó políticas que llevaron al colapso.
 
 ## Biografía
+
 Domingo Cavallo fue Ministro de Economía con Menem (1991-1996) y De la Rúa (2001).
 
 Su obra:
+
 - **Convertibilidad** (1991): fijó peso al dólar
 - Privatizaciones masivas
 - Endeudamiento insostenible
@@ -24,16 +27,13 @@ Su obra:
 Volvió en 2001 para intentar salvar lo insalvable. El sistema colapsó ese año.
 
 ## Conexiones
+
 - [[Carlos Menem]]
 - [[Fernando de la Rúa]]
 - [[FMI]]
 - Harvard (formación)
 
 ## Fuentes
+
 - Historia económica argentina
 - "El peso de la verdad" (memorias)
-
-
-
-
-

@@ -7,9 +7,11 @@ nivel-evidencia: "medio"
 tags: [atlantic, complejo, graphika]
 publish: true
 ---
+
 # Graphika
 
 ## Perfil TL (Resumen Ejecutivo)
+
 **¿Qué es?** Una empresa privada de análisis de redes sociales especializada en identificar y mapear lo que ellos definen como "operaciones de influencia" y "desinformación".
 
 **¿Por qué importa?** Graphika es un nodo crítico del **[[Complejo de Censura Industrial]]**. Actúa como el **operador de Tier B encargado de "marcar los objetivos"**. El proceso es simple: el Pentágono o el Departamento de Estado (Tier B de inteligencia) financia a Graphika para que realice un informe vinculando a un grupo de medios independientes o críticos con una supuesta "red de influencia rusa/china". Una vez publicado el informe, las plataformas de Big Tech (Facebook, Twitter) utilizan los datos de Graphika como excusa para cerrar miles de cuentas y censurar contenidos de Tier C. Graphika proporciona la **capa de respetabilidad técnica** necesaria para que la censura estatal parezca una "moderación de plataforma" basada en datos.
@@ -17,19 +19,23 @@ publish: true
 ## Análisis De Poder (Tiers)
 
 ### Tier A (Los Dueños De La Percepción Digital)
-*   **Privatización del Ministerio de la Verdad:** El Tier A delega en empresas como Graphika la tarea de definir qué discursos son "auténticos" y cuáles son "falsos". Esto permite al Tier A ejercer un control absoluto sobre la narrativa global sin que el Estado aparezca directamente como el censor.
-*   **Guerra de Información:** Graphika es una herramienta ofensiva de Tier A para silenciar a la disidencia interna en Occidente, etiquetando cualquier crítica al sistema como una operación de inteligencia extranjera.
+
+- **Privatización del Ministerio de la Verdad:** El Tier A delega en empresas como Graphika la tarea de definir qué discursos son "auténticos" y cuáles son "falsos". Esto permite al Tier A ejercer un control absoluto sobre la narrativa global sin que el Estado aparezca directamente como el censor.
+- **Guerra de Información:** Graphika es una herramienta ofensiva de Tier A para silenciar a la disidencia interna en Occidente, etiquetando cualquier crítica al sistema como una operación de inteligencia extranjera.
 
 ### Tier B (Operadores / Ben Nimmo Y El Atlantic Council)
-*   **Ben Nimmo:** El operador clave que personifica la "Puerta Giratoria" de la censura. Pasó de ser portavoz de la OTAN al Atlantic Council, luego a Graphika, y finalmente terminó como Director de Inteligencia de Amenazas en Meta (Facebook). Nimmo es el encargado de que las listas negras de la OTAN se conviertan en algoritmos de censura en nuestras redes sociales.
-*   **Financiamiento del Pentágono:** Graphika ha recibido contratos millonarios del Departamento de Defensa (DARPA) para desarrollar las herramientas de mapeo que luego se usan contra periodistas y ciudadanos de Tier C.
+
+- **Ben Nimmo:** El operador clave que personifica la "Puerta Giratoria" de la censura. Pasó de ser portavoz de la OTAN al Atlantic Council, luego a Graphika, y finalmente terminó como Director de Inteligencia de Amenazas en Meta (Facebook). Nimmo es el encargado de que las listas negras de la OTAN se conviertan en algoritmos de censura en nuestras redes sociales.
+- **Financiamiento del Pentágono:** Graphika ha recibido contratos millonarios del Departamento de Defensa (DARPA) para desarrollar las herramientas de mapeo que luego se usan contra periodistas y ciudadanos de Tier C.
 
 ### Tier C (Narrativa Pública)
-*   "Haciendo que Internet sea más segura y transparente". "Luchando contra las noticias falsas de potencias extranjeras". Narrativas que el Tier C consume sin saber que Graphika está diseñada para silenciar al ciudadano común que simplemente cuestiona la política oficial o los intereses de Tier A.
+
+- "Haciendo que Internet sea más segura y transparente". "Luchando contra las noticias falsas de potencias extranjeras". Narrativas que el Tier C consume sin saber que Graphika está diseñada para silenciar al ciudadano común que simplemente cuestiona la política oficial o los intereses de Tier A.
 
 ## Conexiones Clave
+
 - [[Atlantic Council]] (Su nexo ideológico)
-- [[Facebook (Origins)\|Meta]] (Su cliente y destino laboral)
+- [[Facebook (Origins)|Meta]] (Su cliente y destino laboral)
 - [[DARPA]] (Su financista técnico)
 - [[Global Engagement Center (GEC)]] (Su supervisor estatal)
 

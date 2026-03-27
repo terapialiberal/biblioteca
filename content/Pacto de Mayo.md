@@ -7,6 +7,7 @@ nivel-evidencia: "medio"
 tags: [declogo, matrix, mayo, pacto]
 publish: true
 ---
+
 # Pacto De Mayo (TL V.2): El Decálogo Liberal De La Matrix
 
 > [!ABSTRACT] Hipótesis Informativa
@@ -15,17 +16,20 @@ publish: true
 ## Análisis De Tiers
 
 ### Tier B (El Gobierno contra La Inercia De La Casta)
-*   **La Disciplina como Negociación:** Para el Tier B gubernamental, el pacto es una herramienta de **Cooptación y Disciplina**. Milei utilizó la asfixia financiera de las provincias para obligar a los gobernadores a sentarse a la mesa. Los 10 puntos (que incluyen reforma laboral, previsional y tributaria) son el intento de transformar el "Estado de Bienestar" argentino en un "Estado de Vigilancia Fiscal". El Tier B político intenta usar este pacto como un escudo frente a futuros gobiernos, buscando que los pilares liberales se vuelvan irreversibles para el individuo de **[[Tier C]]**.
+
+- **La Disciplina como Negociación:** Para el Tier B gubernamental, el pacto es una herramienta de **Cooptación y Disciplina**. Milei utilizó la asfixia financiera de las provincias para obligar a los gobernadores a sentarse a la mesa. Los 10 puntos (que incluyen reforma laboral, previsional y tributaria) son el intento de transformar el "Estado de Bienestar" argentino en un "Estado de Vigilancia Fiscal". El Tier B político intenta usar este pacto como un escudo frente a futuros gobiernos, buscando que los pilares liberales se vuelvan irreversibles para el individuo de **[[Tier C]]**.
 
 ### Tier C (El Ciudadano Frente a La Refundación)
-*   **La Esperanza contra el Ajuste:** Para el Tier C que votó por un cambio radical, el Pacto de Mayo es la "Luz al final del túnel" legislativa. Sin embargo, para la mayoría de los ciudadanos, el pacto es una abstracción de la élite mientras la economía real sufre el ajuste. El riesgo para el Tier C es que el pacto se convierta en una **Promesa de Papel**: un acuerdo entre cúpulas que no modifique la extracción parasitaria de la política a nivel local (provincias). La soberanía del habitante de Tier C depende de que la "inviolabilidad de la propiedad" se aplique al pequeño propietario y no solo a los grandes capitales amigos del poder.
+
+- **La Esperanza contra el Ajuste:** Para el Tier C que votó por un cambio radical, el Pacto de Mayo es la "Luz al final del túnel" legislativa. Sin embargo, para la mayoría de los ciudadanos, el pacto es una abstracción de la élite mientras la economía real sufre el ajuste. El riesgo para el Tier C es que el pacto se convierta en una **Promesa de Papel**: un acuerdo entre cúpulas que no modifique la extracción parasitaria de la política a nivel local (provincias). La soberanía del habitante de Tier C depende de que la "inviolabilidad de la propiedad" se aplique al pequeño propietario y no solo a los grandes capitales amigos del poder.
 
 ## ¸ Mecanisms De Poder (Simbólicos Y Legales)
 
-1.  **Ritualismo Histórico**: La elección de la Casa de Tucumán como escenario para conectar la imagen de Milei con los próceres de 1816, una técnica de **[[Programación Predictiva]]** histórica para dotar de aura heroica a un ajuste económico.
-2.  **Incentivo por Ley Bases**: Condicionar la firma del pacto a la aprobación de la Ley Bases, utilizando el quid pro quo legislativo para quebrar la resistencia de los bloques opositores.
+1. **Ritualismo Histórico**: La elección de la Casa de Tucumán como escenario para conectar la imagen de Milei con los próceres de 1816, una técnica de **[[Programación Predictiva]]** histórica para dotar de aura heroica a un ajuste económico.
+2. **Incentivo por Ley Bases**: Condicionar la firma del pacto a la aprobación de la Ley Bases, utilizando el quid pro quo legislativo para quebrar la resistencia de los bloques opositores.
 
 ## Conexiones Críticas
+
 - [[Javier Milei]]: El impulsor del pacto.
 - [[Ley Bases]]: El motor jurídico del acuerdo.
 - [[Federalismo Fiscal]]: El punto de conflicto con los gobernadores.
@@ -33,18 +37,11 @@ publish: true
 - [[La Casta]]: Los actores de Tier B que Milei intenta reformatear.
 
 ## Conclusión Del Análisis
+
 El Pacto de Mayo nos enseña que **las ideas no valen nada sin un marco institucional que las proteja**. Es un experimento de ingeniería social que busca cambiar la cultura política argentina mediante un choque normativo. Para el investigador de Tier C, el pacto debe ser monitoreado no por sus palabras, sino por sus resultados: si el gasto público no baja realmente y la propiedad sigue siendo vulnerable a la inflación o al impuesto, el Pacto de Mayo habrá sido simplemente otra función del teatro de la Matrix para renovar la fe en un sistema que cambia de color para no cambiar su naturaleza extractiva.
 
 ---
+
 **Versión:** 2.0
 **Enfoque:** El decálogo de Milei como intento de cambio de paradigma económico, la presión sobre los gobernadores y el simbolismo de la Casa de Tucumán.
 **Estado:** Refactoreado a TL V.2 - Framework de Reforma Institucional.
-
-
-
-
-
-
-
-
-

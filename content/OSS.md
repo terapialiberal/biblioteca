@@ -7,11 +7,13 @@ nivel-evidencia: "medio"
 tags: [allen, estratgicos, oficina, servicios]
 publish: true
 ---
+
 # OSS (Oficina De Servicios Estratégicos)
 
 > **Perfil TL:** El antecesor de la CIA. Donde Wall Street y las élites crearon el servicio de espionaje estadounidense.
 
 ## Resumen Ejecutivo
+
 **¿Qué es?** Office of Strategic Services. Agencia de inteligencia de EEUU durante la Segunda Guerra Mundial (1942-1945). Precursor directo de la [[CIA]].
 
 **¿Por qué importa?** La OSS fue fundada y poblada por abogados de Wall Street, banqueros y aristócratas. Estableció el patrón de que la inteligencia estadounidense sirve a los intereses financieros, no al "pueblo".
@@ -19,16 +21,20 @@ publish: true
 ## Análisis De Poder (Tiers)
 
 ### Tier A (Beneficiarios)
+
 Wall Street, la City de Londres (con quien coordinaron), y las corporaciones estadounidenses.
 
 ### Tier B (Operadores)
+
 - **William Donovan:** Director. Abogado de Wall Street.
 - Staff inicial: socios de Sullivan & Cromwell, banqueros de Morgan, herederos de fortuna.
 
 ## Diseño Británico
+
 La OSS fue diseñada con "considerable ayuda" del [[MI6]] británico. El modelo operativo vino de la inteligencia británica, estableciendo la relación especial EEUU-UK que continúa hoy.
 
 ## Conexiones Clave
+
 - [[CIA]]
 - [[MI6]]
 - [[Allen Dulles]]
@@ -36,6 +42,7 @@ La OSS fue diseñada con "considerable ayuda" del [[MI6]] británico. El modelo 
 - [[Wall Street]]
 
 ## Fuentes
+
 - "The Devil's Chessboard" - David Talbot
 - OSS desclasificados
 

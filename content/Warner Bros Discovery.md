@@ -7,6 +7,7 @@ nivel-evidencia: "medio"
 tags: [bros, david, discovery, warner]
 publish: true
 ---
+
 # Warner Bros Discovery
 
 > [!ABSTRACT] Ficha Técnica
@@ -14,6 +15,7 @@ publish: true
 > **Función Real:** Emporio de medios en crisis intentando sobrevivir era streaming.
 
 ## Propiedades
+
 - **CNN** - Noticias 24/7
 - **HBO** / Max - Streaming premium
 - **Warner Bros** - Estudios de cine
@@ -21,20 +23,18 @@ publish: true
 - **Discovery Channel**, Animal Planet, etc.
 
 ## Âš ï¸ Crisis
+
 La fusión creó montañas de deuda. Despidos masivos, cancelaciones de películas.
 
 CNN intentando set menos partidista (fracasando).
 
 ## Conexiones
+
 - [[David Zaslav]] (CEO)
-- AT&T (vendió WarnerMedia)
+- AT\&T (vendió WarnerMedia)
 - Discovery (John Malone)
 
 ## Fuentes
+
 - SEC filings
 - Industry coverage
-
-
-
-
-

@@ -7,6 +7,7 @@ nivel-evidencia: "medio"
 tags: [ludwig, lgica, praxeologa, soberana]
 publish: true
 ---
+
 # Praxeología (TL V.2): La Lógica De La Soberanía Humana
 
 > [!ABSTRACT] Hipótesis Informativa
@@ -15,17 +16,20 @@ publish: true
 ## Análisis De Tiers
 
 ### Tier C (El Actor Como Centro Del Universo)
-*   **El Axioma de la Acción:** El hecho de que "el hombre actúa" es una verdad a priori que no puede ser negada sin contradicción. Para el Tier C, la Praxeología es el reconocimiento de su propia **Dignidad Ontológica**. Actuar implica elegir entre medios escasos para alcanzar fines subjetivos; por lo tanto, cualquier intento externo de "modelar" la sociedad es una violación de la naturaleza humana. La Praxeología empodera al individuo al demostrar que el valor no es intrínseco a las cosas, sino un juicio mental del actor, recuperando el control sobre sus propios fines.
+
+- **El Axioma de la Acción:** El hecho de que "el hombre actúa" es una verdad a priori que no puede ser negada sin contradicción. Para el Tier C, la Praxeología es el reconocimiento de su propia **Dignidad Ontológica**. Actuar implica elegir entre medios escasos para alcanzar fines subjetivos; por lo tanto, cualquier intento externo de "modelar" la sociedad es una violación de la naturaleza humana. La Praxeología empodera al individuo al demostrar que el valor no es intrínseco a las cosas, sino un juicio mental del actor, recuperando el control sobre sus propios fines.
 
 ### Tier A (El Error Del Cientificismo)
-*   **La Ilusión de la Omnisciencia:** El Tier A económico (Bancos Centrales, FMI) odia la Praxeología porque destruye su legitimidad. Si la acción humana es cualitativa y única, los modelos econométricos de Tier B son simplemente **Astrología de Estado**. El Tier A intenta imponer el Positivismo y el Empirismo para tratar a la población como ganado predecible. La Praxeología desenmascara al "experto" como un impostor que ignora las leyes inmutables de la escasez, la preferencia temporal y el cálculo económico.
+
+- **La Ilusión de la Omnisciencia:** El Tier A económico (Bancos Centrales, FMI) odia la Praxeología porque destruye su legitimidad. Si la acción humana es cualitativa y única, los modelos econométricos de Tier B son simplemente **Astrología de Estado**. El Tier A intenta imponer el Positivismo y el Empirismo para tratar a la población como ganado predecible. La Praxeología desenmascara al "experto" como un impostor que ignora las leyes inmutables de la escasez, la preferencia temporal y el cálculo económico.
 
 ## ¸ Mecanisms De Poder (Intelectuales)
 
-1.  **Deducción Apriorística**: Construir un sistema de pensamiento basado en la lógica pura, blindado contra la manipulación de estadísticas corruptas del Estado.
-2.  **Individualismo Metodológico**: Analizar la sociedad como el resultado de acciones individuales, desmantelando las narrativas colectivistas ("la nación quiere", "el pueblo exige") que el Tier A usa para ocultar sus intereses particulares.
+1. **Deducción Apriorística**: Construir un sistema de pensamiento basado en la lógica pura, blindado contra la manipulación de estadísticas corruptas del Estado.
+2. **Individualismo Metodológico**: Analizar la sociedad como el resultado de acciones individuales, desmantelando las narrativas colectivistas ("la nación quiere", "el pueblo exige") que el Tier A usa para ocultar sus intereses particulares.
 
 ## Conexiones Críticas
+
 - [[Ludwig von Mises]]: El arquitecto moderno de la praxeología.
 - [[Escuela Austríaca]]: El marco económico basado en esta metodología.
 - [[Orden Espontáneo]]: El resultado social de la acción humana libre.
@@ -33,18 +37,11 @@ publish: true
 - [[Preferencia Temporal]]: La base praxeológica del interés y el capital.
 
 ## Conclusión Del Análisis
+
 La Praxeología es la ciencia de la libertad. Nos enseña que la Matrix no puede predecir nuestra voluntad si nos mantenemos como actores conscientes. Mientras los ingenieros sociales intentan programar nuestras reacciones, la Praxeología nos recuerda que somos seres con propósito, capaces de romper cualquier algoritmo mediante la elección libre y responsable. Entender la acción humana es el primer paso para dejar de ser un recurso gestionado y empezar a ser el soberano de nuestra propia existencia.
 
 ---
+
 **Versión:** 2.0
 **Enfoque:** Deducción lógica vs. empirismo estatal, el individuo como actor con propósito y la invalidación de la planificación tecnocrática.
 **Estado:** Refactoreado a TL V.2 - Framework de Soberanía Metodológica.
-
-
-
-
-
-
-
-
-

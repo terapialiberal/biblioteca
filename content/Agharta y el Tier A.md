@@ -16,23 +16,29 @@ publish: true
 ## Análisis De Tiers
 
 ### Tier A (Los Dueños)
+
 - **Incentivo**: La **Inmunidad al Cataclismo**. Para el Tier A, la idea de Agharta (o los modernos búnkeres de alta tecnología en Nueva Zelanda o la Antártida) es su seguro de vida. Ellos no temen el colapso del Tier C porque ya tienen preparada su "tierra interna" (su red paralela de recursos y tecnología superior) que no depende del sistema público.
 
 ### Tier B (Operadores / Ejecutores)
+
 - **Ingenieros de Bases Subterráneas Profundas (DUMBs)**: Construyen la infraestructura que valida el mito de Agharta en el plano material. Su función es asegurar que el Tier A pueda seguir operando sin ser detectado desde la superficie.
 
 ### Tier C (El Teatro / Percepción)
+
 - "Fantasías de la Tierra Hueca o leyendas imposibles". El Tier C consume Agharta como entretenimiento literario, ignorando la realidad logística de las instalaciones subterráneas masivas financiadas por presupuestos negros durante décadas.
 
 ## Conexiones Críticas
+
 - [[Misterios de la Antártida]]: El punto de acceso más probable a la red de continuidad de Tier A.
 - [[Operación Highjump]]: La expedición militar post-GMII que buscaba estos "reinos de continuidad".
 - [[Tartaria y el Reset Energético]]: El conocimiento que se preserva "bajo tierra" mientras en la superficie se impone la escasez.
 
 ## Cui Bono
+
 ¿Quién gana? Los **Herederos del Mundo**. Agharta asegura que, no importa cuán destructivo sea el reseteo en la superficie, el Tier A siempre mantenga un hilo de continuidad intacto, permitiéndoles reemerger como "dioses" ante los supervivientes traumatizados.
 
 ---
+
 **Versión:** 1.0
 **Enfoque:** Infraestructura de supervivencia de élite y mitología de la continuidad.
 **Estado:** 2026-02-25 | Informe Activo

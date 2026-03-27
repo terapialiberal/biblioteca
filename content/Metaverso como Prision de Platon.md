@@ -6,15 +6,16 @@ nivel-evidencia: 'medio'
 tags: [clasificado-ai]
 publish: true
 ---
+
 ﻿---
 titulo: Metaverso Como Prisión De Platón
 tipo: "concepto"
 fecha: 2026-02-25
-tags: [metaverso, platn, prisin]
+tags: \[metaverso, platn, prisin]
 tier-primario: "b"
 nivel-evidencia: "medio"
 publish: true
----
+-------------
 
 # Metaverso Como Prisión De Platón
 
@@ -22,8 +23,9 @@ publish: true
 > Nodo perteneciente a la Matrix de Simbolismo y Esoterismo TL V.2.
 
 ## Análisis De Tiers
-*En desarrollo...*
+
+_En desarrollo..._
 
 ## Cui Bono
-*Pendiente de análisis forense.*
 
+_Pendiente de análisis forense._

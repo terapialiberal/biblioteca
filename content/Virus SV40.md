@@ -7,9 +7,11 @@ nivel-evidencia: "medio"
 tags: [bill, cncer, sv40, vacunas]
 publish: true
 ---
+
 # Virus SV40 (Cáncer En Vacunas)
 
 ## Resumen Ejecutivo
+
 **¿Qué es?** El Virus Simio 40 (SV40) es un virus encontrado en los riñones de monos Rhesus.
 Entre 1955 y 1963, millones de dosis de la vacuna contra la polio de Salk (cultivadas en riñones de mono) estaban contaminadas con este virus.
 Se estima que **98 millones de estadounidenses** (y millones más en el mundo) recibieron la vacuna contaminada.
@@ -23,24 +25,24 @@ La Dra. Bernice Eddy (que lo descubrió) fue silenciada y despedida del NIH.
 ## Análisis (Tiers)
 
 ### Tier A (Siembra Biológica)
+
 - **Turbo Cáncer:** Algunos investigadores sugieren que la explosión de cáncer en el siglo XX no es solo por la dieta, sino por esta contaminación viral generacional. El SV40 bloquea la proteína p53 (el guardián del genoma que previene tumores).
 
 ### Tier B (Operativa)
+
 - **Merck:** Un científico de Merck (Maurice Hilleman) admitió en una grabación (broma interna) que "traíamos virus africanos a América... ganamos las Olimpiadas porque los rusos estarán llenos de tumores".
 
 ### Tier C (Narrativa)
+
 - "Incidente desafortunado sin consecuencias a largo plazo" (CDC).
 
 ## Conexiones
+
 - [[Anthony Fauci]] (NIH encubridor)
-- [[00_Glosario - Conceptos Fase 1#Bill & Melinda Gates Foundation\|Bill & Melinda Gates Foundation]] (Polio moderna)
+- [[00_Glosario - Conceptos Fase 1#Bill & Melinda Gates Foundation|Bill & Melinda Gates Foundation]] (Polio moderna)
 - [[Informe Flexner]]
 
 ## Fuentes
+
 - "The Virus and the Vaccine" - Debbie Bookchin.
 - "Dr. Mary's Monkey" - Edward Haslam.
-
-
-
-
-

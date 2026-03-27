@@ -13,7 +13,6 @@ tags:
   - escatologia
 ---
 
-
 # Pete Hegseth — El Secretario de Defensa con Función de Utilidad Infinita
 
 > [!NOTE] MODELO E-2: INSTRUMENTO CONSCIENTE
@@ -29,7 +28,7 @@ tags:
 
 ## 💬 La Declaración Clave ✅
 
-> *"El sionismo y el americanismo son las líneas del frente."*
+> _"El sionismo y el americanismo son las líneas del frente."_
 
 Declaración pública del Secretario de Defensa de EEUU. No es retórica casual. Es la formulación de su función de utilidad: el interés nacional americano y el proyecto sionista son la misma línea.
 
@@ -70,4 +69,4 @@ Un actor E-2 (Instrumento Consciente) bajo el framework TL-INTEL opera así:
 
 **Gradiente:** ✅ Declaraciones documentadas / ✅ Visita Monte del Templo documentada / ✅ Quejas MRFF documentadas / 🔶 Grado de coordinación entre su cosmovisión y la agenda Tier B
 
-*TL-INTEL v12.0 | 2026-03-12*
+_TL-INTEL v12.0 | 2026-03-12_

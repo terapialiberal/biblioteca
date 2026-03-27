@@ -7,9 +7,11 @@ nivel-evidencia: "medio"
 tags: [abuso, finders, programacin]
 publish: true
 ---
+
 # The Finders
 
 ## Resumen Ejecutivo
+
 **¿Qué fue?** Un culto o comuna misteriosa liderada por Marion Pettie.
 En 1987, la policía de Tallahassee (Florida) encontró a dos hombres bien vestidos en un parque con seis niños desaliñados y sucios.
 Los niños no sabían quiénes eran sus padres, respondían mecánicamente y parecían estar en trance.
@@ -22,26 +24,26 @@ El caso se cerró. Los niños fueron devueltos a los hombres del culto. El infor
 ## Análisis (Tiers)
 
 ### Tier A (Operaciones Negras Y Niños)
+
 - **Recursos Humanos:** Sugiere que la CIA usa cultos o redes de orfanatos para criar o reclutar sujetos "fuera del sistema" (sin identidad official) para operaciones encubiertas o programas de control mental ([[Programación Monarch]]).
 
 ### Tier B (Operativa)
+
 - **Marion Pettie:** "The Gamecaller". Operaba desde una dirección en Washington DC que era propiedad de una empresa fantasma de la CIA.
 - **Viajes:** Los niños viajaban a Europa y Asia sin pasaportes normals.
 
 ### Tier C (Narrativa)
+
 - "Comuna excéntrica"
 - "Malentendido policial"
 
 ## Conexiones
+
 - [[CIA]]
 - [[Abuso Ritual Satánico (SRA)]]
 - [[Caso Franklin]]
 
 ## Fuentes
+
 - Informe del Servicio de Aduanas de EEUU (US Customs Service Report on The Finders).
-- Artículos de la revista *Soldier of Fortune* y *Regardie's*.
-
-
-
-
-
+- Artículos de la revista _Soldier of Fortune_ y _Regardie's_.

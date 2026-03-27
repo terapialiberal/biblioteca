@@ -7,9 +7,11 @@ tipo: "articulo"
 fecha:
 tier:
 ---
+
 ![](https://upload.wikimedia.org/wikipedia/en/0/09/Genie_Energy_Logo.jpg)
 
 ---
+
 # Genie Energy - Wikipedia
 
 # La Noticia (30 seg)
@@ -30,7 +32,7 @@ La licencia de exploración otorgada por las autoridades israelíes cubría una 
 
 ---
 
-#🧠 Entidades Detectadas
+\#🧠 Entidades Detectadas
 
 - [[Genie Energy Ltd.]]
 - [[Altos del Golán]]

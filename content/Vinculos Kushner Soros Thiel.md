@@ -9,11 +9,12 @@ nivel-evidencia: "alto"
 tags: [kushner, soros, thiel, cadre, goldman-sachs]
 publish: true
 ---
-# Vínculos Kushner Soros Thiel
-![](https://i.insider.com/58e7b3488af57843238b4cff?width=1200&format=jpeg)
----
 
-![Jared Kushner](https://i.insider.com/58e7aaca77bb70b41a8b4681?width=500&format=jpeg&auto=webp)
+# Vínculos Kushner Soros Thiel
+
+## ![](https://i.insider.com/58e7b3488af57843238b4cff?width=1200\&format=jpeg)
+
+![Jared Kushner](https://i.insider.com/58e7aaca77bb70b41a8b4681?width=500\&format=jpeg\&auto=webp)
 
 Jared Kushner. Getty Images
 
@@ -38,9 +39,11 @@ Una fuente dijo a The Journal que Kushner planeaba recusarse de cualquier cosa r
 Todavía debe dinero a Bank of America, Blackstone Group, Citigroup, UBS, Deutsche Bank y RBS, todos los cuales, según The Journal, no fueron revelados.
 
 ### Lee El Informe Completo
+
 1. [Main content](https://www.businessinsider.com/#post-headline)
 2. [Search](https://www.businessinsider.com/#search)
 3. [Account](https://www.businessinsider.com/#account)
 
 ## 🏷️ Tags Sugeridos Por IA
+
 #jared-kushner #transparency #conflict-of-interest #real-estate #finance

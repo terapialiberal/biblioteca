@@ -6,7 +6,9 @@ description: "Coalición internacional de veteranos de inteligencia de derecha y
 tags: [le-cercle, deep-state, inteligencia, guerra-fria]
 publish: true
 ---
+
 # Le Cercle - Wikispooks --- Le Cercle - Wikispooks
+
 ![](https://wikispooks.com/w/images/b/b8/December_2016_meeting_of_Le_Cercle_Washington_3.jpg)
 
 ## Destacados
@@ -16,19 +18,22 @@ publish: true
 ---
 
 ## TLDR
+
 - El [[Círculo]] (anteriormente [[Grupo Pinay]], [[Círculo Pinay]], [[Cercle Pinay]] o [[Cercle Violet]]) es un [[ambiente de estado profundo]] comparable en edad al [[Bilderberg]], pero más pequeño, más secreto y menos expuesto.
 - David Teacher lo describió como \\"una coalición internacional de veteranos de inteligencia de derecha, activos de propaganda y políticos de alto nivel que darían forma a los [[años 70]] y [[años 80]].\\"
-- Fundado en [[1952]] por [[Jean Violet]], pretendía cimentar las relaciones [[franco-alemán\|franco-alemán]], como un amortiguador contra la agresión [[soviético\|soviética]] durante la [[Guerra Fría]].
+- Fundado en [[1952]] por [[Jean Violet]], pretendía cimentar las relaciones [[franco-alemán|franco-alemán]], como un amortiguador contra la agresión [[soviético|soviética]] durante la [[Guerra Fría]].
 - Se reunía originalmente solo en [[Europa]] durante 15 años, pero desde [[1968]] se reúne anualmente tanto en [[Washington]] como en Europa.
 - Los documentos filtrados indican que sus [[actividades]] incluyen [[subversión]], [[tráfico de armas]] y [[fraude]].
-- Se le ha descrito como un \\"grupo político que organiza conferencias\
+- Se le ha descrito como un \\"grupo político que organiza conferencias\\
 
 ---
+
 ![](https://wikispooks.com/w/images/b/b8/December_2016_meeting_of_Le_Cercle_Washington_3.jpg)
 
 ---
 
 ## Sumario AI
+
 - \\"una coalición internacional de veteranos de inteligencia de derecha, activos de propaganda y políticos de alto nivel que darían forma a los [[años 70]] y [[años 80]].\\"
 - \\"Se reunía dos veces al año en [[Washington]] y [[Europa]]\\"
 - \\"sus [[actividades]] incluyen [[subversión]], [[tráfico de armas]] y [[fraude]].\\"
@@ -40,19 +45,19 @@ publish: true
 
 ## Highlights Propios
 
-
 ---
 
 ## 💬 Textuales
 
-> *“una coalición internacional de veteranos de inteligencia de derecha, activos de propaganda y políticos de alto nivel que darían forma a los [[años 70]] y [[años 80]].” - [[David Teacher]]
-> *“un grupo político que organiza conferencias.” - [[William Hague]]
-> *“un [[think tank]] de política exterior establecido durante la [[Guerra Fría]] que supuestamente incluía a [[políticos]], [[diplomáticos]] y [[agentes de inteligencia]] de alto nivel en todo el mundo.” - [[Washington Post]]
-> *“un [[think tank]] de derecha (o más bien de pensamiento), financiado por la [[CIA]], que difunde conceptos de la [[Guerra Fría]]”. - [[Alan Clark]]
+> \*“una coalición internacional de veteranos de inteligencia de derecha, activos de propaganda y políticos de alto nivel que darían forma a los [[años 70]] y [[años 80]].” - [[David Teacher]]
+> \*“un grupo político que organiza conferencias.” - [[William Hague]]
+> \*“un [[think tank]] de política exterior establecido durante la [[Guerra Fría]] que supuestamente incluía a [[políticos]], [[diplomáticos]] y [[agentes de inteligencia]] de alto nivel en todo el mundo.” - [[Washington Post]]
+> \*“un [[think tank]] de derecha (o más bien de pensamiento), financiado por la [[CIA]], que difunde conceptos de la [[Guerra Fría]]”. - [[Alan Clark]]
 
 ---
 
 ## 🧠 Entidades Detectadas (IA)
+
 - [[Bilderberg]]
 - [[CIA]]
 - [[Washington DC]]
@@ -74,14 +79,14 @@ publish: true
 - [[Deep state]]
 - [[Guerra Fría]]
 - [[Organización del Tratado del Atlántico Norte]] ([[OTAN]])
-- [[00_Glosario - Conceptos Fase 1#Unión Soviética\|Unión Soviética]] ([[00_Glosario - Conceptos Fase 1#URSS\|URSS]])
+- [[00_Glosario - Conceptos Fase 1#Unión Soviética|Unión Soviética]] ([[00_Glosario - Conceptos Fase 1#URSS|URSS]])
 - [[Yemen]]
 - [[Jordania]]
 - [[David Stirling]]
 - [[Alec Douglas-Home]]
 - [[John Carbaugh]]
 - [[GeoMiliTech Consultants Corporation]]
-- [[Irán-Contra\|Iran-Contra]]
+- [[Irán-Contra|Iran-Contra]]
 - [[Margaret Carlisle]]
 - [[Paul Channon]]
 - [[Alan Clark]]
@@ -129,7 +134,7 @@ publish: true
 - [[Brian Franks]]
 - [[MI6]]
 - [[GeoMiliTech Consultants Corporation]]
-- [[Irán-Contra\|Iran-Contra]]
+- [[Irán-Contra|Iran-Contra]]
 - [[Margaret Carlisle]]
 - [[Paul Channon]]
 - [[Alan Clark]]
@@ -187,17 +192,17 @@ publish: true
 ---
 
 ## 🧩 Análisis Propio
+
 (Mi interpretación, contexto, implicancias, hipótesis)
 
 ---
 
 ## 🎥 Multimedia Relacionado
+
 (Clips de X o material que agregues en el video)
 
 ---
 
 ## 🏷 Tags Sugeridos Por IA
+
 #LeCercle #DeepState #Bilderberg #ColdWar #Espionage #SecretSociety #FrancoGermanAlliance #ThinkTank
-
-
-

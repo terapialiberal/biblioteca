@@ -15,7 +15,6 @@ tags:
   - trigger-escatologico
 ---
 
-
 # Monte del Templo — El Trigger Escatológico con Cargo Ministerial
 
 > [!CAUTION] RIESGO SISTÉMICO CRÍTICO
@@ -33,9 +32,10 @@ El rey Abdullah de Jordania es el custodio formal — lo que le da legitimidad a
 
 ## 🗓️ El Evento de Referencia — Ben Gvir, Enero 2023
 
-Itamar Ben Gvir subió al Monte del Templo el **3 de enero de 2023** — su **primer acto como Ministro de Seguridad Nacional**. 
+Itamar Ben Gvir subió al Monte del Templo el **3 de enero de 2023** — su **primer acto como Ministro de Seguridad Nacional**.
 
 **Lo que hace a esto analíticamente relevante:**
+
 - Netanyahu no lo autorizó explícitamente — primera documentación de **agencia descontrolada** de un Acelerador (E-3) con cargo ministerial
 - El episodio fue condenado por Jordania, Egipto, Arabia Saudita, EEUU y la UE
 - Ben Gvir volvió a subir en múltiples ocasiones posteriores
@@ -80,4 +80,4 @@ Si Al-Aqsa fuera dañada o destruida:
 
 **Gradiente:** ✅ Subida Ben Gvir enero 2023 documentada / ✅ Falta de autorización Netanyahu documentada / ✅ Posición teológica movimiento del Monte del Templo documentada / 🔶 Probabilidad de evento en horizonte 2-5 años / ⚠️ Consecuencias exactas dependientes de contexto
 
-*TL-INTEL v12.0 | 2026-03-12*
+_TL-INTEL v12.0 | 2026-03-12_

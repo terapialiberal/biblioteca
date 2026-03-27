@@ -6,15 +6,17 @@ nivel-evidencia: 'medio'
 tags: [clasificado-ai]
 publish: true
 ---
+
 ﻿---
 titulo: ??? MOC  REDES DE PODER (El Cartel Global)
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"
-tags: [00-moc, blackrock, cartel, poder]
+tags: \[00-moc, blackrock, cartel, poder]
 publish: true
----
+-------------
+
 # ??? MOC  REDES DE PODER (El Cartel Global)
 
 > **Axioma A-Ideologa**: Tier A no tiene ideologa. Financia a izquierda y derecha simultneamente.
@@ -23,6 +25,7 @@ publish: true
 ## ?? TIER A  LOS DUEOS (Juego Cooperativo)
 
 ### La Trifecta Del Capital Pasivo
+
 - [[BlackRock]] ([[Larry Fink]])  Sistema Aladdin: gestiona \10T en activos
 - [[Vanguard Group]] / [[Grupo Vanguard]]  El accionista silencioso: sin CEO visible
 - [[State Street]]  El custodio: controla el voto en miles de juntas directivas
@@ -30,18 +33,21 @@ publish: true
 - [[Geode Capital Management]]  El brazo oculto de Fidelity
 
 ### Infraestructura Fsica (El Brazo Ejecutor)
+
 - [[HIP Global Infrastructure Partners]] ([[Adebayo Ogunlesi]])  Puertos, aeropuertos, data centers
 - [[Brookfield]] ([[Mark Carney]])  Energa y activos reales globales
 - [[KKR]] / [[Carlyle Group]] / [[Apollo Global Management]]  Private equity de poder
 - [[Cerberus Capital Management]]  Defensa y activos en reestructuracin
 
 ### Banca De Inversin Sistmica
+
 - [[Goldman Sachs]] ([[David Solomon]])  El banco de los gobiernos
 - [[J.P. Morgan]] ([[Jamie Dimon]])  El banco demasiado grande para caer
 - [[Lazard]]  El banco de las reestructuraciones soberanas
 - [[Rothschild and Co]]  El consejero de reyes desde Napolen
 
 ### Dynastas (Horizonte: Generaciones)
+
 - [[Familia Rothschild]]  La red bancaria paneuropea fundacional
 - [[Familia Rockefeller]]  Petrleo convertido en medicina, educacin y control
 - [[Familia Warburg]]  Los arquitectos de la Reserva Federal
@@ -50,13 +56,14 @@ publish: true
 - [[Familia Pritzker]]  Hyatt + agenda transgnero como herramienta social
 - [[Familia Bronfman]]  Seagram's ? NXIVM ? redes de influencia
 
-
 ## ??? TIER B  LOS EJECUTORES
 
 ### Pipeline Quigley (La Red Atlantista)
+
 ```
 Rhodes Trust ? Round Table ? CFR ? Bilderberg ? Trilateral ? WEF
 ```
+
 - [[Carroll Quigley]]  El historiador que document la red (Tragedy and Hope)
 - [[La Mesa Redonda (The Round Table Group)]]  El origen: Lord Milner
 - [[CFR]]  El ms poderoso think tank anglosajn (TL V.2)
@@ -68,13 +75,15 @@ Rhodes Trust ? Round Table ? CFR ? Bilderberg ? Trilateral ? WEF
 - [[Young Global Leaders]]  La academia de cuadros del WEF
 
 ### Track Conservador & New Right
+
 - [[Le Cercle]]  La red atlantista secreta de inteligencia
-- [[Council for National Policy\|Council for National Policy (CNP)]]  La versin americana conservadora
+- [[Council for National Policy|Council for National Policy (CNP)]]  La versin americana conservadora
 - [[Heritage Foundation]]  El motor de Project 2025
 - [[JD Vance]]  El embajador de Silicon Valley en Washington
 - [[Mont Pelerin Society]]  El origen intelectual neoliberal
 
 ### Inteligencia (El Brazo Operativo)
+
 - [[CIA]]  El agente ejecutor primario en el exterior
 - [[MI6]] / [[GCHQ]]  El brazo britnico
 - [[Mossad]]  La inteligencia exterior israel
@@ -83,6 +92,7 @@ Rhodes Trust ? Round Table ? CFR ? Bilderberg ? Trilateral ? WEF
 - [[In-Q-Tel]]  El fondo de VC de la CIA (Silicon Valley como frente)
 
 ### Inteligencia Privatizada (El Nuevo Brazo)
+
 - [[Palantir]] ([[Peter Thiel]])  El cerebro del deep state
 - [[Anduril Industries]]  La guerra autnoma privatizada
 - [[Black Cube]]  Inteligencia privada israel para corporaciones
@@ -91,95 +101,90 @@ Rhodes Trust ? Round Table ? CFR ? Bilderberg ? Trilateral ? WEF
 - [[DynCorp]] / [[Academi]] ([[Erik Prince]])  Soldados privados
 
 ### The Mega Group (El Nexo Israel-Wall Street)
+
 - [[Mega Group]]  [[Les Wexner]] + [[Edgar Bronfman]] + [[Lev Leviev]]
 - [[Jeffrey Epstein]]  Infraestructura de kompromat global
 - [[Ghislaine Maxwell]] / [[Robert Maxwell]]  La red de inteligencia
 - [[Jared Kushner]] / [[Affinity Partners]]  El nuevo nodo
 
-
 ## ?? MECANISMOS DE CONTROL INTERINSTITUCIONAL
 
 ### Puerta Giratoria (El Mecanismo clave)
+
 - [[Puerta Giratoria (Concepto)]]  Cmo se captura la regulacin
 - [[Captura Regulatoria]]  El resultado final del proceso
 - [[Senior Executive Service]]  La burocracia permanente de EEUU
 - [[La Puerta Giratoria de la FDA]]  El caso farmacutico documentado
 
 ### Kompromat Y Lealtad Forzada (Dark Game Theory)
+
 - [[Honey Pot (Operacin)]] / [[Honeypot (Operacin de Inteligencia)]]  El chantaje como governance
-- [[Programacion Monarch\|Programacin Monarch]]  Control mental documentado (MKUltra operativo)
+- [[Programacion Monarch|Programacin Monarch]]  Control mental documentado (MKUltra operativo)
 - [[Carpeta (Extorsin)]]  La versin argentina del kompromat
 - [[J. Edgar Hoover]]  El archivo que control a presidentes
 
 ### Redes De tica Dual (Lo Visible Y Lo Oculto)
+
 - [[Bohemian Grove]]  La reunin donde Tier A socializa
 - [[Skull and Bones (Calavera y Huesos)]]  El pipeline de Yale al poder
 - [[Sociedad de Peregrinos (Pilgrims Society)]]  El vnculo institucional UK-USA
 - [[Caballeros de Malta]]  La red catlica de inteligencia
 
-
 ## ?? REDES REGIONALES (Virreyes Del Tier A)
 
 ### EEUU
+
 - [[PayPal Mafia]]  Peter Thiel, Musk, Levchin: el Silicon Pipeline
 - [[La mafia de PayPal]]  El grupo que captur la tech americana
 - [[Founders Fund]]  El capital de riesgo de la nueva lite tech
 
 ### Europa
+
 - [[Familia Agnelli]] / [[John Elkann]]  Fiat/Stellantis/The Economist
 - [[Familia Wallenberg]]  Suecia como hub de poder nrdico
 - [[Mario Draghi]]  El BCE a Goldman Sachs a la Comisin Europea
 
 ### Israel
+
 - [[Unidad 8200]]  El pipeline de inteligencia a Silicon Valley
 - [[Lakam]]  La rama de inteligencia econmica del Mossad
 - [[Chabad Lubavitch]]  Red global con acceso a lderes mundiales
 
 ### Argentina (Tier A Local)
-- [[Eduardo Elsztain]] / [[Eduardo Eurnekian]] / [[Paolo Rocca]]
-- [[Héctor Magnetto\|Hctor Magnetto]] (Grupo Clarn) / [[Marcos Galperin]] (MercadoLibre)
-- Ver: [[00_MOC - Argentina]]
 
+- [[Eduardo Elsztain]] / [[Eduardo Eurnekian]] / [[Paolo Rocca]]
+- [[Héctor Magnetto|Hctor Magnetto]] (Grupo Clarn) / [[Marcos Galperin]] (MercadoLibre)
+- Ver: [[00_MOC - Argentina]]
 
 ## ?? COORDINAR LA NARRATIVA (El Vector Infosfrico)
 
 - [[Manufactura de Consenso]]  Chomsky/Bernays: el manual
-- [[Operacion Mockingbird\|Operacin Mockingbird]]  La CIA y los medios
+- [[Operacion Mockingbird|Operacin Mockingbird]]  La CIA y los medios
 - [[Edelman]]  La mayor firma de PR del mundo
 - [[Hill+Knowlton]]  Guerra del Golfo: los bebs en las incubadoras
 - [[Atlantic Council DFRLab]]  La fbrica de narrativa atlantista
 - [[NewsGuard]]  Verificacin como arma de censura
 - [[Bellingcat]]  OSINT al servicio del relato OTAN
 
-
 ## ?? NODOS RELACIONADOS
+
 - [[MOC - Rimland]]  El tablero geogrfico donde operan estas redes
-- [[00_MOC - Control Financiero\|MOC - Control Financiero]]  Los mecanismos de extraccin econmica
-- [[00_MOC - Operaciones Encubiertas\|MOC - Operaciones Encubiertas]]  El brazo operativo clandestino
-- [[99_AI/05_Memoria_Central/Entity_Graph]]  ndice completo de actores
+- [[00_MOC - Control Financiero|MOC - Control Financiero]]  Los mecanismos de extraccin econmica
+- [[00_MOC - Operaciones Encubiertas|MOC - Operaciones Encubiertas]]  El brazo operativo clandestino
+- [[Entity_Graph]]  ndice completo de actores
 
 ---
 
-- [[Club de Madrid\|Club de Madrid]]
-- [[99_AI/01_Framework/Definicion_Atlantismo_y_Carriles\|Definicion_Atlantismo_y_Carriles]]
-- [[DTCC\|DTCC]]
-- [[06_Videos_Publicados/2026/2026-03-17 IRAN_STREAM/NotaTesis_Chabad_RedCoordenacion_v1\|NotaTesis_Chabad_RedCoordenacion_v1]]
-- [[Reza Pahlavi\|Reza Pahlavi]]
-- [[01_Research/02_Recoleccion/Tecnocracia/tecnocracia-tesis\|tecnocracia-tesis]]
+- [[Club de Madrid.md|Club de Madrid]]
+- [[99_AI/01_Framework/Definicion_Atlantismo_y_Carriles.md|Definicion_Atlantismo_y_Carriles]]
+- [[DTCC.md|DTCC]]
+- [[06_Videos_Publicados/2026/2026-03-17 IRAN_STREAM/NotaTesis_Chabad_RedCoordenacion_v1.md|NotaTesis_Chabad_RedCoordenacion_v1]]
+- [[Reza Pahlavi.md|Reza Pahlavi]]
 
-
-*MOC expandido: 2026-02-24 | Parte del [[INDEX_MAESTRO]]*
-
-
-
-
-
-
-
-
-
+_MOC expandido: 2026-02-24 | Parte del [[INDEX_MAESTRO]]_
 
 ## 🔍 NODOS DETECTADOS (AUDITORIA 2026)
+
 - [[Sam Altman]]
 - [[Schmidt Futures]]
 - [[Comision Trilateral]]

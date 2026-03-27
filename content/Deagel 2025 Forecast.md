@@ -7,9 +7,11 @@ nivel-evidencia: "medio"
 tags: [deagel, demogrfico, despoblacin, forecast]
 publish: true
 ---
+
 # Deagel 2025 Forecast (Pronóstico Demográfico)
 
 ## Perfil TL (Resumen Ejecutivo)
+
 **¿Qué es?** Un oscuro y detallado pronóstico demográfico y económico por país para el año 2025, publicado originalmente en el sitio web de análisis militar **Deagel.com**.
 
 **¿Por qué importa?** El informe se volvió viral y luego fue borrado por predecir una **caída catastrófica de la población en los países occidentales** para el año 2025 (EE.UU. bajando de 330 millones a menos de 100 millones; Reino Unido y Alemania con caídas del 50-70%). Lo que lo hace inquietante es que Deagel no es un blog de conspiración, sino un proveedor de datos para agencias de inteligencia y contratistas de defensa (DIA, CIA, Banco Mundial). El pronóstico basaba el colapso en una combinación de **colapso financiero sistémico**, guerra biológica y una "migración inversa" masiva hacia los países del **[[BRICS]]**. Tras el inicio de la pandemia en 2020 y el aumento del exceso de mortalidad global post-2021, el "Pronóstico Deagel" pasó de ser una curiosidad a ser considerado por muchos como una **filtración de la agenda de despoblación de Tier A**.
@@ -17,22 +19,27 @@ publish: true
 ## Análisis De Poder (Tiers)
 
 ### Tier A (Los Gestores De La Población)
-*   **La Agenda de Reducción:** El Tier A ha discutido abiertamente la necesidad de reducir la huella humana por "razones ambientales" (Club de Roma, Agenda 2030). El reporte Deagel podría ser una visualización de datos interna sobre el impacto de un colapso gestionado del sistema de petrodólares y la introducción de agentes biológicos.
-*   **Guerra Híbrida:** El pronóstico preveía el fin de la hegemonía occidental y el ascenso de un orden multipolar, sugiriendo que el Tier A está listo para "quemar" el viejo edificio (Occidente) para mudarse a uno nuevo (Tecnocracia Global).
+
+- **La Agenda de Reducción:** El Tier A ha discutido abiertamente la necesidad de reducir la huella humana por "razones ambientales" (Club de Roma, Agenda 2030). El reporte Deagel podría ser una visualización de datos interna sobre el impacto de un colapso gestionado del sistema de petrodólares y la introducción de agentes biológicos.
+- **Guerra Híbrida:** El pronóstico preveía el fin de la hegemonía occidental y el ascenso de un orden multipolar, sugiriendo que el Tier A está listo para "quemar" el viejo edificio (Occidente) para mudarse a uno nuevo (Tecnocracia Global).
 
 ### Tier B (Operadores / Inteligencia Militar)
-*   **Deagel.com:** Vinculado a figuras de la inteligencia de defensa de EE.UU. Su base de datos sobre equipamiento militar es tan precisa que es citada por medios oficiales, lo que le da a sus pronósticos demográficos un peso de "información privilegiada" que los modelos académicos normales no tienen.
+
+- **Deagel.com:** Vinculado a figuras de la inteligencia de defensa de EE.UU. Su base de datos sobre equipamiento militar es tan precisa que es citada por medios oficiales, lo que le da a sus pronósticos demográficos un peso de "información privilegiada" que los modelos académicos normales no tienen.
 
 ### Tier C (Narrativa Pública)
-*   "Un error de cálculo". "Una broma pesada que se salió de control". Tras el escándalo, el sitio borró el informe y puso un descargo ambiguo mencionando que el colapso sería causado por agentes biológicos experimentales (vacunas) y la caída del dólar, alimentando aún más la sospecha.
+
+- "Un error de cálculo". "Una broma pesada que se salió de control". Tras el escándalo, el sitio borró el informe y puso un descargo ambiguo mencionando que el colapso sería causado por agentes biológicos experimentales (vacunas) y la caída del dólar, alimentando aún más la sospecha.
 
 ## Conexiones Clave
+
 - [[Despoblación]] (El tema central)
 - [[BRICS]] (Los beneficiarios del pronóstico)
 - [[Colapso Financiero]] (El disparador económico)
 - [[Agenda 2030]] (El marco temporal coincidente)
 
 ## Fuentes
+
 - Archivos de Deagel.com (vía Wayback Machine).
 - Análisis de la CIA sobre "World Factbook" (fuente de datos de Deagel).
 - Reportes institucionales sobre exceso de mortalidad (2021-2023).

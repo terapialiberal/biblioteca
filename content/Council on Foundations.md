@@ -7,6 +7,7 @@ nivel-evidencia: "medio"
 tags: [council, foundations, fundacin]
 publish: true
 ---
+
 # Council on Foundations
 
 > [!ABSTRACT] Ficha Técnica
@@ -14,26 +15,26 @@ publish: true
 > **Función Real:** Coordinación entre las grandes fundaciones. Alineamiento de "filantropía".
 
 ## Función
+
 Reúne a las mayores fundaciones del mundo para coordinar:
+
 - Mejores prácticas
 - Políticas
 - Advocacy
 
 ## Miembros
+
 - [[Fundación Ford]]
 - [[Fundación Rockefeller]]
 - [[Fundación Bill y Melinda Gates]]
 - Y cientos más
 
 ## Conexiones
+
 - Ecosistema de fundaciones
 - Philanthropy as policy
 
 ## Fuentes
+
 - COF website
 - Membership lists
-
-
-
-
-

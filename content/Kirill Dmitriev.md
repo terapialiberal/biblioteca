@@ -15,7 +15,6 @@ tags:
   - 2026
 ---
 
-
 # Kirill Dmitriev — El Canal Privado Rusia-Washington
 
 > [!IMPORTANT] NODO ACTIVO EN 2026
@@ -79,4 +78,4 @@ La comparación es analíticamente precisa:
 
 **Gradiente:** ✅ Reunión Miami documentada / ✅ Visita Kremlin dic 2025 documentada / 🔶 Contenido de las negociaciones sobre tierras raras / ⚠️ Acuerdo final y términos específicos
 
-*TL-INTEL v12.0 | 2026-03-12*
+_TL-INTEL v12.0 | 2026-03-12_

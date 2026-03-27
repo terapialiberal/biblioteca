@@ -7,6 +7,7 @@ nivel-evidencia: "medio"
 tags: [cambio, george, pierre, privatizador]
 publish: true
 ---
+
 # Pierre Omidyar (TL V.2): El Privatizador Del Cambio De Régimen
 
 > [!ABSTRACT] Hipótesis Informativa
@@ -15,36 +16,32 @@ publish: true
 ## Análisis De Tiers
 
 ### Tier A (Los Arquitectos De La Verdad Oficial)
-*   **La Captura del Whistleblowing:** Para el Tier A, las filtraciones de Snowden fueron un peligro que debía ser gestionado. Omidyar fundó *The Intercept* y contrató a Glenn Greenwald para **Centralizar y Neutralizar** los archivos de la NSA. Al poseer el medio y pagar los salarios, el Tier A asegura que la publicación de secretos estatales sea dosificada y filtrada para no dañar los intereses nucleares del sistema. Cuando el periodismo real intentó emerger (Caso Hunter Biden), Omidyar activó el mecanismo de censura, forzando la salida de Greenwald y demostrando que *The Intercept* es, en realidad, un nodo de contención de daños.
+
+- **La Captura del Whistleblowing:** Para el Tier A, las filtraciones de Snowden fueron un peligro que debía ser gestionado. Omidyar fundó _The Intercept_ y contrató a Glenn Greenwald para **Centralizar y Neutralizar** los archivos de la NSA. Al poseer el medio y pagar los salarios, el Tier A asegura que la publicación de secretos estatales sea dosificada y filtrada para no dañar los intereses nucleares del sistema. Cuando el periodismo real intentó emerger (Caso Hunter Biden), Omidyar activó el mecanismo de censura, forzando la salida de Greenwald y demostrando que _The Intercept_ es, en realidad, un nodo de contención de daños.
 
 ### Tier B (Los Operadores De La Censura Fact-Checked)
-*   **La Red de Fact-Checking:** El Tier B financiero de Omidyar sostiene al "International Fact-Checking Network" (IFCN). Estos agentes son los **Censores Delegados de la Matrix**: deciden qué es verdad y qué es mentira en Meta, Google y X. Al financiar a los verificadores de datos, Omidyar ha logrado que la disidencia de **[[Tier C]]** sea estigmatizada como "fake news" o "desinformación" por entidades aparentemente independientes que reciben órdenes directas de sus fondos. Es la **Inquisición Tecnocrática** financiada por un multimillonario con agenda de seguridad nacional.
+
+- **La Red de Fact-Checking:** El Tier B financiero de Omidyar sostiene al "International Fact-Checking Network" (IFCN). Estos agentes son los **Censores Delegados de la Matrix**: deciden qué es verdad y qué es mentira en Meta, Google y X. Al financiar a los verificadores de datos, Omidyar ha logrado que la disidencia de **[[Tier C]]** sea estigmatizada como "fake news" o "desinformación" por entidades aparentemente independientes que reciben órdenes directas de sus fondos. Es la **Inquisición Tecnocrática** financiada por un multimillonario con agenda de seguridad nacional.
 
 ## ¸ Mecanisms De Poder (Mediáticos Y Políticos)
 
-1.  **Co-Financiamiento con la USAID**: Omidyar trabaja habitualmente junto a la agencia de inteligencia "suave" de EE.UU. para financiar grupos opositores en países estratégicos, permitiendo que el cambio de régimen parezca un movimiento de "sociedad civil" espontáneo.
-2.  **Philantro-Capitalism de Vigilancia**: Inversión en tecnologías de identificación biométrica y bases de datos ciudadanas en África e India, bajo la excusa de la "inclusión financiera", preparando el terreno para el Crédito Social global.
+1. **Co-Financiamiento con la USAID**: Omidyar trabaja habitualmente junto a la agencia de inteligencia "suave" de EE.UU. para financiar grupos opositores en países estratégicos, permitiendo que el cambio de régimen parezca un movimiento de "sociedad civil" espontáneo.
+2. **Philantro-Capitalism de Vigilancia**: Inversión en tecnologías de identificación biométrica y bases de datos ciudadanas en África e India, bajo la excusa de la "inclusión financiera", preparando el terreno para el Crédito Social global.
 
 ## Conexiones Críticas
+
 - [[The Intercept]]: Su plataforma de captura de disidencia periodística.
 - [[USAID]]: Su socio estatal en operaciones de cambio de régimen.
 - [[George Soros]]: Con quien coordina el financiamiento de fact-checkers globales.
-- [[00_Glosario - Conceptos Fase 1#Glenn Greenwald\|Glenn Greenwald]]: El periodista que expuso la censura interna de la red Omidyar.
+- [[00_Glosario - Conceptos Fase 1#Glenn Greenwald|Glenn Greenwald]]: El periodista que expuso la censura interna de la red Omidyar.
 - [[Panama Papers]]: Por el financiamiento selectivo del consorcio que publicó el leak.
 
 ## Conclusión Del Análisis
+
 Pierre Omidyar nos enseña que **el multimillonario "filántropo" es el agente de inteligencia más eficaz del siglo XXI**. Nos advierte que no existe el periodismo libre financiado por el capital que sostiene la guerra y la censura. Para el individuo soberano del Tier C, Omidyar es el recordatorio de que la "verdad" en redes sociales es un producto comprado y pagado para proteger al sistema. La libertad real exige la construcción de medios financiados exclusivamente por sus lectores y el uso de tecnologías que escapen al ojo de los fact-checkers de la red atlantista de Omidyar.
 
 ---
+
 **Versión:** 2.0
 **Enfoque:** La instrumentalización del periodismo "independiente", el financiamiento de revoluciones de color junto a USAID y la creación del complejo industrial del fact-checking.
 **Estado:** Refactoreado a TL V.2 - Framework de Ingeniería de la Verdad.
-
-
-
-
-
-
-
-
-

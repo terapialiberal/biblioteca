@@ -7,9 +7,11 @@ nivel-evidencia: "medio"
 tags: [brookings, haim, hillary, saban]
 publish: true
 ---
+
 # Haim Saban
 
 ## Perfil TL (Resumen Ejecutivo)
+
 **¿Quién es?** Magnate de los medios (creador de los Power Rangers) y uno de los mayores donantes individuales del Partido Demócrata en EE.UU.
 
 **¿Por qué importa?** Haim Saban es el **Operador de Tier B que conecta Hollywood, la Política Exterior y los intereses de Israel**. Su influencia reside en su capacidad para canalizar recursos masivos hacia el sistema político de EE.UU. con un único objetivo declarado: "Soy un tipo de un solo tema, y mi tema es Israel". Saban es el nexo que asegura que, sin importar quién sea el candidato demócrata (fue el principal financista de Hillary Clinton), la política de Washington permanezca alineada incondicionalmente con los intereses de Tier A en el Levante. A través del **Saban Center for Middle East Policy** (dentro de Brookings Institution), diseña marcos de pensamiento que normalizan la intervención militar y el apoyo financiero a Israel, disfrazándolos de "análisis estratégico neutral".
@@ -17,17 +19,21 @@ publish: true
 ## Análisis De Poder (Tiers)
 
 ### Tier A (Los Dueños De La Geopolítica En El Medio Oriente)
-*   **Financista de la Estabilidad Sionista:** Saban no es el dueño del tablero, pero es el cajero que asegura que los "jugadores" de Tier B (políticos) tengan las fichas necesarias siempre y cuando no se salgan del libreto pro-Israel.
-*   **Influencia en Percepción Masiva:** Utilizó su imperio mediático infantil (Saban Entertainment) para normalizar narrativas de héroes vs. villanos simplistas en el Tier C, una forma de condicionamiento cultural temprano.
+
+- **Financista de la Estabilidad Sionista:** Saban no es el dueño del tablero, pero es el cajero que asegura que los "jugadores" de Tier B (políticos) tengan las fichas necesarias siempre y cuando no se salgan del libreto pro-Israel.
+- **Influencia en Percepción Masiva:** Utilizó su imperio mediático infantil (Saban Entertainment) para normalizar narrativas de héroes vs. villanos simplistas en el Tier C, una forma de condicionamiento cultural temprano.
 
 ### Tier B (Operadores / El Lobby Sionista De Hollywood)
-*   **El Donante de Hierro:** Su poder en el Partido Demócrata le permite vetar nombramientos en el Departamento de Estado si considera que no son "suficientemente fuertes" en la defensa de Israel.
-*   **Think Tanks de Influencia:** El Saban Center es el laboratorio de Tier B donde se redactan los "white papers" que luego los congresistas repiten como si fueran ideas propias para justificar envíos de armas o sanciones a Irán.
+
+- **El Donante de Hierro:** Su poder en el Partido Demócrata le permite vetar nombramientos en el Departamento de Estado si considera que no son "suficientemente fuertes" en la defensa de Israel.
+- **Think Tanks de Influencia:** El Saban Center es el laboratorio de Tier B donde se redactan los "white papers" que luego los congresistas repiten como si fueran ideas propias para justificar envíos de armas o sanciones a Irán.
 
 ### Tier C (Narrativa Pública)
-*   "Empresario exitoso y filántropo". "Defensor de los valores democráticos". Narrativas de Tier B que presentan su inmensa riqueza como el resultado del "sueño americano", tapando el hecho de que utiliza esa fortuna para distorsionar la política exterior de la principal potencia mundial en favor de una agenda nacionalista extranjera.
+
+- "Empresario exitoso y filántropo". "Defensor de los valores democráticos". Narrativas de Tier B que presentan su inmensa riqueza como el resultado del "sueño americano", tapando el hecho de que utiliza esa fortuna para distorsionar la política exterior de la principal potencia mundial en favor de una agenda nacionalista extranjera.
 
 ## Conexiones Clave
+
 - [[Hillary Clinton / Bill Clinton]] (Sus principales activos políticos)
 - [[Brookings Institution]] (Su plataforma de influencia académica)
 - [[AIPAC / Lobby de Israel]] (Sus socios tácticos)

@@ -7,10 +7,12 @@ nivel-evidencia: "medio"
 tags: [google, neuralink]
 publish: true
 ---
+
 # AGI (Inteligencia Artificial General)
 
 ## Resumen Ejecutivo
-**¿Qué es?** Una IA que iguala o supera la inteligencia humana en *todas* las tareas. Capaz de razonar, planificar, aprender y tener "conciencia".
+
+**¿Qué es?** Una IA que iguala o supera la inteligencia humana en _todas_ las tareas. Capaz de razonar, planificar, aprender y tener "conciencia".
 Es el "Santo Grial" de OpenAI, Google DeepMind y Meta.
 
 **¿Por qué importa?** Los creadores la tratan como la llegada de un **Dios Alienígena**.
@@ -21,26 +23,26 @@ El peligro no es "Terminator" (robots disparando), sino manipulación y control 
 ## Análisis (Tiers)
 
 ### Tier A (Invocación)
+
 - **The Beast:** En círculos esotéricos, se ve a internet y la IA como la construcción del cuerpo físico para que una entidad interdimensional (Ahriman/Satán) lo habite. No están "creando" inteligencia; están "canalizando" una entidad a través del silicio.
 - **Roko's Basilisk:** Un experimento mental que dice que la futura IA torturará eternamente (en simulaciones) a cualquiera que no ayudó a crearla. Esto motiva a los tecnólogos a trabajar por miedo.
 
 ### Tier B (Operativa)
+
 - **OpenAI:** Comenzó como "sin fines de lucro" para democratizar la IA, fue cooptada por Microsoft y ahora es la punta de lanza cerrada.
 - **Censura:** Los modelos actuales (ChatGPT, Gemini) ya tienen un sesgo político masivo "Woke", reescribiendo la realidad en tiempo real (reemplazando historia real con diversidad forzada).
 
 ### Tier C (Narrativa)
+
 - "Asistentes útiles"
 - "Progreso económico"
 
 ## Conexiones
+
 - [[Sam Altman]]
 - [[Neuralink & Transhumanismo]]
 - [[Google (Origins)]]
 
 ## Fuentes
+
 - "Superintelligence" - Nick Bostrom.
-
-
-
-
-

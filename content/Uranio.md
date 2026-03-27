@@ -7,14 +7,17 @@ nivel-evidencia: "medio"
 tags: [franafrique, geopoltica, nuclear, uranio]
 publish: true
 ---
+
 # Uranio (Geopolítica Nuclear)
 
 ## Resumen Ejecutivo
+
 **¿Qué es?** El combustible de las centrales nucleares (20% de la electricidad de EEUU, 70% de Francia).
 Principales productores:
-1.  **Kazajistán (45%):** Controlado por la empresa estatal Kazatomprom (órbita rusa/china).
-2.  **Canadá (13%).**
-3.  **Namibia y Níger:** Vitales para Francia.
+
+1. **Kazajistán (45%):** Controlado por la empresa estatal Kazatomprom (órbita rusa/china).
+2. **Canadá (13%).**
+3. **Namibia y Níger:** Vitales para Francia.
 
 **¿Por qué importa?**
 **Níger:** El golpe de estado de 2023 en Níger fue una catástrofe para Francia. Níger proveía el uranio barato que iluminaba París. Los golpistas cortaron el suministro y se aliaron con Rusia (Wagner Group).
@@ -24,17 +27,15 @@ Principales productores:
 ## Análisis (Tiers)
 
 ### Tier A (Dependencia Fatal)
+
 - **Rosatom:** La empresa nuclear estatal rusa domina el mercado mundial de construcción de reactores y enriquecimiento. Mientras Occidente demonizaba la energía nuclear por miedo verde, Rusia se convirtió en el "Saudi Arabia" del átomo.
 
 ## Conexiones
+
 - [[Grupo Wagner]]
 - [[Françafrique]]
 - [[Energía Nuclear]]
 
 ## Fuentes
+
 - World Nuclear Association Reports.
-
-
-
-
-

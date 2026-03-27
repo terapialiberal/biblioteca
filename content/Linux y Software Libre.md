@@ -7,6 +7,7 @@ nivel-evidencia: "medio"
 tags: [apple, libre, linux, software]
 publish: true
 ---
+
 # Linux Y Software Libre: La Última Trinchera De La Soberanía
 
 > [!ABSTRACT] Resumen de Inteligencia
@@ -15,31 +16,25 @@ publish: true
 ## Análisis De Poder (Matrix)
 
 ### Tier A vs. El Bien Común Digital
-*   **La Paradoja de la Merced:** El Tier A ([[Microsoft]], [[Google]], [[Amazon]]) odia el software libre porque no puede monopolizarlo mediante patentes, pero lo **necesita** para correr sus servidores e IAs. Linux es el "Comunismo que funcionó" por accidente, creando un recurso común que el capital no ha podido capturar del todo.
-*   **Vigilancia por Diseño:** Windows y MacOS están diseñados como terminales de recolección de telemetría (espionaje legal). Linux es la anomalía que rompe el flujo de datos hacia el **[[Capitalismo de Vigilancia]]**.
+
+- **La Paradoja de la Merced:** El Tier A ([[Microsoft]], [[Google]], [[Amazon]]) odia el software libre porque no puede monopolizarlo mediante patentes, pero lo **necesita** para correr sus servidores e IAs. Linux es el "Comunismo que funcionó" por accidente, creando un recurso común que el capital no ha podido capturar del todo.
+- **Vigilancia por Diseño:** Windows y MacOS están diseñados como terminales de recolección de telemetría (espionaje legal). Linux es la anomalía que rompe el flujo de datos hacia el **[[Capitalismo de Vigilancia]]**.
 
 ### Tier B: La Guerra De Los Backdoors
-*   **Pentágono / NSA:** Las agencias de inteligencia prefieren sistemas cerrados donde pueden forzar la inclusión de vulnerabilidades. El software libre es su mayor obstáculo, ya que cualquier modificación sospechosa es detectada por la comunidad global de desarrolladores.
 
+- **Pentágono / NSA:** Las agencias de inteligencia prefieren sistemas cerrados donde pueden forzar la inclusión de vulnerabilidades. El software libre es su mayor obstáculo, ya que cualquier modificación sospechosa es detectada por la comunidad global de desarrolladores.
 
 ## âš¡ Conclusión De Terapia Liberal
+
 Si usas Windows, sos un inquilino en tu propia computadora, y el dueño de casa ([[Satya Nadella]]) está revisando tu tacho de basura cada noche. Si usas Linux, sos el dueño. No es por "nerdismo", es por **defensa propia**. Linux es el "Bitcoin" de los sistemas operativos: descentralizado, transparente y resistente a la censura.
 
 ---
 
 ## Conexiones De La Red
+
 - **El Oponente:** [[Microsoft]], [[Apple Inc. (Apple)]], [[Google (Orígenes)]].
 - **Soberanía:** [[Bitcoin]], [[Meshtastic]], [[Soberanía Individual]].
 - **Amenazas:** [[Vigilancia Masiva]], [[CIA]], [[NSA]].
 - **Héroes:** [[Richard Stallman]] (Filosofía), [[Linus Torvalds]] (Ingeniería).
 
 **Estado:** Refactoreado a TL V.2 - Framework de Resistencia Digital.
-
-
-
-
-
-
-
-
-

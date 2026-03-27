@@ -14,7 +14,6 @@ tags:
   - 2026
 ---
 
-
 # OpenVPP — El Primer Certificado de Energía On-Chain
 
 > [!NOTE] DATO SUBESTIMADO
@@ -48,9 +47,10 @@ Esta es la razón por la que existe esta nota:
 ## 📊 Contexto del Mercado RWA
 
 Al momento del lanzamiento de OpenVPP:
+
 - Mercado global de RWA (Real World Assets tokenizados): **$33 billones** a fines de 2025 (desde $15B en 2024) ✅
 - BlackRock BUIDL: **$2.300M** en activos tokenizados ✅
-- Larry Fink, Davos enero 2026: *"Si tenemos un blockchain común, podríamos reducir la corrupción"* ✅
+- Larry Fink, Davos enero 2026: _"Si tenemos un blockchain común, podríamos reducir la corrupción"_ ✅
 
 OpenVPP es el primer paso hacia la denominación de valor en unidades energéticas — el paso que cierra el círculo de 90 años.
 
@@ -74,4 +74,4 @@ Este es el nodo con **mayor incertidumbre** del análisis. Los datos sobre OpenV
 
 **Gradiente:** 🔶 Lanzamiento OpenVPP reportado sin verificación fuente primaria / ✅ Mercado RWA y declaraciones Fink documentados / ✅ Conexión conceptual con Technocracy documentada / ⚠️ $25M TVL como dato sin verificar independientemente
 
-*TL-INTEL v12.0 | 2026-03-12*
+_TL-INTEL v12.0 | 2026-03-12_

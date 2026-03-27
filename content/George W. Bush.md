@@ -7,9 +7,11 @@ nivel-evidencia: "medio"
 tags: [bush, george, pnac, skull]
 publish: true
 ---
+
 # George W. Bush
 
 ## Perfil TL (Resumen Ejecutivo)
+
 **¿Quién es?** 43Âº Presidente de EE.UU. e hijo del ex-presidente y director de la CIA George H. W. Bush.
 
 **¿Por qué importa?** George W. Bush fue el **rostro de la "Guerra Infinita" y la consolidación del Estado de Vigilancia**. Su presidencia estuvo marcada por el evento catalizador del **[[9-11]]**, el cual utilizó como un "Nuevo Pearl Harbor" para implementar el **Patriot Act** (destrucción de la privacidad del Tier C) y para invadir Afganistán e Irak bajo falsas pretensiones (**Armas de Destrucción Masiva**). Bush representa la **Continuidad del Linaje de Tier A**; un miembro de **[[Skull and Bones]]** cuyo mandato fue gestionado por los Neoconservadores del **[[PNAC]]**. Su papel fue el de un "Frontman" simpático y aparentemente torpe que permitió que el Estado Profundo (encabezado por **[[Dick Cheney]]**) capturara permanentemente el aparato legislativo y militar de EE.UU., iniciando la era de la biovigilancia y la guerra preventiva global.
@@ -17,17 +19,21 @@ publish: true
 ## Análisis De Poder (Tiers)
 
 ### Tier A (El Dueño De La Dinastía)
-*   **Linaje Skull & Bones:** Iniciado en la misma sociedad secreta que su padre y abuelo. Su lealtad no es a los votantes, sino a las redes de poder del Este de EE.UU. que lo colocaron en el poder tras las dudosas elecciones del año 2000.
-*   **La Agenda Globalista:** Siguió estrictamente el manual del Nuevo Orden Mundial de su padre, expandiendo la OTAN y desestabilizando el Medio Oriente para asegurar el control de los recursos energéticos por parte del Tier A corporativo.
+
+- **Linaje Skull & Bones:** Iniciado en la misma sociedad secreta que su padre y abuelo. Su lealtad no es a los votantes, sino a las redes de poder del Este de EE.UU. que lo colocaron en el poder tras las dudosas elecciones del año 2000.
+- **La Agenda Globalista:** Siguió estrictamente el manual del Nuevo Orden Mundial de su padre, expandiendo la OTAN y desestabilizando el Medio Oriente para asegurar el control de los recursos energéticos por parte del Tier A corporativo.
 
 ### Tier B (Operadores / Dick Cheney Y Los Neocons)
-*   **Gobierno en la Sombra:** La administración de Bush fue operada por un Tier B de línea dura (Cheney, Rumsfeld, Wolfowitz). Bush servía de distracción mediática mientras ellos reescribían las leyes para permitir la tortura (**Guantánamo**) y el espionaje masivo sin orden judicial (**NSA**).
-*   **Captura de la Narrativa:** Utilizó la estética del "Conservadurismo Compasivo" para desarmar emocionalmente a la población antes de implementar las políticas más radicales de control estatal de la historia moderna de EE.UU.
+
+- **Gobierno en la Sombra:** La administración de Bush fue operada por un Tier B de línea dura (Cheney, Rumsfeld, Wolfowitz). Bush servía de distracción mediática mientras ellos reescribían las leyes para permitir la tortura (**Guantánamo**) y el espionaje masivo sin orden judicial (**NSA**).
+- **Captura de la Narrativa:** Utilizó la estética del "Conservadurismo Compasivo" para desarmar emocionalmente a la población antes de implementar las políticas más radicales de control estatal de la historia moderna de EE.UU.
 
 ### Tier C (Narrativa Pública)
-*   "Líder firme contra el terrorismo". "Defensor de la libertad". Recientemente rehabilitado por los medios como el "abuelo amable" que pinta cuadros, para que el Tier C olvide el millón de muertos en Irak y la destrucción de las libertades civiles que él firmó.
+
+- "Líder firme contra el terrorismo". "Defensor de la libertad". Recientemente rehabilitado por los medios como el "abuelo amable" que pinta cuadros, para que el Tier C olvide el millón de muertos en Irak y la destrucción de las libertades civiles que él firmó.
 
 ## Conexiones Clave
+
 - [[9-11]] (Su evento fundacional)
 - [[Dick Cheney]] (Su vice y "titiritero" operativo)
 - [[Patriot Act]] (Su legado de control)

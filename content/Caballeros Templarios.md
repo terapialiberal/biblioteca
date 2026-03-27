@@ -7,9 +7,11 @@ nivel-evidencia: "medio"
 tags: [banco, masonera, origen, templarios]
 publish: true
 ---
+
 # Caballeros Templarios (Origen Banca)
 
 ## Resumen Ejecutivo
+
 **¿Qué eran?** Una orden monástica militar católica fundada para proteger a los peregrinos en Tierra Santa.
 
 **¿Por qué importa?** Inventaron la **Banca Internacional Moderna**.
@@ -22,24 +24,24 @@ Se dice que los sobrevivientes huyeron a Escocia y Suiza, ayudando a fundar la *
 ## Análisis (Tiers)
 
 ### Tier A (Baphomet Y Gnosis)
+
 - **La Cabeza:** Fueron acusados de adorar a un ídolo barbudo ("Baphomet") y escupir en la cruz. Probablemente habían descubierto conocimientos gnósticos/sufíes en Jerusalén que contradecían el dogma católico.
 - **Suiza:** La bandera suiza es la bandera templaria invertida (cruz roja sobre blanco -> cruz blanca sobre rojo). Suiza funciona con los mismos principios templarios: neutralidad armada, secreto bancario y custodia de tesoros.
 
 ### Tier B (Operativa)
+
 - **Flota:** Tenían una flota masiva que desapareció la noche de la purga. Teorías dicen que viajaron a América siglos antes que Colón (piedras rúnicas en Kensington, Oak Island).
 
 ### Tier C (Narrativa)
+
 - "Monjes guerreros de las cruzadas"
 
 ## Conexiones
+
 - [[Masonería]]
-- [[Banco de Pagos Internacionales\|Banco de Pagos Internacionales (BIS)]] (La herencia suiza)
+- [[Banco de Pagos Internacionales|Banco de Pagos Internacionales (BIS)]] (La herencia suiza)
 - [[City of London]]
 
 ## Fuentes
+
 - "The Temple and the Lodge" - Michael Baigent.
-
-
-
-
-

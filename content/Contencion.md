@@ -7,9 +7,11 @@ nivel-evidencia: "medio"
 tags: [contencin, george, guerra, kennan]
 publish: true
 ---
+
 # Contención (George Kennan)
 
 ## Resumen Ejecutivo
+
 **¿Qué es?** La estrategia base de la política exterior de EEUU.
 George Kennan (diplomático en Moscú) envió el "Telegrama Largo" advirtiendo que la URSS era expansionista por naturaleza y fanatismo.
 Receta: **"Contención paciente pero firme y vigilante".**
@@ -24,20 +26,19 @@ Problema: China es el principal socio comercial del mundo, contenerla económica
 ## Análisis (Tiers)
 
 ### Tier A (El Enemigo Necesario)
+
 - **NSC-68:** Documento secreto de 1950 que radicalizó la contención. Decía que EEUU necesitaba un rearme masivo permanente. El "fantasma soviético" se usó para construir el Complejo Militar-Industrial doméstico.
 
 ### Tier C (Narrativa)
+
 - "Defensa del mundo libre"
 
 ## Conexiones
+
 - [[Teoría del Rimland (Nicholas Spykman)]]
 - [[Guerra Fría]]
 - [[CFR (Council on Foreign Relations)]]
 
 ## Fuentes
+
 - "The Sources of Soviet Conduct" (Artículo X) - George Kennan.
-
-
-
-
-

@@ -7,6 +7,7 @@ tier-primario: "b"
 nivel-evidencia: "medio"
 tags: [bernanke, reserva, timothy]
 ---
+
 # Ben Bernanke
 
 > [!INFO] Perfil Operativo (Tier B)
@@ -14,9 +15,11 @@ tags: [bernanke, reserva, timothy]
 > **Función Real:** Salvó a Wall Street a costa del contribuyente. Inventó la impresora de dinero moderna.
 
 ## Biografía
+
 Ben Bernanke era académico experto en la Gran Depresión antes de set nombrado a la Fed.
 
 Durante su gestión:
+
 - Crisis 2008 y rescate
 - **Quantitative Easing** (QE): imprimir dinero para comprar bonos
 - Tasas de interés en cero
@@ -24,20 +27,18 @@ Durante su gestión:
 Ganó el Premio Nobel de Economía (2022).
 
 ## Âš ï¸ Críticas
+
 - Rescató bancos, no ciudadanos
 - QE enriqueció a los ricos (inflacion de activos)
 - No vio venir la crisis
 
 ## Conexiones
+
 - [[Reserva Federal]]
 - Academia económica
 - [[Timothy Geithner]]
 
 ## Fuentes
+
 - "The Courage to Act" (autobiografía)
 - Críticas de QE
-
-
-
-
-

@@ -7,6 +7,7 @@ nivel-evidencia: "medio"
 tags: [bilderberg, comisin, henry, trilateral]
 publish: true
 ---
+
 # Comisión Trilateral
 
 ## Resumen General
@@ -18,18 +19,22 @@ Al igual que Bilderberg y CFR, la Trilateral reúne a líderes corp orativos, po
 ## Historia Y Fundación
 
 ### Fundadores (1973)
+
 - **David Rockefeller** - Banquero, patriarca de la familia Rockefeller
 - **Zbigniew Brzezinski** - Académico, futuro Consejero de Seguridad Nacional bajo Carter
 
 ### Propósito Original
+
 Promover **trilateralismo**: coordinación entre élites de las tres principales regiones capitalistas desarrolladas (EEUU-Europa-Japón) para asegurar dominación económica global.
 
 ## Propósito Y Funciones
 
 ### Narrativa Official
+
 "Promover diálogo y cooperación entre las democracias industrializadas líderes del mundo."
 
 ### Función Real
+
 - Coordinar agenda between corporate and political elites across regions
 - Preparar consenso elite sobre política económica global
 - Proveer "cantera de talentos" para positions gubernamentales
@@ -38,6 +43,7 @@ Promover **trilateralismo**: coordinación entre élites de las tres principales
 ## Overlap Con CFR Y Bilderberg
 
 La Trilateral comparte membresía extensa con:
+
 - **[[CFR]]** - Muchos miembros americanos son también CFR
 - **[[Bilderberg]]** - Gran overlap de asistentes
 - Otras organizaciones establishment (Chatham House, etc.)
@@ -47,9 +53,10 @@ Este overlap demuestra que se trata de la **MISMA red de élite operando a trav�
 ## Miembros Notables
 
 La Trilateral ha incluído:
+
 - **[[Henry Kissinger]]** - Miembro fundacional
 - **[[Zbigniew Brzezinski]]** - Co-fundador, arquitecto de política exterior
-- **[[George H. W. Bush\|George H.W. Bush]]** - Ex-presidente EEUU
+- **[[George H. W. Bush|George H.W. Bush]]** - Ex-presidente EEUU
 - Múltiples Secretarios de Estado, Treasury, Defense
 - CEOs de bancos y corporaciones transnacionales
 - Primeros ministros europeos y japoneses
@@ -57,6 +64,7 @@ La Trilateral ha incluído:
 ## Críticas
 
 La Comisión Trilateral ha sido criticada como:
+
 - **Gobierno mundial en la sombra** que coordina política global sin accountability democr ático
 - **Club de banqueros y corporaciones** que diseña política económica para su beneficio
 - **Promotor de globalización** a expensas de soberanía nacional
@@ -65,6 +73,7 @@ La Comisión Trilateral ha sido criticada como:
 ## Conexión Con Administraciones
 
 Múltiples administraciones estadounidenses han estado **dominadas por miembros de la Trilateral**:
+
 - **Administración Carter:** Brzezinski como NSAdvisor, múltiples miembros del ga binete
 - **Administraciones posteriores:** Representación continuada en posiciones clave
 
@@ -73,12 +82,15 @@ Esto demuestra que la Trilateral, como el CFR, **trasciende partidos políticos*
 ## Puntos Clave Para Video
 
 ### 1. Rock Efeller, Brzezinski Y El Gobierno Mundial
+
 David Rockefeller y Brzezinski crearon la Trilateral explícitamente para coordinar élites globales más allá de gobiernos nacionales.
 
 ### 2. El Overlap Bilderberg-CFR-Tril Ateral: La Misma Red
+
 La membresía compartida entre estas organizaciones prueba que se trata de una single network operando bajo múltiples nombres.
 
 ### 3. De Carter a Hoy: Dominación De Administraciones
+
 La saturación de miembros Trilateral en gabinetes presidenciales muestra captura del gobierno por élites globalistas.
 
 ## Ángulos Posibles Para Video
@@ -105,7 +117,3 @@ La saturación de miembros Trilateral en gabinetes presidenciales muestra captur
 - [[El establishment]]
 - [[Deep State]]
 - [[Globalismo]]
-
-
-
-

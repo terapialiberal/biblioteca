@@ -7,18 +7,17 @@ nivel-evidencia: "medio"
 tags: [atlantic, council, dfrlab]
 publish: true
 ---
+
 # Atlantic Council DFRLab
 
 > **Perfil TL:** La fábrica de narrativa OTAN.
 
 ## Contexto Preliminar
-*(Nota semilla creada desde el Gap Analysis. Require investigación profunda con Mónica).*
+
+_(Nota semilla creada desde el Gap Analysis. Require investigación profunda con Mónica)._
 
 ## Ejes De Investigación
-- [] Conexiones financieras (Funding)
-- [] Rol en la estructura de poder (Tiers)
-- [] Anomalías detectadas
 
-
-
-
+- \[] Conexiones financieras (Funding)
+- \[] Rol en la estructura de poder (Tiers)
+- \[] Anomalías detectadas

@@ -16,23 +16,29 @@ publish: true
 ## Análisis De Tiers
 
 ### Tier A (Los Dueños)
+
 - **Incentivo**: La legitimidad estética. Al construir sedes bancarias o monumentos con la proporción Phi, el Tier A comunica al inconsciente colectivo que su poder es "natural" y "divino", tan inevitable como el crecimiento de una caracola o una galaxia. Es el uso de la matemática como herramienta de **Doma Simbólica**.
 
 ### Tier B (Operadores / Ejecutores)
+
 - **Arquitectos y Diseñadores**: Utilizan Phi para que los logos, las interfaces de usuario (UX) y los espacios públicos se sientan "correctos". La proporción áurea es el estándar de oro para que un mensaje de Tier B sea aceptado sin resistencia cerebral.
 
 ### Tier C (El Teatro / Percepción)
+
 - "Una curiosidad matemática de la naturaleza". El Tier C percibe la armonía pero no entiende el **Manual de Diseño** que hay detrás, lo que lo hace vulnerable a la manipulación visual basada en proporciones perfectas.
 
 ## Conexiones Críticas
+
 - [[Sucesión de Fibonacci]]: La versión aritmética del crecimiento.
 - [[Logotipos de Tier A]]: Apple, Google y grandes bancos usan Phi para proyectar estabilidad eterna.
 - [[Análisis Técnico (Trading)]]: El uso de retrocesos de Fibonacci para predecir (y manipular) los mercados de Tier B.
 
 ## Cui Bono
+
 ¿Quién gana? Los **Geómetras del Sistema**. La Proporción Áurea asegura que el entorno de control sea estéticamente placentero, ocultando la naturaleza extractiva del sistema bajo una capa de perfección geométrica.
 
 ---
+
 **Versión:** 1.0
 **Enfoque:** Estética como herramienta de validación sistémica.
 **Estado:** 2026-02-25 | Informe Activo

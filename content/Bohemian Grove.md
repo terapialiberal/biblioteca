@@ -16,24 +16,30 @@ publish: true
 ## Análisis De Tiers
 
 ### Tier A (Los Dueños)
+
 - **Incentivo**: La creación de **cohesión tribal**. En Bohemian Grove no hay actas ni cámaras; es donde se cierran pactos de caballeros que definen la política de defensa y energía de las décadas siguientes. El Proyecto Manhattan (la bomba atómica) se gestó formalmente en estas instalaciones.
 - **Simbolismo**: El búho representa la sabiduría que ve en la oscuridad, un arquetipo de vigilancia y conocimiento oculto propio del Tier A.
 
 ### Tier B (Operadores / Ejecutores)
+
 - Políticos como Richard Nixon y Ronald Reagan eran asistentes asiduos. Para ellos, era el examen final para ser admitidos en los círculos de confianza del Tier A.
 
 ### Tier C (El Teatro / Percepción)
+
 - "Un campamento de vacaciones para hombres ricos haciendo teatro". Esta narrativa infantiliza un espacio de coordinación geopolítica de primer orden.
 
 ## Conexiones Críticas
-- [[00_Glosario - Conceptos Fase 1#Proyecto Manhattan\|Proyecto Manhattan]]: Origen histórico de la cooperación Tier A/B.
+
+- [[00_Glosario - Conceptos Fase 1#Proyecto Manhattan|Proyecto Manhattan]]: Origen histórico de la cooperación Tier A/B.
 - [[Cremation of Care]]: El ritual de "despersonalización" moral.
-- [[00_Glosario - Conceptos Fase 1#Richard Nixon\|Richard Nixon]]: Testigo del poder del Grove.
+- [[00_Glosario - Conceptos Fase 1#Richard Nixon|Richard Nixon]]: Testigo del poder del Grove.
 
 ## Cui Bono
+
 ¿Quién gana? La **Elite del Complejo Industrial-Militar**. En el Grove se eliminan las fricciones entre competidores para asegurar que la agenda global siga una dirección unificada.
 
 ---
+
 **Versión:** 1.0
 **Enfoque:** Ritualismo de élite y networking geopolítico.
 **Estado:** 2026-02-25 | Informe Activo

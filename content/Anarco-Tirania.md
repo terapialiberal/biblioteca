@@ -7,21 +7,21 @@ tier-primario: "b"
 nivel-evidencia: "medio"
 tags: [anarco, francis, tirana]
 ---
+
 # Anarco-Tiranía (Sam Francis)
 
 > **Resumen:** Estado que persigue al ciudadano común pero tolera al criminal.
 
 ## Notas Iniciales
-*Nota generada automáticamente tras análisis de huecos de información.*
+
+_Nota generada automáticamente tras análisis de huecos de información._
 
 ## Puntos a Investigar
+
 - Definir conexión exacta con Tier A.
 - Buscar contratos o financiamiento (Follow the Money).
 - Identificar operadores clave.
 
 ## Conexiones Potenciales
+
 - [[00 Índice Maestro]]
-
-
-
-

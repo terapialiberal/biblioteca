@@ -6,15 +6,17 @@ nivel-evidencia: 'medio'
 tags: [clasificado-ai]
 publish: true
 ---
+
 ﻿---
 titulo: "Meshtastic (TL V.2): La Red De La Resistencia"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"
-tags: [kill, lorawan, meshtastic, resistencia]
+tags: \[kill, lorawan, meshtastic, resistencia]
 publish: true
----
+-------------
+
 # Meshtastic (TL V.2): La Red De La Resistencia
 
 > [!ABSTRACT] Hiptesis Informativa
@@ -23,18 +25,21 @@ publish: true
 ## Anlisis De Tiers
 
 ### Tier C: La Soberana De Las Comunicaciones
-*   **Descentralizacin Real:** A diferencia de Telegram o Signal, que dependen de servidores centrales e internet, Meshtastic es una red peer-to-peer fsica. Cada usuario es un nodo repetidor. Esto hace que la red sea **Antifrgil**: cuantos ms usuarios la usan, ms fuerte y extenso es el alcance. Es imposible de "bajar" sin confiscar fsicamente cada dispositivo.
-*   **Bajo Costo y Acceso:** Con hardware de \30 USD, democratiza el acceso a comunicaciones tcticas de nivel militar (encriptacin AES-256), rompiendo el monopolio de las telecomunicaciones corporativas.
+
+- **Descentralizacin Real:** A diferencia de Telegram o Signal, que dependen de servidores centrales e internet, Meshtastic es una red peer-to-peer fsica. Cada usuario es un nodo repetidor. Esto hace que la red sea **Antifrgil**: cuantos ms usuarios la usan, ms fuerte y extenso es el alcance. Es imposible de "bajar" sin confiscar fsicamente cada dispositivo.
+- **Bajo Costo y Acceso:** Con hardware de \30 USD, democratiza el acceso a comunicaciones tcticas de nivel militar (encriptacin AES-256), rompiendo el monopolio de las telecomunicaciones corporativas.
 
 ### Tier A: La Amenaza Del Espectro
-*   **El Ojo de Sauron:** Aunque el contenido est cifrado, el Tier A (NSA/FCC) puede triangular las emisiones de radio para localizar a los emisores. Por eso, el uso de Meshtastic requiere disciplina de radio (emisin intermitente, ubicacin remota de nodos). Es una guerra del gato y el ratn en el espectro electromagntico.
 
-##  Mecanismos De Poder (Defensivos)
+- **El Ojo de Sauron:** Aunque el contenido est cifrado, el Tier A (NSA/FCC) puede triangular las emisiones de radio para localizar a los emisores. Por eso, el uso de Meshtastic requiere disciplina de radio (emisin intermitente, ubicacin remota de nodos). Es una guerra del gato y el ratn en el espectro electromagntico.
 
-1.  **Red Malla (Mesh)**: Si un nodo cae, el mensaje busca otra ruta automticamente. Es la arquitectura de la supervivencia.
-2.  **Off-Grid Capable**: Funciona con bateras pequeas y paneles solares durante semanas, independizndose de la red elctrica nacional.
+## Mecanismos De Poder (Defensivos)
+
+1. **Red Malla (Mesh)**: Si un nodo cae, el mensaje busca otra ruta automticamente. Es la arquitectura de la supervivencia.
+2. **Off-Grid Capable**: Funciona con bateras pequeas y paneles solares durante semanas, independizndose de la red elctrica nacional.
 
 ## Conexiones Crticas
+
 - [[Kill Switch (Internet Apagado)]]: El escenario de uso.
 - [[LoRaWAN]]: La tecnologa base.
 - [[Preppers]]: La comunidad de adopcin temprana.
@@ -42,18 +47,11 @@ publish: true
 - [[Cyber Polygon]]: La simulacin del apagn que justifica su uso.
 
 ## Conclusin Del Anlisis
+
 Meshtastic no es un juguete de hobby; es el "Walkie-Talkie del Siglo XXI". Representa la capacidad de las comunidades de mantenerse coordinadas cuando el Estado apaga la luz. Tener un nodo Meshtastic es un acto de soberana digital fsica.
 
 ---
+
 **Versiï¿½n:** 2.0
 **Enfoque:** Resiliencia ante apagones (Kill Switch), arquitectura descentralizada (Mesh), bajo costo y utilidad tï¿½ctica para la comunidad civil.
 **Estado:** Refactoreado a TL V.2 - Framework de Comms Soberanas.
-
-
-
-
-
-
-
-
-

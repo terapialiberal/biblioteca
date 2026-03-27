@@ -7,6 +7,7 @@ nivel-evidencia: "medio"
 tags: [boris, dominic, johnson]
 publish: true
 ---
+
 # Boris Johnson
 
 > [!INFO] Perfil Operativo (Tier C)
@@ -14,9 +15,11 @@ publish: true
 > **Función Real:** Populista carismático que ejecutó Brexit pero implodió su gobierno.
 
 ## Biografía
+
 Boris Johnson fue periodista, alcalde de Londres, y PM.
 
 Gobierno:
+
 - Brexit "Got it done"
 - COVID y lockdowns (luego Partygate)
 - Apoyo a Ucrania
@@ -24,13 +27,10 @@ Gobierno:
 Forzado a renunciar por escándalos (Partygate, etc.)
 
 ## Conexiones
+
 - [[Dominic Cummings]] (estratega, luego enemigo)
 - Clase alta británica (Eton, Oxford)
 
 ## Fuentes
+
 - Cobertura política UK
-
-
-
-
-

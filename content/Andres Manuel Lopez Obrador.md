@@ -7,6 +7,7 @@ nivel-evidencia: "medio"
 tags: [foro, lpez, manuel, morena]
 publish: true
 ---
+
 # Andrés Manuel López Obrador
 
 > [!INFO] Perfil Operativo (Tier B)
@@ -14,9 +15,11 @@ publish: true
 > **Función Real:** Populista de izquierda que centralizó poder pero no cambió estructuras.
 
 ## Biografía
+
 AMLO perdió dos elecciones presidenciales antes de ganar en 2018.
 
 Políticas:
+
 - "Primero los pobres"
 - Austeridad republicana
 - Militarización de seguridad pública
@@ -26,14 +29,11 @@ Políticas:
 No pudo presentarse a reelección (límite constitucional). Lo sucedió Claudia Sheinbaum.
 
 ## Conexiones
+
 - [[Morena]] (su partido)
 - [[Foro de Sao Paulo]]
 - Militares mexicanos
 
 ## Fuentes
+
 - Cobertura política mexicana
-
-
-
-
-

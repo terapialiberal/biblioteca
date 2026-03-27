@@ -7,12 +7,14 @@ tier-primario: b
 nivel-evidencia: medio
 tags: [eduardo, estructura, paolo, poder]
 ---
+
 # 🇦🇷 MOC - Argentina: La Estructura De Poder
 
 > [!INFO]
 > Mapa de contenido que organiza las 100+ notas sobre el funcionamiento real del poder en Argentina, siguiendo la metodología de "Terapia Liberal" (Cui Bono / Follow the Money).
 
 ## Mapa Mental (Mermaid)
+
 ```mermaid
 graph TD
     A[Argentina S.A.] --> B(Círculo Rojo / Dueños)
@@ -33,7 +35,8 @@ graph TD
 ```
 
 ## 1. 🎩 El Círculo Rojo (Los Dueños)
-*Quienes nunca se van, gobierne quien gobierne.*
+
+_Quienes nunca se van, gobierne quien gobierne._
 
 | Empresario | Grupo/Empresa | Sector | Tier |
 | :--- | :--- | :--- | :--- |
@@ -61,10 +64,12 @@ graph TD
 | [[Marcos Galperin]] | Mercado Libre | Tech / Finanzas | A |
 
 ## 2. 🏛️ Operadores Políticos Y "La Casta"
-*Los gestores del sistema.*
+
+_Los gestores del sistema._
 
 ### Figuras Históricas Y Operadores
-- [[Enrique _Coti_ Nosiglia\|Enrique 'Coti' Nosiglia]] (El monje negro radical)
+
+- [[Enrique _Coti_ Nosiglia|Enrique 'Coti' Nosiglia]] (El monje negro radical)
 - [[Eduardo Duhalde]] (El padrino del conurbano)
 - [[Sergio Massa]] (El ventajita / Embajada)
 - [[Cristina Kirchner]] (La jefa del movimiento nacional)
@@ -79,16 +84,17 @@ graph TD
 - [[Guillermo Moreno]] (El perro guardián)
 - [[Anibal Fernandez]] (El todoterreno)
 - [[Chiche Gelblung (Inteligencia)]] (Vínculos históricos)
-- [[Enrique _Coti_ Nosiglia\|Enrique "Coti" Nosiglia]] (El monje negro real)
+- [[Enrique _Coti_ Nosiglia|Enrique "Coti" Nosiglia]] (El monje negro real)
 - [[Jose Luis Manzano]] (Litio y Medios)
 - [[La Coordinadora (UCR)]] (Estructura histórica)
 - [[Santiago Bausili]] (Bicicleta Financiera)
 - [[Fundacion Mediterranea]] (Semillero)
-- [[Consejo Interamericano de Comercio y Produccion\|Consejo Interamericano de Comercio y Producción (CICYP)]] (El Lobby)
+- [[Consejo Interamericano de Comercio y Produccion|Consejo Interamericano de Comercio y Producción (CICYP)]] (El Lobby)
 - [[Martin Insaurralde]] (El símbolo de la degradación)
 - [[Juan Grabois]] (El gerente de la pobreza)
 
 ### La Era Milei
+
 - [[Javier Milei]] (El León / Presidente)
 - [[Karina Milei (El Jefe)]] (El poder real)
 - [[Santiago Caputo]] (El arquitecto)
@@ -99,24 +105,27 @@ graph TD
 - [[Lilia Lemoine]] (Batalla cultural)
 
 ## 3. 🕵️ Inteligencia Y Estado Profundo
-*Donde se cocinan las carpetas y el poder real.*
 
-- **Agencias:** [[00_Glosario - Conceptos Fase 1#AFI (Agencia Federal de Inteligencia)\|AFI (Agencia Federal de Inteligencia)]] | [[Inteligencia Militar]] | [[Policía de la Ciudad (Espionaje)]]
+_Donde se cocinan las carpetas y el poder real._
+
+- **Agencias:** [[00_Glosario - Conceptos Fase 1#AFI (Agencia Federal de Inteligencia)|AFI (Agencia Federal de Inteligencia)]] | [[Inteligencia Militar]] | [[Policía de la Ciudad (Espionaje)]]
 - **Personajes:** [[Jaime Stiuso]] | [[Cesar Milani]] | [[Alberto Nisman]]
-- **Casos/Métodos:** [[Carpeta (Extorsión)]] | [[Proyecto X (Gendarmería)]] | [[D_Alessio Gate\|D'Alessio Gate]] | [[Servicio Penitenciario Federal]] (Espionaje illegal)
+- **Casos/Métodos:** [[Carpeta (Extorsión)]] | [[Proyecto X (Gendarmería)]] | [[D_Alessio Gate|D'Alessio Gate]] | [[Servicio Penitenciario Federal]] (Espionaje illegal)
 - **Justicia:** [[Jueces Federales de Comodoro Py]] | [[Lawfare]] | [[Causa Cuadernos]] | [[Hotesur y Los Sauces]] | [[Indultos de Menem]]
 
 ## 4. 🌍 Recursos Estratégicos Y Soberanía
-*El botín que busca el mundo.*
+
+_El botín que busca el mundo._
 
 - **Energía:** [[Vaca Muerta]] | [[YPF]] | [[Energía Nuclear (INVAP)]]
-- **Litio:** [[00_Glosario - Conceptos Fase 1#Litio en Jujuy (Livent)\|Litio en Jujuy (Livent)]] | [[Triangulo del Litio]]
+- **Litio:** [[00_Glosario - Conceptos Fase 1#Litio en Jujuy (Livent)|Litio en Jujuy (Livent)]] | [[Triangulo del Litio]]
 - **Territorio:** [[Hidrovia Parana]] | [[Mar Argentino (Pesca Ilegal)]] | [[Antartida Argentina]] | [[Lago Escondido (Joe Lewis)]] | [[Tierras de Benetton]] | [[Base China en Neuquen]]
 - **Campo:** [[Campo y Retenciones]] | [[Resolucion 125]] | [[Sociedad Rural Argentina]]
 - **Agua:** [[Acuífero Guaraní (Argentina)]] | [[Glaciares (Ley)]]
 
 ## 5. 📺 Medios, Cultura E Historia
-*La fábrica de consenso.*
+
+_La fábrica de consenso._
 
 - **Medios:** [[Grupo Clarin]] | [[La Nacion +]] | [[Pagina 12]] | [[Jorge Lanata]] | [[Horacio Verbitsky]] | [[678 y el Relato]] | [[Pauta Oficial]] | [[Futbol para Todos]]
 - **Fenómenos:** [[Batalla Cultural (Argentina)]] | [[Las Fuerzas del Cielo]] | [[Pacto de Mayo]] | [[Protocolo Anti-Piquetes]]
@@ -126,9 +135,9 @@ graph TD
 
 > [!NOTE] Rastriables Dataview
 > Lista completa generada automáticamente:
->  
 
 ## 🔍 NODOS DETECTADOS (AUDITORIA 2026)
+
 - [[DINASTIAS_FINANCIERAS]]
 - [[MASTER_LIST_DINASTIAS]]
 - [[Piqueteros]]

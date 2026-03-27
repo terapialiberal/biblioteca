@@ -7,9 +7,11 @@ nivel-evidencia: "medio"
 tags: [abedin, hermanos, hillary, huma]
 publish: true
 ---
+
 # Huma Abedin
 
 ## Perfil TL (Resumen Ejecutivo)
+
 **¿Quién es?** Jefe de staff adjunta de Hillary Clinton en el Departamento de Estado y vicepresidenta de su campaña presidencial de 2016.
 
 **¿Por qué importa?** Huma Abedin es el **Canal de Infiltración de Tier B entre el Deep State Demócrata y el Islamismo Radical**. Criada en Arabia Saudita, sus vínculos familiares directos con la **Hermandad Musulmanes** (su madre, Saleha Abedin, es una líder destacada de la división femenina) son un hecho documentado que compromete la seguridad nacional de EE.UU. Abedin fue la guardiana del acceso a Hillary Clinton, operando en el corazón del escándalo de los correos electrónicos. La aparición de miles de correos clasificados del Departamento de Estado en la laptop de su exesposo, el convicto **Anthony Weiner**, es la mayor brecha de inteligencia de la historia reciente, permitiendo que actores extranjeros (Tier A) tuvieran acceso a la política exterior americana a través de una operadora no electa con lealtades duales.
@@ -17,16 +19,20 @@ publish: true
 ## Análisis De Poder (Tiers)
 
 ### Tier A (Los Dueños De La Infiltración Ideológica)
-*   **Arabia Saudita / Qatar:** El Tier A del Golfo utilizó a Abedin como su "oído" y "voz" dentro del Departamento de Estado, asegurando que las políticas de la Primavera Árabe beneficiaran a la Hermandad Musulmana en lugar de a la estabilidad regional.
+
+- **Arabia Saudita / Qatar:** El Tier A del Golfo utilizó a Abedin como su "oído" y "voz" dentro del Departamento de Estado, asegurando que las políticas de la Primavera Árabe beneficiaran a la Hermandad Musulmana en lugar de a la estabilidad regional.
 
 ### Tier B (Operadores / La Sombra De Los Clinton)
-*   **Hillary Clinton:** La protectora de Tier B que permitió a Abedin operar sin los chequeos de seguridad (clearance) que habrían descalificado a cualquier otra persona con esos antecedentes familiares. Su relación es descrita como simbiótica, borrando los límites entre lo personal y la seguridad de Estado.
-*   **Anthony Weiner:** El operador de Tier B caído en desgracia cuyo comportamiento desviado expuso involuntariamente la red de secretos del "Team Hillary" al FBI (**Operación Pizzagate** / Laptop de Weiner).
+
+- **Hillary Clinton:** La protectora de Tier B que permitió a Abedin operar sin los chequeos de seguridad (clearance) que habrían descalificado a cualquier otra persona con esos antecedentes familiares. Su relación es descrita como simbiótica, borrando los límites entre lo personal y la seguridad de Estado.
+- **Anthony Weiner:** El operador de Tier B caído en desgracia cuyo comportamiento desviado expuso involuntariamente la red de secretos del "Team Hillary" al FBI (**Operación Pizzagate** / Laptop de Weiner).
 
 ### Tier C (Narrativa Pública)
-*   "La asesora brillante y elegante". "Víctima de los escándalos de su marido". Narrativas de Tier B proyectadas por revistas como Vogue para glamorizar a una operadora de inteligencia. El Tier C ve su "tragedia personal" en las revistas, mientras ignora que ella es la terminal por donde se filtraron secretos de Estado hacia redes islamistas extranjeras.
+
+- "La asesora brillante y elegante". "Víctima de los escándalos de su marido". Narrativas de Tier B proyectadas por revistas como Vogue para glamorizar a una operadora de inteligencia. El Tier C ve su "tragedia personal" en las revistas, mientras ignora que ella es la terminal por donde se filtraron secretos de Estado hacia redes islamistas extranjeras.
 
 ## Conexiones Clave
+
 - [[Hillary Clinton]] (Su patrona y escudo)
 - [[Hermanos Musulmanes]] (Su red familiar e ideológica)
 - [[Anthony Weiner / Laptop de los Secretos]] (Su perdición operativa)

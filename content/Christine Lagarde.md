@@ -7,6 +7,7 @@ nivel-evidencia: "medio"
 tags: [banco, christine, lagarde]
 publish: true
 ---
+
 # Christine Lagarde
 
 > [!INFO] Perfil Operativo (Tier B)
@@ -14,6 +15,7 @@ publish: true
 > **Función Real:** Operadora del establishment financiero europeo. Ejecuta agenda de integración fiscal EU.
 
 ## Biografía Resumida
+
 Christine Lagarde fue la primera mujer en dirigir el **[[FMI]]** y el **[[Banco Central Europeo]]**.
 
 Abogada de profesión, no economista. Antes fue Ministra de Finanzas de Francia.
@@ -21,20 +23,18 @@ Abogada de profesión, no economista. Antes fue Ministra de Finanzas de Francia.
 En el FMI supervisó rescates de Grecia y otros países. Condenada por negligencia en caso Tapie (Francia) pero sin pena.
 
 ## Red De Conexiones
+
 - **BCE/FMI:** Mario Draghi (predecessor BCE)
 - **Francia:** Establishment político
 - **WEF:** Participante frecuente
 
 ## Âš ï¸ Controversias
+
 - Rescates punitivos a Grecia
 - Condena por negligencia en Francia
 - Impulso a CBDCs (euro digital)
 
 ## Fuentes
+
 - BCE/FMI records
 - French court records
-
-
-
-
-

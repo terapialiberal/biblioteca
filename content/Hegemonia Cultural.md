@@ -7,9 +7,11 @@ nivel-evidencia: "medio"
 tags: [antonio, cultural, hegemona, ventana]
 publish: true
 ---
+
 # Hegemonía Cultural
 
 ## Perfil TL (Resumen Ejecutivo)
+
 **¿Qué es?** Un concepto desarrollado por el filósofo marxista Antonio Gramsci que explica cómo una clase dominante mantiene el poder no mediante la fuerza física, sino logrando que su visión del mundo sea aceptada como el "sentido común" por el resto de la sociedad.
 
 **¿Por qué importa?** La Hegemonía Cultural es la **Tecnología de Control Invisible de Tier A**. A diferencia de la dictadura directa, la hegemonía logra que el Tier C defienda activamente el sistema que lo oprime. Se basa en la captura de las instituciones de la sociedad civil (prensa, escuelas, cine, iglesias). El Tier A no necesita policías en cada esquina si logra que el ciudadano de Tier C tenga la "policía" instalada dentro de su cabeza en forma de prejuicios, valores y aspiraciones diseñadas desde arriba. Es el mecanismo por el cual el trabajador defiende la baja de impuestos a los billonarios o por el cual la juventud abraza agendas de fragmentación social (políticas de identidad) creyendo que son rebeldes, cuando en realidad están siguiendo el manual de Tier A para evitar la unión de clase.
@@ -17,17 +19,21 @@ publish: true
 ## Análisis De Poder (Tiers)
 
 ### Tier A (Los Dueños De La Percepción)
-*   **Institución del "Sentido Común":** El Tier A financia y promueve las narrativas que se vuelven "naturales". Por ejemplo, la idea de que "no hay alternativa" al sistema financiero actual es un triunfo de la hegemonía cultural.
-*   **Captura de la Narrativa:** El Tier A utiliza Hollywood y las universidades para definir qué es "bueno", "progresista" o "civilizado", marginando cualquier idea disidente como "teoría de conspiración" o "barbarie".
+
+- **Institución del "Sentido Común":** El Tier A financia y promueve las narrativas que se vuelven "naturales". Por ejemplo, la idea de que "no hay alternativa" al sistema financiero actual es un triunfo de la hegemonía cultural.
+- **Captura de la Narrativa:** El Tier A utiliza Hollywood y las universidades para definir qué es "bueno", "progresista" o "civilizado", marginando cualquier idea disidente como "teoría de conspiración" o "barbarie".
 
 ### Tier B (Operadores / Intelectuales Orgánicos)
-*   **La Clase Media Académica:** Gramsci los llamó "intelectuales orgánicos". Son los periodistas, directores de cine y profesores de Tier B que traducen los intereses de Tier A a un lenguaje que el Tier C pueda consumir y amar.
-*   **La Industria del Entretenimiento:** Es el sistema de entrega más eficiente de la hegemonía. Las películas y series no solo entretienen; instalan normas de comportamiento, tipos de consumo y visiones históricas que benefician al status quo.
+
+- **La Clase Media Académica:** Gramsci los llamó "intelectuales orgánicos". Son los periodistas, directores de cine y profesores de Tier B que traducen los intereses de Tier A a un lenguaje que el Tier C pueda consumir y amar.
+- **La Industria del Entretenimiento:** Es el sistema de entrega más eficiente de la hegemonía. Las películas y series no solo entretienen; instalan normas de comportamiento, tipos de consumo y visiones históricas que benefician al status quo.
 
 ### Tier C (Narrativa Pública)
-*   "Educación para todos". "Entretenimiento de masas". "Libertad de expresión". Narrativas de Tier B que ocultan que el menú de ideas disponibles para el Tier C está rígidamente controlado. El Tier C vive dentro de una pecera ideológica; puede nadar libremente hacia cualquier lado, pero el agua y las paredes de la pecera han sido diseñadas por el Tier A.
+
+- "Educación para todos". "Entretenimiento de masas". "Libertad de expresión". Narrativas de Tier B que ocultan que el menú de ideas disponibles para el Tier C está rígidamente controlado. El Tier C vive dentro de una pecera ideológica; puede nadar libremente hacia cualquier lado, pero el agua y las paredes de la pecera han sido diseñadas por el Tier A.
 
 ## Conexiones Clave
+
 - [[Antonio Gramsci]] (Su creador intelectual)
 - [[Ventana de Overton]] (Su aplicación táctica)
 - [[Escuela de Frankfurt]] (Su versión de "Teoría Crítica")

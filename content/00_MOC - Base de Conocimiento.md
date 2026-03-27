@@ -12,7 +12,8 @@ tags: [moc, indice, tl-v3, zettelkasten]
 ---
 
 ## 🗺️ MAPAS DE CONTENIDO PRINCIPALES (MOCs)
-*Puntos de entrada recomendados para navegar la red de información:*
+
+_Puntos de entrada recomendados para navegar la red de información:_
 
 - [[00_MOC - Argentina]]
 - [[00_MOC - Captura Regulatoria y Puertas Giratorias]]
@@ -33,16 +34,64 @@ tags: [moc, indice, tl-v3, zettelkasten]
 
 ---
 
+## 🧭 MOCs CANÓNICOS
+
+_Estas notas funcionan como fuente de verdad para navegar el dominio._
+
+- [[00_Mapa_de_Poder_Global_A-Z]]
+- [[00_MOC - Base de Conocimiento]]
+- [[00_MOC - Patrones Clasicos de Poder]]
+- [[00_MOC - Control Financiero]]
+- [[00_MOC - Tecnologia de Control]]
+- [[00_MOC - Redes de Poder]]
+
+## 🗂️ MOCs SECUNDARIOS
+
+_Mapas temáticos o regionales. Organizan subconjuntos del sistema, pero no reemplazan nodos canónicos._
+
+- [[00_MOC - Argentina]]
+- [[00_MOC - Captura Regulatoria y Puertas Giratorias]]
+- [[00_MOC - Cronologico]]
+- [[00_MOC - Finanzas y CBDC]]
+- [[00_MOC - Fricciones de la Matrix]]
+- [[00_MOC - Kompromat y Dark Game Theory]]
+- [[00_MOC - Mercados Negros y Crimen Sistemico]]
+- [[00_MOC - Operaciones Encubiertas]]
+- [[00_MOC - Operaciones Psicologicas]]
+- [[00_MOC - Rimland]]
+- [[00_MOC - Simbolismo y Esoterismo]]
+
+---
+
 ## 🏛️ NODOS ESTRUCTURALES
+
 - [[00_Mapa_de_Poder_Global_A-Z]] → Directorio masivo de actores y entidades de poder global jerarquizados por Tiers (A/B/C).
 - [[MISSING_NODES]] → Base de datos de captura provisional para conceptos aún no explayados en la bóveda pero detectados por IA.
 - [[SISTEMA_GLOBAL]] → Nota maestra integradora del tablero de juego geopolítico.
 
 ---
 
+## 🏷️ ONTOLOGÍA OPERATIVA DE TIPOS
+
+_Taxonomía corta y cerrada para no fragmentar metadata._
+
+- dashboard\`r
+- guia\`r
+- ema\`r
+- uente\`r
+- esis\`r
+- moc\`r
+- ctor\`r
+- concepto\`r
+- vento\`r
+- ideo\`r
+
+---
+
 ## ⚙️ ARQUITECTURA TL V.2
+
 Al crear una nueva nota en esta base de conocimiento, utilizá la herramienta `/scan` o `/tesis` para garantizar que la estructuración siga el Gradiente Epistémico (Axioma 11) y la Praxeología Forense (Axioma 2), linkeando siempre al Cui Bono final.
 
 ---
-*Versión: TL V.3 | Nodo Central: [[00_INDEX_FRAMEWORK_TL_V3]]*
 
+_Versión: TL V.3 | Nodo Central: [[00_MOC - Base de Conocimiento]]_

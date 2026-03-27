@@ -7,6 +7,7 @@ tier-primario: "b"
 nivel-evidencia: "medio"
 tags: [control, divide, operaciones, psicolgicas]
 ---
+
 # 🧠 MOC - Operaciones Psicológicas Y Control Social
 
 > [!WARNING] OBJETIVO
@@ -15,15 +16,17 @@ tags: [control, divide, operaciones, psicolgicas]
 ## 1. 📚 Conceptos Fundamentales
 
 ### Tácticas De Manipulación
+
 - [[Operaciones Psicológicas (PsyOps)]] - Marco teórico general
 - [[Divide y Vencerás (Estrategia)]] - Fragmentación de la mayoría
 - [[Problema-Reaccion-Solucion]] - Crear crisis para justificar "soluciones"
-- [[00_Glosario - Conceptos Fase 1#Gaslighting (Político)\|Gaslighting (Político)]] - Negar la realidad percibida
+- [[00_Glosario - Conceptos Fase 1#Gaslighting (Político)|Gaslighting (Político)]] - Negar la realidad percibida
 - [[Falsas Dicotomias]] - Limitar opciones de debate
 - [[Limited Hangout]] - Revelar poco para ocultar mucho
 - [[Oposicion Controlada]] - Gestionar la disidencia
 
 ### Fenómenos Sociales Manufacturados
+
 - [[Loops de Dopamina]] - Adicción digital diseñada
 - [[Espiral del Silencio]] - Autocensura por miedo
 - [[Silenciamiento de la Mayoria]] - Percepción falsa de minoría
@@ -33,15 +36,16 @@ tags: [control, divide, operaciones, psicolgicas]
 - [[Menticidio]] - Destrucción de la capacidad de pensar
 
 ### Tácticas Mediáticas
+
 - [[Alarmismo Coordinado]] - Miedo como herramienta
 - [[Manipulacion de Tendencias]] - Control de trending topics
 - [[Framing (Encuadre)]] - Cómo se presenta la información
 - [[Autopsia de Profecia]] - Profecías autocumplidas
 
-
 ## 2. 🕷️ Organizaciones Y Programas
 
 ### Históricos (Desclasificados)
+
 - [[MKUltra]] - Control mental CIA
 - [[COINTELPRO]] - Destrucción de movimientos
 - [[Operacion Mockingbird]] - Control de medios
@@ -49,17 +53,19 @@ tags: [control, divide, operaciones, psicolgicas]
 - [[Instituto Tavistock]] - Ingeniería social británica
 
 ### Contemporáneos
+
 - [[Cambridge Analytica]] - Warfare electoral
 - [[Brigada 77 (Modernizada)]] - PsyOps británica doméstica
 - [[JTRIG]] - Operaciones GCHQ online
 - [[Palantir]] - Inteligencia privatizada
 - [[NewsGuard]] - Gatekeeping de "verdad"
 
-
 ## Complejo Industrial De La Censura (The Blob)
-*La arquitectura revelada por los Twitter Files y Mike Benz.*
+
+_La arquitectura revelada por los Twitter Files y Mike Benz._
 
 ### Arquitectos (Tier B)
+
 - [[Mike Benz]] (Foundation for Freedom Online)
 - [[Renee DiResta]] (Stanford / CIA cut-out)
 - [[Nina Jankowicz]] (Mary Poppins / Disinfo Board)
@@ -69,67 +75,73 @@ tags: [control, divide, operaciones, psicolgicas]
 - [[Jen Easterly]] (CISA Director)
 
 ### Instituciones (La Maquinaria)
+
 - [[Global Engagement Center (GEC)]] (State Dept - Origen)
 - [[CISA (Cybersecurity and Infrastructure Security Agency)]] (Censura como Infraestructura)
-- [[Election Integrity Partnership\|Election Integrity Partnership (EIP)]] (Censura Electoral 2020)
+- [[Election Integrity Partnership|Election Integrity Partnership (EIP)]] (Censura Electoral 2020)
 - [[Virality Project]] (Censura COVID)
 - [[Hamilton 68]] (Falso dashboard de bots rusos)
 - [[Atlantic Council DFRLab]] (Narrativa OTAN)
 
-
 ## 3. 👤 Actores Clave
 
 ### Denunciantes/Confesores
+
 - [[Chamath Palihapitiya]] - Ex-Facebook, admitió diseño adictivo
 - [[Sean Parker]] - Facebook, "hackeo de cerebros"
 - [[Yuri Bezmenov]] - Subversión ideológica soviética
 
 ### Operadores
+
 - [[Steve Bannon]] - Guerra de información derecha
 - [[Robert Mercer]] - Financista de Cambridge Analytica
 - [[Dominic Cummings]] - Brexit y manipulación de datos
 
-
 ## 4. 🎭 Ecosistema MAGA (Caso De Estudio)
 
 ### Facciones Internas
+
 - [[Facciones MAGA]] - Los 4 grupos en tensión
 - [[Nacionalismo Cristiano]] - Base ideológica religiosa
 - [[Sionismo Cristiano]] - Teología pro-Israel
 
 ### Gatekeepers Y Control
+
 - [[Gatekeepers Conservadores]] - Límites del discurso permitido
 - [[Derecha Controlada]] - Conservative Inc.
-- [[00_Glosario - Conceptos Fase 1#Charlie Kirk\|Charlie Kirk]] - TPUSA y el incidente AIPAC
+- [[00_Glosario - Conceptos Fase 1#Charlie Kirk|Charlie Kirk]] - TPUSA y el incidente AIPAC
 - [[TPUSA (Turning Point USA)]] - Infraestructura juvenil
 
 ### Figuras Clave
+
 - [[Peter Thiel]] - El arquitecto tech
 - [[J.D. Vance]] - VP colocado por Thiel
 - [[Robert Mercer]] + [[Rebekah Mercer]] - Financistas
 
 ### Conexiones Controvertidas
-- [[Trump y Epstein (Cronología)]] - Relación documentada
-- [[Archivos Epstein (2026)\|Archivos Epstein (2024)]] - Liberación con redacciones
-- [[Honey Pot (Operación)]] - Mecanismo de control
 
+- [[Trump y Epstein (Cronología)]] - Relación documentada
+- [[Archivos Epstein (2026)|Archivos Epstein (2024)]] - Liberación con redacciones
+- [[Honey Pot (Operación)]] - Mecanismo de control
 
 ## 5. 💰 Follow the Money
 
 ### Financiamiento Político
+
 - [[AIPAC]] - Lobby pro-Israel
 - [[Dinero Oscuro (Dark Money)]] - Financiamiento oculto
 - [[Koch Network]]
 - [[Open Society Foundations]]
 
-
 ## 6. 🛠️ Herramientas Digitales
 
 ### Plataformas
-- [[00_Glosario - Conceptos Fase 1#Facebook (Orígenes)\|Facebook (Orígenes)]] - Diseño para adicción
+
+- [[00_Glosario - Conceptos Fase 1#Facebook (Orígenes)|Facebook (Orígenes)]] - Diseño para adicción
 - [[Rumble]] - ¿Alternativa real o controlada?
 
 ### Herramientas De Control Cognitivo (TL V.2)
+
 - [[Cognitive Warfare]] — La conquista del espacio mental
 - [[Manufacture of Consent 2.0]] — El algoritmo de la verdad
 - [[Dead Internet Theory]] — El desierto de lo sintético
@@ -142,19 +154,21 @@ tags: [control, divide, operaciones, psicolgicas]
 - [[Urbit 2026]] — El refugio o panóptico del Tier B tech
 
 ### Técnicas Clásicas
+
 - [[Capitalismo de Vigilancia]]
 - [[Sesgo Algoritmico]]
 - [[Gamificacion]]
 
-
 ## 7. 🛡️ Defensa Y Resistencia
 
 ### Reconocer Tácticas
+
 - Si estás más enojado con tu vecino que con el sistema, fuiste operado
 - Si todos los medios dicen lo mismo al mismo tiempo, es coordinación
 - Si no puedes nombrar ciertos temas sin ser etiquetado, hay un tabú protegido
 
 ### Acciones
+
 - [[Desobediencia Fiscal]]
 - [[No Comply (Movimiento)]]
 - [[Homeschooling (Éxodo Educativo)]]
@@ -166,17 +180,8 @@ tags: [control, divide, operaciones, psicolgicas]
 
 ## Generación Automática (Dataview)
 
-
-
-
-
-
-
-
-
-
-
 ## 🔍 NODOS DETECTADOS (AUDITORIA 2026)
+
 - [[Walter Lippmann]]
 - [[Tecnicas de Control Mental]]
 - [[Teoria del Internet Muerto (Dead Internet Theory)_LEGACY]]

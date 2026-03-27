@@ -7,6 +7,7 @@ nivel-evidencia: "medio"
 tags: [control, hakluyt, kroll, risks]
 publish: true
 ---
+
 # Control Risks
 
 > [!ABSTRACT] Ficha Técnica
@@ -14,26 +15,25 @@ publish: true
 > **Función Real:** Vínculo entre inteligencia británica y mundo corporativo.
 
 ## Servicios
+
 - Gestión de crisis
 - Seguridad corporativa
 - Investigaciones
 - Negociación de secuestros
 
 ## Historia
+
 Originalmente fundada con vínculos a Lloyd's de Londres para manejo de secuestros.
 
 Muchos ex militares y oficiales de inteligencia.
 
 ## Conexiones
+
 - [[Hakluyt and Company]]
 - [[Kroll]]
 - Inteligencia británica
 
 ## Fuentes
+
 - Control Risks website
 - Industry analysis
-
-
-
-
-

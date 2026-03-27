@@ -7,9 +7,11 @@ nivel-evidencia: "medio"
 tags: ["2006", guerra, hezbollah, lbano]
 publish: true
 ---
+
 # Guerra Del Líbano 2006
 
 ## Perfil TL (Resumen Ejecutivo)
+
 **¿Qué fue?** Un conflicto armado que duró 34 días entre el ejército de Israel y la organización Hezbollah en territorio libanés.
 
 **¿Por qué importa?** La Guerra del Líbano de 2006 es el **estreno de la Guerra Asimétrica de Alta Tecnología contra un Estado-Nación**. Hezbollah (Tier B regional apoyado por Irán) humilló al ejército israelí (IDF), demostrando que una organización no estatal bien entrenada podía neutralizar la superioridad blindada y aérea convencional. Para el Tier A transatlántico (especialmente los neoconservadores de EE.UU.), esta guerra era vista como los **"dolores de parto de un nuevo Medio Oriente"** (frase de Condoleezza Rice), un intento de rediseñar las fronteras regionales mediante la destrucción de los activos de Irán. El fracaso de Israel en destruir a Hezbollah marcó el fin de la era del "Gran Israel" expansivo y el inicio de una era de disuasión mutua y guerra de túneles que dura hasta hoy.
@@ -17,18 +19,22 @@ publish: true
 ## Análisis De Poder (Tiers)
 
 ### Tier A (Los Diseñadores Del "Caos Constructivo")
-*   **Proyecto para un Nuevo Siglo Americano (PNAC):** El Tier A neocon utilizó a Israel como el brazo ejecutor para intentar eliminar a Hezbollah y, posteriormente, atacar a Irán. El objetivo era el control total de la cuenca del Mediterráneo Oriental.
-*   **Destrucción de Infraestructura Civil:** El Tier A permitió el bombardeo sistemático de puentes, aeropuertos y centrales eléctricas en el Líbano para aplicar la "teoría de la disuasión por castigo" sobre la población de Tier C.
+
+- **Proyecto para un Nuevo Siglo Americano (PNAC):** El Tier A neocon utilizó a Israel como el brazo ejecutor para intentar eliminar a Hezbollah y, posteriormente, atacar a Irán. El objetivo era el control total de la cuenca del Mediterráneo Oriental.
+- **Destrucción de Infraestructura Civil:** El Tier A permitió el bombardeo sistemático de puentes, aeropuertos y centrales eléctricas en el Líbano para aplicar la "teoría de la disuasión por castigo" sobre la población de Tier C.
 
 ### Tier B (Operadores / Hezbollah E Inteligencia Israelí)
-*   **Hezbollah (Hassan Nasrallah):** Operadores de Tier B que utilizaron tácticas de guerrilla 2.0 (misiles antitanque Kornet, escuchas de inteligencia avanzadas) para frenar la invasión terrestre, rompiendo el mito de la invencibilidad del tanque Merkava.
-*   **Ehud Olmert / Dan Halutz:** Líderes de Tier B de Israel que lanzaron la guerra sin objetivos claros, operando bajo la presión de EE.UU. para entregar una victoria rápida que nunca llegó.
+
+- **Hezbollah (Hassan Nasrallah):** Operadores de Tier B que utilizaron tácticas de guerrilla 2.0 (misiles antitanque Kornet, escuchas de inteligencia avanzadas) para frenar la invasión terrestre, rompiendo el mito de la invencibilidad del tanque Merkava.
+- **Ehud Olmert / Dan Halutz:** Líderes de Tier B de Israel que lanzaron la guerra sin objetivos claros, operando bajo la presión de EE.UU. para entregar una victoria rápida que nunca llegó.
 
 ### Tier C (Narrativa Pública)
-*   "Guerra defensiva contra terroristas que secuestran soldados". "Resistencia heroica contra la agresión sionista". Narrativas que dividieron al Tier C global mientras los civiles libaneses y los residentes del norte de Israel ponían los muertos y los hogares destruidos. El Tier C libanés sufrió el desplazamiento de un millón de personas, convirtiéndose en el rehén de un conflicto de Tier A que se jugaba sobre sus cabezas.
+
+- "Guerra defensiva contra terroristas que secuestran soldados". "Resistencia heroica contra la agresión sionista". Narrativas que dividieron al Tier C global mientras los civiles libaneses y los residentes del norte de Israel ponían los muertos y los hogares destruidos. El Tier C libanés sufrió el desplazamiento de un millón de personas, convirtiéndose en el rehén de un conflicto de Tier A que se jugaba sobre sus cabezas.
 
 ## Conexiones Clave
-- [[00_Glosario - Conceptos Fase 1#Hezbollah\|Hezbollah]] (El actor asimétrico de Tier B)
+
+- [[00_Glosario - Conceptos Fase 1#Hezbollah|Hezbollah]] (El actor asimétrico de Tier B)
 - [[Benjamin Netanyahu / Neocons]] (La ideología de fondo)
 - [[Irán (Geopolítica)]] (El patrocinador estratégico)
 - [[Guerra de Gaza]] (La evolución de las mismas tácticas)

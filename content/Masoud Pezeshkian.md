@@ -14,11 +14,14 @@ tags: [iran, presidente, teatro-politico]
 > **Función Real:** Gestor administrativo y cara visible del régimen para la estabilización interna y externa.
 
 ## 🔎 Análisis Forense
+
 Dentro de la taxonomía TL, Pezeshkian opera en el Tier C (Teatro). Aunque su elección fue presentada como un "giro reformista", la estructura de poder real sigue residiendo en el Tier B ([[Ali Khamenei]] e IRGC). Su utilidad sistémica es la normalización de relaciones comerciales internacionales.
 
 ## ⛓️ Conexiones
+
 - **[[Ali Khamenei]]**: Subordinado jerárquico.
 - **[[Abbas Araghchi]]**: Su ejecutor diplomático clave.
 
 ---
-*TL V.3 | 2026-03-04*
+
+_TL V.3 | 2026-03-04_

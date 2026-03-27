@@ -7,6 +7,7 @@ nivel-evidencia: "medio"
 tags: [disney, iger]
 publish: true
 ---
+
 # Bob Iger
 
 > [!INFO] Perfil Operativo (Tier B)
@@ -14,7 +15,9 @@ publish: true
 > **Función Real:** Ejecutor de agenda cultural woke en entretenimiento infantil.
 
 ## Biografía
+
 Bob Iger transformó Disney comprando:
+
 - **Pixar** (2006)
 - **Marvel** (2009)
 - **Lucasfilm/Star Wars** (2012)
@@ -23,20 +26,18 @@ Bob Iger transformó Disney comprando:
 Renunció en 2020, volvió en 2022 cuando su sucesor (Chapek) fracasó.
 
 ## Âš ï¸ Controversias
+
 - Contenido "woke" alienando audiencias
 - Pérdidas millonarias en streaming
 - Conflicto con Florida (DeSantis) por Ley "Don't Say Gay"
 
 ## Conexiones
+
 - [[Disney]]
 - Hollywood establishment
 - Partido Demócrata (donante)
 
 ## Fuentes
+
 - SEC filings
 - "The Ride of a Lifetime" (autobiografía)
-
-
-
-
-

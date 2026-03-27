@@ -7,26 +7,27 @@ nivel-evidencia: "medio"
 tags: [enemigo, feind, freund, realismo]
 publish: true
 ---
+
 # Amigo-Enemigo (Freund-Feind)
 
 ## Resumen General
-**Carl Schmitt**, el jurista alemán (y nazi), definió en *El Concepto de lo Político* que la esencia de la política es la distinción **Amigo-Enemigo**. No se trata de debate, moral o economía; se trata de identificar a un grupo existencialmente hostil y unificar al propio grupo para combatirlo. Un soberano que no puede definir a su enemigo, no es soberano.
+
+**Carl Schmitt**, el jurista alemán (y nazi), definió en _El Concepto de lo Político_ que la esencia de la política es la distinción **Amigo-Enemigo**. No se trata de debate, moral o economía; se trata de identificar a un grupo existencialmente hostil y unificar al propio grupo para combatirlo. Un soberano que no puede definir a su enemigo, no es soberano.
 
 ## Análisis Terapia Liberal (Cui Bono)
+
 ### Tier A (Beneficiarios)
-*   **Realismo Político:** Las élites entienden esto perfectamente. Ellos son "Amigos" entre sí (conciencia de clase); nosotros somos el "Enemigo" (o el recurso). La población cree en el debate liberal, pero la élite practica la guerra schmittiana.
+
+- **Realismo Político:** Las élites entienden esto perfectamente. Ellos son "Amigos" entre sí (conciencia de clase); nosotros somos el "Enemigo" (o el recurso). La población cree en el debate liberal, pero la élite practica la guerra schmittiana.
 
 ## Puntos Clave
-*   **El Fin de la Política Liberal:** El liberalismo intenta negar el conflicto existencial (todo se resuelve dialogando). Schmitt dice que eso es una fantasía suicida.
-*   **Polarización:** Hoy se usa para crear enemigos internos artificiales y mantener a la población dividida.
+
+- **El Fin de la Política Liberal:** El liberalismo intenta negar el conflicto existencial (todo se resuelve dialogando). Schmitt dice que eso es una fantasía suicida.
+- **Polarización:** Hoy se usa para crear enemigos internos artificiales y mantener a la población dividida.
 
 ## Conexiones
+
 - [[Carl Schmitt]]
 - [[Realismo Político]]
-- [[00_Glosario - Conceptos Fase 1#Guerra Híbrida\|Guerra Híbrida]]
-- [[Dolarización\|Polarización]]
-
-
-
-
-
+- [[00_Glosario - Conceptos Fase 1#Guerra Híbrida|Guerra Híbrida]]
+- [[Dolarización|Polarización]]

@@ -7,32 +7,39 @@ nivel-evidencia: "medio"
 tags: [alberto, caba, fallo, nacin]
 publish: true
 ---
+
 # El Fallo De La Corte Por La Coparticipación (CABA Vs Nación)
 
 ## Perfil TL (Resumen Ejecutivo)
-**¿Qué pasó?** La Corte Suprema de Justicia de la Nación dictó una medida cautelar ordenando al Gobierno Nacional de **[[00_Glosario - Conceptos Fase 1#Alberto Fernández\|Alberto Fernández]]** devolverle a la Ciudad de Buenos Aires parte de los fondos de coparticipación que le habían sido quitados por decreto para financiar un aumento salarial a la policía bonaerense de **[[Axel Kicillof]]**.
+
+**¿Qué pasó?** La Corte Suprema de Justicia de la Nación dictó una medida cautelar ordenando al Gobierno Nacional de **[[00_Glosario - Conceptos Fase 1#Alberto Fernández|Alberto Fernández]]** devolverle a la Ciudad de Buenos Aires parte de los fondos de coparticipación que le habían sido quitados por decreto para financiar un aumento salarial a la policía bonaerense de **[[Axel Kicillof]]**.
 
 **¿Por qué importa?** Este fallo representó el **momento de "Desobediencia Abierta" del Tier B político hacia el orden constitucional**. El Presidente, presionado por el kirchnerismo duro, declaró que el fallo era de "fallecimiento imposible" y amagó con no cumplirlo, lo que constituyó un quiebre de facto de la división de poderes. Es un caso testigo de cómo el Tier B peronista considera la "voluntad política" (y la necesidad de financiar sus feudos territoriales) como una jerarquía superior a la ley. La resolución del conflicto (pagar con bonos de deuda y no con efectivo) fue un parche técnico que no ocultó la fragilidad absoluta del Estado de Derecho frente a la voracidad de la caja política.
 
 ## Análisis De Poder (Tiers)
 
 ### Tier A (La Matriz Unitaria De Fondos)
-*   **Financiamiento del Conurbano:** El Tier A político-sindical centralizó los recursos en la Provincia de Buenos Aires para asegurar la supervivencia del proyecto kirchnerista. Quitarle fondos a CABA fue un acto de "expropiación política" para sostener la gobernabilidad en el territorio más volátil del país.
+
+- **Financiamiento del Conurbano:** El Tier A político-sindical centralizó los recursos en la Provincia de Buenos Aires para asegurar la supervivencia del proyecto kirchnerista. Quitarle fondos a CABA fue un acto de "expropiación política" para sostener la gobernabilidad en el territorio más volátil del país.
 
 ### Tier B (Operadores / El Ejecutivo Vs La Corte)
-*   **Alberto Fernández y Kicillof:** Actuaron como los operadores que desafiaron el sistema judicial para no perder el control de la caja de seguridad. Su retórica de "federalismo" fue la máscara para tapar un agujero financiero causado por la mala gestión provincial.
-*   **La Corte Suprema:** Se posicionó como el último dique de contención legal del sistema republicano, aunque su poder quedó limitado por la capacidad del Ejecutivo de simplemente ignorar los tiempos y formas de los pagos.
+
+- **Alberto Fernández y Kicillof:** Actuaron como los operadores que desafiaron el sistema judicial para no perder el control de la caja de seguridad. Su retórica de "federalismo" fue la máscara para tapar un agujero financiero causado por la mala gestión provincial.
+- **La Corte Suprema:** Se posicionó como el último dique de contención legal del sistema republicano, aunque su poder quedó limitado por la capacidad del Ejecutivo de simplemente ignorar los tiempos y formas de los pagos.
 
 ### Tier C (Narrativa Pública)
-*   "Fondos para la seguridad" vs. "Robo a la Ciudad". La narrativa oficial vendió el conflicto como una lucha entre los "ricos de la capital" y los "pobres de la provincia", ocultando que se trataba de una disputa por la discrecionalidad del manejo de los impuestos federales.
+
+- "Fondos para la seguridad" vs. "Robo a la Ciudad". La narrativa oficial vendió el conflicto como una lucha entre los "ricos de la capital" y los "pobres de la provincia", ocultando que se trataba de una disputa por la discrecionalidad del manejo de los impuestos federales.
 
 ## Conexiones Clave
+
 - [[Corte Suprema de Justicia (CSJN)]] (El árbitro ignorado)
 - [[Horacio Rodríguez Larreta]] (El reclamante)
 - [[Axel Kicillof]] (El beneficiario del despojo inicial)
 - [[Coparticipación Federal]] (El botín de guerra permanente)
 
 ## Fuentes
+
 - Fallo CSJN: "Gobierno de la Ciudad de Buenos Aires c/ Estado Nacional s/ acción declarativa de inconstitucionalidad".
 - Comunicados de la Asociación de Magistrados tras los dichos de Alberto Fernández.
 - Análisis económicos sobre la quita de puntos de coparticipación (2020-2022).

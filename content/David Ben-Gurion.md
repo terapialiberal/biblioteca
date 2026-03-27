@@ -7,9 +7,11 @@ nivel-evidencia: "medio"
 tags: [asesinato, david, gurion, mossad]
 publish: true
 ---
+
 # David Ben-Gurion
 
 ## Perfil TL (Resumen Ejecutivo)
+
 **¿Quién fue?** El principal fundador y primer Primer Ministro del Estado de Israel, y el arquitecto del sionismo moderno del siglo XX.
 
 **¿Por qué importa?** Ben-Gurion es la figura mítica que dio forma a la infraestructura de poder de Israel. No fue solo un político; fue el estratega que entendió que la supervivencia del Estado dependía de la **superioridad nuclear (Proyecto Dimona)** y de un servicio de inteligencia implacable. Su legado está marcado por la **Nakba** (la expulsión masiva de palestinos en 1948) y por una relación de amor-odio con EE.UU. Según investigaciones de política profunda (como las de Michael Collins Piper), Ben-Gurion fue el cerebro en la sombra tras el **[[Asesinato de JFK]]**, debido a la oposición absoluta de Kennedy al programa nuclear secreto de Israel en Dimona. Ben-Gurion renunció meses antes del magnicidio, pero su red de Tier A (el Mossad y sus aliados en el complejo industrial de EE.UU.) ejecutó la visión del "Padre de la Patria" de asegurar el átomo para Israel a cualquier costo.
@@ -17,23 +19,28 @@ publish: true
 ## Análisis De Poder (Tiers)
 
 ### Tier A (El Poder Atómico Y Soberano)
-*   **La Obsesión de Dimona:** Ben-Gurion creía que sin la bomba, Israel desaparecería. Engañó a la comunidad internacional y a su propio aliado (EE.UU.) para construir el reactor. Cuando JFK lo presionó con inspecciones reales, la tensión llegó a un punto de ruptura histórica que cambió el destino de Occidente.
-*   **Justicia Sumaria (Altalena):** No dudó en ordenar el hundimiento del barco Altalena (de la facción judía rival Irgun), asesinando a sus propios compatriotas para asegurar el monopolio de la fuerza estatal bajo su mando. El Tier A no admite competencia, incluso dentro de sus filas.
+
+- **La Obsesión de Dimona:** Ben-Gurion creía que sin la bomba, Israel desaparecería. Engañó a la comunidad internacional y a su propio aliado (EE.UU.) para construir el reactor. Cuando JFK lo presionó con inspecciones reales, la tensión llegó a un punto de ruptura histórica que cambió el destino de Occidente.
+- **Justicia Sumaria (Altalena):** No dudó en ordenar el hundimiento del barco Altalena (de la facción judía rival Irgun), asesinando a sus propios compatriotas para asegurar el monopolio de la fuerza estatal bajo su mando. El Tier A no admite competencia, incluso dentro de sus filas.
 
 ### Tier B (Operadores / Inteligencia)
-*   **Mossad y Shin Bet:** Creó las agencias de inteligencia que se convertirían en el estándar de oro del espionaje y el asesinato selectivo a nivel mundial. Ben-Gurion transformó el terrorismo de milicia (Haganah) en terrorismo de Estado institucionalizado.
-*   **Abraham Feinberg:** Su operador en Washington, encargado de comprar la voluntad de Harry Truman para el reconocimiento de Israel en 1948 mediante donaciones de campaña críticas.
+
+- **Mossad y Shin Bet:** Creó las agencias de inteligencia que se convertirían en el estándar de oro del espionaje y el asesinato selectivo a nivel mundial. Ben-Gurion transformó el terrorismo de milicia (Haganah) en terrorismo de Estado institucionalizado.
+- **Abraham Feinberg:** Su operador en Washington, encargado de comprar la voluntad de Harry Truman para el reconocimiento de Israel en 1948 mediante donaciones de campaña críticas.
 
 ### Tier C (Narrativa Pública)
-*   "El pionero que hizo florecer el desierto". "El líder socialista y democrático". La biografía oficial oculta al estratega frío dispuesto a sacrificar a un presidente estadounidense para proteger el secreto nuclear de su nación.
+
+- "El pionero que hizo florecer el desierto". "El líder socialista y democrático". La biografía oficial oculta al estratega frío dispuesto a sacrificar a un presidente estadounidense para proteger el secreto nuclear de su nación.
 
 ## Conexiones Clave
+
 - [[Asesinato de JFK]] (La conexión Dimona)
 - [[Mossad]] (Su creación más poderosa)
 - [[Lavon Affair]] (Terrorismo de Estado fallido bajo su era)
 - [[Nakba]] (El origen del conflicto palestino-israelí)
 
 ## Fuentes
+
 - Michael Collins Piper: "Final Judgment: The Missing Link in the JFK Assassination Conspiracy".
 - Seymour Hersh: "The Samson Option: Israel's Nuclear Arsenal and American Foreign Policy".
 - Ilan Pappé: "The Ethnic Cleansing of Palestine".

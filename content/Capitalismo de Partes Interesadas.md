@@ -7,9 +7,11 @@ nivel-evidencia: "medio"
 tags: [blackrock, capitalismo, interesadas, stakeholder]
 publish: true
 ---
+
 # Capitalismo De Partes Interesadas (Stakeholder Capitalism)
 
 ## Perfil TL (Resumen Ejecutivo)
+
 **¿Qué es?** El modelo económico oficial del **Foro Económico Mundial (WEF)**. Propone que las corporaciones no deben responder solo a sus accionistas, sino a la "sociedad" (gobiernos, ONGs, medio ambiente).
 
 **¿Por qué importa?** Es la **muerte del libre mercado** y el nacimiento del **Tecno-Fascismo**. Bajo esta fachada humanitaria, las corporaciones se convierten en brazos ejecutores del Estado (y viceversa). Permite a la élite de Davos imponer agendas políticas (ESG, censura, mandatos) a través de empresas privadas, saltándose los procesos democráticos y constitucionales. Es la fusión absoluta entre el poder corporativo y el poder político para el control total de la biomasa humana.
@@ -17,22 +19,27 @@ publish: true
 ## Análisis De Poder (Tiers)
 
 ### Tier A (El Directorio Global)
-*   **Gobierno Privado:** Instituciones como [[BlackRock]] usan este modelo para obligar a las empresas a seguir directrices de ingeniería social (Woke, Descarbonización forzada) bajo amenaza de retirarles el capital (Puntaje ESG). Es la tiranía externalizada a los balances contables.
-*   **Klaus Schwab:** El arquitecto que ha normalizado la idea de que los CEOs deben ser los nuevos "administradores de la sociedad".
+
+- **Gobierno Privado:** Instituciones como [[BlackRock]] usan este modelo para obligar a las empresas a seguir directrices de ingeniería social (Woke, Descarbonización forzada) bajo amenaza de retirarles el capital (Puntaje ESG). Es la tiranía externalizada a los balances contables.
+- **Klaus Schwab:** El arquitecto que ha normalizado la idea de que los CEOs deben ser los nuevos "administradores de la sociedad".
 
 ### Tier B (Operadores / Gestores De Narrativa)
-*   **CEOs Tecnócratas:** Figuras que aplican cuotas y censura en sus plataformas, no por beneficio económico, sino por obediencia al sistema de crédito social corporativa que es el Stakeholder Capitalism.
+
+- **CEOs Tecnócratas:** Figuras que aplican cuotas y censura en sus plataformas, no por beneficio económico, sino por obediencia al sistema de crédito social corporativa que es el Stakeholder Capitalism.
 
 ### Tier C (Narrativa Pública)
-*   "Empresas con propósito". "Responsabilidad social corporativa". "Sostenibilidad e Inclusión". Retórica de marketing diseñada para que la población agradezca que las empresas le digan cómo vivir, qué pensar y qué comer.
+
+- "Empresas con propósito". "Responsabilidad social corporativa". "Sostenibilidad e Inclusión". Retórica de marketing diseñada para que la población agradezca que las empresas le digan cómo vivir, qué pensar y qué comer.
 
 ## Conexiones Clave
+
 - [[World Economic Forum]] (La fuente)
 - [[Klaus Schwab]] (El autor)
 - [[BlackRock]] (El ejecutor)
 - [[ESG (Environmental, Social, Governance)]] (El mecanismo de control)
 
 ## Fuentes
+
 - Klaus Schwab: "Stakeholder Capitalism: A Global Economy that Works for Progress, People and Planet".
 - Vivek Ramaswamy: "Woke, Inc.".
 - Michael Rectenwald: "The Great Reset and the Struggle for Liberty".

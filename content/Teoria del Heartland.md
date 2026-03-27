@@ -7,19 +7,22 @@ nivel-evidencia: "medio"
 tags: [heartland, teora, zbigniew]
 publish: true
 ---
+
 # Teoría Del Heartland
 
 ## Resumen Ejecutivo
+
 **¿Qué es?** La teoría fundacional de la geopolítica moderna, presentada por Sir Halford Mackinder en 1904.
 Divide el mundo en:
-1.  **Isla Mundial (World-Island):** Europa, Asia y África unidas. El 70% de la población y recursos del mundo.
-2.  **Heartland (Corazón Continental):** La zona pivote inaccessible por mar (Rusia/Siberia/Asia Central).
-3.  **Creciente Exterior:** Las islas y continentes periféricos (EEUU, UK, Japón, Australia).
+
+1. **Isla Mundial (World-Island):** Europa, Asia y África unidas. El 70% de la población y recursos del mundo.
+2. **Heartland (Corazón Continental):** La zona pivote inaccessible por mar (Rusia/Siberia/Asia Central).
+3. **Creciente Exterior:** Las islas y continentes periféricos (EEUU, UK, Japón, Australia).
 
 **La Fórmula del Poder:**
-*"Quien gobierne Europa del Este dominará el Heartland.*
-*Quien gobierne el Heartland dominará la Isla Mundial.*
-*Quien gobierne la Isla Mundial dominará el Mundo."*
+_"Quien gobierne Europa del Este dominará el Heartland._
+_Quien gobierne el Heartland dominará la Isla Mundial._
+_Quien gobierne la Isla Mundial dominará el Mundo."_
 
 **¿Por qué importa?**
 Explica **Miedo Eterno de los Anglosajones (OTAN)**: Que Alemania (tecnología/industria) y Rusia (recursos/tierra) se unan.
@@ -29,21 +32,20 @@ Toda la política exterior de EEUU (WWI, WWII, Guerra Fría, Ucrania hoy) se tra
 ## Análisis (Tiers)
 
 ### Tier A (Pesadilla Marítima)
+
 - **Bloqueo:** Las potencias marítimas (Talastocracias) no pueden conquistar el Heartland por mar. Su única estrategia es rodearlo ("Rimland") y balcanizarlo desde adentro.
 - **Ruta de la Seda:** La iniciativa Belt and Road de China es el intento moderno de unificar la Isla Mundial por tren, haciendo obsoleto el comercio marítimo que controla EEUU.
 
 ### Tier C (Narrativa)
+
 - "Lucha por la democracia en Eurasia"
 
 ## Conexiones
+
 - [[Zbigniew Brzezinski]] (Adaptó esto para EEUU)
 - [[Teoría del Rimland]]
 - [[Belt and Road Initiative (BRI)]]
 
 ## Fuentes
+
 - "The Geographical Pivot of History" - Halford Mackinder.
-
-
-
-
-

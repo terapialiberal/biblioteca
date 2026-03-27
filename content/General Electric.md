@@ -7,9 +7,11 @@ nivel-evidencia: "medio"
 tags: [desindustrializacin, electric, financiarizacin]
 publish: true
 ---
+
 # General Electric (GE)
 
 ## Perfil TL (Resumen Ejecutivo)
+
 **¿Qué es?** Históricamente, el conglomerado industrial más icónico de EE.UU., fundado por la unión de las patentes de Thomas Edison y el capital de J.P. Morgan.
 
 **¿Por qué importa?** General Electric es el **caso de estudio de Tier B sobre la destrucción de la economía real mediante la "Financiarización" de Tier A**. Bajo el mando de **Jack Welch** en los 80 y 90, GE dejó de ser una empresa que fabricaba cosas (motores, lámparas, electrodomésticos) para convertirse en un **banco disfrazado de empresa industrial (GE Capital)**. Este cambio de Tier B operativo reflejó el diseño de Tier A para EE.UU.: abandonar la base industrial nacional y pasar a una economía basada en la manipulación de activos financieros y deudas. GE se convirtió en el "maestro de las sombras" contables, reportando ganancias récord mediante trucos financieros mientras cerraba fábricas y despedía a miles de trabajadores de Tier C. Su colapso final y división en 2021-2024 marca el final de la era de los conglomerados americanos y la victoria total del capital financiero especulativo sobre la producción física.
@@ -17,17 +19,21 @@ publish: true
 ## Análisis De Poder (Tiers)
 
 ### Tier A (Los Dueños De La Liquidez)
-*   **J.P. Morgan y el Origen:** GE nació de la fusión entre el genio (Edison) y el banquero (Morgan). El Tier A financiero siempre tuvo el control final, utilizando a GE como un vehículo para consolidar el monopolio eléctrico y luego como un motor de ingeniería financiera global.
-*   **El Modelo de "Valor para el Accionista":** El Tier A impuso la doctrina de que lo único que importa es el precio de la acción mañana por la mañana, forzando a GE a canibalizar su propio futuro (I+D) para pagar dividendos masivos a los fondos de inversión de Wall Street.
+
+- **J.P. Morgan y el Origen:** GE nació de la fusión entre el genio (Edison) y el banquero (Morgan). El Tier A financiero siempre tuvo el control final, utilizando a GE como un vehículo para consolidar el monopolio eléctrico y luego como un motor de ingeniería financiera global.
+- **El Modelo de "Valor para el Accionista":** El Tier A impuso la doctrina de que lo único que importa es el precio de la acción mañana por la mañana, forzando a GE a canibalizar su propio futuro (I+D) para pagar dividendos masivos a los fondos de inversión de Wall Street.
 
 ### Tier B (Operadores / Jack Welch Y Los "Neutron Jacks")
-*   **Jack Welch:** El operador de Tier B más famoso (y destructivo). Inventó el modelo de "Neutron Jack" (dejar los edificios pero eliminar a la gente), priorizando el recorte de costos y la ingeniería contable sobre la calidad del producto. Su legado fue una generación de CEOs que destruyeron el tejido industrial de EE.UU.
-*   **GE Capital:** El brazo financiero que llegó a representar el 60% de las ganancias de GE. Actuaba como un banco en la sombra que financiaba desde tarjetas de crédito hasta aviones, permitiendo a GE manipular sus reportes de ganancias con una opacidad total ante los reguladores.
+
+- **Jack Welch:** El operador de Tier B más famoso (y destructivo). Inventó el modelo de "Neutron Jack" (dejar los edificios pero eliminar a la gente), priorizando el recorte de costos y la ingeniería contable sobre la calidad del producto. Su legado fue una generación de CEOs que destruyeron el tejido industrial de EE.UU.
+- **GE Capital:** El brazo financiero que llegó a representar el 60% de las ganancias de GE. Actuaba como un banco en la sombra que financiaba desde tarjetas de crédito hasta aviones, permitiendo a GE manipular sus reportes de ganancias con una opacidad total ante los reguladores.
 
 ### Tier C (Narrativa Pública)
-*   "Traemos cosas buenas a la vida". "Imaginación trabajando". Narrativas de progreso tecnológico que mantuvieron al público de Tier C confiado mientras sus empleos eran enviados al extranjero y la empresa se convertía en un casino financiero que finalmente explotó.
+
+- "Traemos cosas buenas a la vida". "Imaginación trabajando". Narrativas de progreso tecnológico que mantuvieron al público de Tier C confiado mientras sus empleos eran enviados al extranjero y la empresa se convertía en un casino financiero que finalmente explotó.
 
 ## Conexiones Clave
+
 - [[J.P. Morgan / JPMorgan Chase]] (Su padre financiero)
 - [[Financiarización de la Economía]] (Su proceso vital)
 - [[Desindustrialización de EE.UU.]] (Su consecuencia final)

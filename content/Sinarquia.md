@@ -16,24 +16,30 @@ publish: true
 ## Análisis De Tiers
 
 ### Tier A (Los Dueños)
+
 - **Incentivo**: Eliminar la fricción política. Para el Tier A, la sinarquía es el modelo ideal de gobierno, ya que desactiva los conflictos de clase y nacionales al transferir todas las decisiones críticas a consejos técnicos que operan por encima de los partidos políticos.
 
 ### Tier B (Operadores / Ejecutores)
+
 - **Movimiento Sinárquico de Imperio (MSE)**: En la Francia del siglo XX, se detectó una red de ejecutivos de industria y banca (como el Banco Worms) que intentaban implementar este modelo.
 - **Unión Europea**: Muchos analistas ven en la Comisión Europea (no electa) la implementación práctica de la sinarquía administrativa de Tier B.
 
 ### Tier C (El Teatro / Percepción)
+
 - "Gobierno colaborativo" o "Alianza de actores". Términos suaves para ocultar la eliminación de la soberanía popular frente al experto.
 
 ## Conexiones Críticas
+
 - [[Tecnocracia]]: La evolución moderna de la sinarquía.
 - [[Comisión Trilateral]]: El foro de coordinación sinárquico por excelencia.
 - [[Banco Worms]]: El brazo financiero histórico de la red en Francia.
 
 ## Cui Bono
+
 ¿Quién gana? Los **Grandes Administradores de Activos**. La sinarquía asegura que el capital fluya sin las interrupciones que causan los procesos electorales o la voluntad popular.
 
 ---
+
 **Versión:** 1.0
 **Enfoque:** Teoría de gobierno tecnocrático y control administrativo.
 **Estado:** 2026-02-25 | Informe Activo

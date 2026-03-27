@@ -7,6 +7,7 @@ nivel-evidencia: "medio"
 tags: [carlos, crisis, domingo, menem]
 publish: true
 ---
+
 # Carlos Menem
 
 > [!INFO] Perfil Operativo (Tier C)
@@ -14,31 +15,32 @@ publish: true
 > **Función Real:** Ejecutor del Consenso de Washington en Argentina.
 
 ## Biografía
+
 Carlos Menem gobernó Argentina durante década (1989-1999).
 
 Políticas:
+
 - **Convertibilidad** (1 peso = 1 dólar)
 - Privatizaciones masivas (YPF, Aerolíneas, etc.)
 - Alineamiento con EEUU
 - Indultos a militares
 
 ## Âš ï¸ Escándalos
+
 - AMIA (encubrimiento)
 - Venta de armas a Croacia/Ecuador
 - Corrupción generalizada
 
 ## Legado
+
 Su modelo terminó en la [[Crisis de 2001]].
 
 ## Conexiones
+
 - [[Domingo Cavallo]] (Ministro de Economía)
 - FMI
 - Círculos sirio-libaneses
 
 ## Fuentes
+
 - Historia argentina contemporánea
-
-
-
-
-

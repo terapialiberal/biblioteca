@@ -12,7 +12,6 @@ tags:
   - ministerio-finanzas
 ---
 
-
 # Bezalel Smotrich — El E-3 que Controla el Presupuesto de Israel
 
 > [!CAUTION] MODELO E-3: ACELERADOR ACTIVO
@@ -50,6 +49,7 @@ Smotrich es potencialmente más peligroso a largo plazo porque su proceso es **g
 ## 💰 Cui Bono en su Agenda
 
 La anexión efectiva de Cisjordania:
+
 - Captura el **acuífero de montaña** (30% del agua que consume Israel)
 - Captura los **depósitos de gas shale** de la Ribera Occidental
 - Elimina la posibilidad de un Estado palestino viable → elimina la condición que Arabia Saudita puso para la normalización → **pone en riesgo el IMEC**
@@ -70,4 +70,4 @@ Esto lo convierte en un actor cuya agenda objetivo choca con los intereses de Ti
 
 **Gradiente:** ✅ Declaraciones documentadas / ✅ Cargo en Administración Civil Cisjordania documentado / ✅ Políticas de asentamiento documentadas / 🔶 Grado de agencia sobre acuífero y recursos
 
-*TL-INTEL v12.0 | 2026-03-12*
+_TL-INTEL v12.0 | 2026-03-12_

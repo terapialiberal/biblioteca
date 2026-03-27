@@ -7,9 +7,11 @@ nivel-evidencia: "medio"
 tags: [china, cobalto, cuarta, sangre]
 publish: true
 ---
+
 # Cobalto De Sangre
 
 ## Resumen Ejecutivo
+
 **¿Qué es?** El cobalto estabiliza las baterías de litio para que no se incendien.
 El **70% del cobalto mundial** viene de un solo país: República Democrática del Congo (RDC).
 La mayoría de las minas en RDC son propiedad de empresas chinas.
@@ -22,17 +24,15 @@ Las Big Tech (Apple, Google, Tesla, Microsoft) saben esto, pero hacen lobby para
 ## Análisis (Tiers)
 
 ### Tier A (El Corazón De Las Tinieblas 2.0)
+
 - **Neocolonialismo:** China ha replicado el modelo del Rey Leopoldo II, pero de forma eficiente. A cambio de carreteras y estadios, se llevan la riqueza mineral del país dejando a la población en la miseria absoluta.
 
 ## Conexiones
+
 - [[China en África]]
 - [[Cuarta Revolución Industrial]]
 - [[Apple]]
 
 ## Fuentes
+
 - "Cobalt Red" - Siddharth Kara.
-
-
-
-
-

@@ -16,12 +16,15 @@ publish: true
 ## Análisis Forense
 
 ### 1. La Guerra Como Negocio
+
 - Marte asegura que el conflicto nunca termine realmente; solo cambia de geografía. El Tier A utiliza a Marte para desestabilizar el Rimland y capturar recursos mediante la "conquista técnica".
 
 ### 2. Marte En La Percepción De Tier C
+
 - Se le vende al Tier C como "honor" o "victoria", cuando forensemente es una **Transferencia de Riqueza** desde los contribuyentes hacia los dueños de las fábricas de armas (Tier A).
 
 ---
+
 **Versión:** 1.0
 **Enfoque:** Ciclos de destrucción y lucro mediante el conflicto organizado.
 **Estado:** 2026-02-25 | Informe Activo

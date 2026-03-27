@@ -7,6 +7,7 @@ tier-primario: "b"
 nivel-evidencia: "medio"
 tags: [00-moc, deepmind, openai, tecnologa]
 ---
+
 # 🤖 MOC — TECNOLOGÍA DE CONTROL
 
 > **Doctrina final (Mecanismo de Extracción TL-INTEL)**: No es fascismo ni comunismo.
@@ -15,6 +16,7 @@ tags: [00-moc, deepmind, openai, tecnologa]
 ## 🧠 INTELIGENCIA ARTIFICIAL (El Nuevo Poder)
 
 ### Los Actores Clave
+
 - [[OpenAI]] / [[La Pelea por OpenAI]] — La disputa por la IA más poderosa
 - [[OpenAI Orion]] — El modelo siguiente en la carrera
 - [[DeepMind]] / [[Demis Hassabis]] — Google y la IA general
@@ -24,7 +26,9 @@ tags: [00-moc, deepmind, openai, tecnologa]
 - [[Nvidia]] / [[Jensen Huang]] — El fabricante del petróleo de la IA
 
 ### Infraestructura Y Financiamiento
+
 ### Complejo Militar-IA (Tier B)
+
 - [[Anduril Industries]] — La guerra autónoma privatizada (TL V.2)
 - [[Shield AI]] — Enjambres de drones con IA
 - [[Palmer Luckey]] — El visionario del hardware de defensa
@@ -39,16 +43,17 @@ tags: [00-moc, deepmind, openai, tecnologa]
 - [[Stargate Project]] — El megaproyecto de infraestructura de IA
 
 ### Riesgos Y Vectores De Control
+
 - [[AGI (Inteligencia Artificial General)]] — El horizonte
 - [[Ray Kurzweil]] — La Singularidad como religión tecnológica
 - [[Roko's Basilisk]] — La trampa filosófica del alineamiento
 - [[Altruismo Efectivo]] / [[Effective Altruism]] — La ideología detrás de OpenAI
 - [[Sentient World Simulation]] — ¿Modelan a la población entera?
 
-
 ## 👁️ VIGILANCIA MASIVA
 
 ### Sistemas De Vigilancia
+
 - [[ECHELON]] — La red de interceptación de señales anglosajona
 - [[PRISM (Programa)]] — NSA y las big tech
 - [[XKeyscore]] — La herramienta de vigilancia de la NSA
@@ -61,6 +66,7 @@ tags: [00-moc, deepmind, openai, tecnologa]
 - [[Palantir]] / [[Palantir AIP]] — El cerebro del deep state
 
 ### Infraestructura Física De Vigilancia
+
 - [[Panoptico Digital]] — El concepto aplicado al siglo XXI
 - [[Geocercas (Geofencing)]] — Control de movimiento por GPS
 - [[Polvo Inteligente (Smart Dust)]] — Nanosensores ambientales
@@ -68,10 +74,10 @@ tags: [00-moc, deepmind, openai, tecnologa]
 - [[Red Inteligente (Smart Grid)]] — El control del consumo energético
 - [[HAARP (Manipulación Ionosférica)]] — 🔶 El programa de ionosfera
 
-
 ## 🆔 IDENTIDAD DIGITAL Y CBDC
 
 ### Digital ID
+
 - [[Digital ID - Global Protocol]] — El estándar global en construcción
 - [[ID2020]] — La alianza por la identidad digital
 - [[Worldcoin (Orb)]] — El iris como passport
@@ -81,6 +87,7 @@ tags: [00-moc, deepmind, openai, tecnologa]
 - [[Sistemas de Credito Social]] — Del modelo chino al occidental
 
 ### CBDC (Arquitectura)
+
 - [[CBDC (Moneda Digital de Banco Central)]] — El marco general
 - [[CBDC Expiration]] — Las monedas que vencen
 - [[Project mBridge]] / [[mBridge Expansion (ASEAN)]] — El sistema interbancario CBDC
@@ -88,16 +95,17 @@ tags: [00-moc, deepmind, openai, tecnologa]
 - [[Digital Riyal y e-Dirham]] — Los CBDCs del Golfo
 - [[Better Than Cash Alliance]] — La agenda anti-efectivo
 
-
 ## 🧬 BIOSEGURIDAD Y CONTROL CORPORAL
 
 ### La Infraestructura De Bioseguridad
+
 - [[Tratado de Pandemias OMS]] — El marco de la soberanía sanitaria global (TL V.2)
 - [[GAVI]] — La alianza para la logística biopolítica y el ID digital
 - [[CEPI]] — La alianza para la preparación epidémica
 - [[EcoHealth Alliance]] — El intermediario del lab leak
 
 ### Biopolítica Y Bioingeniería
+
 - [[Moderna]] — El software de la vida (ARNm)
 - [[Pfizer]] — El soberano de la salud global
 - [[Lab-Grown Meat]] — La captura de la soberanía alimentaria
@@ -108,6 +116,7 @@ tags: [00-moc, deepmind, openai, tecnologa]
 - [[Precision Medicine]] — La medicina prospectiva centrada en el dato
 
 ### COVID Como Caso De Estudio
+
 - [[COVID-19 Origenes]] — Lab Leak Theory
 - [[Evento 201]] / [[Event 201]] — El simulacro de octubre 2019
 - [[Dark Winter]] — El ejercicio anterior
@@ -118,16 +127,17 @@ tags: [00-moc, deepmind, openai, tecnologa]
 - [[Great Barrington Declaration]] — La disidencia científica
 
 ### Internet De Los Cuerpos
+
 - [[Internet de los Cuerpos (IoB)]] — El siguiente paso
 - [[Internet of Bio-Nano Things (IoBNT)]] — Nanotecnología en el cuerpo
 - [[Neuralink & Transhumanismo]] — Musk y la interfaz cerebro-máquina
 - [[Optogenetica]] — Control neural por luz
 - [[Voice to Skull (Voz a Cráneo)]] — 🔶 Tecnología de microondas para audición dirigida
 
-
 ## 🌐 CONTROL DE LA NARRATIVA DIGITAL
 
 ### Plataformas Como Armas
+
 - [[Algorithmic Governance]] — El gobierno de la caja negra (TL V.2)
 - [[Sesgo Algoritmico]] — ¿Error o diseño?
 - [[Loops de Dopamina]] — El diseño adictivo de las plataformas
@@ -136,12 +146,12 @@ tags: [00-moc, deepmind, openai, tecnologa]
 - [[Fragmentacion del Discurso]] — Las cámaras de eco como control
 
 ### Censura Industrial
+
 - [[Complejo Industrial de la Censura]] — El término de Mike Benz
-- [[Election Integrity Partnership\|Election Integrity Partnership (EIP)]] — La censura electoral coordinada
+- [[Election Integrity Partnership|Election Integrity Partnership (EIP)]] — La censura electoral coordinada
 - [[Virality Project]] — Supresión de narrativas COVID
 - [[Twitter Files]] — El expediente de la censura
 - [[CISA Vigilancia 2026]] — El brazo de censura del DHS
-
 
 ## 🏙️ SMART CITIES Y CONTROL FÍSICO
 
@@ -152,158 +162,142 @@ tags: [00-moc, deepmind, openai, tecnologa]
 - [[Credito Social Chino]] — El modelo original
 - [[Pre-Crimen]] — La predicción del delito como control
 
-
 ## 🔗 NODOS RELACIONADOS
+
 - [[Tecnocracia]] — La doctrina política
 - [[Movimiento Tecnocratico]] — Howard Scott y Technocracy Inc.
 - [[Tecnofeudalismo]] — Varoufakis y la nueva servidumbre
 - [[Cuarta Revolucion Industrial]] — El marco de Schwab
 - [[Gran Juego Digital]] — El control de los datos como Heartland del siglo XXI
 
-
-
 ## 📊 NODOS AUTOMÁTICOS (Dataview)
 
-- [[06_Videos_Publicados/2026/2026-03-17 IRAN_STREAM/00_ARCHIVO_2026-03-17_Iran\|00_ARCHIVO_2026-03-17_Iran]]
-- [[00_MOC - Finanzas y CBDC\|00_MOC - Finanzas y CBDC]]
-- [[00_MOC - Operaciones Psicologicas\|00_MOC - Operaciones Psicologicas]]
-- [[15-Minute Cities\|15-Minute Cities]]
-- [[05_Fuentes/Alaska avanza con la identidad digital impulsada por IA, plantea preocupaciones de privacidad\|Alaska avanza con la identidad digital impulsada por IA, plantea preocupaciones de privacidad]]
-- [[Alquimia Digital\|Alquimia Digital]]
-- [[Alquimia Operativa\|Alquimia Operativa]]
-- [[Alquimia Sexual\|Alquimia Sexual]]
-- [[05_Fuentes/ARCHIVO – Banderas de Estados Unidos y China en el Aeropuerto Internacional Gimhae en Busan, Corea del Sur, el 30 de octubre de 2025. (AP FotoMark Schiefelbein, Archivo)\|ARCHIVO – Banderas de Estados Unidos y China en el Aeropuerto Internacional Gimhae en Busan, Corea del Sur, el 30 de octubre de 2025. (AP FotoMark Schiefelbein, Archivo)]]
-- [[Atenea - Estrategia y Control Civil\|Atenea - Estrategia y Control Civil]]
-- [[01_Research/02_Recoleccion/AVANCE_CBDC/avance-cbdc-tesis\|avance-cbdc-tesis]]
-- [[Banco de Pagos Internacionales\|Banco de Pagos Internacionales]]
-- [[05_Fuentes/Bannon critica el corporativismo y la IA por destruir empleos y ahorros\|Bannon critica el corporativismo y la IA por destruir empleos y ahorros]]
-- [[Bio-Leninismo\|Bio-Leninismo]]
-- [[Biometria Global\|Biometria Global]]
-- [[BIS Innovation Hub\|BIS Innovation Hub]]
-- [[BlackRock - Vanguard - State Street\|BlackRock - Vanguard - State Street]]
-- [[Cables submarinos el talon de Aquiles del mundo digital\|Cables submarinos el talon de Aquiles del mundo digital]]
-- [[05_Fuentes/Cambio China hacia mercado interno\|Cambio China hacia mercado interno]]
-- [[Capitalismo de Vigilancia\|Capitalismo de Vigilancia]]
-- [[Carney_en_Beijing_DW\|Carney_en_Beijing_DW]]
-- [[CBDC Interoperability\|CBDC Interoperability]]
-- [[Chamanismo y Control\|Chamanismo y Control]]
-- [[05_Fuentes/China accede a tecnologia nuclear de EEUU a traves\|China accede a tecnologia nuclear de EEUU a traves]]
-- [[05_Fuentes/Christine Lagarde admite que las CBDC son clave para mantener el poder de los bancos centrales\|Christine Lagarde admite que las CBDC son clave para mantener el poder de los bancos centrales]]
-- [[CISA Vigilancia 2026\|CISA Vigilancia 2026]]
-- [[05_Fuentes/Cómo Silicon Valley se convirtió en el nuevo complejo militar-industrial\|Cómo Silicon Valley se convirtió en el nuevo complejo militar-industrial]]
-- [[Complejo Industrial de la Censura\|Complejo Industrial de la Censura]]
-- [[Computacion Espacial\|Computacion Espacial]]
-- [[Control Risks\|Control Risks]]
-- [[Credito Social\|Credito Social]]
-- [[Credito Social Chino\|Credito Social Chino]]
-- [[Criptografia Arcaica\|Criptografia Arcaica]]
-- [[Cuerpos de Luz vs Datos\|Cuerpos de Luz vs Datos]]
-- [[Cybernetics of Control\|Cybernetics of Control]]
-- [[05_Fuentes/DARPA MAGICS busca un cambio de paradigma en la predicción del comportamiento humano colectivo\|DARPA MAGICS busca un cambio de paradigma en la predicción del comportamiento humano colectivo]]
-- [[Diem\|Diem]]
-- [[DNA Data Storage\|DNA Data Storage]]
-- [[05_Fuentes/EE.UU. lanza GenAI IA avanzada para potenciar a sus militares\|EE.UU. lanza GenAI IA avanzada para potenciar a sus militares]]
-- [[El Algoritmo como Oraculo\|El Algoritmo como Oraculo]]
-- [[05_Fuentes/El banco central de Brasil planea usar datos de su CBDC para guiar las decisiones sobre tasas de interés\|El banco central de Brasil planea usar datos de su CBDC para guiar las decisiones sobre tasas de interés]]
-- [[05_Fuentes/El BIS defiende un libro mayor unificado pero describe las criptomonedas como un sistema defectuoso\|El BIS defiende un libro mayor unificado pero describe las criptomonedas como un sistema defectuoso]]
-- [[05_Fuentes/El Ejército de EE. UU. planea abastecer bases con pequeños reactores nucleares\|El Ejército de EE. UU. planea abastecer bases con pequeños reactores nucleares]]
-- [[05_Fuentes/El fin de la búsqueda ¿Por qué la IA busca controlar nuestra confianza\|El fin de la búsqueda ¿Por qué la IA busca controlar nuestra confianza]]
-- [[05_Fuentes/El gobierno de EE. UU. ayudó a empresas estadounidenses a vender tecnología de vigilancia a China\|El gobierno de EE. UU. ayudó a empresas estadounidenses a vender tecnología de vigilancia a China]]
-- [[El Gran Reinicio\|El Gran Reinicio]]
-- [[05_Fuentes/El Operador de la Centralita\|El Operador de la Centralita]]
-- [[El Patron Bitcoin\|El Patron Bitcoin]]
-- [[05_Fuentes/El sueño de la Conciencia Total de la Información se hizo realidad, pero no en manos del gobierno\|El sueño de la Conciencia Total de la Información se hizo realidad, pero no en manos del gobierno]]
-- [[El Templo de Salomon\|El Templo de Salomon]]
-- [[Epstein Rothschild Ciberarmas\|Epstein Rothschild Ciberarmas]]
-- [[Ethereum Foundation\|Ethereum Foundation]]
-- [[05_Fuentes/Europa ha perdido internet, advierte el responsable de ciberseguridad de Bélgica\|Europa ha perdido internet, advierte el responsable de ciberseguridad de Bélgica]]
-- [[Five Eyes Alliance_LEGACY\|Five Eyes Alliance_LEGACY]]
-- [[Geocercas\|Geocercas]]
-- [[Glosario - Deep State\|Glosario - Deep State]]
-- [[Gold Backed CBDC - Pilot\|Gold Backed CBDC - Pilot]]
-- [[Google Glass\|Google Glass]]
-- [[Grupo de los Treinta\|Grupo de los Treinta]]
-- [[05_Fuentes/Grupo mediatico Trump acuerda una fusion de 6.000\|Grupo mediatico Trump acuerda una fusion de 6.000]]
-- [[Guerra de Divisas\|Guerra de Divisas]]
-- [[H.A.A.R.P. y el Control del Ether\|H.A.A.R.P. y el Control del Ether]]
-- [[HAARP\|HAARP]]
-- [[Hal Finney\|Hal Finney]]
-- [[05_Fuentes/Hallazgos detallados de la investigacion de AP sob\|Hallazgos detallados de la investigacion de AP sob]]
-- [[05_Fuentes/Harari y la vigilancia total El fin de la libertad a través del crédito social\|Harari y la vigilancia total El fin de la libertad a través del crédito social]]
-- [[Horus - El Ojo de la Vigilancia\|Horus - El Ojo de la Vigilancia]]
-- [[In-Q-Tel\|In-Q-Tel]]
-- [[Ingenieria de Consentimiento\|Ingenieria de Consentimiento]]
-- [[Jeff Bezos\|Jeff Bezos]]
-- [[05_Fuentes/Jensen Huang (Nvidia) compara la minería de Bitcoin con el almacenamiento de energía\|Jensen Huang (Nvidia) compara la minería de Bitcoin con el almacenamiento de energía]]
-- [[John Poindexter\|John Poindexter]]
-- [[01_Research/02_Recoleccion/AVANCE_CBDC/KANBAN_CBDC_GoingDirect\|KANBAN_CBDC_GoingDirect]]
-- [[01_Research/02_Recoleccion/Tecnocracia/KANBAN_Tecnocracia\|KANBAN_Tecnocracia]]
-- [[05_Fuentes/Klaus Schwab defiende la transparencia total en el nuevo orden mundial\|Klaus Schwab defiende la transparencia total en el nuevo orden mundial]]
-- [[La Comision Trilateral califica al 2023 como el Añ\|La Comision Trilateral califica al 2023 como el Añ]]
-- [[05_Fuentes/La crisis energética y la falta de escala El sombrío panorama de Eric Schmidt sobre la competencia global en IA\|La crisis energética y la falta de escala El sombrío panorama de Eric Schmidt sobre la competencia global en IA]]
-- [[05_Fuentes/La opacidad de las Big Tech vínculos entre Silicon Valley, la CIA y el complejo militar-industrial\|La opacidad de las Big Tech vínculos entre Silicon Valley, la CIA y el complejo militar-industrial]]
-- [[05_Fuentes/Las capacidades secretas de Palantir, según exoficial de la CIA\|Las capacidades secretas de Palantir, según exoficial de la CIA]]
-- [[05_Fuentes/Las conexiones de Jeffrey Epstein en la industria de la vigilancia\|Las conexiones de Jeffrey Epstein en la industria de la vigilancia]]
-- [[LifeLog\|LifeLog]]
-- [[05_Fuentes/LifeLog el proyecto de DARPA que quería registrar toda tu vida mucho antes de Facebook\|LifeLog el proyecto de DARPA que quería registrar toda tu vida mucho antes de Facebook]]
-- [[Linea de Tiempo - 2010s-2020s\|Linea de Tiempo - 2010s-2020s]]
-- [[Logic Borrosa y Gnosis\|Logic Borrosa y Gnosis]]
-- [[Lucero del Alba y Espionaje\|Lucero del Alba y Espionaje]]
-- [[Mercado Pago\|Mercado Pago]]
-- [[MKUltra\|MKUltra]]
-- [[Monedas de Privacidad\|Monedas de Privacidad]]
-- [[Nanotecnologia\|Nanotecnologia]]
-- [[NEWSLETTER_El_Gran_Desacople_2026\|NEWSLETTER_El_Gran_Desacople_2026]]
-- [[06_Videos_Publicados/2026/2026-03-17 IRAN_STREAM/nota-tesis-iran-2026-tablero-completo\|nota-tesis-iran-2026-tablero-completo]]
-- [[06_Videos_Publicados/2026/2026-03-17 IRAN_STREAM/NotaTesis_ConvergenciaFinal_v1\|NotaTesis_ConvergenciaFinal_v1]]
-- [[06_Videos_Publicados/2026/2026-03-17 IRAN_STREAM/NotaTesis_MegaGroup_RedContinuidad_v5\|NotaTesis_MegaGroup_RedContinuidad_v5]]
-- [[Nuevo Bretton Woods\|Nuevo Bretton Woods]]
-- [[Ocultismo en KGB_Stasi\|Ocultismo en KGB_Stasi]]
-- [[Palantir CIA\|Palantir CIA]]
-- [[05_Fuentes/Palantir, financiada por la CIA vinculada a Israel\|Palantir, financiada por la CIA vinculada a Israel]]
-- [[Patriot Act\|Patriot Act]]
-- [[Patron - Deepfake\|Patron - Deepfake]]
-- [[05_Fuentes/President Donald Trump signs executive order on AI\|President Donald Trump signs executive order on AI]]
-- [[Programa PRISM\|Programa PRISM]]
-- [[PROMIS Software\|PROMIS Software]]
-- [[Protocolo 5G y Bio-resonancia\|Protocolo 5G y Bio-resonancia]]
-- [[05_Fuentes/Proyecto Génesis El nuevo Proyecto Manhattan de la era de la IA\|Proyecto Génesis El nuevo Proyecto Manhattan de la era de la IA]]
-- [[Rishi Sunak\|Rishi Sunak]]
-- [[Sanger Institute\|Sanger Institute]]
-- [[Score Ciudadano\|Score Ciudadano]]
-- [[Sergey Brin\|Sergey Brin]]
-- [[Tecnicas de Control Mental\|Tecnicas de Control Mental]]
-- [[01_Research/02_Recoleccion/Tecnocracia/tecnocracia-tesis\|tecnocracia-tesis]]
-- [[05_Fuentes/Tecnologicas EEUU y Estado Policial China\|Tecnologicas EEUU y Estado Policial China]]
-- [[05_Fuentes/Ted Cruz quiere que la vigilancia no sea China, sea propia\|Ted Cruz quiere que la vigilancia no sea China, sea propia]]
-- [[Teoria del Internet Muerto\|Teoria del Internet Muerto]]
-- [[TikTok Gnosis\|TikTok Gnosis]]
-- [[05_Fuentes/Traduce el título del artículo al español. Si ya está en español, mantén el título original\|Traduce el título del artículo al español. Si ya está en español, mantén el título original]]
-- [[Tratado de Pandemias OMS\|Tratado de Pandemias OMS]]
-- [[05_Fuentes/Trump firma una orden ejecutiva que impide a los e\|Trump firma una orden ejecutiva que impide a los e]]
-- [[05_Fuentes/Una gran parte del crecimiento del PIB de EE. UU. se mantiene gracias al gasto en IA sin retorno garantizado, dice Deutsche Bank\|Una gran parte del crecimiento del PIB de EE. UU. se mantiene gracias al gasto en IA sin retorno garantizado, dice Deutsche Bank]]
-- [[Vida Artificial\|Vida Artificial]]
-- [[01_Research/02_Recoleccion/AVANCE_CBDC/video-baby-trump-blackrock\|video-baby-trump-blackrock]]
-- [[01_Research/02_Recoleccion/CIA_Y_SILICON_VALLEY/video-silicon-valley-cia\|video-silicon-valley-cia]]
-- [[Vigilancia Predictiva\|Vigilancia Predictiva]]
-- [[05_Fuentes/Vínculos de OpenAI con el gobierno ¿Cuál fue el papel de Sam Altman en la administración Biden\|Vínculos de OpenAI con el gobierno ¿Cuál fue el papel de Sam Altman en la administración Biden]]
-- [[Yahweh - El Capturador de la Ley\|Yahweh - El Capturador de la Ley]]
-
+- [[06_Videos_Publicados/2026/2026-03-17 IRAN_STREAM/00_ARCHIVO_2026-03-17_Iran.md|00_ARCHIVO_2026-03-17_Iran]]
+- [[00_MOC - Finanzas y CBDC.md|00_MOC - Finanzas y CBDC]]
+- [[00_MOC - Operaciones Psicologicas.md|00_MOC - Operaciones Psicologicas]]
+- [[15-Minute Cities.md|15-Minute Cities]]
+- [[05_Fuentes/Alaska avanza con la identidad digital impulsada por IA, plantea preocupaciones de privacidad.md|Alaska avanza con la identidad digital impulsada por IA, plantea preocupaciones de privacidad]]
+- [[Alquimia Digital.md|Alquimia Digital]]
+- [[Alquimia Operativa.md|Alquimia Operativa]]
+- [[Alquimia Sexual.md|Alquimia Sexual]]
+- [[05_Fuentes/ARCHIVO – Banderas de Estados Unidos y China en el Aeropuerto Internacional Gimhae en Busan, Corea del Sur, el 30 de octubre de 2025. (AP FotoMark Schiefelbein, Archivo).md|ARCHIVO – Banderas de Estados Unidos y China en el Aeropuerto Internacional Gimhae en Busan, Corea del Sur, el 30 de octubre de 2025. (AP FotoMark Schiefelbein, Archivo)]]
+- [[Atenea - Estrategia y Control Civil.md|Atenea - Estrategia y Control Civil]]
+- [[Banco de Pagos Internacionales.md|Banco de Pagos Internacionales]]
+- [[05_Fuentes/Bannon critica el corporativismo y la IA por destruir empleos y ahorros.md|Bannon critica el corporativismo y la IA por destruir empleos y ahorros]]
+- [[Bio-Leninismo.md|Bio-Leninismo]]
+- [[Biometria Global.md|Biometria Global]]
+- [[BIS Innovation Hub.md|BIS Innovation Hub]]
+- [[BlackRock - Vanguard - State Street.md|BlackRock - Vanguard - State Street]]
+- [[Cables submarinos el talon de Aquiles del mundo digital.md|Cables submarinos el talon de Aquiles del mundo digital]]
+- [[05_Fuentes/Cambio China hacia mercado interno.md|Cambio China hacia mercado interno]]
+- [[Capitalismo de Vigilancia.md|Capitalismo de Vigilancia]]
+- [[Carney_en_Beijing_DW.md|Carney_en_Beijing_DW]]
+- [[CBDC Interoperability.md|CBDC Interoperability]]
+- [[Chamanismo y Control.md|Chamanismo y Control]]
+- [[05_Fuentes/China accede a tecnologia nuclear de EEUU a traves.md|China accede a tecnologia nuclear de EEUU a traves]]
+- [[05_Fuentes/Christine Lagarde admite que las CBDC son clave para mantener el poder de los bancos centrales.md|Christine Lagarde admite que las CBDC son clave para mantener el poder de los bancos centrales]]
+- [[CISA Vigilancia 2026.md|CISA Vigilancia 2026]]
+- [[05_Fuentes/Cómo Silicon Valley se convirtió en el nuevo complejo militar-industrial.md|Cómo Silicon Valley se convirtió en el nuevo complejo militar-industrial]]
+- [[Complejo Industrial de la Censura.md|Complejo Industrial de la Censura]]
+- [[Computacion Espacial.md|Computacion Espacial]]
+- [[Control Risks.md|Control Risks]]
+- [[Credito Social.md|Credito Social]]
+- [[Credito Social Chino.md|Credito Social Chino]]
+- [[Criptografia Arcaica.md|Criptografia Arcaica]]
+- [[Cuerpos de Luz vs Datos.md|Cuerpos de Luz vs Datos]]
+- [[Cybernetics of Control.md|Cybernetics of Control]]
+- [[05_Fuentes/DARPA MAGICS busca un cambio de paradigma en la predicción del comportamiento humano colectivo.md|DARPA MAGICS busca un cambio de paradigma en la predicción del comportamiento humano colectivo]]
+- [[Diem.md|Diem]]
+- [[DNA Data Storage.md|DNA Data Storage]]
+- [[05_Fuentes/EE.UU. lanza GenAI IA avanzada para potenciar a sus militares.md|EE.UU. lanza GenAI IA avanzada para potenciar a sus militares]]
+- [[El Algoritmo como Oraculo.md|El Algoritmo como Oraculo]]
+- [[05_Fuentes/El banco central de Brasil planea usar datos de su CBDC para guiar las decisiones sobre tasas de interés.md|El banco central de Brasil planea usar datos de su CBDC para guiar las decisiones sobre tasas de interés]]
+- [[05_Fuentes/El BIS defiende un libro mayor unificado pero describe las criptomonedas como un sistema defectuoso.md|El BIS defiende un libro mayor unificado pero describe las criptomonedas como un sistema defectuoso]]
+- [[05_Fuentes/El Ejército de EE. UU. planea abastecer bases con pequeños reactores nucleares.md|El Ejército de EE. UU. planea abastecer bases con pequeños reactores nucleares]]
+- [[05_Fuentes/El fin de la búsqueda ¿Por qué la IA busca controlar nuestra confianza.md|El fin de la búsqueda ¿Por qué la IA busca controlar nuestra confianza]]
+- [[05_Fuentes/El gobierno de EE. UU. ayudó a empresas estadounidenses a vender tecnología de vigilancia a China.md|El gobierno de EE. UU. ayudó a empresas estadounidenses a vender tecnología de vigilancia a China]]
+- [[El Gran Reinicio.md|El Gran Reinicio]]
+- [[05_Fuentes/El Operador de la Centralita.md|El Operador de la Centralita]]
+- [[El Patron Bitcoin.md|El Patron Bitcoin]]
+- [[05_Fuentes/El sueño de la Conciencia Total de la Información se hizo realidad, pero no en manos del gobierno.md|El sueño de la Conciencia Total de la Información se hizo realidad, pero no en manos del gobierno]]
+- [[El Templo de Salomon.md|El Templo de Salomon]]
+- [[Epstein Rothschild Ciberarmas.md|Epstein Rothschild Ciberarmas]]
+- [[Ethereum Foundation.md|Ethereum Foundation]]
+- [[05_Fuentes/Europa ha perdido internet, advierte el responsable de ciberseguridad de Bélgica.md|Europa ha perdido internet, advierte el responsable de ciberseguridad de Bélgica]]
+- [[Five Eyes Alliance_LEGACY.md|Five Eyes Alliance_LEGACY]]
+- [[Geocercas.md|Geocercas]]
+- [[Glosario - Deep State.md|Glosario - Deep State]]
+- [[Gold Backed CBDC - Pilot.md|Gold Backed CBDC - Pilot]]
+- [[Google Glass.md|Google Glass]]
+- [[Grupo de los Treinta.md|Grupo de los Treinta]]
+- [[05_Fuentes/Grupo mediatico Trump acuerda una fusion de 6.000.md|Grupo mediatico Trump acuerda una fusion de 6.000]]
+- [[Guerra de Divisas.md|Guerra de Divisas]]
+- [[H.A.A.R.P. y el Control del Ether.md|H.A.A.R.P. y el Control del Ether]]
+- [[HAARP.md|HAARP]]
+- [[Hal Finney.md|Hal Finney]]
+- [[05_Fuentes/Hallazgos detallados de la investigacion de AP sob.md|Hallazgos detallados de la investigacion de AP sob]]
+- [[05_Fuentes/Harari y la vigilancia total El fin de la libertad a través del crédito social.md|Harari y la vigilancia total El fin de la libertad a través del crédito social]]
+- [[Horus - El Ojo de la Vigilancia.md|Horus - El Ojo de la Vigilancia]]
+- [[In-Q-Tel.md|In-Q-Tel]]
+- [[Ingenieria de Consentimiento.md|Ingenieria de Consentimiento]]
+- [[Jeff Bezos.md|Jeff Bezos]]
+- [[05_Fuentes/Jensen Huang (Nvidia) compara la minería de Bitcoin con el almacenamiento de energía.md|Jensen Huang (Nvidia) compara la minería de Bitcoin con el almacenamiento de energía]]
+- [[John Poindexter.md|John Poindexter]]
+- [[05_Fuentes/Klaus Schwab defiende la transparencia total en el nuevo orden mundial.md|Klaus Schwab defiende la transparencia total en el nuevo orden mundial]]
+- [[La Comision Trilateral califica al 2023 como el Añ.md|La Comision Trilateral califica al 2023 como el Añ]]
+- [[05_Fuentes/La crisis energética y la falta de escala El sombrío panorama de Eric Schmidt sobre la competencia global en IA.md|La crisis energética y la falta de escala El sombrío panorama de Eric Schmidt sobre la competencia global en IA]]
+- [[05_Fuentes/La opacidad de las Big Tech vínculos entre Silicon Valley, la CIA y el complejo militar-industrial.md|La opacidad de las Big Tech vínculos entre Silicon Valley, la CIA y el complejo militar-industrial]]
+- [[05_Fuentes/Las capacidades secretas de Palantir, según exoficial de la CIA.md|Las capacidades secretas de Palantir, según exoficial de la CIA]]
+- [[05_Fuentes/Las conexiones de Jeffrey Epstein en la industria de la vigilancia.md|Las conexiones de Jeffrey Epstein en la industria de la vigilancia]]
+- [[LifeLog.md|LifeLog]]
+- [[05_Fuentes/LifeLog el proyecto de DARPA que quería registrar toda tu vida mucho antes de Facebook.md|LifeLog el proyecto de DARPA que quería registrar toda tu vida mucho antes de Facebook]]
+- [[Linea de Tiempo - 2010s-2020s.md|Linea de Tiempo - 2010s-2020s]]
+- [[Logic Borrosa y Gnosis.md|Logic Borrosa y Gnosis]]
+- [[Lucero del Alba y Espionaje.md|Lucero del Alba y Espionaje]]
+- [[Mercado Pago.md|Mercado Pago]]
+- [[MKUltra.md|MKUltra]]
+- [[Monedas de Privacidad.md|Monedas de Privacidad]]
+- [[Nanotecnologia.md|Nanotecnologia]]
+- [[NEWSLETTER_El_Gran_Desacople_2026.md|NEWSLETTER_El_Gran_Desacople_2026]]
+- [[06_Videos_Publicados/2026/2026-03-26_El_Reseteo_Perfecto/NOTA_TESIS_El_Reseteo_Perfecto.md|NOTA_TESIS_El_Reseteo_Perfecto]]
+- [[06_Videos_Publicados/2026/2026-03-17 IRAN_STREAM/nota-tesis-iran-2026-tablero-completo.md|nota-tesis-iran-2026-tablero-completo]]
+- [[06_Videos_Publicados/2026/2026-03-17 IRAN_STREAM/NotaTesis_ConvergenciaFinal_v1.md|NotaTesis_ConvergenciaFinal_v1]]
+- [[06_Videos_Publicados/2026/2026-03-17 IRAN_STREAM/NotaTesis_MegaGroup_RedContinuidad_v5.md|NotaTesis_MegaGroup_RedContinuidad_v5]]
+- [[Nuevo Bretton Woods.md|Nuevo Bretton Woods]]
+- [[Ocultismo en KGB_Stasi.md|Ocultismo en KGB_Stasi]]
+- [[Palantir CIA.md|Palantir CIA]]
+- [[05_Fuentes/Palantir, financiada por la CIA vinculada a Israel.md|Palantir, financiada por la CIA vinculada a Israel]]
+- [[Patriot Act.md|Patriot Act]]
+- [[Patron - Deepfake.md|Patron - Deepfake]]
+- [[05_Fuentes/President Donald Trump signs executive order on AI.md|President Donald Trump signs executive order on AI]]
+- [[Programa PRISM.md|Programa PRISM]]
+- [[PROMIS Software.md|PROMIS Software]]
+- [[Protocolo 5G y Bio-resonancia.md|Protocolo 5G y Bio-resonancia]]
+- [[05_Fuentes/Proyecto Génesis El nuevo Proyecto Manhattan de la era de la IA.md|Proyecto Génesis El nuevo Proyecto Manhattan de la era de la IA]]
+- [[Rishi Sunak.md|Rishi Sunak]]
+- [[Sanger Institute.md|Sanger Institute]]
+- [[Score Ciudadano.md|Score Ciudadano]]
+- [[Sergey Brin.md|Sergey Brin]]
+- [[Tecnicas de Control Mental.md|Tecnicas de Control Mental]]
+- [[05_Fuentes/Tecnologicas EEUU y Estado Policial China.md|Tecnologicas EEUU y Estado Policial China]]
+- [[05_Fuentes/Ted Cruz quiere que la vigilancia no sea China, sea propia.md|Ted Cruz quiere que la vigilancia no sea China, sea propia]]
+- [[Teoria del Internet Muerto.md|Teoria del Internet Muerto]]
+- [[TikTok Gnosis.md|TikTok Gnosis]]
+- [[05_Fuentes/Traduce el título del artículo al español. Si ya está en español, mantén el título original.md|Traduce el título del artículo al español. Si ya está en español, mantén el título original]]
+- [[Tratado de Pandemias OMS.md|Tratado de Pandemias OMS]]
+- [[05_Fuentes/Trump firma una orden ejecutiva que impide a los e.md|Trump firma una orden ejecutiva que impide a los e]]
+- [[05_Fuentes/Una gran parte del crecimiento del PIB de EE. UU. se mantiene gracias al gasto en IA sin retorno garantizado, dice Deutsche Bank.md|Una gran parte del crecimiento del PIB de EE. UU. se mantiene gracias al gasto en IA sin retorno garantizado, dice Deutsche Bank]]
+- [[Vida Artificial.md|Vida Artificial]]
+- [[Vigilancia Predictiva.md|Vigilancia Predictiva]]
+- [[05_Fuentes/Vínculos de OpenAI con el gobierno ¿Cuál fue el papel de Sam Altman en la administración Biden.md|Vínculos de OpenAI con el gobierno ¿Cuál fue el papel de Sam Altman en la administración Biden]]
+- [[Yahweh - El Capturador de la Ley.md|Yahweh - El Capturador de la Ley]]
 
 ---
 
-*MOC creado: 2026-02-24 | Parte del [[INDEX_MAESTRO]]*
-
-
-
-
-
-
-
-
-
+_MOC creado: 2026-02-24 | Parte del [[INDEX_MAESTRO]]_
 
 ## 🔍 NODOS DETECTADOS (AUDITORIA 2026)
+
 - [[CHEAT_SHEET_PRAXEOLOGIA]]
 - [[13_FAMILIAS_2024]]
 - [[Reserva Fraccionaria]]

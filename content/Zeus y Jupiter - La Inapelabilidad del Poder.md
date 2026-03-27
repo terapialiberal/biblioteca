@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-25T22:28:50.481-03:00
-modified: 2026-03-02T13:18:51.239-03:00
+modified: 2026-02-26T16:06:06.533-03:00
 tags:
   - castigo-sistmico
   - jerarqua-poder
@@ -9,7 +9,6 @@ tags:
   - poder-hegemona
   - poder-soberana
 ---
-
 
 # Zeus Y Júpiter - La Inapelabilidad Del Poder
 
@@ -19,12 +18,15 @@ tags:
 ## Análisis De Tiers
 
 ### Tier A (Los Dueños)
+
 - **Incentivo**: La **Preservación del Trono**. El Tier A utiliza el arquetipo de Zeus para recordar al Tier C que el poder no es democrático, sino descendente. El "Rayo" de Zeus hoy son las sanciones económicas, los ataques preventivos y la capacidad de desconectar a cualquier actor del sistema financiero global.
 
 ### Tier B (Operadores / Ejecutores)
+
 - **Altas Cortes y Comandos Militares**: Son los que gestionan el "Rayo" por delegación. Su función es asegurar que la voluntad de Zeus/Tier A sea aplicada con rapidez y sin debate jurídico real.
 
 ---
+
 **Versión:** 1.0
 **Enfoque:** Arquitectura de la soberanía y mecanismos de castigo sistémico.
 **Estado:** 2026-02-25 | Informe Activo

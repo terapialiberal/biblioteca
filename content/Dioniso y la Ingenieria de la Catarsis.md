@@ -16,12 +16,15 @@ publish: true
 ## Análisis Forense
 
 ### 1. El Carnaval Como Control
+
 - Al permitir periodos controlled de caos (drogas, fiestas, descontrol sexual), el Tier A asegura que el Tier C no canalice su energía hacia una rebelión racional contra los Tiers superiores. Dioniso es el arquitecto de la "rebelión permitida".
 
 ### 2. Dioniso Y El Narcotráfico
+
 - El flujo de sustancias que alteran la conciencia en el Tier C es la aplicación técnica del culto a Dioniso por parte del Tier B para mantener a la población en un estado de pasividad extática o fragmentación mental.
 
 ---
+
 **Versión:** 1.0
 **Enfoque:** Gestión de la masa mediante el descontrol programado.
 **Estado:** 2026-02-25 | Informe Activo

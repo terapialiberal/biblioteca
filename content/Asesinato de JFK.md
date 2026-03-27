@@ -7,6 +7,7 @@ tier-primario: "b"
 nivel-evidencia: "medio"
 tags: [allen, asesinato, kennedy, warren]
 ---
+
 # Asesinato De JFK (John F. Kennedy)
 
 ## Resumen General
@@ -25,12 +26,14 @@ Aunque oficialmente atribuido a Lee Harvey Oswald como "lone gunman", evidencia 
 ## Evidencia De Conspiración
 
 ### Aspectos Físicos
+
 1. **Múltiples tiradores:** Testigos reportaron shots desde grassy knoll
 2. **Head shot desde el frente:** Movimiento de cabeza de JFK hacia atrás (física básica)
 3. **Magic bullet impossible:** Bullet pristino que causó 7 heridas, cambió dirección múltiples veces
 4. **Autopsia alterada:** Evidencia de manipulación, doctores de Dallas vs Bethesda disagree
 
 ### Cover-Up Institucional
+
 1. **[[Warren Commission]]:** [[Allen Dulles]] (despedido por JFK) investigando su propio crimen
 2. **Evidencia destruida/alterada:** Zapruder film, autopsy materials, etc.
 3. **Testigos muertos:** Tasa anormalmente alta de muertes de testigos clave
@@ -39,26 +42,31 @@ Aunque oficialmente atribuido a Lee Harvey Oswald como "lone gunman", evidencia 
 ## Actores Y Motivos
 
 ### [[CIA]] / [[Allen Dulles]]
+
 - **Motivo:** JFK despidió a Dulles post-Bahía de Cochinos, amenazó "despedazar CIA en mil pedazos"
 - **Medios:** Operation 40 (escuadrón de asesinos establecido por Dulles)
 - **Oportunidad:** Control de cover-up vía Warren Commission
 
 ### Mafia
+
 - **Motivo:** Robert Kennedy (hermano de JFK, AG) prosecuting mafia agresivamente
 - **Medios:** Jack Ruby (mafia connection) mató a Oswald
 - **Conexión:** CIA-Mafia collaboration en plots anti-Castro
 
 ### Anti-Castro Cubanos
+
 - **Motivo:** JFK no invadió Cuba post-Bahía Cochinos, buscó détente con Castro
 - **Medios:** Entrenados y armados por CIA
 - **Conexión:** Overlap con CIA y mafia
 
 ### Complejo Militar-Industrial
+
 - **Motivo:** JFK planeaba retirar tropas de Vietnam,buscaba peace con USSR
 - **Cui bono:** Lyndon Johnson expandió Vietnam massively tras asesinato
 - **Actores:** Generals, contractors de defensa
 
 ### [[Lyndon Baines Johnson]]
+
 - **Motivo:** Sería presidente
 - **Evidencia:** Conocimiento previo
 - **Comportamiento:** Immediate cover-up, appointed Warren Commission
@@ -75,6 +83,7 @@ Aunque oficialmente atribuido a Lee Harvey Oswald como "lone gunman", evidencia 
 ## Conexión Allen Dulles
 
 Allen Dulles personifica el conflicto de intereses:
+
 - Despedido por JFK como Director CIA (1961)
 - Creó Operation 40 (escuadrón implicado en asesinato)
 - Nombrado a Warren Commission por Johnson
@@ -83,12 +92,15 @@ Allen Dulles personifica el conflicto de intereses:
 ## Puntos Clave Para Video
 
 ### 1. El Zorro Cuidando El Gallinero
+
 JFK despidió a Dulles. Dulles probablemente mató a JFK. Johnson puso a Dulles a "investigar" el asesinato. Esta es la definición de cover-up institucional.
 
 ### 2. Operation 40: El Escuadrón De Asesinos De La CIA
+
 Creado por Dulles/Eisenhower, implicado en múltiples asesinatos, incluyendo JFK. Esto NO es teoría: es historia documentada.
 
 ### 3. El Golpe Que Cambió América
+
 Antes de 11/22/63: Presidente manda. Después: Deep state manda. El asesinato fue un golpe de estado que redefinió poder real en EEUU.
 
 ## Fuentes
@@ -110,7 +122,3 @@ Antes de 11/22/63: Presidente manda. Después: Deep state manda. El asesinato fu
 - [[Golpe de estado]]
 - [[Lyndon Baines Johnson]]
 - [[Bahía de Cochinos]]
-
-
-
-

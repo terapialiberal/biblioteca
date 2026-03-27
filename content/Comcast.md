@@ -7,6 +7,7 @@ nivel-evidencia: "medio"
 tags: [brian, comcast]
 publish: true
 ---
+
 # Comcast
 
 > [!ABSTRACT] Ficha Técnica
@@ -14,6 +15,7 @@ publish: true
 > **Función Real:** Monopolio vertical: controla los cables Y el contenido.
 
 ## Propiedades
+
 - **Xfinity** - Internet, cable (mayor de EEUU)
 - **NBCUniversal:**
   - NBC (network)
@@ -24,21 +26,20 @@ publish: true
 - **Sky** (UK/Europe)
 
 ## Control Vertical
+
 Dueño de:
+
 1. La infraestructura (cables)
 2. El contenido (NBC, Universal)
 3. Los temas de conversación (MSNBC)
 
 ## Conexiones
+
 - [[Brian Roberts]] (CEO)
 - Familia Roberts
 - Establishment demócrata (MSNBC)
 
 ## Fuentes
+
 - SEC filings
 - FCC documents
-
-
-
-
-

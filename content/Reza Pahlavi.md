@@ -13,7 +13,6 @@ tags:
   - tier-b
 ---
 
-
 # Reza Pahlavi — El Candidato de Occidente para el Irán Post-Islámico
 
 > [!IMPORTANT] ACTOR PRE-POSICIONADO
@@ -64,6 +63,7 @@ Las represas iraníes están al **33% de capacidad promedio**. Los cinco embalse
 Pahlavi representa el retorno de la hegemonía **persa** del Shah — lo que las minorías (kurdos, baluchistanís, árabes de Khuzestán) rechazan.
 
 Si las minorías no lo reconocen, occidente tiene dos opciones:
+
 1. **Forzar unificación** bajo Pahlavi — costoso militarmente
 2. **Administrar fragmentación** — potencialmente más rentable si [[Khuzestan]] queda como entidad árabe separable con el petróleo dentro (modelo Iraq 2003)
 
@@ -81,4 +81,4 @@ Si las minorías no lo reconocen, occidente tiene dos opciones:
 
 **Gradiente:** ✅ Iran Prosperity Project documentado / ✅ Munich Security Conference documentada / ✅ Declaración día de los strikes documentada / 🔶 Quién financia la red detrás de Pahlavi / ⚠️ Viabilidad real como líder de transición
 
-*TL-INTEL v12.0 | 2026-03-12*
+_TL-INTEL v12.0 | 2026-03-12_

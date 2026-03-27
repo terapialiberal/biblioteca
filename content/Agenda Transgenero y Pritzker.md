@@ -7,9 +7,11 @@ nivel-evidencia: "medio"
 tags: [agenda, neuralink, pfizer, pritzker]
 publish: true
 ---
+
 # Agenda Transgénero Y Pritzker
 
 ## Resumen Ejecutivo
+
 **¿Qué es?** La promoción masiva (institucional, mediática, corporativa) de la disforia de género y la transición médica, especialmente en niños.
 
 **¿Por qué importa?** Detrás de la bandera de los "derechos humanos" hay un complejo médico-industrial masivo.
@@ -19,27 +21,27 @@ El objetivo final no es la "tolerancia", sino el **Transhumanismo**: la desconex
 ## Análisis (Tiers)
 
 ### Tier A (Abolición De Lo Humano)
+
 - **Martine Rothblatt:** CEO de United Therapeutics y creadora de una "religión" transhumanista (Terasem). Escribió "From Transgender to Transhuman", admitiendo que el transgenerismo es el paso necesario ("on-ramp") para fusionarse con la máquina.
 - **Rentabilidad:** Un paciente de por vida (hormonas, cirugías recurrentes) vale millones para Big Pharma.
 
 ### Tier B (Operativa)
+
 - **WPATH:** La asociación que dicta los estándares de cuidado. Documentos filtrados revelan que saben que los niños no entienden las consecuencias de la esterilidad, pero aprueban los tratamientos igual.
 - **Escuelas:** La introducción de pronombres y teoría queer en preescolar es para desestabilizar la identidad del niño desde la base.
 
 ### Tier C (Narrativa)
+
 - "Nacido en el cuerpo equivocado"
 - "Cuidados de afirmación de género"
 
 ## Conexiones
+
 - [[Neuralink & Transhumanismo]] (el destino final)
 - [[Pfizer]] (beneficiario hormonal)
 - [[George Soros]] (Open Society también financia esto)
 
 ## Fuentes
+
 - "The 11th Hour" (blog investigativo sobre los Pritzker).
 - "Irreversible Damage" - Abigail Shrier.
-
-
-
-
-

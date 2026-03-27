@@ -7,6 +7,7 @@ nivel-evidencia: "medio"
 tags: [esttica, guerra, lilia, poltica]
 publish: true
 ---
+
 # Lilia Lemoine: La Interfaz Estética De La Anti-Política
 
 > [!ABSTRACT] Resumen de Inteligencia
@@ -15,31 +16,25 @@ publish: true
 ## Análisis De Poder (Matrix)
 
 ### Tier C: El Factor Distracción (Shock and Awe)
-*   **La Gestión del Escándalo:** Lemoine actúa como un pararrayos de controversias. Sus declaraciones extravagantes (terraplanismo, paternidad opcional, etc.) sirven para saturar la conversación pública, permitiendo que las reformas estructurales de **Tier A** (como el **[[00_Glosario - Conceptos Fase 1#RIGI\|RIGI]]** o privatizaciones) pasen con menos escrutinio mediático.
-*   **La Esteticista del Poder:** Su rol original como maquilladora de [[Javier Milei]] (diseño de la papada, peinado característico) no es trivial; es la construcción de una **Marca Mesiánica** diseñada para la viralidad.
+
+- **La Gestión del Escándalo:** Lemoine actúa como un pararrayos de controversias. Sus declaraciones extravagantes (terraplanismo, paternidad opcional, etc.) sirven para saturar la conversación pública, permitiendo que las reformas estructurales de **Tier A** (como el **[[00_Glosario - Conceptos Fase 1#RIGI|RIGI]]** o privatizaciones) pasen con menos escrutinio mediático.
+- **La Esteticista del Poder:** Su rol original como maquilladora de [[Javier Milei]] (diseño de la papada, peinado característico) no es trivial; es la construcción de una **Marca Mesiánica** diseñada para la viralidad.
 
 ### Tier B: Operativa Digital
-*   **Ejército de Trolls y Activismo:** Lemoine es pieza clave en la coordinación del activismo digital agresivo que sostiene la narrativa del gobierno en redes sociales, operando bajo la lógica de la "Batalla Cultural" para desmoralizar a la oposición mediante el ridículo y el meme.
 
+- **Ejército de Trolls y Activismo:** Lemoine es pieza clave en la coordinación del activismo digital agresivo que sostiene la narrativa del gobierno en redes sociales, operando bajo la lógica de la "Batalla Cultural" para desmoralizar a la oposición mediante el ridículo y el meme.
 
 ## âš¡ Conclusión De Terapia Liberal
+
 Lemoine es el síntoma de una política que ha dejado de ser debate de ideas para convertirse en **performance**. En el tablero de Nico, ella es la "infantería ligera" del Tier C: ruidosa, colorida e indispensable para que el público no mire hacia donde realmente se está transfiriendo el capital.
 
 ---
 
 ## Conexiones De La Red
+
 - **El Líder:** [[Javier Milei]].
 - **La Estrategia:** [[Karina Milei (El Jefe)]], [[Santiago Caputo]].
 - **Conceptos:** [[Batalla Cultural (Argentina)]], [[Anti-Política]], [[Populismo Digital]].
 - **Contexto:** [[La Libertad Avanza]].
 
 **Estado:** Refactoreado a TL V.2 - Framework de Inteligencia Aplicado.
-
-
-
-
-
-
-
-
-

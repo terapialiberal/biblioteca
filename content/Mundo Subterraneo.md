@@ -16,12 +16,15 @@ publish: true
 ## Análisis Forense
 
 ### 1. El Rey Del Mundo
+
 - El mito de un gobernante central que dirige los destinos de la tierra desde el interior coincide con la estructura de **Soberanía Unilateral de Tier A**. La verticalidad del poder se manifiesta aquí en su forma más extrema: el centro de la tierra como el centro del mando.
 
 ### 2. Refugios De Datos Y Genética
+
 - En términos técnicos modernos, Agartha simboliza las **Bases Subterráneas Profundas (DUMBs)**. El Tier A asegura su supervivencia y la de sus activos (datos, semillas, genética) mediante la compartimentación física definitiva bajo la corteza terrestre.
 
 ---
+
 **Versión:** 1.0
 **Enfoque:** Geopolítica de la profundidad y arquitectura del refugio supremo.
 **Estado:** 2026-02-25 | Informe Activo

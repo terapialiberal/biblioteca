@@ -16,12 +16,15 @@ publish: true
 ## Análisis Forense
 
 ### 1. El Logo Como Enlace Éterico
+
 - Al aplicar geometría sagrada, la marca se ancla en las leyes de la naturaleza que el cerebro humano reconoce como "armónicas". Esto reduce la resistencia crítica del Tier C, permitiendo que el mensaje de Tier B penetre sin filtros.
 
 ### 2. Branding Y Dominio
+
 - Los logotipos de las grandes tecnológicas y bancos son, forensemente, marcadores de territorio de Tier A. Cada vez que ves uno, tu sistema nervioso se sincroniza con la frecuencia de esa institución.
 
 ---
+
 **Versión:** 1.0
 **Enfoque:** Semiótica geométrica y gestión de la atracción instintiva.
 **Estado:** 2026-02-25 | Informe Activo

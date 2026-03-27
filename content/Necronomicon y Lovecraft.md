@@ -16,12 +16,15 @@ publish: true
 ## Análisis Forense
 
 ### 1. El Necronomicón Como Grimorio Técnico
+
 - Aunque se le considera ficticio, el Necronomicón actúa como el símbolo de la **Base de Datos Prohibida**. El Tier A utiliza este mito para sugerir que existe un conocimiento que, si es accedido por el Tier C sin la "iniciación" adecuada, conduce a la locura (fragmentación psíquica).
 
 ### 2. Los Primigenios Como Tier A
+
 - Cthulhu, Nyarlathotep y otros son proyecciones de los Dueños. Representan una soberanía que no se basa en el consenso, sino en la **Presencia Ontológica**. Nyarlathotep, el "Caos Reptante", es el arquetipo del Operador de Tier B que interactúa con el Tier C para sembrar el caos necesario para los reseteos de Tier A.
 
 ---
+
 **Versión:** 1.0
 **Enfoque:** Simbología del terror cósmico y gestión de la insignificancia humana.
 **Estado:** 2026-02-25 | Informe Activo

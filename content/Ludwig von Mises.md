@@ -7,6 +7,7 @@ nivel-evidencia: "medio"
 tags: [arquitecto, ludwig, mises, reserva]
 publish: true
 ---
+
 # Ludwig Von Mises: El Arquitecto De La Libertad Económica
 
 > [!ABSTRACT] Resumen de Inteligencia
@@ -15,31 +16,25 @@ publish: true
 ## Análisis De Poder (Matrix)
 
 ### Tier B: El Contra-Intelectualismo
-*   **Praxeología vs. Positivismo:** Mises rechazó el uso de estadísticas para "predecir" la economía, argumentando que el hombre no es un número. Esto lo posiciona contra los tecnócratas de Tier B de la ONU y el FMI, quienes usan modelos matemáticos falsos para justificar su control social.
-*   **La Imposibilidad del Cálculo:** Su tesis de que sin precios de mercado (propiedad privada) es imposible asignar recursos de forma eficiente es el golpe de gracia intelectual contra el **Comunismo** y el **Fascismo**. El Tier A odia a Mises porque sus ideas impiden que una cúpula de "expertos" gestione la vida de todos.
+
+- **Praxeología vs. Positivismo:** Mises rechazó el uso de estadísticas para "predecir" la economía, argumentando que el hombre no es un número. Esto lo posiciona contra los tecnócratas de Tier B de la ONU y el FMI, quienes usan modelos matemáticos falsos para justificar su control social.
+- **La Imposibilidad del Cálculo:** Su tesis de que sin precios de mercado (propiedad privada) es imposible asignar recursos de forma eficiente es el golpe de gracia intelectual contra el **Comunismo** y el **Fascismo**. El Tier A odia a Mises porque sus ideas impiden que una cúpula de "expertos" gestione la vida de todos.
 
 ### Tier C: La Resistencia Libertaria
-*   **Herederos del Pensamiento:** A través de [[Murray Rothbard]] y [[Friedrich Hayek]], la obra de Mises ha alimentado el surgimiento de movimientos como el **Libertarianismo** en Argentina (Milei) y la adopción de **[[Bitcoin]]** (el dinero misesiano por excelencia: escaso y no manipulable por el Estado).
 
+- **Herederos del Pensamiento:** A través de [[Murray Rothbard]] y [[Friedrich Hayek]], la obra de Mises ha alimentado el surgimiento de movimientos como el **Libertarianismo** en Argentina (Milei) y la adopción de **[[Bitcoin]]** (el dinero misesiano por excelencia: escaso y no manipulable por el Estado).
 
 ## âš¡ Conclusión De Terapia Liberal
+
 Mises es el hombre que le quitó la máscara a los planificadores centrales. Nos enseñó que no hay "tercera vía": o hay libertad o hay tiranía burocrática. En el mundo de Nico, Mises es el "Libro de Instrucciones" para desmantelar la Matrix económica. Si entiendes a Mises, entiendes por qué el sistema actual de emisión monetaria sin respaldo es una forma de esclavitud técnica.
 
 ---
 
 ## Conexiones De La Red
+
 - **Discípulos:** [[Murray Rothbard]], [[Friedrich Hayek]], [[Henry Hazlitt]].
 - **Antagonistas:** [[John Maynard Keynes]], [[Escuela de Chicago]] (en ciertos puntos), [[Karl Marx]].
 - **Legado:** [[Escuela Austríaca]], [[Bitcoin]], [[Liberalismo Clásico]].
 - **Conceptos:** [[Acción Humana]], [[Ciclo Económico]], [[Patrón Oro]].
 
 **Estado:** Refactoreado a TL V.2 - Marco de Resistencia Praxeológica.
-
-
-
-
-
-
-
-
-

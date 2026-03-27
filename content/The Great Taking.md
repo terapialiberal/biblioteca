@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:39.608-03:00
-modified: 2026-03-16T09:15:16.009-03:00
+modified: 2026-03-16T09:15:03.042-03:00
 tags:
   - great
   - taking
@@ -12,7 +12,6 @@ tags:
   - cede
   - derivados
 ---
-
 
 # The Great Taking — El Gran Despojo
 
@@ -32,17 +31,21 @@ tags:
 ## Análisis De Tiers
 
 ### Tier A (Beneficiarios)
+
 - **Bancos G-SIBs ("Demasiado Grandes para Quebrar"):** En caso de colapso, tienen "Super Priority" legal sobre los activos de sus clientes para recapitalizarse. El colateral de los ahorristas es su red de seguridad.
 - **[[DTCC]] / [[Cede & Co.]]:** La entidad central que realmente posee todas las acciones. El Tier C tiene un "derecho" sobre esa entidad, no sobre el activo subyacente.
 
 ### Tier B (Operadores)
+
 - **Bancos Centrales / [[BIS]]:** Coordinaron la armonización legal global para que el sistema de derivados esté respaldado por toda la riqueza privada del mundo.
 - **Legisladores:** Aprobaron estas leyes técnicas sin leerlas, lobbystas mediante.
 
 ### Tier C (Víctimas)
+
 - **Inversores individuales:** Creen que "tienen" acciones. Legalmente, tienen un crédito contra un intermediario. En un colapso, son los últimos en cobrar.
 
 ## Conexiones
+
 - [[Gran Reinicio]] (The Great Reset) — implementación ideológica complementaria
 - [[BlackRock]] — mayor gestor de activos sobre los que el Tier C cree tener propiedad
 - [[Crisis Financiera 2008]] — el ensayo del mecanismo
@@ -50,6 +53,7 @@ tags:
 - [[DTCC]] — el custodio real de toda la riqueza bursátil
 
 ---
+
 **Versión:** 2.0 (fusión The Great Taking v1.0 + La Gran Toma v1.0)
 **Enfoque:** Arquitectura legal del reseteo patrimonial masivo + análisis Tier A/B/C.
 **Estado:** Activo.

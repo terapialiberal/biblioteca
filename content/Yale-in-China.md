@@ -7,9 +7,11 @@ nivel-evidencia: "medio"
 tags: [china, familia, influencia, skull]
 publish: true
 ---
+
 # Yale-in-China (La Red De influencia)
 
 ## Resumen Ejecutivo
+
 **¿Qué es?** Una organización fundada en 1901 por misioneros y graduados de la Universidad de Yale (conectados a [[Skull and Bones]]).
 Misión official: Educación y medicina occidental en China.
 Realidad histórica: Fue el **incubador de la élite maoísta**.
@@ -24,17 +26,15 @@ George H.W. Bush (Skull and Bones, Yale) fue el primer enviado a China en 1974.
 ## Análisis (Tiers)
 
 ### Tier A (El Club)
+
 - **Skull and Bones:** La Orden 322 ve a China como su proyecto especial. Han mantenido el monopolio de la diplomacia con China durante un siglo, protegiendo los intereses del PCCh en Washington.
 
 ## Conexiones
+
 - [[Skull and Bones]]
 - [[Mao Zedong]]
 - [[Familia Bush]]
 
 ## Fuentes
+
 - "America's Secret Establishment" - Antony Sutton.
-
-
-
-
-

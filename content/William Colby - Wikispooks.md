@@ -6,9 +6,10 @@ fecha: 2026-02-06
 tags: [william-colby, cia, vietnam, programa-phoenix]
 publish: true
 ---
+
 # William Colby - Wikispooks
-![](https://wikispooks.com/w/images/f/f3/William_Colby.jpg)
----
+
+## ![](https://wikispooks.com/w/images/f/f3/William_Colby.jpg)
 
 ## TLDR
 
@@ -31,8 +32,8 @@ publish: true
 - [Franklin child prostitution ring](https://wikispooks.com/wiki/Franklin_child_prostitution_ring)
 - [Wikipedia](https://wikispooks.com/wiki/Wikipedia)
 - [Infarto](https://wikispooks.com/wiki/Heart_attack)
-- [Ictus](https://wikispooks.com/w/index.php?title=Stroke&action=edit&redlink=1)
-- [Carl Colby](https://wikispooks.com/w/index.php?title=Carl_Colby&action=edit&redlink=1)
+- [Ictus](https://wikispooks.com/w/index.php?title=Stroke\&action=edit\&redlink=1)
+- [Carl Colby](https://wikispooks.com/w/index.php?title=Carl_Colby\&action=edit\&redlink=1)
 - [Daños de la CIA](https://wikispooks.com/wiki/CIA)
 - [CIA](https://wikispooks.com/wiki/CIA)
 - [Coloquio de Análisis y Estimaciones](https://wikispooks.com/wiki/Colloquium_on_Analysis_and_Estimates)
@@ -52,17 +53,17 @@ publish: true
 ---
 
 ## 🧩 Análisis Propio
+
 (Mi interpretación, contexto, implicancias, hipótesis)
 
 ---
 
 ## 🎥 Multimedia Relacionado
+
 (Clips de X o material que agregues en el video)
 
 ---
 
 ## 🏷 Tags Sugeridos Por IA
+
 #CIA #VietnamWar #PhoenixProgram #Intelligence #Assassination
-
-
-

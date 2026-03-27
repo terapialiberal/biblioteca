@@ -6,10 +6,13 @@ fecha: 1966
 tags: [quigley, historia, elite, global]
 publish: true
 ---
+
 # Tragedia Y Esperanza
+
 ![](https://wikispooks.com/w/images/6/65/Tragedy_and_Hope.jpg)
 
 ## Destacados
+
 - **Título:** Tragedia y esperanza
 - **Tipo:** Libro
 - **Fecha de publicación:** 1966
@@ -20,9 +23,8 @@ publish: true
 - **Supresión:** La publicación original de Macmillan en 1966 enfrentó dificultades para reimprimir y distribuir copias, lo que Quigley atribuyó a \\"poderosas influencias\\".
 - **Legado:** El libro se ha vuelto disponible gratuitamente en Internet y el nombre inspiró el sitio web TragedyAndHope.com.
 
-
-
 ## Ver También
+
 - [[Carroll Quigley]]
 - [[El establishment angloamericano]]
 - [[CFR]]
@@ -30,9 +32,6 @@ publish: true
 - [[Bilderberg]]
 - [[El establishment]]
 
-
 ## Referencias
+
 - <https://wikispooks.com/wiki/Tragedy_and_Hope>
-
-
-

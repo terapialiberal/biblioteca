@@ -7,9 +7,11 @@ nivel-evidencia: "medio"
 tags: ["2025", agenda, incendios, ngeles]
 publish: true
 ---
+
 # Incendios De Los Ángeles 2025
 
 ## Perfil TL (Resumen Ejecutivo)
+
 **¿Qué fue?** Una ola de incendios forestales catastróficos que devastaron los barrios de Pacific Palisades, Malibú y otras zonas ricas de Los Ángeles a principios de 2025, destruyendo miles de hogares y provocando evacuaciones masivas.
 
 **¿Por qué importa?** Los incendios de LA 2025 no fueron solo un desastre natural; fueron una **Crisis de Infraestructura y Narrativa de Tier B**. Lo relevante fue el colapso de la respuesta estatal: los bomberos se quedaron sin agua debido a políticas de "gestión ambiental" que desviaron recursos hídricos fuera de la ciudad. El conflicto escaló a nivel federal cuando el presidente **Trump** denunció la incompetencia de los líderes demócratas de California (Tier B), amenazando con cortar fondos federales si no "limpiaban los bosques". El evento reveló las grietas del **Capitalismo de Desastre**: mientras el Tier C perdía sus casas, el Tier A inmobiliario ya proyectaba la rezonificación de tierras quemadas. Se sospecha el uso de **tecnologías de gestión climática** o negligencia criminal para avanzar en la agenda de ciudades inteligentes de alta densidad mediante la destrucción de zonas suburbanas.
@@ -17,16 +19,20 @@ publish: true
 ## Análisis De Poder (Tiers)
 
 ### Tier A (Los Dueños De La Reconstrucción)
-*   **Gentrificación Post-Fuego:** Las tierras devastadas por el fuego son compradas a descuento por fondos de inversión de Tier A. El incendio actúa como una "limpieza de inventario" forzada para desplazar a propietarios individuales y facilitar desarrollos corporativos compactos.
+
+- **Gentrificación Post-Fuego:** Las tierras devastadas por el fuego son compradas a descuento por fondos de inversión de Tier A. El incendio actúa como una "limpieza de inventario" forzada para desplazar a propietarios individuales y facilitar desarrollos corporativos compactos.
 
 ### Tier B (Operadores / Políticos De California Y Gestión Hídrica)
-*   **Gavin Newsom / Karen Bass:** El Tier B político que culpó exclusivamente al "cambio climático" para evadir su responsabilidad directa en la falta de hidrantes operativos y el mantenimiento de las líneas eléctricas de PG&E.
-*   **Burocracia del Agua:** Operadores de Tier B que priorizan mandatos ideológicos (salvaguarda de especies invasoras en ríos) por sobre la seguridad hídrica de los centros urbanos, induciendo una vulnerabilidad artificial.
+
+- **Gavin Newsom / Karen Bass:** El Tier B político que culpó exclusivamente al "cambio climático" para evadir su responsabilidad directa en la falta de hidrantes operativos y el mantenimiento de las líneas eléctricas de PG\&E.
+- **Burocracia del Agua:** Operadores de Tier B que priorizan mandatos ideológicos (salvaguarda de especies invasoras en ríos) por sobre la seguridad hídrica de los centros urbanos, induciendo una vulnerabilidad artificial.
 
 ### Tier C (Narrativa Pública)
-*   "El calentamiento global está quemando California". "Trump contra las celebridades de Hollywood". Narrativas de Tier B diseñadas para que el Tier C pelee sobre política partidaria o clima mientras su propiedad es destruida. El Tier C asume que no hay agua porque "no llueve", ignorando que California tiene agua de sobra que es desviada deliberadamente por decisiones burocráticas de Tier B para generar escasez y encarecimiento del suelo.
+
+- "El calentamiento global está quemando California". "Trump contra las celebridades de Hollywood". Narrativas de Tier B diseñadas para que el Tier C pelee sobre política partidaria o clima mientras su propiedad es destruida. El Tier C asume que no hay agua porque "no llueve", ignorando que California tiene agua de sobra que es desviada deliberadamente por decisiones burocráticas de Tier B para generar escasez y encarecimiento del suelo.
 
 ## Conexiones Clave
+
 - [[Gavin Newsom]] (El rostro del fracaso operativo)
 - [[Agenda 2030 / Ciudades de 15 Minutos]] (El modelo de reconstrucción)
 - [[PG&E (Negligencia Eléctrica)]] (El iniciador habitual)

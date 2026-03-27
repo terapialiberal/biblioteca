@@ -16,12 +16,15 @@ publish: true
 ## Análisis De Tiers
 
 ### Tier A (Los Dueños)
+
 - **Incentivo**: La **Captura de la Imaginación**. Quien controla los mitos (Isis), controla a la población sin necesidad de armas. El Tier A utiliza a Isis para crear las narrativas que hacen que el Tier C se sienta "especial" y "protegido" por el sistema.
 
 ### Tier B (Operadores / Ejecutores)
+
 - **Medios de Comunicación y Relaciones Públicas**: Son los tejedores del velo de Isis. Su función es asegurar que la cruda realidad del poder de Tier A permanezca oculta bajo una estética de humanismo y caridad.
 
 ---
+
 **Versión:** 1.0
 **Enfoque:** Ingeniería del consentimiento y gestión de la ilusión social.
 **Estado:** 2026-02-25 | Informe Activo

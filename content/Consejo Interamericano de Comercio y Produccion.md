@@ -7,18 +7,17 @@ nivel-evidencia: "medio"
 tags: [comercio, consejo, interamericano, produccin]
 publish: true
 ---
+
 # Consejo Interamericano De Comercio Y Producción (CICYP)
 
 > **Perfil TL:** El verdadero lobby.
 
 ## Contexto Preliminar
-*(Nota semilla creada desde el Gap Analysis. Require investigación profunda con Mónica).*
+
+_(Nota semilla creada desde el Gap Analysis. Require investigación profunda con Mónica)._
 
 ## Ejes De Investigación
-- [] Conexiones financieras (Funding)
-- [] Rol en la estructura de poder (Tiers)
-- [] Anomalías detectadas
 
-
-
-
+- \[] Conexiones financieras (Funding)
+- \[] Rol en la estructura de poder (Tiers)
+- \[] Anomalías detectadas

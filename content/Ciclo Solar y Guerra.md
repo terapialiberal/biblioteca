@@ -6,15 +6,16 @@ nivel-evidencia: 'medio'
 tags: [clasificado-ai]
 publish: true
 ---
+
 ﻿---
 publish: true
 titulo: Ciclo Solar Y Guerra
 tipo: "concepto"
 fecha: 2026-02-25
-tags: [ciclo, guerra, solar]
+tags: \[ciclo, guerra, solar]
 tier-primario: "b"
 nivel-evidencia: "medio"
----
+------------------------
 
 # Ciclo Solar Y Guerra
 
@@ -22,8 +23,9 @@ nivel-evidencia: "medio"
 > Nodo perteneciente a la Matrix de Simbolismo y Esoterismo TL V.2.
 
 ## Análisis De Tiers
-*En desarrollo...*
+
+_En desarrollo..._
 
 ## Cui Bono
-*Pendiente de análisis forense.*
 
+_Pendiente de análisis forense._

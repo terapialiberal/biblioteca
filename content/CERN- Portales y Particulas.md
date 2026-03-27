@@ -16,23 +16,29 @@ publish: true
 ## Análisis De Tiers
 
 ### Tier A (Los Dueños)
+
 - **Incentivo**: El dominio sobre el **Ether**. Si el Tier A logra hackear el código fuente de la materia, ya no necesita ejércitos ni bancos para controlar la realidad. El CERN es el "Acelerador de Tiempos" que busca precipitar cambios estructurales en la conciencia y la física global.
 
 ### Tier B (Operadores / Ejecutores)
+
 - **Comunidad Científica Global**: Miles de físicos trabajando en silos, sin conocer el propósito último del experimento completo (loteo de información clásico de inteligencia).
 
 ### Tier C (El Teatro / Percepción)
+
 - "Ciencia pura para entender el Big Bang". Esta narrativa es financiada masivamente para que el público vea el CERN como una catedral del conocimiento y no como un acelerador de agendas esotéricas.
 
 ## Conexiones Críticas
+
 - [[Shiva (El Destructor)]]: El arquetipo del Solve presente en la entrada.
 - [[Gematría del 666]]: El diseño del logo como marcador de propiedad.
 - [[Efecto Mandela]]: Las anomalías en la memoria colectiva que muchos vinculan a los experimentos del CERN.
 
 ## Cui Bono
+
 ¿Quién gana? Los **Ingenieros de la Realidad**. Si el experimento tiene éxito en manipular la densidad de la materia, el Tier A se convierte en "dioses" funcionales sobre un plano de existencia maleable.
 
 ---
+
 **Versión:** 1.0
 **Enfoque:** Física extrema y transgresión de límites dimensionales.
 **Estado:** 2026-02-25 | Informe Activo

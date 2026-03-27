@@ -7,11 +7,13 @@ nivel-evidencia: "medio"
 tags: [irn, john, north, oliver]
 publish: true
 ---
+
 # Oliver North
 
 > **Perfil TL:** El operador militar que conecta narcotráfico, armas ilegales, ley marcial y los orígenes de la vigilancia masiva.
 
 ## Resumen Ejecutivo
+
 **¿Quién es?** Teniente Coronel de los Marines, asesor del Consejo de Seguridad Nacional bajo Reagan. Figura central del escándalo [[Irán-Contra]]: vendía armas a Irán y usaba las ganancias para financiar a los Contras en Nicaragua, traficando cocaína en el proceso.
 
 **¿Por qué importa?** Es el nodo que conecta el tráfico de drogas de la CIA, los planes de ley marcial ([[Rex 84]]), y los orígenes de la vigilancia masiva moderna.
@@ -19,24 +21,29 @@ publish: true
 ## Análisis De Poder (Tiers)
 
 ### Tier B (Operador)
+
 Ejecutor de operaciones encubiertas. Trabajó bajo [[John Poindexter]] y [[William Casey]] (Director CIA).
 
 ### Tier C (Fachada post-escándalo)
+
 Tras ser condenado y luego exonerado, se convirtió en presentador de Fox News y comentarista conservador.
 
 ## Red De Conexiones
+
 - **Jefes:** [[William Casey]], [[John Poindexter]]
 - **Operaciones:** [[Irán-Contra]], [[Rex 84]], [[Mena Arkansas]]
-- **Conexión con drogas:** [[Barry Seal]], [[CIA Narcotráfico\|CIA y Narcotráfico]]
+- **Conexión con drogas:** [[Barry Seal]], [[CIA Narcotráfico|CIA y Narcotráfico]]
 
 ## Conexiones Clave
+
 - [[Irán-Contra]]
 - [[Rex 84]]
 - [[John Poindexter]]
-- [[00_Glosario - Conceptos Fase 1#FEMA\|FEMA]]
+- [[00_Glosario - Conceptos Fase 1#FEMA|FEMA]]
 - [[Barry Seal]]
 
 ## Fuentes
+
 - Audiencias del Congreso (Irán-Contra, 1987)
 - "Dark Alliance" - Gary Webb
 

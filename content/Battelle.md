@@ -7,6 +7,7 @@ nivel-evidencia: "medio"
 tags: [battelle, darpa, fort]
 publish: true
 ---
+
 # Battelle
 
 > [!ABSTRACT] Ficha Técnica
@@ -14,7 +15,9 @@ publish: true
 > **Función Real:** Operador de laboratorios nacionales y programas de biodefensa clasificados.
 
 ## Operaciones
+
 Battelle opera o co-opera múltiples laboratorios nacionales:
+
 - Oak Ridge National Laboratory
 - Brookhaven National Laboratory
 - Idaho National Laboratory
@@ -23,18 +26,16 @@ Battelle opera o co-opera múltiples laboratorios nacionales:
 También tiene contratos de **biodefensa** clasificados.
 
 ## Conexión Fort Detrick
+
 Battelle ha sido contratista de programas de biodefensa en [[Fort Detrick]], el centro de armas biológicas de EEUU.
 
 ## Conexiones
+
 - [[Fort Detrick]]
 - [[DARPA]]
 - [[DoE]] (Departamento de Energía)
 
 ## Fuentes
+
 - DOE contracts
 - Battelle annual reports
-
-
-
-
-
