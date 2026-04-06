@@ -38,4 +38,4 @@ Leo Strauss es el hombre que le quitó la culpa a los mentirosos del poder. Para
 - **Organizaciones:** [[00_Glosario - Conceptos Fase 1#PNAC (Project for the New American Century)|PNAC (Project for the New American Century)]], [[American Enterprise Institute]].
 - **Inspiración:** [[Maquiavelo]], [[Platón]] (Lectura Esotérica).
 
-**Estado:** Refactoreado a TL V.2 - Framework de Inteligencia Aplicado.
+**Estado:** Refactoreado a TL V.3 - Framework de Inteligencia Aplicado.

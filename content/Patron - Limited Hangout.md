@@ -1,43 +1,28 @@
 ---
-titulo: Patron - Limited Hangout
-tipo: "persona"
-tier-primario: 'b'
-nivel-evidencia: 'medio'
-tags: [clasificado-ai]
 publish: true
+created: 2026-02-28T15:14:19.883-03:00
+modified: 2026-04-02T12:56:00.590-03:00
+tags:
+  - patrones
+  - tl-v3
 ---
 
-﻿---
-publish: true
-titulo: Patrón - Limited Hangout
-tags: \[psyop, patrones, tl-v2, inteligencia]
-estado: procesado
------------------
+## ðŸ”Ž AXIOMA ASOCIADO: CibernÃ©tica de Poder / SeÃ±ales vs Ruido
 
-# Patrón - Limited Hangout
+El sistema no puede evitar crisis de relaciones pÃºblicas, pero puede gestionarlas. Al dar una confesiÃ³n parcial, se simula "transparencia", se quema a un chivo expiatorio (Tier C/B bajo) y se protege a la arquitectura estructural (Tier A).
 
-## 📌 BLUF (Core Concept)
+### âœ… SeÃ±ales y AplicaciÃ³n TL V.3
 
-Un **"Limited Hangout"** (Parapeto Limitado) es una táctica clásica de relaciones públicas y espionaje. Ocurre cuando el secreto de una facción de Poder ya no puede ser contenido porque la evidencia comenzó a filtrarse al público. En lugar de negarlo (lo que destruiría su credibilidad), **los perpetradores admiten voluntariamente una porción de la verdad —generalmente la menos dañina o la más evidente— para apaciguar a las masas y ocultar la conspiración mayor que subyace detrás.**
+- **El Caso Snowden**: Aunque las filtraciones de la NSA revelaron espionaje masivo, muchos analistas consideran que operÃ³ como un _Limited Hangout_ para normalizar psicolÃ³gicamente en la poblaciÃ³n el hecho de que "todos estamos vigilados", mientras se ocultaba el verdadero grado de fusiÃ³n biomÃ©trica e inteligencia artificial profunda que estaba en desarrollo.
+- **Admisiones de "Errores de Inteligencia" (WMD en Irak)**: "SÃ­, la CIA se equivocÃ³ en sus estimativos sobre las Armas de DestrucciÃ³n Masiva", ocultando la realidad de que no fue un error, sino una OperaciÃ³n PsicolÃ³gica deliberada para iniciar la guerra.
+- **Comisiones del Congreso**: Audiencias televisadas donde se interroga duramente a CEOs (Zuckerberg) o directores de agencias, resultando en multas financieras enormes que son apenas el costo operativo, sin cambiar la estructura subyacente de recolecciÃ³n de datos.
 
----
+### âš ï¸ Falsabilidad
 
-## 🔎 AXIOMA ASOCIADO: Cibernética de Poder / Señales vs Ruido
+Un evento **no** es un Limited Hangout (sino una purga genuina o un fallo sistÃ©mico catastrÃ³fico) sÃ­:
 
-El sistema no puede evitar crisis de relaciones públicas, pero puede gestionarlas. Al dar una confesión parcial, se simula "transparencia", se quema a un chivo expiatorio (Tier C/B bajo) y se protege a la arquitectura estructural (Tier A).
-
-### ✅ Señales y Aplicación TL V.2
-
-- **El Caso Snowden**: Aunque las filtraciones de la NSA revelaron espionaje masivo, muchos analistas consideran que operó como un _Limited Hangout_ para normalizar psicológicamente en la población el hecho de que "todos estamos vigilados", mientras se ocultaba el verdadero grado de fusión biométrica e inteligencia artificial profunda que estaba en desarrollo.
-- **Admisiones de "Errores de Inteligencia" (WMD en Irak)**: "Sí, la CIA se equivocó en sus estimativos sobre las Armas de Destrucción Masiva", ocultando la realidad de que no fue un error, sino una Operación Psicológica deliberada para iniciar la guerra.
-- **Comisiones del Congreso**: Audiencias televisadas donde se interroga duramente a CEOs (Zuckerberg) o directores de agencias, resultando en multas financieras enormes que son apenas el costo operativo, sin cambiar la estructura subyacente de recolección de datos.
-
-### ⚠️ Falsabilidad
-
-Un evento **no** es un Limited Hangout (sino una purga genuina o un fallo sistémico catastrófico) sí:
-
-1. La revelación resulta en el encarcelamiento real y la expropiación de activos de figuras núcleo del Tier A, o el desmantelamiento físico e irreversible de la corporación/agencia involucrada.
+1. La revelaciÃ³n resulta en el encarcelamiento real y la expropiaciÃ³n de activos de figuras nÃºcleo del Tier A, o el desmantelamiento fÃ­sico e irreversible de la corporaciÃ³n/agencia involucrada.
 
 ---
 
-_Versión: TL V.2 | Nodo Central: [[00_MOC - Patrones Clasicos de Poder]]_
+_VersiÃ³n: TL V.3 | Nodo Central: [[00_MOC - Patrones Clasicos de Poder]]_

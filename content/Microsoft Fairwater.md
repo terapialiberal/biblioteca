@@ -1,23 +1,10 @@
 ---
-titulo: Microsoft Fairwater
-tipo: "entidad"
-tier-primario: 'b'
-nivel-evidencia: 'medio'
-tags: [clasificado-ai]
 publish: true
+created: 2026-02-25T14:51:38.206-03:00
+modified: 2026-04-02T13:17:47.521-03:00
 ---
 
-﻿---
-titulo: MICROSOFT FAIRWATER (TL V.2)
-tipo: empresa
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: \[fairwater, microsoft, project, satya]
-publish: true
--------------
-
-# MICROSOFT FAIRWATER (TL V.2)
+# Microsoft Fairwater
 
 #### BLUF
 
@@ -78,8 +65,6 @@ Microsoft est revitalizando una zona que fue abandonada por la industria manufac
 
 #### LAGUNAS
 
-Cmo planea Microsoft gestionar los residuos de calor masivos y su efecto en el microclima local de Wisconsin sin afectar la agricultura circundante?
+## Cmo planea Microsoft gestionar los residuos de calor masivos y su efecto en el microclima local de Wisconsin sin afectar la agricultura circundante?
 
----
-
-_Dossier forense TL V.2 | La Ocupaciï¿½n Territorial del Tier A_
+_Dossier forense TL V.3 | La OcupaciÃ¯Â¿Â½n Territorial del Tier A_

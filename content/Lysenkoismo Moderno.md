@@ -37,4 +37,4 @@ Cuando la ideología se come a la biología, la sociedad se encamina hacia la ha
 - **Antecedentes:** [[00_Glosario - Conceptos Fase 1#Unión Soviética|Unión Soviética]], [[Trofim Lysenko]].
 - **Conceptos:** [[Guerra Cognitiva]], [[Manufactura de Consenso]].
 
-**Estado:** Refactoreado a TL V.2 - Framework de Biopolítica e Ingeniería Social.
+**Estado:** Refactoreado a TL V.3 - Framework de Biopolítica e Ingeniería Social.

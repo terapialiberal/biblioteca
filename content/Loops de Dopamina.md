@@ -37,4 +37,4 @@ Tu teléfono no es una herramienta; es un **electrodo neuronal** que descargás 
 - **Consecuencias:** [[Guerra Cognitiva]], [[Déficit de Atención Colectivo]].
 - **Contexto:** [[Capitalismo de Vigilancia]], [[La Nube]].
 
-**Estado:** Refactoreado a TL V.2 - Framework de Biopolítica Digital.
+**Estado:** Refactoreado a TL V.3 - Framework de Biopolítica Digital.

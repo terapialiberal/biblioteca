@@ -1,19 +1,26 @@
 ---
 publish: true
 created: 2026-02-25T11:26:39.294-03:00
-modified: 2026-03-04T16:36:07.046-03:00
+modified: 2026-04-02T13:08:50.822-03:00
+tags:
+  - base-de-conocimiento
+  - moc
+  - quartz
+  - tl-v3
 ---
 
-# 🏛️ Terapia Liberal — Base De Conocimiento
+# Terapia Liberal - Base de Conocimiento
 
 > _Análisis independiente para mentes críticas._
 
 Bienvenido a la biblioteca de inteligencia forense de **Terapia Liberal**. Miles de nodos de conocimiento interconectados sobre poder global, geopolítica, finanzas, historia oculta y operaciones encubiertas.
+Esta nota es el punto de entrada público para Quartz y no debe eliminarse.
 
 ---
 
 - 🗺️ [[00_Mapa_de_Poder_Global_A-Z|Mapa A-Z]] — Índice alfabético completo
-- 📂 [[00_MOC - Base de Conocimiento|Explorar por Categorías]] — Organizado por temas
+- 📂 [[00_MOC - Base de Conocimiento|Explorar por Categorías]] — Navegación temática canónica
+- 🧭 [[MOC_Navegacion|Navegación interna del vault]] — Vista operativa no pública
 
 ---
 
@@ -27,6 +34,7 @@ Bienvenido a la biblioteca de inteligencia forense de **Terapia Liberal**. Miles
 - 🔮 [[00_MOC - Simbolismo y Esoterismo|Simbolismo y Esoterismo]]
 - 💻 [[00_MOC - Tecnologia de Control|Tecnología de Control]]
 - 🗺️ [[00_MOC - Rimland|Geopolítica del Rimland]]
+- 🧩 [[00_MOC - Patrones Clasicos de Poder|Patrones Clásicos de Poder]]
 
 ---
 

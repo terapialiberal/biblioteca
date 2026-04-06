@@ -1,14 +1,15 @@
 ---
-titulo: SYNTHETIC BIOLOGY (TL V.2)
-tipo: "persona"
-fecha: 2026-02-25
-tier-primario: "a"
-nivel-evidencia: "alto"
-tags: [jennifer, manufactura, synthetic, vida]
 publish: true
+created: 2026-02-25T15:45:47.484-03:00
+modified: 2026-04-02T13:22:43.920-03:00
+tags:
+  - jennifer
+  - manufactura
+  - synthetic
+  - vida
 ---
 
-# SYNTHETIC BIOLOGY (TL V.2)
+# Synthetic Biology
 
 #### BLUF
 

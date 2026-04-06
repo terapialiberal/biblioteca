@@ -1,43 +1,28 @@
 ---
-titulo: Patron - Volcado Selectivo de Informacion (Kompromat)
-tipo: "persona"
-tier-primario: 'b'
-nivel-evidencia: 'medio'
-tags: [clasificado-ai]
 publish: true
+created: 2026-02-28T15:14:24.644-03:00
+modified: 2026-04-02T12:56:01.561-03:00
+tags:
+  - patrones
+  - tl-v3
 ---
 
-﻿---
-publish: true
-titulo: Patrón - Volcado Selectivo de Información (Kompromat)
-tags: \[psyop, patrones, tl-v2, kompromat, epstein]
-estado: procesado
------------------
+## ðŸ”Ž AXIOMA ASOCIADO: CibernÃ©tica de Poder / Cui Bono Final
 
-# Patrón - Volcado Selectivo de Información (Kompromat)
+La informaciÃ³n clasificada ("Los Archivos") nunca se libera por presiÃ³n pÃºblica ni por periodismo de investigaciÃ³n puro; se libera porque una facciÃ³n decidiÃ³ usarla como arma (Weaponized Transparency) contra otra facciÃ³n o para reiniciar el ciclo.
 
-## 📌 BLUF (Core Concept)
+### âœ… SeÃ±ales y AplicaciÃ³n TL V.3
 
-El **Volcado Selectivo** ocurre cuando una agencia de inteligencia o un nodo de Tier B filtra información perjudicial de forma asimétrica, exponiendo solo a ciertos actores mientras se oculta a otros. Su objetivo no es la justicia, sino **destruir políticamente a una facción adversaria, enviar mensajes mafiosos internos, o quemar herramientas de control (Kompromat) que ya perdieron su utilidad operativa**.
+- **Los Archivos / Lista de Epstein**: La captura de Epstein y la posterior liberaciÃ³n a cuentagotas de listas de vuelos y asociados no fue un triunfo de la Justicia. Fue el volcado selectivo de una red de inteligencia comprometedora (Mossad/Mega Group/CIA) que habÃ­a dejado de ser Ãºtil, usada para purgar Tier B/C obsoletos (CEO de Barclays, ciertas alas del partido DemÃ³crata y la Realeza BritÃ¡nica) mientras la columna vertebral operativa fue protegida.
+- **The Twitter Files / Laptop de Hunter Biden**: Usados tÃ¡ctica y temporalmente para influenciar elecciones o negociar posiciones en el Estado Profundo. La censura o la desclasificaciÃ³n intermitente dictan el ritmo del teatro polÃ­tico.
+- **WikiLeaks (Cables DiplomÃ¡ticos)**: Las filtraciones controladas sirven para disciplinar aliados internacionales, dejando expuestos pactos discretos (ej. acuerdos de ONGs para cambiar gobiernos en terceros paÃ­ses) si el paÃ­s anfitriÃ³n desobedece a Washington.
 
----
+### âš ï¸ Falsabilidad
 
-## 🔎 AXIOMA ASOCIADO: Cibernética de Poder / Cui Bono Final
+Esta clasificaciÃ³n de patrÃ³n es falsa si:
 
-La información clasificada ("Los Archivos") nunca se libera por presión pública ni por periodismo de investigación puro; se libera porque una facción decidió usarla como arma (Weaponized Transparency) contra otra facción o para reiniciar el ciclo.
-
-### ✅ Señales y Aplicación TL V.2
-
-- **Los Archivos / Lista de Epstein**: La captura de Epstein y la posterior liberación a cuentagotas de listas de vuelos y asociados no fue un triunfo de la Justicia. Fue el volcado selectivo de una red de inteligencia comprometedora (Mossad/Mega Group/CIA) que había dejado de ser útil, usada para purgar Tier B/C obsoletos (CEO de Barclays, ciertas alas del partido Demócrata y la Realeza Británica) mientras la columna vertebral operativa fue protegida.
-- **The Twitter Files / Laptop de Hunter Biden**: Usados táctica y temporalmente para influenciar elecciones o negociar posiciones en el Estado Profundo. La censura o la desclasificación intermitente dictan el ritmo del teatro político.
-- **WikiLeaks (Cables Diplomáticos)**: Las filtraciones controladas sirven para disciplinar aliados internacionales, dejando expuestos pactos discretos (ej. acuerdos de ONGs para cambiar gobiernos en terceros países) si el país anfitrión desobedece a Washington.
-
-### ⚠️ Falsabilidad
-
-Esta clasificación de patrón es falsa si:
-
-1. Las filtraciones de documentos exponen la red de financiamiento y benefactores últimos del Tier A de manera sistemática, irrefutable, equitativa y completa (sin páginas tachadas - "Blacked out"), causando cambios tangibles en la matriz financiera global.
+1. Las filtraciones de documentos exponen la red de financiamiento y benefactores Ãºltimos del Tier A de manera sistemÃ¡tica, irrefutable, equitativa y completa (sin pÃ¡ginas tachadas - "Blacked out"), causando cambios tangibles en la matriz financiera global.
 
 ---
 
-_Versión: TL V.2 | Nodo Central: [[00_MOC - Patrones Clasicos de Poder]]_
+_VersiÃ³n: TL V.3 | Nodo Central: [[00_MOC - Patrones Clasicos de Poder]]_

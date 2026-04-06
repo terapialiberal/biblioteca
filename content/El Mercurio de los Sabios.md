@@ -1,31 +1,21 @@
 ---
-titulo: El Mercurio de los Sabios
-tipo: "concepto"
-tier-primario: 'b'
-nivel-evidencia: 'medio'
-tags: [clasificado-ai]
 publish: true
+created: 2026-02-25T22:08:51.421-03:00
+modified: 2026-04-02T13:01:16.285-03:00
+tags:
+  - mercurio
+  - sabios
 ---
-
-﻿---
-titulo: El Mercurio De Los Sabios (Capital Flotante)
-tipo: "concepto"
-fecha: 2026-02-25
-tags: \[mercurio, sabios]
-tier-primario: "b"
-nivel-evidencia: "medio"
-publish: true
--------------
 
 # El Mercurio De Los Sabios (Capital Flotante)
 
-> [!ABSTRACT] Hipótesis Informativa
-> Nodo perteneciente a la Matrix de Simbolismo y Esoterismo TL V.2.
+> [!ABSTRACT] HipÃ³tesis Informativa
+> Nodo perteneciente a la Matrix de Simbolismo y Esoterismo TL V.3.
 
-## Análisis De Tiers
+## AnÃ¡lisis De Tiers
 
 _En desarrollo..._
 
 ## Cui Bono
 
-_Pendiente de análisis forense._
+_Pendiente de anÃ¡lisis forense._

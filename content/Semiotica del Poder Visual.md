@@ -1,31 +1,22 @@
 ---
-titulo: Semiótica del Poder Visual
-tipo: "concepto"
-tier-primario: 'b'
-nivel-evidencia: 'medio'
-tags: [clasificado-ai]
 publish: true
+created: 2026-02-25T22:08:57.381-03:00
+modified: 2026-04-02T13:01:22.590-03:00
+tags:
+  - poder
+  - semitica
+  - visual
 ---
 
-﻿---
-titulo: Semiótica Del Poder Visual
-tipo: "concepto"
-fecha: 2026-02-25
-tags: \[poder, semitica, visual]
-tier-primario: "b"
-nivel-evidencia: "medio"
-publish: true
--------------
+# SemiÃ³tica Del Poder Visual
 
-# Semiótica Del Poder Visual
-
-> [!ABSTRACT] Hipótesis Informativa
+> [!ABSTRACT] HipÃ³tesis Informativa
 > Nodo perteneciente a la Matrix de Simbolismo y Esoterismo TL V.2.
 
-## Análisis De Tiers
+## AnÃ¡lisis De Tiers
 
 _En desarrollo..._
 
 ## Cui Bono
 
-_Pendiente de análisis forense._
+_Pendiente de anÃ¡lisis forense._

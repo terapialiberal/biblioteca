@@ -1,14 +1,15 @@
 ---
-titulo: 💰 MOC — CONTROL FINANCIERO
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [00-moc, banco, financiero, reserva]
 publish: true
+created: 2026-02-24T13:32:27.996-03:00
+modified: 2026-04-02T13:11:45.904-03:00
+tags:
+  - 00-moc
+  - banco
+  - financiero
+  - reserva
 ---
 
-# 💰 MOC — CONTROL FINANCIERO
+# Control Financiero
 
 > **Cui Bono**: El dinero no desaparece. Se transfiere.
 > Ver también: [[00_MOC - Finanzas y CBDC|MOC - Finanzas y CBDC]] para la capa CBDC/digital.
@@ -161,6 +162,7 @@ publish: true
 - [[Ethereum Foundation.md|Ethereum Foundation]]
 - [[Euroclear.md|Euroclear]]
 - [[Fondos Buitre.md|Fondos Buitre]]
+- [[Fractalidad de la Deuda.md|Fractalidad de la Deuda]]
 - [[Geocercas.md|Geocercas]]
 - [[Gold Backed CBDC - Pilot.md|Gold Backed CBDC - Pilot]]
 - [[Grupo de los Treinta.md|Grupo de los Treinta]]
@@ -185,12 +187,8 @@ publish: true
 - [[06_Videos_Publicados/2026/2026-01-07_Gaza_SA/Post Gaza SA.md|Post Gaza SA]]
 - [[Proporcion 1.618 en HFT.md|Proporcion 1.618 en HFT]]
 - [[Reserva Federal.md|Reserva Federal]]
-- [[Rishi Sunak.md|Rishi Sunak]]
-- [[Santiago Bausili.md|Santiago Bausili]]
 - [[Saturno y Deuda.md|Saturno y Deuda]]
-- [[Score Ciudadano.md|Score Ciudadano]]
 - [[Señoreaje.md|Señoreaje]]
-- [[Shock de Nixon.md|Shock de Nixon]]
 - [[Tokenizacion de Activos Reales.md|Tokenizacion de Activos Reales]]
 - [[05_Fuentes/Winds of Change The Case for New Digital Currency by Christine Lagarde.md|Winds of Change The Case for New Digital Currency by Christine Lagarde]]
 

@@ -39,4 +39,4 @@ Les Wexner es el hombre detrás de la cortina. Si Epstein era la marioneta que a
 - **Empresas:** [[Victoria's Secret]], [[The Limited]], [[Abercrombie & Fitch]].
 - **Alianzas Políticas:** [[Netanyahu]], [[RJC (Republican Jewish Coalition)]].
 
-**Estado:** Refactoreado a TL V.2 - Framework de Inteligencia Aplicado.
+**Estado:** Refactoreado a TL V.3 - Framework de Inteligencia Aplicado.

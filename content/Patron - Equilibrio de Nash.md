@@ -1,44 +1,52 @@
 ---
-titulo: Patron - Equilibrio de Nash
-tipo: "entidad"
-tier-primario: 'b'
-nivel-evidencia: 'medio'
-tags: [clasificado-ai]
 publish: true
+created: 2026-02-28T15:09:30.113-03:00
+modified: 2026-04-02T12:52:23.797-03:00
+tags:
+  - game-theory
+  - tl-v3
+  - nash
+  - patrones
 ---
-
-﻿---
-publish: true
-titulo: Patrón - Equilibrio de Nash (Teoría de Juegos)
-tags: \[game-theory, tl-v2, nash, patrones]
-estado: procesado
------------------
 
 # Patrón - Equilibrio de Nash (Teoría de Juegos)
 
-## 📌 BLUF (Core Concept)
+## BLUF
 
-Un **Equilibrio de Nash** ocurre cuando ningún actor en un sistema puede beneficiarse cambiando unilateralmente su estrategia mientras los demás mantengan la suya. **Es la justificación matemática de por qué sistemas ineficientes o destructivos persisten en la geopolítica y los mercados**: cooperar requeriría que todos salten al unísono, y el riesgo de ser traicionado congela a todos en el _status quo_ subóptimo.
-
----
-
-## 🔎 AXIOMA ASOCIADO: Praxeología Forense
-
-Los actores de Poder global (Tiers A/B/C) son racionales y buscan maximizar sus medios a costas de otros. El equilibrio no significa justicia ni eficiencia global, significa inmovilidad estratégica.
-
-### ✅ Ejemplos Históricos (Señales Documentadas)
-
-- **Guerra Fría (Destrucción Mutua Asegurada - MAD)**: Ni EEUU ni la URSS podían desarmarse unilateralmente sin sufrir una pérdida catastrófica.
-- **Oligopolios Farmacéuticos/Bancarios**: Fijación táctica de precios o prácticas predatorias — si un solo banco o fondo cambia a prácticas "éticas", es canibalizado por el resto.
-- **Tragedia de los Comunes**: Deforestación y agotamiento de recursos — "si yo no lo exploto hoy, mi vecino lo hará mañana y perderé la ventaja".
-
-### ⚠️ Falsabilidad
-
-Un Equilibrio de Nash se rompe (se falsa su permanencia) **solo de dos formas**:
-
-1. Una disrupción tecnológica masiva que altera los pagos de la matriz de beneficios (ej. invención de la bomba nuclear, internet).
-2. Un shock exógeno (Guerra, Cisne Negro) o la intervención de un poder Tier A superior que forza un nuevo paradigma regulatorio a todos los actores por igual.
+Un **Equilibrio de Nash** ocurre cuando ningún actor en un sistema puede beneficiarse cambiando unilateralmente su estrategia mientras los demás mantengan la suya. Explica por qué sistemas ineficientes o destructivos persisten en geopolítica, mercados y burocracias.
 
 ---
 
-_Versión: TL V.2 | Nodo Central: [[00_MOC - Patrones Clasicos de Poder]]_
+## Axioma Asociado
+
+Los actores de poder operan bajo incentivos, no bajo moral abstracta. El equilibrio no implica justicia ni eficiencia global; implica inmovilidad estratégica.
+
+---
+
+## Ejemplos Históricos
+
+- **Guerra Fría / MAD:** ni EE.UU. ni la URSS podían desarmarse unilateralmente sin asumir una pérdida catastrófica.
+- **Oligopolios bancarios o farmacéuticos:** si un actor cambia solo hacia prácticas más blandas, pierde frente al resto.
+- **Tragedia de los comunes:** cada actor explota el recurso por miedo a que otro capture primero la ventaja.
+
+---
+
+## Falsabilidad
+
+Un equilibrio de Nash se rompe cuando:
+
+1. cambia la matriz de incentivos por una disrupción tecnológica o regulatoria;
+2. aparece un shock exógeno que obliga a todos los actores a recalcular;
+3. un poder superior impone un nuevo marco de costos y recompensas.
+
+---
+
+## Uso Forense
+
+- detectar por qué un sistema tóxico persiste;
+- distinguir retórica de incentivos reales;
+- identificar qué actor tendría que pagar el costo de moverse primero.
+
+---
+
+_Versión: TL V.3 | Nodo Central: [[00_MOC - Patrones Clasicos de Poder]]_

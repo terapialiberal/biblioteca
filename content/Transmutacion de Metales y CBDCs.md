@@ -1,31 +1,22 @@
 ---
-titulo: Transmutación de Metales y CBDCs
-tipo: "concepto"
-tier-primario: 'b'
-nivel-evidencia: 'medio'
-tags: [clasificado-ai]
 publish: true
+created: 2026-02-25T22:08:53.356-03:00
+modified: 2026-04-02T13:01:18.449-03:00
+tags:
+  - cbdcs
+  - metales
+  - transmutacin
 ---
 
-﻿---
-titulo: Transmutación De Metales Y CBDCs
-tipo: "concepto"
-fecha: 2026-02-25
-tags: \[cbdcs, metales, transmutacin]
-tier-primario: "b"
-nivel-evidencia: "medio"
-publish: true
--------------
+# TransmutaciÃ³n De Metales Y CBDCs
 
-# Transmutación De Metales Y CBDCs
-
-> [!ABSTRACT] Hipótesis Informativa
+> [!ABSTRACT] HipÃ³tesis Informativa
 > Nodo perteneciente a la Matrix de Simbolismo y Esoterismo TL V.2.
 
-## Análisis De Tiers
+## AnÃ¡lisis De Tiers
 
 _En desarrollo..._
 
 ## Cui Bono
 
-_Pendiente de análisis forense._
+_Pendiente de anÃ¡lisis forense._

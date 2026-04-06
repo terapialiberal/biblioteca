@@ -1,31 +1,21 @@
 ---
-titulo: Construcciones Megalíticas
-tipo: "concepto"
-tier-primario: 'b'
-nivel-evidencia: 'medio'
-tags: [clasificado-ai]
 publish: true
+created: 2026-02-25T22:08:57.891-03:00
+modified: 2026-04-02T13:01:23.388-03:00
+tags:
+  - construcciones
+  - megalticas
 ---
 
-﻿---
-titulo: Construcciones Megalíticas
-tipo: persona
-fecha: 2026-02-25
-tags: \[construcciones, megalticas]
-tier-primario: "b"
-nivel-evidencia: "medio"
-publish: true
--------------
+# Construcciones MegalÃ­ticas
 
-# Construcciones Megalíticas
+> [!ABSTRACT] HipÃ³tesis Informativa
+> Nodo perteneciente a la Matrix de Simbolismo y Esoterismo TL V.3.
 
-> [!ABSTRACT] Hipótesis Informativa
-> Nodo perteneciente a la Matrix de Simbolismo y Esoterismo TL V.2.
-
-## Análisis De Tiers
+## AnÃ¡lisis De Tiers
 
 _En desarrollo..._
 
 ## Cui Bono
 
-_Pendiente de análisis forense._
+_Pendiente de anÃ¡lisis forense._

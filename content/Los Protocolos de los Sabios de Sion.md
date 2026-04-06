@@ -37,4 +37,4 @@ No importa quién los escribió; importa que **se están cumpliendo**. Henry For
 - **Influencias:** [[Maquiavelo]], [[Gustave Le Bon]] (Psicología de las Masas).
 - **Resultados:** [[00_Glosario - Conceptos Fase 1#Nuevo Orden Mundial|Nuevo Orden Mundial]], [[Agenda 2030]].
 
-**Estado:** Refactoreado a TL V.2 - Análisis Praxeológico (Más allá del origen).
+**Estado:** Refactoreado a TL V.3 - Análisis Praxeológico (Más allá del origen).

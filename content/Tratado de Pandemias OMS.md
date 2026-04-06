@@ -1,14 +1,15 @@
 ---
-titulo: TRATADO DE PANDEMIAS DE LA OMS (TL V.2)
-tipo: "evento"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "alto"
-tags: [bill, bioseguridad, pandemias, tratado]
 publish: true
+created: 2026-02-25T15:44:39.927-03:00
+modified: 2026-04-02T13:22:43.946-03:00
+tags:
+  - bill
+  - bioseguridad
+  - pandemias
+  - tratado
 ---
 
-# TRATADO DE PANDEMIAS DE LA OMS (TL V.2)
+# Tratado de Pandemias de la OMS
 
 #### BLUF
 

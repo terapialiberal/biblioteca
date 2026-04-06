@@ -1,43 +1,28 @@
 ---
-titulo: Patron - Trampa de Tucidides
-tipo: "concepto"
-tier-primario: 'b'
-nivel-evidencia: 'medio'
-tags: [clasificado-ai]
 publish: true
+created: 2026-02-28T15:13:33.681-03:00
+modified: 2026-04-02T12:56:00.567-03:00
+tags:
+  - patrones
+  - tl-v3
 ---
 
-﻿---
-publish: true
-titulo: Patrón - Trampa de Tucídides
-tags: \[geopolitica, patrones, tl-v2, tucidides]
-estado: procesado
------------------
+## ðŸ”Ž AXIOMA ASOCIADO: CibernÃ©tica de Poder / Supervivencia del Tier A
 
-# Patrón - Trampa de Tucídides
+El HegemÃ³n no aceptarÃ¡ la transiciÃ³n al rol de secundario. Si los mÃ©todos de guerra cibernÃ©tica, sanciones y lawfare fallan para detener el "Vaciado TecnolÃ³gico" o Comercial del poder emergente, el sistema recurrirÃ¡ a la destrucciÃ³n cinÃ©tica forzada.
 
-## 📌 BLUF (Core Concept)
+### âœ… SeÃ±ales y AplicaciÃ³n TL V.3
 
-Un axioma historiográfico (popularizado por Graham Allison basado en la Guerra del Peloponeso). Postula que **cuando una potencia emergente (China) amenaza con desplazar a una potencia hegemónica establecida (Estados Unidos), el conflicto estructural y muchas veces la guerra bélica abierta, es prácticamente inevitable.** La ansiedad del hegemón por asfixiar al retador antes de que cruce el punto de no retorno dispara la confrontación agresiva.
+- **Desacoplamiento Bipolar**: Fractura de semiconductores (Chips Act, TSMC), tecnologÃ­a y matrices 5G/6G (Huawei vs Infraestructura EEUU). SeparaciÃ³n del mundo en dos ecosistemas que eviten la interdependencia tecnolÃ³gica.
+- **Guerra EconÃ³mica Pre-CinÃ©tica**: Antesismo en la fijaciÃ³n o captura de cadenas de suministro vitales (Tierras Raras, Cobalto de Sangre, Litio) bajo la premisa existencial de que "si no lo hacemos hoy, ellos lo tendrÃ¡n todo en 2030".
+- **El Punto de Ruptura (TaiwÃ¡n / Sur de China)**: Es la vÃ¡lvula de presiÃ³n final donde el hegemÃ³n actual cruza la "lÃ­nea roja" del hegemÃ³n insurgente forzando que el retador reaccione, o se humille perdiendo la oportunidad dorada de su historia.
 
----
+### âš ï¸ Falsabilidad
 
-## 🔎 AXIOMA ASOCIADO: Cibernética de Poder / Supervivencia del Tier A
+La Trampa de TucÃ­dides moderna (EEUU vs China/Bloque Multipolar) se evita y se falsa el destino cÃ­clico Ãºnicamente si:
 
-El Hegemón no aceptará la transición al rol de secundario. Si los métodos de guerra cibernética, sanciones y lawfare fallan para detener el "Vaciado Tecnológico" o Comercial del poder emergente, el sistema recurrirá a la destrucción cinética forzada.
-
-### ✅ Señales y Aplicación TL V.2
-
-- **Desacoplamiento Bipolar**: Fractura de semiconductores (Chips Act, TSMC), tecnología y matrices 5G/6G (Huawei vs Infraestructura EEUU). Separación del mundo en dos ecosistemas que eviten la interdependencia tecnológica.
-- **Guerra Económica Pre-Cinética**: Antesismo en la fijación o captura de cadenas de suministro vitales (Tierras Raras, Cobalto de Sangre, Litio) bajo la premisa existencial de que "si no lo hacemos hoy, ellos lo tendrán todo en 2030".
-- **El Punto de Ruptura (Taiwán / Sur de China)**: Es la válvula de presión final donde el hegemón actual cruza la "línea roja" del hegemón insurgente forzando que el retador reaccione, o se humille perdiendo la oportunidad dorada de su historia.
-
-### ⚠️ Falsabilidad
-
-La Trampa de Tucídides moderna (EEUU vs China/Bloque Multipolar) se evita y se falsa el destino cíclico únicamente si:
-
-1. Ambas superpotencias sufren al mismo tiempo un colapso demográfico e institucional interno tan vasto que ni siquiera pueden movilizar estructuras de guerra exterior, lográndose una transición por mera "inanición sistémica".
+1. Ambas superpotencias sufren al mismo tiempo un colapso demogrÃ¡fico e institucional interno tan vasto que ni siquiera pueden movilizar estructuras de guerra exterior, logrÃ¡ndose una transiciÃ³n por mera "inaniciÃ³n sistÃ©mica".
 
 ---
 
-_Versión: TL V.2 | Nodo Central: [[00_MOC - Patrones Clasicos de Poder]]_
+_VersiÃ³n: TL V.3 | Nodo Central: [[00_MOC - Patrones Clasicos de Poder]]_

@@ -140,7 +140,7 @@ _La arquitectura revelada por los Twitter Files y Mike Benz._
 - [[00_Glosario - Conceptos Fase 1#Facebook (Orígenes)|Facebook (Orígenes)]] - Diseño para adicción
 - [[Rumble]] - ¿Alternativa real o controlada?
 
-### Herramientas De Control Cognitivo (TL V.2)
+### Herramientas De Control Cognitivo (TL V.3)
 
 - [[Cognitive Warfare]] — La conquista del espacio mental
 - [[Manufacture of Consent 2.0]] — El algoritmo de la verdad

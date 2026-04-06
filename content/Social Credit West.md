@@ -1,14 +1,15 @@
 ---
-titulo: SOCIAL CREDIT WEST (TL V.2)
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "a"
-nivel-evidencia: "alto"
-tags: [bajo, credit, disfraz, sector]
 publish: true
+created: 2026-02-25T16:10:42.672-03:00
+modified: 2026-04-02T13:22:43.891-03:00
+tags:
+  - bajo
+  - credit
+  - disfraz
+  - sector
 ---
 
-# SOCIAL CREDIT WEST (TL V.2)
+# Social Credit West
 
 #### BLUF
 

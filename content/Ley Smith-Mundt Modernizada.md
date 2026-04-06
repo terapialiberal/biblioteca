@@ -36,4 +36,4 @@ Hoy, un periodista de un "Mainstream Media" no es un investigador, es un **retra
 - **Estructuras:** [[Complejo Industrial de la Censura]], [[Departamento de Estado]], [[Pentágono]].
 - **Actores:** [[Hillary Clinton]] (Promotora), [[Michael Hastings]] (Mártir/Investigador).
 
-**Estado:** Refactoreado a TL V.2 - Framework de Inteligencia Aplicado.
+**Estado:** Refactoreado a TL V.3 - Framework de Inteligencia Aplicado.

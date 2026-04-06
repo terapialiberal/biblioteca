@@ -1,31 +1,21 @@
 ---
-titulo: Nano-tecnología
-tipo: "concepto"
-tier-primario: 'b'
-nivel-evidencia: 'medio'
-tags: [clasificado-ai]
 publish: true
+created: 2026-02-25T22:08:57.614-03:00
+modified: 2026-04-02T13:01:22.854-03:00
+tags:
+  - nano
+  - tecnologa
 ---
 
-﻿---
-titulo: Nano-tecnología (Polvo Inteligente)
-tipo: "concepto"
-fecha: 2026-02-25
-tags: \[nano, tecnologa]
-tier-primario: "b"
-nivel-evidencia: "medio"
-publish: true
--------------
+# Nano-tecnologÃ­a (Polvo Inteligente)
 
-# Nano-tecnología (Polvo Inteligente)
+> [!ABSTRACT] HipÃ³tesis Informativa
+> Nodo perteneciente a la Matrix de Simbolismo y Esoterismo TL V.3.
 
-> [!ABSTRACT] Hipótesis Informativa
-> Nodo perteneciente a la Matrix de Simbolismo y Esoterismo TL V.2.
-
-## Análisis De Tiers
+## AnÃ¡lisis De Tiers
 
 _En desarrollo..._
 
 ## Cui Bono
 
-_Pendiente de análisis forense._
+_Pendiente de anÃ¡lisis forense._

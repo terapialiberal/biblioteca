@@ -50,4 +50,4 @@ publish: true
 
 **Falsabilidad**: Si la burocracia federal logra reorganizarse y bloquear las órdenes de DOGE mediante el poder judicial, la "Purga Tecnocrática" se estancaría y el Estado tradicional recuperaría el control.
 
-_Versión: 2.0 | Protocolo TL-INTEL TL V.2_
+_Versión: 2.0 | Protocolo TL-INTEL TL V.3_

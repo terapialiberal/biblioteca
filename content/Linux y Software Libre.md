@@ -37,4 +37,4 @@ Si usas Windows, sos un inquilino en tu propia computadora, y el dueño de casa 
 - **Amenazas:** [[Vigilancia Masiva]], [[CIA]], [[NSA]].
 - **Héroes:** [[Richard Stallman]] (Filosofía), [[Linus Torvalds]] (Ingeniería).
 
-**Estado:** Refactoreado a TL V.2 - Framework de Resistencia Digital.
+**Estado:** Refactoreado a TL V.3 - Framework de Resistencia Digital.

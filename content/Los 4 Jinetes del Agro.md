@@ -38,4 +38,4 @@ Quien controla el petróleo controla las naciones, pero **quien controla la comi
 - **Contexto:** [[Ucrania]], [[Seguridad Alimentaria]], [[Monsanto (Bayer)]].
 - **Mecanismos:** [[Especulación de Commodities]], [[Soberanía Alimentaria]].
 
-**Estado:** Refactoreado a TL V.2 - Framework de Cartelización Agraria.
+**Estado:** Refactoreado a TL V.3 - Framework de Cartelización Agraria.

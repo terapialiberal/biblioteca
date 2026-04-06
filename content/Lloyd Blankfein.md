@@ -37,4 +37,4 @@ Lloyd Blankfein no es un banquero; es un **Tecncrata de la Escasez**. Su "trabaj
 - **Sombra:** [[Jeffrey Epstein]] (Relaciones post-condena).
 - **Eventos:** [[Crisis Financiera 2008]], [[Bail-out]].
 
-**Estado:** Refactoreado a TL V.2 - Framework de Inteligencia Aplicado.
+**Estado:** Refactoreado a TL V.3 - Framework de Inteligencia Aplicado.

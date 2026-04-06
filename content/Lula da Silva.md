@@ -37,4 +37,4 @@ Lula es la prueba de que en el siglo XXI la "izquierda" y la "derecha" son etiqu
 - **Operativo de Censura:** [[Alexandre de Moraes]] (El brazo ejecutor).
 - **Eventos:** [[Elecciones Brasil 2022]], [[Operación Lava Jato]].
 
-**Estado:** Refactoreado a TL V.2 - Framework de Geopolítica Multipolar.
+**Estado:** Refactoreado a TL V.3 - Framework de Geopolítica Multipolar.

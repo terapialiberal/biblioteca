@@ -38,4 +38,4 @@ publish: true
 - **Antecedentes:** [[Pánico de 1907]] (La crisis fabricada).
 - **Consecuencias:** [[Depresión de 1920]], [[Crash de Wall Street 1929]], [[00_Glosario - Conceptos Fase 1#Bretton Woods|Bretton Woods]].
 
-**Estado:** Refactoreado a TL V.2 - Framework de Inteligencia Aplicado.
+**Estado:** Refactoreado a TL V.3 - Framework de Inteligencia Aplicado.

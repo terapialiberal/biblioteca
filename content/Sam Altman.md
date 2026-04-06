@@ -1,14 +1,15 @@
 ---
-titulo: SAM ALTMAN (TL V.2)
-tipo: "persona"
-fecha: 2026-02-25
-tier-primario: "a"
-nivel-evidencia: "alto"
-tags: [altman, energa, helion, openai]
 publish: true
+created: 2026-01-29T19:17:35.199-03:00
+modified: 2026-04-02T13:22:42.453-03:00
+tags:
+  - altman
+  - energa
+  - helion
+  - openai
 ---
 
-# SAM ALTMAN (TL V.2)
+# Sam Altman
 
 #### BLUF
 

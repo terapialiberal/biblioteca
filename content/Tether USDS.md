@@ -1,14 +1,15 @@
 ---
-titulo: TETHER USDS (TL V.2)
-tipo: "persona"
-fecha: 2026-02-25
-tier-primario: "a"
-nivel-evidencia: "alto"
-tags: [dlar, estado, paolo, usds]
 publish: true
+created: 2026-02-25T16:07:03.031-03:00
+modified: 2026-04-02T13:22:44.076-03:00
+tags:
+  - dlar
+  - estado
+  - paolo
+  - usds
 ---
 
-# TETHER USDS (TL V.2)
+# Tether USDS
 
 #### BLUF
 

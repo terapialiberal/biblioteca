@@ -37,4 +37,4 @@ Lucis Trust es el "Departamento de Almas" de la Globalización. Su función es c
 - **Relaciones:** [[Club of Rome]], [[World Economic Forum]], [[UNESCO]].
 - **Conceptos:** [[Luciferianismo]], [[Agenda 2030]], [[00_Glosario - Conceptos Fase 1#Nuevo Orden Mundial|Nuevo Orden Mundial]].
 
-**Estado:** Refactoreado a TL V.2 - Marco de Inteligencia Espiritual-Global.
+**Estado:** Refactoreado a TL V.3 - Marco de Inteligencia Espiritual-Global.

@@ -3,7 +3,7 @@ publish: true
 titulo: "5G - 6G: La Infraestructura De Control Total"
 tipo: "concepto"
 fecha: 2026-02-27
-tags: [intel, analisis, TL V.2]
+tags: [intel, analisis, TL V.3]
 ---
 
 # 5G - 6G: La Infraestructura De Control Total

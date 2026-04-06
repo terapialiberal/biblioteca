@@ -1,31 +1,22 @@
 ---
-titulo: Lilith y la Sombra Feminina
-tipo: "concepto"
-tier-primario: 'b'
-nivel-evidencia: 'medio'
-tags: [clasificado-ai]
 publish: true
+created: 2026-02-25T22:08:51.622-03:00
+modified: 2026-04-02T13:01:16.361-03:00
+tags:
+  - feminina
+  - lilith
+  - sombra
 ---
-
-﻿---
-titulo: Lilith Y La Sombra Feminina
-tipo: "concepto"
-fecha: 2026-02-25
-tags: \[feminina, lilith, sombra]
-tier-primario: "b"
-nivel-evidencia: "medio"
-publish: true
--------------
 
 # Lilith Y La Sombra Feminina
 
-> [!ABSTRACT] Hipótesis Informativa
-> Nodo perteneciente a la Matrix de Simbolismo y Esoterismo TL V.2.
+> [!ABSTRACT] HipÃ³tesis Informativa
+> Nodo perteneciente a la Matrix de Simbolismo y Esoterismo TL V.3.
 
-## Análisis De Tiers
+## AnÃ¡lisis De Tiers
 
 _En desarrollo..._
 
 ## Cui Bono
 
-_Pendiente de análisis forense._
+_Pendiente de anÃ¡lisis forense._

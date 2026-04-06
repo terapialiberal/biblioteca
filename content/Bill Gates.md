@@ -1,23 +1,10 @@
 ---
-titulo: Bill Gates
-tipo: "entidad"
-tier-primario: 'a'
-nivel-evidencia: 'medio'
-tags: [clasificado-ai]
 publish: true
+created: 2026-01-29T19:17:05.346-03:00
+modified: 2026-04-02T13:08:52.454-03:00
 ---
 
-﻿---
-titulo: BILL GATES (TL V.2)
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "a"
-nivel-evidencia: "alto"
-tags: \[arquitecto, bill, escaso, gates]
-publish: true
--------------
-
-# BILL GATES (TL V.2)
+# Bill Gates
 
 #### BLUF
 
@@ -78,8 +65,6 @@ Gates es un visionario genuinamente preocupado por el cambio climtico. TerraPowe
 
 #### LAGUNAS
 
-Cul es la relacin real entre los asesores de seguridad nacional de Gates y la reapertura de Three Mile Island por parte de Microsoft?
+## Cul es la relacin real entre los asesores de seguridad nacional de Gates y la reapertura de Three Mile Island por parte de Microsoft?
 
----
-
-_Versiï¿½n: 1.0 (TL V.2) | Dossier de Actor Tier A_
+_VersiÃ¯Â¿Â½n: 1.0 (TL V.3) | Dossier de Actor Tier A_

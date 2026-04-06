@@ -1,31 +1,22 @@
 ---
-titulo: Silicio y Memoria de Cristal
-tipo: "concepto"
-tier-primario: 'b'
-nivel-evidencia: 'medio'
-tags: [clasificado-ai]
 publish: true
+created: 2026-02-25T22:08:55.787-03:00
+modified: 2026-04-02T13:01:20.668-03:00
+tags:
+  - cristal
+  - memoria
+  - silicio
 ---
-
-﻿---
-titulo: Silicio Y Memoria De Cristal
-tipo: "concepto"
-fecha: 2026-02-25
-tags: \[cristal, memoria, silicio]
-tier-primario: "b"
-nivel-evidencia: "medio"
-publish: true
--------------
 
 # Silicio Y Memoria De Cristal
 
-> [!ABSTRACT] Hipótesis Informativa
+> [!ABSTRACT] HipÃ³tesis Informativa
 > Nodo perteneciente a la Matrix de Simbolismo y Esoterismo TL V.2.
 
-## Análisis De Tiers
+## AnÃ¡lisis De Tiers
 
 _En desarrollo..._
 
 ## Cui Bono
 
-_Pendiente de análisis forense._
+_Pendiente de anÃ¡lisis forense._

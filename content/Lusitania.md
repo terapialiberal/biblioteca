@@ -37,4 +37,4 @@ El Lusitania es el prototipo de la **Falsa Bandera Pasiva**: no hace falta dispa
 - **Táctica:** [[Falsa Bandera]], [[Propaganda de Atrocidad]].
 - **Contexto:** [[Primera Guerra Mundial]], [[00_Glosario - Conceptos Fase 1#Banca Central|Banca Central]].
 
-**Estado:** Refactoreado a TL V.2 - Framework de Ingeniería de Guerra.
+**Estado:** Refactoreado a TL V.3 - Framework de Ingeniería de Guerra.

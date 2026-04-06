@@ -37,4 +37,4 @@ Mena no fue un error; fue un **modelo de negocio estatal**. Los asesinatos de Iv
 - **Lugares:** [[Mena, Arkansas]], [[Little Rock]].
 - **Relacionado:** [[Cocaine Politics]], [[Irán-Contra]].
 
-**Estado:** Refactoreado a TL V.2 - Framework de Narco-Inteligencia.
+**Estado:** Refactoreado a TL V.3 - Framework de Narco-Inteligencia.

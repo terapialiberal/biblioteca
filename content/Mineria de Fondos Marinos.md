@@ -1,5 +1,5 @@
 ---
-titulo: Minería De Fondos Marinos (La Nueva Frontera TL V.2)
+titulo: Minería De Fondos Marinos (La Nueva Frontera TL V.3)
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -8,7 +8,7 @@ tags: [lockheed, minera, naciones, nueva]
 publish: true
 ---
 
-# Minería De Fondos Marinos (La Nueva Frontera TL V.2)
+# Minería De Fondos Marinos (La Nueva Frontera TL V.3)
 
 > [!ABSTRACT] Hipótesis Informativa
 > La Minería de Fondos Marinos (Deep Sea Mining) constituye el **Nuevo Cercamiento de los Comunes Globales** orquestado por el **Tier A**. Ante el agotamiento de recursos terrestres y el control chino sobre minerales críticos, el complejo militar-industrial occidental busca privatizar el lecho oceánico profundo (especialmente la zona Clarion-Clipperton) para extraer los nódulos polimetálicos esenciales para la "Transición Verde". Utilizando a la **ISA (ONU)** como fachada legal, las corporaciones se preparan para destruir el ecosistema más grande y menos comprendido de la Tierra, justificando el ecocidio con la narrativa de salvar al planeta del cambio climático.
@@ -49,4 +49,4 @@ La minería abisal es la fase final del extractivismo planetario. Habiendo consu
 
 **Versión:** 2.0
 **Enfoque:** Rol de la ISA/ONU, intereses de Lockheed Martin y The Metals Company, narrativa de la transición verde como excusa y privatización de los bienes comunes globales.
-**Estado:** Refactoreado a TL V.2 - Framework de Extractivismo Final.
+**Estado:** Refactoreado a TL V.3 - Framework de Extractivismo Final.

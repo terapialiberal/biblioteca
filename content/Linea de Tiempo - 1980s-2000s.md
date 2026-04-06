@@ -42,4 +42,4 @@ publish: true
 - **Operativos:** [[Oliver North]], [[Barry Seal]], [[Jeffrey Epstein]] (Inicio de carrera).
 - **Conceptos:** [[Shock Doctrine]], [[Presupuesto Negro]], [[Falsa Bandera]], [[Especulación Financiera]].
 
-**Estado:** Refactoreado a TL V.2 - Perspectiva de Inteligencia Sistémica.
+**Estado:** Refactoreado a TL V.3 - Perspectiva de Inteligencia Sistémica.

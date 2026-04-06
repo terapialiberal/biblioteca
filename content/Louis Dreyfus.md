@@ -37,4 +37,4 @@ Louis Dreyfus es el recordatorio de que las empresas que realmente mandan no tie
 - **Socio Financiero:** [[Abu Dhabi Developmental Holding Co (ADQ)]] (Entrada de capital árabe).
 - **Contexto:** [[Seguridad Alimentaria]], [[Guerra de Ucrania]] (Control del Mar Negro).
 
-**Estado:** Refactoreado a TL V.2 - Framework de Cartelización Agraria.
+**Estado:** Refactoreado a TL V.3 - Framework de Cartelización Agraria.

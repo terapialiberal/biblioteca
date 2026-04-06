@@ -1,14 +1,15 @@
 ---
-titulo: SMR (TL V.2)
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "a"
-nivel-evidencia: "alto"
-tags: [bill, modular, pila, small]
 publish: true
+created: 2026-02-25T14:22:57.642-03:00
+modified: 2026-04-02T13:21:56.600-03:00
+tags:
+  - bill
+  - modular
+  - pila
+  - small
 ---
 
-# SMR (TL V.2)
+# SMR
 
 #### BLUF
 

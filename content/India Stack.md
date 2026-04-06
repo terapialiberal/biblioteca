@@ -49,4 +49,4 @@ publish: true
 
 **Falsabilidad**: Si se produce un robo masivo de datos biométricos que colapse la confianza en el sistema o si surge una red de pagos P2P encriptada (tipo Monero/Cash) que logre escala masiva en la India, el modelo Stack de control centralizado se vería seriamente amenazado.
 
-_Versión: 1.0 | Protocolo TL-INTEL TL V.2_
+_Versión: 1.0 | Protocolo TL-INTEL TL V.3_

@@ -19,7 +19,7 @@ El sistema fíat basado en el dólar está siendo migrado hacia una arquitectura
 ### El Banco Central De Los Bancos Centrales
 
 - [[BIS]] (Bank for International Settlements)
-- [[Proyecto Agora]]: La unificación de depósitos bancarios tokenizados (TL V.2).
+- [[Proyecto Agora]]: La unificación de depósitos bancarios tokenizados (TL V.3).
 - [[BIS Innovation Hub]]: El laboratorio de la tecnocracia financiera.
 - [[CBDC Interoperability]]: El pegamento del control monetario transfronterizo.
 
@@ -106,13 +106,12 @@ El sistema fíat basado en el dólar está siendo migrado hacia una arquitectura
 - [[Monedas de Privacidad.md|Monedas de Privacidad]]
 - [[Nuevo Bretton Woods.md|Nuevo Bretton Woods]]
 - [[Proporcion 1.618 en HFT.md|Proporcion 1.618 en HFT]]
-- [[Rishi Sunak.md|Rishi Sunak]]
 - [[Saturno y Deuda.md|Saturno y Deuda]]
-- [[Score Ciudadano.md|Score Ciudadano]]
 - [[Señoreaje.md|Señoreaje]]
 - [[Sistemas de Credito Social.md|Sistemas de Credito Social]]
 - [[Smotrich.md|Smotrich]]
 - [[Tokenizacion de Activos Reales.md|Tokenizacion de Activos Reales]]
+- [[Transmutacion de Metales y CBDCs.md|Transmutacion de Metales y CBDCs]]
 - [[Wall Street and FDR.md|Wall Street and FDR]]
 - [[Wall Street and the Bolshevik Revolution.md|Wall Street and the Bolshevik Revolution]]
 - [[Wall Street and the Rise of Hitler.md|Wall Street and the Rise of Hitler]]

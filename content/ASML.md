@@ -1,23 +1,10 @@
 ---
-titulo: ASML
-tipo: "entidad"
-tier-primario: 'a'
-nivel-evidencia: 'medio'
-tags: [clasificado-ai]
 publish: true
+created: 2026-02-25T14:29:11.943-03:00
+modified: 2026-04-02T13:05:52.526-03:00
 ---
 
-﻿---
-titulo: ASML (TL V.2)
-tipo: concepto
-fecha: 2026-02-25
-tier-primario: "a"
-nivel-evidencia: "alto"
-tags: \[apple, asml, culo, nvidia]
-publish: true
--------------
-
-# ASML (TL V.2)
+# ASML (TL V.3)
 
 #### BLUF
 
@@ -78,8 +65,6 @@ ASML es una empresa vulnerable con una cadena de suministro demasiado frgil. Su 
 
 #### LAGUNAS
 
-Cuntos ingenieros de ASML han sido reclutados por el programa "Seis Camas" de China para acelerar su litografa domstica mediante espionaje industrial?
+## Cuntos ingenieros de ASML han sido reclutados por el programa "Seis Camas" de China para acelerar su litografa domstica mediante espionaje industrial?
 
----
-
-_Versiï¿½n: 1.0 (TL V.2) | Dossier de Chokepoint de Infraestructura_
+_VersiÃ¯Â¿Â½n: 1.0 (TL V.3) | Dossier de Chokepoint de Infraestructura_

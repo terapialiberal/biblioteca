@@ -1,31 +1,22 @@
 ---
-titulo: La Luna y Mareas Mentales
-tipo: "concepto"
-tier-primario: 'b'
-nivel-evidencia: 'medio'
-tags: [clasificado-ai]
 publish: true
+created: 2026-02-25T22:08:56.598-03:00
+modified: 2026-04-02T13:01:21.853-03:00
+tags:
+  - luna
+  - mareas
+  - mentales
 ---
-
-﻿---
-titulo: La Luna Y Mareas Mentales
-tipo: "concepto"
-fecha: 2026-02-25
-tags: \[luna, mareas, mentales]
-tier-primario: "b"
-nivel-evidencia: "medio"
-publish: true
--------------
 
 # La Luna Y Mareas Mentales
 
-> [!ABSTRACT] Hipótesis Informativa
-> Nodo perteneciente a la Matrix de Simbolismo y Esoterismo TL V.2.
+> [!ABSTRACT] HipÃ³tesis Informativa
+> Nodo perteneciente a la Matrix de Simbolismo y Esoterismo TL V.3.
 
-## Análisis De Tiers
+## AnÃ¡lisis De Tiers
 
 _En desarrollo..._
 
 ## Cui Bono
 
-_Pendiente de análisis forense._
+_Pendiente de anÃ¡lisis forense._

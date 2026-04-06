@@ -37,4 +37,4 @@ El Luciferianismo es la psicología de quien se cree dueño de la granja. Si dio
 - **Proyecciones:** [[Transhumanismo]], [[Agenda 2030]], [[00_Glosario - Conceptos Fase 1#Nuevo Orden Mundial|Nuevo Orden Mundial]].
 - **Conceptos:** [[Loosh]], [[Mentira Noble (Strauss)]].
 
-**Estado:** Refactoreado a TL V.2 - Framework Esotérico-Praxeológico.
+**Estado:** Refactoreado a TL V.3 - Framework Esotérico-Praxeológico.

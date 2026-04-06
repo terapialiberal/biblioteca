@@ -1,31 +1,22 @@
 ---
-titulo: Magia de Salón en Política
-tipo: "concepto"
-tier-primario: 'b'
-nivel-evidencia: 'medio'
-tags: [clasificado-ai]
 publish: true
+created: 2026-02-25T22:08:56.339-03:00
+modified: 2026-04-02T13:01:21.674-03:00
+tags:
+  - magia
+  - poltica
+  - saln
 ---
 
-﻿---
-titulo: Magia De Salón En Política
-tipo: "concepto"
-fecha: 2026-02-25
-tags: \[magia, poltica, saln]
-tier-primario: "b"
-nivel-evidencia: "medio"
-publish: true
--------------
+# Magia De SalÃ³n En PolÃ­tica
 
-# Magia De Salón En Política
+> [!ABSTRACT] HipÃ³tesis Informativa
+> Nodo perteneciente a la Matrix de Simbolismo y Esoterismo TL V.3.
 
-> [!ABSTRACT] Hipótesis Informativa
-> Nodo perteneciente a la Matrix de Simbolismo y Esoterismo TL V.2.
-
-## Análisis De Tiers
+## AnÃ¡lisis De Tiers
 
 _En desarrollo..._
 
 ## Cui Bono
 
-_Pendiente de análisis forense._
+_Pendiente de anÃ¡lisis forense._

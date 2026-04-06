@@ -37,4 +37,4 @@ Lynn Forester es la prueba de que el poder no se divide en naciones, sino en red
 - **Sombra:** [[Jeffrey Epstein]] (Relación documentada en registros y correos).
 - **Medios:** [[00_Glosario - Conceptos Fase 1#The Economist|The Economist]].
 
-**Estado:** Refactoreado a TL V.2 - Framework de Redes de Poder Global.
+**Estado:** Refactoreado a TL V.3 - Framework de Redes de Poder Global.

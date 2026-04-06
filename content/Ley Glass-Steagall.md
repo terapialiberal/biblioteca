@@ -38,4 +38,4 @@ Glass-Steagall no era una ley antigua; era un **protocolo de seguridad**. Al qui
 - **Resultados:** [[Crisis Financiera 2008]], [[Bail-out]], [[Bail-in]].
 - **Antecedentes:** [[Crash de Wall Street 1929]].
 
-**Estado:** Refactoreado a TL V.2 - Framework de Inteligencia Aplicado.
+**Estado:** Refactoreado a TL V.3 - Framework de Inteligencia Aplicado.

@@ -37,4 +37,4 @@ Báez no es un villano independiente; es un **empleado fiel** que no supo cuánd
 - **Estructuras:** [[Austral Construcciones]], [[Hotesur y Los Sauces]], [[Vialidad Nacional]].
 - **Casos Relacionados:** [[Causa Vialidad]], [[La Ruta del Dinero K]].
 
-**Estado:** Refactoreado a TL V.2 - Framework de Kleptocracia Estructural.
+**Estado:** Refactoreado a TL V.3 - Framework de Kleptocracia Estructural.

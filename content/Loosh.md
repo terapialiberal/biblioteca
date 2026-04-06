@@ -37,4 +37,4 @@ El Loosh es lo que queda cuando las explicaciones económicas se quedan cortas. 
 - **Entidades:** [[Arcontes (Teoría)]], [[Élites Psicopáticas]].
 - **Conceptos:** [[Demiurgo]], [[Frecuencias de Solfeggio]] (Antídoto).
 
-**Estado:** Refactoreado a TL V.2 - Framework Metafísico Aplicado.
+**Estado:** Refactoreado a TL V.3 - Framework Metafísico Aplicado.

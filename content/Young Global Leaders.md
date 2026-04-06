@@ -1,14 +1,15 @@
 ---
-titulo: YOUNG GLOBAL LEADERS (YGL) (TL V.2)
-tipo: "persona"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "alto"
-tags: [global, klaus, leaders, young]
 publish: true
+created: 2026-02-25T15:43:14.559-03:00
+modified: 2026-04-02T13:21:57.718-03:00
+tags:
+  - global
+  - klaus
+  - leaders
+  - young
 ---
 
-# YOUNG GLOBAL LEADERS (YGL) (TL V.2)
+# YOUNG GLOBAL Leaders (YGL)
 
 #### BLUF
 

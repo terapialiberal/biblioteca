@@ -38,4 +38,4 @@ Cuando te vendan el auto eléctrico como la "salvación del planeta", recordá q
 - **Poder Global:** [[BlackRock]], [[Comando Sur (Laura Richardson)]].
 - **Conflictos:** [[Guerra del Litio (El Triángulo de Sudamérica)]].
 
-**Estado:** Refactoreado a TL V.2 - Framework de Extractivismo.
+**Estado:** Refactoreado a TL V.3 - Framework de Extractivismo.

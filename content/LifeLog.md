@@ -38,4 +38,4 @@ publish: true
 - **El Financista:** [[Peter Thiel]], [[In-Q-Tel]].
 - **Conceptos:** [[Vigilancia Masiva]], [[Capitalismo de Vigilancia]].
 
-**Estado:** Refactoreado a TL V.2 - Framework de Inteligencia Aplicado.
+**Estado:** Refactoreado a TL V.3 - Framework de Inteligencia Aplicado.

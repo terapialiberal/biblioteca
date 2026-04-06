@@ -1,14 +1,15 @@
 ---
-titulo: TOKENIZED SOVEREIGN DEBT (TL V.2)
-tipo: "persona"
-fecha: 2026-02-25
-tier-primario: "a"
-nivel-evidencia: "alto"
-tags: [blackrock, digital, naciones, vanguard]
 publish: true
+created: 2026-02-25T15:50:41.672-03:00
+modified: 2026-04-02T13:21:56.909-03:00
+tags:
+  - blackrock
+  - digital
+  - naciones
+  - vanguard
 ---
 
-# TOKENIZED SOVEREIGN DEBT (TL V.2)
+# Tokenized Sovereign DEBT
 
 #### BLUF
 

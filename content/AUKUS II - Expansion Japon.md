@@ -49,4 +49,4 @@ publish: true
 
 **Falsabilidad**: Si Japón se niega a reformar sus leyes de secreto (debido a presiones de privacidad interna) o si la interoperabilidad de software entre los 4 países falla por proteccionismo de datos, AUKUS Pilar 2 se fracturaría en proyectos bilaterales ineficientes.
 
-_Versión: 2.0 | Protocolo TL-INTEL TL V.2_
+_Versión: 2.0 | Protocolo TL-INTEL TL V.3_

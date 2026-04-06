@@ -1,31 +1,22 @@
 ---
-titulo: El Antimonio y la Purga de la Matrix
-tipo: "concepto"
-tier-primario: 'b'
-nivel-evidencia: 'medio'
-tags: [clasificado-ai]
 publish: true
+created: 2026-02-25T22:08:53.999-03:00
+modified: 2026-04-02T13:01:19.002-03:00
+tags:
+  - antimonio
+  - matrix
+  - purga
 ---
-
-﻿---
-titulo: El Antimonio Y La Purga De La Matrix
-tipo: "concepto"
-fecha: 2026-02-25
-tags: \[antimonio, matrix, purga]
-tier-primario: "b"
-nivel-evidencia: "medio"
-publish: true
--------------
 
 # El Antimonio Y La Purga De La Matrix
 
-> [!ABSTRACT] Hipótesis Informativa
-> Nodo perteneciente a la Matrix de Simbolismo y Esoterismo TL V.2.
+> [!ABSTRACT] HipÃ³tesis Informativa
+> Nodo perteneciente a la Matrix de Simbolismo y Esoterismo TL V.3.
 
-## Análisis De Tiers
+## AnÃ¡lisis De Tiers
 
 _En desarrollo..._
 
 ## Cui Bono
 
-_Pendiente de análisis forense._
+_Pendiente de anÃ¡lisis forense._

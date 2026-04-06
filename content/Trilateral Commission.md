@@ -1,14 +1,15 @@
 ---
-titulo: TRILATERAL COMMISSION (TL V.2)
-tipo: "persona"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "alto"
-tags: [commission, david, motor, planetaria]
 publish: true
+created: 2026-01-29T19:17:41.223-03:00
+modified: 2026-04-02T13:21:56.225-03:00
+tags:
+  - commission
+  - david
+  - motor
+  - planetaria
 ---
 
-# TRILATERAL COMMISSION (TL V.2)
+# Trilateral Commission
 
 #### BLUF
 

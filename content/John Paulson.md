@@ -1,14 +1,15 @@
 ---
-titulo: "John Paulson (TL V.2): El Buitre Del Colapso Sistmico"
-tipo: "persona"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [buitre, colapso, goldman, mico]
 publish: true
+created: 2026-01-29T19:17:19.934-03:00
+modified: 2026-04-02T13:05:24.988-03:00
+tags:
+  - buitre
+  - colapso
+  - goldman
+  - mico
 ---
 
-# John Paulson (TL V.2): El Buitre Del Colapso Sistmico
+# John Paulson: El Buitre Del Colapso Sistmico
 
 > [!ABSTRACT] Hiptesis Informativa
 > John Paulson representa la **rentabilidad del fallo estructural** dentro del sistema financiero de [[Tier A]]. Su fama, cimentada en "La Mejor Apuesta de la Historia" contra el mercado inmobiliario en 2008, demuestra que el colapso del nivel de vida del [[Tier C]] es un producto de inversin diseado y ejecutado mediante asimetra de informacin. Paulson acta como el operador que retira la liquidez del sistema justo antes del reseteo, utilizando la complicidad de los megabancos para apostar contra los activos que ellos mismos venden al pblico.
@@ -27,7 +28,7 @@ publish: true
 
 ### Tier C: El Deudor Hipotecado
 
-- **La Vctima del "Éxito" Ajeno:** Para el Tier C, Paulson es a menudo presentado como un "visionario" o un "genio de las finanzas". Esta hagiografa meditica oculta el hecho de que su fortuna es el espejo inverso de millones de desahucios, ahorros perdidos y suicidios econmicos. El Tier C celebra la astucia de Paulson sin notar que el dinero que l gan es, literalmente, el valor robado del futuro de la clase media mediante un sistema de apuestas trucado.
+- **La Vctima del "Ã‰xito" Ajeno:** Para el Tier C, Paulson es a menudo presentado como un "visionario" o un "genio de las finanzas". Esta hagiografa meditica oculta el hecho de que su fortuna es el espejo inverso de millones de desahucios, ahorros perdidos y suicidios econmicos. El Tier C celebra la astucia de Paulson sin notar que el dinero que l gan es, literalmente, el valor robado del futuro de la clase media mediante un sistema de apuestas trucado.
 
 ## Mecanismos De Poder
 
@@ -49,6 +50,6 @@ John Paulson es el **"Forense de los Mercados"**. Su trabajo consiste en apostar
 
 ---
 
-**Versi�n:** 2.0
-**Enfoque:** Beneficio del colapso, colusi�n con Goldman Sachs en la crisis de 2008 y la moralidad del capital buitre.
-**Estado:** Refactorizaci�n Completa.
+**Versiï¿½n:** 2.0
+**Enfoque:** Beneficio del colapso, colusiï¿½n con Goldman Sachs en la crisis de 2008 y la moralidad del capital buitre.
+**Estado:** Refactorizaciï¿½n Completa.

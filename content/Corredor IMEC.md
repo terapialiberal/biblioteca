@@ -50,4 +50,4 @@ publish: true
 
 **Falsabilidad**: Si Arabia Saudita prioriza el BRICS Bridge y mBridge por encima de la normalización con Israel, el IMEC se degradará a una simple ruta marítima India-EAU sin conexión ferroviaria al Mediterráneo.
 
-_Versión: 2.0 | Protocolo TL-INTEL TL V.2_
+_Versión: 2.0 | Protocolo TL-INTEL TL V.3_

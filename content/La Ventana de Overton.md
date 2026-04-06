@@ -1,31 +1,21 @@
 ---
-titulo: La Ventana de Overton
-tipo: "concepto"
-tier-primario: 'b'
-nivel-evidencia: 'medio'
-tags: [clasificado-ai]
 publish: true
+created: 2026-02-25T22:08:56.062-03:00
+modified: 2026-04-02T13:01:21.150-03:00
+tags:
+  - overton
+  - ventana
 ---
-
-﻿---
-titulo: La Ventana De Overton
-tipo: "concepto"
-fecha: 2026-02-25
-tags: \[overton, ventana]
-tier-primario: "b"
-nivel-evidencia: "medio"
-publish: true
--------------
 
 # La Ventana De Overton
 
-> [!ABSTRACT] Hipótesis Informativa
-> Nodo perteneciente a la Matrix de Simbolismo y Esoterismo TL V.2.
+> [!ABSTRACT] HipÃ³tesis Informativa
+> Nodo perteneciente a la Matrix de Simbolismo y Esoterismo TL V.3.
 
-## Análisis De Tiers
+## AnÃ¡lisis De Tiers
 
 _En desarrollo..._
 
 ## Cui Bono
 
-_Pendiente de análisis forense._
+_Pendiente de anÃ¡lisis forense._

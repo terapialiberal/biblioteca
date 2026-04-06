@@ -1,23 +1,10 @@
 ---
-titulo: Larry Ellison
-tipo: "concepto"
-tier-primario: 'b'
-nivel-evidencia: 'medio'
-tags: [clasificado-ai]
 publish: true
+created: 2026-02-25T14:11:06.055-03:00
+modified: 2026-04-02T13:15:50.870-03:00
 ---
 
-﻿---
-titulo: LARRY ELLISON (TL V.2)
-tipo: persona
-fecha: 2026-02-25
-tier-primario: "a"
-nivel-evidencia: "alto"
-tags: \[datos, ellison, nube, oracle]
-publish: true
--------------
-
-# LARRY ELLISON (TL V.2)
+# Larry Ellison
 
 #### BLUF
 
@@ -78,19 +65,17 @@ Ellison simplemente es un inversor oportunista con suerte poltica. Su inversin e
 
 #### LAGUNAS
 
-Cul es la participacin exacta de Ellison en el financiamiento oculto de la campaa de Trump 2025/26 va su hijo David Ellison y la compra de Paramount/Warner?
+## Cul es la participacin exacta de Ellison en el financiamiento oculto de la campaa de Trump 2025/26 va su hijo David Ellison y la compra de Paramount/Warner?
 
----
-
-### /rï¿½pido ï¿½ Larry Ellison 2026
+### /rÃ¯Â¿Â½pido Ã¯Â¿Â½ Larry Ellison 2026
 
 ```
-TL;DR: Larry Ellison ha dejado de vender software para vender soberanï¿½a digital y energï¿½a nuclear.
-?? Quiï¿½n gana: Oracle (Monopolio de datos soberanos G7).
-?? Quiï¿½n pierde: Microsoft/AWS (En contratos gubernamentales IL6/Top Secret).
-?? Seï¿½al real: Inversiï¿½n de \50B en infraestructura propia y reactores nucleares.
+TL;DR: Larry Ellison ha dejado de vender software para vender soberanÃ¯Â¿Â½a digital y energÃ¯Â¿Â½a nuclear.
+?? QuiÃ¯Â¿Â½n gana: Oracle (Monopolio de datos soberanos G7).
+?? QuiÃ¯Â¿Â½n pierde: Microsoft/AWS (En contratos gubernamentales IL6/Top Secret).
+?? SeÃ¯Â¿Â½al real: InversiÃ¯Â¿Â½n de \50B en infraestructura propia y reactores nucleares.
 ?? Ignorar: Comentarios sobre "bases de datos legacy".
-?? Predicciï¿½n: Oracle serï¿½ la columna vertebral del "Cerebro Digital" de la administraciï¿½n Trump.
+?? PredicciÃ¯Â¿Â½n: Oracle serÃ¯Â¿Â½ la columna vertebral del "Cerebro Digital" de la administraciÃ¯Â¿Â½n Trump.
 ```
 
-_Versiï¿½n: 1.0 (TL V.2) | Dossier Forense_
+_VersiÃ¯Â¿Â½n: 1.0 (TL V.3) | Dossier Forense_

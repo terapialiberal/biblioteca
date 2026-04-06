@@ -37,4 +37,4 @@ Lockheed Martin no vende seguridad; vende **obsolecencia programada de la paz**.
 - **Los Dueños:** [[BlackRock]], [[Vanguard]], [[State Street]].
 - **Programas:** [[F-35 Lightning II]], [[HIMARS]].
 
-**Estado:** Refactoreado a TL V.2 - Framework de Complejo Militar-Industrial.
+**Estado:** Refactoreado a TL V.3 - Framework de Complejo Militar-Industrial.

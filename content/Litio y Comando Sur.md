@@ -37,4 +37,4 @@ Cuando una General de cuatro estrellas habla de "nuestros recursos" refiriéndos
 - **La Amenaza:** [[China]], [[Rusia]], [[BRICS]].
 - **Conceptos:** [[Doctrina Monroe 2.0]], [[Soberanía de Recursos]].
 
-**Estado:** Refactoreado a TL V.2 - Framework de Geopolítica Militar.
+**Estado:** Refactoreado a TL V.3 - Framework de Geopolítica Militar.

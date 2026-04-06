@@ -37,4 +37,4 @@ Los Merovingios son la razón por la que siempre ganan los mismos. No importa a 
 - **Conceptos:** [[Derecho Divino]], [[Quinotauro]], [[RH Negativo]].
 - **Investigadores:** [[Fritz Springmeier]], [[David Icke]] (Teoría de Hibridación).
 
-**Estado:** Refactoreado a TL V.2 - Marco Esotérico-Praxeológico.
+**Estado:** Refactoreado a TL V.3 - Marco Esotérico-Praxeológico.

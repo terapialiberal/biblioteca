@@ -50,4 +50,4 @@ publish: true
 
 **Falsabilidad**: Si los bancos comerciales de EEUU se niegan a ceder el control de sus bases de datos al ledger unificado del BIS por razones de soberanía de datos, el proyecto podría fragmentarse en redes privadas incompatibles.
 
-_Versión: 2.0 | Protocolo TL-INTEL TL V.2_
+_Versión: 2.0 | Protocolo TL-INTEL TL V.3_

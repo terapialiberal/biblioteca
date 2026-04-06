@@ -1,40 +1,25 @@
 ---
-titulo: Patron - El Dilema del Prisionero
-tipo: "concepto"
-tier-primario: 'b'
-nivel-evidencia: 'medio'
-tags: [clasificado-ai]
 publish: true
+created: 2026-02-28T15:09:32.181-03:00
+modified: 2026-04-02T12:56:00.620-03:00
+tags:
+  - patrones
+  - tl-v3
 ---
 
-﻿---
-publish: true
-titulo: Patrón - El Dilema del Prisionero (Teoría de Juegos)
-tags: \[game-theory, tl-v2, dilema-prisionero, patrones]
-estado: procesado
------------------
+## ðŸ”Ž AXIOMA ASOCIADO: PraxeologÃ­a Forense
 
-# Patrón - El Dilema del Prisionero (Teoría de Juegos)
+Aplicado al anÃ¡lisis geopolÃ­tico, demuestra que la "solidaridad internacional" es ruido (_Cheap Talk_). Las alianzas existen solo mientras los costos de traicionar al aliado superen los beneficios de mantener el pacto.
 
-## 📌 BLUF (Core Concept)
+### âœ… Ejemplos en GeopolÃ­tica (SeÃ±ales Documentadas)
 
-El modelo fundamental que explica por qué dos actores completamente racionales **deciden no cooperar**, incluso en situaciones donde la cooperación generaría el mejor resultado posible para ambos. Por el incentivo individual a traicionar al otro y la falta de confianza, terminan en un resultado mediocre donde ambos pierden.
+- **CÃ¡rteles como la OPEP**: Cada paÃ­s miembro tiene el incentivo de producir silenciosamente _un poco mÃ¡s_ de petrÃ³leo del acordado para robarse los dÃ³lares, hundiendo el precio internacional para todos los demÃ¡s si todos hacen lo mismo.
+- **Guerra de Divisas y Aranceles**: Todos los paÃ­ses estarÃ­an mejor con libre comercio total, pero cada paÃ­s impone barreras (traiciona) para proteger su industria local, derivando en una carrera hacia abajo (proteccionismo global).
 
----
+### âš ï¸ AplicaciÃ³n TL V.3
 
-## 🔎 AXIOMA ASOCIADO: Praxeología Forense
-
-Aplicado al análisis geopolítico, demuestra que la "solidaridad internacional" es ruido (_Cheap Talk_). Las alianzas existen solo mientras los costos de traicionar al aliado superen los beneficios de mantener el pacto.
-
-### ✅ Ejemplos en Geopolítica (Señales Documentadas)
-
-- **Cárteles como la OPEP**: Cada país miembro tiene el incentivo de producir silenciosamente _un poco más_ de petróleo del acordado para robarse los dólares, hundiendo el precio internacional para todos los demás si todos hacen lo mismo.
-- **Guerra de Divisas y Aranceles**: Todos los países estarían mejor con libre comercio total, pero cada país impone barreras (traiciona) para proteger su industria local, derivando en una carrera hacia abajo (proteccionismo global).
-
-### ⚠️ Aplicación TL V.2
-
-Cuando leas análisis de medios (Tier C) clamando que "el mundo debe cooperar para enfrentar P(Cambio Climático, Guerra)": ignorar. Es ruido estructural. El analista buscará cómo la estructura de pagos favorece a un Tier A que no reciba la externalidad negativa del dilema de los Tier B/C por la falta de cooperación.
+Cuando leas anÃ¡lisis de medios (Tier C) clamando que "el mundo debe cooperar para enfrentar P(Cambio ClimÃ¡tico, Guerra)": ignorar. Es ruido estructural. El analista buscarÃ¡ cÃ³mo la estructura de pagos favorece a un Tier A que no reciba la externalidad negativa del dilema de los Tier B/C por la falta de cooperaciÃ³n.
 
 ---
 
-_Versión: TL V.2 | Nodo Central: [[00_MOC - Patrones Clasicos de Poder]]_
+_VersiÃ³n: TL V.3 | Nodo Central: [[00_MOC - Patrones Clasicos de Poder]]_

@@ -1,21 +1,8 @@
 ---
-titulo: 00_MOC - Redes de Poder
-tipo: "persona"
-tier-primario: 'a'
-nivel-evidencia: 'medio'
-tags: [clasificado-ai]
 publish: true
+created: 2026-02-09T17:49:14.900-03:00
+modified: 2026-04-02T12:58:41.096-03:00
 ---
-
-﻿---
-titulo: ??? MOC  REDES DE PODER (El Cartel Global)
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: \[00-moc, blackrock, cartel, poder]
-publish: true
--------------
 
 # ??? MOC  REDES DE PODER (El Cartel Global)
 
@@ -66,7 +53,7 @@ Rhodes Trust ? Round Table ? CFR ? Bilderberg ? Trilateral ? WEF
 
 - [[Carroll Quigley]]  El historiador que document la red (Tragedy and Hope)
 - [[La Mesa Redonda (The Round Table Group)]]  El origen: Lord Milner
-- [[CFR]]  El ms poderoso think tank anglosajn (TL V.2)
+- [[CFR]]  El ms poderoso think tank anglosajn (TL V.3)
 - [[Grupo Bilderberg]] / [[Bilderberg]]  La reunin anual del cartel
 - [[Trilateral Commission]]  El motor de la tecnocracia trilateral
 - [[WEF 2026]] / [[Klaus Schwab]]  La actualizacin para el siglo XXI
@@ -153,7 +140,7 @@ Rhodes Trust ? Round Table ? CFR ? Bilderberg ? Trilateral ? WEF
 ### Argentina (Tier A Local)
 
 - [[Eduardo Elsztain]] / [[Eduardo Eurnekian]] / [[Paolo Rocca]]
-- [[Héctor Magnetto|Hctor Magnetto]] (Grupo Clarn) / [[Marcos Galperin]] (MercadoLibre)
+- [[HÃ©ctor Magnetto|Hctor Magnetto]] (Grupo Clarn) / [[Marcos Galperin]] (MercadoLibre)
 - Ver: [[00_MOC - Argentina]]
 
 ## ?? COORDINAR LA NARRATIVA (El Vector Infosfrico)
@@ -183,7 +170,7 @@ Rhodes Trust ? Round Table ? CFR ? Bilderberg ? Trilateral ? WEF
 
 _MOC expandido: 2026-02-24 | Parte del [[INDEX_MAESTRO]]_
 
-## 🔍 NODOS DETECTADOS (AUDITORIA 2026)
+## ðŸ” NODOS DETECTADOS (AUDITORIA 2026)
 
 - [[Sam Altman]]
 - [[Schmidt Futures]]
@@ -216,4 +203,4 @@ _MOC expandido: 2026-02-24 | Parte del [[INDEX_MAESTRO]]_
 - [[El Plan de Thiel desde 2012]]
 - [[Epstein Rothschild Ciberarmas]]
 - [[Vinculos Kushner Soros Thiel]]
-- [[La Comision Trilateral califica al 2023 como el Añ]]
+- [[La Comision Trilateral califica al 2023 como el AÃ±]]

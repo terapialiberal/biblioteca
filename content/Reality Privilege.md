@@ -1,14 +1,15 @@
 ---
-titulo: REALITY PRIVILEGE (TL V.2)
-tipo: "persona"
-fecha: 2026-02-25
-tier-primario: "a"
-nivel-evidencia: "alto"
-tags: [apartheid, reality, sector, virtual]
 publish: true
+created: 2026-02-25T16:12:41.152-03:00
+modified: 2026-04-02T13:21:56.743-03:00
+tags:
+  - apartheid
+  - reality
+  - sector
+  - virtual
 ---
 
-# REALITY PRIVILEGE (TL V.2)
+# Reality Privilege
 
 #### BLUF
 

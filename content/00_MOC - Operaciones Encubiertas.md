@@ -1,14 +1,15 @@
 ---
 publish: true
-titulo: 🕵️ MOC — OPERACIONES ENCUBIERTAS
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [00-moc, encubiertas, manual-tl-conceptos-forenses, operaciones]
+created: 2026-02-24T13:31:46.461-03:00
+modified: 2026-04-02T13:11:47.568-03:00
+tags:
+  - 00-moc
+  - encubiertas
+  - manual-tl-conceptos-forenses
+  - operaciones
 ---
 
-# 🕵️ MOC — OPERACIONES ENCUBIERTAS
+# Operaciones Encubiertas
 
 > **Axioma**: Toda operación tiene un objetivo de activo real detrás. La narrativa es el envoltorio.
 > Jerarquía de evidencia obligatoria: [[Manual_TL_Conceptos_Forenses]]
@@ -90,7 +91,7 @@ tags: [00-moc, encubiertas, manual-tl-conceptos-forenses, operaciones]
 
 ### La Red Epstein (Kompromat Y Fallout 2026)
 
-- [[Jeffrey Epstein]] — El administrador del kompromat TL V.2
+- [[Jeffrey Epstein]] — El administrador del kompromat TL V.3
 - [[Archivos Epstein (2026)]] — El vertido de 3.5M de páginas
 - [[Andrew Mountbatten-Windsor]] — El arresto de la corona británica
 - [[Peter Mandelson]] — El arresto del 'Lord de las Tinieblas'
@@ -154,6 +155,7 @@ tags: [00-moc, encubiertas, manual-tl-conceptos-forenses, operaciones]
 - [[Complejo Industrial de la Censura.md|Complejo Industrial de la Censura]]
 - [[05_Fuentes/Deep History and the Global Drug Connection Part 5 CIA In Latin America.md|Deep History and the Global Drug Connection Part 5 CIA In Latin America]]
 - [[Documento El pulpo.md|Documento El pulpo]]
+- [[05_Fuentes/Exclusiva ¿Quién es el Profesor Jiang ¿Para quién trabaja.md|Exclusiva ¿Quién es el Profesor Jiang ¿Para quién trabaja]]
 - [[Feminismo e Inteligencia.md|Feminismo e Inteligencia]]
 - [[Fuentes y Marcadores.md|Fuentes y Marcadores]]
 - [[Gobernanza Algoritmica.md|Gobernanza Algoritmica]]
@@ -175,7 +177,6 @@ tags: [00-moc, encubiertas, manual-tl-conceptos-forenses, operaciones]
 - [[Patron - Need to Know (Necesidad de Saber).md|Patron - Need to Know (Necesidad de Saber)]]
 - [[Patron - Virtue Signalling (Señalizacion de Virtudes).md|Patron - Virtue Signalling (Señalizacion de Virtudes)]]
 - [[05_Fuentes/Red Epstein-Maxwell (Trampa de Inteligencia).md|Red Epstein-Maxwell (Trampa de Inteligencia)]]
-- [[Renta Basica Universal.md|Renta Basica Universal]]
 - [[Tier B.md|Tier B]]
 - [[Triple Frontera (Inteligencia).md|Triple Frontera (Inteligencia)]]
 

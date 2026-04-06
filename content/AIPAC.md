@@ -1,7 +1,7 @@
 ---
 publish: true
 titulo: AIPAC
-tipo: "concepto"
+tipo: "entidad"
 fecha: 2026-02-25
 tier-primario: "b"
 nivel-evidencia: "medio"

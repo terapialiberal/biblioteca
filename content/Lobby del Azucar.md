@@ -37,4 +37,4 @@ Big Sugar no vende alimentos, vende **inflamación sistémica**. Tu obesidad no 
 - **Beneficiaries Farma:** [[Pfizer]], [[Novo Nordisk]] (Ozempic), [[Eli Lilly]].
 - **Conceptos:** [[Alzheimer (Diabetes Tipo 3)]], [[Síndrome Metabólico]], [[Resistencia a la Insulina]].
 
-**Estado:** Refactoreado a TL V.2 - Framework de Salud Sistémica.
+**Estado:** Refactoreado a TL V.3 - Framework de Salud Sistémica.

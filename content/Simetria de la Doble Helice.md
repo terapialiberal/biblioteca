@@ -1,31 +1,22 @@
 ---
-titulo: Simetría de la Doble Hélice
-tipo: "concepto"
-tier-primario: 'b'
-nivel-evidencia: 'medio'
-tags: [clasificado-ai]
 publish: true
+created: 2026-02-25T22:08:57.979-03:00
+modified: 2026-04-02T13:01:23.657-03:00
+tags:
+  - doble
+  - hlice
+  - simetra
 ---
 
-﻿---
-titulo: Simetría De La Doble Hélice
-tipo: "concepto"
-fecha: 2026-02-25
-tags: \[doble, hlice, simetra]
-tier-primario: "b"
-nivel-evidencia: "medio"
-publish: true
--------------
+# SimetrÃ­a De La Doble HÃ©lice
 
-# Simetría De La Doble Hélice
-
-> [!ABSTRACT] Hipótesis Informativa
+> [!ABSTRACT] HipÃ³tesis Informativa
 > Nodo perteneciente a la Matrix de Simbolismo y Esoterismo TL V.2.
 
-## Análisis De Tiers
+## AnÃ¡lisis De Tiers
 
 _En desarrollo..._
 
 ## Cui Bono
 
-_Pendiente de análisis forense._
+_Pendiente de anÃ¡lisis forense._

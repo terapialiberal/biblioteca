@@ -1,14 +1,15 @@
 ---
-titulo: PROYECTO AGORÁ (BIS) (TL V.2)
-tipo: "evento"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "alto"
-tags: [agor, libro, mayor, reserva]
 publish: true
+created: 2026-02-25T15:50:04.446-03:00
+modified: 2026-04-02T13:21:57.199-03:00
+tags:
+  - agor
+  - libro
+  - mayor
+  - reserva
 ---
 
-# PROYECTO AGORÁ (BIS) (TL V.2)
+# Proyecto Agorá (BIS)
 
 #### BLUF
 

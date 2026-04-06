@@ -1,5 +1,5 @@
 ---
-titulo: "Organización Mundial De La Salud (OMS) [TL V.2]: El Ministerio De La Bioseguridad"
+titulo: "Organización Mundial De La Salud (OMS) [TL V.3]: El Ministerio De La Bioseguridad"
 tipo: "entidad"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -8,7 +8,7 @@ tags: [ministerio, mundial, organizacin, salud]
 publish: true
 ---
 
-# Organización Mundial De La Salud (OMS) \[TL V.2]: El Ministerio De La Bioseguridad
+# Organización Mundial De La Salud (OMS) \[TL V.3]: El Ministerio De La Bioseguridad
 
 > [!ABSTRACT] Hipótesis Informativa
 > La OMS ha dejado de ser una agencia de coordinación sanitaria para convertirse en el **instrumento de gobernanza biopolítica de [[Tier A]]**. Financiada mayoritariamente por capitales privados (Fundación Gates) y alineada con los intereses geopolíticos de los **[[BRICS]]** (China), la OMS utiliza el miedo a las enfermedades para imponer un **Estado de Excepción Permanente**. Mediante el **[[Tratado de Pandemias]]**, busca anular las constituciones nacionales del **[[Tier C]]**, otorgándose el poder de cerrar fronteras, imponer tratamientos forzosos y censurar la disidencia científica bajo el rótulo de "emergencia internacional".
@@ -45,4 +45,4 @@ La OMS es la oficina de administración de nuestra biología. Nos enseña que en
 
 **Versión:** 2.0
 **Enfoque:** Captura corporativa por Bill Gates, el Tratado de Pandemias como herramienta de centralización de poder y el uso de la bioseguridad para anular la soberanía nacional.
-**Estado:** Refactoreado a TL V.2 - Framework de Biopoder Global.
+**Estado:** Refactoreado a TL V.3 - Framework de Biopoder Global.

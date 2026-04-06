@@ -1,5 +1,5 @@
 ---
-titulo: "Odebrecht (Caso Lava Jato) [TL V.2]: El Algoritmo De La Coima Continental"
+titulo: "Odebrecht (Caso Lava Jato) [TL V.3]: El Algoritmo De La Coima Continental"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -8,7 +8,7 @@ tags: [caso, coima, jato, marcelo]
 publish: true
 ---
 
-# Odebrecht (Caso Lava Jato) \[TL V.2]: El Algoritmo De La Coima Continental
+# Odebrecht (Caso Lava Jato) \[TL V.3]: El Algoritmo De La Coima Continental
 
 > [!ABSTRACT] Hipótesis Informativa
 > El caso Odebrecht no fue un escándalo de corrupción aislado, sino la revelación del **sistema operativo de gobernanza en Latinoamérica**. Odebrecht funcionaba como el **brazo financiero de compensación de [[Tier A]]** para la región, utilizando su "Departamento de Operaciones Estructuradas" para subastar la infraestructura de las naciones al mejor postor político. Representa la captura total del Estado por intereses transnacionales, donde la obra pública es simplemente el pretexto para una extracción masiva de riqueza de los contribuyentes (**[[Tier C]]**) hacia una casta política de **[[Tier B]]** protegida por el sistema bancario global.
@@ -45,4 +45,4 @@ Odebrecht es la autopsia de la política latinoamericana. Nos muestra que debajo
 
 **Versión:** 2.0
 **Enfoque:** Industrialización del soborno, captura de élites políticas transnacionales y el rol de EE.UU. en la desarticulación del poderío industrial brasileño.
-**Estado:** Refactoreado a TL V.2 - Framework de Gobernanza Cleptocrática.
+**Estado:** Refactoreado a TL V.3 - Framework de Gobernanza Cleptocrática.

@@ -1,13 +1,19 @@
 ---
 publish: true
-titulo: 00 MOC MAESTRO - BASE DE CONOCIMIENTO
-tags: [moc, indice, tl-v3, zettelkasten]
+created: 2026-02-28T14:54:19.718-03:00
+modified: 2026-04-02T13:08:52.513-03:00
+tags:
+  - moc
+  - indice
+  - tl-v3
+  - zettelkasten
 ---
 
-# 00 MOC MAESTRO - BASE DE CONOCIMIENTO
+# Base de Conocimiento
 
 > **El Cerebro de Terapia Liberal.**
 > Esta carpeta (`04_Base_de_Conocimiento`) contiene +2000 notas atómicas organizadas por el sistema Zettelkasten y estructuradas a través de Mapas de Contenido (MOCs). Todo análisis profundo interactúa con estos nodos.
+> `index.md` es la portada pública para Quartz; este MOC es la navegación maestra interna.
 
 ---
 
@@ -68,6 +74,7 @@ _Mapas temáticos o regionales. Organizan subconjuntos del sistema, pero no reem
 - [[00_Mapa_de_Poder_Global_A-Z]] → Directorio masivo de actores y entidades de poder global jerarquizados por Tiers (A/B/C).
 - [[MISSING_NODES]] → Base de datos de captura provisional para conceptos aún no explayados en la bóveda pero detectados por IA.
 - [[SISTEMA_GLOBAL]] → Nota maestra integradora del tablero de juego geopolítico.
+- [[index]] → Portada pública de Quartz para esta carpeta.
 
 ---
 
@@ -75,22 +82,20 @@ _Mapas temáticos o regionales. Organizan subconjuntos del sistema, pero no reem
 
 _Taxonomía corta y cerrada para no fragmentar metadata._
 
-- dashboard\`r
-- guia\`r
-- ema\`r
-- uente\`r
-- esis\`r
-- moc\`r
-- ctor\`r
-- concepto\`r
-- vento\`r
-- ideo\`r
+- moc
+- guia
+- persona
+- entidad
+- concepto
+- evento
+- video
+- distribucion
 
 ---
 
-## ⚙️ ARQUITECTURA TL V.2
+## ⚙️ ARQUITECTURA TL V.3
 
-Al crear una nueva nota en esta base de conocimiento, utilizá la herramienta `/scan` o `/tesis` para garantizar que la estructuración siga el Gradiente Epistémico (Axioma 11) y la Praxeología Forense (Axioma 2), linkeando siempre al Cui Bono final.
+Al crear una nueva nota en esta base de conocimiento, usá `TPL_Nodo_TL-INTEL` o `/scan` para garantizar que la estructuración siga el Gradiente Epistémico (Axioma 11) y la Praxeología Forense (Axioma 2), linkeando siempre al Cui Bono final.
 
 ---
 

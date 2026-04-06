@@ -37,4 +37,4 @@ Lemoine es el síntoma de una política que ha dejado de ser debate de ideas par
 - **Conceptos:** [[Batalla Cultural (Argentina)]], [[Anti-Política]], [[Populismo Digital]].
 - **Contexto:** [[La Libertad Avanza]].
 
-**Estado:** Refactoreado a TL V.2 - Framework de Inteligencia Aplicado.
+**Estado:** Refactoreado a TL V.3 - Framework de Inteligencia Aplicado.

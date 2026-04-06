@@ -1,23 +1,10 @@
 ---
-titulo: Protocolo RWA
-tipo: "entidad"
-tier-primario: 'b'
-nivel-evidencia: 'medio'
-tags: [clasificado-ai]
 publish: true
+created: 2026-02-25T15:50:53.427-03:00
+modified: 2026-04-02T13:19:27.941-03:00
 ---
 
-﻿---
-titulo: PROTOCOLO RWA (REAL WORLD ASSETS) (TL V.2)
-tipo: evento
-fecha: 2026-02-25
-tier-primario: "a"
-nivel-evidencia: "alto"
-tags: \[centrifuge, digitalizaci, propiedad, protocolo]
-publish: true
--------------
-
-# PROTOCOLO RWA (REAL WORLD ASSETS) (TL V.2)
+# Protocolo RWA (Real World Assets)
 
 #### BLUF
 
@@ -78,8 +65,6 @@ Es la nica forma de desbloquear los \300 trillones de riqueza ilquida del mundo.
 
 #### LAGUNAS
 
-Cul es el protocolo de respaldo fsico cuando el servidor de AWS que aloja el contrato de propiedad de Tier C se apaga o es censurado por razones polticas?
+## Cul es el protocolo de respaldo fsico cuando el servidor de AWS que aloja el contrato de propiedad de Tier C se apaga o es censurado por razones polticas?
 
----
-
-_Dossier forense TL V.2 | La Escribanï¿½a de la Matrix Material_
+_Dossier forense TL V.2 | La EscribanÃ¯Â¿Â½a de la Matrix Material_

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:23.507-03:00
-modified: 2026-02-26T23:11:28.230-03:00
+modified: 2026-04-02T13:22:44.066-03:00
 tags:
   - terapia-liberal
   - inteligencia-forense
@@ -10,7 +10,7 @@ tags:
   - cui-bono
 ---
 
-# MANUAL DE CONCEPTOS  TERAPIA LIBERAL
+# Manual de Conceptos Terapia Liberal
 
 ## Gua De Inteligencia Forense Y Anlisis Geopoltico
 

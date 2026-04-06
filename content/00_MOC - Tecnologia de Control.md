@@ -1,14 +1,15 @@
 ---
 publish: true
-titulo: 🤖 MOC — TECNOLOGÍA DE CONTROL
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [00-moc, deepmind, openai, tecnologa]
+created: 2026-02-24T13:33:13.310-03:00
+modified: 2026-04-02T13:11:47.467-03:00
+tags:
+  - 00-moc
+  - deepmind
+  - openai
+  - tecnologa
 ---
 
-# 🤖 MOC — TECNOLOGÍA DE CONTROL
+# Tecnologia de Control
 
 > **Doctrina final (Mecanismo de Extracción TL-INTEL)**: No es fascismo ni comunismo.
 > Es Tecnocracia. Modelo operativo: China actual, exportado globalmente.
@@ -29,7 +30,7 @@ tags: [00-moc, deepmind, openai, tecnologa]
 
 ### Complejo Militar-IA (Tier B)
 
-- [[Anduril Industries]] — La guerra autónoma privatizada (TL V.2)
+- [[Anduril Industries]] — La guerra autónoma privatizada (TL V.3)
 - [[Shield AI]] — Enjambres de drones con IA
 - [[Palmer Luckey]] — El visionario del hardware de defensa
 - [[Alex Karp]] — El ideólogo de Palantir
@@ -99,7 +100,7 @@ tags: [00-moc, deepmind, openai, tecnologa]
 
 ### La Infraestructura De Bioseguridad
 
-- [[Tratado de Pandemias OMS]] — El marco de la soberanía sanitaria global (TL V.2)
+- [[Tratado de Pandemias OMS]] — El marco de la soberanía sanitaria global (TL V.3)
 - [[GAVI]] — La alianza para la logística biopolítica y el ID digital
 - [[CEPI]] — La alianza para la preparación epidémica
 - [[EcoHealth Alliance]] — El intermediario del lab leak
@@ -138,7 +139,7 @@ tags: [00-moc, deepmind, openai, tecnologa]
 
 ### Plataformas Como Armas
 
-- [[Algorithmic Governance]] — El gobierno de la caja negra (TL V.2)
+- [[Algorithmic Governance]] — El gobierno de la caja negra (TL V.3)
 - [[Sesgo Algoritmico]] — ¿Error o diseño?
 - [[Loops de Dopamina]] — El diseño adictivo de las plataformas
 - [[Dead Internet Theory]] — El desierto de lo sintético
@@ -173,6 +174,8 @@ tags: [00-moc, deepmind, openai, tecnologa]
 ## 📊 NODOS AUTOMÁTICOS (Dataview)
 
 - [[06_Videos_Publicados/2026/2026-03-17 IRAN_STREAM/00_ARCHIVO_2026-03-17_Iran.md|00_ARCHIVO_2026-03-17_Iran]]
+- [[02_Produccion/Videos/2026-04-02_La_guerra_puede_bajar_pero_el_orden_no_vuelve/00_CONTROL_TEMA.md|00_CONTROL_TEMA]]
+- [[01_Research/02_Analisis/Milei,_el_Circulo_Rojo_y_La_elite_Global/00_CONTROL_TEMA.md|00_CONTROL_TEMA]]
 - [[00_MOC - Finanzas y CBDC.md|00_MOC - Finanzas y CBDC]]
 - [[00_MOC - Operaciones Psicologicas.md|00_MOC - Operaciones Psicologicas]]
 - [[15-Minute Cities.md|15-Minute Cities]]
@@ -200,6 +203,7 @@ tags: [00-moc, deepmind, openai, tecnologa]
 - [[05_Fuentes/Cómo Silicon Valley se convirtió en el nuevo complejo militar-industrial.md|Cómo Silicon Valley se convirtió en el nuevo complejo militar-industrial]]
 - [[Complejo Industrial de la Censura.md|Complejo Industrial de la Censura]]
 - [[Computacion Espacial.md|Computacion Espacial]]
+- [[Control de Grid Energetico.md|Control de Grid Energetico]]
 - [[Control Risks.md|Control Risks]]
 - [[Credito Social.md|Credito Social]]
 - [[Credito Social Chino.md|Credito Social Chino]]
@@ -274,15 +278,12 @@ tags: [00-moc, deepmind, openai, tecnologa]
 - [[PROMIS Software.md|PROMIS Software]]
 - [[Protocolo 5G y Bio-resonancia.md|Protocolo 5G y Bio-resonancia]]
 - [[05_Fuentes/Proyecto Génesis El nuevo Proyecto Manhattan de la era de la IA.md|Proyecto Génesis El nuevo Proyecto Manhattan de la era de la IA]]
-- [[Rishi Sunak.md|Rishi Sunak]]
-- [[Sanger Institute.md|Sanger Institute]]
-- [[Score Ciudadano.md|Score Ciudadano]]
-- [[Sergey Brin.md|Sergey Brin]]
 - [[Tecnicas de Control Mental.md|Tecnicas de Control Mental]]
 - [[05_Fuentes/Tecnologicas EEUU y Estado Policial China.md|Tecnologicas EEUU y Estado Policial China]]
 - [[05_Fuentes/Ted Cruz quiere que la vigilancia no sea China, sea propia.md|Ted Cruz quiere que la vigilancia no sea China, sea propia]]
 - [[Teoria del Internet Muerto.md|Teoria del Internet Muerto]]
 - [[TikTok Gnosis.md|TikTok Gnosis]]
+- [[99_Recursos/Templates/TPL_Control_Tema.md|TPL_Control_Tema]]
 - [[05_Fuentes/Traduce el título del artículo al español. Si ya está en español, mantén el título original.md|Traduce el título del artículo al español. Si ya está en español, mantén el título original]]
 - [[Tratado de Pandemias OMS.md|Tratado de Pandemias OMS]]
 - [[05_Fuentes/Trump firma una orden ejecutiva que impide a los e.md|Trump firma una orden ejecutiva que impide a los e]]

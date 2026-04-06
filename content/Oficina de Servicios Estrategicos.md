@@ -1,5 +1,5 @@
 ---
-titulo: "Oficina De Servicios Estratégicos (OSS) [TL V.2]: El Genesis Del Estado Profundo"
+titulo: "Oficina De Servicios Estratégicos (OSS) [TL V.3]: El Genesis Del Estado Profundo"
 tipo: "concepto"
 fecha: 2026-02-25
 tier-primario: "b"
@@ -8,7 +8,7 @@ tags: [estado, estratgicos, oficina, servicios]
 publish: true
 ---
 
-# Oficina De Servicios Estratégicos (OSS) \[TL V.2]: El Genesis Del Estado Profundo
+# Oficina De Servicios Estratégicos (OSS) \[TL V.3]: El Genesis Del Estado Profundo
 
 > [!ABSTRACT] Hipótesis Informativa
 > La OSS no fue solo una agencia de inteligencia de guerra, sino el **Laboratorio de Creación del Deep State de [[Tier A]]**. Al unir a la aristocracia de Wall Street (liderada por **William J. Donovan**) con los métodos de la inteligencia británica, la OSS estableció el modelo de una agencia que opera por encima de la ley y de la supervisión democrática. Fue la semilla que permitió al **[[Tier B]]** burocrático fusionarse con el capital financiero, sentando las bases para que la **[[CIA]]** heredara su cultura de operaciones negras, propaganda masiva y el reclutamiento de antiguos enemigos nazis para la nueva guerra global.
@@ -45,4 +45,4 @@ La OSS es la partida de nacimiento de la Matrix de inteligencia moderna. Nos ens
 
 **Versión:** 2.0
 **Enfoque:** Conexión con Wall Street, orígenes de la CIA y el rol fundacional en la integración de activos nazis tras la guerra.
-**Estado:** Refactoreado a TL V.2 - Framework de Arqueología de Inteligencia.
+**Estado:** Refactoreado a TL V.3 - Framework de Arqueología de Inteligencia.

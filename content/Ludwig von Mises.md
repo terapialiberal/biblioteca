@@ -37,4 +37,4 @@ Mises es el hombre que le quitó la máscara a los planificadores centrales. Nos
 - **Legado:** [[Escuela Austríaca]], [[Bitcoin]], [[Liberalismo Clásico]].
 - **Conceptos:** [[Acción Humana]], [[Ciclo Económico]], [[Patrón Oro]].
 
-**Estado:** Refactoreado a TL V.2 - Marco de Resistencia Praxeológica.
+**Estado:** Refactoreado a TL V.3 - Marco de Resistencia Praxeológica.

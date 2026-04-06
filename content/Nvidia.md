@@ -1,23 +1,10 @@
 ---
-titulo: Nvidia
-tipo: "entidad"
-tier-primario: 'b'
-nivel-evidencia: 'medio'
-tags: [clasificado-ai]
 publish: true
+created: 2026-01-29T19:17:27.663-03:00
+modified: 2026-04-02T13:15:50.898-03:00
 ---
 
-﻿---
-titulo: NVIDIA (TL V.2)
-tipo: concepto
-fecha: 2026-02-25
-tier-primario: "a"
-nivel-evidencia: "alto"
-tags: \[digital, infinito, jensen, monopolio]
-publish: true
--------------
-
-# NVIDIA (TL V.2)
+# Nvidia
 
 #### BLUF
 
@@ -78,8 +65,6 @@ Nvidia es simplemente una empresa que fabrica los mejores productos en el moment
 
 #### LAGUNAS
 
-Cul es la relacin real entre Nvidia y la recopilacin de datos de entrenamiento va sus propios clusters internos ("Selene") para entrenar modelos propietarios ocultos?
+## Cul es la relacin real entre Nvidia y la recopilacin de datos de entrenamiento va sus propios clusters internos ("Selene") para entrenar modelos propietarios ocultos?
 
----
-
-_Versiï¿½n: 1.0 (TL V.2) | Dossier de Chokepoint de Hardware_
+_VersiÃ¯Â¿Â½n: 1.0 (TL V.3) | Dossier de Chokepoint de Hardware_

@@ -11,7 +11,7 @@ publish: true
 # Narrativas Del Apocalipsis
 
 > [!ABSTRACT] Hipótesis Informativa
-> Nodo perteneciente a la Matrix de Simbolismo y Esoterismo TL V.2.
+> Nodo perteneciente a la Matrix de Simbolismo y Esoterismo TL V.3.
 
 ## Análisis De Tiers
 

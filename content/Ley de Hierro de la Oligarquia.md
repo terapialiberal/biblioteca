@@ -38,4 +38,4 @@ Entender la Ley de Hierro de Michels es la cura contra la decepción política. 
 - **Conceptos:** [[Oligarquía]], [[Élite (Concepto)]], [[Kayfabe (Política)]].
 - **Ejemplos Reales:** [[ONU]], [[WEF]], [[Partidos Políticos]].
 
-**Estado:** Refactoreado a TL V.2 - Framework de Inteligencia Aplicado.
+**Estado:** Refactoreado a TL V.3 - Framework de Inteligencia Aplicado.

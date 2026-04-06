@@ -36,4 +36,4 @@ Spooner es el autor que te "desenchufa" de la Matrix legal. Si la Constitución 
 - **Conceptos:** [[Ley Natural]], [[Soberanía Individual]], [[No Treason]], [[Derecho de Autodefensa]].
 - **Antídotos:** [[Bitcoin]], [[Descentralización]], [[Desobediencia Civil]].
 
-**Estado:** Refactoreado a TL V.2 - Marco de Resistencia Individualista.
+**Estado:** Refactoreado a TL V.3 - Marco de Resistencia Individualista.

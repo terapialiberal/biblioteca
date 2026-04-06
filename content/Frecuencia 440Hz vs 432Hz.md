@@ -1,31 +1,22 @@
 ---
-titulo: Frecuencia 440Hz vs 432Hz
-tipo: "concepto"
-tier-primario: 'b'
-nivel-evidencia: 'medio'
-tags: [clasificado-ai]
 publish: true
+created: 2026-02-25T22:08:57.804-03:00
+modified: 2026-04-02T13:01:23.135-03:00
+tags:
+  - 432hz
+  - 440hz
+  - frecuencia
 ---
-
-﻿---
-titulo: Frecuencia 440Hz Vs 432Hz
-tipo: "concepto"
-fecha: 2026-02-25
-tags: \[432hz, 440hz, frecuencia]
-tier-primario: "b"
-nivel-evidencia: "medio"
-publish: true
--------------
 
 # Frecuencia 440Hz Vs 432Hz
 
-> [!ABSTRACT] Hipótesis Informativa
-> Nodo perteneciente a la Matrix de Simbolismo y Esoterismo TL V.2.
+> [!ABSTRACT] HipÃ³tesis Informativa
+> Nodo perteneciente a la Matrix de Simbolismo y Esoterismo TL V.3.
 
-## Análisis De Tiers
+## AnÃ¡lisis De Tiers
 
 _En desarrollo..._
 
 ## Cui Bono
 
-_Pendiente de análisis forense._
+_Pendiente de anÃ¡lisis forense._

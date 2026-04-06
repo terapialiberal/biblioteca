@@ -1,23 +1,10 @@
 ---
-titulo: Groq
-tipo: "concepto"
-tier-primario: 'b'
-nivel-evidencia: 'medio'
-tags: [clasificado-ai]
 publish: true
+created: 2026-02-25T14:51:26.243-03:00
+modified: 2026-04-02T13:15:50.996-03:00
 ---
 
-﻿---
-titulo: GROQ (TL V.2)
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: \[groq, jonathan, nvidia]
-publish: true
--------------
-
-# GROQ (TL V.2)
+# Groq
 
 #### BLUF
 
@@ -78,8 +65,6 @@ Groq es solo una optimizacin tcnica, no un cambio de paradigma de poder. Es la e
 
 #### LAGUNAS
 
-Quines son los inversores reales detrs de la expansin de Groq en Oriente Medio, y qu acceso a los datos de inferencia estn exigiendo a cambio del financiamiento?
+## Quines son los inversores reales detrs de la expansin de Groq en Oriente Medio, y qu acceso a los datos de inferencia estn exigiendo a cambio del financiamiento?
 
----
-
-_Dossier forense TL V.2 | Acelerando la Matrix Cognitiva_
+_Dossier forense TL V.3 | Acelerando la Matrix Cognitiva_

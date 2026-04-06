@@ -48,4 +48,4 @@ publish: true
 - **Conceptos:** [[Cuarta Revolución Industrial]], [[Transhumanismo]], [[Identidad Digital]], [[CBDC]].
 - **Proyectos:** [[Gaza]] (IMEC Hub), [[Smart Cities]], [[Crédito Social]].
 
-**Estado:** Refactoreado a TL V.2 - Perspectiva de Tecnocracia Global.
+**Estado:** Refactoreado a TL V.3 - Perspectiva de Tecnocracia Global.

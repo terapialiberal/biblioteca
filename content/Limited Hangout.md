@@ -39,4 +39,4 @@ publish: true
 - **Conceptos Relacionados:** [[Oposición Controlada]], [[Guerra Cognitiva]], [[Desinformación]].
 - **Agencia:** [[CIA]], [[Mossad]], [[Deep State]].
 
-**Estado:** Refactoreado a TL V.2 - Framework de Inteligencia Aplicado.
+**Estado:** Refactoreado a TL V.3 - Framework de Inteligencia Aplicado.

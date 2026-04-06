@@ -1,31 +1,22 @@
 ---
-titulo: John Dee y el Lenguaje Enoquiano
-tipo: "persona"
-tier-primario: 'b'
-nivel-evidencia: 'medio'
-tags: [clasificado-ai]
 publish: true
+created: 2026-02-25T22:08:52.921-03:00
+modified: 2026-04-02T13:01:17.479-03:00
+tags:
+  - enoquiano
+  - john
+  - lenguaje
 ---
-
-﻿---
-titulo: John Dee Y El Lenguaje Enoquiano
-tipo: "concepto"
-fecha: 2026-02-25
-tags: \[enoquiano, john, lenguaje]
-tier-primario: "b"
-nivel-evidencia: "medio"
-publish: true
--------------
 
 # John Dee Y El Lenguaje Enoquiano
 
-> [!ABSTRACT] Hipótesis Informativa
-> Nodo perteneciente a la Matrix de Simbolismo y Esoterismo TL V.2.
+> [!ABSTRACT] HipÃ³tesis Informativa
+> Nodo perteneciente a la Matrix de Simbolismo y Esoterismo TL V.3.
 
-## Análisis De Tiers
+## AnÃ¡lisis De Tiers
 
 _En desarrollo..._
 
 ## Cui Bono
 
-_Pendiente de análisis forense._
+_Pendiente de anÃ¡lisis forense._

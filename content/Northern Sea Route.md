@@ -49,4 +49,4 @@ publish: true
 
 **Falsabilidad**: Si una tecnología de rompehielos convencionales (no nucleares) de EEUU y Canadá logra equiparar la capacidad rusa antes de 2030, la NSR dejaría de ser un monopolio soberano de Moscú y pasaría a ser zona de conflicto internacional.
 
-_Versión: 1.0 | Protocolo TL-INTEL TL V.2_
+_Versión: 1.0 | Protocolo TL-INTEL TL V.3_
