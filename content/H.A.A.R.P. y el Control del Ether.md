@@ -2,9 +2,10 @@
 titulo: H.A.A.R.P. Y El Control Del Ether
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [control, ether, nikola, resonancia]
-tier-primario: "a"
-nivel-evidencia: "medio"
+tier_primario: "a"
+nivel_evidencia: "medio"
 publish: true
 ---
 
@@ -36,9 +37,3 @@ publish: true
 ## Cui Bono
 
 ¿Quién gana? Los **Ingenieros Planetarios del Tier A**. HAARP otorga la capacidad de crear "Hechos Consumados" (terremotos, sequías) que obligan a las naciones de Tier C a solicitar ayuda y endeudarse con los bancos de Tier A.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Guerra geofísica y control de las frecuencias planetarias.
-**Estado:** 2026-02-25 | Informe Activo

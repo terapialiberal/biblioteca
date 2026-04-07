@@ -2,8 +2,9 @@
 titulo: Red Tor (The Onion Router)
 tipo: "concepto"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [brics, edward, onion, router]
 publish: true
 ---

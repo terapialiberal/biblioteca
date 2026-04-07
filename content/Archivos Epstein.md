@@ -2,8 +2,9 @@
 titulo: "Archivos Epstein (2024): La Transparencia Coreografiada"
 tipo: "entidad"
 fecha: 2024-01-01
-tier-primario: "b"
-nivel-evidencia: "alto"
+tier_primario: "b"
+nivel_evidencia: "alto"
+estado: activo
 tags: [archivos, epstein, jeffrey, transparencia]
 publish: true
 ---

@@ -2,8 +2,9 @@
 titulo: "Loosh: La Energética Del Sufrimiento Colectivo"
 tipo: "evento"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [colectivo, loosh, robert, sufrimiento]
 publish: true
 ---
@@ -27,14 +28,3 @@ publish: true
 ## âš¡ Conclusión De Terapia Liberal
 
 El Loosh es lo que queda cuando las explicaciones económicas se quedan cortas. ¿Por qué destruir Gaza o Ucrania cuando es poco rentable? Porque el **sacrificio y el terror** tienen un valor intrínseco en otra escala de poder. Tu indignación es el combustible de la Matrix. La única forma de "dejar de alimentar" al sistema es mediante la soberanía emocional: el rechazo al miedo y la desconexión del drama inducido.
-
----
-
-## Conexiones De La Red
-
-- **El Origen:** [[Robert Monroe]] (Monroe Institute).
-- **Mecanismos:** [[Loops de Dopamina]], [[Guerra de Cuarta Generación]], [[Sacrificio Ritual]].
-- **Entidades:** [[Arcontes (Teoría)]], [[Élites Psicopáticas]].
-- **Conceptos:** [[Demiurgo]], [[Frecuencias de Solfeggio]] (Antídoto).
-
-**Estado:** Refactoreado a TL V.3 - Framework Metafísico Aplicado.

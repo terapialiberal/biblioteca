@@ -1,8 +1,9 @@
 ---
 titulo: Alquimia China
 tipo: "concepto"
-tier-primario: "a"
-nivel-evidencia: "medio"
+tier_primario: "a"
+nivel_evidencia: "medio"
+estado: activo
 tags: [esoterismo, china, longevidad, control-biologico]
 publish: true
 ---
@@ -36,7 +37,3 @@ La obsesión con el "Capitalismo de la Longevidad" es la versión 1.618 de la Al
 - [[Alquimia Operativa]]: La versión occidental.
 - [[Transhumanismo]]: El objetivo final.
 - [[Silicon Valley]]: Donde se financia la nueva alquimia.
-
----
-
-_TL-INTEL V.3 | Esoterismo y Bio-Poder_

@@ -2,9 +2,10 @@
 titulo: DMT- Teléfono De La Matrix (La Molécula Del Espíritu)
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [glndula, matrix, psicodlicos, telfono]
-tier-primario: "a"
-nivel-evidencia: "medio"
+tier_primario: "a"
+nivel_evidencia: "medio"
 publish: true
 ---
 
@@ -36,9 +37,3 @@ publish: true
 ## Cui Bono
 
 ¿Quién gana? El **Individuo Despierto**. La DMT es el "Hack" definitivo que permite entender que no somos esclavos materiales, sino conciencias navegando un entorno que puede ser decodificado y, por lo tanto, transformado.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Gnosis química y ruptura de la simulación materialista.
-**Estado:** 2026-02-25 | Informe Activo

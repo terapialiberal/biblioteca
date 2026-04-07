@@ -2,8 +2,9 @@
 titulo: "Team Jorge: Los Fantasmas De La Democracia"
 tipo: "persona"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [democracia, fantasmas, team, unit]
 publish: true
 ---
@@ -45,9 +46,3 @@ publish: true
 ## Conclusión Del Análisis
 
 Team Jorge es la **Industrialización de la Mentira**. Han convertido la desestabilización política en un servicio SaaS (Software as a Service). Nos enseña que en la era digital, la "opinión pública" es una ficción que se puede comprar por 6 millones de euros (el precio de una campaña presidencial básica con ellos).
-
----
-
-**Versión:** 1.0
-**Enfoque:** Intervención electoral, avatares IA y hacking de políticos.
-**Estado:** Informe de Inteligencia Activo.

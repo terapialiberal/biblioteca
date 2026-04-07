@@ -2,9 +2,10 @@
 titulo: Logia Del Dragón Negro (Kokuryūkai)
 tipo: "entidad"
 fecha: 2026-02-25
+estado: activo
 tags: [dragn, expansionismo, logia, negro]
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
 publish: true
 ---
 
@@ -37,9 +38,3 @@ publish: true
 ## Cui Bono
 
 ¿Quién capturó el activo? El **Japón Imperial**. La Logia del Dragón Negro permitió que Japón proyectara poder sobre Rusia y China, asegurando su estatus de potencia mundial hasta el fin de la Segunda Guerra Mundial.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Inteligencia oriental y redes para-militares de expansión.
-**Estado:** 2026-02-25 | Informe Activo

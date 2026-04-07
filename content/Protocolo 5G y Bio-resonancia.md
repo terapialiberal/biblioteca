@@ -1,8 +1,9 @@
 ---
 titulo: Protocolo 5G y Bio-resonancia
 tipo: "concepto"
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [tecnologia, señales, bio-control, 5g]
 publish: true
 ---
@@ -31,7 +32,3 @@ Con el despliegue de las [[Ciudades Inteligentes]], el 5G actúa como el sistema
 - [[Nanotecnologia]]: El receptor.
 - [[Smart Cities]]: El entorno.
 - [[H.A.A.R.P. y el Ether]]: La versión macro de la modulación de frecuencias.
-
----
-
-_TL-INTEL V.3 | Tecnología de Control_

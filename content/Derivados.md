@@ -2,8 +2,9 @@
 titulo: Derivados (Quadrillion Dollar Bubble)
 tipo: "concepto"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [citigroup, derivados, dollar, goldman]
 publish: true
 ---
@@ -42,7 +43,7 @@ publish: true
 ## Fuentes
 
 - Warren Buffett: "2002 Berkshire Hathaway Annual Report" (Advertencia sobre derivados).
-- BIS (Bank for International Settlements): Reportes sobre estadsticas de derivados OTC.
+- BIS (Banco de Pagos Internacionales): Reportes sobre estadsticas de derivados OTC.
 - Satyajit Das: "Traders, Guns & Money" (Relatos desde adentro del mercado).
 
 ## Por Qu Importa (Estilo Nico)

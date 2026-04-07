@@ -2,8 +2,9 @@
 titulo: "¸ Lucis Trust: Los Arquitectos Espirituales Del Globalismo"
 tipo: "persona"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [globalismo, lucis, naciones, trust]
 publish: true
 ---
@@ -27,14 +28,3 @@ publish: true
 ## âš¡ Conclusión De Terapia Liberal
 
 Lucis Trust es el "Departamento de Almas" de la Globalización. Su función es convencer al Tier C de que la entrega de su soberanía nacional y personal a una burocracia centralizada no es una pérdida, sino una "evolución espiritual hacia la unidad". Si quieres saber qué "dios" adoran en los pasillos de las Naciones Unidas, lee a Alice Bailey.
-
----
-
-## Conexiones De La Red
-
-- **Huésped Principal:** [[Naciones Unidas (ONU)]].
-- **Mentes Maestras:** [[Alice Bailey]], [[Robert McNamara]], [[Maurice Strong]] (Arquitecto de la Agenda Verde).
-- **Relaciones:** [[Club of Rome]], [[World Economic Forum]], [[UNESCO]].
-- **Conceptos:** [[Luciferianismo]], [[Agenda 2030]], [[00_Glosario - Conceptos Fase 1#Nuevo Orden Mundial|Nuevo Orden Mundial]].
-
-**Estado:** Refactoreado a TL V.3 - Marco de Inteligencia Espiritual-Global.

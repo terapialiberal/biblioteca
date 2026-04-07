@@ -2,9 +2,10 @@
 titulo: "Sinarquía (Saint-Yves d'Alveydre)"
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [comisin, sinarqua, tecnocracia]
-tier-primario: "a"
-nivel-evidencia: "alto"
+tier_primario: "a"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -37,9 +38,3 @@ publish: true
 ## Cui Bono
 
 ¿Quién gana? Los **Grandes Administradores de Activos**. La sinarquía asegura que el capital fluya sin las interrupciones que causan los procesos electorales o la voluntad popular.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Teoría de gobierno tecnocrático y control administrativo.
-**Estado:** 2026-02-25 | Informe Activo

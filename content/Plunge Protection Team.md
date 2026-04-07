@@ -2,8 +2,9 @@
 titulo: "Plunge Protection Team: La Falsificación Del Mercado"
 tipo: "persona"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [plunge, protection, reserva, team]
 publish: true
 ---
@@ -42,9 +43,3 @@ publish: true
 ## Conclusión Del Análisis
 
 El PPT es la **URSS financiera**. Un comité central que decide cuál debe ser el precio de las acciones, eliminando el descubrimiento de precios real. Convierte a Wall Street en un esquema Ponzi respaldado por la imprenta del gobierno, donde el riesgo real ha sido abolido para la élite.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Manipulación estatal de mercados bursátiles.
-**Estado:** Informe de Inteligencia Activo.

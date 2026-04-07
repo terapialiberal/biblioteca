@@ -2,8 +2,9 @@
 titulo: "Oficina De Servicios Estratégicos (OSS) [TL V.3]: El Genesis Del Estado Profundo"
 tipo: "concepto"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [estado, estratgicos, oficina, servicios]
 publish: true
 ---
@@ -40,9 +41,3 @@ publish: true
 ## Conclusión Del Análisis
 
 La OSS es la partida de nacimiento de la Matrix de inteligencia moderna. Nos enseña que el espionaje en EE.UU. no nació para proteger la democracia, sino para proteger la expansión del capital global. Al estudiar la OSS, vemos el momento exacto en que la República murió y fue reemplazada por una Seguridad Nacional gestionada por una élite de misterio que no rinde cuentas a nadie debajo de ellos.
-
----
-
-**Versión:** 2.0
-**Enfoque:** Conexión con Wall Street, orígenes de la CIA y el rol fundacional en la integración de activos nazis tras la guerra.
-**Estado:** Refactoreado a TL V.3 - Framework de Arqueología de Inteligencia.

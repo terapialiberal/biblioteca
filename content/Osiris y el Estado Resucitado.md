@@ -2,9 +2,10 @@
 titulo: Osiris Y El Estado Resucitado
 tipo: "entidad"
 fecha: 2026-02-25
+estado: activo
 tags: [domo, estado, osiris, solve]
-tier-primario: "a"
-nivel-evidencia: "alto"
+tier_primario: "a"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -36,9 +37,3 @@ publish: true
 ## Cui Bono
 
 ¿Quién gana? Los **Herederos del Trono Eterno**. Osiris asegura que la humanidad de Tier C siempre busque la salvación dentro del Sistema, impidiendo que imagine una vida fuera del Estado administrado por el Tier A.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Ingeniería de la continuidad y gestión de la transición sistémica.
-**Estado:** 2026-02-25 | Informe Activo

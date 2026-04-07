@@ -2,8 +2,9 @@
 titulo: El Vacunatorio VIP
 tipo: "concepto"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [fiesta, horacio, vacunatorio]
 publish: true
 ---

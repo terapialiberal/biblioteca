@@ -1,8 +1,9 @@
 ---
 titulo: Alquimia de la Percepción
 tipo: "concepto"
-tier-primario: "b"
-nivel-evidencia: "muy-alto"
+tier_primario: "b"
+nivel_evidencia: "muy-alto"
+estado: activo
 tags: [percepcion, narrativa, control-mental, guerra-cognitiva]
 publish: true
 ---
@@ -33,7 +34,3 @@ La pantalla es el **Atanor** (el horno alquímico) moderno:
 - [[Ingenieria de Consentimiento]]: La base estratégica.
 - [[Cognitive Warfare]]: La aplicación militar.
 - [[Neuromarketing Esoterico]]: La aplicación comercial.
-
----
-
-_TL-INTEL V.3 | Control de la Realidad_

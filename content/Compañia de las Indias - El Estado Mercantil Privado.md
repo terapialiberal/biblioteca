@@ -2,9 +2,10 @@
 titulo: Compañía De Las Indias - El Estado Mercantil Privado
 tipo: "entidad"
 fecha: 2026-02-25
+estado: activo
 tags: [compaa, estado, mercantil, privado]
-tier-primario: "a"
-nivel-evidencia: "alto"
+tier_primario: "a"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -26,9 +27,3 @@ publish: true
 ## El Legado En La Matrix Actual
 
 Hoy, las estructuras de **BlackRock, Vanguard y State Street** operan con una lógica similar: una red de propiedad cruzada que gestiona la gobernanza global por encima de los estados nacionales, utilizando el capital como el ejército invisible que disciplina a los gobiernos.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Análisis de la soberanía corporativa y el narcotráfico como herramienta estatal.
-**Estado:** 2026-02-25 | Informe Activo

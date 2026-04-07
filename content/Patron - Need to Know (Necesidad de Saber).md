@@ -3,8 +3,9 @@ publish: true
 titulo: Patron – Need to Know (Necesidad de Saber)
 tipo: concepto
 fecha: 2026-02-28
-tier-primario: b
-nivel-evidencia: alto
+tier_primario: b
+nivel_evidencia: alto
+estado: activo
 tags: [00-patron, inteligencia, compartimentacion, tl-v2]
 ---
 

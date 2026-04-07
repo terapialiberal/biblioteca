@@ -3,9 +3,10 @@ publish: true
 titulo: Azoth — La Interconexión Total (El Solvente Universal)
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [azoth, confluencia]
-tier-primario: "a"
-nivel-evidencia: "medio"
+tier_primario: "a"
+nivel_evidencia: "medio"
 ---
 
 # Azoth — La Interconexión Total (El Solvente Universal)
@@ -48,9 +49,3 @@ nivel-evidencia: "medio"
 ## Cui Bono
 
 **El Dueño del Ledger**. Al convertir todo en datos interconectados (Azoth Digital), el Tier A elimina la posibilidad de que exista algo "fuera del sistema". La libertad solo es posible en la fricción; el Azoth elimina la fricción.
-
----
-
-**Versión:** 2.0 (Deepened)
-**Enfoque:** Alquimia aplicada a la tecnocracia y la gestión de la totalidad.
-**Estado:** 2026-02-25 | Informe Activo

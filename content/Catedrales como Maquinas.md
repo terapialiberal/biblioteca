@@ -2,9 +2,10 @@
 titulo: Catedrales Como Maquinas
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [catedrales, maquinas]
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
 publish: true
 ---
 

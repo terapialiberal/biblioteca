@@ -2,9 +2,10 @@
 titulo: Dark City (La Ciudad Del Reset Perpetuo)
 tipo: "persona"
 fecha: 2026-02-25
+estado: activo
 tags: [city, dark, solve, tartaria]
-tier-primario: "a"
-nivel-evidencia: "alto"
+tier_primario: "a"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -36,9 +37,3 @@ publish: true
 ## Cui Bono
 
 ¿Quién gana? Los **Configuradores del Entorno**. Dark City revela que si no posees tu memoria y tu espacio-tiempo, eres solo un sensor biológico para un experimento de Tier A.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Análisis de los ciclos de amnesia colectiva y arquitectura de control.
-**Estado:** 2026-02-25 | Informe Activo

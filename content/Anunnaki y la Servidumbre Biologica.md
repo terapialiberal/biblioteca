@@ -2,9 +2,10 @@
 titulo: Anunnaki Y La Servidumbre Biológica
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [anunnaki, biolgica, reset, servidumbre]
-tier-primario: "a"
-nivel-evidencia: "bajo"
+tier_primario: "a"
+nivel_evidencia: "bajo"
 publish: true
 ---
 
@@ -36,9 +37,3 @@ publish: true
 ## Cui Bono
 
 ¿Quién gana? Los **Patentadores de la Vida**. La narrativa Anunnaki asegura que el ser humano nunca se vea a sí mismo como un ser divino y soberano por derecho propio, sino como un esclavo biológico cuya única esperanza es ser "actualizado" por sus dueños.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Origen biopolítico de la humanidad y control genético.
-**Estado:** 2026-02-25 | Informe Activo

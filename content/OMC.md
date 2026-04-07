@@ -2,8 +2,9 @@
 titulo: "OMC (Organización Mundial De Comercio) [TL V.3]: El Tribunal De La Soberanía Corporativa"
 tipo: "concepto"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [bill, gatt, mundial, organizacin]
 publish: true
 ---
@@ -40,9 +41,3 @@ publish: true
 ## Conclusión Del Análisis
 
 La OMC es el candado de la Matrix económica. Su existencia garantiza que ninguna nación pueda ser verdaderamente libre si no está dispuesta a romper con el sistema comercial global. No promueven el mercado; promueven el **Monopolio Administrado**. Entender la OMC es entender que el mundo ya no es un conjunto de países, sino una única zona de extracción gestionada por burócratas en Suiza al servicio de acreedores anónimos.
-
----
-
-**Versión:** 2.0
-**Enfoque:** Destrucción de la soberanía nacional a través de tribunales corporativos, el "Race to the Bottom" salarial y la desindustrialización de Occidente como estrategia de Tier A.
-**Estado:** Refactoreado a TL V.3 - Framework de Colonialismo Financiero.

@@ -1,21 +1,30 @@
 ---
 publish: true
 created: 2026-02-25T22:08:55.255-03:00
-modified: 2026-04-02T13:01:20.356-03:00
+modified: 2026-04-07T12:08:26.027-03:00
 tags:
-  - chteau
-  - rennes
+  - rennes-le-chateau
+  - esoterismo
+  - simbolismo
+  - francia
+  - tl-intel-v3
 ---
 
-# Rennes-le-ChÃ¢teau
+# [[Rennes-le-Château]]
 
-> [!ABSTRACT] HipÃ³tesis Informativa
-> Nodo perteneciente a la Matrix de Simbolismo y Esoterismo TL V.2.
+> [!abstract] PERFIL TL-INTEL
+> Nodo clásico del imaginario esotérico moderno, asociado a tesoros ocultos, linajes secretos y construcción de mitologías de poder.
 
-## AnÃ¡lisis De Tiers
+## Contexto
 
-_En desarrollo..._
+Rennes-le-Château funciona en el vault como punto de cruce entre simbolismo, catolicismo heterodoxo, sociedades secretas y operaciones narrativas de largo aliento.
 
-## Cui Bono
+## Conexiones
 
-_Pendiente de anÃ¡lisis forense._
+- [[Priorato de Sion]]
+- [[Santo Grial]]
+- [[Simbolismo y Esoterismo]]
+
+## Observación operativa
+
+Su valor analítico no está solo en la historicidad dura, sino en cómo produce relatos persistentes sobre legitimidad, linaje y secreto.

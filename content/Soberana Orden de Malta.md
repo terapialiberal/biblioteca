@@ -2,9 +2,10 @@
 titulo: Soberana Orden De Malta (SMOM)
 tipo: "entidad"
 fecha: 2026-02-25
+estado: activo
 tags: [gladio, malta, noblezas, soberana]
-tier-primario: "a"
-nivel-evidencia: "total"
+tier_primario: "a"
+nivel_evidencia: "total"
 publish: true
 ---
 
@@ -36,9 +37,3 @@ publish: true
 ## Cui Bono
 
 ¿Quién gana? Los **Guardianes del Umbral**. La Orden de Malta asegura que la élite de Tier A tenga un canal de operación soberano e invisible para los ojos del Tier C, manteniendo su capacidad de intervención global sin responsabilidad legal nacional.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Inteligencia diplomática y soberanía extraterritorial.
-**Estado:** 2026-02-25 | Informe Activo

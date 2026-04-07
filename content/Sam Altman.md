@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:35.199-03:00
-modified: 2026-04-02T13:22:42.453-03:00
+modified: 2026-04-07T10:52:05.618-03:00
 tags:
   - altman
   - energa
@@ -71,7 +71,3 @@ Sam Altman es un inversor de riesgo agresivo que simplemente diversifica. Sus ap
 #### LAGUNAS
 
 ¿Cuál es la participación exacta de Altman en las redes de inteligencia (In-Q-Tel) para asegurar que su tríada de poder no sea intervenida por el Estado?
-
----
-
-_Versión: 1.0 (TL V.2) | Dossier de Actor Tier A_

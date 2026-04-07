@@ -2,8 +2,9 @@
 titulo: "COINTELPRO: El Programa De Desestabilización Interna"
 tipo: "concepto"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [cointelpro, desestabilizacin, interna, programa]
 publish: true
 ---
@@ -40,9 +41,3 @@ publish: true
 ## Conclusión Del Análisis
 
 COINTELPRO es el modelo de operación psicológica contra la disidencia interna, aún vigente en formas modernas.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Análisis de Operaciones Psicológicas
-**Estado:** Informe de Inteligencia Activo

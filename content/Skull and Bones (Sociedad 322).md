@@ -2,9 +2,10 @@
 titulo: Skull and Bones (Sociedad 322)
 tipo: "entidad"
 fecha: 2026-02-25
+estado: activo
 tags: [harriman, russell, skull, sociedad]
-tier-primario: "a"
-nivel-evidencia: "alto"
+tier_primario: "a"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -38,9 +39,3 @@ publish: true
 ## Cui Bono
 
 ¿Quién gana? El **Establecimiento de la Costa Este (EE.UU.)**. Skull and Bones garantiza que las llaves del arsenal nuclear y financiero de la nación nunca caigan en manos de alguien ajeno al pacto de sangre de Yale.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Reclutamiento de élite y linajes de poder anglo-americanos.
-**Estado:** 2026-02-25 | Informe Activo

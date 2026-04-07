@@ -2,9 +2,10 @@
 titulo: Fenicios - Los Arquitectos Del Comercio Global
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [arquitectos, comercio, fenicios, global]
-tier-primario: "a"
-nivel-evidencia: "alto"
+tier_primario: "a"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -25,9 +26,3 @@ publish: true
 ## Redes De Puertos (Nodos De Gestión)
 
 - Establecieron una red de ciudades-estado (Tiro, Sidón, Cartago) que funcionaban como **Nodos de un Servidor Descentralizado**. Si un nodo caía, la red sobrevivía. Es el modelo de las Noblezas Negras venecianas y los paraísos fiscales actuales.
-
----
-
-**Versión:** 1.1
-**Enfoque:** Talasocracia, Ley Marítima y gestión del estatus aristocrático.
-**Estado:** 2026-02-25 | Informe Expandido

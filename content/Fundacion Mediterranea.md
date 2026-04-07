@@ -2,8 +2,9 @@
 titulo: Fundación Mediterránea
 tipo: "entidad"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [carlos, domingo, fundacin, mediterrnea]
 publish: true
 ---

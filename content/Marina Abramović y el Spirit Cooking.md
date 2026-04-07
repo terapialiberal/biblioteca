@@ -2,9 +2,10 @@
 titulo: Marina Abramović Y El Spirit Cooking
 tipo: "persona"
 fecha: 2026-02-25
+estado: activo
 tags: [abramovi, lady, satanismo, spirit]
-tier-primario: "a"
-nivel-evidencia: "alto"
+tier_primario: "a"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -36,9 +37,3 @@ publish: true
 ## Cui Bono
 
 ¿Quién gana? Los **Coleccionistas de Almas**. Abramović asegura que el ritual de Tier A fluya hacia el Tier B sin encontrar resistencia moral, convirtiendo la transgresión en una moneda de cambio prestigiosa en los mercados del arte y el poder.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Arte como cobertura ritual y redes de complicidad de élite.
-**Estado:** 2026-02-25 | Informe Activo

@@ -2,8 +2,9 @@
 titulo: Carlyle Group (The Carlyle Group)
 tipo: "entidad"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [carlyle, familia, george, group]
 publish: true
 ---

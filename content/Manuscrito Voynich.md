@@ -2,9 +2,10 @@
 titulo: Manuscrito Voynich (Cifrado De Alta Extrañeza)
 tipo: "persona"
 fecha: 2026-02-25
+estado: activo
 tags: [manuscrito, voynich]
-tier-primario: "a"
-nivel-evidencia: "alto"
+tier_primario: "a"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -22,9 +23,3 @@ publish: true
 ### 2. El Cifrado Como Filtro
 
 - Si el manuscrito es real, su cifrado actúa como un filtro de inteligencia: solo aquellos con una capacidad de procesamiento (o iniciación) suficiente pueden acceder a la información, asegurando que la tecnología contenida no caiga en el Tier C.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Criptografía arcaica y gestión de información anómala.
-**Estado:** 2026-02-25 | Informe Activo

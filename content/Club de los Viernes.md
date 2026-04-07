@@ -2,8 +2,9 @@
 titulo: "Club De Los Viernes: El Corazón De La City"
 tipo: "entidad"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [banco, city, club, corazn]
 publish: true
 ---
@@ -44,9 +45,3 @@ publish: true
 ## Conclusión Del Análisis
 
 El Club de los Viernes es un recordatorio de que **el dinero es un club social**. Las tasas de interés y la oferta monetaria no son producto de algoritmos fríos, sino de conversaciones entre hombres que se conocen por su nombre de pila y deciden cuánto debe valer tu hipoteca mientras toman el té.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Coordinación bancaria informal en Londres y nexo Estado-Banca.
-**Estado:** Informe de Inteligencia Activo.

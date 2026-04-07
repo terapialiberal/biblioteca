@@ -2,9 +2,10 @@
 titulo: La Era De Acuario (Tecno-Religión)
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [acuario, precesin, transhumanismo]
-tier-primario: "a"
-nivel-evidencia: "alto"
+tier_primario: "a"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -36,9 +37,3 @@ publish: true
 ## Cui Bono
 
 ¿Quién gana? Los **Administradores de la Red**. La Era de Acuario asegura que el control sea fractal y ubicuo, eliminando la posibilidad de refugio privado y convirtiendo la "fraternidad" en un sistema de vigilancia mutua perpetua.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Transición civilizatoria y arquitectura del control por datos.
-**Estado:** 2026-02-25 | Informe Activo

@@ -2,8 +2,9 @@
 titulo: "Familia Savoy: La Realeza En Las Sombras"
 tipo: "entidad"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [logia, realeza, savoy, sombras]
 publish: true
 ---
@@ -44,9 +45,3 @@ publish: true
 ## Conclusión Del Análisis
 
 La Familia Savoy es un recordatorio de que **las monarquías no desaparecen cuando se proclama la república**; pasan a la clandestinidad operativa. Siguen siendo actores de Tier A que trafican con influencias y armas, protegidos por escudos heráldicos de mil años.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Nobleza negra operativa, crimen organizado y Logia P2.
-**Estado:** Informe de Inteligencia Activo.

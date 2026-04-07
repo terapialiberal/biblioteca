@@ -2,9 +2,10 @@
 titulo: Venecia - La Serenísima Y El Diseño Del Poder
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [noblezas, poder, serensima, venecia]
-tier-primario: "a"
-nivel-evidencia: "alto"
+tier_primario: "a"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -41,9 +42,3 @@ publish: true
 - [[Noblezas Negras (Linajes Venecianos)]]
 - [[Génova - Los Banqueros Invisibles]]
 - [[City of London]]
-
----
-
-**Versión:** 1.0
-**Enfoque:** Análisis del modelo veneciano como raíz del estado profundo moderno.
-**Estado:** 2026-02-25 | Informe Activo

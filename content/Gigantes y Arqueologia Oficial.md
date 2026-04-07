@@ -2,9 +2,10 @@
 titulo: Gigantes Y Arqueología Oficial (Missing Nodes)
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [arqueologa, gigantes, oficial]
-tier-primario: "a"
-nivel-evidencia: "bajo"
+tier_primario: "a"
+nivel_evidencia: "bajo"
 publish: true
 ---
 
@@ -16,9 +17,3 @@ publish: true
 ## Análisis Forense
 
 - La desaparición sistemática de restos óseos gigantes (atribuidos a menudo a instituciones como el Smithsonian) indica un **Protocolo de Ocultación de Pruebas**. Si la humanidad de Tier C supiera que existieron humanoides de 3-5 metros con capacidades físicas superiores, la narrativa de la "Evolución por Gracia del Estado" colapsaría ante la evidencia de una ingeniería genética antigua.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Supresión de anomalías físicas y gestión de la historia biológica.
-**Estado:** 2026-02-25 | Informe Activo

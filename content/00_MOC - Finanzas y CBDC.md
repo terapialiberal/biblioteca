@@ -1,142 +1,181 @@
 ---
 publish: true
-titulo: "🗺️ MOC: Reconfiguración Financiera (CBDC & Rieles)"
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [00-moc, cbdc, financiera, reconfiguracin]
+created: 2026-02-09T17:49:12.815-03:00
+modified: 2026-04-07T10:47:07.660-03:00
+tags:
+  - moc
+  - cbdc
+  - tokenizacion
+  - rieles-financieros
+  - tl-intel-v3
 ---
 
-# 🗺️ MOC: Reconfiguración Financiera (CBDC & Rieles)
+# MOC - Finanzas y CBDC
 
-## 📌 TESIS CENTRAL
+> Arquitectura de reconfiguración monetaria: CBDC, tokenización, rieles privados y control programable de liquidez.
 
-El sistema fíat basado en el dólar está siendo migrado hacia una arquitectura de **Dinero Programable** (CBDC) y rieles de liquidación privados (DLT). No es un colapso, sino una **Reconfiguración** coordinada por el [[BIS]] para centralizar el control de la liquidez global.
+## Resumen
 
-## 🏗️ ARQUITECTURA DEL SISTEMA
+- No es un colapso espontáneo del sistema fiat.
+- Es una migración coordinada hacia dinero programable.
+- El BIS diseña; bancos, gestores y plataformas ejecutan.
 
-### El Banco Central De Los Bancos Centrales
+## Arquitectura del Sistema
 
-- [[BIS]] (Bank for International Settlements)
-- [[Proyecto Agora]]: La unificación de depósitos bancarios tokenizados (TL V.3).
-- [[BIS Innovation Hub]]: El laboratorio de la tecnocracia financiera.
-- [[CBDC Interoperability]]: El pegamento del control monetario transfronterizo.
+- [[BIS (Banco de Pagos Internacionales)|BIS]]
+- [[Proyecto Agora]]
+- [[BIS Innovation Hub]]
+- [[CBDC Interoperability]]
+- [[Proyecto mBridge]]
+- [[Digital Yuan Expansion]]
+- [[JPMorgan Onyx]]
+- [[BlackRock BUIDL]]
+- [[Ondo Finance]]
+- [[SWIFT Interoperability]]
 
-### Infraestructura Y Rieles (Conductos)
+## Tokenización y RWA
 
-- [[Proyecto mBridge]]: El bypass al SWIFT para el comercio asiático y BRICS.
-- [[Digital Yuan Expansion]]: El software de la hegemonía china.
-- [[JPMorgan Onyx]]: El riel privado de liquidación institucional.
-- [[BlackRock BUIDL]]: La tokenización de la Matrix financiera.
-- [[Ondo Finance]]: El puente de Wall Street hacia la blockchain.
-- [[SWIFT Interoperability]]: La transición del viejo al nuevo mundo.
+- [[Protocolo RWA]]
+- [[Tokenized Sovereign Debt]]
+- [[Tether USDS]]
+- [[Chainalysis]]
 
-### Tokenización Y RWA (Real World Assets)
+## Mecanismos de Control
 
-- [[Protocolo RWA]]: La digitalización de la propiedad física.
-- [[Tokenized Sovereign Debt]]: El embargo digital de las naciones.
-- [[Tether USDS]]: El dólar sintético del Estado Profundo regulado.
-- [[Chainalysis]]: El panóptico del ledger y la vigilancia de flujos.
+- [[CBDC Expiration (Dinero Programable)]]
+- [[Digital ID - Global Protocol]]
+- [[Stablecoin Regulation US (2026)]]
+- [[Basel IV]]
+- [[Basilea V]]
 
-## 🔒 MECANISMOS DE CONTROL
+## Bloques y Activos
 
-- [[CBDC Expiration (Dinero Programable)]]: El fin del ahorro pasivo.
-- [[Digital ID - Global Protocol]]: El requisito previo para operar en el nuevo sistema.
-- [[Stablecoin Regulation US (2026)]]: La captura regulatoria de los emisores privados.
-- [[Basel IV]] / [[Basilea V]]: La asfixia de la banca pequeña en favor de los G-SIBs.
+- [[BRICS Expansion 2026]]
+- [[Gold Backed CBDC - Pilot]]
+- [[AfCFTA]]
 
-## 🌏 BLOQUES Y ACTIVOS
+## Nodos Relacionados
 
-- [[BRICS Expansion 2026]]: El "seguro" geopolítico de la multipolaridad diseñada.
-- [[Gold Backed CBDC - Pilot]]: El anclaje físico para la confianza en la moneda programable.
-- [[AfCFTA]]: Mercado común africano como campo de pruebas CBDC.
+- [[00_MOC - Control Financiero]]
 
-## 🔗 CONEXIONES DE MEMORIA
+- [[00_MOC - Tecnologia de Control]]
 
-- [[MOC - Rimland]] (La base física del capital)
-- [[00_MOC - Control Financiero|MOC - Control Financiero]] ← **Ver diferencia de alcance abajo**
+- [[00_MOC - Redes de Poder]]
+
 - [[Entity_Graph]]
-- [[00_ONBOARDING_MAESTRO]]
 
-> [!NOTE] Diferencia con [[00_MOC - Control Financiero|MOC - Control Financiero]]
->
-> - **Este MOC** cubre la **arquitectura técnica**: CBDC, rieles DLT, mBridge, Project Agora. El _cómo_ se mueve el dinero.
-> - **MOC Control Financiero** cubre los **mecanismos de extracción**: deuda, inflación, Great Taking, bail-in. El _a quién_ se lo sacan.
->   Son complementarios. Este MOC es la plomería. El otro, el robo.
+- [[06_Videos_Publicados/2025/2025-10-29_Cometa_Atlas/🚨 Nave Extraterrestre o Ritual de la Elite La Verdad sobre 3IAtlas.md|🚨 Nave Extraterrestre o Ritual de la Elite La Verdad sobre 3IAtlas]]
 
----
+- [[06_Videos_Publicados/2025/2025-10-24_El_RESET_MALTHUSIANO_GEOPOLITICA/🚨 Prediccion de The Economist El Tiempo se acaba + Trump se enfurece con Rusia y otras noticias.md|🚨 Prediccion de The Economist El Tiempo se acaba + Trump se enfurece con Rusia y otras noticias]]
 
-> [!IMPORTANT]
-> Los movimientos en este MOC son SEÑALES (Tier 1). Ignorar el cambio de rieles es ignorar el cambio de Dueño del sistema.
+- [[06_Videos_Publicados/2026/2026-03-17 IRAN_STREAM/00_ARCHIVO_2026-03-17_Iran.md|00_ARCHIVO_2026-03-17_Iran]]
 
 - [[00_MOC - Finanzas y CBDC.md|00_MOC - Finanzas y CBDC]]
+
+- [[05_Fuentes/8 predicciones sobre el futuro del mundo para 2030.md|8 predicciones sobre el futuro del mundo para 2030]]
+
+- [[Alan Greenspan.md|Alan Greenspan]]
+
 - [[Alquimia Digital.md|Alquimia Digital]]
-- [[Articulo Pendiente - Great Taking (bail-in).md|Articulo Pendiente - Great Taking (bail-in)]]
+
 - [[Astrologia Financiera.md|Astrologia Financiera]]
+
 - [[Banca en la Sombra.md|Banca en la Sombra]]
+
 - [[Banco de Pagos Internacionales.md|Banco de Pagos Internacionales]]
-- [[Bio-Identidad Digital.md|Bio-Identidad Digital]]
+
 - [[Biometria Global.md|Biometria Global]]
+
+- [[BIS.md|BIS]]
+
 - [[BIS Innovation Hub.md|BIS Innovation Hub]]
-- [[Blockchain e Inmutabilidad.md|Blockchain e Inmutabilidad]]
-- [[Carney_en_Beijing_DW.md|Carney_en_Beijing_DW]]
+
+- [[05_Fuentes/Cambio China hacia mercado interno.md|Cambio China hacia mercado interno]]
+
+- [[CBDC.md|CBDC]]
+
+- [[CBDC Europeo.md|CBDC Europeo]]
+
 - [[CBDC Interoperability.md|CBDC Interoperability]]
-- [[CBDCs.md|CBDCs]]
-- [[CHEAT_SHEET_PRAXEOLOGIA.md|CHEAT_SHEET_PRAXEOLOGIA]]
+
+- [[05_Fuentes/Christine Lagarde admite que las CBDC son clave para mantener el poder de los bancos centrales.md|Christine Lagarde admite que las CBDC son clave para mantener el poder de los bancos centrales]]
+
 - [[CIPS & SPFS.md|CIPS & SPFS]]
+
 - [[Clearstream.md|Clearstream]]
+
+- [[05_Fuentes/Como la casa de Rothschild se entrelazo con Epstein.md|Como la casa de Rothschild se entrelazo con Epstein]]
+
 - [[Credito Social.md|Credito Social]]
+
 - [[Credito Social Chino.md|Credito Social Chino]]
+
 - [[Cybernetics of Control.md|Cybernetics of Control]]
+
 - [[Diem.md|Diem]]
+
 - [[DTCC.md|DTCC]]
+
+- [[05_Fuentes/El banco central de Brasil planea usar datos de su CBDC para guiar las decisiones sobre tasas de interés.md|El banco central de Brasil planea usar datos de su CBDC para guiar las decisiones sobre tasas de interés]]
+
+- [[05_Fuentes/El BIS defiende un libro mayor unificado pero describe las criptomonedas como un sistema defectuoso.md|El BIS defiende un libro mayor unificado pero describe las criptomonedas como un sistema defectuoso]]
+
+- [[05_Fuentes/El giro histórico de Jamie Dimon reconoce la superioridad del ecosistema cripto.md|El giro histórico de Jamie Dimon reconoce la superioridad del ecosistema cripto]]
+
 - [[El Gran Reinicio.md|El Gran Reinicio]]
+
+- [[05_Fuentes/El Operador de la Centralita.md|El Operador de la Centralita]]
+
 - [[El Patron Bitcoin.md|El Patron Bitcoin]]
+
 - [[Ethereum Foundation.md|Ethereum Foundation]]
-- [[General Richardson resalta el vasto potencial de S.md|General Richardson resalta el vasto potencial de S]]
+
 - [[Geocercas.md|Geocercas]]
+
 - [[Gold Backed CBDC - Pilot.md|Gold Backed CBDC - Pilot]]
-- [[Great Reset.md|Great Reset]]
+
 - [[Grupo de los Treinta.md|Grupo de los Treinta]]
-- [[Guerra de Divisas.md|Guerra de Divisas]]
+
 - [[Hal Finney.md|Hal Finney]]
+
+- [[05_Fuentes/La CFTC pone en marcha un programa piloto para utilizar garantías de criptomonedas en los mercados de derivados.md|La CFTC pone en marcha un programa piloto para utilizar garantías de criptomonedas en los mercados de derivados]]
+
+- [[05_Fuentes/La Fed considera cuentas de pago 'reducidas' para ampliar el acceso al sistema bancario.md|La Fed considera cuentas de pago 'reducidas' para ampliar el acceso al sistema bancario]]
+
+- [[05_Fuentes/La Gran Expropiación.md|La Gran Expropiación]]
+
+- [[06_Videos_Publicados/2025/2025-11-12_Como_Funciona_el_Mundo/La Matrix del Poder Quienes son los Verdaderos Dueños del Planeta.md|La Matrix del Poder Quienes son los Verdaderos Dueños del Planeta]]
+
+- [[05_Fuentes/Las afirmaciones de sexo con menores sacuden al grupo de Bitcoin.md|Las afirmaciones de sexo con menores sacuden al grupo de Bitcoin]]
+
 - [[Linea de Tiempo - 2010s-2020s.md|Linea de Tiempo - 2010s-2020s]]
+
+- [[05_Fuentes/Los correos electronicos de Epstein arrojan una la.md|Los correos electronicos de Epstein arrojan una la]]
+
 - [[Mercado Pago.md|Mercado Pago]]
+
 - [[Monedas de Privacidad.md|Monedas de Privacidad]]
+
+- [[06_Videos_Publicados/2026/2026-03-26_El_Reseteo_Perfecto/NOTA_TESIS_El_Reseteo_Perfecto.md|NOTA_TESIS_El_Reseteo_Perfecto]]
+
+- [[06_Videos_Publicados/2026/2026-03-17 IRAN_STREAM/nota-tesis-iran-2026-tablero-completo.md|nota-tesis-iran-2026-tablero-completo]]
+
+- [[06_Videos_Publicados/2026/2026-03-17 IRAN_STREAM/NotaTesis_ConvergenciaFinal_v1.md|NotaTesis_ConvergenciaFinal_v1]]
+
+- [[06_Videos_Publicados/2026/2026-03-17 IRAN_STREAM/NotaTesis_MegaGroup_RedContinuidad_v5.md|NotaTesis_MegaGroup_RedContinuidad_v5]]
+
 - [[Nuevo Bretton Woods.md|Nuevo Bretton Woods]]
+
+- [[05_Fuentes/Nuevos correos revelan que Epstein financio indire.md|Nuevos correos revelan que Epstein financio indire]]
+
 - [[Proporcion 1.618 en HFT.md|Proporcion 1.618 en HFT]]
-- [[Saturno y Deuda.md|Saturno y Deuda]]
+
 - [[Señoreaje.md|Señoreaje]]
-- [[Sistemas de Credito Social.md|Sistemas de Credito Social]]
-- [[Smotrich.md|Smotrich]]
+
 - [[Tokenizacion de Activos Reales.md|Tokenizacion de Activos Reales]]
-- [[Transmutacion de Metales y CBDCs.md|Transmutacion de Metales y CBDCs]]
-- [[Wall Street and FDR.md|Wall Street and FDR]]
-- [[Wall Street and the Bolshevik Revolution.md|Wall Street and the Bolshevik Revolution]]
-- [[Wall Street and the Rise of Hitler.md|Wall Street and the Rise of Hitler]]
 
-## 🔍 NODOS DETECTADOS (AUDITORIA 2026)
+- [[05_Fuentes/Trump anuncia cuentas de ahorro de $1,000 para recién nacidos.md|Trump anuncia cuentas de ahorro de $1,000 para recién nacidos]]
 
-- [[Sistema SPFS]]
-- [[Tokenizacion de Activos Reales]]
-- [[City of London_LEGACY]]
-- [[Fundacion Bitcoin]]
-- [[Tether]]
-- [[Bitcoin]]
-- [[Vitalik Buterin]]
-- [[CBDCs]]
-- [[Sistema SWIFT]]
-- [[mBridge Expansion]]
-- [[Stablecoin Regulation US]]
-- [[Binance]]
-- [[Coinbase]]
-- [[El Patron Bitcoin]]
-- [[Plan Condor 2.0]]
-- [[Mineria de Fondos Marinos]]
-- [[Operacion Condor]]
-- [[Satoshi Nakamoto]]
-- [[Sistema CIPS]]
-- [[Fondo Noruego]]
-- [[CBDC Europeo]]
-- [[Transmutacion de Metales y CBDCs]]
+- [[05_Fuentes/Una gran parte del crecimiento del PIB de EE. UU. se mantiene gracias al gasto en IA sin retorno garantizado, dice Deutsche Bank.md|Una gran parte del crecimiento del PIB de EE. UU. se mantiene gracias al gasto en IA sin retorno garantizado, dice Deutsche Bank]]
+
+- [[05_Fuentes/Winds of Change The Case for New Digital Currency by Christine Lagarde.md|Winds of Change The Case for New Digital Currency by Christine Lagarde]]

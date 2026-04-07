@@ -2,8 +2,9 @@
 titulo: General Education Board (Rockefeller)
 tipo: "persona"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [board, education, fundacin, john]
 publish: true
 ---
@@ -30,19 +31,3 @@ publish: true
 ## Ingeniería Social Y Medicina
 
 El GEB trabajó en conjunto con la Fundación Rockefeller para financiar el **Informe Flexner** (1910), que cerró todas las escuelas de medicina que no se enfocaran exclusivamente en fármacos químicos derivados del petróleo. Así, el GEB controló tanto la mente (Educación) como el cuerpo (Salud) de la población mundial.
-
----
-
-## Conexiones
-
-- [[John D. Rockefeller]]
-- [[Fundación Rockefeller]]
-- [[Informe Flexner]] (La captura de la medicina)
-- [[Fundación Carnegie]] (Socios en el diseño educativo)
-- [[John Taylor Gatto]] (Principal historiador crítico)
-
-## Fuentes
-
-- "The Underground History of American Education" - John Taylor Gatto.
-- "The Deliberate Dumbing Down of America" - Charlotte Iserbyt.
-- Reportes Anuales del General Education Board (Archivo Rockefeller).

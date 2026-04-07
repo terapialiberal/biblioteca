@@ -2,8 +2,9 @@
 titulo: Effective Altruism (EA)
 tipo: "persona"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [altruismo, efectivo, facebook, silicon]
 publish: true
 ---
@@ -48,4 +49,4 @@ _(SBF, el poster boy cado del EA)_
 ## Fuentes
 
 - "Going Infinite" - Michael Lewis (sobre SBF y EA)
-- Crticas de Émile P. Torres sobre "TESCREAL"
+- Críticas de Émile P. Torres sobre "TESCREAL"

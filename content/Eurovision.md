@@ -2,8 +2,9 @@
 titulo: Eurovision
 tipo: "evento"
 fecha: 2026-03-04
-tier-primario: "c"
-nivel-evidencia: "medio"
+tier_primario: "c"
+nivel_evidencia: "medio"
+estado: activo
 tags: [ingenieria-social, percepcion, cultura, propaganda, psicologica]
 publish: true
 ---
@@ -34,7 +35,3 @@ En un contexto de guerra híbrida, Eurovision opera como la "Capa de Entretenimi
 ## 📊 Cui Bono
 
 El **Tier B (Burocracia de la UE)** captura la homogeneización del pensamiento en la juventud. El **Tier A** captura un mercado cultural único, libre de resistencias locales o tradicionales.
-
----
-
-_TL V.3 | Análisis de Operaciones Psicológicas de Entretenimiento_

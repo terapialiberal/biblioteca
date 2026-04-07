@@ -2,8 +2,9 @@
 titulo: USAID (United States Agency for International Development)
 tipo: "concepto"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [development, ecohealth, peter, states]
 publish: true
 ---

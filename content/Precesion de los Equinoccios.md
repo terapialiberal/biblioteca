@@ -2,9 +2,10 @@
 titulo: Precesión De Los Equinoccios Y El Reseteo Del Mundo
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [equinoccios, gran, mitos, precesin]
-tier-primario: "a"
-nivel-evidencia: "alto"
+tier_primario: "a"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -37,9 +38,3 @@ publish: true
 ## Cui Bono
 
 ¿Quién gana? Los **Guardianes del Tiempo**. Al conocer los ciclos de largo plazo, el Tier A puede "predecir" lo que para el resto parece el fin del mundo, permitiéndoles heredar la nueva tierra bajo sus propios términos.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Ciclos cósmicos de largo plazo y gestión del destino civilizatorio.
-**Estado:** 2026-02-25 | Informe Activo

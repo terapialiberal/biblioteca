@@ -2,8 +2,9 @@
 titulo: Andreessen Horowitz
 tipo: "persona"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [andreessen, horowitz, marc]
 publish: true
 ---

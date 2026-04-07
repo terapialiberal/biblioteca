@@ -2,8 +2,9 @@
 titulo: Clearstream
 tipo: "concepto"
 fecha: 2026-03-04
-tier-primario: "b"
-nivel-evidencia: "alto"
+tier_primario: "b"
+nivel_evidencia: "alto"
+estado: activo
 tags: [finanzas, luxemburgo, lavado-dinero, offshore, clearstream]
 publish: true
 ---
@@ -34,7 +35,3 @@ Junto con **Euroclear**, Clearstream forma el duopolio de la liquidación de val
 ## 📊 Cui Bono
 
 El **Tier A (Dynasties/BlackRock)** captura la capacidad de operar de forma a-nacional. Clearstream es el motor legal de la "desterritorialización" del capital.
-
----
-
-_TL V.3 | Análisis de Infraestructura de Liquidación Off-shore_

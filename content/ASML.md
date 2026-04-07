@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-25T14:29:11.943-03:00
-modified: 2026-04-02T13:05:52.526-03:00
+modified: 2026-04-07T10:47:24.236-03:00
 ---
 
 # ASML (TL V.3)
@@ -65,6 +65,4 @@ ASML es una empresa vulnerable con una cadena de suministro demasiado frgil. Su 
 
 #### LAGUNAS
 
-## Cuntos ingenieros de ASML han sido reclutados por el programa "Seis Camas" de China para acelerar su litografa domstica mediante espionaje industrial?
-
-_VersiÃ¯Â¿Â½n: 1.0 (TL V.3) | Dossier de Chokepoint de Infraestructura_
+Cuntos ingenieros de ASML han sido reclutados por el programa "Seis Camas" de China para acelerar su litografa domstica mediante espionaje industrial?

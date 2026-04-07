@@ -2,9 +2,10 @@
 titulo: Anubis - El Pescador De Almas En Deuda
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [almas, anubis, deuda, pescador]
-tier-primario: "b"
-nivel-evidencia: "alto"
+tier_primario: "b"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -22,9 +23,3 @@ publish: true
 ### 2. Anubis Y Las Finanzas
 
 - Representa a los auditores externos y a las agencias de calificación crediticia que deciden la "vida o muerte" de las economías de Tier C basándose en métricas opacas de Tier B.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Auditoría de activos existenciales y protocolos de liquidación sistémica.
-**Estado:** 2026-02-25 | Informe Activo

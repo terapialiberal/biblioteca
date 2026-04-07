@@ -1,200 +1,88 @@
 ---
 publish: true
-titulo: 🧠 MOC - Operaciones Psicológicas Y Control Social
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [control, divide, operaciones, psicolgicas]
+created: 2026-01-29T19:17:02.587-03:00
+modified: 2026-04-07T10:47:08.250-03:00
+tags:
+  - moc
+  - psyops
+  - control-social
+  - guerra-cognitiva
+  - tl-intel-v3
 ---
 
-# 🧠 MOC - Operaciones Psicológicas Y Control Social
+# MOC - Operaciones Psicologicas
 
-> [!WARNING] OBJETIVO
-> Este índice documenta las tácticas, herramientas y actores involucrados en operaciones de manipulación de percepción pública. Conocer el juego es el primer paso para no ser jugado.
+> Tácticas, actores y programas orientados a manipular percepción, conducta y atención colectiva.
 
-## 1. 📚 Conceptos Fundamentales
+## Resumen
 
-### Tácticas De Manipulación
+- El objetivo de una psyop no es convencerte de una idea, sino modelar el campo de reacción posible.
+- El sistema opera sobre miedo, fragmentación, tabú y sobrecarga cognitiva.
+- Este MOC conecta conceptos, operadores, instituciones y herramientas.
 
-- [[Operaciones Psicológicas (PsyOps)]] - Marco teórico general
-- [[Divide y Vencerás (Estrategia)]] - Fragmentación de la mayoría
-- [[Problema-Reaccion-Solucion]] - Crear crisis para justificar "soluciones"
-- [[00_Glosario - Conceptos Fase 1#Gaslighting (Político)|Gaslighting (Político)]] - Negar la realidad percibida
-- [[Falsas Dicotomias]] - Limitar opciones de debate
-- [[Limited Hangout]] - Revelar poco para ocultar mucho
-- [[Oposicion Controlada]] - Gestionar la disidencia
+## Conceptos Fundamentales
 
-### Fenómenos Sociales Manufacturados
+- [[Operaciones Psicológicas (PsyOps)]]
+- [[Divide y Vencerás (Estrategia)]]
+- [[Problema-Reaccion-Solucion]]
+- [[Gaslighting (Político)]]
+- [[Falsas Dicotomias]]
+- [[Limited Hangout]]
+- [[Oposicion Controlada]]
+- [[Espiral del Silencio]]
+- [[Atomizacion Social]]
+- [[Hipernormalizacion]]
+- [[Menticidio]]
 
-- [[Loops de Dopamina]] - Adicción digital diseñada
-- [[Espiral del Silencio]] - Autocensura por miedo
-- [[Silenciamiento de la Mayoria]] - Percepción falsa de minoría
-- [[Narrativa Unica]] - Coordinación mediática total
-- [[Atomizacion Social]] - Destrucción de comunidad
-- [[Hipernormalizacion]] - Vivir en la mentira sabiendo que es mentira
-- [[Menticidio]] - Destrucción de la capacidad de pensar
+## Programas e Instituciones
 
-### Tácticas Mediáticas
+- [[MKUltra]]
+- [[COINTELPRO]]
+- [[Operacion Mockingbird]]
+- [[Operacion Chaos]]
+- [[Instituto Tavistock]]
+- [[Cambridge Analytica]]
+- [[Brigada 77 (Modernizada)]]
+- [[JTRIG]]
+- [[NewsGuard]]
+- [[CISA (Cybersecurity and Infrastructure Security Agency)]]
+- [[Virality Project]]
+- [[Atlantic Council DFRLab]]
 
-- [[Alarmismo Coordinado]] - Miedo como herramienta
-- [[Manipulacion de Tendencias]] - Control de trending topics
-- [[Framing (Encuadre)]] - Cómo se presenta la información
-- [[Autopsia de Profecia]] - Profecías autocumplidas
+## Operadores y Gatekeepers
 
-## 2. 🕷️ Organizaciones Y Programas
+- [[Mike Benz]]
+- [[Renee DiResta]]
+- [[Nina Jankowicz]]
+- [[Yoel Roth]]
+- [[Vijaya Gadde]]
+- [[Jen Easterly]]
+- [[Steve Bannon]]
+- [[Robert Mercer]]
+- [[Peter Thiel]]
+- [[J.D. Vance]]
 
-### Históricos (Desclasificados)
+## Herramientas de Control Cognitivo
 
-- [[MKUltra]] - Control mental CIA
-- [[COINTELPRO]] - Destrucción de movimientos
-- [[Operacion Mockingbird]] - Control de medios
-- [[Operacion Chaos]] - Infiltración de disidencia
-- [[Instituto Tavistock]] - Ingeniería social británica
+- [[Cognitive Warfare]]
+- [[Manufacture of Consent 2.0]]
+- [[Dead Internet Theory]]
+- [[Predictive Programming]]
+- [[Algorithmic Governance]]
+- [[Social Credit West]]
+- [[Disinformation Governance Board]]
+- [[Nudge Theory]]
+- [[Reality Privilege]]
+- [[Urbit 2026]]
 
-### Contemporáneos
-
-- [[Cambridge Analytica]] - Warfare electoral
-- [[Brigada 77 (Modernizada)]] - PsyOps británica doméstica
-- [[JTRIG]] - Operaciones GCHQ online
-- [[Palantir]] - Inteligencia privatizada
-- [[NewsGuard]] - Gatekeeping de "verdad"
-
-## Complejo Industrial De La Censura (The Blob)
-
-_La arquitectura revelada por los Twitter Files y Mike Benz._
-
-### Arquitectos (Tier B)
-
-- [[Mike Benz]] (Foundation for Freedom Online)
-- [[Renee DiResta]] (Stanford / CIA cut-out)
-- [[Nina Jankowicz]] (Mary Poppins / Disinfo Board)
-- [[Yoel Roth]] (Twitter Trust & Safety)
-- [[Vijaya Gadde]] (Censora Legal)
-- [[Jim Baker (FBI)]] (Twitter Deputy Counsel)
-- [[Jen Easterly]] (CISA Director)
-
-### Instituciones (La Maquinaria)
-
-- [[Global Engagement Center (GEC)]] (State Dept - Origen)
-- [[CISA (Cybersecurity and Infrastructure Security Agency)]] (Censura como Infraestructura)
-- [[Election Integrity Partnership|Election Integrity Partnership (EIP)]] (Censura Electoral 2020)
-- [[Virality Project]] (Censura COVID)
-- [[Hamilton 68]] (Falso dashboard de bots rusos)
-- [[Atlantic Council DFRLab]] (Narrativa OTAN)
-
-## 3. 👤 Actores Clave
-
-### Denunciantes/Confesores
-
-- [[Chamath Palihapitiya]] - Ex-Facebook, admitió diseño adictivo
-- [[Sean Parker]] - Facebook, "hackeo de cerebros"
-- [[Yuri Bezmenov]] - Subversión ideológica soviética
-
-### Operadores
-
-- [[Steve Bannon]] - Guerra de información derecha
-- [[Robert Mercer]] - Financista de Cambridge Analytica
-- [[Dominic Cummings]] - Brexit y manipulación de datos
-
-## 4. 🎭 Ecosistema MAGA (Caso De Estudio)
-
-### Facciones Internas
-
-- [[Facciones MAGA]] - Los 4 grupos en tensión
-- [[Nacionalismo Cristiano]] - Base ideológica religiosa
-- [[Sionismo Cristiano]] - Teología pro-Israel
-
-### Gatekeepers Y Control
-
-- [[Gatekeepers Conservadores]] - Límites del discurso permitido
-- [[Derecha Controlada]] - Conservative Inc.
-- [[00_Glosario - Conceptos Fase 1#Charlie Kirk|Charlie Kirk]] - TPUSA y el incidente AIPAC
-- [[TPUSA (Turning Point USA)]] - Infraestructura juvenil
-
-### Figuras Clave
-
-- [[Peter Thiel]] - El arquitecto tech
-- [[J.D. Vance]] - VP colocado por Thiel
-- [[Robert Mercer]] + [[Rebekah Mercer]] - Financistas
-
-### Conexiones Controvertidas
-
-- [[Trump y Epstein (Cronología)]] - Relación documentada
-- [[Archivos Epstein (2026)|Archivos Epstein (2024)]] - Liberación con redacciones
-- [[Honey Pot (Operación)]] - Mecanismo de control
-
-## 5. 💰 Follow the Money
-
-### Financiamiento Político
-
-- [[AIPAC]] - Lobby pro-Israel
-- [[Dinero Oscuro (Dark Money)]] - Financiamiento oculto
-- [[Koch Network]]
-- [[Open Society Foundations]]
-
-## 6. 🛠️ Herramientas Digitales
-
-### Plataformas
-
-- [[00_Glosario - Conceptos Fase 1#Facebook (Orígenes)|Facebook (Orígenes)]] - Diseño para adicción
-- [[Rumble]] - ¿Alternativa real o controlada?
-
-### Herramientas De Control Cognitivo (TL V.3)
-
-- [[Cognitive Warfare]] — La conquista del espacio mental
-- [[Manufacture of Consent 2.0]] — El algoritmo de la verdad
-- [[Dead Internet Theory]] — El desierto de lo sintético
-- [[Predictive Programming]] — El guion de la realidad ficticia
-- [[Algorithmic Governance]] — El gobierno de la caja negra
-- [[Social Credit West]] — El puntaje de la virtud occidental
-- [[Disinformation Governance Board]] — El Ministerio de la Verdad digital
-- [[Nudge Theory]] — El empujoncito hacia la servidumbre
-- [[Reality Privilege]] — El nuevo apartheid entre lo físico y lo virtual
-- [[Urbit 2026]] — El refugio o panóptico del Tier B tech
-
-### Técnicas Clásicas
-
-- [[Capitalismo de Vigilancia]]
-- [[Sesgo Algoritmico]]
-- [[Gamificacion]]
-
-## 7. 🛡️ Defensa Y Resistencia
-
-### Reconocer Tácticas
-
-- Si estás más enojado con tu vecino que con el sistema, fuiste operado
-- Si todos los medios dicen lo mismo al mismo tiempo, es coordinación
-- Si no puedes nombrar ciertos temas sin ser etiquetado, hay un tabú protegido
-
-### Acciones
+## Defensa y Resistencia
 
 - [[Desobediencia Fiscal]]
 - [[No Comply (Movimiento)]]
 - [[Homeschooling (Éxodo Educativo)]]
 
-> [!TIP] Regla de Oro
-> "No estoy paranoico; soy metódicamente observador de cómo las élites usan PsyOps para dividir a la gente por cualquier cosa menos por clase."
+## Nodos Relacionados
 
----
-
-## Generación Automática (Dataview)
-
-## 🔍 NODOS DETECTADOS (AUDITORIA 2026)
-
-- [[Walter Lippmann]]
-- [[Tecnicas de Control Mental]]
-- [[Teoria del Internet Muerto (Dead Internet Theory)_LEGACY]]
-- [[Cine y Programacion Predictiva]]
-- [[Guerra Cognitiva]]
-- [[Behavioral Sponging]]
-- [[Disonancia Cognitiva]]
-- [[Behavioral Insights Team]]
-- [[Nudge Theory 2.0]]
-- [[Memetica]]
-- [[Noam Chomsky]]
-- [[Operacion Mockingbird]]
-- [[Overton Window]]
-- [[Programacion Predictiva]]
-- [[Logia P2 (Propaganda Due)_LEGACY]]
-- [[Programacion Predictiva en el Cine]]
+- [[00_MOC - Operaciones Encubiertas]]
+- [[00_MOC - Fricciones de la Matrix]]
+- [[00_MOC - Tecnologia de Control]]

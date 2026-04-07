@@ -2,9 +2,10 @@
 titulo: Tráfico De Órganos — El Mercado Rojo De La Biopolítica
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [adrenocromo, trfico, rganos]
-tier-primario: "a"
-nivel-evidencia: "alto"
+tier_primario: "a"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -50,9 +51,3 @@ publish: true
 ## Cui Bono
 
 **La Élite Gerontocrática**. El mercado rojo asegura que el dinero de Tier A no solo compre poder, sino tiempo biológico robado.
-
----
-
-**Versión:** 2.0 (Deepened)
-**Enfoque:** Predación biológica, hubs industriales de trasplantes y longevidad de élites.
-**Estado:** 2026-02-25 | Informe Activo

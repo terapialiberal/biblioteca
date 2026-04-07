@@ -2,8 +2,9 @@
 publish: true
 titulo: Steve Witkoff
 tipo: "persona"
-tier-primario: 'b'
-nivel-evidencia: 'alto'
+tier_primario: 'b'
+nivel_evidencia: 'alto'
+estado: activo
 tags: [trump, negociador, iran, activos-reales]
 ---
 
@@ -26,7 +27,3 @@ Witkoff no es un diplomático de carrera (Tier C), sino un ejecutor de capital (
 ## 💰 Cui Bono
 
 Captura de valor en activos reales y contratos de infraestructura en el Rimland post-conflicto.
-
----
-
-_TL V.3 | 2026-03-04_

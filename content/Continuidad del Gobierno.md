@@ -2,8 +2,9 @@
 titulo: Continuity of Government (COG)
 tipo: "concepto"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [continuidad, dick, gobierno, naciones]
 publish: true
 ---

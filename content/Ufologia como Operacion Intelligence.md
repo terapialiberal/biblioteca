@@ -2,9 +2,10 @@
 titulo: Ufología Como Operación Intelligence
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [intelligence, operacin, ufologa]
-tier-primario: "b"
-nivel-evidencia: "alto"
+tier_primario: "b"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -16,9 +17,3 @@ publish: true
 ## Análisis Forense
 
 - ¿OVNIs o Drones de Vigilancia? La mayoría de los avistamientos son, forensemente, pruebas de prototipos de Tier A realizados sobre el campo de batalla que es la psique del Tier C. La "invasión alienígena" es la última carta de Jano para cerrar todas las puertas de soberanía nacional.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Ingeniería de la amenaza invisible y gestión de anomalías técnicas.
-**Estado:** 2026-02-25 | Informe Activo

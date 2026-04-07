@@ -2,8 +2,9 @@
 titulo: "Great Reset: El Plan De Transformación Global"
 tipo: "persona"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [cbdcs, plan, reset, transformacin]
 publish: true
 ---
@@ -40,9 +41,3 @@ publish: true
 ## Conclusión Del Análisis
 
 Great Reset es el plan de la oligarquía para capitalizar la crisis y reestructurar el sistema global bajo su control total.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Análisis de Transformación Global
-**Estado:** Informe de Inteligencia Activo

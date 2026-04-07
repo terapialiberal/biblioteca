@@ -2,8 +2,9 @@
 publish: true
 titulo: Sucesión en Irán 2026
 tipo: "concepto"
-tier-primario: 'b'
-nivel-evidencia: 'alto'
+tier_primario: 'b'
+nivel_evidencia: 'alto'
+estado: activo
 tags: [iran, sucesion, mojtaba, irgc, golpe-blando]
 ---
 
@@ -36,7 +37,3 @@ El **IRGC** captura la totalidad del presupuesto nacional de defensa y los activ
 1. **Consolidación Mojtaba (70%):** El IRGC impone la sucesión en 48hs. Irán se convierte en una dictadura militar-clerical explícita.
 2. **Caos Interno (20%):** Protestas Tier C (Teatro) financiadas desde fuera provocan una guerra civil.
 3. **Negociación "Gran Pacto" (10%):** Mojtaba acepta un rol ceremonial y el poder real pasa a una junta tecnocrática que negocia con Trump 2.0.
-
----
-
-_TL V.3 | Análisis Forense | 04-03-2026_

@@ -2,8 +2,9 @@
 titulo: "Loops De Dopamina: El Hackeo Neuroquímico Del Tier B"
 tipo: "concepto"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [capitalismo, dopamina, facebook, hackeo]
 publish: true
 ---
@@ -27,14 +28,3 @@ publish: true
 ## âš¡ Conclusión De Terapia Liberal
 
 Tu teléfono no es una herramienta; es un **electrodo neuronal** que descargás voluntariamente cada vez que scrolleás. El Tier B ha descubierto que es más barato controlar a una población mediante dopamina que mediante la fuerza. Si controlas el neurotransmisor que dicta hacia dónde mira la gente, controlas la realidad misma de esa gente.
-
----
-
-## Conexiones De La Red
-
-- **Operadores:** [[Mark Zuckerberg]], [[Chamath Palihapitiya]], [[Sean Parker]].
-- **Mecanismos:** [[Gamificación]], [[Algoritmo de Recomendación]], [[Scroll Infinito]].
-- **Consecuencias:** [[Guerra Cognitiva]], [[Déficit de Atención Colectivo]].
-- **Contexto:** [[Capitalismo de Vigilancia]], [[La Nube]].
-
-**Estado:** Refactoreado a TL V.3 - Framework de Biopolítica Digital.

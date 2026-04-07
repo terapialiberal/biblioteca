@@ -2,8 +2,9 @@
 titulo: Manipulación De Tendencias
 tipo: "concepto"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [espiral, manipulacin, tendencias, twitter]
 publish: true
 ---
@@ -29,19 +30,3 @@ publish: true
 ## âš¡ Conclusión TL
 
 Una "tendencia" en redes sociales es hoy el equivalente a un titular de diario en el siglo XX, pero con el agravante de que se presenta como la "voz del pueblo". Si algo está en el #1 de tendencias, la pregunta correcta no es "¿por qué la gente habla de esto?", sino **"¿quién quiere que yo crea que la gente habla de esto?"**.
-
----
-
-## Conexiones
-
-- [[Twitter Files]]
-- [[Espiral del Silencio]]
-- [[Operaciones Psicológicas (PsyOps)]]
-- [[Algoritmos de Control Social]]
-- [[Complejo Industrial de la Censura]]
-
-## Fuentes
-
-- Investigaciones de la Universidad de Oxford sobre "Computational Propaganda".
-- Revelaciones de Elon Musk sobre las herramientas internas de Twitter (2022-2023).
-- "Hate Inc." - Matt Taibbi (sobre la manipulación mediática).

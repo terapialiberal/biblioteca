@@ -1,8 +1,9 @@
 ---
 titulo: Solsticios Operativos
 tipo: "concepto"
-tier-primario: "a"
-nivel-evidencia: "bajo"
+tier_primario: "a"
+nivel_evidencia: "bajo"
+estado: activo
 tags: [esoterismo, ciclos, tiempo, ritual, poder]
 publish: true
 ---
@@ -34,7 +35,3 @@ El [[Tier A]] gestiona su calendario operativo siguiendo ciclos astronómicos pa
 - [[Modulo Esoterico]]: El marco de análisis.
 - [[Saturno y Deuda]]: El señor del tiempo.
 - [[El Templo de Salomon]]: La alineación arquitectónica.
-
----
-
-_TL-INTEL V.3 | Cronología de Poder_

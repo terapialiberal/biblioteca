@@ -2,9 +2,10 @@
 titulo: Moloch — Sacrificio Y Estado (La Maquina Del Futuro)
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [aborto, eduacin, estado, sacrificio]
-tier-primario: "a"
-nivel-evidencia: "alto"
+tier_primario: "a"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -48,9 +49,3 @@ publish: true
 ## Cui Bono
 
 **La Maquina Misma (El Demiurgo)**. Moloch captura la energía del futuro para que el pasado (los linajes de Tier A) nunca muera.
-
----
-
-**Versión:** 2.0 (Deepened)
-**Enfoque:** Sacrificio institucional, incentivos perversos y totalitarismo algorítmico.
-**Estado:** 2026-02-25 | Informe Activo

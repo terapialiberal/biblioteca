@@ -2,9 +2,10 @@
 titulo: Vía De La Mano Izquierda Vs Vía De La Mano Derecha
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [apotheosis, derecha, izquierda, mano]
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
 publish: true
 ---
 
@@ -36,9 +37,3 @@ El Tier A a menudo presenta una **Falsa VMI** al Tier C: la libertad de consumo,
 ## Cui Bono
 
 ¿Quién gana? El **Maestro de Ambas Manos**. El Tier A domina el espectro completo: usa la "bondad" para que el Tier C sea dócil y usa la "maldad" (transgresión) para que su propia élite sea cohesiva y poderosa.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Dialéctica de la soberanía y la sumisión.
-**Estado:** 2026-02-25 | Informe Activo

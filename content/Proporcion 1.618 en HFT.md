@@ -1,8 +1,9 @@
 ---
 titulo: Proporcion 1.618 en HFT
 tipo: "concepto"
-tier-primario: "a"
-nivel-evidencia: "medio"
+tier_primario: "a"
+nivel_evidencia: "medio"
+estado: activo
 tags: [finanzas, algoritmico, geometria-sagrada, hft]
 publish: true
 ---
@@ -33,7 +34,3 @@ En un mercado dominado por la IA total, la **Geometría Sagrada** se vuelve la s
 - [[La Proporcion Aurea]]: Base matemática.
 - [[Cantillon Effect]]: Quién recibe el beneficio de esta precisión.
 - [[Geometria Fractal en el Mercado]]: Marco general.
-
----
-
-_TL-INTEL V.3 | Finanzas Algorítmicas_

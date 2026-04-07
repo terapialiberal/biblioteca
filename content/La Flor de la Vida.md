@@ -2,9 +2,10 @@
 titulo: La Flor De La Vida
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [flor, fruta, starlink, vida]
-tier-primario: "a"
-nivel-evidencia: "alto"
+tier_primario: "a"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -36,9 +37,3 @@ publish: true
 ## Cui Bono
 
 ¿Quién gana? Los **Configuradores de la Grid**. La Flor de la Vida asegura que el control sea distribuido pero centralizado, una paradoja técnica que permite al Tier A gestionar la complejidad global con una eficiencia divina.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Redes fractales y arquitectura de la vigilancia total.
-**Estado:** 2026-02-25 | Informe Activo

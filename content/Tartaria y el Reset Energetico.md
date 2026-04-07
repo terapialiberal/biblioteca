@@ -2,9 +2,10 @@
 titulo: Tartaria Y El Reset Energético
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [energtico, estructuras, reset, tartaria]
-tier-primario: "a"
-nivel-evidencia: "bajo"
+tier_primario: "a"
+nivel_evidencia: "bajo"
 publish: true
 ---
 
@@ -36,9 +37,3 @@ publish: true
 ## Cui Bono
 
 ¿Quién gana? Los **Barones de la Energía y la Deuda**. Borrar a Tartaria permitió al Tier A esclavizar a la humanidad mediante la factura de luz y combustible, ocultando que el planeta mismo es una batería infinita de energía compartida.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Energía éterica y supresión de soberanía tecnológica.
-**Estado:** 2026-02-25 | Informe Activo

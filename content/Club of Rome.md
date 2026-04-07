@@ -2,8 +2,9 @@
 titulo: Club of Rome
 tipo: "entidad"
 fecha: 2026-02-25T00:00:00.000Z
-tier-primario: b
-nivel-evidencia: medio
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
 tags:
   - club-de-roma
   - límites-del-crecimiento

@@ -2,8 +2,9 @@
 titulo: Masacre De Tlatelolco
 tipo: "evento"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [guerra, litempo, masacre, tlatelolco]
 publish: true
 ---
@@ -29,18 +30,3 @@ publish: true
 ## âš¡ Conclusión TL
 
 Tlatelolco fue el momento en que el PRI reveló su verdadera naturaleza: una maquinaria de control que opera bajo las órdenes de la seguridad hemisférica de Tier A. Los Juegos Olímpicos de 1968 se celebraron sobre una fosa común, con el aplauso de la comunidad internacional.
-
----
-
-## Conexiones
-
-- [[CIA]] / [[LITEMPO]]
-- [[Guerra Fría en América Latina]]
-- [[Luis Echeverría]] (El operador de la sombra)
-- [[Movimiento Estudiantil de 1968]]
-
-## Fuentes
-
-- "La Noche de Tlatelolco" - Elena Poniatowska.
-- Archivos desclasificados del National Security Archive sobre la conexión LITEMPO.
-- Investigaciones de la Fiscalía Especial para Movimientos Sociales y Políticos del Pasado (FEMOSPP).

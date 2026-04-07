@@ -2,8 +2,9 @@
 titulo: "Agenda 2030: El Plan De Transformación Social Global"
 tipo: "evento"
 fecha: 2026-02-25
-tier-primario: b
-nivel-evidencia: medio
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
 tags: [agenda, detallada, transformacin]
 publish: true
 ---
@@ -40,9 +41,3 @@ publish: true
 ## Conclusión Del Análisis
 
 Agenda 2030 es el caballo de Troya de la gobernanza global, usando preocupaciones legítimas para justificar control totalitario.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Análisis de Transformación Social
-**Estado:** Informe de Inteligencia Activo

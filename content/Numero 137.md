@@ -2,9 +2,10 @@
 titulo: Número 137 (Constante De Estructura Fina)
 tipo: "persona"
 fecha: 2026-02-25
+estado: activo
 tags: [gematra, nmero, wolfgang]
-tier-primario: "a"
-nivel-evidencia: "alto"
+tier_primario: "a"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -36,9 +37,3 @@ publish: true
 ## Cui Bono
 
 ¿Quién gana? Los **Programadores del Rango Maestro**. El conocimiento del 137 otorga al Tier A una ventaja en la carrera por la computación cuántica y la manipulación de la materia a nivel atómico, los pilares de la próxima era de control.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Física fundamental y su unión con la mística del número.
-**Estado:** 2026-02-25 | Informe Activo

@@ -2,9 +2,10 @@
 titulo: Cine Ocultista (Análisis De Películas)
 tipo: "persona"
 fecha: 2026-02-25
+estado: activo
 tags: [cine, eyes, ocultista, they]
-tier-primario: "b"
-nivel-evidencia: "alto"
+tier_primario: "b"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -46,9 +47,3 @@ Ciertas películas se centran específicamente en la **Naturaleza Ilusoria de la
 ## Cui Bono
 
 ¿Quién gana? Los **Proyectores de Sombras**. El cine ocultista asegura que el Tier C tenga la verdad frente a sus ojos cada fin de semana, pero que la clasifique como "solo una película", permitiendo que el Tier A siga operando sin ser detectado como la realidad subyacente.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Decodificación de mensajes simbólicos en la cultura visual masiva.
-**Estado:** 2026-02-25 | Informe Activo

@@ -2,8 +2,9 @@
 titulo: "Fidelity: El Poder Privado En La Sombra"
 tipo: "concepto"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [bitcoin, blackrock, fidelity, poder]
 publish: true
 ---
@@ -44,9 +45,3 @@ publish: true
 ## Conclusión Del Análisis
 
 Fidelity es el **Tier A Familiar**. Demuestra que incluso en la era de las corporaciones sin rostro, hay dinastías familiares (los Johnson) que mantienen el control directo sobre el capital. Su apuesta por Bitcoin valida que la élite se está preparando para el cambio de sistema monetario.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Gestión de activos privada, adopción de cripto institucional y control familiar.
-**Estado:** Informe de Inteligencia Activo.

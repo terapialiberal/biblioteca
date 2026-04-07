@@ -2,8 +2,9 @@
 titulo: "Puerto De Chancay: El Chokepoint De China En El Pacífico Sur"
 tipo: "concepto"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [belt, pacfico, puerto, tringulo]
 publish: true
 ---
@@ -44,9 +45,3 @@ publish: true
 - [[Belt and Road Initiative (BRI)]]: El marco maestro.
 - [[Triángulo del Litio]]: Chancay es la salida física para el "oro blanco".
 - [[Corredor IMEC (India-Middle East-Europe)]]: La respuesta occidental para eludir a China.
-
----
-
-**Falsabilidad**: Si el gobierno peruano logra revertir judicialmente la autonomía de Cosco y permite la entrada de operadores estadounidenses o europeos para balancear la propiedad, Chancay perdería su rol como enclave estratégico puro de China.
-
-_Versión: 1.0 | Protocolo TL-INTEL TL V.2_

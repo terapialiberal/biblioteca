@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-25T15:45:49.523-03:00
-modified: 2026-04-02T13:19:27.925-03:00
+modified: 2026-04-07T10:51:18.179-03:00
 ---
 
 # Precision Medicine
@@ -65,6 +65,4 @@ Es la forma ms justa de medicina. Se acab el recetar a ciegas y los efectos secu
 
 #### LAGUNAS
 
-## Cmo se est utilizando la medicina de precisin para disear "protocolos de fin de vida" automatizados para el Tier C con el fin de reducir la carga de las pensiones y el sistema de salud en pases con poblaciones envejecidas?
-
-_Dossier forense TL V.3 | La SegmentaciÃ¯Â¿Â½n BiopolÃ¯Â¿Â½tica de la Salud_
+Cmo se est utilizando la medicina de precisin para disear "protocolos de fin de vida" automatizados para el Tier C con el fin de reducir la carga de las pensiones y el sistema de salud en pases con poblaciones envejecidas?

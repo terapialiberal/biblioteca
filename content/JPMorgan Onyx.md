@@ -2,8 +2,9 @@
 titulo: JPMorgan Onyx
 tipo: "entidad"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [jpmorgan, onyx, project]
 publish: true
 ---

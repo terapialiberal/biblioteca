@@ -2,9 +2,10 @@
 titulo: Celebridades Como Sigilos Vivos
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [egregores, sigilos, simbolismo, vivos]
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
 publish: true
 ---
 
@@ -36,9 +37,3 @@ publish: true
 ## Cui Bono
 
 ¿Quién gana? Los **Hacedores de Ídolos**. Las celebridades como sigilos vivos aseguran que la humanidad de Tier C nunca busque líderes reales o su propia soberanía, manteniéndolos ocupados en la adoración de "vasijas vacías" que solo contienen la agenda del sistema.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Psicología de la idolatría técnica y gestión de la energía mental.
-**Estado:** 2026-02-25 | Informe Activo

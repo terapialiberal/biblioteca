@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-25T16:12:39.110-03:00
-modified: 2026-04-02T13:22:43.942-03:00
+modified: 2026-04-07T10:53:08.761-03:00
 tags:
   - panptico
   - peer
@@ -71,7 +71,3 @@ Es la única solución honesta. En Urbit eres dueño de tu computadora de la mis
 #### LAGUNAS
 
 ¿Cuál es la relación real entre los nodos de salida (estrellas) de Urbit y la infraestructura de fibra óptica física que sigue en manos de empresas de Tier A vinculadas a la inteligencia estatal?
-
----
-
-_Dossier forense TL V.2 | La Arquitectura de la Post-Internet_

@@ -3,6 +3,7 @@ tipo: "concepto"
 titulo: "America's Secret Establishment"
 autor: Antony C. Sutton
 fecha: 1986
+estado: activo
 tags: [skull-and-bones, sutton, sociedades-secretas, educacion]
 publish: true
 ---

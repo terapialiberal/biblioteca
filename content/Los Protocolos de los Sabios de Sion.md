@@ -2,8 +2,9 @@
 titulo: "Los Protocolos De Los Sabios De Sión: El Manual De La Tiranía Tecnocrática"
 tipo: "concepto"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [bloomberg, reuters, tecnocrtica, tirana]
 publish: true
 ---
@@ -27,14 +28,3 @@ publish: true
 ## âš¡ Conclusión De Terapia Liberal
 
 No importa quién los escribió; importa que **se están cumpliendo**. Henry Ford tenía razón: "Encaja con lo que está sucediendo". Los Protocolos son la "Doctrina de Shock" original. Nos enseñan que el poder real no improvisa, sino que sigue una partitura de siglos para consolidar el control total mediante la degradación del espíritu humano y la asfixia financiera.
-
----
-
-## Conexiones De La Red
-
-- **Técnicas:** [[Ingeniería Social]], [[Manufactura de Consenso]], [[Guerra Cognitiva]].
-- **Estructuras:** [[00_Glosario - Conceptos Fase 1#Banca Central|Banca Central]], [[Complejo Industrial de la Censura]].
-- **Influencias:** [[Maquiavelo]], [[Gustave Le Bon]] (Psicología de las Masas).
-- **Resultados:** [[00_Glosario - Conceptos Fase 1#Nuevo Orden Mundial|Nuevo Orden Mundial]], [[Agenda 2030]].
-
-**Estado:** Refactoreado a TL V.3 - Análisis Praxeológico (Más allá del origen).

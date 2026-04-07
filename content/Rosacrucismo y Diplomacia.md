@@ -2,9 +2,10 @@
 titulo: Rosacrucismo Y Diplomacia Secreta
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [diplomacia, john, rosacrucismo, royal]
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
 publish: true
 ---
 
@@ -37,9 +38,3 @@ publish: true
 ## Cui Bono
 
 ¿Quién capturó el activo? La **Ciencia Experimental y el Estado Nacional**. El rosacrucismo permitió que el conocimiento técnico se separara de la teología, entregando al Tier B las herramientas para la revolución industrial y el espionaje moderno.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Redes de información y orígenes del espionaje técnico.
-**Estado:** 2026-02-25 | Informe Activo

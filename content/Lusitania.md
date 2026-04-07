@@ -2,8 +2,9 @@
 titulo: "Lusitania: El Sacrificio Necesario Para La Guerra"
 tipo: "concepto"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [edward, guerra, necesario, sacrificio]
 publish: true
 ---
@@ -27,14 +28,3 @@ publish: true
 ## âš¡ Conclusión De Terapia Liberal
 
 El Lusitania es el prototipo de la **Falsa Bandera Pasiva**: no hace falta dispararte a ti mismo, solo hace falta dejar que el enemigo te dispare cuando tienes civiles inocentes a bordo. Es la demostración de que para el Tier A, 1,200 vidas humanas son un costo aceptable para asegurar los libros contables y expandir el poder imperial.
-
----
-
-## Conexiones De La Red
-
-- **Arquitectos:** [[Winston Churchill]], [[J.P. Morgan]], [[Edward Mandel House|Edward Mandell House]].
-- **Políticos:** [[Woodrow Wilson]] (quien ganó con el eslogan "Él nos mantuvo fuera de la guerra").
-- **Táctica:** [[Falsa Bandera]], [[Propaganda de Atrocidad]].
-- **Contexto:** [[Primera Guerra Mundial]], [[00_Glosario - Conceptos Fase 1#Banca Central|Banca Central]].
-
-**Estado:** Refactoreado a TL V.3 - Framework de Ingeniería de Guerra.

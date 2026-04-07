@@ -2,8 +2,9 @@
 titulo: Fragmentación Del Discurso
 tipo: "evento"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [atomizacin, discurso, dividir, fragmentacin]
 publish: true
 ---

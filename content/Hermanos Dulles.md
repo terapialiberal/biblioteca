@@ -2,8 +2,9 @@
 titulo: Hermanos Dulles (Allen & John Foster)
 tipo: "persona"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [asesinato, dulles, hermanos, mkultra]
 publish: true
 ---

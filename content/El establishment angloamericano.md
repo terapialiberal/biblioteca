@@ -2,6 +2,7 @@
 titulo: El Establishment Angloamericano
 tipo: "concepto"
 source: "https://wikispooks.com/wiki/The_Anglo-American_Establishment"
+estado: activo
 tags: [establishment-angloamericano, quigley, geopolitica, historia]
 publish: true
 ---

@@ -2,8 +2,9 @@
 titulo: Edwin Meese
 tipo: "persona"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [edwin, meese, ronald, wedtech]
 publish: true
 ---
@@ -12,7 +13,7 @@ publish: true
 
 ## Perfil TL (Resumen Ejecutivo)
 
-**¿Quién es?** Abogado y político que sirvió como el 75Âº Fiscal General de los Estados Unidos bajo la presidencia de Ronald Reagan.
+**Quien es?** Abogado y politico que sirvio como el 75o Fiscal General de los Estados Unidos bajo la presidencia de Ronald Reagan.
 
 **¿Por qué importa?** Edwin Meese es un **operador fundamental de la "Revolución Conservadora" de Tier B y un gestor de crisis institucionales**. Su mandato estuvo marcado por el **escándalo Wedtech**, un caso de corrupción masiva vinculado a contratos de defensa, que finalmente forzó su dimisión en 1988. Meese fue el encargado de orientar la política judicial hacia la desregulación masiva y el endurecimiento de las leyes contra el crimen, construyendo la base legal para el encarcelamiento masivo en EE.UU. Su importancia reside en su capacidad para transitar entre el servicio público y los _think tanks_ de Tier A (como la **Heritage Foundation**), asegurando que la doctrina legal republicana permanezca alineada con los intereses del complejo militar-industrial y los donantes corporativos.
 

@@ -2,8 +2,9 @@
 titulo: "Operaciones Psicológicas (PsyOps) [TL V.3]: El Campo De Batalla Mental"
 tipo: "evento"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [batalla, campo, instituto, psyops]
 publish: true
 ---
@@ -41,9 +42,3 @@ publish: true
 ## Conclusión Del Análisis
 
 Vivimos dentro de una PsyOp permanente. Las Operaciones Psicológicas son exitosas cuando el sujeto cree que sus pensamientos son propios. Para el Tier A, nosotros somos "animales hackeables" (Harari dixit). La única defensa real es la **Higiene Mental**: desconectarse del flujo constante de la Matrix, dudar de cualquier emoción inducida por una pantalla y recuperar la capacidad de observación directa de la realidad física.
-
----
-
-**Versión:** 2.0
-**Enfoque:** Transición de PsyOps militares a control social doméstico, técnica de "Problema-Reacción-Solución" y el rol de las redes sociales en la fragmentación del tejido social.
-**Estado:** Refactoreado a TL V.3 - Framework de Guerra Psicológica.

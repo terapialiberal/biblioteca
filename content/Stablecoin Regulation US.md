@@ -2,8 +2,9 @@
 titulo: Stablecoin Regulation US (2026)
 tipo: "persona"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: ["2026", regulation, senadora, stablecoin]
 publish: true
 ---

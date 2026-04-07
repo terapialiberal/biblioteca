@@ -2,9 +2,10 @@
 titulo: Prometeo Y El Transhumanismo
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [anunnaki, frankenstein, prometeo, transhumanismo]
-tier-primario: "a"
-nivel-evidencia: "alto"
+tier_primario: "a"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -36,9 +37,3 @@ publish: true
 ## Cui Bono
 
 ¿Quién gana? Los **Segadores de la Dependencia**. Prometeo asegura que la humanidad abandone su fuego interno (espíritu soberano) por el fuego externo (tecnología controlada), permitiendo al Tier A gestionar la evolución humana como un producto industrial.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Biopolítica del progreso y trampa técnica de la evolución.
-**Estado:** 2026-02-25 | Informe Activo

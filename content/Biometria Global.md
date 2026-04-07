@@ -2,8 +2,9 @@
 titulo: Biometría Global
 tipo: "persona"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [biometra, cbdc, cyber, global]
 publish: true
 ---

@@ -2,8 +2,9 @@
 titulo: "Crown Agents: Los Administradores Del Imperio Invisible"
 tipo: "persona"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [agents, city, imperio, invisible]
 publish: true
 ---
@@ -45,9 +46,3 @@ publish: true
 ## Conclusión Del Análisis
 
 Crown Agents es la prueba de que **la independencia del Tercer Mundo es una ficción administrativa**. Si tu aduana y tu banco central son gestionados por una empresa de Londres, no eres un país soberano; eres una franquicia. Son los gerentes invisibles de la globalización.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Neocolonialismo administrativo, gestión de deuda y logística global.
-**Estado:** Informe de Inteligencia Activo.

@@ -2,8 +2,9 @@
 titulo: Crisis De Los Misiles De Cuba
 tipo: "evento"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [asesinato, crisis, cuba, misiles]
 publish: true
 ---

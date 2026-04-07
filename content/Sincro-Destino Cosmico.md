@@ -2,9 +2,10 @@
 titulo: Sincro-Destino Cósmico
 tipo: "persona"
 fecha: 2026-02-25
+estado: activo
 tags: [csmico, destino, sincro]
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
 publish: true
 ---
 

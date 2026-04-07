@@ -1,269 +1,178 @@
 ---
 publish: true
 created: 2026-02-24T13:31:46.461-03:00
-modified: 2026-04-02T13:11:47.568-03:00
+modified: 2026-04-07T10:47:08.236-03:00
 tags:
-  - 00-moc
-  - encubiertas
-  - manual-tl-conceptos-forenses
-  - operaciones
+  - moc
+  - operaciones-encubiertas
+  - inteligencia
+  - false-flag
+  - tl-intel-v3
 ---
 
-# Operaciones Encubiertas
+# MOC - Operaciones Encubiertas
 
-> **Axioma**: Toda operación tiene un objetivo de activo real detrás. La narrativa es el envoltorio.
-> Jerarquía de evidencia obligatoria: [[Manual_TL_Conceptos_Forenses]]
+> Catálogo de false flags, psyops, golpes, asesinatos y operaciones de inteligencia.
 
-## 🏴 FALSE FLAGS CLÁSICOS (Documentados)
+## Resumen
 
-### Siglo XX
+- Toda operación tiene un activo real detrás.
+- El objetivo no es coleccionar rarezas, sino detectar patrones repetibles.
+- Las operaciones encubiertas deben leerse junto con finanzas, narrativa y geopolítica.
 
-- [[Operacion Northwoods]] — Plan desclasificado de ataque propio para invadir Cuba (1962)
-- [[Golfo de Tonkin]] — Incidente fabricado para escalar Vietnam
-- [[Hundimiento del Lusitania]] — Casus belli WWI
-- [[USS Maine]] — Casus belli Guerra Hispano-Americana
-- [[Hundimiento del Titanic]] — Hipótesis alternativa (seguro/FED)
-- [[Incendio del Reichstag]] — Manual del false flag moderno
-- [[Pearl Harbor (Análisis)]] — ¿Cuánto sabía Roosevelt?
-- [[Operacion Mincemeat]] — Desinformación documentada (WWII)
+## False Flags Clásicos
 
-### Post-Guerra Fría
+- [[Operacion Northwoods]]
+- [[Golfo de Tonkin]]
+- [[Hundimiento del Lusitania]]
+- [[USS Maine]]
+- [[Incendio del Reichstag]]
+- [[Pearl Harbor (Análisis)]]
+- [[9-11]]
+- [[Edificio 7 (WTC)]]
+- [[Atentado WTC 1993]]
+- [[7-7 London Bombings]]
+- [[Atentado de Oklahoma City (1995)]]
 
-- [[9-11]] — El evento fundacional del siglo XXI
-- [[Edificio 7 (WTC)]] — La anomalía no explicada
-- [[Dancing Israelis (9-11)]] — Urban Moving Systems y detonadores
-- [[Atentado WTC 1993]] — El ensayo
-- [[7-7 London Bombings]] — Atentados de Londres 2005
-- [[Atentados del 7-7 en Londres]] — Análisis expandido
-- [[Atentado de Oklahoma City (1995)]] — McVeigh y la narrativa oficial
-- [[Atentado de Boston]] — Hermanos Tsarnaev y el FBI
-- [[False Flag]] — Marco conceptual general
+## Operaciones Psicológicas
 
-## 🧠 OPERACIONES PSICOLÓGICAS (PsyOps)
+- [[Operaciones Psicológicas (PsyOps)]]
+- [[Operacion Mockingbird]]
+- [[Manufactura de Consenso]]
+- [[Edward Bernays]]
+- [[Ley Smith-Mundt Modernizada]]
+- [[JTRIG]]
+- [[Brigada 77 (Modernizada)]]
+- [[Astroturfing]]
+- [[Framing (Encuadre)]]
+- [[Limited Hangout (Revelación Limitada)]]
+- [[Problema-Reaccion-Solucion]]
 
-### Doctrina Y Marco
+## Inteligencia y Deep State
 
-- [[Operaciones Psicológicas (PsyOps)]] — Marco general
-- [[Operacion Mockingbird]] — Control de medios por CIA
-- [[Manufactura de Consenso]] — Chomsky / Bernays
-- [[Edward Bernays]] — El padre de la propaganda moderna
-- [[Ley Smith-Mundt Modernizada]] — PsyOps legales en EEUU desde 2012
-- [[JTRIG]] — Unidad de manipulación digital del GCHQ
-- [[Brigada 77 (Modernizada)]] — Guerra psicológica digital del ejército UK
+- [[Operacion Gladio]]
+- [[Operacion Condor]]
+- [[Operacion Paperclip]]
+- [[Operacion Phoenix]]
+- [[COINTELPRO]]
+- [[Operacion Ajax]]
+- [[Operacion Chaos]]
+- [[MKUltra]]
+- [[Club Safari]]
+- [[Air America (La aerolínea de la CIA)]]
+- [[Plausible Deniability]]
+- [[PROMIS Software]]
 
-### Técnicas
+## Red Epstein y Kompromat
 
-- [[Astroturfing]] — Movimientos falsos de base
-- [[Framing (Encuadre)]] — Cómo se construye la narrativa
-- [[00_Glosario - Conceptos Fase 1#Gaslighting (Político)|Gaslighting (Político)]] — Negación de la realidad observable
-- [[Alarmismo Coordinado]] — Crisis fabricadas para homeostasis
-- [[Normalización (Proceso)]] — Overton Window en acción
-- [[Hipernormalizacion]] — Adam Curtis / Baudrillard
-- [[Limited Hangout (Revelación Limitada)]] — La confesión controlada
-- [[Problema-Reaccion-Solucion]] — Dialéctica hegeliana aplicada
-- [[Oposicion Controlada]] — Gatekeepers y honeypots
-- [[Derecha Controlada]] — Le Cercle y conservadores manejados
+- [[Jeffrey Epstein]]
+- [[Archivos Epstein (2026)]]
+- [[Ghislaine Maxwell]]
+- [[Andrew Mountbatten-Windsor]]
+- [[Peter Mandelson]]
+- [[Honey Pot (Operación)]]
 
-## 🕸️ OPERACIONES DE INTELIGENCIA
+## Asesinatos y Golpes
 
-### CIA / Deep State
+- [[Asesinato de JFK]]
+- [[Asesinato de RFK]]
+- [[Asesinato de MLK]]
+- [[Asesinato de Malcolm X]]
+- [[Golpe de Chile 1973]]
+- [[Golpe de Ucrania 2014]]
+- [[Golpe en Iran 1953]]
+- [[Golpe en Guatemala (1954)]]
+- [[Golpe en Indonesia 1965]]
+- [[Bahia de Cochinos]]
 
-- [[Operacion Gladio]] — Red de stay-behind europea
-- [[Operacion Gladio|Operación Gladio B]] — La alianza Islam-OTAN
-- [[Operacion Condor]] — Latinoamérica como teatro de operaciones
-- [[Operacion Paperclip]] — Nazis reciclados en el aparato americano
-- [[Operacion Phoenix]] — Vietnam / programa de neutralización
-- [[COINTELPRO]] — Guerra contra la disidencia doméstica
-- [[Operacion Ajax]] — Golpe en Irán 1953
-- [[Operacion Chaos]] — Infiltración de movimientos de protesta
-- [[MKUltra]] — Programa de control mental
-- [[Operacion Sea-Spray]] — Tests biológicos en población civil
-- [[Club Safari]] — La CIA privatizada
-- [[Operation 40]] — El escuadrón de la muerte cubano
-- [[Air America (La aerolínea de la CIA)]] — Narcotráfico institucional
+## Nodos Relacionados
 
-### Mecanismos De Encubrimiento
+- [[00_MOC - Operaciones Psicologicas]]
 
-- [[Plausible Deniability]] — La doctrina de la negación plausible
-- [[Honey Pot (Operación)]] — Chantaje como herramienta de control
-- [[PROMIS Software]] — El caballo de Troya informático
-- [[Continuidad del Gobierno]] — Rex 84 y planes de emergencia
+- [[00_MOC - Kompromat y Dark Game Theory]]
 
-### La Red Epstein (Kompromat Y Fallout 2026)
+- [[00_MOC - Mercados Negros y Crimen Sistemico]]
 
-- [[Jeffrey Epstein]] — El administrador del kompromat TL V.3
-- [[Archivos Epstein (2026)]] — El vertido de 3.5M de páginas
-- [[Andrew Mountbatten-Windsor]] — El arresto de la corona británica
-- [[Peter Mandelson]] — El arresto del 'Lord de las Tinieblas'
-- [[Ghislaine Maxwell]] — La técnica operativa
-- [[Archivos Epstein (2026)|Archivos Epstein (2024)]] — Antecedente de transparencia coreografiada
-
-## 🔫 ASESINATOS POLÍTICOS
-
-- [[Asesinato de JFK]] — El caso fundacional
-- [[Asesinato de RFK]] — Sirhan y la hipnosis
-- [[Asesinato de MLK]] — James Earl Ray y el juicio civil
-- [[Asesinato de Malcolm X]] — La NOI y el FBI
-- [[Asesinato de Aldo Moro]] — Gladio y las Brigadas Rojas
-- [[Asesinato de Carrero Blanco]] — ETA y la CIA
-- [[Asesinato de Michael Hastings]] — El periodista del coche
-- [[Asesinato de Dag Hammarskjöld]] — El secretario general incómodo
-- [[Asesinato de Patrice Lumumba]] — Congo y el uranio
-- [[Asesinato de Rabin]] — Yigal Amir y el proceso de paz
-- [[Danny Casolaro]] — El periodista de The Octopus
-- [[Gary Webb]] — Dark Alliance y el Cartel de los Contras
-- [[John McAfee]] — Muerte en prisión española
-
-## 🎭 GOLPES DE ESTADO
-
-- [[Golpe de Chile 1973]] — Pinochet, Kissinger y la ITT
-- [[Golpe de Ucrania 2014]] — Maidan, NED y Victoria Nuland
-- [[Golpe en Iran 1953]] — Mossadegh y el petróleo
-- [[Golpe en Guatemala (1954)]] — UFCO y Allen Dulles
-- [[Golpe en Indonesia 1965]] — El millón de muertos del PKI
-- [[Golpe en Egipto 2013]] — El Sisi y los Hermanos Musulmanes
-- [[Golpes en el Sahel]] — La humillación francesa en África
-- [[Bahia de Cochinos]] — El fracaso más documentado de la CIA
-- [[Primaveras Arabes]] — NED y revolución de color regional
-
-## 📺 MANIPULACIÓN MEDIÁTICA
-
-- [[Cambridge Analytica]] — Big Data y microtargeting electoral
-- [[NewsGuard]] — La "verificación" como censura
-- [[Hamilton 68]] — El cazador de desinformación desacreditado
-- [[Bellingcat]] — OSINT al servicio de la narrativa Atlantista
-- [[Global Engagement Center (GEC)]] — La fábrica de propaganda estatal
-- [[Virality Project]] — Censura de redes coordinada
-- [[Eleccion de Trump 2016]] — Russiagate como PsyOp
-- [[Twitter Files]] — Lo que Musk publicó
-
-## 🔗 NODOS RELACIONADOS
-
-- [[Estado profundo]] — El aparato que ejecuta estas operaciones
-- [[Deep State (Glosario)]] — Marco conceptual
-- [[Playbooks del Deep State]] — Los patrones repetibles
-- [[Estrategia de la Tension|Estrategia de Tensión]] — La doctrina Gladio
-- [[Lawfare]] — La judicialización como arma
-
-## 📊 NODOS AUTOMÁTICOS (Dataview)
+- [[00_MOC - Cronologico]]
 
 - [[05_Fuentes/¿Cuál era la verdadera relación entre Jeffrey Epstein y Bill Gates.md|¿Cuál era la verdadera relación entre Jeffrey Epstein y Bill Gates]]
+
+- [[02_Produccion/Videos/2026-04-07-STREAM/00_CONTROL_TEMA.md|00_CONTROL_TEMA]]
+
+- [[00_MOC - Operaciones Encubiertas.md|00_MOC - Operaciones Encubiertas]]
+
 - [[AFI.md|AFI]]
+
 - [[Agencia de inteligencia.md|Agencia de inteligencia]]
+
+- [[Carbine.md|Carbine]]
+
 - [[Chiche Gelblung.md|Chiche Gelblung]]
+
+- [[CIA.md|CIA]]
+
 - [[Club Safari.md|Club Safari]]
+
 - [[Complejo Industrial de la Censura.md|Complejo Industrial de la Censura]]
+
 - [[05_Fuentes/Deep History and the Global Drug Connection Part 5 CIA In Latin America.md|Deep History and the Global Drug Connection Part 5 CIA In Latin America]]
+
 - [[Documento El pulpo.md|Documento El pulpo]]
+
 - [[05_Fuentes/Exclusiva ¿Quién es el Profesor Jiang ¿Para quién trabaja.md|Exclusiva ¿Quién es el Profesor Jiang ¿Para quién trabaja]]
+
 - [[Feminismo e Inteligencia.md|Feminismo e Inteligencia]]
+
 - [[Fuentes y Marcadores.md|Fuentes y Marcadores]]
+
 - [[Gobernanza Algoritmica.md|Gobernanza Algoritmica]]
+
 - [[Hermes - Trimegisto - Inteligencia y Señales.md|Hermes - Trimegisto - Inteligencia y Señales]]
+
 - [[Honeypot.md|Honeypot]]
+
+- [[In-Q-Tel.md|In-Q-Tel]]
+
+- [[Jaime Stiuso.md|Jaime Stiuso]]
+
 - [[05_Fuentes/Jeff Epstein, las Hermanas Maxwell y la Base de Datos Antiterrorista del FBI.md|Jeff Epstein, las Hermanas Maxwell y la Base de Datos Antiterrorista del FBI]]
+
+- [[Jeffrey Epstein.md|Jeffrey Epstein]]
+
 - [[05_Fuentes/Jeffrey Epstein El hombre que conectó a la élite mundial con el oscuro mundo de la inteligencia.md|Jeffrey Epstein El hombre que conectó a la élite mundial con el oscuro mundo de la inteligencia]]
+
+- [[John Poindexter.md|John Poindexter]]
+
 - [[Jonathan Pollard.md|Jonathan Pollard]]
+
 - [[05_Fuentes/La arquitectura ritual El modus operandi de Epstein.md|La arquitectura ritual El modus operandi de Epstein]]
-- [[LA CIA CONSTRUYO CIENTOS DE SITIOS WEB ENCUBIERTOS.md|LA CIA CONSTRUYO CIENTOS DE SITIOS WEB ENCUBIERTOS]]
+
 - [[05_Fuentes/La estrecha y profunda colaboración entre la industria tecnológica de EE.UU. y las agencias de inteligencia.md|La estrecha y profunda colaboración entre la industria tecnológica de EE.UU. y las agencias de inteligencia]]
+
 - [[05_Fuentes/Las capacidades secretas de Palantir, según exoficial de la CIA.md|Las capacidades secretas de Palantir, según exoficial de la CIA]]
+
 - [[Le Cercle - Wikispooks.md|Le Cercle - Wikispooks]]
+
 - [[Lucero del Alba y Espionaje.md|Lucero del Alba y Espionaje]]
+
 - [[Mario Firmenich.md|Mario Firmenich]]
+
+- [[Michael Flynn.md|Michael Flynn]]
+
 - [[Netanyahu prevee el 9-11.md|Netanyahu prevee el 9-11]]
+
+- [[02_Produccion/Videos/2026-04-07-STREAM/NOTA_TESIS_NWO_Energetico_Blueprint.md|NOTA_TESIS_NWO_Energetico_Blueprint]]
+
 - [[06_Videos_Publicados/2026/2026-03-17 IRAN_STREAM/NotaTesis_Chabad_RedCoordenacion_v1.md|NotaTesis_Chabad_RedCoordenacion_v1]]
-- [[Patron - Deepfake.md|Patron - Deepfake]]
+
+- [[Palantir.md|Palantir]]
+
 - [[Patron - Need to Know (Necesidad de Saber).md|Patron - Need to Know (Necesidad de Saber)]]
-- [[Patron - Virtue Signalling (Señalizacion de Virtudes).md|Patron - Virtue Signalling (Señalizacion de Virtudes)]]
+
+- [[Plausible Deniability.md|Plausible Deniability]]
+
 - [[05_Fuentes/Red Epstein-Maxwell (Trampa de Inteligencia).md|Red Epstein-Maxwell (Trampa de Inteligencia)]]
+
 - [[Tier B.md|Tier B]]
+
 - [[Triple Frontera (Inteligencia).md|Triple Frontera (Inteligencia)]]
-
----
-
-_MOC creado: 2026-02-24 | Parte del [[INDEX_MAESTRO]]_
-
-## 🔍 NODOS DETECTADOS (AUDITORIA 2026)
-
-- [[Sindrome de Estocolmo Social]]
-- [[Asesinato de Diem]]
-- [[Agencia de inteligencia]]
-- [[Creacion de la CIA]]
-- [[Asesinato de Dag Hammarskjöld]]
-- [[Atomizacion Social]]
-- [[Conferencia de Bandung]]
-- [[Asesinato de Rafik Hariri]]
-- [[Asesinato de Soleimani]]
-- [[Atentado de Beirut 1983]]
-- [[Credito Social]]
-- [[Balenciaga Gate]]
-- [[Policia de la Ciudad]]
-- [[Club Safari (La CIA privatizada)_LEGACY]]
-- [[Asesinato de Jamal Khashoggi]]
-- [[CIA Narcotrafico]]
-- [[Conciencia de Clase]]
-- [[Autopsia de Profecia]]
-- [[Manipulacion de Tendencias]]
-- [[Asociacion Medica Americana]]
-- [[Transferencia Tecnologica a la URSS]]
-- [[Triple Frontera (Inteligencia)]]
-- [[Computacion Espacial]]
-- [[Asesinato de McKinley]]
-- [[Conferencia de Yalta]]
-- [[Profecia Autocumplida]]
-- [[Credito Social Chino]]
-- [[Atentado de Oklahoma City]]
-- [[Asesinato de Lincoln]]
-- [[Atentados del 7-7 en Londres_LEGACY]]
-- [[Sistemas de Credito Social]]
-- [[Gladio 3.0]]
-- [[El Atentado a CFK]]
-- [[Feminismo e Inteligencia]]
-- [[Iniciativa de Integridad]]
-- [[Bridgewater Associates]]
-- [[Glaciares]]
-- [[Associated Press]]
-- [[Gladio B]]
-- [[Gladio]]
-- [[Transferencia Tecnologica a China]]
-- [[Patocracia]]
-- [[Operacion Ajax]]
-- [[Operacion Gladio]]
-- [[Operacion Northwoods]]
-- [[Le Cercle (Inteligencia Europea Derecha)]]
-- [[Operacion Paperclip]]
-- [[Nobleza Negra Veneciana]]
-- [[Operacion Phoenix]]
-- [[Ojo de la Providencia]]
-- [[Monopolio de la Violencia]]
-- [[Obsolescencia Programada]]
-- [[Operacion Chaos]]
-- [[Preferencia Temporal]]
-- [[Silenciamiento de la Mayoria]]
-- [[Renuncia de Guzman]]
-- [[Netanyahu prevee el 9-11]]
-- [[Palantir CIA]]
-- [[La CIA y Hollywood]]
-- [[General Richardson resalta el vasto potencial de S]]
-- [[JD Vance Trump anuncia un Nuevo Orden Mundial]]
-- [[Mega Grupo Mossad Epstein]]
-- [[Propuesta Isla Artificial Gaza]]
-- [[LA CIA CONSTRUYO CIENTOS DE SITIOS WEB ENCUBIERTOS]]
-- [[THE EVIL SATANIC ATLANTIS-PHOENICIAN ENLIGHTENMENT]]
-- [[Microsoft Stargate]]
-- [[Project Stargate]]
-- [[Iniciacion de Muerte en Vida]]
-- [[Satanismo y la Inversion Social]]
-- [[Asonancia Fonetica en Hechizos]]
-- [[Hermes - Trimegisto - Inteligencia y Señales]]
-- [[Venecia - La Serenisima y el Diseño del Poder]]
-- [[Credito Social (Karma Digital)]]
-- [[Operacion Stargate]]
-- [[Isis - Magia y Seduccion Social]]
-- [[El Quintaesencia]]
-- [[Iniciacion Traumatica]]
-- [[Gigantes y Arqueologia Oficial]]
-- [[Mk-Ultra y Fragmentacion]]
-- [[Vida Artificial]]
-- [[Carteles - La Ilusion de la Competencia]]

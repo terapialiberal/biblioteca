@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:05.346-03:00
-modified: 2026-04-02T13:08:52.454-03:00
+modified: 2026-04-07T10:47:33.658-03:00
 ---
 
 # Bill Gates
@@ -65,6 +65,4 @@ Gates es un visionario genuinamente preocupado por el cambio climtico. TerraPowe
 
 #### LAGUNAS
 
-## Cul es la relacin real entre los asesores de seguridad nacional de Gates y la reapertura de Three Mile Island por parte de Microsoft?
-
-_VersiÃ¯Â¿Â½n: 1.0 (TL V.3) | Dossier de Actor Tier A_
+Cul es la relacin real entre los asesores de seguridad nacional de Gates y la reapertura de Three Mile Island por parte de Microsoft?

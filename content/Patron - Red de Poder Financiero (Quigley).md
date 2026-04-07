@@ -1,29 +1,38 @@
 ---
 publish: true
 created: 2026-02-28T15:13:16.261-03:00
-modified: 2026-04-02T12:56:00.699-03:00
+modified: 2026-04-07T11:47:31.735-03:00
 tags:
   - patrones
+  - poder-financiero
+  - quigley
+  - atlanticismo
   - tl-v3
 ---
 
-## ðŸ”Ž AXIOMA ASOCIADO: A-IdeologÃ­a Tier A / Atlantismo
+# [[Patrón - Red de Poder Financiero (Quigley)]]
 
-La Ã©lite financiera (Tier A) prefiere mantener la fricciÃ³n polÃ­tica artificial (Izquierda/Derecha, Republicanos/DemÃ³cratas) para mantener al pÃºblico polarizado mientras capturan los activos a travÃ©s del control del Banco Central, la polÃ­tica fiscal, fundaciones exentas de impuestos y Think Tanks bipartidistas (Tier B).
+## Axioma asociado
 
-### âœ… SeÃ±ales y AplicaciÃ³n TL V.3
+Las elites financieras prefieren mantener polarización política superficial mientras capturan el poder real a través de banca central, deuda, fundaciones, think tanks y puerta giratoria.
 
-- **Intercambiabilidad de Gabinetes**: Observar cÃ³mo los "alumnos" egresados de Goldman Sachs, BlackRock o JP Morgan ocupan simultÃ¡neamente asientos en el Tesoro o ministerios de EconomÃ­a sin importar si el gobierno de turno es demÃ³crata, republicano, peronista o libertario.
-- **CreaciÃ³n de Think Tanks de Elite (El Rhodes-Milner Group)**: La creaciÃ³n histÃ³rica de la _Mesa Redonda_, mutada hoy en el _CFR_, _Chatham House_, y _Trilateral Commission_ para producir la narrativa acadÃ©mica y las polÃ­ticas de Estado.
-- **Financiamiento Bidireccional**: Detectar al Tier A inyectando dinero sistemÃ¡ticamente en ambos lados de un conflicto o campaÃ±a polÃ­tica, garantizando su retorno (y lealtad) independientemente de quiÃ©n sea el ganador electoral.
+## Señales y aplicación TL
 
-### âš ï¸ Falsabilidad
+- intercambiabilidad de gabinetes entre bancos, fondos y Estado
+- persistencia de think tanks bipartidarios o transpartidarios
+- financiamiento simultáneo de polos políticos opuestos
 
-Este patrÃ³n de dominio supra-estatal se desarma si:
+## Falsabilidad
 
-1. Una disrupciÃ³n del sistema de moneda (_fiat_) rompe el monopolio de la banca central y la reserva fraccionaria, imposibilitando la deuda soberana como activo seguro del Tier A.
-2. Leyes reales anti-puerta giratoria prohÃ­ben por vida a los ejecutivos de corporaciones sistÃ©micas (Larry Fink, Jamie Dimon) tener influencia, cargos o reuniones cerradas con el Tesoro y Bancos Centrales.
+El patrón se debilita si colapsa la capacidad del sistema financiero para reciclar deuda soberana y si se corta de forma real la puerta giratoria entre corporaciones sistémicas y aparato estatal.
 
----
+## Conexiones
 
-_VersiÃ³n: TL V.3 | Nodo Central: [[00_MOC - Patrones Clasicos de Poder]]_
+- [[Banca Central]]
+- [[CFR]]
+- [[Chatham House]]
+- [[Puerta Giratoria (Concepto)]]
+
+## Observación operativa
+
+La utilidad del patrón está en mirar menos el discurso partidario y más la continuidad de nombres, instituciones y circuitos financieros detrás del teatro político.

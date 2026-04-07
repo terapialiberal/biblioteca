@@ -2,9 +2,10 @@
 titulo: Hollywood Y El Ocultismo De Élite
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [hollywood, programacin, walt, lite]
-tier-primario: "b"
-nivel-evidencia: "alto"
+tier_primario: "b"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -36,9 +37,3 @@ publish: true
 ## Cui Bono
 
 ¿Quién gana? Los **Directores de la Matrix**. Hollywood asegura que el Tier C viva en una versión guionizada de la realidad, donde la verdad solo puede ser aceptada si se presenta como "ficción", permitiendo al Tier A operar a plena luz mientras todos creen que es "solo una película".
-
----
-
-**Versión:** 1.0
-**Enfoque:** Cine como herramienta de hipnosis masiva y control social.
-**Estado:** 2026-02-25 | Informe Activo

@@ -2,9 +2,10 @@
 titulo: Dioniso Y La Ingeniería De La Catarsis
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [catarsis, dioniso, ingeniera]
-tier-primario: "b"
-nivel-evidencia: "alto"
+tier_primario: "b"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -22,9 +23,3 @@ publish: true
 ### 2. Dioniso Y El Narcotráfico
 
 - El flujo de sustancias que alteran la conciencia en el Tier C es la aplicación técnica del culto a Dioniso por parte del Tier B para mantener a la población en un estado de pasividad extática o fragmentación mental.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Gestión de la masa mediante el descontrol programado.
-**Estado:** 2026-02-25 | Informe Activo

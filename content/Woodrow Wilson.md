@@ -2,8 +2,9 @@
 titulo: Woodrow Wilson
 tipo: "persona"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [colonel, reserva, wilson, woodrow]
 publish: true
 ---
@@ -14,7 +15,7 @@ publish: true
 
 ## Resumen Ejecutivo
 
-**¿Quién es?** 28Âº Presidente de EEUU. Académico e historiador.
+**¿Quién es?** 28o Presidente de EEUU. Académico e historiador.
 
 **¿Por qué importa?** El presidente más desastroso para la libertad en la historia de EEUU. En **1913**, firmó dos leyes fatales: la **Reserva Federal Act** (entregando la moneda a banqueros privados) y el **Impuesto sobre la Renta** (IRS). Metió a EEUU en la WWI rompiendo su promesa de campaña ("He kept us out of war"). Segregó racialmente el gobierno federal. Al final de su vida, admitió: _"Soy un hombre muy infeliz. Sin quererlo, he arruinado a mi país"_.
 

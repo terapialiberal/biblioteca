@@ -2,8 +2,9 @@
 titulo: Associated Press
 tipo: "persona"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [associated, press, reuters]
 publish: true
 ---
@@ -26,7 +27,7 @@ Cuando AP reporta algo, se vuelve "verdad" para los medios.
 
 Controlar AP = controlar la narrativa inicial.
 
-## Âš ï¸ Críticas
+## Criticas
 
 - Coberturas sesgadas en conflictos (Israel-Palestina, Ucrania)
 - Poca transparencia sobre sourcing

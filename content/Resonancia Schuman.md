@@ -1,8 +1,9 @@
 ---
 titulo: Resonancia Schuman
 tipo: "concepto"
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [ciencia, bio-resonancia, tierra, consciencia]
 publish: true
 ---
@@ -31,7 +32,3 @@ La **Bio-resonancia** es el nuevo campo de batalla de la soberanía:
 - [[Protocolo 5G y Bio-resonancia]]: La interferencia local.
 - [[HAARP]]: La interferencia global.
 - [[Cuerpos de Luz vs Datos]]: El conflicto existencial.
-
----
-
-_TL-INTEL V.3 | Bio-Geopolítica_

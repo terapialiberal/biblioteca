@@ -2,8 +2,9 @@
 titulo: "Lev Leviev (v1.0): El Oligarca De Los Diamantes Y La Red De Putin"
 tipo: "persona"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [berel, diamantes, oligarca, putin]
 publish: true
 ---
@@ -36,7 +37,7 @@ publish: true
 2. **Financiamiento de la Infraestructura Chabad**: La construccin de una red de lealtades jasdicas en cada rincn del mundo que responde a sus intereses econmicos y a la agenda del Kremlin.
 3. **Uso de Bienes Races como "Lock-in" Poltico**: La inversin en propiedades icnicas en Nueva York y Londres para ganar respetabilidad y acceso a las lites que luego ejecutan su agenda diplomtica.
 
-## Conexiones Crticas
+## Conexiones Críticas
 
 - [[Vladimir Putin]]: Su protector y socio en la sombra.
 - [[Berel Lazar]]: Su rabino y coordinador poltico en Rusia.
@@ -47,9 +48,3 @@ publish: true
 ## Conclusin Del Anlisis
 
 Lev Leviev es el **"Garante Financiero del Eje Mosc-Jerusalem"**. Su importancia reside en haber demostrado que en el Tier A, el dinero no tiene color pero s tiene una misin teopoltica. No es un joyero; es un **arquitecto de la ocupacin y el reciclaje de capitales**. Entender a Leviev es comprender cmo los diamantes del frica profunda financian la construccin de asentamientos en Palestina y la compra de rascacielos en el corazn de la poltica estadounidense. Para el Tier C, es el "Rey de los Diamantes"; para el Tier A, es el **operador que asegura que los recursos de la tierra sigan fluyendo hacia la red de los elegidos**, blindados por la fe y el acero del Kremlin.
-
----
-
-**Versi�n:** 1.0
-**Enfoque:** Ruptura del monopolio de diamantes, relaci�n con Putin, subsidio de Chabad, deal inmobiliario con Kushner y financiamiento de asentamientos en Israel.
-**Estado:** Creaci�n Iniciada tras Triaje OSINT.

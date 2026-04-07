@@ -1,44 +1,30 @@
 ---
 publish: true
-titulo: Al Jazeera
-tipo: "entidad"
-fecha: 2026-02-25
-tier-primario: b
-nivel-evidencia: medio
-tags: [hermanos, jazeera]
+created: 2026-01-29T19:17:03.109-03:00
+modified: 2026-04-07T12:43:57.961-03:00
+tags:
+  - al-jazeera
+  - qatar
+  - medios
+  - soft-power
+  - tl-intel-v3
 ---
 
-# Al Jazeera
+# [[Al Jazeera]]
 
-> [!ABSTRACT] Ficha Técnica
-> **Narrativa Official:** Red de noticias independiente del mundo árabe.
-> **Función Real:** Soft power de Qatar. Instrumento geopolítico del emirato.
+> [!abstract] PERFIL TL-INTEL
+> Medio de alcance global leído en TL como instrumento de soft power del Estado qatarí.
 
-## Historia
+## Contexto
 
-Fundada por el Emir de Qatar. Financiada por el Estado qatarí.
-
-Revolucionó medios árabes al cubrir temas tabú.
-
-## Rol
-
-- Soft power de Qatar
-- Voz para movimientos islamistas (Hermanos Musulmanes)
-- Cobertura crítica de rivales de Qatar (Saudíes, UAE)
-
-## Âš ï¸ Sesgos
-
-Al Jazeera Arabic y Al Jazeera English tienen líneas editoriales diferentes.
-
-Nunca critica seriamente a Qatar.
+Al Jazeera importa por su capacidad de proyectar narrativa, legitimidad y agenda regional bajo apariencia de independencia editorial.
 
 ## Conexiones
 
-- Estado de Qatar
+- [[Qatar]]
 - [[Hermanos Musulmanes]]
-- Geopolítica del Golfo
+- [[Geopolítica del Golfo]]
 
-## Fuentes
+## Observación operativa
 
-- Análisis de medios
-- Geopolítica del Golfo
+Su valor analítico está en mirar a quién critica, a quién protege y cómo distribuye el foco geopolítico.

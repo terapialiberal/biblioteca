@@ -1,8 +1,9 @@
 ---
 titulo: Lógica Borrosa y Gnosis
 tipo: "concepto"
-tier-primario: "a"
-nivel-evidencia: "medio"
+tier_primario: "a"
+nivel_evidencia: "medio"
+estado: activo
 tags: [matematica, gnosticismo, ia, incertidumbre, control]
 publish: true
 ---
@@ -31,7 +32,3 @@ Es la reintegración de la intuición (Gnosis) en el cálculo (Matemática):
 - [[Teoria de Juegos]]: El marco estratégico.
 - [[Disonancia Cognitiva (Isis)]]: Qué ocurre cuando se aplica lógica borrosa a un cerebro binario.
 - [[Transfinitud de Cantor]]: Los infinitos niveles de verdad.
-
----
-
-_TL-INTEL V.3 | Epistemología de Poder_

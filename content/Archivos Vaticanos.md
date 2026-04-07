@@ -2,9 +2,10 @@
 titulo: Archivos Vaticanos (El Búnker De La Historia)
 tipo: "entidad"
 fecha: 2026-02-25
+estado: activo
 tags: [archivos, dones, lnea, vaticanos]
-tier-primario: "a"
-nivel-evidencia: "total"
+tier_primario: "a"
+nivel_evidencia: "total"
 publish: true
 ---
 
@@ -36,9 +37,3 @@ publish: true
 ## Cui Bono
 
 ¿Quién gana? Los **Herederos de la Verdad Distorsionada**. Los Archivos Vaticanos aseguran que el Tier A siempre tenga la ventaja de la "memoria larga" frente a la "memoria corta" y fragmentada del Tier C, permitiéndoles orquestar ciclos de mil años con total impunidad.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Custodia de la información sistémica y legitimación de linajes.
-**Estado:** 2026-02-25 | Informe Activo

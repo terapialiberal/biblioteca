@@ -2,9 +2,10 @@
 titulo: 'Bio-Identidad Digital (La "Marca")'
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [cbdcs, crdito, digital, identidad]
-tier-primario: "a"
-nivel-evidencia: "total"
+tier_primario: "a"
+nivel_evidencia: "total"
 publish: true
 ---
 
@@ -36,9 +37,3 @@ publish: true
 ## Cui Bono
 
 ¿Quién gana? El **Estado Omnisciente**. La Bio-Identidad Digital convierte al ser humano en un **Activo Contabilizado** que puede ser activado o desactivado por el Tier A con un comando centralizado.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Biopolítica y control total de la identidad individual.
-**Estado:** 2026-02-25 | Informe Activo

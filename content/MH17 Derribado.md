@@ -2,8 +2,9 @@
 titulo: MH17 Derribado
 tipo: "persona"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [bellingcat, derribado, golpe, mh17]
 publish: true
 ---
@@ -29,18 +30,3 @@ publish: true
 ## âš¡ Conclusión TL
 
 El MH17 fue el sacrificio necesario para convertir un conflicto regional en Ucrania en una **Cruzada Global contra Rusia**. Sin las 298 víctimas civiles, las sanciones económicas drásticas contra Moscú habrían sido políticamente imposibles en Europa Occidental.
-
----
-
-## Conexiones
-
-- [[Golpe de Ucrania 2014]]
-- [[Bellingcat]] (Operativo de inteligencia narrativa)
-- [[OTAN]] (Beneficiario estratégico)
-- [[Guerra de Ucrania (2022-Presente)]]
-
-## Fuentes
-
-- Informe final del Dutch Safety Board (DSB).
-- Investigaciones de Robert Parry (Consortium News) sobre las anomalías del caso.
-- Análisis de trazas de radar y comunicaciones satelitales desconsideradas.

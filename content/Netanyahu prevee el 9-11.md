@@ -2,8 +2,9 @@
 titulo: Netanyahu Prevee El 9-11
 tipo: "concepto"
 fecha: 2026-03-04
-tier-primario: "b"
-nivel-evidencia: "alto"
+tier_primario: "b"
+nivel_evidencia: "alto"
+estado: activo
 tags: [netanyahu, 9-11, terrorismo, inteligencia, presciencia]
 publish: true
 ---
@@ -30,7 +31,3 @@ Desde la óptica TL-INTEL, esto no es adivinación, sino **Planificación de Esc
 ## 📊 Falsabilidad
 
 Si se demostrara que Netanyahu no tuvo contacto con los redactores del Clean Break o con los servicios de inteligencia americanos en los meses previos a sus declaraciones de 1995/2001, la hipótesis de la "presciencia coordinada" se debilitaría.
-
----
-
-_TL V.3 | Archivo de Análisis de Eventos Catalizadores_

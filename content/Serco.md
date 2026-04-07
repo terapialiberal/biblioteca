@@ -2,8 +2,9 @@
 titulo: "Serco: El Subcontratista Del Apocalipsis"
 tipo: "concepto"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [apocalipsis, crown, serco, subcontratista]
 publish: true
 ---
@@ -43,9 +44,3 @@ publish: true
 ## Conclusión Del Análisis
 
 Serco es la **Franquicia del Leviatán**. Nos muestra un futuro donde el Estado no existe como entidad pública, sino como una serie de logotipos corporativos que gestionan tu vida desde la cuna hasta la tumba (y la cárcel entre medio) con fines de lucro.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Privatización de servicios estatales, prisiones y defensa nuclear.
-**Estado:** Informe de Inteligencia Activo.

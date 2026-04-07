@@ -2,8 +2,9 @@
 titulo: McKinsey & Company
 tipo: "concepto"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [company, crisis, mckinsey, purdue]
 publish: true
 ---
@@ -29,18 +30,3 @@ publish: true
 ## âš¡ Conclusión TL
 
 McKinsey vende "inteligencia", pero lo que realmente entrega es **impunidad institucional**. Es el oráculo al que acuden los poderosos para validar sus planes de dominación bajo una estética de gráficos de PowerPoint y eficiencia corporativa. Si hay un desastre social orquestado, probablemente hubo un consultor de McKinsey cerca cobrando una minuta millonaria.
-
----
-
-## Conexiones
-
-- [[Purdue Pharma]] / [[Crisis de los Opioides]]
-- [[WEF (World Economic Forum)]]
-- [[BlackRock]] (Socio estratégico en consultoría)
-- [[Estado Profundo (Deep State)]]
-
-## Fuentes
-
-- "When McKinsey Comes to Town" - Walt Bogdanich & Michael Forsythe (2022).
-- "The Big Con: How the Consulting Industry Weakens Our Businesses, Infantilizes Our Governments and Warps Our Economies" - Mariana Mazzucato.
-- Investigaciones del New York Times sobre el trabajo de McKinsey para los regímenes de China y Arabia Saudita.

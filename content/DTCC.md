@@ -1,8 +1,9 @@
 ---
 titulo: DTCC - Depository Trust & Clearing Corporation
 tipo: "entidad"
-tier-primario: "a"
-nivel-evidencia: "muy-alto"
+tier_primario: "a"
+nivel_evidencia: "muy-alto"
+estado: activo
 tags: [finanzas, custodia, infraestructura, tier-a]
 publish: true
 ---
@@ -40,7 +41,3 @@ La DTCC está liderando el pivot hacia la **Tokenización (RWA)**:
 - [[Cede & Co]]: El dueño legal de Wall Street.
 - [[Clearstream]]: El equivalente europeo.
 - [[The Great Taking]]: El riesgo sistémico de este modelo.
-
----
-
-_TL-INTEL V.3 | Infraestructura Financiera Forense_

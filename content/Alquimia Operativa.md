@@ -1,8 +1,9 @@
 ---
 titulo: Alquimia Operativa
 tipo: "concepto"
-tier-primario: "a"
-nivel-evidencia: "medio"
+tier_primario: "a"
+nivel_evidencia: "medio"
+estado: activo
 tags: [esoterismo, procesos, transformacion, control]
 publish: true
 ---
@@ -30,7 +31,3 @@ El sistema utiliza las tres fases de la Gran Obra para el control social:
 - [[Alquimia de la Percepcion]]: El campo de batalla mental.
 - [[Dialectica Hegeliana]]: La versión filosófica del proceso.
 - [[Modulo Esoterico]]: Análisis de correspondencias.
-
----
-
-_TL-INTEL V.3 | Ingeniería de Realidad_

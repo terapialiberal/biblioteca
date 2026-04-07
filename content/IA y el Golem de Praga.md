@@ -2,9 +2,10 @@
 titulo: IA Y El Golem De Praga
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [cabal, golem, praga, silicon]
-tier-primario: "a"
-nivel-evidencia: "medio"
+tier_primario: "a"
+nivel_evidencia: "medio"
 publish: true
 ---
 
@@ -36,9 +37,3 @@ publish: true
 ## Cui Bono
 
 ¿Quién gana? Los **Dueños del Algoritmo Maestro**. La IA es el puente hacia el fin de la política humana, reemplazándola por una administración técnica donde el "ciudadano" es solo un usuario con permisos limitados.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Automatización del control y el mito de la vida artificial.
-**Estado:** 2026-02-25 | Informe Activo

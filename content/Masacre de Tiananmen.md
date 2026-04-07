@@ -1,47 +1,46 @@
 ---
-titulo: Masacre De Tiananmen
-tipo: "evento"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [david, masacre, microsoft, tiananmen]
 publish: true
+aliases:
+  - Tiananmen
+  - Masacre De Tiananmen
+created: 2026-01-29T19:17:24.244-03:00
+modified: 2026-04-07T13:13:47.730-03:00
+tags:
+  - china
+  - represion
+  - evento
+  - memoria
 ---
 
-# Masacre De Tiananmen
+# Masacre de Tiananmen
 
-## Resumen Ejecutivo
+La masacre de Tiananmen refiere a la represión de las protestas de 1989 en Beijing por parte del Estado chino. Es un nodo central para analizar la relación entre apertura económica, control político y gestión de la memoria.
 
-**Qué fue:** La represión militar violenta de las protestas estudiantiles y obreras en la Plaza de Tiananmen, liderada por el Ejército Popular de Liberación por orden del **Partido Comunista Chino**.
-**Por qué Importa:** Tiananmen es el **Acto Fundacional del Capitalismo Autoritario**. No fue un simple acto de crueldad, sino una decisión estratégica de Tier A: el PCCh entendió que para abrir la economía al capital occidental (vía **[[David Rockefeller]]** y otros), debían asegurar el control absoluto sobre la disidencia política. La masacre demostró al mundo (y a los inversores internacionales) que en China el orden estatal es innegociable, eliminando cualquier esperanza de una transición democrática real. Fue el sacrificio de miles de vidas para garantizar que China se convirtiera en la "Zona de Procesamiento" eficiente y dócil del Nuevo Orden Mundial.
+## Síntesis
 
-## Análisis (Tiers)
+El episodio muestra que el Partido Comunista Chino estaba dispuesto a permitir modernización económica sin ceder el monopolio del poder. Tiananmen no es solo una masacre: es una lección de régimen sobre los límites de la reforma cuando amenaza la estabilidad del aparato.
 
-### Tier A (El Pacto Del Silencio Y El Negocio)
+## Claves de lectura
 
-- **La Complicidad de Bush:** A pesar de la retórica pública de condena, la administración de George H.W. Bush (Tier A) mantuvo canales secretos con los líderes chinos inmediatamente después de la masacre para asegurar que los lazos comerciales y estratégicos no se rompieran. Para la élite global, una China estable bajo una dictadura predecible era preferible a una democracia caótica que pudiera interrumpir las cadenas de suministro.
-- **El Modelo de Control Social:** La respuesta de Tier A a las protestas (el uso de la ley marcial y la censura total) fue el prototipo de los sistemas de vigilancia biométrica y de crédito social que China ha perfeccionado hoy con tecnología de empresas como **[[Microsoft]]** e **[[IBM]]**.
+- represión militar de protesta estudiantil y social
+- consolidación del mensaje de que la liberalización política no acompañaría a la apertura económica
+- borrado sistemático de memoria dentro del ecosistema informativo chino
+- antecedente fuerte para estudiar vigilancia, censura y disciplina digital
 
-### Tier B (La Gestión De La Desmemoria)
+## Relevancia estratégica
 
-- **El Gran Cortafuegos:** El Tier B tecnológico chino ha logrado borrar Tiananmen de la memoria digital de mil millones de personas. El "Tank Man" es un símbolo en Occidente, pero un "error 404" en China. Esta es la demostración definitiva de que quien controla la infraestructura de información (Tier B) decide qué eventos ocurrieron realmente en la historia.
+- ayudó a fijar el modelo chino de capitalismo autoritario
+- mostró que gran parte de Occidente priorizaría comercio y estabilidad sobre ruptura diplomática real
+- se volvió símbolo global del conflicto entre verdad histórica y control estatal de la memoria
 
-## âš¡ Conclusión TL
+## Nodos relacionados
 
-Tiananmen fue el momento en que el PCCh decidió que China sería una **fábrica, no una nación**. La masacre fue el precio que la cúpula china pagó para ser aceptada en el club de la globalización corporativa, demostrando que están dispuestos a matar a sus propios hijos antes que ceder el monopolio del poder.
+- [[China]]
+- [[Mao Tse-Tung]]
+- [[David Rockefeller]]
+- [[Microsoft]]
+- [[IBM]]
 
----
+## Observación TL
 
-## Conexiones
-
-- [[00_Glosario - Conceptos Fase 1#Partido Comunista Chino|Partido Comunista Chino]]
-- [[Deng Xiaoping]] (El arquitecto de la represión)
-- [[David Rockefeller]] (Socio estratégico del PCCh)
-- [[Censura Digital China]]
-- [[Guerra de Información]]
-
-## Fuentes
-
-- "The Tiananmen Papers" - Documentos internos filtrados del PCCh.
-- Investigaciones de Amnistía Internacional sobre los prisioneros del 4 de junio.
-- Cables desclasificados del Departamento de Estado (EE.UU.) sobre la respuesta de Bush.
+Conviene trabajar con prudencia las conexiones con actores externos. La importancia del nodo ya es alta por sus hechos y consecuencias directas; no hace falta sobrecargarlo con causalidades débiles.

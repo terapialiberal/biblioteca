@@ -2,9 +2,10 @@
 titulo: Solve Et Coagula (Reset Masivo)
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [caos, coagula, great, solve]
-tier-primario: "a"
-nivel-evidencia: "total"
+tier_primario: "a"
+nivel_evidencia: "total"
 publish: true
 ---
 
@@ -36,9 +37,3 @@ publish: true
 ## Cui Bono
 
 ¿Quién gana? Los **Custodios del Nuevo Orden**. Cada ciclo de _Solve et Coagula_ deja a la población con menos soberanía y al Tier A con un control más granular sobre la biopolítica y los recursos.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Alquimia social y gestión de transiciones sistémicas.
-**Estado:** 2026-02-25 | Informe Activo

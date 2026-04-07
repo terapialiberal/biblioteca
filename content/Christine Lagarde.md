@@ -2,8 +2,9 @@
 titulo: Christine Lagarde
 tipo: "persona"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [banco, christine, lagarde]
 publish: true
 ---
@@ -28,7 +29,7 @@ En el FMI supervisó rescates de Grecia y otros países. Condenada por negligenc
 - **Francia:** Establishment político
 - **WEF:** Participante frecuente
 
-## Âš ï¸ Controversias
+## Controversias
 
 - Rescates punitivos a Grecia
 - Condena por negligencia en Francia

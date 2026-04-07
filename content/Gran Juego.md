@@ -2,8 +2,9 @@
 titulo: Gran Juego (The Great Game)
 tipo: "persona"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [game, gran, guerra, juego]
 publish: true
 ---

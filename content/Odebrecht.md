@@ -2,8 +2,9 @@
 titulo: "Odebrecht (Caso Lava Jato) [TL V.3]: El Algoritmo De La Coima Continental"
 tipo: "concepto"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [caso, coima, jato, marcelo]
 publish: true
 ---
@@ -40,9 +41,3 @@ publish: true
 ## Conclusión Del Análisis
 
 Odebrecht es la autopsia de la política latinoamericana. Nos muestra que debajo de los discursos de justicia social o liberalismo económico, existe una sola realidad: el libro contable de los sobornos. En la Matrix regional, los puentes y las represas se construyen no para unir pueblos, sino para lavar el dinero que asegura la permanencia de la casta en el poder.
-
----
-
-**Versión:** 2.0
-**Enfoque:** Industrialización del soborno, captura de élites políticas transnacionales y el rol de EE.UU. en la desarticulación del poderío industrial brasileño.
-**Estado:** Refactoreado a TL V.3 - Framework de Gobernanza Cleptocrática.

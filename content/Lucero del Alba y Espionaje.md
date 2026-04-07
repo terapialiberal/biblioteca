@@ -1,8 +1,9 @@
 ---
 titulo: Lucero del Alba y Espionaje
 tipo: "concepto"
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [esoterismo, inteligencia, simbologia, vigilancia]
 publish: true
 ---
@@ -31,7 +32,3 @@ La infraestructura de **Vigilancia como Sigilo**:
 - [[Horus - El Ojo de la Vigilancia]]: El equivalente egipcio.
 - [[Total Information Awareness]]: El proyecto de luz total.
 - [[Gnosticismo Digital]]: La búsqueda de la chispa divina en los bits.
-
----
-
-_TL-INTEL V.3 | Simbolismo de Inteligencia_

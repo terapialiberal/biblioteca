@@ -2,9 +2,10 @@
 titulo: WIC - La Compañía De Las Indias Occidentales
 tipo: "entidad"
 fecha: 2026-02-25
+estado: activo
 tags: [compaa, indias, occidentales]
-tier-primario: "a"
-nivel-evidencia: "alto"
+tier_primario: "a"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -17,9 +18,3 @@ publish: true
 
 - **La Empresa como Ejército**: La WIC operaba con una patente que le permitía realizar actos de guerra. Es el origen del **Capitalismo de Rapiña**, donde el beneficio se extrae mediante la fuerza y no mediante el intercambio.
 - **Conexión con New York (New Amsterdam)**: La fundación de Manhattan fue una operación de la WIC. El diseño de Wall Street (originalmente un muro físico para defender la colonia de la WIC) es el testamento arquitectónico de una ciudad nacida de la logística militar y el comercio de activos de alto riesgo.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Análisis de la piratería estatal y la conquista logística del Atlántico.
-**Estado:** 2026-02-25 | Informe Activo

@@ -2,9 +2,10 @@
 titulo: Baal Y El Culto Al Capital (El Señor De La Renta)
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [baal, capital, culto, historia]
-tier-primario: "a"
-nivel-evidencia: "alto"
+tier_primario: "a"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -46,9 +47,3 @@ publish: true
 ## Cui Bono
 
 **El Dueño del Derecho de Emisión**. El que emite la moneda es el que hereda el título de "Baal" sobre el territorio.
-
----
-
-**Versión:** 2.0 (Deepened)
-**Enfoque:** Economía sacrificial, el concepto de renta y la soberanía del capital.
-**Estado:** 2026-02-25 | Informe Activo

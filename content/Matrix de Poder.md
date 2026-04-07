@@ -2,8 +2,9 @@
 titulo: Matrix De Poder
 tipo: "concepto"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [blackrock, matrix, palantir, poder]
 publish: true
 ---
@@ -39,19 +40,3 @@ publish: true
 ## âš¡ Cómo Operan (Fricción Vs Consenso)
 
 La Matrix de Poder no usa la fuerza bruta habitualmente (esto es costoso e ineficiente). Prefiere el **Consenso Fabricado**: hacer que el Tier C (la masa) desee su propia servidumbre (vía redes sociales, subsidios o crisis sanitarias). Cuando el consenso falla, la Matrix activa sus "Anticuerpos": cancelación social, Lawfare o destrucción financiera.
-
----
-
-## Conexiones
-
-- [[BlackRock]]
-- [[WEF (World Economic Forum)]]
-- [[Operación Mockingbird]]
-- [[Complejo Industrial de la Censura]]
-- [[Dinero Fiat / CBDC]]
-
-## Fuentes
-
-- "The Power Elite" - C. Wright Mills.
-- "Tragedy and Hope" - Carroll Quigley.
-- Análisis de flujos de capital transnacional de la Universidad de Ámsterdam (CORPNET).

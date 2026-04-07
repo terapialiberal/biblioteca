@@ -2,8 +2,9 @@
 titulo: "Triángulo Del Litio 2.0: El Chokepoint De La Transición Energética"
 tipo: "concepto"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [chokepoint, litio, puerto, transicin]
 publish: true
 ---
@@ -44,9 +45,3 @@ publish: true
 - [[Puerto de Chancay (Cosco Shipping)]]: La boca de salida hacia Eurasia.
 - [[Microsoft Stargate]]: El destino final del litio para almacenamiento de energía a escala GW.
 - [[00_Glosario - Conceptos Fase 1#Laura Richardson|Laura Richardson]]: La guardiana del activo para el bloque atlantista.
-
----
-
-**Falsabilidad**: Si las baterías de Sodio o de estado sólido (Solid-State) alcanzan paridad de costo/eficiencia antes de 2028, el valor estratégico del Triángulo del Litio colapsaría, dejando a la región con pozos secos y sin inversión.
-
-_Versión: 2.0 (Unificada) | Protocolo TL-INTEL TL V.2_

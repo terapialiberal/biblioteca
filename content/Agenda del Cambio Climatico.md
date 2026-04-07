@@ -2,8 +2,9 @@
 titulo: Agenda Del Cambio Climático
 tipo: "concepto"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [agenda, cambio, climtico, club]
 publish: true
 ---

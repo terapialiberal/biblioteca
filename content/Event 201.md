@@ -2,8 +2,9 @@
 titulo: "Event 201: La Simulación De Pandemia Global"
 tipo: "persona"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [covid, event, simulacin, world]
 publish: true
 ---
@@ -40,9 +41,3 @@ publish: true
 ## Conclusión Del Análisis
 
 Event 201 fue el ensayo general para la respuesta global a COVID-19, demostrando que la pandemia fue gestionada según un plan preexistente.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Análisis de Operación Psicológica
-**Estado:** Informe de Inteligencia Activo

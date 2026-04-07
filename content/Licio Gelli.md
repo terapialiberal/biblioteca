@@ -2,8 +2,9 @@
 titulo: "Licio Gelli: El Gerente Del Estado Profundo"
 tipo: "persona"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [estado, gelli, juan, logia]
 publish: true
 ---
@@ -47,9 +48,3 @@ publish: true
 ## Conclusión Del Análisis
 
 Licio Gelli es la prueba de que **la conspiración existe y tiene nombre y apellido**. No fue una teoría; fue un hecho judicial. Gelli manejó los hilos de dos países (Italia y Argentina) durante una década, decidiendo quién vivía, quién moría y quién gobernaba, todo desde una suite de hotel y una oficina de importaciones.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Operación P2, nexo Perón-Massera, fascismo y chantaje de estado.
-**Estado:** Informe de Inteligencia Activo.

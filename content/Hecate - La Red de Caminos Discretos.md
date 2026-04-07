@@ -2,9 +2,10 @@
 titulo: Hécate - La Red De Caminos Discretos
 tipo: "entidad"
 fecha: 2026-02-25
+estado: activo
 tags: [caminos, discretos, hcate]
-tier-primario: "a"
-nivel-evidencia: "alto"
+tier_primario: "a"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -22,9 +23,3 @@ publish: true
 ### 2. Hécate Y La Inteligencia
 
 - Representa la capacidad de ver en la oscuridad (información privilegiada). Sus tres caras simbolizan la vigilancia del pasado, presente y futuro mediante la interceptación de señales en los puntos de cruce de la red global.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Arquitectura de redes discretas y vigilancia de flujos subterráneos.
-**Estado:** 2026-02-25 | Informe Activo

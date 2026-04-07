@@ -2,8 +2,9 @@
 titulo: Mar-a-Lago
 tipo: "concepto"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [donald, lago, virginia]
 publish: true
 ---
@@ -29,19 +30,3 @@ publish: true
 ## ⚡ Conclusin TL
 
 Mar-a-Lago es el smbolo de la fractura interna de la lite de EE.UU. Es el bnker de una faccin que desafa el consenso de Tier A, pero que sigue operando bajo las mismas reglas de exclusividad, secreto y manejo de "activos humanos".
-
----
-
-## Conexiones
-
-- [[Donald Trump]]
-- [[Jeffrey Epstein]]
-- [[Virginia Giuffre]] (V�ctima reclutada aqu�)
-- [[Palm Beach]] (El ecosistema de poder)
-- [[FBI / Deep State]] (Sus enemigos institucionales)
-
-## Fuentes
-
-- "The Grifter's Club: Trump, Mar-a-Lago, and the Selling of the Presidency" - Sarah Blaskey.
-- Expedientes judiciales del caso Trump vs. DOJ (Documentos clasificados).
-- Declaraciones juradas de Virginia Giuffre sobre su reclutamiento en el club.

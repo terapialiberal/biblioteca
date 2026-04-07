@@ -2,9 +2,10 @@
 titulo: Necronomicón Y Lovecraft (El Horror De Los Primigenios)
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [lovecraft, necronomicn]
-tier-primario: "a"
-nivel-evidencia: "medio"
+tier_primario: "a"
+nivel_evidencia: "medio"
 publish: true
 ---
 
@@ -22,9 +23,3 @@ publish: true
 ### 2. Los Primigenios Como Tier A
 
 - Cthulhu, Nyarlathotep y otros son proyecciones de los Dueños. Representan una soberanía que no se basa en el consenso, sino en la **Presencia Ontológica**. Nyarlathotep, el "Caos Reptante", es el arquetipo del Operador de Tier B que interactúa con el Tier C para sembrar el caos necesario para los reseteos de Tier A.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Simbología del terror cósmico y gestión de la insignificancia humana.
-**Estado:** 2026-02-25 | Informe Activo

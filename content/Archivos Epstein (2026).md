@@ -2,8 +2,9 @@
 titulo: "Archivos Epstein (2026): El Vertido De Datos Definitivo"
 tipo: "entidad"
 fecha: 2026-01-30
-tier-primario: "b"
-nivel-evidencia: "alto"
+tier_primario: "b"
+nivel_evidencia: "alto"
+estado: activo
 tags: [andrew, archivos, definitivo, vertido]
 publish: true
 ---
@@ -51,9 +52,3 @@ El análisis de los archivos indica que el DOJ liberó datos de manera **asimét
 ## Conclusión
 
 Los Archivos Epstein de 2026 no son el fin de la red, sino su **reconfiguración**. Al quemar los archivos viejos y sacrificar a los operadores quemados, el sistema se prepara para una nueva era de **Gobernanza Algorítmica** donde el chantaje biológico ya no será necesario porque la vigilancia será total y constante.
-
----
-
-**Versión:** 12.1
-**Enfoque:** Análisis de datos técnicos, nexos DEA y purga de Tier B.
-**Estado:** Nodo Crítico TL V.3.

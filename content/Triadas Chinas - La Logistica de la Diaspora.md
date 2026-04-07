@@ -2,9 +2,10 @@
 titulo: Tríadas Chinas — La Logística De La Diáspora
 tipo: "entidad"
 fecha: 2026-02-25
+estado: activo
 tags: [chinas, dispora, logstica, tradas]
-tier-primario: "a"
-nivel-evidencia: "alto"
+tier_primario: "a"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -27,9 +28,3 @@ publish: true
 ## Cui Bono
 
 **La Liquidez del Sistema**. Las Tríadas aseguran que siempre exista una ruta alternativa (Shadow Banking) para que el capital de Tier A se mueva cuando los canales oficiales están bajo "sanciones" o escrutinio.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Redes transnacionales, comercio de opio y logística informal.
-**Estado:** 2026-02-25 | Informe Activo

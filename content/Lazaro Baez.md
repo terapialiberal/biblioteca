@@ -2,8 +2,9 @@
 titulo: "¸ Lázaro Báez: El Engranaje De La Obra Pública K"
 tipo: "persona"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [austral, bez, hotesur, lzaro]
 publish: true
 ---
@@ -27,14 +28,3 @@ publish: true
 ## âš¡ Conclusión De Terapia Liberal
 
 Báez no es un villano independiente; es un **empleado fiel** que no supo cuándo dejar de contar billetes frente a las cámaras. Su vida y condena son la prueba de que el poder real en Argentina ha funcionado como una asociación ilícita de base constructora. En el tablero de Nico, Báez es el "punto final" de la manguera que succiona el capital de los contribuyentes para alimentar los mausoleos de la oligarquía local.
-
----
-
-## Conexiones De La Red
-
-- **El Poder Real:** [[Néstor Kirchner]], [[Cristina Kirchner]], [[Máximo Kirchner]].
-- **Operadores de Lavado:** [[Federico Elaskar]], [[Leonardo Fariña]] (El valijero).
-- **Estructuras:** [[Austral Construcciones]], [[Hotesur y Los Sauces]], [[Vialidad Nacional]].
-- **Casos Relacionados:** [[Causa Vialidad]], [[La Ruta del Dinero K]].
-
-**Estado:** Refactoreado a TL V.3 - Framework de Kleptocracia Estructural.

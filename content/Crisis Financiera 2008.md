@@ -2,8 +2,9 @@
 titulo: Crisis Financiera 2008
 tipo: "evento"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: ["2008", crisis, financiera, goldman]
 publish: true
 ---

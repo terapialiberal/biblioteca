@@ -2,8 +2,9 @@
 titulo: Fuentes Y Marcadores (Directorio De Inteligencia)
 tipo: "concepto"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [atlantic, chatham, inteligencia, marcadores]
 publish: true
 ---
@@ -19,7 +20,7 @@ Este archivo centraliza los nodos de información de alta fidelidad utilizados p
 _Fuentes oficiales de las instituciones que diseñan la agenda._
 
 - **[[Atlantic Council]]**: El cerebro estratégico de la OTAN.
-- **[[BIS (Bank for International Settlements)]]**: El banco central de los bancos centrales.
+- **[[BIS (Banco de Pagos Internacionales)]]**: El banco central de los bancos centrales.
 - **[[Chatham House]]**: El think tank del establishment británico.
 - **[[CFR (Council on Foreign Relations)]]**: La cancillería del Estado Profundo de EE.UU.
 - **[[World Economic Forum (WEF)]]**: Plataforma de socialización de la agenda del Gran Reinicio.
@@ -58,9 +59,3 @@ _(Para acceso rápido fuera de Obsidian)_
 - [Unlimited Hangout](https://unlimitedhangout.com/)
 - [The Corbett Report](https://www.corbettreport.com/)
 - [ZeroHedge](https://www.zerohedge.com/)
-
----
-
-## Nota Metodológica (Estilo Nico)
-
-> "No leas las noticias para saber qué pasó; leelas para saber qué quieren que creas. Las fuentes de Tier A te dicen lo que va a pasar porque ellos son los que lo planean. Las de Tier B independiente son las que te ayudan a ver los hilos de la marioneta. Si no cruzás la info, sos un consumidor de ficción. Este directorio es el arsenal: usalo para verificar cada dato y cada nombre que aparezca en el noticiero."

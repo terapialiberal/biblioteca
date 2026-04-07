@@ -2,9 +2,10 @@
 titulo: Programación Predictiva En El Cine
 tipo: "entidad"
 fecha: 2026-02-25
+estado: activo
 tags: [cine, hollywood, predictiva, programacin]
-tier-primario: "b"
-nivel-evidencia: "alto"
+tier_primario: "b"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -36,9 +37,3 @@ publish: true
 ## Cui Bono
 
 ¿Quién gana? Los **Arquitectos del Futuro**. La programación predictiva asegura que la población de Tier C no se revele ante lo "monstruoso", porque ya lo vio mil veces por 15 dólares la entrada.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Ingeniería social mediante la ficción y el entretenimiento.
-**Estado:** 2026-02-25 | Informe Activo

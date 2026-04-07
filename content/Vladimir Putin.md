@@ -2,8 +2,9 @@
 titulo: Vladimir Putin
 tipo: "persona"
 fecha: 2026-03-04
-tier-primario: "b"
-nivel-evidencia: "alto"
+tier_primario: "b"
+nivel_evidencia: "alto"
+estado: activo
 tags: [putin, rusia, rimland, brics, iran-2026]
 publish: true
 ---
@@ -35,7 +36,3 @@ La inteligencia rusa (SVR) ha calificado el asesinato de Khamenei como una "oper
 ## 💰 Cui Bono
 
 Captura del mercado de energía de Eurasia y consolidación de Rusia como el "garante de seguridad" para los países que buscan saltar el dólar.
-
----
-
-_TL V.3 | 2026-03-04_

@@ -2,9 +2,10 @@
 titulo: Basilio Valentín
 tipo: "persona"
 fecha: 2026-02-25
+estado: activo
 tags: [basilio, valentn]
-tier-primario: "b"
-nivel-evidencia: "alto"
+tier_primario: "b"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -16,9 +17,3 @@ publish: true
 ## Análisis Forense
 
 - El Tier A utiliza personajes como Valentín para asegurar que las leyes de la alquimia (gestión de la realidad) se transmitan de forma codificada a través de los siglos, lejos de la vista del Tier C.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Transmisión arcana y linajes de conocimiento operativo.
-**Estado:** 2026-02-25 | Informe Activo

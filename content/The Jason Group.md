@@ -2,8 +2,9 @@
 titulo: "The Jason Group: La Élite Científica Del Pentágono"
 tipo: "entidad"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [cientfica, darpa, jason, proyecto]
 publish: true
 ---
@@ -45,9 +46,3 @@ publish: true
 ## Conclusión Del Análisis
 
 The Jason Group es el **Oráculo de Delfos del Complejo Militar**. Son los únicos civiles a los que los generales escuchan con reverencia. Encarnan el poder del conocimiento técnico al servicio del Estado de Seguridad Nacional.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Asesoramiento científico clasificado, armas exóticas y ética militar.
-**Estado:** Informe de Inteligencia Activo.

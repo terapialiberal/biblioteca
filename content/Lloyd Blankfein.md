@@ -2,8 +2,9 @@
 titulo: 'Lloyd Blankfein: El Banquero Del "Trabajo De Dios"'
 tipo: "persona"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [blankfein, crisis, goldman, lloyd]
 publish: true
 ---
@@ -27,14 +28,3 @@ publish: true
 ## ⚡ Conclusin De Terapia Liberal
 
 Lloyd Blankfein no es un banquero; es un **Tecncrata de la Escasez**. Su "trabajo de Dios" consiste en asegurar que el flujo de capital nunca se detenga hacia la cima de la pirmide, sin importar cuntas hipotecas o pases deban ser liquidados en el proceso. Su permanencia en la cima tras 2008 es la prueba de que el sistema protege a sus arquitectos de lite.
-
----
-
-## Conexiones De La Red
-
-- **La Instituci�n:** [[Goldman Sachs]].
-- **Socios de Élite:** [[Hank Paulson]], [[Mario Draghi]] (Goldman Alumni).
-- **Sombra:** [[Jeffrey Epstein]] (Relaciones post-condena).
-- **Eventos:** [[Crisis Financiera 2008]], [[Bail-out]].
-
-**Estado:** Refactoreado a TL V.3 - Framework de Inteligencia Aplicado.

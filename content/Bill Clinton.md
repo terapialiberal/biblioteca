@@ -2,8 +2,9 @@
 titulo: Bill Clinton
 tipo: "persona"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [barry, bill, clinton, hillary]
 publish: true
 ---
@@ -14,7 +15,7 @@ publish: true
 
 ## Resumen Ejecutivo
 
-**¿Quién es?** 42Âº Presidente de EEUU. Ex-gobernador de Arkansas. Rhodes Scholar.
+**Quien es?** 42o Presidente de EEUU. Ex-gobernador de Arkansas. Rhodes Scholar.
 
 **¿Por qué importa?** Representa la venta final del Partido Demócrata a Wall Street (derogación de Glass-Steagall) y a China (ingreso a la OMC). Su carrera está marcada por una estela de muertes misteriosas ("Clinton Body Count") y corrupción sistémica desde sus días en Arkansas (Mena).
 

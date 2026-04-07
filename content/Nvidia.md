@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:27.663-03:00
-modified: 2026-04-02T13:15:50.898-03:00
+modified: 2026-04-07T10:50:52.289-03:00
 ---
 
 # Nvidia
@@ -65,6 +65,4 @@ Nvidia es simplemente una empresa que fabrica los mejores productos en el moment
 
 #### LAGUNAS
 
-## Cul es la relacin real entre Nvidia y la recopilacin de datos de entrenamiento va sus propios clusters internos ("Selene") para entrenar modelos propietarios ocultos?
-
-_VersiÃ¯Â¿Â½n: 1.0 (TL V.3) | Dossier de Chokepoint de Hardware_
+Cul es la relacin real entre Nvidia y la recopilacin de datos de entrenamiento va sus propios clusters internos ("Selene") para entrenar modelos propietarios ocultos?

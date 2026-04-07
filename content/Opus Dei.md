@@ -2,9 +2,10 @@
 titulo: Opus Dei
 tipo: "persona"
 fecha: 2026-02-25
+estado: activo
 tags: [banco, iese, opus]
-tier-primario: "a"
-nivel-evidencia: "total"
+tier_primario: "a"
+nivel_evidencia: "total"
 publish: true
 ---
 
@@ -37,9 +38,3 @@ publish: true
 ## Cui Bono
 
 ¿Quién gana? La **Jerarquía Eclesiástica y las Elites Católicas Tradicionales**. El Opus Dei asegura que, en un mundo secularizado, el poder católico siga teniendo asientos reservados en los directorios de las megacorporaciones y en los ministerios de finanzas.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Poder financiero vaticano y redes tecnocráticas conservadoras.
-**Estado:** 2026-02-25 | Informe Activo

@@ -2,9 +2,10 @@
 titulo: Fraternidad De Saturno (Fraternitas Saturni)
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [astrologa, fraternidad, ordo, saturno]
-tier-primario: "b"
-nivel-evidencia: "alto"
+tier_primario: "b"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -37,9 +38,3 @@ publish: true
 ## Cui Bono
 
 ¿Quién gana? El **Racionalismo Estructural**. La Fraternidad de Saturno entrena individuos para ser "puntos de anclaje" en un sistema caótico, sirviendo a la estabilidad del orden material de Tier A.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Disciplina oculta y control de estructuras materiales.
-**Estado:** 2026-02-25 | Informe Activo

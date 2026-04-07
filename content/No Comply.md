@@ -2,8 +2,9 @@
 titulo: "No Comply (Movimiento) [TL V.3]: La Secesión Psicológica De La Matrix"
 tipo: "persona"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [comply, indefensin, matrix, movimiento]
 publish: true
 ---
@@ -39,9 +40,3 @@ publish: true
 ## Conclusión Del Análisis
 
 El No Comply es la salida de la caverna. Es el recordatorio de que la Matrix solo puede proyectar sombras en la pared si tú te mantienes atado y mirando hacia adelante. En el momento en que te levantas y dices "No", las sombras pierden su poder. El futuro de la libertad depende de nuestra capacidad para ser **Ingobernables por Diseño**.
-
----
-
-**Versión:** 2.0
-**Enfoque:** Resistencia civil como secesión psicológica, el fracaso de la ingeniería social de shock y la teoría de la minoría intransigente.
-**Estado:** Refactoreado a TL V.3 - Framework de Resistencia Soberana.

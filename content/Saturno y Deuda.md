@@ -1,8 +1,9 @@
 ---
 titulo: Saturno y Deuda
 tipo: "concepto"
-tier-primario: "a"
-nivel-evidencia: "medio"
+tier_primario: "a"
+nivel_evidencia: "medio"
+estado: activo
 tags: [esoterismo, arqueo-finanzas, saturno, deuda, contrato]
 publish: true
 ---
@@ -30,7 +31,3 @@ El sistema de control del [[Tier A]] utiliza el arquetipo saturnino para cimenta
 - [[Yahweh - El Capturador de la Ley]]: El aspecto religioso del arquetipo.
 - [[El Cubo Negro]]: El símbolo de fijación.
 - [[Banca Central]]: El altar del tiempo-deuda moderno.
-
----
-
-_TL-INTEL V.3 | Metafísica de la Deuda_

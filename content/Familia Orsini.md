@@ -2,8 +2,9 @@
 titulo: "Familia Orsini: Los Dueños De Roma"
 tipo: "entidad"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [banco, nobleza, orsini, roma]
 publish: true
 ---
@@ -44,9 +45,3 @@ publish: true
 ## Conclusión Del Análisis
 
 Los Orsini son el **Tier A Ancestral**. Nos recuerdan que el poder real tiene raíces de mil años, no de cien. Mientras los CEOs van y vienen, los Orsini siguen habitando los mismos palacios en Roma, asegurando que la Iglesia siga siendo el centro de inteligencia más antiguo de Occidente.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Poder vaticano, linaje papal y órdenes militares.
-**Estado:** Informe de Inteligencia Activo.

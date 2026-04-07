@@ -1,8 +1,9 @@
 ---
 titulo: Astro-Cartografía del Rimland
 tipo: "concepto"
-tier-primario: "a"
-nivel-evidencia: "medio"
+tier_primario: "a"
+nivel_evidencia: "medio"
+estado: activo
 tags: [geopolitica, esoterismo, rimland, astrologia]
 publish: true
 ---
@@ -28,7 +29,3 @@ publish: true
 - [[Teoria del Rimland]]: La base geopolítica secular.
 - [[Lineas Ley]]: La infraestructura energética terrestre.
 - [[Astro-Cartografia]]: El concepto general.
-
----
-
-_TL-INTEL V.3 | Geopolítica Esotérica_

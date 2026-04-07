@@ -2,8 +2,9 @@
 titulo: "Realpolitik (Realismo Geopolítico): El Tablero Sin Árbitro"
 tipo: "concepto"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [geopoltico, henry, realismo, rbitro]
 publish: true
 ---
@@ -41,9 +42,3 @@ publish: true
 ## Conclusión Del Análisis
 
 La Realpolitik es el sistema operativo del Nivel 2 (Estado vs Estado). Mientras los presidentes hablan de valores, las agencias de inteligencia operan bajo reglas de suma cero por recursos y geografía. Ignorar esto es confundir el mapa con el territorio.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Mecánica de Relaciones Internacionales
-**Estado:** Informe de Inteligencia Activo

@@ -1,8 +1,9 @@
 ---
 titulo: El Algoritmo como Oraculo
 tipo: "concepto"
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [ia, esoterismo, control, tecnocracia]
 publish: true
 ---
@@ -31,7 +32,3 @@ La integración de la IA en la toma de decisiones soberanas (ej. en el gabinete 
 - [[Arquetipos de Poder]]: El Sabio Tecnológico.
 - [[Gnosticismo Digital]]: La creencia en la salvación por los datos.
 - [[Algorithmic Governance]]: La aplicación política.
-
----
-
-_TL-INTEL V.3 | Esoterismo Técnico_

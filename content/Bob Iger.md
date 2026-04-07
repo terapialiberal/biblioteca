@@ -2,8 +2,9 @@
 titulo: Bob Iger
 tipo: "persona"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [disney, iger]
 publish: true
 ---
@@ -25,7 +26,7 @@ Bob Iger transformó Disney comprando:
 
 Renunció en 2020, volvió en 2022 cuando su sucesor (Chapek) fracasó.
 
-## Âš ï¸ Controversias
+## Controversias
 
 - Contenido "woke" alienando audiencias
 - Pérdidas millonarias en streaming

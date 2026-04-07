@@ -1,8 +1,9 @@
 ---
 titulo: Teoria del Internet Muerto
 tipo: "concepto"
-tier-primario: "b"
-nivel-evidencia: "alto"
+tier_primario: "b"
+nivel_evidencia: "alto"
+estado: activo
 tags: [tecnologia, narrativas, ia, bots, simulacro]
 publish: true
 ---
@@ -34,7 +35,3 @@ El beneficio es para el [[Complejo Industrial de la Censura]]:
 - [[Manufacture of Consent 2.0]]: La versión digital.
 - [[Algorithmic Governance]]: El gobierno por el código.
 - [[PsyOp]]: El marco de la operación.
-
----
-
-_TL-INTEL V.3 | Guerra Cognitiva_

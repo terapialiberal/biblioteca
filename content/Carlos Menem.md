@@ -2,8 +2,9 @@
 titulo: Carlos Menem
 tipo: "persona"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [carlos, crisis, domingo, menem]
 publish: true
 ---
@@ -25,7 +26,7 @@ Políticas:
 - Alineamiento con EEUU
 - Indultos a militares
 
-## Âš ï¸ Escándalos
+## Escandalos
 
 - AMIA (encubrimiento)
 - Venta de armas a Croacia/Ecuador

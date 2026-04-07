@@ -2,8 +2,9 @@
 titulo: Crisis De Los Vehículos Eléctricos (EVs)
 tipo: "evento"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [automotriz, crisis, industria, litio]
 publish: true
 ---

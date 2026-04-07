@@ -2,9 +2,10 @@
 titulo: Bonos Soberanos — El Grillete De Las Naciones
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [bonos, grillete, historia, naciones]
-tier-primario: "a"
-nivel-evidencia: "alto"
+tier_primario: "a"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -46,9 +47,3 @@ publish: true
 ## Cui Bono
 
 **Los Tenedores de Deuda Senior**. El sistema de bonos asegura que, en caso de colapso, los bancos y fondos de Tier A cobren antes que cualquier hospital, escuela o jubilado.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Deuda soberana, control geopolítico y transferencia de riqueza intergeneracional.
-**Estado:** 2026-02-25 | Informe Activo

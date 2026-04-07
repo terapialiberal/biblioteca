@@ -2,9 +2,10 @@
 titulo: Illuminati De Baviera (Hechos Vs Mitos)
 tipo: "entidad"
 fecha: 2026-02-25
+estado: activo
 tags: [baviera, illuminati, jesuitas, revolucin]
-tier-primario: "a"
-nivel-evidencia: "alto"
+tier_primario: "a"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -37,9 +38,3 @@ publish: true
 ## Cui Bono
 
 ¿Quién ganó? El **Racionalismo Administrativo**. Los Illuminati sentaron las bases para que el Estado moderno se liberara de la tutela religiosa, permitiendo que el Tier A financiero operara sin las limitaciones morales de la antigua cristiandad.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Infiltración celular y cambio de paradigma institucional.
-**Estado:** 2026-02-25 | Informe Activo

@@ -2,9 +2,10 @@
 titulo: Camino De Santiago (Sincronización De Masas)
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [camino, santiago]
-tier-primario: "b"
-nivel-evidencia: "alto"
+tier_primario: "b"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -16,9 +17,3 @@ publish: true
 ## Análisis Forense
 
 - El caminante cree estar en un proceso de introspección, pero físicamente actúa como un electrón en un circuito. El ritual del abrazo al santo y la llegada al Finis Terrae son los puntos de descarga de la tensión acumulada, permitiendo al sistema relajar la presión social del Tier C mediante la catarsis controlada del esfuerzo físico.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Geografía sagrada aplicada y gestión del movimiento masivo.
-**Estado:** 2026-02-25 | Informe Activo

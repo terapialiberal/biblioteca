@@ -3,8 +3,9 @@ publish: true
 titulo: Patron – Deepfake
 tipo: concepto
 fecha: 2026-02-28
-tier-primario: b
-nivel-evidencia: medio
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
 tags: [00-patron, psyop, ia, tecnologia, statecraft, tl-v2]
 ---
 

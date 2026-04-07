@@ -2,9 +2,10 @@
 titulo: Gematría Bíblica Y Cabalá
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [cabal, gematra, numerologa, sephirot]
-tier-primario: "a"
-nivel-evidencia: "alto"
+tier_primario: "a"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -36,9 +37,3 @@ publish: true
 ## Cui Bono
 
 ¿Quién gana? Los **Geómetras de la Palabra**. La gematría asegura que el Tier A pueda comunicarse "a plena vista" (Hidden in plain sight) sin que el Tier C sospeche que el nombre de la nueva ley es en realidad un sigilo matemático de dominio.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Matemática sagrada y codificación de la realidad social.
-**Estado:** 2026-02-25 | Informe Activo

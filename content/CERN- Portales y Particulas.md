@@ -2,9 +2,10 @@
 titulo: "CERN: Portales Y Partículas"
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [gematra, partculas, portales, shiva]
-tier-primario: "a"
-nivel-evidencia: "bajo"
+tier_primario: "a"
+nivel_evidencia: "bajo"
 publish: true
 ---
 
@@ -36,9 +37,3 @@ publish: true
 ## Cui Bono
 
 ¿Quién gana? Los **Ingenieros de la Realidad**. Si el experimento tiene éxito en manipular la densidad de la materia, el Tier A se convierte en "dioses" funcionales sobre un plano de existencia maleable.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Física extrema y transgresión de límites dimensionales.
-**Estado:** 2026-02-25 | Informe Activo

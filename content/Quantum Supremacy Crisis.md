@@ -2,8 +2,9 @@
 titulo: Quantum Supremacy Crisis (Q-Day)
 tipo: "persona"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [crisis, jpmorgan, quantum, supremacy]
 publish: true
 ---

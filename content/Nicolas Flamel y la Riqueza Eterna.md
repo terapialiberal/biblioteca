@@ -2,9 +2,10 @@
 titulo: Nicolas Flamel — La Alquimia De La Riqueza Eterna
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [eterna, flamel, nicolas, riqueza]
-tier-primario: "a"
-nivel-evidencia: "medio"
+tier_primario: "a"
+nivel_evidencia: "medio"
 publish: true
 ---
 
@@ -23,9 +24,3 @@ publish: true
 ### 2. La Piedra Filosofal = El Ledger
 
 - El "Solvente" que convierte lo bajo en alto es el **Crédito**. Cuando Flamel construye hospitales y escuelas de la nada, no está haciendo caridad; está anclando su poder en la infraestructura crítica de la ciudad, convirtiéndose en el acreedor invisible de la sociedad.
-
----
-
-**Versión:** 2.0 (Deepened)
-**Enfoque:** La alquimia como meta-lenguaje de la ingeniería financiera.
-**Estado:** 2026-02-25 | Informe Activo

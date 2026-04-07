@@ -2,8 +2,9 @@
 titulo: El Muelle De Gaza (Biden)
 tipo: "concepto"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [biden, conflicto, gaza, muelle]
 publish: true
 ---

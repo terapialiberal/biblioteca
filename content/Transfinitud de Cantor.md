@@ -1,8 +1,9 @@
 ---
 titulo: Transfinitud de Cantor
 tipo: "concepto"
-tier-primario: "a"
-nivel-evidencia: "medio"
+tier_primario: "a"
+nivel_evidencia: "medio"
+estado: activo
 tags: [matematica, esoterismo, infinito, niveles]
 publish: true
 ---
@@ -31,7 +32,3 @@ El "Álef" de Cantor es la representación matemática de la **Omnisciencia Digi
 - [[Algoritmo como Oraculo]]: La implementación técnica.
 - [[Logica Borrosa y Gnosis]]: Cómo navegar niveles de verdad incierta.
 - [[Fractalidad de la Deuda]]: La repetición de patrones en todas las escalas.
-
----
-
-_TL-INTEL V.3 | Metafísica Matemática_

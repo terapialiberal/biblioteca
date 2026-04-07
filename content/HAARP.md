@@ -1,8 +1,9 @@
 ---
 titulo: HAARP - High Frequency Active Auroral Research Program
 tipo: "entidad"
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [tecnologia, ionosfera, clima, señales, control]
 publish: true
 ---
@@ -31,7 +32,3 @@ En la era de la [[Guerra Cognitiva]], HAARP actúa como el amplificador macro de
 - [[Resonancia Schuman]]: El pulso que HAARP intenta modular.
 - [[Chemtrails]]: El medio conductor (partículas metálicas en la atmósfera).
 - [[Plan de Modificacion del Clima]]: El marco geopolítico.
-
----
-
-_TL-INTEL V.3 | Ingeniería Atmosérica_

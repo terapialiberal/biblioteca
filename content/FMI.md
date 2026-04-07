@@ -2,8 +2,9 @@
 titulo: FMI (Fondo Monetario Internacional)
 tipo: "entidad"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [banco, confesiones, fondo, internacional]
 publish: true
 ---
@@ -35,7 +36,7 @@ publish: true
 ## Conexiones Clave
 
 - [[Banco Mundial]] (El socio para el saqueo de infraestructura)
-- [[BIS (Bank for International Settlements)]] (La cúpula en Basilea)
+- [[BIS (Banco de Pagos Internacionales)]] (La cúpula en Basilea)
 - [[Confesiones de un Sicario Económico]] (El manual operativo)
 - [[Consenso de Washington]] (Su base ideológica)
 

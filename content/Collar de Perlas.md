@@ -2,8 +2,9 @@
 titulo: Collar De Perlas (Estrategia China)
 tipo: "concepto"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [belt, china, collar, trampa]
 publish: true
 ---

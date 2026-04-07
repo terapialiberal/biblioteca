@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:23.507-03:00
-modified: 2026-04-02T13:22:44.066-03:00
+modified: 2026-04-07T10:50:27.966-03:00
 tags:
   - terapia-liberal
   - inteligencia-forense
@@ -1400,7 +1400,3 @@ Este manual es una gua para:
 5. Construir tu propia interpretacin del mundo.
 
 La clave es: **siempre pregunt quin se beneficia, con qu incentivo, y cundo cambiar de opinin si los datos lo indican.**
-
----
-
-**Creado para Terapia Liberal � An�lisis Geopol�tico y Econ�mico**

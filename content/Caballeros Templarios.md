@@ -2,8 +2,9 @@
 titulo: Caballeros Templarios (Origen Banca)
 tipo: "entidad"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [banco, masonera, origen, templarios]
 publish: true
 ---

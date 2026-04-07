@@ -2,9 +2,10 @@
 titulo: La Proporción Áurea (Phi)
 tipo: "persona"
 fecha: 2026-02-25
+estado: activo
 tags: [logotipos, proporcin, sucesin, urea]
-tier-primario: "a"
-nivel-evidencia: "total"
+tier_primario: "a"
+nivel_evidencia: "total"
 publish: true
 ---
 
@@ -36,9 +37,3 @@ publish: true
 ## Cui Bono
 
 ¿Quién gana? Los **Geómetras del Sistema**. La Proporción Áurea asegura que el entorno de control sea estéticamente placentero, ocultando la naturaleza extractiva del sistema bajo una capa de perfección geométrica.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Estética como herramienta de validación sistémica.
-**Estado:** 2026-02-25 | Informe Activo

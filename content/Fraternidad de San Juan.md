@@ -2,9 +2,10 @@
 titulo: Fraternidad De San Juan (Le Cercle)
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [fraternidad, juan, operacin, opus]
-tier-primario: "a"
-nivel-evidencia: "medio"
+tier_primario: "a"
+nivel_evidencia: "medio"
 publish: true
 ---
 
@@ -38,9 +39,3 @@ publish: true
 ## Cui Bono
 
 ¿Quién gana? El **Atlantismo**. Le Cercle asegura que las decisiones críticas de Europa se tomen en habitaciones cerradas, lejos del escrutinio público, beneficiando la hegemonía del dólar y la contención de Eurasia.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Inteligencia clandestina y redes de influencia conservadora.
-**Estado:** 2026-02-25 | Informe Activo

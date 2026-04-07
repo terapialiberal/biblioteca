@@ -2,8 +2,9 @@
 titulo: "Familia Sassoon: Los Reyes Del Opio Imperial"
 tipo: "entidad"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [guerras, hsbc, reyes, sassoon]
 publish: true
 ---
@@ -44,9 +45,3 @@ publish: true
 ## Conclusión Del Análisis
 
 Los Sassoon demuestran que **detrás de cada gran fortuna hay un crimen**. En su caso, el crimen fue drogar a una civilización entera (China) para equilibrar la balanza comercial británica. Son el arquetipo del **Tier A depredador** que usa el libre comercio como excusa para el tráfico de sustancias.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Narcotráfico imperial, origen de HSBC y dominio de Asia.
-**Estado:** Informe de Inteligencia Activo.

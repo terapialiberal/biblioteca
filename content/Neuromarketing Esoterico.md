@@ -1,8 +1,9 @@
 ---
 titulo: Neuromarketing Esoterico
 tipo: "concepto"
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [marketing, esoterismo, simbolos, inconsciente]
 publish: true
 ---
@@ -33,7 +34,3 @@ La IA generativa ahora crea **Símbolos Adaptativos**:
 - [[Ingenieria de Consentimiento]]: El marco estratégico.
 - [[Egregores Digitales]]: La vida propia de las marcas.
 - [[Simbolismo y Esoterismo]]: La base de datos de símbolos.
-
----
-
-_TL-INTEL V.3 | Inconsciente Colectivo y Mercado_

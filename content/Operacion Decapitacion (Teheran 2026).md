@@ -2,8 +2,9 @@
 publish: true
 titulo: Operación Decapitación (Teherán 2026)
 tipo: "evento"
-tier-primario: 'b'
-nivel-evidencia: 'confirmado'
+tier_primario: 'b'
+nivel_evidencia: 'confirmado'
+estado: activo
 tags: [cia, mossad, magnicidio, iran, inteligencia-ia]
 ---
 
@@ -35,7 +36,3 @@ La operación rompió todos los protocolos de seguridad de la guardia de Khamene
 ## 🧬 Falsabilidad
 
 Si en los próximos 15 días hay un endurecimiento de sanciones en lugar de una apertura negociada con la nueva cúpula, la hipótesis de "Transmisión Pactada" perdería fuerza frente a la de "Caos Controlado".
-
----
-
-_TL V.3 | 2026-03-04_

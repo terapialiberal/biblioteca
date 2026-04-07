@@ -2,9 +2,10 @@
 titulo: La Gnosis Del Mal (Dualismo Y Control)
 tipo: "evento"
 fecha: 2026-02-25
+estado: activo
 tags: [gnosis]
-tier-primario: "a"
-nivel-evidencia: "alto"
+tier_primario: "a"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -16,9 +17,3 @@ publish: true
 ## Análisis Forense
 
 - No hay lucha entre luces y sombras en el Tier A; hay **Intercambio de Funciones**. El Mal destruye lo que el Tier A quiere resetear; el Bien construye el nuevo marco de prisioneros. Entender esto es la "Gnosis del Mal": ver a través del teatro moral para encontrar la utilidad técnica del dolor.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Meta-ética del poder y utilidad sistémica del conflicto moral.
-**Estado:** 2026-02-25 | Informe Activo

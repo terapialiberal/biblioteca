@@ -3,8 +3,9 @@ publish: true
 titulo: Patron – Virtue Signalling (Señalizacion de Virtudes)
 tipo: concepto
 fecha: 2026-02-28
-tier-primario: c
-nivel-evidencia: alto
+tier_primario: c
+nivel_evidencia: alto
+estado: activo
 tags: [00-patron, psyop, identidad, control-social, tl-v2]
 ---
 

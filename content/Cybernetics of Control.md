@@ -2,8 +2,9 @@
 titulo: Cybernetics of Control (CBDC Programability)
 tipo: "concepto"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [cbdc, control, cybernetics, programability]
 publish: true
 ---

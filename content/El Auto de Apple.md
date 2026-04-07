@@ -2,8 +2,9 @@
 titulo: El Auto De Apple (Proyecto Titan)
 tipo: "entidad"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [auto, nvidia, proyecto, titan]
 publish: true
 ---

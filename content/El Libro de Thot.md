@@ -2,9 +2,10 @@
 titulo: El Libro De Thot (Tarot Y Programación)
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [alistair, hermetismo, libro, thot]
-tier-primario: "a"
-nivel-evidencia: "medio"
+tier_primario: "a"
+nivel_evidencia: "medio"
 publish: true
 ---
 
@@ -36,9 +37,3 @@ publish: true
 ## Cui Bono
 
 ¿Quién gana? Los **Grandes Navegantes**. El Libro de Thot asegura que, pase lo que pase, el Tier A siempre tenga una carta guardada en la manga, conociendo de antemano el guion simbólico de la experiencia humana.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Simbolismo operativo y gestión de la sincronicidad.
-**Estado:** 2026-02-25 | Informe Activo

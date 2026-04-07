@@ -1,47 +1,31 @@
 ---
-titulo: Marcos Galperin
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [galperin, javier, marcos, mercado]
 publish: true
+created: 2026-01-29T19:17:23.836-03:00
+modified: 2026-04-07T12:43:58.566-03:00
+tags:
+  - marcos-galperin
+  - mercado-libre
+  - mercado-pago
+  - plataformas
+  - tl-intel-v3
 ---
 
-# Marcos Galperin
+# [[Marcos Galperin]]
 
-## Resumen Ejecutivo
+> [!abstract] PERFIL TL-INTEL
+> Fundador de Mercado Libre y figura clave para leer la transición desde comercio digital a plataforma financiera y de datos en América Latina.
 
-**Quién es:** Fundador, presidente y CEO de **Mercado Libre** (MELI), la empresa más valiosa de América Latina.
-**Por qué Importa:** Marcos Galperin es el **Arquitecto del Tecno-Feudalismo en el Cono Sur**. Bajo el lema de la "democratización del comercio", ha construido una plataforma que es, en realidad, un nodo de control total sobre la circulación de mercancías y dinero. A través de **Mercado Pago**, Galperin ha logrado lo que ningún banco pudo: bancarizar a la masa (Tier C) para extraer datos y comisiones por cada transacción, convirtiéndose en el "Peaje Digital" obligatorio de la región. Su apoyo militante al gobierno de **[[Javier Milei]]** representa la alianza entre el capital tecno-financiero y el anarcocapitalismo para desmantelar al Estado tradicional y reemplazarlo por un **Estado-Plataforma** privado.
+## Contexto
 
-## Análisis (Tiers)
-
-### Tier B (El Estratégico De La Economía Del Conocimiento)
-
-- **Subsidios para el Billonario:** Inexplicablemente para un defensor del libre mercado, Mercado Libre es uno de los mayores beneficiarios de la **Ley de Economía del Conocimiento** en Argentina, recibiendo exenciones impositivas millonarias financiadas por el mismo Estado que Galperin critica desde su residencia fiscal en Uruguay. Es el modelo de Tier B: **Capitalismo para el pueblo, privilegios para la cúpula**.
-- **La Batalla contra los Sindicatos:** Galperin personifica la lucha contra el modelo gremial tradicional (Moyano/Camioneros). Su batalla no es por la "libertad", sino por imponer un modelo de logística donde el trabajador es un "usuario del sistema" sin derechos colectivos, optimizando la cadena de suministro para Tier A.
-
-### Tier A (El Conector Con El Capital Global)
-
-- **Heredero de Stanford:** Formado en las canteras de la élite global (Stanford), Galperin aplicó el modelo de Amazon/eBay con una ejecución perfecta en un mercado virgen. Mercado Libre es, esencialmente, la franquicia local del sistema de **Vigilancia Comercial** de Tier A, recolectando datos de consumo de millones de latinoamericanos que son activos valiosísimos para el análisis predictivo global.
-
-## âš¡ Conclusión TL
-
-Marcos Galperin no es el enemigo del Estado; es el **sucesor del Estado**. En un país donde la moneda desaparece, Mercado Pago se convierte en la moneda real. El exilio de Galperin en Uruguay es estético: su poder real gobierna cada vez que un argentino escanea un código QR para comprar pan.
-
----
+Galperin importa en TL por la convergencia entre marketplace, pagos, bancarización, datos de consumo y alianza con discursos de desregulación.
 
 ## Conexiones
 
-- [[Mercado Libre]] / [[Mercado Pago]]
-- [[Javier Milei]] (Vínculo ideológico y político)
-- [[Tecnofeudalismo]]
-- [[Hugo Moyano]] (Enemigo existencial)
-- [[Eduardo Elsztain]] (Inversor temprano)
+- [[Mercado Libre]]
+- [[Mercado Pago]]
+- [[Javier Milei]]
+- [[Argentina]]
 
-## Fuentes
+## Observación operativa
 
-- Balances trimestrales de MercadoLibre (SEC filings).
-- Informes de la AFIP sobre los beneficios fiscales de la Ley de Economía del Conocimiento.
-- Entrevistas y editoriales de Galperin en X (Twitter).
+Más que “empresa tech”, Mercado Libre aparece como infraestructura privada de circulación comercial y financiera.

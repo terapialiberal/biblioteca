@@ -2,9 +2,10 @@
 titulo: Atanor (Presión Social)
 tipo: "evento"
 fecha: 2026-02-25
+estado: activo
 tags: [atanor]
-tier-primario: "b"
-nivel-evidencia: "alto"
+tier_primario: "b"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -16,9 +17,3 @@ publish: true
 ## Análisis Forense
 
 - El secreto del Atanor es no dejar que el fuego se apague. El Tier B gestiona el combustible (noticias, crisis) para asegurar que la masa social esté siempre bajo la presión necesaria para aceptar el siguiente cambio sistémico.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Dinámicas de grupo y gestión de la tensión sistémica.
-**Estado:** 2026-02-25 | Informe Activo

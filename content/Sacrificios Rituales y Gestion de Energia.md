@@ -2,9 +2,10 @@
 titulo: Sacrificios Rituales Y Gestión De Energía
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [energa, gestin, rituales, satanismo]
-tier-primario: "a"
-nivel-evidencia: "alto"
+tier_primario: "a"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -37,9 +38,3 @@ publish: true
 ## Cui Bono
 
 ¿Quién gana? Los **Cosechadores del Dolor**. El sacrificio ritual asegura que la frecuencia del planeta se mantenga en el miedo (supervivencia), impidiendo que la humanidad acceda a estados de conciencia soberanos que harían obsoleto el sistema de control de Tier A.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Cibernética del trauma y economía energética del dolor.
-**Estado:** 2026-02-25 | Informe Activo

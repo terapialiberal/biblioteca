@@ -2,9 +2,10 @@
 titulo: Ordo Templi Orientis (OTO)
 tipo: "persona"
 fecha: 2026-02-25
+estado: activo
 tags: [jack, ordo, orientis, templi]
-tier-primario: "b"
-nivel-evidencia: "alto"
+tier_primario: "b"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -39,9 +40,3 @@ publish: true
 ## Cui Bono
 
 ¿Quién gana? El **Tier A** globalista. Al fomentar la "libertad sin límites" (Hacé lo que quieras), se destruye la cohesión familiar y comunitaria, dejando al individuo como un átomo aislado frente al poder absoluto del Estado y las corporaciones.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Análisis de redes de inteligencia y ocultismo operativo.
-**Estado:** 2026-02-25 | Informe Activo

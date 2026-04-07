@@ -2,8 +2,9 @@
 titulo: Club de Madrid
 tipo: "entidad"
 fecha: 2026-03-04
-tier-primario: "b"
-nivel-evidencia: "alto"
+tier_primario: "b"
+nivel_evidencia: "alto"
+estado: activo
 tags: [agenda-2030, globalismo, presidentes, tier-b, influencia]
 publish: true
 ---
@@ -34,7 +35,3 @@ En el contexto de la fragmentación global, el Club de Madrid actúa como el peg
 ## 📊 Cui Bono
 
 El **Tier A** captura un mundo con legislaciones homogéneas que facilitan el flujo de capital transnacional sin las "molestias" de la soberanía nacional real.
-
----
-
-_TL V.3 | Mapeo de Redes de Influencia Global_

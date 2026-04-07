@@ -2,9 +2,10 @@
 titulo: Banca En La Sombra — El Sistema Financiero Paralelo (Shadow Banking)
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [financiero, paralelo, sistema, tokenizacin]
-tier-primario: "a"
-nivel-evidencia: "alto"
+tier_primario: "a"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -48,9 +49,3 @@ publish: true
 ## Cui Bono
 
 **El Dueño del Capital Global**. La banca en la sombra asegura que el capital nunca pierda su capacidad de reproducción, incluso si el sistema oficial colapsa. Es el "Arca de Noé" financiera para los activos de Tier A.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Opacidad financiera, creación de crédito paralelo y control de la liquidez global.
-**Estado:** 2026-02-25 | Informe Activo

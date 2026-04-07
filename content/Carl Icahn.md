@@ -2,8 +2,9 @@
 titulo: Carl Icahn
 tipo: "persona"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [carl, donald, icahn]
 publish: true
 ---

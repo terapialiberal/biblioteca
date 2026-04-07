@@ -2,9 +2,10 @@
 titulo: Logia Lautaro
 tipo: "entidad"
 fecha: 2026-02-25
+estado: activo
 tags: [francisco, lautaro, logia, plan]
-tier-primario: "b"
-nivel-evidencia: "alto"
+tier_primario: "b"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -37,9 +38,3 @@ publish: true
 ## Cui Bono
 
 ¿Quién capturó el activo? El **Imperio Británico**. La Logia Lautaro aseguró que las nuevas naciones nacieran con deudas externas significativas y una dependencia comercial absoluta de los puertos anglo-sajones.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Redes masónicas militares y cambio de régimen geopolítico.
-**Estado:** 2026-02-25 | Informe Activo

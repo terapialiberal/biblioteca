@@ -2,8 +2,9 @@
 titulo: "Familia Pallavicini: Los Arquitectos De La Banca Global"
 tipo: "entidad"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [george, global, nobleza, pallavicini]
 publish: true
 ---
@@ -45,9 +46,3 @@ publish: true
 ## Conclusión Del Análisis
 
 Los Pallavicini son los **Banqueros de los Reyes**. Mientras Rothschild es la cara "visible" de las finanzas desde el siglo XIX, los Pallavicini llevan haciéndolo desde el siglo XIII. Son la prueba de que el capital financiero tiene un linaje aristocrático que precede al capitalismo industrial.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Banca veneciana, diplomacia energética y nobleza negra.
-**Estado:** Informe de Inteligencia Activo.

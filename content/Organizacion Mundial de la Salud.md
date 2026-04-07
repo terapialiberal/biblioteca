@@ -2,8 +2,9 @@
 titulo: "Organización Mundial De La Salud (OMS) [TL V.3]: El Ministerio De La Bioseguridad"
 tipo: "entidad"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [ministerio, mundial, organizacin, salud]
 publish: true
 ---
@@ -24,7 +25,7 @@ publish: true
 
 - **Tedros y el Eje Chino:** El Director General Tedros Adhanom, un político sin formación médica pero con historial en un partido radical en Etiopía, actúa como el interface de Tier B entre los intereses de China y el globalismo de Tier A. Operó ocultando los datos iniciales del COVID-19 para proteger al PCCh, demostrando que la OMS es una herramienta diplomática de coacción, no una entidad científica neutral.
 
-## ¸ Mecanisms De Poder (Biopolíticos)
+## Mecanismos De Poder (Biopolíticos)
 
 1. **Cambio de Definiciones**: Alterar los conceptos de "Pandemia" e "Inmunidad de Rebaño" para beneficiar la venta de fármacos y la implementación de restricciones sociales masivas.
 2. **Infodemia y Censura**: Uso de la OMS como el árbitro de la verdad médica en las redes sociales de Tier B, obligando a las plataformas a eliminar cualquier información que contradiga el guion de Ginebra.
@@ -40,9 +41,3 @@ publish: true
 ## Conclusión Del Análisis
 
 La OMS es la oficina de administración de nuestra biología. Nos enseña que en la Matrix avanzada, el cuerpo humano es propiedad del Estado global. Ya no somos ciudadanos con derechos inalienables, sino "unidades de riesgo sanitario" que deben ser procesadas, inyectadas y monitorizadas. Entender la OMS es entender que la salud se ha convertido en el pretexto para el control más absoluto que la humanidad ha conocido. La única salud real es la que se recupera mediante la soberanía personal y el rechazo a la dictadura de los expertos de Ginebra.
-
----
-
-**Versión:** 2.0
-**Enfoque:** Captura corporativa por Bill Gates, el Tratado de Pandemias como herramienta de centralización de poder y el uso de la bioseguridad para anular la soberanía nacional.
-**Estado:** Refactoreado a TL V.3 - Framework de Biopoder Global.

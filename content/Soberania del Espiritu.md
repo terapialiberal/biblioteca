@@ -2,9 +2,10 @@
 titulo: Soberanía Del Espíritu
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [derecho, espritu, gnosis, soberana]
-tier-primario: "a"
-nivel-evidencia: "alto"
+tier_primario: "a"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -36,9 +37,3 @@ publish: true
 ## Cui Bono
 
 ¿Quién gana? **El Individuo**. La Soberanía del Espíritu es el único activo que el sistema no puede confiscar, hackear o tokenizar. Es el punto final de toda la investigación forense: recuperar el mando sobre la propia existencia.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Emancipación final y desarticulación de los mecanismos de control.
-**Estado:** 2026-02-25 | Informe Activo

@@ -2,9 +2,10 @@
 titulo: Hermetismo De Praga (El Nodo De La Ingeniería Artificial)
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [hermetismo, praga]
-tier-primario: "a"
-nivel-evidencia: "alto"
+tier_primario: "a"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -22,9 +23,3 @@ publish: true
 ### 2. Rodolfo II Y La Red De Sabios
 
 - El emperador actuó como un mecenas de Tier A, reuniendo a John Dee, Tycho Brahe y Johannes Kepler para mapear el cielo y los metales, proveyendo al Sistema de los mapas necesarios para la navegación y la minería que financiarían los siglos venideros.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Historia de la técnica esotérica y proto-cibernética europea.
-**Estado:** 2026-02-25 | Informe Activo

@@ -1,8 +1,9 @@
 ---
 titulo: Señoreaje
 tipo: "concepto"
-tier-primario: "a"
-nivel-evidencia: "muy-alto"
+tier_primario: "a"
+nivel_evidencia: "muy-alto"
+estado: activo
 tags: [finanzas, robo, banca-central, inflacion]
 publish: true
 ---
@@ -34,7 +35,3 @@ Con las Monedas Digitales de Banco Central ([[CBDC]]), el señoreaje se vuelve *
 - [[Banca Central]]: El ejecutor.
 - [[Impuesto Inflacionario]]: El nombre técnico de la consecuencia.
 - [[Efecto Cantillon]]: A quién beneficia primero el dinero nuevo.
-
----
-
-_TL-INTEL V.3 | Economía Forense_

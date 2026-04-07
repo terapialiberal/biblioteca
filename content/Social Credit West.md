@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-25T16:10:42.672-03:00
-modified: 2026-04-02T13:22:43.891-03:00
+modified: 2026-04-07T10:52:18.675-03:00
 tags:
   - bajo
   - credit
@@ -71,7 +71,3 @@ Es la única forma de gestionar una sociedad global de 8 mil millones de persona
 #### LAGUNAS
 
 ¿Cuál es la relación real entre los algoritmos de crédito social y los sistemas de "seguro de salud dinámico" que ajustan la insulina según los likes del usuario en posts de "comida saludable" en 2026?
-
----
-
-_Dossier forense TL V.2 | La Tiranía del Puntaje Invisible_

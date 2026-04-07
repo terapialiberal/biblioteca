@@ -2,8 +2,9 @@
 titulo: Culto a Saturno (El Cubo Negro)
 tipo: "concepto"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [culto, matrix, negro, saturno]
 publish: true
 ---

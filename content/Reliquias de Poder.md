@@ -2,9 +2,10 @@
 titulo: Reliquias De Poder (Arca Y Grial)
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [poder, reliquias]
-tier-primario: "a"
-nivel-evidencia: "medio"
+tier_primario: "a"
+nivel_evidencia: "medio"
 publish: true
 ---
 
@@ -22,9 +23,3 @@ publish: true
 ### 2. El Grial Y El Linaje
 
 - El "Sangreal" (Sangre Real) vincula el objeto con la genética. Poseer el Grial es poseer el **Dossier Genético del Tier A**. La búsqueda del Grial por parte del Tier C es una distracción mientras el Tier A gestiona la pureza de sus propios linajes en la sombra.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Objetos de soberanía y heráldica de la posesión técnica.
-**Estado:** 2026-02-25 | Informe Activo

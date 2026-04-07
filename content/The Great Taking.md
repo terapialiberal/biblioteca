@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:39.608-03:00
-modified: 2026-03-16T09:15:03.042-03:00
+modified: 2026-04-07T10:52:44.889-03:00
 tags:
   - great
   - taking
@@ -51,9 +51,3 @@ tags:
 - [[Crisis Financiera 2008]] — el ensayo del mecanismo
 - [[BIS]] — coordinador de la armonización legal global
 - [[DTCC]] — el custodio real de toda la riqueza bursátil
-
----
-
-**Versión:** 2.0 (fusión The Great Taking v1.0 + La Gran Toma v1.0)
-**Enfoque:** Arquitectura legal del reseteo patrimonial masivo + análisis Tier A/B/C.
-**Estado:** Activo.

@@ -2,8 +2,9 @@
 titulo: Invasión De Irak 2003
 tipo: "evento"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: ["2003", halliburton, irak, pnac]
 publish: true
 ---

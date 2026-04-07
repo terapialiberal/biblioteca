@@ -1,8 +1,9 @@
 ---
 titulo: Ingenieria de Consentimiento
 tipo: "concepto"
-tier-primario: "b"
-nivel-evidencia: "muy-alto"
+tier_primario: "b"
+nivel_evidencia: "muy-alto"
+estado: activo
 tags: [psicologia, marketing, bernays, control]
 publish: true
 ---
@@ -33,7 +34,3 @@ La ingeniería de consentimiento ahora es **Algorítmica y Personalizada**:
 - [[Edward Bernays]]: El arquitecto original.
 - [[Manufactura de Consenso]]: El concepto de Chomsky (con enfoque TL).
 - [[Nudge Theory]]: El refinamiento conductual moderno.
-
----
-
-_TL-INTEL V.3 | Psicología Forense de Masas_

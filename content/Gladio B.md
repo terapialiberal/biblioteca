@@ -2,8 +2,9 @@
 titulo: Gladio B (La Alianza OTAN-Islam Radical)
 tipo: "persona"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [gladio, islam, otan, radical]
 publish: true
 ---

@@ -2,9 +2,10 @@
 titulo: Mito Del Progreso Lineal
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [lineal, mito, progreso]
-tier-primario: "a"
-nivel-evidencia: "alto"
+tier_primario: "a"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -16,9 +17,3 @@ publish: true
 ## Análisis Forense
 
 - El progreso lineal impide detectar el **Ouroboros del Sistema**. Si el Tier C entendiera que la historia es circular y gestionada, dejaría de invertir emocionalmente en el "futuro" que el Tier A le vende para extraerle el presente.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Cibernética del tiempo y gestión de la esperanza social.
-**Estado:** 2026-02-25 | Informe Activo

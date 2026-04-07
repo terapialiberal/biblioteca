@@ -2,8 +2,9 @@
 titulo: "WEF: El Centro De Reclutamiento (Nivel 2 / Tier B)"
 tipo: "entidad"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [blackrock, centro, reclutamiento, vanguard]
 publish: true
 ---
@@ -52,9 +53,3 @@ graph TD
 ## Conclusión Del Análisis
 
 El WEF es el departamento de Recursos Humanos de la oligarquía transnacional. Su éxito no reside en la fuerza, sino en la capacidad de convencer a los políticos de que el futuro de la humanidad es ser administrados por algoritmos y gestores de activos. 🔴
-
----
-
-**Versión:** 4.0 GOLD
-**Enfoque:** Captura Ideológica
-**Estado:** Informe de Inteligencia Activo

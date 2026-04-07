@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-25T14:11:06.055-03:00
-modified: 2026-04-02T13:15:50.870-03:00
+modified: 2026-04-07T10:50:19.445-03:00
 ---
 
 # Larry Ellison
@@ -65,17 +65,4 @@ Ellison simplemente es un inversor oportunista con suerte poltica. Su inversin e
 
 #### LAGUNAS
 
-## Cul es la participacin exacta de Ellison en el financiamiento oculto de la campaa de Trump 2025/26 va su hijo David Ellison y la compra de Paramount/Warner?
-
-### /rÃ¯Â¿Â½pido Ã¯Â¿Â½ Larry Ellison 2026
-
-```
-TL;DR: Larry Ellison ha dejado de vender software para vender soberanÃ¯Â¿Â½a digital y energÃ¯Â¿Â½a nuclear.
-?? QuiÃ¯Â¿Â½n gana: Oracle (Monopolio de datos soberanos G7).
-?? QuiÃ¯Â¿Â½n pierde: Microsoft/AWS (En contratos gubernamentales IL6/Top Secret).
-?? SeÃ¯Â¿Â½al real: InversiÃ¯Â¿Â½n de \50B en infraestructura propia y reactores nucleares.
-?? Ignorar: Comentarios sobre "bases de datos legacy".
-?? PredicciÃ¯Â¿Â½n: Oracle serÃ¯Â¿Â½ la columna vertebral del "Cerebro Digital" de la administraciÃ¯Â¿Â½n Trump.
-```
-
-_VersiÃ¯Â¿Â½n: 1.0 (TL V.3) | Dossier Forense_
+Cul es la participacin exacta de Ellison en el financiamiento oculto de la campaa de Trump 2025/26 va su hijo David Ellison y la compra de Paramount/Warner?

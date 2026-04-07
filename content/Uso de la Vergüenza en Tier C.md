@@ -2,9 +2,10 @@
 titulo: Uso De La Vergüenza En Tier C
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [vergenza]
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
 publish: true
 ---
 

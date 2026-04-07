@@ -1,40 +1,49 @@
 ---
-titulo: "âš”ï¸ Litio Y Comando Sur: La Militarización De Los Recursos"
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [blackrock, comando, laura, litio]
 publish: true
+aliases:
+  - "Litio Y Comando Sur: La Militarización De Los Recursos"
+created: 2026-01-29T19:17:22.692-03:00
+modified: 2026-04-07T11:48:04.558-03:00
+tags:
+  - litio
+  - comando-sur
+  - recursos
+  - argentina
+  - geopolitica
+  - tl-intel-v3
 ---
 
-# âš”ï¸ Litio Y Comando Sur: La Militarización De Los Recursos
+# [[Litio y Comando Sur]]
 
-> [!ABSTRACT] Resumen de Inteligencia
-> Las declaraciones frontales de la General [[00_Glosario - Conceptos Fase 1#Laura Richardson|Laura Richardson]] (Jefa del Comando Sur de EE.UU.) sobre el "Triángulo del Litio" marcan el fin de la sutileza diplomática. El Pentágono ha identificado explícitamente los recursos naturales de Sudamérica (agua, litio, petróleo) como de vital importancia para la **Seguridad Nacional de EE.UU.** ante el avance de China y Rusia. Esto posiciona al litio no como un bien de mercado, sino como un **Activo Estratégico de Guerra** bajo la tutela directa del aparato militar de **Tier B**.
+> [!abstract] PERFIL TL-INTEL
+> Lectura geopolítica del litio como recurso estratégico bajo creciente atención militar y de seguridad hemisférica.
 
-## Análisis De Poder (Matrix)
+## Contexto
 
-### Tier B: La Doctrina Del Aseguramiento De Recursos
+Las declaraciones del Comando Sur sobre el “Triángulo del Litio” muestran que el recurso dejó de ser solo commodity. En TL se lo lee como activo de disputa entre seguridad, cadenas tecnológicas, capital minero y competencia con China.
 
-- **La Tesis de Richardson:** _"¿Por qué es importante esta región? Por todos sus ricos recursos y elementos de tierras raras, el triángulo del litio"_. Esta frase sintetiza el retorno de la Doctrina Monroe en versión Siglo XXI: control de la cadena de suministro de baterías para la hegemonía tecnológica y militar.
-- **Contención de China:** El Comando Sur actúa como el "buffer" para impedir que empresas chinas logren el control total de los yacimientos en Argentina, Chile y Bolivia. El litio es el nuevo petróleo, y EE.UU. no permitirá que un rival estratégico controle el "grifo" de la energía del futuro.
+## Capas de análisis
 
-### Tier A: La Sincronización Oro-Espada
+### Tier B
 
-- **Follow the Money:** El interés del Comando Sur coincide matemáticamente con los intereses de accionistas como [[BlackRock]] y [[Vanguard]] en las mineras locales ([[Livent]]/[[Arcadium]]). El poder militar de Tier B asegura el entorno operativo para que el capital de Tier A extraiga el valor sin fricciones.
+El aparato militar formula la narrativa de aseguramiento de recursos y contención estratégica.
 
-## âš¡ Conclusión De Terapia Liberal
+### Tier A
 
-Cuando una General de cuatro estrellas habla de "nuestros recursos" refiriéndose a lo que hay bajo el suelo argentino, el Kayfabe de la soberanía nacional se termina. Argentina es hoy un **Campo de Batalla Logístico**. Richardson no es una visitante; es una inspectora de activos de una oligarquía que no reconoce fronteras cuando hay tierras raras en juego.
+Fondos, mineras y redes financieras se benefician de un entorno geopolítico estabilizado a su favor.
 
----
+### Territorio
 
-## Conexiones De La Red
+Argentina, Chile y Bolivia aparecen menos como soberanías plenas y más como nodos de extracción dentro de una disputa mayor.
 
-- **El Actor Clave:** [[00_Glosario - Conceptos Fase 1#Laura Richardson|Laura Richardson]], [[Comando Sur (SOUTHCOM)]].
-- **El Recurso:** [[00_Glosario - Conceptos Fase 1#Litio en Jujuy (Livent)|Litio en Jujuy (Livent)]], [[Triángulo del Litio]], [[Acuífero Guaraní]].
-- **La Amenaza:** [[China]], [[Rusia]], [[BRICS]].
-- **Conceptos:** [[Doctrina Monroe 2.0]], [[Soberanía de Recursos]].
+## Conexiones
 
-**Estado:** Refactoreado a TL V.3 - Framework de Geopolítica Militar.
+- [[Laura Richardson]]
+- [[BlackRock]]
+- [[Vanguard Group]]
+- [[Arcadium]]
+- [[Argentina]]
+
+## Observación operativa
+
+Cuando seguridad nacional extranjera empieza a hablar de “nuestros recursos” en Sudamérica, el debate ya no es solo económico. Es geopolítico y logístico.

@@ -2,8 +2,9 @@
 titulo: Virality Project
 tipo: "persona"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [project, renee, stanford, virality]
 publish: true
 ---

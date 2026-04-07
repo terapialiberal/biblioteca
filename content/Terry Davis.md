@@ -2,8 +2,9 @@
 titulo: Terry Davis
 tipo: "persona"
 fecha: 2026-03-04
-tier-primario: "c"
-nivel-evidencia: "medio"
+tier_primario: "c"
+nivel_evidencia: "medio"
+estado: activo
 tags: [temple-os, programacion, resistencia, salud-mental, cia]
 publish: true
 ---
@@ -33,7 +34,3 @@ Davis afirmaba ser perseguido por "Glowies" (agentes de la CIA que brillan en la
 ## 📊 Cui Bono
 
 Su muerte (atropellado por un tren en 2018) eliminó una de las voces más brillantes y disruptivas del subsuelo técnico. El **Tier B** prefiere programadores que operen dentro de sus sandboxes (ver [[Google]]).
-
----
-
-_TL V.3 | Perfil de Resistencia Técnica y Disidencia_

@@ -2,9 +2,10 @@
 titulo: Hermetic Order of the Golden Dawn
 tipo: "entidad"
 fecha: 2026-02-25
+estado: activo
 tags: [alistair, golden, order, ordo]
-tier-primario: "b"
-nivel-evidencia: "alto"
+tier_primario: "b"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -38,9 +39,3 @@ publish: true
 ## Cui Bono
 
 ¿Quién capturó el activo? El **Estado Británico**. La Golden Dawn proveyó al imperio de una elite intelectual iniciada en técnicas de manipulación simbólica que fueron fundamentales para la guerra psicológica moderna.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Reclutamiento de inteligencia y simbolismo operativo.
-**Estado:** 2026-02-25 | Informe Activo

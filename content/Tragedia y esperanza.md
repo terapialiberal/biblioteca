@@ -3,6 +3,7 @@ titulo: Tragedia Y Esperanza
 tipo: "concepto"
 source: "https://wikispooks.com/wiki/Tragedy_and_Hope"
 fecha: 1966
+estado: activo
 tags: [quigley, historia, elite, global]
 publish: true
 ---

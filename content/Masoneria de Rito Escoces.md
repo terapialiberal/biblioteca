@@ -2,9 +2,10 @@
 titulo: Masonería De Rito Escocés
 tipo: "entidad"
 fecha: 2026-02-25
+estado: activo
 tags: [albert, complejo, escocs, masonera]
-tier-primario: "a"
-nivel-evidencia: "total"
+tier_primario: "a"
+nivel_evidencia: "total"
 publish: true
 ---
 
@@ -37,9 +38,3 @@ publish: true
 ## Cui Bono
 
 ¿Quién gana? El **Orden Establecido**. El Rito Escocés previene revoluciones internas y asegura que las transiciones de poder sean lentas y controladas por una elite administrativa iniciada en el secreto.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Estructura administrativa de poder y cuadros militares.
-**Estado:** 2026-02-25 | Informe Activo

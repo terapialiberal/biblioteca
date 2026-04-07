@@ -1,8 +1,9 @@
 ---
 titulo: Tokenizacion de Activos Reales (RWA)
 tipo: "concepto"
-tier-primario: "a"
-nivel-evidencia: "muy-alto"
+tier_primario: "a"
+nivel_evidencia: "muy-alto"
+estado: activo
 tags: [finanzas, blockchain, rwa, control-tangible]
 publish: true
 ---
@@ -33,7 +34,3 @@ Bajo la narrativa de "inclusión financiera" y "eficiencia", el proyecto de Real
 - [[The Great Taking]]: El marco legal que permite esta captura.
 - [[Smart Contracts]]: La ley algorítmica del RWA.
 - [[CBDC]]: El combustible monetario del sistema.
-
----
-
-_TL-INTEL V.3 | Arquitectura Financiera 2026_

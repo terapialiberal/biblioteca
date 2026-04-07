@@ -2,9 +2,10 @@
 titulo: Cárteles — La Ilusión De La Competencia
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [competencia, crteles, ilusin, plan]
-tier-primario: "a"
-nivel-evidencia: "alto"
+tier_primario: "a"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -50,9 +51,3 @@ publish: true
 ## Cui Bono
 
 **La Estructura de Poder Transnacional**. Los cárteles eliminan la frontera nacional y transforman el mundo en un solo tablero de gestión de recursos.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Acuerdos colusorios, fijación de precios y control de suministros críticos.
-**Estado:** 2026-02-25 | Informe Activo

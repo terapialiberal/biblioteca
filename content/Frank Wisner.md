@@ -2,8 +2,9 @@
 titulo: "Frank Wisner: El Director De La Orquesta De Mentiras"
 tipo: "persona"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [director, frank, mentiras, orquesta]
 publish: true
 ---
@@ -45,9 +46,3 @@ publish: true
 ## Conclusión Del Análisis
 
 Frank Wisner es el padre de las **Fake News estatales**. Nos enseña que la "prensa libre" de la Guerra Fría fue en gran parte una operación de inteligencia. Su "Mighty Wurlitzer" sigue sonando hoy, solo que ahora es digital y automático (bots), pero la partitura es la misma: manipular la mente del público para servir al imperio.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Propaganda CIA, Operación Mockingbird y control de medios masivos.
-**Estado:** Informe de Inteligencia Activo.

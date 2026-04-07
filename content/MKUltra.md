@@ -2,8 +2,9 @@
 titulo: "MKUltra: Control Mental Y Manipulación Psicológica"
 tipo: "concepto"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [control, manipulacin, mkultra, sidney]
 publish: true
 ---
@@ -40,9 +41,3 @@ publish: true
 ## Conclusión Del Análisis
 
 MKUltra es la prueba de que la oligarquía no duda en experimentar con humanos para desarrollar herramientas de control mental.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Análisis de Control Mental
-**Estado:** Informe de Inteligencia Activo

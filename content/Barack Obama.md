@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:04.802-03:00
-modified: 2026-02-26T21:00:35.601-03:00
+modified: 2026-04-07T14:42:22.295-03:00
 tags:
   - barack-obama
   - presidencia-eeuu
@@ -14,7 +14,7 @@ tags:
 
 ## Perfil TL (Resumen Ejecutivo)
 
-**¿Quién es?** 44Âº Presidente de los Estados Unidos (2009-2017). Presentado como un _outsider_ disruptivo y símbolo de esperanza, fue en realidad el producto más depurado de la ingeniería política del establishment.
+**Quien es?** 44o Presidente de los Estados Unidos (2009-2017). Presentado como un _outsider_ disruptivo y simbolo de esperanza, fue en realidad el producto mas depurado de la ingenieria politica del establishment.
 
 **¿Por qué importa?** Obama fue el presidente de la **"Normalización de la Tiranía"**. Bajo una narrativa de paz (Premio Nobel 2009), bombardeó siete países, expandió la vigilancia de la NSA a niveles orwellianos y persiguió a más whistleblowers que todos sus predecesores juntos. Sus vínculos con la comunidad de inteligencia (específicamente la [[CIA]]) antes de entrar en política sugieren que fue un activo "creado" para salvar el prestigio del imperio tras el desastre de Bush.
 

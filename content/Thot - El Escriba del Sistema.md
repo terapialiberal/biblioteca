@@ -2,9 +2,10 @@
 titulo: Thot - El Escriba Del Sistema
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [escriba, sistema, thot]
-tier-primario: "a"
-nivel-evidencia: "alto"
+tier_primario: "a"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -22,9 +23,3 @@ publish: true
 ### Tier B (Operadores / Ejecutores)
 
 - **Científicos, Notarios y Programadores**: Son los escribas de Thot. Su función es codificar la realidad en números y leyes que el Tier C debe obedecer sin entender su origen.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Cibernética del registro y control de la base de datos civilizatoria.
-**Estado:** 2026-02-25 | Informe Activo

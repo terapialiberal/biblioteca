@@ -2,9 +2,10 @@
 titulo: Iniciación De Muerte En Vida
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [masonera, muerte, skull, vida]
-tier-primario: "a"
-nivel-evidencia: "medio"
+tier_primario: "a"
+nivel_evidencia: "medio"
 publish: true
 ---
 
@@ -36,9 +37,3 @@ publish: true
 ## Cui Bono
 
 ¿Quién gana? La **Elite Inmutable**. La iniciación de muerte en vida asegura que el poder nunca sea permeable para los no-iniciados, creando una barrera psíquica insalvable entre los que "saben" (porque han muerto) y los que "creen" (porque siguen vivos en la simulación).
-
----
-
-**Versión:** 1.0
-**Enfoque:** Psicología de la iniciación y desvinculación moral.
-**Estado:** 2026-02-25 | Informe Activo

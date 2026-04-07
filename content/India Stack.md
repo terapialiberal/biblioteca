@@ -2,8 +2,9 @@
 titulo: "India Stack (Aadhaar): El Plano Maestro Del Control Digital"
 tipo: "persona"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [aadhaar, digital, plano, stack]
 publish: true
 ---
@@ -44,9 +45,3 @@ publish: true
 - [[Worldcoin (Orb)]]: Aadhaar es la versión estatal; Worldcoin es la versión corporativa del mismo collar digital.
 - [[Scott Bessent]]: El Tesoro de EEUU observa el éxito de UPI para el despliegue de FedNow.
 - [[Digital ID - Global Protocol]]: El objetivo final de la convergencia de estas redes.
-
----
-
-**Falsabilidad**: Si se produce un robo masivo de datos biométricos que colapse la confianza en el sistema o si surge una red de pagos P2P encriptada (tipo Monero/Cash) que logre escala masiva en la India, el modelo Stack de control centralizado se vería seriamente amenazado.
-
-_Versión: 1.0 | Protocolo TL-INTEL TL V.3_

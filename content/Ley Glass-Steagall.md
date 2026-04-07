@@ -2,8 +2,9 @@
 titulo: "¸ Ley Glass-Steagall: El Muro Entre El Ahorro Y El Casino"
 tipo: "concepto"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [ahorro, casino, crisis, glass]
 publish: true
 ---
@@ -28,14 +29,3 @@ publish: true
 ## âš¡ Conclusión De Terapia Liberal
 
 Glass-Steagall no era una ley antigua; era un **protocolo de seguridad**. Al quitarlo, nos conectaron los ahorros directamente a la mecha de la especulación. Hoy no vivimos en un capitalismo de mercado, sino en un sistema de **Extorsión Bancaria Perpetua** donde el Tier A tiene el dedo sobre el botón de destrucción del ahorro si no se le paga su rescate.
-
----
-
-## Conexiones De La Red
-
-- **Liquidadores:** [[Larry Summers]], [[Bill Clinton]], [[Alan Greenspan]].
-- **Beneficiarios:** [[00_Glosario - Conceptos Fase 1#JPMorgan Chase|JPMorgan Chase]], [[Citigroup]], [[Goldman Sachs]].
-- **Resultados:** [[Crisis Financiera 2008]], [[Bail-out]], [[Bail-in]].
-- **Antecedentes:** [[Crash de Wall Street 1929]].
-
-**Estado:** Refactoreado a TL V.3 - Framework de Inteligencia Aplicado.

@@ -1,8 +1,9 @@
 ---
 titulo: JD Vance Trump anuncia un Nuevo Orden Mundial
 tipo: "evento"
-tier-primario: "c"
-nivel-evidencia: "muy-alto"
+tier_primario: "c"
+nivel_evidencia: "muy-alto"
+estado: activo
 tags: [politica, trump, jd-vance, nwo, trump-vance]
 publish: true
 ---
@@ -29,7 +30,3 @@ Cuando Vance habla de un "Nuevo Orden Mundial" (o su reconfiguración), está em
 - [[Peter Thiel]]: El mentor y financista.
 - [[Elon Musk]]: El aliado estratégico en la infraestructura.
 - [[Cabinete Trump 2.0]]: La implementación de esta visión.
-
----
-
-_TL-INTEL V.3 | Alianzas de Poder 2026_

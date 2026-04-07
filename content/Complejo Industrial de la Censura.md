@@ -1,8 +1,9 @@
 ---
 titulo: Complejo Industrial de la Censura
 tipo: "entidad"
-tier-primario: "b"
-nivel-evidencia: "muy-alto"
+tier_primario: "b"
+nivel_evidencia: "muy-alto"
+estado: activo
 tags: [vigilancia, narrativa, censura, inteligencia]
 publish: true
 ---
@@ -32,7 +33,3 @@ El complejo opera bajo la fachada de "combate a la desinformación" (MIS-DIS-MAL
 - [[Twitter Files]]: La mayor filtración documental del complejo.
 - [[Cognitive Warfare]]: El objetivo final.
 - [[Palantir CIA]]: La infraestructura técnica.
-
----
-
-_TL-INTEL V.3 | Guerra Narrativa_

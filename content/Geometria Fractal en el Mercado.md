@@ -2,9 +2,10 @@
 titulo: Geometría Fractal En El Mercado (Predación Matemática)
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [fractal, geometra, mercado, ondas]
-tier-primario: "a"
-nivel-evidencia: "total"
+tier_primario: "a"
+nivel_evidencia: "total"
 publish: true
 ---
 
@@ -36,9 +37,3 @@ publish: true
 ## Cui Bono
 
 ¿Quién gana? Los **Dueños de la Liquidez**. La geometría fractal en el mercado asegura que la transferencia de riqueza del Tier C al Tier A sea una ley matemática tan inquebrantable como la gravedad, ocurriendo en silencio bajo la apariencia de "libre mercado".
-
----
-
-**Versión:** 1.0
-**Enfoque:** Depredación financiera basada en la matemática de la complejidad.
-**Estado:** 2026-02-25 | Informe Activo

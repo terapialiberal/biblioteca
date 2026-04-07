@@ -2,8 +2,9 @@
 publish: true
 titulo: Masoud Pezeshkian
 tipo: "persona"
-tier-primario: 'c'
-nivel-evidencia: 'alto'
+tier_primario: 'c'
+nivel_evidencia: 'alto'
+estado: activo
 tags: [iran, presidente, teatro-politico]
 ---
 
@@ -21,7 +22,3 @@ Dentro de la taxonomía TL, Pezeshkian opera en el Tier C (Teatro). Aunque su el
 
 - **[[Ali Khamenei]]**: Subordinado jerárquico.
 - **[[Abbas Araghchi]]**: Su ejecutor diplomático clave.
-
----
-
-_TL V.3 | 2026-03-04_

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-25T15:45:47.484-03:00
-modified: 2026-04-02T13:22:43.920-03:00
+modified: 2026-04-07T10:52:24.503-03:00
 tags:
   - jennifer
   - manufactura
@@ -71,7 +71,3 @@ Es la herramienta de salvación ecológica más potente que tenemos. Podemos dis
 #### LAGUNAS
 
 ¿Hasta qué punto la biología sintética está siendo utilizada para crear "contramedidas biológicas" para etnias específicas basándose en sus marcadores genéticos únicos?
-
----
-
-_Dossier forense TL V.2 | La Manufactura de la Existencia_

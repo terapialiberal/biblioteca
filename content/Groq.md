@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-25T14:51:26.243-03:00
-modified: 2026-04-02T13:15:50.996-03:00
+modified: 2026-04-07T10:49:05.491-03:00
 ---
 
 # Groq
@@ -65,6 +65,4 @@ Groq es solo una optimizacin tcnica, no un cambio de paradigma de poder. Es la e
 
 #### LAGUNAS
 
-## Quines son los inversores reales detrs de la expansin de Groq en Oriente Medio, y qu acceso a los datos de inferencia estn exigiendo a cambio del financiamiento?
-
-_Dossier forense TL V.3 | Acelerando la Matrix Cognitiva_
+Quines son los inversores reales detrs de la expansin de Groq en Oriente Medio, y qu acceso a los datos de inferencia estn exigiendo a cambio del financiamiento?

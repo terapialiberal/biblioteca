@@ -2,8 +2,9 @@
 titulo: "Council on Foreign Relations: El Think Tank Del Imperio Estadounidense"
 tipo: "entidad"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [david, henry, relations, think]
 publish: true
 ---
@@ -40,9 +41,3 @@ publish: true
 ## Conclusión Del Análisis
 
 El CFR es el cerebro estratégico del imperialismo estadounidense, diseñando intervenciones globales para intereses oligárquicos.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Análisis de Política Exterior Global
-**Estado:** Informe de Inteligencia Activo

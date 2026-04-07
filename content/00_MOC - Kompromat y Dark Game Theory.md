@@ -1,45 +1,49 @@
 ---
 publish: true
-titulo: 00_MOC - Kompromat y Dark Game Theory
-tipo: "concepto"
-fecha: 2026-03-01
-tags: [00-moc, kompromat, operaciones-inteligencia, axioma-kompromat]
+created: 2026-03-01T09:01:58.171-03:00
+modified: 2026-04-07T10:47:07.698-03:00
+tags:
+  - moc
+  - kompromat
+  - dark-game-theory
+  - chantaje
+  - tl-intel-v3
 ---
 
-# 00 MOC — KOMPROMAT Y DARK GAME THEORY
+# MOC - Kompromat y Dark Game Theory
 
-> [!ABSTRACT] Misión Forense
-> Este archivo indaga en el mecanismo de estabilización política más eficiente: la extorsión sistemática. El _Kompromat_ (material comprometedor) garantiza que la clase política (Tier C) nunca desobedezca a los ejecutores (Tier B) ni a los dueños (Tier A), resolviendo el _Problema del Agente-Principal_ a través del chantaje destructivo mutuamente asegurado (Nash).
+> El chantaje resuelve el problema del agente-principal cuando la obediencia política no puede garantizarse solo con incentivos visibles.
 
-## 1. Operaciones Físicas (Honey Traps)
+## Resumen
 
-_Redes de tráfico e infiltración humana para recolección de evidencia._
+- El kompromat es un mecanismo de estabilización.
+- Convierte vulnerabilidad privada en obediencia pública.
+- Importa tanto el material comprometedor como su administración selectiva.
+
+## Operaciones Físicas
 
 - [[Red Epstein-Maxwell (Trampa de Inteligencia)]]
+- [[Honey Pot (Operación)]]
+- [[Honeypot (Operacion de Inteligencia)]]
 - [[Operación Gladio (Estrategia de Tensión)]]
 
-## 2. Cibernética y Vigilancia Total
-
-_Algoritmos de recolección pasiva de secretos. El Kompromat digital._
+## Vigilancia y Recolección Digital
 
 - [[Pegasus Spyware (NSO Group)]]
 - [[Palantir]]
-- [[Five Eyes (Los Cinco Ojos)]]
+- [[Cinco Ojos (Five Eyes)]]
+- [[NSO Group]]
+- [[PRISM (Programa)]]
 
-## 3. Tácticas Narrativas
-
-_Cómo se usa el material coleccionado para alterar los ciclos de noticias y destruir disidentes._
+## Tácticas Narrativas
 
 - [[Volcado Selectivo de Información]]
 - [[Limited Hangout]]
 - [[Gaslighting (Político)]]
+- [[Archivos Epstein (2026)]]
 
----
+## Nodos Relacionados
 
-_Pertenencia: [[00_Mapa_de_Poder_Global_A-Z]] | [[00_MOC - Base de Conocimiento]]_
-
-## 🔍 NODOS DETECTADOS (AUDITORIA 2026)
-
-- [[Ari Ben-Menashe]]
-- [[Honey Pot]]
-- [[Honeypot]]
+- [[00_MOC - Operaciones Encubiertas]]
+- [[00_MOC - Operaciones Psicologicas]]
+- [[Jeffrey Epstein]]

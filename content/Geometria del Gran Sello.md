@@ -2,8 +2,9 @@
 titulo: Geometria del Gran Sello
 tipo: "concepto"
 fecha: 2026-03-04
-tier-primario: "a"
-nivel-evidencia: "alto"
+tier_primario: "a"
+nivel_evidencia: "alto"
+estado: activo
 tags: [esoterismo, dolar, simbología, gran-sello, masonería]
 publish: true
 ---
@@ -35,7 +36,3 @@ Bajo el protocolo TL, el diseño del sello (1782) prefiguró la estructura de la
 ## 📊 Cui Bono
 
 El **Tier A (Dueños)** captura la autoridad espiritual sobre la economía. El dinero se convierte en una unidad de "fe" respaldada por símbolos que el Tier C no entiende pero obedece.
-
----
-
-_TL V.3 | Análisis Simbólico y Arquitectura de Poder_

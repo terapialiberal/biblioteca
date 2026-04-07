@@ -2,9 +2,10 @@
 titulo: CIA Narcotráfico — El Motor Del Presupuesto Negro
 tipo: "entidad"
 fecha: 2026-02-25
+estado: activo
 tags: [gary, mena, narcotrfico]
-tier-primario: "a"
-nivel-evidencia: "alto"
+tier_primario: "a"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -49,9 +50,3 @@ publish: true
 ## Cui Bono
 
 **El Complejo de Inteligencia y los Bancos Globales**. El narcotráfico provee la "Caja Chica" ilimitada para operaciones de desestabilización global sin rendición de cuentas pública.
-
----
-
-**Versión:** 2.0 (Deepened)
-**Enfoque:** Financiamiento encubierto, control social y lavado de dinero institucional.
-**Estado:** 2026-02-25 | Informe Activo

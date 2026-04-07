@@ -2,8 +2,9 @@
 titulo: Fernando De La Rúa
 tipo: "concepto"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [crisis, domingo, fernando]
 publish: true
 ---
@@ -12,7 +13,7 @@ publish: true
 
 ## Perfil TL (Resumen Ejecutivo)
 
-**¿Quién fue?** 48Âº Presidente de la Nación Argentina (1999-2001), primer mandatario de la coalición "La Alianza".
+**Quien fue?** 48o Presidente de la Nacion Argentina (1999-2001), primer mandatario de la coalicion "La Alianza".
 
 **¿Por qué importa?** De la Rúa es el **símbolo del colapso del Tier B político bajo la presión del Tier A financiero**. Su presidencia heredó una estructura de deuda insostenible (la Convertibilidad) que el **[[FMI]]** y los acreedores internacionales se negaron a refinanciar sin ajustes salvajes. De la Rúa, un operador débil e indeciso, intentó salvar el sistema mediante el **"Megacanje"** y el **"Blindaje"** (maniobras financieras que beneficiaron a los bancos de Tier A a costa de aumentar la deuda pública), pero finalmente fue abandonado por sus propios jefes externos. Su caída en diciembre de 2001, escapando en helicóptero de una Casa Rosada rodeada de protestas y represión, marcó el fin de la ilusión democrática de la posdictadura y el inicio de una era de control político directo mediante el caudillismo y la emisión monetaria.
 

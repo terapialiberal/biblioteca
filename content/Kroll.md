@@ -2,8 +2,9 @@
 titulo: "Kroll: Los Detectives Del Capital"
 tipo: "concepto"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [blackwater, capital, detectives, kroll]
 publish: true
 ---
@@ -44,9 +45,3 @@ publish: true
 ## Conclusión Del Análisis
 
 Kroll es la demostración de que la **información es una mercancía**. En el capitalismo de vigilancia, la justicia no la imparte el estado, sino que la compra quien puede pagar los honorarios de Kroll para encontrar las pruebas (o enterrarlas).
-
----
-
-**Versión:** 1.0
-**Enfoque:** Inteligencia corporativa, rastreo de activos y privatización del espionaje.
-**Estado:** Informe de Inteligencia Activo.

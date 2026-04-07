@@ -2,8 +2,9 @@
 titulo: "Transhumanismo: La Evolución Post-Humana Dirigida"
 tipo: "concepto"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [dirigida, klaus, post, transhumanismo]
 publish: true
 ---
@@ -40,9 +41,3 @@ publish: true
 ## Conclusión Del Análisis
 
 El transhumanismo es el mecanismo de la oligarquía para crear una nueva especie que les sirva y eliminar la humanidad natural que no puede ser controlada.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Análisis de Control Biológico
-**Estado:** Informe de Inteligencia Activo

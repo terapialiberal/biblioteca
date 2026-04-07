@@ -2,9 +2,10 @@
 titulo: Tráfico De Armas — La Logística De La Guerra Perpetua
 tipo: "evento"
 fecha: 2026-02-25
+estado: activo
 tags: [guerra, irn, logstica, viktor]
-tier-primario: "a"
-nivel-evidencia: "alto"
+tier_primario: "a"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -49,9 +50,3 @@ publish: true
 ## Cui Bono
 
 **El Complejo Militar e Industrial-Financiero**. La guerra es el negocio más lucrativo porque consume activos (municiones/vidas) a una velocidad que obliga a la reposición constante mediante nueva deuda.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Logística de guerra, financiamiento encubierto y control territorial.
-**Estado:** 2026-02-25 | Informe Activo

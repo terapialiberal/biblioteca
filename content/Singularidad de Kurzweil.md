@@ -2,9 +2,10 @@
 titulo: Singularidad De Kurzweil (Apotheosis)
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [kurzweil, neuralink, singularidad, transhumanismo]
-tier-primario: "a"
-nivel-evidencia: "medio"
+tier_primario: "a"
+nivel_evidencia: "medio"
 publish: true
 ---
 
@@ -36,9 +37,3 @@ publish: true
 ## Cui Bono
 
 ¿Quién gana? Los **Inmortales de la Nube**. La Singularidad es el plan final para que la riqueza y el poder del Tier A se vuelvan permanentes, trascendiendo las leyes de la biología y la entropía.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Futurismo como agenda religiosa del Tier A.
-**Estado:** 2026-02-25 | Informe Activo

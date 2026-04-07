@@ -3,9 +3,10 @@ publish: true
 titulo: "B'nai B'rith"
 tipo: "persona"
 fecha: 2026-02-25
+estado: activo
 tags: [aipac, rith]
-tier-primario: "b"
-nivel-evidencia: "total"
+tier_primario: "b"
+nivel_evidencia: "total"
 ---
 
 # B'nai B'rith
@@ -36,9 +37,3 @@ nivel-evidencia: "total"
 ## Cui Bono
 
 ¿Quién gana? La **Red Global de Influencia**. B'nai B'rith asegura que los intereses de sus miembros y patrocinadores de Tier A estén blindados contra las presiones del nacionalismo local o el escrutinio público mediante el uso del lenguaje de los derechos humanos.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Redes de influencia discreta y diplomacia humanitaria.
-**Estado:** 2026-02-25 | Informe Activo

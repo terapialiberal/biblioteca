@@ -1,8 +1,9 @@
 ---
 titulo: Martinismo y Revolución
 tipo: "concepto"
-tier-primario: "a"
-nivel-evidencia: "medio"
+tier_primario: "a"
+nivel_evidencia: "medio"
+estado: activo
 tags: [esoterismo, historia, revolucion, iniciacion, francia]
 publish: true
 ---
@@ -29,7 +30,3 @@ El espíritu martinista de la "re-integración" se manifiesta hoy en las agendas
 - [[Masoneria de Rito Escoces]]: Su rama operativa.
 - [[Sociedad Fabiana]]: El martinismo aplicado al socialismo burocrático.
 - [[Nobleza Negra Veneciana]]: Los verdaderos financistas de estas revoluciones.
-
----
-
-_TL-INTEL V.3 | Historia Iniciática de la Política_

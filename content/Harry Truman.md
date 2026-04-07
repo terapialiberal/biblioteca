@@ -2,8 +2,9 @@
 titulo: Harry S. Truman
 tipo: "persona"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [harry, israel, masonera, truman]
 publish: true
 ---
@@ -12,7 +13,7 @@ publish: true
 
 ## Perfil TL (Resumen Ejecutivo)
 
-**¿Quién fue?** 33Âº Presidente de EE.UU., quien asumió tras la muerte de Franklin D. Roosevelt y gobernó durante el final de la Segunda Guerra Mundial y el inicio de la Guerra Fría.
+**Quien fue?** 33o Presidente de EE.UU., quien asumio tras la muerte de Franklin D. Roosevelt y goberno durante el final de la Segunda Guerra Mundial y el inicio de la Guerra Fria.
 
 **¿Por qué importa?** Harry Truman es el **"Partero del Estado Profundo Moderno" de Tier B**. Bajo su administración se firmó la **National Security Act de 1947**, la ley que dio nacimiento a la **CIA**, al Consejo de Seguridad Nacional y a la Fuerza Aérea, transformando a EE.UU. de una república constitucional en un **Imperio de Seguridad Nacional** permanente. Truman fue el ejecutor del **Ritual Atómico de Hiroshima y Nagasaki**, un acto de terror innecesario (Japón ya buscaba la rendición) diseñado para intimar a la URSS y establecer la hegemonía de Tier A. Además, su condición de **Masón de Grado 33** (Gran Maestro de la Logia de Missouri) asegura que su presidencia estuvo alineada con los planes de la hermandad para el rediseño del orden mundial de posguerra, incluyendo el reconocimiento fulminante del Estado de Israel en contra de los intereses nacionales de su propio país.
 

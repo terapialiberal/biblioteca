@@ -2,9 +2,10 @@
 titulo: Atenea - Estrategia Y Control Civil
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [atenea, civil, control, estrategia]
-tier-primario: "b"
-nivel-evidencia: "alto"
+tier_primario: "b"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -22,9 +23,3 @@ publish: true
 ### 2. Inteligencia Estratégica
 
 - Representa el diseño a largo plazo (20-50 años) de las agendas de Tier A que son ejecutadas quirúrgicamente por el Tier B sin que el Tier C perciba la agresión.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Ingeniería institucional y gestión estratégica de la población.
-**Estado:** 2026-02-25 | Informe Activo

@@ -2,9 +2,10 @@
 titulo: Satanismo Y La Inversión Social
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [alice, inversin, satanismo, social]
-tier-primario: "a"
-nivel-evidencia: "alto"
+tier_primario: "a"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -36,9 +37,3 @@ publish: true
 ## Cui Bono
 
 ¿Quién gana? Los **Dueños de la Sombra**. El satanismo como sistema de inversión asegura que el poder real esté siempre en manos de quienes están dispuestos a cruzar todas las líneas rojas, creando una jerarquía basada en la capacidad de daño y el secreto.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Ética de la transgresión y arquitectura del egoísmo sistémico.
-**Estado:** 2026-02-25 | Informe Activo

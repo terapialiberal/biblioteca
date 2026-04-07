@@ -2,9 +2,10 @@
 titulo: The Pilgrims Society
 tipo: "entidad"
 fecha: 2026-02-25
+estado: activo
 tags: [chatham, city, pilgrims, society]
-tier-primario: "a"
-nivel-evidencia: "alto"
+tier_primario: "a"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -36,9 +37,3 @@ publish: true
 ## Cui Bono
 
 ¿Quién gana? El **Bloque Anglo-Americano**. The Pilgrims Society es el pegamento que mantiene la "Relación Especial" funcionando, asegurando que el poder se mantenga entre Londres y Washington.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Redes de poder transatlánticas y hegemonía anglo-americana.
-**Estado:** 2026-02-25 | Informe Activo

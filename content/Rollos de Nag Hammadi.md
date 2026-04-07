@@ -2,9 +2,10 @@
 titulo: Rollos De Nag Hammadi (La Anomalía Gnóstica)
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [archivos, hammadi, rollos]
-tier-primario: "a"
-nivel-evidencia: "alto"
+tier_primario: "a"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -36,9 +37,3 @@ publish: true
 ## Cui Bono
 
 ¿Quién gana? El **Buscador de Soberanía**. Nag Hammadi proporciona al individuo las coordenadas para identificar los bucles de control de Tier A, permitiendo la des-sincronización del "alma" (energía) respecto a la matriz de consumo y miedo.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Contrainteligencia espiritual y anatomía del sistema demiúrgico.
-**Estado:** 2026-02-25 | Informe Activo

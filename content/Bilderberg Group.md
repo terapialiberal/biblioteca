@@ -2,8 +2,9 @@
 titulo: "Bilderberg Group: La Conferencia Secreta De La Oligarquía"
 tipo: "entidad"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [conferencia, david, henry, oligarqua]
 publish: true
 ---
@@ -40,9 +41,3 @@ publish: true
 ## Conclusión Del Análisis
 
 Bilderberg es el cerebro de la gobernanza global no democrática, donde se decide el destino de naciones en secreto.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Análisis de Gobernanza Secreta
-**Estado:** Informe de Inteligencia Activo

@@ -2,8 +2,9 @@
 titulo: "Continuity of Government: El Plan Para Suspender La Constitución"
 tipo: "concepto"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [constitucin, continuity, fema, suspender]
 publish: true
 ---
@@ -44,9 +45,3 @@ publish: true
 ## Conclusión Del Análisis
 
 El COG es la **Constitución de Repuesto**. Es el reconocimiento tácito de que la democracia liberal es un lujo para tiempos de paz, y que el verdadero sistema de gobierno es una autocracia militar lista para desplegarse al primer signo de inestabilidad real.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Ley Marcial, suspensión constitucional y bases de datos de disidentes.
-**Estado:** Informe de Inteligencia Activo.

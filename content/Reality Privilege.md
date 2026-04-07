@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-25T16:12:41.152-03:00
-modified: 2026-04-02T13:21:56.743-03:00
+modified: 2026-04-07T10:51:33.297-03:00
 tags:
   - apartheid
   - reality
@@ -71,7 +71,3 @@ Es una cuestión de elección personal. Cualquiera puede apagar el móvil y sali
 #### LAGUNAS
 
 ¿Cuáles son los protocolos de "limpieza digital" forzosa que los servicios secretos aplican a sus agentes de Tier B para asegurar que su juicio crítico no se vea afectado por la misma internet muerta que ellos gestionan?
-
----
-
-_Dossier forense TL V.2 | La Nueva Aristocracia de lo Real_

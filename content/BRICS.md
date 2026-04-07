@@ -2,8 +2,9 @@
 titulo: "BRICS: La Alternativa Geopolítica Al Orden Occidental"
 tipo: "concepto"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [banco, brics, geopoltica, occidental]
 publish: true
 ---
@@ -40,9 +41,3 @@ publish: true
 ## Conclusión Del Análisis
 
 BRICS representa el primer desafío estructural serio al orden unipolar, aunque su cohesión interna es frágil.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Análisis de Geopolítica Alternativa
-**Estado:** Informe de Inteligencia Activo

@@ -1,8 +1,9 @@
 ---
 titulo: Arquetipos de Poder
 tipo: "concepto"
-tier-primario: "a"
-nivel-evidencia: "medio"
+tier_primario: "a"
+nivel_evidencia: "medio"
+estado: activo
 tags: [psicologia, autoridad, jung, esoterismo]
 publish: true
 ---
@@ -43,7 +44,3 @@ La IA está siendo entrenada para ocupar estos espacios de forma digital:
 - [[Arquetipos Jungianos]]: Base teórica.
 - [[Psicopatia Corporativa]]: Cuando el arquetipo es ocupado por un predador.
 - [[Modulo Esoterico]]: El análisis simbólico profundo.
-
----
-
-_TL-INTEL V.3 | Psicología del Poder_

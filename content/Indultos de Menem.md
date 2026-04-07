@@ -2,8 +2,9 @@
 titulo: Indultos De Menem
 tipo: "concepto"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [carlos, dictadura, indultos, menem]
 publish: true
 ---

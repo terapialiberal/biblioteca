@@ -2,8 +2,9 @@
 titulo: "Neoconservadurismo: La Ideología Del Imperio Estadounidense"
 tipo: "concepto"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [aipac, ideologa, industria, neoconservadurismo]
 publish: true
 ---
@@ -40,9 +41,3 @@ publish: true
 ## Conclusión Del Análisis
 
 El neoconservadurismo es la ideología que justifica el imperialismo militar estadounidense para beneficio de la oligarquía.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Análisis de Ideología Imperial
-**Estado:** Informe de Inteligencia Activo

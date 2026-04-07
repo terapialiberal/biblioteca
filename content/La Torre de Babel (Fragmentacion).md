@@ -2,9 +2,10 @@
 titulo: La Torre De Babel (Fragmentación De Identidades)
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [babel, fragmentacin, identidad, torre]
-tier-primario: "a"
-nivel-evidencia: "medio"
+tier_primario: "a"
+nivel_evidencia: "medio"
 publish: true
 ---
 
@@ -36,9 +37,3 @@ publish: true
 ## Cui Bono
 
 ¿Quién gana? Los **Unificadores desde la Sombra**. La fragmentación de Babel asegura que el Tier A sea el único árbitro capaz de "traducir" y gestionar el caos que ellos mismos mantienen activo.
-
----
-
-**Versión:** 1.0
-**Enfoque:** División lingüística y social como método de parálisis colectiva.
-**Estado:** 2026-02-25 | Informe Activo

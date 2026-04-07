@@ -2,8 +2,9 @@
 titulo: Experimento Tuskegee
 tipo: "persona"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [experimento, experimentos, rockefeller, tuskegee]
 publish: true
 ---

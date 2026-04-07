@@ -2,8 +2,9 @@
 titulo: "Linux Y Software Libre: La Última Trinchera De La Soberanía"
 tipo: "concepto"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [apple, libre, linux, software]
 publish: true
 ---
@@ -27,14 +28,3 @@ publish: true
 ## âš¡ Conclusión De Terapia Liberal
 
 Si usas Windows, sos un inquilino en tu propia computadora, y el dueño de casa ([[Satya Nadella]]) está revisando tu tacho de basura cada noche. Si usas Linux, sos el dueño. No es por "nerdismo", es por **defensa propia**. Linux es el "Bitcoin" de los sistemas operativos: descentralizado, transparente y resistente a la censura.
-
----
-
-## Conexiones De La Red
-
-- **El Oponente:** [[Microsoft]], [[Apple Inc. (Apple)]], [[Google (Orígenes)]].
-- **Soberanía:** [[Bitcoin]], [[Meshtastic]], [[Soberanía Individual]].
-- **Amenazas:** [[Vigilancia Masiva]], [[CIA]], [[NSA]].
-- **Héroes:** [[Richard Stallman]] (Filosofía), [[Linus Torvalds]] (Ingeniería).
-
-**Estado:** Refactoreado a TL V.3 - Framework de Resistencia Digital.

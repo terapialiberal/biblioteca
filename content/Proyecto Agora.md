@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-25T15:50:04.446-03:00
-modified: 2026-04-02T13:21:57.199-03:00
+modified: 2026-04-07T11:43:04.085-03:00
 tags:
   - agor
   - libro
@@ -13,7 +13,7 @@ tags:
 
 #### BLUF
 
-El Proyecto Agorá es la **Fusión del Sistema Monetario y Financiero** en una sola capa digital. Liderado por el Bank for International Settlements (BIS), integra a los principales bancos centrales del G7 y a gigantes del sector privado (Tier A) para crear una **Plataforma de Liquidez Programable**. En 2026, Agorá representa el fin de la distinción entre "dinero público" y "activos privados", creando un ecosistema donde cada transacción es un contrato inteligente pre-aprobado por la arquitectura del BIS.
+El Proyecto Agorá es la **Fusión del Sistema Monetario y Financiero** en una sola capa digital. Liderado por el Banco de Pagos Internacionales (BIS), integra a los principales bancos centrales del G7 y a gigantes del sector privado (Tier A) para crear una **Plataforma de Liquidez Programable**. En 2026, Agorá representa el fin de la distinción entre "dinero público" y "activos privados", creando un ecosistema donde cada transacción es un contrato inteligente pre-aprobado por la arquitectura del BIS.
 
 #### MAPA DE ACTORES
 
@@ -71,7 +71,3 @@ Es la respuesta racional a la digitalización del mundo. No podemos seguir opera
 #### LAGUNAS
 
 ¿Cómo se reparten las cuotas de poder de validación entre la FED y el BCE dentro del software de Agorá y qué algoritmos de consenso están usando para evitar que una nación "imprima" activos digitales sin permiso?
-
----
-
-_Dossier forense TL V.2 | La Arquitectura de la Cárcel Financiera_

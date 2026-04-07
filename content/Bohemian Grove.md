@@ -2,9 +2,10 @@
 titulo: Bohemian Grove
 tipo: "persona"
 fecha: 2026-02-25
+estado: activo
 tags: [bohemian, cremation, grove, proyecto]
-tier-primario: "a"
-nivel-evidencia: "alto"
+tier_primario: "a"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -37,9 +38,3 @@ publish: true
 ## Cui Bono
 
 ¿Quién gana? La **Elite del Complejo Industrial-Militar**. En el Grove se eliminan las fricciones entre competidores para asegurar que la agenda global siga una dirección unificada.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Ritualismo de élite y networking geopolítico.
-**Estado:** 2026-02-25 | Informe Activo

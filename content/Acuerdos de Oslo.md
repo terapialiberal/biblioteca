@@ -3,8 +3,9 @@ publish: true
 titulo: Acuerdos De Oslo
 tipo: "evento"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [acuerdos, oslo, rabin, yitzhak]
 ---
 

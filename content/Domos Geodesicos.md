@@ -1,8 +1,9 @@
 ---
 titulo: Domos Geodésicos
 tipo: "concepto"
-tier-primario: "a"
-nivel-evidencia: "medio"
+tier_primario: "a"
+nivel_evidencia: "medio"
+estado: activo
 tags: [arquitectura, buckminster-fuller, control-territorial, geometria]
 publish: true
 ---
@@ -27,7 +28,3 @@ publish: true
 - [[15-Minute Cities]]: El concepto urbano de confinamiento.
 - [[Agenda 2030]]: El marco regulatorio del hábitat.
 - [[Catedrales como Maquinas]]: La tecnología arquitectónica previa.
-
----
-
-_TL-INTEL V.3 | Arquitectura de Confinamiento_

@@ -2,8 +2,9 @@
 titulo: "Institute for Statecraft: La Guerra Psicológica contra El Ciudadano"
 tipo: "entidad"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [ciudadano, contra, institute, otan]
 publish: true
 ---
@@ -44,9 +45,3 @@ publish: true
 ## Conclusión Del Análisis
 
 El Institute for Statecraft es **Gladio Mediático**. Ya no ponen bombas en estaciones de tren; ponen bombas reputacionales en Twitter. Revela que la "sociedad civil" y el "periodismo independiente" en Europa están profundamente infiltrados por la inteligencia militar.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Guerra híbrida doméstica, censura y manipulación de medios.
-**Estado:** Informe de Inteligencia Activo.

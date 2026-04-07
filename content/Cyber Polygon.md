@@ -2,8 +2,9 @@
 titulo: "Cyber Polygon: La Simulación De Ciberataque Global"
 tipo: "persona"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [ciberataque, global, simulacin, world]
 publish: true
 ---
@@ -40,9 +41,3 @@ publish: true
 ## Conclusión Del Análisis
 
 Cyber Polygon es el ensayo general para el control total de internet bajo excusa de ciberseguridad.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Análisis de Control Digital
-**Estado:** Informe de Inteligencia Activo

@@ -2,8 +2,9 @@
 titulo: Banco Mundial (World Bank)
 tipo: "entidad"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [banco, mundial, robert, world]
 publish: true
 ---

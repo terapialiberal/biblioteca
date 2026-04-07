@@ -2,8 +2,9 @@
 titulo: Minería De Fondos Marinos (La Nueva Frontera TL V.3)
 tipo: "concepto"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [lockheed, minera, naciones, nueva]
 publish: true
 ---
@@ -44,9 +45,3 @@ publish: true
 ## Conclusión Del Análisis
 
 La minería abisal es la fase final del extractivismo planetario. Habiendo consumido la superficie, el **Tier A** desciende a la oscuridad para reclamar lo último que queda. No es salvación ecológica; es la **industrialización del último santuario virgen de la Tierra**.
-
----
-
-**Versión:** 2.0
-**Enfoque:** Rol de la ISA/ONU, intereses de Lockheed Martin y The Metals Company, narrativa de la transición verde como excusa y privatización de los bienes comunes globales.
-**Estado:** Refactoreado a TL V.3 - Framework de Extractivismo Final.

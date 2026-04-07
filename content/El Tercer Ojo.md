@@ -2,9 +2,10 @@
 titulo: El Tercer Ojo (Glándula Pineal)
 tipo: "persona"
 fecha: 2026-02-25
+estado: activo
 tags: [flor, melatonina, tercer]
-tier-primario: "a"
-nivel-evidencia: "medio"
+tier_primario: "a"
+nivel_evidencia: "medio"
 publish: true
 ---
 
@@ -36,9 +37,3 @@ publish: true
 ## Cui Bono
 
 ¿Quién gana? Los **Pasteurizadores de la Conciencia**. Un Tercer Ojo bloqueado garantiza que el Tier C nunca se despierte del sueño dogmático que el sistema le proyecta cada día mediante las pantallas.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Biopolítica de la percepción y control químico de la conciencia.
-**Estado:** 2026-02-25 | Informe Activo

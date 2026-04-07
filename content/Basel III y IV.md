@@ -2,8 +2,9 @@
 titulo: "Basel III Y IV: El Control Bancario Estructurado"
 tipo: "evento"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [bancario, banco, basel, blackrock]
 publish: true
 ---
@@ -40,9 +41,3 @@ publish: true
 ## Conclusión Del Análisis
 
 Basel es el arquitecto legal de la consolidación bancaria oligárquica global.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Análisis de Control Bancario
-**Estado:** Informe de Inteligencia Activo

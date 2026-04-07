@@ -2,9 +2,10 @@
 titulo: Cartago - El Nodo Expansivo De Canaán
 tipo: "evento"
 fecha: 2026-02-25
+estado: activo
 tags: [canan, cartago, expansivo, nodo]
-tier-primario: "a"
-nivel-evidencia: "alto"
+tier_primario: "a"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -25,9 +26,3 @@ publish: true
 ## Legado Forense: Infiltración En El Vencedor
 
 - Tras su destrucción física ("Carthago delenda est"), el protocolo cartaginés se mudó a las finanzas de Roma. Los linajes vencidos no desaparecieron; se convirtieron en los asesores técnicos de la aristocracia romana, enseñándoles a gestionar provincias como activos y a la población como ganado fiscal.
-
----
-
-**Versión:** 1.1
-**Enfoque:** Conflicto de modelos de poder, sacrificio como deuda social e infiltración post-derrota.
-**Estado:** 2026-02-25 | Informe Expandido

@@ -2,8 +2,9 @@
 titulo: Incendios De Los Ángeles 2025
 tipo: "evento"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: ["2025", agenda, incendios, ngeles]
 publish: true
 ---

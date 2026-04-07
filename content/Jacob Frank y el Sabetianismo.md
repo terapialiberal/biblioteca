@@ -2,9 +2,10 @@
 titulo: Jacob Frank Y El Sabetianismo (La Inversión)
 tipo: "persona"
 fecha: 2026-02-25
+estado: activo
 tags: [frank, inversin, jacob, sabetianismo]
-tier-primario: "a"
-nivel-evidencia: "alto"
+tier_primario: "a"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -36,9 +37,3 @@ publish: true
 ## Cui Bono
 
 ¿Quién gana? Los **Sacerdotes de la Transgresión**. El frankismo otorga al Tier A un "permiso espiritual" para cometer cualquier acto en pos de su agenda, creando una elite unida por secretos inconfesables que nadie fuera del círculo puede entender o denunciar con éxito.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Teología de la inversión y raíces esotéricas de la corrupción global.
-**Estado:** 2026-02-25 | Informe Activo

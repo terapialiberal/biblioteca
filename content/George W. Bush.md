@@ -2,8 +2,9 @@
 titulo: George W. Bush
 tipo: "persona"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [bush, george, pnac, skull]
 publish: true
 ---
@@ -12,7 +13,7 @@ publish: true
 
 ## Perfil TL (Resumen Ejecutivo)
 
-**¿Quién es?** 43Âº Presidente de EE.UU. e hijo del ex-presidente y director de la CIA George H. W. Bush.
+**Quien es?** 43o Presidente de EE.UU. e hijo del ex-presidente y director de la CIA George H. W. Bush.
 
 **¿Por qué importa?** George W. Bush fue el **rostro de la "Guerra Infinita" y la consolidación del Estado de Vigilancia**. Su presidencia estuvo marcada por el evento catalizador del **[[9-11]]**, el cual utilizó como un "Nuevo Pearl Harbor" para implementar el **Patriot Act** (destrucción de la privacidad del Tier C) y para invadir Afganistán e Irak bajo falsas pretensiones (**Armas de Destrucción Masiva**). Bush representa la **Continuidad del Linaje de Tier A**; un miembro de **[[Skull and Bones]]** cuyo mandato fue gestionado por los Neoconservadores del **[[PNAC]]**. Su papel fue el de un "Frontman" simpático y aparentemente torpe que permitió que el Estado Profundo (encabezado por **[[Dick Cheney]]**) capturara permanentemente el aparato legislativo y militar de EE.UU., iniciando la era de la biovigilancia y la guerra preventiva global.
 

@@ -2,8 +2,9 @@
 titulo: Capitalismo De Partes Interesadas (Stakeholder Capitalism)
 tipo: "concepto"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [blackrock, capitalismo, interesadas, stakeholder]
 publish: true
 ---

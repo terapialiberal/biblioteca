@@ -2,8 +2,9 @@
 titulo: Aaron Swartz
 tipo: "persona"
 fecha: 2026-03-04
-tier-primario: "c"
-nivel-evidencia: "alto"
+tier_primario: "c"
+nivel_evidencia: "alto"
+estado: activo
 tags: [hacktivismo, open-access, rss, reddit, martir-digital]
 publish: true
 ---
@@ -34,7 +35,3 @@ El Departamento de Justicia, bajo la supervisión de la administración Obama, l
 ## 📊 Cui Bono
 
 Su muerte permitió al **Tier B** retomar el control sobre el flujo de datos académicos y frenar el movimiento de _Open Access_ radical por una década. En 2026, su legado vive en el **Soberanismo Técnico**.
-
----
-
-_TL V.3 | Dossier de Mártires de la Resistencia Técnica_

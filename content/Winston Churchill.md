@@ -2,8 +2,9 @@
 titulo: Winston Churchill
 tipo: "persona"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [churchill, conferencia, hundimiento, winston]
 publish: true
 ---
@@ -20,7 +21,7 @@ Winston Churchill lideró a Gran Bretaña durante WWII.
 
 Es considerado héroe por resistir a Hitler cuando nadie más lo hacía.
 
-## Âš ï¸ Otra Cara
+## Otra Cara
 
 Lo que no se enfatiza:
 

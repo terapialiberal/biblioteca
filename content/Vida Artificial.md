@@ -1,8 +1,9 @@
 ---
 titulo: Vida Artificial
 tipo: "concepto"
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [tecnologia, biologia-sintetica, ia, control]
 publish: true
 ---
@@ -30,7 +31,3 @@ El [[Tier B]] busca superar la "limitación" de la naturaleza mediante:
 - [[Transhumanismo]]: La fusión con la vida artificial.
 - [[Nanotecnologia]]: Los bloques constructivos.
 - [[Bio-Leninismo]]: La política de la dependencia sintética.
-
----
-
-_TL-INTEL V.3 | Bio-Tecnología de Control_

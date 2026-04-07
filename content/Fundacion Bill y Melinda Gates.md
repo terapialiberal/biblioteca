@@ -2,8 +2,9 @@
 titulo: Fundacin Bill Y Melinda Gates
 tipo: "entidad"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [bill, fundaci, fundacin, gates]
 publish: true
 ---

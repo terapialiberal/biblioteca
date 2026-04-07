@@ -1,8 +1,9 @@
 ---
 titulo: Banca en la Sombra - Shadow Banking
 tipo: "concepto"
-tier-primario: "b"
-nivel-evidencia: "alto"
+tier_primario: "b"
+nivel_evidencia: "alto"
+estado: activo
 tags: [finanzas, liquidez, off-shore, riesgo-sistemico]
 publish: true
 ---
@@ -33,7 +34,3 @@ No son "bancos" en el sentido tradicional, pero realizan funciones bancarias (pr
 - [[Colateral y Rehipotecacion]]: La base técnica.
 - [[Derivados]]: Las armas de destrucción financiera.
 - [[Carlyle Group]]: El nexo entre la banca de sombra y la industria de defensa.
-
----
-
-_TL-INTEL V.3 | Finanzas en la Sombra_

@@ -2,8 +2,9 @@
 titulo: "ISDA: Los rbitros Del Apocalipsis Financiero"
 tipo: "concepto"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [apocalipsis, derivados, financiero, isda]
 publish: true
 ---
@@ -34,7 +35,7 @@ publish: true
 2. **Netting (Compensacin)**: Permite a los bancos reportar una exposicin al riesgo mucho menor de la real, ocultando el apalancamiento masivo del sistema.
 3. **Lobbying Regulatorio**: Han impedido sistemticamente que los derivados se negocien en bolsas pblicas y transparentes, mantenindolos en el mercado "OTC" (Over-The-Counter), oscuro y opaco.
 
-## Conexiones Crticas
+## Conexiones Críticas
 
 - [[00_Glosario - Conceptos Fase 1#Derivados (Quadrillion Dollar Bubble)|Derivados (Quadrillion Dollar Bubble)]]: El mercado que regulan.
 - [[Crisis Financiera 2008]]: El evento causado por sus productos.
@@ -44,9 +45,3 @@ publish: true
 ## Conclusin Del Anlisis
 
 La ISDA es el **Gobierno en la Sombra del Mercado**. Sus decisiones, tomadas a puerta cerrada por ejecutivos de Goldman Sachs y JP Morgan, tienen ms impacto en la solvencia de un pas que sus propios ministerios de economa. Es la privatizacin de la justicia financiera a escala global.
-
----
-
-**Versi�n:** 1.0
-**Enfoque:** Mercado de derivados, CDS y decisiones de default soberano.
-**Estado:** Informe de Inteligencia Activo.

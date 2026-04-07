@@ -2,8 +2,9 @@
 titulo: Disonancia Cognitiva (Isis)
 tipo: "concepto"
 fecha: 2026-03-04
-tier-primario: "b"
-nivel-evidencia: "alto"
+tier_primario: "b"
+nivel_evidencia: "alto"
+estado: activo
 tags: [psicologia, control-mental, isis, percepcion, disonancia]
 publish: true
 ---
@@ -34,7 +35,3 @@ En 2026, la disonancia se aplica a la **Identidad Digital**. Se obliga al indivi
 ## 📊 Cui Bono
 
 El **Tier B (Ejecutores)** captura la docilidad poblacional. Una población en disonancia permanente no puede organizarse; solo puede reaccionar emocionalmente a los estímulos del Tier C.
-
----
-
-_TL V.3 | Análisis de Psicología de Masas y Control Narrativo_

@@ -2,8 +2,9 @@
 titulo: Vudu Geopolitico
 tipo: "concepto"
 fecha: 2026-03-04
-tier-primario: "b"
-nivel-evidencia: "alto"
+tier_primario: "b"
+nivel_evidencia: "alto"
+estado: activo
 tags: [geopolitica, crisis-artificial, caos, estrategia]
 publish: true
 ---
@@ -35,7 +36,3 @@ No se trata de magia, sino de **Cibernética de Poder**:
 ## 📊 Cui Bono
 
 El **Tier B** captura la justificación presupuestaria permanente. El **Tier A** captura los activos tangibles (tierra, datos) que quedan baratos o disponibles tras la crisis inducida.
-
----
-
-_TL V.3 | Análisis de Ingeniería de Conflictos_

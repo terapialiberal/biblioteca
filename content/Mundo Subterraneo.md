@@ -2,9 +2,10 @@
 titulo: Mundo Subterráneo (Agartha)
 tipo: "persona"
 fecha: 2026-02-25
+estado: activo
 tags: [mundo, subterrneo]
-tier-primario: "a"
-nivel-evidencia: "bajo"
+tier_primario: "a"
+nivel_evidencia: "bajo"
 publish: true
 ---
 
@@ -22,9 +23,3 @@ publish: true
 ### 2. Refugios De Datos Y Genética
 
 - En términos técnicos modernos, Agartha simboliza las **Bases Subterráneas Profundas (DUMBs)**. El Tier A asegura su supervivencia y la de sus activos (datos, semillas, genética) mediante la compartimentación física definitiva bajo la corteza terrestre.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Geopolítica de la profundidad y arquitectura del refugio supremo.
-**Estado:** 2026-02-25 | Informe Activo

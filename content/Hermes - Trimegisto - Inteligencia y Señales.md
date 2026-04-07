@@ -2,9 +2,10 @@
 titulo: Hermes - Trimegisto - Inteligencia Y Señales
 tipo: "entidad"
 fecha: 2026-02-25
+estado: activo
 tags: [hermes, inteligencia, seales, trimegisto]
-tier-primario: "b"
-nivel-evidencia: "alto"
+tier_primario: "b"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -26,9 +27,3 @@ publish: true
 ### Tier C (El Teatro / Percepción)
 
 - Ve a Hermes en marcas de logística y rapidez, ignorando que es el dios de los ladrones y que su función es asegurar que la verdad sea robada a plena luz mediante la distorsión del lenguaje.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Semiótica del poder y gestión de canales de información.
-**Estado:** 2026-02-25 | Informe Activo

@@ -2,9 +2,10 @@
 titulo: Yakuza — El Martillo De La Reconstrucción Japonesa
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [japn, martillo, yakuza]
-tier-primario: "b"
-nivel-evidencia: "alto"
+tier_primario: "b"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -37,9 +38,3 @@ publish: true
 ## Cui Bono
 
 **El Orden Social Japonés**. La Yakuza previene la existencia de bandas desorganizadas y caóticas al monopolizar la violencia informal bajo una estructura jerárquica que responde, en última instancia, a intereses de Estado.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Crimen organizado como herramienta de estabilidad política y corporativa.
-**Estado:** 2026-02-25 | Informe Activo

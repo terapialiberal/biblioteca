@@ -2,8 +2,9 @@
 titulo: Yahweh - El Capturador de la Ley
 tipo: "concepto"
 fecha: 2026-03-04
-tier-primario: "a"
-nivel-evidencia: "alto"
+tier_primario: "a"
+nivel_evidencia: "alto"
+estado: activo
 tags: [esoterismo, arquetipo, ley, control, yahweh]
 publish: true
 ---
@@ -37,7 +38,3 @@ La digitalización total (CBDC, ID Digital) es la secularización del arquetipo:
 ## 📊 Cui Bono
 
 El **Tier A (Los Dueños)** captura la autoridad última sobre lo que es "lícito". Yahweh es el sigilo que protege la estructura de la deuda infinita.
-
----
-
-_TL V.3 | Investigación Arquetípica y Metafísica de Poder_

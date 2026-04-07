@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-25T15:43:14.559-03:00
-modified: 2026-04-02T13:21:57.718-03:00
+modified: 2026-04-07T10:53:25.392-03:00
 tags:
   - global
   - klaus
@@ -71,7 +71,3 @@ El YGL es simplemente una red de networking moderna. El mundo es complejo y glob
 #### LAGUNAS
 
 ¿Cuáles son los acuerdos de confidencialidad que firman los YGL durante sus retiros de formación en Suiza y qué sanciones enfrentan si se desvían de la "visión estratégica"?
-
----
-
-_Dossier forense TL V.2 | La Selección de la Casta Tecnocrática_

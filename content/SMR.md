@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-25T14:22:57.642-03:00
-modified: 2026-04-02T13:21:56.600-03:00
+modified: 2026-04-07T10:52:18.512-03:00
 tags:
   - bill
   - modular
@@ -71,7 +71,3 @@ Los SMR son simplemente una solución técnica lógica a un problema de ingenier
 #### LAGUNAS
 
 ¿Cómo se gestionará la seguridad militar de estos reactores privados ante amenazas de sabotaje o guerra híbrida?
-
----
-
-_Versión: 3.0 (TL V.2) | Dossier de Soberanía Energética_

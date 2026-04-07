@@ -2,8 +2,9 @@
 titulo: "ID Digital: La Identidad Universal Controlada"
 tipo: "concepto"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [controlada, digital, sistemas, universal]
 publish: true
 ---
@@ -40,9 +41,3 @@ publish: true
 ## Conclusión Del Análisis
 
 La ID Digital es el mecanismo de eliminación del anonimato, convirtiendo a cada individuo en un nodo rastreable en el sistema de control.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Análisis de Eliminación de Privacidad
-**Estado:** Informe de Inteligencia Activo

@@ -2,9 +2,10 @@
 titulo: Neuralink Y La Colmena Esotérica
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [colmena, internet, neuralink, transhumanismo]
-tier-primario: "a"
-nivel-evidencia: "medio"
+tier_primario: "a"
+nivel_evidencia: "medio"
 publish: true
 ---
 
@@ -36,9 +37,3 @@ publish: true
 ## Cui Bono
 
 ¿Quién gana? Los **Administradores de la Colmena**. Neuralink permite pasar del "Panóptico" (vigilancia externa) al "Infrascopio" (vigilancia y control interno), asegurando que el individuo ya no sea un átomo, sino una celda en el organismo del sistema.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Biotecnología y el fin del individuo soberano.
-**Estado:** 2026-02-25 | Informe Activo

@@ -1,8 +1,9 @@
 ---
 titulo: Cuerpos de Luz vs Datos
 tipo: "concepto"
-tier-primario: "a"
-nivel-evidencia: "medio"
+tier_primario: "a"
+nivel_evidencia: "medio"
+estado: activo
 tags: [esoterismo, tecnologia, transhumanismo, alma]
 publish: true
 ---
@@ -31,7 +32,3 @@ La IA es el motor de esta conversión:
 - [[Transhumanismo]]: El vehículo de la conversión.
 - [[Gnosticismo Digital]]: La justificación esotérica.
 - [[Blockchain e Inmutabilidad]]: El intento de fijar el alma en el ledger.
-
----
-
-_TL-INTEL V.3 | Metafísica de la Tecnología_

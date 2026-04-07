@@ -2,8 +2,9 @@
 titulo: Energía De Punto Cero
 tipo: "concepto"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [cero, energa, punto, stanley]
 publish: true
 ---

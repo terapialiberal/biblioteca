@@ -2,9 +2,10 @@
 titulo: Isis - Magia Y Seducción Social (El Velo Del Sistema)
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [isis, magia, seduccin, social]
-tier-primario: "a"
-nivel-evidencia: "alto"
+tier_primario: "a"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -22,9 +23,3 @@ publish: true
 ### Tier B (Operadores / Ejecutores)
 
 - **Medios de Comunicación y Relaciones Públicas**: Son los tejedores del velo de Isis. Su función es asegurar que la cruda realidad del poder de Tier A permanezca oculta bajo una estética de humanismo y caridad.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Ingeniería del consentimiento y gestión de la ilusión social.
-**Estado:** 2026-02-25 | Informe Activo

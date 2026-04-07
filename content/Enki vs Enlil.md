@@ -2,9 +2,10 @@
 titulo: Enki Vs Enlil (Dualidad Primordial De Control)
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [enki, enlil, sinarqua]
-tier-primario: "a"
-nivel-evidencia: "bajo"
+tier_primario: "a"
+nivel_evidencia: "bajo"
 publish: true
 ---
 
@@ -38,9 +39,3 @@ publish: true
 ## Cui Bono
 
 ¿Quién gana? Los **Administradores de la Dualidad**. Mientras el Tier C crea que debe elegir entre la "liberación tecnológica" (Enki) o la "identidad tradicional/ley" (Enlil), el Tier A sigue gobernando el espectro completo de la experiencia humana.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Dialéctica de la esclavitud técnica vs. esclavitud legal.
-**Estado:** 2026-02-25 | Informe Activo

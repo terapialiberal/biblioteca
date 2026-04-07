@@ -2,9 +2,10 @@
 titulo: Colateral Y Rehipotecación — El Truco Del Título
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [colateral, rehipotecacin, tokenizacin, truco]
-tier-primario: "a"
-nivel-evidencia: "alto"
+tier_primario: "a"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -46,9 +47,3 @@ publish: true
 ## Cui Bono
 
 **Las Entidades Sistémicamente Importantes (SIFIs)**. Tienen el privilegio legal de cobrar sus reclamaciones de colateral antes que cualquier otro depositante o inversor.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Derechos de propiedad, seguridad jurídica de élite y mecanismos de confiscación legal.
-**Estado:** 2026-02-25 | Informe Activo

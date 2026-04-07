@@ -2,8 +2,9 @@
 titulo: CIPS & SPFS
 tipo: "entidad"
 fecha: 2026-03-04
-tier-primario: "b"
-nivel-evidencia: "alto"
+tier_primario: "b"
+nivel_evidencia: "alto"
+estado: activo
 tags: [china, rusia, swift, finanzas, brics, cips, spfs]
 publish: true
 ---
@@ -30,7 +31,3 @@ La interoperabilidad total lograda en 2025 entre CIPS y SPFS significa que el Ti
 
 - **Independencia del Dólar:** El 70% del comercio intra-BRICS ya no utiliza el dólar como unidad de cuenta ni el SWIFT como mensajería.
 - **Cui Bono:** Los estados del Rimland capturan la soberanía monetaria; las élites occidentales capturan una inflación importada por la pérdida de demanda de dólares.
-
----
-
-_TL V.3 | Inteligencia en Infraestructura Financiera_

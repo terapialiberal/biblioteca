@@ -1,8 +1,9 @@
 ---
 titulo: El Templo de Salomon
 tipo: "concepto"
-tier-primario: "a"
-nivel-evidencia: "medio"
+tier_primario: "a"
+nivel_evidencia: "medio"
+estado: activo
 tags: [esoterismo, arquitectura, masoneria, control, orden]
 publish: true
 ---
@@ -29,7 +30,3 @@ La obsesión geopolítica con la reconstrucción del Tercer Templo en Jerusalén
 - [[Masoneria de Rito Escoces]]: Los custodios del plano.
 - [[Geopolitica del Rimland]]: Por qué la ubicación física importa.
 - [[Corredor IMEC]]: La ruta comercial que conecta este nodo con el resto del mundo.
-
----
-
-_TL-INTEL V.3 | Arquitectura Sagrada de Control_

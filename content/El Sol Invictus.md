@@ -1,20 +1,20 @@
 ---
 publish: true
 created: 2026-02-25T22:08:54.680-03:00
-modified: 2026-04-02T13:01:19.435-03:00
+modified: 2026-04-07T11:14:45.248-03:00
 tags:
   - invictus
 ---
 
 # El Sol Invictus
 
-> [!ABSTRACT] HipÃ³tesis Informativa
+> [!ABSTRACT] Hipótesis Informativa
 > Nodo perteneciente a la Matrix de Simbolismo y Esoterismo TL V.3.
 
-## AnÃ¡lisis De Tiers
+## Análisis De Tiers
 
 _En desarrollo..._
 
 ## Cui Bono
 
-_Pendiente de anÃ¡lisis forense._
+_Pendiente de análisis forense._

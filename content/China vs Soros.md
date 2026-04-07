@@ -2,8 +2,9 @@
 titulo: China Vs Soros
 tipo: "concepto"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [brics, china, george, soros]
 publish: true
 ---

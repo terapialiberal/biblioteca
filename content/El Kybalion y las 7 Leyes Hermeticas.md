@@ -2,9 +2,10 @@
 titulo: El Kybalión Y Las 7 Leyes Herméticas
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [hermetismo, hermticas, kybalin, leyes]
-tier-primario: "a"
-nivel-evidencia: "alto"
+tier_primario: "a"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -37,9 +38,3 @@ publish: true
 ## Cui Bono
 
 ¿Quién gana? Los **Arquitectos del Sistema**. Entender las leyes herméticas permite al Tier A operar en armonía con la naturaleza de la mente humana, asegurando que el control sea percibido como "inevitable" o "natural".
-
----
-
-**Versión:** 1.0
-**Enfoque:** Leyes universales como algoritmos de control social.
-**Estado:** 2026-02-25 | Informe Activo

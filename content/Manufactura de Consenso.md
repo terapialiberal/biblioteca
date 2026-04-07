@@ -1,51 +1,59 @@
 ---
-titulo: Manufactura De Consenso
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [consenso, manufactura, operacin, ventana]
 publish: true
+aliases:
+  - Manufactura De Consenso
+  - Manufacturing Consent
+created: 2026-01-29T19:17:23.560-03:00
+modified: 2026-04-07T13:12:32.689-03:00
+tags:
+  - concepto
+  - medios
+  - propaganda
+  - control-social
 ---
 
-# Manufactura De Consenso
+# Manufactura de Consenso
 
-## Resumen Ejecutivo
+La manufactura de consenso describe el proceso por el cual un sistema mediático, político y corporativo delimita qué puede pensarse, discutirse y considerarse legítimo dentro de una sociedad formalmente abierta.
 
-**Qué es:** Un modelo de análisis de medios que describe cómo las sociedades democráticas controlan a su población mediante el manejo de la información, en lugar de la fuerza física.
-**Por qué Importa:** La Manufactura de Consenso es el **Software de Control de Tier A**. Al poseer los medios de comunicación, las corporaciones y el Estado no necesitan censurar la disidencia; simplemente saturan el campo con una "Narrativa Única" y establecen los límites del debate aceptable (**[[Ventana de Overton]]**). El ciudadano (Tier C) cree que ha llegado a sus propias conclusiones basándose en "hechos libres", sin darse cuenta de que esos hechos han pasado por una serie de filtros diseñados para proteger los intereses de la élite.
+## Síntesis
 
-## Análisis (Tiers)
+Dentro de TL, este concepto sirve para leer cómo una sociedad puede ser conducida sin coerción visible permanente. El control no opera solo por censura dura, sino por selección de agenda, repetición narrativa, prestigio institucional y castigo reputacional contra quien sale del marco aceptable.
 
-### Tier A (Los Dueños De Los Filtros)
+## Mecanismo básico
 
-- **El Modelo de 5 Filtros (Actualizado):**
-  1. **Propiedad:** Los medios son activos de billonarios (Bezos/NYT/BlackRock). Nunca morderán la mano que los alimenta.
-  2. **Publicidad:** El cliente del medio no es el lector, es el anunciante (**[[Big Pharma]]**, Bancos). El contenido es solo el cebo para vender la atención al anunciante.
-  3. **Fuentes Escasas:** Los medios dependen de "fuentes oficiales" (Casa Blanca, Pentágono), lo que les permite al Tier B dictar el guion de la noticia.
-  4. **Flak (Fuego Cruzado):** Campañas de desprestigio masivas contra quien se salga del consenso (cancelación).
-  5. **El Miedo como Pegamento:** La creación de un enemigo común (Antivax, Rusia, Terrorismo) para forzar la cohesión social bajo el mando de la élite.
+El modelo clásico asociado a Chomsky y Herman parte de varios filtros:
 
-### Tier B (Los Periodistas Como Comisarios Políticos)
+1. propiedad de medios concentrada
+2. dependencia publicitaria
+3. dependencia de fuentes oficiales
+4. castigo coordinado o `flak`
+5. construcción de enemigos o amenazas estabilizadoras
 
-- **La Autocensura Estructural:** El periodista de Tier B no recibe órdenes directas de mentir. Simplemente sabe que si quiere ascender y ser "respetado", debe internalizar los valores de la empresa. Los que no lo hacen son filtrados antes de llegar a posiciones de influencia. Como dijo Michael Parenti: _"Tú no eres censurado por lo que dices, sino por lo que no dices"_.
+## Actualización contemporánea
 
-## âš¡ La Evolución: Del Papel Al Algoritmo
+El esquema no desapareció con internet. Se volvió más rápido y granular:
 
-Hoy, la manufactura de consenso es **Instantánea y Quirúrgica**. Los algoritmos de las redes sociales han reemplazado a los editores de los diarios. El consenso se fabrica mediante la pulsión de dopamina, el refuerzo de la burbuja informativa y el **Check de Datos (Fact-Checking)** financiado por las mismas corporaciones de Tier A que el periodismo debería investigar.
+- los algoritmos reemplazan parte del viejo trabajo editorial
+- el fact-checking puede funcionar como refuerzo de marco y no como auditoría neutral
+- la presión social digital acelera el castigo reputacional
+- la abundancia informativa dificulta distinguir señal de saturación
 
----
+## Implicancias
 
-## Conexiones
+- reduce la necesidad de censura explícita
+- convierte la opinión pública en un terreno administrado
+- desplaza temas estructurales fuera del debate visible
+- vuelve “extremista” cualquier diagnóstico que cuestione intereses sistémicos
 
-- [[Operación Mockingbird]] (La versión activa)
-- [[Noam Chomsky]]
+## Relación con otros nodos
+
+- [[Narrativa Unica]]
 - [[Ventana de Overton]]
-- [[Complejo Industrial de la Censura]]
-- [[Agencia Reuters / AP]] (La base de la pirámide informativa)
+- [[Operaciones Psicologicas]]
+- [[Censura]]
+- [[Propaganda]]
 
-## Fuentes
+## Observación TL
 
-- "Manufacturing Consent: The Political Economy of the Mass Media" - Chomsky & Herman (1988).
-- "Inventing Reality" - Michael Parenti.
-- El informe "Twitter Files" (evidencia moderna del modelo).
+La manufactura de consenso no exige una conspiración total centralizada. Puede emerger de incentivos compartidos, alineamientos de clase, dependencia institucional y miedo a quedar fuera de la coalición dominante.

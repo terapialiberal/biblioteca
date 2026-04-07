@@ -2,8 +2,9 @@
 titulo: Lavon Affair (Asunto Lavon)
 tipo: "evento"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [affair, caso, hermanos, lavon]
 publish: true
 ---

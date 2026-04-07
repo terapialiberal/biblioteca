@@ -2,8 +2,9 @@
 titulo: "The Inquiry: El Big Bang Del Deep State Americano"
 tipo: "persona"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [bang, deep, edward, state]
 publish: true
 ---
@@ -44,9 +45,3 @@ publish: true
 ## Conclusión Del Análisis
 
 The Inquiry nos enseña que **el mundo no es un accidente; es un diseño**. Las fronteras, las instituciones internacionales y las alianzas que damos por sentadas fueron decididas en una habitación cerrada por 150 académicos en 1917. Si quieres entender el presente, tienes que estudiar los mapas que dibujaron ellos.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Origen del CFR, diseño del mapa post-WWI y alianza anglo-americana.
-**Estado:** Informe de Inteligencia Activo.

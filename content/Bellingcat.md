@@ -2,8 +2,9 @@
 titulo: Bellingcat
 tipo: "concepto"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [bellingcat, open]
 publish: true
 ---
@@ -35,7 +36,7 @@ Cubre temas que alinean con narrativas occidentales:
 - Rusia (Skripal, MH17, Navalny)
 - Siria (ataques químicos)
 
-## Âš ï¸ Críticas
+## Criticas
 
 - Financiamiento gubernamental cuestionable
 - Acceso a datos que requieren capacidades estatales

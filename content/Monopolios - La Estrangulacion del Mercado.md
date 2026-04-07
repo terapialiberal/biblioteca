@@ -2,9 +2,10 @@
 titulo: Monopolios — La Estrangulación Del Mercado
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [blackrock, mercado, monopolios, standard]
-tier-primario: "a"
-nivel-evidencia: "alto"
+tier_primario: "a"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -47,9 +48,3 @@ publish: true
 ## Cui Bono
 
 **El Dueño del Nodo Central**. Quien controla el monopolio controla el acceso a la realidad material de la población.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Concentración de capital, barreras de entrada y control social mediante el consumo.
-**Estado:** 2026-02-25 | Informe Activo

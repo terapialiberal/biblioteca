@@ -2,8 +2,9 @@
 titulo: BBC
 tipo: "concepto"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: []
 publish: true
 ---
@@ -26,7 +27,7 @@ Supuestamente independiente del gobierno.
 - Soft power global (BBC World Service)
 - Cobertura sesgada hacia narrativas de OTAN/Occidente
 
-## Âš ï¸ Críticas
+## Criticas
 
 - Cobertura pro-Israel
 - Anti-Corbyn

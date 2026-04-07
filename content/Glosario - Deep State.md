@@ -2,8 +2,9 @@
 titulo: Glosario - Deep State
 tipo: "concepto"
 fecha: 2026-03-04
-tier-primario: "b"
-nivel-evidencia: "alto"
+tier_primario: "b"
+nivel_evidencia: "alto"
+estado: activo
 tags: [estado-profundo, terminologia, tiers, control]
 publish: true
 ---
@@ -31,7 +32,3 @@ publish: true
 - **Lawfare:** El uso del sistema legal como arma para neutralizar nodos disidentes en el Tier C.
 - **Limited Hangout:** Revelar una pequeña parte de una verdad incómoda para ocultar un secreto mucho mayor y controlar la narrativa de la "filtración".
 - **False Flag (Bandera Falsa):** Operación diseñada para que parezca ejecutada por otro actor, con el fin de obtener un _Causus Belli_ o una restricción de libertades.
-
----
-
-_TL V.3 | Referencia Técnica Core_

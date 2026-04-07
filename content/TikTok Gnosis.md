@@ -1,8 +1,9 @@
 ---
 titulo: TikTok Gnosis
 tipo: "concepto"
-tier-primario: "b"
-nivel-evidencia: "alto"
+tier_primario: "b"
+nivel_evidencia: "alto"
+estado: activo
 tags: [tecnologia, fragmentacion, control-mental, gnosis]
 publish: true
 ---
@@ -30,7 +31,3 @@ A diferencia de la gnosis tradicional (búsqueda de conocimiento interno), la **
 - [[Teoria del Internet Muerto]]: El mar de contenido sintético.
 - [[Loops de Dopamina]]: El motor biológico.
 - [[Gnosticismo Digital]]: El marco filosófico.
-
----
-
-_TL-INTEL V.3 | Guerra por la Atención_

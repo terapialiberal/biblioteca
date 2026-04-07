@@ -1,25 +1,36 @@
 ---
 publish: true
 created: 2026-02-28T15:09:32.181-03:00
-modified: 2026-04-02T12:56:00.620-03:00
+modified: 2026-04-07T11:53:18.992-03:00
 tags:
   - patrones
+  - teoria-de-juegos
+  - dilema-del-prisionero
   - tl-v3
 ---
 
-## ðŸ”Ž AXIOMA ASOCIADO: PraxeologÃ­a Forense
+# [[Patrón - El Dilema del Prisionero]]
 
-Aplicado al anÃ¡lisis geopolÃ­tico, demuestra que la "solidaridad internacional" es ruido (_Cheap Talk_). Las alianzas existen solo mientras los costos de traicionar al aliado superen los beneficios de mantener el pacto.
+## Axioma asociado
 
-### âœ… Ejemplos en GeopolÃ­tica (SeÃ±ales Documentadas)
+La cooperación retórica suele romperse cuando la estructura de incentivos premia la traición. En geopolítica, alianzas y pactos duran mientras el costo de romperlos supere el beneficio inmediato.
 
-- **CÃ¡rteles como la OPEP**: Cada paÃ­s miembro tiene el incentivo de producir silenciosamente _un poco mÃ¡s_ de petrÃ³leo del acordado para robarse los dÃ³lares, hundiendo el precio internacional para todos los demÃ¡s si todos hacen lo mismo.
-- **Guerra de Divisas y Aranceles**: Todos los paÃ­ses estarÃ­an mejor con libre comercio total, pero cada paÃ­s impone barreras (traiciona) para proteger su industria local, derivando en una carrera hacia abajo (proteccionismo global).
+## Señales y aplicación TL
 
-### âš ï¸ AplicaciÃ³n TL V.3
+- cárteles o bloques con incentivos permanentes al desvío
+- guerras de divisas, tarifas y barreras aunque el libre comercio beneficiaría a todos
+- discursos de cooperación global que no resisten estrés real
 
-Cuando leas anÃ¡lisis de medios (Tier C) clamando que "el mundo debe cooperar para enfrentar P(Cambio ClimÃ¡tico, Guerra)": ignorar. Es ruido estructural. El analista buscarÃ¡ cÃ³mo la estructura de pagos favorece a un Tier A que no reciba la externalidad negativa del dilema de los Tier B/C por la falta de cooperaciÃ³n.
+## Falsabilidad
 
----
+El patrón pierde fuerza si aparecen mecanismos de enforcement suficientemente robustos como para sostener cooperación repetida incluso bajo presión.
 
-_VersiÃ³n: TL V.3 | Nodo Central: [[00_MOC - Patrones Clasicos de Poder]]_
+## Conexiones
+
+- [[Teoría de Juegos]]
+- [[OPEP]]
+- [[Patrón - Trampa de Tucídides]]
+
+## Observación operativa
+
+En TL sirve para no confundir declaración de cooperación con cooperación material.

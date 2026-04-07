@@ -2,9 +2,10 @@
 titulo: El Diluvio (Reseteo 1.0)
 tipo: "persona"
 fecha: 2026-02-25
+estado: activo
 tags: [arca, atlantida, diluvio]
-tier-primario: "a"
-nivel-evidencia: "alto"
+tier_primario: "a"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -36,9 +37,3 @@ publish: true
 ## Cui Bono
 
 ¿Quién gana? Los **Supervivientes Iniciados**. El Diluvio permitió eliminar la competencia de una humanidad soberana y poderosa, dejando al Tier A como los únicos "dioses" con tecnología en un mundo de bárbaros traumatizados.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Ciclos de destrucción y origen de la jerarquía de poder.
-**Estado:** 2026-02-25 | Informe Activo

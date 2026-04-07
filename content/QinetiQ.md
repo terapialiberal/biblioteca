@@ -2,8 +2,9 @@
 titulo: "QinetiQ: La Privatización De Los Secretos De Estado"
 tipo: "concepto"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [carlyle, estado, privatizacin, secretos]
 publish: true
 ---
@@ -43,9 +44,3 @@ publish: true
 ## Conclusión Del Análisis
 
 QinetiQ representa el fin de la soberanía tecnológica del estado. Cuando vendes tus laboratorios militares a Wall Street, ya no tienes ejército; tienes un contrato de servicios con una corporación multinacional.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Privatización de I+D militar, Carlyle Group y tecnología de vigilancia.
-**Estado:** Informe de Inteligencia Activo.

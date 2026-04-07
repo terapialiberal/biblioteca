@@ -2,9 +2,10 @@
 titulo: El Domo Y El Obelisco (Dualidad De Poder)
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [city, domo, obelisco, vaticano]
-tier-primario: "a"
-nivel-evidencia: "total"
+tier_primario: "a"
+nivel_evidencia: "total"
 publish: true
 ---
 
@@ -36,9 +37,3 @@ publish: true
 ## Cui Bono
 
 ¿Quién gana? La **Elite Tripartita**. El uso del Domo y el Obelisco es el "Sello de Agua" que indica que esas tres ciudades-estado operan bajo un mismo mando de Tier A, independientemente de lo que piensen sus poblaciones locales.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Simbolismo sexual-arquitectónico y jerarquía de centros de poder.
-**Estado:** 2026-02-25 | Informe Activo

@@ -1,8 +1,9 @@
 ---
 titulo: Ocultismo en KGB y Stasi
 tipo: "concepto"
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [espionaje, esoterismo, urss, guerra-fria, control]
 publish: true
 ---
@@ -29,7 +30,3 @@ Muchos de los avances soviéticos en "armas no letales" y manipulación de masas
 - [[Operacion Stargate]]: La respuesta de la CIA.
 - [[HAARP]]: La escala industrial de la psicotrónica.
 - [[Disonancia Cognitiva (Isis)]]: El resultado psicológico.
-
----
-
-_TL-INTEL V.3 | Historia Oculta de la Inteligencia_

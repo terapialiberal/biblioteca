@@ -2,8 +2,9 @@
 titulo: "Senior Executive Service: Los Verdaderos Dueños De Washington"
 tipo: "persona"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [deep, executive, service, verdaderos]
 publish: true
 ---
@@ -44,9 +45,3 @@ publish: true
 ## Conclusión Del Análisis
 
 El SES es el **Sistema Inmune de la Matrix**. Su función es expulsar cualquier "virus" democrático (un outsider) que intente alterar el funcionamiento del organismo estatal. Sin purgar el SES, ningún presidente controla realmente el gobierno federal.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Burocracia inamovible, obstrucción administrativa y continuidad del estado.
-**Estado:** Informe de Inteligencia Activo.

@@ -2,8 +2,9 @@
 titulo: Comité Church (Evento)
 tipo: "entidad"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [comit, evento, mkultra, operacin]
 publish: true
 ---

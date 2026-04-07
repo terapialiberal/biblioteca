@@ -2,8 +2,9 @@
 titulo: Arthur Gregg Sulzberger
 tipo: "persona"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [arthur, gregg, sulzberger]
 publish: true
 ---
@@ -26,7 +27,7 @@ La familia Sulzberger ha controlado el NYT desde 1896.
 - Otros medios copian sus historias
 - "All the news that's fit to print" = lo que ellos deciden
 
-## Âš ï¸ Críticas
+## Criticas
 
 - Cobertura sesgada hacia establishment demócrata
 - WMDs en Irak (Judith Miller)

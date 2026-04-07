@@ -2,9 +2,10 @@
 titulo: Simbología Del Trono De S. Pedro (La Silla Del Pescador)
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [pedro, simbologa, trono]
-tier-primario: "a"
-nivel-evidencia: "alto"
+tier_primario: "a"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -16,9 +17,3 @@ publish: true
 ## Análisis Forense
 
 - El trono está rodeado de una escenografía de gloria que oculta la **Cibernética de la Bula**. Cada comando que emana de ese trono ha tenido durante siglos validez legal en el Tier C, actuando como el prototipo de los **Contratos Inteligentes** actuales que se ejecutan sin necesidad de fuerza física, apoyándose en la autoridad de la fuente.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Heráldica de la autoridad central y protocolos de legitimización masiva.
-**Estado:** 2026-02-25 | Informe Activo

@@ -2,8 +2,9 @@
 titulo: William Barr
 tipo: "persona"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [barr, jeffrey, william]
 publish: true
 ---
@@ -28,7 +29,7 @@ Barr era Attorney General cuando Epstein "murió" en custodia federal en agosto 
 - **CIA:** Trabajó en CIA en los 70s
 - **Trump:** AG, luego distanciado
 
-## Âš ï¸ Controversias
+## Controversias
 
 - Supervisión de la muerte de Epstein en custodia
 - Padre: Donald Barr, author de sci-fi sobre esclavitud sexual ("Space Relations")

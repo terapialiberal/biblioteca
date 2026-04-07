@@ -2,8 +2,9 @@
 titulo: El Desastre De Google Gemini (Imágenes Woke)
 tipo: "persona"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [gemini, imgenes, sesgo, woke]
 publish: true
 ---

@@ -3,8 +3,9 @@ publish: true
 titulo: Ben Bernanke
 tipo: "persona"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [bernanke, reserva, timothy]
 ---
 
@@ -26,7 +27,7 @@ Durante su gestión:
 
 Ganó el Premio Nobel de Economía (2022).
 
-## Âš ï¸ Críticas
+## Criticas
 
 - Rescató bancos, no ciudadanos
 - QE enriqueció a los ricos (inflacion de activos)

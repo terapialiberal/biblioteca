@@ -2,9 +2,10 @@
 titulo: Trazado De Washington D.C. (Arquitectura Talismánica)
 tipo: "entidad"
 fecha: 2026-02-25
+estado: activo
 tags: [albert, trazado, washington]
-tier-primario: "a"
-nivel-evidencia: "alto"
+tier_primario: "a"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -36,9 +37,3 @@ publish: true
 ## Cui Bono
 
 ¿Quién gana? Los **Arquitectos del Imperio Anglo-Americano**. El trazado de D.C. asegura que cualquier decisión política tomada en ese espacio esté "atada" a los principios geométricos y esotéricos de quienes fundaron la nación como un experimento masónico de Tier A.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Geopolítica simbólica y diseño urbano esotérico.
-**Estado:** 2026-02-25 | Informe Activo

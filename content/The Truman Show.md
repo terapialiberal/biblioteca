@@ -2,9 +2,10 @@
 titulo: The Truman Show (El Panóptico De La Complacencia)
 tipo: "persona"
 fecha: 2026-02-25
+estado: activo
 tags: [iniciacin, show, truman, ventana]
-tier-primario: "b"
-nivel-evidencia: "alto"
+tier_primario: "b"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -36,9 +37,3 @@ publish: true
 ## Cui Bono
 
 ¿Quién gana? El **Administrador del Estatus Quo**. El show debe continuar para que la población no despierte a su propia Trumanía.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Análisis de la vigilancia emocional y las cercas invisibles del sistema.
-**Estado:** 2026-02-25 | Informe Activo

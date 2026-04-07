@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-25T22:28:50.481-03:00
-modified: 2026-02-26T16:06:06.533-03:00
+modified: 2026-04-07T10:53:25.604-03:00
 tags:
   - castigo-sistmico
   - jerarqua-poder
@@ -24,9 +24,3 @@ tags:
 ### Tier B (Operadores / Ejecutores)
 
 - **Altas Cortes y Comandos Militares**: Son los que gestionan el "Rayo" por delegación. Su función es asegurar que la voluntad de Zeus/Tier A sea aplicada con rapidez y sin debate jurídico real.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Arquitectura de la soberanía y mecanismos de castigo sistémico.
-**Estado:** 2026-02-25 | Informe Activo

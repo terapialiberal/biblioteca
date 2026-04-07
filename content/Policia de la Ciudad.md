@@ -2,8 +2,9 @@
 titulo: Policía De La Ciudad (Super Mario Bros)
 tipo: "concepto"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [ciudad, naciones, polica, super]
 publish: true
 ---

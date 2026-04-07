@@ -2,9 +2,10 @@
 titulo: Marte Y Ares - La Economía De La Guerra
 tipo: "evento"
 fecha: 2026-02-25
+estado: activo
 tags: [ares, economa, guerra, marte]
-tier-primario: "b"
-nivel-evidencia: "alto"
+tier_primario: "b"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -22,9 +23,3 @@ publish: true
 ### 2. Marte En La Percepción De Tier C
 
 - Se le vende al Tier C como "honor" o "victoria", cuando forensemente es una **Transferencia de Riqueza** desde los contribuyentes hacia los dueños de las fábricas de armas (Tier A).
-
----
-
-**Versión:** 1.0
-**Enfoque:** Ciclos de destrucción y lucro mediante el conflicto organizado.
-**Estado:** 2026-02-25 | Informe Activo

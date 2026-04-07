@@ -2,8 +2,9 @@
 titulo: Palantir AIP
 tipo: "persona"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [alex, palantir]
 publish: true
 ---
@@ -17,7 +18,7 @@ publish: true
 
 El **AIP (Artificial Intelligence Platform)** de [[Palantir]] no es un chatbot; es un sistema operativo para la toma de decisiones militares y civiles en tiempo real. En 2025-2026, se ha consolidado como el estndar de "integracin de datos" del Estado.
 
-### Seales Crticas (2025-2026)
+### Seales Críticas (2025-2026)
 
 - **Mega-Contrato US Army (Julio 2025):** \10B para consolidar software y IA. Esto le da a [[Palantir]] el control absoluto sobre cmo el ejrcito procesa la informacin de campo.
 - **Maven Smart System:** Integrado en AIP para seleccin de objetivos (Targeting) mediante IA.

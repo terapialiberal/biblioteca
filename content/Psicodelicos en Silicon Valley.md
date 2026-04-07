@@ -2,9 +2,10 @@
 titulo: Psicodélicos En Silicon Valley (Tecno-Gnosis)
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [burning, psicodlicos, silicon, valley]
-tier-primario: "b"
-nivel-evidencia: "alto"
+tier_primario: "b"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -36,9 +37,3 @@ publish: true
 ## Cui Bono
 
 ¿Quién gana? El **Tecno-Optimismo**. Los psicodélicos en Silicon Valley aseguran que la elite técnica tenga una conexión con lo "nouménico" para seguir construyendo el armazón del Demiurgo Tecnológico con una estética "liberadora".
-
----
-
-**Versión:** 1.0
-**Enfoque:** Estados alterados de conciencia y desarrollo técnico.
-**Estado:** 2026-02-25 | Informe Activo

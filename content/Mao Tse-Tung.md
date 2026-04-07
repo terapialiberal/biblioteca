@@ -1,47 +1,57 @@
 ---
-titulo: Mao Tse-Tung
-tipo: "persona"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [partido, skull, tung]
 publish: true
+aliases:
+  - Mao Zedong
+  - Mao Tse-Tung
+created: 2026-01-29T19:17:23.585-03:00
+modified: 2026-04-07T13:12:32.694-03:00
+tags:
+  - persona
+  - china
+  - comunismo
+  - ingenieria-social
 ---
 
 # Mao Tse-Tung
 
-## Resumen Ejecutivo
+Mao Tse-Tung fue el líder de la revolución comunista china y fundador de la República Popular China. Su figura concentra algunos de los experimentos más radicales y destructivos de transformación social del siglo XX.
 
-**Quién fue:** Líder supremo de la Revolución China y fundador de la República Popular China.
-**Por qué Importa:** Mao es el **Maestro del Reseteo Social por Trauma**. Bajo su mando, la humanidad experimentó los experimentos de ingeniería social más masivos y letales: el **Gran Salto Adelante** y la **Revolución Cultural**. Su método de "Guerra Popular" no solo era militar, era psicológica: destruir los "Cuatro Viejos" (viejas costumbres, cultura, hábitos e ideas) para borrar la memoria histórica de todo un pueblo y reemplazarla con una devoción total al Estado. Para un analista de Tier A, Mao fue el "Beta Tester" de la tecnocracia moderna: demostró que es posible controlar a mil millones de personas mediante el terror, la propaganda y la destrucción sistemática de la estructura familiar tradicional.
+## Síntesis
 
-## Análisis (Tiers)
+En TL interesa como caso extremo de poder revolucionario convertido en aparato total de reingeniería política, cultural y demográfica. El maoísmo no fue solo un proyecto de toma del Estado: fue una intervención masiva sobre memoria, propiedad, familia, educación y obediencia.
 
-### Tier A (La Conexión Occidental Oculta)
+## Hitos principales
 
-- **Yale en China (Yale-in-China):** Investigaciones históricas sugieren que Mao fue apoyado y "cultivado" en sus inicios por asociaciones vinculadas a la Universidad de Yale (donde operan sociedades como **[[Skull and Bones]]**). David Rockefeller, tras visitar la China de Mao en 1973, escribió en el New York Times: _"El experimento social en China bajo el liderazgo del presidente Mao es uno de los más importantes y exitosos de la historia humana"_. Mao fue el instrumento de Tier A para industrializar forzosamente a China y convertirla en la fábrica (y el laboratorio de control) del mundo.
-- **El Modelo de la Hormiga:** Mao redujo la individualidad humana al nivel de un insecto sirviente de la colmena estatal. Este modelo de "Eficiencia Totalitaria" es el que hoy el **WEF** y el **Agenda 2030** proponen sutilmente para Occidente bajo la máscara de la "emergencia" (climática o sanitaria).
-
-### Tier B (La Guardia Roja Y El Cancelamiento)
-
-- **La Revolución Cultural como Prototipo de la Cultura Woke:** La Guardia Roja de Mao (estudiantes adoctrinados que humillaban e invalidaban a sus profesores y padres por no ser "suficientemente revolucionarios") es el antepasado directo de las tácticas de cancelación digital modernas. Mao entendió que para controlar una sociedad, debes empoderar a los jóvenes más ignorantes y fanatizados para que actúen como la policía moral del sistema.
-
-## âš¡ Conclusión TL
-
-Mao no fue un rebelde contra el sistema global; fue la **Aplanadora Humana** que Tier A utilizó para demoler la antigua civilización china y preparar el terreno para la tecnocracia digital de hoy. Sus millones de muertos fueron considerados "efectos colaterales" necesarios para el progreso del Gran Plan.
-
----
-
-## Conexiones
-
-- [[00_Glosario - Conceptos Fase 1#Partido Comunista Chino|Partido Comunista Chino]]
-- [[David Rockefeller]] (Su admirador de Tier A)
-- [[Yale en China]] / [[Skull and Bones]]
-- [[Revolución Cultural]] (El manual de la desestabilización social)
+- victoria comunista y fundación de la RPC en 1949
+- colectivización y centralización acelerada
 - [[Gran Salto Adelante]]
+- [[Revolucion Cultural]]
 
-## Fuentes
+## Claves analíticas
 
-- "Mao: The Unknown Story" - Jung Chang & Jon Halliday.
-- "The Keys of This Blood" - Malachi Martin (menciona la convergencia transnacional de Mao).
-- Artículos de David Rockefeller sobre China (1973).
+- destruyó estructuras tradicionales para reemplazarlas por lealtad ideológica total
+- combinó propaganda, movilización juvenil y terror administrativo
+- convirtió la política en una lógica de purga permanente
+- mostró la capacidad de un Estado para reorganizar una civilización entera desde arriba
+
+## Lectura estratégica
+
+Mao puede leerse como antecedente de modelos de control social donde:
+
+- la verdad oficial sustituye a la memoria histórica
+- la masa militante actúa como policía cultural
+- la crisis permanente se usa para consolidar obediencia
+
+La comparación con fenómenos contemporáneos debe hacerse con cuidado, pero su experiencia sigue siendo útil para estudiar cancelación, fanatización de cuadros jóvenes y legitimación del trauma como herramienta de reset político.
+
+## Nodos relacionados
+
+- [[China]]
+- [[Gran Salto Adelante]]
+- [[Revolucion Cultural]]
+- [[Skull and Bones]]
+- [[Klaus Schwab]]
+
+## Observación
+
+Conviene separar los hechos históricos comprobables de extrapolaciones geopolíticas más especulativas. La utilidad principal del nodo está en el patrón de poder, no en inflar conexiones débiles.

@@ -2,8 +2,9 @@
 titulo: Air America (La Aerolínea De La CIA)
 tipo: "persona"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [aerolnea, america, evergreen, tringulo]
 publish: true
 ---

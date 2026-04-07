@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:22.825-03:00
-modified: 2026-03-16T09:22:39.605-03:00
+modified: 2026-04-07T10:50:24.770-03:00
 tags:
   - banco
   - institucionalizada
@@ -60,9 +60,3 @@ tags:
 ## Conclusión Del Análisis
 
 La P2 no fue una anomalía: fue el **modelo operativo del poder real**. Demostró que las decisiones no se toman en el parlamento, sino en logias privadas donde el jefe de la policía se sienta con el banquero y el dueño del periódico. En Argentina, la sombra de la P2 explica gran parte de la historia oscura de los 70 y 80 — desde la Triple A hasta los negocios de la dictadura.
-
----
-
-**Versión:** 3.0 (fusión Logia P2 v1.0 + P2 Lodge v2.0 + Logia P2 Propaganda Due v1.0)
-**Enfoque:** Infiltración estatal, nexo Italia-Argentina, banca vaticana, López Rega/Triple A y modelo de Estado paralelo.
-**Estado:** Activo.

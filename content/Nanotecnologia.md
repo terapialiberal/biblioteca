@@ -2,8 +2,9 @@
 titulo: Nanotecnologia
 tipo: "concepto"
 fecha: 2026-03-04
-tier-primario: "b"
-nivel-evidencia: "alto"
+tier_primario: "b"
+nivel_evidencia: "alto"
+estado: activo
 tags: [nanotecnologia, grafeno, biosensado, control, vigilancia]
 publish: true
 ---
@@ -34,7 +35,3 @@ China y el bloque occidental compiten por la hegemonía de la fabricación de na
 ## 📊 Cui Bono
 
 El **Tier A** captura los derechos de suscripción sobre la salud humana. El organismo deja de ser propio para ser un "entorno administrado" por patentes propietarias.
-
----
-
-_TL V.3 | Reporte de Ciencia de Materiales y Control Sistémico_

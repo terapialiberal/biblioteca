@@ -2,9 +2,10 @@
 titulo: Simbología De Banderas Tier B (Heráldica De Operaciones)
 tipo: "entidad"
 fecha: 2026-02-25
+estado: activo
 tags: [banderas, estrellas, simbologa, union]
-tier-primario: "b"
-nivel-evidencia: "alto"
+tier_primario: "b"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -36,9 +37,3 @@ publish: true
 ## Cui Bono
 
 ¿Quién gana? Los **Propietarios de la Granja**. La simbología de las banderas asegura que el Tier C pelee entre sí por identidades artificiales, mientras el Tier A gestiona el planeta completo sin fronteras reales ni estandartes visibles.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Vexilología como herramienta de marcado de territorio y control de masas.
-**Estado:** 2026-02-25 | Informe Activo

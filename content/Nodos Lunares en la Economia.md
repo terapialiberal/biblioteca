@@ -2,9 +2,10 @@
 titulo: Nodos Lunares En La Economía
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [economa, lunares, nodos]
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
 publish: true
 ---
 

@@ -2,8 +2,9 @@
 titulo: Timothy Geithner
 tipo: "persona"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [geithner, goldman, larry, timothy]
 publish: true
 ---
@@ -20,7 +21,7 @@ Timothy Geithner fue presidente del NY Fed (2003-2009) durante la burbuja y el c
 
 Como Secretario del Tesoro (2009-2013), lideró el rescate de Wall Street.
 
-## Âš ï¸ Críticas
+## Criticas
 
 - Rescató bancos, no hogares
 - Ningún banquero fue a prisión

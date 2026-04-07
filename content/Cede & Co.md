@@ -2,8 +2,9 @@
 titulo: "Cede & Co: La Ilusión De La Propiedad Privada"
 tipo: "persona"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [dtcc, ilusin, propiedad, reserva]
 publish: true
 ---
@@ -44,9 +45,3 @@ publish: true
 ## Conclusión Del Análisis
 
 Cede & Co. es la prueba de que **el capitalismo moderno ha abolido la propiedad privada real** en los mercados financieros. Vivimos en un régimen de "permiso de uso" de activos. Si no tienes el certificado físico (o Registro Directo / DRS), no eres dueño de nada; solo tienes una promesa de pago de un sistema diseñado para protegerse a sí mismo a costa tuya.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Estructura legal de la propiedad de acciones y riesgo sistémico.
-**Estado:** Informe de Inteligencia Activo.

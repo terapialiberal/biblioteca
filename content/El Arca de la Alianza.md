@@ -1,8 +1,9 @@
 ---
 titulo: El Arca de la Alianza
 tipo: "concepto"
-tier-primario: "a"
-nivel-evidencia: "medio"
+tier_primario: "a"
+nivel_evidencia: "medio"
+estado: activo
 tags: [esoterismo, reliquia, pacto, ley, poder]
 publish: true
 ---
@@ -29,7 +30,3 @@ La búsqueda esotérica del Arca (o su réplica simbólica) está ligada a la re
 - [[Reliquias de Poder]]: El marco general.
 - [[John Dee y el Lenguaje Enoquiano]]: El intento de contactar con la inteligencia del Arca.
 - [[Bitcoin]]: El Arca digital del valor inmutable.
-
----
-
-_TL-INTEL V.3 | Metafísica de la Ley_

@@ -1,8 +1,9 @@
 ---
 titulo: Vigilancia Predictiva
 tipo: "concepto"
-tier-primario: "b"
-nivel-evidencia: "alto"
+tier_primario: "b"
+nivel_evidencia: "alto"
+estado: activo
 tags: [vigilancia, algoritmo, control, pre-crimen]
 publish: true
 ---
@@ -33,7 +34,3 @@ En 2026, la vigilancia predictiva se aplica al **Pensamiento Disidente**:
 - [[Palantir CIA]]: El cerebro del sistema.
 - [[Social Credit West]]: La interfaz social.
 - [[Total Information Awareness]]: El proyecto original de la DARPA.
-
----
-
-_TL-INTEL V.3 | Seguridad Forense_

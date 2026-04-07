@@ -2,8 +2,9 @@
 titulo: Caso Skripal (Envenenamiento De Salisbury)
 tipo: evento
 fecha: 2026-02-25T00:00:00.000Z
-tier-primario: b
-nivel-evidencia: medio
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
 tags:
   - caso-skripal
   - guerra-híbrida

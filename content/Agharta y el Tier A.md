@@ -2,9 +2,10 @@
 titulo: Agharta Y El Tier A (La Continuidad Oculta)
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [agharta, misterios, operacin]
-tier-primario: "a"
-nivel-evidencia: "bajo"
+tier_primario: "a"
+nivel_evidencia: "bajo"
 publish: true
 ---
 
@@ -36,9 +37,3 @@ publish: true
 ## Cui Bono
 
 ¿Quién gana? Los **Herederos del Mundo**. Agharta asegura que, no importa cuán destructivo sea el reseteo en la superficie, el Tier A siempre mantenga un hilo de continuidad intacto, permitiéndoles reemerger como "dioses" ante los supervivientes traumatizados.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Infraestructura de supervivencia de élite y mitología de la continuidad.
-**Estado:** 2026-02-25 | Informe Activo

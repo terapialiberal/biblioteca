@@ -2,9 +2,10 @@
 titulo: El Secreto De Los Nibelungos (El Oro Y La Maldición De La Deuda)
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [nibelungos, secreto]
-tier-primario: "a"
-nivel-evidencia: "medio"
+tier_primario: "a"
+nivel_evidencia: "medio"
 publish: true
 ---
 
@@ -16,9 +17,3 @@ publish: true
 ## Análisis Forense
 
 - Wagner decodificó este mito para el Tier B industrial. El Anillo es el contrato bancario original: aquel que renuncia al amor (soberanía humana) por el poder (moneda) queda atrapado en el Ledger del Tier A para siempre.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Mitología del capital y el precio de la traición ontológica.
-**Estado:** 2026-02-25 | Informe Activo

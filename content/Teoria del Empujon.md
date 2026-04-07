@@ -2,8 +2,9 @@
 titulo: Teoría Del Empujón (Nudge Theory)
 tipo: "concepto"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [empujn, guerra, nudge, theory]
 publish: true
 ---

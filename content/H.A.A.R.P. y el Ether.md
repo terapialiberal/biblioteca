@@ -2,9 +2,10 @@
 titulo: H.A.A.R.P. Y El Ether
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [ether]
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
 publish: true
 ---
 

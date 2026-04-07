@@ -2,8 +2,9 @@
 titulo: "Nathaniel Rothschild: El Soberano De Los Recursos (v1.0)"
 tipo: "persona"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [jacob, nathaniel, rothschild, soberano]
 publish: true
 ---
@@ -90,11 +91,3 @@ graph TD
     end
 
 ```
-
----
-
-**Versión:** 1.0
-
-**Enfoque:** Control de commodities, infraestructura tecnológica y sucesión dinástica agresiva.
-
-**Estado:** Informe de Inteligencia Activo.

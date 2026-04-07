@@ -2,8 +2,9 @@
 titulo: "Libra / Diem: El Intento De Golpe De Estado De Silicon Valley"
 tipo: "persona"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [estado, libra, mark, silicon]
 publish: true
 ---
@@ -27,14 +28,3 @@ publish: true
 ## âš¡ Conclusión De Terapia Liberal
 
 Libra fue el momento en que Zuckerberg voló demasiado cerca del sol. Intentó emitir dinero, el "Santo Grial" del poder. Los dueños de las prensas de billetes le mostraron quién es el verdadero jefe mediante regulación asfixiante. Sin embargo, el código de Libra no murió; se transformó en los protocolos de control que hoy vemos en el diseño de las CBDCs. El Tier A no odiaba la tecnología de Libra, odiaba que el dueño no fueran ellos.
-
----
-
-## Conexiones De La Red
-
-- **El Protagonista:** [[Mark Zuckerberg]], [[David Marcus]].
-- **La Contraparte:** [[Reserva Federal]], [[Banco de Pagos Internacionales|BPI (Banco de Pagos Internacionales)]], [[FMI]].
-- **El Sucesor:** [[CBDC (Moneda Digital de Banco Central)]].
-- **Sombra:** [[Jeffrey Epstein]] (Relación con el sistema bancario).
-
-**Estado:** Refactoreado a TL V.3 - Framework de Inteligencia Aplicado.

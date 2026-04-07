@@ -1,42 +1,39 @@
 ---
-titulo: Carbine
-tipo: "concepto"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [carbine, ehud, jeffrey]
 publish: true
+aliases:
+  - Carbine
+  - Carbyne
+created: 2026-01-29T19:17:06.437-03:00
+modified: 2026-04-07T13:30:39.175-03:00
+tags:
+  - tecnologia
+  - inteligencia
+  - israel
+  - vigilancia
 ---
 
-# Carbine
+# Carbyne
 
-> [!ABSTRACT] Ficha Técnica
-> **Narrativa Official:** Empresa de ciberseguridad israelí.
-> **Función Real:** Operación de ciberinteligencia con financiamiento vía Epstein y Rothschild.
+Carbyne es una empresa vinculada al campo de la inteligencia, las comunicaciones de emergencia y la analítica de datos, frecuentemente mencionada en discusiones sobre el ecosistema israelí de ciberseguridad e intersección entre tecnología privada y aparato de seguridad.
 
-## Actores Clave
+## Síntesis
 
-- [[Ehud Barak]] - Fundador/beneficiario
-- [[Jeffrey Epstein]] - Canal de inversión
-- [[Ariane de Rothschild]] - Financista
-- [[Peter Thiel]] - Co-inversor
+Su interés dentro de TL surge por la red de nombres asociados a su financiación y entorno político, más que por el producto en sí. El nodo permite mapear cómo capital, ex funcionarios de seguridad y empresas tecnológicas convergen en el mercado de infraestructura crítica.
 
-## Financiamiento
+## Claves de lectura
 
-Según emails filtrados:
+- se la asocia al ecosistema israelí de ciberinteligencia
+- aparecen nombres como [[Ehud Barak]] y [[Jeffrey Epstein]] en investigaciones periodísticas y filtraciones públicas
+- conecta inversión privada, seguridad pública y captura de datos sensibles
 
-- Ariane de Rothschild â†’ Epstein â†’ Barak
-- Mensaje: "Díganle a Barack que si quiere hacer dinero en serio, tiene que hacerlo con nosotros"
+## Precaución
 
-## Conexiones
+La información alrededor de Carbyne suele venir mezclada entre reporteo sólido, filtraciones parciales e inferencias amplificadas por la red. Conviene sostener el nodo con fuentes documentales concretas y no sobrecargarlo con asociaciones débiles.
 
-Parte del ecosistema de ciberinteligencia israelí junto con:
+## Nodos relacionados
 
+- [[Ehud Barak]]
+- [[Jeffrey Epstein]]
 - [[NSO Group]]
 - [[Black Cube]]
 - [[Unidad 8200]]
-
-## Fuentes
-
-- Epstein emails (filtrados)
-- Investigaciones periodísticas

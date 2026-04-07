@@ -2,9 +2,10 @@
 titulo: Mafia Rusa (Bratva) — El Brazo Armado Del Capitalismo De Estado
 tipo: "persona"
 fecha: 2026-02-25
+estado: activo
 tags: [mafia, rusa]
-tier-primario: "b"
-nivel-evidencia: "alto"
+tier_primario: "b"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -36,9 +37,3 @@ publish: true
 ## Cui Bono
 
 **La Homeostasis del Régimen**. La Mafia Rusa asegura que no existan centros de poder independientes. Al criminalizar toda actividad económica relevante, el Estado (Tier A) garantiza que todos los actores sean vulnerables y, por lo tanto, leales.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Simbiosis entre crimen organizado, inteligencia y oligarquía rusa.
-**Estado:** 2026-02-25 | Informe Activo

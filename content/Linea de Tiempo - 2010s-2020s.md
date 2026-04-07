@@ -1,51 +1,68 @@
 ---
-titulo: 'â³ Línea De Tiempo: 2010s-2020s (La Captura Tecnocrática)'
-tipo: concepto
-fecha: 2026-02-25T00:00:00.000Z
-tier-primario: b
-nivel-evidencia: medio
+publish: true
+aliases:
+  - "Línea De Tiempo: 2010s-2020s (La Captura Tecnocrática)"
+created: 2026-01-29T19:17:23.342-03:00
+modified: 2026-04-07T11:37:41.785-03:00
 tags:
+  - timeline
   - tecnocracia
-  - gran-reinicio
+  - great-reset
   - cbdc
   - vigilancia-digital
-  - biopolitica
-publish: true
+  - tl-intel-v3
 ---
 
-# â³ Línea De Tiempo: 2010s-2020s (La Captura Tecnocrática)
+# [[Línea de Tiempo - 2010s-2020s]]
 
-> [!ABSTRACT] Resumen Era
-> Esta es la era de la **Fusión Total** entre el Estado Profundo y Big Tech. El poder real de **Tier A** ha transitado del control por la fuerza al control por el algoritmo y la biología. Es el periodo de la "Pandemia de Control" y el lanzamiento del **[[Great Reset]]**, donde las crisis (salud, clima, guerra) se utilizan como catalizadores para eliminar la soberanía individual e imponer un sistema de crédito social y monedas digitales (**[[CBDC]]**).
+> [!abstract] PERFIL TL-INTEL
+> Década marcada por la fusión entre Big Tech, seguridad, biopolítica y gobernanza algorítmica. En TL se lee como fase de captura tecnocrática acelerada.
 
-## Hitos Críticos Y Operaciones
+## Hitos clave
 
-### 2010s: La Privatización De La Verdad
+### 2013
 
-- **2013: Revelaciones de Snowden:** Se expone el **[[Panóptico Digital]]**. El mundo descubre que no hay privacidad, pero el Tier B utiliza el evento como un **Standard de Normalización**: ahora que sabes que te vigilan, dejas de resistirte.
-- **2016-2018: Guerra contra las "Fake News":** Comienza la construcción del **[[Complejo Industrial de la Censura]]**. Tras el triunfo de Trump/Brexit, el Tier A decide que el internet "libre" es peligroso. Silicon Valley recibe órdenes de filtrar la realidad.
-- **2019 (Oct): [[Evento 201]]:** Simulacro de pandemia de coronavirus organizado por el **[[WEF]]**, Gates y Johns Hopkins. Se diseña la respuesta: censura, confinamientos y pasaportes digitales.
+Revelaciones de Snowden. Se expone el [[Panóptico Digital]], pero también se normaliza culturalmente la idea de vigilancia masiva como hecho consumado.
 
-### 2020s: El Gran Reinicio (The Great Reset)
+### 2016-2018
 
-- **2020 (Ene): Activación COVID-19:** El guion del Evento 201 se ejecuta con precisión quirúrgica. Se suspenden los derechos civiles globalmente basándose en una emergencia biológica.
-- **2020 (Jul): Lanzamiento de "The Great Reset":** **[[Klaus Schwab]]** oficializa que la pandemia es la "ventana de oportunidad" para reconfigurar el capitalismo hacia un modelo de control totalitario ("No poseerás nada y serás feliz").
-- **2021-2023: Biopolítica y CBDCs:** Implementación de mandatos médicos y aceleración de las monedas digitales de bancos centrales para controlar el gasto humano. El **[[Lobby del Azúcar]]** y las farmacéuticas se fusionan en el control de la salud masiva.
-- **2023-2025: El Pivote de la IA y el Conflicto Logístico:** La guerra en Ucrania y **[[Gaza]]** se utilizan para reconfigurar los corredores de energía y datos (corredor **[[IMEC]]**). La IA se convierte en la herramienta de vigilancia y censura predictiva definitiva.
+Guerra contra las “fake news” y consolidación del [[Complejo Industrial de la Censura]]. Se acelera el giro desde internet abierto hacia moderación, ranking y filtrado coordinado.
 
-## âš¡ Patrones Detectados Por Bóveda
+### 2019
 
-1. **Simulacro â†’ Evento:** Nada ocurre sin ser ensayado previamente (Dark Winter, Evento 201). La élite de Tier A no improvisa.
-2. **Crisis â†’ Centralización:** Cada problema fabricado resulta en más poder para los organismos no electos ([[00_Glosario - Conceptos Fase 1#WHO|WHO]], [[WEF]], [[BIS]]).
-3. **Delincuencia Tecnológica:** Las herramientas de libertad (redes sociales, internet) han sido transformadas en infraestructuras de extracción de **[[Loosh]]** y control mental.
+[[Evento 201]] como simulacro emblemático de respuesta pandémica y coordinación narrativa.
 
----
+### 2020
 
-## Conexiones De La Red
+COVID-19 como activación global de biopolítica, suspensión de derechos y despliegue de gestión poblacional a gran escala.
 
-- **Arquitectos:** [[Klaus Schwab]], [[Bill Gates]], [[Larry Fink (BlackRock)]].
-- **Operarios:** [[Sam Altman]], [[Elon Musk]] (en su rol de contratista militar/satelital), [[Alexandre de Moraes]].
-- **Conceptos:** [[Cuarta Revolución Industrial]], [[Transhumanismo]], [[Identidad Digital]], [[CBDC]].
-- **Proyectos:** [[Gaza]] (IMEC Hub), [[Smart Cities]], [[Crédito Social]].
+### 2020-2021
 
-**Estado:** Refactoreado a TL V.3 - Perspectiva de Tecnocracia Global.
+Lanzamiento del [[Great Reset]] y formalización de la pandemia como “ventana de oportunidad” para reconfigurar orden económico y social.
+
+### 2021-2023
+
+Aceleración de mandatos, pasaportes, plataformas sanitarias y discusión estructural sobre [[CBDC]] y control digital.
+
+### 2023-2025
+
+Escalada de IA, guerra logística, corredores energéticos y uso de conflictos como [[Gaza]] o Ucrania para reordenar infraestructura, datos y cadenas de poder.
+
+## Patrones detectados
+
+1. Simulacro -> evento
+2. Crisis -> centralización
+3. Tecnología -> infraestructura de control
+4. Emergencia -> suspensión de deliberación
+
+## Conexiones
+
+- [[Great Reset]]
+- [[CBDC]]
+- [[Panóptico Digital]]
+- [[Complejo Industrial de la Censura]]
+- [[Evento 201]]
+
+## Observación operativa
+
+La lectura TL de esta década no es solo “más tecnología”. Es el pasaje desde control visible hacia administración algorítmica, biométrica y narrativa del comportamiento.

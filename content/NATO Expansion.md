@@ -2,8 +2,9 @@
 titulo: "NATO Expansión: La Estrategia De Contención Geopolítica"
 tipo: "entidad"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [contencin, expansin, industria, otan]
 publish: true
 ---
@@ -40,9 +41,3 @@ publish: true
 ## Conclusión Del Análisis
 
 La expansión de la OTAN es el mecanismo de control militar global que asegura la hegemonía estadounidense y justifica el complejo militar-industrial.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Análisis de Expansión Militar
-**Estado:** Informe de Inteligencia Activo

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:08.041-03:00
-modified: 2026-03-16T09:20:32.855-03:00
+modified: 2026-04-07T10:48:01.213-03:00
 tags:
   - club-safari
   - estado-profundo
@@ -57,8 +57,3 @@ El Club Safari es la prueba de que **el Estado Profundo no es una teoría: es un
 
 - Joseph Trento: "The Secret History of the CIA" (cobertura del Club Safari).
 - Investigaciones sobre el BCCI (Kerry Committee Report, 1992).
-
----
-
-**Versión:** 2.0 (fusión Club Safari v1.0 + Club Safari La CIA privatizada v1.0)
-**Estado:** Activo.

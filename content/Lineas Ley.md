@@ -2,9 +2,10 @@
 titulo: Líneas Ley (Meridianos Del Globo)
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [giza, lneas, meridianos]
-tier-primario: "a"
-nivel-evidencia: "medio"
+tier_primario: "a"
+nivel_evidencia: "medio"
 publish: true
 ---
 
@@ -36,9 +37,3 @@ publish: true
 ## Cui Bono
 
 ¿Quién gana? Los **Ingenieros del Paisaje Sagrado**. El control de las líneas ley permite que el Tier A mantenga una soberanía territorial que es invisible para la política democrática de Tier C, pero que es físicamente operante en la estabilidad de su reinado.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Gestión energética del territorio y nodos de poder telúrico.
-**Estado:** 2026-02-25 | Informe Activo

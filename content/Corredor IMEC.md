@@ -2,8 +2,9 @@
 titulo: "Corredor IMEC: La Pinza De Occidente Sobre El Rimland"
 tipo: "persona"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [adebayo, imec, pinza, rimland]
 publish: true
 ---
@@ -45,9 +46,3 @@ publish: true
 - [[MBS (Mohammed bin Salman)]]: El financista principal vía PIF.
 - [[Adebayo Ogunlesi]]: Su firma GIP es el dueño real de muchos de estos puertos.
 - [[Project mBridge]]: mBridge es la competencia financeira (Brics); IMEC es la competencia física (G7).
-
----
-
-**Falsabilidad**: Si Arabia Saudita prioriza el BRICS Bridge y mBridge por encima de la normalización con Israel, el IMEC se degradará a una simple ruta marítima India-EAU sin conexión ferroviaria al Mediterráneo.
-
-_Versión: 2.0 | Protocolo TL-INTEL TL V.3_

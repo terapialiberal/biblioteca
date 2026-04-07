@@ -1,8 +1,9 @@
 ---
 titulo: El Zodiaco de Dendera
 tipo: "concepto"
-tier-primario: "a"
-nivel-evidencia: "medio"
+tier_primario: "a"
+nivel_evidencia: "medio"
+estado: activo
 tags: [esoterismo, egipto, ciclos, precesion, tiempo]
 publish: true
 ---
@@ -31,7 +32,3 @@ La ubicación de los nodos de poder en 2026 sigue la lógica de este mapa:
 - [[Precesion de los Equinoccios]]: La mecánica celeste.
 - [[La Era de Acuario]]: La fase operativa actual.
 - [[Reliquias de Poder]]: Por qué estos artefactos son custodiados.
-
----
-
-_TL-INTEL V.3 | Cronos y Poder_

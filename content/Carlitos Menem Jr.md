@@ -2,8 +2,9 @@
 titulo: Carlitos Menem Jr. (El Tercer Atentado)
 tipo: "persona"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [atentado, carlitos, carlos, tercer]
 publish: true
 ---

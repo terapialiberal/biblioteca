@@ -2,8 +2,9 @@
 titulo: Belt and Road Initiative (BRI)
 tipo: "concepto"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [belt, brics, initiative, road]
 publish: true
 ---

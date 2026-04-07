@@ -2,9 +2,10 @@
 titulo: Mafia Jázara — El Sindicato Del Crimen De Estado
 tipo: "persona"
 fecha: 2026-02-25
+estado: activo
 tags: [askenazis, jacob, jzara, mafia]
-tier-primario: "a"
-nivel-evidencia: "medio"
+tier_primario: "a"
+nivel_evidencia: "medio"
 publish: true
 ---
 
@@ -50,9 +51,3 @@ publish: true
 ## Falsabilidad
 
 Esta tesis se invalidaría si se demostrara que los sistemas de banca central operan con transparencia total hacia el Tier C y que los linajes financieros no tienen coordinación estratégica en la gestión de crisis globales.
-
----
-
-**Versión:** 2.0 (Deepened)
-**Enfoque:** Redes de poder hereditarias, camuflaje de identidad y captura financiera.
-**Estado:** 2026-02-25 | Informe Activo

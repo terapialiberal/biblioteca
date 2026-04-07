@@ -2,9 +2,10 @@
 titulo: "Cabalá Oscura (Qlippoth: Cáscaras Del Mal)"
 tipo: "persona"
 fecha: 2026-02-25
+estado: activo
 tags: [cabal, jacob, oscura, sephirot]
-tier-primario: "a"
-nivel-evidencia: "medio"
+tier_primario: "a"
+nivel_evidencia: "medio"
 publish: true
 ---
 
@@ -36,9 +37,3 @@ publish: true
 ## Cui Bono
 
 ¿Quién gana? Los **Habitantes del Lado Oscuro**. La Cabalá Oscura otorga al Tier A la capacidad de gobernar mediante el vacío, asegurando que la humanidad se mantenga en los niveles más bajos de la conciencia mientras su energía es succionada por los directorios de las megacorporaciones qlippóticas.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Metafísica del mal estructural y sistemas de extracción.
-**Estado:** 2026-02-25 | Informe Activo

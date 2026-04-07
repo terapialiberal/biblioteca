@@ -2,8 +2,9 @@
 titulo: Glaciares (Ley Y Veto Barrick)
 tipo: "concepto"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [barrick, cristina, glaciares, veto]
 publish: true
 ---

@@ -2,8 +2,9 @@
 titulo: "Ley De La Reserva Federal: El Acta De Rendición Monetaria"
 tipo: "concepto"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [acta, conferencia, monetaria, reserva]
 publish: true
 ---
@@ -27,15 +28,3 @@ publish: true
 ## âš¡ Conclusión De Terapia Liberal
 
 1913 fue el año en que la libertad estadounidense murió financieramente. La Ley de la Reserva Federal convirtió al dólar en un **instrumento de deuda** y al ciudadano en un **collateral** de la misma. Todo el sistema actual de "Follow the Money" nace aquí: quienes imprimieron el dinero ese día, compraron el mundo que vivimos hoy.
-
----
-
-## Conexiones De La Red
-
-- **El Organismo:** [[Reserva Federal]].
-- **La Cuna:** [[Conferencia de Jekyll Island]].
-- **Los Arquitectos:** [[J.P. Morgan]], [[Paul Warburg]], [[Nelson Aldrich]], [[John D. Rockefeller]].
-- **Antecedentes:** [[Pánico de 1907]] (La crisis fabricada).
-- **Consecuencias:** [[Depresión de 1920]], [[Crash de Wall Street 1929]], [[00_Glosario - Conceptos Fase 1#Bretton Woods|Bretton Woods]].
-
-**Estado:** Refactoreado a TL V.3 - Framework de Inteligencia Aplicado.

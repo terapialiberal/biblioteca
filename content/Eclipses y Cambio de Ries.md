@@ -1,8 +1,9 @@
 ---
 titulo: Eclipses y Cambio de Rieles
 tipo: "concepto"
-tier-primario: "a"
-nivel-evidencia: "medio"
+tier_primario: "a"
+nivel_evidencia: "medio"
+estado: activo
 tags: [esoterismo, astrologia, ciclos, eventos, poder]
 publish: true
 ---
@@ -27,7 +28,3 @@ No es superstición; es el uso del **Símbolo Natural** para anclar emocionalmen
 - [[Solsticios Operativos]]: Otros puntos de inflexión.
 - [[Astro-Cartografia del Rimland]]: Dónde cae la sombra del eclipse.
 - [[Vudu Geopolitico]]: La creación de la crisis necesaria.
-
----
-
-_TL-INTEL V.3 | Cronología de Poder_

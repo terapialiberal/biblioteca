@@ -2,9 +2,10 @@
 titulo: Logia Hijos De Oriente
 tipo: "entidad"
 fecha: 2026-02-25
+estado: activo
 tags: [baring, comercio, hijos, logia]
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
 publish: true
 ---
 
@@ -37,9 +38,3 @@ publish: true
 ## Cui Bono
 
 ¿Quién capturó el activo? La **élite comercial portuaria**. La Logia Hijos de Oriente fue el instrumento para que el Litoral y Buenos Aires se integraran al mercado global como exportadores de materias primas bajo condiciones dictadas desde afuera.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Control comercial y redes de influencia económica regional.
-**Estado:** 2026-02-25 | Informe Activo

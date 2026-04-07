@@ -2,8 +2,9 @@
 titulo: "Lynn Forester De Rothschild: El Puente Entre El Capital Y La Política"
 tipo: "concepto"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [henry, jeffrey, poltica, rothschild]
 publish: true
 ---
@@ -27,14 +28,3 @@ publish: true
 ## âš¡ Conclusión De Terapia Liberal
 
 Lynn Forester es la prueba de que el poder no se divide en naciones, sino en redes de sangre y matrimonio. Ella representa la "americanización" del control Rothschild y la "aristocratización" del Partido Demócrata. Su discurso sobre el "Capitalismo con Rostro Humano" es el **Kayfabe** máximo para ocultar la consolidación de un sistema feudal digital y corporativo.
-
----
-
-## Conexiones De La Red
-
-- **El Linaje:** [[Evelyn de Rothschild]], [[Henry Kissinger]] (Celestino político).
-- **Socios del Poder:** [[Bill Clinton]], [[Hillary Clinton]], [[Papa Francisco]] (Alianza por el Capitalismo Inclusivo).
-- **Sombra:** [[Jeffrey Epstein]] (Relación documentada en registros y correos).
-- **Medios:** [[00_Glosario - Conceptos Fase 1#The Economist|The Economist]].
-
-**Estado:** Refactoreado a TL V.3 - Framework de Redes de Poder Global.

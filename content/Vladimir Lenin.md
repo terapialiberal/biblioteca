@@ -2,8 +2,9 @@
 titulo: Vladimir Lenin
 tipo: "persona"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [antony, lenin, revolucin, vladimir]
 publish: true
 ---
@@ -27,7 +28,7 @@ Gobernó hasta su muerte en 1924.
 - Campos de concentración (precursores del Gulag)
 - Eliminación de toda oposición
 
-## Âš ï¸ Financiamiento
+## Financiamiento
 
 [[Antony Sutton]] y otros documentan que banqueros occidentales financiaron a los bolcheviques (ver [[Wall Street y la Revolución Bolchevique (Sutton Vol 1)]]).
 

@@ -1,8 +1,9 @@
 ---
 titulo: Astrología Financiera
 tipo: "concepto"
-tier-primario: "a"
-nivel-evidencia: "medio"
+tier_primario: "a"
+nivel_evidencia: "medio"
+estado: activo
 tags: [finanzas, astrologia, ciclos, mercado]
 publish: true
 ---
@@ -30,7 +31,3 @@ El [[Tier A]] no ve la astrología como adivinación, sino como **Cronometría d
 - [[Jupiter y Expansion]]: Ciclos de bull market.
 - [[Saturno y Deuda]]: Ciclos de bear market y regulación.
 - [[Manipulacion de Mercados]]: El uso de estas señales para guiar al [[Tier C]].
-
----
-
-_TL-INTEL V.3 | Finanzas Esotéricas_

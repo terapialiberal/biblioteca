@@ -2,9 +2,10 @@
 titulo: "Gnosticismo Digital: Escapar De La Biología"
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [digital, gnosticismo, matrix, simulacin]
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
 publish: true
 ---
 
@@ -36,9 +37,3 @@ publish: true
 ## Cui Bono
 
 ¿Quién gana? El **Arquitecto de la Simulación**. El Gnosticismo Digital redirige la energía de rebelión del ser humano contra su propia biología, en lugar de dirigirla contra los sistemas de control que lo oprimen en el plano físico.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Ideología transhumanista y renuncia a la soberanía biológica.
-**Estado:** 2026-02-25 | Informe Activo

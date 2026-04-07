@@ -2,8 +2,9 @@
 titulo: Agenda Transgénero Y Pritzker
 tipo: "concepto"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [agenda, neuralink, pfizer, pritzker]
 publish: true
 ---

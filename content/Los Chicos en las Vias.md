@@ -2,8 +2,9 @@
 titulo: "Los Chicos En Las Vías: El Crimen De Mena Y La Protección Clinton"
 tipo: "concepto"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [bill, chicos, crimen, vas]
 publish: true
 ---
@@ -27,14 +28,3 @@ publish: true
 ## âš¡ Conclusión De Terapia Liberal
 
 Mena no fue un error; fue un **modelo de negocio estatal**. Los asesinatos de Ives y Henry prueban que el Estado no es un protector, sino un competidor en el crimen organizado cuando hay presupuestos negros involucrados. Si quieres entender cómo funciona el "Deep State" local, mira hacia las vías de Arkansas: allí murió la inocencia del sistema judicial estadounidense.
-
----
-
-## Conexiones De La Red
-
-- **Protagonistas Negros:** [[Bill Clinton]], [[Barry Seal]], [[Fahmy Malak]].
-- **Agencias:** [[CIA]], [[FBI]] (Cómplices del encubrimiento).
-- **Lugares:** [[Mena, Arkansas]], [[Little Rock]].
-- **Relacionado:** [[Cocaine Politics]], [[Irán-Contra]].
-
-**Estado:** Refactoreado a TL V.3 - Framework de Narco-Inteligencia.

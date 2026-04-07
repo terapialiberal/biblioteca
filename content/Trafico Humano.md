@@ -2,9 +2,10 @@
 titulo: Tráfico Humano — El Arma De La Desestabilización Demográfica
 tipo: "persona"
 fecha: 2026-02-25
+estado: activo
 tags: [george, humano, plan, trfico]
-tier-primario: "a"
-nivel-evidencia: "alto"
+tier_primario: "a"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -48,9 +49,3 @@ publish: true
 ## Cui Bono
 
 **El Estado de Vigilancia Global**. El caos generado por el tráfico humano justifica la eliminación del anonimato, la implementación de IDs digitales obligatorias y la vigilancia constante mediante IA en las fronteras y ciudades.
-
----
-
-**Versión:** 2.0 (Deepened)
-**Enfoque:** Migración masiva como arma geopolítica y control biopolítico.
-**Estado:** 2026-02-25 | Informe Activo

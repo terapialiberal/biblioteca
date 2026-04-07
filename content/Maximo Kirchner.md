@@ -2,8 +2,9 @@
 titulo: Máximo Kirchner
 tipo: "persona"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [cristina, hotesur, kirchner, mximo]
 publish: true
 ---
@@ -29,19 +30,3 @@ publish: true
 ## âš¡ Conclusión TL
 
 Máximo Kirchner es el recordatorio de que en Argentina la política es una industria extractiva hereditaria. No es un revolucionario; es un **curador de activos**. Su éxito consiste en haber convencido a una parte del Tier C de que su bienestar depende de que él siga controlando las llaves del tesoro nacional.
-
----
-
-## Conexiones
-
-- [[Cristina Kirchner]] (La fuente de su poder)
-- [[La Cámpora]] (Su ejército de cuadros)
-- [[Hotesur y Los Sauces]] (El mecanismo de retorno)
-- [[Néstor Kirchner]] (El origen)
-- [[Axel Kicillof]] (Aliado/Rival interno de Tier B)
-
-## Fuentes
-
-- Declaraciones juradas ante la Oficina Anticorrupción (Patrimonio declarado).
-- Investigaciones judiciales en las causas Hotesur y Vialidad.
-- El libro "La Cámpora" - Laura Di Marco.

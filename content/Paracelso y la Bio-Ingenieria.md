@@ -2,9 +2,10 @@
 titulo: Paracelso Y La Bio-Ingeniería
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [ingeniera, paracelso]
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
 publish: true
 ---
 

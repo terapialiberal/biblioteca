@@ -2,8 +2,9 @@
 titulo: "Lockheed Martin: El Martillo Del Complejo Militar-Industrial"
 tipo: "entidad"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [blackrock, industrial, martin, vanguard]
 publish: true
 ---
@@ -27,14 +28,3 @@ publish: true
 ## âš¡ Conclusión De Terapia Liberal
 
 Lockheed Martin no vende seguridad; vende **obsolecencia programada de la paz**. Su éxito se mide en el volumen de destrucción y en la longitud de las facturas al Pentágono. Si quieres saber por qué las guerras en el siglo XXI nunca parecen terminar, la respuesta está en los reportes trimestrales de dividendos de Lockheed.
-
----
-
-## Conexiones De La Red
-
-- **El Cliente:** [[Pentágono]], [[Departamento de Defensa]], [[OTAN]].
-- **La Competencia/Socio:** [[Raytheon]], [[Boeing]], [[Northrop Grumman]].
-- **Los Dueños:** [[BlackRock]], [[Vanguard]], [[State Street]].
-- **Programas:** [[F-35 Lightning II]], [[HIMARS]].
-
-**Estado:** Refactoreado a TL V.3 - Framework de Complejo Militar-Industrial.

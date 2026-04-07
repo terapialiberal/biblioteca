@@ -2,8 +2,9 @@
 titulo: "John Elkann: El Modernizador Silencioso"
 tipo: "persona"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [elkann, modernizador, silencioso, wallenberg]
 publish: true
 ---
@@ -45,9 +46,3 @@ publish: true
 ## Conclusión Del Análisis
 
 John Elkann es el **CEO de la Nobleza Negra**. Ha logrado lo que pocos herederos hacen: aumentar el poder y la riqueza de la familia adaptándola al siglo XXI. No le interesa Italia como patria, sino como plataforma de activos. Si ves un editorial de _The Economist_ alabando una reforma laboral o impulsando los autos eléctricos, estás leyendo la voluntad de John Elkann.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Gestión de activos globales y poder blando mediático.
-**Estado:** Informe de Inteligencia Activo.

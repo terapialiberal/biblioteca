@@ -2,8 +2,9 @@
 titulo: "ECHELON: El Sistema De Intercepción Global"
 tipo: "concepto"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [echelon, five, global, sistema]
 publish: true
 ---
@@ -40,9 +41,3 @@ publish: true
 ## Conclusión Del Análisis
 
 ECHELON es el ojo electrónico de la oligarquía, permitiendo vigilancia masiva sin restricciones legales.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Análisis de Vigilancia Electrónica
-**Estado:** Informe de Inteligencia Activo

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-25T15:50:41.672-03:00
-modified: 2026-04-02T13:21:56.909-03:00
+modified: 2026-04-07T10:52:49.838-03:00
 tags:
   - blackrock
   - digital
@@ -71,7 +71,3 @@ Es la solución al riesgo de impago. Al hacer la deuda transparente y ejecutable
 #### LAGUNAS
 
 ¿Quién posee las "puertas traseras" (backdoors) de emergencia en los puentes (bridges) financieros que conectan la deuda tokenizada con el sistema de liquidación del Banco Central?
-
----
-
-_Dossier forense TL V.2 | El Embargo del Futuro_

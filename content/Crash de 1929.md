@@ -2,8 +2,9 @@
 titulo: Crash De 1929
 tipo: "evento"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: ["1929", crash, reserva]
 publish: true
 ---

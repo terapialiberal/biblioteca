@@ -2,9 +2,10 @@
 titulo: Libro De Enoc (El Informe De Los Vigilantes)
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [enoc, libro]
-tier-primario: "a"
-nivel-evidencia: "alto"
+tier_primario: "a"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -16,9 +17,3 @@ publish: true
 ## Análisis Forense
 
 - El libro fue excluido del canon oficial por el Tier B religioso porque expone la **Naturaleza Tecnológica y Genética de los "Dioses"**. Sugiere que el poder de Tier A no es místico, sino operativo y basado en una superioridad técnica que el Tier C percibe como sobrenatural.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Genética oculta y protocolos de intervención externa.
-**Estado:** 2026-02-25 | Informe Activo

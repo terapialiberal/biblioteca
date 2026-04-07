@@ -2,8 +2,9 @@
 titulo: "Project Agorá (BIS): El Libro Mayor Unificado (Unified Ledger)"
 tipo: "persona"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [agor, blackrock, jpmorgan, project]
 publish: true
 ---
@@ -41,13 +42,7 @@ publish: true
 
 ## 🔗 Conexiones Críticas
 
-- [[BIS (Bank for International Settlements)]]
+- [[BIS (Banco de Pagos Internacionales)]]
 - [[BlackRock BUIDL]]: El fondo que provee el colateral (RWA) para este sistema.
 - [[JPMorgan Onyx]]: El motor privado que se integra en el ledger público-privado.
 - [[CBDC (Wholesale)]]: El activo base del proyecto.
-
----
-
-**Falsabilidad**: Si los bancos comerciales de EEUU se niegan a ceder el control de sus bases de datos al ledger unificado del BIS por razones de soberanía de datos, el proyecto podría fragmentarse en redes privadas incompatibles.
-
-_Versión: 2.0 | Protocolo TL-INTEL TL V.3_

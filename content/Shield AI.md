@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-25T14:50:55.882-03:00
-modified: 2026-04-02T13:22:43.878-03:00
+modified: 2026-04-07T10:52:13.563-03:00
 tags:
   - brandon
   - pentgono
@@ -70,7 +70,3 @@ Shield AI simplemente está salvando vidas. Al enviar máquinas a entornos donde
 #### LAGUNAS
 
 ¿Cómo se gestiona la "ética del blanco" en el software de Shield AI cuando el algoritmo debe elegir entre dos pérdidas inevitables en combate urbano?
-
----
-
-_Dossier forense TL V.2 | Inteligencia de Combate Autónomo_

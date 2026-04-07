@@ -2,8 +2,9 @@
 titulo: "Northern Sea Route (NSR): El Corredor Del Hielo Soberano"
 tipo: "persona"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [brics, northern, route, soberano]
 publish: true
 ---
@@ -44,9 +45,3 @@ publish: true
 - [[Corredor Trans-Caspio (Middle Corridor)]]: El aliado ferroviario del sur.
 - [[BRICS]]: El bloque de clientes naturales de la ruta.
 - [[Microsoft Stargate]]: Irónicamente, el Ártico es el lugar ideal para los data centers que necesitan refrigeración gratuita; Rusia ofrece la NSR como el hub de "Cómputo en el Frío".
-
----
-
-**Falsabilidad**: Si una tecnología de rompehielos convencionales (no nucleares) de EEUU y Canadá logra equiparar la capacidad rusa antes de 2030, la NSR dejaría de ser un monopolio soberano de Moscú y pasaría a ser zona de conflicto internacional.
-
-_Versión: 1.0 | Protocolo TL-INTEL TL V.3_

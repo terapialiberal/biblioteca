@@ -2,8 +2,9 @@
 titulo: "Louis Dreyfus: El Jugador Invisible Del Granero Global"
 tipo: "persona"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [bunge, granero, invisible, jugador]
 publish: true
 ---
@@ -27,14 +28,3 @@ publish: true
 ## âš¡ Conclusión De Terapia Liberal
 
 Louis Dreyfus es el recordatorio de que las empresas que realmente mandan no tienen logos coloridos en televisión. Son transportistas e informantes. En el tablero de Nico, LDC es la logística de la Matrix alimenticia: si ellos deciden que el trigo no se mueve, las revoluciones estallan. No son proveedores de comida; son **propietarios de la cadena de suministro de la vida**.
-
----
-
-## Conexiones De La Red
-
-- **El Cartel:** [[Los 4 Jinetes del Agro]], [[ADM]], [[Bunge]], [[Cargill]].
-- **La Familia:** [[Margarita Louis-Dreyfus]].
-- **Socio Financiero:** [[Abu Dhabi Developmental Holding Co (ADQ)]] (Entrada de capital árabe).
-- **Contexto:** [[Seguridad Alimentaria]], [[Guerra de Ucrania]] (Control del Mar Negro).
-
-**Estado:** Refactoreado a TL V.3 - Framework de Cartelización Agraria.

@@ -2,8 +2,9 @@
 titulo: E. Howard Hunt
 tipo: "persona"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [asesinato, howard, hunt, watergate]
 publish: true
 ---

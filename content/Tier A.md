@@ -1,8 +1,9 @@
 ---
 titulo: Tier A - Los Dueños
 tipo: "persona"
-tier-primario: "a"
-nivel-evidencia: "muy-alto"
+tier_primario: "a"
+nivel_evidencia: "muy-alto"
+estado: activo
 tags: [poder, elite, estrategia, a-ideologico]
 publish: true
 ---
@@ -33,7 +34,3 @@ El **Tier A** representa el nivel más alto de la jerarquía de poder global. No
 - [[Tier B]]: Sus ejecutores (Agencias de Inteligencia, WEF).
 - [[Tier C]]: El teatro político (Políticos, medios).
 - [[Glosario - Deep State]]: Marco conceptual general.
-
----
-
-_TL-INTEL V.3 | Arquitectura de Poder_

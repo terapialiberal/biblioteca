@@ -2,8 +2,9 @@
 titulo: "Familia Rothschild: El Patrón Del Nivel 1"
 tipo: "entidad"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [blackrock, declaracin, patrn, rothschild]
 publish: true
 ---
@@ -53,9 +54,3 @@ graph TD
 ## Conclusión Del Análisis
 
 Los Rothschild son el ejemplo perfecto de que el verdadero poder no grita, susurra. Son el Tier A original que entendió que es mejor ser el dueño de la cañería que el agua que pasa por ella. 🔴
-
----
-
-**Versión:** 4.0 GOLD
-**Enfoque:** Custodia Dinástica
-**Estado:** Informe de Inteligencia Activo

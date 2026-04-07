@@ -2,8 +2,9 @@
 titulo: Marc Rich (Glencore)
 tipo: "entidad"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [glencore, marc, mossad, rich]
 publish: true
 ---
@@ -29,19 +30,3 @@ publish: true
 ## Conclusión TL
 
 Marc Rich fue el hombre que privatizó la geopolítica. Él entendió que las fronteras y las leyes son ficciones para el Tier C, pero opcionales para quienes controlan el flujo de las materias primas esenciales. Glencore es el monumento a su visión: un estado privado transnacional que gobierna las sombras del comercio mundial.
-
----
-
-## Conexiones
-
-- [[Glencore]]
-- [[Mossad]]
-- [[Bill Clinton]] (El indulto)
-- [[Commodities (Materias Primas)]]
-- [[Corrupción de Recursos Naturales]]
-
-## Fuentes
-
-- "The King of Oil: The Secret Lives of Marc Rich" - Daniel Ammann.
-- "The World for Sale: Money, Power and the Traders Who Barter the Earth\_s Resources" - Javier Blas & Jack Farchy.
-- Documentos de la Comisión del Senado de EE.UU. sobre el indulto a Marc Rich.

@@ -2,9 +2,10 @@
 titulo: El Ojo De Horus En El Billete - La Vigilancia Del Crédito
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [billete, horus]
-tier-primario: "a"
-nivel-evidencia: "alto"
+tier_primario: "a"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -17,9 +18,3 @@ publish: true
 
 - **Annuit Coeptis / Novus Ordo Seclorum**: El lema confirma el diseño de un nuevo orden basado en el crédito. El "Ojo" es la inteligencia artificial (o la red de espionaje veneciana heredada) que garantiza que el flujo de capital regrese siempre a la fuente.
 - **La Divinidad de la Deuda**: Al colocar un símbolo divino en el dinero, el Tier A eleva la deuda a una categoría sagrada, haciendo que el impago se perciba subconscientemente como un pecado, no solo como un fallo económico.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Semiótica de la moneda y el panóptico financiero.
-**Estado:** 2026-02-25 | Informe Activo

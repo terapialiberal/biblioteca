@@ -2,8 +2,9 @@
 titulo: "Familia Wallenberg: El Deep State Nórdico"
 tipo: "entidad"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [club, deep, state, wallenberg]
 publish: true
 ---
@@ -45,9 +46,3 @@ publish: true
 ## Conclusión Del Análisis
 
 Los Wallenberg son el modelo de **Oligarquía Invisible**. Han logrado convencer al mundo de que Suecia es un paraíso socialista, cuando en realidad es una de las economías más concentradas en manos privadas del planeta. Son los proveedores de la tecnología de control del futuro (5G, vacunas, armas).
-
----
-
-**Versión:** 1.0
-**Enfoque:** Control industrial total, tecnología 5G y complejo militar.
-**Estado:** Informe de Inteligencia Activo.

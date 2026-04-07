@@ -2,8 +2,9 @@
 titulo: DARPA (Defense Advanced Research Projects Agency)
 tipo: "concepto"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [darpa, internet, projects, research]
 publish: true
 ---

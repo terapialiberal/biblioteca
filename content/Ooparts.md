@@ -2,9 +2,10 @@
 titulo: Ooparts (Out of Place Artifacts)
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [ooparts]
-tier-primario: "a"
-nivel-evidencia: "alto"
+tier_primario: "a"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -16,9 +17,3 @@ publish: true
 ## Análisis Forense
 
 - El Tier B (Academia) debe ignorar o ridiculizar los Ooparts para mantener la narrativa del **Progreso Lineal**. Si el Tier C entendiera que la tecnología ya existió y fue destruida, el miedo al "fin de la civilización" se volvería una herramienta de control menos eficaz, o peor, el Tier C buscaría la tecnología libre de ciclos anteriores.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Arqueología de la disrupción y arqueo-inteligencia.
-**Estado:** 2026-02-25 | Informe Activo

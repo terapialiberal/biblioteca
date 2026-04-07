@@ -2,9 +2,10 @@
 titulo: Orión Y Las Pirámides
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [orin, pirmides]
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
 publish: true
 ---
 

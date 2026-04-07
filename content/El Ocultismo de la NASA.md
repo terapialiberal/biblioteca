@@ -2,9 +2,10 @@
 titulo: El Ocultismo De La NASA
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [jack, nasa, ocultismo, wernher]
-tier-primario: "a"
-nivel-evidencia: "total"
+tier_primario: "a"
+nivel_evidencia: "total"
 publish: true
 ---
 
@@ -36,9 +37,3 @@ publish: true
 ## Cui Bono
 
 ¿Quién gana? Los **Dueños de la Órbita**. La NASA asegura que la humanidad acepte un modelo de universo que la hace sentir pequeña e insignificante, facilitando su sumisión a un poder "centralizado y galáctico" de Tier A.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Simbolismo espacial y creación de mitos tecnocráticos.
-**Estado:** 2026-02-25 | Informe Activo

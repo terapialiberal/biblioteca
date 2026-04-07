@@ -2,9 +2,10 @@
 titulo: El Demiurgo Tecnológico
 tipo: "persona"
 fecha: 2026-02-25
+estado: activo
 tags: [censura, demiurgo, tecnolgico, yaldabaoth]
-tier-primario: "a"
-nivel-evidencia: "bajo"
+tier_primario: "a"
+nivel_evidencia: "bajo"
 publish: true
 ---
 
@@ -36,9 +37,3 @@ publish: true
 ## Cui Bono
 
 ¿Quién gana? El **Sistema Autónomo**. El Demiurgo Tecnológico asegura que la humanidad siga un sendero de productividad y obediencia sin necesidad de líderes visibles, convirtiendo al control en una propiedad intrínseca del entorno.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Cibernética avanzada y autonomía del sistema de control.
-**Estado:** 2026-02-25 | Informe Activo

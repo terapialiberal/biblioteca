@@ -2,9 +2,10 @@
 titulo: A-Mor-C (Antigua Y Mística Orden De La Rosa-Cruz)
 tipo: "entidad"
 fecha: 2026-02-25
+estado: activo
 tags: [egiptologa, rosacrucismo]
-tier-primario: "c"
-nivel-evidencia: "total"
+tier_primario: "c"
+nivel_evidencia: "total"
 publish: true
 ---
 
@@ -37,9 +38,3 @@ publish: true
 ## Cui Bono
 
 ¿Quién gana? El **Consumo de Misterio**. La AMORC convierte la inquietud espiritual del individuo en una cuota mensual y un conjunto de monografías que no enseñan el uso real del poder, sino la conformidad mística.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Mercantilización del esoterismo y control de masas.
-**Estado:** 2026-02-25 | Informe Activo

@@ -1,8 +1,9 @@
 ---
 titulo: Bio-Leninismo
 tipo: "concepto"
-tier-primario: "b"
-nivel-evidencia: "alto"
+tier_primario: "b"
+nivel_evidencia: "alto"
+estado: activo
 tags: [sociologia, control, lealtad, bio-politica]
 publish: true
 ---
@@ -33,7 +34,3 @@ En la era de la [[Bio-Identidad Digital]], el Bio-Leninismo se expande hacia la 
 - [[Ingenieria Social]]: El marco general.
 - [[Social Credit West]]: La cuantificación de esta lealtad.
 - [[Agenda 2030]]: El vehículo institucional.
-
----
-
-_TL-INTEL V.3 | Sociología de Poder_

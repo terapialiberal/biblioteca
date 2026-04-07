@@ -2,8 +2,9 @@
 titulo: Tratado De Pandemias (OMS)
 tipo: "evento"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [bill, pandemias, tratado, world]
 publish: true
 ---

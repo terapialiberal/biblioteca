@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-25T14:51:38.206-03:00
-modified: 2026-04-02T13:17:47.521-03:00
+modified: 2026-04-07T10:50:37.006-03:00
 ---
 
 # Microsoft Fairwater
@@ -65,6 +65,4 @@ Microsoft est revitalizando una zona que fue abandonada por la industria manufac
 
 #### LAGUNAS
 
-## Cmo planea Microsoft gestionar los residuos de calor masivos y su efecto en el microclima local de Wisconsin sin afectar la agricultura circundante?
-
-_Dossier forense TL V.3 | La OcupaciÃ¯Â¿Â½n Territorial del Tier A_
+Cmo planea Microsoft gestionar los residuos de calor masivos y su efecto en el microclima local de Wisconsin sin afectar la agricultura circundante?

@@ -2,8 +2,9 @@
 titulo: Ali Khamenei
 tipo: "persona"
 fecha: 2026-03-04
-tier-primario: "b"
-nivel-evidencia: "confirmado"
+tier_primario: "b"
+nivel_evidencia: "confirmado"
+estado: activo
 tags: [iran, magnicidio, decapitación, irgc, mbridge]
 publish: true
 ---
@@ -30,7 +31,3 @@ El 28 de febrero de 2026, una operación de "decapitación" coordinada por la CI
 1. **Tier A (Gestores):** Reordenamiento de los flujos energéticos hacia el corredor [[Corredor IMEC]].
 2. **Tier B (Ejecutores):** Eliminación del mayor obstáculo para la integración regional bajo un modelo de "neutralidad comprada".
 3. **Rusia/China:** Pérdida de un aliado ideológico, pero oportunidad para acelerar el bloque BRICS+ financiero.
-
----
-
-_TL V.3 | Nota de Archivo Forense | 04-03-2026_

@@ -2,9 +2,10 @@
 titulo: Horus - El Ojo De La Vigilancia
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [horus, vigilancia]
-tier-primario: "a"
-nivel-evidencia: "alto"
+tier_primario: "a"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -22,9 +23,3 @@ publish: true
 ### Tier B (Operadores / Ejecutores)
 
 - **Instituciones de Vigilancia (NSA, GCHQ)**: Son los ojos de Horus. Su labor es procesar cada señal para asegurar que no surjan "Seths" (disidentes) que desafíen el reino de Osiris/Tier A.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Panoptismo técnico y simbología de la vigilancia centralizada.
-**Estado:** 2026-02-25 | Informe Activo

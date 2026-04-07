@@ -2,8 +2,9 @@
 titulo: "MBS (Mohammed Bin Salman): El Monarca Del Pragmtica Post-Oeste"
 tipo: "concepto"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [post, pragm, salman, tony]
 publish: true
 ---
@@ -36,7 +37,7 @@ publish: true
 2. **Diplomacia del Silencio y el "Bone Saw"**: El uso de la violencia extrema y la desaparicin forzada para neutralizar la disidencia de alto nivel (familia real rival, periodistas), demostrando que el Tier A no reconoce lmites legales.
 3. **Control del Estrecho de Ormuz y Rutas IMEC**: La posicin geogrfica como peaje obligatorio entre el comercio de Asia y Europa, permitiendo a MBS jugar en ambos tableros (EE.UU. vs China).
 
-## Conexiones Crticas
+## Conexiones Críticas
 
 - [[Jared Kushner]]: Su principal receptor de fondos y canal de influencia en EE.UU.
 - [[Tony Blair]]: Su consultor globalista para la legitimacin de Vision 2030.
@@ -47,9 +48,3 @@ publish: true
 ## Conclusin Del Anlisis
 
 MBS es el **"Monarca de la Era Post-Moral"**. Su importancia reside en haber demostrado que las deudas de sangre (Khashoggi) se cancelan con cheques de billones. No es un reformista; es un **ingeniero de la consolidacin autoritaria**. Entender a MBS es comprender que el futuro del capitalismo no es el libre mercado, sino el **Capitalismo de Estado Soberano** donde el monarca y el CEO son la misma persona. Para el Tier C, es el prncipe que trajo la modernidad; para el Tier A, es el **compaero de viaje necesario** para asegurar que el fin de la era del petrleo sea gestionado por los mismos que lo extrajeron.
-
----
-
-**Versi�n:** 1.0
-**Enfoque:** Ascenso al poder, Vision 2030, financiamiento de Affinity Partners, rol en IMEC y la relaci�n t�ctica con Putin/Netanyahu.
-**Estado:** Creaci�n Iniciada tras Triaje OSINT.

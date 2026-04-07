@@ -2,9 +2,10 @@
 titulo: Operación Stargate (Visión Remota)
 tipo: "evento"
 fecha: 2026-02-25
+estado: activo
 tags: [cuerpo, ingo, operacin, stargate]
-tier-primario: "b"
-nivel-evidencia: "total"
+tier_primario: "b"
+nivel_evidencia: "total"
 publish: true
 ---
 
@@ -36,9 +37,3 @@ publish: true
 ## Cui Bono
 
 ¿Quién gana? Los **Vigilantes del Éter**. Operación Stargate asegura que el Tier A mantenga una ventana abierta hacia lo invisible, impidiendo que cualquier disidencia de Tier C o competidor de Tier B pueda ocultar sus verdaderas intenciones.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Inteligencia parapsicológica y espionaje de realidades paralelas.
-**Estado:** 2026-02-25 | Informe Activo

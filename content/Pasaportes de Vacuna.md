@@ -2,8 +2,9 @@
 titulo: "Pasaportes De Vacuna: El Control De Movimiento Biomédico"
 tipo: "concepto"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [biomdico, movimiento, pasaportes, vacuna]
 publish: true
 ---
@@ -40,9 +41,3 @@ publish: true
 ## Conclusión Del Análisis
 
 Los pasaportes de vacuna son el mecanismo de control médico que permite restringir libertades fundamentales basándose en cumplimiento biomédico.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Análisis de Control Biomédico
-**Estado:** Informe de Inteligencia Activo

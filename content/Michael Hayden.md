@@ -2,8 +2,9 @@
 titulo: Michael Hayden
 tipo: "persona"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [edward, five, hayden, michael]
 publish: true
 ---
@@ -29,19 +30,3 @@ publish: true
 ## âš¡ Conclusión TL
 
 Michael Hayden es el hombre que destruyó la 4ta Enmienda en nombre de la tecnología. Su visión es una donde el Estado lo sabe todo y el ciudadano no sabe nada. El hecho de que sea una voz respetada en los medios tradicionales (CNN/MSNBC) hoy, sin haber rendido cuentas por la vigilancia ilegal, es la prueba de que el Tier A nunca castiga a sus mejores sirvientes.
-
----
-
-## Conexiones
-
-- [[NSA]] / [[CIA]]
-- [[Edward Snowden]] (Su némesis)
-- [[Five Eyes]]
-- [[Estado de Vigilancia Masiva]]
-- [[Michael Chertoff]] / [[Chertoff Group]]
-
-## Fuentes
-
-- "Playing to the Edge: American Intelligence in the Age of Terror" - Michael Hayden (Autobiografía).
-- Investigaciones del New York Times sobre el programa "Stellar Wind".
-- Informe del Comité de Inteligencia del Senado sobre el programa de tortura de la CIA.

@@ -1,8 +1,9 @@
 ---
 titulo: Tier C - El Teatro
 tipo: "persona"
-tier-primario: "c"
-nivel-evidencia: "alto"
+tier_primario: "c"
+nivel_evidencia: "alto"
+estado: activo
 tags: [politica, medios, distraccion, corto-plazo]
 publish: true
 ---
@@ -34,7 +35,3 @@ El **Tier C** es la cara visible del sistema. Son los protagonistas de las notic
 - [[Tier A]]: Los verdaderos beneficiarios de sus acciones.
 - [[Tier B]]: Quienes les entregan el libreto (scripts).
 - [[Espectaculo y Control]]: Análisis simbólico de este nivel.
-
----
-
-_TL-INTEL V.3 | Arquitectura de Poder_

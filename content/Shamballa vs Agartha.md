@@ -2,9 +2,10 @@
 titulo: Shamballa Vs Agartha (La Dialéctica De La Soberanía)
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [agartha, jano, shamballa]
-tier-primario: "a"
-nivel-evidencia: "bajo"
+tier_primario: "a"
+nivel_evidencia: "bajo"
 publish: true
 ---
 
@@ -16,9 +17,3 @@ publish: true
 ## Análisis Forense
 
 - Esta división es idéntica a la dialéctica de [[Jano - La Dualidad de las Puertas]]. El Tier A nunca permite que el Tier C vea el punto donde la luz y la sombra se unen para formar el mismo comando central.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Análisis de los polos de poder en la geografía mística.
-**Estado:** 2026-02-25 | Informe Activo

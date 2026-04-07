@@ -2,9 +2,10 @@
 titulo: Egregores Digitales (Tulpa-Internet)
 tipo: "persona"
 fecha: 2026-02-25
+estado: activo
 tags: [digitales, egregores, magia, pepe]
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
 publish: true
 ---
 
@@ -36,9 +37,3 @@ publish: true
 ## Cui Bono
 
 ¿Quién gana? El **Director del Enjambre**. Los egregores digitales permiten al Tier A gobernar mediante el "aire" (la información), creando una realidad donde las personas no obedecen a un líder, sino a una "idea" que ellos mismos creen haber creado.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Creación de entidades psíquicas masivas y control algorítmico.
-**Estado:** 2026-02-25 | Informe Activo

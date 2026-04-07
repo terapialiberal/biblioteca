@@ -2,8 +2,9 @@
 titulo: Mae Brussell
 tipo: "persona"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [asesinato, brussell, operacin]
 publish: true
 ---
@@ -29,19 +30,3 @@ publish: true
 ## âš¡ El Legado: La Dieta De Información
 
 Mae Brussell enseñó que la libertad depende de la calidad de nuestra "dieta de información". Su archivo masivo (miles de carpetas) es el testamento de que la verdad no está oculta, sino **enterrada bajo una montaña de ruido mediático**. Ella fue la primera en entender que vivimos en una "Cultura de Inteligencia" donde todo lo que vemos es una operación psicológica.
-
----
-
-## Conexiones
-
-- [[Operación Paperclip]] (Su tema central)
-- [[Asesinato de JFK]]
-- [[Watergate]]
-- [[Dave McGowan]] / [[Peter Levenda]] (Herederos intelectuales)
-- [[00_Glosario - Conceptos Fase 1#Charles Manson|Charles Manson]] / [[Laurel Canyon]]
-
-## Fuentes
-
-- "The Essential Mae Brussell: Investigations of Fascism in America" - Paul Krassner.
-- Archivo web oficial maebrussell.com (Transcripts de sus programas).
-- Investigaciones de John Judge y la coalición de investigadores del asesinato de Kennedy.

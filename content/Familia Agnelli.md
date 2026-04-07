@@ -2,8 +2,9 @@
 titulo: "Familia Agnelli: Los Custodios Industriales De Europa"
 tipo: "entidad"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [custodios, europa, industriales, stellantis]
 publish: true
 ---
@@ -45,9 +46,3 @@ publish: true
 ## Conclusión Del Análisis
 
 Los Agnelli representan el **Capitalismo Dinástico Europeo**. Demuestran que la democracia es un teatro donde los actores cambian, pero los dueños del teatro (los que fabrican los autos y los periódicos) siguen siendo los mismos durante siglos.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Control industrial y mediático transnacional.
-**Estado:** Informe de Inteligencia Activo.

@@ -3,6 +3,7 @@ publish: true
 titulo: "5G - 6G: La Infraestructura De Control Total"
 tipo: "concepto"
 fecha: 2026-02-27
+estado: activo
 tags: [intel, analisis, TL V.3]
 ---
 
@@ -38,9 +39,3 @@ tags: [intel, analisis, TL V.3]
 ## Conclusión Del Análisis
 
 5G/6G es la columna vertebral del sistema de control total, permitiendo centralización de datos y control remoto masivo.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Análisis de Infraestructura de Control
-**Estado:** Informe de Inteligencia Activo

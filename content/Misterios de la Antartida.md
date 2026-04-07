@@ -2,9 +2,10 @@
 titulo: Misterios De La Antártida (El Santuario De Tier A)
 tipo: "evento"
 fecha: 2026-02-25
+estado: activo
 tags: [antrtida, misterios]
-tier-primario: "a"
-nivel-evidencia: "medio"
+tier_primario: "a"
+nivel_evidencia: "medio"
 publish: true
 ---
 
@@ -22,9 +23,3 @@ publish: true
 ### 2. Anomalías De Radar Y Vuelos
 
 - La restricción de vuelos sobre el polo y las anomalías térmicas detectadas sugieren una actividad de infraestructura que no corresponde a la "investigación científica" oficial de Tier B.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Geopolítica de lo extremo y santuarios de seguridad del poder.
-**Estado:** 2026-02-25 | Informe Activo

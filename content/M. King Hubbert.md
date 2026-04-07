@@ -2,8 +2,9 @@
 titulo: M. King Hubbert
 tipo: "persona"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [hubbert, king, movimiento, shell]
 publish: true
 ---
@@ -29,19 +30,3 @@ publish: true
 ## âš¡ Conclusión TL
 
 M. King Hubbert es el nexo entre la geofísica y la tiranía técnica. Su legado no es una curva de producción oil, sino la idea de que la humanidad vive en una "Nave Espacial Tierra" con recursos limitados que deben ser racionados mediante un algoritmo central. Es el abuelo intelectual del **Gran Reset**.
-
----
-
-## Conexiones
-
-- [[Movimiento Tecnocrático]]
-- [[Shell]]
-- [[Club de Roma]] (Límites al crecimiento)
-- [[Gran Reset]] / [[ESG]]
-- [[Peak Oil (Falsa Narrativa)]]
-
-## Fuentes
-
-- "Technocracy Study Course" - Hubbert & Scott (1934).
-- "Nuclear Energy and the Fossil Fuels" - M. King Hubbert (1956).
-- Investigaciones sobre el origen del Movimiento Tecnocrático en la Universidad de Columbia.

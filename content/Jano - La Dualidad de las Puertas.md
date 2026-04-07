@@ -2,9 +2,10 @@
 titulo: Jano - La Dualidad De Las Puertas (Protocolo De Transición)
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [dualidad, jano, puertas]
-tier-primario: "a"
-nivel-evidencia: "alto"
+tier_primario: "a"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -22,9 +23,3 @@ publish: true
 ### 2. Dualismo En Tier B
 
 - Los agentes de inteligencia de Tier B actúan como Jano: una cara pública de "orden" y una cara privada de "caos".
-
----
-
-**Versión:** 1.0
-**Enfoque:** Gestión de transiciones institucionales y dialéctica de poder.
-**Estado:** 2026-02-25 | Informe Activo

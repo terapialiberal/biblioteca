@@ -2,8 +2,9 @@
 titulo: Documento El Pulpo
 tipo: "concepto"
 fecha: 2026-03-04
-tier-primario: "b"
-nivel-evidencia: "alto"
+tier_primario: "b"
+nivel_evidencia: "alto"
+estado: activo
 tags: [casolaro, promis, inteligencia, pulpo, espionaje]
 publish: true
 ---
@@ -34,7 +35,3 @@ El núcleo del documento es el uso de PROMIS (Prosecutor’s Management Informat
 ## 📊 Cui Bono
 
 El **Tier B (Inteligencia)** captura la autonomía financiera absoluta del Congreso. El crimen deja de ser un error del sistema para ser su motor de financiamiento (Axioma 12).
-
----
-
-_TL V.3 | Archivo de Crímenes Sistémicos_

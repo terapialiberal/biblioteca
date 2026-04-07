@@ -2,8 +2,9 @@
 titulo: "Maurice Strong: El Arquitecto Del Gobierno Global"
 tipo: "persona"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [gobierno, klaus, maurice, strong]
 publish: true
 ---
@@ -47,9 +48,3 @@ publish: true
 ## Conclusión Del Análisis
 
 Maurice Strong fue el **Lenin del Ambientalismo**. No le importaba el medio ambiente (era petrolero); le importaba el poder. Diseñó el cambio climático como una herramienta política para desmantelar la soberanía nacional y el capitalismo de libre mercado, reemplazándolos por una tecnocracia global centralizada.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Origen de la Agenda 2030, ONU, corrupción Oil-for-Food y mentoría de Schwab.
-**Estado:** Informe de Inteligencia Activo.

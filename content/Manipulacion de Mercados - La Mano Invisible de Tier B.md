@@ -2,9 +2,10 @@
 titulo: Manipulación De Mercados — La Mano Invisible De Tier B
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [invisible, manipulacin, mano, mercados]
-tier-primario: "b"
-nivel-evidencia: "alto"
+tier_primario: "b"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -49,9 +50,3 @@ publish: true
 ## Cui Bono
 
 **El Operador con Menor Latencia**. En un sistema manipulado, quien recibe la información primero y tiene la potencia de computación para actuar en microsegundos captura el valor que el Tier C pierde por reacción lenta.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Mecanismos de fraude legal, ingeniería social financiera y asimetría de información.
-**Estado:** 2026-02-25 | Informe Activo

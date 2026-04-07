@@ -2,8 +2,9 @@
 titulo: Blockstream
 tipo: "concepto"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [adam, blockstream, satoshi]
 publish: true
 ---
@@ -24,7 +25,7 @@ Fundada por [[Adam Back]] (inventor de Hashcash, citado por Satoshi).
 - Satellite (Bitcoin via satélite)
 - Mining
 
-## Âš ï¸ Controversias
+## Controversias
 
 Críticos dicen que Blockstream ha capturado el desarrollo de Bitcoin y bloquea cambios que no les benefician.
 

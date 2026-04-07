@@ -2,8 +2,9 @@
 titulo: "Los 4 Jinetes Del Agro (Cartel ABCD): El Monopolio De La Comida"
 tipo: "evento"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [abcd, cartel, comida, jinetes]
 publish: true
 ---
@@ -28,14 +29,3 @@ publish: true
 ## âš¡ Conclusión De Terapia Liberal
 
 Quien controla el petróleo controla las naciones, pero **quien controla la comida controla a las personas**. El cartel ABCD es la estructura de Tier A más silenciosa y peligrosa. Sus dividendos crecen con cada crisis alimenticia. No son "comerciantes", son los administradores de la **escasez programada**.
-
----
-
-## Conexiones De La Red
-
-- **Los Jinetes:** [[ADM]], [[Bunge]], [[Cargill]], [[Louis Dreyfus]].
-- **Socio Financiero:** [[BlackRock]], [[Vanguard]], [[State Street]].
-- **Contexto:** [[Ucrania]], [[Seguridad Alimentaria]], [[Monsanto (Bayer)]].
-- **Mecanismos:** [[Especulación de Commodities]], [[Soberanía Alimentaria]].
-
-**Estado:** Refactoreado a TL V.3 - Framework de Cartelización Agraria.

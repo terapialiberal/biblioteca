@@ -2,8 +2,9 @@
 titulo: PROMIS Software
 tipo: "entidad"
 fecha: 2026-03-04
-tier-primario: "b"
-nivel-evidencia: "alto"
+tier_primario: "b"
+nivel_evidencia: "alto"
+estado: activo
 tags: [promis, vigilancia, inslaw, espionaje, backdoor]
 publish: true
 ---
@@ -30,7 +31,3 @@ La lógica de PROMIS —identificación de patrones en datos aparentemente no re
 ## 💰 Cui Bono
 
 El **Tier B** captura la omnisciencia informativa. Las fronteras nacionales se vuelven transparentes para quien posee la "llave" del software de gestión estatal.
-
----
-
-_TL V.3 | Historia de la Vigilancia Algorítmica_

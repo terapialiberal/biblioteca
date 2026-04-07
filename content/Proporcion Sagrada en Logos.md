@@ -2,9 +2,10 @@
 titulo: Proporción Sagrada En Logos
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [logos, proporcin, sagrada]
-tier-primario: "b"
-nivel-evidencia: "alto"
+tier_primario: "b"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -22,9 +23,3 @@ publish: true
 ### 2. Branding Y Dominio
 
 - Los logotipos de las grandes tecnológicas y bancos son, forensemente, marcadores de territorio de Tier A. Cada vez que ves uno, tu sistema nervioso se sincroniza con la frecuencia de esa institución.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Semiótica geométrica y gestión de la atracción instintiva.
-**Estado:** 2026-02-25 | Informe Activo

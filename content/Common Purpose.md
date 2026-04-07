@@ -2,8 +2,9 @@
 titulo: "Common Purpose: La Infiltración Institucional"
 tipo: "persona"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [common, infiltracin, purpose, tavistock]
 publish: true
 ---
@@ -44,9 +45,3 @@ publish: true
 ## Conclusión Del Análisis
 
 Common Purpose es el **virus en el sistema operativo del Estado-Nación**. Explica por qué las instituciones occidentales parecen haber perdido el sentido común simultáneamente. No es incompetencia; es entrenamiento. Han creado una clase administrativa leal a una ideología transnacional y hostil a su propia población.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Formación de cuadros burocráticos, subversión institucional y redes de poder ocultas.
-**Estado:** Informe de Inteligencia Activo.

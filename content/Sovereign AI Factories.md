@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-25T14:29:24.065-03:00
-modified: 2026-04-02T13:21:56.608-03:00
+modified: 2026-04-07T10:52:19.689-03:00
 tags:
   - factories
   - japn
@@ -71,7 +71,3 @@ Es una democratización real del cómputo. Al permitir que cada país tenga su p
 #### LAGUNAS
 
 ¿Cómo se gestionará la propiedad intelectual de los modelos entrenados en "Fábricas Soberanas" cuando el hardware es alquilado o financiado por fondos buitres internacionales (Tier A)?
-
----
-
-_Versión: 1.0 (TL V.2) | Dossier de Geopolítica Digital_

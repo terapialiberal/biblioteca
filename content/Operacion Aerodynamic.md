@@ -2,8 +2,9 @@
 titulo: Operación Aerodynamic
 tipo: "evento"
 fecha: 2026-03-04
-tier-primario: "b"
-nivel-evidencia: "alto"
+tier_primario: "b"
+nivel_evidencia: "alto"
+estado: activo
 tags: [cia, ucrania, otan, insurgencia, guerra-fria]
 publish: true
 ---
@@ -37,7 +38,3 @@ Lo que hoy vemos en el frente ucraniano es la culminación de 80 años de **Inge
 ## 📊 Cui Bono
 
 El **Tier B (OTAN/CIA)** captura un estado tapón permanentemente hostil a Rusia, asegurando la relevancia de la alianza militar y el flujo de contratos de defensa (Axioma 5).
-
----
-
-_TL V.3 | Análisis de Operaciones de Larga Duración_

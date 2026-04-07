@@ -2,8 +2,9 @@
 titulo: Minoría Organizada Vs Mayoría Desorganizada
 tipo: "concepto"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [desorganizada, minora, organizada, transgresin]
 publish: true
 ---

@@ -2,8 +2,9 @@
 titulo: Frank Giustra
 tipo: "persona"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [bill, frank, fundaci, giustra]
 publish: true
 ---

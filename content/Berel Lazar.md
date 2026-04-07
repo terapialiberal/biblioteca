@@ -2,8 +2,9 @@
 titulo: "Berel Lazar: El Arquitecto Del Eje Moscú-Chabad"
 tipo: "persona"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [arquitecto, berel, lazar, vladimir]
 publish: true
 ---
@@ -47,9 +48,3 @@ publish: true
 ## Conclusión Del Análisis
 
 Berel Lazar es el **"Fiduciario de la Conexión Ruso-Israelí"**. Su importancia reside en haber demostrado que en el Tier B, la religión es la forma más sofisticada de _soft power_. No es un clérigo; es un **arquitecto de la impunidad soberana**. Entender a Lazar es comprender cómo Putin ha logrado mantener canales abiertos con Israel y las élites de EE.UU. a pesar del aislamiento diplomático. Para el Tier C, es un hombre de Dios; para el Tier A, es el **operador que asegura que el Kremlin tenga ojos y oídos en el corazón de sus adversarios**, utilizando la red de Chabad como un puente indestructible entre dos mundos.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Relación con Putin, desplazamiento de oligarcas opositores, conexiones con Kushner/Leviev y rol como facilitador geopolítico transnacional.
-**Estado:** Creación Iniciada tras Triaje OSINT.

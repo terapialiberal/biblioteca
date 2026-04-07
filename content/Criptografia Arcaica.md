@@ -1,8 +1,9 @@
 ---
 titulo: Criptografía Arcaica
 tipo: "concepto"
-tier-primario: "a"
-nivel-evidencia: "medio"
+tier_primario: "a"
+nivel_evidencia: "medio"
+estado: activo
 tags: [tecnologia, historia, criptografia, secretos, poder]
 publish: true
 ---
@@ -29,7 +30,3 @@ La criptografía arcaica es el ancestro directo de la **Criptografía de Curva E
 - [[John Dee y el Lenguaje Enoquiano]]: El espía 007 original.
 - [[Asonancia Fonetica en Hechizos]]: El uso del sonido como cifrado.
 - [[Bitcoin]]: La secularización total del secreto inmutable.
-
----
-
-_TL-INTEL V.3 | Historia de la Inteligencia_

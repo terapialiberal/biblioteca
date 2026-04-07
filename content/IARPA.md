@@ -2,8 +2,9 @@
 titulo: "IARPA: La Predicción Del Futuro Humano"
 tipo: "concepto"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [darpa, futuro, palantir, prediccin]
 publish: true
 ---
@@ -45,9 +46,3 @@ publish: true
 ## Conclusión Del Análisis
 
 IARPA es la **División de Precrimen** de la vida real. No buscan ganar guerras; buscan predecirlas y manipularlas antes de que ocurran. Representan la tecnificación absoluta de la inteligencia, donde el factor humano es un dato más a procesar en la matriz de control.
-
----
-
-**Versión:** 1.0
-**Enfoque:** IA predictiva, vigilancia cuántica y biometría avanzada.
-**Estado:** Informe de Inteligencia Activo.

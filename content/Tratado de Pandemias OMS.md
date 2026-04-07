@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-25T15:44:39.927-03:00
-modified: 2026-04-02T13:22:43.946-03:00
+modified: 2026-04-07T10:52:59.609-03:00
 tags:
   - bill
   - bioseguridad
@@ -71,7 +71,3 @@ El tratado es una herramienta de coordinación necesaria en un mundo hiperconect
 #### LAGUNAS
 
 ¿Cuál es la relación real entre los algoritmos de detección temprana de la OMS y los sistemas de vigilancia de datos de las Big Tech que monitorizan los síntomas de la población en tiempo real?
-
----
-
-_Dossier forense TL V.2 | La Arquitectura de la Dictadura Sanitaria_

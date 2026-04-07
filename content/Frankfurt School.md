@@ -2,8 +2,9 @@
 titulo: Escuela De Frankfurt
 tipo: "persona"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [ford, frankfurt, rockefeller, school]
 publish: true
 ---

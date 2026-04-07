@@ -2,8 +2,9 @@
 titulo: Impeachment (Trump - Teatro De Operaciones)
 tipo: "concepto"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [impeachment, jared, operaciones, trump]
 publish: true
 ---

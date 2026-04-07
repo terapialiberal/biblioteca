@@ -2,8 +2,9 @@
 titulo: Boicot a Target (2023)
 tipo: "concepto"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: ["2023", boicot, naciones, target]
 publish: true
 ---

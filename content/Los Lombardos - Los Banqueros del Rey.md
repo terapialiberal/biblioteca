@@ -2,9 +2,10 @@
 titulo: Los Lombardos - Los Banqueros Del Rey
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [banqueros, lombardos]
-tier-primario: "b"
-nivel-evidencia: "alto"
+tier_primario: "b"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -17,9 +18,3 @@ publish: true
 
 - **La Gestión de la Excepción**: En una Europa que prohibía la usura, los Lombardos actuaban como los "cambistas" necesarios. El Tier A les permitía operar bajo protección especial a cambio de financiar el gasto militar de los reinos.
 - **El Origen del Monte de Piedad**: Inventaron el sistema del empeño y el préstamo colateralizado por bienes físicos, la base de la pignoración moderna y la captura de activos tangibles mediante la deuda.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Transmisión de protocolos financieros y gestión de colaterales.
-**Estado:** 2026-02-25 | Informe Activo

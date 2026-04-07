@@ -2,8 +2,9 @@
 titulo: Instituto Tavistock
 tipo: "entidad"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [fundacin, instituto, mkultra, tavistock]
 publish: true
 ---

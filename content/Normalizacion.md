@@ -2,8 +2,9 @@
 titulo: "Normalización (Proceso) [TL V.3]: La Tumba Del Pensamiento Crítico"
 tipo: "entidad"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [pensamiento, proceso, tumba, yuri]
 publish: true
 ---
@@ -40,9 +41,3 @@ publish: true
 ## Conclusión Del Análisis
 
 Si te sientes cómodo con el mundo actual, probablemente has sido normalizado. El proceso de normalización es el fin de la historia para el individuo; es el momento en que la Matrix se vuelve invisible porque hemos dejado de intentar atravesar sus paredes. Recuperar la memoria de lo que realmente significa ser humano es el único antídoto contra el proceso de estabilización total del Tier A.
-
----
-
-**Versión:** 2.0
-**Enfoque:** Las 4 etapas de la subversión de Bezmenov, la consolidación del nuevo paradigma tras la crisis y la eliminación de la disidencia residual.
-**Estado:** Refactoreado a TL V.3 - Framework de Consolidación de Orden.

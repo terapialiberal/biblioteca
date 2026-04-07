@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-25T14:25:29.387-03:00
-modified: 2026-04-02T13:22:43.907-03:00
+modified: 2026-04-07T10:52:48.196-03:00
 tags:
   - azure
   - mile
@@ -71,7 +71,3 @@ Es un milagro económico y ecológico. Una planta cerrada vuelve a la vida, gene
 #### LAGUNAS
 
 ¿Qué garantías de ciberseguridad tiene Microsoft sobre el sistema de control de la planta para evitar que su propio software sea el vector de ataque al reactor físico?
-
----
-
-_Versión: 1.0 (TL V.2) | Dossier de Soberanía Energética_

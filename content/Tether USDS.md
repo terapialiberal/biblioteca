@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-25T16:07:03.031-03:00
-modified: 2026-04-02T13:22:44.076-03:00
+modified: 2026-04-07T10:52:41.150-03:00
 tags:
   - dlar
   - estado
@@ -71,7 +71,3 @@ Tether está haciendo el trabajo que el gobierno no puede hacer: digitalizar el 
 #### LAGUNAS
 
 ¿Cuál es el porcentaje real de transacciones de Tether que son ignoradas deliberadamente por el sistema de vigilancia para permitir operaciones de bandera falsa de agencias de inteligencia de Tier B?
-
----
-
-_Dossier forense TL V.2 | El Dólar Digital de la Matrix_

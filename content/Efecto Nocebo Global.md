@@ -1,8 +1,9 @@
 ---
 titulo: Efecto Nocebo Global
 tipo: "concepto"
-tier-primario: "b"
-nivel-evidencia: "alto"
+tier_primario: "b"
+nivel_evidencia: "alto"
+estado: activo
 tags: [psicologia, percepcion, narrativa, salud]
 publish: true
 ---
@@ -28,7 +29,3 @@ publish: true
 - [[Disonancia Cognitiva (Isis)]]: El marco psicológico.
 - [[Gaslighting]]: La técnica de anulación del juicio.
 - [[Efecto Placebo]]: El gemelo inverso utilizado para vender falsas esperanzas ([[Hope Porn]]).
-
----
-
-_TL-INTEL V.3 | Percepción y Bio-Soberanía_

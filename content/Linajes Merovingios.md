@@ -2,8 +2,9 @@
 titulo: "Linajes Merovingios: La Mitología De La Sangre Real"
 tipo: "persona"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [merovingios, mitologa, nobleza, real]
 publish: true
 ---
@@ -27,14 +28,3 @@ publish: true
 ## âš¡ Conclusión De Terapia Liberal
 
 Los Merovingios son la razón por la que siempre ganan los mismos. No importa a quién votes, las venas de quienes están arriba llevan la misma firma genética desde hace 1500 años. La "Sangre Real" es el software original del sistema de control; la política moderna es solo la actualización gráfica para que no notes que el "Rey" nunca se fue.
-
----
-
-## Conexiones De La Red
-
-- **Herederos:** [[Nobleza Negra Veneciana]], [[Casas Reales Europeas]].
-- **Sociedades:** [[Priorato de Sión]], [[Masonería (Altos Grados)]], [[Comité de los 300]].
-- **Conceptos:** [[Derecho Divino]], [[Quinotauro]], [[RH Negativo]].
-- **Investigadores:** [[Fritz Springmeier]], [[David Icke]] (Teoría de Hibridación).
-
-**Estado:** Refactoreado a TL V.3 - Marco Esotérico-Praxeológico.

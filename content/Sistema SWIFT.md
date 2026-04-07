@@ -2,8 +2,9 @@
 titulo: "Sistema SWIFT: El Control De Flujos Financieros Globales"
 tipo: "concepto"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [banco, flujos, sistema, swift]
 publish: true
 ---
@@ -40,9 +41,3 @@ publish: true
 ## Conclusión Del Análisis
 
 SWIFT es el sistema de control financiero global que permite la weaponización del sistema bancario contra estados disidentes.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Análisis de Control Financiero Geopolítico
-**Estado:** Informe de Inteligencia Activo

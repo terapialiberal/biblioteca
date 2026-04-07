@@ -2,8 +2,9 @@
 titulo: Elección De Allende 1970
 tipo: "evento"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: ["1970", allende, estado, golpe]
 publish: true
 ---

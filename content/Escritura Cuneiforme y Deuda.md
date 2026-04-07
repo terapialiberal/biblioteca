@@ -2,9 +2,10 @@
 titulo: Escritura Cuneiforme Y Deuda (El Origen Del Ledger)
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [cuneiforme, deuda, escritura]
-tier-primario: "a"
-nivel-evidencia: "alto"
+tier_primario: "a"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -16,9 +17,3 @@ publish: true
 ## Análisis Forense
 
 - El paso de la memoria oral a la escritura cuneiforme permitió la creación de la **Ficción Jurídica**. Una vez que la deuda se escribe, se vuelve "eterna" y heredable, anclando al Tier C en un bucle infinito de trabajo para pagar intereses que solo existen en la piedra/papel/bit.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Arqueología del crédito y nacimiento de la esclavitud documental.
-**Estado:** 2026-02-25 | Informe Activo

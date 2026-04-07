@@ -2,8 +2,9 @@
 titulo: BIS Innovation Hub
 tipo: "persona"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [cbdc, innovation, project]
 publish: true
 ---
@@ -24,7 +25,7 @@ El **BIS Innovation Hub** es el laboratorio de I+D de la banca central global. S
 
 ### Cui Bono
 
-Permite que el [[BIS]] (Bank for International Settlements) mantenga la relevancia frente a la fragmentación del sistema SWIFT, asegurando que los nuevos rieles digitales sigan bajo la supervisión de la tecnocracia de Basilea.
+Permite que el [[BIS]] (Banco de Pagos Internacionales) mantenga la relevancia frente a la fragmentación del sistema SWIFT, asegurando que los nuevos rieles digitales sigan bajo la supervisión de la tecnocracia de Basilea.
 
 ## 🏛️ DOCTRINA OPERATIVA
 

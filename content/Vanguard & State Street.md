@@ -2,8 +2,9 @@
 titulo: Vanguard & State Street
 tipo: "entidad"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [orsini, rothschild, state, vanguard]
 publish: true
 ---

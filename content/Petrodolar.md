@@ -2,8 +2,9 @@
 titulo: "Petrodólar: El Trono Del Dólar Estadounidense"
 tipo: "concepto"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [arabia, dlar, reserva, trono]
 publish: true
 ---
@@ -40,9 +41,3 @@ publish: true
 ## Conclusión Del Análisis
 
 El petrodólar es el mecanismo que convierte al dólar en moneda de reserva global forzada, permitiendo a EE.UU. exportar inflación y financiar déficits infinitos.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Análisis de Hegemonía Monetaria
-**Estado:** Informe de Inteligencia Activo

@@ -2,9 +2,10 @@
 titulo: Elites Orientales — Chaebol Y Keiretsu (El Neo-Feudalismo Industrial)
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [blackrock, keiretsus, orientales, vanguard]
-tier-primario: "a"
-nivel-evidencia: "alto"
+tier_primario: "a"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -31,9 +32,3 @@ publish: true
 ## Cui Bono
 
 **La Estabilidad de la Colmena**. El modelo oriental busca la máxima eficiencia biopolítica: el ciudadano nace en un hospital de la empresa, estudia en la universidad de la empresa, trabaja en la fábrica de la empresa y muere en una residencia de la empresa. Es el modelo de **Estado-Corporación** total.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Análisis de monopolios industriales y control social en el Este.
-**Estado:** 2026-02-25 | Informe Activo

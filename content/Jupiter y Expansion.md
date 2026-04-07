@@ -1,8 +1,9 @@
 ---
 titulo: Jupiter y Expansion
 tipo: "concepto"
-tier-primario: "a"
-nivel-evidencia: "medio"
+tier_primario: "a"
+nivel_evidencia: "medio"
+estado: activo
 tags: [esoterismo, astrologia-financiera, jupiter, expansion]
 publish: true
 ---
@@ -27,7 +28,3 @@ publish: true
 - [[Saturno y Deuda]]: El contrapeso necesario.
 - [[Efecto Cantillon]]: Quién captura la expansión primero.
 - [[Basilea V]]: El intento de regular la expansión infinita.
-
----
-
-_TL-INTEL V.3 | Astrología de Poder_

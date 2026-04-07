@@ -2,9 +2,10 @@
 titulo: Asonancia Fonética En Hechizos Corporativos
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [asonancia, fontica, hechizos]
-tier-primario: "b"
-nivel-evidencia: "alto"
+tier_primario: "b"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -17,9 +18,3 @@ publish: true
 
 - **Resonancia y Repetición**: Al utilizar estructuras fonéticas específicas (como las aliteraciones de marcas globales), el sistema asegura que la "marca" se convierta en una parte orgánica del monólogo interno del individuo. Si lo puedes cantar o rimar, ya lo has aceptado.
 - **Hechizos de Mercadotecnia**: El Tier A financia el estudio de la fonética para determinar qué frecuencias y sonidos generan dopamina o miedo, ajustando el ruido mediático para mantener la homeostasis del sistema.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Programación lingüística y control subconsciente mediante el sonido.
-**Estado:** 2026-02-25 | Informe Activo

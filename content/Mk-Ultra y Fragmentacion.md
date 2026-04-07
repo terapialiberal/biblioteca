@@ -2,9 +2,10 @@
 titulo: Mk-Ultra Y Fragmentación Del Alma
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [disociacin, fragmentacin, operacin, ultra]
-tier-primario: "a"
-nivel-evidencia: "total"
+tier_primario: "a"
+nivel_evidencia: "total"
 publish: true
 ---
 
@@ -36,9 +37,3 @@ publish: true
 ## Cui Bono
 
 ¿Quién gana? Los **Ingenieros de Conducta**. MK-Ultra demostró que un ser humano roto es infinitamente más fácil de gestionar que uno íntegro, proporcionando al Tier A una ventaja estratégica definitiva sobre la población civil.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Trauma sistémico y desestructuración de la personalidad.
-**Estado:** 2026-02-25 | Informe Activo

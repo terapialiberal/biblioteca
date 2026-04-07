@@ -2,8 +2,9 @@
 titulo: George H. W. Bush
 tipo: "concepto"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [asesinato, bush, george, skull]
 publish: true
 ---
@@ -12,7 +13,7 @@ publish: true
 
 ## Perfil TL (Resumen Ejecutivo)
 
-**¿Quién fue?** 41Âº Presidente de EE.UU., Vicepresidente bajo Reagan, Director de la CIA y "arquitecto" del Nuevo Orden Mundial.
+**Quien fue?** 41o Presidente de EE.UU., Vicepresidente bajo Reagan, Director de la CIA y "arquitecto" del Nuevo Orden Mundial.
 
 **¿Por qué importa?** George H. W. Bush fue el **CEO definitivo del Estado Profundo de EE.UU.** Su carrera es la prueba de la **Continuidad de Inteligencia** en la política: estuvo en Dallas el día del [[Asesinato de JFK]] (según el "Parrott Memo"), fundó **Zapata Oil** como fachada para operaciones encubiertas y dirigió la CIA en 1976 no para reformarla, sino para salvarla del escrutinio del Congreso (**Comité Church**). Bush personifica el **Tier A Aristocrático** vinculado a la red **[[Skull and Bones]]**. Fue el estratega detrás de **"The Enterprise"**, una estructura criminal paralela que financió operaciones ilegales mediante el narcotráfico y el tráfico de armas (**[[Irán-Contra]]**), demostrando que el Poder Profundo no respeta fronteras ni leyes nacionales. Su anuncio del "Nuevo Orden Mundial" en 1991 fue el aviso oficial de que la soberanía de los estados-nación había terminado en favor de una gobernanza global tecnocrática.
 

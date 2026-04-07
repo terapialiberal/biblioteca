@@ -2,8 +2,9 @@
 titulo: "Familia Bush: La Dinastía Del Estado Profundo"
 tipo: "entidad"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [bush, dinasta, estado, skull]
 publish: true
 ---
@@ -46,9 +47,3 @@ publish: true
 ## Conclusión Del Análisis
 
 La Familia Bush es el **Deep State hecho carne**. Demuestran que la presidencia de EE.UU. es un cargo hereditario de facto para ciertas facciones de la élite de inteligencia. Su legado es un mundo vigilado, en guerra perpetua y gobernado por el miedo.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Orígenes nazis, control de la CIA, Skull and Bones y guerras perpetuas.
-**Estado:** Informe de Inteligencia Activo.

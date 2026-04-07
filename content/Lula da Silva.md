@@ -2,8 +2,9 @@
 titulo: "Lula Da Silva: El Gestor Globalista Del Multipolarismo"
 tipo: "concepto"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [brics, globalista, silva, world]
 publish: true
 ---
@@ -27,14 +28,3 @@ publish: true
 ## âš¡ Conclusión De Terapia Liberal
 
 Lula es la prueba de que en el siglo XXI la "izquierda" y la "derecha" son etiquetas de marketing. Él no sirve al pueblo brasileño; sirve a la **Agenda de Sostenibilidad Global**. Su resurrección política fue una operación de inteligencia para remover a un obstáculo indómito (Bolsonaro) y restaurar la sincronización de Brasil con las metas de **Tier A**.
-
----
-
-## Conexiones De La Red
-
-- **El Bloque:** [[BRICS]], [[Foro de Sao Paulo]], [[CELAC]].
-- **Socios Globales:** [[Emmanuel Macron]], [[Joe Biden]], [[Xi Jinping]], [[Klaus Schwab]].
-- **Operativo de Censura:** [[Alexandre de Moraes]] (El brazo ejecutor).
-- **Eventos:** [[Elecciones Brasil 2022]], [[Operación Lava Jato]].
-
-**Estado:** Refactoreado a TL V.3 - Framework de Geopolítica Multipolar.

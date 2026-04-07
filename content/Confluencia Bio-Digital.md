@@ -2,9 +2,10 @@
 titulo: Confluencia Bio-Digital
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [confluencia, digital]
-tier-primario: "a"
-nivel-evidencia: "alto"
+tier_primario: "a"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -17,9 +18,3 @@ publish: true
 
 - **Biometría como Llave**: No es solo para desbloquear teléfonos; es para anclar la identidad legal a la firma biológica inmutable. En el futuro del **Unified Ledger**, su cuerpo _es_ su billetera y su permiso de circulación.
 - **Biología Sintética**: El uso de ARNm y otras tecnologías de edición genética permiten al Sistema "descargar" actualizaciones biológicas en la población, desdibujando la frontera entre el organismo natural y el software patentado.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Análisis de la captura biológica y la programación del ser humano.
-**Estado:** 2026-02-25 | Informe Activo

@@ -2,8 +2,9 @@
 titulo: "¸ Les Wexner: El Patrón Y El Sistema De Captura"
 tipo: "persona"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [jeffrey, mossad, patrn, sistema]
 publish: true
 ---
@@ -28,15 +29,3 @@ publish: true
 ## âš¡ Conclusión De Terapia Liberal
 
 Les Wexner es el hombre detrás de la cortina. Si Epstein era la marioneta que asustaba a los políticos, Wexner era la mano que sostenía los hilos y la billetera. No se dejen engañar por el "Limited Hangout" que lo presenta como una víctima del carisma de Epstein; Wexner **diseñó** el entorno para que Epstein pudiera operar.
-
----
-
-## Conexiones De La Red
-
-- **Operativo Principal:** [[Jeffrey Epstein]].
-- **Socio Estratégico:** [[00_Glosario - Conceptos Fase 1#Charles Bronfman|Charles Bronfman]], [[Leon Black]].
-- **Inteligencia:** [[Mossad]], [[Mega Group]].
-- **Empresas:** [[Victoria's Secret]], [[The Limited]], [[Abercrombie & Fitch]].
-- **Alianzas Políticas:** [[Netanyahu]], [[RJC (Republican Jewish Coalition)]].
-
-**Estado:** Refactoreado a TL V.3 - Framework de Inteligencia Aplicado.

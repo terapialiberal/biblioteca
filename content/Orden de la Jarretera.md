@@ -2,9 +2,10 @@
 titulo: Orden De La Jarretera
 tipo: "entidad"
 fecha: 2026-02-25
+estado: activo
 tags: [city, jarretera, monarqua, orden]
-tier-primario: "a"
-nivel-evidencia: "alto"
+tier_primario: "a"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -36,9 +37,3 @@ publish: true
 ## Cui Bono
 
 ¿Quién gana? La **Corona Británica**. La Orden de la Jarretera asegura que las figuras más poderosas del mundo tengan un vínculo de "honor" (deuda simbólica) con el trono inglés.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Prestigio dinástico y círculos íntimos de poder atlantista.
-**Estado:** 2026-02-25 | Informe Activo

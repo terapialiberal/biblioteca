@@ -2,8 +2,9 @@
 titulo: Optogenetica
 tipo: "concepto"
 fecha: 2026-03-04
-tier-primario: "b"
-nivel-evidencia: "alto"
+tier_primario: "b"
+nivel_evidencia: "alto"
+estado: activo
 tags: [optogenetica, control-mental, cerebro, luz, cia]
 publish: true
 ---
@@ -34,7 +35,3 @@ Bajo el manto de la "medicina para el Parkinson", se han desarrollado aplicacion
 ## 📊 Cui Bono
 
 El **Tier B (Ejecutores)** captura la capacidad de neutralizar disidentes o potenciar soldados sin que parezca una intervención quirúrgica. Es la "Cárcel de Luz" (Axioma 5).
-
----
-
-_TL V.3 | Análisis de Tecnologías de Neuromodulación Distal_

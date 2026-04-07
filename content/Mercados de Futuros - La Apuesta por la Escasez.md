@@ -2,9 +2,10 @@
 titulo: Mercados De Futuros — La Apuesta Por La Escasez
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [apuesta, blackrock, escasez, futuros]
-tier-primario: "a"
-nivel-evidencia: "alto"
+tier_primario: "a"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -46,9 +47,3 @@ publish: true
 ## Cui Bono
 
 **El Dueño del Almacén y el Ledger**. Aquellos que pueden aguantar el activo físico mientras el precio de papel oscila salvajemente para limpiar el mercado de competidores pequeños.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Gestión de precios, control de recursos básicos y especulación oracular.
-**Estado:** 2026-02-25 | Informe Activo

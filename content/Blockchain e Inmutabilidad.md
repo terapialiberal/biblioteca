@@ -2,9 +2,10 @@
 titulo: "Blockchain: El Libro De La Verdad Inmutable"
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [blockchain, cbdcs, inmutabilidad, satoshi]
-tier-primario: "a"
-nivel-evidencia: "alto"
+tier_primario: "a"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -36,9 +37,3 @@ publish: true
 ## Cui Bono
 
 ¿Quién gana? El **Panóptico Financiero**. Blockchain es la tecnología que permite que el control sea "Peer-to-Peer", donde el propio sistema (el código) es el policía que vigila la inmutabilidad de la obediencia económica.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Teología de los datos y control absoluto del registro.
-**Estado:** 2026-02-25 | Informe Activo

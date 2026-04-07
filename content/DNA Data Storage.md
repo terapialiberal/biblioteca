@@ -2,8 +2,9 @@
 titulo: DNA Data Storage
 tipo: "concepto"
 fecha: 2026-03-04
-tier-primario: "b"
-nivel-evidencia: "alto"
+tier_primario: "b"
+nivel_evidencia: "alto"
+estado: activo
 tags: [biotecnologia, datos, dna, vigilancia, cia]
 publish: true
 ---
@@ -37,7 +38,3 @@ In-Q-Tel y DARPA han acelerado esta tecnología para:
 ## 📊 Cui Bono
 
 El **Tier B (Estado Permanente)** captura la longevidad de su control. Los datos ya no dependen de servidores que pueden ser destruidos, sino del ciclo de la vida mismo.
-
----
-
-_TL V.3 | Inteligencia en Tecnologías de Control Biológico_

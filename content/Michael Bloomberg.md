@@ -2,8 +2,9 @@
 titulo: Michael Bloomberg
 tipo: "persona"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [bill, bloomberg, michael]
 publish: true
 ---
@@ -29,19 +30,3 @@ publish: true
 ## ⚡ Conclusin TL
 
 Michael Bloomberg es el hombre que est comprando el futuro a base de talonario. No necesita ser presidente (como lo demostr su fracaso en 2020) porque ya posee el sistema operativo de la economa global. Su objetivo es un mundo de **Ciudades Inteligentes** donde la libertad individual sea un "riesgo de ineficiencia" eliminado por el algoritmo.
-
----
-
-## Conexiones
-
-- [[Bloomberg LP]]
-- [[C40 Cities]] (Su red de influencia urbana)
-- [[Bill Gates]] (Socio en filantrop�a de Tier A)
-- [[00_Glosario - Conceptos Fase 1#Control de Armas|Control de Armas]]
-- [[WEF (World Economic Forum)]]
-
-## Fuentes
-
-- "Bloomberg: A Billionaire's Ambition" - Chris McNickle.
-- Datos de financiamiento de Everytown for Gun Safety.
-- An�lisis de monopolio de datos financieros por la Comisi�n Europea (investigaciones sobre terminales).

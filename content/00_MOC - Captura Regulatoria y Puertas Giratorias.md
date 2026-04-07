@@ -1,47 +1,58 @@
 ---
 publish: true
-titulo: 00_MOC - Captura Regulatoria y Puertas Giratorias
-tipo: "concepto"
-fecha: 2026-03-01
-tags: [00-moc, captura-regulatoria, revolving-doors, praxeologia]
+created: 2026-03-01T09:01:56.230-03:00
+modified: 2026-04-07T10:47:07.587-03:00
+tags:
+  - moc
+  - captura-regulatoria
+  - puerta-giratoria
+  - tl-intel-v3
 ---
 
-# 00 MOC — CAPTURA REGULATORIA Y PUERTAS GIRATORIAS
+# MOC - Captura Regulatoria y Puertas Giratorias
 
-> [!ABSTRACT] Misión Forense
-> Este MOC explora la aplicación directa de la _Praxeología_ y la _Public Choice Theory_ a las agencias estatales. Mapea la cooptación de los entes reguladores (Tier B) por parte de los mega-monopolios privados (Tier A) a través de los mecanismos de intercambio de favores y el control del _compliance_.
+> Public Choice aplicada al poder real: las agencias no corrigen al cartel, muchas veces lo ejecutan desde adentro.
 
-## 1. Captura Sanitaria y Farmacéutica
+## Resumen
 
-_El control del biopolítico y los mandatos sanitarios._
+- La regulación suele funcionar como mecanismo de cartelización.
+- La puerta giratoria no es corrupción excepcional: es arquitectura de gobierno.
+- Importa menos la norma escrita que quién diseña su aplicación.
+
+## Captura Sanitaria
 
 - [[FDA y las Puertas Giratorias (Pfizer)]]
 - [[WHO]]
 - [[Bill & Melinda Gates Foundation]]
+- [[Pfizer]]
+- [[Moderna]]
 
-## 2. Captura Monetaria y Financiera
+## Captura Monetaria y Financiera
 
-_El control del crédito y la política monetaria desde adentro._
-
-- [[BlackRock y la Infiltración de la Reserva Federal]]
+- [[BlackRock]]
 - [[SEC (Securities and Exchange Commission)]]
+- [[Reserva Federal]]
+- [[BIS (Banco de Pagos Internacionales)|BIS]]
+- [[Captura Regulatoria]]
 
-## 3. Captura Tecnológica y de Defensa
-
-_Contratos sin licitación y el Complejo Militar-Industrial._
+## Captura Tecnológica y de Defensa
 
 - [[Palantir]]
-- [[Operadores de Defensa (Lockheed, Raytheon)]]
+- [[Anduril Industries]]
+- [[Lockheed Martin]]
+- [[Raytheon]]
+- [[In-Q-Tel]]
 
----
+## Mecanismos
 
-_Pertenencia: [[00_Mapa_de_Poder_Global_A-Z]] | [[00_MOC - Base de Conocimiento]]_
+- [[Puerta Giratoria (Concepto)]]
+- [[Capitalismo de Amigos]]
+- [[Rent-Seeking]]
+- [[Compliance]]
+- [[La Puerta Giratoria de la FDA]]
 
-## 🔍 NODOS DETECTADOS (AUDITORIA 2026)
+## Nodos Relacionados
 
-- [[Gavin Newsom]]
-- [[Bayer]]
-- [[Lobby del Azucar]]
-- [[Los Papeles de Pfizer]]
-- [[Monsanto]]
-- [[Mercado de Acciones - La Democratizacion de la Captura]]
+- [[00_MOC - Control Financiero]]
+- [[00_MOC - Tecnologia de Control]]
+- [[00_MOC - Redes de Poder]]

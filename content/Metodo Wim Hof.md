@@ -2,8 +2,9 @@
 titulo: Método Wim Hof
 tipo: "persona"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [mtodo, salud, transhumanismo]
 publish: true
 ---
@@ -29,19 +30,3 @@ publish: true
 ## âš¡ Conclusión TL
 
 Wim Hof es el recordatorio de que somos dioses olvidados viviendo en cajas de calefacción. Su método es la llave para salir del **Comodismo Social** que el Tier A utiliza para domesticarnos. Si controlas tu respiración y tu respuesta al frío, controlas tu vida.
-
----
-
-## Conexiones
-
-- [[Salud Soberana]]
-- [[Big Pharma]] (El competidor gratuito)
-- [[Transhumanismo]] (La alternativa natural al microchip)
-- [[Hormesis]] (Crecimiento a través del estrés)
-- [[Antropología del Frío]]
-
-## Fuentes
-
-- "Voluntary activation of the sympathetic nervous system and attenuation of the innate immune response in humans" - Proceedings of the National Academy of Sciences (PNAS), 2014.
-- "The Wim Hof Method" - Wim Hof (Libro oficial).
-- Entrevistas científicas en "The Iceman" de National Geographic.

@@ -2,8 +2,9 @@
 titulo: "Ley Smith-Mundt Modernizada: La Guerra De Información Legalizada"
 tipo: "concepto"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [guerra, informacin, legalizada, mundt]
 publish: true
 ---
@@ -27,13 +28,3 @@ publish: true
 ## âš¡ Consecuencia Crítica: La Muerte Del Periodismo
 
 Hoy, un periodista de un "Mainstream Media" no es un investigador, es un **retransmisor**. Bajo esta ley, si el Pentágono decide que una narrativa es necesaria para la "Estabilidad Nacional", puede insertarla en todos los noticieros legalmente. El resultado es un estado de **Hipnosis Colectiva Sincronizada**.
-
----
-
-## Conexiones De La Red
-
-- **Operaciones:** [[Operación Mockingbird]], [[Guerra Cognitiva]], [[PsyOps]].
-- **Estructuras:** [[Complejo Industrial de la Censura]], [[Departamento de Estado]], [[Pentágono]].
-- **Actores:** [[Hillary Clinton]] (Promotora), [[Michael Hastings]] (Mártir/Investigador).
-
-**Estado:** Refactoreado a TL V.3 - Framework de Inteligencia Aplicado.

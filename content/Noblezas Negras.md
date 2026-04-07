@@ -2,9 +2,10 @@
 titulo: Noblezas Negras - Los Dueños Del Relato Europeo
 tipo: "persona"
 fecha: 2026-02-25
+estado: activo
 tags: [negras, noblezas]
-tier-primario: "a"
-nivel-evidencia: "alto"
+tier_primario: "a"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -22,9 +23,3 @@ publish: true
 ## El Modelo De Poder
 
 A diferencia del Tier C (políticos elegibles), estos linajes tienen un **Horizonte de Siglos**. No buscan la gloria personal, sino la **Perpetuidad del Activo** y la estabilidad del sistema de captura energética.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Genealogía de la dominación aristocrática y financiera en Europa.
-**Estado:** 2026-02-25 | Informe Activo

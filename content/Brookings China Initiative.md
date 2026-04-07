@@ -2,8 +2,9 @@
 titulo: Brookings China Initiative
 tipo: "persona"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [brookings, china, huawei, initiative]
 publish: true
 ---
@@ -22,7 +23,7 @@ El "John L. Thornton China Center" de Brookings fue criticado por:
 - Investigadores con conflictos de interés
 - Línea suave sobre China
 
-## Âš ï¸ Reflexión
+## Reflexion
 
 Caso de estudio de cómo la influencia china puede penetrar instituciones de DC.
 

@@ -2,8 +2,9 @@
 titulo: Técnicas De Control Mental
 tipo: "concepto"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [control, dopamina, menticidio, tcnicas]
 publish: true
 ---
@@ -32,21 +33,3 @@ publish: true
 ## âš¡ Conclusión TL
 
 El control mental no es una película de ciencia ficción; es el ecosistema en el que respiramos. El objetivo del Tier A es la creación de un **Usuario Bio-Digital** que no pueda distinguir entre sus deseos reales y los deseos implantados por el algoritmo. La única defensa es el **Ayuno Dopamínico** y la recuperación de la conciencia sobre los propios procesos mentales.
-
----
-
-## Conexiones
-
-- [[MKUltra|MK Ultra]] (El origen)
-- [[Menticidio]] (El asesinato de la voluntad)
-- [[Dopamina Loop]]
-- [[Operaciones Psicológicas (PsyOps)]]
-- [[Guerra Cognitiva]]
-- [[Joost Meerloo]]
-
-## Fuentes
-
-- "Battle for the Mind" - William Sargant.
-- "The Search for the Manchurian Candidate" - John Marks.
-- Documentos desclasificados de la CIA sobre el Proyecto ARTICHOKE y MKDELTA.
-- "Hooked: How to Build Habit-Forming Products" - Nir Eyal (El manual moderno de Tier B).

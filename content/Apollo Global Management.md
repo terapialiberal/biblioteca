@@ -2,8 +2,9 @@
 titulo: Apollo Global Management
 tipo: "persona"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [global, jeffrey, leon, management]
 publish: true
 ---

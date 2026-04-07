@@ -2,8 +2,9 @@
 titulo: Palantir CIA
 tipo: "entidad"
 fecha: 2026-03-04
-tier-primario: "b"
-nivel-evidencia: "alto"
+tier_primario: "b"
+nivel_evidencia: "alto"
+estado: activo
 tags: [palantir, cia, in-q-tel, vigilancia, alex-karp]
 publish: true
 ---
@@ -32,7 +33,3 @@ Fundada por **Peter Thiel** y **Alex Karp**, Palantir nació con capital semilla
 ## 💰 Cui Bono
 
 El **Tier B (Inteligencia)** captura la capacidad de predecir disturbios sociales antes de que ocurran. El **Tier A (Capital)** captura la metadata necesaria para la tokenización de la vida cotidiana.
-
----
-
-_TL V.3 | Reporte de Inteligencia Tecnológica_

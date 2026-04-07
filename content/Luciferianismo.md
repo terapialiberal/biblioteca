@@ -2,8 +2,9 @@
 titulo: "Luciferianismo: El Inversionismo Moral De La Élite"
 tipo: "concepto"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [inversionismo, luciferianismo, lucis, transhumanismo]
 publish: true
 ---
@@ -27,14 +28,3 @@ publish: true
 ## âš¡ Conclusión De Terapia Liberal
 
 El Luciferianismo es la psicología de quien se cree dueño de la granja. Si dios no existe, o si yo soy dios, entonces no tengo que rendir cuentas a nadie. Es el sustrato moral que permite que un oligarca de Tier A duerma tranquilo después de arruinar una nación: para él, es solo un proceso de "destrucción creativa" hacia la luz del nuevo orden.
-
----
-
-## Conexiones De La Red
-
-- **Herederos:** [[Alice Bailey]], [[Manly P. Hall]], [[Albert Pike]].
-- **Instituciones:** [[Lucis Trust]], [[Masonería (Illuminati)]], [[Theosophical Society]].
-- **Proyecciones:** [[Transhumanismo]], [[Agenda 2030]], [[00_Glosario - Conceptos Fase 1#Nuevo Orden Mundial|Nuevo Orden Mundial]].
-- **Conceptos:** [[Loosh]], [[Mentira Noble (Strauss)]].
-
-**Estado:** Refactoreado a TL V.3 - Framework Esotérico-Praxeológico.

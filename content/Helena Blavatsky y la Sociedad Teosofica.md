@@ -2,9 +2,10 @@
 titulo: Helena Blavatsky Y La Sociedad Teosófica
 tipo: "entidad"
 fecha: 2026-02-25
+estado: activo
 tags: [blavatsky, helena, sociedad, teosfica]
-tier-primario: "b"
-nivel-evidencia: "alto"
+tier_primario: "b"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -36,9 +37,3 @@ publish: true
 ## Cui Bono
 
 ¿Quién gana? Los **Diseñadores del Nuevo Orden**. La teosofía desactivó la defensa de las identidades locales, permitiendo que el Tier A avanzara en la consolidación de un poder centralizado bajo una estética de "amor y unidad universal".
-
----
-
-**Versión:** 1.0
-**Enfoque:** Unificación religiosa y cimientos del globalismo moderno.
-**Estado:** 2026-02-25 | Informe Activo

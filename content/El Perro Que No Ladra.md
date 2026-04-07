@@ -2,8 +2,9 @@
 titulo: El Perro Que No Ladra (Análisis De Omisión)
 tipo: "entidad"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [epstein, estado, ladra, omisin]
 publish: true
 ---

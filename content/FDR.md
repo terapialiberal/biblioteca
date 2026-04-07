@@ -2,8 +2,9 @@
 titulo: FDR (Franklin D. Roosevelt)
 tipo: "concepto"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [franklin, harry, reserva, roosevelt]
 publish: true
 ---
@@ -12,7 +13,7 @@ publish: true
 
 ## Perfil TL (Resumen Ejecutivo)
 
-**¿Quién fue?** 32Âº Presidente de los Estados Unidos, el único en servir cuatro mandatos, liderando el país durante la Gran Depresión y la Segunda Guerra Mundial.
+**Quien fue?** 32o Presidente de los Estados Unidos, el unico en servir cuatro mandatos, liderando el pais durante la Gran Depresion y la Segunda Guerra Mundial.
 
 **¿Por qué importa?** FDR fue el **operador que transformó a EE.UU. de una república constitucional a un estado corporativista de Tier A**. Mediante el **New Deal**, centralizó el poder económico bajo la excusa de la Depresión, creando la burocracia administrativa (el "Estado Alfabético") que hoy constituye el núcleo del Deep State. Su acción más agresiva contra el Tier C fue la **Executive Order 6102 (1933)**, con la cual confiscó el oro de los ciudadanos privados bajo pena de prisión, eliminando la única defensa del individuo contra la inflación. En política exterior, FDR fue el maestro de la provocación: el **Plan McCollum** demuestra que su administración provocó deliberadamente a Japón para asegurar el ataque a **Pearl Harbor**, obteniendo el _casus belli_ necesario para que EE.UU. entrara en la guerra y consolidara su hegemonía global. FDR no salvó el capitalismo; lo salvó para la élite de Tier A, fusionando el poder industrial con el estatal de forma permanente.
 

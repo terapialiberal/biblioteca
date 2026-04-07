@@ -2,8 +2,9 @@
 titulo: Boeing Defense
 tipo: "entidad"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [boeing, defense, departamento, lockheed]
 publish: true
 ---
@@ -22,7 +23,7 @@ publish: true
 - KC-46 tanker
 - Satélites
 
-## Âš ï¸ Problemas
+## Problemas
 
 Boeing ha tenido escándalos de calidad (737 MAX en aviación civil, problemas en KC-46).
 

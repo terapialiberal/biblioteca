@@ -2,8 +2,9 @@
 titulo: "Leo Strauss: El Arquitecto De La Mentira Noble"
 tipo: "persona"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [mentira, neoconservadores, noble, strauss]
 publish: true
 ---
@@ -28,14 +29,3 @@ publish: true
 ## âš¡ Conclusión De Terapia Liberal
 
 Leo Strauss es el hombre que le quitó la culpa a los mentirosos del poder. Para el straussiano, engañar al ciudadano no es un pecado cinematográfico, es un **deber patriótico**. Si crees que un político te dice la verdad "por tu bien", estás bajo el efecto de una medicina diseñada en la Universidad de Chicago.
-
----
-
-## Conexiones De La Red
-
-- **Operadores:** [[Paul Wolfowitz]], [[Dick Cheney]], [[Bill Kristol]].
-- **Conceptos:** [[Mentira Noble (Platón)]], [[Manufactura de Consenso]], [[Nihilismo]].
-- **Organizaciones:** [[00_Glosario - Conceptos Fase 1#PNAC (Project for the New American Century)|PNAC (Project for the New American Century)]], [[American Enterprise Institute]].
-- **Inspiración:** [[Maquiavelo]], [[Platón]] (Lectura Esotérica).
-
-**Estado:** Refactoreado a TL V.3 - Framework de Inteligencia Aplicado.

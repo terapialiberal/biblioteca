@@ -2,8 +2,9 @@
 titulo: Edward Snowden (Expanded)
 tipo: "persona"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [edward, expanded, glenn, revelaciones]
 publish: true
 ---
@@ -31,7 +32,7 @@ En 2013, filtró miles de documentos sobre programas de vigilancia masiva:
 - Debate global sobre privacidad
 - Algunas reformas cosméticas
 
-## Âš ï¸ Preguntas
+## Preguntas
 
 ¿Fue un whistleblower genuino o un "limited hangout" controlado?
 

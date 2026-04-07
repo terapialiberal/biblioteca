@@ -1,8 +1,9 @@
 ---
 titulo: Alquimia Sexual y Prostitución Sagrada
 tipo: "concepto"
-tier-primario: "a"
-nivel-evidencia: "medio"
+tier_primario: "a"
+nivel_evidencia: "medio"
+estado: activo
 tags: [historia, esoterismo, prostitucion-sagrada, arquetipos]
 publish: true
 ---
@@ -29,7 +30,3 @@ El concepto de "Prostitución Sagrada" se ha secularizado y corrompido en el **E
 - [[Isis - Magia y Seduccion Social]]: El arquetipo femenino de control.
 - [[Epstein Rothschild Ciberarmas]]: La infraestructura tecnológica de la versión moderna.
 - [[Nobleza Negra Veneciana]]: Los herederos de estas prácticas comerciales-rituales.
-
----
-
-_TL-INTEL V.3 | Arqueología del Control_

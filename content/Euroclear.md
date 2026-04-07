@@ -2,8 +2,9 @@
 titulo: "Euroclear: La Lavandería De La Deuda Soberana"
 tipo: "concepto"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [clearstream, deuda, dtcc, lavandera]
 publish: true
 ---
@@ -44,9 +45,3 @@ publish: true
 ## Conclusión Del Análisis
 
 Euroclear es el **sistema circulatorio del capital apátrida**. Permite que el dinero no tenga patria ni origen rastreable una vez que entra en su red. Su rol actual en la confiscación de activos rusos es un precedente histórico: el Tier A ha decidido que la seguridad jurídica de la propiedad soberana es secundaria a sus objetivos geopolíticos.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Liquidación de valores, eurodólares y guerra financiera.
-**Estado:** Informe de Inteligencia Activo.

@@ -2,8 +2,9 @@
 titulo: 'Litio En Jujuy: La Cara Oculta De La "Transición Verde"'
 tipo: "concepto"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [blackrock, jujuy, litio, vanguard]
 publish: true
 ---
@@ -28,14 +29,3 @@ publish: true
 ## âš¡ Conclusión De Terapia Liberal
 
 Cuando te vendan el auto eléctrico como la "salvación del planeta", recordá que ese auto costó la desecación de una cuenca en la Puna argentina. El litio no es una transición energética, es una **transfusión de recursos**. El Tier A cambia de combustible, pero el sistema de extracción y saqueo sigue siendo exactamente el mismo.
-
----
-
-## Conexiones De La Red
-
-- **El Territorio:** [[Triángulo del Litio]], [[Acuífero Guaraní]] (Nexus agua).
-- **Operadores:** [[Gerardo Morales]], [[José Luis Manzano]] (Inversor).
-- **Poder Global:** [[BlackRock]], [[Comando Sur (Laura Richardson)]].
-- **Conflictos:** [[Guerra del Litio (El Triángulo de Sudamérica)]].
-
-**Estado:** Refactoreado a TL V.3 - Framework de Extractivismo.

@@ -2,8 +2,9 @@
 titulo: "Great Trust (Plan Gaza): La Liquidacin Inmobiliaria Del Conflicto"
 tipo: "persona"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [gaza, inmobiliaria, tony, trust]
 publish: true
 ---
@@ -36,7 +37,7 @@ publish: true
 2. **Creacin de una Zona de Excepcin (Gaza Hub)**: Un territorio sin soberana palestina ni israel formal, administrado tecnocrticamente por una autoridad transnacional (Great Trust) bajo leyes pro-negocio y alta seguridad privada.
 3. **Privatizacin de la Posguerra**: El traspaso de la responsabilidad estatal a fondos de inversin y consultoras, garantizando que el Tier A no tenga que rendir cuentas ante organismos como la ONU o la Corte Internacional de Justicia.
 
-## Conexiones Crticas
+## Conexiones Críticas
 
 - [[Jared Kushner]]: El contratante y principal operador poltico del plan.
 - [[Tony Blair]]: El arquitecto globalista y mediador con las lites europeas y rabes.
@@ -47,9 +48,3 @@ publish: true
 ## Conclusin Del Anlisis
 
 El plan "Great Trust" es la **"Filosofa de la Ocupacin como Startup"**. Su importancia reside en haber transformado el genocidio militar en un plan de negocios sofisticado. No es un proyecto de paz; es un **manual de liquidacin de una nacin**. Entender el Great Trust es comprender que para el [[Tier A]], la tragedia humana es solo una variable de "costo de ajuste" previa a la maximizacin de beneficios logsticos. Para el Tier C, es una promesa de reconstruccin; para el Tier A, es la **garanta de que Gaza nunca volver a ser palestina**, convirtindose en el primer territorio del siglo XXI administrado enteramente como un activo corporativo transnacional.
-
----
-
-**Versi�n:** 1.0
-**Enfoque:** An�lisis del blueprint econ�mico de Blair/Kushner, el rol de BCG, la limpieza �tnica incentivada, el hub log�stico IMEC y la privatizaci�n total de la Franja.
-**Estado:** Creaci�n Iniciada tras Triaje OSINT.

@@ -2,8 +2,9 @@
 titulo: "Mario Firmenich: El Revolucionario De Inteligencia"
 tipo: "concepto"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [emilio, firmenich, inteligencia, revolucionario]
 publish: true
 ---
@@ -45,9 +46,3 @@ publish: true
 ## Conclusión Del Análisis
 
 Mario Firmenich no es un militante; es un **Profesional de la Violencia Política**. Representa la hipocresía máxima de la lucha armada: la cúpula que pacta con el enemigo y vive en Europa, mientras la base pone los muertos. Su vigencia en Nicaragua demuestra que sigue activo en el tablero de inteligencia regional.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Doble agencia, financiamiento ilícito y nexos internacionales de inteligencia.
-**Estado:** Informe de Inteligencia Activo.

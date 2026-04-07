@@ -2,8 +2,9 @@
 titulo: "AUKUS II: El Pilar Digital Y La Integración De Japón"
 tipo: "concepto"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [anduril, aukus, digital, pilar]
 publish: true
 ---
@@ -44,9 +45,3 @@ publish: true
 - [[Anduril Industries]]: El hardware del Pilar 2.
 - [[TSMC]]: La fábrica que provee los cerebros de los drones AUKUS.
 - [[Northern Sea Route]]: AUKUS observa el Ártico como el próximo frente tras el Pacífico.
-
----
-
-**Falsabilidad**: Si Japón se niega a reformar sus leyes de secreto (debido a presiones de privacidad interna) o si la interoperabilidad de software entre los 4 países falla por proteccionismo de datos, AUKUS Pilar 2 se fracturaría en proyectos bilaterales ineficientes.
-
-_Versión: 2.0 | Protocolo TL-INTEL TL V.3_

@@ -2,9 +2,10 @@
 titulo: They Live (Señales Vs Ruido En La Vía Pública)
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [forense, live, proporcin, simbologa]
-tier-primario: "b"
-nivel-evidencia: "alto"
+tier_primario: "b"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -28,9 +29,3 @@ publish: true
 - [[Simbología de Banderas Tier B]]: La codificación de lealtades.
 - [[Proporción Sagrada en Logos]]: La aplicación estética de los comandos de control.
 - [[Vigilancia Predictiva]]: El control mediante el sistema de radio de los invasores.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Decodificación de mensajes subliminales y estructura de la jerarquía invisible.
-**Estado:** 2026-02-25 | Informe Activo

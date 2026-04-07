@@ -1,49 +1,67 @@
 ---
-titulo: Cuarta Revolución Industrial (4IR)
-tipo: "persona"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [crdito, cuarta, industrial, neuralink]
 publish: true
+aliases:
+  - 4IR
+  - Cuarta Revolución Industrial (4IR)
+created: 2026-01-29T19:17:09.383-03:00
+modified: 2026-04-07T11:37:42.001-03:00
+tags:
+  - 4ir
+  - wef
+  - transhumanismo
+  - automatizacion
+  - tecnologia-de-control
+  - tl-intel-v3
 ---
 
-# Cuarta Revolución Industrial (4IR)
+# [[Cuarta Revolución Industrial]]
 
-## Resumen Ejecutivo
+## Resumen ejecutivo
 
-**¿Qué es?** El plan maestro del WEF.
-1Âª Revolución: Vapor.
-2Âª Revolución: Electricidad.
-3Âª Revolución: Computación.
-**4Âª Revolución:** La fusión de los mundos físico, digital y biológico.
-Klaus Schwab dice explícitamente: _"La Cuarta Revolución Industrial no cambia lo que haces, cambia **lo que eres**"_.
+La `4IR` es el marco del [[WEF]] para describir la convergencia entre mundo físico, digital y biológico. En TL importa porque deja de tratar la tecnología como herramienta externa y la convierte en infraestructura de modificación del cuerpo, la conducta y la soberanía individual.
 
-**¿Por qué importa?**
-No se trata de tener mejores iPhones. Se trata de **editar el genoma humano**, conectar cerebros a la nube ([[Neuralink]]) y eliminar la privacidad del pensamiento.
-El objetivo es un mundo donde la biología es programmable.
-Conlleva la automatización total (IA) y el fin del trabajo humano masivo, lo que "require" un Ingreso Básico Universal (UBI) condicionado al buen comportamiento ([[Crédito Social]]).
+## Capas relevantes
 
-## Análisis (Tiers)
+### Tecnológica
 
-### Tier A (El Fin Del Homo Sapiens)
+- IA
+- sensores ubicuos
+- automatización
+- biotecnología
+- interfaces cerebro-máquina
 
-- **Evolución Dirigida:** La élite cree que ha llegado el memento de tomar el control de la evolución. Quieren crear una nueva especie mejorada (ellos) y gestionar a la masa obsoleta como ganado digitalizado.
+### Política
 
-### Tier B (Operativa)
+- expansión de ciudades inteligentes
+- aumento de dependencia de plataformas
+- justificación de nuevas capas de identidad, scoring y vigilancia
 
-- **Smart Cities:** La infraestructura para la 4IR son las Ciudades Inteligentes (llenas de sensores 5G) que monitorean cada variable biológica y ambiental en tiempo real.
+### Antropológica
 
-### Tier C (Narrativa)
+El punto decisivo no es solo qué hacemos con la tecnología, sino cómo se redefine lo humano bajo criterios de optimización, programación y compatibilidad sistémica.
 
-- "Progreso tecnológico y prosperidad"
+## Lectura TL
+
+### Tier A
+
+Busca dirigir evolución, control y acceso a capacidades tecnológicas críticas.
+
+### Tier B
+
+Despliega la infraestructura: smart cities, plataformas, compliance y sensores.
+
+### Tier C
+
+Recibe la narrativa de progreso, eficiencia y prosperidad, muchas veces sin ver el costo en autonomía.
 
 ## Conexiones
 
 - [[World Economic Forum]]
 - [[Transhumanismo (La Fusión Digital)]]
 - [[Internet de los Cuerpos (IoB)]]
+- [[Neuralink]]
+- [[Crédito Social]]
 
-## Fuentes
+## Observación operativa
 
-- "The Fourth Industrial Revolution" - Klaus Schwab.
+La Cuarta Revolución Industrial importa menos por gadgets y más por la transición hacia un entorno donde cuerpo, datos e identidad pasan a ser legibles y administrables en tiempo real.

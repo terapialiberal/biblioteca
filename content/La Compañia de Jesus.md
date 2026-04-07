@@ -2,9 +2,10 @@
 titulo: La Compañía De Jesús (Jesuitas)
 tipo: "entidad"
 fecha: 2026-02-25
+estado: activo
 tags: [compaa, georgetown, illuminati, jess]
-tier-primario: "a"
-nivel-evidencia: "total"
+tier_primario: "a"
+nivel_evidencia: "total"
 publish: true
 ---
 
@@ -36,9 +37,3 @@ publish: true
 ## Cui Bono
 
 ¿Quién gana? El **Vaticano y la Aristocracia Europea**. La Compañía de Jesús asegura que el poder sutil (educación e inteligencia) sea el que guíe al poder bruto (ejércitos y finanzas), manteniendo la relevancia milenaria de la Iglesia en la era técnica.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Inteligencia clerical y control de cuadros directivos mundiales.
-**Estado:** 2026-02-25 | Informe Activo

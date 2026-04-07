@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:41.223-03:00
-modified: 2026-04-02T13:21:56.225-03:00
+modified: 2026-04-07T10:53:01.648-03:00
 tags:
   - commission
   - david
@@ -71,7 +71,3 @@ La Trilateral Commission es necesaria para gestionar un mundo donde los problema
 #### LAGUNAS
 
 ¿Cuál es el rol real de la Trilateral en la coordinación de la "identidad única universal" que servirá de llave de entrada a todos los servicios públicos privatizados por el Tier A en 2027?
-
----
-
-_Dossier forense TL V.2 | La Gerencia Planetaria del Siglo XXI_

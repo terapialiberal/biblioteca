@@ -1,8 +1,9 @@
 ---
 titulo: Alquimia Sexual
 tipo: "concepto"
-tier-primario: "a"
-nivel-evidencia: "medio"
+tier_primario: "a"
+nivel_evidencia: "medio"
+estado: activo
 tags: [esoterismo, energia, control, sexualidad]
 publish: true
 ---
@@ -31,7 +32,3 @@ La **Digitalización del Deseo**:
 - [[Alquimia Sexual y Prostitucion Sagrada]]: Antecedentes históricos.
 - [[Caso Epstein]]: La versión criminal/operativa de la captura de energía.
 - [[Agenda Transgenero y Pritzker]]: El marco de re-ingeniería biológica.
-
----
-
-_TL-INTEL V.3 | Alquimia Humana_

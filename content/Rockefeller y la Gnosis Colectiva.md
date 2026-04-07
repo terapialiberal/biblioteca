@@ -2,9 +2,10 @@
 titulo: Rockefeller Y La Gnosis Colectiva
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [colectiva, gnosis, rockefeller, transhumanismo]
-tier-primario: "a"
-nivel-evidencia: "total"
+tier_primario: "a"
+nivel_evidencia: "total"
 publish: true
 ---
 
@@ -42,9 +43,3 @@ publish: true
 ## Cui Bono
 
 ¿Quién gana? Los **Arquitectos de la Colmena**. Al financiar la gnosis colectiva, los Rockefeller aseguran que la humanidad renuncie a su soberanía biológica y espiritual a cambio de una "unidad" que solo es el nombre elegante para la vigilancia y el control total de Tier A.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Ingeniería espiritual y financiación de narrativas de disolución del yo.
-**Estado:** 2026-02-25 | Informe Activo

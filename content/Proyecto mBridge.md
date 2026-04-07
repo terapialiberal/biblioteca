@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-25T15:50:06.497-03:00
-modified: 2026-04-02T13:21:57.006-03:00
+modified: 2026-04-07T10:51:24.047-03:00
 tags:
   - banco
   - digital
@@ -71,7 +71,3 @@ Es simplemente una mejora en los corredores de pago regionales. China siempre ha
 #### LAGUNAS
 
 ¿Hasta qué punto el software de mBridge tiene "puertas traseras" integradas por la inteligencia china para monitorizar los flujos de capital neto de sus socios estratégicos en tiempo real?
-
----
-
-_Dossier forense TL V.2 | La Fragmentación de la Matrix Financiera_

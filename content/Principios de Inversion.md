@@ -2,9 +2,10 @@
 titulo: Principios De Inversión (El Cielo En La Tierra)
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [inversin, jacob, principios, transhumanismo]
-tier-primario: "a"
-nivel-evidencia: "alto"
+tier_primario: "a"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -36,9 +37,3 @@ publish: true
 ## Cui Bono
 
 ¿Quién gana? Los **Nuevos Creadores**. Al destruir la ley natural mediante la inversión, el Tier A se convierte en el único proveedor de la "Nueva Ley", capturando la realidad misma en un contrato de términos y condiciones que ellos escriben cada día.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Deconstrucción sistémica y utopismo como arma.
-**Estado:** 2026-02-25 | Informe Activo

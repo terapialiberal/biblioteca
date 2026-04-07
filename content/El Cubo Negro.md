@@ -2,9 +2,10 @@
 titulo: El Cubo Negro - Saturnismo Corporativo
 tipo: "persona"
 fecha: 2026-02-25
+estado: activo
 tags: [cubo, negro]
-tier-primario: "a"
-nivel-evidencia: "alto"
+tier_primario: "a"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -18,9 +19,3 @@ publish: true
 - **Tier A**: Entiende el Cubo como la red (Lattice) que mantiene la Matrix física estable. Es el "Server" de la realidad tridimensional.
 - **Tier B**: Implementa el símbolo en la arquitectura (Apple Cubes, monumentos financieros) para resonar con la psique colectiva que busca orden y seguridad a cambio de obediencia.
 - **Tier C**: Percibe el símbolo como modernidad o minimalismo, sin detectar la frecuencia de **Contenedor** que representa.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Simbología del tiempo y la limitación material en el poder corporativo.
-**Estado:** 2026-02-25 | Informe Activo

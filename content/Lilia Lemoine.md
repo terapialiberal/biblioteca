@@ -2,8 +2,9 @@
 titulo: "Lilia Lemoine: La Interfaz Estética De La Anti-Política"
 tipo: "persona"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [esttica, guerra, lilia, poltica]
 publish: true
 ---
@@ -27,14 +28,3 @@ publish: true
 ## âš¡ Conclusión De Terapia Liberal
 
 Lemoine es el síntoma de una política que ha dejado de ser debate de ideas para convertirse en **performance**. En el tablero de Nico, ella es la "infantería ligera" del Tier C: ruidosa, colorida e indispensable para que el público no mire hacia donde realmente se está transfiriendo el capital.
-
----
-
-## Conexiones De La Red
-
-- **El Líder:** [[Javier Milei]].
-- **La Estrategia:** [[Karina Milei (El Jefe)]], [[Santiago Caputo]].
-- **Conceptos:** [[Batalla Cultural (Argentina)]], [[Anti-Política]], [[Populismo Digital]].
-- **Contexto:** [[La Libertad Avanza]].
-
-**Estado:** Refactoreado a TL V.3 - Framework de Inteligencia Aplicado.

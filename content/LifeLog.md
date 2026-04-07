@@ -2,8 +2,9 @@
 titulo: "¸ LifeLog: La Privatización De La Vigilancia De DARPA"
 tipo: "concepto"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [darpa, facebook, lifelog, vigilancia]
 publish: true
 ---
@@ -28,14 +29,3 @@ publish: true
 ## âš¡ Conclusión De Terapia Liberal
 
 ¿Coincidencia que el Pentágono cerrara su programa de espionaje total el mismo día que nació Facebook? Solo para quien cree en el azar. LifeLog es la prueba de que en Tier A no existen los cierres, solo las **mutaciones de marca**. Cambiaron el logo de DARPA por una 'f' azul y convencieron al mundo de que vigilarse a sí mismo era "conectar con amigos".
-
----
-
-## Conexiones De La Red
-
-- **El Heredero:** [[00_Glosario - Conceptos Fase 1#Facebook (Orígenes)|Facebook (Orígenes)]], [[Mark Zuckerberg]].
-- **El Diseñador:** [[DARPA]], [[Pentágono]].
-- **El Financista:** [[Peter Thiel]], [[In-Q-Tel]].
-- **Conceptos:** [[Vigilancia Masiva]], [[Capitalismo de Vigilancia]].
-
-**Estado:** Refactoreado a TL V.3 - Framework de Inteligencia Aplicado.

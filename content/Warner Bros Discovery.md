@@ -2,8 +2,9 @@
 titulo: Warner Bros Discovery
 tipo: "persona"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [bros, david, discovery, warner]
 publish: true
 ---
@@ -22,7 +23,7 @@ publish: true
 - **DC Comics** - Batman, Superman
 - **Discovery Channel**, Animal Planet, etc.
 
-## Âš ï¸ Crisis
+## Crisis
 
 La fusión creó montañas de deuda. Despidos masivos, cancelaciones de películas.
 

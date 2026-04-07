@@ -2,8 +2,9 @@
 titulo: "The 1001 Club: La Billetera Del Ecologismo Real"
 tipo: "entidad"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [club, ecologismo, nugan, real]
 publish: true
 ---
@@ -45,9 +46,3 @@ publish: true
 ## Conclusión Del Análisis
 
 The 1001 Club revela que el ambientalismo de élite no se trata de salvar el planeta, sino de **gestionar la finca**. Para la realeza y la oligarquía, el mundo es un coto de caza privado; el 1001 Club fue el mecanismo para pagar a los guardabosques que mantienen a la población fuera de las áreas ricas en recursos.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Financiamiento oligárquico del ecologismo, control de recursos y redes reales.
-**Estado:** Informe de Inteligencia Activo.

@@ -1,8 +1,9 @@
 ---
 titulo: Alquimia Digital
 tipo: "concepto"
-tier-primario: "b"
-nivel-evidencia: "alto"
+tier_primario: "b"
+nivel_evidencia: "alto"
+estado: activo
 tags: [blockchain, cbdc, alquimia, oro-digital, control]
 publish: true
 ---
@@ -29,7 +30,3 @@ La Alquimia Digital alcanza su culminación con la **Programabilidad Total**:
 - [[CBDC]]: El producto final.
 - [[Blockchain e Inmutabilidad]]: El Atanor digital.
 - [[Tokenizacion de Activos Reales]]: La captura de la materia.
-
----
-
-_TL-INTEL V.3 | Alquimia Financiera_

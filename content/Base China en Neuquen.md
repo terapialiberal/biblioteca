@@ -2,8 +2,9 @@
 titulo: Base China En Neuquén (Espacio Profundo)
 tipo: "concepto"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [base, cristina, espacio, neuqun]
 publish: true
 ---

@@ -2,9 +2,10 @@
 titulo: Biblioteca De Alejandría (El Reset De La Información)
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [alejandra, archivos, biblioteca]
-tier-primario: "a"
-nivel-evidencia: "medio"
+tier_primario: "a"
+nivel_evidencia: "medio"
 publish: true
 ---
 
@@ -16,9 +17,3 @@ publish: true
 ## Análisis Forense
 
 - ¿A dónde fue el conocimiento? Parte fue destruido, pero lo más valioso fue **Translocado**. Se sospecha que los núcleos de información crítica fueron movidos a lo que hoy son los [[Archivos Vaticanos]] o redes discretas de Tier A, asegurando que solo los dueños tengan acceso al "Mapa de la Realidad".
-
----
-
-**Versión:** 1.0
-**Enfoque:** Gestión de incendios informáticos y protocolos de amnesia colectiva.
-**Estado:** 2026-02-25 | Informe Activo

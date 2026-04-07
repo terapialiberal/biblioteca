@@ -2,8 +2,9 @@
 titulo: "Ludwig Von Mises: El Arquitecto De La Libertad Económica"
 tipo: "evento"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [arquitecto, ludwig, mises, reserva]
 publish: true
 ---
@@ -27,14 +28,3 @@ publish: true
 ## âš¡ Conclusión De Terapia Liberal
 
 Mises es el hombre que le quitó la máscara a los planificadores centrales. Nos enseñó que no hay "tercera vía": o hay libertad o hay tiranía burocrática. En el mundo de Nico, Mises es el "Libro de Instrucciones" para desmantelar la Matrix económica. Si entiendes a Mises, entiendes por qué el sistema actual de emisión monetaria sin respaldo es una forma de esclavitud técnica.
-
----
-
-## Conexiones De La Red
-
-- **Discípulos:** [[Murray Rothbard]], [[Friedrich Hayek]], [[Henry Hazlitt]].
-- **Antagonistas:** [[John Maynard Keynes]], [[Escuela de Chicago]] (en ciertos puntos), [[Karl Marx]].
-- **Legado:** [[Escuela Austríaca]], [[Bitcoin]], [[Liberalismo Clásico]].
-- **Conceptos:** [[Acción Humana]], [[Ciclo Económico]], [[Patrón Oro]].
-
-**Estado:** Refactoreado a TL V.3 - Marco de Resistencia Praxeológica.

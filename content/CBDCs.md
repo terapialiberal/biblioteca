@@ -2,8 +2,9 @@
 titulo: "CBDCs: El Control Monetario Total"
 tipo: "concepto"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [banco, cbdcs, fondo, total]
 publish: true
 ---
@@ -40,9 +41,3 @@ publish: true
 ## Conclusión Del Análisis
 
 CBDCs son el mecanismo de control financiero definitivo para la oligarquía global, permitiendo castigo económico instantáneo y reescritura de la realidad monetaria.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Análisis de Control Financiero
-**Estado:** Informe de Inteligencia Activo

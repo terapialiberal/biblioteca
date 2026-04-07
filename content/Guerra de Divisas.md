@@ -1,44 +1,45 @@
 ---
-titulo: Guerra De Divisas (Currency War)
+titulo: Guerra De Corea
 tipo: "evento"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [cbdc, currency, guerra, reset]
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [complejo, corea, guerra, naciones]
 publish: true
 ---
 
-# Guerra De Divisas (Currency War)
+# Guerra De Corea
 
 ## Perfil TL (Resumen Ejecutivo)
 
-**¿Qué es?** Un conflicto internacional donde los países compiten por devaluar sus propias monedas frente a las demás para ganar competitividad en las exportaciones y "exportar" su desempleo a los vecinos.
+**¿Qué fue?** El primer gran enfrentamiento armado de la Guerra Fría, donde una coalición liderada por EE.UU. (bajo la ONU) se enfrentó a Corea del Norte (apoyada por la URSS y China).
 
-**¿Por qué importa?** La Guerra de Divisas es la **fase previa a la guerra física en el ciclo de Tier A**. Cuando el sistema financiero de dinero fiat está saturado de deuda, los bancos centrales entran en una "carrera hacia el abismo". El Tier A financiero utiliza estas devaluaciones competitivas para licuar las deudas de los grandes estados y corporaciones, a costa de destruir el poder adquisitivo y los ahorros del Tier C. Es el mecanismo de **"Beggar-thy-neighbor"** (empobrecer al vecino) que históricamente (como en los años 30) precede al colapso del comercio mundial y al estallido de conflictos militares reales. En la actualidad, la guerra entre el Dólar, el Yuan y el Euro es el preludio del **[[Reset Financiero]]**: están destruyendo las monedas viejas para forzar al Tier C a aceptar las **[[CBDC]]** como la única "solución" a la inestabilidad que ellos mismos crearon.
+**¿Por qué importa?** La Guerra de Corea es el **"Template de la Guerra Perpetua" de Tier A**. Fue la primera vez que EE.UU. entró en una guerra masiva sin una declaración formal del Congreso, utilizando a la **ONU** como pantalla de legitimidad. Lo más importante no es cómo empezó, sino cómo terminó: en un **Empate Permanente**. El Tier A descubrió en Corea que las guerras que no se ganan ni se pierden son las más rentables y útiles para la consolidación del **[[Complejo Militar-Industrial]]**. El armisticio de 1953 (que técnicamente no es la paz) creó una tensión fronteriza eterna que justifica la presencia militar de EE.UU. en Asia hasta hoy. Corea fue el ensayo general para Vietnam y para todas las guerras proxy que vendrían, donde el objetivo no es la victoria, sino el mantenimiento del estado de emergencia global.
 
 ## Análisis De Poder (Tiers)
 
-### Tier A (Los Dueños De La Impresora Mundial)
+### Tier A (Los Dueños De La Emergencia Global)
 
-- **Transferencia Masiva de Riqueza:** El Tier A financiero sabe que la devaluación es un impuesto invisible. Al imprimir trillones (QE), el Tier A se queda con los activos reales (tierra, empresas, recursos) mientras el Tier C se queda con papelitos que compran cada vez menos pan.
-- **Planificación del Colapso Monetario:** El Tier A utiliza la guerra de divisas para fragmentar el sistema de Bretton Woods y preparar el terreno para una nueva moneda de reserva global ligada al crédito social.
+- **Institucionalización de la Guerra Fría:** El Tier A financiero y defensivo utilizó la guerra para cuadruplicar el presupuesto militar de EE.UU. (ver documento **NSC-68**), transformando a la república en un "Estado de Seguridad Nacional" permanente.
+- **La ONU como brazo ejecutivo:** Fue el estreno de la ONU como herramienta de intervención militar de Tier A, disfrazando intereses de hegemonía regional como "paz y seguridad colectiva".
 
-### Tier B (Operadores / Bancos Centrales Y Exportadores)
+### Tier B (Operadores / MacArthur Vs Truman)
 
-- **Bancos Centrales (Fed, BCE, PBOC):** Operan la "militarización de las tasas de interés". Suben o bajan las tasas no para estabilizar la economía, sino como actos de agresión financiera contra los flujos de capital de otras naciones.
-- **Lobby Exportador:** El Tier B empresarial presiona por devaluaciones constantes para licuar sus costos laborales internos y competir por precios, sacrificando el nivel de vida de la población local a cambio de cuota de mercado global.
+- **Douglas MacArthur:** El general de Tier B que intentó ganar la guerra de verdad (incluso sugiriendo el uso de armas nucleares contra China). Fue removido por Truman por desafiar la lógica de Tier A de una "guerra limitada" y controlada que no debía escalar al exterminio total del enemigo, sino a su contención rentable.
+- **Harry S. Truman:** El operador de Tier B que ejecutó la doctrina de la contención, aceptando la partición del mundo en bloques enfrentados como la base del nuevo orden de posguerra.
 
 ### Tier C (Narrativa Pública)
 
-- "Necesitamos una moneda competitiva para defender el empleo nacional". "Luchando contra la manipulación cambiaria extranjera". Narrativas patrióticas que el Tier C abraza, sin entender que la devaluación es un robo directo a sus salarios y que el "empleo defendido" suele ser en condiciones de precarización extrema.
+- "Salvando al mundo libre de la agresión comunista". Narrativa heroica que el Tier B instaló para justificar la muerte de 3 millones de personas. El Tier C coreano sufrió el exterminio de casi toda su infraestructura industrial y civil, convirtiéndose en el campo de pruebas de nuevas armas químicas y tácticas de bombardeo masivo.
 
 ## Conexiones Clave
 
-- [[00_Glosario - Conceptos Fase 1#Reserva Federal (Fed)|Reserva Federal (Fed)]] (El principal disparador)
-- [[Guerra Comercial (China vs EE.UU.)]] (Su rama industrial)
-- [[Inflación (Como Impuesto Invisible)]] (Su consecuencia directa)
-- [[CBDC / Fin del Efectivo]] (El objetivo final del caos)
+- [[Complejo Militar-Industrial]] (Su gran salto adelante)
+- [[Naciones Unidas (ONU)]] (Su rol como legitimador)
+- [[Guerra de Vietnam]] (La secuela directa)
+- [[Estado Profundo (Deep State)]] (Su consolidación presupuestaria)
 
 ## Por Qué Importa (Estilo Nico)
 
-> "La Guerra de Divisas es una carrera para ver quién es el primero en romper su moneda. Los de arriba (Tier A) se tiran con trillones de dólares, yuanes y euros como si fueran granadas. Te dicen que devalúan para 'ayudar a las fábricas', pero la verdad es que te están robando el sueldo en la cara sin que te des cuenta. Cada vez que el dólar o el peso valen menos, tu ahorro se lo queda el banco que imprimió la guita primero. Es la etapa final antes de que todo vuele por los aires: cuando ya no pueden competir fabricando cosas mejores, compiten rompiendo los billetes. Y cuando el sistema explote, te van a decir que la única solución es una moneda digital controlada por ellos. Es el robo perfecto."
+> "Corea es la base de todas las guerras modernas que nunca terminan. Ahí los de arriba (Tier A) se dieron cuenta de que no les convenía ganar rápido, sino dejar la herida abierta. Inventaron la excusa de la ONU para meterse sin permiso y desde entonces no se fueron más de Asia. El General MacArthur quiso terminar la guerra de una y lo echaron a patadas porque los dueños del negocio necesitaban una excusa para seguir fabricando balas y manteniendo bases para siempre. Corea sigue dividida hoy porque ese conflicto es el 'motor' que mantiene viva la tensión en el Pacífico. Es la guerra que nos enseñó que la paz es mal negocio para el Tier A."

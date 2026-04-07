@@ -2,8 +2,9 @@
 titulo: Demis Hassabis
 tipo: "persona"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [deepmind, demis, google, hassabis]
 publish: true
 ---

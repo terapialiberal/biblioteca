@@ -3,8 +3,9 @@ publish: true
 titulo: "Behavioral Insights Team: Los Arquitectos Del Miedo"
 tipo: "persona"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [cass, insights, miedo, team]
 ---
 
@@ -45,9 +46,3 @@ tags: [cass, insights, miedo, team]
 ## Conclusión Del Análisis
 
 El BIT representa el paso del gobierno por coerción física al **gobierno por coerción psicológica**. No necesitan policías en cada esquina si tienen psicólogos en cada redacción de noticias y en cada formulario estatal. Es el "Mundo Feliz" de Huxley hecho burocracia.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Psicología conductual aplicada, manipulación de masas y gestión de crisis.
-**Estado:** Informe de Inteligencia Activo.

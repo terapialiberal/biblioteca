@@ -2,9 +2,10 @@
 titulo: Cagliostro — El Agente De La Transmutación Social
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [cagliostro]
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
 publish: true
 ---
 
@@ -26,9 +27,3 @@ publish: true
 ## Cui Bono
 
 **El Nuevo Orden Secular**. Cagliostro fue un catalizador necesario para que el poder pasara de la sangre noble a la **Sangre del Dinero**. Fue descartado (murió en prisión) una vez que su función de demolición terminó.
-
----
-
-**Versión:** 2.0 (Deepened)
-**Enfoque:** El místico como agente provocador y espía de la red masónica.
-**Estado:** 2026-02-25 | Informe Activo

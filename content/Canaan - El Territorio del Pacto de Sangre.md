@@ -2,9 +2,10 @@
 titulo: Canaán — El Territorio Del Pacto De Sangre
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [baal, canan, pacto, territorio]
-tier-primario: "a"
-nivel-evidencia: "alto"
+tier_primario: "a"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -48,9 +49,3 @@ publish: true
 ## Cui Bono
 
 **Los Herederos del Pacto**. Aquellos que conservaron los ritos y los registros de deuda cananeos hasta la era de Venecia y Londres.
-
----
-
-**Versión:** 2.0 (Deepened)
-**Enfoque:** Geopolítica antigua, raíces del sistema bancario y sacrificio humano como herramienta de deuda.
-**Estado:** 2026-02-25 | Informe Activo

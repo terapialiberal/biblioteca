@@ -2,8 +2,9 @@
 titulo: Guerra De Georgia 2008
 tipo: "evento"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [georgia, guerra, otan, vladimir]
 publish: true
 ---

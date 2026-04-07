@@ -1,45 +1,31 @@
 ---
 publish: true
-titulo: Adolf Hitler
-tipo: "persona"
-fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
-tags: [adolf, hitler, prescott, wall]
+created: 2026-01-29T19:17:02.897-03:00
+modified: 2026-04-07T12:19:54.439-03:00
+tags:
+  - adolf-hitler
+  - wwii
+  - nazismo
+  - totalitarismo
+  - tl-intel-v3
 ---
 
-# Adolf Hitler
+# [[Adolf Hitler]]
 
-> [!INFO] Perfil Operativo (Tier A)
-> **Resumen:** Dictador nazi. Responsible de WWII y el Holocausto.
-> **Función Real:** El "mal absoluto" contra el cual se define la narrativa moderna.
+> [!abstract] PERFIL TL-INTEL
+> Figura central del nazismo y nodo histórico indispensable para leer totalitarismo, guerra industrial, propaganda y reconfiguración del orden del siglo XX.
 
-## Biografía
+## Contexto
 
-Hitler llegó al poder en 1933 y gobernó hasta su suicidio en 1945.
-
-Inició WWII y orquestó el Holocausto (6 millones de judíos + millones de otros).
-
-## Preguntas Históricas
-
-- ¿Cómo llegó al poder? (financiamiento industrial)
-- ¿Por qué no fue detenido antes?
-- ¿Quiénes se beneficiaron de su ascenso?
-- ¿Cuál fue el rol de bancos americanos? ([[Wall Street y el Ascenso de Hitler]])
-
-## Âš ï¸ Nota
-
-Toda discusión de Hitler se usa políticamente.
-
-El análisis histórico objetivo es difícil pero necesario.
+En TL, Hitler importa tanto por su papel histórico directo como por el uso posterior de su figura como límite moral absoluto, dispositivo de comparación y recurso legitimador dentro de narrativas contemporáneas.
 
 ## Conexiones
 
-- [[Prescott Bush]] (negocios con nazis)
-- IG Farben / [[Bayer]]
+- [[Wall Street y el Ascenso de Hitler]]
+- [[Prescott Bush]]
 - [[Operación Paperclip]]
+- [[WWII]]
 
-## Fuentes
+## Observación operativa
 
-- Historiadores serious
-- Sutton trilogy
+El problema analítico no es trivializar a Hitler ni volverlo fetiche. Es entender qué estructuras, financiamientos e incentivos hicieron posible su ascenso y su instrumentalización posterior.

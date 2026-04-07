@@ -2,8 +2,9 @@
 titulo: Gladio 3.0 (La Nueva Estrategia De Tensión)
 tipo: "persona"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [estrategia, gladio, nueva, tensin]
 publish: true
 ---

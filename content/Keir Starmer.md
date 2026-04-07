@@ -2,8 +2,9 @@
 titulo: Keir Starmer - Laborismo Atlantista
 tipo: "persona"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [atlantista, laborismo, starmer, trilateral]
 publish: true
 ---

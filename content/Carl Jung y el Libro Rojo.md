@@ -2,9 +2,10 @@
 titulo: Carl Jung Y El Libro Rojo
 tipo: "persona"
 fecha: 2026-02-25
+estado: activo
 tags: [carl, libro, rojo, sincronicidad]
-tier-primario: "b"
-nivel-evidencia: "alto"
+tier_primario: "b"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -36,9 +37,3 @@ publish: true
 ## Cui Bono
 
 ¿Quién gana? Los **Manejadores de Mitos**. Al conocer las "tuberías" del alma humana, el Tier A puede asegurar que la energía social fluya siempre hacia los reservorios de poder establecidos, evitando cualquier despertar que no sea controlado.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Psicología analítica aplicada al control de masas.
-**Estado:** 2026-02-25 | Informe Activo

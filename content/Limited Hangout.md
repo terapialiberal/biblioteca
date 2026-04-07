@@ -2,8 +2,9 @@
 titulo: "Limited Hangout: La Táctica De La Verdad Parcial"
 tipo: "persona"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [comit, limited, verdad, watergate]
 publish: true
 ---
@@ -29,14 +30,3 @@ publish: true
 1. **¿La revelación lleva a un cierre o a una expansión?:** Si la "verdad" recién descubierta cierra el caso y detiene las preguntas, es un Limited Hangout.
 2. **¿Cui Bono?:** ¿A qué facción del poder beneficia que esta parte específica de la verdad salga a la luz ahora?
 3. **¿Normalización?:** ¿La revelación hace que el público se resigne ("bueno, todos lo sabíamos") en lugar de movilizarse?
-
----
-
-## Conexiones De La Red
-
-- **Casos Típicos:** [[Comité Church]], [[Watergate]], [[Papeles del Pentágono]].
-- **Figuras en Disputa:** [[Edward Snowden]], [[Julian Assange]].
-- **Conceptos Relacionados:** [[Oposición Controlada]], [[Guerra Cognitiva]], [[Desinformación]].
-- **Agencia:** [[CIA]], [[Mossad]], [[Deep State]].
-
-**Estado:** Refactoreado a TL V.3 - Framework de Inteligencia Aplicado.

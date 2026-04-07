@@ -2,8 +2,9 @@
 titulo: Concilio De Nicea
 tipo: "concepto"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [concilio, gnosticismo, nicea, vatican]
 publish: true
 ---

@@ -2,8 +2,9 @@
 titulo: "COVID-19 Orígenes: La Pandemia Planificada"
 tipo: "persona"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [covid, event, orgenes, planificada]
 publish: true
 ---
@@ -40,9 +41,3 @@ publish: true
 ## Conclusión Del Análisis
 
 COVID-19 fue la operación psicológica que permitió a la oligarquía acelerar su agenda de control global.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Análisis de Operación Psicológica
-**Estado:** Informe de Inteligencia Activo

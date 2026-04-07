@@ -2,9 +2,10 @@
 titulo: Mercado De Acciones — La Democratización De La Captura
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [acciones, democratizacin, derivados, mercado]
-tier-primario: "a"
-nivel-evidencia: "alto"
+tier_primario: "a"
+nivel_evidencia: "alto"
 publish: true
 ---
 
@@ -46,9 +47,3 @@ publish: true
 ## Cui Bono
 
 **Los Gigantes de la Gestión de Activos**. Controlan el 90% de las empresas del S\&P 500 mediante el dinero de los jubilados de Tier C, usándolo para imponer su propia agenda política y económica.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Propiedad corporativa, ilusión de inversión y gobernanza global.
-**Estado:** 2026-02-25 | Informe Activo

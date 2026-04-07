@@ -2,9 +2,10 @@
 titulo: Proporciones De Giza (Ingeniería De La Antigüedad)
 tipo: "concepto"
 fecha: 2026-02-25
+estado: activo
 tags: [giza, nikola, proporciones, velocidad]
-tier-primario: "a"
-nivel-evidencia: "medio"
+tier_primario: "a"
+nivel_evidencia: "medio"
 publish: true
 ---
 
@@ -36,9 +37,3 @@ publish: true
 ## Cui Bono
 
 ¿Quién gana? Los **Administradores del Olvido**. Mantener a Giza como un misterio místico evita que la humanidad reclame su herencia tecnológica soberana, manteniéndola en una infancia técnica fácil de pastorear por el Tier A.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Tecnología antigua y control de la narrativa histórica.
-**Estado:** 2026-02-25 | Informe Activo

@@ -2,8 +2,9 @@
 titulo: "Neoliberalismo: La Ideología De La Oligarquía Financiera"
 tipo: "concepto"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [banco, financiera, fondo, oligarqua]
 publish: true
 ---
@@ -40,9 +41,3 @@ publish: true
 ## Conclusión Del Análisis
 
 El neoliberalismo es la ideología que justifica el saqueo de la riqueza pública por parte de la oligarquía financiera.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Análisis de Ideología Económica
-**Estado:** Informe de Inteligencia Activo

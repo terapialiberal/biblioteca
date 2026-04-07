@@ -2,8 +2,9 @@
 titulo: Clonación De Conan
 tipo: "concepto"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [clonacin, conan, javier, naciones]
 publish: true
 ---

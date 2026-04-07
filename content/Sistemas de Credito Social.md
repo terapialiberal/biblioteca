@@ -2,8 +2,9 @@
 titulo: "Sistemas De Crédito Social: El Control Conductual Total"
 tipo: "concepto"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [cbdcs, crdito, sistemas, total]
 publish: true
 ---
@@ -40,9 +41,3 @@ publish: true
 ## Conclusión Del Análisis
 
 El crédito social es el sistema de control conductual definitivo, donde la obediencia es monetizada y la disidencia es castigada económicamente.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Análisis de Control Conductual
-**Estado:** Informe de Inteligencia Activo

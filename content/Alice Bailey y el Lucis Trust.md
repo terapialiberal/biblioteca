@@ -2,9 +2,10 @@
 titulo: Alice Bailey Y El Lucis Trust (Nexo ONU)
 tipo: "persona"
 fecha: 2026-02-25
+estado: activo
 tags: [bailey, lucis, robert, trust]
-tier-primario: "a"
-nivel-evidencia: "total"
+tier_primario: "a"
+nivel_evidencia: "total"
 publish: true
 ---
 
@@ -36,9 +37,3 @@ publish: true
 ## Cui Bono
 
 ¿Quién gana? Los **Sacerdotes de la Gobernanza Global**. Alice Bailey proveyó el lenguaje de "buena voluntad" y "servicio" necesario para que la tiranía técnica de Tier A sea aceptada como una evolución espiritual necesaria de la humanidad.
-
----
-
-**Versión:** 1.0
-**Enfoque:** Ingeniería espiritual de las instituciones globales.
-**Estado:** 2026-02-25 | Informe Activo

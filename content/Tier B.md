@@ -1,8 +1,9 @@
 ---
 titulo: Tier B - Los Ejecutores
 tipo: "entidad"
-tier-primario: "b"
-nivel-evidencia: "muy-alto"
+tier_primario: "b"
+nivel_evidencia: "muy-alto"
+estado: activo
 tags: [inteligencia, ejecucion, burocracia, influencia]
 publish: true
 ---
@@ -34,7 +35,3 @@ El **Tier B** está compuesto por individuos y organizaciones que diseñan e imp
 - [[Tier A]]: Sus mandantes.
 - [[Tier C]]: Su campo de juego.
 - [[Kompromat y Dark Game Theory]]: Sus herramientas de control.
-
----
-
-_TL-INTEL V.3 | Arquitectura de Poder_

@@ -2,8 +2,9 @@
 titulo: Bisfenol A (BPA)
 tipo: "persona"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [bisfenol, ftlatos, naciones]
 publish: true
 ---

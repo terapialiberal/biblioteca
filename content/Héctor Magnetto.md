@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:17.786-03:00
-modified: 2026-03-16T09:21:40.713-03:00
+modified: 2026-04-07T10:49:39.073-03:00
 tags:
   - magnetto
   - grupo-clarin
@@ -52,8 +52,3 @@ tags:
 ## Por Qué Importa (Estilo Nico)
 
 > "Magnetto es el verdadero presidente de Argentina. Los que están en la Casa Rosada son inquilinos que se quedan 4 u 8 años; él es el dueño del edificio hace 40 años. Es el tipo que te maneja el control remoto de la cabeza: él decide qué es noticia y qué se oculta. Todos los presidentes le tienen pánico porque saben que si se levanta un lunes con ganas de bajarte, te clava tres tapas de diario y a la semana tenés saques en el súper. Magnetto no tiene ideología, tiene intereses; y su interés es que nada cambie para que él siga mandando."
-
----
-
-**Versión:** 2.0 (fusión Héctor Magnetto v1.0 + Hector Magnetto v1.0)
-**Estado:** Activo.

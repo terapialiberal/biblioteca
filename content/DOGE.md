@@ -2,8 +2,9 @@
 titulo: "DOGE (Departamento De Eficiencia): La Purga Tecnocrática"
 tipo: "concepto"
 fecha: 2026-02-25
-tier-primario: "b"
-nivel-evidencia: "medio"
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
 tags: [departamento, elon, tecnocrtica, vivek]
 publish: true
 ---
@@ -45,9 +46,3 @@ publish: true
 - [[Vivek Ramaswamy]]: El motor intelectual.
 - [[Donald Trump]]: El soberano que habilitó la purga.
 - [[Jeffrey Epstein]]: El "arma de distracción" utilizada durante la transición.
-
----
-
-**Falsabilidad**: Si la burocracia federal logra reorganizarse y bloquear las órdenes de DOGE mediante el poder judicial, la "Purga Tecnocrática" se estancaría y el Estado tradicional recuperaría el control.
-
-_Versión: 2.0 | Protocolo TL-INTEL TL V.3_
