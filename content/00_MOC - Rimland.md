@@ -139,7 +139,11 @@ tags:
 
 - [[05_Fuentes/Netanyahu aboga por rutas energéticas alternativas a través de la Península Arábiga.md|Netanyahu aboga por rutas energéticas alternativas a través de la Península Arábiga]]
 
+- [[03_Produccion/2026-04-15_LAS GUERRAS MAGA/NOTA_TESIS_CONSOLIDADA_LAS_GUERRAS_MAGA.md|NOTA_TESIS_CONSOLIDADA_LAS_GUERRAS_MAGA]]
+
 - [[06_Videos_Publicados/2026/2026-03-26_El_Reseteo_Perfecto/NOTA_TESIS_El_Reseteo_Perfecto.md|NOTA_TESIS_El_Reseteo_Perfecto]]
+
+- [[03_Produccion/2026-04-15_LAS GUERRAS MAGA/NOTA_TESIS_LAS_GUERRAS_MAGA.md|NOTA_TESIS_LAS_GUERRAS_MAGA]]
 
 - [[Patron - Teoria del Rimland (Spykman).md|Patron - Teoria del Rimland (Spykman)]]
 

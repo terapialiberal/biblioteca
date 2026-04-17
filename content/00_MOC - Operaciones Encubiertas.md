@@ -97,7 +97,7 @@ tags:
 
 - [[05_Fuentes/¿Cuál era la verdadera relación entre Jeffrey Epstein y Bill Gates.md|¿Cuál era la verdadera relación entre Jeffrey Epstein y Bill Gates]]
 
-- [[02_Produccion/Videos/2026-04-07-STREAM/00_CONTROL_TEMA.md|00_CONTROL_TEMA]]
+- [[06_Videos_Publicados/2026/2026-04-07_NWO_Energetico_Blueprint/00_CONTROL_TEMA.md|00_CONTROL_TEMA]]
 
 - [[00_MOC - Operaciones Encubiertas.md|00_MOC - Operaciones Encubiertas]]
 
@@ -161,11 +161,13 @@ tags:
 
 - [[Netanyahu prevee el 9-11.md|Netanyahu prevee el 9-11]]
 
-- [[02_Produccion/Videos/2026-04-07-STREAM/NOTA_TESIS_NWO_Energetico_Blueprint.md|NOTA_TESIS_NWO_Energetico_Blueprint]]
+- [[06_Videos_Publicados/2026/2026-04-07_NWO_Energetico_Blueprint/NOTA_TESIS_NWO_Energetico_Blueprint.md|NOTA_TESIS_NWO_Energetico_Blueprint]]
 
 - [[06_Videos_Publicados/2026/2026-03-17 IRAN_STREAM/NotaTesis_Chabad_RedCoordenacion_v1.md|NotaTesis_Chabad_RedCoordenacion_v1]]
 
 - [[Palantir.md|Palantir]]
+
+- [[99_AI/03_Prompts/04_DISTRIBUCION/03_PATREON/PATREON_Analisis_Extendido.md|PATREON_Analisis_Extendido]]
 
 - [[Patron - Need to Know (Necesidad de Saber).md|Patron - Need to Know (Necesidad de Saber)]]
 

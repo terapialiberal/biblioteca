@@ -108,11 +108,17 @@ tags:
 
 - [[05_Fuentes/Como la casa de Rothschild se entrelazo con Epstein.md|Como la casa de Rothschild se entrelazo con Epstein]]
 
+- [[Credito privado.md|Credito privado]]
+
+- [[03_Produccion/2026-04-15_LAS GUERRAS MAGA/DIAGRAMA_Bretton_Woods_2_Petrodolar_Deuda.md|DIAGRAMA_Bretton_Woods_2_Petrodolar_Deuda]]
+
 - [[DTCC.md|DTCC]]
 
 - [[05_Fuentes/El BIS defiende un libro mayor unificado pero describe las criptomonedas como un sistema defectuoso.md|El BIS defiende un libro mayor unificado pero describe las criptomonedas como un sistema defectuoso]]
 
 - [[05_Fuentes/El giro histórico de Jamie Dimon reconoce la superioridad del ecosistema cripto.md|El giro histórico de Jamie Dimon reconoce la superioridad del ecosistema cripto]]
+
+- [[05_Fuentes/El Patrón Scott Bessent y la Corrupción en el Tesoro de EE. UU.md|El Patrón Scott Bessent y la Corrupción en el Tesoro de EE. UU]]
 
 - [[Escritura Cuneiforme y Deuda.md|Escritura Cuneiforme y Deuda]]
 
@@ -139,6 +145,8 @@ tags:
 - [[N M Rothschild and Sons.md|N M Rothschild and Sons]]
 
 - [[Nicholas Brady.md|Nicholas Brady]]
+
+- [[03_Produccion/2026-04-15_LAS GUERRAS MAGA/NOTA_TESIS_Bretton_Woods_2_Petrodolar_Deuda.md|NOTA_TESIS_Bretton_Woods_2_Petrodolar_Deuda]]
 
 - [[Nuevo Bretton Woods.md|Nuevo Bretton Woods]]
 

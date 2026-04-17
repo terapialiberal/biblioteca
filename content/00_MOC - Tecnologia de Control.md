@@ -99,6 +99,14 @@ tags:
 
 - [[00_MOC - Simbolismo y Esoterismo]]
 
+- [[06_Videos_Publicados/2026/2026-04-13_Ormuz_IA_Orden/00_ARCHIVO_2026-04-13_Ormuz_IA_Orden.md|00_ARCHIVO_2026-04-13_Ormuz_IA_Orden]]
+
+- [[06_Videos_Publicados/2026/2026-04-13_Ormuz_IA_Orden/00_CONTROL_TEMA.md|00_CONTROL_TEMA]]
+
+- [[00_Home/00_ESTADO_OPERATIVO_IA.md|00_ESTADO_OPERATIVO_IA]]
+
+- [[99_AI/02_Agentes/00_IA_STACK_2026.md|00_IA_STACK_2026]]
+
 - [[00_MOC - Tecnologia de Control.md|00_MOC - Tecnologia de Control]]
 
 - [[15-Minute Cities.md|15-Minute Cities]]
@@ -153,6 +161,8 @@ tags:
 
 - [[Google Glass.md|Google Glass]]
 
+- [[06_Videos_Publicados/2026/2026-04-13_Ormuz_IA_Orden/GROK_NOTA_TESIS_Ormuz_2026-04-13.md|GROK_NOTA_TESIS_Ormuz_2026-04-13]]
+
 - [[05_Fuentes/Grupo mediatico Trump acuerda una fusion de 6.000.md|Grupo mediatico Trump acuerda una fusion de 6.000]]
 
 - [[HAARP.md|HAARP]]
@@ -195,7 +205,11 @@ tags:
 
 - [[NEWSLETTER_El_Gran_Desacople_2026.md|NEWSLETTER_El_Gran_Desacople_2026]]
 
+- [[06_Videos_Publicados/2026/2026-04-13_Ormuz_IA_Orden/NOTA_TESIS_Ormuz_IA_Orden.md|NOTA_TESIS_Ormuz_IA_Orden]]
+
 - [[OpenAI.md|OpenAI]]
+
+- [[05_Fuentes/OpenAI apoya proyecto de ley estatal de Illinois que protege a laboratorios de IA de responsabilidad por daños graves.md|OpenAI apoya proyecto de ley estatal de Illinois que protege a laboratorios de IA de responsabilidad por daños graves]]
 
 - [[Palantir.md|Palantir]]
 
@@ -206,6 +220,8 @@ tags:
 - [[Patriot Act.md|Patriot Act]]
 
 - [[Patron - Deepfake.md|Patron - Deepfake]]
+
+- [[06_Videos_Publicados/2026/2026-04-13_Ormuz_IA_Orden/PRE_STREAM_Ormuz_IA_Orden.md|PRE_STREAM_Ormuz_IA_Orden]]
 
 - [[05_Fuentes/President Donald Trump signs executive order on AI.md|President Donald Trump signs executive order on AI]]
 

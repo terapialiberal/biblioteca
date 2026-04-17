@@ -98,6 +98,8 @@ tags:
 
 - [[CBDC Interoperability.md|CBDC Interoperability]]
 
+- [[03_Produccion/2026-04-15_LAS GUERRAS MAGA/cc_ANALISIS_Bilderberg1973_Reset_Monetario.md|cc_ANALISIS_Bilderberg1973_Reset_Monetario]]
+
 - [[05_Fuentes/Christine Lagarde admite que las CBDC son clave para mantener el poder de los bancos centrales.md|Christine Lagarde admite que las CBDC son clave para mantener el poder de los bancos centrales]]
 
 - [[CIPS & SPFS.md|CIPS & SPFS]]
@@ -105,6 +107,8 @@ tags:
 - [[Clearstream.md|Clearstream]]
 
 - [[05_Fuentes/Como la casa de Rothschild se entrelazo con Epstein.md|Como la casa de Rothschild se entrelazo con Epstein]]
+
+- [[Credito privado.md|Credito privado]]
 
 - [[Credito Social.md|Credito Social]]
 
@@ -127,6 +131,8 @@ tags:
 - [[05_Fuentes/El Operador de la Centralita.md|El Operador de la Centralita]]
 
 - [[El Patron Bitcoin.md|El Patron Bitcoin]]
+
+- [[05_Fuentes/El Patrón Scott Bessent y la Corrupción en el Tesoro de EE. UU.md|El Patrón Scott Bessent y la Corrupción en el Tesoro de EE. UU]]
 
 - [[Ethereum Foundation.md|Ethereum Foundation]]
 
