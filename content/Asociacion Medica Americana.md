@@ -1,50 +1,59 @@
 ---
-titulo: Asociación Médica Americana (AMA)
-tipo: "entidad"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [asociacin, mdica, pfizer, rockefeller]
 publish: true
+aliases:
+  - Asociación Médica Americana
+  - American Medical Association
+  - AMA
+created: 2026-01-29T19:17:04.262-03:00
+modified: 2026-04-18T10:51:12.919-03:00
+tags:
+  - ama
+  - medicina
+  - licencias
+  - informe-flexner
+  - rockefeller
+  - tl-intel-v3
 ---
 
-![AMA Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/American_Medical_Association_logo.svg/200px-American_Medical_Association_logo.svg.png)
+# Asociacion Medica Americana
 
-# Asociación Médica Americana (AMA)
+## BLUF
 
-## Resumen Ejecutivo
+[[Asociacion Medica Americana]] importa en TL como brazo corporativo-profesional que ayudó a consolidar la medicina estandarizada en Estados Unidos: su peso no está solo en representar médicos, sino en fijar credenciales, fronteras de legitimidad y disciplina institucional sobre qué cuenta como medicina aceptable.
 
-**¿Qué es?** El gremio de médicos de EEUU. Determina qué es "medicina official" y qué es "charlatanería".
+## Por que importa en TL
 
-**¿Por qué importa?** Fue cooptada por **John D. Rockefeller** y **Andrew Carnegie** a principios del siglo XX (Informe Flexner, 1910).
-Su objetivo fue eliminar toda competencia a la **medicina alopática basada en petróleo** (fármacos patentables). Cerraron las escuelas de medicina natural, homeopática, quiropráctica y osteopática. Si no recetabas drogas sintéticas, perdías tu licencia.
-Crearon un monopolio donde "salud" = "compra de fármacos".
+- conecta licencias, currículum, enforcement profesional y monopolio epistemológico;
+- ayuda a leer la consolidación del modelo farmacológico junto con [[Informe Flexner]] y [[General Education Board]];
+- funciona como capa operativa del pasaje desde medicina plural hacia medicina regulada, centralizada y alineada a grandes fundaciones.
 
-## Análisis (Tiers)
+## Que cambio
 
-### Tier A (Medicina Rockefeller)
+La nota venía muy cerrada en clave de denuncia lineal y con naming legacy a `[[Rockefeller Foundation]]`. Se recompila como nodo modular de la rama histórica `Rockefeller / medicina / eugenesia`.
 
-- **Informe Flexner:** Abraham Flexner (hermano del presidente del [[CFR]]) recorrió las escuelas médicas y recomendó cerrar todas las que no seguían el modelo "científico" (materialista/farmacológico). Rockefeller financió solo a las que obedecieron.
-- **Cáncer:** La AMA ha perseguido ferozmente tratamientos contra el cáncer efectivos pero no patentables (Rife, Gerson, Hoxsey), llamándolos "curanderos" para proteger el negocio de la quimioterapia.
+## Lectura TL
 
-### Tier B (Operativa)
+### 1. Gremio con poder de frontera
 
-- **Morris Fishbein:** El dictador de la AMA durante décadas. Extorsionaba a fabricantes de tabaco para darles el sello de aprobación de la AMA ("Los médicos prefieren Camel").
-- **Licencias:** Controlan la oferta de médicos para mantener los salarios altos y la obediencia al protocolo.
+La AMA importa porque no solo agrupa médicos: ayuda a decidir quién entra, quién queda afuera y qué prácticas se consideran aceptables bajo el sello de "ciencia médica".
 
-### Tier C (Narrativa)
+### 2. Estandarización y cierre del campo
 
-- "Ciencia médica basada en evidencia"
-- "Protección del paciente"
+En TL, su papel pesa cuando se la lee junto con [[Informe Flexner]] como parte de un proceso de cierre institucional que debilitó escuelas homeopáticas, naturopáticas y otros modelos no alineados.
+
+### 3. Medicina y disciplina profesional
+
+Su valor analítico aumenta cuando se ve cómo licencias, acreditación y prestigio sirven para alinear a los médicos con un marco terapéutico dominante sin necesidad de coerción estatal directa en cada caso.
+
+### 4. Nodo histórico del corredor médico-industrial
+
+Leída junto con [[Fundacion Rockefeller]], [[Informe Flexner]] y [[General Education Board]], la AMA aparece como pieza operativa del largo pasaje hacia una medicina más dependiente de farmacología, laboratorio y validación institucional centralizada.
 
 ## Conexiones
 
-- [[Rockefeller Foundation]]
-- [[General Education Board]] (financió la reforma médica)
-- [[Pfizer]]
-
-## Fuentes
-
-- "Rockefeller Medicine Men" - E. Richard Brown
-- "Murder by Injection" - Eustace Mullins
+- [[Informe Flexner]]
+- [[General Education Board]]
+- [[Fundacion Rockefeller]]
+- [[John D. Rockefeller]]
+- [[Big Pharma]]
+- [[Iatrogenia]]

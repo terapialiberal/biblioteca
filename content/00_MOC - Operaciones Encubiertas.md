@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-24T13:31:46.461-03:00
-modified: 2026-04-07T10:47:08.236-03:00
+modified: 2026-04-17T13:57:31.241-03:00
 tags:
   - moc
   - operaciones-encubiertas
@@ -70,7 +70,7 @@ tags:
 - [[Ghislaine Maxwell]]
 - [[Andrew Mountbatten-Windsor]]
 - [[Peter Mandelson]]
-- [[Honey Pot (Operación)]]
+- [[Honey Pot]]
 
 ## Asesinatos y Golpes
 
@@ -105,7 +105,11 @@ tags:
 
 - [[Agencia de inteligencia.md|Agencia de inteligencia]]
 
+- [[AMIA.md|AMIA]]
+
 - [[Carbine.md|Carbine]]
+
+- [[Cesar Milani.md|Cesar Milani]]
 
 - [[Chiche Gelblung.md|Chiche Gelblung]]
 
@@ -125,13 +129,19 @@ tags:
 
 - [[Fuentes y Marcadores.md|Fuentes y Marcadores]]
 
-- [[Gobernanza Algoritmica.md|Gobernanza Algoritmica]]
+- [[Ghislaine Maxwell.md|Ghislaine Maxwell]]
 
 - [[Hermes - Trimegisto - Inteligencia y Señales.md|Hermes - Trimegisto - Inteligencia y Señales]]
+
+- [[Hezbollah en Latinoamerica.md|Hezbollah en Latinoamerica]]
+
+- [[Honey Pot.md|Honey Pot]]
 
 - [[Honeypot.md|Honeypot]]
 
 - [[In-Q-Tel.md|In-Q-Tel]]
+
+- [[Inteligencia Militar.md|Inteligencia Militar]]
 
 - [[Jaime Stiuso.md|Jaime Stiuso]]
 
@@ -151,6 +161,8 @@ tags:
 
 - [[05_Fuentes/Las capacidades secretas de Palantir, según exoficial de la CIA.md|Las capacidades secretas de Palantir, según exoficial de la CIA]]
 
+- [[Lawfare.md|Lawfare]]
+
 - [[Le Cercle - Wikispooks.md|Le Cercle - Wikispooks]]
 
 - [[Lucero del Alba y Espionaje.md|Lucero del Alba y Espionaje]]
@@ -158,6 +170,8 @@ tags:
 - [[Mario Firmenich.md|Mario Firmenich]]
 
 - [[Michael Flynn.md|Michael Flynn]]
+
+- [[Muerte de Alberto Nisman.md|Muerte de Alberto Nisman]]
 
 - [[Netanyahu prevee el 9-11.md|Netanyahu prevee el 9-11]]
 
@@ -167,6 +181,8 @@ tags:
 
 - [[Palantir.md|Palantir]]
 
+- [[Palantir CIA.md|Palantir CIA]]
+
 - [[99_AI/03_Prompts/04_DISTRIBUCION/03_PATREON/PATREON_Analisis_Extendido.md|PATREON_Analisis_Extendido]]
 
 - [[Patron - Need to Know (Necesidad de Saber).md|Patron - Need to Know (Necesidad de Saber)]]
@@ -175,6 +191,14 @@ tags:
 
 - [[05_Fuentes/Red Epstein-Maxwell (Trampa de Inteligencia).md|Red Epstein-Maxwell (Trampa de Inteligencia)]]
 
+- [[Robert Maxwell.md|Robert Maxwell]]
+
+- [[Santiago Caputo.md|Santiago Caputo]]
+
 - [[Tier B.md|Tier B]]
+
+- [[Total Information Awareness.md|Total Information Awareness]]
+
+- [[Triple Frontera.md|Triple Frontera]]
 
 - [[Triple Frontera (Inteligencia).md|Triple Frontera (Inteligencia)]]

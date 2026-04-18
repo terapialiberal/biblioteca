@@ -1,48 +1,55 @@
 ---
-titulo: Feminismo E Inteligencia
-tipo: "entidad"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [divide, feminismo, inteligencia, rockefeller]
 publish: true
+created: 2026-01-29T19:17:13.574-03:00
+modified: 2026-04-18T10:53:17.099-03:00
+tags:
+  - feminismo
+  - inteligencia
+  - ingenieria-social
+  - cultura
+  - cia
+  - tl-intel-v3
 ---
 
-# Feminismo E Inteligencia
+# Feminismo e Inteligencia
 
-## Perfil TL (Resumen Ejecutivo)
+## BLUF
 
-**¿Qué es?** El proceso de infiltración, financiamiento y dirección del movimiento feminista de la "segunda ola" por parte de agencias de inteligencia (especialmente la CIA) y fundaciones de élite.
+[[Feminismo e Inteligencia]] importa en TL como hipótesis de lectura sobre la intersección entre cambio cultural, financiamiento, medios y aparatos de influencia: su valor analítico está en examinar cómo agendas legítimas de emancipación pueden ser redirigidas, financiadas o encauzadas por redes de poder más amplias.
 
-**¿Por qué importa?** El feminismo moderno fue **cooptado como una herramienta de ingeniería social de Tier A para la demolición de la unidad familiar y la expansión de la base impositiva**. La figura central, **Gloria Steinem**, admitió haber sido un operativo de la CIA antes y durante su liderazgo en el movimiento. Para el Tier A, el feminismo no se trataba de "liberación", sino de dos objetivos técnicos:
+## Por que importa en TL
 
-1. **Fiscalidad:** Al sacar a las mujeres del hogar y meterlas en el mercado laboral, el Estado duplicó su base impositiva de ciudadanos de Tier C.
-2. **Adoctrinamiento Estatal:** Al romper el modelo de familia tradicional (donde la madre educa), se obligó a que los niños entraran a los sistemas escolares estatales a edades más tempranas, permitiendo al Tier A un control total sobre la formación de la psique de las futuras generaciones (el "Estado como Padre"). El feminismo fue el caballo de Troya para transformar al ciudadano independiente en un átomo aislado dependiente del Estado y las corporaciones.
+- conecta movimiento social, fundaciones, inteligencia y reconfiguración de familia, trabajo y educación;
+- ayuda a leer la diferencia entre demanda social genuina y conducción estratégica de sus carriles institucionales;
+- funciona como nodo de cruce entre [[CIA / Operación Mockingbird]], [[Fundacion Rockefeller]] y teoría crítica cultural.
 
-## Análisis De Poder (Tiers)
+## Que cambio
 
-### Tier A (Los Arquitectos Del Gran Reinicio Familiar)
+La nota venía demasiado cerrada en una sola tesis de captura total y con links legacy a `[[Rockefeller Foundation]]`. Se recompila como nodo modular para conservar la línea analítica sin congelarla en un manifiesto.
 
-- **La Confesión de Rockefeller:** El cineasta Aaron Russo relató que Nicholas Rockefeller le confesó que la **[[Rockefeller Foundation]]** financió el feminismo por dos razones: impuestos y control de los niños mediante la escuela. Es la mercantilización total de la reproducción social.
-- **La Fundación Ford:** Actuó como el principal brazo de financiamiento ("Money Pipeline") para los departamentos de Estudios de Género en las universidades, asegurando que la teoría feminista siempre fuera confrontativa (Guerra de Sexos) para fragmentar la resistencia social (**[[Divide y Vencerás]]**).
+## Lectura TL
 
-### Tier B (Operadores / Gloria Steinem Y El Control Narrativo)
+### 1. Movimiento y conducción no son lo mismo
 
-- **Gloria Steinem:** Trabajó para la organización de fachada de la CIA "Independent Research Service". Su revista _Ms. Magazine_ recibió apoyo oficial y mediático masivo para desplazar a las líderes feministas más moderadas o pro-familia por una visión que demonizaba la maternidad y la masculinidad.
-- **Betty Friedan:** Aunque se presentaba como un ama de casa descontenta, tenía un largo historial como operativa política radical. Su papel fue crear la narrativa de la "Mística de la Feminidad" como una cárcel, alienando a las mujeres de su centro de poder natural: el hogar.
+El nodo importa porque permite distinguir entre la energía social real de un movimiento y las capas de financiamiento, medios y liderazgo que lo vuelven gobernable.
 
-### Tier C (Narrativa Pública)
+### 2. Familia, trabajo y Estado
 
-- "Igualdad de derechos". "Rompiendo el techo de cristal". Narrativas de justicia que el Tier C adoptó sinceramente, sin percibir que estaban siendo utilizados para un proceso de desposesión económica y desestructuración psíquica masiva.
+En TL, uno de los puntos más importantes es leer cómo ciertos cambios culturales pueden tener efectos fiscales, educativos y de dependencia institucional aunque se presenten en clave de liberación individual.
 
-## Conexiones Clave
+### 3. Medios, prestigio y legitimidad
 
-- [[CIA / Operación Mockingbird]] (La infiltración de los medios de Steinem)
-- [[Fundación Rockefeller]] (Su motor financiero)
-- [[Escuela de Frankfurt]] (Su base teórica de desconstrucción cultural)
-- [[Planificación Familiar (Planned Parenthood)]] (El brazo eugenésico del movimiento)
+Su valor analítico aumenta al observar cómo figuras, revistas, universidades y ONGs pueden amplificar una línea particular del feminismo mientras desplazan otras.
 
-## Por Qué Importa (Estilo Nico)
+### 4. Nodo cultural del corredor filantrópico
 
-> "El feminismo que te venden en la tele no nació en una plaza, nació en una oficina de la CIA. Gloria Steinem, la jefa de todo el asunto, era una espía. ¿Por qué el Tier A querría que las mujeres trabajen? Porque quieren cobrarles impuestos a ellas también y porque quieren que tus hijos los críe la escuela del Estado y no vos. Si mamá trabaja y papá trabaja, el nene queda solo para que el algoritmo y la televisión le metan lo que quieran en la cabeza. El feminismo fue la técnica perfecta para romper la familia y que vos creas que fue por 'libertad'. Hoy sos más pobre que antes, trabajás el doble y tus hijos no te escuchan: misión cumplida de la CIA."
+Leído junto con [[Fundacion Rockefeller]], [[CIA / Operación Mockingbird]] y [[Escuela de Frankfurt]], este nodo ayuda a pensar la articulación entre cultura, narrativa y gobernanza social.
+
+## Conexiones
+
+- [[CIA / Operación Mockingbird]]
+- [[Fundacion Rockefeller]]
+- [[Escuela de Frankfurt]]
+- [[Planned Parenthood]]
+- [[Divide y Venceras]]
+- [[Gloria Steinem]]

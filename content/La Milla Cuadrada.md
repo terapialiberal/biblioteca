@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:21.428-03:00
-modified: 2026-04-07T14:57:06.898-03:00
+modified: 2026-04-07T14:57:13.039-03:00
 tags:
   - banco
   - cuadrada

@@ -35,7 +35,7 @@ publish: true
 
 ## Conexiones Críticas
 
-- [[Event 201]]: Ensayo previo.
+- [[Evento 201]]: Ensayo previo.
 - [[Great Reset]]: Marco de implementación.
 
 ## Conclusión Del Análisis

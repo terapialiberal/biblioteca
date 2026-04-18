@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-03-12T15:18:26.408-03:00
-modified: 2026-04-07T10:47:31.508-03:00
+modified: 2026-04-07T10:47:44.061-03:00
 tags:
   - ben-gvir
   - israel

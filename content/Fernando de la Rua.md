@@ -1,45 +1,57 @@
 ---
-titulo: Fernando De La Rúa
-tipo: "concepto"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [crisis, domingo, fernando]
 publish: true
+aliases:
+  - Fernando De La Rúa
+  - Fernando de la Rúa
+created: 2026-01-29T19:17:13.613-03:00
+modified: 2026-04-18T11:45:42.619-03:00
+tags:
+  - argentina
+  - rua
+  - crisis-2001
+  - alianza
+  - deuda
+  - tl-intel-v3
 ---
 
-# Fernando De La Rúa
+# Fernando de la Rua
 
-## Perfil TL (Resumen Ejecutivo)
+## BLUF
 
-**Quien fue?** 48o Presidente de la Nacion Argentina (1999-2001), primer mandatario de la coalicion "La Alianza".
+[[Fernando de la Rua]] importa en TL como figura de colapso del orden politico y economico de fin de convertibilidad: concentra debilidad de mando, dependencia del FMI y desintegracion acelerada de legitimidad estatal.
 
-**¿Por qué importa?** De la Rúa es el **símbolo del colapso del Tier B político bajo la presión del Tier A financiero**. Su presidencia heredó una estructura de deuda insostenible (la Convertibilidad) que el **[[FMI]]** y los acreedores internacionales se negaron a refinanciar sin ajustes salvajes. De la Rúa, un operador débil e indeciso, intentó salvar el sistema mediante el **"Megacanje"** y el **"Blindaje"** (maniobras financieras que beneficiaron a los bancos de Tier A a costa de aumentar la deuda pública), pero finalmente fue abandonado por sus propios jefes externos. Su caída en diciembre de 2001, escapando en helicóptero de una Casa Rosada rodeada de protestas y represión, marcó el fin de la ilusión democrática de la posdictadura y el inicio de una era de control político directo mediante el caudillismo y la emisión monetaria.
+## Por que importa en TL
 
-## Análisis De Poder (Tiers)
+- conecta convertibilidad agotada, FMI, megacanje, corralito y crisis de representacion;
+- ayuda a leer 2001 no solo como crisis social sino como implosion de una forma de gobierno;
+- funciona como nodo de cruce entre [[Crisis de 2001]], [[Domingo Cavallo]], [[FMI]] y [[Corralito]].
 
-### Tier A (Los Dueños De La Quiebra)
+## Que cambio
 
-- **El Abandono del FMI:** El Tier A (encabezado por Horst Köhler del FMI) decidió "dejar caer" a Argentina en 2001 para disciplinar a los mercados emergentes. De la Rúa fue el sacrificio humano necesario para formatear la economía argentina bajo nuevas reglas de default y pesificación.
-- **Banca Transnacional:** Durante su gobierno, los bancos permitieron la fuga masiva de capitales de la élite argentina mientras imponían el "Corralito" (congelamiento de ahorros) al ciudadano de Tier C.
+La nota venia en formato viejo, con encoding roto, tipo mal clasificado y una lectura demasiado cerrada. Se recompila como perfil modular del corredor `argentina / colapso / deuda / gobernabilidad`.
 
-### Tier B (Operadores / El Gabinete Del Caos)
+## Lectura TL
 
-- **[[Domingo Cavallo]]:** El verdadero poder detrás del trono en sus meses finales. Cavallo fue reincorporado para intentar un milagro técnico que solo agravó la asfixia económica.
-- **La "Banelco":** El escándalo de sobornos en el Senado para aprobar la ley de reforma laboral demostró que el Tier B político usaba fondos de inteligencia para comprar leyes dictadas por organismos externos.
+### 1. Debilidad politica bajo presion financiera
 
-### Tier C (Narrativa Pública)
+En TL, De la Rua importa porque permite ver como un gobierno formalmente democratico puede quedar vaciado cuando pierde margen economico, capacidad de decision y apoyo politico al mismo tiempo.
 
-- "Dicen que soy aburrido". Narrativa de campaña utilizada para proyectar honestidad y parsimonia, que luego se transformó en la percepción de incapacidad mental y desconexión con la realidad social.
+### 2. Tecnocracia sin sostén
 
-## Conexiones Clave
+Su valor analitico aumenta cuando se observa que el recurso a soluciones tecnicas y financieras no resolvio la crisis de legitimidad, sino que la profundizo al desconectar aun mas al gobierno de la experiencia social.
 
-- [[Crisis de 2001]] (El evento que lo define)
-- [[Domingo Cavallo]] (Su ministro y ejecutor)
-- [[FMI (Fondo Monetario Internacional)]] (Su acreedor implacable)
-- [[Federico Sturzenegger]] (Su funcionario en el Megacanje)
+### 3. Figura de implosion del sistema partidario
 
-## Por Qué Importa (Estilo Nico)
+Leido junto con [[Crisis de 2001]], ayuda a pensar el derrumbe de la Alianza y el agotamiento de la promesa de normalidad institucional de la posconvertibilidad temprana.
 
-> "De la Rúa es el tipo que te invitaron a manejar un barco que ya se estaba hundiendo y él se puso a discutir el color de los chalecos salvavidas. Fue el títere que el FMI usó para exprimirle el último centavo a la clase media argentina antes de cortarle la luz. Se creía que por ser 'serio' y 'academia' los bancos lo iban a perdonar, pero el Tier A no tiene amigos, tiene intereses. Lo dejaron solo, le prendieron fuego la calle y lo obligaron a irse en helicóptero para que todos nosotros aprendiéramos que el que no paga, desaparece. Fue el final de la Argentina que se creía del primer mundo y el inicio del basurero que somos hoy."
+### 4. Puente entre los 90 y el estallido
+
+Tambien importa como figura bisagra: no funda el modelo, pero queda asociado a su colapso visible y al trauma politico que reorganiza la Argentina posterior.
+
+## Conexiones
+
+- [[Crisis de 2001]]
+- [[Corralito]]
+- [[Domingo Cavallo]]
+- [[FMI]]
+- [[Eduardo Duhalde]]

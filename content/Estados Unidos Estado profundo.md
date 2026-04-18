@@ -38,7 +38,7 @@ publish: true
 - [[Asesinato de JFK]] (El golpe de estado fundacional)
 - [[CIA (Central Intelligence Agency)]] (Su principal brazo ejecutor)
 - [[9-11]] (La expansión del siglo XXI)
-- [[Jeffrey Epstein / Red de Chantaje]] (La herramienta de control de políticos)
+- [[Jeffrey Epstein]] (La herramienta de captura y control sobre políticos)
 
 ## Fuentes
 

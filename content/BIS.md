@@ -5,7 +5,7 @@ aliases:
   - BIS (Banco de Pagos Internacionales)
   - BIS - El Banco de Pagos Internacionales
 created: 2026-01-29T19:17:05.462-03:00
-modified: 2026-04-07T11:16:21.938-03:00
+modified: 2026-04-07T11:49:34.983-03:00
 tags:
   - bis
   - banca-central

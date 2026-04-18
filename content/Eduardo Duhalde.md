@@ -1,51 +1,54 @@
 ---
 publish: true
 created: 2026-01-29T19:17:10.927-03:00
-modified: 2026-04-07T10:48:21.656-03:00
+modified: 2026-04-18T11:46:13.872-03:00
 tags:
-  - pesificacion-asimetrica
+  - argentina
+  - duhalde
   - crisis-2001
-  - transferencia-riqueza
-  - capitalismo-amigos
+  - pesificacion
   - peronismo
+  - tl-intel-v3
 ---
 
 # Eduardo Duhalde
 
-## Perfil TL (Resumen Ejecutivo)
+## BLUF
 
-**¿Quién es?** Político peronista, ex-gobernador de Buenos Aires y Presidente interino de Argentina (2002-2003) tras la crisis del 2001.
+[[Eduardo Duhalde]] importa en TL como operador de salida y recomposicion tras el colapso de 2001: encarna la administracion politica del derrumbe, la pesificacion y el restablecimiento de un nuevo equilibrio de poder.
 
-**¿Por qué importa?** Duhalde es el **operador de Tier B encargado de la mayor transferencia de riqueza de la historia moderna argentina hacia el sector corporativo**. Tras orquestar la caída del presidente De la Rúa mediante el uso de la estructura territorial de los **[[Barones del Conurbano]]**, Duhalde implementó la **"Pesificación Asimétrica"**. Esta medida destruyó los ahorros de la clase media (pesificando depósitos a 1.40) mientras licuaba las deudas multimillonarias en dólares de los grandes grupos económicos de Tier A (**[[Techint]]**, **[[Grupo Clarín]]**, **Siderar**) a 1 a 1. Duhalde salvó a la "oligarquía industrial" de la quiebra a costa del hambre de millones, estableciendo las bases del modelo de capitalismo de amigos que dominaría las décadas siguientes. Es el exponente máximo de la alianza entre el aparato para-estatal peronista y la elite industrial protegida.
+## Por que importa en TL
 
-## Análisis De Poder (Tiers)
+- conecta crisis de 2001, pesificacion, aparato bonaerense, peronismo territorial y reordenamiento post-colapso;
+- ayuda a leer la salida de la crisis no como simple estabilizacion sino como redistribucion fuerte de perdedores y ganadores;
+- funciona como nodo de cruce entre [[Crisis de 2001]], [[Corralito]], [[Fernando de la Rua]] y [[Carlos Menem]].
 
-### Tier A (El Grupo Productivo Y La UIA)
+## Que cambio
 
-- **Los Beneficiarios de la Pesificación:** El Tier A industrial (encabezado por Paolo Rocca y Héctor Magnetto) utilizó a Duhalde como su brazo ejecutivo para borrar sus deudas externas y recuperar la rentabilidad mediante la devaluación masiva. Duhalde no gobernó para el pueblo, sino para el balance contable de la **Unión Industrial Argentina (UIA)**.
+La nota venia con material potente pero demasiado manifiesto, con encoding roto y cierres muy cerrados en una sola explicacion. Se recompila como perfil modular del corredor `argentina / crisis / peronismo territorial / pesificacion`.
 
-### Tier B (Operadores / El Aparato Bonaerense)
+## Lectura TL
 
-- **Maldita Policía:** Durante su gobernación, Duhalde consolidó un pacto con la policía bonaerense donde se permitía el control de "cajas negras" (drogas, juego) a cambio de control social y electoral. Este sistema de Tier B es el que permitió el estallido controlado de diciembre de 2001.
-- **El Delfín Kirchner:** Ante la imposibilidad de reelegirse por los asesinatos de Kosteki y Santillán, Duhalde seleccionó a **Néstor Kirchner** como su sucesor, creyendo que podría controlarlo desde las sombras (fallando estrepitosamente).
+### 1. Operador de transicion y cierre del colapso
 
-### Tier C (Narrativa Pública)
+En TL, Duhalde importa porque muestra como el sistema politico argentino logra recomponerse despues del estallido no por resolucion limpia del conflicto, sino por una salida de emergencia administrada desde estructuras territoriales y acuerdos de poder.
 
-- "El hombre que pacificó el país". "El piloto de tormentas que evitó la guerra civil". Narrativa histórica que oculta el robo sistemático a los ahorristas y el pacto de impunidad con las grandes empresas que financiaron su ascenso.
+### 2. Pesificacion como gran redistribucion
 
-## Conexiones Clave
+Su valor analitico aumenta cuando se observa que la salida de la convertibilidad no fue neutral: redefinio ganadores y perdedores, licuo deudas, destruyo ahorros y reorganizo posiciones dentro del capitalismo argentino.
 
-- [[Crisis de 2001]] (Su trampolín al poder)
-- [[Unión Industrial Argentina (UIA)]] (Sus verdaderos jefes)
-- [[Grupo Clarín / Héctor Magnetto]] (Su protector mediático)
-- [[Barones del Conurbano]] (Su base territorial)
+### 3. Territorio, aparato y gobernabilidad
 
-## Fuentes
+Leido junto con el peronismo bonaerense, el nodo sirve para pensar como control territorial, punteros, policia y negociacion empresarial se vuelven mecanismos de estabilizacion cuando la institucionalidad formal entra en crisis.
 
-- Jorge Asís: "La Marroquinería Política" (Análisis del poder duhaldista).
-- Reportes económicos sobre el impacto de la pesificación asimétrica (2002).
-- Documental: "Memoria del Saqueo" (Pino Solanas).
+### 4. Bisagra entre 2001 y el ciclo siguiente
 
-## Por Qué Importa (Estilo Nico)
+Tambien importa porque funciona como puente entre el derrumbe del viejo orden y la aparicion del ciclo kirchnerista, aun cuando luego pierda control sobre su propio sucesor.
 
-> "Duhalde es el padrino que te rompe las piernas y después te vende las muletas mientras te abraza. Fue el que apretó el botón para que el país volara por los aires en 2001 y después salió a decir que venía a salvarnos. ¿A quién salvó? A Clarín y a Techint, que debían billones de dólares y él se los convirtió en pesitos con una firma, mientras a vos te robaba los ahorros de toda la vida. Es el inventor de la Argentina moderna: un lugar donde las empresas amigas no quiebran nunca porque el Estado les regala el laburo de la gente. El 'que depositó dólares recibirá dólares' es la mentira fundacional del Tier B peronista."
+## Conexiones
+
+- [[Crisis de 2001]]
+- [[Corralito]]
+- [[Fernando de la Rua]]
+- [[Carlos Menem]]
+- [[Nestor Kirchner]]

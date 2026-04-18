@@ -1,47 +1,55 @@
 ---
-titulo: Triple Frontera
-tipo: "persona"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [frontera, hezbollah, mossad, triple]
 publish: true
+created: 2026-01-29T19:17:41.318-03:00
+modified: 2026-04-18T12:30:14.283-03:00
+tags:
+  - triple-frontera
+  - argentina
+  - paraguay
+  - brasil
+  - inteligencia
+  - contrabando
+  - tl-intel-v3
 ---
 
 # Triple Frontera
 
-## Resumen Ejecutivo
+## BLUF
 
-**¿Qué es?** El punto donde se unen Puerto Iguazú (Arg), Foz do Iguaçu (Bra) y Ciudad del Este (Par).
+[[Triple Frontera]] importa en TL como zona gris estrategica del Cono Sur: concentra flujos comerciales opacos, contrabando, vigilancia, inteligencia y sensibilidad sobre recursos e infraestructura regional.
 
-**¿Por qué importa?** Es el **hoyo negro** de la inteligencia occidental en Sudamérica.
+## Por que importa en TL
 
-1. **Financiación:** Se considera la mayor lavadora de dinero del continente. Contrabando, drogas y falsificación financian a **Hezbollah** (que tiene una comunidad libanesa enorme allí).
-2. **Inteligencia:** Es el patio de recreo del Mossad y la CIA. Desde aquí se monitorea y opera en todo el Cono Sur.
-3. **AMIA:** Se alega que los explosivos y la logística para los atentados a la Embajada de Israel (1992) y la AMIA (1994) en Buenos Aires salieron de aquí.
+- funciona como laboratorio de soberania debilitada y enforcement fragmentado;
+- conecta economia informal, redes criminales y narrativa de seguridad hemisferica;
+- sirve para vincular recursos, frontera, inteligencia y capacidad de injerencia externa.
 
-## Análisis (Tiers)
+## Que cambio
 
-### Tier A (Zona Gris Necesaria)
+La nota se recompila desde una ficha vieja y una subnota incompleta de inteligencia. Queda unificada como nodo canonico del corredor `argentina / frontera / inteligencia / soberania`.
 
-- **Simbiósis:** Los servicios de inteligencia _necesitan_ zonas grises sin ley como esta para mover fondos negros ("Black Budgets") para operaciones encubiertas que no pueden pasar por bancos oficiales. Todos los bandos (EEUU, Irán, Israel) conviven allí en una paz tensa por conveniencia económica.
+## Lectura TL
 
-### Tier B (Operativa)
+### 1. Zona gris util para muchos actores
 
-- **Acuífero Guaraní:** Debajo de la zona está la reserva de agua subterránea más grande del mundo. La presencia militar de EEUU en Paraguay (Mariscal Estigarribia) tiene como fin real asegurar este recurso, usando la excusa de "lucha contra el terrorismo".
+La Triple Frontera importa no solo por un supuesto actor puntual, sino porque su propia opacidad la vuelve util para contrabando, lavado, vigilancia e intermediacion informal. TL la trata como estructura de oportunidad antes que como mito unico.
 
-### Tier C (Narrativa)
+### 2. Seguridad narrada, control desigual
 
-- "Zona de compras y turismo"
-- "Nido de terroristas islámicos" (Narrativa de EEUU para justificar intervención).
+El nodo ayuda a leer como la narrativa de "amenaza terrorista" puede convivir con capacidades estatales desiguales, intereses comerciales tolerados y presencia de servicios de inteligencia con agendas distintas.
+
+### 3. Frontera, recursos y geografia sensible
+
+Leida junto con [[Acuifero Guarani]] y el corredor regional, la zona importa porque combina frontera porosa con un entorno de alto valor logistico y estrategico.
+
+### 4. Plataforma regional de observacion
+
+Tambien funciona como punto de cruce para mirar a [[AMIA]], [[Hezbollah en Latinoamerica]] y nodos de inteligencia sin reducir toda la explicacion a una sola causalidad.
 
 ## Conexiones
 
-- [[Mossad]]
-- [[CIA]]
-- [[00_Glosario - Conceptos Fase 1#Hezbollah|Hezbollah]]
-
-## Fuentes
-
-- Informes del Commando Sur de EEUU sobre la Triple Frontera a.
+- [[Acuifero Guarani]]
+- [[AMIA]]
+- [[Hezbollah en Latinoamerica]]
+- [[Comando Sur]]
+- [[Base China en Neuquen]]

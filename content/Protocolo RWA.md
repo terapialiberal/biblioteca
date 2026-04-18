@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-25T15:50:53.427-03:00
-modified: 2026-04-07T10:51:23.887-03:00
+modified: 2026-04-07T10:51:38.028-03:00
 ---
 
 # Protocolo RWA (Real World Assets)

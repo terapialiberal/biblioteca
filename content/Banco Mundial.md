@@ -1,50 +1,57 @@
 ---
-titulo: Banco Mundial (World Bank)
-tipo: "entidad"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [banco, mundial, robert, world]
 publish: true
+aliases:
+  - Banco Mundial (World Bank)
+  - World Bank
+created: 2026-01-29T19:17:04.763-03:00
+modified: 2026-04-18T11:39:40.574-03:00
+tags:
+  - deuda
+  - desarrollo
+  - infraestructura
+  - organismo-internacional
+  - ajuste
+  - tl-intel-v3
 ---
 
-# Banco Mundial (World Bank)
+# Banco Mundial
 
-## Perfil TL (Resumen Ejecutivo)
+## BLUF
 
-**¿Qué es?** La institución hermana del FMI, nacida en Bretton Woods. Se encarga de financiar proyectos de infraestructura y desarrollo en el Sur Global.
+[[Banco Mundial]] importa en TL como complemento tecnocratico del sistema de deuda internacional: financia infraestructura, reforma estatal y programas de "desarrollo" que suelen reordenar soberania, mercados y prioridades internas.
 
-**¿Por qué importa?** El Banco Mundial es el brazo ejecutor del **colonialismo tecnocrático**. Sus préstamos no buscan la prosperidad local, sino la creación de deuda impagable y la apertura de mercados para corporaciones occidentales (como [[Bechtel]]). Tradicionalmente, su presidente es siempre un ciudadano estadounidense nominado por la Casa Blanca, asegurando que la política de "desarrollo" coincida con los intereses de seguridad nacional de EE.UU.
+## Por que importa en TL
 
-## Análisis De Poder (Tiers)
+- conecta deuda, infraestructura, consultoria, privatizacion y gobernanza internacional;
+- ayuda a leer el desarrollo financiado como vector de condicionamiento politico y economico;
+- funciona como nodo de cruce entre [[FMI]], [[BIS]] y megaproyectos de reforma estatal o territorial.
 
-### Tier A (Centralización / Propiedad)
+## Que cambio
 
-- **Diseño de Dependencia:** El Banco Mundial impone condiciones de "ajuste estructural" que obligan a los países a privatizar recursos básicos como el agua y la energía, transfiriendo la soberanía real a manos de fondos de inversión privados.
+La nota venia como ficha vieja, con encoding roto y tesis demasiado cerrada en un solo registro. Se recompila como nodo modular del corredor `deuda / desarrollo / tecnocracia global`.
 
-### Tier B (Operativa / Gestión)
+## Lectura TL
 
-- **Ingeniería Social:** Figuras como [[Robert McNamara]] saltaron del Pentágono a la presidencia del Banco Mundial, aplicando la misma lógica de gestión de biomasa y contrainsurgencia pero bajo la etiqueta de "ayuda al desarrollo".
-- **Desplazamiento Forzado:** Sus megaproyectos (represas, minería) desplazan a millones de personas anualmente, rompiendo tejidos sociales y creando manos de obra barata y desarraigada.
+### 1. Desarrollo como arquitectura de dependencia
 
-### Tier C (Narrativa Pública)
+En TL, el Banco Mundial importa porque no solo presta para obras: tambien define marcos de reforma, criterios de eficiencia, consultores validos y prioridades de inversion que alteran la estructura del Estado receptor.
 
-- "Un mundo sin pobreza". "Prosperidad compartida". Retórica humanitaria para justificar la extracción masiva de recursos y la exportación de inflación.
+### 2. Infraestructura y reordenamiento social
 
-## Conexiones Clave
+Su valor analitico aumenta cuando se observa que muchos proyectos no impactan solo en puentes o represas, sino en tierras, desplazamientos, redes productivas y relaciones de poder locales.
 
-- [[FMI]] (Socio de Bretton Woods)
-- [[Bechtel]] (Beneficiario de contratos de infraestructura)
-- [[Naciones Unidas (ONU)]] (Marco institucional)
-- [[BlackRock]] (Gestor de la deuda soberana resultante)
+### 3. Hermano funcional del FMI
 
-## Fuentes
+Leido junto con [[FMI]], el nodo ayuda a ver una division del trabajo: uno condiciona el frente macro y la estabilidad; el otro baja programas, obras y racionalidades de desarrollo que consolidan la misma orientacion.
 
-- Graham Hancock: "Lords of Poverty".
-- John Perkins: "Confessions of an Economic Hit Man".
-- Reportes del World Bank Inspection Panel.
+### 4. Tecnocracia con retorica humanitaria
 
-## Por Qué Importa (Estilo Nico)
+Tambien importa porque muestra como la legitimidad moral del "desarrollo" puede servir para avanzar reformas estructurales de alto impacto sin presentarlas abiertamente como imposicion geopolitica.
 
-> "El Banco Mundial es el tipo que te presta la plata para que le construyas una pileta de lujo en tu casa, pero con la condición de que solo sus amigos la puedan usar y vos te quedes pagando el mantenimiento para siempre. No vienen con tanques, vienen con ingenieros y contratos de 500 páginas. Es el colonialismo 2.0: más limpio, más legal y mucho más eficiente para dejarte seco de soberanía."
+## Conexiones
+
+- [[FMI]]
+- [[BIS]]
+- [[Robert McNamara]]
+- [[Bechtel]]
+- [[Consenso de Washington]]

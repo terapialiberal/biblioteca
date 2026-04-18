@@ -26,7 +26,7 @@ tags: [albert, blackrock, bourla, pfizer]
 ### Tier B (Operador / Gestor)
 
 - **Gestión de Crisis:** Lideró la implementación de la tecnología de ARNm a escala global.
-- **Background Curioso:** Su especialidad original es la veterinaria y la reproducción animal. En el marco de la agenda "One Health", esta transición de salud animal a humana es una señal de cómo se percibe a la población (ganado gestionado).
+- **Background Curioso:** Su especialidad original es la veterinaria y la reproducción animal. En el marco de [[One Health]], esta transición de salud animal a humana es una señal de cómo se percibe a la población (ganado gestionado).
 
 ### Tier C (Narrativa / Fachada)
 

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-09T17:48:56.666-03:00
-modified: 2026-04-07T10:47:08.313-03:00
+modified: 2026-04-07T10:47:14.116-03:00
 tags:
   - moc
   - rimland
@@ -97,6 +97,8 @@ tags:
 
 - [[Club Safari.md|Club Safari]]
 
+- [[Comando Sur.md|Comando Sur]]
+
 - [[05_Fuentes/Como encaja Myanmar en las nuevas rutas de la seda de China.md|Como encaja Myanmar en las nuevas rutas de la seda de China]]
 
 - [[Corredor IMEC.md|Corredor IMEC]]
@@ -139,11 +141,11 @@ tags:
 
 - [[05_Fuentes/Netanyahu aboga por rutas energéticas alternativas a través de la Península Arábiga.md|Netanyahu aboga por rutas energéticas alternativas a través de la Península Arábiga]]
 
-- [[03_Produccion/2026-04-15_LAS GUERRAS MAGA/NOTA_TESIS_CONSOLIDADA_LAS_GUERRAS_MAGA.md|NOTA_TESIS_CONSOLIDADA_LAS_GUERRAS_MAGA]]
+- [[06_Videos_Publicados/2026/2026-04-15_LAS GUERRAS MAGA/NOTA_TESIS_CONSOLIDADA_LAS_GUERRAS_MAGA.md|NOTA_TESIS_CONSOLIDADA_LAS_GUERRAS_MAGA]]
 
 - [[06_Videos_Publicados/2026/2026-03-26_El_Reseteo_Perfecto/NOTA_TESIS_El_Reseteo_Perfecto.md|NOTA_TESIS_El_Reseteo_Perfecto]]
 
-- [[03_Produccion/2026-04-15_LAS GUERRAS MAGA/NOTA_TESIS_LAS_GUERRAS_MAGA.md|NOTA_TESIS_LAS_GUERRAS_MAGA]]
+- [[06_Videos_Publicados/2026/2026-04-15_LAS GUERRAS MAGA/NOTA_TESIS_LAS_GUERRAS_MAGA.md|NOTA_TESIS_LAS_GUERRAS_MAGA]]
 
 - [[Patron - Teoria del Rimland (Spykman).md|Patron - Teoria del Rimland (Spykman)]]
 

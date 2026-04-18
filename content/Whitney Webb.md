@@ -19,7 +19,7 @@ publish: true
 
 Whitney Webb es periodista investigativa que ha publicado la investigación más exhaustiva sobre:
 
-- Red Jeffrey Epstein
+- [[Jeffrey Epstein]]
 - Conexiones con inteligencia israelí y americana
 - Historia del chantaje sexual como herramienta de poder
 

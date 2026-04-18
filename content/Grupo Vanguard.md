@@ -1,45 +1,49 @@
 ---
-titulo: Grupo Vanguard (Vanguard Group)
-tipo: "entidad"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [blackrock, grupo, state, vanguard]
 publish: true
+created: 2026-01-29T19:17:16.123-03:00
+modified: 2026-04-17T13:25:37.793-03:00
+tags:
+  - vanguard
+  - propiedad-comun
+  - gestores-de-activos
+  - control-financiero
+  - tl-intel-v3
 ---
 
 # Grupo Vanguard (Vanguard Group)
 
-## Perfil TL (Resumen Ejecutivo)
+## BLUF
 
-**Qu es?** El segundo mayor gestor de activos del mundo (detrs de BlackRock), con ms de \7 billones bajo gestin. A diferencia de sus competidores, posee una estructura de propiedad circular: Vanguard es propiedad de sus propios fondos de inversin, que a su vez pertenecen a sus inversores.
+[[Grupo Vanguard (Vanguard Group)]] importa en TL como nodo central de propiedad común: un gestor menos visible que [[BlackRock]], pero crucial para entender concentración accionarial y disciplina corporativa a escala sistémica.
 
-**Por qu importa?** Vanguard es el **Vrtice Opaco de la Corporatocracia de Tier A**. Mientras BlackRock es la cara pblica del poder financiero, Vanguard es el poder silencioso que est detrs de BlackRock. Son los mayores accionistas de casi todas las empresas del S\&P 500, desde Big Pharma y el Complejo Militar-Industrial hasta Big Tech y los Medios de Comunicacin. Esto crea un **Monopolio de Propietarios Comunes**: Vanguard y BlackRock son dueos de Coca-Cola y de Pepsi, de Pfizer y de Moderna, de CNN y de Fox. Esto elimina la competencia real y permite al Tier A imponer agendas ideolgicas y econmicas (como las mtricas **[[ESG]]** y **[[DEI]]**) de manera uniforme en todo el mercado global. Vanguard es la herramienta definitiva para la **Concentracin Masiva de Votos Corporativos**, permitiendo que un puado de personas controle el destino de la industria mundial sin ser dueos reales del capital (ya que gestionan el dinero del Tier C).
+## Por qué importa en TL
 
-## Anlisis De Poder (Tiers)
+- ayuda a leer la concentración financiera sin personalizar todo en una sola firma;
+- vuelve visible la lógica de propiedad cruzada sobre competidores;
+- funciona como pieza clave de la tríada [[BlackRock - Vanguard - State Street]].
 
-### Tier A (Los Dueos De La Propiedad Circular)
+## Qué cambió
 
-- **El Problema de los Doce:** Un estudio seala que pronto solo 12 personas disearn las polticas de voto de las empresas ms grandes del mundo a travs de Vanguard, BlackRock y State Street. Es una dictadura fiduciaria de Tier A.
-- **Invisibilidad Regulatoria:** Al ser una empresa privada propiedad de sus fondos, Vanguard evita el escrutinio pblico y las auditoras que enfrentan las empresas que cotizan en bolsa. El Tier A utiliza esta opacidad para mover los hilos de la economa global sin dejar huellas dactilares claras.
+La auditoría de `Cómo Funciona el Mundo` no abrió una tesis nueva, pero sí mostró que Vanguard debía quedar menos narrado como “dueño oculto total” y más usable como nodo de propiedad común y gobernanza corporativa.
 
-### Tier B (Operadores / Gestores De Fondos E Ingenieros De Algoritmos)
+## Lectura TL
 
-- **Algoritmos de Inversin Pasiva:** El Tier B tcnico disea los algoritmos que deciden dnde fluye el dinero. Estos algoritmos estn ahora programados para "castigar" a las empresas que no se alinean con la agenda de Tier Sustentable, forzando un cambio cultural corporativo desde arriba.
-- **Juntas Directivas de Tteres:** El Tier B de Vanguard coloca a sus representantes en los consejos de administracin de miles de empresas para asegurar que la estrategia corporativa sirva a los intereses macro de la lite, no al beneficio del pequeo accionista de Tier C.
+### 1. Bajo perfil, alta centralidad
 
-### Tier C (Narrativa Pblica)
+Vanguard importa precisamente porque no ocupa tanto foco mediático como BlackRock y, aun así, aparece recurrentemente en estructuras de control accionario sobre sectores clave.
 
-- "Inversin de bajo costo para las familias". "Democratizacin del mercado de valores". Narrativas que atraen los ahorros del Tier C (fondos de pensin, ahorros individuales), convirtiendo al ciudadano comn en el financista involuntario de su propia esclavitud digital y de las guerras orquestadas por el Tier A.
+### 2. Propiedad común
 
-## Conexiones Clave
+El punto fuerte no es una conspiración lineal, sino la tenencia simultánea en múltiples competidores y la capacidad de influir sobre gobernanza, voto y stewardship.
 
-- [[BlackRock]] (Su gemelo y socio en el duopolio)
-- [[State Street]] (El tercer pilar del poder fiduciario)
-- [[ESG (Mtricas de Control Social)]] (Su herramienta de ingeniera social)
-- [[Complejo Militar-Industrial]] (Son sus principales dueos)
+### 3. Coordinación sin mando único visible
 
-## Por Qu Importa (Estilo Nico)
+Su utilidad analítica es mostrar cómo puede existir concentración sistémica aun sin un “dueño final” simple y públicamente identificable.
 
-> "Vanguard es el dueo de los dueos. Si te fijs quin es el accionista mayoritario de Google, de Twitter, de Pfizer o de la fbrica de tanques, siempre aparece Vanguard. Lo ms loco es que Vanguard es dueo de BlackRock y BlackRock es dueo de Vanguard. Es una calesita de guita hecha para que nadie sepa quin manda arriba de todo. Usan tus ahorros y tu jubilacin para comprarse el mundo y despus te imponen reglas de 'capitalismo inclusivo' que lo nico que hacen es fundir a las pymes y concentrar todo el poder en ellos. Son el pulpo invisible que maneja cada cosa que comprs, cada pastilla que toms y cada noticia que les."
+## Conexiones
+
+- [[BlackRock]]
+- [[State Street]]
+- [[BlackRock - Vanguard - State Street]]
+- [[ESG]]
+- [[Matrix de Poder]]

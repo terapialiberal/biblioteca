@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-25T22:08:08.998-03:00
-modified: 2026-04-07T10:47:08.338-03:00
+modified: 2026-04-17T16:42:44.665-03:00
 tags:
   - moc
   - simbolismo
@@ -71,7 +71,8 @@ tags:
 - [[CERN- Portales y Particulas|CERN: Portales y Partículas]]
 - [[El Algoritmo como Oraculo]]
 - [[Gnosticismo Digital]]
-- [[Bio-Identidad Digital (La Marca)]]
+- [[Bio-Identidad Digital]]
+- [[Neuralink y la Colmena Esoterica]]
 - [[Credito Social (Karma Digital)]]
 - [[Vida Artificial (Prometheus)]]
 

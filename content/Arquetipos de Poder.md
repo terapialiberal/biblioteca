@@ -25,7 +25,7 @@ Los arquetipos son plantillas de comportamiento universales que el sistema utili
 ### 2. El Sabio/Experto (La Tecnocracia)
 
 - **Función:** Validar la narrativa mediante la "Ciencia" o la "Experticia".
-- **Manifestación:** [[OMS]], Paneles de Expertos, Sínodos Tecnocráticos.
+- **Manifestación:** [[World Health Organization]], Paneles de Expertos, Sínodos Tecnocráticos.
 
 ### 3. El Salvador Político (El Mesías de Tier C)
 

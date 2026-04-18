@@ -38,3 +38,11 @@ Siguiendo la tesis del [[Rimland]], quien controla Malaca controla el flujo vita
 - [[Nicholas Spykman]]
 - [[Project mBridge]] (Alternativa financiera al bloqueo físico)
 - [[Canal de Panamá]] (Choke point gemelo)
+
+## Actualizacion 2026-04
+
+El caso `LAS GUERRAS MAGA` sube el peso de Malaca dentro del tablero TL.
+
+- Ya no aparece solo como choke point estructural de China, sino como posible siguiente acto despues de Ormuz.
+- El acuerdo EEUU-Indonesia y los movimientos chinos en el Mar del Sur vuelven menos teorica la tesis del frente asiatico.
+- La formulacion reusable es: **Ormuz pone el precio; Malaca puede definir el cerco**.

@@ -1,50 +1,59 @@
 ---
-titulo: CELS (Centro De Estudios Legales Y Sociales)
-tipo: "entidad"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [centro, fundacin, horacio, legales]
 publish: true
+aliases:
+  - CELS (Centro de Estudios Legales y Sociales)
+created: 2026-01-29T19:17:07.165-03:00
+modified: 2026-04-18T11:10:30.713-03:00
+tags:
+  - argentina
+  - ddhh
+  - lawfare
+  - ong
+  - verbitsky
+  - fundaciones
+  - tl-intel-v3
 ---
 
-# CELS (Centro De Estudios Legales Y Sociales)
+# CELS
 
-## Perfil TL (Resumen Ejecutivo)
+## BLUF
 
-**¿Qué es?** Una organización no gubernamental argentina dedicada a la defensa de los derechos humanos y la promoción de reformas legales y sociales.
+[[CELS]] importa en TL como nodo local de traduccion institucional entre discurso de derechos humanos, litigio estrategico, redes de prestigio juridico y financiamiento filantropico internacional.
 
-**¿Por qué importa?** Aunque nació como una herramienta legítima para denunciar los crímenes de la dictadura militar, bajo la presidencia de **[[Horacio Verbitsky]]**, el CELS mutó en el **brazo operativo del Tier B ideológico kirchnerista**. Durante más de una década, funcionó como un "Ministerio de Justicia paralelo", con capacidad de veto sobre el nombramiento de jueces y fiscales, y marcando la agenda de "abolicionismo penal" que degradó la seguridad pública en Argentina. El CELS es el ejemplo de cómo el Tier A global (vía fundaciones como **Open Society**) financia estructuras locales para capturar el poder judicial y utilizar la bandera de los Derechos Humanos como un arma de persecución política selectiva (**Lawfare** inverso).
+## Por que importa en TL
 
-## Análisis De Poder (Tiers)
+- conecta ONG juridicas, elites intelectuales, justicia y agenda publica en Argentina;
+- ayuda a leer como una organizacion de DDHH puede mutar de denunciante legitimo a actor politico-institucional;
+- funciona como nodo de cruce entre [[Horacio Verbitsky]], [[Lawfare]], [[Fundacion Ford]] y [[Open Society Foundations]].
 
-### Tier A (Financiamiento Internacional)
+## Que cambio
 
-- **Red de Fundaciones:** El CELS recibe financiamiento masivo de la **[[Fundación Ford]]** y la **Open Society Foundations (Soros)**. Esta conexión asegura que la organización promueva una agenda internacionalista que debilita el concepto de soberanía nacional y promueve políticas de desestabilización social bajo el disfraz del progresismo legal.
+La nota venia en formato de ficha cerrada, con exceso de manifiesto, naming largo y encoding roto. Se recompila como nodo modular del corredor `argentina / justicia / DDHH / fundaciones`.
 
-### Tier B (Operadores / La Inteligencia Intelectual)
+## Lectura TL
 
-- **Horacio Verbitsky:** El "Perro", ex-militante de Montoneros vinculado a servicios de inteligencia, utilizó el CELS para centralizar la información sensible sobre la justicia y los militares, convirtiéndose en el gran archivista y extorsionador simbólico de la era K.
-- **Captura Judicial:** Junto a figuras como **[[Eugenio Zaffaroni]]**, el CELS impuso una doctrina legal que prioriza los derechos del victimario sobre los de la víctima, desarmando la capacidad de control del Estado sobre el delito común para favorecer el control político.
+### 1. De organismo de derechos humanos a jugador de sistema
 
-### Tier C (Narrativa Pública)
+El CELS nace con legitimidad historica ligada a la denuncia de abusos estatales, pero en TL importa sobre todo por su fase posterior: cuando deja de ser solo una referencia moral y pasa a operar dentro de la arquitectura juridica, mediatica y politica argentina.
 
-- "Defensores de los vulnerables y la memoria histórica". Utilizan el prestigio ganado en la lucha contra la dictadura para blindar moralmente cualquier ataque actual a las instituciones republicanas.
+### 2. Litigio, doctrina y prestigio
 
-## Conexiones Clave
+Su potencia no depende solamente de denuncias publicas. Tambien depende de su capacidad para producir lenguaje juridico, instalar criterios de legitimidad y ofrecer cobertura moral a determinadas posiciones dentro del debate institucional.
 
-- [[Horacio Verbitsky]] (El jefe histórico)
-- [[Eugenio Zaffaroni]] (Su aliado ideológico en la Corte)
-- [[00_Glosario - Conceptos Fase 1#George Soros / Open Society|George Soros / Open Society]] (Su financista de Tier A)
-- [[Lawfare]] (La herramienta que denuncian, pero que ejecutan)
+### 3. Fundaciones y traduccion local
 
-## Fuentes
+Leido junto con [[Fundacion Ford]] y [[Open Society Foundations]], el nodo sirve para ver como funding, advocacy y experticia legal pueden bajar agendas globales a una escala nacional sin necesidad de control partidario directo.
 
-- Gabriel Levinas: "Doble Agente" (Investigación sobre Verbitsky y el CELS).
-- Reportes anuales de financiamiento de la Fundación Ford/Open Society.
-- Análisis de la doctrina CELS en la reforma del Código Penal argentino.
+### 4. Verbitsky como interfaz operativa
 
-## Por Qué Importa (Estilo Nico)
+La lectura TL se vuelve mas fuerte cuando se lo conecta con [[Horacio Verbitsky]]: el CELS no aparece solo como ONG sino como plataforma de archivo, presion simbolica e intervencion en el campo judicial y mediatico.
 
-> "El CELS es donde los Derechos Humanos se convirtieron en un negocio de inteligencia. Pasaron de defender a las víctimas de los militares a defender a los amigos del poder y perseguir a cualquier juez que se atreviera a investigar a la Jefa. Son el caballo de Troya de Soros en la justicia argentina: te hablan de 'garantías' mientras te rompen el sistema de seguridad para que el Pantano pueda operar tranquilo. El CELS no busca justicia; busca el monopolio ético de la verdad para que solo ellos puedan decidir quién es culpable y quién es inocente."
+## Conexiones
+
+- [[Horacio Verbitsky]]
+- [[Lawfare]]
+- [[Jueces Federales de Comodoro Py]]
+- [[Fundacion Ford]]
+- [[Open Society Foundations]]
+- [[Cristina Kirchner]]
+- [[El Vacunatorio VIP]]

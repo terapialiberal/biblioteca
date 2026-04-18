@@ -1,36 +1,54 @@
 ---
-titulo: Vigilancia Predictiva
-tipo: "concepto"
-tier_primario: "b"
-nivel_evidencia: "alto"
-estado: activo
-tags: [vigilancia, algoritmo, control, pre-crimen]
 publish: true
+created: 2026-02-25T22:08:56.414-03:00
+modified: 2026-04-17T14:27:32.173-03:00
+tags:
+  - vigilancia-predictiva
+  - pre-crimen
+  - palantir
+  - scoring
+  - control
+  - tl-intel-v3
 ---
 
-# Vigilancia Predictiva (V.3)
+# Vigilancia Predictiva
 
-> [!NOTE] DEFINICIÓN OPERATIVA
-> Es el uso de modelos matemáticos para identificar personas o áreas con mayor probabilidad de actividad "disruptiva" antes de que esta ocurra. Es la eliminación de la presunción de inocencia vía algoritmo.
+## BLUF
 
-## 👁️ Análisis de Implementación
+[[Vigilancia Predictiva]] importa en TL como el pasaje de vigilar hechos pasados a modelar comportamientos futuros: permite administrar riesgo, disidencia y acceso antes de que exista una infracción formal.
 
-El [[Tier B]] ha transicionado de la vigilancia reactiva (investigar un crimen) a la predictiva (prevenir disidencia).
+## Por que importa en TL
 
-### Herramientas y Actores
+- conecta datos masivos, scoring y pre-crimen;
+- vuelve operativa la fusión entre inteligencia, policía, banca y plataformas;
+- es una pieza central de la deriva tecnocrática contemporánea.
 
-- **Software Core:** [[Palantir Gotham]], PredPol, Cellebrite (Nexo [[Unit 8200]]).
-- **Datos de Entrada:** Redes sociales, transacciones financieras, geolocalización, biometría y relaciones de red.
-- **Puntuación de Riesgo:** Cada ciudadano del [[Tier C]] posee un "Risk Score" invisible que determina su trato ante autoridades y bancos.
+## Que cambio
 
-## ⚙️ El "Pre-Crimen" Político
+La nota estaba útil pero todavía en formato viejo y demasiado encapsulada en jerga de “pre-crimen”. Se recompiló como nodo más modular y reusable.
 
-En 2026, la vigilancia predictiva se aplica al **Pensamiento Disidente**:
+## Lectura TL
 
-- Los algoritmos detectan cambios en el lenguaje o en los patrones de consumo que preceden a una "deserción ideológica" del sistema.
+### 1. Del crimen al riesgo
 
-## 🔗 Nodos Relacionados
+La vigilancia predictiva importa porque cambia el objeto de intervención: ya no solo se sanciona un acto, sino que se gobierna un perfil de probabilidad.
 
-- [[Palantir CIA]]: El cerebro del sistema.
-- [[Social Credit West]]: La interfaz social.
-- [[Total Information Awareness]]: El proyecto original de la DARPA.
+### 2. Datos como materia prima
+
+Redes sociales, transacciones, biometría, geolocalización y grafos relacionales pasan a ser insumos para inferir peligrosidad, desviación o prioridad de intervención.
+
+### 3. Efecto disciplinario
+
+Aunque el algoritmo “solo” asista, la existencia misma de scoring invisible tiende a condicionar conducta, acceso y exposición al sistema.
+
+### 4. Puente con Palantir
+
+En TL, el nodo se vuelve más legible cuando se conecta con plataformas concretas como [[Palantir]], en vez de quedar solo como abstracción.
+
+## Conexiones
+
+- [[Gobernanza Algoritmica]]
+- [[Palantir]]
+- [[Palantir AIP]]
+- [[In-Q-Tel]]
+- [[Tecnocracia]]

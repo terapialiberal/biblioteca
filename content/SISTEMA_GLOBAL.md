@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:02.115-03:00
-modified: 2026-04-07T10:52:17.245-03:00
+modified: 2026-04-17T13:56:14.367-03:00
 tags:
   - sistema-global
   - jerarquia-de-poder
@@ -36,7 +36,7 @@ El sistema no debe leerse como un gobierno unificado sino como una arquitectura 
 ### Nivel 2. Herramientas Operativas
 
 - [[BlackRock]]
-- [[Vanguard Group]]
+- [[Grupo Vanguard (Vanguard Group)]]
 - [[State Street]]
 - [[Palantir]]
 - [[Alex Karp]]
@@ -78,7 +78,7 @@ La lógica operativa es:
 - [[00_MOC - Redes de Poder]]
 - [[00_MOC - Control Financiero]]
 - [[BlackRock]]
-- [[Vanguard Group]]
+- [[Grupo Vanguard (Vanguard Group)]]
 - [[Palantir]]
 
 _Nodo sintético actualizado: 2026-04-07_

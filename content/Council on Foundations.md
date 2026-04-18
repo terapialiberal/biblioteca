@@ -1,41 +1,53 @@
 ---
-titulo: Council on Foundations
-tipo: "entidad"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [council, foundations, fundacin]
 publish: true
+created: 2026-01-29T19:17:08.929-03:00
+modified: 2026-04-18T10:38:55.992-03:00
+tags:
+  - council-on-foundations
+  - filantropia
+  - fundaciones
+  - filantrocapitalismo
+  - tl-intel-v3
 ---
 
 # Council on Foundations
 
-> [!ABSTRACT] Ficha Técnica
-> **Narrativa Official:** Asociación de organizaciones filantrópicas.
-> **Función Real:** Coordinación entre las grandes fundaciones. Alineamiento de "filantropía".
+## BLUF
 
-## Función
+[[Council on Foundations]] importa en TL como capa de coordinacion blanda entre grandes fundaciones: no manda como un organismo estatal, pero ayuda a alinear lenguaje, buenas practicas, legitimidad y agenda entre nodos de filantropia con capacidad real de influencia.
 
-Reúne a las mayores fundaciones del mundo para coordinar:
+## Por que importa en TL
 
-- Mejores prácticas
-- Políticas
-- Advocacy
+- sirve para leer la filantropia organizada como ecosistema y no como suma de instituciones aisladas;
+- conecta fundaciones historicas con nuevos brazos de agenda en salud, clima, educacion y gobernanza;
+- ayuda a ver como la coordinacion reputacional puede convertir donantes y fundaciones en vector de politica publica indirecta.
 
-## Miembros
+## Que cambio
 
-- [[Fundación Ford]]
-- [[Fundación Rockefeller]]
-- [[Fundación Bill y Melinda Gates]]
-- Y cientos más
+La nota venia como ficha minima con nombres en castellano legacy y sin convergencia con la rama Rockefeller-Gates ya recompilada. Se rehace como nodo modular para enlazar mejor la constelacion de fundaciones dentro de la base viva.
+
+## Lectura TL
+
+### 1. Coordinacion sin soberania formal
+
+Council on Foundations importa porque funciona como espacio de alineacion entre actores que no necesitan fusion institucional para empujar prioridades comunes.
+
+### 2. Filantropia como infraestructura de agenda
+
+En TL, el punto no es solo la donacion. Es la capacidad de transformar financiamiento privado en lenguaje tecnico, advocacy y estandares de legitimidad compartidos.
+
+### 3. Meta-red de fundaciones
+
+Leido junto con [[Fundacion Rockefeller]] y [[Fundacion Bill y Melinda Gates]], el council ayuda a entender como fundaciones distintas pueden actuar dentro de una misma gramatica de gobernanza.
+
+### 4. Puente hacia clima, salud y educacion
+
+Su utilidad analitica aumenta cuando se lo ve como nodo transversal: salud global, energia, agricultura, educacion y think tanks pueden tocarse sin pasar por una sola cadena de mando visible.
 
 ## Conexiones
 
-- Ecosistema de fundaciones
-- Philanthropy as policy
-
-## Fuentes
-
-- COF website
-- Membership lists
+- [[Fundacion Rockefeller]]
+- [[Fundacion Bill y Melinda Gates]]
+- [[Breakthrough Energy]]
+- [[Filantrocapitalismo]]
+- [[Tecnocracia]]

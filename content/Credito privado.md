@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-13T15:21:28.968-03:00
-modified: 2026-04-13T15:21:30.350-03:00
+modified: 2026-04-17T13:00:38.527-03:00
 tags:
   - credito
   - finanzas
@@ -31,9 +31,13 @@ El credito privado fue vendido como refugio de rendimiento post-bonos. En 2026 e
 
 No significa automáticamente colapso inminente. Significa otra cosa: la capa sofisticada del mercado ya está preparando instrumentos para cubrir o shortear un segmento que en el relato comercial todavía se presentaba como fuente relativamente estable de yield. Eso convierte al credito privado en termómetro de confianza real, no solo en clase de activo.
 
+Los videos de abril agregan un delta importante: el stress del sector no debe leerse aislado. Puede amplificarse por energía cara, chokepoints inestables y expansión de infraestructura intensiva en capital como [[Project Stargate]]. En ese marco, el crédito privado deja de ser solo vehículo de carry y pasa a ser interfaz entre narrativa de crecimiento y fragilidad material.
+
 ## Conexiones
 
 - [[BlackRock]]
 - [[Project Stargate]]
+- [[Estrecho de Ormuz]]
+- [[Treasuries]]
 - [[CBDC]]
 - [[00_MOC - Finanzas y CBDC]]

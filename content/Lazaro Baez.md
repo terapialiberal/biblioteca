@@ -1,30 +1,56 @@
 ---
-titulo: "¸ Lázaro Báez: El Engranaje De La Obra Pública K"
-tipo: "persona"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [austral, bez, hotesur, lzaro]
 publish: true
+aliases:
+  - Lázaro Báez
+created: 2026-01-29T19:17:23.263-03:00
+modified: 2026-04-18T11:47:41.463-03:00
+tags:
+  - argentina
+  - obra-publica
+  - baez
+  - kirchnerismo
+  - corrupcion
+  - tl-intel-v3
 ---
 
-# ¸ Lázaro Báez: El Engranaje De La Obra Pública K
+# Lazaro Baez
 
-> [!ABSTRACT] Resumen de Inteligencia
-> Lázaro Báez es el prototipo del **Testaferro de Tier C**. Su asombrosa transformación de cajero bancario en Santa Cruz a multimillonario dueño de media provincia no se explica por mérito empresarial, sino por ser la interfaz financiera de la **Familia Kirchner**. Báez fue el recipiente necesario para drenar fondos del Estado mediante la sobrefacturación de la **Obra Pública**, lavando el dinero hacia el exterior o retornándolo al poder real en **Tier B** a través de negocios hoteleros ficticios.
+## BLUF
 
-## Análisis De Poder (Matrix)
+[[Lazaro Baez]] importa en TL como interfaz empresarial y financiera del esquema de obra publica kirchnerista: permite seguir el circuito entre contratos estatales, sobreprecios, retornos y conversion del poder politico en patrimonio privado.
 
-### Tier C: El Prestamista Del Nombre
+## Por que importa en TL
 
-- **La Mecánica del Retorno:** A través de **[[Austral Construcciones]]**, Báez recibía licitaciones de obras viales que nunca se terminaban o se pagaban con sobreprecios astronómicos. Ese excedente (el "gap" del robo) se reciclaba alquilando habitaciones vacías en los hoteles de la familia presidencial (**[[Hotesur y Los Sauces]]**). Es un sistema de circuito cerrado de succión de riqueza pública.
-- **La Ruta del Dinero K:** Mediante la financiera SGI ("La Rosadita"), Báez y su entorno fugaron millones de dólares físicos en bolsos y aviones privados hacia paraísos fiscales, demostrando la naturaleza puramente primitiva y depredadora del modelo extractivo kirchnerista.
+- conecta obra publica, Santa Cruz, contratistas, hoteles y circuito de retornos;
+- ayuda a leer la corrupcion no solo como abuso individual sino como arquitectura de transferencia organizada;
+- funciona como nodo de cruce entre [[Nestor Kirchner]], [[Cristina Kirchner]], [[Hotesur y Los Sauces]] y el uso politico de la obra publica.
 
-### Tier B: Operativa Y Protección
+## Que cambio
 
-- **Justicia y Blindaje:** Durante más de una década, el Tier B (jueces, fiscales, organismos de control como la AFIP y la UIF) operó para proteger a Báez. Su caída solo ocurrió cuando el volumen de evidencia y el cambio de ciclo político hicieron que el sacrificio de la "marioneta" fuera necesario para intentar salvar a la cúpula.
+La nota venia demasiado comprimida y en tono de dictamen final, con encoding roto y poco desarrollo reusable. Se recompila como perfil modular del corredor `argentina / obra publica / retornos / kirchnerismo`.
 
-## âš¡ Conclusión De Terapia Liberal
+## Lectura TL
 
-Báez no es un villano independiente; es un **empleado fiel** que no supo cuándo dejar de contar billetes frente a las cámaras. Su vida y condena son la prueba de que el poder real en Argentina ha funcionado como una asociación ilícita de base constructora. En el tablero de Nico, Báez es el "punto final" de la manguera que succiona el capital de los contribuyentes para alimentar los mausoleos de la oligarquía local.
+### 1. Empresario de sistema, no actor aislado
+
+En TL, Baez importa porque ayuda a salir de la lectura moral individual: su relevancia esta en mostrar como un contratista puede convertirse en brazo de acumulacion de una estructura politica mas amplia.
+
+### 2. Obra publica como mecanismo financiero
+
+Su valor analitico aumenta cuando se observa que las licitaciones no funcionan solo como politica de infraestructura, sino como carril para extraer renta, reciclarla y redistribuirla dentro del circulo de poder.
+
+### 3. Hoteles, constructoras y circuito cerrado
+
+Leido junto con [[Hotesur y Los Sauces]], el nodo sirve para pensar la corrupcion no como hecho aislado sino como circuito con varias estaciones: adjudicacion, sobrefacturacion, retorno y blanqueo patrimonial.
+
+### 4. Sacrificio de la interfaz
+
+Tambien importa porque permite ver un patron frecuente: cuando el ciclo cambia, la interfaz empresaria puede quedar expuesta para intentar proteger a capas superiores del sistema politico.
+
+## Conexiones
+
+- [[Nestor Kirchner]]
+- [[Cristina Kirchner]]
+- [[Hotesur y Los Sauces]]
+- [[La Campora]]
+- [[Causa Cuadernos]]

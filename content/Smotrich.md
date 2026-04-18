@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-03-12T15:18:28.613-03:00
-modified: 2026-04-07T10:52:18.352-03:00
+modified: 2026-04-07T10:52:23.083-03:00
 tags:
   - smotrich
   - israel

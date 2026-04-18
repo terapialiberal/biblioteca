@@ -41,7 +41,8 @@ El peligro no es "Terminator" (robots disparando), sino manipulación y control 
 ## Conexiones
 
 - [[Sam Altman]]
-- [[Neuralink & Transhumanismo]]
+- [[Neuralink]]
+- [[Neuralink y la Colmena Esoterica]]
 - [[Google (Origins)]]
 
 ## Fuentes

@@ -15,7 +15,7 @@ publish: true
 
 ## 👁️ Análisis de Simbolismo Operativo
 
-Las agencias de inteligencia ([[CIA]], NSA, [[Mossad]]) y empresas como [[Palantir CIA]] operan bajo la lógica del "Iluminador":
+Las agencias de inteligencia ([[CIA]], NSA, [[Mossad]]) y empresas como [[Palantir]] operan bajo la lógica del "Iluminador":
 
 1. **Lo que no se ve, no existe:** La inteligencia forense de Nivel 2 busca "dar luz" sobre los rincones privados del individuo para convertirlos en datos públicos (para el sistema).
 2. **Antorcha de la Razón Tecnocrática:** La creencia de que solo la élite iluminada por los datos tiene el derecho a guiar a la masa "oscura" (el [[Tier C]]).

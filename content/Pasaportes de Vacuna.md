@@ -1,43 +1,54 @@
 ---
-titulo: "Pasaportes De Vacuna: El Control De Movimiento Biomédico"
-tipo: "concepto"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [biomdico, movimiento, pasaportes, vacuna]
 publish: true
+created: 2026-01-29T19:17:29.876-03:00
+modified: 2026-04-17T16:32:52.182-03:00
+tags:
+  - pasaportes-de-vacuna
+  - salud-digital
+  - movilidad
+  - identidad-digital
+  - tl-intel-v3
 ---
 
-# Pasaportes De Vacuna: El Control De Movimiento Biomédico
+# Pasaportes de Vacuna
 
-> [!ABSTRACT] Hipótesis Informativa
-> Los pasaportes de vacuna son el mecanismo Tier A de control de movimiento y acceso basado en estatus médico, creando un sistema de apartheid biomédico que restringe libertades fundamentales.
+## BLUF
 
-## Análisis De Tiers
+[[Pasaportes de Vacuna]] importan en TL como el momento en que una credencial sanitaria digital empezó a funcionar de hecho como sistema de acceso, movilidad y validación de cumplimiento a escala transnacional.
 
-### Tier A: Organismos De Salud Global Y Gobiernos
+## Por que importa en TL
 
-- **Certificación Médica Obligatoria:** Requisito de vacunación para viajar, trabajar y acceder a servicios.
+- mostró que salud, identidad y permisos podían converger rápidamente en una sola capa operativa;
+- normalizó certificados verificables para viajar, trabajar o ingresar a ciertos espacios;
+- funciona como antecedente visible de [[Digital ID - Global Protocol]].
 
-### Tier B: Corporaciones Farmacéuticas Y Tecnológicas
+## Que cambio
 
-- **Desarrollo de Sistemas:** Creación de certificados digitales verificables.
+La nota estaba demasiado comprimida y dependía de una formulación genérica de “control biomédico”. Se recompiló para fijar mejor su papel como precedente institucional y cultural del corredor identidad-acceso.
 
-### Tier C: Población General
+## Lectura TL
 
-- **Discriminación Médica:** Sin certificado, sin derechos.
+### 1. Del certificado al permiso
 
-## Mecanismos De Poder
+Lo importante no fue solo la existencia de certificados sanitarios, sino que operaron como llave de circulación y validación en contextos concretos.
 
-1. **Apartheid Biomédico:** Separación de población en "vacunados" y "no vacunados".
-2. **Control de Movimiento:** Restricción de viajes y reuniones.
+### 2. Prueba de concepto
 
-## Conexiones Críticas
+En TL, los pasaportes de vacuna sirven como demostración histórica de que una infraestructura de credenciales digitales puede desplegarse rápido cuando existe una narrativa de urgencia suficiente.
 
-- [[ID Digital]]: Sistema de verificación.
-- [[Agenda 2030]]: Marco de implementación global.
+### 3. Normalización conductual
 
-## Conclusión Del Análisis
+Más allá del episodio puntual, dejaron instalada la idea de que derechos ordinarios y acceso a servicios pueden condicionarse a estatus biomédico verificable.
 
-Los pasaportes de vacuna son el mecanismo de control médico que permite restringir libertades fundamentales basándose en cumplimiento biomédico.
+### 4. Puente hacia wallet interoperable
+
+Leídos en continuidad con identidad digital y biometría, aparecen como ensayo general de credenciales reutilizables entre jurisdicciones, plataformas y capas de acceso.
+
+## Conexiones
+
+- [[Digital ID - Global Protocol]]
+- [[ID2020]]
+- [[Biometria Global]]
+- [[World Health Organization]]
+- [[Union Europea]]
+- [[Tecnocracia]]

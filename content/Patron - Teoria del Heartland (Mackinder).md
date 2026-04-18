@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-28T15:12:23.692-03:00
-modified: 2026-04-07T11:38:10.984-03:00
+modified: 2026-04-07T11:50:09.893-03:00
 tags:
   - patrones
   - geopolítica

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:19.640-03:00
-modified: 2026-04-07T11:14:51.834-03:00
+modified: 2026-04-18T11:07:54.826-03:00
 tags:
   - baker
   - comisario
@@ -42,7 +42,7 @@ tags:
 - [[Twitter Files]]: El evento que desnudó su papel como censor infiltrado.
 - [[Russiagate]]: La operación de inteligencia donde Baker sirvió como la partera legal del engaño.
 - [[Hunter Biden Laptop]]: Su "obra maestra" de contención informativa ante una elección crítica.
-- [[Brookings Institution]]: El centro de pensamiento de Tier B donde se refugian y coordinan los activos del Deep State entre cargos públicos.
+- [[Institucion Brookings]]: El centro de pensamiento de Tier B donde se refugian y coordinan los activos del Deep State entre cargos públicos.
 
 ## Conclusión Del Análisis
 

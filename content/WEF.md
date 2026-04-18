@@ -42,7 +42,7 @@ graph TD
 ```
 
 1. **Captura de Élite:** Infiltración ideológica mediante formación y prestigio social.
-2. **Propaganda Prospectiva:** Uso de simulacros ([[Event 201]]) para normalizar respuestas autoritarias ante crisis futuras.
+2. **Propaganda Prospectiva:** Uso de simulacros ([[Evento 201]]) para normalizar respuestas autoritarias ante crisis futuras.
 
 ## Conexiones Críticas
 

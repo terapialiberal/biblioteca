@@ -41,7 +41,7 @@ Las sociedades secretas de élite utilizan la transgresión progresiva como filt
 
 ## Conexiones Clave
 
-- [[Red Jeffrey Epstein]]
+- [[Jeffrey Epstein]]
 - [[Skull and Bones (Calavera y Huesos)]]
 - [[Bohemian Grove]]
 - [[P2 (Propaganda Due)]]

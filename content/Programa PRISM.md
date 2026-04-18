@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:31.580-03:00
-modified: 2026-04-07T14:57:08.023-03:00
+modified: 2026-04-07T14:57:14.678-03:00
 tags:
   - cordn
   - panptico

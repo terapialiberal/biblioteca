@@ -37,5 +37,5 @@ La **Cibernética**, formalizada por **Norbert Wiener** en 1948, es la ciencia t
 
 - [[Tecnocracia]]
 - [[Transhumanismo]]
-- [[Internet de los Cuerpos (IoB)]]
+- [[Internet de los Cuerpos]]
 - [[Agenda 2030]] (Gestión cibernética de recursos)

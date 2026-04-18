@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-24T13:33:13.310-03:00
-modified: 2026-04-07T10:47:08.351-03:00
+modified: 2026-04-17T18:27:26.352-03:00
 tags:
   - moc
   - tecnologia-de-control
@@ -37,6 +37,10 @@ tags:
 - [[Shield AI]]
 - [[Palmer Luckey]]
 - [[Alex Karp]]
+- [[In-Q-Tel]]
+- [[Palantir]]
+- [[Palantir AIP]]
+- [[Palantir Gotham vs Foundry]]
 - [[Groq]]
 - [[OpenAI Operator]]
 - [[Microsoft Fairwater]]
@@ -57,17 +61,22 @@ tags:
 - [[NSO Group]]
 - [[Pegasus Spyware (NSO Group)]]
 - [[Chainalysis]]
+- [[Total Information Awareness]]
+- [[Vigilancia Predictiva]]
+- [[Gobernanza Algoritmica]]
 - [[Palantir]]
+- [[Aladdin]]
 
 ## Identidad Digital y CBDC
 
 - [[Digital ID - Global Protocol]]
 - [[ID2020]]
-- [[Worldcoin (Orb)]]
+- [[Worldcoin]]
 - [[Genomic ID]]
 - [[Biometria Global]]
 - [[Pasaportes de Vacuna]]
 - [[Sistemas de Credito Social]]
+- [[Social Credit West]]
 - [[CBDC (Moneda Digital de Banco Central)]]
 - [[CBDC Expiration]]
 - [[Project mBridge]]
@@ -75,11 +84,15 @@ tags:
 
 ## Bioseguridad y Control Corporal
 
+- [[Fundacion Bill y Melinda Gates]]
 - [[Tratado de Pandemias OMS]]
 - [[GAVI]]
 - [[CEPI]]
+- [[World Health Organization]]
+- [[One Health]]
 - [[EcoHealth Alliance]]
 - [[Moderna]]
+- [[Stephane Bancel]]
 - [[Pfizer]]
 - [[Lab-Grown Meat]]
 - [[Programmable Food]]
@@ -87,7 +100,7 @@ tags:
 - [[Genetic Tagging]]
 - [[Synthetic Biology]]
 - [[Precision Medicine]]
-- [[Internet de los Cuerpos (IoB)]]
+- [[Internet de los Cuerpos]]
 
 ## Nodos Relacionados
 
@@ -98,6 +111,8 @@ tags:
 - [[00_MOC - Redes de Poder]]
 
 - [[00_MOC - Simbolismo y Esoterismo]]
+
+- [[Tecnocracia]]
 
 - [[06_Videos_Publicados/2026/2026-04-13_Ormuz_IA_Orden/00_ARCHIVO_2026-04-13_Ormuz_IA_Orden.md|00_ARCHIVO_2026-04-13_Ormuz_IA_Orden]]
 
@@ -125,9 +140,13 @@ tags:
 
 - [[Carbine.md|Carbine]]
 
+- [[CEPI.md|CEPI]]
+
 - [[05_Fuentes/China accede a tecnologia nuclear de EEUU a traves.md|China accede a tecnologia nuclear de EEUU a traves]]
 
 - [[CISA Vigilancia 2026.md|CISA Vigilancia 2026]]
+
+- [[Clearview AI.md|Clearview AI]]
 
 - [[05_Fuentes/Cómo Silicon Valley se convirtió en el nuevo complejo militar-industrial.md|Cómo Silicon Valley se convirtió en el nuevo complejo militar-industrial]]
 
@@ -141,7 +160,11 @@ tags:
 
 - [[05_Fuentes/DARPA MAGICS busca un cambio de paradigma en la predicción del comportamiento humano colectivo.md|DARPA MAGICS busca un cambio de paradigma en la predicción del comportamiento humano colectivo]]
 
+- [[Desastre del Hindenburg.md|Desastre del Hindenburg]]
+
 - [[DNA Data Storage.md|DNA Data Storage]]
+
+- [[EcoHealth Alliance.md|EcoHealth Alliance]]
 
 - [[05_Fuentes/EE.UU. lanza GenAI IA avanzada para potenciar a sus militares.md|EE.UU. lanza GenAI IA avanzada para potenciar a sus militares]]
 
@@ -157,7 +180,17 @@ tags:
 
 - [[05_Fuentes/Europa ha perdido internet, advierte el responsable de ciberseguridad de Bélgica.md|Europa ha perdido internet, advierte el responsable de ciberseguridad de Bélgica]]
 
+- [[Event 201.md|Event 201]]
+
+- [[Evento 201.md|Evento 201]]
+
 - [[Five Eyes Alliance_LEGACY.md|Five Eyes Alliance_LEGACY]]
+
+- [[Fundacion Bill y Melinda Gates.md|Fundacion Bill y Melinda Gates]]
+
+- [[Fundacion Huesped.md|Fundacion Huesped]]
+
+- [[GAVI.md|GAVI]]
 
 - [[Google Glass.md|Google Glass]]
 
@@ -201,19 +234,27 @@ tags:
 
 - [[Lucero del Alba y Espionaje.md|Lucero del Alba y Espionaje]]
 
+- [[Moderna.md|Moderna]]
+
 - [[Nanotecnologia.md|Nanotecnologia]]
 
 - [[NEWSLETTER_El_Gran_Desacople_2026.md|NEWSLETTER_El_Gran_Desacople_2026]]
 
 - [[06_Videos_Publicados/2026/2026-04-13_Ormuz_IA_Orden/NOTA_TESIS_Ormuz_IA_Orden.md|NOTA_TESIS_Ormuz_IA_Orden]]
 
+- [[One Health.md|One Health]]
+
 - [[OpenAI.md|OpenAI]]
 
 - [[05_Fuentes/OpenAI apoya proyecto de ley estatal de Illinois que protege a laboratorios de IA de responsabilidad por daños graves.md|OpenAI apoya proyecto de ley estatal de Illinois que protege a laboratorios de IA de responsabilidad por daños graves]]
 
+- [[Operacion Lockstep.md|Operacion Lockstep]]
+
 - [[Palantir.md|Palantir]]
 
-- [[Palantir CIA.md|Palantir CIA]]
+- [[Palantir AIP.md|Palantir AIP]]
+
+- [[Palantir Gotham vs Foundry.md|Palantir Gotham vs Foundry]]
 
 - [[05_Fuentes/Palantir, financiada por la CIA vinculada a Israel.md|Palantir, financiada por la CIA vinculada a Israel]]
 
@@ -227,11 +268,15 @@ tags:
 
 - [[Programa PRISM.md|Programa PRISM]]
 
+- [[Project Nimbus.md|Project Nimbus]]
+
 - [[PROMIS Software.md|PROMIS Software]]
 
 - [[Protocolo 5G y Bio-resonancia.md|Protocolo 5G y Bio-resonancia]]
 
 - [[05_Fuentes/Proyecto Génesis El nuevo Proyecto Manhattan de la era de la IA.md|Proyecto Génesis El nuevo Proyecto Manhattan de la era de la IA]]
+
+- [[Stephane Bancel.md|Stephane Bancel]]
 
 - [[05_Fuentes/Tecnologicas EEUU y Estado Policial China.md|Tecnologicas EEUU y Estado Policial China]]
 
@@ -240,6 +285,8 @@ tags:
 - [[Teoria del Internet Muerto.md|Teoria del Internet Muerto]]
 
 - [[TikTok Gnosis.md|TikTok Gnosis]]
+
+- [[Total Information Awareness.md|Total Information Awareness]]
 
 - [[05_Fuentes/Traduce el título del artículo al español. Si ya está en español, mantén el título original.md|Traduce el título del artículo al español. Si ya está en español, mantén el título original]]
 
@@ -251,6 +298,6 @@ tags:
 
 - [[Vida Artificial.md|Vida Artificial]]
 
-- [[Vigilancia Predictiva.md|Vigilancia Predictiva]]
-
 - [[05_Fuentes/Vínculos de OpenAI con el gobierno ¿Cuál fue el papel de Sam Altman en la administración Biden.md|Vínculos de OpenAI con el gobierno ¿Cuál fue el papel de Sam Altman en la administración Biden]]
+
+- [[World Health Organization.md|World Health Organization]]

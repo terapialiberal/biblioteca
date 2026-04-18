@@ -1,44 +1,54 @@
 ---
-titulo: Hotesur Y Los Sauces
-tipo: "concepto"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [cristina, hotesur, lzaro, sauces]
 publish: true
+created: 2026-01-29T19:17:17.445-03:00
+modified: 2026-04-18T11:48:13.305-03:00
+tags:
+  - argentina
+  - kirchnerismo
+  - lavado
+  - obra-publica
+  - hoteles
+  - tl-intel-v3
 ---
 
-# Hotesur Y Los Sauces
+# Hotesur y Los Sauces
 
-## Perfil TL (Resumen Ejecutivo)
+## BLUF
 
-**¿Qué es?** Un complejo esquema de corrupción y lavado de dinero que involucra a las empresas hoteleras e inmobiliarias de la familia Kirchner (Hotesur y Los Sauces S.A.).
+[[Hotesur y Los Sauces]] importa en TL como nodo donde se vuelve visible el circuito entre obra publica, retornos, patrimonio privado y blindaje politico-judicial dentro del kirchnerismo.
 
-**¿Por qué importa?** Hotesur y Los Sauces son la **Evidencia Documental del Modelo de Cleptocracia de Tier B**. Este caso revela cómo el dinero robado al Tier C a través del sobreprecio en la obra pública (entregada a **[[Lázaro Báez]]**) volvía a los bolsillos personales de **[[Cristina Kirchner]]** de forma "legalizada". El mecanismo era el alquiler simulado: Báez recibía billones en contratos y, a cambio, alquilaba cientos de habitaciones en los hoteles de los Kirchner que permanecían vacías. No era un negocio hotelero; era una **Lavandería de Retornos**. La importancia del caso radica en que demuestra la fusión total entre el Estado, el contratista y el patrimonio privado de los gobernantes, eliminando cualquier división entre el dinero público y el interés de la familia en el poder.
+## Por que importa en TL
 
-## Análisis De Poder (Tiers)
+- conecta contratistas, hoteles, alquileres simulados, flujo de fondos y estructura familiar;
+- ayuda a leer la corrupcion no solo como soborno suelto sino como mecanismo de reciclaje patrimonial;
+- funciona como nodo de cruce entre [[Cristina Kirchner]], [[Lazaro Baez]] y el uso politico de la obra publica.
 
-### Tier A (Los Dueños De La Impunidad Sistémica)
+## Que cambio
 
-- **Blindaje Judicial:** El Tier A político y judicial operó durante años para demorar estos juicios, intentando sobreseimientos sin proceso (como el polémico fallo de 2021) para evitar que la evidencia (contratos, flujo de fondos, testimonios) sea expuesta en un juicio oral y público.
+La nota venia como ficha vieja, con encoding roto y tono demasiado de veredicto cerrado. Se recompila como concepto modular del corredor `argentina / kirchnerismo / retornos / blanqueo politico`.
 
-### Tier B (Operadores / Contadores Y Testaferros)
+## Lectura TL
 
-- **Víctor Manzanares:** El contador de Tier B que diseñó la ingeniería contable para hacer que el movimiento de billones de pesos pareciera una actividad comercial legítima. Sus cuadernos de anotaciones revelaron la escala de la avaricia del sistema.
-- **Lázaro Báez:** El operador de Tier B que funcionó como el "cajero" de la familia, transformando los impuestos del Tier C en habitaciones de hotel "alquiladas" para blanquear la coima.
+### 1. Del contrato publico al patrimonio privado
 
-### Tier C (Narrativa Pública)
+En TL, el caso importa porque permite seguir una cadena concreta: adjudicacion, sobreprecio, contratista aliado, circuito comercial aparente y retorno hacia la esfera patrimonial de la familia politica.
 
-- "Persecución política y Lawfare". "Empresarios patagónicos exitosos". Narrativas de Tier B diseñadas para victimizar a los acusados ante el Tier C militante. Mientras tanto, el Tier C trabajador paga los sobreprecios de las rutas que nunca se terminan, sin entender que el dinero de su esfuerzo terminó en cajas de seguridad o en hoteles fantasmas en el sur.
+### 2. Legalidad formal como cobertura
 
-## Conexiones Clave
+Su valor analitico aumenta cuando se observa que la potencia del esquema no depende de ocultar todo, sino de vestir el movimiento de fondos con contratos, alquileres y estructuras societarias formalmente presentables.
 
-- [[Cristina Kirchner]] (La jefa de la estructura)
-- [[Lázaro Báez]] (El socio y canal de flujo)
-- [[Máximo Kirchner / Florencia Kirchner]] (Los herederos de la estructura)
-- [[Obra Pública / Corrupción]] (La fuente del dinero sucio)
+### 3. Corrupcion como arquitectura, no excepcion
 
-## Por Qué Importa (Estilo Nico)
+Leido junto con [[Lazaro Baez]] y la logica de obra publica, el nodo ayuda a pensar la corrupcion como sistema con intermediarios, contadores, sociedades y blindajes, no solo como bolsos o episodios espectaculares.
 
-> "Hotesur es la prueba de que nos tomaron por estúpidos a cara descubierta. Imaginate que sos dueño de un hotel y un amigo tuyo, al que vos le das los contratos de todo el pueblo, te alquila todas las piezas pero nunca duerme nadie ahí. Así lavaban la guita de las rutas los Kirchner. Era el 'vuelto' por la obra pública que pagábamos todos nosotros. Es el esquema de la inmobiliaria del poder: usás la guita del Estado para pagarte a vos mismo el alquiler de tus propias cosas. Es tan burdo que duele, pero como manejan la justicia, te dicen que es 'persecución'. No son hoteles, son máquinas de lavar billetes sucios."
+### 4. Caso reusable para leer el kirchnerismo
+
+Tambien importa porque funciona como condensador de varios rasgos del ciclo: fusion entre Estado y faccion, uso de empresarios interfaz y disputa posterior por impunidad judicial.
+
+## Conexiones
+
+- [[Cristina Kirchner]]
+- [[Lazaro Baez]]
+- [[Nestor Kirchner]]
+- [[La Campora]]
+- [[Causa Cuadernos]]

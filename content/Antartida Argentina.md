@@ -1,33 +1,54 @@
 ---
-titulo: Antártida Argentina
-tipo: "persona"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [antrtida, argentina, malvinas, otan]
 publish: true
+created: 2026-01-29T19:17:03.712-03:00
+modified: 2026-04-18T12:15:59.672-03:00
+tags:
+  - antartida
+  - argentina
+  - malvinas
+  - tratado-antartico
+  - soberania
+  - tl-intel-v3
 ---
 
-# Antártida Argentina
+# Antartida Argentina
 
-## Resumen General
+## BLUF
 
-Argentina tiene la presencia más antigua y numerosa en la Antártida. Sin embargo, el reclamo de soberanía está congelado por el **Tratado Antártico**. Reino Unido superpone su reclamo totalmente con el argentino (proyectando desde Malvinas). La Antártida es la reserva de agua dulce y minerales del futuro. La instalación de bases multipropósito (como la eventual base conjunta con EE.UU. en Ushuaia anunciada por Milei) busca frenar el advance chino y consolidar la posición OTAN.
+[[Antartida Argentina]] importa en TL como territorio de proyeccion larga: combina soberania congelada, presencia cientifica, disputa logistica y valor estrategico futuro en agua, rutas y posicionamiento polar.
 
-## Análisis Terapia Liberal (Cui Bono)
+## Por que importa en TL
 
-### Tier A (Beneficiarios)
+- obliga a pensar la soberania en escala de decadas y no de ciclos electorales;
+- conecta ciencia, defensa, puertos australes y competencia geopolitica;
+- permite leer la relacion entre [[Malvinas]], Atlantico Sur y presencia extra-regional.
 
-- **OTAN:** Reino Unido controla el paso Drake.
-- **Ciencia:** La excusa para la ocupación territorial hoy.
+## Que cambio
 
-## Puntos Clave
+La nota se recompila desde una ficha muy vieja y comprimida. Queda integrada al corredor `argentina / soberania / Atlantico Sur / recursos futuros`.
 
-- **Mapa Bi-continental:** El mapa official argentino que muestra la Antártida a escala real para crear conciencia espacial.
+## Lectura TL
+
+### 1. Soberania suspendida, no resuelta
+
+El Tratado Antartico congela reclamos, pero no elimina su importancia estrategica. TL usa este nodo para mostrar que una controversia puede quedar administrada durante años sin dejar de ser central para el poder real.
+
+### 2. Ciencia como presencia territorial
+
+La infraestructura cientifica y logistica no es neutra. Bases, campañas y abastecimiento tambien son formas de presencia efectiva en un espacio donde la soberania se proyecta a muy largo plazo.
+
+### 3. Conexion con Malvinas y Atlantico Sur
+
+Leida junto con [[Malvinas]] y [[Mar Argentino]], la Antartida muestra que el tablero austral no se entiende por piezas aisladas. Puertos, rutas, bases y control del pasaje sur forman parte del mismo problema estrategico.
+
+### 4. Recursos y competencia futura
+
+Aunque buena parte del debate publico se mueve entre simbolismo y nacionalismo, TL la usa sobre todo para pensar recursos, agua, posicion geografica y margen de maniobra frente a actores extra-regionales.
 
 ## Conexiones
 
 - [[Malvinas]]
-- [[OTAN]]
-- [[Tratado Antártico]]
+- [[Mar Argentino]]
+- [[Tratado Antartico]]
+- [[Base China en Neuquen]]
+- [[Comando Sur]]

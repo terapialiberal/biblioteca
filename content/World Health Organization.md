@@ -1,49 +1,59 @@
 ---
-titulo: World Health Organization (WHO)
-tipo: "entidad"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [bill, china, health, world]
 publish: true
+aliases:
+  - WHO
+  - OMS
+  - Organizacion Mundial de la Salud
+  - Organización Mundial de la Salud
+created: 2026-01-29T19:17:44.602-03:00
+modified: 2026-04-17T17:01:29.567-03:00
+tags:
+  - who
+  - oms
+  - salud-global
+  - bioseguridad
+  - tl-intel-v3
 ---
 
-![WHO Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/World_Health_Organization_Logo.svg/220px-World_Health_Organization_Logo.svg.png)
+# World Health Organization
 
-# World Health Organization (WHO)
+## BLUF
 
-## Resumen Ejecutivo
+[[World Health Organization]] importa en TL como nodo central de gobernanza sanitaria transnacional: coordina estándares, narrativas de emergencia y marcos de respuesta que pueden escalar desde salud pública hacia movilidad, vigilancia y soberanía.
 
-**¿Qué es?** Agencia de salud de la ONU. Originalmente financiada por estados miembros. Hoy privatizada casi totalmente.
+## Por que importa en TL
 
-**¿Por qué importa?** Ya no es una entidad pública neutral. Su segundo mayor donante (después de EEUU, y a veces el primero) es la **Fundación Bill & Melinda Gates**. Gates impone la agenda (vacunación masiva sobre agua potable o nutrición). Actualmente impulsan el **"Tratado de Pandemias"**, que les daría poder legal vinculante para declarar emergencias, cerrar fronteras y censurar información en sus países miembros, anulando las constituciones nacionales.
+- articula la capa institucional del corredor bioseguridad-control;
+- conecta salud global, estados de excepción y legitimación técnica;
+- funciona como pivote entre [[Tratado de Pandemias OMS]], credenciales sanitarias y redes como [[GAVI]].
 
-## Análisis (Tiers)
+## Que cambio
 
-### Tier A (Controladores)
+La familia estaba duplicada entre `World Health Organization` y `Organizacion Mundial de la Salud`, con enlaces dispersos a `OMS`. Se recompila este nodo como versión canónica con aliases para absorber todas las rutas vivas sin seguir abriendo bifurcaciones.
 
-- **Bill Gates:** Dueño de facto. Su financiación viene con condiciones (earmarked contributions).
-- **China:** Tedros Adhanom (Director General) fue elegido con apoyo del PCCh y encubrió el origen del COVID para proteger a Beijing en 2020.
+## Lectura TL
 
-### Tier B (Operativa)
+### 1. De coordinación a gobernanza
 
-- **Cambio de Definiciones:** Cambiaron la definición de "Pandemia" (eliminando el requisito de "muertes masivas") en 2009 para declarar la pandemia de Gripe A y vendor Tamiflu. Cambiaron la definición de "Inmunidad de Rebaño" en 2020 para excluir la inmunidad natural y solo contar vacunas.
-- **One Health:** Ideología que equipara la salud humana, animal y ambiental. Excusa para regular agricultura, clima y mascotas bajo el paraguas de "salud".
+La OMS importa menos como agencia médica aislada y más como centro de coordinación normativa, discursiva y operativa en escenarios de emergencia global.
 
-### Tier C (Narrativa)
+### 2. Autoridad técnica como palanca
 
-- "Salud para todos"
-- "Coordinación global sanitaria"
+En TL, su peso reside en la capacidad de transformar recomendaciones técnicas en presión política, regulatoria y reputacional sobre estados, plataformas y sistemas sanitarios.
+
+### 3. One Health y expansión de perímetro
+
+La doctrina de salud integrada amplía el radio de intervención desde enfermedades hacia cadenas alimentarias, movilidad, ambiente y conducta preventiva.
+
+### 4. Nodo de legitimación
+
+Leída junto con [[Tratado de Pandemias OMS]] y [[Pasaportes de Vacuna]], la OMS aparece como fuente de legitimidad supranacional para infraestructuras de excepción.
 
 ## Conexiones
 
-- [[Bill Gates]]
-- [[ONU]]
-- [[China]]
-- [[GAVI|Gavi]] (Alianza de vacunas)
-
-## Fuentes
-
-- "The WHO and the Pandemic Treaty"
-- Análisis financiero de los donantes de la OMS.
+- [[Tratado de Pandemias OMS]]
+- [[GAVI]]
+- [[Pasaportes de Vacuna]]
+- [[Digital ID - Global Protocol]]
+- [[Tedros Adhanom Ghebreyesus]]
+- [[Tecnocracia]]

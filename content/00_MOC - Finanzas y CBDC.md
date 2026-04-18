@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-09T17:49:12.815-03:00
-modified: 2026-04-07T10:47:07.660-03:00
+modified: 2026-04-07T10:47:12.148-03:00
 tags:
   - moc
   - cbdc
@@ -80,11 +80,11 @@ tags:
 
 - [[Astrologia Financiera.md|Astrologia Financiera]]
 
+- [[Axel Kicillof.md|Axel Kicillof]]
+
 - [[Banca en la Sombra.md|Banca en la Sombra]]
 
 - [[Banco de Pagos Internacionales.md|Banco de Pagos Internacionales]]
-
-- [[Biometria Global.md|Biometria Global]]
 
 - [[BIS.md|BIS]]
 
@@ -98,7 +98,7 @@ tags:
 
 - [[CBDC Interoperability.md|CBDC Interoperability]]
 
-- [[03_Produccion/2026-04-15_LAS GUERRAS MAGA/cc_ANALISIS_Bilderberg1973_Reset_Monetario.md|cc_ANALISIS_Bilderberg1973_Reset_Monetario]]
+- [[06_Videos_Publicados/2026/2026-04-15_LAS GUERRAS MAGA/cc_ANALISIS_Bilderberg1973_Reset_Monetario.md|cc_ANALISIS_Bilderberg1973_Reset_Monetario]]
 
 - [[05_Fuentes/Christine Lagarde admite que las CBDC son clave para mantener el poder de los bancos centrales.md|Christine Lagarde admite que las CBDC son clave para mantener el poder de los bancos centrales]]
 
@@ -135,6 +135,10 @@ tags:
 - [[05_Fuentes/El Patrón Scott Bessent y la Corrupción en el Tesoro de EE. UU.md|El Patrón Scott Bessent y la Corrupción en el Tesoro de EE. UU]]
 
 - [[Ethereum Foundation.md|Ethereum Foundation]]
+
+- [[Federico Sturzenegger.md|Federico Sturzenegger]]
+
+- [[FMI.md|FMI]]
 
 - [[Geocercas.md|Geocercas]]
 
@@ -178,7 +182,11 @@ tags:
 
 - [[Señoreaje.md|Señoreaje]]
 
+- [[Sergio Massa.md|Sergio Massa]]
+
 - [[Tokenizacion de Activos Reales.md|Tokenizacion de Activos Reales]]
+
+- [[Toto Caputo.md|Toto Caputo]]
 
 - [[05_Fuentes/Trump anuncia cuentas de ahorro de $1,000 para recién nacidos.md|Trump anuncia cuentas de ahorro de $1,000 para recién nacidos]]
 

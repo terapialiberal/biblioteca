@@ -1,33 +1,56 @@
 ---
-titulo: César Milani
-tipo: "persona"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [cristina, csar, milani, naciones]
 publish: true
+aliases:
+  - César Milani
+created: 2026-01-29T19:17:09.501-03:00
+modified: 2026-04-18T12:02:47.262-03:00
+tags:
+  - argentina
+  - milani
+  - inteligencia
+  - ejercito
+  - kirchnerismo
+  - tl-intel-v3
 ---
 
-# César Milani
+# Cesar Milani
 
-## Resumen General
+## BLUF
 
-Jefe del Ejército durante el segundo mandato de [[Cristina Kirchner]]. Inusual para [[Naciones Unidas (ONU)]] militar en democracia, montó [[Naciones Unidas (ONU)]] aparato de **inteligencia militar interna** masivo, con tecnología de vigilancia moderna, para suplir la falta de confianza de CFK en la SIDE (tras pelearse con Stiuso). Acusado de delitos de lesa humanidad en la dictadura (desaparición del soldado Ledo), fue absuelto, pero su rol como espía K es innegable.
+[[Cesar Milani]] importa en TL como figura de convergencia entre fuerzas armadas, inteligencia interna y reconfiguracion del aparato de seguridad durante el kirchnerismo tardio.
 
-## Análisis Terapia Liberal (Cui Bono)
+## Por que importa en TL
 
-### Tier A (Beneficiarios)
+- conecta ejercito, espionaje interno, lealtad presidencial y militarizacion parcial de funciones de inteligencia;
+- ayuda a leer como la crisis de confianza en los servicios tradicionales puede desplazar poder hacia otras estructuras del Estado;
+- funciona como nodo de cruce entre [[Cristina Kirchner]], [[AFI]] y la memoria conflictiva de las fuerzas armadas.
 
-- **[[Cristina Kirchner]]:** Encontró en Milani [[Naciones Unidas (ONU)]] militar leal dispuesto a hacer inteligencia política.
+## Que cambio
 
-## Puntos Clave
+La nota venia como ficha minima, con encoding roto y varias formulaciones defectuosas. Se recompila como perfil modular del corredor `argentina / inteligencia / fuerzas armadas / kirchnerismo`.
 
-- **Presupuesto:** El presupuesto de inteligencia del ejército se disparó bajo su mando.
-- **Miedo:** Los propios peronistas le tenían miedo a las carpetas de Milani.
+## Lectura TL
+
+### 1. Militar con funcion politica expandida
+
+En TL, Milani importa porque desborda la figura del jefe militar tradicional: su relevancia aparece cuando el aparato castrense empieza a tocar tareas de informacion, monitoreo y disputa interna del poder.
+
+### 2. Inteligencia por fuera del carril clasico
+
+Su valor analitico aumenta cuando se observa que la desconfianza de Cristina hacia viejas redes de servicios empuja a reforzar otros canales de control y recoleccion de informacion.
+
+### 3. Nodo de friccion historica y presente
+
+Leido junto con [[Cristina Kirchner]] y la agenda de memoria militar, el nodo sirve para pensar una paradoja argentina: gobiernos que construyen legitimidad sobre los 70 pero al mismo tiempo vuelven a utilizar resortes opacos de seguridad e inteligencia.
+
+### 4. Caso reusable para la rama Argentina
+
+Tambien importa porque permite conectar la subrama kirchnerista con la rama de inteligencia y Estado profundo ya saneada en el MOC.
 
 ## Conexiones
 
 - [[Cristina Kirchner]]
-- [[Inteligencia Militar]]
+- [[AFI]]
+- [[Jaime Stiuso]]
+- [[Victoria Villarruel]]
 - [[Dictadura Militar]]

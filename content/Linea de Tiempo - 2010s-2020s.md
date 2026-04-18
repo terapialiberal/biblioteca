@@ -3,7 +3,7 @@ publish: true
 aliases:
   - "Línea De Tiempo: 2010s-2020s (La Captura Tecnocrática)"
 created: 2026-01-29T19:17:23.342-03:00
-modified: 2026-04-07T11:37:41.785-03:00
+modified: 2026-04-07T11:50:09.513-03:00
 tags:
   - timeline
   - tecnocracia

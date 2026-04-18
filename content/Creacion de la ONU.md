@@ -1,45 +1,54 @@
 ---
-titulo: Creacin De La ONU
-tipo: "entidad"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [creaci, creacin, david, rockefeller]
 publish: true
+created: 2026-01-29T19:17:09.054-03:00
+modified: 2026-04-18T10:56:38.729-03:00
+tags:
+  - onu
+  - naciones-unidas
+  - multilateralismo
+  - rockefeller
+  - tl-intel-v3
 ---
 
-# Creacin De La ONU
+# Creacion de la ONU
 
-> [!INFO] Contexto
-> Fundacin de las Naciones Unidas. Terreno donado por Rockefeller.
+## BLUF
 
-## Qu Pas
+[[Creacion de la ONU]] importa en TL como momento de institucionalización del multilateralismo de posguerra: su valor analítico no está solo en la fundación formal de Naciones Unidas, sino en cómo actores privados, familias dinásticas y aparatos estatales ayudaron a consolidar una infraestructura permanente de gobernanza supranacional.
 
-Las Naciones Unidas fueron fundadas el 24 de octubre de 1945, reemplazando a la fracasada Liga de Naciones.
+## Por que importa en TL
 
-## Financiamiento
+- conecta posguerra, filantropía de élite y arquitectura internacional;
+- ayuda a leer la ONU como institución y también como proyecto civilizatorio;
+- funciona como nodo de cruce entre [[John D. Rockefeller]], [[Fundacion Rockefeller]], [[CFR]] y la idea de gobierno global.
 
-**John D. Rockefeller Jr.** don \8.5 millones para comprar el terreno en Manhattan donde se construira la sede de la ONU.
+## Que cambio
 
-La familia Rockefeller tambin financi muchas de las organizaciones asociadas a la ONU.
+La nota venía muy mínima, con encoding roto y casi sin lectura estructural. Se recompila como nodo modular para la rama `multilateralismo / fundaciones / orden global`.
 
-## Perspectiva Alternativa
+## Lectura TL
 
-Crticos ven la ONU como paso hacia "gobierno mundial":
+### 1. Posguerra como ventana de diseño
 
-- Soberana cedida a organismo supranacional
-- lites no electas tomando decisiones
-- Agenda 21 / Agenda 2030
+La creación de la ONU importa porque después de una guerra sistémica se abren espacios únicos para fijar reglas, instituciones y lenguajes de legitimidad de muy largo plazo.
+
+### 2. Estado y filantropía convergentes
+
+En TL, el punto fuerte es que la arquitectura internacional no surge solo de diplomáticos: también la empujan redes privadas con dinero, prestigio y visión institucional.
+
+### 3. Sede, símbolo y gobernanza
+
+El gesto Rockefeller sobre Manhattan importa menos por la anécdota filantrópica y más como señal de la convergencia entre capital privado y orden internacional permanente.
+
+### 4. Nodo fundador del multilateralismo contemporáneo
+
+Leída junto con [[Agenda 2030]], [[CFR]] y [[Fundacion Rockefeller]], la creación de la ONU ayuda a reconstruir la genealogía del gobierno por organismos internacionales.
 
 ## Conexiones
 
-- [[Rockefeller Foundation]]
+- [[ONU (Organización de las Naciones Unidas)]]
+- [[John D. Rockefeller]]
+- [[Fundacion Rockefeller]]
 - [[David Rockefeller]]
 - [[Agenda 2030]]
 - [[CFR]]
-
-## Fuentes
-
-- Historia de la ONU
-- Rockefeller Archive

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-03-01T09:01:58.171-03:00
-modified: 2026-04-07T10:47:07.698-03:00
+modified: 2026-04-17T14:11:45.559-03:00
 tags:
   - moc
   - kompromat
@@ -22,9 +22,9 @@ tags:
 
 ## Operaciones Físicas
 
-- [[Red Epstein-Maxwell (Trampa de Inteligencia)]]
-- [[Honey Pot (Operación)]]
-- [[Honeypot (Operacion de Inteligencia)]]
+- [[Jeffrey Epstein]]
+- [[Ghislaine Maxwell]]
+- [[Honey Pot]]
 - [[Operación Gladio (Estrategia de Tensión)]]
 
 ## Vigilancia y Recolección Digital

@@ -33,5 +33,5 @@ El beneficio es para el [[Complejo Industrial de la Censura]]:
 ## 🔗 Nodos Relacionados
 
 - [[Manufacture of Consent 2.0]]: La versión digital.
-- [[Algorithmic Governance]]: El gobierno por el código.
+- [[Gobernanza Algoritmica]]: El gobierno por el código.
 - [[PsyOp]]: El marco de la operación.

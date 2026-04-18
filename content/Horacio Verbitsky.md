@@ -35,9 +35,9 @@ publish: true
 ## Conexiones Clave
 
 - [[Montoneros]] (Su origen activo)
-- [[CELS (Centro de Estudios Legales y Sociales)]] (Su base de operaciones civil)
-- [[Cristina Kirchner / Kirchnerismo]] (Sus clientes políticos)
-- [[Lawfare (Uso político de la justicia)]] (Su especialidad técnica)
+- [[CELS]] (Su base de operaciones civil)
+- [[Cristina Kirchner]] (Sus clientes politicos)
+- [[Lawfare]] (Su especialidad tecnica)
 
 ## Por Qué Importa (Estilo Nico)
 

@@ -38,7 +38,7 @@ publish: true
 - [[Mossad]] / LAKAM (Los controladores)
 - [[Mega Group]] (El lobby detrás de su liberación)
 - [[Incidente del USS Liberty]] (Otro ejemplo de agresión aliada)
-- [[Chantaje (Kompromat)]] (El subproducto del espionaje)
+- [[Kompromat]] (El subproducto del espionaje)
 
 ## Fuentes
 

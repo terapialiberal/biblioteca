@@ -32,4 +32,4 @@ El complejo opera bajo la fachada de "combate a la desinformación" (MIS-DIS-MAL
 
 - [[Twitter Files]]: La mayor filtración documental del complejo.
 - [[Cognitive Warfare]]: El objetivo final.
-- [[Palantir CIA]]: La infraestructura técnica.
+- [[Palantir]]: La infraestructura técnica.

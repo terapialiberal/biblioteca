@@ -36,7 +36,7 @@ publish: true
 ## Conexiones Clave
 
 - [[Hillary Clinton / Bill Clinton]] (Sus principales activos políticos)
-- [[Brookings Institution]] (Su plataforma de influencia académica)
+- [[Institucion Brookings]] (Su plataforma de influencia académica)
 - [[AIPAC / Lobby de Israel]] (Sus socios tácticos)
 - [[Power Rangers (Control Cultural)]] (Su origen de riqueza y percepción)
 

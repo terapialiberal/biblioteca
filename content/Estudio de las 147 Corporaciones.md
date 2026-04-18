@@ -43,7 +43,7 @@ publish: true
 ## Conexiones Clave
 
 - [[BlackRock]]
-- [[Vanguard Group]]
+- [[Grupo Vanguard (Vanguard Group)]]
 - [[State Street]]
 - [[00_Glosario - Conceptos Fase 1#JPMorgan Chase|JPMorgan Chase]]
 - [[City de Londres]]

@@ -19,7 +19,7 @@ Cuando Vance habla de un "Nuevo Orden Mundial" (o su reconfiguración), está em
 
 1. **La Facción Tech-Realist:** Sustitución de la vieja guardia neoconservadora por una tecnocracia eficiente impulsada por IA y [[Bitcoin]].
 2. **Aislamiento Estratégico:** Priorizar la competencia tecnológica con China sobre las guerras terrestres interminables que ya no benefician al capital de Nivel 1.
-3. **El Candidato de la Red:** Vance es el puente directo con [[Peter Thiel]] y el entorno de [[Palantir CIA]].
+3. **El Candidato de la Red:** Vance es el puente directo con [[Peter Thiel]] y el entorno de [[Palantir]].
 
 ## ♟️ El Nuevo NWO
 

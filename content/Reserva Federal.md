@@ -5,7 +5,7 @@ aliases:
   - FED
   - Reserva Federal de Estados Unidos
 created: 2026-01-29T19:17:33.351-03:00
-modified: 2026-04-07T11:16:21.950-03:00
+modified: 2026-04-07T11:49:35.095-03:00
 tags:
   - reserva-federal
   - banca-central

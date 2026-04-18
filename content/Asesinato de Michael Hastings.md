@@ -41,7 +41,7 @@ Richard Clarke (ex czar antiterrorista) dijo públicamente: _"Lo de Hastings par
 
 - [[CIA]]
 - [[Julian Assange]] (WikiLeaks confirmó la tecnología)
-- [[Internet de los Cuerpos (IoB)]] (Vulnerabilidad total)
+- [[Internet de los Cuerpos]] (Vulnerabilidad total)
 
 ## Fuentes
 

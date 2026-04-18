@@ -1,37 +1,50 @@
 ---
-titulo: Palantir AIP
-tipo: "persona"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [alex, palantir]
 publish: true
+created: 2026-02-09T17:26:58.756-03:00
+modified: 2026-04-17T14:27:33.381-03:00
+tags:
+  - palantir-aip
+  - palantir
+  - ia
+  - decision
+  - tecnocracia
+  - tl-intel-v3
 ---
 
-# [[Palantir AIP]]
+# Palantir AIP
 
-**Clasificacin:** Tier B (Espina Dorsal de la Tecno-Inteligencia)\
-**Actores:** [[Palantir Technologies]], [[Alex Karp]], [[Pentagono]], [[CIA]].
+## BLUF
 
-## ?? ANLISIS FORENSE
+[[Palantir AIP]] importa en TL como capa de decisión asistida por IA sobre la infraestructura Palantir: su valor no está en ser “otro chatbot”, sino en acercar analítica, simulación y ejecución a entornos estatales y corporativos.
 
-El **AIP (Artificial Intelligence Platform)** de [[Palantir]] no es un chatbot; es un sistema operativo para la toma de decisiones militares y civiles en tiempo real. En 2025-2026, se ha consolidado como el estndar de "integracin de datos" del Estado.
+## Por que importa en TL
 
-### Seales Críticas (2025-2026)
+- muestra la transición de integración de datos a orquestación asistida por IA;
+- acerca todavía más la lógica de guerra, gestión y gobierno algorítmico;
+- ayuda a leer el salto desde plataformas de observación a plataformas de acción recomendada o semiautomatizada.
 
-- **Mega-Contrato US Army (Julio 2025):** \10B para consolidar software y IA. Esto le da a [[Palantir]] el control absoluto sobre cmo el ejrcito procesa la informacin de campo.
-- **Maven Smart System:** Integrado en AIP para seleccin de objetivos (Targeting) mediante IA.
-- **Control Civil (ICE):** Contrato de \30M para vigilancia en tiempo real de individuos.
+## Que cambio
 
-### Cui Bono
+La nota venía muy rota en forma y encoding. Se recompiló como producto satélite dentro del ecosistema Palantir.
 
-- **[[Alex Karp]] / Peter Thiel:** Posicionamiento de Palantir como la nica empresa capaz de orquestar la guerra y la gobernanza civil digital con "guardarrales" ticos corporativos.
-- **Complejo Militar-Industrial:** Aceleracin del ciclo de decisin, permitiendo ataques ms rpidos y precisos.
+## Lectura TL
 
-## ?? CONEXIONES
+### 1. IA sobre stack existente
 
-- [[Microsoft]] (Socio de nube Top Secret)
-- [[Alex Karp]]
-- [[CISA Vigilancia 2026]]
-- [[Stargate Project]]
+AIP importa porque se monta sobre una infraestructura previa de datos, permisos, grafos y workflows ya desplegados.
+
+### 2. Del análisis a la recomendación operativa
+
+Su utilidad estratégica aparece cuando el sistema ya no solo muestra información, sino que sugiere cursos de acción, prioriza objetivos o acelera decisiones.
+
+### 3. Escalamiento tecnocrático
+
+En TL, AIP sirve para marcar un paso más en la automatización del mando técnico.
+
+## Conexiones
+
+- [[Palantir]]
+- [[Vigilancia Predictiva]]
+- [[Gobernanza Algoritmica]]
+- [[In-Q-Tel]]
+- [[Tecnocracia]]

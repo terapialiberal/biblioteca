@@ -1,39 +1,58 @@
 ---
-titulo: 'Bio-Identidad Digital (La "Marca")'
-tipo: "concepto"
-fecha: 2026-02-25
-estado: activo
-tags: [cbdcs, crdito, digital, identidad]
-tier_primario: "a"
-nivel_evidencia: "total"
 publish: true
+aliases:
+  - Bio-Identidad Digital (La Marca)
+created: 2026-02-25T22:15:02.519-03:00
+modified: 2026-04-17T16:35:28.194-03:00
+tags:
+  - bio-identidad
+  - biometria
+  - identidad-digital
+  - scoring
+  - control
+  - tl-intel-v3
 ---
 
-# Bio-Identidad Digital (La "Marca")
+# Bio-Identidad Digital
 
-> [!ABSTRACT] Hipótesis Informativa
-> La **Bio-Identidad Digital** es el sistema de registro definitivo que une la biología (ADN, iris, huella) con el estatus legal y financiero en tiempo real. Forensemente, representa la implementación de la "Marca" del sistema: sin una identidad digital verificada y vinculada a un sistema de puntaje (Crédito Social), el individuo queda excluido de la economía, el transporte y la vida social básica.
+## BLUF
 
-## Análisis De Tiers
+[[Bio-Identidad Digital]] importa en TL como la convergencia entre identidad digital, biometría y acceso financiero o social: no solo verificar quién sos, sino volver tu cuerpo y tu estatus parte de una misma arquitectura de permisos.
 
-### Tier A (Los Dueños)
+## Por que importa en TL
 
-- **Incentivo**: La identificación inequívoca del "Ganado Humano". Al eliminar la privacidad biométrica, el Tier A asegura que ningún disidente pueda esconderse o reiniciarse bajo otra identidad. Es el fin del anonimato histórico y el inicio de la **Trazabilidad Humana Total**.
+- fusiona cuerpo, credencial y acceso dentro de un mismo stack;
+- ayuda a leer cómo biometría, wallet y scoring pueden operar juntos;
+- funciona como concepto paraguas del corredor identidad-control corporal.
 
-### Tier B (Operadores / Ejecutores)
+## Que cambio
 
-- **Entidades de Identidad (ID2020, Worldcoin)**: Actúan como los recolectores de la "firma biológica". Utilizan la promesa de "inclusión financiera" o "renta básica" para que la población de Tier C entregue su iris o su ADN voluntariamente.
+Existían dos notas duplicadas de baja coherencia sobre este nodo. Se consolida `Bio-Identidad Digital` como versión canónica y la variante `Bio-Identidad Digital (La Marca)` queda absorbida como alias/espejo para reducir drift.
 
-### Tier C (El Teatro / Percepción)
+## Lectura TL
 
-- "Un trámite sencillo para mayor seguridad y evitar el robo de identidad". El Tier C acepta el intercambio de su soberanía biológica por comodidad técnica.
+### 1. Del documento a la condición de acceso
 
-## Conexiones Críticas
+La bio-identidad importa cuando la identidad deja de ser solo un registro y pasa a volverse condición permanente para usar dinero, servicios, movilidad o infraestructura.
 
-- [[CBDCs]]: El sistema de pago que requiere la Bio-Identidad.
-- [[Crédito Social]]: El algoritmo que califica la Bio-Identidad.
-- [[Worldcoin]]: El proyecto masivo de recolección de iris de Sam Altman.
+### 2. Biometría como ancla
 
-## Cui Bono
+ADN, iris, rostro, huella o señales corporales funcionan como anclas que vuelven la credencial menos separable del sujeto.
 
-¿Quién gana? El **Estado Omnisciente**. La Bio-Identidad Digital convierte al ser humano en un **Activo Contabilizado** que puede ser activado o desactivado por el Tier A con un comando centralizado.
+### 3. Score y activación
+
+En TL, este nodo se vuelve central cuando se conecta con sistemas de cumplimiento, reputación o riesgo que pueden habilitar, degradar o bloquear acceso.
+
+### 4. Concepto paraguas
+
+Leído junto con [[Digital ID - Global Protocol]], [[Biometria Global]] y [[Social Credit West]], este nodo resume la mutación desde identificación administrativa hacia administración integral del individuo.
+
+## Conexiones
+
+- [[Digital ID - Global Protocol]]
+- [[Biometria Global]]
+- [[Worldcoin]]
+- [[CBDC]]
+- [[Social Credit West]]
+- [[Gobernanza Algoritmica]]
+- [[Tecnocracia]]

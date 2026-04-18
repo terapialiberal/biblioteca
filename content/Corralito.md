@@ -1,32 +1,56 @@
 ---
-titulo: Corralito (2001)
-tipo: "concepto"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: ["2001", bail, corralito, crisis]
 publish: true
+aliases:
+  - Corralito (2001)
+created: 2026-01-29T19:17:08.810-03:00
+modified: 2026-04-18T11:45:42.678-03:00
+tags:
+  - argentina
+  - corralito
+  - bancos
+  - crisis-2001
+  - ahorros
+  - tl-intel-v3
 ---
 
-# Corralito (2001)
+# Corralito
 
-## Resumen General
+## BLUF
 
-Medida impuesta por **Domingo Cavallo** limitando la extracción de efectivo de los bancos a 250 pesos por semana. El objetivo era frenar una corrida bancaria masiva. Fue la sentencia de muerte del gobierno. Luego vino el **Corralón** (Duhalde), que pesificó los dólares de la gente. "El que depositó dólares, recibirá dólares" fue la mentira fundacional del siglo XXI argentino.
+[[Corralito]] importa en TL como el momento en que la crisis bancaria y de deuda se vuelve experiencia corporal y cotidiana para millones de personas: el Estado y el sistema financiero dejan de ser abstractions y pasan a tocar el ahorro directamente.
 
-## Análisis Terapia Liberal (Cui Bono)
+## Por que importa en TL
 
-### Tier A (Beneficiarios)
+- conecta bancos, corrida, confianza, corralon, trauma social y crisis de representacion;
+- ayuda a leer por que la relacion del argentino con el sistema financiero cambia de forma duradera;
+- funciona como nodo de cruce entre [[Crisis de 2001]], [[Domingo Cavallo]], [[FMI]] y [[Fernando de la Rua]].
 
-- **Bancos:** Evitaron la quiebra inmediata al no tener que devolver los dólares que no tenían (estaban prestados al estado o empresas).
+## Que cambio
 
-## Puntos Clave
+La nota venia como ficha minima, con encoding roto y poco desarrollo para un nodo extremadamente reusable. Se recompila como evento modular del corredor `argentina / bancos / deuda / trauma social`.
 
-- **Trauma:** El argentino promedio no ahorra en bancos desde entonces, prefiere el dólar colchón ("Canuto").
+## Lectura TL
+
+### 1. El dinero deja de estar disponible
+
+En TL, el corralito importa porque condensa en un gesto concreto la ruptura de confianza entre ciudadano, banco y Estado: el dinero "existia", pero no podia tocarse.
+
+### 2. Crisis financiera convertida en trauma cultural
+
+Su valor analitico aumenta cuando se observa que el corralito no fue solo una medida tecnica. Tambien reprogramo practicas de ahorro, miedo bancario y sentido comun economico durante decadas.
+
+### 3. Tecnologia de emergencia y quiebre politico
+
+Leido junto con [[Crisis de 2001]] y [[Fernando de la Rua]], el nodo ayuda a ver como una medida pensada para contener una corrida puede acelerar el colapso politico cuando destruye la ultima capa de legitimidad cotidiana.
+
+### 4. Puente entre finanzas y memoria popular
+
+Tambien importa porque sirve como traductor entre conceptos complejos de deuda o liquidez y una memoria social muy concreta que sigue operando sobre cualquier crisis posterior.
 
 ## Conexiones
 
 - [[Crisis de 2001]]
-- [[Bail-in (Rescate Interno)]]
+- [[Fernando de la Rua]]
 - [[Domingo Cavallo]]
+- [[FMI]]
+- [[Eduardo Duhalde]]

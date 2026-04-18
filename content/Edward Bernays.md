@@ -1,51 +1,49 @@
 ---
-titulo: Edward Bernays
-tipo: "persona"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [bernays, edward, propaganda, sigmund]
 publish: true
+created: 2026-01-29T19:17:11.005-03:00
+modified: 2026-04-17T13:25:35.945-03:00
+tags:
+  - bernays
+  - propaganda
+  - consentimiento
+  - psicologia
+  - tl-intel-v3
 ---
 
 # Edward Bernays
 
-## Perfil TL (Resumen Ejecutivo)
+## BLUF
 
-**¿Quién fue?** Un pionero de las Relaciones Públicas y la propaganda, y sobrino de **Sigmund Freud**. Fue el hombre que aplicó las teorías del psicoanálisis para manipular el subconsciente de las masas.
+[[Edward Bernays]] importa en TL como operador fundador de la propaganda moderna: tradujo psicología, deseo y validación social en técnica de gobierno indirecto.
 
-**¿Por qué importa?** Bernays es el **arquitecto de la sociedad de consumo y la ingeniería social de Tier A**. Fue el primero en entender que para controlar a la gente no hace falta la fuerza física, sino la manipulación de sus deseos e impulsos irracionales. Su técnica, la **"Ingeniería del Consentimiento"**, permitió que las élites gobernaran "invisiblemente" en una democracia aparente. Bernays logró que las mujeres fumaran llamando a los cigarrillos "Antorchas de Libertad", cambió el desayuno americano para incluir tocino por encargo de la industria cárnica y, lo más grave, orquestó la campaña de propaganda para el **Golpe de Estado en Guatemala (1954)** en favor de la United Fruit Company. Bernays es el padre del "Gobierno Invisible" que hoy domina mediante los algoritmos y el marketing político.
+## Por qué importa en TL
 
-## Análisis De Poder (Tiers)
+- conecta propaganda comercial con manipulación política;
+- ayuda a leer la transición desde coerción visible hacia consentimiento fabricado;
+- es nodo clave para entender por qué la lucha por la percepción importa tanto como la lucha por recursos o territorio.
 
-### Tier A (El Gobierno Invisible)
+## Qué cambió
 
-- **La Elite Ilustrada:** Bernays escribió abiertamente en su libro _Propaganda_ (1928) que las masas son estúpidas por naturaleza y que una "minoría inteligente" (el Tier A) debe manipular el mecanismo oculto de la sociedad para evitar el caos. Su filosofía es la base de la gobernanza tecnocrática moderna.
-- **Control Mental Masivo:** Al fusionar el marketing con el psicoanálisis, Bernays entregó al Tier A las llaves del comportamiento humano, permitiendo la creación de una población de consumidores dóciles que creen que sus deseos manipulados son decisiones propias.
+La auditoría de `PSYOPs y Guerra Civil` no abrió un objeto nuevo, pero sí confirmó que Bernays sigue siendo reusable como origen del patrón: de propaganda de masas a gestión algorítmica de percepción.
 
-### Tier B (Operadores / PR Y Propaganda)
+## Lectura TL
 
-- \*\* à¤¯à¥‚à¤¨à¤¾à¤‡à¤Ÿà¥‡à¤¡ à¤«à¥à¤°à¥‚à¤Ÿ à¤•à¤‚à¤ªà¤¨à¥€ (United Fruit Company):\*\* Bernays fue el operador que fabricó la narrativa de la "amenaza comunista" en Guatemala para proteger los intereses bananeros de sus clientes de Tier A, demostrando que el PR puede derrocar gobiernos más eficazmente que un ejército.
-- **Creel Committee:** Trabajó para el gobierno de EE.UU. durante la WWI para convencer a una población aislacionista de ir a morir a Europa, inventando el modelo moderno de propaganda de guerra.
+### 1. Del deseo al control
 
-### Tier C (Narrativa Pública)
+Su aporte no fue solo vender productos. Fue demostrar que se puede gobernar mejor moldeando deseos que imponiendo obediencia por fuerza bruta.
 
-- "Padre de las RRPP modernas". "Genio del marketing". Retratos profesionales que omiten el profundo desprecio de Bernays por la democracia y su rol en la destrucción de soberanías nacionales.
+### 2. Ingeniería del consentimiento
 
-## Conexiones Clave
+La tesis fuerte es que la democracia formal puede convivir con una administración invisible del imaginario público.
 
-- [[Sigmund Freud]] (Su fuente de conocimiento psicológico)
-- [[Propaganda (Libro)]] (Su manifiesto de control)
-- [[Walter Lippmann]] (Su colega en la manufactura del consenso)
-- [[United Fruit Company]] (Su cliente más infame)
+### 3. Del siglo XX al entorno algorítmico
 
-## Fuentes
+El paso contemporáneo no invalida a Bernays. Lo escala. Lo que antes hacían medios, expertos y campañas coordinadas, hoy también lo hacen plataformas, métricas y testing narrativo.
 
-- Edward Bernays: "Propaganda" (1928) e "Ingegniería del Consentimiento" (1947).
-- Adam Curtis: "The Century of the Self" (Documental fundamental).
-- Larry Tye: "The Father of Spin: Edward L. Bernays and the Birth of Public Relations".
+## Conexiones
 
-## Por Qué Importa (Estilo Nico)
-
-> "Bernays es el tipo que te vendió el cigarrillo, el desayuno y la guerra sin que te dieras cuenta. Agarró los papeles de su tío Freud sobre el sexo y los miedos, y los usó para que las corporaciones te manejen como a un títere. Él decía que la democracia es una ficción y que un grupo de tipos inteligentes tiene que decirte qué comprar y qué pensar desde las sombras. Si hoy sentís que necesitás un teléfono nuevo cada año o que hay que ir a bombardear un país porque 'son malos', es porque el fantasma de Bernays sigue trabajando en tu cabeza. Es el inventor del control remoto para humanos."
+- [[Ingenieria de Consentimiento]]
+- [[Walter Lippmann]]
+- [[Propaganda (Libro)]]
+- [[Ray Dalio]]
+- [[Tecnocracia]]

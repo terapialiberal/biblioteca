@@ -40,8 +40,9 @@ Implicaciones: Chips cerebrales, edición genética (CRISPR), úteros artificial
 
 ## Conexiones
 
-- [[Neuralink & Transhumanismo]]
-- [[Agenda Transgénero y Pritzker]] (Paso 1: disociarse del cuerpo)
+- [[Neuralink]]
+- [[Neuralink y la Colmena Esoterica]]
+- [[Agenda Transgenero y Pritzker]] (Paso 1: disociarse del cuerpo)
 - [[World Economic Forum]]
 
 ## Fuentes

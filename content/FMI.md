@@ -1,45 +1,58 @@
 ---
-titulo: FMI (Fondo Monetario Internacional)
-tipo: "entidad"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [banco, confesiones, fondo, internacional]
 publish: true
+aliases:
+  - FMI (Fondo Monetario Internacional)
+  - Fondo Monetario Internacional
+created: 2026-01-29T19:17:13.860-03:00
+modified: 2026-04-18T11:37:42.566-03:00
+tags:
+  - deuda
+  - finanzas
+  - ajuste
+  - organismo-internacional
+  - argentina
+  - tl-intel-v3
 ---
 
-# FMI (Fondo Monetario Internacional)
+# FMI
 
-## Perfil TL (Resumen Ejecutivo)
+## BLUF
 
-**¿Qué es?** Una organización financiera internacional creada en la Conferencia de Bretton Woods para "asegurar la estabilidad del sistema monetario internacional".
+[[FMI]] importa en TL como dispositivo de disciplina financiera internacional: no solo presta, sino que condiciona politica economica, margenes soberanos y arquitectura de decision en paises endeudados.
 
-**¿Por qué importa?** El FMI es el **brazo ejecutor de la esclavitud por deuda de Tier A**. Actúa como el "usurero de última instancia" que rescata no a los países, sino a los bancos privados de Tier A (Wall Street/City de Londres) que prestaron dinero de forma irresponsable. Cuando un país entra en crisis, el FMI inyecta dólares a cambio de los **"Programas de Ajuste Estructural" (PAE)**: una serie de condicionalidades que obligan al país (Tier C) a privatizar sus recursos naturales, precarizar el trabajo, recortar el gasto en salud/educación y abrir sus mercados al capital transnacional. El FMI es el mecanismo que asegura que la soberanía nacional sea una ficción: un país con una deuda impagable con el Fondo deja de ser gobernado por su pueblo y pasa a ser gestionado por tecnócratas de Tier B que responden directamente a los intereses de la banca globalista. Es el sistema de colonización financiera del siglo XXI.
+## Por que importa en TL
 
-## Análisis De Poder (Tiers)
+- conecta deuda externa, condicionalidad, elites financieras y rediseño interno del Estado;
+- ayuda a leer la deuda no solo como problema contable sino como mecanismo de reordenamiento politico;
+- funciona como nodo de cruce entre [[Mauricio Macri]], [[Javier Milei]], [[Toto Caputo]] y [[Banco Mundial]].
 
-### Tier A (Los Dueños De La Arquitectura Financiera)
+## Que cambio
 
-- **El Veto de EE.UU.:** El FMI es un instrumento del poder atlantista. EE.UU. es el único país con poder de veto real sobre las decisiones importantes, asegurando que el Fondo siempre actúe para proteger la hegemonía del dólar y penalizar cualquier intento de independencia económica soberana.
-- **Derechos Especiales de Giro (DEG):** El FMI posee su propia "moneda" (DEG), que busca posicionar como la futura unidad de cuenta global en un mundo post-dólar, centralizando la emisión de valor en una única entidad tecnocrática de Tier A.
+La nota venia como ficha-manifiesto, con encoding roto y una sola lectura maximalista. Se recompila como nodo modular del corredor `deuda / ajuste / gobernanza financiera`.
 
-### Tier B (Operadores / Tecnócratas Y Sicarios Económicos)
+## Lectura TL
 
-- **Misiones del Fondo:** Economistas de Tier B que aterrizan en las capitales del tercer mundo con manuales preestablecidos. Su función es la "Demolición Formateada": destruir la capacidad productiva interna para que el país solo pueda exportar commodities y pagar intereses de deuda eternamente.
-- **Puerta Giratoria:** Muchos directores del FMI provienen o terminan en altos cargos de bancos como Goldman Sachs o el BCE, asegurando la circularidad del poder financiero.
+### 1. Prestamista con capacidad de rediseño
 
-### Tier C (Narrativa Pública)
+En TL, el FMI importa porque no opera solo como acreedor: tambien define ritmos, reformas, prioridades y narrativas de "normalizacion" o "responsabilidad" sobre los paises bajo programa.
 
-- "Asistencia financiera para la estabilidad". "Modernización del Estado". "Camino al crecimiento". Narrativas hipócritas que el Tier C suele rechazar tras ver el empobrecimiento sistemático que sigue a cada "rescate".
+### 2. Deuda como mecanismo de subordinacion
 
-## Conexiones Clave
+Su valor analitico aumenta cuando se observa que el problema no es solo devolver dinero, sino aceptar condicionalidades que alteran politica fiscal, monetaria, laboral y patrimonial.
 
-- [[Banco Mundial]] (El socio para el saqueo de infraestructura)
-- [[BIS (Banco de Pagos Internacionales)]] (La cúpula en Basilea)
-- [[Confesiones de un Sicario Económico]] (El manual operativo)
-- [[Consenso de Washington]] (Su base ideológica)
+### 3. Argentina como laboratorio repetido
 
-## Por Qué Importa (Estilo Nico)
+Leido junto con [[Mauricio Macri]], [[Javier Milei]] y [[Toto Caputo]], el nodo ayuda a ver como el Fondo reaparece una y otra vez en momentos de crisis para ordenar el tablero economico y politico local.
 
-> "El FMI es el tipo que te presta guita para pagar la tarjeta, pero te pide la llave de tu casa y te prohíbe comprarle zapatillas a tus hijos hasta que le pagues los intereses. No están para ayudarte; están para que los bancos de Nueva York no pierdan plata cuando sus negocios salen mal. Son los que vienen a las 3 de la mañana a explicarte que tenés que vender el agua, el gas y los trenes para 'ser un país serio'. Argentina es el cliente VIP de esta estafa: pedimos guita para que se la lleven los amigos del poder y el hambre nos queda a nosotros por 50 años. El FMI es la forma moderna de tener esclavos sin usar cadenas: solo necesitás un contrato legal y un político que firme entregando el futuro del país."
+### 4. Interfaz entre tecnocracia y poder global
+
+Tambien importa porque permite pensar la convergencia entre burocracia internacional, grandes bancos, consultoria financiera y elites locales en una misma arquitectura de gobierno indirecto.
+
+## Conexiones
+
+- [[Banco Mundial]]
+- [[BIS]]
+- [[Mauricio Macri]]
+- [[Toto Caputo]]
+- [[Javier Milei]]
+- [[Consenso de Washington]]

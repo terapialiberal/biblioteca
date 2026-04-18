@@ -18,7 +18,7 @@ publish: true
 
 Davis escribió desde cero (incluyendo compiladores y drivers) un SO de 64 bits y 100.000 líneas de código.
 
-- **Ring 0 Permanente:** TempleOS opera sin protecciones de memoria, dándole al programador control total sobre el hardware. Esto es lo opuesto a la arquitectura de vigilancia de [[Palantir CIA]] o Microsoft.
+- **Ring 0 Permanente:** TempleOS opera sin protecciones de memoria, dándole al programador control total sobre el hardware. Esto es lo opuesto a la arquitectura de vigilancia de [[Palantir]] o Microsoft.
 - **Oráculo Digital:** Incluyó algoritmos de generación aleatoria para "hablar con Dios", una forma arcaica y pura de lo que hoy llamamos IA generativa estocástica.
 
 ## 🕵️ El Acoso del Tier B

@@ -38,7 +38,8 @@ El objetivo final no es la "tolerancia", sino el **Transhumanismo**: la desconex
 
 ## Conexiones
 
-- [[Neuralink & Transhumanismo]] (el destino final)
+- [[Neuralink]] (carril factual)
+- [[Neuralink y la Colmena Esoterica]] (lectura simbólica del destino final)
 - [[Pfizer]] (beneficiario hormonal)
 - [[George Soros]] (Open Society también financia esto)
 

@@ -3,8 +3,9 @@ publish: true
 aliases:
   - Vanguard
   - The Vanguard Group
+  - Grupo Vanguard (Vanguard Group)
 created: 2026-01-29T19:17:42.828-03:00
-modified: 2026-04-07T11:16:21.916-03:00
+modified: 2026-04-17T13:46:34.777-03:00
 tags:
   - vanguard
   - gestores-de-activos
@@ -13,7 +14,8 @@ tags:
   - tl-intel-v3
 ---
 
-# [[Vanguard Group]]
+# Vanguard Group
 
-> [!abstract] PERFIL TL-INTEL
-> Gestor de activos sistémico con bajo perfil público y altísima centralidad estructural en la propiedad común de corporaciones estratégicas.
+Nota espejo para enlaces en ingles y variantes históricas del nombre.
+
+Ver nota compilada principal: [[Grupo Vanguard (Vanguard Group)]].

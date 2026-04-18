@@ -40,7 +40,8 @@ Se conecta con la red 5G/6G para transmitir datos en tiempo enjambre.
 
 - [[DARPA]]
 - [[00_Glosario - Conceptos Fase 1#Chemtrails (Geoingeniería)|Chemtrails (Geoingeniería)]] (Possible método de dispersión)
-- [[Internet de los Cuerpos (IoB)]]
+- [[Internet de los Cuerpos]]
+- [[Internet of Bio-Nano Things]]
 
 ## Fuentes
 

@@ -1,45 +1,56 @@
 ---
-titulo: Ford Foundation
-tipo: "persona"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [black, divide, ford, foundation]
 publish: true
+aliases:
+  - Ford Foundation
+  - Fundación Ford
+created: 2026-01-29T19:17:13.906-03:00
+modified: 2026-04-18T10:56:38.834-03:00
+tags:
+  - fundacion-ford
+  - fundaciones
+  - identidad
+  - guerra-cultural
+  - tl-intel-v3
 ---
 
-# Ford Foundation
+# Fundacion Ford
 
-## Perfil TL (Resumen Ejecutivo)
+## BLUF
 
-**¿Qué es?** Una de las fundaciones filantrópicas más ricas del mundo, originalmente constituida con la fortuna de Henry Ford, pero que desde los años 50 opera en estrecha coordinación con los objetivos del Departamento de Estado y la inteligencia de EE.UU.
+[[Fundacion Ford]] importa en TL como uno de los grandes brazos filantrópicos de ingeniería social y producción de agenda del siglo XX y XXI: su relevancia está menos en una causa puntual que en su capacidad de financiar marcos, actores, departamentos académicos y movimientos compatibles con cierto orden liberal-atlantista.
 
-**¿Por qué importa?** La Fundación Ford es el **cajero automático de la ingeniería social de Tier A para la fragmentación de la sociedad**. Fue pionera en el uso de la filantropía como fachada para la **Guerra Fría Cultural**, financiando a intelectuales y artistas para que promovieran una visión del mundo alineada con el liberalismo atlantista. En las últimas décadas, ha sido el principal motor financiero de la **Política de Identidad (Woke)**, inyectando billones de dólares en la creación de departamentos de "Estudios de Género", "Teoría Crítica de la Raza" y movimientos como **Black Lives Matter**. Su objetivo técnico es el **[[Divide y Vencerás]]**: reemplazar la lucha de clases económica por una guerra permanente de identidades (raza vs raza, sexo vs sexo), asegurando que el Tier C nunca se una contra el Tier A financiero mientras se distrae en conflictos culturales manufacturados.
+## Por que importa en TL
 
-## Análisis De Poder (Tiers)
+- conecta fundaciones, universidad, ONGs y guerra cultural;
+- ayuda a leer la filantropía como infraestructura de fragmentación, legitimidad y dirección ideológica;
+- funciona como nodo hermano de [[Fundacion Rockefeller]] en múltiples corredores culturales e institucionales.
 
-### Tier A (El Nexo Inteligencia-Filantropía)
+## Que cambio
 
-- **Fachada de la CIA:** Durante la Guerra Fría, la Fundación Ford fue identificada por informes del Congreso (Comisión Church) como uno de los principales conductos para pasar fondos de la CIA a ONGs y académicos internacionales sin dejar rastro estatal.
-- **Diseño de la Agenda Global:** Junto con Rockefeller y George Soros, el Tier A de Ford decide qué temas serán "urgentes" en la agenda global (cambio climático, cuotas de género, migración masiva), financiando a los "expertos" que luego validarán estas agendas en la ONU y los medios.
+La nota venía con tipo mal clasificado y framing demasiado cerrado en una sola tesis de captura total. Se recompila como nodo modular del corredor `fundaciones / identidad / cultura`.
 
-### Tier B (Operadores / Academia Y ONGs "Astro-turf")
+## Lectura TL
 
-- **Captura de la Universidad:** Mediante grants masivos, Ford ha transformado las ciencias sociales en laboratorios de activismo identitario. Si un profesor quiere financiamiento, debe investigar bajo los marcos ideológicos que la fundación aprueba.
-- **Creación de Líderes de Identidad:** Financian y forman a "activistas" de Tier B que parecen surgir orgánicamente de las bases, pero que en realidad son cuadros entrenados para canalizar el descontento social hacia objetivos que no amenazan el poder corporativo.
+### 1. Filantropía como curaduría del conflicto
 
-### Tier C (Narrativa Pública)
+Fundación Ford importa porque no solo dona: ayuda a decidir qué formas de protesta, lenguaje crítico y marcos académicos reciben amplificación, prestigio y recursos.
 
-- "Avanzando en la justicia social". "Reduciendo la desigualdad". Narrativas morales de alta resonancia que sirven de cobertura para una operación de control ideológico y desarticulación del tejido social nacional.
+### 2. Universidad y ONG como carriles
 
-## Conexiones Clave
+En TL, su valor analítico aumenta cuando se observa cómo departamentos, grants y organizaciones civiles pueden orientar el debate social sin necesidad de imponerlo por ley.
 
-- [[CIA / Guerra Fría Cultural]] (Su origen operativo)
-- [[Black Lives Matter]] (Su proyecto de desestabilización racial)
-- [[Escuela de Frankfurt]] (La teoría que ellos financiaron para su praxis)
-- [[Rockefeller Foundation]] (Sus socios históricos en el Tier A)
+### 3. Identidad y fragmentación
 
-## Por Qué Importa (Estilo Nico)
+Su peso se vuelve más claro al leer cómo ciertos conflictos culturales y de identidad pueden escalar mientras otros ejes materiales quedan relegados.
 
-> "La Fundación Ford es la billetera de los que quieren que te pelees con tu vecino para que no mires a los que están arriba. Son los que inventaron la 'corrección política' y los que pagan para que en las universidades solo se hable de género y raza mientras los bancos te licúan el sueldo. No son 'progresistas' por bondad; son multimillonarios de Tier A que usan su guita para fragmentar a la gente en mil pedacitos. Si cada uno está en su 'burbuja de identidad', nadie se junta para reclamar por el precio de la comida o la estafa de la deuda. Son los arquitectos del odio moderno disfrazados de santos de la justicia social."
+### 4. Nodo central del corredor cultural
+
+Leída junto con [[Fundacion Rockefeller]], [[Escuela de Frankfurt]] y [[Feminismo e Inteligencia]], la Fundación Ford ayuda a reconstruir la infraestructura blanda de la guerra cultural contemporánea.
+
+## Conexiones
+
+- [[Fundacion Rockefeller]]
+- [[Escuela de Frankfurt]]
+- [[Feminismo e Inteligencia]]
+- [[Black Lives Matter]]
+- [[CIA / Guerra Fría Cultural]]

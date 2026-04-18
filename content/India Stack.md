@@ -42,6 +42,6 @@ publish: true
 
 ## 🔗 Conexiones Críticas
 
-- [[Worldcoin (Orb)]]: Aadhaar es la versión estatal; Worldcoin es la versión corporativa del mismo collar digital.
+- [[Worldcoin]]: Aadhaar es la versión estatal; Worldcoin es la versión corporativa del mismo collar digital.
 - [[Scott Bessent]]: El Tesoro de EEUU observa el éxito de UPI para el despliegue de FedNow.
 - [[Digital ID - Global Protocol]]: El objetivo final de la convergencia de estas redes.

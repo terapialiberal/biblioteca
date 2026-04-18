@@ -1,9 +1,9 @@
 ---
 publish: true
 aliases:
-  - "Litio Y Comando Sur: La Militarización De Los Recursos"
+  - "Litio y Comando Sur: La Militarizacion de los Recursos"
 created: 2026-01-29T19:17:22.692-03:00
-modified: 2026-04-07T11:48:04.558-03:00
+modified: 2026-04-18T12:32:11.443-03:00
 tags:
   - litio
   - comando-sur
@@ -13,37 +13,46 @@ tags:
   - tl-intel-v3
 ---
 
-# [[Litio y Comando Sur]]
+# Litio y Comando Sur
 
-> [!abstract] PERFIL TL-INTEL
-> Lectura geopolítica del litio como recurso estratégico bajo creciente atención militar y de seguridad hemisférica.
+## BLUF
 
-## Contexto
+[[Litio y Comando Sur]] importa en TL como subnodo del corredor `litio / seguridad / geopolitica`: muestra como un recurso minero pasa a ser leido en clave militar, logistica y de competencia entre potencias.
 
-Las declaraciones del Comando Sur sobre el “Triángulo del Litio” muestran que el recurso dejó de ser solo commodity. En TL se lo lee como activo de disputa entre seguridad, cadenas tecnológicas, capital minero y competencia con China.
+## Por que importa en TL
 
-## Capas de análisis
+- conecta [[Triangulo del Litio]] con [[Comando Sur]] y la disputa con China;
+- permite separar el nodo recurso del nodo aparato militar sin perder la articulacion;
+- funciona como pieza de writeback para la rama argentina y la rama geopolitica mas amplia.
 
-### Tier B
+## Que cambio
 
-El aparato militar formula la narrativa de aseguramiento de recursos y contención estratégica.
+Se limpia encoding y se baja a formato modular. Esta nota queda como derivacion especifica de [[Comando Sur]] aplicada al litio.
 
-### Tier A
+## Lectura TL
 
-Fondos, mineras y redes financieras se benefician de un entorno geopolítico estabilizado a su favor.
+### 1. El recurso cambia de lenguaje
 
-### Territorio
+Cuando el litio entra en el lenguaje del Comando Sur, deja de ser solo tema de mercado o mineria. Pasa a ser leido como insumo critico de seguridad, tecnologia y disputa de cadenas globales.
 
-Argentina, Chile y Bolivia aparecen menos como soberanías plenas y más como nodos de extracción dentro de una disputa mayor.
+### 2. Cobertura militar para intereses economicos
+
+TL usa esta nota para pensar como los actores financieros y extractivos se benefician cuando la estabilidad del recurso pasa a tratarse como asunto geoestrategico.
+
+### 3. Territorio subordinado a tablero mayor
+
+Argentina, Chile y Bolivia aparecen aqui no solo como productores, sino como nodos subordinados a una disputa de escala mayor por baterias, cadenas tecnologicas y control de oferta.
 
 ## Conexiones
 
+- [[Comando Sur]]
+- [[Triangulo del Litio]]
 - [[Laura Richardson]]
 - [[BlackRock]]
-- [[Vanguard Group]]
+- [[Grupo Vanguard (Vanguard Group)]]
 - [[Arcadium]]
 - [[Argentina]]
 
-## Observación operativa
+## Observacion operativa
 
-Cuando seguridad nacional extranjera empieza a hablar de “nuestros recursos” en Sudamérica, el debate ya no es solo económico. Es geopolítico y logístico.
+Cuando seguridad nacional extranjera empieza a hablar de "nuestros recursos" en Sudamerica, el debate ya no es solo economico. Es geopolitico y logistico.

@@ -1,36 +1,57 @@
 ---
-titulo: Javier Milei - El Experimento Libertario Atlantista
-tipo: "persona"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [atlantista, experimento, israel, libertario]
 publish: true
+aliases:
+  - Javier Milei - El Experimento Libertario Atlantista
+created: 2026-01-29T19:17:19.381-03:00
+modified: 2026-04-18T11:30:17.162-03:00
+tags:
+  - argentina
+  - milei
+  - gobierno
+  - ajuste
+  - oficialismo
+  - tl-intel-v3
 ---
 
-# [[Javier Milei - El Experimento Libertario Atlantista]]
+# Javier Milei
 
-**Clasificación:** Tier C (Ejecutor Político / Laboratorio de Reformas)\
-**Rol Actual:** Presidente de Argentina.
+## BLUF
 
-## 🦾 ANÁLISIS FORENSE
+[[Javier Milei]] importa en TL como figura de reconfiguracion del poder argentino: mezcla insurgencia narrativa, ajuste economico, centralizacion del entorno y uso intenso del conflicto como tecnica de gobierno.
 
-Milei no es un rebelde contra "la élite"; es el ejecutor de un experimento de **Apertura de Activos Críticos**. Su alineamiento con [[US]] e [[Israel]] es absoluto, buscando insertar a Argentina en la arquitectura del [[Rimland]] del hemisferio sur.
+## Por que importa en TL
 
-### Señales Críticas (2025-2026)
+- conecta oficialismo actual, ajuste, mesa chica, inteligencia, redes y reordenamiento del sistema politico;
+- ayuda a leer el mileismo no solo como liderazgo carismatico sino como forma de reorganizar elites, disciplina institucional y clima social;
+- funciona como nodo de cruce entre [[Karina Milei]], [[Santiago Caputo]], [[AFI]], [[Mauricio Macri]] y [[FMI]].
 
-- **NATO Global Partner:** El pedido formal de ingreso a [[NATO]] y la compra de F-16 aseguran que el hardware militar argentino sea dependiente de Washington por 30 años.
-- **Cui Bono Minero:** Liberalización total del [[Litio]]. Acuerdo de minerales críticos con US (2026) para excluir a China de la cadena de suministro en Salta y Jujuy.
-- **A-Ideología Táctica:** Usa retórica contra la "casta" para desmantelar estructuras de Tier C locales y transferir activos a fondos de Tier A ([[BlackRock]], [[Vanguard]]).
+## Que cambio
 
-### Falsabilidad
+La nota venia como pieza muy cerrada en una tesis geopolítica única, con encoding roto y apoyada en una constelación distinta a la que hoy venimos saneando. Se recompila como perfil modular del corredor `argentina / oficialismo / ajuste / operadores`.
 
-Su hipótesis caería si nacionaliza algún recurso estratégico o si se acerca comercialmente a China por fuera de los límites permitidos por el Departamento de Estado de US.
+## Lectura TL
 
-## 🔗 CONEXIONES
+### 1. Liderazgo carismatico con entorno muy concentrado
 
-- [[Litio]]
-- [[NATO]]
-- [[BlackRock]]
-- [[AUKUS II - Expansion Japon]] (Aspiración de socio periférico)
+En TL, Milei importa por la combinacion entre figura disruptiva de alto voltaje y una estructura de poder extremadamente cerrada, donde el acceso, la estrategia y la administracion del conflicto quedan muy concentrados.
+
+### 2. Ajuste economico y reordenamiento de elites
+
+Leido junto con [[FMI]] y la capa empresaria del sistema argentino, el nodo sirve para ver como el discurso anti casta puede convivir con una rearticulacion de viejas y nuevas elites alrededor del ajuste, la deuda y la gobernabilidad.
+
+### 3. Narrativa permanente como metodo
+
+Su valor analitico aumenta cuando se observa el conflicto no como efecto secundario sino como metodo: polarizacion, choque simbólico, saturacion digital y redefinicion constante del enemigo.
+
+### 4. Gobierno de operadores ademas de presidente
+
+Conectado a [[Karina Milei]], [[Santiago Caputo]] y [[AFI]], el nodo ayuda a pensar el mileismo como arquitectura de poder y no solo como biografia presidencial.
+
+## Conexiones
+
+- [[Karina Milei]]
+- [[Santiago Caputo]]
+- [[AFI]]
+- [[FMI]]
+- [[Mauricio Macri]]
+- [[Victoria Villarruel]]

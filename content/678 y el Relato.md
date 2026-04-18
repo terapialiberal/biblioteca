@@ -1,33 +1,54 @@
 ---
 publish: true
-titulo: 678 Y El Relato
-tipo: "concepto"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [cristina, naciones, relato]
+created: 2026-01-29T19:17:02.626-03:00
+modified: 2026-04-18T11:55:40.475-03:00
+tags:
+  - argentina
+  - kirchnerismo
+  - medios
+  - relato
+  - propaganda
+  - tl-intel-v3
 ---
 
-# 678 Y El Relato
+# 678 y el Relato
 
-## Resumen General
+## BLUF
 
-Programa emitido por la TV Pública (2009-2015). Producido por **Diego Gvirtz**. Fue la punta de lanza de la "Batalla Cultural" K. Se dedicaba a repetir archivos para exponer contradicciones de periodistas opositores ("El archivo mata"). Institucionalizó el **Escrache** mediático financiado con impuestos de todos. Logró fanatizar a la militancia pero alienó a la clase media.
+[[678 y el Relato]] importa en TL como laboratorio televisivo de propaganda oficialista, disciplinamiento narrativo y militancia mediática durante el kirchnerismo.
 
-## Análisis Terapia Liberal (Cui Bono)
+## Por que importa en TL
 
-### Tier A (Beneficiarios)
+- conecta TV Pública, relato oficial, escrache mediático y pedagogía militante;
+- ayuda a leer la batalla cultural kirchnerista como dispositivo institucionalizado y no solo espontáneo;
+- funciona como nodo de cruce entre [[Pauta Oficial]], [[Cristina Kirchner]] y la capa mediática del kirchnerismo.
 
-- **[[Cristina Kirchner]]:** Tenía [[Naciones Unidas (ONU)]] programa de defensa incondicional en el prime time estatal.
+## Que cambio
 
-## Puntos Clave
+La nota venía como ficha mínima, con encoding roto y errores básicos de redacción. Se recompila como concepto modular del corredor `argentina / medios / propaganda / kirchnerismo`.
 
-- **Invitados:** Solo iban oficialistas. Se creó una cámara de eco hermética.
-- **Legado:** El formato de "clips de archivo" fue copiado luego por los libertarios en redes (tanques mediáticos).
+## Lectura TL
+
+### 1. Programa como aparato
+
+En TL, 678 importa porque no fue solo un show de panel. Fue un formato estable para ordenar emociones políticas, marcar enemigos y fijar lenguaje dentro de una parte del oficialismo.
+
+### 2. Archivo como arma
+
+Su valor analítico aumenta cuando se observa cómo el uso selectivo de archivos, clips y contradicciones convertía la televisión en una herramienta de exposición, humillación y cierre del debate.
+
+### 3. Estado financiando militancia mediática
+
+Leído junto con [[Pauta Oficial]], el nodo ayuda a ver cómo recursos públicos, narrativa y producción audiovisual pueden converger en una misma infraestructura de fidelización política.
+
+### 4. Precedente reusable
+
+También importa porque varios formatos posteriores, incluso de signo ideológico distinto, heredan algo de su lógica: saturación, corte de archivo, enemigo ridiculizado y consumo militante del conflicto.
 
 ## Conexiones
 
 - [[Pauta Oficial]]
+- [[Cristina Kirchner]]
+- [[Pagina 12]]
+- [[Batalla Cultural (Argentina)]]
 - [[Propaganda]]
-- [[00_Glosario - Conceptos Fase 1#Kirchnerismo|Kirchnerismo]]

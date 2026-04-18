@@ -1,34 +1,59 @@
 ---
-titulo: AFI (Agencia Federal De Inteligencia)
-tipo: "entidad"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [agencia, estado, inteligencia, jaime]
 publish: true
+aliases:
+  - AFI (Agencia Federal de Inteligencia)
+  - Agencia Federal de Inteligencia
+created: 2026-01-29T19:17:02.943-03:00
+modified: 2026-04-18T11:24:28.609-03:00
+tags:
+  - argentina
+  - inteligencia
+  - espionaje
+  - carpetazos
+  - stiuso
+  - estado-profundo
+  - tl-intel-v3
 ---
 
-# AFI (Agencia Federal De Inteligencia)
+# AFI
 
-## Resumen General
+## BLUF
 
-Sucesora de la **SIDE** (Secretaría de Inteligencia del Estado). Históricamente, no se dedicó a proteger al país de amenazas externas (terrorismo), sino a espiar a opositores políticos, jueces y periodistas para el presidente de turno ("Carpetazos"). Funciona con fondos reservados millonarios sin control del Congreso. Es el corazón del [[Estado profundo]] argentino.
+[[AFI]] importa en TL como nodo central del espionaje politico argentino: concentra informacion sensible, operaciones internas, carpetazos, mediacion con justicia y capacidad de presion sobre actores estatales y no estatales.
 
-## Análisis Terapia Liberal (Cui Bono)
+## Por que importa en TL
 
-### Tier A (Beneficiarios)
+- conecta inteligencia, presidentes, jueces, periodistas y operadores inorganicos;
+- ayuda a leer el espionaje local como herramienta de arbitraje interno mas que de defensa nacional;
+- funciona como nodo de cruce entre [[Jaime Stiuso]], [[Jueces Federales de Comodoro Py]] y [[Lawfare]].
 
-- **Presidente de Turno:** Usa la AFI para disciplinar a propios y extraños.
-- **Espías Inorgánicos:** Viven de vendor información y extorsionar en el mercado paralelo.
+## Que cambio
 
-## Puntos Clave
+La nota venia como ficha corta, con encoding roto y demasiado resumida para el peso real del nodo. Se recompila como entidad modular del corredor `argentina / inteligencia / justicia / carpetazos`.
 
-- **Stiuso:** El director operativo que manejó la agencia durante 40 años hasta que CFK lo echó.
-- **Muerte de Nisman:** El evento que expuso la guerra interna de la AFI.
+## Lectura TL
+
+### 1. Inteligencia orientada hacia adentro
+
+En TL, la AFI importa menos por su rol teorico de seguridad exterior y mas por su uso historico en vigilancia interna, administracion de informacion comprometida y disputa entre facciones del poder argentino.
+
+### 2. Carpeta, escucha y negociacion
+
+Su valor analitico aparece cuando se la lee no solo como organismo formal sino como mercado de informacion: expedientes, grabaciones, filtraciones y relaciones personales que pueden activar o desactivar carreras politicas y judiciales.
+
+### 3. Interfaz con justicia y medios
+
+Leida junto con [[Jueces Federales de Comodoro Py]], [[Lawfare]] y operadores mediaticos, la AFI ayuda a explicar como inteligencia, tapa de diario y proceso judicial pueden encadenarse dentro del mismo ecosistema.
+
+### 4. Continuidad por encima de gobiernos
+
+La agencia cambia de nombre, jefes y discurso, pero el nodo importa porque muestra continuidad operativa mas alla de la rotacion democratica y de los relatos oficiales sobre reforma institucional.
 
 ## Conexiones
 
 - [[Jaime Stiuso]]
-- [[Alberto Nisman]]
-- [[Carpeta (Extorsión)]]
+- [[Muerte de Alberto Nisman]]
+- [[Jueces Federales de Comodoro Py]]
+- [[Lawfare]]
+- [[Cristina Kirchner]]
+- [[Carpeta]]

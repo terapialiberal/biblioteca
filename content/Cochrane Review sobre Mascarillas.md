@@ -25,4 +25,4 @@ La Colaboración Cochrane (el estándar más alto de evidencia médica) revisó 
 ## Conexiones
 
 - [[Teatro de Seguridad]]
-- [[OMS]]
+- [[World Health Organization]]

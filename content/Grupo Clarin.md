@@ -1,45 +1,59 @@
 ---
-titulo: Grupo Clarín
-tipo: "persona"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [clarn, grupo, hctor, papel]
 publish: true
+aliases:
+  - Grupo Clarin
+  - Grupo Clarín
+created: 2026-01-29T19:17:16.060-03:00
+modified: 2026-04-18T11:16:24.057-03:00
+tags:
+  - argentina
+  - medios
+  - telecom
+  - narrativa
+  - lawfare
+  - magnetto
+  - tl-intel-v3
 ---
 
-# Grupo Clarín
+# Grupo Clarin
 
-## Perfil TL (Resumen Ejecutivo)
+## BLUF
 
-**¿Qué es?** El conglomerado de medios y telecomunicaciones más poderoso de Argentina, propietario del diario Clarín, Canal 13, TN, Radio Mitre, y controlante de Telecom/Cablevisión.
+[[Grupo Clarin]] importa en TL como nodo central de poder mediatico argentino: combina agenda periodistica, infraestructura de distribucion, legitimidad publica y capacidad de presion sobre gobiernos, jueces y clima social.
 
-**¿Por qué importa?** El Grupo Clarín es el **"Estado de Percepción Permanente" en Argentina**. No es solo un holding de medios; es un actor de Tier A que sobrevive y condiciona a todos los gobiernos de Tier B desde la dictadura militar hasta el presente. Su poder reside en la **verticalidad de la información**: puede instalar un tema en la tapa del diario un domingo, reproducirlo en la radio el lunes, y convertirlo en un escándalo televisivo el martes, forzando la renuncia de ministros o la sanción de leyes. Su fusión con Telecom lo convirtió en el dueño de la "autopista" (Internet) por donde viaja la información, cerrando el círculo del control cognitivo en el país. Representa al **"Círculo Rojo"** que decide quién es un candidato viable y quién debe ser destruido mediante el lawfare mediático.
+## Por que importa en TL
 
-## Análisis De Poder (Tiers)
+- conecta medios, opinion publica, justicia, telecomunicaciones y disciplina politica;
+- ayuda a leer la informacion como infraestructura de poder y no solo como contenido;
+- funciona como nodo de cruce entre [[Lawfare]], [[Cristina Kirchner]] y [[Jueces Federales de Comodoro Py]].
 
-### Tier A (Los Dueños De La Agenda Nacional)
+## Que cambio
 
-- **Héctor Magnetto:** El CEO de Tier A que encarna la frase "la presidencia es un cargo menor". Magnetto ha negociado con militares, peronistas, radicales y liberales, obteniendo siempre concesiones críticas (Papel Prensa, fusión con Cablevisión, desmantelamiento de la Ley de Medios).
-- **Monopolio del Papel y los Bits:** Al controlar Papel Prensa (insumo físico) y Telecom (insumo digital), el Grupo Clarín posee los medios de producción de la realidad argentina.
+La nota venia como ficha vieja, con encoding roto, tipo mal clasificado y demasiado cerrada en tono de manifiesto. Se recompila como nodo modular del corredor `argentina / medios / justicia / poder blando`.
 
-### Tier B (Operadores / Periodismo De Guerra)
+## Lectura TL
 
-- **Periodismo de Guerra:** El Tier B periodístico de Clarín no "informa", sino que opera bajo una lógica militar de amigo-enemigo. Utilizan la filtración selectiva de expedientes judiciales para destruir reputaciones y blindar a sus aliados políticos de turno.
-- **Lobistas Corporativos:** Ejecutivos de Tier B que operan en las secretarías de comunicaciones para redactar decretos a medida que impidan la competencia y aseguren la pauta oficial millonaria.
+### 1. Medio, holding y maquina de clima
 
-### Tier C (Narrativa Pública)
+En TL, Clarin no importa solo como diario o canal. Importa como sistema de produccion de clima politico, amplificacion selectiva y coordinacion narrativa sobre distintos soportes.
 
-- "La realidad como es". "Periodismo independiente". Narrativas de protección democrática que el Tier C consume masivamente, sin percibir que su "opinión pública" es, a menudo, el resultado de una campaña de saturación diseñada en las oficinas de la calle Arroyo para proteger los activos del holding.
+### 2. Poder de agenda y poder de infraestructura
 
-## Conexiones Clave
+Su peso historico no viene solo de tapas o editoriales. Tambien viene de haber combinado contenido, distribucion y posicion dominante en segmentos clave de la cadena informativa y de conectividad.
 
-- [[Héctor Magnetto]] (El arquitecto del poder)
-- [[Papel Prensa]] (El origen del monopolio)
-- [[Telecom / Cablevisión]] (El poder de la infraestructura)
-- [[Lawfare]] (Su arma judicial-mediática)
+### 3. Guerra con gobiernos, no distancia del poder
 
-## Por Qué Importa (Estilo Nico)
+Leido en perspectiva larga, el grupo no opera como actor externo a la politica sino como jugador estructural que negocia, confronta o condiciona gobiernos segun intereses, regulacion y equilibrio de fuerzas.
 
-> "Clarín no es un diario, es una embajada sin bandera. Es el verdadero poder en Argentina. Dicen que Magnetto te pone un presidente con tres tapas de domingo y te lo saca con dos. Se comieron todos los cables, todas las radios y ahora son dueños de Internet con Telecom. Pelearon contra los Kirchner por la guita de la pauta y la Ley de Medios, y ganaron ellos. Son el ejemplo perfecto de que el Tier A no vota; el Tier A decide qué es lo que vos vas a votar mañana cuando abrís el diario. Si querés saber quién manda en serio en el país, fijate quién es el que nunca va preso pase lo que pase."
+### 4. Bisagra con lawfare y opinion publica
+
+Leido junto con [[Lawfare]] y [[Jueces Federales de Comodoro Py]], el nodo ayuda a pensar como filtraciones, tapas, panelismo y tiempo judicial pueden reforzarse entre si sin necesidad de coordinacion perfecta.
+
+## Conexiones
+
+- [[Lawfare]]
+- [[Cristina Kirchner]]
+- [[Jueces Federales de Comodoro Py]]
+- [[Héctor Magnetto]]
+- [[Nestor Kirchner]]
+- [[Mauricio Macri]]

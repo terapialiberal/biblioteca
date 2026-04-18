@@ -1,35 +1,54 @@
 ---
-titulo: Vaca Muerta
-tipo: "persona"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [chevron, fracking, muerta, vaca]
 publish: true
+created: 2026-01-29T19:17:42.726-03:00
+modified: 2026-04-18T12:08:11.416-03:00
+tags:
+  - argentina
+  - energia
+  - shale
+  - vaca-muerta
+  - fracking
+  - tl-intel-v3
 ---
 
 # Vaca Muerta
 
-## Resumen General
+## BLUF
 
-Formación geológica en Neuquén. Es la segunda reserva mundial de **Shale Gas** y cuarta de **Shale Oil**. Su potential podría dar a Argentina autosuficiencia energética y superávit comercial por décadas. Sin embargo, require inversiones masivas (Fracking) y tecnología de EE.UU. Su desarrollo fue impulsado tras el acuerdo secreto [[YPF]]-Chevron.
+[[Vaca Muerta]] importa en TL como uno de los activos estrategicos centrales de la Argentina contemporanea: concentra la promesa de dolares, autonomia energetica, dependencia tecnologica y disputa geoeconomica.
 
-## Análisis Terapia Liberal (Cui Bono)
+## Por que importa en TL
 
-### Tier A (Beneficiarios)
+- conecta shale, fracking, YPF, multinacionales, subsidios y necesidad estructural de divisas;
+- ayuda a leer la energia no solo como recurso natural sino como tablero de soberania y condicionamiento;
+- funciona como nodo de cruce entre [[YPF]], [[Techint]], [[Javier Milei]] y la urgencia macroeconomica argentina.
 
-- **Multinacionales (Chevron, Shell, Exxon):** Acceden a recursos baratos con subsidios estatales (Plan Gas).
-- **Estado Argentino:** Única esperanza de conseguir dólares genuinos para pagar la deuda eterna.
+## Que cambio
 
-## Puntos Clave
+La nota venia como ficha vieja, con tipo mal clasificado, encoding roto y poco desarrollo para un nodo tan central. Se recompila como concepto modular del corredor `argentina / energia / shale / divisas`.
 
-- **Acuerdo [[YPF]]-Chevron:** Cristinismo tuvo que firmar cláusulas secretas cediendo soberanía judicial para atraer a Chevron.
-- **Impacto Ambiental:** El fracking genera resistencia por sismos y contaminación de acuíferos, a menudo ignorada.
+## Lectura TL
+
+### 1. Recurso promesa y recurso condicion
+
+En TL, Vaca Muerta importa porque se presenta como llave de salida para la restriccion externa argentina, pero al mismo tiempo depende de infraestructura, reglas, tecnologia y capital que pueden volverla otra forma de dependencia.
+
+### 2. Dolares, subsidios y poder
+
+Su valor analitico aumenta cuando se observa que el problema no es solo extraer hidrocarburos, sino decidir quien captura la renta, bajo que subsidios, con que marco regulatorio y para financiar que tipo de equilibrio politico.
+
+### 3. Energia y geoeconomia
+
+Leida junto con [[YPF]] y el tablero regional, ayuda a pensar la Argentina como territorio energetico que no puede separar del todo politica domestica, infraestructura y negociacion con actores externos.
+
+### 4. Concepto reusable para la rama Argentina
+
+Tambien importa porque vincula de forma directa la capa economica, la soberania territorial y la narrativa de futuro del pais.
 
 ## Conexiones
 
 - [[YPF]]
-- [[Chevron]]
-- [[Fracking]]
-- [[Soberanía Energética]]
+- [[Techint]]
+- [[Javier Milei]]
+- [[Axel Kicillof]]
+- [[Base China en Neuquen]]

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:20.064-03:00
-modified: 2026-04-07T11:14:53.392-03:00
+modified: 2026-04-07T11:48:38.613-03:00
 tags:
   - cartel
   - descodificador

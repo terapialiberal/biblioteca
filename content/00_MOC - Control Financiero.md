@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-24T13:32:27.996-03:00
-modified: 2026-04-07T10:47:07.611-03:00
+modified: 2026-04-17T13:56:08.856-03:00
 tags:
   - moc
   - control-financiero
@@ -34,7 +34,7 @@ tags:
 ## Gestores y Consolidadores
 
 - [[BlackRock]]
-- [[Vanguard Group]]
+- [[Grupo Vanguard (Vanguard Group)]]
 - [[State Street]]
 - [[BlackRock - Vanguard - State Street]]
 - [[Estudio de las 147 Corporaciones (ETH Zurich)]]
@@ -82,6 +82,8 @@ tags:
 
 - [[00_Mapa_de_Poder_Global_A-Z]]
 
+- [[06_Videos_Publicados/2026/2026-04-15_LAS GUERRAS MAGA/00_ARCHIVO_2026-04-15_LAS_GUERRAS_MAGA.md|00_ARCHIVO_2026-04-15_LAS_GUERRAS_MAGA]]
+
 - [[00_MOC - Control Financiero.md|00_MOC - Control Financiero]]
 
 - [[Alan Greenspan.md|Alan Greenspan]]
@@ -91,6 +93,8 @@ tags:
 - [[Astrologia Financiera.md|Astrologia Financiera]]
 
 - [[Banca en la Sombra.md|Banca en la Sombra]]
+
+- [[Banco Mundial.md|Banco Mundial]]
 
 - [[BIS.md|BIS]]
 
@@ -110,7 +114,11 @@ tags:
 
 - [[Credito privado.md|Credito privado]]
 
-- [[03_Produccion/2026-04-15_LAS GUERRAS MAGA/DIAGRAMA_Bretton_Woods_2_Petrodolar_Deuda.md|DIAGRAMA_Bretton_Woods_2_Petrodolar_Deuda]]
+- [[Crisis de 2001.md|Crisis de 2001]]
+
+- [[06_Videos_Publicados/2026/2026-04-15_LAS GUERRAS MAGA/DIAGRAMA_Bretton_Woods_2_Petrodolar_Deuda.md|DIAGRAMA_Bretton_Woods_2_Petrodolar_Deuda]]
+
+- [[Domingo Cavallo.md|Domingo Cavallo]]
 
 - [[DTCC.md|DTCC]]
 
@@ -126,9 +134,15 @@ tags:
 
 - [[Euroclear.md|Euroclear]]
 
+- [[Fernando de la Rua.md|Fernando de la Rua]]
+
+- [[FMI.md|FMI]]
+
 - [[Fondos Buitre.md|Fondos Buitre]]
 
 - [[Fractalidad de la Deuda.md|Fractalidad de la Deuda]]
+
+- [[Grupo Vanguard.md|Grupo Vanguard]]
 
 - [[05_Fuentes/La CFTC pone en marcha un programa piloto para utilizar garantías de criptomonedas en los mercados de derivados.md|La CFTC pone en marcha un programa piloto para utilizar garantías de criptomonedas en los mercados de derivados]]
 
@@ -142,11 +156,13 @@ tags:
 
 - [[05_Fuentes/Los correos electronicos de Epstein arrojan una la.md|Los correos electronicos de Epstein arrojan una la]]
 
+- [[Mauricio Macri.md|Mauricio Macri]]
+
 - [[N M Rothschild and Sons.md|N M Rothschild and Sons]]
 
 - [[Nicholas Brady.md|Nicholas Brady]]
 
-- [[03_Produccion/2026-04-15_LAS GUERRAS MAGA/NOTA_TESIS_Bretton_Woods_2_Petrodolar_Deuda.md|NOTA_TESIS_Bretton_Woods_2_Petrodolar_Deuda]]
+- [[06_Videos_Publicados/2026/2026-04-15_LAS GUERRAS MAGA/NOTA_TESIS_Bretton_Woods_2_Petrodolar_Deuda.md|NOTA_TESIS_Bretton_Woods_2_Petrodolar_Deuda]]
 
 - [[Nuevo Bretton Woods.md|Nuevo Bretton Woods]]
 
@@ -162,9 +178,15 @@ tags:
 
 - [[Señoreaje.md|Señoreaje]]
 
+- [[Shock de Nixon.md|Shock de Nixon]]
+
 - [[State Street.md|State Street]]
 
 - [[Tokenizacion de Activos Reales.md|Tokenizacion de Activos Reales]]
+
+- [[Toto Caputo.md|Toto Caputo]]
+
+- [[Vanguard & State Street.md|Vanguard & State Street]]
 
 - [[Vanguard Group.md|Vanguard Group]]
 

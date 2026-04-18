@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:29.748-03:00
-modified: 2026-04-07T11:22:01.204-03:00
+modified: 2026-04-07T11:49:07.277-03:00
 tags:
   - cancel
   - digital

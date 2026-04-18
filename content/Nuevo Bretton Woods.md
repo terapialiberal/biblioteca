@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Nuevo Bretton Woods
 created: 2026-01-29T19:17:27.567-03:00
-modified: 2026-04-07T13:34:44.234-03:00
+modified: 2026-04-07T13:34:47.808-03:00
 tags:
   - finanzas
   - sistema-monetario

@@ -22,7 +22,7 @@ publish: true
 ### Tier A (Los Dueos De La Patente De Vida)
 
 - **Inversionistas Institucionales:** GSK es propiedad de los mismos fondos de Tier A que controlan todo el sector salud (**BlackRock, Vanguard**). Esto asegura que GSK no compita realmente con otras farmacuticas, sino que trabaje en un cartel coordinado para maximizar el consumo de frmacos crnicos.
-- **Estrategia de Vacunas:** Como mayor productor de vacunas, GSK es el principal beneficiario de las polticas de obligatoriedad sanitaria impulsadas por la OMS y GAVI, garantizando flujos de dinero pblico hacia sus arcas de Tier A.
+- **Estrategia de Vacunas:** Como mayor productor de vacunas, GSK es el principal beneficiario de las polticas de obligatoriedad sanitaria impulsadas por [[World Health Organization]] y [[GAVI]], garantizando flujos de dinero pblico hacia sus arcas de Tier A.
 
 ### Tier B (Operadores / Mdicos Y Reguladores)
 
@@ -36,7 +36,7 @@ publish: true
 ## Conexiones Clave
 
 - [[Big Pharma]] (Su ecosistema natural)
-- [[OMS / GAVI]] (Sus socios institucionales)
+- [[World Health Organization]] y [[GAVI]] (Sus socios institucionales)
 - [[BlackRock / Vanguard]] (Sus dueos reales)
 - [[Fraude Farmacutico]] (Su historial operativo)
 

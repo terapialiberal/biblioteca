@@ -22,7 +22,7 @@ El **Tier B** está compuesto por individuos y organizaciones que diseñan e imp
 - **Agencias de Inteligencia:** [[CIA]], MI6, [[Mossad]], BND.
 - **Think Tanks:** [[CFR]], [[Bilderberg Group]], [[Trilateral Commission]], [[Club of Rome]].
 - **Tecnocracia:** [[WEF]] (Foro Económico Mundial), [[Banca Central]].
-- **Contratistas:** [[Palantir CIA]], [[Black Cube]], [[Hakluyt and Company]].
+- **Contratistas:** [[Palantir]], [[Black Cube]], [[Hakluyt and Company]].
 
 ## 🛠️ Funciones Críticas
 

@@ -1,45 +1,54 @@
 ---
-titulo: Conferencia De Bretton Woods
-tipo: "concepto"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [banco, bretton, conferencia, shock]
 publish: true
+created: 2026-01-29T19:17:08.568-03:00
+modified: 2026-04-17T14:22:20.019-03:00
+tags:
+  - bretton-woods
+  - dolar
+  - oro
+  - fmi
+  - banco-mundial
+  - tl-intel-v3
 ---
 
-# Conferencia De Bretton Woods
+# Conferencia de Bretton Woods
 
-> [!INFO] Contexto
-> Conferencia que cre el orden monetario de posguerra.
+## BLUF
 
-## Qu Pas
+[[Conferencia de Bretton Woods]] importa en TL como acto fundacional del orden monetario de posguerra: fija el dólar como centro del sistema y organiza la arquitectura institucional que luego administrará crisis, disciplina y dependencia.
 
-En julio de 1944, delegados de 44 pases se reunieron en Bretton Woods (New Hampshire) para disear el sistema monetario de posguerra.
+## Por que importa en TL
 
-## Creacin Del Sistema
+- permite entender que el liderazgo monetario estadounidense fue construido institucionalmente y no solo heredado;
+- conecta moneda, oro, FMI, Banco Mundial y hegemonía de posguerra;
+- funciona como punto de partida para leer tanto el [[Shock de Nixon]] como la hipótesis de un [[Nuevo Bretton Woods]].
 
-Se crearon:
+## Que cambio
 
-- **[[FMI]]:** Para manejar crisis de balanza de pagos
-- **[[Banco Mundial]]:** Para "desarrollo"
-- **Dlar como reserva mundial:** Respaldado por oro (\35/oz)
+La nota era demasiado mínima y con problemas de forma. Se recompiló como evento fundador reusable dentro de la secuencia Bretton Woods -> Nixon -> petrodólar -> reanclaje híbrido.
 
-EEUU emergi como hegemon financiero porque tena la mayora del oro mundial tras WWII.
+## Lectura TL
 
-## Colapso
+### 1. Institucionalización del mando
 
-El sistema colaps en 1971 cuando Nixon termin la convertibilidad del dlar en oro ([[Shock de Nixon]]).
+Bretton Woods no fue solo una conferencia técnica. Fue la formalización del nuevo orden monetario con Estados Unidos en el centro.
+
+### 2. Dólar, oro y gobernanza
+
+El dólar quedó atado al oro en la cima de la pirámide, mientras el resto del sistema quedó atado al dólar. Eso dio a EE.UU. un lugar singular dentro del esquema.
+
+### 3. Infraestructura del control posterior
+
+Instituciones como [[FMI]] y [[Banco Mundial]] importan porque vuelven administrable la disciplina sobre países y crisis futuras.
+
+### 4. Límite histórico
+
+Su colapso en 1971 no cancela su relevancia. Al contrario: permite leer mejor por qué el sistema posterior necesitó nuevos anclajes y hoy podría estar buscando otros otra vez.
 
 ## Conexiones
 
+- [[Shock de Nixon]]
+- [[Sistema Petrodolar]]
+- [[Nuevo Bretton Woods]]
 - [[FMI]]
 - [[Banco Mundial]]
-- [[Shock de Nixon]]
-- [[Sistema Petrodólar|Sistema Petrodlar]]
-
-## Fuentes
-
-- Documentos de la conferencia
-- Historia monetaria internacional

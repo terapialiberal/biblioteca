@@ -1,45 +1,56 @@
 ---
-titulo: Informe Flexner (1910)
-tipo: "concepto"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: ["1910", asociacin, flexner, informe]
 publish: true
+aliases:
+  - Informe Flexner (1910)
+created: 2026-01-29T19:17:18.407-03:00
+modified: 2026-04-18T10:51:13.190-03:00
+tags:
+  - informe-flexner
+  - medicina
+  - educacion-medica
+  - ama
+  - rockefeller
+  - tl-intel-v3
 ---
 
-# Informe Flexner (1910)
+# Informe Flexner
 
-## Perfil TL (Resumen Ejecutivo)
+## BLUF
 
-**¿Qué fue?** Un estudio sobre la educación médica en EE.UU. y Canadá, encargado por la Fundación Carnegie y financiado/dirigido por la **Fundación Rockefeller**.
+[[Informe Flexner]] importa en TL como punto de inflexión de la medicina moderna en Norteamérica: ayudó a estandarizar la formación médica, cerrar escuelas no alineadas y consolidar un modelo más dependiente de laboratorio, hospital y farmacología institucional.
 
-**¿Por qué importa?** El Informe Flexner es el **Cimiento del Monopolio de Big Pharma de Tier A**. Fue el "golpe de estado" que eliminó cualquier competencia médica para la industria petroquímica de Rockefeller. Antes de 1910, existía un ecosistema diverso: homeopatía, naturopatía, quiropráctica y herboristería operaban a la par de la medicina convencional. Flexner calificó a estas prácticas de "poco científicas" y recomendó cerrar todas las escuelas que no se centraran exclusivamente en la cirugía y el uso de **fármacos sintéticos derivados del petróleo** (que Rockefeller monopolizaba). Como resultado, se cerró la mitad de las facultades de medicina y se ilegalizó la medicina natural. Rockefeller donó millones a las escuelas supervivientes para que aceptaran sus planes de estudio, creando el sistema actual donde el médico es, esencialmente, un "visitador médico con título" que trata síntomas con químicos petroleros.
+## Por que importa en TL
 
-## Análisis De Poder (Tiers)
+- conecta educación médica, fundaciones, acreditación y monopolio de legitimidad profesional;
+- sirve para leer el pasaje de un ecosistema médico más plural a uno más centralizado;
+- funciona como nodo clave entre [[Asociacion Medica Americana]], [[General Education Board]] y [[Fundacion Rockefeller]].
 
-### Tier A (Los Dueños De La Salud Petroquímica)
+## Que cambio
 
-- **Rockefeller / Carnegie:** El Tier A financiero capturó la definición de lo que es "ciencia médica" para proteger sus intereses industriales. Al controlar la _formación_ de los médicos, el Tier A se aseguró una fuerza de ventas eterna para sus productos farmacéuticos.
-- **Mercantilización de la Enfermedad:** El informe Flexner cambió el objetivo de la medicina de "curar al paciente" a "gestionar síntomas mediante el consumo crónico de productos patentables".
+La nota venía fuerte en tesis pero demasiado cerrada en una sola lectura petroquímica. Se recompila como nodo modular para la rama histórica médica, manteniendo la lectura de captura sin reducir todo a un solo vector explicativo.
 
-### Tier B (Operadores / AMA Y Abraham Flexner)
+## Lectura TL
 
-- **Asociación Médica Americana (AMA):** El brazo ejecutor de Tier B que utilizó el informe para centralizar el poder, perseguir a los médicos no alineados y monopolizar la emisión de licencias médicas.
-- **Abraham Flexner:** El operador de Tier B (un educador, no un médico) encargado de dar la pátina de legitimidad académica a una operación de captura corporativa masiva.
+### 1. Estandarización con costo de diversidad
 
-### Tier C (Narrativa Pública)
+El informe importa porque reorganizó el campo médico bajo criterios de ciencia institucional que elevaron algunos estándares, pero también expulsaron o marginalizaron prácticas fuera del nuevo consenso.
 
-- "Estandarización para la seguridad del paciente". "Eliminación de curanderismos por la ciencia moderna". Narrativas de Tier B extremadamente exitosas que el Tier C abraza hoy como un dogma religioso. El Tier C cree que la medicina "avanzó" gracias al informe, ignorando que lo que realmente ocurrió fue la destrucción de milenios de conocimiento botánico y holístico en favor de una industria que factura con la enfermedad, no con la salud.
+### 2. Fundaciones y currículum
 
-## Conexiones Clave
+En TL, el foco está en quién gana poder al definir cómo se forma un médico. Controlar el currículum es controlar qué terapias serán consideradas serias, financiables o legales.
 
-- [[John D. Rockefeller]] (El financista del monopolio)
-- [[Big Pharma]] (El subproducto industrial)
-- [[Asociación Médica Americana|Asociación Médica Americana (AMA)]] (La policía del sistema)
-- [[Iatrogenia]] (El resultado estadístico del modelo)
+### 3. Hospital, laboratorio y fármaco
 
-## Por Qué Importa (Estilo Nico)
+Su peso histórico aumenta cuando se lo lee como parte de un cambio más amplio hacia medicina basada en infraestructura, especialización, química y validación centralizada.
 
-> "El Informe Flexner fue el día en que Rockefeller compró la medicina y tiró la llave al fondo del mar. Antes podías elegir cómo curarte; después de Flexner, si no usabas las pastillas derivadas de su petróleo, eras un criminal. Rockefeller no quería curarte, quería que fueras su cliente para siempre. Por eso en la facultad de medicina estudian 500 horas de fármacos y 2 de nutrición: porque la manzana no tiene patente y la pastilla sí. Hoy vamos al médico creyendo que es un genio de la salud, cuando en realidad es un operario educado por el manual que escribió un petrolero en 1910. Nos vendieron la 'ciencia' para ocultar un negocio de miles de millones."
+### 4. Nodo fundador del corredor médico-industrial
+
+Leído junto con [[Asociacion Medica Americana]], [[General Education Board]] y [[Fundacion Rockefeller]], el Informe Flexner ayuda a entender la genealogía larga de la medicina institucional contemporánea.
+
+## Conexiones
+
+- [[Asociacion Medica Americana]]
+- [[General Education Board]]
+- [[Fundacion Rockefeller]]
+- [[John D. Rockefeller]]
+- [[Iatrogenia]]

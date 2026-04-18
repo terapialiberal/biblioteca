@@ -1,45 +1,58 @@
 ---
-titulo: Glifosato (Roundup)
-tipo: "concepto"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [glifosato, microbioma, monsanto, roundup]
 publish: true
+aliases:
+  - Roundup
+created: 2026-01-29T19:17:15.487-03:00
+modified: 2026-04-18T10:38:56.155-03:00
+tags:
+  - glifosato
+  - roundup
+  - agroquimicos
+  - agricultura-industrial
+  - monsanto
+  - tl-intel-v3
 ---
 
 # Glifosato (Roundup)
 
-## Perfil TL (Resumen Ejecutivo)
+## BLUF
 
-**¿Qué es?** El herbicida más utilizado del mundo, base del modelo de agricultura industrial de gran escala, patentado originalmente por **[[Monsanto]]**.
+[[Glifosato (Roundup)]] importa en TL como pieza central de la agricultura industrial de gran escala: no es solo un herbicida, sino un nodo que conecta semillas patentadas, dependencia quimica, regulacion capturada, salud publica y consolidacion del complejo agrobiotecnologico.
 
-**¿Por qué importa?** El Glifosato es el **arma biológica de Tier A contra el microbioma humano**. Bajo la excusa de la "eficiencia agrícola", el Tier A ha impuesto un sistema donde los alimentos del Tier C están saturados de esta sustancia, que la OMS clasificó como "probable cancerígeno". Para un analista de poder, el glifosato no es solo un veneno químico; es una herramienta de **Control Demográfico y Debilitamiento Biológico**. Al actuar como un antibiótico de amplio espectro, el glifosato destruye las bacterias beneficiosas del intestino humano (donde reside el 80% del sistema inmune), creando una población de Tier C crónicamente enferma, dependiente de la industria farmacéutica y con capacidades cognitivas disminuidas. Es el nexo perfecto entre **[[Big Ag]]** (que vende el veneno) y **[[Big Pharma]]** (que vende el tratamiento para el cáncer y las enfermedades autoinmunes resultantes).
+## Por que importa en TL
 
-## Análisis De Poder (Tiers)
+- ayuda a leer la convergencia entre produccion de alimentos, propiedad intelectual y salud ambiental;
+- conecta a [[Monsanto]] con la capa mas material del control biologico: suelo, cultivos, microbioma y cadena alimentaria;
+- sirve como puente entre la rama agroindustrial y la rama salud global que hoy converge mejor con [[One Health]].
 
-### Tier A (Los Dueños De La Semilla Y El Remedio)
+## Que cambio
 
-- **Estrategia de Captura de Bayer/Monsanto:** El Tier A financiero orquestó la fusión de Bayer y Monsanto para unificar las patentes de químicos, semillas GMO (diseñadas para resistir al glifosato) y fármacos oncológicos. Es un modelo de negocio circular: te envenenan la comida y te venden la quimioterapia.
-- **Ataque a la Soberanía Alimentaria:** El uso masivo de glifosato obliga a los agricultores de todo el mundo a comprar semillas estériles patentadas por el Tier A, destruyendo la biodiversidad y la independencia campesina.
+La nota venia fuerte en tono denuncialista pero demasiado cerrada en una sola tesis y sin converger con la nueva jerarquia Rockefeller-Monsanto-One Health. Se recompila como nodo modular reusable para la base viva.
 
-### Tier B (Operadores / "Ghostwriting" Y Reguladores)
+## Lectura TL
 
-- **Ciencia Capturada:** Los "Monsanto Papers" revelaron cómo el Tier B científico de la empresa redactaba sus propios estudios de seguridad y luego pagaba a académicos prestigiosos para que los firmaran como independientes (**Ghostwriting**), engañando a las agencias regulatorias de todo el mundo.
-- **Agencias de Control (EPA/EFSA):** Operadores de Tier B dentro de las agencias de salud que ignoran sistemáticamente los estudios independientes sobre el daño del glifosato para proteger los beneficios del cartel agroquímico.
+### 1. Quimica como dependencia estructural
 
-### Tier C (Narrativa Pública)
+El glifosato importa porque vuelve dependiente a la produccion agricola de un stack tecnico-corporativo de semillas, paquetes quimicos y validacion regulatoria.
 
-- "Alimentando al mundo". "Herbicida seguro como la sal de mesa". Narrativas de marketing que ocultaron durante décadas la relación directa entre el glifosato y el Linfoma No Hodgkin, hasta que los juicios millonarios en EE.UU. forzaron la verdad a la luz, aunque el producto sigue usándose masivamente.
+### 2. Agricultura y salud ya no son carriles separados
 
-## Conexiones Clave
+En TL, su valor analitico aumenta cuando se lo lee no solo como problema ambiental o rural, sino como punto de cruce entre alimentacion, exposicion cronica, litigios sanitarios y normalizacion toxica.
 
-- [[00_Glosario - Conceptos Fase 1#Monsanto / Bayer|Monsanto / Bayer]] (Su creador y dueño)
-- [[Microbioma e Inmunidad]] (Su objetivo biológico)
-- [[Alimentación (Como Arma)]] (Su función estratégica)
-- [[Pueblos Fumigados (Caso Argentina)]] (Su impacto territorial)
+### 3. Captura de ciencia y regulacion
 
-## Por Qué Importa (Estilo Nico)
+El nodo tambien sirve para leer ghostwriting, lobbying y disputa pericial como parte del modelo de negocio, no como accidente colateral.
 
-> "El glifosato es el veneno que tenés en el plato todos los días. No es solo para matar yuyos; es para romperte a vos por adentro. Te destruye la flora intestinal, que es tu defensa natural, para que vivas enfermo y comprándole pastillas al mismo holding que fabricó el herbicida. Es la jugada maestra: te venden la semilla que aguanta el veneno, te venden el veneno que mata todo lo demás, y después te venden el tratamiento para el cáncer que te dio el veneno. Es ingeniería de despoblación a través de la ensalada. Si querés saber por qué cada vez hay más alergias y enfermedades raras, mirá el bidón de Roundup."
+### 4. Bisagra agro-salud-gobernanza
+
+Leido junto con [[Monsanto]], [[Fundacion Rockefeller]] y [[One Health]], el glifosato muestra como la administracion de la vida puede pasar por semillas, suelo, alimentacion y marcos de riesgo antes de llegar al hospital.
+
+## Conexiones
+
+- [[Monsanto]]
+- [[Fundacion Rockefeller]]
+- [[One Health]]
+- [[Agricultura como Arma]]
+- [[Microbioma e Inmunidad]]
+- [[Pueblos Fumigados (Caso Argentina)]]
+- [[Tecnocracia]]

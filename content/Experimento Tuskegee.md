@@ -1,48 +1,54 @@
 ---
-titulo: Experimento Tuskegee
-tipo: "persona"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [experimento, experimentos, rockefeller, tuskegee]
 publish: true
+created: 2026-01-29T19:17:12.876-03:00
+modified: 2026-04-18T10:52:36.178-03:00
+tags:
+  - tuskegee
+  - medicina
+  - experimento
+  - bioetica
+  - eugenesia
+  - tl-intel-v3
 ---
 
 # Experimento Tuskegee
 
-## Resumen Ejecutivo
+## BLUF
 
-**¿Qué fue?** Un estudio clínico de 40 años realizado por el Servicio de Salud Pública de EEUU (USPHS) en 600 hombres afroamericanos pobres en Alabama.
-Observaron cómo la sífilis mataba a los hombres **sin tratarlos**, incluso después de que la penicilina (la cura) estuviera disponible en 1947.
+[[Experimento Tuskegee]] importa en TL como caso paradigmático de biopolítica y abuso médico institucional: muestra cómo Estado, medicina y legitimidad científica pueden converger para tratar poblaciones vulnerables como material administrable en nombre de la investigación.
 
-**¿Por qué importa?** Destruye la idea de que "el gobierno y los médicos quieren tu bien".
-Los médicos les dijeron que recibían "atención médica gratuita" por "mala sangre". En realidad, les daban placebos y aspirinas mientras la enfermedad les comía el cerebro y el cuerpo, solo para poder hacer autopsias y ver los daños.
-Duró 40 años y pasó por múltiples administraciones (FDR, Truman, Eisenhower, Kennedy, Johnson, Nixon) hasta que un whistleblower (Peter Buxtun) lo filtró a la prensa en 1972.
-El director del CDC que lo supervisó luego pasó a trabajar para Pfizer.
+## Por que importa en TL
 
-## Análisis (Tiers)
+- sirve para leer el costado coercitivo y clasista de la medicina institucional;
+- conecta bioética, racismo, experimentación y autoridad sanitaria;
+- funciona como recordatorio histórico de que el prestigio médico no garantiza protección del paciente ni límites morales reales.
 
-### Tier A (Eugenesia)
+## Que cambio
 
-- **Desprecio por la Vida:** Los sujetos eran vistos como "material de laboratorio", no como humanos. Refleja la mentalidad eugenésica de la élite médica de la época (muchos formados en la filosofía de la Fundación Rockefeller).
+La nota venía útil pero demasiado cerrada en clave de indignación lineal y con link legacy a `[[Rockefeller Foundation]]`. Se recompila como nodo modular del corredor histórico `medicina / eugenesia / biopolítica`.
 
-### Tier B (Operativa)
+## Lectura TL
 
-- **Colusión:** La Cruz Roja, las asociaciones médicas locales y las enfermeras negras locales colaboraron. Nadie dijo nada durante 4 décadas. El sistema entero es cómplice.
+### 1. Medicina sin consentimiento real
 
-### Tier C (Narrativa)
+Tuskegee importa porque deja ver cómo un estudio puede sostenerse durante décadas cuando la población objetivo es pobre, racializada y políticamente débil.
 
-- "Estudio observacional lamentable"
-- "Error ético del pasado" (aunque se repitió en Guatemala y prisiones).
+### 2. Ciencia y administración de cuerpos
+
+En TL, su valor analítico aumenta cuando se lo lee como parte de una lógica más amplia donde salud pública, observación clínica y jerarquía social se cruzan.
+
+### 3. Institución antes que individuo
+
+El caso sirve para entender cómo hospitales, agencias y profesionales pueden proteger el experimento, el prestigio y la continuidad administrativa por encima de la vida concreta de los sujetos.
+
+### 4. Nodo histórico de desconfianza sanitaria
+
+Leído junto con [[Fundacion Rockefeller]], [[Experimentos de Sífilis en Guatemala]] y la historia de la medicina institucional, Tuskegee ayuda a explicar por qué la autoridad médica no puede tratarse como sinónimo automático de benevolencia.
 
 ## Conexiones
 
-- [[Rockefeller Foundation]] (financió la eugenesia que creó esta mentalidad)
+- [[Fundacion Rockefeller]]
 - [[Experimentos de Sífilis en Guatemala]]
-- [[Pfizer]] (conexiones de personal)
-
-## Fuentes
-
-- "Bad Blood" - James H. Jones
-- Archivos Nacionales de EEUU.
+- [[Big Pharma]]
+- [[Biopolitica]]
+- [[Iatrogenia]]

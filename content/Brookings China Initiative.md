@@ -1,39 +1,49 @@
 ---
-titulo: Brookings China Initiative
-tipo: "persona"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [brookings, china, huawei, initiative]
 publish: true
+created: 2026-01-29T19:17:05.997-03:00
+modified: 2026-04-18T11:10:30.813-03:00
+tags:
+  - brookings
+  - china
+  - think-tank
+  - huawei
+  - influencia
+  - tl-intel-v3
 ---
 
 # Brookings China Initiative
 
-> [!ABSTRACT] Ficha Técnica
-> **Narrativa Official:** Programa de investigación sobre China de Brookings.
-> **Función Real:** Ejemplo de cómo think tanks americanos fueron infiltrados por dinero chino.
+## BLUF
 
-## Escándalo
+[[Brookings China Initiative]] importa en TL como subnodo útil para leer cómo think tanks de prestigio pueden convertirse en superficie de influencia extranjera, conflicto de interés y sesgo analítico cuando mezclan research, financiamiento y acceso a poder.
 
-El "John L. Thornton China Center" de Brookings fue criticado por:
+## Por que importa en TL
 
-- Aceptar dinero de Huawei
-- Investigadores con conflictos de interés
-- Línea suave sobre China
+- conecta China, think tanks de Washington, funding corporativo y producción de expertise;
+- ayuda a leer el prestigio académico como posible vector de penetración blanda;
+- funciona como satélite específico del nodo [[Institucion Brookings]].
 
-## Reflexion
+## Que cambio
 
-Caso de estudio de cómo la influencia china puede penetrar instituciones de DC.
+La nota venia como ficha minima, con tipo mal clasificado y arrastre de naming viejo. Se recompila como nodo modular corto para cerrar el corredor vecino.
+
+## Lectura TL
+
+### 1. Expertise con intereses cruzados
+
+El nodo importa porque permite ver cómo estudios sobre China pueden quedar condicionados por financiamiento, redes de acceso y conflictos de interés.
+
+### 2. Think tank como superficie de penetración
+
+En TL, su valor analítico está en mostrar que la influencia extranjera no siempre entra por espionaje duro; también puede entrar por donaciones, centros especializados y legitimidad intelectual.
+
+### 3. Satélite útil, no eje central
+
+No necesita inflarse a gran tesis. Su función es servir como caso de estudio puntual dentro del corredor Brookings.
 
 ## Conexiones
 
-- [[Brookings Institution]]
-- Influencia china en EEUU
-- [[Huawei]] (ex donante)
-
-## Fuentes
-
-- Congressional investigations
-- NYT coverage
+- [[Institucion Brookings]]
+- [[Huawei]]
+- [[China]]
+- [[Soft Power]]

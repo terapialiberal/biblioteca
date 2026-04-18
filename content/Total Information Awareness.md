@@ -1,54 +1,60 @@
 ---
-titulo: Total Information Awareness (TIA)
-tipo: "persona"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [awareness, information, palantir, total]
 publish: true
+aliases:
+  - TIA
+  - Information Awareness Office
+created: 2026-01-29T19:17:40.666-03:00
+modified: 2026-04-17T15:30:09.310-03:00
+tags:
+  - tia
+  - vigilancia
+  - darpa
+  - palantir
+  - inteligencia
+  - tecnocracia
+  - tl-intel-v3
 ---
 
-# Total Information Awareness (TIA)
+# Total Information Awareness
 
-> **Perfil TL:** El programa de vigilancia total que el Congreso canceló por ser "demasiado orwelliano"... y que renació como Palantir.
+## BLUF
 
-## Resumen Ejecutivo
+[[Total Information Awareness]] importa en TL como antecedente explícito de la vigilancia total contemporánea: cristaliza la ambición de centralizar datos civiles para inferir riesgo, anticipar conducta y administrar amenazas antes de que haya un acto consumado.
 
-**¿Qué es?** Programa de DARPA (2002-2003) dirigido por [[John Poindexter]] para crear una base de datos centralizada de TODA la actividad digital de ciudadanos estadounidenses: transacciones, viajes, comunicaciones, registros médicos.
+## Por que importa en TL
 
-**¿Por qué importa?** Es el abuelo de la vigilancia masiva moderna. Cuando el Congreso lo canceló, la tecnología y el personal migraron al sector privado ([[Palantir]]) y a programas clasificados de la [[NSA]].
+- muestra que la lógica de vigilancia predictiva no nació de golpe con la IA reciente;
+- conecta aparato de seguridad, contratismo y privatización de capacidades;
+- ayuda a leer a [[Palantir]] y a la [[Vigilancia Predictiva]] como continuidad operativa, no como anomalía aislada.
 
-## Análisis De Poder (Tiers)
+## Que cambio
 
-### Tier A (Beneficiarios)
+La nota estaba útil pero todavía demasiado pegada al tono de “programa maldito cancelado que renace”. Se recompiló como nodo modular para separar mejor el hecho histórico, su función estructural y su continuidad doctrinal.
 
-Control predictivo de la población. Detección de disidencia antes de que se organice.
+## Lectura TL
 
-### Tier B (Operadores)
+### 1. Programa bisagra
 
-- **[[John Poindexter]]:** Director del Information Awareness Office.
-- **[[DARPA]]:** Agencia desarrolladora.
-- **[[In-Q-Tel]]:** Fondo de la CIA que financió la migración al sector privado.
+TIA fue un programa impulsado desde DARPA e Information Awareness Office a comienzos de los 2000 con el objetivo de integrar grandes volúmenes de datos transaccionales, biométricos, comunicacionales y de movilidad para detectar patrones de amenaza.
 
-## El Logo Revelador
+### 2. Escándalo y migración
 
-El logo oficial del programa era el "Ojo que todo lo ve" de la pirámide del dólar, con el lema "Scientia Est Potentia" (Conocimiento es Poder). El simbolismo era tan explícito que contribuyó a la oposición pública.
+El rechazo público y político no destruyó la lógica del programa. Lo que hizo fue volverla menos visible, más fragmentada y más externalizada hacia contratistas, inteligencia clasificada y plataformas privadas.
 
-## Conexiones Clave
+### 3. Del archivo al modelo
 
-- [[John Poindexter]]
-- [[DARPA]]
+Su importancia en TL no es solo archivística. TIA anticipa el paso desde recolectar datos a modelar perfiles de riesgo, grafos relacionales y comportamiento probable.
+
+### 4. Antecedente del stack tecnocrático
+
+Leído junto con [[Palantir]], [[In-Q-Tel]] y [[Gobernanza Algoritmica]], TIA funciona como eslabón temprano entre seguridad nacional, minería de datos y administración preventiva de poblaciones.
+
+## Conexiones
+
 - [[Palantir]]
-- [[NSA]]
 - [[In-Q-Tel]]
-- [[Revelaciones de Snowden]]
-
-## Fuentes
-
-- New York Times (2002-2003)
-- ACLU reports
-
-## Por Qué Importa (Estilo Nico)
-
-> "El programa era tan descaradamente totalitario que pusieron el Ojo de la Pirámide como logo oficial. El Congreso lo canceló en 2003 por inconstitucional. ¿Pensaste que murió? Palantir se funda ese mismo año con ex-empleados de TIA y financiamiento de la CIA. El programa no murió. Se privatizó."
+- [[Vigilancia Predictiva]]
+- [[Gobernanza Algoritmica]]
+- [[Tecnocracia]]
+- [[DARPA]]
+- [[NSA]]

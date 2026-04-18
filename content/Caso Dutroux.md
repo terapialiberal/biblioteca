@@ -37,7 +37,7 @@ publish: true
 
 - [[Jeffrey Epstein]] (El equivalente moderno en gestión de redes)
 - [[Caso Franklin (El encubrimiento original)]] (La versión estadounidense)
-- [[Chantaje (Kompromat)]] (La utilidad política del abuso)
+- [[Kompromat]] (La utilidad política del abuso)
 - [[OTAN]] (Muchos clientes pertenecían a la órbita de defensa internacional en Bruselas)
 
 ## Fuentes

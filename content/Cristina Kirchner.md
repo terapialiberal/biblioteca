@@ -1,35 +1,59 @@
 ---
-titulo: Cristina Fernández De Kirchner (CFK)
-tipo: "persona"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [cristina, kirchner, lawfare, naciones]
 publish: true
+aliases:
+  - Cristina Fernandez de Kirchner
+  - Cristina Fernandez de Kirchner (CFK)
+created: 2026-01-29T19:17:09.284-03:00
+modified: 2026-04-18T11:12:51.650-03:00
+tags:
+  - argentina
+  - kirchnerismo
+  - lawfare
+  - poder
+  - relato
+  - tl-intel-v3
 ---
 
-# Cristina Fernández De Kirchner (CFK)
+# Cristina Kirchner
 
-## Resumen General
+## BLUF
 
-Dos veces presidenta, una vice. Líder indiscutida del peronismo de izquierda. Construyó [[Naciones Unidas (ONU)]] relato de confrontación ("Pueblo vs Antipueblo"). Judicialmente complicada con múltiples condenas (Causa Vialidad) por corrupción. Su estrategia es denunciar **[[Lawfare]]** (persecución política) para evitar la cárcel. Geopolíticamente alineó al país con [[BRICS]], [[BRICS]] e Irán.
+[[Cristina Kirchner]] importa en TL como nodo politico central del kirchnerismo tardio: combina narrativa, control de faccion, aparato estatal, blindaje simbolico y guerra judicial en una misma figura.
 
-## Análisis Terapia Liberal (Cui Bono)
+## Por que importa en TL
 
-### Tier A (Beneficiarios)
+- conecta kirchnerismo, justicia federal, medios, inteligencia y polarizacion;
+- ayuda a leer como liderazgo personalista, relato y estructura de impunidad pueden reforzarse mutuamente;
+- funciona como nodo de cruce entre [[Lawfare]], [[Jueces Federales de Comodoro Py]], [[Nestor Kirchner]] y [[Grupo Clarin]].
 
-- **Patrimonio K:** Su familia enriqueció exponencialmente a través de testaferros (Báez, López) y hoteles.
+## Que cambio
 
-## Puntos Clave
+La nota venia como ficha minima, con encoding roto, links viejos y varias formulaciones defectuosas. Se recompila como perfil modular del corredor `argentina / kirchnerismo / justicia / medios`.
 
-- **El Relato:** Maestra de la narrativa política.
-- **Fuero:** Necesita cargos públicos para mantener inmunidad de arresto.
-- **Atentado:** El intento de asesinato fallido (Sabag Montiel) que reconfiguró su narrativa de víctima.
+## Lectura TL
+
+### 1. Liderazgo de faccion antes que administracion
+
+En TL, Cristina importa menos como ex presidenta aislada y mas como centro de gravedad de una red politica, judicial, mediatica y emocional que sobrevivio a distintos gobiernos y crisis.
+
+### 2. Narrativa de confrontacion como tecnologia de poder
+
+Su fuerza no depende solo de gestion o de votos. Tambien depende de haber instalado un esquema amigo-enemigo que ordena lealtades, excusas, blindajes morales y marcos de interpretacion para su base.
+
+### 3. Justicia como amenaza y como escudo
+
+Leida junto con [[Lawfare]] y [[Jueces Federales de Comodoro Py]], la figura sirve para ver el doble uso del frente judicial: amenaza real para su supervivencia politica, pero tambien recurso narrativo para consolidar cohesion propia y denunciar persecucion.
+
+### 4. El kirchnerismo como ecosistema
+
+Su valor analitico aumenta cuando se la conecta con el circuito completo: [[Nestor Kirchner]], [[Lazaro Baez]], [[Hotesur y Los Sauces]], medios afines, operadores juridicos y el uso persistente de memoria, identidad y conflicto como capital politico.
 
 ## Conexiones
 
-- [[Lázaro Báez]]
-- [[Néstor Kirchner]]
+- [[Nestor Kirchner]]
+- [[Lazaro Baez]]
 - [[Hotesur y Los Sauces]]
 - [[Lawfare]]
+- [[Jueces Federales de Comodoro Py]]
+- [[Grupo Clarin]]
+- [[Horacio Verbitsky]]

@@ -4,7 +4,7 @@ aliases:
   - Mao Zedong
   - Mao Tse-Tung
 created: 2026-01-29T19:17:23.585-03:00
-modified: 2026-04-07T13:12:32.694-03:00
+modified: 2026-04-07T13:12:37.743-03:00
 tags:
   - persona
   - china

@@ -1,45 +1,56 @@
 ---
-titulo: Carnegie Endowment
-tipo: "entidad"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [carnegie, comit, endowment, fundacin]
 publish: true
+aliases:
+  - Carnegie Endowment
+  - Fundación Carnegie
+created: 2026-01-29T19:17:14.417-03:00
+modified: 2026-04-18T10:52:36.232-03:00
+tags:
+  - carnegie
+  - fundaciones
+  - educacion
+  - politica-exterior
+  - tl-intel-v3
 ---
 
-# Carnegie Endowment
+# Fundacion Carnegie
 
-## Perfil TL (Resumen Ejecutivo)
+## BLUF
 
-**¿Qué es?** Un influyente think tank de política exterior fundado por el magnate del acero Andrew Carnegie, bajo el lema de promover la "Paz Internacional".
+[[Fundacion Carnegie]] importa en TL como uno de los grandes laboratorios filantrópicos del siglo XX: su peso analítico no está solo en política exterior o educación por separado, sino en mostrar cómo una fundación puede moldear historia, currículum, expertise y visión internacional de largo plazo.
 
-**¿Por qué importa?** Carnegie Endowment es el **cerebro histórico del Tier A para la gestión de conflictos preventivos**. A pesar de su nombre pacífico, las actas de sus directivos en 1910 (reveladas por el **Comité Reese** en 1953) contienen una pregunta escalofriante: **"¿Existe algún medio más efectivo que la guerra para alterar la vida de un pueblo entero?"**. Concluyeron que no, y decidieron que para lograr su visión de un Gobierno Mundial, debían involucrar a EE.UU. en la Gran Guerra (WWI). Carnegie ha operado por más de un siglo como el puente entre la élite corporativa y el Departamento de Estado, especializándose en la **Ingeniería del Consenso Internacional**: reescribir libros de historia para eliminar el nacionalismo y preparar a la población para la rendición de la soberanía ante entidades supranacionales.
+## Por que importa en TL
 
-## Análisis De Poder (Tiers)
+- conecta fundaciones, política exterior, historiografía y convergencia institucional;
+- ayuda a leer la filantropía de élite como capacidad de diseño civilizatorio;
+- funciona como nodo hermano de [[Fundacion Rockefeller]] dentro de la reingeniería educativa y estratégica.
 
-### Tier A (Los Arquitectos Del Siglo Americano)
+## Que cambio
 
-- **La Táctica de la Convergencia:** Durante la Guerra Fría, bajo la presidencia de **Alger Hiss** (quien fue identificado como espía soviético y primer secretario de la ONU), Carnegie promovió activamente la idea de "converger" los sistemas de EE.UU. y la URSS bajo una única autoridad mundial administrada por expertos tecnócratas de Tier A.
-- **Control del Departamento de Estado:** Carnegie actúa como una "universidad de gobierno" para el Tier A. Los planes de política exterior que se escriben en sus oficinas suelen convertirse en leyes nacionales dos años después, independientemente de quién sea el presidente.
+La nota venía fuerte en tono de manifiesto y con naming mixto entre `Carnegie Endowment`, `Fundación Carnegie` y `Comité Reese`. Se recompila como nodo modular de la rama `fundaciones / educación / gobierno mundial`.
 
-### Tier B (Operadores / Académicos E Historiadores)
+## Lectura TL
 
-- **Reescritura de la Historia:** Mediante grants y becas, la fundación financió a historiadores de Tier B para que eliminaran de los textos escolares americanos las menciones a los padres fundadores que pudieran fomentar el patriotismo, reemplazándolas por una visión de "ciudadanía global" obediente a la ONU.
-- **Puerta Giratoria:** Figuras como William J. Burns (actual director de la CIA) han sido presidentes de Carnegie, demostrando que la fundación no es un centro de estudio, sino un brazo operativo del aparato de inteligencia.
+### 1. Filantropía con horizonte geopolítico
 
-### Tier C (Narrativa Pública)
+Carnegie importa porque no se limita a donar: ayuda a financiar cuadros, investigación, relato histórico y marcos de cooperación internacional.
 
-- "Promoviendo la paz y la cooperación internacional". "Análisis objetivo de conflictos". Narrativas nobles que sirven para ocultar una estrategia de guerra social destinada a formatear la consciencia humana mediante el trauma del conflicto bélico.
+### 2. Paz, guerra y reorganización
 
-## Conexiones Clave
+En TL, uno de sus puntos fuertes es la tensión entre discurso pacifista y utilidad estratégica. La pregunta no es solo qué dice promover, sino qué tipo de orden facilita.
 
-- [[ONU (Organización de las Naciones Unidas)]] (Su creación máxima)
-- [[Fundación Rockefeller]] (Sus socios en la remodelación educativa)
-- [[Comité Reese (1953)]] (La investigación que los expuso)
-- [[Alger Hiss]] (Su conexión con el espionaje y la fundación de la ONU)
+### 3. Producción de consenso
 
-## Por Qué Importa (Estilo Nico)
+Su valor analítico aumenta cuando se la ve como usina de legitimidad para expertos, think tanks y orientación de política pública más que como simple beneficencia.
 
-> "La Fundación Carnegie es el tipo que te vende la paz mientras te guarda una granada en el bolsillo. En 1910 ya se preguntaban cómo meter a la gente en una guerra para 'cambiarle la vida'. Son los tipos que decidieron que el patriotismo era un problema para sus negocios globales y pagaron para que en las escuelas te enseñen a ser un 'ciudadano del mundo' sin bandera. No estudian la guerra; la diseñan para que el Tier A pueda romper fronteras y quedarse con todo sentado en una oficina en Washington. Si querés saber por qué tu país ya no decide nada, buscá quién les paga el sueldo a los que escriben los manuales de política exterior: ahí vas a ver el apellido Carnegie."
+### 4. Nodo histórico del corredor filantrópico
+
+Leída junto con [[Reece Committee]], [[Norman Dodd]] y [[Fundacion Rockefeller]], la Fundación Carnegie ayuda a reconstruir la infraestructura de largo plazo detrás de cambios educativos y de política exterior.
+
+## Conexiones
+
+- [[Fundacion Rockefeller]]
+- [[Reece Committee]]
+- [[Norman Dodd]]
+- [[ONU (Organización de las Naciones Unidas)]]
+- [[Alger Hiss]]

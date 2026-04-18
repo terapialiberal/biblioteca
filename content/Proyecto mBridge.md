@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-25T15:50:06.497-03:00
-modified: 2026-04-07T10:51:24.047-03:00
+modified: 2026-04-07T10:51:42.092-03:00
 tags:
   - banco
   - digital

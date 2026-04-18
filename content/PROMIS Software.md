@@ -12,7 +12,7 @@ publish: true
 # PROMIS: El Malware Original de la Inteligencia Global (V.3)
 
 > [!IMPORTANT] DEFINICIÓN FORENSE
-> PROMIS (_Prosecutor's Management Information System_) es el ancestro directo de [[Palantir CIA]]. Fue el primer software capaz de integrar bases de datos masivas dispares para el control poblacional.
+> PROMIS (_Prosecutor's Management Information System_) es un antecedente importante de [[Palantir]]. Fue uno de los primeros softwares capaces de integrar bases de datos masivas dispares para el control poblacional.
 
 ## 🕵️ El Gran Robo (INSLAW Case)
 

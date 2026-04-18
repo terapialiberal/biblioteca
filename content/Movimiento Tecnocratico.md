@@ -4,7 +4,7 @@ aliases:
   - Movimiento Tecnocrático
   - Technocracy Inc.
 created: 2026-01-29T19:17:25.940-03:00
-modified: 2026-04-07T13:34:43.659-03:00
+modified: 2026-04-07T13:34:47.831-03:00
 tags:
   - tecnocracia
   - energia

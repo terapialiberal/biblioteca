@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:02.536-03:00
-modified: 2026-04-07T10:47:07.559-03:00
+modified: 2026-04-18T12:14:50.870-03:00
 tags:
   - moc
   - argentina
@@ -11,15 +11,15 @@ tags:
 
 # MOC - Argentina
 
-> Punto de entrada para elites locales, operadores políticos, inteligencia, recursos estratégicos y fabricación narrativa en Argentina.
+> Punto de entrada para elites locales, operadores politicos, inteligencia, recursos estrategicos y fabricacion narrativa en Argentina.
 
 ## Resumen
 
 - Argentina funciona como laboratorio de captura local.
-- El poder real combina empresarios prebendarios, operadores políticos, inteligencia y recursos estratégicos.
-- El criterio TL sigue siendo: quién captura renta, territorio, regulación y narrativa.
+- El poder real combina empresarios prebendarios, operadores politicos, inteligencia y recursos estrategicos.
+- El criterio TL sigue siendo: quien captura renta, territorio, regulacion y narrativa.
 
-## Círculo Rojo y Dueños
+## Circulo Rojo y Duenos
 
 - [[Eduardo Elsztain]]
 - [[Paolo Rocca]]
@@ -27,7 +27,7 @@ tags:
 - [[Eduardo Eurnekian]]
 - [[Corporacion America]]
 - [[Alejandro Bulgheroni]]
-- [[Héctor Magnetto]]
+- [[Hector Magnetto]]
 - [[Grupo Clarin]]
 - [[Jorge Brito]]
 - [[Hugo Sigman]]
@@ -35,7 +35,7 @@ tags:
 - [[Familia Werthein]]
 - [[Marcelo Mindlin]]
 
-## Operadores Políticos
+## Operadores Politicos
 
 - [[Enrique _Coti_ Nosiglia|Enrique "Coti" Nosiglia]]
 - [[Eduardo Duhalde]]
@@ -44,7 +44,7 @@ tags:
 - [[Mauricio Macri]]
 - [[Carlos Menem]]
 - [[Javier Milei]]
-- [[Karina Milei (El Jefe)]]
+- [[Karina Milei]]
 - [[Santiago Caputo]]
 - [[Victoria Villarruel]]
 - [[Federico Sturzenegger]]
@@ -52,28 +52,28 @@ tags:
 
 ## Inteligencia y Estado Profundo
 
-- AFI
+- [[AFI]]
 - [[Inteligencia Militar]]
 - [[Jaime Stiuso]]
 - [[Cesar Milani]]
 - [[Alberto Nisman]]
-- [[Carpeta (Extorsion)]]
+- [[Carpeta]]
 - [[D_Alessio Gate|D'Alessio Gate]]
 - [[Jueces Federales de Comodoro Py]]
 - [[Lawfare]]
 
-## Recursos Estratégicos
+## Recursos Estrategicos
 
 - [[Vaca Muerta]]
 - [[YPF]]
 - [[Triangulo del Litio]]
-- [[Hidrovía Paraná]]
+- [[Hidrovia Parana]]
 - [[Mar Argentino (Pesca Ilegal)]]
 - [[Antartida Argentina]]
 - [[Base China en Neuquen]]
 - [[Campo y Retenciones]]
 - [[Resolucion 125]]
-- [[Acuífero Guaraní (Argentina)]]
+- [[Acuifero Guarani]]
 
 ## Medios, Cultura e Historia
 

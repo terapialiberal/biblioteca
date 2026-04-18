@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-28T15:14:24.644-03:00
-modified: 2026-04-07T11:47:31.333-03:00
+modified: 2026-04-07T11:50:11.537-03:00
 tags:
   - patrones
   - kompromat

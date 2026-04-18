@@ -1,28 +1,15 @@
 ---
-titulo: Triple Frontera (Inteligencia)
-tipo: "entidad"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [frontera, inteligencia, triple]
 publish: true
+created: 2026-01-29T19:17:41.286-03:00
+modified: 2026-04-18T12:33:50.571-03:00
+tags:
+  - argentina
+  - alias
+  - triple-frontera
+  - inteligencia
+  - tl-intel-v3
 ---
 
 # Triple Frontera (Inteligencia)
 
-> **Resumen:** El hub de Hezbollah/CIA/Mossad en la región.
-
-## Notas Iniciales
-
-_Nota generada automáticamente tras análisis de huecos de información._
-
-## Puntos a Investigar
-
-- Definir conexión exacta con Tier A.
-- Buscar contratos o financiamiento (Follow the Money).
-- Identificar operadores clave.
-
-## Conexiones Potenciales
-
-- [[00 Índice Maestro]]
+Nodo espejo. Ver [[Triple Frontera]].

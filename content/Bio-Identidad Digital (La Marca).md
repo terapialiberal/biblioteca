@@ -1,22 +1,15 @@
 ---
 publish: true
+aliases:
+  - La Marca
 created: 2026-02-25T22:08:54.714-03:00
-modified: 2026-04-07T11:14:38.573-03:00
+modified: 2026-04-17T16:35:29.551-03:00
 tags:
-  - digital
-  - identidad
-  - marca
+  - alias
+  - bio-identidad
+  - tl-intel-v3
 ---
 
 # Bio-Identidad Digital (La Marca)
 
-> [!ABSTRACT] Hipótesis Informativa
-> Nodo perteneciente a la Matrix de Simbolismo y Esoterismo TL V.3.
-
-## Análisis De Tiers
-
-_En desarrollo..._
-
-## Cui Bono
-
-_Pendiente de análisis forense._
+Nodo espejo. Ver [[Bio-Identidad Digital]].

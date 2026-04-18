@@ -26,7 +26,7 @@ El arquetipo de Yahweh representa la **Captura de la Ley Natural** para converti
 
 La digitalización total (CBDC, ID Digital) es la secularización del arquetipo:
 
-- **Omnisciencia:** El Ojo que todo lo ve se convierte en la base de datos de [[Palantir CIA]].
+- **Omnisciencia:** El Ojo que todo lo ve se convierte en la base de datos de [[Palantir]].
 - **Inexorabilidad:** La ley de los algoritmos (Smart Contracts) que no permiten el perdón ni la excepción, replicando la dureza del arquetipo original.
 
 ## 🔗 Nodos Conectados

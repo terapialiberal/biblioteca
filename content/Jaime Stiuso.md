@@ -2,46 +2,59 @@
 publish: true
 aliases:
   - Antonio Stiuso
-  - Jaime Stiuso
-  - Antonio "Jaime" Stiuso
+  - Antonio Jaime Stiuso
+  - AFI / SIDE
 created: 2026-01-29T19:17:19.171-03:00
-modified: 2026-04-07T13:30:41.476-03:00
+modified: 2026-04-18T11:24:28.480-03:00
 tags:
-  - inteligencia
   - argentina
+  - inteligencia
   - side
+  - afi
+  - carpetazos
   - justicia
+  - tl-intel-v3
 ---
 
 # Jaime Stiuso
 
-Jaime Stiuso fue uno de los operadores históricos más influyentes de la inteligencia argentina. Su nombre quedó asociado a la SIDE, al manejo de información sensible y a la relación opaca entre espionaje, justicia y política.
+## BLUF
 
-## Síntesis
+[[Jaime Stiuso]] importa en TL como figura de continuidad profunda del espionaje argentino: condensa archivos, relaciones personales, poder de informacion y capacidad de arbitraje informal entre inteligencia, justicia y politica.
 
-Dentro de TL interesa como figura de continuidad burocrática: un actor que sobrevive a gobiernos, acumula archivos, teje vínculos con jueces y fiscales, y se vuelve más estable que los propios cargos electivos.
+## Por que importa en TL
 
-## Claves de lectura
+- conecta espionaje interno, jueces, fiscales, carpetazos y crisis institucionales;
+- ayuda a leer la inteligencia argentina como poder estable por encima de gobiernos;
+- funciona como nodo de cruce entre [[AFI]], [[Jueces Federales de Comodoro Py]], [[Muerte de Alberto Nisman]] y [[Carpeta]].
 
-- peso estructural dentro de la [[AFI / SIDE]]
-- centralidad en el universo de escuchas, archivos y operaciones
-- vínculo recurrente con causas de alto impacto institucional
-- nodo útil para leer la porosidad entre inteligencia local y agendas externas
+## Que cambio
 
-## Relevancia analítica
+La nota venia utilizable pero demasiado breve, con naming mezclado y algunos enlaces legacy. Se recompila como perfil modular del corredor `argentina / inteligencia / justicia / secretos`.
 
-- permite estudiar el `carpetazo` como mecanismo de disciplinamiento
-- muestra cómo la inteligencia puede transformarse en poder político indirecto
-- conecta opacidad presupuestaria, guerra judicial y administración de secretos
+## Lectura TL
 
-## Nodos relacionados
+### 1. Continuidad burocratica por encima de la rotacion politica
 
-- [[AFI / SIDE]]
-- [[Alberto Nisman]]
-- [[Comodoro Py]]
+En TL, Stiuso importa menos como individuo excepcional y mas como ejemplo visible de una capa estatal que acumula memoria, favores y capacidad operativa a lo largo de distintos gobiernos.
+
+### 2. Archivo como poder
+
+Su relevancia aparece cuando se lo lee no solo como espia, sino como administrador de informacion sensible: escuchas, carpetas, relaciones internacionales y conocimiento fino sobre debilidades del sistema politico argentino.
+
+### 3. Inteligencia y justicia como ecosistema
+
+Leido junto con [[AFI]], [[Jueces Federales de Comodoro Py]] y [[Lawfare]], el nodo ayuda a entender como informacion obtenida en zonas grises puede terminar convertida en presion, expediente o cobertura mediatica.
+
+### 4. Figura util para no personalizar de mas
+
+TL lo usa como condensador, no como explicacion unica. El punto no es creer que Stiuso explica toda la cloaca argentina, sino que permite visualizar mejor una arquitectura de poder que lo excede.
+
+## Conexiones
+
+- [[AFI]]
+- [[Jueces Federales de Comodoro Py]]
+- [[Muerte de Alberto Nisman]]
 - [[Cristina Kirchner]]
-- [[CIA / Mossad]]
-
-## Observación
-
-Conviene evitar tanto la caricatura como la idealización. Stiuso no explica por sí solo la cloaca argentina; sirve más bien como condensador visible de una lógica sistémica más amplia.
+- [[Carpeta]]
+- [[Lawfare]]

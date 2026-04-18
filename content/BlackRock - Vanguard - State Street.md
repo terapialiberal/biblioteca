@@ -5,7 +5,7 @@ aliases:
   - La Trifecta Del Control Financiero
   - "BlackRock - Vanguard - State Street: La Trifecta Del Control Financiero"
 created: 2026-01-29T19:17:05.549-03:00
-modified: 2026-04-07T11:16:23.109-03:00
+modified: 2026-04-17T13:46:33.529-03:00
 tags:
   - big-three
   - blackrock
@@ -36,7 +36,7 @@ tags:
 
 ## Contexto
 
-La llamada `Big Three` importa en TL porque permite ver el sistema como estructura y no solo como nombres sueltos. [[BlackRock]], [[Vanguard Group]] y [[State Street]] cumplen funciones distintas, pero convergen en un mismo resultado: concentración creciente de propiedad, custodia y capacidad de disciplina sobre corporaciones estratégicas.
+La llamada `Big Three` importa en TL porque permite ver el sistema como estructura y no solo como nombres sueltos. [[BlackRock]], [[Grupo Vanguard (Vanguard Group)]] y [[State Street]] cumplen funciones distintas, pero convergen en un mismo resultado: concentración creciente de propiedad, custodia y capacidad de disciplina sobre corporaciones estratégicas.
 
 Leídas en conjunto, ayudan a explicar por qué la competencia formal convive con una gobernanza cada vez más oligopólica.
 
@@ -101,7 +101,7 @@ La `Big Three` beneficia a quienes necesitan que la economía real siga siendo f
 ## Conexiones Clave
 
 - [[BlackRock]]
-- [[Vanguard Group]]
+- [[Grupo Vanguard (Vanguard Group)]]
 - [[State Street]]
 - [[Larry Fink]]
 - [[ESG]]

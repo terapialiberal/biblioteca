@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-25T22:08:57.845-03:00
-modified: 2026-04-07T11:15:22.805-03:00
+modified: 2026-04-07T11:49:28.284-03:00
 tags:
   - pentagrama
   - venus

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:02.587-03:00
-modified: 2026-04-07T10:47:08.250-03:00
+modified: 2026-04-17T14:29:22.681-03:00
 tags:
   - moc
   - psyops
@@ -68,7 +68,7 @@ tags:
 - [[Manufacture of Consent 2.0]]
 - [[Dead Internet Theory]]
 - [[Predictive Programming]]
-- [[Algorithmic Governance]]
+- [[Gobernanza Algoritmica]]
 - [[Social Credit West]]
 - [[Disinformation Governance Board]]
 - [[Nudge Theory]]

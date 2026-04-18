@@ -1,33 +1,56 @@
 ---
-titulo: Base China En Neuquén (Espacio Profundo)
-tipo: "concepto"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [base, cristina, espacio, neuqun]
 publish: true
+aliases:
+  - Base China en Neuquen (Espacio Profundo)
+created: 2026-01-29T19:17:04.869-03:00
+modified: 2026-04-18T12:30:14.444-03:00
+tags:
+  - argentina
+  - china
+  - neuquen
+  - soberania
+  - espacio
+  - tl-intel-v3
 ---
 
-# Base China En Neuquén (Espacio Profundo)
+# Base China en Neuquen
 
-## Resumen General
+## BLUF
 
-Estación de rastreo satelital y espacio profundo [[BRICS]] (CLTC) en Bajada del Agrio, Neuquén. Cedida por [[Cristina Kirchner]] a [[BRICS]] por 50 años con cláusulas de extraterritorialidad y exención impositiva. Oficialmente es "civil", pero la CLTC depende directamente del **Ejército Popular de Liberación (PLA)**. Es una caja negra: Argentina tiene muy poco tiempo de acceso y control sobre lo que hacen allí.
+[[Base China en Neuquen]] importa en TL como nodo donde convergen soberania territorial, infraestructura espacial, opacidad contractual y competencia geopolitica entre grandes potencias sobre suelo argentino.
 
-## Análisis Terapia Liberal (Cui Bono)
+## Por que importa en TL
 
-### Tier A (Beneficiarios)
+- conecta presencia china, concesiones de largo plazo, infraestructura dual y debilidad de control soberano;
+- ayuda a leer la geopolitica argentina no solo por recursos naturales sino tambien por plataformas logisticas y tecnologicas;
+- funciona como nodo de cruce entre [[Cristina Kirchner]], el vinculo con China y la discusion sobre soberania en territorio periferico.
 
-- **[[BRICS]] (PLA):** Tiene [[Naciones Unidas (ONU)]] ojo y oído estratégico en el hemisferio sur para guiar misiles o satélites militares.
+## Que cambio
 
-## Puntos Clave
+La nota venia como ficha vieja, con encoding roto y varios enlaces a nodos no existentes. Se recompila como concepto modular del corredor `argentina / geopolitica / soberania / infraestructura estrategica`.
 
-- **Soberanía Cedida:** Es territorio chino de facto en la patagonia.
-- **EE.UU.:** Presiona constantemente para inspeccionarla o cerrarla.
+## Lectura TL
+
+### 1. Infraestructura opaca con valor estrategico
+
+En TL, la base importa porque permite pensar como una instalacion presentada como civil puede adquirir relevancia politica y militar por el tipo de tecnologia, jurisdiccion y acceso que involucra.
+
+### 2. Soberania condicionada por convenios
+
+Su valor analitico aumenta cuando se observa que el problema no es solo quien invierte, sino bajo que clausulas, controles y margenes de inspeccion opera esa presencia dentro del territorio argentino.
+
+### 3. Argentina como terreno de insercion externa
+
+Leida junto con la politica exterior kirchnerista y debates sobre alineamiento, la base ayuda a ver como el pais tambien funciona como plataforma de insercion de potencias que negocian influencia mas alla del comercio tradicional.
+
+### 4. Nodo puente entre recursos y geopolitica
+
+Tambien importa porque enlaza la rama Argentina con tableros mas amplios de tecnologia, China, espacio y disputa por corredores estrategicos.
 
 ## Conexiones
 
-- [[Infiltración China]]
 - [[Cristina Kirchner]]
-- [[Geopolítica Espacial]]
+- [[Triangulo del Litio]]
+- [[Antartida Argentina]]
+- [[Vaca Muerta]]
+- [[Transferencia Tecnologica a China]]
