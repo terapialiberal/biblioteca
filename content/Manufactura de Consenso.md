@@ -4,56 +4,50 @@ aliases:
   - Manufactura De Consenso
   - Manufacturing Consent
 created: 2026-01-29T19:17:23.560-03:00
-modified: 2026-04-07T13:12:37.800-03:00
+modified: 2026-04-19T12:15:40.661-03:00
 tags:
-  - concepto
+  - manufactura-de-consenso
   - medios
   - propaganda
   - control-social
+  - consenso
+  - tl-intel-v3
 ---
 
 # Manufactura de Consenso
 
-La manufactura de consenso describe el proceso por el cual un sistema mediático, político y corporativo delimita qué puede pensarse, discutirse y considerarse legítimo dentro de una sociedad formalmente abierta.
+## BLUF
 
-## Síntesis
+[[Manufactura de Consenso]] importa en TL como modelo para leer cómo medios, burocracias, elites económicas y filtros reputacionales delimitan el campo de lo pensable dentro de sociedades formalmente abiertas. Su valor no está en denunciar “una conspiración total”, sino en mostrar cómo el consenso puede fabricarse por estructura.
 
-Dentro de TL, este concepto sirve para leer cómo una sociedad puede ser conducida sin coerción visible permanente. El control no opera solo por censura dura, sino por selección de agenda, repetición narrativa, prestigio institucional y castigo reputacional contra quien sale del marco aceptable.
+## Por que importa en TL
 
-## Mecanismo básico
+- conecta concentración mediática, dependencia de fuentes y disciplinamiento del disenso;
+- ayuda a leer la frontera entre debate permitido y pensamiento expulsado;
+- funciona como bisagra entre [[Walter Lippmann]], [[Narrativa Unica]] e [[Ingenieria de Consentimiento]].
 
-El modelo clásico asociado a Chomsky y Herman parte de varios filtros:
+## Que cambio
 
-1. propiedad de medios concentrada
-2. dependencia publicitaria
-3. dependencia de fuentes oficiales
-4. castigo coordinado o `flak`
-5. construcción de enemigos o amenazas estabilizadoras
+La nota ya estaba razonablemente bien, pero seguía corta para el peso del nodo y sin integrarse del todo al corredor recompilado en esta sesión. Se ajusta para dejarla más modular y mejor conectada.
 
-## Actualización contemporánea
+## Lectura TL
 
-El esquema no desapareció con internet. Se volvió más rápido y granular:
+### 1. El consenso como producto
 
-- los algoritmos reemplazan parte del viejo trabajo editorial
-- el fact-checking puede funcionar como refuerzo de marco y no como auditoría neutral
-- la presión social digital acelera el castigo reputacional
-- la abundancia informativa dificulta distinguir señal de saturación
+La manufactura de consenso importa porque desplaza la idea de opinión pública espontánea. El consenso puede producirse mediante incentivos, filtros, repeticiones, agenda setting y costos reputacionales.
 
-## Implicancias
+### 2. Sin coerción visible permanente
 
-- reduce la necesidad de censura explícita
-- convierte la opinión pública en un terreno administrado
-- desplaza temas estructurales fuera del debate visible
-- vuelve “extremista” cualquier diagnóstico que cuestione intereses sistémicos
+En TL, el nodo vale porque explica cómo una sociedad puede ser guiada sin censura abierta constante. Muchas veces alcanza con volver inverosímil, ridículo o socialmente riesgoso todo lo que quede fuera del marco dominante.
 
-## Relación con otros nodos
+### 3. Del modelo mediático al entorno de plataformas
 
+Su potencia contemporánea aumenta cuando se suma algoritmo, verificación, ranking, desmonetización y visibilidad diferencial. Ahí el viejo modelo de medios se integra a la infraestructura digital.
+
+## Con que conecta
+
+- [[Walter Lippmann]]
 - [[Narrativa Unica]]
-- [[Ventana de Overton]]
-- [[Operaciones Psicologicas]]
-- [[Censura]]
-- [[Propaganda]]
-
-## Observación TL
-
-La manufactura de consenso no exige una conspiración total centralizada. Puede emerger de incentivos compartidos, alineamientos de clase, dependencia institucional y miedo a quedar fuera de la coalición dominante.
+- [[Ingenieria de Consentimiento]]
+- [[Complejo Industrial de la Censura]]
+- [[NewsGuard]]

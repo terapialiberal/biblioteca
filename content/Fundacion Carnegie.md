@@ -4,7 +4,7 @@ aliases:
   - Carnegie Endowment
   - Fundación Carnegie
 created: 2026-01-29T19:17:14.417-03:00
-modified: 2026-04-18T10:52:36.232-03:00
+modified: 2026-04-18T10:52:43.658-03:00
 tags:
   - carnegie
   - fundaciones

@@ -1,48 +1,53 @@
 ---
-titulo: ADL (Anti-Defamation League)
-tipo: "concepto"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [aipac, splc]
 publish: true
+aliases:
+  - ADL
+  - Anti-Defamation League
+created: 2026-01-29T19:17:02.863-03:00
+modified: 2026-04-20T10:25:12.720-03:00
+tags:
+  - adl
+  - anti-defamation-league
+  - censura
+  - reputacion
+  - plataformas
+  - tl-intel-v3
 ---
-
-![ADL Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Anti-Defamation_League_logo.svg/220px-Anti-Defamation_League_logo.svg.png)
 
 # ADL (Anti-Defamation League)
 
-## Resumen Ejecutivo
+## BLUF
 
-**¿Qué es?** Organización fundada en 1913, supuestamente para combatir el antisemitismo tras el juicio de Leo Frank (quien fue linchado por matar a Mary Phagan, aunque la ADL sostiene su inocencia). Hoy es la "policía del pensamiento" de Internet.
+[[ADL (Anti-Defamation League)|ADL]] importa en TL como organizacion con capacidad para influir sobre reputacion, discurso aceptable, plataformas y marcos de seguridad narrativa. Su valor analitico no pasa solo por su identidad institucional declarada, sino por su funcion recurrente como actor de presion en conflictos donde moderacion, odio, legitimidad y costos reputacionales se vuelven instrumentos de gobierno indirecto.
 
-**¿Por qué importa?** Se han convertido en socios "de confianza" ("Trusted Flaggers") de YouTube, Facebook y Twitter (pre-Musk) para censurar contenido. Deciden qué es "discurso de odio". Históricamente, han operado como una agencia de espionaje privada illegal.
+## Por que importa en TL
 
-## Análisis (Tiers)
+- conecta activismo reputacional, plataformas, anunciantes y arbitraje moral del discurso;
+- ayuda a leer como parte del control narrativo contemporaneo opera via trusted partners, presion publica y umbrales de respetabilidad;
+- funciona como nodo de acople entre [[X]], [[Elon Musk vs ADL]] y corredores mas amplios de censura distribuida.
 
-### Tier A (Censores)
+## Que cambio
 
-- **Silicon Valley Partner:** Proveen las listas negras de canales y palabras clave que los algoritmos deben suprimir.
-- **Entrenamiento Policial:** La ADL entrena a todos los reclutas del FBI y a la policía de EEUU.
+La nota venia en formato muy viejo, con framing excesivamente cerrado y tipo incorrecto como `concepto`. Se recompila como nodo canonico para separar mejor funcion institucional, mecanismos de presion y utilidad dentro del corredor de plataformas.
 
-### Tier B (Operativa)
+## Lectura TL
 
-- **Escándalo de Espionaje (1993):** La policía allanó las oficinas de la ADL en San Francisco y encontró archivos ilegales sobre 12,000 americanos (grupos anti-apartheid, sindicatos, congresistas árabes). Su "investigador" Roy Bullock vendía info a la inteligencia sudafricana. Fue un escándalo masivo enterrado por los medios.
-- **Abe Foxman:** Director por décadas, convirtió la organización en un arma política para destruir reputaciones de críticos de Israel.
+### 1. Poder reputacional sin coercion directa
 
-### Tier C (Narrativa)
+ADL importa porque muestra una forma de poder que no necesita necesariamente mandar sobre el Estado o una plataforma para influir. Le alcanza con fijar etiquetas, elevar costos reputacionales y empujar decisiones de terceros.
 
-- "Combatir el odio"
-- "Derechos civiles"
+### 2. Moderacion por ecosistema
 
-## Conexiones
+En TL, su relevancia aumenta cuando se observa que la definicion practica de lo tolerable no surge solo de leyes o terminos de servicio, sino tambien de intermediarios con legitimidad moral, acceso a medios y capacidad de presion sobre marcas.
 
-- [[AIPAC]]
-- [[FBI]] (a quienes entrenan y espían a la vez)
-- [[SPLC]] (organización hermana en tácticas)
+### 3. Seguridad narrativa como extension institucional
 
-## Fuentes
+Su valor crece al leerla menos como ONG aislada y mas como pieza dentro de un ecosistema donde activismo, plataformas, prensa y actores politicos convergen para administrar bordes del discurso publico.
 
-- "Defamation" (Documental de Yoav Shamir)
-- Archivos policiales del caso de espionaje de 1993
+## Con que conecta
+
+- [[X]]
+- [[Elon Musk vs ADL]]
+- [[Twitter Files]]
+- [[FBI]]
+- [[Complejo Industrial de la Censura]]

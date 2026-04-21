@@ -1,43 +1,41 @@
 ---
-titulo: "Neoconservadurismo: La Ideología Del Imperio Estadounidense"
-tipo: "concepto"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [aipac, ideologa, industria, neoconservadurismo]
 publish: true
+created: 2026-01-29T19:17:26.561-03:00
+modified: 2026-04-21T12:57:42.354-03:00
+tags:
+  - "#neoconservadurismo"
+  - "#hegemonia"
+  - "#guerra"
+  - "#politica-exterior"
+  - "#tl-intel-v3"
 ---
 
-# Neoconservadurismo: La Ideología Del Imperio Estadounidense
+# Neoconservadurismo
 
-> [!ABSTRACT] Hipótesis Informativa
-> El neoconservadurismo es la ideología Tier A que promueve la hegemonía militar estadounidense global mediante intervenciones preventivas, creación de enemigos y justificación de guerras permanentes.
+## BLUF
 
-## Análisis De Tiers
+[[Neoconservadurismo]] importa en TL como doctrina de hegemonía estadounidense basada en excepcionalismo, expansión estratégica, guerra preventiva y reingeniería del orden internacional.
 
-### Tier A: Think Tanks Y Operadores De Política Exterior
+## Por qué importa en TL
 
-- **Diseño de Estrategia:** Creación de marcos de intervención militar global.
+- conecta think tanks, política exterior, industria militar y producción de enemigos;
+- sirve para leer la continuidad doctrinal detrás de muchas guerras "por la libertad";
+- ayuda a distinguir conservadurismo doméstico de imperialismo liberal-militarizado.
 
-### Tier B: Industria Militar Y Gobiernos
+## Qué cambió
 
-- **Ejecución de Guerras:** Implementación de intervenciones y sanciones.
+La nota venía excesivamente breve, cerrada y con mojibake. Se recompila como concepto reusable con mayor densidad analítica.
 
-### Tier C: Población Estadounidense Y Global
+## Lectura TL
 
-- **Sometimiento Narrativo:** Aceptación de guerras como "defensa de libertad".
+El neoconservadurismo importa porque transforma superioridad militar y excepcionalismo moral en derecho de intervención. En esa lógica, el mundo aparece como tablero a estabilizar mediante fuerza, sanción, cambio de régimen y narrativa democrática.
 
-## Mecanismos De Poder
+En TL, el nodo vale cuando se usa para conectar doctrina, instituciones y operadores concretos, en vez de dejarlo como rótulo ideológico vacío.
 
-1. **Creación de Enemigos:** Diseño de amenazas externas (terrorismo, Rusia, China).
-2. **Guerras Preventivas:** Justificación de intervenciones antes de supuestas amenazas.
+## Con qué conecta
 
-## Conexiones Críticas
-
-- [[Industria Militar Complejo]]: Beneficiario directo.
-- [[AIPAC]]: Influencia en política exterior.
-
-## Conclusión Del Análisis
-
-El neoconservadurismo es la ideología que justifica el imperialismo militar estadounidense para beneficio de la oligarquía.
+- [[Leo Strauss]]
+- [[Proyecto para el Nuevo Siglo Estadounidense]]
+- [[Paul Wolfowitz]]
+- [[Industria Militar Complejo]]
+- [[AIPAC]]

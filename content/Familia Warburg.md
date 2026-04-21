@@ -37,7 +37,7 @@ publish: true
 
 - [[Reserva Federal / Jekyll Island]] (Su creación más potente)
 - [[Familia Rothschild]] (Socios y parientes por matrimonio)
-- [[CFR (Council on Foreign Relations)]] (Sus fundadores)
+- [[CFR]] (Sus fundadores)
 - [[Kuhn, Loeb & Co]] (Su plataforma de inversión estratégica)
 
 ## Por Qué Importa (Estilo Nico)

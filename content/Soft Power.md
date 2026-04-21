@@ -3,7 +3,7 @@ publish: true
 aliases:
   - "Soft Power: el Arte de la Conquista por Consentimiento"
 created: 2026-01-29T19:17:37.536-03:00
-modified: 2026-04-18T10:57:55.927-03:00
+modified: 2026-04-19T12:01:51.206-03:00
 tags:
   - soft-power
   - cultura
@@ -53,4 +53,4 @@ Leído junto con [[NED]], [[USAID]], [[Hollywood]] y [[Fundacion Ford]], Soft Po
 - [[USAID]]
 - [[Hollywood]]
 - [[Fundacion Ford]]
-- [[Operación Mockingbird]]
+- [[Operacion Mockingbird]]

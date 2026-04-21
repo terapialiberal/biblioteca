@@ -1,54 +1,54 @@
 ---
-titulo: William Donovan
-tipo: "persona"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [allen, donovan, wall, william]
 publish: true
+created: 2026-01-29T19:17:44.430-03:00
+modified: 2026-04-19T13:22:59.465-03:00
+tags:
+  - william-donovan
+  - oss
+  - inteligencia
+  - cia
+  - elite-estadounidense
+  - tl-intel-v3
 ---
 
 # William Donovan
 
-> **Perfil TL:** "Wild Bill" - El abogado de Wall Street que fundó la OSS y estableció el ADN de la CIA.
+## BLUF
 
-## Resumen Ejecutivo
+[[William Donovan]] importa en TL como figura fundacional del aparato de inteligencia exterior estadounidense. Como jefe de la [[OSS]], organizo una estructura que mezclo guerra, espionaje, elite profesional y cooperacion britanica, dejando buena parte del ADN institucional que luego heredaria la [[CIA]].
 
-**¿Quién es?** Mayor General del Ejército, fundador y director de la [[Oficina de Servicios Estratégicos|OSS (Oficina de Servicios Estratégicos)]] (1942-1945). Abogado de Wall Street antes y después de la guerra.
+## Por que importa en TL
 
-**¿Por qué importa?** Estableció el modelo de que la inteligencia estadounidense estaría dominada por las élites de Wall Street y trabajaría estrechamente con la inteligencia británica.
+- permite personalizar el paso desde inteligencia de guerra hacia burocracia permanente de seguridad nacional;
+- ayuda a entender que el reclutamiento inicial del aparato incluyo redes de elite, derecho, finanzas y diplomacia;
+- funciona como nodo de origen para leer la genealogia que desemboca en [[Allen Dulles]] y el corredor de operaciones encubiertas de posguerra.
 
-## Análisis De Poder (Tiers)
+## Que cambio
 
-### Tier B (Operador Fundacional)
+La nota anterior mezclaba resumen, tono polemico y afirmaciones demasiado cerradas. Se recompila con foco en funcion historica, lectura TL y conectividad reusable.
 
-- Abogado de la firma Donovan, Leisure, Newton & Irvine.
-- Conexiones con J.P. Morgan y otros banqueros.
-- Reclutó OSS de Yale, Harvard, y Wall Street.
+## Lectura TL
 
-## El Modelo OSS
+### 1. Fundador operativo de la OSS
 
-Donovan estableció:
+Donovan dirigio la [[OSS]] durante la Segunda Guerra Mundial y empujo la idea de que Estados Unidos necesitaba una capacidad integrada de inteligencia, sabotaje, analisis y enlace internacional.
 
-1. Reclutamiento de la élite social y económica.
-2. Colaboración estrecha con [[MI6]] británico.
-3. Operaciones encubiertas sin supervisión del Congreso.
-4. Puerta giratoria con el sector privado.
+### 2. Inteligencia hecha desde redes altas
 
-## Conexiones Clave
+Su importancia en TL radica tambien en el ecosistema social del que recluto cuadros: universidades de elite, bufetes, finanzas, diplomacia, academia y mandos militares. Eso sugiere que la inteligencia exterior estadounidense se organizo desde arriba y con fuerte sesgo de establishment.
 
-- [[Oficina de Servicios Estratégicos|OSS (Oficina de Servicios Estratégicos)]]
+### 3. Continuidad estrategica
+
+Aunque la OSS no sobrevivio como tal al final de la guerra, la arquitectura mental que impulso Donovan si persistio: centralizacion de informacion, operaciones especiales y cooperacion estrecha con aliados anglosajones.
+
+### 4. Precedente para la seguridad nacional permanente
+
+En TL, Donovan importa menos como heroe individual y mas como punto de arranque de un aparato que luego excede a cualquier persona concreta y termina sedimentado en la [[CIA]] y el resto del complejo de seguridad nacional.
+
+## Con que conecta
+
+- [[OSS]]
 - [[CIA]]
-- [[Allen Dulles]]
 - [[MI6]]
-- [[Wall Street]]
-
-## Fuentes
-
-- "The Last Hero" - Anthony Cave Brown
-- OSS records (National Archives)
-
-## Por Qué Importa (Estilo Nico)
-
-> "Donovan fue el tipo que decidió que el servicio de inteligencia de EEUU debía estar compuesto por abogados de Wall Street, banqueros, y herederos de fortuna. No por soldados. No por patriotas de clase media. Por la élite. Y diseñó todo el sistema con ayuda del MI6 británico. El ADN de la CIA viene de ahí."
+- [[Allen Dulles]]
+- [[Hermanos Dulles]]

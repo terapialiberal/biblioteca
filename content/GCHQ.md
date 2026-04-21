@@ -1,51 +1,51 @@
 ---
-titulo: GCHQ
-tipo: "concepto"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [cinco, gchq, revelaciones]
 publish: true
+created: 2026-01-29T19:17:14.868-03:00
+modified: 2026-04-19T12:55:18.573-03:00
+tags:
+  - gchq
+  - five-eyes
+  - uk
+  - sigint
+  - vigilancia
+  - tl-intel-v3
 ---
 
 # GCHQ
 
-> **Perfil TL:** La NSA británica. Espía a estadounidenses cuando la NSA no puede legalmente.
+## BLUF
 
-## Resumen Ejecutivo
+[[GCHQ]] importa en TL como principal aparato británico de inteligencia de señales y como socio estructural del ecosistema [[Five Eyes]]. Su valor no está solo en la vigilancia nacional, sino en servir como nodo de captura, compartición y externalización legal de inteligencia dentro del bloque anglosajón.
 
-**¿Qué es?** Government Communications Headquarters. La agencia de inteligencia de señales del Reino Unido, equivalente a la [[NSA]]. Parte de los [[Cinco Ojos (Five Eyes)]].
+## Por que importa en TL
 
-**¿Por qué importa?** Por el acuerdo UKUSA, GCHQ puede espiar ciudadanos estadounidenses (y viceversa), evadiendo las restricciones legales domésticas de cada país.
+- conecta cables submarinos, interceptación masiva y cooperación transnacional de señales;
+- ayuda a leer cómo alianzas de inteligencia distribuyen funciones y restricciones entre jurisdicciones;
+- funciona como puente entre [[Agencia de Seguridad Nacional]], Reino Unido y el corredor de vigilancia revelado por Snowden.
 
-## Análisis De Poder (Tiers)
+## Que cambio
 
-### Tier B (Operador)
+La nota seguía en formato viejo y demasiado comprimida en slogan. Se recompila como entidad reusable para dejar mejor diferenciados rol institucional, programas y lectura estratégica.
 
-- Intercepción de comunicaciones globales.
-- Programa Tempora: captura TODO el tráfico de internet de cables submarinos.
-- Colaboración con NSA en programas de vigilancia masiva.
+## Lectura TL
 
-## Programas Revelados Por Snowden
+### 1. Socio operativo del bloque anglosajón
 
-- **Tempora:** Almacena TODO el tráfico de fibra óptica por 30 días.
-- **Optic Nerve:** Capturaba imágenes de webcams de Yahoo.
-- **Stateroom:** Intercepción desde embajadas.
+GCHQ importa porque expande la capacidad de vigilancia del sistema Five Eyes más allá de una sola agencia nacional.
 
-## Conexiones Clave
+### 2. Cables, embajadas y recolección
 
-- [[NSA]]
-- [[Cinco Ojos (Five Eyes)]]
-- [[Revelaciones de Snowden]]
-- [[MI6]]
+En TL, su relevancia aumenta cuando se observa que buena parte de su ventaja proviene de infraestructura de tránsito global, estaciones de interceptación y cooperación técnica continua.
+
+### 3. Externalización de límites legales
+
+Su utilidad analítica aparece al mostrar cómo agencias aliadas pueden compartir datos y funciones de forma que cada una esquive parcialmente sus restricciones domésticas.
+
+## Con que conecta
+
+- [[Five Eyes]]
+- [[Agencia de Seguridad Nacional]]
+- [[Edward Snowden]]
 - [[Red Echelon]]
-
-## Fuentes
-
-- Documentos de Snowden (The Guardian, 2013)
-- gchq.gov.uk
-
-## Por Qué Importa (Estilo Nico)
-
-> "El GCHQ tiene un programa llamado Tempora que literalmente guarda TODO el tráfico de internet que pasa por los cables submarinos británicos durante 30 días. Todo. Correos, chats, videos. Y luego lo comparte con la NSA. ¿Privacidad? Es un concepto del siglo XX."
+- [[Vigilancia Masiva]]
+- [[XKeyscore]]

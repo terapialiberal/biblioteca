@@ -3,7 +3,7 @@ publish: true
 aliases:
   - "Línea De Tiempo: 1940s-1960s (La Cuna Del Deep State)"
 created: 2026-01-29T19:17:23.292-03:00
-modified: 2026-04-07T12:09:00.724-03:00
+modified: 2026-04-20T19:35:28.692-03:00
 tags:
   - timeline
   - deep-state
@@ -29,7 +29,7 @@ tags:
 ### 1950s
 
 - [[Operación Ajax]]
-- [[Grupo Bilderberg]]
+- [[Bilderberg]]
 - [[Operación PBSUCCESS]]
 
 ### 1960s
@@ -42,7 +42,7 @@ tags:
 
 - [[CIA]]
 - [[Allen Dulles]]
-- [[Grupo Bilderberg]]
+- [[Bilderberg]]
 - [[Complejo Militar-Industrial]]
 
 ## Observación operativa

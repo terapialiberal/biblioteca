@@ -1,52 +1,51 @@
 ---
 publish: true
-titulo: Agencia De Inteligencia
-tipo: "entidad"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [agencia, inteligencia, mossad]
+created: 2026-01-29T19:17:02.955-03:00
+modified: 2026-04-19T12:56:49.992-03:00
+tags:
+  - agencia-de-inteligencia
+  - inteligencia
+  - estado-profundo
+  - sigilo
+  - seguridad
+  - tl-intel-v3
 ---
 
-# Agencia De Inteligencia
+# Agencia de inteligencia
 
-![](https://wikispooks.com/w/images/e/ec/Intelligence_agency.png)
+## BLUF
 
-## Resumen General
+[[Agencia de inteligencia]] importa en TL como categoría para pensar aparatos estatales dedicados a recolección, análisis, contrainteligencia y operaciones encubiertas. Su valor no está en cada organismo puntual, sino en mostrar una forma institucional de poder que opera con secreto, presupuestos opacos y margen de acción excepcional.
 
-Wikispooks define a las agencias de inteligencia no como protectoras de la nación, sino como los brazos ejecutores del "Deep State". Operando bajo un velo de secreto y con presupuestos negros, estas agencias (CIA, MI6, Mossad, etc.) se dedican menos a la recopilación de información y más a operaciones encubiertas ilegales, incluyendo asesinatos, tráfico de drogas y cambios de régimen.
+## Por que importa en TL
 
-## Puntos Clave Para Video
+- conecta [[CIA]], [[Agencia de Seguridad Nacional]], [[Mossad]] y [[MI6]] dentro de una familia funcional común;
+- ayuda a leer cómo seguridad, información y operaciones especiales se articulan bajo lógicas de baja transparencia;
+- funciona como nodo paraguas para corredores sobre vigilancia, guerra híbrida y estado profundo.
 
-### 1. Crimen Organizado Estatal
+## Que cambio
 
-- **Actividades Ilegales:** La entrada destaca que una parte mayoritaria de sus actividades incluye narcotráfico (para financiar operaciones negras), lavado de dinero y ciberterrorismo.
-- **Privatización:** Hay una tendencia creciente a subcontratar el espionaje a corporaciones privadas (como Stratfor o Palantir), lo que elimina incluso la pretensión de supervisión democrática.
+La nota seguía en formato viejo, orientada a ángulos de video y demasiado cerrada en framing. Se recompila como concepto reusable para fijar mejor la categoría y su utilidad analítica.
 
-### 2. La Farsa De La Supervisión
+## Lectura TL
 
-- **Control Simulado:** Los comités de supervisión parlamentaria o del congreso son descritos como "token", diseñados para dar una apariencia de control sin tener acceso real a los "programas de acceso especial" (SAP).
-- **Falta de Lealtad Nacional:** Wikispooks argumenta que estas agencias sirven a intereses transnacionales (el "Supranational Deep State") más que al interés nacional del país que las financia.
+### 1. Secreto como ventaja institucional
 
-### 3. El Estado Profundo
+Una agencia de inteligencia importa porque combina acceso privilegiado a información con capacidad de actuar fuera de la visibilidad pública ordinaria.
 
-- **El Núcleo del Poder:** Las agencias de inteligencia son el núcleo operativo del Estado Profundo, capaces de manipular políticos, chantajear líderes (redes tipo Epstein) y orquestar eventos de falsa bandera para justificar guerras o leyes represivas.
+### 2. Información que produce realidad
 
-## Ángulos Posibles Para El Video
+En TL, su relevancia crece cuando se observa que estas agencias no solo recolectan datos. También moldean agendas, percepciones de amenaza y marcos de decisión.
 
-1. **¿A Quién Sirven Realmente?:** Desmontar el mito de que la CIA/NSA trabajan para "el pueblo estadounidense".
-2. **La Privatización del Espionaje:** El peligro de mercenarios de inteligencia corporativos sin ninguna lealtad patriótica.
+### 3. Burocracias de excepción
 
-## Ver También
+Su utilidad aparece al pensar cómo el secreto, la seguridad y la urgencia justifican prácticas que en otras áreas del Estado serían políticamente inviables.
+
+## Con que conecta
 
 - [[CIA]]
 - [[Agencia de Seguridad Nacional]]
 - [[Mossad]]
 - [[MI6]]
 - [[Estado profundo]]
-- [[Glosario - Deep State]]
-
-## Referencias
-
-- <https://wikispooks.com/wiki/Intelligence_agency>
+- [[Five Eyes]]

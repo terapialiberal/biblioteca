@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-01-29T19:17:16.990-03:00
-modified: 2026-04-17T13:00:37.810-03:00
+modified: 2026-04-20T10:43:53.535-03:00
 tags:
-  - heritage
+  - heritage-foundation
   - project-2025
   - think-tank
   - trumpismo
+  - venture-politica
   - tl-intel-v3
 ---
 
@@ -14,36 +15,36 @@ tags:
 
 ## BLUF
 
-[[Heritage Foundation]] importa en TL menos como think tank conservador genérico y más como fábrica de ejecutabilidad: convierte doctrina, staffing y red de alianzas en capacidad real de captura institucional.
+[[Heritage Foundation]] importa en TL menos como think tank conservador generico y mas como fabrica de ejecutabilidad institucional. Su valor no esta solo en producir doctrina, sino en transformar ideas, cuadros y alianzas en capacidad concreta de captura del aparato estatal.
 
-## Por qué importa
+## Por que importa en TL
 
 - articula el pasaje de documento a aparato;
 - vuelve operativo [[Project 2025]];
-- ofrece un puente entre guerra cultural, seguridad, energía e infraestructura tecnopolítica.
+- ofrece un puente entre guerra cultural, seguridad, energia e infraestructura tecnopolitica dentro del bloque conservador.
 
-## Delta reciente
+## Que cambio
 
-Los videos de abril agregaron una capa importante: Heritage no aparece solo como usina doctrinaria, sino también como nodo que ya había modelado escenarios de crisis sobre [[Estrecho de Ormuz]]. Eso la vuelve relevante no solo en política doméstica, sino en la interfaz entre energía, guerra y rediseño del Ejecutivo.
+La nota ya tenia una lectura util, pero quedaba algo breve para el peso que ahora tiene dentro del frente `venture / politica`. Se recompila para dejar mas clara su funcion como interfaz entre doctrina, staffing y gobierno.
 
 ## Lectura TL
 
-### 1. Think tank con vocación de gobierno
+### 1. Think tank con vocacion de mando
 
-Su valor sistémico no está en opinar, sino en reclutar, ordenar cuadros y dejar preescrito el manual de intervención sobre el Estado.
+Heritage importa porque no se conforma con influir en el debate. Su potencia aparece cuando recluta cuadros, ordena prioridades y deja preescritos mecanismos de intervencion sobre el Estado.
 
-### 2. Capa de anticipación
+### 2. Doctrina que busca ejecutarse
 
-Cuando un actor como Heritage aparece ligado a escenarios energéticos y luego a un manual ejecutivo, deja de ser solo comentarista del sistema y pasa a parecer parte de la premodelización del terreno.
+En TL, su relevancia aumenta cuando se la conecta con agendas de seguridad, energia, burocracia y guerra cultural que requieren mas que narrativa: requieren manuales, equipos y arquitectura administrativa.
 
-### 3. Puente hacia la derecha tecnocrática
+### 3. Interfaz entre conservadurismo y nueva derecha
 
-Heritage sirve como interfaz entre conservadurismo institucional, seguridad nacional y ecosistema de poder que quiere más centralización ejecutiva con lenguaje anti-establishment.
+Su valor crece porque puede actuar como traductor institucional entre la derecha conservadora clasica y corrientes mas nuevas ligadas a tecnocracia, soberania industrial y centralizacion ejecutiva.
 
-## Conexiones
+## Con que conecta
 
 - [[Project 2025]]
 - [[Schedule F]]
-- [[Estrecho de Ormuz]]
-- [[J.D. Vance]]
+- [[JD Vance]]
+- [[Donald Trump]]
 - [[Palantir]]

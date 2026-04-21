@@ -36,7 +36,7 @@ publish: true
 
 - [[00_Glosario - Conceptos Fase 1#Partido Comunista Chino|Partido Comunista Chino]] (Su verdadero dueño)
 - [[5G / Guerra Tecnológica]] (Su campo de batalla)
-- [[Belt and Road Initiative (BRI)]] (Su vehículo de expansión)
+- [[Belt and Road Initiative]] (Su vehículo de expansión)
 - [[TikTok / Vigilancia de Datos]] (Sus aliados tácticos)
 
 ## Por Qué Importa (Estilo Nico)

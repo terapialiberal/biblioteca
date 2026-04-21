@@ -1,46 +1,51 @@
 ---
-titulo: Hermanos Dulles (Allen & John Foster)
-tipo: "persona"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [asesinato, dulles, hermanos, mkultra]
 publish: true
+created: 2026-01-29T19:17:17.013-03:00
+modified: 2026-04-19T13:22:59.540-03:00
+tags:
+  - hermanos-dulles
+  - allen-dulles
+  - john-foster-dulles
+  - guerra-fria
+  - elite-estadounidense
+  - tl-intel-v3
 ---
 
-# Hermanos Dulles (Allen & John Foster)
+# Hermanos Dulles
 
-## Perfil TL (Resumen Ejecutivo)
+## BLUF
 
-**¿Quiénes eran?** El dueto de poder más formidable de los años 50: **John Foster Dulles** (Secretario de Estado) y **Allen Dulles** (Director de la CIA). Socios del bufete de Wall Street **Sullivan & Cromwell**.
+[[Hermanos Dulles]] importa en TL como etiqueta sintetica para leer el acople entre diplomacia, inteligencia y establishment juridico-financiero en la primera Guerra Fria. El par formado por [[Allen Dulles]] y [[John Foster Dulles]] permite condensar una arquitectura de poder donde politica exterior y operaciones encubiertas quedaron estrechamente articuladas.
 
-**¿Por qué importa?** Los Hermanos Dulles representan la **Captura Corporativa del Estado Americano de Tier A**. No eran servidores públicos; eran los abogados de la élite financiera (IG Farben, United Fruit, Rockefeller) que utilizaron el aparato de inteligencia y diplomacia de EE.UU. como su bufete privado de ejecución. Bajo su mando, la "Seguridad Nacional" fue redefinida como la protección de los activos extranjeros de sus clientes de Wall Street. Allen Dulles convirtió a la **[[CIA]]** en un ejército de mercenarios estatales para derrocar gobiernos que amenazaran los intereses corporativos (**Irán 1953, Guatemala 1954**). Son los creadores del laberinto de secretos que permitió el **[[MKUltra]]** y que, según investigaciones serias, culminó en el **[[Asesinato de JFK]]** cuando Allen fue removido de su cargo.
+## Por que importa en TL
 
-## Análisis De Poder (Tiers)
+- ofrece un nodo paraguas para leer juntas las trayectorias de Allen y John Foster sin duplicar todo en cada nota personal;
+- ayuda a mapear la coordinacion entre Departamento de Estado, [[CIA]] y redes de elite;
+- funciona como entrada compacta para el corredor [[Golpe en Iran 1953]] / [[Golpe en Guatemala]] / [[Bahia de Cochinos]].
 
-### Tier A (Los Dueños De La Firma Global)
+## Que cambio
 
-- **Sullivan & Cromwell como Gobierno:** El bufete de los Dulles representaba a los carteles que financiaron el ascenso de Hitler y a las multinacionales que saqueaban Latinoamérica. El Tier A financiero utilizó a los hermanos para asegurar que el poder militar de EE.UU. fuera el "músculo" de sus inversiones privadas.
-- **Inmunidad de la Élite:** Allen Dulles operó con total autonomía, reportando a la fraternidad de Wall Street antes que al Presidente. Su control sobre la **[[Comisión Warren]]** (encargada de investigar la muerte de JFK) es el ejemplo supremo de Tier A investigándose a sí mismo para ocultar la verdad.
+La nota anterior estaba hipertrofiada, muy cargada de tono y con demasiadas tesis cerradas. Se recompila como nodo sintesis para facilitar lectura transversal y backlinks.
 
-### Tier B (Operadores / Los Arquitectos Del Golpismo)
+## Lectura TL
 
-- **Allen Dulles:** El operador de Tier B que diseñó el modelo de cambio de régimen mediante operaciones psicológicas y sobornos, alejando a EE.UU. de la diplomacia tradicional hacia la guerra encubierta permanente.
-- **John Foster Dulles:** El operador diplomático de Tier B que utilizó la "amenaza comunista" como la justificación moral perfecta ante el Tier C para invadir cualquier país que quisiera nacionalizar sus propios recursos.
+### 1. Diplomatico mas operador encubierto
 
-### Tier C (Narrativa Pública)
+La relevancia de los hermanos Dulles no pasa solo por el parentesco. Importan porque uno opero desde la diplomacia de alto nivel y el otro desde la inteligencia, reforzando la percepcion de una misma orientacion estrategica desde dos brazos del Estado.
 
-- "Cruzados anticomunistas". "Defensores del mundo libre". Narrativas patrióticas de Tier B que el Tier C consumió durante la Guerra Fría, ignorando que sus impuestos y sus hijos estaban siendo utilizados para proteger los dividendos de las empresas de los clientes de los Dulles en el extranjero.
+### 2. Puente entre elite privada y aparato publico
 
-## Conexiones Clave
+En TL, el nodo sirve para pensar como ciertas redes de bufetes, grandes intereses empresariales, politica exterior y seguridad nacional se tocaron de manera especialmente densa durante los anos cincuenta.
 
-- [[CIA (Central Intelligence Agency)]] (Su creación personal)
-- [[Golpe en Guatemala (1954)]] (Operación para beneficiar a su cliente United Fruit)
-- [[Golpe en Irán 1953]] (Operación para beneficiar a su cliente Anglo-Iranian Oil)
-- [[MKUltra]] (La demolición de la psique autorizada por Allen)
-- [[Asesinato de JFK / Comisión Warren]] (Su participación en la ejecución y el encubrimiento)
+### 3. Formula de la Guerra Fria temprana
 
-## Por Qué Importa (Estilo Nico)
+La asociacion entre ambos resume una logica recurrente: discurso anticomunista, defensa de posicion geopolitica, proteccion de intereses occidentales y uso combinado de presion diplomatica y accion clandestina.
 
-> "Los hermanos Dulles fueron los que convirtieron a EE.UU. en una empresa de seguridad para Wall Street. El tipo de la CIA (Allen) y el de Relaciones Exteriores (John Foster) eran socios del bufete de abogados más pesado del mundo. Imaginate: si una frutera de sus amigos tenía problemas con un presidente en Guatemala, ellos mandaban a la CIA a voltearlo. Así de corta. Son los que inventaron el 'lavado de cerebro' con MKUltra y los que se importaron a los científicos nazis con la Operación Paperclip. Cuando Kennedy se cansó de Allen y lo echó, a los pocos meses lo bajaron a JFK en Dallas. Y lo más loco es que después Allen se puso él mismo a investigar quién lo mató. Fue el jefe de los dueños del circo."
+## Con que conecta
+
+- [[Allen Dulles]]
+- [[John Foster Dulles]]
+- [[CIA]]
+- [[Golpe en Iran 1953]]
+- [[Golpe en Guatemala]]
+- [[Bahia de Cochinos]]

@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-02-24T13:33:13.310-03:00
-modified: 2026-04-17T18:27:26.352-03:00
+modified: 2026-04-21T11:52:35.506-03:00
 tags:
-  - moc
-  - tecnologia-de-control
-  - ia
-  - vigilancia
-  - tl-intel-v3
+  - "#moc"
+  - "#tecnologia-de-control"
+  - "#ia"
+  - "#vigilancia"
+  - "#tl-intel-v3"
 ---
 
 # MOC - Tecnologia de Control
@@ -77,20 +77,27 @@ tags:
 - [[Pasaportes de Vacuna]]
 - [[Sistemas de Credito Social]]
 - [[Social Credit West]]
-- [[CBDC (Moneda Digital de Banco Central)]]
+- [[CBDC]]
 - [[CBDC Expiration]]
 - [[Project mBridge]]
 - [[Better Than Cash Alliance]]
 
 ## Bioseguridad y Control Corporal
 
+- [[Biopolitica]]
+- [[Bioseguridad]]
+- [[Salud Global]]
 - [[Fundacion Bill y Melinda Gates]]
 - [[Tratado de Pandemias OMS]]
 - [[GAVI]]
 - [[CEPI]]
 - [[World Health Organization]]
+- [[Tedros Adhanom Ghebreyesus]]
 - [[One Health]]
+- [[Vigilancia Biologica]]
 - [[EcoHealth Alliance]]
+- [[Ganancia de Funcion]]
+- [[Instituto de Virologia de Wuhan]]
 - [[Moderna]]
 - [[Stephane Bancel]]
 - [[Pfizer]]
@@ -126,23 +133,43 @@ tags:
 
 - [[15-Minute Cities.md|15-Minute Cities]]
 
+- [[Agencia de Seguridad Nacional.md|Agencia de Seguridad Nacional]]
+
 - [[05_Fuentes/Alaska avanza con la identidad digital impulsada por IA, plantea preocupaciones de privacidad.md|Alaska avanza con la identidad digital impulsada por IA, plantea preocupaciones de privacidad]]
+
+- [[Albert Bourla.md|Albert Bourla]]
+
+- [[Anduril Industries.md|Anduril Industries]]
+
+- [[Anthony Fauci.md|Anthony Fauci]]
 
 - [[05_Fuentes/ARCHIVO – Banderas de Estados Unidos y China en el Aeropuerto Internacional Gimhae en Busan, Corea del Sur, el 30 de octubre de 2025. (AP FotoMark Schiefelbein, Archivo).md|ARCHIVO – Banderas de Estados Unidos y China en el Aeropuerto Internacional Gimhae en Busan, Corea del Sur, el 30 de octubre de 2025. (AP FotoMark Schiefelbein, Archivo)]]
 
 - [[05_Fuentes/Bannon critica el corporativismo y la IA por destruir empleos y ahorros.md|Bannon critica el corporativismo y la IA por destruir empleos y ahorros]]
 
+- [[Big Pharma.md|Big Pharma]]
+
+- [[Biopolitica.md|Biopolitica]]
+
+- [[Bioseguridad.md|Bioseguridad]]
+
+- [[Booz Allen Hamilton.md|Booz Allen Hamilton]]
+
 - [[Cables submarinos el talon de Aquiles del mundo digital.md|Cables submarinos el talon de Aquiles del mundo digital]]
 
 - [[05_Fuentes/Cambio China hacia mercado interno.md|Cambio China hacia mercado interno]]
 
-- [[Capitalismo de Vigilancia.md|Capitalismo de Vigilancia]]
-
 - [[Carbine.md|Carbine]]
+
+- [[CDC.md|CDC]]
 
 - [[CEPI.md|CEPI]]
 
 - [[05_Fuentes/China accede a tecnologia nuclear de EEUU a traves.md|China accede a tecnologia nuclear de EEUU a traves]]
+
+- [[Ciberseguridad.md|Ciberseguridad]]
+
+- [[Cinco Ojos_LEGACY.md|Cinco Ojos_LEGACY]]
 
 - [[CISA Vigilancia 2026.md|CISA Vigilancia 2026]]
 
@@ -150,21 +177,29 @@ tags:
 
 - [[05_Fuentes/Cómo Silicon Valley se convirtió en el nuevo complejo militar-industrial.md|Cómo Silicon Valley se convirtió en el nuevo complejo militar-industrial]]
 
-- [[Complejo Industrial de la Censura.md|Complejo Industrial de la Censura]]
-
 - [[Computacion Espacial.md|Computacion Espacial]]
+
+- [[Conocimiento total de la informacion.md|Conocimiento total de la informacion]]
 
 - [[Criptografia Arcaica.md|Criptografia Arcaica]]
 
 - [[Cuerpos de Luz vs Datos.md|Cuerpos de Luz vs Datos]]
 
+- [[DarkTrace.md|DarkTrace]]
+
+- [[DARPA.md|DARPA]]
+
 - [[05_Fuentes/DARPA MAGICS busca un cambio de paradigma en la predicción del comportamiento humano colectivo.md|DARPA MAGICS busca un cambio de paradigma en la predicción del comportamiento humano colectivo]]
+
+- [[Departamento Seguridad Nacional.md|Departamento Seguridad Nacional]]
 
 - [[Desastre del Hindenburg.md|Desastre del Hindenburg]]
 
 - [[DNA Data Storage.md|DNA Data Storage]]
 
 - [[EcoHealth Alliance.md|EcoHealth Alliance]]
+
+- [[Edward Snowden.md|Edward Snowden]]
 
 - [[05_Fuentes/EE.UU. lanza GenAI IA avanzada para potenciar a sus militares.md|EE.UU. lanza GenAI IA avanzada para potenciar a sus militares]]
 
@@ -178,19 +213,33 @@ tags:
 
 - [[05_Fuentes/El sueño de la Conciencia Total de la Información se hizo realidad, pero no en manos del gobierno.md|El sueño de la Conciencia Total de la Información se hizo realidad, pero no en manos del gobierno]]
 
+- [[EMA.md|EMA]]
+
 - [[05_Fuentes/Europa ha perdido internet, advierte el responsable de ciberseguridad de Bélgica.md|Europa ha perdido internet, advierte el responsable de ciberseguridad de Bélgica]]
 
 - [[Event 201.md|Event 201]]
 
 - [[Evento 201.md|Evento 201]]
 
+- [[FDA.md|FDA]]
+
 - [[Five Eyes Alliance_LEGACY.md|Five Eyes Alliance_LEGACY]]
+
+- [[Fort Detrick.md|Fort Detrick]]
 
 - [[Fundacion Bill y Melinda Gates.md|Fundacion Bill y Melinda Gates]]
 
 - [[Fundacion Huesped.md|Fundacion Huesped]]
 
+- [[Ganancia de Funcion.md|Ganancia de Funcion]]
+
 - [[GAVI.md|GAVI]]
+
+- [[GCHQ.md|GCHQ]]
+
+- [[Geocercas.md|Geocercas]]
+
+- [[Google.md|Google]]
 
 - [[Google Glass.md|Google Glass]]
 
@@ -205,6 +254,10 @@ tags:
 - [[05_Fuentes/Harari y la vigilancia total El fin de la libertad a través del crédito social.md|Harari y la vigilancia total El fin de la libertad a través del crédito social]]
 
 - [[Horus - El Ojo de la Vigilancia.md|Horus - El Ojo de la Vigilancia]]
+
+- [[In-Q-Tel.md|In-Q-Tel]]
+
+- [[Instituto de Virologia de Wuhan.md|Instituto de Virologia de Wuhan]]
 
 - [[Jeff Bezos.md|Jeff Bezos]]
 
@@ -222,25 +275,33 @@ tags:
 
 - [[05_Fuentes/Las conexiones de Jeffrey Epstein en la industria de la vigilancia.md|Las conexiones de Jeffrey Epstein en la industria de la vigilancia]]
 
-- [[Leidos.md|Leidos]]
-
 - [[LifeLog.md|LifeLog]]
 
 - [[05_Fuentes/LifeLog el proyecto de DARPA que quería registrar toda tu vida mucho antes de Facebook.md|LifeLog el proyecto de DARPA que quería registrar toda tu vida mucho antes de Facebook]]
 
 - [[Linea de Tiempo - 1980s-2000s.md|Linea de Tiempo - 1980s-2000s]]
 
+- [[Linux y Software Libre.md|Linux y Software Libre]]
+
 - [[Logic Borrosa y Gnosis.md|Logic Borrosa y Gnosis]]
 
 - [[Lucero del Alba y Espionaje.md|Lucero del Alba y Espionaje]]
+
+- [[Menwith Hill.md|Menwith Hill]]
+
+- [[Michael Hayden.md|Michael Hayden]]
 
 - [[Moderna.md|Moderna]]
 
 - [[Nanotecnologia.md|Nanotecnologia]]
 
+- [[Narendra Modi.md|Narendra Modi]]
+
 - [[NEWSLETTER_El_Gran_Desacople_2026.md|NEWSLETTER_El_Gran_Desacople_2026]]
 
 - [[06_Videos_Publicados/2026/2026-04-13_Ormuz_IA_Orden/NOTA_TESIS_Ormuz_IA_Orden.md|NOTA_TESIS_Ormuz_IA_Orden]]
+
+- [[NRO.md|NRO]]
 
 - [[One Health.md|One Health]]
 
@@ -258,9 +319,17 @@ tags:
 
 - [[05_Fuentes/Palantir, financiada por la CIA vinculada a Israel.md|Palantir, financiada por la CIA vinculada a Israel]]
 
+- [[Palmer Luckey.md|Palmer Luckey]]
+
+- [[Panoptico Digital.md|Panoptico Digital]]
+
+- [[Panóptico Digital.md|Panóptico Digital]]
+
 - [[Patriot Act.md|Patriot Act]]
 
 - [[Patron - Deepfake.md|Patron - Deepfake]]
+
+- [[Peter Daszak.md|Peter Daszak]]
 
 - [[06_Videos_Publicados/2026/2026-04-13_Ormuz_IA_Orden/PRE_STREAM_Ormuz_IA_Orden.md|PRE_STREAM_Ormuz_IA_Orden]]
 
@@ -276,11 +345,21 @@ tags:
 
 - [[05_Fuentes/Proyecto Génesis El nuevo Proyecto Manhattan de la era de la IA.md|Proyecto Génesis El nuevo Proyecto Manhattan de la era de la IA]]
 
+- [[Recorded Future.md|Recorded Future]]
+
+- [[Red Echelon.md|Red Echelon]]
+
+- [[Roko_s Basilisk_LEGACY.md|Roko_s Basilisk_LEGACY]]
+
+- [[SAIC.md|SAIC]]
+
 - [[Stephane Bancel.md|Stephane Bancel]]
 
 - [[05_Fuentes/Tecnologicas EEUU y Estado Policial China.md|Tecnologicas EEUU y Estado Policial China]]
 
 - [[05_Fuentes/Ted Cruz quiere que la vigilancia no sea China, sea propia.md|Ted Cruz quiere que la vigilancia no sea China, sea propia]]
+
+- [[Tedros Adhanom Ghebreyesus.md|Tedros Adhanom Ghebreyesus]]
 
 - [[Teoria del Internet Muerto.md|Teoria del Internet Muerto]]
 
@@ -290,14 +369,22 @@ tags:
 
 - [[05_Fuentes/Traduce el título del artículo al español. Si ya está en español, mantén el título original.md|Traduce el título del artículo al español. Si ya está en español, mantén el título original]]
 
+- [[Transhumanismo.md|Transhumanismo]]
+
 - [[Tratado de Pandemias OMS.md|Tratado de Pandemias OMS]]
 
 - [[05_Fuentes/Trump firma una orden ejecutiva que impide a los e.md|Trump firma una orden ejecutiva que impide a los e]]
 
 - [[05_Fuentes/Una gran parte del crecimiento del PIB de EE. UU. se mantiene gracias al gasto en IA sin retorno garantizado, dice Deutsche Bank.md|Una gran parte del crecimiento del PIB de EE. UU. se mantiene gracias al gasto en IA sin retorno garantizado, dice Deutsche Bank]]
 
+- [[Unidad 8200.md|Unidad 8200]]
+
 - [[Vida Artificial.md|Vida Artificial]]
+
+- [[Vigilancia Biologica.md|Vigilancia Biologica]]
 
 - [[05_Fuentes/Vínculos de OpenAI con el gobierno ¿Cuál fue el papel de Sam Altman en la administración Biden.md|Vínculos de OpenAI con el gobierno ¿Cuál fue el papel de Sam Altman en la administración Biden]]
 
 - [[World Health Organization.md|World Health Organization]]
+
+- [[XKeyscore.md|XKeyscore]]

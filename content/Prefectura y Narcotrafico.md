@@ -1,12 +1,12 @@
 ---
 publish: true
 created: 2026-01-29T19:17:31.230-03:00
-modified: 2026-04-07T11:49:19.999-03:00
+modified: 2026-04-21T13:06:38.731-03:00
 tags:
-  - hidrova
-  - narcotrfico
-  - peaje
-  - prefectura
+  - "#hidrova"
+  - "#narcotrfico"
+  - "#peaje"
+  - "#prefectura"
 ---
 
 # Prefectura Y Narcotráfico: El Peaje De La Hidrovía
@@ -35,7 +35,7 @@ tags:
 - [[Narcotráfico]]: El fenómeno macro.
 - [[Rosario]]: El nodo de exportación y violencia.
 - [[Cártel de los Soles|Cartel de los Soles]]: Por la conexión regional de flujos de droga.
-- [[Puerta Giratoria (Concepto)]]: Entre jefes de fuerza y empresas de seguridad privada de puertos.
+- [[Puerta Giratoria]]: Entre jefes de fuerza y empresas de seguridad privada de puertos.
 
 ## Conclusión Del Análisis
 

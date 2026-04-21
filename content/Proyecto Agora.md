@@ -1,73 +1,51 @@
 ---
 publish: true
 created: 2026-02-25T15:50:04.446-03:00
-modified: 2026-04-07T11:50:10.989-03:00
+modified: 2026-04-19T13:07:02.826-03:00
 tags:
-  - agor
-  - libro
-  - mayor
-  - reserva
+  - proyecto-agora
+  - bis
+  - cbdc
+  - dinero-programable
+  - unified-ledger
+  - tl-intel-v3
 ---
 
-# Proyecto Agorá (BIS)
+# Proyecto Agora
 
-#### BLUF
+## BLUF
 
-El Proyecto Agorá es la **Fusión del Sistema Monetario y Financiero** en una sola capa digital. Liderado por el Banco de Pagos Internacionales (BIS), integra a los principales bancos centrales del G7 y a gigantes del sector privado (Tier A) para crear una **Plataforma de Liquidez Programable**. En 2026, Agorá representa el fin de la distinción entre "dinero público" y "activos privados", creando un ecosistema donde cada transacción es un contrato inteligente pre-aprobado por la arquitectura del BIS.
+[[Proyecto Agora]] importa en TL como esfuerzo por integrar dinero público, banca comercial y activos tokenizados en una arquitectura de liquidación más unificada. Su valor no está solo en la promesa técnica de eficiencia, sino en mostrar hacia dónde puede evolucionar la gobernanza monetaria cuando interoperabilidad, compliance y programabilidad se vuelven parte del diseño de infraestructura.
 
-#### MAPA DE ACTORES
+## Por que importa en TL
 
-| Actor | Tier | Rol Real | Incentivo Oculto |
-|-------|------|----------|-----------------|
-| [[Agustín Carstens]] | B | El Arquitecto del BIS | Implementar el "Unified Ledger" (Libro Mayor Unificado) para el control total de la liquidez global. |
-| [[00_Glosario - Conceptos Fase 1#Reserva Federal (Fed)\|Reserva Federal (Fed)]]| B | El Socio Dominante | Asegurar que el dólar digital sea la unidad de cuenta base de la plataforma Agorá. |
-| [[IIF (Institute of International Finance)]]| B | El Representante de los Megabancos | Asegurar que los bancos privados mantengan su rol de intermediarios en el nuevo sistema digital. |
-| [[J.P. Morgan]] / [[HSBC]]| A | Los Nodos Operativos | Utilizar Agorá para liquidar sus propios activos tokenizados con el respaldo de la banca central. |
+- conecta [[BIS]], bancos centrales y grandes bancos en una misma capa de experimentación monetaria;
+- ayuda a leer cómo la tokenización financiera puede converger con CBDC y liquidación programable;
+- funciona como nodo del corredor [[CBDC Europeo]] / [[BIS Innovation Hub]] / [[Proyecto mBridge]].
 
-#### SEÑALES VS RUIDO
+## Que cambio
 
-| Tipo | Acción / Declaración | Interpretación |
-|------|----------------------|----------------|
-| 🔊 Señal ✅ | Lanzamiento de la fase operativa de liquidación transfronteriza en tiempo real (2025/26). | El fin de la red SWIFT tal como la conocemos en favor de un sistema de mensajería y valor unificado. |
-| 🔊 Señal ✅ | Inclusión de "cláusulas de cumplimiento dinámico" en las pruebas de Agorá. | Capacidad de bloquear fondos basándose en criterios políticos o climáticos a nivel de infraestructura central. |
-| 🔇 Ruido ❌ | "Proyecto Agorá busca mejorar la eficiencia de los pagos transfronterizos para las PYMES". | Proyecto Agorá busca centralizar la emisión y el control de todos los activos financieros del mundo bajo un mando técnico único que elimine el arbitraje y la evasión. |
+La nota seguía en formato viejo, demasiado cerrada en escenarios y con naming mezclado con su variante BIS. Se recompila como programa reusable para separar mejor arquitectura, actores y lectura TL.
 
-#### CUI BONO REAL
+## Lectura TL
 
-**¿Quién captura qué?**
-**El BIS** captura la **Gobernanza Monetaria Absoluta**. Se convierten en el "Banco de los Bancos y del Código". El **Tier A Bancario** captura el **Mercado de la Intermediación Blindada**, eliminando la competencia de las fintechs descentralizadas. El sistema de Tier C captura una **Economía de Permiso**, donde el dinero tiene fecha de caducidad o condiciones de uso arbitrarias.
+### 1. Interoperar para gobernar
 
-#### ANÁLISIS DE JUEGO
+Agora importa porque empuja la idea de que pagos, reservas y activos tokenizados pueden convivir en infraestructuras coordinadas más estrechamente.
 
-**Tipo:** signaling / signaling
-**Equilibrio actual:** Equilibrio de la Jaula de Oro. Los bancos centrales cooperan porque saben que es la única forma de frenar a las stablecoins privadas (Tether) y a las criptomonedas. El equilibrio se mantiene mediante la "Promesa de Estabilidad": el BIS garantiza que los bancos comerciales no serán desintermediados por las CBDCs. En 2026, la tensión surge del polo asiático que prefiere su propia red ([[Project mBridge]]).
-**Condición de ruptura:** Un colapso sistémico del sistema de deuda que fuerce a uno de los miembros de Agorá a romper el protocolo y emitir moneda fuera del libro mayor unificado.
-**Horizonte:** 2028 (Lanzamiento comercial total).
+### 2. Dinero y compliance en la misma capa
 
-#### ESCENARIOS FUTUROS
+En TL, su relevancia crece cuando se observa que eficiencia y programabilidad pueden ampliar también capacidad de supervisión y control transaccional.
 
-| Escenario | Prob. | Descripción | Indicador Temprano |
-|-----------|-------|-------------|-------------------|
-| 🔵 Base | 75% | Agorá absorbe a todas las redes de RWA privadas importantes ([[BlackRock BUIDL]]). | Anuncio de interoperabilidad nativa entre BUIDL y Agorá 2026. |
-| 🟡 Alternativo | 20% | La fragmentación geopolítica crea dos "Agorás" competidoras (Oeste vs Este). | Éxito masivo de mBridge obligando al BIS a cambiar su diseño. |
-| 🔴 Cisne Negro | 5% | Un ataque de "guerra cibernética" deja Agorá inoperativa, deteniendo el comercio mundial instantáneamente. | Fallos en los nodos de validación centralizados del BIS Q4 2026. |
+### 3. Del piloto al estándar
 
-**Indicador maestro:** Porcentaje de transacciones de comercio internacional liquidadas en el Unified Ledger del BIS.
+Su utilidad aparece al pensar estos proyectos no solo como pruebas, sino como laboratorios de la próxima arquitectura monetaria internacional.
 
-#### FALSABILIDAD
+## Con que conecta
 
-La tesis se invalida si el BIS permite que la plataforma Agorá sea auditable por cualquier ciudadano, si las claves de validación no están concentradas en bancos centrales y si se garantiza el anonimato total del portador del activo digital.
-
-#### DEVIL'S ADVOCATE
-
-Es la respuesta racional a la digitalización del mundo. No podemos seguir operando con sistemas de hace 40 años (SWIFT). Agorá ofrece seguridad, velocidad y reduce los costes de transacción que hoy pagan los ciudadanos más pobres en remesas. Es progreso técnico puro.
-
-#### BALAS DE PLATA
-
-- **Unified Ledger**: El concepto maestro de Carstens.
-- **Programmable Money**: Dinero que "sabe" en qué se puede gastar.
-- **Interoperability**: La palabra clave para la absorción de los sistemas nacionales por el BIS.
-
-#### LAGUNAS
-
-¿Cómo se reparten las cuotas de poder de validación entre la FED y el BCE dentro del software de Agorá y qué algoritmos de consenso están usando para evitar que una nación "imprima" activos digitales sin permiso?
+- [[BIS Innovation Hub]]
+- [[CBDC]]
+- [[CBDC Europeo]]
+- [[Proyecto mBridge]]
+- [[Tokenized Sovereign Debt]]
+- [[Dinero Programable]]

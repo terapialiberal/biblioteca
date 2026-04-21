@@ -1,49 +1,61 @@
 ---
-titulo: The New York Times
-tipo: "concepto"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [familia, guerra, times, york]
 publish: true
+created: 2026-01-29T19:17:39.945-03:00
+modified: 2026-04-19T12:04:34.986-03:00
+tags:
+  - nyt
+  - medios
+  - narrativa
+  - legitimacion
+  - propaganda
+  - tl-intel-v3
 ---
-
-![NYT Building](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/New_York_Times_Building_Nov_2008.jpg/220px-New_York_Times_Building_Nov_2008.jpg)
 
 # The New York Times
 
-## Resumen Ejecutivo
+## BLUF
 
-**¿Qué es?** El periódico de referencia ("Paper of Record") de EEUU y, por extensión, del mundo occidental. Propiedad de la familia **Sulzberger**.
+[[The New York Times]] importa en TL como uno de los grandes aparatos de legitimación narrativa del bloque atlántico. Su peso no reside solo en informar, sino en fijar qué versión de los hechos entra al registro respetable y cuál queda expulsada al margen o al terreno de lo impensable.
 
-**¿Por qué importa?** No es un medio de noticias; es el **Boletín Official de la CIA** y el Departamento de Estado. Históricamente, cada vez que el Deep State necesita vendor una guerra (Irak, Libia, Ucrania) o encubrir un crimen (Golpe a Allende, Asesinato JFK), el NYT lidera la narrativa. Establece los límites de lo que es "pensable" para la clase educada ("The Overtons Window").
+## Por que importa en TL
 
-## Análisis (Tiers)
+- conecta prensa de prestigio, establishment estatal y formación de consenso educado;
+- ayuda a leer cómo se fabrica legitimidad para guerras, cambios de régimen o silencios selectivos;
+- funciona como nodo central del corredor `medios de referencia -> narrativa única -> obediencia reputacional`.
 
-### Tier A (Control)
+## Que cambio
 
-- **Familia Sulzberger:** Dueños multigeneracionales. Arthur Hays Sulzberger tenía un acuerdo de caballeros con la CIA para permitir que sus agentes operaran bajo la cobertura de "periodista del Times" en el extranjero.
-- **Project Mockingbird:** Carl Bernstein (periodista de Watergate) expuso en 1977 que el NYT era el activo más valioso de la CIA en los medios.
+La nota seguía en formato viejo, con demasiado tono de denuncia cerrada y poca modularidad. Se recompila como nodo reusable para distinguir mejor función estructural, ejemplos históricos y valor analítico.
 
-### Tier B (Operativa)
+## Lectura TL
 
-- **Judith Miller:** La reportera que publicó las mentiras sobre las armas de destrucción masiva de Saddam Hussein (filtradas por Cheney) en primera plana, dando credibilidad a la invasión de Irak.
-- **Walter Duranty:** Su corresponsal en Moscú que ganó un Pulitzer por encubrir el Holodomor (genocidio ucraniano de Stalin), negando la hambruna mientras millones morían.
-- **La Ceguera Selectiva:** Ignoraron el laptop de Hunter Biden llamándolo "desinformación rusa" hasta años después.
+### 1. Paper of Record como filtro de realidad
 
-### Tier C (Narrativa)
+El New York Times importa porque muchas instituciones, periodistas, académicos y cuadros políticos leen su cobertura no como una fuente más, sino como estándar de realidad pública aceptable.
 
-- "All the News That's Fit to Print"
-- "La verdad importa"
+### 2. Prestigio como arma de legitimación
 
-## Conexiones
+En TL, el nodo vale porque el prestigio editorial permite blindar operaciones narrativas sin necesidad de propaganda burda. La eficacia no está en gritar más fuerte, sino en volver respetable una interpretación.
 
-- [[CIA]] (Project Mockingbird)
-- [[Guerra de Irak]]
-- [[Familia Rothschild]] (vínculos sociales históricos)
+### 3. Sincronización con aparato de poder
 
-## Fuentes
+La relación relevante no es solo si “recibe órdenes”, sino cómo converge con burocracias de seguridad, diplomacia, think tanks y elites urbanas para estabilizar marcos convenientes. Ahí el medio funciona como traductor fino de intereses estructurales.
 
-- "The CIA and the Media" - Carl Bernstein
-- "The Gray Lady Winked" - Ashley Rindsberg
+### 4. Memoria selectiva del imperio
+
+También importa porque participa en la administración retrospectiva del archivo moral occidental: qué guerras fueron inevitables, qué errores fueron “de inteligencia” y qué omisiones nunca entran del todo en la conciencia pública.
+
+## Casos de uso TL
+
+- cobertura legitimadora de guerras o intervenciones;
+- tratamiento reputacional de filtraciones, disidencia o “desinformación”;
+- lectura de qué temas son integrados al consenso y cuáles quedan patologizados.
+
+## Con que conecta
+
+- [[Narrativa Unica]]
+- [[Operacion Mockingbird]]
+- [[CIA]]
+- [[Edward Bernays]]
+- [[The Washington Post]]
+- [[Katharine Graham]]

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:28.525-03:00
-modified: 2026-04-07T11:49:03.129-03:00
+modified: 2026-04-20T19:35:28.578-03:00
 tags:
   - arquitectura
   - europea
@@ -18,7 +18,7 @@ tags:
 
 ### Tier A (El Establishment Transatlántico)
 
-- **La Creación del Cliente Europeo:** Para el Tier A financiero, una Europa de naciones soberanas era difícil de controlar y comerciar. La UE fue diseñada como una única interfaz administrativa ("un solo número de teléfono", según Kissinger). Griffin asegura que las decisiones críticas sobre moneda, defensa y energía se tomen en Bruselas bajo la supervisión de las élites del **[[Grupo Bilderberg]]**, vaciando de contenido real la democracia nacional.
+- **La Creación del Cliente Europeo:** Para el Tier A financiero, una Europa de naciones soberanas era difícil de controlar y comerciar. La UE fue diseñada como una única interfaz administrativa ("un solo número de teléfono", según Kissinger). Griffin asegura que las decisiones críticas sobre moneda, defensa y energía se tomen en Bruselas bajo la supervisión de las élites del **[[Bilderberg]]**, vaciando de contenido real la democracia nacional.
 - **La Fundación Ford y el Capital de Control:** El uso de fundaciones para financiar a los "Padres Fundadores" de la UE (**Jean Monnet**, Robert Schuman) demuestra el modelo de **Ingeniería Social por Tercerización**. El Tier A no impuso la UE por la fuerza, sino que la "compró" mediante la financiación de instituciones académicas y políticas que normalizaron la idea de que la soberanía nacional es una reliquia peligrosa.
 
 ### Tier B (La Tecnocracia De Bruselas)
@@ -34,7 +34,7 @@ tags:
 
 - [[European Union (Origins)]]: El artículo central sobre la historia del bloque.
 - [[CIA]]: El motor de financiación original a través del ACUE.
-- [[Grupo Bilderberg]]: El foro donde se refinan las políticas de la UE cada año.
+- [[Bilderberg]]: El foro donde se refinan las políticas de la UE cada año.
 - [[Jean Monnet]]: El interface clave entre EE.UU. y el federalismo europeo.
 - [[Kalergi Plan]]: La narrativa de largo plazo sobre la transformación demográfica de Europa.
 

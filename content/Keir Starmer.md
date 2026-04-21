@@ -26,7 +26,7 @@ Starmer representa la captura total del Partido Laborista por los intereses del 
 
 ### Cui Bono
 
-- **[[City of London]]:** Starmer asegura que Londres siga siendo el nodo financiero principal del [[Rimland]] europeo, coordinado con la UE pero fiel a Washington.
+- **[[City de Londres]]:** Starmer asegura que Londres siga siendo el nodo financiero principal del [[Rimland]] europeo, coordinado con la UE pero fiel a Washington.
 - **A-Ideología:** A pesar de ser "Laborista", su política exterior es idéntica a la de los Conservadores en los temas que importan al Tier A.
 
 ## 🔗 CONEXIONES

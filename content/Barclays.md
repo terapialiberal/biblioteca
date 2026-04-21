@@ -37,7 +37,7 @@ publish: true
 
 - [[City de Londres]] (Su hábitat natural)
 - [[Reserva Federal]] y [[Banco de Inglaterra]] (Sus reguladores/socios)
-- [[Bilderberg Group]] (Asistencia frecuente de sus CEOs)
+- [[Bilderberg]] (Asistencia frecuente de sus CEOs)
 - [[EPIC (Infrastructure)]] (Financiamiento de proyectos estratégicos)
 
 ## Fuentes

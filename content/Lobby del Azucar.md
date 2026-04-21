@@ -1,30 +1,44 @@
 ---
-titulo: "Lobby Del Azúcar (Big Sugar): El Fraude Nutricional Del Siglo"
-tipo: "concepto"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [azcar, blackrock, lobby, nutricional]
 publish: true
+aliases:
+  - "Lobby Del Azucar (Big Sugar): El Fraude Nutricional Del Siglo"
+created: 2026-01-29T19:17:22.741-03:00
+modified: 2026-04-18T18:02:43.931-03:00
+tags:
+  - azucar
+  - nutricion
+  - lobby
+  - salud-publica
+  - captura-cientifica
+  - tl-intel-v3
 ---
 
-# Lobby Del Azúcar (Big Sugar): El Fraude Nutricional Del Siglo
+# Lobby del Azucar
 
-> [!ABSTRACT] Resumen de Inteligencia
-> El "Lobby del Azúcar" es el responsable de uno de los actos de ingeniería social y desinformación científica más letales de la historia. Mediante el soborno sistemático a científicos de **[[Harvard University]]** en los años 60, lograron desviar la culpa de las enfermedades cardíacas del azúcar hacia las grasas saturadas. Este "pecado original" de la nutrición moderna dio forma a la Pirámide Alimenticia que ha generado la epidemia global de obesidad, diabetes y Alzheimer (Diabetes Tipo 3), beneficiando al complejo **Alimentación-Farma** de **Tier A**.
+## BLUF
 
-## Análisis De Poder (Matrix)
+[[Lobby del Azucar]] importa en TL como caso clásico de captura científica, regulatoria y narrativa: una industria capaz de desplazar culpa, financiar marcos de investigación convenientes y moldear durante décadas la percepción pública sobre dieta y enfermedad.
 
-### Tier A: La Gestión De La Enfermedad Crónica
+## Por qué importa en TL
 
-- **El Negocio del Síndrome Metabólico:** Un ciudadano sano no consume fármacos; un muerto tampoco. El Tier A prefiere el "punto dulce": el enfermo crónico. El azúcar es el agente perfecto: adictivo, inflamatorio y omnipresente. Las mismas manos financieras que poseen las empresas de ultraprocesados ([[BlackRock]]/[[Vanguard]]) poseen las farmacéuticas que venden insulina y estatinas ([[Pfizer]]/[[Eli Lilly]]).
-- **Adicción Cerebral:** El azúcar dispara los mismos circuitos de recompensa que la cocaína. Big Sugar es, de facto, el mayor cartel de drogas legales del mundo.
+- muestra cómo intereses corporativos pueden intervenir sobre ciencia, salud pública y comunicación masiva;
+- conecta alimentación, enfermedad crónica y captura institucional;
+- sirve como ejemplo reusable de fabricación de consenso en campos aparentemente técnicos.
 
-### Tier B: Operativa Del Fraude Científico
+## Qué cambió
 
-- **Ancel Keys y el Proyecto 226:** El Tier B (académicos y tecnócratas) ejecutó la falsificación de datos. Keys omitió países que no encajaban en su narrativa (Paradoja Francesa) para imponer la dieta alta en carbohidratos. El resultado fue la captura de la **FDA** y la **Asociación Americana del Corazón (AHA)** para promover cereales azucarados como "saludables para el corazón".
+La nota venía con encoding roto y framing excesivamente cerrado. Se recompila como concepto modular más defendible y reusable.
 
-## âš¡ Conclusión De Terapia Liberal
+## Lectura TL
 
-Big Sugar no vende alimentos, vende **inflamación sistémica**. Tu obesidad no es solo falta de voluntad; es el resultado de un diseño bioquímico y una estafa intelectual de 60 años. Si controlas el plato de la masa, controlas su energía, su claridad mental y su dependencia del sistema de salud de Tier A.
+El interés del nodo no está en moralizar un ingrediente aislado, sino en seguir el patrón: financiamiento selectivo de estudios, desplazamiento de responsabilidades, producción de guías alimentarias y creación de mercados de enfermedad y tratamiento.
+
+En TL, el lobby del azúcar vale como ejemplo fuerte de cómo un sector industrial puede rediseñar el entorno cognitivo y sanitario de una población entera sin necesidad de coerción explícita.
+
+## Con qué conecta
+
+- [[Harvard University]]
+- [[FDA]]
+- [[Eli Lilly]]
+- [[Pfizer]]
+- [[Captura Regulatoria]]

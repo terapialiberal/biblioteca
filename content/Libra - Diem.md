@@ -1,30 +1,45 @@
 ---
-titulo: "Libra / Diem: El Intento De Golpe De Estado De Silicon Valley"
-tipo: "persona"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [estado, libra, mark, silicon]
 publish: true
+aliases:
+  - Libra / Diem
+  - "Libra / Diem: El Intento De Golpe De Estado De Silicon Valley"
+created: 2026-01-29T19:17:22.461-03:00
+modified: 2026-04-18T18:21:45.144-03:00
+tags:
+  - libra
+  - diem
+  - cbdc
+  - facebook
+  - soberania-monetaria
+  - tl-intel-v3
 ---
 
-# Libra / Diem: El Intento De Golpe De Estado De Silicon Valley
+# Libra - Diem
 
-> [!ABSTRACT] Resumen de Inteligencia
-> Libra (luego Diem) fue el intento más audaz de las **Big Tech** para usurpar la **Soberanía Monetaria** de los Bancos Centrales de **Tier A**. Al intentar crear una moneda global privada respaldada por una canasta de divisas fiat, [[Mark Zuckerberg]] no solo buscaba eficiencia financiera, sino el control total sobre los datos transaccionales de 3 mil millones de usuarios. Su aniquilación por parte de la Fed y el G7 demostró que, en la Matrix de Poder, el **Oro (Banqueros Centrales)** todavía manda sobre los **Datos (Silicon Valley)**.
+## BLUF
 
-## Análisis De Poder (Matrix)
+[[Libra - Diem]] importa en TL como intento fallido de moneda digital privada global impulsada por Big Tech. Su valor analítico está en mostrar el choque entre plataformas tecnológicas con ambición monetaria y el bloque de bancos centrales que no iba a ceder soberanía ni datos transaccionales.
 
-### Tier A: El Choque De Titanes (Bancos vs. Tech)
+## Por qué importa en TL
 
-- **La Amenaza Sistémica:** Si Facebook se convertía en emisor de moneda, la Reserva Federal perdería su herramienta principal de control: la política monetaria. La respuesta del BIS y el G7 fue unánime: el seigniorage (señoreaje) es un privilegio exclusivo de la oligarquía financiera de Tier A.
-- **La Crítica de Epstein:** En correos de 2019, [[Jeffrey Epstein]] se alineó curiosamente con los bancos centrales, calificando a Libra como un peligro que podría "derribar el sistema". Esto sugiere que la red Epstein operaba dentro del status quo bancario tradicional y veía la disrupción tech como una amenaza a sus propios mecanismos de blanqueo y control.
+- expuso que Silicon Valley quería capturar no solo comunicación y publicidad, sino también capa monetaria;
+- aceleró la respuesta defensiva de reguladores y bancos centrales;
+- ayuda a leer parte del impulso hacia [[CBDC]] como reacción al riesgo de una moneda privada a escala Meta.
 
-### Tier B: El Acelerador De Las CBDCs
+## Qué cambió
 
-- **Reacción Defensiva:** El miedo a Libra fue el catalizador real que obligó a los Bancos Centrales a acelerar sus propios proyectos de **[[CBDC]]**. Libra sirvió como el "Caballo de Troya" que normalizó la idea de una moneda digital global, solo para que el Estado (Tier B) la robara y la implementara bajo su propio control totalitario.
+La nota venía como texto viejo, con encoding roto y tipo mal clasificado como persona. Se recompila como concepto para volverla usable dentro del corredor `Big Tech / dinero programable / soberanía monetaria`.
 
-## âš¡ Conclusión De Terapia Liberal
+## Lectura TL
 
-Libra fue el momento en que Zuckerberg voló demasiado cerca del sol. Intentó emitir dinero, el "Santo Grial" del poder. Los dueños de las prensas de billetes le mostraron quién es el verdadero jefe mediante regulación asfixiante. Sin embargo, el código de Libra no murió; se transformó en los protocolos de control que hoy vemos en el diseño de las CBDCs. El Tier A no odiaba la tecnología de Libra, odiaba que el dueño no fueran ellos.
+Libra no fue solo una fintech ambiciosa. Fue una señal de que una plataforma con miles de millones de usuarios podía intentar saltar desde la capa social a la capa monetaria. Eso volvió visible un límite del sistema: las elites financieras pueden tolerar disrupción tecnológica, pero no fácilmente que otro actor emita una cuasi-moneda global y capture el flujo de datos asociado.
+
+En ese sentido, Libra funciona como caso bisagra. Fracasa como proyecto corporativo directo, pero deja instalada la legitimidad técnica y política de una infraestructura monetaria cada vez más digital, trazable y programable.
+
+## Con qué conecta
+
+- [[Mark Zuckerberg]]
+- [[Facebook]]
+- [[CBDC]]
+- [[Banco de Pagos Internacionales]]
+- [[Soberania Monetaria]]

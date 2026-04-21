@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-02-24T13:32:27.996-03:00
-modified: 2026-04-17T13:56:08.856-03:00
+modified: 2026-04-21T11:59:45.302-03:00
 tags:
-  - moc
-  - control-financiero
-  - deuda
-  - banca
-  - tl-intel-v3
+  - "#moc"
+  - "#control-financiero"
+  - "#deuda"
+  - "#banca"
+  - "#tl-intel-v3"
 ---
 
 # MOC - Control Financiero
@@ -64,6 +64,19 @@ tags:
 - [[City de Londres]]
 - [[Clearstream]]
 
+## Dinero Programable y Rails
+
+- [[Dinero Programable]]
+- [[CBDC]]
+- [[CBDC Expiration]]
+- [[CBDC Interoperability]]
+- [[Stablecoins]]
+- [[Stablecoin Regulation US]]
+- [[SWIFT]]
+- [[Tokenized Sovereign Debt]]
+- [[Tether USDS]]
+- [[BlackRock BUIDL]]
+
 ## Custodia y The Great Taking
 
 - [[The Great Taking (La Gran Toma)]]
@@ -92,15 +105,13 @@ tags:
 
 - [[Astrologia Financiera.md|Astrologia Financiera]]
 
-- [[Banca en la Sombra.md|Banca en la Sombra]]
-
 - [[Banco Mundial.md|Banco Mundial]]
-
-- [[BIS.md|BIS]]
 
 - [[BlackRock.md|BlackRock]]
 
 - [[BlackRock - Vanguard - State Street.md|BlackRock - Vanguard - State Street]]
+
+- [[Bloque Anglo-Americano.md|Bloque Anglo-Americano]]
 
 - [[CBDC.md|CBDC]]
 
@@ -108,15 +119,21 @@ tags:
 
 - [[CIPS & SPFS.md|CIPS & SPFS]]
 
+- [[Clarium Capital.md|Clarium Capital]]
+
 - [[Clearstream.md|Clearstream]]
 
 - [[05_Fuentes/Como la casa de Rothschild se entrelazo con Epstein.md|Como la casa de Rothschild se entrelazo con Epstein]]
 
 - [[Credito privado.md|Credito privado]]
 
+- [[Crisis Alimentaria 2026.md|Crisis Alimentaria 2026]]
+
 - [[Crisis de 2001.md|Crisis de 2001]]
 
 - [[06_Videos_Publicados/2026/2026-04-15_LAS GUERRAS MAGA/DIAGRAMA_Bretton_Woods_2_Petrodolar_Deuda.md|DIAGRAMA_Bretton_Woods_2_Petrodolar_Deuda]]
+
+- [[Dinero Programable.md|Dinero Programable]]
 
 - [[Domingo Cavallo.md|Domingo Cavallo]]
 
@@ -144,6 +161,8 @@ tags:
 
 - [[Grupo Vanguard.md|Grupo Vanguard]]
 
+- [[JPMorgan Onyx.md|JPMorgan Onyx]]
+
 - [[05_Fuentes/La CFTC pone en marcha un programa piloto para utilizar garantías de criptomonedas en los mercados de derivados.md|La CFTC pone en marcha un programa piloto para utilizar garantías de criptomonedas en los mercados de derivados]]
 
 - [[05_Fuentes/La Fed considera cuentas de pago 'reducidas' para ampliar el acceso al sistema bancario.md|La Fed considera cuentas de pago 'reducidas' para ampliar el acceso al sistema bancario]]
@@ -154,17 +173,23 @@ tags:
 
 - [[05_Fuentes/Las afirmaciones de sexo con menores sacuden al grupo de Bitcoin.md|Las afirmaciones de sexo con menores sacuden al grupo de Bitcoin]]
 
+- [[Ley de la Reserva Federal.md|Ley de la Reserva Federal]]
+
+- [[Ley Glass-Steagall.md|Ley Glass-Steagall]]
+
+- [[Long-Term Capital Management.md|Long-Term Capital Management]]
+
 - [[05_Fuentes/Los correos electronicos de Epstein arrojan una la.md|Los correos electronicos de Epstein arrojan una la]]
 
 - [[Mauricio Macri.md|Mauricio Macri]]
 
 - [[N M Rothschild and Sons.md|N M Rothschild and Sons]]
 
+- [[Neoliberalismo.md|Neoliberalismo]]
+
 - [[Nicholas Brady.md|Nicholas Brady]]
 
 - [[06_Videos_Publicados/2026/2026-04-15_LAS GUERRAS MAGA/NOTA_TESIS_Bretton_Woods_2_Petrodolar_Deuda.md|NOTA_TESIS_Bretton_Woods_2_Petrodolar_Deuda]]
-
-- [[Nuevo Bretton Woods.md|Nuevo Bretton Woods]]
 
 - [[05_Fuentes/Nuevos correos revelan que Epstein financio indire.md|Nuevos correos revelan que Epstein financio indire]]
 
@@ -174,6 +199,8 @@ tags:
 
 - [[Reserva Federal.md|Reserva Federal]]
 
+- [[Reserva Fraccionaria.md|Reserva Fraccionaria]]
+
 - [[Saturno y Deuda.md|Saturno y Deuda]]
 
 - [[Señoreaje.md|Señoreaje]]
@@ -182,12 +209,14 @@ tags:
 
 - [[State Street.md|State Street]]
 
+- [[SWIFT.md|SWIFT]]
+
+- [[Tether USDS.md|Tether USDS]]
+
 - [[Tokenizacion de Activos Reales.md|Tokenizacion de Activos Reales]]
 
 - [[Toto Caputo.md|Toto Caputo]]
 
 - [[Vanguard & State Street.md|Vanguard & State Street]]
-
-- [[Vanguard Group.md|Vanguard Group]]
 
 - [[05_Fuentes/Winds of Change The Case for New Digital Currency by Christine Lagarde.md|Winds of Change The Case for New Digital Currency by Christine Lagarde]]

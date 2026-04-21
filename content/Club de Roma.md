@@ -1,47 +1,45 @@
 ---
-titulo: Club De Roma
-tipo: "entidad"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [agenda, club, roma, world]
 publish: true
+aliases:
+  - Club of Rome
+created: 2026-01-29T19:17:07.995-03:00
+modified: 2026-04-18T17:21:25.206-03:00
+tags:
+  - club-de-roma
+  - malthusianismo
+  - decrecimiento
+  - agenda-climatica
+  - gobernanza-global
+  - tl-intel-v3
 ---
 
-# Club De Roma
+# Club de Roma
 
-## Resumen Ejecutivo
+## BLUF
 
-**¿Qué es?** Un think tank elitista fundado en una villa de Rockefeller en Bellagio, Italia.
-Famoso por su informe de 1972: **"Los Límites del Crecimiento"**.
+El [[Club de Roma]] es un think tank transnacional asociado a la difusión de marcos maltusianos sobre recursos, crecimiento y gobernanza global. En TL importa como nodo doctrinal que ayudó a volver respetable la idea de que la humanidad y el desarrollo industrial son un problema a administrar.
 
-**¿Por qué importa?** Es el **Padre del Cambio Climático Político**.
-Admitieron explícitamente su estrategia en el libro "La Primera Revolución Global" (1991):
-_"En la búsqueda de un nuevo enemigo para unirnos, se nos ocurrió la idea de que la contaminación, la amenaza del calentamiento global, la escasez de agua... encajarían bien... Todos estos peligros son causados por la intervención humana... El enemigo real, entonces, es la humanidad misma."_
-Su tesis es maltusiana: hay demasiada gente y pocos recursos. La solución es reducir la población y detener el desarrollo industrial ("Decrecimiento").
+## Por qué importa en TL
 
-## Análisis (Tiers)
+- conecta crisis ecológica, decrecimiento y gestión tecnocrática de la población;
+- sirve para leer parte de la agenda climática como arquitectura política antes que solo como preocupación ambiental;
+- enlaza con la transición desde gobernanza económica clásica hacia gobernanza planetaria basada en escasez administrada.
 
-### Tier A (Anti-Humanismo)
+## Qué cambió
 
-- **El Cáncer:** El Club de Roma ve al ser humano como un virus o cáncer de la Tierra (Gaia). Toda la política verde actual (Agenda 2030) se basa en esta premisa de que la actividad humana es intrínsecamente mala.
+Había dos notas vivas sobre el mismo objeto: `Club de Roma` y `Club of Rome`. Se deja `Club de Roma` como nodo canónico porque concentra los enlaces del vault; `Club of Rome` pasa a espejo para absorber naming anglo sin duplicar contenido ni criterio.
 
-### Tier B (Operativa)
+## Lectura TL
 
-- **División:** Dividieron el mundo en 10 "Reinos" administrativos. La UE y el NAFTA son pasos hacia esos bloques regionales supranacionales.
+El peso del Club de Roma no está en una omnipotencia operativa, sino en su capacidad para instalar marcos. Cuando una organización logra convertir el lenguaje de límites, sostenibilidad y crisis sistémica en sentido común de élites, organismos internacionales y empresas, deja de ser un simple club de ideas y pasa a operar como usina doctrinal.
 
-### Tier C (Narrativa)
+En TL, el punto clave es que el problema rara vez se formula como contaminación puntual o mala regulación. El salto es otro: usar el diagnóstico de escasez para justificar más centralización, más administración experta y menos soberanía de decisión para sociedades y Estados.
 
-- "Preocupación por la sostenibilidad ambiental"
-
-## Conexiones
+## Con qué conecta
 
 - [[Agenda 2030]]
-- [[World Economic Forum]] (Schwab es miembro)
+- [[WEF]]
+- marcos maltusianos de gestion de escasez
+- [[Comite de los 300]]
 - [[Henry Kissinger]]
-
-## Fuentes
-
-- "The Limits to Growth" (1972).
-- "The First Global Revolution" (1991) - Cita sobre el "enemigo común".
+- [[Great Reset]]

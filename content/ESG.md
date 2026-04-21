@@ -4,7 +4,7 @@ aliases:
   - Environmental, Social, and Governance
   - ESG (Environmental, Social, and Governance)
 created: 2026-01-29T19:17:12.243-03:00
-modified: 2026-04-07T11:49:35.091-03:00
+modified: 2026-04-07T11:16:23.103-03:00
 tags:
   - esg
   - stakeholder-capitalism

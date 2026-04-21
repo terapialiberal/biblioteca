@@ -1,37 +1,51 @@
 ---
-titulo: Club de Madrid
-tipo: "entidad"
-fecha: 2026-03-04
-tier_primario: "b"
-nivel_evidencia: "alto"
-estado: activo
-tags: [agenda-2030, globalismo, presidentes, tier-b, influencia]
 publish: true
+created: 2026-01-29T19:17:07.979-03:00
+modified: 2026-04-21T13:01:59.480-03:00
+tags:
+  - "#club-de-madrid"
+  - "#ex-jefes-de-estado"
+  - "#gobernanza"
+  - "#diplomacia"
+  - "#globalismo"
+  - "#tl-intel-v3"
 ---
 
-# Club de Madrid: El Retiro de Oro del Tier B
+# Club de Madrid
 
-> [!IMPORTANT] DEFINICIÓN OPERATIVA
-> El Club de Madrid es el foro de "ex-presidentes y jefes de estado" más grande del mundo. Opera como un nodo de influencia de Nivel 2 para estandarizar las políticas de la Agenda 2030 a nivel global.
+## BLUF
 
-## 🏛️ Función Sistémica (Axioma 3)
+[[Club de Madrid]] importa en TL como red de ex jefes de Estado y ex presidentes que funciona como capa de validación, diplomacia informal y continuidad de agenda por fuera del mando formal inmediato.
 
-Aunque sus miembros ya no están en el Tier C activo (boletas electorales), el Club de Madrid asegura la **Continuidad de Políticas** mediante:
+## Por que importa en TL
 
-1. **Diplomacia de Segunda Vía:** Ejecutan misiones que los gobiernos oficiales no pueden admitir.
-2. **Validación de Relatos:** Sirven como "autoridades morales" para validar medidas de control social (ej: pasaportes sanitarios, crédito social).
-3. **Drafting Legislativo:** Provee los borradores de leyes que los políticos del Tier C implementarán en sus respectivos países.
+- conecta gobernanza global, legitimación política y “autoridad moral” post cargo;
+- ayuda a leer cómo figuras retiradas siguen operando como emisarios, validadores o interfaces de agenda;
+- funciona como nodo blando del corredor globalista y atlantista.
 
-## 🌍 Rol en 2026
+## Que cambio
 
-En el contexto de la fragmentación global, el Club de Madrid actúa como el pegamento del **Bloque Atlantista**, intentando frenar la migración de naciones del sur global hacia el eje BRICS+.
+La nota tenía estructura híbrida, exceso de framing y poca modularidad. Se recompila como entidad reusable para integrarla mejor con `CFR`, `WEF` y la capa de gobernanza transnacional.
 
-## 🔗 Nodos Conectados
+## Lectura TL
 
-- **[[CFR (Council on Foreign Relations)]]**: Muchos miembros del Club de Madrid son satélites del CFR.
-- **[[WEF (World Economic Forum)]]**: Alineación total con los objetivos de la "Gran Narrativa".
-- **[[Soros / Open Society]]**: Financiamiento histórico para programas estratégicos de "gobernanza democrática".
+### 1. Continuidad sin cargo
 
-## 📊 Cui Bono
+El nodo importa porque muestra que dejar el poder formal no implica salir del circuito de influencia.
 
-El **Tier A** captura un mundo con legislaciones homogéneas que facilitan el flujo de capital transnacional sin las "molestias" de la soberanía nacional real.
+### 2. Validación reputacional
+
+En TL, su relevancia crece cuando se observa cómo estas redes prestan legitimidad a agendas, reformas o marcos globales desde una posición aparentemente neutral o “experta”.
+
+### 3. Diplomacia de segunda vía
+
+También sirve para leer misiones, foros y recomendaciones que no nacen en gobiernos activos, pero ayudan a estandarizar lenguaje y prioridades entre élites políticas.
+
+## Con que conecta
+
+- [[CFR]]
+- [[WEF]]
+- [[Open Society Foundations]]
+- [[Gobernanza Global]]
+- [[Agenda 2030]]
+- [[00_MOC - Redes de Poder]]

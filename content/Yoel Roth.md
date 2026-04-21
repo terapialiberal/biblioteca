@@ -1,49 +1,51 @@
 ---
-titulo: Yoel Roth
-tipo: "persona"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [aspen, roth, vijaya, yoel]
 publish: true
+created: 2026-01-29T19:17:44.854-03:00
+modified: 2026-04-19T12:29:08.455-03:00
+tags:
+  - yoel-roth
+  - twitter
+  - trust-and-safety
+  - censura
+  - plataformas
+  - tl-intel-v3
 ---
 
 # Yoel Roth
 
-> [!INFO] Perfil Operativo (Tier B)
-> **Resumen:** Ex Jefe de "Trust & Safety" de Twitter. El arquitecto de la censura política en la plataforma pre-Musk.
-> **Función Real:** El enlace principal entre Twitter y el **FBI/DHS** para coordinar la supresión de información disidente (ej: Laptop de Hunter Biden).
+## BLUF
 
-## Biografía & Rol
+[[Yoel Roth]] importa en TL como operador clave en la traducción de presiones estatales, marcos reputacionales y criterios internos de moderación dentro de Twitter pre-Musk. Su relevancia está en representar cómo la gobernanza de plataformas se convierte en un punto de acople entre Big Tech, seguridad nacional y gestión narrativa.
 
-Yoel Roth fue el ejecutivo clave en Twitter encargado de definir qué constituía "desinformación". Bajo su mandato, Twitter evolucionó de una plataforma de libertad de expresión a una herramienta de ingeniería social.
+## Por que importa en TL
 
-## Los Twitter Files
+- conecta plataformas, moderación política y coordinación con agencias;
+- ayuda a leer cómo la censura contemporánea se ejecuta desde capas intermedias de “trust and safety”;
+- funciona como nodo empírico dentro de [[Twitter Files]].
 
-Las revelaciones de 2022-2023 (vía Elon Musk y periodistas como Matt Taibbi) expusieron su rol central:
+## Que cambio
 
-### 1. Reuniones Semanales Con El FBI
+La nota seguía en formato viejo de perfil operativo rápido. Se recompila como persona reusable para integrarla mejor con el tramo `FBI / DHS / Twitter Files / Hunter Biden Laptop`.
 
-Roth se reunía semanalmente con el FBI y el DHS. En estas reuniones, las agencias de inteligencia "preparaban" a Twitter para censurar la historia de la laptop de Hunter Biden antes de que saliera, calificándola falsamente como una operación de "Hack and Leak" rusa.
+## Lectura TL
 
-### 2. Visibilidad Y Shadowbanning
+### 1. El gestor del umbral
 
-Roth supervisaba las herramientas de "Filtrado de Visibilidad" (VF), decidiendo qué cuentas (como la de Jay Bhattacharya de Stanford) debían ser silenciadas secretamente.
+Roth importa porque en plataformas grandes el poder no siempre está en el CEO o en la agencia externa, sino en quienes convierten criterios abstractos en decisiones concretas sobre visibilidad, etiquetas, cuentas y alcance.
 
-### 3. La Decisión De Banear a Trump
+### 2. Trust and safety como frontera política
 
-Fue la figura instrumental interna que justificó el baneo de Donald Trump en enero de 2021, a pesar de que los equipos de política interna admitieron que Trump no violó las reglas.
+En TL, su figura vale para pensar cómo equipos técnicamente administrativos pueden operar, de hecho, como filtros políticos del debate público.
 
-## Conexiones
+### 3. Caso de interfaz
 
-- [[FBI]] (Sus manipuladores)
-- [[Vijaya Gadde]] (Su jefa legal)
-- [[Aspen Institute]] (Comisión de desinformación)
+Su relevancia crece porque aparece donde se tocan tres lógicas: riesgo reputacional corporativo, presión estatal y convicción ideológica interna sobre qué discurso merece circular.
+
+## Con que conecta
+
 - [[Twitter Files]]
-- [[00_Glosario - Conceptos Fase 1#Censura Digital|Censura Digital]]
-
-## Fuentes
-
-- Twitter Files (Partes 1-8).
-- Testimonio ante el Congreso (2023).
+- [[FBI]]
+- [[Departamento de Seguridad Nacional]]
+- [[Hunter Biden Laptop]]
+- [[Vijaya Gadde]]
+- [[Aspen Institute]]

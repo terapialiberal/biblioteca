@@ -1,41 +1,51 @@
 ---
-titulo: Bunge
-tipo: "concepto"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [archer, bunge, cargill]
 publish: true
+created: 2026-01-29T19:17:06.039-03:00
+modified: 2026-04-19T12:52:18.051-03:00
+tags:
+  - bunge
+  - agroindustria
+  - granos
+  - alimentos
+  - logistica
+  - tl-intel-v3
 ---
 
 # Bunge
 
-> [!ABSTRACT] Ficha Técnica
-> **Narrativa Official:** Empresa de agronegocios.
-> **Función Real:** Parte del cartel ABCD de granos.
+## BLUF
 
-## Cartel ABCD
+[[Bunge]] importa en TL como uno de los grandes operadores del comercio y procesamiento global de commodities agrícolas. Su valor no está solo en comprar y vender granos, sino en formar parte de la infraestructura privada que conecta producción primaria, crushing, puertos, insumos y mercados internacionales.
 
-Bunge es la "B" del cartel que controla comercio global de granos:
+## Por que importa en TL
 
-- A: [[Archer Daniels Midland|ADM]]
-- B: Bunge
-- C: [[Cargill]]
-- D: [[Louis Dreyfus]]
+- conecta soja, aceites, granos y logística dentro del corredor agroindustrial global;
+- ayuda a leer cómo la concentración de traders reduce márgenes de autonomía para productores y países exportadores;
+- funciona como pieza del [[Cartel de Granos (ABCD)]] junto con [[Cargill]], [[Archer Daniels Midland]] y [[Louis Dreyfus]].
 
-## Operaciones
+## Que cambio
 
-- Procesamiento de soja, trigo, maíz
-- Aceites vegetales
-- Azúcar
+La nota estaba mal tipada como concepto y demasiado mínima para el valor estructural del nodo. Se recompila como entidad reusable y mejor integrada al corredor alimentario.
 
-## Conexiones
+## Lectura TL
 
-- Cartel de granos
-- Agronegocios global
-- Brasil, Argentina (grandes productores)
+### 1. Operador de cadena completa
 
-## Fuentes
+Bunge importa porque el poder en agro no se juega solo en la tierra o en la semilla, sino en quién procesa, financia, embarca y coloca el producto en red global.
 
-- SEC filings
+### 2. Plataforma privada de exportación
+
+En TL, su relevancia aumenta cuando se observa que una parte sustancial de la inserción internacional agroexportadora depende de corporaciones con lógica propia y escala transnacional.
+
+### 3. Oligopolio con baja visibilidad
+
+Su lugar en la base es el de actor estructural más que marca popular: parte de un conjunto de empresas que moldean precios, rutas y dependencia material.
+
+## Con que conecta
+
+- [[Cartel de Granos (ABCD)]]
+- [[Cargill]]
+- [[Archer Daniels Midland]]
+- [[Louis Dreyfus]]
+- [[Sistema Alimentario]]
+- [[Control Alimentario]]

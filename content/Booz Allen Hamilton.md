@@ -1,38 +1,51 @@
 ---
-titulo: Booz Allen Hamilton
-tipo: "persona"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [agencia, allen, booz, edward]
 publish: true
+created: 2026-01-29T19:17:05.755-03:00
+modified: 2026-04-19T12:55:36.477-03:00
+tags:
+  - booz-allen-hamilton
+  - contratista
+  - inteligencia
+  - nsa
+  - vigilancia
+  - tl-intel-v3
 ---
 
 # Booz Allen Hamilton
 
-## Resumen General
+## BLUF
 
-**Booz Allen Hamilton** es una consultora de gestión y contratista de defensa conocida como la **"Comunidad de Inteligencia en la Sombra"**. La gran mayoría de sus ingresos provienen de contratos con el gobierno de EE.UU. (NSA, CIA, DHS). Emplea a miles de ex-agentes de inteligencia con credenciales de seguridad Top Secret. Fue la empresa que contrató a **Edward Snowden** y lo colocó dentro de la instalación de la NSA en Hawái, desde donde filtró los documentos.
+[[Booz Allen Hamilton]] importa en TL como contratista privado profundamente acoplado al aparato de inteligencia y defensa de Estados Unidos. Su valor no está solo en prestar servicios, sino en mostrar cómo capacidades críticas de vigilancia, análisis y gestión técnica pueden quedar externalizadas a corporaciones con acceso privilegiado a secretos, redes y presupuesto estatal.
 
-## Análisis Terapia Liberal (Cui Bono)
+## Por que importa en TL
 
-### Tier A (Beneficiarios)
+- conecta privatización del espionaje, puerta giratoria y dependencia estatal de proveedores privados;
+- ayuda a leer cómo parte del aparato de inteligencia opera a través de contratistas y no solo de agencias formales;
+- funciona como nodo de enlace entre [[Agencia de Seguridad Nacional]], [[Edward Snowden]] y el complejo contratista de seguridad.
 
-- **Estado de Vigilancia:** Externaliza el espionaje masivo a una corporación que no está sujeta a las mismas solicitudes de FOIA (Freedom of Information Act) que el gobierno.
+## Que cambio
 
-### Tier B (Operadores)
+La nota estaba mal tipada como persona y seguía en formato viejo. Se recompila como entidad reusable para separar mejor modelo de negocio, función institucional y lectura TL.
 
-- **Mike McConnell:** Ex-Director de la NSA y de Inteligencia Nacional, fue Vicepresidente de Booz Allen. La puerta giratoria perfecta.
+## Lectura TL
 
-## Puntos Clave
+### 1. Externalizar sin desarmar
 
-- **Monopolio de Secretos:** Booz Allen gestiona gran parte de la infraestructura TI y análisis de la inteligencia estadounidense. El "Cerebro" de la NSA es en gran parte corporativo.
-- **Rentabilidad del Espionaje:** Convertir la vigilancia inconstitucional en un modelo de negocio con márgenes de beneficio garantizados.
+Booz Allen importa porque permite ampliar capacidades de inteligencia sin que todo el know-how y la infraestructura queden dentro de la burocracia estatal directa.
 
-## Conexiones
+### 2. Contratismo como forma de poder
 
-- [[Agencia de Seguridad Nacional]] (NSA)
+En TL, su relevancia crece cuando se observa que contratar no reduce poder; a menudo lo redistribuye hacia actores privados con menos transparencia y gran dependencia presupuestaria.
+
+### 3. Interfaz entre Estado y mercado secreto
+
+Su utilidad aparece al mostrar cómo consultoría, tecnología y seguridad se funden en una economía del secreto altamente rentable.
+
+## Con que conecta
+
+- [[Agencia de Seguridad Nacional]]
+- [[NSA]]
 - [[Edward Snowden]]
 - [[Complejo Militar-Industrial]]
 - [[Vigilancia Masiva]]
+- [[Five Eyes]]

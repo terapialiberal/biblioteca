@@ -1,34 +1,51 @@
 ---
-titulo: Computación Espacial (Spatial Computing)
-tipo: "persona"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [computing, espacial, metaverso, vigilancia]
 publish: true
+created: 2026-01-29T19:17:08.473-03:00
+modified: 2026-04-19T12:41:25.650-03:00
+tags:
+  - computacion-espacial
+  - realidad-aumentada
+  - wearables
+  - vigilancia
+  - apple
+  - tl-intel-v3
 ---
 
-# Computación Espacial (Spatial Computing)
+# Computacion Espacial
 
-## Resumen General
+## BLUF
 
-Término popularizado por Apple (Vision Pro). La **Computación Espacial** permite superponer información digital sobre el mundo real. Para funcionar, el dispositivo debe **mapear** constantemente el entorno físico del usuario (su casa, sus muebles, las caras de sus amigos) con cámaras y lídar. Es el dispositivo de vigilancia definitivo: ya no solo miran tu cara, miran lo que tú miras y dónde vives.
+[[Computacion Espacial]] importa en TL como salto desde pantalla plana a interfaces que leen el entorno físico en tiempo real. Su valor analítico no está solo en la novedad del dispositivo, sino en que exige mapear espacios, cuerpos y atención para volver operable la capa digital sobre el mundo material.
 
-## Análisis Terapia Liberal (Cui Bono)
+## Por que importa en TL
 
-### Tier B (Operadores)
+- conecta [[Metaverso]], wearables y captura ambiental continua;
+- ayuda a leer cómo la inmersión necesita convertir hogar, mirada y movimiento en datos estructurados;
+- funciona como bisagra entre innovación de interfaz y expansión de [[Vigilancia Masiva]].
 
-- **Big Tech:** Obtienen el "gemelo digital" de los interiores de todos los hogares privados del mundo.
+## Que cambio
 
-## Puntos Clave
+La nota estaba mal tipada como persona y seguía en formato viejo. Se recompila como concepto reusable para fijar mejor la lógica técnica y política del tema.
 
-- **Eye Tracking:** Estos dispositivos saben qué miras y cómo se dilata tu pupila (reacción emocional involuntaria). Saben lo que piensas antes que tú.
-- **Fin de la Privacidad Doméstica:** Las cámaras siempre encendidas en tu salón.
+## Lectura TL
 
-## Conexiones
+### 1. Mapear para superponer
+
+La computación espacial importa porque no puede operar sin escanear superficies, distancias, gestos, orientación y contexto físico del usuario.
+
+### 2. Del dispositivo al entorno sensado
+
+En TL, su relevancia aumenta cuando se observa que el producto ya no recoge solo clics o texto. Recoge habitaciones, trayectorias, focos de atención y respuestas corporales.
+
+### 3. Interfaz inmersiva, soberanía reducida
+
+Su potencia política aparece cuando la capa digital deja de estar en una app y pasa a mediar percepción cotidiana del espacio, del trabajo y de la sociabilidad.
+
+## Con que conecta
 
 - [[Metaverso]]
-- [[Vigilancia Masiva]]
+- [[Google Glass]]
 - [[Apple]]
-- [[Big Data]]
+- [[Vigilancia Masiva]]
+- [[Capitalismo de Vigilancia]]
+- [[Reality Privilege]]

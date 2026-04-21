@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-25T22:08:55.787-03:00
-modified: 2026-04-07T11:49:21.544-03:00
+modified: 2026-04-07T11:15:19.547-03:00
 tags:
   - cristal
   - memoria

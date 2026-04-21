@@ -1,41 +1,54 @@
 ---
-titulo: Teoría Del Empujón (Nudge Theory)
-tipo: "concepto"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [empujn, guerra, nudge, theory]
 publish: true
+aliases:
+  - Teoría del Empujón (Nudge Theory)
+  - Nudge Theory
+created: 2026-01-29T19:17:39.014-03:00
+modified: 2026-04-21T13:16:51.100-03:00
+tags:
+  - "#nudge"
+  - "#teoria-del-empujon"
+  - "#comportamiento"
+  - "#paternalismo"
+  - "#gobernanza"
+  - "#tl-intel-v3"
 ---
 
-# Teoría Del Empujón (Nudge Theory)
+# Teoria del Empujon
 
-## Resumen General
+## BLUF
 
-Popularizada por **Cass Sunstein** (asesor de Obama) y Richard Thaler, la **Teoría del Empujón** postula que los gobiernos deben diseñar la "arquitectura de decisión" para que los ciudadanos tomen las decisiones "correctas" (según la élite) sin set forzados explícitamente. Es el **Paternalismo Libertario**: mantienes la ilusión de libertad, pero el sistema está trucado para que elijas lo que el poder quiere (ej. donación de órganos por defecto, opciones de comida "sana" a la altura de los ojos).
+[[Teoria del Empujon]] importa en TL como marco de gobernanza conductual que busca orientar decisiones sin coerción directa visible, diseñando entornos, defaults y arquitectura de elección para producir conductas funcionales al objetivo del diseñador.
 
-## Análisis Terapia Liberal (Cui Bono)
+## Por que importa en TL
 
-### Tier A (Beneficiarios)
+- conecta psicología conductual, política pública y manipulación blanda;
+- ayuda a leer cómo se gobierna conducta sin prohibiciones explícitas;
+- funciona como nodo base del corredor `arquitectura de elección / compliance / paternalismo tecnocrático`.
 
-- **Estado Administrativo:** Permite gobernar y moldear conductas masivas sin pasar leyes impopulares que generarían resistencia.
-- **Corporaciones:** El marketing conductual es esencialmente "Nudging" privado para el consumo.
+## Que cambio
 
-### Tier B (Operadores)
+La nota estaba en formato viejo y muy resumido. Se recompila como concepto reusable para integrarla mejor con `Guerra Cognitiva`, `Ingenieria Social` y `Compliance`.
 
-- **Behavioural Insights Team (Nudge Unit):** Creado en UK y replicado en todo el mundo occidental para aplicar psicología conductual a políticas públicas (ej. cumplimiento fiscal, vacunas).
-- **Cass Sunstein:** Figura clave que propuso "infiltrar cognitivamente" a los grupos de teorías de conspiración.
+## Lectura TL
 
-## Puntos Clave
+### 1. Libertad diseñada
 
-- **La Ilusión de Elección:** Te hacen creer que eliges, pero el menú está diseñado para que elijas el Plato A.
-- **Infantilización:** Trata a los ciudadanos como irracionales que necesitan set guiados por "expertos" benevolentes.
-- **Aplicación Punitiva:** Durante la pandemia, el Nudging se convirtió en coacción psicológica pura (miedo, vergüenza social).
+La teoría importa porque mantiene la apariencia de elección mientras sesga el entorno para volver más probables ciertos resultados.
 
-## Conexiones
+### 2. Paternalismo con estética suave
+
+En TL, su relevancia crece cuando se observa cómo recomendaciones, defaults y señalética pueden reemplazar coerción abierta sin dejar de ser herramientas de poder.
+
+### 3. Del consumo a la gobernanza
+
+También sirve para ver cómo técnicas nacidas o popularizadas en economía conductual y marketing pasan luego a salud pública, finanzas, fiscalidad y disciplina social.
+
+## Con que conecta
 
 - [[Guerra Cognitiva]]
-- [[Ingeniería Social]]
-- [[Barack Obama]]
-- [[Foro Económico Mundial]]
+- [[Ingenieria Social]]
+- [[Cass Sunstein]]
+- [[Behavioural Insights Team]]
+- [[Compliance]]
+- [[00_MOC - Operaciones Psicologicas]]

@@ -1,70 +1,50 @@
 ---
 publish: true
 created: 2026-02-25T14:13:18.100-03:00
-modified: 2026-04-07T11:50:11.413-03:00
+modified: 2026-04-19T13:12:46.284-03:00
 tags:
+  - cbdc-europeo
   - euro-digital
-  - cbdc
   - bce
   - dinero-programable
   - tl-intel-v3
 ---
 
-# [[CBDC Europeo]]
+# CBDC Europeo
 
-#### BLUF
+## BLUF
 
-El Euro Digital no es una criptomoneda. Es una extensión del poder monetario del BCE hacia un dinero más trazable, programable y potencialmente integrable con identidad digital y compliance automatizado.
+[[CBDC Europeo]] importa en TL como versión europea del dinero digital de banco central, diseñada alrededor del BCE y del marco institucional de la Unión Europea. Su valor no está solo en modernizar pagos, sino en acercar trazabilidad, programabilidad e integración regulatoria al corazón del sistema monetario europeo.
 
-#### MAPA DE ACTORES
+## Por que importa en TL
 
-| Actor | Tier | Rol Real | Incentivo Oculto |
-|-------|------|----------|-----------------|
-| [[Christine Lagarde]] | A | Administradora de liquidez | Centralizar capacidad monetaria fuera de la banca comercial. |
-| [[Comisión Europea]] | B | Brazo legislador | Crear el marco legal del dinero programable. |
-| [[Bancos Comerciales]] | B | Distribuidores / rehenes | Evitar desintermediación total por el BCE. |
-| [[BIS]] | A | Nodo maestro | Coordinar interoperabilidad global. |
+- conecta [[BCE]], dinero programable y arquitectura regulatoria europea;
+- ayuda a leer cómo la digitalización monetaria puede ampliar capacidad de compliance y administración transaccional;
+- funciona como nodo regional del eje [[CBDC]] / [[BIS Innovation Hub]] / [[Proyecto Agora]].
 
-#### SEÑALES VS RUIDO
+## Que cambio
 
-| Tipo | Acción / Declaración | Interpretación |
-|------|----------------------|----------------|
-| Señal | Selección de proveedores para pilotos. | Inicio de integración técnica difícil de revertir. |
-| Señal | Funcionalidad offline con límites. | Concesión táctica para bajar resistencia al control. |
-| Ruido | “El euro digital complementará al efectivo”. | El efectivo puede ser gradualmente marginalizado por límites y fricción regulatoria. |
+La nota seguía en formato forense viejo, con tablas y escenarios demasiado cerrados. Se recompila como concepto reusable para dejar mejor diferenciados arquitectura, actores e implicancias.
 
-#### CUI BONO REAL
+## Lectura TL
 
-**¿Quién captura qué?**
-El BCE captura capacidad de intervención transaccional mucho más fina. Con cuenta o capa directa de banco central, el margen para aplicar límites, expiración o scoring aumenta sustancialmente.
+### 1. Dinero público más granular
 
-#### ANÁLISIS DE JUEGO
+El euro digital importa porque puede ampliar la capacidad del emisor para observar flujos, modular acceso y diseñar funciones monetarias más directas.
 
-**Tipo:** signaling / signaling
-**Equilibrio actual:** la población acepta digitalización por comodidad; la banca acepta la transición para no quedar desplazada.
-**Condición de ruptura:** crisis bancaria que vuelva atractivo mover depósitos al balance del BCE.
-**Horizonte:** repetido, con expansión progresiva del control monetario.
+### 2. Europa como laboratorio regulatorio
 
-#### ESCENARIOS FUTUROS
+En TL, su relevancia crece cuando se observa que la UE suele convertir pilotos técnicos en marcos normativos replicables sobre identidad, pagos y compliance.
 
-| Escenario | Prob. | Descripción | Indicador Temprano |
-|-----------|-------|-------------|-------------------|
-| Base | 70% | Lanzamiento con límites de tenencia alrededor de 3000 EUR. | Aprobación del reglamento de curso legal. |
-| Alternativo | 20% | Resistencia social y política en países núcleo que retrasa adopción. | Bloqueos parlamentarios o referéndums. |
-| Cisne Negro | 5% | Auge de stablecoins o Bitcoin que reduzca relevancia del euro digital. | Adopción acelerada fuera del perímetro BCE. |
+### 3. Complemento que puede desplazar
 
-**Indicador maestro:** límites al uso de efectivo por debajo de 1000 EUR en la UE.
+Su utilidad aparece al pensar cómo una capa presentada como complemento del efectivo puede, con el tiempo, volverlo más marginal mediante incentivos, límites y fricción regulatoria.
 
-#### FALSABILIDAD
+## Con que conecta
 
-La tesis se debilita si el BCE renuncia de forma verificable a programabilidad fuerte y asegura anonimato funcional equivalente al efectivo.
-
-#### BALAS DE PLATA
-
-- Single Currency Package
-- funcionalidad offline
-- integración potencial con Digital ID europeo
-
-#### LAGUNAS
-
-Falta mayor claridad sobre cómo se articulará el euro digital con identidad digital, scoring regulatorio y restricciones transfronterizas.
+- [[CBDC]]
+- [[Christine Lagarde]]
+- [[BCE]]
+- [[BIS Innovation Hub]]
+- [[Dinero Programable]]
+- [[Identidad Digital Soberana]]

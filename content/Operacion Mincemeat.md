@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:28.608-03:00
-modified: 2026-04-07T11:49:03.471-03:00
+modified: 2026-04-07T11:15:09.396-03:00
 tags:
   - arte
   - fabricada

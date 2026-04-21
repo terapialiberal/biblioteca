@@ -1,50 +1,54 @@
 ---
-titulo: Capitalismo De Amigos (Crony Capitalism)
-tipo: "concepto"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [amigos, blackrock, capitalismo, crony]
 publish: true
+aliases:
+  - Capitalismo De Amigos (Crony Capitalism)
+  - Crony Capitalism
+created: 2026-01-29T19:17:06.378-03:00
+modified: 2026-04-21T13:11:12.271-03:00
+tags:
+  - "#capitalismo-de-amigos"
+  - "#crony-capitalism"
+  - "#captura"
+  - "#monopolio"
+  - "#estado-corporacion"
+  - "#tl-intel-v3"
 ---
 
-# Capitalismo De Amigos (Crony Capitalism)
+# Capitalismo de Amigos
 
-## Perfil TL (Resumen Ejecutivo)
+## BLUF
 
-**¿Qué es?** Un sistema económico donde el éxito empresarial no depende de la competencia o el servicio al cliente, sino de las conexiones políticas, el lobby y los favores del Estado.
+[[Capitalismo de Amigos]] importa en TL como régimen económico donde el éxito depende menos de competir en mercado abierto y más de acceso privilegiado a regulación, subsidios, contratos públicos, rescates o protección política.
 
-**¿Por qué importa?** Es la **falsa cara del mercado**. La mayoría de lo que la gente odia del "capitalismo" es, en realidad, Capitalismo de Amigos. En este modelo, el Gobierno elige ganadores y perdedores mediante subsidios, regulaciones que eliminan a la competencia pequeña y rescates financieros. Es la privatización de las ganancias y la socialización de las pérdidas. El Tier A no compite; transa con el Tier B político para asegurar su monopolio.
+## Por que importa en TL
 
-## Análisis De Poder (Tiers)
+- conecta lobby, captura regulatoria, rescates y cartelización;
+- ayuda a distinguir mercado competitivo de capitalismo políticamente administrado;
+- funciona como concepto bisagra entre poder corporativo y poder estatal.
 
-### Tier A (Los Concesionarios)
+## Que cambio
 
-- **Captura del Regulador:** Grandes corporaciones que escriben sus propias leyes mediante el lobby. No buscan mercados libres, buscan mercados **cautivos**. Su poder reside en la capacidad de usar la fuerza del Estado para proteger su balance de resultados.
-- **Rescates Sistémicos:** La seguridad de que, si fallan, el contribuyente pagará la cuenta. Esto incentiva el riesgo moral y la concentración extrema de riqueza.
+La nota seguía en formato viejo y demasiado apoyada en tono de manifiesto. Se recompila como concepto reusable para integrarla mejor con `Puerta Giratoria`, `Rent-Seeking` y `Captura Regulatoria`.
 
-### Tier B (Operadores / Facilitadores)
+## Lectura TL
 
-- **La Casta Política:** Intercambian regulaciones a medida por financiamiento de campaña, puestos en directorios (puerta giratoria) o sobornos directos. Son los guardias de seguridad del sistema monopolístico.
+### 1. Mercado sin exterior político
 
-### Tier C (Narrativa Pública)
+El capitalismo de amigos importa porque muestra que buena parte del “mercado” real ya viene preformateado por permisos, cercanía al poder y acceso diferencial a reglas.
 
-- "Fomento a la industria nacional". "Soberanía económica". "Protección del empleo". Excusa retórica para justificar el cierre de la competencia y el saqueo del consumidor.
+### 2. Ganancia privada, riesgo socializado
 
-## Conexiones Clave
+En TL, su relevancia crece cuando se observa cómo pérdidas, crisis o malas decisiones de grandes actores suelen descargarse sobre contribuyentes, consumidores o competidores menores.
 
-- [[Cargill]] (Ejemplo de cartel protegido)
-- [[BlackRock]] (El dueño de los incumbentes)
-- [[Puerta Giratoria]] (El mecanismo de ascenso)
-- [[Lobby]] (La herramienta)
+### 3. Competencia administrada
 
-## Fuentes
+También sirve para leer por qué muchos incumbentes prefieren protección regulatoria antes que rivalidad genuina.
 
-- Luigi Zingales: "A Capitalism for the People".
-- Public Choice Theory (James Buchanan).
-- Análisis de Terapia Liberal sobre la casta económica.
+## Con que conecta
 
-## Por Qué Importa (Estilo Nico)
-
-> "El capitalismo de amigos es el club VIP donde vos no estás invitado. El 'empresario' de este sistema no se preocupa por si te gusta su producto, se preocupa por si el ministro le firmó la exclusividad. Es un socialismo para los ricos: si les va bien, la plata es de ellos; si les va mal, la deuda es tuya. No es libre mercado, es feudalismo con Excel y trajes caros."
+- [[Puerta Giratoria]]
+- [[Captura Regulatoria]]
+- [[Rent-Seeking]]
+- [[Lobby]]
+- [[BlackRock]]
+- [[00_MOC - Captura Regulatoria y Puertas Giratorias]]

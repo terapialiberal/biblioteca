@@ -1,12 +1,12 @@
 ---
 publish: true
 created: 2026-01-29T19:17:19.693-03:00
-modified: 2026-04-07T11:48:37.362-03:00
+modified: 2026-04-21T12:48:15.373-03:00
 tags:
-  - biden
-  - blackrock
-  - continuidad
-  - departamento
+  - "#biden"
+  - "#blackrock"
+  - "#continuidad"
+  - "#departamento"
 ---
 
 # Joe Biden: El Gerente De La Continuidad Atlantista
@@ -41,7 +41,7 @@ tags:
 - [[Hunter Biden]]: El recolector de rentas de Tier B de la familia.
 - [[Barack Obama]]: Su mentor político y el arquitecto de la red de inteligencia que Biden heredó.
 - [[00_Glosario - Conceptos Fase 1#Burisma|Burisma]]: El nodo de corrupción en Ucrania que vincula a Biden con el golpe de 2014 y la guerra actual.
-- [[CFR (Council on Foreign Relations)]]: El centro de pensamiento de Tier A donde se dictó su agenda globalista.
+- [[CFR]]: El centro de pensamiento de Tier A donde se dictó su agenda globalista.
 - [[Complejo Militar-Industrial]]: El sector que financia su carrera a cambio de una expansión constante de la OTAN.
 
 ## Conclusión Del Análisis

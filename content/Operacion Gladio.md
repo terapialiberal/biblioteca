@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:28.496-03:00
-modified: 2026-04-07T11:49:03.170-03:00
+modified: 2026-04-07T11:15:08.801-03:00
 tags:
   - estado
   - herramienta

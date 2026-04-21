@@ -41,7 +41,7 @@ Se dice que los sobrevivientes huyeron a Escocia y Suiza, ayudando a fundar la *
 
 - [[Masonería]]
 - [[Banco de Pagos Internacionales|Banco de Pagos Internacionales (BIS)]] (La herencia suiza)
-- [[City of London]]
+- [[City de Londres]]
 
 ## Fuentes
 

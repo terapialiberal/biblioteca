@@ -1,47 +1,50 @@
 ---
-titulo: Walter Lippmann
-tipo: "persona"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [edward, lippmann, walter]
 publish: true
+created: 2026-01-29T19:17:43.835-03:00
+modified: 2026-04-19T12:06:44.391-03:00
+tags:
+  - lippmann
+  - propaganda
+  - opinion-publica
+  - consentimiento
+  - medios
+  - tl-intel-v3
 ---
 
 # Walter Lippmann
 
-> [!INFO] Perfil (Ideólogo)
-> **Resumen:** "Padre de la propaganda moderna".
-> **Función Real:** Teorizó cómo las élites deben manejar la opinión pública.
+## BLUF
 
-## Biografía
+[[Walter Lippmann]] importa en TL como uno de los grandes teóricos de la administración moderna de la opinión pública. Su relevancia está en haber formulado, con lenguaje respetable y liberal, la idea de que las masas no deben gobernar realmente sino ser orientadas por una clase especializada.
 
-Walter Lippmann fue periodista y consejero de presidentes.
+## Por que importa en TL
 
-Trabajó en propaganda durante WWI (Comité Creel).
+- conecta periodismo, tecnocracia y gestión elitista de la democracia;
+- ayuda a leer cómo la propaganda puede presentarse como pedagogía pública;
+- funciona como nodo doctrinal junto a [[Edward Bernays]] e [[Ingenieria de Consentimiento]].
 
-## Obras
+## Que cambio
 
-- **"Public Opinion" (1922):** Argumentó que el público no puede pensar por sí mismo
-- "Manufacturing Consent" (concepto que él acuñó)
-- Propuso que expertos deben guiar la opinión pública
+La nota venía en formato biográfico viejo, demasiado esquemática y con enlaces flojos. Se recompila como perfil doctrinal reusable, priorizando su función analítica dentro del corredor de percepción.
 
-## Influencia
+## Lectura TL
 
-Su framework fue base para:
+### 1. Democracia administrada
 
-- Relaciones públicas
-- Propaganda moderna
-- [[Edward Bernays]] (colega)
+Lippmann importa porque plantea que el ciudadano común opera sobre imágenes simplificadas del mundo y no sobre realidad directa. A partir de ahí, la política moderna pasa a depender de quienes fabrican esas imágenes.
 
-## Conexiones
+### 2. La clase especializada
+
+En TL, su tesis es crucial porque legitima el gobierno indirecto de expertos, redactores, funcionarios y estrategas que interpretan el mundo por cuenta del público y luego le devuelven una versión digerible.
+
+### 3. Del diagnóstico al dispositivo
+
+Su valor no está solo en haber descrito un problema cognitivo, sino en haber abierto una justificación elegante para que medios, think tanks y aparatos estatales administren consenso sin presentarse como censores.
+
+## Con que conecta
 
 - [[Edward Bernays]]
-- CFR (fundador)
-- Propaganda americana
-
-## Fuentes
-
-- "Public Opinion"
-- "The Phantom Public"
+- [[Ingenieria de Consentimiento]]
+- [[Manufactura de Consenso]]
+- [[The Inquiry]]
+- [[Narrativa Unica]]

@@ -1,52 +1,51 @@
 ---
-titulo: Cambridge Analytica
-tipo: "persona"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [analytica, cambridge, facebook, palantir]
 publish: true
+created: 2026-01-29T19:17:06.278-03:00
+modified: 2026-04-19T12:31:01.175-03:00
+tags:
+  - cambridge-analytica
+  - microtargeting
+  - elecciones
+  - facebook
+  - datos
+  - tl-intel-v3
 ---
 
 # Cambridge Analytica
 
-## Perfil TL (Resumen Ejecutivo)
+## BLUF
 
-**¿Qué fue?** Una empresa británica de consultoría política y minería de datos que utilizó perfiles psicológicos de 87 millones de usuarios de Facebook para manipular procesos electorales, notablemente el Brexit y la elección de Trump en 2016.
+[[Cambridge Analytica]] importa en TL como caso emblemático de microtargeting político basado en extracción masiva de datos y modelado psicográfico. Su valor principal está en mostrar que la ingeniería electoral contemporánea puede operar menos por ideología visible que por segmentación conductual de precisión.
 
-**¿Por qué importa?** No fue una simple agencia de marketing. Cambridge Analytica fue el brazo operativo de la **Guerra Psicológica Electoral**. Demostró que la "democracia" es un algoritmo que puede ser hackeado mediante el miedo y el sesgo emocional. Su conexión documentada con **[[Palantir]]** (financiada por la [[CIA]] vía [[In-Q-Tel]]) revela que las herramientas de vigilancia militar se aplicaron directamente contra la población civil para moldear la realidad política.
+## Por que importa en TL
 
-## Análisis De Poder (Tiers)
+- conecta datos de plataforma, psicometría y operaciones electorales;
+- ayuda a leer cómo la política entra en lógica de testing, targeting y manipulación emocional;
+- funciona como caso-escuela del corredor `Meta / plataformas / propaganda personalizada`.
 
-### Tier A (Arquitectos De La Sombra)
+## Que cambio
 
-- **Robert Mercer & Steve Bannon:** Los financistas y estrategas que utilizaron a CA como un laboratorio para el "Nacionalismo Populista" controlado.
-- **Conexión Silicon Valley/CIA:** El uso de software de [[Palantir]] por parte de CA para procesar los datos de Facebook confirma que el Tier A no distingue entre "sector privado" y "aparato de inteligencia" cuando se trata de control social.
+La nota seguía mal tipada como `persona`, demasiado cargada y demasiado dependiente del tono de escándalo. Se recompila como entidad reusable para fijar mejor el mecanismo y no solo el shock narrativo del caso.
 
-### Tier B (Operadores / Mercenarios De Datos)
+## Lectura TL
 
-- **Alexander Nix & Christopher Wylie:** Los rostros del escándalo. Wylie (el whistleblower) reveló que la empresa no "cerró", sino que sus activos y métodos se licuaron en nuevas entidades (como _Emerdata_) para seguir operando bajo otros nombres.
-- **Microtargeting:** La capacidad de enviar mensajes contradictorios a diferentes grupos de personas basándose en sus debilidades psicológicas, destruyendo el consenso social compartido.
+### 1. La democracia como superficie segmentable
 
-### Tier C (Narrativa Pública)
+Cambridge Analytica importa porque convierte votantes en audiencias psicológicas diferenciadas, cada una con su propio set de disparadores, miedos y mensajes.
 
-- "Innovación en comunicación política". "Uso de Big Data para entender al votante". Retórica tecnocrática para ocultar el robo masivo de datos y el sabotaje de la voluntad popular.
+### 2. Del marketing a la guerra cognitiva electoral
 
-## Conexiones Clave
+En TL, el nodo vale porque muestra la continuidad entre publicidad, inteligencia conductual y operaciones políticas. No es solo persuasión: es modelado de contexto para inducir respuestas.
 
-- [[Palantir]] (El motor tecnológico)
-- [[Facebook]] (La fuente de la biomasa de datos)
-- [[Steve Bannon]] (El ideólogo)
-- [[Guerra Psicológica]] (La doctrina de fondo)
-- [[Brexit]] y [[Trump 2016]] (Los casos de éxito)
+### 3. Escándalo visible, patrón persistente
 
-## Fuentes
+Su relevancia sigue vigente porque el cierre formal de la empresa no eliminó la lógica operativa. El caso dejó instalado un estándar industrial sobre cómo usar datos sociales para afectar percepción y voto.
 
-- Christopher Wylie: "Mindf\*ck: Inside Cambridge Analytica's Plot to Break the World".
-- Documentos filtrados del Parlamento Británico (DCMS Committee).
-- Reportajes de Carole Cadwalladr (The Guardian).
+## Con que conecta
 
-## Por Qué Importa (Estilo Nico)
-
-> "Cambridge Analytica nos enseñó que ya no votás por convicción, votás porque un algoritmo en Londres detectó que le tenés miedo a los inmigrantes o que te sentís solo. Usaron armas de guerra psicológica de la CIA para convencerte de que el cambio estaba en una boleta. La empresa 'murió' en los papeles, pero su tecnología es ahora el estándar de la industria. Hoy, la democracia es solo una Interfaz de Usuario (UI) manejada por el que tiene los datos más frescos."
+- [[Meta Platforms]]
+- [[Mark Zuckerberg]]
+- [[Palantir]]
+- [[Gobernanza Algoritmica]]
+- [[Steve Bannon]]
+- [[Brexit]]

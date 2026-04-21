@@ -1,48 +1,59 @@
 ---
-titulo: Bellingcat
-tipo: "concepto"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [bellingcat, open]
 publish: true
+created: 2026-01-29T19:17:05.075-03:00
+modified: 2026-04-21T12:33:43.612-03:00
+tags:
+  - "#bellingcat"
+  - "#osint"
+  - "#medios"
+  - "#narrativa"
+  - "#atlantismo"
+  - "#tl-intel-v3"
 ---
 
 # Bellingcat
 
-> [!ABSTRACT] Ficha Técnica
-> **Narrativa Official:** Colectivo independiente de periodismo de investigación OSINT.
-> **Función Real:** Operación de inteligencia disfrazada de periodismo ciudadano.
+## BLUF
 
-## Actores Clave
+[[Bellingcat]] importa en TL como nodo híbrido entre OSINT, periodismo y legitimación narrativa. Su relevancia no está solo en sus investigaciones, sino en cómo convierte análisis abierto en insumo reputacional para medios, gobiernos y marcos geopolíticos del bloque occidental.
 
-- Eliot Higgins - Fundador (blogger de Leicester sin formación)
+## Por que importa en TL
 
-## Financiamiento
+- conecta cultura OSINT, financiamiento institucional y narrativa atlantista;
+- ayuda a leer cómo una marca de investigación puede funcionar como fuente “independiente” dentro de circuitos de validación más amplios;
+- sirve como caso de estudio sobre la privatización o externalización del trabajo de legitimación.
 
-Financiado por:
+## Que cambio
 
-- [[NED|National Endowment for Democracy]]
-- [[Open Society Foundations]]
-- Gobiernos occidentales
+La nota seguía en formato muy viejo y reducía demasiado el tema a denuncia frontal. Se recompila como entidad reusable para separar mejor método, función narrativa y valor operativo del nodo dentro del corredor medios/seguridad narrativa.
 
-## Patrón
+## Que es
 
-Bellingcat "descubre" información que luego es citada por medios mainstream y gobiernos como "verificación independiente".
+Bellingcat es un colectivo o plataforma de investigación OSINT conocida por analizar conflictos, operaciones militares, inteligencia abierta y atribución de eventos geopolíticos.
 
-Cubre temas que alinean con narrativas occidentales:
+## Lectura TL
 
-- Rusia (Skripal, MH17, Navalny)
-- Siria (ataques químicos)
+### 1. Independencia reputacional
 
-## Criticas
+El nodo importa porque muchas veces aparece como fuente técnicamente independiente en debates donde medios y gobiernos necesitan una validación externa que no parezca estatal.
 
-- Financiamiento gubernamental cuestionable
-- Acceso a datos que requieren capacidades estatales
-- Siempre concluye lo que conviene a OTAN
+### 2. OSINT como capa de legitimación
 
-## Fuentes
+En TL, su interés está en cómo el lenguaje técnico de geolocalización, metadata, imágenes y trazas digitales puede convertirse en una forma poderosa de autoridad narrativa.
 
-- Financiamiento disclosure
-- Críticas de Moon of Alabama, The Grayzone
+### 3. Interfaz entre investigación y bloque geopolítico
+
+La pregunta útil no es solo si acierta o falla, sino cómo se inserta en ecosistemas de financiamiento, difusión, cita cruzada y alineamiento con agendas del frente atlántico.
+
+### 4. Nuevo periodismo pericial
+
+Bellingcat sirve para pensar una mutación del periodismo hacia formatos casi forenses, donde evidencia abierta, branding técnico y circulación institucional producen una nueva clase de legitimidad.
+
+## Con que conecta
+
+- [[OSINT]]
+- [[Atlantic Council DFRLab]]
+- [[The New York Times]]
+- [[BBC]]
+- [[Narrativa Unica]]
+- [[00_MOC - Medios y Legitimacion]]

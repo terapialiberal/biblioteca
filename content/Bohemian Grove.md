@@ -1,40 +1,55 @@
 ---
-titulo: Bohemian Grove
-tipo: "persona"
-fecha: 2026-02-25
-estado: activo
-tags: [bohemian, cremation, grove, proyecto]
-tier_primario: "a"
-nivel_evidencia: "alto"
 publish: true
+created: 2026-01-29T19:17:05.690-03:00
+modified: 2026-04-21T12:19:54.846-03:00
+tags:
+  - "#bohemian-grove"
+  - "#elites"
+  - "#ritual"
+  - "#redes-discretas"
+  - "#eeuu"
+  - "#tl-intel-v3"
 ---
 
 # Bohemian Grove
 
-> [!ABSTRACT] Hipótesis Informativa
-> **Bohemian Grove** es un campamento privado de 2,700 acres en Monte Rio, California, que sirve como el santuario de verano de la élite de **Tier A** americana y global. Bajo el lema "Weaving Spiders Come Not Here" (que irónicamente se ignora), los directores de las mega-corporaciones, ex-presidentes y mandos militares se reúnen para realizar el ritual "Cremation of Care" frente a un búho gigante de 12 metros, simbolizando el despojo de la responsabilidad moral para tomar las decisiones duras del imperio.
+## BLUF
 
-## Análisis De Tiers
+[[Bohemian Grove]] importa en TL como espacio de sociabilidad cerrada entre élites políticas, empresariales, militares y culturales de Estados Unidos. Su relevancia no depende solo del ritualismo asociado al lugar, sino de cómo funciona como entorno de confianza, descompresión y coordinación informal entre actores de alto nivel.
 
-### Tier A (Los Dueños)
+## Por que importa en TL
 
-- **Incentivo**: La creación de **cohesión tribal**. En Bohemian Grove no hay actas ni cámaras; es donde se cierran pactos de caballeros que definen la política de defensa y energía de las décadas siguientes. El Proyecto Manhattan (la bomba atómica) se gestó formalmente en estas instalaciones.
-- **Simbolismo**: El búho representa la sabiduría que ve en la oscuridad, un arquetipo de vigilancia y conocimiento oculto propio del Tier A.
+- muestra cómo redes de poder usan espacios no institucionales para consolidar vínculos;
+- conecta ritual, exclusividad y sociabilidad de élite dentro del corredor simbólico;
+- sirve como nodo de cruce entre establishment estadounidense, secreto social y cultura de pertenencia.
 
-### Tier B (Operadores / Ejecutores)
+## Que cambio
 
-- Políticos como Richard Nixon y Ronald Reagan eran asistentes asiduos. Para ellos, era el examen final para ser admitidos en los círculos de confianza del Tier A.
+La nota existía en formato viejo, mezclaba inferencias fuertes con tipado incorrecto y tenía enlaces de glosario rotos. Se recompila como entidad reusable para integrarla mejor con `Skull and Bones`, `The Pilgrims Society` y el MOC de simbolismo.
 
-### Tier C (El Teatro / Percepción)
+## Que es
 
-- "Un campamento de vacaciones para hombres ricos haciendo teatro". Esta narrativa infantiliza un espacio de coordinación geopolítica de primer orden.
+Bohemian Grove es un club/campamento privado asociado al Bohemian Club, conocido por sus encuentros estivales en California y por convocar a figuras del establishment político, corporativo y militar estadounidense.
 
-## Conexiones Críticas
+## Lectura TL
 
-- [[00_Glosario - Conceptos Fase 1#Proyecto Manhattan|Proyecto Manhattan]]: Origen histórico de la cooperación Tier A/B.
-- [[Cremation of Care]]: El ritual de "despersonalización" moral.
-- [[00_Glosario - Conceptos Fase 1#Richard Nixon|Richard Nixon]]: Testigo del poder del Grove.
+### 1. Sociabilidad de élite
 
-## Cui Bono
+El valor principal del Grove está en ofrecer un espacio de baja visibilidad donde competidores institucionales pueden convivir, intercambiar señales y reforzar alianzas fuera de canales formales.
 
-¿Quién gana? La **Elite del Complejo Industrial-Militar**. En el Grove se eliminan las fricciones entre competidores para asegurar que la agenda global siga una dirección unificada.
+### 2. Ritual como pegamento
+
+La iconografía del búho y la ceremonia `Cremation of Care` importan menos como prueba absoluta de una tesis total y más como tecnología de cohesión, pertenencia y diferenciación interna.
+
+### 3. Espacio de prepolítica
+
+En TL, este tipo de ámbito importa porque muchas decisiones no nacen en documentos públicos sino en ecosistemas de confianza previa, donde se alinean marcos, prioridades y relaciones.
+
+## Con que conecta
+
+- [[Cremation of Care]]
+- [[Skull and Bones]]
+- [[The Pilgrims Society]]
+- [[Club Safari]]
+- [[00_MOC - Simbolismo y Esoterismo]]
+- [[00_MOC - Redes de Poder]]

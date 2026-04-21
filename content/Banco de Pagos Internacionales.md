@@ -1,51 +1,47 @@
 ---
-titulo: Banco De Pagos Internacionales (BIS)
-tipo: "entidad"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [banco, cbdc, pagos, reserva]
 publish: true
+aliases:
+  - BIS
+  - BIS - El Banco de Pagos Internacionales
+  - Banco de Pagos Internacionales (BIS)
+created: 2026-01-29T19:17:04.747-03:00
+modified: 2026-04-18T15:49:41.350-03:00
+tags:
+  - bis
+  - bancos-centrales
+  - basilea
+  - cbdc
+  - coordinacion-monetaria
+  - tl-intel-v3
 ---
 
-# Banco De Pagos Internacionales (BIS)
+# Banco de Pagos Internacionales
 
-## Perfil TL (Resumen Ejecutivo)
+## BLUF
 
-**¿Qué es?** El "Banco Central de los Bancos Centrales". Es la institución financiera más poderosa, secreta e impenetrable del mundo.
+El [[Banco de Pagos Internacionales]] es el nodo de coordinación del sistema de bancos centrales. En TL importa menos como "foro técnico" que como capa supranacional donde se normalizan reglas de liquidez, disciplina bancaria y transición hacia infraestructuras monetarias más centralizadas.
 
-**¿Por qué importa?** El BIS está **fuera de toda ley nacional**. Sus edificios en Basilea son inviolables (como una embajada permanente); sus empleados tienen inmunidad diplomática total; sus archivos no pueden ser auditados por ningún gobierno y su correspondencia es incensurable. Es el lugar donde los jefes de la Fed, el BCE y el Banco de Inglaterra se reúnen cada dos meses en secreto para coordinar el destino monetario de la humanidad. Es el núcleo de la pirámide financiera global.
+## Por qué importa en TL
 
-## Análisis De Poder (Tiers)
+- concentra coordinación monetaria fuera del control electoral ordinario;
+- permite leer Basilea, stress tests y hubs de innovación como arquitectura de poder, no como tecnicismo neutral;
+- conecta la capa oficial del dinero con la transición hacia [[CBDC]], trazabilidad total y gobernanza financiera más programable.
 
-### Tier A (Soberanía Galáctica / Arquitectos)
+## Qué cambió
 
-- **Estado Soberano:** El BIS no responde a ningún parlamento. Fue fundado para gestionar la deuda de guerra alemana por Hjalmar Schacht (ministro de Hitler) y Montagu Norman (BoE). Es el arquitecto de la arquitectura; diseñan las reglas (Basilea III, etc.) que deciden cuánto crédito hay en tu país.
-- **CBDC (Control Final):** Lideran el _Innovation Hub_ que diseña las monedas digitales de bancos centrales para eliminar el efectivo y centralizar el control transaccional total a nivel global.
+Había dos notas funcionalmente duplicadas para el mismo objeto. Se consolida `Banco de Pagos Internacionales` como nodo vivo principal porque es el nombre más incrustado en el grafo; `BIS - El Banco de Pagos Internacionales` queda como nota espejo para absorber enlaces legacy sin competir por la misma entidad.
 
-### Tier B (Operadores / Gestores)
+## Lectura TL
 
-- **Agustín Carstens:** El actual Gerente General, un tecnócrata que ha admitido públicamente que las CBDC permitirán al sistema tener "control absoluto" sobre las reglas de uso del dinero.
-- **Lavandería Histórica:** Durante la Segunda Guerra Mundial, el BIS aceptó oro robado por los nazis de bancos centrales de países ocupados y de víctimas del Holocausto, permitiendo que el Reich se financiara internacionalmente.
+El BIS opera como metacapa del orden monetario occidental y, en varios temas, también como interfaz de convergencia con otros bloques. No "gobierna solo" el sistema, pero sí ofrece el espacio institucional donde bancos centrales, reguladores y tecnócratas alinean lenguaje, estándares y ventanas de cambio sin pasar por deliberación pública real.
 
-### Tier C (Narrativa Pública)
+Su valor para TL no es fetichizar el secreto sino ubicar el mecanismo: si la soberanía monetaria de los Estados ya viene limitada por deuda, mercados y reservas, el BIS funciona como coordinador de las reglas que vuelven esa limitación estable y exportable.
 
-- "Fomentar la cooperación monetaria internacional". "Lograr la estabilidad de precios". Se presentan como un foro técnico y neutral de economistas aburridos.
+## Con qué conecta
 
-## Conexiones Clave
-
-- [[Reserva Federal]] (Miembro del consejo)
-- [[00_Glosario - Conceptos Fase 1#CBDC (Central Bank Digital Currency)|CBDC (Central Bank Digital Currency)]] (Su proyecto estrella)
-- [[WEF (World Economic Forum)]] (Socio estratégico)
-- [[Nazi Gold]] (Historial de complicidad)
-
-## Fuentes
-
-- Adam LeBor: "Tower of Basel: The Shadowy History of the Secret Bank that Runs the World".
-- Texto legal del "Acuerdo de Sede" (Suiza-BIS).
-- Discursos oficiales de Agustín Carstens en el BIS Innovation Hub.
-
-## Por Qué Importa (Estilo Nico)
-
-> "Si creés que tu país es soberano, es porque nunca leíste el estatuto del BIS. En Basilea hay una torre donde unos tipos que nadie votó deciden si mañana vas a poder pagar el alquiler o no. Tienen inmunidad diplomática para lavar oro nazi o para diseñar el corralito digital del futuro. El BIS es el Olimpo de la casta financiera: están tan arriba que las leyes de los hombres sencillamente no les llegan."
+- [[Basel III y IV]]
+- [[CBDC]]
+- [[Sistema Petrodolar]]
+- [[Reserva Federal]]
+- [[Banco de Inglaterra]]
+- [[Arquitectura de Bancos Centrales]]

@@ -1,47 +1,50 @@
 ---
-titulo: "The Inquiry: El Big Bang Del Deep State Americano"
-tipo: "persona"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [bang, deep, edward, state]
 publish: true
+created: 2026-01-29T19:17:39.705-03:00
+modified: 2026-04-21T12:48:17.430-03:00
+tags:
+  - "#the-inquiry"
+  - "#think-tanks"
+  - "#lippmann"
+  - "#gobernanza"
+  - "#geoestrategia"
+  - "#tl-intel-v3"
 ---
 
-# The Inquiry: El Big Bang Del Deep State Americano
+# The Inquiry
 
-> [!ABSTRACT] Hipótesis Informativa
-> **The Inquiry** fue un grupo de estudio secreto establecido en 1917 por el presidente Woodrow Wilson y su mano derecha, el **Coronel House**, para preparar los términos de paz de la Primera Guerra Mundial. Compuesto por académicos, geógrafos e historiadores (dirigidos por Walter Lippmann), este grupo **dibujó literalmente el mapa del mundo moderno** en la Conferencia de París. Tras la guerra, The Inquiry no se disolvió; se transformó en el **[[CFR (Council on Foreign Relations)]]** en EE.UU. y **[[Chatham House]]** en UK. Es el útero de donde nació toda la estructura de gobernanza globalista anglosajona.
+## BLUF
 
-## Análisis De Tiers
+[[The Inquiry]] importa en TL como embrión tecnocrático de la política exterior anglosajona del siglo XX. Su valor analítico está en mostrar cómo un grupo de expertos pudo diseñar mapas, narrativas y arquitectura institucional antes de que ese trabajo cristalizara en think tanks permanentes y gobernanza estratégica.
 
-### Tier A: Diseño Inteligente De La Geopolítica
+## Por que importa en TL
 
-- **Dibujando Fronteras:** Decidieron qué países existirían y cuáles no (Checoslovaquia, Yugoslavia, Polonia, el Mandato en Palestina). Sus decisiones crearon los conflictos del siglo XX (Balkanes, Medio Oriente) que justificaron intervenciones futuras.
-- **Institucionalización:** Entendieron que los presidentes pasan, pero la estrategia debe ser permanente. Por eso crearon el CFR: para educar a los futuros líderes y asegurar la continuidad del Imperio Americano.
+- conecta academia, geopolítica y diseño elitista del orden internacional;
+- ayuda a leer el origen de la clase especializada que luego administra consenso y estrategia;
+- funciona como nodo puente entre [[Walter Lippmann]], [[CFR]] y [[Chatham House (RIIA)]].
 
-### Tier B: Académicos Al Poder
+## Que cambio
 
-- **Walter Lippmann:** El padre del periodismo moderno y la "manufactura del consenso" fue el secretario de The Inquiry. Allí aprendió que la democracia debe ser gestionada por una "clase especializada" porque el público es un "rebaño desconcertado".
-- **Geografía como Arma:** Usaron datos cartográficos y étnicos para maximizar el poder occidental y fragmentar a los rivales (Alemania, Rusia).
+La nota estaba mal tipada como `persona`, demasiado cargada de tono totalizante y poco útil como nodo histórico reusable. Se recompila como entidad institucional de alto valor doctrinal.
 
-### Tier C: El Idealismo Wilsoniano
+## Lectura TL
 
-- **La Máscara Moral:** Vendieron su trabajo como "autodeterminación de los pueblos" y "hacer el mundo seguro para la democracia". En realidad, era ingeniería imperial pura.
+### 1. Taller previo del orden global
 
-## Mecanismos De Poder
+The Inquiry importa porque muestra que muchas decisiones supuestamente “naturales” del orden posterior a la Primera Guerra fueron preparadas por una red de expertos antes de entrar a la negociación pública.
 
-1. **Think Tank**: Inventaron el concepto moderno de Think Tank: intelectuales pagados por el poder para diseñar políticas públicas sin responsabilidad electoral.
-2. **Relación Especial**: Cimentaron la alianza intelectual y estratégica entre EE.UU. y Gran Bretaña, fusionando las élites de ambos lados del Atlántico.
+### 2. Intelectuales como brazo del poder
 
-## Conexiones Críticas
+En TL, el nodo sirve para leer el nacimiento de una forma moderna de gobierno por análisis, mapas, papers y lenguaje técnico. No manda solo el político visible: manda también quien define categorías, fronteras y escenarios.
 
-- [[CFR (Council on Foreign Relations)]]: Su hijo directo.
-- [[Edward Mandel House]]: El fundador y controlador (agente Rothschild).
-- [[Walter Lippmann]]: El ideólogo.
-- [[Tratado de Versalles]]: Su obra maestra (y desastre).
+### 3. De grupo ad hoc a infraestructura permanente
 
-## Conclusión Del Análisis
+Su importancia crece cuando se lo ve no como episodio aislado, sino como prototipo de think tank estratégico. Ese pasaje ayuda a entender por qué la “opinión experta” se convierte en continuidad de poder por encima de gobiernos.
 
-The Inquiry nos enseña que **el mundo no es un accidente; es un diseño**. Las fronteras, las instituciones internacionales y las alianzas que damos por sentadas fueron decididas en una habitación cerrada por 150 académicos en 1917. Si quieres entender el presente, tienes que estudiar los mapas que dibujaron ellos.
+## Con que conecta
+
+- [[Walter Lippmann]]
+- [[CFR]]
+- [[Chatham House (RIIA)]]
+- [[Edward Mandel House]]
+- [[Tratado de Versalles]]

@@ -37,7 +37,7 @@ publish: true
 
 - [[Woodrow Wilson]] (Su plataforma de poder)
 - [[Reserva Federal]] (Su mayor logro institucional)
-- [[CFR (Council on Foreign Relations)]] (Su legado de control)
+- [[CFR]] (Su legado de control)
 - [[Primera Guerra Mundial]] (Su proyecto geopolítico)
 
 ## Fuentes

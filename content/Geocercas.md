@@ -1,45 +1,51 @@
 ---
-titulo: Geocercas (Geofencing)
-tipo: "concepto"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [cbdc, ciudades, geocercas, geofencing]
 publish: true
+created: 2026-01-29T19:17:14.968-03:00
+modified: 2026-04-19T12:56:50.012-03:00
+tags:
+  - geocercas
+  - geofencing
+  - movilidad
+  - control
+  - vigilancia
+  - tl-intel-v3
 ---
 
-# Geocercas (Geofencing)
+# Geocercas
 
-## Perfil TL (Resumen Ejecutivo)
+## BLUF
 
-**¿Qué es?** Una tecnología que utiliza el GPS, RFID, Wi-Fi o datos celulares para crear un perímetro virtual alrededor de un área geográfica real.
+[[Geocercas]] importa en TL como técnica para definir perímetros virtuales que disparan restricciones, alertas o permisos según ubicación. Su valor no está solo en la utilidad logística o comercial, sino en mostrar cómo el espacio físico puede volverse programable, monitorizado y gobernable por software.
 
-**¿Por qué importa?** El Geofencing es la **infraestructura de confinamiento invisible de Tier B**. A diferencia de un muro físico, una geocerca es programable y dinámica, permitiendo al sistema restringir la movilidad del Tier C sin necesidad de guardias visibles. Es la base técnica de las **[[Ciudades de 15 Minutos]]** y de las **Zonas de Bajas Emisiones (ZBE)**: si tu vehículo inteligente cruza una línea virtual sin permiso o después de haber agotado tus "créditos de movimiento", el sistema puede multarte automáticamente o incluso apagar el motor del coche (**Kill Switch**). Para el Tier A, el geofencing permite la segmentación total de la población y el control quirúrgico de las protestas (bloqueando el acceso a plazas públicas o impidiendo que los manifestantes se coordinen fuera de su zona permitida). Es la transformación del mundo físico en una prisión regulada por software.
+## Por que importa en TL
 
-## Análisis De Poder (Tiers)
+- conecta movilidad, sensores, plataformas urbanas y control automatizado;
+- ayuda a leer cómo la administración territorial puede desplazarse de barreras visibles a reglas invisibles ejecutadas por sistemas;
+- funciona como satélite del eje [[Ciudades de 15 Minutos]] / [[CBDC]] / [[Smart Cities]].
 
-### Tier A (Los Planificadores Del Espacio)
+## Que cambio
 
-- **Gobernanza Algorítmica:** El Tier A utiliza el geofencing para implementar la "gestión de flujos" humanos, tratando a la población como variables en un modelo de logística. El objetivo final es la eliminación de la libertad de libre tránsito injustificado, moviéndonos hacia un modelo de "Movilidad como Servicio" condicionado al buen comportamiento.
-- **Relación con las CBDC:** El Tier A financiero planea vincular las geocercas a las **[[CBDC]]** (Monedas Digitales de Banco Central). El resultado: tu dinero solo funciona dentro de tu barrio, o no puedes comprar carne si estás fuera de tu zona de residencia autorizada.
+La nota seguía en formato viejo y muy cargada en escenarios cerrados. Se recompila como concepto reusable para dejar mejor separados mecanismo técnico y lectura política.
 
-### Tier B (Operadores / Smart Cities Y Big Tech)
+## Lectura TL
 
-- **Vigilancia de Pandemia/Clima:** Durante los lockdowns de 2020-2021, los operadores de Tier B utilizaron datos de geofencing para monitorizar quién salía de su casa y para enviar alertas masivas a los infractores. Este fue el "beta-test" para futuros confinamientos climáticos.
-- **Marketing Conductual:** El Tier B corporativo utiliza geocercas para bombardearte con publicidad invasiva apenas entras en un comercio, normalizando la presencia de perímetros invisibles que monitorizan tus pasos cada segundo.
+### 1. Frontera invisible
 
-### Tier C (Narrativa Pública)
+La geocerca importa porque permite gobernar acceso, permanencia o movimiento sin necesidad de un muro material o presencia policial constante.
 
-- "Ciudades inteligentes y sostenibles". "Seguridad infantil". "Protección del medio ambiente". Narrativas de conveniencia y seguridad que convencen al Tier C de aceptar el monitoreo constante de su ubicación a cambio de "servicios personalizados", ignorando que están entregando las llaves de su libertad física.
+### 2. Espacio programable
 
-## Conexiones Clave
+En TL, su relevancia crece cuando se observa que ubicación, identidad y permisos pueden quedar combinados en reglas automáticas de circulación o exclusión.
 
-- [[Ciudades de 15 Minutos]] (El modelo urbano)
-- [[CBDC / Dinero Programable]] (El mecanismo de enforce)
-- [[Smart Cities]] (La red física de sensores)
-- [[Control de Masas / Vigilancia Masiva]] (Su función política)
+### 3. Del marketing al control
 
-## Por Qué Importa (Estilo Nico)
+Su utilidad analítica aparece al ver que una herramienta nacida para logística, publicidad o analytics también puede servir para vigilancia, disuasión y administración diferenciada de poblaciones.
 
-> "El Geofencing es el muro de Berlín que no podés ver. Te dibujan una raya invisible en el mapa y, si la cruzás con tu auto eléctrico o con tu celular, el sistema te detecta al toque. Hoy lo usan para que no entres al centro si tu auto contamina mucho, pero mañana lo van a usar para que no te alejes a más de 5 kilómetros de tu casa si hay una 'emergencia' climática. Es el fin de los viajes libres. Si tu billetera digital está geocercada, sos un prisionero con GPS. Te dejan caminar por el patio de la cárcel, pero vos creés que el patio es el mundo entero porque no ves los barrotes."
+## Con que conecta
+
+- [[Ciudades de 15 Minutos]]
+- [[CBDC]]
+- [[Smart Cities]]
+- [[Vigilancia Masiva]]
+- [[Control de Masas]]
+- [[Gobernanza Digital]]

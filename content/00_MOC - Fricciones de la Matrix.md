@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-01-29T19:17:02.562-03:00
-modified: 2026-04-07T10:47:12.298-03:00
+modified: 2026-04-21T12:02:51.839-03:00
 tags:
-  - moc
-  - fricciones
-  - fallas-del-sistema
-  - resistencia
-  - tl-intel-v3
+  - "#moc"
+  - "#fricciones"
+  - "#fallas-del-sistema"
+  - "#resistencia"
+  - "#tl-intel-v3"
 ---
 
 # MOC - Fricciones de la Matrix
@@ -42,11 +42,11 @@ tags:
 
 ## Tecnocracia Fallida
 
-- [[El Metaverso (El Pueblo Fantasma)]]
+- [[El Metaverso]]
 - [[Google Glass]]
 - [[Las Smart Cities Fantasmas de China]]
 - [[Cierre de Amazon Go]]
-- [[Theranos (Elizabeth Holmes)]]
+- [[Theranos]]
 - [[La Caida de los NFTs]]
 
 ## Guerras Internas
@@ -63,7 +63,7 @@ tags:
 - [[La Laptop de Hunter Biden]]
 - [[Russiagate (Trump-Rusia)]]
 - [[Great Barrington Declaration]]
-- [[Los Papeles de Pfizer (Liberación Judicial)]]
+- [[Los Papeles de Pfizer]]
 - [[Cochrane Review sobre Mascarillas]]
 - [[Crisis de replicacion]]
 

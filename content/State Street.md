@@ -3,7 +3,7 @@ publish: true
 aliases:
   - State Street Corporation
 created: 2026-01-29T19:17:37.897-03:00
-modified: 2026-04-07T11:49:35.032-03:00
+modified: 2026-04-07T11:16:21.927-03:00
 tags:
   - state-street
   - custodia

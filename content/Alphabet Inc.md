@@ -1,50 +1,51 @@
 ---
-titulo: Alphabet Inc
-tipo: "entidad"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [alphabet, google, larry]
 publish: true
+created: 2026-01-29T19:17:03.388-03:00
+modified: 2026-04-19T12:30:59.883-03:00
+tags:
+  - alphabet
+  - google
+  - holding
+  - datos
+  - plataformas
+  - tl-intel-v3
 ---
 
 # Alphabet Inc
 
-## Resumen Ejecutivo
+## BLUF
 
-**¿Qué es?** El holding dominante que agrupa a [[Google]] y sus empresas satélites (_Other Bets_). Es la infraestructura de mayor captura de datos y procesamiento de información en la historia de la humanidad.
+[[Alphabet Inc]] importa en TL como estructura holding que organiza y protege la expansión de Google más allá del buscador. Su relevancia está en mostrar cómo una corporación puede convertir productos aparentemente dispersos en una sola arquitectura de captura de datos, experimentación y poder infraestructural.
 
-**¿Por qué importa?** Alphabet es el sistema operativo del mundo moderno. No es solo un buscador; es un motor de ingeniería social, censura algorítmica y vigilancia predictiva. Controla el acceso a la información mediante YouTube y el Search, dictando qué es "verdad" y qué es "desinformación" en el tablero digital.
+## Por que importa en TL
 
-## Análisis De Poder (Tiers)
+- conecta búsqueda, video, mapas, nube, IA y apuestas tecnológicas bajo un mismo comando corporativo;
+- ayuda a leer la escala real del poder de plataforma detrás de la marca Google;
+- funciona como nodo institucional de la gobernanza digital occidental.
 
-### Tier A (Centralización / Propiedad)
+## Que cambio
 
-- **Dueños de la Conciencia:** Controlan el 90% del tráfico de búsqueda mundial. Alphabet tiene la capacidad de sepultar narrativas o elevar agendas (ej: Cambio Climático, Pandemia) mediante la modificación discreta de sus algoritmos.
-- **Nexos Militares:** Sus orígenes financieros están ligados a fondos de la comunidad de inteligencia (DARPA/NSF). Proyectos como _DeepMind_ son activos estratégicos de IA para la gobernanza futura.
+La nota seguía en formato viejo y demasiado centrada en denuncia general. Se recompila como entidad reusable para separar mejor estructura corporativa, función y alcance.
 
-### Tier B (Operativa / Puerta Giratoria)
+## Lectura TL
 
-- **Contratos Estatales:** Socio principal de programas de defensa y salud (Verily). Sus ejecutivos saltan constantemente de la empresa a puestos de asesoría en el Pentágono y la Casa Blanca.
+### 1. El holding como blindaje
 
-### Tier C (Narrativa Pública)
+Alphabet importa porque permite segmentar riesgos, repartir marcas y sostener la expansión de proyectos estratégicos sin reducir todo el poder corporativo a un solo producto visible.
 
-- "Don't be evil" (antiguo lema). Se presentan como facilitadores de la libertad de información y la innovación tecnológica.
+### 2. Captura de superficie total
 
-## Conexiones Clave
+En TL, el nodo vale por la amplitud del ecosistema: búsqueda, video, correo, sistemas operativos, nube, IA y bets experimentales. Esa combinación vuelve a Alphabet más parecida a una infraestructura civilizatoria que a una empresa de software aislada.
 
-- [[Larry Page]] y [[Sergey Brin]] (Arquitectos)
-- [[00_Glosario - Conceptos Fase 1#YouTube|YouTube]] (El brazo propagandístico)
-- [[World Economic Forum (WEF)]] (Socio estratégico)
-- [[BlackRock]] y [[Vanguard]] (Principales accionistas)
+### 3. Plataforma de largo plazo
 
-## Fuentes
+Su relevancia crece cuando se observa cómo el holding acomoda investigación, defensa, salud, movilidad y datos en un mismo horizonte estratégico.
 
-- Reportes Anuales SEC (10-K).
-- Shoshana Zuboff: "The Age of Surveillance Capitalism".
-- Investigaciones de Robert Epstein sobre la manipulación de búsquedas.
+## Con que conecta
 
-## Por Qué Importa (Estilo Nico)
-
-> "Alphabet no es una empresa de servicios, es la infraestructura del pensamiento. Si una noticia no aparece en Google o un video es borrado de YouTube, para el 99% de la población, ese hecho no existe. No necesitás quemar libros si podés simplemente ajustar el algoritmo para que nadie los encuentre. Alphabet es el Ministerio de la Verdad, pero con mejores oficinas y colores primarios."
+- [[Google]]
+- [[YouTube]]
+- [[Capitalismo de Vigilancia]]
+- [[Gobernanza Digital]]
+- [[Larry Page]]
+- [[Sergey Brin]]

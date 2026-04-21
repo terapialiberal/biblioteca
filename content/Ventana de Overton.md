@@ -1,34 +1,51 @@
 ---
 publish: true
 created: 2026-01-29T19:17:42.978-03:00
-modified: 2026-04-07T10:53:17.263-03:00
+modified: 2026-04-21T13:18:03.153-03:00
 tags:
-  - cambio-social-gradualismo
-  - ingenieria-social
-  - opinion-publica
-  - politica-conceptos
-  - ventana-de-overton
+  - "#ventana-de-overton"
+  - "#opinion-publica"
+  - "#ingenieria-social"
+  - "#gradualismo"
+  - "#aceptabilidad"
+  - "#tl-intel-v3"
 ---
 
-# Ventana De Overton
+# Ventana de Overton
 
-## Resumen General
+## BLUF
 
-La **Ventana de Overton** es [[Naciones Unidas (ONU)]] modelo político que describe el rango de ideas que el público está dispuesto a aceptar en [[Naciones Unidas (ONU)]] memento dado. Las ideas fuera de la ventana son "radicales" o "impensables". La ingeniería social consiste en **mover la ventana** gradualmente para que lo que hoy es impensable (ej. pasaportes sanitarios, comer insectos) mañana sea política norma.
+[[Ventana de Overton]] importa en TL como modelo para leer el rango de ideas o medidas que una sociedad considera aceptables en un momento dado, y cómo ese rango puede desplazarse mediante framing, shock, repetición y legitimación gradual.
 
-## Análisis Terapia Liberal (Cui Bono)
+## Por que importa en TL
 
-### Tier A (Beneficiarios)
+- conecta ingeniería social, gradualismo y normalización de agendas;
+- ayuda a leer por qué ideas antes impensables pueden terminar como política mainstream;
+- funciona como concepto base del corredor `percepción pública / aceptabilidad / desplazamiento normativo`.
 
-- **Think Tanks:** Su trabajo es lanzar ideas radicales para ensanchar la ventana, haciendo que las políticas de compromiso parezcan moderadas.
+## Que cambio
 
-## Puntos Clave
+La nota estaba en formato muy viejo, con texto roto y además enlazaba a canónicos inexistentes. Se recompila como concepto reusable y se integra mejor con `Primado Negativo`, `Teoria del Empujon` e `Ingenieria Social`.
 
-- **Gradualismo:** No pides el totalitarismo de golpe; lo introduces paso a paso.
-- **Trump/Milei:** Políticos que rompen la ventana al decir lo "indecible", ampliando el espectro de discusión.
+## Lectura TL
 
-## Conexiones
+### 1. Lo posible también se diseña
 
-- [[Ingeniería Social]]
+La ventana importa porque el poder no siempre necesita imponer de golpe. Muchas veces le basta con mover el rango de lo debatible, decible y respetable.
+
+### 2. Gradualismo y shock
+
+En TL, su relevancia crece cuando se observa que la ventana puede correrse por pedagogía lenta o por eventos traumáticos que reordenan umbrales de aceptabilidad.
+
+### 3. Moderación fabricada
+
+También sirve para leer cómo una posición extrema puede ser lanzada para que otra, todavía dura pero menos agresiva, parezca razonable y moderada.
+
+## Con que conecta
+
+- [[Ingenieria Social]]
 - [[Primado Negativo]]
+- [[Teoria del Empujon]]
+- [[Problema-Reaccion-Solucion]]
 - [[Guerra Cultural]]
+- [[00_MOC - Operaciones Psicologicas]]

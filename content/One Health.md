@@ -3,14 +3,14 @@ publish: true
 aliases:
   - Una Salud
 created: 2026-04-17T18:27:26.295-03:00
-modified: 2026-04-17T18:27:26.866-03:00
+modified: 2026-04-21T11:32:24.117-03:00
 tags:
-  - one-health
-  - bioseguridad
-  - salud-global
-  - veterinaria
-  - gobernanza
-  - tl-intel-v3
+  - "#one-health"
+  - "#bioseguridad"
+  - "#salud-global"
+  - "#veterinaria"
+  - "#gobernanza"
+  - "#tl-intel-v3"
 ---
 
 # One Health
@@ -56,4 +56,6 @@ Leido junto con [[World Health Organization]], [[Tratado de Pandemias OMS]], [[F
 - [[CEPI]]
 - [[Moderna]]
 - [[Biopolitica]]
+- [[Bioseguridad]]
+- [[Salud Global]]
 - [[Tecnocracia]]

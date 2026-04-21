@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Credito Social Occidental
 created: 2026-02-25T16:10:42.672-03:00
-modified: 2026-04-17T15:31:15.461-03:00
+modified: 2026-04-17T15:31:11.072-03:00
 tags:
   - credito-social
   - scoring

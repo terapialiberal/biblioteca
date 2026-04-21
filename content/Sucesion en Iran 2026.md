@@ -1,39 +1,56 @@
 ---
 publish: true
-titulo: Sucesión en Irán 2026
-tipo: "concepto"
-tier_primario: 'b'
-nivel_evidencia: 'alto'
-estado: activo
-tags: [iran, sucesion, mojtaba, irgc, golpe-blando]
+aliases:
+  - "Sucesion en Iran 2026: la Consolidacion del IRGC"
+created: 2026-03-04T13:46:15.261-03:00
+modified: 2026-04-18T21:35:28.864-03:00
+tags:
+  - iran
+  - sucesion
+  - irgc
+  - mojtaba-khamenei
+  - escalada
+  - tl-intel-v3
 ---
 
-# Sucesión en Irán 2026: La Consolidación del IRGC
+# Sucesion en Iran 2026
 
-> [!IMPORTANT] ESCENARIO DE CRISIS
-> Tras el magnicidio de [[Ali Khamenei]] (28/02/2026), Irán enfrenta un vacío de poder teocrático. La estructura técnica (Tier B) está tomando el control total.
+## BLUF
 
-## ♟️ El Candidato: Mojtaba Khamenei
+[[Sucesion en Iran 2026]] importa en TL como nodo de crisis estatal: no solo pregunta quien reemplaza al lider, sino que faccion logra capturar el mecanismo de mando, el presupuesto coercitivo y la capacidad de negociar o escalar frente a Israel, EEUU y Rusia.
 
-Mojtaba (56 años) ha emergido como el sucesor de facto, no por legitimidad clerical (es un clérigo de nivel medio), sino por su control sobre la red de seguridad.
+## Por que importa en TL
 
-- **Conexión IRGC:** Mojtaba es el "hombre de las sombras" que gestiona la relación entre el despacho del Líder Supremo y los generales del Cuerpo de la Guardia Revolucionaria.
-- **Axioma 3 (Matriz):** Representa el Nivel 2 (Competitivo). Su ascenso es visto como la "militarización total" del régimen para evitar un colapso post-ataque.
+- conecta vacio de poder, IRGC, negociacion externa y riesgo de militarizacion abierta del regimen;
+- ayuda a leer a Iran menos como bloque monolitico y mas como sistema de facciones bajo presion extrema;
+- sirve para evaluar si la salida dominante sera cierre securitario, pacto tactico o fragmentacion.
 
-## ⚔️ El Choque de Facciones
+## Que cambio
 
-| Facción | Actor Líder | Estrategia |
-| :--- | :--- | :--- |
-| **Dura (IRGC)** | Mojtaba Khamenei | Ley marcial, aceleración de [[Project mBridge]], represalia asimétrica. |
-| **Técnica (C)** | [[Abbas Araghchi]] | Negociación con [[Steve Witkoff]] para evitar una invasión total. |
-| **Externa (B)** | [[Vladimir Putin]] | Soporte logístico a Mojtaba para evitar un cambio de régimen pro-USA. |
+La nota venia como escenario de crisis muy atado a una narrativa puntual. Se recompila como concepto reusable del corredor `Iran / sucesion / IRGC / negociacion`, con mejor modularidad para cruzarla con nodos regionales.
 
-## 💰 Cui Bono
+## Lectura TL
 
-El **IRGC** captura la totalidad del presupuesto nacional de defensa y los activos comerciales del "Bonyad" (conglomerados religiosos). A nivel global, el Tier A observa si Mojtaba garantiza la estabilidad de los flujos de energía o si Irán entra en un ciclo de caos improductivo.
+### 1. La pregunta real no es solo sucesoria
 
-## 🔮 Escenarios Probables
+En TL, la sucesion importa porque revela quien administra el monopolio real de la fuerza, la economia paraestatal y los canales diplomaticos. El nombre del sucesor importa menos que la coalicion que queda por detras.
 
-1. **Consolidación Mojtaba (70%):** El IRGC impone la sucesión en 48hs. Irán se convierte en una dictadura militar-clerical explícita.
-2. **Caos Interno (20%):** Protestas Tier C (Teatro) financiadas desde fuera provocan una guerra civil.
-3. **Negociación "Gran Pacto" (10%):** Mojtaba acepta un rol ceremonial y el poder real pasa a una junta tecnocrática que negocia con Trump 2.0.
+### 2. El IRGC como beneficiario estructural
+
+El nodo sirve para pensar un escenario donde la crisis acelera la centralidad del IRGC. Si la amenaza externa sube, el aparato militar-securitario gana peso relativo sobre clerigos, tecnocratas y sectores mas negociadores.
+
+### 3. Negociacion bajo coercion
+
+Leido con [[Steve Witkoff]], la nota ayuda a ver que cualquier canal diplomatico con Iran no se mueve en vacio. Negocia bajo presion militar, sanciones, riesgo de sabotaje y lucha interna por control del proceso.
+
+### 4. Implicancias regionales
+
+Su valor tambien es regional: una sucesion dura puede acoplarse con la escalada israeli y con doctrinas de disuasion extrema, elevando el riesgo de conversion de crisis politica interna en crisis sistemica de energia y seguridad.
+
+## Conexiones
+
+- [[Ali Khamenei]]
+- [[IRGC]]
+- [[Steve Witkoff]]
+- [[Samson Option]]
+- [[Estrecho de Ormuz]]

@@ -39,7 +39,7 @@ publish: true
 ## Conexiones Críticas
 
 - [[Cambridge Analytica]]: Sus socios comerciales.
-- [[Unit 8200]]: El semillero de donde salen estos talentos (Hanan es ex-fuerzas especiales).
+- [[Unidad 8200]]: El semillero de donde salen estos talentos (Hanan es ex-fuerzas especiales).
 - [[Black Cube]]: Otra agencia privada israelí, aunque Jorge es más ofensivo/electoral.
 - [[Manipulación de Tendencias]]: Su producto principal.
 

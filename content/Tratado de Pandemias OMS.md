@@ -5,13 +5,13 @@ aliases:
   - Tratado de Pandemias de la OMS
   - Tratado De Pandemias (OMS)
 created: 2026-02-25T15:44:39.927-03:00
-modified: 2026-04-17T17:01:33.062-03:00
+modified: 2026-04-21T11:35:27.603-03:00
 tags:
-  - tratado-de-pandemias
-  - oms
-  - bioseguridad
-  - soberania
-  - tl-intel-v3
+  - "#tratado-de-pandemias"
+  - "#oms"
+  - "#bioseguridad"
+  - "#soberania"
+  - "#tl-intel-v3"
 ---
 
 # Tratado de Pandemias OMS
@@ -55,4 +55,7 @@ Leído junto con [[World Health Organization]], [[GAVI]] y [[Pasaportes de Vacun
 - [[Pasaportes de Vacuna]]
 - [[Digital ID - Global Protocol]]
 - [[Biopolitica]]
+- [[Bioseguridad]]
+- [[Salud Global]]
+- [[Tedros Adhanom Ghebreyesus]]
 - [[Tecnocracia]]

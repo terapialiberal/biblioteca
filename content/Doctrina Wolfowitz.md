@@ -1,46 +1,50 @@
 ---
-titulo: Doctrina Wolfowitz
-tipo: "entidad"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [doctrina, paul, proyecto, wolfowitz]
 publish: true
+created: 2026-01-29T19:17:10.423-03:00
+modified: 2026-04-21T13:03:47.816-03:00
+tags:
+  - "#doctrina-wolfowitz"
+  - "#hegemonia"
+  - "#guerra-preventiva"
+  - "#unipolaridad"
+  - "#tl-intel-v3"
 ---
 
 # Doctrina Wolfowitz
 
-## Resumen Ejecutivo
+## BLUF
 
-**¿Qué es?** Un documento filtrado del Pentágono en 1992 (Defense Planning Guidance), escrito por Paul Wolfowitz (subsecretario de defensa) tras la caída de la URSS.
-Establece la misión de EEUU en el mundo unipolar.
+[[Doctrina Wolfowitz]] importa en TL como una de las formulaciones más explícitas de la lógica unipolar estadounidense de posguerra fría: impedir el surgimiento de rivales estratégicos y preservar supremacía global mediante disuasión, presión o guerra preventiva.
 
-**La Misión:**
-_"Nuestro primer objetivo es prevenir la reaparición de un nuevo rival, ya sea en el territorio de la antigua Unión Soviética o en otro lugar, que represente una amenaza del orden de la que planteaba anteriormente la Unión Soviética."_
-Establece el derecho a la **Guerra Preventiva** (atacar antes de set amenazado) y al **Unilateralismo** (ignorar a la ONU y aliados si es necesario).
+## Por que importa en TL
 
-**¿Por qué importa?**
-Es el plano del **Proyecto para el Nuevo Siglo Estadounidense (PNAC)**.
-Se ejecutó tras el 11-S con las invasiones de Irak y Afganistán.
-Su objetivo real es impedir que Europa, Japón o China se vuelvan independientes militarmente. EEUU debe proveer la seguridad de todos para mantenerlos como vasallos dependientes.
+- conecta hegemonía unipolar, guerra preventiva y diseño estratégico del Pentágono;
+- ayuda a leer la transición desde contención bipolar a supremacía activa;
+- funciona como marco doctrinal del corredor `neoconservadurismo / PNAC / Irak / 9-11`.
 
-## Análisis (Tiers)
+## Que cambio
 
-### Tier A (Hegemonía Totalitaria)
+La nota seguía en formato viejo, muy comprimida y con errores heredados. Se recompila como concepto reusable para integrarla mejor con `Paul Wolfowitz`, `Proyecto para el Nuevo Siglo Estadounidense` y `Neoconservadurismo`.
 
-- **Benevolencia Armada:** Assume que EEUU es tan bueno que el mundo _quiere_ set dominado. Ignore que el resto del mundo lo ve como una amenaza existencial. Esta arrogancia ha acelerado el surgimiento de rivales (BRICS) en lugar de evitarlo.
+## Lectura TL
 
-### Tier B (Operativa)
+### 1. Unipolaridad como programa
 
-- **Desdolarización:** La agresividad de esta doctrina (usar el dólar y el ejército como armas constantes) ha convencido al mundo de que deben salir del sistema dólar para sobrevivir. La doctrina causó lo que quería prevenir.
+La doctrina importa porque plantea que la primacía no debe administrarse pasivamente: debe protegerse evitando que aparezcan competidores equivalentes.
 
-## Conexiones
+### 2. Preventiva antes que reactiva
+
+En TL, su valor crece cuando se observa cómo la seguridad deja de basarse solo en responder amenazas existentes y pasa a intervenir sobre amenazas potenciales.
+
+### 3. Hegemonía institucionalizada
+
+También sirve para leer la lógica por la cual alianzas, gasto militar, cambios de régimen y expansión de seguridad se vuelven piezas de una misma arquitectura.
+
+## Con que conecta
 
 - [[Paul Wolfowitz]]
 - [[Proyecto para el Nuevo Siglo Estadounidense]]
-- [[00_Glosario - Conceptos Fase 1#Neoconservadores|Neoconservadores]]
-
-## Fuentes
-
-- "Defense Planning Guidance FY 1994-1999" (Texto filtrado al NYT).
+- [[Neoconservadurismo]]
+- [[Dick Cheney]]
+- [[9-11]]
+- [[00_MOC - Redes de Poder]]

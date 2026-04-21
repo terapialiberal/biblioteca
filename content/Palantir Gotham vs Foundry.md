@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:29.629-03:00
-modified: 2026-04-17T14:27:33.316-03:00
+modified: 2026-04-17T14:27:27.862-03:00
 tags:
   - palantir
   - gotham

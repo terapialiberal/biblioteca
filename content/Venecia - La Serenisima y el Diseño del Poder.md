@@ -41,4 +41,4 @@ publish: true
 
 - [[Noblezas Negras (Linajes Venecianos)]]
 - [[Génova - Los Banqueros Invisibles]]
-- [[City of London]]
+- [[City de Londres]]

@@ -1,45 +1,53 @@
 ---
-titulo: Collar De Perlas (Estrategia China)
-tipo: "concepto"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [belt, china, collar, trampa]
 publish: true
+aliases:
+  - Collar de Perlas (Estrategia China)
+created: 2026-01-29T19:17:08.265-03:00
+modified: 2026-04-21T12:53:21.007-03:00
+tags:
+  - "#collar-de-perlas"
+  - "#china"
+  - "#puertos"
+  - "#oceano-indico"
+  - "#geoestrategia"
+  - "#tl-intel-v3"
 ---
 
-# Collar De Perlas (Estrategia China)
+# Collar de Perlas
 
-## Resumen Ejecutivo
+## BLUF
 
-**¿Qué es?** Una red de puertos comerciales y bases navales chinas a lo largo del Océano Índico.
-Cada "perla" es un puerto financiado y construido por China.
-**Ubicaciones:**
+[[Collar de Perlas]] importa en TL como nombre condensado para la red de puertos, puntos logísticos e infraestructura marítima asociada a la proyección china en el Índico y sus rutas energéticas hacia Asia.
 
-- Gwadar (Pakistán)
-- Hambantota (Sri Lanka)
-- Chittagong (Bangladesh)
-- Kyaukpyu (Myanmar)
-- Djibouti (África)
+## Por que importa en TL
 
-**¿Por qué importa?**
-Oficialmente son puertos civiles.
-Realmente rodean a la **India** (rival regional) y protegen las líneas de suministro de energía de China desde Medio Oriented.
-**Trampa de la Deuda:** En Hambantota (Sri Lanka), China prestó dinero para construir el puerto. Sri Lanka no pudo pagar. China se quedó con el puerto por 99 años (cesión de soberanía). Es colonialismo moderno.
+- conecta puertos, deuda, rutas energéticas y presencia dual civil-militar;
+- ayuda a leer la expansión china no solo como comercio, sino como arquitectura de acceso y resiliencia estratégica;
+- funciona como satélite marítimo de [[Belt and Road Initiative]].
 
-## Análisis (Tiers)
+## Que cambio
 
-### Tier A (Bases Duales)
+La nota estaba en formato viejo y todavía demasiado cargada de slogan. Se recompila como concepto geopolítico reusable para enlazar mejor con `Belt and Road Initiative`, `Estrecho de Malaca` e `India`.
 
-- **Uso Militar:** La ley china obliga a todas sus empresas civiles a apoyar al ejército (PLA) si se les pide. Mañana, esos puertos comerciales llenos de contenedores pueden reabastecer a submarinos nucleares chinos. Es una infraestructura militar disfrazada de comercio.
+## Lectura TL
 
-## Conexiones
+### 1. Infraestructura dual
 
-- [[Belt and Road Initiative (BRI)]]
-- [[Trampa de Tucídides (Poder Ascendente vs Dominante)]]
+El nodo importa porque muchos puertos o nodos logísticos pueden presentarse como comerciales y, al mismo tiempo, ampliar margen de maniobra para abastecimiento, presencia naval o influencia diplomática.
+
+### 2. Respuesta a vulnerabilidad energética
+
+En TL, su relevancia crece cuando se lo lee como intento de asegurar rutas de suministro ante la vulnerabilidad china en chokepoints marítimos.
+
+### 3. Competencia por el Índico
+
+También sirve para leer la fricción entre China, India y bloque angloamericano sobre quién ordena el espacio marítimo crítico entre Golfo, África oriental y Asia.
+
+## Con que conecta
+
+- [[Belt and Road Initiative]]
+- [[Estrecho de Malaca]]
 - [[India]]
-
-## Fuentes
-
-- Informe del Departamento de Defensa de EEUU sobre el poder militar chino.
+- [[Puerto de Chancay]]
+- [[Bab el-Mandeb]]
+- [[00_MOC - Rimland]]

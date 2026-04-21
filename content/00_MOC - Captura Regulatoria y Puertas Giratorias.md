@@ -1,12 +1,12 @@
 ---
 publish: true
 created: 2026-03-01T09:01:56.230-03:00
-modified: 2026-04-07T10:47:12.189-03:00
+modified: 2026-04-21T13:30:23.891-03:00
 tags:
-  - moc
-  - captura-regulatoria
-  - puerta-giratoria
-  - tl-intel-v3
+  - "#moc"
+  - "#captura-regulatoria"
+  - "#puerta-giratoria"
+  - "#tl-intel-v3"
 ---
 
 # MOC - Captura Regulatoria y Puertas Giratorias
@@ -21,11 +21,17 @@ tags:
 
 ## Captura Sanitaria
 
-- [[FDA y las Puertas Giratorias (Pfizer)]]
-- [[WHO]]
-- [[Bill & Melinda Gates Foundation]]
+- [[FDA]]
+- [[CDC]]
+- [[EMA]]
+- [[La Puerta Giratoria de la FDA]]
+- [[World Health Organization]]
+- [[Big Pharma]]
+- [[Fundacion Bill y Melinda Gates]]
 - [[Pfizer]]
 - [[Moderna]]
+- [[Salud Global]]
+- [[Bioseguridad]]
 
 ## Captura Monetaria y Financiera
 
@@ -42,13 +48,17 @@ tags:
 - [[Lockheed Martin]]
 - [[Raytheon]]
 - [[In-Q-Tel]]
+- [[Heritage Foundation]]
+- [[Project 2025]]
 
 ## Mecanismos
 
-- [[Puerta Giratoria (Concepto)]]
+- [[Puerta Giratoria]]
 - [[Capitalismo de Amigos]]
 - [[Rent-Seeking]]
+- [[Lobby]]
 - [[Compliance]]
+- [[Grupos de Interés]]
 - [[La Puerta Giratoria de la FDA]]
 
 ## Nodos Relacionados
@@ -56,3 +66,4 @@ tags:
 - [[00_MOC - Control Financiero]]
 - [[00_MOC - Tecnologia de Control]]
 - [[00_MOC - Redes de Poder]]
+- [[00_MOC - Operaciones Encubiertas]]

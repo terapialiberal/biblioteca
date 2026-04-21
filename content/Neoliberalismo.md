@@ -1,43 +1,41 @@
 ---
-titulo: "Neoliberalismo: La Ideología De La Oligarquía Financiera"
-tipo: "concepto"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [banco, financiera, fondo, oligarqua]
 publish: true
+created: 2026-01-29T19:17:26.601-03:00
+modified: 2026-04-18T18:28:12.742-03:00
+tags:
+  - neoliberalismo
+  - privatizacion
+  - austeridad
+  - finanzas
+  - tl-intel-v3
 ---
 
-# Neoliberalismo: La Ideología De La Oligarquía Financiera
+# Neoliberalismo
 
-> [!ABSTRACT] Hipótesis Informativa
-> El neoliberalismo es la ideología Tier A que justifica la concentración de riqueza y poder en manos de la oligarquía financiera mediante privatizaciones, desregulación y austeridad, bajo el pretexto de "libre mercado".
+## BLUF
 
-## Análisis De Tiers
+[[Neoliberalismo]] importa en TL como doctrina de reorganización social basada en privatización, desregulación, disciplina fiscal y subordinación creciente de la política a criterios financieros y tecnocráticos.
 
-### Tier A: Bancos Centrales Y Think Tanks Neoliberales
+## Por qué importa en TL
 
-- **Diseño de Políticas:** Creación de marcos de austeridad y privatización.
+- conecta crisis, deuda, privatización y captura de bienes públicos;
+- sirve para leer cómo el lenguaje de libertad económica puede operar como programa de concentración;
+- ayuda a mapear la alianza entre think tanks, organismos multilaterales y elites locales.
 
-### Tier B: Gobiernos Y Corporaciones
+## Qué cambió
 
-- **Implementación:** Privatización de servicios públicos y desregulación financiera.
+La nota venía muy reducida, con mojibake y formulación demasiado plana. Se recompila como concepto más robusto y reusable.
 
-### Tier C: Población General
+## Lectura TL
 
-- **Empobrecimiento Sistemático:** Reducción de derechos laborales y servicios sociales.
+El neoliberalismo importa menos como insulto genérico y más como tecnología política concreta: apertura, flexibilización, endeudamiento, monetización de servicios públicos y disciplinamiento social vía mercado.
 
-## Mecanismos De Poder
+En TL, el nodo gana valor cuando se lo usa para ver cómo ciertas reformas aparecen como inevitables, técnicas o modernas, aunque reordenen propiedad y poder en favor de actores muy concentrados.
 
-1. **Privatización Forzada:** Conversión de bienes públicos en activos corporativos.
-2. **Austeridad Selectiva:** Recorte de servicios sociales mientras se salvan bancos.
+## Con qué conecta
 
-## Conexiones Críticas
-
-- [[Banco Mundial (World Bank)]]: Impulsor de políticas neoliberales.
-- [[Fondo Monetario Internacional (FMI)]]: Condicionamiento de préstamos.
-
-## Conclusión Del Análisis
-
-El neoliberalismo es la ideología que justifica el saqueo de la riqueza pública por parte de la oligarquía financiera.
+- [[Banco Mundial]]
+- [[FMI]]
+- [[Milton Friedman]]
+- [[Escuela de Chicago (Chicago Boys)]]
+- [[Austeridad]]

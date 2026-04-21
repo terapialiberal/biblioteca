@@ -4,7 +4,7 @@ aliases:
   - Internet de los Cuerpos (IoB)
   - IoB
 created: 2026-01-29T19:17:18.643-03:00
-modified: 2026-04-17T16:35:31.080-03:00
+modified: 2026-04-17T16:35:24.223-03:00
 tags:
   - iob
   - wearables

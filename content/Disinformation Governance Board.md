@@ -1,73 +1,51 @@
 ---
 publish: true
 created: 2026-02-25T16:12:13.476-03:00
-modified: 2026-04-07T14:43:47.097-03:00
+modified: 2026-04-19T12:25:36.782-03:00
 tags:
-  - board
-  - disinformation
-  - governance
-  - ministerio
+  - dgb
+  - desinformacion
+  - dhs
+  - censura
+  - gobernanza
+  - tl-intel-v3
 ---
 
 # Disinformation Governance Board
 
-#### BLUF
+## BLUF
 
-El Disinformation Governance Board (DGB) no murió en 2022; simplemente se **Fragmentó y se volvió Invisible**. Bajo nuevas etiquetas como el "GEC" (Global Engagement Center) o colaboraciones "público-privadas" (Tier B/A) de seguridad narrativa, sus funciones de censura han sido integradas en el software de las plataformas digitales. En 2026, su función es coordinar la **Muerte Civil Digital** de cualquier voz de Tier C que cuestione las narrativas centrales sobre soberanía, moneda o salud, bajo el pretexto de la "Seguridad Cognitiva Nacional".
+[[Disinformation Governance Board]] importa en TL como intento explícito de institucionalizar la gobernanza estatal de la verdad dentro del aparato de seguridad nacional estadounidense. Su valor principal no está en su duración formal, sino en haber vuelto visible una función que luego pudo continuar distribuida por vías menos expuestas.
 
-#### MAPA DE ACTORES
+## Por que importa en TL
 
-| Actor | Tier | Rol Real | Incentivo Oculto |
-|-------|------|----------|-----------------|
-| [[DHS (Department of Homeland Security)]]| B | El Nodo Central de Control | Centralizar la vigilancia de la opinión pública bajo el marco de la lucha antiterrorista. |
-| [[Global Engagement Center (Estado)]]| B | El Operador de Narrativa Extranjera | Utilizar la excusa de la "interferencia extranjera" para censurar a ciudadanos domésticos críticos. |
-| [[NewsGuard / Poynter]] | B | Los Contratistas Civiles | Ejecutar el trabajo sucio de censura para dar una pátina de independencia y evitar demandas constitucionales. |
-| [[Nina Jankowicz]] | B | El Rostro del Primer Intento | Servir como distracción mientras la verdadera estructura se volvía opaca y burocrática. |
+- conecta DHS, desinformación, censura y legitimación burocrática del control narrativo;
+- ayuda a leer cómo una iniciativa demasiado visible puede fallar políticamente y sin embargo dejar instalada la lógica que la originó;
+- funciona como nodo público del mismo corredor donde luego operan formas más opacas de coordinación.
 
-#### SEÑALES VS RUIDO
+## Que cambio
 
-| Tipo | Acción / Declaración | Interpretación |
-|------|----------------------|----------------|
-| Señal | Integración de algoritmos de "clasificación de riesgo narrativo" en la infraestructura de AWS y Azure (2025/26). | La censura es ahora una función técnica de la nube, no una decisión manual. |
-| Señal | Aparición de "Leyes de Resiliencia Digital" que obligan a las plataformas a eliminar "contenido dañino no prohibido" (Legal but Harmful). | El fin de la libertad de expresión bajo el paradigma de la seguridad psicológica. |
-| Ruido | "El DGB fue disuelto para proteger la libertad de expresión y la transparencia gubernamental". | El DGB fue sumergido para evitar el escrutinio público mientras su infraestructura de control se expandía masivamente mediante la captura algorítmica. |
+La nota venía como dossier futurista y demasiado especulativo. Se recompila como entidad reusable para fijar mejor su valor histórico y analítico sin depender de extrapolaciones excesivas.
 
-#### CUI BONO REAL
+## Lectura TL
 
-**¿Quién captura qué?**
-**El Aparato de Seguridad Nacional** captura el **Control de la Historia Oficial**. Pueden editar la percepción de los eventos en tiempo real. El **Tier A** captura un **Mercado de Publicidad "Seguro"**, libre de disonancias cognitivas que afecten al consumo. El ciudadano de Tier C captura una **Ignorancia Inducida**, donde solo conoce las versiones de la realidad previamente aprobadas por el algoritmo del DHS.
+### 1. Mostrar demasiado el mecanismo
 
-#### ANÁLISIS DE JUEGO
+El DGB importa porque condensó en una sola pieza lo que normalmente aparece fragmentado: burocracia de seguridad, discurso anti-desinformación y pretensión de arbitrar realidad pública.
 
-**Tipo:** signaling / signaling
-**Equilibrio actual:** La Censura de Guante Blanco. No se borran mensajes; se "derankan" (bajan de posición) o se marcan como "poco confiables" mediante el DGB invisible. El equilibrio se mantiene mientras el ciudadano no sepa que está siendo censurado. En 2026, la filtración de nuevos "Twitter Files" (TL V.3) revela que el DGB opera en todos los niveles del hardware y software de comunicación.
-**Condición de ruptura:** Un tribunal de Tier B nacionalista que declare la inconstitucionalidad de la coordinación público-privada para la censura, forzando al DGB a operar fuera de la ley de forma flagrante.
-**Horizonte:** Permanente (Gobernanza informativa).
+### 2. Retroceso táctico, continuidad funcional
 
-#### ESCENARIOS FUTUROS
+En TL, el nodo vale por su enseñanza principal: una estructura puede “cerrarse” formalmente y aun así sobrevivir como función redistribuida entre think tanks, plataformas, verificadores y agencias.
 
-| Escenario | Prob. | Descripción | Indicador Temprano |
-|-----------|-------|-------------|-------------------|
-| Base | 80% | El DGB se fusiona formalmente con la red de "Ciberseguridad Humana" de la ONU y la UE. | Tratado Global de Higiene Informativa Q4 2026. |
-| Alternativo | 15% | Fracaso operativo debido a la fragmentacion de la internet muerta en redes privadas encriptadas. | Exito masivo de protocolos de comunicacion sin metadatos. |
-| Cisne Negro | 5% | El DGB es utilizado para censurar a un bando del propio Tier B durante un conflicto interno, revelando su naturaleza partidista. | Escándalo de censura contra un candidato presidencial principal. |
+### 3. Estado y proxy
 
-**Indicador maestro:** Nivel de uniformidad de las etiquetas de "fact-check" en temas de alta relevancia geopolítica.
+Su caso ayuda a leer por qué el sistema aprende rápido a privatizar o externalizar las capas más sensibles del control discursivo. El problema no desaparece; cambia de interfaz.
 
-#### FALSABILIDAD
+## Con que conecta
 
-La tesis se invalida si el gobierno prohíbe por ley cualquier comunicación con redes sociales para la moderación de contenido y si se desclasifican todas las bases de datos de "palabras clave" y "actores peligrosos" del DHS.
-
-#### DEVIL'S ADVOCATE
-
-Vivimos en una era de guerra de información asimétrica. Si el Estado no protege el ecosistema informativo de las mentiras financiadas por potencias enemigas, la democracia colapsará desde dentro. Es una función de autodefensa básica en la era digital.
-
-#### BALAS DE PLATA
-
-- **Cognitive Security**: El nuevo nombre de la censura estatal.
-- **Narrative Infrastructure**: El control de los cables y servidores que transportan la voz humana.
-- **Trusted Flaggers**: El ejército de censores privados pagados por el Tier B.
-
-#### LAGUNAS
-
-¿Cuál es el "presupuesto negro" anual destinado a las startups de IA que desarrollan las herramientas de desanonimización de la disidencia para el DGB renovado en 2026?
+- [[Nina Jankowicz]]
+- [[DHS (Departamento de Seguridad Nacional)]]
+- [[Complejo Industrial de la Censura]]
+- [[NewsGuard]]
+- [[Virality Project]]
+- [[CISA]]

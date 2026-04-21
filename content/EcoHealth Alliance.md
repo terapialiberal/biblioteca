@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-01-29T19:17:10.808-03:00
-modified: 2026-04-17T20:12:45.665-03:00
+modified: 2026-04-21T11:39:06.929-03:00
 tags:
-  - ecohealth-alliance
-  - bioseguridad
-  - ganancia-de-funcion
-  - wuhan
-  - tl-intel-v3
+  - "#ecohealth-alliance"
+  - "#bioseguridad"
+  - "#ganancia-de-funcion"
+  - "#wuhan"
+  - "#tl-intel-v3"
 ---
 
 # EcoHealth Alliance
@@ -49,7 +49,9 @@ Leída junto con [[Anthony Fauci]], [[Instituto de Virología de Wuhan]], [[Gana
 - [[Anthony Fauci]]
 - [[Peter Daszak]]
 - [[Ganancia de Función]]
-- [[Instituto de Virología de Wuhan]]
+- [[Ganancia de Funcion]]
+- [[Instituto de Virologia de Wuhan]]
 - [[World Health Organization]]
 - [[One Health]]
+- [[Vigilancia Biologica]]
 - [[Tecnocracia]]

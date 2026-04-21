@@ -1,54 +1,58 @@
 ---
-titulo: Benjamin Netanyahu
-tipo: "persona"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [benjamin, jared, mega, netanyahu]
 publish: true
+aliases:
+  - Bibi Netanyahu
+  - Bibi
+created: 2026-01-29T19:17:05.174-03:00
+modified: 2026-04-18T21:37:32.454-03:00
+tags:
+  - benjamin-netanyahu
+  - israel
+  - gaza
+  - iran
+  - lobby
+  - escalada
+  - tl-intel-v3
 ---
 
 # Benjamin Netanyahu
 
-## Resumen Ejecutivo
+## BLUF
 
-**¿Quién es?** Primer Ministro de Israel en múltiples períodos. El político más longevo en la historia del país. Actualmente bajo juicio por corrupción.
+[[Benjamin Netanyahu]] importa en TL como operador de larga duracion que convierte amenaza existencial, seguridad nacional y conflicto regional en mecanismo de supervivencia politica interna. Su centralidad no pasa solo por el cargo, sino por su capacidad de articular guerra, lobby externo y reordenamiento del tablero israeli.
 
-**¿Por qué importa?** Conexión directa con oligarquías estadounidenses (Mega Group, Adelson). Influencia determinante en política exterior de EEUU hacia Medio Oriented. La guerra de Gaza coincide con sus juicios de corrupción.
+## Por que importa en TL
 
-## Análisis (Tiers)
+- conecta gabinete de guerra, lobby en EEUU, escalada con Iran y gestion del conflicto palestino;
+- ayuda a leer la politica israeli como mezcla de supervivencia judicial, ideologica y geoestrategica;
+- sirve como nodo rector para corredores como `Gaza / Iran / lobby / energia / seguridad`.
 
-### Tier A (Beneficiarios)
+## Que cambio
 
-- **Mega Group:** Ronald Lauder y otros billonarios judío-americanos financiaron su ascenso político.
-- **Sheldon Adelson:** El casino magnate era su mayor patrocinador. Fundó Israel Hayom (periódico gratuito) para apoyarlo.
-- **Industria de defensa israelí:** Expansión constante de ventas de armas y tecnología de vigilancia.
-- **Cuenca de gas Leviatán:** Israel se convirtió en exportador de gas bajo su gobierno.
+La nota estaba en formato de tiers viejo, con mojibake y framing demasiado disperso. Se recompila como perfil modular que ordena mejor el cruce entre politica interna, guerra regional y blindaje externo.
 
-### Tier B (Operativa)
+## Lectura TL
 
-- **Abraham Accords:** Normalización con estados árabes sin resolver cuestión palestina.
-- **Lobby AIPAC:** Influencia directa en Congreso de EEUU.
-- **Discurso al Congreso 2015:** Desafió abiertamente a Obama sobre Irán (37 ovaciones de pie).
-- **Inteligencia:** Israel como hub de tecnología de vigilancia (NSO Group, Pegasus).
+### 1. Supervivencia a traves del conflicto
 
-### Tier C (Narrativa)
+En TL, Netanyahu importa porque permite pensar como una crisis externa puede volverse tambien mecanismo de prolongacion interna: suspende cierres politicos, reordena coaliciones y desplaza el foco desde causas judiciales hacia seguridad.
 
-- "Única democracia en Medio Oriented"
-- "Derecho a defenderse"
-- "Hamas = ISIS = todos los enemigos"
+### 2. Israel como problema exportado
+
+Su valor analitico tambien pasa por la externalizacion del costo: presiona a EEUU, Europa y al Golfo a adaptarse a la agenda de seguridad israeli, aun cuando eso complique energia, diplomacia o estabilidad regional.
+
+### 3. Puente entre lobby y guerra
+
+Leido con [[AIPAC]], [[Sheldon Adelson]] y el ecosistema de apoyo en EEUU, el nodo ayuda a ver que la escalada no depende solo del frente militar. Tambien depende de blindajes politicos, mediaticos y financieros.
+
+### 4. Netanyahu y el eje Iran
+
+Su figura es clave para leer por que Iran vuelve una y otra vez al centro del tablero: no solo como amenaza real, sino como principio de cohesion estrategica para el bloque que lidera.
 
 ## Conexiones
 
-- [[Mega Group]] (financiadores)
-- [[Jared Kushner]] (aliado político)
-- [[Donald Trump]] (movió embajada a Jerusalén)
-- [[Sheldon Adelson]] (patrocinador principal, fallecido)
+- [[Smotrich]]
 - [[AIPAC]]
-
-## Fuentes
-
-- Mega Group investigations (Mintpress)
-- Israel Hayom / Adelson connection
-- Leviatán gas field documentation
+- [[Sheldon Adelson]]
+- [[Samson Option]]
+- [[Abbas Araghchi]]

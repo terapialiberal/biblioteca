@@ -1,37 +1,55 @@
 ---
 publish: true
 created: 2026-01-29T19:17:22.196-03:00
-modified: 2026-04-07T12:08:31.716-03:00
+modified: 2026-04-20T09:25:16.082-03:00
 tags:
   - leidos
   - contratistas
-  - estado-profundo
-  - vigilancia
+  - inteligencia
+  - defensa
+  - datos
+  - privatizacion
   - tl-intel-v3
 ---
 
-# [[Leidos]]
+# Leidos
 
-> [!abstract] PERFIL TL-INTEL
-> Contratista tecnológico y burocrático clave en la privatización de funciones estatales sensibles de seguridad, datos e inteligencia.
+## BLUF
 
-## Contexto
+[[Leidos]] importa en TL como contratista de servicios tecnologicos, inteligencia, salud y defensa que ayuda a privatizar funciones estatales sensibles sin reducir control real del aparato. Su relevancia esta en mostrar como el Estado estrategico puede externalizar infraestructura operativa mientras gana continuidad, opacidad y flexibilidad burocratica.
 
-Leidos aparece en TL como ejemplo de cómo el Estado profundo puede externalizar infraestructura crítica sin perder control material. Al contrario: muchas veces gana opacidad y continuidad.
+## Por que importa en TL
 
-## Capas de lectura
+- deja ver que la expansion del poder no siempre llega via agencia nueva; muchas veces llega via contratista;
+- conecta datos, seguridad, salud, defensa e inteligencia bajo una misma logica de tercerizacion estructural;
+- sirve para leer la continuidad entre la vieja cultura de [[SAIC]] y el contratismo tecnocratico contemporaneo.
 
-- administración de funciones gubernamentales sensibles
-- puerta giratoria entre inteligencia, defensa y contratismo
-- conversión de secreto estatal en secreto comercial
+## Que cambio
 
-## Conexiones
+La nota existia en un formato intermedio, todavia demasiado corta y sin delta claro para la base viva. Se recompila como nodo canonico del corredor contratistas / inteligencia / privatizacion del esqueleto tecnico estatal.
 
-- [[NSA]]
+## Lectura TL
+
+### 1. Estado tercerizado, no reducido
+
+Leidos importa porque muestra una dinamica central en TL: muchas funciones sensibles no desaparecen ni se liberalizan de verdad, sino que migran a proveedores privados profundamente integrados al Estado.
+
+### 2. Opacidad por outsourcing
+
+Cuando inteligencia, analitica, soporte logistico, salud militar o administracion de sistemas se tercerizan, parte del poder se vuelve menos visible. Lo que antes era secreto estatal pasa a combinarse con secreto comercial y contratos tecnicos.
+
+### 3. Continuidad de aparato
+
+Su relevancia aumenta al leerse como heredera de una cultura de seguridad nacional donde empresas y agencias trabajan en continuidad funcional. Eso vuelve mas difusa la frontera entre burocracia publica, contratismo y arquitectura de vigilancia.
+
+### 4. Nodo de capa media
+
+Leidos no necesita protagonismo mediatico para ser importante. Su fuerza esta en ocupar funciones concretas dentro de infraestructuras que sostienen defensa, inteligencia, administracion de datos y servicios criticos.
+
+## Con que conecta
+
 - [[SAIC]]
+- [[NSA]]
+- [[Defense Intelligence Agency]]
 - [[Edward Snowden]]
-- [[Deep State]]
-
-## Observación operativa
-
-Leidos importa porque muestra que el poder actual no siempre necesita ampliar el Estado formal; le basta con privatizar su esqueleto técnico.
+- [[Complejo Militar-Industrial]]

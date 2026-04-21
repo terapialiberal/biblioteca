@@ -1,57 +1,45 @@
 ---
-titulo: Bilderberg
-tipo: "evento"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [bilderberg, comisin, david]
 publish: true
+aliases:
+  - Bilderberg Group
+  - Grupo Bilderberg
+created: 2026-01-29T19:17:05.304-03:00
+modified: 2026-04-18T15:49:09.822-03:00
+tags:
+  - bilderberg
+  - coordinacion-elites
+  - atlantismo
+  - gobernanza-informal
+  - tl-intel-v3
 ---
 
 # Bilderberg
 
-![](https://wikispooks.com/w/images/5/5a/Hotel_De_Bilderberg.jpg)
+## BLUF
 
-## Resumen General
+[[Bilderberg]] es un foro cerrado de coordinación entre élites políticas, financieras, tecnológicas y de seguridad del bloque atlántico. En TL importa como dispositivo informal de alineamiento: no decide todo, pero sirve para bajar fricción entre actores Tier A y Tier B cuando hace falta sincronizar agenda.
 
-El Grupo Bilderberg es quizás la reunión más infame de la élite global. Lo que comenzó en 1954 como un foro para fomentar el diálogo entre Europa y Norteamérica, es descrito por Wikispooks como una herramienta clave del "Supranational Deep State" para coordinar políticas globales en secreto, lejos del escrutinio democrático.
+## Por qué importa en TL
 
-## Puntos Clave Para Video
+- muestra cómo opera la coordinación de élites por fuera de la arena pública;
+- ayuda a leer la transición entre poder financiero, aparato estatal y medios como red, no como compartimentos estancos;
+- funciona como puente entre [[CFR]], [[Comision Trilateral]] y otros espacios de gobernanza informal.
 
-### 1. Más Que Un Club Social
+## Qué cambió
 
-- **Coordinación Política:** Aunque la narrativa official dice que es solo un foro de discusión privado, asistentes como Willy Claes han admitido que los participantes reciben informes que se espera que implementen en sus respectivos países.
-- **Poder Real:** Etienne Davignon, ex presidente del grupo, se jactó de que Bilderberg ayudó a crear el Euro en los años 90.
+Existían dos notas que competían por el mismo objeto: `Bilderberg` y `Bilderberg Group`. Se deja `Bilderberg` como nodo principal porque concentra la mayor parte de los enlaces y el nombre de uso real; `Bilderberg Group` queda como alias para drenar duplicación.
 
-### 2. La Crisis Del Petróleo De 1973
+## Lectura TL
 
-- **Planificación del Caos:** Wikispooks cita actas filtradas de la reunión de 1973 en Suecia, donde se discutió un aumento del 400% en el precio del petróleo meses antes de que ocurriera. El objetivo era gestionar el flujo de "petrodólares" hacia los bancos occidentales, a costa de la economía global.
+La importancia de Bilderberg no depende de una fantasía de "gobierno mundial omnipotente", sino de su función concreta como sala de alineamiento. Cuando confluyen banqueros, CEOs, estrategas de seguridad y políticos en ascenso bajo regla de confidencialidad, el valor analítico está en la coordinación de marcos, lenguaje y prioridades.
 
-### 3. Estrategia De La Tensión
+También sirve como indicador de promoción interna: ciertas figuras aparecen allí antes de ganar peso ejecutivo, mediático o institucional. No prueba causalidad automática, pero sí vuelve visible una capa de preselección y socialización de élites.
 
-- **Terrorismo de Estado:** El juez italiano Ferdinando Imposimato acusó al grupo de estar detrás de ataques terroristas de falsa bandera en Europa (Operación Gladio) como parte de una "estrategia de tensión" para impedir el ascenso de la izquierda.
-
-### 4. El Trampolín Del Poder
-
-- **Hacedores de Reyes:** Asistir a Bilderberg a menudo precede a grandes ascensos políticos. Bill Clinton, Tony Blair, Angela Merkel y Emmanuel Macron asistieron antes de liderar sus países.
-
-## Ángulos Posibles Para El Video
-
-1. **El Gobierno Mundial en la Sombra:** ¿Es Bilderberg donde realmente se toman las decisiones que afectan nuestras vidas?
-2. **La Estafa del Petróleo:** Cómo la crisis del 73 no fue un accidente, sino un plan bancario diseñado en una sala de conferencias de lujo.
-3. **La Fábrica de Presidentes:** Si quieres set Primer Ministro, primero tienes que pasar por Bilderberg.
-
-## Ver También
+## Con qué conecta
 
 - [[CFR]]
-- [[Comisión Trilateral]]
+- [[Comision Trilateral]]
+- [[Le Cercle]]
 - [[David Rockefeller]]
 - [[Henry Kissinger]]
-- [[Le Cercle]]
-- [[01 Matriz de Conexiones]]
-- [[El establishment]]
-
-## Referencias
-
-- <https://wikispooks.com/wiki/Bilderberg>
+- [[Sistema Petrodolar]]

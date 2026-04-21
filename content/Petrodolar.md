@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:30.476-03:00
-modified: 2026-04-17T14:23:11.968-03:00
+modified: 2026-04-17T14:23:06.546-03:00
 tags:
   - petrodolar
   - dolar

@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-02-24T13:31:46.461-03:00
-modified: 2026-04-17T13:57:31.241-03:00
+modified: 2026-04-21T12:36:48.161-03:00
 tags:
-  - moc
-  - operaciones-encubiertas
-  - inteligencia
-  - false-flag
-  - tl-intel-v3
+  - "#moc"
+  - "#operaciones-encubiertas"
+  - "#inteligencia"
+  - "#false-flag"
+  - "#tl-intel-v3"
 ---
 
 # MOC - Operaciones Encubiertas
@@ -42,7 +42,7 @@ tags:
 - [[Edward Bernays]]
 - [[Ley Smith-Mundt Modernizada]]
 - [[JTRIG]]
-- [[Brigada 77 (Modernizada)]]
+- [[Brigada 77]]
 - [[Astroturfing]]
 - [[Framing (Encuadre)]]
 - [[Limited Hangout (Revelación Limitada)]]
@@ -59,9 +59,10 @@ tags:
 - [[Operacion Chaos]]
 - [[MKUltra]]
 - [[Club Safari]]
-- [[Air America (La aerolínea de la CIA)]]
+- [[Air America]]
 - [[Plausible Deniability]]
 - [[PROMIS Software]]
+- [[Unidad 8200]]
 
 ## Red Epstein y Kompromat
 
@@ -99,13 +100,21 @@ tags:
 
 - [[06_Videos_Publicados/2026/2026-04-07_NWO_Energetico_Blueprint/00_CONTROL_TEMA.md|00_CONTROL_TEMA]]
 
+- [[00_MOC - Inteligencia Clasica y Operaciones Historicas.md|00_MOC - Inteligencia Clasica y Operaciones Historicas]]
+
 - [[00_MOC - Operaciones Encubiertas.md|00_MOC - Operaciones Encubiertas]]
 
 - [[AFI.md|AFI]]
 
 - [[Agencia de inteligencia.md|Agencia de inteligencia]]
 
+- [[Allen Dulles.md|Allen Dulles]]
+
 - [[AMIA.md|AMIA]]
+
+- [[Bloque Anglo-Americano.md|Bloque Anglo-Americano]]
+
+- [[Booz Allen Hamilton.md|Booz Allen Hamilton]]
 
 - [[Carbine.md|Carbine]]
 
@@ -117,17 +126,27 @@ tags:
 
 - [[Club Safari.md|Club Safari]]
 
+- [[Club Safari (La CIA privatizada)_LEGACY.md|Club Safari (La CIA privatizada)_LEGACY]]
+
+- [[Comite Church.md|Comite Church]]
+
+- [[Comite Church (Evento).md|Comite Church (Evento)]]
+
 - [[Complejo Industrial de la Censura.md|Complejo Industrial de la Censura]]
 
 - [[05_Fuentes/Deep History and the Global Drug Connection Part 5 CIA In Latin America.md|Deep History and the Global Drug Connection Part 5 CIA In Latin America]]
 
+- [[Deep State.md|Deep State]]
+
 - [[Documento El pulpo.md|Documento El pulpo]]
+
+- [[E. Howard Hunt.md|E. Howard Hunt]]
 
 - [[05_Fuentes/Exclusiva ¿Quién es el Profesor Jiang ¿Para quién trabaja.md|Exclusiva ¿Quién es el Profesor Jiang ¿Para quién trabaja]]
 
 - [[Feminismo e Inteligencia.md|Feminismo e Inteligencia]]
 
-- [[Fuentes y Marcadores.md|Fuentes y Marcadores]]
+- [[Fraternidad de San Juan.md|Fraternidad de San Juan]]
 
 - [[Ghislaine Maxwell.md|Ghislaine Maxwell]]
 
@@ -155,6 +174,8 @@ tags:
 
 - [[Jonathan Pollard.md|Jonathan Pollard]]
 
+- [[Katharine Graham.md|Katharine Graham]]
+
 - [[05_Fuentes/La arquitectura ritual El modus operandi de Epstein.md|La arquitectura ritual El modus operandi de Epstein]]
 
 - [[05_Fuentes/La estrecha y profunda colaboración entre la industria tecnológica de EE.UU. y las agencias de inteligencia.md|La estrecha y profunda colaboración entre la industria tecnológica de EE.UU. y las agencias de inteligencia]]
@@ -163,11 +184,19 @@ tags:
 
 - [[Lawfare.md|Lawfare]]
 
-- [[Le Cercle - Wikispooks.md|Le Cercle - Wikispooks]]
+- [[Le Cercle.md|Le Cercle]]
+
+- [[Le Cercle (Inteligencia Europea Derecha).md|Le Cercle (Inteligencia Europea Derecha)]]
+
+- [[Leidos.md|Leidos]]
+
+- [[Limited Hangout.md|Limited Hangout]]
 
 - [[Lucero del Alba y Espionaje.md|Lucero del Alba y Espionaje]]
 
 - [[Mario Firmenich.md|Mario Firmenich]]
+
+- [[MI6.md|MI6]]
 
 - [[Michael Flynn.md|Michael Flynn]]
 
@@ -179,6 +208,16 @@ tags:
 
 - [[06_Videos_Publicados/2026/2026-03-17 IRAN_STREAM/NotaTesis_Chabad_RedCoordenacion_v1.md|NotaTesis_Chabad_RedCoordenacion_v1]]
 
+- [[NRO.md|NRO]]
+
+- [[Operacion Able Danger.md|Operacion Able Danger]]
+
+- [[Operacion Chaos.md|Operacion Chaos]]
+
+- [[Operacion Paperclip.md|Operacion Paperclip]]
+
+- [[OSS.md|OSS]]
+
 - [[Palantir.md|Palantir]]
 
 - [[Palantir CIA.md|Palantir CIA]]
@@ -189,11 +228,21 @@ tags:
 
 - [[Plausible Deniability.md|Plausible Deniability]]
 
+- [[PROMIS Software.md|PROMIS Software]]
+
+- [[Recorded Future.md|Recorded Future]]
+
 - [[05_Fuentes/Red Epstein-Maxwell (Trampa de Inteligencia).md|Red Epstein-Maxwell (Trampa de Inteligencia)]]
 
 - [[Robert Maxwell.md|Robert Maxwell]]
 
+- [[SAIC.md|SAIC]]
+
 - [[Santiago Caputo.md|Santiago Caputo]]
+
+- [[Skull and Bones.md|Skull and Bones]]
+
+- [[The Finders (Los Buscadores).md|The Finders (Los Buscadores)]]
 
 - [[Tier B.md|Tier B]]
 
@@ -202,3 +251,7 @@ tags:
 - [[Triple Frontera.md|Triple Frontera]]
 
 - [[Triple Frontera (Inteligencia).md|Triple Frontera (Inteligencia)]]
+
+- [[William Casey.md|William Casey]]
+
+- [[William Donovan.md|William Donovan]]

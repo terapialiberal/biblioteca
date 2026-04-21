@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:18.542-03:00
-modified: 2026-04-18T10:53:16.993-03:00
+modified: 2026-04-18T10:53:24.284-03:00
 tags:
   - tavistock
   - psicologia-social

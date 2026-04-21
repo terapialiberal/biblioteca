@@ -1,52 +1,54 @@
 ---
-titulo: OSS (Oficina De Servicios Estratégicos)
-tipo: "concepto"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [allen, estratgicos, oficina, servicios]
 publish: true
+created: 2026-01-29T19:17:29.383-03:00
+modified: 2026-04-19T13:22:57.665-03:00
+tags:
+  - oss
+  - inteligencia
+  - cia
+  - segunda-guerra-mundial
+  - operaciones-encubiertas
+  - tl-intel-v3
 ---
 
-# OSS (Oficina De Servicios Estratégicos)
+# OSS
 
-> **Perfil TL:** El antecesor de la CIA. Donde Wall Street y las élites crearon el servicio de espionaje estadounidense.
+## BLUF
 
-## Resumen Ejecutivo
+[[OSS]] importa en TL como origen institucional del aparato moderno de inteligencia estadounidense. Fue la estructura creada durante la Segunda Guerra Mundial que sirvio de puente entre guerra, elite profesional, coordinacion con Reino Unido y posterior consolidacion de la [[CIA]].
 
-**¿Qué es?** Office of Strategic Services. Agencia de inteligencia de EEUU durante la Segunda Guerra Mundial (1942-1945). Precursor directo de la [[CIA]].
+## Por que importa en TL
 
-**¿Por qué importa?** La OSS fue fundada y poblada por abogados de Wall Street, banqueros y aristócratas. Estableció el patrón de que la inteligencia estadounidense sirve a los intereses financieros, no al "pueblo".
+- permite leer que la inteligencia estadounidense no nace desde cero en 1947, sino desde una capa previa de guerra irregular y enlace transatlantico;
+- conecta reclutamiento elitista, operaciones especiales y continuidad burocratica entre guerra y posguerra;
+- ayuda a entender a [[William Donovan]] y [[Allen Dulles]] como figuras de una misma genealogia, aunque con roles distintos.
 
-## Análisis De Poder (Tiers)
+## Que cambio
 
-### Tier A (Beneficiarios)
+La nota estaba en formato viejo, con exceso de tono y poca separacion entre hechos, lectura TL e inferencias. Se recompila como nodo base reutilizable del corredor historico de inteligencia.
 
-Wall Street, la City de Londres (con quien coordinaron), y las corporaciones estadounidenses.
+## Lectura TL
 
-### Tier B (Operadores)
+### 1. Prehistoria operativa de la CIA
 
-- **William Donovan:** Director. Abogado de Wall Street.
-- Staff inicial: socios de Sullivan & Cromwell, banqueros de Morgan, herederos de fortuna.
+La OSS fue la oficina de servicios estrategicos de Estados Unidos entre 1942 y 1945. Su relevancia en TL no pasa solo por haber sido antecedente formal de la CIA, sino por haber normalizado la fusion entre inteligencia, operaciones especiales, propaganda y coordinacion internacional.
 
-## Diseño Británico
+### 2. Reclutamiento de elite
 
-La OSS fue diseñada con "considerable ayuda" del [[MI6]] británico. El modelo operativo vino de la inteligencia británica, estableciendo la relación especial EEUU-UK que continúa hoy.
+La OSS recluto perfiles provenientes de universidades, despachos juridicos, banca, diplomacia, mundo militar y redes sociales de elite. Eso no significa que toda la agencia respondiera mecanicamente a Wall Street, pero si deja ver que el aparato de inteligencia nacio muy cerca de las clases dirigentes y no como institucion democratica de control ciudadano.
 
-## Conexiones Clave
+### 3. Vector angloestadounidense
+
+La cooperacion con servicios britanicos, especialmente [[MI6]], fue constitutiva. En TL esto importa porque el nodo OSS muestra que el eje angloestadounidense de inteligencia no es una derivacion tardia, sino una condicion de origen.
+
+### 4. Continuidad mas que ruptura
+
+Cuando la OSS fue disuelta, parte de su personal, experiencia y cultura operativa sobrevivio dentro de nuevas estructuras de seguridad nacional. La creacion de la [[CIA]] debe leerse mas como reordenamiento institucional que como comienzo absoluto.
+
+## Con que conecta
 
 - [[CIA]]
-- [[MI6]]
-- [[Allen Dulles]]
 - [[William Donovan]]
-- [[Wall Street]]
-
-## Fuentes
-
-- "The Devil's Chessboard" - David Talbot
-- OSS desclasificados
-
-## Por Qué Importa (Estilo Nico)
-
-> "La CIA no nació para proteger al ciudadano estadounidense. Nació de la OSS, que fue fundada por abogados de Wall Street y diseñada por el MI6 británico. Desde el día uno, la inteligencia estadounidense fue el brazo armado de los intereses financieros. Allen Dulles era socio de Sullivan & Cromwell, la firma que representaba a IG Farben y los nazis."
+- [[Allen Dulles]]
+- [[MI6]]
+- [[John Foster Dulles]]

@@ -1,51 +1,51 @@
 ---
 publish: true
-titulo: Albert Bourla
-tipo: "persona"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [albert, blackrock, bourla, pfizer]
+created: 2026-01-29T19:17:03.143-03:00
+modified: 2026-04-19T12:59:21.793-03:00
+tags:
+  - albert-bourla
+  - pfizer
+  - vacunas
+  - bioseguridad
+  - corporacion
+  - tl-intel-v3
 ---
 
 # Albert Bourla
 
-## Perfil TL (Resumen Ejecutivo)
+## BLUF
 
-**¿Quién es?** CEO de [[Pfizer]] desde 2019. De origen griego, con un doctorado en biotecnología de la reproducción (veterinaria). Fue el rostro corporativo de la respuesta global a la pandemia de COVID-19 mediante la vacuna de ARNm.
+[[Albert Bourla]] importa en TL como rostro ejecutivo de [[Pfizer]] en la fase de máxima centralidad política y económica del complejo farmacéutico reciente. Su valor no está en la figura del propietario, sino en representar la gerencia corporativa que negocia con Estados, regula expectativas públicas y traduce crisis sanitarias en contratos, legitimidad y escala.
 
-**¿Por qué importa?** Bourla no es el dueño de [[Pfizer]], es el administrador senior de una de las corporaciones más multadas de la historia. Su rol fue coordinar la inmunización masiva y la transferencia de miles de millones de dólares del erario público hacia la industria privada, bajo contratos secretos y protección legal total.
+## Por que importa en TL
 
-## Análisis De Poder (Tiers)
+- conecta dirección corporativa, vacunas, contratos públicos y gobernanza sanitaria;
+- ayuda a leer la diferencia entre propiedad financiera y operación ejecutiva en Big Pharma;
+- funciona como nodo personal del corredor [[Pfizer]] / [[Big Pharma]] / [[One Health]].
 
-### Tier A (Arquitecto / Propietario)
+## Que cambio
 
-- Bourla no es Tier A. Él responde a los principales accionistas de [[Pfizer]]: [[BlackRock]], [[Vanguard]] y State Street.
+La nota seguía en formato viejo y demasiado cerrada en framing. Se recompila como persona reusable para separar mejor función ejecutiva, contexto y lectura TL.
 
-### Tier B (Operador / Gestor)
+## Lectura TL
 
-- **Gestión de Crisis:** Lideró la implementación de la tecnología de ARNm a escala global.
-- **Background Curioso:** Su especialidad original es la veterinaria y la reproducción animal. En el marco de [[One Health]], esta transición de salud animal a humana es una señal de cómo se percibe a la población (ganado gestionado).
+### 1. El gerente de la escala
 
-### Tier C (Narrativa / Fachada)
+Bourla importa porque encarna la fase en que una farmacéutica pasa de actor sectorial a negociador geopolítico con Estados y organismos multilaterales.
 
-- Se presenta como el "salvador de la humanidad" en libros como "Moonshot".
-- Utiliza un discurso de "equidad en las vacunas" mientras mantiene patentes y precios abusivos en países en desarrollo.
+### 2. Contrato, patente y narrativa
 
-## Conexiones Clave
+En TL, su relevancia crece cuando se observa que la biopolítica corporativa no depende solo de laboratorios o ensayos, sino de contratos, protección legal, suministro y manejo reputacional.
 
-- [[Pfizer]] (La corporación)
-- [[Bill Gates]] (Colaboración en GAVI/Agenda de vacunas)
-- [[BlackRock]] (Dueño real de Pfizer)
-- [[WEF]] (Miembro activo)
+### 3. Ejecutivo como interfaz
 
-## Fuentes
+Su utilidad aparece al pensar cómo el CEO funciona como puente entre accionistas, reguladores, gobiernos y opinión pública durante contextos de urgencia.
 
-- Reportes Anuales de Pfizer.
-- Contratos de adquisición de vacunas (filtraciones de la UE).
-- Libro: "Moonshot: Inside Pfizer's Nine-Month Race to Make the Impossible Possible".
+## Con que conecta
 
-## Por Qué Importa (Estilo Nico)
-
-> "Fíjense que no es casualidad que el CEO de la farmacéutica más grande del mundo sea veterinario. En la lógica de Tier A, la bioseguridad es pura gestión de biomasa. Bourla es el capataz eficiente de un corral global que factura miles de millones mientras los gobiernos firman contratos que ni siquiera pueden leer."
+- [[Pfizer]]
+- [[Big Pharma]]
+- [[BlackRock]]
+- [[Vanguard]]
+- [[One Health]]
+- [[Los Papeles de Pfizer]]

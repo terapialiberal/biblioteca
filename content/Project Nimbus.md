@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:31.711-03:00
-modified: 2026-04-17T13:28:39.012-03:00
+modified: 2026-04-19T12:40:29.690-03:00
 tags:
   - project-nimbus
   - israel
@@ -42,10 +42,11 @@ Cuando nube, almacenamiento y herramientas de IA quedan embebidas en gestion ter
 
 Su utilidad en TL es mostrar que el control contemporaneo no depende solo de armas o burocracia clasica. Tambien depende de stacks cloud, contratos empresariales y dependencia tecnica de plataformas privadas.
 
-## Conexiones
+## Con que conecta
 
 - [[Google]]
 - [[Amazon]]
+- [[Gobernanza Digital]]
 - [[Pegasus Spyware]]
 - [[Palantir]]
 - [[Vigilancia Predictiva]]

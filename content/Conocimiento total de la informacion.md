@@ -1,53 +1,51 @@
 ---
-titulo: Conocimiento Total De La Información
-tipo: "concepto"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [conocimiento, informacin, palantir, total]
 publish: true
+created: 2026-01-29T19:17:08.640-03:00
+modified: 2026-04-19T12:56:50.100-03:00
+tags:
+  - tia
+  - total-information-awareness
+  - vigilancia
+  - datos
+  - prediccion
+  - tl-intel-v3
 ---
 
-# Conocimiento Total De La Información
+# Conocimiento total de la informacion
 
-![](https://wikispooks.com/w/images/thumb/c/cb/Poindexter_TIA.webp/850px-Poindexter_TIA.webp.png)
+## BLUF
 
-## Resumen General
+[[Conocimiento total de la informacion]] importa en TL como formulación extrema del deseo de convertir vida social, transacciones y comportamiento en un espacio completamente legible para aparatos de seguridad y análisis. Su valor no está solo en el programa histórico asociado, sino en nombrar una aspiración persistente de vigilancia predictiva total.
 
-"Total Information Awareness" (TIA) fue un programa del Pentágono (DARPA) lanzado tras el 11-S con el objetivo explícito de vigilar _todo_: transacciones financieras, médicas, comunicaciones y viajes de todos los ciudadanos para predecir crímenes. Aunque fue "clausurado" por el Congreso debido al escándalo público, Wikispooks explica que nunca murió: se privatizó y se convirtió en Palantir.
+## Por que importa en TL
 
-## Puntos Clave Para Video
+- conecta ambición de captura integral de datos con programas posteriores de vigilancia y análisis masivo;
+- ayuda a leer cómo la promesa de prevención se apoya en acumulación exhaustiva de trazas humanas;
+- funciona como antecedente conceptual para [[Palantir]], [[Agencia de Seguridad Nacional]] y sistemas de indexación total.
 
-### 1. El Ojo Que Todo Lo Ve
+## Que cambio
 
-- **Logotipo:** Su logo official era literalmente una pirámide con el Ojo de la Providencia vigilando el globo terráqueo, una imagen tan siniestra que parecía sátira.
-- **Objetivo:** Crear una base de datos centralizada de toda la huella digital de la humanidad para "minería de datos" predictiva.
+La nota seguía en formato viejo y excesivamente enfocada en ángulos de video. Se recompila como concepto reusable para separar mejor idea, herencia y lectura TL.
 
-### 2. De Poindexter a Palantir
+## Lectura TL
 
-- **La Conexión:** El programa estaba dirigido por John Poindexter (criminal del caso Irán-Contra). Cuando TIA fue cerrado, Poindexter se reunió secretamente con Peter Thiel y Alex Karp.
-- **Transferencia de Tecnología:** Palantir fue incorporada poco después con financiación de la CIA (In-Q-Tel) y es, funcionalmente, la reencarnación privada de TIA. Lo que el gobierno no podía hacer legalmente, ahora lo have una empresa privada contratada por el gobierno.
+### 1. Verlo todo para anticipar
 
-### 3. "Basketball"
+La idea importa porque intenta llevar al límite la ambición de seguridad preventiva: si se captura suficiente información, el comportamiento humano parecería volverse pronosticable.
 
-- **El Secreto:** El núcleo del programa TIA continuó desarrollándose en la NSA bajo el nombre en clave "Basketball", demostrando que los programas de vigilancia nunca se cancelan, solo se renombran.
+### 2. Base conceptual de la vigilancia moderna
 
-## Ángulos Posibles Para El Video
+En TL, su relevancia crece cuando se observa que muchas arquitecturas contemporáneas no inventan esta ambición, solo la vuelven técnica y comercialmente más viable.
 
-1. **El Logo que delató al Deep State:** La historia del programa de vigilancia más descarado de la historia.
-2. **Palantir es TIA:** Cómo Peter Thiel privatizó el Gran Hermano para evadir la Constitución.
-3. **Pre-Crimen:** La realidad estilo "Minority Report" que TIA intentó construir y que hoy existe silenciosamente.
+### 3. Del Estado al ecosistema híbrido
 
-## Ver También
+Su potencia aparece cuando el ideal de conocimiento total ya no depende de un solo programa, sino de la combinación entre agencias, contratistas, plataformas y sensores distribuidos.
+
+## Con que conecta
 
 - [[Palantir]]
 - [[John Poindexter]]
 - [[Agencia de Seguridad Nacional]]
-- [[Playbooks del Deep State]] (Privatización)
-- [[01 Conexiones Sorprendentes]] (TIA to Palantir)
-- [[Timeline - 1980s-2000s]]
-
-## Referencias
-
-- <https://wikispooks.com/wiki/Total_Information_Awareness>
+- [[Vigilancia Predictiva]]
+- [[XKeyscore]]
+- [[Panoptico Digital]]

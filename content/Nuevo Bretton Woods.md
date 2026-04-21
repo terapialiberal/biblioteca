@@ -1,42 +1,61 @@
 ---
 publish: true
 aliases:
-  - Nuevo Bretton Woods
+  - Bretton Woods 2
+  - Bretton Woods post-dolar
 created: 2026-01-29T19:17:27.567-03:00
-modified: 2026-04-07T13:34:47.808-03:00
+modified: 2026-04-20T19:31:01.380-03:00
 tags:
-  - finanzas
+  - nuevo-bretton-woods
   - sistema-monetario
-  - cbdc
+  - dolar
   - reset
+  - tl-intel-v3
 ---
 
 # Nuevo Bretton Woods
 
-`Nuevo Bretton Woods` es una etiqueta usada para describir posibles rediseños del orden monetario internacional frente al agotamiento relativo del esquema posterior a 1971, el ascenso de nuevos polos de poder y el avance de infraestructuras digitales de pago y control.
+## BLUF
 
-## Síntesis
+[[Nuevo Bretton Woods]] importa en TL como etiqueta paraguas para distintos intentos de rediseñar el orden monetario internacional despues del agotamiento relativo del esquema post-1971. Su utilidad no esta en suponer que ya existe un nuevo acuerdo cerrado, sino en ordenar las hipotesis sobre como podria reconfigurarse la centralidad del dolar, la deuda estadounidense y los nuevos rails de pago.
 
-En TL el nodo sirve para pensar si las tensiones actuales apuntan a una simple reconfiguración del sistema dólar o a una transición hacia mecanismos de supervisión financiera más centralizados y programables.
+## Por que importa en TL
 
-## Preguntas que organiza
+- permite reunir en una sola pregunta el eje [[CBDC]] / [[Dinero Programable]] / [[Treasuries]] / [[Desdolarizacion]];
+- ayuda a no confundir escenario general de reordenamiento con doctrinas mas concretas como [[Mar-a-Lago Accord]];
+- funciona como nodo conceptual para leer si la transicion sera multipolar, coercitiva, hibrida o parcialmente programable.
 
-- qué lugar retendrá el dólar en una etapa de mayor fragmentación monetaria
-- qué papel tendrán [[CBDC]], interoperabilidad bancaria y plataformas transfronterizas
-- si la desdolarización es ruptura real o redistribución controlada
-- cómo se relacionan seguridad, deuda, sanciones y arquitectura de pagos
+## Que cambio
 
-## Lectura estratégica
+La nota existia, pero estaba demasiado minima y quedaba a medio camino entre slogan y resumen generico. Se recompila para que opere como paraguas conceptual del corredor monetario y para separarla mejor de nodos mas especificos como [[Sistema Petrodolar]], [[Reanclaje Hibrido]] y [[Mar-a-Lago Accord]].
 
-- el cambio monetario no sería solo financiero, sino político
-- la digitalización del dinero aumenta capacidad de observación y condicionalidad
-- nodos como [[BIS]] ganan peso como coordinadores técnicos
-- el lenguaje de estabilidad puede funcionar como vehículo para mayor control
+## Que es
 
-## Nodos relacionados
+Nuevo Bretton Woods es una formula de trabajo para nombrar discusiones, propuestas y maniobras orientadas a redefinir reglas del sistema monetario internacional. Puede referirse a soluciones rivales: mayor coordinacion multilateral, transicion mas fragmentada, orden dolarizado reforzado por coercion o combinaciones intermedias.
 
-- [[BIS]]
+## Lectura TL
+
+### 1. El problema no es solo monetario
+
+Nuevo Bretton Woods importa porque en TL el rediseño del sistema no se juega solo en bancos centrales. Tambien se juega en rutas comerciales, energia, sanciones, seguridad, infraestructura digital y capacidad de imponer demanda por activos estadounidenses.
+
+### 2. Paraguas, no doctrina unica
+
+Su valor analitico crece cuando se usa como contenedor de escenarios y no como nombre de una receta ya consolidada. [[Mar-a-Lago Accord]] es una jugada posible dentro del tablero; [[Nuevo Bretton Woods]] es el nombre del problema mas amplio.
+
+### 3. Del petrodolar al reanclaje complejo
+
+La nota gana utilidad cuando se la conecta con el pasaje desde [[Sistema Petrodolar]] hacia hipotesis como [[Reanclaje Hibrido]]. La transicion puede no desembocar en un patron limpio, sino en una arquitectura mas coercitiva, mas digital y mas inestable.
+
+### 4. Multipolaridad bajo administracion
+
+En TL, uno de los puntos clave es distinguir entre desdolarizacion real y redistribucion administrada del poder monetario. El nuevo tablero puede cambiar de forma sin que desaparezca la capacidad de EEUU para disciplinar pagos, deuda y liquidez.
+
+## Con que conecta
+
+- [[Sistema Petrodolar]]
+- [[Reanclaje Hibrido]]
+- [[Mar-a-Lago Accord]]
 - [[CBDC]]
-- [[Desdolarización]]
-- [[BRICS]]
-- [[Bitcoin]]
+- [[Dinero Programable]]
+- [[Treasuries]]

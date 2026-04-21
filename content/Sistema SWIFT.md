@@ -1,43 +1,17 @@
 ---
-titulo: "Sistema SWIFT: El Control De Flujos Financieros Globales"
-tipo: "concepto"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [banco, flujos, sistema, swift]
 publish: true
+created: 2026-01-29T19:17:37.114-03:00
+modified: 2026-04-21T11:42:45.097-03:00
+tags:
+  - "#alias"
+  - "#legacy"
+  - "#swift"
+  - "#rails-financieros"
+  - "#tl-intel-v3"
 ---
 
-# Sistema SWIFT: El Control De Flujos Financieros Globales
+# Sistema SWIFT
 
-> [!ABSTRACT] Hipótesis Informativa
-> SWIFT es el sistema de mensajería financiera global que permite a la oligarquía Tier A ejercer control geopolítico mediante exclusión y vigilancia de transacciones internacionales.
+Nodo legacy preservado para absorber naming descriptivo.
 
-## Análisis De Tiers
-
-### Tier A: Bancos Centrales Y Operadores De SWIFT
-
-- **Control de Acceso:** Decisión política de incluir/excluir países del sistema financiero global.
-
-### Tier B: Bancos Comerciales
-
-- **Cumplimiento Forzado:** Implementación de sanciones y vigilancia de transacciones.
-
-### Tier C: Empresas Y Ciudadanos
-
-- **Sometimiento Financiero:** Sujeto a bloqueos y vigilancia sin recourse.
-
-## Mecanismos De Poder
-
-1. **Vigilancia Total:** Monitoreo en tiempo real de todos los flujos financieros transfronterizos.
-2. **Exclusión Geopolítica:** Arma financiera para sancionar estados no alineados.
-
-## Conexiones Críticas
-
-- [[Banco de Pagos Internacionales|Banco de Pagos Internacionales (BIS)]]: Supervisión y estándares.
-- [[Agencia de Seguridad Nacional]]: Acceso a datos de vigilancia.
-
-## Conclusión Del Análisis
-
-SWIFT es el sistema de control financiero global que permite la weaponización del sistema bancario contra estados disidentes.
+Ver [[SWIFT]].

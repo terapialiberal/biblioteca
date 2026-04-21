@@ -1,31 +1,44 @@
 ---
-titulo: "¸ LifeLog: La Privatización De La Vigilancia De DARPA"
-tipo: "concepto"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [darpa, facebook, lifelog, vigilancia]
 publish: true
+aliases:
+  - "LifeLog: La Privatizacion De La Vigilancia De DARPA"
+created: 2026-01-29T19:17:22.515-03:00
+modified: 2026-04-18T18:21:45.088-03:00
+tags:
+  - lifelog
+  - darpa
+  - facebook
+  - vigilancia
+  - datos
+  - tl-intel-v3
 ---
 
-# ¸ LifeLog: La Privatización De La Vigilancia De DARPA
+# LifeLog
 
-> [!ABSTRACT] Resumen de Inteligencia
-> LifeLog fue un proyecto de **[[DARPA]]** diseñado para crear una base de datos ontológica y permanente de la vida de cada individuo: cada conversación, cada ubicación, cada latido, cada preferencia consumista. Oficialmente cancelado por el Pentágono el **4 de febrero de 2004** debido a "preocupaciones de privacidad", la fecha coincide de forma matemática con el lanzamiento de **[[Facebook]]** (el mismo día). Para la inteligencia de Bóveda, LifeLog no fue cancelado; fue **privatizado** y entregado a agentes de Tier B para que la población entregara sus datos de forma voluntaria y adictiva.
+## BLUF
 
-## Análisis De Poder (Matrix)
+[[LifeLog]] importa en TL como proyecto-arquetipo de captura total de la vida cotidiana en forma de datos. Más allá de las hipótesis sobre continuidad exacta, funciona como antecedente útil para pensar el pasaje desde vigilancia estatal explícita hacia plataformas privadas de recolección masiva.
 
-### Tier A: La Captura De La Memoria Humana
+## Por qué importa en TL
 
-- **La Tesis de la Continuidad:** El Tier A entendió que una agencia militar (DARPA) generaría rechazo paranoico. La solución fue externalizar la vigilancia a un "genio" de dormitorio ([[Mark Zuckerberg]]) financiado por capital de riesgo del Deep State ([[In-Q-Tel]] / [[Peter Thiel]]).
-- **Objetivo Final:** La recolección de datos masivos no es para publicidad; es para el entrenamiento de una **IA Generativa de Control Social** y la predicción de comportamientos (Pre-crimen).
+- condensa la ambición de convertir experiencia humana en base de datos explotable;
+- ayuda a leer la transición entre programas militares de información y ecosistemas civiles de plataforma;
+- se conecta naturalmente con [[Facebook]], [[DARPA]] y la lógica de vigilancia privatizada.
 
-### Tier B: Los Facilitadores De Silicon Valley
+## Qué cambió
 
-- **Peter Thiel y el Nexo Operativo:** La conexión entre LifeLog y Facebook se materializa a través de figuras como **[[Peter Thiel]]** (Palantir/In-Q-Tel), quien proveyó el capital y la visión para transformar una red de estudiantes en un nodo global de inteligencia.
-- **Ingeniería Social:** Facebook heredó el objetivo de LifeLog: convertir la experiencia humana en datos procesables para la tecnocracia.
+La nota venía con encoding roto y formato viejo. Se recompila sin forzar una tesis cerrada sobre continuidad absoluta, pero conservando su valor como nodo analítico.
 
-## âš¡ Conclusión De Terapia Liberal
+## Lectura TL
 
-¿Coincidencia que el Pentágono cerrara su programa de espionaje total el mismo día que nació Facebook? Solo para quien cree en el azar. LifeLog es la prueba de que en Tier A no existen los cierres, solo las **mutaciones de marca**. Cambiaron el logo de DARPA por una 'f' azul y convencieron al mundo de que vigilarse a sí mismo era "conectar con amigos".
+LifeLog es útil porque vuelve pensable una continuidad funcional, aunque no siempre demostrable línea por línea, entre proyectos de defensa orientados a mapear conducta humana y modelos comerciales basados en la captura permanente de identidad, vínculos, hábitos y localización.
+
+En TL no hace falta afirmar que Facebook "es" LifeLog para que el nodo sea valioso. Basta con observar cómo la arquitectura deseada por programas de seguridad encuentra luego realización parcial en empresas privadas que logran escala, legitimidad cultural y entrega voluntaria de datos.
+
+## Con qué conecta
+
+- [[DARPA]]
+- [[Facebook]]
+- [[Mark Zuckerberg]]
+- [[Peter Thiel]]
+- [[In-Q-Tel]]

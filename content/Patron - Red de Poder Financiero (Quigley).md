@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-02-28T15:13:16.261-03:00
-modified: 2026-04-07T11:50:11.994-03:00
+modified: 2026-04-21T13:06:39.045-03:00
 tags:
-  - patrones
-  - poder-financiero
-  - quigley
-  - atlanticismo
-  - tl-v3
+  - "#patrones"
+  - "#poder-financiero"
+  - "#quigley"
+  - "#atlanticismo"
+  - "#tl-v3"
 ---
 
 # [[Patrón - Red de Poder Financiero (Quigley)]]
@@ -31,7 +31,7 @@ El patrón se debilita si colapsa la capacidad del sistema financiero para recic
 - [[Banca Central]]
 - [[CFR]]
 - [[Chatham House]]
-- [[Puerta Giratoria (Concepto)]]
+- [[Puerta Giratoria]]
 
 ## Observación operativa
 

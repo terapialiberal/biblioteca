@@ -35,7 +35,7 @@ publish: true
 
 - [[Wall Street]] (Su objeto de estudio)
 - [[Skull and Bones]] (Escribió el libro definitivo sobre la orden de Yale)
-- [[CFR (Council on Foreign Relations)]] (Mapeó su influencia institucional)
+- [[CFR]] (Mapeó su influencia institucional)
 - [[Carroll Quigley]] (Su contraparte que también admitió el poder de las élites financieras)
 
 ## Fuentes

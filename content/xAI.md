@@ -23,14 +23,14 @@ Fundó xAI para crear alternativa.
 
 ## Productos
 
-- **Grok** - chatbot integrado en X (Twitter)
+- **Grok** - chatbot integrado en [[X]]
 - Menos filtros que competidores
 - "Modo diversión"
 
 ## Conexiones
 
 - [[Elon Musk]]
-- [[X (Twitter)]]
+- [[X]]
 - Competencia con [[OpenAI]]
 
 ## Fuentes

@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-01-29T19:17:02.587-03:00
-modified: 2026-04-17T14:29:22.681-03:00
+modified: 2026-04-21T13:18:03.602-03:00
 tags:
-  - moc
-  - psyops
-  - control-social
-  - guerra-cognitiva
-  - tl-intel-v3
+  - "#moc"
+  - "#psyops"
+  - "#control-social"
+  - "#guerra-cognitiva"
+  - "#tl-intel-v3"
 ---
 
 # MOC - Operaciones Psicologicas
@@ -31,6 +31,9 @@ tags:
 - [[Oposicion Controlada]]
 - [[Espiral del Silencio]]
 - [[Atomizacion Social]]
+- [[Ventana de Overton]]
+- [[Ingenieria Social]]
+- [[Totalitarismo]]
 - [[Hipernormalizacion]]
 - [[Menticidio]]
 
@@ -42,7 +45,7 @@ tags:
 - [[Operacion Chaos]]
 - [[Instituto Tavistock]]
 - [[Cambridge Analytica]]
-- [[Brigada 77 (Modernizada)]]
+- [[Brigada 77]]
 - [[JTRIG]]
 - [[NewsGuard]]
 - [[CISA (Cybersecurity and Infrastructure Security Agency)]]
@@ -60,18 +63,19 @@ tags:
 - [[Steve Bannon]]
 - [[Robert Mercer]]
 - [[Peter Thiel]]
-- [[J.D. Vance]]
+- [[JD Vance]]
 
 ## Herramientas de Control Cognitivo
 
 - [[Cognitive Warfare]]
 - [[Manufacture of Consent 2.0]]
-- [[Dead Internet Theory]]
+- [[Teoria del Internet Muerto]]
 - [[Predictive Programming]]
+- [[Primado Negativo]]
 - [[Gobernanza Algoritmica]]
 - [[Social Credit West]]
 - [[Disinformation Governance Board]]
-- [[Nudge Theory]]
+- [[Teoria del Empujon]]
 - [[Reality Privilege]]
 - [[Urbit 2026]]
 
@@ -86,3 +90,4 @@ tags:
 - [[00_MOC - Operaciones Encubiertas]]
 - [[00_MOC - Fricciones de la Matrix]]
 - [[00_MOC - Tecnologia de Control]]
+- [[00_MOC - Redes de Poder]]

@@ -1,42 +1,57 @@
 ---
-titulo: Air America (La Aerolínea De La CIA)
-tipo: "persona"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [aerolnea, america, evergreen, tringulo]
 publish: true
+aliases:
+  - Air America (La Aerolínea De La CIA)
+created: 2026-01-29T19:17:03.096-03:00
+modified: 2026-04-21T12:36:48.131-03:00
+tags:
+  - "#air-america"
+  - "#cia"
+  - "#logistica-encubierta"
+  - "#sudeste-asiatico"
+  - "#narcotrafico"
+  - "#tl-intel-v3"
 ---
 
-# Air America (La Aerolínea De La CIA)
+# Air America
 
-## Resumen Ejecutivo
+## BLUF
 
-**¿Qué fue?** Una aerolínea "privada" de pasajeros y carga que operaba en el Sudeste Asiático.
-Dueño real: La **CIA**.
-Lema no official: _"Anything, Anywhere, Anytime"_ (Cualquier cosa, en cualquier lugar, en cualquier memento).
+[[Air America]] importa en TL como ejemplo clásico de infraestructura logística encubierta: una cobertura empresarial o civil usada para mover personal, carga, apoyo operacional y zonas grises del aparato estadounidense en Asia.
 
-**La Operación:**
-Durante la Guerra de Vietnam, Laos y Camboya, Air America transportaba:
+## Que es
 
-1. Armas para guerrillas anticomunistas.
-2. Alimentos humanitarios.
-3. **Opio crudo** desde las aldeas de montaña a los laboratorios de refinamiento.
-   La CIA necesitaba la lealtad de los señores de la guerra locales (Vang Pao), y su moneda era el opio. La CIA les facilitó el transporte aéreo para exportar su producto al mercado mundial.
+Air America fue una aerolínea asociada a operaciones encubiertas de la CIA en el sudeste asiático durante la Guerra Fría.
 
-## Análisis (Tiers)
+## Por que importa en TL
 
-### Tier A (Logística Del Vicio)
+- conecta inteligencia, logística privada y guerra encubierta;
+- ayuda a leer cómo una fachada comercial puede operar como extensión funcional del aparato secreto;
+- sirve como nodo de cruce entre contrainsurgencia, suministro irregular y economías opacas de guerra.
 
-- **Deep State Logistics:** Demuestra que la CIA posee infraestructura logística propia (aviones, barcos) para mover mercancías fuera de las aduanas y leyes internacionales. Air America cerró, pero su flota y pilotos pasaron a empresas como **Evergreen International Aviation**.
+## Que cambio
 
-## Conexiones
+La nota estaba mal tipada y en formato muy viejo. Se recompila como entidad reusable para conectarla mejor con `CIA Narcotráfico`, `Triángulo Dorado` y el corredor de infraestructura clandestina.
 
-- [[Triángulo Dorado (CIA y Heroína en SE Asia)]]
+## Lectura TL
+
+### 1. La infraestructura también conspira
+
+Air America importa porque recuerda que las operaciones encubiertas no dependen solo de espías o analistas: necesitan transporte, cobertura, cadena de suministros y dispositivos plausibles de movimiento.
+
+### 2. Frontera porosa entre guerra y negocio
+
+En TL, este nodo vale por cómo mezcla ayuda, transporte, operaciones especiales y circuitos opacos que pueden incluir economías ilícitas o toleradas.
+
+### 3. Ficción privada, función estatal
+
+La utilidad analítica aparece cuando se observa cómo estructuras aparentemente privadas pueden actuar como brazos tercerizados o negables del Estado profundo.
+
+## Con que conecta
+
+- [[CIA]]
 - [[CIA Narcotráfico]]
+- [[Triángulo Dorado (CIA y Heroína en SE Asia)]]
 - [[Evergreen (CIA)]]
-
-## Fuentes
-
-- "The Review of the CIA's Involvement in Drug Trafficking" (Informe del Inspector General de la CIA, 1998 - admitió "tolerancia").
+- [[Operacion Phoenix]]
+- [[00_MOC - Operaciones Encubiertas]]

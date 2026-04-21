@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-01-29T19:17:29.876-03:00
-modified: 2026-04-17T16:32:52.182-03:00
+modified: 2026-04-21T11:35:27.152-03:00
 tags:
-  - pasaportes-de-vacuna
-  - salud-digital
-  - movilidad
-  - identidad-digital
-  - tl-intel-v3
+  - "#pasaportes-de-vacuna"
+  - "#salud-digital"
+  - "#movilidad"
+  - "#identidad-digital"
+  - "#tl-intel-v3"
 ---
 
 # Pasaportes de Vacuna
@@ -50,5 +50,9 @@ Leídos en continuidad con identidad digital y biometría, aparecen como ensayo 
 - [[ID2020]]
 - [[Biometria Global]]
 - [[World Health Organization]]
+- [[Tratado de Pandemias OMS]]
+- [[Biopolitica]]
+- [[Bioseguridad]]
+- [[Salud Global]]
 - [[Union Europea]]
 - [[Tecnocracia]]

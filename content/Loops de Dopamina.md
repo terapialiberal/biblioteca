@@ -1,30 +1,44 @@
 ---
-titulo: "Loops De Dopamina: El Hackeo Neuroquímico Del Tier B"
-tipo: "concepto"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [capitalismo, dopamina, facebook, hackeo]
 publish: true
+aliases:
+  - "Loops De Dopamina: El Hackeo Neuroquimico Del Tier B"
+created: 2026-01-29T19:17:22.874-03:00
+modified: 2026-04-18T18:21:45.168-03:00
+tags:
+  - dopamina
+  - adiccion
+  - atencion
+  - redes-sociales
+  - capitalismo-de-vigilancia
+  - tl-intel-v3
 ---
 
-# Loops De Dopamina: El Hackeo Neuroquímico Del Tier B
+# Loops de Dopamina
 
-> [!ABSTRACT] Resumen de Inteligencia
-> Los "Loops de Dopamina" son ciclos de retroalimentación diseñados por ingenieros de Silicon Valley para inducir adicción conductual en la masa (**Tier C**). Mediante el uso de **recompensas variables** (como el scroll infinito, likes y notificaciones), las plataformas digitales secuestran el sistema de recompensa del cerebro humano. No es un fallo del diseño; es la arquitectura central del **[[Capitalismo de Vigilancia]]** de **Tier B** para maximizar el "engagement" (tiempo de atención) y extraer micro-datos de comportamiento.
+## BLUF
 
-## Análisis De Poder (Matrix)
+[[Loops de Dopamina]] importa en TL como patrón de diseño conductual orientado a capturar atención, inducir repetición y volver predecible el comportamiento del usuario en plataformas digitales.
 
-### Tier B: Ingeniería Del Deseo
+## Por qué importa en TL
 
-- **Diseño Intencional:** Ex-ejecutivos de [[Facebook]] y [[Google]] han confesado que el objetivo era explotar una vulnerabilidad en la psicología humana. Al imitar la mecánica de las máquinas tragamonedas (Tragaperras), las redes sociales mantienen al usuario en un estado de búsqueda perpetua, rompiendo su capacidad de atención profunda.
-- **La Moneda de la Atención:** El Tier B no vende un producto; vende tu atención al Tier A (anunciantes y mineros de datos). Para lograrlo, deben mantenerte en un loop constante de anticipación y descarga de dopamina.
+- conecta neuroquímica básica, diseño de producto y captura de atención;
+- ayuda a leer redes sociales y apps no solo como medios, sino como infraestructuras de condicionamiento;
+- sirve como puente entre tecnología, adicción conductual y fragmentación cognitiva.
 
-### Tier C: La Fragmentación Cognitiva
+## Qué cambió
 
-- **Efectos Secundarios:** La población sometida a estos loops experimenta ansiedad, reducción del pensamiento crítico y una necesidad constante de validación externa. Un ciudadano con déficit de atención es incapaz de seguir hilos complejos de poder o de organizar resistencia política efectiva.
+La nota venía con encoding roto y tono manifiesto. Se recompila como concepto reusable y más compacto.
 
-## âš¡ Conclusión De Terapia Liberal
+## Lectura TL
 
-Tu teléfono no es una herramienta; es un **electrodo neuronal** que descargás voluntariamente cada vez que scrolleás. El Tier B ha descubierto que es más barato controlar a una población mediante dopamina que mediante la fuerza. Si controlas el neurotransmisor que dicta hacia dónde mira la gente, controlas la realidad misma de esa gente.
+El valor de este nodo no depende de reducir toda conducta digital a dopamina, sino de reconocer un patrón operativo: recompensas variables, scroll infinito, notificaciones y validación intermitente como arquitectura para sostener permanencia y extracción de datos.
+
+En TL, eso importa porque una población cognitivamente fragmentada, ansiosa y entrenada para reaccionar por impulsos es más fácil de modular narrativa y comercialmente.
+
+## Con qué conecta
+
+- [[Capitalismo de Vigilancia]]
+- [[Facebook]]
+- [[Google]]
+- [[Sean Parker]]
+- [[TikTok Gnosis]]

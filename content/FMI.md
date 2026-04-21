@@ -4,7 +4,7 @@ aliases:
   - FMI (Fondo Monetario Internacional)
   - Fondo Monetario Internacional
 created: 2026-01-29T19:17:13.860-03:00
-modified: 2026-04-18T11:37:42.566-03:00
+modified: 2026-04-18T11:42:03.561-03:00
 tags:
   - deuda
   - finanzas

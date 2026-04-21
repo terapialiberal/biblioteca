@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:08.568-03:00
-modified: 2026-04-17T14:22:20.019-03:00
+modified: 2026-04-17T14:22:12.810-03:00
 tags:
   - bretton-woods
   - dolar

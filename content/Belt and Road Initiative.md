@@ -1,46 +1,56 @@
 ---
-titulo: Belt and Road Initiative (BRI)
-tipo: "concepto"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [belt, brics, initiative, road]
 publish: true
+aliases:
+  - BRI
+  - Belt and Road Initiative (BRI)
+  - Nueva Ruta de la Seda
+created: 2026-01-29T19:17:05.115-03:00
+modified: 2026-04-21T12:51:25.429-03:00
+tags:
+  - "#belt-and-road"
+  - "#bri"
+  - "#china"
+  - "#infraestructura"
+  - "#eurasia"
+  - "#tl-intel-v3"
 ---
 
-![BRI Map](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/One_Belt_One_Road.svg/220px-One_Belt_One_Road.svg.png)
+# Belt and Road Initiative
 
-# Belt and Road Initiative (BRI)
+## BLUF
 
-## Resumen Ejecutivo
+[[Belt and Road Initiative]] importa en TL como la gran arquitectura infraestructural y geoeconómica de China para ampliar conectividad, proyección de influencia y profundidad estratégica a escala euroasiática y global.
 
-**¿Qué es?** El plan global de infraestructura de China. Construir puertos, trenes, carreteras y 5G en 150 países.
+## Por que importa en TL
 
-**¿Por qué importa?** Es el **Plan Marshall del siglo XXI**, pero con ambiciones imperiales mayores. EEUU controla el mar (Navy); China quiere controlar la tierra (Eurasia). A través de la "diplomacia de la trampa de deuda", China presta dinero a países pobres para infraestructuras que no pueden pagar, y cuando impagan, China se queda con el puerto (ej: Hambantota en Sri Lanka). Es colonialismo económico puro.
+- conecta corredores logísticos, puertos, deuda, energía y expansión tecnológica;
+- ayuda a leer la competencia entre poder marítimo angloamericano y redes terrestres o mixtas impulsadas por China;
+- funciona como nodo central del corredor `China / infraestructura / rutas / chokepoints / Eurasia`.
 
-## Análisis (Tiers)
+## Que cambio
 
-### Tier A (Mackinder)
+El tema estaba invertido: `Belt and Road Initiative` existía como alias y la autoridad real quedaba en `Belt and Road Initiative (BRI)`. Se consolida ahora el nombre corto como canónico para Quartz y la variante con sigla queda absorbida como legacy.
 
-- **Heartland Theory:** Quien controla Eurasia controla el mundo. BRI es el intento final de unificar el bloque euroasiático y expulsar a las potencias marítimas (EEUU/UK) a la periferia.
+## Lectura TL
 
-### Tier B (Operativa)
+### 1. Infraestructura como geopolítica
 
-- **Digital Silk Road:** China exporta su sistema de vigilancia (cámaras con IA, crédito social) a dictaduras africanas y asiáticas. Exportan autoritarismo llave en mano.
-- **Recursos:** Asegurar rutas de litio, cobalto y petróleo que no pasen por el Estrecho de Malaca (donde la US Navy podría bloquearlos).
+La BRI importa porque convierte carreteras, trenes, puertos, cables y financiamiento en vectores de poder, dependencia y acceso preferencial.
 
-### Tier C (Narrativa)
+### 2. Respuesta al cerco marítimo
 
-- "Desarrollo compartido"
-- "Comunidad de destino común"
+En TL, su relevancia crece cuando se la ve como intento chino de reducir vulnerabilidad frente a chokepoints navales y al predominio del bloque angloamericano sobre rutas críticas.
 
-## Conexiones
+### 3. Expansión de stack
+
+No se trata solo de obra física. También puede incluir estándares, telecomunicaciones, plataformas logísticas y condiciones financieras que prolongan influencia.
+
+## Con que conecta
 
 - [[China]]
-- [[BRICS]]
-- [[Kissinger]] (su diseño original de abrir China permitió esto)
-
-## Fuentes
-
-- "The Hundred-Year Marathon" - Michael Pillsbury
+- [[Estrecho de Malaca]]
+- [[Collar de Perlas]]
+- [[Corredor IMEC]]
+- [[Teoria del Heartland]]
+- [[Rimland]]
+- [[00_MOC - Rimland]]

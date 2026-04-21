@@ -1,32 +1,42 @@
 ---
-titulo: Masacre De Tlatelolco
-tipo: "evento"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [guerra, litempo, masacre, tlatelolco]
 publish: true
+created: 2026-01-29T19:17:24.269-03:00
+modified: 2026-04-18T18:24:50.480-03:00
+tags:
+  - tlatelolco
+  - mexico
+  - represion
+  - guerra-fria
+  - litempo
+  - tl-intel-v3
 ---
 
-# Masacre De Tlatelolco
+# Masacre de Tlatelolco
 
-## Resumen Ejecutivo
+## BLUF
 
-**Qué fue:** El asesinato de cientos de estudiantes y civiles en la Plaza de las Tres Culturas, perpetrado por el ejército mexicano y el grupo paramilitar "Batallón Olimpia", diez días antes de la inauguración de los Juegos Olímpicos de 1968.
-**Por qué Importa:** Tlatelolco es el **Sacrificio de la Seguridad de las Olimpiadas**. El gobierno del PRI (Tier B) necesitaba proyectar una imagen de "estabilidad y progreso" ante el mundo de Tier A para asegurar el éxito del evento internacional. Las demandas democráticas del movimiento estudiantil eran vistas como una amenaza intolerable a esa fachada. La masacre demostró que para el sistema de poder, la preservación de la **Narrativa de Orden** internacional vale más que la vida de sus propios ciudadanos jóvenes.
+La [[Masacre de Tlatelolco]] importa en TL como caso de represión estatal y control narrativo en vísperas de un gran evento global. Muestra cómo un régimen puede sacrificar población civil para preservar imagen de estabilidad ante actores internacionales.
 
-## Análisis (Tiers)
+## Por qué importa en TL
 
-### Tier B (La Operativa LITEMPO Y La CIA)
+- conecta Guerra Fría, represión interna y legitimidad internacional;
+- sirve para leer la lógica de seguridad hemisférica y cooperación con inteligencia;
+- ayuda a estudiar cómo una matanza puede ser administrada para no interrumpir un espectáculo global.
 
-- **Vigilancia y Asesoría:** Documentos desclasificados revelan que el gobierno mexicano colaboraba estrechamente con la **CIA** a través del programa **LITEMPO**. El presidente Gustavo Díaz Ordaz y su secretario de Gobernación Luis Echeverría eran activos de este programa. La CIA proporcionó inteligencia y apoyo táctico, viendo en el movimiento estudiantil una potencial "infiltración comunista" que debía ser extirpada quirurgicamente para proteger el flanco sur de EE.UU. en plena Guerra Fría.
-- **El Uso de Francotiradores (Falsa Bandera):** El Batallón Olimpia disparó desde los edificios hacia la multitud y hacia el propio ejército para provocar un fuego cruzado y justificar la carnicería. Esta táctica de Tier B es un clásico para criminalizar a un movimiento pacífico y pintarlo como una insurgencia armada.
+## Qué cambió
 
-### Tier A (La Estética Del Poder)
+La nota venía con mojibake y demasiado cierre interpretativo. Se recompila como evento histórico reusable, centrado en patrón y función sistémica.
 
-- **Las Olimpiadas de la Muerte:** El Comité Olímpico Internacional (COI) y las corporaciones de Tier A ignoraron la masacre para no interrumpir el flujo de ingresos y la propaganda del evento. El mensaje fue claro: el Tier A mundial acepta la sangre siempre que se limpie rápido y no manche la alfombra roja de los eventos de la élite.
+## Lectura TL
 
-## âš¡ Conclusión TL
+Tlatelolco no importa solo como tragedia mexicana, sino como ejemplo de régimen que prioriza prestigio, orden y continuidad institucional por encima de cualquier costo humano. La proximidad con los Juegos Olímpicos vuelve visible la jerarquía real de valores del sistema.
 
-Tlatelolco fue el momento en que el PRI reveló su verdadera naturaleza: una maquinaria de control que opera bajo las órdenes de la seguridad hemisférica de Tier A. Los Juegos Olímpicos de 1968 se celebraron sobre una fosa común, con el aplauso de la comunidad internacional.
+En TL, el nodo sirve también para leer la alianza entre seguridad local, presión geopolítica y administración del relato internacional en plena Guerra Fría.
+
+## Con qué conecta
+
+- [[Mexico 1968]]
+- [[CIA]]
+- [[LITEMPO]]
+- [[Guerra Fria]]
+- [[Narrativa de Orden]]

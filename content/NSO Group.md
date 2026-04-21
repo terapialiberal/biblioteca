@@ -1,12 +1,12 @@
 ---
 publish: true
 created: 2026-01-29T19:17:27.513-03:00
-modified: 2026-04-07T11:48:59.792-03:00
+modified: 2026-04-21T12:48:15.696-03:00
 tags:
-  - apple
-  - digital
-  - google
-  - pnico
+  - "#apple"
+  - "#digital"
+  - "#google"
+  - "#pnico"
 ---
 
 # NSO Group: Mercenarios Del Pánico Digital
@@ -38,7 +38,7 @@ tags:
 
 ## Conexiones Críticas
 
-- [[Unit 8200]]: La cantera de talento y tecnología de la cual surge NSO.
+- [[Unidad 8200]]: La cantera de talento y tecnología de la cual surge NSO.
 - [[Pegasus Spyware (NSO Group)]]: El virus informático más potente y comercializado del mundo.
 - [[Jamal Khashoggi]]: Su entorno fue vigilado con Pegasus antes de su ejecución, demostrando la letalidad física de la vigilancia digital.
 - [[Cellebrite]]: Otra firma israelí que complementa a NSO, especializada en la extracción forense de datos físicos.

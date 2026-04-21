@@ -45,7 +45,7 @@ Toda la política exterior de EEUU (WWI, WWII, Guerra Fría, Ucrania hoy) se tra
 
 - [[Zbigniew Brzezinski]] (Adaptó esto para EEUU)
 - [[Teoría del Rimland]]
-- [[Belt and Road Initiative (BRI)]]
+- [[Belt and Road Initiative]]
 
 ## Fuentes
 

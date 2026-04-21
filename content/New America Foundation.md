@@ -1,43 +1,50 @@
 ---
 publish: true
 created: 2026-01-29T19:17:26.689-03:00
-modified: 2026-04-07T11:48:58.181-03:00
+modified: 2026-04-19T12:25:44.764-03:00
 tags:
-  - departamento
-  - digital
-  - estado
+  - new-america
+  - think-tank
   - google
+  - gobernanza-digital
+  - censura
+  - tl-intel-v3
 ---
 
-# New America Foundation: El Departamento De I+D Del Estado Profundo Digital
+# New America Foundation
 
-> [!ABSTRACT] Hipótesis Informativa
-> New America Foundation es el nodo de **convergencia entre Silicon Valley y el Complejo Militar-Industrial**. Bajo el financiamiento dominante de **[[Eric Schmidt]]**, este think tank actúa como el laboratorio político del **[[Tier A]]** para integrar la **Gobernanza Algorítmica** en las estructuras del Estado. Su función es fabricar las justificaciones intelectuales para la fusión de la vigilancia tecnológica comercial con la seguridad nacional, asegurando que la infraestructura digital sea el arma principal de control social tanto en EE.UU. como en sus operaciones de "cambio de régimen" en el extranjero.
+## BLUF
 
-## Análisis De Tiers
+[[New America Foundation]] importa en TL como think tank bisagra entre Silicon Valley, política pública y gobernanza digital. Su relevancia no está en una sola polémica, sino en mostrar cómo el lenguaje tecnoliberal puede servir para traducir intereses de plataformas y seguridad nacional en programas respetables de reforma institucional.
 
-### Tier B (La Gestión Del Consenso Tecno-Liberal)
+## Por que importa en TL
 
-- **La Inquisición Corporativa:** El despido de Barry Lynn en 2017 por criticar el monopolio de Google demostró que New America no es un centro de pensamiento, sino una **Cámara de Eco de Tier B** protegida por el capital tecnológico. Su rol es asegurar que ninguna política pública amenace la hegemonía de las plataformas de Tier A bajo el pretexto de promover la "innovación".
-- **La Puerta Giratoria:** Operadores como Anne-Marie Slaughter conectan la fundación directamente con el Departamento de Estado, permitiendo que las agendas de Big Tech se conviertan en políticas oficiales de "diplomacia digital" o "libertad de internet" (que solo busca abrir mercados para el Tier A estadounidense).
+- conecta Big Tech, think tanks y diseño de política pública;
+- ayuda a leer cómo la infraestructura intelectual del control digital se presenta como innovación, apertura o modernización;
+- funciona como nodo de apoyo dentro del [[Complejo Industrial de la Censura]] y la gobernanza algorítmica.
 
-### Tier A: La Planificación Del Panóptico De IA
+## Que cambio
 
-- **Eric Schmidt y el Pentágono:** La fundación es el puente para que Schmidt y sus redes de **[[Google]]** diseñen la estrategia de "defensa inteligente" de EE.UU. Buscan un modelo de sociedad donde el algoritmo reemplace al proceso democrático deliberativo, considerándolo más "eficiente" para la gestión de poblaciones de Tier C inquietas o empobrecidas.
+La nota venía mal tipada como `persona`, con mucho tono totalizante y framing demasiado cerrado. Se recompila como entidad reusable para dejar más clara su función institucional.
 
-## ¸ Mecanismos De Poder
+## Lectura TL
 
-1. **Captura Intelectual**: Financiamiento selectivo de investigadores que promueven la visión de un mundo gobernado por datos y plataformas privadas.
-2. **Diseño de Políticas "Open" de Doble Filo**: Fomentar la "apertura de datos" de gobiernos extranjeros para facilitar la extracción y análisis por parte de las IAs de Tier A asentadas en Silicon Valley.
+### 1. Think tank de traducción
 
-## Conexiones Críticas
+New America importa porque ayuda a convertir agendas de plataformas, filantropía tecnológica y seguridad en propuestas “técnicas” o “progresistas” de política pública.
 
-- [[Eric Schmidt]]: El arquitecto de la fusión Estado-Big Tech.
-- [[Google]]: El principal beneficiario y financiador.
-- [[Departamento de Estado (EEUU)]]: El socio institucional para la hegemonía global.
-- [[Gobernanza Digital]]: El sistema operativo propuesto.
-- [[Complejo Industrial de la Censura]]: Al cual New America provee marcos teóricos.
+### 2. Captura intelectual blanda
 
-## Conclusión Del Análisis
+En TL, el nodo vale por su capacidad para fijar marcos. No hace falta mandar sobre un ministerio si se consigue definir qué lenguaje, qué métricas y qué horizonte de solución parecen razonables para burócratas, periodistas y expertos.
 
-New America es el lugar donde el software se convierte en ley. Es la oficina de planificación de una era donde el poder no reside en el parlamento, sino en el servidor. Su existencia confirma que para el Tier A, la política es simplemente un problema de ingeniería que debe ser resuelto mediante la eliminación de la autonomía individual del Tier C.
+### 3. Silicon Valley como razón de Estado
+
+Su importancia crece cuando se observa cómo el interés corporativo de plataformas puede presentarse como defensa de la democracia digital, resiliencia informativa o modernización del Estado.
+
+## Con que conecta
+
+- [[Eric Schmidt]]
+- [[Google]]
+- [[Complejo Industrial de la Censura]]
+- [[Gobernanza Digital]]
+- [[NewsGuard]]

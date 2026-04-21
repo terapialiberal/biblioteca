@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-25T22:08:56.305-03:00
-modified: 2026-04-07T11:48:30.787-03:00
+modified: 2026-04-07T11:14:45.100-03:00
 tags:
   - ouroboros
 ---

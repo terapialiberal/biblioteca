@@ -43,7 +43,7 @@ Es la antítesis del "Fin de la Historia" de Fukuyama (que decía que todos ser�
 
 ## Conexiones
 
-- [[CFR (Council on Foreign Relations)]]
+- [[CFR]]
 - [[Gladio B (La alianza Islam-OTAN)]]
 - [[Plan Kalergi]] (El mecanismo de mezcla forzada)
 

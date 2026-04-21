@@ -1,51 +1,54 @@
 ---
-titulo: Donald Trump
-tipo: "persona"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [donald, trump]
 publish: true
+created: 2026-01-29T19:17:10.546-03:00
+modified: 2026-04-20T10:37:37.558-03:00
+tags:
+  - donald-trump
+  - maga
+  - republicanos
+  - deep-state
+  - facciones
+  - tl-intel-v3
 ---
 
 # Donald Trump
 
-![](https://wikispooks.com/w/images/c/cc/Nuclear_Trump.jpg)
+## BLUF
 
-## Resumen General
+[[Donald Trump]] importa en TL como figura de convergencia entre populismo electoral, guerra faccional intraelite y reordenamiento del bloque conservador estadounidense. Su utilidad analitica no esta en tratarlo como outsider puro o simple marioneta, sino en leerlo como nodo donde se cruzan medios, capital, seguridad nacional, facciones burocraticas y nuevas redes tecnopoliticas.
 
-Wikispooks presenta a Donald Trump como una figura compleja: vilipendiado por el "establishment liberal" (medios, banca, inteligencia), pero posiblemente respaldado por una facción "conservadora" del Deep State. Su presidencia estuvo marcada por una guerra interna con agencias de inteligencia y contradicciones entre su retórica anti-establishment y sus políticas pro-oligarcas.
+## Por que importa en TL
 
-## Puntos Clave Para Video
+- ayuda a leer la guerra interna entre facciones del aparato estadounidense sin caer en la dicotomia establishment vs anti-establishment demasiado simple;
+- conecta populismo MAGA, elites financieras, seguridad nacional y nueva derecha tech;
+- funciona como punto de entrada para entender la emergencia de operadores como [[JD Vance]] dentro del bloque republicano.
 
-### 1. Orígenes Y Rescates Financieros
+## Que cambio
 
-- **Conexión Rothschild:** En los 90s, cuando sus casinos en Atlantic City quebraron, fue rescatado por intereses bancarios de los Rothschild representados por Wilbur Ross (a quien luego nombró Secretario de Comercio).
-- **"El Aprendiz":** Su carrera mediática fue impulsada por Ari Emanuel (hermano de Rahm Emanuel, jefe de gabinete de Obama), lo que algunos ven como una "audición" para la presidencia.
+La nota venia en formato viejo, demasiado orientado a guion de video y con framing heredado de fuente secundaria. Se recompila como nodo canonico para separar mejor funcion politica, disputa de facciones y conexiones estructurales.
 
-### 2. Guerra Con El "Deep State"
+## Lectura TL
 
-- **7th Floor Group:** Un grupo de élite dentro del Departamento de Estado (red Clinton) y jefes de inteligencia (Brennan, Clapper) conspiraron activamente contra él desde 2016 (Rusiagate).
-- **FBI Raid (2022):** El allanamiento a Mar-a-Lago es visto como parte de esta guerra continua, buscando documentos que Trump podría estar usando como "seguro" (chantaje) contra otros actores políticos.
+### 1. Populismo con insercion de elite
 
-### 3. ¿Anti-Establishment O Falsa Oposición?
+Trump importa porque combina lenguaje antiestablishment con conexiones persistentes a redes empresariales, mediaticas y politicas del propio sistema que dice combatir.
 
-- **La Teoría de las Facciones:** Wikispooks sugiere que Trump no es anti-Deep State _per se_, sino que representa una facción diferente ("Conservative CIA/Military") contra la facción dominante ("Liberal/Rockefeller").
-- **Políticas:** A pesar de su retórica de "Drenar el Pantano", sus políticas económicas (recortes de impuestos, desregulación) favorecieron a la oligarquía tradicional.
-- **Complejo Militar-Industrial:** Criticó públicamente al MIC ("They always want to fight"), pero aumentó masivamente el presupuesto militar.
+### 2. Guerra faccional, no ruptura total
 
-### 4. El Factor Epstein
+En TL, su valor crece cuando se lo lee menos como enemigo externo del aparato y mas como expresion de una lucha entre bloques y facciones con distintas coaliciones dentro del Estado profundo, finanzas, inteligencia y partido republicano.
 
-- **Relación Antigua:** Trump y Epstein fueron amigos cercanos por años. Trump lo llamó "un tipo excelente" en 2002 y bromeó sobre su gusto por las mujeres jóvenes.
-- **Caso 2016:** Hubo una demanda por violación de una menor (13 años) contra Trump y Epstein en 2016, que fue retirada misteriosamente días antes de las elecciones.
+### 3. Plataforma para una nueva coalicion
 
-## Ángulos Posibles Para El Video
+Su relevancia aumenta porque bajo su orbitan o se reposicionan actores que empujan otra sintesis: nacionalismo economico, tecnocracia, vigilancia, industria, seguridad fronteriza y reconfiguracion del mando republicano.
 
-1. **Guerra Civil en el Deep State:** Trump no como un outsider, sino como el líder de una facción rebelde dentro de la élite.
-2. **El Mito del Salvador:** Contrastar su retórica populista con sus conexiones financieras (Rothschild, Wilbur Ross) y políticas reales.
-3. **Trump vs. La CIA:** Historia de cómo las agencias de inteligencia intentaron deslegitimar a un presidente electo desde el día 1.
+### 4. Figura polarizante como acelerador
 
-## Relacionado
+Trump sirve para leer como una personalidad hipermediatica puede funcionar a la vez como catalizador de desorden, realineamiento de elites y vehiculo para nuevas capas de cuadros y doctrinas.
 
-![1954892175281410141](https://x.com/HeyGenLabs/status/1954892175281410141 "Webb sobre Trump y los Rotshchild")
+## Con que conecta
+
+- [[JD Vance]]
+- [[Peter Thiel]]
+- [[Facciones MAGA]]
+- [[CIA]]
+- [[Complejo Militar-Industrial]]

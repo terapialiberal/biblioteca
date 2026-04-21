@@ -1,21 +1,20 @@
 ---
 publish: true
 aliases:
-  - Vanguard
   - The Vanguard Group
-  - Grupo Vanguard (Vanguard Group)
+  - Vanguard
 created: 2026-01-29T19:17:42.828-03:00
-modified: 2026-04-17T13:46:34.777-03:00
+modified: 2026-04-21T11:48:38.716-03:00
 tags:
-  - vanguard
-  - gestores-de-activos
-  - control-financiero
-  - propiedad-comun
-  - tl-intel-v3
+  - "#alias"
+  - "#vanguard"
+  - "#legacy"
+  - "#gestores-de-activos"
+  - "#tl-intel-v3"
 ---
 
 # Vanguard Group
 
-Nota espejo para enlaces en ingles y variantes históricas del nombre.
+Nodo legacy preservado para absorber naming en inglés.
 
-Ver nota compilada principal: [[Grupo Vanguard (Vanguard Group)]].
+Ver [[Grupo Vanguard (Vanguard Group)]].

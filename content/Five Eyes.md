@@ -1,45 +1,47 @@
 ---
-titulo: Five Eyes (Los Cinco Ojos)
-tipo: "persona"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [edward, estado, eyes, five]
 publish: true
+aliases:
+  - Los Cinco Ojos
+  - Five Eyes Alliance
+  - Cinco Ojos
+created: 2026-01-29T19:17:13.777-03:00
+modified: 2026-04-18T17:25:04.608-03:00
+tags:
+  - five-eyes
+  - sigint
+  - vigilancia-global
+  - alianza-anglo
+  - espionaje
+  - tl-intel-v3
 ---
 
-# Five Eyes (Los Cinco Ojos)
+# Five Eyes
 
-## Perfil TL (Resumen Ejecutivo)
+## BLUF
 
-**¿Qué es?** La alianza de inteligencia más poderosa, secreta y duradera de la historia, nacida del acuerdo secreto UKUSA tras la Segunda Guerra Mundial.
+[[Five Eyes]] es la alianza de inteligencia anglófona que articula intercambio masivo de señales, vigilancia global y bypass legal entre agencias de Estados Unidos, Reino Unido, Canadá, Australia y Nueva Zelanda. En TL importa como infraestructura transnacional de captura de información más que como simple cooperación antiterrorista.
 
-**¿Por qué importa?** Los Cinco Ojos constituyen el **sistema nervioso central del Tier A angloamericano**. Es una entidad supranacional que opera por encima de las leyes y constituciones nacionales. Su función principal es la **vigilancia total de las señales (SIGINT)** globales, pero su mayor "logro" es el **lavado legal del espionaje doméstico**: como la NSA (EE.UU.) no puede legalmente espiar a sus ciudadanos y el GCHQ (Reino Unido) tampoco a los suyos, las agencias intercambian datos. La NSA espía a los británicos para Londres, y el GCHQ espía a los americanos para Washington. Este "bypass" constitucional ha creado un Panóptico global donde nada —correo electrónico, llamada, transacción financiera o metadato— escapa a la captura. Es el brazo ejecutor del control de información del **[[Estado profundo]]** global, asegurando que el Tier A siempre tenga la ventaja de la anticipación ante cualquier disidencia de Tier C.
+## Por qué importa en TL
 
-## Análisis De Poder (Tiers)
+- muestra cómo la vigilancia sistémica puede saltar límites legales nacionales mediante intercambio entre aliados;
+- conecta inteligencia, geopolítica angloamericana y control de disidencia en una misma arquitectura;
+- ayuda a leer programas como SIGINT masivo, bases compartidas y filtrado algorítmico como poder estructural, no como excepción.
 
-### Tier A (El Núcleo De La Alianza)
+## Qué cambió
 
-- **Soberanía de Datos:** Los Cinco Ojos son el verdadero "Gobierno Mundial" en la sombra. No responden a parlamentos, sino a una red de oficiales de inteligencia y élites financieras que ven al mundo como un campo de batalla de información único.
-- **ECHELON y XKeyscore:** Herramientas técnicas de Tier A que permiten filtrar todo el tráfico de internet en tiempo real. Es el ojo que todo lo ve de la mitología masónica hecho fibra óptica.
+Había tres versiones compitiendo por el mismo objeto: `Five Eyes`, `Five Eyes Alliance_LEGACY` y `Cinco Ojos_LEGACY`. Se recompila `Five Eyes` como nodo canónico porque ya concentraba backlinks y mejor inserción en el grafo; las otras dos quedan como espejos de compatibilidad.
 
-### Tier B (Operadores / Las Agencias Nucleares)
+## Lectura TL
 
-- **NSA / GCHQ / CSE / ASD / GCSB:** Las cinco agencias que operan el sistema. Son estados dentro de los estados, con presupuestos negros multimillonarios y tecnología décadas por delante de la civil.
-- **Guerra contra la Privacidad:** Cualquier tecnología que amenace su monopolio (como el cifrado de extremo a extremo o Huawei) es atacada mediante operaciones de Tier B mediáticas y legislativas para mantener el "backdoor" abierto.
+La clave de Five Eyes no es solo el volumen técnico de vigilancia, sino el truco institucional. Cuando una agencia no puede espiar legalmente a sus propios ciudadanos, otra aliada puede hacerlo y compartir luego el resultado. Ese circuito vuelve más porosa la frontera entre seguridad externa y control interno.
 
-### Tier C (Narrativa Pública)
+En TL, Five Eyes también sirve para leer la persistencia del bloque anglo más allá de cambios partidarios. La alianza funciona como sistema nervioso de anticipación, clasificación y presión, donde la soberanía efectiva pasa cada vez más por quién ve primero, cruza mejor y decide qué señal merece intervención.
 
-- "Cooperación contra el terrorismo". "Protección de las democracias occidentales". Narrativas que convencen al público de que su pérdida de privacidad es un precio justo por la seguridad, sin mencionar que el sistema espía principalmente a líderes políticos, periodistas y disidentes sistémicos.
+## Con qué conecta
 
-## Conexiones Clave
-
-- [[NSA (National Security Agency)]] (El socio mayoritario)
-- [[Edward Snowden]] (El hombre que desmanteló el secreto de Tier A)
-- [[Julian Assange]] (El perseguido por exponer la red)
-- [[ECHELON|Echelon]] (El antecesor analógico)
-
-## Por Qué Importa (Estilo Nico)
-
-> "Los Cinco Ojos son los tipos que te están leyendo este mensaje antes que yo. Es el club de los cinco países de habla inglesa que decidieron que las leyes son para los bobos. Inventaron un truco de magia: 'yo no te espío a vos, pero mi primo el australiano sí, y después nos pasamos el chisme en el recreo'. Así se saltean la Constitución y saben todo: con quién te acostás, qué comprás y qué pensás votar. Es la red de espionaje más grande de la historia y es el guardaespaldas del Tier A. Si alguna vez te preguntaste por qué los políticos americanos y los ingleses siempre dicen lo mismo, es porque tienen el mismo auricular puesto en la oreja."
+- [[Agencia de Seguridad Nacional]]
+- [[GCHQ]]
+- [[Edward Snowden]]
+- [[Red Echelon]]
+- [[XKeyscore]]
+- [[Estado profundo]]

@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Biometría Global
 created: 2026-01-29T19:17:05.419-03:00
-modified: 2026-04-17T16:28:43.317-03:00
+modified: 2026-04-17T16:28:36.316-03:00
 tags:
   - biometria
   - reconocimiento-facial

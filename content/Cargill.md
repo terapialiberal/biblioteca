@@ -1,51 +1,51 @@
 ---
-titulo: Cargill
-tipo: "concepto"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [archer, cargill, cartel]
 publish: true
+created: 2026-01-29T19:17:06.450-03:00
+modified: 2026-04-19T12:50:56.593-03:00
+tags:
+  - cargill
+  - agroindustria
+  - granos
+  - logistica
+  - alimentos
+  - tl-intel-v3
 ---
 
 # Cargill
 
-## Perfil TL (Resumen Ejecutivo)
+## BLUF
 
-**¿Qué es?** La corporación privada (no cotiza en bolsa) más grande de los Estados Unidos. Controla la mayor parte de la cadena de suministro de alimentos, granos y logística agrícola del planeta.
+[[Cargill]] importa en TL como uno de los nodos centrales de la agroindustria global. Su valor no está solo en comerciar granos o procesar alimentos, sino en controlar infraestructura, logística, financiamiento y acceso a mercados dentro de un sistema alimentario cada vez más concentrado.
 
-**¿Por qué importa?** Cargill es el **dueño silencioso del plato de comida del mundo**. Al ser una empresa privada, no está obligada a la transparencia de los reportes trimestrales de Wall Street, lo que le permite operar como un "Estado soberano" en las sombras. Es el miembro dominante del **Cartel ABCD**, las cuatro empresas que controlan el 70-90% del comercio mundial de granos. Si querés saber por qué sube el precio de la comida, no mires al supermercado; mirá a Cargill.
+## Por que importa en TL
 
-## Análisis De Poder (Tiers)
+- conecta producción primaria, acopio, puertos, trading y procesamiento en una misma arquitectura corporativa;
+- ayuda a leer cómo la seguridad alimentaria de países enteros puede quedar mediada por pocos operadores privados;
+- funciona como nodo principal del corredor [[Sistema Alimentario]] / [[Cartel de Granos (ABCD)]] / [[Control Alimentario]].
 
-### Tier A (Los Dueños De La Biomasa)
+## Que cambio
 
-- **Invisibilidad Estratégica:** Al ser de propiedad familiar (Cargill-MacMillan), operan sin la presión del público, permitiéndoles tomar decisiones geopolíticas a largo plazo. Controlan la infraestructura física (puertos, barcos, silos) de la que dependen las naciones para no morir de hambre.
-- **Control del Precio Global:** Su capacidad de acopio y trading les otorga un poder de veto sobre la seguridad alimentaria de países enteros.
+La nota seguía en formato viejo y mal tipada como concepto. Se recompila como entidad reusable para dejar mejor diferenciados escala, función estratégica y lectura TL.
 
-### Tier B (Operativa / Gestión De Commodities)
+## Lectura TL
 
-- **Cartelización:** Coordinan con ADM y Bunge para estabilizar precios y márgenes, actuando como el brazo ejecutor de la política agrícola de EE.UU. en el extranjero.
-- **Financiamiento del Lote:** En países como Argentina, Cargill no solo compra grano; financia al productor, controla el puerto y gestiona la logística, convirtiéndose en el "Estado real" del campo.
+### 1. Infraestructura antes que marca
 
-### Tier C (Narrativa Pública)
+Cargill importa porque su poder real no depende de visibilidad pública, sino de controlar capas poco vistosas pero decisivas: puertos, silos, transporte, originación y procesamiento.
 
-- "Ayudando al mundo a prosperar". "Compromiso con la sostenibilidad y la nutrición". Marketing verde para ocultar décadas de denuncias por deforestación agresiva y monopolización de recursos hídricos.
+### 2. Concentración con opacidad
 
-## Conexiones Clave
+En TL, su relevancia aumenta al observar que una empresa privada no cotizada puede tener un peso estructural enorme sin someterse al mismo escrutinio que otras corporaciones más expuestas.
 
-- [[Cartel de Granos (ABCD)]] (Su clan)
-- [[Archer Daniels Midland]] (Su competidor/socio)
-- [[Campo y Retenciones]] (Su fuente de riqueza en LatAm)
-- [[BlackRock]] (Aunque Cargill es privada, BlackRock financia la infraestructura que Cargill utiliza)
+### 3. De mercado a palanca geopolítica
 
-## Fuentes
+Su potencia aparece cuando alimentos, commodities y logística dejan de ser solo negocio y pasan a funcionar como instrumento de presión, dependencia o arbitraje sobre regiones enteras.
 
-- Dan Morgan: "Merchants of Grain".
-- Reportes de sostenibilidad (y las críticas de Greenpeace).
-- Rankings anuales de Forbes sobre empresas privadas.
+## Con que conecta
 
-## Por Qué Importa (Estilo Nico)
-
-> "Cargill es la empresa que maneja el mundo pero de la que nadie habla. Son los que deciden si mañana hay harina en El Cairo o soja en Beijing. No necesitan salir a la bolsa porque ya son dueños de la comida, que es el dividendo más real que existe. Son el Tier A que entendió que es mejor no ser famoso mientras seas el que tiene la llave de la despensa global."
+- [[Sistema Alimentario]]
+- [[Archer Daniels Midland]]
+- [[Cartel de Granos (ABCD)]]
+- [[Control Alimentario]]
+- [[BlackRock]]
+- [[Campo y Retenciones]]

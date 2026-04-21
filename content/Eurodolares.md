@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:12.602-03:00
-modified: 2026-04-17T14:23:13.540-03:00
+modified: 2026-04-17T14:23:06.962-03:00
 tags:
   - eurodolares
   - dolar

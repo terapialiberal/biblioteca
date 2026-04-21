@@ -37,7 +37,7 @@ publish: true
 
 - [[Estado profundo|Estado Profundo]] (Su socio en la sombra)
 - [[Foro Económico Mundial (WEF)]] (Su punto de encuentro global)
-- [[CFR (Council on Foreign Relations)]] (Su cerebro de política exterior)
+- [[CFR]] (Su cerebro de política exterior)
 - [[Tecnofeudalismo]] (Su evolución actual)
 
 ## Fuentes

@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Stéphane Bancel
 created: 2026-01-29T19:17:37.928-03:00
-modified: 2026-04-17T18:27:26.244-03:00
+modified: 2026-04-17T18:27:30.318-03:00
 tags:
   - bancel
   - moderna

@@ -1,48 +1,51 @@
 ---
 publish: true
 created: 2026-01-29T19:17:27.189-03:00
-modified: 2026-04-07T11:48:59.750-03:00
+modified: 2026-04-19T12:25:36.841-03:00
 tags:
-  - jankowicz
-  - ministerio
-  - newsguard
-  - wilson
+  - nina-jankowicz
+  - desinformacion
+  - dgb
+  - censura
+  - dhs
+  - tl-intel-v3
 ---
 
-# Nina Jankowicz: El Rostro Del Ministerio De La Verdad
+# Nina Jankowicz
 
-> [!ABSTRACT] Hipótesis Informativa
-> Nina Jankowicz no fue un error burocrático, sino un **fusible deliberado**. Su nombramiento como directora del _Disinformation Governance Board_ (DGB) sirvió para testear la resistencia social (Tier C) ante la institucionalización de la censura estatal. Al ser "sacrificada" mediáticamente, la función de gobernanza de la verdad se desplazó de la esfera pública (DHS) a la privada (Big Tech y ONGs), donde hoy opera con mayor eficacia e invisibilidad.
+## BLUF
 
-## Análisis De Tiers
+[[Nina Jankowicz]] importa en TL como figura visible de la institucionalización fallida pero reveladora de la gobernanza estatal de la verdad. Su valor no está solo en su persona, sino en cómo su exposición pública mostró el costo político de hacer explícito un modelo de control narrativo que luego siguió funcionando por vías más opacas.
 
-### Tier A: Los Arquitectos Del Silencio
+## Por que importa en TL
 
-- **Think Tanks y Política Exterior:** Su trayectoria en el [[Wilson Center]] y sus conexiones con redes de inteligencia británicas demuestran que es una pieza de la infraestructura global de "seguridad cognitiva". El Tier A utiliza figuras como Jankowicz para normalizar la idea de que la información es un arma que debe ser regulada por "expertos".
-- **Gobernanza Público-Privada:** El colapso del DGB permitió que el Tier A subcontratara la censura a entidades como [[NewsGuard]] o el _Election Integrity Partnership_, eliminando la supervisión constitucional directa.
+- conecta seguridad informativa, aparatos estatales y pedagogía pública de la censura;
+- ayuda a leer cómo el sistema testea aceptación social antes de reabsorber una función polémica en formas más difusas;
+- funciona como nodo puente hacia [[Disinformation Governance Board]].
 
-### Tier B: El Operador Estético (Jankowicz)
+## Que cambio
 
-- **Infantilización de la Tiranía:** Mediante el uso de vídeos musicales y una estética de "Mary Poppins", Jankowicz intentó transformar la supresión de la libertad de expresión en un acto de "cuidado cívico". Es el prototipo del burócrata de Tier B que confunde la lealtad partidaria con el rigor científico.
-- **Protección del Régimen:** Su rol fue desacreditar verdades inconvenientes (como el caso de la [[Hunter Biden Laptop]]) etiquetándolas preventivamente como "desinformación", actuando como un escudo protector para la clase política de Tier B.
+La nota seguía en formato viejo y muy teatralizada. Se recompila como perfil reusable para que sirva como pieza del corredor, no como caricatura aislada.
 
-### Tier C: El Objetivo De La Vigilancia
+## Lectura TL
 
-- **El Ciudadano Desinformado:** La narrativa de Jankowicz posiciona al Tier C como una masa incapaz de procesar información de forma crítica, justificando así la necesidad de un "pastoreo algorítmico".
+### 1. El fusible visible
 
-## ¸ Mecanismos De Poder
+Jankowicz importa porque su exposición personal volvió legible una ambición de control narrativo que normalmente el sistema prefiere distribuir entre expertos, verificadores, think tanks y plataformas.
 
-1. **Pre-bunking:** Técnica de inoculación psicológica para que el público rechace información antes de conocerla, bajo la premisa de que "voto por el enemigo".
-2. **Gobernanza de la Verdad:** El intento de crear un oráculo estatal que defina la realidad, eliminando el pluralismo epistémico necesario para una sociedad libre.
-3. **Censura por Proxy:** Tras su salida del DHS, Jankowicz ha continuado abogando por marcos legales que presionen a las redes sociales para censurar discursos, moviendo el eje de la coerción del Estado a la corporación.
+### 2. Fracaso aparente, desplazamiento real
 
-## Conexiones Críticas
+En TL, su caso vale por mostrar que un retroceso institucional visible no necesariamente elimina la función. Muchas veces la desplaza a canales menos audibles y constitucionalmente más difíciles de atacar.
 
-- [[DHS (Departamento de Seguridad Nacional)]]: La matriz madre del control psicopolítico en EE.UU.
-- [[Complejo Industrial de la Censura]]: El ecosistema de ONGs, universidades y agencias que ella personifica.
-- [[Renee DiResta]]: Su equivalente técnica y estratégica en el ámbito académico.
-- [[Meta Platforms]] / [[Google]]: Los ejecutores finales de la visión de gobernanza que ella propuso.
+### 3. Estética y legitimación
 
-## Conclusión Del Análisis
+Su perfil también ayuda a pensar cómo la pedagogía del control puede envolverse en lenguaje afectivo, juvenil o performático para volver menos amenazante una infraestructura dura de clasificación narrativa.
 
-Nina Jankowicz es el recordatorio de que **el sistema prefiere ser humillado a ser detenido**. Su aparente fracaso fue un éxito operativo: desvió la atención hacia su persona mientras los algoritmos de censura se integraban profundamente en el tejido de internet. Ella fue el payaso para que el circo pudiera instalarse sin ser visto.
+## Con que conecta
+
+- [[Disinformation Governance Board]]
+- [[DHS (Departamento de Seguridad Nacional)]]
+- [[Complejo Industrial de la Censura]]
+- [[Renee DiResta]]
+- [[Hunter Biden Laptop]]
+- [[NewsGuard]]

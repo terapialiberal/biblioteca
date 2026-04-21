@@ -1,42 +1,58 @@
 ---
 publish: true
 created: 2026-01-29T19:17:30.596-03:00
-modified: 2026-04-07T11:49:18.079-03:00
+modified: 2026-04-18T18:31:49.230-03:00
 tags:
-  - cambio
-  - george
-  - pierre
-  - privatizador
+  - pierre-omidyar
+  - medios
+  - filantrocapitalismo
+  - soft-power
 ---
 
-# Pierre Omidyar: El Privatizador Del Cambio De Régimen
+# [[Pierre Omidyar]]
 
-> [!ABSTRACT] Hipótesis Informativa
-> Pierre Omidyar es el **Operador de [[Tier A]] encargado de la captura del periodismo y el Soft Power** global. Tras amasar su fortuna con eBay, Omidyar construyó la **[[Omidyar Network]]**, una vasta red de ONGs, medios de comunicación y fact-checkers que sirven como el brazo privatizado de la inteligencia atlantista. Su función es financiar "Revoluciones de Color" (Ucrania, Myanmar), controlar la narrativa de la disidencia mediante la captura de periodistas (The Intercept) y edificar la infraestructura técnica de la censura digital bajo el pretexto de combatir la "desinformación". Es el herdero táctico de **[[George Soros]]** para la era de la información centralizada.
+> [!abstract]
+> Empresario y financiador con influencia en medios, ONGs, fact-checking y proyectos de "sociedad civil" vinculados a gobernanza liberal-global y soft power.
 
-## Análisis De Tiers
+## Qué es
 
-### Tier A (Los Arquitectos De La Verdad Oficial)
+Pierre Omidyar, conocido por eBay y por su red filantrópica y mediática, es relevante como financiador de plataformas, fundaciones y proyectos con impacto sobre narrativa pública, activismo, innovación cívica y regulación de la información.
 
-- **La Captura del Whistleblowing:** Para el Tier A, las filtraciones de Snowden fueron un peligro que debía ser gestionado. Omidyar fundó _The Intercept_ y contrató a Glenn Greenwald para **Centralizar y Neutralizar** los archivos de la NSA. Al poseer el medio y pagar los salarios, el Tier A asegura que la publicación de secretos estatales sea dosificada y filtrada para no dañar los intereses nucleares del sistema. Cuando el periodismo real intentó emerger (Caso Hunter Biden), Omidyar activó el mecanismo de censura, forzando la salida de Greenwald y demostrando que _The Intercept_ es, en realidad, un nodo de contención de daños.
+Su peso no pasa solo por riqueza personal, sino por la capacidad de irrigar instituciones intermedias que después operan como árbitros de legitimidad.
 
-### Tier B (Los Operadores De La Censura Fact-Checked)
+## Por qué importa en TL
 
-- **La Red de Fact-Checking:** El Tier B financiero de Omidyar sostiene al "International Fact-Checking Network" (IFCN). Estos agentes son los **Censores Delegados de la Matrix**: deciden qué es verdad y qué es mentira en Meta, Google y X. Al financiar a los verificadores de datos, Omidyar ha logrado que la disidencia de **[[Tier C]]** sea estigmatizada como "fake news" o "desinformación" por entidades aparentemente independientes que reciben órdenes directas de sus fondos. Es la **Inquisición Tecnocrática** financiada por un multimillonario con agenda de seguridad nacional.
+En TL, Omidyar importa para estudiar una forma de poder menos visible que la coerción estatal directa: el filantrocapitalismo que financia medios, verificadores, ONGs y marcos de intervención política bajo lenguaje de apertura, transparencia o democracia.
 
-## Mecanismos De Poder (Mediáticos Y Políticos)
+Eso lo vuelve útil para pensar:
 
-1. **Co-Financiamiento con la USAID**: Omidyar trabaja habitualmente junto a la agencia de inteligencia "suave" de EE.UU. para financiar grupos opositores en países estratégicos, permitiendo que el cambio de régimen parezca un movimiento de "sociedad civil" espontáneo.
-2. **Philantro-Capitalism de Vigilancia**: Inversión en tecnologías de identificación biométrica y bases de datos ciudadanas en África e India, bajo la excusa de la "inclusión financiera", preparando el terreno para el Crédito Social global.
+- captura blanda de disidencia
+- soft power privatizado
+- mediación entre capital, activismo y gobernanza
+- producción de verdad institucional
 
-## Conexiones Críticas
+## Claves de lectura
 
-- [[The Intercept]]: Su plataforma de captura de disidencia periodística.
-- [[USAID]]: Su socio estatal en operaciones de cambio de régimen.
-- [[George Soros]]: Con quien coordina el financiamiento de fact-checkers globales.
-- [[00_Glosario - Conceptos Fase 1#Glenn Greenwald|Glenn Greenwald]]: El periodista que expuso la censura interna de la red Omidyar.
-- [[Panama Papers]]: Por el financiamiento selectivo del consorcio que publicó el leak.
+### Financiamiento de intermediarios
 
-## Conclusión Del Análisis
+La influencia no opera solo desde un medio propio. También pasa por sostener ecosistemas enteros de validación, activismo y narrativa.
 
-Pierre Omidyar nos enseña que **el multimillonario "filántropo" es el agente de inteligencia más eficaz del siglo XXI**. Nos advierte que no existe el periodismo libre financiado por el capital que sostiene la guerra y la censura. Para el individuo soberano del Tier C, Omidyar es el recordatorio de que la "verdad" en redes sociales es un producto comprado y pagado para proteger al sistema. La libertad real exige la construcción de medios financiados exclusivamente por sus lectores y el uso de tecnologías que escapen al ojo de los fact-checkers de la red atlantista de Omidyar.
+### Periodismo y contención
+
+Su nombre aparece en debates sobre whistleblowing, medios y límites de la publicación cuando el capital que financia una plataforma también condiciona su perímetro real de acción.
+
+### Sociedad civil como vector
+
+Omidyar es una buena entrada para estudiar cómo agendas geopolíticas pueden canalizarse a través de actores privados con estética cívica.
+
+## Conexiones clave
+
+- [[The Intercept]]
+- [[USAID]]
+- [[George Soros]]
+- [[Glenn Greenwald]]
+- [[Fact-Checking]]
+
+## Observación operativa
+
+Pierre Omidyar sirve para mapear la zona gris entre filantropía, medios e influencia política transnacional.

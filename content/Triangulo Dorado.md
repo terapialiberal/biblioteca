@@ -32,7 +32,7 @@ Creó la epidemia de heroína en EEUU de los años 70.
 ## Conexiones
 
 - [[CIA Narcotráfico]]
-- [[Air America (La aerolínea de la CIA)]]
+- [[Air America]]
 - [[Comercio ilegal de drogas]]
 
 ## Fuentes

@@ -1,36 +1,46 @@
 ---
-titulo: Banca en la Sombra - Shadow Banking
-tipo: "concepto"
-tier_primario: "b"
-nivel_evidencia: "alto"
-estado: activo
-tags: [finanzas, liquidez, off-shore, riesgo-sistemico]
 publish: true
+aliases:
+  - Shadow Banking
+  - Banca en la Sombra - El Sistema Financiero Paralelo (Shadow Banking)
+created: 2026-03-04T14:12:08.828-03:00
+modified: 2026-04-18T15:49:09.833-03:00
+tags:
+  - shadow-banking
+  - liquidez
+  - apalancamiento
+  - colateral
+  - riesgo-sistemico
+  - tl-intel-v3
 ---
 
-# Banca en la Sombra: Shadow Banking (V.3)
+# Banca en la Sombra
 
-> [!DANGER] DEFINICIÓN FORENSE
-> El Shadow Banking es el sistema de intermediación crediticia que involucra a entidades fuera del sistema bancario regulado. Es la "liquidez negra" que alimenta las operaciones de Nivel 2.
+## BLUF
 
-## 👁️ Análisis de Estructura
+[[Banca en la Sombra]] es el circuito de intermediación crediticia y liquidez que opera fuera de la banca regulada clásica. En TL importa como infraestructura de apalancamiento opaco: permite expandir crédito, reciclar colateral y mover riesgo sistémico sin exponer toda la mecánica al escrutinio público.
 
-No son "bancos" en el sentido tradicional, pero realizan funciones bancarias (préstamos, swaps, derivados) sin los requisitos de reserva.
+## Por qué importa en TL
 
-### Jugadores Clave
+- muestra que la creación de dinero y riesgo no termina en la banca comercial tradicional;
+- conecta mercados repo, derivados, SPV y fondos con la fragilidad estructural del sistema;
+- ayuda a leer rescates, crisis de liquidez y tokenización como continuidad del mismo problema.
 
-- **Hedge Funds:** [[Renaissance Technologies]], [[Bridgewater Associates]].
-- **Private Equity:** [[Blackstone]], [[KKR]], [[Carlyle Group]] (Nexo militar).
-- **Vehículos de Propósito Especial (SPV):** Utilizados para ocultar deuda y colateral.
+## Qué cambió
 
-## ⚙️ Modus Operandi
+Coexistían dos notas casi equivalentes con framing distinto. Se recompila `Banca en la Sombra` como versión canónica por claridad conceptual y reutilización; la variante larga `Banca en la Sombra - El Sistema Financiero Paralelo (Shadow Banking)` queda como espejo para absorber enlaces existentes.
 
-1. **Rehipotecación de Colateral:** Un mismo activo se usa para respaldar múltiples préstamos, creando una torre de deuda frágil.
-2. **Arbitraje Regulatorio:** Mueven capital a jurisdicciones off-shore ([[Clearstream]], Islas Caimán) para evitar el escrutinio del [[Tier C]].
-3. **Rescate Garantizado:** Cuando el sistema de sombras colapsa, el [[Tier A]] fuerza al Estado a rescatar los bancos tradicionales que están interconectados con las sombras.
+## Lectura TL
 
-## 🔗 Nodos Relacionados
+La banca en la sombra no es una anomalía marginal sino una capa constitutiva del sistema financiero contemporáneo. Ahí se condensa una lógica central del orden actual: privatizar ganancias mediante opacidad, pero socializar pérdidas cuando la pirámide de colateral o liquidez se rompe.
 
-- [[Colateral y Rehipotecacion]]: La base técnica.
-- [[Derivados]]: Las armas de destrucción financiera.
-- [[Carlyle Group]]: El nexo entre la banca de sombra y la industria de defensa.
+También sirve para enlazar finanzas legales e ilegales sin trazar una frontera ingenua entre ambas. Cuando el sistema necesita rendimiento, arbitraje regulatorio o ingeniería de riesgo, la zona gris deja de ser una excepción y pasa a ser motor operativo.
+
+## Con qué conecta
+
+- [[Colateral y Rehipotecacion]]
+- [[Credito privado]]
+- [[Banco de Pagos Internacionales]]
+- [[City de Londres]]
+- [[Derivados]]
+- [[Tokenizacion de Activos Reales]]

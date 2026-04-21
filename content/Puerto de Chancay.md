@@ -42,6 +42,6 @@ publish: true
 
 ## 🔗 Conexiones Críticas
 
-- [[Belt and Road Initiative (BRI)]]: El marco maestro.
+- [[Belt and Road Initiative]]: El marco maestro.
 - [[Triángulo del Litio]]: Chancay es la salida física para el "oro blanco".
 - [[Corredor IMEC (India-Middle East-Europe)]]: La respuesta occidental para eludir a China.

@@ -1,50 +1,51 @@
 ---
-titulo: Archer Daniels Midland (ADM)
-tipo: "persona"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [archer, bunge, cargill, daniels]
 publish: true
+created: 2026-01-29T19:17:03.800-03:00
+modified: 2026-04-19T12:50:57.926-03:00
+tags:
+  - archer-daniels-midland
+  - adm
+  - agroindustria
+  - granos
+  - procesamiento
+  - tl-intel-v3
 ---
 
-# Archer Daniels Midland (ADM)
+# Archer Daniels Midland
 
-## Resumen Ejecutivo
+## BLUF
 
-**¿Qué es?** Uno de los cuatro gigantes mundiales que dominan el comercio de materias primas agrícolas (el cartel **ABCD**: ADM, [[Bunge]], [[Cargill]] y [[Louis Dreyfus]]).
+[[Archer Daniels Midland]] importa en TL como una de las grandes piezas del oligopolio agroindustrial global. Su valor no está solo en el comercio de commodities, sino en integrar procesamiento, insumos, logística y acceso a mercados dentro de una cadena alimentaria altamente concentrada.
 
-**¿Por qué importa?** ADM controla el procesamiento y la logística de lo que el mundo come. Sus redes de silos, barcazas y plantas de procesamiento son la infraestructura de la **seguridad hídrica y alimentaria**. Tienen un historial documentado de fijación de precios y prácticas monopolísticas que eliminan la soberanía alimentaria de las naciones.
+## Por que importa en TL
 
-## Análisis De Poder (Tiers)
+- conecta granos, biocombustibles, ingredientes y finanzas del agro en una misma plataforma corporativa;
+- ayuda a leer cómo la alimentación global depende de operadores que combinan escala física y poder de mercado;
+- funciona como nodo del corredor [[Sistema Alimentario]] / [[Cargill]] / [[Cartel de Granos (ABCD)]].
 
-### Tier A (Centralización / Propiedad)
+## Que cambio
 
-- **El Grifo de la Comida:** Junto con sus tres socios del cartel, ADM controla el 70-90% del comercio mundial de granos. Tienen la capacidad de generar escasez artificial o de manipular los precios de la canasta básica en cualquier país.
-- **Control del Agro:** Son los que imponen las semillas, los pesticidas y los contratos de compra a los productores, convirtiendo al campo en una maquila corporativa.
+La nota estaba mal tipada como persona y seguía en formato manifiesto viejo. Se recompila como entidad reusable para separar mejor función económica, concentración y lectura política.
 
-### Tier B (Operativa / Puerta Giratoria)
+## Lectura TL
 
-- **Lobby de Subsidios:** Son los mayores beneficiarios de los subsidios al etanol y al maíz en EE.UU., extrayendo dinero público mediante la influencia en el Departamento de Agricultura (USDA).
-- **Escándalo de la Lisina:** En los 90, fueron pillados en una conspiración global de fijación de precios, demostrando que su narrativa de "libre mercado" es una fachada para un cartel coordinado.
+### 1. Procesar es gobernar
 
-### Tier C (Narrativa Pública)
+ADM importa porque parte del poder alimentario no se juega solo en sembrar o cosechar, sino en transformar, almacenar, financiar y mover volúmenes masivos a escala global.
 
-- "Supermarket to the World" (Supermercado para el mundo). Se presentan como los alimentadores de la humanidad y los campeones de la eficiencia agrícola.
+### 2. Oligopolio con lenguaje de eficiencia
 
-## Conexiones Clave
+En TL, su relevancia crece cuando la retórica de eficiencia agrícola oculta niveles altos de coordinación, influencia regulatoria y capacidad para moldear precios y dependencia.
 
-- [[Cargill]], [[Bunge]] y [[Louis Dreyfus]] (Los otros jinetes del cartel ABCD)
-- [[00_Glosario - Conceptos Fase 1#Monsanto / Bayer|Monsanto / Bayer]] (Relación simbiótica de insumos)
-- [[BlackRock]] y [[Vanguard]] (Accionistas mayoritarios)
+### 3. Agroindustria como infraestructura de mando
 
-## Fuentes
+Su lugar en la base no es el de simple trader, sino el de operador estructural dentro de un sistema donde comida, energía, puertos y financiamiento quedan cada vez más acoplados.
 
-- James Lieber: "Rats in the Grain: The Dirty Rise and Fall of Archer Daniels Midland".
-- "The Informant" (libro y película basados en el informante Mark Whitacre).
-- Reportes financieros de ADM ante la SEC.
+## Con que conecta
 
-## Por Qué Importa (Estilo Nico)
-
-> "Si querés controlar un pueblo, controlale la energía. Si querés que el pueblo esté de rodillas, controlale la comida. ADM no es una empresa de granitos de maíz; es el administrador de la hambruna y la abundancia global. Son los tipos que deciden cuánto va a subir el pan en tu barrio basándose en una apuesta financiera en Chicago. El cartel ABCD es el gobierno real de tus calorías."
+- [[Sistema Alimentario]]
+- [[Cargill]]
+- [[Bunge]]
+- [[Louis Dreyfus]]
+- [[Cartel de Granos (ABCD)]]
+- [[BlackRock]]

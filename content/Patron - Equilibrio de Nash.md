@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-28T15:09:30.113-03:00
-modified: 2026-04-07T10:51:19.886-03:00
+modified: 2026-04-07T10:51:02.094-03:00
 tags:
   - game-theory
   - tl-v3

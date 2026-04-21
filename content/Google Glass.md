@@ -1,44 +1,51 @@
 ---
-titulo: Google Glass
-tipo: "entidad"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [glass, google, vigilancia]
 publish: true
+created: 2026-01-29T19:17:15.853-03:00
+modified: 2026-04-19T12:38:36.188-03:00
+tags:
+  - google-glass
+  - wearables
+  - vigilancia
+  - realidad-aumentada
+  - google
+  - tl-intel-v3
 ---
 
 # Google Glass
 
-## Perfil TL (Resumen Ejecutivo)
+## BLUF
 
-**¿Qué fue?** Un dispositivo de computación vestible en forma de gafas que permitía grabar video, tomar fotos y acceder a Internet directamente frente al ojo del usuario.
+[[Google Glass]] importa en TL como ensayo temprano de aceptación social para computación vestible y captura ubicua de datos desde el cuerpo. Su valor no estuvo tanto en el éxito comercial como en haber testeado el umbral cultural de tolerancia a la vigilancia integrada en la mirada cotidiana.
 
-**¿Por qué importa?** Google Glass fue un **Beta-Test de Aceptación Social de la Vigilancia Omnipresente**. El Tier A lanzó este producto no para venderlo masivamente, sino para medir la **"Fricción de Privacidad"** del público de Tier C. El fracaso comercial de las gafas —cuyos usuarios fueron apodados despectivamente como **"Glassholes"**— demostró que en 2013 la sociedad aún poseía un instinto de defensa contra ser grabada subrepticiamente en interacciones cara a cara. Fue la primera vez que la tecnocracia de Tier A tuvo que retroceder ante un rechazo cultural masivo. Sin embargo, las lecciones aprendidas permitieron al Tier A mutar la tecnología hacia formas más sutiles e integradas (cámaras en timbres, reconocimiento facial en calles y redes sociales).
+## Por que importa en TL
 
-## Análisis De Poder (Tiers)
+- conecta wearables, realidad aumentada y vigilancia normalizada;
+- ayuda a leer cómo productos fallidos pueden funcionar igual como pruebas de fricción social;
+- funciona como antecedente de un ecosistema más amplio de dispositivos inmersivos y sensores distribuidos.
 
-### Tier A (Los Diseñadores Del Panóptico)
+## Que cambio
 
-- **Normalización de la Mirada:** El objetivo de Tier A era eliminar la privacidad en el espacio público mediante la democratización del espionaje. Querían que cada ciudadano se convirtiera en un nodo sensor para su base de datos global. El rechazo del Tier C fue una anomalía que el Tier A analizó para reajustar su estrategia de implementación lenta (**Incrementalismo**).
+La nota estaba en formato viejo y demasiado cerrada en clave manifiesto. Se recompila como producto reusable para fijar mejor el aprendizaje estratégico que deja el caso.
 
-### Tier B (Operadores / Marketing De Google)
+## Lectura TL
 
-- **La Elite de los "Explorers":** Google (Tier B) seleccionó a influencers y tecnófilos para usar las gafas, creando una distinción de clase tecnológica que terminó siendo contraproducente, ya que generó un rechazo instintivo en el Tier C hacia la "arrogancia del vigilante".
-- **Retirada Estratégica:** Tras el rechazo, el Tier B movió el producto hacia el sector industrial (fábricas y medicina), donde la privacidad del trabajador es nula, manteniendo viva la tecnología para su futuro regreso al mercado masivo bajo una narrativa diferente.
+### 1. Test de tolerancia cultural
 
-### Tier C (Narrativa Pública)
+Google Glass importa porque permitió medir cuánto rechazo genera una tecnología que vuelve opaca la frontera entre ver, registrar y transmitir.
 
-- "La próxima gran revolución tecnológica". "El futuro de la comunicación". Narrativas publicitarias que fallaron ante la realidad de que el Tier C se sintió amenazado en su intimidad básica, prohibiendo la entrada de usuarios de Glass en bares, cines y casinos.
+### 2. Retroceso táctico, no abandono
 
-## Conexiones Clave
+En TL, su valor aparece cuando se observa que un mal recibimiento social no implica fracaso estructural. Muchas veces solo obliga a desplazar la misma lógica hacia formatos más discretos, sectoriales o mejor narrados.
 
-- [[Google (Orígenes)]] (La empresa madre)
-- [[Vigilancia Masiva]] (El objetivo táctico)
-- [[Panóptico Digital]] (El marco teórico)
-- [[Reconocimiento Facial]] (La evolución tecnológica)
+### 3. Del ojo al entorno
 
-## Por Qué Importa (Estilo Nico)
+El producto sirve para pensar cómo la visión aumentada y la captura ambiental se integran gradualmente al tejido cotidiano sin necesidad de una adopción frontal e inmediata.
 
-> "Google Glass fue el momento en que los de arriba quisieron ver si nos podíamos acostumbrar a que cualquiera nos grabe en la cara todo el tiempo. Fue la primera vez que la gente reaccionó de verdad: a los que las usaban les decían 'Glassholes' y les cerraban la puerta en la cara. Fue una victoria corta de la privacidad. Pero ojo, que no se rindieron; simplemente aprendieron que por ahora no aceptamos la cámara en el ojo, así que nos la pusieron en el timbre de la casa o en el celular. Google Glass fue el test de resistencia que perdimos a medias."
+## Con que conecta
+
+- [[Google]]
+- [[Metaverso]]
+- [[Computacion Espacial]]
+- [[Vigilancia Masiva]]
+- [[Panoptico Digital]]
+- [[Reconocimiento Facial]]

@@ -1,50 +1,51 @@
 ---
-titulo: Anthony Fauci
-tipo: "persona"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [anthony, bill, fauci, pfizer]
 publish: true
+created: 2026-01-29T19:17:03.600-03:00
+modified: 2026-04-19T12:59:20.298-03:00
+tags:
+  - anthony-fauci
+  - niaid
+  - salud-publica
+  - bioseguridad
+  - regulacion
+  - tl-intel-v3
 ---
 
 # Anthony Fauci
 
-## Perfil TL (Resumen Ejecutivo)
+## BLUF
 
-**¿Quién es?** Director del NIAID durante casi 40 años (1984-2022). Fue el funcionario mejor pagado del gobierno federal de EE.UU. y el director de orquesta de la respuesta institucional a las crisis del SIDA y del COVID-19.
+[[Anthony Fauci]] importa en TL como figura tecnocrática central de la salud pública estadounidense durante varias décadas. Su valor no está solo en su cargo, sino en representar la capacidad de un operador institucional para influir sobre financiamiento científico, consenso biomédico, legitimidad regulatoria y gestión narrativa de crisis sanitarias.
 
-**¿Por qué importa?** Fauci es el **gerente de bioseguridad** del sistema. No es el dueño del circo, pero es quien decide qué parte de la "ciencia" recibe financiamiento. Su firma está detrás de la financiación de la investigación de **Ganancia de Función** en el laboratorio de Wuhan (vía EcoHealth Alliance), omitiendo las restricciones legales para crear virus más letales.
+## Por que importa en TL
 
-## Análisis De Poder (Tiers)
+- conecta [[NIAID]], financiamiento de investigación y gobernanza de emergencia sanitaria;
+- ayuda a leer cómo burocracia científica, medios y política pueden alinearse alrededor de figuras de autoridad técnica;
+- funciona como nodo personal del eje [[Pfizer]] / [[NIH]] / [[One Health]] / bioseguridad.
 
-### Tier A (Arquitecto / Propietario)
+## Que cambio
 
-- Fauci no es Tier A. Él responde a los intereses del complejo farmacéutico y de fundaciones como la de [[Bill Gates]]. Es un tecnócrata de alto nivel con protección política total.
+La nota seguía en formato viejo y muy cargada en framing manifiesto. Se recompila como persona reusable para dejar mejor diferenciados rol institucional, función de gatekeeping y lectura TL.
 
-### Tier B (Operador / Gestor)
+## Lectura TL
 
-- **Gatekeeper Científico:** Durante décadas, controló miles de millones en becas de investigación, lo que le permitió moldear el consenso académico a su antojo.
-- **Control de Daños:** Lideró la operación de encubrimiento del origen del virus (el paper _Proximal Origin_) para desviar la atención de la responsabilidad de su agencia en el financiamiento de Wuhan.
+### 1. Gatekeeper de legitimidad
 
-### Tier C (Narrativa / Fachada)
+Fauci importa porque durante décadas ocupó una posición desde la cual podía orientar prioridades de investigación, reputaciones científicas y narrativa pública.
 
-- "La Voz de la Razón" y "Héroe de la Salud Pública". Su frase _"La Ciencia soy yo"_ resume su rol como figura de autoridad incuestionable para la población.
+### 2. Ciencia administrada
 
-## Conexiones Clave
+En TL, su relevancia crece cuando se observa que la “ciencia” institucional no circula solo por evidencia, sino también por presupuesto, vocería, prestigio y acceso a plataformas.
 
-- [[Pfizer]] y [[Moderna]] (Relación simbiótica en el desarrollo de vacunas)
-- [[Bill Gates]] (Coordinación en la agenda de vacunación global)
-- [[NIAID]] y [[NIH]] (Sus bases de poder burocrático)
-- [[Instituto de Virología de Wuhan]] (El laboratorio financiado)
+### 3. Tecnocracia en crisis
 
-## Fuentes
+Su utilidad aparece al mostrar cómo una figura técnica puede convertirse en interfaz entre aparato estatal, industria farmacéutica, medios y población.
 
-- Robert F. Kennedy Jr.: "The Real Anthony Fauci".
-- Emails de Fauci (liberados por FOIA).
-- Transcripciones de testimonios ante el Congreso de EE.UU. (2022-2024).
+## Con que conecta
 
-## Por Qué Importa (Estilo Nico)
-
-> "Fauci es el ejemplo de que el poder real no necesita ser electo. El tipo sobrevivió a siete presidentes mientras manejaba el grifo del dinero científico. Su trabajo no es curarte; su trabajo es gestionar el miedo para que las farmacéuticas tengan clientes cautivos y los gobiernos tengan una excusa para el control social. Cuando dice que él es 'la ciencia', te está diciendo que si lo cuestionás a él, estás cuestionando a la realidad misma que ellos construyeron."
+- [[Pfizer]]
+- [[NIAID]]
+- [[NIH]]
+- [[One Health]]
+- [[Bioseguridad]]
+- [[Great Barrington Declaration]]

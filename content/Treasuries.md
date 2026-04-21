@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-17T13:00:31.490-03:00
-modified: 2026-04-17T13:00:31.490-03:00
+modified: 2026-04-19T13:17:00.992-03:00
 tags:
   - treasuries
   - deuda-eeuu
@@ -16,29 +16,39 @@ tags:
 
 En TL, [[Treasuries]] no se leen solo como bonos soberanos de Estados Unidos. Se leen como pieza central del problema actual: si falla su demanda, tambalea el mecanismo que sostiene al dolar, el financiamiento del deficit y buena parte del orden financiero global.
 
-## Por qué importan
+## Por que importan en TL
 
-- son colateral sistémico;
+- son colateral sistemico;
 - expresan confianza o desconfianza en la deuda estadounidense;
-- conectan energía, política monetaria, Tesoro y arquitectura del dólar.
+- conectan energia, politica monetaria, Tesoro y arquitectura del dolar.
+
+## Que cambio
+
+La nota ya estaba recompilada, pero se refuerza para integrarla mejor al corredor `Tesoro / stablecoins / tokenizacion`. El foco queda menos descriptivo y mas orientado a la funcion estructural del activo.
 
 ## Lectura TL
 
-La línea reciente del canal empuja una lectura más fuerte: el sistema no busca solo defender el viejo petrodólar, sino volver demandables los Treasuries mediante una combinación de shock energético, control de rutas, ingeniería monetaria y nueva infraestructura de liquidez.
+### 1. El centro material del problema
 
-Eso desplaza la pregunta desde `petrodólar sí o no` hacia `cómo se rearma la demanda por deuda estadounidense`.
+La linea reciente del canal empuja una lectura mas fuerte: el sistema no busca solo defender el viejo petrodolar, sino volver demandables los [[Treasuries]] mediante una combinacion de shock energetico, control de rutas, ingenieria monetaria y nueva infraestructura de liquidez.
 
-## Señales
+### 2. Del petrodolar al rail programable
 
-- recompras agresivas del Tesoro
-- presión política sobre la [[Reserva Federal]]
-- necesidad de sostener al dólar con algo más que reciclaje petrolero clásico
-- acople entre crisis geopolítica y soporte del mercado de deuda
+Eso desplaza la pregunta desde `petrodolar si o no` hacia `como se rearma la demanda por deuda estadounidense`, incluso a traves de stablecoins reguladas, colateral digital y tokenizacion de activos.
 
-## Conexiones
+### 3. La deuda como ancla de poder
+
+El nodo sirve para recordar que la discusion no es puramente financiera. Cuando el activo base de la hegemonia necesita soporte politico, militar o regulatorio, deuda y geopolitica dejan de poder separarse.
+
+### 4. Lectura operacional
+
+Leido con [[Scott Bessent]], [[Howard Lutnick]], [[Tether USDS]] y [[Tokenized Sovereign Debt]], el nodo queda como centro del corredor monetario actual y no como concepto aislado de mercado.
+
+## Con que conecta
 
 - [[Scott Bessent]]
-- [[Kevin Warsh]]
-- [[Sistema Petrodolar]]
+- [[Howard Lutnick]]
+- [[Tether USDS]]
 - [[Shock de Nixon]]
-- [[Estrecho de Ormuz]]
+- [[Sistema Petrodolar]]
+- [[Dinero Programable]]

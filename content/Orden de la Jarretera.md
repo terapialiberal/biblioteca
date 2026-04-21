@@ -31,7 +31,7 @@ publish: true
 ## Conexiones Críticas
 
 - [[Monarquía Británica]]: El centro de mando.
-- [[City of London]]: El brazo financiero que sostiene el prestigio.
+- [[City de Londres]]: El brazo financiero que sostiene el prestigio.
 - [[Commonwealth]]: El área de influencia geopolítica de la orden.
 
 ## Cui Bono

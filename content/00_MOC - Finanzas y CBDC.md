@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-02-09T17:49:12.815-03:00
-modified: 2026-04-07T10:47:12.148-03:00
+modified: 2026-04-21T12:02:50.958-03:00
 tags:
-  - moc
-  - cbdc
-  - tokenizacion
-  - rieles-financieros
-  - tl-intel-v3
+  - "#moc"
+  - "#cbdc"
+  - "#tokenizacion"
+  - "#rieles-financieros"
+  - "#tl-intel-v3"
 ---
 
 # MOC - Finanzas y CBDC
@@ -31,7 +31,8 @@ tags:
 - [[JPMorgan Onyx]]
 - [[BlackRock BUIDL]]
 - [[Ondo Finance]]
-- [[SWIFT Interoperability]]
+- [[SWIFT]]
+- [[Dinero Programable]]
 
 ## Tokenización y RWA
 
@@ -39,12 +40,13 @@ tags:
 - [[Tokenized Sovereign Debt]]
 - [[Tether USDS]]
 - [[Chainalysis]]
+- [[Stablecoins]]
+- [[Stablecoin Regulation US]]
 
 ## Mecanismos de Control
 
-- [[CBDC Expiration (Dinero Programable)]]
+- [[CBDC Expiration]]
 - [[Digital ID - Global Protocol]]
-- [[Stablecoin Regulation US (2026)]]
 - [[Basel IV]]
 - [[Basilea V]]
 
@@ -82,27 +84,27 @@ tags:
 
 - [[Axel Kicillof.md|Axel Kicillof]]
 
-- [[Banca en la Sombra.md|Banca en la Sombra]]
-
 - [[Banco de Pagos Internacionales.md|Banco de Pagos Internacionales]]
 
-- [[BIS.md|BIS]]
-
 - [[BIS Innovation Hub.md|BIS Innovation Hub]]
+
+- [[Bloque Anglo-Americano.md|Bloque Anglo-Americano]]
 
 - [[05_Fuentes/Cambio China hacia mercado interno.md|Cambio China hacia mercado interno]]
 
 - [[CBDC.md|CBDC]]
 
-- [[CBDC Europeo.md|CBDC Europeo]]
-
 - [[CBDC Interoperability.md|CBDC Interoperability]]
+
+- [[CBDCs.md|CBDCs]]
 
 - [[06_Videos_Publicados/2026/2026-04-15_LAS GUERRAS MAGA/cc_ANALISIS_Bilderberg1973_Reset_Monetario.md|cc_ANALISIS_Bilderberg1973_Reset_Monetario]]
 
 - [[05_Fuentes/Christine Lagarde admite que las CBDC son clave para mantener el poder de los bancos centrales.md|Christine Lagarde admite que las CBDC son clave para mantener el poder de los bancos centrales]]
 
 - [[CIPS & SPFS.md|CIPS & SPFS]]
+
+- [[Clarium Capital.md|Clarium Capital]]
 
 - [[Clearstream.md|Clearstream]]
 
@@ -117,6 +119,10 @@ tags:
 - [[Cybernetics of Control.md|Cybernetics of Control]]
 
 - [[Diem.md|Diem]]
+
+- [[Digital Yuan Expansion.md|Digital Yuan Expansion]]
+
+- [[Dinero Programable.md|Dinero Programable]]
 
 - [[DTCC.md|DTCC]]
 
@@ -140,8 +146,6 @@ tags:
 
 - [[FMI.md|FMI]]
 
-- [[Geocercas.md|Geocercas]]
-
 - [[Gold Backed CBDC - Pilot.md|Gold Backed CBDC - Pilot]]
 
 - [[Grupo de los Treinta.md|Grupo de los Treinta]]
@@ -158,13 +162,19 @@ tags:
 
 - [[05_Fuentes/Las afirmaciones de sexo con menores sacuden al grupo de Bitcoin.md|Las afirmaciones de sexo con menores sacuden al grupo de Bitcoin]]
 
+- [[Libra - Diem.md|Libra - Diem]]
+
 - [[Linea de Tiempo - 2010s-2020s.md|Linea de Tiempo - 2010s-2020s]]
+
+- [[Long-Term Capital Management.md|Long-Term Capital Management]]
 
 - [[05_Fuentes/Los correos electronicos de Epstein arrojan una la.md|Los correos electronicos de Epstein arrojan una la]]
 
 - [[Mercado Pago.md|Mercado Pago]]
 
 - [[Monedas de Privacidad.md|Monedas de Privacidad]]
+
+- [[Neoliberalismo.md|Neoliberalismo]]
 
 - [[06_Videos_Publicados/2026/2026-03-26_El_Reseteo_Perfecto/NOTA_TESIS_El_Reseteo_Perfecto.md|NOTA_TESIS_El_Reseteo_Perfecto]]
 
@@ -174,15 +184,21 @@ tags:
 
 - [[06_Videos_Publicados/2026/2026-03-17 IRAN_STREAM/NotaTesis_MegaGroup_RedContinuidad_v5.md|NotaTesis_MegaGroup_RedContinuidad_v5]]
 
-- [[Nuevo Bretton Woods.md|Nuevo Bretton Woods]]
-
 - [[05_Fuentes/Nuevos correos revelan que Epstein financio indire.md|Nuevos correos revelan que Epstein financio indire]]
 
+- [[Project mBridge.md|Project mBridge]]
+
 - [[Proporcion 1.618 en HFT.md|Proporcion 1.618 en HFT]]
+
+- [[Proyecto Agora.md|Proyecto Agora]]
+
+- [[Proyecto mBridge.md|Proyecto mBridge]]
 
 - [[Señoreaje.md|Señoreaje]]
 
 - [[Sergio Massa.md|Sergio Massa]]
+
+- [[Thiel y las monedas digitales.md|Thiel y las monedas digitales]]
 
 - [[Tokenizacion de Activos Reales.md|Tokenizacion de Activos Reales]]
 

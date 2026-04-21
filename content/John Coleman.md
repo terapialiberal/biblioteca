@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:19.762-03:00
-modified: 2026-04-07T11:48:37.317-03:00
+modified: 2026-04-20T19:35:28.552-03:00
 tags:
   - cartgrafo
   - coleman
@@ -24,7 +24,7 @@ tags:
 ### Tier B: Los Gestores De La Ingeniería Social (Tavistock)
 
 - **La Guerra contra la Mente Humana:** Coleman fue pionero en denunciar al [[Instituto Tavistock]] de Londres como la central de guerra psicológica del Tier A. Según su análisis, el Tier B no solo gestiona leyes, sino que **fabrica la cultura** (música, drogas, modas) para inducir estados de apatía y shock en el Tier C, neutralizando cualquier resistencia antes de que surja. El Tier B de Coleman son los científicos conductuales que diseñan la "servidumbre voluntaria".
-- **Organizaciones Frontales:** Describe al [[CFR]], la [[Trilateral Commission]] y el [[Bilderberg Group]] como capas externas de Tier B diseñadas para capturar a los políticos y empresarios, filtrando a los leales hacia los niveles superiores de mando.
+- **Organizaciones Frontales:** Describe al [[CFR]], la [[Trilateral Commission]] y el [[Bilderberg]] como capas externas de Tier B diseñadas para capturar a los políticos y empresarios, filtrando a los leales hacia los niveles superiores de mando.
 
 ### Tier C: La Población Supervisada
 

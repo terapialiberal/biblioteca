@@ -1,50 +1,53 @@
 ---
-titulo: Election Integrity Partnership (EIP)
-tipo: "persona"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [cisa, election, partnership, twitter]
 publish: true
+aliases:
+  - Election Integrity Partnership (EIP)
+created: 2026-01-29T19:17:11.707-03:00
+modified: 2026-04-19T12:29:05.634-03:00
+tags:
+  - eip
+  - elecciones
+  - censura
+  - cisa
+  - plataformas
+  - tl-intel-v3
 ---
 
-# Election Integrity Partnership (EIP)
+# Election Integrity Partnership
 
-## Perfil TL (Resumen Ejecutivo)
+## BLUF
 
-**¿Qué es?** Una coalición de instituciones académicas, think-tanks y ex-agentes de inteligencia creada en 2020 para combatir la "desinformación" electoral, trabajando en coordinación directa con el Departamento de Seguridad Nacional (**[[DHS / CISA]]**) y las principales plataformas de redes sociales (**Google**, **Facebook**, **Twitter**).
+[[Election Integrity Partnership]] importa en TL como consorcio de coordinación entre academia, plataformas y aparato estatal para monitorear y escalar narrativas consideradas riesgosas durante procesos electorales. Su valor no está solo en la etiqueta “integridad electoral”, sino en mostrar cómo la moderación política puede externalizarse a intermediarios reputacionalmente protegidos.
 
-**¿Por qué importa?** El EIP es la **pieza central del Complejo Industrial de la Censura**. Funciona como un sistema de "lavado de censura": el gobierno de EE.UU. no puede censurar directamente (por la Primera Enmienda), así que utiliza al EIP como un intermediario privado para marcar millones de publicaciones de ciudadanos de Tier C como "desinformación". Durante las elecciones de 2020 y la pandemia de COVID-19, el EIP operó un sistema de tickets en tiempo real donde enviaban órdenes de eliminación a las Big Tech, silenciando narrativas legítimas (como el caso de la Laptop de Hunter Biden o dudas sobre la seguridad de las vacunas) al etiquetarlas como "malinformación" (información verdadera pero usada para causar daño). Es la infraestructura técnica que el Tier B utiliza para asegurar la **Continuidad de Narrativa** del Tier A.
+## Por que importa en TL
 
-## Análisis De Poder (Tiers)
+- conecta elecciones, seguridad nacional, universidades y moderación de plataformas;
+- ayuda a leer cómo el discurso sobre “integridad” puede funcionar como cobertura técnica de control narrativo;
+- funciona como nodo clave del [[Complejo Industrial de la Censura]].
 
-### Tier A (Los Arquitectos De La Verdad Oficial)
+## Que cambio
 
-- **DHS / CISA:** El cerebro estatal detrás del EIP. Utilizaron al EIP para externalizar el control del discurso público bajo la excusa de proteger la "infraestructura cognitiva" del país de la influencia extranjera (Rusia/China), aunque el 99% de su objetivo fue el discurso político interno de EE.UU.
+La nota seguía mal tipada como `persona`, muy cargada y demasiado pegada al tono de denuncia total. Se recompila como entidad operativa reusable para integrarla mejor con `CISA`, `Twitter Files` y el corredor ya saneado.
 
-### Tier B (Operadores / Los Granaderos Digitales)
+## Lectura TL
 
-- **Alex Stamos (Stanford):** Ex-jefe de seguridad de Facebook y figura clave del EIP. Representa al operador de Tier B que transita entre Silicon Valley, la academia y el gobierno para implementar sistemas de vigilancia.
-- **Atlantic Council (DFRLab):** El brazo de propaganda de la OTAN que aporta la "legitimidad" internacional y geopolítica al esfuerzo de censura doméstica.
+### 1. Intermediación legitimada
 
-### Tier C (Narrativa Pública)
+El EIP importa porque permite que el aparato estatal influya sobre el flujo de información electoral sin aparecer siempre como actor censor directo. La universidad, el think tank y el experto absorben parte del costo constitucional y reputacional.
 
-- "Protegiendo la integridad de las elecciones". "Luchando contra las noticias falsas". "Verificadores de hechos independientes". Narrativas diseñadas para disfrazar la censura política como un servicio público de seguridad nacional.
+### 2. Integridad como marco expansivo
 
-## Conexiones Clave
+En TL, el nodo vale porque la noción de “integridad electoral” puede extenderse mucho más allá del fraude o la seguridad técnica y pasar a cubrir percepciones, rumores, temas incómodos o incluso información verdadera políticamente disruptiva.
 
-- [[CISA (Cybersecurity and Infrastructure Security Agency)]] (Su socio estatal)
-- [[Twitter Files]] (Donde se reveló su modus operandi)
-- [[Stanford Internet Observatory]] (Su base académica)
-- [[Propaganda de IA / Algoritmos de Censura]] (Sus herramientas)
+### 3. Gobernanza de tickets narrativos
 
-## Fuentes
+Su relevancia operativa aparece cuando se lo observa como sistema de clasificación, escalamiento y priorización de contenidos para plataformas. Ahí deja de ser una iniciativa académica y se vuelve infraestructura de gestión del discurso.
 
-- Mike Benz: Investigaciones sobre el Complejo Industrial de la Censura.
-- Reporte del Comité Judicial de la Cámara de Representantes: "The Weaponization of the Social Media Platforms".
-- Documentos internos del EIP revelados en el caso Missouri v. Biden.
+## Con que conecta
 
-## Por Qué Importa (Estilo Nico)
-
-> "El EIP es el 'Ministerio de la Verdad' privatizado. Como el gobierno no puede prohibirte hablar sin violar la constitución, inventaron este club de Stanford y el Atlantic Council para que ellos den la orden a Facebook de borrarte la cuenta. Es un sistema de lavado de censura: el gobierno pone la guita, Stanford pone el logo elegante y los algoritmos hacen el trabajo sucio. Se especializaron en una palabra nueva: 'Malinformación'. Eso significa que lo que decís es verdad, pero como no les conviene que se use políticamente, te lo borran igual. El EIP es la prueba de que en el siglo XXI, tu libertad de expresión llega hasta donde el bot de un tipo en Palo Alto decida."
+- [[CISA]]
+- [[Twitter Files]]
+- [[Renee DiResta]]
+- [[Graphika]]
+- [[Virality Project]]
+- [[Hunter Biden Laptop]]

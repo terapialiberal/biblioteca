@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-25T16:09:26.306-03:00
-modified: 2026-04-07T11:48:50.722-03:00
+modified: 2026-04-07T11:21:48.277-03:00
 tags:
   - consent
   - newsguard

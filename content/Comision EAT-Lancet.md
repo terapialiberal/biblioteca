@@ -1,35 +1,51 @@
 ---
-titulo: EAT-Lancet Commission
-tipo: "entidad"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [agenda, commission, lancet, monsanto]
 publish: true
+created: 2026-01-29T19:17:08.331-03:00
+modified: 2026-04-19T12:52:17.937-03:00
+tags:
+  - eat-lancet
+  - alimentacion
+  - dieta
+  - gobernanza
+  - sostenibilidad
+  - tl-intel-v3
 ---
 
-# EAT-Lancet Commission
+# Comision EAT-Lancet
 
-## Resumen General
+## BLUF
 
-La **Comisión EAT-Lancet** es una colaboración entre la revista médica _The Lancet_ y la ONG EAT (fundada por Gunhild Stordalen). Publicaron la "Dieta de Salud Planetaria", que propone una reducción drástica del consumo de carne roja y huevos a nivel global para "salvar el planeta". Es la base "científica" de la guerra contra la agricultura tradicional y la ganadería.
+[[Comision EAT-Lancet]] importa en TL como nodo de legitimación tecnocrática sobre dieta, sostenibilidad y rediseño del sistema alimentario. Su valor no está solo en una guía nutricional, sino en la capacidad de traducir preferencias normativas sobre producción y consumo en lenguaje científico, sanitario y planetario.
 
-## Análisis Terapia Liberal (Cui Bono)
+## Por que importa en TL
 
-### Tier A (Beneficiarios)
+- conecta discurso médico, agenda climática y rediseño de patrones alimentarios;
+- ayuda a leer cómo recomendaciones técnicas pueden funcionar como marco de presión sobre ganadería, proteína animal y dieta popular;
+- funciona como satélite del eje [[Sistema Alimentario]] / [[Control Alimentario]] / [[Lab-Grown Meat]].
 
-- **Industria de Procesados (Nestlé, Kellogg’s):** Los socios de EAT. Quieren reemplazar la carne (producto natural no patentable) con ultraprocesados patentados de alto margen.
-- **Chemical Giants ([[Monsanto]]/[[Monsanto]]):** Controlarán los monocultivos necesarios para las proteínas vegetales.
+## Que cambio
 
-## Puntos Clave
+La nota seguía en formato viejo y con naming inestable en inglés. Se recompila como entidad reusable para separar mejor función discursiva, uso político y conexiones estructurales.
 
-- **Elitismo Hipócrita:** Los fundadores viajan en jets privados a conferencias donde comen carne de alta calidad, mientras dicen a los pobres que coman lentejas e insectos.
-- **Malnutrición:** Nutricionistas advierten que su dieta es deficiente en nutrientes esenciales bio-disponibles.
+## Lectura TL
 
-## Conexiones
+### 1. Ciencia como marco de reorganización
 
+La comisión importa porque permite presentar cambios profundos en producción y consumo alimentario como simple respuesta técnica a evidencia, y no como disputa material o política.
+
+### 2. Dieta, clima y gobernanza
+
+En TL, su relevancia crece cuando recomendaciones alimentarias se acoplan con agendas regulatorias, educativas y corporativas más amplias.
+
+### 3. Del consejo a la norma
+
+Su potencia aparece cuando guías, reportes y métricas sirven como base para campañas, restricciones, incentivos o legitimación de nuevas cadenas de valor alimentarias.
+
+## Con que conecta
+
+- [[Sistema Alimentario]]
+- [[Control Alimentario]]
+- [[Lab-Grown Meat]]
+- [[Precision Fermentation]]
 - [[Agenda 2030]]
-- [[Carne Sintética (Lab-Grown)]]
-- [[Proteína de Insectos]]
-- [[El Gran Reinicio]]
+- [[Proteina de Insectos]]

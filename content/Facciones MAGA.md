@@ -1,53 +1,55 @@
 ---
-titulo: Facciones MAGA
-tipo: "persona"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [bitcoin, elon, facciones, maga]
 publish: true
+created: 2026-01-29T19:17:13.026-03:00
+modified: 2026-04-18T17:51:19.555-03:00
+tags:
+  - maga
+  - facciones
+  - nueva-derecha
+  - trump
+  - thiel
+  - tl-intel-v3
 ---
 
 # Facciones MAGA
 
-## Perfil TL (Resumen Ejecutivo)
+## BLUF
 
-**¿Qué es?** El mosaico de intereses ideológicos, económicos y religiosos que componen el movimiento "Make America Great Again" (MAGA) liderado por Donald Trump.
+[[Facciones MAGA]] importa en TL porque el universo MAGA no funciona como bloque homogéneo. Es una coalición inestable entre populismo electoral, tecnocapitalismo, lobby ideológico-religioso y grandes donantes con prioridades a veces compatibles y a veces rivales.
 
-**¿Por qué importa?** El movimiento MAGA no es un bloque monolítico, sino una **alianza frágil y contradictoria de Tier B**. Entender sus facciones es fundamental para descifrar por qué la administración Trump a menudo toma decisiones que parecen ir en contra de su base populista. Mientras el Tier C vota por la promesa de "America First" (populismo puro y fin de las guerras), el Tier B de las facciones lucha por el control de la agenda: desde los **Tech Bros** que buscan la desregulación de la IA y la adopción de cripto, hasta el **AIPAC/Megadonantes** que fuerzan una política exterior agresiva en Medio Oriente. Las tensiones dentro de MAGA son el campo de batalla donde se decide si el movimiento es una verdadera rebelión contra el globalismo o simplemente una reconfiguración de la élite de Tier A bajo una nueva marca.
+## Por qué importa en TL
 
-## Análisis De Las 4 Facciones Principales
+- permite leer por qué el trumpismo cambia de tono o de agenda según qué subred gane peso;
+- evita tratar a MAGA como sujeto unificado cuando en realidad es un campo de disputa;
+- ayuda a ubicar a operadores como [[JD Vance]] en una arquitectura más amplia que combina base popular y capital estratégico.
 
-### 1. âœï¸ Conservadores Cristianos / Nacionalistas
+## Qué cambió
 
-- **Foco:** Guerra cultural (aborto, DEI), protección de instituciones tradicionales y apoyo incondicional a Israel basado en escatología bíblica.
-- **Influencia:** Son la base electoral más grande. Su poder reside en la movilización masiva y la disciplina de voto.
+La nota venía con encoding roto, tipo mal clasificado previamente y framing demasiado manifiesto. Se recompila como concepto modular para usarla como mapa de tensiones internas y no como texto de ocasión.
 
-### 2. Populistas "America First" (Puros)
+## Lectura TL
 
-- **Foco:** Anti-intervencionismo (Paz mediante la fuerza), fin de la ayuda a Ucrania, fronteras cerradas y re-industrialización nacional.
-- **Tensión:** Son los más escépticos de la influencia de los donantes de Tier A (**AIPAC**, Wall Street) y de la participación en guerras extranjeras.
+### 1. Populistas America First
 
-### 3. Los Tech Bros (Silicon Valley Right)
+Priorizan fronteras, reindustrialización, menor compromiso militar externo y rechazo a parte del establishment republicano clásico. Son la base que le da energía electoral al movimiento.
 
-- **Foco:** Aceleracionismo tecnológico, desregulación de la IA, **[[Bitcoin]]** y el desmantelamiento de la burocracia estatal mediante la eficiencia digital.
-- **Representantes:** **[[Elon Musk]]**, **[[Peter Thiel]]**, **[[JD Vance]]**. Representan el nuevo capital de Tier A que se divorció del establishment demócrata.
+### 2. Tech Right
 
-### 4. Megadonantes Y Lobbystas (AIPAC/Adelson)
+El bloque de [[Peter Thiel]], [[Elon Musk]], [[PayPal Mafia]] y satélites como [[JD Vance]] empuja una reconfiguración del Estado alrededor de IA, defensa, criptomonedas, automatización y soberanía tecnológica.
 
-- **Foco:** Asegurar que la política exterior de EE.UU. esté alineada con los intereses de Israel y de los sectores de defensa.
-- **Poder:** Su control reside en el financiamiento de campañas y en el veto implícito sobre los nombramientos del gabinete (State Department/Pentágono).
+### 3. Conservadores religiosos y culturales
 
-## Matriz De Tensión (Cui Bono)
+Tensionan la agenda hacia guerra cultural, valores tradicionales, aborto, educación y alineamientos geopolíticos atravesados por marcos religiosos.
 
-| Tema | Populistas | Tech Bros | Cristianos | Megadonantes |
-|------|-----------|-----------|-----------|--------------|
-| **Israel** | Escépticos | Neutral | Apoyo (Religioso) | Apoyo (Absoluto) |
-| **Guerra Irán** | **Oposición** | Neutral | Ambivalentes | **Promoción** |
-| **Aranceles** | **Favor** | Mixto | Neutral | En contra (Wall St) |
-| **Big Tech** | Odio (Censura) | **Control** | Odio (Valores) | Favor (Capital) |
+### 4. Megadonantes y lobbies
 
-## Por Qué Importa (Estilo Nico)
+Aportan financiamiento, acceso y capacidad de veto sobre partes sensibles del gabinete, la política exterior y la relación con sectores estratégicos.
 
-> "El movimiento MAGA es como una banda de rock donde el cantante (Trump) quiere hacer su show, pero el tecladista es un genio de Silicon Valley que quiere automatizar todo, el bajista es un pastor que quiere prohibir el pecado y el que pone la guita para el tour es un lobbysta de Israel que quiere que la próxima canción sea una marcha de guerra contra Irán. Entender estas facciones es la única forma de no volverse loco viendo a Trump: el tipo te dice 'fuera las guerras' hoy, y mañana pone al halcón más grande del nido como Secretario de Estado. El populista de Tier C le da el voto, pero el Tech Bro y el Megadonante le dan el manual de instrucciones. La pelea por el alma de MAGA es ver si Trump termina siendo un rebelde o el gerente de una nueva sucursal de la élite."
+## Con qué conecta
+
+- [[Donald Trump]]
+- [[JD Vance]]
+- [[Peter Thiel]]
+- [[PayPal Mafia]]
+- [[Project 2025]]
+- [[Heritage Foundation]]

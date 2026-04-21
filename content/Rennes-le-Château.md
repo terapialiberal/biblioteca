@@ -1,30 +1,44 @@
 ---
 publish: true
+aliases:
+  - Rennes-le-Château
 created: 2026-02-25T22:08:55.255-03:00
-modified: 2026-04-07T12:08:31.900-03:00
+modified: 2026-04-18T18:17:14.893-03:00
 tags:
   - rennes-le-chateau
   - esoterismo
   - simbolismo
   - francia
+  - linajes
   - tl-intel-v3
 ---
 
-# [[Rennes-le-Château]]
+# Rennes-le-Chateau
 
-> [!abstract] PERFIL TL-INTEL
-> Nodo clásico del imaginario esotérico moderno, asociado a tesoros ocultos, linajes secretos y construcción de mitologías de poder.
+## BLUF
 
-## Contexto
+[[Rennes-le-Chateau]] importa en TL como nodo clásico del imaginario esotérico moderno, donde confluyen tesoros ocultos, linajes secretos, catolicismo heterodoxo y construcción de mitologías de poder.
 
-Rennes-le-Château funciona en el vault como punto de cruce entre simbolismo, catolicismo heterodoxo, sociedades secretas y operaciones narrativas de largo aliento.
+## Por qué importa en TL
 
-## Conexiones
+- conecta esoterismo, geografía simbólica y genealogías de legitimidad;
+- sirve como punto de cruce entre relato, turismo del misterio y producción de mito político;
+- ayuda a leer cómo ciertos lugares condensan siglos de narrativas sobre secreto y autoridad.
+
+## Qué cambió
+
+La nota ya estaba parcialmente saneada, pero seguía con encoding roto. Se recompila en limpio manteniendo su función dentro del corredor simbólico.
+
+## Lectura TL
+
+Rennes-le-Chateau importa menos por la comprobación literal de cada leyenda y más por su potencia como generador de relatos persistentes. Es un nodo donde historia local, invención moderna y necesidad de misterio se refuerzan entre sí.
+
+En TL, eso lo vuelve útil para observar cómo se fabrican y sostienen imaginarios de linaje, tesoro y derecho oculto a gobernar.
+
+## Con qué conecta
 
 - [[Priorato de Sion]]
 - [[Santo Grial]]
+- [[Linajes Merovingios]]
 - [[Simbolismo y Esoterismo]]
-
-## Observación operativa
-
-Su valor analítico no está solo en la historicidad dura, sino en cómo produce relatos persistentes sobre legitimidad, linaje y secreto.
+- [[Francia Esoterica]]

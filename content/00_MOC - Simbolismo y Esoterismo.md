@@ -1,49 +1,49 @@
 ---
 publish: true
 created: 2026-02-25T22:08:08.998-03:00
-modified: 2026-04-17T16:42:44.665-03:00
+modified: 2026-04-21T12:48:12.969-03:00
 tags:
-  - moc
-  - simbolismo
-  - esoterismo
-  - redes-discretas
-  - tl-intel-v3
+  - "#moc"
+  - "#simbolismo"
+  - "#esoterismo"
+  - "#redes-discretas"
+  - "#tl-intel-v3"
 ---
 
 # MOC - Simbolismo y Esoterismo
 
-> Lenguajes, rituales, linajes y sistemas simbólicos usados como tecnología de coordinación, legitimación e ingeniería social.
+> Lenguajes, rituales, arquetipos y sistemas simbólicos usados como tecnología de cohesión, legitimación y coordinación.
 
 ## Resumen
 
-- En TL, lo esotérico se trata como tecnología de cohesión y señalización.
-- Importa cuando organiza redes, ritos de pertenencia o capas de control simbólico.
-- Este MOC sirve como mapa de entrada, no como validación automática de toda hipótesis extrema.
+- En TL, lo esotérico se lee como capa de señalización, cohesión de élite y codificación cultural.
+- Este MOC no valida automáticamente hipótesis extremas: ordena nodos que mezclan redes discretas, ritual, simbolismo y lecturas tecno-esotéricas.
+- Conviene distinguir entre nodos más factuales y nodos más interpretativos para evitar drift en la base viva.
 
-## Logias, Escuelas y Linajes
+## Logias, órdenes y redes discretas
 
-- [[Fraternidad de San Juan (Le Cercle)]]
+- [[Le Cercle]]
 - [[Masoneria de Rito Escoces]]
-- [[Logia P2 (Propaganda Due)]]
+- [[Logia P2]]
 - [[Ordo Templi Orientis (OTO)]]
 - [[Hermetic Order of the Golden Dawn]]
 - [[The Pilgrims Society]]
-- [[Skull and Bones (Sociedad 322)]]
+- [[Skull and Bones]]
 - [[Bohemian Grove]]
-- [[Soberana Orden de Malta (SMOM)]]
+- [[Soberana Orden de Malta]]
 - [[B'nai B'rith]]
 
-## Alquimia y Transmutación
+## Alquimia, hermetismo y transmutación
 
 - [[El Kybalion y las 7 Leyes Hermeticas]]
-- [[Solve et Coagula (Reset Masivo)]]
-- [[Tabula Smaragdina (Correspondencia)]]
-- [[Alquimia Digital (Silicio vs Carbono)]]
+- [[Solve et Coagula]]
+- [[Tabula Smaragdina]]
+- [[Alquimia Digital]]
 - [[Transmutacion de Metales y CBDCs]]
 - [[Alquimia Operativa]]
 - [[El Ouroboros]]
 
-## Geometría, Arquitectura y Símbolo
+## Geometría, arquitectura y símbolo
 
 - [[La Proporción Áurea (Phi)]]
 - [[La Flor de la Vida]]
@@ -54,35 +54,41 @@ tags:
 - [[El Templo de Salomon]]
 - [[Geometria del Pentagon]]
 
-## Psicología Profunda y Control
+## Psicología profunda y programación cultural
 
 - [[Carl Jung y el Libro Rojo]]
-- [[Arquetipos de Poder (Mago/Rey)]]
-- [[Programacion Predictiva en el Cine]]
+- [[Arquetipos de Poder]]
+- [[Programacion Predictiva]]
+- [[Cine y Programacion Predictiva]]
 - [[Mk-Ultra y Fragmentacion]]
 - [[Semiotica del Poder Visual]]
-- [[Egregores Digitales (Tulpa)]]
+- [[Egregores Digitales]]
 - [[Hipnosis Colectiva]]
 
-## Tecno-Esoterismo
+## Tecno-esoterismo y capa bio-digital
 
 - [[IA y el Golem de Praga]]
-- [[Transhumanismo (Plan Gnostico)]]
+- [[Transhumanismo]]
+- [[Transhumanismo (Plan Gnóstico)]]
 - [[CERN- Portales y Particulas|CERN: Portales y Partículas]]
 - [[El Algoritmo como Oraculo]]
 - [[Gnosticismo Digital]]
 - [[Bio-Identidad Digital]]
+- [[Neuralink]]
 - [[Neuralink y la Colmena Esoterica]]
-- [[Credito Social (Karma Digital)]]
-- [[Vida Artificial (Prometheus)]]
+- [[Credito Social]]
+- [[Credito Social]]
+- [[Vida Artificial]]
 
-## Nodos Relacionados
+## Nodos relacionados
 
 - [[00_MOC - Tecnologia de Control]]
 
 - [[00_MOC - Redes de Poder]]
 
 - [[00_MOC - Patrones Clasicos de Poder]]
+
+- [[00_MOC - Transhumanismo y Convergencia Bio-Digital]]
 
 - [[00_MOC - Simbolismo y Esoterismo.md|00_MOC - Simbolismo y Esoterismo]]
 
@@ -118,7 +124,13 @@ tags:
 
 - [[Jupiter y Expansion.md|Jupiter y Expansion]]
 
+- [[Linajes Merovingios.md|Linajes Merovingios]]
+
 - [[Lucero del Alba y Espionaje.md|Lucero del Alba y Espionaje]]
+
+- [[Luciferianismo.md|Luciferianismo]]
+
+- [[Lucis Trust.md|Lucis Trust]]
 
 - [[Manly P. Hall.md|Manly P. Hall]]
 

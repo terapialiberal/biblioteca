@@ -1,12 +1,12 @@
 ---
 publish: true
 created: 2026-01-29T19:17:29.717-03:00
-modified: 2026-04-07T11:49:07.164-03:00
+modified: 2026-04-21T12:48:16.798-03:00
 tags:
-  - george
-  - limpieza
-  - papers
-  - selectiva
+  - "#george"
+  - "#limpieza"
+  - "#papers"
+  - "#selectiva"
 ---
 
 # Panama Papers: La Limpieza Selectiva Del Capital
@@ -35,7 +35,7 @@ tags:
 - [[USAID]]: El brazo de "soft power" de EE.UU. involucrado en la financiación.
 - [[Paraísos Fiscales (EEUU)]]: Los verdaderos ganadores tras el colapso de Panamá.
 - [[Guerra de Cuarta Generación]]: Uso de la información como misil financiero.
-- [[City of London]]: El otro gran nodo offshore que salió ileso de la investigación.
+- [[City de Londres]]: El otro gran nodo offshore que salió ileso de la investigación.
 
 ## Conclusión Del Análisis
 

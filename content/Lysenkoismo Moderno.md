@@ -1,30 +1,44 @@
 ---
-titulo: "Lysenkoísmo Moderno: El Secuestro De La Realidad Biológica"
-tipo: "persona"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [biolgica, ideologa, moderno, secuestro]
 publish: true
+aliases:
+  - "Lysenkoismo Moderno: El Secuestro De La Realidad Biologica"
+created: 2026-01-29T19:17:23.236-03:00
+modified: 2026-04-18T18:24:50.462-03:00
+tags:
+  - lysenkoismo
+  - ciencia
+  - ideologia
+  - biologica
+  - consenso
+  - tl-intel-v3
 ---
 
-# Lysenkoísmo Moderno: El Secuestro De La Realidad Biológica
+# Lysenkoismo Moderno
 
-> [!ABSTRACT] Resumen de Inteligencia
-> El "Lysenkoísmo" original fue la doctrina soviética de Trofim Lysenko que rechazó la genética mendeliana por ser "burguesa", causando el colapso de la agricultura en la URSS. El **Lysenkoísmo Moderno** es la versión occidental de este fenómeno: el secuestro de la ciencia por parte de la ideología de **Tier B**. Desde la negación de las diferencias biológicas de sexo hasta la politización de la virología y la climatología, el sistema penaliza a los científicos que reportan datos incómodos para la **[[Agenda 2030]]** o la **[[Ideología de Género]]**.
+## BLUF
 
-## Análisis De Poder (Matrix)
+[[Lysenkoismo Moderno]] importa en TL como concepto para describir el secuestro ideológico de la ciencia: cuando marcos políticos, morales o burocráticos desplazan evidencia incómoda y premian conformidad doctrinal.
 
-### Tier B: La Manufactura Del Consenso Científico
+## Por qué importa en TL
 
-- **Cancelación de la Evidencia:** Al igual que bajo Stalin, los científicos que hoy defienden realidades biológicas básicas son etiquetados como "reaccionarios" o "de odio" y expulsados de la academia. El Tier B utiliza el sistema de becas (peer-review) como una herramienta de filtrado para que solo la "Ciencia Aprobada" llegue a las políticas públicas.
-- **La Tesis de la Maleabilidad Humana:** El Lysenkoísmo moderno busca convencer al **Tier C** de que la naturaleza humana es infinitamente maleable por el Estado. Si la biología no existe, entonces el hombre es un lienzo en blanco para la ingeniería social permanente de la tecnocracia.
+- conecta ciencia, ideología, censura y consenso administrado;
+- sirve para comparar disputas actuales con precedentes históricos de ciencia capturada;
+- ayuda a pensar cuándo un campo técnico deja de corregirse por evidencia y empieza a blindarse por pertenencia.
 
-### Tier A: Biopolítica Y Control De Recursos
+## Qué cambió
 
-- **Cui Bono:** La ciencia falsificada justifica políticas de control totalitario: desde la restricción proteica (comer insectos) basada en modelos climáticos sesgados, hasta la medicalización perpetua de la población mediante hormonas y terapias experimentales. El Tier A necesita que la ciencia sea un dogma religioso, no un método de duda.
+La nota venía mal tipada como persona, con mojibake y framing demasiado extendido. Se recompila como concepto reusable.
 
-## âš¡ Conclusión De Terapia Liberal
+## Lectura TL
 
-Cuando la ideología se come a la biología, la sociedad se encamina hacia la hambruna y el desastre médico. El Lysenkoísmo Moderno es la señal de una civilización en fase de **implosión racional**. En el tablero de Nico, este concepto es la prueba de que el Tier B ya no busca entender el mundo, sino obligar al mundo a encajar en sus hojas de cálculo de control social.
+El nodo es útil cuando una disciplina empieza a tratar el desacuerdo no como problema científico sino como desviación moral o política. Ahí aparece el paralelo con Lysenko: no por identidad histórica exacta, sino por forma de coerción sobre el proceso de verdad.
+
+En TL conviene usarlo con precisión, para señalar captura del método y no para descalificar cualquier desacuerdo científico por reflejo.
+
+## Con qué conecta
+
+- [[Agenda 2030]]
+- [[Consenso Cientifico]]
+- [[Biopolitica]]
+- [[Ideologia de Genero]]
+- [[Tecnocracia]]

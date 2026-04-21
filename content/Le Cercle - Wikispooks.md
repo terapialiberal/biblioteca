@@ -1,17 +1,16 @@
 ---
-titulo: "Le Cercle - Wikispooks --- Le Cercle - Wikispooks"
-tipo: "concepto"
-source: "https://wikispooks.com/wiki/Le_Cercle"
-description: "Coalición internacional de veteranos de inteligencia de derecha y activos de propaganda."
-estado: activo
-tags: [le-cercle, deep-state, inteligencia, guerra-fria]
 publish: true
+created: 2026-01-29T19:05:10.815-03:00
+modified: 2026-04-21T12:25:48.735-03:00
+tags:
+  - "#alias"
+  - "#legacy"
+  - "#le-cercle"
+  - "#wikispooks"
+  - "#fuente"
+  - "#tl-intel-v3"
 ---
 
-# Le Cercle - Wikispooks --- Le Cercle - Wikispooks
+# Le Cercle - Wikispooks
 
-![](https://wikispooks.com/w/images/b/b8/December_2016_meeting_of_Le_Cercle_Washington_3.jpg)
-
-## Destacados
-
-![]()
+Nodo legacy. Ver [[Le Cercle]].

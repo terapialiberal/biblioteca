@@ -4,7 +4,7 @@ aliases:
   - Carnegie Endowment (CEIP)
   - CEIP
 created: 2026-01-29T19:17:06.587-03:00
-modified: 2026-04-18T10:56:38.668-03:00
+modified: 2026-04-18T10:56:46.067-03:00
 tags:
   - carnegie-endowment
   - think-tank

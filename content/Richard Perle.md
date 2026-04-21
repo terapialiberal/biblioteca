@@ -1,51 +1,52 @@
 ---
-titulo: Richard Perle
-tipo: "persona"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [john, perle, peter, richard]
 publish: true
+created: 2026-01-29T19:17:34.022-03:00
+modified: 2026-04-21T12:57:42.360-03:00
+tags:
+  - "#richard-perle"
+  - "#neocon"
+  - "#defensa"
+  - "#palantir"
+  - "#atlantismo"
+  - "#tl-intel-v3"
 ---
 
 # Richard Perle
 
-> **Perfil TL:** "El Príncipe de las Tinieblas" - El neoconservador que conecta el Pentágono con Palantir.
+## BLUF
 
-## Resumen Ejecutivo
+[[Richard Perle]] importa en TL como operador-puente entre neoconservadurismo, aparato de defensa, redes atlánticas discretas y transición hacia infraestructura tecnológica de seguridad. Su valor no está solo en su perfil ideológico, sino en su capacidad de conectar guerra, inteligencia y arquitectura analítica privatizada.
 
-**¿Quién es?** Asesor del Departamento de Defensa, arquitecto de la política exterior neoconservadora. Apodado "The Prince of Darkness" por su postura belicista. Miembro del Defense Policy Board y figura clave en la venta de la Guerra de Irak.
+## Por que importa en TL
 
-**¿Por qué importa?** Es el nexo que conecta a [[John Poindexter]] con [[Peter Thiel]]. Fue quien presentó la tecnología de vigilancia del gobierno a Thiel para crear [[Palantir]].
+- conecta establishment de defensa, círculos neocon y redes como [[Le Cercle]];
+- ayuda a leer el pasaje entre seguridad nacional clásica y plataformas de análisis como [[Palantir]];
+- funciona como figura de interfaz entre think tanks, guerra preventiva y mercado de inteligencia.
 
-## Análisis De Poder (Tiers)
+## Que cambio
 
-### Tier B (Operador)
+La nota seguía en formato viejo, demasiado comprimida y apoyada en tono ensayístico. Se recompila como persona-nodo para separar mejor su rol doctrinal, su función de puente y sus conexiones operativas.
 
-- **Defense Policy Board:** Influyó en la política de defensa de múltiples administraciones.
-- **[[Le Cercle (Inteligencia Europea Derecha)]]:** Presidente del grupo de inteligencia transatlántico.
-- **[[Proyecto para el Nuevo Siglo Estadounidense]]:** Firmante fundador del PNAC.
+## Lectura TL
 
-## La Conexión Palantir
+### 1. Halcón doctrinal
 
-Según reportes, Perle actuó como intermediario entre el establishment de inteligencia (Poindexter, CIA) y Peter Thiel. Facilitó los primeros contratos de Palantir con agencias de inteligencia.
+Perle importa como arquitecto o promotor de líneas duras de política exterior y defensa dentro del establishment estadounidense.
 
-## Conexiones Clave
+### 2. Interfaz de redes
+
+En TL, su relevancia crece al verlo no solo como ideólogo, sino como conector entre burocracia de defensa, inteligencia transatlántica y nuevos dispositivos de vigilancia o análisis.
+
+### 3. Del Pentágono a la capa tecnológica
+
+Su utilidad analítica aparece cuando se rastrea cómo ciertas visiones de seguridad migran desde comités, boards y guerras clásicas hacia empresas y stacks de datos con vocación estatal.
+
+## Con que conecta
 
 - [[John Poindexter]]
 - [[Peter Thiel]]
 - [[Palantir]]
-- [[Le Cercle (Inteligencia Europea Derecha)]]
-- [[PNAC]]
-- [[Dick Cheney]]
+- [[Le Cercle]]
+- [[Proyecto para el Nuevo Siglo Estadounidense]]
 - [[Donald Rumsfeld]]
-
-## Fuentes
-
-- New Yorker profiles
-- Defense Policy Board records
-
-## Por Qué Importa (Estilo Nico)
-
-> "Perle es el tipo que le vende la Guerra de Irak al público, preside un grupo de inteligencia secreto europeo llamado Le Cercle, y después de que Poindexter se quema con el programa de vigilancia total, es Perle quien le presenta a Peter Thiel y nace Palantir. "
+- [[00_MOC - Redes de Poder]]

@@ -1,36 +1,51 @@
 ---
-titulo: JPMorgan Onyx
-tipo: "entidad"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [jpmorgan, onyx, project]
 publish: true
+created: 2026-02-09T17:26:07.462-03:00
+modified: 2026-04-19T13:09:39.471-03:00
+tags:
+  - jpmorgan-onyx
+  - jpmorgan
+  - tokenizacion
+  - liquidacion
+  - banca
+  - tl-intel-v3
 ---
 
-# [[JPMorgan Onyx]]
+# JPMorgan Onyx
 
-**Clasificación:** Tier A (Infraestructura de Banca en la Sombra Digital)\
-**Definición:** La división de blockchain y DLT de [[00_Glosario - Conceptos Fase 1#JPMorgan Chase|JPMorgan Chase]].
+## BLUF
 
-## 🦾 ANÁLISIS FORENSE
+[[JPMorgan Onyx]] importa en TL como brazo de infraestructura blockchain y liquidación digital de JPMorgan. Su valor no está en la retórica cripto, sino en mostrar cómo la gran banca usa tokenización, settlement propio y rails privados para posicionarse en la próxima capa del sistema monetario programable.
 
-**Onyx** no es un experimento con criptomonedas; es la construcción de un sistema financiero paralelo y privado. Su red "JPM Coin" ya procesa miles de millones de dólares diarios en liquidaciones mayoristas.
+## Por que importa en TL
 
-### Señal Vs Ruido
+- conecta banca tradicional, tokenización y liquidación casi instantánea en entornos institucionales;
+- ayuda a leer cómo los grandes bancos no resisten la transformación digital del dinero, sino que intentan dirigirla;
+- funciona como satélite del eje [[Proyecto Agora]] / [[CBDC]] / banca privada programable.
 
-- **Señal:** Participación central en [[Project Agorá]]. Onyx es el caballo de Troya de [[JPMorgan]] para definir cómo se tokenizarán los depósitos bancarios globales.
-- **Incentivo Revelado:** Al usar su propia red de liquidación, JPMorgan reduce su dependencia de los tiempos de la Reserva Federal (Fedwire) y SWIFT, ganando velocidad y capturando comisiones de red.
+## Que cambio
 
-### Cui Bono
+La nota seguía en formato viejo, muy comprimida y atada a naming legacy. Se recompila como entidad reusable para dejar mejor diferenciados función, incentivo y lectura TL.
 
-- **[[Jamie Dimon]] / JPMorgan:** Dominio tecnológico absoluto sobre la banca comercial tradicional.
-- **Clientes Institucionales:** Liquidación 24/7 sin riesgo de "lag" monetario.
+## Lectura TL
 
-## 🔗 CONEXIONES
+### 1. Banca privada con rails propios
 
-- [[Project Agorá]]
-- [[RWA Tokenization Protocol]]
-- [[00_Glosario - Conceptos Fase 1#SWIFT|SWIFT]] (Competidor/Socio)
+Onyx importa porque expresa la ambición de que grandes bancos operen redes más rápidas, interoperables y menos dependientes de infraestructuras tradicionales como Fedwire o SWIFT.
+
+### 2. Tokenización como continuidad del poder bancario
+
+En TL, su relevancia crece cuando la innovación no se entiende como disrupción contra la banca, sino como nueva fase de su adaptación para conservar centralidad.
+
+### 3. Privado y sistémico a la vez
+
+Su utilidad aparece al mostrar cómo una infraestructura inicialmente privada puede terminar influyendo en estándares de todo el sistema financiero si escala lo suficiente.
+
+## Con que conecta
+
+- [[JPMorgan]]
+- [[Proyecto Agora]]
+- [[SWIFT]]
+- [[Tokenized Sovereign Debt]]
+- [[Dinero Programable]]
 - [[Jamie Dimon]]

@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-02-09T17:48:56.666-03:00
-modified: 2026-04-07T10:47:14.116-03:00
+modified: 2026-04-21T12:50:25.668-03:00
 tags:
-  - moc
-  - rimland
-  - geopolitica
-  - choke-points
-  - tl-intel-v3
+  - "#moc"
+  - "#rimland"
+  - "#geopolitica"
+  - "#choke-points"
+  - "#tl-intel-v3"
 ---
 
 # MOC - Rimland
@@ -32,21 +32,21 @@ tags:
 
 ## Choke Points
 
-- [[Estrecho de Malaca (El talon de Aquiles de China)]]
-- [[Estrecho de Ormuz (El grifo del petroleo)]]
-- [[Bab el-Mandeb (La puerta de las lágrimas - Yemen)]]
+- [[Estrecho de Malaca]]
+- [[Estrecho de Ormuz]]
+- [[Bab el-Mandeb]]
 - [[Canal de Suez]]
 - [[Canal de Panamá (El patio trasero de EEUU)]]
-- [[Estrecho de Gibraltar (La llave del Mediterráneo)]]
+- [[Estrecho de Gibraltar]]
 - [[Bósforo y Dardanelos (La salida rusa)]]
-- [[Ruta del Mar del Norte (El Ártico Ruso)]]
+- [[Ruta del Mar del Norte]]
 
 ## Corredores en Disputa
 
 - [[Corredor IMEC]]
 - [[TRIPP]]
-- [[Belt and Road Initiative (BRI)]]
-- [[Collar de Perlas (Estrategia portuaria de China)]]
+- [[Belt and Road Initiative]]
+- [[Collar de Perlas]]
 - [[Proyecto mBridge]]
 - [[Golpes en el Sahel]]
 
@@ -95,7 +95,7 @@ tags:
 
 - [[05_Fuentes/Cambio China hacia mercado interno.md|Cambio China hacia mercado interno]]
 
-- [[Club Safari.md|Club Safari]]
+- [[China busca orden mundial alternativo - US Commission.md|China busca orden mundial alternativo - US Commission]]
 
 - [[Comando Sur.md|Comando Sur]]
 
@@ -150,6 +150,8 @@ tags:
 - [[Patron - Teoria del Rimland (Spykman).md|Patron - Teoria del Rimland (Spykman)]]
 
 - [[Patron - Weaponization (Armamentizacion).md|Patron - Weaponization (Armamentizacion)]]
+
+- [[Steve Witkoff.md|Steve Witkoff]]
 
 - [[Teoria del Rimland.md|Teoria del Rimland]]
 

@@ -3,7 +3,7 @@ publish: true
 aliases:
   - "Litio y Comando Sur: La Militarizacion de los Recursos"
 created: 2026-01-29T19:17:22.692-03:00
-modified: 2026-04-18T12:32:11.443-03:00
+modified: 2026-04-18T12:32:18.512-03:00
 tags:
   - litio
   - comando-sur

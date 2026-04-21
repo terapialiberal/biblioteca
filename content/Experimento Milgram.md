@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-25T22:08:55.596-03:00
-modified: 2026-04-07T11:48:31.542-03:00
+modified: 2026-04-07T11:14:47.006-03:00
 tags:
   - experimento
   - milgram

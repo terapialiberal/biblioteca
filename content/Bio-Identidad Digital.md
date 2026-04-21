@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Bio-Identidad Digital (La Marca)
 created: 2026-02-25T22:15:02.519-03:00
-modified: 2026-04-17T16:35:28.194-03:00
+modified: 2026-04-17T16:35:23.919-03:00
 tags:
   - bio-identidad
   - biometria

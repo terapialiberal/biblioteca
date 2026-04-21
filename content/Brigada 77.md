@@ -1,38 +1,57 @@
 ---
-titulo: 77th Brigade
-tipo: "persona"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [77th, brigada, facebook, jtrig]
 publish: true
+aliases:
+  - 77th Brigade
+created: 2026-01-29T19:17:05.901-03:00
+modified: 2026-04-21T12:34:57.402-03:00
+tags:
+  - "#brigada-77"
+  - "#guerra-cognitiva"
+  - "#psyops"
+  - "#reino-unido"
+  - "#informacion"
+  - "#tl-intel-v3"
 ---
 
-# 77th Brigade
+# Brigada 77
 
-## Resumen General
+## BLUF
 
-La **77th Brigade** es una unidad del Ejército Británico creada en 2015, especializada en "guerra de información" y "guerra no letal". Su campo de batalla son las redes sociales (Twitter, [[00_Glosario - Conceptos Fase 1#Facebook (Orígenes)|Facebook (Orígenes)]]). Utilizan tácticas psicológicas para moldear narrativas, contrarrestar desinformación (o crearla) y atacar objetivos cognitivos. Durante la pandemia COVID-19, se reveló que monitoreaban y actuaban contra ciudadanos británicos críticos de las políticas de lockdown (Big Brother Watch).
+[[Brigada 77]] importa en TL como unidad británica asociada a operaciones de información, influencia y guerra psicológica en el entorno digital. Su valor analítico está en mostrar cómo herramientas concebidas para conflicto externo pueden deslizarse hacia gestión narrativa y monitoreo de población doméstica.
 
-## Análisis Terapia Liberal (Cui Bono)
+## Por que importa en TL
 
-### Tier A (Beneficiarios)
+- conecta ejército, guerra cognitiva y administración de narrativa;
+- ayuda a leer la militarización blanda del espacio informativo;
+- funciona como caso británico del pasaje entre psyops exteriores y vigilancia discursiva interna.
 
-- **Gobierno UK:** Usa al ejército para controlar la opinión pública doméstica, borrando la línea entre guerra externa y política interna.
+## Que cambio
 
-### Tier B (Operadores)
+La nota existía en formato muy viejo, con tipado incorrecto, links rotos y framing demasiado comprimido. Se recompila como entidad reusable y se alinea con los nodos de `JTRIG`, `Operacion Mockingbird` y `Guerra Cognitiva`.
 
-- **Reservistas de Big Tech:** Reclutan a expertos en marketing y redes sociales de empresas civiles.
+## Que es
 
-## Puntos Clave
+Brigada 77 es una unidad del Ejército Británico orientada a operaciones de información, engagement digital, influencia y apoyo a campañas en el terreno cognitivo.
 
-- **Chindits:** Toman su nombre de una unidad de guerrilla de la WWII, implicando que hacen "guerrilla digital".
-- **Guerra contra el Ciudadano:** Su despliegue contra la disidencia doméstica durante la pandemia confirma que para el Estado, la opinión del ciudadano es una "amenaza" a neutralizar.
+## Lectura TL
 
-## Conexiones
+### 1. Del teatro bélico al espacio civil
+
+El nodo importa porque muestra cómo doctrinas de influencia desarrolladas para guerra o contrainsurgencia pueden reutilizarse en contextos de crisis interna, salud pública o control reputacional.
+
+### 2. Guerra no letal, efectos reales
+
+En TL, la relevancia de esta unidad está en que la “guerra no letal” no deja de ser guerra por operar sobre percepción, conducta, agenda y legitimidad.
+
+### 3. Precedente atlántico
+
+Leída junto con `JTRIG`, `Five Eyes` y otros dispositivos de seguridad narrativa, Brigada 77 ayuda a mapear una fase donde defensa, inteligencia y plataformas convergen sobre el mismo terreno informativo.
+
+## Con que conecta
 
 - [[JTRIG]]
 - [[Guerra Cognitiva]]
-- [[Propaganda]]
-- [[COVID-19 (Censura)]]
+- [[Five Eyes]]
+- [[Operacion Mockingbird]]
+- [[BBC]]
+- [[00_MOC - Operaciones Encubiertas]]

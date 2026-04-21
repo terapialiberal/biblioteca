@@ -1,29 +1,56 @@
 ---
 publish: true
-titulo: Steve Witkoff
-tipo: "persona"
-tier_primario: 'b'
-nivel_evidencia: 'alto'
-estado: activo
-tags: [trump, negociador, iran, activos-reales]
+aliases:
+  - "Steve Witkoff: negociador de activos reales"
+created: 2026-03-04T13:40:44.186-03:00
+modified: 2026-04-18T21:35:28.768-03:00
+tags:
+  - trump
+  - negociador
+  - iran
+  - activos-reales
+  - rimland
+  - tl-intel-v3
 ---
 
 # Steve Witkoff
 
-> [!INFO] Perfil Operativo (Tier B)
-> **Resumen:** Desarrollador inmobiliario de NY y negociador geopolítico _ad hoc_ para la administración Trump 2.0.
-> **Función Real:** Nodo de conexión entre el capital inmobiliario Tier A y la diplomacia de activos reales en Irán y Ucrania.
+## BLUF
 
-## 🔎 Análisis Forense
+[[Steve Witkoff]] importa en TL como operador-negociador del entorno Trump que traslada una logica de activos reales, dealmaking y captura de valor al terreno geopolitico. Su funcion no es la de un diplomatico clasico, sino la de un puente entre negociacion politica y reordenamiento patrimonial post-crisis.
 
-Witkoff no es un diplomático de carrera (Tier C), sino un ejecutor de capital (Tier B). Su rol en 2025-2026 ha sido central en la apertura de canales discretos con [[Abbas Araghchi]] para la reconstrucción de infraestructura en Irán a cambio de neutralidad geopolítica.
+## Por que importa en TL
 
-## ⛓️ Conexiones
+- conecta entorno Trump, negociacion indirecta con Iran y logica inmobiliaria / infraestructural;
+- ayuda a leer ciertos canales diplomaticos como prefiguracion de negocios, reconstruccion o rediseño de corredores;
+- sirve para mapear el cruce entre politica exterior, capital del Golfo y captura de activos.
 
-- **[[Donald Trump]]**: Amigo personal y asesor de confianza.
-- **[[Jared Kushner]]**: Colaboración en el diseño de corredores logísticos (ver [[Investigación - Kushner Gaza Hub]]).
-- **[[Affinity Partners]]**: Nexo de financiamiento con capitales del Golfo.
+## Que cambio
 
-## 💰 Cui Bono
+La nota estaba muy breve y todavia en formato de ficha operativa. Se recompila como perfil modular del corredor `Trump / Iran / dealmaking / activos reales`, con mas contexto y mejor encaje para conexiones futuras.
 
-Captura de valor en activos reales y contratos de infraestructura en el Rimland post-conflicto.
+## Lectura TL
+
+### 1. Diplomacia de activos
+
+En TL, Witkoff importa porque resume una forma de actuar: mirar territorios, puertos, reconstruccion e infraestructura como objetos negociables dentro de paquetes politicos mayores.
+
+### 2. Canal no convencional
+
+Su presencia tambien sirve para leer que parte del trumpismo prefiere canales personales, discretos y paralelos a la diplomacia profesional. Eso puede acelerar acuerdos, pero tambien mezclar conflicto geopolítico con interés patrimonial.
+
+### 3. Puente con el Golfo
+
+Leido junto con [[Affinity Partners]] y el ecosistema de capital del Golfo, el nodo ayuda a pensar quien puede financiar, garantizar o capturar valor en escenarios de posguerra, distension o rediseño logistico.
+
+### 4. Iran como tablero de negociación
+
+La lectura fuerte no es que Witkoff controle el expediente iraní, sino que aparece como tipo de actor apto para una fase donde negociacion, sanciones, energía y activos fisicos empiezan a mezclarse.
+
+## Conexiones
+
+- [[Donald Trump]]
+- [[Jared Kushner]]
+- [[Affinity Partners]]
+- [[Sucesion en Iran 2026]]
+- [[Estrecho de Ormuz]]

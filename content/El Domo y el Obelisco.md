@@ -31,7 +31,7 @@ publish: true
 ## Conexiones Críticas
 
 - [[Vaticano]]: El nodo de control espiritual.
-- [[City of London]]: El nodo de control financiero.
+- [[City de Londres]]: El nodo de control financiero.
 - [[00_Glosario - Conceptos Fase 1#Washington D.C.|Washington D.C.]]: El nodo de control militar/logístico.
 
 ## Cui Bono

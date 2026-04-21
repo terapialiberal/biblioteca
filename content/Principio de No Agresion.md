@@ -4,7 +4,7 @@ aliases:
   - NAP
   - Principio De No Agresión
 created: 2026-01-29T19:17:31.365-03:00
-modified: 2026-04-07T11:50:10.112-03:00
+modified: 2026-04-07T11:38:37.496-03:00
 tags:
   - nap
   - principio-de-no-agresion

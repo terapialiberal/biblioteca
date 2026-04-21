@@ -1,37 +1,57 @@
 ---
-titulo: Stablecoin Regulation US (2026)
-tipo: "persona"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: ["2026", regulation, senadora, stablecoin]
 publish: true
+aliases:
+  - Stablecoin Regulation US (2026)
+created: 2026-02-09T17:32:42.080-03:00
+modified: 2026-04-19T13:19:37.738-03:00
+tags:
+  - stablecoins
+  - regulacion-eeuu
+  - dolar-digital
+  - treasuries
+  - cripto
+  - tl-intel-v3
 ---
 
-# [[Stablecoin Regulation US (2026)]]
+# Stablecoin Regulation US
 
-**Clasificación:** Tier A (Institucionalización del Dólar Digital Privado)\
-**Actores:** [[US Congress]], [[Senadora Lummis]], [[Senadora Gillibrand]], [[Tether]], [[Circle]] (USDC).
+## BLUF
 
-## 🦾 ANÁLISIS FORENSE
+[[Stablecoin Regulation US]] importa en TL como proceso de normalizacion del dolar digital privado dentro del aparato estatal estadounidense. La cuestion no es si Washington va a tolerar stablecoins, sino bajo que condiciones las va a integrar a su propia arquitectura monetaria y de vigilancia.
 
-Tras años de ambigüedad, el **GENIUS Act (2025)** y las regulaciones de 2026 han definido las reglas del juego. No se trata de prohibir las stablecoins, sino de convertirlas en bancos 2.0 bajo estricta vigilancia federal.
+## Por que importa en TL
 
-### El Marco De 2026
+- convierte a las stablecoins en demanda regulada de bonos del Tesoro;
+- muestra que la opcion preferida de EEUU puede ser una CBDC privatizada antes que una CBDC federal explicita;
+- conecta compliance, geofinanzas, mercados cripto y coercion financiera.
 
-- **Reserva 1:1:** Obligación de mantener el 100% de las reservas en efectivo o bonos del Tesoro de US a corto plazo bajo custodia de bancos regulados.
-- **Prohibición Algorítmica:** Las stablecoins tipo "Terra/Luna" son ilegales para uso comercial en US.
-- **Interés y Rendimiento:** La disputa final de 2026 es si las stablecoins pueden pagar intereses a los holders, lo que las convertiría en competidores directos de las cuentas de ahorro tradicionales.
+## Que cambio
 
-### Cui Bono
+La nota estaba como recorte util pero todavia demasiado literal. Se recompila como nodo conceptual del corredor `stablecoins / Tesoro / dolar digital privado`, con framing mas reusable y menos dependencia de una ley puntual.
 
-- **[[Circle]] / [[JPMorgan]]:** Consolidación como emisores "seguros", absorbiendo la cuota de mercado de competidores offshore no regulados.
-- **[[FED]]:** Obtiene una demanda masiva y perpetua de Bonos del Tesoro para respaldar las stablecoins.
+## Lectura TL
 
-## 🔗 CONEXIONES
+### 1. No prohibicion sino absorcion
 
-- [[CBDC]] (Las stablecoins son la CBDC "privada" de facto en US)
-- [[JPMorgan Onyx]]
-- [[Larry Fink]]
-- [[RWA Tokenization Protocol]]
+En TL, la regulacion importa porque no apunta a matar el sector, sino a separar emisores integrables de emisores sacrificables. El objetivo es ordenar la capa privada del dolar on-chain, no suprimirla.
+
+### 2. Bonos y reservas
+
+La exigencia de reservas en cash o letras del Tesoro convierte la regulacion en una forma de sostener demanda por deuda corta estadounidense, especialmente si el sistema necesita nuevos compradores estructurales.
+
+### 3. Vigilancia y congelamiento
+
+La regulacion tambien importa como salto cualitativo de control: mas KYC, congelamiento rapido, blacklist operativa y convergencia entre emisores privados y agencias de cumplimiento.
+
+### 4. Seleccion de ganadores
+
+Leido con [[Tether USDS]], [[Howard Lutnick]] y [[Tokenized Sovereign Debt]], el nodo ayuda a ver que la pelea regulatoria no es abstracta. Es una pelea por quien administra el rail autorizado del dolar digital.
+
+## Con que conecta
+
+- [[Tether USDS]]
+- [[Howard Lutnick]]
+- [[Treasuries]]
+- [[CBDC]]
+- [[Tokenized Sovereign Debt]]
+- [[Stablecoins]]

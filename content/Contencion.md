@@ -38,7 +38,7 @@ Problema: China es el principal socio comercial del mundo, contenerla económica
 
 - [[Teoría del Rimland (Nicholas Spykman)]]
 - [[Guerra Fría]]
-- [[CFR (Council on Foreign Relations)]]
+- [[CFR]]
 
 ## Fuentes
 

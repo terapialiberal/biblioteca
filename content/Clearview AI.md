@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:07.917-03:00
-modified: 2026-04-17T16:32:53.798-03:00
+modified: 2026-04-17T16:32:47.525-03:00
 tags:
   - clearview
   - reconocimiento-facial

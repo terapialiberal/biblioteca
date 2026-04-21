@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-04-17T13:00:31.273-03:00
-modified: 2026-04-17T13:00:31.273-03:00
+modified: 2026-04-20T10:43:49.066-03:00
 tags:
   - project-2025
   - heritage
   - trumpismo
   - reordenamiento
+  - venture-politica
   - tl-intel-v3
 ---
 
@@ -14,28 +15,36 @@ tags:
 
 ## BLUF
 
-[[Project 2025]] no importa en TL solo como programa electoral conservador. Importa como manual de recambio institucional: una plantilla para purgar burocracia, reordenar el Ejecutivo y alinear el Estado con una agenda de seguridad, energía, defensa autónoma y disciplina regulatoria funcional al nuevo ciclo.
+[[Project 2025]] importa en TL no solo como programa conservador, sino como manual de recambio institucional y captura ejecutiva. Su valor esta en convertir doctrina, staffing y disciplina burocratica en una plantilla operativa para reordenar el Estado segun una coalicion que mezcla guerra cultural, seguridad, industria y tecnopolitica.
 
-## Por qué importa
+## Por que importa en TL
 
 - vuelve operativo el salto de think tank a gobierno;
-- conecta ideología, staffing y ejecución institucional;
-- sirve como puente entre guerra cultural visible y rediseño administrativo real.
+- conecta ideologia, seleccion de cuadros y ejecucion administrativa;
+- sirve como puente entre el trumpismo politico, [[Heritage Foundation]] y el subcorredor mas amplio de derecha tecnocratica.
+
+## Que cambio
+
+La nota ya estaba enfocada correctamente, pero seguia corta frente a otros nodos recompilados de la misma rama. Se alinea al formato vivo para dejar mas claras funcion, uso y conexiones estructurales.
 
 ## Lectura TL
 
-El valor de `Project 2025` no está en cada punto del documento, sino en su función sistémica:
+### 1. Manual de captura del Ejecutivo
 
-- seleccionar cuadros;
-- acelerar captura del aparato estatal;
-- volver ejecutables agendas que combinan nacionalismo retórico con infraestructura tecnofinanciera.
+Project 2025 importa porque no se limita a fijar prioridades discursivas. Tambien busca dejar prearmado como intervenir sobre agencias, burocracia, cargos de confianza y capacidad regulatoria.
 
-En el corpus reciente aparece ligado a [[Heritage Foundation]] y al ecosistema de derecha tecnocrática que intenta gobernar con más disciplina ejecutiva y menos fricción burocrática.
+### 2. De guerra cultural a arquitectura estatal
 
-## Conexiones
+En TL, su relevancia aumenta cuando se observa que la agenda visible sobre inmigracion, familia o cultura funciona junto a un programa menos televisivo: recentralizar mando y reducir friccion interna del aparato.
+
+### 3. Plataforma para una nueva coalicion gobernante
+
+Su valor crece porque ofrece un punto de encuentro entre conservadurismo institucional, derecha populista y sectores tecnopoliticos que quieren un Estado mas ejecutable para sus propias prioridades.
+
+## Con que conecta
 
 - [[Heritage Foundation]]
 - [[Schedule F]]
-- [[J.D. Vance]]
+- [[JD Vance]]
+- [[Donald Trump]]
 - [[Palantir]]
-- [[Project Stargate]]

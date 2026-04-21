@@ -32,7 +32,7 @@ publish: true
 ## Conexiones Críticas
 
 - [[Complejo Militar-Industrial]]: Nodo de networking para contratistas del Pentágono.
-- [[CFR (Council on Foreign Relations)]]: Sinergia de perfiles.
+- [[CFR]]: Sinergia de perfiles.
 - [[Albert Pike]]: Arquitecto de la expansión masónica en Tier B.
 
 ## Cui Bono

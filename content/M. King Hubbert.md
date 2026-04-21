@@ -1,32 +1,41 @@
 ---
-titulo: M. King Hubbert
-tipo: "persona"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [hubbert, king, movimiento, shell]
 publish: true
+created: 2026-01-29T19:17:23.366-03:00
+modified: 2026-04-18T18:24:50.488-03:00
+tags:
+  - hubbert
+  - peak-oil
+  - tecnocracia
+  - energia
+  - tl-intel-v3
 ---
 
 # M. King Hubbert
 
-## Resumen Ejecutivo
+## BLUF
 
-**Quién fue:** Geofísico de **Shell Oil** y cofundador intelectual del **[[Movimiento Tecnocrático]]** en los años 30.
-**Por qué Importa:** Hubbert es el **Científico del Control Social**. Es famoso por la teoría del **Pico del Petróleo (Peak Oil)**, que predijo que la producción de crudo entraría en un declive irreversible. Para un analista de Tier A, Hubbert no solo descubrió una limitación física; suministró la **Justificación Científica para la Escasez Artificial**. Su trabajo permitió que las élites justificaran precios altos, racionamiento y, eventualmente, la transición forzosa hacia la "Economía Net Zero", todo basado en la premisa de que los recursos son finitos y solo pueden ser gestionados por una casta de técnicos expertos (Tecnocracia), eliminando la soberanía del consumidor y del ciudadano.
+[[M. King Hubbert]] importa en TL como figura puente entre geofísica, teoría del pico del petróleo y pensamiento tecnocrático. Su relevancia está tanto en el diagnóstico de límites energéticos como en los usos políticos que ese diagnóstico habilitó.
 
-## Análisis (Tiers)
+## Por qué importa en TL
 
-### Tier A (La Arquitectura De La Tecnocracia)
+- conecta energía, escasez, tecnocracia y planificación;
+- sirve para leer cómo una tesis científica puede convertirse en fundamento de gestión social;
+- ayuda a mapear el pasaje desde recursos físicos a administración experta de la escasez.
 
-- **Technocracy Study Course:** Hubbert escribió el manual principal de Technocracy Inc., donde proponía reemplazar a los políticos por ingenieros y sustituir el dinero (basado en deuda) por certificados de energía. Esta visión es el prototipo del **Crédito Social** y de las **CBDC** modernas: un sistema donde tu capacidad de consumo está estrictamente ligada a tu "huella de carbono" o cuota energética.
-- **La Utilidad de la Mentira:** Aunque sus predicciones sobre el fin del petróleo fallaron (no previó el fracking ni otras tecnologías), su narrativa fue adoptada por el **Club de Roma** y el **WEF** para promover la idea de los "límites al crecimiento", una herramienta de Tier A para ralentizar el desarrollo de los países pobres y mantener el monopolio energético.
+## Qué cambió
 
-### Tier B (La Operativa Corporativa)
+La nota venía con mojibake y exceso de cierre doctrinal. Se recompila como perfil técnico-intelectual reusable.
 
-- **Shell como Incubadora:** El hecho de que Hubbert desarrollara sus teorías más radicales mientras trabajaba para una de las mayores petroleras del mundo (**[[Shell]]**) demuestra que el Tier B corporativo entiende que la escasez es más rentable que la abundancia. Si el petróleo es "infinito" u "abiótico", no puedes cobrar precios de monopolio. Hubbert le dio a las petroleras el pretexto perfecto para ser "los gestores de la extinción".
+## Lectura TL
 
-## âš¡ Conclusión TL
+Hubbert importa porque su curva del pico no solo ofreció una hipótesis sobre producción petrolera. También entregó un lenguaje político de límites, racionamiento y autoridad técnica que luego se vuelve reutilizable en agendas mucho más amplias.
 
-M. King Hubbert es el nexo entre la geofísica y la tiranía técnica. Su legado no es una curva de producción oil, sino la idea de que la humanidad vive en una "Nave Espacial Tierra" con recursos limitados que deben ser racionados mediante un algoritmo central. Es el abuelo intelectual del **Gran Reset**.
+En TL, el nodo vale tanto por su contenido energético como por la forma en que la escasez puede transformarse en justificación para nuevos regímenes de administración central.
+
+## Con qué conecta
+
+- [[Peak Oil]]
+- [[Technocracy Inc]]
+- [[Shell]]
+- [[Club de Roma]]
+- [[Escasez Artificial]]

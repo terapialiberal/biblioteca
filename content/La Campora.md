@@ -3,7 +3,7 @@ publish: true
 aliases:
   - La Cámpora
 created: 2026-01-29T19:17:21.200-03:00
-modified: 2026-04-18T11:47:41.405-03:00
+modified: 2026-04-18T11:47:47.352-03:00
 tags:
   - argentina
   - kirchnerismo

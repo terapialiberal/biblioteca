@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:04.301-03:00
-modified: 2026-04-18T10:56:38.613-03:00
+modified: 2026-04-20T19:35:27.013-03:00
 tags:
   - aspen
   - liderazgo
@@ -51,4 +51,4 @@ Leído junto con [[Fundacion Ford]], [[Fundacion Rockefeller]] y [[Carnegie Endo
 - [[Fundacion Rockefeller]]
 - [[Carnegie Endowment]]
 - [[CFR]]
-- [[Bilderberg Group]]
+- [[Bilderberg]]

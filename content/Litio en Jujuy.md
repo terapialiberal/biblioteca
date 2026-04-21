@@ -1,31 +1,44 @@
 ---
-titulo: 'Litio En Jujuy: La Cara Oculta De La "Transición Verde"'
-tipo: "concepto"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [blackrock, jujuy, litio, vanguard]
 publish: true
+aliases:
+  - "Litio En Jujuy: La Cara Oculta De La Transicion Verde"
+created: 2026-01-29T19:17:22.663-03:00
+modified: 2026-04-18T17:55:33.376-03:00
+tags:
+  - litio
+  - jujuy
+  - transicion-verde
+  - extractivismo
+  - argentina
+  - tl-intel-v3
 ---
 
-# Litio En Jujuy: La Cara Oculta De La "Transición Verde"
+# Litio en Jujuy
 
-> [!ABSTRACT] Resumen de Inteligencia
-> El litio es el "Oro Blanco" indispensable para el almacenamiento energético de la **Cuarta Revolución Industrial**. En Jujuy, la operación de empresas como **Livent** (ahora Arcadium) representa un caso de libro de la captura de recursos de **Tier A**. Bajo la narrativa de la "sustentabilidad", se ejecuta un despojo hídrico de las comunidades locales y una subfacturación masiva de exportaciones que drena la riqueza real de Argentina hacia los centros financieros globales.
+## BLUF
 
-## Análisis De Poder (Matrix)
+[[Litio en Jujuy]] importa en TL como caso de cruce entre transición energética, extractivismo, disputa geopolítica y conflicto territorial. Sirve para leer cómo una agenda presentada como verde puede sostener dinámicas clásicas de captura de recursos y presión sobre comunidades locales.
 
-### Tier A: La Captura Del Collateral Estratégico
+## Por qué importa en TL
 
-- **Subfacturación y Fuga:** Livent fue denunciada por declarar exportaciones a precios irrisorios para evadir regalías y fugar divisas. Es el método clásico de las oligarquías extractivas: llevarse el recurso físico y dejar solo el pasivo ambiental y una migaja contable.
-- **Financistas en la Sombra:** Detrás de las mineras operan los sospechosos de siempre: [[BlackRock]] y [[Vanguard]], quienes controlan tanto las automotrices eléctricas como las mineras que proveen el insumo, cerrando el círculo de la cadena de suministro.
+- conecta energía, minerales estratégicos y soberanía;
+- permite leer a Jujuy como laboratorio de extractivismo con narrativa de modernización;
+- ayuda a bajar la discusión global del litio a conflictos concretos de agua, regalías, territorio y represión.
 
-### Tier B: Operadores Territoriales
+## Qué cambió
 
-- **La Represión Institucional:** El control del litio requiere "paz social" forzada. Los conflictos en Jujuy (reforma constitucional de Morales) son la respuesta de **Tier B** para blindar los contratos mineros frente a la resistencia indígena y popular de Tier C.
-- **Geopolítica del Commando Sur:** La general [[00_Glosario - Conceptos Fase 1#Laura Richardson|Laura Richardson]] ha sido explícita: el Triángulo del Litio es una cuestión de "Seguridad Nacional" para EE.UU. frente al avance de China. El litio no es una mercancía, es un **activo de guerra**.
+La nota venía con encoding roto y tono demasiado cerrado. Se recompila como concepto modular más útil para conectar Argentina, transición verde y disputa por recursos críticos.
 
-## âš¡ Conclusión De Terapia Liberal
+## Lectura TL
 
-Cuando te vendan el auto eléctrico como la "salvación del planeta", recordá que ese auto costó la desecación de una cuenca en la Puna argentina. El litio no es una transición energética, es una **transfusión de recursos**. El Tier A cambia de combustible, pero el sistema de extracción y saqueo sigue siendo exactamente el mismo.
+El litio en Jujuy no debe leerse solo como oportunidad económica ni solo como saqueo lineal. En TL importa precisamente como punto de fricción entre promesa de desarrollo, captura externa de valor, subordinación logística y capacidad del territorio para negociar condiciones reales.
+
+Su valor analítico aumenta cuando se lo ubica dentro de cadenas globales donde fondos, mineras, Estados y bloques geopolíticos compiten por asegurar insumos críticos sin asumir localmente los costos sociales, hídricos y políticos.
+
+## Con qué conecta
+
+- [[Triangulo del Litio]]
+- [[Transicion Verde]]
+- [[Laura Richardson]]
+- [[Extractivismo]]
+- [[BlackRock - Vanguard - State Street]]

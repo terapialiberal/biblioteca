@@ -1,30 +1,43 @@
 ---
-titulo: "Ley Smith-Mundt Modernizada: La Guerra De Información Legalizada"
-tipo: "concepto"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [guerra, informacin, legalizada, mundt]
 publish: true
+aliases:
+  - "Ley Smith-Mundt Modernizada: La Guerra De Informacion Legalizada"
+created: 2026-01-29T19:17:22.410-03:00
+modified: 2026-04-19T12:08:29.502-03:00
+tags:
+  - smith-mundt
+  - guerra-cognitiva
+  - propaganda
+  - operaciones-de-informacion
+  - tl-intel-v3
 ---
 
-# Ley Smith-Mundt Modernizada: La Guerra De Información Legalizada
+# Ley Smith-Mundt Modernizada
 
-> [!ABSTRACT] Resumen de Inteligencia
-> La Ley Smith-Mundt Modernizada (aprobada en 2012) representa la caída de la última barrera legal que impedía al gobierno de EE.UU. realizar **Operaciones de Información** directamente contra sus propios ciudadanos. Al levantar la prohibición de difundir propaganda estatal ("Diplomacia Pública") en territorio doméstico, el sistema legalizó la **[[Guerra Cognitiva]]**. Desde su implementación, la distinción entre "noticias" y "guiones de inteligencia" ha desaparecido, transformando a los medios corporativos en el brazo operativo del **[[Complejo Industrial de la Censura]]**.
+## BLUF
 
-## Análisis De Poder (Matrix)
+La [[Ley Smith-Mundt Modernizada]] importa en TL como referencia para pensar el debilitamiento de fronteras entre propaganda exterior, diplomacia pública, operaciones de información y consumo doméstico de narrativas estatales.
 
-### Tier B: Los Operadores De La Percepción
+## Por qué importa en TL
 
-- **BBG / USAGM como Arma:** La U.S. Agency for Global Media ahora puede alimentar sus contenidos (noticias pre-fabricadas por el Departamento de Estado/CIA) directamente a las cadenas locales (CNN, NBC, ABC). Esto elimina la necesidad de la **[[Operación Mockingbird]]** clandestina; ahora es una **Operación Legal**.
-- **Gestión de la Disidencia:** La ley permite al Tier B saturar el espacio informativo con narrativas unificadas para ahogar cualquier visión alternativa, etiquetándola preventivamente como "desinformación extranjera".
+- ayuda a leer la normalización de operaciones narrativas en entornos democráticos;
+- conecta medios, aparato estatal y guerra cognitiva;
+- sirve como nodo para discutir cuándo una flexibilización legal cambia el marco de intervención sobre la opinión pública.
 
-### Tier A: La Gestión Conductual De La Masa
+## Qué cambió
 
-- **El Fin de la Realidad Objetiva:** Para el Tier A, la población no es un conjunto de ciudadanos con derechos, sino una masa a ser moldeada. La Smith-Mundt Modernizada es la herramienta que permite construir una "Realidad de Consenso" artificial (Ej: Narrativas sobre pandemias, guerras en Ucrania/Gaza o crisis climáticas) donde el Tier C ya no puede distinguir entre un hecho y una PsyOp estatal.
+La nota venía con encoding roto y formato viejo. Se recompila como concepto reusable, sin depender de frases absolutas para sostener su valor analítico.
 
-## âš¡ Consecuencia Crítica: La Muerte Del Periodismo
+## Lectura TL
 
-Hoy, un periodista de un "Mainstream Media" no es un investigador, es un **retransmisor**. Bajo esta ley, si el Pentágono decide que una narrativa es necesaria para la "Estabilidad Nacional", puede insertarla en todos los noticieros legalmente. El resultado es un estado de **Hipnosis Colectiva Sincronizada**.
+La importancia de Smith-Mundt no está solo en el texto legal, sino en el clima operativo que expresa: una época en la que la distinción entre influencia externa, comunicación estratégica y gestión de percepciones internas se vuelve mucho más porosa.
+
+En TL, el nodo sirve para mapear cómo la guerra informativa puede institucionalizarse o justificarse con marcos legales, burocráticos y mediáticos que diluyen responsabilidad directa sin eliminar efectos concretos sobre el espacio público.
+
+## Con qué conecta
+
+- [[Operacion Mockingbird]]
+- [[Cognitive Warfare]]
+- [[Complejo Industrial de la Censura]]
+- [[USAGM]]
+- [[Operaciones Encubiertas]]

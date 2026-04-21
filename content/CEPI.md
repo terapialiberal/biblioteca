@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Coalition for Epidemic Preparedness Innovations
 created: 2026-04-17T17:02:42.793-03:00
-modified: 2026-04-17T20:12:45.593-03:00
+modified: 2026-04-17T20:12:51.705-03:00
 tags:
   - cepi
   - vacunas

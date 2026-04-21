@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:26.985-03:00
-modified: 2026-04-07T11:48:58.278-03:00
+modified: 2026-04-07T11:15:05.574-03:00
 tags:
   - arquitecto
   - bitcoin

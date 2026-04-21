@@ -1,32 +1,43 @@
 ---
-titulo: McKinsey & Company
-tipo: "concepto"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [company, crisis, mckinsey, purdue]
 publish: true
+aliases:
+  - McKinsey & Company
+created: 2026-01-29T19:17:24.459-03:00
+modified: 2026-04-18T18:24:50.544-03:00
+tags:
+  - mckinsey
+  - consultoria
+  - tecnocracia
+  - captura-institucional
+  - tl-intel-v3
 ---
 
-# McKinsey & Company
+# McKinsey and Company
 
-## Resumen Ejecutivo
+## BLUF
 
-**Qué es:** La consultora de gestión más influyente y prestigiosa del mundo, asesora de gobiernos, monarquías y las corporaciones del Fortune 500.
-**Por qué Importa:** McKinsey es el **Tejido Conectivo de Tier A**. Actúa como el sistema nervioso del poder global, estandarizando políticas y estrategias a través de fronteras nacionales. No es solo una consultora; es la **Escuela de Operadores del Estado Profundo**. Sus ex-empleados pueblan los ministerios, los consejos de administración de los bancos centrales y las direcciones de las Big Tech. Su función real es la de "Fixers": proporcionan la cobertura técnica y "científica" para decisiones brutales (recortes, despidos masivos, privatizaciones) permitiendo que los líderes políticos de Tier B eviten la responsabilidad moral alegando que "lo dice el informe de McKinsey".
+[[McKinsey and Company]] importa en TL como interfaz entre élites corporativas, burocracias estatales y justificación tecnocrática de decisiones duras. Su valor está en cómo traduce intereses de poder en lenguaje de eficiencia, reforma y neutralidad técnica.
 
-## Análisis (Tiers)
+## Por qué importa en TL
 
-### Tier A (La Ética Del Algoritmo)
+- conecta gobiernos, corporaciones, fondos y organismos multilaterales;
+- ayuda a leer cómo ciertas políticas impopulares se legitiman vía consultoría;
+- sirve para pensar la convergencia de cuadros formados en un mismo marco managerial.
 
-- **Optimización del Caos:** McKinsey ha sido señalada por trabajar simultáneamente para reguladores y regulados. En la **Crisis de los Opioides**, asesoró a **[[Purdue Pharma]]** sobre cómo "producir de forma turbo" las ventas de OxyContin, mientras asesoraba a la FDA. Su lealtad no es hacia la salud pública, sino hacia la eficiencia de la extracción de beneficios, sin importar el coste humano (en este caso, cientos de miles de muertos).
-- **Asesor de Dictaduras:** McKinsey es el cerebro detrás de "Vision 2030" en Arabia Saudita y ha trabajado intensamente para el gobierno chino, demostrando que para Tier A, la ideología política es irrelevante frente a la eficiencia del control tecnocrático.
+## Qué cambió
 
-### Tier B (El Pipeline De Talento)
+La nota venía con encoding roto y framing demasiado absoluto. Se recompila como entidad estructural del corredor `consultoria / tecnocracia / captura blanda`.
 
-- **La Red de Alumnis:** Figuras como Pete Buttigieg, directores del FMI, y CEOs de Google pasaron por McKinsey. Esto crea una **Convergencia de Pensamiento**: todos los que toman decisiones importantes han sido entrenados en el mismo marco de análisis deshumanizado que prioriza el capital sobre el trabajo y la centralización sobre la soberanía local.
+## Lectura TL
 
-## âš¡ Conclusión TL
+McKinsey importa porque convierte decisiones políticas, económicas y sociales en problemas de optimización aparentemente neutros. Esa traducción técnica desmoraliza el conflicto y externaliza responsabilidad: "no decide el gobierno, decide el informe".
 
-McKinsey vende "inteligencia", pero lo que realmente entrega es **impunidad institucional**. Es el oráculo al que acuden los poderosos para validar sus planes de dominación bajo una estética de gráficos de PowerPoint y eficiencia corporativa. Si hay un desastre social orquestado, probablemente hubo un consultor de McKinsey cerca cobrando una minuta millonaria.
+En TL, el nodo funciona como pieza clave de una tecnocracia global que no necesita gobernar siempre en primera persona: le alcanza con diseñar marcos, métricas y planes que otros ejecutan.
+
+## Con qué conecta
+
+- [[Purdue Pharma]]
+- [[Tecnocracia]]
+- [[Captura Regulatoria]]
+- [[FMI]]
+- [[Big Tech]]

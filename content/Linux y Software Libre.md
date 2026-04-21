@@ -1,30 +1,44 @@
 ---
-titulo: "Linux Y Software Libre: La Última Trinchera De La Soberanía"
-tipo: "concepto"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [apple, libre, linux, software]
 publish: true
+aliases:
+  - "Linux Y Software Libre: La Ultima Trinchera De La Soberania"
+created: 2026-01-29T19:17:22.632-03:00
+modified: 2026-04-18T18:21:45.113-03:00
+tags:
+  - linux
+  - software-libre
+  - soberania-digital
+  - vigilancia
+  - tecnologia
+  - tl-intel-v3
 ---
 
-# Linux Y Software Libre: La Última Trinchera De La Soberanía
+# Linux y Software Libre
 
-> [!ABSTRACT] Resumen de Inteligencia
-> Linux es más que un sistema operativo; es la única infraestructura tecnológica global que no pertenece a una corporación de **Tier A**. Frente al modelo extractivo y de vigilancia masiva de [[Microsoft]] (Windows Recall) y [[Apple]], el software libre permite la **Soberanía Digital Individual**. Al set código abierto, permite la auditoría constante, impidiendo la inserción de puertas traseras (backdoors) de inteligencia de **Tier B** y garantizando que el usuario sea el dueño real de su hardware.
+## BLUF
 
-## Análisis De Poder (Matrix)
+[[Linux y Software Libre]] importa en TL como contramodelo frente a ecosistemas cerrados de plataforma. Su valor está en que permite auditar, modificar y descentralizar partes de la infraestructura digital que en otros entornos quedan capturadas por corporaciones o proveedores de vigilancia.
 
-### Tier A vs. El Bien Común Digital
+## Por qué importa en TL
 
-- **La Paradoja de la Merced:** El Tier A ([[Microsoft]], [[Google]], [[Amazon]]) odia el software libre porque no puede monopolizarlo mediante patentes, pero lo **necesita** para correr sus servidores e IAs. Linux es el "Comunismo que funcionó" por accidente, creando un recurso común que el capital no ha podido capturar del todo.
-- **Vigilancia por Diseño:** Windows y MacOS están diseñados como terminales de recolección de telemetría (espionaje legal). Linux es la anomalía que rompe el flujo de datos hacia el **[[Capitalismo de Vigilancia]]**.
+- ofrece una lectura concreta de soberanía digital, no solo retórica;
+- ayuda a distinguir entre tecnología utilizable y tecnología administrada por terceros;
+- conecta transparencia técnica, autonomía operativa y resistencia a captura por diseño.
 
-### Tier B: La Guerra De Los Backdoors
+## Qué cambió
 
-- **Pentágono / NSA:** Las agencias de inteligencia prefieren sistemas cerrados donde pueden forzar la inclusión de vulnerabilidades. El software libre es su mayor obstáculo, ya que cualquier modificación sospechosa es detectada por la comunidad global de desarrolladores.
+La nota venía con encoding roto y tono manifiesto. Se recompila como concepto más usable dentro del corredor `tecnologia / vigilancia / soberania`.
 
-## âš¡ Conclusión De Terapia Liberal
+## Lectura TL
 
-Si usas Windows, sos un inquilino en tu propia computadora, y el dueño de casa ([[Satya Nadella]]) está revisando tu tacho de basura cada noche. Si usas Linux, sos el dueño. No es por "nerdismo", es por **defensa propia**. Linux es el "Bitcoin" de los sistemas operativos: descentralizado, transparente y resistente a la censura.
+El software libre importa menos como identidad cultural y más como arquitectura política: quién puede inspeccionar el código, quién define la hoja de ruta, quién decide sobre telemetría, backdoors o dependencia técnica.
+
+En TL, Linux no aparece como solución mágica universal, pero sí como ejemplo fuerte de cómo una infraestructura abierta puede reducir asimetrías entre usuario, proveedor y aparato de vigilancia.
+
+## Con qué conecta
+
+- [[Soberania Digital]]
+- [[Capitalismo de Vigilancia]]
+- [[Microsoft]]
+- [[Google]]
+- [[Apple]]

@@ -1,50 +1,54 @@
 ---
-titulo: Captura Regulatoria (Regulatory Capture)
-tipo: "persona"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [capture, puerta, regulatoria, regulatory]
 publish: true
+aliases:
+  - Captura Regulatoria (Regulatory Capture)
+  - Regulatory Capture
+created: 2026-01-29T19:17:06.422-03:00
+modified: 2026-04-21T13:11:12.452-03:00
+tags:
+  - "#captura-regulatoria"
+  - "#regulacion"
+  - "#lobby"
+  - "#monopolio"
+  - "#estado-corporacion"
+  - "#tl-intel-v3"
 ---
 
-# Captura Regulatoria (Regulatory Capture)
+# Captura Regulatoria
 
-## Perfil TL (Resumen Ejecutivo)
+## BLUF
 
-**¿Qué es?** Un fenómeno de "política profunda" donde una agencia gubernamental (creada para proteger al público) termina actuando como defensor de los beneficios comerciales de la industria que supuestamente debe vigilar.
+[[Captura Regulatoria]] importa en TL como el proceso por el cual organismos creados para supervisar o limitar una industria terminan operando en favor de esa misma industria, ya sea por dependencia financiera, presión política, cooptación profesional o puerta giratoria.
 
-**¿Por qué importa?** Es la **institucionalización de la corrupción**. Bajo la captura regulatoria, el Estado no regula a la industria; la industria usa al Estado para eliminar a sus competidores y legitimarse. Agencias como la [[FDA]], la SEC o la FAA se convierten en sub-departamentos de relaciones públicas de las corporaciones del Tier A. Esto permite que productos peligrosos o fraudes financieros reciban el "sello oficial de aprobación", desarmando la defensa del ciudadano.
+## Por que importa en TL
 
-## Análisis De Poder (Tiers)
+- conecta regulación, cartelización, barreras de entrada y blindaje reputacional;
+- ayuda a leer cómo la norma puede beneficiar a incumbentes en vez de disciplinarlos;
+- funciona como concepto base del corredor `agencias / lobby / compliance / monopolio`.
 
-### Tier A (Los Dueños De La Regla)
+## Que cambio
 
-- **Diseño de la Traba:** El Tier A no odia la regulación; la ama cuando él mismo la escribe. Las regulaciones complejas y costosas actúan como una "falla de mercado artificial" que impide que pequeños innovadores desafíen el monopolio de los incumbentes.
-- **Financiamiento de Agencias:** Logran que las agencias dependan de los "fees" (pagos) de las propias empresas reguladas para funcionar, creando un conflicto de interés estructural e irreversible.
+La nota seguía en formato viejo, con tipado incorrecto y framing muy comprimido. Se recompila como concepto reusable para integrarla mejor con `Puerta Giratoria`, `Capitalismo de Amigos` y el MOC de captura regulatoria.
 
-### Tier B (Operadores / La Puerta Giratoria)
+## Lectura TL
 
-- **Tráfico de Influencias:** El mecanismo principal es la [[Puerta Giratoria]]. Los reguladores de hoy son los directores corporativos de mañana (y viceversa). El funcionario no regula con dureza porque está negociando su próximo sueldo de siete cifras en la empresa que "vigila".
+### 1. Regulación al servicio del incumbente
 
-### Tier C (Narrativa Pública)
+La captura regulatoria importa porque muestra que el gran capital no siempre quiere menos regulación: muchas veces quiere regulación escrita a su medida.
 
-- "Garantizando la seguridad del consumidor". "Basado en evidencia científica". "Estándares internacionales de calidad". Retórica utilizada para que la población acepte la cartelización de la economía bajo el disfraz de la protección estatal.
+### 2. Complejidad como barrera
 
-## Conexiones Clave
+En TL, su relevancia crece cuando se observa cómo procedimientos, estándares y requisitos pueden expulsar a competidores pequeños mientras legitiman al actor dominante.
 
-- [[Puerta Giratoria]] (El motor)
-- [[FDA]] (El ejemplo clásico en salud)
-- [[Big Pharma]] (El beneficiario sistemático)
-- [[Lobby]] (La herramienta de captura)
+### 3. Estado y cartel como continuidad
 
-## Fuentes
+También sirve para leer la frontera borrosa entre burocracia y negocio: la agencia ya no corrige al mercado, sino que ayuda a organizarlo en términos favorables al grupo mejor conectado.
 
-- George Stigler: "The Theory of Economic Regulation" (1971).
-- Robert F. Kennedy Jr.: Investigaciones sobre la captura de la FDA/CDC (The Real Anthony Fauci).
-- Lawrence Lessig: "Republic, Lost".
+## Con que conecta
 
-## Por Qué Importa (Estilo Nico)
-
-> "Cuando el zorro se encarga de vigilar el gallinero y encima le paga el sueldo al dueño de la granja, tenés captura regulatoria. El sello de 'aprobado por el gobierno' es muchas veces solo la factura del lobby que la empresa ya pagó. No es que el Estado sea ineficiente, es que es terriblemente eficiente trabajando para los que pueden comprar las leyes. La regulación es el escudo del monopolio, no tu defensa."
+- [[Puerta Giratoria]]
+- [[Lobby]]
+- [[Big Pharma]]
+- [[SEC (Securities and Exchange Commission)]]
+- [[FDA]]
+- [[00_MOC - Captura Regulatoria y Puertas Giratorias]]

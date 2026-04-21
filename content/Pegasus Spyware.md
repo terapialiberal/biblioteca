@@ -1,12 +1,12 @@
 ---
 publish: true
 created: 2026-01-29T19:17:30.190-03:00
-modified: 2026-04-07T11:49:08.854-03:00
+modified: 2026-04-21T12:48:16.903-03:00
 tags:
-  - pegasus
-  - project
-  - spyware
-  - unit
+  - "#pegasus"
+  - "#project"
+  - "#spyware"
+  - "#unit"
 ---
 
 # Pegasus Spyware (NSO Group): La Diplomacia De La Infección
@@ -31,7 +31,7 @@ tags:
 
 ## Conexiones Críticas
 
-- [[Unit 8200]]: La cantera de talento de donde nace NSO Group.
+- [[Unidad 8200]]: La cantera de talento de donde nace NSO Group.
 - [[Project Nimbus]]: El contrato de nube con Google/Amazon que complementa la infraestructura de datos.
 - [[Palantir]]: Por la capacidad de procesar los datos masivos obtenidos por herramientas como Pegasus.
 - [[Vigilancia Masiva]]: El contexto macro en el que se inserta esta herramienta quirúrgica.

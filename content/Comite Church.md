@@ -1,54 +1,48 @@
 ---
-titulo: Comité Church
-tipo: "entidad"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [allen, church, comit, playbooks]
 publish: true
+aliases:
+  - Comité Church
+  - Church Committee
+  - Comite Church (Evento)
+created: 2026-01-29T19:17:08.385-03:00
+modified: 2026-04-18T17:21:25.377-03:00
+tags:
+  - church-committee
+  - inteligencia
+  - oversight
+  - cia
+  - nsa
+  - limited-hangout
+  - tl-intel-v3
 ---
 
-# Comité Church
+# Comite Church
 
-![](https://wikispooks.com/w/images/8/81/Church_Committee.jpg)
+## BLUF
 
-## Resumen General
+El [[Comite Church]] fue la investigación del Senado estadounidense sobre abusos de CIA, FBI y NSA a mediados de los años 70. En TL importa como punto de inflexión: expuso crímenes reales del aparato de inteligencia, pero también mostró cómo el sistema puede metabolizar el escándalo, reformarse en superficie y mutar hacia capas más opacas.
 
-El Comité Church (1975-1976) fue el último gran intento del Congreso de EE.UU. de investigar y controlar los crímenes de las agencias de inteligencia (CIA, FBI, NSA). Aunque expuso atrocidades como MKULTRA y planes de asesinato, Wikispooks sugiere que sus reformas fueron ignoradas y que, paradójicamente, llevó al "Deep State" a volverse aún más encubierto y privatizado para evitar futuro escrutinio.
+## Por qué importa en TL
 
-## Puntos Clave Para Video
+- documenta que operaciones hoy tildadas de paranoia ya fueron admitidas oficialmente;
+- ayuda a leer la relación entre exposición pública, limited hangout y reconfiguración del deep state;
+- conecta la era de abusos analógicos con la transición hacia vigilancia y tercerización más sofisticadas.
 
-### 1. Revelaciones Explosivas
+## Qué cambió
 
-- **MKULTRA:** Confirmó que la CIA drogaba a ciudadanos estadounidenses sin su consentimiento para experimentar con control mental.
-- **Asesinatos:** Expuso planes para matar a líderes extranjeros como Fidel Castro (usando la mafia) y Patrice Lumumba.
-- **Operación Mockingbird:** Reveló la infiltración de la CIA en los medios de comunicación para plantar propaganda.
+Había dos notas paralelas: `Comite Church` y `Comite Church (Evento)`. Se unifican en un solo nodo porque la variante de evento no aportaba una separación operativa útil; queda absorbida como alias para no fragmentar el tema.
 
-### 2. La Advertencia Ignorada
+## Lectura TL
 
-- **"Momentum Burocrático":** El Comité advirtió que las operaciones encubiertas tenían una inercia propia peligrosa.
-- **Frank Church:** El senador advirtió famosamente que la capacidad de vigilancia de la NSA podría convertir a EE.UU. en una tiranía de la que "no habría escapatoria".
+El Comité Church prueba dos cosas a la vez. Primero, que las agencias de inteligencia sí realizaron operaciones extremas contra ciudadanos, medios y líderes extranjeros. Segundo, que la exposición institucional no garantiza desarme permanente: muchas capacidades se repliegan, se privatizan o vuelven bajo otro marco legal cuando cambia el clima político.
 
-### 3. El Resultado: Más Secreto
+Por eso en TL el valor del Church Committee no es nostálgico ni celebratorio. Sirve como evidencia documental y como lección de método: cuando el sistema concede una verdad incómoda, hay que mirar no solo qué reveló, sino qué permitió reubicar fuera de cámara.
 
-- **Privatización:** En lugar de detenerse, las operaciones ilegales se movieron a canales más oscuros (privatización, outsourcing a inteligencia extranjera) para burlar las nuevas leyes de supervisión.
-
-## Ángulos Posibles Para El Video
-
-1. **La Última Verdad:** El memento en que el gobierno admitió oficialmente que conspiraba contra sus ciudadanos.
-2. **La Profecía de Frank Church:** Cómo su advertencia sobre la NSA se hizo realidad con Snowden 40 años después.
-3. **Licencia para Matar:** Los intentos oficiales de la CIA de asesinar presidentes extranjeros.
-
-## Ver También
+## Con qué conecta
 
 - [[CIA]]
-- [[NSA]]
-- [[FBI]]
-- [[Playbooks del Deep State]] (Limited Hangout)
-- [[Allen Dulles]]
-- [[Timeline - 1940s-1960s]]
-
-## Referencias
-
-- <https://wikispooks.com/wiki/Church_Committee>
+- [[Agencia de Seguridad Nacional]]
+- FBI
+- [[MKUltra]]
+- [[Operacion Mockingbird]]
+- [[Limited Hangout]]

@@ -1,53 +1,42 @@
 ---
-titulo: William Casey
-tipo: "persona"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [bcci, casey, irn, william]
 publish: true
+created: 2026-01-29T19:17:44.392-03:00
+modified: 2026-04-18T18:17:14.902-03:00
+tags:
+  - william-casey
+  - cia
+  - iran-contra
+  - bcci
+  - operaciones-encubiertas
+  - tl-intel-v3
 ---
 
 # William Casey
 
-## Resumen Ejecutivo
+## BLUF
 
-**¿Quién es?** Director de la CIA bajo Reagan (1981-87). Arquitecto de Irán-Contra. Veterano de OSS en WW2. Murió convenientemente de un tumor cerebral justo antes de testificar ante el Congreso.
+[[William Casey]] importa en TL como arquitecto de la expansión encubierta de la CIA durante la era Reagan. Su figura condensa financiamiento opaco, guerras proxy, banca sucia y autonomía operativa frente al control formal del Congreso.
 
-**¿Por qué importa?** Expandió operaciones encubiertas sin supervisión del Congreso. Irán-Contra demostró que la CIA opera como entidad autónoma, financiándose con tráfico de drogas y armas.
+## Por qué importa en TL
 
-## Análisis (Tiers)
+- conecta [[Iran-Contra]], [[BCCI]] y tramas de inteligencia paralela;
+- sirve para leer cómo la CIA opera con financiamiento mixto y zonas grises;
+- ayuda a mapear la transición de anticomunismo discursivo a red global de operaciones encubiertas.
 
-### Tier A (Beneficiarios)
+## Qué cambió
 
-- **Contratistas de armas:** Ventas ilegales a Irán y Contras.
-- **Carteles de droga:** CIA facilitó tráfico de cocaína (ver Gary Webb).
-- **BCCI:** Banco usado para canalizar fondos.
+La nota venía en formato viejo y muy esquemático. Se recompila como perfil operativo reusable dentro del corredor `CIA / banca / guerra proxy`.
 
-### Tier B (Operativa)
+## Lectura TL
 
-- **Irán-Contra:** Vendió armas a Irán (enemigo), usó ganancias para financiar Contras (prohibido por Congreso).
-- **Operación Ciclón:** Armó muyahidines en Afganistán â†’ Al-Qaeda.
-- **Death squads:** Entrenó escuadrones de la muerte en El Salvador, Guatemala, Honduras.
-- **BCCI connection:** Usó el banco criminal para operaciones encubiertas.
+Casey importa porque vuelve visible una doctrina de poder: si el control democrático bloquea una operación, se construyen canales alternativos. Ahí aparecen bancos pantalla, aliados regionales, tráfico ambiguo y aparatos de guerra tercerizados.
 
-### Tier C (Narrativa)
+En TL, el nodo funciona como uno de los pivotes humanos del paso desde inteligencia clásica a complejo encubierto transnacional.
 
-- "Lucha contra el comunismo"
-- "Defensa de la libertad en América Central"
-- Su muerte "oportuna" evitó que testificara.
+## Con qué conecta
 
-## Conexiones
-
-- [[Irán-Contra]]
-- [[00_Glosario - Conceptos Fase 1#BCCI Scandal|BCCI Scandal]]
-- [[CIA Narcotráfico]]
-- [[George H. W. Bush]] (VP durante operaciones)
-- [[Oliver North]] (ejecutor Irán-Contra)
-
-## Fuentes
-
-- Iran-Contra congressional investigation
-- "Veil" - Bob Woodward
-- Gary Webb investigations
+- [[Iran-Contra]]
+- [[BCCI]]
+- [[CIA Narcotrafico]]
+- [[Oliver North]]
+- [[Operacion Ciclon]]

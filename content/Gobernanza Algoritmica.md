@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:15.573-03:00
-modified: 2026-04-17T14:27:30.403-03:00
+modified: 2026-04-17T14:27:23.722-03:00
 tags:
   - gobernanza-algoritmica
   - tecnocracia

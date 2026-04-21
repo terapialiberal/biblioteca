@@ -3,13 +3,13 @@ publish: true
 aliases:
   - Genomic ID (Bio-Digital Convergence)
 created: 2026-02-09T17:33:02.121-03:00
-modified: 2026-04-17T16:32:53.772-03:00
+modified: 2026-04-21T11:39:06.710-03:00
 tags:
-  - genomic-id
-  - adn
-  - bio-digital
-  - identidad-digital
-  - tl-intel-v3
+  - "#genomic-id"
+  - "#adn"
+  - "#bio-digital"
+  - "#identidad-digital"
+  - "#tl-intel-v3"
 ---
 
 # Genomic ID
@@ -50,6 +50,8 @@ Leído junto con [[Biometria Global]] y [[Digital ID - Global Protocol]], este n
 
 - [[Biometria Global]]
 - [[Digital ID - Global Protocol]]
+- [[Vigilancia Biologica]]
+- [[Bioseguridad]]
 - [[Precision Medicine]]
 - [[Illumina]]
 - [[Gobernanza Algoritmica]]

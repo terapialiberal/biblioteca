@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-03-12T15:16:32.926-03:00
-modified: 2026-04-07T10:49:24.127-03:00
+modified: 2026-04-07T10:49:00.069-03:00
 tags:
   - genie-energy
   - golan

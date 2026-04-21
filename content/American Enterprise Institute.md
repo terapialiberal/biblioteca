@@ -1,50 +1,54 @@
 ---
 publish: true
-titulo: American Enterprise Institute (AEI)
-tipo: "entidad"
-fecha: 2026-02-25
-tier_primario: b
-nivel_evidencia: medio
-estado: activo
-tags: [american, enterprise, institute, richard]
+aliases:
+  - American Enterprise Institute (AEI)
+  - AEI
+created: 2026-01-29T19:17:03.429-03:00
+modified: 2026-04-21T12:57:41.471-03:00
+tags:
+  - "#aei"
+  - "#think-tank"
+  - "#neocon"
+  - "#defensa"
+  - "#washington"
+  - "#tl-intel-v3"
 ---
 
-# American Enterprise Institute (AEI)
+# American Enterprise Institute
 
-## Resumen Ejecutivo
+## BLUF
 
-**¿Qué es?** Uno de los think tanks más influyentes y antiguos de Washington D.C. Se define como conservador de libre mercado, pero actúa como la principal incubadora de la política exterior **neoconservadora** (Neocon).
+[[American Enterprise Institute]] importa en TL como uno de los think tanks más asociados a la producción doctrinal del neoconservadurismo y a la conexión entre política exterior agresiva, aparato de defensa, industria militar y cuadros republicanos de Washington.
 
-**¿Por qué importa?** El AEI fue el cerebro detrás de la **Guerra de Irak** y el despliegue del intervencionismo militar estadounidense en el siglo XXI. Proporcionó los cuadros técnicos y los argumentos ideológicos para el despliegue del poder hegemónico, sirviendo de puente entre las corporaciones de defensa (Raytheon, Boeing) y la política de Estado.
+## Por que importa en TL
 
-## Análisis De Poder (Tiers)
+- conecta doctrina, guerra preventiva y establishment conservador estadounidense;
+- ayuda a leer cómo los think tanks fabrican cuadros, lenguaje y legitimidad para agendas de intervención;
+- funciona como nodo de cruce entre neoconservadurismo, contratistas y red de policy shops de DC.
 
-### Tier A (Centralización / Propiedad)
+## Que cambio
 
-- El AEI no es Tier A por sí mismo; es el laboratorio ideológico financiado por la élite financiera y el complejo militar-industrial para fabricar consenso.
+La nota seguía en formato viejo, con enlaces de glosario heredados y framing poco modular. Se recompila como entidad reusable para integrarla mejor con `Proyecto para el Nuevo Siglo Estadounidense`, `Richard Perle` y `Heritage Foundation`.
 
-### Tier B (Operativa / Puerta Giratoria)
+## Lectura TL
 
-- **Incubadora Neocon:** Sus "fellows" han ocupado puestos críticos en múltiples administraciones republicanas. Figuras como [[Paul Wolfowitz]], [[Richard Perle]] y [[Dick Cheney]] han usado al AEI para lanzar planes de expansión imperial.
-- **Diseño de Conflictos:** Diseñaron la estrategia del "Surge" en Irak y continúan promoviendo la presión militar sobre Irán y China.
+### 1. Fábrica de política imperial
 
-### Tier C (Narrativa Pública)
+AEI importa porque no solo opina sobre el mundo: ayuda a traducir hegemonía, guerra y excepcionalismo en papers, cuadros y respetabilidad académica.
 
-- "Defensa de la libertad y el libre mercado". Organizan galas con políticos famosos para dar una pátina de legitimidad académica a la expansión militar corporativa.
+### 2. Think tank como incubadora
 
-## Conexiones Clave
+En TL, su relevancia crece cuando se observa cómo ex funcionarios, ideólogos y operadores circulan por este tipo de instituciones antes de entrar o reingresar al Estado.
 
-- [[00_Glosario - Conceptos Fase 1#PNAC (Project for the New American Century)|PNAC (Project for the New American Century)]] (Overlap total de objetivos)
-- [[Council on Foreign Relations|Council on Foreign Relations (CFR)]] (Coordinación de niveles altos)
-- [[Raytheon]] y [[Lockheed Martin]] (Financistas indirectos/beneficiarios)
-- [[Dick Cheney]] (Miembro honorario y usuario de sus políticas)
+### 3. Prestigio para la línea dura
 
-## Fuentes
+Su utilidad analítica está en mostrar cómo agendas duras pueden recubrirse de lenguaje técnico, liberal o institucional para volverse ejecutables.
 
-- James Perloff: "The Shadows of Power".
-- Archivos del National Security Archive sobre la planificación de Irak.
-- Reportes anuales de AEI.
+## Con que conecta
 
-## Por Qué Importa (Estilo Nico)
-
-> "Si querés saber dónde se cocinan las guerras 10 años antes de que caiga la primera bomba, mirá al AEI. No son abuelitos hablando de economía clásica; son los tipos que escriben los papeles que después firman los presidentes para mandar a pibes a morir por el petróleo y los contratos de reconstrucción. Es la fábrica de justificaciones para que el imperio siga expandiéndose mientras te dicen que están 'defendiendo la libertad'."
+- [[Neoconservadurismo]]
+- [[Proyecto para el Nuevo Siglo Estadounidense]]
+- [[Richard Perle]]
+- [[Dick Cheney]]
+- [[Heritage Foundation]]
+- [[00_MOC - Redes de Poder]]

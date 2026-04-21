@@ -1,44 +1,53 @@
 ---
-titulo: European Council on Foreign Relations
-tipo: "entidad"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [council, george, open, relations]
 publish: true
+aliases:
+  - ECFR
+created: 2026-01-29T19:17:12.621-03:00
+modified: 2026-04-21T13:01:59.788-03:00
+tags:
+  - "#ecfr"
+  - "#think-tank"
+  - "#europa"
+  - "#politica-exterior"
+  - "#soros"
+  - "#tl-intel-v3"
 ---
 
 # European Council on Foreign Relations
 
-> [!ABSTRACT] Ficha Técnica
-> **Narrativa Official:** Think tank pan-europeo de política exterior.
-> **Función Real:** CFR europeo. Promueve "Europa como potencia".
+## BLUF
 
-## Historia
+[[European Council on Foreign Relations]] importa en TL como think tank paneuropeo de política exterior que intenta articular una voz estratégica continental sin salir del campo general del orden liberal-atlantista.
 
-Fundado por [[George Soros]] y otros.
+## Por que importa en TL
 
-Modelado después del CFR americano pero para Europa.
+- conecta elites europeas, política exterior y marcos de integración continental;
+- ayuda a leer la capa intelectual que sostiene narrativas de autonomía estratégica europea;
+- funciona como espejo parcial del [[CFR]] dentro del espacio político europeo.
 
-## Fundadores/Funders
+## Que cambio
 
-- [[George Soros]] / [[Open Society Foundations]]
-- Gobiernos europeos
-- Corporaciones
+La nota estaba demasiado breve y en formato viejo. Se recompila como entidad reusable para ubicar mejor su función dentro del frente `Europa / política exterior / think tanks / Open Society`.
 
-## Agenda
+## Lectura TL
 
-- Autonomía estratégica europea
-- Integración EU
-- Orden liberal internacional
+### 1. Autonomía dentro del perímetro
 
-## Conexiones
+El ECFR importa porque promueve capacidad europea de acción estratégica, pero normalmente sin romper del todo con la infraestructura ideológica del bloque liberal occidental.
 
-- [[CFR (Council on Foreign Relations)]]
+### 2. Think tank continental
+
+En TL, su relevancia crece al ver cómo un nodo así ayuda a fabricar lenguaje común para política exterior, seguridad y alineamiento reputacional dentro de Europa.
+
+### 3. Interfaz entre fundaciones y Estado
+
+También sirve para mapear cómo fundaciones, élites políticas y expertos producen una capa europea de policy shaping que luego baja a gobiernos y medios.
+
+## Con que conecta
+
+- [[CFR]]
 - [[Open Society Foundations]]
-- EU institutions
-
-## Fuentes
-
-- ECFR website
+- [[Europa Fortaleza]]
+- [[Chatham House (RIIA)]]
+- [[Club de Madrid]]
+- [[00_MOC - Redes de Poder]]

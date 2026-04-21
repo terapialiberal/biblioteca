@@ -1,32 +1,41 @@
 ---
-titulo: Mae Brussell
-tipo: "persona"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [asesinato, brussell, operacin]
 publish: true
+created: 2026-01-29T19:17:23.393-03:00
+modified: 2026-04-18T18:24:50.402-03:00
+tags:
+  - mae-brussell
+  - parapolitica
+  - investigacion
+  - deep-state
+  - tl-intel-v3
 ---
 
 # Mae Brussell
 
-## Resumen Ejecutivo
+## BLUF
 
-**Quién fue:** Investigadora independiente y locutora de radio estadounidense, pionera en el análisis de lo que hoy llamamos "Deep State" o **Parapolítica**.
-**Por qué Importa:** Mae Brussell fue la **Cartógrafa de la Sombra**. Mientras el mundo veía el asesinato de JFK o el escándalo Watergate como eventos aislados, Mae conectó los puntos para revelar una **Red Fascista Transnacional** que se había infiltrado en EE.UU. tras la Segunda Guerra Mundial vía **[[Operación Paperclip]]**. Ella predijo eventos como la presidencia de Reagan y el recrudecimiento del control policial décadas antes de que ocurrieran. Su importancia radica en su metodología: el uso intensivo de fuentes públicas (recortes de prensa, informes gubernamentales) para reconstruir la anatomía oculta del poder, demostrando que el Tier A deja huellas para quien sabe leer entre líneas.
+[[Mae Brussell]] importa en TL como pionera de la parapolítica y del análisis de redes de poder a partir de fuentes abiertas. Su valor está en la metodología: conectar eventos, archivos, prensa y operaciones sin esperar validación institucional.
 
-## Análisis (Tiers)
+## Por qué importa en TL
 
-### Tier C (La Voz De La Resistencia Narrativa)
+- funciona como antecedente de investigación de deep politics y open source intelligence artesanal;
+- conecta JFK, Paperclip, Manson y cultura de inteligencia en EE.UU.;
+- ayuda a leer cómo una figura marginal puede inaugurar marcos que después se vuelven centrales.
 
-- **World Watchers International:** Su programa de radio anual (1971-1988) fue el primer "podcast de conspiración" serio. Mae no hablaba de alienígenas o fantasmas; hablaba de narcóticos, inteligencia militar, asesinatos políticos y la privatización del Estado. Su labor fue educar al Tier C para que viera la matriz de control antes de que fuera digitalizada.
-- **Investigación de JFK y Manson:** Fue la primera en señalar que el asesinato de Kennedy no fue obra de un loco, sino de un golpe de estado interno, y que Charles Manson era un instrumento de control social vinculado a la inteligencia militar. Su análisis de la "Infiltración Nazi" en la burocracia estadounidense es la base de casi toda la investigación parapolítica moderna.
+## Qué cambió
 
-### Tier A (El Sistema De Reacción)
+La nota venía con encoding roto y demasiado tono hagiográfico. Se recompila como perfil metodológico y político reusable.
 
-- **Acoso y Muerte:** Tras años de exponer a poderosos, Mae fue víctima de amenazas de muerte constantes, vigilancia y extraños incidentes de salud que culminaron en un cáncer fulminante en 1988. Para Tier A, figuras como Mae son "Células Anómalas" que deben ser neutralizadas mediante la calumnia (llamándola loca) o el silenciamiento físico cuando sus revelaciones amenazan la estabilidad de la Gran Narrativa.
+## Lectura TL
 
-## âš¡ El Legado: La Dieta De Información
+Mae Brussell importa porque entendió temprano que el poder deja trazas dispersas antes de dejar confesiones. Su trabajo muestra una forma de investigación donde el desafío no es obtener un documento definitivo, sino ordenar fragmentos suficientemente densos como para volver visible una arquitectura.
 
-Mae Brussell enseñó que la libertad depende de la calidad de nuestra "dieta de información". Su archivo masivo (miles de carpetas) es el testamento de que la verdad no está oculta, sino **enterrada bajo una montaña de ruido mediático**. Ella fue la primera en entender que vivimos en una "Cultura de Inteligencia" donde todo lo que vemos es una operación psicológica.
+En TL, eso la vuelve menos una heroína solitaria y más una referencia sobre cómo leer ruido, archivo y continuidad operativa.
+
+## Con qué conecta
+
+- [[Parapolitica]]
+- [[Operacion Paperclip]]
+- [[JFK]]
+- [[Charles Manson]]
+- [[OSINT]]

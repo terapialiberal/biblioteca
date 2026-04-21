@@ -1,30 +1,44 @@
 ---
-titulo: "Loosh: La Energética Del Sufrimiento Colectivo"
-tipo: "evento"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [colectivo, loosh, robert, sufrimiento]
 publish: true
+aliases:
+  - "Loosh: La Energetica Del Sufrimiento Colectivo"
+created: 2026-01-29T19:17:22.897-03:00
+modified: 2026-04-18T18:08:11.814-03:00
+tags:
+  - loosh
+  - robert-monroe
+  - sufrimiento
+  - energia
+  - metafisica
+  - tl-intel-v3
 ---
 
-# Loosh: La Energética Del Sufrimiento Colectivo
+# Loosh
 
-> [!ABSTRACT] Resumen de Inteligencia
-> El concepto de "Loosh" (popularizado por Robert Monroe) postula que el sufrimiento humano, el miedo, la ira y el dolor generan una forma de energía sutil que es "recolectada" por entidades parasitarias de **Tier A** (ya sean arcontes no humanos o élites psicopáticas). En el marco de Terapia Liberal, el Loosh es la explicación metafísica de por qué el sistema genera crisis perpetuas y caos mediático: el objetivo no es solo el dinero, sino la **extracción de intensidad emocional negativa** para alimentar el control sistémico.
+## BLUF
 
-## Análisis De Poder (Matrix)
+[[Loosh]] importa en TL como concepto metafísico usado para interpretar sufrimiento, miedo y caos como formas de extracción no solo política o económica, sino también energética o simbólica.
 
-### Tier A: Los Cosechadores De Frecuencia
+## Por qué importa en TL
 
-- **La Tesis de la Granja:** Si el mundo fuera una granja, el Loosh sería la leche o la lana. Los eventos traumáticos masivos (guerras, pandemias, sacrificios rituales públicos) funcionan como "picos de producción". Esto explicaría por qué, a pesar de tener recursos para el bienestar total, el sistema elige la escasez y el conflicto: la paz y la plenitud no producen Loosh.
-- **Rituales Públicos:** Los grandes eventos deportivos y de entretenimiento (Super Bowl, Juegos Olímpicos) son analizados como recolectores de energía emocional masiva, dirigida hacia símbolos específicos.
+- permite mapear una capa no material de ciertas lecturas del poder;
+- conecta crisis, medios, trauma colectivo y producción de intensidad emocional;
+- sirve para distinguir entre análisis estructural clásico y análisis metafísico dentro del ecosistema TL.
 
-### Tier B: Los Ingenieros Del Drama (Broadcasting)
+## Qué cambió
 
-- **Media y Miedo:** El Tier B (noticieros, redes sociales) es el encargado de mantener a la población en un estado de vibración baja (miedo, odio al prójimo, envidia). El diseño de los **[[Loops de Dopamina]]** y el "Doomscrolling" son técnicas de ingeniería social para maximizar la liberación de Loosh individual.
+La nota venía mal tipada como evento, con encoding roto y framing demasiado cerrado. Se recompila como concepto de lectura metafísica.
 
-## âš¡ Conclusión De Terapia Liberal
+## Lectura TL
 
-El Loosh es lo que queda cuando las explicaciones económicas se quedan cortas. ¿Por qué destruir Gaza o Ucrania cuando es poco rentable? Porque el **sacrificio y el terror** tienen un valor intrínseco en otra escala de poder. Tu indignación es el combustible de la Matrix. La única forma de "dejar de alimentar" al sistema es mediante la soberanía emocional: el rechazo al miedo y la desconexión del drama inducido.
+Loosh sirve cuando la pregunta deja de ser únicamente quién gana dinero o territorio y pasa a ser qué tipo de clima emocional produce el sistema de forma persistente. En esa clave, guerras, terror, escándalo, humillación y pánico no serían solo subproductos del poder, sino también materia prima de otro orden de extracción.
+
+En TL conviene tratar este nodo con cuidado: como hipótesis de lectura espiritual o energética, no como sustituto automático de análisis político, económico o institucional.
+
+## Con qué conecta
+
+- [[Robert Monroe]]
+- [[Loops de Dopamina]]
+- [[Doomscrolling]]
+- [[Gnosticismo]]
+- [[Control Narrativo]]

@@ -36,7 +36,7 @@ publish: true
 ## Conexiones Clave
 
 - [[00_Glosario - Conceptos Fase 1#China (Rise of)|China (Rise of)]] (Su principal amenaza estratégica)
-- [[Belt and Road Initiative (BRI)]] (El bypass de China)
+- [[Belt and Road Initiative]] (El bypass de China)
 - [[Singapur]] (El administrador del estrecho)
 - [[Puntos de Estrangulamiento (Choke Points)]] (Su categoría geográfica)
 

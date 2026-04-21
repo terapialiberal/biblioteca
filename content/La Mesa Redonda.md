@@ -1,12 +1,12 @@
 ---
 publish: true
 created: 2026-01-29T19:17:21.404-03:00
-modified: 2026-04-07T11:48:44.903-03:00
+modified: 2026-04-21T12:48:15.516-03:00
 tags:
-  - cecil
-  - fuente
-  - moderno
-  - reserva
+  - "#cecil"
+  - "#fuente"
+  - "#moderno"
+  - "#reserva"
 ---
 
 # La Mesa Redonda: El Código Fuente Del Globalismo Moderno
@@ -41,7 +41,7 @@ tags:
 - [[Cecil Rhodes]]: El financiador y visionario del imperio global.
 - [[Alfred Milner]]: El arquitecto operativo del grupo.
 - [[Carroll Quigley]]: El iniciado que documentó la existencia de la red en _Tragedy and Hope_.
-- [[CFR (Council on Foreign Relations)]]: La sucursal estadounidense del grupo.
+- [[CFR]]: La sucursal estadounidense del grupo.
 - [[Bill Clinton]]: El Rhodes Scholar que llevó la agenda de la Mesa Redonda a la presidencia de EE.UU.
 
 ## Conclusión Del Análisis

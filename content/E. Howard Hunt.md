@@ -1,50 +1,54 @@
 ---
-titulo: E. Howard Hunt
-tipo: "persona"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [asesinato, howard, hunt, watergate]
 publish: true
+created: 2026-01-29T19:17:10.772-03:00
+modified: 2026-04-19T13:22:59.380-03:00
+tags:
+  - e-howard-hunt
+  - cia
+  - watergate
+  - operaciones-encubiertas
+  - jfk
+  - tl-intel-v3
 ---
 
 # E. Howard Hunt
 
-## Perfil TL (Resumen Ejecutivo)
+## BLUF
 
-**¿Quién era?** Un legendario oficial de operaciones encubiertas de la CIA y uno de los principales ejecutores del escándalo **Watergate**.
+[[E. Howard Hunt]] importa en TL como operador que atraviesa varias capas del aparato encubierto estadounidense: [[CIA]], [[Bahia de Cochinos]] y [[Watergate]]. Su valor en la base no esta en convertirlo en explicacion total, sino en usarlo como nodo de continuidad entre operaciones clandestinas, crisis politicas y relatos posteriores sobre el poder permanente.
 
-**¿Por qué importa?** Hunt es el **conector definitivo entre los mayores "Eventos Profundos" de la historia de EE.UU.** Participó en el golpe de Guatemala (1954), organizó la invasión de Bahía Cochinos (1961) y fue jefe de los "plomeros" de Nixon. Su verdadera relevancia reside en su **"Confesión de Lecho de Muerte"** (2007), donde admitió ante su hijo su participación en un rol de apoyo en el **Asesinato de JFK**, identificando a **Lyndon B. Johnson** y a los altos mandos de la CIA (**Allen Dulles**, Cord Meyer) como los arquitectos del magnicidio. Hunt personifica al operador de **Tier B** de la Agencia que, tras ser descartado por el sistema (en la cárcel por Watergate), decide romper el pacto de silencio, revelando que Watergate fue, en realidad, un sabotaje de la CIA para deshacerse de un Nixon que sabía demasiado sobre "Bahía Cochinos" (eufemismo nixoniano para el asesinato de Kennedy).
+## Por que importa en TL
 
-## Análisis De Poder (Tiers)
+- conecta corredor Cuba-JFK-Watergate dentro de una misma biografia operativa;
+- permite leer como ciertos cuadros del mundo encubierto reaparecen en distintas crisis politicas;
+- ayuda a separar hechos bien establecidos de confesiones, rumores o capas interpretativas posteriores.
 
-### Tier A (Los Arquitectos Del Magnicidio)
+## Que cambio
 
-- **Allen Dulles y la Agencia:** Hunt trabajaba bajo las órdenes directas de la estructura de poder que JFK intentó "despedazar en mil pedazos". Su testimonio confirma que la decisión de eliminar a Kennedy no fue política, sino una medida reproductiva del Tier A de inteligencia para mantener su autonomía frente al poder ejecutivo.
+La nota previa estaba demasiado cerrada sobre hipotesis controversiales. Se recompila con foco en lo verificable, su utilidad como nodo y una distincion mas limpia entre trayectoria y lecturas posteriores.
 
-### Tier B (Operadores / El Plomero Del Estado Profundo)
+## Lectura TL
 
-- **Gestión de Crisis:** Hunt era el hombre para los trabajos sucios. Su rol en Watergate (irrumpir en oficinas para buscar archivos de chantaje) demuestra cómo el Tier B opera para estabilizar o desestabilizar administraciones según la conveniencia de la "Agencia".
-- **Hush Money:** Tras su captura, Hunt exigió millones de dólares a la administración Nixon a cambio de no revelar las "cosas sucias", demostrando que el Tier B conoce los secretos que pueden hundir al Tier A político.
+### 1. Operador de operaciones encubiertas
 
-### Tier C (Narrativa Pública)
+Hunt fue un oficial de la [[CIA]] asociado a operaciones clandestinas de la Guerra Fria, incluida su vinculacion con el frente cubano y con [[Bahia de Cochinos]].
 
-- "Ladrón torpe del Watergate". "Escritor de novelas de espías mediocre". Una caracterización mediática diseñada para quitarle credibilidad a sus revelaciones posteriores sobre el asesinato de JFK.
+### 2. Watergate como puente de lectura
 
-## Conexiones Clave
+Su participacion en [[Watergate]] lo vuelve especialmente importante en TL, porque muestra como personal con experiencia en inteligencia y accion encubierta reaparecio en una crisis politica interna de maxima visibilidad.
 
-- [[Asesinato de JFK]] (Su confesión póstuma)
-- [[Watergate]] (Su caída pública)
-- [[CIA]] (Su verdadera lealtad)
-- [[00_Glosario - Conceptos Fase 1#Richard Nixon|Richard Nixon]] (Su empleador político y víctima)
+### 3. Nodo de controversia
 
-## Fuentes
+Tambien es citado en lecturas alternativas sobre el asesinato de Kennedy. Ese material existe y forma parte del ecosistema interpretativo TL, pero conviene tratarlo como capa controvertida y no como hecho resuelto dentro de la nota base.
 
-- E. Howard Hunt: "American Spy: My Secret History in the CIA, Watergate and Beyond".
-- Saint John Hunt: "Bond of Secrecy" (La confesión de su padre).
-- Grabaciones de Nixon ("Smoking Gun Tape"): Nixon menciona a Hunt y su conexión con "lo de Bahía Cochinos".
+### 4. Utilidad real del nodo
 
-## Por Qué Importa (Estilo Nico)
+La funcion mas robusta de Hunt dentro de la wiki es ordenar un corredor donde se tocan inteligencia, operaciones clandestinas, presidencia y escandalo politico, sin forzar una teoria unica sobre todo el periodo.
 
-> "Howard Hunt es el Forrest Gump del Estado Profundo. Si hubo un muerto importante o un golpe de estado sucio en el siglo XX, Hunt estaba ahí limpiando las manchas de sangre de la alfombra. El tipo se llevó el secreto a la tumba... casi. Al final cantó y nos dijo lo que todos sospechábamos: que a Kennedy lo mataron los suyos y que Watergate fue una cama que la CIA le hizo a Nixon para que no hablara de más. Hunt es la prueba de que en Washington los presidentes son inquilinos, pero la Agencia es la dueña del edificio."
+## Con que conecta
+
+- [[CIA]]
+- [[Bahia de Cochinos]]
+- [[Watergate]]
+- [[Allen Dulles]]
+- [[John F. Kennedy (JFK)]]

@@ -1,51 +1,53 @@
 ---
-titulo: Bab el-Mandeb (La Puerta De Las Lágrimas)
-tipo: "concepto"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [canal, lgrimas, mandeb, puerta]
 publish: true
+aliases:
+  - Bab el-Mandeb (La Puerta De Las Lágrimas)
+created: 2026-01-29T19:17:04.623-03:00
+modified: 2026-04-21T12:53:21.161-03:00
+tags:
+  - "#bab-el-mandeb"
+  - "#chokepoint"
+  - "#mar-rojo"
+  - "#yemen"
+  - "#energia"
+  - "#tl-intel-v3"
 ---
 
-# Bab el-Mandeb (La Puerta De Las Lágrimas)
+# Bab el-Mandeb
 
-## Perfil TL (Resumen Ejecutivo)
+## BLUF
 
-**¿Qué es?** El estrecho de 29 km que conecta el Mar Rojo con el Océano Índico. Es el "cuello de botella" que separa a Arabia de África y protege el acceso al Canal de Suez.
+[[Bab el-Mandeb]] importa en TL como chokepoint que conecta Mar Rojo, Suez, Golfo de Adén y rutas energéticas hacia Europa. Su valor analítico está en mostrar cómo una franja mínima puede condicionar comercio, seguros, inflación y proyección militar a gran escala.
 
-**¿Por qué importa?** Es la reja del jardín del comercio global. Si Suez es la puerta de Europa, Bab el-Mandeb es donde se decide quién entra. La guerra en [[Yemen]] no es un conflicto civil por la democracia; es una batalla por el control físico de este estrecho. Quien controla estas aguas decora el precio de la energía y los suministros de Occidente.
+## Por que importa en TL
 
-## Análisis De Poder (Tiers)
+- conecta Yemen, Suez, Djibouti y flujo energético/comercial global;
+- ayuda a leer cómo conflictos locales pueden operar como palancas sobre cadenas sistémicas;
+- funciona como nodo hermano de [[Estrecho de Ormuz]] dentro del corredor de cuellos de botella energéticos.
 
-### Tier A (Centralización / Propiedad)
+## Que cambio
 
-- **El Veto Global:** El control de este estrecho otorga un poder de veto sobre la economía europea. Es el motivo real de la militarización extrema de **Djibouti**, donde potencias supuestamente enemigas (EE.UU. y China) tienen bases a pocos kilómetros una de otra.
-- **Choke Point Dual:** El objetivo saudí/occidental es evitar que Irán controle tanto el Estrecho de Ormuz como Bab el-Mandeb, lo que pondría a la infraestructura petrolera global bajo el mando de un solo bloque.
+La nota seguía en formato viejo, muy cargada de retórica y poco modular. Se recompila como concepto geopolítico reusable para integrarla mejor con `Rimland`, `Canal de Suez` y la crisis del Mar Rojo.
 
-### Tier B (Operativa / Gestión)
+## Lectura TL
 
-- **Guerra por Proxy:** Los **Hutíes** actúan como el brazo operativo que desafía el tráfico comercial, forzando a las grandes navieras a bordear África (Cabo de Buena Esperanza), lo que encarece el flete y alimenta la inflación controlada.
-- **Estado de Vigilancia en Djibouti:** Este pequeño país vive de alquilar su suelo para la vigilancia del estrecho, siendo el nodo de espionaje más denso del mundo.
+### 1. Chokepoint de segundo orden, impacto de primer orden
 
-### Tier C (Narrativa Pública)
+Bab el-Mandeb importa porque no necesita cerrarse por completo para generar shock. Basta elevar riesgo, costo o incertidumbre para alterar rutas, fletes y tiempos.
 
-- "Misión de protección de la navegación internacional". "Intervención humanitaria en Yemen". Se oculta el interés por la infraestructura detrás de retórica de seguridad y derechos humanos.
+### 2. Yemen como interfaz
 
-## Conexiones Clave
+En TL, el nodo vale porque muestra cómo una guerra periférica puede adquirir centralidad sistémica cuando se acopla a infraestructura crítica del comercio marítimo.
 
-- [[Canal de Suez (La arteria de Europa)]]
-- [[Yemen]] (El campo de batalla)
-- [[Base Militar China en Djibouti]]
-- [[Red Sea Gateway Terminal]]
+### 3. Densidad de potencias
 
-## Fuentes
+Su relevancia también crece por la concentración de bases, espionaje y actores estatales o proxy alrededor de Djibouti, Mar Rojo y Cuerno de África.
 
-- Investigaciones de Geopolítica de la Energía.
-- "The Gate of Tears: History of the Bab el-Mandeb Strait".
-- Reportes de la IEA sobre rutas marítimas.
+## Con que conecta
 
-## Por Qué Importa (Estilo Nico)
-
-> "No te comas el cuento de que Arabia Saudita bombardea Yemen 'por libertad'. Bombardean para que las llaves de Bab el-Mandeb no cambien de manos. En un mundo de barcos y contenedores, la libertad es un concepto abstracto; el control de este pasillo es poder real. Djibouti es el hotel de lujo del espionaje mundial: todos están ahí, mirando el agua, esperando a ver quién parpadea primero."
+- [[Yemen]]
+- [[Canal de Suez]]
+- [[Estrecho de Ormuz]]
+- [[Djibouti]]
+- [[Hutíes]]
+- [[00_MOC - Rimland]]

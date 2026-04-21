@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:21.103-03:00
-modified: 2026-04-07T11:48:42.281-03:00
+modified: 2026-04-20T19:37:22.483-03:00
 tags:
   - blackrock
   - carlson
@@ -28,7 +28,7 @@ tags:
 
 ### Tier C: La Población En La Diáspora De La Información
 
-- **La Migración hacia lo Descentralizado:** Para el Tier C que buscaba respuestas fuera del guion de la Catedral, Carlson era el único punto de contacto con la realidad en la televisión por cable. Su despido provocó el **Efecto Obi-Wan**: al ser golpeado por el sistema, se convirtió en una fuerza más poderosa en el entorno digital. El Tier C migró masivamente hacia **[[X (Twitter)]]** y plataformas independientes, rompiendo la inercia del consumo mediático pasivo.
+- **La Migración hacia lo Descentralizado:** Para el Tier C que buscaba respuestas fuera del guion de la Catedral, Carlson era el único punto de contacto con la realidad en la televisión por cable. Su despido provocó el **Efecto Obi-Wan**: al ser golpeado por el sistema, se convirtió en una fuerza más poderosa en el entorno digital. El Tier C migró masivamente hacia **[[X]]** y plataformas independientes, rompiendo la inercia del consumo mediático pasivo.
 - **Despertar de la Censura:** La caída de Tucker sirvió como una lección objetiva para el Tier C sobre la naturaleza ilusoria de la "libertad de prensa". El ciudadano común notó que incluso el hombre más exitoso de la tele puede ser borrado si menciona los nombres prohibidos, lo que aceleró la pérdida de fe en las instituciones de Tier B.
 
 ## ¸ Mecanismos De Poder

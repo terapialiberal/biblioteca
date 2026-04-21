@@ -1,33 +1,61 @@
 ---
-titulo: Ali Khamenei
-tipo: "persona"
-fecha: 2026-03-04
-tier_primario: "b"
-nivel_evidencia: "confirmado"
-estado: activo
-tags: [iran, magnicidio, decapitación, irgc, mbridge]
 publish: true
+aliases:
+  - Ayatollah Ali Khamenei
+  - Ali Jamenei
+created: 2026-01-29T19:17:03.285-03:00
+modified: 2026-04-19T02:39:05.792-03:00
+tags:
+  - iran
+  - liderazgo
+  - sucesion
+  - irgc
+  - ormuz
+  - tl-intel-v3
 ---
 
-# Ali Khamenei (1939 - 2026)
+# Ali Khamenei
 
-> [!CAUTION] PERFIL CERRADO: MAGNICIDIO CONFIRMADO
-> **Fecha de Deceso:** 28 de febrero de 2026.
-> **Causa:** Ataque de precisión multivectorial (US-Israel) en Teherán.
-> **Estatus Operativo:** Vacancia del Líder Supremo; transición bajo control del IRGC.
+## BLUF
 
-## 🔎 Autopsia Política
+[[Ali Khamenei]] importa en TL como pivote de continuidad del regimen irani: concentra legitimidad religiosa, arbitraje politico y relacion organica con el aparato de seguridad. Leido desde 2026, su salida o debilitamiento deja de ser un dato biografico y pasa a ser un problema de sucesion, cohesion interna y manejo de escalada.
 
-El 28 de febrero de 2026, una operación de "decapitación" coordinada por la CIA y el Mossad eliminó a Ali Khamenei en su complejo de Teherán. El ataque utilizó una combinación de inteligencia de señales (hacked cameras) y un activo humano (confirmado por fuentes de inteligencia). Su muerte marca el fin de una era de 37 años y el inicio de un reordenamiento forzoso del Rimland.
+## Por que importa en TL
 
-## ⛓️ Conexiones y Sucesión
+- permite leer a Iran no solo como Estado, sino como arquitectura donde clerigos, seguridad y economia paraestatal se sostienen mutuamente;
+- conecta liderazgo simbolico, poder material del [[IRGC]] y capacidad de negociar o escalar hacia afuera;
+- funciona como nodo puente entre [[Sucesion en Iran 2026]], [[Estrecho de Ormuz]] y [[Proyecto mBridge]].
 
-- **[[Mojtaba Khamenei]]**: Hijo y sucesor aparente (ver [[Sucesión en Irán 2026]]).
-- **[[IRGC]]**: El verdadero ejecutor que sostiene la transición.
-- **[[Project mBridge]]**: La infraestructura financiera que Khamenei impulsó para saltar el SWIFT, ahora crítica para la supervivencia del régimen post-magnicidio.
+## Que cambio
 
-## 📊 Impacto Sistémico (Cui Bono)
+La nota venia en formato de obituario cerrado, con demasiado detalle afirmado como hecho final y poco valor modular para la base. Se recompila como nodo reusable del corredor `Iran / sucesion / coercion / energia`.
 
-1. **Tier A (Gestores):** Reordenamiento de los flujos energéticos hacia el corredor [[Corredor IMEC]].
-2. **Tier B (Ejecutores):** Eliminación del mayor obstáculo para la integración regional bajo un modelo de "neutralidad comprada".
-3. **Rusia/China:** Pérdida de un aliado ideológico, pero oportunidad para acelerar el bloque BRICS+ financiero.
+## Que es
+
+Durante decadas, Khamenei opero como centro de gravedad del sistema politico irani: no administra solo doctrina religiosa, sino tambien alineamientos entre clerigos, Guardia Revolucionaria, aparato judicial y politica exterior. Por eso su figura importa menos por carisma individual que por funcion de arbitraje.
+
+## Lectura TL
+
+### 1. Cohesion del regimen
+
+En TL, Khamenei importa porque sintetiza dos planos que en otros sistemas estan mas separados: legitimidad ideologica y administracion del poder duro. Mientras ese punto de cohesion existe, las facciones compiten dentro de un marco comun. Cuando se debilita, la disputa pasa a ser por el control del marco mismo.
+
+### 2. Sucesion como problema de poder material
+
+Leido con [[Sucesion en Iran 2026]], el nodo ayuda a evitar una lectura puramente clerical. La pregunta central no es solo quien hereda el titulo, sino quien logra compatibilizar jerarquia religiosa, aparato securitario y estabilidad economica bajo sanciones.
+
+### 3. IRGC como garante y limite
+
+La relacion con [[IRGC]] es estructural: Khamenei importa tambien porque su autoridad ayudo a ordenar una convivencia entre liderazgo politico-religioso y poder militar-economico paraestatal. Si ese arbitraje se rompe, el peso relativo del IRGC crece.
+
+### 4. Energia, rutas y negociacion
+
+El nodo gana valor estrategico cuando se lo conecta con [[Estrecho de Ormuz]], [[Corredor IMEC]] y [[Proyecto mBridge]]. La cuestion no es solo quien manda en Teheran, sino como una transicion interna altera chokepoints energeticos, corredores rivales y margen de maniobra financiera.
+
+## Conexiones
+
+- [[IRGC]]
+- [[Sucesion en Iran 2026]]
+- [[Abbas Araghchi]]
+- [[Estrecho de Ormuz]]
+- [[Proyecto mBridge]]

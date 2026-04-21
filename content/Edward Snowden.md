@@ -1,48 +1,51 @@
 ---
-titulo: Edward Snowden (Expanded)
-tipo: "persona"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [edward, expanded, glenn, revelaciones]
 publish: true
+created: 2026-01-29T19:17:11.041-03:00
+modified: 2026-04-19T13:01:10.743-03:00
+tags:
+  - edward-snowden
+  - whistleblower
+  - nsa
+  - vigilancia
+  - privacidad
+  - tl-intel-v3
 ---
 
-# Edward Snowden (Expanded)
+# Edward Snowden
 
-> [!INFO] Perfil (Whistleblower)
-> **Resumen:** Filtró los secretos de vigilancia masiva de NSA. Exiliado en Rusia.
-> **Función Real:** Reveló que el gobierno espía a todos, todo el tiempo.
+## BLUF
 
-## Biografía
+[[Edward Snowden]] importa en TL como figura bisagra en la visibilización pública del régimen contemporáneo de vigilancia técnica. Su valor no está solo en la filtración de documentos, sino en haber vuelto legible para el debate global la escala, normalidad e infraestructura del espionaje digital anglosajón.
 
-Edward Snowden era contractor de NSA (vía Booz Allen Hamilton).
+## Por que importa en TL
 
-En 2013, filtró miles de documentos sobre programas de vigilancia masiva:
+- conecta [[Agencia de Seguridad Nacional]], contratistas privados y programas de vigilancia masiva;
+- ayuda a leer cómo una filtración puede alterar la percepción pública sin necesariamente desmantelar la arquitectura revelada;
+- funciona como nodo personal del corredor [[Five Eyes]] / [[XKeyscore]] / [[Booz Allen Hamilton]].
 
-- **PRISM:** Acceso directo a servidores de Google, Facebook, etc.
-- **XKeyscore:** Búsqueda en toda la internet
-- **Colección masiva de metadatos**
+## Que cambio
 
-## Consecuencias
+La nota seguía en formato viejo, con naming expandido innecesario y estructura mínima. Se recompila como persona reusable para separar mejor biografía operativa, impacto y lectura TL.
 
-- Huyó a Rusia (donde sigue)
-- EEUU lo acusó de espionaje
-- Debate global sobre privacidad
-- Algunas reformas cosméticas
+## Lectura TL
 
-## Preguntas
+### 1. Hacer visible lo invisible
 
-¿Fue un whistleblower genuino o un "limited hangout" controlado?
+Snowden importa porque puso nombre, documentos y escala a un aparato de vigilancia que muchos intuían, pero pocos podían describir con precisión técnica.
 
-## Conexiones
+### 2. Revelación sin desmontaje
 
+En TL, su relevancia crece cuando se observa que exponer una arquitectura no implica neutralizarla. Muchas veces apenas fuerza reacomodos discursivos y reformas limitadas.
+
+### 3. El problema estructural
+
+Su utilidad aparece al mostrar que el centro del asunto no era una desviación individual, sino una infraestructura institucional, legal y técnica mucho más profunda.
+
+## Con que conecta
+
+- [[Agencia de Seguridad Nacional]]
 - [[NSA]]
-- [[Revelaciones de Snowden]]
-- [[00_Glosario - Conceptos Fase 1#Glenn Greenwald|Glenn Greenwald]]
-
-## Fuentes
-
-- "Permanent Record" (autobiografía)
-- Documentos filtrados
+- [[Booz Allen Hamilton]]
+- [[Five Eyes]]
+- [[XKeyscore]]
+- [[Glenn Greenwald]]

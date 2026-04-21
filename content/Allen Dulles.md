@@ -1,52 +1,55 @@
 ---
-titulo: Allen Dulles
-tipo: "persona"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [allen, dulles, john, paperclip]
 publish: true
+created: 2026-01-29T19:17:03.363-03:00
+modified: 2026-04-19T13:22:59.275-03:00
+tags:
+  - allen-dulles
+  - cia
+  - operaciones-encubiertas
+  - guerra-fria
+  - intelligence-establishment
+  - tl-intel-v3
 ---
 
 # Allen Dulles
 
-## Perfil TL (Resumen Ejecutivo)
+## BLUF
 
-**¿Quién fue?** Director de la [[CIA]] (1953-1961) y abogado senior de la firma de Wall Street **Sullivan & Cromwell**. Es el arquitecto definitivo del Estado Profundo estadounidense moderno.
+[[Allen Dulles]] importa en TL como uno de los grandes arquitectos del aparato encubierto de Estados Unidos durante la Guerra Fria. Su trayectoria conecta [[OSS]], [[CIA]], redes legales-financieras de elite y la consolidacion de la accion clandestina como herramienta recurrente de politica exterior.
 
-**¿Por qué importa?** Dulles representa la fusión perfecta entre el capital corporativo (Wall Street) y el aparato de inteligencia estatal. No servía al pueblo; servía a sus clientes. Supervisó golpes de estado en Irán y Guatemala, coordinó operaciones de asesinato y, tras ser despedido por [[John F. Kennedy (JFK)]], terminó liderando la Comisión Warren para "investigar" el asesinato del propio presidente que lo echó.
+## Por que importa en TL
 
-## Análisis De Poder (Tiers)
+- concentra en una figura la transicion desde inteligencia de guerra hacia intervencion encubierta permanente;
+- sirve para leer la conexion entre establishment juridico-financiero y seguridad nacional;
+- ordena un corredor que toca [[John Foster Dulles]], [[Hermanos Dulles]], [[Bahia de Cochinos]], [[Golpe en Iran 1953]] y [[Golpe en Guatemala]].
 
-### Tier A (Arquitecto / Propietario)
+## Que cambio
 
-- **Dueño de la Agencia:** Convirtió a la [[CIA]] en la guardia pretoriana de los intereses financieros internacionales. Sus misiones no eran de "seguridad nacional", sino de seguridad de inversiones.
-- **The Crown Prince of Deep State:** Su red de influencia trascendía presidentes. Tenía archivos sobre todos y respondía directamente a la red del [[CFR (Council on Foreign Relations)]] y la élite financiera de los Rockefeller.
+La nota previa estaba sobredramatizada y hacia afirmaciones que mezclaban hecho, sospecha y lectura interpretativa. Se recompila como nota canónica mas util para wiki modular.
 
-### Tier B (Operador / Gestor)
+## Lectura TL
 
-- **Sullivan & Cromwell:** Usó su cargo como abogado para lavar dinero y representar a carteles nazis (IG Farben) antes y durante la guerra, integrando luego a esos activos mediante la Operación [[Paperclip]].
-- **Comisión Warren:** Operó el encubrimiento del siglo XX para proteger la estructura que él mismo había ayudado a construir.
+### 1. De la OSS a la CIA
 
-### Tier C (Narrativa / Fachada)
+Dulles opero en la [[OSS]] durante la Segunda Guerra Mundial y mas tarde dirigio la [[CIA]] entre 1953 y 1961. Esa continuidad importa porque muestra como ciertas redes de personal y cultura operativa sobrevivieron al cambio institucional de posguerra.
 
-- "El espía maestro" y "servidor público dedicado". Se presentaba como un patriarca de la democracia frente al comunismo.
+### 2. Centralidad de las operaciones encubiertas
 
-## Conexiones Clave
+Su periodo es clave para entender el auge de golpes, penetracion politica, guerra psicologica y accion clandestina como herramientas normales de la politica exterior estadounidense. En TL, eso vuelve a Dulles un nodo central del pasaje desde diplomacia clasica hacia intervencion discreta de alta negacion.
 
-- [[CIA]] (Su herramienta de poder)
-- [[John Foster Dulles]] (Hermano y Secretario de Estado)
-- [[CFR (Council on Foreign Relations)]] (Su centro de diseño)
-- [[Operation 40]] (Su escuadrón de la muerte)
-- [[Warren Commission]] (Su mecanismo de encubrimiento)
+### 3. Relacion con establishment de elite
 
-## Fuentes
+La referencia constante a [[Sullivan & Cromwell]] y a su circulacion por entornos de elite importa menos por biografia colorida que por lo que revela del ecosistema de reclutamiento y confianza del aparato.
 
-- David Talbot: "The Devil's Chessboard: Allen Dulles, the CIA, and the Rise of America's Secret Government".
-- Tim Weiner: "Legacy of Ashes".
-- Documentos desclasificados sobre Operación Ajax.
+### 4. Ruptura con Kennedy
 
-## Por Qué Importa (Estilo Nico)
+La crisis de [[Bahia de Cochinos]] y su salida de la CIA vuelven a Dulles una figura recurrente en lecturas TL sobre conflicto entre presidencia formal y aparato permanente. Ese punto requiere separar bien hechos comprobados de hipotesis posteriores, pero sigue siendo un nodo interpretativo importante.
 
-> "El caso de Dulles es la prueba definitiva de que en EE.UU. el presidente es solo el logo del banco. El tipo fue despedido por JFK, Kennedy terminó muerto meses después, y el mismo Dulles —el sospechoso número uno— se puso el traje de juez para decirnos que no hubo conspiración. Dulles no era un espía, era el capo de un sindicato que privatizó la política exterior de la nación más poderosa del mundo. Si querés entender por qué JFK no pudo contra el sistema, estudiá a Dulles."
+## Con que conecta
+
+- [[CIA]]
+- [[OSS]]
+- [[John Foster Dulles]]
+- [[Hermanos Dulles]]
+- [[Bahia de Cochinos]]
+- [[Sullivan & Cromwell]]

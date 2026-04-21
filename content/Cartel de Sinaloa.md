@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:06.675-03:00
-modified: 2026-04-07T10:48:03.409-03:00
+modified: 2026-04-07T10:47:47.795-03:00
 tags:
   - cartel
   - hsbc

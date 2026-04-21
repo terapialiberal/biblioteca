@@ -1,33 +1,51 @@
 ---
-titulo: PROMIS Software
-tipo: "entidad"
-fecha: 2026-03-04
-tier_primario: "b"
-nivel_evidencia: "alto"
-estado: activo
-tags: [promis, vigilancia, inslaw, espionaje, backdoor]
 publish: true
+created: 2026-01-29T19:17:31.768-03:00
+modified: 2026-04-19T13:05:55.295-03:00
+tags:
+  - promis-software
+  - inslaw
+  - vigilancia
+  - backdoor
+  - inteligencia
+  - tl-intel-v3
 ---
 
-# PROMIS: El Malware Original de la Inteligencia Global (V.3)
+# PROMIS Software
 
-> [!IMPORTANT] DEFINICIÓN FORENSE
-> PROMIS (_Prosecutor's Management Information System_) es un antecedente importante de [[Palantir]]. Fue uno de los primeros softwares capaces de integrar bases de datos masivas dispares para el control poblacional.
+## BLUF
 
-## 🕵️ El Gran Robo (INSLAW Case)
+[[PROMIS Software]] importa en TL como antecedente clave de software capaz de integrar bases de datos dispares dentro de entornos estatales y de inteligencia. Su valor no está solo en el escándalo histórico asociado, sino en mostrar una lógica temprana de centralización informacional, interoperabilidad y posible explotación encubierta mediante puertas traseras.
 
-Originalmente desarrollado por la empresa **INSLAW** (Bill Hamilton), el Departamento de Justicia (DOJ) de EE.UU. robó el software mediante el impago de contratos. Una vez en manos del Tier B, se le instaló una **puerta trasera (backdoor)**.
+## Por que importa en TL
 
-## 🛠️ Despliegue Estratégico
+- conecta integración de datos, espionaje y software como arma geopolítica;
+- ayuda a leer cómo programas tempranos anticipan la lógica de plataformas posteriores como [[Palantir]];
+- funciona como satélite del eje [[Conocimiento total de la informacion]] / [[Red Echelon]] / vigilancia estatal.
 
-- **Caballo de Troya:** Fue vendido o regalado a más de 80 agencias de inteligencia de todo el mundo (incluyendo enemigos nominales).
-- **Efecto:** EE.UU. e Israel podían espiar los movimientos internos de cada nación que utilizaba "su" sistema de gestión.
-- **Modificación Nuclear:** Se sospecha que versiones modificadas permitían rastrear la ubicación de submarinos nucleares mediante análisis de señales de sonar integradas.
+## Que cambio
 
-## 🔗 Nexos con 2026
+La nota venía en formato híbrido, con estilo forense heredado y framing demasiado comprimido. Se recompila como programa reusable para dejar mejor separados caso, función y lectura TL.
 
-La lógica de PROMIS —identificación de patrones en datos aparentemente no relacionados— es la base de la **IA Táctica** utilizada hoy. El escándalo de [[Documento El pulpo]] demostró que el software es el arma más potente del Nivel 2.
+## Lectura TL
 
-## 💰 Cui Bono
+### 1. Integrar para dominar
 
-El **Tier B** captura la omnisciencia informativa. Las fronteras nacionales se vuelven transparentes para quien posee la "llave" del software de gestión estatal.
+PROMIS importa porque convierte archivos dispersos en una superficie unificada de consulta y cruce, algo decisivo para inteligencia, justicia y control estatal.
+
+### 2. Software como vector de injerencia
+
+En TL, su relevancia crece cuando el problema no es solo qué hace el programa, sino quién lo distribuye, modifica o conserva como acceso privilegiado.
+
+### 3. Prehistoria del stack analítico
+
+Su utilidad aparece al mostrar que la obsesión por interoperar y explotar datos precede largamente a la fase contemporánea de IA y big data.
+
+## Con que conecta
+
+- [[Palantir]]
+- [[Conocimiento total de la informacion]]
+- [[John Poindexter]]
+- [[Red Echelon]]
+- [[Vigilancia Predictiva]]
+- [[INSLAW]]

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:19.784-03:00
-modified: 2026-04-18T10:52:36.353-03:00
+modified: 2026-04-18T10:52:43.584-03:00
 tags:
   - john-d-rockefeller
   - standard-oil

@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Frankfurt School
 created: 2026-01-29T19:17:14.207-03:00
-modified: 2026-04-18T10:56:38.882-03:00
+modified: 2026-04-18T10:56:46.004-03:00
 tags:
   - escuela-de-frankfurt
   - teoria-critica

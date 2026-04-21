@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-09T17:26:58.756-03:00
-modified: 2026-04-17T14:27:33.381-03:00
+modified: 2026-04-19T12:40:29.617-03:00
 tags:
   - palantir-aip
   - palantir
@@ -41,10 +41,11 @@ Su utilidad estratégica aparece cuando el sistema ya no solo muestra informaci�
 
 En TL, AIP sirve para marcar un paso más en la automatización del mando técnico.
 
-## Conexiones
+## Con que conecta
 
 - [[Palantir]]
 - [[Vigilancia Predictiva]]
 - [[Gobernanza Algoritmica]]
+- [[Gobernanza Digital]]
 - [[In-Q-Tel]]
 - [[Tecnocracia]]

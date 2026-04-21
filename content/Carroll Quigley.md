@@ -35,7 +35,7 @@ publish: true
 ## Conexiones Clave
 
 - [[Bill Clinton]] (Su alumno más famoso)
-- [[CFR (Council on Foreign Relations)]] (Mapeó su origen)
+- [[CFR]] (Mapeó su origen)
 - [[Cecil Rhodes]] (El origen de la red que describió)
 - [[Sociedad Fabiana]] (Contexto ideológico)
 

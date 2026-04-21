@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:07.269-03:00
-modified: 2026-04-07T11:48:26.752-03:00
+modified: 2026-04-07T11:21:36.323-03:00
 tags:
   - bancos
   - ledger

@@ -1,32 +1,43 @@
 ---
-titulo: "Limited Hangout: La Táctica De La Verdad Parcial"
-tipo: "persona"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [comit, limited, verdad, watergate]
 publish: true
+aliases:
+  - "Limited Hangout: La Tactica De La Verdad Parcial"
+created: 2026-01-29T19:17:22.580-03:00
+modified: 2026-04-18T17:53:25.663-03:00
+tags:
+  - limited-hangout
+  - inteligencia
+  - desinformacion
+  - control-de-danos
+  - tl-intel-v3
 ---
 
-# Limited Hangout: La Táctica De La Verdad Parcial
+# Limited Hangout
 
-> [!ABSTRACT] Resumen de Inteligencia
-> El **Limited Hangout** es una de las maniobras de desvío más efectivas de los servicios de inteligencia de **Tier B**. Consiste en admitir voluntariamente una parte de la verdad (generalmente la menos dañina o una que ya es inevitable) para saciar la curiosidad pública y evitar que se descubra la totalidad de una operación o el núcleo del poder real en **Tier A**. Es la "legalización" de una confesión controlada para proteger el secreto mayor.
+## BLUF
 
-## Análisis De Poder (Matrix)
+[[Limited Hangout]] es una táctica de control de daños: se admite una parte limitada de la verdad para proteger el núcleo operativo, cerrar el caso antes de tiempo o redirigir la atención hacia responsables secundarios.
 
-### Tier B: Los Maestros Del Control De Daños
+## Por qué importa en TL
 
-- **La Válvula de Escape:** Cuando una conspiración o filtración es incontrolable (como el caso **[[Watergate]]** o los abusos del **[[Comité Church]]**), el Tier B libera una cabeza de turco o admite "excesos operativos". Esto desvía la investigación hacia individuos "corruptos" en lugar de cuestionar la naturaleza sistémica de la institución.
-- **Gestión de Whistleblowers:** Algunas figuras de "denunciantes" son analizadas bajo esta lupa: ¿Están revelando todo, o son la herramienta de un Limited Hangout para normalizar una situación? (Ej: Revelar que la NSA espía a todos para que la población acepte el **[[Panóptico Digital]]** como inevitable).
+- sirve para leer filtraciones, comisiones, escándalos y confesiones parciales sin confundir apertura con transparencia real;
+- ayuda a distinguir entre revelación útil y relato administrado;
+- conecta bien con playbooks de inteligencia, plausible deniability y gestión de crisis reputacional.
 
-### Tier A: La Preservación Del Estado De Excepción
+## Qué cambió
 
-- **Inmunidad Estructural:** El objetivo final de un Limited Hangout es asegurar que, a pesar del escándalo, las estructuras de financiamiento y control de los dueños (Tier A) permanezcan intactas. Se sacrifica a la marioneta de Tier C (un presidente, un CEO) para salvar la Matrix.
+La nota estaba en formato viejo, con encoding roto y tipo mal clasificado como persona. Se recompila como concepto operativo reusable.
 
-## âš¡ Cómo Detectar Un Limited Hangout
+## Lectura TL
 
-1. **¿La revelación lleva a un cierre o a una expansión?:** Si la "verdad" recién descubierta cierra el caso y detiene las preguntas, es un Limited Hangout.
-2. **¿Cui Bono?:** ¿A qué facción del poder beneficia que esta parte específica de la verdad salga a la luz ahora?
-3. **¿Normalización?:** ¿La revelación hace que el público se resigne ("bueno, todos lo sabíamos") en lugar de movilizarse?
+El limited hangout no funciona negando todo. Funciona cediendo justo lo suficiente como para absorber presión, producir sensación de verdad y evitar que la investigación siga escalando hacia capas sistémicas.
+
+Su valor para TL está en la pregunta táctica: qué parte se revela, quién la revela, en qué momento y a costa de qué zonas quedan blindadas. No toda revelación parcial es un limited hangout, pero el patrón aparece seguido cuando una estructura necesita sacrificar piezas menores para conservar legitimidad, presupuesto o continuidad operativa.
+
+## Con qué conecta
+
+- [[Plausible Deniability]]
+- [[Comite Church]]
+- [[Watergate]]
+- [[Playbooks del Deep State]]
+- [[Patron - Volcado Selectivo de Informacion (Kompromat)]]
