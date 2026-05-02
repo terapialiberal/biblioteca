@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:11.041-03:00
-modified: 2026-04-19T13:01:10.743-03:00
+modified: 2026-04-22T16:15:37.676-03:00
 tags:
   - edward-snowden
   - whistleblower
@@ -41,11 +41,19 @@ En TL, su relevancia crece cuando se observa que exponer una arquitectura no imp
 
 Su utilidad aparece al mostrar que el centro del asunto no era una desviación individual, sino una infraestructura institucional, legal y técnica mucho más profunda.
 
+### 4. Testigo del stack completo
+
+En TL, Snowden rinde más cuando se lo lee junto con [[PRISM (Programa)]], [[ECHELON]] y [[Revelaciones de Snowden]]. Ahí no queda solo como whistleblower biográfico, sino como punto de entrada humano a la arquitectura completa del régimen SIGINT.
+
 ## Con que conecta
 
 - [[Agencia de Seguridad Nacional]]
 - [[NSA]]
 - [[Booz Allen Hamilton]]
 - [[Five Eyes]]
+- [[PRISM (Programa)]]
+- [[ECHELON]]
+- [[Revelaciones de Snowden]]
 - [[XKeyscore]]
 - [[Glenn Greenwald]]
+- [[00_MOC - Tecnologia de Control]]

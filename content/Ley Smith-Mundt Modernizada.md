@@ -3,7 +3,7 @@ publish: true
 aliases:
   - "Ley Smith-Mundt Modernizada: La Guerra De Informacion Legalizada"
 created: 2026-01-29T19:17:22.410-03:00
-modified: 2026-04-19T12:08:29.502-03:00
+modified: 2026-04-19T12:08:23.069-03:00
 tags:
   - smith-mundt
   - guerra-cognitiva

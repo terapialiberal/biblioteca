@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Nxivm
 created: 2026-01-29T19:17:27.693-03:00
-modified: 2026-04-07T12:08:06.767-03:00
+modified: 2026-04-07T12:08:12.526-03:00
 tags:
   - nxivm
   - colateral

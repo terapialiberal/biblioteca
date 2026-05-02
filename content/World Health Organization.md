@@ -6,7 +6,7 @@ aliases:
   - Organizacion Mundial de la Salud
   - Organización Mundial de la Salud
 created: 2026-01-29T19:17:44.602-03:00
-modified: 2026-04-17T17:01:25.120-03:00
+modified: 2026-04-22T15:41:36.467-03:00
 tags:
   - who
   - oms
@@ -49,10 +49,18 @@ La doctrina de salud integrada amplía el radio de intervención desde enfermeda
 
 Leída junto con [[Tratado de Pandemias OMS]] y [[Pasaportes de Vacuna]], la OMS aparece como fuente de legitimidad supranacional para infraestructuras de excepción.
 
+### 5. Autoridad sin soberania formal
+
+La potencia de la OMS en TL no reside en mandar sola, sino en producir gramática común para estados, fundaciones, laboratorios y alianzas logísticas. Ahí se vuelve más claro el corredor `OMS -> CEPI / GAVI -> credenciales / acceso`.
+
 ## Conexiones
 
 - [[Tratado de Pandemias OMS]]
 - [[GAVI]]
+- [[CEPI]]
+- [[Wellcome Trust]]
+- [[Fundacion Bill y Melinda Gates]]
+- [[One Health]]
 - [[Pasaportes de Vacuna]]
 - [[Digital ID - Global Protocol]]
 - [[Tedros Adhanom Ghebreyesus]]

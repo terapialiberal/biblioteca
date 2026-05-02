@@ -1,23 +1,43 @@
 ---
-titulo: Nodos Lunares En La Economía
-tipo: "concepto"
-fecha: 2026-02-25
+titulo: Nodos Lunares en la Economia
+tipo: concepto
+fecha: 2026-04-27
 estado: activo
-tags: [economa, lunares, nodos]
-tier_primario: "b"
-nivel_evidencia: "medio"
+aliases: ["Nodos Lunares En La Economía"]
+tags: [nodos-lunares, economia, ciclos, simbolismo, tl-intel-v3]
+tier_primario: c
+nivel_evidencia: bajo
 publish: true
 ---
 
-# Nodos Lunares En La Economía
+# Nodos Lunares en la Economia
 
-> [!ABSTRACT] Hipótesis Informativa
-> Nodo perteneciente a la Matrix de Simbolismo y Esoterismo TL V.3.
+## BLUF
 
-## Análisis De Tiers
+Nodos Lunares en la Economia es un nodo de astrologia financiera y simbolismo de ciclos. TL lo conserva como objeto cultural, no como metodo predictivo validado.
 
-_En desarrollo..._
+## Que es
 
-## Cui Bono
+La idea vincula posiciones lunares o ciclos astrologicos con cambios economicos. Su evidencia predictiva es debil, pero su existencia muestra deseo persistente de encontrar ritmos ocultos en mercados.
 
-_Pendiente de análisis forense._
+## Por que importa en TL
+
+- conecta incertidumbre financiera con busqueda de patron;
+- ayuda a estudiar astrologia financiera como fenomeno cultural;
+- advierte contra reemplazar analisis material por calendario simbolico.
+
+## Lectura TL
+
+Los mercados producen ansiedad; la ansiedad busca ciclos. La pregunta no es solo si el ciclo acierta, sino quien vende certeza en medio de incertidumbre.
+
+## Conexiones
+
+- [[Astrologia Financiera]]
+- [[La Luna y Mareas Mentales]]
+- [[Ciclo de 80 años]]
+- [[Fractalidad de la Deuda]]
+- [[00_MOC - Control Financiero]]
+
+## Nivel de evidencia
+
+Bajo como herramienta predictiva. Medio como fenomeno cultural-financiero.

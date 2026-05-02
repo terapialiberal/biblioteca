@@ -3,14 +3,14 @@ publish: true
 aliases:
   - "Rent-Seeking: el Parasitismo Institucionalizado"
 created: 2026-01-29T19:17:33.176-03:00
-modified: 2026-04-21T13:11:12.317-03:00
+modified: 2026-04-22T11:04:52.421-03:00
 tags:
-  - "#rent-seeking"
-  - "#renta-politica"
-  - "#captura"
-  - "#privilegio"
-  - "#economia-politica"
-  - "#tl-intel-v3"
+  - rent-seeking
+  - renta-politica
+  - captura
+  - privilegio
+  - economia-politica
+  - tl-intel-v3
 ---
 
 # Rent-Seeking
@@ -42,6 +42,10 @@ En TL, su relevancia crece porque no solo redistribuye riqueza: también consume
 ### 3. Economía política de la casta
 
 También sirve para ver cómo minorías muy organizadas obtienen beneficios concentrados mientras los costos quedan dispersos sobre mayorías poco coordinadas.
+
+### 4. Incentivo económico del cluster
+
+Su utilidad crece cuando se lo lee como motor económico de fondo del cluster de captura. [[Lobby]] y [[Puerta Giratoria]] son mecanismos; [[Rent-Seeking]] nombra la lógica material que vuelve racional invertir en influencia antes que en competencia.
 
 ## Con que conecta
 

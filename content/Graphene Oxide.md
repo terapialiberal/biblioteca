@@ -38,7 +38,7 @@ publish: true
 - [[Transhumanismo]] (Su marco ideológico)
 - [[DARPA]] (Su principal financiador militar)
 - [[5G / Radiofrecuencias]] (Su método de activación/lectura)
-- [[Internet de las Cosas (IoT) / IoB]] (Su red de conexión)
+- [[Internet de las Cosas (IoT)]] / [[Internet de los Cuerpos (IoB)]] (Su red de conexión)
 
 ## Por Qué Importa (Estilo Nico)
 

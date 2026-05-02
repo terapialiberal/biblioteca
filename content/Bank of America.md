@@ -1,51 +1,55 @@
 ---
-titulo: Bank of America (BofA)
-tipo: "evento"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [america, blackrock, bofa, reserva]
 publish: true
+created: 2026-01-29T19:17:04.790-03:00
+modified: 2026-05-02T18:24:22.192-03:00
+tags:
+  - america
+  - blackrock
+  - bofa
+  - reserva
 ---
 
 # Bank of America (BofA)
 
-## Perfil TL (Resumen Ejecutivo)
+## Qué es
 
-**¿Qué es?** Uno de los "Big Four" de la banca estadounidense. Originalmente fundado como el _Bank of Italy_ para servir a los inmigrantes en San Francisco, hoy es un pilar sistémico del control financiero global.
+[[Bank of America (BofA)|Bank of America]] es uno de los grandes bancos sistémicos de Estados Unidos. En TL importa como nodo de banca comercial, banca de inversión y vigilancia financiera, especialmente visible desde la crisis de 2008.
 
-**¿Por qué importa?** BofA es la definición de **"Too Big to Fail"** (Demasiado grande para caer). Durante la crisis de 2008, devoró a Merrill Lynch y Countrywide Financial, convirtiéndose en el administrador del desastre subprime. Es un brazo para-estatal: el gobierno de EE.UU. lo rescata con miles de millones de dólares del contribuyente porque su caída significaría el fin del sistema de pagos. A cambio, el banco sirve como infraestructura de vigilancia financiera para el Estado.
+## Por qué importa en TL
 
-## Análisis De Poder (Tiers)
+- ayuda a leer el modelo `too big to fail` como arquitectura, no como excepción;
+- conecta rescate estatal, concentración bancaria y colaboración con aparatos de seguridad;
+- sirve como puente entre banca tradicional, propiedad cruzada y disciplina sobre clientes.
 
-### Tier A (Centralización / Propiedad)
+## Mecanismos de poder
 
-- **Músculo Sistémico:** Junto con JP Morgan, BofA controla la liquidez de la economía real estadounidense. Es uno de los principales custodios de la deuda soberana y socio estratégico de la [[Reserva Federal]].
-- **Propiedad Cruzada:** Sus principales accionistas son, predeciblemente, [[BlackRock]], [[Vanguard]] y Berkshire Hathaway ([[Warren Buffett]]), cerrando el círculo de propiedad del Tier A sobre la banca comercial.
+### 1. Escala sistémica
 
-### Tier B (Operativa / Gestión)
+BofA importa porque su tamaño lo vuelve estructural: no es solo un banco más, sino parte del núcleo cuya caída forzaría intervención pública.
 
-- **Policía Financiera:** Colabora directamente con el FBI y el Tesoro de EE.UU. proporcionando datos de transacciones de sus clientes sin orden judicial previa (como ocurrió tras el 6 de enero).
-- **Ingeniería de Multas:** Paga miles de millones en multas por fraude hipotecario y manipulación, tratándolas simplemente como un "costo de hacer negocios" para mantener su posición dominante.
+### 2. Rescate y consolidación
 
-### Tier C (Narrativa Pública)
+La absorción de activos durante la crisis de 2008 muestra cómo el desorden financiero puede terminar reforzando a los actores más grandes.
 
-- "Liderando la transición hacia una economía de bajas emisiones". Promueven el ESG y la "inclusión financiera" para enmascarar su rol en la extracción de riqueza mediante intereses y comisiones.
+### 3. Banca como sensor del Estado
 
-## Conexiones Clave
+El nodo gana fuerza en TL cuando se lo lee también como infraestructura de monitoreo y cooperación con Tesoro, FBI y compliance financiero.
 
-- [[Merrill Lynch]] (Su brazo de inversión)
-- [[Reserva Federal]] (Su respaldo)
-- [[BlackRock]] (Su dueño)
-- [[Brian Moynihan]] (El gestor)
+## Qué cambió
 
-## Fuentes
+La nota estaba mal tipada como evento y demasiado cerca del formato mini tesis. Se recompila como entidad reusable para separar mejor función bancaria, carácter sistémico y valor analítico.
 
-- Reportes Anuales SEC (Form 10-K).
-- Investigaciones del Senado de EE.UU. sobre la crisis de 2008.
-- "All the Devils Are Here" - Bethany McLean.
+## Cómo leerlo en TL
 
-## Por Qué Importa (Estilo Nico)
+- junto con [[Reserva Federal]] y la lógica `too big to fail`;
+- conectado a [[Merrill Lynch]] y al legado de 2008;
+- como ejemplo de banca privada con funciones casi paraestatales en crisis.
 
-> "Bank of America no es un banco, es un ministerio de finanzas privatizado. Cuando las papas queman, le piden plata al pueblo; cuando hay ganancias, se las reparten los accionistas del Tier A. Son los que te prestan la soga para que te ahorques con la hipoteca y después te cobran el envío del resumen. BofA es la prueba de que en el capitalismo de amigos, el riesgo siempre es tuyo y el rescate siempre es de ellos."
+## Con qué conecta
+
+- [[Merrill Lynch]]
+- [[Reserva Federal]]
+- [[BlackRock]]
+- [[Brian Moynihan]]
+- [[Crisis Financiera 2008]]
+- [[00_MOC - Control Financiero]]

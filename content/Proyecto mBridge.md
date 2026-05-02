@@ -4,7 +4,7 @@ aliases:
   - Project mBridge
   - mBridge
 created: 2026-02-25T15:50:06.497-03:00
-modified: 2026-04-19T02:39:07.212-03:00
+modified: 2026-04-22T10:48:39.636-03:00
 tags:
   - mbridge
   - cbdc
@@ -30,6 +30,8 @@ tags:
 
 La nota venia como manifiesto maximalista de desdolarizacion digital, con demasiada futurologia y poco valor reusable. Se recompila como concepto base para leer infraestructura financiera, sin perder su peso geoeconomico.
 
+El stream `ORDO AB CHAO! Nada es Accidental. Todo es GESTION DEL CAOS` le agrega otra capa: cuando sanciones, bloqueos, chokepoints y estrés geopolítico se vuelven normales, [[Proyecto mBridge]] aparece menos como experimento alternativo y más como respuesta infraestructural al problema de depender de rails vulnerables a coerción externa.
+
 ## Que es
 
 mBridge es un proyecto de pagos mayoristas entre bancos centrales y entidades participantes que busca liquidar transacciones transfronterizas con menor friccion, menos intermediarios y mas control sobre el rail tecnico. Su interes estrategico aparece cuando esas capacidades se aplican a energia, comercio regional o sanciones.
@@ -52,10 +54,28 @@ La conexion con productores del Golfo vuelve a mBridge relevante para TL: si seg
 
 Leido junto a [[Stablecoin Regulation US]] y [[Tokenized Sovereign Debt]], el nodo muestra que la disputa monetaria no es solo monedas contra monedas. Tambien es rail contra rail: red soberana asiatico-golfo versus capa privada regulada del dolar.
 
+### 5. Interoperabilidad selectiva bajo conflicto
+
+En TL, mBridge importa porque muestra que la multipolaridad real no elimina interoperabilidad: la reordena. El objetivo no es aislarse por completo, sino construir rails donde la coordinación suceda bajo otros centros de poder.
+
+### 6. Capa asiatica del mismo tablero
+
+Su valor aumenta cuando se lo conecta con [[Sistema CIPS]], [[Digital Yuan Expansion]] y el eje [[PBOC (Banco Popular de China)]]. Ahí mBridge deja de parecer un piloto separado y pasa a leerse como extensión lógica de una arquitectura monetaria china con proyección regional.
+
+### 7. Presion externa sobre el reanclaje occidental
+
+Leido junto con [[Reanclaje Hibrido]] y [[Treasuries]], mBridge gana peso no solo como rail alternativo asiático sino como factor de presión sobre el intento occidental de sostener centralidad monetaria mediante deuda, stablecoins reguladas y nuevos canales privados.
+
 ## Conexiones
 
 - [[PBOC (Banco Popular de China)]]
-- [[Sistema SWIFT]]
+- [[SWIFT]]
+- [[Sistema CIPS]]
 - [[Stablecoin Regulation US]]
 - [[Tokenized Sovereign Debt]]
 - [[Sistema Petrodolar]]
+- [[CBDC Interoperability]]
+- [[Policrisis Sistemica]]
+- [[BIS Innovation Hub]]
+- [[Reanclaje Hibrido]]
+- [[Treasuries]]

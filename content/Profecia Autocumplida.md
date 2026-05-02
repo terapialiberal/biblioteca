@@ -35,7 +35,7 @@ publish: true
 
 ## Conexiones Clave
 
-- [[Programación Predictiva]]
+- [[Programacion Predictiva]]
 - [[Manufactura de Consenso]]
 - [[Evento 201]]
 - [[Ingeniería Social]]

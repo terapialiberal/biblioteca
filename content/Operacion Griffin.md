@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:28.525-03:00
-modified: 2026-04-20T19:35:28.578-03:00
+modified: 2026-04-20T19:35:19.770-03:00
 tags:
   - arquitectura
   - europea

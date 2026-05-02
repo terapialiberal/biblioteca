@@ -4,14 +4,14 @@ aliases:
   - Teoría del Empujón (Nudge Theory)
   - Nudge Theory
 created: 2026-01-29T19:17:39.014-03:00
-modified: 2026-04-21T13:16:51.100-03:00
+modified: 2026-04-21T13:17:01.634-03:00
 tags:
-  - "#nudge"
-  - "#teoria-del-empujon"
-  - "#comportamiento"
-  - "#paternalismo"
-  - "#gobernanza"
-  - "#tl-intel-v3"
+  - nudge
+  - teoria-del-empujon
+  - comportamiento
+  - paternalismo
+  - gobernanza
+  - tl-intel-v3
 ---
 
 # Teoria del Empujon

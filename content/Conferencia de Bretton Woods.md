@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:08.568-03:00
-modified: 2026-04-17T14:22:12.810-03:00
+modified: 2026-04-22T10:31:54.615-03:00
 tags:
   - bretton-woods
   - dolar
@@ -45,10 +45,16 @@ Instituciones como [[FMI]] y [[Banco Mundial]] importan porque vuelven administr
 
 Su colapso en 1971 no cancela su relevancia. Al contrario: permite leer mejor por qué el sistema posterior necesitó nuevos anclajes y hoy podría estar buscando otros otra vez.
 
+### 5. Bretton Woods como problema reaparecido
+
+El nodo gana aún más valor cuando se lo conecta con [[Shock de Nixon]], [[Sistema Petrodolar]] y [[Reanclaje Hibrido]]. La pregunta 2026 no es cómo volver a Bretton Woods, sino cómo administrar el hecho de que el orden nacido ahí ya agotó varias de sus soluciones originales.
+
 ## Conexiones
 
 - [[Shock de Nixon]]
 - [[Sistema Petrodolar]]
+- [[Petrodolar]]
+- [[Reanclaje Hibrido]]
 - [[Nuevo Bretton Woods]]
 - [[FMI]]
 - [[Banco Mundial]]

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:31.768-03:00
-modified: 2026-04-19T13:05:55.295-03:00
+modified: 2026-04-22T11:28:48.925-03:00
 tags:
   - promis-software
   - inslaw
@@ -41,6 +41,10 @@ En TL, su relevancia crece cuando el problema no es solo qué hace el programa, 
 
 Su utilidad aparece al mostrar que la obsesión por interoperar y explotar datos precede largamente a la fase contemporánea de IA y big data.
 
+### 4. Del expediente al software de gobierno
+
+Leido junto con [[CIA]] y [[Palantir]], PROMIS gana relieve como eslabón histórico entre inteligencia clásica y plataformas modernas de mando informacional. No es solo un software polémico del pasado: es parte de la genealogía del stack analítico actual.
+
 ## Con que conecta
 
 - [[Palantir]]
@@ -49,3 +53,4 @@ Su utilidad aparece al mostrar que la obsesión por interoperar y explotar datos
 - [[Red Echelon]]
 - [[Vigilancia Predictiva]]
 - [[INSLAW]]
+- [[CIA]]

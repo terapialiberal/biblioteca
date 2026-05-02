@@ -4,14 +4,14 @@ aliases:
   - Gain of Function
   - Gain-of-Function
 created: 2026-04-21T11:39:06.497-03:00
-modified: 2026-04-21T11:39:07.233-03:00
+modified: 2026-04-21T11:39:06.497-03:00
 tags:
-  - "#ganancia-de-funcion"
-  - "#bioseguridad"
-  - "#virologia"
-  - "#laboratorio"
-  - "#riesgo"
-  - "#tl-intel-v3"
+  - ganancia-de-funcion
+  - bioseguridad
+  - virologia
+  - laboratorio
+  - riesgo
+  - tl-intel-v3
 ---
 
 # Ganancia de Funcion

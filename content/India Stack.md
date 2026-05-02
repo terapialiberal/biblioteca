@@ -1,6 +1,6 @@
 ---
 titulo: "India Stack (Aadhaar): El Plano Maestro Del Control Digital"
-tipo: "persona"
+tipo: concepto
 fecha: 2026-02-25
 tier_primario: "b"
 nivel_evidencia: "medio"
@@ -11,37 +11,47 @@ publish: true
 
 # India Stack (Aadhaar): El Plano Maestro Del Control Digital
 
-> [!ABSTRACT] BLUF (Bottom Line Up Front)
-> India Stack es el experimento de gobernanza digital más exitoso del mundo. No es solo una base de datos; es una **infraestructura pública digital (DPI)** que une identidad biométrica (Aadhaar) con pagos instantáneos (UPI) y datos de salud. En 2026, ha pasado de ser un proyecto nacional a ser el **estándar global** exportado por el Banco Mundial a más de 50 países como el "DPI-in-a-box".
+> [!abstract] PERFIL TL-INTEL
+> [[India Stack|India Stack]] importa en TL como infraestructura pública digital de escala masiva: une identidad, pagos y trazabilidad en un mismo stack y convierte a India en laboratorio exportable de gobernanza digital.
 
-## 🏛️ Análisis De Tiers
+## Qué es
 
-### Tier A: Los Dueños (Arquitectos Del Comportamiento)
+India Stack es el conjunto de infraestructuras digitales indias alrededor de identidad, autenticación y pagos. En TL interesa porque muestra cómo la digitalización estatal puede escalarse a cientos de millones de personas sin depender del framing clásico de seguridad occidental.
 
-- **The Global Sandbox**: Organizaciones como el **Banco Mundial** y el **WEF** utilizan a la India como el laboratorio para el control de la población a gran escala. Aadhaar demuestra que se puede bancarizar y vigilar a 1.4B de personas eliminando el anonimato del efectivo y la identidad física.
-- **Cui Bono**: El Eje de Basilea. India Stack es el prototipo funcional para las CBDCs globales. Si puedes correr UPI en la India, puedes correr un sistema de crédito social en cualquier lugar.
+## Por qué importa en TL
 
-### Tier B: Los Ejecutores (Administradores De La DPI)
+- conecta biometría, pagos y administración poblacional;
+- ayuda a leer India como laboratorio de soberanía digital y también de control escalable;
+- sirve como puente entre [[Aadhaar]], [[Biometria Global]] e imaginarios de infraestructura exportable.
 
-- **UIDAI / Nandan Nilekani**: El Tier B indio que diseñó el sistema. Nilekani (ex-Infosys) es el nodo humano que conecta el éxito técnico de la India con las agendas del Tier A internacional.
-- **DPI-in-a-box**: En 2026, la India vende este software a naciones de África y Sudeste Asiático, presentándolo como "independencia tecnológica" frente a China/EEUU, cuando en realidad es la integración en la misma arquitectura de control biométrico.
+## Mecanismos de poder
 
-### Tier C: El Teatro (La Inclusión Financiera)
+### 1. Identidad como llave
 
-- "Dar identidad a los que no tenían nada". "Eliminar la corrupción en los subsidios". Son las narrativas para que el Tier C acepte que su acceso a la comida y el dinero dependa de un escaneo de iris y una huella digital centralizada.
+India Stack importa porque vuelve la identidad digital la puerta de entrada a cada vez más funciones económicas y administrativas.
 
-## 📊 Estado Forense 2026
+### 2. Pagos como disciplina blanda
 
-- ✅ **Documentado**: India procesa el 50% de los pagos digitales globales en tiempo real vía UPI en 2026. Aadhaar introdujo el "consentimiento offline" como nueva capa de captura de datos en enero 2026.
-- 🔶 **Inferencia razonable**: India Stack es la infraestructura sobre la cual se implementará la Renta Básica Universal (UBI) condicionada al comportamiento ("Programmable Money").
+Su relevancia crece cuando los rails de pago dejan de ser solo conveniencia y pasan a ser también capa de trazabilidad, elegibilidad y administración social.
 
-## 🎯 Cui Bono (¿Quién gana?)
+### 3. Exportación de modelo
 
-- **El Estado Indio**: Control total sobre la base impositiva y el disenso político.
-- **Big Tech**: Microsoft y Google están integrados en las APIs de la India Stack, capturando el flujo de datos transaccionales de billones de usuarios.
+En TL, el nodo vale porque no se limita a India: funciona como prototipo replicable de infraestructura pública digital.
 
-## 🔗 Conexiones Críticas
+## Qué cambió
 
-- [[Worldcoin]]: Aadhaar es la versión estatal; Worldcoin es la versión corporativa del mismo collar digital.
-- [[Scott Bessent]]: El Tesoro de EEUU observa el éxito de UPI para el despliegue de FedNow.
-- [[Digital ID - Global Protocol]]: El objetivo final de la convergencia de estas redes.
+La nota estaba mal tipada como persona y demasiado escrita como manifiesto. Se recompila como concepto reusable para fijar mejor función, stack y valor comparativo.
+
+## Cómo leerlo en TL
+
+- junto con [[Narendra Modi]] como operador político del entorno;
+- junto con [[Aadhaar]] e [[Biometria Global]];
+- como ejemplo de que la tecnocracia digital también puede presentarse como inclusión y soberanía nacional.
+
+## Con qué conecta
+
+- [[Narendra Modi]]
+- [[Aadhaar]]
+- [[Biometria Global]]
+- [[Digital ID - Global Protocol]]
+- [[00_MOC - Tecnologia de Control]]

@@ -36,7 +36,7 @@ publish: true
 ## Conexiones Clave
 
 - [[DeepMind]] (Su base de poder)
-- [[Google / Alphabet Inc]] (Su matriz financiera)
+- [[Google]] / [[Alphabet Inc]] (Su matriz financiera)
 - [[Sundar Pichai]] (Su jefe directo)
 - [[Elon Musk]] (Inversor temprano en DeepMind que ahora critica su centralizacin)
 

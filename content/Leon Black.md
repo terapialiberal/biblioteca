@@ -3,7 +3,7 @@ publish: true
 aliases:
   - "Leon Black: El Financista De La Sombra"
 created: 2026-01-29T19:17:22.249-03:00
-modified: 2026-04-18T18:21:43.701-03:00
+modified: 2026-04-18T18:21:38.475-03:00
 tags:
   - leon-black
   - apollo

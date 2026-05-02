@@ -1,49 +1,59 @@
 ---
-titulo: European Union (Origins)
-tipo: "entidad"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [europea, naciones, plan, unin]
 publish: true
+aliases:
+  - European Union
+  - UE
+  - EU
+created: 2026-01-29T19:17:42.408-03:00
+modified: 2026-04-24T12:25:38.781-03:00
+tags:
+  - union-europea
+  - europa
+  - eurozona
+  - tecnocracia
+  - integracion
+  - tl-intel-v3
 ---
 
-![EU Flag](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/220px-Flag_of_Europe.svg.png)
+# Union Europea
 
-# European Union (Origins)
+## BLUF
 
-## Resumen Ejecutivo
+[[Union Europea]] importa en TL como arquitectura político-regulatoria supranacional que combina integración de mercado, disciplina burocrática y creciente capacidad de coordinación tecnocrática sobre moneda, normas y soberanías nacionales.
 
-**¿Qué es?** Bloque político y económico de 27 países europeos.
+## Por que importa en TL
 
-**¿Por qué importa?** Se vende como [[Naciones Unidas (ONU)]] proyecto de paz "nacido de los europeos". Falso. Fue [[Naciones Unidas (ONU)]] **proyecto de la [[CIA]]** desde el día uno (American Committee on United Europe - ACUE) para controlar Europa contra la URSS y asegurar mercados para EEUU. Sus fundadores (Jean Monnet, Robert Schuman) eran activos de inteligencia americana. Su objetivo final siempre fue eliminar las naciones-estado para crear una federación tecnocrática (Estados Unidos de Europa) fácil de gestionar.
+- conecta [[BCE]], [[Christine Lagarde]], [[Mario Draghi]] y crisis de gobernanza europea;
+- ayuda a leer Europa no solo como alianza de Estados, sino como estructura institucional con déficits democráticos y fuerte sesgo tecnocrático;
+- funciona como nodo de cruce entre integración económica, disciplina monetaria y digitalización regulatoria.
 
-## Análisis (Tiers)
+## Que cambio
 
-### Tier A (Los Arquitectos)
+La nota venía como pieza legacy muy cerrada, con demasiado manifiesto y poco valor reusable. Se recompila como nodo modular del corredor `Europa / integración / tecnocracia / soberanía monetaria`.
 
-- **Conde Coudenhove-Kalergi:** Fundador de la Unión Paneuropea (años 20). Su "[[Plan Kalergi]]" proponía una Europa mestiza, sin identidad nacional, gobernada por una élite espiritual judía. Financiado por los Warburg y Rothschild.
-- **[[CIA]] (ACUE):** Documentos desclasificados (2000) muestran que la [[CIA]] financió a los federalistas europeos en secreto durante los 50s.
+## Lectura TL
 
-### Tier B (Operativa)
+### 1. Integración como arquitectura de poder
 
-- **Déficit Democrático:** La Comisión Europea (que propone las leyes) no es elegida por nadie. El Parlamento Europeo (elegido) no tiene poder real de iniciativa legislativa. Es una dictadura burocrática perfecta.
-- **Euro:** Una moneda diseñada para fallar (política monetaria única sin política fiscal unificada) y forzar crisis que obligaran a _más_ integración política.
+En TL, la UE importa porque organiza normas, mercados y márgenes de maniobra nacionales bajo una estructura donde la decisión real suele desplazarse desde la política doméstica hacia órganos burocráticos y marcos supranacionales.
 
-### Tier C (Narrativa)
+### 2. Mercado único y asimetría política
 
-- "Nunca más guerra entre europeos"
-- "Mercado único y libertad de movimiento"
-- "Erasmus y paz"
+Su valor analítico aumenta cuando se observa que la integración europea no eliminó jerarquías internas. El mismo marco que promete coordinación también distribuye costos, dependencias y restricciones de manera desigual entre centro y periferia.
+
+### 3. Unión monetaria y disciplina
+
+Leída junto con [[BCE]] y [[Mario Draghi]], la nota ayuda a ver que el euro no es solo moneda: es también mecanismo de disciplina fiscal, financiera y política dentro de una unión donde la soberanía monetaria nacional ya fue cedida.
+
+### 4. Plataforma occidental de regulación programable
+
+También importa porque la UE funciona como laboratorio de regulación avanzada. Cruzada con [[CBDC Europeo]], identidad digital y compliance, permite leer cómo la integración puede extenderse desde bienes y capitales hacia capas más finas de supervisión y control.
 
 ## Conexiones
 
-- [[CIA]] (padres fundadores secretos)
-- [[Familia Rothschild]] (financiadores de Kalergi)
-- [[Bilderberg]] (donde se cocina la integración)
-
-## Fuentes
-
-- "The Great Deception" - Booker & North
-- Telegraph: "Euro-federalists financed by US spy chiefs" (Ambrose Evans-Pritchard)
+- [[BCE]]
+- [[Christine Lagarde]]
+- [[Mario Draghi]]
+- [[CBDC Europeo]]
+- [[European Council on Foreign Relations]]
+- [[Euroclear]]

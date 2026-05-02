@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:27.986-03:00
-modified: 2026-04-07T14:57:07.854-03:00
+modified: 2026-04-07T14:57:14.624-03:00
 tags:
   - gnosis
   - information

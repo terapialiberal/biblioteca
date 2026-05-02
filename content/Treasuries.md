@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-17T13:00:31.490-03:00
-modified: 2026-04-19T13:17:00.992-03:00
+modified: 2026-04-22T16:40:48.857-03:00
 tags:
   - treasuries
   - deuda-eeuu
@@ -44,6 +44,18 @@ El nodo sirve para recordar que la discusion no es puramente financiera. Cuando 
 
 Leido con [[Scott Bessent]], [[Howard Lutnick]], [[Tether USDS]] y [[Tokenized Sovereign Debt]], el nodo queda como centro del corredor monetario actual y no como concepto aislado de mercado.
 
+### 5. Demanda administrada, no confianza espontanea
+
+La nota gana precision cuando se abandona la idea de que la demanda por [[Treasuries]] sera puramente de mercado. Leidos junto con [[Stablecoin Regulation US]], [[GENIUS Act]] y [[Reanclaje Hibrido]], aparecen cada vez mas como activo cuya absorcion puede requerir diseño regulatorio, presion geopolitica y nuevos canales de distribucion.
+
+### 6. Colateral del siglo XXI
+
+La lectura se vuelve mas util cuando se conecta con [[BlackRock BUIDL]], [[Tokenized Sovereign Debt]] y [[BIS Innovation Hub]]. En ese marco, los Treasuries ya no son solo deuda a colocar, sino materia prima del nuevo stack de colateral, liquidez y settlement.
+
+### 7. Deuda como problema de arquitectura
+
+En TL, el punto no es solo si Estados Unidos puede seguir endeudandose, sino bajo que arquitectura consigue que esa deuda siga siendo absorbida, reutilizada y distribuida dentro y fuera de su bloque.
+
 ## Con que conecta
 
 - [[Scott Bessent]]
@@ -52,3 +64,10 @@ Leido con [[Scott Bessent]], [[Howard Lutnick]], [[Tether USDS]] y [[Tokenized S
 - [[Shock de Nixon]]
 - [[Sistema Petrodolar]]
 - [[Dinero Programable]]
+- [[Stablecoin Regulation US]]
+- [[GENIUS Act]]
+- [[Reanclaje Hibrido]]
+- [[BlackRock BUIDL]]
+- [[Tokenized Sovereign Debt]]
+- [[BIS Innovation Hub]]
+- [[00_MOC - Control Financiero]]

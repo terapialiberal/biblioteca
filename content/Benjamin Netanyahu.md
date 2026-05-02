@@ -4,7 +4,7 @@ aliases:
   - Bibi Netanyahu
   - Bibi
 created: 2026-01-29T19:17:05.174-03:00
-modified: 2026-04-18T21:37:32.454-03:00
+modified: 2026-04-18T21:37:24.988-03:00
 tags:
   - benjamin-netanyahu
   - israel

@@ -1,43 +1,21 @@
 ---
-titulo: Credit Suisse
-tipo: "persona"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [credit, suisse]
 publish: true
+aliases:
+  - UBS - Credit Suisse
+created: 2026-01-29T19:17:09.072-03:00
+modified: 2026-05-02T13:45:17.830-03:00
+tags:
+  - credit-suisse
+  - suiza
+  - banca
+  - crisis
+  - tl-intel-v3
 ---
 
 # Credit Suisse
 
-> [!ABSTRACT] Ficha Tcnica
-> **Narrativa Official:** Segundo banco ms grande de Suiza.
-> **Funcin Real:** Banco con dcadas de escndalos que finalmente colaps en 2023.
+[[Credit Suisse]] importa en TL como caso de deterioro de banca privada/de inversión suiza y absorción de emergencia por UBS.
 
-## Escndalos Pre-Colapso
+## Lectura TL
 
-- Archegos Capital: perdi \5 billion
-- Greensill Capital: otra prdida billonaria
-- Espionaje a ejecutivos
-- Lavado de dinero para dictadores
-- "Suisse Secrets" (filtraciones)
-
-## Colapso 2023
-
-Corrida bancaria en marzo 2023.
-
-Gobierno suizo forz a [[UBS]] a absorberlo.
-
-Accionistas y bondholders AT1 perdieron todo.
-
-## Conexiones
-
-- [[UBS]] (absorbente)
-- Élites globales (clientes)
-- Escndalos de lavado
-
-## Fuentes
-
-- Swiss regulatory documents
-- "Suisse Secrets" investigation
+Credit Suisse muestra que reputación histórica no inmuniza contra mala gestión, escándalos, fuga de confianza y rescate sistémico.

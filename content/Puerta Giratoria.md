@@ -3,14 +3,14 @@ publish: true
 aliases:
   - Puerta Giratoria (Concepto)
 created: 2026-01-29T19:17:32.223-03:00
-modified: 2026-04-21T13:29:26.936-03:00
+modified: 2026-04-21T13:29:33.116-03:00
 tags:
-  - "#puerta-giratoria"
-  - "#captura"
-  - "#regulacion"
-  - "#lobby"
-  - "#estado-corporacion"
-  - "#tl-intel-v3"
+  - puerta-giratoria
+  - captura
+  - regulacion
+  - lobby
+  - estado-corporacion
+  - tl-intel-v3
 ---
 
 # Puerta Giratoria

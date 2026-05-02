@@ -4,7 +4,7 @@ aliases:
   - Fernando De La Rúa
   - Fernando de la Rúa
 created: 2026-01-29T19:17:13.613-03:00
-modified: 2026-04-18T11:45:50.842-03:00
+modified: 2026-04-18T11:45:42.619-03:00
 tags:
   - argentina
   - rua

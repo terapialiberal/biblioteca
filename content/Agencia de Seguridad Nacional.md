@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:02.980-03:00
-modified: 2026-04-19T12:55:16.918-03:00
+modified: 2026-04-22T16:08:46.541-03:00
 tags:
   - nsa
   - agencia-de-seguridad-nacional
@@ -41,11 +41,19 @@ En TL, su relevancia crece cuando se observa que la acumulación de ventajas de 
 
 Su potencia aparece cuando vigilancia, análisis y ciberoperaciones dejan de ser actividades excepcionales y pasan a formar parte de la arquitectura normal de internet y las telecomunicaciones.
 
+### 4. Nucleo del regimen SIGINT
+
+Leída junto con [[Five Eyes]], [[PRISM (Programa)]] y [[ECHELON]], la NSA pasa a aparecer menos como simple agencia y más como núcleo técnico de un régimen de captura que combina aparato estatal, contratistas y plataformas.
+
 ## Con que conecta
 
 - [[NSA]]
 - [[Five Eyes]]
+- [[PRISM (Programa)]]
+- [[ECHELON]]
 - [[XKeyscore]]
 - [[Booz Allen Hamilton]]
 - [[Edward Snowden]]
+- [[Revelaciones de Snowden]]
+- [[00_MOC - Tecnologia de Control]]
 - [[Vigilancia Masiva]]

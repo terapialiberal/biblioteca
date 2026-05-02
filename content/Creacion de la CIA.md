@@ -1,49 +1,57 @@
 ---
-titulo: Creación De La CIA
-tipo: "entidad"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [allen, creacin]
 publish: true
+aliases:
+  - Creación de la CIA
+created: 2026-01-29T19:17:09.038-03:00
+modified: 2026-04-21T20:20:00.726-03:00
+tags:
+  - creacion-cia
+  - cia
+  - oss
+  - national-security-act
+  - seguridad-nacional
+  - tl-intel-v3
 ---
 
-# Creación De La CIA
+# Creacion de la CIA
 
-> [!INFO] Contexto
-> Nace la Agencia Central de Inteligencia.
+## BLUF
 
-## Qué Pasó
+[[Creacion de la CIA]] importa en TL como punto de institucionalizacion del aparato moderno de seguridad nacional estadounidense: no marca un comienzo absoluto desde cero, pero si fija el pasaje desde la experiencia de guerra de la [[OSS]] hacia una arquitectura permanente de inteligencia, coordinacion estrategica y operaciones encubiertas.
 
-El 26 de julio de 1947, Truman firmó el National Security Act.
+## Por que importa en TL
 
-Este acto creó:
+- conecta [[OSS]], [[CIA]], [[Consejo de Seguridad Nacional (NSC)]] y la consolidacion del Estado de seguridad de posguerra;
+- ayuda a leer 1947 no solo como reforma administrativa sino como fundacion de una infraestructura duradera de poder opaco;
+- funciona como nodo historico para entender por que la accion encubierta pasa a ser parte organica de la politica exterior estadounidense.
 
-- **CIA** (reemplazó al OSS)
-- **NSC** (National Security Council)
-- **Departamento de Defensa** (unificó ejército, marina, fuerza aérea)
+## Que cambio
 
-## Consecuencias
+La nota venia en formato viejo y demasiado esquematica para su peso estructural. Se recompila como evento canonico del corredor `origen institucional / seguridad nacional / inteligencia clasica`.
 
-La CIA recibió poderes amplios y vagamente definidos:
+## Lectura TL
 
-- Operaciones encubiertas
-- Derrocamiento de gobiernos
-- Asesinatos
-- Control de medios (Mockingbird)
+### 1. 1947 como bisagra institucional
 
-## Truman Arrepentido
+La firma del National Security Act reorganiza el aparato estadounidense de posguerra y crea una nueva gramatica de coordinacion entre inteligencia, defensa y decision estrategica.
 
-Truman luego dijo que la CIA se había convertido en algo que nunca pretendió.
+### 2. De experiencia de guerra a permanencia burocratica
+
+En TL, la clave no es solo que nazca la CIA, sino que la inteligencia deja de ser un recurso excepcional del conflicto mundial y pasa a integrarse como capa estable del Estado.
+
+### 3. Ambiguedad operativa como diseño
+
+La relevancia del nodo aumenta cuando se observa que la nueva arquitectura deja margenes amplios para accion indirecta, operaciones encubiertas y lectura expansiva de la seguridad nacional.
+
+### 4. Reordenamiento, no origen puro
+
+Leida junto con [[OSS]] y [[William Donovan]], la creacion de la CIA sirve mejor como reordenamiento institucional de redes, personal y cultura operativa que ya venian formandose durante la guerra.
 
 ## Conexiones
 
 - [[CIA]]
-- [[Allen Dulles]]
 - [[OSS]]
-
-## Fuentes
-
-- National Security Act
-- "Legacy of Ashes"
+- [[William Donovan]]
+- [[Allen Dulles]]
+- [[Consejo de Seguridad Nacional (NSC)]]
+- [[Deep State]]

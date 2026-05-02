@@ -37,7 +37,7 @@ publish: true
 - [[Bob Iger]] (El arquitecto de la decadencia y el intento de rescate)
 - [[Batalla Cultural / Guerra de la Cultura]] (El contexto mayor)
 - [[ESG]] (El marco financiero que dictó la agenda)
-- [[South Park: Panderverse]] (La crítica memética que selló la percepción pública del fracaso)
+- [[El Fracaso de Disney]] (La crítica memética que selló la percepción pública del fracaso)
 
 ## Fuentes
 

@@ -37,7 +37,7 @@ publish: true
 
 - [[Partido Demcrata / EE.UU.]] (Los principales beneficiarios de la guita robada)
 - [[Ucrania (Conflicto 2022)]] (El nexo del lavado de dinero militar)
-- [[Gary Gensler / SEC]] (El facilitador regulatorio)
+- [[Gary Gensler]] / [[SEC (Securities and Exchange Commission)]] (El facilitador regulatorio)
 - [[Effective Altruism]] (La secta ideolgica de cobertura)
 
 ## Por Qu Importa (Estilo Nico)

@@ -5,7 +5,7 @@ aliases:
   - Church Committee
   - Comite Church (Evento)
 created: 2026-01-29T19:17:08.385-03:00
-modified: 2026-04-18T17:21:25.377-03:00
+modified: 2026-04-22T11:28:49.621-03:00
 tags:
   - church-committee
   - inteligencia
@@ -38,6 +38,8 @@ El Comité Church prueba dos cosas a la vez. Primero, que las agencias de inteli
 
 Por eso en TL el valor del Church Committee no es nostálgico ni celebratorio. Sirve como evidencia documental y como lección de método: cuando el sistema concede una verdad incómoda, hay que mirar no solo qué reveló, sino qué permitió reubicar fuera de cámara.
 
+Leido junto con [[Club Safari]] y [[Operacion Gladio]], el comité también ayuda a entender la secuencia de adaptación del aparato: más escrutinio público no necesariamente destruye capacidades; muchas veces empuja su migración hacia capas menos auditables.
+
 ## Con qué conecta
 
 - [[CIA]]
@@ -46,3 +48,5 @@ Por eso en TL el valor del Church Committee no es nostálgico ni celebratorio. S
 - [[MKUltra]]
 - [[Operacion Mockingbird]]
 - [[Limited Hangout]]
+- [[Club Safari]]
+- [[Operacion Gladio]]

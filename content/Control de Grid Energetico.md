@@ -1,22 +1,43 @@
 ---
+titulo: Control de Grid Energetico
+tipo: concepto
+fecha: 2026-04-27
+estado: activo
+aliases: ["Control De Grid Energético"]
+tags: [grid-energetico, red-inteligente, energia, control, tl-intel-v3]
+tier_primario: b
+nivel_evidencia: medio
 publish: true
-created: 2026-02-25T22:08:53.814-03:00
-modified: 2026-04-07T11:14:42.072-03:00
-tags:
-  - control
-  - energtico
-  - grid
 ---
 
-# Control De Grid Energético
+# Control de Grid Energetico
 
-> [!ABSTRACT] Hipótesis Informativa
-> Nodo perteneciente a la Matrix de Simbolismo y Esoterismo TL V.3.
+## BLUF
 
-## Análisis De Tiers
+Control de Grid Energetico describe la capa de poder que aparece cuando energia, sensores, racionamiento y datos convergen en redes inteligentes.
 
-_En desarrollo..._
+## Que es
 
-## Cui Bono
+El grid energetico moderno ya no es solo cableado y generacion. Con medidores inteligentes, gestion remota y criterios climaticos o de emergencia, puede convertirse en infraestructura de modulacion social.
 
-_Pendiente de análisis forense._
+## Por que importa en TL
+
+- conecta energia, smart grid, vigilancia y obediencia material;
+- muestra que el control digital tambien necesita interruptores fisicos;
+- ayuda a leer racionamiento selectivo y dependencia tecnica.
+
+## Lectura TL
+
+Quien controla energia controla ritmo de vida. La digitalizacion del grid puede aumentar eficiencia, pero tambien granularidad de control.
+
+## Conexiones
+
+- [[Red Inteligente]]
+- [[Capitalismo de Vigilancia]]
+- [[IoT y Animismo Tecnico]]
+- [[Energia Radiant]]
+- [[00_MOC - Tecnologia de Control]]
+
+## Nivel de evidencia
+
+Medio: alto para smart grids reales; variable para usos coercitivos especificos.

@@ -1,13 +1,11 @@
 ---
+titulo: Triple Frontera (Inteligencia)
+tipo: alias
+fecha: 2026-04-18
+estado: activo
+reemplazado_por: "[[Triple Frontera]]"
+tags: [argentina, alias, triple-frontera, inteligencia, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:41.286-03:00
-modified: 2026-04-18T12:33:57.772-03:00
-tags:
-  - argentina
-  - alias
-  - triple-frontera
-  - inteligencia
-  - tl-intel-v3
 ---
 
 # Triple Frontera (Inteligencia)

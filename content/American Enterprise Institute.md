@@ -4,14 +4,14 @@ aliases:
   - American Enterprise Institute (AEI)
   - AEI
 created: 2026-01-29T19:17:03.429-03:00
-modified: 2026-04-21T12:57:41.471-03:00
+modified: 2026-04-21T12:57:47.911-03:00
 tags:
-  - "#aei"
-  - "#think-tank"
-  - "#neocon"
-  - "#defensa"
-  - "#washington"
-  - "#tl-intel-v3"
+  - aei
+  - think-tank
+  - neocon
+  - defensa
+  - washington
+  - tl-intel-v3
 ---
 
 # American Enterprise Institute

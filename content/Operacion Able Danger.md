@@ -3,14 +3,14 @@ publish: true
 aliases:
   - Operación Able Danger
 created: 2026-01-29T19:17:28.281-03:00
-modified: 2026-04-21T13:03:47.523-03:00
+modified: 2026-04-21T13:03:55.167-03:00
 tags:
-  - "#able-danger"
-  - "#9-11"
-  - "#inteligencia"
-  - "#minado-de-datos"
-  - "#conocimiento-previo"
-  - "#tl-intel-v3"
+  - able-danger
+  - 9-11
+  - inteligencia
+  - minado-de-datos
+  - conocimiento-previo
+  - tl-intel-v3
 ---
 
 # Operacion Able Danger

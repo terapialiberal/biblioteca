@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:24.861-03:00
-modified: 2026-04-19T12:38:34.678-03:00
+modified: 2026-04-19T12:38:28.356-03:00
 tags:
   - metaverso
   - realidad-virtual

@@ -1,21 +1,37 @@
 ---
 publish: true
-created: 2026-03-12T15:17:00.237-03:00
-modified: 2026-04-07T10:50:10.044-03:00
-tags:
-  - rusia
-  - rdif
-  - kushner
-  - witkoff
-  - ucrania
-  - minerales
-  - canal-privado
-  - kremlin
-  - tierras-raras
-  - 2026
+titulo: "Kirill Dmitriev"
+tipo: persona
+tier_primario: b
+nivel_evidencia: alto
+estado: activo
+tags: [rusia, rdif, kushner, witkoff, ucrania, minerales, canal-privado, kremlin, tierras-raras, 2026, tl-intel-v3]
+fecha: 2026-03-12
 ---
 
-# Kirill Dmitriev — El Canal Privado Rusia-Washington
+# Kirill Dmitriev
 
-> [!IMPORTANT] NODO ACTIVO EN 2026
-> CEO del Russian Direct Investment Fund (RDIF). Se reunió con Kushner en Miami mientras estaba bajo sanciones occidentales. Co-redactor del plan de paz Ucrania junto a Witkoff. Espejo funcional exacto de Robert Maxwell en los años 80: actor privado, sin cargo formal, con acceso simultáneo a múltiples capitales.
+> [!IMPORTANT] Canal financiero-diplomático
+> Nodo para estudiar la diplomacia de inversión rusa y sus posibles canales privados hacia Occidente.
+
+## Qué es
+
+Kirill Dmitriev es conocido por su rol al frente del Russian Direct Investment Fund. En TL interesa como interfaz entre capital soberano, Kremlin, acuerdos estratégicos y canales discretos de negociación.
+
+## Por qué importa en TL
+
+Los fondos soberanos no son solo inversores: pueden operar como diplomacia paralela. Permiten conversaciones donde se mezclan energía, minerales, reconstrucción, sanciones, deuda y garantías políticas.
+
+## Señales a monitorear
+
+- Apariciones en negociaciones sobre Ucrania, minerales o sanciones.
+- Contactos con empresarios o enviados no tradicionales.
+- Ofertas de coinversión que funcionen como gesto geopolítico.
+- Cambios en el lenguaje ruso sobre seguridad económica.
+
+## Conexiones
+
+- RDIF
+- Kremlin
+- [[Jared Kushner]]
+- Witkoff

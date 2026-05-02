@@ -4,14 +4,14 @@ aliases:
   - Panóptico Digital
   - "Panóptico Digital: El Ojo Que Está En Todas Partes"
 created: 2026-01-29T19:17:29.748-03:00
-modified: 2026-04-21T13:21:39.115-03:00
+modified: 2026-04-22T16:08:46.432-03:00
 tags:
-  - "#panoptico-digital"
-  - "#vigilancia"
-  - "#autocensura"
-  - "#big-data"
-  - "#control-social"
-  - "#tl-intel-v3"
+  - panoptico-digital
+  - vigilancia
+  - autocensura
+  - big-data
+  - control-social
+  - tl-intel-v3
 ---
 
 # Panoptico Digital
@@ -44,10 +44,16 @@ En TL, su relevancia crece cuando se observa que el objetivo no es solo recolect
 
 También sirve para leer cómo servicios útiles, gratuidad aparente y conectividad continua vuelven voluntaria gran parte de la exposición al sistema de observación.
 
+### 4. Concepto puente del regimen de plataforma
+
+La nota gana más valor cuando se la lee junto con [[PRISM (Programa)]], [[Revelaciones de Snowden]] y [[Agencia de Seguridad Nacional]]. Ahí el panóptico digital deja de ser metáfora cultural y pasa a funcionar como resumen conceptual del stack técnico de vigilancia.
+
 ## Con que conecta
 
 - [[Edward Snowden]]
-- [[Programa PRISM]]
+- [[PRISM (Programa)]]
+- [[Revelaciones de Snowden]]
+- [[Agencia de Seguridad Nacional]]
 - [[Palantir]]
 - [[Five Eyes]]
 - [[Gobernanza Algoritmica]]

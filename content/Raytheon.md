@@ -1,12 +1,12 @@
 ---
 publish: true
 created: 2026-01-29T19:17:32.627-03:00
-modified: 2026-04-21T13:06:38.544-03:00
+modified: 2026-04-22T10:49:17.788-03:00
 tags:
-  - "#raytheon"
-  - "#complejo-militar-industrial"
-  - "#contratistas-de-defensa"
-  - "#guerra"
+  - raytheon
+  - complejo-militar-industrial
+  - contratistas-de-defensa
+  - guerra
 ---
 
 # [[Raytheon]]
@@ -45,6 +45,14 @@ Su relevancia aumenta cuando se observan los vínculos con exfuncionarios, altos
 
 La venta de sistemas complejos genera dependencia logística, doctrinal y presupuestaria de largo plazo.
 
+### Captura por contratismo y puerta giratoria
+
+En TL, Raytheon gana más espesor cuando se la conecta con [[Captura Regulatoria]] y [[Lockheed Martin]]. No importa solo por fabricar armamento, sino por participar en un ecosistema donde contratistas, exfuncionarios, think tanks y agenda estratégica se refuerzan entre sí.
+
+### Defensa como versión dura del mismo patrón
+
+Leida junto con [[Scott Gottlieb]] o [[La Puerta Giratoria de la FDA]], la nota ayuda a mostrar que salud y defensa no son corredores separados: son variantes sectoriales de la misma lógica de continuidad entre supervisión, legitimación y renta privada.
+
 ## Conexiones clave
 
 - [[Complejo Militar-Industrial]]
@@ -52,6 +60,9 @@ La venta de sistemas complejos genera dependencia logística, doctrinal y presup
 - [[Guerra de Ucrania]]
 - [[Puerta Giratoria]]
 - [[RTX Corporation]]
+- [[Captura Regulatoria]]
+- [[Lockheed Martin]]
+- [[00_MOC - Captura Regulatoria y Puertas Giratorias]]
 
 ## Observación operativa
 

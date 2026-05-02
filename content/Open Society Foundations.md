@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:28.174-03:00
-modified: 2026-04-18T18:28:12.735-03:00
+modified: 2026-04-24T10:46:56.837-03:00
 tags:
   - osf
   - george-soros
@@ -15,15 +15,15 @@ tags:
 
 ## BLUF
 
-[[Open Society Foundations]] importa en TL como red de financiamiento e influencia capaz de operar sobre ONGs, fiscalías, medios, causas legales y marcos de cambio político en múltiples países.
+[[Open Society Foundations]] importa en TL como red de financiamiento e influencia capaz de operar sobre ONGs, fiscalias, medios, causas legales y marcos de cambio politico en multiples paises.
 
-## Por qué importa en TL
+## Por que importa en TL
 
 - conecta George Soros con infraestructura transnacional de intervención blanda;
 - sirve para leer desestabilización, judicialización y activismo financiado;
 - ayuda a mapear cómo una red filantrópica puede funcionar como tecnología de poder.
 
-## Qué cambió
+## Que cambio
 
 La nota venía con mojibake y demasiado cierre interpretativo. Se recompila como entidad de red reusable.
 
@@ -33,10 +33,17 @@ OSF importa menos por omnipotencia atribuida y más por su forma de operación: 
 
 En TL, el nodo es útil cuando se observa su papel como interfaz entre filantropía, lawfare, gobernanza global y revoluciones de color.
 
-## Con qué conecta
+## Como leerlo en TL
+
+- junto con [[George Soros]] para distinguir financiador visible y estructura distribuida;
+- junto con [[NED]] y [[USAID]] para mapear la superposicion entre filantropia privada e influencia geopolitica mas cercana al Estado;
+- junto con [[Lawfare]] y [[Revolucion del color]] para seguir como la financiacion se traduce en presion institucional y desestabilizacion politica.
+
+## Con que conecta
 
 - [[George Soros]]
-- [[Revolucion de Color]]
+- [[Revolucion del color]]
 - [[USAID]]
-- [[Open Society]]
+- [[NED]]
 - [[Lawfare]]
+- [[00_MOC - Fundaciones y Filantrocapitalismo]]

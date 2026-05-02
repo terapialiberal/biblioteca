@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Alan Greenspan
 created: 2026-01-29T19:17:03.120-03:00
-modified: 2026-04-07T13:12:32.653-03:00
+modified: 2026-04-07T13:12:37.615-03:00
 tags:
   - persona
   - finanzas

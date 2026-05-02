@@ -1,6 +1,6 @@
 ---
 titulo: "Lev Leviev (v1.0): El Oligarca De Los Diamantes Y La Red De Putin"
-tipo: "persona"
+tipo: persona
 fecha: 2026-02-25
 tier_primario: "b"
 nivel_evidencia: "medio"
@@ -11,40 +11,47 @@ publish: true
 
 # Lev Leviev (v1.0): El Oligarca De Los Diamantes Y La Red De Putin
 
-> [!ABSTRACT] Hiptesis Informativa
-> Lev Leviev constituye el **nodo financiero de [[Tier A]]** que conecta el comercio extractivo post-sovitico con la infraestructura de asentamientos israeles y el mercado inmobiliario de Nueva York. Como el hombre que rompi el monopolio de De Beers en los diamantes (con apoyo directo de los servicios de inteligencia de la URSS/Rusia), Leviev ha servido como el principal financista del rabino **[[Berel Lazar]]** y el movimiento **[[Chabad Lubavitch]]**, actuando como el brazo econmico que permiti a **[[Vladimir Putin]]** colonizar la vida comunitaria juda. Su relacin transaccional con **[[Jared Kushner]]** (va la compra del edificio del Old New York Times) revela su rol como canal de reciclaje de capitales entre el Kremlin y el entorno de la Casa Blanca.
+> [!abstract] PERFIL TL-INTEL
+> [[Lev Leviev|Lev Leviev]] importa en TL como nodo de cruce entre capital extractivo post-soviético, redes de influencia israelíes y circuitos inmobiliarios y políticos conectados con el entorno Kushner.
 
-## Anlisis De Tiers
+## Qué es
 
-### Tier A: Los Curadores Del Capital Extractivo Y Territorial (The Diamond Scion)
+Lev Leviev es un magnate vinculado a diamantes, real estate y redes de influencia transnacionales. En TL interesa como figura de enlace entre capitales duros, infraestructuras comunitarias y corredores de reciclaje financiero.
 
-- **El Eje del Kremlin:** Para el Tier A ruso, Leviev es el operador de confianza que permite exportar recursos estratgicos (diamantes de Angola y Rusia) eludiendo la hegemona anglo-americana. Su lealtad a Putin es absoluta, habiendo sido el instrumento para desplazar a oligarcas disidentes como Gusinsky. Para el Tier A, Leviev es la prueba de que el capital siempre debe estar subordinado al control estatal-esotrico (Chabad).
-- **El Constructor de la Gran Israel:** En Israel, Leviev utiliza su fortuna para financiar directamente la construccin de asentamientos en Cisjordania (va sus compaas de construccin). El Tier A expansionista lo ve como un aliado indispensable que transforma dinero de diamantes africanos en "hechos consumados" en el terreno palestino.
+## Por qué importa en TL
 
-### Tier B: Los Administradores Del Lavado Y La Influencia (The Global Broker)
+- conecta dinero extractivo, redes de poder y proyección política;
+- ayuda a leer cómo ciertos capitales circulan entre Rusia, Israel y centros financieros occidentales;
+- sirve como nodo actorial del subcorredor [[Jared Kushner|Jared Kushner]] / real estate / influencia regional.
 
-- **El Deal de \300M con Kushner:** En el nivel de Tier B, Leviev facilit la entrada de capitales rusos cuestionables en Manhattan al vender parte de sus activos inmobiliarios a Jared Kushner en 2015. Este negocio, financiado por Deutsche Bank (investigado por lavado de dinero ruso), sirvi como un puente de confianza mstica entre la red Chabad de Leviev y el clan Kushner, preparando el terreno para la diplomacia paralela de la era Trump.
-- **Redes de Contrabando y Diamantes de Sangre:** Leviev gestiona relaciones complejas con dictadores en Angola y otros estados africanos, utilizando la estructura logstica de sus empresas para mover valores masivos fuera del radar de los bancos centrales. Su operativa es la de un "Estado dentro del Estado", con su propia seguridad privada y canales diplomticos.
+## Mecanismos de poder
 
-### Tier C: La Poblacin En La Ficcin De La Filantropa
+### 1. Recursos convertidos en influencia
 
-- **El "Filntropo del Ao":** Para el Tier C en las comunidades judas de todo el mundo, Leviev es el hombre que construye escuelas y sinagogas de lujo, un protector generoso de la fe. El ciudadano asimila este gasto suntuoso como un acto de piedad, sin ver la red de extraccin y control poltico que lo sostiene.
-- **El Consumidor del Lujo:** El Tier C occidental consume diamantes procesados por las empresas de Leviev en Dubai o Londres, ignorando que el origen de esas piedras est entrelazado con la desestabilizacin de naciones africanas y la financiacin de ocupaciones territoriales en Medio Oriente.
+Leviev importa porque muestra cómo capital originado en sectores duros puede transformarse en apalancamiento político, comunitario e inmobiliario.
 
-## Mecanismos De Poder
+### 2. Red más que empresa
 
-1. **Ruptura de Monopolios (Diamond Disruptor)**: El uso de inteligencia estatal rusa para quebrar el control de De Beers sobre el mercado global de diamantes, permitiendo que el Tier A ruso capture el flujo de divisas.
-2. **Financiamiento de la Infraestructura Chabad**: La construccin de una red de lealtades jasdicas en cada rincn del mundo que responde a sus intereses econmicos y a la agenda del Kremlin.
-3. **Uso de Bienes Races como "Lock-in" Poltico**: La inversin en propiedades icnicas en Nueva York y Londres para ganar respetabilidad y acceso a las lites que luego ejecutan su agenda diplomtica.
+Su relevancia crece cuando se lo lee como parte de una malla de relaciones, no solo como empresario individual.
 
-## Conexiones Críticas
+### 3. Real estate como interfaz geopolítica
 
-- [[Vladimir Putin]]: Su protector y socio en la sombra.
-- [[Berel Lazar]]: Su rabino y coordinador poltico en Rusia.
-- [[Jared Kushner]]: Su socio inmobiliario en Nueva York y nexo con Trump.
-- [[Chabad Lubavitch]]: Su infraestructura ideolgica global.
-- [[Deutsche Bank]]: Su motor de financiamiento para operaciones internacionales.
+En TL, el nodo gana valor cuando propiedades, financiamiento y redes comunitarias se leen como herramientas de inserción en elites políticas más amplias.
 
-## Conclusin Del Anlisis
+## Qué cambió
 
-Lev Leviev es el **"Garante Financiero del Eje Mosc-Jerusalem"**. Su importancia reside en haber demostrado que en el Tier A, el dinero no tiene color pero s tiene una misin teopoltica. No es un joyero; es un **arquitecto de la ocupacin y el reciclaje de capitales**. Entender a Leviev es comprender cmo los diamantes del frica profunda financian la construccin de asentamientos en Palestina y la compra de rascacielos en el corazn de la poltica estadounidense. Para el Tier C, es el "Rey de los Diamantes"; para el Tier A, es el **operador que asegura que los recursos de la tierra sigan fluyendo hacia la red de los elegidos**, blindados por la fe y el acero del Kremlin.
+La nota estaba demasiado totalizante y cargada de épica forense. Se recompila como perfil reusable para fijar mejor función, red y utilidad dentro del frente Kushner-Israel-Rusia.
+
+## Cómo leerlo en TL
+
+- junto con [[Jared Kushner|Jared Kushner]];
+- como operador de red y no solo magnate sectorial;
+- como ejemplo de cómo capital extractivo e inmobiliario puede enlazarse con poder político transnacional.
+
+## Con qué conecta
+
+- [[Jared Kushner|Jared Kushner]]
+- [[Sheldon Adelson]]
+- [[Vladimir Putin]]
+- [[Deutsche Bank]]
+- [[00_MOC - Redes de Poder]]

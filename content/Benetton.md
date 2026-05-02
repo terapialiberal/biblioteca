@@ -1,28 +1,36 @@
 ---
-titulo: Benetton (Tierras Patagónicas)
-tipo: "concepto"
+titulo: "Benetton (Tierras Patagónicas)"
+tipo: entidad
 fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
+tier_primario: b
+nivel_evidencia: medio
 estado: activo
-tags: [benetton, patagnicas, tierras]
+tags: [benetton, patagonia, tierras, soberania, argentina, tl-intel-v3]
 publish: true
 ---
 
-# Benetton (Tierras Patagónicas)
+# Benetton
 
-> **Resumen:** El Estado dentro del Estado en el sur.
+> [!NOTE] Tierras, marca y soberanía
+> Nodo para analizar propiedad de grandes extensiones patagónicas, conflicto territorial y relación entre capital extranjero y Estado periférico.
 
-## Notas Iniciales
+## Qué es
 
-_Nota generada automáticamente tras análisis de huecos de información._
+Benetton es un grupo empresarial italiano conocido globalmente por moda, pero en Argentina su nombre aparece ligado a grandes propiedades rurales en Patagonia y conflictos territoriales con comunidades mapuche.
 
-## Puntos a Investigar
+## Por qué importa en TL
 
-- Definir conexión exacta con Tier A.
-- Buscar contratos o financiamiento (Follow the Money).
-- Identificar operadores clave.
+La tierra patagónica no es solo activo productivo. Puede implicar agua, corredores bioceánicos, turismo, minerales, conservación, seguridad fronteriza y construcción narrativa sobre soberanía.
 
-## Conexiones Potenciales
+## Preguntas abiertas
 
-- [[00 Índice Maestro]]
+- Qué superficie, ubicación y recursos concretos concentran las propiedades.
+- Cómo interactúan empresa, Estado, justicia, comunidades y ONGs.
+- Si el conflicto se usa para proteger derechos, para fragmentar soberanía o para ambas cosas según actor.
+
+## Conexiones
+
+- Patagonia
+- [[Douglas Tompkins]]
+- Conservacionismo Estratégico
+- Mapuche

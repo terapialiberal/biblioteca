@@ -1,43 +1,15 @@
 ---
-titulo: "World Economic Forum: El Think Tank De La Oligarquía Global"
-tipo: "persona"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [economic, klaus, oligarqua, think]
 publish: true
+created: 2026-01-29T19:17:44.534-03:00
+modified: 2026-04-21T20:10:50.938-03:00
+tags:
+  - alias
+  - legacy
+  - wef
+  - davos
+  - tl-intel-v3
 ---
 
-# World Economic Forum: El Think Tank De La Oligarquía Global
+# World Economic Forum
 
-> [!ABSTRACT] Hipótesis Informativa
-> El WEF es el foro Tier A donde la oligarquía global coordina la agenda de transformación social y económica bajo el pretexto de "stakeholder capitalism" y "Gran Reinicio".
-
-## Análisis De Tiers
-
-### Tier A: Fundadores Y Miembros Fundadores
-
-- **Diseño de Agenda:** Creación de marcos de política global (ESG, Gran Reinicio).
-
-### Tier B: Miembros Corporativos Y Gubernamentales
-
-- **Implementación:** Adopción de directrices WEF en políticas corporativas y estatales.
-
-### Tier C: Población Global
-
-- **Sometimiento Narrativo:** Aceptación de cambios estructurales como "necesarios".
-
-## Mecanismos De Poder
-
-1. **Captura de Élites:** Reclutamiento de líderes globales (Young Global Leaders).
-2. **Agenda Setting:** Definición de prioridades para corporaciones y gobiernos.
-
-## Conexiones Críticas
-
-- [[Klaus Schwab]]: Fundador y arquitecto ideológico.
-- [[Great Reset]]: Marco de transformación global.
-
-## Conclusión Del Análisis
-
-El WEF es el centro de coordinación de la transformación globalista, donde la oligarquía alinea intereses y captura instituciones.
+Nodo legacy. Ver [[WEF]].

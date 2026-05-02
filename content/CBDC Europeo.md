@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-25T14:13:18.100-03:00
-modified: 2026-04-19T13:12:46.284-03:00
+modified: 2026-04-24T12:19:57.626-03:00
 tags:
   - cbdc-europeo
   - euro-digital
@@ -40,11 +40,17 @@ En TL, su relevancia crece cuando se observa que la UE suele convertir pilotos t
 
 Su utilidad aparece al pensar cómo una capa presentada como complemento del efectivo puede, con el tiempo, volverlo más marginal mediante incentivos, límites y fricción regulatoria.
 
+### 4. Variante occidental del mismo problema programable
+
+Leído junto con [[Proyecto Agora]] y [[CBDC Interoperability]], el nodo ayuda a ver que la discusión europea no está aislada del rediseño monetario global. Cambian los actores y el lenguaje regulatorio, pero persiste la misma tensión entre eficiencia, trazabilidad y capacidad de condicionar el acceso.
+
 ## Con que conecta
 
 - [[CBDC]]
 - [[Christine Lagarde]]
 - [[BCE]]
 - [[BIS Innovation Hub]]
+- [[CBDC Interoperability]]
+- [[Proyecto Agora]]
 - [[Dinero Programable]]
 - [[Identidad Digital Soberana]]

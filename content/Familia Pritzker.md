@@ -37,7 +37,7 @@ publish: true
 
 - [[Complex Industrial Farmacéutico]] (El beneficiario económico)
 - [[Barack Obama]] (Su creación política más exitosa)
-- [[Ideología de Género / Transhumanismo]] (Su marco ideológico)
+- [[Ideologia de Genero]] / [[Transhumanismo]] (Su marco ideológico)
 - [[Hyatt Hotels]] (Su base de capital)
 
 ## Por Qué Importa (Estilo Nico)

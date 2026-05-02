@@ -11,41 +11,44 @@ publish: true
 
 # David Solomon
 
-## Perfil TL (Resumen Ejecutivo)
+## Qué es
 
-**¿Quién es?** Actual Presidente y CEO de **Goldman Sachs**, el banco de inversión más influyente y conectado del mundo.
+[[David Solomon]] es CEO de [[Goldman Sachs]] y una figura útil para leer la adaptación cultural de Wall Street: continuidad del poder financiero duro con una superficie pública más liviana, mediática y normalizada.
 
-**¿Por qué importa?** David Solomon representa la **nueva cara del Tier A financiero: la integración total entre Wall Street y la cultura de masas**. Bajo su marca de DJ ("DJ D-Sol"), Solomon pincha música electrónica en festivales de lujo y clubes de los Hamptons, utilizando su imagen relajada para lavar la reputación agresiva y predadora de Goldman Sachs. Sin embargo, tras la fachada del DJ _cool_, Solomon es el hombre que gestiona la **re-ingeniería de los mercados globales**, intensificando el control del banco sobre la gestión de activos y la deuda corporativa. Su presidencia ha estado marcada por la expansión (y fracaso parcial) hacia la banca de consumo y la gestión del gigantesco escándalo de corrupción **1MDB** en Malasia, demostrando que bajo el nuevo ritmo de la música, el viejo "Vampiro de la Manguera" sigue succionando valor de la economía real.
+## Por qué importa en TL
 
-## Análisis De Poder (Tiers)
+- conecta banca de inversión, gestión de activos y poder reputacional de élite;
+- ayuda a leer cómo Wall Street actualiza su imagen sin modificar su función sistémica;
+- sirve como nodo actorial del frente [[Goldman Sachs]] / Tesoro / gobernanza financiera.
 
-### Tier A (El Centro Financiero)
+## Mecanismos de poder
 
-- **Goldman Sachs como Gobierno en la Sombra:** Bajo Solomon, Goldman sigue siendo la principal cantera de funcionarios para el Tesoro de EE.UU. y el BCE. Solomon gestiona los flujos de capital que deciden qué empresas viven y cuáles mueren en la economía post-pandemia.
-- **Captura Cultural:** Su doble vida como DJ es una táctica de Tier A para "humanizar" la tiranía financiera, haciendo que el poder absoluto parezca una opción de estilo de vida moderna y envidiable.
+### 1. Goldman como cantera de mando
 
-### Tier B (Operadores / Los Ejecutivos De Wall Street)
+Solomon importa porque sigue dirigiendo una plataforma históricamente conectada con Tesoro, banca central y grandes operaciones de mercado.
 
-- **Cultura Corporativa Implacable:** A pesar de su imagen exterior, Solomon es conocido internamente por un estilo de mando extremadamente duro, exigiendo semanas laborales de 100 horas a sus analistas junior, manteniendo la estructura de Tier B bajo una presión constante para maximizar el retorno de los accionistas de Tier A.
-- **Liquidación de Activos:** Ha liderado la retirada de Goldman de la banca minorista (Marcus) para volver a centrarse en lo que mejor hacen: la ingeniería financiera de alto nivel y el asesoramiento a los gigantes del Fortune 500.
+### 2. Rebranding del poder financiero
 
-### Tier C (Narrativa Pública)
+Su exposición cultural funciona en TL como caso de estudio: el poder ya no siempre se presenta con solemnidad opaca; también puede estetizarse, relajarse y volverse aspiracional.
 
-- "Goldman Sachs: Progress happens here". "David Solomon: The CEO who DJs". Una operación de relaciones públicas brillantemente ejecutada para que el público asocie al banco más peligroso de la historia con el entretenimiento y la modernidad, en lugar de con las crisis de deuda y las especulaciones inmobiliarias.
+### 3. Selección de enfoque
 
-## Conexiones Clave
+La retirada parcial de frentes menos rentables y el retorno a negocios núcleo muestran cómo la banca sistémica recentra prioridades cuando el experimento de expansión no rinde.
 
-- [[Goldman Sachs]] (Su plataforma de poder)
-- [[Lloyd Blankfein]] (Su predecesor y mentor)
-- [[Larry Summers]] (Nexus académico/político frecuente)
-- [[BlackRock]] (Su principal competencia y aliado en la gestión de activos)
+## Qué cambió
 
-## Fuentes
+La nota estaba demasiado novelada y dependía mucho del contraste "CEO/DJ". Se recompila para conservar ese dato como señal cultural, pero sin dejar que opaque su función real dentro de Goldman.
 
-- Reportes anuales de Goldman Sachs (SEC Filings).
-- Investigaciones de "The New York Times" sobre el estilo de liderazgo de Solomon.
-- Cobertura del escándalo 1MDB y la multa de 2.9 mil millones pagada bajo su gestión.
+## Cómo leerlo en TL
 
-## Por Qué Importa (Estilo Nico)
+- como operador de [[Goldman Sachs]], no como personaje excéntrico aislado;
+- junto con [[Lloyd Blankfein]] y la continuidad de Wall Street;
+- como ejemplo de humanización estética del mando financiero.
 
-> "David Solomon es el tipo que te deja en la calle con una hipoteca impagable mientras te pincha un remix en un yate en St. Tropez. Es la evolución del villano de Wall Street: ya no usa gomina y tiradores, ahora usa auriculares y jeans. Es el Tier A que entendió que para que la gente no odie al banco que le roba el futuro, el jefe tiene que parecer un DJ buena onda. Detrás de los platos, Solomon sigue manejando la manguera que aspira la guita del mundo para Goldman. Es el vampiro con auriculares."
+## Con qué conecta
+
+- [[Goldman Sachs]]
+- [[Lloyd Blankfein]]
+- [[Larry Summers]]
+- [[BlackRock]]
+- [[00_MOC - Control Financiero]]

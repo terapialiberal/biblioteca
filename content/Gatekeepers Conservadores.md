@@ -15,7 +15,7 @@ publish: true
 
 **¿Qué son?** Figuras mediáticas, comentaristas y organizaciones que aparentan defender los valores tradicionales y el patriotismo, pero cuya función real es canalizar el descontento popular hacia objetivos que no amenacen al **Tier A**.
 
-**¿Por qué importa?** El Gatekeeper Conservador es el **gestor del corral de Tier B para la derecha disidente**. Su misión es identificar los temas que realmente preocupan al Tier C (como la pérdida de soberanía, la degradación cultural o el poder bancario) y desviarlos hacia soluciones inofensivas o hacia el odio a chivos expiatorios secundarios. Estos gatekeepers marcan **"Líneas Rojas"** infranqueables: pueden criticar el "Wokeismo", pero nunca cuestionarán el apoyo incondicional a la política exterior de **[[AIPAC / Israel]]**, nunca expondrán la mecánica del **[[Banco de la Reserva Federal]]** y nunca hablarán de las redes de chantaje profundo (**[[Jeffrey Epstein]]**) más allá de lo permitido. Son válvulas de escape diseñadas para que el Tier C sienta que tiene representación, mientras el diseño de Tier A sigue intacto.
+**¿Por qué importa?** El Gatekeeper Conservador es el **gestor del corral de Tier B para la derecha disidente**. Su misión es identificar los temas que realmente preocupan al Tier C (como la pérdida de soberanía, la degradación cultural o el poder bancario) y desviarlos hacia soluciones inofensivas o hacia el odio a chivos expiatorios secundarios. Estos gatekeepers marcan **"Líneas Rojas"** infranqueables: pueden criticar el "Wokeismo", pero nunca cuestionarán el apoyo incondicional a la política exterior de **[[AIPAC]] / [[Israel]]**, nunca expondrán la mecánica del **[[Banco de la Reserva Federal]]** y nunca hablarán de las redes de chantaje profundo (**[[Jeffrey Epstein]]**) más allá de lo permitido. Son válvulas de escape diseñadas para que el Tier C sienta que tiene representación, mientras el diseño de Tier A sigue intacto.
 
 ## Análisis De Poder (Tiers)
 
@@ -37,7 +37,7 @@ publish: true
 
 - [[Oposición Controlada (Limited Hangout)]] (Su definición técnica)
 - [[Fox News / Fox Corporation]] (Su principal plataforma histórica)
-- [[AIPAC / Israel]] (Su tabú principal)
+- [[AIPAC]] / [[Israel]] (Su tabú principal)
 - [[Complejo Militar-Industrial]] (Su interés oculto)
 
 ## Por Qué Importa (Estilo Nico)

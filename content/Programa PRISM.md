@@ -4,14 +4,14 @@ aliases:
   - PRISM
   - "Programa PRISM: El Cordón Umbilical De La Vigilancia"
 created: 2026-01-29T19:17:31.580-03:00
-modified: 2026-04-21T13:21:39.213-03:00
+modified: 2026-04-21T13:21:47.375-03:00
 tags:
-  - "#prism"
-  - "#nsa"
-  - "#vigilancia"
-  - "#big-tech"
-  - "#datos"
-  - "#tl-intel-v3"
+  - prism
+  - nsa
+  - vigilancia
+  - big-tech
+  - datos
+  - tl-intel-v3
 ---
 
 # Programa PRISM

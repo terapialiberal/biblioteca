@@ -4,7 +4,7 @@ aliases:
   - Carbine
   - Carbyne
 created: 2026-01-29T19:17:06.437-03:00
-modified: 2026-04-07T13:30:39.175-03:00
+modified: 2026-04-07T13:30:42.829-03:00
 tags:
   - tecnologia
   - inteligencia

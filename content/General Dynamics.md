@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:14.904-03:00
-modified: 2026-04-19T13:28:26.475-03:00
+modified: 2026-04-19T13:28:18.695-03:00
 tags:
   - general-dynamics
   - defensa

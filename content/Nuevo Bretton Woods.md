@@ -4,7 +4,7 @@ aliases:
   - Bretton Woods 2
   - Bretton Woods post-dolar
 created: 2026-01-29T19:17:27.567-03:00
-modified: 2026-04-20T19:31:01.380-03:00
+modified: 2026-04-22T10:34:44.564-03:00
 tags:
   - nuevo-bretton-woods
   - sistema-monetario
@@ -51,6 +51,14 @@ La nota gana utilidad cuando se la conecta con el pasaje desde [[Sistema Petrodo
 
 En TL, uno de los puntos clave es distinguir entre desdolarizacion real y redistribucion administrada del poder monetario. El nuevo tablero puede cambiar de forma sin que desaparezca la capacidad de EEUU para disciplinar pagos, deuda y liquidez.
 
+### 5. Paraguas sobre doctrinas y ejecutores
+
+La nota gana precision cuando se diferencia entre nivel de paraguas y nivel de operador. [[Mar-a-Lago Accord]] nombra una doctrina concreta; [[Stephen Miran]] formula parte de ese lenguaje; [[Scott Bessent]] y [[Kevin Warsh]] importan como ejecutores posibles dentro de un tablero mas amplio.
+
+### 6. No acuerdo limpio, sino reconfiguracion bajo stress
+
+Su valor en TL no depende de probar una nueva conferencia estilo 1944. Depende de mostrar que el sistema ya esta buscando nuevas reglas de coordinacion bajo condiciones peores: deuda alta, fragmentacion geopolitica, rails alternativos y necesidad de sostener demanda por activos de EEUU.
+
 ## Con que conecta
 
 - [[Sistema Petrodolar]]
@@ -59,3 +67,6 @@ En TL, uno de los puntos clave es distinguir entre desdolarizacion real y redist
 - [[CBDC]]
 - [[Dinero Programable]]
 - [[Treasuries]]
+- [[Stephen Miran]]
+- [[Scott Bessent]]
+- [[Kevin Warsh]]

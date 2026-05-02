@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-25T14:51:05.995-03:00
-modified: 2026-04-19T12:41:25.721-03:00
+modified: 2026-04-24T10:22:29.466-03:00
 tags:
   - palmer-luckey
   - anduril
@@ -41,11 +41,18 @@ En TL, su relevancia aumenta cuando Anduril se lee como síntoma de una nueva fa
 
 Su perfil sirve para observar cómo lenguaje antiestablishment y branding hacker pueden convivir con integración profunda al aparato de seguridad nacional.
 
+### 4. Operador de la sensorizacion militar
+
+En TL, Luckey gana todavía más espesor cuando se lo conecta con [[Anduril Industries]], [[Peter Thiel]] y [[00_MOC - Vigilancia Tecnica y SIGINT]]. Ahí deja de ser solo fundador carismático y pasa a verse como operador del pasaje entre cultura tech, venture y vigilancia aplicada a defensa.
+
 ## Con que conecta
 
 - [[Anduril Industries]]
 - [[Peter Thiel]]
 - [[Palantir]]
+- [[Palantir AIP]]
+- [[In-Q-Tel]]
 - [[Metaverso]]
 - [[Tecnocracia]]
 - [[Oculus Rift]]
+- [[00_MOC - Vigilancia Tecnica y SIGINT]]

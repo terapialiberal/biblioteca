@@ -3,14 +3,14 @@ publish: true
 aliases:
   - FDA y las Puertas Giratorias (Pfizer)
 created: 2026-01-29T19:17:21.562-03:00
-modified: 2026-04-21T13:29:26.727-03:00
+modified: 2026-04-22T10:49:17.660-03:00
 tags:
-  - "#fda"
-  - "#puerta-giratoria"
-  - "#captura-regulatoria"
-  - "#pfizer"
-  - "#big-pharma"
-  - "#tl-intel-v3"
+  - fda
+  - puerta-giratoria
+  - captura-regulatoria
+  - pfizer
+  - big-pharma
+  - tl-intel-v3
 ---
 
 # La Puerta Giratoria de la FDA
@@ -47,6 +47,10 @@ En TL, su relevancia crece cuando se observa que los conflictos de interés no d
 
 También sirve para leer cómo aprobación, legitimidad científica y negocio farmacéutico pueden quedar integrados dentro de una misma cadena institucional.
 
+### 4. Del caso sanitario al patrón general
+
+La nota gana más utilidad cuando se la lee como caso ejemplar de un mecanismo más amplio. Lo que ocurre en la FDA no pertenece solo al mundo pharma: muestra cómo una agencia puede transformarse en carril de legitimación para actores ya integrados al mismo ecosistema profesional.
+
 ## Con que conecta
 
 - [[FDA]]
@@ -55,4 +59,5 @@ También sirve para leer cómo aprobación, legitimidad científica y negocio fa
 - [[Scott Gottlieb]]
 - [[Pfizer]]
 - [[Big Pharma]]
+- [[Scott Gottlieb]]
 - [[00_MOC - Captura Regulatoria y Puertas Giratorias]]

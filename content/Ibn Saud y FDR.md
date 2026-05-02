@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:17.874-03:00
-modified: 2026-04-17T14:23:06.752-03:00
+modified: 2026-04-22T10:31:54.403-03:00
 tags:
   - ibn-saud
   - fdr
@@ -41,6 +41,10 @@ Aunque el sistema posterior se consolida más tarde, este nodo ayuda a entender 
 
 En TL, sirve para unir política exterior, arquitectura energética y secuencia monetaria: [[Conferencia de Bretton Woods]] -> [[Shock de Nixon]] -> [[Sistema Petrodolar]].
 
+### 4. Antesala geopolítica del petrodolar
+
+El nodo gana más claridad cuando se evita inflarlo como explicación total del sistema. Su lugar más útil es como antecedente geopolítico del acuerdo energía-seguridad que después hará más plausible la solución histórica del [[Sistema Petrodolar]].
+
 ## Conexiones
 
 - [[Sistema Petrodolar]]
@@ -48,3 +52,4 @@ En TL, sirve para unir política exterior, arquitectura energética y secuencia 
 - [[Arabia Saudita]]
 - [[Shock de Nixon]]
 - [[Conferencia de Bretton Woods]]
+- [[Reanclaje Hibrido]]

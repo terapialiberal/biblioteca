@@ -1,28 +1,37 @@
 ---
 publish: true
-titulo: Anarco-Tiranía (Sam Francis)
-tipo: "concepto"
+titulo: "Anarco-Tiranía (Sam Francis)"
+tipo: concepto
 fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
+tier_primario: b
+nivel_evidencia: medio
 estado: activo
-tags: [anarco, francis, tirana]
+tags: [anarco-tirania, sam-francis, orden-publico, estado, public-choice, tl-intel-v3]
 ---
 
-# Anarco-Tiranía (Sam Francis)
+# Anarco-Tiranía
 
-> **Resumen:** Estado que persigue al ciudadano común pero tolera al criminal.
+> [!NOTE] Estado fuerte con el débil, débil con el fuerte
+> Concepto asociado a Sam Francis para describir sistemas donde el Estado no controla criminalidad real pero sí disciplina al ciudadano cumplidor.
 
-## Notas Iniciales
+## Qué es
 
-_Nota generada automáticamente tras análisis de huecos de información._
+Anarco-tiranía nombra una paradoja: anarquía en zonas donde debería haber orden básico y tiranía en zonas donde debería haber libertad civil. No implica ausencia de Estado, sino asignación asimétrica de coerción.
 
-## Puntos a Investigar
+## Por qué importa en TL
 
-- Definir conexión exacta con Tier A.
-- Buscar contratos o financiamiento (Follow the Money).
-- Identificar operadores clave.
+El patrón ayuda a leer ciudades con crimen tolerado, fronteras porosas, justicia selectiva y regulación minuciosa sobre actores productivos. La pregunta clave es a quién castiga el sistema y a quién deja operar.
 
-## Conexiones Potenciales
+## Señales de detección
 
-- [[00 Índice Maestro]]
+- Delitos cotidianos sin sanción efectiva.
+- Regulación agresiva contra comerciantes, familias o disidentes.
+- Uso político de seguridad pública.
+- Burocracia que maximiza control formal mientras pierde monopolio territorial.
+
+## Conexiones
+
+- [[Public Choice Theory|Public Choice]]
+- [[Lawfare]]
+- Estado Fallido
+- [[Ventana de Overton]]

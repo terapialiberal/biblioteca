@@ -1,56 +1,28 @@
 ---
-titulo: Watergate
-tipo: "concepto"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [george, henry, watergate]
 publish: true
+aliases:
+  - Watergate (Escándalo)
+created: 2026-01-29T19:17:43.971-03:00
+modified: 2026-05-02T12:58:38.112-03:00
+tags:
+  - watergate
+  - nixon
+  - espionaje
+  - estado-profundo
+  - tl-intel-v3
 ---
 
 # Watergate
 
-## Resumen Ejecutivo
+[[Watergate]] importa en TL como escándalo de espionaje político que derribó a Nixon y mostró el poder de la prensa, agencias, filtraciones y crisis institucional.
 
-**¿Qué fue?** Escándalo por robo en oficinas del Partido Demócrata y posterior encubrimiento que terminó con la renuncia de Nixon.
+## Lectura TL
 
-**¿Por qué importa?** La versión official oculta preguntas mayores: ¿Por qué los "plomeros" tenían conexiones CIA? ¿Por qué el FBI/Deep Throat ayudó a derrocar a un presidente? Watergate fue un golpe institucional, no periodismo heroico.
+Watergate sirve para leer cómo operaciones ilegales, cobertura mediática y fracturas internas del aparato pueden volverse mecanismo de remoción política.
 
-## Análisis (Tiers)
+## Conecta
 
-### Tier A (Beneficiarios)
-
-- **Establishment anti-Nixon:** Nixon desconfiaba de CIA, buscaba controlarla.
-- **CIA:** Nixon ordenó que dejaran de invocar "seguridad nacional" para frenar investigación.
-- **Medios corporativos:** Washington Post como instrumento (dueño Katherine Graham era del establishment).
-
-### Tier B (Operativa)
-
-- **Deep Throat (Mark Felt):** #2 del FBI. ¿Por qué el FBI filtró contra un presidente?
-- **"Plumbers":** Hunt y Liddy eran CIA. ¿Operación saboteada intencionalmente?
-- **Tapes:** Nixon grabó todo. ¿Trampa perfecta?
-- **"I'm not a crook":** Frase memorable que definió narrativa.
-
-### Tier C (Narrativa)
-
-- "Periodismo valiente derrocó presidente corrupto"
-- "El sistema funciona"
-- "Nadie está por encima de la ley" (excepto todos los que sí lo están)
-
-## Citas Reveladoras
-
-> _«The CIA owes me.»_ — **Richard Nixon** (refiriéndose a Bay of Pigs)
-
-## Conexiones
-
-- [[CIA]] (Hunt, Liddy eran agentes)
-- [[George H. W. Bush]] (luego director CIA)
-- [[Henry Kissinger]] (sobrevivió y prosperó)
-- [[FBI]] (Deep Throat era del FBI)
-
-## Fuentes
-
-- "Silent Coup" - Len Colodny
-- Nixon tapes
-- Bob Woodward books (versión official)
+- Nixon
+- [[Deep State]]
+- medios
+- [[Lawfare]]

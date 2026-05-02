@@ -1,15 +1,15 @@
 ---
 publish: true
 created: 2026-04-21T11:24:10.996-03:00
-modified: 2026-04-21T11:24:11.450-03:00
+modified: 2026-04-22T09:51:37.860-03:00
 tags:
-  - "#refinerias"
-  - "#energia"
-  - "#incendios"
-  - "#sabotaje"
-  - "#cascada-sistemica"
-  - "#policrisis"
-  - "#tl-intel-v3"
+  - refinerias
+  - energia
+  - incendios
+  - sabotaje
+  - cascada-sistemica
+  - policrisis
+  - tl-intel-v3
 ---
 
 # Incendios en Refinerias Abril 2026
@@ -27,6 +27,8 @@ tags:
 ## Que cambio
 
 En `Policrisis Abril 2026` los incendios en refinerías aparecían como hallazgo crítico y pregunta abierta, pero no existía nota reusable en la base. Se crea para no perder ese patrón dentro del stream y para dejar explícito que el caso sigue en gradiente de inferencia, no de confirmación cerrada.
+
+El stream `ORDO AB CHAO! Nada es Accidental. Todo es GESTION DEL CAOS` agrega una lectura más fuerte: estos incidentes importan no solo por daño operativo, sino porque multiplican la sensación de sistema energético fuera de control. Esa percepción suma saturación cognitiva y vuelve más aceptable la idea de que solo una capa técnica más dura puede administrar el desborde.
 
 ## Que es
 
@@ -50,6 +52,10 @@ El nodo se vuelve más fuerte cuando se lo inserta en una cadena: shock en Ormuz
 
 Su importancia también está en cómo se metaboliza. Varios incidentes energéticos en pocos días conviven con guerra, Taiwán, finanzas e IA; por eso algo que en otro contexto habría dominado titulares queda absorbido como ruido de fondo de la policrisis.
 
+### 5. Cuello de botella perceptivo y material
+
+En TL, el patrón importa porque une dos planos: menor margen material de refinación y mayor percepción de vulnerabilidad sistémica. El resultado no es solo más riesgo energético, sino más disponibilidad social para aceptar respuestas de emergencia.
+
 ## Con que conecta
 
 - [[Policrisis Sistemica]]
@@ -57,3 +63,4 @@ Su importancia también está en cómo se metaboliza. Varios incidentes energét
 - [[Crisis Alimentaria 2026]]
 - [[Crisis del Petroleo de 1973]]
 - [[Reservas Estrategicas de Petroleo]]
+- [[Tecnocracia]]

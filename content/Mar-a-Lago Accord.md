@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-20T16:50:17.680-03:00
-modified: 2026-04-20T16:50:18.464-03:00
+modified: 2026-04-22T10:31:55.011-03:00
 tags:
   - mar-a-lago-accord
   - dolar
@@ -41,6 +41,10 @@ En TL, su relevancia aumenta por la contradiccion que intenta administrar: debil
 
 Su valor crece cuando se lo lee junto con guerra comercial, stress de deuda, buybacks del Tesoro y corredores energeticos. El esquema luce menos como politica macro aislada y mas como fase de transicion caotica con cobertura doctrinal.
 
+### 4. Doctrina vieja, materiales nuevos
+
+Leído junto con [[Shock de Nixon]], [[Sistema Petrodolar]] y [[Reanclaje Hibrido]], el nodo gana espesor como intento contemporáneo de resolver un problema histórico con herramientas distintas: menos dependencia del petróleo puro y más peso de [[Treasuries]], regulación de rails y coerción sobre aliados o tenedores externos.
+
 ## Con que conecta
 
 - [[Stephen Miran]]
@@ -48,3 +52,5 @@ Su valor crece cuando se lo lee junto con guerra comercial, stress de deuda, buy
 - [[Kevin Warsh]]
 - [[Treasuries]]
 - [[Dinero Programable]]
+- [[GENIUS Act]]
+- [[Reanclaje Hibrido]]

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-09T17:33:15.326-03:00
-modified: 2026-04-17T16:37:37.495-03:00
+modified: 2026-04-22T16:58:30.767-03:00
 tags:
   - neuralink
   - bci
@@ -44,6 +44,14 @@ El salto estratégico aparece cuando el pensamiento, la intención motora o el e
 
 Leído junto con [[Transhumanismo]] y [[Neuro-Rights]], Neuralink deja de ser una empresa aislada y pasa a ser una pieza de una arquitectura neuro-digital emergente.
 
+### 5. Del cuerpo conectado al cerebro conectado
+
+Leido junto con [[Internet de los Cuerpos]], el nodo marca un salto cualitativo: ya no se trata solo de medir constantes biologicas o comportamiento corporal, sino de abrir una interfaz directa con actividad neuronal.
+
+### 6. Legitimacion clinica, horizonte ampliado
+
+En TL, la clave no es negar el vector terapeutico, sino leer como ese mismo carril puede normalizar capas posteriores de enhancement, dependencia tecnica e integracion cognitiva con software.
+
 ## Conexiones
 
 - [[Transhumanismo]]
@@ -52,3 +60,7 @@ Leído junto con [[Transhumanismo]] y [[Neuro-Rights]], Neuralink deja de ser un
 - [[Bio-Identidad Digital]]
 - [[Elon Musk]]
 - [[Tecnocracia]]
+- [[Precision Medicine]]
+- [[Internet of Bio-Nano Things]]
+- [[00_MOC - Transhumanismo y Convergencia Bio-Digital]]
+- [[00_MOC - Tecnologia de Control]]

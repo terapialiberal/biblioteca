@@ -1,39 +1,40 @@
 ---
-titulo: Canal De Suez
-tipo: "concepto"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [canal, egipto, ruta, suez]
 publish: true
+aliases:
+  - Suez
+  - Canal de Suez (Geopolítica)
+created: 2026-01-29T19:17:06.321-03:00
+modified: 2026-05-02T12:41:35.957-03:00
+tags:
+  - suez
+  - chokepoint
+  - comercio
+  - energia
+  - rimland
+  - tl-intel-v3
 ---
 
-# Canal De Suez
+# Canal de Suez
 
-## Resumen Ejecutivo
+## BLUF
 
-**Qu es?** Canal artificial en Egipto que conecta el Mediterrneo con el Mar Rojo.
-Ahorra a los barcos tener que rodear toda frica (10 das menos de viaje).
-Pasa el **12% del comercio mundial**.
+[[Canal de Suez]] importa en TL como atajo estratégico entre Mediterráneo, Mar Rojo y océano Índico. Cuando Suez se bloquea o se vuelve riesgoso, suben costos, tiempos, seguros y presión sobre cadenas globales.
 
-**Por qu importa?**
-Es vital para Europa. El petrleo y las manufacturas de Asia llegan a Europa por aqu.
-**Vulnerabilidad:** En 2021, el barco **Ever Given** se atasc y bloque el mundo durante 6 das. Se perdieron \9 mil millones diarios.
-Demostr la fragilidad extrema de la cadena de suministro "Just in Time". Un solo accidente (o sabotaje) puede paralizar la industria europea.
+## Por que importa en TL
 
-## Anlisis (Tiers)
+- conecta comercio marítimo, energía, inflación logística y control imperial de rutas;
+- permite leer crisis regionales como shocks de supply chain;
+- funciona junto con [[Estrecho de Ormuz]] y [[Estrecho de Malaca]] como tríada de choke points euroasiáticos.
 
-### Tier A (Sabotaje Econmico)
+## Lectura TL
 
-- **Ever Given:** Teoras de conspiracin sealaron que la ruta dibujada por el barco antes de atascarse pareca un pene gigante (burla deliberada) y que el nombre clave del barco era "Evergreen" (nombre cdigo de la CIA/Hillary Clinton). Sea cierto o no, demostr lo fcil que es causar una crisis global de suministros.
+Suez condensa una tesis simple: la globalización depende de pasillos estrechos. El comercio parece abstracto hasta que un canal, estrecho o puerto deja de operar con normalidad. Ahí reaparece la geografía como disciplina económica.
 
-## Conexiones
+## Con que conecta
 
-- [[Bab el-Mandeb (La puerta de las lgrimas - Yemen)]] (La entrada sur de Suez)
-- [[Egipto]]
-- [[Ruta de la Seda]]
-
-## Fuentes
-
-- Anlisis logstico del incidente Ever Given.
+- [[Crisis del Canal de Suez]]
+- [[Estrecho de Ormuz]]
+- [[Estrecho de Malaca]]
+- [[Cadena de Suministro]]
+- [[Inflación]]
+- [[00_MOC - Rimland]]

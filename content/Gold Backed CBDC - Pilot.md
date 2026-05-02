@@ -1,36 +1,56 @@
 ---
-titulo: Gold Backed CBDC - Pilot
-tipo: "concepto"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [backed, cbdc, pilot, rusia]
 publish: true
+created: 2026-02-09T17:26:09.520-03:00
+modified: 2026-04-24T12:18:24.024-03:00
+tags:
+  - cbdc
+  - oro
+  - pagos-transfronterizos
+  - rusia
+  - iran
+  - desdolarizacion
+  - tl-intel-v3
 ---
 
-# [[Gold Backed CBDC - Pilot]]
+# Gold Backed CBDC - Pilot
 
-**Clasificación:** Tier A (Guerra de Divisas / Hard-Money)\
-**Actores:** [[Rusia]], [[Iran]] (Desde 2025).
+## BLUF
 
-## 🦾 ANÁLISIS FORENSE
+[[Gold Backed CBDC - Pilot]] importa en TL como hipótesis de rail digital con ancla material: no equivale a un regreso clásico al patrón oro, pero sí señala intentos de usar el metal como base de confianza para pagos transfronterizos fuera del circuito dólar-euro.
 
-Ante la exclusión de SWIFT, el eje Moscú-Teherán ha iniciado pruebas para liquidar comercio transfronterizo utilizando CBDCs vinculadas al oro físico. No es un "patrón oro" clásico, sino el uso del oro como ancla de confianza digital.
+## Por que importa en TL
 
-### Señal 2025-2026
+- conecta sanciones, [[CBDC]], oro y comercio energético bajo presión;
+- ayuda a leer que la desdolarización no solo busca nuevos rails, sino también nuevos activos de confianza;
+- funciona como nodo de cruce entre [[Rusia]], [[Irán]], [[Proyecto mBridge]] y la búsqueda de settlement menos vulnerable a confiscación o bloqueo.
 
-- **Digital Ruble & Digital Rial:** En la segunda mitad de 2025, comenzó el piloto de liquidación binacional. El oro sirve como activo de reserva para equilibrar los saldos comerciales entre los dos países sin depender del dólar o el euro.
-- **Señal Crítica:** Acuerdo de diciembre 2025 para unificar estándares de blockchain entre bancos centrales de Irán y Rusia.
+## Que cambio
 
-### Cui Bono
+La nota venía como manifiesto corto, demasiado futurista y poco reusable. Se recompila como concepto modular del corredor `oro / cbdc / settlement sancionado / hard collateral`.
 
-- **Rusia / Irán:** Capacidad de exportar energía y recursos sin riesgo de incautación de reservas por parte de [[US]].
-- **Mercado del Oro:** Presión alcista estructural al reinsertarse el metal en los rieles de pago digitales.
+## Lectura TL
 
-## 🔗 CONEXIONES
+### 1. Oro como ancla parcial, no como nostalgia
 
-- [[Project mBridge]]
-- [[BRICS Expansion 2026|BRICS+ Expansion 2026]]
+En TL, este piloto importa porque reintroduce el oro no necesariamente como moneda cotidiana, sino como activo de referencia para balances, compensación y confianza entre actores bajo sanción o alta desconfianza monetaria.
+
+### 2. Rail digital con respaldo material
+
+Su valor analítico aumenta cuando se observa que el problema actual no es solo emitir una CBDC, sino con qué activo se respalda la confianza del circuito. Ahí el oro reaparece como alternativa para relaciones comerciales que no quieren depender del dólar ni de promesas puramente fiat.
+
+### 3. Herramienta de resiliencia sancionada
+
+Leído junto con [[Rusia]], [[Irán]] y [[Desdolarizacion]], el nodo ayuda a ver una lógica más amplia: cuando reservas y cuentas pueden ser congeladas, crece el incentivo a combinar infraestructura digital con colateral físico o políticamente menos vulnerable.
+
+### 4. Señal de búsqueda de nuevos activos de settlement
+
+También importa porque anticipa una pregunta más grande del sistema: si el viejo orden entra en competencia de rails, también entra en competencia de activos de confianza. El oro vuelve a aparecer como opción parcial dentro de esa búsqueda.
+
+## Conexiones
+
 - [[CBDC]]
-- [[Cui Bono Real]] (Activos físicos vs Promesas digitales)
+- [[Proyecto mBridge]]
+- [[Desdolarizacion]]
+- [[Nuevo Bretton Woods]]
+- [[Rusia]]
+- [[Irán]]

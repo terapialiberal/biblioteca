@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2026-01-29T19:17:04.950-03:00
-modified: 2026-04-21T12:26:36.098-03:00
+modified: 2026-04-21T12:26:42.518-03:00
 tags:
-  - "#bbc"
-  - "#medios"
-  - "#reino-unido"
-  - "#soft-power"
-  - "#narrativa"
-  - "#tl-intel-v3"
+  - bbc
+  - medios
+  - reino-unido
+  - soft-power
+  - narrativa
+  - tl-intel-v3
 ---
 
 # BBC

@@ -1,37 +1,21 @@
 ---
-titulo: Tencent
-tipo: "concepto"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [partido, tencent]
 publish: true
+aliases:
+  - Tencent (Tecnología China)
+created: 2026-01-29T19:17:38.701-03:00
+modified: 2026-05-02T13:03:40.211-03:00
+tags:
+  - tencent
+  - china
+  - wechat
+  - plataforma
+  - tl-intel-v3
 ---
 
 # Tencent
 
-> [!ABSTRACT] Ficha Técnica
-> **Narrativa Official:** Empresa de tecnología e internet.
-> **Función Real:** El Facebook + PayPal + gaming de China. Brazo de control social.
+[[Tencent]] importa en TL como plataforma china de mensajería, pagos, gaming, nube e infraestructura social digital.
 
-## Productos
+## Lectura TL
 
-- **WeChat:** Super-app que todo chino usa (mensajes, pagos, todo)
-- Gaming: dueños de Riot (LoL), stakes en Epic, Activision, etc.
-- Fintech: WeChat Pay
-
-## Control Social
-
-WeChat es la plataforma donde el gobierno chino puede monitorear y censurar a toda la población.
-
-## Conexiones
-
-- [[00_Glosario - Conceptos Fase 1#Partido Comunista Chino|Partido Comunista Chino]]
-- Gaming global
-- Censura y vigilancia china
-
-## Fuentes
-
-- Tencent annual reports
-- China tech analysis
+Tencent muestra la superapp como arquitectura de gobierno cotidiano: comunicación, pagos, entretenimiento, identidad informal y trazabilidad concentradas en un mismo ecosistema.

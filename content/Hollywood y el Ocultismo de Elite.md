@@ -30,7 +30,7 @@ publish: true
 
 ## Conexiones Críticas
 
-- [[Programación Predictiva en el Cine]]: El método técnico de familiarización.
+- [[Cine y Programacion Predictiva]]: El método técnico de familiarización.
 - [[MKUltra|Mk-Ultra]]: El uso de la industria del cine para ocultar técnicas de control mental.
 - [[Walt Disney]]: Iniciado de alto nivel que transformó el entretenimiento infantil en un sistema de codificación simbólica.
 

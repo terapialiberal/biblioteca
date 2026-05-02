@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-20T10:33:12.998-03:00
-modified: 2026-04-20T10:34:11.821-03:00
+modified: 2026-04-20T10:42:12.512-03:00
 tags:
   - mithril-capital
   - venture-capital

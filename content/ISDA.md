@@ -1,47 +1,58 @@
 ---
-titulo: "ISDA: Los rbitros Del Apocalipsis Financiero"
-tipo: "concepto"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [apocalipsis, derivados, financiero, isda]
 publish: true
+aliases:
+  - International Swaps and Derivatives Association
+created: 2026-01-29T19:17:18.974-03:00
+modified: 2026-04-22T16:44:53.799-03:00
+tags:
+  - isda
+  - derivados
+  - cds
+  - netting
+  - default
+  - tl-intel-v3
 ---
 
-# ISDA: Los rbitros Del Apocalipsis Financiero
+# ISDA
 
-> [!ABSTRACT] Hiptesis Informativa
-> La **ISDA** (International Swaps and Derivatives Association) es el gremio privado ms poderoso del mundo financiero. Representa a los bancos que comercian con **Derivados** (una burbuja nocional estimada en ms de \1.000 billones / un cuadrilln). Su poder real reside en los **"Comits de Determinacin"**: grupos secretos de banqueros que votan para decidir si un pas o empresa ha entrado en "default" (impago). Esta decisin gatilla el pago de los seguros (CDS). Tienen el poder de empujar a una nacin a la quiebra o salvarla artificialmente simplemente cambiando una definicin legal.
+## BLUF
 
-## Anlisis De Tiers
+[[ISDA]] importa en TL como organización privada que estandariza el mercado global de derivados y, con ello, condiciona la forma en que default, netting y prioridad contractual son interpretados por los grandes participantes del sistema.
 
-### Tier A: El Control Del Riesgo
+## Por que importa en TL
 
-- **El Veto de Default:** En casos como el de Grecia (2012) o Argentina (2014), la ISDA decidi si se pagaban los seguros de impago. Si deciden que "no es un default" (aunque el pas no pague), protegen a los bancos que vendieron los seguros. Es un tribunal privado por encima de las cortes nacionales.
-- **Armas de Destruccin Financiera:** Warren Buffett llam as a los derivados. La ISDA redacta el "Master Agreement", el contrato estndar que permite que este casino global funcione sin regulacin estatal efectiva.
+- conecta derivados, definición de default y jerarquía legal del colateral;
+- ayuda a leer cómo el riesgo financiero se gobierna mediante contratos privados estandarizados;
+- funciona como pieza jurídica del corredor [[The Great Taking]] / [[DTCC]] / [[Cede & Co]].
 
-### Tier B: Ejecucin Bancaria
+## Que cambio
 
-- **Estandarizacin:** Crearon un lenguaje legal comn que permite vender riesgo complejo (hipotecas basura, deuda soberana) como si fueran productos simples. Esto facilit la crisis de 2008.
+La nota seguía con problemas de encoding y formato viejo. Se recompila como entidad reusable para separar función contractual, poder privado y lectura TL del mercado de derivados.
 
-### Tier C: Vctimas Del Casino
+## Lectura TL
 
-- **El Contribuyente:** Cuando los derivados estallan (como con AIG en 2008), el gobierno rescata a los bancos. La ISDA asegura que las ganancias sean privadas y las prdidas pblicas.
+### 1. El contrato por encima del relato publico
 
-## Mecanismos De Poder
+ISDA importa porque buena parte del sistema no se estabiliza por confianza abstracta, sino por contratos privados que definen cómo se compensa, acelera o ejecuta el riesgo.
 
-1. **Credit Default Swaps (CDS)**: Seguros contra impago. Quien controla la definicin de "impago" controla el mercado.
-2. **Netting (Compensacin)**: Permite a los bancos reportar una exposicin al riesgo mucho menor de la real, ocultando el apalancamiento masivo del sistema.
-3. **Lobbying Regulatorio**: Han impedido sistemticamente que los derivados se negocien en bolsas pblicas y transparentes, mantenindolos en el mercado "OTC" (Over-The-Counter), oscuro y opaco.
+### 2. Default como decision operativa
 
-## Conexiones Críticas
+Leido junto con [[CDS (Credit Default Swaps)]], el nodo muestra que el impago no es solo hecho económico; también es evento interpretado dentro de una arquitectura privada con enormes consecuencias de mercado.
 
-- [[00_Glosario - Conceptos Fase 1#Derivados (Quadrillion Dollar Bubble)|Derivados (Quadrillion Dollar Bubble)]]: El mercado que regulan.
-- [[Crisis Financiera 2008]]: El evento causado por sus productos.
-- [[Fondos Buitre]]: Usuarios intensivos de las decisiones de la ISDA (Paul Singer).
-- [[Grecia]]: El caso donde la ISDA manipul la definicin de default.
+### 3. Netting como ocultamiento del tamaño real
 
-## Conclusin Del Anlisis
+La relevancia del nodo crece cuando se observa que el netting reduce exposición visible y hace administrable un volumen de derivados que, leído en bruto, sería políticamente intolerable.
 
-La ISDA es el **Gobierno en la Sombra del Mercado**. Sus decisiones, tomadas a puerta cerrada por ejecutivos de Goldman Sachs y JP Morgan, tienen ms impacto en la solvencia de un pas que sus propios ministerios de economa. Es la privatizacin de la justicia financiera a escala global.
+### 4. Jerarquia legal del colateral
+
+Leido junto con [[The Great Taking]], ISDA ayuda a entender por qué el problema no es solo quién tiene el activo, sino qué tipo de acreencia prevalece cuando la cadena entra en stress.
+
+## Con que conecta
+
+- [[The Great Taking]]
+- [[DTCC]]
+- [[Cede & Co]]
+- [[Crisis Financiera 2008]]
+- [[Fondos Buitre]]
+- [[Grecia]]
+- [[00_MOC - Control Financiero]]

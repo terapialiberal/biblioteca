@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:05.755-03:00
-modified: 2026-04-19T12:55:36.477-03:00
+modified: 2026-04-22T16:08:46.486-03:00
 tags:
   - booz-allen-hamilton
   - contratista
@@ -41,11 +41,18 @@ En TL, su relevancia crece cuando se observa que contratar no reduce poder; a me
 
 Su utilidad aparece al mostrar cómo consultoría, tecnología y seguridad se funden en una economía del secreto altamente rentable.
 
+### 4. Contratista del stack de vigilancia
+
+En TL, Booz Allen rinde más cuando se la conecta con [[Revelaciones de Snowden]] y [[PRISM (Programa)]]. Ahí deja de ser una consultora genérica y pasa a funcionar como pieza del corredor `agencia / contratista / plataforma / filtración`.
+
 ## Con que conecta
 
 - [[Agencia de Seguridad Nacional]]
 - [[NSA]]
 - [[Edward Snowden]]
+- [[Revelaciones de Snowden]]
+- [[PRISM (Programa)]]
 - [[Complejo Militar-Industrial]]
 - [[Vigilancia Masiva]]
 - [[Five Eyes]]
+- [[00_MOC - Tecnologia de Control]]

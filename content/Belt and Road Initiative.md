@@ -5,14 +5,14 @@ aliases:
   - Belt and Road Initiative (BRI)
   - Nueva Ruta de la Seda
 created: 2026-01-29T19:17:05.115-03:00
-modified: 2026-04-21T12:51:25.429-03:00
+modified: 2026-04-24T10:32:36.573-03:00
 tags:
-  - "#belt-and-road"
-  - "#bri"
-  - "#china"
-  - "#infraestructura"
-  - "#eurasia"
-  - "#tl-intel-v3"
+  - belt-and-road
+  - bri
+  - china
+  - infraestructura
+  - eurasia
+  - tl-intel-v3
 ---
 
 # Belt and Road Initiative
@@ -51,6 +51,8 @@ No se trata solo de obra física. También puede incluir estándares, telecomuni
 - [[Estrecho de Malaca]]
 - [[Collar de Perlas]]
 - [[Corredor IMEC]]
+- [[PBOC (Banco Popular de China)]]
+- [[Proyecto mBridge]]
 - [[Teoria del Heartland]]
 - [[Rimland]]
 - [[00_MOC - Rimland]]

@@ -1,14 +1,10 @@
 ---
+titulo: Sistema Petrodolar
+tipo: concepto
+fecha: 2026-04-19
+estado: activo
+tags: [petrodolar, dolar, energia, saudi, treasuries, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:37.047-03:00
-modified: 2026-04-19T02:39:07.257-03:00
-tags:
-  - petrodolar
-  - dolar
-  - energia
-  - saudi
-  - treasuries
-  - tl-intel-v3
 ---
 
 # Sistema Petrodolar
@@ -49,10 +45,18 @@ La correccion fuerte de 2026 es esta: el sistema petrodolar sigue siendo clave, 
 
 En TL, el concepto ya no debe leerse como respuesta final sino como una capa dentro de una arquitectura mas amplia y mas fragil.
 
+### 5. 1973 como plantilla, no como destino
+
+Leido junto con [[Saltsjobaden_1973_MarALago_2026]], el sistema petrodolar gana valor como módulo histórico reusable. La lección no es que 2026 vaya a copiar 1973 de forma mecánica, sino que el problema vuelve a parecerse: demasiado pasivo estadounidense necesita una nueva combinación de energía, seguridad y demanda financiera para seguir siendo absorbido.
+
 ## Conexiones
 
 - [[Shock de Nixon]]
 - [[Petrodolar]]
 - [[Treasuries]]
 - [[Ibn Saud y FDR]]
+- [[Aramco]]
+- [[Mohammed bin Salman|Mohammed bin Salman]]
+- [[Reanclaje Hibrido]]
+- [[Saltsjobaden_1973_MarALago_2026]]
 - [[Nuevo Bretton Woods]]

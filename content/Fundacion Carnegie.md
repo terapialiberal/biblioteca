@@ -1,10 +1,9 @@
 ---
 publish: true
 aliases:
-  - Carnegie Endowment
   - Fundación Carnegie
 created: 2026-01-29T19:17:14.417-03:00
-modified: 2026-04-18T10:52:43.658-03:00
+modified: 2026-04-21T20:03:12.600-03:00
 tags:
   - carnegie
   - fundaciones
@@ -27,7 +26,7 @@ tags:
 
 ## Que cambio
 
-La nota venía fuerte en tono de manifiesto y con naming mixto entre `Carnegie Endowment`, `Fundación Carnegie` y `Comité Reese`. Se recompila como nodo modular de la rama `fundaciones / educación / gobierno mundial`.
+La nota venía fuerte en tono de manifiesto y con naming mezclado entre `Carnegie Endowment`, `Fundación Carnegie` y `Comité Reese`. Se limpia la colisión con [[Carnegie Endowment]] y queda recompilada como nodo modular de la rama `fundaciones / educación / gobierno mundial`.
 
 ## Lectura TL
 
@@ -43,13 +42,14 @@ En TL, uno de sus puntos fuertes es la tensión entre discurso pacifista y utili
 
 Su valor analítico aumenta cuando se la ve como usina de legitimidad para expertos, think tanks y orientación de política pública más que como simple beneficencia.
 
-### 4. Nodo histórico del corredor filantrópico
+### 4. Fundación matriz, no think tank contemporáneo
 
-Leída junto con [[Reece Committee]], [[Norman Dodd]] y [[Fundacion Rockefeller]], la Fundación Carnegie ayuda a reconstruir la infraestructura de largo plazo detrás de cambios educativos y de política exterior.
+Conviene distinguirla de [[Carnegie Endowment]]. En TL, la Fundación Carnegie funciona mejor como nodo histórico de matriz filantrópica y reingeniería educativa, mientras que Carnegie Endowment sirve más para policy internacional y aparato experto contemporáneo.
 
 ## Conexiones
 
 - [[Fundacion Rockefeller]]
+- [[Carnegie Endowment]]
 - [[Reece Committee]]
 - [[Norman Dodd]]
 - [[ONU (Organización de las Naciones Unidas)]]

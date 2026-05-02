@@ -1,22 +1,42 @@
 ---
+titulo: Sirio - El Guia Externo
+tipo: concepto
+fecha: 2026-04-27
+estado: activo
+aliases: ["Sirio: El Guía Externo", "Sirio"]
+tags: [sirio, guia-externo, astro-simbolismo, esoterismo, tl-intel-v3]
+tier_primario: c
+nivel_evidencia: bajo
 publish: true
-created: 2026-02-25T22:08:53.966-03:00
-modified: 2026-04-07T11:15:19.749-03:00
-tags:
-  - externo
-  - gua
-  - sirio
 ---
 
-# Sirio: El Guía Externo
+# Sirio - El Guia Externo
 
-> [!ABSTRACT] Hipótesis Informativa
-> Nodo perteneciente a la Matrix de Simbolismo y Esoterismo TL V.2.
+## BLUF
 
-## Análisis De Tiers
+Sirio funciona como simbolo de guia externa, estrella de orientacion y conocimiento venido de afuera. TL lo trata como motivo cultural, no como causalidad astral.
 
-_En desarrollo..._
+## Que es
 
-## Cui Bono
+Sirio es una estrella real con fuerte presencia en mitologias, calendarios y sistemas esotericos. Su uso simbolico suele mezclar orientacion, iniciacion y origen superior.
 
-_Pendiente de análisis forense._
+## Por que importa en TL
+
+- conecta astronomia cultural, iniciacion y legitimacion por origen externo;
+- ayuda a leer relatos donde la autoridad viene de una fuente no terrestre o superior;
+- obliga a separar astro real, mito y claim operativo.
+
+## Lectura TL
+
+La figura del guia externo aparece cuando una comunidad necesita legitimar una doctrina como algo recibido, no fabricado. Eso puede dar autoridad y reducir debate.
+
+## Conexiones
+
+- [[Sincro-Destino Cosmico]]
+- [[Narrativas del Apocalipsis]]
+- [[Vortices Energeticos]]
+- [[00_MOC - Simbolismo y Esoterismo]]
+
+## Nivel de evidencia
+
+Bajo para claims causales. Medio como simbolo historico-cultural.

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:13.574-03:00
-modified: 2026-04-18T10:53:24.124-03:00
+modified: 2026-04-29T13:34:51.822-03:00
 tags:
   - feminismo
   - inteligencia
@@ -21,7 +21,7 @@ tags:
 
 - conecta movimiento social, fundaciones, inteligencia y reconfiguración de familia, trabajo y educación;
 - ayuda a leer la diferencia entre demanda social genuina y conducción estratégica de sus carriles institucionales;
-- funciona como nodo de cruce entre [[CIA / Operación Mockingbird]], [[Fundacion Rockefeller]] y teoría crítica cultural.
+- funciona como nodo de cruce entre [[CIA - Operación Mockingbird]], [[Fundacion Rockefeller]] y teoría crítica cultural.
 
 ## Que cambio
 
@@ -43,11 +43,11 @@ Su valor analítico aumenta al observar cómo figuras, revistas, universidades y
 
 ### 4. Nodo cultural del corredor filantrópico
 
-Leído junto con [[Fundacion Rockefeller]], [[CIA / Operación Mockingbird]] y [[Escuela de Frankfurt]], este nodo ayuda a pensar la articulación entre cultura, narrativa y gobernanza social.
+Leído junto con [[Fundacion Rockefeller]], [[CIA - Operación Mockingbird]] y [[Escuela de Frankfurt]], este nodo ayuda a pensar la articulación entre cultura, narrativa y gobernanza social.
 
 ## Conexiones
 
-- [[CIA / Operación Mockingbird]]
+- [[CIA - Operación Mockingbird]]
 - [[Fundacion Rockefeller]]
 - [[Escuela de Frankfurt]]
 - [[Planned Parenthood]]

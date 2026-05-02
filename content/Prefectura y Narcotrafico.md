@@ -1,18 +1,18 @@
 ---
 publish: true
 created: 2026-01-29T19:17:31.230-03:00
-modified: 2026-04-21T13:06:38.731-03:00
+modified: 2026-04-29T14:44:31.436-03:00
 tags:
-  - "#hidrova"
-  - "#narcotrfico"
-  - "#peaje"
-  - "#prefectura"
+  - hidrova
+  - narcotrfico
+  - peaje
+  - prefectura
 ---
 
 # Prefectura Y Narcotráfico: El Peaje De La Hidrovía
 
 > [!ABSTRACT] Hipótesis Informativa
-> La Prefectura Naval Argentina (PNA) actúa como el **operador de [[Tier B]]** encargado de gestionar y "peajear" el flujo logístico del narcotráfico en la **[[Hidrovía Paraná]]**. Lejos de ser una falla de vigilancia, la porosidad del río es un diseño sistémico: la PNA garantiza la seguridad de las rutas de tránsito para la cocaína que desciende desde Bolivia y Paraguay hacia los puertos exportadores de Rosario y Buenos Aires. En la Matrix del narcotráfico de Estado, la Prefectura no combate el tráfico, sino que administra quién puede operar y a qué costo, asegurando que la caja negra de la política se mantenga financiada.
+> La Prefectura Naval Argentina (PNA) actúa como el **operador de [[Tier B]]** encargado de gestionar y "peajear" el flujo logístico del narcotráfico en la **[[Hidrovia Parana]]**. Lejos de ser una falla de vigilancia, la porosidad del río es un diseño sistémico: la PNA garantiza la seguridad de las rutas de tránsito para la cocaína que desciende desde Bolivia y Paraguay hacia los puertos exportadores de Rosario y Buenos Aires. En la Matrix del narcotráfico de Estado, la Prefectura no combate el tráfico, sino que administra quién puede operar y a qué costo, asegurando que la caja negra de la política se mantenga financiada.
 
 ## Análisis De Tiers
 
@@ -31,7 +31,7 @@ tags:
 
 ## Conexiones Críticas
 
-- [[Hidrovía Paraná]]: La infraestructura física del tráfico.
+- [[Hidrovia Parana]]: La infraestructura física del tráfico.
 - [[Narcotráfico]]: El fenómeno macro.
 - [[Rosario]]: El nodo de exportación y violencia.
 - [[Cártel de los Soles|Cartel de los Soles]]: Por la conexión regional de flujos de droga.

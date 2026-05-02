@@ -4,7 +4,7 @@ aliases:
   - Internet of Bio-Nano Things (IoBNT)
   - IoBNT
 created: 2026-01-29T19:17:18.665-03:00
-modified: 2026-04-17T16:37:36.636-03:00
+modified: 2026-04-22T16:58:31.060-03:00
 tags:
   - iobnt
   - nano
@@ -47,6 +47,14 @@ El salto crítico no es solo sensar. Es imaginar redes que también modulan, lib
 
 Leído junto con [[Internet de los Cuerpos]], [[Precision Medicine]] y [[Genetic Tagging]], este nodo representa el borde más invasivo del corredor bio-digital.
 
+### 5. Del sensor interno a la gobernanza molecular
+
+Su importancia crece cuando la lectura del cuerpo ya no depende de dispositivos visibles o esporádicos, sino de capas integradas que vuelven molecularmente legible el organismo.
+
+### 6. Ultimo tramo del corredor de intervencion
+
+Leido junto con [[Neuralink]] e [[Internet de los Cuerpos]], este nodo deja de parecer futurismo aislado y pasa a verse como extremo lógico de una misma secuencia: medir, perfilar, retroalimentar e intervenir cada vez más adentro del cuerpo.
+
 ## Conexiones
 
 - [[Internet de los Cuerpos]]
@@ -55,3 +63,6 @@ Leído junto con [[Internet de los Cuerpos]], [[Precision Medicine]] y [[Genetic
 - [[Grafeno y Nanotecnologia]]
 - [[Biologia Sintetica]]
 - [[Tecnocracia]]
+- [[Neuralink]]
+- [[00_MOC - Transhumanismo y Convergencia Bio-Digital]]
+- [[00_MOC - Tecnologia de Control]]

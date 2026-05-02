@@ -1,136 +1,68 @@
 ---
-titulo: USAID (United States Agency for International Development)
-tipo: "concepto"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [development, ecohealth, peter, states]
 publish: true
+aliases:
+  - United States Agency for International Development
+created: 2026-01-29T19:17:42.603-03:00
+modified: 2026-04-24T10:45:49.644-03:00
+tags:
+  - usaid
+  - soft-power
+  - cambio-de-regimen
+  - desarrollo
+  - geopolitica
+  - tl-intel-v3
 ---
 
-# USAID (United States Agency for International Development)
+# USAID
 
-## Resumen General
+> [!abstract] PERFIL TL-INTEL
+> [[USAID]] importa en TL como herramienta de proyeccion exterior bajo lenguaje de desarrollo, ayuda y fortalecimiento institucional. Su interes no esta solo en programas humanitarios, sino en como puede funcionar como interfaz entre politica exterior, sociedad civil financiada, salud global y capacidad de influencia indirecta.
 
-USAID es oficialmente la "agencia de desarrollo internacional" de EEUU que provee "asistencia humanitaria y de desarrollo" mundialmente. En realidad, funciona como **cobertura para operaciones de inteligencia de la CIA**, particularmente en operaciones de cambio de rgimen, control poblacional, y targeting de disidentes.
+## Que es
 
-Al igual que NED, USAID permite a la CIA operar con apariencia de ayuda humanitaria en lugar de intervencin encubierta.
+USAID es la agencia de desarrollo internacional de Estados Unidos. En TL interesa menos por su narrativa oficial de asistencia y mas por su uso como infraestructura de penetracion institucional, financiamiento de actores locales y extension del [[Soft Power]] estadounidense en zonas politicamente sensibles.
 
-## Propsito Real vs. Official
+## Por que importa en TL
 
-### Narrativa Official
+- conecta desarrollo, gobernanza, salud y politica exterior bajo un mismo paraguas operativo;
+- ayuda a leer como el financiamiento blando puede reconfigurar elites, ONGs, medios y prioridades estatales;
+- sirve como nodo puente entre diplomacia visible, redes de influencia y cambio de regimen de baja intensidad.
 
-Desarrollo internacional, ayuda humanitaria, salud global, agricultura, democracia.
+## Mecanismos de poder
 
-### Funciones Reales
+### 1. Desarrollo como vector de alineamiento
 
-1. **Cobertura para operaciones CIA**
-2. **Control y reduccin poblacional** (esterilizaciones forzadas)
-3. **Targeting de disidentes** (ej: red social falsa en Cuba)
-4. **Preparacin para cambio de rgimen** (financiar "sociedad civil")
-5. **Control de sistemas de salud nacionales**
+USAID importa porque permite entrar en sistemas politicos ajenos bajo un vocabulario moralmente legitimado: ayuda, fortalecimiento democratico, modernizacion administrativa o asistencia sanitaria.
 
-## Actividades Principales
+### 2. Financiamiento de sociedad civil util
 
-### Financiamiento De EcoHealth Alliance
+Su valor analitico crece cuando se observa que quien financia capacitacion, ONGs, medios o programas locales tambien condiciona agenda, lenguaje y actores emergentes.
 
-En 2021, Daily Mail report que USAID financi **EcoHealth Alliance** de Peter Daszak con **\64.7 millones**.
+### 3. Negacion plausible
 
-EcoHealth Alliance est implicado en investigacin de gain-of-function en Wuhan y orgenes de COVID-19, sugiriendo que USAID financia investigacin de armas biolgicas disfrazada como "salud global".
+En TL, el nodo sirve para leer una capa intermedia entre politica exterior abierta y operaciones mas opacas. No todo programa implica inteligencia, pero la estructura permite proximidad funcional entre influencia civil, seguridad y objetivos geoestrategicos.
 
-### Control Y Reduccin Poblacional
+### 4. Interfaz sanitaria y de gobernanza
 
-USAID juega un **rol masivo en proyectos estratgicos de control poblacional** y campaas de esterilizacin forzada.
+Leida junto con [[EcoHealth Alliance]] y corredores de salud global, USAID tambien ayuda a ver como la cooperacion tecnica puede superponerse con vigilancia, bioseguridad o administracion indirecta de sistemas publicos.
 
-#### Campaa De Esterilizacin En Per (1993-1998)
+## Que cambio
 
-- USAID efectivamente **tom control del sistema nacional de salud de Per** de 1993 a 1998
-- Estuvieron involucrados en programa que result en **esterilizacin forzada de aproximadamente 300,000 mujeres indgenas**
-- A pesar del escndalo, USAID **no par de financiar esterilizaciones en Per hasta 1998**
+La nota venia en formato legacy, demasiado cerrada y con problemas de tono y encoding. Se recompila como nodo modular para separar mejor funcion estructural, usos geopoliticos y conexiones con poder blando, ONGs y capas mas opacas del aparato estadounidense.
 
-USAID cre una **red global de grupos para promover esterilizacin masiva y aborto globalmente**. Varios de sus beneficiarios ms grandes trabajan en este campo.
+## Como leerlo en TL
 
-### Targeting De Disidentes
+- junto con [[NED]] para distinguir financiamiento de sociedad civil y arquitectura de influencia blanda;
+- junto con [[CIA]] para ubicar el borde entre ayuda formal, proyeccion politica y negacion plausible;
+- junto con [[Revolucion del color]] para ver como la construccion de actores y narrativas puede preceder episodios de cambio de regimen.
 
-#### Red Social Falsa En Cuba (2008)
+## Con que conecta
 
-En 2008, el Departamento de Estado va USAID estableci una **red social falsa en Cuba**. Supuestamente preocupada con salud pblica y civismo, sus operativos **activamente targeteaban disidentes probables**.
-
-El sitio vino completo con hashtags, anuncios dummy y una **base de datos de "tendencias polticas" de usuarios**.
-
-### Operaciones De Cambio De Rgimen
-
-#### Panama Papers (2016)
-
-Wikileaks identific los Panama Papers leak como un **"ataque contra Putin"** y que **"fue producido por OCCRP que targetea Rusia y ex-USSR y fue financiado por USAID y Soros"**.
-
-Esto revela coordinacin entre USAID, Soros y medios para operaciones de informacin contra adversarios geopolticos.
-
-## Reportando a La CIA
-
-Histricamente, USAID ha reportado directamente a la CIA, con personal de CIA operando bajo cobertura de USAID en mltiples pases.
-
-## Conexiones Con Deep State
-
-### [[CIA]]
-
-- Cobertura official para operaciones CIA
-- Personal CIA opera bajo identidad USAID
-
-### [[Peter Daszak]] / [[EcoHealth Alliance]]
-
-- Financiamiento masivo (\64.7M) para investigacin de gain-of-function
-
-### [[George Soros]]
-
-- Coordinacin en operaciones (ej: Panama Papers)
-
-### [[NED]]
-
-- Funcin similar: fachada "humanitaria" para cambio de rgimen
-
-## Puntos Clave Para Video
-
-### 1. De Per a Cuba: Esterilizacin Y Vigilancia Disfrazadas Como "Ayuda"
-
-300,000 mujeres indgenas esterilizadas forzadamente en Per mientras USAID controlaba el sistema de salud. Redes sociales falsas en Cuba para targetear disidentes. Esto NO es ayuda humanitaria.
-
-### 2. \64.7 Millones Para EcoHealth: Ayuda O Armas Biolgicas?
-
-El financiamiento masivo a EcoHealth Alliance (implicado en orgenes COVID y gain-of-function en Wuhan) sugiere que USAID financia investigacin de armas biolgicas bajo pretexto de "salud global".
-
-### 3. Reduccin Poblacional Como Poltica Official
-
-USAID cre red global para promover esterilizacin masiva y aborto. Esta no es teora conspirativa: tienen presupuestos, programas y vctimas documentadas.
-
-## ngulos Posibles Para Video
-
-1. **"USAID: Ayuda Humanitaria o Caballo de Troya de la CIA":** Desglose completo de cmo USAID funciona como cobertura para inteligencia.
-
-2. **"300,000 Mujeres Esterilizadas: El Genocidio de USAID en Per":** Caso de estudio detallado de la campaa de esterilizacin forzada.
-
-3. **"De EcoHealth a Wuhan: El Rol de USAID en la Pandemia":** Conectar financiamiento USAID?EcoHealth?Wuhan?COVID-19.
-
-4. **"USAID y Soros: Socios en Cambio de Rgimen":** Mapear coordinacin en operaciones como Panama Papers.
-
-## Sources
-
-- Wikispooks - USAID: <https://wikispooks.com/wiki/USAID>
-- Daily Mail (2021) - Financiamiento a EcoHealth Alliance
-- Investigaciones sobre esterilizacin forzada en Per
-- Wikileaks sobre Panama Papers
-- Reportes sobre red social falsa en Cuba
-
-## Ver Tambin
-
-- [[CIA]]
+- [[Soft Power]]
 - [[NED]]
-- [[George Soros]]
-- [[Peter Daszak]]
+- [[CIA]]
 - [[EcoHealth Alliance]]
-- [[Revolución del color]]
-- [[COVID-19]]
-- [[Control poblacional]]
-- [[Esterilizacin forzada]]
-- [[Deep State]]
+- [[George Soros]]
+- [[Revolucion del color]]
+- [[00_MOC - Redes de Poder]]
+- [[00_MOC - Operaciones Encubiertas]]

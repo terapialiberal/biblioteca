@@ -1,53 +1,74 @@
 ---
 publish: true
+aliases:
+  - The Great Taking (La Gran Toma)
+  - The Great Taking (David Webb)
+  - El Gran Despojo
 created: 2026-01-29T19:17:39.608-03:00
-modified: 2026-04-07T10:52:44.889-03:00
+modified: 2026-04-24T09:50:45.877-03:00
 tags:
-  - great
-  - taking
+  - great-taking
   - ucc
-  - propiedad
-  - bail-in
-  - dtcc
-  - cede
+  - propiedad-beneficiaria
+  - colateral
   - derivados
+  - tl-intel-v3
 ---
 
-# The Great Taking — El Gran Despojo
+# The Great Taking
 
-> [!ABSTRACT] Hipótesis Informativa
-> **The Great Taking** es la denuncia técnica de David Webb (ex-financiero) de cómo el Tier A modificó silenciosamente el **Uniform Commercial Code (UCC)** de EE.UU. y legislaciones equivalentes en la UE y UK para que los inversores dejen de ser dueños legales de sus acciones y bonos. El inversor ya no "posee" el activo: posee un **"security entitlement"** (derecho de crédito) contra un intermediario que, a su vez, ha pignorado ese activo como colateral. En caso de colapso sistémico, los derivados tienen prioridad legal absoluta. El Tier C pierde su patrimonio para recapitalizar al Tier A.
+## BLUF
 
-## El Mecanismo Del Despojo
+[[The Great Taking]] importa en TL como marco interpretativo para leer la vulnerabilidad jurídica de la propiedad financiera desmaterializada. Su fuerza no está en afirmar un desenlace inevitable, sino en mostrar cómo custodia, prioridad contractual y colateral pueden subordinar al titular económico final.
 
-**El Truco Legal:** Las acciones están "agrupadas" (pooled) en la cuenta del bróker. Tus acciones no son tuyas: son parte de la masa concursal del bróker si este quiebra. El tenedor real de todas las acciones en EEUU es **[[Cede & Co.]]** (subsidiaria del [[DTCC]]). Usted es un acreedor no garantizado.
+## Qué es
 
-**Acreedores Privilegiados ("Super Priority"):** En caso de reset sistémico, los derivados tienen prioridad legal absoluta sobre los activos de los clientes. Los bancos G-SIBs capturan el colateral (ahorros, acciones) para cubrir sus posiciones en derivados antes de que el Tier C vea un centavo.
+[[The Great Taking]] es una hipótesis fuerte sobre el sistema financiero contemporáneo: en una crisis severa, buena parte de los activos que el ahorrista cree poseer podrían quedar jurídicamente subordinados a acreedores superiores, contrapartes privilegiadas y necesidades de estabilización del núcleo sistémico.
 
-**Armonización Legal Global:** Este cambio no ocurrió solo en EE.UU. Fue coordinado a través del **[[BIS]]** y el **[[FMI]]** para que todo el Tier C global quedara legalmente desprotegido al mismo tiempo. Es la implementación jurídica del "No tendrás nada y serás feliz".
+En TL importa menos como profecía cerrada y más como lente para estudiar la arquitectura real de custodia, clearing y prioridad legal.
 
-**Seguridad Inexistente:** Los esquemas de protección (SIPC, FDIC) no tienen fondos suficientes para cubrir un colapso sistémico real.
+## Por que importa en TL
 
-## Análisis De Tiers
+- conecta ownership beneficiario, clearing, derivados y prioridad legal;
+- ayuda a leer por qué el riesgo sistémico no es solo pérdida de precio, sino posible reasignación jurídica de activos;
+- funciona como paraguas conceptual del corredor [[DTCC]] / [[Cede & Co]] / [[ISDA]].
 
-### Tier A (Beneficiarios)
+## Que cambio
 
-- **Bancos G-SIBs ("Demasiado Grandes para Quebrar"):** En caso de colapso, tienen "Super Priority" legal sobre los activos de sus clientes para recapitalizarse. El colateral de los ahorristas es su red de seguridad.
-- **[[DTCC]] / [[Cede & Co.]]:** La entidad central que realmente posee todas las acciones. El Tier C tiene un "derecho" sobre esa entidad, no sobre el activo subyacente.
+La nota ya existía, pero seguía demasiado atada a una formulación denunciatoria. Se recompila como concepto reusable para conservar la hipótesis fuerte sin convertirla en certeza cerrada.
 
-### Tier B (Operadores)
+## Lectura TL
 
-- **Bancos Centrales / [[BIS]]:** Coordinaron la armonización legal global para que el sistema de derivados esté respaldado por toda la riqueza privada del mundo.
-- **Legisladores:** Aprobaron estas leyes técnicas sin leerlas, lobbystas mediante.
+### 1. La propiedad financiera moderna es indirecta
 
-### Tier C (Víctimas)
+El nodo importa porque obliga a distinguir entre exposición económica y titularidad legal efectiva. Sin esa distinción, buena parte del riesgo de custodia queda invisible.
 
-- **Inversores individuales:** Creen que "tienen" acciones. Legalmente, tienen un crédito contra un intermediario. En un colapso, son los últimos en cobrar.
+### 2. El colateral manda en escenarios de stress
 
-## Conexiones
+Leido junto con [[ISDA]], la hipótesis gana fuerza: cuando el sistema entra en tensión, la prioridad del colateral y de ciertas acreencias puede imponerse sobre la expectativa intuitiva del pequeño propietario.
 
-- [[Gran Reinicio]] (The Great Reset) — implementación ideológica complementaria
-- [[BlackRock]] — mayor gestor de activos sobre los que el Tier C cree tener propiedad
-- [[Crisis Financiera 2008]] — el ensayo del mecanismo
-- [[BIS]] — coordinador de la armonización legal global
-- [[DTCC]] — el custodio real de toda la riqueza bursátil
+### 3. Custodia centralizada, fragilidad distribuida
+
+Leido junto con [[DTCC]] y [[Cede & Co]], el problema deja de ser abstracto. La concentración registral y la desmaterialización crean eficiencia para el sistema, pero también una cadena más larga entre el activo y su dueño económico.
+
+### 4. No prueba total, si alerta estructural
+
+En TL, la lectura útil no exige aceptar cada detalle del escenario máximo. Basta con reconocer que el diseño jurídico-financiero actual favorece la protección del núcleo sistémico antes que la del tenedor final.
+
+## Cómo leerlo en TL
+
+- no como evento confirmado de antemano, sino como escenario de stress jurídicamente plausible;
+- junto con [[Beneficial Ownership]] y [[Uniform Commercial Code]], para evitar que quede solo como denuncia macro;
+- como síntesis de un problema más amplio: propiedad indirecta, contratos privados fuertes y custodia hipercentralizada.
+
+## Con que conecta
+
+- [[DTCC]]
+- [[Cede & Co]]
+- [[Beneficial Ownership]]
+- [[Uniform Commercial Code]]
+- [[ISDA]]
+- [[BIS]]
+- [[FMI (Fondo Monetario Internacional)]]
+- [[Crisis Financiera 2008]]
+- [[00_MOC - Control Financiero]]

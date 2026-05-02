@@ -3,7 +3,7 @@ publish: true
 aliases:
   - General Education Board (Rockefeller)
 created: 2026-01-29T19:17:14.925-03:00
-modified: 2026-04-18T10:51:20.428-03:00
+modified: 2026-04-18T10:51:13.139-03:00
 tags:
   - general-education-board
   - educacion

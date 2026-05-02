@@ -1,15 +1,12 @@
 ---
+titulo: Brookings Institution
+tipo: alias
+fecha: 2026-04-18
+estado: activo
+reemplazado_por: "[[Institucion Brookings]]"
+aliases: ["Institucion Brookings", "Institución Brookings"]
+tags: [alias, brookings, think-tank, tl-intel-v3]
 publish: true
-aliases:
-  - Institucion Brookings
-  - Institución Brookings
-created: 2026-01-29T19:17:06.011-03:00
-modified: 2026-04-18T11:05:09.271-03:00
-tags:
-  - alias
-  - brookings
-  - think-tank
-  - tl-intel-v3
 ---
 
 # Brookings Institution

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:08.640-03:00
-modified: 2026-04-19T12:56:50.100-03:00
+modified: 2026-04-19T12:56:41.531-03:00
 tags:
   - tia
   - total-information-awareness

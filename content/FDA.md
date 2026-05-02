@@ -4,15 +4,15 @@ aliases:
   - Food and Drug Administration
   - U.S. Food and Drug Administration
 created: 2026-04-21T13:29:26.836-03:00
-modified: 2026-04-21T13:29:28.260-03:00
+modified: 2026-04-22T17:00:23.379-03:00
 tags:
-  - "#fda"
-  - "#regulacion"
-  - "#salud"
-  - "#bioseguridad"
-  - "#big-pharma"
-  - "#captura-regulatoria"
-  - "#tl-intel-v3"
+  - fda
+  - regulacion
+  - salud
+  - bioseguridad
+  - big-pharma
+  - captura-regulatoria
+  - tl-intel-v3
 ---
 
 # FDA
@@ -45,6 +45,18 @@ En TL, su relevancia crece cuando se observa la presión combinada de lobby, use
 
 También sirve para leer cómo crisis, campañas de salud, aprobaciones aceleradas y marcos de bioseguridad se ordenan a través de organismos que combinan función estatal y vulnerabilidad a captura.
 
+### 4. Institucion-bisagra del corredor pharma
+
+La nota gana fuerza cuando se la usa como centro institucional del cluster. Leida junto con [[Pfizer]], [[Scott Gottlieb]] y [[La Puerta Giratoria de la FDA]], la agencia deja de ser solo regulador y pasa a aparecer como bisagra entre legitimación técnica, urgencia política e interés corporativo.
+
+### 5. Regulacion como interfaz con el regimen sanitario
+
+Leída junto con [[CDC]], [[EMA]], [[World Health Organization]] y [[Tratado de Pandemias OMS]], la FDA también puede verse como interfaz entre captura regulatoria doméstica y una arquitectura sanitaria más amplia de legitimación y coordinación.
+
+### 6. Del sello tecnico al cierre politico
+
+Leida junto con [[Safe and Effective]], la agencia gana otra capa: no solo autoriza o regula, también provee el respaldo simbolico para que una narrativa sanitaria pueda presentarse como tecnicamente cerrada frente a la poblacion.
+
 ## Con que conecta
 
 - [[Big Pharma]]
@@ -53,4 +65,10 @@ También sirve para leer cómo crisis, campañas de salud, aprobaciones acelerad
 - [[La Puerta Giratoria de la FDA]]
 - [[Scott Gottlieb]]
 - [[Pfizer]]
+- [[CDC]]
+- [[EMA]]
+- [[World Health Organization]]
+- [[Tratado de Pandemias OMS]]
+- [[00_MOC - Salud Global y Bioseguridad]]
 - [[00_MOC - Captura Regulatoria y Puertas Giratorias]]
+- [[Safe and Effective]]

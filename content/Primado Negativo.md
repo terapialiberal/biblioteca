@@ -3,14 +3,14 @@ publish: true
 aliases:
   - "Primado Negativo: La Vacuna contra La Verdad"
 created: 2026-01-29T19:17:31.292-03:00
-modified: 2026-04-21T13:16:49.740-03:00
+modified: 2026-04-21T13:17:01.518-03:00
 tags:
-  - "#primado-negativo"
-  - "#inoculacion-cognitiva"
-  - "#ridiculizacion"
-  - "#percepcion"
-  - "#propaganda"
-  - "#tl-intel-v3"
+  - primado-negativo
+  - inoculacion-cognitiva
+  - ridiculizacion
+  - percepcion
+  - propaganda
+  - tl-intel-v3
 ---
 
 # Primado Negativo

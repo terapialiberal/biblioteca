@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2026-01-29T19:17:08.041-03:00
-modified: 2026-04-21T12:10:53.608-03:00
+modified: 2026-04-22T11:28:48.874-03:00
 tags:
-  - "#club-safari"
-  - "#inteligencia"
-  - "#cia"
-  - "#outsourcing"
-  - "#guerra-fria"
-  - "#tl-intel-v3"
+  - club-safari
+  - inteligencia
+  - cia
+  - outsourcing
+  - guerra-fria
+  - tl-intel-v3
 ---
 
 # Club Safari
@@ -49,6 +49,10 @@ Club Safari sirve para entender la transición desde operaciones clásicas de la
 
 Leído junto con [[Comite Church]], [[CIA]] y [[Operacion Gladio]], el nodo ayuda a entender cómo un sistema bajo presión institucional puede reubicarse sin abandonar capacidades.
 
+### 5. Post-Church no implica desarme
+
+Su valor aumenta cuando se lo piensa como respuesta adaptativa al clima posterior al [[Comite Church]]. Ahí Club Safari deja de ser solo curiosidad histórica y pasa a leerse como mecanismo de continuidad del aparato encubierto bajo otros carriles.
+
 ## Con que conecta
 
 - [[CIA]]
@@ -57,3 +61,4 @@ Leído junto con [[Comite Church]], [[CIA]] y [[Operacion Gladio]], el nodo ayud
 - [[Operacion Gladio]]
 - [[George H. W. Bush]]
 - [[Adnan Khashoggi]]
+- [[PROMIS Software]]

@@ -1,21 +1,43 @@
 ---
+titulo: El Heroe de las Mil Caras
+tipo: concepto
+fecha: 2026-04-27
+estado: activo
+aliases: ["El Héroe De Las Mil Caras", "Heroe de las mil caras"]
+tags: [heroe-mil-caras, joseph-campbell, mito, narrativa, tl-intel-v3]
+tier_primario: c
+nivel_evidencia: medio
 publish: true
-created: 2026-02-25T22:08:52.295-03:00
-modified: 2026-04-07T11:14:44.953-03:00
-tags:
-  - caras
-  - hroe
 ---
 
-# El Héroe De Las Mil Caras
+# El Heroe de las Mil Caras
 
-> [!ABSTRACT] Hipótesis Informativa
-> Nodo perteneciente a la Matrix de Simbolismo y Esoterismo TL V.3.
+## BLUF
 
-## Análisis De Tiers
+El Heroe de las Mil Caras sirve en TL como mapa de la narrativa heroica: llamada, prueba, descenso, transformacion y retorno legitimador.
 
-_En desarrollo..._
+## Que es
 
-## Cui Bono
+El concepto remite al monomito popularizado por Joseph Campbell. Su utilidad no es probar que todos los relatos sean iguales, sino identificar estructuras narrativas recurrentes.
 
-_Pendiente de análisis forense._
+## Por que importa en TL
+
+- ayuda a leer propaganda politica como relato de salvador;
+- conecta mito, marketing, liderazgo y movilizacion emocional;
+- permite detectar cuando una figura publica es empaquetada como destino.
+
+## Lectura TL
+
+El heroe es una tecnologia narrativa. Cuando una estructura compleja se reduce a un individuo salvador, el publico deja de analizar mecanismos y empieza a esperar redencion.
+
+## Conexiones
+
+- [[Morfologia de los Mitos Modernos]]
+- [[Propaganda]]
+- [[Narrativas del Apocalipsis]]
+- [[Psicologia de Masas]]
+- [[00_MOC - Medios y Legitimacion]]
+
+## Nivel de evidencia
+
+Medio como herramienta narrativa. Bajo si se usa como formula universal rigida.

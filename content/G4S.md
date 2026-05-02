@@ -35,7 +35,7 @@ publish: true
 
 ## Conexiones Clave
 
-- [[BlackRock / Vanguard]] (Sus dueños financieros)
+- [[BlackRock - Vanguard - State Street]] (Sus dueños financieros)
 - [[Agenda 2030 / Smart Cities]] (Su nicho de mercado futuro)
 - [[Complejo Industrial-Penal]] (Su modelo de negocio)
 - [[Inmigración / Centros de Detención]] (Su fuente de ingresos en fronteras)

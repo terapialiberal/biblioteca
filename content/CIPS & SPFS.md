@@ -1,33 +1,59 @@
 ---
-titulo: CIPS & SPFS
-tipo: "entidad"
-fecha: 2026-03-04
-tier_primario: "b"
-nivel_evidencia: "alto"
-estado: activo
-tags: [china, rusia, swift, finanzas, brics, cips, spfs]
 publish: true
+created: 2026-01-29T19:17:07.740-03:00
+modified: 2026-04-22T10:08:49.572-03:00
+tags:
+  - cips
+  - spfs
+  - swift
+  - rails
+  - desdolarizacion
+  - tl-intel-v3
 ---
 
-# CIPS & SPFS: Los Rieles del Orden Financiero Multipolar (V.3)
+# CIPS & SPFS
 
-> [!IMPORTANT] BLUF
-> CIPS (China) y SPFS (Rusia) son las alternativas soberanas al sistema SWIFT. Tras el magnicidio de [[Ali Khamenei]] en 2026, estos sistemas han fusionado sus protocolos para asegurar la supervivencia financiera del Rimland.
+## BLUF
 
-## 🏮 CIPS (Cross-Border Interbank Payment System - China)
+[[CIPS & SPFS]] importa en TL como nota puente entre las dos principales respuestas no occidentales a la centralidad de [[SWIFT]]. Su valor no está en probar una “fusión multipolar completa”, sino en mostrar cómo China y Rusia desarrollan rails distintos pero complementarios frente al riesgo de sanción, exclusión y guerra financiera.
 
-- **Función:** Sistema de compensación y liquidación para transacciones internacionales en Renminbi (RMB).
-- **Rol Estratégico:** Permite a China utilizar su propia moneda sin pasar por los bancos corresponsales de Nueva York.
-- **Conexión mBridge:** CIPS sirve como la capa de liquidación mayorista que respalda el flujo minorista y de crudo en [[Proyecto mBridge]].
+## Por que importa en TL
 
-## 🐻 SPFS (System for Transfer of Financial Messages - Rusia)
+- conecta los casos chino y ruso sin confundir sus escalas ni funciones;
+- ayuda a leer la desdolarización como arquitectura material de bypass y no solo como discurso geopolítico;
+- funciona como bisagra entre [[Sistema CIPS]], [[Sistema SPFS]], [[SWIFT]] y [[Desdolarizacion]].
 
-- **Origen:** Creado en 2014 tras la anexión de Crimea y la amenaza de desconexión de SWIFT.
-- **Capacidad 2026:** Ha integrado plenamente a los bancos centrales de Irán, Bielorrusia y Corea del Norte, creando una "Zona Financiera Prohibida" para el Tier B occidental.
+## Que es
 
-## 🗺️ Geopolítica Forense (2026)
+`CIPS & SPFS` nombra el acople analítico entre el rail chino orientado a liquidación transfronteriza en RMB y el rail ruso orientado a supervivencia de mensajería y continuidad operativa bajo sanción.
 
-La interoperabilidad total lograda en 2025 entre CIPS y SPFS significa que el Tier B atlantista ha perdido su arma más potente: la **Sanción Bancaria Total**.
+## Lectura TL
 
-- **Independencia del Dólar:** El 70% del comercio intra-BRICS ya no utiliza el dólar como unidad de cuenta ni el SWIFT como mensajería.
-- **Cui Bono:** Los estados del Rimland capturan la soberanía monetaria; las élites occidentales capturan una inflación importada por la pérdida de demanda de dólares.
+### 1. Misma presión, respuestas distintas
+
+CIPS y SPFS responden al mismo problema de fondo: la vulnerabilidad frente a un sistema financiero internacional cuya infraestructura central puede volverse herramienta de coerción.
+
+### 2. China construye escala; Rusia construye resiliencia
+
+En TL, la diferencia importa. [[Sistema CIPS]] expresa ambición regional y monetaria de largo plazo; [[Sistema SPFS]] expresa defensa operativa frente a una exclusión ya experimentada.
+
+### 3. La guerra de rails es desigual
+
+La nota sirve para evitar lecturas simplistas. No hay simetría plena entre ambos sistemas ni una sustitución inmediata del stack occidental. Lo que sí aparece es una ecología alternativa de carriles que reduce dependencia.
+
+### 4. Bypass parcial, impacto real
+
+Aunque no desplacen al viejo orden, estos rails importan porque vuelven más difícil la sanción bancaria total y más plausible el comercio sensible fuera del dólar y SWIFT.
+
+### 5. El costado material de la desdolarizacion
+
+Leído junto con [[Desdolarizacion]], el nodo ayuda a recordar que la fragmentación monetaria no vive solo en discursos BRICS. Vive en infraestructura concreta: mensajes, settlement, compliance y conectividad financiera.
+
+## Conexiones
+
+- [[Sistema CIPS]]
+- [[Sistema SPFS]]
+- [[SWIFT]]
+- [[Desdolarizacion]]
+- [[Proyecto mBridge]]
+- [[BRICS]]

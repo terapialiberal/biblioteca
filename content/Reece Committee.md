@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Comite Reece
 created: 2026-01-29T19:17:32.867-03:00
-modified: 2026-04-18T10:51:20.489-03:00
+modified: 2026-04-29T14:44:29.772-03:00
 tags:
   - reece-committee
   - fundaciones
@@ -53,4 +53,4 @@ Leído junto con [[Norman Dodd]], [[Fundacion Rockefeller]] y [[Fundacion Carneg
 - [[Fundacion Carnegie]]
 - [[Fundacion Ford]]
 - [[General Education Board]]
-- [[Globalismo / Nuevo Orden Mundial]]
+- [[Globalismo]] / [[Nuevo Orden Mundial]]

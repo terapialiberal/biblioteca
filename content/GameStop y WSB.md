@@ -36,7 +36,7 @@ publish: true
 ## Conexiones Clave
 
 - [[Citadel / Ken Griffin]] (El villano principal del sistema)
-- [[BlackRock / Vanguard]] (Los dueños silenciosos de ambos lados)
+- [[BlackRock - Vanguard - State Street]] (Los dueños silenciosos de ambos lados)
 - [[Keith Gill (Roaring Kitty)]] (El catalizador de Tier C)
 - [[Robinhood Scandal]] (La traición técnica)
 

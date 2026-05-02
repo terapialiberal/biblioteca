@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:43.835-03:00
-modified: 2026-04-19T12:06:44.391-03:00
+modified: 2026-04-19T12:06:38.026-03:00
 tags:
   - lippmann
   - propaganda

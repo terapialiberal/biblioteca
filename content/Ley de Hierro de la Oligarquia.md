@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:22.339-03:00
-modified: 2026-04-07T11:53:42.829-03:00
+modified: 2026-04-07T11:53:46.971-03:00
 tags:
   - oligarquia
   - michels

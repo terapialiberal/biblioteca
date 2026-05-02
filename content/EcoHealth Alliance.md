@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-01-29T19:17:10.808-03:00
-modified: 2026-04-21T11:39:06.929-03:00
+modified: 2026-04-22T15:51:41.319-03:00
 tags:
-  - "#ecohealth-alliance"
-  - "#bioseguridad"
-  - "#ganancia-de-funcion"
-  - "#wuhan"
-  - "#tl-intel-v3"
+  - ecohealth-alliance
+  - bioseguridad
+  - ganancia-de-funcion
+  - wuhan
+  - tl-intel-v3
 ---
 
 # EcoHealth Alliance
@@ -44,6 +44,10 @@ La cuestión no es solo laboratorio. También importa la capacidad de influir so
 
 Leída junto con [[Anthony Fauci]], [[Instituto de Virología de Wuhan]], [[Ganancia de Función]] y [[One Health]], EcoHealth aparece como pieza de enlace entre aparato científico, financiación y gestión del daño reputacional.
 
+### 5. Investigacion externalizada como problema politico
+
+En TL, el nodo rinde más cuando se lo conecta con [[Vigilancia Biologica]] y [[Tratado de Pandemias OMS]]: la cuestión ya no es solo el origen de un episodio, sino cómo investigación sensible, preparación pandémica y gobernanza del riesgo pueden terminar acopladas.
+
 ## Conexiones
 
 - [[Anthony Fauci]]
@@ -54,4 +58,7 @@ Leída junto con [[Anthony Fauci]], [[Instituto de Virología de Wuhan]], [[Gana
 - [[World Health Organization]]
 - [[One Health]]
 - [[Vigilancia Biologica]]
+- [[Tratado de Pandemias OMS]]
+- [[Bioseguridad]]
+- [[00_MOC - Salud Global y Bioseguridad]]
 - [[Tecnocracia]]

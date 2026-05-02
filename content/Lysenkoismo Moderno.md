@@ -3,7 +3,7 @@ publish: true
 aliases:
   - "Lysenkoismo Moderno: El Secuestro De La Realidad Biologica"
 created: 2026-01-29T19:17:23.236-03:00
-modified: 2026-04-18T18:24:50.462-03:00
+modified: 2026-04-18T18:24:43.005-03:00
 tags:
   - lysenkoismo
   - ciencia

@@ -3,7 +3,7 @@ publish: true
 aliases:
   - CELS (Centro de Estudios Legales y Sociales)
 created: 2026-01-29T19:17:07.165-03:00
-modified: 2026-04-18T11:10:36.682-03:00
+modified: 2026-04-18T11:10:30.713-03:00
 tags:
   - argentina
   - ddhh

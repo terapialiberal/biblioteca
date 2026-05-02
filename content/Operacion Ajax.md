@@ -3,14 +3,14 @@ publish: true
 aliases:
   - Operación Ajax
 created: 2026-01-29T19:17:28.337-03:00
-modified: 2026-04-21T12:36:47.700-03:00
+modified: 2026-04-22T12:22:22.492-03:00
 tags:
-  - "#operacion-ajax"
-  - "#golpe-de-estado"
-  - "#iran"
-  - "#cia"
-  - "#mi6"
-  - "#tl-intel-v3"
+  - operacion-ajax
+  - golpe-de-estado
+  - iran
+  - cia
+  - mi6
+  - tl-intel-v3
 ---
 
 # Operacion Ajax
@@ -47,6 +47,10 @@ En TL, este nodo vale por el playbook: presión económica, manipulación polít
 
 También importa porque permite leer la Revolución iraní de 1979 no como hecho aislado, sino como respuesta tardía a una larga secuencia de injerencia y humillación geopolítica.
 
+### 4. Plantilla temprana del cambio de regimen moderno
+
+Leida junto con [[Bahia de Cochinos]] y [[Golpe de Chile 1973]], Ajax gana aún más valor como una de las plantillas tempranas del repertorio moderno: presión, caos administrado, sustitución de liderazgo y restauración de un orden favorable a intereses estratégicos.
+
 ## Con que conecta
 
 - [[Mohammad Mosaddegh]]
@@ -56,3 +60,4 @@ También importa porque permite leer la Revolución iraní de 1979 no como hecho
 - [[Golpe en Iran 1953]]
 - [[Blowback]]
 - [[00_MOC - Operaciones Encubiertas]]
+- [[00_MOC - Inteligencia Clasica y Operaciones Historicas]]

@@ -1,21 +1,19 @@
 ---
 publish: true
+aliases:
+  - La Ventana De Overton
 created: 2026-02-25T22:08:56.062-03:00
-modified: 2026-04-07T11:14:57.970-03:00
+modified: 2026-04-27T10:09:46.518-03:00
 tags:
-  - overton
-  - ventana
+  - alias
+  - legacy
+  - ventana-de-overton
+  - opinion-publica
+  - tl-intel-v3
 ---
 
-# La Ventana De Overton
+# La Ventana de Overton
 
-> [!ABSTRACT] Hipótesis Informativa
-> Nodo perteneciente a la Matrix de Simbolismo y Esoterismo TL V.3.
+Nodo legacy preservado para absorber variantes de naming.
 
-## Análisis De Tiers
-
-_En desarrollo..._
-
-## Cui Bono
-
-_Pendiente de análisis forense._
+Ver [[Ventana de Overton]].

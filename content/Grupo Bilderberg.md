@@ -1,15 +1,13 @@
 ---
+titulo: Grupo Bilderberg
 publish: true
-aliases:
-  - Grupo Bilderberg 2026
-created: 2026-02-25T15:44:06.075-03:00
-modified: 2026-04-18T17:25:03.177-03:00
-tags:
-  - alias
-  - bilderberg
-  - elites
-  - gobernanza
-  - tl-intel-v3
+tipo: alias
+fecha: 2026-04-18
+estado: activo
+reemplazado_por: "[[Bilderberg]]"
+aliases: ["Grupo Bilderberg 2026"]
+fuentes_clave: []
+tags: [alias, bilderberg, elites, gobernanza, tl-intel-v3]
 ---
 
 # Grupo Bilderberg

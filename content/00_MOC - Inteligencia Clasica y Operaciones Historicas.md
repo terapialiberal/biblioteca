@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-04-21T12:10:53.487-03:00
-modified: 2026-04-21T12:10:54.222-03:00
+modified: 2026-04-22T12:23:45.809-03:00
 tags:
-  - "#moc"
-  - "#inteligencia"
-  - "#operaciones-encubiertas"
-  - "#guerra-fria"
-  - "#tl-intel-v3"
+  - moc
+  - inteligencia
+  - operaciones-encubiertas
+  - guerra-fria
+  - tl-intel-v3
 ---
 
 # MOC - Inteligencia Clasica y Operaciones Historicas
@@ -24,22 +24,27 @@ tags:
 
 - [[OSS]]
 - [[CIA]]
+- [[Creacion de la CIA]]
 - [[MI6]]
 - [[William Donovan]]
 - [[Allen Dulles]]
 - [[John Foster Dulles]]
 - [[Hermanos Dulles]]
+- [[Henry Kissinger]]
 
 ## Operaciones y Redes
 
 - [[Operacion Ajax]]
 - [[Operacion Gladio]]
+- [[Operacion Mockingbird]]
 - [[Operacion Paperclip]]
 - [[Operacion Phoenix]]
 - [[Operacion Condor]]
 - [[Club Safari]]
 - [[Air America]]
+- [[CIA Narcotrafico]]
 - [[COINTELPRO]]
+- [[MKUltra]]
 
 ## Comités, Rupturas y Repliegue
 

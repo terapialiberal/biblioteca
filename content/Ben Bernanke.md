@@ -1,45 +1,59 @@
 ---
 publish: true
 titulo: Ben Bernanke
-tipo: "persona"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
+tipo: persona
+fecha: 2026-04-24
+tier_primario: b
+nivel_evidencia: medio
 estado: activo
-tags: [bernanke, reserva, timothy]
+tags: [bernanke, fed, quantitative-easing, crisis-2008, tl-intel-v3]
 ---
 
 # Ben Bernanke
 
-> [!INFO] Perfil Operativo (Tier B)
-> **Resumen:** Presidente de la Fed durante la crisis de 2008. Arquitecto del rescate y QE.
-> **Función Real:** Salvó a Wall Street a costa del contribuyente. Inventó la impresora de dinero moderna.
+> [!abstract] PERFIL TL-INTEL
+> [[Ben Bernanke]] importa en TL como el tecnocrata que convirtio el rescate extraordinario de 2008 en nueva doctrina monetaria. Su lugar no es solo historico: fija el precedente de que una crisis sistemica puede resolverse expandiendo balance, sosteniendo bancos y reordenando riqueza desde arriba.
 
-## Biografía
+## Que es
 
-Ben Bernanke era académico experto en la Gran Depresión antes de set nombrado a la Fed.
+Ben Bernanke fue presidente de la [[Reserva Federal]] entre 2006 y 2014. En TL interesa como administrador intelectual y operativo de la respuesta monetaria a la [[Crisis Financiera 2008]], especialmente por la normalizacion del `quantitative easing`, tasas cercanas a cero y respaldo extraordinario al sistema financiero.
 
-Durante su gestión:
+## Por que importa en TL
 
-- Crisis 2008 y rescate
-- **Quantitative Easing** (QE): imprimir dinero para comprar bonos
-- Tasas de interés en cero
+- conecta academia macroeconomica, banca central y rescate de Wall Street;
+- ayuda a leer como una emergencia financiera se traduce en nueva arquitectura monetaria permanente;
+- sirve para fijar el paso entre crisis bancaria y regimen de inflacion de activos administrado por bancos centrales.
 
-Ganó el Premio Nobel de Economía (2022).
+## Mecanismos de poder
 
-## Criticas
+### 1. Excepcion convertida en doctrina
 
-- Rescató bancos, no ciudadanos
-- QE enriqueció a los ricos (inflacion de activos)
-- No vio venir la crisis
+Bernanke importa porque vuelve estable lo que se presento como respuesta temporal. El rescate deja de ser anomalia y pasa a integrarse al repertorio legitimo del sistema.
 
-## Conexiones
+### 2. Tecnocracia como blindaje
+
+Su peso no proviene de una figura politica clasica sino de la autoridad experta. En TL eso importa porque la expansion monetaria aparece como solucion tecnica neutral aun cuando redefine ganadores, perdedores y concentracion patrimonial.
+
+### 3. Socializacion de perdidas, privatizacion de recuperacion
+
+El nodo ayuda a leer como la preservacion del sistema financiero no necesariamente coincide con la reparacion del tejido social. La liquidez se canaliza primero hacia estabilidad bancaria y precios de activos, no hacia recomposicion simetrica de hogares.
+
+## Que cambio
+
+La nota estaba demasiado atomica y se reducia a ficha biografica con juicios rapidos. Se recompila como nodo vivo del corredor `desregulacion -> crisis 2008 -> QE -> nuevo orden monetario`.
+
+## Como leerlo en TL
+
+- junto con [[Derogacion de Glass-Steagall]], porque Bernanke administra la crisis del sistema ya desregulado;
+- junto con [[Hank Paulson]] y [[Timothy Geithner]], para ver la triada Tesoro-Fed-NY Fed durante el rescate;
+- como precedente estructural de intervencion monetaria extendida, no solo como banquero central de una coyuntura.
+
+## Con que conecta
 
 - [[Reserva Federal]]
-- Academia económica
+- [[Crisis Financiera 2008]]
 - [[Timothy Geithner]]
-
-## Fuentes
-
-- "The Courage to Act" (autobiografía)
-- Críticas de QE
+- [[Hank Paulson]]
+- [[Larry Summers|Larry Summers]]
+- [[00_MOC - Control Financiero]]
+- [[00_MOC - Captura Regulatoria y Puertas Giratorias]]

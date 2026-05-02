@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:31.711-03:00
-modified: 2026-04-19T12:40:29.690-03:00
+modified: 2026-04-22T16:33:06.164-03:00
 tags:
   - project-nimbus
   - israel
@@ -42,6 +42,10 @@ Cuando nube, almacenamiento y herramientas de IA quedan embebidas en gestion ter
 
 Su utilidad en TL es mostrar que el control contemporaneo no depende solo de armas o burocracia clasica. Tambien depende de stacks cloud, contratos empresariales y dependencia tecnica de plataformas privadas.
 
+### 4. Nube para mando y ocupacion
+
+La nota gana más fuerza cuando se la conecta con [[Palantir AIP]], [[Shoshana Zuboff]] y [[00_MOC - Vigilancia Tecnica y SIGINT]]. Ahí Nimbus deja de ser solo contrato cloud y pasa a aparecer como capa de infraestructura para vigilancia, decisión y administración territorial.
+
 ## Con que conecta
 
 - [[Google]]
@@ -50,3 +54,6 @@ Su utilidad en TL es mostrar que el control contemporaneo no depende solo de arm
 - [[Pegasus Spyware]]
 - [[Palantir]]
 - [[Vigilancia Predictiva]]
+- [[Palantir AIP]]
+- [[Shoshana Zuboff]]
+- [[00_MOC - Vigilancia Tecnica y SIGINT]]

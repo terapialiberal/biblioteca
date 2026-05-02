@@ -5,7 +5,7 @@ aliases:
   - BIS - El Banco de Pagos Internacionales
   - Banco de Pagos Internacionales (BIS)
 created: 2026-01-29T19:17:04.747-03:00
-modified: 2026-04-18T15:49:41.350-03:00
+modified: 2026-04-24T10:34:44.476-03:00
 tags:
   - bis
   - bancos-centrales
@@ -41,6 +41,9 @@ Su valor para TL no es fetichizar el secreto sino ubicar el mecanismo: si la sob
 
 - [[Basel III y IV]]
 - [[CBDC]]
+- [[BIS Innovation Hub]]
+- [[Treasuries]]
+- [[Stablecoin Regulation US]]
 - [[Sistema Petrodolar]]
 - [[Reserva Federal]]
 - [[Banco de Inglaterra]]

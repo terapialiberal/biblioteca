@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:15.573-03:00
-modified: 2026-04-17T14:27:23.722-03:00
+modified: 2026-04-22T08:54:34.670-03:00
 tags:
   - gobernanza-algoritmica
   - tecnocracia
@@ -26,6 +26,8 @@ tags:
 
 La zona estaba duplicada entre `Gobernanza Algoritmica` y `Algorithmic Governance`. Se recompiló este nodo como versión canónica para reducir drift doctrinal y taxonómico.
 
+El stream `ORDO AB CHAO! Nada es Accidental. Todo es GESTION DEL CAOS` agrega un delta importante: la gobernanza algorítmica se ve mejor cuando aparece después de una fase de saturación. En contextos de policrisis, volatilidad y fatiga institucional, el algoritmo deja de parecer una intromisión y empieza a venderse como alivio administrativo.
+
 ## Lectura TL
 
 ### 1. Del derecho al output
@@ -44,6 +46,14 @@ En TL, este nodo sirve para entender cómo crédito, movilidad, salud, seguridad
 
 No es un tema separado de la tecnocracia. Es la forma en que la tecnocracia se vuelve operativa.
 
+### 5. Crisis como acelerador de delegacion
+
+En TL, este nodo gana peso cuando guerras, disrupción logística, presión energética o saturación burocrática preparan el terreno para delegar más criterio a sistemas técnicos. La automatización no entra solo por innovación: entra como respuesta aparentemente inevitable al desborde.
+
+### 6. De recomendacion a disciplina
+
+La gobernanza algorítmica no se agota en sugerir acciones. Su potencia real aparece cuando recomendación, scoring, permisos y distribución de recursos empiezan a encadenarse en un mismo flujo. Ahí el algoritmo no solo informa: disciplina.
+
 ## Conexiones
 
 - [[Tecnocracia]]
@@ -51,3 +61,6 @@ No es un tema separado de la tecnocracia. Es la forma en que la tecnocracia se v
 - [[Palantir]]
 - [[Aladdin]]
 - [[In-Q-Tel]]
+- [[Palantir AIP]]
+- [[Policrisis Sistemica]]
+- [[Digital ID - Global Protocol]]

@@ -1,50 +1,56 @@
 ---
-titulo: Cellebrite
-tipo: "concepto"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [cellebrite, surveillance, unidad]
 publish: true
+created: 2026-01-29T19:17:07.150-03:00
+modified: 2026-04-22T16:15:37.712-03:00
+tags:
+  - cellebrite
+  - forense-digital
+  - vigilancia
+  - biometria
+  - dispositivos
+  - tl-intel-v3
 ---
 
 # Cellebrite
 
-## Perfil TL (Resumen Ejecutivo)
+## BLUF
 
-**¿Qué es?** Empresa israelí líder en forense digital y extracción de datos de dispositivos móviles. Su producto estrella, el **UFED**, permite a las fuerzas de seguridad saltarse bloqueos y extraer todo el contenido de casi cualquier smartphone del mercado.
+[[Cellebrite]] importa en TL como proveedor de forense digital orientado a extracción de datos desde dispositivos móviles. Su valor no está solo en romper bloqueos, sino en mostrar cómo la vigilancia técnica desciende desde la red global hasta el cuerpo digital inmediato: el teléfono como archivo portátil de la vida cotidiana.
 
-**¿Por qué importa?** Es el **brazo logístico de la vigilancia masiva global**. Cellebrite es la versión "legal" y masiva de lo que empresas como NSO Group hacen quirúrgicamente. Venden sus herramientas a gobiernos de todo el mundo sin preguntar demasiado por los derechos humanos. Si te detienen en una protesta, en una frontera o simplemente te incautan el teléfono, Cellebrite es el software que vacía tu vida privada (mensajes, fotos, ubicaciones, incluso lo borrado) en un servidor estatal. Es la prueba de que en el siglo XXI, tu teléfono es un testigo en tu contra que el Tier A puede interrogar a voluntad.
+## Por que importa en TL
 
-## Análisis De Poder (Tiers)
+- conecta fuerzas de seguridad, extracción física de datos y debilitamiento práctico de la privacidad personal;
+- ayuda a leer la vigilancia no solo como interceptación remota, sino también como acceso forense sobre dispositivos incautados;
+- funciona como contraparte “legal-operativa” del corredor [[NSO Group]] / [[Pegasus Spyware (NSO Group)]].
 
-### Tier A (El Ecosistema Cyber De Israel)
+## Que es
 
-- **Origen Militar:** Al igual que la mayoría de las empresas de defensa digital de Israel, Cellebrite nace directamente del talento y los algoritmos de la **Unidad 8200** (inteligencia militar). Es una extensión de las capacidades estatales delegada en el sector privado para su comercialización global.
-- **Control de la Información:** Al dominar la tecnología que desbloquea los dispositivos de los ciudadanos del mundo, el Tier A asegura que no existan refugios de privacidad reales frente al escrutinio del sistema.
+Cellebrite es una empresa de forense digital conocida por herramientas de extracción y análisis de datos desde smartphones y otros dispositivos. En TL, importa como pieza del mercado global de acceso técnico a evidencia personal, comunicaciones y trazas conductuales.
 
-### Tier B (Operadores / Fuerzas De Seguridad)
+## Lectura TL
 
-- **Ventas a Dictaduras:** Cellebrite ha sido criticada por vender tecnología a regímenes autoritarios (como en Bielorrusia, China o Venezuela) que la utilizan para perseguir a periodistas y activistas. Para el Tier B de estas naciones, Cellebrite es el "llave maestra" necesaria para sostener el control social.
-- **Obsolescencia Programada de la Seguridad:** Existe una carrera armamentista constante entre Apple/Google y Cellebrite. Cada vez que el fabricante parcha una vulnerabilidad, Cellebrite encuentra otra, demostrando que la seguridad del hardware es solo un obstáculo temporal para el presupuesto estatal.
+### 1. Del dispositivo al expediente
 
-### Tier C (Narrativa Pública)
+Cellebrite importa porque convierte un teléfono en objeto de extracción total: mensajes, contactos, fotos, ubicaciones y otros rastros pueden pasar a ser material consultable por burocracias policiales o de inteligencia.
 
-- "Tecnología para combatir el crimen organizado y la pedofilia". Utilizan los crímenes más atroces como escudo moral para normalizar el hackeo masivo de la población civil.
+### 2. Vaciado fisico de la privacidad
 
-## Conexiones Clave
+En TL, su relevancia crece cuando se observa que la vigilancia no necesita siempre zero-click ni backdoor remoto. A veces alcanza con tener el aparato unos minutos en manos del operador correcto.
 
-- [[NSO Group]] (Su contraparte de hackeo remoto / Pegasus)
-- [[Unidad 8200 (Israel)]] (La matriz de inteligencia)
-- [[Surveillance Capitalism]] (El marco donde operan)
+### 3. Forense como rutina de gobierno
 
-## Fuentes
+La nota gana peso cuando se la conecta con fronteras, detenciones, protestas y procesos judiciales. Ahí el forense digital aparece menos como excepción técnica y más como rutina de acceso al archivo íntimo de una persona.
 
-- Investigaciones de Citizen Lab sobre el uso de UFED en conflictos sociales.
-- Reportes de transparencia de Cellebrite ante la SEC (salida a bolsa).
-- Edward Snowden: Comentarios sobre la imposibilidad de la privacidad física ante herramientas forenses.
+### 4. Satelite operativo del stack de vigilancia
 
-## Por Qué Importa (Estilo Nico)
+Leída junto con [[NSO Group]], [[Clearview AI]] y [[Panoptico Digital]], Cellebrite funciona como una capa táctica de identificación y extracción dentro del mismo régimen de observación.
 
-> "Cellebrite es el cerrajero de tu vida digital, y trabaja para el que te quiere meter preso. Pensás que tu iPhone es seguro porque tenés una contraseña de 6 dígitos, pero Cellebrite lo abre en cinco minutos y le entrega tus fotos al Estado en una bandeja de plata. Son los mercenarios del algoritmo: no les importa si sos un terrorista o un pibe que tuiteó algo que no debía, ellos solo venden la llave. En el mundo de Cellebrite, tu derecho a la privacidad no existe; solo existe el tiempo que ellos tardan en hackearte."
+## Conexiones
+
+- [[NSO Group]]
+- [[Pegasus Spyware (NSO Group)]]
+- [[Clearview AI]]
+- [[Unidad 8200]]
+- [[Panoptico Digital]]
+- [[Vigilancia Masiva]]
+- [[00_MOC - Tecnologia de Control]]

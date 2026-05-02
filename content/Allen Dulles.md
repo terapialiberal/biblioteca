@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:03.363-03:00
-modified: 2026-04-19T13:22:59.275-03:00
+modified: 2026-04-22T12:23:44.159-03:00
 tags:
   - allen-dulles
   - cia
@@ -45,6 +45,10 @@ La referencia constante a [[Sullivan & Cromwell]] y a su circulacion por entorno
 
 La crisis de [[Bahia de Cochinos]] y su salida de la CIA vuelven a Dulles una figura recurrente en lecturas TL sobre conflicto entre presidencia formal y aparato permanente. Ese punto requiere separar bien hechos comprobados de hipotesis posteriores, pero sigue siendo un nodo interpretativo importante.
 
+### 5. Operador del pasaje a la clandestinidad sistemica
+
+Leido junto con [[William Donovan]] y [[Henry Kissinger]], Dulles gana más relieve como figura del pasaje entre aparato fundacional, institucionalización de la CIA y normalización de la operación encubierta como herramienta estructural de política exterior.
+
 ## Con que conecta
 
 - [[CIA]]
@@ -53,3 +57,5 @@ La crisis de [[Bahia de Cochinos]] y su salida de la CIA vuelven a Dulles una fi
 - [[Hermanos Dulles]]
 - [[Bahia de Cochinos]]
 - [[Sullivan & Cromwell]]
+- [[William Donovan]]
+- [[Henry Kissinger]]

@@ -1,42 +1,59 @@
 ---
 publish: true
+aliases:
+  - Pegasus Spyware (NSO Group)
+  - Pegasus
 created: 2026-01-29T19:17:30.190-03:00
-modified: 2026-04-21T12:48:16.903-03:00
+modified: 2026-04-22T16:27:30.900-03:00
 tags:
-  - "#pegasus"
-  - "#project"
-  - "#spyware"
-  - "#unit"
+  - pegasus
+  - spyware
+  - nso-group
+  - zero-click
+  - vigilancia
+  - tl-intel-v3
 ---
 
-# Pegasus Spyware (NSO Group): La Diplomacia De La Infección
+# Pegasus Spyware
 
-> [!ABSTRACT] Hipótesis Informativa
-> Pegasus es el **Ciberarmamento de [[Tier A]]** más invasivo de la historia, diseñado por ex-miembros de la inteligencia israelí (Unit 8200) para convertir cualquier smartphone en un dispositivo de espionaje total. Capaz de realizar infecciones de "click-cero" (sin que el usuario toque nada), Pegasus otorga acceso a micrófonos, cámaras, archivos y mensajes encriptados. Más allá de su función técnica, Pegasus actúa como una herramienta de **Diplomacia Gris de Israel**: el Estado cede licencias del software a regímenes de **[[Tier B]]** (Marruecos, Arabia Saudita, México, Hungría) a cambio de apoyo diplomático y el silenciamiento de disidentes de **[[Tier C]]** en foros internacionales.
+## BLUF
 
-## Análisis De Tiers
+[[Pegasus Spyware]] importa en TL como uno de los ejemplos más notorios de intrusión digital de grado estatal comercializada por vía privada. Su valor no está solo en el malware, sino en mostrar cómo el smartphone se convierte en vector total de captura, vigilancia y presión política.
 
-### Tier A (El Exportador Del Control)
+## Por que importa en TL
 
-- **Armas Digitales como Moneda de Cambio:** Para el Tier A israelí, el software de vigilancia es el nuevo "petróleo diplomático". Al permitir que regímenes autoritarios compren Pegasus, Israel crea una **Dependencia de Inteligencia**. El Tier A mantiene el control final: todas las licencias deben ser aprobadas por el Ministerio de Defensa israelí. Esto asegura que ningún país de Tier B use Pegasus contra los intereses de Tier A, mientras que el Tier A puede observar qué es lo que los países de Tier B están buscando, creando una red de **Meta-Vigilancia** global sobre la vigilancia local.
+- conecta [[NSO Group]], zero-click y espionaje personalizado sobre objetivos de alto valor;
+- ayuda a leer la privatización de capacidades de intrusión antes reservadas a aparatos estatales;
+- funciona como pieza central del subcorredor `spyware / dispositivo / control`.
 
-### Tier B (Los Regímenes Compradores)
+## Que es
 
-- **La Represión de la Disidencia Interna:** Para el Tier B (monarquías, democracias iliberales), Pegasus es la solución al cifrado de WhatsApp y Signal. Lo utilizan para perseguir a periodistas, activistas de DDHH y opositores políticos de Tier C. Al no requerir la interacción del usuario, el Tier B puede infectar el teléfono de un objetivo simplemente enviando un iMessage invisible. Es la **Privatización de la Tiranía**: el Estado ya no necesita un sistema legal robusto para espiar; solo necesita comprar una licencia a una empresa privada.
+Pegasus es un spyware asociado a NSO Group capaz de comprometer dispositivos y convertirlos en fuentes activas de vigilancia. En TL, importa como emblema del mercado global de intrusión digital exportable.
 
-## Mecanismos De Poder (Tecnológicos)
+## Lectura TL
 
-1. **Vulnerabilidades Zero-Click**: Explotación de fallos desconocidos en el kernel de los sistemas operativos (iOS/Android) que permiten la penetración remota sin que la víctima deje de tener su teléfono "limpio" a la vista.
-2. **Exfiltración Total**: Capacidad de convertir el dispositivo en un grabador constante, transmitiendo audio y video en tiempo real de las reuniones privadas de líderes de Tier B o activistas de Tier C.
+### 1. El telefono como puerta total
 
-## Conexiones Críticas
+Pegasus importa porque una vez dentro del dispositivo, el espionaje deja de ser periférico y se vuelve íntimo: mensajes, micrófono, cámara y geolocalización quedan al alcance del operador.
 
-- [[Unidad 8200]]: La cantera de talento de donde nace NSO Group.
-- [[Project Nimbus]]: El contrato de nube con Google/Amazon que complementa la infraestructura de datos.
-- [[Palantir]]: Por la capacidad de procesar los datos masivos obtenidos por herramientas como Pegasus.
-- [[Vigilancia Masiva]]: El contexto macro en el que se inserta esta herramienta quirúrgica.
-- [[Jamal Khashoggi]]: Las sospechas de que Pegasus se usó en el seguimiento previo a su asesinato.
+### 2. Intrusion como servicio geopolitico
 
-## Conclusión Del Análisis
+En TL, su relevancia crece cuando se observa que estas herramientas no circulan solo por mercado. También funcionan como moneda diplomática, cooperación represiva y extensión indirecta de poder estatal.
 
-Pegasus nos enseña que **tu teléfono es una terminal de la Matrix en tu bolsillo**. Nos advierte que el cifrado es inútil si la terminal misma ha sido comprometida a nivel de hardware/kernel. Para el individuo soberano del Tier C, Pegasus es el recordatorio de que no existe la seguridad digital absoluta frente al poder de un Estado continental. La libertad requiere el regreso a la **Interacción Analógica** para los temas críticos y el reconocimiento de que la conectividad permanente es, por definición, vulnerabilidad permanente.
+### 3. Satelite ofensivo del stack
+
+Leído junto con [[NSO Group]], [[Cellebrite]] y [[Citizen Lab]], Pegasus aparece como la pieza ofensiva más visible del mercado privado de vigilancia.
+
+### 4. Intrusion con consecuencias materiales
+
+La nota gana todavía más peso cuando se la conecta con [[Jamal Khashoggi]]. Ahí Pegasus deja de leerse solo como malware sofisticado y pasa a figurar como herramienta con potencial de traducirse en coerción, persecución y daño físico-político.
+
+## Conexiones
+
+- [[NSO Group]]
+- [[Cellebrite]]
+- [[Citizen Lab]]
+- [[Unidad 8200]]
+- [[Jamal Khashoggi]]
+- [[Panoptico Digital]]
+- [[00_MOC - Vigilancia Tecnica y SIGINT]]

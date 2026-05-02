@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:03.143-03:00
-modified: 2026-04-19T12:59:21.793-03:00
+modified: 2026-04-22T16:07:43.103-03:00
 tags:
   - albert-bourla
   - pfizer
@@ -41,11 +41,19 @@ En TL, su relevancia crece cuando se observa que la biopolítica corporativa no 
 
 Su utilidad aparece al pensar cómo el CEO funciona como puente entre accionistas, reguladores, gobiernos y opinión pública durante contextos de urgencia.
 
+### 4. Operador corporativo del regimen sanitario
+
+En TL, Bourla gana más fuerza cuando se lo conecta con [[FDA]], [[World Health Organization]] y [[Tedros Adhanom Ghebreyesus]]. Ahí deja de ser solo CEO de laboratorio y pasa a verse como operador corporativo del tramo `contrato / legitimación / escala`.
+
 ## Con que conecta
 
 - [[Pfizer]]
 - [[Big Pharma]]
+- [[FDA]]
+- [[World Health Organization]]
+- [[Tedros Adhanom Ghebreyesus]]
 - [[BlackRock]]
 - [[Vanguard]]
 - [[One Health]]
+- [[00_MOC - Salud Global y Bioseguridad]]
 - [[Los Papeles de Pfizer]]

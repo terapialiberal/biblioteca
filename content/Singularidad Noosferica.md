@@ -1,21 +1,43 @@
 ---
+titulo: Singularidad Noosferica
+tipo: concepto
+fecha: 2026-04-27
+estado: activo
+aliases: ["Singularidad Noosférica"]
+tags: [singularidad-noosferica, noosfera, agi, conciencia-colectiva, tl-intel-v3]
+tier_primario: b
+nivel_evidencia: bajo
 publish: true
-created: 2026-02-25T22:08:55.825-03:00
-modified: 2026-04-07T11:15:19.706-03:00
-tags:
-  - noosfrica
-  - singularidad
 ---
 
-# Singularidad Noosférica
+# Singularidad Noosferica
 
-> [!ABSTRACT] Hipótesis Informativa
-> Nodo perteneciente a la Matrix de Simbolismo y Esoterismo TL V.2.
+## BLUF
 
-## Análisis De Tiers
+Singularidad Noosferica describe la imaginacion de una mente colectiva planetaria acelerada por redes digitales, IA y convergencia cognitiva.
 
-_En desarrollo..._
+## Que es
 
-## Cui Bono
+La noosfera remite a una capa de pensamiento o conciencia humana global. La singularidad agrega la idea de aceleracion tecnica hasta un umbral cualitativo.
 
-_Pendiente de análisis forense._
+## Por que importa en TL
+
+- conecta AGI, redes sociales, cloud, vigilancia y gobernanza cognitiva;
+- ayuda a leer promesas de inteligencia colectiva;
+- advierte sobre confundir conexion con sabiduria.
+
+## Lectura TL
+
+Una noosfera administrada por plataformas no es conciencia libre: es infraestructura privada de percepcion, memoria y decision.
+
+## Conexiones
+
+- [[AGI]]
+- [[Escatologia de la IA]]
+- [[El Cloud y el Plano Astral]]
+- [[Capitalismo de Vigilancia]]
+- [[00_MOC - Tecnologia de Control]]
+
+## Nivel de evidencia
+
+Bajo como claim fuerte. Medio como metafora sociotecnica.

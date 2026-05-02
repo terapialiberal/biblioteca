@@ -42,7 +42,7 @@ Sus políticas:
 ## Conexiones
 
 - [[Monsanto]]
-- [[Organización Mundial de la Salud|Organización Mundial de la Salud (WHO)]]
+- [[World Health Organization|Organización Mundial de la Salud (WHO)]]
 - [[Cartel de Granos (ABCD)]]
 
 ## Fuentes

@@ -1,36 +1,21 @@
 ---
-titulo: Wells Fargo
-tipo: "persona"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [fargo, warren, wells]
 publish: true
+aliases:
+  - Wells Fargo Bank
+created: 2026-01-29T19:17:44.154-03:00
+modified: 2026-05-02T13:06:23.494-03:00
+tags:
+  - wells-fargo
+  - banca
+  - eeuu
+  - retail
+  - tl-intel-v3
 ---
 
 # Wells Fargo
 
-> [!ABSTRACT] Ficha Tcnica
-> **Narrativa Official:** Banco comunitario tradicional.
-> **Funcin Real:** Fraude sistemtico disfrazado de banco de Main Street.
+[[Wells Fargo]] importa en TL como gran banco minorista estadounidense y caso de incentivos perversos en banca comercial.
 
-## Escndalos
+## Lectura TL
 
-- **Cuentas falsas (2016):** Empleados abrieron millones de cuentas sin consentimiento de clientes
-- **Seguros de auto forzados:** Cobraron seguros que clientes no pidieron
-- **Foreclosure abuses:** Prcticas predatorias en hipotecas
-
-## ⚠️ Multas
-
-Ms de \3 billion en multas por cuentas falsas.
-
-## Conexiones
-
-- [[Warren Buffett]] (mayor accionista a travs de Berkshire)
-- Banca de consumo de EEUU
-
-## Fuentes
-
-- SEC filings
-- Senate Banking Committee hearings
+Wells Fargo ayuda a leer cómo presión de ventas, métricas internas y captura gerencial pueden producir abuso masivo dentro de instituciones aparentemente ordinarias.

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:03.543-03:00
-modified: 2026-04-19T12:42:38.057-03:00
+modified: 2026-04-24T10:22:27.325-03:00
 tags:
   - anduril-industries
   - defensa
@@ -41,11 +41,19 @@ En TL, su relevancia aumenta cuando el mismo stack sirve tanto para control fron
 
 Su potencia aparece cuando una empresa nacida con estética startup pasa a ocupar funciones típicas de aparato estatal o contratista estratégico de largo plazo.
 
+### 4. Sensorizacion del poder
+
+En TL, Anduril gana más espesor cuando se la conecta con [[Palantir]], [[In-Q-Tel]] y [[00_MOC - Vigilancia Tecnica y SIGINT]]. Ahí deja de ser solo defensa autónoma y pasa a aparecer como capa de sensorización y respuesta dentro del mismo régimen de vigilancia técnica.
+
 ## Con que conecta
 
 - [[Palmer Luckey]]
 - [[Peter Thiel]]
 - [[Palantir]]
+- [[Palantir AIP]]
+- [[In-Q-Tel]]
+- [[Clearview AI]]
 - [[Tecnocracia]]
 - [[Vigilancia Predictiva]]
+- [[00_MOC - Vigilancia Tecnica y SIGINT]]
 - [[Pentagono]]

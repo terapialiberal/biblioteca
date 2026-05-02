@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2026-01-29T19:17:37.210-03:00
-modified: 2026-04-21T12:07:01.273-03:00
+modified: 2026-04-21T12:07:13.315-03:00
 tags:
-  - "#skoll-foundation"
-  - "#filantrocapitalismo"
-  - "#silicon-valley"
-  - "#narrativas"
-  - "#impacto-social"
-  - "#tl-intel-v3"
+  - skoll-foundation
+  - filantrocapitalismo
+  - silicon-valley
+  - narrativas
+  - impacto-social
+  - tl-intel-v3
 ---
 
 # Skoll Foundation

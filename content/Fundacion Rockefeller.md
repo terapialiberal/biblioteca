@@ -4,7 +4,7 @@ aliases:
   - Fundación Rockefeller
   - Rockefeller Foundation
 created: 2026-01-29T19:17:14.535-03:00
-modified: 2026-04-17T20:12:53.344-03:00
+modified: 2026-04-17T20:12:45.557-03:00
 tags:
   - rockefeller-foundation
   - salud-global

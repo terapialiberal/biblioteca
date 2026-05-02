@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-20T16:50:16.888-03:00
-modified: 2026-04-20T16:50:18.373-03:00
+modified: 2026-04-22T10:31:54.161-03:00
 tags:
   - stephen-miran
   - cea
@@ -42,6 +42,10 @@ En TL, su relevancia aumenta cuando se observa que su esquema no resuelve de ver
 
 Su valor crece porque ofrece cobertura intelectual a medidas que, sin ese marco, se verian como mero forcejeo imperial: devaluacion administrada, extension de plazos de deuda, tarifas o fees sobre acreedores externos y disciplina monetaria por vias no clasicas.
 
+### 4. Miran como bisagra 1973/2026
+
+El nodo gana más valor cuando se lo inserta en la secuencia histórica recompilada. [[Stephen Miran]] no explica por sí solo el sistema, pero sí funciona como intelectual orgánico de la etapa en la que el viejo esquema petrodólar resulta insuficiente y aparece la necesidad de un [[Reanclaje Hibrido]].
+
 ## Con que conecta
 
 - [[Mar-a-Lago Accord]]
@@ -49,3 +53,5 @@ Su valor crece porque ofrece cobertura intelectual a medidas que, sin ese marco,
 - [[Kevin Warsh]]
 - [[Treasuries]]
 - [[Donald Trump]]
+- [[Reanclaje Hibrido]]
+- [[GENIUS Act]]

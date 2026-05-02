@@ -1,23 +1,47 @@
 ---
-titulo: Energía Radiant (Tesla)
-tipo: "persona"
-fecha: 2026-02-25
-estado: activo
-tags: [energa, radiant]
-tier_primario: "b"
-nivel_evidencia: "medio"
 publish: true
+aliases:
+  - Energía Radiant (Tesla)
+  - Radiant energy
+created: 2026-02-25T22:08:33.097-03:00
+modified: 2026-04-27T10:37:55.033-03:00
+tags:
+  - energia-radiant
+  - tesla
+  - energia
+  - tecnomito
+  - tl-intel-v3
 ---
 
-# Energía Radiant (Tesla)
+# Energia Radiant
 
-> [!ABSTRACT] Hipótesis Informativa
-> Nodo perteneciente a la Matrix de Simbolismo y Esoterismo TL V.3.
+## BLUF
 
-## Análisis De Tiers
+Energia Radiant es un nodo de frontera entre historia de Nikola Tesla, experimentación eléctrica real y mitología moderna sobre energía libre o tecnología suprimida.
 
-_En desarrollo..._
+## Qué es
 
-## Cui Bono
+El término aparece asociado a radiación, electricidad atmosférica, descargas y especulaciones sobre energía no convencional. Parte del imaginario se apoya en la figura histórica de Tesla, pero muchas afirmaciones modernas exceden la evidencia disponible.
 
-_Pendiente de análisis forense._
+## Por qué importa en TL
+
+- muestra cómo una figura científica puede convertirse en mito tecnopolítico;
+- conecta energía, monopolios, patentes, promesas de abundancia y sospecha de supresión;
+- ayuda a separar historia tecnológica de mercado de fantasías energéticas.
+
+## Lectura TL
+
+La pregunta TL no es si toda promesa de energía libre es falsa o verdadera. Es qué función cumple la narrativa: esperanza anti-monopolio, crítica al cartel energético, venta pseudotécnica o mito de conocimiento robado.
+
+## Conexiones
+
+- [[Nikola Tesla]]
+- [[Weather Modification]]
+- [[HAARP]]
+- [[00_MOC - Tecnologia de Control]]
+- [[El Fuego Secreto]]
+- [[00_MOC - Tecnologia de Control]]
+
+## Nivel de evidencia
+
+Bajo para claims extraordinarios de energía libre. Medio como mito tecnopolítico ligado a Tesla y monopolios energéticos.

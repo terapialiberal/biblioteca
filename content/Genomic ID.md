@@ -3,13 +3,13 @@ publish: true
 aliases:
   - Genomic ID (Bio-Digital Convergence)
 created: 2026-02-09T17:33:02.121-03:00
-modified: 2026-04-21T11:39:06.710-03:00
+modified: 2026-04-29T14:44:32.956-03:00
 tags:
-  - "#genomic-id"
-  - "#adn"
-  - "#bio-digital"
-  - "#identidad-digital"
-  - "#tl-intel-v3"
+  - genomic-id
+  - adn
+  - bio-digital
+  - identidad-digital
+  - tl-intel-v3
 ---
 
 # Genomic ID
@@ -46,6 +46,14 @@ La preocupación estratégica no es solo sanitaria. Es la posibilidad de usar in
 
 Leído junto con [[Biometria Global]] y [[Digital ID - Global Protocol]], este nodo representa la expansión de la identidad hacia el cuerpo profundo, no solo hacia credenciales o hábitos.
 
+### 5. Del perfil sanitario al perfil de elegibilidad
+
+La lectura fuerte en TL aparece cuando los datos genéticos dejan de ser solo información médica y empiezan a funcionar como inputs para segmentar riesgo, prioridad, cobertura o adecuación dentro de sistemas automatizados.
+
+### 6. Genoma como capa extrema de identidad
+
+Leido junto con [[ID2020]] y [[Bio-Identidad Digital]], este nodo ya no se limita a salud de precisión. Pasa a verse como extensión radical del mismo stack: del documento, al cuerpo visible, y del cuerpo visible al cuerpo profundo.
+
 ## Conexiones
 
 - [[Biometria Global]]
@@ -56,3 +64,7 @@ Leído junto con [[Biometria Global]] y [[Digital ID - Global Protocol]], este n
 - [[Illumina]]
 - [[Gobernanza Algoritmica]]
 - [[Tecnocracia]]
+- [[ID2020]]
+- [[Internet de los Cuerpos]]
+- [[00_MOC - Salud Global y Bioseguridad]]
+- [[00_MOC - Tecnologia de Control]]

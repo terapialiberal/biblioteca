@@ -3,7 +3,7 @@ publish: true
 aliases:
   - "Narendra Modi: El Gestor Del Panoptico Biometrico"
 created: 2026-01-29T19:17:26.361-03:00
-modified: 2026-04-18T18:28:11.201-03:00
+modified: 2026-04-24T10:40:32.534-03:00
 tags:
   - narendra-modi
   - india
@@ -42,3 +42,5 @@ En TL, su relevancia aumenta cuando se lo lee como articulador entre masas, iden
 - [[India Stack]]
 - [[BRICS]]
 - [[WEF]]
+- [[PBOC (Banco Popular de China)]]
+- [[00_MOC - Tecnologia de Control]]

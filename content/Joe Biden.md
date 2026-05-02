@@ -1,12 +1,12 @@
 ---
 publish: true
 created: 2026-01-29T19:17:19.693-03:00
-modified: 2026-04-21T12:48:15.373-03:00
+modified: 2026-05-02T18:25:37.304-03:00
 tags:
-  - "#biden"
-  - "#blackrock"
-  - "#continuidad"
-  - "#departamento"
+  - biden
+  - blackrock
+  - continuidad
+  - departamento
 ---
 
 # Joe Biden: El Gerente De La Continuidad Atlantista

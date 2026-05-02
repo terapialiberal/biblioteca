@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Néstor Kirchner
 created: 2026-01-29T19:17:27.723-03:00
-modified: 2026-04-18T11:47:05.402-03:00
+modified: 2026-04-18T11:46:57.784-03:00
 tags:
   - argentina
   - kirchnerismo

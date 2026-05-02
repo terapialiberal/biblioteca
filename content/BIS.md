@@ -1,17 +1,18 @@
 ---
 publish: true
 aliases:
-  - Banco de Pagos Internacionales
-  - BIS (Banco de Pagos Internacionales)
+  - BIS
+  - Bank for International Settlements
 created: 2026-01-29T19:17:05.462-03:00
-modified: 2026-04-18T17:40:51.877-03:00
+modified: 2026-05-02T13:05:22.727-03:00
 tags:
-  - bis
-  - alias
-  - bancos-centrales
-  - tl-intel-v3
+  - "#alias"
+  - "#legacy"
+  - "#bis"
+  - "#banca-central"
+  - "#tl-intel-v3"
 ---
 
 # BIS
 
-Nodo espejo. Ver [[Banco de Pagos Internacionales]].
+Alias operativo para [[BIS (Banco de Pagos Internacionales)]], usado en notas sobre banca central, CBDC y coordinación monetaria.

@@ -1,15 +1,15 @@
 ---
 publish: true
 created: 2026-04-21T11:22:18.827-03:00
-modified: 2026-04-21T11:22:19.204-03:00
+modified: 2026-04-21T11:22:18.827-03:00
 tags:
-  - "#crisis-financiera"
-  - "#bancos-centrales"
-  - "#lehman"
-  - "#war-game"
-  - "#real-estate-comercial"
-  - "#policrisis"
-  - "#tl-intel-v3"
+  - crisis-financiera
+  - bancos-centrales
+  - lehman
+  - war-game
+  - real-estate-comercial
+  - policrisis
+  - tl-intel-v3
 ---
 
 # Crisis Financiera War Game Lehman 2026

@@ -3,7 +3,7 @@ publish: true
 aliases:
   - "Lockheed Martin: El Martillo Del Complejo Militar-Industrial"
 created: 2026-01-29T19:17:22.799-03:00
-modified: 2026-04-18T18:24:50.491-03:00
+modified: 2026-04-22T10:54:16.780-03:00
 tags:
   - lockheed-martin
   - defensa
@@ -34,10 +34,25 @@ Lockheed Martin funciona como interfaz entre presupuesto público, innovación m
 
 En TL conviene leerla menos como empresa aislada y más como pieza de una arquitectura donde revolving door, lobby, fondos institucionales y necesidades de defensa se refuerzan entre sí.
 
+### 1. Defensa como mercado administrado
+
+Lockheed Martin importa porque convierte seguridad nacional, amenazas persistentes y dependencia tecnológica en contratos estables, presupuestos crecientes y legitimidad institucional.
+
+### 2. Captura por contratismo
+
+Su utilidad analítica crece cuando se la conecta con [[Puerta Giratoria]], [[Captura Regulatoria]] y [[Raytheon]]. El punto no es solo que venda armas, sino que participa en un ecosistema donde contratistas, altos mandos, Congreso, think tanks y agenda estratégica se retroalimentan.
+
+### 3. Soberania subordinada de aliados
+
+También sirve para leer cómo la venta de plataformas complejas no transfiere autonomía plena, sino dependencia de mantenimiento, actualización, piezas y doctrina. La captura puede operar también a escala geopolítica.
+
 ## Con qué conecta
 
 - [[Departamento de Defensa]]
 - [[Complejo Militar-Industrial]]
 - [[BlackRock - Vanguard - State Street]]
-- [[Puertas Giratorias]]
+- [[Puerta Giratoria]]
 - [[Boeing Defense]]
+- [[Captura Regulatoria]]
+- [[Raytheon]]
+- [[00_MOC - Captura Regulatoria y Puertas Giratorias]]

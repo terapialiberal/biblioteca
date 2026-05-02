@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:27.424-03:00
-modified: 2026-04-18T10:51:20.575-03:00
+modified: 2026-04-29T14:44:29.788-03:00
 tags:
   - norman-dodd
   - fundaciones
@@ -50,4 +50,4 @@ Leído junto con [[Reece Committee]], [[Fundacion Rockefeller]] y [[Fundacion Fo
 - [[Fundacion Rockefeller]]
 - [[Fundacion Ford]]
 - [[Fundacion Carnegie]]
-- [[Globalismo / Nuevo Orden Mundial]]
+- [[Globalismo]] / [[Nuevo Orden Mundial]]

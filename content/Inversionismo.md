@@ -36,7 +36,7 @@ publish: true
 
 - [[1984 / George Orwell]] (La guía literaria)
 - [[00_Glosario - Conceptos Fase 1#Gaslighting (Político)|Gaslighting (Político)]] (Su técnica táctica)
-- [[Ideología de Género / Transhumanismo]] (Aplicaciones biológicas)
+- [[Ideologia de Genero]] / [[Transhumanismo]] (Aplicaciones biológicas)
 - [[Doblepensar (Doublethink)]] (El estado mental requerido)
 
 ## Por Qué Importa (Estilo Nico)

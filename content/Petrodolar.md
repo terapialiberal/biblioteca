@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:30.476-03:00
-modified: 2026-04-17T14:23:06.546-03:00
+modified: 2026-04-22T10:25:25.701-03:00
 tags:
   - petrodolar
   - dolar
@@ -36,10 +36,16 @@ La nota estaba duplicando parte del contenido del sistema completo. Se recompil�
 
 En la lectura actual del canal, el término sigue siendo útil pero insuficiente. Hoy conviene pasar rápido del concepto corto al sistema más amplio: energía, Treasuries, rutas, liquidez y seguridad.
 
+### 3. Puerta de entrada a 1973 vs 2026
+
+Su utilidad actual crece cuando se lo usa como punto de comparación y no como respuesta final. El `petrodólar` sirve para explicar cómo se reancló el dólar tras [[Shock de Nixon]]; el problema de 2026 es mostrar por qué ese mecanismo histórico ya no alcanza limpio y obliga a pensar en [[Reanclaje Hibrido]].
+
 ## Conexiones
 
 - [[Sistema Petrodolar]]
 - [[Shock de Nixon]]
+- [[Saltsjobaden_1973_MarALago_2026]]
 - [[Ibn Saud y FDR]]
 - [[Treasuries]]
+- [[Reanclaje Hibrido]]
 - [[Nuevo Bretton Woods]]

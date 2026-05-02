@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-25T14:11:06.055-03:00
-modified: 2026-04-07T10:50:19.445-03:00
+modified: 2026-04-07T10:50:26.605-03:00
 ---
 
 # Larry Ellison

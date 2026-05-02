@@ -1,12 +1,14 @@
 ---
 publish: true
+aliases:
+  - Neoliberalismo (Doctrina Económica)
 created: 2026-01-29T19:17:26.601-03:00
-modified: 2026-04-18T18:28:12.742-03:00
+modified: 2026-05-02T12:51:27.015-03:00
 tags:
   - neoliberalismo
+  - economia
   - privatizacion
-  - austeridad
-  - finanzas
+  - fmi
   - tl-intel-v3
 ---
 
@@ -14,28 +16,15 @@ tags:
 
 ## BLUF
 
-[[Neoliberalismo]] importa en TL como doctrina de reorganización social basada en privatización, desregulación, disciplina fiscal y subordinación creciente de la política a criterios financieros y tecnocráticos.
-
-## Por qué importa en TL
-
-- conecta crisis, deuda, privatización y captura de bienes públicos;
-- sirve para leer cómo el lenguaje de libertad económica puede operar como programa de concentración;
-- ayuda a mapear la alianza entre think tanks, organismos multilaterales y elites locales.
-
-## Qué cambió
-
-La nota venía muy reducida, con mojibake y formulación demasiado plana. Se recompila como concepto más robusto y reusable.
+[[Neoliberalismo]] importa en TL como doctrina de mercado, privatización, disciplina fiscal, apertura, desregulación selectiva y rediseño del Estado bajo criterios de competencia y eficiencia.
 
 ## Lectura TL
 
-El neoliberalismo importa menos como insulto genérico y más como tecnología política concreta: apertura, flexibilización, endeudamiento, monetización de servicios públicos y disciplinamiento social vía mercado.
+No debe leerse solo como “menos Estado”. Muchas veces implica otro Estado: más fuerte para garantizar propiedad, contratos, deuda, apertura y disciplina, pero más débil para proteger soberanía productiva o cohesión social.
 
-En TL, el nodo gana valor cuando se lo usa para ver cómo ciertas reformas aparecen como inevitables, técnicas o modernas, aunque reordenen propiedad y poder en favor de actores muy concentrados.
+## Con que conecta
 
-## Con qué conecta
-
-- [[Banco Mundial]]
+- [[Consenso de Washington]]
 - [[FMI]]
-- [[Milton Friedman]]
-- [[Escuela de Chicago (Chicago Boys)]]
-- [[Austeridad]]
+- [[Banco Mundial]]
+- [[Privatización]]

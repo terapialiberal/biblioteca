@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-02-09T17:48:56.666-03:00
-modified: 2026-04-21T12:50:25.668-03:00
+modified: 2026-04-24T12:18:21.786-03:00
 tags:
-  - "#moc"
-  - "#rimland"
-  - "#geopolitica"
-  - "#choke-points"
-  - "#tl-intel-v3"
+  - moc
+  - rimland
+  - geopolitica
+  - choke-points
+  - tl-intel-v3
 ---
 
 # MOC - Rimland
@@ -19,10 +19,11 @@ tags:
 - El rimland concentra corredores, chokepoints, puertos, energía y tecnología.
 - Las guerras visibles suelen ser administración de accesos, no solo disputas territoriales.
 - Este MOC conecta doctrina, corredores y activos estratégicos.
+- En 2026 el corredor más sensible vuelve a verse como secuencia: `Ormuz -> Malaca -> Taiwan -> rails asiáticos`.
 
 ## Doctrina
 
-- [[Teoría del Rimland (Nicholas Spykman)]]
+- [[Teoria del Rimland]]
 - [[Nicholas Spykman]]
 - [[Teoría del Heartland (Halford Mackinder)]]
 - [[Zbigniew Brzezinski]]
@@ -46,9 +47,61 @@ tags:
 - [[Corredor IMEC]]
 - [[TRIPP]]
 - [[Belt and Road Initiative]]
+- [[Corredor Trans-Caspio]]
 - [[Collar de Perlas]]
 - [[Proyecto mBridge]]
 - [[Golpes en el Sahel]]
+
+## Como leer la competencia de corredores
+
+- empezar por [[Belt and Road Initiative]] como arquitectura china de profundidad infraestructural;
+- contraponer luego [[Corredor IMEC]] como respuesta prooccidental en clave Golfo-Mediterráneo;
+- sumar [[Corredor Trans-Caspio]] como ajuste euroasiático de tránsito cuando Rusia o el Mar Rojo elevan costos;
+- bajar a [[PBOC (Banco Popular de China)]] y [[Proyecto mBridge]] para ver cómo la competencia deja de ser solo puertos y trenes y pasa a ser también rail monetario;
+- usar [[Desdolarizacion]] como salida conceptual del mismo conflicto, no como tema separado.
+
+## Indo-Pacifico y Cerco Asiatico
+
+- [[China Taiwan Escalada 2026]]
+- [[Xi Jinping]]
+- [[Estrecho de Malaca]]
+- [[TSMC]]
+- [[ASML]]
+- [[Nvidia]]
+- [[AUKUS II - Expansion Japon]]
+- [[Desdolarizacion]]
+- [[PBOC (Banco Popular de China)]]
+- [[Sistema CIPS]]
+- [[Digital Yuan Expansion]]
+- [[Proyecto mBridge]]
+- [[mBridge Expansion]]
+- [[BRICS Expansion 2026]]
+
+## Secuencia Indo-Pacifico Reusable
+
+- `Ormuz` presiona energía y precio
+- `Malaca` amenaza respiración logística de Asia
+- `Taiwan / TSMC` concentran riesgo tecnológico-industrial
+- `ASML / Nvidia` convierten ese riesgo en choke point computacional y militar
+- `AUKUS II / Japón` aportan la capa de contención militar-tecnológica
+- `CIPS / mBridge / yuan digital` aportan la capa de rails monetarios regionales
+- `desdolarización selectiva` expresa el costado monetario de la misma fragmentación
+
+## Como leer el corredor monetario del Indo-Pacifico ampliado
+
+- empezar por [[Estrecho de Malaca]] para fijar el choke point logistico sobre el comercio asiatico;
+- bajar luego a [[Sistema CIPS]] y [[Proyecto mBridge]] para ver como la region busca redundancia monetaria;
+- sumar [[mBridge Expansion]] para medir la ampliacion del rail hacia ASEAN y socios de comercio;
+- usar [[BRICS Expansion 2026]] para ver la escala politica-material que puede absorber esos rails;
+- cerrar con [[Desdolarizacion]] como expresion monetaria del mismo tablero de corredores, energia y contencion.
+
+## Cómo leer el corredor asiático industrial
+
+- empezar por [[Estrecho de Malaca]] para fijar la respiración logística;
+- usar [[Xi Jinping]] para fijar el operador político del eje chino;
+- pasar luego a [[TSMC]] y [[ASML]] para ver el choke point industrial;
+- bajar a [[Nvidia]] para entender cómo ese choke point se traduce en cómputo estratégico;
+- cerrar con [[AUKUS II - Expansion Japon]] como capa militar-tecnológica que protege y organiza ese mismo frente.
 
 ## Conflictos Activos
 
@@ -85,15 +138,33 @@ tags:
 
 - [[00_MOC - Rimland.md|00_MOC - Rimland]]
 
+- [[África.md|África]]
+
+- [[Antártida.md|Antártida]]
+
 - [[06_Videos_Publicados/2026/2026-02-05_Caos_Controlado/Archivo - Demolicion Controlada Spykman 2026-02-05.md|Archivo - Demolicion Controlada Spykman 2026-02-05]]
 
+- [[Ártico.md|Ártico]]
+
 - [[06_Videos_Publicados/2026/2026-02-05_Caos_Controlado/Articulo_Rimland_2026_Completo.md|Articulo_Rimland_2026_Completo]]
+
+- [[ASEAN.md|ASEAN]]
 
 - [[Astro-Cartografia del Rimland.md|Astro-Cartografia del Rimland]]
 
 - [[06_Videos_Publicados/2026/2026-01-07_Gaza_SA/bookmarks_2026_1_8.md|bookmarks_2026_1_8]]
 
+- [[Brzezinski.md|Brzezinski]]
+
 - [[05_Fuentes/Cambio China hacia mercado interno.md|Cambio China hacia mercado interno]]
+
+- [[Canal de Suez.md|Canal de Suez]]
+
+- [[Caos Constructivo.md|Caos Constructivo]]
+
+- [[Ceguera Inatencional Geopolitica.md|Ceguera Inatencional Geopolitica]]
+
+- [[China.md|China]]
 
 - [[China busca orden mundial alternativo - US Commission.md|China busca orden mundial alternativo - US Commission]]
 
@@ -103,21 +174,39 @@ tags:
 
 - [[Corredor IMEC.md|Corredor IMEC]]
 
+- [[Corredor IMEC (India-Middle East-Europe).md|Corredor IMEC (India-Middle East-Europe)]]
+
 - [[05_Fuentes/El arsenal americano de China.md|El arsenal americano de China]]
 
 - [[El establishment angloamericano.md|El establishment angloamericano]]
 
 - [[05_Fuentes/El vicepresidente estadounidense JD Vance presento.md|El vicepresidente estadounidense JD Vance presento]]
 
+- [[Embajada de EE.UU..md|Embajada de EE.UU.]]
+
 - [[Estrecho de Malaca.md|Estrecho de Malaca]]
+
+- [[Estrecho de Malaca (El talon de Aquiles de China).md|Estrecho de Malaca (El talon de Aquiles de China)]]
 
 - [[05_Fuentes/Europa se prepara para un aumento en los precios de la energía por el conflicto en Medio Oriente.md|Europa se prepara para un aumento en los precios de la energía por el conflicto en Medio Oriente]]
 
 - [[06_Videos_Publicados/2025/2025-10-24_El_RESET_MALTHUSIANO_GEOPOLITICA/Graficos Geopolitica y Plan Marshall.md|Graficos Geopolitica y Plan Marshall]]
 
+- [[Haushofer.md|Haushofer]]
+
+- [[Hegemonía.md|Hegemonía]]
+
+- [[IMEC.md|IMEC]]
+
+- [[Irán (Geopolítica).md|Irán (Geopolítica)]]
+
 - [[05_Fuentes/Irán ejecuta el plan de Jamenei para extender la guerra regional.md|Irán ejecuta el plan de Jamenei para extender la guerra regional]]
 
 - [[06_Videos_Publicados/2025/2025-12-04_Jeffrey_NO_es_lo_que_parece/Jeffrey NADA ES LO QUE PARECE - Investigacion Exclusiva al Estilo Terapia Liberal.md|Jeffrey NADA ES LO QUE PARECE - Investigacion Exclusiva al Estilo Terapia Liberal]]
+
+- [[Karl Haushofer.md|Karl Haushofer]]
+
+- [[Kosovo.md|Kosovo]]
 
 - [[05_Fuentes/La apuesta de China por la inteligencia artificial electricidad barata de la red más grande del mundo.md|La apuesta de China por la inteligencia artificial electricidad barata de la red más grande del mundo]]
 
@@ -127,13 +216,25 @@ tags:
 
 - [[05_Fuentes/La guerra en Irán Una nueva oportunidad para el Gran Reinicio.md|La guerra en Irán Una nueva oportunidad para el Gran Reinicio]]
 
+- [[05_Fuentes/La Inminente Tormenta Perfecta Dólar y Petróleo en Contrasentido.md|La Inminente Tormenta Perfecta Dólar y Petróleo en Contrasentido]]
+
 - [[05_Fuentes/La mayor sorpresa, hasta el momento, dentro de la Operación Furia Épica.md|La mayor sorpresa, hasta el momento, dentro de la Operación Furia Épica]]
 
 - [[05_Fuentes/La polémica visión de Hegseth ¿Un nuevo mapa para 'Gran Norteamérica'.md|La polémica visión de Hegseth ¿Un nuevo mapa para 'Gran Norteamérica']]
 
+- [[05_Fuentes/La República Tecnológica Un Llamado al Poder y la Responsabilidad en la Era Moderna.md|La República Tecnológica Un Llamado al Poder y la Responsabilidad en la Era Moderna]]
+
 - [[Litio y Comando Sur.md|Litio y Comando Sur]]
 
 - [[05_Fuentes/Los ataques contra Irán mataron a los sucesores preferidos de Estados Unidos para asumir el régimen, afirma Trump.md|Los ataques contra Irán mataron a los sucesores preferidos de Estados Unidos para asumir el régimen, afirma Trump]]
+
+- [[Mackinder.md|Mackinder]]
+
+- [[Mafia Jázara.md|Mafia Jázara]]
+
+- [[Mahan.md|Mahan]]
+
+- [[Mar del Sur de China.md|Mar del Sur de China]]
 
 - [[06_Videos_Publicados/2025/2025-10-24_El_RESET_MALTHUSIANO_GEOPOLITICA/MOC.md|MOC]]
 
@@ -147,16 +248,34 @@ tags:
 
 - [[06_Videos_Publicados/2026/2026-04-15_LAS GUERRAS MAGA/NOTA_TESIS_LAS_GUERRAS_MAGA.md|NOTA_TESIS_LAS_GUERRAS_MAGA]]
 
+- [[Operacion Lava Jato.md|Operacion Lava Jato]]
+
 - [[Patron - Teoria del Rimland (Spykman).md|Patron - Teoria del Rimland (Spykman)]]
+
+- [[Patrón - Teoría del Rimland (Spykman).md|Patrón - Teoría del Rimland (Spykman)]]
 
 - [[Patron - Weaponization (Armamentizacion).md|Patron - Weaponization (Armamentizacion)]]
 
+- [[Rimland.md|Rimland]]
+
+- [[Rusia.md|Rusia]]
+
+- [[Spykman.md|Spykman]]
+
 - [[Steve Witkoff.md|Steve Witkoff]]
+
+- [[Sudáfrica.md|Sudáfrica]]
+
+- [[Taiwán.md|Taiwán]]
 
 - [[Teoria del Rimland.md|Teoria del Rimland]]
 
 - [[06_Videos_Publicados/2026/2026-01-07_Gaza_SA/Transcript_Gaza_SA.md|Transcript_Gaza_SA]]
 
+- [[USAID.md|USAID]]
+
 - [[Vladimir Putin.md|Vladimir Putin]]
 
 - [[Vudu Geopolitico.md|Vudu Geopolitico]]
+
+- [[Zbigniew.md|Zbigniew]]

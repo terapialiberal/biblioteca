@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2026-04-21T12:09:28.764-03:00
-modified: 2026-04-21T12:09:29.164-03:00
+modified: 2026-04-22T16:58:30.769-03:00
 tags:
-  - "#moc"
-  - "#transhumanismo"
-  - "#bio-digital"
-  - "#identidad"
-  - "#control"
-  - "#tl-intel-v3"
+  - moc
+  - transhumanismo
+  - bio-digital
+  - identidad
+  - control
+  - tl-intel-v3
 ---
 
 # MOC - Transhumanismo y Convergencia Bio-Digital
@@ -33,6 +33,7 @@ tags:
 
 - [[Digital ID - Global Protocol]]
 - [[ID2020]]
+- [[Pasaportes de Vacuna]]
 - [[Biometria Global]]
 - [[Genomic ID]]
 - [[Worldcoin]]
@@ -44,6 +45,13 @@ tags:
 - [[Internet of Bio-Nano Things]]
 - [[Precision Medicine]]
 - [[Bio-Identidad Digital]]
+
+## Como leer el corredor de integracion profunda
+
+- [[Precision Medicine]] aporta la legitimacion clinica y actuarial;
+- [[Internet de los Cuerpos]] aporta la capa de sensado y retroalimentacion continua;
+- [[Neuralink]] abre la interfaz neuro-digital explicita;
+- [[Internet of Bio-Nano Things]] marca el extremo de miniaturizacion e intervencion intracorporal.
 
 ## Nodos Relacionados
 

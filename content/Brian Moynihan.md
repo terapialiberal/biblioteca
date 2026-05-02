@@ -11,27 +11,47 @@ publish: true
 
 # Brian Moynihan
 
-> [!INFO] Perfil Operativo (Tier A)
-> **Resumen:** CEO de Bank of America. Lideró recuperación post-crisis.
-> **Función Real:** Cabeza del segundo banco más grande de EEUU.
+> [!abstract] PERFIL TL-INTEL
+> [[Brian Moynihan]] importa en TL como ejecutivo de continuidad sistémica: el operador que estabiliza y administra [[Bank of America (BofA)|Bank of America]] después del trauma de 2008 sin alterar la lógica estructural del banco.
 
-## Biografía
+## Qué es
 
-Brian Moynihan es CEO de Bank of America desde 2010 (post-crisis).
+Brian Moynihan es CEO de [[Bank of America (BofA)|Bank of America]] desde la etapa posterior a la crisis financiera. En TL interesa como perfil de gestor sistémico: menos iconográfico que otros nombres de Wall Street, pero clave para administrar consolidación, litigios y continuidad operacional de un banco `too big to fail`.
 
-Bank of America había adquirido:
+## Por qué importa en TL
 
-- **Merrill Lynch** (2008, durante pánico)
-- **Countrywide** (el prestamista subprime)
+- conecta la crisis de 2008 con la normalización posterior del sistema bancario;
+- ayuda a leer cómo la estabilidad se reconstruye sin cambiar la arquitectura que produjo el colapso;
+- sirve como nodo actorial del frente [[Bank of America (BofA)|Bank of America]] / [[Merrill Lynch]] / rescate sistémico.
 
-Estas adquisiciones causaron pérdidas masivas. Moynihan lideró la recuperación.
+## Mecanismos de poder
 
-## Conexiones
+### 1. Gestión del después del shock
 
-- [[Bank of America]]
-- Wall Street
-- [[Business Roundtable]]
+Moynihan importa porque representa la fase donde el sistema deja atrás el pánico público y vuelve a presentarse como banco estable, rentable y normal.
 
-## Fuentes
+### 2. Consolidación de activos heredados
 
-- SEC filings
+Su relevancia crece cuando se recuerda que la estabilidad posterior se construye sobre absorciones críticas como [[Merrill Lynch]] y Countrywide.
+
+### 3. Voz corporativa del establishment
+
+En TL también funciona como figura del empresariado institucional que baja líneas sobre economía, trabajo y gobernanza desde el centro bancario.
+
+## Qué cambió
+
+La nota estaba en formato ficha mínima. Se recompila para que no quede como mero nombre propio asociado a un cargo, sino como actor útil dentro del corredor bancario estadounidense.
+
+## Cómo leerlo en TL
+
+- como administrador de continuidad, no como reformador;
+- junto con [[Bank of America (BofA)|Bank of America]] y [[Crisis Financiera 2008]];
+- como ejemplo de cómo el sistema sobrevive reemplazando estilo, no estructura.
+
+## Con qué conecta
+
+- [[Bank of America (BofA)|Bank of America]]
+- [[Merrill Lynch]]
+- [[Crisis Financiera 2008]]
+- [[Reserva Federal]]
+- [[00_MOC - Control Financiero]]

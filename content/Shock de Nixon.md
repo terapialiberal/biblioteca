@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:36.611-03:00
-modified: 2026-04-18T21:27:48.775-03:00
+modified: 2026-04-22T10:25:26.354-03:00
 tags:
   - shock-de-nixon
   - 1971
@@ -45,10 +45,17 @@ El nodo prepara el terreno para [[Sistema Petrodolar]] como mecanismo de reancla
 
 La lectura fuerte hoy no es "1971 se repite igual", sino que vuelve a aparecer el mismo problema estructural: demasiado pasivo estadounidense buscando una forma creible de seguir siendo absorbido.
 
+### 5. Bisagra entre 1971 y 2026
+
+El nodo gana más espesor cuando se lo lee como arranque de una secuencia larga: [[Shock de Nixon]] rompe el ancla anterior, [[Sistema Petrodolar]] ofrece una solución histórica y [[Reanclaje Hibrido]] aparece como hipótesis de solución nueva para una crisis parecida pero con materiales distintos.
+
 ## Conexiones
 
 - [[Conferencia de Bretton Woods]]
 - [[Sistema Petrodolar]]
+- [[Petrodolar]]
+- [[Reanclaje Hibrido]]
+- [[Saltsjobaden_1973_MarALago_2026]]
 - [[Nuevo Bretton Woods]]
 - [[Treasuries]]
 - [[Scott Bessent]]

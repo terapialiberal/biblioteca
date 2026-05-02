@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Stéphane Bancel
 created: 2026-01-29T19:17:37.928-03:00
-modified: 2026-04-17T18:27:30.318-03:00
+modified: 2026-04-22T16:07:43.141-03:00
 tags:
   - bancel
   - moderna
@@ -47,6 +47,10 @@ Su rol ayuda a entender como el lenguaje de innovacion, rapidez y solucion tecni
 
 Leido junto con [[Moderna]], [[CEPI]] y [[Fundacion Bill y Melinda Gates]], Bancel funciona como rostro ejecutivo de una constelacion mas amplia que no depende de una sola crisis para sostenerse.
 
+### 5. Ejecutivo de la promesa programable
+
+La nota rinde más cuando se la conecta con [[Digital ID - Global Protocol]] y [[Tratado de Pandemias OMS]]: Bancel aparece entonces no solo como CEO biotech, sino como operador de una promesa de respuesta biológica escalable, rápida y reutilizable.
+
 ## Conexiones
 
 - [[Moderna]]
@@ -54,5 +58,8 @@ Leido junto con [[Moderna]], [[CEPI]] y [[Fundacion Bill y Melinda Gates]], Banc
 - [[Fundacion Bill y Melinda Gates]]
 - [[World Health Organization]]
 - [[One Health]]
+- [[Digital ID - Global Protocol]]
+- [[Tratado de Pandemias OMS]]
+- [[00_MOC - Salud Global y Bioseguridad]]
 - [[WEF]]
 - [[Tecnocracia]]

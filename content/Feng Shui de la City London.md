@@ -1,23 +1,43 @@
 ---
+titulo: Feng Shui de la City London
+tipo: concepto
+fecha: 2026-04-27
+estado: activo
+aliases: ["Feng Shui De La City London"]
+tags: [city-of-london, feng-shui, urbanismo, simbolismo, tl-intel-v3]
+tier_primario: b
+nivel_evidencia: bajo
 publish: true
-created: 2026-02-25T22:08:54.454-03:00
-modified: 2026-04-07T11:14:47.187-03:00
-tags:
-  - city
-  - feng
-  - london
-  - shui
 ---
 
-# Feng Shui De La City London
+# Feng Shui de la City London
 
-> [!ABSTRACT] Hipótesis Informativa
-> Nodo perteneciente a la Matrix de Simbolismo y Esoterismo TL V.3.
+## BLUF
 
-## Análisis De Tiers
+Feng Shui de la City London es una lectura simbolica del distrito financiero londinense como espacio de flujos, puertas, torres, ejes y rituales de capital.
 
-_En desarrollo..._
+## Que es
 
-## Cui Bono
+No afirma que la City este diseñada literalmente bajo feng shui. Usa la idea de flujo espacial para leer como arquitectura financiera organiza movimiento, prestigio y percepcion de poder.
 
-_Pendiente de análisis forense._
+## Por que importa en TL
+
+- conecta finanzas, urbanismo y simbolismo de centro;
+- permite leer la City como maquina espacial del capital;
+- ayuda a separar analogia util de claim esoterico duro.
+
+## Lectura TL
+
+La City gobierna por flujos: dinero, abogados, seguros, datos, reputacion. Su espacio fisico traduce esa funcion en torres, clubes, iglesias y fronteras institucionales.
+
+## Conexiones
+
+- [[City of London_LEGACY|City of London]]
+- [[Banco de Inglaterra]]
+- [[Arquitectura de Bancos Centrales]]
+- [[El Mercurio de los Sabios]]
+- [[00_MOC - Control Financiero]]
+
+## Nivel de evidencia
+
+Bajo como feng shui literal. Medio como lectura urbanistico-financiera.

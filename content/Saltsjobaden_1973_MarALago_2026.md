@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-20T17:04:18.214-03:00
-modified: 2026-04-20T19:33:11.509-03:00
+modified: 2026-04-22T10:25:26.770-03:00
 tags:
   - saltsjobaden
   - mar-a-lago
@@ -42,10 +42,17 @@ En TL, la version actual ya no puede apoyarse solo en petroleo saudita y cautivi
 
 Su valor crece precisamente cuando se evita el error de decir "es lo mismo". No es el mismo tablero, pero si una misma familia de operaciones: usar crisis para rediseñar arquitectura financiera antes de que la ventana geopolitica se cierre.
 
+### 4. Serie corta ya implícita
+
+El patrón gana además una función editorial. Permite ordenar una pieza o serie `1973 -> 2026` sin caer en una teoría totalizante: primero ruptura del ancla, después solución histórica, y finalmente búsqueda de solución nueva bajo presión de deuda, rutas y rails.
+
 ## Con que conecta
 
 - [[Shock de Nixon]]
 - [[Sistema Petrodolar]]
+- [[Petrodolar]]
 - [[Reanclaje Hibrido]]
+- [[Desdolarizacion]]
+- [[Treasuries]]
 - [[Bilderberg]]
 - [[Camarilla Londres Wall Street]]

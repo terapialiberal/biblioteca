@@ -5,7 +5,7 @@ aliases:
   - Marina Abramović y el Spirit Cooking
   - Marina Abramovic y el Spirit Cooking
 created: 2026-01-29T19:17:37.682-03:00
-modified: 2026-04-18T17:40:53.276-03:00
+modified: 2026-04-18T17:40:46.763-03:00
 tags:
   - spirit-cooking
   - pizzagate

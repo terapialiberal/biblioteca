@@ -1,14 +1,12 @@
 ---
+titulo: Banca en la Sombra - El Sistema Financiero Paralelo
+tipo: alias
+fecha: 2026-04-18
+estado: activo
+reemplazado_por: "[[Banca en la Sombra]]"
+aliases: ["Shadow Banking"]
+tags: [alias, shadow-banking, liquidez, tl-intel-v3]
 publish: true
-aliases:
-  - Shadow Banking
-created: 2026-02-25T22:47:13.532-03:00
-modified: 2026-04-18T15:49:09.814-03:00
-tags:
-  - alias
-  - shadow-banking
-  - liquidez
-  - tl-intel-v3
 ---
 
 # Banca en la Sombra - El Sistema Financiero Paralelo

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-20T19:39:56.746-03:00
-modified: 2026-04-20T19:39:56.746-03:00
+modified: 2026-04-22T09:56:02.075-03:00
 tags:
   - china
   - taiwan
@@ -27,6 +27,8 @@ tags:
 
 La escalada de abril 2026 aparecia absorbida en materiales de produccion del stream sobre `Policrisis Abril 2026`, pero no tenia nodo propio en la base. Se crea para fijar la secuencia `Liaoning + ejercicios + distraccion EEUU` como objeto reusable y no dejarla enterrada en un caso mas amplio.
 
+El stream `ORDO AB CHAO! Nada es Accidental. Todo es GESTION DEL CAOS` agrega otro delta: Taiwan deja de leerse solo como foco militar o semiconductor y pasa a encajar mejor en una secuencia regional donde [[Estrecho de Malaca]] funciona como extensión logística del mismo problema.
+
 ## Que es
 
 China Taiwan Escalada 2026 nombra la fase de tension de abril 2026 en la que Beijing aumenta presion militar y simbolica sobre el estrecho de Taiwan mientras EEUU y sus aliados sostienen ejercicios en la region y Washington permanece cargado por crisis simultaneas en Medio Oriente y finanzas.
@@ -49,10 +51,16 @@ El nodo se vuelve mas legible cuando se conecta con la infraestructura material 
 
 En abril 2026 la escalada gana relevancia no solo por su contenido militar, sino porque entra en un sistema ya saturado. Energia, deuda, alimentos y plataformas estan bajo tension; por eso un movimiento en Taiwan ya no opera como crisis separada, sino como multiplicador de policrisis.
 
+### 5. Del estrecho a los chokepoints
+
+En TL, el nodo gana más fuerza cuando se conecta con la arquitectura de flujo asiática. Taiwan presiona el corazón tecnológico y militar del Indo-Pacífico; Malaca amenaza su respiración energética y logística. Leídos juntos, forman una secuencia más seria que el dossier taiwanés aislado.
+
 ## Con que conecta
 
 - [[Policrisis Sistemica]]
 - [[Pelosi en Taiwan]]
 - [[Estrecho de Ormuz]]
+- [[Estrecho de Malaca]]
+- [[Teoria del Rimland]]
 - [[Xi Jinping]]
 - [[TSMC]]

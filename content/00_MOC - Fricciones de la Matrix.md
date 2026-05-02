@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-01-29T19:17:02.562-03:00
-modified: 2026-04-21T12:02:51.839-03:00
+modified: 2026-04-29T14:44:31.435-03:00
 tags:
-  - "#moc"
-  - "#fricciones"
-  - "#fallas-del-sistema"
-  - "#resistencia"
-  - "#tl-intel-v3"
+  - moc
+  - fricciones
+  - fallas-del-sistema
+  - resistencia
+  - tl-intel-v3
 ---
 
 # MOC - Fricciones de la Matrix
@@ -26,7 +26,7 @@ tags:
 - [[Convoy de la Libertad (Canadá)]]
 - [[Chalecos Amarillos (Francia)]]
 - [[No Comply (Movimiento)]]
-- [[Homeschooling (Éxodo Educativo)]]
+- [[Homeschooling]]
 - [[Protestas en China (Zero COVID)]]
 - [[Paro del Campo 2008 (Argentina)]]
 
@@ -63,6 +63,7 @@ tags:
 - [[La Laptop de Hunter Biden]]
 - [[Russiagate (Trump-Rusia)]]
 - [[Great Barrington Declaration]]
+- [[Safe and Effective]]
 - [[Los Papeles de Pfizer]]
 - [[Cochrane Review sobre Mascarillas]]
 - [[Crisis de replicacion]]

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:06.407-03:00
-modified: 2026-04-19T12:38:36.042-03:00
+modified: 2026-04-22T16:33:06.265-03:00
 tags:
   - capitalismo-de-vigilancia
   - plataformas
@@ -41,6 +41,10 @@ En TL, el punto no es solo observar conductas. La verdadera potencia aparece cua
 
 Su relevancia crece cuando se observa que el modelo ya no sirve solo a anunciantes. También alimenta seguridad, reputación, segmentación política y administración del espacio público digital.
 
+### 4. Doctrina blanda del mismo stack
+
+En TL, la nota gana todavía más peso cuando se la conecta con [[Tecnocracia]] y [[00_MOC - Vigilancia Tecnica y SIGINT]]. Ahí el capitalismo de vigilancia deja de aparecer sólo como modelo de negocio de plataformas y pasa a leerse como capa doctrinal blanda del mismo régimen técnico de observación y modulación.
+
 ## Con que conecta
 
 - [[Google]]
@@ -49,3 +53,5 @@ Su relevancia crece cuando se observa que el modelo ya no sirve solo a anunciant
 - [[Nudge Theory]]
 - [[Gobernanza Digital]]
 - [[Cambridge Analytica]]
+- [[Tecnocracia]]
+- [[00_MOC - Vigilancia Tecnica y SIGINT]]

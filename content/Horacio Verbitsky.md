@@ -1,44 +1,62 @@
 ---
-titulo: Horacio Verbitsky
-tipo: "persona"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [horacio, lawfare, montoneros, verbitsky]
 publish: true
+created: 2026-01-29T19:17:17.425-03:00
+modified: 2026-04-24T11:09:55.826-03:00
+tags:
+  - horacio-verbitsky
+  - cels
+  - lawfare
+  - medios
+  - inteligencia
+  - argentina
+  - tl-intel-v3
 ---
 
 # Horacio Verbitsky
 
-## Perfil TL (Resumen Ejecutivo)
+> [!abstract] PERFIL TL-INTEL
+> [[Horacio Verbitsky]] importa en TL como operador de frontera entre periodismo, derechos humanos, archivo politico, justicia y servicios. Su valor no esta en una biografia escandalosa aislada, sino en mostrar como una figura civil puede acumular poder duradero sobre legitimidad, denuncia y disciplina institucional.
 
-**¿Quién es?** Periodista, escritor y expresidente del CELS. Fue el jefe de inteligencia de la organización guerrillera Montoneros y es el principal operador intelectual del kirchnerismo en temas de justicia y derechos humanos.
+## Que es
 
-**¿Por qué importa?** Horacio Verbitsky es el **"Doble Agente Permanente" de Tier B en Argentina**. Su importancia radica en su capacidad para sobrevivir a todas las eras del poder, supuestamente debido a su rol como informante o colaborador en las sombras. Existen pruebas documentadas (como el libro _Double Agente_ de Gabriel Levinas) de que Verbitsky colaboró con la Fuerza Aérea durante la dictadura militar, escribiendo discursos para los jerarcas, mientras sus compañeros de militancia desaparecían. En la era democrática, capturó la bandera de los DDHH a través del **CELS**, utilizándola como un arma de **[[Lawfare]]** para perseguir opositores y proteger a los propios. Verbitsky no es un periodista; es una terminal de servicios de inteligencia que utiliza la pluma para ejecutar operaciones de demolición política.
+Horacio Verbitsky es periodista, escritor y figura historica del [[CELS]]. En TL interesa como actor de larga duracion dentro del sistema argentino: una interfaz entre memoria politica, litigio, periodismo de investigacion y operaciones de influencia sobre justicia, inteligencia y opinion publica.
 
-## Análisis De Poder (Tiers)
+## Por que importa en TL
 
-### Tier A (Los Dueños De La Memoria Selectiva)
+- conecta [[CELS]], medios, sistema judicial y redes de informacion sensible;
+- ayuda a leer como el discurso de derechos humanos puede volverse tambien palanca de intervencion politico-institucional;
+- sirve como nodo visible del corredor `periodismo / DDHH / lawfare / archivo / poder informal`.
 
-- **Control del Pasado:** El Tier A político utiliza a Verbitsky para reescribir la historia de los 70, eliminando la responsabilidad de la guerrilla y convirtiendo el dolor de las víctimas en una herramienta de acumulación de poder actual.
+## Mecanismos de poder
 
-### Tier B (Operadores / Inteligencia Y El CELS)
+### 1. Prestigio como cobertura operativa
 
-- **El CELS como Ministerio de Justicia Paralelo:** Bajo Verbitsky, el CELS se convirtió en una agencia de Tier B que digita nombramientos de jueces y fiscales, presionando a organismos internacionales para intervenir en la soberanía argentina en favor de la impunidad de la casta K.
-- **Vacunatorio VIP:** Su rol en el escándalo de las vacunas (donde "confesó" haberse vacunado por ser amigo del ministro) fue una operación de Tier B diseñada para voltear a Ginés González García en favor de La Cámpora, demostrando que Verbitsky prioriza la interna del poder por sobre cualquier lealtad personal.
+Verbitsky importa porque combina reputacion moral, archivo, acceso a fuentes y capacidad de daño simbolico. Eso le permite intervenir sobre conflictos de poder sin ocupar necesariamente cargos estatales.
 
-### Tier C (Narrativa Pública)
+### 2. Informacion convertida en presion
 
-- "El perro tutor de la ética periodística". "Defensor incansable de los derechos humanos". Narrativas de Tier B proyectadas al Tier C progresista, que lo ve como un faro de verdad, ignorando su pasado oscuro en la inteligencia armada y su rol como comisario político del sistema que dice combatir.
+Su relevancia crece cuando se observa que, en sistemas politicos opacos, el valor no esta solo en publicar. Tambien esta en saber que guardar, cuando filtrar y a quien erosionar.
 
-## Conexiones Clave
+### 3. ONG, periodismo y justicia como ecosistema
 
-- [[Montoneros]] (Su origen activo)
-- [[CELS]] (Su base de operaciones civil)
-- [[Cristina Kirchner]] (Sus clientes politicos)
-- [[Lawfare]] (Su especialidad tecnica)
+En TL, el nodo rinde mas cuando se lo lee junto con [[CELS]], [[Lawfare]] y [[Jueces Federales de Comodoro Py]]. Ahi deja de ser una firma periodistica y pasa a ser pieza de un corredor mas amplio de legitimacion y arbitraje.
 
-## Por Qué Importa (Estilo Nico)
+## Que cambio
 
-> "Verbitsky es el tipo que siempre cae parado. Fue el jefe de espías de los Montoneros, pero mientras a los pibes de abajo los mataban, él le escribía los discursos a los jefes de la dictadura. Es el dueño de la 'moral' en Argentina: él decide quién es bueno y quién es malo usando los derechos humanos como si fueran un garrote para pegarle a los que no le gustan. Se hace el periodista independiente, pero es una antena del poder que te tira una carpeta cuando necesitás voltear a un ministro. Es un operador de pura cepa que vive de los secretos de los demás. En Argentina, si querés ser juez, primero tenés que ver si al Perro le cae bien tu cara."
+La nota venia en formato panfletario y demasiado cerrada, con una sola lectura totalizante. Se recompila como perfil reusable para fijar mejor su funcion estructural dentro del corredor argentino de justicia, medios e inteligencia.
+
+## Como leerlo en TL
+
+- junto con [[CELS]] para separar actor y plataforma institucional;
+- junto con [[Lawfare]] y [[Jueces Federales de Comodoro Py]] para ubicar su papel en el frente juridico-mediatico;
+- junto con [[AFI]] cuando interese seguir la zona gris entre informacion, servicios y daño reputacional.
+
+## Con que conecta
+
+- [[CELS]]
+- [[Lawfare]]
+- [[Jueces Federales de Comodoro Py]]
+- [[AFI]]
+- [[Cristina Kirchner]]
+- [[Pagina 12]]
+- [[00_MOC - Medios y Legitimacion]]

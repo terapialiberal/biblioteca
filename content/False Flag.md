@@ -21,7 +21,7 @@ publish: true
 
 ### Tier A (Los Arquitectos Del Evento Profundo)
 
-- **Ingeniería de Shock:** El Tier A utiliza eventos de Bandera Falsa para lograr saltos cuánticos en su agenda de control. El **[[Incidente del Golfo de Tonkin]]** (que fue una invención total) permitió al Tier A lanzar la Guerra de Vietnam, enriqueciendo al complejo militar-industrial durante una década.
+- **Ingeniería de Shock:** El Tier A utiliza eventos de Bandera Falsa para lograr saltos cuánticos en su agenda de control. El **[[Golfo de Tonkin|Incidente del Golfo de Tonkin]]** (que fue una invención total) permitió al Tier A lanzar la Guerra de Vietnam, enriqueciendo al complejo militar-industrial durante una década.
 - **Negación Plausible:** Estas operaciones se compartimentalizan de tal forma que los ejecutores materiales a menudo creen estar haciendo algo distinto, mientras que la cúpula de inteligencia borra las huellas en tiempo real.
 
 ### Tier B (Operadores / Inteligencia Y Medios)

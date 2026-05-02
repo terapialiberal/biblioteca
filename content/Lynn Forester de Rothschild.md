@@ -3,7 +3,7 @@ publish: true
 aliases:
   - "Lynn Forester De Rothschild: El Puente Entre El Capital Y La Politica"
 created: 2026-01-29T19:17:23.180-03:00
-modified: 2026-04-18T18:24:50.527-03:00
+modified: 2026-04-18T18:24:42.890-03:00
 tags:
   - lynn-forester
   - rothschild

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-25T22:08:56.414-03:00
-modified: 2026-04-17T14:27:24.930-03:00
+modified: 2026-04-22T09:34:55.012-03:00
 tags:
   - vigilancia-predictiva
   - pre-crimen
@@ -27,6 +27,8 @@ tags:
 
 La nota estaba útil pero todavía en formato viejo y demasiado encapsulada en jerga de “pre-crimen”. Se recompiló como nodo más modular y reusable.
 
+El stream `ORDO AB CHAO! Nada es Accidental. Todo es GESTION DEL CAOS` suma un delta preciso: la vigilancia predictiva se vuelve más vendible cuando crisis múltiples, volatilidad y fatiga social instalan la idea de que intervenir antes es más racional que esperar el daño. La anticipación deja de parecer abuso y empieza a presentarse como prudencia.
+
 ## Lectura TL
 
 ### 1. Del crimen al riesgo
@@ -45,6 +47,14 @@ Aunque el algoritmo “solo” asista, la existencia misma de scoring invisible 
 
 En TL, el nodo se vuelve más legible cuando se conecta con plataformas concretas como [[Palantir]], en vez de quedar solo como abstracción.
 
+### 5. Del riesgo individual al entorno saturado
+
+Este nodo importa más cuando el riesgo ya no se asocia solo a un sospechoso puntual, sino a sistemas enteros bajo stress: protestas, cuellos logísticos, fraude digital, conflicto, energía o desinformación. Ahí la vigilancia predictiva puede escalar desde seguridad a gobernanza general.
+
+### 6. Anticipacion como legitimacion del mando
+
+La promesa no es simplemente saber más. Es actuar antes. En TL, esa lógica importa porque naturaliza intervención temprana, restricción preventiva y administración de perfiles aun sin infracción comprobada.
+
 ## Conexiones
 
 - [[Gobernanza Algoritmica]]
@@ -52,3 +62,5 @@ En TL, el nodo se vuelve más legible cuando se conecta con plataformas concreta
 - [[Palantir AIP]]
 - [[In-Q-Tel]]
 - [[Tecnocracia]]
+- [[Social Credit West]]
+- [[Policrisis Sistemica]]

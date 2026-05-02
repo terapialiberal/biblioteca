@@ -36,7 +36,7 @@ publish: true
 
 - [[Club de Roma / Límites al Crecimiento]] (Misma ideología)
 - [[Rosacruces / Sociedades Secretas]] (Su origen esotérico)
-- [[Despoblación / Agenda 2030]] (Su implementación moderna)
+- [[Despoblación y Agenda 2030]] (Su implementación moderna)
 - [[Eugenesia]] (Su base científica de Tier A)
 
 ## Por Qué Importa (Estilo Nico)

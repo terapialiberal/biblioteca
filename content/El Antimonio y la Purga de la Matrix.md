@@ -1,22 +1,43 @@
 ---
+titulo: El Antimonio y la Purga de la Matrix
+tipo: concepto
+fecha: 2026-04-27
+estado: activo
+aliases: ["El Antimonio Y La Purga De La Matrix"]
+tags: [antimonio, alquimia, purga, matrix, tl-intel-v3]
+tier_primario: c
+nivel_evidencia: medio
 publish: true
-created: 2026-02-25T22:08:53.999-03:00
-modified: 2026-04-07T11:14:43.994-03:00
-tags:
-  - antimonio
-  - matrix
-  - purga
 ---
 
-# El Antimonio Y La Purga De La Matrix
+# El Antimonio y la Purga de la Matrix
 
-> [!ABSTRACT] Hipótesis Informativa
-> Nodo perteneciente a la Matrix de Simbolismo y Esoterismo TL V.3.
+## BLUF
 
-## Análisis De Tiers
+El Antimonio y la Purga de la Matrix usa una imagen alquimica para leer procesos de expulsion, limpieza simbolica y ruptura con un orden percibido como falso.
 
-_En desarrollo..._
+## Que es
 
-## Cui Bono
+En alquimia, sustancias como el antimonio fueron asociadas a purificacion y transformacion. En TL el nodo funciona como metafora, no como quimica politica literal.
 
-_Pendiente de análisis forense._
+## Por que importa en TL
+
+- conecta purga, crisis, iniciacion y narrativa anti-sistema;
+- permite leer discursos que prometen limpieza total;
+- advierte contra esteticas de purificacion que terminan justificando violencia.
+
+## Lectura TL
+
+Toda purga promete liberar. El riesgo es que la limpieza se vuelva tecnologia de obediencia: definir impureza, expulsar disenso y crear un nuevo dogma.
+
+## Conexiones
+
+- [[El Vitriol]]
+- [[Spagyria]]
+- [[Iniciacion Traumatica]]
+- [[The Matrix]]
+- [[00_MOC - Simbolismo y Esoterismo]]
+
+## Nivel de evidencia
+
+Medio como metafora alquimica. Bajo como claim causal moderno.

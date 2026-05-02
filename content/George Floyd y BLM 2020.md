@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:15.107-03:00
-modified: 2026-04-18T11:05:10.698-03:00
+modified: 2026-04-29T14:44:32.892-03:00
 tags:
   - george-floyd
   - blm
@@ -43,13 +43,13 @@ Su peso crece cuando la consigna moral vuelve casi imposible separar justicia co
 
 ### 4. Nodo cultural del ciclo 2020
 
-Leído junto con [[Fundacion Ford]], [[Open Society]], [[Ideología Woke]] y [[Elecciones EE.UU. 2020]], el ciclo BLM ayuda a pensar la mutación simultánea de calle, medios, empresas y burocracia.
+Leído junto con [[Fundacion Ford]], [[Open Society]], [[Ideologia Woke]] y [[Elecciones EE.UU. 2020]], el ciclo BLM ayuda a pensar la mutación simultánea de calle, medios, empresas y burocracia.
 
 ## Conexiones
 
 - [[Fundacion Ford]]
 - [[Open Society]]
-- [[Ideología Woke]]
+- [[Ideologia Woke]]
 - [[Elecciones EE.UU. 2020]]
 - [[Gaslighting]]
 - [[Black Lives Matter]]

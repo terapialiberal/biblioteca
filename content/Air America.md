@@ -3,14 +3,14 @@ publish: true
 aliases:
   - Air America (La Aerolínea De La CIA)
 created: 2026-01-29T19:17:03.096-03:00
-modified: 2026-04-21T12:36:48.131-03:00
+modified: 2026-04-22T11:59:01.430-03:00
 tags:
-  - "#air-america"
-  - "#cia"
-  - "#logistica-encubierta"
-  - "#sudeste-asiatico"
-  - "#narcotrafico"
-  - "#tl-intel-v3"
+  - air-america
+  - cia
+  - logistica-encubierta
+  - sudeste-asiatico
+  - narcotrafico
+  - tl-intel-v3
 ---
 
 # Air America
@@ -47,6 +47,10 @@ En TL, este nodo vale por cómo mezcla ayuda, transporte, operaciones especiales
 
 La utilidad analítica aparece cuando se observa cómo estructuras aparentemente privadas pueden actuar como brazos tercerizados o negables del Estado profundo.
 
+### 4. Logistica como capa oculta del aparato
+
+Leida junto con [[CIA]] y [[Club Safari]], la nota gana más fuerza porque muestra que la negación plausible no depende solo de operadores políticos o militares, sino también de infraestructuras capaces de mover personas, insumos y circuitos opacos bajo cobertura comercial.
+
 ## Con que conecta
 
 - [[CIA]]
@@ -55,3 +59,5 @@ La utilidad analítica aparece cuando se observa cómo estructuras aparentemente
 - [[Evergreen (CIA)]]
 - [[Operacion Phoenix]]
 - [[00_MOC - Operaciones Encubiertas]]
+- [[Club Safari]]
+- [[00_MOC - Inteligencia Clasica y Operaciones Historicas]]

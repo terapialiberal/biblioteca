@@ -1,21 +1,45 @@
 ---
 publish: true
+aliases:
+  - Vórtices Energéticos
 created: 2026-02-25T22:08:51.508-03:00
-modified: 2026-04-07T11:15:23.001-03:00
+modified: 2026-04-27T10:52:14.975-03:00
 tags:
-  - energticos
-  - vrtices
+  - vortices-energeticos
+  - lugar-sagrado
+  - turismo-esoterico
+  - simbolismo
+  - tl-intel-v3
 ---
 
-# Vórtices Energéticos
+# Vortices Energeticos
 
-> [!ABSTRACT] Hipótesis Informativa
-> Nodo perteneciente a la Matrix de Simbolismo y Esoterismo TL V.2.
+## BLUF
 
-## Análisis De Tiers
+Vortices Energeticos es un nodo sobre lugares interpretados como puntos de energia, portal o intensidad espiritual. TL los trata como fenomeno cultural y turistico-esoterico, no como hecho fisico demostrado.
 
-_En desarrollo..._
+## Que es
 
-## Cui Bono
+El concepto aparece en relatos New Age, turismo espiritual y geografia sagrada. Sitios naturales o arquitectonicos se convierten en lugares de peregrinacion por su supuesta carga energetica.
 
-_Pendiente de análisis forense._
+## Por que importa en TL
+
+- conecta territorio, mito, turismo, identidad y mercantilizacion de lo sagrado;
+- ayuda a leer como un lugar adquiere poder narrativo;
+- separa experiencia subjetiva de evidencia fisica.
+
+## Lectura TL
+
+El vortice importa aunque no sea medible: organiza flujo de personas, dinero, reputacion y sentido. La pregunta TL es que red economica o cultural se construye alrededor del lugar.
+
+## Conexiones
+
+- [[Geometria Sagrada]]
+- [[El Laberinto de Chartres]]
+- [[Construcciones Megaliticas]]
+- [[La Luna y Mareas Mentales]]
+- [[00_MOC - Simbolismo y Esoterismo]]
+
+## Nivel de evidencia
+
+Bajo para claims fisicos extraordinarios. Medio como fenomeno cultural y economico.

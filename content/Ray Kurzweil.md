@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:32.596-03:00
-modified: 2026-04-18T18:34:50.221-03:00
+modified: 2026-04-18T18:34:45.156-03:00
 tags:
   - ray-kurzweil
   - transhumanismo

@@ -3,14 +3,14 @@ publish: true
 aliases:
   - Proteína de Insectos
 created: 2026-01-29T19:17:31.930-03:00
-modified: 2026-04-21T11:41:59.308-03:00
+modified: 2026-04-21T11:42:06.421-03:00
 tags:
-  - "#proteina-de-insectos"
-  - "#alimentacion"
-  - "#dieta"
-  - "#agroindustria"
-  - "#sostenibilidad"
-  - "#tl-intel-v3"
+  - proteina-de-insectos
+  - alimentacion
+  - dieta
+  - agroindustria
+  - sostenibilidad
+  - tl-intel-v3
 ---
 
 # Proteina de Insectos

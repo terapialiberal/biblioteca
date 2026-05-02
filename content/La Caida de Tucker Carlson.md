@@ -1,12 +1,12 @@
 ---
+titulo: "La Caída De Tucker Carlson: La Amputación De La Verdad Rentable"
+tipo: "concepto"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [blackrock, carlson, cada, vanguard]
 publish: true
-created: 2026-01-29T19:17:21.103-03:00
-modified: 2026-04-20T19:37:22.483-03:00
-tags:
-  - blackrock
-  - carlson
-  - cada
-  - vanguard
 ---
 
 # La Caída De Tucker Carlson: La Amputación De La Verdad Rentable
@@ -40,7 +40,7 @@ tags:
 ## Conexiones Críticas
 
 - [[Rupert Murdoch]]: El ejecutor táctico de las órdenes de Tier A.
-- [[BlackRock / Vanguard]]: Los controladores de la sombra detrás del directorio de Fox.
+- [[BlackRock - Vanguard - State Street]]: Los controladores de la sombra detrás del directorio de Fox.
 - [[Complejo Militar-Industrial]]: El sector que proporcionó la presión de "Seguridad Nacional" para su remoción.
 - [[Elon Musk / X]]: El facilitador de la nueva fase de Carlson fuera del control corporativo.
 - [[Vladimir Putin]]: La entrevista que confirmó el estatus de Tucker como un diplomático de información independiente fuera de la Matrix.

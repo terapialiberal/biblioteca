@@ -1,45 +1,27 @@
 ---
-titulo: Xi Jinping
-tipo: "persona"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [jinping, partido]
 publish: true
+aliases:
+  - Xi
+created: 2026-01-29T19:17:44.717-03:00
+modified: 2026-05-02T12:58:38.844-03:00
+tags:
+  - xi-jinping
+  - china
+  - partido-comunista-chino
+  - tl-intel-v3
 ---
 
 # Xi Jinping
 
-> [!INFO] Perfil Operativo (Tier A)
-> **Resumen:** Líder supremo de China. El hombre más poderoso del mundo (por población controlada).
-> **Función Real:** Dictador de facto que consolidó poder más que nadie desde Mao.
+[[Xi Jinping]] importa en TL como figura de centralización china: Partido, Estado, tecnología, BRI, disciplina interna y competencia con Estados Unidos.
 
-## Biografía
+## Lectura TL
 
-Xi Jinping es Presidente de China y Secretario General del PCC desde 2012.
+Xi expresa el pasaje de China desde integración global pragmática hacia poder más afirmativo, con control interno fuerte y ambición de rediseñar dependencia exterior.
 
-Ha consolidado poder de forma única:
+## Conecta
 
-- Eliminó límites de término (puede gobernar de por vida)
-- Purgas anticorrupción eliminaron rivales
-- "Pensamiento Xi Jinping" en la constitución
-- Control de PLA y economía
-
-## Políticas
-
-- Belt and Road Initiative
-- Made in China 2025
-- Represión de Xinjiang
-- Amenazas a Taiwán
-
-## Conexiones
-
-- [[00_Glosario - Conceptos Fase 1#Partido Comunista Chino|Partido Comunista Chino]]
-- BRICS
-- Competencia con EEUU
-
-## Fuentes
-
-- Análisis geopolíticos
-- "The Third Revolution" (Economy)
+- [[China]]
+- BRI
+- [[Sistema CIPS]]
+- [[Mar del Sur de China]]

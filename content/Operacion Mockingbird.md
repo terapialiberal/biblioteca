@@ -3,7 +3,7 @@ publish: true
 aliases:
   - "Operacion Mockingbird: El Eco-Camara De La Matrix"
 created: 2026-01-29T19:17:28.682-03:00
-modified: 2026-04-18T18:28:12.692-03:00
+modified: 2026-04-22T11:33:57.441-03:00
 tags:
   - mockingbird
   - cia
@@ -35,6 +35,8 @@ Mockingbird importa porque desplaza la pregunta desde "qué noticia es falsa" ha
 
 En TL, el nodo vale tanto por su historicidad como por su potencia comparativa para leer medios, fact-checking y complejos actuales de legitimación.
 
+Leida junto con [[CIA]] y [[Comite Church]], la nota también sirve para fijar una genealogía: la guerra cognitiva contemporánea no nace con redes sociales ni plataformas, sino que hereda repertorios más viejos de alineación mediática e inteligencia.
+
 ## Con qué conecta
 
 - [[CIA]]
@@ -42,3 +44,5 @@ En TL, el nodo vale tanto por su historicidad como por su potencia comparativa p
 - [[Narrativa Unica]]
 - [[Ley Smith-Mundt Modernizada]]
 - [[Edward Bernays]]
+- [[OSS]]
+- [[00_MOC - Inteligencia Clasica y Operaciones Historicas]]

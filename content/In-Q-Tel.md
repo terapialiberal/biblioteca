@@ -4,7 +4,7 @@ aliases:
   - In Q Tel
   - IQT
 created: 2026-01-29T19:17:18.111-03:00
-modified: 2026-04-20T09:58:34.200-03:00
+modified: 2026-04-24T10:28:48.455-03:00
 tags:
   - in-q-tel
   - cia
@@ -49,10 +49,18 @@ Su relevancia crece al mostrar que la innovacion tecnologica no siempre sigue un
 
 In-Q-Tel sirve para mapear genealogias: que empresas, stacks y fundadores quedan mejor posicionados cuando el criterio de adopcion ya no es solo mercado sino compatibilidad con inteligencia, defensa y gobierno tecnico.
 
+### 5. Incubadora del stack
+
+La nota rinde todavía más cuando se la conecta con [[Palantir]], [[Anduril Industries]] y [[00_MOC - Vigilancia Tecnica y SIGINT]]. Ahí In-Q-Tel deja de ser solo venture ligado a inteligencia y pasa a aparecer como mecanismo de precaptura de herramientas que luego estructuran vigilancia, defensa y mando.
+
 ## Con que conecta
 
 - [[Palantir]]
+- [[Anduril Industries]]
 - [[Peter Thiel]]
+- [[Project Nimbus]]
+- [[Clearview AI]]
 - [[Gobernanza Algoritmica]]
 - [[Vigilancia Predictiva]]
 - [[CIA]]
+- [[00_MOC - Vigilancia Tecnica y SIGINT]]

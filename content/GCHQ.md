@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:14.868-03:00
-modified: 2026-04-19T12:55:18.573-03:00
+modified: 2026-04-22T16:15:35.821-03:00
 tags:
   - gchq
   - five-eyes
@@ -41,11 +41,18 @@ En TL, su relevancia aumenta cuando se observa que buena parte de su ventaja pro
 
 Su utilidad analítica aparece al mostrar cómo agencias aliadas pueden compartir datos y funciones de forma que cada una esquive parcialmente sus restricciones domésticas.
 
+### 4. Socio tecnico del reparto anglofono
+
+La nota gana más fuerza cuando se la conecta con [[Five Eyes]], [[PRISM (Programa)]] y [[ECHELON]]. Ahí GCHQ deja de ser sólo agencia británica y pasa a aparecer como socio técnico del reparto de captura y análisis dentro del bloque aliado.
+
 ## Con que conecta
 
 - [[Five Eyes]]
 - [[Agencia de Seguridad Nacional]]
 - [[Edward Snowden]]
 - [[Red Echelon]]
+- [[PRISM (Programa)]]
+- [[ECHELON]]
 - [[Vigilancia Masiva]]
 - [[XKeyscore]]
+- [[00_MOC - Tecnologia de Control]]

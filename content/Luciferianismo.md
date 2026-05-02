@@ -3,7 +3,7 @@ publish: true
 aliases:
   - "Luciferianismo: El Inversionismo Moral De La Elite"
 created: 2026-01-29T19:17:23.058-03:00
-modified: 2026-04-18T18:24:50.475-03:00
+modified: 2026-04-18T18:24:42.765-03:00
 tags:
   - luciferianismo
   - esoterismo

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:26.302-03:00
-modified: 2026-04-07T11:15:04.057-03:00
+modified: 2026-05-02T18:25:48.673-03:00
 tags:
   - gobernanza
   - naciones
@@ -23,7 +23,7 @@ tags:
 
 ### Tier B: Los Gestores De La Normativa
 
-- **Las Agencias Especializadas (OMS, FMI, Banco Mundial):** Operan como los ministerios del gobierno global. La [[Organización Mundial de la Salud|OMS (Organización Mundial de la Salud)]] gestiona la biopolítica, mientras que la UNESCO gestiona la reingeniería cultural y educativa. Su rol es transformar las agendas del Tier A en normativas técnicas imposibles de cuestionar por el Tier C.
+- **Las Agencias Especializadas (OMS, FMI, Banco Mundial):** Operan como los ministerios del gobierno global. La [[World Health Organization|OMS (Organización Mundial de la Salud)]] gestiona la biopolítica, mientras que la UNESCO gestiona la reingeniería cultural y educativa. Su rol es transformar las agendas del Tier A en normativas técnicas imposibles de cuestionar por el Tier C.
 - **Burocracia Internacional:** Una casta de funcionarios no electos que gozan de inmunidad diplomática y cuyos salarios dependen de la perpetuación de crisis globales que solo ellos dicen poder "gestionar".
 
 ### Tier C: La Población Administrada
@@ -39,7 +39,7 @@ tags:
 ## Conexiones Críticas
 
 - [[Agenda 2030]]: El mapa de ruta para el cercamiento de los bienes comunes.
-- [[Organización Mundial de la Salud|OMS (Organización Mundial de la Salud)]]: El brazo ejecutor de la tiranía médica.
+- [[World Health Organization|OMS (Organización Mundial de la Salud)]]: El brazo ejecutor de la tiranía médica.
 - [[Gran Reset (Great Reset)]]: La convergencia estratégica entre la ONU y el [[WEF]].
 - [[Lucis Trust]]: El trasfondo filosófico/esotérico de la reingeniería moral de la ONU.
 - [[UNESCO]]: El laboratorio para la homogeneización educativa y cultural global.

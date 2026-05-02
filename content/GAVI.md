@@ -6,7 +6,7 @@ aliases:
   - Gavi
   - Gavi (Alianza para las Vacunas)
 created: 2026-02-25T15:49:09.103-03:00
-modified: 2026-04-17T17:01:25.796-03:00
+modified: 2026-04-22T15:41:36.865-03:00
 tags:
   - gavi
   - vacunas
@@ -50,11 +50,18 @@ El salto relevante aparece cuando la entrega de salud empieza a acoplarse con in
 
 Leída junto con [[World Health Organization]] y [[Tratado de Pandemias OMS]], GAVI representa la capa logística y comercial del mismo ecosistema de gobernanza sanitaria.
 
+### 5. Del brazo logistico al vector de adopcion
+
+En TL, GAVI gana densidad cuando se la lee no solo como distribuidor, sino como vector de adopción: si vacunas, elegibilidad y registro convergen, la logística sanitaria empieza a parecerse a una infraestructura de identificación y acceso.
+
 ## Conexiones
 
 - [[World Health Organization]]
 - [[Tratado de Pandemias OMS]]
 - [[Pasaportes de Vacuna]]
 - [[ID2020]]
+- [[CEPI]]
+- [[Wellcome Trust]]
+- [[Fundacion Bill y Melinda Gates]]
 - [[Bill Gates]]
 - [[Tecnocracia]]

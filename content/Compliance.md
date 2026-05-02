@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2026-04-21T13:16:51.567-03:00
-modified: 2026-04-21T13:17:47.699-03:00
+modified: 2026-04-22T11:04:52.467-03:00
 tags:
-  - "#compliance"
-  - "#cumplimiento"
-  - "#regulacion"
-  - "#burocracia"
-  - "#control"
-  - "#tl-intel-v3"
+  - compliance
+  - cumplimiento
+  - regulacion
+  - burocracia
+  - control
+  - tl-intel-v3
 ---
 
 # Compliance
@@ -41,6 +41,10 @@ En TL, su relevancia crece cuando se observa que el cumplimiento puede servir ta
 
 También sirve para leer el pasaje desde norma legal a dashboard, scoring, filtro algorítmico y trazabilidad total.
 
+### 4. Cumplimiento como cartelizacion suave
+
+En TL, el compliance importa también porque puede transformar la regulación en barrera operativa. Cuando el costo de cumplir sube y la trazabilidad se vuelve obligatoria, los actores grandes consolidan ventaja y el corredor de [[Captura Regulatoria]] gana profundidad material.
+
 ## Con que conecta
 
 - [[Captura Regulatoria]]
@@ -48,4 +52,5 @@ También sirve para leer el pasaje desde norma legal a dashboard, scoring, filtr
 - [[Teoria del Empujon]]
 - [[Gobernanza Algoritmica]]
 - [[Puerta Giratoria]]
+- [[Rent-Seeking]]
 - [[00_MOC - Captura Regulatoria y Puertas Giratorias]]

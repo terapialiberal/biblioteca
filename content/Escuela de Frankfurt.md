@@ -38,7 +38,7 @@ publish: true
 - [[Instituto Tavistock]] (La aplicación práctica de la desmoralización)
 - [[Corrección Política]] (Su principal herramienta de control)
 - [[Gramsci / Hegemonía Cultural]] (Su precursor intelectual)
-- [[Ideología de Género]] (Una de sus derivaciones más potentes)
+- [[Ideologia de Genero]] (Una de sus derivaciones más potentes)
 
 ## Fuentes
 

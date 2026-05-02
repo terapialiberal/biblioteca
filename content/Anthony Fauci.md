@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:03.600-03:00
-modified: 2026-04-19T12:59:20.298-03:00
+modified: 2026-04-22T16:03:10.263-03:00
 tags:
   - anthony-fauci
   - niaid
@@ -41,11 +41,20 @@ En TL, su relevancia crece cuando se observa que la “ciencia” institucional 
 
 Su utilidad aparece al mostrar cómo una figura técnica puede convertirse en interfaz entre aparato estatal, industria farmacéutica, medios y población.
 
+### 4. Operador de cierre narrativo
+
+En TL, Fauci gana más peso cuando se lo conecta con [[World Health Organization]], [[Bioseguridad]] y [[Peter Daszak]]. Ahí deja de ser solo funcionario sanitario y pasa a aparecer como operador capaz de soldar financiamiento, legitimación experta y administración del margen de debate.
+
 ## Con que conecta
 
 - [[Pfizer]]
 - [[NIAID]]
 - [[NIH]]
 - [[One Health]]
+- [[World Health Organization]]
+- [[Peter Daszak]]
+- [[EcoHealth Alliance]]
 - [[Bioseguridad]]
+- [[Vigilancia Biologica]]
+- [[00_MOC - Salud Global y Bioseguridad]]
 - [[Great Barrington Declaration]]

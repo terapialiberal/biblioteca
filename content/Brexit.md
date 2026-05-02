@@ -1,44 +1,28 @@
 ---
-titulo: Brexit
-tipo: "concepto"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [brexit, cambridge, dominic]
 publish: true
+aliases:
+  - Brexit (Salida del Reino Unido de la UE)
+created: 2026-01-29T19:17:05.830-03:00
+modified: 2026-05-02T12:58:37.874-03:00
+tags:
+  - brexit
+  - reino-unido
+  - ue
+  - soberania
+  - tl-intel-v3
 ---
 
 # Brexit
 
-> [!INFO] Contexto
-> Reino Unido votó por salir de la Unión Europea.
+[[Brexit]] importa en TL como ruptura política entre Reino Unido y Unión Europea, leída como síntoma de tensión entre soberanía nacional, integración tecnocrática y globalización.
 
-## Qué Pasó
+## Lectura TL
 
-El 23 de junio de 2016, el Reino Unido votó 52%-48% por dejar la UE.
+Brexit no fue solo voto anti-UE. Fue una fractura entre City, periferias desindustrializadas, migración, identidad y control regulatorio.
 
-Salida efectiva: 31 de enero de 2020.
+## Conecta
 
-## Interpretaciones
-
-**Perspectiva Establishment:** Populismo, desinformación rusa, error.
-
-**Perspectiva Alternativa:** Rechazo a pérdida de soberanía, inmigración masiva, tecnocracia de Bruselas.
-
-## Controversias
-
-- Campaña Leave acusada de financiamiento illegal
-- [[Cambridge Analytica]] involucrada
-- Dinero de fuentes opacas
-
-## Conexiones
-
-- [[Cambridge Analytica]]
-- [[Dominic Cummings]] (estratega de Leave)
-- [[Steve Bannon]] (conexiones)
-
-## Fuentes
-
-- Electoral Commission UK
-- Investigaciones sobre Cambridge Analytica
+- [[UK]]
+- [[UE]]
+- [[City de Londres]]
+- globalización

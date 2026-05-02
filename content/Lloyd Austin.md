@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-19T13:28:18.817-03:00
-modified: 2026-04-19T13:28:18.817-03:00
+modified: 2026-04-19T13:28:19.356-03:00
 tags:
   - lloyd-austin
   - pentagono

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:42.794-03:00
-modified: 2026-04-17T13:46:26.559-03:00
+modified: 2026-04-27T11:15:43.343-03:00
 tags:
   - vanguard
   - state-street
@@ -16,6 +16,6 @@ Nota puente para una pareja recurrente dentro de la triada de gestores.
 
 Para lectura principal:
 
-- [[Grupo Vanguard (Vanguard Group)]]
+- [[Grupo Vanguard]]
 - [[State Street]]
 - [[BlackRock - Vanguard - State Street]]

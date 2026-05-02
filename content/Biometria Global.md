@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Biometría Global
 created: 2026-01-29T19:17:05.419-03:00
-modified: 2026-04-17T16:28:36.316-03:00
+modified: 2026-04-22T16:54:54.693-03:00
 tags:
   - biometria
   - reconocimiento-facial
@@ -47,6 +47,14 @@ Aeropuertos, teléfonos, onboarding bancario, vigilancia urbana y plataformas di
 
 Leída junto con [[ID2020]], [[Worldcoin]] y [[Digital ID - Global Protocol]], la biometría aparece como la base material del wallet de permisos y del scoring de acceso.
 
+### 5. La credencial que no se puede dejar en casa
+
+La biometria gana centralidad porque convierte al propio cuerpo en token de autenticacion. Eso reduce margen de anonimato, de delegacion y de salida una vez que la infraestructura queda normalizada.
+
+### 6. Del sensor al permiso
+
+En TL, el salto clave aparece cuando rostro, iris o huella dejan de ser prueba puntual y pasan a alimentar decisiones de acceso, riesgo, prioridad o exclusion dentro del mismo stack.
+
 ## Conexiones
 
 - [[Digital ID - Global Protocol]]
@@ -56,3 +64,5 @@ Leída junto con [[ID2020]], [[Worldcoin]] y [[Digital ID - Global Protocol]], l
 - [[CBDC]]
 - [[Gobernanza Algoritmica]]
 - [[Tecnocracia]]
+- [[Bio-Identidad Digital]]
+- [[00_MOC - Tecnologia de Control]]

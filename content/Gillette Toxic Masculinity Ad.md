@@ -38,7 +38,7 @@ publish: true
 - [[Ingeniera Social]] (El motor del anuncio)
 - [[ESG (Environmental, Social and Governance)]] (El incentivo financiero)
 - [[Ideologa Woke]] (El marco ideolgico)
-- [[BlackRock / Vanguard]] (Los dueos detrs de la presin)
+- [[BlackRock - Vanguard - State Street]] (Los dueos detrs de la presin)
 
 ## Por Qu Importa (Estilo Nico)
 

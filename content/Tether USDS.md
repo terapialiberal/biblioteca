@@ -3,7 +3,7 @@ publish: true
 aliases:
   - USDS
 created: 2026-02-25T16:07:03.031-03:00
-modified: 2026-04-19T13:17:01.117-03:00
+modified: 2026-04-22T10:37:53.771-03:00
 tags:
   - tether
   - stablecoins
@@ -47,6 +47,10 @@ La promesa de refugio frente a monedas debiles sigue operando a nivel de usuario
 
 Leido junto con [[Stablecoin Regulation US]] y [[Howard Lutnick]], el nodo deja de ser una anomalia del mercado cripto y pasa a parecerse a un prototipo pragmatico de dolar digital privado supervisado.
 
+### 5. Distribucion de Treasuries por rail privado
+
+Su valor en TL aumenta cuando se lo conecta con [[GENIUS Act]], [[Tokenized Sovereign Debt]] y [[Reanclaje Hibrido]]. Ahi Tether deja de ser solo stablecoin dominante y empieza a leerse como canal potencial de distribucion internacional de deuda, liquidez dolarizada y enforcement financiero en formato portable.
+
 ## Con que conecta
 
 - [[Tether]]
@@ -55,3 +59,6 @@ Leido junto con [[Stablecoin Regulation US]] y [[Howard Lutnick]], el nodo deja 
 - [[Treasuries]]
 - [[Scott Bessent]]
 - [[Dinero Programable]]
+- [[GENIUS Act]]
+- [[Tokenized Sovereign Debt]]
+- [[Reanclaje Hibrido]]

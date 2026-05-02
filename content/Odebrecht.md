@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Odebrecht (Caso Lava Jato)
 created: 2026-01-29T19:17:27.832-03:00
-modified: 2026-04-18T18:28:12.693-03:00
+modified: 2026-04-24T11:20:39.385-03:00
 tags:
   - odebrecht
   - lava-jato
@@ -35,10 +35,18 @@ Odebrecht importa porque industrializó la coima: software, departamentos espec�
 
 En TL, el nodo sirve también para pensar el doble uso político del escándalo: exponer corrupción real y, al mismo tiempo, habilitar reordenamientos judiciales, corporativos y geopolíticos.
 
+## Como leerlo en TL
+
+- junto con [[Operacion Lava Jato]] para ver el pasaje de corrupcion material a reordenamiento judicial;
+- junto con [[Lawfare]] para fijar el uso politico de la narrativa anticorrupcion;
+- junto con [[Embajada de EE.UU.]] cuando interese seguir la capa de cooperacion internacional y presion exterior.
+
 ## Con qué conecta
 
 - [[Lava Jato]]
+- [[Operacion Lava Jato]]
 - [[Lawfare]]
 - [[Lula da Silva]]
 - [[Marcelo Odebrecht]]
 - [[Departamento de Justicia (EEUU)]]
+- [[Embajada de EE.UU.]]

@@ -37,7 +37,7 @@ publish: true
 
 - [[Programación Predictiva / H.G. Wells]] (Su base narrativa)
 - [[Simbología Masónica]] (Su léxico visual)
-- [[Gran Reseteo / Cambio de Era]] (Su tema central)
+- [[Gran Reseteo y Cambio de Era]] (Su tema central)
 - [[Notre Dame (Incendio)]] (Su "predicción" más famosa)
 
 ## Por Qué Importa (Estilo Nico)

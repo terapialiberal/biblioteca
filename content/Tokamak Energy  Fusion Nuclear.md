@@ -1,28 +1,37 @@
 ---
-titulo: Tokamak Energy / Fusión Nuclear
-tipo: "concepto"
+titulo: "Tokamak Energy / Fusión Nuclear"
+tipo: concepto
 fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
+tier_primario: b
+nivel_evidencia: medio
 estado: activo
-tags: [energy, fusin, nuclear, tokamak]
+tags: [tokamak, fusion-nuclear, energia, infraestructura, technocracy, tl-intel-v3]
 publish: true
 ---
 
 # Tokamak Energy / Fusión Nuclear
 
-> **Resumen:** La promesa de energía infinita como control centralizado.
+> [!NOTE] Promesa energética y control de infraestructura
+> Nodo para seguir la fusión nuclear como narrativa de abundancia y como posible infraestructura hipercentralizada.
 
-## Notas Iniciales
+## Qué es
 
-_Nota generada automáticamente tras análisis de huecos de información._
+Tokamak refiere a un diseño de confinamiento magnético para fusión nuclear. Empresas como Tokamak Energy representan la carrera privada por transformar investigación de plasma en generación comercial.
 
-## Puntos a Investigar
+## Por qué importa en TL
 
-- Definir conexión exacta con Tier A.
-- Buscar contratos o financiamiento (Follow the Money).
-- Identificar operadores clave.
+La promesa pública es energía limpia y abundante. La pregunta TL es quién financia, patenta, regula y conecta esa energía a la red. Una tecnología de abundancia puede descentralizar poder o concentrarlo más, según arquitectura de propiedad y distribución.
 
-## Conexiones Potenciales
+## Señales a monitorear
 
-- [[00 Índice Maestro]]
+- Participación de fondos soberanos, defensa o Big Tech.
+- Contratos con data centers e infraestructura de IA.
+- Dependencia de materiales críticos, superconductores y know-how regulado.
+- Narrativas de "solución final" a la crisis energética.
+
+## Conexiones
+
+- Física de Plasma y Alquimia Modern
+- [[OpenVPP]]
+- [[AES Corp]]
+- Energía como Colateral

@@ -19,7 +19,7 @@ publish: true
 El uso del nombre **Isis** (Diosa egipcia de la maternidad y la magia) para un grupo terrorista no es casual:
 
 1. **Anclaje Simbólico:** Superposición de un arquetipo de vida/magia con actos de muerte extrema. Esto crea un cortocircuito en el inconsciente del Tier C.
-2. **Reacción Emocional:** El horror de las ejecuciones televisadas anula la capacidad de preguntar: _¿Quién financia el Toyota nuevo? ¿Quién provee el satélite para el stream?_ (Ver [[Axioma 2: Praxeología Forense]]).
+2. **Reacción Emocional:** El horror de las ejecuciones televisadas anula la capacidad de preguntar: _¿Quién financia el Toyota nuevo? ¿Quién provee el satélite para el stream?_ (Ver Axioma 2 - Praxeología Forense).
 3. **Homeostasis:** Cuando la realidad (financiamiento del Tier B occidental a grupos "rebeldes") emerge, la mente del Tier C la expulsa para evitar el dolor de la traición sistémica.
 
 ## 🧠 Aplicación Forense 2026

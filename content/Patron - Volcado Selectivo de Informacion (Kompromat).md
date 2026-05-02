@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-28T15:14:24.644-03:00
-modified: 2026-04-07T11:47:31.333-03:00
+modified: 2026-04-29T14:44:25.262-03:00
 tags:
   - patrones
   - kompromat
@@ -30,7 +30,7 @@ No sería volcado selectivo si la filtración expusiera de forma sistemática, c
 
 - [[Kompromat]]
 - [[Jeffrey Epstein]]
-- [[WikiLeaks]]
+- [[Wikileaks]]
 - [[Limited Hangout]]
 
 ## Observación operativa

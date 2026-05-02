@@ -1,15 +1,15 @@
 ---
 publish: true
 created: 2026-04-21T11:24:08.019-03:00
-modified: 2026-04-21T11:24:11.371-03:00
+modified: 2026-04-22T09:51:37.865-03:00
 tags:
-  - "#crisis-alimentaria"
-  - "#energia"
-  - "#fertilizantes"
-  - "#hormuz"
-  - "#deuda"
-  - "#policrisis"
-  - "#tl-intel-v3"
+  - crisis-alimentaria
+  - energia
+  - fertilizantes
+  - hormuz
+  - deuda
+  - policrisis
+  - tl-intel-v3
 ---
 
 # Crisis Alimentaria 2026
@@ -27,6 +27,8 @@ tags:
 ## Que cambio
 
 La producción del stream `Policrisis Abril 2026` ya había detectado la crisis alimentaria como parte del patrón convergente, pero faltaba el nodo físico en la base. Se crea para evitar que el frente `energía -> fertilizantes -> alimentos -> deuda` quede enterrado dentro de un caso más amplio.
+
+El stream `ORDO AB CHAO! Nada es Accidental. Todo es GESTION DEL CAOS` suma un delta útil: la crisis alimentaria no aparece solo como derivado material del shock energético, sino también como capa de saturación emocional y política. Cuando comida, energía y deuda convergen, la administración tecnocrática de la escasez se vuelve más vendible.
 
 ## Que es
 
@@ -50,6 +52,10 @@ Su relevancia aumenta cuando se conecta con organismos multilaterales. Si la cri
 
 El caso se entiende mejor dentro de [[Policrisis Sistemica]] que como episodio aislado. La crisis alimentaria de abril 2026 no compite con Ormuz, Taiwán o el war game financiero: muestra cómo un shock energético se propaga a otro frente de reproducción material básica.
 
+### 5. Escasez como legitimacion administrativa
+
+En TL, el nodo gana otra dimensión cuando el deterioro alimentario no solo presiona precios y gobernabilidad, sino que vuelve socialmente más tolerables medidas de racionamiento, subsidio condicionado o administración centralizada del acceso.
+
 ## Con que conecta
 
 - [[Policrisis Sistemica]]
@@ -57,3 +63,4 @@ El caso se entiende mejor dentro de [[Policrisis Sistemica]] que como episodio a
 - [[Crisis Financiera War Game Lehman 2026]]
 - [[Sistema Alimentario]]
 - [[Control Alimentario]]
+- [[Tecnocracia]]

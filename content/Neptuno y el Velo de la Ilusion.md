@@ -1,22 +1,46 @@
 ---
 publish: true
+aliases:
+  - Neptuno Y El Velo De La Ilusión
 created: 2026-02-25T22:08:54.864-03:00
-modified: 2026-04-07T11:15:04.737-03:00
+modified: 2026-04-27T10:51:21.319-03:00
 tags:
-  - ilusin
   - neptuno
-  - velo
+  - ilusion
+  - simbolismo
+  - propaganda
+  - percepcion
+  - tl-intel-v3
 ---
 
-# Neptuno Y El Velo De La Ilusión
+# Neptuno y el Velo de la Ilusion
 
-> [!ABSTRACT] Hipótesis Informativa
-> Nodo perteneciente a la Matrix de Simbolismo y Esoterismo TL V.3.
+## BLUF
 
-## Análisis De Tiers
+Neptuno y el Velo de la Ilusion es una lectura simbolica de niebla perceptiva: fascinacion, confusion, disolucion de bordes y dificultad para distinguir realidad de proyeccion.
 
-_En desarrollo..._
+## Que es
 
-## Cui Bono
+En astrologia y simbolismo moderno, Neptuno suele asociarse a mar, sueño, espiritualidad, escapismo e ilusion. TL lo usa como arquetipo, no como causalidad astral.
 
-_Pendiente de análisis forense._
+## Por que importa en TL
+
+- permite nombrar estados de confusion colectiva;
+- conecta propaganda, simulacro, intoxicacion informativa y deseo de creer;
+- ayuda a leer cuando una narrativa opera mas por atmosfera que por argumento.
+
+## Lectura TL
+
+El velo no oculta solo por censura. A veces oculta por exceso: demasiadas imagenes, demasiadas versiones, demasiada emocion. La ilusion funciona cuando el sujeto elige la niebla porque la claridad seria mas costosa.
+
+## Conexiones
+
+- [[Simulacro y Simulacion]]
+- [[Propaganda]]
+- [[Hipnosis Colectiva]]
+- [[The Matrix]]
+- [[00_MOC - Operaciones Psicologicas]]
+
+## Nivel de evidencia
+
+Bajo como astrologia causal. Medio como metafora de percepcion y propaganda.

@@ -1,6 +1,6 @@
 ---
 titulo: Citadel
-tipo: "concepto"
+tipo: entidad
 fecha: 2026-02-25
 tier_primario: "b"
 nivel_evidencia: "medio"
@@ -11,32 +11,47 @@ publish: true
 
 # Citadel
 
-> [!ABSTRACT] Ficha Tcnica
-> **Narrativa Official:** Hedge fund y market maker lder.
-> **Funcin Real:** Controla el flujo de rdenes del mercado. Poder de mercado extraordinario.
+> [!abstract] PERFIL TL-INTEL
+> [[Citadel]] importa en TL como nodo híbrido de hedge fund, market making y microestructura de mercado. Su poder no pasa solo por capital administrado, sino por control de flujo, liquidez y ejecución.
 
-## Actores Clave
+## Qué es
 
-- [[Ken Griffin]] - Fundador
+Citadel reúne dos funciones críticas: gestión de capital y market making a escala. En TL interesa porque muestra cómo la infraestructura del mercado puede concentrarse en actores privados con capacidad desproporcionada para ver, ordenar y capturar flujo.
 
-## Operaciones
+## Por qué importa en TL
 
-- **Citadel LLC:** Hedge fund (~\60B AUM)
-- **Citadel Securities:** Market maker (procesa ~25% de todas las rdenes de acciones en EEUU)
+- conecta especulación, market structure y `payment for order flow`;
+- ayuda a leer cómo el mercado minorista termina dependiendo de pocos intermediarios invisibles;
+- sirve como nodo puente entre liquidez privada, regulación y conflictos de interés.
 
-## ⚠️ GameStop/Robinhood
+## Mecanismos de poder
 
-Durante el squeeze de GameStop (2021), Citadel Securities fue cliente de Robinhood va "payment for order flow".
+### 1. Control del flujo de órdenes
 
-Robinhood suspendi trading de GME mientras Citadel se beneficiaba.
+Citadel importa porque ver el flujo antes y mejor que otros ya es una forma de poder estructural.
 
-## Conexiones
+### 2. Infraestructura privada del mercado
+
+Su relevancia aumenta cuando el mercado deja de verse como espacio neutral y pasa a entenderse como plumbing concentrado.
+
+### 3. Asimetría de información y ejecución
+
+En TL, el nodo ayuda a explicar por qué actores formalmente privados pueden adquirir funciones casi infraestructurales.
+
+## Qué cambió
+
+La nota estaba en formato ficha mínima. Se recompila para dejar claro que Citadel no es solo un nombre del caso GameStop, sino una pieza clave de la arquitectura contemporánea del mercado estadounidense.
+
+## Cómo leerlo en TL
+
+- junto con [[Robinhood]] y el debate sobre `payment for order flow`;
+- como actor de microestructura más que simple hedge fund;
+- como ejemplo de cómo la liquidez privada puede volverse poder sistémico.
+
+## Con qué conecta
 
 - [[Ken Griffin]]
-- [[Robinhood]] (payment for order flow)
-- [[Janet Yellen]] (paid speaking fees)
-
-## Fuentes
-
-- SEC filings
-- Congressional hearings GME
+- [[Robinhood]]
+- [[Janet Yellen|Janet Yellen]]
+- [[GameStop]]
+- [[00_MOC - Control Financiero]]

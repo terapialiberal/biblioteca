@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Realismo Geopolitico
 created: 2026-01-29T19:17:32.660-03:00
-modified: 2026-04-18T18:34:51.958-03:00
+modified: 2026-04-18T18:34:45.514-03:00
 tags:
   - realpolitik
   - geopolítica

@@ -1,36 +1,57 @@
 ---
-titulo: BRICS+ Expansion 2026
-tipo: "evento"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: ["2026", brics, expansion, indonesia]
 publish: true
+aliases:
+  - BRICS+ Expansion 2026
+created: 2026-02-09T17:26:02.046-03:00
+modified: 2026-04-24T12:18:24.405-03:00
+tags:
+  - brics
+  - expansion
+  - south-global
+  - energia
+  - desdolarizacion
+  - tl-intel-v3
 ---
 
-# [[BRICS Expansion 2026|BRICS+ Expansion 2026]]
+# BRICS Expansion 2026
 
-**Clasificación:** Global (Contrapeso al G7)\
-**Nuevos Miembros (2025-2026):** [[00_Glosario - Conceptos Fase 1#Indonesia|Indonesia]] (Full Member 2025), [[Nigeria]] (Partner 2025), [[00_Glosario - Conceptos Fase 1#Vietnam|Vietnam]] (Partner 2026).
+## BLUF
 
-## 🦾 ANÁLISIS FORENSE
+[[BRICS Expansion 2026]] importa en TL como fase de ampliación político-material del bloque BRICS: no prueba por sí sola el nacimiento de un orden alternativo cerrado, pero sí muestra mayor coordinación entre productores de energía, economías emergentes y proyectos de pago menos dependientes del stack occidental.
 
-La expansión de los BRICS ha dejado de ser una alianza simbólica para convertirse en el mayor bloque de control de recursos físicos del planeta. En 2026, el bloque controla más del 40% de la producción de crudo y el 30% del gas global.
+## Por que importa en TL
 
-### El Giro De 2026
+- conecta [[Desdolarizacion]], energía, comercio Sur Global y nuevos rails financieros;
+- ayuda a leer BRICS menos como consigna y más como intento desigual de coordinación material;
+- funciona como nodo de cruce entre [[Proyecto mBridge]], [[Sistema CIPS]], [[Nuevo Bretton Woods]] y realineamientos del Golfo.
 
-- **Soberanía Energética:** Con la inclusión de Arabia Saudita, EAU, Irán e Indonesia, los BRICS+ han creado una "OPEP 2.0" con capacidad de liquidación financiera interna vía [[Project mBridge]].
-- **Nigeria como Nodo:** Su entrada como partner en 2025 asegura la influencia del bloque en el corazón demográfico y energético de África.
+## Que cambio
 
-### Cui Bono
+La nota venía como pieza legacy muy panfletaria, con enlaces viejos y afirmaciones demasiado cerradas. Se recompila como evento reusable del corredor `brics / energia / rails alternativos / reordenamiento monetario`.
 
-- **China / Rusia:** Reducción de la dependencia del sistema dólar ([[00_Glosario - Conceptos Fase 1#SWIFT|SWIFT]]).
-- **Global South:** Apertura de líneas de crédito alternativas al FMI vía el Nuevo Banco de Desarrollo (NDB).
+## Lectura TL
 
-## 🔗 CONEXIONES
+### 1. Expansión de masa crítica
 
-- [[Project mBridge]]
-- [[AUKUS II - Expansion Japon]] (La respuesta militar a este bloque)
-- [[Petrodólar|Petrodolar]]
-- [[00_Glosario - Conceptos Fase 1#Indonesia|Indonesia]]
+En TL, la expansión importa porque el bloque gana peso cuando suma países con volumen demográfico, commodities, rutas energéticas o capacidad financiera regional. El cambio relevante no es simbólico: es mayor densidad material.
+
+### 2. Bloque heterogéneo, no alianza homogénea
+
+Su valor analítico aumenta cuando se evita leer BRICS como actor perfectamente unificado. Lo útil es observar qué intereses convergen de forma táctica: energía, crédito, comercio bilateral, menor exposición a sanciones y búsqueda de mayor autonomía operativa.
+
+### 3. Infraestructura además de diplomacia
+
+Leído junto con [[Proyecto mBridge]], [[Sistema CIPS]] y [[Desdolarizacion]], el nodo ayuda a ver que el bloque importa más cuando desarrolla carriles de liquidación, bancos de desarrollo o acuerdos concretos, y no solo declaraciones geopolíticas.
+
+### 4. Presión sobre el orden dólar, no sustitución limpia
+
+También importa porque obliga a refinar el análisis: BRICS no reemplaza automáticamente al viejo orden, pero sí aumenta la presión para que Occidente sostenga su centralidad con más coerción, mejores rails o nuevas formas de reanclaje monetario.
+
+## Conexiones
+
+- [[Desdolarizacion]]
+- [[Proyecto mBridge]]
+- [[Sistema CIPS]]
+- [[Nuevo Bretton Woods]]
+- [[Sistema Petrodolar]]
+- [[Gold Backed CBDC - Pilot]]

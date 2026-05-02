@@ -3,7 +3,7 @@ publish: true
 aliases:
   - "Scott Bessent: el Arquitecto de la Hegemonia Monetaria"
 created: 2026-01-29T19:17:35.814-03:00
-modified: 2026-04-18T21:27:47.313-03:00
+modified: 2026-04-22T10:34:42.644-03:00
 tags:
   - scott-bessent
   - tesoro-eeuu
@@ -47,6 +47,14 @@ La clave TL no es si Bessent es "MAGA de verdad" o no. La clave es que ayuda a u
 
 Leido junto con [[Howard Lutnick]], [[Tether USDS]] y [[Stablecoin Regulation US]], Bessent aparece como parte de una arquitectura donde el dolar busca nueva traccion tambien sobre rails digitales.
 
+### 5. Ejecutor material de la doctrina
+
+Su utilidad analitica sube cuando se lo separa de la capa doctrinal. [[Stephen Miran]] y [[Mar-a-Lago Accord]] ayudan a nombrar el problema; Bessent importa porque baja esa logica al terreno del Tesoro, la refinanciacion, la colocacion de deuda y la administracion de expectativas.
+
+### 6. Puente hacia un Nuevo Bretton Woods administrado
+
+Leido junto con [[Nuevo Bretton Woods]] y [[Reanclaje Hibrido]], Bessent no aparece como simple secretario tecnico sino como figura de transicion en una fase donde Washington necesita reordenar demanda por activos propios sin admitir abiertamente que el esquema 1973 ya no alcanza por si solo.
+
 ## Conexiones
 
 - [[George Soros]]
@@ -54,3 +62,7 @@ Leido junto con [[Howard Lutnick]], [[Tether USDS]] y [[Stablecoin Regulation US
 - [[Treasuries]]
 - [[Stablecoin Regulation US]]
 - [[Shock de Nixon]]
+- [[Stephen Miran]]
+- [[Mar-a-Lago Accord]]
+- [[Reanclaje Hibrido]]
+- [[Nuevo Bretton Woods]]

@@ -36,7 +36,7 @@ publish: true
 ## Conexiones Clave
 
 - [[Sociedad Fabiana (Fabian Society)]] (Su base ideológica)
-- [[Programación Predictiva]] (Su técnica de comunicación)
+- [[Programacion Predictiva]] (Su técnica de comunicación)
 - [[Proyecto Blue Beam]] (Basado en 'La Guerra de los Mundos')
 - [[Club de Roma / Davos]] (Herederos operativos de su visión)
 

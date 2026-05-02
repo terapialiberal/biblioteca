@@ -1,12 +1,12 @@
 ---
+titulo: "The Big Four: Los Auditores De La Matrix Financiera"
+tipo: "concepto"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [blackrock, financiera, four, matrix]
 publish: true
-created: 2026-01-29T19:17:20.838-03:00
-modified: 2026-04-07T11:14:55.187-03:00
-tags:
-  - blackrock
-  - financiera
-  - four
-  - matrix
 ---
 
 # The Big Four: Los Auditores De La Matrix Financiera
@@ -39,7 +39,7 @@ tags:
 ## Conexiones Críticas
 
 - [[Paraísos Fiscales]]: La infraestructura física necesaria para su ingeniería fiscal.
-- [[BlackRock / Vanguard]]: Los dueños y clientes que demandan los servicios de las Big Four para la gestión de sus activos globales.
+- [[BlackRock - Vanguard - State Street]]: Los dueños y clientes que demandan los servicios de las Big Four para la gestión de sus activos globales.
 - [[WEF]]: El foro donde las Big Four coordinan la narrativa de la "Sostenibilidad" y el "Governance" (ESG) como nuevas herramientas de control.
 - [[City de Londres / Wall Street]]: Los epicentros geográficos de su poder operativo.
 - [[Regulatory Capture]]: El concepto que define su relación con el poder estatal.

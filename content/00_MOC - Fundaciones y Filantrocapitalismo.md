@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-04-21T12:07:00.628-03:00
-modified: 2026-04-21T12:07:01.461-03:00
+modified: 2026-04-24T10:46:56.920-03:00
 tags:
-  - "#moc"
-  - "#fundaciones"
-  - "#filantrocapitalismo"
-  - "#gobernanza"
-  - "#tl-intel-v3"
+  - moc
+  - fundaciones
+  - filantrocapitalismo
+  - gobernanza
+  - tl-intel-v3
 ---
 
 # MOC - Fundaciones y Filantrocapitalismo
@@ -22,9 +22,15 @@ tags:
 
 ## Fundaciones Históricas y Sistémicas
 
+- [[Familia Rockefeller]]
+- [[John D. Rockefeller]]
+- [[David Rockefeller]]
 - [[Fundacion Rockefeller]]
 - [[Fundacion Ford]]
+- [[Fundacion Carnegie]]
+- [[Carnegie Endowment]]
 - [[Open Society Foundations]]
+- [[George Soros]]
 - [[Council on Foundations]]
 
 ## Salud Global y Bioseguridad
@@ -50,6 +56,13 @@ tags:
 - [[Control Alimentario]]
 - [[Comision EAT-Lancet]]
 - [[Proteina de Insectos]]
+
+## Como leer la rama filantropica-politica
+
+- empezar por [[Open Society Foundations]] para fijar la red de financiamiento;
+- sumar [[George Soros]] para identificar al financiador visible y la capa especulativa previa;
+- conectar luego con [[NED]] y [[USAID]] para leer la zona de interseccion entre filantropia privada, sociedad civil financiada y proyeccion exterior;
+- cerrar con [[Lawfare]] y [[Revolucion del color]] para ver como la financiacion puede bajar a disputa juridica, cambio institucional y reemplazo de elites.
 
 ## Nodos Relacionados
 

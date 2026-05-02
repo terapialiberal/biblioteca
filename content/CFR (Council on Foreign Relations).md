@@ -1,18 +1,22 @@
 ---
 publish: true
+aliases:
+  - CFR
+  - Council on Foreign Relations
 created: 2026-01-29T19:17:07.239-03:00
-modified: 2026-04-21T11:50:37.423-03:00
+modified: 2026-05-02T13:46:33.690-03:00
 tags:
-  - "#alias"
-  - "#cfr"
-  - "#legacy"
-  - "#think-tanks"
-  - "#politica-exterior"
-  - "#tl-intel-v3"
+  - cfr
+  - think-tank
+  - eeuu
+  - elite
+  - tl-intel-v3
 ---
 
 # CFR (Council on Foreign Relations)
 
-Nodo legacy preservado para absorber naming descriptivo.
+[[CFR (Council on Foreign Relations)]] importa en TL como think tank central de política exterior estadounidense y socialización de elites atlánticas.
 
-Ver [[CFR]].
+## Lectura TL
+
+CFR funciona como fábrica de consenso: papers, membresía, eventos y cuadros que traducen intereses imperiales en lenguaje experto.

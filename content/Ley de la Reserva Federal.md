@@ -3,7 +3,7 @@ publish: true
 aliases:
   - "Ley De La Reserva Federal: El Acta De Rendicion Monetaria"
 created: 2026-01-29T19:17:22.362-03:00
-modified: 2026-04-18T18:21:45.128-03:00
+modified: 2026-04-24T11:31:45.215-03:00
 tags:
   - reserva-federal
   - banco-central
@@ -34,10 +34,18 @@ La importancia de esta ley no depende de reducirla a una conspiración única, s
 
 En TL, el nodo es útil porque marca el momento en que el dinero deja de ser solo asunto legislativo formal y pasa a organizarse alrededor de una infraestructura híbrida de bancos, regulación y poder tecnocrático con efectos profundos sobre la economía real.
 
+## Como leerlo en TL
+
+- junto con [[Panico de 1907]] para fijar la crisis que vuelve vendible la reforma;
+- junto con [[Conferencia de Jekyll Island]] para ver la capa de diseño previo;
+- junto con [[Reserva Federal]] para seguir la institucion que la ley habilita y normaliza.
+
 ## Con qué conecta
 
 - [[Reserva Federal]]
 - [[Conferencia de Jekyll Island]]
+- [[Panico de 1907]]
+- [[Paul Warburg]]
 - [[Control Financiero]]
 - [[Asesinato de McKinley]]
 - [[Hundimiento del Titanic]]

@@ -1,39 +1,28 @@
 ---
-titulo: Coinbase
-tipo: "concepto"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [andreessen, binance, coinbase]
 publish: true
+aliases:
+  - Coinbase (Exchange)
+created: 2026-01-29T19:17:08.136-03:00
+modified: 2026-05-02T12:57:07.423-03:00
+tags:
+  - coinbase
+  - cripto
+  - exchange
+  - eeuu
+  - tl-intel-v3
 ---
 
 # Coinbase
 
-> [!ABSTRACT] Ficha Tcnica
-> **Narrativa Official:** Exchange de criptomonedas regulado y pblico.
-> **Funcin Real:** La rampa de entrada "legtima" a crypto, bajo escrutinio regulatorio intenso.
+[[Coinbase]] importa en TL como exchange cripto estadounidense que intenta traducir el sector a compliance, mercado público y regulación doméstica.
 
-## Historia
+## Lectura TL
 
-Fundado para hacer Bitcoin accessible.
+Coinbase sirve para leer la domesticación de cripto: pasar de frontera anti-bancaria a infraestructura regulada compatible con dólar, custodia institucional y supervisión.
 
-Sali a bolsa en 2021 (valoracin ~\100B en pico).
+## Conecta
 
-## Diferencia Con Binance
-
-Coinbase juega con reguladores. [[Binance]] los evadi.
-
-Aun as, SEC demand a Coinbase en 2023.
-
-## Conexiones
-
-- Brian Armstrong (CEO)
-- [[Andreessen Horowitz]] (inversor)
-- Reguladores de EEUU
-
-## Fuentes
-
-- SEC filings
-- Coinbase public reports
+- [[Bitcoin]]
+- [[Ethereum]]
+- [[Stablecoin Regulation US]]
+- [[SEC]]

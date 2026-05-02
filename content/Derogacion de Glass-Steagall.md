@@ -11,34 +11,46 @@ publish: true
 
 # Derogación De Glass-Steagall
 
-> [!INFO] Contexto
-> Clinton firma la ley que permitió la crisis de 2008.
+## Qué es
 
-## Qué Pasó
+La [[Derogación De Glass-Steagall]] refiere al desmontaje de la separación entre banca comercial y banca de inversión, consolidado a fines de los noventa. En TL importa como momento clave del corredor `desregulación -> megabancos -> riesgo sistémico`.
 
-En 1999, Clinton firmó la Gramm-Leach-Bliley Act que derogó [[Ley Glass-Steagall|Glass-Steagall]].
+## Por qué importa en TL
 
-Esto permitió que bancos comerciales y de inversión se fusionaran.
+- conecta captura regulatoria y formación de bancos demasiado grandes para caer;
+- ayuda a leer cómo una barrera prudencial fue tratada como obsolescencia;
+- funciona como evento-puente entre [[Ley Glass-Steagall]] y [[Crisis Financiera 2008]].
 
-## Consecuencias
+## Qué produjo
 
-- Creación de megabancos (Citigroup, etc.)
-- Especulación con depósitos de ciudadanos
-- SIN esta derogación, la crisis de 2008 no habría sido possible
+### 1. Fusión de funciones antes separadas
 
-## Quiénes Beneficiaron
+La derogación importa porque permitió que depósitos, banca comercial y actividades de mercado quedaran cada vez más acoplados.
 
-- [[Citigroup]] (Sandy Will) - había hecho fusión illegal ANTES de la derogación
-- Wall Street
-- Robert Rubin (Secretario del Tesoro → Citi después)
+### 2. Escala y complejidad
 
-## Conexiones
+El nodo gana valor cuando se lo usa para explicar por qué la estructura bancaria posterior se volvió más grande, más opaca y más difícil de dejar caer.
 
+### 3. Riesgo privado, rescate público
+
+En TL, su relevancia está en mostrar cómo la libertad de diseño financiero no eliminó riesgo: lo trasladó hacia el sistema y finalmente hacia el contribuyente.
+
+## Qué cambió
+
+La nota estaba demasiado resumida. Se recompila como evento reusable para que no quede solo como slogan causal, sino como bisagra histórica dentro del frente regulatorio-bancario.
+
+## Cómo leerlo en TL
+
+- junto con [[Ley Glass-Steagall]];
+- como hito previo indispensable para entender 2008;
+- como caso clásico de desregulación presentada como modernización.
+
+## Con qué conecta
+
+- [[Ley Glass-Steagall]]
+- [[Larry Summers|Larry Summers]]
 - [[Bill Clinton]]
 - [[Robert Rubin]]
+- [[Citigroup]]
 - [[Crisis Financiera 2008]]
-
-## Fuentes
-
-- "13 Bankers"
-- Historia financiera
+- [[00_MOC - Control Financiero]]

@@ -3,7 +3,7 @@ publish: true
 aliases:
   - "Limited Hangout: La Tactica De La Verdad Parcial"
 created: 2026-01-29T19:17:22.580-03:00
-modified: 2026-04-18T17:53:25.663-03:00
+modified: 2026-04-18T17:53:19.090-03:00
 tags:
   - limited-hangout
   - inteligencia

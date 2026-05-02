@@ -1,45 +1,63 @@
 ---
-titulo: Golpe De Chile 1973
-tipo: "evento"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: ["1973", chile, golpe, henry]
 publish: true
+aliases:
+  - Golpe De Chile 1973
+created: 2026-01-29T19:17:15.650-03:00
+modified: 2026-04-22T12:22:24.198-03:00
+tags:
+  - golpe-de-chile-1973
+  - chile
+  - cia
+  - kissinger
+  - pinochet
+  - cambio-de-regimen
+  - tl-intel-v3
 ---
 
-# Golpe De Chile 1973
+# Golpe de Chile 1973
 
-## Perfil TL (Resumen Ejecutivo)
+## BLUF
 
-**¿Qué fue?** El derrocamiento violento del presidente elegido democráticamente, Salvador Allende, mediante un golpe militar liderado por Augusto Pinochet, con apoyo activo y financiamiento de la CIA.
+[[Golpe de Chile 1973]] importa en TL como uno de los casos más claros de cambio de régimen articulado entre desestabilización política, inteligencia, intereses corporativos y rediseño económico. Su valor no está solo en el derrocamiento de Allende, sino en mostrar cómo trauma, represión y doctrina económica pueden combinarse en una misma operación histórica.
 
-**¿Por qué importa?** El Golpe en Chile es el **"Gold Standard" del Cambio de Régimen de Tier A**. Fue el primer experimento donde el Estado Profundo de EE.UU. integró la subversión política (CIA) con los intereses corporativos (ITT, Pepsi, Anaconda Copper) y la ingeniería económica académica (**Chicago Boys**). Chile no fue solo un golpe político; fue la implantación del modelo neoliberal a través del trauma masivo (la **"Doctrina del Shock"**). Demostró que para el Tier A, la "democracia" es una concesión condicional: si un pueblo elige una opción que afecta las ganancias de las multinacionales de Tier A, ese pueblo debe ser castigado y su sistema destruido. Chile fue el laboratorio donde se probó que se puede rediseñar una nación entera desde cero si se aplica el nivel suficiente de violencia y control financiero.
+## Por que importa en TL
 
-## Análisis De Poder (Tiers)
+- conecta [[CIA]], [[Henry Kissinger]], contrainsurgencia, shock económico y disciplinamiento regional;
+- ayuda a leer cómo la intervención externa puede operar junto con élites locales y redes mediáticas para producir ruptura institucional;
+- funciona como caso pivote para entender la relación entre cambio de régimen y experimento económico.
 
-### Tier A (Los Dueños De Los Recursos Y Las Patentes)
+## Que cambio
 
-- **ITT y el Cobre:** Gigantes corporativos de Tier A presionaron directamente a la administración Nixon para intervenir, citando la nacionalización de sus activos. El Tier A internacional no permite que los recursos naturales sean controlados por los estados nacionales.
-- **Fundaciones y Academias:** La Fundación Ford y la Universidad de Chicago actuaron como los diseñadores de Tier A del nuevo sistema económico chileno, utilizando a Pinochet como el brazo armado que permitiera aplicar sus teorías sin oposición.
+La nota seguía en formato legacy duro, muy cargada de tiers y cierre interpretativo absoluto. Se recompila como evento canónico para integrarla mejor con [[Operacion Condor]], [[Chicago Boys]] y el corredor de golpes con proyección continental.
 
-### Tier B (Operadores / Kissinger Y La CIA)
+## Que es
 
-- **Henry Kissinger:** El operador de Tier B por excelencia, quien sentenció que no se podía permitir que un país se volviera comunista por la "irresponsabilidad de su propio pueblo". Coordinó la asfixia económica de Chile ("Hacer chirriar la economía").
-- **Augusto Pinochet:** El ejecutor de Tier B que transformó a las fuerzas armadas chilenas en una policía interna al servicio del capital transnacional, operando la represión masiva necesaria para estabilizar el nuevo modelo.
+El Golpe de Chile de 1973 fue el derrocamiento violento del presidente Salvador Allende y la instalación de la dictadura de Augusto Pinochet, en un contexto de desestabilización interna, presión económica y apoyo externo vinculado al aparato de inteligencia estadounidense.
 
-### Tier C (Narrativa Pública)
+## Lectura TL
 
-- "Salvando a la patria del caos y el comunismo". Narrativa de orden y salvación que el Tier B mediático (El Mercurio) instaló para justificar la tortura y la desaparición de miles de ciudadanos del Tier C que resistieron el experimento.
+### 1. Cambio de regimen con rediseño integral
 
-## Conexiones Clave
+Chile importa porque el objetivo no fue solo quitar a un gobierno. El golpe abrió paso a una reconfiguración más profunda del país en lo político, represivo y económico.
 
-- [[Henry Kissinger]] (El arquitecto intelectual)
-- [[CIA / Operación Cóndor]] (La red operativa)
-- [[Chicago Boys]] (Los ingenieros económicos)
-- [[Doctrina del Shock / Naomi Klein]] (El análisis técnico del golpe)
+### 2. Trauma como condicion de reforma
 
-## Por Qué Importa (Estilo Nico)
+En TL, su relevancia crece cuando se observa que la violencia no fue simple exceso represivo, sino condición de posibilidad para imponer un nuevo marco de gobernanza y reordenamiento social.
 
-> "Chile es el ejemplo más puro de lo que es un 'país laboratorio'. A los de arriba no les importó que Allende fuera elegido por la gente; les importó que les tocó el bolsillo a las mineras y a las multinacionales. Entonces mandaron a Kissinger y a la CIA a romper todo. Instalaron a Pinochet para que matara a cualquiera que se quejara de que estaban privatizando hasta el agua. Chile fue el primer país donde probaron que si tenés a la gente muerta de miedo, le podés sacar todos los derechos de un día para el otro. Hoy ese modelo de 'ajuste por la fuerza' se exportó a todo el mundo, pero empezó ahí, con los aviones bombardeando la casa de gobierno."
+### 3. Interseccion entre inteligencia y doctrina economica
+
+La nota gana espesor cuando se la conecta con [[CIA]], [[Henry Kissinger]] y [[Chicago Boys]]. Ahí el golpe deja de leerse como mera guerra fría ideológica y pasa a verse como articulación entre seguridad, recursos e ingeniería económica.
+
+### 4. Precedente de coordinacion regional
+
+Leido junto con [[Operacion Condor]], el nodo ayuda a entender cómo Chile funcionó también como laboratorio y pivote para escaladas represivas posteriores a nivel sudamericano.
+
+## Con que conecta
+
+- [[Henry Kissinger]]
+- [[CIA]]
+- [[Augusto Pinochet]]
+- [[Chicago Boys]]
+- [[Operacion Condor]]
+- [[Doctrina del Shock]]
+- [[00_MOC - Inteligencia Clasica y Operaciones Historicas]]

@@ -4,14 +4,14 @@ aliases:
   - Tedros
   - Dr. Tedros
 created: 2026-04-21T11:35:26.028-03:00
-modified: 2026-04-21T11:35:29.413-03:00
+modified: 2026-04-22T16:07:44.816-03:00
 tags:
-  - "#tedros"
-  - "#who"
-  - "#oms"
-  - "#salud-global"
-  - "#bioseguridad"
-  - "#tl-intel-v3"
+  - tedros
+  - who
+  - oms
+  - salud-global
+  - bioseguridad
+  - tl-intel-v3
 ---
 
 # Tedros Adhanom Ghebreyesus
@@ -48,6 +48,10 @@ Leído junto con [[Tratado de Pandemias OMS]], [[One Health]] y [[Bioseguridad]]
 
 Su peso crece en contextos donde organismos multilaterales necesitan no solo producir documentos, sino también sostener confianza, urgencia y disciplina narrativa a escala global.
 
+### 5. Operador diplomatico del stack sanitario
+
+En TL, Tedros gana todavía más valor cuando se lo conecta con [[Albert Bourla]], [[GAVI]] y [[Tratado de Pandemias OMS]]. Ahí funciona como operador diplomático de una arquitectura donde norma, urgencia y coordinación transnacional necesitan rostro visible.
+
 ## Con que conecta
 
 - [[World Health Organization]]
@@ -56,3 +60,5 @@ Su peso crece en contextos donde organismos multilaterales necesitan no solo pro
 - [[Bioseguridad]]
 - [[One Health]]
 - [[GAVI]]
+- [[Albert Bourla]]
+- [[00_MOC - Salud Global y Bioseguridad]]

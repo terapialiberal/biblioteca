@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-01-29T19:17:29.876-03:00
-modified: 2026-04-21T11:35:27.152-03:00
+modified: 2026-04-22T15:41:36.571-03:00
 tags:
-  - "#pasaportes-de-vacuna"
-  - "#salud-digital"
-  - "#movilidad"
-  - "#identidad-digital"
-  - "#tl-intel-v3"
+  - pasaportes-de-vacuna
+  - salud-digital
+  - movilidad
+  - identidad-digital
+  - tl-intel-v3
 ---
 
 # Pasaportes de Vacuna
@@ -44,12 +44,17 @@ Más allá del episodio puntual, dejaron instalada la idea de que derechos ordin
 
 Leídos en continuidad con identidad digital y biometría, aparecen como ensayo general de credenciales reutilizables entre jurisdicciones, plataformas y capas de acceso.
 
+### 5. Salud como legitimacion del filtro
+
+En TL, su importancia histórica está en haber mostrado que un filtro de acceso puede presentarse como protección sanitaria y, desde ahí, normalizar capas más amplias de validación interoperable sobre movilidad, trabajo y vida cotidiana.
+
 ## Conexiones
 
 - [[Digital ID - Global Protocol]]
 - [[ID2020]]
 - [[Biometria Global]]
 - [[World Health Organization]]
+- [[GAVI]]
 - [[Tratado de Pandemias OMS]]
 - [[Biopolitica]]
 - [[Bioseguridad]]

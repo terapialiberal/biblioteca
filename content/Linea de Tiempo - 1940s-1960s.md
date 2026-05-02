@@ -3,7 +3,7 @@ publish: true
 aliases:
   - "Línea De Tiempo: 1940s-1960s (La Cuna Del Deep State)"
 created: 2026-01-29T19:17:23.292-03:00
-modified: 2026-04-20T19:35:28.692-03:00
+modified: 2026-04-29T14:44:33.067-03:00
 tags:
   - timeline
   - deep-state
@@ -36,7 +36,7 @@ tags:
 
 - Bahía de Cochinos
 - asesinato de JFK como punto de inflexión del Deep State en el imaginario TL
-- [[Incidente del Golfo de Tonkin]]
+- [[Golfo de Tonkin|Incidente del Golfo de Tonkin]]
 
 ## Conexiones
 

@@ -1,18 +1,11 @@
 ---
+titulo: Corredor IMEC
+tipo: concepto
+fecha: 2026-04-19
+estado: activo
+aliases: ["Corredor IMEC (India-Middle East-Europe)", "India-Middle East-Europe Corridor", "IMEC"]
+tags: [imec, corredor, infraestructura, rimland, golfo, tl-intel-v3]
 publish: true
-aliases:
-  - Corredor IMEC (India-Middle East-Europe)
-  - India-Middle East-Europe Corridor
-  - IMEC
-created: 2026-02-25T13:58:42.462-03:00
-modified: 2026-04-21T12:51:26.383-03:00
-tags:
-  - "#imec"
-  - "#corredor"
-  - "#infraestructura"
-  - "#rimland"
-  - "#golfo"
-  - "#tl-intel-v3"
 ---
 
 # Corredor IMEC
@@ -56,7 +49,9 @@ Leido con [[Estrecho de Ormuz]], [[Jared Kushner]] y [[MBS]], IMEC ayuda a enten
 ## Conexiones
 
 - [[Jared Kushner]]
-- [[MBS]]
+- [[Mohammed bin Salman|Mohammed bin Salman]]
 - [[Gaza]]
 - [[Estrecho de Ormuz]]
 - [[Belt and Road Initiative]]
+- [[Aramco]]
+- [[Sistema Petrodolar]]

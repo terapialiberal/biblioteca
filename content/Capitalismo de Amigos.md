@@ -4,14 +4,14 @@ aliases:
   - Capitalismo De Amigos (Crony Capitalism)
   - Crony Capitalism
 created: 2026-01-29T19:17:06.378-03:00
-modified: 2026-04-21T13:11:12.271-03:00
+modified: 2026-04-21T13:11:18.925-03:00
 tags:
-  - "#capitalismo-de-amigos"
-  - "#crony-capitalism"
-  - "#captura"
-  - "#monopolio"
-  - "#estado-corporacion"
-  - "#tl-intel-v3"
+  - capitalismo-de-amigos
+  - crony-capitalism
+  - captura
+  - monopolio
+  - estado-corporacion
+  - tl-intel-v3
 ---
 
 # Capitalismo de Amigos

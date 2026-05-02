@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2026-04-21T13:20:12.944-03:00
-modified: 2026-04-21T13:20:14.243-03:00
+modified: 2026-04-22T11:15:55.156-03:00
 tags:
-  - "#big-pharma"
-  - "#farmaceuticas"
-  - "#captura-sanitaria"
-  - "#patentes"
-  - "#bioseguridad"
-  - "#tl-intel-v3"
+  - big-pharma
+  - farmaceuticas
+  - captura-sanitaria
+  - patentes
+  - bioseguridad
+  - tl-intel-v3
 ---
 
 # Big Pharma
@@ -41,12 +41,20 @@ En TL, su relevancia crece cuando se observa la tensión estructural entre salud
 
 También sirve para leer cómo laboratorios, agencias, fundaciones, medios médicos y plataformas técnicas pueden actuar como corredor más que como actores aislados.
 
+### 4. Cartelizacion sanitaria con lenguaje tecnico
+
+La nota gana más espesor cuando se la conecta con [[Lobby]], [[Compliance]] y [[Captura Regulatoria]]. Big Pharma importa no solo por su escala económica, sino por su capacidad de convertir ciencia regulatoria, estándar clínico y urgencia sanitaria en ventajas estructurales duraderas.
+
 ## Con que conecta
 
 - [[Pfizer]]
 - [[Moderna]]
+- [[Albert Bourla]]
 - [[World Health Organization]]
 - [[FDA]]
 - [[Captura Regulatoria]]
 - [[One Health]]
+- [[Scott Gottlieb]]
+- [[Lobby]]
+- [[Compliance]]
 - [[00_MOC - Captura Regulatoria y Puertas Giratorias]]

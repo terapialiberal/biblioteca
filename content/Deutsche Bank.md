@@ -1,39 +1,21 @@
 ---
-titulo: Deutsche Bank
-tipo: "entidad"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [bank, deutsche, donald, jeffrey]
 publish: true
+aliases:
+  - Deutsche
+created: 2026-01-29T19:17:10.176-03:00
+modified: 2026-05-02T13:06:23.401-03:00
+tags:
+  - deutsche-bank
+  - banca
+  - alemania
+  - derivados
+  - tl-intel-v3
 ---
 
 # Deutsche Bank
 
-> [!ABSTRACT] Ficha Tcnica
-> **Narrativa Official:** Mayor banco de Alemania.
-> **Funcin Real:** Banco zombi con derivados masivos y conexiones oscuras.
+[[Deutsche Bank]] importa en TL como banco alemán global, relevante por derivados, banca de inversión, litigios, riesgo sistémico europeo y vínculos transatlánticos.
 
-## Problemas Sistmicos
+## Lectura TL
 
-- Exposicin a derivados: ~\40 trillion (mayor del mundo)
-- Multas de billones por manipulacin de LIBOR, lavado, etc.
-- Constantemente "a punto de colapsar"
-
-## ⚠️ Conexin Trump
-
-Deutsche Bank fue el nico banco que le prest a Trump cuando nadie ms lo haca.
-
-\2+ billion en prstamos a Trump Organization.
-
-## Conexiones
-
-- [[Donald Trump]] (prestamista)
-- [[Jeffrey Epstein]] (fue cliente)
-- Riesgo sistmico europeo
-
-## Fuentes
-
-- SEC filings
-- Congressional investigations
+Deutsche Bank muestra cómo la fragilidad de un banco europeo puede tener implicancias globales cuando derivados, dólares offshore y banca sombra se cruzan.

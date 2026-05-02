@@ -1,68 +1,52 @@
 ---
 publish: true
 created: 2026-02-25T14:29:11.943-03:00
-modified: 2026-04-07T10:47:24.236-03:00
+modified: 2026-04-24T10:06:17.671-03:00
 ---
 
 # ASML (TL V.3)
 
-#### BLUF
+> [!abstract] PERFIL TL-INTEL
+> [[ASML]] importa en TL como chokepoint industrial del mundo semiconductor: no produce chips, pero condiciona quién puede producir los nodos más avanzados y, por extensión, quién puede sostener la frontera de IA y cómputo estratégico.
 
-ASML es el **Chokepoint Absoluto** de la civilizacin tecnolgica. En 2026, su monopolio sobre las mquinas de litografa **High-NA EUV** (Twinscan EXE) determina qu naciones y empresas pueden cruzar la frontera de los 2nm. Sin las mquinas de Veldhoven, la IA de [[Nvidia]], [[Apple]] o [[OpenAI]] simplemente deja de existir. ASML no fabrica chips; fabrica las herramientas que permiten al **Tier A** esculpir la realidad fsica a escala atmica.
+## Qué es
 
-#### MAPA DE ACTORES
+ASML es la empresa clave en maquinaria de litografía avanzada. En TL interesa como nodo de infraestructura industrial crítica: controla herramientas sin las cuales la cadena de chips de punta pierde capacidad de escalar.
 
-| Actor | Tier | Rol Real | Incentivo Oculto |
-|-------|------|----------|-----------------|
-| [[ASML]] | A | El Cerrajero del Futuro | Mantener el monopolio tecnolgico total bajo el paraguas de la OTAN. |
-| [[Intel]] | A | Socio Preferente | Recuperar el liderazgo frente a TSMC mediante la adopcin temprana de High-NA (2025/26). |
-| [[TSMC]] | A | El Cliente Dominante | Retrasar la adopcin de High-NA para maximizar sus mquinas actuales (Ruido) mientras asegura suministro secreto (Seal). |
-| [[Estados Unidos]] | B | El Vigilante de Exportacin | Impedir que [[China]] acceda a la litografa de ltima generacin. |
+## Por qué importa en TL
 
-#### SEALES VS RUIDO
+- conecta semiconductores, soberanía tecnológica y restricciones geopolíticas;
+- ayuda a leer que el poder sobre la IA no está solo en modelos o chips, sino también en la maquinaria upstream;
+- sirve como pieza central del eje [[TSMC]] / [[Nvidia]] / [[Estados Unidos]] / [[China]].
 
-| Tipo | Accin / Declaracin | Interpretacin |
-|------|----------------------|----------------|
-| ?? Seal ? | Intel finaliza pruebas de ensamblaje de la Twinscan EXE:5200B (2026). | Intel est listo para la produccin masiva de chips de 1.4nm (Arial 14A). |
-| ?? Seal ? | Reduccin de ventas proyectadas a China del 40% al 20% (2026). | Cumplimiento estricto de los bloqueos de la administracin Trump/Biden; desacople real. |
-| ?? Ruido ? | "La litografa High-NA es demasiado cara y no es necesaria todava". | Narrativa de TSMC para desalentar a competidores mientras ellos ganan tiempo. |
+## Mecanismos de poder
 
-#### CUI BONO REAL
+### 1. Chokepoint upstream
 
-**Quin captura qu?**
-**ASML** (y sus dueos: [[Vanguard]] / [[BlackRock]]) captura el **Derecho de Existencia Digital**. Al controlar la nica cadena de suministro capaz de fabricar las mquinas High-NA (que requieren la ptica de [[Zeiss]]), ASML decide quin tiene soberana tecnolgica. Es el guardin de la ley de Moore.
+ASML importa porque concentra la herramienta que vuelve posible la producción avanzada, no solo el producto final.
 
-#### ANLISIS DE JUEGO
+### 2. Export control como arma
 
-**Tipo:** signaling / signaling
-**Equilibrio actual:** Estabilidad Geopoltica Forzada. ASML est atrapada entre EE.UU. y China. El equilibrio Nash se mantiene mediante la "Vigilancia de Exportacin": ASML vende a Occidente y Corea/Taiwn, mientras que China es obligada a intentar la ingeniera inversa (con un retraso de 10 aos).
-**Condicin de ruptura:** Si China logra desarrollar su propia litografa EUV funcional (Seal: Chips de 5nm domsticos producidos en masa sin mquinas ASML).
-**Horizonte:** 2030 (Ciclo de vida de High-NA).
+Su relevancia crece cuando la maquinaria deja de ser simple bien industrial y pasa a ser pieza de guerra tecnológica entre bloques.
 
-#### ESCENARIOS FUTUROS
+### 3. Dependencia silenciosa
 
-| Escenario | Prob. | Descripcin | Indicador Temprano |
-|-----------|-------|-------------|-------------------|
-| ?? Base | 70% | Intel recupera el liderazgo de fabricacin gracias a su alianza con ASML. | Lanzamiento exitoso del nodo 14A en Q4 2026. |
-| ?? Alternativo | 25% | TSMC desarrolla tcnicas de "multi-patterning" que hacen el High-NA innecesario por 2 aos ms. | Reportes de alta eficiencia en el nodo A16 de TSMC sin High-NA. |
-| ?? Cisne Negro | 5% | Sabotaje fsico en la planta de Veldhoven o en la cadena de suministro de Zeiss en Alemania. | Disrupcin total de la produccin global de chips. |
+En TL, el nodo vale porque obliga a mirar más arriba de los nombres famosos de la cadena: sin el toolmaker, el resto del stack se frena.
 
-**Indicador maestro:** Nmero de sistemas Twinscan EXE entregados por trimestre.
+## Qué cambió
 
-#### FALSABILIDAD
+La nota estaba escrita como mini tablero de escenarios. Se recompila como entidad reusable para fijar mejor su rol estructural dentro del corredor de semiconductores.
 
-La tesis se invalida si surge una tecnologa de fabricacin radicalmente distinta (ej. Nano-impresin o ensamblaje atmico molecular) que no dependa de la litografa ptica, haciendo que las mquinas de \350M de ASML sean chatarra tecnolgica.
+## Cómo leerlo en TL
 
-#### DEVIL'S ADVOCATE
+- junto con [[TSMC]] y [[Nvidia]], pero entendiendo que opera un nivel más arriba;
+- como infraestructura industrial bajo paraguas geopolítico occidental;
+- como caso donde la verdadera escasez no es el chip terminado, sino la capacidad de fabricar la herramienta.
 
-**Probabilidad: 10%**
-ASML es una empresa vulnerable con una cadena de suministro demasiado frgil. Su monopolio es artificial y mantenido solo por la inercia del capital; el primer competidor serio (posiblemente Canon con NIL) podra destruirla.
+## Con qué conecta
 
-#### BALAS DE PLATA
-
-- **EXE:5200**: El sistema capaz de producir 220 obleas por hora, el "God Mode" de la fabricacin.
-- **Zeiss SMT**: La nica empresa en el mundo capaz de pulir los espejos para High-NA (la seal fsica del chokepoint).
-
-#### LAGUNAS
-
-Cuntos ingenieros de ASML han sido reclutados por el programa "Seis Camas" de China para acelerar su litografa domstica mediante espionaje industrial?
+- [[TSMC]]
+- [[Nvidia]]
+- [[China]]
+- [[Estados Unidos]]
+- [[00_MOC - Tecnologia de Control]]

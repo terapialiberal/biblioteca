@@ -36,7 +36,7 @@ publish: true
 ## Conexiones Clave
 
 - [[Demis Hassabis]] (Su lder intelectual)
-- [[Google / Alphabet Inc]] (Su matriz financiera)
+- [[Google]] / [[Alphabet Inc]] (Su matriz financiera)
 - [[Inteligencia Artificial]] (Su campo de estudio)
 - [[Ray Kurzweil]] (Directivo de Google con visin coincidente)
 

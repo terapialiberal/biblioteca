@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:44.430-03:00
-modified: 2026-04-19T13:22:59.465-03:00
+modified: 2026-04-22T12:23:46.366-03:00
 tags:
   - william-donovan
   - oss
@@ -45,6 +45,10 @@ Aunque la OSS no sobrevivio como tal al final de la guerra, la arquitectura ment
 
 En TL, Donovan importa menos como heroe individual y mas como punto de arranque de un aparato que luego excede a cualquier persona concreta y termina sedimentado en la [[CIA]] y el resto del complejo de seguridad nacional.
 
+### 5. Figura de origen mas que de gestion del sistema
+
+La nota gana fuerza cuando se la contrasta con [[Allen Dulles]] o [[Henry Kissinger]]. Donovan importa sobre todo como fundador de la matriz institucional; otros operadores posteriores muestran cómo esa matriz se volvió rutina de poder.
+
 ## Con que conecta
 
 - [[OSS]]
@@ -52,3 +56,4 @@ En TL, Donovan importa menos como heroe individual y mas como punto de arranque 
 - [[MI6]]
 - [[Allen Dulles]]
 - [[Hermanos Dulles]]
+- [[Henry Kissinger]]

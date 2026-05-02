@@ -1,15 +1,15 @@
 ---
+titulo: Bilderberg Group
+tipo: alias
+fecha: 2026-04-18
+estado: activo
+reemplazado_por: "[[Bilderberg]]"
+aliases: ["Grupo Bilderberg"]
+tags: [alias, bilderberg, tl-intel-v3]
 publish: true
-aliases:
-  - Grupo Bilderberg
-created: 2026-01-29T19:17:05.288-03:00
-modified: 2026-04-18T15:49:09.893-03:00
-tags:
-  - alias
-  - bilderberg
-  - tl-intel-v3
 ---
 
 # Bilderberg Group
 
 Nodo espejo. Ver [[Bilderberg]].
+Conservar como alias operativo para busqueda, backlinks y consolidacion gradual del grafo TL.

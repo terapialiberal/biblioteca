@@ -1,51 +1,65 @@
 ---
-titulo: Teoría Del Rimland
-tipo: "concepto"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [nato, rimland, teora]
 publish: true
+aliases:
+  - Teoría del Rimland
+  - Teoría del Rimland (Nicholas Spykman)
+  - Rimland
+created: 2026-01-29T19:17:39.162-03:00
+modified: 2026-04-22T09:56:04.198-03:00
+tags:
+  - rimland
+  - spykman
+  - geopolitica
+  - chokepoints
+  - contencion
+  - tl-intel-v3
 ---
 
-# Teoría Del Rimland
+# Teoria del Rimland
 
-## Resumen Ejecutivo
+## BLUF
 
-**¿Qué es?** La respuesta de Nicholas Spykman a Mackinder.
-Spykman argumentó que el Heartland (Rusia) es demasiado frío, estático y difícil de desarrollar.
-El verdadero poder está en el **Rimland** (Anillo de Tierra): La franja costera de Eurasia (Europa Occidental, Medio Oriented, India, China, Sudeste Asiático).
-Es la zona de contacto entre el poder terrestre y el marítimo.
+[[Teoria del Rimland]] importa en TL como doctrina geopolítica que prioriza el control del borde costero de Eurasia por encima del interior continental. Su valor no está en repetir una fórmula clásica, sino en mostrar cómo chokepoints, corredores, bases, puertos y alianzas siguen organizando la lucha real por acceso, cerco y flujo.
 
-**La Fórmula Revisada:**
-_"Quien controle el Rimland domina Eurasia._
-_Quien domine Eurasia controla el destino del mundo."_
+## Por que importa en TL
 
-**¿Por qué importa?**
-Es la base de la política de **Contención** de EEUU durante la Guerra Fría y hoy.
-EEUU (poder marítimo) debe controlar el Rimland para rodear y asfixiar al Heartland (Rusia/China).
-Por eso EEUU tiene bases militares en: Alemania, Turquía, Irak, Japón, Corea del Sur. Forman un "collar" alrededor de Eurasia.
-La Guerra de Vietnam, Corea y Afganistán fueron guerras por el control del Rimland.
+- conecta energía, rutas marítimas y estrategia de contención en un mismo marco;
+- ayuda a leer conflictos dispersos como piezas de una misma lógica de borde y acceso;
+- funciona como puente entre [[Estrecho de Ormuz]], [[Estrecho de Malaca]], Indo-Pacífico y corredores financieros.
 
-## Análisis (Tiers)
+## Que cambio
 
-### Tier A (El Cerco)
+La nota estaba en formato legacy, todavía muy resumida y con enlaces heredados del glosario viejo. Se recompila como nodo canónico para integrarla mejor al corredor `chokepoints / contención / Asia / energía`.
 
-- **OTAN:** La expansión de la OTAN hacia el este es simplemente la conquista del Rimland europeo para empujar la frontera hacia el Heartland.
-- **Indo-Pacífico:** El concepto moderno de "Indo-Pacífico" es el nombre nuevo para el Rimland asiático.
+El stream `ORDO AB CHAO! Nada es Accidental. Todo es GESTION DEL CAOS` le agrega un uso más concreto: el Rimland deja de ser marco histórico abstracto y vuelve a verse en tiempo real cuando Ormuz, Malaca, Taiwán y rails monetarios aparecen como partes de un mismo tablero de presión.
 
-### Tier C (Narrativa)
+## Lectura TL
 
-- "Alianzas defensivas"
-- "Protección del comercio libre"
+### 1. El borde vale más que el centro
+
+La tesis de Spykman importa porque desplaza el foco desde la conquista del Heartland hacia el control del anillo costero donde convergen comercio, puertos, energía, demografía y acceso oceánico.
+
+### 2. Chokepoints como política material
+
+En TL, el Rimland sirve para leer por qué estrechos, canales y corredores importan tanto. No son detalles geográficos: son lugares donde la geopolítica se vuelve capacidad concreta de dejar pasar, encarecer o estrangular.
+
+### 3. Indo-Pacifico como Rimland actualizado
+
+El nodo gana fuerza cuando se observa que el lenguaje contemporáneo de “Indo-Pacífico” es, en gran parte, una actualización operativa de la lógica rimlandista: alianzas marítimas, primera cadena de islas, contención de China y control de rutas críticas.
+
+### 4. Energia, deuda y rails
+
+Rimland también importa porque ya no se juega solo con flotas y bases. Se juega con seguros marítimos, pagos transfronterizos, rails alternativos y presión sobre cadenas logísticas. El borde geográfico y la infraestructura financiera convergen.
+
+### 5. Policrisis en clave de borde
+
+Leída junto con [[Policrisis Sistemica]], la teoría deja de ser doctrina congelada. Pasa a funcionar como lente para entender por qué crisis aparentemente separadas reaparecen justamente en los mismos bordes: Golfo, Taiwán, Sudeste Asiático, Mar Rojo, Suez.
 
 ## Conexiones
 
-- [[00_Glosario - Conceptos Fase 1#Teoría del Heartland (Halford Mackinder)|Teoría del Heartland (Halford Mackinder)]]
-- [[NATO]]
-- [[Contención]]
-
-## Fuentes
-
-- "The Geography of the Peace" - Nicholas Spykman.
+- [[Nicholas Spykman]]
+- [[Estrecho de Ormuz]]
+- [[Estrecho de Malaca]]
+- [[China Taiwan Escalada 2026]]
+- [[Proyecto mBridge]]
+- [[00_MOC - Rimland]]

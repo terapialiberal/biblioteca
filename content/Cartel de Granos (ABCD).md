@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2026-04-19T12:52:06.170-03:00
-modified: 2026-04-21T11:41:59.631-03:00
+modified: 2026-04-21T11:42:06.223-03:00
 tags:
-  - "#cartel-de-granos"
-  - "#abcd"
-  - "#agroindustria"
-  - "#commodities"
-  - "#alimentos"
-  - "#tl-intel-v3"
+  - cartel-de-granos
+  - abcd
+  - agroindustria
+  - commodities
+  - alimentos
+  - tl-intel-v3
 ---
 
 # Cartel de Granos (ABCD)

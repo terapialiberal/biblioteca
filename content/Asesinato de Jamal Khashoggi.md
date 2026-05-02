@@ -11,37 +11,38 @@ publish: true
 
 # Asesinato De Jamal Khashoggi
 
-> [!INFO] Contexto
-> Periodista saud asesinado y desmembrado en consulado.
+## Qué es
 
-## Qu Pas
+El [[Asesinato de Jamal Khashoggi]] refiere al crimen ocurrido en el consulado saudí en Estambul en 2018. En TL importa como evento puente entre autoritarismo saudí, costo reputacional internacional y reacomodo posterior de alianzas.
 
-El 2 de octubre de 2018, Jamal Khashoggi entr al consulado saud en Estambul para tramitar documentos de divorcio.
+## Por qué importa en TL
 
-Fue asesinado, desmembrado con una sierra de huesos, y sus restos desaparecieron.
+- conecta represión estatal, inteligencia y blindaje geopolítico;
+- ayuda a leer el límite real de la condena occidental cuando se cruzan energía, seguridad y capital;
+- funciona como bisagra entre [[Jamal Khashoggi]], [[Mohammed bin Salman|Mohammed bin Salman]] y [[Jared Kushner|Jared Kushner]].
 
-## Responsabilidad
+## Qué revela
 
-- Equipo de 15 agentes saudes viaj especficamente
-- Un forense llev la sierra
-- Inteligencia turca grab todo
+### 1. Violencia con costo limitado
 
-CIA concluy que [[Mohammed bin Salman (MBS)]] orden el asesinato.
+El evento importa porque muestra que una condena internacional muy visible puede no alterar el lugar estructural del operador si sigue siendo estratégico para energía y seguridad.
 
-## Consecuencias
+### 2. Reputación comprable
 
-- Condena internacional (temporal)
-- MBS mantuvo el poder
-- [[Jared Kushner]] continu relacin con MBS
-- Arabia Saud invirti \2 billion en fondo de Kushner tras dejar gobierno
+Su relevancia crece cuando se observa que el aislamiento inicial de MBS fue seguido por reintegración práctica al circuito de aliados y capital.
 
-## Conexiones
+### 3. Puente entre vigilancia y castigo
 
-- [[Mohammed bin Salman (MBS)]]
-- [[Jared Kushner]]
-- [[Donald Trump]]
+En TL, el nodo se complementa con [[Jamal Khashoggi]] como caso donde monitoreo, coerción y daño físico-político dejan de poder separarse limpiamente.
 
-## Fuentes
+## Qué cambió
 
-- Reportes de inteligencia turca
-- CIA assessment
+La nota estaba demasiado en modo ficha policial. Se recompila como evento reusable dentro del corredor saudí, manteniendo el hecho pero integrándolo mejor al mapa de poder.
+
+## Con qué conecta
+
+- [[Jamal Khashoggi]]
+- [[Mohammed bin Salman|Mohammed bin Salman]]
+- [[Jared Kushner|Jared Kushner]]
+- [[Aramco]]
+- [[Sistema Petrodolar]]

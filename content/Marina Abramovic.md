@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-15T17:06:21.571-03:00
-modified: 2026-04-15T17:06:22.971-03:00
+modified: 2026-04-15T17:06:21.571-03:00
 tags:
   - marina-abramovic
   - simbolismo

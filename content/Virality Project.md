@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:43.266-03:00
-modified: 2026-04-19T12:17:59.319-03:00
+modified: 2026-04-19T12:17:52.898-03:00
 tags:
   - virality-project
   - stanford

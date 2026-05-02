@@ -1,41 +1,51 @@
 ---
-titulo: Council of the Americas
-tipo: "entidad"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [americas, council, david]
 publish: true
+created: 2026-01-29T19:17:08.893-03:00
+modified: 2026-04-21T20:06:44.700-03:00
+tags:
+  - council-of-the-americas
+  - david-rockefeller
+  - latinoamerica
+  - lobby
+  - elites
+  - tl-intel-v3
 ---
 
 # Council of the Americas
 
-> [!ABSTRACT] Ficha Técnica
-> **Narrativa Official:** Organización de negocios que promueve libre comercio en las Américas.
-> **Función Real:** Lobby de corporaciones americanas para influir política latinoamericana.
+## BLUF
 
-## Historia
+[[Council of the Americas]] importa en TL como interfaz entre corporaciones estadounidenses, diplomacia privada y agenda hemisférica: sirve para leer cómo se coordina influencia sobre América Latina por vías empresariales, culturales y policy.
 
-Fundada por [[David Rockefeller]].
+## Por que importa en TL
 
-Incluye America Society (AS) como brazo cultural.
+- conecta [[David Rockefeller]] con una arquitectura regional de lobby y consenso pro-mercado;
+- ayuda a leer América Latina como espacio de administración estratégica por redes privadas y no solo por cancillerías;
+- funciona como nodo intermedio entre banca, corporaciones Fortune 500, think tanks y gobernanza regional.
 
-Miembros: las mayores corporaciones con intereses en América Latina.
+## Que cambio
 
-## Agenda
+La nota venía como ficha muy breve y binaria. Se recompila como nodo modular del corredor `rockefeller / latinoamerica / lobby hemisferico`.
 
-- Libre comercio hemisférico
-- Pro-inversión extranjera
-- Contra gobiernos "populistas"
+## Lectura TL
+
+### 1. Diplomacia privada para el hemisferio
+
+Council of the Americas importa porque permite operar agenda regional sin pasar exclusivamente por canales estatales. En TL, esto muestra cómo las élites corporativas fabrican interlocución política estable para América Latina.
+
+### 2. Negocios, cultura y policy
+
+La combinación con America Society vuelve más legible el mecanismo: no solo se impulsa inversión, también se curan narrativas, contactos y legitimidad para cierto marco hemisférico.
+
+### 3. América Latina como frente administrado
+
+Su valor analítico aumenta cuando se la lee junto con deuda, libre comercio, seguridad y captura regulatoria. La pregunta no es solo qué defiende, sino qué tipo de orden regional vuelve razonable.
 
 ## Conexiones
 
-- [[David Rockefeller]] (fundador)
-- [[CFR]] (cruce)
-- Corporaciones Fortune 500
-
-## Fuentes
-
-- AS/COA website
-- Eventos y membership lists
+- [[David Rockefeller]]
+- [[Familia Rockefeller]]
+- [[CFR]]
+- [[Latinoamerica]]
+- [[Lobby]]
+- [[Wall Street]]

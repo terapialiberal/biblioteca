@@ -1,37 +1,21 @@
 ---
-titulo: BNP Paribas
-tipo: "persona"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [paribas]
 publish: true
+aliases:
+  - BNP Paribas (Banco)
+created: 2026-01-29T19:17:05.621-03:00
+modified: 2026-05-02T13:45:17.783-03:00
+tags:
+  - "#bnp-paribas"
+  - "#banca"
+  - "#francia"
+  - "#europa"
+  - "#tl-intel-v3"
 ---
 
 # BNP Paribas
 
-> [!ABSTRACT] Ficha Tcnica
-> **Narrativa Official:** Mayor banco de la Eurozona.
-> **Funcin Real:** Banco sistmico europeo con exposicin global.
+[[BNP Paribas]] importa en TL como gran banco francés/europeo, relevante en crédito, mercados, banca corporativa y exposición regulatoria.
 
-## Escndalos
+## Lectura TL
 
-- **Violacin de sanciones a Irn/Sudn/Cuba:** \8.9 billion de multa (2014) - la mayor en historia bancaria
-
-## Escala
-
-- \~€2.6 trillion en activos
-- Mayor banco de Europa
-- Presencia global
-
-## Conexiones
-
-- Sistema bancario europeo
-- Sanciones de EEUU (las viola)
-- [[00_Glosario - Conceptos Fase 1#BCE|BCE]]
-
-## Fuentes
-
-- DOJ/OFAC settlements
-- Annual reports
+BNP sirve para leer banca europea continental: escala, compliance, exposición a sanciones y relación entre Estado, banca y UE.

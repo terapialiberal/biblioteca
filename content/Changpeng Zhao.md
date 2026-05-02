@@ -37,7 +37,7 @@ publish: true
 
 - [[Binance]] (Su creación y legado)
 - [[Sam Bankman-Fried (SBF)]] (Su rival caído)
-- [[Gary Gensler / SEC]] (Su ejecutor regulatorio)
+- [[Gary Gensler]] / [[SEC (Securities and Exchange Commission)]] (Su ejecutor regulatorio)
 - [[CBDC (Moneda Digital de Banco Central)]] (El sistema rival al que ahora Binance debe servir)
 
 ## Fuentes

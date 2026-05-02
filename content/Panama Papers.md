@@ -1,12 +1,12 @@
 ---
 publish: true
 created: 2026-01-29T19:17:29.717-03:00
-modified: 2026-04-21T12:48:16.798-03:00
+modified: 2026-04-21T12:48:23.511-03:00
 tags:
-  - "#george"
-  - "#limpieza"
-  - "#papers"
-  - "#selectiva"
+  - george
+  - limpieza
+  - papers
+  - selectiva
 ---
 
 # Panama Papers: La Limpieza Selectiva Del Capital

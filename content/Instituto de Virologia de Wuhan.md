@@ -5,14 +5,14 @@ aliases:
   - Wuhan Institute of Virology
   - WIV
 created: 2026-04-21T11:39:06.539-03:00
-modified: 2026-04-21T11:39:07.309-03:00
+modified: 2026-04-21T11:39:06.539-03:00
 tags:
-  - "#wuhan"
-  - "#virologia"
-  - "#laboratorio"
-  - "#bioseguridad"
-  - "#china"
-  - "#tl-intel-v3"
+  - wuhan
+  - virologia
+  - laboratorio
+  - bioseguridad
+  - china
+  - tl-intel-v3
 ---
 
 # Instituto de Virologia de Wuhan

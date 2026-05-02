@@ -1,45 +1,62 @@
 ---
-titulo: George Soros
-tipo: "persona"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [george, ingeniera, revoluciones, soros]
 publish: true
+created: 2026-01-29T19:17:15.150-03:00
+modified: 2026-04-24T10:46:56.945-03:00
+tags:
+  - george-soros
+  - open-society
+  - soft-power
+  - filantrocapitalismo
+  - cambio-de-regimen
+  - tl-intel-v3
 ---
 
 # George Soros
 
-## Perfil TL (Resumen Ejecutivo)
+> [!abstract] PERFIL TL-INTEL
+> [[George Soros]] importa en TL como operador-financista de proyeccion blanda: un actor que combina especulacion, filantropia, red transnacional de ONGs y capacidad de intervenir sobre marcos juridicos, mediaticos y politicos sin aparecer como Estado formal.
 
-**¿Quién es?** Multimillonario especulador financiero y fundador de las **Open Society Foundations (OSF)**. Conocido por haber "quebrado al Banco de Inglaterra" y por financiar miles de ONGs en todo el mundo.
+## Que es
 
-**¿Por qué importa?** George Soros es el **operador de Tier A especializado en la "Privatización de la Subversión"**. Su función histórica no ha sido la caridad, sino la desestabilización de estados-nación para su posterior captura económica. Mediante la **[[Ingeniería Social]]** y el financiamiento de **[[Revolución de Color|Revoluciones de Color]]**, Soros ha actuado como un "Estado Paralelo" que implementa la política exterior globalista a menudo incluso por fuera de los canales diplomáticos oficiales. Su red de ONGs captura los sistemas judiciales (**Fiscales de Soros**), modifica las leyes de migración y promueve agendas de identidad que fragmentan la cohesión social del Tier C. Soros no es un individuo aislado, sino un nodo visible de una estructura de poder más amplia (vinculada a los **[[Rothschild]]** y a la inteligencia británica) encargada de demoler la soberanía nacional para instaurar el modelo de gobernanza supranacional.
+George Soros es inversor y fundador de [[Open Society Foundations]]. En TL interesa menos como celebridad polemica y mas como caso de estudio de filantrocapitalismo geopolitico: capital privado que se traduce en infraestructura civica, judicial, cultural y narrativa con alcance transnacional.
 
-## Análisis De Poder (Tiers)
+## Por que importa en TL
 
-### Tier A (Los Dueños De La Agenda Global)
+- conecta mercados financieros, fundaciones, ONGs y cambio institucional;
+- ayuda a leer como la filantropia puede operar como vector de agenda y no solo como beneficencia;
+- sirve como figura visible del corredor `capital privado -> sociedad civil financiada -> presion normativa -> recambio de elites`.
 
-- **Especulación Adaptativa:** Soros utiliza la información privilegiada de los bancos centrales (Tier A financiero) para atacar monedas nacionales, ganando billones mientras empobrece a naciones enteras. Luego reinvierte esa ganancia en sus fundaciones para "guiar" la política de esos mismos países.
-- **Visión Mesiánica:** Se autodefine como "una suerte de dios" encargado de reformar el mundo. Para el Tier A, Soros es el rostro necesario (y sacrificable) que absorbe todo el odio público mientras protege a las estructuras permanentes que él representa.
+## Mecanismos de poder
 
-### Tier B (Operadores / ONGs Y Medios)
+### 1. Financiar marcos, no solo actores
 
-- **Open Society Foundations:** La red de Tier B más extensa del planeta. Financian desde activistas climáticos hasta movimientos de despenalización de drogas y migración masiva. Su labor es crear una "sociedad civil" artificial que responda a los intereses de Davos.
-- **Captura Judicial:** En EE.UU. y Europa, Soros ha financiado las campañas de fiscales locales que luego se niegan a perseguir el crimen común, acelerando la degradación social necesaria para justificar el control estatal autoritario.
+Soros importa porque no se limita a apoyar individuos o causas aisladas. Lo relevante es la capacidad de financiar ecosistemas enteros: ONGs, medios, litigios, observatorios, becas y lenguaje moral compatible con una agenda de apertura y gobernanza supranacional.
 
-### Tier C (Narrativa Pública)
+### 2. Filantropia como tecnologia politica
 
-- "Filántropo defensor de la democracia y los derechos humanos". Narrativa de protección mediática absoluta: cualquier crítica a Soros es etiquetada automáticamente como "antisemitismo" o "teoría de la conspiración", blindándolo contra el escrutinio público del Tier C.
+Su peso analitico crece cuando se observa que la filantropia puede intervenir en fiscalias, reformas juridicas, migracion, derechos, medios y protesta sin asumir la forma clasica de partido o agencia estatal.
 
-## Conexiones Clave
+### 3. Operador visible de una arquitectura mas amplia
 
-- [[Rothschild / Red de Poder]] (Sus patrocinadores originales)
-- [[Foro Económico Mundial (WEF)]] (Su marco estratégico)
-- [[Inmigración Masiva / Reemplazo Demográfico]] (Su agenda operativa)
-- [[Revolución de Color|Revoluciones de Color]] (Su método de cambio de régimen)
+En TL, Soros rinde mas como nodo visible de un metodo que como causa unica de todo. Su importancia esta en mostrar como capital financiero y legitimidad moral pueden combinarse para empujar reordenamientos politicos de gran escala.
 
-## Por Qué Importa (Estilo Nico)
+## Que cambio
 
-> "Soros es el tipo que te prende fuego la casa para después venderte el matafuego y cobrarte el seguro. Su negocio es el caos. Usa su plata para quebrar países, y después usa esa misma plata para financiar a los jueces que no meten presos a los chorros y a las ONGs que te dicen que no debés tener fronteras. No es un abuelito bueno que regala plata; es un sicario de guante blanco que labura para los de arriba desarmando a las naciones. Cuando veas una marcha 'espontánea' con carteles profesionales en cualquier parte del mundo, buscá el rastro del Open Society de Soros y vas a encontrar la billetera del poder real."
+La nota venia en formato muy viejo, excesivamente cerrada y con tono demasiado totalizante. Se recompila como perfil reusable para integrarlo mejor al corredor de filantrocapitalismo, sociedad civil financiada y cambio de regimen blando.
+
+## Como leerlo en TL
+
+- junto con [[Open Society Foundations]] para separar actor y red operativa;
+- junto con [[NED]] y [[USAID]] para ver la articulacion entre infraestructura privada y proyeccion semiestatal;
+- junto con [[Revolucion del color]] para seguir la traduccion politica de esa infraestructura.
+
+## Con que conecta
+
+- [[Open Society Foundations]]
+- [[NED]]
+- [[USAID]]
+- [[Soft Power]]
+- [[Revolucion del color]]
+- [[Lawfare]]
+- [[00_MOC - Redes de Poder]]
+- [[00_MOC - Fundaciones y Filantrocapitalismo]]

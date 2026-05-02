@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:30.674-03:00
-modified: 2026-04-07T12:08:06.826-03:00
+modified: 2026-04-29T14:44:25.432-03:00
 tags:
   - pizzagate
   - wikileaks
@@ -21,14 +21,14 @@ En TL, `Pizzagate` importa menos como afirmación cerrada y más como ejemplo de
 
 ## Ejes de lectura
 
-- filtraciones de Podesta vía [[WikiLeaks]]
+- filtraciones de Podesta vía [[Wikileaks]]
 - relación entre lenguaje en clave, sospecha y pánico moral
 - papel del debunking mediático como contención de daños
 
 ## Conexiones
 
 - [[John Podesta]]
-- [[WikiLeaks]]
+- [[Wikileaks]]
 - [[Jeffrey Epstein]]
 - [[Spirit Cooking]]
 - [[Ridículo como Arma]]

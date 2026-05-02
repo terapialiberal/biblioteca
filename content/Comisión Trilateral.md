@@ -1,15 +1,22 @@
 ---
 publish: true
+aliases:
+  - Comision Trilateral
+  - Trilateral Commission
 created: 2026-04-21T13:20:13.286-03:00
-modified: 2026-04-21T13:20:15.340-03:00
+modified: 2026-05-02T13:54:52.028-03:00
 tags:
-  - "#alias"
-  - "#legacy"
-  - "#trilateral-commission"
-  - "#coordinacion-elite"
-  - "#tl-intel-v3"
+  - comision-trilateral
+  - rockefeller
+  - brzezinski
+  - redes-elite
+  - tl-intel-v3
 ---
 
 # Comisión Trilateral
 
-Nodo legacy. Ver [[Trilateral Commission]].
+[[Comisión Trilateral]] importa en TL como red de coordinación elite entre Norteamérica, Europa y Japón, asociada a gobernabilidad, tecnocracia y orden atlántico.
+
+## Lectura TL
+
+La Trilateral sirve para leer cómo elites buscan administrar interdependencia entre regiones centrales sin depender solo de gobiernos formales.

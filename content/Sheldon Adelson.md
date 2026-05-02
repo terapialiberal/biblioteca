@@ -1,14 +1,15 @@
 ---
-publish: true
+titulo: Sheldon Adelson
 aliases:
   - Sheldon Adelson
-created: 2026-01-29T19:17:36.519-03:00
-modified: 2026-04-07T13:34:46.358-03:00
+tipo: persona
+estado: activo
 tags:
   - persona
   - lobby
   - israel
   - estados-unidos
+publish: true
 ---
 
 # Sheldon Adelson
@@ -26,6 +27,10 @@ En la base interesa como caso de captura indirecta: un actor privado con recurso
 - relación con [[Donald Trump]] y su entorno
 - papel de medios como _Israel Hayom_ en la construcción de clima político
 
+## Qué cambió
+
+La nota ya era útil, pero estaba todavía demasiado general. Se la refuerza como nodo del corredor `megadonante -> operador político -> rediseño diplomático`, especialmente en relación con [[Jared Kushner|Jared Kushner]] y el frente israelí-golfo.
+
 ## Uso analítico en TL
 
 - permite estudiar lobby duro y donaciones como vector de política exterior
@@ -37,5 +42,6 @@ En la base interesa como caso de captura indirecta: un actor privado con recurso
 - [[Benjamin Netanyahu]]
 - [[Donald Trump]]
 - [[Jared Kushner]]
+- [[Lev Leviev|Lev Leviev]]
 - [[John Bolton]]
 - [[Mega Group]]

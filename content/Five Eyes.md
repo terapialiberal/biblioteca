@@ -5,7 +5,7 @@ aliases:
   - Five Eyes Alliance
   - Cinco Ojos
 created: 2026-01-29T19:17:13.777-03:00
-modified: 2026-04-18T17:25:04.608-03:00
+modified: 2026-04-22T16:08:47.017-03:00
 tags:
   - five-eyes
   - sigint
@@ -37,11 +37,17 @@ La clave de Five Eyes no es solo el volumen técnico de vigilancia, sino el truc
 
 En TL, Five Eyes también sirve para leer la persistencia del bloque anglo más allá de cambios partidarios. La alianza funciona como sistema nervioso de anticipación, clasificación y presión, donde la soberanía efectiva pasa cada vez más por quién ve primero, cruza mejor y decide qué señal merece intervención.
 
+La nota gana todavía más fuerza cuando se la conecta con [[PRISM (Programa)]], [[ECHELON]] y [[XKeyscore]]. Ahí Five Eyes deja de ser solo alianza diplomática y aparece como arquitectura operativa de reparto, captura y explotación compartida.
+
 ## Con qué conecta
 
 - [[Agencia de Seguridad Nacional]]
 - [[GCHQ]]
 - [[Edward Snowden]]
 - [[Red Echelon]]
+- [[PRISM (Programa)]]
+- [[ECHELON]]
 - [[XKeyscore]]
+- [[Revelaciones de Snowden]]
+- [[00_MOC - Tecnologia de Control]]
 - [[Estado profundo]]

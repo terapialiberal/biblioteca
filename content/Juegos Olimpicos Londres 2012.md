@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:20.367-03:00
-modified: 2026-04-07T11:14:53.732-03:00
+modified: 2026-05-02T18:25:38.341-03:00
 tags:
   - "2012"
   - covid
@@ -39,7 +39,7 @@ tags:
 ## Conexiones Críticas
 
 - [[COVID-19]]: El evento cuya infraestructura psicológica fue instalada en 2012.
-- [[Programación Predictiva]]: El marco técnico para entender el propósito de la ceremonia.
+- [[Programacion Predictiva]]: El marco técnico para entender el propósito de la ceremonia.
 - [[Ojo de la Providencia]]: El símbolo distribuido por todo el estadio y en las mascotas.
 - [[NHS (National Health Service)]]: La institución utilizada como fachada para la religión médica de Tier A.
 - [[Rituales de Apertura]]: La categoría de eventos públicos utilizados para la alteración de la conciencia colectiva.

@@ -5,13 +5,13 @@ aliases:
   - Tratado de Pandemias de la OMS
   - Tratado De Pandemias (OMS)
 created: 2026-02-25T15:44:39.927-03:00
-modified: 2026-04-21T11:35:27.603-03:00
+modified: 2026-04-22T15:50:31.346-03:00
 tags:
-  - "#tratado-de-pandemias"
-  - "#oms"
-  - "#bioseguridad"
-  - "#soberania"
-  - "#tl-intel-v3"
+  - tratado-de-pandemias
+  - oms
+  - bioseguridad
+  - soberania
+  - tl-intel-v3
 ---
 
 # Tratado de Pandemias OMS
@@ -48,14 +48,23 @@ La cuestión central es cómo una crisis sanitaria o bioseguritaria puede habili
 
 Leído junto con [[World Health Organization]], [[GAVI]] y [[Pasaportes de Vacuna]], este nodo representa la capa jurídica y doctrinal del ecosistema.
 
+### 5. Derecho blando con efectos duros
+
+En TL, el tratado importa también porque muestra cómo un lenguaje técnico-jurídico puede consolidar estándares, expectativas de cumplimiento e interoperabilidad sin necesitar de entrada un gobierno sanitario mundial formal.
+
 ## Conexiones
 
 - [[World Health Organization]]
 - [[GAVI]]
+- [[CEPI]]
+- [[Wellcome Trust]]
+- [[Fundacion Bill y Melinda Gates]]
 - [[Pasaportes de Vacuna]]
+- [[ID2020]]
 - [[Digital ID - Global Protocol]]
 - [[Biopolitica]]
 - [[Bioseguridad]]
 - [[Salud Global]]
 - [[Tedros Adhanom Ghebreyesus]]
+- [[00_MOC - Salud Global y Bioseguridad]]
 - [[Tecnocracia]]

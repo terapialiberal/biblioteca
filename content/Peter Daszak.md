@@ -3,14 +3,14 @@ publish: true
 aliases:
   - "Peter Daszak: El Eslabón Perdido De Wuhan"
 created: 2026-01-29T19:17:30.392-03:00
-modified: 2026-04-21T11:39:06.434-03:00
+modified: 2026-04-22T16:03:10.370-03:00
 tags:
-  - "#peter-daszak"
-  - "#ecohealth"
-  - "#bioseguridad"
-  - "#wuhan"
-  - "#gain-of-function"
-  - "#tl-intel-v3"
+  - peter-daszak
+  - ecohealth
+  - bioseguridad
+  - wuhan
+  - gain-of-function
+  - tl-intel-v3
 ---
 
 # Peter Daszak
@@ -51,6 +51,10 @@ El nodo gana importancia cuando se lo conecta con la capacidad de moldear consen
 
 Leído junto con [[EcoHealth Alliance]], [[Ganancia de Funcion]] e [[Instituto de Virologia de Wuhan]], Peter Daszak deja de ser solo personaje del caso COVID y pasa a funcionar como actor reusable del frente `riesgo biológico externalizado`.
 
+### 5. Operador de interfaz
+
+La nota rinde más cuando se la conecta con [[Anthony Fauci]] y [[World Health Organization]]. En ese punto, Daszak aparece menos como anomalía aislada y más como operador de interfaz entre ciencia, grants, validación institucional y blindaje narrativo.
+
 ## Con que conecta
 
 - [[EcoHealth Alliance]]
@@ -59,3 +63,5 @@ Leído junto con [[EcoHealth Alliance]], [[Ganancia de Funcion]] e [[Instituto d
 - [[Instituto de Virologia de Wuhan]]
 - [[World Health Organization]]
 - [[Bioseguridad]]
+- [[Vigilancia Biologica]]
+- [[00_MOC - Salud Global y Bioseguridad]]

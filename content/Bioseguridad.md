@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2026-04-21T11:32:23.159-03:00
-modified: 2026-04-21T11:39:06.936-03:00
+modified: 2026-04-22T12:26:02.792-03:00
 tags:
-  - "#bioseguridad"
-  - "#salud-global"
-  - "#vigilancia"
-  - "#preparacion-pandemica"
-  - "#control"
-  - "#tl-intel-v3"
+  - bioseguridad
+  - salud-global
+  - vigilancia
+  - preparacion-pandemica
+  - control
+  - tl-intel-v3
 ---
 
 # Bioseguridad
@@ -45,6 +45,10 @@ La mutación relevante es el paso de respuesta puntual a infraestructura constan
 
 Leída junto con [[Salud Global]], [[World Health Organization]], [[GAVI]], [[CEPI]] y [[Wellcome Trust]], la bioseguridad aparece como la lógica que une ciencia, filantropía, burocracia y mercado sanitario en un mismo corredor.
 
+### 5. Seguridad sanitaria como stack de control
+
+Su valor en TL crece cuando se la lee junto con [[Biopolitica]], [[Pasaportes de Vacuna]] y [[Digital ID - Global Protocol]]. En esa secuencia, la bioseguridad deja de ser solo prevención y aparece como capa de activación para permisos, filtros y verificaciones sobre población y movilidad.
+
 ## Con que conecta
 
 - [[Biopolitica]]
@@ -57,3 +61,4 @@ Leída junto con [[Salud Global]], [[World Health Organization]], [[GAVI]], [[CE
 - [[Vigilancia Biologica]]
 - [[Pasaportes de Vacuna]]
 - [[Digital ID - Global Protocol]]
+- [[Compliance]]

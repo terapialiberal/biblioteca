@@ -38,7 +38,7 @@ publish: true
 - [[Dick Cheney]] (Su arquitecto y beneficiario principal)
 - [[Guerra de Irak / Kuwait]] (Su mayor fuente de ingresos)
 - [[Complejo Militar-Industrial]] (Su ecosistema de poder)
-- [[Blackwater / Academi]] (Sus socios en la privatización del conflicto)
+- [[Blackwater - Academi]] (Sus socios en la privatización del conflicto)
 
 ## Por Qué Importa (Estilo Nico)
 

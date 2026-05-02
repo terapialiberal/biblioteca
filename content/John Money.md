@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:19.912-03:00
-modified: 2026-04-07T11:14:52.742-03:00
+modified: 2026-05-02T18:25:37.622-03:00
 tags:
   - instituto
   - inversin
@@ -42,7 +42,7 @@ tags:
 - [[Instituto Kinsey]]: La central de investigación social que validó y expandió sus teorías.
 - [[WPATH]]: La organización de Tier B que estandarizó sus fraudes como "protocolos médicos".
 - [[Universidad Johns Hopkins]]: El prestigio institucional que sirvió de escudo para su experimentación.
-- [[Ideología de Género]]: El sistema operativo social resultante de su trabajo.
+- [[Ideologia de Genero]]: El sistema operativo social resultante de su trabajo.
 
 ## Conclusión Del Análisis
 

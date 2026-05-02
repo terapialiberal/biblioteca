@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Stablecoin Regulation US (2026)
 created: 2026-02-09T17:32:42.080-03:00
-modified: 2026-04-19T13:19:37.738-03:00
+modified: 2026-04-22T10:36:02.072-03:00
 tags:
   - stablecoins
   - regulacion-eeuu
@@ -47,6 +47,10 @@ La regulacion tambien importa como salto cualitativo de control: mas KYC, congel
 
 Leido con [[Tether USDS]], [[Howard Lutnick]] y [[Tokenized Sovereign Debt]], el nodo ayuda a ver que la pelea regulatoria no es abstracta. Es una pelea por quien administra el rail autorizado del dolar digital.
 
+### 5. Regulacion como soporte indirecto del Tesoro
+
+La lectura gana espesor cuando se conecta esta regulacion con [[Treasuries]], [[GENIUS Act]] y [[Scott Bessent]]. La stablecoin regulada no solo ordena el ecosistema cripto: tambien puede convertirse en mecanismo adicional de absorcion de deuda corta y de extension internacional del dolar privado-estatal.
+
 ## Con que conecta
 
 - [[Tether USDS]]
@@ -55,3 +59,6 @@ Leido con [[Tether USDS]], [[Howard Lutnick]] y [[Tokenized Sovereign Debt]], el
 - [[CBDC]]
 - [[Tokenized Sovereign Debt]]
 - [[Stablecoins]]
+- [[GENIUS Act]]
+- [[Scott Bessent]]
+- [[Reanclaje Hibrido]]

@@ -1,22 +1,43 @@
 ---
+titulo: Transmutacion de Metales y CBDCs
+tipo: concepto
+fecha: 2026-04-27
+estado: activo
+aliases: ["Transmutación De Metales Y CBDCs"]
+tags: [cbdc, alquimia, dinero, transmutacion, tl-intel-v3]
+tier_primario: b
+nivel_evidencia: medio
 publish: true
-created: 2026-02-25T22:08:53.356-03:00
-modified: 2026-04-07T11:15:21.755-03:00
-tags:
-  - cbdcs
-  - metales
-  - transmutacin
 ---
 
-# Transmutación De Metales Y CBDCs
+# Transmutacion de Metales y CBDCs
 
-> [!ABSTRACT] Hipótesis Informativa
-> Nodo perteneciente a la Matrix de Simbolismo y Esoterismo TL V.2.
+## BLUF
 
-## Análisis De Tiers
+Transmutacion de Metales y CBDCs usa la alquimia como metafora del pasaje de dinero material a dinero programable: del metal soberano al token administrado.
 
-_En desarrollo..._
+## Que es
 
-## Cui Bono
+La alquimia buscaba transformar materia y valor. Las CBDCs transforman la forma del dinero: de efectivo relativamente anonimo a unidad digital potencialmente programable.
 
-_Pendiente de análisis forense._
+## Por que importa en TL
+
+- conecta historia monetaria, control financiero y simbolismo de transmutacion;
+- permite leer dinero como tecnologia politica;
+- muestra el pasaje de valor fisico a permiso computacional.
+
+## Lectura TL
+
+La transmutacion moderna no convierte plomo en oro: convierte libertad transaccional en trazabilidad. La pregunta es quien programa las condiciones del dinero.
+
+## Conexiones
+
+- [[CBDCs]]
+- [[Banco de Pagos Internacionales]]
+- [[Tokenizacion de Activos Reales]]
+- [[Alquimia Operativa]]
+- [[00_MOC - Finanzas y CBDC]]
+
+## Nivel de evidencia
+
+Medio como metafora. Alto para tendencias de digitalizacion monetaria y debate CBDC.

@@ -3,14 +3,14 @@ publish: true
 aliases:
   - Operación Phoenix
 created: 2026-01-29T19:17:28.799-03:00
-modified: 2026-04-21T12:36:48.040-03:00
+modified: 2026-04-22T12:11:43.258-03:00
 tags:
-  - "#operacion-phoenix"
-  - "#contrainsurgencia"
-  - "#vietnam"
-  - "#cia"
-  - "#asesinato-selectivo"
-  - "#tl-intel-v3"
+  - operacion-phoenix
+  - contrainsurgencia
+  - vietnam
+  - cia
+  - asesinato-selectivo
+  - tl-intel-v3
 ---
 
 # Operacion Phoenix
@@ -47,6 +47,10 @@ En TL, el valor del nodo está en cómo combina burocracia, listas, incentivos y
 
 También sirve como patrón: muchas arquitecturas posteriores de guerra sucia y contrainsurgencia retoman la idea de identificar nodos sociales, aislarlos y destruir su capacidad organizativa.
 
+### 4. Burocracia de la neutralizacion
+
+La nota gana más fuerza cuando se la lee como antecedente de violencia administrada. Phoenix importa no solo por la represión, sino por haber convertido inteligencia, clasificación y ejecución en procedimiento repetible.
+
 ## Con que conecta
 
 - [[William Colby]]
@@ -55,3 +59,4 @@ También sirve como patrón: muchas arquitecturas posteriores de guerra sucia y 
 - [[Vietnam (Guerra Profunda)]]
 - [[Tortura]]
 - [[00_MOC - Operaciones Encubiertas]]
+- [[00_MOC - Inteligencia Clasica y Operaciones Historicas]]

@@ -1,43 +1,28 @@
 ---
-titulo: "COINTELPRO: El Programa De Desestabilización Interna"
-tipo: "concepto"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [cointelpro, desestabilizacin, interna, programa]
 publish: true
+aliases:
+  - COINTELPRO (FBI)
+created: 2026-01-29T19:17:08.151-03:00
+modified: 2026-05-02T12:56:15.400-03:00
+tags:
+  - cointelpro
+  - fbi
+  - contrainteligencia
+  - disidencia
+  - tl-intel-v3
 ---
 
-# COINTELPRO: El Programa De Desestabilización Interna
+# COINTELPRO
 
-> [!ABSTRACT] Hipótesis Informativa
-> COINTELPRO fue el programa Tier A del FBI para infiltrar, desestabilizar y neutralizar movimientos sociales y políticos disidentes mediante operaciones psicológicas y físicas.
+[[COINTELPRO]] importa en TL como programa del FBI orientado a infiltrar, desorganizar y neutralizar movimientos políticos internos.
 
-## Análisis De Tiers
+## Lectura TL
 
-### Tier A: FBI Y Operadores De Inteligencia
+COINTELPRO muestra que la frontera entre seguridad nacional y control político doméstico puede desaparecer. Es antecedente directo para leer vigilancia, infiltración y criminalización de disidencia.
 
-- **Neutralización de Disidencia:** Infiltración, desinformación y eliminación física de líderes.
+## Conecta
 
-### Tier B: Agencias De Seguridad Y Policías Locales
-
-- **Coordinación Operativa:** Aplicación de tácticas de desestabilización local.
-
-### Tier C: Movimientos Sociales Y Población
-
-- **Desorganización Forzada:** Pérdida de cohesión y credibilidad.
-
-## Mecanismos De Poder
-
-1. **Infiltración:** Colocación de agentes dentro de organizaciones disidentes.
-2. **Desinformación:** Creación de rumores y documentos falsos para desacreditar.
-
-## Conexiones Críticas
-
-- [[FBI]]: Ejecutor principal del programa.
-- [[J. Edgar Hoover]]: Arquitecto y director.
-
-## Conclusión Del Análisis
-
-COINTELPRO es el modelo de operación psicológica contra la disidencia interna, aún vigente en formas modernas.
+- [[FBI]]
+- [[Malcolm X]]
+- [[MLK]]
+- [[Police State]]

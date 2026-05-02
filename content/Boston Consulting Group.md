@@ -1,28 +1,37 @@
 ---
-titulo: Boston Consulting Group (BCG)
-tipo: "entidad"
+titulo: "Boston Consulting Group (BCG)"
+tipo: entidad
 fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
+tier_primario: b
+nivel_evidencia: medio
 estado: activo
-tags: [boston, consulting, group]
+tags: [bcg, consultoria, vision-2030, reforma-estatal, technocracy, tl-intel-v3]
 publish: true
 ---
 
-# Boston Consulting Group (BCG)
+# Boston Consulting Group
 
-> **Resumen:** Los arquitectos de la reestructuración estatal global (Saudi Vision 2030, etc).
+> [!NOTE] Consultoría como sistema operativo de reforma
+> BCG importa en TL como traductor entre capital global, gobiernos y programas de modernización estatal.
 
-## Notas Iniciales
+## Qué es
 
-_Nota generada automáticamente tras análisis de huecos de información._
+Boston Consulting Group es una firma global de consultoría estratégica. En tableros TL aparece cuando gobiernos, fondos soberanos o empresas críticas tercerizan diseño de transformación, eficiencia, digitalización o reestructuración.
 
-## Puntos a Investigar
+## Por qué importa en TL
 
-- Definir conexión exacta con Tier A.
-- Buscar contratos o financiamiento (Follow the Money).
-- Identificar operadores clave.
+La consultoría no gobierna formalmente, pero escribe diagnósticos, modelos, KPIs y roadmaps. Esa capa puede condicionar decisiones públicas sin rendición electoral directa.
 
-## Conexiones Potenciales
+## Señales a monitorear
 
-- [[00 Índice Maestro]]
+- Contratos en ministerios, ciudades inteligentes, energía o defensa.
+- Participación en planes nacionales tipo Vision 2030.
+- Circulación de ex consultores hacia gobierno y viceversa.
+- Uso de lenguaje homogéneo: resiliencia, transición, eficiencia, stakeholder, digital government.
+
+## Conexiones
+
+- [[McKinsey and Company|McKinsey]]
+- [[AlixPartners]]
+- [[Technocracy Inc|Technocracy]]
+- Saudi Vision 2030

@@ -1,50 +1,41 @@
 ---
-titulo: Cantillon Effect (Efecto Cantillon)
-tipo: "persona"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [cantillon, efecto, effect, reserva]
 publish: true
+aliases:
+  - Efecto Cantillon
+  - Cantillon
+  - Cantillon Effect (Efecto de Primera Emisión)
+created: 2026-01-29T19:17:06.363-03:00
+modified: 2026-05-02T12:22:05.768-03:00
+tags:
+  - cantillon-effect
+  - inflacion
+  - liquidez
+  - desigualdad
+  - control-financiero
+  - tl-intel-v3
 ---
 
-# Cantillon Effect (Efecto Cantillon)
+# Cantillon Effect
 
-## Perfil TL (Resumen Ejecutivo)
+## BLUF
 
-**¿Qué es?** Es el fenómeno económico según el cual quien recibe primero el dinero nuevo (recién impreso o creado) se beneficia a costa de quienes lo reciben al final.
+[[Cantillon Effect]] importa en TL como idea de que el dinero nuevo no entra a la economía de forma pareja. Quien lo recibe primero puede comprar activos y ajustar precios antes de que el resto absorba la pérdida de poder adquisitivo.
 
-**¿Por qué importa?** Es la **física oculta de la desigualdad**. Cuando los bancos centrales ([[Reserva Federal]], BCE) imprimen trillones, ese dinero no cae por igual en todos lados. Primero llega a los bancos, al Estado y a las grandes corporaciones, quienes pueden comprar activos (acciones, tierras) a precios viejos. Para cuando el dinero llega al trabajador común, los precios ya subieron. Es un mecanismo de transferencia de riqueza masivo e invisible de la clase media hacia el Tier A, ejecutado a través del sistema financiero.
+## Por que importa en TL
 
-## Análisis De Poder (Tiers)
+- conecta [[Inflación]], [[Quantitative Easing]], [[Reserva Federal]] y desigualdad patrimonial;
+- ayuda a explicar por qué expansión monetaria puede enriquecer primero a sectores financieros;
+- traduce una discusión monetaria abstracta en pregunta distributiva concreta: quién recibe primero.
 
-### Tier A (Los Primeros Receptores)
+## Lectura TL
 
-- **Bancos Centrales y Gobiernos:** Tienen el monopolio de la creación de la "moneda fiat". Ellos deciden cuándo y cuánto se inyecta, manteniendo el valor real de su poder adquisitivo mientras diluyen el tuyo.
-- **Bancos Sistémicos (Wall Street):** Son el primer eslabón de la cadena. Compran activos financieros antes de que la inflación se manifieste en la economía real, inflando burbujas que benefician al 1% propietario.
+El efecto Cantillon es clave para no leer inflación como lluvia pareja. La secuencia de entrada importa: bancos, gobierno, contratistas o mercados de activos pueden capturar el impulso inicial mientras salarios, jubilaciones y ahorros reaccionan tarde.
 
-### Tier B (Operativa / Gestión De La Deuda)
+## Con que conecta
 
-- **Fondos de Inversión y Fintechs:** Gestionan los flujos de capital nuevo para adquisiciones estratégicas, comprando empresas y recursos naturales mientras el poder de compra del ahorro ciudadano se evapora.
-
-### Tier C (Narrativa Pública)
-
-- "Estimular la economía". "Evitar la deflación". "Ayuda social financiada con emisión". Retórica que oculta el hecho de que la inflación es un impuesto regresivo que no requiere aprobación legislativa.
-
-## Conexiones Clave
-
-- [[Reserva Federal]] (El emisor principal)
-- [[Banca de Reserva Fraccionaria]] (El multiplicador)
-- [[Inflación]] (La consecuencia)
-- [[The Great Reset]] (El destino final de la deuda)
-
-## Fuentes
-
-- Richard Cantillon: "Essay on the Nature of Trade in General" (1755).
-- Friedrich Hayek: Estudios sobre ciclos económicos y moneda.
-- Informes de la Escuela Austríaca de Economía.
-
-## Por Qué Importa (Estilo Nico)
-
-> "El Efecto Cantillon es la razón por la que vos sos cada vez más pobre aunque te matés trabajando. El sistema está diseñado para que los dueños del casino reciban las fichas gratis y vos tengas que pagarlas con tu tiempo. Para cuando el billete llega a tus manos, ya perdió el 20% de su valor porque los amigos de la Fed ya se compraron todo lo que valía la pena. La inflación no es un accidente, es el peaje que el Tier A te cobra por existir en su sistema fiat."
+- [[Inflación]]
+- [[Impuesto Inflacionario]]
+- [[Quantitative Easing]]
+- [[Reserva Federal]]
+- [[Aladdin]]
+- [[00_MOC - Control Financiero]]

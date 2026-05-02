@@ -1,52 +1,33 @@
 ---
-titulo: Agenda 2030
-tipo: evento
-fecha: 2026-02-25
-tier_primario: b
-nivel_evidencia: medio
-estado: activo
-tags: [agenda, bill, great]
 publish: true
+aliases:
+  - Agenda 2030 (ONU)
+  - ODS
+  - Objetivos de Desarrollo Sostenible
+created: 2026-01-29T19:17:03.003-03:00
+modified: 2026-05-02T12:50:43.184-03:00
+tags:
+  - agenda-2030
+  - onu
+  - ods
+  - gobernanza-global
+  - tl-intel-v3
 ---
-
-![SDG Wheel](https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Sustainable_Development_Goals.svg/220px-Sustainable_Development_Goals.svg.png)
 
 # Agenda 2030
 
-## Resumen Ejecutivo
+## BLUF
 
-**¿Qué es?** El plan maestro de la [[ONU]] adoptado en 2015. 17 Objetivos de Desarrollo Sostenible (ODS) ("Fin de la pobreza", "Hambre cero").
+[[Agenda 2030]] importa en TL como marco de gobernanza global que traduce desarrollo, clima, salud, igualdad, finanzas y datos en objetivos medibles y administrables por Estados, organismos, empresas y fundaciones.
 
-**¿Por qué importa?** Es el **Contrato Social Global**. Bajo nombres bonitos, esconde la centralización total de recursos y la abolición de la propiedad privada individual. Para "salvar el planeta", propone que una tecnocracia no electa gestione qué se produce, qué se come (insectos/carne sintética), cómo te mueves (ciudades de 15 minutos) y qué posees ("No tendrás nada y serás feliz").
+## Lectura TL
 
-## Análisis (Tiers)
+Su relevancia no está solo en los objetivos declarados. Importa porque crea lenguaje común, métricas, reportes, financiamiento condicionado y presión reputacional. En TL se lee como infraestructura blanda de coordinación, no como decreto único de gobierno mundial.
 
-### Tier A (Diseño)
+## Con que conecta
 
-- **Club de Roma:** La ideología malthusiana de "Límites del Crecimiento" es la base. Creen que hay demasiada gente consumiendo demasiado.
-- **Vaticano:** El Papa Francisco dio su bendición total (Laudato Si').
-
-### Tier B (Traducción Real)
-
-- **ODS 1 (No Pobreza):** = Dependencia universal del Estado (UBI) tras destruir la economía productiva independiente.
-- **ODS 2 (Hambre Cero):** = Destrucción de la agricultura tradicional y reemplazo por agricultura corporativa GMO (Gates).
-- **ODS 13 (Acción Climática):** = Impuestos al carbono y desindustrialización de Occidente.
-- **ODS 16 (Identidad Legal):** = Identidad Digital Biométrica obligatoria para todos.
-
-### Tier C (Narrativa)
-
-- "Nadie se queda atrás"
-- "Por el bien común"
-- "Sostenibilidad"
-
-## Conexiones
-
-- [[WEF]] (socios estratégicos)
 - [[ONU]]
-- [[00_Glosario - Conceptos Fase 1#Bill & Melinda Gates Foundation|Bill & Melinda Gates Foundation]]
-- [[Great Reset]] (el botón de ejecución tras el COVID)
-
-## Fuentes
-
-- Documentos oficiales de UN Agenda 2030.
-- "Glenn Beck's Agenda 21" (análisis crítico temprano)
+- [[ESG]]
+- [[Stakeholder Capitalism]]
+- [[Salud Global]]
+- [[Gobernanza Digital]]

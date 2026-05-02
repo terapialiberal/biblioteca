@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-19T12:40:12.352-03:00
-modified: 2026-04-19T12:40:12.352-03:00
+modified: 2026-04-22T16:33:06.266-03:00
 tags:
   - shoshana-zuboff
   - capitalismo-de-vigilancia
@@ -41,6 +41,10 @@ En TL, su utilidad crece cuando la tesis se lee no solo como crítica empresaria
 
 Su obra ayuda a describir la mutación del poder digital, aunque en TL conviene complementarla con nodos sobre seguridad, inteligencia y gobernanza algorítmica para no reducir el fenómeno a mera lógica de mercado.
 
+### 4. Lenguaje para la fase de plataforma
+
+La nota gana más espesor cuando se la conecta con [[Project Nimbus]], [[Palantir AIP]] y [[00_MOC - Vigilancia Tecnica y SIGINT]]. Ahí Zuboff deja de funcionar sólo como autora de referencia y pasa a ser un puente conceptual entre plataformas, nube y gobierno algorítmico.
+
 ## Con que conecta
 
 - [[Capitalismo de Vigilancia]]
@@ -49,3 +53,6 @@ Su obra ayuda a describir la mutación del poder digital, aunque en TL conviene 
 - [[Gobernanza Digital]]
 - [[Nudge Theory]]
 - [[Cambridge Analytica]]
+- [[Project Nimbus]]
+- [[Palantir AIP]]
+- [[00_MOC - Vigilancia Tecnica y SIGINT]]

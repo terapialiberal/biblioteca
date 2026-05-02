@@ -3,7 +3,7 @@ publish: true
 aliases:
   - "Peter Thiel: El Arquitecto Del Tecno-Feudalismo"
 created: 2026-01-29T19:17:30.419-03:00
-modified: 2026-04-20T10:01:41.077-03:00
+modified: 2026-04-24T10:28:48.511-03:00
 tags:
   - peter-thiel
   - paypal-mafia
@@ -47,10 +47,20 @@ Su relevancia crece cuando se lo observa como articulador de ecosistemas y no co
 
 Thiel sirve para leer una mutacion en la elite tecnologica: del emprendedor libertario clasico al operador que acepta o impulsa formas mas jerarquicas de gobierno, soberania tecnica y poder concentrado sobre datos, seguridad y seleccion de cuadros.
 
+### 5. Arquitecto del subcorredor
+
+La nota gana aún más fuerza cuando se la conecta con [[Palantir]], [[Anduril Industries]], [[In-Q-Tel]] y [[00_MOC - Vigilancia Tecnica y SIGINT]]. Ahí Thiel deja de ser sólo inversor influyente y pasa a aparecer como arquitecto de un ecosistema donde venture, vigilancia y defensa convergen.
+
 ## Con que conecta
 
 - [[Palantir]]
+- [[Anduril Industries]]
+- [[Palmer Luckey]]
 - [[Founders Fund]]
 - [[PayPal Mafia]]
 - [[In-Q-Tel]]
+- [[Project Nimbus]]
+- [[Clearview AI]]
+- [[Alex Karp]]
+- [[00_MOC - Vigilancia Tecnica y SIGINT]]
 - [[JD Vance]]

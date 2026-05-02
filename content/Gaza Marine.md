@@ -1,20 +1,35 @@
 ---
 publish: true
-created: 2026-03-12T15:16:08.023-03:00
-modified: 2026-04-07T10:48:58.462-03:00
-tags:
-  - gaza
-  - gas
-  - mediterraneo-oriental
-  - imec
-  - pa
-  - israel
-  - activo-tier-a
-  - energia
-  - 7-octubre
+titulo: "Gaza Marine"
+tipo: concepto
+tier_primario: a
+nivel_evidencia: alto
+estado: activo
+tags: [gaza, gas, mediterraneo-oriental, imec, pa, israel, activo-tier-a, energia, 7-octubre, tl-intel-v3]
+fecha: 2026-03-12
 ---
 
-# Gaza Marine — El Campo de Gas que el 7 de Octubre Reconfiguró
+# Gaza Marine
 
-> [!IMPORTANT] ACTIVO TIER A
-> Campo de gas offshore a 30km de la costa de Gaza. Reservas documentadas. El 7 de octubre eliminó a la Autoridad Palestina como co-titular con poder de veto, desbloqueando el desarrollo del campo bajo nuevas condiciones.
+> [!IMPORTANT] Activo energético Tier A
+> Campo de gas offshore frente a Gaza. En TL es un nodo para leer guerra, reconstrucción, soberanía y corredores energéticos del Mediterráneo oriental.
+
+## Qué es
+
+Gaza Marine refiere a reservas de gas natural ubicadas frente a la costa de Gaza. Su peso geopolítico proviene de estar en una zona donde se cruzan bloqueo, administración palestina, seguridad israelí, financiación de reconstrucción y competencia por infraestructura energética regional.
+
+## Por qué importa en TL
+
+El activo permite formular una pregunta estructural: quién captura el valor de un recurso cuando el soberano formal no controla plenamente territorio, costa, seguridad ni financiamiento. Gaza Marine conecta energía con tutela política.
+
+## Qué cambió
+
+Después del 7 de octubre, cualquier discusión sobre explotación del campo queda subordinada a seguridad, administración post-conflicto y arquitectura de reconstrucción.
+
+## Conexiones
+
+- [[Creacion de Israel|Israel]]
+- [[Gaza]]
+- [[Corredor IMEC|IMEC]]
+- [[Jared Kushner]]
+- [[Genie Energy]]

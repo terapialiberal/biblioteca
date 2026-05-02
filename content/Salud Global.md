@@ -1,15 +1,15 @@
 ---
 publish: true
 created: 2026-04-21T11:32:23.301-03:00
-modified: 2026-04-21T11:32:25.504-03:00
+modified: 2026-04-22T12:26:02.816-03:00
 tags:
-  - "#salud-global"
-  - "#gobernanza"
-  - "#who"
-  - "#gavi"
-  - "#cepi"
-  - "#filantrocapitalismo"
-  - "#tl-intel-v3"
+  - salud-global
+  - gobernanza
+  - who
+  - gavi
+  - cepi
+  - filantrocapitalismo
+  - tl-intel-v3
 ---
 
 # Salud Global
@@ -46,6 +46,10 @@ Las crisis sanitarias sirven para acelerar infraestructura, compras, interoperab
 
 Leída junto con [[Biopolitica]] y [[Bioseguridad]], la salud global funciona como el tablero donde se organizan actores, doctrinas y herramientas del frente biopolítico.
 
+### 5. Coordinacion sin centro unico visible
+
+La nota gana espesor cuando se la separa de la caricatura de un mando único. En TL, Salud Global importa precisamente porque su poder aparece distribuido entre organismos, fundaciones, alianzas y marcos técnicos que pueden converger sin necesidad de un soberano sanitario único y explícito.
+
 ## Con que conecta
 
 - [[World Health Organization]]
@@ -56,3 +60,5 @@ Leída junto con [[Biopolitica]] y [[Bioseguridad]], la salud global funciona co
 - [[One Health]]
 - [[Biopolitica]]
 - [[Bioseguridad]]
+- [[Big Pharma]]
+- [[Pasaportes de Vacuna]]

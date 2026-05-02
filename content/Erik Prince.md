@@ -35,7 +35,7 @@ publish: true
 
 ## Conexiones Clave
 
-- [[Blackwater / Academi]] (Su creación más polémica)
+- [[Blackwater - Academi]] (Su creación más polémica)
 - [[Donald Trump / Betsy DeVos]] (Su nexo político-familiar)
 - [[China / Belt and Road]] (Sus nuevos socios en Asia)
 - [[Mercenarios / PMC (Private Military Companies)]] (El sector que lidera)

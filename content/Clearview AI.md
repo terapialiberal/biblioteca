@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:07.917-03:00
-modified: 2026-04-17T16:32:47.525-03:00
+modified: 2026-04-22T16:24:33.421-03:00
 tags:
   - clearview
   - reconocimiento-facial
@@ -44,11 +44,23 @@ En TL, este nodo sirve para mostrar que la biometría no necesita chips ni walle
 
 Leída junto con [[Biometria Global]], Clearview representa la cara policial y de seguridad del mismo stack que en otros carriles aparece como identidad, onboarding o conveniencia.
 
+### 5. Reconocimiento sin cooperacion explicita
+
+En TL, Clearview gana todavía más densidad cuando se la conecta con [[Cellebrite]] y [[NSO Group]]. Ahí el corredor biométrico deja de parecer una excepción aislada y pasa a leerse como parte del mismo mercado de identificación, extracción e intrusión.
+
+### 6. Del rostro al targeting
+
+Leída junto con [[Palantir]] y [[Anduril Industries]], la nota gana una capa más: la biometría deja de ser solo identificación y pasa a integrarse a cadenas más amplias de priorización, vigilancia operativa y respuesta.
+
 ## Conexiones
 
 - [[Biometria Global]]
 - [[Vigilancia Predictiva]]
+- [[Cellebrite]]
+- [[NSO Group]]
 - [[Palantir]]
+- [[Anduril Industries]]
 - [[Peter Thiel]]
 - [[Tecnocracia]]
 - [[Gobernanza Algoritmica]]
+- [[00_MOC - Vigilancia Tecnica y SIGINT]]

@@ -1,48 +1,40 @@
 ---
-titulo: "Choke Point: Estrecho de Malaca"
-tipo: "concepto"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [choke, estrecho, point, rimland]
 publish: true
+aliases:
+  - Malaca
+  - Estrecho de Malaca (Geopolítica)
+created: 2026-02-09T17:21:50.678-03:00
+modified: 2026-05-02T12:41:35.895-03:00
+tags:
+  - malaca
+  - chokepoint
+  - china
+  - comercio
+  - rimland
+  - tl-intel-v3
 ---
 
-# [[Choke Point: Estrecho de Malaca]]
+# Estrecho de Malaca
 
-**Clasificación:** Geo-Estratégico (Corazón del Rimland)\
-**Ubicación:** Entre Malasia, Indonesia y Singapur.
+## BLUF
 
-## 🦾 ANÁLISIS FORENSE
+[[Estrecho de Malaca]] importa en TL como vulnerabilidad logística de Asia oriental y especialmente de China: por ese corredor se concentra una parte crítica del comercio marítimo y de los flujos energéticos hacia el Pacífico.
 
-El **Estrecho de Malaca** es la yugular energética de China y el choke point más crítico del mundo. El 80% de las importaciones de petróleo de China pasan por aquí.
+## Por que importa en TL
 
-### La Doctrina Spykman Aplicada
+- conecta [[China]], [[Sistema CIPS]], [[Proyecto mBridge]] y competencia por rutas;
+- ayuda a leer por qué infraestructura, puertos, Belt and Road y presencia naval son parte del mismo problema;
+- es bisagra entre geopolítica física y transición monetaria asiática.
 
-Siguiendo la tesis del [[Rimland]], quien controla Malaca controla el flujo vital de Eurasia. La presencia naval de [[US]] en Singapur y la creciente militarización de la región buscan asegurar la capacidad de "extrangulamiento" económico en caso de conflicto por Taiwán.
+## Lectura TL
 
-### Señales 2026
+Malaca muestra que la autonomía monetaria no alcanza si las rutas físicas siguen expuestas. Un país puede construir rails de pago alternativos, pero si su energía y comercio pasan por un cuello vigilable, la soberanía sigue condicionada por geografía y poder naval.
 
-- China acelera el Canal de Kra (Tailandia) o oleoductos vía Myanmar para evitar este paso (Estrategia de escape).
-- [[BlackRock]] y otros fondos Tier A incrementan posiciones en infraestructura logística en Singapur para controlar la gestión del flujo.
+## Con que conecta
 
-## 💰 CUI BONO
-
-- **[[US]] Navy:** Mantiene la hegemonía naval global.
-- **Singapur:** Se beneficia de ser el hub logístico protegido.
-
-## 🔗 CONEXIONES
-
-- [[Rimland]]
-- [[Nicholas Spykman]]
-- [[Project mBridge]] (Alternativa financiera al bloqueo físico)
-- [[Canal de Panamá]] (Choke point gemelo)
-
-## Actualizacion 2026-04
-
-El caso `LAS GUERRAS MAGA` sube el peso de Malaca dentro del tablero TL.
-
-- Ya no aparece solo como choke point estructural de China, sino como posible siguiente acto despues de Ormuz.
-- El acuerdo EEUU-Indonesia y los movimientos chinos en el Mar del Sur vuelven menos teorica la tesis del frente asiatico.
-- La formulacion reusable es: **Ormuz pone el precio; Malaca puede definir el cerco**.
+- [[China]]
+- [[Teoria del Rimland]]
+- [[Sistema CIPS]]
+- [[Proyecto mBridge]]
+- [[Desdolarizacion]]
+- [[00_MOC - Rimland]]

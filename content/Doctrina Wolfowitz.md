@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-01-29T19:17:10.423-03:00
-modified: 2026-04-21T13:03:47.816-03:00
+modified: 2026-04-21T13:03:55.156-03:00
 tags:
-  - "#doctrina-wolfowitz"
-  - "#hegemonia"
-  - "#guerra-preventiva"
-  - "#unipolaridad"
-  - "#tl-intel-v3"
+  - doctrina-wolfowitz
+  - hegemonia
+  - guerra-preventiva
+  - unipolaridad
+  - tl-intel-v3
 ---
 
 # Doctrina Wolfowitz

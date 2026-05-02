@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-20T16:59:34.732-03:00
-modified: 2026-04-20T16:59:35.140-03:00
+modified: 2026-04-22T10:25:26.473-03:00
 tags:
   - reanclaje-hibrido
   - dolar
@@ -41,10 +41,22 @@ En TL, su relevancia aumenta cuando se observa que el sistema no parece converge
 
 Su valor crece porque permite leer guerra, aranceles, stress fiscal, stablecoins y soporte de Treasuries como piezas del mismo intento de ganar tiempo y recentrar demanda global alrededor de EEUU.
 
+### 4. 2026 no copia 1973, pero rima
+
+Leído junto con [[Shock de Nixon]], [[Sistema Petrodolar]] y [[Saltsjobaden_1973_MarALago_2026]], el concepto sirve para marcar el cambio de época. En los 70 la salida fue más legible: petróleo, Arabia Saudita y reciclaje de excedentes. En 2026 la hipótesis es más compleja: energía, [[Treasuries]], choke points, liquidez, stablecoins y rails de pago compiten por ocupar el lugar del ancla perdida.
+
+### 5. Reanclaje versus desdolarizacion selectiva
+
+Su utilidad crece aún más cuando se lo enfrenta con [[Desdolarizacion]]. No son lecturas incompatibles: una describe el intento occidental de sostener centralidad; la otra, la construcción parcial de bypasses regionales que presionan a ese mismo intento.
+
 ## Con que conecta
 
 - [[Sistema Petrodolar]]
+- [[Petrodolar]]
+- [[Shock de Nixon]]
 - [[Treasuries]]
 - [[Stephen Miran]]
 - [[Mar-a-Lago Accord]]
 - [[GENIUS Act]]
+- [[Desdolarizacion]]
+- [[Saltsjobaden_1973_MarALago_2026]]

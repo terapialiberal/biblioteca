@@ -36,7 +36,7 @@ publish: true
 ## Conexiones Clave
 
 - [[Bisfenol A (BPA)]] (Su socio en la disrupción endocrina)
-- [[Despoblación / Agenda 2030]] (El marco estratégico)
+- [[Despoblación y Agenda 2030]] (El marco estratégico)
 - [[FDA / EPA]] (Los facilitadores burocráticos)
 - [[Ideología de Género (Base Biológica)]] (El cruce entre la química y la cultura)
 

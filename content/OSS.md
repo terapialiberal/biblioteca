@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:29.383-03:00
-modified: 2026-04-19T13:22:57.665-03:00
+modified: 2026-04-22T11:33:57.407-03:00
 tags:
   - oss
   - inteligencia
@@ -45,6 +45,10 @@ La cooperacion con servicios britanicos, especialmente [[MI6]], fue constitutiva
 
 Cuando la OSS fue disuelta, parte de su personal, experiencia y cultura operativa sobrevivio dentro de nuevas estructuras de seguridad nacional. La creacion de la [[CIA]] debe leerse mas como reordenamiento institucional que como comienzo absoluto.
 
+### 5. Puente entre guerra clasica y aparato permanente
+
+La nota gana mas fuerza cuando se la usa como bisagra entre guerra total, inteligencia encubierta y seguridad nacional de posguerra. OSS importa porque permite ver como lo excepcional se vuelve estructura.
+
 ## Con que conecta
 
 - [[CIA]]
@@ -52,3 +56,4 @@ Cuando la OSS fue disuelta, parte de su personal, experiencia y cultura operativ
 - [[Allen Dulles]]
 - [[MI6]]
 - [[John Foster Dulles]]
+- [[Operacion Mockingbird]]

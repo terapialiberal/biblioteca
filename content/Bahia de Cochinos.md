@@ -1,50 +1,61 @@
 ---
-titulo: Bahía De Cochinos
-tipo: "concepto"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [allen, baha, cochinos, john]
 publish: true
+aliases:
+  - Bahía de Cochinos
+created: 2026-01-29T19:17:04.648-03:00
+modified: 2026-04-22T12:22:24.143-03:00
+tags:
+  - bahia-de-cochinos
+  - cuba
+  - cia
+  - exiliados-cubanos
+  - cambio-de-regimen
+  - tl-intel-v3
 ---
 
-# Bahía De Cochinos
+# Bahia de Cochinos
 
-## Perfil TL (Resumen Ejecutivo)
+## BLUF
 
-**¿Qué fue?** Una invasión fallida de Cuba ejecutada por exiliados cubanos bajo el mando y entrenamiento de la [[CIA]] (Operación Zapata). Fue el mayor desastre operativo de la inteligencia estadounidense en el siglo XX.
+[[Bahia de Cochinos]] importa en TL como fracaso paradigmático de cambio de régimen encubierto y como punto de quiebre entre la [[CIA]] y la presidencia de [[John F. Kennedy (JFK)]]. Su valor no está solo en la derrota militar, sino en mostrar cómo una operación clandestina puede funcionar también como test político interno dentro del propio aparato estadounidense.
 
-**¿Por qué importa?** No fue solo un fracaso militar; fue el evento que selló el destino de [[John F. Kennedy (JFK)]]. Al negarse a proporcionar el apoyo aéreo prometido para evitar una escalada con la URSS, Kennedy se ganó el odio eterno de la comunidad de inteligencia. Este evento provocó el despido de [[Allen Dulles]] y la famosa promesa de Kennedy de "hacer añicos la CIA en mil pedazos y esparcirlos al viento".
+## Por que importa en TL
 
-## Análisis De Poder (Tiers)
+- conecta inteligencia, exilio cubano, invasión encubierta y conflicto entre aparato permanente y liderazgo político visible;
+- ayuda a leer cómo un fracaso operativo puede dejar secuelas más importantes que una victoria táctica;
+- funciona como caso clave para pensar autonomía, resentimiento y disciplina dentro del aparato encubierto.
 
-### Tier A (Arquitectos)
+## Que cambio
 
-- **Diseño de Conflictos:** El plan fue diseñado por la vieja guardia de la OSS/CIA ([[Allen Dulles]], Richard Bissell) para forzar a Kennedy a una intervención militar directa en Cuba. Fue una "trampa" para el presidente joven.
+La nota seguía en formato legacy duro, con tiers forzados y tono excesivamente cerrado. Se recompila como evento canónico para integrarla mejor con [[CIA]], [[Allen Dulles]] y el corredor de operaciones fallidas con consecuencias sistémicas.
 
-### Tier B (Operadores)
+## Que es
 
-- **La Agencia Resentida:** La [[CIA]] operó mediante la "Brigada 2506". Tras el fracaso, se formaron redes de exiliados y agentes (como [[Operation 40]]) que luego estarían implicados en otros asesinatos y operaciones de "bandera falsa".
+Bahia de Cochinos fue la invasión fallida de Cuba en 1961, ejecutada por exiliados cubanos entrenados y apoyados por la CIA, con el objetivo de derrocar a Fidel Castro mediante una operación encubierta que terminó expuesta y derrotada.
 
-### Tier C (Narrativa Pública)
+## Lectura TL
 
-- "Lucha por la libertad de Cuba". Se vendió como un levantamiento popular espontáneo cuando fue un diseño de laboratorio de la Agencia.
+### 1. Cambio de regimen por proxy
 
-## Conexiones Clave
+Bahia de Cochinos importa porque muestra un formato clásico del repertorio encubierto: evitar intervención directa abierta y operar mediante terceros entrenados, financiados y coordinados por inteligencia.
 
-- [[CIA]] (El cerebro)
-- [[Allen Dulles]] (El caído)
-- [[John F. Kennedy (JFK)]] (El enemigo interno)
-- [[Operation 40]] (Los operativos resultantes)
-- [[Fidel Castro]] (El beneficiario involuntario)
+### 2. Fracaso operativo, crisis politica
 
-## Fuentes
+En TL, su relevancia crece cuando se observa que el evento no solo golpea a Cuba o a la imagen de Estados Unidos; también abre una fractura entre la presidencia y sectores del aparato de seguridad que esperaban otra respuesta.
 
-- Documentos desclasificados de la CIA (Zapata Archive).
-- Peter Kornbluh: "Bay of Pigs Declassified".
-- David Talbot: "The Devil's Chessboard".
+### 3. El aparato prueba al lider visible
 
-## Por Qué Importa (Estilo Nico)
+La nota gana fuerza cuando se la usa para pensar un problema interno del poder: qué ocurre cuando la conducción política no responde como el aparato encubierto esperaba frente a una operación diseñada para escalar.
 
-> "Bahía de Cochinos no fue un error, fue un test de lealtad que JFK reprobó ante el Estado Profundo. Dulles y sus muchachos le pusieron la cara para que Kennedy la golpeara, y él decidió no entrar al juego. En ese momento, Kennedy dejó de ser el 'príncipe' y pasó a ser un estorbo. El camino a Dallas se empezó a pavimentar en las playas de Cuba."
+### 4. Antecedente de resentimiento estructural
+
+Leida junto con [[Allen Dulles]] y [[CIA]], Bahia de Cochinos ayuda a entender por qué ciertos conflictos dentro del Estado profundo no deben leerse solo como diferencias administrativas, sino como choques por doctrina, control y costo político.
+
+## Con que conecta
+
+- [[CIA]]
+- [[Allen Dulles]]
+- [[John F. Kennedy (JFK)]]
+- [[Operation 40]]
+- [[Fidel Castro]]
+- [[00_MOC - Inteligencia Clasica y Operaciones Historicas]]

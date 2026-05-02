@@ -4,14 +4,14 @@ aliases:
   - Centers for Disease Control and Prevention
   - CDC (Centers for Disease Control and Prevention)
 created: 2026-04-21T13:30:23.778-03:00
-modified: 2026-04-21T13:30:25.221-03:00
+modified: 2026-04-22T17:00:24.982-03:00
 tags:
-  - "#cdc"
-  - "#salud-publica"
-  - "#bioseguridad"
-  - "#vigilancia"
-  - "#gobernanza-sanitaria"
-  - "#tl-intel-v3"
+  - cdc
+  - salud-publica
+  - bioseguridad
+  - vigilancia
+  - gobernanza-sanitaria
+  - tl-intel-v3
 ---
 
 # CDC
@@ -44,11 +44,24 @@ En TL, su relevancia crece cuando se observa cómo brotes, métricas y protocolo
 
 También sirve para leer cómo organismos nacionales se acoplan con agencias regulatorias, medios y actores globales durante momentos de alta coordinación narrativa.
 
+### 4. Vigilancia como infraestructura de decision
+
+La nota gana más fuerza cuando se la conecta con [[Vigilancia Biologica]] y [[World Health Organization]]. Ahí el CDC deja de ser solo agencia sanitaria doméstica y aparece como sensor, traductor de riesgo y nodo de activación dentro de una red más amplia.
+
+### 5. Recomendacion tecnica como disciplina social
+
+Leido junto con [[Safe and Effective]] y [[FDA]], el CDC deja de ser solo productor de lineamientos y pasa a verse como actor que convierte indicadores, lenguaje epidemiologico y urgencia sanitaria en conducta esperada de la poblacion.
+
 ## Con que conecta
 
 - [[FDA]]
+- [[EMA]]
 - [[World Health Organization]]
+- [[Vigilancia Biologica]]
+- [[Bioseguridad]]
+- [[Tratado de Pandemias OMS]]
 - [[Bioseguridad]]
 - [[Salud Global]]
+- [[00_MOC - Salud Global y Bioseguridad]]
 - [[Safe and Effective]]
 - [[00_MOC - Captura Regulatoria y Puertas Giratorias]]

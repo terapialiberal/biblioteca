@@ -3,7 +3,7 @@ publish: true
 aliases:
   - "Steve Witkoff: negociador de activos reales"
 created: 2026-03-04T13:40:44.186-03:00
-modified: 2026-04-18T21:35:28.768-03:00
+modified: 2026-04-18T21:35:21.191-03:00
 tags:
   - trump
   - negociador

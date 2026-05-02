@@ -4,7 +4,7 @@ aliases:
   - Carnegie Endowment (CEIP)
   - CEIP
 created: 2026-01-29T19:17:06.587-03:00
-modified: 2026-04-18T10:56:46.067-03:00
+modified: 2026-04-21T20:03:12.653-03:00
 tags:
   - carnegie-endowment
   - think-tank
@@ -46,6 +46,10 @@ No hace falta reducirlo a conspiración lineal. Alcanza con ver que la producci�
 ### 4. Nodo contemporáneo del corredor Carnegie
 
 Leído junto con [[Fundacion Carnegie]], [[Fundacion Rockefeller]] y [[CIA]], Carnegie Endowment ayuda a unir filantropía, estrategia y gobernanza global.
+
+### 5. Distinción útil dentro del cluster
+
+No conviene usarlo como sinónimo de [[Fundacion Carnegie]]. Para lectura TL, el Endowment sirve como brazo think tank y diplomático del ecosistema Carnegie, mientras la fundación madre explica mejor la genealogía filantrópica y educativa.
 
 ## Conexiones
 

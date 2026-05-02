@@ -36,7 +36,7 @@ publish: true
 ## Conexiones Críticas
 
 - [[OTAN]]: Instrumento de expansión.
-- [[Industria Militar Complejo]]: Beneficiario directo.
+- [[Complejo Militar-Industrial]]: Beneficiario directo.
 
 ## Conclusión Del Análisis
 

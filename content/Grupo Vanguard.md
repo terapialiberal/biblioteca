@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:16.123-03:00
-modified: 2026-04-17T13:25:30.836-03:00
+modified: 2026-04-24T09:46:38.062-03:00
 tags:
   - vanguard
   - propiedad-comun
@@ -15,6 +15,10 @@ tags:
 ## BLUF
 
 [[Grupo Vanguard (Vanguard Group)]] importa en TL como nodo central de propiedad común: un gestor menos visible que [[BlackRock]], pero crucial para entender concentración accionarial y disciplina corporativa a escala sistémica.
+
+## Qué es
+
+[[Grupo Vanguard (Vanguard Group)]] es uno de los grandes gestores globales de activos y una pieza central para leer la lógica de propiedad común. En TL importa no por una narrativa personalista, sino porque ayuda a mapear concentración accionarial distribuida sobre múltiples sectores y competidores.
 
 ## Por qué importa en TL
 
@@ -40,10 +44,12 @@ El punto fuerte no es una conspiración lineal, sino la tenencia simultánea en 
 
 Su utilidad analítica es mostrar cómo puede existir concentración sistémica aun sin un “dueño final” simple y públicamente identificable.
 
-## Conexiones
+## Con qué conecta
 
 - [[BlackRock]]
 - [[State Street]]
 - [[BlackRock - Vanguard - State Street]]
 - [[ESG]]
 - [[Matrix de Poder]]
+- [[Riesgo de la Inversion Pasiva]]
+- [[00_MOC - Control Financiero]]

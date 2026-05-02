@@ -36,7 +36,7 @@ publish: true
 - [[Simbolismo del Hombre Cabra / Baphomet]] (La figura central)
 - [[Rituales de las Élites / Bohemian Grove]] (El contexto privado)
 - [[CERN / Simbolismo de Shiva]] (Otro epicentro ritual en Suiza)
-- [[Gran Reseteo / Cambio de Era]] (El marco temporal)
+- [[Gran Reseteo y Cambio de Era]] (El marco temporal)
 
 ## Por Qué Importa (Estilo Nico)
 

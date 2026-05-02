@@ -11,35 +11,47 @@ publish: true
 
 # Hank Paulson
 
-## Perfil TL (Resumen Ejecutivo)
+> [!abstract] PERFIL TL-INTEL
+> [[Hank Paulson]] importa en TL como figura clásica de la puerta giratoria Wall Street-Tesoro: el operador que administra la fase más explícita de socialización de pérdidas en 2008.
 
-**Quin es?** Exsecretario del Tesoro de EE.UU. (bajo George W. Bush) y ex-CEO de **Goldman Sachs**. Fue la figura central en la gestin de la crisis financiera de 2008.
+## Qué es
 
-**Por qu importa?** Hank Paulson es el **Mximo Exponente de la "Puerta Giratoria" y el "Privilegio de Casta" de Tier A**. Su actuacin en 2008 es el caso de estudio definitivo de cmo los operadores de Wall Street capturan el aparato del Estado para rescatarse a s mismos con el dinero del Tier C. Paulson dise el plan **TARP** (\700.000 millones de dinero pblico) para salvar a los bancos que l mismo haba ayudado a desregular como CEO de Goldman. Aplic la justicia de Tier A: dej caer a Lehman Brothers (competidor de Goldman) mientras rescataba a **AIG** con condiciones que aseguraban que Goldman Sachs cobrara cada centavo de sus apuestas fallidas. Paulson es el hombre que institucionaliz el concepto de **"Too Big to Fail"** (Demasiado Grande para Caer), eliminando el riesgo para la lite y condenando al Tier C a una dcada de austeridad e inflacin.
+Hank Paulson fue CEO de Goldman Sachs y luego secretario del Tesoro de EE.UU. durante la [[Crisis Financiera 2008]]. En TL interesa como caso de estudio de captura del aparato estatal por ejecutores del centro financiero.
 
-## Anlisis De Poder (Tiers)
+## Por qué importa en TL
 
-### Tier A (Los Dueos Del Sistema De Reserva)
+- conecta [[Goldman Sachs]], Tesoro y rescates sistémicos;
+- ayuda a leer cómo el Estado selecciona ganadores y perdedores en situaciones de colapso;
+- sirve como actor-puente entre desregulación previa y consolidación bancaria posterior.
 
-- **Socializacin de Prdidas:** El Tier A financiero utiliz a Paulson para realizar la mayor transferencia de riqueza de la historia: pasar la deuda txica de los bancos privados a la espalda del contribuyente pblico.
-- **Seleccin de Ganadores y Perdedores:** Paulson actu como el "Gran Elector" de Tier A, decidiendo qu instituciones financieras sobreviviran para consolidar la banca mundial en cada vez menos manos.
+## Mecanismos de poder
 
-### Tier B (Operadores / El Tesoro Y La Reserva Federal)
+### 1. Rescate como ingeniería política
 
-- **El Triunvirato del Rescate:** Junto a **Ben Bernanke** (Fed) y **Tim Geithner**, Paulson oper la narrativa de la "catstrofe inminente" para chantajear al Congreso y obtener cheques en blanco sin supervisin.
-- **Ingeniera Legal de Excepcin:** Logr ser eximido de pagar millones en impuestos sobre sus acciones de Goldman Sachs al entrar al gobierno, una ventaja de Tier B que ningn ciudadano comn podra soar.
+Paulson importa porque vuelve visible que los rescates no son solo medidas técnicas; también reorganizan el mapa de poder financiero.
 
-### Tier C (Narrativa Pblica)
+### 2. Puerta giratoria de crisis
 
-- "El salvador del sistema financiero global". "El hombre que evit la Gran Depresin 2.0". Narrativas heroicas proyectadas por la prensa financiera de Tier B para ocultar que Paulson simplemente estaba pagando los errores de sus amigos con la billetera de la gente que luego perdera sus casas en las ejecuciones hipotecarias.
+Su relevancia crece cuando se observa que el operador del rescate proviene del mismo ecosistema que debía ser disciplinado.
 
-## Conexiones Clave
+### 3. Normalización del `too big to fail`
 
-- [[Goldman Sachs]] (Su base de poder y lealtad real)
-- [[Crisis Financiera 2008]] (Su escenario de gloria oscura)
-- [[Ben Bernanke / Tim Geithner]] (Sus socios tcticos)
-- [[TARP (Troubled Asset Relief Program)]] (Su herramienta de saqueo legal)
+En TL, el nodo ayuda a fijar el momento en que la excepción pasa a ser doctrina práctica del sistema.
 
-## Por Qu Importa (Estilo Nico)
+## Qué cambió
 
-> "Hank Paulson es el tipo que te explica por qu los banqueros nunca van presos. El tipo era el jefe de Goldman Sachs, pas a ser el jefe del Tesoro, y cuando sus amigos de Wall Street quebraron el mundo en 2007, l les firm un cheque por 700 mil millones de tu plata. Es la estafa perfecta: ellos se quedan con las ganancias cuando sube, y vos pags las deudas cuando baja. Rescat a todos sus socios y dej que la gente comn perdiera sus casas. Paulson es el ejemplo de que arriba de todo no hay competencia, hay un club de amigos de Tier A que decide quin vive y quin muere econmicamente mientras vos mirs el noticiero."
+La nota estaba demasiado cargada de épica denunciante y problemas de encoding. Se recompila como perfil reusable para fijar mejor su función estructural dentro de 2008.
+
+## Cómo leerlo en TL
+
+- junto con [[Lloyd Blankfein|Lloyd Blankfein]];
+- como operador estatal del rescate, no como mero exbanquero;
+- como bisagra entre la desregulación noventista y la banca reforzada postcrisis.
+
+## Con qué conecta
+
+- [[Goldman Sachs]]
+- [[Crisis Financiera 2008]]
+- [[Derogacion de Glass-Steagall]]
+- [[Reserva Federal]]
+- [[00_MOC - Control Financiero]]

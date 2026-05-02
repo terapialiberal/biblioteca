@@ -1,12 +1,12 @@
 ---
 publish: true
 created: 2026-02-28T14:54:19.718-03:00
-modified: 2026-04-21T12:10:53.615-03:00
+modified: 2026-04-29T14:55:18.645-03:00
 tags:
-  - "#moc"
-  - "#indice"
-  - "#tl-intel-v3"
-  - "#zettelkasten"
+  - moc
+  - indice
+  - tl-intel-v3
+  - zettelkasten
 ---
 
 # Base de Conocimiento
@@ -19,22 +19,32 @@ tags:
 
 - [[00_MOC - Redes de Poder]]
 - [[00_MOC - Tecnologia de Control]]
+- [[00_MOC - Vigilancia Tecnica y SIGINT]]
 - [[00_MOC - Control Financiero]]
 - [[00_MOC - Operaciones Encubiertas]]
 - [[00_MOC - Medios y Legitimacion]]
 - [[00_MOC - Fundaciones y Filantrocapitalismo]]
+- [[00_MOC - Salud Global y Bioseguridad]]
 - [[00_MOC - Transhumanismo y Convergencia Bio-Digital]]
 - [[00_MOC - Inteligencia Clasica y Operaciones Historicas]]
 - [[00_MOC - Mercados Negros y Crimen Sistemico]]
 - [[00_MOC - Captura Regulatoria y Puertas Giratorias]]
 - [[00_MOC - Simbolismo y Esoterismo]]
 - [[00_MOC - Rimland]]
+- [[00_MOC - Operaciones Psicologicas]]
+- [[00_MOC - Fricciones de la Matrix]]
+- [[00_MOC - Patrones Clasicos de Poder]]
+- [[00_MOC - Finanzas y CBDC]]
+- [[00_MOC - Argentina]]
+- [[00_MOC - Kompromat y Dark Game Theory]]
+- [[00_MOC - Cronologico]]
 
 ## Clusters Reforzados
 
 - `Policrisis Abril 2026`: [[Policrisis Sistemica]], [[Estrecho de Ormuz]], [[China Taiwan Escalada 2026]], [[Crisis Financiera War Game Lehman 2026]], [[Crisis Alimentaria 2026]]
-- `Pharma / biopolitica`: [[Biopolitica]], [[Bioseguridad]], [[Salud Global]], [[One Health]], [[Tedros Adhanom Ghebreyesus]], [[Vigilancia Biologica]]
+- `Pharma / biopolitica`: [[Biopolitica]], [[Bioseguridad]], [[Salud Global]], [[One Health]], [[Tedros Adhanom Ghebreyesus]], [[Wellcome Trust]], [[Vigilancia Biologica]], [[00_MOC - Salud Global y Bioseguridad]]
 - `Dinero programable / rails`: [[Dinero Programable]], [[CBDC]], [[Stablecoins]], [[SWIFT]], [[Tokenized Sovereign Debt]]
+- `Vigilancia técnica`: [[00_MOC - Vigilancia Tecnica y SIGINT]], [[Five Eyes]], [[PRISM (Programa)]], [[XKeyscore]], [[Cellebrite]], [[NSO Group]], [[Clearview AI]]
 - `Sistema alimentario / agroindustria`: [[Sistema Alimentario]], [[Control Alimentario]], [[Cartel de Granos (ABCD)]], [[Comision EAT-Lancet]], [[Proteina de Insectos]]
 
 ## Nota Operativa Quartz

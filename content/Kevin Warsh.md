@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-15T17:06:21.416-03:00
-modified: 2026-04-15T17:06:22.868-03:00
+modified: 2026-04-22T10:34:44.170-03:00
 tags:
   - kevin-warsh
   - fed
@@ -44,6 +44,10 @@ No opera como agitador politico. Opera como figura tecnicamente presentable para
 
 El vinculo familiar con [[Ronald Lauder]] vuelve a Warsh mas interesante que un simple ex funcionario: lo conecta con una red de elite con alcance politico, filantropico y geopolitico.
 
+### Bisagra Fed-Tesoro para el reanclaje
+
+Su peso en TL aumenta si se lo lee no como actor aislado sino como posible complemento de [[Scott Bessent]]: Tesoro y Fed alineados en una misma fase de refinanciacion, licuacion parcial y defensa del mercado de [[Treasuries]].
+
 ## Senales vs Ruido
 
 | Senal | Ruido | Gradiente |
@@ -64,6 +68,16 @@ El vinculo familiar con [[Ronald Lauder]] vuelve a Warsh mas interesante que un 
 - confirmacion publica sostenida de su centralidad en el recambio de la Fed
 - mejor trazabilidad documental del eje [[Kevin Warsh]] -> [[Ronald Lauder]]
 
+## Lectura TL
+
+### 1. Operador presentable para una Fed menos autonoma
+
+Warsh importa porque permitiria ejecutar un giro monetario fuerte sin presentarlo como ruptura abierta del marco institucional. Su valor es tecnico-politico: hacer legible un cambio de regimen como si fuera simple normalizacion.
+
+### 2. Fed funcional al corredor monetario 2026
+
+Leido junto con [[Mar-a-Lago Accord]], [[Reanclaje Hibrido]] y [[Nuevo Bretton Woods]], Warsh aparece como candidato util para una etapa donde la Fed deja de ser fondo de pantalla y vuelve a ser una pieza activa del sostenimiento del dolar.
+
 ## Conexiones Clave
 
 - [[Jerome Powell]]
@@ -71,6 +85,10 @@ El vinculo familiar con [[Ronald Lauder]] vuelve a Warsh mas interesante que un 
 - [[Ronald Lauder]]
 - [[Scott Bessent]]
 - [[BlackRock]]
+- [[Mar-a-Lago Accord]]
+- [[Reanclaje Hibrido]]
+- [[Nuevo Bretton Woods]]
+- [[Treasuries]]
 
 ## Observacion Operativa
 

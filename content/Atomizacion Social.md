@@ -3,14 +3,14 @@ publish: true
 aliases:
   - Atomización Social
 created: 2026-01-29T19:17:04.503-03:00
-modified: 2026-04-21T13:16:49.204-03:00
+modified: 2026-04-21T13:16:58.979-03:00
 tags:
-  - "#atomizacion-social"
-  - "#aislamiento"
-  - "#totalitarismo"
-  - "#fragmentacion"
-  - "#comunidad"
-  - "#tl-intel-v3"
+  - atomizacion-social
+  - aislamiento
+  - totalitarismo
+  - fragmentacion
+  - comunidad
+  - tl-intel-v3
 ---
 
 # Atomizacion Social

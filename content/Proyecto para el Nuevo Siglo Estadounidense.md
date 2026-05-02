@@ -4,14 +4,14 @@ aliases:
   - PNAC
   - Project for the New American Century
 created: 2026-01-29T19:17:32.047-03:00
-modified: 2026-04-21T12:57:42.276-03:00
+modified: 2026-04-21T12:57:49.632-03:00
 tags:
-  - "#pnac"
-  - "#neocon"
-  - "#think-tank"
-  - "#hegemonia"
-  - "#guerra-preventiva"
-  - "#tl-intel-v3"
+  - pnac
+  - neocon
+  - think-tank
+  - hegemonia
+  - guerra-preventiva
+  - tl-intel-v3
 ---
 
 # Proyecto para el Nuevo Siglo Estadounidense

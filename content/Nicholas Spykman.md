@@ -13,14 +13,36 @@ publish: true
 
 ## BLUF
 
-Geopolítico estadounidense (1893-1943) conocido como el "padrino de la contención". Creador de la **Teoría del Rimland**, que refutó el Heartland de Mackinder. Su tesis central guía la política exterior de EE.UU. desde 1945 hasta 2026: **"Quien controla el Rimland (borde costero de Eurasia), controla Eurasia; quien gobierna Eurasia, controla el destino del mundo".**
+[[Nicholas Spykman]] importa en TL como formulador de la lógica del borde: una geopolítica donde el control del anillo costero de Eurasia vale más que la ocupación total del interior continental. Su utilidad no está en la cita escolar, sino en permitir leer chokepoints, cadenas de islas y contención como partes de una misma gramática.
 
-## Perfil Forense
+## Por que importa en TL
 
-- **Rol Histórico:** Profesor en Yale, formador de la élite de inteligencia de posguerra.
-- **Doctrina:** Realismo político extremo. La geografía es el factor más permanente en la política exterior.
-- **Legado:** Inspiró a George Kennan (Contención), Henry Kissinger y, más recientemente, a Elbridge Colby (NDS 2026).
+- conecta doctrina clásica con chokepoints contemporáneos;
+- ayuda a leer la contención no solo como política exterior, sino como administración de accesos;
+- funciona como autor-puente entre geografía estratégica, energía y presión marítima.
 
-## Conexión Actual (2026)
+## Que cambio
 
-Su mapa es la base operativa de la estrategia anti-China de Trump 2.0. La "First Island Chain" (Japón, Taiwán, Filipinas) es puro Spykman: negar a la potencia continental (China) el acceso al océano abierto.
+La nota estaba demasiado mínima y más biográfica que analítica. Se alinea mejor al estándar vivo del vault para que funcione como persona-doctrina reusable dentro del corredor `Rimland / chokepoints / Indo-Pacífico`.
+
+## Lectura TL
+
+### 1. Geografia como límite del poder
+
+Spykman importa porque vuelve visible que el poder no se juega solo en ideologías o PIB, sino en acceso a mares, cuellos de botella y bordes donde se cruzan comercio y coerción.
+
+### 2. Contencion por borde
+
+En TL, su relevancia crece cuando se observa que muchas estrategias occidentales no apuntan a tomar el interior euroasiático, sino a rodearlo, fragmentarlo o disciplinarlo desde su periferia conectiva.
+
+### 3. Actualidad del mapa
+
+Su utilidad aparece cuando el tablero 2026 devuelve la misma lógica en lenguaje nuevo: Ormuz, Malaca, Taiwán, Mar Rojo y cadenas logísticas asiáticas como piezas de borde en disputa.
+
+## Conexiones
+
+- [[Teoria del Rimland]]
+- [[Estrecho de Malaca]]
+- [[Estrecho de Ormuz]]
+- [[China Taiwan Escalada 2026]]
+- [[00_MOC - Rimland]]

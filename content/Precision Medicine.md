@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-25T15:45:49.523-03:00
-modified: 2026-04-17T16:35:24.476-03:00
+modified: 2026-04-29T14:44:33.018-03:00
 tags:
   - precision-medicine
   - genomica
@@ -44,6 +44,14 @@ Cuando se conecta con seguros, empleo o políticas públicas, la medicina de pre
 
 Leída junto con [[Genomic ID]], esta nota muestra el argumento respetable y clínico que puede abrir la puerta a integrar ADN y otros datos corporales en sistemas más amplios de identidad y scoring.
 
+### 5. Tratamiento como puerta de clasificación
+
+En TL, el punto fuerte aparece cuando la personalización médica deja de verse solo como mejora terapéutica y empieza a operar como justificación para separar pacientes por perfil, pronóstico, costo o prioridad.
+
+### 6. Antesala de la intervencion bio-digital
+
+Leida junto con [[Internet de los Cuerpos]], [[Neuralink]] e [[Internet of Bio-Nano Things]], la medicina de precisión deja de ser solamente dato genómico. Pasa a funcionar como carril respetable hacia monitoreo, ajuste e intervención continua sobre el organismo.
+
 ## Conexiones
 
 - [[Genomic ID]]
@@ -52,3 +60,7 @@ Leída junto con [[Genomic ID]], esta nota muestra el argumento respetable y cl�
 - [[Bio-Identidad Digital]]
 - [[Gobernanza Algoritmica]]
 - [[Tecnocracia]]
+- [[Internet de los Cuerpos]]
+- [[Neuralink]]
+- [[00_MOC - Salud Global y Bioseguridad]]
+- [[00_MOC - Transhumanismo y Convergencia Bio-Digital]]

@@ -1,43 +1,30 @@
 ---
-titulo: "MKUltra: Control Mental Y Manipulación Psicológica"
-tipo: "concepto"
-fecha: 2026-02-25
-tier_primario: "b"
-nivel_evidencia: "medio"
-estado: activo
-tags: [control, manipulacin, mkultra, sidney]
 publish: true
+aliases:
+  - MK Ultra
+  - MK-Ultra
+  - MK-Ultra (Control Mental CIA)
+created: 2026-01-29T19:17:25.557-03:00
+modified: 2026-05-02T12:58:38.270-03:00
+tags:
+  - mkultra
+  - cia
+  - control-mental
+  - experimentos
+  - tl-intel-v3
 ---
 
-# MKUltra: Control Mental Y Manipulación Psicológica
+# MKUltra
 
-> [!ABSTRACT] Hipótesis Informativa
-> MKUltra fue el programa Tier A de la CIA para desarrollar técnicas de control mental, interrogatorio y manipulación psicológica mediante experimentos con drogas y técnicas de lavado de cerebro.
+[[MKUltra]] importa en TL como programa de experimentación de la CIA asociado a drogas, coerción, interrogatorio, psicología y control mental.
 
-## Análisis De Tiers
+## Lectura TL
 
-### Tier A: CIA Y Operadores De Experimentación
+Su valor no está en convertir toda conducta en MKUltra, sino en recordar que agencias reales exploraron métodos extremos sobre sujetos vulnerables en nombre de seguridad nacional.
 
-- **Desarrollo de Técnicas:** Experimentación con LSD, electroshock y privación sensorial.
+## Conecta
 
-### Tier B: Agencias De Inteligencia Aliadas
-
-- **Transferencia de Conocimiento:** Adopción de técnicas para operaciones encubiertas.
-
-### Tier C: Víctimas Civiles
-
-- **Experimentación No Consentida:** Uso de civiles como conejillos de indias.
-
-## Mecanismos De Poder
-
-1. **Experimentación Humana:** Uso de drogas psicoactivas para alterar comportamiento.
-2. **Lavado de Cerebro:** Técnicas de despersonalización y reprogramación.
-
-## Conexiones Críticas
-
-- [[CIA]]: Custodio y ejecutor del programa.
-- [[Sidney Gottlieb]]: Director científico del proyecto.
-
-## Conclusión Del Análisis
-
-MKUltra es la prueba de que la oligarquía no duda en experimentar con humanos para desarrollar herramientas de control mental.
+- [[CIA]]
+- control mental
+- [[Aldous Huxley]]
+- [[Panoptico Digital]]

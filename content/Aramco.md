@@ -1,6 +1,6 @@
 ---
 titulo: Aramco
-tipo: "concepto"
+tipo: entidad
 fecha: 2026-02-25
 tier_primario: "b"
 nivel_evidencia: "medio"
@@ -11,41 +11,48 @@ publish: true
 
 # Aramco
 
-## Resumen Ejecutivo
+> [!abstract] PERFIL TL-INTEL
+> [[Aramco]] importa en TL como nodo energético-financiero central del orden posterior a 1971: más que petrolera, funciona como colateral material del corredor [[Sistema Petrodolar]] / Arabia Saudita / seguridad energética global.
 
-**¿Qué es?** La mayor productora de petróleo del mundo y, habitualmente, la empresa con mayor flujo de caja del planeta. Es propiedad mayoritaria del Reino de Arabia Saudita.
+## Qué es
 
-**¿Por qué importa?** Aramco es el colateral del **[[Sistema Petrodólar]]**. Es la pieza del tablero que permite que el dólar siga siendo la moneda de reserva mundial. Quien controla Aramco, controla el precio de la energía global y, por extensión, la inflación y la estabilidad de las naciones industriales.
+Aramco es la gran petrolera saudí y una de las empresas energéticas más decisivas del mundo. En TL interesa porque une recurso físico, renta estatal, geopolítica regional y arquitectura monetaria internacional.
 
-## Análisis De Poder (Tiers)
+## Por qué importa en TL
 
-### Tier A (Centralización / Propiedad)
+- conecta petróleo, dólar y estabilidad del sistema energético global;
+- ayuda a leer cómo Arabia Saudita no es solo productor, sino pivote monetario y geopolítico;
+- sirve como pieza concreta del corredor [[Sistema Petrodolar]] -> seguridad -> reciclaje financiero.
 
-- **El Banco de los Saud:** Financia el 80% o más del presupuesto del Estado saudí. Es la herramienta que permite a [[Mohammed bin Salman (MBS)]] financiar su agenda de transformación (Vision 2030) y su red de influencia internacional.
-- **Eje del Petrodólar:** Su acuerdo histórico con EE.UU. (petróleo a cambio de seguridad) es el pilar sobre el que se construyó la hegemonía financiera post-1971.
+## Mecanismos de poder
 
-### Tier B (Operativa / Puerta Giratoria)
+### 1. Energía como colateral sistémico
 
-- **Inversiones Neom:** Aramco financia megaproyectos de control social y tecnológico como _The Line_ y otras ciudades inteligentes que son laboratorios de la vigilancia total.
-- **Asociaciones con Occidente:** Mantiene vínculos profundos con [[BlackRock]] y Goldman Sachs para su gestión financiera y su salida a bolsa (IPO).
+Aramco importa porque el flujo de hidrocarburos no es solo negocio: también estabiliza alianzas, presupuestos y demanda internacional de orden monetario.
 
-### Tier C (Narrativa Pública)
+### 2. Renta petrolera como palanca política
 
-- "Garantizar la seguridad energética mundial". Se presentan como una empresa que se está volviendo "verde" y tecnológica para limpiar su imagen de monarquía absoluta.
+Su relevancia crece cuando se la lee como fuente material del poder saudí y de su capacidad de proyección regional e internacional.
 
-## Conexiones Clave
+### 3. Transición sin salir del centro
 
-- [[Mohammed bin Salman (MBS)]] (El dueño real)
-- [[Sistema Petrodólar]] (Su razón de ser geopolítica)
-- [[PIF (Public Investment Fund)]] (Donde fluye el dinero de Aramco)
-- [[OPEC]] (Su brazo de coordinación de precios)
+En TL, el nodo vale porque muestra cómo una estructura fósil puede financiar megaciudades, diversificación soberana y nuevos instrumentos de influencia sin abandonar su centralidad.
 
-## Fuentes
+## Qué cambió
 
-- Prospecto de la IPO de Aramco (2019).
-- Daniel Yergin: "The Prize: The Epic Quest for Oil, Money & Power".
-- Reportes financieros anuales de Saudi Aramco.
+La nota estaba escrita como mini tesis sobre petrodólar. Se recompila como entidad reusable para separar mejor función energética, rol estatal y valor geopolítico.
 
-## Por Qué Importa (Estilo Nico)
+## Cómo leerla en TL
 
-> "Olvidate de las banderas y de la religión. Aramco es el tanque de combustible de la Matrix. Cada barril que sale de ahí es un voto de confianza al dólar estadounidense. Si Aramco empieza a vender petróleo en yuanes o en rublos de forma masiva, el imperio se cae en una tarde. Por eso MBS es el pibe más mimado por algunos y más odiado por otros: tiene en sus manos el botón de apagado de la economía occidental."
+- junto con [[Sistema Petrodolar]] y [[Mohammed bin Salman|Mohammed bin Salman]];
+- como infraestructura material del viejo orden monetario todavía activo;
+- como punto donde energía, seguridad y finanzas se vuelven inseparables.
+
+## Con qué conecta
+
+- [[Sistema Petrodólar]]
+- [[Mohammed bin Salman|Mohammed bin Salman]]
+- [[Petrodolar]]
+- [[Ibn Saud y FDR]]
+- [[Reanclaje Hibrido]]
+- [[00_MOC - Control Financiero]]
