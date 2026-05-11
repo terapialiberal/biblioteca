@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-29T14:09:28.444-03:00
-modified: 2026-04-29T14:09:50.431-03:00
+modified: 2026-04-29T14:09:44.844-03:00
 tags:
   - esg
   - finanzas

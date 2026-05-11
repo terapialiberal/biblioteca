@@ -5,7 +5,7 @@ aliases:
   - Coronavirus
   - COVID-19 (Pandemia)
 created: 2026-05-01T20:42:02.263-03:00
-modified: 2026-05-02T12:55:31.651-03:00
+modified: 2026-05-02T13:07:26.425-03:00
 tags:
   - covid-19
   - pandemia

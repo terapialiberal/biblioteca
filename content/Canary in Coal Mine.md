@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Resumen General
 created: 2026-01-29T19:17:06.348-03:00
-modified: 2026-05-02T18:24:28.532-03:00
+modified: 2026-05-02T18:33:14.652-03:00
 tags:
   - canary
   - early-warning

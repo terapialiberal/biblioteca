@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-25T16:09:24.269-03:00
-modified: 2026-04-19T12:08:22.961-03:00
+modified: 2026-04-19T12:08:29.465-03:00
 tags:
   - cognitive-warfare
   - guerra-cognitiva

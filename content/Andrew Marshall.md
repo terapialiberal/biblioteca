@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Andrew Marshall
 created: 2026-05-01T18:53:22.391-03:00
-modified: 2026-05-02T18:25:11.749-03:00
+modified: 2026-05-02T18:31:28.634-03:00
 tags:
   - actor
   - pentagono

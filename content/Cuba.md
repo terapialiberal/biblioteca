@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Cuba (Régimen)
 created: 2026-05-01T20:43:19.087-03:00
-modified: 2026-05-02T13:01:00.988-03:00
+modified: 2026-05-02T13:07:50.407-03:00
 tags:
   - cuba
   - caribe

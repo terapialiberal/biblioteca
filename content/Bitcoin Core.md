@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Bitcoin Core
 created: 2026-05-01T18:51:16.666-03:00
-modified: 2026-05-02T18:25:13.490-03:00
+modified: 2026-05-02T18:32:46.573-03:00
 tags:
   - concepto
   - bitcoin

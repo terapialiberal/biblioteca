@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-25T22:08:57.719-03:00
-modified: 2026-04-27T10:32:49.755-03:00
+modified: 2026-04-27T10:32:38.795-03:00
 tags:
   - fractalidad-deuda
   - deuda

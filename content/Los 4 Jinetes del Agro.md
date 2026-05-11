@@ -4,7 +4,7 @@ aliases:
   - Los 4 Jinetes Del Agro (Cartel ABCD)
   - Cartel ABCD
 created: 2026-01-29T19:17:22.923-03:00
-modified: 2026-04-18T18:08:05.064-03:00
+modified: 2026-04-18T18:08:11.778-03:00
 tags:
   - abcd
   - agro

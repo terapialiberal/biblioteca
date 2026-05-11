@@ -3,7 +3,7 @@ publish: true
 aliases:
   - "Ludwig Von Mises: El Arquitecto De La Libertad Economica"
 created: 2026-01-29T19:17:23.108-03:00
-modified: 2026-04-18T18:21:39.023-03:00
+modified: 2026-04-18T18:21:45.116-03:00
 tags:
   - ludwig-von-mises
   - escuela-austriaca

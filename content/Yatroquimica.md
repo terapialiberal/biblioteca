@@ -5,7 +5,7 @@ aliases:
   - Iatroquímica
   - Iatrochemistry
 created: 2026-02-25T22:08:55.180-03:00
-modified: 2026-04-27T10:32:17.651-03:00
+modified: 2026-04-27T10:32:09.624-03:00
 tags:
   - yatroquimica
   - paracelso

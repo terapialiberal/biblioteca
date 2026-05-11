@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Hector Magnetto
 created: 2026-04-18T12:14:50.765-03:00
-modified: 2026-04-18T12:15:11.098-03:00
+modified: 2026-04-18T12:15:16.455-03:00
 tags:
   - argentina
   - medios

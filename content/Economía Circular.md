@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-29T13:34:43.841-03:00
-modified: 2026-04-29T13:34:59.906-03:00
+modified: 2026-04-29T13:34:55.041-03:00
 tags:
   - concepto
   - economia

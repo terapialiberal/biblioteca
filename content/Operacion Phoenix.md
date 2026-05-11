@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Operación Phoenix
 created: 2026-01-29T19:17:28.799-03:00
-modified: 2026-04-22T12:11:43.258-03:00
+modified: 2026-04-22T12:11:35.188-03:00
 tags:
   - operacion-phoenix
   - contrainsurgencia

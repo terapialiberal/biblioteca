@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-29T14:13:11.832-03:00
-modified: 2026-04-29T14:13:29.845-03:00
+modified: 2026-04-29T14:13:25.076-03:00
 tags:
   - filosofia-politica
   - totalitarismo

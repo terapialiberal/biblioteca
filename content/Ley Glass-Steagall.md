@@ -3,7 +3,7 @@ publish: true
 aliases:
   - "Ley Glass-Steagall: El Muro Entre El Ahorro Y El Casino"
 created: 2026-01-29T19:17:22.386-03:00
-modified: 2026-04-18T18:21:38.528-03:00
+modified: 2026-04-18T18:21:45.066-03:00
 tags:
   - glass-steagall
   - banca

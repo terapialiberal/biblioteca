@@ -4,7 +4,7 @@ aliases:
   - Petrodólar
   - Sistema Petrodólar
 created: 2026-04-29T13:20:55.577-03:00
-modified: 2026-05-02T12:41:35.390-03:00
+modified: 2026-05-02T13:06:47.356-03:00
 tags:
   - alias
   - legacy

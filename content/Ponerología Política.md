@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-29T13:56:38.650-03:00
-modified: 2026-04-29T13:56:38.650-03:00
+modified: 2026-04-29T13:56:44.355-03:00
 tags:
   - psicologia-politica
   - poder

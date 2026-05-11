@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-20T19:38:19.195-03:00
-modified: 2026-04-22T09:51:37.807-03:00
+modified: 2026-04-22T09:51:28.414-03:00
 tags:
   - policrisis
   - convergencia-sistemica

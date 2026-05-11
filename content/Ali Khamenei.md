@@ -4,7 +4,7 @@ aliases:
   - Ayatollah Ali Khamenei
   - Ali Jamenei
 created: 2026-01-29T19:17:03.285-03:00
-modified: 2026-04-19T02:39:00.171-03:00
+modified: 2026-04-19T02:39:05.792-03:00
 tags:
   - iran
   - liderazgo

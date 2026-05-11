@@ -4,7 +4,7 @@ aliases:
   - Fed Put (Backstop Implícito de la FED)
   - Backstop de la Fed
 created: 2026-05-01T20:46:24.766-03:00
-modified: 2026-05-02T12:22:05.599-03:00
+modified: 2026-05-02T12:54:34.105-03:00
 tags:
   - fed-put
   - reserva-federal

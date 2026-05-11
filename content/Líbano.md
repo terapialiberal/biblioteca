@@ -4,7 +4,7 @@ aliases:
   - Libano
   - Líbano (Crisis)
 created: 2026-04-29T15:32:16.346-03:00
-modified: 2026-05-02T12:51:59.360-03:00
+modified: 2026-05-02T13:07:07.359-03:00
 tags:
   - libano
   - hezbollah

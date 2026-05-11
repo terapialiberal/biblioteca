@@ -4,7 +4,7 @@ aliases:
   - Inflacion
   - Inflación (Mecanismo)
 created: 2026-04-27T12:03:17.398-03:00
-modified: 2026-05-02T12:22:02.795-03:00
+modified: 2026-05-02T12:40:34.076-03:00
 tags:
   - inflacion
   - moneda

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-05-01T17:35:38.541-03:00
-modified: 2026-05-02T18:25:29.042-03:00
+modified: 2026-05-02T18:35:09.789-03:00
 tags:
   - concepto
   - tecnologia

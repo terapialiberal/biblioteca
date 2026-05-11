@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Børge Brende
 created: 2026-05-01T19:09:52.265-03:00
-modified: 2026-05-02T18:25:13.873-03:00
+modified: 2026-05-02T18:32:51.607-03:00
 tags:
   - actor
   - wef

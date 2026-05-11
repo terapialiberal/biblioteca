@@ -5,7 +5,7 @@ aliases:
   - Fourth Turning
   - The Fourth Turning
 created: 2026-02-25T22:08:51.665-03:00
-modified: 2026-04-27T10:30:51.878-03:00
+modified: 2026-04-27T10:30:45.153-03:00
 tags:
   - ciclo-80-anos
   - fourth-turning

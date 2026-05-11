@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-29T13:58:24.207-03:00
-modified: 2026-05-02T14:16:18.542-03:00
+modified: 2026-05-02T14:16:24.715-03:00
 tags:
   - alias
   - renta-basica

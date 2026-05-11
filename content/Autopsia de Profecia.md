@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Resumen General
 created: 2026-01-29T19:17:04.529-03:00
-modified: 2026-05-02T18:24:21.359-03:00
+modified: 2026-05-02T18:32:18.666-03:00
 tags:
   - autopsia-de-profecia
   - problema-reaccion-solucion

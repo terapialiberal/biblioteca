@@ -3,7 +3,7 @@ publish: true
 aliases:
   - United States Agency for International Development
 created: 2026-01-29T19:17:42.603-03:00
-modified: 2026-04-24T10:45:49.644-03:00
+modified: 2026-04-24T10:45:44.315-03:00
 tags:
   - usaid
   - soft-power

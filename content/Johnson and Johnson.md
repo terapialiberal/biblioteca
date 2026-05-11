@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:20.043-03:00
-modified: 2026-04-21T19:11:33.292-03:00
+modified: 2026-04-21T19:11:40.626-03:00
 tags:
   - johnson-and-johnson
   - pharma

@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Kary Mullis
 created: 2026-01-29T19:17:20.576-03:00
-modified: 2026-04-07T13:30:48.304-03:00
+modified: 2026-04-07T13:30:44.627-03:00
 tags:
   - ciencia
   - pcr

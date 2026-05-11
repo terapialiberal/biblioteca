@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-29T14:09:25.118-03:00
-modified: 2026-05-02T14:12:57.277-03:00
+modified: 2026-05-02T14:13:01.054-03:00
 tags:
   - alias
   - estrategia

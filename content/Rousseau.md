@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Jean-Jacques Rousseau
 created: 2026-05-01T20:17:06.118-03:00
-modified: 2026-05-02T13:44:01.933-03:00
+modified: 2026-05-02T13:44:09.652-03:00
 tags:
   - rousseau
   - contrato-social

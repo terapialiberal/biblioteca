@@ -3,7 +3,7 @@ publish: true
 aliases:
   - ByteDance
 created: 2026-05-01T19:10:12.570-03:00
-modified: 2026-05-02T18:25:14.348-03:00
+modified: 2026-05-02T18:33:06.636-03:00
 tags:
   - empresa
   - china

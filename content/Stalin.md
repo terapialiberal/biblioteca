@@ -4,7 +4,7 @@ aliases:
   - Josef Stalin
   - Joseph Stalin
 created: 2026-05-01T20:40:36.967-03:00
-modified: 2026-05-02T13:01:42.870-03:00
+modified: 2026-05-02T13:07:56.421-03:00
 tags:
   - stalin
   - urss

@@ -4,7 +4,7 @@ aliases:
   - GAFI
   - Financial Action Task Force
 created: 2026-05-01T20:14:54.401-03:00
-modified: 2026-05-02T13:07:09.180-03:00
+modified: 2026-05-02T13:08:32.462-03:00
 tags:
   - fatf
   - gafi

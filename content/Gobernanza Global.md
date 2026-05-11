@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-29T14:45:28.722-03:00
-modified: 2026-04-29T14:45:28.722-03:00
+modified: 2026-04-29T14:45:29.116-03:00
 tags:
   - gobernanza-global
   - supranacional

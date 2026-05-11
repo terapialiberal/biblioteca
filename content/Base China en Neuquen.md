@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Base China en Neuquen (Espacio Profundo)
 created: 2026-01-29T19:17:04.869-03:00
-modified: 2026-04-18T12:30:14.444-03:00
+modified: 2026-04-18T12:30:21.641-03:00
 tags:
   - argentina
   - china

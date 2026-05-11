@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:23.366-03:00
-modified: 2026-04-18T18:24:43.060-03:00
+modified: 2026-04-18T18:24:50.488-03:00
 tags:
   - hubbert
   - peak-oil

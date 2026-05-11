@@ -4,7 +4,7 @@ aliases:
   - NWO
   - Nuevo Orden Mundial (Concepto)
 created: 2026-04-29T14:44:31.152-03:00
-modified: 2026-05-02T12:50:43.316-03:00
+modified: 2026-05-02T13:07:15.343-03:00
 tags:
   - nuevo-orden-mundial
   - gobernanza-global

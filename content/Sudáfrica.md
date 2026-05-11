@@ -4,7 +4,7 @@ aliases:
   - Sudafrica
   - Sudáfrica (Potencia Africana)
 created: 2026-05-01T20:44:50.415-03:00
-modified: 2026-05-02T12:45:53.489-03:00
+modified: 2026-05-02T13:07:07.517-03:00
 tags:
   - sudafrica
   - brics

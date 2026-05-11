@@ -4,7 +4,7 @@ aliases:
   - Nano-tecnologia
   - Nano-tecnologia (Polvo Inteligente)
 created: 2026-03-04T13:54:16.869-03:00
-modified: 2026-04-18T17:40:46.711-03:00
+modified: 2026-04-18T17:40:53.329-03:00
 tags:
   - nanotecnologia
   - grafeno

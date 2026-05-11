@@ -3,7 +3,7 @@ publish: true
 aliases:
   - "Loosh: La Energetica Del Sufrimiento Colectivo"
 created: 2026-01-29T19:17:22.897-03:00
-modified: 2026-04-18T18:08:05.004-03:00
+modified: 2026-04-18T18:08:11.814-03:00
 tags:
   - loosh
   - robert-monroe

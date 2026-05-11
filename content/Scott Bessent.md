@@ -3,7 +3,7 @@ publish: true
 aliases:
   - "Scott Bessent: el Arquitecto de la Hegemonia Monetaria"
 created: 2026-01-29T19:17:35.814-03:00
-modified: 2026-04-22T10:34:42.644-03:00
+modified: 2026-04-22T10:34:37.236-03:00
 tags:
   - scott-bessent
   - tesoro-eeuu

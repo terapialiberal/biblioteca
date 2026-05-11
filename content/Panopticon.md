@@ -5,7 +5,7 @@ aliases:
   - Panóptico
   - Panoptico
 created: 2026-05-01T20:47:00.797-03:00
-modified: 2026-05-02T12:44:21.364-03:00
+modified: 2026-05-02T13:06:56.382-03:00
 tags:
   - alias
   - legacy

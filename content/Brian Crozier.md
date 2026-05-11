@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Brian Crozier
 created: 2026-05-01T19:11:33.994-03:00
-modified: 2026-05-02T18:25:14.082-03:00
+modified: 2026-05-02T18:33:01.599-03:00
 tags:
   - actor
   - inteligencia

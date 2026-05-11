@@ -5,7 +5,7 @@ aliases:
   - Unión Europea
   - European Union
 created: 2026-05-01T20:13:27.781-03:00
-modified: 2026-05-02T13:46:33.443-03:00
+modified: 2026-05-02T13:46:38.287-03:00
 tags:
   - ue
   - europa

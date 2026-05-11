@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Informe Flexner (1910)
 created: 2026-01-29T19:17:18.407-03:00
-modified: 2026-04-18T10:51:13.190-03:00
+modified: 2026-04-18T10:51:20.443-03:00
 tags:
   - informe-flexner
   - medicina

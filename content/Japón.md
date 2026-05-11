@@ -4,7 +4,7 @@ aliases:
   - Japon
   - Japón (Economía)
 created: 2026-04-29T14:51:43.971-03:00
-modified: 2026-05-02T12:54:42.865-03:00
+modified: 2026-05-02T13:07:27.536-03:00
 tags:
   - japon
   - asia

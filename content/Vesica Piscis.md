@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-25T22:08:57.099-03:00
-modified: 2026-04-27T10:10:50.080-03:00
+modified: 2026-04-27T10:10:42.381-03:00
 tags:
   - vesica-piscis
   - geometria-sagrada

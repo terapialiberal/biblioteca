@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:20.792-03:00
-modified: 2026-04-07T11:53:49.008-03:00
+modified: 2026-04-07T11:53:42.974-03:00
 tags:
   - klaus-schwab
   - wef

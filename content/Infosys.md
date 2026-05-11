@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-29T15:30:53.904-03:00
-modified: 2026-04-29T15:30:53.904-03:00
+modified: 2026-04-29T15:31:00.497-03:00
 tags:
   - india
   - tecnologia

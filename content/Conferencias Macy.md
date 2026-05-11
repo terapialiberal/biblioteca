@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-29T13:53:51.281-03:00
-modified: 2026-04-29T13:53:51.281-03:00
+modified: 2026-04-29T13:53:55.387-03:00
 tags:
   - cibernetica
   - psicologia

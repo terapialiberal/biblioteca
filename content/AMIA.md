@@ -4,7 +4,7 @@ aliases:
   - Atentado a la AMIA
   - AMIA (Pista Siria)
 created: 2026-01-29T19:17:03.441-03:00
-modified: 2026-04-18T12:32:11.310-03:00
+modified: 2026-04-18T12:32:17.067-03:00
 tags:
   - amia
   - argentina

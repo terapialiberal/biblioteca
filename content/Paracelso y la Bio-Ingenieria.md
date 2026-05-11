@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Paracelso Y La Bio-Ingeniería
 created: 2026-02-25T22:08:51.139-03:00
-modified: 2026-04-27T10:53:36.071-03:00
+modified: 2026-04-27T10:53:27.758-03:00
 tags:
   - paracelso
   - bioingenieria

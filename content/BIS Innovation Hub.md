@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-09T17:21:44.358-03:00
-modified: 2026-04-22T16:40:49.030-03:00
+modified: 2026-04-22T16:40:42.772-03:00
 tags:
   - bis-innovation-hub
   - bis

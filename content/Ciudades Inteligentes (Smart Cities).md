@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-29T14:05:26.119-03:00
-modified: 2026-05-02T14:16:25.648-03:00
+modified: 2026-05-02T14:16:29.739-03:00
 tags:
   - alias
   - smart-cities

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:03.827-03:00
-modified: 2026-05-02T18:24:18.346-03:00
+modified: 2026-05-02T18:31:52.620-03:00
 tags:
   - arcontes
   - gnosticismo

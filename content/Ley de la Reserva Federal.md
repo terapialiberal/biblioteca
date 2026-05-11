@@ -3,7 +3,7 @@ publish: true
 aliases:
   - "Ley De La Reserva Federal: El Acta De Rendicion Monetaria"
 created: 2026-01-29T19:17:22.362-03:00
-modified: 2026-04-24T11:31:45.215-03:00
+modified: 2026-04-24T11:31:35.788-03:00
 tags:
   - reserva-federal
   - banco-central

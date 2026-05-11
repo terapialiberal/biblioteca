@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Bloomberg
 created: 2026-05-01T18:54:54.344-03:00
-modified: 2026-05-02T18:25:13.605-03:00
+modified: 2026-05-02T18:32:49.558-03:00
 tags:
   - empresa
   - medios

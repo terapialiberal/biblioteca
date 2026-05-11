@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-19T12:40:12.352-03:00
-modified: 2026-04-22T16:33:06.266-03:00
+modified: 2026-04-22T16:33:01.644-03:00
 tags:
   - shoshana-zuboff
   - capitalismo-de-vigilancia

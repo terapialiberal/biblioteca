@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-29T14:05:21.874-03:00
-modified: 2026-04-29T14:05:21.874-03:00
+modified: 2026-04-29T14:05:27.960-03:00
 tags:
   - private-equity
   - brasil

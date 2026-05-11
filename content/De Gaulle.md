@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Charles de Gaulle
 created: 2026-05-01T20:41:15.097-03:00
-modified: 2026-05-02T13:01:01.078-03:00
+modified: 2026-05-02T13:07:51.601-03:00
 tags:
   - de-gaulle
   - francia

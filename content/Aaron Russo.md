@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-01-29T19:17:02.662-03:00
-modified: 2026-05-02T18:24:12.696-03:00
+modified: 2026-05-02T18:28:21.835-03:00
 tags:
-  - "#aaron"
-  - "#russo"
+  - aaron
+  - russo
 ---
 
 # Aaron Russo

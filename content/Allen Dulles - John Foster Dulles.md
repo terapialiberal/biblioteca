@@ -4,13 +4,13 @@ aliases:
   - Allen Dulles / John Foster Dulles
   - Hermanos Dulles
 created: 2026-05-01T19:12:33.016-03:00
-modified: 2026-05-02T13:53:10.609-03:00
+modified: 2026-05-02T13:53:16.487-03:00
 tags:
-  - "#dulles"
-  - "#cia"
-  - "#guerra-fria"
-  - "#estado-profundo"
-  - "#tl-intel-v3"
+  - dulles
+  - cia
+  - guerra-fria
+  - estado-profundo
+  - tl-intel-v3
 ---
 
 # Allen Dulles - John Foster Dulles

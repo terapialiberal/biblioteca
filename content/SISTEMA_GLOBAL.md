@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:02.115-03:00
-modified: 2026-04-17T13:56:14.367-03:00
+modified: 2026-04-17T13:56:06.892-03:00
 tags:
   - sistema-global
   - jerarquia-de-poder

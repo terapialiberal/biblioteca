@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-20T11:09:32.388-03:00
-modified: 2026-04-20T11:10:56.299-03:00
+modified: 2026-04-20T11:10:47.308-03:00
 tags:
   - unitary-executive-theory
   - ejecutivo

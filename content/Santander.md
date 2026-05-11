@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Banco Santander
 created: 2026-05-01T20:15:54.689-03:00
-modified: 2026-05-02T13:06:23.629-03:00
+modified: 2026-05-02T13:08:25.479-03:00
 tags:
   - santander
   - banca

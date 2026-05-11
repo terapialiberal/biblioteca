@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Stripe (Fintech)
 created: 2026-05-01T20:38:45.587-03:00
-modified: 2026-05-02T12:58:38.640-03:00
+modified: 2026-05-02T13:07:39.547-03:00
 tags:
   - stripe
   - fintech

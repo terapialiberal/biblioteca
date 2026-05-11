@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Federal Security Service
 created: 2026-05-01T20:14:35.449-03:00
-modified: 2026-05-02T13:07:09.027-03:00
+modified: 2026-05-02T13:08:33.467-03:00
 tags:
   - fsb
   - rusia

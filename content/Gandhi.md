@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Mahatma Gandhi
 created: 2026-05-01T20:40:23.173-03:00
-modified: 2026-05-02T13:02:21.949-03:00
+modified: 2026-05-02T13:07:55.448-03:00
 tags:
   - gandhi
   - india

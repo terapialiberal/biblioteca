@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Bechtel / Halliburton
 created: 2026-05-01T18:54:46.947-03:00
-modified: 2026-05-02T18:25:12.864-03:00
+modified: 2026-05-02T18:32:38.595-03:00
 tags:
   - empresa
   - construccion

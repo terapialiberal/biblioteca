@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:24.689-03:00
-modified: 2026-05-02T18:25:46.152-03:00
+modified: 2026-05-02T18:36:12.920-03:00
 tags:
   - arkansas
   - bill

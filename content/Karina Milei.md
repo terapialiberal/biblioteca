@@ -3,7 +3,7 @@ publish: true
 aliases:
   - "Karina Milei: La Arquitecta del Sosten Psico-Politico"
 created: 2026-01-29T19:17:20.552-03:00
-modified: 2026-04-18T11:29:45.349-03:00
+modified: 2026-04-18T11:29:51.195-03:00
 tags:
   - argentina
   - milei

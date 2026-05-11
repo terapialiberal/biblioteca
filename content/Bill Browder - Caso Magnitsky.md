@@ -3,13 +3,13 @@ publish: true
 aliases:
   - Bill Browder (Caso Magnitsky)
 created: 2026-05-01T19:10:00.480-03:00
-modified: 2026-05-02T13:53:47.557-03:00
+modified: 2026-05-02T13:53:52.375-03:00
 tags:
-  - "#bill-browder"
-  - "#magnitsky"
-  - "#rusia"
-  - "#sanciones"
-  - "#tl-intel-v3"
+  - bill-browder
+  - magnitsky
+  - rusia
+  - sanciones
+  - tl-intel-v3
 ---
 
 # Bill Browder - Caso Magnitsky

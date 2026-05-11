@@ -4,7 +4,7 @@ aliases:
   - Pánico Moral
   - Moral panic
 created: 2026-04-27T10:12:10.047-03:00
-modified: 2026-04-27T10:12:10.047-03:00
+modified: 2026-04-27T10:12:11.177-03:00
 tags:
   - panico-moral
   - propaganda

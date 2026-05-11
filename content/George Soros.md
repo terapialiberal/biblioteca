@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:15.150-03:00
-modified: 2026-04-24T10:46:56.945-03:00
+modified: 2026-04-24T10:46:50.952-03:00
 tags:
   - george-soros
   - open-society

@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Semiótica del Poder Visual
 created: 2026-02-25T22:08:57.381-03:00
-modified: 2026-04-27T10:09:16.318-03:00
+modified: 2026-04-27T10:09:08.462-03:00
 tags:
   - semiotica
   - poder-visual

@@ -5,7 +5,7 @@ aliases:
   - Renta Básica Universal
   - Renta Básica Universal (UBI)
 created: 2026-05-01T20:42:34.426-03:00
-modified: 2026-05-02T12:50:43.619-03:00
+modified: 2026-05-02T13:07:16.543-03:00
 tags:
   - alias
   - legacy

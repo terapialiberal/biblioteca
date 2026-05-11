@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Bill Clinton
 created: 2026-05-01T20:41:05.904-03:00
-modified: 2026-05-02T13:01:42.734-03:00
+modified: 2026-05-02T13:07:55.456-03:00
 tags:
   - clinton
   - eeuu

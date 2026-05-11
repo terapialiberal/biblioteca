@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-20T16:56:44.118-03:00
-modified: 2026-04-20T16:56:44.118-03:00
+modified: 2026-04-20T16:56:45.419-03:00
 tags:
   - world-jewish-congress
   - wjc

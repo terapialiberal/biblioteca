@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-19T13:22:51.682-03:00
-modified: 2026-04-19T13:22:52.325-03:00
+modified: 2026-04-19T13:22:51.682-03:00
 tags:
   - sullivan-cromwell
   - bufete

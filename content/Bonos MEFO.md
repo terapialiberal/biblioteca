@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Bonos MEFO
 created: 2026-05-01T20:11:29.568-03:00
-modified: 2026-05-02T18:25:13.823-03:00
+modified: 2026-05-02T18:32:56.626-03:00
 tags:
   - concepto
   - finanzas

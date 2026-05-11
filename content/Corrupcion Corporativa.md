@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-29T13:53:51.388-03:00
-modified: 2026-04-29T13:53:51.388-03:00
+modified: 2026-04-29T13:53:56.128-03:00
 tags:
   - corporaciones
   - compliance

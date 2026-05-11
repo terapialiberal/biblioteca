@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Australia (Geopolítica)
 created: 2026-04-29T14:51:44.362-03:00
-modified: 2026-05-02T12:54:42.635-03:00
+modified: 2026-05-02T13:07:27.426-03:00
 tags:
   - australia
   - aukus

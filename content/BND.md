@@ -4,13 +4,13 @@ aliases:
   - BND (Servicio Federal de Inteligencia)
   - BND (Servicio Federal de Inteligencia de Alemania)
 created: 2026-05-01T18:54:57.414-03:00
-modified: 2026-05-02T13:53:47.743-03:00
+modified: 2026-05-02T13:53:53.361-03:00
 tags:
-  - "#bnd"
-  - "#alemania"
-  - "#inteligencia"
-  - "#europa"
-  - "#tl-intel-v3"
+  - bnd
+  - alemania
+  - inteligencia
+  - europa
+  - tl-intel-v3
 ---
 
 # BND

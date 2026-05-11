@@ -4,13 +4,13 @@ aliases:
   - Acuerdo de Bretton Woods
   - Conferencia de Bretton Woods
 created: 2026-05-01T18:55:04.683-03:00
-modified: 2026-05-02T13:54:27.662-03:00
+modified: 2026-05-02T13:54:32.631-03:00
 tags:
-  - "#bretton-woods"
-  - "#dolar"
-  - "#oro"
-  - "#fmi"
-  - "#tl-intel-v3"
+  - bretton-woods
+  - dolar
+  - oro
+  - fmi
+  - tl-intel-v3
 ---
 
 # Bretton Woods

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-29T14:13:04.729-03:00
-modified: 2026-04-29T14:13:26.613-03:00
+modified: 2026-04-29T14:13:21.794-03:00
 tags:
   - gobernanza-global
   - ideologia

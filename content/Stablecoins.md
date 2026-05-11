@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-19T13:19:27.042-03:00
-modified: 2026-04-19T13:19:28.358-03:00
+modified: 2026-04-19T13:19:27.042-03:00
 tags:
   - stablecoins
   - dolar-digital

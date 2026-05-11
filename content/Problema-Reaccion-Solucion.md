@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:31.494-03:00
-modified: 2026-04-07T11:50:10.082-03:00
+modified: 2026-04-07T11:38:11.423-03:00
 tags:
   - problema-reaccion-solucion
   - dialectica

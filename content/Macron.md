@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Emmanuel Macron
 created: 2026-05-01T20:41:17.404-03:00
-modified: 2026-05-02T12:57:57.349-03:00
+modified: 2026-05-02T13:07:46.424-03:00
 tags:
   - macron
   - francia

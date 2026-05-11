@@ -4,7 +4,7 @@ aliases:
   - Metaverso Como Prisión De Platón
   - Metaverso como Prisión de Platón
 created: 2026-02-25T22:08:55.508-03:00
-modified: 2026-04-27T10:36:43.495-03:00
+modified: 2026-04-27T10:36:33.913-03:00
 tags:
   - metaverso
   - platon

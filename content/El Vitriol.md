@@ -3,7 +3,7 @@ publish: true
 aliases:
   - VITRIOL
 created: 2026-02-25T22:08:53.168-03:00
-modified: 2026-04-27T10:10:20.921-03:00
+modified: 2026-04-27T10:10:14.042-03:00
 tags:
   - vitriol
   - alquimia

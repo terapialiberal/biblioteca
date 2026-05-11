@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Transhumanismo (Movimiento)
 created: 2026-01-29T19:17:41.022-03:00
-modified: 2026-05-02T12:51:26.723-03:00
+modified: 2026-05-02T13:07:21.421-03:00
 tags:
   - transhumanismo
   - biotecnologia

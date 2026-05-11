@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Bob Fitrakis
 created: 2026-05-01T18:51:54.793-03:00
-modified: 2026-05-02T18:25:13.718-03:00
+modified: 2026-05-02T18:32:51.726-03:00
 tags:
   - actor
   - periodismo

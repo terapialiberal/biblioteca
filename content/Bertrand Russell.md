@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Bertrand Russell
 created: 2026-05-01T19:10:41.344-03:00
-modified: 2026-05-02T18:25:13.301-03:00
+modified: 2026-05-02T18:32:40.600-03:00
 tags:
   - actor
   - filosofia

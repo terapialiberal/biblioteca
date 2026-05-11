@@ -5,7 +5,7 @@ aliases:
   - Fed
   - Banco de la Reserva Federal
 created: 2026-05-01T20:14:24.057-03:00
-modified: 2026-05-02T13:45:56.515-03:00
+modified: 2026-05-02T13:46:03.454-03:00
 tags:
   - alias
   - legacy

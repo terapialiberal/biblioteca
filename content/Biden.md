@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Joe Biden
 created: 2026-05-01T20:40:58.961-03:00
-modified: 2026-05-02T12:57:57.592-03:00
+modified: 2026-05-02T13:07:46.563-03:00
 tags:
   - biden
   - eeuu

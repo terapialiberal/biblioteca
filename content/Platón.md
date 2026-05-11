@@ -4,7 +4,7 @@ aliases:
   - Platón
   - Platon
 created: 2026-05-01T20:17:08.544-03:00
-modified: 2026-05-02T13:49:15.616-03:00
+modified: 2026-05-02T13:49:19.738-03:00
 tags:
   - alias
   - legacy

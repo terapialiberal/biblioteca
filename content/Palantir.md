@@ -4,7 +4,7 @@ aliases:
   - Palantir Technologies
   - Palantir CIA
 created: 2026-01-29T19:17:29.660-03:00
-modified: 2026-04-22T16:24:33.282-03:00
+modified: 2026-04-22T16:24:27.620-03:00
 tags:
   - palantir
   - vigilancia

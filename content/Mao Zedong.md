@@ -4,7 +4,7 @@ aliases:
   - Mao Zedong
   - Mao Tse-tung
 created: 2026-05-01T18:48:02.821-03:00
-modified: 2026-05-02T18:25:44.707-03:00
+modified: 2026-05-02T18:36:08.430-03:00
 tags:
   - actor
   - china

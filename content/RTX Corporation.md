@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-19T13:28:18.760-03:00
-modified: 2026-04-19T13:28:19.244-03:00
+modified: 2026-04-19T13:28:18.760-03:00
 tags:
   - rtx
   - raytheon

@@ -4,7 +4,7 @@ aliases:
   - TransferWise
   - Wise (TransferWise)
 created: 2026-05-01T20:38:50.420-03:00
-modified: 2026-05-02T12:58:38.501-03:00
+modified: 2026-05-02T13:07:39.472-03:00
 tags:
   - wise
   - fintech

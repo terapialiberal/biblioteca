@@ -4,7 +4,7 @@ aliases:
   - Sócrates
   - Socrates
 created: 2026-05-01T20:17:13.237-03:00
-modified: 2026-05-02T13:49:15.530-03:00
+modified: 2026-05-02T13:49:18.263-03:00
 tags:
   - alias
   - legacy

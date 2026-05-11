@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Groenlandia (Recursos y Geopolítica)
 created: 2026-05-01T20:45:24.951-03:00
-modified: 2026-05-02T12:46:17.175-03:00
+modified: 2026-05-02T13:07:04.397-03:00
 tags:
   - groenlandia
   - artico

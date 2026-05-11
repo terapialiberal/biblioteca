@@ -5,7 +5,7 @@ aliases:
   - Overnight Reverse Repo Facility
   - "Reverse Repo Facility: el Sumidero de la Liquidez de la Matrix"
 created: 2026-01-29T19:17:33.604-03:00
-modified: 2026-04-22T10:37:55.332-03:00
+modified: 2026-04-22T10:37:47.183-03:00
 tags:
   - reverse-repo
   - liquidez

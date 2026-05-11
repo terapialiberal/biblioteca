@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-19T13:16:50.322-03:00
-modified: 2026-04-22T16:39:13.170-03:00
+modified: 2026-04-22T16:39:07.949-03:00
 tags:
   - dinero-programable
   - cbdc

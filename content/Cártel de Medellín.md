@@ -4,7 +4,7 @@ aliases:
   - Cartel de Medellin
   - Cártel de Medellín
 created: 2026-05-01T19:09:35.735-03:00
-modified: 2026-05-02T13:54:27.891-03:00
+modified: 2026-05-02T13:54:33.582-03:00
 tags:
   - cartel-medellin
   - narcotrafico

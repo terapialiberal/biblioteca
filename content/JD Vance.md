@@ -5,7 +5,7 @@ aliases:
   - "J.D. Vance: El Interfaz De La PayPal Mafia"
   - "JD Vance: El Portavoz del Nuevo Paradigma"
 created: 2026-02-25T15:42:29.816-03:00
-modified: 2026-04-20T10:42:01.251-03:00
+modified: 2026-04-20T10:33:12.736-03:00
 tags:
   - jd-vance
   - peter-thiel

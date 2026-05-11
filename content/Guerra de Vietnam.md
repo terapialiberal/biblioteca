@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Guerra de Vietnam (Conflicto)
 created: 2026-04-27T12:03:17.214-03:00
-modified: 2026-05-02T13:48:37.735-03:00
+modified: 2026-05-02T13:48:41.533-03:00
 tags:
   - vietnam
   - guerra-fria

@@ -3,7 +3,7 @@ publish: true
 aliases:
   - "Lucis Trust: Los Arquitectos Espirituales Del Globalismo"
 created: 2026-01-29T19:17:23.082-03:00
-modified: 2026-04-18T18:21:38.970-03:00
+modified: 2026-04-18T18:21:45.040-03:00
 tags:
   - lucis-trust
   - alice-bailey

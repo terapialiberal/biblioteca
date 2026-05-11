@@ -197,9 +197,7 @@ tags: [moc, tecnologia-de-control, ia, vigilancia, tl-intel-v3]
 
 - [[06_Videos_Publicados/2026/2026-04-13_Ormuz_IA_Orden/00_CONTROL_TEMA.md|00_CONTROL_TEMA]]
 
-- [[00_Home/00_ESTADO_OPERATIVO_IA.md|00_ESTADO_OPERATIVO_IA]]
-
-- [[99_AI/02_Agentes/_legacy/00_IA_STACK_2026.md|00_IA_STACK_2026]]
+- [[99_AI/02_Agentes/00_ESTADO_OPERATIVO_IA.md|00_ESTADO_OPERATIVO_IA]]
 
 - [[99_AI/03_Prompts/00_INDICE_DE_PROMPTS_TL_V3.md|00_INDICE_DE_PROMPTS_TL_V3]]
 

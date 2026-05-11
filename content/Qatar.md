@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Qatar (Influencia)
 created: 2026-04-29T15:32:15.040-03:00
-modified: 2026-05-02T12:49:52.272-03:00
+modified: 2026-05-02T13:07:14.367-03:00
 tags:
   - qatar
   - gas

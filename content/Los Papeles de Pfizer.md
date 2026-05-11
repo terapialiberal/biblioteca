@@ -3,7 +3,7 @@ publish: true
 aliases:
   - "Los Papeles De Pfizer: La Verdad Detras De La Inmunidad"
 created: 2026-01-29T19:17:22.972-03:00
-modified: 2026-04-21T18:50:06.644-03:00
+modified: 2026-04-21T18:50:13.021-03:00
 tags:
   - pfizer
   - fda

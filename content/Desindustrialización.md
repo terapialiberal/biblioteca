@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-29T14:09:24.576-03:00
-modified: 2026-04-29T14:09:43.825-03:00
+modified: 2026-04-29T14:09:39.161-03:00
 tags:
   - industria
   - globalizacion

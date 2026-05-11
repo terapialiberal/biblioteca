@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:31.193-03:00
-modified: 2026-04-07T12:08:30.206-03:00
+modified: 2026-04-07T12:08:25.919-03:00
 tags:
   - precedente
   - metodo

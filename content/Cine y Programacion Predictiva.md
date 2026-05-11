@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Cine Y Programación Predictiva (Nota Maestra)
 created: 2026-01-29T19:17:07.724-03:00
-modified: 2026-04-19T12:01:44.898-03:00
+modified: 2026-04-19T12:01:52.928-03:00
 tags:
   - cine
   - programacion-predictiva

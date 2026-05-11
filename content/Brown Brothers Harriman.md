@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Brown Brothers Harriman
 created: 2026-05-01T18:55:10.027-03:00
-modified: 2026-05-02T18:25:14.238-03:00
+modified: 2026-05-02T18:33:00.825-03:00
 tags:
   - banco
   - dinastia

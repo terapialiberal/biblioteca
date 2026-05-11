@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-19T12:30:04.992-03:00
-modified: 2026-04-22T09:34:55.005-03:00
+modified: 2026-04-22T09:34:47.648-03:00
 tags:
   - gobernanza-digital
   - plataformas

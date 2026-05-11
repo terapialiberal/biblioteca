@@ -4,7 +4,7 @@ aliases:
   - Manufactura De Consenso
   - Manufacturing Consent
 created: 2026-01-29T19:17:23.560-03:00
-modified: 2026-04-19T12:15:34.057-03:00
+modified: 2026-04-19T12:15:40.661-03:00
 tags:
   - manufactura-de-consenso
   - medios

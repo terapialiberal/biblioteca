@@ -4,7 +4,7 @@ aliases:
   - World Economic Forum
   - Foro Economico Mundial
 created: 2026-01-29T19:17:44.121-03:00
-modified: 2026-04-21T20:10:50.873-03:00
+modified: 2026-04-21T20:11:01.713-03:00
 tags:
   - wef
   - davos

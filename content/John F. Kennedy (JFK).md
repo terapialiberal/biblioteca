@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-19T13:23:47.435-03:00
-modified: 2026-04-19T13:23:48.472-03:00
+modified: 2026-04-19T13:23:47.435-03:00
 tags:
   - jfk
   - john-f-kennedy

@@ -3,7 +3,7 @@ publish: true
 aliases:
   - "Litio En Jujuy: La Cara Oculta De La Transicion Verde"
 created: 2026-01-29T19:17:22.663-03:00
-modified: 2026-04-18T17:55:26.889-03:00
+modified: 2026-04-18T17:55:33.376-03:00
 tags:
   - litio
   - jujuy

@@ -3,7 +3,7 @@ publish: true
 aliases:
   - CNP
 created: 2026-01-29T19:17:08.875-03:00
-modified: 2026-04-21T12:57:49.961-03:00
+modified: 2026-04-21T12:57:42.180-03:00
 tags:
   - cnp
   - derecha-estadounidense

@@ -3,7 +3,7 @@ publish: true
 aliases:
   - "Safe And Effective: la Programacion Neurolinguistica del Consentimiento"
 created: 2026-01-29T19:17:35.065-03:00
-modified: 2026-04-22T17:00:23.417-03:00
+modified: 2026-04-22T17:00:18.927-03:00
 tags:
   - safe-and-effective
   - consentimiento

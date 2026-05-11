@@ -4,7 +4,7 @@ aliases:
   - Paypal
   - PayPal (Mafia)
 created: 2026-05-01T20:38:43.290-03:00
-modified: 2026-05-02T12:58:38.721-03:00
+modified: 2026-05-02T13:07:39.422-03:00
 tags:
   - paypal
   - fintech

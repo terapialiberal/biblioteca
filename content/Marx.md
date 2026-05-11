@@ -4,7 +4,7 @@ aliases:
   - Karl Marx
   - Karl Marx (Pensamiento)
 created: 2026-05-01T20:17:18.135-03:00
-modified: 2026-05-02T13:44:01.634-03:00
+modified: 2026-05-02T13:44:09.676-03:00
 tags:
   - marx
   - comunismo

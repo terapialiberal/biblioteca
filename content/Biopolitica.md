@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Biopolítica
 created: 2026-01-29T19:17:05.447-03:00
-modified: 2026-04-22T12:26:01.158-03:00
+modified: 2026-04-22T12:25:56.121-03:00
 tags:
   - biopolitica
   - salud

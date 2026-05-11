@@ -4,7 +4,7 @@ aliases:
   - 4IR
   - Cuarta Revolución Industrial (4IR)
 created: 2026-01-29T19:17:09.383-03:00
-modified: 2026-04-17T16:43:30.576-03:00
+modified: 2026-04-17T16:43:23.768-03:00
 tags:
   - 4ir
   - wef

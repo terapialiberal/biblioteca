@@ -4,7 +4,7 @@ aliases:
   - Supply Chain
   - Cadena de Suministro
 created: 2026-05-01T20:11:02.127-03:00
-modified: 2026-05-02T13:47:57.025-03:00
+modified: 2026-05-02T13:48:00.331-03:00
 tags:
   - cadena-de-suministro
   - logistica

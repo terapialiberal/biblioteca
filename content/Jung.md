@@ -4,7 +4,7 @@ aliases:
   - Carl Jung
   - Carl Gustav Jung
 created: 2026-05-01T20:17:23.018-03:00
-modified: 2026-05-02T13:44:01.543-03:00
+modified: 2026-05-02T13:44:06.725-03:00
 tags:
   - jung
   - psicologia

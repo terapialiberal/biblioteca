@@ -5,7 +5,7 @@ aliases:
   - SPFS
   - System for Transfer of Financial Messages
 created: 2026-01-29T19:17:37.080-03:00
-modified: 2026-04-22T10:08:47.611-03:00
+modified: 2026-04-22T10:08:39.720-03:00
 tags:
   - spfs
   - rusia

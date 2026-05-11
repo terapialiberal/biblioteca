@@ -4,7 +4,7 @@ aliases:
   - Milgram obedience experiment
   - Experimento de obediencia de Milgram
 created: 2026-02-25T22:08:55.596-03:00
-modified: 2026-04-27T10:09:16.445-03:00
+modified: 2026-04-27T10:09:08.546-03:00
 tags:
   - experimento-milgram
   - obediencia

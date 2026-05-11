@@ -1,12 +1,12 @@
 ---
 publish: true
 created: 2026-04-29T13:53:50.263-03:00
-modified: 2026-05-02T14:18:00.719-03:00
+modified: 2026-05-02T14:18:06.892-03:00
 tags:
-  - "#alias"
-  - "#esoterismo"
-  - "#inteligencia"
-  - "#tl-intel-v3"
+  - alias
+  - esoterismo
+  - inteligencia
+  - tl-intel-v3
 ---
 
 # Alistair Crowley

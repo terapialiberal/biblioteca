@@ -3,7 +3,7 @@ publish: true
 aliases:
   - "Nassim Nicholas Taleb: El Desmantelador De La Fragilidad Tecnocratica"
 created: 2026-01-29T19:17:26.418-03:00
-modified: 2026-04-18T18:28:06.056-03:00
+modified: 2026-04-18T18:28:12.781-03:00
 tags:
   - taleb
   - antifragilidad

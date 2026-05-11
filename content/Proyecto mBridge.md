@@ -4,7 +4,7 @@ aliases:
   - Project mBridge
   - mBridge
 created: 2026-02-25T15:50:06.497-03:00
-modified: 2026-04-22T10:48:39.636-03:00
+modified: 2026-04-22T10:48:29.953-03:00
 tags:
   - mbridge
   - cbdc

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-25T22:08:52.369-03:00
-modified: 2026-04-19T12:06:38.080-03:00
+modified: 2026-04-19T12:06:45.844-03:00
 tags:
   - consentimiento
   - bernays

@@ -4,7 +4,7 @@ aliases:
   - Daesh
   - Estado Islámico
 created: 2026-05-01T20:14:57.484-03:00
-modified: 2026-05-02T13:45:56.365-03:00
+modified: 2026-05-02T13:46:01.360-03:00
 tags:
   - isis
   - terrorismo

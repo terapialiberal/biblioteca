@@ -5,7 +5,7 @@ aliases:
   - Military-Industrial Complex
   - Industria Militar Complejo
 created: 2026-04-19T13:27:02.850-03:00
-modified: 2026-05-02T12:44:21.645-03:00
+modified: 2026-05-02T13:06:55.419-03:00
 tags:
   - complejo-militar-industrial
   - defensa

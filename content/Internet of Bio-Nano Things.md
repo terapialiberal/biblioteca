@@ -4,7 +4,7 @@ aliases:
   - Internet of Bio-Nano Things (IoBNT)
   - IoBNT
 created: 2026-01-29T19:17:18.665-03:00
-modified: 2026-04-22T16:58:31.060-03:00
+modified: 2026-04-22T16:58:26.665-03:00
 tags:
   - iobnt
   - nano

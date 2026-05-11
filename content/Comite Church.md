@@ -5,7 +5,7 @@ aliases:
   - Church Committee
   - Comite Church (Evento)
 created: 2026-01-29T19:17:08.385-03:00
-modified: 2026-04-22T11:28:49.621-03:00
+modified: 2026-04-22T11:28:42.689-03:00
 tags:
   - church-committee
   - inteligencia

@@ -4,7 +4,7 @@ aliases:
   - Manning
   - Chelsea Manning
 created: 2026-05-01T20:40:08.633-03:00
-modified: 2026-05-02T13:08:00.978-03:00
+modified: 2026-05-02T13:08:33.434-03:00
 tags:
   - alias
   - legacy

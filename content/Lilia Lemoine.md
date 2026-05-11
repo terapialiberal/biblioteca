@@ -3,7 +3,7 @@ publish: true
 aliases:
   - "Lilia Lemoine: La Interfaz Estetica De La Anti-Politica"
 created: 2026-01-29T19:17:22.556-03:00
-modified: 2026-04-18T17:55:26.834-03:00
+modified: 2026-04-18T17:55:33.404-03:00
 tags:
   - lilia-lemoine
   - la-libertad-avanza

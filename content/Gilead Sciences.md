@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-29T14:13:03.862-03:00
-modified: 2026-04-29T14:13:26.269-03:00
+modified: 2026-04-29T14:13:21.491-03:00
 tags:
   - big-pharma
   - biotecnologia

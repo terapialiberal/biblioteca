@@ -4,7 +4,7 @@ aliases:
   - Too Big to Fail (Bancos Sistémicos)
   - Demasiado grande para caer
 created: 2026-05-01T20:46:37.204-03:00
-modified: 2026-05-02T12:22:06.197-03:00
+modified: 2026-05-02T13:02:34.945-03:00
 tags:
   - too-big-to-fail
   - banca-sistemica

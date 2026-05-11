@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Ronald Reagan
 created: 2026-05-01T20:41:08.157-03:00
-modified: 2026-05-02T13:01:42.688-03:00
+modified: 2026-05-02T13:07:55.405-03:00
 tags:
   - reagan
   - eeuu

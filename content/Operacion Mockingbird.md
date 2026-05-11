@@ -3,7 +3,7 @@ publish: true
 aliases:
   - "Operacion Mockingbird: El Eco-Camara De La Matrix"
 created: 2026-01-29T19:17:28.682-03:00
-modified: 2026-04-22T11:33:57.441-03:00
+modified: 2026-04-22T11:33:51.142-03:00
 tags:
   - mockingbird
   - cia

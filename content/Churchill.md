@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Winston Churchill
 created: 2026-05-01T20:41:12.816-03:00
-modified: 2026-05-02T13:01:42.595-03:00
+modified: 2026-05-02T13:07:56.443-03:00
 tags:
   - churchill
   - reino-unido

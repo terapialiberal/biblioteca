@@ -4,7 +4,7 @@ aliases:
   - Iniciación Traumática
   - Traumatic initiation
 created: 2026-02-25T22:08:52.812-03:00
-modified: 2026-04-27T10:23:22.596-03:00
+modified: 2026-04-27T10:23:13.781-03:00
 tags:
   - iniciacion-traumatica
   - trauma

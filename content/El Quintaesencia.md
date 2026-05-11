@@ -5,7 +5,7 @@ aliases:
   - Quintaesencia
   - Quintessence
 created: 2026-02-25T22:08:52.695-03:00
-modified: 2026-04-27T10:53:42.192-03:00
+modified: 2026-04-27T10:53:32.054-03:00
 tags:
   - quintaesencia
   - ether

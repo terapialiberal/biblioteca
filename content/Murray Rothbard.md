@@ -3,7 +3,7 @@ publish: true
 aliases:
   - "Murray Rothbard: El Desprogramador Del Estado"
 created: 2026-01-29T19:17:26.169-03:00
-modified: 2026-04-18T18:17:08.531-03:00
+modified: 2026-04-18T18:17:14.888-03:00
 tags:
   - murray-rothbard
   - anarcocapitalismo

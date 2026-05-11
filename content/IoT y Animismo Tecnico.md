@@ -3,7 +3,7 @@ publish: true
 aliases:
   - IoT Y Animismo Técnico
 created: 2026-02-25T22:08:55.377-03:00
-modified: 2026-04-27T10:56:06.818-03:00
+modified: 2026-04-27T10:55:59.805-03:00
 tags:
   - iot
   - animismo-tecnico

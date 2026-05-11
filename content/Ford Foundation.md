@@ -4,7 +4,7 @@ aliases:
   - Ford Foundation
   - Fundación Ford
 created: 2026-01-29T19:17:13.906-03:00
-modified: 2026-04-18T10:56:38.834-03:00
+modified: 2026-04-18T10:56:46.027-03:00
 tags:
   - fundacion-ford
   - fundaciones

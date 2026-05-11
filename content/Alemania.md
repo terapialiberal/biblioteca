@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Alemania (Potencia Europea)
 created: 2026-04-29T14:51:46.280-03:00
-modified: 2026-05-02T12:58:37.731-03:00
+modified: 2026-05-02T13:07:27.433-03:00
 tags:
   - alemania
   - europa

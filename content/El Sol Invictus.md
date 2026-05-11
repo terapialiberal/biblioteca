@@ -4,7 +4,7 @@ aliases:
   - Sol Invictus
   - Sol Invicto
 created: 2026-02-25T22:08:54.680-03:00
-modified: 2026-04-27T10:24:12.931-03:00
+modified: 2026-04-27T10:24:06.425-03:00
 tags:
   - sol-invictus
   - simbolismo

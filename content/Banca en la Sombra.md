@@ -4,7 +4,7 @@ aliases:
   - Shadow Banking
   - Banca en la Sombra - El Sistema Financiero Paralelo (Shadow Banking)
 created: 2026-03-04T14:12:08.828-03:00
-modified: 2026-04-18T15:49:03.072-03:00
+modified: 2026-04-18T15:49:09.833-03:00
 tags:
   - shadow-banking
   - liquidez

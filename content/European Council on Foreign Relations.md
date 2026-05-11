@@ -3,7 +3,7 @@ publish: true
 aliases:
   - ECFR
 created: 2026-01-29T19:17:12.621-03:00
-modified: 2026-04-21T13:02:07.386-03:00
+modified: 2026-04-21T13:01:59.788-03:00
 tags:
   - ecfr
   - think-tank

@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Henry Kissinger
 created: 2026-05-01T20:16:21.466-03:00
-modified: 2026-05-02T13:44:42.483-03:00
+modified: 2026-05-02T13:44:50.205-03:00
 tags:
   - kissinger
   - realpolitik

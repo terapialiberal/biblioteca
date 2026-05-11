@@ -3,7 +3,7 @@ publish: true
 aliases:
   - C40 Cities
 created: 2026-01-29T19:17:07.850-03:00
-modified: 2026-04-18T17:26:50.201-03:00
+modified: 2026-04-18T17:26:56.536-03:00
 tags:
   - c40
   - ciudades-inteligentes

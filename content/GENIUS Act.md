@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-22T10:31:46.605-03:00
-modified: 2026-04-22T10:31:46.605-03:00
+modified: 2026-04-22T10:31:48.956-03:00
 tags:
   - genius-act
   - stablecoins

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-29T14:05:23.264-03:00
-modified: 2026-04-29T14:05:35.168-03:00
+modified: 2026-04-29T14:05:30.379-03:00
 tags:
   - microsoft
   - nube

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-29T15:30:57.314-03:00
-modified: 2026-04-29T15:31:19.806-03:00
+modified: 2026-04-29T15:31:03.903-03:00
 tags:
   - psicologia
   - propaganda

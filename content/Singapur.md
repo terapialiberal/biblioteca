@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Singapur (Centro Financiero)
 created: 2026-05-01T20:44:12.113-03:00
-modified: 2026-05-02T12:49:52.591-03:00
+modified: 2026-05-02T13:07:15.433-03:00
 tags:
   - singapur
   - asia

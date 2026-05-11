@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-29T14:13:03.928-03:00
-modified: 2026-04-29T14:13:26.323-03:00
+modified: 2026-04-29T14:13:21.536-03:00
 tags:
   - gladio
   - otan

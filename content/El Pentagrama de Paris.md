@@ -3,7 +3,7 @@ publish: true
 aliases:
   - El Pentagrama De París
 created: 2026-02-25T22:08:32.113-03:00
-modified: 2026-04-27T11:10:08.912-03:00
+modified: 2026-04-27T11:10:00.212-03:00
 tags:
   - paris
   - pentagrama

@@ -3,7 +3,7 @@ publish: true
 aliases:
   - NATO
 created: 2026-04-19T13:27:02.791-03:00
-modified: 2026-05-02T13:46:33.492-03:00
+modified: 2026-05-02T13:46:40.333-03:00
 tags:
   - otan
   - nato

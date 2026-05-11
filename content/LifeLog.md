@@ -3,7 +3,7 @@ publish: true
 aliases:
   - "LifeLog: La Privatizacion De La Vigilancia De DARPA"
 created: 2026-01-29T19:17:22.515-03:00
-modified: 2026-04-18T18:21:38.743-03:00
+modified: 2026-04-18T18:21:45.088-03:00
 tags:
   - lifelog
   - darpa

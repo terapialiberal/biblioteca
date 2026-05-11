@@ -4,7 +4,7 @@ aliases:
   - Real World Asset Tokenization
   - Protocolo RWA
 created: 2026-02-09T17:21:54.016-03:00
-modified: 2026-04-22T09:43:57.539-03:00
+modified: 2026-04-22T09:43:48.421-03:00
 tags:
   - rwa
   - tokenizacion

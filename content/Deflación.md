@@ -4,7 +4,7 @@ aliases:
   - Deflacion
   - Deflación (Fenómeno)
 created: 2026-05-01T20:45:46.176-03:00
-modified: 2026-05-02T12:22:03.197-03:00
+modified: 2026-05-02T12:40:48.284-03:00
 tags:
   - deflacion
   - deuda

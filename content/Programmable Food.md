@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-25T15:44:53.433-03:00
-modified: 2026-04-07T11:49:21.058-03:00
+modified: 2026-05-02T18:40:26.496-03:00
 tags:
   - algoritmo
   - bajo

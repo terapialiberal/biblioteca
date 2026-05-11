@@ -4,7 +4,7 @@ aliases:
   - National Reconnaissance Office
   - NRO (National Reconnaissance Office)
 created: 2026-04-20T10:08:17.066-03:00
-modified: 2026-04-20T10:11:14.138-03:00
+modified: 2026-04-20T10:10:54.487-03:00
 tags:
   - nro
   - inteligencia

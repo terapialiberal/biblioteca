@@ -4,7 +4,7 @@ aliases:
   - La Casta
   - Casta - Clase Política
 created: 2026-05-01T20:12:21.480-03:00
-modified: 2026-05-02T13:54:51.936-03:00
+modified: 2026-05-02T13:54:55.470-03:00
 tags:
   - casta
   - argentina

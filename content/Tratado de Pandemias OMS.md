@@ -5,7 +5,7 @@ aliases:
   - Tratado de Pandemias de la OMS
   - Tratado De Pandemias (OMS)
 created: 2026-02-25T15:44:39.927-03:00
-modified: 2026-04-22T15:50:31.346-03:00
+modified: 2026-04-22T15:50:22.516-03:00
 tags:
   - tratado-de-pandemias
   - oms

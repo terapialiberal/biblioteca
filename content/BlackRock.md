@@ -3,7 +3,7 @@ publish: true
 aliases:
   - BlackRock / Larry Fink
 created: 2026-01-29T19:17:05.564-03:00
-modified: 2026-04-24T09:46:38.468-03:00
+modified: 2026-04-24T09:46:32.506-03:00
 tags:
   - blackrock
   - gestores-de-activos

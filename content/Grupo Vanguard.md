@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:16.123-03:00
-modified: 2026-04-24T09:46:38.062-03:00
+modified: 2026-04-24T09:46:32.587-03:00
 tags:
   - vanguard
   - propiedad-comun

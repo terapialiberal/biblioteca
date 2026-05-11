@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Barack Obama
 created: 2026-05-01T20:41:01.193-03:00
-modified: 2026-05-02T12:57:57.446-03:00
+modified: 2026-05-02T13:07:43.424-03:00
 tags:
   - obama
   - eeuu

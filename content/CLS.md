@@ -4,7 +4,7 @@ aliases:
   - CLS (Continuous Linked Settlement)
   - Continuous Linked Settlement
 created: 2026-05-01T20:37:24.951-03:00
-modified: 2026-05-02T13:43:26.192-03:00
+modified: 2026-05-02T13:43:34.322-03:00
 tags:
   - cls
   - fx

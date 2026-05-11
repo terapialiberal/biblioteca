@@ -4,13 +4,13 @@ aliases:
   - Afganistan
   - Afganistán (Conflicto)
 created: 2026-04-29T14:51:45.704-03:00
-modified: 2026-05-02T13:01:00.790-03:00
+modified: 2026-05-02T13:07:51.393-03:00
 tags:
-  - "#afganistan"
-  - "#asia-central"
-  - "#taliban"
-  - "#guerra"
-  - "#tl-intel-v3"
+  - afganistan
+  - asia-central
+  - taliban
+  - guerra
+  - tl-intel-v3
 ---
 
 # Afganistán

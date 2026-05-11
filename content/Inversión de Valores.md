@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-29T15:30:56.347-03:00
-modified: 2026-04-29T15:31:23.852-03:00
+modified: 2026-04-29T15:31:03.615-03:00
 tags:
   - ingenieria-social
   - cultura

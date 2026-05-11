@@ -4,7 +4,7 @@ aliases:
   - Embajada de Estados Unidos
   - Embajada de EEUU
 created: 2026-04-24T11:09:49.697-03:00
-modified: 2026-04-24T11:09:49.697-03:00
+modified: 2026-04-24T11:09:50.841-03:00
 tags:
   - embajada-eeuu
   - diplomacia

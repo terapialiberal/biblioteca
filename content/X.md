@@ -4,7 +4,7 @@ aliases:
   - Twitter
   - X (Twitter)
 created: 2026-04-20T10:18:59.311-03:00
-modified: 2026-04-20T10:21:52.731-03:00
+modified: 2026-04-20T10:21:12.212-03:00
 tags:
   - x
   - twitter

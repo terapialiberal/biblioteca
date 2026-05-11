@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Manly P Hall
 created: 2026-01-29T19:17:23.480-03:00
-modified: 2026-04-07T13:13:59.318-03:00
+modified: 2026-04-07T13:13:47.688-03:00
 tags:
   - persona
   - esoterismo

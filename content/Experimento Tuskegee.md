@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:12.876-03:00
-modified: 2026-04-18T10:52:36.178-03:00
+modified: 2026-04-18T10:52:42.134-03:00
 tags:
   - tuskegee
   - medicina

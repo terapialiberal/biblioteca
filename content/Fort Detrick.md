@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:13.959-03:00
-modified: 2026-04-19T13:05:49.044-03:00
+modified: 2026-04-19T13:05:57.068-03:00
 tags:
   - fort-detrick
   - biowarfare

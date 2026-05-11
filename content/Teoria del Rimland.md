@@ -5,7 +5,7 @@ aliases:
   - Teoría del Rimland (Nicholas Spykman)
   - Rimland
 created: 2026-01-29T19:17:39.162-03:00
-modified: 2026-04-22T09:56:04.198-03:00
+modified: 2026-04-22T09:55:55.651-03:00
 tags:
   - rimland
   - spykman

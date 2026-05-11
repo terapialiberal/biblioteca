@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Alan Dershowitz
 created: 2026-05-01T18:51:35.495-03:00
-modified: 2026-05-02T18:25:11.042-03:00
+modified: 2026-05-02T18:30:35.337-03:00
 tags:
   - actor
   - derecho

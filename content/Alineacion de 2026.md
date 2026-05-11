@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Alineación De 2026
 created: 2026-02-25T22:08:55.871-03:00
-modified: 2026-04-27T10:53:37.807-03:00
+modified: 2026-04-27T10:53:30.617-03:00
 tags:
   - 2026
   - alineacion

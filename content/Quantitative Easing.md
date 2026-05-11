@@ -5,7 +5,7 @@ aliases:
   - Quantitative Easing (Expansión Monetaria)
   - Expansión cuantitativa
 created: 2026-05-01T20:46:02.144-03:00
-modified: 2026-05-02T12:22:04.333-03:00
+modified: 2026-05-02T12:54:22.914-03:00
 tags:
   - qe
   - reserva-federal

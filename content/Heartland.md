@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-29T14:13:12.099-03:00
-modified: 2026-04-29T14:13:29.785-03:00
+modified: 2026-04-29T14:13:25.172-03:00
 tags:
   - geostrategia
   - mackinder

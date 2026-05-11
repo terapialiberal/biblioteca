@@ -3,7 +3,7 @@ publish: true
 aliases:
   - UCC
 created: 2026-04-22T16:50:01.965-03:00
-modified: 2026-04-22T16:50:01.965-03:00
+modified: 2026-04-22T16:50:05.113-03:00
 tags:
   - ucc
   - uniform-commercial-code

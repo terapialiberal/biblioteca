@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-29T13:53:51.455-03:00
-modified: 2026-04-29T13:53:51.455-03:00
+modified: 2026-04-29T13:53:56.227-03:00
 tags:
   - criptografia
   - bitcoin

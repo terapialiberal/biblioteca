@@ -4,7 +4,7 @@ aliases:
   - ESMA (Autoridad Europea de Valores)
   - European Securities and Markets Authority
 created: 2026-04-29T13:36:21.798-03:00
-modified: 2026-05-02T13:43:25.999-03:00
+modified: 2026-05-02T13:43:29.797-03:00
 tags:
   - esma
   - regulacion

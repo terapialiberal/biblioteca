@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:25.763-03:00
-modified: 2026-04-17T20:12:45.470-03:00
+modified: 2026-04-17T20:12:53.195-03:00
 tags:
   - monsanto
   - agroindustria

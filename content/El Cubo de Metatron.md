@@ -5,7 +5,7 @@ aliases:
   - Cubo de Metatrón
   - Metatron's Cube
 created: 2026-02-25T22:08:52.582-03:00
-modified: 2026-04-27T10:23:22.697-03:00
+modified: 2026-04-27T10:23:12.616-03:00
 tags:
   - cubo-de-metatron
   - geometria-sagrada

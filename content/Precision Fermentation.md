@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-19T12:49:49.689-03:00
-modified: 2026-04-19T12:49:50.332-03:00
+modified: 2026-04-19T12:49:49.689-03:00
 tags:
   - precision-fermentation
   - biotecnologia

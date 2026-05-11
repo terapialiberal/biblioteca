@@ -4,7 +4,7 @@ aliases:
   - SEC
   - Securities and Exchange Commission
 created: 2026-04-22T11:15:49.561-03:00
-modified: 2026-04-22T11:15:49.561-03:00
+modified: 2026-04-22T11:15:50.512-03:00
 tags:
   - sec
   - regulacion-financiera

@@ -3,7 +3,7 @@ publish: true
 aliases:
   - "Linux Y Software Libre: La Ultima Trinchera De La Soberania"
 created: 2026-01-29T19:17:22.632-03:00
-modified: 2026-04-18T18:21:38.810-03:00
+modified: 2026-04-18T18:21:45.113-03:00
 tags:
   - linux
   - software-libre

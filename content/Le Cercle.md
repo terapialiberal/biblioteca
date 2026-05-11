@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Le Cercle (Sociedad Discreta)
 created: 2026-01-29T19:17:22.123-03:00
-modified: 2026-05-02T13:03:00.937-03:00
+modified: 2026-05-02T13:08:01.466-03:00
 tags:
   - le-cercle
   - redes-elite

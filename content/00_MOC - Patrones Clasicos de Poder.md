@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-28T15:08:54.442-03:00
-modified: 2026-04-07T10:47:14.141-03:00
+modified: 2026-04-07T10:47:08.274-03:00
 tags:
   - moc
   - patrones

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-09T17:49:12.815-03:00
-modified: 2026-04-24T12:25:38.907-03:00
+modified: 2026-04-24T12:25:33.371-03:00
 tags:
   - moc
   - cbdc
@@ -334,6 +334,8 @@ tags:
 - [[05_Fuentes/La Gran Expropiación.md|La Gran Expropiación]]
 
 - [[06_Videos_Publicados/2025/2025-11-12_Como_Funciona_el_Mundo/La Matrix del Poder Quienes son los Verdaderos Dueños del Planeta.md|La Matrix del Poder Quienes son los Verdaderos Dueños del Planeta]]
+
+- [[05_Fuentes/La potencia de cómputo ¿la próxima gran clase de activos según Larry Fink.md|La potencia de cómputo ¿la próxima gran clase de activos según Larry Fink]]
 
 - [[Larry Fink.md|Larry Fink]]
 

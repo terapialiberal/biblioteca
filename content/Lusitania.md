@@ -3,7 +3,7 @@ publish: true
 aliases:
   - "Lusitania: El Sacrificio Necesario Para La Guerra"
 created: 2026-01-29T19:17:23.157-03:00
-modified: 2026-04-18T18:24:42.834-03:00
+modified: 2026-04-18T18:24:50.423-03:00
 tags:
   - lusitania
   - primera-guerra-mundial

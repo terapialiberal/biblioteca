@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-20T10:33:15.283-03:00
-modified: 2026-04-20T10:42:14.518-03:00
+modified: 2026-04-20T10:34:15.547-03:00
 tags:
   - valar-ventures
   - venture-capital

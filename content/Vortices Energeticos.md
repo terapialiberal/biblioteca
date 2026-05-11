@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Vórtices Energéticos
 created: 2026-02-25T22:08:51.508-03:00
-modified: 2026-04-27T10:52:14.975-03:00
+modified: 2026-04-27T10:52:05.273-03:00
 tags:
   - vortices-energeticos
   - lugar-sagrado

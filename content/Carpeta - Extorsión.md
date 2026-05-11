@@ -5,7 +5,7 @@ aliases:
   - Carpeta (Extorsión)
   - Kompromat
 created: 2026-05-01T20:13:01.915-03:00
-modified: 2026-05-02T13:47:16.792-03:00
+modified: 2026-05-02T13:47:21.650-03:00
 tags:
   - carpeta
   - extorsion

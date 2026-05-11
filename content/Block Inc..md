@@ -5,14 +5,14 @@ aliases:
   - Block (Square)
   - Square
 created: 2026-05-01T19:11:45.664-03:00
-modified: 2026-05-02T13:53:47.695-03:00
+modified: 2026-05-02T13:53:53.545-03:00
 tags:
-  - "#block"
-  - "#square"
-  - "#fintech"
-  - "#pagos"
-  - "#bitcoin"
-  - "#tl-intel-v3"
+  - block
+  - square
+  - fintech
+  - pagos
+  - bitcoin
+  - tl-intel-v3
 ---
 
 # Block Inc.

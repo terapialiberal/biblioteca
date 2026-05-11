@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Spotify (Audio)
 created: 2026-05-01T20:38:36.177-03:00
-modified: 2026-05-02T13:03:01.266-03:00
+modified: 2026-05-02T13:08:01.403-03:00
 tags:
   - spotify
   - streaming

@@ -5,7 +5,7 @@ aliases:
   - Mencius Moldbug
   - Moldbug
 created: 2026-01-29T19:17:09.418-03:00
-modified: 2026-05-02T18:25:16.130-03:00
+modified: 2026-05-02T18:34:00.048-03:00
 tags:
   - actor
   - ideologo

@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Afganistan
 created: 2026-04-29T00:00:00.000Z
-modified: 2026-05-02T18:25:10.871-03:00
+modified: 2026-05-02T18:30:20.287-03:00
 tags:
   - geografia
   - region

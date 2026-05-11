@@ -5,7 +5,7 @@ aliases:
   - Curva de tasas
   - Yield Curve (Curva de Rendimientos)
 created: 2026-05-01T20:46:07.501-03:00
-modified: 2026-05-02T12:22:05.110-03:00
+modified: 2026-05-02T12:54:27.030-03:00
 tags:
   - yield-curve
   - bonos

@@ -3,7 +3,7 @@ publish: true
 aliases:
   - USDS
 created: 2026-02-25T16:07:03.031-03:00
-modified: 2026-04-22T10:37:53.771-03:00
+modified: 2026-04-22T10:37:47.234-03:00
 tags:
   - tether
   - stablecoins

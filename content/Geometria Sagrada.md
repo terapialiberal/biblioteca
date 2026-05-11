@@ -4,7 +4,7 @@ aliases:
   - Geometría Sagrada
   - Sacred geometry
 created: 2026-04-27T10:12:10.089-03:00
-modified: 2026-04-27T10:12:10.089-03:00
+modified: 2026-04-27T10:12:11.689-03:00
 tags:
   - geometria-sagrada
   - simbolismo

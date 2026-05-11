@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Standard Chartered Bank
 created: 2026-01-29T19:17:37.794-03:00
-modified: 2026-05-02T13:45:17.682-03:00
+modified: 2026-05-02T13:45:24.415-03:00
 tags:
   - standard-chartered
   - banca

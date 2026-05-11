@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Normalizacion (Proceso)
 created: 2026-01-29T19:17:27.395-03:00
-modified: 2026-04-18T18:28:06.224-03:00
+modified: 2026-04-18T18:28:12.771-03:00
 tags:
   - normalizacion
   - ingenieria-social

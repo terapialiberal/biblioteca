@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Donald Trump
 created: 2026-05-01T17:35:00.881-03:00
-modified: 2026-05-02T12:58:38.785-03:00
+modified: 2026-05-02T13:07:46.421-03:00
 tags:
   - trump
   - maga

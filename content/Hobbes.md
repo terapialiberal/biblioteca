@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Thomas Hobbes
 created: 2026-05-01T20:17:03.861-03:00
-modified: 2026-05-02T13:44:01.979-03:00
+modified: 2026-05-02T13:44:09.673-03:00
 tags:
   - hobbes
   - leviatan

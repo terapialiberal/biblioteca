@@ -4,7 +4,7 @@ aliases:
   - The Vanguard Group
   - Vanguard
 created: 2026-01-29T19:17:42.828-03:00
-modified: 2026-04-27T11:15:43.403-03:00
+modified: 2026-04-27T11:15:35.786-03:00
 tags:
   - alias
   - vanguard

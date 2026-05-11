@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-06T10:55:08.019-03:00
-modified: 2026-05-02T18:25:26.752-03:00
+modified: 2026-05-02T18:35:00.509-03:00
 tags:
   - economia-potencial
   - geopolitica-sudamerica

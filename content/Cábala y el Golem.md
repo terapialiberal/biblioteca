@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Cabalá y el Golem
 created: 2026-05-01T20:11:10.720-03:00
-modified: 2026-05-02T18:25:14.415-03:00
+modified: 2026-05-02T18:33:03.634-03:00
 tags:
   - concepto
   - esoterismo

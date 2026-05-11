@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-13T15:21:28.968-03:00
-modified: 2026-04-17T13:00:38.527-03:00
+modified: 2026-04-17T13:00:31.579-03:00
 tags:
   - credito
   - finanzas

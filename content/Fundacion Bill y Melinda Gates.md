@@ -5,7 +5,7 @@ aliases:
   - Fundación Bill y Melinda Gates
   - BMGF
 created: 2026-01-29T19:17:14.378-03:00
-modified: 2026-04-17T18:27:26.096-03:00
+modified: 2026-04-17T18:27:28.659-03:00
 tags:
   - gates-foundation
   - salud-global

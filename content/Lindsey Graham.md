@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-29T14:52:49.793-03:00
-modified: 2026-05-02T18:25:43.257-03:00
+modified: 2026-05-02T18:36:04.071-03:00
 tags:
   - base-de-conocimiento
 ---

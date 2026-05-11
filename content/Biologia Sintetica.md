@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-29T14:05:24.646-03:00
-modified: 2026-04-29T14:05:38.293-03:00
+modified: 2026-04-29T14:05:34.084-03:00
 tags:
   - biotecnologia
   - bioseguridad

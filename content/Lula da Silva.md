@@ -3,7 +3,7 @@ publish: true
 aliases:
   - "Lula Da Silva: El Gestor Globalista Del Multipolarismo"
 created: 2026-01-29T19:17:23.131-03:00
-modified: 2026-04-18T18:21:39.075-03:00
+modified: 2026-04-18T18:21:45.078-03:00
 tags:
   - lula-da-silva
   - brasil

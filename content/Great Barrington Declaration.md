@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:15.939-03:00
-modified: 2026-04-19T13:04:03.182-03:00
+modified: 2026-04-19T13:04:10.043-03:00
 tags:
   - great-barrington-declaration
   - lockdowns

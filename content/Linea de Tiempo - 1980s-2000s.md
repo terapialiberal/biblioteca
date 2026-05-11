@@ -3,7 +3,7 @@ publish: true
 aliases:
   - "Línea De Tiempo: 1980s-2000s (Narcointeligencia Y Shock)"
 created: 2026-01-29T19:17:23.316-03:00
-modified: 2026-04-07T12:09:02.947-03:00
+modified: 2026-04-07T12:08:56.648-03:00
 tags:
   - timeline
   - iran-contra

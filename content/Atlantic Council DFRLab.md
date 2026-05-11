@@ -4,7 +4,7 @@ aliases:
   - DFRLab
   - Digital Forensic Research Lab
 created: 2026-01-29T19:17:04.477-03:00
-modified: 2026-04-19T13:26:18.833-03:00
+modified: 2026-04-19T13:26:26.660-03:00
 tags:
   - dfrlab
   - atlantic-council

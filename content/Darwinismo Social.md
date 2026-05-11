@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Darwinismo Social (Supervivencia del más fuerte)
 created: 2026-05-01T20:42:55.246-03:00
-modified: 2026-05-02T12:51:26.949-03:00
+modified: 2026-05-02T13:07:20.393-03:00
 tags:
   - darwinismo-social
   - ideologia

@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Morgan Stanley (Banco)
 created: 2026-05-01T20:15:46.132-03:00
-modified: 2026-05-02T13:06:23.540-03:00
+modified: 2026-05-02T13:08:25.436-03:00
 tags:
   - morgan-stanley
   - banca-inversion

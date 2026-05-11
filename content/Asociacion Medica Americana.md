@@ -5,7 +5,7 @@ aliases:
   - American Medical Association
   - AMA
 created: 2026-01-29T19:17:04.262-03:00
-modified: 2026-04-18T10:51:12.919-03:00
+modified: 2026-04-18T10:51:19.096-03:00
 tags:
   - ama
   - medicina

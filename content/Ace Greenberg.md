@@ -3,12 +3,12 @@ publish: true
 aliases:
   - Ace Greenberg
 created: 2026-05-01T18:51:30.409-03:00
-modified: 2026-05-02T18:25:10.642-03:00
+modified: 2026-05-02T18:28:57.062-03:00
 tags:
-  - "#actor"
-  - "#finanzas"
-  - "#bear-stearns"
-  - "#wall-street"
+  - actor
+  - finanzas
+  - bear-stearns
+  - wall-street
 ---
 
 # Ace Greenberg

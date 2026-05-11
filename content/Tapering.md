@@ -4,7 +4,7 @@ aliases:
   - Reducción de compras de activos
   - Taper
 created: 2026-05-01T20:46:04.725-03:00
-modified: 2026-05-02T12:22:04.934-03:00
+modified: 2026-05-02T12:54:25.970-03:00
 tags:
   - tapering
   - qe

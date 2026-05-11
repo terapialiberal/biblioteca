@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Autoridad Científica
 created: 2026-04-27T10:12:10.018-03:00
-modified: 2026-04-27T10:12:10.018-03:00
+modified: 2026-04-27T10:12:11.137-03:00
 tags:
   - autoridad-cientifica
   - tecnocracia

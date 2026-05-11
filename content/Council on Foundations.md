@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:08.929-03:00
-modified: 2026-04-18T10:38:55.992-03:00
+modified: 2026-04-18T10:39:02.162-03:00
 tags:
   - council-on-foundations
   - filantropia

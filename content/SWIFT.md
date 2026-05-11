@@ -3,7 +3,7 @@ publish: true
 aliases:
   - SWIFT (Mensajería Bancaria)
 created: 2026-04-19T13:19:27.099-03:00
-modified: 2026-05-02T13:05:22.680-03:00
+modified: 2026-05-02T13:08:21.471-03:00
 tags:
   - swift
   - pagos

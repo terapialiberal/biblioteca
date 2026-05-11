@@ -455,6 +455,8 @@ tags: [moc, control-financiero, deuda, banca, tl-intel-v3]
 
 - [[05_Fuentes/La Inminente Tormenta Perfecta Dólar y Petróleo en Contrasentido.md|La Inminente Tormenta Perfecta Dólar y Petróleo en Contrasentido]]
 
+- [[05_Fuentes/La potencia de cómputo ¿la próxima gran clase de activos según Larry Fink.md|La potencia de cómputo ¿la próxima gran clase de activos según Larry Fink]]
+
 - [[Larry Fink.md|Larry Fink]]
 
 - [[05_Fuentes/Las afirmaciones de sexo con menores sacuden al grupo de Bitcoin.md|Las afirmaciones de sexo con menores sacuden al grupo de Bitcoin]]
@@ -485,6 +487,8 @@ tags: [moc, control-financiero, deuda, banca, tl-intel-v3]
 
 - [[Nicholas Brady.md|Nicholas Brady]]
 
+- [[03_Produccion/2026-04-23_Gran_Reajuste_Monetario/NOTA_TESIS_AMPLIADA_Gran_Reajuste_v4.md|NOTA_TESIS_AMPLIADA_Gran_Reajuste_v4]]
+
 - [[06_Videos_Publicados/2026/2026-04-15_LAS GUERRAS MAGA/NOTA_TESIS_Bretton_Woods_2_Petrodolar_Deuda.md|NOTA_TESIS_Bretton_Woods_2_Petrodolar_Deuda]]
 
 - [[05_Fuentes/Nuevos correos revelan que Epstein financio indire.md|Nuevos correos revelan que Epstein financio indire]]
@@ -492,6 +496,8 @@ tags: [moc, control-financiero, deuda, banca, tl-intel-v3]
 - [[Panico de 1907.md|Panico de 1907]]
 
 - [[06_Videos_Publicados/2026/2026-01-07_Gaza_SA/Post Gaza SA.md|Post Gaza SA]]
+
+- [[03_Produccion/2026-04-23_Gran_Reajuste_Monetario/PRE_STREAM_Gran_Reajuste.md|PRE_STREAM_Gran_Reajuste]]
 
 - [[Proporcion 1.618 en HFT.md|Proporcion 1.618 en HFT]]
 

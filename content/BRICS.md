@@ -5,13 +5,13 @@ aliases:
   - BRICS / Desdolarización
   - BRICS / Eje Euroasiático
 created: 2026-01-29T19:17:05.873-03:00
-modified: 2026-05-02T13:46:33.644-03:00
+modified: 2026-05-02T13:46:40.209-03:00
 tags:
-  - "#brics"
-  - "#desdolarizacion"
-  - "#sur-global"
-  - "#multipolaridad"
-  - "#tl-intel-v3"
+  - brics
+  - desdolarizacion
+  - sur-global
+  - multipolaridad
+  - tl-intel-v3
 ---
 
 # BRICS

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-19T12:07:40.474-03:00
-modified: 2026-04-19T12:07:40.966-03:00
+modified: 2026-04-19T12:07:40.474-03:00
 tags:
   - bernays
   - propaganda

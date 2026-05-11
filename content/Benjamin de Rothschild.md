@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Benjamin de Rothschild
 created: 2026-05-01T18:51:45.527-03:00
-modified: 2026-05-02T18:25:13.099-03:00
+modified: 2026-05-02T18:32:38.592-03:00
 tags:
   - actor
   - banquero

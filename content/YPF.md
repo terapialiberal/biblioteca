@@ -3,7 +3,7 @@ publish: true
 aliases:
   - YPF (Yacimientos Petrolíferos Fiscales)
 created: 2026-01-29T19:17:44.920-03:00
-modified: 2026-04-18T12:08:11.349-03:00
+modified: 2026-04-18T12:08:17.254-03:00
 tags:
   - argentina
   - energia

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-20T16:59:34.732-03:00
-modified: 2026-04-22T10:25:26.473-03:00
+modified: 2026-04-22T10:25:19.965-03:00
 tags:
   - reanclaje-hibrido
   - dolar

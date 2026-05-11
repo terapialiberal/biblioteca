@@ -4,7 +4,7 @@ aliases:
   - Triangulo del Litio
   - Triángulo del Litio (Argentina-Bolivia-Chile)
 created: 2026-05-01T20:45:14.228-03:00
-modified: 2026-05-02T12:42:17.689-03:00
+modified: 2026-05-02T13:07:02.418-03:00
 tags:
   - litio
   - argentina

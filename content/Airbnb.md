@@ -3,13 +3,13 @@ publish: true
 aliases:
   - Airbnb (Plataforma)
 created: 2026-05-01T20:38:40.840-03:00
-modified: 2026-05-02T13:03:01.174-03:00
+modified: 2026-05-02T13:08:01.497-03:00
 tags:
-  - "#airbnb"
-  - "#plataforma"
-  - "#vivienda"
-  - "#turismo"
-  - "#tl-intel-v3"
+  - airbnb
+  - plataforma
+  - vivienda
+  - turismo
+  - tl-intel-v3
 ---
 
 # Airbnb

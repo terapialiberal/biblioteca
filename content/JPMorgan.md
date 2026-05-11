@@ -4,7 +4,7 @@ aliases:
   - JPMorgan
   - JP Morgan
 created: 2026-04-27T12:03:16.990-03:00
-modified: 2026-05-02T13:08:00.893-03:00
+modified: 2026-05-02T13:08:21.449-03:00
 tags:
   - alias
   - legacy

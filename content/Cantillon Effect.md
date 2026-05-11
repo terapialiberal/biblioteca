@@ -5,7 +5,7 @@ aliases:
   - Cantillon
   - Cantillon Effect (Efecto de Primera Emisión)
 created: 2026-01-29T19:17:06.363-03:00
-modified: 2026-05-02T12:22:05.768-03:00
+modified: 2026-05-02T13:00:47.823-03:00
 tags:
   - cantillon-effect
   - inflacion

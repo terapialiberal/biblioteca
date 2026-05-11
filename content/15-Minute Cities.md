@@ -4,7 +4,7 @@ aliases:
   - Ciudades de 15 Minutos
   - Ciudades de 15 Minutos (Control Urbano)
 created: 2026-02-25T14:13:31.339-03:00
-modified: 2026-05-02T12:50:43.762-03:00
+modified: 2026-05-02T13:07:18.391-03:00
 tags:
   - ciudades-15-minutos
   - urbanismo

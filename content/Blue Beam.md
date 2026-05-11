@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:05.607-03:00
-modified: 2026-05-02T18:24:25.239-03:00
+modified: 2026-05-02T18:32:50.604-03:00
 tags:
   - beam
   - blue

@@ -4,7 +4,7 @@ aliases:
   - ADL
   - Anti-Defamation League
 created: 2026-01-29T19:17:02.863-03:00
-modified: 2026-04-20T10:26:19.861-03:00
+modified: 2026-04-20T10:25:12.720-03:00
 tags:
   - adl
   - anti-defamation-league

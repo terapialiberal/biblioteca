@@ -5,13 +5,13 @@ aliases:
   - Banco de Inglaterra (BoE)
   - Bank of England
 created: 2026-01-29T19:17:04.732-03:00
-modified: 2026-05-02T13:45:17.875-03:00
+modified: 2026-05-02T13:45:24.368-03:00
 tags:
-  - "#banco-de-inglaterra"
-  - "#boe"
-  - "#banca-central"
-  - "#city-londres"
-  - "#tl-intel-v3"
+  - banco-de-inglaterra
+  - boe
+  - banca-central
+  - city-londres
+  - tl-intel-v3
 ---
 
 # Banco de Inglaterra

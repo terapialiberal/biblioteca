@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Adam Weishaupt
 created: 2026-05-01T19:13:16.493-03:00
-modified: 2026-05-02T18:25:10.705-03:00
+modified: 2026-05-02T18:30:04.262-03:00
 tags:
   - actor
   - iluminati

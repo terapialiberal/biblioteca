@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:29.263-03:00
-modified: 2026-04-07T11:49:06.211-03:00
+modified: 2026-05-02T18:38:55.884-03:00
 tags:
   - algoritmo
   - espontneo

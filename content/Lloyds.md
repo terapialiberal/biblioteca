@@ -4,7 +4,7 @@ aliases:
   - Lloyds of London
   - Lloyd's
 created: 2026-05-01T20:15:57.612-03:00
-modified: 2026-05-02T13:45:17.736-03:00
+modified: 2026-05-02T13:45:24.399-03:00
 tags:
   - lloyds
   - seguros

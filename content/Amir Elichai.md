@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Amir Elichai
 created: 2026-05-01T18:51:25.785-03:00
-modified: 2026-05-02T18:25:11.642-03:00
+modified: 2026-05-02T18:31:24.409-03:00
 tags:
   - actor
   - israel

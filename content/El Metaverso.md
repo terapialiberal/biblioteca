@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:11.440-03:00
-modified: 2026-05-02T18:25:18.700-03:00
+modified: 2026-05-02T18:34:28.355-03:00
 tags:
   - alias
   - metaverso

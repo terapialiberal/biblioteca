@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Mossad (Israel)
 created: 2026-04-27T11:52:23.221-03:00
-modified: 2026-05-02T13:07:08.935-03:00
+modified: 2026-05-02T13:08:33.494-03:00
 tags:
   - mossad
   - israel

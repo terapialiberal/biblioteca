@@ -6,7 +6,7 @@ aliases:
   - Smart Power
   - Soft Power (Poder Blando)
 created: 2026-01-29T19:17:37.536-03:00
-modified: 2026-05-02T12:41:35.518-03:00
+modified: 2026-05-02T13:06:48.337-03:00
 tags:
   - soft-power
   - hegemonia

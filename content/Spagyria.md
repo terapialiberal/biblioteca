@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Espagiria
 created: 2026-02-25T22:08:57.332-03:00
-modified: 2026-04-27T10:09:46.656-03:00
+modified: 2026-04-27T10:09:38.327-03:00
 tags:
   - spagyria
   - alquimia

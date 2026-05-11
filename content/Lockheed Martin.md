@@ -3,7 +3,7 @@ publish: true
 aliases:
   - "Lockheed Martin: El Martillo Del Complejo Militar-Industrial"
 created: 2026-01-29T19:17:22.799-03:00
-modified: 2026-04-22T10:54:16.780-03:00
+modified: 2026-04-22T10:54:08.454-03:00
 tags:
   - lockheed-martin
   - defensa
