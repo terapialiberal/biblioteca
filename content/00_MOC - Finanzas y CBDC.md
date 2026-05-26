@@ -173,7 +173,7 @@ tags:
 
 - [[00_MOC - Finanzas y CBDC.md|00_MOC - Finanzas y CBDC]]
 
-- [[05_Fuentes/8 predicciones sobre el futuro del mundo para 2030.md|8 predicciones sobre el futuro del mundo para 2030]]
+- [[05_Fuentes/03_Compiladas/8 predicciones sobre el futuro del mundo para 2030.md|8 predicciones sobre el futuro del mundo para 2030]]
 
 - [[Ace Greenberg.md|Ace Greenberg]]
 
@@ -211,7 +211,7 @@ tags:
 
 - [[California.md|California]]
 
-- [[05_Fuentes/Cambio China hacia mercado interno.md|Cambio China hacia mercado interno]]
+- [[05_Fuentes/03_Compiladas/Cambio China hacia mercado interno.md|Cambio China hacia mercado interno]]
 
 - [[Capitalismo de Rescate Permanente.md|Capitalismo de Rescate Permanente]]
 
@@ -235,7 +235,7 @@ tags:
 
 - [[Christine Lagarde.md|Christine Lagarde]]
 
-- [[05_Fuentes/Christine Lagarde admite que las CBDC son clave para mantener el poder de los bancos centrales.md|Christine Lagarde admite que las CBDC son clave para mantener el poder de los bancos centrales]]
+- [[05_Fuentes/03_Compiladas/Christine Lagarde admite que las CBDC son clave para mantener el poder de los bancos centrales.md|Christine Lagarde admite que las CBDC son clave para mantener el poder de los bancos centrales]]
 
 - [[Chrystia Freeland.md|Chrystia Freeland]]
 
@@ -245,7 +245,7 @@ tags:
 
 - [[Clinton.md|Clinton]]
 
-- [[05_Fuentes/Como la casa de Rothschild se entrelazo con Epstein.md|Como la casa de Rothschild se entrelazo con Epstein]]
+- [[05_Fuentes/03_Compiladas/Como la casa de Rothschild se entrelazo con Epstein.md|Como la casa de Rothschild se entrelazo con Epstein]]
 
 - [[Credito privado.md|Credito privado]]
 
@@ -267,19 +267,19 @@ tags:
 
 - [[Economía Circular.md|Economía Circular]]
 
-- [[05_Fuentes/El banco central de Brasil planea usar datos de su CBDC para guiar las decisiones sobre tasas de interés.md|El banco central de Brasil planea usar datos de su CBDC para guiar las decisiones sobre tasas de interés]]
+- [[05_Fuentes/03_Compiladas/El banco central de Brasil planea usar datos de su CBDC para guiar las decisiones sobre tasas de interés.md|El banco central de Brasil planea usar datos de su CBDC para guiar las decisiones sobre tasas de interés]]
 
-- [[05_Fuentes/El BIS defiende un libro mayor unificado pero describe las criptomonedas como un sistema defectuoso.md|El BIS defiende un libro mayor unificado pero describe las criptomonedas como un sistema defectuoso]]
+- [[05_Fuentes/03_Compiladas/El BIS defiende un libro mayor unificado pero describe las criptomonedas como un sistema defectuoso.md|El BIS defiende un libro mayor unificado pero describe las criptomonedas como un sistema defectuoso]]
 
-- [[05_Fuentes/El giro histórico de Jamie Dimon reconoce la superioridad del ecosistema cripto.md|El giro histórico de Jamie Dimon reconoce la superioridad del ecosistema cripto]]
+- [[05_Fuentes/03_Compiladas/El giro histórico de Jamie Dimon reconoce la superioridad del ecosistema cripto.md|El giro histórico de Jamie Dimon reconoce la superioridad del ecosistema cripto]]
 
 - [[El Gran Reinicio.md|El Gran Reinicio]]
 
-- [[05_Fuentes/El Operador de la Centralita.md|El Operador de la Centralita]]
+- [[05_Fuentes/03_Compiladas/El Operador de la Centralita.md|El Operador de la Centralita]]
 
 - [[El Patron Bitcoin.md|El Patron Bitcoin]]
 
-- [[05_Fuentes/El Patrón Scott Bessent y la Corrupción en el Tesoro de EE. UU.md|El Patrón Scott Bessent y la Corrupción en el Tesoro de EE. UU]]
+- [[05_Fuentes/03_Compiladas/El Patrón Scott Bessent y la Corrupción en el Tesoro de EE. UU.md|El Patrón Scott Bessent y la Corrupción en el Tesoro de EE. UU]]
 
 - [[Elliott Management.md|Elliott Management]]
 
@@ -325,21 +325,23 @@ tags:
 
 - [[Kuhn, Loeb & Co..md|Kuhn, Loeb & Co.]]
 
-- [[05_Fuentes/La calidad ya no es de calidad ¿por qué los inversores escapan del Tesoro de EE. UU.md|La calidad ya no es de calidad ¿por qué los inversores escapan del Tesoro de EE. UU]]
+- [[05_Fuentes/03_Compiladas/La calidad ya no es de calidad ¿por qué los inversores escapan del Tesoro de EE. UU.md|La calidad ya no es de calidad ¿por qué los inversores escapan del Tesoro de EE. UU]]
 
-- [[05_Fuentes/La CFTC pone en marcha un programa piloto para utilizar garantías de criptomonedas en los mercados de derivados.md|La CFTC pone en marcha un programa piloto para utilizar garantías de criptomonedas en los mercados de derivados]]
+- [[05_Fuentes/03_Compiladas/La CFTC pone en marcha un programa piloto para utilizar garantías de criptomonedas en los mercados de derivados.md|La CFTC pone en marcha un programa piloto para utilizar garantías de criptomonedas en los mercados de derivados]]
 
-- [[05_Fuentes/La Fed considera cuentas de pago 'reducidas' para ampliar el acceso al sistema bancario.md|La Fed considera cuentas de pago 'reducidas' para ampliar el acceso al sistema bancario]]
+- [[05_Fuentes/03_Compiladas/La Fed considera cuentas de pago 'reducidas' para ampliar el acceso al sistema bancario.md|La Fed considera cuentas de pago 'reducidas' para ampliar el acceso al sistema bancario]]
 
-- [[05_Fuentes/La Gran Expropiación.md|La Gran Expropiación]]
+- [[05_Fuentes/03_Compiladas/La Gran Expropiación.md|La Gran Expropiación]]
 
 - [[06_Videos_Publicados/2025/2025-11-12_Como_Funciona_el_Mundo/La Matrix del Poder Quienes son los Verdaderos Dueños del Planeta.md|La Matrix del Poder Quienes son los Verdaderos Dueños del Planeta]]
 
-- [[05_Fuentes/La potencia de cómputo ¿la próxima gran clase de activos según Larry Fink.md|La potencia de cómputo ¿la próxima gran clase de activos según Larry Fink]]
+- [[05_Fuentes/03_Compiladas/La potencia de cómputo ¿la próxima gran clase de activos según Larry Fink.md|La potencia de cómputo ¿la próxima gran clase de activos según Larry Fink]]
 
 - [[Larry Fink.md|Larry Fink]]
 
-- [[05_Fuentes/Las afirmaciones de sexo con menores sacuden al grupo de Bitcoin.md|Las afirmaciones de sexo con menores sacuden al grupo de Bitcoin]]
+- [[05_Fuentes/03_Compiladas/Larry Fink y BlackRock ¿El fin de la democracia y el auge del control totalitario.md|Larry Fink y BlackRock ¿El fin de la democracia y el auge del control totalitario]]
+
+- [[05_Fuentes/03_Compiladas/Las afirmaciones de sexo con menores sacuden al grupo de Bitcoin.md|Las afirmaciones de sexo con menores sacuden al grupo de Bitcoin]]
 
 - [[Libra - Diem.md|Libra - Diem]]
 
@@ -347,7 +349,7 @@ tags:
 
 - [[Long-Term Capital Management.md|Long-Term Capital Management]]
 
-- [[05_Fuentes/Los correos electronicos de Epstein arrojan una la.md|Los correos electronicos de Epstein arrojan una la]]
+- [[05_Fuentes/03_Compiladas/Los correos electronicos de Epstein arrojan una la.md|Los correos electronicos de Epstein arrojan una la]]
 
 - [[Luxemburgo.md|Luxemburgo]]
 
@@ -377,7 +379,7 @@ tags:
 
 - [[06_Videos_Publicados/2026/2026-03-17 IRAN_STREAM/NotaTesis_MegaGroup_RedContinuidad_v5.md|NotaTesis_MegaGroup_RedContinuidad_v5]]
 
-- [[05_Fuentes/Nuevos correos revelan que Epstein financio indire.md|Nuevos correos revelan que Epstein financio indire]]
+- [[05_Fuentes/03_Compiladas/Nuevos correos revelan que Epstein financio indire.md|Nuevos correos revelan que Epstein financio indire]]
 
 - [[OCDE.md|OCDE]]
 
@@ -411,10 +413,10 @@ tags:
 
 - [[Trifecta de Gestión de Activos.md|Trifecta de Gestión de Activos]]
 
-- [[05_Fuentes/Trump anuncia cuentas de ahorro de $1,000 para recién nacidos.md|Trump anuncia cuentas de ahorro de $1,000 para recién nacidos]]
+- [[05_Fuentes/03_Compiladas/Trump anuncia cuentas de ahorro de $1,000 para recién nacidos.md|Trump anuncia cuentas de ahorro de $1,000 para recién nacidos]]
 
 - [[Tyler Durden - Zero Hedge.md|Tyler Durden - Zero Hedge]]
 
-- [[05_Fuentes/Una gran parte del crecimiento del PIB de EE. UU. se mantiene gracias al gasto en IA sin retorno garantizado, dice Deutsche Bank.md|Una gran parte del crecimiento del PIB de EE. UU. se mantiene gracias al gasto en IA sin retorno garantizado, dice Deutsche Bank]]
+- [[05_Fuentes/03_Compiladas/Una gran parte del crecimiento del PIB de EE. UU. se mantiene gracias al gasto en IA sin retorno garantizado, dice Deutsche Bank.md|Una gran parte del crecimiento del PIB de EE. UU. se mantiene gracias al gasto en IA sin retorno garantizado, dice Deutsche Bank]]
 
-- [[05_Fuentes/Winds of Change The Case for New Digital Currency by Christine Lagarde.md|Winds of Change The Case for New Digital Currency by Christine Lagarde]]
+- [[05_Fuentes/03_Compiladas/Winds of Change The Case for New Digital Currency by Christine Lagarde.md|Winds of Change The Case for New Digital Currency by Christine Lagarde]]

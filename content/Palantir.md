@@ -4,7 +4,7 @@ aliases:
   - Palantir Technologies
   - Palantir CIA
 created: 2026-01-29T19:17:29.660-03:00
-modified: 2026-04-22T16:24:27.620-03:00
+modified: 2026-05-26T12:30:01.332-03:00
 tags:
   - palantir
   - vigilancia
@@ -66,6 +66,12 @@ En TL, Palantir rinde todavía más cuando se la conecta con [[Clearview AI]], [
 
 La nota gana aún más fuerza cuando se la lee junto con [[Anduril Industries]] e [[In-Q-Tel]]. Ahí Palantir aparece no solo como analítica de datos, sino como software rector de una red donde venture, sensores, defensa y vigilancia se integran bajo lógica de mando.
 
+## Delta 2026-05-26 - Reproceso transcripts
+
+El reproceso agrega una capa operativa: Palantir aparece como puente entre eficiencia administrativa, seguridad interna y datos civiles. La hipótesis a vigilar no es solo expansión militar, sino institucionalización permanente bajo etiquetas de alimentos, salud, fraude, logística, fronteras o modernización estatal.
+
+Lectura TL: cuando el Estado vende caos y pérdida de control, Palantir vende legibilidad. Esa legibilidad puede convertirse en mando.
+
 ## Con que conecta
 
 - [[Peter Thiel]]
@@ -83,3 +89,4 @@ La nota gana aún más fuerza cuando se la lee junto con [[Anduril Industries]] 
 - [[In-Q-Tel]]
 - [[00_MOC - Vigilancia Tecnica y SIGINT]]
 - [[00_MOC - Captura Regulatoria y Puertas Giratorias]]
+- [[Project Stargate]]

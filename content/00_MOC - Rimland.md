@@ -132,9 +132,11 @@ tags:
 
 - [[Entity_Graph]]
 
-- [[05_Fuentes/¿Cuánto tiempo lleva la élite priorizando su propia voluntad.md|¿Cuánto tiempo lleva la élite priorizando su propia voluntad]]
+- [[05_Fuentes/03_Compiladas/¿Cuánto tiempo lleva la élite priorizando su propia voluntad.md|¿Cuánto tiempo lleva la élite priorizando su propia voluntad]]
 
 - [[06_Videos_Publicados/2025/2025-10-24_El_RESET_MALTHUSIANO_GEOPOLITICA/🚨 Prediccion de The Economist El Tiempo se acaba + Trump se enfurece con Rusia y otras noticias.md|🚨 Prediccion de The Economist El Tiempo se acaba + Trump se enfurece con Rusia y otras noticias]]
+
+- [[06_Videos_Publicados/2026/2026-05-13_El mundo se reconfigura/00_ARCHIVO_El_mundo_se_reconfigura.md|00_ARCHIVO_El_mundo_se_reconfigura]]
 
 - [[00_MOC - Rimland.md|00_MOC - Rimland]]
 
@@ -156,7 +158,7 @@ tags:
 
 - [[Brzezinski.md|Brzezinski]]
 
-- [[05_Fuentes/Cambio China hacia mercado interno.md|Cambio China hacia mercado interno]]
+- [[05_Fuentes/03_Compiladas/Cambio China hacia mercado interno.md|Cambio China hacia mercado interno]]
 
 - [[Canal de Suez.md|Canal de Suez]]
 
@@ -170,17 +172,17 @@ tags:
 
 - [[Comando Sur.md|Comando Sur]]
 
-- [[05_Fuentes/Como encaja Myanmar en las nuevas rutas de la seda de China.md|Como encaja Myanmar en las nuevas rutas de la seda de China]]
+- [[05_Fuentes/03_Compiladas/Como encaja Myanmar en las nuevas rutas de la seda de China.md|Como encaja Myanmar en las nuevas rutas de la seda de China]]
 
 - [[Corredor IMEC.md|Corredor IMEC]]
 
 - [[Corredor IMEC (India-Middle East-Europe).md|Corredor IMEC (India-Middle East-Europe)]]
 
-- [[05_Fuentes/El arsenal americano de China.md|El arsenal americano de China]]
+- [[05_Fuentes/03_Compiladas/El arsenal americano de China.md|El arsenal americano de China]]
 
 - [[El establishment angloamericano.md|El establishment angloamericano]]
 
-- [[05_Fuentes/El vicepresidente estadounidense JD Vance presento.md|El vicepresidente estadounidense JD Vance presento]]
+- [[05_Fuentes/03_Compiladas/El vicepresidente estadounidense JD Vance presento.md|El vicepresidente estadounidense JD Vance presento]]
 
 - [[Embajada de EE.UU..md|Embajada de EE.UU.]]
 
@@ -188,7 +190,7 @@ tags:
 
 - [[Estrecho de Malaca (El talon de Aquiles de China).md|Estrecho de Malaca (El talon de Aquiles de China)]]
 
-- [[05_Fuentes/Europa se prepara para un aumento en los precios de la energía por el conflicto en Medio Oriente.md|Europa se prepara para un aumento en los precios de la energía por el conflicto en Medio Oriente]]
+- [[05_Fuentes/03_Compiladas/Europa se prepara para un aumento en los precios de la energía por el conflicto en Medio Oriente.md|Europa se prepara para un aumento en los precios de la energía por el conflicto en Medio Oriente]]
 
 - [[06_Videos_Publicados/2025/2025-10-24_El_RESET_MALTHUSIANO_GEOPOLITICA/Graficos Geopolitica y Plan Marshall.md|Graficos Geopolitica y Plan Marshall]]
 
@@ -200,7 +202,7 @@ tags:
 
 - [[Irán (Geopolítica).md|Irán (Geopolítica)]]
 
-- [[05_Fuentes/Irán ejecuta el plan de Jamenei para extender la guerra regional.md|Irán ejecuta el plan de Jamenei para extender la guerra regional]]
+- [[05_Fuentes/03_Compiladas/Irán ejecuta el plan de Jamenei para extender la guerra regional.md|Irán ejecuta el plan de Jamenei para extender la guerra regional]]
 
 - [[06_Videos_Publicados/2025/2025-12-04_Jeffrey_NO_es_lo_que_parece/Jeffrey NADA ES LO QUE PARECE - Investigacion Exclusiva al Estilo Terapia Liberal.md|Jeffrey NADA ES LO QUE PARECE - Investigacion Exclusiva al Estilo Terapia Liberal]]
 
@@ -208,25 +210,25 @@ tags:
 
 - [[Kosovo.md|Kosovo]]
 
-- [[05_Fuentes/La apuesta de China por la inteligencia artificial electricidad barata de la red más grande del mundo.md|La apuesta de China por la inteligencia artificial electricidad barata de la red más grande del mundo]]
+- [[05_Fuentes/03_Compiladas/La apuesta de China por la inteligencia artificial electricidad barata de la red más grande del mundo.md|La apuesta de China por la inteligencia artificial electricidad barata de la red más grande del mundo]]
 
 - [[La Comision Trilateral califica al 2023 como el Añ.md|La Comision Trilateral califica al 2023 como el Añ]]
 
-- [[05_Fuentes/La crisis energética y la falta de escala El sombrío panorama de Eric Schmidt sobre la competencia global en IA.md|La crisis energética y la falta de escala El sombrío panorama de Eric Schmidt sobre la competencia global en IA]]
+- [[05_Fuentes/03_Compiladas/La crisis energética y la falta de escala El sombrío panorama de Eric Schmidt sobre la competencia global en IA.md|La crisis energética y la falta de escala El sombrío panorama de Eric Schmidt sobre la competencia global en IA]]
 
-- [[05_Fuentes/La guerra en Irán Una nueva oportunidad para el Gran Reinicio.md|La guerra en Irán Una nueva oportunidad para el Gran Reinicio]]
+- [[05_Fuentes/03_Compiladas/La guerra en Irán Una nueva oportunidad para el Gran Reinicio.md|La guerra en Irán Una nueva oportunidad para el Gran Reinicio]]
 
-- [[05_Fuentes/La Inminente Tormenta Perfecta Dólar y Petróleo en Contrasentido.md|La Inminente Tormenta Perfecta Dólar y Petróleo en Contrasentido]]
+- [[05_Fuentes/03_Compiladas/La Inminente Tormenta Perfecta Dólar y Petróleo en Contrasentido.md|La Inminente Tormenta Perfecta Dólar y Petróleo en Contrasentido]]
 
-- [[05_Fuentes/La mayor sorpresa, hasta el momento, dentro de la Operación Furia Épica.md|La mayor sorpresa, hasta el momento, dentro de la Operación Furia Épica]]
+- [[05_Fuentes/03_Compiladas/La mayor sorpresa, hasta el momento, dentro de la Operación Furia Épica.md|La mayor sorpresa, hasta el momento, dentro de la Operación Furia Épica]]
 
-- [[05_Fuentes/La polémica visión de Hegseth ¿Un nuevo mapa para 'Gran Norteamérica'.md|La polémica visión de Hegseth ¿Un nuevo mapa para 'Gran Norteamérica']]
+- [[05_Fuentes/03_Compiladas/La polémica visión de Hegseth ¿Un nuevo mapa para 'Gran Norteamérica'.md|La polémica visión de Hegseth ¿Un nuevo mapa para 'Gran Norteamérica']]
 
-- [[05_Fuentes/La República Tecnológica Un Llamado al Poder y la Responsabilidad en la Era Moderna.md|La República Tecnológica Un Llamado al Poder y la Responsabilidad en la Era Moderna]]
+- [[05_Fuentes/03_Compiladas/La República Tecnológica Un Llamado al Poder y la Responsabilidad en la Era Moderna.md|La República Tecnológica Un Llamado al Poder y la Responsabilidad en la Era Moderna]]
 
 - [[Litio y Comando Sur.md|Litio y Comando Sur]]
 
-- [[05_Fuentes/Los ataques contra Irán mataron a los sucesores preferidos de Estados Unidos para asumir el régimen, afirma Trump.md|Los ataques contra Irán mataron a los sucesores preferidos de Estados Unidos para asumir el régimen, afirma Trump]]
+- [[05_Fuentes/03_Compiladas/Los ataques contra Irán mataron a los sucesores preferidos de Estados Unidos para asumir el régimen, afirma Trump.md|Los ataques contra Irán mataron a los sucesores preferidos de Estados Unidos para asumir el régimen, afirma Trump]]
 
 - [[Mackinder.md|Mackinder]]
 
@@ -240,7 +242,7 @@ tags:
 
 - [[NED.md|NED]]
 
-- [[05_Fuentes/Netanyahu aboga por rutas energéticas alternativas a través de la Península Arábiga.md|Netanyahu aboga por rutas energéticas alternativas a través de la Península Arábiga]]
+- [[05_Fuentes/03_Compiladas/Netanyahu aboga por rutas energéticas alternativas a través de la Península Arábiga.md|Netanyahu aboga por rutas energéticas alternativas a través de la Península Arábiga]]
 
 - [[06_Videos_Publicados/2026/2026-04-15_LAS GUERRAS MAGA/NOTA_TESIS_CONSOLIDADA_LAS_GUERRAS_MAGA.md|NOTA_TESIS_CONSOLIDADA_LAS_GUERRAS_MAGA]]
 

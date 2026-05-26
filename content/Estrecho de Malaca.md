@@ -4,7 +4,7 @@ aliases:
   - Malaca
   - Estrecho de Malaca (Geopolítica)
 created: 2026-02-09T17:21:50.678-03:00
-modified: 2026-05-02T13:06:52.362-03:00
+modified: 2026-05-26T12:30:01.636-03:00
 tags:
   - malaca
   - chokepoint
@@ -29,6 +29,12 @@ tags:
 ## Lectura TL
 
 Malaca muestra que la autonomía monetaria no alcanza si las rutas físicas siguen expuestas. Un país puede construir rails de pago alternativos, pero si su energía y comercio pasan por un cuello vigilable, la soberanía sigue condicionada por geografía y poder naval.
+
+## Delta 2026-05-26 - Reproceso transcripts
+
+El reproceso de videos publicados sube a Malaca como continuidad estratégica post-Ormuz. Si Ormuz funciona como primer laboratorio de peaje, Malaca aparece como siguiente frente lógico de presión sobre China: energía, comercio, chips, Mar del Sur e Indonesia quedan dentro del mismo tablero de chokepoints.
+
+La hipótesis operativa no exige guerra abierta. Basta con seguros, ejercicios navales, incidentes, sanciones portuarias, controles de carga o amenaza persistente para trasladar presión logística a la capa monetaria asiática.
 
 ## Con que conecta
 

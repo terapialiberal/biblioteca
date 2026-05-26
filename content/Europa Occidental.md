@@ -9,12 +9,12 @@ created: 2026-04-29
 
 # Europa Occidental
 
-> Nota de cobertura geográfica. Creada por batch de aliases TL.
+> Nota de cobertura geogrÃ¡fica. Creada por batch de aliases TL.
 
-**Referido desde (2 notas):** 05\_Fuentes/Como la OTAN, la CIA y el Vaticano conspiraron en la Operacion Gladio...
+**Referido desde (2 notas):** 05\_Fuentes/03\_Compiladas/Como la OTAN, la CIA y el Vaticano conspiraron en la Operacion Gladio...
 
 ## Para desarrollar
 
-- Contexto geopolítico en el ecosistema TL
+- Contexto geopolÃ­tico en el ecosistema TL
 - Relaciones con actores clave
-- Recursos estratégicos
+- Recursos estratÃ©gicos

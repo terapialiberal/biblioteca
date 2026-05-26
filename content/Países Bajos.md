@@ -1,20 +1,20 @@
 ---
 publish: true
-titulo: "Países Bajos"
-aliases: ["Países Bajos"]
+titulo: "PaÃ­ses Bajos"
+aliases: ["PaÃ­ses Bajos"]
 tags: [geografia, region]
 type: alias-note
 created: 2026-04-29
 ---
 
-# Países Bajos
+# PaÃ­ses Bajos
 
-> Nota de cobertura geográfica. Creada por batch de aliases TL.
+> Nota de cobertura geogrÃ¡fica. Creada por batch de aliases TL.
 
-**Referido desde (2 notas):** 05\_Fuentes/Estados Unidos ha advertido a otros que eviten pre.md...
+**Referido desde (2 notas):** 05\_Fuentes/03\_Compiladas/Estados Unidos ha advertido a otros que eviten pre.md...
 
 ## Para desarrollar
 
-- Contexto geopolítico en el ecosistema TL
+- Contexto geopolÃ­tico en el ecosistema TL
 - Relaciones con actores clave
-- Recursos estratégicos
+- Recursos estratÃ©gicos

@@ -9,12 +9,12 @@ created: 2026-04-29
 
 # Grecia
 
-> Nota de cobertura geográfica. Creada por batch de aliases TL.
+> Nota de cobertura geogrÃ¡fica. Creada por batch de aliases TL.
 
-**Referido desde (2 notas):** 04\_Base\_de\_Conocimiento/ISDA.md, 05\_Fuentes/El desenterramiento de las redes glo...
+**Referido desde (2 notas):** 04\_Base\_de\_Conocimiento/ISDA.md, 05\_Fuentes/03\_Compiladas/El desenterramiento de las redes glo...
 
 ## Para desarrollar
 
-- Contexto geopolítico en el ecosistema TL
+- Contexto geopolÃ­tico en el ecosistema TL
 - Relaciones con actores clave
-- Recursos estratégicos
+- Recursos estratÃ©gicos

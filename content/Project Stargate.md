@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-25T14:29:22.116-03:00
-modified: 2026-04-17T13:00:31.385-03:00
+modified: 2026-05-26T12:30:01.423-03:00
 tags:
   - stargate
   - openai
@@ -37,12 +37,19 @@ Los videos recientes dejan un delta claro: la promesa de expansión puede sosten
 
 La ventaja real no está solo en el modelo. Está en quién puede financiar, instalar y operar la infraestructura física necesaria para entrenarlo y escalarlo.
 
+### 4. Compute como colateral
+
+El reproceso de transcripts del 2026-05-26 agrega una tesis de vigilancia: la capacidad de cómputo empieza a comportarse como activo estratégico y posible colateral geopolítico. Data centers, energía firme, agua, permisos, grid y capex no son costos laterales de la IA; son el balance físico del nuevo régimen.
+
+La señal clave es el trato diferencial: racionamiento o presión energética para consumo civil, prioridad regulatoria o de seguridad nacional para data centers.
+
 ## Señales
 
 - pausa o rediseño de proyectos por costo energético
 - expansión institucional de [[OpenAI]] o socios aunque el cuello material persista
 - subsidios, permisos o excepciones regulatorias para data centers
 - acople entre IA, defensa y energía firme
+- tratamiento de data centers como infraestructura de seguridad nacional
 
 ## Conexiones
 
@@ -51,3 +58,4 @@ La ventaja real no está solo en el modelo. Está en quién puede financiar, ins
 - [[Credito privado]]
 - [[Estrecho de Ormuz]]
 - [[Tokenizacion de Activos Reales]]
+- [[Data Centers]]

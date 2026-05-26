@@ -1,20 +1,20 @@
 ---
 publish: true
-titulo: "América del Sur"
-aliases: ["América del Sur"]
+titulo: "AmÃ©rica del Sur"
+aliases: ["AmÃ©rica del Sur"]
 tags: [geografia, region]
 type: alias-note
 created: 2026-04-29
 ---
 
-# América del Sur
+# AmÃ©rica del Sur
 
-> Nota de cobertura geográfica. Creada por batch de aliases TL.
+> Nota de cobertura geogrÃ¡fica. Creada por batch de aliases TL.
 
-**Referido desde (3 notas):** 05\_Fuentes/DÓNDE SE ENCUENTRAN LOS CENTROS DE DATOS DE I.A.md...
+**Referido desde (3 notas):** 05\_Fuentes/03\_Compiladas/DÃ“NDE SE ENCUENTRAN LOS CENTROS DE DATOS DE I.A.md...
 
 ## Para desarrollar
 
-- Contexto geopolítico en el ecosistema TL
+- Contexto geopolÃ­tico en el ecosistema TL
 - Relaciones con actores clave
-- Recursos estratégicos
+- Recursos estratÃ©gicos

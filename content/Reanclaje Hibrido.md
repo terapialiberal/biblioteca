@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-20T16:59:34.732-03:00
-modified: 2026-04-22T10:25:19.965-03:00
+modified: 2026-05-26T12:30:01.259-03:00
 tags:
   - reanclaje-hibrido
   - dolar
@@ -49,6 +49,12 @@ Leído junto con [[Shock de Nixon]], [[Sistema Petrodolar]] y [[Saltsjobaden_197
 
 Su utilidad crece aún más cuando se lo enfrenta con [[Desdolarizacion]]. No son lecturas incompatibles: una describe el intento occidental de sostener centralidad; la otra, la construcción parcial de bypasses regionales que presionan a ese mismo intento.
 
+## Delta 2026-05-26 - Reproceso transcripts
+
+El reproceso de videos publicados estabiliza el concepto como arquitectura compuesta: energía, [[Treasuries]], chokepoints, stablecoins, tokenización, compute y rails privados operan como soportes parciales de un dólar que ya no puede descansar en un único ancla limpia.
+
+La formulación fuerte queda así: el reanclaje híbrido no es un programa anunciado, sino una convergencia de incentivos. Si la demanda soberana por deuda flaquea, el sistema intenta fabricar demanda vía stablecoins, money market tokenizados, colateral energético, infraestructura crítica y control de rutas.
+
 ## Con que conecta
 
 - [[Sistema Petrodolar]]
@@ -60,3 +66,5 @@ Su utilidad crece aún más cuando se lo enfrenta con [[Desdolarizacion]]. No so
 - [[GENIUS Act]]
 - [[Desdolarizacion]]
 - [[Saltsjobaden_1973_MarALago_2026]]
+- [[Tokenizacion de Activos Reales]]
+- [[Project Stargate]]
