@@ -6,13 +6,13 @@ aliases:
 created: 2026-05-26T12:30:01.765-03:00
 modified: 2026-05-26T12:30:02.494-03:00
 tags:
-  - "#power-of-siberia-2"
-  - "#rusia"
-  - "#china"
-  - "#energia"
-  - "#gas"
-  - "#bypass"
-  - "#tl-intel-v3"
+  - power-of-siberia-2
+  - rusia
+  - china
+  - energia
+  - gas
+  - bypass
+  - tl-intel-v3
 ---
 
 # Power of Siberia 2

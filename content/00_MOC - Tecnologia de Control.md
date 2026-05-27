@@ -195,6 +195,8 @@ tags: [moc, tecnologia-de-control, ia, vigilancia, tl-intel-v3]
 
 - [[06_Videos_Publicados/2026/2026-04-13_Ormuz_IA_Orden/00_ARCHIVO_2026-04-13_Ormuz_IA_Orden.md|00_ARCHIVO_2026-04-13_Ormuz_IA_Orden]]
 
+- [[02_Research/2026-05-02_Nick_Land_Kabbalah_Thiel_SiliconValley/00_CONTROL_TEMA.md|00_CONTROL_TEMA]]
+
 - [[06_Videos_Publicados/2026/2026-04-13_Ormuz_IA_Orden/00_CONTROL_TEMA.md|00_CONTROL_TEMA]]
 
 - [[00_Home/00_ESTADO_OPERATIVO_IA.md|00_ESTADO_OPERATIVO_IA]]
@@ -448,6 +450,8 @@ tags: [moc, tecnologia-de-control, ia, vigilancia, tl-intel-v3]
 - [[Jamal Khashoggi.md|Jamal Khashoggi]]
 
 - [[Japón.md|Japón]]
+
+- [[Jensen Huang.md|Jensen Huang]]
 
 - [[05_Fuentes/03_Compiladas/Jensen Huang (Nvidia) compara la minería de Bitcoin con el almacenamiento de energía.md|Jensen Huang (Nvidia) compara la minería de Bitcoin con el almacenamiento de energía]]
 

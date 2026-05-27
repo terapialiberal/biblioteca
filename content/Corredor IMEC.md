@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Corredor IMEC (India-Middle East-Europe)", "India-Middle East-Europe Corridor", "IMEC"]
 tags: [imec, corredor, infraestructura, rimland, golfo, tl-intel-v3]
 publish: true
+last_stream: "[[06_Videos_Publicados/2026/2026-05-26_La_Trampa_de_Ormuz/00_ARCHIVO_2026-05-26_La_Trampa_de_Ormuz|ARCHIVO: La Trampa de Ormuz]]"
 ---
 
 # Corredor IMEC

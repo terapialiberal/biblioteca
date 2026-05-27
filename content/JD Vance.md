@@ -1,59 +1,59 @@
 ---
 publish: true
-aliases:
-  - J.D. Vance
-  - "J.D. Vance: El Interfaz De La PayPal Mafia"
-  - "JD Vance: El Portavoz del Nuevo Paradigma"
 created: 2026-02-25T15:42:29.816-03:00
-modified: 2026-04-20T10:33:12.736-03:00
+modified: 2026-05-27T10:24:58.472-03:00
 tags:
   - jd-vance
-  - peter-thiel
+  - vicepresidente
+  - doge
+  - thiel
   - maga
-  - paypal-mafia
-  - nueva-derecha
-  - venture-politica
+  - elecciones-2028
   - tl-intel-v3
 ---
 
-# JD Vance
+# [[JD Vance]]
 
-## BLUF
+> [!abstract] PERFIL TL-INTEL
+> Vicepresidente de EEUU bajo [[Donald Trump]]. Producto del ecosistema [[Peter Thiel]] (mentor y financista). Rumores de posible declinación de candidatura 2028, compitiendo en el mismo espacio que [[Marco Rubio]].
 
-[[JD Vance]] importa en TL como operador politico de convergencia entre populismo MAGA, capital tech y una derecha post-liberal que busca reemplazar mediaciones democraticas por arquitectura industrial, securitaria y tecnologica. Su valor no esta solo en su carrera electoral, sino en hacer visible el puente entre venture capital, software de poder y reconfiguracion del bloque republicano.
+## Clasificación
 
-## Por que importa en TL
+| Campo | Valor |
+|---|---|
+| Tier | A |
+| Tipo | Persona / Vicepresidente |
+| Función sistémica | Ejecutor de política doméstica (DOGE) y posible heredero político |
+| Activo que captura | Aparato administrativo, agenda de desregulación, base electoral MAGA |
+| Rasgo diferencial | Hechura Thiel — no es un político tradicional sino un producto del ecosistema venture-datos-defensa |
 
-- funciona como puente entre [[Donald Trump]] y la constelacion [[Peter Thiel]] / [[Palantir]] / [[PayPal Mafia]];
-- traduce agendas de Silicon Valley, seguridad nacional e industria al lenguaje de soberania, reindustrializacion y clase trabajadora;
-- ayuda a leer el reordenamiento interno del bloque MAGA hacia una tecnocracia nacionalista mas estructurada.
+## Contexto
 
-## Que cambio
+[[JD Vance]] es el vicepresidente de [[Donald Trump]] y uno de los productos políticos más visibles del ecosistema [[Peter Thiel]]. Thiel fue su mentor y financista durante la campaña al Senado, y Vance representa la interfaz entre Silicon Valley reaccionaria y el trumpismo.
 
-La nota ya habia consolidado naming y duplicados, pero seguia un paso atras en modularidad respecto del resto del subcorredor Thiel. Se recompila para dejar mas claras funcion politica, rol de interfaz y conexiones de infraestructura.
+En mayo de 2026 circulan rumores de que Vance podría declinar su candidatura para 2028, lo que abriría el camino a [[Marco Rubio]] (Quad Alliance, clan Adelson) o a [[Thomas Massie]] (oposición controlada, financiado por [[Elon Musk]]).
 
-## Lectura TL
+## Mecanismos de Poder
 
-### 1. Interfaz politica de una red
+### Control del aparato DOGE
 
-JD Vance no importa solo como senador o posible vicepresidente. Importa como vehiculo politico para una mutacion mas profunda: la entrada del capital de riesgo, la vigilancia y la ideologia post-liberal al centro del poder republicano.
+Vance lidera o supervisa el Department of Government Efficiency (DOGE), la herramienta de desregulación y captura institucional de la administración Trump.
 
-### 2. Populismo con backend tecnocratico
+### Nexo Thiel-Washington
 
-En TL, su relevancia aumenta cuando se observa que lenguaje anti-establishment, critica al libre comercio clasico y defensa de la industria conviven con alianzas fuertes con capital tech y ecosistemas de seguridad.
+Como producto del ecosistema Thiel, Vance es el traductor de la agenda venture-datos-defensa en política ejecutiva. Lo que Thiel financia, Vance puede implementar.
 
-### 3. De disidencia narrativa a bloque gobernante
+### Competencia por la sucesión
 
-Su potencia analitica aparece cuando deja de ser solo figura cultural o editorial y pasa a ocupar posiciones desde donde puede traducir tesis de red en Estado, regulacion, politica industrial o seleccion de cuadros.
+La salud deteriorada de Trump y los rumores de Enmienda 25 convierten la sucesión en un tablero activo. Vance compite con Rubio (respaldo Adelson, política exterior) y potencialmente con Massie (captura del voto descontento).
 
-### 4. No marioneta, si nodo coherente
+### Posible declinación
 
-No hace falta convertirlo en ejecutor perfecto de Thiel para que el nodo sea util. Basta con ver coherencia de financiamiento, lenguaje, relaciones y direccion estrategica dentro del nuevo bloque.
+Si Vance declina, no es una retirada: es un movimiento de tablero. Puede estar negociando un cargo más seguro (sector privado, think tank, fondo) o cediendo el paso a una figura con más respaldo del establishment.
 
-## Con que conecta
+## Señales a monitorear
 
-- [[Peter Thiel]]
-- [[Donald Trump]]
-- [[Palantir]]
-- [[PayPal Mafia]]
-- [[Curtis Yarvin]]
+- Anuncio formal de candidatura o declinación para 2028
+- Respaldos de Thiel, Musk u otros del ecosistema
+- Apariciones públicas y estado de salud de Trump
+- Movimientos de Rubio en política exterior (Quad, OTAN, Medio Oriente)

@@ -3,7 +3,7 @@ publish: true
 aliases:
   - "Howard Lutnick: el Guardian del Tesoro Digital"
 created: 2026-01-29T19:17:17.466-03:00
-modified: 2026-04-18T21:27:48.805-03:00
+modified: 2026-05-27T10:17:22.110-03:00
 tags:
   - howard-lutnick
   - cantor-fitzgerald

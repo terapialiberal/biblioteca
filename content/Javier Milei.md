@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Javier Milei - El Experimento Libertario Atlantista
 created: 2026-01-29T19:17:19.381-03:00
-modified: 2026-04-18T11:30:23.138-03:00
+modified: 2026-05-27T10:17:53.832-03:00
 tags:
   - argentina
   - milei
