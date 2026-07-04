@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Stablecoin Regulation US (2026)
 created: 2026-02-09T17:32:42.080-03:00
-modified: 2026-04-22T10:35:52.392-03:00
+modified: 2026-04-22T10:36:02.072-03:00
 tags:
   - stablecoins
   - regulacion-eeuu

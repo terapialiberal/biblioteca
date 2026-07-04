@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Ceguera Inatencional Geopolítica
 created: 2026-02-25T22:08:33.054-03:00
-modified: 2026-04-27T10:32:38.754-03:00
+modified: 2026-04-27T10:32:49.791-03:00
 tags:
   - ceguera-inatencional
   - geopolitica

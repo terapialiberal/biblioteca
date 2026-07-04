@@ -4,7 +4,7 @@ aliases:
   - Great Firewall
   - Gran Cortafuegos
 created: 2026-05-01T20:10:59.036-03:00
-modified: 2026-05-02T13:48:01.935-03:00
+modified: 2026-05-02T13:47:57.071-03:00
 tags:
   - china
   - censura

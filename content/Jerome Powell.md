@@ -3,7 +3,7 @@ publish: true
 aliases:
   - "Jerome Powell: El Gestor de la Liquidez Sistemica"
 created: 2026-01-29T19:17:19.495-03:00
-modified: 2026-04-24T10:52:38.451-03:00
+modified: 2026-04-24T10:52:46.392-03:00
 tags:
   - jerome-powell
   - fed

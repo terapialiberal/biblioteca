@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Polonia (Geopolítica)
 created: 2026-05-01T20:44:07.196-03:00
-modified: 2026-05-02T13:07:26.399-03:00
+modified: 2026-05-02T12:54:42.463-03:00
 tags:
   - polonia
   - europa

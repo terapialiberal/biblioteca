@@ -4,7 +4,7 @@ aliases:
   - Andreessen Horowitz (a16z)
   - a16z
 created: 2026-05-01T19:11:49.264-03:00
-modified: 2026-05-02T13:53:16.483-03:00
+modified: 2026-05-02T13:53:10.655-03:00
 tags:
   - alias
   - legacy

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:06.407-03:00
-modified: 2026-04-22T16:33:00.057-03:00
+modified: 2026-04-22T16:33:06.265-03:00
 tags:
   - capitalismo-de-vigilancia
   - plataformas

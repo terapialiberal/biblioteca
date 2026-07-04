@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-29T13:36:23.364-03:00
-modified: 2026-04-29T13:37:06.990-03:00
+modified: 2026-04-29T13:37:15.525-03:00
 tags:
   - concepto
   - derecho

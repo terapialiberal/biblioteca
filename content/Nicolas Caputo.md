@@ -4,7 +4,7 @@ aliases:
   - Nicolás Caputo
   - "Nicolas Caputo: El Patriarca del Capitalismo de Amigos"
 created: 2026-01-29T19:17:27.015-03:00
-modified: 2026-04-18T11:27:38.257-03:00
+modified: 2026-04-18T11:27:32.376-03:00
 tags:
   - argentina
   - empresarios

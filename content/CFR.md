@@ -4,7 +4,7 @@ aliases:
   - Council on Foreign Relations
   - Council on Foreign Relations (CFR)
 created: 2026-02-25T15:42:31.015-03:00
-modified: 2026-04-18T15:49:43.041-03:00
+modified: 2026-04-18T15:49:36.555-03:00
 tags:
   - cfr
   - think-tanks

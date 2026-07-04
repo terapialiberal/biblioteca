@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-19T13:16:50.322-03:00
-modified: 2026-04-22T16:39:07.949-03:00
+modified: 2026-06-30T21:11:59.287-03:00
 tags:
   - dinero-programable
   - cbdc
@@ -72,3 +72,7 @@ En TL, el nodo gana todavía más fuerza cuando se lo conecta con [[00_MOC - Vig
 - [[Tecnocracia]]
 - [[00_MOC - Finanzas y CBDC]]
 - [[00_MOC - Vigilancia Tecnica y SIGINT]]
+
+## Casos relacionados
+
+- [[06_Videos_Publicados/2026/2026-05-13_El mundo se reconfigura/POSTMORTEM_INTEL|El mundo se reconfigura]] (13 may 2026) — "Jekyll Island 2.0": el nuevo dólar digital no vendrá como CBDC estatal pura sino como infraestructura privada/regulada de bancos (JPMorgan), gestores (BlackRock) y stablecoins. Warsh + CLARITY Act como arquitectura.

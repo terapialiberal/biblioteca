@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Safari Club (Red de Inteligencia)
 created: 2026-05-01T20:39:30.351-03:00
-modified: 2026-05-02T13:07:34.436-03:00
+modified: 2026-05-02T12:56:15.887-03:00
 tags:
   - safari-club
   - inteligencia

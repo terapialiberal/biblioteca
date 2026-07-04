@@ -4,7 +4,7 @@ aliases:
   - Revolución del Color
   - Revoluciones de Color
 created: 2026-01-29T19:17:33.731-03:00
-modified: 2026-04-24T10:45:44.517-03:00
+modified: 2026-04-24T10:45:51.627-03:00
 tags:
   - revolucion-del-color
   - cambio-de-regimen

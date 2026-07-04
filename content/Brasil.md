@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Brasil (Potencia Regional)
 created: 2026-04-29T14:51:45.146-03:00
-modified: 2026-05-02T13:07:27.414-03:00
+modified: 2026-05-02T12:58:37.815-03:00
 tags:
   - brasil
   - brics

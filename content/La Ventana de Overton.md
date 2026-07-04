@@ -3,7 +3,7 @@ publish: true
 aliases:
   - La Ventana De Overton
 created: 2026-02-25T22:08:56.062-03:00
-modified: 2026-04-27T10:09:38.314-03:00
+modified: 2026-04-27T10:09:46.518-03:00
 tags:
   - alias
   - legacy

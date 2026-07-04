@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-29T14:05:24.613-03:00
-modified: 2026-04-29T14:05:32.336-03:00
+modified: 2026-04-29T14:05:36.807-03:00
 tags:
   - plataformas
   - tecnologia

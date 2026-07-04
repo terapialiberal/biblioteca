@@ -4,7 +4,7 @@ aliases:
   - Banco Central
   - Banco Central / Reserva Federal
 created: 2026-05-01T20:10:07.630-03:00
-modified: 2026-05-02T13:48:03.818-03:00
+modified: 2026-05-02T13:47:57.422-03:00
 tags:
   - bancos-centrales
   - politica-monetaria

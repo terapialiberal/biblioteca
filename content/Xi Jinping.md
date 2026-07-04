@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Xi
 created: 2026-01-29T19:17:44.717-03:00
-modified: 2026-05-02T13:07:44.432-03:00
+modified: 2026-05-02T12:58:38.844-03:00
 tags:
   - xi-jinping
   - china

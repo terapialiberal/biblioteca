@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-29T14:05:23.507-03:00
-modified: 2026-04-29T14:05:31.905-03:00
+modified: 2026-04-29T14:05:36.621-03:00
 tags:
   - banca-central
   - francia

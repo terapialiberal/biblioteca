@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Laberinto de Chartres
 created: 2026-02-25T22:08:57.928-03:00
-modified: 2026-04-27T10:31:23.414-03:00
+modified: 2026-04-27T10:31:31.830-03:00
 tags:
   - laberinto-chartres
   - arquitectura-sacra

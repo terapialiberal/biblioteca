@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Neuralink & Transhumanismo
 created: 2026-02-25T22:14:46.512-03:00
-modified: 2026-04-17T16:37:37.567-03:00
+modified: 2026-04-17T16:37:44.611-03:00
 tags:
   - neuralink
   - transhumanismo

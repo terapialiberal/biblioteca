@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:25.792-03:00
-modified: 2026-05-02T18:36:20.081-03:00
+modified: 2026-05-02T18:25:48.106-03:00
 tags:
   - atlas
   - neoliberalismo

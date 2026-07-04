@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Francia (Geopolítica)
 created: 2026-04-29T14:51:45.246-03:00
-modified: 2026-05-02T13:07:27.421-03:00
+modified: 2026-05-02T12:58:37.669-03:00
 tags:
   - francia
   - europa

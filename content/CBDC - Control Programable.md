@@ -4,7 +4,7 @@ aliases:
   - CBDC / Control Blockchain
   - CBDC / Control Monetario
 created: 2026-05-01T20:10:45.046-03:00
-modified: 2026-05-02T18:33:24.728-03:00
+modified: 2026-05-02T18:25:15.142-03:00
 tags:
   - concepto
   - cbdc

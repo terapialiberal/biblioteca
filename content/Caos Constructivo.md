@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Caos Constructivo
 created: 2026-05-01T20:11:57.920-03:00
-modified: 2026-05-02T13:47:23.669-03:00
+modified: 2026-05-02T13:47:16.930-03:00
 tags:
   - caos-constructivo
   - shock

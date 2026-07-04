@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Barbara Bush
 created: 2026-05-01T19:12:42.051-03:00
-modified: 2026-05-02T18:32:28.552-03:00
+modified: 2026-05-02T18:25:12.725-03:00
 tags:
   - actor
   - dinastia

@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Keynesianismo (Doctrina)
 created: 2026-05-01T20:43:00.461-03:00
-modified: 2026-05-02T13:07:21.403-03:00
+modified: 2026-05-02T12:51:27.146-03:00
 tags:
   - keynesianismo
   - economia

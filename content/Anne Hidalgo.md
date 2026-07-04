@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Anne Hidalgo
 created: 2026-05-01T19:12:25.618-03:00
-modified: 2026-05-02T18:31:40.565-03:00
+modified: 2026-05-02T18:25:11.904-03:00
 tags:
   - actor
   - francia

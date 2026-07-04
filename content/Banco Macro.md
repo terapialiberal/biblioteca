@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-29T14:05:23.537-03:00
-modified: 2026-04-29T14:05:31.948-03:00
+modified: 2026-04-29T14:05:36.690-03:00
 tags:
   - argentina
   - banca

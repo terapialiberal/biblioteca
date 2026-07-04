@@ -5,7 +5,7 @@ aliases:
   - Thomas Malthus
   - Thomas Malthus (Sobre población)
 created: 2026-05-01T20:42:52.612-03:00
-modified: 2026-05-02T13:07:20.456-03:00
+modified: 2026-05-02T12:51:26.865-03:00
 tags:
   - malthus
   - poblacion

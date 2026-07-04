@@ -1,17 +1,11 @@
 ---
+titulo: Operacion Gladio
+tipo: evento
+fecha: 2026-04-22
+estado: activo
+aliases: ["Operación Gladio", "Operación Gladio: El Terrorismo De Estado Como Herramienta De Control"]
+tags: [gladio, stay-behind, otan, cia, estrategia-de-la-tension, tl-intel-v3]
 publish: true
-aliases:
-  - Operación Gladio
-  - "Operación Gladio: El Terrorismo De Estado Como Herramienta De Control"
-created: 2026-01-29T19:17:28.496-03:00
-modified: 2026-04-22T11:28:39.916-03:00
-tags:
-  - gladio
-  - stay-behind
-  - otan
-  - cia
-  - estrategia-de-la-tension
-  - tl-intel-v3
 ---
 
 # Operacion Gladio
@@ -61,3 +55,12 @@ Leida junto con [[Comite Church]] y [[Club Safari]], Gladio ayuda a entender có
 - [[Club Safari]]
 - [[Propaganda Due (P2)]]
 - [[00_MOC - Inteligencia Clasica y Operaciones Historicas]]
+
+## Casos TL relacionados
+
+- [[06_Videos_Publicados/2025/2025-10-11_PSYOPS_Y_GUERRA_CIVIL/POSTMORTEM_INTEL.md|PSYOPs y Guerra Civil]] — Gladio como plantilla reusable para estrategia de tensión doméstica. Estado: refuerza.
+
+## Conexiones nuevas
+
+- [[Problema-Reacción-Solución]] — Gladio como caso paradigmático de PRS.
+- [[Ingenieria de Consentimiento]] — marco madre.

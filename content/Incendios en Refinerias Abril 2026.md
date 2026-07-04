@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-21T11:24:10.996-03:00
-modified: 2026-04-22T09:51:28.363-03:00
+modified: 2026-04-22T09:51:37.860-03:00
 tags:
   - refinerias
   - energia

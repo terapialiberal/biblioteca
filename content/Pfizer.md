@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:30.533-03:00
-modified: 2026-04-22T10:54:08.587-03:00
+modified: 2026-04-22T10:54:16.761-03:00
 tags:
   - pfizer
   - industria-farmaceutica

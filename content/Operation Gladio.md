@@ -4,7 +4,7 @@ aliases:
   - Operación Gladio
   - Operación Gladio (Red Stay-Behind)
 created: 2026-05-01T20:39:33.043-03:00
-modified: 2026-05-02T13:07:33.420-03:00
+modified: 2026-05-02T12:56:15.821-03:00
 tags:
   - gladio
   - nato

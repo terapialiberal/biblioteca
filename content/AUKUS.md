@@ -3,7 +3,7 @@ publish: true
 aliases:
   - AUKUS
 created: 2026-05-01T19:12:05.824-03:00
-modified: 2026-05-02T13:48:43.604-03:00
+modified: 2026-05-02T13:48:37.963-03:00
 tags:
   - aukus
   - australia

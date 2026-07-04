@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:14.968-03:00
-modified: 2026-04-19T12:56:50.012-03:00
+modified: 2026-04-19T12:56:41.586-03:00
 tags:
   - geocercas
   - geofencing

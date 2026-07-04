@@ -4,7 +4,7 @@ aliases:
   - Etiopia
   - Etiopía (Geopolítica)
 created: 2026-05-01T20:44:55.774-03:00
-modified: 2026-05-02T13:07:06.399-03:00
+modified: 2026-05-02T12:45:53.334-03:00
 tags:
   - etiopia
   - africa

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-25T14:29:22.116-03:00
-modified: 2026-05-26T12:30:01.423-03:00
+modified: 2026-05-26T12:30:06.148-03:00
 tags:
   - stargate
   - openai

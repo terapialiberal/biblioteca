@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Aborto y Gestión de Energía
 created: 2026-05-01T19:13:58.769-03:00
-modified: 2026-05-02T18:29:24.233-03:00
+modified: 2026-05-02T18:25:10.571-03:00
 tags:
   - concepto
   - biopolitica

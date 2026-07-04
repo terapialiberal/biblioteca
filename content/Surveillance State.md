@@ -4,7 +4,7 @@ aliases:
   - Estado de Vigilancia
   - Estado de Vigilancia (Surveillance State)
 created: 2026-05-01T20:46:54.871-03:00
-modified: 2026-05-02T13:06:55.406-03:00
+modified: 2026-05-02T12:44:21.511-03:00
 tags:
   - surveillance-state
   - vigilancia

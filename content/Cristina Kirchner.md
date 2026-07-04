@@ -4,7 +4,7 @@ aliases:
   - Cristina Fernandez de Kirchner
   - Cristina Fernandez de Kirchner (CFK)
 created: 2026-01-29T19:17:09.284-03:00
-modified: 2026-04-18T11:12:57.658-03:00
+modified: 2026-04-18T11:12:51.650-03:00
 tags:
   - argentina
   - kirchnerismo

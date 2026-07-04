@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:16.957-03:00
-modified: 2026-04-22T12:23:39.279-03:00
+modified: 2026-04-22T12:23:45.751-03:00
 tags:
   - henry-kissinger
   - realpolitik

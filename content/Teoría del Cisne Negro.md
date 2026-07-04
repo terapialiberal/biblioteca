@@ -4,7 +4,7 @@ aliases:
   - Teoria del Cisne Negro
   - Teoría del Cisne Negro
 created: 2026-05-01T18:50:29.038-03:00
-modified: 2026-05-02T18:43:57.251-03:00
+modified: 2026-05-02T18:26:10.098-03:00
 tags:
   - concepto
   - riesgo

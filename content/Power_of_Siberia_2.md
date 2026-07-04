@@ -4,7 +4,7 @@ aliases:
   - Power of Siberia 2
   - PoS2
 created: 2026-05-26T12:30:01.765-03:00
-modified: 2026-05-26T12:30:02.494-03:00
+modified: 2026-06-11T14:29:00.209-03:00
 tags:
   - power-of-siberia-2
   - rusia
@@ -49,3 +49,7 @@ La hipótesis fuerte: cuanto más administrables se vuelvan los chokepoints mar�
 - [[Desdolarizacion]]
 - [[Sistema CIPS]]
 - [[Teoria del Rimland]]
+
+## Casos relacionados
+
+- [[06_Videos_Publicados/2026/2026-05-21_Triple_Summit/POSTMORTEM_INTEL|Triple Summit]] (21 may 2026) — Power of Siberia 2 como bypass estructural dentro de la formalización energética China-Rusia (Xi-Putin).

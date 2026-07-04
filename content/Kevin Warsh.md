@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-15T17:06:21.416-03:00
-modified: 2026-05-27T10:17:15.192-03:00
+modified: 2026-07-03T14:43:24.335-03:00
 tags:
   - kevin-warsh
   - fed
@@ -12,7 +12,7 @@ tags:
 # [[Kevin Warsh]]
 
 > [!abstract] PERFIL TL-INTEL
-> Ex gobernador de la Reserva Federal y operador de la bisagra entre politica monetaria, Wall Street y red politico-familiar.
+> Ex gobernador de la Reserva Federal, actual Fed Chair. Contrató a Paul Winfree (autor del capítulo Fed en Project 2025), prometió "regime change" en el banco central. Su ascenso coincide con la pérdida del oro como principal activo de reserva global (reemplazó Treasuries, BCE).
 
 ## Clasificacion
 
@@ -93,3 +93,22 @@ Leido junto con [[Mar-a-Lago Accord]], [[Reanclaje Hibrido]] y [[Nuevo Bretton W
 ## Observacion Operativa
 
 Warsh importa menos por su biografia aislada que por el momento en el que aparece. Si entra al centro de escena en simultaneo con shock energetico y stress de deuda, su rol deja de ser tecnico y pasa a ser estrategico.
+
+## Fuentes
+
+- [CNBC (3 jun 2026): Warsh contrata a Paul Winfree, autor del capítulo Fed en Project 2025](https://www.cnbc.com/2026/06/02/fed-chair-warsh-makes-first-hires-at-central-bank-including-project-2025.html)
+- [FT (1 jun 2026): Oro reemplaza Treasuries como principal activo de reserva global](https://www.ft.com/content/87ef8f25-eb81-4eed-919c-fe5b49a1ac2c)
+- [Kiplinger (17 jun 2026): FOMC Warsh debut — HOLD 3.50-3.75%. Terminó forward guidance, lanzó 5 grupos de trabajo](https://www.kiplinger.com/news/live/fed-meeting-updates-and-commentary-june-2026)
+- [Reuters (14 jun 2026): Petróleo -35% post-MoU — cobertura para hold](https://www.reuters.com/business/energy/oil-slips-over-4-after-us-iran-reach-peace-deal-reopen-strait-hormuz-2026-06-14)
+- **Transcript**: [[Transcript.md|Endgame de Ormuz]] (1:20:43 — Warsh recorta forward guidance, lanza 5 grupos de trabajo; 1:22:08 — tasa real negativa como licuación)
+
+---
+
+## PAX SILICA (2026-06-26)
+
+- **Debut FOMC:** HOLD 3.50-3.75%. Discurso hawkish, acción dovish. Terminó forward guidance. Creó 5 grupos de trabajo.
+- **Trampa de Warsh:** CPI 4.2% + Fed Funds 3.5-3.75% = tasa real negativa -0.45% a -0.57%. Deuda se licúa sin bajar nominales.
+- **Winfree hire:** Contrató a Paul Winfree (autor capítulo Fed en Project 2025: eliminar mandato dual) como primer hire.
+- **Coartada Bessent:** "IA duplica productividad, inflación cede." Petróleo $126→$77 (paz Irán).
+- **Falsador:** Dot plot jun 2026: 9/18 FOMC a favor de subir. Si ejecutan y PCE cae a 3.6%, tasa real positiva hacia dic 2026.
+- **Fuentes:** Fed, BLS, transcript-1.txt \[63:27], \[66:37]

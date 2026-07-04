@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Nigeria (Geopolítica)
 created: 2026-04-29T15:32:16.621-03:00
-modified: 2026-05-02T13:07:05.396-03:00
+modified: 2026-05-02T12:45:53.408-03:00
 tags:
   - nigeria
   - africa

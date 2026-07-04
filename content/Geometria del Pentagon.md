@@ -4,7 +4,7 @@ aliases:
   - Geometría del Pentagon
   - Geometría del Pentágono
 created: 2026-02-25T22:08:56.129-03:00
-modified: 2026-04-27T10:35:57.010-03:00
+modified: 2026-04-27T10:36:06.746-03:00
 tags:
   - pentagono
   - geometria

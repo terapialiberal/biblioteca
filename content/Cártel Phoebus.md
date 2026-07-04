@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Cártel Phoebus
 created: 2026-05-01T20:11:48.887-03:00
-modified: 2026-05-02T18:33:19.760-03:00
+modified: 2026-05-02T18:25:14.942-03:00
 tags:
   - concepto
   - monopolio

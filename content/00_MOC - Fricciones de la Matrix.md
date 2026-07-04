@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:02.562-03:00
-modified: 2026-04-29T14:44:26.564-03:00
+modified: 2026-04-29T14:44:31.435-03:00
 tags:
   - moc
   - fricciones

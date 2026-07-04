@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-25T15:42:29.816-03:00
-modified: 2026-05-27T10:24:58.472-03:00
+modified: 2026-05-27T10:25:02.344-03:00
 tags:
   - jd-vance
   - vicepresidente

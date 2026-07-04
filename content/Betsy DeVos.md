@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Betsy DeVos
 created: 2026-05-01T19:10:53.822-03:00
-modified: 2026-05-02T18:32:38.543-03:00
+modified: 2026-05-02T18:25:13.350-03:00
 tags:
   - actor
   - eeuu

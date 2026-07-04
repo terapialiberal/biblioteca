@@ -4,7 +4,7 @@ aliases:
   - MLK
   - Martin Luther King
 created: 2026-05-01T20:40:17.565-03:00
-modified: 2026-05-02T13:08:33.516-03:00
+modified: 2026-05-02T13:08:00.936-03:00
 tags:
   - alias
   - legacy

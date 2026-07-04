@@ -5,7 +5,7 @@ aliases:
   - Honey Pot (Operacion)
   - Honey Trap
 created: 2026-01-29T19:17:17.324-03:00
-modified: 2026-04-17T13:57:09.314-03:00
+modified: 2026-04-17T13:57:18.615-03:00
 tags:
   - honey-pot
   - kompromat

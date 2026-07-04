@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-29T14:05:25.080-03:00
-modified: 2026-04-29T14:05:35.988-03:00
+modified: 2026-04-29T14:05:42.488-03:00
 tags:
   - plataformas
   - algoritmos

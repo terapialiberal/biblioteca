@@ -4,7 +4,7 @@ aliases:
   - Malaca
   - Estrecho de Malaca (Geopolítica)
 created: 2026-02-09T17:21:50.678-03:00
-modified: 2026-05-26T12:30:01.636-03:00
+modified: 2026-05-26T12:30:06.297-03:00
 tags:
   - malaca
   - chokepoint

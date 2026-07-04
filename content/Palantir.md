@@ -4,7 +4,7 @@ aliases:
   - Palantir Technologies
   - Palantir CIA
 created: 2026-01-29T19:17:29.660-03:00
-modified: 2026-05-26T12:30:01.332-03:00
+modified: 2026-06-30T21:11:59.276-03:00
 tags:
   - palantir
   - vigilancia
@@ -90,3 +90,9 @@ Lectura TL: cuando el Estado vende caos y pérdida de control, Palantir vende le
 - [[00_MOC - Vigilancia Tecnica y SIGINT]]
 - [[00_MOC - Captura Regulatoria y Puertas Giratorias]]
 - [[Project Stargate]]
+
+## Casos relacionados
+
+- [[06_Videos_Publicados/2026/2026-04-28_TODO ES TEATRO/POSTMORTEM_INTEL|TODO ES TEATRO]] (28 abr 2026) — Palantir captura datos, Oracle captura compute, el Estado captura vigilancia. Shock WHCD → bill bunker/ballroom. USDA + Palantir.
+- [[06_Videos_Publicados/2026/2026-04-22_ORDO_AB_CHAOS/POSTMORTEM_INTEL|ORDO AB CHAOS]] (22 abr 2026) — Palantir no es influencia blanda: es infraestructura operativa. DOGE/Maven/SSA/Worldcoin como piezas de misma lógica de identidad, datos y administración.
+- [[06_Videos_Publicados/2026/2026-04-07_NWO_Energetico_Blueprint/POSTMORTEM_INTEL|NWO Energético Blueprint]] (7 abr 2026) — Palantir/Thiel/BlackRock/GIP/Carlyle como red de captura energético-digital.

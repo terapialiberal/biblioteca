@@ -4,7 +4,7 @@ aliases:
   - Bill & Melinda Gates Foundation
   - Fundación Gates
 created: 2026-05-01T19:13:24.410-03:00
-modified: 2026-05-02T13:53:52.558-03:00
+modified: 2026-05-02T13:53:47.410-03:00
 tags:
   - alias
   - legacy

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-21T13:18:03.584-03:00
-modified: 2026-04-21T13:18:04.240-03:00
+modified: 2026-04-21T13:18:03.584-03:00
 tags:
   - totalitarismo
   - control-social

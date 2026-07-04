@@ -4,7 +4,7 @@ aliases:
   - Escatología de la IA
   - AI eschatology
 created: 2026-02-25T22:08:52.337-03:00
-modified: 2026-04-27T10:22:36.401-03:00
+modified: 2026-04-27T10:22:43.699-03:00
 tags:
   - escatologia-ia
   - agi

@@ -4,7 +4,7 @@ aliases:
   - In Q Tel
   - IQT
 created: 2026-01-29T19:17:18.111-03:00
-modified: 2026-04-24T10:28:41.943-03:00
+modified: 2026-04-24T10:28:48.455-03:00
 tags:
   - in-q-tel
   - cia

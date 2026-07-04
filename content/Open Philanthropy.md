@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:28.095-03:00
-modified: 2026-05-02T18:37:20.329-03:00
+modified: 2026-05-02T18:25:51.616-03:00
 tags:
   - efectivo
   - effective

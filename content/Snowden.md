@@ -4,7 +4,7 @@ aliases:
   - Edward Snowden
   - Edward Snowden (Denunciante)
 created: 2026-05-01T20:39:53.803-03:00
-modified: 2026-05-02T13:08:01.582-03:00
+modified: 2026-05-02T13:02:22.262-03:00
 tags:
   - snowden
   - nsa

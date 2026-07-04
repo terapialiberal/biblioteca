@@ -4,7 +4,7 @@ aliases:
   - John von Neumann
   - Von Neumann
 created: 2026-05-01T20:17:34.989-03:00
-modified: 2026-05-02T13:43:34.295-03:00
+modified: 2026-05-02T13:43:26.344-03:00
 tags:
   - von-neumann
   - computacion

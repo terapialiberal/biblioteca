@@ -5,7 +5,7 @@ aliases:
   - Repurchase agreements
   - Repos
 created: 2026-05-01T20:46:12.692-03:00
-modified: 2026-05-02T12:54:23.111-03:00
+modified: 2026-05-02T12:22:05.436-03:00
 tags:
   - repo
   - liquidez

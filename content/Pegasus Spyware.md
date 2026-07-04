@@ -4,7 +4,7 @@ aliases:
   - Pegasus Spyware (NSO Group)
   - Pegasus
 created: 2026-01-29T19:17:30.190-03:00
-modified: 2026-04-22T16:27:25.350-03:00
+modified: 2026-04-22T16:27:30.900-03:00
 tags:
   - pegasus
   - spyware

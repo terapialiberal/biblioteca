@@ -4,7 +4,7 @@ aliases:
   - London School of Economics (LSE)
   - LSE
 created: 2026-05-01T18:47:27.183-03:00
-modified: 2026-05-02T18:36:04.529-03:00
+modified: 2026-05-02T18:25:43.836-03:00
 tags:
   - institucion
   - academia

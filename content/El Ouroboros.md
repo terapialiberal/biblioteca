@@ -5,7 +5,7 @@ aliases:
   - Uroboros
   - Uróboros
 created: 2026-02-25T22:08:56.305-03:00
-modified: 2026-04-27T10:10:14.095-03:00
+modified: 2026-04-27T10:10:22.901-03:00
 tags:
   - ouroboros
   - ciclo

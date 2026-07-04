@@ -4,7 +4,7 @@ aliases:
   - Bailout (Rescate Financiero)
   - Rescate financiero
 created: 2026-05-01T20:45:56.726-03:00
-modified: 2026-05-02T12:55:41.501-03:00
+modified: 2026-05-02T12:22:03.968-03:00
 tags:
   - bailout
   - rescate

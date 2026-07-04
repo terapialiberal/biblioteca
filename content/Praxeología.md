@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-29T13:21:42.309-03:00
-modified: 2026-04-29T13:28:05.560-03:00
+modified: 2026-04-29T13:28:15.093-03:00
 tags:
   - concepto
   - economia-austriaca

@@ -27,3 +27,7 @@ La capa de base de datos determina qué instituciones pueden operar, auditar, mi
 - [[El Cloud y el Plano Astral|Cloud]]
 - [[Inteligencia Artificial]]
 - [[Vigilancia Masiva]]
+
+## Casos relacionados
+
+- [[06_Videos_Publicados/2026/2026-04-28_TODO ES TEATRO/POSTMORTEM_INTEL|TODO ES TEATRO]] (28 abr 2026) — Oracle captura compute en la trifecta Palantir-datos/Oracle-compute/Estado-vigilancia. Shock WHCD → infraestructura.

@@ -3,7 +3,7 @@ publish: true
 aliases:
   - International Swaps and Derivatives Association
 created: 2026-01-29T19:17:18.974-03:00
-modified: 2026-04-22T16:44:45.913-03:00
+modified: 2026-04-22T16:44:53.799-03:00
 tags:
   - isda
   - derivados

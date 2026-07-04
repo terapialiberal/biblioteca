@@ -4,7 +4,7 @@ aliases:
   - Facebook
   - Meta Platforms
 created: 2026-05-01T20:37:59.892-03:00
-modified: 2026-05-02T13:08:10.480-03:00
+modified: 2026-05-02T13:04:15.922-03:00
 tags:
   - meta
   - facebook

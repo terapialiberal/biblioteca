@@ -4,7 +4,7 @@ aliases:
   - Bandung Conference
   - Conferencia de Bandung
 created: 2026-01-29T19:17:08.552-03:00
-modified: 2026-05-02T18:33:46.834-03:00
+modified: 2026-05-02T18:25:15.848-03:00
 tags:
   - evento
   - tercer-mundo

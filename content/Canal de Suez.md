@@ -4,7 +4,7 @@ aliases:
   - Suez
   - Canal de Suez (Geopolítica)
 created: 2026-01-29T19:17:06.321-03:00
-modified: 2026-05-02T13:06:54.347-03:00
+modified: 2026-05-02T12:41:35.957-03:00
 tags:
   - suez
   - chokepoint

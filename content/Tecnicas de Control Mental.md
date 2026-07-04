@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:41.881-03:00
-modified: 2026-04-18T18:17:14.920-03:00
+modified: 2026-04-18T18:17:08.220-03:00
 tags:
   - control-mental
   - condicionamiento

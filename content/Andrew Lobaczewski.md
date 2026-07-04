@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Andrew Lobaczewski
 created: 2026-05-01T18:55:17.440-03:00
-modified: 2026-05-02T18:31:35.544-03:00
+modified: 2026-05-02T18:25:11.703-03:00
 tags:
   - actor
   - psicologia

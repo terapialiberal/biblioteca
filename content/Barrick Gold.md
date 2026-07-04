@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-29T14:05:23.588-03:00
-modified: 2026-04-29T14:05:32.117-03:00
+modified: 2026-04-29T14:05:36.660-03:00
 tags:
   - mineria
   - oro

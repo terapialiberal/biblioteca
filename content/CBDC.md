@@ -5,7 +5,7 @@ aliases:
   - CBDC (Moneda Digital de Banco Central)
   - CBDCs
 created: 2026-01-29T19:17:07.062-03:00
-modified: 2026-04-22T16:39:08.101-03:00
+modified: 2026-04-22T16:39:13.276-03:00
 tags:
   - cbdc
   - dinero-programable

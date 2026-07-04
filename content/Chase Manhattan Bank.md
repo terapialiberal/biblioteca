@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-29T13:34:43.260-03:00
-modified: 2026-04-29T13:34:54.922-03:00
+modified: 2026-04-29T13:34:59.665-03:00
 tags:
   - organizacion
   - banca

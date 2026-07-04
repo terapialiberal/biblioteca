@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-25T14:51:36.180-03:00
-modified: 2026-05-02T18:37:29.297-03:00
+modified: 2026-05-02T18:25:51.668-03:00
 tags:
   - apple
   - microsoft

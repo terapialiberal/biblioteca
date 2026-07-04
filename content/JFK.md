@@ -5,7 +5,7 @@ aliases:
   - John F. Kennedy
   - John F. Kennedy (Asesinato)
 created: 2026-05-01T20:40:11.807-03:00
-modified: 2026-05-02T13:08:00.406-03:00
+modified: 2026-05-02T13:02:22.129-03:00
 tags:
   - jfk
   - kennedy

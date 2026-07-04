@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Intel
 created: 2026-05-01T17:35:43.179-03:00
-modified: 2026-05-02T13:08:13.617-03:00
+modified: 2026-05-02T13:03:40.393-03:00
 tags:
   - alias
   - legacy

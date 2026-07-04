@@ -4,7 +4,7 @@ aliases:
   - CIPS
   - Cross-Border Interbank Payment System
 created: 2026-01-29T19:17:37.014-03:00
-modified: 2026-04-22T09:59:36.029-03:00
+modified: 2026-04-22T09:59:43.570-03:00
 tags:
   - cips
   - china

@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Laura Richardson
 created: 2026-05-01T18:46:59.751-03:00
-modified: 2026-05-02T18:36:00.064-03:00
+modified: 2026-05-02T18:25:42.306-03:00
 tags:
   - actor
   - militar

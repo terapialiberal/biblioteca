@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Binance (Exchange)
 created: 2026-01-29T19:17:05.392-03:00
-modified: 2026-05-02T13:07:39.407-03:00
+modified: 2026-05-02T12:58:38.418-03:00
 tags:
   - binance
   - cripto

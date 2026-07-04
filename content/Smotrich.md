@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Bezalel Smotrich
 created: 2026-03-12T15:18:28.613-03:00
-modified: 2026-04-18T21:35:27.308-03:00
+modified: 2026-04-18T21:35:21.019-03:00
 tags:
   - smotrich
   - israel

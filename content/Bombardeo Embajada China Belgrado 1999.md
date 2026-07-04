@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Bombardeo de la OTAN a la Embajada China (Belgrado 1999)
 created: 2026-05-01T20:11:35.074-03:00
-modified: 2026-05-02T18:32:52.603-03:00
+modified: 2026-05-02T18:25:13.774-03:00
 tags:
   - evento
   - nato

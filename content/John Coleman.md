@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:19.762-03:00
-modified: 2026-05-02T18:35:42.821-03:00
+modified: 2026-05-02T18:25:37.451-03:00
 tags:
   - cartgrafo
   - coleman

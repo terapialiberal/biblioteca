@@ -4,7 +4,7 @@ aliases:
   - Panóptico Digital
   - "Panóptico Digital: El Ojo Que Está En Todas Partes"
 created: 2026-01-29T19:17:29.748-03:00
-modified: 2026-04-22T16:08:35.037-03:00
+modified: 2026-04-22T16:08:46.432-03:00
 tags:
   - panoptico-digital
   - vigilancia

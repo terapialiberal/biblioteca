@@ -5,7 +5,7 @@ aliases:
   - Beneficial owner
   - Beneficial ownership
 created: 2026-04-22T16:50:01.012-03:00
-modified: 2026-04-22T16:50:04.370-03:00
+modified: 2026-04-22T16:50:01.012-03:00
 tags:
   - beneficial-ownership
   - custodia

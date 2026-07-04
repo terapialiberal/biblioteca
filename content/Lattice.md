@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-20T09:57:45.128-03:00
-modified: 2026-04-20T09:57:45.578-03:00
+modified: 2026-04-20T09:57:45.128-03:00
 tags:
   - lattice
   - anduril

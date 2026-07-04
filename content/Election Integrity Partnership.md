@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Election Integrity Partnership (EIP)
 created: 2026-01-29T19:17:11.707-03:00
-modified: 2026-04-19T12:29:05.634-03:00
+modified: 2026-04-19T12:28:59.207-03:00
 tags:
   - eip
   - elecciones

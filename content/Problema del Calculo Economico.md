@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:31.464-03:00
-modified: 2026-05-02T18:40:19.439-03:00
+modified: 2026-05-02T18:25:56.959-03:00
 tags:
   - clculo
   - econmico

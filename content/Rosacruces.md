@@ -5,7 +5,7 @@ aliases:
   - Rosicrucians
   - Orden Rosacruz
 created: 2026-04-27T10:12:10.218-03:00
-modified: 2026-04-27T10:12:11.738-03:00
+modified: 2026-04-27T10:12:10.218-03:00
 tags:
   - rosacruces
   - rosacrucismo

@@ -4,7 +4,7 @@ aliases:
   - Canal de Panamá (Logística de Poder)
   - Canal de Panamá (El patio trasero de EEUU)
 created: 2026-04-29T14:05:24.854-03:00
-modified: 2026-05-02T13:47:21.663-03:00
+modified: 2026-05-02T13:47:16.839-03:00
 tags:
   - canal-panama
   - chokepoint

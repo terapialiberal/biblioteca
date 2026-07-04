@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Maoísmo
 created: 2026-05-01T18:48:07.667-03:00
-modified: 2026-05-02T18:36:08.450-03:00
+modified: 2026-05-02T18:25:44.755-03:00
 tags:
   - ideologia
   - comunismo

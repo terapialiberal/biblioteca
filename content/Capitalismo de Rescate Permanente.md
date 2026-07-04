@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Capitalismo de Rescate Permanente
 created: 2026-05-01T20:10:39.544-03:00
-modified: 2026-05-02T18:33:14.637-03:00
+modified: 2026-05-02T18:25:14.668-03:00
 tags:
   - concepto
   - finanzas

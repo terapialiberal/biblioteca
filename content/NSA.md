@@ -4,7 +4,7 @@ aliases:
   - NSA
   - National Security Agency
 created: 2026-04-19T12:55:10.792-03:00
-modified: 2026-05-02T13:08:27.394-03:00
+modified: 2026-05-02T13:07:08.796-03:00
 tags:
   - alias
   - legacy

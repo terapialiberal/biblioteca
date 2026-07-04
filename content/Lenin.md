@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Vladimir Lenin
 created: 2026-05-01T20:40:39.676-03:00
-modified: 2026-05-02T13:07:56.432-03:00
+modified: 2026-05-02T13:01:42.825-03:00
 tags:
   - lenin
   - urss

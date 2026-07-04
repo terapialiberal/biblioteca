@@ -4,7 +4,7 @@ aliases:
   - Hegemonia
   - Hegemonía (Concepto)
 created: 2026-05-01T20:47:06.673-03:00
-modified: 2026-05-02T13:06:48.396-03:00
+modified: 2026-05-02T12:41:35.453-03:00
 tags:
   - hegemonia
   - poder

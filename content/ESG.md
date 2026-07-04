@@ -4,7 +4,7 @@ aliases:
   - ESG (Environmental Social Governance)
   - Environmental Social Governance
 created: 2026-01-29T19:17:12.243-03:00
-modified: 2026-05-02T13:07:15.517-03:00
+modified: 2026-05-02T12:50:43.444-03:00
 tags:
   - esg
   - finanzas

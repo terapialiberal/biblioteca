@@ -4,7 +4,7 @@ aliases:
   - DEI (Diversidad Equidad Inclusión)
   - Diversidad Equidad Inclusión
 created: 2026-05-01T20:42:31.788-03:00
-modified: 2026-05-02T13:07:17.350-03:00
+modified: 2026-05-02T12:50:43.522-03:00
 tags:
   - dei
   - cultura-corporativa

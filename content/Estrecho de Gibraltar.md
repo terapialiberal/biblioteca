@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Estrecho de Gibraltar (La llave del Mediterráneo)
 created: 2026-01-29T19:17:12.489-03:00
-modified: 2026-04-21T12:53:21.917-03:00
+modified: 2026-04-21T12:53:28.884-03:00
 tags:
   - estrecho-de-gibraltar
   - chokepoint

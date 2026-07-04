@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Brian Armstrong
 created: 2026-05-01T19:09:47.884-03:00
-modified: 2026-05-02T18:32:59.557-03:00
+modified: 2026-05-02T18:25:14.034-03:00
 tags:
   - actor
   - cripto

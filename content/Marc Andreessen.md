@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:23.710-03:00
-modified: 2026-04-07T12:43:58.023-03:00
+modified: 2026-07-03T14:43:24.421-03:00
 tags:
   - marc-andreessen
   - a16z
@@ -29,3 +29,12 @@ Andreessen importa en TL como figura que convierte capital de riesgo en planific
 ## Observación operativa
 
 En TL interesa menos como empresario aislado y más como gatekeeper de qué tecnologías reciben escala, legitimidad y protección política.
+
+---
+
+## PAX SILICA (2026-06-26)
+
+- **Defense Policy Board:** Nombrado por Secretario de Defensa Pete Hegseth el 2-jul-2026 como asesor oficial del Pentágono en seguridad nacional.
+- **Fusión SV-Pentágono:** Su nombramiento cierra el triángulo: Vance (Casa Blanca) + Helberg (State Dept) + Andreessen (Pentágono).
+- **Aceleracionismo:** Promotor del manifiesto tecno-optimista y e/acc. Su llegada al Pentágono es la llegada del aceleracionismo a la defensa nacional.
+- **Fuentes:** Nik/X, transcript-1.txt \[112:59]

@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Bab el Mandeb
 created: 2026-01-29T19:17:04.623-03:00
-modified: 2026-05-02T13:48:42.517-03:00
+modified: 2026-05-02T13:48:37.781-03:00
 tags:
   - bab-el-mandeb
   - chokepoint

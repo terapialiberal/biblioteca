@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:38.527-03:00
-modified: 2026-04-22T16:33:00.173-03:00
+modified: 2026-04-22T16:33:06.062-03:00
 tags:
   - tecnocracia
   - control

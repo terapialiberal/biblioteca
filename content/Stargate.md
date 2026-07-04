@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-05-01T17:35:08.852-03:00
-modified: 2026-05-02T18:43:04.746-03:00
+modified: 2026-05-02T18:26:08.588-03:00
 tags:
   - alias
   - tecnologia

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-29T13:34:40.117-03:00
-modified: 2026-05-02T18:34:33.393-03:00
+modified: 2026-05-02T18:25:20.363-03:00
 tags:
   - alias
   - memoria-operativa

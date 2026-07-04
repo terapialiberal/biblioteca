@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Noam Chomsky
 created: 2026-05-01T20:16:31.336-03:00
-modified: 2026-05-02T13:44:50.349-03:00
+modified: 2026-05-02T13:44:42.530-03:00
 tags:
   - chomsky
   - medios

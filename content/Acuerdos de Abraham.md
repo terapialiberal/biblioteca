@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-05-27T10:25:38.062-03:00
-modified: 2026-05-27T10:25:38.433-03:00
+modified: 2026-05-27T10:25:38.062-03:00
 tags:
   - acuerdos-abraham
   - imec

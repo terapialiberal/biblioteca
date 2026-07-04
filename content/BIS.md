@@ -4,7 +4,7 @@ aliases:
   - BIS
   - Bank for International Settlements
 created: 2026-01-29T19:17:05.462-03:00
-modified: 2026-05-02T13:08:18.447-03:00
+modified: 2026-05-02T13:05:22.727-03:00
 tags:
   - alias
   - legacy

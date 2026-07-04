@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:05:12.041-03:00
-modified: 2026-05-02T18:46:35.855-03:00
+modified: 2026-05-02T18:26:16.588-03:00
 tags:
   - categora-finanzas
   - categora-historia

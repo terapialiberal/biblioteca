@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:03.238-03:00
-modified: 2026-04-24T10:22:22.440-03:00
+modified: 2026-04-24T10:22:29.351-03:00
 tags:
   - alex-karp
   - palantir

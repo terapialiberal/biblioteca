@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-20T11:09:20.995-03:00
-modified: 2026-04-20T11:10:45.840-03:00
+modified: 2026-04-20T11:10:54.714-03:00
 tags:
   - schedule-f
   - burocracia

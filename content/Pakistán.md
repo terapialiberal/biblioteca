@@ -4,7 +4,7 @@ aliases:
   - Pakistan
   - Pakistán (Geopolítica)
 created: 2026-04-29T15:32:15.779-03:00
-modified: 2026-05-02T13:07:51.433-03:00
+modified: 2026-05-02T13:01:00.744-03:00
 tags:
   - pakistan
   - asia

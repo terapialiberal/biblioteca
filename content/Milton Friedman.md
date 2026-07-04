@@ -3,7 +3,7 @@ publish: true
 aliases:
   - "Milton Friedman: El Mercenario Academico Del Neoliberalismo"
 created: 2026-01-29T19:17:25.329-03:00
-modified: 2026-04-18T18:17:14.884-03:00
+modified: 2026-04-18T18:17:08.583-03:00
 tags:
   - milton-friedman
   - escuela-de-chicago

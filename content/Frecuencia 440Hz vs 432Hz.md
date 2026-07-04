@@ -4,7 +4,7 @@ aliases:
   - Frecuencia 440Hz Vs 432Hz
   - 432Hz vs 440Hz
 created: 2026-02-25T22:08:57.804-03:00
-modified: 2026-04-27T10:35:56.915-03:00
+modified: 2026-04-27T10:36:06.749-03:00
 tags:
   - 432hz
   - 440hz

@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Arthur Shapiro
 created: 2026-05-01T18:51:21.136-03:00
-modified: 2026-05-02T18:31:53.514-03:00
+modified: 2026-05-02T18:25:12.255-03:00
 tags:
   - actor
   - academia

@@ -3,7 +3,7 @@ publish: true
 aliases:
   - NVIDIA
 created: 2026-01-29T19:17:27.663-03:00
-modified: 2026-05-02T13:08:11.580-03:00
+modified: 2026-05-02T13:04:15.875-03:00
 tags:
   - nvidia
   - chips

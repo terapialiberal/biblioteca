@@ -4,7 +4,7 @@ aliases:
   - El Grito Primal (Catarsis)
   - Primal scream
 created: 2026-02-25T22:08:54.413-03:00
-modified: 2026-04-27T10:51:04.781-03:00
+modified: 2026-04-27T10:51:17.638-03:00
 tags:
   - grito-primal
   - catarsis

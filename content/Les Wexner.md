@@ -1,14 +1,12 @@
 ---
+titulo: Les Wexner
+tipo: persona
+fecha: 2026-04-17
+tier_primario: a
+nivel_evidencia: medio
+estado: activo
+tags: [les-wexner, epstein, mega-group, victoria-secret, captura, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:22.276-03:00
-modified: 2026-04-17T13:46:25.785-03:00
-tags:
-  - les-wexner
-  - epstein
-  - mega-group
-  - victoria-secret
-  - captura
-  - tl-intel-v3
 ---
 
 # Les Wexner
@@ -52,3 +50,14 @@ La lectura TL fuerte no necesita afirmar control total de Wexner sobre todo el s
 - [[Victoria's Secret]]
 - [[Kompromat]]
 - [[Honey Pot]]
+
+## Casos TL relacionados
+
+- [[06_Videos_Publicados/2025/2025-12-04_Jeffrey_NO_es_lo_que_parece/POSTMORTEM_INTEL.md|Jeffrey Epstein]] — Wexner como nodo financiero primario. The Limited, Southern Air Transport, Mega Group. Estado: observación.
+
+## Conexiones nuevas
+
+- [[Mega Group]] — fundador.
+- [[El Pulpo (Casolaro)]] — Wexner → SAT → Iran-Contra → BCCI.
+- [[Roy Cohn]] — puente legal a Trump.
+- [[Fixer (Activo de Inteligencia)]] — financiador del fixer.

@@ -3,7 +3,7 @@ publish: true
 aliases:
   - HSBC Holdings
 created: 2026-01-29T19:17:17.510-03:00
-modified: 2026-05-02T13:08:25.435-03:00
+modified: 2026-05-02T13:06:23.447-03:00
 tags:
   - hsbc
   - banca

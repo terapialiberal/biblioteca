@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Coinbase (Exchange)
 created: 2026-01-29T19:17:08.136-03:00
-modified: 2026-05-02T13:07:39.446-03:00
+modified: 2026-05-02T12:57:07.423-03:00
 tags:
   - coinbase
   - cripto

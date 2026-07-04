@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Cambridge Analytica / PsyOps
 created: 2026-05-01T19:12:08.594-03:00
-modified: 2026-05-02T13:54:33.538-03:00
+modified: 2026-05-02T13:54:27.845-03:00
 tags:
   - cambridge-analytica
   - psyops

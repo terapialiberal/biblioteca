@@ -4,7 +4,7 @@ aliases:
   - El Mercurio De Los Sabios (Capital Flotante)
   - Mercurio de los Sabios
 created: 2026-02-25T22:08:51.421-03:00
-modified: 2026-04-27T10:32:38.810-03:00
+modified: 2026-04-27T10:32:49.904-03:00
 tags:
   - mercurio-de-los-sabios
   - alquimia

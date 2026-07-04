@@ -1,16 +1,12 @@
 ---
+titulo: Howard Lutnick
+tipo: persona
+fecha: 2026-04-18
+estado: activo
+aliases: ["Howard Lutnick: el Guardian del Tesoro Digital"]
+tags: [howard-lutnick, cantor-fitzgerald, stablecoins, treasuries, comercio-eeuu, tl-intel-v3]
 publish: true
-aliases:
-  - "Howard Lutnick: el Guardian del Tesoro Digital"
-created: 2026-01-29T19:17:17.466-03:00
-modified: 2026-05-27T10:17:22.110-03:00
-tags:
-  - howard-lutnick
-  - cantor-fitzgerald
-  - stablecoins
-  - treasuries
-  - comercio-eeuu
-  - tl-intel-v3
+last_stream: "[[06_Videos_Publicados/2026/2026-05-26_La_Trampa_de_Ormuz/00_ARCHIVO_2026-05-26_La_Trampa_de_Ormuz|ARCHIVO: La Trampa de Ormuz]]"
 ---
 
 # Howard Lutnick
@@ -54,3 +50,13 @@ Leido con [[Scott Bessent]], el nodo deja de ser un nombre aislado y pasa a form
 - [[Stablecoin Regulation US]]
 - [[Treasuries]]
 - [[Donald Trump]]
+
+## Casos TL relacionados
+
+- [[06_Videos_Publicados/2025/2025-12-04_Jeffrey_NO_es_lo_que_parece/POSTMORTEM_INTEL.md|Jeffrey Epstein]] — Lutnick usó 9/11 para migrar a eSpeed. Cortó sueldos de fallecidos 4 días después. Estado: observación.
+- [[06_Videos_Publicados/2026/2026-06-17_Endgame_Ormuz/POSTMORTEM_INTEL.md|Endgame Ormuz]] — Lutnick en gabinete Trump 2025. Estado: confirmado.
+
+## Conexiones nuevas
+
+- [[Red Anfibia]] — beneficiario de 9/11 y operador en gabinete Trump.
+- [[Jeffrey Epstein]] — misma red Wexner/Mega Group.

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-25T14:22:57.642-03:00
-modified: 2026-05-02T18:42:42.770-03:00
+modified: 2026-05-02T18:26:07.537-03:00
 tags:
   - bill
   - modular

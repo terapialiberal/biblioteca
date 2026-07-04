@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:31.134-03:00
-modified: 2026-05-02T18:40:10.452-03:00
+modified: 2026-05-02T18:25:56.425-03:00
 tags:
   - ludwig
   - lgica

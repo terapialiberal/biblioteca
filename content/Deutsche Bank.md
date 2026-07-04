@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Deutsche
 created: 2026-01-29T19:17:10.176-03:00
-modified: 2026-05-02T13:08:26.560-03:00
+modified: 2026-05-02T13:06:23.401-03:00
 tags:
   - deutsche-bank
   - banca

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-17T13:00:31.273-03:00
-modified: 2026-04-20T10:43:49.066-03:00
+modified: 2026-06-11T14:33:54.955-03:00
 tags:
   - project-2025
   - heritage
@@ -48,3 +48,7 @@ Su valor crece porque ofrece un punto de encuentro entre conservadurismo institu
 - [[JD Vance]]
 - [[Donald Trump]]
 - [[Palantir]]
+
+## Casos relacionados
+
+- [[06_Videos_Publicados/2026/2026-04-07_NWO_Energetico_Blueprint/POSTMORTEM_INTEL|NWO Energético Blueprint]] (7 abr 2026) — Heritage/Project 2025 conecta modelización de crisis (wargame 2007) con ejecución estatal. Mercer, P2025 staffeando el Ejecutivo.

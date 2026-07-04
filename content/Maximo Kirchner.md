@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Máximo Kirchner
 created: 2026-01-29T19:17:26.195-03:00
-modified: 2026-04-18T11:50:16.608-03:00
+modified: 2026-04-18T11:50:10.740-03:00
 tags:
   - argentina
   - kirchnerismo

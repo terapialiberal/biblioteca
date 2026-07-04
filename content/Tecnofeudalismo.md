@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:38.560-03:00
-modified: 2026-04-19T12:41:24.314-03:00
+modified: 2026-04-19T12:41:18.085-03:00
 tags:
   - tecnofeudalismo
   - plataformas

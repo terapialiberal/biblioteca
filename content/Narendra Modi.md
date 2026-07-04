@@ -3,7 +3,7 @@ publish: true
 aliases:
   - "Narendra Modi: El Gestor Del Panoptico Biometrico"
 created: 2026-01-29T19:17:26.361-03:00
-modified: 2026-04-24T10:40:25.684-03:00
+modified: 2026-04-24T10:40:32.534-03:00
 tags:
   - narendra-modi
   - india

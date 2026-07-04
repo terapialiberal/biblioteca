@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Kuwait (Petróleo)
 created: 2026-05-01T20:44:24.579-03:00
-modified: 2026-05-02T13:07:11.581-03:00
+modified: 2026-05-02T12:49:52.194-03:00
 tags:
   - kuwait
   - golfo

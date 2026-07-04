@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Neoliberalismo (Doctrina Económica)
 created: 2026-01-29T19:17:26.601-03:00
-modified: 2026-05-02T13:07:20.561-03:00
+modified: 2026-05-02T12:51:27.015-03:00
 tags:
   - neoliberalismo
   - economia

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-29T13:53:50.739-03:00
-modified: 2026-04-29T13:53:53.924-03:00
+modified: 2026-04-29T13:53:50.739-03:00
 tags:
   - sociologia
   - fragmentacion

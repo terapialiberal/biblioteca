@@ -4,7 +4,7 @@ aliases:
   - FCA (Financial Conduct Authority)
   - Financial Conduct Authority
 created: 2026-05-01T20:37:34.565-03:00
-modified: 2026-05-02T13:43:31.210-03:00
+modified: 2026-05-02T13:43:26.045-03:00
 tags:
   - fca
   - regulacion

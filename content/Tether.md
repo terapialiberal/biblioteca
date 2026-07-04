@@ -4,7 +4,7 @@ aliases:
   - Tether (USDT)
   - USDT
 created: 2026-01-29T19:17:39.358-03:00
-modified: 2026-05-02T13:07:39.443-03:00
+modified: 2026-05-02T12:57:07.343-03:00
 tags:
   - tether
   - usdt

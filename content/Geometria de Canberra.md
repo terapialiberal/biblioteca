@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Geometría de Canberra
 created: 2026-02-25T22:08:52.846-03:00
-modified: 2026-04-27T10:37:48.743-03:00
+modified: 2026-04-27T10:37:56.842-03:00
 tags:
   - canberra
   - urbanismo

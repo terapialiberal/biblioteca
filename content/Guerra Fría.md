@@ -4,7 +4,7 @@ aliases:
   - Guerra Fria
   - Guerra Fría (1947-1991)
 created: 2026-04-29T13:20:55.177-03:00
-modified: 2026-05-02T13:07:28.402-03:00
+modified: 2026-05-02T12:55:31.995-03:00
 tags:
   - guerra-fria
   - eeuu

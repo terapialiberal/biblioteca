@@ -4,7 +4,7 @@ aliases:
   - Antartida
   - Antártida (Tratado y Recursos)
 created: 2026-05-01T20:45:11.434-03:00
-modified: 2026-05-02T13:07:02.506-03:00
+modified: 2026-05-02T12:42:17.629-03:00
 tags:
   - antartida
   - recursos

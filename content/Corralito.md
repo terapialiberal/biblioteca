@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Corralito (2001)
 created: 2026-01-29T19:17:08.810-03:00
-modified: 2026-04-18T11:45:50.813-03:00
+modified: 2026-04-18T11:45:42.678-03:00
 tags:
   - argentina
   - corralito

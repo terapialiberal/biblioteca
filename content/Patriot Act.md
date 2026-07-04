@@ -3,7 +3,7 @@ publish: true
 aliases:
   - USA PATRIOT Act
 created: 2026-01-29T19:17:29.930-03:00
-modified: 2026-04-18T18:31:49.183-03:00
+modified: 2026-04-18T18:31:42.634-03:00
 tags:
   - patriot-act
   - vigilancia

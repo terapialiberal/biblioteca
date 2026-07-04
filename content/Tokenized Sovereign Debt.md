@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Deuda Soberana Tokenizada
 created: 2026-02-25T15:50:41.672-03:00
-modified: 2026-04-22T16:40:43.023-03:00
+modified: 2026-04-22T16:40:48.902-03:00
 tags:
   - deuda-soberana
   - tokenizacion

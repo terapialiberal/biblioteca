@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Ariel Sharon
 created: 2026-05-01T18:54:14.345-03:00
-modified: 2026-05-02T18:31:51.453-03:00
+modified: 2026-05-02T18:25:12.191-03:00
 tags:
   - actor
   - israel

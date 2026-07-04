@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Bayer / Monsanto
 created: 2026-05-01T19:12:11.454-03:00
-modified: 2026-05-02T13:53:52.426-03:00
+modified: 2026-05-02T13:53:47.511-03:00
 tags:
   - bayer
   - monsanto

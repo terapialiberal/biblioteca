@@ -3,7 +3,7 @@ publish: true
 aliases:
   - PIIE
 created: 2026-01-29T19:17:30.447-03:00
-modified: 2026-04-21T13:01:59.728-03:00
+modified: 2026-04-21T13:02:07.250-03:00
 tags:
   - piie
   - economia-global

@@ -3,7 +3,7 @@ publish: true
 aliases:
   - ING Group
 created: 2026-05-01T20:16:00.260-03:00
-modified: 2026-05-02T13:08:31.605-03:00
+modified: 2026-05-02T13:06:23.675-03:00
 tags:
   - ing
   - banca

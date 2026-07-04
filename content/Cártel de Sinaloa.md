@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Cartel de Sinaloa
 created: 2026-05-01T20:10:13.910-03:00
-modified: 2026-05-02T13:48:04.000-03:00
+modified: 2026-05-02T13:47:57.285-03:00
 tags:
   - cartel-sinaloa
   - narcotrafico

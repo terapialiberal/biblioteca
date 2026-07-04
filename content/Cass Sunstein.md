@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-29T13:53:50.897-03:00
-modified: 2026-04-29T13:53:55.060-03:00
+modified: 2026-04-29T13:53:50.897-03:00
 tags:
   - behavioral-economics
   - nudge

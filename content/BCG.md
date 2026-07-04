@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-29T14:05:24.547-03:00
-modified: 2026-04-29T14:05:32.241-03:00
+modified: 2026-04-29T14:05:36.751-03:00
 tags:
   - consultoria
   - management

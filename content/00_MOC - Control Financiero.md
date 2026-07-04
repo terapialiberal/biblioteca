@@ -359,8 +359,6 @@ tags: [moc, control-financiero, deuda, banca, tl-intel-v3]
 
 - [[Clinton.md|Clinton]]
 
-- [[05_Fuentes/03_Compiladas/Como la casa de Rothschild se entrelazo con Epstein.md|Como la casa de Rothschild se entrelazo con Epstein]]
-
 - [[Credit Default Swap.md|Credit Default Swap]]
 
 - [[Credit Suisse.md|Credit Suisse]]
@@ -386,12 +384,6 @@ tags: [moc, control-financiero, deuda, banca, tl-intel-v3]
 - [[Dinero Programable.md|Dinero Programable]]
 
 - [[Domingo Cavallo.md|Domingo Cavallo]]
-
-- [[05_Fuentes/03_Compiladas/El BIS defiende un libro mayor unificado pero describe las criptomonedas como un sistema defectuoso.md|El BIS defiende un libro mayor unificado pero describe las criptomonedas como un sistema defectuoso]]
-
-- [[05_Fuentes/03_Compiladas/El giro histórico de Jamie Dimon reconoce la superioridad del ecosistema cripto.md|El giro histórico de Jamie Dimon reconoce la superioridad del ecosistema cripto]]
-
-- [[05_Fuentes/03_Compiladas/El Patrón Scott Bessent y la Corrupción en el Tesoro de EE. UU.md|El Patrón Scott Bessent y la Corrupción en el Tesoro de EE. UU]]
 
 - [[Elliott Management.md|Elliott Management]]
 
@@ -451,21 +443,7 @@ tags: [moc, control-financiero, deuda, banca, tl-intel-v3]
 
 - [[Kuhn, Loeb & Co..md|Kuhn, Loeb & Co.]]
 
-- [[05_Fuentes/03_Compiladas/La calidad ya no es de calidad ¿por qué los inversores escapan del Tesoro de EE. UU.md|La calidad ya no es de calidad ¿por qué los inversores escapan del Tesoro de EE. UU]]
-
-- [[05_Fuentes/03_Compiladas/La CFTC pone en marcha un programa piloto para utilizar garantías de criptomonedas en los mercados de derivados.md|La CFTC pone en marcha un programa piloto para utilizar garantías de criptomonedas en los mercados de derivados]]
-
-- [[05_Fuentes/03_Compiladas/La Fed considera cuentas de pago 'reducidas' para ampliar el acceso al sistema bancario.md|La Fed considera cuentas de pago 'reducidas' para ampliar el acceso al sistema bancario]]
-
-- [[05_Fuentes/03_Compiladas/La Gran Expropiación.md|La Gran Expropiación]]
-
-- [[05_Fuentes/03_Compiladas/La Inminente Tormenta Perfecta Dólar y Petróleo en Contrasentido.md|La Inminente Tormenta Perfecta Dólar y Petróleo en Contrasentido]]
-
-- [[05_Fuentes/03_Compiladas/La potencia de cómputo ¿la próxima gran clase de activos según Larry Fink.md|La potencia de cómputo ¿la próxima gran clase de activos según Larry Fink]]
-
 - [[Larry Fink.md|Larry Fink]]
-
-- [[05_Fuentes/03_Compiladas/Las afirmaciones de sexo con menores sacuden al grupo de Bitcoin.md|Las afirmaciones de sexo con menores sacuden al grupo de Bitcoin]]
 
 - [[Lavado de Dinero.md|Lavado de Dinero]]
 
@@ -474,8 +452,6 @@ tags: [moc, control-financiero, deuda, banca, tl-intel-v3]
 - [[Ley Glass-Steagall.md|Ley Glass-Steagall]]
 
 - [[Long-Term Capital Management.md|Long-Term Capital Management]]
-
-- [[05_Fuentes/03_Compiladas/Los correos electronicos de Epstein arrojan una la.md|Los correos electronicos de Epstein arrojan una la]]
 
 - [[Luxemburgo.md|Luxemburgo]]
 
@@ -493,11 +469,9 @@ tags: [moc, control-financiero, deuda, banca, tl-intel-v3]
 
 - [[Nicholas Brady.md|Nicholas Brady]]
 
-- [[02_Research/2026-04-23_Gran_Reajuste_Monetario/NOTA_TESIS_AMPLIADA_Gran_Reajuste_v4.md|NOTA_TESIS_AMPLIADA_Gran_Reajuste_v4]]
+- [[02_Preproduccion/2026-04-23_Gran_Reajuste_Monetario/NOTA_TESIS_AMPLIADA_Gran_Reajuste_v4.md|NOTA_TESIS_AMPLIADA_Gran_Reajuste_v4]]
 
 - [[06_Videos_Publicados/2026/2026-04-15_LAS GUERRAS MAGA/NOTA_TESIS_Bretton_Woods_2_Petrodolar_Deuda.md|NOTA_TESIS_Bretton_Woods_2_Petrodolar_Deuda]]
-
-- [[05_Fuentes/03_Compiladas/Nuevos correos revelan que Epstein financio indire.md|Nuevos correos revelan que Epstein financio indire]]
 
 - [[Panico de 1907.md|Panico de 1907]]
 
@@ -505,11 +479,15 @@ tags: [moc, control-financiero, deuda, banca, tl-intel-v3]
 
 - [[06_Videos_Publicados/2026/2026-01-07_Gaza_SA/Post Gaza SA.md|Post Gaza SA]]
 
-- [[02_Research/2026-04-23_Gran_Reajuste_Monetario/PRE_STREAM_Gran_Reajuste.md|PRE_STREAM_Gran_Reajuste]]
+- [[02_Preproduccion/2026-04-23_Gran_Reajuste_Monetario/PRE_STREAM_Gran_Reajuste.md|PRE_STREAM_Gran_Reajuste]]
+
+- [[Propiedad Común como Gobierno Indirecto.md|Propiedad Común como Gobierno Indirecto]]
 
 - [[Proporcion 1.618 en HFT.md|Proporcion 1.618 en HFT]]
 
 - [[Quantitative Easing.md|Quantitative Easing]]
+
+- [[Reordenamiento_Global.md|Reordenamiento_Global]]
 
 - [[Repo Market.md|Repo Market]]
 
@@ -550,7 +528,5 @@ tags: [moc, control-financiero, deuda, banca, tl-intel-v3]
 - [[Vanguard & State Street.md|Vanguard & State Street]]
 
 - [[Wells Fargo.md|Wells Fargo]]
-
-- [[05_Fuentes/03_Compiladas/Winds of Change The Case for New Digital Currency by Christine Lagarde.md|Winds of Change The Case for New Digital Currency by Christine Lagarde]]
 
 - [[Yield Curve.md|Yield Curve]]

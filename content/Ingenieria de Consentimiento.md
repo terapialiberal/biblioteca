@@ -1,14 +1,12 @@
 ---
+titulo: Ingenieria de Consentimiento
+tipo: concepto
+fecha: 2026-04-19
+tier_primario: b
+nivel_evidencia: alto
+estado: activo
+tags: [consentimiento, bernays, propaganda, percepcion, control-social, tl-intel-v3]
 publish: true
-created: 2026-02-25T22:08:52.369-03:00
-modified: 2026-04-19T12:06:45.844-03:00
-tags:
-  - consentimiento
-  - bernays
-  - propaganda
-  - percepcion
-  - control-social
-  - tl-intel-v3
 ---
 
 # Ingenieria de Consentimiento
@@ -55,3 +53,13 @@ En TL, el salto contemporáneo no invalida el concepto: lo vuelve granular. Plat
 - [[Manufactura de Consenso]]
 - [[Narrativa Unica]]
 - [[NewsGuard]]
+
+## Casos TL relacionados
+
+- [[06_Videos_Publicados/2025/2025-10-11_PSYOPS_Y_GUERRA_CIVIL/POSTMORTEM_INTEL.md|PSYOPs y Guerra Civil]] — Bernays como origen reusable. Continuidad Gladio → polarización administrada. Estado: refuerza.
+- [[06_Videos_Publicados/2026/2026-02-05_Caos_Controlado/POSTMORTEM_INTEL.md|Caos Controlado]] — caos como puerta de captura tecnocrática. Estado: refuerza.
+
+## Conexiones nuevas
+
+- [[Problema-Reacción-Solución]] — mecanismo operativo derivado.
+- [[Operacion Gladio]] — plantilla histórica.

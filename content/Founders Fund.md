@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:13.977-03:00
-modified: 2026-04-19T12:48:05.782-03:00
+modified: 2026-04-19T12:47:51.890-03:00
 tags:
   - founders-fund
   - venture-capital

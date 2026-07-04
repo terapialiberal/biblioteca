@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Marina Abramović y el Spirit Cooking
 created: 2026-02-25T22:23:20.170-03:00
-modified: 2026-05-02T14:03:50.858-03:00
+modified: 2026-05-02T14:03:46.554-03:00
 tags:
   - spirit-cooking
   - alias

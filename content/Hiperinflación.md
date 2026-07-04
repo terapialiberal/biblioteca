@@ -4,7 +4,7 @@ aliases:
   - Hiperinflacion
   - Hiperinflación (Fenómeno)
 created: 2026-05-01T20:45:43.734-03:00
-modified: 2026-05-02T12:40:40.247-03:00
+modified: 2026-05-02T12:22:02.996-03:00
 tags:
   - hiperinflacion
   - moneda

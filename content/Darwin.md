@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Charles Darwin
 created: 2026-05-01T20:17:25.340-03:00
-modified: 2026-05-02T13:44:04.921-03:00
+modified: 2026-05-02T13:44:01.497-03:00
 tags:
   - darwin
   - evolucion

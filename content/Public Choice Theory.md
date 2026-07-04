@@ -4,7 +4,7 @@ aliases:
   - "Public Choice Theory: el Desnudo del Leviatán"
   - Teoría de la Elección Pública
 created: 2026-01-29T19:17:32.194-03:00
-modified: 2026-04-21T13:11:12.386-03:00
+modified: 2026-04-21T13:11:20.653-03:00
 tags:
   - public-choice
   - economia-politica

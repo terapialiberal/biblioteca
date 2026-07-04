@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:27.135-03:00
-modified: 2026-05-02T18:36:35.083-03:00
+modified: 2026-05-02T18:25:49.917-03:00
 tags:
   - energa
   - nikola

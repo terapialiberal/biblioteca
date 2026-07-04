@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-29T14:05:24.897-03:00
-modified: 2026-04-29T14:05:34.348-03:00
+modified: 2026-04-29T14:05:40.037-03:00
 tags:
   - capitalismo
   - esg

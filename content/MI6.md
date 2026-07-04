@@ -4,7 +4,7 @@ aliases:
   - Secret Intelligence Service
   - SIS
 created: 2026-04-19T13:23:47.379-03:00
-modified: 2026-05-02T13:08:31.599-03:00
+modified: 2026-05-02T13:07:08.891-03:00
 tags:
   - mi6
   - inteligencia

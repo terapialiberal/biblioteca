@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Ernesto Che Guevara
 created: 2026-04-29T14:05:25.111-03:00
-modified: 2026-05-02T13:07:56.368-03:00
+modified: 2026-05-02T13:01:43.019-03:00
 tags:
   - che-guevara
   - cuba

@@ -3,7 +3,7 @@ publish: true
 aliases:
   - AT&T
 created: 2026-05-01T18:54:25.475-03:00
-modified: 2026-05-02T18:32:14.501-03:00
+modified: 2026-05-02T18:25:12.447-03:00
 tags:
   - empresa
   - telecomunicaciones

@@ -3,7 +3,7 @@ publish: true
 aliases:
   - SOUTHCOM
 created: 2026-04-18T12:30:14.331-03:00
-modified: 2026-04-18T12:30:14.331-03:00
+modified: 2026-04-18T12:30:14.845-03:00
 tags:
   - eeuu
   - comando-sur

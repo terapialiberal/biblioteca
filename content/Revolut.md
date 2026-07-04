@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Revolut (Neobanco)
 created: 2026-05-01T20:38:47.992-03:00
-modified: 2026-05-02T13:07:37.427-03:00
+modified: 2026-05-02T12:58:38.562-03:00
 tags:
   - revolut
   - fintech

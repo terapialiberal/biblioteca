@@ -1,18 +1,14 @@
 ---
+titulo: "BlackRock - Vanguard - State Street"
 publish: true
-aliases:
-  - Big Three
-  - La Trifecta Del Control Financiero
-  - "BlackRock - Vanguard - State Street: La Trifecta Del Control Financiero"
-created: 2026-01-29T19:17:05.549-03:00
-modified: 2026-04-17T13:46:26.746-03:00
-tags:
-  - big-three
-  - blackrock
-  - vanguard
-  - state-street
-  - control-financiero
-  - tl-intel-v3
+tipo: concepto
+fecha: 2026-04-07
+tier_primario: A
+moc_canonico: [[00_MOC - Control Financiero]]
+estado: activo
+aliases: ["Big Three", "La Trifecta Del Control Financiero", "BlackRock - Vanguard - State Street: La Trifecta Del Control Financiero"]
+fuentes_clave: []
+tags: [big-three, blackrock, vanguard, state-street, control-financiero, tl-intel-v3]
 ---
 
 # [[BlackRock - Vanguard - State Street]]
@@ -120,3 +116,12 @@ La `Big Three` beneficia a quienes necesitan que la economía real siga siendo f
 ## Observación Operativa
 
 Mirar la `Big Three` como bloque evita el error de personalizar demasiado el análisis. El poder relevante no está en una sola firma, sino en la convergencia estructural de las tres.
+
+## Casos TL relacionados
+
+- [[06_Videos_Publicados/2025/2025-11-12_Como_Funciona_el_Mundo/POSTMORTEM_INTEL.md|Como Funciona el Mundo]] — tríada como infraestructura de coordinación financiera distribuida. Estado: refuerza.
+- [[06_Videos_Publicados/2026/2026-06-10_Fitts_Pulte_Gran_Israel/POSTMORTEM_INTEL.md|Fitts-Pulte-Gran Israel]] — Fitts describe el mismo mecanismo. Estado: confirmado parcial.
+
+## Conexiones nuevas
+
+- [[Propiedad Común como Gobierno Indirecto]] — mecanismo formalizado.

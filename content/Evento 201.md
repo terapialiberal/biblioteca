@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Event 201
 created: 2026-01-29T19:17:12.728-03:00
-modified: 2026-04-18T10:41:26.961-03:00
+modified: 2026-04-18T10:41:18.740-03:00
 tags:
   - event-201
   - bioseguridad

@@ -4,7 +4,7 @@ aliases:
   - Bibi Netanyahu
   - Bibi
 created: 2026-01-29T19:17:05.174-03:00
-modified: 2026-04-18T21:37:32.454-03:00
+modified: 2026-06-30T21:11:47.268-03:00
 tags:
   - benjamin-netanyahu
   - israel
@@ -19,7 +19,7 @@ tags:
 
 ## BLUF
 
-[[Benjamin Netanyahu]] importa en TL como operador de larga duracion que convierte amenaza existencial, seguridad nacional y conflicto regional en mecanismo de supervivencia politica interna. Su centralidad no pasa solo por el cargo, sino por su capacidad de articular guerra, lobby externo y reordenamiento del tablero israeli.
+[[Benjamin Netanyahu]] importa en TL como operador de larga duracion que convierte amenaza existencial, seguridad nacional y conflicto regional en mecanismo de supervivencia politica interna. **Jun 2026**: Excluido del MoU EEUU-Irán (Israel no es signatario). Trump lo llamó "lunático". Encuesta interna Likud: 80.4% lo apoya, pero Israel Katz lidera escenario post-Bibi. Furia transversal en Jerusalem. La red de donantes (Adelson, Lauder, Thiel) que financia al Likud y al GOP simultáneamente puede cambiar la cara sin cambiar el proyecto. Elecciones antes del 27-oct-2026.
 
 ## Por que importa en TL
 

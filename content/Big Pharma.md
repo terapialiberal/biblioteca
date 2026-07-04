@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-21T13:20:12.944-03:00
-modified: 2026-04-22T11:15:49.968-03:00
+modified: 2026-04-22T11:15:55.156-03:00
 tags:
   - big-pharma
   - farmaceuticas

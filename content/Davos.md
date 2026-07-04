@@ -4,7 +4,7 @@ aliases:
   - Davos
   - Foro Económico Mundial
 created: 2026-05-01T20:39:25.075-03:00
-modified: 2026-05-02T13:08:33.413-03:00
+modified: 2026-05-02T13:08:01.020-03:00
 tags:
   - alias
   - legacy

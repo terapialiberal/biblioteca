@@ -5,7 +5,7 @@ aliases:
   - ODS
   - Objetivos de Desarrollo Sostenible
 created: 2026-01-29T19:17:03.003-03:00
-modified: 2026-05-02T13:07:15.439-03:00
+modified: 2026-05-02T12:50:43.184-03:00
 tags:
   - agenda-2030
   - onu

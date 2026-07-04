@@ -5,7 +5,7 @@ aliases:
   - Crack del 29
   - Crack de 1929 y Gran Depresión
 created: 2026-05-01T20:41:43.276-03:00
-modified: 2026-05-02T13:07:33.432-03:00
+modified: 2026-05-02T12:55:32.058-03:00
 tags:
   - gran-depresion
   - crisis

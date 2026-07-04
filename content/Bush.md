@@ -4,7 +4,7 @@ aliases:
   - George W. Bush
   - George Bush
 created: 2026-05-01T20:41:03.598-03:00
-modified: 2026-05-02T13:07:56.466-03:00
+modified: 2026-05-02T13:01:42.780-03:00
 tags:
   - bush
   - eeuu

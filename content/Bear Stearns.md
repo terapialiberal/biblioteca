@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-05-01T17:35:26.461-03:00
-modified: 2026-05-02T18:32:35.579-03:00
+modified: 2026-05-02T18:25:12.807-03:00
 tags:
   - entidad
   - finanzas

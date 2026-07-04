@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-29T13:21:45.538-03:00
-modified: 2026-04-29T13:25:20.260-03:00
+modified: 2026-04-29T13:25:25.164-03:00
 tags:
   - concepto
   - economia-politica

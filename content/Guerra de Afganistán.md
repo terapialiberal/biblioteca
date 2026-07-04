@@ -4,7 +4,7 @@ aliases:
   - Guerra de Afganistan
   - Guerra de Afganistán (2001-2021)
 created: 2026-05-01T20:41:54.119-03:00
-modified: 2026-05-02T13:07:30.529-03:00
+modified: 2026-05-02T12:58:38.032-03:00
 tags:
   - afganistan
   - guerra

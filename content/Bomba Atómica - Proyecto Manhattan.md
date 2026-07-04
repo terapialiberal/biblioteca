@@ -4,7 +4,7 @@ aliases:
   - Bomba Atómica / Proyecto Manhattan
   - Bomba Atomica / Proyecto Manhattan
 created: 2026-05-01T20:12:32.912-03:00
-modified: 2026-05-02T13:55:32.918-03:00
+modified: 2026-05-02T13:55:28.660-03:00
 tags:
   - alias
   - legacy

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:05.346-03:00
-modified: 2026-04-21T19:19:13.333-03:00
+modified: 2026-04-21T19:19:02.722-03:00
 tags:
   - bill-gates
   - microsoft

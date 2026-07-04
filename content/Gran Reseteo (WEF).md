@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-29T14:13:08.540-03:00
-modified: 2026-04-29T14:13:22.588-03:00
+modified: 2026-04-29T14:13:27.335-03:00
 tags:
   - wef
   - gobernanza-global

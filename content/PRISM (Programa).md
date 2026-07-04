@@ -4,7 +4,7 @@ aliases:
   - Programa PRISM
   - PRISM
 created: 2026-04-22T16:07:39.389-03:00
-modified: 2026-04-22T16:07:40.521-03:00
+modified: 2026-04-22T16:07:39.389-03:00
 tags:
   - prism
   - nsa

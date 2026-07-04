@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Blackstone / Stephen Schwarzman
 created: 2026-05-01T19:09:43.135-03:00
-modified: 2026-05-02T13:55:31.401-03:00
+modified: 2026-05-02T13:55:28.616-03:00
 tags:
   - alias
   - legacy

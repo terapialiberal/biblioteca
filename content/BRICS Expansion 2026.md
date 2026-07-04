@@ -3,7 +3,7 @@ publish: true
 aliases:
   - BRICS+ Expansion 2026
 created: 2026-02-09T17:26:02.046-03:00
-modified: 2026-04-24T12:18:15.835-03:00
+modified: 2026-04-24T12:18:24.405-03:00
 tags:
   - brics
   - expansion

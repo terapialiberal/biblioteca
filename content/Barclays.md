@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Barclays Bank
 created: 2026-01-29T19:17:04.815-03:00
-modified: 2026-05-02T13:08:31.428-03:00
+modified: 2026-05-02T13:06:23.584-03:00
 tags:
   - barclays
   - banca

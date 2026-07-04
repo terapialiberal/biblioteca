@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:10.374-03:00
-modified: 2026-05-02T18:34:13.281-03:00
+modified: 2026-05-02T18:24:39.521-03:00
 tags:
   - divide
   - loops

@@ -4,7 +4,7 @@ aliases:
   - chips
   - semiconductores
 created: 2026-04-29T14:52:50.102-03:00
-modified: 2026-05-02T13:08:21.498-03:00
+modified: 2026-05-02T13:04:16.192-03:00
 tags:
   - chips
   - semiconductores

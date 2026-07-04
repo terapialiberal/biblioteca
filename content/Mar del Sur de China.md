@@ -4,7 +4,7 @@ aliases:
   - Mar del Sur de China (Disputa)
   - South China Sea
 created: 2026-05-01T20:45:06.399-03:00
-modified: 2026-05-02T13:06:52.398-03:00
+modified: 2026-05-02T12:41:36.024-03:00
 tags:
   - mar-del-sur-de-china
   - china

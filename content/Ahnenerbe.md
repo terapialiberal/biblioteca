@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:03.061-03:00
-modified: 2026-05-02T18:30:36.487-03:00
+modified: 2026-05-02T18:24:14.470-03:00
 tags:
   - ahnenerbe
   - heinrich

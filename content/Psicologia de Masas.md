@@ -4,7 +4,7 @@ aliases:
   - Psicología de Masas
   - Mass psychology
 created: 2026-04-27T10:12:09.980-03:00
-modified: 2026-04-27T10:12:10.666-03:00
+modified: 2026-04-27T10:12:09.980-03:00
 tags:
   - psicologia-de-masas
   - propaganda

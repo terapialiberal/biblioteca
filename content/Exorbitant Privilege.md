@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Privilegio Exorbitante
 created: 2026-04-24T11:42:12.820-03:00
-modified: 2026-04-24T11:42:14.518-03:00
+modified: 2026-04-24T11:42:12.820-03:00
 tags:
   - exorbitant-privilege
   - dolar

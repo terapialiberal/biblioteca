@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Cartel de Cali
 created: 2026-05-01T20:10:16.852-03:00
-modified: 2026-05-02T13:48:03.963-03:00
+modified: 2026-05-02T13:47:57.239-03:00
 tags:
   - cartel-cali
   - narcotrafico

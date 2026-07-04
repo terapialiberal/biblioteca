@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-25T14:13:18.100-03:00
-modified: 2026-04-24T12:19:52.541-03:00
+modified: 2026-04-24T12:19:57.626-03:00
 tags:
   - cbdc-europeo
   - euro-digital

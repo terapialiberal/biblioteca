@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Guerra de Irak (2003)
 created: 2026-04-27T12:03:15.556-03:00
-modified: 2026-05-02T13:07:28.434-03:00
+modified: 2026-05-02T12:55:31.926-03:00
 tags:
   - irak
   - guerra

@@ -195,11 +195,9 @@ tags: [moc, tecnologia-de-control, ia, vigilancia, tl-intel-v3]
 
 - [[06_Videos_Publicados/2026/2026-04-13_Ormuz_IA_Orden/00_ARCHIVO_2026-04-13_Ormuz_IA_Orden.md|00_ARCHIVO_2026-04-13_Ormuz_IA_Orden]]
 
-- [[02_Research/2026-05-02_Nick_Land_Kabbalah_Thiel_SiliconValley/00_CONTROL_TEMA.md|00_CONTROL_TEMA]]
-
 - [[06_Videos_Publicados/2026/2026-04-13_Ormuz_IA_Orden/00_CONTROL_TEMA.md|00_CONTROL_TEMA]]
 
-- [[00_Home/00_ESTADO_OPERATIVO_IA.md|00_ESTADO_OPERATIVO_IA]]
+- [[99_AI/00_BOOT/00_ESTADO_OPERATIVO_IA.md|00_ESTADO_OPERATIVO_IA]]
 
 - [[99_AI/03_Prompts/00_INDICE_DE_PROMPTS_TL_V3.md|00_INDICE_DE_PROMPTS_TL_V3]]
 
@@ -212,8 +210,6 @@ tags: [moc, tecnologia-de-control, ia, vigilancia, tl-intel-v3]
 - [[Agencia de Seguridad Nacional.md|Agencia de Seguridad Nacional]]
 
 - [[Alan Turing.md|Alan Turing]]
-
-- [[05_Fuentes/03_Compiladas/Alaska avanza con la identidad digital impulsada por IA, plantea preocupaciones de privacidad.md|Alaska avanza con la identidad digital impulsada por IA, plantea preocupaciones de privacidad]]
 
 - [[Albert Bourla.md|Albert Bourla]]
 
@@ -229,13 +225,9 @@ tags: [moc, tecnologia-de-control, ia, vigilancia, tl-intel-v3]
 
 - [[Anthony Fauci.md|Anthony Fauci]]
 
-- [[05_Fuentes/03_Compiladas/ARCHIVO – Banderas de Estados Unidos y China en el Aeropuerto Internacional Gimhae en Busan, Corea del Sur, el 30 de octubre de 2025. (AP FotoMark Schiefelbein, Archivo).md|ARCHIVO – Banderas de Estados Unidos y China en el Aeropuerto Internacional Gimhae en Busan, Corea del Sur, el 30 de octubre de 2025. (AP FotoMark Schiefelbein, Archivo)]]
-
 - [[AT&T.md|AT&T]]
 
 - [[Baidu.md|Baidu]]
-
-- [[05_Fuentes/03_Compiladas/Bannon critica el corporativismo y la IA por destruir empleos y ahorros.md|Bannon critica el corporativismo y la IA por destruir empleos y ahorros]]
 
 - [[Behavioral Sponging.md|Behavioral Sponging]]
 
@@ -261,13 +253,9 @@ tags: [moc, tecnologia-de-control, ia, vigilancia, tl-intel-v3]
 
 - [[Broadcom.md|Broadcom]]
 
-- [[05_Fuentes/03_Compiladas/Brookfield Recablea la Economía Global para la Nueva Era de la IA.md|Brookfield Recablea la Economía Global para la Nueva Era de la IA]]
-
 - [[Cables submarinos el talon de Aquiles del mundo digital.md|Cables submarinos el talon de Aquiles del mundo digital]]
 
 - [[California.md|California]]
-
-- [[05_Fuentes/03_Compiladas/Cambio China hacia mercado interno.md|Cambio China hacia mercado interno]]
 
 - [[Carbine.md|Carbine]]
 
@@ -279,11 +267,7 @@ tags: [moc, tecnologia-de-control, ia, vigilancia, tl-intel-v3]
 
 - [[Centros de Datos de IA.md|Centros de Datos de IA]]
 
-- [[05_Fuentes/03_Compiladas/Centros de Datos Una Amenaza para el Agua, los Alimentos y Nuestro Futuro.md|Centros de Datos Una Amenaza para el Agua, los Alimentos y Nuestro Futuro]]
-
 - [[CEPI.md|CEPI]]
-
-- [[05_Fuentes/03_Compiladas/China accede a tecnologia nuclear de EEUU a traves.md|China accede a tecnologia nuclear de EEUU a traves]]
 
 - [[chips.md|chips]]
 
@@ -296,8 +280,6 @@ tags: [moc, tecnologia-de-control, ia, vigilancia, tl-intel-v3]
 - [[Citizen Lab.md|Citizen Lab]]
 
 - [[Clearview AI.md|Clearview AI]]
-
-- [[05_Fuentes/03_Compiladas/Cómo Silicon Valley se convirtió en el nuevo complejo militar-industrial.md|Cómo Silicon Valley se convirtió en el nuevo complejo militar-industrial]]
 
 - [[Computacion Espacial.md|Computacion Espacial]]
 
@@ -319,8 +301,6 @@ tags: [moc, tecnologia-de-control, ia, vigilancia, tl-intel-v3]
 
 - [[DARPA.md|DARPA]]
 
-- [[05_Fuentes/03_Compiladas/DARPA MAGICS busca un cambio de paradigma en la predicción del comportamiento humano colectivo.md|DARPA MAGICS busca un cambio de paradigma en la predicción del comportamiento humano colectivo]]
-
 - [[Data Centers.md|Data Centers]]
 
 - [[David Sacks.md|David Sacks]]
@@ -335,7 +315,7 @@ tags: [moc, tecnologia-de-control, ia, vigilancia, tl-intel-v3]
 
 - [[DNA Data Storage.md|DNA Data Storage]]
 
-- [[05_Fuentes/03_Compiladas/DÓNDE SE ENCUENTRAN LOS CENTROS DE DATOS DE I.A.md|DÓNDE SE ENCUENTRAN LOS CENTROS DE DATOS DE I.A]]
+- [[DNU 941.md|DNU 941]]
 
 - [[e-acc (Aceleracionismo Efectivo).md|e-acc (Aceleracionismo Efectivo)]]
 
@@ -345,31 +325,15 @@ tags: [moc, tecnologia-de-control, ia, vigilancia, tl-intel-v3]
 
 - [[Edward Snowden.md|Edward Snowden]]
 
-- [[05_Fuentes/03_Compiladas/EE.UU. lanza GenAI IA avanzada para potenciar a sus militares.md|EE.UU. lanza GenAI IA avanzada para potenciar a sus militares]]
-
 - [[El Algoritmo como Oraculo.md|El Algoritmo como Oraculo]]
 
-- [[05_Fuentes/03_Compiladas/El Ejército de EE. UU. planea abastecer bases con pequeños reactores nucleares.md|El Ejército de EE. UU. planea abastecer bases con pequeños reactores nucleares]]
-
-- [[05_Fuentes/03_Compiladas/El fin de la búsqueda ¿Por qué la IA busca controlar nuestra confianza.md|El fin de la búsqueda ¿Por qué la IA busca controlar nuestra confianza]]
-
-- [[05_Fuentes/03_Compiladas/El Gemelo Digital Social ¿Eficiencia o Control.md|El Gemelo Digital Social ¿Eficiencia o Control]]
-
-- [[05_Fuentes/03_Compiladas/El gobierno de EE. UU. ayudó a empresas estadounidenses a vender tecnología de vigilancia a China.md|El gobierno de EE. UU. ayudó a empresas estadounidenses a vender tecnología de vigilancia a China]]
-
-- [[05_Fuentes/03_Compiladas/El hombre de Trump en Asia Central.md|El hombre de Trump en Asia Central]]
-
 - [[El Retorno de los Vigilantes.md|El Retorno de los Vigilantes]]
-
-- [[05_Fuentes/03_Compiladas/El sueño de la Conciencia Total de la Información se hizo realidad, pero no en manos del gobierno.md|El sueño de la Conciencia Total de la Información se hizo realidad, pero no en manos del gobierno]]
 
 - [[Elon Musk (Análisis).md|Elon Musk (Análisis)]]
 
 - [[EMA.md|EMA]]
 
 - [[Erich Traub.md|Erich Traub]]
-
-- [[05_Fuentes/03_Compiladas/Europa ha perdido internet, advierte el responsable de ciberseguridad de Bélgica.md|Europa ha perdido internet, advierte el responsable de ciberseguridad de Bélgica]]
 
 - [[Event 201.md|Event 201]]
 
@@ -407,17 +371,11 @@ tags: [moc, tecnologia-de-control, ia, vigilancia, tl-intel-v3]
 
 - [[06_Videos_Publicados/2026/2026-04-13_Ormuz_IA_Orden/GROK_NOTA_TESIS_Ormuz_2026-04-13.md|GROK_NOTA_TESIS_Ormuz_2026-04-13]]
 
-- [[05_Fuentes/03_Compiladas/Grupo mediatico Trump acuerda una fusion de 6.000.md|Grupo mediatico Trump acuerda una fusion de 6.000]]
-
 - [[Guerra Biologica.md|Guerra Biologica]]
 
 - [[Guerra Biológica.md|Guerra Biológica]]
 
 - [[HAARP.md|HAARP]]
-
-- [[05_Fuentes/03_Compiladas/Hallazgos detallados de la investigacion de AP sob.md|Hallazgos detallados de la investigacion de AP sob]]
-
-- [[05_Fuentes/03_Compiladas/Harari y la vigilancia total El fin de la libertad a través del crédito social.md|Harari y la vigilancia total El fin de la libertad a través del crédito social]]
 
 - [[Helion.md|Helion]]
 
@@ -430,6 +388,8 @@ tags: [moc, tecnologia-de-control, ia, vigilancia, tl-intel-v3]
 - [[In-Q-Tel.md|In-Q-Tel]]
 
 - [[India.md|India]]
+
+- [[07_Informes/01_AMAGI/2026-07_JULIO/INFORME_AMAGI_Julio2026_v2.0.md|INFORME_AMAGI_Julio2026_v2.0]]
 
 - [[Infosys.md|Infosys]]
 
@@ -445,6 +405,8 @@ tags: [moc, tecnologia-de-control, ia, vigilancia, tl-intel-v3]
 
 - [[IoT y Animismo Tecnico.md|IoT y Animismo Tecnico]]
 
+- [[Jack Clark - Anthropic.md|Jack Clark - Anthropic]]
+
 - [[Jack Ma.md|Jack Ma]]
 
 - [[Jamal Khashoggi.md|Jamal Khashoggi]]
@@ -453,31 +415,15 @@ tags: [moc, tecnologia-de-control, ia, vigilancia, tl-intel-v3]
 
 - [[Jensen Huang.md|Jensen Huang]]
 
-- [[05_Fuentes/03_Compiladas/Jensen Huang (Nvidia) compara la minería de Bitcoin con el almacenamiento de energía.md|Jensen Huang (Nvidia) compara la minería de Bitcoin con el almacenamiento de energía]]
-
 - [[John Poindexter.md|John Poindexter]]
-
-- [[05_Fuentes/03_Compiladas/Klaus Schwab defiende la transparencia total en el nuevo orden mundial.md|Klaus Schwab defiende la transparencia total en el nuevo orden mundial]]
-
-- [[05_Fuentes/03_Compiladas/La crisis energética y la falta de escala El sombrío panorama de Eric Schmidt sobre la competencia global en IA.md|La crisis energética y la falta de escala El sombrío panorama de Eric Schmidt sobre la competencia global en IA]]
-
-- [[05_Fuentes/03_Compiladas/La opacidad de las Big Tech vínculos entre Silicon Valley, la CIA y el complejo militar-industrial.md|La opacidad de las Big Tech vínculos entre Silicon Valley, la CIA y el complejo militar-industrial]]
-
-- [[05_Fuentes/03_Compiladas/La Potencia de Cómputo Dará Lugar a una Nueva Clase de Activos, Según Larry Fink de BlackRock.md|La Potencia de Cómputo Dará Lugar a una Nueva Clase de Activos, Según Larry Fink de BlackRock]]
 
 - [[Lab Leak Theory.md|Lab Leak Theory]]
 
 - [[Landasoft.md|Landasoft]]
 
-- [[05_Fuentes/03_Compiladas/Las capacidades secretas de Palantir, según exoficial de la CIA.md|Las capacidades secretas de Palantir, según exoficial de la CIA]]
-
-- [[05_Fuentes/03_Compiladas/Las conexiones de Jeffrey Epstein en la industria de la vigilancia.md|Las conexiones de Jeffrey Epstein en la industria de la vigilancia]]
-
 - [[LessWrong.md|LessWrong]]
 
 - [[LifeLog.md|LifeLog]]
-
-- [[05_Fuentes/03_Compiladas/LifeLog el proyecto de DARPA que quería registrar toda tu vida mucho antes de Facebook.md|LifeLog el proyecto de DARPA que quería registrar toda tu vida mucho antes de Facebook]]
 
 - [[Linea de Tiempo - 1980s-2000s.md|Linea de Tiempo - 1980s-2000s]]
 
@@ -487,9 +433,9 @@ tags: [moc, tecnologia-de-control, ia, vigilancia, tl-intel-v3]
 
 - [[Los Papeles de Pfizer.md|Los Papeles de Pfizer]]
 
-- [[05_Fuentes/03_Compiladas/Los vínculos de Kevin Warsh con los tech bros Esto es lo que necesitas saber.md|Los vínculos de Kevin Warsh con los tech bros Esto es lo que necesitas saber]]
-
 - [[Lucero del Alba y Espionaje.md|Lucero del Alba y Espionaje]]
+
+- [[99_AI/01_Framework/MARCO_COLABORATIVO_IA_NICO.md|MARCO_COLABORATIVO_IA_NICO]]
 
 - [[McLuhan.md|McLuhan]]
 
@@ -527,8 +473,6 @@ tags: [moc, tecnologia-de-control, ia, vigilancia, tl-intel-v3]
 
 - [[OpenAI.md|OpenAI]]
 
-- [[05_Fuentes/03_Compiladas/OpenAI apoya proyecto de ley estatal de Illinois que protege a laboratorios de IA de responsabilidad por daños graves.md|OpenAI apoya proyecto de ley estatal de Illinois que protege a laboratorios de IA de responsabilidad por daños graves]]
-
 - [[Operacion Lockstep.md|Operacion Lockstep]]
 
 - [[Oracle.md|Oracle]]
@@ -541,8 +485,6 @@ tags: [moc, tecnologia-de-control, ia, vigilancia, tl-intel-v3]
 
 - [[Palantir Gotham vs Foundry.md|Palantir Gotham vs Foundry]]
 
-- [[05_Fuentes/03_Compiladas/Palantir, financiada por la CIA vinculada a Israel.md|Palantir, financiada por la CIA vinculada a Israel]]
-
 - [[Palmer Luckey.md|Palmer Luckey]]
 
 - [[Panoptico Digital.md|Panoptico Digital]]
@@ -550,6 +492,8 @@ tags: [moc, tecnologia-de-control, ia, vigilancia, tl-intel-v3]
 - [[Panóptico Digital.md|Panóptico Digital]]
 
 - [[Panopticon.md|Panopticon]]
+
+- [[06_Videos_Publicados/2026/2026-06-26_PAX SILICA/PATREON_2026-07-03_pax-silica-tecnato.md|PATREON_2026-07-03_pax-silica-tecnato]]
 
 - [[Patriot Act.md|Patriot Act]]
 
@@ -567,8 +511,6 @@ tags: [moc, tecnologia-de-control, ia, vigilancia, tl-intel-v3]
 
 - [[06_Videos_Publicados/2026/2026-04-13_Ormuz_IA_Orden/PRE_STREAM_Ormuz_IA_Orden.md|PRE_STREAM_Ormuz_IA_Orden]]
 
-- [[05_Fuentes/03_Compiladas/President Donald Trump signs executive order on AI.md|President Donald Trump signs executive order on AI]]
-
 - [[PRISM (Programa).md|PRISM (Programa)]]
 
 - [[Programa PRISM.md|Programa PRISM]]
@@ -580,8 +522,6 @@ tags: [moc, tecnologia-de-control, ia, vigilancia, tl-intel-v3]
 - [[Propiedad Intelectual.md|Propiedad Intelectual]]
 
 - [[Protocolo 5G y Bio-resonancia.md|Protocolo 5G y Bio-resonancia]]
-
-- [[05_Fuentes/03_Compiladas/Proyecto Génesis El nuevo Proyecto Manhattan de la era de la IA.md|Proyecto Génesis El nuevo Proyecto Manhattan de la era de la IA]]
 
 - [[Recorded Future.md|Recorded Future]]
 
@@ -599,6 +539,8 @@ tags: [moc, tecnologia-de-control, ia, vigilancia, tl-intel-v3]
 
 - [[SAIC.md|SAIC]]
 
+- [[SIDE.md|SIDE]]
+
 - [[Silicio y Memoria de Cristal.md|Silicio y Memoria de Cristal]]
 
 - [[Silicon Valley.md|Silicon Valley]]
@@ -615,11 +557,9 @@ tags: [moc, tecnologia-de-control, ia, vigilancia, tl-intel-v3]
 
 - [[Stephane Bancel.md|Stephane Bancel]]
 
+- [[06_Videos_Publicados/2026/2026-06-26_PAX SILICA/SUBSTACK_2026-07-03_pax-silica-tecnato.md|SUBSTACK_2026-07-03_pax-silica-tecnato]]
+
 - [[Surveillance State.md|Surveillance State]]
-
-- [[05_Fuentes/03_Compiladas/Tecnologicas EEUU y Estado Policial China.md|Tecnologicas EEUU y Estado Policial China]]
-
-- [[05_Fuentes/03_Compiladas/Ted Cruz quiere que la vigilancia no sea China, sea propia.md|Ted Cruz quiere que la vigilancia no sea China, sea propia]]
 
 - [[Tedros Adhanom Ghebreyesus.md|Tedros Adhanom Ghebreyesus]]
 
@@ -629,23 +569,15 @@ tags: [moc, tecnologia-de-control, ia, vigilancia, tl-intel-v3]
 
 - [[Total Information Awareness.md|Total Information Awareness]]
 
-- [[05_Fuentes/03_Compiladas/Traduce el título del artículo al español. Si ya está en español, mantén el título original.md|Traduce el título del artículo al español. Si ya está en español, mantén el título original]]
-
 - [[Transhumanismo.md|Transhumanismo]]
 
 - [[Tratado de Pandemias OMS.md|Tratado de Pandemias OMS]]
-
-- [[05_Fuentes/03_Compiladas/Trump firma una orden ejecutiva que impide a los e.md|Trump firma una orden ejecutiva que impide a los e]]
-
-- [[05_Fuentes/03_Compiladas/Una gran parte del crecimiento del PIB de EE. UU. se mantiene gracias al gasto en IA sin retorno garantizado, dice Deutsche Bank.md|Una gran parte del crecimiento del PIB de EE. UU. se mantiene gracias al gasto en IA sin retorno garantizado, dice Deutsche Bank]]
 
 - [[Unidad 8200.md|Unidad 8200]]
 
 - [[Vida Artificial.md|Vida Artificial]]
 
 - [[Vigilancia Biologica.md|Vigilancia Biologica]]
-
-- [[05_Fuentes/03_Compiladas/Vínculos de OpenAI con el gobierno ¿Cuál fue el papel de Sam Altman en la administración Biden.md|Vínculos de OpenAI con el gobierno ¿Cuál fue el papel de Sam Altman en la administración Biden]]
 
 - [[Vinod Khosla.md|Vinod Khosla]]
 

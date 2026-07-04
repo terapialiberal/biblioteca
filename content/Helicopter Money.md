@@ -5,7 +5,7 @@ aliases:
   - Helicopter Money (Estímulo Directo)
   - Estimulo directo
 created: 2026-05-01T20:46:27.830-03:00
-modified: 2026-05-02T13:06:58.513-03:00
+modified: 2026-05-02T12:44:21.794-03:00
 tags:
   - helicopter-money
   - politica-monetaria

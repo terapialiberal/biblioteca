@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-29T13:34:43.716-03:00
-modified: 2026-05-02T14:01:33.936-03:00
+modified: 2026-05-02T14:01:29.637-03:00
 tags:
   - alias
   - estado-profundo

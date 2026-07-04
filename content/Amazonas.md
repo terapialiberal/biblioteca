@@ -4,7 +4,7 @@ aliases:
   - Amazonas (Geopolítica)
   - Amazonia
 created: 2026-05-01T20:45:19.584-03:00
-modified: 2026-05-02T13:07:06.539-03:00
+modified: 2026-05-02T12:45:53.257-03:00
 tags:
   - amazonas
   - recursos

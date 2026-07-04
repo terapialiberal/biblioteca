@@ -3,7 +3,7 @@ publish: true
 aliases:
   - KGB (URSS)
 created: 2026-05-01T20:14:32.635-03:00
-modified: 2026-05-02T13:08:27.510-03:00
+modified: 2026-05-02T13:07:08.979-03:00
 tags:
   - kgb
   - urss

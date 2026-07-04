@@ -3,7 +3,7 @@ publish: true
 aliases:
   - 77th Brigade
 created: 2026-01-29T19:17:05.901-03:00
-modified: 2026-04-21T12:34:57.402-03:00
+modified: 2026-04-21T12:35:05.002-03:00
 tags:
   - brigada-77
   - guerra-cognitiva

@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Elon Musk - El Contratista de Estado
 created: 2026-01-29T19:17:11.761-03:00
-modified: 2026-05-27T10:17:41.658-03:00
+modified: 2026-07-03T14:43:25.867-03:00
 tags:
   - elon-musk
   - spacex
@@ -18,7 +18,7 @@ tags:
 
 ## BLUF
 
-[[Elon Musk]] importa en TL como operador tecnopolitico que combina imagen de outsider, control de plataformas y dependencia profunda de infraestructura estatal o estrategica. Su relevancia no esta solo en personalidad o narrativa publica, sino en ocupar simultaneamente nodos sobre espacio, comunicaciones, movilidad, IA y mediacion informativa.
+[[Elon Musk]] importa en TL como operador tecnopolitico que combina imagen de outsider, control de plataformas y dependencia profunda de infraestructura estatal o estrategica. Su relevancia no esta solo en personalidad o narrativa publica, sino en ocupar simultaneamente nodos sobre espacio, comunicaciones, movilidad, IA y mediacion informativa. **Jun 2026**: SpaceX IPO récord (\$75B) priceada el mismo día de la DPA y el MoU (11-jun). Miembro confirmado de Dialog (WIRED leak). Lock-up de insiders sincronizado con elecciones israelíes (27-oct) y midterms (3-nov).
 
 ## Por que importa en TL
 
@@ -55,3 +55,11 @@ Musk sirve para leer una fase en la que parte del poder estructural se encarna e
 - [[SpaceX Starshield]]
 - [[X]]
 - [[Peter Thiel]]
+
+---
+
+## PAX SILICA (2026-06-26)
+
+- **"La energía es la verdadera moneda":** Declaración en entrevista. "Podés pasar una ley y no tener nada de energía."
+- **Abuelo tecnócrata:** Joshua Haldeman, abuelo materno de Musk, fue líder del movimiento tecnocrático en Canadá (1930s). La idea de reemplazar dinero por energía es herencia familiar.
+- **Fuentes:** transcript-1.txt \[107:54]

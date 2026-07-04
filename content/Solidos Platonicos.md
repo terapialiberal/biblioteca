@@ -4,7 +4,7 @@ aliases:
   - Sólidos Platónicos
   - Platonic solids
 created: 2026-02-25T22:08:54.786-03:00
-modified: 2026-04-27T10:36:33.949-03:00
+modified: 2026-04-27T10:36:43.318-03:00
 tags:
   - solidos-platonicos
   - geometria-sagrada

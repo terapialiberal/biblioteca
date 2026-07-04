@@ -3,7 +3,7 @@ publish: true
 aliases:
   - "Starlink: Geopolítica: la Infraestructura de la Soberanía Orbital"
 created: 2026-01-29T19:17:37.864-03:00
-modified: 2026-04-20T10:11:15.165-03:00
+modified: 2026-04-20T10:11:24.165-03:00
 tags:
   - starlink
   - spacex

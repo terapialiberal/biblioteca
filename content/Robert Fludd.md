@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-25T22:08:52.964-03:00
-modified: 2026-04-27T10:10:14.180-03:00
+modified: 2026-04-27T10:10:22.611-03:00
 tags:
   - robert-fludd
   - hermetismo

@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Manhattan Institute
 created: 2026-05-01T18:47:37.901-03:00
-modified: 2026-05-02T18:36:08.579-03:00
+modified: 2026-05-02T18:25:44.499-03:00
 tags:
   - think-tank
   - conservador

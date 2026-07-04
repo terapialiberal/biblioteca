@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-15T17:06:21.523-03:00
-modified: 2026-04-15T17:06:22.937-03:00
+modified: 2026-07-03T14:43:26.015-03:00
 tags:
   - ronald-lauder
   - lauder
@@ -75,3 +75,11 @@ Cuando su nombre aparece vinculado a la sucesion de la Fed por la via familiar, 
 ## Observacion Operativa
 
 Lauder importa en TL cuando aparece en cruces donde una red familiar deja de ser un detalle social y pasa a explicar accesos, relevos y continuidad de poder.
+
+---
+
+## PAX SILICA (2026-06-26)
+
+- **Groenlandia:** La idea de comprar Groenlandia fue de Ronald Lauder —yerno de Kevin Warsh—, no de Trump. Lauder es socio de Lex Wexner en el Mega Group. Wexner fue mentor de Jeffrey Epstein.
+- **Conexiones:** Lauder ↔ Warsh ↔ Trump ↔ Netanyahu. Promotor de la carrera política de Netanyahu.
+- **Fuentes:** Reuters, transcript-1.txt \[23:00-24:43]

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-29T13:58:24.459-03:00
-modified: 2026-05-02T14:14:55.209-03:00
+modified: 2026-05-02T14:14:52.143-03:00
 tags:
   - alias
   - geostrategia

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-25T15:44:51.382-03:00
-modified: 2026-04-19T12:47:11.666-03:00
+modified: 2026-04-19T12:47:03.746-03:00
 tags:
   - lab-grown-meat
   - alimentos

@@ -4,7 +4,7 @@ aliases:
   - Amazon Web Services
   - Amazon Web Services (AWS)
 created: 2026-05-01T18:54:28.734-03:00
-modified: 2026-05-02T13:53:16.427-03:00
+modified: 2026-05-02T13:53:10.699-03:00
 tags:
   - aws
   - amazon

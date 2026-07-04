@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Egipto (Geopolítica)
 created: 2026-04-29T15:32:16.151-03:00
-modified: 2026-05-02T13:07:06.541-03:00
+modified: 2026-05-02T12:45:53.553-03:00
 tags:
   - egipto
   - suez

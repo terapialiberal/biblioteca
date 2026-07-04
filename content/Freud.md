@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Sigmund Freud
 created: 2026-05-01T20:17:20.542-03:00
-modified: 2026-05-02T13:44:06.784-03:00
+modified: 2026-05-02T13:44:01.588-03:00
 tags:
   - freud
   - psicoanalisis

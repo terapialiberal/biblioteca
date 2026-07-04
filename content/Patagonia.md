@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Patagonia (Recursos Estratégicos)
 created: 2026-05-01T20:45:22.180-03:00
-modified: 2026-05-02T13:07:06.421-03:00
+modified: 2026-05-02T12:45:53.187-03:00
 tags:
   - patagonia
   - argentina

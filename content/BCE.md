@@ -5,7 +5,7 @@ aliases:
   - ECB
   - European Central Bank
 created: 2026-04-24T12:22:44.554-03:00
-modified: 2026-04-24T12:22:50.250-03:00
+modified: 2026-04-24T12:22:44.554-03:00
 tags:
   - bce
   - europa

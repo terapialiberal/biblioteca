@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-03-04T19:45:11.555-03:00
-modified: 2026-05-02T18:02:28.088-03:00
+modified: 2026-05-02T18:01:47.025-03:00
 tags:
   - vinod-khosla
   - silicon-valley

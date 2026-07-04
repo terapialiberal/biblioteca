@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Brexit (Salida del Reino Unido de la UE)
 created: 2026-01-29T19:17:05.830-03:00
-modified: 2026-05-02T13:07:26.419-03:00
+modified: 2026-05-02T12:58:37.874-03:00
 tags:
   - brexit
   - reino-unido

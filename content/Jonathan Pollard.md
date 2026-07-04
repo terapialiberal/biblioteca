@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Jonathan Pollard
 created: 2026-01-29T19:17:20.088-03:00
-modified: 2026-04-07T13:30:42.368-03:00
+modified: 2026-04-07T13:30:47.380-03:00
 tags:
   - espionaje
   - israel

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:16.990-03:00
-modified: 2026-04-20T10:43:53.535-03:00
+modified: 2026-06-11T14:33:57.011-03:00
 tags:
   - heritage-foundation
   - project-2025
@@ -48,3 +48,7 @@ Su valor crece porque puede actuar como traductor institucional entre la derecha
 - [[JD Vance]]
 - [[Donald Trump]]
 - [[Palantir]]
+
+## Casos relacionados
+
+- [[06_Videos_Publicados/2026/2026-04-07_NWO_Energetico_Blueprint/POSTMORTEM_INTEL|NWO Energético Blueprint]] (7 abr 2026) — Heritage 2007 wargame como precedente operativo: simulación de Ormuz con impactos macro que reaparecen en 2026.

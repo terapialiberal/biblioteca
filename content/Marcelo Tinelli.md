@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Marcelo Tinelli
 created: 2026-05-01T18:48:17.184-03:00
-modified: 2026-05-02T18:36:09.826-03:00
+modified: 2026-05-02T18:25:45.059-03:00
 tags:
   - actor
   - argentina

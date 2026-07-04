@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Friedrich Nietzsche
 created: 2026-05-01T20:17:15.620-03:00
-modified: 2026-05-02T13:44:09.672-03:00
+modified: 2026-05-02T13:44:01.680-03:00
 tags:
   - nietzsche
   - filosofia

@@ -4,7 +4,7 @@ aliases:
   - Bretton Woods 2
   - Bretton Woods post-dolar
 created: 2026-01-29T19:17:27.567-03:00
-modified: 2026-04-22T10:34:38.473-03:00
+modified: 2026-04-22T10:34:44.564-03:00
 tags:
   - nuevo-bretton-woods
   - sistema-monetario

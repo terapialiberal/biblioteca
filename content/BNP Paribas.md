@@ -3,7 +3,7 @@ publish: true
 aliases:
   - BNP Paribas (Banco)
 created: 2026-01-29T19:17:05.621-03:00
-modified: 2026-05-02T13:45:24.430-03:00
+modified: 2026-05-02T13:45:17.783-03:00
 tags:
   - bnp-paribas
   - banca

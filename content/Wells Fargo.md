@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Wells Fargo Bank
 created: 2026-01-29T19:17:44.154-03:00
-modified: 2026-05-02T13:08:29.469-03:00
+modified: 2026-05-02T13:06:23.494-03:00
 tags:
   - wells-fargo
   - banca

@@ -4,7 +4,7 @@ aliases:
   - Franklin D. Roosevelt
   - FDR
 created: 2026-05-01T18:49:40.902-03:00
-modified: 2026-05-02T18:34:54.668-03:00
+modified: 2026-05-02T18:25:25.102-03:00
 tags:
   - actor
   - presidente-eeuu

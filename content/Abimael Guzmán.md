@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Abimael Guzmán
 created: 2026-05-01T19:13:21.678-03:00
-modified: 2026-05-02T18:30:01.455-03:00
+modified: 2026-05-02T18:25:10.523-03:00
 tags:
   - actor
   - peru

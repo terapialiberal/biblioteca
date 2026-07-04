@@ -5,7 +5,7 @@ aliases:
   - Unión Soviética
   - USSR
 created: 2026-05-01T20:13:39.035-03:00
-modified: 2026-05-02T13:46:03.238-03:00
+modified: 2026-05-02T13:45:56.606-03:00
 tags:
   - urss
   - comunismo

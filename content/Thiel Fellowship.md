@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-20T11:15:06.440-03:00
-modified: 2026-04-20T11:17:57.955-03:00
+modified: 2026-04-20T11:18:49.244-03:00
 tags:
   - thiel-fellowship
   - peter-thiel

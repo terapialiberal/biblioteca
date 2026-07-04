@@ -3,7 +3,7 @@ publish: true
 aliases:
   - CalPERS
 created: 2026-05-01T19:10:32.169-03:00
-modified: 2026-05-02T18:33:14.599-03:00
+modified: 2026-05-02T18:25:14.594-03:00
 tags:
   - fondo-pension
   - california

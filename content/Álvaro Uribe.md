@@ -5,7 +5,7 @@ aliases:
   - Alvaro Uribe Velez
   - Álvaro Uribe Vélez
 created: 2026-05-01T19:11:52.765-03:00
-modified: 2026-05-02T13:53:15.471-03:00
+modified: 2026-05-02T13:53:10.517-03:00
 tags:
   - alvaro-uribe
   - colombia

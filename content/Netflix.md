@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Netflix (Streaming)
 created: 2026-05-01T20:38:33.948-03:00
-modified: 2026-05-02T13:08:00.606-03:00
+modified: 2026-05-02T13:03:01.311-03:00
 tags:
   - netflix
   - streaming

@@ -1,13 +1,13 @@
 ---
+titulo: "Jeffrey Epstein"
 publish: true
-created: 2026-01-29T19:17:19.427-03:00
-modified: 2026-04-07T11:25:20.963-03:00
-tags:
-  - jeffrey-epstein
-  - kompromat
-  - honey-trap
-  - inteligencia
-  - tl-intel-v3
+tipo: persona
+fecha: 2026-04-07
+tier_primario: A
+moc_canonico: [[00_MOC - Kompromat y Dark Game Theory]]
+estado: activo
+fuentes_clave: []
+tags: [jeffrey-epstein, kompromat, honey-trap, inteligencia, tl-intel-v3]
 ---
 
 # [[Jeffrey Epstein]]
@@ -114,3 +114,15 @@ Epstein beneficia a quienes necesitan una máquina de captura sobre élites sin 
 ## Observación Operativa
 
 El caso Epstein importa porque obliga a pensar el poder no solo como dinero o ideología, sino también como archivo vivo de vulnerabilidades personales.
+
+## Casos TL relacionados
+
+- [[06_Videos_Publicados/2025/2025-12-04_Jeffrey_NO_es_lo_que_parece/POSTMORTEM_INTEL.md|Jeffrey Epstein: Nada es lo que Parece]] — fixer como función, no como persona. Centralidad de intermediación entre 4 clústeres. Estado: observación. calidad\_citas: media.
+- [[06_Videos_Publicados/2026/2026-06-10_Fitts_Pulte_Gran_Israel/POSTMORTEM_INTEL.md|Fitts-Pulte-Gran Israel]] — Kushner → Rothschild → Epstein como misma red. Estado: confirmado parcial.
+
+## Conexiones nuevas
+
+- [[Mega Group]] — red coordinadora.
+- [[Fixer (Activo de Inteligencia)]] — función que Epstein cumple.
+- [[Red Anfibia]] — Epstein operaba bajo ambos partidos.
+- [[El Pulpo (Casolaro)]] — genealogía de la red.

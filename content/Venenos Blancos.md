@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:42.945-03:00
-modified: 2026-05-02T18:46:18.886-03:00
+modified: 2026-05-02T18:26:15.377-03:00
 tags:
   - blancos
   - codex

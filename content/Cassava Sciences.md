@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Cassava
 created: 2026-05-01T19:09:40.357-03:00
-modified: 2026-05-02T18:33:24.720-03:00
+modified: 2026-05-02T18:25:15.059-03:00
 tags:
   - empresa
   - biotech

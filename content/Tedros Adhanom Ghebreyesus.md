@@ -4,7 +4,7 @@ aliases:
   - Tedros
   - Dr. Tedros
 created: 2026-04-21T11:35:26.028-03:00
-modified: 2026-04-22T16:07:39.285-03:00
+modified: 2026-04-22T16:07:44.816-03:00
 tags:
   - tedros
   - who

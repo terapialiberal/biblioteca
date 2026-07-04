@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Roundup
 created: 2026-01-29T19:17:15.487-03:00
-modified: 2026-04-18T10:39:03.589-03:00
+modified: 2026-04-18T10:38:56.155-03:00
 tags:
   - glifosato
   - roundup

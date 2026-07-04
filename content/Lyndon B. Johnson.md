@@ -5,7 +5,7 @@ aliases:
   - LBJ
   - Lyndon B. Johnson
 created: 2026-05-01T18:47:33.093-03:00
-modified: 2026-05-02T18:36:08.541-03:00
+modified: 2026-05-02T18:25:44.184-03:00
 tags:
   - actor
   - presidente-eeuu

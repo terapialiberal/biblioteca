@@ -4,7 +4,7 @@ aliases:
   - Karl Haushofer
   - Karl Haushofer (Geopolítica)
 created: 2026-05-01T20:16:44.165-03:00
-modified: 2026-05-02T13:44:47.235-03:00
+modified: 2026-05-02T13:44:42.038-03:00
 tags:
   - haushofer
   - geopolitica

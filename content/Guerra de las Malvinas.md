@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Guerra de las Malvinas (Recursos Estrategicos)
 created: 2026-01-29T19:17:16.284-03:00
-modified: 2026-04-18T12:32:18.498-03:00
+modified: 2026-04-18T12:32:11.499-03:00
 tags:
   - malvinas
   - guerra

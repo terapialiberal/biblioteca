@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Pilgrims Society
 created: 2026-05-01T18:49:52.622-03:00
-modified: 2026-05-02T18:39:39.360-03:00
+modified: 2026-05-02T18:25:55.566-03:00
 tags:
   - sociedad-discreta
   - anglo-americano

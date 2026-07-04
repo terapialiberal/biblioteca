@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Fundación Carnegie
 created: 2026-01-29T19:17:14.417-03:00
-modified: 2026-04-21T20:03:19.208-03:00
+modified: 2026-04-21T20:03:12.600-03:00
 tags:
   - carnegie
   - fundaciones

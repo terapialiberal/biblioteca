@@ -4,7 +4,7 @@ aliases:
   - Ormuz
   - Estrecho de Ormuz (Geopolítica)
 created: 2026-02-09T17:24:53.805-03:00
-modified: 2026-05-27T10:17:17.295-03:00
+modified: 2026-06-30T21:11:47.446-03:00
 tags:
   - ormuz
   - chokepoint
@@ -44,3 +44,8 @@ En TL, esto convierte a Ormuz en laboratorio de gobernanza de chokepoints: el cu
 - [[Inflación]]
 - [[Crisis Alimentaria 2026]]
 - [[00_MOC - Rimland]]
+
+## Casos relacionados
+
+- [[06_Videos_Publicados/2026/2026-03-26_El_Reseteo_Perfecto/POSTMORTEM_INTEL|El Reseteo Perfecto]] (26 mar 2026) — Ormuz funciona como shock de reanclaje para empujar RWA, tokenización y migración de colateral.
+- [[06_Videos_Publicados/2026/2026-05-21_Triple_Summit/POSTMORTEM_INTEL|Triple Summit]] (21 may 2026) — Ormuz como peaje administrado queda confirmado estructuralmente. "No está bloqueado: está privatizado." Los buques que pagan pasan — la guerra se transforma en régimen de negocio.

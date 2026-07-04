@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Milei
 created: 2026-05-01T20:41:28.928-03:00
-modified: 2026-05-02T13:07:45.576-03:00
+modified: 2026-05-02T12:58:38.905-03:00
 tags:
   - alias
   - legacy

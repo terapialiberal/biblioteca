@@ -3,7 +3,7 @@ publish: true
 aliases:
   - "Peter Thiel: El Arquitecto Del Tecno-Feudalismo"
 created: 2026-01-29T19:17:30.419-03:00
-modified: 2026-05-27T10:17:43.693-03:00
+modified: 2026-07-03T14:43:25.930-03:00
 tags:
   - peter-thiel
   - paypal-mafia
@@ -17,7 +17,7 @@ tags:
 
 ## BLUF
 
-[[Peter Thiel]] importa en TL como figura bisagra entre venture capital, software de poder, defensa, vigilancia y formacion de nuevas elites tecnopoliticas. Su relevancia no depende solo de sus opiniones publicas, sino de su capacidad para incubar empresas, financiar cuadros, coordinar redes y empujar una vision del orden mas compatible con mando privado, excepcion y seleccion oligárquica.
+[[Peter Thiel]] importa en TL como figura bisagra entre venture capital, software de poder, defensa, vigilancia y formacion de nuevas elites tecnopoliticas. Su relevancia no depende solo de sus opiniones publicas, sino de su capacidad para incubar empresas, financiar cuadros, coordinar redes y empujar una vision del orden mas compatible con mando privado, excepcion y seleccion oligárquica. **Jun 2026**: WIRED filtró su sociedad secreta Dialog (113+ miembros: Bessent, Musk, OTAN, Cruz). Retiro Dublín 12-16 ago — sincronizado con vencimiento del MoU Irán (~13 ago). Founders Fund hizo 80x en SpaceX IPO (11-jun).
 
 ## Por que importa en TL
 
@@ -64,3 +64,11 @@ La nota gana aún más fuerza cuando se la conecta con [[Palantir]], [[Anduril I
 - [[Alex Karp]]
 - [[00_MOC - Vigilancia Tecnica y SIGINT]]
 - [[JD Vance]]
+
+---
+
+## PAX SILICA (2026-06-26)
+
+- **Dialog:** WIRED filtró 113+ miembros de su sociedad secreta: Bessent (Treasury), Musk, Ted Cruz, general supremo OTAN en Europa. Retiro anual 12-16 ago 2026 en Dublín. Paneles: "Navigating WWIII", "Bring Back Nuclear", "Build-a-Cult."
+- **Conexiones:** Vance, Bessent, Musk, Warsh — toda la red del tecnato en Dialog.
+- **Fuentes:** WIRED (jun 2026)

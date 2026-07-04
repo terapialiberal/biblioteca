@@ -4,7 +4,7 @@ aliases:
   - Energía Radiant (Tesla)
   - Radiant energy
 created: 2026-02-25T22:08:33.097-03:00
-modified: 2026-04-27T10:37:48.592-03:00
+modified: 2026-04-27T10:37:55.033-03:00
 tags:
   - energia-radiant
   - tesla

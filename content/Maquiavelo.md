@@ -4,7 +4,7 @@ aliases:
   - Nicolás Maquiavelo
   - Nicolas Maquiavelo
 created: 2026-05-01T20:16:49.581-03:00
-modified: 2026-05-02T13:44:45.696-03:00
+modified: 2026-05-02T13:44:41.947-03:00
 tags:
   - maquiavelo
   - poder

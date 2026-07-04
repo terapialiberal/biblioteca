@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-25T22:08:57.289-03:00
-modified: 2026-04-27T10:23:13.859-03:00
+modified: 2026-04-27T10:23:22.781-03:00
 tags:
   - arquitectura
   - bancos-centrales

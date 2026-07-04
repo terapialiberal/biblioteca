@@ -1,14 +1,15 @@
 ---
+titulo: "BlackRock"
 publish: true
-aliases:
-  - BlackRock / Larry Fink
-created: 2026-01-29T19:17:05.564-03:00
-modified: 2026-04-24T09:46:32.506-03:00
-tags:
-  - blackrock
-  - gestores-de-activos
-  - control-financiero
-  - tl-intel-v3
+tipo: entidad
+fecha: 2026-04-07
+vigencia: 2026-04-07
+tier_primario: A
+moc_canonico: [[00_MOC - Control Financiero]]
+estado: activo
+aliases: ["BlackRock / Larry Fink"]
+fuentes_clave: []
+tags: [blackrock, gestores-de-activos, control-financiero, tl-intel-v3]
 ---
 
 # [[BlackRock]]
@@ -72,3 +73,7 @@ El ajuste importante es este: en la base viva BlackRock conviene leerlo menos co
 - [[BlackRock BUIDL]]
 - [[Dinero Programable]]
 - [[00_MOC - Control Financiero]]
+
+## Casos relacionados
+
+- [[06_Videos_Publicados/2026/2026-03-26_El_Reseteo_Perfecto/POSTMORTEM_INTEL|El Reseteo Perfecto]] (26 mar 2026) — BUIDL, RWA, tokenización como posicionamiento ante shock Ormuz. Fink/BlackRock no son observadores: el timing de RWA es señal de posicionamiento.

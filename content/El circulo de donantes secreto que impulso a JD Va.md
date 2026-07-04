@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:05:08.986-03:00
-modified: 2026-05-02T18:34:24.347-03:00
+modified: 2026-05-02T18:25:17.600-03:00
 tags:
   - maga
   - jd-vance

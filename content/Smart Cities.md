@@ -4,7 +4,7 @@ aliases:
   - Smart Cities (Ciudades Inteligentes)
   - Ciudades Inteligentes
 created: 2026-04-29T13:34:40.867-03:00
-modified: 2026-05-02T13:07:20.411-03:00
+modified: 2026-05-02T12:50:43.827-03:00
 tags:
   - smart-cities
   - urbanismo

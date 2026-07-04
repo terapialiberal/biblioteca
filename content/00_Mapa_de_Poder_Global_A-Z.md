@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:02.490-03:00
-modified: 2026-04-27T11:37:56.074-03:00
+modified: 2026-04-27T12:18:21.169-03:00
 tags:
   - moc
   - mapa-de-poder

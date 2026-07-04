@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-20T16:59:34.732-03:00
-modified: 2026-05-26T12:30:01.259-03:00
+modified: 2026-06-11T14:23:18.700-03:00
 tags:
   - reanclaje-hibrido
   - dolar
@@ -67,4 +67,8 @@ La formulación fuerte queda así: el reanclaje híbrido no es un programa anunc
 - [[Desdolarizacion]]
 - [[Saltsjobaden_1973_MarALago_2026]]
 - [[Tokenizacion de Activos Reales]]
+
+## Casos relacionados
+
+- [[06_Videos_Publicados/2026/2026-03-26_El_Reseteo_Perfecto/POSTMORTEM_INTEL|El Reseteo Perfecto]] (26 mar 2026) — Ormuz como shock de reanclaje para empujar RWA, tokenización y migración de colateral. Primera formulación del marco "shock → migración de sistema".
 - [[Project Stargate]]

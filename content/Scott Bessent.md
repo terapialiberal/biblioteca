@@ -3,7 +3,7 @@ publish: true
 aliases:
   - "Scott Bessent: el Arquitecto de la Hegemonia Monetaria"
 created: 2026-01-29T19:17:35.814-03:00
-modified: 2026-04-22T10:34:37.236-03:00
+modified: 2026-07-03T14:43:25.973-03:00
 tags:
   - scott-bessent
   - tesoro-eeuu
@@ -66,3 +66,12 @@ Leido junto con [[Nuevo Bretton Woods]] y [[Reanclaje Hibrido]], Bessent no apar
 - [[Mar-a-Lago Accord]]
 - [[Reanclaje Hibrido]]
 - [[Nuevo Bretton Woods]]
+
+---
+
+## PAX SILICA (2026-06-26)
+
+- **Doctrina "economic statecraft":** Discurso articulando 5 pilares. Central: "Market access is conditional."
+- **Frases clave:** "El dominio del dólar es esencial." "Iraníes facturarán en dólares." "Cuando el conflicto Rusia-Ucrania termine, Rusia querrá volver al sistema del dólar." "Hay tres ejércitos en el mundo que pueden ir y sacarte el oro."
+- **Coartada para Warsh:** "Rate cuts don't break the dollar." "AI will at least double productivity."
+- **Fuentes:** ZeroHedge, CNBC, transcript-1.txt \[10:27], \[56:08]

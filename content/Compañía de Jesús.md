@@ -5,7 +5,7 @@ aliases:
   - Jesuitas
   - Compañía de Jesús
 created: 2026-05-01T18:46:49.852-03:00
-modified: 2026-05-02T18:33:46.893-03:00
+modified: 2026-05-02T18:25:15.771-03:00
 tags:
   - orden-religiosa
   - poder

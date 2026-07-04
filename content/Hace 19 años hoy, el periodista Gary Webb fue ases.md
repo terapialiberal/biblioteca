@@ -3,7 +3,7 @@ publish: true
 aliases:
   - 19 Years Ago Today, Journalist Gary Webb Was Murdered After Exposing CIA Drug Trafficking
 created: 2026-01-29T19:05:09.805-03:00
-modified: 2026-05-02T18:35:17.553-03:00
+modified: 2026-05-02T18:25:31.040-03:00
 tags:
   - gary-webb
   - alias

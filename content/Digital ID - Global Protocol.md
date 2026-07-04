@@ -4,7 +4,7 @@ aliases:
   - Global Digital ID
   - Identidad Digital Global
 created: 2026-02-09T17:27:01.602-03:00
-modified: 2026-04-22T16:46:54.980-03:00
+modified: 2026-04-22T16:47:01.284-03:00
 tags:
   - identidad-digital
   - wallets

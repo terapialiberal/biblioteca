@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Black Nobility
 created: 2026-01-29T19:17:27.314-03:00
-modified: 2026-05-02T18:36:39.205-03:00
+modified: 2026-05-02T18:25:50.068-03:00
 tags:
   - concepto
   - aristocracia

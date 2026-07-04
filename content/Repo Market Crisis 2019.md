@@ -3,7 +3,7 @@ publish: true
 aliases:
   - "Repo Market Crisis 2019: el Colapso Silencioso Que Activó la Matrix"
 created: 2026-01-29T19:17:33.292-03:00
-modified: 2026-04-22T10:43:32.672-03:00
+modified: 2026-04-22T10:43:45.468-03:00
 tags:
   - repo-market
   - liquidez

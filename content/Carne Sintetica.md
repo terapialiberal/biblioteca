@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:06.572-03:00
-modified: 2026-05-02T18:33:19.785-03:00
+modified: 2026-05-02T18:24:29.291-03:00
 tags:
   - alias
   - carne-sintetica

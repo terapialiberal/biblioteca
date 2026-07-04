@@ -4,7 +4,7 @@ aliases:
   - Regulatory Capture
   - Captura Regulatoria (Fenómeno)
 created: 2026-05-01T20:46:43.476-03:00
-modified: 2026-05-02T13:06:49.424-03:00
+modified: 2026-05-02T12:41:35.704-03:00
 tags:
   - alias
   - legacy

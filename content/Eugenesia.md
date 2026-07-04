@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Eugenesia (Historia y Actualidad)
 created: 2026-04-29T13:53:52.319-03:00
-modified: 2026-05-02T13:07:21.382-03:00
+modified: 2026-05-02T12:51:26.792-03:00
 tags:
   - eugenesia
   - poblacion

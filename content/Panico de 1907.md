@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Pánico de 1907
 created: 2026-01-29T19:17:32.279-03:00
-modified: 2026-04-24T11:31:35.096-03:00
+modified: 2026-04-24T11:31:46.951-03:00
 tags:
   - panico-de-1907
   - reserva-federal

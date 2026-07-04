@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:36.816-03:00
-modified: 2026-04-21T19:14:29.990-03:00
+modified: 2026-04-21T19:14:23.501-03:00
 tags:
   - silicon-valley
   - plataformas

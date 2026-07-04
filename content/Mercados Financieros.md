@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-29T13:36:32.478-03:00
-modified: 2026-04-29T13:37:09.860-03:00
+modified: 2026-04-29T13:37:16.472-03:00
 tags:
   - concepto
   - finanzas

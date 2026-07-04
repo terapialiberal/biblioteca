@@ -4,7 +4,7 @@ aliases:
   - Default soberano
   - Incumplimiento de deuda
 created: 2026-05-01T20:45:53.989-03:00
-modified: 2026-05-02T12:54:19.983-03:00
+modified: 2026-05-02T12:22:03.778-03:00
 tags:
   - default
   - deuda-soberana

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-19T12:50:50.310-03:00
-modified: 2026-04-21T11:41:59.599-03:00
+modified: 2026-04-21T11:42:06.387-03:00
 tags:
   - control-alimentario
   - alimentos

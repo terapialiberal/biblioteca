@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Benoît Mandelbrot
 created: 2026-05-01T19:10:36.972-03:00
-modified: 2026-05-02T18:32:38.584-03:00
+modified: 2026-05-02T18:25:13.195-03:00
 tags:
   - actor
   - matematicas

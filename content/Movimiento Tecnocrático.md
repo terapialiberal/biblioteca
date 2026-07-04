@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-29T13:56:38.169-03:00
-modified: 2026-05-02T14:16:09.119-03:00
+modified: 2026-05-02T14:16:04.998-03:00
 tags:
   - alias
   - tecnocracia

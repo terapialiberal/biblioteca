@@ -5,7 +5,7 @@ aliases:
   - PBOC
   - People's Bank of China
 created: 2026-05-01T18:52:51.379-03:00
-modified: 2026-05-02T18:32:22.566-03:00
+modified: 2026-05-02T18:25:12.670-03:00
 tags:
   - banco-central
   - china

@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Resumen General
 created: 2026-01-29T19:17:08.489-03:00
-modified: 2026-05-02T18:33:46.890-03:00
+modified: 2026-05-02T18:24:34.765-03:00
 tags:
   - conciencia-de-clase
   - elites

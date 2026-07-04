@@ -4,7 +4,7 @@ aliases:
   - WTO
   - OMC (Organización Mundial del Comercio)
 created: 2026-01-29T19:17:28.043-03:00
-modified: 2026-05-02T13:45:59.757-03:00
+modified: 2026-05-02T13:45:56.226-03:00
 tags:
   - omc
   - comercio

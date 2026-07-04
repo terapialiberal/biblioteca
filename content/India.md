@@ -3,7 +3,7 @@ publish: true
 aliases:
   - India (Potencia)
 created: 2026-01-29T19:17:18.304-03:00
-modified: 2026-05-02T13:07:27.377-03:00
+modified: 2026-05-02T12:54:43.189-03:00
 tags:
   - india
   - brics

@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Simetría de la Doble Hélice
 created: 2026-02-25T22:08:57.979-03:00
-modified: 2026-04-27T10:37:48.800-03:00
+modified: 2026-04-27T10:37:57.603-03:00
 tags:
   - doble-helice
   - adn

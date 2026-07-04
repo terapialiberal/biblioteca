@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Watergate (Escándalo)
 created: 2026-01-29T19:17:43.971-03:00
-modified: 2026-05-02T13:07:32.408-03:00
+modified: 2026-05-02T12:58:38.112-03:00
 tags:
   - watergate
   - nixon

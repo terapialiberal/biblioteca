@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Hong Kong (Centro Financiero)
 created: 2026-05-01T20:44:14.557-03:00
-modified: 2026-05-02T13:07:15.327-03:00
+modified: 2026-05-02T12:49:52.504-03:00
 tags:
   - hong-kong
   - china

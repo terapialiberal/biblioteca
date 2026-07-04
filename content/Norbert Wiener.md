@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-29T19:17:27.367-03:00
-modified: 2026-05-02T18:36:36.084-03:00
+modified: 2026-05-02T18:25:50.273-03:00
 tags:
   - norbert
   - sistema

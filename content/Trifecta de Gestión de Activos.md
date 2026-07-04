@@ -4,7 +4,7 @@ aliases:
   - BlackRock - Vanguard - State Street (Trifecta)
   - BlackRock / Vanguard
 created: 2026-05-01T18:53:10.353-03:00
-modified: 2026-05-02T18:45:42.502-03:00
+modified: 2026-05-02T18:26:13.200-03:00
 tags:
   - finanzas
   - gestora

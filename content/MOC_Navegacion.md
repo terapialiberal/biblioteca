@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-25T21:18:02.942-03:00
-modified: 2026-05-02T18:36:17.414-03:00
+modified: 2026-06-02T15:42:02.346-03:00
 tags:
   - moc
   - navegacion
@@ -19,8 +19,8 @@ Este MOC existe para orientar al agente y al operador cuando el vault cambia de 
 
 ## Rutas vivas
 
-- `01_Radar/`: señales, radares y capturas iniciales.
-- `02_Research/`: investigación, hipótesis y desarrollo de tesis.
+- `01_Research/`: señales, radares y capturas iniciales.
+- `02_Preproduccion/`: investigación, hipótesis y desarrollo de tesis.
 - `03_Produccion/`: casos activos en estructura plana, listos para stream o publicación.
 - `04_Base_de_Conocimiento/`: wiki viva reutilizable, con notas compactas pero densas.
 - `06_Videos_Publicados/`: archivo histórico y ganancia cognitiva neta.

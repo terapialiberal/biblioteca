@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-25T22:28:50.481-03:00
-modified: 2026-05-02T18:46:50.993-03:00
+modified: 2026-05-02T18:26:18.899-03:00
 tags:
   - castigo-sistmico
   - jerarqua-poder
