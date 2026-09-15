@@ -1,16 +1,13 @@
 ---
+titulo: Patagonia
+tipo: nodo
+fecha: 2026-05-02
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Patagonia (Recursos Estratégicos)"]
+tags: [patagonia, argentina, recursos, agua, soberania, tl-intel-v3]
 publish: true
-aliases:
-  - Patagonia (Recursos Estratégicos)
-created: 2026-05-01T20:45:22.180-03:00
-modified: 2026-05-02T12:45:53.187-03:00
-tags:
-  - patagonia
-  - argentina
-  - recursos
-  - agua
-  - soberania
-  - tl-intel-v3
 ---
 
 # Patagonia

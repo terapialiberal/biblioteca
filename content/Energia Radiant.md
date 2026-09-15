@@ -1,16 +1,13 @@
 ---
+titulo: Energia Radiant
+tipo: concepto
+fecha: 2026-04-27
+estado: activo
+aliases: ["Energía Radiant (Tesla)", "Radiant energy"]
+tags: [energia-radiant, tesla, energia, tecnomito, tl-intel-v3]
+tier_primario: c
+nivel_evidencia: bajo
 publish: true
-aliases:
-  - Energía Radiant (Tesla)
-  - Radiant energy
-created: 2026-02-25T22:08:33.097-03:00
-modified: 2026-04-27T10:37:55.033-03:00
-tags:
-  - energia-radiant
-  - tesla
-  - energia
-  - tecnomito
-  - tl-intel-v3
 ---
 
 # Energia Radiant

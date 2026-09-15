@@ -1,13 +1,13 @@
 ---
+titulo: "Johnny Gosch"
 publish: true
-created: 2026-01-29T19:17:20.007-03:00
-modified: 2026-04-07T11:50:11.821-03:00
-tags:
-  - johnny-gosch
-  - franklin
-  - kompromat
-  - trafficking
-  - tl-intel-v3
+tipo: persona
+fecha: 2026-04-07
+tier_primario: B
+moc_canonico: [[00_MOC - Kompromat y Dark Game Theory]]
+estado: activo
+fuentes_clave: []
+tags: [johnny-gosch, franklin, kompromat, trafficking, tl-intel-v3]
 ---
 
 # [[Johnny Gosch]]

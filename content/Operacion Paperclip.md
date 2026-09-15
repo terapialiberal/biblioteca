@@ -1,14 +1,18 @@
 ---
-publish: true
+titulo: Operacion Paperclip
+tipo: evento
+fecha: 2026-04-18
+tier_primario: B
+nivel_evidencia: alto
+estado: activo
 aliases:
-  - Operación Paperclip
-created: 2026-01-29T19:17:28.773-03:00
-modified: 2026-04-18T18:31:42.507-03:00
+  - "Operación Paperclip"
 tags:
   - operacion-paperclip
   - inteligencia
   - guerra-fria
   - complejo-militar-industrial
+publish: true
 ---
 
 # [[Operacion Paperclip]]

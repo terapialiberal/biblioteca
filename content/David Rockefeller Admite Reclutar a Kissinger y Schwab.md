@@ -1,14 +1,11 @@
 ---
+link: https://x.com/terapia_liberal/status/2016962952155246667
+fecha: 2026-04-21
+tipo: evidencia
+estado: activo
+tags: [evidencia, david-rockefeller, henry-kissinger, klaus-schwab, clips, tl-intel-v3]
+titulo: David Rockefeller Admite Reclutar a Kissinger y Schwab
 publish: true
-created: 2026-02-06T11:09:44.809-03:00
-modified: 2026-05-02T18:24:37.870-03:00
-tags:
-  - evidencia
-  - david-rockefeller
-  - henry-kissinger
-  - klaus-schwab
-  - clips
-  - tl-intel-v3
 ---
 
 # David Rockefeller Admite Reclutar a Kissinger y Schwab

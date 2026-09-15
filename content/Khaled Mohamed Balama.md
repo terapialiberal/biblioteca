@@ -1,9 +1,10 @@
 ---
 publish: true
-created: 2026-04-29T14:52:49.843-03:00
-modified: 2026-05-02T18:25:39.005-03:00
-tags:
-  - base-de-conocimiento
+titulo: "Khaled Mohamed Balama"
+tipo: "actor"
+fecha: 2026-04-29
+estado: activo
+tags: [base-de-conocimiento]
 ---
 
 # Khaled Mohamed Balama

@@ -1,14 +1,12 @@
 ---
+titulo: Richard Perle
+tipo: persona
+fecha: 2026-04-21
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [richard-perle, neocon, defensa, palantir, atlantismo, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:34.022-03:00
-modified: 2026-04-21T12:57:49.781-03:00
-tags:
-  - richard-perle
-  - neocon
-  - defensa
-  - palantir
-  - atlantismo
-  - tl-intel-v3
 ---
 
 # Richard Perle

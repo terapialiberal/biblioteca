@@ -1,13 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T15:30:54.858-03:00
-modified: 2026-04-29T15:30:54.858-03:00
-tags:
-  - argentina
-  - litio
-  - energia
-  - finanzas
-  - tl-intel-v3
+tipo: entidad
+titulo: Integra Capital
+estado: activo
+tags: [argentina, litio, energia, finanzas, tl-intel-v3]
 ---
 
 # Integra Capital

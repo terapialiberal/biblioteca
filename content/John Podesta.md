@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T13:34:39.854-03:00
-modified: 2026-04-29T13:34:54.214-03:00
-tags:
-  - actor
-  - partido-democrata
-  - estados-unidos
-  - tl-intel-v3
+tipo: actor
+titulo: John Podesta
+estado: activo
+tags: [actor, partido-democrata, estados-unidos, tl-intel-v3]
 ---
 
 # John Podesta

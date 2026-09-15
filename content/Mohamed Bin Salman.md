@@ -1,14 +1,12 @@
 ---
+titulo: "Mohamed Bin Salman (MBS)"
 publish: true
-created: 2026-05-27T10:24:39.925-03:00
-modified: 2026-05-27T10:24:39.925-03:00
-tags:
-  - mbs
-  - arabia-saudita
-  - acuerdos-abraham
-  - imec
-  - medio-oriente
-  - tl-intel-v3
+tipo: persona
+fecha: 2026-05-27
+tier_primario: A
+estado: activo
+tags: [mbs, arabia-saudita, acuerdos-abraham, imec, medio-oriente, tl-intel-v3]
+last_stream: "[[06_Videos_Publicados/2026/2026-05-26_La_Trampa_de_Ormuz/00_ARCHIVO_2026-05-26_La_Trampa_de_Ormuz|ARCHIVO: La Trampa de Ormuz]]"
 ---
 
 # [[Mohamed Bin Salman]]

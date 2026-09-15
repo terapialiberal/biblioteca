@@ -1,15 +1,10 @@
 ---
 publish: true
-aliases:
-  - La Compañía de Jesús (Jesuitas)
-  - Jesuitas
-  - Compañía de Jesús
-created: 2026-05-01T18:46:49.852-03:00
-modified: 2026-05-02T18:25:15.771-03:00
-tags:
-  - orden-religiosa
-  - poder
-  - vaticano
+titulo: "Compañía de Jesús"
+aliases: ["La Compañía de Jesús (Jesuitas)", "Jesuitas", "Compañía de Jesús"]
+tags: [orden-religiosa, poder, vaticano]
+tipo: actor
+nivel: A
 ---
 
 # Compañía de Jesús

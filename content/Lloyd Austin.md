@@ -1,14 +1,12 @@
 ---
+titulo: Lloyd Austin
+tipo: persona
+fecha: 2026-04-19
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [lloyd-austin, pentagono, defensa, puertas-giratorias, raytheon, tl-intel-v3]
 publish: true
-created: 2026-04-19T13:28:18.817-03:00
-modified: 2026-04-19T13:28:19.356-03:00
-tags:
-  - lloyd-austin
-  - pentagono
-  - defensa
-  - puertas-giratorias
-  - raytheon
-  - tl-intel-v3
 ---
 
 # Lloyd Austin

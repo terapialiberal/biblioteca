@@ -1,16 +1,13 @@
 ---
+titulo: Council for National Policy
+tipo: entidad
+fecha: 2026-04-21
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["CNP"]
+tags: [cnp, derecha-estadounidense, donantes, evangelicos, estrategia, tl-intel-v3]
 publish: true
-aliases:
-  - CNP
-created: 2026-01-29T19:17:08.875-03:00
-modified: 2026-04-21T12:57:49.961-03:00
-tags:
-  - cnp
-  - derecha-estadounidense
-  - donantes
-  - evangelicos
-  - estrategia
-  - tl-intel-v3
 ---
 
 # Council for National Policy

@@ -1,15 +1,13 @@
 ---
+titulo: Reece Committee
+tipo: evento
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Comite Reece"]
+tags: [reece-committee, fundaciones, congreso-eeuu, norman-dodd, tl-intel-v3]
 publish: true
-aliases:
-  - Comite Reece
-created: 2026-01-29T19:17:32.867-03:00
-modified: 2026-04-29T14:44:29.772-03:00
-tags:
-  - reece-committee
-  - fundaciones
-  - congreso-eeuu
-  - norman-dodd
-  - tl-intel-v3
 ---
 
 # Reece Committee

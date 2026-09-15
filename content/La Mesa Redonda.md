@@ -1,12 +1,12 @@
 ---
+titulo: "La Mesa Redonda: El Código Fuente Del Globalismo Moderno"
+tipo: "persona"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [cecil, fuente, moderno, reserva]
 publish: true
-created: 2026-01-29T19:17:21.404-03:00
-modified: 2026-05-02T18:25:41.024-03:00
-tags:
-  - cecil
-  - fuente
-  - moderno
-  - reserva
 ---
 
 # La Mesa Redonda: El Código Fuente Del Globalismo Moderno

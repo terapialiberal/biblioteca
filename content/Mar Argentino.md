@@ -1,16 +1,12 @@
 ---
+titulo: Mar Argentino
+aliases: ["Mar Argentino (Pesca Ilegal)"]
+tipo: recurso-estrategico
+estado: activo
+fecha: 2026-04-18
+tier_primario: b
+tags: [argentina, recursos, soberania, pesca-ilegal, mar, tl-intel-v3]
 publish: true
-aliases:
-  - Mar Argentino (Pesca Ilegal)
-created: 2026-01-29T19:17:23.612-03:00
-modified: 2026-04-18T12:15:59.621-03:00
-tags:
-  - argentina
-  - recursos
-  - soberania
-  - pesca-ilegal
-  - mar
-  - tl-intel-v3
 ---
 
 # Mar Argentino

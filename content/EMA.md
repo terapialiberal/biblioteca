@@ -1,18 +1,13 @@
 ---
+titulo: EMA
+tipo: entidad
+fecha: 2026-04-21
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["European Medicines Agency", "Agencia Europea de Medicamentos"]
+tags: [ema, regulacion, europa, medicamentos, bioseguridad, captura-regulatoria, tl-intel-v3]
 publish: true
-aliases:
-  - European Medicines Agency
-  - Agencia Europea de Medicamentos
-created: 2026-04-21T13:30:23.828-03:00
-modified: 2026-04-22T17:00:23.416-03:00
-tags:
-  - ema
-  - regulacion
-  - europa
-  - medicamentos
-  - bioseguridad
-  - captura-regulatoria
-  - tl-intel-v3
 ---
 
 # EMA

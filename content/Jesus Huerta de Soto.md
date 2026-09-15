@@ -1,12 +1,12 @@
 ---
+titulo: "Jesús Huerta De Soto: El Fabricante De La Disidencia Intelectual"
+tipo: "concepto"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [huerta, jess, ludwig, soto]
 publish: true
-created: 2026-01-29T19:17:19.541-03:00
-modified: 2026-05-02T18:25:37.155-03:00
-tags:
-  - huerta
-  - jess
-  - ludwig
-  - soto
 ---
 
 # Jesús Huerta De Soto: El Fabricante De La Disidencia Intelectual

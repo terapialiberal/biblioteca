@@ -1,15 +1,13 @@
 ---
+titulo: Ley Smith-Mundt Modernizada
+tipo: concepto
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Ley Smith-Mundt Modernizada: La Guerra De Informacion Legalizada"]
+tags: [smith-mundt, guerra-cognitiva, propaganda, operaciones-de-informacion, tl-intel-v3]
 publish: true
-aliases:
-  - "Ley Smith-Mundt Modernizada: La Guerra De Informacion Legalizada"
-created: 2026-01-29T19:17:22.410-03:00
-modified: 2026-04-19T12:08:23.069-03:00
-tags:
-  - smith-mundt
-  - guerra-cognitiva
-  - propaganda
-  - operaciones-de-informacion
-  - tl-intel-v3
 ---
 
 # Ley Smith-Mundt Modernizada

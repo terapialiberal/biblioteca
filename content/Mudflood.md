@@ -1,12 +1,12 @@
 ---
+titulo: "Mudflood (Diluvio De Barro): La Evidencia Del Reset"
+tipo: "concepto"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [barro, diluvio, mudflood, reset]
 publish: true
-created: 2026-01-29T19:17:25.984-03:00
-modified: 2026-05-02T18:25:48.261-03:00
-tags:
-  - barro
-  - diluvio
-  - mudflood
-  - reset
 ---
 
 # Mudflood (Diluvio De Barro): La Evidencia Del Reset

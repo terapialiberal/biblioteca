@@ -1,13 +1,11 @@
 ---
 publish: true
-created: 2026-02-09T17:48:56.666-03:00
-modified: 2026-04-24T12:18:21.786-03:00
-tags:
-  - moc
-  - rimland
-  - geopolitica
-  - choke-points
-  - tl-intel-v3
+titulo: "MOC - Rimland"
+tipo: moc
+fecha: 2026-04-07
+estado: activo
+moc_canonico: [[00_MOC - Base de Conocimiento]]
+tags: [moc, rimland, geopolitica, choke-points, tl-intel-v3]
 ---
 
 # MOC - Rimland
@@ -136,6 +134,14 @@ tags:
 
 - [[06_Videos_Publicados/2026/2026-05-13_El mundo se reconfigura/00_ARCHIVO_El_mundo_se_reconfigura.md|00_ARCHIVO_El_mundo_se_reconfigura]]
 
+- [[03_Produccion/2026-09-14_El_dia_despues_tiene_duenios/00_CONTROL_TEMA.md|00_CONTROL_TEMA]]
+
+- [[02_Preproduccion/2026-09-14_Compilado_Noticias_TL/00_CONTROL_TEMA.md|00_CONTROL_TEMA]]
+
+- [[03_Produccion/2026-09-14_El_dia_despues_tiene_duenios/00_CORPUS_FORENSE.md|00_CORPUS_FORENSE]]
+
+- [[02_Preproduccion/2026-09-14_Compilado_Noticias_TL/00_CORPUS_FORENSE.md|00_CORPUS_FORENSE]]
+
 - [[00_MOC - Rimland.md|00_MOC - Rimland]]
 
 - [[África.md|África]]
@@ -180,11 +186,17 @@ tags:
 
 - [[Estrecho de Malaca (El talon de Aquiles de China).md|Estrecho de Malaca (El talon de Aquiles de China)]]
 
+- [[03_Produccion/2026-09-14_El_dia_despues_tiene_duenios/FUENTES_MARCADORES_2026-09-14.md|FUENTES_MARCADORES_2026-09-14]]
+
+- [[02_Preproduccion/2026-09-14_Compilado_Noticias_TL/FUENTES_MARCADORES_2026-09-14.md|FUENTES_MARCADORES_2026-09-14]]
+
 - [[06_Videos_Publicados/2025/2025-10-24_El_RESET_MALTHUSIANO_GEOPOLITICA/Graficos Geopolitica y Plan Marshall.md|Graficos Geopolitica y Plan Marshall]]
 
 - [[Haushofer.md|Haushofer]]
 
 - [[Hegemonía.md|Hegemonía]]
+
+- [[99_AI/06_Hermes/HERRAMIENTAS_DECISION.md|HERRAMIENTAS_DECISION]]
 
 - [[06_Videos_Publicados/2026/2026-05-26_La_Trampa_de_Ormuz/HILO_X_2026-05-26_La_Trampa_de_Ormuz.md|HILO_X_2026-05-26_La_Trampa_de_Ormuz]]
 

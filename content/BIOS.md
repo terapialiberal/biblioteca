@@ -1,14 +1,10 @@
 ---
 publish: true
-aliases:
-  - BIOS (Basic Input Output System)
-created: 2026-05-01T19:14:03.605-03:00
-modified: 2026-05-02T18:25:13.434-03:00
-tags:
-  - concepto
-  - computacion
-  - firmware
-  - control
+titulo: "BIOS"
+aliases: ["BIOS (Basic Input Output System)"]
+tags: [concepto, computacion, firmware, control]
+tipo: concepto
+nivel: C
 ---
 
 # BIOS - Sistema de Arranque

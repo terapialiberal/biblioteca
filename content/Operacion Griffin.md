@@ -1,12 +1,12 @@
 ---
+titulo: "Operación Griffin: La Arquitectura De La Unión Europea"
+tipo: "evento"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [arquitectura, europea, european, unin]
 publish: true
-created: 2026-01-29T19:17:28.525-03:00
-modified: 2026-05-02T18:25:52.135-03:00
-tags:
-  - arquitectura
-  - europea
-  - european
-  - unin
 ---
 
 # Operación Griffin: La Arquitectura De La Unión Europea

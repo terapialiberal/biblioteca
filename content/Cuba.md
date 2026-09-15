@@ -1,15 +1,11 @@
 ---
+titulo: Cuba
+tipo: nodo
+fecha: 2026-05-02
+estado: activo
+aliases: ["Cuba (Régimen)"]
+tags: [cuba, caribe, comunismo, inteligencia, tl-intel-v3]
 publish: true
-aliases:
-  - Cuba (Régimen)
-created: 2026-05-01T20:43:19.087-03:00
-modified: 2026-05-02T13:01:00.988-03:00
-tags:
-  - cuba
-  - caribe
-  - comunismo
-  - inteligencia
-  - tl-intel-v3
 ---
 
 # Cuba

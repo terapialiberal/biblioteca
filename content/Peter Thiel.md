@@ -1,16 +1,15 @@
 ---
+titulo: Peter Thiel
+tipo: persona
+fecha: 2026-04-20
+vigencia: 2026-06-17
+tier_primario: a
+nivel_evidencia: medio
+estado: activo
+aliases: ["Peter Thiel: El Arquitecto Del Tecno-Feudalismo"]
+tags: [peter-thiel, paypal-mafia, palantir, venture-capital, tecnocracia, tl-intel-v3]
 publish: true
-aliases:
-  - "Peter Thiel: El Arquitecto Del Tecno-Feudalismo"
-created: 2026-01-29T19:17:30.419-03:00
-modified: 2026-07-03T14:43:25.930-03:00
-tags:
-  - peter-thiel
-  - paypal-mafia
-  - palantir
-  - venture-capital
-  - tecnocracia
-  - tl-intel-v3
+last_stream: "[[06_Videos_Publicados/2026/2026-06-17_Endgame_Ormuz/POSTMORTEM_INTEL|Endgame de Ormuz]]"
 ---
 
 # Peter Thiel
@@ -72,3 +71,9 @@ La nota gana aún más fuerza cuando se la conecta con [[Palantir]], [[Anduril I
 - **Dialog:** WIRED filtró 113+ miembros de su sociedad secreta: Bessent (Treasury), Musk, Ted Cruz, general supremo OTAN en Europa. Retiro anual 12-16 ago 2026 en Dublín. Paneles: "Navigating WWIII", "Bring Back Nuclear", "Build-a-Cult."
 - **Conexiones:** Vance, Bessent, Musk, Warsh — toda la red del tecnato en Dialog.
 - **Fuentes:** WIRED (jun 2026)
+
+## Caso 2026-09-09\_Compilado\_Noticias\_TL (2026-09-11)
+
+- **Covenant (respaldada por Founders Fund) sale del modo sigilo** con un misil de ataque profundo: ~US$150K vs US$4-6M del Tomahawk; fabricas proyectadas en Dallas, Leipzig e Israel; meta 5.000 unidades/año hacia 2028. La guerra de largo alcance como industria de venture capital. Ref: Financial Times https://www.ft.com/content/b66ff736-528b-4e3e-a43a-f06749d01991
+- **Lectura del caso:** "Thiel apuesta a que la guerra profunda es industria"; la UE profundiza defensa con Israel (fabrica de Rafael en una ex-planta Volkswagen, Grecia €3.000M) el mismo dia — refuerza el nodo defensa-IA-capital. Ref: Politico https://www.politico.eu/article/eu-closer-ties-israel-air-defense-space/
+- Ficha completa: `03_Produccion/2026-09-09_Compilado_Noticias_TL/POSTMORTEM_INTEL.md`

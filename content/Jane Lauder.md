@@ -1,13 +1,12 @@
 ---
+titulo: Jane Lauder
+tipo: persona
+fecha: 2026-04-20
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [jane-lauder, kevin-warsh, lauder-family, elite-networks, tl-intel-v3]
 publish: true
-created: 2026-04-20T16:59:34.815-03:00
-modified: 2026-04-20T16:59:34.815-03:00
-tags:
-  - jane-lauder
-  - kevin-warsh
-  - lauder-family
-  - elite-networks
-  - tl-intel-v3
 ---
 
 # Jane Lauder

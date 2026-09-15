@@ -1,14 +1,10 @@
 ---
 publish: true
-aliases:
-  - ByteDance
-created: 2026-05-01T19:10:12.570-03:00
-modified: 2026-05-02T18:25:14.348-03:00
-tags:
-  - empresa
-  - china
-  - tiktok
-  - redes-sociales
+titulo: "ByteDance"
+aliases: ["ByteDance"]
+tags: [empresa, china, tiktok, redes-sociales]
+tipo: empresa
+nivel: B
 ---
 
 # ByteDance

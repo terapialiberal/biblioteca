@@ -1,14 +1,12 @@
 ---
+titulo: Manufacture of Consent 2.0
+tipo: concepto
+fecha: 2026-04-21
+tier_primario: b
+nivel_evidencia: alto
+estado: activo
+tags: [manufacture-of-consent-2-0, medios, plataformas, propaganda, reputacion, tl-intel-v3]
 publish: true
-created: 2026-02-25T16:09:26.306-03:00
-modified: 2026-04-21T19:28:50.334-03:00
-tags:
-  - manufacture-of-consent-2-0
-  - medios
-  - plataformas
-  - propaganda
-  - reputacion
-  - tl-intel-v3
 ---
 
 # Manufacture of Consent 2.0

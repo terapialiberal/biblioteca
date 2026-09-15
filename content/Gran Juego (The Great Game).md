@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:13:08.488-03:00
-modified: 2026-04-29T14:13:26.722-03:00
-tags:
-  - geostrategia
-  - asia-central
-  - imperio
-  - tl-intel-v3
+tipo: concepto
+titulo: Gran Juego (The Great Game)
+estado: activo
+tags: [geostrategia, asia-central, imperio, tl-intel-v3]
 ---
 
 # Gran Juego (The Great Game)

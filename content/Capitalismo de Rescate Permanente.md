@@ -1,14 +1,10 @@
 ---
 publish: true
-aliases:
-  - Capitalismo de Rescate Permanente
-created: 2026-05-01T20:10:39.544-03:00
-modified: 2026-05-02T18:25:14.668-03:00
-tags:
-  - concepto
-  - finanzas
-  - riesgo-moral
-  - fed
+titulo: "Capitalismo de Rescate Permanente"
+aliases: ["Capitalismo de Rescate Permanente"]
+tags: [concepto, finanzas, riesgo-moral, fed]
+tipo: concepto
+nivel: A
 ---
 
 # Capitalismo de Rescate Permanente

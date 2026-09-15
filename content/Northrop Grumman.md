@@ -1,14 +1,12 @@
 ---
+titulo: Northrop Grumman
+tipo: organizacion
+fecha: 2026-04-20
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [northrop-grumman, defensa, stealth, espacio, contratistas, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:27.458-03:00
-modified: 2026-04-20T09:25:23.572-03:00
-tags:
-  - northrop-grumman
-  - defensa
-  - stealth
-  - espacio
-  - contratistas
-  - tl-intel-v3
 ---
 
 # Northrop Grumman

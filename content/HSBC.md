@@ -1,15 +1,11 @@
 ---
+titulo: HSBC
+tipo: entidad
+fecha: 2026-05-02
+estado: activo
+aliases: ["HSBC Holdings"]
+tags: [hsbc, banca, hong-kong, lavado, tl-intel-v3]
 publish: true
-aliases:
-  - HSBC Holdings
-created: 2026-01-29T19:17:17.510-03:00
-modified: 2026-05-02T13:06:23.447-03:00
-tags:
-  - hsbc
-  - banca
-  - hong-kong
-  - lavado
-  - tl-intel-v3
 ---
 
 # HSBC

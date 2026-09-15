@@ -1,12 +1,12 @@
 ---
+titulo: "Operación Soberanía: El Abismo Del Nacionalismo De Cuartel"
+tipo: "evento"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [cuartel, guerra, nacionalismo, soberana]
 publish: true
-created: 2026-01-29T19:17:28.899-03:00
-modified: 2026-05-02T18:25:52.601-03:00
-tags:
-  - cuartel
-  - guerra
-  - nacionalismo
-  - soberana
 ---
 
 # Operación Soberanía: El Abismo Del Nacionalismo De Cuartel

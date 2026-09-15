@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T13:34:40.901-03:00
-modified: 2026-04-29T13:34:56.827-03:00
-tags:
-  - concepto
-  - guerra-proxy
-  - pmc
-  - tl-intel-v3
+tipo: concepto
+titulo: Mercenarios
+estado: activo
+tags: [concepto, guerra-proxy, pmc, tl-intel-v3]
 ---
 
 # Mercenarios

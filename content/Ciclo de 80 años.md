@@ -1,17 +1,13 @@
 ---
+titulo: Ciclo de 80 años
+tipo: concepto
+fecha: 2026-04-27
+estado: activo
+aliases: ["Ciclo De 80 Años (The Turning)", "Fourth Turning", "The Fourth Turning"]
+tags: [ciclo-80-anos, fourth-turning, ciclos-historicos, crisis, tl-intel-v3]
+tier_primario: b
+nivel_evidencia: medio
 publish: true
-aliases:
-  - Ciclo De 80 Años (The Turning)
-  - Fourth Turning
-  - The Fourth Turning
-created: 2026-02-25T22:08:51.665-03:00
-modified: 2026-04-27T10:30:51.878-03:00
-tags:
-  - ciclo-80-anos
-  - fourth-turning
-  - ciclos-historicos
-  - crisis
-  - tl-intel-v3
 ---
 
 # Ciclo de 80 años

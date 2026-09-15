@@ -1,12 +1,14 @@
 ---
 publish: true
-created: 2026-04-29T14:05:23.346-03:00
-modified: 2026-05-02T14:13:36.910-03:00
+tipo: alias
+titulo: Bahía de Cochinos
+estado: activo
 tags:
   - alias
   - cuba
   - operaciones-encubiertas
   - tl-intel-v3
+reemplazado_por: '[[Bahia de Cochinos]]'
 ---
 
 # Bahía de Cochinos

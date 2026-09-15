@@ -1,14 +1,13 @@
 ---
+titulo: Algorithmic Governance
+tipo: concepto
+fecha: 2026-04-17
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Gobernanza Algoritmica"]
+tags: [algorithmic-governance, gobernanza-algoritmica, tecnocracia, tl-intel-v3]
 publish: true
-aliases:
-  - Gobernanza Algoritmica
-created: 2026-02-25T16:10:40.583-03:00
-modified: 2026-04-17T14:27:30.404-03:00
-tags:
-  - algorithmic-governance
-  - gobernanza-algoritmica
-  - tecnocracia
-  - tl-intel-v3
 ---
 
 # Algorithmic Governance

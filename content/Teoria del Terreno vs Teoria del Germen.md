@@ -1,14 +1,12 @@
 ---
+titulo: Teoria del Terreno vs Teoria del Germen
+tipo: concepto
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [terreno, germen, medicina, virologia, informe-flexner, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:39.195-03:00
-modified: 2026-04-18T10:51:13.091-03:00
-tags:
-  - terreno
-  - germen
-  - medicina
-  - virologia
-  - informe-flexner
-  - tl-intel-v3
 ---
 
 # Teoria del Terreno vs Teoria del Germen

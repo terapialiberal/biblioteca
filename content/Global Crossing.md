@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:13:04.520-03:00
-modified: 2026-04-29T14:13:26.661-03:00
-tags:
-  - telecomunicaciones
-  - infraestructura
-  - burbuja-dotcom
-  - tl-intel-v3
+tipo: actor
+titulo: Global Crossing
+estado: activo
+tags: [telecomunicaciones, infraestructura, burbuja-dotcom, tl-intel-v3]
 ---
 
 # Global Crossing

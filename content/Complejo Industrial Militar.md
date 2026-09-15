@@ -1,12 +1,10 @@
 ---
 publish: true
-created: 2026-04-29T14:09:21.899-03:00
-modified: 2026-05-02T14:12:06.769-03:00
-tags:
-  - alias
-  - defensa
-  - industria
-  - tl-intel-v3
+tipo: alias
+titulo: Complejo Industrial Militar
+estado: activo
+reemplazado_por: "[[Complejo Militar-Industrial]]"
+tags: [alias, defensa, industria, tl-intel-v3]
 ---
 
 # Complejo Industrial Militar

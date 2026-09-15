@@ -1,14 +1,12 @@
 ---
+titulo: "Jensen Huang"
 publish: true
-created: 2026-01-29T19:17:19.473-03:00
-modified: 2026-05-27T10:25:24.975-03:00
-tags:
-  - jensen-huang
-  - nvidia
-  - bitcoin
-  - energia
-  - ia
-  - tl-intel-v3
+tipo: persona
+fecha: 2026-05-27
+tier_primario: A
+estado: activo
+tags: [jensen-huang, nvidia, bitcoin, energia, ia, tl-intel-v3]
+last_stream: "[[06_Videos_Publicados/2026/2026-05-26_La_Trampa_de_Ormuz/00_ARCHIVO_2026-05-26_La_Trampa_de_Ormuz|ARCHIVO: La Trampa de Ormuz]]"
 ---
 
 # [[Jensen Huang]]

@@ -1,13 +1,15 @@
 ---
 publish: true
-created: 2026-04-29T15:30:56.480-03:00
-modified: 2026-05-02T14:17:54.125-03:00
+tipo: alias
+titulo: IOR (Banco del Vaticano)
+estado: activo
 tags:
   - alias
   - vaticano
   - banca
   - finanzas-opacas
   - tl-intel-v3
+reemplazado_por: '[[Banco Vaticano]]'
 ---
 
 # IOR (Banco del Vaticano)

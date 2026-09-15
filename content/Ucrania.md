@@ -1,15 +1,11 @@
 ---
+titulo: Ucrania
+tipo: nodo
+fecha: 2026-05-02
+estado: activo
+aliases: ["Ukraine"]
+tags: [ucrania, guerra, rusia, otan, tl-intel-v3]
 publish: true
-aliases:
-  - Ukraine
-created: 2026-04-29T13:20:58.508-03:00
-modified: 2026-05-02T13:45:56.559-03:00
-tags:
-  - ucrania
-  - guerra
-  - rusia
-  - otan
-  - tl-intel-v3
 ---
 
 # Ucrania

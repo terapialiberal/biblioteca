@@ -1,16 +1,12 @@
 ---
+titulo: Conferencia Bilderberg
+tipo: alias
+fecha: 2026-05-02
+estado: legacy
+reemplazado_por: [[Bilderberg]]
+aliases: ["Conferencia Bilderberg", "Grupo Bilderberg"]
+tags: [alias, legacy, bilderberg, elite, tl-intel-v3]
 publish: true
-aliases:
-  - Conferencia Bilderberg
-  - Grupo Bilderberg
-created: 2026-05-01T20:12:35.910-03:00
-modified: 2026-05-02T13:54:52.083-03:00
-tags:
-  - alias
-  - legacy
-  - bilderberg
-  - elite
-  - tl-intel-v3
 ---
 
 # Conferencia Bilderberg

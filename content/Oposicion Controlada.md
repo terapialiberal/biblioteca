@@ -1,13 +1,12 @@
 ---
+titulo: Oposicion Controlada
+tipo: concepto
+fecha: 2026-04-21
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [oposicion-controlada, guerra-cognitiva, disidencia, cooptacion, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:29.180-03:00
-modified: 2026-04-21T19:22:12.738-03:00
-tags:
-  - oposicion-controlada
-  - guerra-cognitiva
-  - disidencia
-  - cooptacion
-  - tl-intel-v3
 ---
 
 # Oposicion Controlada

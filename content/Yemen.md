@@ -1,15 +1,11 @@
 ---
+titulo: Yemen
+tipo: nodo
+fecha: 2026-05-02
+estado: activo
+aliases: ["Yemen (Conflicto)"]
+tags: [yemen, huties, mar-rojo, arabia-saudita, tl-intel-v3]
 publish: true
-aliases:
-  - Yemen (Conflicto)
-created: 2026-05-01T20:44:32.028-03:00
-modified: 2026-05-02T12:49:51.951-03:00
-tags:
-  - yemen
-  - huties
-  - mar-rojo
-  - arabia-saudita
-  - tl-intel-v3
 ---
 
 # Yemen

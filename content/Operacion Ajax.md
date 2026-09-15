@@ -1,16 +1,13 @@
 ---
+titulo: Operacion Ajax
+tipo: evento
+fecha: 2026-04-21
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Operación Ajax"]
+tags: [operacion-ajax, golpe-de-estado, iran, cia, mi6, tl-intel-v3]
 publish: true
-aliases:
-  - Operación Ajax
-created: 2026-01-29T19:17:28.337-03:00
-modified: 2026-04-22T12:22:22.492-03:00
-tags:
-  - operacion-ajax
-  - golpe-de-estado
-  - iran
-  - cia
-  - mi6
-  - tl-intel-v3
 ---
 
 # Operacion Ajax

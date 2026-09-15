@@ -1,15 +1,11 @@
 ---
+titulo: Nvidia
+tipo: entidad
+fecha: 2026-05-02
+estado: activo
+aliases: ["NVIDIA"]
+tags: [nvidia, chips, ia, gpu, tl-intel-v3]
 publish: true
-aliases:
-  - NVIDIA
-created: 2026-01-29T19:17:27.663-03:00
-modified: 2026-05-02T13:04:15.875-03:00
-tags:
-  - nvidia
-  - chips
-  - ia
-  - gpu
-  - tl-intel-v3
 ---
 
 # Nvidia

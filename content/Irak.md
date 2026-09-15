@@ -1,16 +1,11 @@
 ---
+titulo: Irak
+tipo: nodo
+fecha: 2026-05-02
+estado: activo
+aliases: ["Irak (Invasión)", "Irak (Invasion)"]
+tags: [irak, petroleo, medio-oriente, guerra, tl-intel-v3]
 publish: true
-aliases:
-  - Irak (Invasión)
-  - Irak (Invasion)
-created: 2026-04-29T15:31:50.805-03:00
-modified: 2026-05-02T13:01:00.835-03:00
-tags:
-  - irak
-  - petroleo
-  - medio-oriente
-  - guerra
-  - tl-intel-v3
 ---
 
 # Irak

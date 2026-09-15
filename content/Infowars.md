@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T13:36:32.128-03:00
-modified: 2026-04-29T13:37:15.580-03:00
-tags:
-  - medio
-  - conspiracionismo
-  - estados-unidos
-  - tl-intel-v3
+tipo: medio
+titulo: Infowars
+estado: activo
+tags: [medio, conspiracionismo, estados-unidos, tl-intel-v3]
 ---
 
 # Infowars

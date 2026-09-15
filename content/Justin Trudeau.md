@@ -1,12 +1,12 @@
 ---
+titulo: "Justin Trudeau: El Prototipo De La Gobernanza Post-Democrática"
+tipo: "persona"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [gobernanza, gran, post, prototipo]
 publish: true
-created: 2026-01-29T19:17:20.506-03:00
-modified: 2026-05-02T18:25:38.590-03:00
-tags:
-  - gobernanza
-  - gran
-  - post
-  - prototipo
 ---
 
 # Justin Trudeau: El Prototipo De La Gobernanza Post-Democrática

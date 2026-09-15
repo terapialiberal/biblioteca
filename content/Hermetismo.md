@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:44:31.259-03:00
-modified: 2026-04-29T14:44:42.944-03:00
-tags:
-  - esoterismo
-  - simbolismo
-  - tradicion
-  - tl-intel-v3
+tipo: concepto
+titulo: Hermetismo
+estado: activo
+tags: [esoterismo, simbolismo, tradicion, tl-intel-v3]
 ---
 
 # Hermetismo

@@ -1,16 +1,13 @@
 ---
+titulo: Air America
+tipo: entidad
+fecha: 2026-04-21
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Air America (La Aerolínea De La CIA)"]
+tags: [air-america, cia, logistica-encubierta, sudeste-asiatico, narcotrafico, tl-intel-v3]
 publish: true
-aliases:
-  - Air America (La Aerolínea De La CIA)
-created: 2026-01-29T19:17:03.096-03:00
-modified: 2026-04-22T11:59:01.430-03:00
-tags:
-  - air-america
-  - cia
-  - logistica-encubierta
-  - sudeste-asiatico
-  - narcotrafico
-  - tl-intel-v3
 ---
 
 # Air America

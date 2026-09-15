@@ -1,12 +1,14 @@
 ---
 publish: true
-created: 2026-04-29T13:58:24.578-03:00
-modified: 2026-05-02T14:14:08.247-03:00
+tipo: alias
+titulo: William Colby
+estado: activo
 tags:
   - alias
   - cia
   - inteligencia
   - tl-intel-v3
+reemplazado_por: '[[William Colby - Wikispooks]]'
 ---
 
 # William Colby

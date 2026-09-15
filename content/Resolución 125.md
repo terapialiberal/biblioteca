@@ -1,13 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T13:34:40.625-03:00
-modified: 2026-04-29T13:34:54.056-03:00
-tags:
-  - evento
-  - argentina
-  - agro
-  - conflicto-distributivo
-  - tl-intel-v3
+tipo: evento
+titulo: Resolución 125
+estado: activo
+tags: [evento, argentina, agro, conflicto-distributivo, tl-intel-v3]
 ---
 
 # Resolución 125

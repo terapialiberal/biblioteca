@@ -1,12 +1,10 @@
 ---
 publish: true
-created: 2026-04-29T13:58:24.404-03:00
-modified: 2026-05-02T14:12:06.727-03:00
-tags:
-  - alias
-  - simbolismo
-  - esoterismo
-  - tl-intel-v3
+tipo: alias
+titulo: Simbolismo y Esoterismo
+estado: activo
+reemplazado_por: "[[00_MOC - Simbolismo y Esoterismo]]"
+tags: [alias, simbolismo, esoterismo, tl-intel-v3]
 ---
 
 # Simbolismo y Esoterismo

@@ -1,13 +1,11 @@
 ---
+titulo: Transhumanismo (La Fusion Digital)
+tipo: alias
+fecha: 2026-04-21
+estado: legacy
+reemplazado_por: [[Transhumanismo]]
+tags: [alias, legacy, transhumanismo, bio-digital, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:40.988-03:00
-modified: 2026-04-21T12:24:11.765-03:00
-tags:
-  - alias
-  - legacy
-  - transhumanismo
-  - bio-digital
-  - tl-intel-v3
 ---
 
 # Transhumanismo (La Fusion Digital)

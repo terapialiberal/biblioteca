@@ -1,16 +1,11 @@
 ---
+titulo: DEI
+tipo: concepto
+fecha: 2026-05-02
+estado: activo
+aliases: ["DEI (Diversidad Equidad Inclusión)", "Diversidad Equidad Inclusión"]
+tags: [dei, cultura-corporativa, identidad, gobernanza, tl-intel-v3]
 publish: true
-aliases:
-  - DEI (Diversidad Equidad Inclusión)
-  - Diversidad Equidad Inclusión
-created: 2026-05-01T20:42:31.788-03:00
-modified: 2026-05-02T12:50:43.522-03:00
-tags:
-  - dei
-  - cultura-corporativa
-  - identidad
-  - gobernanza
-  - tl-intel-v3
 ---
 
 # DEI

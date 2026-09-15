@@ -1,14 +1,12 @@
 ---
 publish: true
-created: 2026-02-25T14:29:22.116-03:00
-modified: 2026-05-26T12:30:06.148-03:00
-tags:
-  - stargate
-  - openai
-  - microsoft
-  - energia
-  - data-centers
-  - tl-intel-v3
+titulo: Project Stargate
+tipo: concepto
+fecha: 2026-04-17
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [stargate, openai, microsoft, energia, data-centers, tl-intel-v3]
 ---
 
 # Project Stargate

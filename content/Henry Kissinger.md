@@ -1,14 +1,12 @@
 ---
+titulo: Henry Kissinger
+tipo: persona
+fecha: 2026-04-21
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [henry-kissinger, realpolitik, golpes-de-estado, cfr, bilderberg, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:16.957-03:00
-modified: 2026-04-22T12:23:45.751-03:00
-tags:
-  - henry-kissinger
-  - realpolitik
-  - golpes-de-estado
-  - cfr
-  - bilderberg
-  - tl-intel-v3
 ---
 
 # Henry Kissinger

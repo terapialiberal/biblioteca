@@ -1,15 +1,12 @@
 ---
+titulo: La Ventana de Overton
+tipo: alias
+fecha: 2026-04-27
+estado: legacy
+aliases: ["La Ventana De Overton"]
+reemplazado_por: "[[Ventana de Overton]]"
+tags: [alias, legacy, ventana-de-overton, opinion-publica, tl-intel-v3]
 publish: true
-aliases:
-  - La Ventana De Overton
-created: 2026-02-25T22:08:56.062-03:00
-modified: 2026-04-27T10:09:46.518-03:00
-tags:
-  - alias
-  - legacy
-  - ventana-de-overton
-  - opinion-publica
-  - tl-intel-v3
 ---
 
 # La Ventana de Overton

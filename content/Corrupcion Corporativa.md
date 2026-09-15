@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T13:53:51.388-03:00
-modified: 2026-04-29T13:53:51.388-03:00
-tags:
-  - corporaciones
-  - compliance
-  - captura-regulatoria
-  - tl-intel-v3
+tipo: concepto
+titulo: Corrupcion Corporativa
+estado: activo
+tags: [corporaciones, compliance, captura-regulatoria, tl-intel-v3]
 ---
 
 # Corrupcion Corporativa

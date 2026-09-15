@@ -1,18 +1,13 @@
 ---
+titulo: Jueces Federales de Comodoro Py
+tipo: entidad
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Jueces Federales De Comodoro Py: La Aduana De La Impunidad", "Comodoro Py"]
+tags: [argentina, justicia, lawfare, jueces, afi, impunidad, tl-intel-v3]
 publish: true
-aliases:
-  - "Jueces Federales De Comodoro Py: La Aduana De La Impunidad"
-  - Comodoro Py
-created: 2026-01-29T19:17:20.345-03:00
-modified: 2026-04-18T11:12:18.289-03:00
-tags:
-  - argentina
-  - justicia
-  - lawfare
-  - jueces
-  - afi
-  - impunidad
-  - tl-intel-v3
 ---
 
 # Jueces Federales de Comodoro Py

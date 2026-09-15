@@ -1,16 +1,13 @@
 ---
+titulo: Cesar Milani
+tipo: persona
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["César Milani"]
+tags: [argentina, milani, inteligencia, ejercito, kirchnerismo, tl-intel-v3]
 publish: true
-aliases:
-  - César Milani
-created: 2026-01-29T19:17:09.501-03:00
-modified: 2026-04-18T12:02:47.262-03:00
-tags:
-  - argentina
-  - milani
-  - inteligencia
-  - ejercito
-  - kirchnerismo
-  - tl-intel-v3
 ---
 
 # Cesar Milani

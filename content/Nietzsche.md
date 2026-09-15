@@ -1,15 +1,11 @@
 ---
+titulo: Nietzsche
+tipo: nodo
+fecha: 2026-05-02
+estado: activo
+aliases: ["Friedrich Nietzsche"]
+tags: [nietzsche, filosofia, nihilismo, voluntad-poder, tl-intel-v3]
 publish: true
-aliases:
-  - Friedrich Nietzsche
-created: 2026-05-01T20:17:15.620-03:00
-modified: 2026-05-02T13:44:01.680-03:00
-tags:
-  - nietzsche
-  - filosofia
-  - nihilismo
-  - voluntad-poder
-  - tl-intel-v3
 ---
 
 # Nietzsche

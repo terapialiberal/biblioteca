@@ -1,15 +1,11 @@
 ---
+titulo: Venezuela
+tipo: nodo
+fecha: 2026-05-02
+estado: activo
+aliases: ["Venezuela (Crisis)"]
+tags: [venezuela, petroleo, socialismo, crisis, tl-intel-v3]
 publish: true
-aliases:
-  - Venezuela (Crisis)
-created: 2026-04-29T13:36:23.265-03:00
-modified: 2026-05-02T13:01:01.033-03:00
-tags:
-  - venezuela
-  - petroleo
-  - socialismo
-  - crisis
-  - tl-intel-v3
 ---
 
 # Venezuela

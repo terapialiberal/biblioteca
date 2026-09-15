@@ -1,13 +1,12 @@
 ---
+titulo: Vanguard & State Street
+tipo: concepto
+fecha: 2026-04-17
+tier_primario: a
+nivel_evidencia: medio
+estado: activo
+tags: [vanguard, state-street, big-three, control-financiero, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:42.794-03:00
-modified: 2026-04-27T11:15:43.343-03:00
-tags:
-  - vanguard
-  - state-street
-  - big-three
-  - control-financiero
-  - tl-intel-v3
 ---
 
 # Vanguard & State Street

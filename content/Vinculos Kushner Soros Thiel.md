@@ -1,13 +1,12 @@
 ---
+titulo: Vinculos Kushner Soros Thiel
+tipo: import
+estado: capturado
+fuente: https://www.businessinsider.com/jared-kushner-ties-george-soros-goldman-sachs-peter-thiel-1-billion-loan-2017-5
+fecha: 2017-05-02
+descripcion: Import estabilizado sobre vinculos comerciales no divulgados entre Jared Kushner, George Soros, Peter Thiel y Goldman Sachs.
+tags: [jared-kushner, george-soros, peter-thiel, goldman-sachs, import]
 publish: true
-created: 2026-01-29T19:05:10.070-03:00
-modified: 2026-05-02T18:26:15.933-03:00
-tags:
-  - jared-kushner
-  - george-soros
-  - peter-thiel
-  - goldman-sachs
-  - import
 ---
 
 # Vinculos Kushner Soros Thiel

@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:05:24.820-03:00
-modified: 2026-04-29T14:05:40.075-03:00
-tags:
-  - clima
-  - narrativa
-  - gobernanza-global
-  - tl-intel-v3
+tipo: concepto
+titulo: Cambio Climático (Narrativa)
+estado: activo
+tags: [clima, narrativa, gobernanza-global, tl-intel-v3]
 ---
 
 # Cambio Climático (Narrativa)

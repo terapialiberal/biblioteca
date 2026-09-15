@@ -1,13 +1,12 @@
 ---
+titulo: Mar-a-Lago
+tipo: entidad
+fecha: 2026-04-20
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [mar-a-lago, trump, elite, diplomacia-privada, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:23.685-03:00
-modified: 2026-04-20T19:30:54.171-03:00
-tags:
-  - mar-a-lago
-  - trump
-  - elite
-  - diplomacia-privada
-  - tl-intel-v3
 ---
 
 # Mar-a-Lago

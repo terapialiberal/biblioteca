@@ -1,15 +1,13 @@
 ---
+titulo: Anclajes Psicologicos del Tier B
+tipo: patron
+fecha: 2026-04-27
+estado: activo
+aliases: ["Anclajes Psicológicos del Tier B"]
+tags: [tier-b, anclajes-psicologicos, operadores, incentivos, tl-intel-v3]
+tier_primario: b
+nivel_evidencia: medio
 publish: true
-aliases:
-  - Anclajes Psicológicos del Tier B
-created: 2026-02-25T22:08:56.719-03:00
-modified: 2026-04-27T10:37:56.855-03:00
-tags:
-  - tier-b
-  - anclajes-psicologicos
-  - operadores
-  - incentivos
-  - tl-intel-v3
 ---
 
 # Anclajes Psicologicos del Tier B

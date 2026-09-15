@@ -1,13 +1,9 @@
 ---
 publish: true
-created: 2026-05-02T14:03:46.372-03:00
-modified: 2026-05-02T14:03:46.380-03:00
-tags:
-  - fundaciones
-  - clinton
-  - filantrocapitalismo
-  - soft-power
-  - tl-intel-v3
+tipo: organizacion
+titulo: Clinton Foundation
+estado: activo
+tags: [fundaciones, clinton, filantrocapitalismo, soft-power, tl-intel-v3]
 ---
 
 # Clinton Foundation

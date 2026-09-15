@@ -1,13 +1,11 @@
 ---
 publish: true
-created: 2026-02-24T13:31:46.461-03:00
-modified: 2026-04-24T10:52:44.491-03:00
-tags:
-  - moc
-  - operaciones-encubiertas
-  - inteligencia
-  - false-flag
-  - tl-intel-v3
+titulo: "MOC - Operaciones Encubiertas"
+tipo: moc
+fecha: 2026-04-07
+estado: activo
+moc_canonico: [[00_MOC - Base de Conocimiento]]
+tags: [moc, operaciones-encubiertas, inteligencia, false-flag, tl-intel-v3]
 ---
 
 # MOC - Operaciones Encubiertas
@@ -237,8 +235,6 @@ tags:
 
 - [[Jeffrey Epstein.md|Jeffrey Epstein]]
 
-- [[John Poindexter.md|John Poindexter]]
-
 - [[Jonathan Pollard.md|Jonathan Pollard]]
 
 - [[Katharine Graham.md|Katharine Graham]]
@@ -281,15 +277,11 @@ tags:
 
 - [[06_Videos_Publicados/2026/2026-04-07_NWO_Energetico_Blueprint/NOTA_TESIS_NWO_Energetico_Blueprint.md|NOTA_TESIS_NWO_Energetico_Blueprint]]
 
-- [[06_Videos_Publicados/2026/2026-03-17 IRAN_STREAM/NotaTesis_Chabad_RedCoordenacion_v1.md|NotaTesis_Chabad_RedCoordenacion_v1]]
-
 - [[NRO.md|NRO]]
 
 - [[Operacion Able Danger.md|Operacion Able Danger]]
 
 - [[Operacion Chaos.md|Operacion Chaos]]
-
-- [[Operación Gladio.md|Operación Gladio]]
 
 - [[Operación Northwoods.md|Operación Northwoods]]
 
@@ -309,9 +301,7 @@ tags:
 
 - [[Palantir CIA.md|Palantir CIA]]
 
-- [[02_Preproduccion/2026-04-10_Milei_BlackRock_Elite/Paper de Trabajo - Palantir-SIDE.md|Paper de Trabajo - Palantir-SIDE]]
-
-- [[99_AI/03_Prompts/04_DISTRIBUCION/03_PATREON/PATREON_Analisis_Extendido.md|PATREON_Analisis_Extendido]]
+- [[08_Archivados/2026-04-10_Milei_BlackRock_Elite/Paper de Trabajo - Palantir-SIDE.md|Paper de Trabajo - Palantir-SIDE]]
 
 - [[Patron - Need to Know (Necesidad de Saber).md|Patron - Need to Know (Necesidad de Saber)]]
 

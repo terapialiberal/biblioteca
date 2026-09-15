@@ -48,6 +48,7 @@ El análisis de los archivos indica que el DOJ liberó datos de manera **asimét
 - [[Donald Trump]]: El firmante de la ley de transparencia que forzó el vertido.
 - [[Bill Gates]]: Frecuencia de menciones en los correos sobre salud global.
 - [[Ghislaine Maxwell]]: Su intento de bloquear legalmente 90.000 documentos clave.
+- [[Lindsey Graham]]: (Tier C, fallecido 11-jul-2026) financiado por defense contractors bajo el Big Three; cara pagada de la máquina. El caso [[06_Videos_Publicados/2026/2026-07-13_Graham_BigThree_Ankara/POSTMORTEM_INTEL|Graham_BigThree_Ankara]] (17-jul) cierra la genealogía BCCI→Epstein→[[Mega Group]]→Graham como la red de captura que alimenta la red de guerra.
 
 ## Conclusión
 

@@ -1,14 +1,12 @@
 ---
+titulo: Ghislaine Maxwell
+tipo: persona
+fecha: 2026-04-17
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [ghislaine-maxwell, epstein, kompromat, honey-trap, inteligencia, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:15.254-03:00
-modified: 2026-04-17T13:46:33.408-03:00
-tags:
-  - ghislaine-maxwell
-  - epstein
-  - kompromat
-  - honey-trap
-  - inteligencia
-  - tl-intel-v3
 ---
 
 # Ghislaine Maxwell

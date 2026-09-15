@@ -1,15 +1,11 @@
 ---
+titulo: Hong Kong
+tipo: nodo
+fecha: 2026-05-02
+estado: activo
+aliases: ["Hong Kong (Centro Financiero)"]
+tags: [hong-kong, china, finanzas, offshore, tl-intel-v3]
 publish: true
-aliases:
-  - Hong Kong (Centro Financiero)
-created: 2026-05-01T20:44:14.557-03:00
-modified: 2026-05-02T12:49:52.504-03:00
-tags:
-  - hong-kong
-  - china
-  - finanzas
-  - offshore
-  - tl-intel-v3
 ---
 
 # Hong Kong

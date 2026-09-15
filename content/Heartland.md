@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:13:12.099-03:00
-modified: 2026-04-29T14:13:29.785-03:00
-tags:
-  - geostrategia
-  - mackinder
-  - eurasia
-  - tl-intel-v3
+tipo: concepto
+titulo: Heartland
+estado: activo
+tags: [geostrategia, mackinder, eurasia, tl-intel-v3]
 ---
 
 # Heartland

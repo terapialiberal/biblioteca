@@ -1,17 +1,13 @@
 ---
+titulo: Young Global Leaders
+tipo: programa
+fecha: 2026-04-21
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["YGL", "WEF Young Global Leaders"]
+tags: [young-global-leaders, wef, klaus-schwab, reclutamiento, elites, tl-intel-v3]
 publish: true
-aliases:
-  - YGL
-  - WEF Young Global Leaders
-created: 2026-02-25T15:43:14.559-03:00
-modified: 2026-04-21T20:11:46.607-03:00
-tags:
-  - young-global-leaders
-  - wef
-  - klaus-schwab
-  - reclutamiento
-  - elites
-  - tl-intel-v3
 ---
 
 # Young Global Leaders

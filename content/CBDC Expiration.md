@@ -1,14 +1,12 @@
 ---
+titulo: CBDC Expiration
+tipo: concepto
+fecha: 2026-04-19
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [cbdc-expiration, dinero-programable, expiracion, nudge, consumo, tl-intel-v3]
 publish: true
-created: 2026-02-09T17:32:49.772-03:00
-modified: 2026-04-22T09:38:37.059-03:00
-tags:
-  - cbdc-expiration
-  - dinero-programable
-  - expiracion
-  - nudge
-  - consumo
-  - tl-intel-v3
 ---
 
 # CBDC Expiration

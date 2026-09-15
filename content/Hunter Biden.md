@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T13:20:56.659-03:00
-modified: 2026-04-29T13:25:18.764-03:00
-tags:
-  - actor
-  - estados-unidos
-  - familia-biden
-  - tl-intel-v3
+tipo: actor
+titulo: Hunter Biden
+estado: activo
+tags: [actor, estados-unidos, familia-biden, tl-intel-v3]
 ---
 
 # Hunter Biden

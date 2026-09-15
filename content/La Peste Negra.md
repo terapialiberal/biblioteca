@@ -1,12 +1,12 @@
 ---
+titulo: "La Peste Negra: El Gran Reset De La Servidumbre"
+tipo: "persona"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [negra, peste, renacimiento, servidumbre]
 publish: true
-created: 2026-01-29T19:17:21.540-03:00
-modified: 2026-05-02T18:25:41.243-03:00
-tags:
-  - negra
-  - peste
-  - renacimiento
-  - servidumbre
 ---
 
 # La Peste Negra: El Gran Reset De La Servidumbre

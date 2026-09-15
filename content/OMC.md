@@ -1,16 +1,11 @@
 ---
+titulo: OMC
+tipo: entidad
+fecha: 2026-05-02
+estado: activo
+aliases: ["WTO", "OMC (Organización Mundial del Comercio)"]
+tags: [omc, comercio, globalizacion, reglas, tl-intel-v3]
 publish: true
-aliases:
-  - WTO
-  - OMC (Organización Mundial del Comercio)
-created: 2026-01-29T19:17:28.043-03:00
-modified: 2026-05-02T13:45:56.226-03:00
-tags:
-  - omc
-  - comercio
-  - globalizacion
-  - reglas
-  - tl-intel-v3
 ---
 
 # OMC

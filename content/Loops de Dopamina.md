@@ -1,16 +1,13 @@
 ---
+titulo: Loops de Dopamina
+tipo: concepto
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Loops De Dopamina: El Hackeo Neuroquimico Del Tier B"]
+tags: [dopamina, adiccion, atencion, redes-sociales, capitalismo-de-vigilancia, tl-intel-v3]
 publish: true
-aliases:
-  - "Loops De Dopamina: El Hackeo Neuroquimico Del Tier B"
-created: 2026-01-29T19:17:22.874-03:00
-modified: 2026-04-18T18:21:38.915-03:00
-tags:
-  - dopamina
-  - adiccion
-  - atencion
-  - redes-sociales
-  - capitalismo-de-vigilancia
-  - tl-intel-v3
 ---
 
 # Loops de Dopamina

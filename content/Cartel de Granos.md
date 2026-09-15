@@ -1,13 +1,11 @@
 ---
+titulo: Cartel de Granos
+tipo: alias
+fecha: 2026-04-21
+estado: legacy
+reemplazado_por: "[[Cartel de Granos (ABCD)]]"
+tags: [alias, legacy, cartel-de-granos, agroindustria, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:06.660-03:00
-modified: 2026-04-21T11:42:08.682-03:00
-tags:
-  - alias
-  - legacy
-  - cartel-de-granos
-  - agroindustria
-  - tl-intel-v3
 ---
 
 # Cartel de Granos

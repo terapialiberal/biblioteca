@@ -1,16 +1,17 @@
 ---
-publish: true
+titulo: Maria Antonieta
 aliases:
   - María Antonieta
   - Maria Antonieta ("Let Them Eat Cake")
   - Marie Antoinette
-created: 2026-01-29T19:17:23.925-03:00
-modified: 2026-04-07T13:12:37.760-03:00
+tipo: concepto
+estado: activo
 tags:
   - arquetipo
   - elite
   - revolucion-francesa
   - desconexion
+publish: true
 ---
 
 # Maria Antonieta

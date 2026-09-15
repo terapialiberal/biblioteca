@@ -1,17 +1,15 @@
 ---
+titulo: Elon Musk
+tipo: persona
+fecha: 2026-04-20
+vigencia: 2026-06-17
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Elon Musk - El Contratista de Estado"]
+tags: [elon-musk, spacex, starlink, x, contratistas, tecnopolitica, tl-intel-v3]
 publish: true
-aliases:
-  - Elon Musk - El Contratista de Estado
-created: 2026-01-29T19:17:11.761-03:00
-modified: 2026-07-03T14:43:25.867-03:00
-tags:
-  - elon-musk
-  - spacex
-  - starlink
-  - x
-  - contratistas
-  - tecnopolitica
-  - tl-intel-v3
+last_stream: "[[06_Videos_Publicados/2026/2026-06-17_Endgame_Ormuz/POSTMORTEM_INTEL|Endgame de Ormuz]]"
 ---
 
 # Elon Musk

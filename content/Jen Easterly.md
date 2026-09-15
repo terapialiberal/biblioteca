@@ -1,14 +1,12 @@
 ---
+titulo: Jen Easterly
+tipo: persona
+fecha: 2026-04-19
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [jen-easterly, cisa, censura, seguridad-nacional, infraestructura-cognitiva, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:19.449-03:00
-modified: 2026-04-19T12:17:52.955-03:00
-tags:
-  - jen-easterly
-  - cisa
-  - censura
-  - seguridad-nacional
-  - infraestructura-cognitiva
-  - tl-intel-v3
 ---
 
 # Jen Easterly

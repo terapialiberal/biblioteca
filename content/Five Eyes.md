@@ -1,18 +1,13 @@
 ---
+titulo: Five Eyes
+tipo: entidad
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Los Cinco Ojos", "Five Eyes Alliance", "Cinco Ojos"]
+tags: [five-eyes, sigint, vigilancia-global, alianza-anglo, espionaje, tl-intel-v3]
 publish: true
-aliases:
-  - Los Cinco Ojos
-  - Five Eyes Alliance
-  - Cinco Ojos
-created: 2026-01-29T19:17:13.777-03:00
-modified: 2026-04-22T16:08:47.017-03:00
-tags:
-  - five-eyes
-  - sigint
-  - vigilancia-global
-  - alianza-anglo
-  - espionaje
-  - tl-intel-v3
 ---
 
 # Five Eyes

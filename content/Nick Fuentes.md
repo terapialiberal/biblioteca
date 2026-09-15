@@ -1,12 +1,12 @@
 ---
+titulo: "Nick Fuentes: El Marcador De Límite Y El Cebo De Radicalización"
+tipo: "persona"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [cebo, complejo, lmite, nick]
 publish: true
-created: 2026-01-29T19:17:26.796-03:00
-modified: 2026-05-02T18:25:49.651-03:00
-tags:
-  - cebo
-  - complejo
-  - lmite
-  - nick
 ---
 
 # Nick Fuentes: El Marcador De Límite Y El Cebo De Radicalización

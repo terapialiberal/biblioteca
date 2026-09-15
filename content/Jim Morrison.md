@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T13:56:36.538-03:00
-modified: 2026-04-29T13:56:36.538-03:00
-tags:
-  - contracultura
-  - musica
-  - guerra-cultural
-  - tl-intel-v3
+tipo: actor
+titulo: Jim Morrison
+estado: activo
+tags: [contracultura, musica, guerra-cultural, tl-intel-v3]
 ---
 
 # Jim Morrison

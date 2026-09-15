@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:05:26.180-03:00
-modified: 2026-04-29T14:05:43.232-03:00
-tags:
-  - eeuu
-  - defensa
-  - diplomacia
-  - tl-intel-v3
+tipo: actor
+titulo: Colin Powell
+estado: activo
+tags: [eeuu, defensa, diplomacia, tl-intel-v3]
 ---
 
 # Colin Powell

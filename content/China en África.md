@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:05:25.147-03:00
-modified: 2026-04-29T14:05:41.759-03:00
-tags:
-  - china
-  - africa
-  - infraestructura
-  - tl-intel-v3
+tipo: corredor
+titulo: China en África
+estado: activo
+tags: [china, africa, infraestructura, tl-intel-v3]
 ---
 
 # China en África

@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T13:34:43.260-03:00
-modified: 2026-04-29T13:34:59.665-03:00
-tags:
-  - organizacion
-  - banca
-  - rockefeller
-  - tl-intel-v3
+tipo: organizacion
+titulo: Chase Manhattan Bank
+estado: activo
+tags: [organizacion, banca, rockefeller, tl-intel-v3]
 ---
 
 # Chase Manhattan Bank

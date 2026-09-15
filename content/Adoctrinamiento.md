@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:05:22.746-03:00
-modified: 2026-04-29T14:05:22.746-03:00
-tags:
-  - educacion
-  - propaganda
-  - control-cultural
-  - tl-intel-v3
+tipo: concepto
+titulo: Adoctrinamiento
+estado: activo
+tags: [educacion, propaganda, control-cultural, tl-intel-v3]
 ---
 
 # Adoctrinamiento

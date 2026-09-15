@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T13:53:50.739-03:00
-modified: 2026-04-29T13:53:50.739-03:00
-tags:
-  - sociologia
-  - fragmentacion
-  - guerra-cognitiva
-  - tl-intel-v3
+tipo: concepto
+titulo: Atomización Social
+estado: activo
+tags: [sociologia, fragmentacion, guerra-cognitiva, tl-intel-v3]
 ---
 
 # Atomización Social

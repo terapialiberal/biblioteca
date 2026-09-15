@@ -1,14 +1,10 @@
 ---
 publish: true
-aliases:
-  - Comité de Basilea
-created: 2026-05-01T20:12:11.088-03:00
-modified: 2026-05-02T18:25:15.718-03:00
-tags:
-  - institucion
-  - bancos
-  - regulacion
-  - bis
+titulo: "Comité de Basilea"
+aliases: ["Comité de Basilea"]
+tags: [institucion, bancos, regulacion, bis]
+tipo: institucion
+nivel: A
 ---
 
 # Comité de Basilea

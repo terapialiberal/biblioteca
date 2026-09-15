@@ -1,14 +1,12 @@
 ---
+titulo: Moderna
+tipo: entidad
+fecha: 2026-04-17
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [moderna, mrna, biotech, bioseguridad, plataforma-biologica, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:25.584-03:00
-modified: 2026-04-17T18:27:26.169-03:00
-tags:
-  - moderna
-  - mrna
-  - biotech
-  - bioseguridad
-  - plataforma-biologica
-  - tl-intel-v3
 ---
 
 # Moderna

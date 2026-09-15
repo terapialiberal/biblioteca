@@ -1,15 +1,11 @@
 ---
+titulo: Bayer - Monsanto
+tipo: nodo
+fecha: 2026-05-02
+estado: activo
+aliases: ["Bayer / Monsanto"]
+tags: [bayer, monsanto, semillas, agroquimicos, tl-intel-v3]
 publish: true
-aliases:
-  - Bayer / Monsanto
-created: 2026-05-01T19:12:11.454-03:00
-modified: 2026-05-02T13:53:47.511-03:00
-tags:
-  - bayer
-  - monsanto
-  - semillas
-  - agroquimicos
-  - tl-intel-v3
 ---
 
 # Bayer - Monsanto

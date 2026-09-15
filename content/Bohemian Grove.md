@@ -1,15 +1,11 @@
 ---
+titulo: Bohemian Grove
+tipo: nodo
+fecha: 2026-05-02
+estado: activo
+aliases: ["Bohemian Grove (Club)"]
+tags: [bohemian-grove, redes-elite, california, ritual, tl-intel-v3]
 publish: true
-aliases:
-  - Bohemian Grove (Club)
-created: 2026-01-29T19:17:05.690-03:00
-modified: 2026-05-02T13:03:01.081-03:00
-tags:
-  - bohemian-grove
-  - redes-elite
-  - california
-  - ritual
-  - tl-intel-v3
 ---
 
 # Bohemian Grove

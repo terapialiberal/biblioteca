@@ -2,13 +2,14 @@
 publish: true
 aliases:
   - AMD
-created: 2026-05-01T19:13:46.979-03:00
-modified: 2026-05-02T18:25:11.491-03:00
 tags:
   - empresa
   - semiconductores
   - cpu
   - gpu
+tipo: empresa
+nivel: B
+titulo: AMD
 ---
 
 # AMD

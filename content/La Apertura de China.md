@@ -1,12 +1,12 @@
 ---
+titulo: "La Apertura De China: El Nacimiento Del Laboratorio Globalista"
+tipo: "concepto"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [apertura, henry, laboratorio, nacimiento]
 publish: true
-created: 2026-01-29T19:17:20.997-03:00
-modified: 2026-05-02T18:25:39.840-03:00
-tags:
-  - apertura
-  - henry
-  - laboratorio
-  - nacimiento
 ---
 
 # La Apertura De China: El Nacimiento Del Laboratorio Globalista

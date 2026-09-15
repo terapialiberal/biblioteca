@@ -1,15 +1,11 @@
 ---
+titulo: Cártel de Cali
+tipo: entidad
+fecha: 2026-05-02
+estado: activo
+aliases: ["Cartel de Cali"]
+tags: [cartel-cali, narcotrafico, colombia, crimen, tl-intel-v3]
 publish: true
-aliases:
-  - Cartel de Cali
-created: 2026-05-01T20:10:16.852-03:00
-modified: 2026-05-02T13:47:57.239-03:00
-tags:
-  - cartel-cali
-  - narcotrafico
-  - colombia
-  - crimen
-  - tl-intel-v3
 ---
 
 # Cártel de Cali

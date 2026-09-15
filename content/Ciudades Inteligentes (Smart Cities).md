@@ -1,12 +1,14 @@
 ---
 publish: true
-created: 2026-04-29T14:05:26.119-03:00
-modified: 2026-05-02T14:16:25.648-03:00
+tipo: alias
+titulo: Ciudades Inteligentes (Smart Cities)
+estado: activo
 tags:
   - alias
   - smart-cities
   - vigilancia-urbana
   - tl-intel-v3
+reemplazado_por: '[[Ciudades Inteligentes]]'
 ---
 
 # Ciudades Inteligentes (Smart Cities)

@@ -1,12 +1,12 @@
 ---
+titulo: Resumen General
+tipo: "entidad"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [boris, bullingdon, club, reino]
 publish: true
-created: 2026-01-29T19:17:06.025-03:00
-modified: 2026-05-02T18:24:26.969-03:00
-tags:
-  - boris
-  - bullingdon
-  - club
-  - reino
 ---
 
 # Resumen General

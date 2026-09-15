@@ -1,12 +1,12 @@
 ---
+titulo: "Orden Espontáneo: El Algoritmo De La Libertad"
+tipo: "entidad"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [algoritmo, espontneo, libertad, libertarianismo]
 publish: true
-created: 2026-01-29T19:17:29.263-03:00
-modified: 2026-05-02T18:25:53.379-03:00
-tags:
-  - algoritmo
-  - espontneo
-  - libertad
-  - libertarianismo
 ---
 
 # Orden Espontáneo: El Algoritmo De La Libertad

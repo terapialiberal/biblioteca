@@ -1,17 +1,11 @@
 ---
+titulo: Operacion Condor
+tipo: evento
+fecha: 2026-04-22
+estado: activo
+aliases: ["Operación Condor", "Operación Condor: El Sindicato Del Crimen De Estado"]
+tags: [operacion-condor, terrorismo-de-estado, latinoamerica, cia, contrainsurgencia, tl-intel-v3]
 publish: true
-aliases:
-  - Operación Condor
-  - "Operación Condor: El Sindicato Del Crimen De Estado"
-created: 2026-01-29T19:17:28.408-03:00
-modified: 2026-04-22T12:11:43.111-03:00
-tags:
-  - operacion-condor
-  - terrorismo-de-estado
-  - latinoamerica
-  - cia
-  - contrainsurgencia
-  - tl-intel-v3
 ---
 
 # Operacion Condor

@@ -1,12 +1,12 @@
 ---
 publish: true
-created: 2026-01-29T19:17:02.831-03:00
-modified: 2026-04-07T10:47:15.907-03:00
-tags:
-  - adam
-  - back
-  - blockstream
-  - satoshi
+titulo: Adam Back
+tipo: persona
+fecha: 2026-02-25
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [adam, back, blockstream, satoshi]
 ---
 
 # Adam Back

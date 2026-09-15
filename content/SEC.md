@@ -1,16 +1,11 @@
 ---
+titulo: SEC
+tipo: entidad
+fecha: 2026-05-02
+estado: activo
+aliases: ["Securities and Exchange Commission", "SEC (Securities and Exchange Commission)"]
+tags: [sec, regulacion, mercados, eeuu, tl-intel-v3]
 publish: true
-aliases:
-  - Securities and Exchange Commission
-  - SEC (Securities and Exchange Commission)
-created: 2026-05-01T20:37:29.782-03:00
-modified: 2026-05-02T13:05:22.494-03:00
-tags:
-  - sec
-  - regulacion
-  - mercados
-  - eeuu
-  - tl-intel-v3
 ---
 
 # SEC

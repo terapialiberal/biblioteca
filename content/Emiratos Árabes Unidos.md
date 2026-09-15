@@ -1,9 +1,10 @@
 ---
 publish: true
-created: 2026-04-29T14:51:44.704-03:00
-modified: 2026-05-02T18:25:19.980-03:00
-tags:
-  - base-de-conocimiento
+titulo: "Emiratos Árabes Unidos"
+tipo: "entidad"
+fecha: 2026-04-29
+estado: activo
+tags: [base-de-conocimiento]
 ---
 
 # Emiratos Árabes Unidos

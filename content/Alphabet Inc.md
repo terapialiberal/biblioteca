@@ -1,14 +1,12 @@
 ---
+titulo: Alphabet Inc
+tipo: entidad
+fecha: 2026-04-19
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [alphabet, google, holding, datos, plataformas, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:03.388-03:00
-modified: 2026-04-19T12:30:53.305-03:00
-tags:
-  - alphabet
-  - google
-  - holding
-  - datos
-  - plataformas
-  - tl-intel-v3
 ---
 
 # Alphabet Inc

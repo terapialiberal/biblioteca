@@ -1,15 +1,11 @@
 ---
+titulo: Brasil
+tipo: nodo
+fecha: 2026-05-02
+estado: activo
+aliases: ["Brasil (Potencia Regional)"]
+tags: [brasil, brics, amazonas, sudamerica, tl-intel-v3]
 publish: true
-aliases:
-  - Brasil (Potencia Regional)
-created: 2026-04-29T14:51:45.146-03:00
-modified: 2026-05-02T12:58:37.815-03:00
-tags:
-  - brasil
-  - brics
-  - amazonas
-  - sudamerica
-  - tl-intel-v3
 ---
 
 # Brasil

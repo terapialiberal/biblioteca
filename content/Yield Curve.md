@@ -1,18 +1,13 @@
 ---
+titulo: Yield Curve
+tipo: concepto
+fecha: 2026-05-02
+tier_primario: b
+nivel_evidencia: alto
+estado: activo
+aliases: ["Curva de rendimientos", "Curva de tasas", "Yield Curve (Curva de Rendimientos)"]
+tags: [yield-curve, bonos, tasas, treasuries, control-financiero, tl-intel-v3]
 publish: true
-aliases:
-  - Curva de rendimientos
-  - Curva de tasas
-  - Yield Curve (Curva de Rendimientos)
-created: 2026-05-01T20:46:07.501-03:00
-modified: 2026-05-02T12:22:05.110-03:00
-tags:
-  - yield-curve
-  - bonos
-  - tasas
-  - treasuries
-  - control-financiero
-  - tl-intel-v3
 ---
 
 # Yield Curve

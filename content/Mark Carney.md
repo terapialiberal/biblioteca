@@ -1,13 +1,13 @@
 ---
+titulo: "Mark Carney"
 publish: true
-created: 2026-01-29T19:17:24.050-03:00
-modified: 2026-04-29T14:44:25.348-03:00
-tags:
-  - mark-carney
-  - net-zero
-  - banca-central
-  - clima
-  - tl-intel-v3
+tipo: persona
+fecha: 2026-04-07
+tier_primario: B
+moc_canonico: [[00_MOC - Finanzas y CBDC]]
+estado: activo
+fuentes_clave: []
+tags: [mark-carney, net-zero, banca-central, clima, tl-intel-v3]
 ---
 
 # [[Mark Carney]]

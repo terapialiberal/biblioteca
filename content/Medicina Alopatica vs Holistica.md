@@ -1,12 +1,12 @@
 ---
+titulo: "Medicina Alopática Vs Holística: El Origen Del Monopolio De Rockefeller"
+tipo: "concepto"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [medicina, monopolio, origen, rockefeller]
 publish: true
-created: 2026-01-29T19:17:24.511-03:00
-modified: 2026-05-02T18:25:45.888-03:00
-tags:
-  - medicina
-  - monopolio
-  - origen
-  - rockefeller
 ---
 
 # Medicina Alopática Vs Holística: El Origen Del Monopolio De Rockefeller

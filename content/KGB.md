@@ -1,15 +1,11 @@
 ---
+titulo: KGB
+tipo: entidad
+fecha: 2026-05-02
+estado: activo
+aliases: ["KGB (URSS)"]
+tags: [kgb, urss, inteligencia, seguridad, tl-intel-v3]
 publish: true
-aliases:
-  - KGB (URSS)
-created: 2026-05-01T20:14:32.635-03:00
-modified: 2026-05-02T13:07:08.979-03:00
-tags:
-  - kgb
-  - urss
-  - inteligencia
-  - seguridad
-  - tl-intel-v3
 ---
 
 # KGB

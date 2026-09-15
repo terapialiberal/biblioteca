@@ -1,14 +1,12 @@
 ---
+titulo: JPMorgan Onyx
+tipo: entidad
+fecha: 2026-04-19
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [jpmorgan-onyx, jpmorgan, tokenizacion, liquidacion, banca, tl-intel-v3]
 publish: true
-created: 2026-02-09T17:26:07.462-03:00
-modified: 2026-04-19T13:09:31.926-03:00
-tags:
-  - jpmorgan-onyx
-  - jpmorgan
-  - tokenizacion
-  - liquidacion
-  - banca
-  - tl-intel-v3
 ---
 
 # JPMorgan Onyx

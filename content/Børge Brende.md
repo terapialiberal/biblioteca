@@ -1,14 +1,10 @@
 ---
 publish: true
-aliases:
-  - Børge Brende
-created: 2026-05-01T19:09:52.265-03:00
-modified: 2026-05-02T18:25:13.873-03:00
-tags:
-  - actor
-  - wef
-  - noruega
-  - globalismo
+titulo: "Børge Brende"
+aliases: ["Børge Brende"]
+tags: [actor, wef, noruega, globalismo]
+tipo: actor
+nivel: B
 ---
 
 # Børge Brende

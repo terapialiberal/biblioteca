@@ -1,14 +1,12 @@
 ---
+titulo: Twitter Files
+tipo: evento
+fecha: 2026-04-19
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [twitter-files, censura, big-tech, moderacion, fbi, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:41.812-03:00
-modified: 2026-04-19T12:08:23.013-03:00
-tags:
-  - twitter-files
-  - censura
-  - big-tech
-  - moderacion
-  - fbi
-  - tl-intel-v3
 ---
 
 # Twitter Files

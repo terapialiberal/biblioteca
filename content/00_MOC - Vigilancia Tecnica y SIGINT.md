@@ -1,14 +1,11 @@
 ---
 publish: true
-created: 2026-04-22T16:21:54.873-03:00
-modified: 2026-04-24T10:28:46.757-03:00
-tags:
-  - moc
-  - vigilancia-tecnica
-  - sigint
-  - spyware
-  - biometria
-  - tl-intel-v3
+titulo: "MOC - Vigilancia Tecnica y SIGINT"
+tipo: moc
+fecha: 2026-04-22
+estado: activo
+moc_canonico: [[00_MOC - Base de Conocimiento]]
+tags: [moc, vigilancia-tecnica, sigint, spyware, biometria, tl-intel-v3]
 ---
 
 # MOC - Vigilancia Tecnica y SIGINT

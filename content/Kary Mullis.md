@@ -1,14 +1,15 @@
 ---
-publish: true
+titulo: Kary Mullis
 aliases:
   - Kary Mullis
-created: 2026-01-29T19:17:20.576-03:00
-modified: 2026-04-07T13:30:48.304-03:00
+tipo: persona
+estado: activo
 tags:
   - ciencia
   - pcr
   - biotecnologia
   - salud
+publish: true
 ---
 
 # Kary Mullis

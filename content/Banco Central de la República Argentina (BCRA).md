@@ -1,7 +1,8 @@
 ---
 publish: true
-created: 2026-04-29T14:05:23.404-03:00
-modified: 2026-05-02T14:18:04.083-03:00
+tipo: institucion
+titulo: Banco Central de la República Argentina (BCRA)
+estado: activo
 tags:
   - alias
   - argentina

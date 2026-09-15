@@ -1,13 +1,11 @@
 ---
+titulo: Agenda 2030 (Detallada)
+tipo: alias
+fecha: 2026-04-21
+estado: legacy
+reemplazado_por: "[[Agenda 2030]]"
+tags: [agenda-2030, alias, legacy, gobernanza-global, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:02.992-03:00
-modified: 2026-04-21T11:44:24.315-03:00
-tags:
-  - agenda-2030
-  - alias
-  - legacy
-  - gobernanza-global
-  - tl-intel-v3
 ---
 
 # Agenda 2030 (Detallada)

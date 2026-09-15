@@ -1,14 +1,12 @@
 ---
+titulo: Domingo Cavallo
+tipo: persona
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [argentina, cavallo, convertibilidad, deuda, tecnocracia, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:10.491-03:00
-modified: 2026-04-18T11:40:13.999-03:00
-tags:
-  - argentina
-  - cavallo
-  - convertibilidad
-  - deuda
-  - tecnocracia
-  - tl-intel-v3
 ---
 
 # Domingo Cavallo

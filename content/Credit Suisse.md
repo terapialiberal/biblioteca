@@ -1,15 +1,11 @@
 ---
+titulo: Credit Suisse
+tipo: nodo
+fecha: 2026-05-02
+estado: activo
+aliases: ["UBS - Credit Suisse"]
+tags: [credit-suisse, suiza, banca, crisis, tl-intel-v3]
 publish: true
-aliases:
-  - UBS - Credit Suisse
-created: 2026-01-29T19:17:09.072-03:00
-modified: 2026-05-02T13:45:17.830-03:00
-tags:
-  - credit-suisse
-  - suiza
-  - banca
-  - crisis
-  - tl-intel-v3
 ---
 
 # Credit Suisse

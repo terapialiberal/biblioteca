@@ -1,15 +1,10 @@
 ---
 publish: true
-aliases:
-  - CERN
-  - CERN / Simbolismo de Shiva
-created: 2026-05-01T20:10:21.772-03:00
-modified: 2026-05-02T18:25:15.329-03:00
-tags:
-  - institucion
-  - fisica
-  - particulas
-  - ginebra
+titulo: "CERN"
+aliases: ["CERN", "CERN / Simbolismo de Shiva"]
+tags: [institucion, fisica, particulas, ginebra]
+tipo: institucion
+nivel: C
 ---
 
 # CERN

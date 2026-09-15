@@ -1,13 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T15:30:57.314-03:00
-modified: 2026-04-29T15:31:19.806-03:00
-tags:
-  - psicologia
-  - propaganda
-  - menticidio
-  - guerra-psicologica
-  - tl-intel-v3
+tipo: actor
+titulo: Joost Meerloo
+estado: activo
+tags: [psicologia, propaganda, menticidio, guerra-psicologica, tl-intel-v3]
 ---
 
 # Joost Meerloo

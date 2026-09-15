@@ -1,13 +1,11 @@
 ---
+titulo: World Economic Forum
+tipo: alias
+fecha: 2026-04-21
+estado: legacy
+reemplazado_por: [[WEF]]
+tags: [alias, legacy, wef, davos, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:44.534-03:00
-modified: 2026-04-21T20:10:50.938-03:00
-tags:
-  - alias
-  - legacy
-  - wef
-  - davos
-  - tl-intel-v3
 ---
 
 # World Economic Forum

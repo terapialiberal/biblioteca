@@ -1,14 +1,12 @@
 ---
+titulo: The New York Post
+tipo: entidad
+fecha: 2026-04-19
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [new-york-post, medios, tabloid, laptop, narrativa, tl-intel-v3]
 publish: true
-created: 2026-04-19T12:17:53.055-03:00
-modified: 2026-04-19T12:23:15.398-03:00
-tags:
-  - new-york-post
-  - medios
-  - tabloid
-  - laptop
-  - narrativa
-  - tl-intel-v3
 ---
 
 # The New York Post

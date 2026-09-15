@@ -1,16 +1,13 @@
 ---
+titulo: Construcciones Megaliticas
+tipo: concepto
+fecha: 2026-04-27
+estado: activo
+aliases: ["Construcciones Megalíticas", "Megalithic structures"]
+tags: [megalitos, arqueologia, arquitectura-sacra, simbolismo, tl-intel-v3]
+tier_primario: c
+nivel_evidencia: medio
 publish: true
-aliases:
-  - Construcciones Megalíticas
-  - Megalithic structures
-created: 2026-02-25T22:08:57.891-03:00
-modified: 2026-04-27T10:37:56.872-03:00
-tags:
-  - megalitos
-  - arqueologia
-  - arquitectura-sacra
-  - simbolismo
-  - tl-intel-v3
 ---
 
 # Construcciones Megaliticas

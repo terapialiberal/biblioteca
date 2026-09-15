@@ -1,17 +1,13 @@
 ---
+titulo: mBridge Expansion
+tipo: concepto
+fecha: 2026-04-24
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["mBridge Expansion (ASEAN)", "mBridge Expansion"]
+tags: [mbridge, asean, rails-financieros, desdolarizacion, asia, tl-intel-v3]
 publish: true
-aliases:
-  - mBridge Expansion (ASEAN)
-  - mBridge Expansion
-created: 2026-02-09T17:32:39.192-03:00
-modified: 2026-04-24T12:18:24.090-03:00
-tags:
-  - mbridge
-  - asean
-  - rails-financieros
-  - desdolarizacion
-  - asia
-  - tl-intel-v3
 ---
 
 # mBridge Expansion

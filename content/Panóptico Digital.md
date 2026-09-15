@@ -1,13 +1,11 @@
 ---
+titulo: Panóptico Digital
+tipo: alias
+fecha: 2026-04-21
+estado: legacy
+reemplazado_por: [[Panoptico Digital]]
+tags: [alias, legacy, panoptico-digital, vigilancia, tl-intel-v3]
 publish: true
-created: 2026-04-21T13:20:13.253-03:00
-modified: 2026-04-21T13:20:13.253-03:00
-tags:
-  - alias
-  - legacy
-  - panoptico-digital
-  - vigilancia
-  - tl-intel-v3
 ---
 
 # Panóptico Digital

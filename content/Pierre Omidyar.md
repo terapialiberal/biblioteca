@@ -1,12 +1,16 @@
 ---
-publish: true
-created: 2026-01-29T19:17:30.596-03:00
-modified: 2026-04-18T18:31:42.949-03:00
+titulo: Pierre Omidyar
+tipo: persona
+fecha: 2026-04-18
+tier_primario: B
+nivel_evidencia: medio
+estado: activo
 tags:
   - pierre-omidyar
   - medios
   - filantrocapitalismo
   - soft-power
+publish: true
 ---
 
 # [[Pierre Omidyar]]

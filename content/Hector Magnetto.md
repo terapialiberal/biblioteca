@@ -1,16 +1,13 @@
 ---
+titulo: Hector Magnetto
+tipo: persona
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Hector Magnetto"]
+tags: [argentina, medios, clarin, magnetto, poder-blando, tl-intel-v3]
 publish: true
-aliases:
-  - Hector Magnetto
-created: 2026-04-18T12:14:50.765-03:00
-modified: 2026-04-18T12:15:11.098-03:00
-tags:
-  - argentina
-  - medios
-  - clarin
-  - magnetto
-  - poder-blando
-  - tl-intel-v3
 ---
 
 # Hector Magnetto

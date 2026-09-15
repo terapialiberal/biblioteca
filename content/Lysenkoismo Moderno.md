@@ -1,16 +1,13 @@
 ---
+titulo: Lysenkoismo Moderno
+tipo: concepto
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Lysenkoismo Moderno: El Secuestro De La Realidad Biologica"]
+tags: [lysenkoismo, ciencia, ideologia, biologica, consenso, tl-intel-v3]
 publish: true
-aliases:
-  - "Lysenkoismo Moderno: El Secuestro De La Realidad Biologica"
-created: 2026-01-29T19:17:23.236-03:00
-modified: 2026-04-18T18:24:43.005-03:00
-tags:
-  - lysenkoismo
-  - ciencia
-  - ideologia
-  - biologica
-  - consenso
-  - tl-intel-v3
 ---
 
 # Lysenkoismo Moderno

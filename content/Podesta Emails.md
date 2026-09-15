@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T13:36:16.241-03:00
-modified: 2026-04-29T13:37:07.013-03:00
-tags:
-  - filtraciones
-  - wikileaks
-  - estados-unidos
-  - tl-intel-v3
+tipo: concepto
+titulo: Podesta Emails
+estado: activo
+tags: [filtraciones, wikileaks, estados-unidos, tl-intel-v3]
 ---
 
 # Podesta Emails

@@ -1,14 +1,10 @@
 ---
 publish: true
-created: 2026-03-04T13:40:46.220-03:00
-modified: 2026-04-18T21:37:24.934-03:00
-tags:
-  - iran
-  - diplomacia
-  - negociacion
-  - araghchi
-  - sanciones
-  - tl-intel-v3
+titulo: Abbas Araghchi
+tipo: persona
+fecha: 2026-04-18
+estado: activo
+tags: [iran, diplomacia, negociacion, araghchi, sanciones, tl-intel-v3]
 ---
 
 # Abbas Araghchi

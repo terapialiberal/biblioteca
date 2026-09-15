@@ -1,17 +1,13 @@
 ---
+titulo: Capitalismo de Amigos
+tipo: concepto
+fecha: 2026-04-21
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Capitalismo De Amigos (Crony Capitalism)", "Crony Capitalism"]
+tags: [capitalismo-de-amigos, crony-capitalism, captura, monopolio, estado-corporacion, tl-intel-v3]
 publish: true
-aliases:
-  - Capitalismo De Amigos (Crony Capitalism)
-  - Crony Capitalism
-created: 2026-01-29T19:17:06.378-03:00
-modified: 2026-04-21T13:11:18.925-03:00
-tags:
-  - capitalismo-de-amigos
-  - crony-capitalism
-  - captura
-  - monopolio
-  - estado-corporacion
-  - tl-intel-v3
 ---
 
 # Capitalismo de Amigos

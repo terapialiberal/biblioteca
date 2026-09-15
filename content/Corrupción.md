@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T13:53:51.356-03:00
-modified: 2026-04-29T13:53:51.356-03:00
-tags:
-  - corrupcion
-  - instituciones
-  - captura
-  - tl-intel-v3
+tipo: concepto
+titulo: Corrupción
+estado: activo
+tags: [corrupcion, instituciones, captura, tl-intel-v3]
 ---
 
 # Corrupción

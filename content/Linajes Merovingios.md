@@ -1,16 +1,13 @@
 ---
+titulo: Linajes Merovingios
+tipo: concepto
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Linajes Merovingios: La Mitologia De La Sangre Real"]
+tags: [merovingios, linajes, sangre-real, esoterismo, legitimidad, tl-intel-v3]
 publish: true
-aliases:
-  - "Linajes Merovingios: La Mitologia De La Sangre Real"
-created: 2026-01-29T19:17:22.606-03:00
-modified: 2026-04-18T18:08:04.953-03:00
-tags:
-  - merovingios
-  - linajes
-  - sangre-real
-  - esoterismo
-  - legitimidad
-  - tl-intel-v3
 ---
 
 # Linajes Merovingios

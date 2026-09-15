@@ -1,12 +1,12 @@
 ---
+titulo: OpenAI Operator
+tipo: "concepto"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [apple, microsoft, openai, operator]
 publish: true
-created: 2026-02-25T14:51:36.180-03:00
-modified: 2026-05-02T18:25:51.668-03:00
-tags:
-  - apple
-  - microsoft
-  - openai
-  - operator
 ---
 
 # OpenAI Operator

@@ -1,16 +1,13 @@
 ---
+titulo: Carnegie Endowment
+tipo: entidad
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Carnegie Endowment (CEIP)", "CEIP"]
+tags: [carnegie-endowment, think-tank, politica-exterior, fundaciones, tl-intel-v3]
 publish: true
-aliases:
-  - Carnegie Endowment (CEIP)
-  - CEIP
-created: 2026-01-29T19:17:06.587-03:00
-modified: 2026-04-21T20:03:12.653-03:00
-tags:
-  - carnegie-endowment
-  - think-tank
-  - politica-exterior
-  - fundaciones
-  - tl-intel-v3
 ---
 
 # Carnegie Endowment

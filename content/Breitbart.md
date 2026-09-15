@@ -1,14 +1,10 @@
 ---
 publish: true
-aliases:
-  - Breitbart
-created: 2026-05-01T18:55:01.888-03:00
-modified: 2026-05-02T18:25:13.982-03:00
-tags:
-  - medio
-  - derecha
-  - eeuu
-  - bannon
+titulo: "Breitbart"
+aliases: ["Breitbart"]
+tags: [medio, derecha, eeuu, bannon]
+tipo: medio
+nivel: C
 ---
 
 # Breitbart

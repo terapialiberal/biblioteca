@@ -1,17 +1,13 @@
 ---
+titulo: "Carroll Quigley: Tragedy and Hope y la Migración del Modelo Veneciano de Poder Financiero"
+tipo: "persona"
+fecha: 2026-06-04
+tier_primario: "b"
+nivel_evidencia: "alto"
+estado: activo
+tags: [quigley, tragedy-and-hope, modelo-veneciano, round-table, milner-group, rhodes, bancos-centrales, council-on-foreign-relations, historia-financiera]
 publish: true
-created: 2026-01-29T19:17:06.630-03:00
-modified: 2026-06-04T12:42:08.314-03:00
-tags:
-  - quigley
-  - tragedy-and-hope
-  - modelo-veneciano
-  - round-table
-  - milner-group
-  - rhodes
-  - bancos-centrales
-  - council-on-foreign-relations
-  - historia-financiera
+vinculado_a: ["Nobleza Negra Veneciana", "Estrecho de Otranto", "Familia Rothschild", "Isla Sazan", "SISTEMA_GLOBAL"]
 ---
 
 # Carroll Quigley

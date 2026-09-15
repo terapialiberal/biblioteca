@@ -1,13 +1,12 @@
 ---
+titulo: Council on Foundations
+tipo: entidad
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [council-on-foundations, filantropia, fundaciones, filantrocapitalismo, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:08.929-03:00
-modified: 2026-04-18T10:38:55.992-03:00
-tags:
-  - council-on-foundations
-  - filantropia
-  - fundaciones
-  - filantrocapitalismo
-  - tl-intel-v3
 ---
 
 # Council on Foundations

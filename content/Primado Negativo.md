@@ -1,16 +1,13 @@
 ---
+titulo: Primado Negativo
+tipo: concepto
+fecha: 2026-04-21
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Primado Negativo: La Vacuna contra La Verdad"]
+tags: [primado-negativo, inoculacion-cognitiva, ridiculizacion, percepcion, propaganda, tl-intel-v3]
 publish: true
-aliases:
-  - "Primado Negativo: La Vacuna contra La Verdad"
-created: 2026-01-29T19:17:31.292-03:00
-modified: 2026-04-21T13:17:01.518-03:00
-tags:
-  - primado-negativo
-  - inoculacion-cognitiva
-  - ridiculizacion
-  - percepcion
-  - propaganda
-  - tl-intel-v3
 ---
 
 # Primado Negativo

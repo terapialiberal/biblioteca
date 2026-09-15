@@ -1,17 +1,13 @@
 ---
+titulo: Bail-in
+tipo: concepto
+fecha: 2026-05-02
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Bail-in (Rescate Interno)", "Rescate interno"]
+tags: [bail-in, banca, depositos, deuda, control-financiero, tl-intel-v3]
 publish: true
-aliases:
-  - Bail-in (Rescate Interno)
-  - Rescate interno
-created: 2026-01-29T19:17:04.662-03:00
-modified: 2026-05-02T12:22:04.153-03:00
-tags:
-  - bail-in
-  - banca
-  - depositos
-  - deuda
-  - control-financiero
-  - tl-intel-v3
 ---
 
 # Bail-in

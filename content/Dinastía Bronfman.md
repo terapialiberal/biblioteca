@@ -1,16 +1,10 @@
 ---
 publish: true
-aliases:
-  - Bronfman
-  - Familia Bronfman
-created: 2026-05-01T18:49:29.688-03:00
-modified: 2026-05-02T18:25:16.375-03:00
-tags:
-  - dinastia
-  - alcohol
-  - entretenimiento
-  - filantropia
-  - seagrams
+titulo: "Dinastía Bronfman"
+aliases: ["Bronfman", "Familia Bronfman"]
+tags: [dinastia, alcohol, entretenimiento, filantropia, seagrams]
+tipo: dinastia
+nivel: B
 ---
 
 # Dinastía Bronfman

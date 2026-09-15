@@ -1,16 +1,13 @@
 ---
+titulo: Bio-Identidad Digital
+tipo: concepto
+fecha: 2026-04-17
+tier_primario: a
+nivel_evidencia: medio
+estado: activo
+aliases: ["Bio-Identidad Digital (La Marca)"]
+tags: [bio-identidad, biometria, identidad-digital, scoring, control, tl-intel-v3]
 publish: true
-aliases:
-  - Bio-Identidad Digital (La Marca)
-created: 2026-02-25T22:15:02.519-03:00
-modified: 2026-04-22T16:54:54.670-03:00
-tags:
-  - bio-identidad
-  - biometria
-  - identidad-digital
-  - scoring
-  - control
-  - tl-intel-v3
 ---
 
 # Bio-Identidad Digital

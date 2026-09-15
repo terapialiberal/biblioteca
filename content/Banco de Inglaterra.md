@@ -1,17 +1,11 @@
 ---
+titulo: Banco de Inglaterra
+tipo: nodo
+fecha: 2026-05-02
+estado: activo
+aliases: ["Banco De Inglaterra", "Banco de Inglaterra (BoE)", "Bank of England"]
+tags: [banco-de-inglaterra, boe, banca-central, city-londres, tl-intel-v3]
 publish: true
-aliases:
-  - Banco De Inglaterra
-  - Banco de Inglaterra (BoE)
-  - Bank of England
-created: 2026-01-29T19:17:04.732-03:00
-modified: 2026-05-02T13:45:17.875-03:00
-tags:
-  - banco-de-inglaterra
-  - boe
-  - banca-central
-  - city-londres
-  - tl-intel-v3
 ---
 
 # Banco de Inglaterra

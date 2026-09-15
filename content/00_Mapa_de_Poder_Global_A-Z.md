@@ -1,12 +1,11 @@
 ---
 publish: true
-created: 2026-01-29T19:17:02.490-03:00
-modified: 2026-04-27T12:18:21.169-03:00
-tags:
-  - moc
-  - mapa-de-poder
-  - redes-de-poder
-  - tl-intel-v3
+titulo: "Mapa de Poder Global"
+tipo: moc
+fecha: 2026-04-07
+estado: activo
+moc_canonico: [[00_MOC - Base de Conocimiento]]
+tags: [moc, mapa-de-poder, redes-de-poder, tl-intel-v3]
 ---
 
 # Mapa de Poder Global

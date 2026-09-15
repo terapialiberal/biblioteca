@@ -1,16 +1,13 @@
 ---
+titulo: European Council on Foreign Relations
+tipo: entidad
+fecha: 2026-04-21
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["ECFR"]
+tags: [ecfr, think-tank, europa, politica-exterior, soros, tl-intel-v3]
 publish: true
-aliases:
-  - ECFR
-created: 2026-01-29T19:17:12.621-03:00
-modified: 2026-04-21T13:02:07.386-03:00
-tags:
-  - ecfr
-  - think-tank
-  - europa
-  - politica-exterior
-  - soros
-  - tl-intel-v3
 ---
 
 # European Council on Foreign Relations

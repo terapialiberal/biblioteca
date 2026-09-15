@@ -1,14 +1,12 @@
 ---
+titulo: Hollywood
+tipo: concepto
+fecha: 2026-04-19
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [hollywood, entretenimiento, cultura, soft-power, propaganda, tl-intel-v3]
 publish: true
-created: 2026-04-19T11:57:40.317-03:00
-modified: 2026-04-19T12:00:19.439-03:00
-tags:
-  - hollywood
-  - entretenimiento
-  - cultura
-  - soft-power
-  - propaganda
-  - tl-intel-v3
 ---
 
 # Hollywood

@@ -1,15 +1,10 @@
 ---
 publish: true
-aliases:
-  - Carlos Castaño
-created: 2026-05-01T19:11:23.772-03:00
-modified: 2026-05-02T18:25:14.822-03:00
-tags:
-  - actor
-  - colombia
-  - paramilitares
-  - auc
-  - narcotrafico
+titulo: "Carlos Castaño"
+aliases: ["Carlos Castaño"]
+tags: [actor, colombia, paramilitares, auc, narcotrafico]
+tipo: actor
+nivel: C
 ---
 
 # Carlos Castaño

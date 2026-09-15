@@ -1,17 +1,11 @@
 ---
+titulo: Carpeta - Extorsión
+tipo: concepto
+fecha: 2026-05-02
+estado: activo
+aliases: ["Carpeta", "Carpeta (Extorsión)", "Kompromat"]
+tags: [carpeta, extorsion, kompromat, inteligencia, tl-intel-v3]
 publish: true
-aliases:
-  - Carpeta
-  - Carpeta (Extorsión)
-  - Kompromat
-created: 2026-05-01T20:13:01.915-03:00
-modified: 2026-05-02T13:47:16.792-03:00
-tags:
-  - carpeta
-  - extorsion
-  - kompromat
-  - inteligencia
-  - tl-intel-v3
 ---
 
 # Carpeta - Extorsión

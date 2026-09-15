@@ -1,12 +1,14 @@
 ---
 publish: true
-created: 2026-05-01T17:35:47.900-03:00
-modified: 2026-05-02T18:25:44.290-03:00
+titulo: "Mafia Jázara"
 tags:
   - alias
   - geopolitica
   - redes-oscuras
   - historia
+tipo: alias
+fecha: 2026-05-01
+canonico: "[[Mafia Jazara]]"
 ---
 
 # Mafia Jázara

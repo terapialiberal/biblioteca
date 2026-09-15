@@ -1,18 +1,13 @@
 ---
+titulo: Yatroquimica
+tipo: concepto
+fecha: 2026-04-27
+estado: activo
+aliases: ["Yatroquímica", "Iatroquímica", "Iatrochemistry"]
+tags: [yatroquimica, paracelso, medicina, alquimia, historia-de-la-ciencia, tl-intel-v3]
+tier_primario: c
+nivel_evidencia: alto
 publish: true
-aliases:
-  - Yatroquímica
-  - Iatroquímica
-  - Iatrochemistry
-created: 2026-02-25T22:08:55.180-03:00
-modified: 2026-04-27T10:32:17.651-03:00
-tags:
-  - yatroquimica
-  - paracelso
-  - medicina
-  - alquimia
-  - historia-de-la-ciencia
-  - tl-intel-v3
 ---
 
 # Yatroquimica

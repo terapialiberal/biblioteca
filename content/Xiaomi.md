@@ -1,15 +1,11 @@
 ---
+titulo: Xiaomi
+tipo: entidad
+fecha: 2026-05-02
+estado: activo
+aliases: ["Xiaomi (Tecnología China)"]
+tags: [xiaomi, china, hardware, smartphones, tl-intel-v3]
 publish: true
-aliases:
-  - Xiaomi (Tecnología China)
-created: 2026-05-01T20:38:18.603-03:00
-modified: 2026-05-02T13:03:40.121-03:00
-tags:
-  - xiaomi
-  - china
-  - hardware
-  - smartphones
-  - tl-intel-v3
 ---
 
 # Xiaomi

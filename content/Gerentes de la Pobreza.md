@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:13:03.462-03:00
-modified: 2026-04-29T14:13:26.396-03:00
-tags:
-  - argentina
-  - pobreza
-  - clientelismo
-  - tl-intel-v3
+tipo: concepto
+titulo: Gerentes de la Pobreza
+estado: activo
+tags: [argentina, pobreza, clientelismo, tl-intel-v3]
 ---
 
 # Gerentes de la Pobreza

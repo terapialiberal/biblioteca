@@ -1,16 +1,11 @@
 ---
+titulo: Sócrates
+tipo: nodo
+fecha: 2026-05-02
+estado: activo
+aliases: ["Sócrates", "Socrates"]
+tags: [alias, legacy, filosofia, grecia, tl-intel-v3]
 publish: true
-aliases:
-  - Sócrates
-  - Socrates
-created: 2026-05-01T20:17:13.237-03:00
-modified: 2026-05-02T13:49:15.530-03:00
-tags:
-  - alias
-  - legacy
-  - filosofia
-  - grecia
-  - tl-intel-v3
 ---
 
 # Sócrates

@@ -1,16 +1,11 @@
 ---
+titulo: Assange
+tipo: nodo
+fecha: 2026-05-02
+estado: activo
+aliases: ["Julian Assange", "Julian Assange (WikiLeaks)"]
+tags: [assange, wikileaks, periodismo, whistleblower, tl-intel-v3]
 publish: true
-aliases:
-  - Julian Assange
-  - Julian Assange (WikiLeaks)
-created: 2026-05-01T20:40:05.738-03:00
-modified: 2026-05-02T13:02:22.218-03:00
-tags:
-  - assange
-  - wikileaks
-  - periodismo
-  - whistleblower
-  - tl-intel-v3
 ---
 
 # Assange

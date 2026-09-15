@@ -1,15 +1,11 @@
 ---
+titulo: Microsoft
+tipo: entidad
+fecha: 2026-05-02
+estado: activo
+aliases: ["Microsoft Corporation"]
+tags: [microsoft, nube, ia, software, tl-intel-v3]
 publish: true
-aliases:
-  - Microsoft Corporation
-created: 2026-01-29T19:17:25.109-03:00
-modified: 2026-05-02T13:04:16.011-03:00
-tags:
-  - microsoft
-  - nube
-  - ia
-  - software
-  - tl-intel-v3
 ---
 
 # Microsoft

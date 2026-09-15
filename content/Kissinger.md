@@ -1,15 +1,11 @@
 ---
+titulo: Kissinger
+tipo: nodo
+fecha: 2026-05-02
+estado: activo
+aliases: ["Henry Kissinger"]
+tags: [kissinger, realpolitik, diplomacia, eeuu, tl-intel-v3]
 publish: true
-aliases:
-  - Henry Kissinger
-created: 2026-05-01T20:16:21.466-03:00
-modified: 2026-05-02T13:44:42.483-03:00
-tags:
-  - kissinger
-  - realpolitik
-  - diplomacia
-  - eeuu
-  - tl-intel-v3
 ---
 
 # Kissinger

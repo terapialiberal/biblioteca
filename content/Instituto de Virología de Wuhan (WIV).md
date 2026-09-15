@@ -1,13 +1,15 @@
 ---
 publish: true
-created: 2026-04-29T15:30:54.054-03:00
-modified: 2026-05-02T14:15:59.978-03:00
+tipo: alias
+titulo: Instituto de Virología de Wuhan (WIV)
+estado: activo
 tags:
   - alias
   - bioseguridad
   - china
   - virologia
   - tl-intel-v3
+reemplazado_por: '[[Instituto de Virologia de Wuhan]]'
 ---
 
 # Instituto de Virología de Wuhan (WIV)

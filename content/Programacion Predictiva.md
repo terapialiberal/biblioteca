@@ -1,16 +1,13 @@
 ---
+titulo: Programacion Predictiva
+tipo: concepto
+fecha: 2026-04-19
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Programación Predictiva: El Guion Planeado De La Realidad"]
+tags: [programacion-predictiva, propaganda, cine, percepcion, guerra-cognitiva, tl-intel-v3]
 publish: true
-aliases:
-  - "Programación Predictiva: El Guion Planeado De La Realidad"
-created: 2026-01-29T19:17:31.680-03:00
-modified: 2026-04-19T11:57:40.369-03:00
-tags:
-  - programacion-predictiva
-  - propaganda
-  - cine
-  - percepcion
-  - guerra-cognitiva
-  - tl-intel-v3
 ---
 
 # Programacion Predictiva

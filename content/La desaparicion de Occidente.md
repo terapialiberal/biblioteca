@@ -1,14 +1,12 @@
 ---
+titulo: La desaparicion de Occidente
+tipo: import
+estado: capturado
+fuente: https://theobjective.com/internacional/2025-12-09/desaparicion-occidente/
+fecha: 2025-12-10
+descripcion: Import estabilizado sobre la transicion desde un orden unipolar hacia una fase multipolar mas inestable y costosa para Occidente.
+tags: [occidente, multipolaridad, geopolítica, eeuu, orden-mundial, import]
 publish: true
-created: 2026-01-29T19:05:10.482-03:00
-modified: 2026-05-02T18:25:40.461-03:00
-tags:
-  - occidente
-  - multipolaridad
-  - geopolítica
-  - eeuu
-  - orden-mundial
-  - import
 ---
 
 # La desaparicion de Occidente

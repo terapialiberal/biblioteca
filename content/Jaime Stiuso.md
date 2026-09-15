@@ -1,19 +1,13 @@
 ---
+titulo: Jaime Stiuso
+tipo: persona
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Antonio Stiuso", "Antonio Jaime Stiuso", "AFI / SIDE"]
+tags: [argentina, inteligencia, side, afi, carpetazos, justicia, tl-intel-v3]
 publish: true
-aliases:
-  - Antonio Stiuso
-  - Antonio Jaime Stiuso
-  - AFI / SIDE
-created: 2026-01-29T19:17:19.171-03:00
-modified: 2026-04-18T11:24:28.480-03:00
-tags:
-  - argentina
-  - inteligencia
-  - side
-  - afi
-  - carpetazos
-  - justicia
-  - tl-intel-v3
 ---
 
 # Jaime Stiuso

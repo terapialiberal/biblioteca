@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:09:24.884-03:00
-modified: 2026-04-29T14:09:43.884-03:00
-tags:
-  - inteligencia
-  - defensa
-  - eeuu
-  - tl-intel-v3
+tipo: organizacion
+titulo: DIA
+estado: activo
+tags: [inteligencia, defensa, eeuu, tl-intel-v3]
 ---
 
 # DIA

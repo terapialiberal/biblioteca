@@ -1,15 +1,11 @@
 ---
+titulo: Revolut
+tipo: entidad
+fecha: 2026-05-02
+estado: activo
+aliases: ["Revolut (Neobanco)"]
+tags: [revolut, fintech, neobanco, pagos, tl-intel-v3]
 publish: true
-aliases:
-  - Revolut (Neobanco)
-created: 2026-05-01T20:38:47.992-03:00
-modified: 2026-05-02T12:58:38.562-03:00
-tags:
-  - revolut
-  - fintech
-  - neobanco
-  - pagos
-  - tl-intel-v3
 ---
 
 # Revolut

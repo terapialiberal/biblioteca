@@ -1,16 +1,13 @@
 ---
+titulo: Biometria Global
+tipo: concepto
+fecha: 2026-04-17
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Biometría Global"]
+tags: [biometria, reconocimiento-facial, iris, identidad-digital, control, tl-intel-v3]
 publish: true
-aliases:
-  - Biometría Global
-created: 2026-01-29T19:17:05.419-03:00
-modified: 2026-04-22T16:54:54.693-03:00
-tags:
-  - biometria
-  - reconocimiento-facial
-  - iris
-  - identidad-digital
-  - control
-  - tl-intel-v3
 ---
 
 # Biometria Global

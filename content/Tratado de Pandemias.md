@@ -1,12 +1,11 @@
 ---
+titulo: Tratado de Pandemias
+tipo: alias
+fecha: 2026-04-17
+estado: legacy
+reemplazado_por: [[Tratado de Pandemias OMS]]
+tags: [alias, pandemias, oms, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:41.089-03:00
-modified: 2026-04-21T19:05:43.249-03:00
-tags:
-  - alias
-  - pandemias
-  - oms
-  - tl-intel-v3
 ---
 
 # Tratado de Pandemias

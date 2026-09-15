@@ -1,12 +1,12 @@
 ---
+titulo: "Mises Institute: La Resistencia Anti-Banca Central"
+tipo: "entidad"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [institute, mises, reserva, resistencia]
 publish: true
-created: 2026-01-29T19:17:25.449-03:00
-modified: 2026-05-02T18:25:47.155-03:00
-tags:
-  - institute
-  - mises
-  - reserva
-  - resistencia
 ---
 
 # Mises Institute: La Resistencia Anti-Banca Central

@@ -1,12 +1,12 @@
 ---
+titulo: "Nacionalismo Cristiano: La Teología Del Imperio"
+tipo: "concepto"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [biblia, nacionalismo, sionismo, teologa]
 publish: true
-created: 2026-01-29T19:17:26.277-03:00
-modified: 2026-05-02T18:25:48.560-03:00
-tags:
-  - biblia
-  - nacionalismo
-  - sionismo
-  - teologa
 ---
 
 # Nacionalismo Cristiano: La Teología Del Imperio

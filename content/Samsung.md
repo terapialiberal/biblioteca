@@ -1,15 +1,11 @@
 ---
+titulo: Samsung
+tipo: entidad
+fecha: 2026-05-02
+estado: activo
+aliases: ["Samsung (Grupo)"]
+tags: [samsung, corea, chips, chaebol, tl-intel-v3]
 publish: true
-aliases:
-  - Samsung (Grupo)
-created: 2026-01-29T19:17:35.261-03:00
-modified: 2026-05-02T13:03:40.303-03:00
-tags:
-  - samsung
-  - corea
-  - chips
-  - chaebol
-  - tl-intel-v3
 ---
 
 # Samsung

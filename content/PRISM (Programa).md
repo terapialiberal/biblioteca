@@ -1,17 +1,13 @@
 ---
+titulo: "PRISM (Programa)"
+tipo: programa
+fecha: 2026-04-22
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Programa PRISM", "PRISM"]
+tags: [prism, nsa, vigilancia, five-eyes, big-tech, tl-intel-v3]
 publish: true
-aliases:
-  - Programa PRISM
-  - PRISM
-created: 2026-04-22T16:07:39.389-03:00
-modified: 2026-04-22T16:07:39.389-03:00
-tags:
-  - prism
-  - nsa
-  - vigilancia
-  - five-eyes
-  - big-tech
-  - tl-intel-v3
 ---
 
 # PRISM (Programa)

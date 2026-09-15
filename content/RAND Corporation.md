@@ -1,14 +1,10 @@
 ---
 publish: true
-aliases:
-  - RAND Corporation
-created: 2026-01-29T19:17:32.495-03:00
-modified: 2026-05-02T18:25:58.663-03:00
-tags:
-  - think-tank
-  - militar
-  - estrategia
-  - guerra-fria
+titulo: "RAND Corporation"
+aliases: ["RAND Corporation"]
+tags: [think-tank, militar, estrategia, guerra-fria]
+tipo: think-tank
+nivel: A
 ---
 
 # RAND Corporation

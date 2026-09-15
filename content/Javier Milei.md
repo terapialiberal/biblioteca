@@ -1,16 +1,14 @@
 ---
+titulo: Javier Milei
+tipo: persona
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Javier Milei - El Experimento Libertario Atlantista"]
+tags: [argentina, milei, gobierno, ajuste, oficialismo, tl-intel-v3]
 publish: true
-aliases:
-  - Javier Milei - El Experimento Libertario Atlantista
-created: 2026-01-29T19:17:19.381-03:00
-modified: 2026-05-27T10:18:02.090-03:00
-tags:
-  - argentina
-  - milei
-  - gobierno
-  - ajuste
-  - oficialismo
-  - tl-intel-v3
+last_stream: "[[06_Videos_Publicados/2026/2026-05-26_La_Trampa_de_Ormuz/00_ARCHIVO_2026-05-26_La_Trampa_de_Ormuz|ARCHIVO: La Trampa de Ormuz]]"
 ---
 
 # Javier Milei

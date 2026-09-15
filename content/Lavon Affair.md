@@ -1,12 +1,12 @@
 ---
+titulo: "Lavon Affair: El Prototipo De La Falsa Bandera Moderna"
+tipo: "persona"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [bandera, falsa, moderna, prototipo]
 publish: true
-created: 2026-01-29T19:17:21.990-03:00
-modified: 2026-05-02T18:25:42.518-03:00
-tags:
-  - bandera
-  - falsa
-  - moderna
-  - prototipo
 ---
 
 # Lavon Affair: El Prototipo De La Falsa Bandera Moderna

@@ -1,16 +1,11 @@
 ---
+titulo: PayPal
+tipo: entidad
+fecha: 2026-05-02
+estado: activo
+aliases: ["Paypal", "PayPal (Mafia)"]
+tags: [paypal, fintech, pagos, mafia-paypal, tl-intel-v3]
 publish: true
-aliases:
-  - Paypal
-  - PayPal (Mafia)
-created: 2026-05-01T20:38:43.290-03:00
-modified: 2026-05-02T12:58:38.721-03:00
-tags:
-  - paypal
-  - fintech
-  - pagos
-  - mafia-paypal
-  - tl-intel-v3
 ---
 
 # PayPal

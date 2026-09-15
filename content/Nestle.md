@@ -1,12 +1,12 @@
 ---
+titulo: "Nestlé: El Depredador De Lo Vital"
+tipo: "concepto"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [blackrock, nestl, privatizacin, vital]
 publish: true
-created: 2026-01-29T19:17:26.631-03:00
-modified: 2026-05-02T18:25:49.241-03:00
-tags:
-  - blackrock
-  - nestl
-  - privatizacin
-  - vital
 ---
 
 # Nestlé: El Depredador De Lo Vital

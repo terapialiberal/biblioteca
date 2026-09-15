@@ -1,15 +1,11 @@
 ---
+titulo: Netflix
+tipo: entidad
+fecha: 2026-05-02
+estado: activo
+aliases: ["Netflix (Streaming)"]
+tags: [netflix, streaming, entretenimiento, plataforma, tl-intel-v3]
 publish: true
-aliases:
-  - Netflix (Streaming)
-created: 2026-05-01T20:38:33.948-03:00
-modified: 2026-05-02T13:03:01.311-03:00
-tags:
-  - netflix
-  - streaming
-  - entretenimiento
-  - plataforma
-  - tl-intel-v3
 ---
 
 # Netflix

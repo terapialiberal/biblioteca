@@ -1,16 +1,11 @@
 ---
+titulo: Canal de Panamá
+tipo: nodo
+fecha: 2026-05-02
+estado: activo
+aliases: ["Canal de Panamá (Logística de Poder)", "Canal de Panamá (El patio trasero de EEUU)"]
+tags: [canal-panama, chokepoint, comercio, eeuu, tl-intel-v3]
 publish: true
-aliases:
-  - Canal de Panamá (Logística de Poder)
-  - Canal de Panamá (El patio trasero de EEUU)
-created: 2026-04-29T14:05:24.854-03:00
-modified: 2026-05-02T13:47:16.839-03:00
-tags:
-  - canal-panama
-  - chokepoint
-  - comercio
-  - eeuu
-  - tl-intel-v3
 ---
 
 # Canal de Panamá

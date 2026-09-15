@@ -1,15 +1,11 @@
 ---
+titulo: 60 Minutes
+tipo: entidad
+fecha: 2026-05-02
+estado: activo
+aliases: ["60 Minutes"]
+tags: [60-minutes, medios, television, eeuu, tl-intel-v3]
 publish: true
-aliases:
-  - 60 Minutes
-created: 2026-05-01T19:13:38.486-03:00
-modified: 2026-05-02T13:48:38.010-03:00
-tags:
-  - 60-minutes
-  - medios
-  - television
-  - eeuu
-  - tl-intel-v3
 ---
 
 # 60 Minutes

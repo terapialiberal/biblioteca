@@ -1,17 +1,13 @@
 ---
+titulo: Mar del Sur de China
+tipo: nodo
+fecha: 2026-05-02
+tier_primario: b
+nivel_evidencia: alto
+estado: activo
+aliases: ["Mar del Sur de China (Disputa)", "South China Sea"]
+tags: [mar-del-sur-de-china, china, rimland, rutas, disputa-territorial, tl-intel-v3]
 publish: true
-aliases:
-  - Mar del Sur de China (Disputa)
-  - South China Sea
-created: 2026-05-01T20:45:06.399-03:00
-modified: 2026-05-02T12:41:36.024-03:00
-tags:
-  - mar-del-sur-de-china
-  - china
-  - rimland
-  - rutas
-  - disputa-territorial
-  - tl-intel-v3
 ---
 
 # Mar del Sur de China

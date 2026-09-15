@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:13:02.085-03:00
-modified: 2026-04-29T14:13:24.900-03:00
-tags:
-  - arabia-saudita
-  - construccion
-  - redes-elite
-  - tl-intel-v3
+tipo: actor-colectivo
+titulo: Familia Bin Laden
+estado: activo
+tags: [arabia-saudita, construccion, redes-elite, tl-intel-v3]
 ---
 
 # Familia Bin Laden

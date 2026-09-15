@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:13:08.638-03:00
-modified: 2026-04-29T14:13:27.473-03:00
-tags:
-  - argentina
-  - medios
-  - empresarios
-  - tl-intel-v3
+tipo: actor
+titulo: Grupo América
+estado: activo
+tags: [argentina, medios, empresarios, tl-intel-v3]
 ---
 
 # Grupo América

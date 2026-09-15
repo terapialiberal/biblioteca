@@ -1,13 +1,11 @@
 ---
 publish: true
-created: 2026-03-01T09:01:52.827-03:00
-modified: 2026-04-21T11:59:52.738-03:00
-tags:
-  - moc
-  - crimen-sistemico
-  - mercados-negros
-  - narcotrafico
-  - tl-intel-v3
+titulo: "MOC - Mercados Negros y Crimen Sistemico"
+tipo: moc
+fecha: 2026-04-07
+estado: activo
+moc_canonico: [[00_MOC - Base de Conocimiento]]
+tags: [moc, crimen-sistemico, mercados-negros, narcotrafico, tl-intel-v3]
 ---
 
 # MOC - Mercados Negros y Crimen Sistemico

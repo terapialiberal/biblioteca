@@ -1,12 +1,16 @@
 ---
-publish: true
-created: 2026-01-29T19:17:30.044-03:00
-modified: 2026-04-24T11:31:45.194-03:00
+titulo: Paul Warburg
+tipo: persona
+fecha: 2026-04-18
+tier_primario: B
+nivel_evidencia: medio
+estado: activo
 tags:
   - paul-warburg
   - reserva-federal
   - banca-central
   - arquitectura-financiera
+publish: true
 ---
 
 # Paul Warburg

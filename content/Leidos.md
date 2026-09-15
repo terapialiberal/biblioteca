@@ -1,15 +1,12 @@
 ---
+titulo: Leidos
+tipo: organizacion
+fecha: 2026-04-20
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [leidos, contratistas, inteligencia, defensa, datos, privatizacion, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:22.196-03:00
-modified: 2026-04-20T09:25:26.692-03:00
-tags:
-  - leidos
-  - contratistas
-  - inteligencia
-  - defensa
-  - datos
-  - privatizacion
-  - tl-intel-v3
 ---
 
 # Leidos

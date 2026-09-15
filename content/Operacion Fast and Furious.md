@@ -1,12 +1,12 @@
 ---
+titulo: "Operación Fast and Furious: El Tráfico De Armas Como Ingeniería De Desarme"
+tipo: "evento"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [cartel, desarme, furious, ingeniera]
 publish: true
-created: 2026-01-29T19:17:28.434-03:00
-modified: 2026-05-02T18:25:52.035-03:00
-tags:
-  - cartel
-  - desarme
-  - furious
-  - ingeniera
 ---
 
 # Operación Fast and Furious: El Tráfico De Armas Como Ingeniería De Desarme

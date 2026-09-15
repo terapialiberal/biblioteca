@@ -1,15 +1,13 @@
 ---
+titulo: Genomic ID
+tipo: concepto
+fecha: 2026-04-17
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Genomic ID (Bio-Digital Convergence)"]
+tags: [genomic-id, adn, bio-digital, identidad-digital, tl-intel-v3]
 publish: true
-aliases:
-  - Genomic ID (Bio-Digital Convergence)
-created: 2026-02-09T17:33:02.121-03:00
-modified: 2026-04-29T14:44:32.956-03:00
-tags:
-  - genomic-id
-  - adn
-  - bio-digital
-  - identidad-digital
-  - tl-intel-v3
 ---
 
 # Genomic ID

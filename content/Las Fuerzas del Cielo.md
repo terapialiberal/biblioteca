@@ -1,12 +1,12 @@
 ---
+titulo: "Las Fuerzas Del Cielo: El Blindaje Metafísico Del Shock"
+tipo: "concepto"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [blindaje, fuerzas, metafsico, shock]
 publish: true
-created: 2026-01-29T19:17:21.883-03:00
-modified: 2026-05-02T18:25:42.108-03:00
-tags:
-  - blindaje
-  - fuerzas
-  - metafsico
-  - shock
 ---
 
 # Las Fuerzas Del Cielo: El Blindaje Metafísico Del Shock

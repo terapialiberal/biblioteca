@@ -1,15 +1,10 @@
 ---
 publish: true
-aliases:
-  - Andrew Yang
-created: 2026-05-01T19:12:37.529-03:00
-modified: 2026-05-02T18:25:11.799-03:00
-tags:
-  - actor
-  - eeuu
-  - ubi
-  - tecnologia
-  - politica
+titulo: "Andrew Yang"
+aliases: ["Andrew Yang"]
+tags: [actor, eeuu, ubi, tecnologia, politica]
+tipo: actor
+nivel: C
 ---
 
 # Andrew Yang

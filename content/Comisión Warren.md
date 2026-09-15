@@ -1,14 +1,10 @@
 ---
 publish: true
-aliases:
-  - Comisión Warren
-created: 2026-05-01T20:12:40.869-03:00
-modified: 2026-05-02T18:25:15.670-03:00
-tags:
-  - evento
-  - jfk
-  - investigacion
-  - encubrimiento
+titulo: "Comisión Warren"
+aliases: ["Comisión Warren"]
+tags: [evento, jfk, investigacion, encubrimiento]
+tipo: evento
+nivel: B
 ---
 
 # Comisión Warren

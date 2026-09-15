@@ -1,12 +1,12 @@
 ---
+titulo: Resumen General
+tipo: "persona"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [alfredo, carlos, domingo, yabrn]
 publish: true
-created: 2026-01-29T19:17:03.262-03:00
-modified: 2026-05-02T18:24:15.321-03:00
-tags:
-  - alfredo
-  - carlos
-  - domingo
-  - yabrn
 ---
 
 # Resumen General

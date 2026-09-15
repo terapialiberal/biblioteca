@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T13:34:40.962-03:00
-modified: 2026-04-29T13:34:58.289-03:00
-tags:
-  - pais
-  - atlantismo
-  - imperio
-  - tl-intel-v3
+tipo: pais
+titulo: Estados Unidos
+estado: activo
+tags: [pais, atlantismo, imperio, tl-intel-v3]
 ---
 
 # Estados Unidos

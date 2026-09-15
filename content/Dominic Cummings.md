@@ -1,13 +1,17 @@
 ---
-publish: true
-created: 2026-01-29T19:17:10.508-03:00
-modified: 2026-05-02T18:24:39.864-03:00
+titulo: Dominic Cummings
+tipo: persona
+fecha: 2026-02-25T00:00:00.000Z
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
 tags:
   - estado-profundo
   - brexit
   - captura-estado
   - denunciante
   - manipulacion-politica
+publish: true
 ---
 
 # Dominic Cummings

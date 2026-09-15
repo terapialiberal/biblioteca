@@ -1,14 +1,12 @@
 ---
+titulo: Bloque Anglo-Americano
+tipo: concepto
+fecha: 2026-04-21
+tier_primario: a
+nivel_evidencia: medio
+estado: activo
+tags: [bloque-anglo-americano, atlantismo, imperio, inteligencia, finanzas, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:05.593-03:00
-modified: 2026-04-21T12:49:26.631-03:00
-tags:
-  - bloque-anglo-americano
-  - atlantismo
-  - imperio
-  - inteligencia
-  - finanzas
-  - tl-intel-v3
 ---
 
 # Bloque Anglo-Americano

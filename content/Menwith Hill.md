@@ -1,15 +1,12 @@
 ---
+titulo: Menwith Hill
+tipo: entidad
+fecha: 2026-04-19
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [menwith-hill, gchq, nsa, sigint, base, vigilancia, tl-intel-v3]
 publish: true
-created: 2026-04-19T13:05:48.930-03:00
-modified: 2026-04-19T13:05:50.356-03:00
-tags:
-  - menwith-hill
-  - gchq
-  - nsa
-  - sigint
-  - base
-  - vigilancia
-  - tl-intel-v3
 ---
 
 # Menwith Hill

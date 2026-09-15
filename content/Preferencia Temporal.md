@@ -1,12 +1,12 @@
 ---
+titulo: "Preferencia Temporal: El Pulso De La Civilización"
+tipo: "persona"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [civilizacin, hans, preferencia, temporal]
 publish: true
-created: 2026-01-29T19:17:31.262-03:00
-modified: 2026-05-02T18:25:56.638-03:00
-tags:
-  - civilizacin
-  - hans
-  - preferencia
-  - temporal
 ---
 
 # Preferencia Temporal: El Pulso De La Civilización

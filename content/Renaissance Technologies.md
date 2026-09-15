@@ -1,12 +1,16 @@
 ---
-publish: true
-created: 2026-01-29T19:17:33.115-03:00
-modified: 2026-04-18T18:34:45.682-03:00
+titulo: Renaissance Technologies
+tipo: entidad
+fecha: 2026-04-18
+tier_primario: B
+nivel_evidencia: medio
+estado: activo
 tags:
   - renaissance-technologies
   - finanzas-cuantitativas
   - trading-algoritmico
   - datos
+publish: true
 ---
 
 # [[Renaissance Technologies]]

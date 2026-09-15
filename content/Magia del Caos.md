@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T13:56:36.896-03:00
-modified: 2026-04-29T13:56:36.896-03:00
-tags:
-  - esoterismo
-  - simbolismo
-  - psicologia
-  - tl-intel-v3
+tipo: concepto
+titulo: Magia del Caos
+estado: activo
+tags: [esoterismo, simbolismo, psicologia, tl-intel-v3]
 ---
 
 # Magia del Caos

@@ -1,13 +1,12 @@
 ---
+link: https://x.com/Antony_ant_cl/status/2015569106473242975
+fecha: 2026-02-06T00:00:00.000Z
+tipo: concepto
+usado en: null
+estado: activo
+tags: [economia-potencial, geopolitica-sudamerica, recursos-naturales, recursos-naturales-agua-dulce, recursos-naturales-litio]
+titulo: General Richardson Resalta El Vasto Potencial De S
 publish: true
-created: 2026-02-06T10:55:08.019-03:00
-modified: 2026-05-02T18:25:26.752-03:00
-tags:
-  - economia-potencial
-  - geopolitica-sudamerica
-  - recursos-naturales
-  - recursos-naturales-agua-dulce
-  - recursos-naturales-litio
 ---
 
 # General Richardson Resalta El Vasto Potencial De S

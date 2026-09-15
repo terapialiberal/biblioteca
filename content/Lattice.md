@@ -1,15 +1,12 @@
 ---
+titulo: Lattice
+tipo: producto
+fecha: 2026-04-20
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [lattice, anduril, defensa, sensores, mando, autonomia, tl-intel-v3]
 publish: true
-created: 2026-04-20T09:57:45.128-03:00
-modified: 2026-04-20T09:57:45.128-03:00
-tags:
-  - lattice
-  - anduril
-  - defensa
-  - sensores
-  - mando
-  - autonomia
-  - tl-intel-v3
 ---
 
 # Lattice

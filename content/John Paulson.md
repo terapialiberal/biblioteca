@@ -1,12 +1,12 @@
 ---
+titulo: "John Paulson: El Buitre Del Colapso Sistmico"
+tipo: "persona"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [buitre, colapso, goldman, mico]
 publish: true
-created: 2026-01-29T19:17:19.934-03:00
-modified: 2026-05-02T18:25:37.672-03:00
-tags:
-  - buitre
-  - colapso
-  - goldman
-  - mico
 ---
 
 # John Paulson: El Buitre Del Colapso Sistmico

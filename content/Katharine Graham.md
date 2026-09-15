@@ -1,14 +1,12 @@
 ---
+titulo: Katharine Graham
+tipo: persona
+fecha: 2026-04-19
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [katharine-graham, washington-post, medios, inteligencia, legitimacion, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:20.625-03:00
-modified: 2026-04-19T12:06:38.141-03:00
-tags:
-  - katharine-graham
-  - washington-post
-  - medios
-  - inteligencia
-  - legitimacion
-  - tl-intel-v3
 ---
 
 # Katharine Graham

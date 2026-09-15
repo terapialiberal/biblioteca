@@ -1,18 +1,13 @@
 ---
+titulo: Union Europea
+tipo: entidad
+fecha: 2026-04-24
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["European Union", "UE", "EU"]
+tags: [union-europea, europa, eurozona, tecnocracia, integracion, tl-intel-v3]
 publish: true
-aliases:
-  - European Union
-  - UE
-  - EU
-created: 2026-01-29T19:17:42.408-03:00
-modified: 2026-04-24T12:25:38.781-03:00
-tags:
-  - union-europea
-  - europa
-  - eurozona
-  - tecnocracia
-  - integracion
-  - tl-intel-v3
 ---
 
 # Union Europea

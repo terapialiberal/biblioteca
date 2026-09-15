@@ -1,17 +1,13 @@
 ---
+titulo: Deuda Soberana
+tipo: concepto
+fecha: 2026-05-02
+tier_primario: b
+nivel_evidencia: alto
+estado: activo
+aliases: ["Deuda Soberana (Mecanismo de Control)", "Sovereign Debt"]
+tags: [deuda-soberana, bonos, fmi, default, control-financiero, tl-intel-v3]
 publish: true
-aliases:
-  - Deuda Soberana (Mecanismo de Control)
-  - Sovereign Debt
-created: 2026-04-29T14:09:24.736-03:00
-modified: 2026-05-02T12:22:03.588-03:00
-tags:
-  - deuda-soberana
-  - bonos
-  - fmi
-  - default
-  - control-financiero
-  - tl-intel-v3
 ---
 
 # Deuda Soberana

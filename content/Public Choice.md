@@ -1,12 +1,14 @@
 ---
 publish: true
-created: 2026-04-29T13:58:24.032-03:00
-modified: 2026-05-02T14:13:49.496-03:00
+tipo: alias
+titulo: Public Choice
+estado: activo
 tags:
   - alias
   - economia-politica
   - incentivos
   - tl-intel-v3
+reemplazado_por: '[[Public Choice Theory]]'
 ---
 
 # Public Choice

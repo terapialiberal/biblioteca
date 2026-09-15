@@ -1,14 +1,10 @@
 ---
 publish: true
-aliases:
-  - Bitfinex
-created: 2026-05-01T19:11:42.452-03:00
-modified: 2026-05-02T18:25:13.539-03:00
-tags:
-  - cripto
-  - exchange
-  - tether
-  - offshore
+titulo: "Bitfinex"
+aliases: ["Bitfinex"]
+tags: [cripto, exchange, tether, offshore]
+tipo: empresa
+nivel: C
 ---
 
 # Bitfinex

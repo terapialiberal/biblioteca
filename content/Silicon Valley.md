@@ -1,14 +1,12 @@
 ---
+titulo: Silicon Valley
+tipo: concepto
+fecha: 2026-04-21
+tier_primario: a
+nivel_evidencia: medio
+estado: activo
+tags: [silicon-valley, plataformas, vigilancia, tecnocracia, inteligencia, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:36.816-03:00
-modified: 2026-04-21T19:14:23.501-03:00
-tags:
-  - silicon-valley
-  - plataformas
-  - vigilancia
-  - tecnocracia
-  - inteligencia
-  - tl-intel-v3
 ---
 
 # Silicon Valley

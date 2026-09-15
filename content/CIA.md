@@ -1,16 +1,11 @@
 ---
+titulo: CIA
+tipo: entidad
+fecha: 2026-05-02
+estado: activo
+aliases: ["CIA (Central Intelligence Agency)", "Central Intelligence Agency"]
+tags: [cia, inteligencia, eeuu, operaciones-encubiertas, tl-intel-v3]
 publish: true
-aliases:
-  - CIA (Central Intelligence Agency)
-  - Central Intelligence Agency
-created: 2026-01-29T19:17:07.662-03:00
-modified: 2026-05-02T13:07:08.751-03:00
-tags:
-  - cia
-  - inteligencia
-  - eeuu
-  - operaciones-encubiertas
-  - tl-intel-v3
 ---
 
 # CIA

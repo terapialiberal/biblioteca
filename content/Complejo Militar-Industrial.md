@@ -1,18 +1,13 @@
 ---
+titulo: Complejo Militar-Industrial
+tipo: concepto
+fecha: 2026-05-02
+tier_primario: b
+nivel_evidencia: alto
+estado: activo
+aliases: ["Complejo Militar Industrial", "Military-Industrial Complex", "Industria Militar Complejo"]
+tags: [complejo-militar-industrial, defensa, contratistas, guerra, presupuesto, tl-intel-v3]
 publish: true
-aliases:
-  - Complejo Militar Industrial
-  - Military-Industrial Complex
-  - Industria Militar Complejo
-created: 2026-04-19T13:27:02.850-03:00
-modified: 2026-05-02T12:44:21.645-03:00
-tags:
-  - complejo-militar-industrial
-  - defensa
-  - contratistas
-  - guerra
-  - presupuesto
-  - tl-intel-v3
 ---
 
 # Complejo Militar-Industrial

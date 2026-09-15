@@ -1,14 +1,12 @@
 ---
+titulo: Magia del Caos en el Marketing
+tipo: concepto
+fecha: 2026-04-27
+estado: activo
+tags: [magia-del-caos, marketing, branding, simbolismo, propaganda, tl-intel-v3]
+tier_primario: b
+nivel_evidencia: medio
 publish: true
-created: 2026-02-25T22:08:32.199-03:00
-modified: 2026-04-27T10:37:26.009-03:00
-tags:
-  - magia-del-caos
-  - marketing
-  - branding
-  - simbolismo
-  - propaganda
-  - tl-intel-v3
 ---
 
 # Magia del Caos en el Marketing

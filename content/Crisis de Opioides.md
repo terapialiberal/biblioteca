@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:09:22.341-03:00
-modified: 2026-04-29T14:09:38.130-03:00
-tags:
-  - salud-publica
-  - big-pharma
-  - eeuu
-  - tl-intel-v3
+tipo: evento
+titulo: Crisis de Opioides
+estado: activo
+tags: [salud-publica, big-pharma, eeuu, tl-intel-v3]
 ---
 
 # Crisis de Opioides

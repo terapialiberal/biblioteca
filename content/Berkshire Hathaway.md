@@ -1,16 +1,11 @@
 ---
+titulo: Berkshire Hathaway
+tipo: entidad
+fecha: 2026-05-02
+estado: activo
+aliases: ["Berkshire", "Berkshire Hathaway (Warren Buffett)"]
+tags: [berkshire-hathaway, warren-buffett, holding, seguros, tl-intel-v3]
 publish: true
-aliases:
-  - Berkshire
-  - Berkshire Hathaway (Warren Buffett)
-created: 2026-05-01T19:13:53.895-03:00
-modified: 2026-05-02T13:47:57.331-03:00
-tags:
-  - berkshire-hathaway
-  - warren-buffett
-  - holding
-  - seguros
-  - tl-intel-v3
 ---
 
 # Berkshire Hathaway

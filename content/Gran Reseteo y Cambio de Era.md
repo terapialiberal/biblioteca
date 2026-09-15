@@ -1,13 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:44:31.184-03:00
-modified: 2026-04-29T14:44:31.184-03:00
-tags:
-  - gran-reinicio
-  - cambio-de-era
-  - narrativa
-  - gobernanza-global
-  - tl-intel-v3
+tipo: concepto
+titulo: Gran Reseteo y Cambio de Era
+estado: activo
+tags: [gran-reinicio, cambio-de-era, narrativa, gobernanza-global, tl-intel-v3]
 ---
 
 # Gran Reseteo y Cambio de Era

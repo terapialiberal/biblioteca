@@ -1,17 +1,10 @@
 ---
 publish: true
-aliases:
-  - NRx / Neoreaccion
-  - NRx
-  - Neoreacción
-  - Dark Enlightenment
-created: 2026-05-01T18:49:17.306-03:00
-modified: 2026-05-02T18:25:49.173-03:00
-tags:
-  - ideologia
-  - tecnolibertarismo
-  - neoreaccion
-  - thiel
+titulo: "Neorreacción - NRx"
+aliases: ["NRx / Neoreaccion", "NRx", "Neoreacción", "Dark Enlightenment"]
+tags: [ideologia, tecnolibertarismo, neoreaccion, thiel]
+tipo: corriente
+nivel: B
 ---
 
 # Neorreacción (NRx)

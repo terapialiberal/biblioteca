@@ -1,14 +1,12 @@
 ---
+titulo: Capitalismo de Vigilancia
+tipo: concepto
+fecha: 2026-04-19
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [capitalismo-de-vigilancia, plataformas, datos, comportamiento, google, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:06.407-03:00
-modified: 2026-04-22T16:33:06.265-03:00
-tags:
-  - capitalismo-de-vigilancia
-  - plataformas
-  - datos
-  - comportamiento
-  - google
-  - tl-intel-v3
 ---
 
 # Capitalismo de Vigilancia

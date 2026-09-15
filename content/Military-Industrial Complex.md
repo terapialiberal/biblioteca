@@ -1,15 +1,12 @@
 ---
+titulo: Military-Industrial Complex
+tipo: alias
+fecha: 2026-05-02
+estado: legacy
+reemplazado_por: [[Complejo Militar-Industrial]]
+aliases: ["Military-Industrial Complex"]
+tags: [alias, legacy, complejo-militar-industrial, defensa, tl-intel-v3]
 publish: true
-aliases:
-  - Military-Industrial Complex
-created: 2026-05-01T20:46:51.873-03:00
-modified: 2026-05-02T12:44:21.578-03:00
-tags:
-  - alias
-  - legacy
-  - complejo-militar-industrial
-  - defensa
-  - tl-intel-v3
 ---
 
 # Military-Industrial Complex

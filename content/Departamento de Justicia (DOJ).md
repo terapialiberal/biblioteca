@@ -1,12 +1,14 @@
 ---
 publish: true
-created: 2026-04-29T14:09:22.726-03:00
-modified: 2026-05-02T14:15:01.495-03:00
+tipo: alias
+titulo: Departamento de Justicia (DOJ)
+estado: activo
 tags:
   - alias
   - justicia
   - eeuu
   - tl-intel-v3
+reemplazado_por: '[[Departamento de Justicia]]'
 ---
 
 # Departamento de Justicia (DOJ)

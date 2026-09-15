@@ -1,14 +1,12 @@
 ---
+titulo: Shoshana Zuboff
+tipo: persona
+fecha: 2026-04-19
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [shoshana-zuboff, capitalismo-de-vigilancia, plataformas, datos, critica-digital, tl-intel-v3]
 publish: true
-created: 2026-04-19T12:40:12.352-03:00
-modified: 2026-04-22T16:33:06.266-03:00
-tags:
-  - shoshana-zuboff
-  - capitalismo-de-vigilancia
-  - plataformas
-  - datos
-  - critica-digital
-  - tl-intel-v3
 ---
 
 # Shoshana Zuboff

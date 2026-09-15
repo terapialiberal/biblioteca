@@ -1,13 +1,14 @@
 ---
-publish: true
-created: 2026-05-02T14:22:40.833-03:00
-modified: 2026-05-02T14:23:51.869-03:00
+titulo: Vladimiro Montesinos
+tipo: persona
+estado: activo
 tags:
   - peru
   - inteligencia
   - corrupcion
   - chantaje
   - tl-intel-v3
+publish: true
 ---
 
 # Vladimiro Montesinos

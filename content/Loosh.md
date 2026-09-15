@@ -1,16 +1,13 @@
 ---
+titulo: Loosh
+tipo: concepto
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Loosh: La Energetica Del Sufrimiento Colectivo"]
+tags: [loosh, robert-monroe, sufrimiento, energia, metafisica, tl-intel-v3]
 publish: true
-aliases:
-  - "Loosh: La Energetica Del Sufrimiento Colectivo"
-created: 2026-01-29T19:17:22.897-03:00
-modified: 2026-04-18T18:08:05.004-03:00
-tags:
-  - loosh
-  - robert-monroe
-  - sufrimiento
-  - energia
-  - metafisica
-  - tl-intel-v3
 ---
 
 # Loosh

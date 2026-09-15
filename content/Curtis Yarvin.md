@@ -1,17 +1,10 @@
 ---
 publish: true
-aliases:
-  - Curtis Yarvin
-  - Mencius Moldbug
-  - Moldbug
-created: 2026-01-29T19:17:09.418-03:00
-modified: 2026-05-02T18:25:16.130-03:00
-tags:
-  - actor
-  - ideologo
-  - nrx
-  - neoreaccion
-  - thiel
+titulo: "Curtis Yarvin"
+aliases: ["Curtis Yarvin", "Mencius Moldbug", "Moldbug"]
+tags: [actor, ideologo, nrx, neoreaccion, thiel]
+tipo: actor
+nivel: B
 ---
 
 # Curtis Yarvin (Moldbug)

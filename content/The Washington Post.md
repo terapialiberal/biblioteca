@@ -1,14 +1,12 @@
 ---
+titulo: The Washington Post
+tipo: entidad
+fecha: 2026-04-19
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [washington-post, medios, establishment, bezos, narrativa, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:40.118-03:00
-modified: 2026-04-19T12:04:25.324-03:00
-tags:
-  - washington-post
-  - medios
-  - establishment
-  - bezos
-  - narrativa
-  - tl-intel-v3
 ---
 
 # The Washington Post

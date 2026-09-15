@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T13:56:38.692-03:00
-modified: 2026-04-29T13:56:38.692-03:00
-tags:
-  - historia
-  - guerra
-  - siglo-xx
-  - tl-intel-v3
+tipo: evento
+titulo: Primera Guerra Mundial
+estado: activo
+tags: [historia, guerra, siglo-xx, tl-intel-v3]
 ---
 
 # Primera Guerra Mundial

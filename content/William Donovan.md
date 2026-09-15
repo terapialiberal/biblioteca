@@ -1,14 +1,12 @@
 ---
+titulo: William Donovan
+tipo: persona
+fecha: 2026-04-19
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [william-donovan, oss, inteligencia, cia, elite-estadounidense, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:44.430-03:00
-modified: 2026-04-22T12:23:46.366-03:00
-tags:
-  - william-donovan
-  - oss
-  - inteligencia
-  - cia
-  - elite-estadounidense
-  - tl-intel-v3
 ---
 
 # William Donovan

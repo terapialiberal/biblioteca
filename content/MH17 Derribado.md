@@ -1,14 +1,12 @@
 ---
+titulo: MH17 Derribado
+tipo: evento
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [mh17, ucrania, rusia, bellingcat, guerra-informativa, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:24.886-03:00
-modified: 2026-04-18T18:24:43.352-03:00
-tags:
-  - mh17
-  - ucrania
-  - rusia
-  - bellingcat
-  - guerra-informativa
-  - tl-intel-v3
 ---
 
 # MH17 Derribado

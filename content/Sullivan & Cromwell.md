@@ -1,14 +1,12 @@
 ---
+titulo: Sullivan & Cromwell
+tipo: organizacion
+fecha: 2026-04-19
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [sullivan-cromwell, bufete, wall-street, elite-estadounidense, dulles, tl-intel-v3]
 publish: true
-created: 2026-04-19T13:22:51.682-03:00
-modified: 2026-04-19T13:22:52.325-03:00
-tags:
-  - sullivan-cromwell
-  - bufete
-  - wall-street
-  - elite-estadounidense
-  - dulles
-  - tl-intel-v3
 ---
 
 # Sullivan & Cromwell

@@ -1,16 +1,11 @@
 ---
+titulo: Snowden
+tipo: nodo
+fecha: 2026-05-02
+estado: activo
+aliases: ["Edward Snowden", "Edward Snowden (Denunciante)"]
+tags: [snowden, nsa, vigilancia, whistleblower, tl-intel-v3]
 publish: true
-aliases:
-  - Edward Snowden
-  - Edward Snowden (Denunciante)
-created: 2026-05-01T20:39:53.803-03:00
-modified: 2026-05-02T13:02:22.262-03:00
-tags:
-  - snowden
-  - nsa
-  - vigilancia
-  - whistleblower
-  - tl-intel-v3
 ---
 
 # Snowden

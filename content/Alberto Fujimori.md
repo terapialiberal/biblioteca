@@ -2,13 +2,14 @@
 publish: true
 aliases:
   - Alberto Fujimori
-created: 2026-05-01T18:54:02.645-03:00
-modified: 2026-05-02T18:25:11.099-03:00
 tags:
   - actor
   - peru
   - autoritarismo
   - neoliberalismo
+tipo: actor
+nivel: B
+titulo: Alberto Fujimori
 ---
 
 # Alberto Fujimori

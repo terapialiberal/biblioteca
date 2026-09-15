@@ -1,14 +1,12 @@
 ---
+titulo: Council of the Americas
+tipo: entidad
+fecha: 2026-04-21
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [council-of-the-americas, david-rockefeller, latinoamerica, lobby, elites, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:08.893-03:00
-modified: 2026-04-21T20:06:44.700-03:00
-tags:
-  - council-of-the-americas
-  - david-rockefeller
-  - latinoamerica
-  - lobby
-  - elites
-  - tl-intel-v3
 ---
 
 # Council of the Americas

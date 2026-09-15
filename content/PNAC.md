@@ -1,14 +1,11 @@
 ---
+titulo: PNAC
+tipo: alias
+fecha: 2026-04-21
+estado: legacy
+reemplazado_por: [[Proyecto para el Nuevo Siglo Estadounidense]]
+tags: [alias, legacy, pnac, neocon, think-tank, tl-intel-v3]
 publish: true
-created: 2026-04-21T12:57:42.313-03:00
-modified: 2026-04-21T12:57:42.313-03:00
-tags:
-  - alias
-  - legacy
-  - pnac
-  - neocon
-  - think-tank
-  - tl-intel-v3
 ---
 
 # PNAC

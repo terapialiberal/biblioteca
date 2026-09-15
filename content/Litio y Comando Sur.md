@@ -1,16 +1,14 @@
 ---
+titulo: Litio y Comando Sur
 publish: true
-aliases:
-  - "Litio y Comando Sur: La Militarizacion de los Recursos"
-created: 2026-01-29T19:17:22.692-03:00
-modified: 2026-04-18T12:32:11.443-03:00
-tags:
-  - litio
-  - comando-sur
-  - recursos
-  - argentina
-  - geopolitica
-  - tl-intel-v3
+tipo: concepto
+fecha: 2026-04-18
+tier_primario: b
+moc_canonico: [[00_MOC - Argentina]]
+estado: activo
+aliases: ["Litio y Comando Sur: La Militarizacion de los Recursos"]
+fuentes_clave: []
+tags: [litio, comando-sur, recursos, argentina, geopolitica, tl-intel-v3]
 ---
 
 # Litio y Comando Sur

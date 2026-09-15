@@ -1,14 +1,15 @@
 ---
-publish: true
+titulo: Manly P. Hall
 aliases:
   - Manly P Hall
-created: 2026-01-29T19:17:23.480-03:00
-modified: 2026-04-07T13:13:59.318-03:00
+tipo: persona
+estado: activo
 tags:
   - persona
   - esoterismo
   - masoneria
   - simbolismo
+publish: true
 ---
 
 # Manly P. Hall

@@ -1,16 +1,13 @@
 ---
+titulo: Nigeria
+tipo: nodo
+fecha: 2026-05-02
+tier_primario: c
+nivel_evidencia: medio
+estado: activo
+aliases: ["Nigeria (Geopolítica)"]
+tags: [nigeria, africa, petroleo, poblacion, energia, tl-intel-v3]
 publish: true
-aliases:
-  - Nigeria (Geopolítica)
-created: 2026-04-29T15:32:16.621-03:00
-modified: 2026-05-02T12:45:53.408-03:00
-tags:
-  - nigeria
-  - africa
-  - petroleo
-  - poblacion
-  - energia
-  - tl-intel-v3
 ---
 
 # Nigeria

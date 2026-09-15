@@ -1,14 +1,10 @@
 ---
 publish: true
-aliases:
-  - Marcelo Figueiras
-created: 2026-05-01T18:48:12.234-03:00
-modified: 2026-05-02T18:25:44.999-03:00
-tags:
-  - actor
-  - argentina
-  - farmaceutica
-  - richmond
+titulo: "Marcelo Figueiras"
+aliases: ["Marcelo Figueiras"]
+tags: [actor, argentina, farmaceutica, richmond]
+tipo: actor
+nivel: C
 ---
 
 # Marcelo Figueiras

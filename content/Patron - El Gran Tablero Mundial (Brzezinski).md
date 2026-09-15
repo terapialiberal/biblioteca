@@ -1,13 +1,9 @@
 ---
 publish: true
-created: 2026-02-28T15:12:33.634-03:00
-modified: 2026-04-07T11:53:24.992-03:00
-tags:
-  - patrones
-  - brzezinski
-  - atlantismo
-  - geopolítica
-  - tl-v3
+tipo: concepto
+titulo: "Patrón - El Gran Tablero Mundial (Brzezinski)"
+estado: procesado
+tags: [patrones, brzezinski, atlantismo, geopolítica, tl-v3]
 ---
 
 # [[Patrón - El Gran Tablero Mundial (Brzezinski)]]

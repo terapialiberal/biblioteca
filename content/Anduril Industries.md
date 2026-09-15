@@ -1,14 +1,12 @@
 ---
+titulo: Anduril Industries
+tipo: entidad
+fecha: 2026-04-19
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [anduril-industries, defensa, drones, vigilancia, palmer-luckey, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:03.543-03:00
-modified: 2026-04-24T10:22:27.325-03:00
-tags:
-  - anduril-industries
-  - defensa
-  - drones
-  - vigilancia
-  - palmer-luckey
-  - tl-intel-v3
 ---
 
 # Anduril Industries

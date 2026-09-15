@@ -1,16 +1,11 @@
 ---
+titulo: Haushofer
+tipo: nodo
+fecha: 2026-05-02
+estado: activo
+aliases: ["Karl Haushofer", "Karl Haushofer (Geopolítica)"]
+tags: [haushofer, geopolitica, alemania, espacio-vital, tl-intel-v3]
 publish: true
-aliases:
-  - Karl Haushofer
-  - Karl Haushofer (Geopolítica)
-created: 2026-05-01T20:16:44.165-03:00
-modified: 2026-05-02T13:44:42.038-03:00
-tags:
-  - haushofer
-  - geopolitica
-  - alemania
-  - espacio-vital
-  - tl-intel-v3
 ---
 
 # Haushofer

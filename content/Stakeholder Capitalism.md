@@ -1,16 +1,11 @@
 ---
+titulo: Stakeholder Capitalism
+tipo: concepto
+fecha: 2026-05-02
+estado: activo
+aliases: ["Capitalismo de Stakeholders", "Capitalismo de partes interesadas"]
+tags: [stakeholder-capitalism, wef, esg, corporaciones, tl-intel-v3]
 publish: true
-aliases:
-  - Capitalismo de Stakeholders
-  - Capitalismo de partes interesadas
-created: 2026-05-01T20:42:18.361-03:00
-modified: 2026-05-02T12:50:43.380-03:00
-tags:
-  - stakeholder-capitalism
-  - wef
-  - esg
-  - corporaciones
-  - tl-intel-v3
 ---
 
 # Stakeholder Capitalism

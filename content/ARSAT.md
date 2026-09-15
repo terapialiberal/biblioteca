@@ -1,13 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T15:31:50.322-03:00
-modified: 2026-04-29T15:31:50.322-03:00
-tags:
-  - argentina
-  - satelites
-  - telecomunicaciones
-  - soberania-tecnica
-  - tl-intel-v3
+tipo: entidad
+titulo: ARSAT
+estado: activo
+tags: [argentina, satelites, telecomunicaciones, soberania-tecnica, tl-intel-v3]
 ---
 
 # ARSAT

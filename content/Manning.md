@@ -1,16 +1,11 @@
 ---
+titulo: Manning
+tipo: nodo
+fecha: 2026-05-02
+estado: activo
+aliases: ["Manning", "Chelsea Manning"]
+tags: [alias, legacy, wikileaks, whistleblower, tl-intel-v3]
 publish: true
-aliases:
-  - Manning
-  - Chelsea Manning
-created: 2026-05-01T20:40:08.633-03:00
-modified: 2026-05-02T13:08:00.978-03:00
-tags:
-  - alias
-  - legacy
-  - wikileaks
-  - whistleblower
-  - tl-intel-v3
 ---
 
 # Manning

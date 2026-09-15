@@ -1,12 +1,12 @@
 ---
+titulo: "Jim Simons: El Criptógrafo Del Capital Soberano"
+tipo: "persona"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [capital, robert, simons, soberano]
 publish: true
-created: 2026-01-29T19:17:19.663-03:00
-modified: 2026-05-02T18:25:37.255-03:00
-tags:
-  - capital
-  - robert
-  - simons
-  - soberano
 ---
 
 # Jim Simons: El Criptógrafo Del Capital Soberano

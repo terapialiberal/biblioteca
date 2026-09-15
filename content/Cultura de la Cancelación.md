@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:09:22.543-03:00
-modified: 2026-04-29T14:09:40.596-03:00
-tags:
-  - discurso
-  - reputacion
-  - guerra-cultural
-  - tl-intel-v3
+tipo: concepto
+titulo: Cultura de la Cancelación
+estado: activo
+tags: [discurso, reputacion, guerra-cultural, tl-intel-v3]
 ---
 
 # Cultura de la Cancelación

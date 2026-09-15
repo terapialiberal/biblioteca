@@ -1,12 +1,13 @@
 ---
 publish: true
-created: 2026-05-01T17:35:26.461-03:00
-modified: 2026-05-02T18:25:12.807-03:00
+titulo: "Bear Stearns"
 tags:
   - entidad
   - finanzas
   - crisis-2008
   - epstein
+tipo: entidad
+fecha: 2026-05-01
 ---
 
 # Bear Stearns

@@ -1,14 +1,13 @@
 ---
+titulo: "OpenAI"
 publish: true
-created: 2026-01-29T19:17:28.227-03:00
-modified: 2026-04-07T12:09:55.837-03:00
-tags:
-  - openai
-  - ia
-  - agi
-  - microsoft
-  - tecnologia-de-control
-  - tl-intel-v3
+tipo: entidad
+fecha: 2026-04-07
+tier_primario: B
+moc_canonico: [[00_MOC - Tecnologia de Control]]
+estado: activo
+fuentes_clave: []
+tags: [openai, ia, agi, microsoft, tecnologia-de-control, tl-intel-v3]
 ---
 
 # [[OpenAI]]

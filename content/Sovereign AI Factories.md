@@ -1,12 +1,12 @@
 ---
+titulo: Sovereign AI Factories
+tipo: "persona"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "alto"
+estado: activo
+tags: [factories, japn, nacionalismo, tecnolgico]
 publish: true
-created: 2026-02-25T14:29:24.065-03:00
-modified: 2026-05-02T18:26:08.101-03:00
-tags:
-  - factories
-  - japn
-  - nacionalismo
-  - tecnolgico
 ---
 
 # Sovereign AI Factories

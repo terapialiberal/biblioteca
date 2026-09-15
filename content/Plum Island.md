@@ -1,12 +1,12 @@
 ---
+titulo: "Plum Island: El Laboratorio De La Garrapata Armadizada"
+tipo: "persona"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [erich, garrapata, laboratorio, plum]
 publish: true
-created: 2026-01-29T19:17:30.923-03:00
-modified: 2026-05-02T18:25:55.947-03:00
-tags:
-  - erich
-  - garrapata
-  - laboratorio
-  - plum
 ---
 
 # Plum Island: El Laboratorio De La Garrapata Armadizada

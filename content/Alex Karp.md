@@ -1,14 +1,12 @@
 ---
+titulo: Alex Karp
+tipo: persona
+fecha: 2026-04-19
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [alex-karp, palantir, datos, defensa, gobernanza-algoritmica, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:03.238-03:00
-modified: 2026-04-24T10:22:29.351-03:00
-tags:
-  - alex-karp
-  - palantir
-  - datos
-  - defensa
-  - gobernanza-algoritmica
-  - tl-intel-v3
 ---
 
 # Alex Karp

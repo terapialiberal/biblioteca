@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:05:22.953-03:00
-modified: 2026-04-29T14:05:35.464-03:00
-tags:
-  - argentina
-  - kirchnerismo
-  - corrupcion
-  - tl-intel-v3
+tipo: actor
+titulo: Amado Boudou
+estado: activo
+tags: [argentina, kirchnerismo, corrupcion, tl-intel-v3]
 ---
 
 # Amado Boudou

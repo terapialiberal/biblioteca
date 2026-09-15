@@ -1,13 +1,12 @@
 ---
+titulo: Gobernanza Digital
+tipo: concepto
+fecha: 2026-04-19
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [gobernanza-digital, plataformas, tecnocracia, datos, tl-intel-v3]
 publish: true
-created: 2026-04-19T12:30:04.992-03:00
-modified: 2026-04-22T09:34:55.005-03:00
-tags:
-  - gobernanza-digital
-  - plataformas
-  - tecnocracia
-  - datos
-  - tl-intel-v3
 ---
 
 # Gobernanza Digital

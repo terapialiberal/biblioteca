@@ -1,14 +1,12 @@
 ---
+titulo: The Pilgrims Society
+tipo: entidad
+fecha: 2026-04-21
+tier_primario: a
+nivel_evidencia: medio
+estado: activo
+tags: [pilgrims-society, atlantismo, angloamerica, elite, redes-discretas, tl-intel-v3]
 publish: true
-created: 2026-02-25T22:08:51.967-03:00
-modified: 2026-04-21T12:48:25.316-03:00
-tags:
-  - pilgrims-society
-  - atlantismo
-  - angloamerica
-  - elite
-  - redes-discretas
-  - tl-intel-v3
 ---
 
 # The Pilgrims Society

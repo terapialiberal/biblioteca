@@ -1,13 +1,9 @@
 ---
 publish: true
-created: 2026-04-17T16:35:24.351-03:00
-modified: 2026-04-29T15:31:01.732-03:00
-tags:
-  - iob
-  - biopolitica
-  - wearables
-  - salud-digital
-  - tl-intel-v3
+tipo: concepto
+titulo: Internet de los Cuerpos (IoB)
+estado: activo
+tags: [iob, biopolitica, wearables, salud-digital, tl-intel-v3]
 ---
 
 # Internet de los Cuerpos (IoB)

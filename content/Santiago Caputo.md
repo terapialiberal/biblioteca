@@ -1,21 +1,13 @@
 ---
+titulo: "Santiago Caputo"
 publish: true
-aliases:
-  - "Santiago Caputo: el Arquitecto del Espectaculo y las Sombras"
-created: 2026-01-29T19:17:35.515-03:00
-modified: 2026-06-02T16:36:34.037-03:00
-tags:
-  - argentina
-  - milei
-  - inteligencia
-  - narrativa
-  - caputo
-  - poder-blando
-  - side
-  - palantir
-  - thiel
-  - libra
-  - tl-intel-v3
+tipo: persona
+fecha: 2026-05-28
+tier_primario: A
+estado: activo
+aliases: ["Santiago Caputo: el Arquitecto del Espectaculo y las Sombras"]
+tags: [argentina, milei, inteligencia, narrativa, caputo, poder-blando, side, palantir, thiel, libra, tl-intel-v3]
+last_stream: "[[06_Videos_Publicados/2026/2026-05-26_La_Trampa_de_Ormuz/00_ARCHIVO_2026-05-26_La_Trampa_de_Ormuz|ARCHIVO: La Trampa de Ormuz]]"
 ---
 
 # Santiago Caputo

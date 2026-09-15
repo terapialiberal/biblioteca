@@ -1,13 +1,11 @@
 ---
 publish: true
-created: 2026-02-24T14:03:53.541-03:00
-modified: 2026-04-07T10:47:12.142-03:00
-tags:
-  - moc
-  - cronologico
-  - timeline
-  - historia
-  - tl-intel-v3
+titulo: "MOC - Cronologico"
+tipo: moc
+fecha: 2026-04-07
+estado: activo
+moc_canonico: [[00_MOC - Base de Conocimiento]]
+tags: [moc, cronologico, timeline, historia, tl-intel-v3]
 ---
 
 # MOC - Cronologico

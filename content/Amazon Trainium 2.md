@@ -1,12 +1,12 @@
 ---
+titulo: Amazon Trainium 2
+tipo: "entidad"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [amazon, andy, jeff, trainium]
 publish: true
-created: 2026-02-25T14:52:34.692-03:00
-modified: 2026-05-02T18:24:16.120-03:00
-tags:
-  - amazon
-  - andy
-  - jeff
-  - trainium
 ---
 
 # Amazon Trainium 2

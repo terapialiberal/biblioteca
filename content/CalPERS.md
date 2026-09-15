@@ -1,13 +1,10 @@
 ---
 publish: true
-aliases:
-  - CalPERS
-created: 2026-05-01T19:10:32.169-03:00
-modified: 2026-05-02T18:25:14.594-03:00
-tags:
-  - fondo-pension
-  - california
-  - inversion-institucional
+titulo: "CalPERS"
+aliases: ["CalPERS"]
+tags: [fondo-pension, california, inversion-institucional]
+tipo: institucion
+nivel: B
 ---
 
 # CalPERS

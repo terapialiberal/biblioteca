@@ -1,15 +1,13 @@
 ---
+titulo: Autoridad Cientifica
+tipo: concepto
+fecha: 2026-04-27
+estado: activo
+aliases: ["Autoridad Científica"]
+tags: [autoridad-cientifica, tecnocracia, ciencia, legitimacion, tl-intel-v3]
+tier_primario: b
+nivel_evidencia: medio
 publish: true
-aliases:
-  - Autoridad Científica
-created: 2026-04-27T10:12:10.018-03:00
-modified: 2026-04-27T10:12:10.018-03:00
-tags:
-  - autoridad-cientifica
-  - tecnocracia
-  - ciencia
-  - legitimacion
-  - tl-intel-v3
 ---
 
 # Autoridad Cientifica

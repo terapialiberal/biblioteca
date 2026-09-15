@@ -1,13 +1,11 @@
 ---
 publish: true
-created: 2026-01-29T19:17:02.562-03:00
-modified: 2026-04-29T14:44:31.435-03:00
-tags:
-  - moc
-  - fricciones
-  - fallas-del-sistema
-  - resistencia
-  - tl-intel-v3
+titulo: "MOC - Fricciones de la Matrix"
+tipo: moc
+fecha: 2026-04-07
+estado: activo
+moc_canonico: [[00_MOC - Base de Conocimiento]]
+tags: [moc, fricciones, fallas-del-sistema, resistencia, tl-intel-v3]
 ---
 
 # MOC - Fricciones de la Matrix

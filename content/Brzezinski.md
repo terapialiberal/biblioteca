@@ -1,16 +1,12 @@
 ---
+titulo: Brzezinski
+tipo: alias
+fecha: 2026-05-02
+estado: legacy
+reemplazado_por: [[Zbigniew Brzezinski]]
+aliases: ["Brzezinski", "Zbigniew Brzezinski"]
+tags: [alias, legacy, estrategia, geopolitica, tl-intel-v3]
 publish: true
-aliases:
-  - Brzezinski
-  - Zbigniew Brzezinski
-created: 2026-05-01T18:55:12.955-03:00
-modified: 2026-05-02T13:54:27.708-03:00
-tags:
-  - alias
-  - legacy
-  - estrategia
-  - geopolitica
-  - tl-intel-v3
 ---
 
 # Brzezinski

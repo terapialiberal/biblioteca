@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:05:26.067-03:00
-modified: 2026-04-29T14:05:43.310-03:00
-tags:
-  - market-making
-  - finanzas
-  - infraestructura-mercado
-  - tl-intel-v3
+tipo: actor
+titulo: Citadel Securities
+estado: activo
+tags: [market-making, finanzas, infraestructura-mercado, tl-intel-v3]
 ---
 
 # Citadel Securities

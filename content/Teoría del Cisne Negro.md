@@ -1,15 +1,10 @@
 ---
 publish: true
-aliases:
-  - Teoria del Cisne Negro
-  - Teoría del Cisne Negro
-created: 2026-05-01T18:50:29.038-03:00
-modified: 2026-05-02T18:26:10.098-03:00
-tags:
-  - concepto
-  - riesgo
-  - finanzas
-  - taleb
+titulo: "Teoría del Cisne Negro"
+aliases: ["Teoria del Cisne Negro", "Teoría del Cisne Negro"]
+tags: [concepto, riesgo, finanzas, taleb]
+tipo: concepto
+nivel: C
 ---
 
 # Teoría del Cisne Negro

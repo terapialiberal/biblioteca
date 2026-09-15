@@ -1,12 +1,11 @@
 ---
-publish: true
+titulo: "Georgieva, Del FMI, Insta a China a Acelerar El Cambio De Exportaciones --- IMF's Georgieva Urges China to Speed up Shift from Exports"
+link: "https://www.cnbc.com/2025/12/10/imfs-georgieva-urges-china-to-speed-up-shift-from-exports.html"
 created: 2025-12-10
-modified: 2026-05-02T18:25:27.553-03:00
-tags:
-  - fmi
-  - china
-  - exportaciones
-  - georgieva
+estado: activo
+tags: [fmi, china, exportaciones, georgieva]
+type: zetamarker
+publish: true
 ---
 
 ![](https://image.cnbcfm.com/api/v1/image/108239579-1765351108685-gettyimages-2250190772-AFP_87HF2ZQ.jpeg?v=1765351130\&w=1920\&h=1080)

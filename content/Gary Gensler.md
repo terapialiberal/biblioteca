@@ -1,14 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:44:31.117-03:00
-modified: 2026-04-29T14:44:31.117-03:00
-tags:
-  - actor
-  - regulacion
-  - sec
-  - cripto
-  - finanzas
-  - tl-intel-v3
+tipo: actor
+titulo: Gary Gensler
+estado: activo
+tags: [actor, regulacion, sec, cripto, finanzas, tl-intel-v3]
 ---
 
 # Gary Gensler

@@ -1,12 +1,14 @@
 ---
 publish: true
-created: 2026-04-29T13:53:51.423-03:00
-modified: 2026-05-02T14:16:34.550-03:00
+tipo: alias
+titulo: Cuarta Revolución Industrial
+estado: activo
 tags:
   - alias
   - tecnologia
   - gobernanza
   - tl-intel-v3
+reemplazado_por: '[[Cuarta Revolucion Industrial]]'
 ---
 
 # Cuarta Revolución Industrial

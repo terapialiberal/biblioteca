@@ -1,15 +1,10 @@
 ---
 publish: true
-aliases:
-  - London School of Economics (LSE)
-  - LSE
-created: 2026-05-01T18:47:27.183-03:00
-modified: 2026-05-02T18:25:43.836-03:00
-tags:
-  - institucion
-  - academia
-  - think-tank
-  - elite-global
+titulo: "London School of Economics"
+aliases: ["London School of Economics (LSE)", "LSE"]
+tags: [institucion, academia, think-tank, elite-global]
+tipo: institucion
+nivel: B
 ---
 
 # London School of Economics

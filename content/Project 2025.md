@@ -1,14 +1,12 @@
 ---
 publish: true
-created: 2026-04-17T13:00:31.273-03:00
-modified: 2026-06-11T14:33:54.955-03:00
-tags:
-  - project-2025
-  - heritage
-  - trumpismo
-  - reordenamiento
-  - venture-politica
-  - tl-intel-v3
+titulo: Project 2025
+tipo: concepto
+fecha: 2026-04-20
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [project-2025, heritage, trumpismo, reordenamiento, venture-politica, tl-intel-v3]
 ---
 
 # Project 2025

@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T13:53:51.455-03:00
-modified: 2026-04-29T13:53:51.455-03:00
-tags:
-  - criptografia
-  - bitcoin
-  - privacidad
-  - tl-intel-v3
+tipo: red
+titulo: Cypherpunks
+estado: activo
+tags: [criptografia, bitcoin, privacidad, tl-intel-v3]
 ---
 
 # Cypherpunks

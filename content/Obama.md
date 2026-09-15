@@ -1,15 +1,11 @@
 ---
+titulo: Obama
+tipo: nodo
+fecha: 2026-05-02
+estado: activo
+aliases: ["Barack Obama"]
+tags: [obama, eeuu, partido-democrata, soft-power, tl-intel-v3]
 publish: true
-aliases:
-  - Barack Obama
-created: 2026-05-01T20:41:01.193-03:00
-modified: 2026-05-02T12:57:57.446-03:00
-tags:
-  - obama
-  - eeuu
-  - partido-democrata
-  - soft-power
-  - tl-intel-v3
 ---
 
 # Obama

@@ -1,16 +1,13 @@
 ---
+titulo: Malvinas
+tipo: territorio-estrategico
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Islas Malvinas"]
+tags: [malvinas, argentina, atlantico-sur, reino-unido, soberania, tl-intel-v3]
 publish: true
-aliases:
-  - Islas Malvinas
-created: 2026-04-18T12:30:14.366-03:00
-modified: 2026-04-18T12:30:14.981-03:00
-tags:
-  - malvinas
-  - argentina
-  - atlantico-sur
-  - reino-unido
-  - soberania
-  - tl-intel-v3
 ---
 
 # Malvinas

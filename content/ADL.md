@@ -1,17 +1,13 @@
 ---
+titulo: ADL (Anti-Defamation League)
+tipo: organizacion
+fecha: 2026-04-20
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: [ADL, Anti-Defamation League]
+tags: [adl, anti-defamation-league, censura, reputacion, plataformas, tl-intel-v3]
 publish: true
-aliases:
-  - ADL
-  - Anti-Defamation League
-created: 2026-01-29T19:17:02.863-03:00
-modified: 2026-04-20T10:26:19.861-03:00
-tags:
-  - adl
-  - anti-defamation-league
-  - censura
-  - reputacion
-  - plataformas
-  - tl-intel-v3
 ---
 
 # ADL (Anti-Defamation League)

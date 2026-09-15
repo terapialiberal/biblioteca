@@ -1,13 +1,12 @@
 ---
+titulo: Doctrina Wolfowitz
+tipo: concepto
+fecha: 2026-04-21
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [doctrina-wolfowitz, hegemonia, guerra-preventiva, unipolaridad, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:10.423-03:00
-modified: 2026-04-21T13:03:55.156-03:00
-tags:
-  - doctrina-wolfowitz
-  - hegemonia
-  - guerra-preventiva
-  - unipolaridad
-  - tl-intel-v3
 ---
 
 # Doctrina Wolfowitz

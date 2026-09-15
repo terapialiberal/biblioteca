@@ -1,15 +1,11 @@
 ---
+titulo: Huawei
+tipo: entidad
+fecha: 2026-05-02
+estado: activo
+aliases: ["Huawei (Tecnología China)"]
+tags: [huawei, china, 5g, telecomunicaciones, tl-intel-v3]
 publish: true
-aliases:
-  - Huawei (Tecnología China)
-created: 2026-01-29T19:17:17.531-03:00
-modified: 2026-05-02T13:03:40.257-03:00
-tags:
-  - huawei
-  - china
-  - 5g
-  - telecomunicaciones
-  - tl-intel-v3
 ---
 
 # Huawei

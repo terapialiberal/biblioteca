@@ -1,12 +1,12 @@
 ---
+titulo: "Plan Colombia: La Militarización Negocio Del Narcotráfico"
+tipo: "evento"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [colombia, militarizacin, monsanto, plan]
 publish: true
-created: 2026-01-29T19:17:30.729-03:00
-modified: 2026-05-02T18:25:55.738-03:00
-tags:
-  - colombia
-  - militarizacin
-  - monsanto
-  - plan
 ---
 
 # Plan Colombia: La Militarización Negocio Del Narcotráfico

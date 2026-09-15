@@ -1,16 +1,11 @@
 ---
+titulo: chips
+tipo: concepto
+fecha: 2026-05-02
+estado: activo
+aliases: ["chips", "semiconductores"]
+tags: [chips, semiconductores, ia, defensa, tl-intel-v3]
 publish: true
-aliases:
-  - chips
-  - semiconductores
-created: 2026-04-29T14:52:50.102-03:00
-modified: 2026-05-02T13:04:16.192-03:00
-tags:
-  - chips
-  - semiconductores
-  - ia
-  - defensa
-  - tl-intel-v3
 ---
 
 # chips

@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:13:10.081-03:00
-modified: 2026-04-29T14:13:28.565-03:00
-tags:
-  - ucrania
-  - rusia
-  - otan
-  - tl-intel-v3
+tipo: evento
+titulo: Guerra de Ucrania
+estado: activo
+tags: [ucrania, rusia, otan, tl-intel-v3]
 ---
 
 # Guerra de Ucrania

@@ -1,13 +1,12 @@
 ---
+titulo: Calendario de 13 Lunas
+tipo: concepto
+fecha: 2026-04-27
+estado: activo
+tags: [calendario-13-lunas, tiempo, ciclos, simbolismo, tl-intel-v3]
+tier_primario: c
+nivel_evidencia: medio
 publish: true
-created: 2026-02-25T22:08:32.956-03:00
-modified: 2026-04-27T10:32:17.564-03:00
-tags:
-  - calendario-13-lunas
-  - tiempo
-  - ciclos
-  - simbolismo
-  - tl-intel-v3
 ---
 
 # Calendario de 13 Lunas

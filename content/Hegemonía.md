@@ -1,16 +1,13 @@
 ---
+titulo: Hegemonía
+tipo: concepto
+fecha: 2026-05-02
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Hegemonia", "Hegemonía (Concepto)"]
+tags: [hegemonia, poder, geopolitica, legitimacion, tl-intel-v3]
 publish: true
-aliases:
-  - Hegemonia
-  - Hegemonía (Concepto)
-created: 2026-05-01T20:47:06.673-03:00
-modified: 2026-05-02T12:41:35.453-03:00
-tags:
-  - hegemonia
-  - poder
-  - geopolitica
-  - legitimacion
-  - tl-intel-v3
 ---
 
 # Hegemonía

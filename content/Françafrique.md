@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T13:53:52.480-03:00
-modified: 2026-04-29T13:53:52.480-03:00
-tags:
-  - francia
-  - africa
-  - neocolonialismo
-  - tl-intel-v3
+tipo: corredor
+titulo: Françafrique
+estado: activo
+tags: [francia, africa, neocolonialismo, tl-intel-v3]
 ---
 
 # Françafrique

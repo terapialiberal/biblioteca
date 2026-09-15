@@ -1,12 +1,12 @@
 ---
+titulo: "Office of Net Assessment: El Oráculo De La Guerra Permanente"
+tipo: "concepto"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [andrew, assessment, guerra, permanente]
 publish: true
-created: 2026-01-29T19:17:27.928-03:00
-modified: 2026-05-02T18:25:51.211-03:00
-tags:
-  - andrew
-  - assessment
-  - guerra
-  - permanente
 ---
 
 # Office of Net Assessment: El Oráculo De La Guerra Permanente

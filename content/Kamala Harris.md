@@ -1,12 +1,12 @@
 ---
+titulo: "Kamala Harris: El Envase Multicultural Del Establishment"
+tipo: "persona"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [envase, establishment, multicultural, silicon]
 publish: true
-created: 2026-01-29T19:17:20.529-03:00
-modified: 2026-05-02T18:25:38.689-03:00
-tags:
-  - envase
-  - establishment
-  - multicultural
-  - silicon
 ---
 
 # Kamala Harris: El Envase Multicultural Del Establishment

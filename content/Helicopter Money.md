@@ -1,17 +1,13 @@
 ---
+titulo: Helicopter Money
+tipo: concepto
+fecha: 2026-05-02
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Dinero helicóptero", "Helicopter Money (Estímulo Directo)", "Estimulo directo"]
+tags: [helicopter-money, politica-monetaria, estimulo, inflacion, tl-intel-v3]
 publish: true
-aliases:
-  - Dinero helicóptero
-  - Helicopter Money (Estímulo Directo)
-  - Estimulo directo
-created: 2026-05-01T20:46:27.830-03:00
-modified: 2026-05-02T12:44:21.794-03:00
-tags:
-  - helicopter-money
-  - politica-monetaria
-  - estimulo
-  - inflacion
-  - tl-intel-v3
 ---
 
 # Helicopter Money

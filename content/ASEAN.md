@@ -1,13 +1,15 @@
 ---
-publish: true
-created: 2026-04-29T14:51:44.548-03:00
-modified: 2026-05-02T14:23:44.552-03:00
+titulo: ASEAN
+tipo: entidad
+fecha: '2026-04-29'
+estado: activo
 tags:
   - base-de-conocimiento
   - sudeste-asiatico
   - indo-pacifico
   - rimland
   - tl-intel-v3
+publish: true
 ---
 
 # ASEAN

@@ -1,13 +1,11 @@
 ---
+titulo: Fuentes y Marcadores
+tipo: contenedor
+fecha: 2026-04-18
+estado: activo
+descripcion: Directorio curado de fuentes, think tanks, medios y herramientas de mapeo usados como apoyo para analisis TL.
+tags: [fuentes, marcadores, directorio, curaduria, contenedor]
 publish: true
-created: 2026-01-29T19:17:14.359-03:00
-modified: 2026-05-02T18:25:25.568-03:00
-tags:
-  - fuentes
-  - marcadores
-  - directorio
-  - curaduria
-  - contenedor
 ---
 
 # Fuentes y Marcadores

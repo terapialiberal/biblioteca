@@ -1,18 +1,13 @@
 ---
+titulo: World Health Organization
+tipo: entidad
+fecha: 2026-04-17
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["WHO", "OMS", "Organizacion Mundial de la Salud", "Organización Mundial de la Salud"]
+tags: [who, oms, salud-global, bioseguridad, tl-intel-v3]
 publish: true
-aliases:
-  - WHO
-  - OMS
-  - Organizacion Mundial de la Salud
-  - Organización Mundial de la Salud
-created: 2026-01-29T19:17:44.602-03:00
-modified: 2026-04-22T15:41:36.467-03:00
-tags:
-  - who
-  - oms
-  - salud-global
-  - bioseguridad
-  - tl-intel-v3
 ---
 
 # World Health Organization

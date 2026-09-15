@@ -1,16 +1,11 @@
 ---
+titulo: Meta
+tipo: entidad
+fecha: 2026-05-02
+estado: activo
+aliases: ["Facebook", "Meta Platforms"]
+tags: [meta, facebook, plataformas, vigilancia, tl-intel-v3]
 publish: true
-aliases:
-  - Facebook
-  - Meta Platforms
-created: 2026-05-01T20:37:59.892-03:00
-modified: 2026-05-02T13:04:15.922-03:00
-tags:
-  - meta
-  - facebook
-  - plataformas
-  - vigilancia
-  - tl-intel-v3
 ---
 
 # Meta

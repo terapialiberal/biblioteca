@@ -1,14 +1,11 @@
 ---
+link: https://x.com/terapia_liberal/status/2018695147433635887
+fecha: 2026-04-21
+tipo: evidencia
+estado: activo
+tags: [evidencia, henry-kissinger, klaus-schwab, nuevo-orden-mundial, clips, tl-intel-v3]
+titulo: Kissinger en 1992 Surgira un Nuevo Orden Mundial
 publish: true
-created: 2026-02-06T11:10:00.608-03:00
-modified: 2026-05-02T18:25:39.255-03:00
-tags:
-  - evidencia
-  - henry-kissinger
-  - klaus-schwab
-  - nuevo-orden-mundial
-  - clips
-  - tl-intel-v3
 ---
 
 # Kissinger en 1992 Surgira un Nuevo Orden Mundial

@@ -2,13 +2,14 @@
 publish: true
 aliases:
   - Al Qaeda
-created: 2026-05-01T18:51:40.482-03:00
-modified: 2026-05-02T18:25:10.990-03:00
 tags:
   - organizacion
   - terrorismo
   - inteligencia
   - blowback
+tipo: organizacion
+nivel: B
+titulo: Al Qaeda
 ---
 
 # Al Qaeda

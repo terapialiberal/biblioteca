@@ -1,12 +1,12 @@
 ---
+titulo: "La Mesa Del Hambre: El Teatro De La Solidaridad De Estado"
+tipo: "concepto"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [alberto, estado, hambre, marcelo]
 publish: true
-created: 2026-01-29T19:17:21.380-03:00
-modified: 2026-05-02T18:25:40.974-03:00
-tags:
-  - alberto
-  - estado
-  - hambre
-  - marcelo
 ---
 
 # La Mesa Del Hambre: El Teatro De La Solidaridad De Estado

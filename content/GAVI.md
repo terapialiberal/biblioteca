@@ -1,19 +1,13 @@
 ---
+titulo: GAVI
+tipo: entidad
+fecha: 2026-04-17
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["GAVI (Vaccine Alliance)", "GAVI (The Vaccine Alliance)", "Gavi", "Gavi (Alianza para las Vacunas)"]
+tags: [gavi, vacunas, distribucion, salud-global, bioseguridad, tl-intel-v3]
 publish: true
-aliases:
-  - GAVI (Vaccine Alliance)
-  - GAVI (The Vaccine Alliance)
-  - Gavi
-  - Gavi (Alianza para las Vacunas)
-created: 2026-02-25T15:49:09.103-03:00
-modified: 2026-04-22T15:41:36.865-03:00
-tags:
-  - gavi
-  - vacunas
-  - distribucion
-  - salud-global
-  - bioseguridad
-  - tl-intel-v3
 ---
 
 # GAVI

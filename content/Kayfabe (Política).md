@@ -1,12 +1,14 @@
 ---
 publish: true
-created: 2026-04-29T13:56:36.663-03:00
-modified: 2026-05-02T14:14:48.882-03:00
+tipo: alias
+titulo: Kayfabe (Política)
+estado: activo
 tags:
   - alias
   - teatro-politico
   - narrativa
   - tl-intel-v3
+reemplazado_por: '[[Kayfabe]]'
 ---
 
 # Kayfabe (Política)

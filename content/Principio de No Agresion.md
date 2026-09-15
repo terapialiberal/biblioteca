@@ -1,16 +1,14 @@
 ---
+titulo: "Principio de No Agresión"
 publish: true
-aliases:
-  - NAP
-  - Principio De No Agresión
-created: 2026-01-29T19:17:31.365-03:00
-modified: 2026-04-07T11:50:10.112-03:00
-tags:
-  - nap
-  - principio-de-no-agresion
-  - ley-natural
-  - soberania
-  - tl-intel-v3
+tipo: concepto
+fecha: 2026-04-07
+tier_primario: B
+moc_canonico: [[00_MOC - Fricciones de la Matrix]]
+estado: activo
+aliases: ["NAP", "Principio De No Agresión"]
+fuentes_clave: []
+tags: [nap, principio-de-no-agresion, ley-natural, soberania, tl-intel-v3]
 ---
 
 # [[Principio de No Agresión]]

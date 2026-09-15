@@ -1,17 +1,13 @@
 ---
+titulo: H.A.A.R.P. y el Ether
+tipo: concepto
+fecha: 2026-04-27
+estado: activo
+aliases: ["HAARP y el Éter", "HAARP y el Ether"]
+tags: [haarp, ether, ionosfera, tecnomito, weather-modification, tl-intel-v3]
+tier_primario: b
+nivel_evidencia: bajo
 publish: true
-aliases:
-  - HAARP y el Éter
-  - HAARP y el Ether
-created: 2026-02-25T22:08:31.925-03:00
-modified: 2026-04-27T10:24:14.627-03:00
-tags:
-  - haarp
-  - ether
-  - ionosfera
-  - tecnomito
-  - weather-modification
-  - tl-intel-v3
 ---
 
 # H.A.A.R.P. y el Ether

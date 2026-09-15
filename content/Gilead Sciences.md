@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:13:03.862-03:00
-modified: 2026-04-29T14:13:26.269-03:00
-tags:
-  - big-pharma
-  - biotecnologia
-  - salud
-  - tl-intel-v3
+tipo: actor
+titulo: Gilead Sciences
+estado: activo
+tags: [big-pharma, biotecnologia, salud, tl-intel-v3]
 ---
 
 # Gilead Sciences

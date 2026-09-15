@@ -1,15 +1,11 @@
 ---
+titulo: Casa Blanca
+tipo: nodo
+fecha: 2026-05-02
+estado: activo
+aliases: ["White House", "Casa Blanca (White House)"]
+tags: [casa-blanca, eeuu, poder-ejecutivo, tl-intel-v3]
 publish: true
-aliases:
-  - White House
-  - Casa Blanca (White House)
-created: 2026-05-01T19:10:24.685-03:00
-modified: 2026-05-02T13:54:27.936-03:00
-tags:
-  - casa-blanca
-  - eeuu
-  - poder-ejecutivo
-  - tl-intel-v3
 ---
 
 # Casa Blanca

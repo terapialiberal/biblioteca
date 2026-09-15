@@ -1,15 +1,12 @@
 ---
+titulo: "JD Vance"
 publish: true
-created: 2026-02-25T15:42:29.816-03:00
-modified: 2026-05-27T10:25:02.344-03:00
-tags:
-  - jd-vance
-  - vicepresidente
-  - doge
-  - thiel
-  - maga
-  - elecciones-2028
-  - tl-intel-v3
+tipo: persona
+fecha: 2026-05-27
+tier_primario: A
+estado: activo
+tags: [jd-vance, vicepresidente, doge, thiel, maga, elecciones-2028, tl-intel-v3]
+last_stream: "[[06_Videos_Publicados/2026/2026-05-26_La_Trampa_de_Ormuz/00_ARCHIVO_2026-05-26_La_Trampa_de_Ormuz|ARCHIVO: La Trampa de Ormuz]]"
 ---
 
 # [[JD Vance]]

@@ -1,12 +1,12 @@
 ---
+titulo: "La República De Weimar: El Manual De La Demolición Controlada"
+tipo: "concepto"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [demolicin, hiperinflacin, ludwig, repblica]
 publish: true
-created: 2026-01-29T19:17:21.586-03:00
-modified: 2026-05-02T18:25:41.392-03:00
-tags:
-  - demolicin
-  - hiperinflacin
-  - ludwig
-  - repblica
 ---
 
 # La República De Weimar: El Manual De La Demolición Controlada

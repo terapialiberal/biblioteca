@@ -1,16 +1,13 @@
 ---
+titulo: Geometria Sagrada
+tipo: concepto
+fecha: 2026-04-27
+estado: activo
+aliases: ["Geometría Sagrada", "Sacred geometry"]
+tags: [geometria-sagrada, simbolismo, arquitectura, esoterismo, tl-intel-v3]
+tier_primario: c
+nivel_evidencia: medio
 publish: true
-aliases:
-  - Geometría Sagrada
-  - Sacred geometry
-created: 2026-04-27T10:12:10.089-03:00
-modified: 2026-04-27T10:12:10.089-03:00
-tags:
-  - geometria-sagrada
-  - simbolismo
-  - arquitectura
-  - esoterismo
-  - tl-intel-v3
 ---
 
 # Geometria Sagrada

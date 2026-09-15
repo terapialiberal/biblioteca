@@ -1,16 +1,13 @@
 ---
+titulo: Lucis Trust
+tipo: entidad
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Lucis Trust: Los Arquitectos Espirituales Del Globalismo"]
+tags: [lucis-trust, alice-bailey, onu, esoterismo, globalismo, tl-intel-v3]
 publish: true
-aliases:
-  - "Lucis Trust: Los Arquitectos Espirituales Del Globalismo"
-created: 2026-01-29T19:17:23.082-03:00
-modified: 2026-04-18T18:21:38.970-03:00
-tags:
-  - lucis-trust
-  - alice-bailey
-  - onu
-  - esoterismo
-  - globalismo
-  - tl-intel-v3
 ---
 
 # Lucis Trust

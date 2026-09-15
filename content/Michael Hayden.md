@@ -1,14 +1,12 @@
 ---
+titulo: Michael Hayden
+tipo: persona
+fecha: 2026-04-19
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [michael-hayden, nsa, cia, vigilancia, seguridad-nacional, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:24.991-03:00
-modified: 2026-04-19T12:15:34.110-03:00
-tags:
-  - michael-hayden
-  - nsa
-  - cia
-  - vigilancia
-  - seguridad-nacional
-  - tl-intel-v3
 ---
 
 # Michael Hayden

@@ -1,17 +1,14 @@
 ---
+titulo: "Cuarta Revolución Industrial"
 publish: true
-aliases:
-  - 4IR
-  - Cuarta Revolución Industrial (4IR)
-created: 2026-01-29T19:17:09.383-03:00
-modified: 2026-04-17T16:43:30.576-03:00
-tags:
-  - 4ir
-  - wef
-  - transhumanismo
-  - automatizacion
-  - tecnologia-de-control
-  - tl-intel-v3
+tipo: concepto
+fecha: 2026-04-07
+tier_primario: B
+moc_canonico: [[00_MOC - Tecnologia de Control]]
+estado: activo
+aliases: ["4IR", "Cuarta Revolución Industrial (4IR)"]
+fuentes_clave: []
+tags: [4ir, wef, transhumanismo, automatizacion, tecnologia-de-control, tl-intel-v3]
 ---
 
 # [[Cuarta Revolución Industrial]]

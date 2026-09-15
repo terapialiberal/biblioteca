@@ -1,15 +1,11 @@
 ---
+titulo: SWIFT
+tipo: entidad
+fecha: 2026-05-02
+estado: activo
+aliases: ["SWIFT (Mensajería Bancaria)"]
+tags: [swift, pagos, sanciones, mensajeria-bancaria, tl-intel-v3]
 publish: true
-aliases:
-  - SWIFT (Mensajería Bancaria)
-created: 2026-04-19T13:19:27.099-03:00
-modified: 2026-05-02T13:05:22.680-03:00
-tags:
-  - swift
-  - pagos
-  - sanciones
-  - mensajeria-bancaria
-  - tl-intel-v3
 ---
 
 # SWIFT

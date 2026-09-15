@@ -1,12 +1,12 @@
 ---
+titulo: "La Bonaerense: La Agencia De Regulación Del Delito"
+tipo: "persona"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [barones, bonaerense, eduardo, regulacin]
 publish: true
-created: 2026-01-29T19:17:21.021-03:00
-modified: 2026-05-02T18:25:39.889-03:00
-tags:
-  - barones
-  - bonaerense
-  - eduardo
-  - regulacin
 ---
 
 # La Bonaerense: La Agencia De Regulación Del Delito

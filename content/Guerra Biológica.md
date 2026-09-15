@@ -1,12 +1,14 @@
 ---
 publish: true
-created: 2026-04-29T14:13:09.856-03:00
-modified: 2026-05-02T14:12:41.619-03:00
+tipo: alias
+titulo: Guerra Biológica
+estado: activo
 tags:
   - alias
   - bioseguridad
   - guerra
   - tl-intel-v3
+reemplazado_por: '[[Guerra Biologica]]'
 ---
 
 # Guerra Biológica

@@ -1,13 +1,12 @@
 ---
 publish: true
-created: 2026-04-13T15:21:28.968-03:00
-modified: 2026-04-17T13:00:38.527-03:00
-tags:
-  - credito
-  - finanzas
-  - private-credit
-  - bdc
-  - hedge
+titulo: "Credito privado"
+tipo: concepto
+fecha: 2026-04-13
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [credito, finanzas, private-credit, bdc, hedge]
 ---
 
 # Credito privado

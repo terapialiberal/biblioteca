@@ -1,11 +1,12 @@
 ---
+titulo: Resumen General
+tipo: "concepto"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [curtis, peter, urbit]
 publish: true
-created: 2026-01-29T19:17:42.535-03:00
-modified: 2026-05-02T18:26:14.813-03:00
-tags:
-  - curtis
-  - peter
-  - urbit
 ---
 
 # Resumen General

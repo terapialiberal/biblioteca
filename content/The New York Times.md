@@ -1,14 +1,12 @@
 ---
+titulo: The New York Times
+tipo: entidad
+fecha: 2026-04-19
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [nyt, medios, narrativa, legitimacion, propaganda, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:39.945-03:00
-modified: 2026-04-19T12:04:25.271-03:00
-tags:
-  - nyt
-  - medios
-  - narrativa
-  - legitimacion
-  - propaganda
-  - tl-intel-v3
 ---
 
 # The New York Times

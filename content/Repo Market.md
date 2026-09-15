@@ -1,18 +1,13 @@
 ---
+titulo: Repo Market
+tipo: concepto
+fecha: 2026-05-02
+tier_primario: b
+nivel_evidencia: alto
+estado: activo
+aliases: ["Mercado repo", "Repurchase agreements", "Repos"]
+tags: [repo, liquidez, colateral, treasuries, control-financiero, tl-intel-v3]
 publish: true
-aliases:
-  - Mercado repo
-  - Repurchase agreements
-  - Repos
-created: 2026-05-01T20:46:12.692-03:00
-modified: 2026-05-02T12:22:05.436-03:00
-tags:
-  - repo
-  - liquidez
-  - colateral
-  - treasuries
-  - control-financiero
-  - tl-intel-v3
 ---
 
 # Repo Market

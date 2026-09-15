@@ -1,12 +1,12 @@
 ---
+titulo: Meta Llama 4
+tipo: "concepto"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [llama, mark, meta, nvidia]
 publish: true
-created: 2026-02-25T14:52:45.980-03:00
-modified: 2026-05-02T18:25:46.528-03:00
-tags:
-  - llama
-  - mark
-  - meta
-  - nvidia
 ---
 
 # Meta Llama 4

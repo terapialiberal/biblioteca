@@ -1,17 +1,13 @@
 ---
+titulo: Escatologia de la IA
+tipo: concepto
+fecha: 2026-04-27
+estado: activo
+aliases: ["Escatología de la IA", "AI eschatology"]
+tags: [escatologia-ia, agi, transhumanismo, singularidad, tecnoreligion, tl-intel-v3]
+tier_primario: b
+nivel_evidencia: medio
 publish: true
-aliases:
-  - Escatología de la IA
-  - AI eschatology
-created: 2026-02-25T22:08:52.337-03:00
-modified: 2026-04-27T10:22:43.699-03:00
-tags:
-  - escatologia-ia
-  - agi
-  - transhumanismo
-  - singularidad
-  - tecnoreligion
-  - tl-intel-v3
 ---
 
 # Escatologia de la IA

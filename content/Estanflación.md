@@ -1,16 +1,13 @@
 ---
+titulo: Estanflación
+tipo: concepto
+fecha: 2026-05-02
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Estanflacion", "Estanflación (Fenómeno)"]
+tags: [estanflacion, inflacion, energia, crisis, tl-intel-v3]
 publish: true
-aliases:
-  - Estanflacion
-  - Estanflación (Fenómeno)
-created: 2026-05-01T20:45:48.738-03:00
-modified: 2026-05-02T12:22:03.397-03:00
-tags:
-  - estanflacion
-  - inflacion
-  - energia
-  - crisis
-  - tl-intel-v3
 ---
 
 # Estanflación

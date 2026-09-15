@@ -1,14 +1,10 @@
 ---
 publish: true
-aliases:
-  - Andrew Marshall
-created: 2026-05-01T18:53:22.391-03:00
-modified: 2026-05-02T18:25:11.749-03:00
-tags:
-  - actor
-  - pentagono
-  - estrategia
-  - rand
+titulo: "Andrew Marshall"
+aliases: ["Andrew Marshall"]
+tags: [actor, pentagono, estrategia, rand]
+tipo: actor
+nivel: B
 ---
 
 # Andrew Marshall

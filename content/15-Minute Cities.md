@@ -1,19 +1,14 @@
 ---
+titulo: Ciudades de 15 Minutos
+tipo: concepto
+fecha: 2026-05-02
+estado: activo
+aliases: ["15-Minute Cities", "Ciudades de 15 Minutos", "Ciudades de 15 Minutos (Control Urbano)"]
+tags: [ciudades-15-minutos, urbanismo, smart-cities, control, tl-intel-v3]
 publish: true
-aliases:
-  - Ciudades de 15 Minutos
-  - Ciudades de 15 Minutos (Control Urbano)
-created: 2026-02-25T14:13:31.339-03:00
-modified: 2026-05-02T12:50:43.762-03:00
-tags:
-  - ciudades-15-minutos
-  - urbanismo
-  - smart-cities
-  - control
-  - tl-intel-v3
 ---
 
-# 15-Minute Cities
+# Ciudades de 15 Minutos
 
 ## BLUF
 

@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:05:25.172-03:00
-modified: 2026-04-29T14:05:41.660-03:00
-tags:
-  - virologia
-  - pandemia
-  - salud-publica
-  - tl-intel-v3
+tipo: actor
+titulo: Christian Drosten
+estado: activo
+tags: [virologia, pandemia, salud-publica, tl-intel-v3]
 ---
 
 # Christian Drosten

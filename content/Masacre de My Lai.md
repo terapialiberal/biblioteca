@@ -1,13 +1,13 @@
 ---
+titulo: "Masacre de My Lai"
 publish: true
-created: 2026-01-29T19:17:24.165-03:00
-modified: 2026-04-07T12:09:03.058-03:00
-tags:
-  - my-lai
-  - vietnam
-  - crimen-de-guerra
-  - encubrimiento
-  - tl-intel-v3
+tipo: evento
+fecha: 2026-04-07
+tier_primario: B
+moc_canonico: [[00_MOC - Operaciones Encubiertas]]
+estado: activo
+fuentes_clave: []
+tags: [my-lai, vietnam, crimen-de-guerra, encubrimiento, tl-intel-v3]
 ---
 
 # [[Masacre de My Lai]]

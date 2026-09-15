@@ -1,12 +1,14 @@
 ---
 publish: true
-created: 2026-04-29T13:53:50.822-03:00
-modified: 2026-05-02T14:12:54.402-03:00
+tipo: alias
+titulo: Cártel de los Soles
+estado: activo
 tags:
   - alias
   - narcotrafico
   - venezuela
   - tl-intel-v3
+reemplazado_por: '[[Cartel de los Soles]]'
 ---
 
 # Cártel de los Soles

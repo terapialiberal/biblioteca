@@ -1,14 +1,12 @@
 ---
+titulo: Mithril Capital
+tipo: organizacion
+fecha: 2026-04-20
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [mithril-capital, venture-capital, peter-thiel, tech, elite-networks, tl-intel-v3]
 publish: true
-created: 2026-04-20T10:33:12.998-03:00
-modified: 2026-04-20T10:42:12.512-03:00
-tags:
-  - mithril-capital
-  - venture-capital
-  - peter-thiel
-  - tech
-  - elite-networks
-  - tl-intel-v3
 ---
 
 # Mithril Capital

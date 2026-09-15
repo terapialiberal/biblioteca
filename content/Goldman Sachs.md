@@ -1,15 +1,11 @@
 ---
+titulo: Goldman Sachs
+tipo: entidad
+fecha: 2026-05-02
+estado: activo
+aliases: ["Goldman"]
+tags: [goldman-sachs, banca, wall-street, puerta-giratoria, tl-intel-v3]
 publish: true
-aliases:
-  - Goldman
-created: 2026-04-27T11:52:25.102-03:00
-modified: 2026-05-02T13:06:23.246-03:00
-tags:
-  - goldman-sachs
-  - banca
-  - wall-street
-  - puerta-giratoria
-  - tl-intel-v3
 ---
 
 # Goldman Sachs

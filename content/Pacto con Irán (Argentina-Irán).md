@@ -1,13 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T13:34:43.227-03:00
-modified: 2026-04-29T13:34:59.842-03:00
-tags:
-  - evento
-  - argentina
-  - iran
-  - amia
-  - tl-intel-v3
+tipo: evento
+titulo: Pacto con Irán (Argentina-Irán)
+estado: activo
+tags: [evento, argentina, iran, amia, tl-intel-v3]
 ---
 
 # Pacto con Irán (Argentina-Irán)

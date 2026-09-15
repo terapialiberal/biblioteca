@@ -1,15 +1,13 @@
 ---
+titulo: Leon Black
+tipo: persona
+fecha: 2026-04-18
+tier_primario: a
+nivel_evidencia: medio
+estado: activo
+aliases: ["Leon Black: El Financista De La Sombra"]
+tags: [leon-black, apollo, jeffrey-epstein, private-equity, tl-intel-v3]
 publish: true
-aliases:
-  - "Leon Black: El Financista De La Sombra"
-created: 2026-01-29T19:17:22.249-03:00
-modified: 2026-04-18T18:21:38.475-03:00
-tags:
-  - leon-black
-  - apollo
-  - jeffrey-epstein
-  - private-equity
-  - tl-intel-v3
 ---
 
 # Leon Black

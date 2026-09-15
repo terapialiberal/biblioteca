@@ -1,17 +1,13 @@
 ---
+titulo: Geometria del Pentagon
+tipo: concepto
+fecha: 2026-04-27
+estado: activo
+aliases: ["Geometría del Pentagon", "Geometría del Pentágono"]
+tags: [pentagono, geometria, defensa, poder-visual, simbolismo, tl-intel-v3]
+tier_primario: b
+nivel_evidencia: medio
 publish: true
-aliases:
-  - Geometría del Pentagon
-  - Geometría del Pentágono
-created: 2026-02-25T22:08:56.129-03:00
-modified: 2026-04-27T10:36:06.746-03:00
-tags:
-  - pentagono
-  - geometria
-  - defensa
-  - poder-visual
-  - simbolismo
-  - tl-intel-v3
 ---
 
 # Geometria del Pentagon

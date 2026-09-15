@@ -1,16 +1,14 @@
 ---
+titulo: "Línea de Tiempo - 1980s-2000s"
 publish: true
-aliases:
-  - "Línea De Tiempo: 1980s-2000s (Narcointeligencia Y Shock)"
-created: 2026-01-29T19:17:23.316-03:00
-modified: 2026-04-07T12:09:02.947-03:00
-tags:
-  - timeline
-  - iran-contra
-  - 9-11
-  - shock
-  - vigilancia
-  - tl-intel-v3
+tipo: concepto
+fecha: 2026-04-07
+tier_primario: B
+moc_canonico: [[00_MOC - Cronologico]]
+estado: activo
+aliases: ["Línea De Tiempo: 1980s-2000s (Narcointeligencia Y Shock)"]
+fuentes_clave: []
+tags: [timeline, iran-contra, 9-11, shock, vigilancia, tl-intel-v3]
 ---
 
 # [[Línea de Tiempo - 1980s-2000s]]

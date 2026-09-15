@@ -1,16 +1,11 @@
 ---
+titulo: Singapur
+tipo: nodo
+fecha: 2026-05-02
+estado: activo
+aliases: ["Singapur (Centro Financiero)"]
+tags: [singapur, asia, finanzas, malaca, hub, tl-intel-v3]
 publish: true
-aliases:
-  - Singapur (Centro Financiero)
-created: 2026-05-01T20:44:12.113-03:00
-modified: 2026-05-02T12:49:52.591-03:00
-tags:
-  - singapur
-  - asia
-  - finanzas
-  - malaca
-  - hub
-  - tl-intel-v3
 ---
 
 # Singapur

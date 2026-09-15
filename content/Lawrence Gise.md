@@ -1,12 +1,12 @@
 ---
+titulo: "Lawrence Gise: El Código Genético Del Estado Profundo En Amazon"
+tipo: "persona"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [amazon, estado, gentico, gise]
 publish: true
-created: 2026-01-29T19:17:22.036-03:00
-modified: 2026-05-02T18:25:42.569-03:00
-tags:
-  - amazon
-  - estado
-  - gentico
-  - gise
 ---
 
 # Lawrence Gise: El Código Genético Del Estado Profundo En Amazon

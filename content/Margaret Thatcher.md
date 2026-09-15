@@ -1,13 +1,13 @@
 ---
+titulo: "Margaret Thatcher"
 publish: true
-created: 2026-01-29T19:17:23.897-03:00
-modified: 2026-04-07T12:44:04.050-03:00
-tags:
-  - margaret-thatcher
-  - neoliberalismo
-  - city-de-londres
-  - uk
-  - tl-intel-v3
+tipo: persona
+fecha: 2026-04-07
+tier_primario: B
+moc_canonico: [[00_MOC - Cronologico]]
+estado: activo
+fuentes_clave: []
+tags: [margaret-thatcher, neoliberalismo, city-de-londres, uk, tl-intel-v3]
 ---
 
 # [[Margaret Thatcher]]

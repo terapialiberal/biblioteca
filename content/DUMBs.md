@@ -1,11 +1,12 @@
 ---
+titulo: Resumen General
+tipo: "concepto"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [aeropuerto, area, dumbs]
 publish: true
-created: 2026-01-29T19:17:10.627-03:00
-modified: 2026-05-02T18:24:40.173-03:00
-tags:
-  - aeropuerto
-  - area
-  - dumbs
 ---
 
 # Resumen General

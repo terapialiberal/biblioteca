@@ -1,17 +1,13 @@
 ---
+titulo: Vigilancia Biologica
+tipo: concepto
+fecha: 2026-04-21
+tier_primario: a
+nivel_evidencia: medio
+estado: activo
+aliases: ["Vigilancia Biológica", "Biological Surveillance"]
+tags: [vigilancia-biologica, bioseguridad, genomica, trazabilidad, salud-global, tl-intel-v3]
 publish: true
-aliases:
-  - Vigilancia Biológica
-  - Biological Surveillance
-created: 2026-04-21T11:39:06.580-03:00
-modified: 2026-04-21T11:39:06.580-03:00
-tags:
-  - vigilancia-biologica
-  - bioseguridad
-  - genomica
-  - trazabilidad
-  - salud-global
-  - tl-intel-v3
 ---
 
 # Vigilancia Biologica

@@ -1,15 +1,14 @@
 ---
+titulo: "Canary in Coal Mine"
 publish: true
-aliases:
-  - Resumen General
-created: 2026-01-29T19:17:06.348-03:00
-modified: 2026-05-02T18:24:28.532-03:00
-tags:
-  - canary
-  - early-warning
-  - patrones
-  - senales
-  - tl-intel-v3
+tipo: concepto
+fecha: 2026-04-07
+tier_primario: B
+moc_canonico: [[00_MOC - Patrones Clasicos de Poder]]
+estado: activo
+aliases: ["Resumen General"]
+fuentes_clave: []
+tags: [canary, early-warning, patrones, senales, tl-intel-v3]
 ---
 
 # [[Canary in Coal Mine]]

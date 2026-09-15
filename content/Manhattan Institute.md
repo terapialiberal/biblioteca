@@ -1,13 +1,10 @@
 ---
 publish: true
-aliases:
-  - Manhattan Institute
-created: 2026-05-01T18:47:37.901-03:00
-modified: 2026-05-02T18:25:44.499-03:00
-tags:
-  - think-tank
-  - conservador
-  - politica-urbana
+titulo: "Manhattan Institute"
+aliases: ["Manhattan Institute"]
+tags: [think-tank, conservador, politica-urbana]
+tipo: think-tank
+nivel: B
 ---
 
 # Manhattan Institute

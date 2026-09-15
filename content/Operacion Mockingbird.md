@@ -1,16 +1,13 @@
 ---
+titulo: Operacion Mockingbird
+tipo: concepto
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Operacion Mockingbird: El Eco-Camara De La Matrix"]
+tags: [mockingbird, cia, medios, propaganda, guerra-cognitiva, tl-intel-v3]
 publish: true
-aliases:
-  - "Operacion Mockingbird: El Eco-Camara De La Matrix"
-created: 2026-01-29T19:17:28.682-03:00
-modified: 2026-04-22T11:33:57.441-03:00
-tags:
-  - mockingbird
-  - cia
-  - medios
-  - propaganda
-  - guerra-cognitiva
-  - tl-intel-v3
 ---
 
 # Operacion Mockingbird

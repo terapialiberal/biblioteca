@@ -1,14 +1,12 @@
 ---
+titulo: CIPS & SPFS
+tipo: infraestructura
+fecha: 2026-04-22
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [cips, spfs, swift, rails, desdolarizacion, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:07.740-03:00
-modified: 2026-04-22T10:08:49.572-03:00
-tags:
-  - cips
-  - spfs
-  - swift
-  - rails
-  - desdolarizacion
-  - tl-intel-v3
 ---
 
 # CIPS & SPFS

@@ -1,12 +1,12 @@
 ---
+titulo: Bank of America (BofA)
+tipo: entidad
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [america, blackrock, bofa, reserva]
 publish: true
-created: 2026-01-29T19:17:04.790-03:00
-modified: 2026-05-02T18:24:22.192-03:00
-tags:
-  - america
-  - blackrock
-  - bofa
-  - reserva
 ---
 
 # Bank of America (BofA)

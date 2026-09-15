@@ -1,12 +1,12 @@
 ---
+titulo: "Operación Timber Sycamore: La Fábrica De Yihadistas De La CIA"
+tipo: "evento"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [fbrica, guerra, sycamore, timber]
 publish: true
-created: 2026-01-29T19:17:28.956-03:00
-modified: 2026-05-02T18:25:52.752-03:00
-tags:
-  - fbrica
-  - guerra
-  - sycamore
-  - timber
 ---
 
 # Operación Timber Sycamore: La Fábrica De Yihadistas De La CIA

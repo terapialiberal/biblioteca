@@ -1,15 +1,16 @@
 ---
-publish: true
+titulo: Mao Tse-Tung
 aliases:
   - Mao Zedong
   - Mao Tse-Tung
-created: 2026-01-29T19:17:23.585-03:00
-modified: 2026-04-07T13:12:37.743-03:00
+tipo: persona
+estado: activo
 tags:
   - persona
   - china
   - comunismo
   - ingenieria-social
+publish: true
 ---
 
 # Mao Tse-Tung

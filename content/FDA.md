@@ -1,18 +1,13 @@
 ---
+titulo: FDA
+tipo: entidad
+fecha: 2026-04-21
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Food and Drug Administration", "U.S. Food and Drug Administration"]
+tags: [fda, regulacion, salud, bioseguridad, big-pharma, captura-regulatoria, tl-intel-v3]
 publish: true
-aliases:
-  - Food and Drug Administration
-  - U.S. Food and Drug Administration
-created: 2026-04-21T13:29:26.836-03:00
-modified: 2026-04-22T17:00:23.379-03:00
-tags:
-  - fda
-  - regulacion
-  - salud
-  - bioseguridad
-  - big-pharma
-  - captura-regulatoria
-  - tl-intel-v3
 ---
 
 # FDA

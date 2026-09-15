@@ -1,17 +1,11 @@
 ---
+titulo: Crisis 2008
+tipo: evento
+fecha: 2026-05-02
+estado: activo
+aliases: ["Crisis Financiera 2008", "GFC", "Crisis Financiera Global 2008"]
+tags: [crisis-2008, finanzas, bailout, banca, tl-intel-v3]
 publish: true
-aliases:
-  - Crisis Financiera 2008
-  - GFC
-  - Crisis Financiera Global 2008
-created: 2026-05-01T20:42:05.164-03:00
-modified: 2026-05-02T12:55:31.582-03:00
-tags:
-  - crisis-2008
-  - finanzas
-  - bailout
-  - banca
-  - tl-intel-v3
 ---
 
 # Crisis 2008

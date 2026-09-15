@@ -1,17 +1,13 @@
 ---
+titulo: Revolucion de Color Domestica
+tipo: concepto
+fecha: 2026-04-24
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Revolucion de Color (Domestica)", "Revolución de Color Doméstica"]
+tags: [revolucion-de-color-domestica, psyops, polarizacion, cambio-de-regimen, guerra-cognitiva, tl-intel-v3]
 publish: true
-aliases:
-  - Revolucion de Color (Domestica)
-  - Revolución de Color Doméstica
-created: 2026-04-24T10:52:38.354-03:00
-modified: 2026-04-24T10:52:38.354-03:00
-tags:
-  - revolucion-de-color-domestica
-  - psyops
-  - polarizacion
-  - cambio-de-regimen
-  - guerra-cognitiva
-  - tl-intel-v3
 ---
 
 # Revolucion de Color Domestica

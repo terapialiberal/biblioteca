@@ -1,17 +1,13 @@
 ---
+titulo: Pegasus Spyware
+tipo: programa
+fecha: 2026-04-22
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Pegasus Spyware (NSO Group)", "Pegasus"]
+tags: [pegasus, spyware, nso-group, zero-click, vigilancia, tl-intel-v3]
 publish: true
-aliases:
-  - Pegasus Spyware (NSO Group)
-  - Pegasus
-created: 2026-01-29T19:17:30.190-03:00
-modified: 2026-04-22T16:27:30.900-03:00
-tags:
-  - pegasus
-  - spyware
-  - nso-group
-  - zero-click
-  - vigilancia
-  - tl-intel-v3
 ---
 
 # Pegasus Spyware

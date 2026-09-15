@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:13:08.697-03:00
-modified: 2026-04-29T14:13:28.560-03:00
-tags:
-  - bioseguridad
-  - guerra
-  - doble-uso
-  - tl-intel-v3
+tipo: concepto
+titulo: Guerra Biologica
+estado: activo
+tags: [bioseguridad, guerra, doble-uso, tl-intel-v3]
 ---
 
 # Guerra Biologica

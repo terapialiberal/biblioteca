@@ -1,12 +1,12 @@
 ---
+titulo: "Praxeología: La Lógica De La Soberanía Humana"
+tipo: "concepto"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [ludwig, lgica, praxeologa, soberana]
 publish: true
-created: 2026-01-29T19:17:31.134-03:00
-modified: 2026-05-02T18:25:56.425-03:00
-tags:
-  - ludwig
-  - lgica
-  - praxeologa
-  - soberana
 ---
 
 # Praxeología: La Lógica De La Soberanía Humana

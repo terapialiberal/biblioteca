@@ -1,16 +1,13 @@
 ---
+titulo: Hiperinflación
+tipo: concepto
+fecha: 2026-05-02
+tier_primario: c
+nivel_evidencia: alto
+estado: activo
+aliases: ["Hiperinflacion", "Hiperinflación (Fenómeno)"]
+tags: [hiperinflacion, moneda, crisis, deuda, tl-intel-v3]
 publish: true
-aliases:
-  - Hiperinflacion
-  - Hiperinflación (Fenómeno)
-created: 2026-05-01T20:45:43.734-03:00
-modified: 2026-05-02T12:22:02.996-03:00
-tags:
-  - hiperinflacion
-  - moneda
-  - crisis
-  - deuda
-  - tl-intel-v3
 ---
 
 # Hiperinflación

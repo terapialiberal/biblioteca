@@ -1,16 +1,13 @@
 ---
+titulo: Rent-Seeking
+tipo: concepto
+fecha: 2026-04-21
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Rent-Seeking: el Parasitismo Institucionalizado"]
+tags: [rent-seeking, renta-politica, captura, privilegio, economia-politica, tl-intel-v3]
 publish: true
-aliases:
-  - "Rent-Seeking: el Parasitismo Institucionalizado"
-created: 2026-01-29T19:17:33.176-03:00
-modified: 2026-04-22T11:04:52.421-03:00
-tags:
-  - rent-seeking
-  - renta-politica
-  - captura
-  - privilegio
-  - economia-politica
-  - tl-intel-v3
 ---
 
 # Rent-Seeking

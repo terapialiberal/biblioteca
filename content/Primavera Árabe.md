@@ -1,17 +1,11 @@
 ---
+titulo: Primavera Árabe
+tipo: evento
+fecha: 2026-05-02
+estado: activo
+aliases: ["Primavera Arabe", "Primaveras Árabes", "Primavera Árabe (2011)"]
+tags: [primavera-arabe, medio-oriente, revolucion, redes, tl-intel-v3]
 publish: true
-aliases:
-  - Primavera Arabe
-  - Primaveras Árabes
-  - Primavera Árabe (2011)
-created: 2026-05-01T20:41:56.929-03:00
-modified: 2026-05-02T12:58:37.951-03:00
-tags:
-  - primavera-arabe
-  - medio-oriente
-  - revolucion
-  - redes
-  - tl-intel-v3
 ---
 
 # Primavera Árabe

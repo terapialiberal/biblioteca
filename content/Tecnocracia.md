@@ -1,12 +1,12 @@
 ---
+titulo: Tecnocracia
+tipo: concepto
+fecha: 2026-04-17
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [tecnocracia, control, infraestructura, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:38.527-03:00
-modified: 2026-04-22T16:33:06.062-03:00
-tags:
-  - tecnocracia
-  - control
-  - infraestructura
-  - tl-intel-v3
 ---
 
 # Tecnocracia

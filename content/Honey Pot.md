@@ -1,18 +1,13 @@
 ---
+titulo: Honey Pot
+tipo: patron
+fecha: 2026-04-17
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Honey Pot (Operación)", "Honey Pot (Operacion)", "Honey Trap"]
+tags: [honey-pot, kompromat, chantaje, inteligencia, patron, tl-intel-v3]
 publish: true
-aliases:
-  - Honey Pot (Operación)
-  - Honey Pot (Operacion)
-  - Honey Trap
-created: 2026-01-29T19:17:17.324-03:00
-modified: 2026-04-17T13:57:18.615-03:00
-tags:
-  - honey-pot
-  - kompromat
-  - chantaje
-  - inteligencia
-  - patron
-  - tl-intel-v3
 ---
 
 # Honey Pot

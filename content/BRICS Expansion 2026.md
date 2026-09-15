@@ -1,16 +1,13 @@
 ---
+titulo: BRICS Expansion 2026
+tipo: evento
+fecha: 2026-04-24
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["BRICS+ Expansion 2026"]
+tags: [brics, expansion, south-global, energia, desdolarizacion, tl-intel-v3]
 publish: true
-aliases:
-  - BRICS+ Expansion 2026
-created: 2026-02-09T17:26:02.046-03:00
-modified: 2026-04-24T12:18:24.405-03:00
-tags:
-  - brics
-  - expansion
-  - south-global
-  - energia
-  - desdolarizacion
-  - tl-intel-v3
 ---
 
 # BRICS Expansion 2026

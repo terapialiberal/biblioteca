@@ -1,17 +1,13 @@
 ---
+titulo: Etiopía
+tipo: nodo
+fecha: 2026-05-02
+tier_primario: c
+nivel_evidencia: medio
+estado: activo
+aliases: ["Etiopia", "Etiopía (Geopolítica)"]
+tags: [etiopia, africa, nilo, brics, infraestructura, tl-intel-v3]
 publish: true
-aliases:
-  - Etiopia
-  - Etiopía (Geopolítica)
-created: 2026-05-01T20:44:55.774-03:00
-modified: 2026-05-02T12:45:53.334-03:00
-tags:
-  - etiopia
-  - africa
-  - nilo
-  - brics
-  - infraestructura
-  - tl-intel-v3
 ---
 
 # Etiopía

@@ -1,16 +1,13 @@
 ---
+titulo: Sergio Massa
+tipo: persona
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Sergio Massa: el Prestidigitador de la Decadencia Argentina"]
+tags: [argentina, massa, peronismo, economia, operador, tl-intel-v3]
 publish: true
-aliases:
-  - "Sergio Massa: el Prestidigitador de la Decadencia Argentina"
-created: 2026-01-29T19:17:36.297-03:00
-modified: 2026-04-18T11:51:53.981-03:00
-tags:
-  - argentina
-  - massa
-  - peronismo
-  - economia
-  - operador
-  - tl-intel-v3
 ---
 
 # Sergio Massa

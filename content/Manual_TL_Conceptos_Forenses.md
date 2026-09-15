@@ -1,13 +1,17 @@
 ---
-publish: true
-created: 2026-01-29T19:17:23.507-03:00
-modified: 2026-05-02T18:25:44.605-03:00
+titulo: Manual de Conceptos Terapia Liberal
+tipo: concepto
+fecha: 2026-02-25T00:00:00.000Z
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
 tags:
   - terapia-liberal
   - inteligencia-forense
   - analisis-geopolitico
   - individualismo-metodologico
   - cui-bono
+publish: true
 ---
 
 # Manual de Conceptos Terapia Liberal

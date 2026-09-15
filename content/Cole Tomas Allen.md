@@ -1,12 +1,10 @@
 ---
 publish: true
-created: 2026-04-29T14:52:49.627-03:00
-modified: 2026-05-02T18:25:15.606-03:00
-tags:
-  - base-de-conocimiento
-  - actor
-  - atentado
-  - baja-confianza
+titulo: "Cole Tomas Allen"
+tipo: "actor"
+fecha: 2026-04-29
+estado: activo
+tags: [base-de-conocimiento, actor, atentado, baja-confianza]
 ---
 
 # Cole Tomas Allen

@@ -1,18 +1,13 @@
 ---
+titulo: Sistema SPFS
+tipo: infraestructura
+fecha: 2026-04-22
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Sistema SPFS: el Cortafuegos Financiero de la Eurasia Soberana", "SPFS", "System for Transfer of Financial Messages"]
+tags: [spfs, rusia, pagos-transfronterizos, swift, sanciones, tl-intel-v3]
 publish: true
-aliases:
-  - "Sistema SPFS: el Cortafuegos Financiero de la Eurasia Soberana"
-  - SPFS
-  - System for Transfer of Financial Messages
-created: 2026-01-29T19:17:37.080-03:00
-modified: 2026-04-22T10:08:47.611-03:00
-tags:
-  - spfs
-  - rusia
-  - pagos-transfronterizos
-  - swift
-  - sanciones
-  - tl-intel-v3
 ---
 
 # Sistema SPFS

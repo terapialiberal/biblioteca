@@ -1,16 +1,12 @@
 ---
+titulo: Davos
+tipo: alias
+fecha: 2026-05-02
+estado: legacy
+reemplazado_por: [[WEF]]
+aliases: ["Davos", "Foro Económico Mundial"]
+tags: [alias, legacy, wef, elite, tl-intel-v3]
 publish: true
-aliases:
-  - Davos
-  - Foro Económico Mundial
-created: 2026-05-01T20:39:25.075-03:00
-modified: 2026-05-02T13:08:01.020-03:00
-tags:
-  - alias
-  - legacy
-  - wef
-  - elite
-  - tl-intel-v3
 ---
 
 # Davos

@@ -1,13 +1,12 @@
 ---
+titulo: Articulo Pendiente - Great Taking (bail-in)
+tipo: import
+estado: capturado
+fuente: https://www.foxnews.com/opinion/wall-street-could-seize-your-retirement-savings-next-financial-crash-its-perfectly-legal
+fecha: 2026-02-22
+descripcion: Import estabilizado sobre un articulo que resume en formato periodistico la tesis de `The Great Taking` aplicada a crisis financiera, bail-in y riesgo sobre inversiones minoristas.
+tags: [the-great-taking, bail-in, dtcc, wall-street, import]
 publish: true
-created: 2026-02-22T19:42:43.973-03:00
-modified: 2026-05-02T18:24:18.999-03:00
-tags:
-  - the-great-taking
-  - bail-in
-  - dtcc
-  - wall-street
-  - import
 ---
 
 # Articulo Pendiente - Great Taking (bail-in)

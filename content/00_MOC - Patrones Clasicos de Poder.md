@@ -1,12 +1,11 @@
 ---
 publish: true
-created: 2026-02-28T15:08:54.442-03:00
-modified: 2026-04-07T10:47:14.141-03:00
-tags:
-  - moc
-  - patrones
-  - modelos-mentales
-  - tl-intel-v3
+titulo: "MOC - Patrones Clasicos de Poder"
+tipo: moc
+fecha: 2026-04-07
+estado: activo
+moc_canonico: [[00_MOC - Base de Conocimiento]]
+tags: [moc, patrones, modelos-mentales, tl-intel-v3]
 ---
 
 # MOC - Patrones Clasicos de Poder

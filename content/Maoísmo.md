@@ -1,14 +1,10 @@
 ---
 publish: true
-aliases:
-  - Maoísmo
-created: 2026-05-01T18:48:07.667-03:00
-modified: 2026-05-02T18:25:44.755-03:00
-tags:
-  - ideologia
-  - comunismo
-  - china
-  - revolucion
+titulo: "Maoísmo"
+aliases: ["Maoísmo"]
+tags: [ideologia, comunismo, china, revolucion]
+tipo: concepto
+nivel: B
 ---
 
 # Maoísmo

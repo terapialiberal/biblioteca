@@ -1,17 +1,13 @@
 ---
+titulo: Aladdin
+tipo: producto
+fecha: 2026-04-17
+tier_primario: a
+nivel_evidencia: medio
+estado: activo
+aliases: ["BlackRock Aladdin", "BlackRock (Aladdin)"]
+tags: [aladdin, blackrock, riesgo, cartera, gobernanza-algoritmica, tl-intel-v3]
 publish: true
-aliases:
-  - BlackRock Aladdin
-  - BlackRock (Aladdin)
-created: 2026-04-17T14:27:27.960-03:00
-modified: 2026-04-22T09:38:37.103-03:00
-tags:
-  - aladdin
-  - blackrock
-  - riesgo
-  - cartera
-  - gobernanza-algoritmica
-  - tl-intel-v3
 ---
 
 # Aladdin

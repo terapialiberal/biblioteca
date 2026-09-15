@@ -1,14 +1,11 @@
 ---
+titulo: Belt and Road Initiative (BRI)
+tipo: alias
+fecha: 2026-04-21
+estado: legacy
+reemplazado_por: [[Belt and Road Initiative]]
+tags: [alias, legacy, bri, china, infraestructura, tl-intel-v3]
 publish: true
-created: 2026-04-21T12:51:26.100-03:00
-modified: 2026-04-21T12:51:26.100-03:00
-tags:
-  - alias
-  - legacy
-  - bri
-  - china
-  - infraestructura
-  - tl-intel-v3
 ---
 
 # Belt and Road Initiative (BRI)

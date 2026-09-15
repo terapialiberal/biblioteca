@@ -1,17 +1,13 @@
 ---
+tipo: concepto
+título: Wall Street and the Bolshevik Revolution
+autor: Antony C. Sutton
+año: 1974
+temas: [Wall Street, Revolución Bolchevique, Financiamiento de revoluciones, Corporate Socialism]
+estado: activo
+tags: [categora-finanzas, categora-historia, categora-poltica, era-1910s, era-1970s, nivel-evidencia-documental, regin-eeuu, regin-rusia, tipo-libro]
+titulo: Wall Street and the Bolshevik Revolution
 publish: true
-created: 2026-01-29T19:05:12.041-03:00
-modified: 2026-05-02T18:26:16.588-03:00
-tags:
-  - categora-finanzas
-  - categora-historia
-  - categora-poltica
-  - era-1910s
-  - era-1970s
-  - nivel-evidencia-documental
-  - regin-eeuu
-  - regin-rusia
-  - tipo-libro
 ---
 
 # Wall Street and the Bolshevik Revolution

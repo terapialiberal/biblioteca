@@ -1,16 +1,13 @@
 ---
+titulo: Uniform Commercial Code
+tipo: concepto
+fecha: 2026-04-22
+aliases: ["UCC"]
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [ucc, uniform-commercial-code, propiedad-beneficiaria, colateral, clearing, tl-intel-v3]
 publish: true
-aliases:
-  - UCC
-created: 2026-04-22T16:50:01.965-03:00
-modified: 2026-04-22T16:50:01.965-03:00
-tags:
-  - ucc
-  - uniform-commercial-code
-  - propiedad-beneficiaria
-  - colateral
-  - clearing
-  - tl-intel-v3
 ---
 
 # Uniform Commercial Code

@@ -1,12 +1,12 @@
 ---
+titulo: "Jussie Smollett: La Manufactura Del Conflicto Racial"
+tipo: "persona"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [conflicto, george, jussie, manufactura]
 publish: true
-created: 2026-01-29T19:17:20.479-03:00
-modified: 2026-05-02T18:25:38.541-03:00
-tags:
-  - conflicto
-  - george
-  - jussie
-  - manufactura
 ---
 
 # Jussie Smollett: La Manufactura Del Conflicto Racial

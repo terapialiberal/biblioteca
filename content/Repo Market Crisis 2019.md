@@ -1,16 +1,11 @@
 ---
+titulo: Repo Market Crisis 2019
+tipo: evento
+fecha: 2026-04-22
+estado: activo
+aliases: ["Repo Market Crisis 2019: el Colapso Silencioso Que Activó la Matrix"]
+tags: [repo-market, liquidez, reserva-federal, treasuries, colateral, tl-intel-v3]
 publish: true
-aliases:
-  - "Repo Market Crisis 2019: el Colapso Silencioso Que Activó la Matrix"
-created: 2026-01-29T19:17:33.292-03:00
-modified: 2026-04-22T10:43:45.468-03:00
-tags:
-  - repo-market
-  - liquidez
-  - reserva-federal
-  - treasuries
-  - colateral
-  - tl-intel-v3
 ---
 
 # Repo Market Crisis 2019

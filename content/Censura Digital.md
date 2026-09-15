@@ -1,17 +1,10 @@
 ---
 publish: true
-aliases:
-  - Censura Digital
-  - Censura Digital / Operación Mockingbird 2.0
-  - Censura Digital / Shadowbanning
-  - Censorship-Industrial Complex
-created: 2026-05-01T20:10:33.997-03:00
-modified: 2026-05-02T18:25:15.221-03:00
-tags:
-  - concepto
-  - censura
-  - internet
-  - control
+titulo: "Censura Digital"
+aliases: ["Censura Digital", "Censura Digital / Operación Mockingbird 2.0", "Censura Digital / Shadowbanning", "Censorship-Industrial Complex"]
+tags: [concepto, censura, internet, control]
+tipo: concepto
+nivel: B
 ---
 
 # Censura Digital

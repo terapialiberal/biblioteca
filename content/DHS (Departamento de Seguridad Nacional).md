@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T13:53:51.522-03:00
-modified: 2026-04-29T13:53:51.522-03:00
-tags:
-  - seguridad
-  - eeuu
-  - vigilancia
-  - tl-intel-v3
+tipo: organizacion
+titulo: DHS (Departamento de Seguridad Nacional)
+estado: activo
+tags: [seguridad, eeuu, vigilancia, tl-intel-v3]
 ---
 
 # DHS (Departamento de Seguridad Nacional)

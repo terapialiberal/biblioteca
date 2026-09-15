@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-02-28T15:09:32.181-03:00
-modified: 2026-04-07T11:53:23.528-03:00
-tags:
-  - patrones
-  - teoria-de-juegos
-  - dilema-del-prisionero
-  - tl-v3
+tipo: concepto
+titulo: "Patrón - El Dilema del Prisionero"
+estado: procesado
+tags: [patrones, teoria-de-juegos, dilema-del-prisionero, tl-v3]
 ---
 
 # [[Patrón - El Dilema del Prisionero]]

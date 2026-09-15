@@ -1,14 +1,11 @@
 ---
+titulo: The Finders (Los Buscadores)
+tipo: alias
+fecha: 2026-04-21
+estado: legacy
+reemplazado_por: "[[The Finders]]"
+tags: [alias, legacy, finders, inteligencia, abuso, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:39.467-03:00
-modified: 2026-04-21T11:50:46.162-03:00
-tags:
-  - alias
-  - legacy
-  - finders
-  - inteligencia
-  - abuso
-  - tl-intel-v3
 ---
 
 # The Finders (Los Buscadores)

@@ -1,15 +1,11 @@
 ---
+titulo: Putin
+tipo: nodo
+fecha: 2026-05-02
+estado: activo
+aliases: ["Vladimir Putin"]
+tags: [putin, rusia, energia, ucrania, tl-intel-v3]
 publish: true
-aliases:
-  - Vladimir Putin
-created: 2026-05-01T20:40:42.364-03:00
-modified: 2026-05-02T12:57:57.838-03:00
-tags:
-  - putin
-  - rusia
-  - energia
-  - ucrania
-  - tl-intel-v3
 ---
 
 # Putin

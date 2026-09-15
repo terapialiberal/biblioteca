@@ -1,15 +1,11 @@
 ---
+titulo: Francia
+tipo: nodo
+fecha: 2026-05-02
+estado: activo
+aliases: ["Francia (Geopolítica)"]
+tags: [francia, europa, nuclear, africa, tl-intel-v3]
 publish: true
-aliases:
-  - Francia (Geopolítica)
-created: 2026-04-29T14:51:45.246-03:00
-modified: 2026-05-02T12:58:37.669-03:00
-tags:
-  - francia
-  - europa
-  - nuclear
-  - africa
-  - tl-intel-v3
 ---
 
 # Francia

@@ -1,12 +1,12 @@
 ---
+titulo: "Pentagon Papers: El Desnudo Del Engaño Imperial"
+tipo: "persona"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [daniel, engao, imperial, watergate]
 publish: true
-created: 2026-01-29T19:17:30.275-03:00
-modified: 2026-05-02T18:25:55.158-03:00
-tags:
-  - daniel
-  - engao
-  - imperial
-  - watergate
 ---
 
 # Pentagon Papers: El Desnudo Del Engaño Imperial

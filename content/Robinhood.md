@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T13:34:44.402-03:00
-modified: 2026-04-29T13:35:01.160-03:00
-tags:
-  - organizacion
-  - mercados
-  - fintech
-  - tl-intel-v3
+tipo: organizacion
+titulo: Robinhood
+estado: activo
+tags: [organizacion, mercados, fintech, tl-intel-v3]
 ---
 
 # Robinhood

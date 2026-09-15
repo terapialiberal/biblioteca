@@ -1,15 +1,12 @@
 ---
+titulo: Berkshire Hathaway (Warren Buffett)
+tipo: alias
+fecha: 2026-05-02
+estado: legacy
+reemplazado_por: [[Berkshire Hathaway]]
+aliases: ["Berkshire Hathaway (Warren Buffett)"]
+tags: [alias, legacy, berkshire, buffett, tl-intel-v3]
 publish: true
-aliases:
-  - Berkshire Hathaway (Warren Buffett)
-created: 2026-05-01T20:10:10.831-03:00
-modified: 2026-05-02T13:47:57.376-03:00
-tags:
-  - alias
-  - legacy
-  - berkshire
-  - buffett
-  - tl-intel-v3
 ---
 
 # Berkshire Hathaway (Warren Buffett)

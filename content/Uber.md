@@ -1,15 +1,11 @@
 ---
+titulo: Uber
+tipo: entidad
+fecha: 2026-05-02
+estado: activo
+aliases: ["Uber (Plataforma)"]
+tags: [uber, plataforma, movilidad, gig-economy, tl-intel-v3]
 publish: true
-aliases:
-  - Uber (Plataforma)
-created: 2026-05-01T20:38:38.529-03:00
-modified: 2026-05-02T13:03:01.219-03:00
-tags:
-  - uber
-  - plataforma
-  - movilidad
-  - gig-economy
-  - tl-intel-v3
 ---
 
 # Uber

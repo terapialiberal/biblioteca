@@ -1,12 +1,12 @@
 ---
+titulo: "Jon Rappoport: El Descodificador Del Cartel Médico"
+tipo: "persona"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [cartel, descodificador, gates, rappoport]
 publish: true
-created: 2026-01-29T19:17:20.064-03:00
-modified: 2026-05-02T18:25:37.774-03:00
-tags:
-  - cartel
-  - descodificador
-  - gates
-  - rappoport
 ---
 
 # Jon Rappoport: El Descodificador Del Cartel Médico

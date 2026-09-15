@@ -1,14 +1,12 @@
 ---
+titulo: Cargill
+tipo: entidad
+fecha: 2026-04-19
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [cargill, agroindustria, granos, logistica, alimentos, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:06.450-03:00
-modified: 2026-04-19T12:50:50.187-03:00
-tags:
-  - cargill
-  - agroindustria
-  - granos
-  - logistica
-  - alimentos
-  - tl-intel-v3
 ---
 
 # Cargill

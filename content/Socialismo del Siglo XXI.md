@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T13:34:41.467-03:00
-modified: 2026-04-29T13:34:58.353-03:00
-tags:
-  - concepto
-  - latinoamerica
-  - populismo
-  - tl-intel-v3
+tipo: concepto
+titulo: Socialismo del Siglo XXI
+estado: activo
+tags: [concepto, latinoamerica, populismo, tl-intel-v3]
 ---
 
 # Socialismo del Siglo XXI

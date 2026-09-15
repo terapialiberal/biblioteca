@@ -1,12 +1,16 @@
 ---
-publish: true
-created: 2026-01-29T19:17:33.380-03:00
-modified: 2026-04-18T18:34:45.331-03:00
+titulo: Reserva Fraccionaria
+tipo: concepto
+fecha: 2026-04-18
+tier_primario: B
+nivel_evidencia: medio
+estado: activo
 tags:
   - reserva-fraccionaria
   - banca
   - credito
   - arquitectura-financiera
+publish: true
 ---
 
 # [[Reserva Fraccionaria]]

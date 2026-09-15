@@ -1,16 +1,13 @@
 ---
+titulo: Nuevo Bretton Woods
+aliases: ["Bretton Woods 2", "Bretton Woods post-dolar"]
+tipo: concepto
+fecha: 2026-04-20
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [nuevo-bretton-woods, sistema-monetario, dolar, reset, tl-intel-v3]
 publish: true
-aliases:
-  - Bretton Woods 2
-  - Bretton Woods post-dolar
-created: 2026-01-29T19:17:27.567-03:00
-modified: 2026-04-22T10:34:44.564-03:00
-tags:
-  - nuevo-bretton-woods
-  - sistema-monetario
-  - dolar
-  - reset
-  - tl-intel-v3
 ---
 
 # Nuevo Bretton Woods

@@ -1,14 +1,10 @@
 ---
 publish: true
-aliases:
-  - Bloomberg
-created: 2026-05-01T18:54:54.344-03:00
-modified: 2026-05-02T18:25:13.605-03:00
-tags:
-  - empresa
-  - medios
-  - finanzas
-  - datos
+titulo: "Bloomberg"
+aliases: ["Bloomberg"]
+tags: [empresa, medios, finanzas, datos]
+tipo: empresa
+nivel: B
 ---
 
 # Bloomberg LP

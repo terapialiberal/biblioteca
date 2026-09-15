@@ -1,12 +1,12 @@
 ---
+titulo: "Andrew Mountbatten-Windsor: El Activo Real Capturado"
+tipo: "persona"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "alto"
+estado: activo
+tags: [andrew, archivos, jeffrey, real]
 publish: true
-created: 2026-02-25T17:52:57.401-03:00
-modified: 2026-05-02T18:24:16.832-03:00
-tags:
-  - andrew
-  - archivos
-  - jeffrey
-  - real
 ---
 
 # Andrew Mountbatten-Windsor: El Activo Real Capturado

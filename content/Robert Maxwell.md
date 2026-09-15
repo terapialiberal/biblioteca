@@ -1,13 +1,17 @@
 ---
-publish: true
-created: 2026-01-29T19:17:34.185-03:00
-modified: 2026-04-18T18:34:45.384-03:00
+titulo: Robert Maxwell
+tipo: persona
+fecha: 2026-04-18
+tier_primario: A
+nivel_evidencia: medio
+estado: activo
 tags:
   - robert-maxwell
   - inteligencia
   - medios
   - mossad
   - tl-intel-v3
+publish: true
 ---
 
 # [[Robert Maxwell]]

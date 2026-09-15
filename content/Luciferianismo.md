@@ -1,15 +1,13 @@
 ---
+titulo: Luciferianismo
+tipo: concepto
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Luciferianismo: El Inversionismo Moral De La Elite"]
+tags: [luciferianismo, esoterismo, gnosis, inversion-moral, tl-intel-v3]
 publish: true
-aliases:
-  - "Luciferianismo: El Inversionismo Moral De La Elite"
-created: 2026-01-29T19:17:23.058-03:00
-modified: 2026-04-18T18:24:42.765-03:00
-tags:
-  - luciferianismo
-  - esoterismo
-  - gnosis
-  - inversion-moral
-  - tl-intel-v3
 ---
 
 # Luciferianismo

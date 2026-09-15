@@ -1,14 +1,12 @@
 ---
+titulo: Digital Yuan Expansion
+tipo: concepto
+fecha: 2026-04-19
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [digital-yuan, e-cny, china, cbdc, pagos, tl-intel-v3]
 publish: true
-created: 2026-02-25T16:07:00.901-03:00
-modified: 2026-04-22T09:59:41.679-03:00
-tags:
-  - digital-yuan
-  - e-cny
-  - china
-  - cbdc
-  - pagos
-  - tl-intel-v3
 ---
 
 # Digital Yuan Expansion

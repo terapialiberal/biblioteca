@@ -1,14 +1,12 @@
 ---
+titulo: Breakthrough Energy
+tipo: entidad
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [breakthrough-energy, clima, energia, bill-gates, filantrocapitalismo, tl-intel-v3]
 publish: true
-created: 2026-03-04T19:45:25.947-03:00
-modified: 2026-04-18T10:38:56.042-03:00
-tags:
-  - breakthrough-energy
-  - clima
-  - energia
-  - bill-gates
-  - filantrocapitalismo
-  - tl-intel-v3
 ---
 
 # Breakthrough Energy

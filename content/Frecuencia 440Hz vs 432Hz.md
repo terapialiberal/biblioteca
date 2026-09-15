@@ -1,17 +1,13 @@
 ---
+titulo: Frecuencia 440Hz vs 432Hz
+tipo: concepto
+fecha: 2026-04-27
+estado: activo
+aliases: ["Frecuencia 440Hz Vs 432Hz", "432Hz vs 440Hz"]
+tags: [432hz, 440hz, musica, afinacion, simbolismo, tl-intel-v3]
+tier_primario: c
+nivel_evidencia: bajo
 publish: true
-aliases:
-  - Frecuencia 440Hz Vs 432Hz
-  - 432Hz vs 440Hz
-created: 2026-02-25T22:08:57.804-03:00
-modified: 2026-04-27T10:36:06.749-03:00
-tags:
-  - 432hz
-  - 440hz
-  - musica
-  - afinacion
-  - simbolismo
-  - tl-intel-v3
 ---
 
 # Frecuencia 440Hz vs 432Hz

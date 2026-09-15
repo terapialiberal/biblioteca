@@ -1,14 +1,12 @@
 ---
+titulo: Feminismo e Inteligencia
+tipo: concepto
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [feminismo, inteligencia, ingenieria-social, cultura, cia, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:13.574-03:00
-modified: 2026-04-29T13:34:51.822-03:00
-tags:
-  - feminismo
-  - inteligencia
-  - ingenieria-social
-  - cultura
-  - cia
-  - tl-intel-v3
 ---
 
 # Feminismo e Inteligencia

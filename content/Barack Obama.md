@@ -1,13 +1,12 @@
 ---
 publish: true
-created: 2026-01-29T19:17:04.802-03:00
-modified: 2026-04-07T14:42:26.888-03:00
-tags:
-  - barack-obama
-  - presidencia-eeuu
-  - vigilancia-masiva
-  - agencia-inteligencia
-  - guerra-drones
+titulo: Barack Obama
+tipo: persona
+fecha: 2026-02-25T00:00:00.000Z
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [barack-obama, presidencia-eeuu, vigilancia-masiva, agencia-inteligencia, guerra-drones]
 ---
 
 # Barack Obama

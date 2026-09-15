@@ -1,12 +1,12 @@
 ---
+titulo: "Laurel Canyon: El Fabricante De La Rebeldía Programada"
+tipo: "persona"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [canyon, golfo, laurel, tavistock]
 publish: true
-created: 2026-01-29T19:17:21.964-03:00
-modified: 2026-05-02T18:25:42.370-03:00
-tags:
-  - canyon
-  - golfo
-  - laurel
-  - tavistock
 ---
 
 # Laurel Canyon: El Fabricante De La Rebeldía Programada

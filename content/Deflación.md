@@ -1,16 +1,13 @@
 ---
+titulo: Deflación
+tipo: concepto
+fecha: 2026-05-02
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Deflacion", "Deflación (Fenómeno)"]
+tags: [deflacion, deuda, crisis, liquidez, tl-intel-v3]
 publish: true
-aliases:
-  - Deflacion
-  - Deflación (Fenómeno)
-created: 2026-05-01T20:45:46.176-03:00
-modified: 2026-05-02T12:22:03.197-03:00
-tags:
-  - deflacion
-  - deuda
-  - crisis
-  - liquidez
-  - tl-intel-v3
 ---
 
 # Deflación

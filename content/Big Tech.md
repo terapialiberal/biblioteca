@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:05:24.613-03:00
-modified: 2026-04-29T14:05:36.807-03:00
-tags:
-  - plataformas
-  - tecnologia
-  - poder-corporativo
-  - tl-intel-v3
+tipo: bloque
+titulo: Big Tech
+estado: activo
+tags: [plataformas, tecnologia, poder-corporativo, tl-intel-v3]
 ---
 
 # Big Tech

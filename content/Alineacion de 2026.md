@@ -1,15 +1,13 @@
 ---
+titulo: Alineacion de 2026
+tipo: evento
+fecha: 2026-04-27
+estado: activo
+aliases: ["Alineación De 2026"]
+tags: [2026, alineacion, ciclos, narrativa-profetica, tl-intel-v3]
+tier_primario: c
+nivel_evidencia: bajo
 publish: true
-aliases:
-  - Alineación De 2026
-created: 2026-02-25T22:08:55.871-03:00
-modified: 2026-04-27T10:53:37.807-03:00
-tags:
-  - 2026
-  - alineacion
-  - ciclos
-  - narrativa-profetica
-  - tl-intel-v3
 ---
 
 # Alineacion de 2026

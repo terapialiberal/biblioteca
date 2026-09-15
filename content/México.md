@@ -1,16 +1,11 @@
 ---
+titulo: México
+tipo: nodo
+fecha: 2026-05-02
+estado: activo
+aliases: ["Mexico", "México (Geopolítica)"]
+tags: [mexico, norteamerica, carteles, frontera, tl-intel-v3]
 publish: true
-aliases:
-  - Mexico
-  - México (Geopolítica)
-created: 2026-04-29T14:51:45.509-03:00
-modified: 2026-05-02T12:54:42.967-03:00
-tags:
-  - mexico
-  - norteamerica
-  - carteles
-  - frontera
-  - tl-intel-v3
 ---
 
 # México

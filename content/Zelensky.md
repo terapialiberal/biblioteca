@@ -1,16 +1,11 @@
 ---
+titulo: Zelensky
+tipo: nodo
+fecha: 2026-05-02
+estado: activo
+aliases: ["Volodymyr Zelensky", "Zelenskyy"]
+tags: [zelensky, ucrania, guerra, otan, tl-intel-v3]
 publish: true
-aliases:
-  - Volodymyr Zelensky
-  - Zelenskyy
-created: 2026-05-01T20:41:22.042-03:00
-modified: 2026-05-02T12:57:57.186-03:00
-tags:
-  - zelensky
-  - ucrania
-  - guerra
-  - otan
-  - tl-intel-v3
 ---
 
 # Zelensky

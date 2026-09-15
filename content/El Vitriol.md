@@ -1,16 +1,13 @@
 ---
+titulo: El Vitriol
+tipo: concepto
+fecha: 2026-04-27
+estado: activo
+aliases: ["VITRIOL"]
+tags: [vitriol, alquimia, introspeccion, simbolismo, esoterismo, tl-intel-v3]
+tier_primario: c
+nivel_evidencia: medio
 publish: true
-aliases:
-  - VITRIOL
-created: 2026-02-25T22:08:53.168-03:00
-modified: 2026-04-27T10:10:20.921-03:00
-tags:
-  - vitriol
-  - alquimia
-  - introspeccion
-  - simbolismo
-  - esoterismo
-  - tl-intel-v3
 ---
 
 # El Vitriol

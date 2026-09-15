@@ -1,15 +1,11 @@
 ---
+titulo: Thatcher
+tipo: nodo
+fecha: 2026-05-02
+estado: activo
+aliases: ["Margaret Thatcher"]
+tags: [thatcher, reino-unido, neoliberalismo, privatizacion, tl-intel-v3]
 publish: true
-aliases:
-  - Margaret Thatcher
-created: 2026-05-01T20:41:10.485-03:00
-modified: 2026-05-02T13:01:42.642-03:00
-tags:
-  - thatcher
-  - reino-unido
-  - neoliberalismo
-  - privatizacion
-  - tl-intel-v3
 ---
 
 # Thatcher

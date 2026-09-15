@@ -1,13 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:45:28.868-03:00
-modified: 2026-04-29T14:45:28.868-03:00
-tags:
-  - energia
-  - nuclear
-  - ia
-  - infraestructura
-  - tl-intel-v3
+tipo: entidad
+titulo: Oklo
+estado: activo
+tags: [energia, nuclear, ia, infraestructura, tl-intel-v3]
 ---
 
 # Oklo

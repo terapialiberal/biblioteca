@@ -1,14 +1,14 @@
 ---
 publish: true
-created: 2026-03-04T19:56:59.211-03:00
-modified: 2026-05-02T18:25:18.151-03:00
-tags:
-  - legacy
-  - alias
-  - frankismo
-  - sabateismo
-  - wikipedia
-  - tl-intel-v3
+titulo: "El frankismo"
+descripcion: "Alias legacy para absorber import crudo y naming enciclopedico sobre frankismo."
+link: "https://en.wikipedia.org/wiki/Frankism"
+tipo: alias
+estado: legacy
+reemplazado_por: [[Sabateismo-Frankismo]]
+fecha: 2026-05-02
+tier:
+tags: [legacy, alias, frankismo, sabateismo, wikipedia, tl-intel-v3]
 ---
 
 # El frankismo

@@ -1,12 +1,12 @@
 ---
+titulo: "Operación Sunrise: El Pacto Secreto De La Impunidad"
+tipo: "evento"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [impunidad, pacto, secreto, sunrise]
 publish: true
-created: 2026-01-29T19:17:28.928-03:00
-modified: 2026-05-02T18:25:52.702-03:00
-tags:
-  - impunidad
-  - pacto
-  - secreto
-  - sunrise
 ---
 
 # Operación Sunrise: El Pacto Secreto De La Impunidad

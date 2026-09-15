@@ -1,15 +1,13 @@
 ---
+titulo: Magia de Salon en Politica
+tipo: concepto
+fecha: 2026-04-27
+estado: activo
+aliases: ["Magia De Salón En Política"]
+tags: [magia-de-salon, politica, espectaculo, propaganda, tl-intel-v3]
+tier_primario: b
+nivel_evidencia: medio
 publish: true
-aliases:
-  - Magia De Salón En Política
-created: 2026-02-25T22:08:56.339-03:00
-modified: 2026-04-27T11:10:06.681-03:00
-tags:
-  - magia-de-salon
-  - politica
-  - espectaculo
-  - propaganda
-  - tl-intel-v3
 ---
 
 # Magia de Salon en Politica

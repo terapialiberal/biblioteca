@@ -1,15 +1,11 @@
 ---
+titulo: Mackinder
+tipo: nodo
+fecha: 2026-05-02
+estado: activo
+aliases: ["Halford Mackinder"]
+tags: [mackinder, heartland, geopolitica, eurasia, tl-intel-v3]
 publish: true
-aliases:
-  - Halford Mackinder
-created: 2026-05-01T20:16:36.632-03:00
-modified: 2026-05-02T13:44:42.391-03:00
-tags:
-  - mackinder
-  - heartland
-  - geopolitica
-  - eurasia
-  - tl-intel-v3
 ---
 
 # Mackinder

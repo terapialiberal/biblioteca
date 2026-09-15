@@ -1,13 +1,13 @@
 ---
+titulo: "Precedente"
 publish: true
-created: 2026-01-29T19:17:31.193-03:00
-modified: 2026-04-07T12:08:30.206-03:00
-tags:
-  - precedente
-  - metodo
-  - patrones
-  - historia
-  - tl-intel-v3
+tipo: concepto
+fecha: 2026-04-07
+tier_primario: B
+moc_canonico: [[00_MOC - Patrones Clasicos de Poder]]
+estado: activo
+fuentes_clave: []
+tags: [precedente, metodo, patrones, historia, tl-intel-v3]
 ---
 
 # [[Precedente]]

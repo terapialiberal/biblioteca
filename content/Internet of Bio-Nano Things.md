@@ -1,16 +1,13 @@
 ---
+titulo: Internet of Bio-Nano Things
+tipo: concepto
+fecha: 2026-04-17
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Internet of Bio-Nano Things (IoBNT)", "IoBNT"]
+tags: [iobnt, nano, bio-digital, vigilancia-molecular, tl-intel-v3]
 publish: true
-aliases:
-  - Internet of Bio-Nano Things (IoBNT)
-  - IoBNT
-created: 2026-01-29T19:17:18.665-03:00
-modified: 2026-04-22T16:58:31.060-03:00
-tags:
-  - iobnt
-  - nano
-  - bio-digital
-  - vigilancia-molecular
-  - tl-intel-v3
 ---
 
 # Internet of Bio-Nano Things

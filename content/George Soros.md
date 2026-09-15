@@ -1,14 +1,12 @@
 ---
+titulo: George Soros
+tipo: persona
+fecha: 2026-04-24
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [george-soros, open-society, soft-power, filantrocapitalismo, cambio-de-regimen, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:15.150-03:00
-modified: 2026-04-24T10:46:56.945-03:00
-tags:
-  - george-soros
-  - open-society
-  - soft-power
-  - filantrocapitalismo
-  - cambio-de-regimen
-  - tl-intel-v3
 ---
 
 # George Soros

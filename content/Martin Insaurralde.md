@@ -1,14 +1,15 @@
 ---
-publish: true
+titulo: Martin Insaurralde
 aliases:
   - Martín Insaurralde
-created: 2026-01-29T19:17:24.114-03:00
-modified: 2026-04-07T13:13:59.302-03:00
+tipo: persona
+estado: activo
 tags:
   - persona
   - argentina
   - provincia-de-buenos-aires
   - casta
+publish: true
 ---
 
 # Martin Insaurralde

@@ -1,16 +1,13 @@
 ---
+titulo: Fundacion Rockefeller
+tipo: entidad
+fecha: 2026-04-17
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Fundación Rockefeller", "Rockefeller Foundation"]
+tags: [rockefeller-foundation, salud-global, agricultura, filantrocapitalismo, tl-intel-v3]
 publish: true
-aliases:
-  - Fundación Rockefeller
-  - Rockefeller Foundation
-created: 2026-01-29T19:17:14.535-03:00
-modified: 2026-04-17T20:12:45.557-03:00
-tags:
-  - rockefeller-foundation
-  - salud-global
-  - agricultura
-  - filantrocapitalismo
-  - tl-intel-v3
 ---
 
 # Fundacion Rockefeller

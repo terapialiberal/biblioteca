@@ -1,17 +1,11 @@
 ---
+titulo: UE
+tipo: nodo
+fecha: 2026-05-02
+estado: activo
+aliases: ["Union Europea", "Unión Europea", "European Union"]
+tags: [ue, europa, tecnocracia, integracion, tl-intel-v3]
 publish: true
-aliases:
-  - Union Europea
-  - Unión Europea
-  - European Union
-created: 2026-05-01T20:13:27.781-03:00
-modified: 2026-05-02T13:46:33.443-03:00
-tags:
-  - ue
-  - europa
-  - tecnocracia
-  - integracion
-  - tl-intel-v3
 ---
 
 # UE

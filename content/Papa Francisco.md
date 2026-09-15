@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T13:56:38.537-03:00
-modified: 2026-04-29T13:56:38.537-03:00
-tags:
-  - vaticano
-  - argentina
-  - iglesia
-  - tl-intel-v3
+tipo: actor
+titulo: Papa Francisco
+estado: activo
+tags: [vaticano, argentina, iglesia, tl-intel-v3]
 ---
 
 # Papa Francisco

@@ -1,15 +1,12 @@
 ---
+titulo: Gold Backed CBDC - Pilot
+tipo: concepto
+fecha: 2026-04-24
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [cbdc, oro, pagos-transfronterizos, rusia, iran, desdolarizacion, tl-intel-v3]
 publish: true
-created: 2026-02-09T17:26:09.520-03:00
-modified: 2026-04-24T12:18:24.024-03:00
-tags:
-  - cbdc
-  - oro
-  - pagos-transfronterizos
-  - rusia
-  - iran
-  - desdolarizacion
-  - tl-intel-v3
 ---
 
 # Gold Backed CBDC - Pilot

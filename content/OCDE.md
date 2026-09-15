@@ -1,16 +1,11 @@
 ---
+titulo: OCDE
+tipo: entidad
+fecha: 2026-05-02
+estado: activo
+aliases: ["OCDE", "OECD"]
+tags: [ocde, economia, impuestos, gobernanza, tl-intel-v3]
 publish: true
-aliases:
-  - OCDE
-  - OECD
-created: 2026-05-01T20:15:03.309-03:00
-modified: 2026-05-02T13:45:56.272-03:00
-tags:
-  - ocde
-  - economia
-  - impuestos
-  - gobernanza
-  - tl-intel-v3
 ---
 
 # OCDE

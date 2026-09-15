@@ -2,13 +2,14 @@
 publish: true
 aliases:
   - Aldo Moro
-created: 2026-05-01T18:53:56.079-03:00
-modified: 2026-05-02T18:25:11.151-03:00
 tags:
   - actor
   - italia
   - democracia-cristiana
   - gladio
+tipo: actor
+nivel: B
+titulo: Aldo Moro
 ---
 
 # Aldo Moro

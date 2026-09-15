@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T13:53:50.713-03:00
-modified: 2026-04-29T13:53:50.713-03:00
-tags:
-  - terrorismo
-  - seguridad
-  - estado-de-excepcion
-  - tl-intel-v3
+tipo: evento
+titulo: Atentados del 11 de Septiembre
+estado: activo
+tags: [terrorismo, seguridad, estado-de-excepcion, tl-intel-v3]
 ---
 
 # Atentados del 11 de Septiembre

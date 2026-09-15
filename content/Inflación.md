@@ -1,16 +1,13 @@
 ---
+titulo: Inflación
+tipo: concepto
+fecha: 2026-05-02
+tier_primario: b
+nivel_evidencia: alto
+estado: activo
+aliases: ["Inflacion", "Inflación (Mecanismo)"]
+tags: [inflacion, moneda, deuda, control-financiero, tl-intel-v3]
 publish: true
-aliases:
-  - Inflacion
-  - Inflación (Mecanismo)
-created: 2026-04-27T12:03:17.398-03:00
-modified: 2026-05-02T12:22:02.795-03:00
-tags:
-  - inflacion
-  - moneda
-  - deuda
-  - control-financiero
-  - tl-intel-v3
 ---
 
 # Inflación

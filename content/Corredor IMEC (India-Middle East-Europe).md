@@ -1,12 +1,14 @@
 ---
 publish: true
-created: 2026-04-29T14:09:22.208-03:00
-modified: 2026-05-02T14:14:43.113-03:00
+tipo: alias
+titulo: Corredor IMEC (India-Middle East-Europe)
+estado: activo
 tags:
   - alias
   - rutas
   - rimland
   - tl-intel-v3
+reemplazado_por: '[[Corredor IMEC]]'
 ---
 
 # Corredor IMEC (India-Middle East-Europe)

@@ -1,11 +1,12 @@
 ---
 publish: true
-created: 2026-01-29T19:17:06.675-03:00
-modified: 2026-04-07T10:48:03.409-03:00
-tags:
-  - cartel
-  - hsbc
-  - sinaloa
+titulo: Cartel De Sinaloa
+tipo: evento
+fecha: 2026-02-25
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [cartel, hsbc, sinaloa]
 ---
 
 # Cartel De Sinaloa

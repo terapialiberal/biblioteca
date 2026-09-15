@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T13:21:44.737-03:00
-modified: 2026-04-29T13:28:14.944-03:00
-tags:
-  - historia
-  - imperio
-  - finanzas
-  - tl-intel-v3
+tipo: estructura-historica
+titulo: Imperio Británico
+estado: activo
+tags: [historia, imperio, finanzas, tl-intel-v3]
 ---
 
 # Imperio Británico

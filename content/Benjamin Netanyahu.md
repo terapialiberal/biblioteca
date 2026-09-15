@@ -1,18 +1,13 @@
 ---
+titulo: Benjamin Netanyahu
+tipo: persona
+fecha: 2026-04-18
+vigencia: 2026-06-17
+estado: activo
+aliases: ["Bibi Netanyahu", "Bibi"]
+tags: [benjamin-netanyahu, israel, gaza, iran, lobby, escalada, tl-intel-v3]
 publish: true
-aliases:
-  - Bibi Netanyahu
-  - Bibi
-created: 2026-01-29T19:17:05.174-03:00
-modified: 2026-06-30T21:11:47.268-03:00
-tags:
-  - benjamin-netanyahu
-  - israel
-  - gaza
-  - iran
-  - lobby
-  - escalada
-  - tl-intel-v3
+last_stream: "[[06_Videos_Publicados/2026/2026-06-17_Endgame_Ormuz/POSTMORTEM_INTEL|Endgame de Ormuz]]"
 ---
 
 # Benjamin Netanyahu

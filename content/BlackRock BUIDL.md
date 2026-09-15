@@ -1,14 +1,12 @@
 ---
+titulo: BlackRock BUIDL
+tipo: entidad
+fecha: 2026-04-19
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [blackrock-buidl, blackrock, rwa, tokenizacion, liquidez, tl-intel-v3]
 publish: true
-created: 2026-02-25T13:31:41.057-03:00
-modified: 2026-04-22T16:40:48.910-03:00
-tags:
-  - blackrock-buidl
-  - blackrock
-  - rwa
-  - tokenizacion
-  - liquidez
-  - tl-intel-v3
 ---
 
 # BlackRock BUIDL

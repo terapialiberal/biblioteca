@@ -1,13 +1,13 @@
 ---
+titulo: "La Torre de Babel"
 publish: true
-created: 2026-01-29T19:17:21.634-03:00
-modified: 2026-04-07T12:10:17.074-03:00
-tags:
-  - babel
-  - centralizacion
-  - simbolismo
-  - universalismo
-  - tl-intel-v3
+tipo: concepto
+fecha: 2026-04-07
+tier_primario: B
+moc_canonico: [[00_MOC - Simbolismo y Esoterismo]]
+estado: activo
+fuentes_clave: []
+tags: [babel, centralizacion, simbolismo, universalismo, tl-intel-v3]
 ---
 
 # [[La Torre de Babel]]

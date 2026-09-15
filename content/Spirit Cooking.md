@@ -1,17 +1,13 @@
 ---
+titulo: Spirit Cooking
+tipo: concepto
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Spirit Cooking: la Liturgia Sangrienta del Poder Global", "Marina Abramović y el Spirit Cooking", "Marina Abramovic y el Spirit Cooking"]
+tags: [spirit-cooking, pizzagate, simbolismo, ritual, wikileaks]
 publish: true
-aliases:
-  - "Spirit Cooking: la Liturgia Sangrienta del Poder Global"
-  - Marina Abramović y el Spirit Cooking
-  - Marina Abramovic y el Spirit Cooking
-created: 2026-01-29T19:17:37.682-03:00
-modified: 2026-04-18T17:40:46.763-03:00
-tags:
-  - spirit-cooking
-  - pizzagate
-  - simbolismo
-  - ritual
-  - wikileaks
 ---
 
 # Spirit Cooking

@@ -1,14 +1,12 @@
 ---
+titulo: Valar Ventures
+tipo: organizacion
+fecha: 2026-04-20
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [valar-ventures, venture-capital, fintech, peter-thiel, networks, tl-intel-v3]
 publish: true
-created: 2026-04-20T10:33:15.283-03:00
-modified: 2026-04-20T10:42:14.518-03:00
-tags:
-  - valar-ventures
-  - venture-capital
-  - fintech
-  - peter-thiel
-  - networks
-  - tl-intel-v3
 ---
 
 # Valar Ventures

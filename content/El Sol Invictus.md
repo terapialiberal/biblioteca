@@ -1,17 +1,13 @@
 ---
+titulo: El Sol Invictus
+tipo: concepto
+fecha: 2026-04-27
+estado: activo
+aliases: ["Sol Invictus", "Sol Invicto"]
+tags: [sol-invictus, simbolismo, roma, culto-solar, legitimacion, tl-intel-v3]
+tier_primario: c
+nivel_evidencia: alto
 publish: true
-aliases:
-  - Sol Invictus
-  - Sol Invicto
-created: 2026-02-25T22:08:54.680-03:00
-modified: 2026-04-27T10:24:12.931-03:00
-tags:
-  - sol-invictus
-  - simbolismo
-  - roma
-  - culto-solar
-  - legitimacion
-  - tl-intel-v3
 ---
 
 # El Sol Invictus

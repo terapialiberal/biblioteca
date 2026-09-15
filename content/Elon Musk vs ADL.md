@@ -1,16 +1,13 @@
 ---
+titulo: Elon Musk vs ADL
+tipo: evento
+fecha: 2026-04-20
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Elon Musk Vs ADL (Anti-Defamation League)"]
+tags: [elon-musk, adl, x, anunciantes, censura, tl-intel-v3]
 publish: true
-aliases:
-  - Elon Musk Vs ADL (Anti-Defamation League)
-created: 2026-01-29T19:17:11.743-03:00
-modified: 2026-04-20T10:19:45.769-03:00
-tags:
-  - elon-musk
-  - adl
-  - x
-  - anunciantes
-  - censura
-  - tl-intel-v3
 ---
 
 # Elon Musk vs ADL

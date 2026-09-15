@@ -1,16 +1,11 @@
 ---
+titulo: Lloyds
+tipo: entidad
+fecha: 2026-05-02
+estado: activo
+aliases: ["Lloyds of London", "Lloyd's"]
+tags: [lloyds, seguros, city-londres, riesgo, tl-intel-v3]
 publish: true
-aliases:
-  - Lloyds of London
-  - Lloyd's
-created: 2026-05-01T20:15:57.612-03:00
-modified: 2026-05-02T13:45:17.736-03:00
-tags:
-  - lloyds
-  - seguros
-  - city-londres
-  - riesgo
-  - tl-intel-v3
 ---
 
 # Lloyds

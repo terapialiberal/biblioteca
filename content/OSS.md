@@ -1,14 +1,12 @@
 ---
+titulo: OSS
+tipo: concepto
+fecha: 2026-04-19
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [oss, inteligencia, cia, segunda-guerra-mundial, operaciones-encubiertas, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:29.383-03:00
-modified: 2026-04-22T11:33:57.407-03:00
-tags:
-  - oss
-  - inteligencia
-  - cia
-  - segunda-guerra-mundial
-  - operaciones-encubiertas
-  - tl-intel-v3
 ---
 
 # OSS

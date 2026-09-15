@@ -1,16 +1,11 @@
 ---
+titulo: ISIS
+tipo: entidad
+fecha: 2026-05-02
+estado: activo
+aliases: ["Daesh", "Estado Islámico"]
+tags: [isis, terrorismo, medio-oriente, yihadismo, tl-intel-v3]
 publish: true
-aliases:
-  - Daesh
-  - Estado Islámico
-created: 2026-05-01T20:14:57.484-03:00
-modified: 2026-05-02T13:45:56.365-03:00
-tags:
-  - isis
-  - terrorismo
-  - medio-oriente
-  - yihadismo
-  - tl-intel-v3
 ---
 
 # ISIS

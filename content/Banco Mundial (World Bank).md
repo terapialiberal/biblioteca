@@ -1,16 +1,12 @@
 ---
+titulo: Banco Mundial (World Bank)
+tipo: alias
+fecha: 2026-05-02
+estado: legacy
+reemplazado_por: [[Banco Mundial]]
+aliases: ["Banco Mundial (World Bank)", "World Bank"]
+tags: [alias, legacy, banco-mundial, desarrollo, tl-intel-v3]
 publish: true
-aliases:
-  - Banco Mundial (World Bank)
-  - World Bank
-created: 2026-05-01T18:52:45.202-03:00
-modified: 2026-05-02T13:53:47.364-03:00
-tags:
-  - alias
-  - legacy
-  - banco-mundial
-  - desarrollo
-  - tl-intel-v3
 ---
 
 # Banco Mundial (World Bank)

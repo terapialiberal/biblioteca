@@ -1,14 +1,12 @@
 ---
+titulo: Citizen Lab
+tipo: entidad
+fecha: 2026-04-22
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [citizen-lab, vigilancia, spyware, investigacion, atribucion, tl-intel-v3]
 publish: true
-created: 2026-04-22T16:21:54.958-03:00
-modified: 2026-04-22T16:27:33.150-03:00
-tags:
-  - citizen-lab
-  - vigilancia
-  - spyware
-  - investigacion
-  - atribucion
-  - tl-intel-v3
 ---
 
 # Citizen Lab

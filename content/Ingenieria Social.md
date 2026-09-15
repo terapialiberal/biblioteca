@@ -1,14 +1,12 @@
 ---
+titulo: Ingenieria Social
+tipo: concepto
+fecha: 2026-04-21
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [ingenieria-social, conducta, percepcion, gobernanza, manipulacion, tl-intel-v3]
 publish: true
-created: 2026-04-21T13:18:03.508-03:00
-modified: 2026-04-21T13:18:03.508-03:00
-tags:
-  - ingenieria-social
-  - conducta
-  - percepcion
-  - gobernanza
-  - manipulacion
-  - tl-intel-v3
 ---
 
 # Ingenieria Social

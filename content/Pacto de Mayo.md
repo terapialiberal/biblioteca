@@ -1,12 +1,12 @@
 ---
+titulo: "Pacto De Mayo: El Decálogo Liberal De La Matrix"
+tipo: "concepto"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [declogo, matrix, mayo, pacto]
 publish: true
-created: 2026-01-29T19:17:29.559-03:00
-modified: 2026-05-02T18:25:53.870-03:00
-tags:
-  - declogo
-  - matrix
-  - mayo
-  - pacto
 ---
 
 # Pacto De Mayo: El Decálogo Liberal De La Matrix

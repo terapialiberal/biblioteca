@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:05:26.278-03:00
-modified: 2026-04-29T14:05:43.309-03:00
-tags:
-  - materias-primas
-  - mercados
-  - recursos
-  - tl-intel-v3
+tipo: concepto
+titulo: Commodities
+estado: activo
+tags: [materias-primas, mercados, recursos, tl-intel-v3]
 ---
 
 # Commodities

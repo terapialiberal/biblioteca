@@ -1,15 +1,11 @@
 ---
+titulo: Lenin
+tipo: nodo
+fecha: 2026-05-02
+estado: activo
+aliases: ["Vladimir Lenin"]
+tags: [lenin, urss, revolucion, comunismo, tl-intel-v3]
 publish: true
-aliases:
-  - Vladimir Lenin
-created: 2026-05-01T20:40:39.676-03:00
-modified: 2026-05-02T13:01:42.825-03:00
-tags:
-  - lenin
-  - urss
-  - revolucion
-  - comunismo
-  - tl-intel-v3
 ---
 
 # Lenin

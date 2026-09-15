@@ -1,17 +1,13 @@
 ---
+titulo: Bailout
+tipo: concepto
+fecha: 2026-05-02
+tier_primario: b
+nivel_evidencia: alto
+estado: activo
+aliases: ["Bailout (Rescate Financiero)", "Rescate financiero"]
+tags: [bailout, rescate, banca, moral-hazard, control-financiero, tl-intel-v3]
 publish: true
-aliases:
-  - Bailout (Rescate Financiero)
-  - Rescate financiero
-created: 2026-05-01T20:45:56.726-03:00
-modified: 2026-05-02T12:22:03.968-03:00
-tags:
-  - bailout
-  - rescate
-  - banca
-  - moral-hazard
-  - control-financiero
-  - tl-intel-v3
 ---
 
 # Bailout

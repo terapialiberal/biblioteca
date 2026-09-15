@@ -1,13 +1,10 @@
 ---
 publish: true
-aliases:
-  - Larry Silverstein
-created: 2026-05-01T18:46:55.067-03:00
-modified: 2026-05-02T18:25:42.005-03:00
-tags:
-  - actor
-  - bienes-raices
-  - 9-11
+titulo: "Larry Silverstein"
+aliases: ["Larry Silverstein"]
+tags: [actor, bienes-raices, 9-11]
+tipo: actor
+nivel: C
 ---
 
 # Larry Silverstein

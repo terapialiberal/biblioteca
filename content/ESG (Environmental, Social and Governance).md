@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:09:28.444-03:00
-modified: 2026-04-29T14:09:50.431-03:00
-tags:
-  - esg
-  - finanzas
-  - gobernanza-corporativa
-  - tl-intel-v3
+tipo: concepto
+titulo: ESG (Environmental, Social and Governance)
+estado: activo
+tags: [esg, finanzas, gobernanza-corporativa, tl-intel-v3]
 ---
 
 # ESG (Environmental, Social and Governance)

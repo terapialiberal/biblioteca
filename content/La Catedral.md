@@ -1,12 +1,12 @@
 ---
+titulo: "La Catedral: El Sistema De Control Descentralizado"
+tipo: "persona"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [curtis, descentralizado, hegemona, sistema]
 publish: true
-created: 2026-01-29T19:17:21.044-03:00
-modified: 2026-05-02T18:25:40.107-03:00
-tags:
-  - curtis
-  - descentralizado
-  - hegemona
-  - sistema
 ---
 
 # La Catedral: El Sistema De Control Descentralizado

@@ -1,12 +1,12 @@
 ---
+titulo: "Laboratorios Richmond: El Puerto Sanitario De La Geopolítica"
+tipo: "entidad"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [geopoltica, marcelo, puerto, sanitario]
 publish: true
-created: 2026-01-29T19:17:21.739-03:00
-modified: 2026-05-02T18:25:41.642-03:00
-tags:
-  - geopoltica
-  - marcelo
-  - puerto
-  - sanitario
 ---
 
 # Laboratorios Richmond: El Puerto Sanitario De La Geopolítica

@@ -1,14 +1,12 @@
 ---
+titulo: E. Howard Hunt
+tipo: persona
+fecha: 2026-04-19
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [e-howard-hunt, cia, watergate, operaciones-encubiertas, jfk, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:10.772-03:00
-modified: 2026-04-19T13:22:51.570-03:00
-tags:
-  - e-howard-hunt
-  - cia
-  - watergate
-  - operaciones-encubiertas
-  - jfk
-  - tl-intel-v3
 ---
 
 # E. Howard Hunt

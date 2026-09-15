@@ -1,14 +1,12 @@
 ---
+titulo: Cartas de Cumpleaños (Epstein)
+tipo: evento
+fecha: 2026-04-17
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [epstein, cartas, libro-de-cumpleanos, elite, kompromat, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:06.645-03:00
-modified: 2026-04-17T14:13:26.605-03:00
-tags:
-  - epstein
-  - cartas
-  - libro-de-cumpleanos
-  - elite
-  - kompromat
-  - tl-intel-v3
 ---
 
 # Cartas de Cumpleaños (Epstein)

@@ -1,15 +1,14 @@
 ---
+titulo: "Plausible Deniability"
 publish: true
-aliases:
-  - Negación Plausible
-created: 2026-01-29T19:17:30.849-03:00
-modified: 2026-04-07T11:50:10.049-03:00
-tags:
-  - plausible-deniability
-  - negacion-plausible
-  - inteligencia
-  - impunidad
-  - tl-intel-v3
+tipo: concepto
+fecha: 2026-04-07
+tier_primario: B
+moc_canonico: [[00_MOC - Operaciones Encubiertas]]
+estado: activo
+aliases: ["Negación Plausible"]
+fuentes_clave: []
+tags: [plausible-deniability, negacion-plausible, inteligencia, impunidad, tl-intel-v3]
 ---
 
 # [[Plausible Deniability]]

@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T13:34:43.841-03:00
-modified: 2026-04-29T13:34:59.906-03:00
-tags:
-  - concepto
-  - economia
-  - sostenibilidad
-  - tl-intel-v3
+tipo: concepto
+titulo: Economía Circular
+estado: activo
+tags: [concepto, economia, sostenibilidad, tl-intel-v3]
 ---
 
 # Economía Circular

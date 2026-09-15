@@ -1,15 +1,13 @@
 ---
+titulo: Ludwig von Mises
+tipo: persona
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Ludwig Von Mises: El Arquitecto De La Libertad Economica"]
+tags: [ludwig-von-mises, escuela-austriaca, praxeologia, libertad-economica, tl-intel-v3]
 publish: true
-aliases:
-  - "Ludwig Von Mises: El Arquitecto De La Libertad Economica"
-created: 2026-01-29T19:17:23.108-03:00
-modified: 2026-04-18T18:21:39.023-03:00
-tags:
-  - ludwig-von-mises
-  - escuela-austriaca
-  - praxeologia
-  - libertad-economica
-  - tl-intel-v3
 ---
 
 # Ludwig von Mises

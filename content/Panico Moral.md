@@ -1,16 +1,13 @@
 ---
+titulo: Panico Moral
+tipo: concepto
+fecha: 2026-04-27
+estado: activo
+aliases: ["Pánico Moral", "Moral panic"]
+tags: [panico-moral, propaganda, psicologia-de-masas, opinion-publica, tl-intel-v3]
+tier_primario: b
+nivel_evidencia: alto
 publish: true
-aliases:
-  - Pánico Moral
-  - Moral panic
-created: 2026-04-27T10:12:10.047-03:00
-modified: 2026-04-27T10:12:10.047-03:00
-tags:
-  - panico-moral
-  - propaganda
-  - psicologia-de-masas
-  - opinion-publica
-  - tl-intel-v3
 ---
 
 # Panico Moral

@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T13:21:45.960-03:00
-modified: 2026-04-29T13:25:26.360-03:00
-tags:
-  - agencia
-  - inteligencia
-  - reino-unido
-  - tl-intel-v3
+tipo: agencia
+titulo: MI5
+estado: activo
+tags: [agencia, inteligencia, reino-unido, tl-intel-v3]
 ---
 
 # MI5

@@ -1,12 +1,12 @@
 ---
+titulo: "Jesuitas: El Servicio De Inteligencia Trans-Histórico"
+tipo: "entidad"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [francisco, histrico, jesuitas, universidad]
 publish: true
-created: 2026-01-29T19:17:19.519-03:00
-modified: 2026-05-02T18:25:37.105-03:00
-tags:
-  - francisco
-  - histrico
-  - jesuitas
-  - universidad
 ---
 
 # Jesuitas: El Servicio De Inteligencia Trans-Histórico

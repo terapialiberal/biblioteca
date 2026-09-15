@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:09:22.658-03:00
-modified: 2026-04-29T14:09:40.648-03:00
-tags:
-  - finanzas
-  - compliance
-  - exclusion
-  - tl-intel-v3
+tipo: mecanismo
+titulo: De-banking
+estado: activo
+tags: [finanzas, compliance, exclusion, tl-intel-v3]
 ---
 
 # De-banking

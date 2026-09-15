@@ -1,16 +1,12 @@
 ---
+titulo: Vanguard Group
+tipo: alias
+fecha: 2026-04-21
+estado: legacy
+aliases: ["The Vanguard Group", "Vanguard"]
+reemplazado_por: "[[Grupo Vanguard]]"
+tags: [alias, vanguard, legacy, gestores-de-activos, tl-intel-v3]
 publish: true
-aliases:
-  - The Vanguard Group
-  - Vanguard
-created: 2026-01-29T19:17:42.828-03:00
-modified: 2026-04-27T11:15:43.403-03:00
-tags:
-  - alias
-  - vanguard
-  - legacy
-  - gestores-de-activos
-  - tl-intel-v3
 ---
 
 # Vanguard Group

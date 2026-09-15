@@ -1,16 +1,13 @@
 ---
+titulo: Alliance for Responsible Citizenship
+tipo: entidad
+fecha: 2026-04-21
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["ARC"]
+tags: [arc, conservadurismo, think-tank, gatekeeping, valores-occidentales, tl-intel-v3]
 publish: true
-aliases:
-  - ARC
-created: 2026-01-29T19:17:03.375-03:00
-modified: 2026-04-21T12:57:49.910-03:00
-tags:
-  - arc
-  - conservadurismo
-  - think-tank
-  - gatekeeping
-  - valores-occidentales
-  - tl-intel-v3
 ---
 
 # Alliance for Responsible Citizenship

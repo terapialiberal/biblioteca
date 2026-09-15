@@ -1,12 +1,12 @@
 ---
+titulo: "La Acción Humana: El Código Fuente De La Desobediencia Económica"
+tipo: "persona"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [accin, fuente, ludwig, praxeologa]
 publish: true
-created: 2026-01-29T19:17:20.973-03:00
-modified: 2026-05-02T18:25:39.790-03:00
-tags:
-  - accin
-  - fuente
-  - ludwig
-  - praxeologa
 ---
 
 # La Acción Humana: El Código Fuente De La Desobediencia Económica

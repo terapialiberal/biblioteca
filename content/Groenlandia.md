@@ -1,16 +1,13 @@
 ---
+titulo: Groenlandia
+tipo: nodo
+fecha: 2026-05-02
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Groenlandia (Recursos y Geopolítica)"]
+tags: [groenlandia, artico, recursos, rutas, eeuu, tl-intel-v3]
 publish: true
-aliases:
-  - Groenlandia (Recursos y Geopolítica)
-created: 2026-05-01T20:45:24.951-03:00
-modified: 2026-05-02T12:46:17.175-03:00
-tags:
-  - groenlandia
-  - artico
-  - recursos
-  - rutas
-  - eeuu
-  - tl-intel-v3
 ---
 
 # Groenlandia

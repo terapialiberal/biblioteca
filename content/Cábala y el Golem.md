@@ -1,14 +1,10 @@
 ---
 publish: true
-aliases:
-  - Cabalá y el Golem
-created: 2026-05-01T20:11:10.720-03:00
-modified: 2026-05-02T18:25:14.415-03:00
-tags:
-  - concepto
-  - esoterismo
-  - judaismo
-  - simbolismo
+titulo: "Cábala y el Golem"
+aliases: ["Cabalá y el Golem"]
+tags: [concepto, esoterismo, judaismo, simbolismo]
+tipo: concepto
+nivel: C
 ---
 
 # Cábala y el Golem

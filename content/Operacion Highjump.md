@@ -1,12 +1,12 @@
 ---
+titulo: "Operación Highjump: La Batalla Por El Hielo Sagrado"
+tipo: "evento"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [batalla, highjump, sagrado, tratado]
 publish: true
-created: 2026-01-29T19:17:28.550-03:00
-modified: 2026-05-02T18:25:52.185-03:00
-tags:
-  - batalla
-  - highjump
-  - sagrado
-  - tratado
 ---
 
 # Operación Highjump: La Batalla Por El Hielo Sagrado

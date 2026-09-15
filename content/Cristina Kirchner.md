@@ -1,17 +1,13 @@
 ---
+titulo: Cristina Kirchner
+tipo: persona
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Cristina Fernandez de Kirchner", "Cristina Fernandez de Kirchner (CFK)"]
+tags: [argentina, kirchnerismo, lawfare, poder, relato, tl-intel-v3]
 publish: true
-aliases:
-  - Cristina Fernandez de Kirchner
-  - Cristina Fernandez de Kirchner (CFK)
-created: 2026-01-29T19:17:09.284-03:00
-modified: 2026-04-18T11:12:51.650-03:00
-tags:
-  - argentina
-  - kirchnerismo
-  - lawfare
-  - poder
-  - relato
-  - tl-intel-v3
 ---
 
 # Cristina Kirchner

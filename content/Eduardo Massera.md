@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:09:25.776-03:00
-modified: 2026-04-29T14:09:45.384-03:00
-tags:
-  - argentina
-  - dictadura
-  - marina
-  - tl-intel-v3
+tipo: actor
+titulo: Eduardo Massera
+estado: activo
+tags: [argentina, dictadura, marina, tl-intel-v3]
 ---
 
 # Eduardo Massera

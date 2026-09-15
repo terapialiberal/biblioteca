@@ -1,17 +1,13 @@
 ---
+titulo: Senior Executive Service
+tipo: organizacion
+fecha: 2026-04-20
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["SES", "Senior Executive Service: Los Verdaderos Dueños De Washington"]
+tags: [senior-executive-service, ses, burocracia, ejecutivo, deep-state, tl-intel-v3]
 publish: true
-aliases:
-  - SES
-  - "Senior Executive Service: Los Verdaderos Dueños De Washington"
-created: 2026-01-29T19:17:36.132-03:00
-modified: 2026-04-20T11:12:35.044-03:00
-tags:
-  - senior-executive-service
-  - ses
-  - burocracia
-  - ejecutivo
-  - deep-state
-  - tl-intel-v3
 ---
 
 # Senior Executive Service

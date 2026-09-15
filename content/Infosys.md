@@ -1,13 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T15:30:53.904-03:00
-modified: 2026-04-29T15:30:53.904-03:00
-tags:
-  - india
-  - tecnologia
-  - outsourcing
-  - elite-politica
-  - tl-intel-v3
+tipo: entidad
+titulo: Infosys
+estado: activo
+tags: [india, tecnologia, outsourcing, elite-politica, tl-intel-v3]
 ---
 
 # Infosys

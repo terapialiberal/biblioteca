@@ -1,14 +1,12 @@
 ---
+titulo: General Dynamics
+tipo: organizacion
+fecha: 2026-04-19
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [general-dynamics, defensa, contratistas, submarinos, complejo-militar-industrial, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:14.904-03:00
-modified: 2026-04-19T13:28:18.695-03:00
-tags:
-  - general-dynamics
-  - defensa
-  - contratistas
-  - submarinos
-  - complejo-militar-industrial
-  - tl-intel-v3
 ---
 
 # General Dynamics

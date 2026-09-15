@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T15:30:53.788-03:00
-modified: 2026-04-29T15:30:53.788-03:00
-tags:
-  - operaciones
-  - inteligencia
-  - captura
-  - tl-intel-v3
+tipo: concepto
+titulo: Infiltración
+estado: activo
+tags: [operaciones, inteligencia, captura, tl-intel-v3]
 ---
 
 # Infiltración

@@ -1,12 +1,12 @@
 ---
+titulo: "Noche De Los Cristales Rotos: El Prototipo De La Purga Administrada"
+tipo: "entidad"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [cristales, joseph, noche, prototipo]
 publish: true
-created: 2026-01-29T19:17:27.342-03:00
-modified: 2026-05-02T18:25:50.167-03:00
-tags:
-  - cristales
-  - joseph
-  - noche
-  - prototipo
 ---
 
 # Noche De Los Cristales Rotos: El Prototipo De La Purga Administrada

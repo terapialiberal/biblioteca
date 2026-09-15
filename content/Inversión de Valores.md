@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T15:30:56.347-03:00
-modified: 2026-04-29T15:31:23.852-03:00
-tags:
-  - ingenieria-social
-  - cultura
-  - simbolismo
-  - tl-intel-v3
+tipo: concepto
+titulo: Inversión de Valores
+estado: activo
+tags: [ingenieria-social, cultura, simbolismo, tl-intel-v3]
 ---
 
 # Inversión de Valores

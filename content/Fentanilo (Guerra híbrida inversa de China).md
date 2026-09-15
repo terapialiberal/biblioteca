@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:13:02.214-03:00
-modified: 2026-04-29T14:13:24.929-03:00
-tags:
-  - fentanilo
-  - china
-  - narcotrafico
-  - tl-intel-v3
+tipo: concepto
+titulo: Fentanilo (Guerra híbrida inversa de China)
+estado: activo
+tags: [fentanilo, china, narcotrafico, tl-intel-v3]
 ---
 
 # Fentanilo (Guerra híbrida inversa de China)

@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T13:53:50.964-03:00
-modified: 2026-04-29T13:53:50.964-03:00
-tags:
-  - china
-  - latinoamerica
-  - infraestructura
-  - tl-intel-v3
+tipo: corredor
+titulo: China en Latinoamérica
+estado: activo
+tags: [china, latinoamerica, infraestructura, tl-intel-v3]
 ---
 
 # China en Latinoamérica

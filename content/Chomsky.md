@@ -1,15 +1,11 @@
 ---
+titulo: Chomsky
+tipo: nodo
+fecha: 2026-05-02
+estado: activo
+aliases: ["Noam Chomsky"]
+tags: [chomsky, medios, propaganda, critica, tl-intel-v3]
 publish: true
-aliases:
-  - Noam Chomsky
-created: 2026-05-01T20:16:31.336-03:00
-modified: 2026-05-02T13:44:42.530-03:00
-tags:
-  - chomsky
-  - medios
-  - propaganda
-  - critica
-  - tl-intel-v3
 ---
 
 # Chomsky

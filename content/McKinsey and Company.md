@@ -1,15 +1,13 @@
 ---
+titulo: McKinsey and Company
+tipo: entidad
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["McKinsey & Company"]
+tags: [mckinsey, consultoria, tecnocracia, captura-institucional, tl-intel-v3]
 publish: true
-aliases:
-  - McKinsey & Company
-created: 2026-01-29T19:17:24.459-03:00
-modified: 2026-04-18T18:24:43.298-03:00
-tags:
-  - mckinsey
-  - consultoria
-  - tecnocracia
-  - captura-institucional
-  - tl-intel-v3
 ---
 
 # McKinsey and Company

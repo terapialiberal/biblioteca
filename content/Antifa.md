@@ -1,12 +1,10 @@
 ---
 publish: true
-created: 2026-04-29T14:51:46.646-03:00
-modified: 2026-05-02T18:25:11.958-03:00
-tags:
-  - base-de-conocimiento
-  - antifa
-  - protesta
-  - psyops
+titulo: "Antifa"
+tipo: "entidad"
+fecha: 2026-04-29
+estado: activo
+tags: [base-de-conocimiento, antifa, protesta, psyops]
 ---
 
 # Antifa

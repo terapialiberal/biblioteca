@@ -1,12 +1,11 @@
 ---
+titulo: Fuentes y Marcadores
+tipo: contenedor
+estado: capturado
+fecha: 2026-04-18
+descripcion: Contenedor auxiliar estabilizado. El archivo original tenia frontmatter roto y no constituia un nodo conceptual reutilizable.
+tags: [contenedor, fuentes, marcadores, import]
 publish: true
-created: 2026-01-29T19:05:09.638-03:00
-modified: 2026-05-02T18:25:25.518-03:00
-tags:
-  - contenedor
-  - fuentes
-  - marcadores
-  - import
 ---
 
 # Fuentes y Marcadores

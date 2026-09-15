@@ -1,14 +1,12 @@
 ---
+titulo: Renee DiResta
+tipo: persona
+fecha: 2026-04-19
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [renee-diresta, censura, virality-project, cisa, plataformas, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:33.145-03:00
-modified: 2026-04-19T12:15:34.171-03:00
-tags:
-  - renee-diresta
-  - censura
-  - virality-project
-  - cisa
-  - plataformas
-  - tl-intel-v3
 ---
 
 # Renee DiResta

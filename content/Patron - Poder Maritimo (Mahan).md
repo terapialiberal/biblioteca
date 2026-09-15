@@ -1,13 +1,9 @@
 ---
 publish: true
-created: 2026-02-28T15:13:24.329-03:00
-modified: 2026-04-07T11:50:11.746-03:00
-tags:
-  - patrones
-  - geopolítica
-  - poder-maritimo
-  - mahan
-  - tl-v3
+tipo: concepto
+titulo: "Patrón - Poder Marítimo (Mahan)"
+estado: procesado
+tags: [patrones, geopolítica, poder-maritimo, mahan, tl-v3]
 ---
 
 # [[Patrón - Poder Marítimo (Mahan)]]

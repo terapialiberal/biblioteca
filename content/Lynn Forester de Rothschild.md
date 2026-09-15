@@ -1,16 +1,13 @@
 ---
+titulo: Lynn Forester de Rothschild
+tipo: persona
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Lynn Forester De Rothschild: El Puente Entre El Capital Y La Politica"]
+tags: [lynn-forester, rothschild, capitalismo-inclusivo, clinton, redes-de-poder, tl-intel-v3]
 publish: true
-aliases:
-  - "Lynn Forester De Rothschild: El Puente Entre El Capital Y La Politica"
-created: 2026-01-29T19:17:23.180-03:00
-modified: 2026-04-18T18:24:42.890-03:00
-tags:
-  - lynn-forester
-  - rothschild
-  - capitalismo-inclusivo
-  - clinton
-  - redes-de-poder
-  - tl-intel-v3
 ---
 
 # Lynn Forester de Rothschild

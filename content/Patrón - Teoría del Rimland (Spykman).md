@@ -1,12 +1,14 @@
 ---
 publish: true
-created: 2026-04-29T13:56:38.576-03:00
-modified: 2026-05-02T14:16:45.505-03:00
+tipo: alias
+titulo: Patrón - Teoría del Rimland (Spykman)
+estado: activo
 tags:
   - alias
   - geostrategia
   - rimland
   - tl-intel-v3
+reemplazado_por: '[[Patron - Teoria del Rimland (Spykman)]]'
 ---
 
 # Patrón - Teoría del Rimland (Spykman)

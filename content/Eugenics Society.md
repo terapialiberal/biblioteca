@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:13:01.986-03:00
-modified: 2026-04-29T14:13:24.729-03:00
-tags:
-  - eugenesia
-  - reino-unido
-  - biopolitica
-  - tl-intel-v3
+tipo: organizacion
+titulo: Eugenics Society
+estado: activo
+tags: [eugenesia, reino-unido, biopolitica, tl-intel-v3]
 ---
 
 # Eugenics Society

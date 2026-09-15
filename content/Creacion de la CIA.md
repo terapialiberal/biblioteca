@@ -1,16 +1,13 @@
 ---
+titulo: Creacion de la CIA
+tipo: evento
+fecha: 2026-04-21
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Creación de la CIA"]
+tags: [creacion-cia, cia, oss, national-security-act, seguridad-nacional, tl-intel-v3]
 publish: true
-aliases:
-  - Creación de la CIA
-created: 2026-01-29T19:17:09.038-03:00
-modified: 2026-04-21T20:20:00.726-03:00
-tags:
-  - creacion-cia
-  - cia
-  - oss
-  - national-security-act
-  - seguridad-nacional
-  - tl-intel-v3
 ---
 
 # Creacion de la CIA

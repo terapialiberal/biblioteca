@@ -1,14 +1,12 @@
 ---
+titulo: John D. Rockefeller
+tipo: persona
+fecha: 2026-04-18
+tier_primario: a
+nivel_evidencia: medio
+estado: activo
+tags: [john-d-rockefeller, standard-oil, fundaciones, monopolio, medicina, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:19.784-03:00
-modified: 2026-04-18T10:52:36.353-03:00
-tags:
-  - john-d-rockefeller
-  - standard-oil
-  - fundaciones
-  - monopolio
-  - medicina
-  - tl-intel-v3
 ---
 
 # John D. Rockefeller

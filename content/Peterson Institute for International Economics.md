@@ -1,16 +1,13 @@
 ---
+titulo: Peterson Institute for International Economics
+tipo: entidad
+fecha: 2026-04-21
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["PIIE"]
+tags: [piie, economia-global, think-tank, consenso-de-washington, globalizacion, tl-intel-v3]
 publish: true
-aliases:
-  - PIIE
-created: 2026-01-29T19:17:30.447-03:00
-modified: 2026-04-21T13:02:07.250-03:00
-tags:
-  - piie
-  - economia-global
-  - think-tank
-  - consenso-de-washington
-  - globalizacion
-  - tl-intel-v3
 ---
 
 # Peterson Institute for International Economics

@@ -1,13 +1,11 @@
 ---
+titulo: "Ronald Lauder"
 publish: true
-created: 2026-04-15T17:06:21.523-03:00
-modified: 2026-07-03T14:43:26.015-03:00
-tags:
-  - ronald-lauder
-  - lauder
-  - world-jewish-congress
-  - redes-de-poder
-  - tl-intel-v3
+tipo: persona
+fecha: 2026-04-15
+tier_primario: A
+estado: activo
+tags: [ronald-lauder, lauder, world-jewish-congress, redes-de-poder, tl-intel-v3]
 ---
 
 # [[Ronald Lauder]]

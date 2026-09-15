@@ -1,18 +1,13 @@
 ---
+titulo: In-Q-Tel
+tipo: organizacion
+fecha: 2026-04-20
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: [In Q Tel, IQT]
+tags: [in-q-tel, cia, venture-capital, inteligencia, defensa, tecnologia, tl-intel-v3]
 publish: true
-aliases:
-  - In Q Tel
-  - IQT
-created: 2026-01-29T19:17:18.111-03:00
-modified: 2026-04-24T10:28:48.455-03:00
-tags:
-  - in-q-tel
-  - cia
-  - venture-capital
-  - inteligencia
-  - defensa
-  - tecnologia
-  - tl-intel-v3
 ---
 
 # In-Q-Tel

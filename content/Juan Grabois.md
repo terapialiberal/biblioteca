@@ -1,13 +1,13 @@
 ---
+titulo: "Juan Grabois"
 publish: true
-created: 2026-01-29T19:17:20.323-03:00
-modified: 2026-04-07T12:09:53.897-03:00
-tags:
-  - juan-grabois
-  - argentina
-  - movimientos-sociales
-  - vaticano
-  - tl-intel-v3
+tipo: persona
+fecha: 2026-04-07
+tier_primario: B
+moc_canonico: [[00_MOC - Argentina]]
+estado: activo
+fuentes_clave: []
+tags: [juan-grabois, argentina, movimientos-sociales, vaticano, tl-intel-v3]
 ---
 
 # [[Juan Grabois]]

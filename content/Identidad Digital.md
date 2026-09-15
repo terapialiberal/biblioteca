@@ -1,13 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:44:31.340-03:00
-modified: 2026-04-29T14:44:43.882-03:00
-tags:
-  - identidad-digital
-  - vigilancia
-  - datos
-  - gobernanza
-  - tl-intel-v3
+tipo: concepto
+titulo: Identidad Digital
+estado: activo
+tags: [identidad-digital, vigilancia, datos, gobernanza, tl-intel-v3]
 ---
 
 # Identidad Digital

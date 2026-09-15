@@ -1,17 +1,13 @@
 ---
+titulo: Libra - Diem
+tipo: concepto
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Libra / Diem", "Libra / Diem: El Intento De Golpe De Estado De Silicon Valley"]
+tags: [libra, diem, cbdc, facebook, soberania-monetaria, tl-intel-v3]
 publish: true
-aliases:
-  - Libra / Diem
-  - "Libra / Diem: El Intento De Golpe De Estado De Silicon Valley"
-created: 2026-01-29T19:17:22.461-03:00
-modified: 2026-04-18T18:21:38.690-03:00
-tags:
-  - libra
-  - diem
-  - cbdc
-  - facebook
-  - soberania-monetaria
-  - tl-intel-v3
 ---
 
 # Libra - Diem

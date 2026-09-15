@@ -1,15 +1,12 @@
 ---
+titulo: Familia Rockefeller
+tipo: familia
+fecha: 2026-04-21
+tier_primario: a
+nivel_evidencia: medio
+estado: activo
+tags: [familia-rockefeller, dinastias, fundaciones, banca, energia, gobernanza, tl-intel-v3]
 publish: true
-created: 2026-04-21T20:06:44.632-03:00
-modified: 2026-04-21T20:06:45.466-03:00
-tags:
-  - familia-rockefeller
-  - dinastias
-  - fundaciones
-  - banca
-  - energia
-  - gobernanza
-  - tl-intel-v3
 ---
 
 # Familia Rockefeller

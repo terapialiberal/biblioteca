@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T13:20:57.058-03:00
-modified: 2026-04-29T13:28:14.938-03:00
-tags:
-  - organizacion
-  - ambientalismo
-  - fundaciones
-  - tl-intel-v3
+tipo: organizacion
+titulo: WWF
+estado: activo
+tags: [organizacion, ambientalismo, fundaciones, tl-intel-v3]
 ---
 
 # WWF

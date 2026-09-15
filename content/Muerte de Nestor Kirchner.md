@@ -1,17 +1,13 @@
 ---
+titulo: Muerte de Nestor Kirchner
+tipo: evento
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Muerte De Néstor Kirchner", "Muerte De Néstor Kirchner: El Mito Fundacional De La Radicalización"]
+tags: [argentina, kirchnerismo, sucesion, mito, 2010, tl-intel-v3]
 publish: true
-aliases:
-  - Muerte De Néstor Kirchner
-  - "Muerte De Néstor Kirchner: El Mito Fundacional De La Radicalización"
-created: 2026-01-29T19:17:26.142-03:00
-modified: 2026-04-18T11:46:57.858-03:00
-tags:
-  - argentina
-  - kirchnerismo
-  - sucesion
-  - mito
-  - 2010
-  - tl-intel-v3
 ---
 
 # Muerte de Nestor Kirchner

@@ -1,14 +1,10 @@
 ---
 publish: true
-aliases:
-  - Cassava
-created: 2026-05-01T19:09:40.357-03:00
-modified: 2026-05-02T18:25:15.059-03:00
-tags:
-  - empresa
-  - biotech
-  - alzheimer
-  - fraude
+titulo: "Cassava Sciences"
+aliases: ["Cassava"]
+tags: [empresa, biotech, alzheimer, fraude]
+tipo: empresa
+nivel: C
 ---
 
 # Cassava Sciences

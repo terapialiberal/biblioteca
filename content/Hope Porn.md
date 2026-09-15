@@ -1,13 +1,12 @@
 ---
+titulo: Hope Porn
+tipo: concepto
+fecha: 2026-04-21
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [hope-porn, oposicion-controlada, indefension-aprendida, guerra-cognitiva, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:17.402-03:00
-modified: 2026-04-21T19:21:05.346-03:00
-tags:
-  - hope-porn
-  - oposicion-controlada
-  - indefension-aprendida
-  - guerra-cognitiva
-  - tl-intel-v3
 ---
 
 # Hope Porn

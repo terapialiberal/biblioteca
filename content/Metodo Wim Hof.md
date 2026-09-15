@@ -1,16 +1,13 @@
 ---
+titulo: Metodo Wim Hof
+tipo: concepto
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Metodo Wim Hof"]
+tags: [wim-hof, respiracion, frio, hormesis, soberania-biologica, tl-intel-v3]
 publish: true
-aliases:
-  - Metodo Wim Hof
-created: 2026-01-29T19:17:26.223-03:00
-modified: 2026-04-18T18:24:43.465-03:00
-tags:
-  - wim-hof
-  - respiracion
-  - frio
-  - hormesis
-  - soberania-biologica
-  - tl-intel-v3
 ---
 
 # Metodo Wim Hof

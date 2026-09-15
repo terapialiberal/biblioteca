@@ -1,16 +1,13 @@
 ---
+titulo: Lazaro Baez
+tipo: persona
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Lázaro Báez"]
+tags: [argentina, obra-publica, baez, kirchnerismo, corrupcion, tl-intel-v3]
 publish: true
-aliases:
-  - Lázaro Báez
-created: 2026-01-29T19:17:23.263-03:00
-modified: 2026-04-18T11:47:41.463-03:00
-tags:
-  - argentina
-  - obra-publica
-  - baez
-  - kirchnerismo
-  - corrupcion
-  - tl-intel-v3
 ---
 
 # Lazaro Baez

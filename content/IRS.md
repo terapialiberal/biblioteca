@@ -1,13 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T15:30:56.855-03:00
-modified: 2026-04-29T15:31:28.950-03:00
-tags:
-  - eeuu
-  - impuestos
-  - enforcement
-  - estado
-  - tl-intel-v3
+tipo: entidad
+titulo: IRS
+estado: activo
+tags: [eeuu, impuestos, enforcement, estado, tl-intel-v3]
 ---
 
 # IRS

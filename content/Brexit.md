@@ -1,15 +1,11 @@
 ---
+titulo: Brexit
+tipo: evento
+fecha: 2026-05-02
+estado: activo
+aliases: ["Brexit (Salida del Reino Unido de la UE)"]
+tags: [brexit, reino-unido, ue, soberania, tl-intel-v3]
 publish: true
-aliases:
-  - Brexit (Salida del Reino Unido de la UE)
-created: 2026-01-29T19:17:05.830-03:00
-modified: 2026-05-02T12:58:37.874-03:00
-tags:
-  - brexit
-  - reino-unido
-  - ue
-  - soberania
-  - tl-intel-v3
 ---
 
 # Brexit

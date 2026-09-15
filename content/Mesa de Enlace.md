@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T13:56:38.084-03:00
-modified: 2026-04-29T13:56:38.084-03:00
-tags:
-  - argentina
-  - campo
-  - conflicto-politico
-  - tl-intel-v3
+tipo: red
+titulo: Mesa de Enlace
+estado: activo
+tags: [argentina, campo, conflicto-politico, tl-intel-v3]
 ---
 
 # Mesa de Enlace

@@ -1,15 +1,12 @@
 ---
+titulo: Desdolarización
+tipo: alias
+fecha: 2026-05-02
+estado: legacy
+reemplazado_por: [[Desdolarizacion]]
+aliases: ["Desdolarización"]
+tags: [alias, legacy, desdolarizacion, dolar, tl-intel-v3]
 publish: true
-aliases:
-  - Desdolarización
-created: 2026-04-27T12:03:16.591-03:00
-modified: 2026-05-02T12:41:35.321-03:00
-tags:
-  - alias
-  - legacy
-  - desdolarizacion
-  - dolar
-  - tl-intel-v3
 ---
 
 # Desdolarización

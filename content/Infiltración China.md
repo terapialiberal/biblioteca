@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T13:56:36.439-03:00
-modified: 2026-04-29T13:56:36.439-03:00
-tags:
-  - china
-  - influencia
-  - guerra-hibrida
-  - tl-intel-v3
+tipo: concepto
+titulo: Infiltración China
+estado: activo
+tags: [china, influencia, guerra-hibrida, tl-intel-v3]
 ---
 
 # Infiltración China

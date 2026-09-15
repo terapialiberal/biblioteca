@@ -1,17 +1,13 @@
 ---
+titulo: Primaveras Arabes
+tipo: evento
+fecha: 2026-04-24
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Primaveras Árabes", "Primavera Arabe"]
+tags: [primaveras-arabes, cambio-de-regimen, medio-oriente, soft-power, guerra-hibrida, tl-intel-v3]
 publish: true
-aliases:
-  - Primaveras Árabes
-  - Primavera Arabe
-created: 2026-01-29T19:17:31.338-03:00
-modified: 2026-04-24T10:52:44.570-03:00
-tags:
-  - primaveras-arabes
-  - cambio-de-regimen
-  - medio-oriente
-  - soft-power
-  - guerra-hibrida
-  - tl-intel-v3
 ---
 
 # Primaveras Arabes

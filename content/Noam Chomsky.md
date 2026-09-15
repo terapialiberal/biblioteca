@@ -1,16 +1,13 @@
 ---
+titulo: Noam Chomsky
+tipo: persona
+fecha: 2026-04-21
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Noam Chomsky: El Maestro De La Disidencia Permitida"]
+tags: [noam-chomsky, propaganda, manufactura-del-consentimiento, disidencia, medios, tl-intel-v3]
 publish: true
-aliases:
-  - "Noam Chomsky: El Maestro De La Disidencia Permitida"
-created: 2026-01-29T19:17:27.258-03:00
-modified: 2026-04-21T19:59:49.606-03:00
-tags:
-  - noam-chomsky
-  - propaganda
-  - manufactura-del-consentimiento
-  - disidencia
-  - medios
-  - tl-intel-v3
 ---
 
 # Noam Chomsky

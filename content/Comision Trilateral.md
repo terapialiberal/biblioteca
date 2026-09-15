@@ -1,14 +1,12 @@
 ---
+titulo: Comision Trilateral
+tipo: alias
+fecha: 2026-04-18
+estado: activo
+reemplazado_por: "[[Trilateral Commission]]"
+aliases: ["Comisión Trilateral"]
+tags: [alias, trilateral-commission, coordinacion-elite, tl-intel-v3]
 publish: true
-aliases:
-  - Comisión Trilateral
-created: 2026-01-29T19:17:08.347-03:00
-modified: 2026-05-02T14:00:39.892-03:00
-tags:
-  - alias
-  - trilateral-commission
-  - coordinacion-elite
-  - tl-intel-v3
 ---
 
 # Comision Trilateral

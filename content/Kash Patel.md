@@ -1,12 +1,12 @@
 ---
+titulo: "Kash Patel: El Cirujano De La Contrainteligencia Populista"
+tipo: "persona"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [cirujano, kash, patel, populista]
 publish: true
-created: 2026-01-29T19:17:20.599-03:00
-modified: 2026-05-02T18:25:38.758-03:00
-tags:
-  - cirujano
-  - kash
-  - patel
-  - populista
 ---
 
 # Kash Patel: El Cirujano De La Contrainteligencia Populista

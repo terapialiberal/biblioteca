@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T13:36:32.478-03:00
-modified: 2026-04-29T13:37:16.472-03:00
-tags:
-  - concepto
-  - finanzas
-  - wall-street
-  - tl-intel-v3
+tipo: concepto
+titulo: Mercados Financieros
+estado: activo
+tags: [concepto, finanzas, wall-street, tl-intel-v3]
 ---
 
 # Mercados Financieros

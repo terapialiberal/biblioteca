@@ -1,16 +1,11 @@
 ---
+titulo: Qatar
+tipo: nodo
+fecha: 2026-05-02
+estado: activo
+aliases: ["Qatar (Influencia)"]
+tags: [qatar, gas, al-jazeera, golfo, influencia, tl-intel-v3]
 publish: true
-aliases:
-  - Qatar (Influencia)
-created: 2026-04-29T15:32:15.040-03:00
-modified: 2026-05-02T12:49:52.272-03:00
-tags:
-  - qatar
-  - gas
-  - al-jazeera
-  - golfo
-  - influencia
-  - tl-intel-v3
 ---
 
 # Qatar

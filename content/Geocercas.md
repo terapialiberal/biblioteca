@@ -1,14 +1,12 @@
 ---
+titulo: Geocercas
+tipo: concepto
+fecha: 2026-04-19
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [geocercas, geofencing, movilidad, control, vigilancia, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:14.968-03:00
-modified: 2026-04-19T12:56:41.586-03:00
-tags:
-  - geocercas
-  - geofencing
-  - movilidad
-  - control
-  - vigilancia
-  - tl-intel-v3
 ---
 
 # Geocercas

@@ -1,16 +1,13 @@
 ---
+titulo: Nestor Kirchner
+tipo: persona
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Néstor Kirchner"]
+tags: [argentina, kirchnerismo, estado, pos-2001, poder, tl-intel-v3]
 publish: true
-aliases:
-  - Néstor Kirchner
-created: 2026-01-29T19:17:27.723-03:00
-modified: 2026-04-18T11:46:57.784-03:00
-tags:
-  - argentina
-  - kirchnerismo
-  - estado
-  - pos-2001
-  - poder
-  - tl-intel-v3
 ---
 
 # Nestor Kirchner

@@ -1,15 +1,11 @@
 ---
+titulo: Alemania
+tipo: nodo
+fecha: 2026-05-02
+estado: activo
+aliases: ["Alemania (Potencia Europea)"]
+tags: [alemania, europa, industria, energia, tl-intel-v3]
 publish: true
-aliases:
-  - Alemania (Potencia Europea)
-created: 2026-04-29T14:51:46.280-03:00
-modified: 2026-05-02T12:58:37.731-03:00
-tags:
-  - alemania
-  - europa
-  - industria
-  - energia
-  - tl-intel-v3
 ---
 
 # Alemania

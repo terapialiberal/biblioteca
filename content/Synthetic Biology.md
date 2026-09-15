@@ -1,12 +1,12 @@
 ---
+titulo: Synthetic Biology
+tipo: concepto
+fecha: 2026-02-25
+tier_primario: "a"
+nivel_evidencia: "alto"
+estado: activo
+tags: [jennifer, manufactura, synthetic, vida]
 publish: true
-created: 2026-02-25T15:45:47.484-03:00
-modified: 2026-05-02T18:26:09.155-03:00
-tags:
-  - jennifer
-  - manufactura
-  - synthetic
-  - vida
 ---
 
 # Synthetic Biology

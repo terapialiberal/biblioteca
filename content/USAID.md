@@ -1,16 +1,13 @@
 ---
+titulo: USAID
+tipo: entidad
+fecha: 2026-04-24
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["United States Agency for International Development"]
+tags: [usaid, soft-power, cambio-de-regimen, desarrollo, geopolitica, tl-intel-v3]
 publish: true
-aliases:
-  - United States Agency for International Development
-created: 2026-01-29T19:17:42.603-03:00
-modified: 2026-04-24T10:45:49.644-03:00
-tags:
-  - usaid
-  - soft-power
-  - cambio-de-regimen
-  - desarrollo
-  - geopolitica
-  - tl-intel-v3
 ---
 
 # USAID

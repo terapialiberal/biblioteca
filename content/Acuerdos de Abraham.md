@@ -1,14 +1,12 @@
 ---
+titulo: "Acuerdos de Abraham"
 publish: true
-created: 2026-05-27T10:25:38.062-03:00
-modified: 2026-05-27T10:25:38.062-03:00
-tags:
-  - acuerdos-abraham
-  - imec
-  - medio-oriente
-  - israel
-  - trump
-  - tl-intel-v3
+tipo: concepto-estrategico
+fecha: 2026-05-27
+tier_primario: A
+estado: activo
+tags: [acuerdos-abraham, imec, medio-oriente, israel, trump, tl-intel-v3]
+last_stream: "[[06_Videos_Publicados/2026/2026-05-26_La_Trampa_de_Ormuz/00_ARCHIVO_2026-05-26_La_Trampa_de_Ormuz|ARCHIVO: La Trampa de Ormuz]]"
 ---
 
 # [[Acuerdos de Abraham]]

@@ -1,13 +1,12 @@
 ---
+titulo: EcoHealth Alliance
+tipo: entidad
+fecha: 2026-04-17
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [ecohealth-alliance, bioseguridad, ganancia-de-funcion, wuhan, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:10.808-03:00
-modified: 2026-04-22T15:51:41.319-03:00
-tags:
-  - ecohealth-alliance
-  - bioseguridad
-  - ganancia-de-funcion
-  - wuhan
-  - tl-intel-v3
 ---
 
 # EcoHealth Alliance

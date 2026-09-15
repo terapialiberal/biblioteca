@@ -1,17 +1,11 @@
 ---
+titulo: Samson Option
+tipo: concepto
+fecha: 2026-04-18
+estado: activo
+aliases: ["Opcion Sanson", "Samson Option: el Ultimatum Nuclear de la Matrix"]
+tags: [israel, nuclear, disuasion, doctrina-militar, escalada, tl-intel-v3]
 publish: true
-aliases:
-  - Opcion Sanson
-  - "Samson Option: el Ultimatum Nuclear de la Matrix"
-created: 2026-01-29T19:17:35.230-03:00
-modified: 2026-04-18T21:35:21.084-03:00
-tags:
-  - israel
-  - nuclear
-  - disuasion
-  - doctrina-militar
-  - escalada
-  - tl-intel-v3
 ---
 
 # Samson Option

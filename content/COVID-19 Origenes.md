@@ -1,16 +1,13 @@
 ---
+titulo: COVID-19 Origenes
+tipo: concepto
+fecha: 2026-04-21
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["COVID-19 Origenes: La Pandemia Planificada"]
+tags: [covid-19, origenes, bioseguridad, pandemia, riesgo-biologico, tl-intel-v3]
 publish: true
-aliases:
-  - "COVID-19 Origenes: La Pandemia Planificada"
-created: 2026-01-29T19:17:08.946-03:00
-modified: 2026-04-21T18:58:49.164-03:00
-tags:
-  - covid-19
-  - origenes
-  - bioseguridad
-  - pandemia
-  - riesgo-biologico
-  - tl-intel-v3
 ---
 
 # COVID-19 Origenes

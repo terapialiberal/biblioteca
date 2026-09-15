@@ -1,14 +1,11 @@
 ---
+titulo: Rousseau
+tipo: nodo
+fecha: 2026-05-02
+estado: activo
+aliases: ["Jean-Jacques Rousseau"]
+tags: [rousseau, contrato-social, filosofia-politica, tl-intel-v3]
 publish: true
-aliases:
-  - Jean-Jacques Rousseau
-created: 2026-05-01T20:17:06.118-03:00
-modified: 2026-05-02T13:44:01.933-03:00
-tags:
-  - rousseau
-  - contrato-social
-  - filosofia-politica
-  - tl-intel-v3
 ---
 
 # Rousseau

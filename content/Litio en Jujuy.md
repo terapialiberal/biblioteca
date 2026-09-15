@@ -1,16 +1,13 @@
 ---
+titulo: Litio en Jujuy
+tipo: concepto
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Litio En Jujuy: La Cara Oculta De La Transicion Verde"]
+tags: [litio, jujuy, transicion-verde, extractivismo, argentina, tl-intel-v3]
 publish: true
-aliases:
-  - "Litio En Jujuy: La Cara Oculta De La Transicion Verde"
-created: 2026-01-29T19:17:22.663-03:00
-modified: 2026-04-18T17:55:26.889-03:00
-tags:
-  - litio
-  - jujuy
-  - transicion-verde
-  - extractivismo
-  - argentina
-  - tl-intel-v3
 ---
 
 # Litio en Jujuy

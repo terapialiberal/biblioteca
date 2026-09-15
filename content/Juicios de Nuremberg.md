@@ -1,12 +1,12 @@
 ---
+titulo: "Juicios De Nuremberg: El Teatro Del Lavado De Activos"
+tipo: "entidad"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [activos, juicios, lavado, operacin]
 publish: true
-created: 2026-01-29T19:17:20.393-03:00
-modified: 2026-05-02T18:25:38.391-03:00
-tags:
-  - activos
-  - juicios
-  - lavado
-  - operacin
 ---
 
 # Juicios De Nuremberg: El Teatro Del Lavado De Activos

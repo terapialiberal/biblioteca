@@ -1,16 +1,13 @@
 ---
+titulo: Safe and Effective
+tipo: concepto
+fecha: 2026-04-21
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Safe And Effective: la Programacion Neurolinguistica del Consentimiento"]
+tags: [safe-and-effective, consentimiento, propaganda, vacunas, bioseguridad, tl-intel-v3]
 publish: true
-aliases:
-  - "Safe And Effective: la Programacion Neurolinguistica del Consentimiento"
-created: 2026-01-29T19:17:35.065-03:00
-modified: 2026-04-22T17:00:23.417-03:00
-tags:
-  - safe-and-effective
-  - consentimiento
-  - propaganda
-  - vacunas
-  - bioseguridad
-  - tl-intel-v3
 ---
 
 # Safe and Effective

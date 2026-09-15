@@ -1,12 +1,11 @@
 ---
 publish: true
-created: 2026-01-29T19:17:02.115-03:00
-modified: 2026-04-17T13:56:14.367-03:00
-tags:
-  - sistema-global
-  - jerarquia-de-poder
-  - modelo-proxy
-  - tl-intel-v3
+titulo: "Sistema Global"
+tipo: concepto
+fecha: 2026-04-07
+estado: activo
+moc_canonico: [[00_Mapa_de_Poder_Global_A-Z]]
+tags: [sistema-global, jerarquia-de-poder, modelo-proxy, tl-intel-v3]
 ---
 
 # Sistema Global

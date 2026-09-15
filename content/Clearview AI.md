@@ -1,13 +1,12 @@
 ---
+titulo: Clearview AI
+tipo: entidad
+fecha: 2026-04-17
+tier_primario: b
+nivel_evidencia: alto
+estado: activo
+tags: [clearview, reconocimiento-facial, vigilancia, biometria, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:07.917-03:00
-modified: 2026-04-22T16:24:33.421-03:00
-tags:
-  - clearview
-  - reconocimiento-facial
-  - vigilancia
-  - biometria
-  - tl-intel-v3
 ---
 
 # Clearview AI

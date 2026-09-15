@@ -1,12 +1,14 @@
 ---
 publish: true
-created: 2026-04-29T14:09:28.610-03:00
-modified: 2026-05-02T14:15:43.789-03:00
+tipo: alias
+titulo: 'ESG (Environmental, Social, Governance)'
+estado: activo
 tags:
   - alias
   - esg
   - finanzas
   - tl-intel-v3
+reemplazado_por: '[[ESG (Environmental, Social and Governance)]]'
 ---
 
 # ESG (Environmental, Social, Governance)

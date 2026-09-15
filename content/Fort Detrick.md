@@ -1,14 +1,12 @@
 ---
+titulo: Fort Detrick
+tipo: entidad
+fecha: 2026-04-19
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [fort-detrick, biowarfare, bioseguridad, laboratorio, biodefensa, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:13.959-03:00
-modified: 2026-04-19T13:05:49.044-03:00
-tags:
-  - fort-detrick
-  - biowarfare
-  - bioseguridad
-  - laboratorio
-  - biodefensa
-  - tl-intel-v3
 ---
 
 # Fort Detrick

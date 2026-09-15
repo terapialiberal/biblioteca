@@ -1,12 +1,12 @@
 ---
+titulo: "La Tercera Ola: El Protocolo De Activación Totalitaria"
+tipo: "persona"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [experimento, protocolo, psicologa, tercera]
 publish: true
-created: 2026-01-29T19:17:21.611-03:00
-modified: 2026-05-02T18:25:41.491-03:00
-tags:
-  - experimento
-  - protocolo
-  - psicologa
-  - tercera
 ---
 
 # La Tercera Ola: El Protocolo De Activación Totalitaria

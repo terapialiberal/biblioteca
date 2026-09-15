@@ -1,7 +1,10 @@
 ---
-publish: true
-created: 2026-05-29T15:13:00.881-03:00
-modified: 2026-06-11T14:41:33.301-03:00
+titulo: Ed Dowd
+tipo: persona
+fecha: '2026-05-29'
+tier: A
+rol: 'Ex-BlackRock, autor de "The Great Taking", analista financiero'
+estado: activo
 tags:
   - ed-dowd
   - blackrock
@@ -9,6 +12,8 @@ tags:
   - tercero-con-veto
   - great-taking
   - tl-intel-v3
+publish: true
+last_stream: '[[00_ARCHIVO_2026-05-28_El_Gran_Simulador]]'
 ---
 
 # Ed Dowd

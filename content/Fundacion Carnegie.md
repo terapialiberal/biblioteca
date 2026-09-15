@@ -1,15 +1,13 @@
 ---
+titulo: Fundacion Carnegie
+tipo: entidad
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Fundación Carnegie"]
+tags: [carnegie, fundaciones, educacion, politica-exterior, tl-intel-v3]
 publish: true
-aliases:
-  - Fundación Carnegie
-created: 2026-01-29T19:17:14.417-03:00
-modified: 2026-04-21T20:03:12.600-03:00
-tags:
-  - carnegie
-  - fundaciones
-  - educacion
-  - politica-exterior
-  - tl-intel-v3
 ---
 
 # Fundacion Carnegie

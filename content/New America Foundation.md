@@ -1,14 +1,12 @@
 ---
+titulo: New America Foundation
+tipo: entidad
+fecha: 2026-04-19
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [new-america, think-tank, google, gobernanza-digital, censura, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:26.689-03:00
-modified: 2026-04-19T12:25:35.757-03:00
-tags:
-  - new-america
-  - think-tank
-  - google
-  - gobernanza-digital
-  - censura
-  - tl-intel-v3
 ---
 
 # New America Foundation

@@ -1,12 +1,12 @@
 ---
+titulo: "Jack Dorsey: El Verdugo Arrepentido Y El Shaman De La Red"
+tipo: "persona"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [bitcoin, dorsey, shaman, verdugo]
 publish: true
-created: 2026-01-29T19:17:19.069-03:00
-modified: 2026-05-02T18:25:36.224-03:00
-tags:
-  - bitcoin
-  - dorsey
-  - shaman
-  - verdugo
 ---
 
 # Jack Dorsey: El Verdugo Arrepentido Y El Shaman De La Red

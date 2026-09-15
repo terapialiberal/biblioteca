@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T13:34:44.010-03:00
-modified: 2026-04-29T13:34:59.643-03:00
-tags:
-  - agencia
-  - estados-unidos
-  - armas
-  - tl-intel-v3
+tipo: agencia
+titulo: ATF
+estado: activo
+tags: [agencia, estados-unidos, armas, tl-intel-v3]
 ---
 
 # ATF

@@ -2,13 +2,14 @@
 publish: true
 aliases:
   - 23andMe
-created: 2026-05-01T19:13:42.866-03:00
-modified: 2026-05-02T18:25:10.460-03:00
 tags:
   - empresa
   - genetica
   - datos
   - privacidad
+tipo: empresa
+nivel: C
+titulo: 23andMe
 ---
 
 # 23andMe

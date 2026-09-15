@@ -1,13 +1,12 @@
 ---
+titulo: Policrisis Sistemica
+tipo: patron
+fecha: 2026-04-20
+tier_primario: a
+nivel_evidencia: medio
+estado: activo
+tags: [policrisis, convergencia-sistemica, fragilidad-global, cascada, tl-intel-v3]
 publish: true
-created: 2026-04-20T19:38:19.195-03:00
-modified: 2026-04-22T09:51:37.807-03:00
-tags:
-  - policrisis
-  - convergencia-sistemica
-  - fragilidad-global
-  - cascada
-  - tl-intel-v3
 ---
 
 # Policrisis Sistemica

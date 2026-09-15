@@ -1,17 +1,13 @@
 ---
+titulo: Internet de los Cuerpos
+tipo: concepto
+fecha: 2026-04-17
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Internet de los Cuerpos (IoB)", "IoB"]
+tags: [iob, wearables, implantes, bio-digital, control, tl-intel-v3]
 publish: true
-aliases:
-  - Internet de los Cuerpos (IoB)
-  - IoB
-created: 2026-01-29T19:17:18.643-03:00
-modified: 2026-04-22T16:56:14.055-03:00
-tags:
-  - iob
-  - wearables
-  - implantes
-  - bio-digital
-  - control
-  - tl-intel-v3
 ---
 
 # Internet de los Cuerpos

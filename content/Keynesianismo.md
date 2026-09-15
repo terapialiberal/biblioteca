@@ -1,15 +1,11 @@
 ---
+titulo: Keynesianismo
+tipo: concepto
+fecha: 2026-05-02
+estado: activo
+aliases: ["Keynesianismo (Doctrina)"]
+tags: [keynesianismo, economia, estado, demanda, tl-intel-v3]
 publish: true
-aliases:
-  - Keynesianismo (Doctrina)
-created: 2026-05-01T20:43:00.461-03:00
-modified: 2026-05-02T12:51:27.146-03:00
-tags:
-  - keynesianismo
-  - economia
-  - estado
-  - demanda
-  - tl-intel-v3
 ---
 
 # Keynesianismo

@@ -1,13 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T15:31:51.117-03:00
-modified: 2026-04-29T15:31:51.117-03:00
-tags:
-  - kosovo
-  - otan
-  - balcanes
-  - intervencion-humanitaria
-  - tl-intel-v3
+tipo: evento
+titulo: Guerra de Kosovo
+estado: activo
+tags: [kosovo, otan, balcanes, intervencion-humanitaria, tl-intel-v3]
 ---
 
 # Guerra de Kosovo

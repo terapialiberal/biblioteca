@@ -1,16 +1,11 @@
 ---
+titulo: TSMC
+tipo: entidad
+fecha: 2026-05-02
+estado: activo
+aliases: ["TSMC (Taiwan Semiconductor)", "Taiwan Semiconductor Manufacturing Company"]
+tags: [tsmc, taiwan, semiconductores, chips, tl-intel-v3]
 publish: true
-aliases:
-  - TSMC (Taiwan Semiconductor)
-  - Taiwan Semiconductor Manufacturing Company
-created: 2026-01-29T19:17:41.692-03:00
-modified: 2026-05-02T13:03:40.346-03:00
-tags:
-  - tsmc
-  - taiwan
-  - semiconductores
-  - chips
-  - tl-intel-v3
 ---
 
 # TSMC

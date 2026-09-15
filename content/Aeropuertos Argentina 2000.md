@@ -2,13 +2,14 @@
 publish: true
 aliases:
   - Aeropuertos Argentina 2000
-created: 2026-05-01T19:14:11.501-03:00
-modified: 2026-05-02T18:25:10.819-03:00
 tags:
   - empresa
   - argentina
   - infraestructura
   - eurnekian
+tipo: empresa
+nivel: C
+titulo: Aeropuertos Argentina 2000
 ---
 
 # Aeropuertos Argentina 2000

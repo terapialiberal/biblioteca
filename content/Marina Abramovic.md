@@ -1,12 +1,11 @@
 ---
+titulo: "Marina Abramovic"
 publish: true
-created: 2026-04-15T17:06:21.571-03:00
-modified: 2026-04-15T17:06:21.571-03:00
-tags:
-  - marina-abramovic
-  - simbolismo
-  - control-narrativo
-  - tl-intel-v3
+tipo: persona
+fecha: 2026-04-15
+tier_primario: B
+estado: activo
+tags: [marina-abramovic, simbolismo, control-narrativo, tl-intel-v3]
 ---
 
 # [[Marina Abramovic]]

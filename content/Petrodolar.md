@@ -1,13 +1,12 @@
 ---
+titulo: Petrodolar
+tipo: concepto
+fecha: 2026-04-17
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [petrodolar, dolar, energia, demanda-global, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:30.476-03:00
-modified: 2026-04-22T10:25:25.701-03:00
-tags:
-  - petrodolar
-  - dolar
-  - energia
-  - demanda-global
-  - tl-intel-v3
 ---
 
 # Petrodolar

@@ -1,12 +1,12 @@
 ---
+titulo: "John Money: El Ingeniero De La Inversión Antropológica"
+tipo: "persona"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [instituto, inversin, money, rockefeller]
 publish: true
-created: 2026-01-29T19:17:19.912-03:00
-modified: 2026-05-02T18:25:37.622-03:00
-tags:
-  - instituto
-  - inversin
-  - money
-  - rockefeller
 ---
 
 # John Money: El Ingeniero De La Inversión Antropológica

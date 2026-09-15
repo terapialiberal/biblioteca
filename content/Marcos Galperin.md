@@ -1,13 +1,13 @@
 ---
+titulo: "Marcos Galperin"
 publish: true
-created: 2026-01-29T19:17:23.836-03:00
-modified: 2026-04-07T12:44:04.080-03:00
-tags:
-  - marcos-galperin
-  - mercado-libre
-  - mercado-pago
-  - plataformas
-  - tl-intel-v3
+tipo: persona
+fecha: 2026-04-07
+tier_primario: B
+moc_canonico: [[00_MOC - Argentina]]
+estado: activo
+fuentes_clave: []
+tags: [marcos-galperin, mercado-libre, mercado-pago, plataformas, tl-intel-v3]
 ---
 
 # [[Marcos Galperin]]

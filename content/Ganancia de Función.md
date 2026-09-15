@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T13:34:44.227-03:00
-modified: 2026-04-29T13:35:00.466-03:00
-tags:
-  - concepto
-  - bioseguridad
-  - virologia
-  - tl-intel-v3
+tipo: concepto
+titulo: Ganancia de Función
+estado: activo
+tags: [concepto, bioseguridad, virologia, tl-intel-v3]
 ---
 
 # Ganancia de Función

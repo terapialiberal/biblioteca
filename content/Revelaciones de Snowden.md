@@ -1,14 +1,12 @@
 ---
+titulo: Revelaciones de Snowden
+tipo: evento
+fecha: 2026-04-22
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [snowden, vigilancia, nsa, five-eyes, whistleblower, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:33.560-03:00
-modified: 2026-04-22T16:07:44.699-03:00
-tags:
-  - snowden
-  - vigilancia
-  - nsa
-  - five-eyes
-  - whistleblower
-  - tl-intel-v3
 ---
 
 # Revelaciones de Snowden

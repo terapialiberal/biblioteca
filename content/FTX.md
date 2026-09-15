@@ -1,15 +1,11 @@
 ---
+titulo: FTX
+tipo: entidad
+fecha: 2026-05-02
+estado: activo
+aliases: ["FTX (Colapso)"]
+tags: [ftx, cripto, exchange, fraude, tl-intel-v3]
 publish: true
-aliases:
-  - FTX (Colapso)
-created: 2026-05-01T20:39:06.741-03:00
-modified: 2026-05-02T12:58:38.335-03:00
-tags:
-  - ftx
-  - cripto
-  - exchange
-  - fraude
-  - tl-intel-v3
 ---
 
 # FTX

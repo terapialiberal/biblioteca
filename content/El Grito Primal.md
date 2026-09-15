@@ -1,16 +1,13 @@
 ---
+titulo: El Grito Primal
+tipo: concepto
+fecha: 2026-04-27
+estado: activo
+aliases: ["El Grito Primal (Catarsis)", "Primal scream"]
+tags: [grito-primal, catarsis, trauma, psicologia-de-masas, tl-intel-v3]
+tier_primario: c
+nivel_evidencia: medio
 publish: true
-aliases:
-  - El Grito Primal (Catarsis)
-  - Primal scream
-created: 2026-02-25T22:08:54.413-03:00
-modified: 2026-04-27T10:51:17.638-03:00
-tags:
-  - grito-primal
-  - catarsis
-  - trauma
-  - psicologia-de-masas
-  - tl-intel-v3
 ---
 
 # El Grito Primal

@@ -1,13 +1,10 @@
 ---
 publish: true
-aliases:
-  - Broadcom
-created: 2026-05-01T19:10:07.746-03:00
-modified: 2026-05-02T18:25:14.136-03:00
-tags:
-  - empresa
-  - semiconductores
-  - tecnologia
+titulo: "Broadcom"
+aliases: ["Broadcom"]
+tags: [empresa, semiconductores, tecnologia]
+tipo: empresa
+nivel: B
 ---
 
 # Broadcom

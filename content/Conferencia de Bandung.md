@@ -1,15 +1,10 @@
 ---
 publish: true
-aliases:
-  - Bandung Conference
-  - Conferencia de Bandung
-created: 2026-01-29T19:17:08.552-03:00
-modified: 2026-05-02T18:25:15.848-03:00
-tags:
-  - evento
-  - tercer-mundo
-  - no-alineados
-  - descolonizacion
+titulo: "Conferencia de Bandung"
+aliases: ["Bandung Conference", "Conferencia de Bandung"]
+tags: [evento, tercer-mundo, no-alineados, descolonizacion]
+tipo: evento
+nivel: B
 ---
 
 # Conferencia de Bandung

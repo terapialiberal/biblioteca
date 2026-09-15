@@ -1,18 +1,13 @@
 ---
+titulo: Asociacion Medica Americana
+tipo: entidad
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Asociación Médica Americana", "American Medical Association", "AMA"]
+tags: [ama, medicina, licencias, informe-flexner, rockefeller, tl-intel-v3]
 publish: true
-aliases:
-  - Asociación Médica Americana
-  - American Medical Association
-  - AMA
-created: 2026-01-29T19:17:04.262-03:00
-modified: 2026-04-18T10:51:12.919-03:00
-tags:
-  - ama
-  - medicina
-  - licencias
-  - informe-flexner
-  - rockefeller
-  - tl-intel-v3
 ---
 
 # Asociacion Medica Americana

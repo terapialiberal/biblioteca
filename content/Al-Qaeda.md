@@ -1,16 +1,12 @@
 ---
+titulo: Al-Qaeda
+tipo: alias
+fecha: 2026-05-02
+estado: legacy
+reemplazado_por: [[Al Qaeda]]
+aliases: ["Al-Qaeda", "Al Qaeda"]
+tags: [alias, legacy, terrorismo, yihadismo, tl-intel-v3]
 publish: true
-aliases:
-  - Al-Qaeda
-  - Al Qaeda
-created: 2026-05-01T18:53:02.873-03:00
-modified: 2026-05-02T13:53:10.418-03:00
-tags:
-  - alias
-  - legacy
-  - terrorismo
-  - yihadismo
-  - tl-intel-v3
 ---
 
 # Al-Qaeda

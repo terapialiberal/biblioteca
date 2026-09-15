@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T13:53:50.931-03:00
-modified: 2026-04-29T13:53:50.931-03:00
-tags:
-  - chile
-  - neoliberalismo
-  - reformas
-  - tl-intel-v3
+tipo: red
+titulo: Chicago Boys
+estado: activo
+tags: [chile, neoliberalismo, reformas, tl-intel-v3]
 ---
 
 # Chicago Boys

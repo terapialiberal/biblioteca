@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:05:24.747-03:00
-modified: 2026-04-29T14:05:40.038-03:00
-tags:
-  - blackrock
-  - simbolismo
-  - finanzas
-  - tl-intel-v3
+tipo: concepto
+titulo: BlackRock y la Gnosis Colectiva
+estado: activo
+tags: [blackrock, simbolismo, finanzas, tl-intel-v3]
 ---
 
 # BlackRock y la Gnosis Colectiva

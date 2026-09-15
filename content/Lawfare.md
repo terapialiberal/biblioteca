@@ -1,18 +1,13 @@
 ---
+titulo: Lawfare
+tipo: concepto
+fecha: 2026-05-02
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Lawfare (Guerra Judicial)", "Guerra judicial", "Guerra jurídica"]
+tags: [lawfare, justicia, inteligencia, medios, operaciones-politicas, tl-intel-v3]
 publish: true
-aliases:
-  - Lawfare (Guerra Judicial)
-  - Guerra judicial
-  - Guerra jurídica
-created: 2026-01-29T19:17:22.013-03:00
-modified: 2026-05-02T12:41:35.631-03:00
-tags:
-  - lawfare
-  - justicia
-  - inteligencia
-  - medios
-  - operaciones-politicas
-  - tl-intel-v3
 ---
 
 # Lawfare

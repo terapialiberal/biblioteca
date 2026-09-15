@@ -1,17 +1,13 @@
 ---
+titulo: Great Reset
+tipo: concepto
+fecha: 2026-04-21
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["The Great Reset", "El Gran Reinicio"]
+tags: [great-reset, wef, klaus-schwab, gobernanza, reestructuracion, tl-intel-v3]
 publish: true
-aliases:
-  - The Great Reset
-  - El Gran Reinicio
-created: 2026-01-29T19:17:15.961-03:00
-modified: 2026-04-21T20:15:29.035-03:00
-tags:
-  - great-reset
-  - wef
-  - klaus-schwab
-  - gobernanza
-  - reestructuracion
-  - tl-intel-v3
 ---
 
 # Great Reset

@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T13:56:38.225-03:00
-modified: 2026-04-29T13:56:38.225-03:00
-tags:
-  - elite
-  - poder
-  - sociologia-politica
-  - tl-intel-v3
+tipo: concepto
+titulo: Oligarquía
+estado: activo
+tags: [elite, poder, sociologia-politica, tl-intel-v3]
 ---
 
 # Oligarquía

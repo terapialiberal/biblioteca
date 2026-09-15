@@ -1,17 +1,12 @@
 ---
+titulo: "Logia P2: La Mafia Institucionalizada"
+tipo: "entidad"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "alto"
+estado: activo
+tags: [banco, institucionalizada, logia, mafia, p2, gladio, argentina, lopez-rega, triple-a]
 publish: true
-created: 2026-01-29T19:17:22.825-03:00
-modified: 2026-05-02T18:25:43.685-03:00
-tags:
-  - banco
-  - institucionalizada
-  - logia
-  - mafia
-  - p2
-  - gladio
-  - argentina
-  - lopez-rega
-  - triple-a
 ---
 
 # Logia P2: La Mafia Institucionalizada

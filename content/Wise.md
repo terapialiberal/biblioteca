@@ -1,16 +1,11 @@
 ---
+titulo: Wise
+tipo: entidad
+fecha: 2026-05-02
+estado: activo
+aliases: ["TransferWise", "Wise (TransferWise)"]
+tags: [wise, fintech, transferencias, fx, tl-intel-v3]
 publish: true
-aliases:
-  - TransferWise
-  - Wise (TransferWise)
-created: 2026-05-01T20:38:50.420-03:00
-modified: 2026-05-02T12:58:38.501-03:00
-tags:
-  - wise
-  - fintech
-  - transferencias
-  - fx
-  - tl-intel-v3
 ---
 
 # Wise

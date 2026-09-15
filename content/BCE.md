@@ -1,18 +1,13 @@
 ---
+titulo: BCE
+tipo: entidad
+fecha: 2026-04-24
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Banco Central Europeo", "ECB", "European Central Bank"]
+tags: [bce, europa, banco-central, euro, cbdc, tl-intel-v3]
 publish: true
-aliases:
-  - Banco Central Europeo
-  - ECB
-  - European Central Bank
-created: 2026-04-24T12:22:44.554-03:00
-modified: 2026-04-24T12:22:44.554-03:00
-tags:
-  - bce
-  - europa
-  - banco-central
-  - euro
-  - cbdc
-  - tl-intel-v3
 ---
 
 # BCE

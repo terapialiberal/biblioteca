@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:13:08.605-03:00
-modified: 2026-04-29T14:13:27.294-03:00
-tags:
-  - gaza
-  - fideicomiso
-  - reconstruccion
-  - tl-intel-v3
+tipo: concepto
+titulo: Great Trust (Plan Gaza)
+estado: activo
+tags: [gaza, fideicomiso, reconstruccion, tl-intel-v3]
 ---
 
 # Great Trust (Plan Gaza)

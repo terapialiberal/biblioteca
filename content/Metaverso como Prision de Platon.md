@@ -1,17 +1,13 @@
 ---
+titulo: Metaverso como Prision de Platon
+tipo: concepto
+fecha: 2026-04-27
+estado: activo
+aliases: ["Metaverso Como Prisión De Platón", "Metaverso como Prisión de Platón"]
+tags: [metaverso, platon, realidad-virtual, simulacro, tecnologia-de-control, tl-intel-v3]
+tier_primario: b
+nivel_evidencia: medio
 publish: true
-aliases:
-  - Metaverso Como Prisión De Platón
-  - Metaverso como Prisión de Platón
-created: 2026-02-25T22:08:55.508-03:00
-modified: 2026-04-27T10:36:43.495-03:00
-tags:
-  - metaverso
-  - platon
-  - realidad-virtual
-  - simulacro
-  - tecnologia-de-control
-  - tl-intel-v3
 ---
 
 # Metaverso como Prision de Platon

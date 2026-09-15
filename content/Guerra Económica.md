@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:13:10.190-03:00
-modified: 2026-04-29T14:13:28.633-03:00
-tags:
-  - sanciones
-  - finanzas
-  - geoeconomia
-  - tl-intel-v3
+tipo: concepto
+titulo: Guerra Económica
+estado: activo
+tags: [sanciones, finanzas, geoeconomia, tl-intel-v3]
 ---
 
 # Guerra Económica

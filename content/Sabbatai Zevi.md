@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T13:20:58.070-03:00
-modified: 2026-04-29T13:28:14.890-03:00
-tags:
-  - actor-historico
-  - mesianismo
-  - simbolismo
-  - tl-intel-v3
+tipo: actor-historico
+titulo: Sabbatai Zevi
+estado: activo
+tags: [actor-historico, mesianismo, simbolismo, tl-intel-v3]
 ---
 
 # Sabbatai Zevi

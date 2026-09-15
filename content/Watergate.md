@@ -1,15 +1,11 @@
 ---
+titulo: Watergate
+tipo: evento
+fecha: 2026-05-02
+estado: activo
+aliases: ["Watergate (Escándalo)"]
+tags: [watergate, nixon, espionaje, estado-profundo, tl-intel-v3]
 publish: true
-aliases:
-  - Watergate (Escándalo)
-created: 2026-01-29T19:17:43.971-03:00
-modified: 2026-05-02T12:58:38.112-03:00
-tags:
-  - watergate
-  - nixon
-  - espionaje
-  - estado-profundo
-  - tl-intel-v3
 ---
 
 # Watergate

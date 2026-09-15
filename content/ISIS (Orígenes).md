@@ -1,14 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T15:30:57.231-03:00
-modified: 2026-04-29T15:31:28.779-03:00
-tags:
-  - isis
-  - siria
-  - irak
-  - proxies
-  - guerra-hibrida
-  - tl-intel-v3
+tipo: concepto
+titulo: ISIS (Orígenes)
+estado: activo
+tags: [isis, siria, irak, proxies, guerra-hibrida, tl-intel-v3]
 ---
 
 # ISIS (Orígenes)

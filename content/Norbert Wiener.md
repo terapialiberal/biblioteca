@@ -1,12 +1,12 @@
 ---
+titulo: "Norbert Wiener: El Programador Del Sistema Operativo Social"
+tipo: "persona"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [norbert, sistema, transhumanismo, wiener]
 publish: true
-created: 2026-01-29T19:17:27.367-03:00
-modified: 2026-05-02T18:25:50.273-03:00
-tags:
-  - norbert
-  - sistema
-  - transhumanismo
-  - wiener
 ---
 
 # Norbert Wiener: El Programador Del Sistema Operativo Social

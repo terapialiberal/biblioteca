@@ -1,13 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T15:30:56.234-03:00
-modified: 2026-04-29T15:31:16.951-03:00
-tags:
-  - argentina
-  - tecnologia
-  - satelites
-  - nuclear
-  - tl-intel-v3
+tipo: entidad
+titulo: INVAP
+estado: activo
+tags: [argentina, tecnologia, satelites, nuclear, tl-intel-v3]
 ---
 
 # INVAP

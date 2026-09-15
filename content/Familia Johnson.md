@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:13:02.154-03:00
-modified: 2026-04-29T14:13:24.798-03:00
-tags:
-  - dinastias
-  - corporaciones
-  - patrimonio
-  - tl-intel-v3
+tipo: actor-colectivo
+titulo: Familia Johnson
+estado: activo
+tags: [dinastias, corporaciones, patrimonio, tl-intel-v3]
 ---
 
 # Familia Johnson

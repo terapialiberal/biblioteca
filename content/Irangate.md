@@ -1,17 +1,11 @@
 ---
+titulo: Irangate
+tipo: evento
+fecha: 2026-05-02
+estado: activo
+aliases: ["Irán-Contra", "Iran-Contra", "Irán-Contra (Escándalo)"]
+tags: [irangate, iran-contra, cia, nicaragua, tl-intel-v3]
 publish: true
-aliases:
-  - Irán-Contra
-  - Iran-Contra
-  - Irán-Contra (Escándalo)
-created: 2026-05-01T20:39:48.871-03:00
-modified: 2026-05-02T12:58:38.191-03:00
-tags:
-  - irangate
-  - iran-contra
-  - cia
-  - nicaragua
-  - tl-intel-v3
 ---
 
 # Irangate

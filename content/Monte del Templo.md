@@ -1,18 +1,12 @@
 ---
 publish: true
-created: 2026-03-12T15:17:21.890-03:00
-modified: 2026-04-07T10:50:55.876-03:00
-tags:
-  - monte-del-templo
-  - jerusalem
-  - ben-gvir
-  - smotrich
-  - escatologia
-  - e3-acelerador
-  - agencia-descontrolada
-  - waqf
-  - al-aqsa
-  - trigger-escatologico
+titulo: Monte del Templo
+tipo: concepto
+tier_primario: "a"
+nivel_evidencia: "alto"
+estado: activo
+tags: [monte-del-templo, jerusalem, ben-gvir, smotrich, escatologia, e3-acelerador, agencia-descontrolada, waqf, al-aqsa, trigger-escatologico]
+fecha: 2026-03-12
 ---
 
 # Monte del Templo — El Trigger Escatológico con Cargo Ministerial

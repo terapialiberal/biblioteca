@@ -1,16 +1,11 @@
 ---
+titulo: Bilderberg
+tipo: nodo
+fecha: 2026-05-02
+estado: activo
+aliases: ["Grupo Bilderberg", "Bilderberg (Grupo)"]
+tags: [bilderberg, redes-elite, atlantismo, gobernanza, tl-intel-v3]
 publish: true
-aliases:
-  - Grupo Bilderberg
-  - Bilderberg (Grupo)
-created: 2026-01-29T19:17:05.304-03:00
-modified: 2026-05-02T13:03:01.038-03:00
-tags:
-  - bilderberg
-  - redes-elite
-  - atlantismo
-  - gobernanza
-  - tl-intel-v3
 ---
 
 # Bilderberg

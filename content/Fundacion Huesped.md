@@ -1,17 +1,13 @@
 ---
+titulo: Fundacion Huesped
+tipo: entidad
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Fundación Huésped", "Fundacion Huesped (Biopolitica Local)"]
+tags: [fundacion-huesped, argentina, salud-publica, bioseguridad, biopolitica, tl-intel-v3]
 publish: true
-aliases:
-  - Fundación Huésped
-  - Fundacion Huesped (Biopolitica Local)
-created: 2026-01-29T19:17:14.479-03:00
-modified: 2026-04-18T10:46:12.368-03:00
-tags:
-  - fundacion-huesped
-  - argentina
-  - salud-publica
-  - bioseguridad
-  - biopolitica
-  - tl-intel-v3
 ---
 
 # Fundacion Huesped

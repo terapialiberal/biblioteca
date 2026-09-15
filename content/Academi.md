@@ -1,12 +1,12 @@
 ---
+titulo: Academi (Blackwater / Xe)
+tipo: concepto
+fecha: 2026-02-25
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [academi, betsy, blackwater, erik]
 publish: true
-created: 2026-01-29T19:17:02.710-03:00
-modified: 2026-05-02T18:24:13.037-03:00
-tags:
-  - academi
-  - betsy
-  - blackwater
-  - erik
 ---
 
 # Academi (Blackwater / Xe)

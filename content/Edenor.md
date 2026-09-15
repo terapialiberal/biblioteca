@@ -1,13 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T13:36:31.710-03:00
-modified: 2026-04-29T13:37:15.496-03:00
-tags:
-  - empresa
-  - argentina
-  - energia
-  - servicios-publicos
-  - tl-intel-v3
+tipo: empresa
+titulo: Edenor
+estado: activo
+tags: [empresa, argentina, energia, servicios-publicos, tl-intel-v3]
 ---
 
 # Edenor

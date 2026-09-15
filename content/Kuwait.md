@@ -1,15 +1,11 @@
 ---
+titulo: Kuwait
+tipo: nodo
+fecha: 2026-05-02
+estado: activo
+aliases: ["Kuwait (Petróleo)"]
+tags: [kuwait, golfo, petroleo, energia, tl-intel-v3]
 publish: true
-aliases:
-  - Kuwait (Petróleo)
-created: 2026-05-01T20:44:24.579-03:00
-modified: 2026-05-02T12:49:52.194-03:00
-tags:
-  - kuwait
-  - golfo
-  - petroleo
-  - energia
-  - tl-intel-v3
 ---
 
 # Kuwait

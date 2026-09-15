@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T13:53:50.772-03:00
-modified: 2026-04-29T13:53:50.772-03:00
-tags:
-  - bitcoin
-  - criptomonedas
-  - fundaciones
-  - tl-intel-v3
+tipo: organizacion
+titulo: Bitcoin Foundation
+estado: activo
+tags: [bitcoin, criptomonedas, fundaciones, tl-intel-v3]
 ---
 
 # Bitcoin Foundation

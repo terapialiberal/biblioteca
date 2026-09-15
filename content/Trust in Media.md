@@ -1,14 +1,12 @@
 ---
+titulo: Trust in Media
+tipo: concepto
+fecha: 2026-04-21
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [trust-in-media, medios, legitimacion, confianza, narrativa, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:41.559-03:00
-modified: 2026-04-21T12:05:06.107-03:00
-tags:
-  - trust-in-media
-  - medios
-  - legitimacion
-  - confianza
-  - narrativa
-  - tl-intel-v3
 ---
 
 # Trust in Media

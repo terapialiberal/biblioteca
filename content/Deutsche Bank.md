@@ -1,15 +1,11 @@
 ---
+titulo: Deutsche Bank
+tipo: entidad
+fecha: 2026-05-02
+estado: activo
+aliases: ["Deutsche"]
+tags: [deutsche-bank, banca, alemania, derivados, tl-intel-v3]
 publish: true
-aliases:
-  - Deutsche
-created: 2026-01-29T19:17:10.176-03:00
-modified: 2026-05-02T13:06:23.401-03:00
-tags:
-  - deutsche-bank
-  - banca
-  - alemania
-  - derivados
-  - tl-intel-v3
 ---
 
 # Deutsche Bank

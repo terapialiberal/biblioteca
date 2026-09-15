@@ -1,15 +1,11 @@
 ---
+titulo: Gandhi
+tipo: nodo
+fecha: 2026-05-02
+estado: activo
+aliases: ["Mahatma Gandhi"]
+tags: [gandhi, india, independencia, no-violencia, tl-intel-v3]
 publish: true
-aliases:
-  - Mahatma Gandhi
-created: 2026-05-01T20:40:23.173-03:00
-modified: 2026-05-02T13:02:21.949-03:00
-tags:
-  - gandhi
-  - india
-  - independencia
-  - no-violencia
-  - tl-intel-v3
 ---
 
 # Gandhi

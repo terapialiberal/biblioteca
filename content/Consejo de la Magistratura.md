@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:09:21.970-03:00
-modified: 2026-04-29T14:09:35.024-03:00
-tags:
-  - argentina
-  - justicia
-  - instituciones
-  - tl-intel-v3
+tipo: organizacion
+titulo: Consejo de la Magistratura
+estado: activo
+tags: [argentina, justicia, instituciones, tl-intel-v3]
 ---
 
 # Consejo de la Magistratura

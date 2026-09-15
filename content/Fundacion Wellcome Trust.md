@@ -1,16 +1,13 @@
 ---
+titulo: Wellcome Trust
+tipo: entidad
+fecha: 2026-04-17
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Fundacion Wellcome Trust", "Fundación Wellcome Trust"]
+tags: [wellcome-trust, biomedicina, salud-global, genomica, tl-intel-v3]
 publish: true
-aliases:
-  - Fundacion Wellcome Trust
-  - Fundación Wellcome Trust
-created: 2026-01-29T19:17:14.557-03:00
-modified: 2026-04-17T17:02:49.274-03:00
-tags:
-  - wellcome-trust
-  - biomedicina
-  - salud-global
-  - genomica
-  - tl-intel-v3
 ---
 
 # Wellcome Trust

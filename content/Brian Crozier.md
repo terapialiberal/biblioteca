@@ -1,14 +1,10 @@
 ---
 publish: true
-aliases:
-  - Brian Crozier
-created: 2026-05-01T19:11:33.994-03:00
-modified: 2026-05-02T18:25:14.082-03:00
-tags:
-  - actor
-  - inteligencia
-  - propaganda
-  - guerra-fria
+titulo: "Brian Crozier"
+aliases: ["Brian Crozier"]
+tags: [actor, inteligencia, propaganda, guerra-fria]
+tipo: actor
+nivel: B
 ---
 
 # Brian Crozier

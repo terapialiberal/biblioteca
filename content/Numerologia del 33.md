@@ -1,12 +1,12 @@
 ---
+titulo: "Numerología Del 33: La Firma Ritual En La Matrix"
+tipo: "concepto"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [firma, masonera, matrix, trinity]
 publish: true
-created: 2026-01-29T19:17:27.623-03:00
-modified: 2026-05-02T18:25:50.639-03:00
-tags:
-  - firma
-  - masonera
-  - matrix
-  - trinity
 ---
 
 # Numerología Del 33: La Firma Ritual En La Matrix

@@ -1,13 +1,13 @@
 ---
+titulo: "Klaus Schwab"
 publish: true
-created: 2026-01-29T19:17:20.792-03:00
-modified: 2026-04-07T11:53:49.008-03:00
-tags:
-  - klaus-schwab
-  - wef
-  - great-reset
-  - gobernanza
-  - tl-intel-v3
+tipo: persona
+fecha: 2026-04-07
+tier_primario: B
+moc_canonico: [[00_MOC - Redes de Poder]]
+estado: activo
+fuentes_clave: []
+tags: [klaus-schwab, wef, great-reset, gobernanza, tl-intel-v3]
 ---
 
 # [[Klaus Schwab]]

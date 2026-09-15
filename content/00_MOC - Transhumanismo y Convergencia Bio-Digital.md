@@ -1,14 +1,11 @@
 ---
 publish: true
-created: 2026-04-21T12:09:28.764-03:00
-modified: 2026-04-22T16:58:30.769-03:00
-tags:
-  - moc
-  - transhumanismo
-  - bio-digital
-  - identidad
-  - control
-  - tl-intel-v3
+titulo: "MOC - Transhumanismo y Convergencia Bio-Digital"
+tipo: moc
+fecha: 2026-04-21
+estado: activo
+moc_canonico: [[00_MOC - Base de Conocimiento]]
+tags: [moc, transhumanismo, bio-digital, identidad, control, tl-intel-v3]
 ---
 
 # MOC - Transhumanismo y Convergencia Bio-Digital

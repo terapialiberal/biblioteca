@@ -1,17 +1,14 @@
 ---
+titulo: Palantir
+tipo: organizacion
+fecha: 2026-04-20
+vigencia: 2026-04-20
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: [Palantir Technologies, Palantir CIA]
+tags: [palantir, vigilancia, inteligencia, defensa, gobernanza-algoritmica, tl-intel-v3]
 publish: true
-aliases:
-  - Palantir Technologies
-  - Palantir CIA
-created: 2026-01-29T19:17:29.660-03:00
-modified: 2026-06-30T21:11:59.276-03:00
-tags:
-  - palantir
-  - vigilancia
-  - inteligencia
-  - defensa
-  - gobernanza-algoritmica
-  - tl-intel-v3
 ---
 
 # Palantir

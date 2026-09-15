@@ -1,13 +1,13 @@
 ---
 publish: true
-created: 2026-01-29T19:17:02.897-03:00
-modified: 2026-04-07T12:19:58.924-03:00
-tags:
-  - adolf-hitler
-  - wwii
-  - nazismo
-  - totalitarismo
-  - tl-intel-v3
+titulo: "Adolf Hitler"
+tipo: persona
+fecha: 2026-04-07
+tier_primario: B
+moc_canonico: [[00_MOC - Cronologico]]
+estado: activo
+fuentes_clave: []
+tags: [adolf-hitler, wwii, nazismo, totalitarismo, tl-intel-v3]
 ---
 
 # [[Adolf Hitler]]

@@ -1,14 +1,12 @@
 ---
+titulo: Walter Lippmann
+tipo: persona
+fecha: 2026-04-19
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [lippmann, propaganda, opinion-publica, consentimiento, medios, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:43.835-03:00
-modified: 2026-04-19T12:06:38.026-03:00
-tags:
-  - lippmann
-  - propaganda
-  - opinion-publica
-  - consentimiento
-  - medios
-  - tl-intel-v3
 ---
 
 # Walter Lippmann

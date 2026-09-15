@@ -1,15 +1,10 @@
 ---
 publish: true
-aliases:
-  - Bennie Thompson
-  - Bennie G. Thompson
-created: 2026-05-01T18:51:12.217-03:00
-modified: 2026-05-02T18:25:13.149-03:00
-tags:
-  - actor
-  - congreso-eeuu
-  - democrata
-  - seguridad-nacional
+titulo: "Bennie Thompson"
+aliases: ["Bennie Thompson", "Bennie G. Thompson"]
+tags: [actor, congreso-eeuu, democrata, seguridad-nacional]
+tipo: actor
+nivel: C
 ---
 
 # Bennie Thompson

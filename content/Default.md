@@ -1,16 +1,13 @@
 ---
+titulo: Default
+tipo: concepto
+fecha: 2026-05-02
+tier_primario: b
+nivel_evidencia: alto
+estado: activo
+aliases: ["Default soberano", "Incumplimiento de deuda"]
+tags: [default, deuda-soberana, crisis, acreedores, tl-intel-v3]
 publish: true
-aliases:
-  - Default soberano
-  - Incumplimiento de deuda
-created: 2026-05-01T20:45:53.989-03:00
-modified: 2026-05-02T12:22:03.778-03:00
-tags:
-  - default
-  - deuda-soberana
-  - crisis
-  - acreedores
-  - tl-intel-v3
 ---
 
 # Default

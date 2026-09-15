@@ -1,16 +1,13 @@
 ---
+titulo: Bonos Soberanos
+tipo: concepto
+fecha: 2026-04-24
+estado: activo
+aliases: ["Bonos Soberanos - El Grillete de las Naciones"]
+tags: [bonos, deuda, deuda-soberana, finanzas, argentina, tl-intel-v3]
+tier_primario: b
+nivel_evidencia: medio
 publish: true
-aliases:
-  - Bonos Soberanos - El Grillete de las Naciones
-created: 2026-02-25T22:49:02.833-03:00
-modified: 2026-04-24T12:13:38.009-03:00
-tags:
-  - bonos
-  - deuda
-  - deuda-soberana
-  - finanzas
-  - argentina
-  - tl-intel-v3
 ---
 
 # Bonos Soberanos

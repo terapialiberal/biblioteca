@@ -1,17 +1,13 @@
 ---
+titulo: Institucion Brookings
+tipo: entidad
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Brookings Institution", "Institución Brookings"]
+tags: [brookings, think-tank, washington, fundaciones, deep-state, tl-intel-v3]
 publish: true
-aliases:
-  - Brookings Institution
-  - Institución Brookings
-created: 2026-01-29T19:17:18.495-03:00
-modified: 2026-04-29T14:44:28.162-03:00
-tags:
-  - brookings
-  - think-tank
-  - washington
-  - fundaciones
-  - deep-state
-  - tl-intel-v3
 ---
 
 # Institucion Brookings

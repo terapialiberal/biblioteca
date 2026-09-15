@@ -1,15 +1,11 @@
 ---
+titulo: Monetarismo
+tipo: concepto
+fecha: 2026-05-02
+estado: activo
+aliases: ["Monetarismo (Escuela de Chicago)"]
+tags: [monetarismo, economia, dinero, friedman, tl-intel-v3]
 publish: true
-aliases:
-  - Monetarismo (Escuela de Chicago)
-created: 2026-05-01T20:43:02.988-03:00
-modified: 2026-05-02T12:51:27.214-03:00
-tags:
-  - monetarismo
-  - economia
-  - dinero
-  - friedman
-  - tl-intel-v3
 ---
 
 # Monetarismo

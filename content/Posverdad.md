@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T13:21:01.743-03:00
-modified: 2026-04-29T13:28:14.968-03:00
-tags:
-  - concepto
-  - propaganda
-  - medios
-  - tl-intel-v3
+tipo: concepto
+titulo: Posverdad
+estado: activo
+tags: [concepto, propaganda, medios, tl-intel-v3]
 ---
 
 # Posverdad

@@ -1,15 +1,12 @@
 ---
+titulo: Fundacion Heritage
+tipo: alias
+fecha: 2026-04-21
+estado: legacy
+aliases: ["The Heritage Foundation"]
+reemplazado_por: "[[Heritage Foundation]]"
+tags: [heritage-foundation, alias, legacy, think-tank, tl-intel-v3]
 publish: true
-aliases:
-  - The Heritage Foundation
-created: 2026-01-29T19:17:14.460-03:00
-modified: 2026-04-21T11:44:24.200-03:00
-tags:
-  - heritage-foundation
-  - alias
-  - legacy
-  - think-tank
-  - tl-intel-v3
 ---
 
 # Fundacion Heritage

@@ -1,12 +1,12 @@
 ---
+titulo: "Patocracia: La Gobernanza Del Mal Totalitario"
+tipo: "concepto"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [andrew, gobernanza, ponerologa, totalitario]
 publish: true
-created: 2026-01-29T19:17:29.903-03:00
-modified: 2026-05-02T18:25:54.443-03:00
-tags:
-  - andrew
-  - gobernanza
-  - ponerologa
-  - totalitario
 ---
 
 # Patocracia: La Gobernanza Del Mal Totalitario

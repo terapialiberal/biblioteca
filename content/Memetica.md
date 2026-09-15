@@ -1,11 +1,12 @@
 ---
+titulo: "Memética: La Guerra Por El Egregore"
+tipo: "concepto"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [egregore, guerra, memtica]
 publish: true
-created: 2026-01-29T19:17:24.636-03:00
-modified: 2026-05-02T18:25:46.042-03:00
-tags:
-  - egregore
-  - guerra
-  - memtica
 ---
 
 # Memética: La Guerra Por El Egregore

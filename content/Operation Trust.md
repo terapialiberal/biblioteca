@@ -1,12 +1,12 @@
 ---
+titulo: "Operation Trust: El Arte De Neutralizar La Esperanza"
+tipo: "persona"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [neutralizar, operation, trust, vladimir]
 publish: true
-created: 2026-01-29T19:17:29.153-03:00
-modified: 2026-05-02T18:25:53.069-03:00
-tags:
-  - neutralizar
-  - operation
-  - trust
-  - vladimir
 ---
 
 # Operation Trust: El Arte De Neutralizar La Esperanza

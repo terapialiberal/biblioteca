@@ -1,14 +1,15 @@
 ---
-publish: true
+titulo: Jonathan Pollard
 aliases:
   - Jonathan Pollard
-created: 2026-01-29T19:17:20.088-03:00
-modified: 2026-04-07T13:30:47.380-03:00
+tipo: persona
+estado: activo
 tags:
   - espionaje
   - israel
   - estados-unidos
   - inteligencia
+publish: true
 ---
 
 # Jonathan Pollard

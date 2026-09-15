@@ -1,13 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T15:30:58.865-03:00
-modified: 2026-04-29T15:31:28.967-03:00
-tags:
-  - banca
-  - wall-street
-  - revolucion-rusa
-  - finanzas
-  - tl-intel-v3
+tipo: entidad
+titulo: Kuhn, Loeb & Co.
+estado: activo
+tags: [banca, wall-street, revolucion-rusa, finanzas, tl-intel-v3]
 ---
 
 # Kuhn, Loeb & Co.

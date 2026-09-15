@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T13:53:51.321-03:00
-modified: 2026-04-29T13:53:51.321-03:00
-tags:
-  - argentina
-  - federalismo
-  - finanzas-publicas
-  - tl-intel-v3
+tipo: concepto
+titulo: Coparticipación Federal
+estado: activo
+tags: [argentina, federalismo, finanzas-publicas, tl-intel-v3]
 ---
 
 # Coparticipación Federal

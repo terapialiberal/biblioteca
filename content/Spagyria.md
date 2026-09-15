@@ -1,16 +1,13 @@
 ---
+titulo: Spagyria
+tipo: concepto
+fecha: 2026-04-27
+estado: activo
+aliases: ["Espagiria"]
+tags: [spagyria, alquimia, paracelso, simbolismo, esoterismo, tl-intel-v3]
+tier_primario: c
+nivel_evidencia: medio
 publish: true
-aliases:
-  - Espagiria
-created: 2026-02-25T22:08:57.332-03:00
-modified: 2026-04-27T10:09:46.656-03:00
-tags:
-  - spagyria
-  - alquimia
-  - paracelso
-  - simbolismo
-  - esoterismo
-  - tl-intel-v3
 ---
 
 # Spagyria

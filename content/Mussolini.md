@@ -1,15 +1,11 @@
 ---
+titulo: Mussolini
+tipo: nodo
+fecha: 2026-05-02
+estado: activo
+aliases: ["Benito Mussolini"]
+tags: [mussolini, italia, fascismo, corporativismo, tl-intel-v3]
 publish: true
-aliases:
-  - Benito Mussolini
-created: 2026-05-01T20:40:34.256-03:00
-modified: 2026-05-02T13:01:42.928-03:00
-tags:
-  - mussolini
-  - italia
-  - fascismo
-  - corporativismo
-  - tl-intel-v3
 ---
 
 # Mussolini

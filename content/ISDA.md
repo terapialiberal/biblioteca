@@ -1,16 +1,13 @@
 ---
+titulo: ISDA
+tipo: entidad
+fecha: 2026-04-22
+aliases: ["International Swaps and Derivatives Association"]
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [isda, derivados, cds, netting, default, tl-intel-v3]
 publish: true
-aliases:
-  - International Swaps and Derivatives Association
-created: 2026-01-29T19:17:18.974-03:00
-modified: 2026-04-22T16:44:53.799-03:00
-tags:
-  - isda
-  - derivados
-  - cds
-  - netting
-  - default
-  - tl-intel-v3
 ---
 
 # ISDA

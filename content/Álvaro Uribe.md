@@ -1,17 +1,11 @@
 ---
+titulo: Álvaro Uribe
+tipo: nodo
+fecha: 2026-05-02
+estado: activo
+aliases: ["Alvaro Uribe", "Alvaro Uribe Velez", "Álvaro Uribe Vélez"]
+tags: [alvaro-uribe, colombia, seguridad, paramilitares, tl-intel-v3]
 publish: true
-aliases:
-  - Alvaro Uribe
-  - Alvaro Uribe Velez
-  - Álvaro Uribe Vélez
-created: 2026-05-01T19:11:52.765-03:00
-modified: 2026-05-02T13:53:10.517-03:00
-tags:
-  - alvaro-uribe
-  - colombia
-  - seguridad
-  - paramilitares
-  - tl-intel-v3
 ---
 
 # Álvaro Uribe

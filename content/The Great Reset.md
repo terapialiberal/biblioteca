@@ -1,13 +1,11 @@
 ---
+titulo: The Great Reset
+tipo: alias
+fecha: 2026-04-21
+estado: legacy
+reemplazado_por: [[Great Reset]]
+tags: [alias, legacy, great-reset, wef, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:39.540-03:00
-modified: 2026-04-21T20:15:29.086-03:00
-tags:
-  - alias
-  - legacy
-  - great-reset
-  - wef
-  - tl-intel-v3
 ---
 
 # The Great Reset

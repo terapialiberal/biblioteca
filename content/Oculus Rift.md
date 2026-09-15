@@ -1,14 +1,12 @@
 ---
+titulo: Oculus Rift
+tipo: producto
+fecha: 2026-04-19
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [oculus-rift, realidad-virtual, interfaces, palmer-luckey, meta, tl-intel-v3]
 publish: true
-created: 2026-04-19T12:47:03.855-03:00
-modified: 2026-04-19T12:47:04.469-03:00
-tags:
-  - oculus-rift
-  - realidad-virtual
-  - interfaces
-  - palmer-luckey
-  - meta
-  - tl-intel-v3
 ---
 
 # Oculus Rift

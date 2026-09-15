@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T13:53:52.408-03:00
-modified: 2026-04-29T13:53:52.408-03:00
-tags:
-  - medios
-  - verificacion
-  - informacion
-  - tl-intel-v3
+tipo: mecanismo
+titulo: Fact-Checking
+estado: activo
+tags: [medios, verificacion, informacion, tl-intel-v3]
 ---
 
 # Fact-Checking

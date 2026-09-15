@@ -1,13 +1,12 @@
 ---
+titulo: Grupo Vanguard (Vanguard Group)
+tipo: entidad
+fecha: 2026-04-17
+tier_primario: a
+nivel_evidencia: medio
+estado: activo
+tags: [vanguard, propiedad-comun, gestores-de-activos, control-financiero, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:16.123-03:00
-modified: 2026-04-24T09:46:38.062-03:00
-tags:
-  - vanguard
-  - propiedad-comun
-  - gestores-de-activos
-  - control-financiero
-  - tl-intel-v3
 ---
 
 # Grupo Vanguard (Vanguard Group)
@@ -53,3 +52,7 @@ Su utilidad analítica es mostrar cómo puede existir concentración sistémica 
 - [[Matrix de Poder]]
 - [[Riesgo de la Inversion Pasiva]]
 - [[00_MOC - Control Financiero]]
+
+## Casos relacionados
+
+- [[06_Videos_Publicados/2026/2026-07-13_Graham_BigThree_Ankara/POSTMORTEM_INTEL|Graham / Big Three / Ankara]] (17 jul 2026) — Vanguard como la caja negra del supra-bloque: NO cotiza en bolsa → dueño imposible de determinar (opacidad estructural). Es dueña cruzada de Lockheed/RTX/Northrop + 60+ subsidiarias militares chinas. El fondo no elige bando: es la "casa" que cobra el toll de Ormuz gane quien gane. Vanguard elegida para Trump Accounts (CNBC 1-2 jul).

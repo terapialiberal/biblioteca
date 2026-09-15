@@ -1,16 +1,13 @@
 ---
+titulo: Eleccion de Milei
+tipo: evento
+fecha: 2026-04-24
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Elección de Milei"]
+tags: [argentina, milei, elecciones, oficialismo, crisis-politica, tl-intel-v3]
 publish: true
-aliases:
-  - Elección de Milei
-created: 2026-01-29T19:17:11.618-03:00
-modified: 2026-04-24T12:13:39.937-03:00
-tags:
-  - argentina
-  - milei
-  - elecciones
-  - oficialismo
-  - crisis-politica
-  - tl-intel-v3
 ---
 
 # Eleccion de Milei

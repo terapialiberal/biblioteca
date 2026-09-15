@@ -1,15 +1,11 @@
 ---
+titulo: ONU
+tipo: entidad
+fecha: 2026-05-02
+estado: activo
+aliases: ["Naciones Unidas", "United Nations"]
+tags: [onu, gobernanza-global, multilateralismo, tl-intel-v3]
 publish: true
-aliases:
-  - Naciones Unidas
-  - United Nations
-created: 2026-04-27T11:52:20.687-03:00
-modified: 2026-05-02T13:46:33.398-03:00
-tags:
-  - onu
-  - gobernanza-global
-  - multilateralismo
-  - tl-intel-v3
 ---
 
 # ONU

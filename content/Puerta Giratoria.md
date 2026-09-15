@@ -1,16 +1,13 @@
 ---
+titulo: Puerta Giratoria
+tipo: concepto
+fecha: 2026-04-21
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Puerta Giratoria (Concepto)"]
+tags: [puerta-giratoria, captura, regulacion, lobby, estado-corporacion, tl-intel-v3]
 publish: true
-aliases:
-  - Puerta Giratoria (Concepto)
-created: 2026-01-29T19:17:32.223-03:00
-modified: 2026-04-21T13:29:33.116-03:00
-tags:
-  - puerta-giratoria
-  - captura
-  - regulacion
-  - lobby
-  - estado-corporacion
-  - tl-intel-v3
 ---
 
 # Puerta Giratoria

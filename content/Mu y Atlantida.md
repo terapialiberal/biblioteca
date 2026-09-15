@@ -1,7 +1,8 @@
 ---
 publish: true
-created: 2026-02-25T22:08:53.473-03:00
-modified: 2026-04-07T11:48:55.180-03:00
+titulo: Mu Y Atlántida (Iteraciones Del Sistema V1.0 Y TL V.3)
+tipo: concepto
+estado: activo
 ---
 
 # Mu Y Atlántida (Iteraciones Del Sistema V1.0 Y TL V.3)

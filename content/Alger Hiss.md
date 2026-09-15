@@ -2,13 +2,14 @@
 publish: true
 aliases:
   - Alger Hiss
-created: 2026-05-01T19:12:30.109-03:00
-modified: 2026-05-02T18:25:11.260-03:00
 tags:
   - actor
   - espionaje
   - guerra-fria
   - establishment
+tipo: actor
+nivel: C
+titulo: Alger Hiss
 ---
 
 # Alger Hiss

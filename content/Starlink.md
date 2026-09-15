@@ -1,16 +1,13 @@
 ---
+titulo: Starlink
+tipo: infraestructura
+fecha: 2026-04-20
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Starlink: Geopolítica: la Infraestructura de la Soberanía Orbital"]
+tags: [starlink, spacex, satelites, conectividad, guerra-en-redes, tl-intel-v3]
 publish: true
-aliases:
-  - "Starlink: Geopolítica: la Infraestructura de la Soberanía Orbital"
-created: 2026-01-29T19:17:37.864-03:00
-modified: 2026-04-20T10:11:24.165-03:00
-tags:
-  - starlink
-  - spacex
-  - satelites
-  - conectividad
-  - guerra-en-redes
-  - tl-intel-v3
 ---
 
 # Starlink

@@ -1,13 +1,12 @@
 ---
+titulo: Elite Coordinada
+tipo: concepto
+fecha: 2026-04-17
+tier_primario: a
+nivel_evidencia: medio
+estado: activo
+tags: [elite, coordinacion, clase, poder, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:45.068-03:00
-modified: 2026-04-17T13:46:31.303-03:00
-tags:
-  - elite
-  - coordinacion
-  - clase
-  - poder
-  - tl-intel-v3
 ---
 
 # Elite Coordinada

@@ -1,12 +1,14 @@
 ---
 publish: true
-created: 2026-04-29T13:56:36.500-03:00
-modified: 2026-05-02T14:15:34.387-03:00
+tipo: alias
+titulo: Informe Flexner (1910)
+estado: activo
 tags:
   - alias
   - medicina
   - educacion
   - tl-intel-v3
+reemplazado_por: '[[Informe Flexner]]'
 ---
 
 # Informe Flexner (1910)

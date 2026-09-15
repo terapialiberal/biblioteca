@@ -1,12 +1,12 @@
 ---
+titulo: "N M Rothschild and Sons: El Arquitecto De La Deuda Soberana"
+tipo: "concepto"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [arquitecto, city, deuda, rothschild]
 publish: true
-created: 2026-01-29T19:17:26.249-03:00
-modified: 2026-05-02T18:25:48.512-03:00
-tags:
-  - arquitecto
-  - city
-  - deuda
-  - rothschild
 ---
 
 # N M Rothschild and Sons: El Arquitecto De La Deuda Soberana

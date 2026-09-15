@@ -1,12 +1,12 @@
 ---
+titulo: Resumen General
+tipo: "persona"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [alarmismo, coordinado, operaciones, problema]
 publish: true
-created: 2026-01-29T19:17:03.131-03:00
-modified: 2026-05-02T18:24:14.677-03:00
-tags:
-  - alarmismo
-  - coordinado
-  - operaciones
-  - problema
 ---
 
 # Resumen General

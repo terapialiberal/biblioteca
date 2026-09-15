@@ -1,12 +1,12 @@
 ---
+titulo: "Jonestown: El Laboratorio De Biopolítica En La Selva"
+tipo: "concepto"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [biopoltica, laboratorio, mkultra, selva]
 publish: true
-created: 2026-01-29T19:17:20.113-03:00
-modified: 2026-05-02T18:25:37.824-03:00
-tags:
-  - biopoltica
-  - laboratorio
-  - mkultra
-  - selva
 ---
 
 # Jonestown: El Laboratorio De Biopolítica En La Selva

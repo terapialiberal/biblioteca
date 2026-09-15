@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:13:02.031-03:00
-modified: 2026-04-29T14:13:24.740-03:00
-tags:
-  - salud-publica
-  - bioetica
-  - guatemala
-  - tl-intel-v3
+tipo: caso
+titulo: Experimentos de Sífilis en Guatemala
+estado: activo
+tags: [salud-publica, bioetica, guatemala, tl-intel-v3]
 ---
 
 # Experimentos de Sífilis en Guatemala

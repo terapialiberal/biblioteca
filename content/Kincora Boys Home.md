@@ -1,12 +1,12 @@
 ---
+titulo: "Kincora Boys Home: El Laboratorio De Extorsión Del MI5"
+tipo: "persona"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [boys, jeffrey, kincora, laboratorio]
 publish: true
-created: 2026-01-29T19:17:20.721-03:00
-modified: 2026-05-02T18:25:39.108-03:00
-tags:
-  - boys
-  - jeffrey
-  - kincora
-  - laboratorio
 ---
 
 # Kincora Boys Home: El Laboratorio De Extorsión Del MI5

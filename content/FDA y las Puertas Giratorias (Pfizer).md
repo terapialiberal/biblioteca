@@ -1,16 +1,12 @@
 ---
+titulo: FDA y las Puertas Giratorias (Pfizer)
+tipo: alias
+fecha: 2026-04-21
+estado: legacy
+reemplazado_por: "[[La Puerta Giratoria de la FDA]]"
+aliases: ["FDA y las puertas giratorias (Pfizer)"]
+tags: [legacy, alias, fda, pfizer, puerta-giratoria, tl-intel-v3]
 publish: true
-aliases:
-  - FDA y las puertas giratorias (Pfizer)
-created: 2026-04-21T13:29:26.868-03:00
-modified: 2026-05-02T18:15:21.132-03:00
-tags:
-  - legacy
-  - alias
-  - fda
-  - pfizer
-  - puerta-giratoria
-  - tl-intel-v3
 ---
 
 # FDA y las Puertas Giratorias (Pfizer)

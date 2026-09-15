@@ -1,14 +1,12 @@
 ---
+titulo: Johnson and Johnson
+tipo: entidad
+fecha: 2026-04-21
+tier_primario: a
+nivel_evidencia: medio
+estado: activo
+tags: [johnson-and-johnson, pharma, salud, captura-regulatoria, big-pharma, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:20.043-03:00
-modified: 2026-04-21T19:11:33.292-03:00
-tags:
-  - johnson-and-johnson
-  - pharma
-  - salud
-  - captura-regulatoria
-  - big-pharma
-  - tl-intel-v3
 ---
 
 # Johnson and Johnson

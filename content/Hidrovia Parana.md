@@ -1,18 +1,13 @@
 ---
+titulo: Hidrovia Parana
+tipo: infraestructura
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Hidrovia Parana", "Hidrovia Parana-Paraguay"]
+tags: [argentina, hidrovia, logistica, puertos, exportaciones, soberania, tl-intel-v3]
 publish: true
-aliases:
-  - Hidrovia Parana
-  - Hidrovia Parana-Paraguay
-created: 2026-01-29T19:17:17.100-03:00
-modified: 2026-04-18T12:15:11.154-03:00
-tags:
-  - argentina
-  - hidrovia
-  - logistica
-  - puertos
-  - exportaciones
-  - soberania
-  - tl-intel-v3
 ---
 
 # Hidrovia Parana

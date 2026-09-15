@@ -1,12 +1,12 @@
 ---
+titulo: "L. Ron Hubbard: El Ingeniero De La Inteligencia Escatológica"
+tipo: "persona"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [cienciologa, escatolgica, ingeniero, jack]
 publish: true
-created: 2026-01-29T19:17:20.924-03:00
-modified: 2026-05-02T18:25:39.692-03:00
-tags:
-  - cienciologa
-  - escatolgica
-  - ingeniero
-  - jack
 ---
 
 # L. Ron Hubbard: El Ingeniero De La Inteligencia Escatológica

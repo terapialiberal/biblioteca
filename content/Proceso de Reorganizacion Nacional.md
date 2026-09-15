@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T13:36:21.506-03:00
-modified: 2026-04-29T13:37:14.493-03:00
-tags:
-  - argentina
-  - dictadura
-  - guerra-sucia
-  - tl-intel-v3
+tipo: evento-regimen
+titulo: Proceso de Reorganizacion Nacional
+estado: activo
+tags: [argentina, dictadura, guerra-sucia, tl-intel-v3]
 ---
 
 # Proceso de Reorganizacion Nacional

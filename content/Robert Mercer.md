@@ -1,12 +1,16 @@
 ---
-publish: true
-created: 2026-01-29T19:17:34.214-03:00
-modified: 2026-04-18T18:34:45.442-03:00
+titulo: Robert Mercer
+tipo: persona
+fecha: 2026-04-18
+tier_primario: B
+nivel_evidencia: medio
+estado: activo
 tags:
   - robert-mercer
   - datos
   - politica
   - cambridge-analytica
+publish: true
 ---
 
 # [[Robert Mercer]]

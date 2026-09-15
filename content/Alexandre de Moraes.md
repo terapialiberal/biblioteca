@@ -2,14 +2,15 @@
 publish: true
 aliases:
   - Alexandre de Moraes
-created: 2026-05-01T18:54:08.347-03:00
-modified: 2026-05-02T18:25:11.208-03:00
 tags:
   - actor
   - brasil
   - stf
   - justicia
   - censura
+tipo: actor
+nivel: B
+titulo: Alexandre de Moraes
 ---
 
 # Alexandre de Moraes

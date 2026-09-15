@@ -1,16 +1,11 @@
 ---
+titulo: Comisión Trilateral
+tipo: nodo
+fecha: 2026-05-02
+estado: activo
+aliases: ["Comision Trilateral", "Trilateral Commission"]
+tags: [comision-trilateral, rockefeller, brzezinski, redes-elite, tl-intel-v3]
 publish: true
-aliases:
-  - Comision Trilateral
-  - Trilateral Commission
-created: 2026-04-21T13:20:13.286-03:00
-modified: 2026-05-02T13:54:52.028-03:00
-tags:
-  - comision-trilateral
-  - rockefeller
-  - brzezinski
-  - redes-elite
-  - tl-intel-v3
 ---
 
 # Comisión Trilateral

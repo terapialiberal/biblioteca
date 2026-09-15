@@ -1,17 +1,13 @@
 ---
+titulo: La Nacion +
+tipo: entidad
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["La Nación +", "LN+"]
+tags: [argentina, medios, derecha, narrativa, tv, tl-intel-v3]
 publish: true
-aliases:
-  - La Nación +
-  - LN+
-created: 2026-01-29T19:17:21.456-03:00
-modified: 2026-04-18T11:56:21.197-03:00
-tags:
-  - argentina
-  - medios
-  - derecha
-  - narrativa
-  - tv
-  - tl-intel-v3
 ---
 
 # La Nacion +

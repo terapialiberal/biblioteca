@@ -1,12 +1,16 @@
 ---
-publish: true
-created: 2026-01-29T19:17:32.746-03:00
-modified: 2026-04-18T18:34:45.568-03:00
+titulo: Recorded Future
+tipo: entidad
+fecha: 2026-04-18
+tier_primario: B
+nivel_evidencia: medio
+estado: activo
 tags:
   - recorded-future
   - inteligencia
   - analitica-predictiva
   - vigilancia
+publish: true
 ---
 
 # [[Recorded Future]]

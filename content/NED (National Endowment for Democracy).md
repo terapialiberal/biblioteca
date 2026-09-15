@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T13:21:47.080-03:00
-modified: 2026-04-29T13:25:26.344-03:00
-tags:
-  - organizacion
-  - soft-power
-  - cambio-de-regimen
-  - tl-intel-v3
+tipo: organizacion
+titulo: NED (National Endowment for Democracy)
+estado: activo
+tags: [organizacion, soft-power, cambio-de-regimen, tl-intel-v3]
 ---
 
 # NED (National Endowment for Democracy)

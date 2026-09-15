@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:05:24.646-03:00
-modified: 2026-04-29T14:05:38.293-03:00
-tags:
-  - biotecnologia
-  - bioseguridad
-  - salud
-  - tl-intel-v3
+tipo: concepto
+titulo: Biologia Sintetica
+estado: activo
+tags: [biotecnologia, bioseguridad, salud, tl-intel-v3]
 ---
 
 # Biologia Sintetica

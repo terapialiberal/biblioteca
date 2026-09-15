@@ -1,14 +1,10 @@
 ---
 publish: true
-aliases:
-  - Ayn Rand
-created: 2026-05-01T18:53:49.845-03:00
-modified: 2026-05-02T18:25:12.533-03:00
-tags:
-  - actor
-  - filosofia
-  - objetivismo
-  - libertarianismo
+titulo: "Ayn Rand"
+aliases: ["Ayn Rand"]
+tags: [actor, filosofia, objetivismo, libertarianismo]
+tipo: actor
+nivel: B
 ---
 
 # Ayn Rand

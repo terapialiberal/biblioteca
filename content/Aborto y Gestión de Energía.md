@@ -2,13 +2,14 @@
 publish: true
 aliases:
   - Aborto y Gestión de Energía
-created: 2026-05-01T19:13:58.769-03:00
-modified: 2026-05-02T18:25:10.571-03:00
 tags:
   - concepto
   - biopolitica
   - energia
   - poblacion
+tipo: concepto
+nivel: C
+titulo: Aborto y Gestión de Energía
 ---
 
 # Aborto y Gestión de Energía

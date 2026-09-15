@@ -1,15 +1,11 @@
 ---
+titulo: Bab el-Mandeb
+tipo: nodo
+fecha: 2026-05-02
+estado: activo
+aliases: ["Bab el Mandeb"]
+tags: [bab-el-mandeb, chokepoint, yemen, mar-rojo, tl-intel-v3]
 publish: true
-aliases:
-  - Bab el Mandeb
-created: 2026-01-29T19:17:04.623-03:00
-modified: 2026-05-02T13:48:37.781-03:00
-tags:
-  - bab-el-mandeb
-  - chokepoint
-  - yemen
-  - mar-rojo
-  - tl-intel-v3
 ---
 
 # Bab el-Mandeb

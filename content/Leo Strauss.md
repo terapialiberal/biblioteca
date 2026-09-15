@@ -1,15 +1,13 @@
 ---
+titulo: Leo Strauss
+tipo: persona
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Leo Strauss: El Arquitecto De La Mentira Noble"]
+tags: [leo-strauss, neoconservadores, mentira-noble, filosofia-politica, tl-intel-v3]
 publish: true
-aliases:
-  - "Leo Strauss: El Arquitecto De La Mentira Noble"
-created: 2026-01-29T19:17:22.223-03:00
-modified: 2026-04-18T18:24:42.583-03:00
-tags:
-  - leo-strauss
-  - neoconservadores
-  - mentira-noble
-  - filosofia-politica
-  - tl-intel-v3
 ---
 
 # Leo Strauss

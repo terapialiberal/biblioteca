@@ -1,16 +1,13 @@
 ---
+titulo: Ciudades C40
+tipo: entidad
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["C40 Cities"]
+tags: [c40, ciudades-inteligentes, gobernanza-urbana, agenda-climatica, bloomberg, tl-intel-v3]
 publish: true
-aliases:
-  - C40 Cities
-created: 2026-01-29T19:17:07.850-03:00
-modified: 2026-04-18T17:26:50.201-03:00
-tags:
-  - c40
-  - ciudades-inteligentes
-  - gobernanza-urbana
-  - agenda-climatica
-  - bloomberg
-  - tl-intel-v3
 ---
 
 # Ciudades C40

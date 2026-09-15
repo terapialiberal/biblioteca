@@ -1,15 +1,11 @@
 ---
+titulo: Australia
+tipo: nodo
+fecha: 2026-05-02
+estado: activo
+aliases: ["Australia (Geopolítica)"]
+tags: [australia, aukus, china, recursos, tl-intel-v3]
 publish: true
-aliases:
-  - Australia (Geopolítica)
-created: 2026-04-29T14:51:44.362-03:00
-modified: 2026-05-02T12:54:42.635-03:00
-tags:
-  - australia
-  - aukus
-  - china
-  - recursos
-  - tl-intel-v3
 ---
 
 # Australia

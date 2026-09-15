@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:05:23.264-03:00
-modified: 2026-04-29T14:05:35.168-03:00
-tags:
-  - microsoft
-  - nube
-  - infraestructura-digital
-  - tl-intel-v3
+tipo: infraestructura
+titulo: Azure
+estado: activo
+tags: [microsoft, nube, infraestructura-digital, tl-intel-v3]
 ---
 
 # Azure

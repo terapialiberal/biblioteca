@@ -1,15 +1,10 @@
 ---
 publish: true
-aliases:
-  - Betsy DeVos
-created: 2026-05-01T19:10:53.822-03:00
-modified: 2026-05-02T18:25:13.350-03:00
-tags:
-  - actor
-  - eeuu
-  - educacion
-  - filantropia
-  - privatizacion
+titulo: "Betsy DeVos"
+aliases: ["Betsy DeVos"]
+tags: [actor, eeuu, educacion, filantropia, privatizacion]
+tipo: actor
+nivel: C
 ---
 
 # Betsy DeVos

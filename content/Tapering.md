@@ -1,16 +1,13 @@
 ---
+titulo: Tapering
+tipo: concepto
+fecha: 2026-05-02
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Reducción de compras de activos", "Taper"]
+tags: [tapering, qe, reserva-federal, liquidez, tl-intel-v3]
 publish: true
-aliases:
-  - Reducción de compras de activos
-  - Taper
-created: 2026-05-01T20:46:04.725-03:00
-modified: 2026-05-02T12:22:04.934-03:00
-tags:
-  - tapering
-  - qe
-  - reserva-federal
-  - liquidez
-  - tl-intel-v3
 ---
 
 # Tapering

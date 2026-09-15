@@ -1,15 +1,11 @@
 ---
+titulo: Eugenesia
+tipo: concepto
+fecha: 2026-05-02
+estado: activo
+aliases: ["Eugenesia (Historia y Actualidad)"]
+tags: [eugenesia, poblacion, genetica, biopolitica, tl-intel-v3]
 publish: true
-aliases:
-  - Eugenesia (Historia y Actualidad)
-created: 2026-04-29T13:53:52.319-03:00
-modified: 2026-05-02T12:51:26.792-03:00
-tags:
-  - eugenesia
-  - poblacion
-  - genetica
-  - biopolitica
-  - tl-intel-v3
 ---
 
 # Eugenesia

@@ -1,14 +1,18 @@
 ---
-publish: true
+titulo: Operacion Northwoods
+tipo: evento
+fecha: 2026-04-18
+tier_primario: B
+nivel_evidencia: alto
+estado: activo
 aliases:
-  - Operación Northwoods
-created: 2026-01-29T19:17:28.743-03:00
-modified: 2026-04-18T18:31:42.463-03:00
+  - "Operación Northwoods"
 tags:
   - operacion-northwoods
   - falsa-bandera
   - guerra-psicologica
   - seguridad-nacional
+publish: true
 ---
 
 # [[Operacion Northwoods]]

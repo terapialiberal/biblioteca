@@ -1,17 +1,11 @@
 ---
+titulo: Pandemia COVID-19
+tipo: evento
+fecha: 2026-05-02
+estado: activo
+aliases: ["COVID-19", "Coronavirus", "COVID-19 (Pandemia)"]
+tags: [covid-19, pandemia, salud-global, biopolitica, tl-intel-v3]
 publish: true
-aliases:
-  - COVID-19
-  - Coronavirus
-  - COVID-19 (Pandemia)
-created: 2026-05-01T20:42:02.263-03:00
-modified: 2026-05-02T12:55:31.651-03:00
-tags:
-  - covid-19
-  - pandemia
-  - salud-global
-  - biopolitica
-  - tl-intel-v3
 ---
 
 # Pandemia COVID-19

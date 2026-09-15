@@ -1,12 +1,12 @@
 ---
+titulo: "La Conexión Francesa: La Logística Del Narcotráfico De Estado"
+tipo: "persona"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [estado, francesa, logstica, mafia]
 publish: true
-created: 2026-01-29T19:17:21.127-03:00
-modified: 2026-05-02T18:25:40.307-03:00
-tags:
-  - estado
-  - francesa
-  - logstica
-  - mafia
 ---
 
 # La Conexión Francesa: La Logística Del Narcotráfico De Estado

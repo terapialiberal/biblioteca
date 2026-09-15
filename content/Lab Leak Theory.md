@@ -1,16 +1,13 @@
 ---
+titulo: Lab Leak Theory
+tipo: concepto
+fecha: 2026-04-21
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Teoria De La Fuga De Laboratorio: El Encubrimiento De La Quimera Biopolitica"]
+tags: [lab-leak, fuga-de-laboratorio, wuhan, bioseguridad, censura, tl-intel-v3]
 publish: true
-aliases:
-  - "Teoria De La Fuga De Laboratorio: El Encubrimiento De La Quimera Biopolitica"
-created: 2026-01-29T19:17:21.659-03:00
-modified: 2026-04-21T18:58:49.213-03:00
-tags:
-  - lab-leak
-  - fuga-de-laboratorio
-  - wuhan
-  - bioseguridad
-  - censura
-  - tl-intel-v3
 ---
 
 # Lab Leak Theory

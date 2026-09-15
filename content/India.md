@@ -1,15 +1,11 @@
 ---
+titulo: India
+tipo: nodo
+fecha: 2026-05-02
+estado: activo
+aliases: ["India (Potencia)"]
+tags: [india, brics, china, tecnologia, tl-intel-v3]
 publish: true
-aliases:
-  - India (Potencia)
-created: 2026-01-29T19:17:18.304-03:00
-modified: 2026-05-02T12:54:43.189-03:00
-tags:
-  - india
-  - brics
-  - china
-  - tecnologia
-  - tl-intel-v3
 ---
 
 # India

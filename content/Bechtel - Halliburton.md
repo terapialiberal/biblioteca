@@ -1,14 +1,10 @@
 ---
 publish: true
-aliases:
-  - Bechtel / Halliburton
-created: 2026-05-01T18:54:46.947-03:00
-modified: 2026-05-02T18:25:12.864-03:00
-tags:
-  - empresa
-  - construccion
-  - militar
-  - irak
+titulo: "Bechtel - Halliburton"
+aliases: ["Bechtel / Halliburton"]
+tags: [empresa, construccion, militar, irak]
+tipo: empresa
+nivel: A
 ---
 
 # Bechtel - Halliburton

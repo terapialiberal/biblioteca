@@ -1,14 +1,12 @@
 ---
+titulo: Facciones MAGA
+tipo: concepto
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [maga, facciones, nueva-derecha, trump, thiel, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:13.026-03:00
-modified: 2026-04-18T17:51:14.412-03:00
-tags:
-  - maga
-  - facciones
-  - nueva-derecha
-  - trump
-  - thiel
-  - tl-intel-v3
 ---
 
 # Facciones MAGA

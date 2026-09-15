@@ -1,14 +1,12 @@
 ---
+titulo: Libertad de Prensa
+tipo: concepto
+fecha: 2026-04-24
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [libertad-de-prensa, medios, narrativa, pauta, censura, tl-intel-v3]
 publish: true
-created: 2026-04-24T11:31:34.986-03:00
-modified: 2026-04-24T11:31:34.986-03:00
-tags:
-  - libertad-de-prensa
-  - medios
-  - narrativa
-  - pauta
-  - censura
-  - tl-intel-v3
 ---
 
 # Libertad de Prensa

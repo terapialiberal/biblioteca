@@ -1,12 +1,12 @@
 ---
+titulo: "José Luis Manzano: El Maestro De La Metamorfosis Del Poder"
+tipo: "persona"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [edenor, luis, manzano, poder]
 publish: true
-created: 2026-01-29T19:17:20.249-03:00
-modified: 2026-05-02T18:25:38.078-03:00
-tags:
-  - edenor
-  - luis
-  - manzano
-  - poder
 ---
 
 # José Luis Manzano: El Maestro De La Metamorfosis Del Poder

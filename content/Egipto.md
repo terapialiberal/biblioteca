@@ -1,16 +1,13 @@
 ---
+titulo: Egipto
+tipo: nodo
+fecha: 2026-05-02
+tier_primario: b
+nivel_evidencia: alto
+estado: activo
+aliases: ["Egipto (Geopolítica)"]
+tags: [egipto, suez, nilo, africa, medio-oriente, tl-intel-v3]
 publish: true
-aliases:
-  - Egipto (Geopolítica)
-created: 2026-04-29T15:32:16.151-03:00
-modified: 2026-05-02T12:45:53.553-03:00
-tags:
-  - egipto
-  - suez
-  - nilo
-  - africa
-  - medio-oriente
-  - tl-intel-v3
 ---
 
 # Egipto

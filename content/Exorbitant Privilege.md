@@ -1,15 +1,13 @@
 ---
+titulo: Exorbitant Privilege
+tipo: concepto
+fecha: 2026-04-24
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Privilegio Exorbitante"]
+tags: [exorbitant-privilege, dolar, treasuries, hegemonia-monetaria, tl-intel-v3]
 publish: true
-aliases:
-  - Privilegio Exorbitante
-created: 2026-04-24T11:42:12.820-03:00
-modified: 2026-04-24T11:42:12.820-03:00
-tags:
-  - exorbitant-privilege
-  - dolar
-  - treasuries
-  - hegemonia-monetaria
-  - tl-intel-v3
 ---
 
 # Exorbitant Privilege

@@ -1,16 +1,11 @@
 ---
+titulo: Afganistán
+tipo: nodo
+fecha: 2026-05-02
+estado: activo
+aliases: ["Afganistan", "Afganistán (Conflicto)"]
+tags: [afganistan, asia-central, taliban, guerra, tl-intel-v3]
 publish: true
-aliases:
-  - Afganistan
-  - Afganistán (Conflicto)
-created: 2026-04-29T14:51:45.704-03:00
-modified: 2026-05-02T13:01:00.790-03:00
-tags:
-  - afganistan
-  - asia-central
-  - taliban
-  - guerra
-  - tl-intel-v3
 ---
 
 # Afganistán

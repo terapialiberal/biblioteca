@@ -1,13 +1,18 @@
 ---
-publish: true
-created: 2026-05-29T15:12:25.691-03:00
-modified: 2026-05-29T15:12:25.691-03:00
+titulo: Frank La Salla
+tipo: persona
+fecha: '2026-05-29'
+tier: A
+rol: CEO de DTCC
+estado: activo
 tags:
   - dtcc
   - tokenizacion
   - stellar
   - wall-street
   - tl-intel-v3
+publish: true
+last_stream: '[[00_ARCHIVO_2026-05-28_El_Gran_Simulador]]'
 ---
 
 # Frank La Salla

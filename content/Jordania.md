@@ -1,15 +1,11 @@
 ---
+titulo: Jordania
+tipo: nodo
+fecha: 2026-05-02
+estado: activo
+aliases: ["Jordania (Geopolítica)"]
+tags: [jordania, medio-oriente, diplomacia, seguridad, tl-intel-v3]
 publish: true
-aliases:
-  - Jordania (Geopolítica)
-created: 2026-05-01T20:44:36.878-03:00
-modified: 2026-05-02T12:49:51.780-03:00
-tags:
-  - jordania
-  - medio-oriente
-  - diplomacia
-  - seguridad
-  - tl-intel-v3
 ---
 
 # Jordania

@@ -1,21 +1,12 @@
 ---
+titulo: "SIDE (Secretaria de Inteligencia del Estado)"
 publish: true
-aliases:
-  - Secretaria de Inteligencia del Estado
-  - SIDE
-  - Servicio de Inteligencia del Estado
-  - SIDE (Servicio de Inteligencia del Estado)
-created: 2026-05-28T11:47:01.594-03:00
-modified: 2026-06-02T16:36:34.049-03:00
-tags:
-  - argentina
-  - inteligencia
-  - side
-  - caputo
-  - vigilancia
-  - palantir
-  - dnu-941
-  - tl-intel-v3
+tipo: entidad
+fecha: 2026-05-28
+tier_primario: A
+estado: activo
+aliases: ["Secretaria de Inteligencia del Estado", "SIDE", "Servicio de Inteligencia del Estado", "SIDE (Servicio de Inteligencia del Estado)"]
+tags: [argentina, inteligencia, side, caputo, vigilancia, palantir, dnu-941, tl-intel-v3]
 ---
 
 # [[SIDE]]

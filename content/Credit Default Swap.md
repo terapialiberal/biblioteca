@@ -1,18 +1,13 @@
 ---
+titulo: Credit Default Swap
+tipo: concepto
+fecha: 2026-05-02
+tier_primario: b
+nivel_evidencia: alto
+estado: activo
+aliases: ["CDS", "Credit Default Swaps", "Seguro contra default"]
+tags: [cds, derivados, default, deuda, riesgo, tl-intel-v3]
 publish: true
-aliases:
-  - CDS
-  - Credit Default Swaps
-  - Seguro contra default
-created: 2026-05-01T20:46:10.026-03:00
-modified: 2026-05-02T12:22:05.274-03:00
-tags:
-  - cds
-  - derivados
-  - default
-  - deuda
-  - riesgo
-  - tl-intel-v3
 ---
 
 # Credit Default Swap

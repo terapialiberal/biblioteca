@@ -1,15 +1,12 @@
 ---
+titulo: Horacio Verbitsky
+tipo: persona
+fecha: 2026-04-24
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [horacio-verbitsky, cels, lawfare, medios, inteligencia, argentina, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:17.425-03:00
-modified: 2026-04-24T11:09:55.826-03:00
-tags:
-  - horacio-verbitsky
-  - cels
-  - lawfare
-  - medios
-  - inteligencia
-  - argentina
-  - tl-intel-v3
 ---
 
 # Horacio Verbitsky

@@ -1,13 +1,13 @@
 ---
+titulo: "Uniparty"
 publish: true
-created: 2026-01-29T19:17:42.220-03:00
-modified: 2026-05-02T18:26:14.218-03:00
-tags:
-  - uniparty
-  - falsas-dicotomias
-  - kayfabe
-  - politica
-  - tl-intel-v3
+tipo: concepto
+fecha: 2026-04-07
+tier_primario: B
+moc_canonico: [[00_MOC - Operaciones Psicologicas]]
+estado: activo
+fuentes_clave: []
+tags: [uniparty, falsas-dicotomias, kayfabe, politica, tl-intel-v3]
 ---
 
 # [[Uniparty]]

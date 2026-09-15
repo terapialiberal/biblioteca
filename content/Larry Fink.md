@@ -1,14 +1,10 @@
 ---
 publish: true
-aliases:
-  - Larry Fink / BlackRock
-  - Larry Fink - BlackRock
-created: 2026-01-29T19:17:21.809-03:00
-modified: 2026-05-02T18:25:41.906-03:00
-tags:
-  - actor
-  - finanzas
-  - blackrock
+titulo: "Larry Fink"
+aliases: ["Larry Fink / BlackRock", "Larry Fink - BlackRock"]
+tags: [actor, finanzas, blackrock]
+tipo: actor
+nivel: A
 ---
 
 # Larry Fink

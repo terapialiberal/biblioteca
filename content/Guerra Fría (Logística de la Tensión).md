@@ -1,12 +1,14 @@
 ---
 publish: true
-created: 2026-04-29T14:13:10.340-03:00
-modified: 2026-05-02T14:16:15.339-03:00
+tipo: alias
+titulo: Guerra Fría (Logística de la Tensión)
+estado: activo
 tags:
   - alias
   - guerra-fria
   - inteligencia
   - tl-intel-v3
+reemplazado_por: '[[Guerra Fría]]'
 ---
 
 # Guerra Fría (Logística de la Tensión)

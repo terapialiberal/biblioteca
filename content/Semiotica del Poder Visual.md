@@ -1,16 +1,13 @@
 ---
+titulo: Semiotica del Poder Visual
+tipo: concepto
+fecha: 2026-04-27
+estado: activo
+aliases: ["Semiótica del Poder Visual"]
+tags: [semiotica, poder-visual, propaganda, simbolismo, percepcion, tl-intel-v3]
+tier_primario: b
+nivel_evidencia: medio
 publish: true
-aliases:
-  - Semiótica del Poder Visual
-created: 2026-02-25T22:08:57.381-03:00
-modified: 2026-04-27T10:09:16.318-03:00
-tags:
-  - semiotica
-  - poder-visual
-  - propaganda
-  - simbolismo
-  - percepcion
-  - tl-intel-v3
 ---
 
 # Semiotica del Poder Visual

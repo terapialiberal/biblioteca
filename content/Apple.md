@@ -1,16 +1,11 @@
 ---
+titulo: Apple
+tipo: entidad
+fecha: 2026-05-02
+estado: activo
+aliases: ["Apple Inc", "Apple Inc."]
+tags: [apple, hardware, ecosistema, privacidad, tl-intel-v3]
 publish: true
-aliases:
-  - Apple Inc
-  - Apple Inc.
-created: 2026-04-27T12:00:29.753-03:00
-modified: 2026-05-02T13:04:16.057-03:00
-tags:
-  - apple
-  - hardware
-  - ecosistema
-  - privacidad
-  - tl-intel-v3
 ---
 
 # Apple

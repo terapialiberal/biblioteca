@@ -1,13 +1,9 @@
 ---
 publish: true
-created: 2026-02-28T15:13:16.261-03:00
-modified: 2026-04-21T13:06:45.988-03:00
-tags:
-  - patrones
-  - poder-financiero
-  - quigley
-  - atlanticismo
-  - tl-v3
+tipo: concepto
+titulo: "Patrón - Red de Poder Financiero (Quigley)"
+estado: procesado
+tags: [patrones, poder-financiero, quigley, atlanticismo, tl-v3]
 ---
 
 # [[Patrón - Red de Poder Financiero (Quigley)]]

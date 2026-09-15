@@ -1,18 +1,13 @@
 ---
+titulo: Triángulo del Litio
+tipo: nodo
+fecha: 2026-05-02
+tier_primario: b
+nivel_evidencia: alto
+estado: activo
+aliases: ["Triangulo del Litio", "Triángulo del Litio (Argentina-Bolivia-Chile)"]
+tags: [litio, argentina, bolivia, chile, energia, recursos, tl-intel-v3]
 publish: true
-aliases:
-  - Triangulo del Litio
-  - Triángulo del Litio (Argentina-Bolivia-Chile)
-created: 2026-05-01T20:45:14.228-03:00
-modified: 2026-05-02T12:42:17.689-03:00
-tags:
-  - litio
-  - argentina
-  - bolivia
-  - chile
-  - energia
-  - recursos
-  - tl-intel-v3
 ---
 
 # Triángulo del Litio

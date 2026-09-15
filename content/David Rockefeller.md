@@ -1,15 +1,10 @@
 ---
 publish: true
-aliases:
-  - David Rockefeller
-created: 2026-01-29T19:17:09.789-03:00
-modified: 2026-05-02T18:25:16.209-03:00
-tags:
-  - actor
-  - banquero
-  - cfr
-  - bilderberg
-  - trilateral
+titulo: "David Rockefeller"
+aliases: ["David Rockefeller"]
+tags: [actor, banquero, cfr, bilderberg, trilateral]
+tipo: actor
+nivel: A
 ---
 
 # David Rockefeller

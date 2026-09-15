@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T13:20:54.189-03:00
-modified: 2026-04-29T13:25:08.072-03:00
-tags:
-  - concepto
-  - seguridad
-  - propaganda
-  - tl-intel-v3
+tipo: concepto
+titulo: Teatro de Seguridad
+estado: activo
+tags: [concepto, seguridad, propaganda, tl-intel-v3]
 ---
 
 # Teatro de Seguridad

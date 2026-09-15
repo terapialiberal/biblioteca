@@ -1,13 +1,12 @@
 ---
+titulo: La politica de la heroina y la retirada de Estados Unidos
+tipo: import
+estado: capturado
+fuente: https://www.globalresearch.ca/politics-heroin-afghan-us-pullout/5743441
+fecha: 2021-04-25
+descripcion: Import estabilizado sobre el cruce entre Afganistan, retirada estadounidense, mercenarizacion y economia de la heroina.
+tags: [afganistan, heroina, eeuu, mercenarios, import]
 publish: true
-created: 2026-01-29T19:05:10.530-03:00
-modified: 2026-05-02T18:25:41.291-03:00
-tags:
-  - afganistan
-  - heroina
-  - eeuu
-  - mercenarios
-  - import
 ---
 
 # La politica de la heroina y la retirada de Estados Unidos

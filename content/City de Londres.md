@@ -1,17 +1,13 @@
 ---
+titulo: City de Londres
+tipo: concepto
+fecha: 2026-04-18
+tier_primario: a
+nivel_evidencia: medio
+estado: activo
+aliases: ["City of London", "The Square Mile"]
+tags: [city-de-londres, offshore, finanzas-globales, reino-unido, paraisos-fiscales, tl-intel-v3]
 publish: true
-aliases:
-  - City of London
-  - The Square Mile
-created: 2026-01-29T19:17:07.815-03:00
-modified: 2026-04-18T17:19:15.049-03:00
-tags:
-  - city-de-londres
-  - offshore
-  - finanzas-globales
-  - reino-unido
-  - paraisos-fiscales
-  - tl-intel-v3
 ---
 
 # City de Londres

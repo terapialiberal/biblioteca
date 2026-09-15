@@ -1,16 +1,11 @@
 ---
+titulo: BP (British Petroleum)
+tipo: nodo
+fecha: 2026-05-02
+estado: activo
+aliases: ["BP", "British Petroleum"]
+tags: [bp, petroleo, energia, reino-unido, tl-intel-v3]
 publish: true
-aliases:
-  - BP
-  - British Petroleum
-created: 2026-05-01T19:10:56.580-03:00
-modified: 2026-05-02T13:54:27.609-03:00
-tags:
-  - bp
-  - petroleo
-  - energia
-  - reino-unido
-  - tl-intel-v3
 ---
 
 # BP (British Petroleum)

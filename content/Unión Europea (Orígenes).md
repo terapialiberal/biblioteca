@@ -1,12 +1,14 @@
 ---
 publish: true
-created: 2026-04-29T13:58:24.491-03:00
-modified: 2026-05-02T14:14:33.755-03:00
+tipo: alias
+titulo: Unión Europea (Orígenes)
+estado: activo
 tags:
   - alias
   - union-europea
   - integracion
   - tl-intel-v3
+reemplazado_por: '[[Union Europea]]'
 ---
 
 # Unión Europea (Orígenes)

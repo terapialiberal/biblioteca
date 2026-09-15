@@ -1,12 +1,10 @@
 ---
 publish: true
-created: 2026-04-29T13:22:09.295-03:00
-modified: 2026-05-02T14:01:29.723-03:00
-tags:
-  - alias
-  - falsa-bandera
-  - guerra
-  - tl-intel-v3
+tipo: alias
+titulo: Golfo de Tonkín
+estado: activo
+reemplazado_por: "[[Golfo de Tonkin]]"
+tags: [alias, falsa-bandera, guerra, tl-intel-v3]
 ---
 
 # Golfo de Tonkín

@@ -1,13 +1,13 @@
 ---
+titulo: "Problema-Reacción-Solución"
 publish: true
-created: 2026-01-29T19:17:31.494-03:00
-modified: 2026-04-07T11:50:10.082-03:00
-tags:
-  - problema-reaccion-solucion
-  - dialectica
-  - shock
-  - control-social
-  - tl-intel-v3
+tipo: concepto
+fecha: 2026-04-07
+tier_primario: B
+moc_canonico: [[00_MOC - Operaciones Psicologicas]]
+estado: activo
+fuentes_clave: []
+tags: [problema-reaccion-solucion, dialectica, shock, control-social, tl-intel-v3]
 ---
 
 # [[Problema-Reacción-Solución]]

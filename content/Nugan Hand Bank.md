@@ -1,12 +1,12 @@
 ---
+titulo: "Nugan Hand Bank: El Cajero Automático De La Guerra Negra"
+tipo: "entidad"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [automtico, guerra, negra, nugan]
 publish: true
-created: 2026-01-29T19:17:27.595-03:00
-modified: 2026-05-02T18:25:50.541-03:00
-tags:
-  - automtico
-  - guerra
-  - negra
-  - nugan
 ---
 
 # Nugan Hand Bank: El Cajero Automático De La Guerra Negra

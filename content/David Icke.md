@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:09:22.607-03:00
-modified: 2026-04-29T14:09:40.659-03:00
-tags:
-  - literatura-conspirativa
-  - medios
-  - esoterismo-politico
-  - tl-intel-v3
+tipo: actor
+titulo: David Icke
+estado: activo
+tags: [literatura-conspirativa, medios, esoterismo-politico, tl-intel-v3]
 ---
 
 # David Icke

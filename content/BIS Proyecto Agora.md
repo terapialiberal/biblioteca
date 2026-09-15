@@ -1,13 +1,18 @@
 ---
-publish: true
-created: 2026-05-29T15:13:05.754-03:00
-modified: 2026-06-30T21:11:59.357-03:00
+titulo: BIS Proyecto Agora
+tipo: proyecto
+fecha: '2026-05-29'
+vigencia: 2026-05-29
+tier: A
+estado: activo
 tags:
   - bis
   - tokenizacion
   - bancos-centrales
   - settlement
   - tl-intel-v3
+publish: true
+last_stream: '[[00_ARCHIVO_2026-05-28_El_Gran_Simulador]]'
 ---
 
 # BIS Proyecto Agora

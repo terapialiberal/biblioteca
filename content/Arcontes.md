@@ -1,11 +1,12 @@
 ---
+titulo: Resumen General
+tipo: "concepto"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [arcontes, gnosticismo, loosh]
 publish: true
-created: 2026-01-29T19:17:03.827-03:00
-modified: 2026-05-02T18:24:18.346-03:00
-tags:
-  - arcontes
-  - gnosticismo
-  - loosh
 ---
 
 # Resumen General

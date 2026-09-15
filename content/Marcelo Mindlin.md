@@ -1,13 +1,13 @@
 ---
+titulo: "Marcelo Mindlin"
 publish: true
-created: 2026-01-29T19:17:23.785-03:00
-modified: 2026-04-07T12:44:03.974-03:00
-tags:
-  - marcelo-mindlin
-  - energia
-  - argentina
-  - pampa-energia
-  - tl-intel-v3
+tipo: persona
+fecha: 2026-04-07
+tier_primario: B
+moc_canonico: [[00_MOC - Argentina]]
+estado: activo
+fuentes_clave: []
+tags: [marcelo-mindlin, energia, argentina, pampa-energia, tl-intel-v3]
 ---
 
 # [[Marcelo Mindlin]]

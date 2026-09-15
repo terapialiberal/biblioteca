@@ -1,14 +1,12 @@
 ---
+titulo: Heritage Foundation
+tipo: organizacion
+fecha: 2026-04-20
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [heritage-foundation, project-2025, think-tank, trumpismo, venture-politica, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:16.990-03:00
-modified: 2026-06-11T14:33:57.011-03:00
-tags:
-  - heritage-foundation
-  - project-2025
-  - think-tank
-  - trumpismo
-  - venture-politica
-  - tl-intel-v3
 ---
 
 # Heritage Foundation

@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:13:11.701-03:00
-modified: 2026-04-29T14:13:29.881-03:00
-tags:
-  - gaza
-  - palestina
-  - guerra
-  - tl-intel-v3
+tipo: actor
+titulo: Hamas
+estado: activo
+tags: [gaza, palestina, guerra, tl-intel-v3]
 ---
 
 # Hamas

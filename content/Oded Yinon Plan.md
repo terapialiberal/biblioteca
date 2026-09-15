@@ -1,12 +1,12 @@
 ---
+titulo: "Oded Yinon Plan: El Mapa De La Fragmentación Del Mundo Árabe"
+tipo: "concepto"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [clean, fragmentacin, mapa, oded]
 publish: true
-created: 2026-01-29T19:17:27.861-03:00
-modified: 2026-05-02T18:25:50.889-03:00
-tags:
-  - clean
-  - fragmentacin
-  - mapa
-  - oded
 ---
 
 # Oded Yinon Plan: El Mapa De La Fragmentación Del Mundo Árabe

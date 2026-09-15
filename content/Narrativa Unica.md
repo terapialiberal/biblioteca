@@ -1,17 +1,13 @@
 ---
+titulo: Narrativa Unica
+tipo: concepto
+fecha: 2026-04-20
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Narrativa Única", "Narrativa Unica: El Monopolio Epistemologico De La Matrix"]
+tags: [narrativa-unica, guerra-cognitiva, censura, medios, plataformas, tl-intel-v3]
 publish: true
-aliases:
-  - Narrativa Única
-  - "Narrativa Unica: El Monopolio Epistemologico De La Matrix"
-created: 2026-01-29T19:17:26.391-03:00
-modified: 2026-04-20T10:27:02.024-03:00
-tags:
-  - narrativa-unica
-  - guerra-cognitiva
-  - censura
-  - medios
-  - plataformas
-  - tl-intel-v3
 ---
 
 # Narrativa Unica

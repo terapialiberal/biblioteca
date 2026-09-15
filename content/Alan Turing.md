@@ -1,16 +1,11 @@
 ---
+titulo: Alan Turing
+tipo: nodo
+fecha: 2026-05-02
+estado: activo
+aliases: ["Turing", "Alan Turing (Computación)"]
+tags: [alan-turing, computacion, criptografia, ia, tl-intel-v3]
 publish: true
-aliases:
-  - Turing
-  - Alan Turing (Computación)
-created: 2026-05-01T20:17:37.513-03:00
-modified: 2026-05-02T13:43:26.298-03:00
-tags:
-  - alan-turing
-  - computacion
-  - criptografia
-  - ia
-  - tl-intel-v3
 ---
 
 # Alan Turing

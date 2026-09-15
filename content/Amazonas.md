@@ -1,17 +1,13 @@
 ---
+titulo: Amazonas
+tipo: nodo
+fecha: 2026-05-02
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Amazonas (Geopolítica)", "Amazonia"]
+tags: [amazonas, recursos, biodiversidad, agua, soberania, tl-intel-v3]
 publish: true
-aliases:
-  - Amazonas (Geopolítica)
-  - Amazonia
-created: 2026-05-01T20:45:19.584-03:00
-modified: 2026-05-02T12:45:53.257-03:00
-tags:
-  - amazonas
-  - recursos
-  - biodiversidad
-  - agua
-  - soberania
-  - tl-intel-v3
 ---
 
 # Amazonas

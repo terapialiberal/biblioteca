@@ -1,12 +1,12 @@
 ---
+titulo: "J. Edgar Hoover: El Arquitecto De La Extorsión Sistémica"
+tipo: "persona"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [edgar, jeffrey, patriot, sistmica]
 publish: true
-created: 2026-01-29T19:17:19.001-03:00
-modified: 2026-05-02T18:25:36.076-03:00
-tags:
-  - edgar
-  - jeffrey
-  - patriot
-  - sistmica
 ---
 
 # J. Edgar Hoover: El Arquitecto De La Extorsión Sistémica

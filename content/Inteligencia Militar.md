@@ -1,14 +1,12 @@
 ---
+titulo: Inteligencia Militar
+tipo: aparato-estatal
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [argentina, inteligencia, militar, fuerzas-armadas, estado-profundo, tl-intel-v3]
 publish: true
-created: 2026-04-18T12:33:08.618-03:00
-modified: 2026-04-18T12:33:09.027-03:00
-tags:
-  - argentina
-  - inteligencia
-  - militar
-  - fuerzas-armadas
-  - estado-profundo
-  - tl-intel-v3
 ---
 
 # Inteligencia Militar

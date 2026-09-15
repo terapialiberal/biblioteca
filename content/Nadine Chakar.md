@@ -1,13 +1,18 @@
 ---
-publish: true
-created: 2026-05-29T15:12:32.003-03:00
-modified: 2026-05-29T15:12:32.003-03:00
+titulo: Nadine Chakar
+tipo: persona
+fecha: '2026-05-29'
+tier: A
+rol: 'DTCC Managing Director, Global Head of Digital Assets'
+estado: activo
 tags:
   - dtcc
   - tokenizacion
   - stellar
   - digital-assets
   - tl-intel-v3
+publish: true
+last_stream: '[[00_ARCHIVO_2026-05-28_El_Gran_Simulador]]'
 ---
 
 # Nadine Chakar

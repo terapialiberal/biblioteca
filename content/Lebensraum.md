@@ -1,12 +1,12 @@
 ---
+titulo: "Lebensraum: La Biología Del Dominio Territorial"
+tipo: "concepto"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [biologa, karl, lebensraum, territorial]
 publish: true
-created: 2026-01-29T19:17:22.171-03:00
-modified: 2026-05-02T18:25:42.724-03:00
-tags:
-  - biologa
-  - karl
-  - lebensraum
-  - territorial
 ---
 
 # Lebensraum: La Biología Del Dominio Territorial

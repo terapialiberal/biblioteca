@@ -1,15 +1,11 @@
 ---
+titulo: Reagan
+tipo: nodo
+fecha: 2026-05-02
+estado: activo
+aliases: ["Ronald Reagan"]
+tags: [reagan, eeuu, neoliberalismo, guerra-fria, tl-intel-v3]
 publish: true
-aliases:
-  - Ronald Reagan
-created: 2026-05-01T20:41:08.157-03:00
-modified: 2026-05-02T13:01:42.688-03:00
-tags:
-  - reagan
-  - eeuu
-  - neoliberalismo
-  - guerra-fria
-  - tl-intel-v3
 ---
 
 # Reagan

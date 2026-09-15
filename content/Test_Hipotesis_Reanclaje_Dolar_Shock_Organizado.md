@@ -1,7 +1,10 @@
 ---
 publish: true
-created: 2026-04-23T12:41:55.911-03:00
-modified: 2026-05-02T18:26:10.462-03:00
+titulo: "Test de Hipótesis: Reanclaje Híbrido del Dólar vía Shock Energético, Stablecoins y Reconfiguración de la Fed"
+tipo: hypothesis-test
+fecha: 2026-04-23
+tier-primario: b
+nivel-evidencia: medio-alto
 tags:
   - tl-intel
   - hypothesis-test

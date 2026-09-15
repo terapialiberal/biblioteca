@@ -1,12 +1,12 @@
 ---
+titulo: "Mont Pelerin Society: El Politburó Del Neoliberalismo"
+tipo: "entidad"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [atlas, neoliberalismo, pelerin, society]
 publish: true
-created: 2026-01-29T19:17:25.792-03:00
-modified: 2026-05-02T18:25:48.106-03:00
-tags:
-  - atlas
-  - neoliberalismo
-  - pelerin
-  - society
 ---
 
 # Mont Pelerin Society: El Politburó Del Neoliberalismo

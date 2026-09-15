@@ -1,13 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T15:31:50.189-03:00
-modified: 2026-04-29T15:31:50.189-03:00
-tags:
-  - litio
-  - minerales-criticos
-  - energia
-  - argentina
-  - tl-intel-v3
+tipo: recurso
+titulo: Litio
+estado: activo
+tags: [litio, minerales-criticos, energia, argentina, tl-intel-v3]
 ---
 
 # Litio

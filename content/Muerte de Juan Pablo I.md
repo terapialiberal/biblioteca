@@ -1,12 +1,12 @@
 ---
+titulo: "Muerte De Juan Pablo I: El Magnicidio En El Vaticano"
+tipo: "concepto"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [banco, juan, muerte, pablo]
 publish: true
-created: 2026-01-29T19:17:26.095-03:00
-modified: 2026-05-02T18:25:48.360-03:00
-tags:
-  - banco
-  - juan
-  - muerte
-  - pablo
 ---
 
 # Muerte De Juan Pablo I: El Magnicidio En El Vaticano

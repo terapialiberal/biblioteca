@@ -1,16 +1,13 @@
 ---
+titulo: Panico de 1907
+tipo: evento
+fecha: 2026-04-24
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Pánico de 1907"]
+tags: [panico-de-1907, reserva-federal, jekyll-island, banca, crisis-financiera, tl-intel-v3]
 publish: true
-aliases:
-  - Pánico de 1907
-created: 2026-01-29T19:17:32.279-03:00
-modified: 2026-04-24T11:31:46.951-03:00
-tags:
-  - panico-de-1907
-  - reserva-federal
-  - jekyll-island
-  - banca
-  - crisis-financiera
-  - tl-intel-v3
 ---
 
 # Panico de 1907

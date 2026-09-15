@@ -1,12 +1,10 @@
 ---
 publish: true
-created: 2026-02-28T14:54:19.718-03:00
-modified: 2026-04-29T14:55:18.645-03:00
-tags:
-  - moc
-  - indice
-  - tl-intel-v3
-  - zettelkasten
+tipo: moc
+titulo: Base de Conocimiento
+fecha: 2026-04-07
+estado: activo
+tags: [moc, indice, tl-intel-v3, zettelkasten]
 ---
 
 # Base de Conocimiento

@@ -1,15 +1,10 @@
 ---
 publish: true
-aliases:
-  - Lava Jato
-  - Operación Lava Jato
-created: 2026-05-01T18:47:05.477-03:00
-modified: 2026-05-02T18:25:42.418-03:00
-tags:
-  - corrupcion
-  - brasil
-  - lawfare
-  - operacion-judicial
+titulo: "Lava Jato"
+aliases: ["Lava Jato", "Operación Lava Jato"]
+tags: [corrupcion, brasil, lawfare, operacion-judicial]
+tipo: evento
+nivel: B
 ---
 
 # Lava Jato

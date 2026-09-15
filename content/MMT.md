@@ -1,17 +1,11 @@
 ---
+titulo: MMT
+tipo: concepto
+fecha: 2026-05-02
+estado: activo
+aliases: ["Modern Monetary Theory", "Modern Monetary Theory (MMT)", "Teoría Monetaria Moderna"]
+tags: [mmt, deficit, moneda, deuda, tl-intel-v3]
 publish: true
-aliases:
-  - Modern Monetary Theory
-  - Modern Monetary Theory (MMT)
-  - Teoría Monetaria Moderna
-created: 2026-05-01T20:43:05.530-03:00
-modified: 2026-05-02T12:51:27.285-03:00
-tags:
-  - mmt
-  - deficit
-  - moneda
-  - deuda
-  - tl-intel-v3
 ---
 
 # MMT

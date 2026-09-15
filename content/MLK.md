@@ -1,15 +1,11 @@
 ---
+titulo: MLK
+tipo: nodo
+fecha: 2026-05-02
+estado: activo
+aliases: ["MLK", "Martin Luther King"]
+tags: [alias, legacy, derechos-civiles, tl-intel-v3]
 publish: true
-aliases:
-  - MLK
-  - Martin Luther King
-created: 2026-05-01T20:40:17.565-03:00
-modified: 2026-05-02T13:08:00.936-03:00
-tags:
-  - alias
-  - legacy
-  - derechos-civiles
-  - tl-intel-v3
 ---
 
 # MLK

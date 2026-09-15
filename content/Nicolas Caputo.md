@@ -1,18 +1,13 @@
 ---
+titulo: Nicolas Caputo
+tipo: persona
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Nicolás Caputo", "Nicolas Caputo: El Patriarca del Capitalismo de Amigos"]
+tags: [argentina, empresarios, macri, caputo, circulo-rojo, obra-publica, tl-intel-v3]
 publish: true
-aliases:
-  - Nicolás Caputo
-  - "Nicolas Caputo: El Patriarca del Capitalismo de Amigos"
-created: 2026-01-29T19:17:27.015-03:00
-modified: 2026-04-18T11:27:32.376-03:00
-tags:
-  - argentina
-  - empresarios
-  - macri
-  - caputo
-  - circulo-rojo
-  - obra-publica
-  - tl-intel-v3
 ---
 
 # Nicolas Caputo

@@ -1,15 +1,11 @@
 ---
+titulo: Camboya
+tipo: nodo
+fecha: 2026-05-02
+estado: activo
+aliases: ["Cambodia"]
+tags: [camboya, sudeste-asiatico, khmer-rouge, china, tl-intel-v3]
 publish: true
-aliases:
-  - Cambodia
-created: 2026-05-01T19:13:00.032-03:00
-modified: 2026-05-02T13:48:37.872-03:00
-tags:
-  - camboya
-  - sudeste-asiatico
-  - khmer-rouge
-  - china
-  - tl-intel-v3
 ---
 
 # Camboya

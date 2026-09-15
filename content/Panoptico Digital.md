@@ -1,17 +1,13 @@
 ---
+titulo: Panoptico Digital
+tipo: concepto
+fecha: 2026-04-21
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Panóptico Digital", "Panóptico Digital: El Ojo Que Está En Todas Partes"]
+tags: [panoptico-digital, vigilancia, autocensura, big-data, control-social, tl-intel-v3]
 publish: true
-aliases:
-  - Panóptico Digital
-  - "Panóptico Digital: El Ojo Que Está En Todas Partes"
-created: 2026-01-29T19:17:29.748-03:00
-modified: 2026-04-22T16:08:46.432-03:00
-tags:
-  - panoptico-digital
-  - vigilancia
-  - autocensura
-  - big-data
-  - control-social
-  - tl-intel-v3
 ---
 
 # Panoptico Digital

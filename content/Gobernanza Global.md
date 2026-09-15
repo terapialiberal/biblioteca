@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:45:28.722-03:00
-modified: 2026-04-29T14:45:28.722-03:00
-tags:
-  - gobernanza-global
-  - supranacional
-  - instituciones
-  - tl-intel-v3
+tipo: concepto
+titulo: Gobernanza Global
+estado: activo
+tags: [gobernanza-global, supranacional, instituciones, tl-intel-v3]
 ---
 
 # Gobernanza Global

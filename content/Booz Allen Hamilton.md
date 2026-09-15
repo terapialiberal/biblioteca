@@ -1,14 +1,12 @@
 ---
+titulo: Booz Allen Hamilton
+tipo: entidad
+fecha: 2026-04-19
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [booz-allen-hamilton, contratista, inteligencia, nsa, vigilancia, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:05.755-03:00
-modified: 2026-04-22T16:08:46.486-03:00
-tags:
-  - booz-allen-hamilton
-  - contratista
-  - inteligencia
-  - nsa
-  - vigilancia
-  - tl-intel-v3
 ---
 
 # Booz Allen Hamilton

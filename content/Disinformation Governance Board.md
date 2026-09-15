@@ -1,14 +1,12 @@
 ---
+titulo: Disinformation Governance Board
+tipo: entidad
+fecha: 2026-04-19
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [dgb, desinformacion, dhs, censura, gobernanza, tl-intel-v3]
 publish: true
-created: 2026-02-25T16:12:13.476-03:00
-modified: 2026-04-19T12:25:29.564-03:00
-tags:
-  - dgb
-  - desinformacion
-  - dhs
-  - censura
-  - gobernanza
-  - tl-intel-v3
 ---
 
 # Disinformation Governance Board

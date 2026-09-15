@@ -1,14 +1,10 @@
 ---
 publish: true
-aliases:
-  - Brad Smith
-created: 2026-05-01T18:52:56.330-03:00
-modified: 2026-05-02T18:25:13.930-03:00
-tags:
-  - actor
-  - microsoft
-  - tecnologia
-  - regulacion
+titulo: "Brad Smith"
+aliases: ["Brad Smith"]
+tags: [actor, microsoft, tecnologia, regulacion]
+tipo: actor
+nivel: B
 ---
 
 # Brad Smith

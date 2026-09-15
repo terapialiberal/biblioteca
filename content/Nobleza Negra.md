@@ -1,14 +1,10 @@
 ---
 publish: true
-aliases:
-  - Black Nobility
-created: 2026-01-29T19:17:27.314-03:00
-modified: 2026-05-02T18:25:50.068-03:00
-tags:
-  - concepto
-  - aristocracia
-  - vaticano
-  - roma
+titulo: "Nobleza Negra"
+aliases: ["Black Nobility"]
+tags: [concepto, aristocracia, vaticano, roma]
+tipo: concepto
+nivel: C
 ---
 
 # Nobleza Negra

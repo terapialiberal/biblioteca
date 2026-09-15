@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:09:22.690-03:00
-modified: 2026-04-29T14:09:40.600-03:00
-tags:
-  - clima
-  - economia-politica
-  - gobernanza
-  - tl-intel-v3
+tipo: concepto
+titulo: Decrecimiento (Degrowth)
+estado: activo
+tags: [clima, economia-politica, gobernanza, tl-intel-v3]
 ---
 
 # Decrecimiento (Degrowth)

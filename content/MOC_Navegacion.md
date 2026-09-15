@@ -1,12 +1,10 @@
 ---
+titulo: "MOC - Navegacion del Vault"
+tipo: moc
+fecha: 2026-04-07
+estado: activo
+tags: [moc, navegacion, vault, tl-intel-v3]
 publish: true
-created: 2026-02-25T21:18:02.942-03:00
-modified: 2026-06-02T15:42:02.346-03:00
-tags:
-  - moc
-  - navegacion
-  - vault
-  - tl-intel-v3
 ---
 
 # MOC - Navegacion del Vault

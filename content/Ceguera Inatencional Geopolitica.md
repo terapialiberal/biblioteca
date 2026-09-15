@@ -1,15 +1,13 @@
 ---
+titulo: Ceguera Inatencional Geopolitica
+tipo: patron
+fecha: 2026-04-27
+estado: activo
+aliases: ["Ceguera Inatencional Geopolítica"]
+tags: [ceguera-inatencional, geopolitica, percepcion, propaganda, tl-intel-v3]
+tier_primario: b
+nivel_evidencia: alto
 publish: true
-aliases:
-  - Ceguera Inatencional Geopolítica
-created: 2026-02-25T22:08:33.054-03:00
-modified: 2026-04-27T10:32:49.791-03:00
-tags:
-  - ceguera-inatencional
-  - geopolitica
-  - percepcion
-  - propaganda
-  - tl-intel-v3
 ---
 
 # Ceguera Inatencional Geopolitica

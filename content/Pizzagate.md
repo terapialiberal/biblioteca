@@ -1,13 +1,13 @@
 ---
+titulo: "Pizzagate"
 publish: true
-created: 2026-01-29T19:17:30.674-03:00
-modified: 2026-04-29T14:44:25.432-03:00
-tags:
-  - pizzagate
-  - wikileaks
-  - ridicule-weapon
-  - podesta
-  - tl-intel-v3
+tipo: evento
+fecha: 2026-04-07
+tier_primario: B
+moc_canonico: [[00_MOC - Kompromat y Dark Game Theory]]
+estado: activo
+fuentes_clave: []
+tags: [pizzagate, wikileaks, ridicule-weapon, podesta, tl-intel-v3]
 ---
 
 # [[Pizzagate]]

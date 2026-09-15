@@ -1,12 +1,11 @@
 ---
 publish: true
-created: 2026-01-29T19:17:02.536-03:00
-modified: 2026-04-24T12:13:38.089-03:00
-tags:
-  - moc
-  - argentina
-  - poder-local
-  - tl-intel-v3
+titulo: "MOC - Argentina"
+tipo: moc
+fecha: 2026-04-18
+estado: activo
+moc_canonico: [[00_MOC - Base de Conocimiento]]
+tags: [moc, argentina, poder-local, tl-intel-v3]
 ---
 
 # MOC - Argentina

@@ -1,16 +1,13 @@
 ---
+titulo: Guerra de las Malvinas
+tipo: evento
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Guerra de las Malvinas (Recursos Estrategicos)"]
+tags: [malvinas, guerra, argentina, reino-unido, atlantico-sur, tl-intel-v3]
 publish: true
-aliases:
-  - Guerra de las Malvinas (Recursos Estrategicos)
-created: 2026-01-29T19:17:16.284-03:00
-modified: 2026-04-18T12:32:11.499-03:00
-tags:
-  - malvinas
-  - guerra
-  - argentina
-  - reino-unido
-  - atlantico-sur
-  - tl-intel-v3
 ---
 
 # Guerra de las Malvinas

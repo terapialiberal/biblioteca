@@ -1,14 +1,12 @@
 ---
+titulo: Vesica Piscis
+tipo: concepto
+fecha: 2026-04-27
+estado: activo
+tags: [vesica-piscis, geometria-sagrada, simbolismo, arquitectura, esoterismo, tl-intel-v3]
+tier_primario: c
+nivel_evidencia: medio
 publish: true
-created: 2026-02-25T22:08:57.099-03:00
-modified: 2026-04-27T10:10:50.080-03:00
-tags:
-  - vesica-piscis
-  - geometria-sagrada
-  - simbolismo
-  - arquitectura
-  - esoterismo
-  - tl-intel-v3
 ---
 
 # Vesica Piscis

@@ -1,18 +1,11 @@
 ---
+titulo: IRGC
+tipo: entidad
+fecha: 2026-04-18
+estado: activo
+aliases: ["Islamic Revolutionary Guard Corps", "Guardia Revolucionaria de Iran", "Cuerpo de la Guardia Revolucionaria Islamica"]
+tags: [irgc, iran, seguridad, economia-paraestatal, ormuz, tl-intel-v3]
 publish: true
-aliases:
-  - Islamic Revolutionary Guard Corps
-  - Guardia Revolucionaria de Iran
-  - Cuerpo de la Guardia Revolucionaria Islamica
-created: 2026-04-18T21:37:25.140-03:00
-modified: 2026-04-18T21:37:25.698-03:00
-tags:
-  - irgc
-  - iran
-  - seguridad
-  - economia-paraestatal
-  - ormuz
-  - tl-intel-v3
 ---
 
 # IRGC

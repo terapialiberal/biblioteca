@@ -1,15 +1,11 @@
 ---
+titulo: OPEP
+tipo: entidad
+fecha: 2026-05-02
+estado: activo
+aliases: ["OPEC"]
+tags: [opep, petroleo, energia, cartel, tl-intel-v3]
 publish: true
-aliases:
-  - OPEC
-created: 2026-04-29T15:32:16.801-03:00
-modified: 2026-05-02T13:45:56.319-03:00
-tags:
-  - opep
-  - petroleo
-  - energia
-  - cartel
-  - tl-intel-v3
 ---
 
 # OPEP

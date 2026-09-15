@@ -1,12 +1,12 @@
 ---
+titulo: "Lakam: Los Alquimistas Del Espionaje Tecnológico"
+tipo: "concepto"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [espionaje, lakam, rafi, tecnolgico]
 publish: true
-created: 2026-01-29T19:17:21.784-03:00
-modified: 2026-05-02T18:25:41.806-03:00
-tags:
-  - espionaje
-  - lakam
-  - rafi
-  - tecnolgico
 ---
 
 # Lakam: Los Alquimistas Del Espionaje Tecnológico

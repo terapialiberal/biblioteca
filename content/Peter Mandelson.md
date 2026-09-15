@@ -1,13 +1,13 @@
 ---
+titulo: "Peter Mandelson"
 publish: true
-created: 2026-02-25T17:53:00.536-03:00
-modified: 2026-04-07T11:53:48.847-03:00
-tags:
-  - peter-mandelson
-  - uk
-  - labour
-  - epstein
-  - tl-intel-v3
+tipo: persona
+fecha: 2026-04-07
+tier_primario: B
+moc_canonico: [[00_MOC - Redes de Poder]]
+estado: activo
+fuentes_clave: []
+tags: [peter-mandelson, uk, labour, epstein, tl-intel-v3]
 ---
 
 # [[Peter Mandelson]]

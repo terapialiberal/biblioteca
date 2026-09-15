@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:09:22.116-03:00
-modified: 2026-04-29T14:09:38.109-03:00
-tags:
-  - demografia
-  - biopolitica
-  - gobernanza
-  - tl-intel-v3
+tipo: concepto
+titulo: Control de Población
+estado: activo
+tags: [demografia, biopolitica, gobernanza, tl-intel-v3]
 ---
 
 # Control de Población

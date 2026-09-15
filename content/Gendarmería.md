@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:13:03.361-03:00
-modified: 2026-04-29T14:13:26.178-03:00
-tags:
-  - argentina
-  - seguridad
-  - frontera
-  - tl-intel-v3
+tipo: organizacion
+titulo: Gendarmería
+estado: activo
+tags: [argentina, seguridad, frontera, tl-intel-v3]
 ---
 
 # Gendarmería

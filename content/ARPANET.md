@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:05:23.164-03:00
-modified: 2026-04-29T14:05:35.113-03:00
-tags:
-  - internet
-  - defensa
-  - infraestructura-digital
-  - tl-intel-v3
+tipo: infraestructura
+titulo: ARPANET
+estado: activo
+tags: [internet, defensa, infraestructura-digital, tl-intel-v3]
 ---
 
 # ARPANET

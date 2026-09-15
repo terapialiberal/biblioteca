@@ -1,13 +1,12 @@
 ---
+titulo: Regimen Planetario
+tipo: import
+estado: capturado
+fuente: https://corbettreport.com
+fecha: 2024-07-28
+descripcion: Import estabilizado sobre la tesis de gobierno mundial y regimen planetario a partir de citas historicas y articulacion globalista.
+tags: [gobierno-mundial, globalismo, tecnocracia, regimen-planetario, import]
 publish: true
-created: 2026-01-29T19:05:11.548-03:00
-modified: 2026-05-02T18:25:59.101-03:00
-tags:
-  - gobierno-mundial
-  - globalismo
-  - tecnocracia
-  - regimen-planetario
-  - import
 ---
 
 # Regimen Planetario

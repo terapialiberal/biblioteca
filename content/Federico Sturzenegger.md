@@ -1,14 +1,12 @@
 ---
+titulo: Federico Sturzenegger
+tipo: persona
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [argentina, economia, desregulacion, sturzenegger, ajuste, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:13.462-03:00
-modified: 2026-04-18T11:39:03.490-03:00
-tags:
-  - argentina
-  - economia
-  - desregulacion
-  - sturzenegger
-  - ajuste
-  - tl-intel-v3
 ---
 
 # Federico Sturzenegger

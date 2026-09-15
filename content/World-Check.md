@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T13:58:24.674-03:00
-modified: 2026-04-29T13:58:24.674-03:00
-tags:
-  - compliance
-  - listas
-  - vigilancia-financiera
-  - tl-intel-v3
+tipo: herramienta
+titulo: World-Check
+estado: activo
+tags: [compliance, listas, vigilancia-financiera, tl-intel-v3]
 ---
 
 # World-Check

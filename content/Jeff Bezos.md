@@ -1,15 +1,12 @@
 ---
+titulo: Jeff Bezos
+tipo: persona
+fecha: 2026-04-21
+tier_primario: a
+nivel_evidencia: medio
+estado: activo
+tags: [jeff-bezos, amazon, aws, medios, infraestructura, tecnocracia, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:19.405-03:00
-modified: 2026-04-21T19:38:40.006-03:00
-tags:
-  - jeff-bezos
-  - amazon
-  - aws
-  - medios
-  - infraestructura
-  - tecnocracia
-  - tl-intel-v3
 ---
 
 # Jeff Bezos

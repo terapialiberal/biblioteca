@@ -1,13 +1,12 @@
 ---
+titulo: Arquitectura de Bancos Centrales
+tipo: concepto
+fecha: 2026-04-27
+estado: activo
+tags: [arquitectura, bancos-centrales, poder-visual, tecnocracia, tl-intel-v3]
+tier_primario: b
+nivel_evidencia: medio
 publish: true
-created: 2026-02-25T22:08:57.289-03:00
-modified: 2026-04-27T10:23:22.781-03:00
-tags:
-  - arquitectura
-  - bancos-centrales
-  - poder-visual
-  - tecnocracia
-  - tl-intel-v3
 ---
 
 # Arquitectura de Bancos Centrales

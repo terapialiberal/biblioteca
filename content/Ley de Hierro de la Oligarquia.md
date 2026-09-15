@@ -1,13 +1,13 @@
 ---
+titulo: "Ley de Hierro de la Oligarquía"
 publish: true
-created: 2026-01-29T19:17:22.339-03:00
-modified: 2026-04-07T11:53:46.971-03:00
-tags:
-  - oligarquia
-  - michels
-  - burocracia
-  - organizacion
-  - tl-intel-v3
+tipo: concepto
+fecha: 2026-04-07
+tier_primario: B
+moc_canonico: [[00_MOC - Patrones Clasicos de Poder]]
+estado: activo
+fuentes_clave: []
+tags: [oligarquia, michels, burocracia, organizacion, tl-intel-v3]
 ---
 
 # [[Ley de Hierro de la Oligarquía]]

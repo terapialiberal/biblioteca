@@ -1,7 +1,8 @@
 ---
 publish: true
-created: 2026-02-25T14:29:11.943-03:00
-modified: 2026-04-24T10:06:17.671-03:00
+titulo: ASML
+tipo: entidad
+estado: activo
 ---
 
 # ASML (TL V.3)

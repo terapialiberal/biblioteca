@@ -1,16 +1,11 @@
 ---
+titulo: FCA
+tipo: entidad
+fecha: 2026-05-02
+estado: activo
+aliases: ["FCA (Financial Conduct Authority)", "Financial Conduct Authority"]
+tags: [fca, regulacion, city-londres, mercados, tl-intel-v3]
 publish: true
-aliases:
-  - FCA (Financial Conduct Authority)
-  - Financial Conduct Authority
-created: 2026-05-01T20:37:34.565-03:00
-modified: 2026-05-02T13:43:26.045-03:00
-tags:
-  - fca
-  - regulacion
-  - city-londres
-  - mercados
-  - tl-intel-v3
 ---
 
 # FCA

@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:09:22.575-03:00
-modified: 2026-04-29T14:09:40.725-03:00
-tags:
-  - whistleblowing
-  - pentagon-papers
-  - eeuu
-  - tl-intel-v3
+tipo: actor
+titulo: Daniel Ellsberg
+estado: activo
+tags: [whistleblowing, pentagon-papers, eeuu, tl-intel-v3]
 ---
 
 # Daniel Ellsberg

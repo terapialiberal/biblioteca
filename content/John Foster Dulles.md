@@ -1,14 +1,12 @@
 ---
+titulo: John Foster Dulles
+tipo: persona
+fecha: 2026-04-19
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [john-foster-dulles, guerra-fria, diplomacia, estados-unidos, elite-estadounidense, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:19.843-03:00
-modified: 2026-04-19T13:22:51.632-03:00
-tags:
-  - john-foster-dulles
-  - guerra-fria
-  - diplomacia
-  - estados-unidos
-  - elite-estadounidense
-  - tl-intel-v3
 ---
 
 # John Foster Dulles

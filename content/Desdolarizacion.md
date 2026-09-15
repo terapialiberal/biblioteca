@@ -1,16 +1,13 @@
 ---
+titulo: Desdolarizacion
+tipo: concepto
+fecha: 2026-04-22
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Desdolarización"]
+tags: [desdolarizacion, dolar, cips, mbridge, yuan, tl-intel-v3]
 publish: true
-aliases:
-  - Desdolarización
-created: 2026-01-29T19:17:10.140-03:00
-modified: 2026-04-22T10:05:56.756-03:00
-tags:
-  - desdolarizacion
-  - dolar
-  - cips
-  - mbridge
-  - yuan
-  - tl-intel-v3
 ---
 
 # Desdolarizacion

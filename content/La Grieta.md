@@ -1,12 +1,13 @@
 ---
 publish: true
-created: 2026-05-01T17:36:49.067-03:00
-modified: 2026-05-02T18:25:40.723-03:00
+titulo: "La Grieta"
 tags:
   - concepto
   - argentina
   - politica
   - polarizacion
+tipo: concepto
+fecha: 2026-05-01
 ---
 
 # La Grieta

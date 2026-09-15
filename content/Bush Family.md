@@ -1,15 +1,11 @@
 ---
+titulo: Bush Family
+tipo: nodo
+fecha: 2026-05-02
+estado: activo
+aliases: ["Familia Bush"]
+tags: [bush-family, dinastia, eeuu, petroleo, tl-intel-v3]
 publish: true
-aliases:
-  - Familia Bush
-created: 2026-05-01T19:10:43.973-03:00
-modified: 2026-05-02T13:54:27.753-03:00
-tags:
-  - bush-family
-  - dinastia
-  - eeuu
-  - petroleo
-  - tl-intel-v3
 ---
 
 # Bush Family

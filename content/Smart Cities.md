@@ -1,16 +1,11 @@
 ---
+titulo: Smart Cities
+tipo: concepto
+fecha: 2026-05-02
+estado: activo
+aliases: ["Smart Cities (Ciudades Inteligentes)", "Ciudades Inteligentes"]
+tags: [smart-cities, urbanismo, sensores, vigilancia, tl-intel-v3]
 publish: true
-aliases:
-  - Smart Cities (Ciudades Inteligentes)
-  - Ciudades Inteligentes
-created: 2026-04-29T13:34:40.867-03:00
-modified: 2026-05-02T12:50:43.827-03:00
-tags:
-  - smart-cities
-  - urbanismo
-  - sensores
-  - vigilancia
-  - tl-intel-v3
 ---
 
 # Smart Cities

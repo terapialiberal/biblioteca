@@ -1,13 +1,12 @@
 ---
+titulo: Neuralink
+tipo: entidad
+fecha: 2026-04-17
+tier_primario: a
+nivel_evidencia: medio
+estado: activo
+tags: [neuralink, bci, cerebro-computadora, transhumanismo, tl-intel-v3]
 publish: true
-created: 2026-02-09T17:33:15.326-03:00
-modified: 2026-04-22T16:58:30.767-03:00
-tags:
-  - neuralink
-  - bci
-  - cerebro-computadora
-  - transhumanismo
-  - tl-intel-v3
 ---
 
 # Neuralink

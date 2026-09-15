@@ -1,16 +1,13 @@
 ---
+titulo: CIA Narcotrafico
+tipo: hipotesis
+fecha: 2026-04-21
+estado: activo
+tier_primario: b
+nivel_evidencia: medio
+aliases: ["CIA Narcotráfico"]
+tags: [cia-narcotrafico, black-budget, air-america, iran-contra, crimen-sistemico, tl-intel-v3]
 publish: true
-aliases:
-  - CIA Narcotráfico
-created: 2026-01-29T19:17:07.633-03:00
-modified: 2026-04-22T12:11:43.222-03:00
-tags:
-  - cia-narcotrafico
-  - black-budget
-  - air-america
-  - iran-contra
-  - crimen-sistemico
-  - tl-intel-v3
 ---
 
 # CIA Narcotrafico

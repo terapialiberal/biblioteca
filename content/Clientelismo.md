@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:05:26.148-03:00
-modified: 2026-04-29T14:05:43.263-03:00
-tags:
-  - politica
-  - territorio
-  - argentina
-  - tl-intel-v3
+tipo: mecanismo
+titulo: Clientelismo
+estado: activo
+tags: [politica, territorio, argentina, tl-intel-v3]
 ---
 
 # Clientelismo

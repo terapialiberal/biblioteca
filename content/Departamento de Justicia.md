@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T13:36:24.889-03:00
-modified: 2026-04-29T13:37:15.466-03:00
-tags:
-  - agencia
-  - estados-unidos
-  - justicia
-  - tl-intel-v3
+tipo: agencia
+titulo: Departamento de Justicia
+estado: activo
+tags: [agencia, estados-unidos, justicia, tl-intel-v3]
 ---
 
 # Departamento de Justicia

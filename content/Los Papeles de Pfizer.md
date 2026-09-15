@@ -1,17 +1,13 @@
 ---
+titulo: Los Papeles de Pfizer
+tipo: concepto
+fecha: 2026-04-21
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Los Papeles De Pfizer: La Verdad Detras De La Inmunidad"]
+tags: [pfizer, fda, covid, captura-regulatoria, documentos, bioseguridad, tl-intel-v3]
 publish: true
-aliases:
-  - "Los Papeles De Pfizer: La Verdad Detras De La Inmunidad"
-created: 2026-01-29T19:17:22.972-03:00
-modified: 2026-04-21T18:50:06.644-03:00
-tags:
-  - pfizer
-  - fda
-  - covid
-  - captura-regulatoria
-  - documentos
-  - bioseguridad
-  - tl-intel-v3
 ---
 
 # Los Papeles de Pfizer

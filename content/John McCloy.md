@@ -1,17 +1,13 @@
 ---
+titulo: John McCloy
+tipo: persona
+fecha: 2026-04-27
+estado: activo
+aliases: ["John J. McCloy", "John Jay McCloy"]
+tags: [john-mccloy, cfr, establishment, wall-street, alemania-posguerra, tl-intel-v3]
+tier_primario: b
+nivel_evidencia: alto
 publish: true
-aliases:
-  - John J. McCloy
-  - John Jay McCloy
-created: 2026-01-29T19:17:19.890-03:00
-modified: 2026-04-27T10:12:16.584-03:00
-tags:
-  - john-mccloy
-  - cfr
-  - establishment
-  - wall-street
-  - alemania-posguerra
-  - tl-intel-v3
 ---
 
 # John McCloy

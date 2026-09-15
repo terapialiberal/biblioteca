@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T13:53:50.872-03:00
-modified: 2026-04-29T13:53:50.872-03:00
-tags:
-  - redes-oscuras
-  - encubrimiento
-  - abuso-institucional
-  - tl-intel-v3
+tipo: caso
+titulo: Caso Franklin (El encubrimiento original)
+estado: activo
+tags: [redes-oscuras, encubrimiento, abuso-institucional, tl-intel-v3]
 ---
 
 # Caso Franklin (El encubrimiento original)

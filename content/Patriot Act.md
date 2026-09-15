@@ -1,14 +1,18 @@
 ---
-publish: true
+titulo: Patriot Act
+tipo: concepto
+fecha: 2026-04-18
+tier_primario: B
+nivel_evidencia: alto
+estado: activo
 aliases:
   - USA PATRIOT Act
-created: 2026-01-29T19:17:29.930-03:00
-modified: 2026-04-18T18:31:42.634-03:00
 tags:
   - patriot-act
   - vigilancia
   - seguridad-nacional
   - legislacion-de-excepcion
+publish: true
 ---
 
 # [[Patriot Act]]

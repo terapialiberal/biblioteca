@@ -1,14 +1,10 @@
 ---
 publish: true
-aliases:
-  - Bermudas
-created: 2026-05-01T19:14:16.001-03:00
-modified: 2026-05-02T18:25:13.249-03:00
-tags:
-  - jurisdiccion
-  - offshore
-  - paraiso-fiscal
-  - reaseguros
+titulo: "Bermudas"
+aliases: ["Bermudas"]
+tags: [jurisdiccion, offshore, paraiso-fiscal, reaseguros]
+tipo: jurisdiccion
+nivel: B
 ---
 
 # Bermudas

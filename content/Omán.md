@@ -1,16 +1,11 @@
 ---
+titulo: Omán
+tipo: nodo
+fecha: 2026-05-02
+estado: activo
+aliases: ["Oman", "Omán (Geopolítica)"]
+tags: [oman, golfo, diplomacia, ormuz, tl-intel-v3]
 publish: true
-aliases:
-  - Oman
-  - Omán (Geopolítica)
-created: 2026-05-01T20:44:26.986-03:00
-modified: 2026-05-02T12:49:52.105-03:00
-tags:
-  - oman
-  - golfo
-  - diplomacia
-  - ormuz
-  - tl-intel-v3
 ---
 
 # Omán

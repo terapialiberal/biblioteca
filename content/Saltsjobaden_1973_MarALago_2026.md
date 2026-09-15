@@ -1,15 +1,12 @@
 ---
+titulo: Saltsjobaden 1973 MarALago 2026
+tipo: patron
+fecha: 2026-04-20
+tier_primario: a
+nivel_evidencia: medio
+estado: activo
+tags: [saltsjobaden, mar-a-lago, bilderberg, reset-monetario, petrodolar, reanclaje-hibrido, tl-intel-v3]
 publish: true
-created: 2026-04-20T17:04:18.214-03:00
-modified: 2026-04-22T10:25:26.770-03:00
-tags:
-  - saltsjobaden
-  - mar-a-lago
-  - bilderberg
-  - reset-monetario
-  - petrodolar
-  - reanclaje-hibrido
-  - tl-intel-v3
 ---
 
 # Saltsjobaden 1973 MarALago 2026

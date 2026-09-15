@@ -1,14 +1,12 @@
 ---
+titulo: Tecnofeudalismo
+tipo: concepto
+fecha: 2026-04-19
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [tecnofeudalismo, plataformas, renta, silicon-valley, capitalismo, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:38.560-03:00
-modified: 2026-04-19T12:41:18.085-03:00
-tags:
-  - tecnofeudalismo
-  - plataformas
-  - renta
-  - silicon-valley
-  - capitalismo
-  - tl-intel-v3
 ---
 
 # Tecnofeudalismo

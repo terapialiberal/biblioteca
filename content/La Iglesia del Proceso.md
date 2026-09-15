@@ -1,12 +1,12 @@
 ---
+titulo: "La Iglesia Del Proceso: El Laboratorio De La Oscuridad Sintética"
+tipo: "concepto"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [charles, cienciologa, laboratorio, proceso]
 publish: true
-created: 2026-01-29T19:17:21.274-03:00
-modified: 2026-05-02T18:25:40.824-03:00
-tags:
-  - charles
-  - cienciologa
-  - laboratorio
-  - proceso
 ---
 
 # La Iglesia Del Proceso: El Laboratorio De La Oscuridad Sintética

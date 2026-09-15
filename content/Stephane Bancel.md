@@ -1,16 +1,13 @@
 ---
+titulo: Stephane Bancel
+tipo: persona
+fecha: 2026-04-17
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Stéphane Bancel"]
+tags: [bancel, moderna, biotech, bioseguridad, ceo, tl-intel-v3]
 publish: true
-aliases:
-  - Stéphane Bancel
-created: 2026-01-29T19:17:37.928-03:00
-modified: 2026-04-22T16:07:43.141-03:00
-tags:
-  - bancel
-  - moderna
-  - biotech
-  - bioseguridad
-  - ceo
-  - tl-intel-v3
 ---
 
 # Stephane Bancel

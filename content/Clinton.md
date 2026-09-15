@@ -1,15 +1,11 @@
 ---
+titulo: Clinton
+tipo: nodo
+fecha: 2026-05-02
+estado: activo
+aliases: ["Bill Clinton"]
+tags: [clinton, eeuu, globalizacion, finanzas, tl-intel-v3]
 publish: true
-aliases:
-  - Bill Clinton
-created: 2026-05-01T20:41:05.904-03:00
-modified: 2026-05-02T13:01:42.734-03:00
-tags:
-  - clinton
-  - eeuu
-  - globalizacion
-  - finanzas
-  - tl-intel-v3
 ---
 
 # Clinton

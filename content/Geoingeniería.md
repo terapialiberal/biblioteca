@@ -1,12 +1,10 @@
 ---
 publish: true
-created: 2026-04-29T13:34:44.177-03:00
-modified: 2026-05-02T14:01:29.806-03:00
-tags:
-  - alias
-  - clima
-  - tecnologia
-  - tl-intel-v3
+tipo: alias
+titulo: Geoingeniería
+estado: activo
+reemplazado_por: "[[Modificacion del Clima]]"
+tags: [alias, clima, tecnologia, tl-intel-v3]
 ---
 
 # Geoingeniería

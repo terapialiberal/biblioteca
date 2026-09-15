@@ -1,18 +1,13 @@
 ---
+titulo: Embajada de EE.UU.
+tipo: entidad
+fecha: 2026-04-24
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Embajada de Estados Unidos", "Embajada de EEUU"]
+tags: [embajada-eeuu, diplomacia, lawfare, injerencia, argentina, geopolitica, tl-intel-v3]
 publish: true
-aliases:
-  - Embajada de Estados Unidos
-  - Embajada de EEUU
-created: 2026-04-24T11:09:49.697-03:00
-modified: 2026-04-24T11:09:49.697-03:00
-tags:
-  - embajada-eeuu
-  - diplomacia
-  - lawfare
-  - injerencia
-  - argentina
-  - geopolitica
-  - tl-intel-v3
 ---
 
 # Embajada de EE.UU.

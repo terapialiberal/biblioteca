@@ -1,13 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T15:30:58.254-03:00
-modified: 2026-04-29T15:30:58.254-03:00
-tags:
-  - vaticano
-  - iglesia
-  - guerra-fria
-  - polonia
-  - tl-intel-v3
+tipo: actor
+titulo: Juan Pablo II
+estado: activo
+tags: [vaticano, iglesia, guerra-fria, polonia, tl-intel-v3]
 ---
 
 # Juan Pablo II

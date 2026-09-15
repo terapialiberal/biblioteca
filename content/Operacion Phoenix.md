@@ -1,16 +1,13 @@
 ---
+titulo: Operacion Phoenix
+tipo: evento
+fecha: 2026-04-21
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Operación Phoenix"]
+tags: [operacion-phoenix, contrainsurgencia, vietnam, cia, asesinato-selectivo, tl-intel-v3]
 publish: true
-aliases:
-  - Operación Phoenix
-created: 2026-01-29T19:17:28.799-03:00
-modified: 2026-04-22T12:11:43.258-03:00
-tags:
-  - operacion-phoenix
-  - contrainsurgencia
-  - vietnam
-  - cia
-  - asesinato-selectivo
-  - tl-intel-v3
 ---
 
 # Operacion Phoenix

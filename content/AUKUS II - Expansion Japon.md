@@ -1,17 +1,13 @@
 ---
+titulo: AUKUS II - Expansion Japon
+tipo: concepto
+fecha: 2026-04-22
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["AUKUS II: El Pilar Digital Y La Integración De Japón", "AUKUS Pillar 2"]
+tags: [aukus, japon, indo-pacifico, defensa, anduril, tl-intel-v3]
 publish: true
-aliases:
-  - "AUKUS II: El Pilar Digital Y La Integración De Japón"
-  - AUKUS Pillar 2
-created: 2026-02-09T17:24:48.793-03:00
-modified: 2026-04-24T10:21:53.196-03:00
-tags:
-  - aukus
-  - japon
-  - indo-pacifico
-  - defensa
-  - anduril
-  - tl-intel-v3
 ---
 
 # AUKUS II - Expansion Japon

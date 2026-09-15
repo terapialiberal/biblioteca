@@ -1,12 +1,12 @@
 ---
+titulo: Urbit 2026
+tipo: "evento"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "alto"
+estado: activo
+tags: [panptico, peer, tlon, urbit]
 publish: true
-created: 2026-02-25T16:12:39.110-03:00
-modified: 2026-05-02T18:26:14.506-03:00
-tags:
-  - panptico
-  - peer
-  - tlon
-  - urbit
 ---
 
 # Urbit 2026

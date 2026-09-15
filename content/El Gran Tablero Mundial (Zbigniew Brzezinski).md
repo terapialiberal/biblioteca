@@ -1,12 +1,14 @@
 ---
 publish: true
-created: 2026-04-29T14:09:26.038-03:00
-modified: 2026-05-02T14:18:15.519-03:00
+tipo: alias
+titulo: El Gran Tablero Mundial (Zbigniew Brzezinski)
+estado: activo
 tags:
   - geostrategia
   - brzezinski
   - eurasia
   - tl-intel-v3
+reemplazado_por: '[[El Gran Tablero Mundial]]'
 ---
 
 # El Gran Tablero Mundial (Zbigniew Brzezinski)

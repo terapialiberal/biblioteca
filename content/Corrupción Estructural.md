@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:09:22.274-03:00
-modified: 2026-04-29T14:09:38.252-03:00
-tags:
-  - corrupcion
-  - instituciones
-  - argentina
-  - tl-intel-v3
+tipo: concepto
+titulo: Corrupción Estructural
+estado: activo
+tags: [corrupcion, instituciones, argentina, tl-intel-v3]
 ---
 
 # Corrupción Estructural

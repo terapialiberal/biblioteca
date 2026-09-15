@@ -1,15 +1,12 @@
 ---
+titulo: Shield AI
+tipo: organizacion
+fecha: 2026-04-20
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [shield-ai, drones, autonomia, defensa, ia-militar, pentagono, tl-intel-v3]
 publish: true
-created: 2026-02-25T14:50:55.882-03:00
-modified: 2026-04-20T09:56:55.591-03:00
-tags:
-  - shield-ai
-  - drones
-  - autonomia
-  - defensa
-  - ia-militar
-  - pentagono
-  - tl-intel-v3
 ---
 
 # Shield AI

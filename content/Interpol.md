@@ -1,15 +1,11 @@
 ---
+titulo: Interpol
+tipo: entidad
+fecha: 2026-05-02
+estado: activo
+aliases: ["Interpol (Policía Internacional)"]
+tags: [interpol, policia, cooperacion, lawfare, tl-intel-v3]
 publish: true
-aliases:
-  - Interpol (Policía Internacional)
-created: 2026-01-29T19:17:18.690-03:00
-modified: 2026-05-02T13:07:09.090-03:00
-tags:
-  - interpol
-  - policia
-  - cooperacion
-  - lawfare
-  - tl-intel-v3
 ---
 
 # Interpol

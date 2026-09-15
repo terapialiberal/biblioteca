@@ -1,15 +1,11 @@
 ---
+titulo: Modi
+tipo: nodo
+fecha: 2026-05-02
+estado: activo
+aliases: ["Narendra Modi"]
+tags: [modi, india, nacionalismo, brics, tl-intel-v3]
 publish: true
-aliases:
-  - Narendra Modi
-created: 2026-05-01T20:41:26.631-03:00
-modified: 2026-05-02T12:57:57.028-03:00
-tags:
-  - modi
-  - india
-  - nacionalismo
-  - brics
-  - tl-intel-v3
 ---
 
 # Modi

@@ -1,16 +1,11 @@
 ---
+titulo: España
+tipo: nodo
+fecha: 2026-05-02
+estado: activo
+aliases: ["Espana", "España (Geopolítica)"]
+tags: [espana, europa, iberoamerica, ue, tl-intel-v3]
 publish: true
-aliases:
-  - Espana
-  - España (Geopolítica)
-created: 2026-05-01T20:43:50.480-03:00
-modified: 2026-05-02T13:01:00.619-03:00
-tags:
-  - espana
-  - europa
-  - iberoamerica
-  - ue
-  - tl-intel-v3
 ---
 
 # España

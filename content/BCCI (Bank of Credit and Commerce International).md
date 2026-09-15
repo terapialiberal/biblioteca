@@ -1,12 +1,14 @@
 ---
 publish: true
-created: 2026-04-29T14:05:23.662-03:00
-modified: 2026-05-02T14:16:38.221-03:00
+tipo: alias
+titulo: BCCI (Bank of Credit and Commerce International)
+estado: activo
 tags:
   - alias
   - banca
   - inteligencia
   - tl-intel-v3
+reemplazado_por: '[[BCCI]]'
 ---
 
 # BCCI (Bank of Credit and Commerce International)

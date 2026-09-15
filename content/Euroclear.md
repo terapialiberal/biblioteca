@@ -1,15 +1,11 @@
 ---
+titulo: Euroclear
+tipo: entidad
+fecha: 2026-05-02
+estado: activo
+aliases: ["Euroclear (Custodia)"]
+tags: [euroclear, custodia, settlement, europa, tl-intel-v3]
 publish: true
-aliases:
-  - Euroclear (Custodia)
-created: 2026-01-29T19:17:12.583-03:00
-modified: 2026-05-02T13:05:22.586-03:00
-tags:
-  - euroclear
-  - custodia
-  - settlement
-  - europa
-  - tl-intel-v3
 ---
 
 # Euroclear

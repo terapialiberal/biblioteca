@@ -1,14 +1,10 @@
 ---
 publish: true
-aliases:
-  - Masonería (Gran Oriente)
-  - Gran Oriente
-created: 2026-05-01T18:48:22.874-03:00
-modified: 2026-05-02T18:25:45.283-03:00
-tags:
-  - sociedad-discreta
-  - masoneria
-  - poder
+titulo: "Masonería - Gran Oriente"
+aliases: ["Masonería (Gran Oriente)", "Gran Oriente"]
+tags: [sociedad-discreta, masoneria, poder]
+tipo: red-discreta
+nivel: B
 ---
 
 # Masonería - Gran Oriente

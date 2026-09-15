@@ -1,15 +1,14 @@
 ---
+titulo: "Autopsia de Profecía"
 publish: true
-aliases:
-  - Resumen General
-created: 2026-01-29T19:17:04.529-03:00
-modified: 2026-05-02T18:24:21.359-03:00
-tags:
-  - autopsia-de-profecia
-  - problema-reaccion-solucion
-  - framing
-  - psyops
-  - tl-intel-v3
+tipo: concepto
+fecha: 2026-04-07
+tier_primario: B
+moc_canonico: [[00_MOC - Operaciones Psicologicas]]
+estado: activo
+aliases: ["Resumen General"]
+fuentes_clave: []
+tags: [autopsia-de-profecia, problema-reaccion-solucion, framing, psyops, tl-intel-v3]
 ---
 
 # [[Autopsia de Profecía]]

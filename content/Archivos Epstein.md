@@ -1,13 +1,12 @@
 ---
+titulo: Archivos Epstein (2024)
+tipo: evento
+fecha: 2026-04-17
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [archivos-epstein, 2024, liberacion-controlada, transparencia-coreografiada, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:03.813-03:00
-modified: 2026-04-17T14:13:24.172-03:00
-tags:
-  - archivos-epstein
-  - 2024
-  - liberacion-controlada
-  - transparencia-coreografiada
-  - tl-intel-v3
 ---
 
 # Archivos Epstein (2024)

@@ -1,7 +1,8 @@
 ---
 publish: true
-created: 2026-02-25T14:51:38.206-03:00
-modified: 2026-04-07T10:50:52.762-03:00
+titulo: Microsoft Fairwater
+tipo: entidad
+estado: activo
 ---
 
 # Microsoft Fairwater

@@ -1,15 +1,10 @@
 ---
 publish: true
-aliases:
-  - Mayer Amschel
-  - Mayer Amschel Rothschild
-created: 2026-05-01T18:49:46.821-03:00
-modified: 2026-05-02T18:25:45.739-03:00
-tags:
-  - actor
-  - banquero
-  - dinastia
-  - rothschild
+titulo: "Mayer Amschel Rothschild"
+aliases: ["Mayer Amschel", "Mayer Amschel Rothschild"]
+tags: [actor, banquero, dinastia, rothschild]
+tipo: actor
+nivel: A
 ---
 
 # Mayer Amschel Rothschild

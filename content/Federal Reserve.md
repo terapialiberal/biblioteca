@@ -1,12 +1,10 @@
 ---
 publish: true
-created: 2026-04-29T13:36:23.173-03:00
-modified: 2026-05-02T14:01:29.681-03:00
-tags:
-  - alias
-  - fed
-  - banca-central
-  - tl-intel-v3
+tipo: alias
+titulo: Federal Reserve
+estado: activo
+reemplazado_por: "[[Reserva Federal]]"
+tags: [alias, fed, banca-central, tl-intel-v3]
 ---
 
 # Federal Reserve

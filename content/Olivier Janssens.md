@@ -1,13 +1,10 @@
 ---
 publish: true
-aliases:
-  - Olivier Janssens
-created: 2026-05-01T18:49:00.451-03:00
-modified: 2026-05-02T18:25:51.456-03:00
-tags:
-  - actor
-  - bitcoin
-  - libertad-financiera
+titulo: "Olivier Janssens"
+aliases: ["Olivier Janssens"]
+tags: [actor, bitcoin, libertad-financiera]
+tipo: actor
+nivel: C
 ---
 
 # Olivier Janssens

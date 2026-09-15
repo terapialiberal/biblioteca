@@ -1,18 +1,13 @@
 ---
+titulo: Beneficial Ownership
+tipo: concepto
+fecha: 2026-04-22
+aliases: ["Propiedad Beneficiaria", "Beneficial owner", "Beneficial ownership"]
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [beneficial-ownership, custodia, propiedad-beneficiaria, dtcc, clearing, tl-intel-v3]
 publish: true
-aliases:
-  - Propiedad Beneficiaria
-  - Beneficial owner
-  - Beneficial ownership
-created: 2026-04-22T16:50:01.012-03:00
-modified: 2026-04-22T16:50:01.012-03:00
-tags:
-  - beneficial-ownership
-  - custodia
-  - propiedad-beneficiaria
-  - dtcc
-  - clearing
-  - tl-intel-v3
 ---
 
 # Beneficial Ownership

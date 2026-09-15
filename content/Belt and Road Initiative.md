@@ -1,18 +1,13 @@
 ---
+titulo: Belt and Road Initiative
+tipo: concepto
+fecha: 2026-04-21
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["BRI", "Belt and Road Initiative (BRI)", "Nueva Ruta de la Seda"]
+tags: [belt-and-road, bri, china, infraestructura, eurasia, tl-intel-v3]
 publish: true
-aliases:
-  - BRI
-  - Belt and Road Initiative (BRI)
-  - Nueva Ruta de la Seda
-created: 2026-01-29T19:17:05.115-03:00
-modified: 2026-04-24T10:32:36.573-03:00
-tags:
-  - belt-and-road
-  - bri
-  - china
-  - infraestructura
-  - eurasia
-  - tl-intel-v3
 ---
 
 # Belt and Road Initiative

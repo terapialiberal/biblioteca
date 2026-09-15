@@ -1,15 +1,11 @@
 ---
+titulo: Hobbes
+tipo: nodo
+fecha: 2026-05-02
+estado: activo
+aliases: ["Thomas Hobbes"]
+tags: [hobbes, leviatan, estado, seguridad, tl-intel-v3]
 publish: true
-aliases:
-  - Thomas Hobbes
-created: 2026-05-01T20:17:03.861-03:00
-modified: 2026-05-02T13:44:01.979-03:00
-tags:
-  - hobbes
-  - leviatan
-  - estado
-  - seguridad
-  - tl-intel-v3
 ---
 
 # Hobbes

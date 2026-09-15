@@ -1,15 +1,11 @@
 ---
+titulo: Mahan
+tipo: nodo
+fecha: 2026-05-02
+estado: activo
+aliases: ["Alfred Thayer Mahan"]
+tags: [mahan, poder-naval, geopolitica, mar, tl-intel-v3]
 publish: true
-aliases:
-  - Alfred Thayer Mahan
-created: 2026-05-01T20:16:41.471-03:00
-modified: 2026-05-02T13:44:42.084-03:00
-tags:
-  - mahan
-  - poder-naval
-  - geopolitica
-  - mar
-  - tl-intel-v3
 ---
 
 # Mahan

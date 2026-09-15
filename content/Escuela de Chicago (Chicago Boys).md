@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:09:26.794-03:00
-modified: 2026-04-29T14:09:49.031-03:00
-tags:
-  - economia
-  - chile
-  - reformas
-  - tl-intel-v3
+tipo: concepto
+titulo: Escuela de Chicago (Chicago Boys)
+estado: activo
+tags: [economia, chile, reformas, tl-intel-v3]
 ---
 
 # Escuela de Chicago (Chicago Boys)

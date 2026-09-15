@@ -1,17 +1,13 @@
 ---
+titulo: Revolucion del color
+tipo: evento
+fecha: 2026-04-24
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Revolución del Color", "Revoluciones de Color"]
+tags: [revolucion-del-color, cambio-de-regimen, soft-power, ned, usaid, tl-intel-v3]
 publish: true
-aliases:
-  - Revolución del Color
-  - Revoluciones de Color
-created: 2026-01-29T19:17:33.731-03:00
-modified: 2026-04-24T10:45:51.627-03:00
-tags:
-  - revolucion-del-color
-  - cambio-de-regimen
-  - soft-power
-  - ned
-  - usaid
-  - tl-intel-v3
 ---
 
 # Revolucion del color

@@ -1,12 +1,12 @@
 ---
+titulo: "Paolo Rocca: El Estratega Del Acero Y El Poder"
+tipo: "persona"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [paolo, poder, rocca, techint]
 publish: true
-created: 2026-01-29T19:17:29.778-03:00
-modified: 2026-05-02T18:25:54.285-03:00
-tags:
-  - paolo
-  - poder
-  - rocca
-  - techint
 ---
 
 # Paolo Rocca: El Estratega Del Acero Y El Poder

@@ -1,15 +1,18 @@
 ---
-publish: true
+titulo: Las revelaciones del circulo del Estado Profundo
+tipo: alias
+fecha: 2026-04-18T00:00:00.000Z
+estado: activo
 aliases:
-  - "The Deep State Revelations: Cercle"
+  - 'The Deep State Revelations: Cercle'
   - Las Revelaciones Del Circulo Del Estado Profundo
-created: 2026-01-29T19:05:10.761-03:00
-modified: 2026-05-02T18:25:42.157-03:00
 tags:
   - le-cercle
   - alias
   - estado-profundo
   - tl-intel-v3
+publish: true
+reemplazado_por: '[[Le Cercle]]'
 ---
 
 # Las revelaciones del circulo del Estado Profundo

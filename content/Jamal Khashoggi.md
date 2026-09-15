@@ -1,14 +1,12 @@
 ---
+titulo: Jamal Khashoggi
+tipo: persona
+fecha: 2026-04-22
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [jamal-khashoggi, saudi-arabia, pegasus, vigilancia, represion, tl-intel-v3]
 publish: true
-created: 2026-04-22T16:27:23.890-03:00
-modified: 2026-04-22T16:27:37.118-03:00
-tags:
-  - jamal-khashoggi
-  - saudi-arabia
-  - pegasus
-  - vigilancia
-  - represion
-  - tl-intel-v3
 ---
 
 # Jamal Khashoggi

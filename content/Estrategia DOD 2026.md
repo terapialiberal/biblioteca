@@ -1,12 +1,12 @@
 ---
+titulo: Estrategia DoD 2026
+tipo: "evento"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: ["2026", anduril, china, estrategia]
 publish: true
-created: 2026-02-25T14:52:48.006-03:00
-modified: 2026-05-02T18:25:21.813-03:00
-tags:
-  - "2026"
-  - anduril
-  - china
-  - estrategia
 ---
 
 # Estrategia DoD 2026

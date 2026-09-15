@@ -1,12 +1,12 @@
 ---
+titulo: "Paro Del Campo 2008: La Rebelión contra La Expropiación"
+tipo: "evento"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [campo, contra, paro, rebelin]
 publish: true
-created: 2026-01-29T19:17:29.848-03:00
-modified: 2026-05-02T18:25:54.391-03:00
-tags:
-  - campo
-  - contra
-  - paro
-  - rebelin
 ---
 
 # Paro Del Campo 2008: La Rebelión contra La Expropiación

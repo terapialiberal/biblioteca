@@ -2,13 +2,14 @@
 publish: true
 aliases:
   - Alibaba
-created: 2026-05-01T18:54:19.821-03:00
-modified: 2026-05-02T18:25:11.316-03:00
 tags:
   - empresa
   - china
   - ecommerce
   - tecnologia
+tipo: empresa
+nivel: B
+titulo: Alibaba
 ---
 
 # Alibaba

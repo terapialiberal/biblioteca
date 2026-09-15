@@ -1,14 +1,12 @@
 ---
+titulo: Chainalysis
+tipo: organizacion
+fecha: 2026-04-22
+tier_primario: b
+nivel_evidencia: alto
+estado: activo
+tags: [chainalysis, blockchain, trazabilidad, compliance, vigilancia-financiera, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:07.269-03:00
-modified: 2026-04-22T16:46:58.640-03:00
-tags:
-  - chainalysis
-  - blockchain
-  - trazabilidad
-  - compliance
-  - vigilancia-financiera
-  - tl-intel-v3
 ---
 
 # Chainalysis

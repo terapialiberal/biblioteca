@@ -1,12 +1,11 @@
 ---
+titulo: 04_Base_de_Conocimiento - Guia de uso
+tipo: contenedor
+estado: activo
+fecha: 2026-04-18
+descripcion: Guia minima de uso de la base de conocimiento viva del vault.
+tags: [guia, base-de-conocimiento, wiki, contenedor]
 publish: true
-created: 2026-02-24T13:48:06.913-03:00
-modified: 2026-05-02T18:25:58.838-03:00
-tags:
-  - guia
-  - base-de-conocimiento
-  - wiki
-  - contenedor
 ---
 
 # 04\_Base\_de\_Conocimiento - Guia de uso

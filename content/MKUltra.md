@@ -1,17 +1,11 @@
 ---
+titulo: MKUltra
+tipo: operacion
+fecha: 2026-05-02
+estado: activo
+aliases: ["MK Ultra", "MK-Ultra", "MK-Ultra (Control Mental CIA)"]
+tags: [mkultra, cia, control-mental, experimentos, tl-intel-v3]
 publish: true
-aliases:
-  - MK Ultra
-  - MK-Ultra
-  - MK-Ultra (Control Mental CIA)
-created: 2026-01-29T19:17:25.557-03:00
-modified: 2026-05-02T12:58:38.270-03:00
-tags:
-  - mkultra
-  - cia
-  - control-mental
-  - experimentos
-  - tl-intel-v3
 ---
 
 # MKUltra

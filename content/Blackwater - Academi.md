@@ -1,13 +1,15 @@
 ---
 publish: true
-created: 2026-04-29T14:44:31.027-03:00
-modified: 2026-05-02T14:18:18.626-03:00
+tipo: alias
+titulo: Blackwater - Academi
+estado: activo
 tags:
   - alias
   - contratistas
   - seguridad-privada
   - guerra
   - tl-intel-v3
+reemplazado_por: '[[Blackwater]]'
 ---
 
 # Blackwater - Academi

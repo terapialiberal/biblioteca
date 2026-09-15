@@ -1,15 +1,11 @@
 ---
+titulo: CBS
+tipo: nodo
+fecha: 2026-05-02
+estado: activo
+aliases: ["CBS News"]
+tags: [cbs, medios, television, eeuu, tl-intel-v3]
 publish: true
-aliases:
-  - CBS News
-created: 2026-05-01T19:11:11.791-03:00
-modified: 2026-05-02T13:54:51.983-03:00
-tags:
-  - cbs
-  - medios
-  - television
-  - eeuu
-  - tl-intel-v3
 ---
 
 # CBS

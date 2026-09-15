@@ -1,14 +1,12 @@
 ---
+titulo: La Luna y Mareas Mentales
+tipo: concepto
+fecha: 2026-04-27
+estado: activo
+tags: [luna, mareas-mentales, ciclos, simbolismo, psicologia, tl-intel-v3]
+tier_primario: c
+nivel_evidencia: bajo
 publish: true
-created: 2026-02-25T22:08:56.598-03:00
-modified: 2026-04-27T10:32:16.161-03:00
-tags:
-  - luna
-  - mareas-mentales
-  - ciclos
-  - simbolismo
-  - psicologia
-  - tl-intel-v3
 ---
 
 # La Luna y Mareas Mentales

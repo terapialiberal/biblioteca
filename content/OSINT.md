@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T13:56:38.467-03:00
-modified: 2026-04-29T13:56:38.467-03:00
-tags:
-  - investigacion
-  - fuentes-abiertas
-  - inteligencia
-  - tl-intel-v3
+tipo: metodo
+titulo: OSINT
+estado: activo
+tags: [investigacion, fuentes-abiertas, inteligencia, tl-intel-v3]
 ---
 
 # OSINT

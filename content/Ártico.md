@@ -1,17 +1,13 @@
 ---
+titulo: Ártico
+tipo: nodo
+fecha: 2026-05-02
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Artico", "Ártico (Geopolítica)"]
+tags: [artico, recursos, rutas, energia, geopolitica, tl-intel-v3]
 publish: true
-aliases:
-  - Artico
-  - Ártico (Geopolítica)
-created: 2026-05-01T20:45:08.949-03:00
-modified: 2026-05-02T12:42:17.566-03:00
-tags:
-  - artico
-  - recursos
-  - rutas
-  - energia
-  - geopolitica
-  - tl-intel-v3
 ---
 
 # Ártico

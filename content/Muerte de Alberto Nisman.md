@@ -1,17 +1,13 @@
 ---
+titulo: Muerte de Alberto Nisman
+tipo: evento
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Muerte De Alberto Nisman: El Sacrificio Geopolitico"]
+tags: [argentina, nisman, inteligencia, iran, justicia, crisis-institucional, tl-intel-v3]
 publish: true
-aliases:
-  - "Muerte De Alberto Nisman: El Sacrificio Geopolitico"
-created: 2026-01-29T19:17:26.012-03:00
-modified: 2026-04-18T11:24:28.557-03:00
-tags:
-  - argentina
-  - nisman
-  - inteligencia
-  - iran
-  - justicia
-  - crisis-institucional
-  - tl-intel-v3
 ---
 
 # Muerte de Alberto Nisman

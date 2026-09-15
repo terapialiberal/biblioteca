@@ -1,12 +1,12 @@
 ---
+titulo: "Koch Industries: Los Arquitectos De La Libertad Corporativa"
+tipo: "entidad"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [cato, industries, koch, mercatus]
 publish: true
-created: 2026-01-29T19:17:20.814-03:00
-modified: 2026-05-02T18:25:39.395-03:00
-tags:
-  - cato
-  - industries
-  - koch
-  - mercatus
 ---
 
 # Koch Industries: Los Arquitectos De La Libertad Corporativa

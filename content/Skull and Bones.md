@@ -1,15 +1,11 @@
 ---
+titulo: Skull and Bones
+tipo: nodo
+fecha: 2026-05-02
+estado: activo
+aliases: ["Skull and Bones (Sociedad Secreta)"]
+tags: [skull-and-bones, yale, redes-elite, eeuu, tl-intel-v3]
 publish: true
-aliases:
-  - Skull and Bones (Sociedad Secreta)
-created: 2026-01-29T19:17:37.241-03:00
-modified: 2026-05-02T13:03:01.127-03:00
-tags:
-  - skull-and-bones
-  - yale
-  - redes-elite
-  - eeuu
-  - tl-intel-v3
 ---
 
 # Skull and Bones

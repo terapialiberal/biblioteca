@@ -1,14 +1,12 @@
 ---
+titulo: Virality Project
+tipo: entidad
+fecha: 2026-04-19
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [virality-project, stanford, censura, plataformas, pandemia, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:43.266-03:00
-modified: 2026-04-19T12:17:52.898-03:00
-tags:
-  - virality-project
-  - stanford
-  - censura
-  - plataformas
-  - pandemia
-  - tl-intel-v3
 ---
 
 # Virality Project

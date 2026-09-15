@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T13:36:32.636-03:00
-modified: 2026-04-29T13:37:16.649-03:00
-tags:
-  - actor
-  - feminismo
-  - medios
-  - tl-intel-v3
+tipo: actor
+titulo: Gloria Steinem
+estado: activo
+tags: [actor, feminismo, medios, tl-intel-v3]
 ---
 
 # Gloria Steinem

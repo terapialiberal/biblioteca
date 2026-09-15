@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T13:34:44.318-03:00
-modified: 2026-04-29T13:35:00.302-03:00
-tags:
-  - actor
-  - argentina
-  - peronismo
-  - tl-intel-v3
+tipo: actor
+titulo: Isabel Perón
+estado: activo
+tags: [actor, argentina, peronismo, tl-intel-v3]
 ---
 
 # Isabel Perón

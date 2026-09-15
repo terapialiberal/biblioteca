@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:09:22.408-03:00
-modified: 2026-04-29T14:09:38.101-03:00
-tags:
-  - argentina
-  - kirchnerismo
-  - poder-politico
-  - tl-intel-v3
+tipo: actor
+titulo: Cristina Fernández de Kirchner
+estado: activo
+tags: [argentina, kirchnerismo, poder-politico, tl-intel-v3]
 ---
 
 # Cristina Fernández de Kirchner

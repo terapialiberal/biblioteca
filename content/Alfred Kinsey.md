@@ -1,13 +1,12 @@
 ---
+titulo: Alfred Kinsey
+tipo: persona
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [alfred-kinsey, sexualidad, ingenieria-social, fundaciones, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:03.250-03:00
-modified: 2026-04-18T10:51:12.979-03:00
-tags:
-  - alfred-kinsey
-  - sexualidad
-  - ingenieria-social
-  - fundaciones
-  - tl-intel-v3
 ---
 
 # Alfred Kinsey

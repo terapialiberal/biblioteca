@@ -1,12 +1,14 @@
 ---
 publish: true
-created: 2026-04-29T14:09:22.301-03:00
-modified: 2026-05-02T14:16:11.963-03:00
+tipo: alias
+titulo: Crédito Social (Occidental)
+estado: activo
 tags:
   - alias
   - scoring
   - control-social
   - tl-intel-v3
+reemplazado_por: '[[Credito Social]]'
 ---
 
 # Crédito Social (Occidental)

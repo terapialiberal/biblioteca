@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:09:22.182-03:00
-modified: 2026-04-29T14:09:38.123-03:00
-tags:
-  - corporaciones
-  - poder
-  - captura
-  - tl-intel-v3
+tipo: concepto
+titulo: Corporatocracia
+estado: activo
+tags: [corporaciones, poder, captura, tl-intel-v3]
 ---
 
 # Corporatocracia

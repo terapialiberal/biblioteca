@@ -1,15 +1,12 @@
 ---
+titulo: Stephen Miran
+tipo: persona
+fecha: 2026-04-20
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [stephen-miran, cea, mar-a-lago-accord, dolar, treasuries, trump, tl-intel-v3]
 publish: true
-created: 2026-04-20T16:50:16.888-03:00
-modified: 2026-04-22T10:31:54.161-03:00
-tags:
-  - stephen-miran
-  - cea
-  - mar-a-lago-accord
-  - dolar
-  - treasuries
-  - trump
-  - tl-intel-v3
 ---
 
 # Stephen Miran

@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:09:25.393-03:00
-modified: 2026-04-29T14:09:45.296-03:00
-tags:
-  - guerra-fria
-  - eeuu
-  - contencion
-  - tl-intel-v3
+tipo: doctrina
+titulo: Doctrina Truman
+estado: activo
+tags: [guerra-fria, eeuu, contencion, tl-intel-v3]
 ---
 
 # Doctrina Truman

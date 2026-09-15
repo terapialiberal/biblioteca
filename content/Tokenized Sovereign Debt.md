@@ -1,16 +1,11 @@
 ---
+titulo: Tokenized Sovereign Debt
+tipo: concepto
+fecha: 2026-04-19
+estado: activo
+aliases: ["Deuda Soberana Tokenizada"]
+tags: [deuda-soberana, tokenizacion, treasuries, rwa, gobernanza-programable, tl-intel-v3]
 publish: true
-aliases:
-  - Deuda Soberana Tokenizada
-created: 2026-02-25T15:50:41.672-03:00
-modified: 2026-04-22T16:40:48.902-03:00
-tags:
-  - deuda-soberana
-  - tokenizacion
-  - treasuries
-  - rwa
-  - gobernanza-programable
-  - tl-intel-v3
 ---
 
 # Tokenized Sovereign Debt

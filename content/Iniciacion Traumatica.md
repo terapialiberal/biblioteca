@@ -1,16 +1,13 @@
 ---
+titulo: Iniciacion Traumatica
+tipo: patron
+fecha: 2026-04-27
+estado: activo
+aliases: ["Iniciación Traumática", "Traumatic initiation"]
+tags: [iniciacion-traumatica, trauma, ritual, operaciones-psicologicas, tl-intel-v3]
+tier_primario: b
+nivel_evidencia: medio
 publish: true
-aliases:
-  - Iniciación Traumática
-  - Traumatic initiation
-created: 2026-02-25T22:08:52.812-03:00
-modified: 2026-04-27T10:23:22.596-03:00
-tags:
-  - iniciacion-traumatica
-  - trauma
-  - ritual
-  - operaciones-psicologicas
-  - tl-intel-v3
 ---
 
 # Iniciacion Traumatica

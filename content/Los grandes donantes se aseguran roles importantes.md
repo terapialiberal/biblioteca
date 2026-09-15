@@ -1,13 +1,12 @@
 ---
+titulo: Los grandes donantes se aseguran roles importantes en el proximo gobierno de Trump
+tipo: import
+estado: capturado
+fuente: https://cnnespanol.cnn.com/2024/12/14/estados-unidos/los-grandes-donantes-se-aseguran-roles-importantes-en-el-proximo-gobierno-de-trump
+fecha: 2024-12-14
+descripcion: Import estabilizado sobre donantes y figuras de financiamiento que buscan posiciones o influencia en un eventual nuevo gobierno de Trump.
+tags: [donald-trump, donantes, financiamiento-politico, gobierno, import]
 publish: true
-created: 2026-01-29T19:05:11.060-03:00
-modified: 2026-05-02T18:25:43.943-03:00
-tags:
-  - donald-trump
-  - donantes
-  - financiamiento-politico
-  - gobierno
-  - import
 ---
 
 # Los grandes donantes se aseguran roles importantes en el proximo gobierno de Trump

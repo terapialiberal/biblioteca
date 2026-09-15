@@ -1,13 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:44:31.451-03:00
-modified: 2026-04-29T14:44:44.040-03:00
-tags:
-  - cultura
-  - genero
-  - biopolitica
-  - transhumanismo
-  - tl-intel-v3
+tipo: concepto
+titulo: Ideologia de Genero
+estado: activo
+tags: [cultura, genero, biopolitica, transhumanismo, tl-intel-v3]
 ---
 
 # Ideologia de Genero

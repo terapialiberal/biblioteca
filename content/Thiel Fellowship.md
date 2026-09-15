@@ -1,14 +1,12 @@
 ---
+titulo: Thiel Fellowship
+tipo: programa
+fecha: 2026-04-20
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [thiel-fellowship, peter-thiel, elite-selection, tech, education, tl-intel-v3]
 publish: true
-created: 2026-04-20T11:15:06.440-03:00
-modified: 2026-04-20T11:18:49.244-03:00
-tags:
-  - thiel-fellowship
-  - peter-thiel
-  - elite-selection
-  - tech
-  - education
-  - tl-intel-v3
 ---
 
 # Thiel Fellowship

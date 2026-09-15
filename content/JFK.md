@@ -1,17 +1,11 @@
 ---
+titulo: JFK
+tipo: nodo
+fecha: 2026-05-02
+estado: activo
+aliases: ["Kennedy", "John F. Kennedy", "John F. Kennedy (Asesinato)"]
+tags: [jfk, kennedy, asesinato, eeuu, tl-intel-v3]
 publish: true
-aliases:
-  - Kennedy
-  - John F. Kennedy
-  - John F. Kennedy (Asesinato)
-created: 2026-05-01T20:40:11.807-03:00
-modified: 2026-05-02T13:02:22.129-03:00
-tags:
-  - jfk
-  - kennedy
-  - asesinato
-  - eeuu
-  - tl-intel-v3
 ---
 
 # JFK

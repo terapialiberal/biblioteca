@@ -1,14 +1,10 @@
 ---
 publish: true
-aliases:
-  - California
-created: 2026-05-01T20:12:15.274-03:00
-modified: 2026-05-02T18:25:14.547-03:00
-tags:
-  - estado
-  - eeuu
-  - tecnologia
-  - economia
+titulo: "California"
+aliases: ["California"]
+tags: [estado, eeuu, tecnologia, economia]
+tipo: estado
+nivel: B
 ---
 
 # California

@@ -1,15 +1,11 @@
 ---
+titulo: Amazon
+tipo: entidad
+fecha: 2026-05-02
+estado: activo
+aliases: ["Amazon (Empresa)"]
+tags: [amazon, aws, ecommerce, nube, tl-intel-v3]
 publish: true
-aliases:
-  - Amazon (Empresa)
-created: 2026-01-29T19:17:03.415-03:00
-modified: 2026-05-02T13:04:15.967-03:00
-tags:
-  - amazon
-  - aws
-  - ecommerce
-  - nube
-  - tl-intel-v3
 ---
 
 # Amazon

@@ -1,16 +1,13 @@
 ---
+titulo: Corralito
+tipo: evento
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Corralito (2001)"]
+tags: [argentina, corralito, bancos, crisis-2001, ahorros, tl-intel-v3]
 publish: true
-aliases:
-  - Corralito (2001)
-created: 2026-01-29T19:17:08.810-03:00
-modified: 2026-04-18T11:45:42.678-03:00
-tags:
-  - argentina
-  - corralito
-  - bancos
-  - crisis-2001
-  - ahorros
-  - tl-intel-v3
 ---
 
 # Corralito

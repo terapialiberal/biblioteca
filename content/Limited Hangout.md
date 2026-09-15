@@ -1,15 +1,13 @@
 ---
+titulo: Limited Hangout
+tipo: concepto
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Limited Hangout: La Tactica De La Verdad Parcial"]
+tags: [limited-hangout, inteligencia, desinformacion, control-de-danos, tl-intel-v3]
 publish: true
-aliases:
-  - "Limited Hangout: La Tactica De La Verdad Parcial"
-created: 2026-01-29T19:17:22.580-03:00
-modified: 2026-04-18T17:53:19.090-03:00
-tags:
-  - limited-hangout
-  - inteligencia
-  - desinformacion
-  - control-de-danos
-  - tl-intel-v3
 ---
 
 # Limited Hangout

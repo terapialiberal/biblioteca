@@ -1,17 +1,13 @@
 ---
+titulo: Ganancia de Funcion
+tipo: concepto
+fecha: 2026-04-21
+tier_primario: a
+nivel_evidencia: medio
+estado: activo
+aliases: ["Gain of Function", "Gain-of-Function"]
+tags: [ganancia-de-funcion, bioseguridad, virologia, laboratorio, riesgo, tl-intel-v3]
 publish: true
-aliases:
-  - Gain of Function
-  - Gain-of-Function
-created: 2026-04-21T11:39:06.497-03:00
-modified: 2026-04-21T11:39:06.497-03:00
-tags:
-  - ganancia-de-funcion
-  - bioseguridad
-  - virologia
-  - laboratorio
-  - riesgo
-  - tl-intel-v3
 ---
 
 # Ganancia de Funcion

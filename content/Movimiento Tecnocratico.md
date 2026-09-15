@@ -1,15 +1,16 @@
 ---
-publish: true
+titulo: Movimiento Tecnocratico
 aliases:
   - Movimiento Tecnocrático
   - Technocracy Inc.
-created: 2026-01-29T19:17:25.940-03:00
-modified: 2026-04-07T13:34:47.831-03:00
+tipo: concepto
+estado: activo
 tags:
   - tecnocracia
   - energia
   - gobernanza
   - planificacion
+publish: true
 ---
 
 # Movimiento Tecnocratico

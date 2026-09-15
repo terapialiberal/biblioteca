@@ -1,16 +1,13 @@
 ---
+titulo: Paracelso y la Bio-Ingenieria
+tipo: concepto
+fecha: 2026-04-27
+estado: activo
+aliases: ["Paracelso Y La Bio-Ingeniería"]
+tags: [paracelso, bioingenieria, yatroquimica, medicina, alquimia, tl-intel-v3]
+tier_primario: c
+nivel_evidencia: medio
 publish: true
-aliases:
-  - Paracelso Y La Bio-Ingeniería
-created: 2026-02-25T22:08:51.139-03:00
-modified: 2026-04-27T10:53:36.071-03:00
-tags:
-  - paracelso
-  - bioingenieria
-  - yatroquimica
-  - medicina
-  - alquimia
-  - tl-intel-v3
 ---
 
 # Paracelso y la Bio-Ingenieria

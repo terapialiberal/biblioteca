@@ -1,15 +1,11 @@
 ---
+titulo: Einstein
+tipo: nodo
+fecha: 2026-05-02
+estado: activo
+aliases: ["Albert Einstein"]
+tags: [einstein, fisica, ciencia, nuclear, tl-intel-v3]
 publish: true
-aliases:
-  - Albert Einstein
-created: 2026-05-01T20:17:30.156-03:00
-modified: 2026-05-02T13:43:26.434-03:00
-tags:
-  - einstein
-  - fisica
-  - ciencia
-  - nuclear
-  - tl-intel-v3
 ---
 
 # Einstein

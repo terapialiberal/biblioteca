@@ -1,12 +1,14 @@
 ---
 publish: true
-created: 2026-04-29T13:53:51.056-03:00
-modified: 2026-05-02T14:14:55.229-03:00
+tipo: alias
+titulo: Club Bilderberg
+estado: activo
 tags:
   - alias
   - elite-transatlantica
   - foros
   - tl-intel-v3
+reemplazado_por: '[[Bilderberg Group]]'
 ---
 
 # Club Bilderberg

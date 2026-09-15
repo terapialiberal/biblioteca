@@ -1,12 +1,12 @@
 ---
+titulo: "La Caída De Los NFTs: El Experimento De Despojo Psicológico"
+tipo: "concepto"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [bayer, cada, despojo, psicolgico]
 publish: true
-created: 2026-01-29T19:17:21.066-03:00
-modified: 2026-05-02T18:25:39.955-03:00
-tags:
-  - bayer
-  - cada
-  - despojo
-  - psicolgico
 ---
 
 # La Caída De Los NFTs: El Experimento De Despojo Psicológico

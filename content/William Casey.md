@@ -1,14 +1,12 @@
 ---
+titulo: William Casey
+tipo: persona
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [william-casey, cia, iran-contra, bcci, operaciones-encubiertas, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:44.392-03:00
-modified: 2026-04-18T18:17:08.278-03:00
-tags:
-  - william-casey
-  - cia
-  - iran-contra
-  - bcci
-  - operaciones-encubiertas
-  - tl-intel-v3
 ---
 
 # William Casey

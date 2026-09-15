@@ -1,12 +1,14 @@
 ---
 publish: true
-created: 2026-04-29T14:05:24.681-03:00
-modified: 2026-05-02T14:12:35.096-03:00
+tipo: alias
+titulo: Biopolítica
+estado: activo
 tags:
   - alias
   - biopolitica
   - control-social
   - tl-intel-v3
+reemplazado_por: '[[Biopolitica]]'
 ---
 
 # Biopolítica

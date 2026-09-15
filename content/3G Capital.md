@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:05:21.874-03:00
-modified: 2026-04-29T14:05:21.874-03:00
-tags:
-  - private-equity
-  - brasil
-  - consumo-masivo
-  - tl-intel-v3
+tipo: actor
+titulo: 3G Capital
+estado: activo
+tags: [private-equity, brasil, consumo-masivo, tl-intel-v3]
 ---
 
 # 3G Capital

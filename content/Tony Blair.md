@@ -1,13 +1,13 @@
 ---
+titulo: "Tony Blair"
 publish: true
-created: 2026-01-29T19:17:40.553-03:00
-modified: 2026-04-07T12:09:02.911-03:00
-tags:
-  - tony-blair
-  - uk
-  - wef
-  - gobernanza
-  - tl-intel-v3
+tipo: persona
+fecha: 2026-04-07
+tier_primario: B
+moc_canonico: [[00_MOC - Redes de Poder]]
+estado: activo
+fuentes_clave: []
+tags: [tony-blair, uk, wef, gobernanza, tl-intel-v3]
 ---
 
 # [[Tony Blair]]

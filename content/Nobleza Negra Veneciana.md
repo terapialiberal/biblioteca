@@ -1,16 +1,13 @@
 ---
+titulo: "Nobleza Negra Veneciana: La Oligarquía Patricia y el Primer Family Office Soberano"
+tipo: "concepto"
+fecha: 2026-06-04
+tier_primario: "a"
+nivel_evidencia: "medio"
+estado: activo
+tags: [nobleza-negra, venecia, oligarquia, bancos-centrales, chokepoints, modelo-veneciano, quigley, rothschild]
 publish: true
-created: 2026-01-29T19:17:27.284-03:00
-modified: 2026-06-04T12:42:10.214-03:00
-tags:
-  - nobleza-negra
-  - venecia
-  - oligarquia
-  - bancos-centrales
-  - chokepoints
-  - modelo-veneciano
-  - quigley
-  - rothschild
+vinculado_a: ["Carroll Quigley", "Estrecho de Otranto", "Chabad Lubavitch", "Berel Lazar", "Familia Rothschild", "Isla Sazan"]
 ---
 
 # Nobleza Negra Veneciana

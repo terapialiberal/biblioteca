@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T13:56:36.400-03:00
-modified: 2026-04-29T13:56:36.400-03:00
-tags:
-  - banca-central
-  - dinero
-  - captura-regulatoria
-  - tl-intel-v3
+tipo: concepto
+titulo: Historia de la Banca Central - El Ledger de Captura
+estado: activo
+tags: [banca-central, dinero, captura-regulatoria, tl-intel-v3]
 ---
 
 # Historia de la Banca Central - El Ledger de Captura

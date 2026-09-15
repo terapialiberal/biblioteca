@@ -1,12 +1,14 @@
 ---
 publish: true
-created: 2026-04-29T14:09:25.293-03:00
-modified: 2026-05-02T14:14:03.078-03:00
+tipo: alias
+titulo: Divide y Vencerás (Estrategia)
+estado: activo
 tags:
   - alias
   - estrategia
   - guerra-cognitiva
   - tl-intel-v3
+reemplazado_por: '[[Divide y Venceras]]'
 ---
 
 # Divide y Vencerás (Estrategia)

@@ -1,17 +1,13 @@
 ---
+titulo: Trilateral Commission
+tipo: entidad
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: alto
+estado: activo
+aliases: ["Comision Trilateral", "Comisión Trilateral"]
+tags: [trilateral-commission, coordinacion-elite, atlantismo, japon, gobernanza-tecnocratica, tl-intel-v3]
 publish: true
-aliases:
-  - Comision Trilateral
-  - Comisión Trilateral
-created: 2026-01-29T19:17:41.223-03:00
-modified: 2026-04-18T17:20:46.447-03:00
-tags:
-  - trilateral-commission
-  - coordinacion-elite
-  - atlantismo
-  - japon
-  - gobernanza-tecnocratica
-  - tl-intel-v3
 ---
 
 # Trilateral Commission

@@ -1,12 +1,12 @@
 ---
+titulo: "La Mentira De Las WMD En Irak: La Fabricación De La Realidad Bélica"
+tipo: "concepto"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [colin, irak, mentira, pnac]
 publish: true
-created: 2026-01-29T19:17:21.357-03:00
-modified: 2026-05-02T18:25:40.924-03:00
-tags:
-  - colin
-  - irak
-  - mentira
-  - pnac
 ---
 
 # La Mentira De Las WMD En Irak: La Fabricación De La Realidad Bélica

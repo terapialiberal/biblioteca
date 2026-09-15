@@ -1,15 +1,13 @@
 ---
+titulo: El Pentagrama de Paris
+tipo: concepto
+fecha: 2026-04-27
+estado: activo
+aliases: ["El Pentagrama De París"]
+tags: [paris, pentagrama, urbanismo, simbolismo, tl-intel-v3]
+tier_primario: c
+nivel_evidencia: bajo
 publish: true
-aliases:
-  - El Pentagrama De París
-created: 2026-02-25T22:08:32.113-03:00
-modified: 2026-04-27T11:10:08.912-03:00
-tags:
-  - paris
-  - pentagrama
-  - urbanismo
-  - simbolismo
-  - tl-intel-v3
 ---
 
 # El Pentagrama de Paris

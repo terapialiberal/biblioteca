@@ -1,17 +1,13 @@
 ---
+titulo: Mauricio Macri
+tipo: persona
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Mauricio Macri: El Gerente de la Dependencia Estructural"]
+tags: [argentina, macri, deuda, afi, lawfare, circulo-rojo, tl-intel-v3]
 publish: true
-aliases:
-  - "Mauricio Macri: El Gerente de la Dependencia Estructural"
-created: 2026-01-29T19:17:24.408-03:00
-modified: 2026-04-18T11:25:09.851-03:00
-tags:
-  - argentina
-  - macri
-  - deuda
-  - afi
-  - lawfare
-  - circulo-rojo
-  - tl-intel-v3
 ---
 
 # Mauricio Macri

@@ -1,14 +1,12 @@
 ---
+titulo: RTX Corporation
+tipo: organizacion
+fecha: 2026-04-19
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [rtx, raytheon, defensa, aeroespacial, contratistas, tl-intel-v3]
 publish: true
-created: 2026-04-19T13:28:18.760-03:00
-modified: 2026-04-19T13:28:19.244-03:00
-tags:
-  - rtx
-  - raytheon
-  - defensa
-  - aeroespacial
-  - contratistas
-  - tl-intel-v3
 ---
 
 # RTX Corporation

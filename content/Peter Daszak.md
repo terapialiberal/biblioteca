@@ -1,16 +1,13 @@
 ---
+titulo: Peter Daszak
+tipo: entidad
+fecha: 2026-04-21
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Peter Daszak: El Eslabón Perdido De Wuhan"]
+tags: [peter-daszak, ecohealth, bioseguridad, wuhan, gain-of-function, tl-intel-v3]
 publish: true
-aliases:
-  - "Peter Daszak: El Eslabón Perdido De Wuhan"
-created: 2026-01-29T19:17:30.392-03:00
-modified: 2026-04-22T16:03:10.370-03:00
-tags:
-  - peter-daszak
-  - ecohealth
-  - bioseguridad
-  - wuhan
-  - gain-of-function
-  - tl-intel-v3
 ---
 
 # Peter Daszak

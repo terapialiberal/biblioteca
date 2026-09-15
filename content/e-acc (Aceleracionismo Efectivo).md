@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:09:25.484-03:00
-modified: 2026-04-29T14:09:45.219-03:00
-tags:
-  - tecnologia
-  - ia
-  - aceleracionismo
-  - tl-intel-v3
+tipo: concepto
+titulo: e-acc (Aceleracionismo Efectivo)
+estado: activo
+tags: [tecnologia, ia, aceleracionismo, tl-intel-v3]
 ---
 
 # e-acc (Aceleracionismo Efectivo)

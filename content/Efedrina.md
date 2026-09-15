@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:09:25.951-03:00
-modified: 2026-04-29T14:09:45.779-03:00
-tags:
-  - narcotrafico
-  - argentina
-  - precursores
-  - tl-intel-v3
+tipo: sustancia
+titulo: Efedrina
+estado: activo
+tags: [narcotrafico, argentina, precursores, tl-intel-v3]
 ---
 
 # Efedrina

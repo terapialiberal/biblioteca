@@ -1,17 +1,11 @@
 ---
+titulo: URSS
+tipo: nodo
+fecha: 2026-05-02
+estado: activo
+aliases: ["Union Sovietica", "Unión Soviética", "USSR"]
+tags: [urss, comunismo, guerra-fria, rusia, tl-intel-v3]
 publish: true
-aliases:
-  - Union Sovietica
-  - Unión Soviética
-  - USSR
-created: 2026-05-01T20:13:39.035-03:00
-modified: 2026-05-02T13:45:56.606-03:00
-tags:
-  - urss
-  - comunismo
-  - guerra-fria
-  - rusia
-  - tl-intel-v3
 ---
 
 # URSS

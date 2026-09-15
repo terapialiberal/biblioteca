@@ -1,17 +1,13 @@
 ---
+titulo: RWA Tokenization Protocol
+tipo: concepto
+fecha: 2026-04-22
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Real World Asset Tokenization", "Protocolo RWA"]
+tags: [rwa, tokenizacion, activos-reales, deuda, rails-programables, tl-intel-v3]
 publish: true
-aliases:
-  - Real World Asset Tokenization
-  - Protocolo RWA
-created: 2026-02-09T17:21:54.016-03:00
-modified: 2026-04-22T09:43:57.539-03:00
-tags:
-  - rwa
-  - tokenizacion
-  - activos-reales
-  - deuda
-  - rails-programables
-  - tl-intel-v3
 ---
 
 # RWA Tokenization Protocol

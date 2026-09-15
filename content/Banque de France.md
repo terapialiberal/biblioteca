@@ -1,16 +1,12 @@
 ---
+titulo: Banque de France
+tipo: alias
+fecha: 2026-05-02
+estado: legacy
+reemplazado_por: [[Banco de Francia]]
+aliases: ["Banque de France", "Banco de Francia"]
+tags: [alias, legacy, banco-central, francia, tl-intel-v3]
 publish: true
-aliases:
-  - Banque de France
-  - Banco de Francia
-created: 2026-05-01T19:13:07.316-03:00
-modified: 2026-05-02T13:48:37.825-03:00
-tags:
-  - alias
-  - legacy
-  - banco-central
-  - francia
-  - tl-intel-v3
 ---
 
 # Banque de France

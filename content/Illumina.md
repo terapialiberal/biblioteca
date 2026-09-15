@@ -1,13 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:44:31.534-03:00
-modified: 2026-04-29T14:44:44.059-03:00
-tags:
-  - genomica
-  - salud
-  - datos
-  - biotecnologia
-  - tl-intel-v3
+tipo: entidad
+titulo: Illumina
+estado: activo
+tags: [genomica, salud, datos, biotecnologia, tl-intel-v3]
 ---
 
 # Illumina

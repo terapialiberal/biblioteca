@@ -1,16 +1,13 @@
 ---
+titulo: Glifosato (Roundup)
+tipo: concepto
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Roundup"]
+tags: [glifosato, roundup, agroquimicos, agricultura-industrial, monsanto, tl-intel-v3]
 publish: true
-aliases:
-  - Roundup
-created: 2026-01-29T19:17:15.487-03:00
-modified: 2026-04-18T10:38:56.155-03:00
-tags:
-  - glifosato
-  - roundup
-  - agroquimicos
-  - agricultura-industrial
-  - monsanto
-  - tl-intel-v3
 ---
 
 # Glifosato (Roundup)

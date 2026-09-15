@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:13:02.277-03:00
-modified: 2026-04-29T14:13:24.756-03:00
-tags:
-  - alimentos
-  - fertilizantes
-  - recursos
-  - tl-intel-v3
+tipo: concepto
+titulo: Fertilizantes y Fósforo (Seguridad Alimentaria)
+estado: activo
+tags: [alimentos, fertilizantes, recursos, tl-intel-v3]
 ---
 
 # Fertilizantes y Fósforo (Seguridad Alimentaria)

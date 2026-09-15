@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-02-28T15:12:31.594-03:00
-modified: 2026-04-07T11:50:10.048-03:00
-tags:
-  - patrones
-  - geopolítica
-  - rimland
-  - tl-v3
+tipo: concepto
+titulo: "Patrón - Teoría del Rimland (Spykman)"
+estado: procesado
+tags: [patrones, geopolítica, rimland, tl-v3]
 ---
 
 # [[Patrón - Teoría del Rimland (Spykman)]]

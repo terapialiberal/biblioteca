@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:05:26.206-03:00
-modified: 2026-04-29T14:05:42.944-03:00
-tags:
-  - salud
-  - alimentacion
-  - gobernanza-global
-  - tl-intel-v3
+tipo: organizacion
+titulo: Comisión EAT-Lancet
+estado: activo
+tags: [salud, alimentacion, gobernanza-global, tl-intel-v3]
 ---
 
 # Comisión EAT-Lancet

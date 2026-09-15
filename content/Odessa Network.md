@@ -1,12 +1,12 @@
 ---
+titulo: "Odessa Network: La Continuidad Biológica Del Reich"
+tipo: "concepto"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [biolgica, continuidad, juan, reich]
 publish: true
-created: 2026-01-29T19:17:27.901-03:00
-modified: 2026-05-02T18:25:51.165-03:00
-tags:
-  - biolgica
-  - continuidad
-  - juan
-  - reich
 ---
 
 # Odessa Network: La Continuidad Biológica Del Reich

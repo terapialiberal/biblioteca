@@ -1,16 +1,11 @@
 ---
+titulo: Canadá
+tipo: nodo
+fecha: 2026-05-02
+estado: activo
+aliases: ["Canada", "Canadá (Geopolítica)"]
+tags: [canada, recursos, artico, five-eyes, tl-intel-v3]
 publish: true
-aliases:
-  - Canada
-  - Canadá (Geopolítica)
-created: 2026-04-29T14:51:45.013-03:00
-modified: 2026-05-02T12:54:42.543-03:00
-tags:
-  - canada
-  - recursos
-  - artico
-  - five-eyes
-  - tl-intel-v3
 ---
 
 # Canadá

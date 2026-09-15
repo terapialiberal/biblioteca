@@ -1,17 +1,11 @@
 ---
+titulo: Taiwán
+tipo: nodo
+fecha: 2026-05-02
+estado: activo
+aliases: ["Taiwan", "Taiwán (Conflicto)"]
+tags: [taiwan, china, semiconductores, tsmc, rimland, tl-intel-v3]
 publish: true
-aliases:
-  - Taiwan
-  - Taiwán (Conflicto)
-created: 2026-04-29T15:32:17.569-03:00
-modified: 2026-05-02T12:49:52.412-03:00
-tags:
-  - taiwan
-  - china
-  - semiconductores
-  - tsmc
-  - rimland
-  - tl-intel-v3
 ---
 
 # Taiwán

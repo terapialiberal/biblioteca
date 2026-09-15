@@ -1,12 +1,12 @@
 ---
+titulo: Lo que Virginia Giuffre ha dicho sobre Trump y Jeffrey Epstein
+tipo: import
+estado: capturado
+fuente: https://abcnews.go.com/US/virginia-giuffre-trump-jeffrey-epstein/story?id=127468657
+fecha: 2025-11-12
+descripcion: Import estabilizado sobre declaraciones atribuidas a Virginia Giuffre en relacion con Donald Trump y Jeffrey Epstein.
+tags: [virginia-giuffre, donald-trump, jeffrey-epstein, import]
 publish: true
-created: 2026-01-29T19:05:10.867-03:00
-modified: 2026-05-02T18:25:43.418-03:00
-tags:
-  - virginia-giuffre
-  - donald-trump
-  - jeffrey-epstein
-  - import
 ---
 
 # Lo que Virginia Giuffre ha dicho sobre Trump y Jeffrey Epstein

@@ -1,12 +1,10 @@
 ---
 publish: true
-created: 2026-04-29T13:21:03.683-03:00
-modified: 2026-05-02T14:00:40.079-03:00
-tags:
-  - alias
-  - fundaciones
-  - soros
-  - tl-intel-v3
+tipo: alias
+titulo: Open Society
+estado: activo
+reemplazado_por: "[[Open Society Foundations]]"
+tags: [alias, fundaciones, soros, tl-intel-v3]
 ---
 
 # Open Society

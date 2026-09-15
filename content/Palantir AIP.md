@@ -1,14 +1,12 @@
 ---
+titulo: Palantir AIP
+tipo: producto
+fecha: 2026-04-17
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [palantir-aip, palantir, ia, decision, tecnocracia, tl-intel-v3]
 publish: true
-created: 2026-02-09T17:26:58.756-03:00
-modified: 2026-04-24T10:22:29.538-03:00
-tags:
-  - palantir-aip
-  - palantir
-  - ia
-  - decision
-  - tecnocracia
-  - tl-intel-v3
 ---
 
 # Palantir AIP

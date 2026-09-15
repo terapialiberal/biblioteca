@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T13:56:36.133-03:00
-modified: 2026-04-29T13:56:36.133-03:00
-tags:
-  - guerra-cognitiva
-  - propaganda
-  - psicologia-politica
-  - tl-intel-v3
+tipo: concepto
+titulo: Gaslighting (Político)
+estado: activo
+tags: [guerra-cognitiva, propaganda, psicologia-politica, tl-intel-v3]
 ---
 
 # Gaslighting (Político)

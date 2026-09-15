@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:13:02.111-03:00
-modified: 2026-04-29T14:13:24.779-03:00
-tags:
-  - petroleo
-  - dinastias
-  - cultura
-  - tl-intel-v3
+tipo: actor-colectivo
+titulo: Familia Getty
+estado: activo
+tags: [petroleo, dinastias, cultura, tl-intel-v3]
 ---
 
 # Familia Getty

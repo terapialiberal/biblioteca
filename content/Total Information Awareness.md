@@ -1,18 +1,13 @@
 ---
+titulo: Total Information Awareness
+tipo: programa
+fecha: 2026-04-17
+tier_primario: b
+nivel_evidencia: alto
+estado: activo
+aliases: ["TIA", "Information Awareness Office"]
+tags: [tia, vigilancia, darpa, palantir, inteligencia, tecnocracia, tl-intel-v3]
 publish: true
-aliases:
-  - TIA
-  - Information Awareness Office
-created: 2026-01-29T19:17:40.666-03:00
-modified: 2026-04-17T15:30:09.310-03:00
-tags:
-  - tia
-  - vigilancia
-  - darpa
-  - palantir
-  - inteligencia
-  - tecnocracia
-  - tl-intel-v3
 ---
 
 # Total Information Awareness

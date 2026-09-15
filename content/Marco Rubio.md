@@ -1,13 +1,14 @@
 ---
+titulo: "Marco Rubio"
 publish: true
-created: 2026-01-29T19:17:23.811-03:00
-modified: 2026-05-27T10:17:26.814-03:00
-tags:
-  - marco-rubio
-  - neocon
-  - aipac
-  - eeuu
-  - tl-intel-v3
+tipo: persona
+fecha: 2026-04-07
+tier_primario: B
+moc_canonico: [[00_MOC - Redes de Poder]]
+estado: activo
+fuentes_clave: []
+tags: [marco-rubio, neocon, aipac, eeuu, tl-intel-v3]
+last_stream: "[[06_Videos_Publicados/2026/2026-05-26_La_Trampa_de_Ormuz/00_ARCHIVO_2026-05-26_La_Trampa_de_Ormuz|ARCHIVO: La Trampa de Ormuz]]"
 ---
 
 # [[Marco Rubio]]

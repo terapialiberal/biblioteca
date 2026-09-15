@@ -1,17 +1,13 @@
 ---
+titulo: Sudáfrica
+tipo: nodo
+fecha: 2026-05-02
+tier_primario: c
+nivel_evidencia: medio
+estado: activo
+aliases: ["Sudafrica", "Sudáfrica (Potencia Africana)"]
+tags: [sudafrica, brics, africa, minerales, geopolitica, tl-intel-v3]
 publish: true
-aliases:
-  - Sudafrica
-  - Sudáfrica (Potencia Africana)
-created: 2026-05-01T20:44:50.415-03:00
-modified: 2026-05-02T12:45:53.489-03:00
-tags:
-  - sudafrica
-  - brics
-  - africa
-  - minerales
-  - geopolitica
-  - tl-intel-v3
 ---
 
 # Sudáfrica

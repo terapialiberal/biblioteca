@@ -1,13 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:44:31.294-03:00
-modified: 2026-04-29T14:45:34.010-03:00
-tags:
-  - inteligencia
-  - cultura
-  - propaganda
-  - reino-unido
-  - tl-intel-v3
+tipo: actor
+titulo: Ian Fleming
+estado: activo
+tags: [inteligencia, cultura, propaganda, reino-unido, tl-intel-v3]
 ---
 
 # Ian Fleming

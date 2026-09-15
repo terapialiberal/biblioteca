@@ -1,16 +1,13 @@
 ---
+titulo: Cede & Co
+tipo: entidad
+fecha: 2026-04-22
+aliases: ["Cede & Co."]
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [cede-co, dtcc, propiedad-beneficiaria, custodia, colateral, tl-intel-v3]
 publish: true
-aliases:
-  - Cede & Co.
-created: 2026-01-29T19:17:07.135-03:00
-modified: 2026-04-22T16:44:49.966-03:00
-tags:
-  - cede-co
-  - dtcc
-  - propiedad-beneficiaria
-  - custodia
-  - colateral
-  - tl-intel-v3
 ---
 
 # Cede & Co

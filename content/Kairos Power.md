@@ -1,12 +1,12 @@
 ---
+titulo: Kairos Power
+tipo: "entidad"
+fecha: 2026-02-25
+tier_primario: "a"
+nivel_evidencia: "alto"
+estado: activo
+tags: [alphabet, google, power, reactor]
 publish: true
-created: 2026-02-25T14:25:26.537-03:00
-modified: 2026-05-02T18:25:38.640-03:00
-tags:
-  - alphabet
-  - google
-  - power
-  - reactor
 ---
 
 # Kairos Power

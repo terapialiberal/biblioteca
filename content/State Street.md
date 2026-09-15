@@ -1,15 +1,14 @@
 ---
+titulo: "State Street"
 publish: true
-aliases:
-  - State Street Corporation
-created: 2026-01-29T19:17:37.897-03:00
-modified: 2026-04-24T09:46:38.127-03:00
-tags:
-  - state-street
-  - custodia
-  - gestores-de-activos
-  - control-financiero
-  - tl-intel-v3
+tipo: entidad
+fecha: 2026-04-07
+tier_primario: A
+moc_canonico: [[00_MOC - Control Financiero]]
+estado: activo
+aliases: ["State Street Corporation"]
+fuentes_clave: []
+tags: [state-street, custodia, gestores-de-activos, control-financiero, tl-intel-v3]
 ---
 
 # [[State Street]]
@@ -66,3 +65,7 @@ Se recompila para dejar claro su valor específico: menos protagonismo discursiv
 - [[Euroclear]]
 - [[Clearstream]]
 - [[00_MOC - Control Financiero]]
+
+## Casos relacionados
+
+- [[06_Videos_Publicados/2026/2026-07-13_Graham_BigThree_Ankara/POSTMORTEM_INTEL|Graham / Big Three / Ankara]] (17 jul 2026) — State Street como el nodo de custodia/voto del supra-bloque: SPYM (ETF S\&P 500) elegido para Trump Accounts (CNBC 1-2 jul). Completa la tríada Big Three que cobra el toll de Ormuz sin elegir bando. Vanguard no cotiza → opacidad estructural del dueño.

@@ -1,14 +1,12 @@
 ---
+titulo: Monsanto
+tipo: entidad
+fecha: 2026-04-17
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [monsanto, agroindustria, biotecnologia, semillas, soberania-alimentaria, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:25.763-03:00
-modified: 2026-04-17T20:12:45.470-03:00
-tags:
-  - monsanto
-  - agroindustria
-  - biotecnologia
-  - semillas
-  - soberania-alimentaria
-  - tl-intel-v3
 ---
 
 # Monsanto

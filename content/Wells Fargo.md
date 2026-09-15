@@ -1,15 +1,11 @@
 ---
+titulo: Wells Fargo
+tipo: entidad
+fecha: 2026-05-02
+estado: activo
+aliases: ["Wells Fargo Bank"]
+tags: [wells-fargo, banca, eeuu, retail, tl-intel-v3]
 publish: true
-aliases:
-  - Wells Fargo Bank
-created: 2026-01-29T19:17:44.154-03:00
-modified: 2026-05-02T13:06:23.494-03:00
-tags:
-  - wells-fargo
-  - banca
-  - eeuu
-  - retail
-  - tl-intel-v3
 ---
 
 # Wells Fargo

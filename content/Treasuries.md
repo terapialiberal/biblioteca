@@ -1,13 +1,12 @@
 ---
 publish: true
-created: 2026-04-17T13:00:31.490-03:00
-modified: 2026-04-22T16:40:48.857-03:00
-tags:
-  - treasuries
-  - deuda-eeuu
-  - dolar
-  - reanclaje
-  - tl-intel-v3
+titulo: Treasuries
+tipo: concepto
+fecha: 2026-04-19
+tier_primario: a
+nivel_evidencia: medio
+estado: activo
+tags: [treasuries, deuda-eeuu, dolar, reanclaje, tl-intel-v3]
 ---
 
 # Treasuries
@@ -55,6 +54,10 @@ La lectura se vuelve mas util cuando se conecta con [[BlackRock BUIDL]], [[Token
 ### 7. Deuda como problema de arquitectura
 
 En TL, el punto no es solo si Estados Unidos puede seguir endeudandose, sino bajo que arquitectura consigue que esa deuda siga siendo absorbida, reutilizada y distribuida dentro y fuera de su bloque.
+
+### 8. Tenedores centrales en modo dump (UPDATE 03-ago)
+
+Hito del 03-ago: intervención conjunta EEUU-Japón por el yen — Japón liquidó [[Treasuries]] de verdad para financiar la compra de yenes (10Y 4.735%, 30Y 5.265% el 31-jul), y la NY Fed vendio euros (costo a Europa). El mayor tenedor extranjero moviendose en modo dump confirma la lectura de demanda administrada (§5): no hay confianza espontanea, y el crack de transicion ([[NOTA_TESIS_MAESTRA#M1-H-10|H-10]]) ya tiene al primer jugador ejecutando. En paralelo, [[Arabia Saudita]] habria amenazado con liquidar tenencias si EEUU golpea a Iran (sin confirmar fuente primaria) — la amenaza como eco del dump real. \[Pravda Japan 03-ago; CryptoBriefing 03-ago]
 
 ## Con que conecta
 

@@ -1,16 +1,12 @@
 ---
+titulo: JPMorgan
+tipo: entidad
+fecha: 2026-05-02
+vigencia: 2026-05-02
+estado: activo
+aliases: ["JPMorgan", "JP Morgan"]
+tags: [alias, legacy, banca, wall-street, tl-intel-v3]
 publish: true
-aliases:
-  - JPMorgan
-  - JP Morgan
-created: 2026-04-27T12:03:16.990-03:00
-modified: 2026-06-30T21:11:59.277-03:00
-tags:
-  - alias
-  - legacy
-  - banca
-  - wall-street
-  - tl-intel-v3
 ---
 
 # JPMorgan

@@ -1,14 +1,11 @@
 ---
+titulo: Morgan Stanley
+tipo: entidad
+fecha: 2026-05-02
+estado: activo
+aliases: ["Morgan Stanley (Banco)"]
+tags: [morgan-stanley, banca-inversion, wall-street, tl-intel-v3]
 publish: true
-aliases:
-  - Morgan Stanley (Banco)
-created: 2026-05-01T20:15:46.132-03:00
-modified: 2026-05-02T13:06:23.540-03:00
-tags:
-  - morgan-stanley
-  - banca-inversion
-  - wall-street
-  - tl-intel-v3
 ---
 
 # Morgan Stanley

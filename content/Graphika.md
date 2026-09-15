@@ -1,14 +1,12 @@
 ---
+titulo: Graphika
+tipo: entidad
+fecha: 2026-04-19
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [graphika, desinformacion, redes, plataformas, atlantic-council, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:15.916-03:00
-modified: 2026-04-19T12:28:59.427-03:00
-tags:
-  - graphika
-  - desinformacion
-  - redes
-  - plataformas
-  - atlantic-council
-  - tl-intel-v3
 ---
 
 # Graphika

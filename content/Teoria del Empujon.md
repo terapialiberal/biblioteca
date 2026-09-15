@@ -1,17 +1,13 @@
 ---
+titulo: Teoria del Empujon
+tipo: concepto
+fecha: 2026-04-21
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Teoría del Empujón (Nudge Theory)", "Nudge Theory"]
+tags: [nudge, teoria-del-empujon, comportamiento, paternalismo, gobernanza, tl-intel-v3]
 publish: true
-aliases:
-  - Teoría del Empujón (Nudge Theory)
-  - Nudge Theory
-created: 2026-01-29T19:17:39.014-03:00
-modified: 2026-04-21T13:17:01.634-03:00
-tags:
-  - nudge
-  - teoria-del-empujon
-  - comportamiento
-  - paternalismo
-  - gobernanza
-  - tl-intel-v3
 ---
 
 # Teoria del Empujon

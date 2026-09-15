@@ -1,14 +1,12 @@
 ---
+titulo: SPARS Pandemic 2025-2028
+tipo: documento
+fecha: 2026-04-21
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [spars, pandemia, simulacion, gestion-narrativa, bioseguridad, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:37.630-03:00
-modified: 2026-04-21T18:56:36.451-03:00
-tags:
-  - spars
-  - pandemia
-  - simulacion
-  - gestion-narrativa
-  - bioseguridad
-  - tl-intel-v3
 ---
 
 # SPARS Pandemic 2025-2028

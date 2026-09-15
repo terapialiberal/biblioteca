@@ -1,12 +1,12 @@
 ---
+titulo: "Las Vegas Shooting: El Debacle De La Operación En La Sombra"
+tipo: "persona"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [arabia, debacle, shooting, vegas]
 publish: true
-created: 2026-01-29T19:17:21.942-03:00
-modified: 2026-05-02T18:25:42.257-03:00
-tags:
-  - arabia
-  - debacle
-  - shooting
-  - vegas
 ---
 
 # Las Vegas Shooting: El Debacle De La Operación En La Sombra

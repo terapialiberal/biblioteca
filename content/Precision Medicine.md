@@ -1,13 +1,12 @@
 ---
+titulo: Precision Medicine
+tipo: concepto
+fecha: 2026-04-17
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [precision-medicine, genomica, seguros, bio-digital, tl-intel-v3]
 publish: true
-created: 2026-02-25T15:45:49.523-03:00
-modified: 2026-04-29T14:44:33.018-03:00
-tags:
-  - precision-medicine
-  - genomica
-  - seguros
-  - bio-digital
-  - tl-intel-v3
 ---
 
 # Precision Medicine

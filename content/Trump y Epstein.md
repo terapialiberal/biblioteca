@@ -1,16 +1,13 @@
 ---
+titulo: Trump y Epstein
+tipo: relacion
+fecha: 2026-04-17
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Trump y Epstein (Cronología)"]
+tags: [trump, epstein, cronologia, relacion, elite, tl-intel-v3]
 publish: true
-aliases:
-  - Trump y Epstein (Cronología)
-created: 2026-01-29T19:17:41.515-03:00
-modified: 2026-04-17T14:11:47.380-03:00
-tags:
-  - trump
-  - epstein
-  - cronologia
-  - relacion
-  - elite
-  - tl-intel-v3
 ---
 
 # Trump y Epstein

@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:13:12.199-03:00
-modified: 2026-04-29T14:13:29.941-03:00
-tags:
-  - nazismo
-  - ss
-  - esoterismo-politico
-  - tl-intel-v3
+tipo: actor
+titulo: Heinrich Himmler
+estado: activo
+tags: [nazismo, ss, esoterismo-politico, tl-intel-v3]
 ---
 
 # Heinrich Himmler

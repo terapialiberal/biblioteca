@@ -1,15 +1,12 @@
 ---
+titulo: Incendios en Refinerias Abril 2026
+tipo: evento
+fecha: 2026-04-21
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [refinerias, energia, incendios, sabotaje, cascada-sistemica, policrisis, tl-intel-v3]
 publish: true
-created: 2026-04-21T11:24:10.996-03:00
-modified: 2026-04-22T09:51:37.860-03:00
-tags:
-  - refinerias
-  - energia
-  - incendios
-  - sabotaje
-  - cascada-sistemica
-  - policrisis
-  - tl-intel-v3
 ---
 
 # Incendios en Refinerias Abril 2026

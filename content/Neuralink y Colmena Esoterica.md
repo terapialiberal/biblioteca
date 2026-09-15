@@ -1,13 +1,11 @@
 ---
+titulo: Neuralink y Colmena Esoterica
+tipo: alias
+fecha: 2026-04-21
+estado: legacy
+reemplazado_por: [[Neuralink y la Colmena Esoterica]]
+tags: [alias, legacy, neuralink, transhumanismo, tl-intel-v3]
 publish: true
-created: 2026-02-25T22:08:55.909-03:00
-modified: 2026-04-21T12:24:11.729-03:00
-tags:
-  - alias
-  - legacy
-  - neuralink
-  - transhumanismo
-  - tl-intel-v3
 ---
 
 # Neuralink y Colmena Esoterica

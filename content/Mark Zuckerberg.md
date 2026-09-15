@@ -1,14 +1,13 @@
 ---
+titulo: Mark Zuckerberg
 publish: true
-created: 2026-01-29T19:17:24.076-03:00
-modified: 2026-04-19T12:30:53.363-03:00
-tags:
-  - mark-zuckerberg
-  - meta
-  - plataformas
-  - atencion
-  - censura
-  - tl-intel-v3
+tipo: persona
+fecha: 2026-04-19
+tier_primario: b
+moc_canonico: [[00_MOC - Tecnologia de Control]]
+estado: activo
+fuentes_clave: []
+tags: [mark-zuckerberg, meta, plataformas, atencion, censura, tl-intel-v3]
 ---
 
 # Mark Zuckerberg

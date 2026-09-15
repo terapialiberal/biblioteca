@@ -1,17 +1,13 @@
 ---
+titulo: Banco Mundial
+tipo: entidad
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Banco Mundial (World Bank)", "World Bank"]
+tags: [deuda, desarrollo, infraestructura, organismo-internacional, ajuste, tl-intel-v3]
 publish: true
-aliases:
-  - Banco Mundial (World Bank)
-  - World Bank
-created: 2026-01-29T19:17:04.763-03:00
-modified: 2026-04-18T11:39:40.574-03:00
-tags:
-  - deuda
-  - desarrollo
-  - infraestructura
-  - organismo-internacional
-  - ajuste
-  - tl-intel-v3
 ---
 
 # Banco Mundial

@@ -1,16 +1,13 @@
 ---
+titulo: Brigada 77
+tipo: entidad
+fecha: 2026-04-21
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["77th Brigade"]
+tags: [brigada-77, guerra-cognitiva, psyops, reino-unido, informacion, tl-intel-v3]
 publish: true
-aliases:
-  - 77th Brigade
-created: 2026-01-29T19:17:05.901-03:00
-modified: 2026-04-21T12:35:05.002-03:00
-tags:
-  - brigada-77
-  - guerra-cognitiva
-  - psyops
-  - reino-unido
-  - informacion
-  - tl-intel-v3
 ---
 
 # Brigada 77

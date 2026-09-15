@@ -1,12 +1,12 @@
 ---
+titulo: Three Mile Island
+tipo: entidad
+fecha: 2026-02-25
+tier_primario: "a"
+nivel_evidencia: "alto"
+estado: activo
+tags: [azure, mile, santuario, three]
 publish: true
-created: 2026-02-25T14:25:29.387-03:00
-modified: 2026-05-02T18:26:11.333-03:00
-tags:
-  - azure
-  - mile
-  - santuario
-  - three
 ---
 
 # Three Mile Island

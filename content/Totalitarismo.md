@@ -1,14 +1,12 @@
 ---
+titulo: Totalitarismo
+tipo: concepto
+fecha: 2026-04-21
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [totalitarismo, control-social, masa, atomizacion, poder, tl-intel-v3]
 publish: true
-created: 2026-04-21T13:18:03.584-03:00
-modified: 2026-04-21T13:18:03.584-03:00
-tags:
-  - totalitarismo
-  - control-social
-  - masa
-  - atomizacion
-  - poder
-  - tl-intel-v3
 ---
 
 # Totalitarismo

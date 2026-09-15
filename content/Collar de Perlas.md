@@ -1,16 +1,13 @@
 ---
+titulo: Collar de Perlas
+tipo: concepto
+fecha: 2026-04-21
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Collar de Perlas (Estrategia China)"]
+tags: [collar-de-perlas, china, puertos, oceano-indico, geoestrategia, tl-intel-v3]
 publish: true
-aliases:
-  - Collar de Perlas (Estrategia China)
-created: 2026-01-29T19:17:08.265-03:00
-modified: 2026-04-21T12:53:27.107-03:00
-tags:
-  - collar-de-perlas
-  - china
-  - puertos
-  - oceano-indico
-  - geoestrategia
-  - tl-intel-v3
 ---
 
 # Collar de Perlas

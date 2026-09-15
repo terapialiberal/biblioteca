@@ -1,17 +1,13 @@
 ---
+titulo: Moral Hazard
+tipo: concepto
+fecha: 2026-05-02
+tier_primario: b
+nivel_evidencia: alto
+estado: activo
+aliases: ["Riesgo moral", "Moral Hazard (Riesgo Moral)"]
+tags: [moral-hazard, bailout, riesgo, banca, control-financiero, tl-intel-v3]
 publish: true
-aliases:
-  - Riesgo moral
-  - Moral Hazard (Riesgo Moral)
-created: 2026-05-01T20:46:34.133-03:00
-modified: 2026-05-02T12:22:05.944-03:00
-tags:
-  - moral-hazard
-  - bailout
-  - riesgo
-  - banca
-  - control-financiero
-  - tl-intel-v3
 ---
 
 # Moral Hazard

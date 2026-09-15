@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T13:36:22.560-03:00
-modified: 2026-04-29T13:37:14.652-03:00
-tags:
-  - argentina
-  - parapolicial
-  - guerra-sucia
-  - tl-intel-v3
+tipo: organizacion
+titulo: Triple A
+estado: activo
+tags: [argentina, parapolicial, guerra-sucia, tl-intel-v3]
 ---
 
 # Triple A

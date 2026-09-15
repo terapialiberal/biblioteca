@@ -1,15 +1,13 @@
 ---
+titulo: Lysander Spooner
+tipo: persona
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Lysander Spooner: El Demoledor De La Legitimidad Estatal"]
+tags: [lysander-spooner, soberania-individual, estado, anarquismo, tl-intel-v3]
 publish: true
-aliases:
-  - "Lysander Spooner: El Demoledor De La Legitimidad Estatal"
-created: 2026-01-29T19:17:23.212-03:00
-modified: 2026-04-18T18:24:42.946-03:00
-tags:
-  - lysander-spooner
-  - soberania-individual
-  - estado
-  - anarquismo
-  - tl-intel-v3
 ---
 
 # Lysander Spooner

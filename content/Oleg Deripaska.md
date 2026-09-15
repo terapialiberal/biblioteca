@@ -1,12 +1,13 @@
 ---
 publish: true
-created: 2026-05-01T17:35:15.104-03:00
-modified: 2026-05-02T18:25:51.357-03:00
+titulo: "Oleg Deripaska"
 tags:
   - actor
   - oligarca-ruso
   - aluminio
   - tier-b
+tipo: actor
+fecha: 2026-05-01
 ---
 
 # Oleg Deripaska

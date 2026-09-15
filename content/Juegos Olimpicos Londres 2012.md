@@ -1,12 +1,12 @@
 ---
+titulo: "Juegos Olímpicos Londres 2012: El Ritual De Primado Global"
+tipo: "evento"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: ["2012", covid, juegos, primado]
 publish: true
-created: 2026-01-29T19:17:20.367-03:00
-modified: 2026-05-02T18:25:38.341-03:00
-tags:
-  - "2012"
-  - covid
-  - juegos
-  - primado
 ---
 
 # Juegos Olímpicos Londres 2012: El Ritual De Primado Global

@@ -1,17 +1,13 @@
 ---
+titulo: El Mercurio de los Sabios
+tipo: concepto
+fecha: 2026-04-27
+estado: activo
+aliases: ["El Mercurio De Los Sabios (Capital Flotante)", "Mercurio de los Sabios"]
+tags: [mercurio-de-los-sabios, alquimia, capital, liquidez, simbolismo, tl-intel-v3]
+tier_primario: b
+nivel_evidencia: medio
 publish: true
-aliases:
-  - El Mercurio De Los Sabios (Capital Flotante)
-  - Mercurio de los Sabios
-created: 2026-02-25T22:08:51.421-03:00
-modified: 2026-04-27T10:32:49.904-03:00
-tags:
-  - mercurio-de-los-sabios
-  - alquimia
-  - capital
-  - liquidez
-  - simbolismo
-  - tl-intel-v3
 ---
 
 # El Mercurio de los Sabios

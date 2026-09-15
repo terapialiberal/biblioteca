@@ -1,17 +1,13 @@
 ---
+titulo: Pagina 12
+tipo: entidad
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Página/12", "Página 12"]
+tags: [argentina, medios, kirchnerismo, pauta, narrativa, tl-intel-v3]
 publish: true
-aliases:
-  - Página/12
-  - Página 12
-created: 2026-01-29T19:17:32.249-03:00
-modified: 2026-04-18T11:55:40.541-03:00
-tags:
-  - argentina
-  - medios
-  - kirchnerismo
-  - pauta
-  - narrativa
-  - tl-intel-v3
 ---
 
 # Pagina 12

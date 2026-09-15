@@ -1,15 +1,11 @@
 ---
+titulo: Mandela
+tipo: nodo
+fecha: 2026-05-02
+estado: activo
+aliases: ["Nelson Mandela"]
+tags: [mandela, sudafrica, apartheid, reconciliacion, tl-intel-v3]
 publish: true
-aliases:
-  - Nelson Mandela
-created: 2026-05-01T20:40:25.892-03:00
-modified: 2026-05-02T13:02:21.905-03:00
-tags:
-  - mandela
-  - sudafrica
-  - apartheid
-  - reconciliacion
-  - tl-intel-v3
 ---
 
 # Mandela

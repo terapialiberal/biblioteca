@@ -1,12 +1,12 @@
 ---
+titulo: Dead Internet Theory
+tipo: "concepto"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [agencias, desierto, openai, theory]
 publish: true
-created: 2026-02-25T16:09:11.530-03:00
-modified: 2026-05-02T18:24:38.185-03:00
-tags:
-  - agencias
-  - desierto
-  - openai
-  - theory
 ---
 
 # Dead Internet Theory

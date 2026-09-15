@@ -1,15 +1,12 @@
 ---
+titulo: NewsGuard
+tipo: organizacion
+fecha: 2026-04-20
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [newsguard, censura, fact-checking, medios, reputacion, plataformas, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:26.743-03:00
-modified: 2026-04-20T10:40:15.830-03:00
-tags:
-  - newsguard
-  - censura
-  - fact-checking
-  - medios
-  - reputacion
-  - plataformas
-  - tl-intel-v3
 ---
 
 # NewsGuard

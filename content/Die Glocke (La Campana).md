@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:09:24.966-03:00
-modified: 2026-04-29T14:09:44.065-03:00
-tags:
-  - tecnomito
-  - nazismo
-  - tecnologia-oculta
-  - tl-intel-v3
+tipo: concepto
+titulo: Die Glocke (La Campana)
+estado: activo
+tags: [tecnomito, nazismo, tecnologia-oculta, tl-intel-v3]
 ---
 
 # Die Glocke (La Campana)

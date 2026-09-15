@@ -1,17 +1,13 @@
 ---
+titulo: Atlantic Council DFRLab
+tipo: organizacion
+fecha: 2026-04-19
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: [DFRLab, "Digital Forensic Research Lab"]
+tags: [dfrlab, atlantic-council, desinformacion, moderacion, guerra-informativa, tl-intel-v3]
 publish: true
-aliases:
-  - DFRLab
-  - Digital Forensic Research Lab
-created: 2026-01-29T19:17:04.477-03:00
-modified: 2026-04-19T13:26:18.833-03:00
-tags:
-  - dfrlab
-  - atlantic-council
-  - desinformacion
-  - moderacion
-  - guerra-informativa
-  - tl-intel-v3
 ---
 
 # Atlantic Council DFRLab

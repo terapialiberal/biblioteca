@@ -1,26 +1,14 @@
 ---
+titulo: "Isla Sazan y el Estrecho de Otranto: El Chokepoint de la Nueva Venecia"
+tipo: "lugar"
+fecha: 2026-06-11
+tier_primario: "a"
+nivel_evidencia: "alto"
+estado: activo
+tags: [sazan, otranto, adriatico, albania, kushner, rothschild, imec, corredor-viii, chokepoint, venecia, modelo-veneciano, vlore, tap, spak, belgrado, zvernec, affinity, escanor]
 publish: true
-created: 2026-06-04T12:42:02.251-03:00
-modified: 2026-06-11T10:54:57.987-03:00
-tags:
-  - sazan
-  - otranto
-  - adriatico
-  - albania
-  - kushner
-  - rothschild
-  - imec
-  - corredor-viii
-  - chokepoint
-  - venecia
-  - modelo-veneciano
-  - vlore
-  - tap
-  - spak
-  - belgrado
-  - zvernec
-  - affinity
-  - escanor
+vinculado_a: ["Nobleza Negra Veneciana", "Carroll Quigley", "Nat Rothschild", "Jared Kushner", "Bill Pulte", "IMEC", "Corredor VIII", "Affinity Partners"]
+last_stream: "[[06_Videos_Publicados/2026/2026-06-10_Fitts_Pulte_Gran_Israel/POSTMORTEM_INTEL|La Nueva Venecia]]"
 ---
 
 # Isla Sazan y el Estrecho de Otranto

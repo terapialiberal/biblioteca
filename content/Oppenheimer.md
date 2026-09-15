@@ -1,16 +1,11 @@
 ---
+titulo: Oppenheimer
+tipo: nodo
+fecha: 2026-05-02
+estado: activo
+aliases: ["J. Robert Oppenheimer", "Robert Oppenheimer"]
+tags: [oppenheimer, proyecto-manhattan, bomba-atomica, ciencia, tl-intel-v3]
 publish: true
-aliases:
-  - J. Robert Oppenheimer
-  - Robert Oppenheimer
-created: 2026-05-01T20:17:32.621-03:00
-modified: 2026-05-02T13:43:26.389-03:00
-tags:
-  - oppenheimer
-  - proyecto-manhattan
-  - bomba-atomica
-  - ciencia
-  - tl-intel-v3
 ---
 
 # Oppenheimer

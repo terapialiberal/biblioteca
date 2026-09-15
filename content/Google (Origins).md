@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:13:08.455-03:00
-modified: 2026-04-29T14:13:26.517-03:00
-tags:
-  - google
-  - buscadores
-  - plataformas
-  - tl-intel-v3
+tipo: concepto
+titulo: Google (Origins)
+estado: activo
+tags: [google, buscadores, plataformas, tl-intel-v3]
 ---
 
 # Google (Origins)

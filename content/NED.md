@@ -1,17 +1,14 @@
 ---
+titulo: NED
 publish: true
-aliases:
-  - National Endowment for Democracy
-  - "NED: El Caballo De Troya De La Sociedad Civil"
-created: 2026-01-29T19:17:26.533-03:00
-modified: 2026-04-24T10:45:51.369-03:00
-tags:
-  - ned
-  - sociedad-civil
-  - cambio-de-regimen
-  - soft-power
-  - geopolitica
-  - tl-intel-v3
+tipo: entidad
+fecha: 2026-04-24
+tier_primario: a
+moc_canonico: [[00_MOC - Operaciones Encubiertas]]
+estado: activo
+aliases: ["National Endowment for Democracy", "NED: El Caballo De Troya De La Sociedad Civil"]
+fuentes_clave: []
+tags: [ned, sociedad-civil, cambio-de-regimen, soft-power, geopolitica, tl-intel-v3]
 ---
 
 # NED

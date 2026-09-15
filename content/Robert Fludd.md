@@ -1,14 +1,12 @@
 ---
+titulo: Robert Fludd
+tipo: persona
+fecha: 2026-04-27
+estado: activo
+tags: [robert-fludd, hermetismo, rosacrucismo, simbolismo, esoterismo, tl-intel-v3]
+tier_primario: c
+nivel_evidencia: alto
 publish: true
-created: 2026-02-25T22:08:52.964-03:00
-modified: 2026-04-27T10:10:22.611-03:00
-tags:
-  - robert-fludd
-  - hermetismo
-  - rosacrucismo
-  - simbolismo
-  - esoterismo
-  - tl-intel-v3
 ---
 
 # Robert Fludd

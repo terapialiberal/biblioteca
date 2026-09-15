@@ -1,12 +1,12 @@
 ---
+titulo: "Operación Popeye: El Clima Como Arma De Asedio"
+tipo: "evento"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [arma, clima, haarp, popeye]
 publish: true
-created: 2026-01-29T19:17:28.830-03:00
-modified: 2026-05-02T18:25:52.503-03:00
-tags:
-  - arma
-  - clima
-  - haarp
-  - popeye
 ---
 
 # Operación Popeye: El Clima Como Arma De Asedio

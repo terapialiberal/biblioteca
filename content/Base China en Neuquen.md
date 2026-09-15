@@ -1,16 +1,13 @@
 ---
+titulo: Base China en Neuquen
+tipo: concepto
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Base China en Neuquen (Espacio Profundo)"]
+tags: [argentina, china, neuquen, soberania, espacio, tl-intel-v3]
 publish: true
-aliases:
-  - Base China en Neuquen (Espacio Profundo)
-created: 2026-01-29T19:17:04.869-03:00
-modified: 2026-04-18T12:30:14.444-03:00
-tags:
-  - argentina
-  - china
-  - neuquen
-  - soberania
-  - espacio
-  - tl-intel-v3
 ---
 
 # Base China en Neuquen

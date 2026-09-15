@@ -1,13 +1,13 @@
 ---
+titulo: "Margaret Sanger"
 publish: true
-created: 2026-01-29T19:17:23.860-03:00
-modified: 2026-04-07T12:44:04.056-03:00
-tags:
-  - margaret-sanger
-  - eugenesia
-  - planned-parenthood
-  - biopolitica
-  - tl-intel-v3
+tipo: persona
+fecha: 2026-04-07
+tier_primario: B
+moc_canonico: [[00_MOC - Operaciones Psicologicas]]
+estado: activo
+fuentes_clave: []
+tags: [margaret-sanger, eugenesia, planned-parenthood, biopolitica, tl-intel-v3]
 ---
 
 # [[Margaret Sanger]]

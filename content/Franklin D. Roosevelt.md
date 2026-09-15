@@ -1,15 +1,10 @@
 ---
 publish: true
-aliases:
-  - Franklin D. Roosevelt
-  - FDR
-created: 2026-05-01T18:49:40.902-03:00
-modified: 2026-05-02T18:25:25.102-03:00
-tags:
-  - actor
-  - presidente-eeuu
-  - new-deal
-  - guerra-mundial
+titulo: "Franklin D. Roosevelt"
+aliases: ["Franklin D. Roosevelt", "FDR"]
+tags: [actor, presidente-eeuu, new-deal, guerra-mundial]
+tipo: actor
+nivel: A
 ---
 
 # Franklin D. Roosevelt

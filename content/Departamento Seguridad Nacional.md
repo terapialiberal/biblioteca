@@ -1,18 +1,13 @@
 ---
+titulo: Departamento de Seguridad Nacional
+aliases: ["DHS", "Department of Homeland Security", "DHS (Departamento de Seguridad Nacional)"]
+tipo: entidad
+fecha: 2026-04-19
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [dhs, seguridad-nacional, estado-policial, vigilancia, cisa, tl-intel-v3]
 publish: true
-aliases:
-  - DHS
-  - Department of Homeland Security
-  - DHS (Departamento de Seguridad Nacional)
-created: 2026-01-29T19:17:10.009-03:00
-modified: 2026-04-19T12:28:59.914-03:00
-tags:
-  - dhs
-  - seguridad-nacional
-  - estado-policial
-  - vigilancia
-  - cisa
-  - tl-intel-v3
 ---
 
 # Departamento de Seguridad Nacional

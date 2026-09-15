@@ -56,3 +56,13 @@ La nota estaba escrita como mini tesis sobre petrodólar. Se recompila como enti
 - [[Ibn Saud y FDR]]
 - [[Reanclaje Hibrido]]
 - [[00_MOC - Control Financiero]]
+
+## Evidencia reciente (05-ago-2026 — caso El Toll Se Tokeniza)
+
+- Ganancias Q2 \*\*+33% a $33.4B**, vendiendo a ~$108/barril vs \$66.70 un año antes (Bloomberg/Fortune, 04-ago).
+- PIB saudí Q2 **-4.8%**, primera contracción desde 2023; actividad petrolera -24.7% (GASTAT).
+- CEO advierte: cierre de Hormuz elimina **100 millones de barriles por semana** (ZeroHedge).
+- **Arbitraje perfecto:** Aramco gana con el precio alto que genera la tensión → no tiene incentivo para que Ormuz se resuelva rápido. Su petróleo lo mueve la flota china puenteando bloqueos.
+- BlackRock/GIP cobran toll sobre sus redes ($15.5B 2021 + $11B 2025) — la administración del flujo, no solo el crudo.
+
+[[06_Videos_Publicados/2026/2026-08-04_Noticiero_El_Toll_Se_Tokeniza/POSTMORTEM_INTEL.md|Orden del Caos — El Toll Se Tokeniza]] — caso principal.

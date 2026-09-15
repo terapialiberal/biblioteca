@@ -1,16 +1,13 @@
 ---
+titulo: Neptuno y el Velo de la Ilusion
+tipo: concepto
+fecha: 2026-04-27
+estado: activo
+aliases: ["Neptuno Y El Velo De La Ilusión"]
+tags: [neptuno, ilusion, simbolismo, propaganda, percepcion, tl-intel-v3]
+tier_primario: c
+nivel_evidencia: bajo
 publish: true
-aliases:
-  - Neptuno Y El Velo De La Ilusión
-created: 2026-02-25T22:08:54.864-03:00
-modified: 2026-04-27T10:51:21.319-03:00
-tags:
-  - neptuno
-  - ilusion
-  - simbolismo
-  - propaganda
-  - percepcion
-  - tl-intel-v3
 ---
 
 # Neptuno y el Velo de la Ilusion

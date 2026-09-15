@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T13:56:38.650-03:00
-modified: 2026-04-29T13:56:38.650-03:00
-tags:
-  - psicologia-politica
-  - poder
-  - patologia-social
-  - tl-intel-v3
+tipo: concepto
+titulo: Ponerología Política
+estado: activo
+tags: [psicologia-politica, poder, patologia-social, tl-intel-v3]
 ---
 
 # Ponerología Política

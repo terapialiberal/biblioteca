@@ -1,15 +1,13 @@
 ---
+titulo: Morfologia de los Mitos Modernos
+tipo: concepto
+fecha: 2026-04-27
+estado: activo
+aliases: ["Morfología De Los Mitos Modernos"]
+tags: [mitos-modernos, narrativa, propaganda, cultura, tl-intel-v3]
+tier_primario: b
+nivel_evidencia: medio
 publish: true
-aliases:
-  - Morfología De Los Mitos Modernos
-created: 2026-02-25T22:08:51.934-03:00
-modified: 2026-04-27T10:52:14.956-03:00
-tags:
-  - mitos-modernos
-  - narrativa
-  - propaganda
-  - cultura
-  - tl-intel-v3
 ---
 
 # Morfologia de los Mitos Modernos

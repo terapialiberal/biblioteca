@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T13:36:21.431-03:00
-modified: 2026-04-29T13:37:08.975-03:00
-tags:
-  - organizacion
-  - argentina
-  - partido-politico
-  - tl-intel-v3
+tipo: organizacion
+titulo: UCR
+estado: activo
+tags: [organizacion, argentina, partido-politico, tl-intel-v3]
 ---
 
 # UCR

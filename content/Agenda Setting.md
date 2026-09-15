@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:05:22.827-03:00
-modified: 2026-04-29T14:05:22.827-03:00
-tags:
-  - medios
-  - propaganda
-  - opinion-publica
-  - tl-intel-v3
+tipo: mecanismo
+titulo: Agenda Setting
+estado: activo
+tags: [medios, propaganda, opinion-publica, tl-intel-v3]
 ---
 
 # Agenda Setting

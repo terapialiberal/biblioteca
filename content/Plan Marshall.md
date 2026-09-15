@@ -1,13 +1,12 @@
 ---
+titulo: Plan Marshall
+tipo: concepto
+fecha: 2026-04-17
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [plan-marshall, hegemonia-americana, europa, dependencia, tl-intel-v3]
 publish: true
-created: 2026-04-17T13:28:31.602-03:00
-modified: 2026-04-17T13:30:01.743-03:00
-tags:
-  - plan-marshall
-  - hegemonia-americana
-  - europa
-  - dependencia
-  - tl-intel-v3
 ---
 
 # Plan Marshall

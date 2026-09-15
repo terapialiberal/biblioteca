@@ -1,12 +1,12 @@
 ---
+titulo: Resumen General
+tipo: "persona"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [carlson, gatekeepers, rupert, tucker]
 publish: true
-created: 2026-01-29T19:17:41.739-03:00
-modified: 2026-05-02T18:26:13.595-03:00
-tags:
-  - carlson
-  - gatekeepers
-  - rupert
-  - tucker
 ---
 
 # Resumen General

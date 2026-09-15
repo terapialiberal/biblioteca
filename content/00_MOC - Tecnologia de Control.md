@@ -197,10 +197,6 @@ tags: [moc, tecnologia-de-control, ia, vigilancia, tl-intel-v3]
 
 - [[06_Videos_Publicados/2026/2026-04-13_Ormuz_IA_Orden/00_CONTROL_TEMA.md|00_CONTROL_TEMA]]
 
-- [[99_AI/00_BOOT/00_ESTADO_OPERATIVO_IA.md|00_ESTADO_OPERATIVO_IA]]
-
-- [[99_AI/03_Prompts/00_INDICE_DE_PROMPTS_TL_V3.md|00_INDICE_DE_PROMPTS_TL_V3]]
-
 - [[00_MOC - Salud Global y Bioseguridad.md|00_MOC - Salud Global y Bioseguridad]]
 
 - [[00_MOC - Tecnologia de Control.md|00_MOC - Tecnologia de Control]]
@@ -435,8 +431,6 @@ tags: [moc, tecnologia-de-control, ia, vigilancia, tl-intel-v3]
 
 - [[Lucero del Alba y Espionaje.md|Lucero del Alba y Espionaje]]
 
-- [[99_AI/01_Framework/MARCO_COLABORATIVO_IA_NICO.md|MARCO_COLABORATIVO_IA_NICO]]
-
 - [[McLuhan.md|McLuhan]]
 
 - [[Menwith Hill.md|Menwith Hill]]
@@ -498,6 +492,8 @@ tags: [moc, tecnologia-de-control, ia, vigilancia, tl-intel-v3]
 - [[Patriot Act.md|Patriot Act]]
 
 - [[Patron - Deepfake.md|Patron - Deepfake]]
+
+- [[PAX SILICA.md|PAX SILICA]]
 
 - [[Pegasus Spyware.md|Pegasus Spyware]]
 

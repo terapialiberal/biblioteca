@@ -1,16 +1,13 @@
 ---
+titulo: Lobby
+tipo: concepto
+fecha: 2026-04-21
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Lobbyismo"]
+tags: [lobby, lobbying, grupos-de-interes, influencia, captura, tl-intel-v3]
 publish: true
-aliases:
-  - Lobbyismo
-created: 2026-04-21T13:11:12.441-03:00
-modified: 2026-04-22T11:04:52.664-03:00
-tags:
-  - lobby
-  - lobbying
-  - grupos-de-interes
-  - influencia
-  - captura
-  - tl-intel-v3
 ---
 
 # Lobby

@@ -1,15 +1,11 @@
 ---
+titulo: Stripe
+tipo: entidad
+fecha: 2026-05-02
+estado: activo
+aliases: ["Stripe (Fintech)"]
+tags: [stripe, fintech, pagos, infraestructura, tl-intel-v3]
 publish: true
-aliases:
-  - Stripe (Fintech)
-created: 2026-05-01T20:38:45.587-03:00
-modified: 2026-05-02T12:58:38.640-03:00
-tags:
-  - stripe
-  - fintech
-  - pagos
-  - infraestructura
-  - tl-intel-v3
 ---
 
 # Stripe

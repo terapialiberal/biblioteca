@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:09:22.474-03:00
-modified: 2026-04-29T14:09:38.166-03:00
-tags:
-  - argentina
-  - pandemia
-  - estado-de-excepcion
-  - tl-intel-v3
+tipo: evento
+titulo: Cuarentena Argentina (ASPO)
+estado: activo
+tags: [argentina, pandemia, estado-de-excepcion, tl-intel-v3]
 ---
 
 # Cuarentena Argentina (ASPO)

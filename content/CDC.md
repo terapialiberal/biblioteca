@@ -1,17 +1,13 @@
 ---
+titulo: CDC
+tipo: entidad
+fecha: 2026-04-21
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Centers for Disease Control and Prevention", "CDC (Centers for Disease Control and Prevention)"]
+tags: [cdc, salud-publica, bioseguridad, vigilancia, gobernanza-sanitaria, tl-intel-v3]
 publish: true
-aliases:
-  - Centers for Disease Control and Prevention
-  - CDC (Centers for Disease Control and Prevention)
-created: 2026-04-21T13:30:23.778-03:00
-modified: 2026-04-22T17:00:24.982-03:00
-tags:
-  - cdc
-  - salud-publica
-  - bioseguridad
-  - vigilancia
-  - gobernanza-sanitaria
-  - tl-intel-v3
 ---
 
 # CDC

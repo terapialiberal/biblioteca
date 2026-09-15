@@ -1,11 +1,12 @@
 ---
+titulo: Resumen General
+tipo: "persona"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [ahnenerbe, black, heinrich]
 publish: true
-created: 2026-01-29T19:17:05.534-03:00
-modified: 2026-05-02T18:24:25.029-03:00
-tags:
-  - ahnenerbe
-  - black
-  - heinrich
 ---
 
 # Resumen General

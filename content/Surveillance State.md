@@ -1,16 +1,13 @@
 ---
+titulo: Surveillance State
+tipo: concepto
+fecha: 2026-05-02
+tier_primario: b
+nivel_evidencia: alto
+estado: activo
+aliases: ["Estado de Vigilancia", "Estado de Vigilancia (Surveillance State)"]
+tags: [surveillance-state, vigilancia, sigint, datos, tl-intel-v3]
 publish: true
-aliases:
-  - Estado de Vigilancia
-  - Estado de Vigilancia (Surveillance State)
-created: 2026-05-01T20:46:54.871-03:00
-modified: 2026-05-02T12:44:21.511-03:00
-tags:
-  - surveillance-state
-  - vigilancia
-  - sigint
-  - datos
-  - tl-intel-v3
 ---
 
 # Surveillance State

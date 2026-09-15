@@ -1,14 +1,12 @@
 ---
+titulo: Meta Platforms
+tipo: entidad
+fecha: 2026-04-19
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [meta-platforms, facebook, instagram, whatsapp, plataformas, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:24.834-03:00
-modified: 2026-04-19T12:30:04.959-03:00
-tags:
-  - meta-platforms
-  - facebook
-  - instagram
-  - whatsapp
-  - plataformas
-  - tl-intel-v3
 ---
 
 # Meta Platforms

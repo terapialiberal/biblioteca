@@ -1,13 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:44:31.093-03:00
-modified: 2026-04-29T14:44:31.093-03:00
-tags:
-  - poblacion
-  - agenda-2030
-  - malthusianismo
-  - control-social
-  - tl-intel-v3
+tipo: concepto
+titulo: Despoblación y Agenda 2030
+estado: activo
+tags: [poblacion, agenda-2030, malthusianismo, control-social, tl-intel-v3]
 ---
 
 # Despoblación y Agenda 2030

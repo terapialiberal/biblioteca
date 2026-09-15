@@ -1,16 +1,11 @@
 ---
+titulo: Bomba Atómica - Proyecto Manhattan
+tipo: nodo
+fecha: 2026-05-02
+estado: activo
+aliases: ["Bomba Atómica / Proyecto Manhattan", "Bomba Atomica / Proyecto Manhattan"]
+tags: [alias, legacy, armas-nucleares, proyecto-manhattan, tl-intel-v3]
 publish: true
-aliases:
-  - Bomba Atómica / Proyecto Manhattan
-  - Bomba Atomica / Proyecto Manhattan
-created: 2026-05-01T20:12:32.912-03:00
-modified: 2026-05-02T13:55:28.660-03:00
-tags:
-  - alias
-  - legacy
-  - armas-nucleares
-  - proyecto-manhattan
-  - tl-intel-v3
 ---
 
 # Bomba Atómica - Proyecto Manhattan

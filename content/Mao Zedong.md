@@ -1,15 +1,10 @@
 ---
 publish: true
-aliases:
-  - Mao Zedong
-  - Mao Tse-tung
-created: 2026-05-01T18:48:02.821-03:00
-modified: 2026-05-02T18:25:44.707-03:00
-tags:
-  - actor
-  - china
-  - comunismo
-  - revolucion
+titulo: "Mao Zedong"
+aliases: ["Mao Zedong", "Mao Tse-tung"]
+tags: [actor, china, comunismo, revolucion]
+tipo: actor
+nivel: A
 ---
 
 # Mao Zedong

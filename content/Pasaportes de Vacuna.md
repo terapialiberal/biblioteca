@@ -1,13 +1,12 @@
 ---
+titulo: Pasaportes de Vacuna
+tipo: concepto
+fecha: 2026-04-17
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [pasaportes-de-vacuna, salud-digital, movilidad, identidad-digital, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:29.876-03:00
-modified: 2026-04-22T15:41:36.571-03:00
-tags:
-  - pasaportes-de-vacuna
-  - salud-digital
-  - movilidad
-  - identidad-digital
-  - tl-intel-v3
 ---
 
 # Pasaportes de Vacuna

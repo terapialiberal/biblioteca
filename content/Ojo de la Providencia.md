@@ -1,12 +1,12 @@
 ---
+titulo: "Ojo De La Providencia: El Panóptico De La Gnosis"
+tipo: "concepto"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [gnosis, information, panptico, providencia]
 publish: true
-created: 2026-01-29T19:17:27.986-03:00
-modified: 2026-05-02T18:25:51.308-03:00
-tags:
-  - gnosis
-  - information
-  - panptico
-  - providencia
 ---
 
 # Ojo De La Providencia: El Panóptico De La Gnosis

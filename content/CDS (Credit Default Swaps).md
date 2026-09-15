@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:05:25.024-03:00
-modified: 2026-04-29T14:05:40.239-03:00
-tags:
-  - derivados
-  - deuda
-  - riesgo-financiero
-  - tl-intel-v3
+tipo: instrumento
+titulo: CDS (Credit Default Swaps)
+estado: activo
+tags: [derivados, deuda, riesgo-financiero, tl-intel-v3]
 ---
 
 # CDS (Credit Default Swaps)

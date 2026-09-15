@@ -1,15 +1,13 @@
 ---
 publish: true
-created: 2026-03-04T19:45:11.555-03:00
-modified: 2026-05-02T18:01:47.025-03:00
-tags:
-  - vinod-khosla
-  - silicon-valley
-  - venture-capital
-  - ia
-  - openai
-  - khosla-ventures
-  - tl-intel-v3
+titulo: "Vinod Khosla"
+descripcion: "Inversor de Silicon Valley, fundador de Khosla Ventures y figura relevante en IA, energia, capital de riesgo y OpenAI."
+link: "https://en.wikipedia.org/wiki/Vinod_Khosla"
+tipo: persona
+estado: activo
+fecha: 2026-05-02
+tier:
+tags: [vinod-khosla, silicon-valley, venture-capital, ia, openai, khosla-ventures, tl-intel-v3]
 ---
 
 # Vinod Khosla

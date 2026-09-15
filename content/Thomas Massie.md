@@ -1,13 +1,12 @@
 ---
+titulo: "Thomas Massie"
 publish: true
-created: 2026-05-27T10:24:20.500-03:00
-modified: 2026-05-27T10:24:20.500-03:00
-tags:
-  - thomas-massie
-  - oposicion-controlada
-  - congress
-  - maga
-  - tl-intel-v3
+tipo: persona
+fecha: 2026-05-27
+tier_primario: B
+estado: activo
+tags: [thomas-massie, oposicion-controlada, congress, maga, tl-intel-v3]
+last_stream: "[[06_Videos_Publicados/2026/2026-05-26_La_Trampa_de_Ormuz/00_ARCHIVO_2026-05-26_La_Trampa_de_Ormuz|ARCHIVO: La Trampa de Ormuz]]"
 ---
 
 # [[Thomas Massie]]

@@ -1,12 +1,12 @@
 ---
+titulo: "Miércoles Negro (1992): El Golpe De Estado Financiero"
+tipo: "persona"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [banco, estado, george, golpe]
 publish: true
-created: 2026-01-29T19:17:25.529-03:00
-modified: 2026-05-02T18:25:46.856-03:00
-tags:
-  - banco
-  - estado
-  - george
-  - golpe
 ---
 
 # Miércoles Negro (1992): El Golpe De Estado Financiero (TL V.3)

@@ -1,16 +1,13 @@
 ---
+titulo: Los Chicos en las Vias
+tipo: evento
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Los Chicos En Las Vias: El Crimen De Mena Y La Proteccion Clinton"]
+tags: [mena, arkansas, cia, clinton, encubrimiento, tl-intel-v3]
 publish: true
-aliases:
-  - "Los Chicos En Las Vias: El Crimen De Mena Y La Proteccion Clinton"
-created: 2026-01-29T19:17:22.946-03:00
-modified: 2026-04-18T18:08:05.122-03:00
-tags:
-  - mena
-  - arkansas
-  - cia
-  - clinton
-  - encubrimiento
-  - tl-intel-v3
 ---
 
 # Los Chicos en las Vias

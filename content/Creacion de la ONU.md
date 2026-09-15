@@ -1,13 +1,12 @@
 ---
+titulo: Creacion de la ONU
+tipo: evento
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [onu, naciones-unidas, multilateralismo, rockefeller, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:09.054-03:00
-modified: 2026-04-18T10:56:38.729-03:00
-tags:
-  - onu
-  - naciones-unidas
-  - multilateralismo
-  - rockefeller
-  - tl-intel-v3
 ---
 
 # Creacion de la ONU

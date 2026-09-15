@@ -1,16 +1,13 @@
 ---
+titulo: LifeLog
+tipo: concepto
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["LifeLog: La Privatizacion De La Vigilancia De DARPA"]
+tags: [lifelog, darpa, facebook, vigilancia, datos, tl-intel-v3]
 publish: true
-aliases:
-  - "LifeLog: La Privatizacion De La Vigilancia De DARPA"
-created: 2026-01-29T19:17:22.515-03:00
-modified: 2026-04-18T18:21:38.743-03:00
-tags:
-  - lifelog
-  - darpa
-  - facebook
-  - vigilancia
-  - datos
-  - tl-intel-v3
 ---
 
 # LifeLog

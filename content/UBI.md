@@ -1,17 +1,12 @@
 ---
+titulo: UBI
+tipo: alias
+fecha: 2026-05-02
+estado: legacy
+reemplazado_por: [[Renta Basica Universal]]
+aliases: ["UBI", "Renta Básica Universal", "Renta Básica Universal (UBI)"]
+tags: [alias, legacy, ubi, renta-basica-universal, tl-intel-v3]
 publish: true
-aliases:
-  - UBI
-  - Renta Básica Universal
-  - Renta Básica Universal (UBI)
-created: 2026-05-01T20:42:34.426-03:00
-modified: 2026-05-02T12:50:43.619-03:00
-tags:
-  - alias
-  - legacy
-  - ubi
-  - renta-basica-universal
-  - tl-intel-v3
 ---
 
 # UBI

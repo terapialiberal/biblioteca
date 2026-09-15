@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T13:53:51.281-03:00
-modified: 2026-04-29T13:53:51.281-03:00
-tags:
-  - cibernetica
-  - psicologia
-  - sistemas
-  - tl-intel-v3
+tipo: evento
+titulo: Conferencias Macy
+estado: activo
+tags: [cibernetica, psicologia, sistemas, tl-intel-v3]
 ---
 
 # Conferencias Macy

@@ -1,15 +1,11 @@
 ---
+titulo: Solana
+tipo: entidad
+fecha: 2026-05-02
+estado: activo
+aliases: ["Solana (Blockchain)"]
+tags: [solana, cripto, blockchain, velocidad, tl-intel-v3]
 publish: true
-aliases:
-  - Solana (Blockchain)
-created: 2026-05-01T20:39:04.088-03:00
-modified: 2026-05-02T12:57:07.173-03:00
-tags:
-  - solana
-  - cripto
-  - blockchain
-  - velocidad
-  - tl-intel-v3
 ---
 
 # Solana

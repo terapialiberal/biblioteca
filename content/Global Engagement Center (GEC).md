@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:13:04.604-03:00
-modified: 2026-04-29T14:13:26.480-03:00
-tags:
-  - eeuu
-  - informacion
-  - propaganda
-  - tl-intel-v3
+tipo: organizacion
+titulo: Global Engagement Center (GEC)
+estado: activo
+tags: [eeuu, informacion, propaganda, tl-intel-v3]
 ---
 
 # Global Engagement Center (GEC)

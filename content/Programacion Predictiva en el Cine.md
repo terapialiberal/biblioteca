@@ -1,13 +1,11 @@
 ---
+titulo: Programacion Predictiva en el Cine
+tipo: alias
+fecha: 2026-04-21
+estado: legacy
+reemplazado_por: [[Cine y Programacion Predictiva]]
+tags: [alias, legacy, cine, programacion-predictiva, tl-intel-v3]
 publish: true
-created: 2026-02-25T22:08:32.233-03:00
-modified: 2026-04-21T12:24:08.332-03:00
-tags:
-  - alias
-  - legacy
-  - cine
-  - programacion-predictiva
-  - tl-intel-v3
 ---
 
 # Programacion Predictiva en el Cine

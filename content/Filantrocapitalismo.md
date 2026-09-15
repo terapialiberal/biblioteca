@@ -1,12 +1,10 @@
 ---
 publish: true
-created: 2026-04-29T14:13:02.302-03:00
-modified: 2026-05-02T14:12:06.898-03:00
-tags:
-  - alias
-  - fundaciones
-  - poder-blando
-  - tl-intel-v3
+tipo: alias
+titulo: Filantrocapitalismo
+estado: activo
+reemplazado_por: "[[00_MOC - Fundaciones y Filantrocapitalismo]]"
+tags: [alias, fundaciones, poder-blando, tl-intel-v3]
 ---
 
 # Filantrocapitalismo

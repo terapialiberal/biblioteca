@@ -1,12 +1,10 @@
 ---
 publish: true
-created: 2026-04-29T13:56:36.958-03:00
-modified: 2026-05-02T14:12:06.855-03:00
-tags:
-  - alias
-  - arabia-saudita
-  - energia
-  - tl-intel-v3
+tipo: alias
+titulo: MBS (Saudi Arabia)
+estado: activo
+reemplazado_por: "[[MBS]]"
+tags: [alias, arabia-saudita, energia, tl-intel-v3]
 ---
 
 # MBS (Saudi Arabia)

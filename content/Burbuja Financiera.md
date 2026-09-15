@@ -1,15 +1,11 @@
 ---
+titulo: Burbuja Financiera
+tipo: concepto
+fecha: 2026-05-02
+estado: activo
+aliases: ["Burbuja Financiera"]
+tags: [burbuja-financiera, especulacion, credito, crisis, tl-intel-v3]
 publish: true
-aliases:
-  - Burbuja Financiera
-created: 2026-05-01T20:10:56.186-03:00
-modified: 2026-05-02T13:47:17.164-03:00
-tags:
-  - burbuja-financiera
-  - especulacion
-  - credito
-  - crisis
-  - tl-intel-v3
 ---
 
 # Burbuja Financiera

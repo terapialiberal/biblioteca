@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:13:08.571-03:00
-modified: 2026-04-29T14:13:27.260-03:00
-tags:
-  - china
-  - maoismo
-  - planificacion
-  - tl-intel-v3
+tipo: evento
+titulo: Gran Salto Adelante
+estado: activo
+tags: [china, maoismo, planificacion, tl-intel-v3]
 ---
 
 # Gran Salto Adelante

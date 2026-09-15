@@ -1,16 +1,13 @@
 ---
+titulo: Cine y Programacion Predictiva
+tipo: concepto
+fecha: 2026-04-19
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Cine Y Programación Predictiva (Nota Maestra)"]
+tags: [cine, programacion-predictiva, narrativa, propaganda, entretenimiento, tl-intel-v3]
 publish: true
-aliases:
-  - Cine Y Programación Predictiva (Nota Maestra)
-created: 2026-01-29T19:17:07.724-03:00
-modified: 2026-04-19T12:01:44.898-03:00
-tags:
-  - cine
-  - programacion-predictiva
-  - narrativa
-  - propaganda
-  - entretenimiento
-  - tl-intel-v3
 ---
 
 # Cine y Programacion Predictiva

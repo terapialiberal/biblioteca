@@ -1,17 +1,11 @@
 ---
+titulo: ESG
+tipo: concepto
+fecha: 2026-05-02
+estado: activo
+aliases: ["ESG (Environmental Social Governance)", "Environmental Social Governance"]
+tags: [esg, finanzas, blackrock, sostenibilidad, gobernanza, tl-intel-v3]
 publish: true
-aliases:
-  - ESG (Environmental Social Governance)
-  - Environmental Social Governance
-created: 2026-01-29T19:17:12.243-03:00
-modified: 2026-05-02T12:50:43.444-03:00
-tags:
-  - esg
-  - finanzas
-  - blackrock
-  - sostenibilidad
-  - gobernanza
-  - tl-intel-v3
 ---
 
 # ESG

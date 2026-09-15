@@ -1,15 +1,13 @@
 ---
+titulo: Sincro-Destino Cosmico
+tipo: concepto
+fecha: 2026-04-27
+estado: activo
+aliases: ["Sincro-Destino Cósmico"]
+tags: [sincro-destino, sincronicidad, destino, simbolismo, tl-intel-v3]
+tier_primario: c
+nivel_evidencia: bajo
 publish: true
-aliases:
-  - Sincro-Destino Cósmico
-created: 2026-02-25T22:08:32.880-03:00
-modified: 2026-04-27T10:51:17.539-03:00
-tags:
-  - sincro-destino
-  - sincronicidad
-  - destino
-  - simbolismo
-  - tl-intel-v3
 ---
 
 # Sincro-Destino Cosmico

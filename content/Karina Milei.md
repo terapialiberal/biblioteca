@@ -1,16 +1,13 @@
 ---
+titulo: Karina Milei
+tipo: persona
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Karina Milei: La Arquitecta del Sosten Psico-Politico"]
+tags: [argentina, milei, karina, operadores, entorno-presidencial, tl-intel-v3]
 publish: true
-aliases:
-  - "Karina Milei: La Arquitecta del Sosten Psico-Politico"
-created: 2026-01-29T19:17:20.552-03:00
-modified: 2026-04-18T11:29:45.349-03:00
-tags:
-  - argentina
-  - milei
-  - karina
-  - operadores
-  - entorno-presidencial
-  - tl-intel-v3
 ---
 
 # Karina Milei

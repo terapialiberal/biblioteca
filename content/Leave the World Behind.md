@@ -1,12 +1,12 @@
 ---
+titulo: "Leave the World Behind: El Guion De La Inevitabilidad"
+tipo: "concepto"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [behind, gran, guion, inevitabilidad]
 publish: true
-created: 2026-01-29T19:17:22.146-03:00
-modified: 2026-05-02T18:25:42.674-03:00
-tags:
-  - behind
-  - gran
-  - guion
-  - inevitabilidad
 ---
 
 # Leave the World Behind: El Guion De La Inevitabilidad

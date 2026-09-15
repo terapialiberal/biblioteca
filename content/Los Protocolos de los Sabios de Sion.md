@@ -1,16 +1,13 @@
 ---
+titulo: Los Protocolos de los Sabios de Sion
+tipo: concepto
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Los Protocolos De Los Sabios De Sion: El Manual De La Tirania Tecnocratica"]
+tags: [protocolos, propaganda, antisemitismo, falsificacion, control, tl-intel-v3]
 publish: true
-aliases:
-  - "Los Protocolos De Los Sabios De Sion: El Manual De La Tirania Tecnocratica"
-created: 2026-01-29T19:17:23.010-03:00
-modified: 2026-04-18T18:08:05.230-03:00
-tags:
-  - protocolos
-  - propaganda
-  - antisemitismo
-  - falsificacion
-  - control
-  - tl-intel-v3
 ---
 
 # Los Protocolos de los Sabios de Sion

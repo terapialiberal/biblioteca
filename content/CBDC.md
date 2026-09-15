@@ -1,18 +1,14 @@
 ---
+titulo: CBDC
 publish: true
-aliases:
-  - Moneda Digital de Banco Central
-  - CBDC (Moneda Digital de Banco Central)
-  - CBDCs
-created: 2026-01-29T19:17:07.062-03:00
-modified: 2026-04-22T16:39:13.276-03:00
-tags:
-  - cbdc
-  - dinero-programable
-  - banca-central
-  - control-financiero
-  - vigilancia-financiera
-  - tl-intel-v3
+tipo: concepto
+fecha: 2026-04-18
+tier_primario: a
+moc_canonico: [[00_MOC - Finanzas y CBDC]]
+estado: activo
+aliases: ["Moneda Digital de Banco Central", "CBDC (Moneda Digital de Banco Central)", "CBDCs"]
+fuentes_clave: []
+tags: [cbdc, dinero-programable, banca-central, control-financiero, vigilancia-financiera, tl-intel-v3]
 ---
 
 # CBDC

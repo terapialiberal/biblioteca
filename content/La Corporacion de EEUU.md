@@ -1,12 +1,12 @@
 ---
+titulo: "La Corporación De EEUU: El Acta De 1871 Y El Fin De La República"
+tipo: "concepto"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [city, corporacin, repblica, reserva]
 publish: true
-created: 2026-01-29T19:17:21.176-03:00
-modified: 2026-05-02T18:25:40.406-03:00
-tags:
-  - city
-  - corporacin
-  - repblica
-  - reserva
 ---
 
 # La Corporación De EEUU: El Acta De 1871 Y El Fin De La República

@@ -1,18 +1,13 @@
 ---
+titulo: Teoria del Rimland
+tipo: concepto
+fecha: 2026-04-22
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Teoría del Rimland", "Teoría del Rimland (Nicholas Spykman)", "Rimland"]
+tags: [rimland, spykman, geopolitica, chokepoints, contencion, tl-intel-v3]
 publish: true
-aliases:
-  - Teoría del Rimland
-  - Teoría del Rimland (Nicholas Spykman)
-  - Rimland
-created: 2026-01-29T19:17:39.162-03:00
-modified: 2026-04-22T09:56:04.198-03:00
-tags:
-  - rimland
-  - spykman
-  - geopolitica
-  - chokepoints
-  - contencion
-  - tl-intel-v3
 ---
 
 # Teoria del Rimland

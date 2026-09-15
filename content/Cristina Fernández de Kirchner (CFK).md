@@ -1,12 +1,14 @@
 ---
 publish: true
-created: 2026-04-29T14:09:22.441-03:00
-modified: 2026-05-02T14:15:31.215-03:00
+tipo: alias
+titulo: Cristina Fernández de Kirchner (CFK)
+estado: activo
 tags:
   - alias
   - argentina
   - kirchnerismo
   - tl-intel-v3
+reemplazado_por: '[[Cristina Fernández de Kirchner]]'
 ---
 
 # Cristina Fernández de Kirchner (CFK)

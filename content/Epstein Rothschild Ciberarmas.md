@@ -1,13 +1,12 @@
 ---
+titulo: Epstein Rothschild Ciberarmas
+tipo: import
+estado: capturado
+fuente: https://www.presstv.ir/Detail/2025/11/19/759140/Jeffrey-Epstein-used-Rothschild-banking-empire-to-finance-Israeli-cyberweapons-industry
+fecha: 2025-11-19
+descripcion: Import estabilizado sobre la tesis de vinculos entre Jeffrey Epstein, capital Rothschild e industria israeli de ciberarmas.
+tags: [jeffrey-epstein, rothschild, ciberarmas, israel, import]
 publish: true
-created: 2026-01-29T19:05:10.242-03:00
-modified: 2026-05-02T18:25:20.409-03:00
-tags:
-  - jeffrey-epstein
-  - rothschild
-  - ciberarmas
-  - israel
-  - import
 ---
 
 # Epstein Rothschild Ciberarmas

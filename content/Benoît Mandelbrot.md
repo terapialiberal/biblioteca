@@ -1,14 +1,10 @@
 ---
 publish: true
-aliases:
-  - Benoît Mandelbrot
-created: 2026-05-01T19:10:36.972-03:00
-modified: 2026-05-02T18:25:13.195-03:00
-tags:
-  - actor
-  - matematicas
-  - fractales
-  - finanzas
+titulo: "Benoît Mandelbrot"
+aliases: ["Benoît Mandelbrot"]
+tags: [actor, matematicas, fractales, finanzas]
+tipo: actor
+nivel: C
 ---
 
 # Benoît Mandelbrot

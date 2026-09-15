@@ -1,12 +1,12 @@
 ---
+titulo: El Metaverso
+tipo: alias
+fecha: 2026-04-19
+alias_de: Metaverso
+estado: activo
+reemplazado_por: "[[Metaverso]]"
+tags: [alias, metaverso, naming-legacy, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:11.440-03:00
-modified: 2026-05-02T18:25:18.700-03:00
-tags:
-  - alias
-  - metaverso
-  - naming-legacy
-  - tl-intel-v3
 ---
 
 # El Metaverso

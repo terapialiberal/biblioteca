@@ -1,12 +1,12 @@
 ---
+titulo: "JTRIG: El Escuadrón De La Inquisición Digital"
+tipo: "concepto"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [digital, five, gchq, jtrig]
 publish: true
-created: 2026-01-29T19:17:20.298-03:00
-modified: 2026-05-02T18:25:38.241-03:00
-tags:
-  - digital
-  - five
-  - gchq
-  - jtrig
 ---
 
 # JTRIG: El Escuadrón De La Inquisición Digital

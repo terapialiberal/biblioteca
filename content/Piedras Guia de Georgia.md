@@ -1,12 +1,12 @@
 ---
+titulo: "Piedras Guía De Georgia: El Manifiesto De Granito"
+tipo: "concepto"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [agenda, georgia, manifiesto, rosacruces]
 publish: true
-created: 2026-01-29T19:17:30.565-03:00
-modified: 2026-05-02T18:25:55.514-03:00
-tags:
-  - agenda
-  - georgia
-  - manifiesto
-  - rosacruces
 ---
 
 # Piedras Guía De Georgia: El Manifiesto De Granito

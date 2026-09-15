@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:13:02.244-03:00
-modified: 2026-04-29T14:13:24.753-03:00
-tags:
-  - argentina
-  - crisis-2001
-  - radicalismo
-  - tl-intel-v3
+tipo: actor
+titulo: Fernando de la Rúa
+estado: activo
+tags: [argentina, crisis-2001, radicalismo, tl-intel-v3]
 ---
 
 # Fernando de la Rúa

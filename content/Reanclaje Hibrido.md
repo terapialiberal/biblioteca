@@ -1,14 +1,12 @@
 ---
+titulo: Reanclaje Hibrido
+tipo: concepto
+fecha: 2026-04-20
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [reanclaje-hibrido, dolar, treasuries, petrodolar, reset-monetario, tl-intel-v3]
 publish: true
-created: 2026-04-20T16:59:34.732-03:00
-modified: 2026-06-11T14:23:18.700-03:00
-tags:
-  - reanclaje-hibrido
-  - dolar
-  - treasuries
-  - petrodolar
-  - reset-monetario
-  - tl-intel-v3
 ---
 
 # Reanclaje Hibrido

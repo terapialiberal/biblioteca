@@ -1,13 +1,11 @@
 ---
+titulo: GAVI (Vaccine Alliance)
+tipo: alias
+fecha: 2026-04-21
+estado: legacy
+reemplazado_por: "[[GAVI]]"
+tags: [alias, gavi, legacy, vacunas, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:14.786-03:00
-modified: 2026-04-21T11:44:24.462-03:00
-tags:
-  - alias
-  - gavi
-  - legacy
-  - vacunas
-  - tl-intel-v3
 ---
 
 # GAVI (Vaccine Alliance)

@@ -1,14 +1,12 @@
 ---
 publish: true
-created: 2026-04-17T13:09:45.491-03:00
-modified: 2026-04-17T13:09:45.491-03:00
-tags:
-  - gran-israel
-  - gaza
-  - israel
-  - corredor
-  - territorio
-  - tl-intel-v3
+titulo: Gran Israel
+tipo: concepto
+fecha: 2026-04-17
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [gran-israel, gaza, israel, corredor, territorio, tl-intel-v3]
 ---
 
 # Gran Israel

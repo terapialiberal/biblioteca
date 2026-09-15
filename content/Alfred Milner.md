@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:05:22.923-03:00
-modified: 2026-04-29T14:05:35.274-03:00
-tags:
-  - imperio-britanico
-  - redes-elite
-  - geostrategia
-  - tl-intel-v3
+tipo: actor
+titulo: Alfred Milner
+estado: activo
+tags: [imperio-britanico, redes-elite, geostrategia, tl-intel-v3]
 ---
 
 # Alfred Milner

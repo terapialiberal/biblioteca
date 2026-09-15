@@ -1,14 +1,12 @@
 ---
+titulo: Milei
+tipo: alias
+fecha: 2026-05-02
+estado: legacy
+reemplazado_por: [[Javier Milei]]
+aliases: ["Milei"]
+tags: [alias, legacy, argentina, tl-intel-v3]
 publish: true
-aliases:
-  - Milei
-created: 2026-05-01T20:41:28.928-03:00
-modified: 2026-05-02T12:58:38.905-03:00
-tags:
-  - alias
-  - legacy
-  - argentina
-  - tl-intel-v3
 ---
 
 # Milei

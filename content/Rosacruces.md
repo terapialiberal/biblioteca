@@ -1,18 +1,13 @@
 ---
+titulo: Rosacruces
+tipo: red-discreta
+fecha: 2026-04-27
+estado: activo
+aliases: ["Rosacrucismo", "Rosicrucians", "Orden Rosacruz"]
+tags: [rosacruces, rosacrucismo, hermetismo, redes-discretas, esoterismo, tl-intel-v3]
+tier_primario: c
+nivel_evidencia: medio
 publish: true
-aliases:
-  - Rosacrucismo
-  - Rosicrucians
-  - Orden Rosacruz
-created: 2026-04-27T10:12:10.218-03:00
-modified: 2026-04-27T10:12:10.218-03:00
-tags:
-  - rosacruces
-  - rosacrucismo
-  - hermetismo
-  - redes-discretas
-  - esoterismo
-  - tl-intel-v3
 ---
 
 # Rosacruces

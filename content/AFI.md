@@ -1,18 +1,13 @@
 ---
+titulo: AFI
+tipo: entidad
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["AFI (Agencia Federal de Inteligencia)", "Agencia Federal de Inteligencia"]
+tags: [argentina, inteligencia, espionaje, carpetazos, stiuso, estado-profundo, tl-intel-v3]
 publish: true
-aliases:
-  - AFI (Agencia Federal de Inteligencia)
-  - Agencia Federal de Inteligencia
-created: 2026-01-29T19:17:02.943-03:00
-modified: 2026-04-18T11:24:28.609-03:00
-tags:
-  - argentina
-  - inteligencia
-  - espionaje
-  - carpetazos
-  - stiuso
-  - estado-profundo
-  - tl-intel-v3
 ---
 
 # AFI

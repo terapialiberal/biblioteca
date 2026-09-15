@@ -1,11 +1,12 @@
 ---
 publish: true
-created: 2026-01-29T19:17:03.494-03:00
-modified: 2026-04-07T10:47:24.931-03:00
-tags:
-  - anarcocapitalismo
-  - gustave_le_bon
-  - rothbard
+titulo: Anarcocapitalismo
+tipo: concepto
+fecha: 2026-02-25
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [anarcocapitalismo, gustave_le_bon, rothbard]
 ---
 
 # Anarcocapitalismo

@@ -1,14 +1,12 @@
 ---
+titulo: Masacre de Tlatelolco
+tipo: evento
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [tlatelolco, mexico, represion, guerra-fria, litempo, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:24.269-03:00
-modified: 2026-04-18T18:24:43.237-03:00
-tags:
-  - tlatelolco
-  - mexico
-  - represion
-  - guerra-fria
-  - litempo
-  - tl-intel-v3
 ---
 
 # Masacre de Tlatelolco

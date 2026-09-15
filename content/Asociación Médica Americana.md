@@ -1,12 +1,14 @@
 ---
 publish: true
-created: 2026-04-29T14:05:23.204-03:00
-modified: 2026-05-02T14:16:21.881-03:00
+tipo: alias
+titulo: Asociación Médica Americana
+estado: activo
 tags:
   - alias
   - medicina
   - corporativismo-profesional
   - tl-intel-v3
+reemplazado_por: '[[Asociacion Medica Americana]]'
 ---
 
 # Asociación Médica Americana

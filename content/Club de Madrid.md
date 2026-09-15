@@ -1,14 +1,12 @@
 ---
+titulo: Club de Madrid
+tipo: entidad
+fecha: 2026-04-21
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [club-de-madrid, ex-jefes-de-estado, gobernanza, diplomacia, globalismo, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:07.979-03:00
-modified: 2026-04-21T13:02:05.735-03:00
-tags:
-  - club-de-madrid
-  - ex-jefes-de-estado
-  - gobernanza
-  - diplomacia
-  - globalismo
-  - tl-intel-v3
 ---
 
 # Club de Madrid

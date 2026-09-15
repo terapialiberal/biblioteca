@@ -1,17 +1,11 @@
 ---
+titulo: Pakistán
+tipo: nodo
+fecha: 2026-05-02
+estado: activo
+aliases: ["Pakistan", "Pakistán (Geopolítica)"]
+tags: [pakistan, asia, nuclear, isi, china, tl-intel-v3]
 publish: true
-aliases:
-  - Pakistan
-  - Pakistán (Geopolítica)
-created: 2026-04-29T15:32:15.779-03:00
-modified: 2026-05-02T13:01:00.744-03:00
-tags:
-  - pakistan
-  - asia
-  - nuclear
-  - isi
-  - china
-  - tl-intel-v3
 ---
 
 # Pakistán

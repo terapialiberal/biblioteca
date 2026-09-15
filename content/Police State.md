@@ -1,16 +1,13 @@
 ---
+titulo: Police State
+tipo: concepto
+fecha: 2026-05-02
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Estado Policial", "Estado Policial (Police State)"]
+tags: [police-state, autoritarismo, seguridad, vigilancia, tl-intel-v3]
 publish: true
-aliases:
-  - Estado Policial
-  - Estado Policial (Police State)
-created: 2026-05-01T20:46:57.717-03:00
-modified: 2026-05-02T12:44:21.438-03:00
-tags:
-  - police-state
-  - autoritarismo
-  - seguridad
-  - vigilancia
-  - tl-intel-v3
 ---
 
 # Police State

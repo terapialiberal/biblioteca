@@ -287,6 +287,8 @@ tags: [moc, control-financiero, deuda, banca, tl-intel-v3]
 
 - [[00_MOC - Control Financiero.md|00_MOC - Control Financiero]]
 
+- [[99_AI/00_BOOT/00_NOTA_HONESTA.md|00_NOTA_HONESTA]]
+
 - [[06_Videos_Publicados/2026/2026-05-21_Triple_Summit/01_PREPRODUCCION.md|01_PREPRODUCCION]]
 
 - [[Ace Greenberg.md|Ace Greenberg]]
@@ -296,6 +298,8 @@ tags: [moc, control-financiero, deuda, banca, tl-intel-v3]
 - [[Anubis - El Pescador de Almas En Deuda.md|Anubis - El Pescador de Almas En Deuda]]
 
 - [[Astrologia Financiera.md|Astrologia Financiera]]
+
+- [[99_AI/00_BOOT/AUDITORIA_CANON_2026-09-14.md|AUDITORIA_CANON_2026-09-14]]
 
 - [[Bail-in.md|Bail-in]]
 
@@ -447,6 +451,8 @@ tags: [moc, control-financiero, deuda, banca, tl-intel-v3]
 
 - [[Lavado de Dinero.md|Lavado de Dinero]]
 
+- [[03_Produccion/2026-09-14_El_dia_despues_tiene_duenios/LECTURA_DE_CAMARA_El_dia_despues_tiene_duenios.md|LECTURA_DE_CAMARA_El_dia_despues_tiene_duenios]]
+
 - [[Ley de la Reserva Federal.md|Ley de la Reserva Federal]]
 
 - [[Ley Glass-Steagall.md|Ley Glass-Steagall]]
@@ -469,17 +475,17 @@ tags: [moc, control-financiero, deuda, banca, tl-intel-v3]
 
 - [[Nicholas Brady.md|Nicholas Brady]]
 
-- [[02_Preproduccion/2026-04-23_Gran_Reajuste_Monetario/NOTA_TESIS_AMPLIADA_Gran_Reajuste_v4.md|NOTA_TESIS_AMPLIADA_Gran_Reajuste_v4]]
+- [[06_Videos_Publicados/2026/2026-08-12_La_Cupula_de_La_Meca_Arabia_Turquia_Siria_IMEC/NOTA_La_Elite_Que_Deserta.md|NOTA_La_Elite_Que_Deserta]]
 
 - [[06_Videos_Publicados/2026/2026-04-15_LAS GUERRAS MAGA/NOTA_TESIS_Bretton_Woods_2_Petrodolar_Deuda.md|NOTA_TESIS_Bretton_Woods_2_Petrodolar_Deuda]]
 
 - [[Panico de 1907.md|Panico de 1907]]
 
+- [[06_Videos_Publicados/2026/2026-08-12_La_Cupula_de_La_Meca_Arabia_Turquia_Siria_IMEC/PATREON_2026-08-14_Endgame_La_Cupula_La_Meca.md|PATREON_2026-08-14_Endgame_La_Cupula_La_Meca]]
+
 - [[06_Videos_Publicados/2026/2026-05-21_Triple_Summit/PATREON_Triple_Summit.md|PATREON_Triple_Summit]]
 
 - [[06_Videos_Publicados/2026/2026-01-07_Gaza_SA/Post Gaza SA.md|Post Gaza SA]]
-
-- [[02_Preproduccion/2026-04-23_Gran_Reajuste_Monetario/PRE_STREAM_Gran_Reajuste.md|PRE_STREAM_Gran_Reajuste]]
 
 - [[Propiedad Común como Gobierno Indirecto.md|Propiedad Común como Gobierno Indirecto]]
 
@@ -510,6 +516,8 @@ tags: [moc, control-financiero, deuda, banca, tl-intel-v3]
 - [[Standard Chartered.md|Standard Chartered]]
 
 - [[State Street.md|State Street]]
+
+- [[06_Videos_Publicados/2026/2026-08-04_Noticiero_El_Toll_Se_Tokeniza/SUBSTACK_Noticiero_El_Toll_Se_Tokeniza.md|SUBSTACK_Noticiero_El_Toll_Se_Tokeniza]]
 
 - [[Suiza.md|Suiza]]
 

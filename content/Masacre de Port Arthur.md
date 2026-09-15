@@ -1,13 +1,13 @@
 ---
+titulo: "Masacre de Port Arthur"
 publish: true
-created: 2026-01-29T19:17:24.193-03:00
-modified: 2026-04-07T12:20:17.106-03:00
-tags:
-  - port-arthur
-  - australia
-  - desarme
-  - shock
-  - tl-intel-v3
+tipo: evento
+fecha: 2026-04-07
+tier_primario: B
+moc_canonico: [[00_MOC - Operaciones Encubiertas]]
+estado: activo
+fuentes_clave: []
+tags: [port-arthur, australia, desarme, shock, tl-intel-v3]
 ---
 
 # [[Masacre de Port Arthur]]

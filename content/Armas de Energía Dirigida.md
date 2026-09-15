@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T13:53:50.298-03:00
-modified: 2026-04-29T13:53:50.298-03:00
-tags:
-  - tecnologia-militar
-  - espectro-electromagnetico
-  - guerra-hibrida
-  - tl-intel-v3
+tipo: concepto
+titulo: Armas de Energía Dirigida
+estado: activo
+tags: [tecnologia-militar, espectro-electromagnetico, guerra-hibrida, tl-intel-v3]
 ---
 
 # Armas de Energía Dirigida

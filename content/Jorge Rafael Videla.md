@@ -1,13 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T15:30:58.098-03:00
-modified: 2026-04-29T15:30:58.098-03:00
-tags:
-  - argentina
-  - dictadura
-  - militar
-  - represion
-  - tl-intel-v3
+tipo: actor
+titulo: Jorge Rafael Videla
+estado: activo
+tags: [argentina, dictadura, militar, represion, tl-intel-v3]
 ---
 
 # Jorge Rafael Videla

@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T13:56:36.575-03:00
-modified: 2026-04-29T13:56:36.575-03:00
-tags:
-  - eeuu
-  - diplomacia
-  - clima
-  - tl-intel-v3
+tipo: actor
+titulo: John Kerry
+estado: activo
+tags: [eeuu, diplomacia, clima, tl-intel-v3]
 ---
 
 # John Kerry

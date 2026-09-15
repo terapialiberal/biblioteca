@@ -1,17 +1,13 @@
 ---
+titulo: El Cubo de Metatron
+tipo: concepto
+fecha: 2026-04-27
+estado: activo
+aliases: ["El Cubo De Metatrón", "Cubo de Metatrón", "Metatron's Cube"]
+tags: [cubo-de-metatron, geometria-sagrada, simbolismo, esoterismo, tl-intel-v3]
+tier_primario: c
+nivel_evidencia: medio
 publish: true
-aliases:
-  - El Cubo De Metatrón
-  - Cubo de Metatrón
-  - Metatron's Cube
-created: 2026-02-25T22:08:52.582-03:00
-modified: 2026-04-27T10:23:22.697-03:00
-tags:
-  - cubo-de-metatron
-  - geometria-sagrada
-  - simbolismo
-  - esoterismo
-  - tl-intel-v3
 ---
 
 # El Cubo de Metatron

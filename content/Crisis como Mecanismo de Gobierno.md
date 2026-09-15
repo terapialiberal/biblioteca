@@ -1,13 +1,12 @@
 ---
+titulo: Crisis como Mecanismo de Gobierno
+tipo: patron
+fecha: 2026-04-27
+estado: activo
+tags: [crisis, gobernanza, shock, problema-reaccion-solucion, tl-intel-v3]
+tier_primario: b
+nivel_evidencia: medio
 publish: true
-created: 2026-04-27T10:12:10.372-03:00
-modified: 2026-04-27T10:12:10.372-03:00
-tags:
-  - crisis
-  - gobernanza
-  - shock
-  - problema-reaccion-solucion
-  - tl-intel-v3
 ---
 
 # Crisis como Mecanismo de Gobierno

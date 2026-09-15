@@ -1,16 +1,13 @@
 ---
+titulo: La Puerta Giratoria de la FDA
+tipo: concepto
+fecha: 2026-04-21
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["FDA y las Puertas Giratorias (Pfizer)"]
+tags: [fda, puerta-giratoria, captura-regulatoria, pfizer, big-pharma, tl-intel-v3]
 publish: true
-aliases:
-  - FDA y las Puertas Giratorias (Pfizer)
-created: 2026-01-29T19:17:21.562-03:00
-modified: 2026-04-22T10:49:17.660-03:00
-tags:
-  - fda
-  - puerta-giratoria
-  - captura-regulatoria
-  - pfizer
-  - big-pharma
-  - tl-intel-v3
 ---
 
 # La Puerta Giratoria de la FDA

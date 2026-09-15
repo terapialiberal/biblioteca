@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:13:08.540-03:00
-modified: 2026-04-29T14:13:27.335-03:00
-tags:
-  - wef
-  - gobernanza-global
-  - narrativa
-  - tl-intel-v3
+tipo: concepto
+titulo: Gran Reseteo (WEF)
+estado: activo
+tags: [wef, gobernanza-global, narrativa, tl-intel-v3]
 ---
 
 # Gran Reseteo (WEF)

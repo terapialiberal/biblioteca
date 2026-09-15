@@ -1,14 +1,10 @@
 ---
 publish: true
-aliases:
-  - Brookfield Asset Management
-created: 2026-05-01T19:10:48.717-03:00
-modified: 2026-05-02T18:25:14.187-03:00
-tags:
-  - empresa
-  - infraestructura
-  - private-equity
-  - canadiense
+titulo: "Brookfield Asset Management"
+aliases: ["Brookfield Asset Management"]
+tags: [empresa, infraestructura, private-equity, canadiense]
+tipo: empresa
+nivel: A
 ---
 
 # Brookfield Asset Management

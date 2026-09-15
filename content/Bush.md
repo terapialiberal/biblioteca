@@ -1,16 +1,11 @@
 ---
+titulo: Bush
+tipo: nodo
+fecha: 2026-05-02
+estado: activo
+aliases: ["George W. Bush", "George Bush"]
+tags: [bush, eeuu, guerra-terror, neoconservadurismo, tl-intel-v3]
 publish: true
-aliases:
-  - George W. Bush
-  - George Bush
-created: 2026-05-01T20:41:03.598-03:00
-modified: 2026-05-02T13:01:42.780-03:00
-tags:
-  - bush
-  - eeuu
-  - guerra-terror
-  - neoconservadurismo
-  - tl-intel-v3
 ---
 
 # Bush

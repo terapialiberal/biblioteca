@@ -1,17 +1,11 @@
 ---
+titulo: Malthus
+tipo: actor
+fecha: 2026-05-02
+estado: activo
+aliases: ["Malthusianismo", "Thomas Malthus", "Thomas Malthus (Sobre población)"]
+tags: [malthus, poblacion, escasez, biopolitica, tl-intel-v3]
 publish: true
-aliases:
-  - Malthusianismo
-  - Thomas Malthus
-  - Thomas Malthus (Sobre población)
-created: 2026-05-01T20:42:52.612-03:00
-modified: 2026-05-02T12:51:26.865-03:00
-tags:
-  - malthus
-  - poblacion
-  - escasez
-  - biopolitica
-  - tl-intel-v3
 ---
 
 # Malthus

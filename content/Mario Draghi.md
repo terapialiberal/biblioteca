@@ -1,14 +1,13 @@
 ---
+titulo: Mario Draghi
 publish: true
-created: 2026-01-29T19:17:23.975-03:00
-modified: 2026-04-24T12:25:38.991-03:00
-tags:
-  - mario-draghi
-  - bce
-  - goldman-sachs
-  - tecnocracia
-  - europa
-  - tl-intel-v3
+tipo: persona
+fecha: 2026-04-24
+tier_primario: b
+moc_canonico: [[00_MOC - Finanzas y CBDC]]
+estado: activo
+fuentes_clave: []
+tags: [mario-draghi, bce, goldman-sachs, tecnocracia, europa, tl-intel-v3]
 ---
 
 # Mario Draghi

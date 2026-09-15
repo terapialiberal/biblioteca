@@ -1,13 +1,12 @@
 ---
+titulo: M. King Hubbert
+tipo: persona
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [hubbert, peak-oil, tecnocracia, energia, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:23.366-03:00
-modified: 2026-04-18T18:24:43.060-03:00
-tags:
-  - hubbert
-  - peak-oil
-  - tecnocracia
-  - energia
-  - tl-intel-v3
 ---
 
 # M. King Hubbert

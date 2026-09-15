@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:05:22.863-03:00
-modified: 2026-04-29T14:05:22.863-03:00
-tags:
-  - argentina
-  - peronismo
-  - presidencia
-  - tl-intel-v3
+tipo: actor
+titulo: Alberto Fernández
+estado: activo
+tags: [argentina, peronismo, presidencia, tl-intel-v3]
 ---
 
 # Alberto Fernández

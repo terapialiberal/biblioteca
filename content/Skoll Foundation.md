@@ -1,14 +1,12 @@
 ---
+titulo: Skoll Foundation
+tipo: entidad
+fecha: 2026-04-21
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [skoll-foundation, filantrocapitalismo, silicon-valley, narrativas, impacto-social, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:37.210-03:00
-modified: 2026-04-21T12:07:13.315-03:00
-tags:
-  - skoll-foundation
-  - filantrocapitalismo
-  - silicon-valley
-  - narrativas
-  - impacto-social
-  - tl-intel-v3
 ---
 
 # Skoll Foundation

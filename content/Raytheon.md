@@ -1,12 +1,16 @@
 ---
-publish: true
-created: 2026-01-29T19:17:32.627-03:00
-modified: 2026-04-22T10:49:17.788-03:00
+titulo: Raytheon
+tipo: entidad
+fecha: 2026-04-18
+tier_primario: B
+nivel_evidencia: medio
+estado: activo
 tags:
   - raytheon
   - complejo-militar-industrial
   - contratistas-de-defensa
   - guerra
+publish: true
 ---
 
 # [[Raytheon]]

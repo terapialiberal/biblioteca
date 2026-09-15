@@ -1,12 +1,12 @@
 ---
+titulo: "Nikola Tesla: El Sabotaje a La Soberanía Energética"
+tipo: "persona"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [energa, nikola, sabotaje, soberana]
 publish: true
-created: 2026-01-29T19:17:27.135-03:00
-modified: 2026-05-02T18:25:49.917-03:00
-tags:
-  - energa
-  - nikola
-  - sabotaje
-  - soberana
 ---
 
 # Nikola Tesla: El Sabotaje a La Soberanía Energética

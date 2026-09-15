@@ -1,14 +1,12 @@
 ---
+titulo: Instituto Tavistock
+tipo: entidad
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [tavistock, psicologia-social, ingenieria-social, cultura, rockefeller, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:18.542-03:00
-modified: 2026-04-18T10:53:16.993-03:00
-tags:
-  - tavistock
-  - psicologia-social
-  - ingenieria-social
-  - cultura
-  - rockefeller
-  - tl-intel-v3
 ---
 
 # Instituto Tavistock

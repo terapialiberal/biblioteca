@@ -1,12 +1,12 @@
 ---
+titulo: "Operation Snow White: El Asedio De La Secta Al Estado"
+tipo: "persona"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [estado, infiltracin, operation, secta]
 publish: true
-created: 2026-01-29T19:17:29.127-03:00
-modified: 2026-05-02T18:25:53.017-03:00
-tags:
-  - estado
-  - infiltracin
-  - operation
-  - secta
 ---
 
 # Operation Snow White: El Asedio De La Secta Al Estado

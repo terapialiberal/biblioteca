@@ -1,9 +1,10 @@
 ---
 publish: true
-created: 2026-04-29T14:52:50.218-03:00
-modified: 2026-05-02T18:25:13.655-03:00
-tags:
-  - base-de-conocimiento
+titulo: "Blue Origin"
+tipo: "entidad"
+fecha: 2026-04-29
+estado: activo
+tags: [base-de-conocimiento]
 ---
 
 # Blue Origin

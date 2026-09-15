@@ -1,12 +1,14 @@
 ---
 publish: true
-created: 2026-04-29T13:56:36.300-03:00
-modified: 2026-05-02T14:15:48.099-03:00
+tipo: alias
+titulo: Golpe en Irán 1953
+estado: activo
 tags:
   - alias
   - iran
   - operaciones-encubiertas
   - tl-intel-v3
+reemplazado_por: '[[Golpe en Iran 1953]]'
 ---
 
 # Golpe en Irán 1953

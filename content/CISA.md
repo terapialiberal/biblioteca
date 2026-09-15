@@ -1,16 +1,13 @@
 ---
+titulo: CISA
+aliases: ["CISA (Cybersecurity and Infrastructure Security Agency)"]
+tipo: entidad
+fecha: 2026-04-19
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [cisa, ciberseguridad, infraestructura, censura, seguridad-nacional, tl-intel-v3]
 publish: true
-aliases:
-  - CISA (Cybersecurity and Infrastructure Security Agency)
-created: 2026-01-29T19:17:07.755-03:00
-modified: 2026-04-19T12:15:34.227-03:00
-tags:
-  - cisa
-  - ciberseguridad
-  - infraestructura
-  - censura
-  - seguridad-nacional
-  - tl-intel-v3
 ---
 
 # CISA

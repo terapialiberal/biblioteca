@@ -1,13 +1,11 @@
 ---
 publish: true
-created: 2026-02-09T17:49:12.815-03:00
-modified: 2026-04-24T12:25:38.907-03:00
-tags:
-  - moc
-  - cbdc
-  - tokenizacion
-  - rieles-financieros
-  - tl-intel-v3
+titulo: "MOC - Finanzas y CBDC"
+tipo: moc
+fecha: 2026-04-07
+estado: activo
+moc_canonico: [[00_MOC - Base de Conocimiento]]
+tags: [moc, cbdc, tokenizacion, rieles-financieros, tl-intel-v3]
 ---
 
 # MOC - Finanzas y CBDC
@@ -171,11 +169,13 @@ tags:
 
 - [[06_Videos_Publicados/2026/2026-03-17 IRAN_STREAM/00_ARCHIVO_2026-03-17_Iran.md|00_ARCHIVO_2026-03-17_Iran]]
 
-- [[99_AI/08_Guias/00_SISTEMA_06_Videos_Publicados/00_INDICE_CRONOLOGICO_COMPLETO.md|00_INDICE_CRONOLOGICO_COMPLETO]]
+- [[03_Produccion/2026-09-14_El_dia_despues_tiene_duenios/00_CONTROL_TEMA.md|00_CONTROL_TEMA]]
 
-- [[99_AI/05_Memoria_Central/Archives/00_INDICE_CRONOLOGICO_VIDEOS.md|00_INDICE_CRONOLOGICO_VIDEOS]]
+- [[02_Preproduccion/2026-09-14_Compilado_Noticias_TL/00_CONTROL_TEMA.md|00_CONTROL_TEMA]]
 
 - [[00_MOC - Finanzas y CBDC.md|00_MOC - Finanzas y CBDC]]
+
+- [[06_Videos_Publicados/2026/2026-06-10_Fitts_Pulte_Gran_Israel/01_FUENTES/02_Archivo/2026-06-10_Fitts_Pulte_Gran_Israel_Marcadores.md|2026-06-10_Fitts_Pulte_Gran_Israel_Marcadores]]
 
 - [[Ace Greenberg.md|Ace Greenberg]]
 
@@ -283,6 +283,10 @@ tags:
 
 - [[Federico Sturzenegger.md|Federico Sturzenegger]]
 
+- [[03_Produccion/2026-09-14_El_dia_despues_tiene_duenios/FUENTES_MARCADORES_2026-09-14.md|FUENTES_MARCADORES_2026-09-14]]
+
+- [[02_Preproduccion/2026-09-14_Compilado_Noticias_TL/FUENTES_MARCADORES_2026-09-14.md|FUENTES_MARCADORES_2026-09-14]]
+
 - [[G20.md|G20]]
 
 - [[G7.md|G7]]
@@ -315,6 +319,8 @@ tags:
 
 - [[Larry Fink.md|Larry Fink]]
 
+- [[03_Produccion/2026-09-14_El_dia_despues_tiene_duenios/LECTURA_DE_CAMARA_El_dia_despues_tiene_duenios.md|LECTURA_DE_CAMARA_El_dia_despues_tiene_duenios]]
+
 - [[Libra - Diem.md|Libra - Diem]]
 
 - [[Linea de Tiempo - 2010s-2020s.md|Linea de Tiempo - 2010s-2020s]]
@@ -335,6 +341,8 @@ tags:
 
 - [[Monetarismo.md|Monetarismo]]
 
+- [[Mr. Robot (serie).md|Mr. Robot (serie)]]
+
 - [[Narcotráfico.md|Narcotráfico]]
 
 - [[Neoliberalismo.md|Neoliberalismo]]
@@ -343,13 +351,9 @@ tags:
 
 - [[Nodos Lunares en la Economia.md|Nodos Lunares en la Economia]]
 
-- [[02_Preproduccion/2026-06-30_PAX_SILICA_El_Negocio/NOTA_TESIS_AMPLIADA_PAX_SILICA.md|NOTA_TESIS_AMPLIADA_PAX_SILICA]]
-
 - [[06_Videos_Publicados/2026/2026-03-26_El_Reseteo_Perfecto/NOTA_TESIS_El_Reseteo_Perfecto.md|NOTA_TESIS_El_Reseteo_Perfecto]]
 
 - [[06_Videos_Publicados/2026/2026-03-17 IRAN_STREAM/nota-tesis-iran-2026-tablero-completo.md|nota-tesis-iran-2026-tablero-completo]]
-
-- [[06_Videos_Publicados/2026/2026-03-17 IRAN_STREAM/NotaTesis_ConvergenciaFinal_v1.md|NotaTesis_ConvergenciaFinal_v1]]
 
 - [[06_Videos_Publicados/2026/2026-03-17 IRAN_STREAM/NotaTesis_MegaGroup_RedContinuidad_v5.md|NotaTesis_MegaGroup_RedContinuidad_v5]]
 
@@ -383,7 +387,7 @@ tags:
 
 - [[Toto Caputo.md|Toto Caputo]]
 
-- [[02_Preproduccion/2026-04-10_Milei_BlackRock_Elite/TRANSCRIPT_Massa_CBDC_WEF_20231002.md|TRANSCRIPT_Massa_CBDC_WEF_20231002]]
+- [[08_Archivados/2026-04-10_Milei_BlackRock_Elite/TRANSCRIPT_Massa_CBDC_WEF_20231002.md|TRANSCRIPT_Massa_CBDC_WEF_20231002]]
 
 - [[Transmutacion de Metales y CBDCs.md|Transmutacion de Metales y CBDCs]]
 

@@ -1,14 +1,12 @@
 ---
+titulo: El Cloud y el Plano Astral
+tipo: concepto
+fecha: 2026-04-27
+estado: activo
+tags: [cloud, plano-astral, datos, metaverso, simbolismo, tl-intel-v3]
+tier_primario: b
+nivel_evidencia: medio
 publish: true
-created: 2026-02-25T22:08:54.155-03:00
-modified: 2026-04-27T10:56:06.830-03:00
-tags:
-  - cloud
-  - plano-astral
-  - datos
-  - metaverso
-  - simbolismo
-  - tl-intel-v3
 ---
 
 # El Cloud y el Plano Astral

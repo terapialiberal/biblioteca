@@ -1,17 +1,13 @@
 ---
+titulo: Renta Basica Universal
+tipo: concepto
+fecha: 2026-04-22
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: [UBI, Universal Basic Income]
+tags: [renta-basica, ubi, ia, identidad-digital, tecnocracia, tl-intel-v3]
 publish: true
-aliases:
-  - UBI
-  - Universal Basic Income
-created: 2026-01-29T19:17:33.203-03:00
-modified: 2026-04-22T08:52:50.050-03:00
-tags:
-  - renta-basica
-  - ubi
-  - ia
-  - identidad-digital
-  - tecnocracia
-  - tl-intel-v3
 ---
 
 # Renta Basica Universal

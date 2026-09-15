@@ -1,14 +1,12 @@
 ---
+titulo: Hotesur y Los Sauces
+tipo: concepto
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [argentina, kirchnerismo, lavado, obra-publica, hoteles, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:17.445-03:00
-modified: 2026-04-18T11:48:13.305-03:00
-tags:
-  - argentina
-  - kirchnerismo
-  - lavado
-  - obra-publica
-  - hoteles
-  - tl-intel-v3
 ---
 
 # Hotesur y Los Sauces

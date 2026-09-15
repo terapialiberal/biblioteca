@@ -1,15 +1,12 @@
 ---
+titulo: Departamento de Defensa
+tipo: organizacion
+fecha: 2026-04-20
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [departamento-de-defensa, dod, pentagono, defensa, burocracia, contratistas, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:09.993-03:00
-modified: 2026-04-20T09:56:55.861-03:00
-tags:
-  - departamento-de-defensa
-  - dod
-  - pentagono
-  - defensa
-  - burocracia
-  - contratistas
-  - tl-intel-v3
 ---
 
 # Departamento de Defensa

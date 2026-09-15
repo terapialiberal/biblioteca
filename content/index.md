@@ -1,12 +1,10 @@
 ---
 publish: true
-created: 2026-02-25T11:26:39.294-03:00
-modified: 2026-04-21T11:56:11.742-03:00
-tags:
-  - base-de-conocimiento
-  - moc
-  - quartz
-  - tl-intel-v3
+tipo: moc
+titulo: Terapia Liberal - Base de Conocimiento
+fecha: 2026-04-21
+estado: activo
+tags: [base-de-conocimiento, moc, quartz, tl-intel-v3]
 ---
 
 # Terapia Liberal - Base de Conocimiento

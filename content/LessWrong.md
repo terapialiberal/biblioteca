@@ -1,14 +1,10 @@
 ---
 publish: true
-aliases:
-  - LessWrong
-created: 2026-05-01T18:47:21.797-03:00
-modified: 2026-05-02T18:25:42.923-03:00
-tags:
-  - racionalidad
-  - ia
-  - comunidad-online
-  - altruismo-efectivo
+titulo: "LessWrong"
+aliases: ["LessWrong"]
+tags: [racionalidad, ia, comunidad-online, altruismo-efectivo]
+tipo: concepto
+nivel: C
 ---
 
 # LessWrong

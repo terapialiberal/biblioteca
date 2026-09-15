@@ -1,12 +1,14 @@
 ---
 publish: true
-created: 2026-04-29T14:09:22.953-03:00
-modified: 2026-05-02T14:14:29.853-03:00
+tipo: alias
+titulo: Departamento de Seguridad Nacional
+estado: activo
 tags:
   - alias
   - seguridad
   - eeuu
   - tl-intel-v3
+reemplazado_por: '[[DHS (Departamento de Seguridad Nacional)]]'
 ---
 
 # Departamento de Seguridad Nacional

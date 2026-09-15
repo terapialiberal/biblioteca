@@ -1,15 +1,13 @@
 ---
+titulo: Shock Doctrine
+tipo: concepto
+fecha: 2026-04-27
+estado: activo
+aliases: ["Doctrina del Shock"]
+tags: [shock-doctrine, crisis, neoliberalismo, gobernanza, tl-intel-v3]
+tier_primario: b
+nivel_evidencia: medio
 publish: true
-aliases:
-  - Doctrina del Shock
-created: 2026-04-27T10:12:58.095-03:00
-modified: 2026-04-27T10:13:51.974-03:00
-tags:
-  - shock-doctrine
-  - crisis
-  - neoliberalismo
-  - gobernanza
-  - tl-intel-v3
 ---
 
 # Shock Doctrine

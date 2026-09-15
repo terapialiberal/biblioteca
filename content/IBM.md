@@ -1,12 +1,10 @@
 ---
 publish: true
-created: 2026-04-29T14:51:48.423-03:00
-modified: 2026-05-02T18:25:33.617-03:00
-tags:
-  - base-de-conocimiento
-  - ibm
-  - tecnologia
-  - computacion
+titulo: "IBM"
+tipo: "entidad"
+fecha: 2026-04-29
+estado: activo
+tags: [base-de-conocimiento, ibm, tecnologia, computacion]
 ---
 
 # IBM

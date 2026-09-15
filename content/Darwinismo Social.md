@@ -1,15 +1,11 @@
 ---
+titulo: Darwinismo Social
+tipo: concepto
+fecha: 2026-05-02
+estado: activo
+aliases: ["Darwinismo Social (Supervivencia del más fuerte)"]
+tags: [darwinismo-social, ideologia, elite, eugenesia, tl-intel-v3]
 publish: true
-aliases:
-  - Darwinismo Social (Supervivencia del más fuerte)
-created: 2026-05-01T20:42:55.246-03:00
-modified: 2026-05-02T12:51:26.949-03:00
-tags:
-  - darwinismo-social
-  - ideologia
-  - elite
-  - eugenesia
-  - tl-intel-v3
 ---
 
 # Darwinismo Social

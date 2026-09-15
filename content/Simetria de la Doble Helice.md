@@ -1,15 +1,13 @@
 ---
+titulo: Simetria de la Doble Helice
+tipo: concepto
+fecha: 2026-04-27
+estado: activo
+aliases: ["Simetría de la Doble Hélice"]
+tags: [doble-helice, adn, biotecnologia, simbolismo, tl-intel-v3]
+tier_primario: b
+nivel_evidencia: alto
 publish: true
-aliases:
-  - Simetría de la Doble Hélice
-created: 2026-02-25T22:08:57.979-03:00
-modified: 2026-04-27T10:37:57.603-03:00
-tags:
-  - doble-helice
-  - adn
-  - biotecnologia
-  - simbolismo
-  - tl-intel-v3
 ---
 
 # Simetria de la Doble Helice

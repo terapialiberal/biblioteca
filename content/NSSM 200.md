@@ -1,16 +1,13 @@
 ---
+titulo: NSSM 200
+tipo: documento
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["NSSM 200: La Logistica del Exterminio Silencioso"]
+tags: [nssm-200, poblacion, geopolítica, malthusianismo, biopolitica, tl-intel-v3]
 publish: true
-aliases:
-  - "NSSM 200: La Logistica del Exterminio Silencioso"
-created: 2026-01-29T19:17:27.542-03:00
-modified: 2026-04-18T10:52:36.284-03:00
-tags:
-  - nssm-200
-  - poblacion
-  - geopolítica
-  - malthusianismo
-  - biopolitica
-  - tl-intel-v3
 ---
 
 # NSSM 200

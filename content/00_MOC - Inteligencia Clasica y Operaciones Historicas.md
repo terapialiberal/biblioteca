@@ -1,13 +1,11 @@
 ---
 publish: true
-created: 2026-04-21T12:10:53.487-03:00
-modified: 2026-04-22T12:23:45.809-03:00
-tags:
-  - moc
-  - inteligencia
-  - operaciones-encubiertas
-  - guerra-fria
-  - tl-intel-v3
+titulo: "MOC - Inteligencia Clasica y Operaciones Historicas"
+tipo: moc
+fecha: 2026-04-21
+estado: activo
+moc_canonico: [[00_MOC - Base de Conocimiento]]
+tags: [moc, inteligencia, operaciones-encubiertas, guerra-fria, tl-intel-v3]
 ---
 
 # MOC - Inteligencia Clasica y Operaciones Historicas

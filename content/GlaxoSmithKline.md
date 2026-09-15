@@ -1,14 +1,12 @@
 ---
+titulo: GlaxoSmithKline
+tipo: entidad
+fecha: 2026-04-19
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [glaxosmithkline, gsk, big-pharma, vacunas, fraude, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:15.430-03:00
-modified: 2026-04-19T12:59:13.988-03:00
-tags:
-  - glaxosmithkline
-  - gsk
-  - big-pharma
-  - vacunas
-  - fraude
-  - tl-intel-v3
 ---
 
 # GlaxoSmithKline

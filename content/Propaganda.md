@@ -1,13 +1,12 @@
 ---
+titulo: Propaganda
+tipo: concepto
+fecha: 2026-04-27
+estado: activo
+tags: [propaganda, opinion-publica, medios, operaciones-psicologicas, tl-intel-v3]
+tier_primario: b
+nivel_evidencia: alto
 publish: true
-created: 2026-04-27T10:12:58.011-03:00
-modified: 2026-04-27T10:12:58.011-03:00
-tags:
-  - propaganda
-  - opinion-publica
-  - medios
-  - operaciones-psicologicas
-  - tl-intel-v3
 ---
 
 # Propaganda

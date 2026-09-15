@@ -1,14 +1,12 @@
 ---
+titulo: Cambridge Analytica
+tipo: entidad
+fecha: 2026-04-19
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [cambridge-analytica, microtargeting, elecciones, facebook, datos, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:06.278-03:00
-modified: 2026-04-19T12:30:53.423-03:00
-tags:
-  - cambridge-analytica
-  - microtargeting
-  - elecciones
-  - facebook
-  - datos
-  - tl-intel-v3
 ---
 
 # Cambridge Analytica

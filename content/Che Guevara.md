@@ -1,15 +1,11 @@
 ---
+titulo: Che Guevara
+tipo: nodo
+fecha: 2026-05-02
+estado: activo
+aliases: ["Ernesto Che Guevara"]
+tags: [che-guevara, cuba, revolucion, guerrilla, tl-intel-v3]
 publish: true
-aliases:
-  - Ernesto Che Guevara
-created: 2026-04-29T14:05:25.111-03:00
-modified: 2026-05-02T13:01:43.019-03:00
-tags:
-  - che-guevara
-  - cuba
-  - revolucion
-  - guerrilla
-  - tl-intel-v3
 ---
 
 # Che Guevara

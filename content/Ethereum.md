@@ -1,15 +1,11 @@
 ---
+titulo: Ethereum
+tipo: entidad
+fecha: 2026-05-02
+estado: activo
+aliases: ["Ethereum (Blockchain)"]
+tags: [ethereum, cripto, blockchain, smart-contracts, tl-intel-v3]
 publish: true
-aliases:
-  - Ethereum (Blockchain)
-created: 2026-05-01T20:39:01.838-03:00
-modified: 2026-05-02T12:57:07.079-03:00
-tags:
-  - ethereum
-  - cripto
-  - blockchain
-  - smart-contracts
-  - tl-intel-v3
 ---
 
 # Ethereum

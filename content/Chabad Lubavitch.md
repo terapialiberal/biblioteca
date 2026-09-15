@@ -1,12 +1,12 @@
 ---
 publish: true
-created: 2026-01-29T19:17:07.254-03:00
-modified: 2026-05-02T18:24:31.411-03:00
-tags:
-  - benjamin
-  - infraestructura
-  - jared
-  - poder
+titulo: "Chabad Lubavitch: La Infraestructura De Coordinación Del Poder"
+tipo: "persona"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [benjamin, infraestructura, jared, poder]
 ---
 
 # Chabad Lubavitch: La Infraestructura De Coordinación Del Poder

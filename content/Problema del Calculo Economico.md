@@ -1,12 +1,12 @@
 ---
+titulo: "Problema Del Cálculo Económico: La Ceguera Del Leviatán"
+tipo: "concepto"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [clculo, econmico, ludwig, problema]
 publish: true
-created: 2026-01-29T19:17:31.464-03:00
-modified: 2026-05-02T18:25:56.959-03:00
-tags:
-  - clculo
-  - econmico
-  - ludwig
-  - problema
 ---
 
 # Problema Del Cálculo Económico: La Ceguera Del Leviatán

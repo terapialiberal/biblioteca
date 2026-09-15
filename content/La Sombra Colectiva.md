@@ -1,13 +1,12 @@
 ---
+titulo: La Sombra Colectiva
+tipo: concepto
+fecha: 2026-04-27
+estado: activo
+tags: [sombra-colectiva, jung, psicologia-de-masas, propaganda, tl-intel-v3]
+tier_primario: b
+nivel_evidencia: medio
 publish: true
-created: 2026-02-25T22:08:54.529-03:00
-modified: 2026-04-27T10:22:43.490-03:00
-tags:
-  - sombra-colectiva
-  - jung
-  - psicologia-de-masas
-  - propaganda
-  - tl-intel-v3
 ---
 
 # La Sombra Colectiva

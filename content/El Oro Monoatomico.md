@@ -1,18 +1,13 @@
 ---
+titulo: El Oro Monoatomico
+tipo: concepto
+fecha: 2026-04-27
+estado: activo
+aliases: ["El Oro Monoatómico (ORME)", "ORME", "Oro monoatómico"]
+tags: [oro-monoatomico, orme, alquimia, pseudociencia, simbolismo, tl-intel-v3]
+tier_primario: c
+nivel_evidencia: bajo
 publish: true
-aliases:
-  - El Oro Monoatómico (ORME)
-  - ORME
-  - Oro monoatómico
-created: 2026-02-25T22:08:56.754-03:00
-modified: 2026-04-27T10:32:45.882-03:00
-tags:
-  - oro-monoatomico
-  - orme
-  - alquimia
-  - pseudociencia
-  - simbolismo
-  - tl-intel-v3
 ---
 
 # El Oro Monoatomico

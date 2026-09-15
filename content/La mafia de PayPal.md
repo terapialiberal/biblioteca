@@ -1,15 +1,12 @@
 ---
+titulo: La mafia de PayPal
+tipo: alias
+fecha: 2026-04-21
+estado: legacy
+aliases: ["La Mafia de PayPal"]
+reemplazado_por: "[[PayPal Mafia]]"
+tags: [paypal-mafia, alias, legacy, venture-politica, tl-intel-v3]
 publish: true
-aliases:
-  - La Mafia de PayPal
-created: 2026-01-29T19:17:21.331-03:00
-modified: 2026-04-21T11:44:22.422-03:00
-tags:
-  - paypal-mafia
-  - alias
-  - legacy
-  - venture-politica
-  - tl-intel-v3
 ---
 
 # La mafia de PayPal

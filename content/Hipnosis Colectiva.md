@@ -1,14 +1,12 @@
 ---
+titulo: Hipnosis Colectiva
+tipo: concepto
+fecha: 2026-04-27
+estado: activo
+tags: [hipnosis-colectiva, psicologia-de-masas, propaganda, panico-moral, operaciones-psicologicas, tl-intel-v3]
+tier_primario: b
+nivel_evidencia: medio
 publish: true
-created: 2026-02-25T22:08:56.097-03:00
-modified: 2026-04-27T10:09:44.834-03:00
-tags:
-  - hipnosis-colectiva
-  - psicologia-de-masas
-  - propaganda
-  - panico-moral
-  - operaciones-psicologicas
-  - tl-intel-v3
 ---
 
 # Hipnosis Colectiva

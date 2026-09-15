@@ -1,17 +1,14 @@
 ---
+titulo: Acuifero Guarani
 publish: true
-aliases:
-  - Acuifero Guarani
-  - Acuifero Guarani (Argentina)
-created: 2026-01-29T19:17:02.820-03:00
-modified: 2026-04-18T12:15:11.207-03:00
-tags:
-  - acuifero-guarani
-  - agua
-  - recursos
-  - triple-frontera
-  - soberania
-  - tl-intel-v3
+tipo: recurso-estrategico
+fecha: 2026-04-18
+tier_primario: b
+moc_canonico: [[00_MOC - Argentina]]
+estado: activo
+aliases: ["Acuifero Guarani", "Acuifero Guarani (Argentina)"]
+fuentes_clave: []
+tags: [acuifero-guarani, agua, recursos, triple-frontera, soberania, tl-intel-v3]
 ---
 
 # Acuifero Guarani

@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T13:53:52.440-03:00
-modified: 2026-04-29T13:53:52.440-03:00
-tags:
-  - operaciones-encubiertas
-  - propaganda
-  - atribucion
-  - tl-intel-v3
+tipo: concepto
+titulo: Falsa Bandera (False Flag)
+estado: activo
+tags: [operaciones-encubiertas, propaganda, atribucion, tl-intel-v3]
 ---
 
 # Falsa Bandera (False Flag)

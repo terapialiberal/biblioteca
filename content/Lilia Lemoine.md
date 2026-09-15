@@ -1,15 +1,13 @@
 ---
+titulo: Lilia Lemoine
+tipo: persona
+fecha: 2026-04-18
+tier_primario: c
+nivel_evidencia: medio
+estado: activo
+aliases: ["Lilia Lemoine: La Interfaz Estetica De La Anti-Politica"]
+tags: [lilia-lemoine, la-libertad-avanza, guerra-cognitiva, argentina, tl-intel-v3]
 publish: true
-aliases:
-  - "Lilia Lemoine: La Interfaz Estetica De La Anti-Politica"
-created: 2026-01-29T19:17:22.556-03:00
-modified: 2026-04-18T17:55:26.834-03:00
-tags:
-  - lilia-lemoine
-  - la-libertad-avanza
-  - guerra-cognitiva
-  - argentina
-  - tl-intel-v3
 ---
 
 # Lilia Lemoine

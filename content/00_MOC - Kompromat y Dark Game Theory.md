@@ -1,13 +1,11 @@
 ---
 publish: true
-created: 2026-03-01T09:01:58.171-03:00
-modified: 2026-04-21T12:39:51.743-03:00
-tags:
-  - moc
-  - kompromat
-  - dark-game-theory
-  - chantaje
-  - tl-intel-v3
+titulo: "MOC - Kompromat y Dark Game Theory"
+tipo: moc
+fecha: 2026-04-07
+estado: activo
+moc_canonico: [[00_MOC - Base de Conocimiento]]
+tags: [moc, kompromat, dark-game-theory, chantaje, tl-intel-v3]
 ---
 
 # MOC - Kompromat y Dark Game Theory

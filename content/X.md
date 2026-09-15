@@ -1,17 +1,13 @@
 ---
+titulo: X
+tipo: plataforma
+fecha: 2026-04-20
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: [Twitter, X (Twitter)]
+tags: [x, twitter, plataformas, moderacion, opinion-publica, tl-intel-v3]
 publish: true
-aliases:
-  - Twitter
-  - X (Twitter)
-created: 2026-04-20T10:18:59.311-03:00
-modified: 2026-04-20T10:21:52.731-03:00
-tags:
-  - x
-  - twitter
-  - plataformas
-  - moderacion
-  - opinion-publica
-  - tl-intel-v3
 ---
 
 # X

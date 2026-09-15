@@ -1,14 +1,12 @@
 ---
+titulo: Sistema Alimentario
+tipo: concepto
+fecha: 2026-04-19
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [sistema-alimentario, alimentos, cadena-de-valor, agricultura, centralizacion, tl-intel-v3]
 publish: true
-created: 2026-04-19T12:49:49.740-03:00
-modified: 2026-04-21T11:42:06.376-03:00
-tags:
-  - sistema-alimentario
-  - alimentos
-  - cadena-de-valor
-  - agricultura
-  - centralizacion
-  - tl-intel-v3
 ---
 
 # Sistema Alimentario

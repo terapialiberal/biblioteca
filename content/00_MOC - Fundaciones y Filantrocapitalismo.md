@@ -1,13 +1,11 @@
 ---
 publish: true
-created: 2026-04-21T12:07:00.628-03:00
-modified: 2026-04-24T10:46:56.920-03:00
-tags:
-  - moc
-  - fundaciones
-  - filantrocapitalismo
-  - gobernanza
-  - tl-intel-v3
+titulo: "MOC - Fundaciones y Filantrocapitalismo"
+tipo: moc
+fecha: 2026-04-21
+estado: activo
+moc_canonico: [[00_MOC - Base de Conocimiento]]
+tags: [moc, fundaciones, filantrocapitalismo, gobernanza, tl-intel-v3]
 ---
 
 # MOC - Fundaciones y Filantrocapitalismo

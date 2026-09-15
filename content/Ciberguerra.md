@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T13:53:51.005-03:00
-modified: 2026-04-29T13:53:51.005-03:00
-tags:
-  - ciberseguridad
-  - guerra-hibrida
-  - infraestructura-critica
-  - tl-intel-v3
+tipo: concepto
+titulo: Ciberguerra
+estado: activo
+tags: [ciberseguridad, guerra-hibrida, infraestructura-critica, tl-intel-v3]
 ---
 
 # Ciberguerra

@@ -1,15 +1,13 @@
 ---
+titulo: CEPI
+tipo: entidad
+fecha: 2026-04-17
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Coalition for Epidemic Preparedness Innovations"]
+tags: [cepi, vacunas, bioseguridad, preparacion-pandemica, tl-intel-v3]
 publish: true
-aliases:
-  - Coalition for Epidemic Preparedness Innovations
-created: 2026-04-17T17:02:42.793-03:00
-modified: 2026-04-17T20:12:45.593-03:00
-tags:
-  - cepi
-  - vacunas
-  - bioseguridad
-  - preparacion-pandemica
-  - tl-intel-v3
 ---
 
 # CEPI

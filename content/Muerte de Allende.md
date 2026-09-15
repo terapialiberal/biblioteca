@@ -1,12 +1,12 @@
 ---
+titulo: "Muerte De Allende: El Castigo Imperial"
+tipo: "concepto"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [allende, augusto, castigo, henry]
 publish: true
-created: 2026-01-29T19:17:26.042-03:00
-modified: 2026-05-02T18:25:48.310-03:00
-tags:
-  - allende
-  - augusto
-  - castigo
-  - henry
 ---
 
 # Muerte De Allende: El Castigo Imperial

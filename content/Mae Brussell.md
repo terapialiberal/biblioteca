@@ -1,13 +1,12 @@
 ---
+titulo: Mae Brussell
+tipo: persona
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [mae-brussell, parapolitica, investigacion, deep-state, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:23.393-03:00
-modified: 2026-04-18T18:24:43.117-03:00
-tags:
-  - mae-brussell
-  - parapolitica
-  - investigacion
-  - deep-state
-  - tl-intel-v3
 ---
 
 # Mae Brussell

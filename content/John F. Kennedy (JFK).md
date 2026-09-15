@@ -1,14 +1,12 @@
 ---
+titulo: John F. Kennedy (JFK)
+tipo: persona
+fecha: 2026-04-19
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [jfk, john-f-kennedy, estados-unidos, presidencia, cia, tl-intel-v3]
 publish: true
-created: 2026-04-19T13:23:47.435-03:00
-modified: 2026-04-19T13:23:48.472-03:00
-tags:
-  - jfk
-  - john-f-kennedy
-  - estados-unidos
-  - presidencia
-  - cia
-  - tl-intel-v3
 ---
 
 # John F. Kennedy (JFK)

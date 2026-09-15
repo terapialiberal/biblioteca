@@ -1,12 +1,12 @@
 ---
+titulo: "Jack Parsons: El Alquimista De La Era Espacial"
+tipo: "persona"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [aleister, espacial, jack, nasa]
 publish: true
-created: 2026-01-29T19:17:19.093-03:00
-modified: 2026-05-02T18:25:36.274-03:00
-tags:
-  - aleister
-  - espacial
-  - jack
-  - nasa
 ---
 
 # Jack Parsons: El Alquimista De La Era Espacial

@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T13:58:24.616-03:00
-modified: 2026-04-29T13:58:24.616-03:00
-tags:
-  - guerra-cultural
-  - identidad
-  - discurso
-  - tl-intel-v3
+tipo: concepto
+titulo: Wokismo
+estado: activo
+tags: [guerra-cultural, identidad, discurso, tl-intel-v3]
 ---
 
 # Wokismo

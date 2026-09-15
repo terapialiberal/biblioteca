@@ -1,14 +1,12 @@
 ---
+titulo: Familia Lauder
+tipo: entidad
+fecha: 2026-04-20
+tier_primario: a
+nivel_evidencia: medio
+estado: activo
+tags: [familia-lauder, estee-lauder, ronald-lauder, elite-familiar, redes-de-poder, tl-intel-v3]
 publish: true
-created: 2026-04-20T16:56:44.219-03:00
-modified: 2026-04-20T16:56:44.219-03:00
-tags:
-  - familia-lauder
-  - estee-lauder
-  - ronald-lauder
-  - elite-familiar
-  - redes-de-poder
-  - tl-intel-v3
 ---
 
 # Familia Lauder

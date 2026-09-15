@@ -1,9 +1,11 @@
 ---
 publish: true
-created: 2026-04-29T14:51:48.698-03:00
-modified: 2026-05-02T18:25:12.016-03:00
+tipo: entidad
+fecha: 2026-04-29T00:00:00.000Z
+estado: activo
 tags:
   - base-de-conocimiento
+titulo: AP
 ---
 
 # AP

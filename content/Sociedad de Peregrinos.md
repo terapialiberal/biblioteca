@@ -1,15 +1,12 @@
 ---
+titulo: Sociedad de Peregrinos
+tipo: alias
+fecha: 2026-04-21
+estado: legacy
+reemplazado_por: [[The Pilgrims Society]]
+aliases: ["Sociedad de Peregrinos: el Núcleo de la Relación Especial"]
+tags: [alias, legacy, pilgrims-society, atlantismo, tl-intel-v3]
 publish: true
-aliases:
-  - "Sociedad de Peregrinos: el Núcleo de la Relación Especial"
-created: 2026-01-29T19:17:37.411-03:00
-modified: 2026-04-21T12:49:28.344-03:00
-tags:
-  - alias
-  - legacy
-  - pilgrims-society
-  - atlantismo
-  - tl-intel-v3
 ---
 
 # Sociedad de Peregrinos

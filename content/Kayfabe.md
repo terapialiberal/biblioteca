@@ -1,12 +1,12 @@
 ---
+titulo: "Kayfabe Político: La Gestión De La Realidad Simulada"
+tipo: "concepto"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [gestin, kayfabe, panem, simulada]
 publish: true
-created: 2026-01-29T19:17:20.671-03:00
-modified: 2026-05-02T18:25:38.810-03:00
-tags:
-  - gestin
-  - kayfabe
-  - panem
-  - simulada
 ---
 
 # Kayfabe Político: La Gestión De La Realidad Simulada

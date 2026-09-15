@@ -1,15 +1,14 @@
 ---
+titulo: "NXIVM"
 publish: true
-aliases:
-  - Nxivm
-created: 2026-01-29T19:17:27.693-03:00
-modified: 2026-04-07T12:08:12.526-03:00
-tags:
-  - nxivm
-  - colateral
-  - chantaje
-  - cultos
-  - tl-intel-v3
+tipo: concepto
+fecha: 2026-04-07
+tier_primario: B
+moc_canonico: [[00_MOC - Kompromat y Dark Game Theory]]
+estado: activo
+aliases: ["Nxivm"]
+fuentes_clave: []
+tags: [nxivm, colateral, chantaje, cultos, tl-intel-v3]
 ---
 
 # [[NXIVM]]

@@ -1,14 +1,12 @@
 ---
+titulo: Lab-Grown Meat
+tipo: concepto
+fecha: 2026-04-19
+tier_primario: a
+nivel_evidencia: medio
+estado: activo
+tags: [lab-grown-meat, alimentos, biotecnologia, sintetico, centralizacion, tl-intel-v3]
 publish: true
-created: 2026-02-25T15:44:51.382-03:00
-modified: 2026-04-19T12:47:03.746-03:00
-tags:
-  - lab-grown-meat
-  - alimentos
-  - biotecnologia
-  - sintetico
-  - centralizacion
-  - tl-intel-v3
 ---
 
 # Lab-Grown Meat

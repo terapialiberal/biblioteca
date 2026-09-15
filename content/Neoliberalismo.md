@@ -1,15 +1,11 @@
 ---
+titulo: Neoliberalismo
+tipo: concepto
+fecha: 2026-05-02
+estado: activo
+aliases: ["Neoliberalismo (Doctrina Económica)"]
+tags: [neoliberalismo, economia, privatizacion, fmi, tl-intel-v3]
 publish: true
-aliases:
-  - Neoliberalismo (Doctrina Económica)
-created: 2026-01-29T19:17:26.601-03:00
-modified: 2026-05-02T12:51:27.015-03:00
-tags:
-  - neoliberalismo
-  - economia
-  - privatizacion
-  - fmi
-  - tl-intel-v3
 ---
 
 # Neoliberalismo

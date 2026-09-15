@@ -1,17 +1,11 @@
 ---
+titulo: Ali Khamenei
+tipo: persona
+fecha: 2026-04-19
+estado: activo
+aliases: ["Ayatollah Ali Khamenei", "Ali Jamenei"]
+tags: [iran, liderazgo, sucesion, irgc, ormuz, tl-intel-v3]
 publish: true
-aliases:
-  - Ayatollah Ali Khamenei
-  - Ali Jamenei
-created: 2026-01-29T19:17:03.285-03:00
-modified: 2026-04-19T02:39:00.171-03:00
-tags:
-  - iran
-  - liderazgo
-  - sucesion
-  - irgc
-  - ormuz
-  - tl-intel-v3
 ---
 
 # Ali Khamenei

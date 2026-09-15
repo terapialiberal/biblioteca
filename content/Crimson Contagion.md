@@ -1,14 +1,12 @@
 ---
+titulo: Crimson Contagion
+tipo: evento
+fecha: 2026-04-21
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [crimson-contagion, simulacion-pandemia, preparacion-pandemica, respuesta-gubernamental, bioseguridad, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:09.088-03:00
-modified: 2026-04-21T19:00:49.113-03:00
-tags:
-  - crimson-contagion
-  - simulacion-pandemia
-  - preparacion-pandemica
-  - respuesta-gubernamental
-  - bioseguridad
-  - tl-intel-v3
 ---
 
 # Crimson Contagion

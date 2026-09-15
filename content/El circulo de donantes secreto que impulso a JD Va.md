@@ -1,14 +1,12 @@
 ---
+titulo: El circulo de donantes secreto que impulso a JD Vance
+tipo: import
+estado: capturado
+fuente: https://www.washingtonpost.com/technology/2025/11/04/chris-buskirk-maga-vance-post-trump/
+fecha: 2025-11-04
+descripcion: Import crudo sobre la red de donantes y operadores que empujo a JD Vance y busca reconfigurar el futuro de MAGA.
+tags: [maga, jd-vance, donantes, rockbridge, estrategia-politica, financiamiento-politico]
 publish: true
-created: 2026-01-29T19:05:08.986-03:00
-modified: 2026-05-02T18:25:17.600-03:00
-tags:
-  - maga
-  - jd-vance
-  - donantes
-  - rockbridge
-  - estrategia-politica
-  - financiamiento-politico
 ---
 
 # El circulo de donantes secreto que impulso a JD Vance

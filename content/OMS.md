@@ -1,16 +1,11 @@
 ---
+titulo: OMS
+tipo: entidad
+fecha: 2026-05-02
+estado: activo
+aliases: ["WHO", "World Health Organization"]
+tags: [oms, salud-global, onu, pandemia, tl-intel-v3]
 publish: true
-aliases:
-  - WHO
-  - World Health Organization
-created: 2026-05-01T20:13:22.590-03:00
-modified: 2026-05-02T13:46:33.538-03:00
-tags:
-  - oms
-  - salud-global
-  - onu
-  - pandemia
-  - tl-intel-v3
 ---
 
 # OMS

@@ -1,18 +1,13 @@
 ---
+titulo: El Ouroboros
+tipo: concepto
+fecha: 2026-04-27
+estado: activo
+aliases: ["Ouroboros", "Uroboros", "Uróboros"]
+tags: [ouroboros, ciclo, alquimia, simbolismo, esoterismo, tl-intel-v3]
+tier_primario: c
+nivel_evidencia: medio
 publish: true
-aliases:
-  - Ouroboros
-  - Uroboros
-  - Uróboros
-created: 2026-02-25T22:08:56.305-03:00
-modified: 2026-04-27T10:10:22.901-03:00
-tags:
-  - ouroboros
-  - ciclo
-  - alquimia
-  - simbolismo
-  - esoterismo
-  - tl-intel-v3
 ---
 
 # El Ouroboros

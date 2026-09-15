@@ -1,13 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T15:30:54.420-03:00
-modified: 2026-04-29T15:30:54.420-03:00
-tags:
-  - sexualidad
-  - academia
-  - cultura
-  - biopolitica
-  - tl-intel-v3
+tipo: entidad
+titulo: Instituto Kinsey
+estado: activo
+tags: [sexualidad, academia, cultura, biopolitica, tl-intel-v3]
 ---
 
 # Instituto Kinsey

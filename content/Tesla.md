@@ -1,16 +1,11 @@
 ---
+titulo: Tesla
+tipo: nodo
+fecha: 2026-05-02
+estado: activo
+aliases: ["Nikola Tesla", "Nikola Tesla (Inventor)"]
+tags: [tesla, electricidad, energia, inventor, tl-intel-v3]
 publish: true
-aliases:
-  - Nikola Tesla
-  - Nikola Tesla (Inventor)
-created: 2026-05-01T20:17:27.847-03:00
-modified: 2026-05-02T13:43:26.480-03:00
-tags:
-  - tesla
-  - electricidad
-  - energia
-  - inventor
-  - tl-intel-v3
 ---
 
 # Tesla

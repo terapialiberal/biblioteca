@@ -1,14 +1,12 @@
 ---
+titulo: Open Society Foundations
+tipo: entidad
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [osf, george-soros, ong, revoluciones-de-color, governance, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:28.174-03:00
-modified: 2026-04-24T10:46:56.837-03:00
-tags:
-  - osf
-  - george-soros
-  - ong
-  - revoluciones-de-color
-  - governance
-  - tl-intel-v3
 ---
 
 # Open Society Foundations

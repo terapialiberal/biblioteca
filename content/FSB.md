@@ -1,15 +1,11 @@
 ---
+titulo: FSB
+tipo: entidad
+fecha: 2026-05-02
+estado: activo
+aliases: ["Federal Security Service"]
+tags: [fsb, rusia, inteligencia, seguridad, tl-intel-v3]
 publish: true
-aliases:
-  - Federal Security Service
-created: 2026-05-01T20:14:35.449-03:00
-modified: 2026-05-02T13:07:09.027-03:00
-tags:
-  - fsb
-  - rusia
-  - inteligencia
-  - seguridad
-  - tl-intel-v3
 ---
 
 # FSB

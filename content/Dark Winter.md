@@ -1,16 +1,13 @@
 ---
+titulo: Dark Winter
+tipo: evento
+fecha: 2026-04-21
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Dark Winter (Operacion Invierno Oscuro)"]
+tags: [dark-winter, simulacro, bioterrorismo, bioseguridad, estado-de-excepcion, tl-intel-v3]
 publish: true
-aliases:
-  - Dark Winter (Operacion Invierno Oscuro)
-created: 2026-01-29T19:17:09.671-03:00
-modified: 2026-04-21T19:00:49.048-03:00
-tags:
-  - dark-winter
-  - simulacro
-  - bioterrorismo
-  - bioseguridad
-  - estado-de-excepcion
-  - tl-intel-v3
 ---
 
 # Dark Winter

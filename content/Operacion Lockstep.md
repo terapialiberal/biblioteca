@@ -1,16 +1,13 @@
 ---
+titulo: Operacion Lockstep
+tipo: documento
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Operacion Lockstep: El Guion del Control Biosocial", "Lockstep"]
+tags: [lockstep, bioseguridad, prospectiva, control-biosocial, tl-intel-v3]
 publish: true
-aliases:
-  - "Operacion Lockstep: El Guion del Control Biosocial"
-  - Lockstep
-created: 2026-01-29T19:17:28.578-03:00
-modified: 2026-04-18T10:42:31.032-03:00
-tags:
-  - lockstep
-  - bioseguridad
-  - prospectiva
-  - control-biosocial
-  - tl-intel-v3
 ---
 
 # Operacion Lockstep

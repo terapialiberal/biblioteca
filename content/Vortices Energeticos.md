@@ -1,15 +1,13 @@
 ---
+titulo: Vortices Energeticos
+tipo: concepto
+fecha: 2026-04-27
+estado: activo
+aliases: ["Vórtices Energéticos"]
+tags: [vortices-energeticos, lugar-sagrado, turismo-esoterico, simbolismo, tl-intel-v3]
+tier_primario: c
+nivel_evidencia: bajo
 publish: true
-aliases:
-  - Vórtices Energéticos
-created: 2026-02-25T22:08:51.508-03:00
-modified: 2026-04-27T10:52:14.975-03:00
-tags:
-  - vortices-energeticos
-  - lugar-sagrado
-  - turismo-esoterico
-  - simbolismo
-  - tl-intel-v3
 ---
 
 # Vortices Energeticos

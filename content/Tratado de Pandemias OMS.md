@@ -1,17 +1,13 @@
 ---
+titulo: Tratado de Pandemias OMS
+tipo: concepto
+fecha: 2026-04-17
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Tratado de Pandemias", "Tratado de Pandemias de la OMS", "Tratado De Pandemias (OMS)"]
+tags: [tratado-de-pandemias, oms, bioseguridad, soberania, tl-intel-v3]
 publish: true
-aliases:
-  - Tratado de Pandemias
-  - Tratado de Pandemias de la OMS
-  - Tratado De Pandemias (OMS)
-created: 2026-02-25T15:44:39.927-03:00
-modified: 2026-04-22T15:50:31.346-03:00
-tags:
-  - tratado-de-pandemias
-  - oms
-  - bioseguridad
-  - soberania
-  - tl-intel-v3
 ---
 
 # Tratado de Pandemias OMS

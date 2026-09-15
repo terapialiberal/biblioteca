@@ -1,14 +1,12 @@
 ---
+titulo: Comision EAT-Lancet
+tipo: entidad
+fecha: 2026-04-19
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [eat-lancet, alimentacion, dieta, gobernanza, sostenibilidad, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:08.331-03:00
-modified: 2026-04-19T12:52:06.332-03:00
-tags:
-  - eat-lancet
-  - alimentacion
-  - dieta
-  - gobernanza
-  - sostenibilidad
-  - tl-intel-v3
 ---
 
 # Comision EAT-Lancet

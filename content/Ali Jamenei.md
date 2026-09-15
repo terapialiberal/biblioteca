@@ -1,17 +1,12 @@
 ---
+titulo: Ali Jamenei
+tipo: alias
+fecha: 2026-05-02
+estado: legacy
+reemplazado_por: [[Ali Khamenei]]
+aliases: ["Ali Jamenei", "Alí Jamenei", "Ali Khamenei"]
+tags: [alias, legacy, iran, lider-supremo, tl-intel-v3]
 publish: true
-aliases:
-  - Ali Jamenei
-  - Alí Jamenei
-  - Ali Khamenei
-created: 2026-05-01T18:53:37.072-03:00
-modified: 2026-05-02T13:53:10.472-03:00
-tags:
-  - alias
-  - legacy
-  - iran
-  - lider-supremo
-  - tl-intel-v3
 ---
 
 # Ali Jamenei

@@ -1,13 +1,14 @@
 ---
 publish: true
-created: 2026-05-01T17:35:38.541-03:00
-modified: 2026-05-02T18:25:29.042-03:00
+titulo: "GPUs"
 tags:
   - concepto
   - tecnologia
   - ia
   - hardware
   - infraestructura
+tipo: concepto
+fecha: 2026-05-01
 ---
 
 # GPUs

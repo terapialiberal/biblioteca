@@ -1,12 +1,12 @@
 ---
+titulo: "Monopolio De La Violencia: Del Garrote Al Algoritmo"
+tipo: "concepto"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [algoritmo, grupo, monopolio, violencia]
 publish: true
-created: 2026-01-29T19:17:25.736-03:00
-modified: 2026-05-02T18:25:47.918-03:00
-tags:
-  - algoritmo
-  - grupo
-  - monopolio
-  - violencia
 ---
 
 # Monopolio De La Violencia: Del Garrote Al Algoritmo

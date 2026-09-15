@@ -1,12 +1,16 @@
 ---
-publish: true
-created: 2026-01-29T19:17:32.596-03:00
-modified: 2026-04-18T18:34:45.156-03:00
+titulo: Ray Kurzweil
+tipo: persona
+fecha: 2026-04-18
+tier_primario: B
+nivel_evidencia: medio
+estado: activo
 tags:
   - ray-kurzweil
   - transhumanismo
   - singularidad
   - google
+publish: true
 ---
 
 # [[Ray Kurzweil]]

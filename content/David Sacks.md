@@ -1,13 +1,14 @@
 ---
 publish: true
-created: 2026-05-01T17:35:20.644-03:00
-modified: 2026-05-02T18:25:16.257-03:00
+titulo: "David Sacks"
 tags:
   - actor
   - tecnologia
   - venture-capital
   - trump-admin
   - tier-b
+tipo: actor
+fecha: 2026-05-01
 ---
 
 # David Sacks

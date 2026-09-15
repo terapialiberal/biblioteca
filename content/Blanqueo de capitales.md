@@ -1,16 +1,11 @@
 ---
+titulo: Blanqueo de capitales
+tipo: concepto
+fecha: 2026-05-02
+estado: activo
+aliases: ["Lavado de dinero", "Money laundering"]
+tags: [blanqueo, lavado, crimen-financiero, offshore, tl-intel-v3]
 publish: true
-aliases:
-  - Lavado de dinero
-  - Money laundering
-created: 2026-05-01T20:13:04.954-03:00
-modified: 2026-05-02T13:47:16.748-03:00
-tags:
-  - blanqueo
-  - lavado
-  - crimen-financiero
-  - offshore
-  - tl-intel-v3
 ---
 
 # Blanqueo de capitales

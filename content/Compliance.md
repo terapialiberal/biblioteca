@@ -1,14 +1,12 @@
 ---
+titulo: Compliance
+tipo: concepto
+fecha: 2026-04-21
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [compliance, cumplimiento, regulacion, burocracia, control, tl-intel-v3]
 publish: true
-created: 2026-04-21T13:16:51.567-03:00
-modified: 2026-04-22T11:04:52.467-03:00
-tags:
-  - compliance
-  - cumplimiento
-  - regulacion
-  - burocracia
-  - control
-  - tl-intel-v3
 ---
 
 # Compliance

@@ -1,14 +1,12 @@
 ---
+titulo: Allen Dulles
+tipo: persona
+fecha: 2026-04-19
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [allen-dulles, cia, operaciones-encubiertas, guerra-fria, intelligence-establishment, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:03.363-03:00
-modified: 2026-04-22T12:23:44.159-03:00
-tags:
-  - allen-dulles
-  - cia
-  - operaciones-encubiertas
-  - guerra-fria
-  - intelligence-establishment
-  - tl-intel-v3
 ---
 
 # Allen Dulles

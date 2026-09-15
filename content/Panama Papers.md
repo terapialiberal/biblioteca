@@ -1,12 +1,12 @@
 ---
+titulo: "Panama Papers: La Limpieza Selectiva Del Capital"
+tipo: "persona"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [george, limpieza, papers, selectiva]
 publish: true
-created: 2026-01-29T19:17:29.717-03:00
-modified: 2026-05-02T18:25:54.139-03:00
-tags:
-  - george
-  - limpieza
-  - papers
-  - selectiva
 ---
 
 # Panama Papers: La Limpieza Selectiva Del Capital

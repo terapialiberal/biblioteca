@@ -1,17 +1,13 @@
 ---
+titulo: Prieure de Sion
+tipo: mito-moderno
+fecha: 2026-04-27
+estado: activo
+aliases: ["Prieuré de Sion", "Priory of Sion"]
+tags: [prieure-de-sion, mito-moderno, genealogia, esoterismo, desinformacion, tl-intel-v3]
+tier_primario: c
+nivel_evidencia: bajo
 publish: true
-aliases:
-  - Prieuré de Sion
-  - Priory of Sion
-created: 2026-02-25T22:08:56.862-03:00
-modified: 2026-04-27T10:24:14.544-03:00
-tags:
-  - prieure-de-sion
-  - mito-moderno
-  - genealogia
-  - esoterismo
-  - desinformacion
-  - tl-intel-v3
 ---
 
 # Prieure de Sion

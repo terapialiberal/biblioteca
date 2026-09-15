@@ -1,12 +1,12 @@
 ---
+titulo: "John Coleman: El Cartógrafo De La Jerarquía De Los 300"
+tipo: "persona"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [cartgrafo, coleman, comit, instituto]
 publish: true
-created: 2026-01-29T19:17:19.762-03:00
-modified: 2026-05-02T18:25:37.451-03:00
-tags:
-  - cartgrafo
-  - coleman
-  - comit
-  - instituto
 ---
 
 # John Coleman: El Cartógrafo De La Jerarquía De Los 300

@@ -1,17 +1,13 @@
 ---
+titulo: Experimento Milgram
+tipo: concepto
+fecha: 2026-04-27
+estado: activo
+aliases: ["Milgram obedience experiment", "Experimento de obediencia de Milgram"]
+tags: [experimento-milgram, obediencia, autoridad, psicologia-social, operaciones-psicologicas, tl-intel-v3]
+tier_primario: b
+nivel_evidencia: alto
 publish: true
-aliases:
-  - Milgram obedience experiment
-  - Experimento de obediencia de Milgram
-created: 2026-02-25T22:08:55.596-03:00
-modified: 2026-04-27T10:09:16.445-03:00
-tags:
-  - experimento-milgram
-  - obediencia
-  - autoridad
-  - psicologia-social
-  - operaciones-psicologicas
-  - tl-intel-v3
 ---
 
 # Experimento Milgram

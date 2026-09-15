@@ -1,14 +1,11 @@
 ---
+titulo: Xi Jinping
+tipo: nodo
+fecha: 2026-05-02
+estado: activo
+aliases: ["Xi"]
+tags: [xi-jinping, china, partido-comunista-chino, tl-intel-v3]
 publish: true
-aliases:
-  - Xi
-created: 2026-01-29T19:17:44.717-03:00
-modified: 2026-05-02T12:58:38.844-03:00
-tags:
-  - xi-jinping
-  - china
-  - partido-comunista-chino
-  - tl-intel-v3
 ---
 
 # Xi Jinping

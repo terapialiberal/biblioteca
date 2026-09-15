@@ -1,16 +1,13 @@
 ---
+titulo: Lula da Silva
+tipo: persona
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Lula Da Silva: El Gestor Globalista Del Multipolarismo"]
+tags: [lula-da-silva, brasil, brics, foro-de-sao-paulo, politica, tl-intel-v3]
 publish: true
-aliases:
-  - "Lula Da Silva: El Gestor Globalista Del Multipolarismo"
-created: 2026-01-29T19:17:23.131-03:00
-modified: 2026-04-18T18:21:39.075-03:00
-tags:
-  - lula-da-silva
-  - brasil
-  - brics
-  - foro-de-sao-paulo
-  - politica
-  - tl-intel-v3
 ---
 
 # Lula da Silva

@@ -1,13 +1,15 @@
 ---
+titulo: Cables Submarinos El Talón De Aquiles Del Mundo Digital
+descripcion: >-
+link: >-
+https: //www.dw.com/es/cables-submarinos-el-tal%C3%B3n-de-aquiles-del-mundo-digital/a-71450971
+tipo: concepto
+fecha: 2025-01-30T00:00:00.000Z
+usado en: null
+tier: null
+estado: activo
+tags: [cables-submarinos, conectividad-global, internet, seguridad-infraestructura-critica, tecnologia-telecomunicaciones]
 publish: true
-created: 2026-02-06T10:59:25.687-03:00
-modified: 2026-05-02T18:24:27.525-03:00
-tags:
-  - cables-submarinos
-  - conectividad-global
-  - internet
-  - seguridad-infraestructura-critica
-  - tecnologia-telecomunicaciones
 ---
 
 # Cables Submarinos El Talón De Aquiles Del Mundo Digital

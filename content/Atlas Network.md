@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:05:23.238-03:00
-modified: 2026-04-29T14:05:35.082-03:00
-tags:
-  - think-tanks
-  - liberalismo
-  - redes-politicas
-  - tl-intel-v3
+tipo: red
+titulo: Atlas Network
+estado: activo
+tags: [think-tanks, liberalismo, redes-politicas, tl-intel-v3]
 ---
 
 # Atlas Network

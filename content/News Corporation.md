@@ -1,12 +1,12 @@
 ---
+titulo: "News Corporation: El Comando Central De La Dialéctica De Distracción"
+tipo: "entidad"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [central, comando, distraccin, guerra]
 publish: true
-created: 2026-01-29T19:17:26.715-03:00
-modified: 2026-05-02T18:25:49.499-03:00
-tags:
-  - central
-  - comando
-  - distraccin
-  - guerra
 ---
 
 # News Corporation: El Comando Central De La Dialéctica De Distracción

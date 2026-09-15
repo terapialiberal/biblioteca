@@ -1,17 +1,13 @@
 ---
+titulo: Programa PRISM
+tipo: programa
+fecha: 2026-04-21
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["PRISM", "Programa PRISM: El Cordón Umbilical De La Vigilancia"]
+tags: [prism, nsa, vigilancia, big-tech, datos, tl-intel-v3]
 publish: true
-aliases:
-  - PRISM
-  - "Programa PRISM: El Cordón Umbilical De La Vigilancia"
-created: 2026-01-29T19:17:31.580-03:00
-modified: 2026-04-21T13:21:47.375-03:00
-tags:
-  - prism
-  - nsa
-  - vigilancia
-  - big-tech
-  - datos
-  - tl-intel-v3
 ---
 
 # Programa PRISM

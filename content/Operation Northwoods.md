@@ -1,16 +1,12 @@
 ---
+titulo: Operation Northwoods
+tipo: alias
+fecha: 2026-05-02
+estado: legacy
+reemplazado_por: [[Operacion Northwoods]]
+aliases: ["Operation Northwoods", "Operacion Northwoods (False Flag)"]
+tags: [alias, legacy, northwoods, false-flag, tl-intel-v3]
 publish: true
-aliases:
-  - Operation Northwoods
-  - Operacion Northwoods (False Flag)
-created: 2026-05-01T20:39:40.998-03:00
-modified: 2026-05-02T18:16:07.011-03:00
-tags:
-  - alias
-  - legacy
-  - northwoods
-  - false-flag
-  - tl-intel-v3
 ---
 
 # Operation Northwoods

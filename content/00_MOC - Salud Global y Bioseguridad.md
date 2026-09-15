@@ -1,14 +1,11 @@
 ---
 publish: true
-created: 2026-04-22T15:50:22.332-03:00
-modified: 2026-04-22T17:00:24.822-03:00
-tags:
-  - moc
-  - salud-global
-  - bioseguridad
-  - biopolitica
-  - identidad-digital
-  - tl-intel-v3
+titulo: "MOC - Salud Global y Bioseguridad"
+tipo: moc
+fecha: 2026-04-22
+estado: activo
+moc_canonico: [[00_MOC - Base de Conocimiento]]
+tags: [moc, salud-global, bioseguridad, biopolitica, identidad-digital, tl-intel-v3]
 ---
 
 # MOC - Salud Global y Bioseguridad

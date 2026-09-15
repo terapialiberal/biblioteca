@@ -1,15 +1,11 @@
 ---
+titulo: Spykman
+tipo: nodo
+fecha: 2026-05-02
+estado: activo
+aliases: ["Nicholas Spykman"]
+tags: [spykman, rimland, geopolitica, contencion, tl-intel-v3]
 publish: true
-aliases:
-  - Nicholas Spykman
-created: 2026-05-01T20:16:39.070-03:00
-modified: 2026-05-02T13:44:42.130-03:00
-tags:
-  - spykman
-  - rimland
-  - geopolitica
-  - contencion
-  - tl-intel-v3
 ---
 
 # Spykman

@@ -1,16 +1,11 @@
 ---
+titulo: Circle
+tipo: entidad
+fecha: 2026-05-02
+estado: activo
+aliases: ["Circle (USDC)", "USDC"]
+tags: [circle, usdc, stablecoin, treasuries, tl-intel-v3]
 publish: true
-aliases:
-  - Circle (USDC)
-  - USDC
-created: 2026-05-01T20:38:59.490-03:00
-modified: 2026-05-02T12:57:07.251-03:00
-tags:
-  - circle
-  - usdc
-  - stablecoin
-  - treasuries
-  - tl-intel-v3
 ---
 
 # Circle

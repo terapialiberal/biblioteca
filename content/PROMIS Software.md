@@ -1,14 +1,12 @@
 ---
+titulo: PROMIS Software
+tipo: programa
+fecha: 2026-04-19
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [promis-software, inslaw, vigilancia, backdoor, inteligencia, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:31.768-03:00
-modified: 2026-04-22T11:28:48.925-03:00
-tags:
-  - promis-software
-  - inslaw
-  - vigilancia
-  - backdoor
-  - inteligencia
-  - tl-intel-v3
 ---
 
 # PROMIS Software

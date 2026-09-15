@@ -1,13 +1,12 @@
 ---
+titulo: Fractalidad de la Deuda
+tipo: patron
+fecha: 2026-04-27
+estado: activo
+tags: [fractalidad-deuda, deuda, sistema-financiero, dependencia, tl-intel-v3]
+tier_primario: a
+nivel_evidencia: medio
 publish: true
-created: 2026-02-25T22:08:57.719-03:00
-modified: 2026-04-27T10:32:49.755-03:00
-tags:
-  - fractalidad-deuda
-  - deuda
-  - sistema-financiero
-  - dependencia
-  - tl-intel-v3
 ---
 
 # Fractalidad de la Deuda

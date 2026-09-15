@@ -1,14 +1,10 @@
 ---
 publish: true
-aliases:
-  - Caída de Roma
-created: 2026-05-01T19:11:17.922-03:00
-modified: 2026-05-02T18:25:14.491-03:00
-tags:
-  - concepto
-  - historia
-  - imperio
-  - colapso
+titulo: "Caída de Roma"
+aliases: ["Caída de Roma"]
+tags: [concepto, historia, imperio, colapso]
+tipo: concepto
+nivel: C
 ---
 
 # Caída de Roma

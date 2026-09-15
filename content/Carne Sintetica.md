@@ -1,13 +1,17 @@
 ---
-publish: true
-created: 2026-01-29T19:17:06.572-03:00
-modified: 2026-05-02T18:24:29.291-03:00
+titulo: Carne Sintetica
+tipo: alias
+fecha: 2026-04-19T00:00:00.000Z
+alias_de: Lab-Grown Meat
+estado: activo
 tags:
   - alias
   - carne-sintetica
   - lab-grown-meat
   - naming-legacy
   - tl-intel-v3
+publish: true
+reemplazado_por: '[[Lab-Grown Meat]]'
 ---
 
 # Carne Sintetica

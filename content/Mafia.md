@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T13:56:36.833-03:00
-modified: 2026-04-29T13:56:36.833-03:00
-tags:
-  - crimen-organizado
-  - poder-informal
-  - redes
-  - tl-intel-v3
+tipo: concepto
+titulo: Mafia
+estado: activo
+tags: [crimen-organizado, poder-informal, redes, tl-intel-v3]
 ---
 
 # Mafia

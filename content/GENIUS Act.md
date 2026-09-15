@@ -1,14 +1,12 @@
 ---
+titulo: GENIUS Act
+tipo: concepto
+fecha: 2026-04-22
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [genius-act, stablecoins, dolar, rails, regulacion, tl-intel-v3]
 publish: true
-created: 2026-04-22T10:31:46.605-03:00
-modified: 2026-04-22T10:31:46.605-03:00
-tags:
-  - genius-act
-  - stablecoins
-  - dolar
-  - rails
-  - regulacion
-  - tl-intel-v3
 ---
 
 # GENIUS Act

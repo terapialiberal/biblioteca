@@ -1,12 +1,12 @@
 ---
+titulo: "Jim Baker: El Comisario De La Puerta Giratoria"
+tipo: "persona"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [baker, comisario, puerta, twitter]
 publish: true
-created: 2026-01-29T19:17:19.640-03:00
-modified: 2026-05-02T18:25:37.205-03:00
-tags:
-  - baker
-  - comisario
-  - puerta
-  - twitter
 ---
 
 # Jim Baker: El Comisario De La Puerta Giratoria

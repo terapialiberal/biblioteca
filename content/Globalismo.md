@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:13:04.729-03:00
-modified: 2026-04-29T14:13:26.613-03:00
-tags:
-  - gobernanza-global
-  - ideologia
-  - soberania
-  - tl-intel-v3
+tipo: concepto
+titulo: Globalismo
+estado: activo
+tags: [gobernanza-global, ideologia, soberania, tl-intel-v3]
 ---
 
 # Globalismo

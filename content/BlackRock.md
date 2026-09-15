@@ -76,4 +76,4 @@ El ajuste importante es este: en la base viva BlackRock conviene leerlo menos co
 
 ## Casos relacionados
 
-- [[06_Videos_Publicados/2026/2026-03-26_El_Reseteo_Perfecto/POSTMORTEM_INTEL|El Reseteo Perfecto]] (26 mar 2026) — BUIDL, RWA, tokenización como posicionamiento ante shock Ormuz. Fink/BlackRock no son observadores: el timing de RWA es señal de posicionamiento.
+- [[06_Videos_Publicados/2026/2026-07-13_Graham_BigThree_Ankara/POSTMORTEM_INTEL|Graham / Big Three / Ankara]] (17 jul 2026) — BlackRock como pieza del supra-bloque: dueño cruzado de Lockheed/RTX/Northrop + MSFT/AMZN/GOOG (~25% votos EEUU), y primera gestora occidental 100% propia en China (2021). Cobra el toll de Ormuz sin elegir bando. Trump Accounts gestionadas por Big Three (CNBC 1-2 jul). DTCC \$114T on-chain (piloto jul-2026) es la tubería que BlackRock ya operó en TALF 2008.

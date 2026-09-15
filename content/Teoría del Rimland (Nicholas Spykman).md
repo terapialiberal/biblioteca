@@ -1,12 +1,14 @@
 ---
 publish: true
-created: 2026-04-29T13:58:24.459-03:00
-modified: 2026-05-02T14:14:52.143-03:00
+tipo: alias
+titulo: Teoría del Rimland (Nicholas Spykman)
+estado: activo
 tags:
   - alias
   - geostrategia
   - spykman
   - tl-intel-v3
+reemplazado_por: '[[Teoria del Rimland]]'
 ---
 
 # Teoría del Rimland (Nicholas Spykman)

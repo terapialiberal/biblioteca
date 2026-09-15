@@ -1,13 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:44:31.502-03:00
-modified: 2026-04-29T14:44:44.060-03:00
-tags:
-  - cultura
-  - wokeismo
-  - control-narrativo
-  - politica-identitaria
-  - tl-intel-v3
+tipo: concepto
+titulo: Ideologia Woke
+estado: activo
+tags: [cultura, wokeismo, control-narrativo, politica-identitaria, tl-intel-v3]
 ---
 
 # Ideologia Woke

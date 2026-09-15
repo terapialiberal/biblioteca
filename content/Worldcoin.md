@@ -1,16 +1,13 @@
 ---
+titulo: Worldcoin
+tipo: proyecto
+fecha: 2026-04-17
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Worldcoin (Orb)", "The Orb"]
+tags: [worldcoin, biometria, proof-of-personhood, identidad-digital, tl-intel-v3]
 publish: true
-aliases:
-  - Worldcoin (Orb)
-  - The Orb
-created: 2026-01-29T19:17:44.636-03:00
-modified: 2026-04-22T16:54:54.709-03:00
-tags:
-  - worldcoin
-  - biometria
-  - proof-of-personhood
-  - identidad-digital
-  - tl-intel-v3
 ---
 
 # Worldcoin

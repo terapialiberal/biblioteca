@@ -1,15 +1,11 @@
 ---
+titulo: Nuevo Orden Mundial
+tipo: concepto
+fecha: 2026-05-02
+estado: activo
+aliases: ["NWO", "Nuevo Orden Mundial (Concepto)"]
+tags: [nuevo-orden-mundial, gobernanza-global, hegemonia, tl-intel-v3]
 publish: true
-aliases:
-  - NWO
-  - Nuevo Orden Mundial (Concepto)
-created: 2026-04-29T14:44:31.152-03:00
-modified: 2026-05-02T12:50:43.316-03:00
-tags:
-  - nuevo-orden-mundial
-  - gobernanza-global
-  - hegemonia
-  - tl-intel-v3
 ---
 
 # Nuevo Orden Mundial

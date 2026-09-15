@@ -1,14 +1,12 @@
 ---
+titulo: Alex Carp
+tipo: alias
+fecha: 2026-05-02
+estado: legacy
+reemplazado_por: [[Alex Karp]]
+aliases: ["Alex Carp"]
+tags: [alias, legacy, palantir, tl-intel-v3]
 publish: true
-aliases:
-  - Alex Carp
-created: 2026-05-01T18:53:16.913-03:00
-modified: 2026-05-02T13:55:28.703-03:00
-tags:
-  - alias
-  - legacy
-  - palantir
-  - tl-intel-v3
 ---
 
 # Alex Carp

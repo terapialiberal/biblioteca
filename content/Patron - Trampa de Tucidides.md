@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-02-28T15:13:33.681-03:00
-modified: 2026-04-07T11:50:11.502-03:00
-tags:
-  - patrones
-  - geopolítica
-  - trampa-de-tucidides
-  - tl-v3
+tipo: concepto
+titulo: "Patrón - Trampa de Tucídides"
+estado: procesado
+tags: [patrones, geopolítica, trampa-de-tucidides, tl-v3]
 ---
 
 # [[Patrón - Trampa de Tucídides]]

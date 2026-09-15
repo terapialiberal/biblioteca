@@ -1,15 +1,13 @@
 ---
+titulo: El Laberinto de Chartres
+tipo: concepto
+fecha: 2026-04-27
+estado: activo
+aliases: ["Laberinto de Chartres"]
+tags: [laberinto-chartres, arquitectura-sacra, peregrinacion, simbolismo, tl-intel-v3]
+tier_primario: c
+nivel_evidencia: alto
 publish: true
-aliases:
-  - Laberinto de Chartres
-created: 2026-02-25T22:08:57.928-03:00
-modified: 2026-04-27T10:31:31.830-03:00
-tags:
-  - laberinto-chartres
-  - arquitectura-sacra
-  - peregrinacion
-  - simbolismo
-  - tl-intel-v3
 ---
 
 # El Laberinto de Chartres

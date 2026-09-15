@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T13:34:41.067-03:00
-modified: 2026-04-29T13:34:58.327-03:00
-tags:
-  - concepto
-  - identidad-digital
-  - vigilancia
-  - tl-intel-v3
+tipo: concepto
+titulo: Biometría Global
+estado: activo
+tags: [concepto, identidad-digital, vigilancia, tl-intel-v3]
 ---
 
 # Biometría Global

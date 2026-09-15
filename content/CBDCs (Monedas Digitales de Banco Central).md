@@ -1,12 +1,14 @@
 ---
 publish: true
-created: 2026-04-29T14:05:24.977-03:00
-modified: 2026-05-02T14:18:12.282-03:00
+tipo: alias
+titulo: CBDCs (Monedas Digitales de Banco Central)
+estado: activo
 tags:
   - alias
   - cbdc
   - dinero-programable
   - tl-intel-v3
+reemplazado_por: '[[CBDC]]'
 ---
 
 # CBDCs (Monedas Digitales de Banco Central)

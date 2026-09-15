@@ -1,16 +1,13 @@
 ---
+titulo: Social Credit West
+tipo: concepto
+fecha: 2026-04-17
+tier_primario: a
+nivel_evidencia: medio
+estado: activo
+aliases: ["Credito Social Occidental"]
+tags: [credito-social, scoring, debanking, identidad-digital, tecnocracia, tl-intel-v3]
 publish: true
-aliases:
-  - Credito Social Occidental
-created: 2026-02-25T16:10:42.672-03:00
-modified: 2026-04-22T16:47:01.362-03:00
-tags:
-  - credito-social
-  - scoring
-  - debanking
-  - identidad-digital
-  - tecnocracia
-  - tl-intel-v3
 ---
 
 # Social Credit West

@@ -2,13 +2,14 @@
 publish: true
 aliases:
   - ADNOC
-created: 2026-05-01T19:12:21.181-03:00
-modified: 2026-05-02T18:25:10.760-03:00
 tags:
   - empresa
   - petroleo
   - emiratos-arabes
   - energia
+tipo: empresa
+nivel: A
+titulo: ADNOC
 ---
 
 # ADNOC

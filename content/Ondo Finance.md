@@ -1,14 +1,12 @@
 ---
+titulo: Ondo Finance
+tipo: entidad
+fecha: 2026-04-19
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [ondo-finance, rwa, tokenizacion, treasuries, defi, tl-intel-v3]
 publish: true
-created: 2026-02-25T13:55:13.964-03:00
-modified: 2026-04-19T13:15:44.526-03:00
-tags:
-  - ondo-finance
-  - rwa
-  - tokenizacion
-  - treasuries
-  - defi
-  - tl-intel-v3
 ---
 
 # Ondo Finance

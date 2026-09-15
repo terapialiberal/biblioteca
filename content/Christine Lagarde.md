@@ -1,14 +1,12 @@
 ---
+titulo: Christine Lagarde
+tipo: persona
+fecha: 2026-04-24
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [lagarde, bce, fmi, europa, cbdc, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:07.617-03:00
-modified: 2026-04-24T12:22:54.404-03:00
-tags:
-  - lagarde
-  - bce
-  - fmi
-  - europa
-  - cbdc
-  - tl-intel-v3
 ---
 
 # Christine Lagarde

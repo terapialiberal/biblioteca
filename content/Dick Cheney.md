@@ -1,14 +1,12 @@
 ---
+titulo: Dick Cheney
+tipo: persona
+fecha: 2026-04-21
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [dick-cheney, guerra-de-irak, halliburton, ejecutivo, neocon, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:10.254-03:00
-modified: 2026-04-21T13:03:53.223-03:00
-tags:
-  - dick-cheney
-  - guerra-de-irak
-  - halliburton
-  - ejecutivo
-  - neocon
-  - tl-intel-v3
 ---
 
 # Dick Cheney

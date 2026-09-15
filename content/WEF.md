@@ -1,17 +1,13 @@
 ---
+titulo: WEF
+tipo: entidad
+fecha: 2026-04-21
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["World Economic Forum", "Foro Economico Mundial"]
+tags: [wef, davos, gobernanza, tecnocracia, young-global-leaders, tl-intel-v3]
 publish: true
-aliases:
-  - World Economic Forum
-  - Foro Economico Mundial
-created: 2026-01-29T19:17:44.121-03:00
-modified: 2026-04-21T20:10:50.873-03:00
-tags:
-  - wef
-  - davos
-  - gobernanza
-  - tecnocracia
-  - young-global-leaders
-  - tl-intel-v3
 ---
 
 # WEF

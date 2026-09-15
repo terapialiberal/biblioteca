@@ -1,15 +1,11 @@
 ---
+titulo: Malcolm X
+tipo: nodo
+fecha: 2026-05-02
+estado: activo
+aliases: ["Malcolm X (Activista)"]
+tags: [malcolm-x, derechos-civiles, islam, asesinato, tl-intel-v3]
 publish: true
-aliases:
-  - Malcolm X (Activista)
-created: 2026-05-01T20:40:20.457-03:00
-modified: 2026-05-02T13:02:21.993-03:00
-tags:
-  - malcolm-x
-  - derechos-civiles
-  - islam
-  - asesinato
-  - tl-intel-v3
 ---
 
 # Malcolm X

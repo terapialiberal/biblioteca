@@ -1,12 +1,12 @@
 ---
+titulo: Resumen General
+tipo: "persona"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [cabinete, kash, trump, tulsi]
 publish: true
-created: 2026-01-29T19:17:06.219-03:00
-modified: 2026-05-02T18:24:27.476-03:00
-tags:
-  - cabinete
-  - kash
-  - trump
-  - tulsi
 ---
 
 # Resumen General

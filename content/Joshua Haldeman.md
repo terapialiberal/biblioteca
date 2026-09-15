@@ -1,12 +1,12 @@
 ---
+titulo: "Joshua Haldeman: El Semillero Del Gobierno De Los Expertos"
+tipo: "persona"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [elon, expertos, gobierno, haldeman]
 publish: true
-created: 2026-01-29T19:17:20.212-03:00
-modified: 2026-05-02T18:25:38.189-03:00
-tags:
-  - elon
-  - expertos
-  - gobierno
-  - haldeman
 ---
 
 # Joshua Haldeman: El Semillero Del Gobierno De Los Expertos

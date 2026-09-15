@@ -1,19 +1,13 @@
 ---
+titulo: Comite Church
+tipo: entidad
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Comité Church", "Church Committee", "Comite Church (Evento)"]
+tags: [church-committee, inteligencia, oversight, cia, nsa, limited-hangout, tl-intel-v3]
 publish: true
-aliases:
-  - Comité Church
-  - Church Committee
-  - Comite Church (Evento)
-created: 2026-01-29T19:17:08.385-03:00
-modified: 2026-04-22T11:28:49.621-03:00
-tags:
-  - church-committee
-  - inteligencia
-  - oversight
-  - cia
-  - nsa
-  - limited-hangout
-  - tl-intel-v3
 ---
 
 # Comite Church

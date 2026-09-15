@@ -1,14 +1,10 @@
 ---
 publish: true
-aliases:
-  - Caso Santiago Maldonado
-created: 2026-05-01T20:11:18.717-03:00
-modified: 2026-05-02T18:25:15.005-03:00
-tags:
-  - evento
-  - argentina
-  - mapuches
-  - desaparicion
+titulo: "Caso Santiago Maldonado"
+aliases: ["Caso Santiago Maldonado"]
+tags: [evento, argentina, mapuches, desaparicion]
+tipo: evento
+nivel: C
 ---
 
 # Caso Santiago Maldonado

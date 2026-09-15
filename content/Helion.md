@@ -1,13 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:44:31.223-03:00
-modified: 2026-04-29T14:45:34.092-03:00
-tags:
-  - energia
-  - fusion
-  - ia
-  - infraestructura
-  - tl-intel-v3
+tipo: entidad
+titulo: Helion
+estado: activo
+tags: [energia, fusion, ia, infraestructura, tl-intel-v3]
 ---
 
 # Helion

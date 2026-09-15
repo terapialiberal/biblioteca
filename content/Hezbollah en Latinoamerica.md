@@ -1,14 +1,12 @@
 ---
+titulo: Hezbollah en Latinoamerica
+tipo: red-transnacional
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [hezbollah, iran, latinoamerica, triple-frontera, inteligencia, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:17.078-03:00
-modified: 2026-04-18T12:32:11.384-03:00
-tags:
-  - hezbollah
-  - iran
-  - latinoamerica
-  - triple-frontera
-  - inteligencia
-  - tl-intel-v3
 ---
 
 # Hezbollah en Latinoamerica

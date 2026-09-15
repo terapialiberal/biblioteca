@@ -1,12 +1,12 @@
 ---
+titulo: "Laboratorios Bagó: La Arquidiócesis De La Sanidad Protegida"
+tipo: "entidad"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [arquidicesis, cilfa, pami, protegida]
 publish: true
-created: 2026-01-29T19:17:21.681-03:00
-modified: 2026-05-02T18:25:41.593-03:00
-tags:
-  - arquidicesis
-  - cilfa
-  - pami
-  - protegida
 ---
 
 # Laboratorios Bagó: La Arquidiócesis De La Sanidad Protegida

@@ -1,13 +1,11 @@
 ---
 publish: true
-created: 2026-02-25T22:08:08.998-03:00
-modified: 2026-04-21T12:48:20.063-03:00
-tags:
-  - moc
-  - simbolismo
-  - esoterismo
-  - redes-discretas
-  - tl-intel-v3
+titulo: "MOC - Simbolismo y Esoterismo"
+tipo: moc
+fecha: 2026-04-21
+estado: activo
+moc_canonico: [[00_MOC - Base de Conocimiento]]
+tags: [moc, simbolismo, esoterismo, redes-discretas, tl-intel-v3]
 ---
 
 # MOC - Simbolismo y Esoterismo

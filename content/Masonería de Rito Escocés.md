@@ -1,12 +1,14 @@
 ---
 publish: true
-created: 2026-04-29T13:56:36.933-03:00
-modified: 2026-05-02T14:15:52.191-03:00
+tipo: alias
+titulo: Masonería de Rito Escocés
+estado: activo
 tags:
   - alias
   - masoneria
   - redes-iniciaticas
   - tl-intel-v3
+reemplazado_por: '[[Masoneria de Rito Escoces]]'
 ---
 
 # Masonería de Rito Escocés

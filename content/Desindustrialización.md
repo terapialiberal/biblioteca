@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:09:24.576-03:00
-modified: 2026-04-29T14:09:43.825-03:00
-tags:
-  - industria
-  - globalizacion
-  - economia-politica
-  - tl-intel-v3
+tipo: concepto
+titulo: Desindustrialización
+estado: activo
+tags: [industria, globalizacion, economia-politica, tl-intel-v3]
 ---
 
 # Desindustrialización

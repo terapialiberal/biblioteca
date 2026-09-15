@@ -1,12 +1,12 @@
 ---
+titulo: "Klaus Barbie: El Mercenario De La Sangre Del Estado Profundo"
+tipo: "persona"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [estado, klaus, profundo, proyecto]
 publish: true
-created: 2026-01-29T19:17:20.767-03:00
-modified: 2026-05-02T18:25:39.310-03:00
-tags:
-  - estado
-  - klaus
-  - profundo
-  - proyecto
 ---
 
 # Klaus Barbie: El Mercenario De La Sangre Del Estado Profundo

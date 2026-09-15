@@ -1,14 +1,12 @@
 ---
+titulo: Antartida Argentina
+tipo: territorio-estrategico
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [antartida, argentina, malvinas, tratado-antartico, soberania, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:03.712-03:00
-modified: 2026-04-18T12:15:59.672-03:00
-tags:
-  - antartida
-  - argentina
-  - malvinas
-  - tratado-antartico
-  - soberania
-  - tl-intel-v3
 ---
 
 # Antartida Argentina

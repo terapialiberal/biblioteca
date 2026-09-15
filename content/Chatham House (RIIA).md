@@ -1,14 +1,12 @@
 ---
+titulo: Chatham House (RIIA)
+tipo: entidad
+fecha: 2026-04-21
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [chatham-house, riia, think-tank, atlantismo, reino-unido, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:07.411-03:00
-modified: 2026-04-21T12:25:58.513-03:00
-tags:
-  - chatham-house
-  - riia
-  - think-tank
-  - atlantismo
-  - reino-unido
-  - tl-intel-v3
 ---
 
 # Chatham House (RIIA)

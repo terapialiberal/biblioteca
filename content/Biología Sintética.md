@@ -1,15 +1,11 @@
 ---
+titulo: Biología Sintética
+tipo: concepto
+fecha: 2026-05-02
+estado: activo
+aliases: ["Biologia Sintetica", "Synthetic Biology"]
+tags: [biologia-sintetica, biotecnologia, bioseguridad, tl-intel-v3]
 publish: true
-aliases:
-  - Biologia Sintetica
-  - Synthetic Biology
-created: 2026-05-01T20:11:13.607-03:00
-modified: 2026-05-02T13:47:17.022-03:00
-tags:
-  - biologia-sintetica
-  - biotecnologia
-  - bioseguridad
-  - tl-intel-v3
 ---
 
 # Biología Sintética

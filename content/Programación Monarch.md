@@ -1,12 +1,14 @@
 ---
 publish: true
-created: 2026-04-29T13:58:23.757-03:00
-modified: 2026-05-02T14:13:31.401-03:00
+tipo: alias
+titulo: Programación Monarch
+estado: activo
 tags:
   - alias
   - control-mental
   - simbologia
   - tl-intel-v3
+reemplazado_por: '[[Programacion Monarch]]'
 ---
 
 # Programación Monarch

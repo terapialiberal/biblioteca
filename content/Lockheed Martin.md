@@ -1,15 +1,13 @@
 ---
+titulo: Lockheed Martin
+tipo: entidad
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Lockheed Martin: El Martillo Del Complejo Militar-Industrial"]
+tags: [lockheed-martin, defensa, complejo-militar-industrial, contratistas, tl-intel-v3]
 publish: true
-aliases:
-  - "Lockheed Martin: El Martillo Del Complejo Militar-Industrial"
-created: 2026-01-29T19:17:22.799-03:00
-modified: 2026-04-22T10:54:16.780-03:00
-tags:
-  - lockheed-martin
-  - defensa
-  - complejo-militar-industrial
-  - contratistas
-  - tl-intel-v3
 ---
 
 # Lockheed Martin

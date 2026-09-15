@@ -1,12 +1,12 @@
 ---
+titulo: "Julian Huxley: El Diseñador Del Ganado Humano Global"
+tipo: "persona"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [diseador, ganado, humano, julian]
 publish: true
-created: 2026-01-29T19:17:20.456-03:00
-modified: 2026-05-02T18:25:38.441-03:00
-tags:
-  - diseador
-  - ganado
-  - humano
-  - julian
 ---
 
 # Julian Huxley: El Diseñador Del Ganado Humano Global

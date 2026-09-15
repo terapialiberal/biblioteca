@@ -1,14 +1,13 @@
 ---
+titulo: Donald Trump
+tipo: persona
+fecha: 2026-04-20
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [donald-trump, maga, republicanos, deep-state, facciones, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:10.546-03:00
-modified: 2026-05-27T10:17:16.680-03:00
-tags:
-  - donald-trump
-  - maga
-  - republicanos
-  - deep-state
-  - facciones
-  - tl-intel-v3
+last_stream: "[[06_Videos_Publicados/2026/2026-05-26_La_Trampa_de_Ormuz/00_ARCHIVO_2026-05-26_La_Trampa_de_Ormuz|ARCHIVO: La Trampa de Ormuz]]"
 ---
 
 # Donald Trump
@@ -52,3 +51,7 @@ Trump sirve para leer como una personalidad hipermediatica puede funcionar a la 
 - [[Facciones MAGA]]
 - [[CIA]]
 - [[Complejo Militar-Industrial]]
+
+## Casos relacionados
+
+- [[06_Videos_Publicados/2026/2026-07-13_Graham_BigThree_Ankara/POSTMORTEM_INTEL|Graham / Big Three / Ankara]] (17 jul 2026) — Trump como cara del toll de Ormuz: frase \[08:45] "we are going to be reimbursed for protection" codifica el peaje como modelo de negocios. La red \$781M (WSJ) detrás de su segundo mandato conecta con el supra-bloque Big Three (el "dinero misterioso que impulsa" el segundo mandato, vivo \[70:56]). Trump Accounts gestionadas por Big Three = captura del ahorro ciudadano.

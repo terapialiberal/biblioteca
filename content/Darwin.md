@@ -1,15 +1,11 @@
 ---
+titulo: Darwin
+tipo: nodo
+fecha: 2026-05-02
+estado: activo
+aliases: ["Charles Darwin"]
+tags: [darwin, evolucion, biologia, darwinismo-social, tl-intel-v3]
 publish: true
-aliases:
-  - Charles Darwin
-created: 2026-05-01T20:17:25.340-03:00
-modified: 2026-05-02T13:44:01.497-03:00
-tags:
-  - darwin
-  - evolucion
-  - biologia
-  - darwinismo-social
-  - tl-intel-v3
 ---
 
 # Darwin

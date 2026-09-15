@@ -1,15 +1,11 @@
 ---
+titulo: Corea del Norte
+tipo: nodo
+fecha: 2026-05-02
+estado: activo
+aliases: ["Corea del Norte (Régimen)"]
+tags: [corea-del-norte, nuclear, asia, china, tl-intel-v3]
 publish: true
-aliases:
-  - Corea del Norte (Régimen)
-created: 2026-05-01T20:43:21.641-03:00
-modified: 2026-05-02T13:01:00.942-03:00
-tags:
-  - corea-del-norte
-  - nuclear
-  - asia
-  - china
-  - tl-intel-v3
 ---
 
 # Corea del Norte

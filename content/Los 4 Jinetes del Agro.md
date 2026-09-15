@@ -1,17 +1,13 @@
 ---
+titulo: Los 4 Jinetes del Agro
+tipo: concepto
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Los 4 Jinetes Del Agro (Cartel ABCD)", "Cartel ABCD"]
+tags: [abcd, agro, commodities, alimentacion, cartel, tl-intel-v3]
 publish: true
-aliases:
-  - Los 4 Jinetes Del Agro (Cartel ABCD)
-  - Cartel ABCD
-created: 2026-01-29T19:17:22.923-03:00
-modified: 2026-04-18T18:08:05.064-03:00
-tags:
-  - abcd
-  - agro
-  - commodities
-  - alimentacion
-  - cartel
-  - tl-intel-v3
 ---
 
 # Los 4 Jinetes del Agro

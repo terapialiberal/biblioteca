@@ -1,14 +1,12 @@
 ---
+titulo: Clearstream
+tipo: entidad
+fecha: 2026-04-22
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [clearstream, clearing, custodia, luxemburgo, colateral, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:07.901-03:00
-modified: 2026-04-22T16:50:10.984-03:00
-tags:
-  - clearstream
-  - clearing
-  - custodia
-  - luxemburgo
-  - colateral
-  - tl-intel-v3
 ---
 
 # Clearstream

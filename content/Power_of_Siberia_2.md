@@ -1,18 +1,13 @@
 ---
+titulo: Power of Siberia 2
+tipo: infraestructura
+fecha: 2026-05-26
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Power of Siberia 2", "PoS2"]
+tags: [power-of-siberia-2, rusia, china, energia, gas, bypass, tl-intel-v3]
 publish: true
-aliases:
-  - Power of Siberia 2
-  - PoS2
-created: 2026-05-26T12:30:01.765-03:00
-modified: 2026-06-11T14:29:00.209-03:00
-tags:
-  - power-of-siberia-2
-  - rusia
-  - china
-  - energia
-  - gas
-  - bypass
-  - tl-intel-v3
 ---
 
 # Power of Siberia 2

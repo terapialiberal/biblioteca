@@ -1,16 +1,13 @@
 ---
+titulo: YPF
+tipo: entidad
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["YPF (Yacimientos Petrolíferos Fiscales)"]
+tags: [argentina, energia, petroleo, ypf, vaca-muerta, tl-intel-v3]
 publish: true
-aliases:
-  - YPF (Yacimientos Petrolíferos Fiscales)
-created: 2026-01-29T19:17:44.920-03:00
-modified: 2026-04-18T12:08:11.349-03:00
-tags:
-  - argentina
-  - energia
-  - petroleo
-  - ypf
-  - vaca-muerta
-  - tl-intel-v3
 ---
 
 # YPF

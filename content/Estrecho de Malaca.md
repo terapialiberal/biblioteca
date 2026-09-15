@@ -1,17 +1,13 @@
 ---
+titulo: Estrecho de Malaca
+tipo: nodo
+fecha: 2026-05-02
+tier_primario: b
+nivel_evidencia: alto
+estado: activo
+aliases: ["Malaca", "Estrecho de Malaca (Geopolítica)"]
+tags: [malaca, chokepoint, china, comercio, rimland, tl-intel-v3]
 publish: true
-aliases:
-  - Malaca
-  - Estrecho de Malaca (Geopolítica)
-created: 2026-02-09T17:21:50.678-03:00
-modified: 2026-05-26T12:30:06.297-03:00
-tags:
-  - malaca
-  - chokepoint
-  - china
-  - comercio
-  - rimland
-  - tl-intel-v3
 ---
 
 # Estrecho de Malaca
@@ -44,3 +40,10 @@ La hipótesis operativa no exige guerra abierta. Basta con seguros, ejercicios n
 - [[Proyecto mBridge]]
 - [[Desdolarizacion]]
 - [[00_MOC - Rimland]]
+
+## Caso 2026-09-09\_Compilado\_Noticias\_TL (2026-09-11)
+
+- **Malaca pasa a primer plano.** En el compilado del live del 10-09-2026, el operador ubica Malaca por encima de Ormuz en la jerarquia de chokepoints en disputa: "la clave de la cuestion es el estrecho de Malaca" \[25:54]. Ref: `03_Produccion/2026-09-09_Compilado_Noticias_TL/transcripcion.md`.
+- **Colapso normativo declarado por los dueños de las flotas.** El grupo consultivo maritimo (Grecia, Singapur, Dinamarca, Japon, Canada, Reino Unido, Paises Bajos, Corea del Sur) emitio su primera declaracion publica en mas de 60 años: "las reglas globales de navegacion estan colapsando" (Financial Times, 2026-09). Ref: https://www.ft.com/content/c6517e52-b855-487c-8408-7071936cf3b0
+- **Conexion nueva:** la "gobernanza tecnocratica de corredores" que el caso documenta en Gaza/Ormuz tambien se propone para Malaca (hub administrado por tecnocratas supraestatales) — refuerza el patron global de H-02.
+- Ficha completa: `03_Produccion/2026-09-09_Compilado_Noticias_TL/POSTMORTEM_INTEL.md`

@@ -1,14 +1,12 @@
 ---
+titulo: Tecnicas de Control Mental
+tipo: concepto
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [control-mental, condicionamiento, trauma, dopamina, guerra-cognitiva, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:41.881-03:00
-modified: 2026-04-18T18:17:08.220-03:00
-tags:
-  - control-mental
-  - condicionamiento
-  - trauma
-  - dopamina
-  - guerra-cognitiva
-  - tl-intel-v3
 ---
 
 # Tecnicas de Control Mental

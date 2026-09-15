@@ -1,12 +1,10 @@
 ---
 publish: true
-created: 2026-04-29T14:51:45.362-03:00
-modified: 2026-05-02T18:25:15.973-03:00
-tags:
-  - base-de-conocimiento
-  - corea-del-sur
-  - semiconductores
-  - indo-pacifico
+titulo: "Corea del Sur"
+tipo: "entidad"
+fecha: 2026-04-29
+estado: activo
+tags: [base-de-conocimiento, corea-del-sur, semiconductores, indo-pacifico]
 ---
 
 # Corea del Sur

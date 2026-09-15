@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:05:24.547-03:00
-modified: 2026-04-29T14:05:36.751-03:00
-tags:
-  - consultoria
-  - management
-  - tecnocracia
-  - tl-intel-v3
+tipo: actor
+titulo: BCG
+estado: activo
+tags: [consultoria, management, tecnocracia, tl-intel-v3]
 ---
 
 # BCG

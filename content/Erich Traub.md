@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:09:26.575-03:00
-modified: 2026-04-29T14:09:46.623-03:00
-tags:
-  - bioseguridad
-  - nazismo
-  - guerra-biologica
-  - tl-intel-v3
+tipo: actor
+titulo: Erich Traub
+estado: activo
+tags: [bioseguridad, nazismo, guerra-biologica, tl-intel-v3]
 ---
 
 # Erich Traub

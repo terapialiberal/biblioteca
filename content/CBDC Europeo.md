@@ -1,13 +1,13 @@
 ---
+titulo: CBDC Europeo
+tipo: concepto
+fecha: 2026-04-19
+tier_primario: a
+nivel_evidencia: medio
+estado: activo
+moc_canonico: [[00_MOC - Finanzas y CBDC]]
+tags: [cbdc-europeo, euro-digital, bce, dinero-programable, tl-intel-v3]
 publish: true
-created: 2026-02-25T14:13:18.100-03:00
-modified: 2026-04-24T12:19:57.626-03:00
-tags:
-  - cbdc-europeo
-  - euro-digital
-  - bce
-  - dinero-programable
-  - tl-intel-v3
 ---
 
 # CBDC Europeo

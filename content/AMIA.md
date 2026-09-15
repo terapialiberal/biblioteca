@@ -1,17 +1,13 @@
 ---
+titulo: AMIA
+tipo: atentado-caso
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Atentado a la AMIA", "AMIA (Pista Siria)"]
+tags: [amia, argentina, atentado, inteligencia, justicia, tl-intel-v3]
 publish: true
-aliases:
-  - Atentado a la AMIA
-  - AMIA (Pista Siria)
-created: 2026-01-29T19:17:03.441-03:00
-modified: 2026-04-18T12:32:11.310-03:00
-tags:
-  - amia
-  - argentina
-  - atentado
-  - inteligencia
-  - justicia
-  - tl-intel-v3
 ---
 
 # AMIA

@@ -1,15 +1,11 @@
 ---
+titulo: Citigroup
+tipo: entidad
+fecha: 2026-05-02
+estado: activo
+aliases: ["Citi"]
+tags: [citigroup, banca, wall-street, global, tl-intel-v3]
 publish: true
-aliases:
-  - Citi
-created: 2026-01-29T19:17:07.800-03:00
-modified: 2026-05-02T13:06:23.357-03:00
-tags:
-  - citigroup
-  - banca
-  - wall-street
-  - global
-  - tl-intel-v3
 ---
 
 # Citigroup

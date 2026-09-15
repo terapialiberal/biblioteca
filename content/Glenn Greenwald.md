@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:13:04.174-03:00
-modified: 2026-04-29T14:13:26.335-03:00
-tags:
-  - periodismo
-  - snowden
-  - vigilancia
-  - tl-intel-v3
+tipo: actor
+titulo: Glenn Greenwald
+estado: activo
+tags: [periodismo, snowden, vigilancia, tl-intel-v3]
 ---
 
 # Glenn Greenwald

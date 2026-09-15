@@ -1,16 +1,11 @@
 ---
+titulo: AWS
+tipo: nodo
+fecha: 2026-05-02
+estado: activo
+aliases: ["Amazon Web Services", "Amazon Web Services (AWS)"]
+tags: [aws, amazon, cloud, infraestructura, tl-intel-v3]
 publish: true
-aliases:
-  - Amazon Web Services
-  - Amazon Web Services (AWS)
-created: 2026-05-01T18:54:28.734-03:00
-modified: 2026-05-02T13:53:10.699-03:00
-tags:
-  - aws
-  - amazon
-  - cloud
-  - infraestructura
-  - tl-intel-v3
 ---
 
 # AWS

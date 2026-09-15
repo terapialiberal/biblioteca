@@ -1,12 +1,13 @@
 ---
 publish: true
-created: 2026-05-01T17:35:32.282-03:00
-modified: 2026-05-02T18:26:15.721-03:00
+titulo: "Victoria's Secret"
 tags:
   - entidad
   - epstein
   - moda
   - les-wexner
+tipo: entidad
+fecha: 2026-05-01
 ---
 
 # Victoria's Secret

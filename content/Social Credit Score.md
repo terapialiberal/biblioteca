@@ -1,16 +1,11 @@
 ---
+titulo: Social Credit Score
+tipo: concepto
+fecha: 2026-05-02
+estado: activo
+aliases: ["Crédito Social", "Sistema de Crédito Social Chino"]
+tags: [social-credit-score, vigilancia, china, scoring, tl-intel-v3]
 publish: true
-aliases:
-  - Crédito Social
-  - Sistema de Crédito Social Chino
-created: 2026-05-01T20:42:37.063-03:00
-modified: 2026-05-02T12:50:43.696-03:00
-tags:
-  - social-credit-score
-  - vigilancia
-  - china
-  - scoring
-  - tl-intel-v3
 ---
 
 # Social Credit Score

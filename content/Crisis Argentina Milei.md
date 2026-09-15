@@ -1,14 +1,12 @@
 ---
+titulo: Crisis Argentina Milei
+tipo: evento
+fecha: 2026-04-24
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [argentina, milei, ajuste, crisis, oficialismo, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:09.106-03:00
-modified: 2026-04-24T12:13:39.986-03:00
-tags:
-  - argentina
-  - milei
-  - ajuste
-  - crisis
-  - oficialismo
-  - tl-intel-v3
 ---
 
 # Crisis Argentina Milei

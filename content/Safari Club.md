@@ -1,15 +1,11 @@
 ---
+titulo: Safari Club
+tipo: red
+fecha: 2026-05-02
+estado: activo
+aliases: ["Safari Club (Red de Inteligencia)"]
+tags: [safari-club, inteligencia, arabia-saudita, cia, tl-intel-v3]
 publish: true
-aliases:
-  - Safari Club (Red de Inteligencia)
-created: 2026-05-01T20:39:30.351-03:00
-modified: 2026-05-02T12:56:15.887-03:00
-tags:
-  - safari-club
-  - inteligencia
-  - arabia-saudita
-  - cia
-  - tl-intel-v3
 ---
 
 # Safari Club

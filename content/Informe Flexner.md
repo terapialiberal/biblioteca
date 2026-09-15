@@ -1,16 +1,13 @@
 ---
+titulo: Informe Flexner
+tipo: documento
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Informe Flexner (1910)"]
+tags: [informe-flexner, medicina, educacion-medica, ama, rockefeller, tl-intel-v3]
 publish: true
-aliases:
-  - Informe Flexner (1910)
-created: 2026-01-29T19:17:18.407-03:00
-modified: 2026-04-18T10:51:13.190-03:00
-tags:
-  - informe-flexner
-  - medicina
-  - educacion-medica
-  - ama
-  - rockefeller
-  - tl-intel-v3
 ---
 
 # Informe Flexner

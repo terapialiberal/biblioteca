@@ -1,15 +1,11 @@
 ---
+titulo: Trump
+tipo: nodo
+fecha: 2026-05-02
+estado: activo
+aliases: ["Donald Trump"]
+tags: [trump, maga, eeuu, populismo, tl-intel-v3]
 publish: true
-aliases:
-  - Donald Trump
-created: 2026-05-01T17:35:00.881-03:00
-modified: 2026-05-02T12:58:38.785-03:00
-tags:
-  - trump
-  - maga
-  - eeuu
-  - populismo
-  - tl-intel-v3
 ---
 
 # Trump

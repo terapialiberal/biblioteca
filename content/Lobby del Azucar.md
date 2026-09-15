@@ -1,16 +1,13 @@
 ---
+titulo: Lobby del Azucar
+tipo: concepto
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Lobby Del Azucar (Big Sugar): El Fraude Nutricional Del Siglo"]
+tags: [azucar, nutricion, lobby, salud-publica, captura-cientifica, tl-intel-v3]
 publish: true
-aliases:
-  - "Lobby Del Azucar (Big Sugar): El Fraude Nutricional Del Siglo"
-created: 2026-01-29T19:17:22.741-03:00
-modified: 2026-04-18T18:02:37.397-03:00
-tags:
-  - azucar
-  - nutricion
-  - lobby
-  - salud-publica
-  - captura-cientifica
-  - tl-intel-v3
 ---
 
 # Lobby del Azucar

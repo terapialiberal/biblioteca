@@ -1,12 +1,12 @@
 ---
+titulo: "La Laptop De Hunter Biden: El Registro De La Decadencia Oligárquica"
+tipo: "concepto"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [biden, burisma, decadencia, twitter]
 publish: true
-created: 2026-01-29T19:17:21.310-03:00
-modified: 2026-05-02T18:25:40.873-03:00
-tags:
-  - biden
-  - burisma
-  - decadencia
-  - twitter
 ---
 
 # La Laptop De Hunter Biden: El Registro De La Decadencia Oligárquica

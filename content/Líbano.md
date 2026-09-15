@@ -1,16 +1,11 @@
 ---
+titulo: Líbano
+tipo: nodo
+fecha: 2026-05-02
+estado: activo
+aliases: ["Libano", "Líbano (Crisis)"]
+tags: [libano, hezbollah, medio-oriente, crisis, tl-intel-v3]
 publish: true
-aliases:
-  - Libano
-  - Líbano (Crisis)
-created: 2026-04-29T15:32:16.346-03:00
-modified: 2026-05-02T12:51:59.360-03:00
-tags:
-  - libano
-  - hezbollah
-  - medio-oriente
-  - crisis
-  - tl-intel-v3
 ---
 
 # Líbano

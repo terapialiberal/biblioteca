@@ -1,12 +1,12 @@
 ---
+titulo: "Obsolescencia Programada: La Ingeniería De La Escasez Forzada"
+tipo: "persona"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [apple, escasez, forzada, programada]
 publish: true
-created: 2026-01-29T19:17:27.778-03:00
-modified: 2026-05-02T18:25:50.741-03:00
-tags:
-  - apple
-  - escasez
-  - forzada
-  - programada
 ---
 
 # Obsolescencia Programada: La Ingeniería De La Escasez Forzada

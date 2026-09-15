@@ -1,16 +1,13 @@
 ---
+titulo: Psicologia de Masas
+tipo: concepto
+fecha: 2026-04-27
+estado: activo
+aliases: ["Psicología de Masas", "Mass psychology"]
+tags: [psicologia-de-masas, propaganda, opinion-publica, operaciones-psicologicas, tl-intel-v3]
+tier_primario: b
+nivel_evidencia: alto
 publish: true
-aliases:
-  - Psicología de Masas
-  - Mass psychology
-created: 2026-04-27T10:12:09.980-03:00
-modified: 2026-04-27T10:12:09.980-03:00
-tags:
-  - psicologia-de-masas
-  - propaganda
-  - opinion-publica
-  - operaciones-psicologicas
-  - tl-intel-v3
 ---
 
 # Psicologia de Masas

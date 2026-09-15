@@ -1,15 +1,11 @@
 ---
+titulo: Schwab
+tipo: nodo
+fecha: 2026-05-02
+estado: activo
+aliases: ["Klaus Schwab"]
+tags: [schwab, wef, davos, gran-reinicio, tl-intel-v3]
 publish: true
-aliases:
-  - Klaus Schwab
-created: 2026-05-01T20:16:18.914-03:00
-modified: 2026-05-02T13:45:17.589-03:00
-tags:
-  - schwab
-  - wef
-  - davos
-  - gran-reinicio
-  - tl-intel-v3
 ---
 
 # Schwab

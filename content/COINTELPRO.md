@@ -1,15 +1,11 @@
 ---
+titulo: COINTELPRO
+tipo: operacion
+fecha: 2026-05-02
+estado: activo
+aliases: ["COINTELPRO (FBI)"]
+tags: [cointelpro, fbi, contrainteligencia, disidencia, tl-intel-v3]
 publish: true
-aliases:
-  - COINTELPRO (FBI)
-created: 2026-01-29T19:17:08.151-03:00
-modified: 2026-05-02T12:56:15.400-03:00
-tags:
-  - cointelpro
-  - fbi
-  - contrainteligencia
-  - disidencia
-  - tl-intel-v3
 ---
 
 # COINTELPRO

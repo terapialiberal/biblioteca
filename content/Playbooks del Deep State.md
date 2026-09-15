@@ -1,12 +1,12 @@
 ---
+titulo: "Playbooks Del Deep State: El Manual De La Matrix"
+tipo: "concepto"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [deep, matrix, palantir, state]
 publish: true
-created: 2026-01-29T19:17:30.894-03:00
-modified: 2026-05-02T18:25:55.897-03:00
-tags:
-  - deep
-  - matrix
-  - palantir
-  - state
 ---
 
 # Playbooks Del Deep State: El Manual De La Matrix

@@ -1,16 +1,13 @@
 ---
+titulo: Rennes-le-Chateau
+tipo: concepto
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Rennes-le-Château"]
+tags: [rennes-le-chateau, esoterismo, simbolismo, francia, linajes, tl-intel-v3]
 publish: true
-aliases:
-  - Rennes-le-Château
-created: 2026-02-25T22:08:55.255-03:00
-modified: 2026-04-18T18:17:08.334-03:00
-tags:
-  - rennes-le-chateau
-  - esoterismo
-  - simbolismo
-  - francia
-  - linajes
-  - tl-intel-v3
 ---
 
 # Rennes-le-Chateau

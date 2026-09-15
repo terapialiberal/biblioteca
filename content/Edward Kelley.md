@@ -1,14 +1,12 @@
 ---
+titulo: Edward Kelley
+tipo: persona
+fecha: 2026-04-27
+estado: activo
+tags: [edward-kelley, john-dee, enoquiano, alquimia, ocultismo, tl-intel-v3]
+tier_primario: c
+nivel_evidencia: medio
 publish: true
-created: 2026-02-25T22:08:54.826-03:00
-modified: 2026-04-27T10:22:07.577-03:00
-tags:
-  - edward-kelley
-  - john-dee
-  - enoquiano
-  - alquimia
-  - ocultismo
-  - tl-intel-v3
 ---
 
 # Edward Kelley

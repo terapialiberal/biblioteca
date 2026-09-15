@@ -1,15 +1,10 @@
 ---
 publish: true
-aliases:
-  - Banco Popular de China
-  - PBOC
-  - People's Bank of China
-created: 2026-05-01T18:52:51.379-03:00
-modified: 2026-05-02T18:25:12.670-03:00
-tags:
-  - banco-central
-  - china
-  - yuan
+titulo: "Banco Popular de China"
+aliases: ["Banco Popular de China", "PBOC", "People's Bank of China"]
+tags: [banco-central, china, yuan]
+tipo: institucion
+nivel: A
 ---
 
 # Banco Popular de China

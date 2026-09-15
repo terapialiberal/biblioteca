@@ -1,14 +1,10 @@
 ---
 publish: true
-aliases:
-  - Barbara Bush
-created: 2026-05-01T19:12:42.051-03:00
-modified: 2026-05-02T18:25:12.725-03:00
-tags:
-  - actor
-  - dinastia
-  - eeuu
-  - bush
+titulo: "Barbara Bush"
+aliases: ["Barbara Bush"]
+tags: [actor, dinastia, eeuu, bush]
+tipo: actor
+nivel: C
 ---
 
 # Barbara Bush

@@ -1,15 +1,13 @@
 ---
+titulo: Lusitania
+tipo: evento
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Lusitania: El Sacrificio Necesario Para La Guerra"]
+tags: [lusitania, primera-guerra-mundial, falsa-bandera-pasiva, jp-morgan, tl-intel-v3]
 publish: true
-aliases:
-  - "Lusitania: El Sacrificio Necesario Para La Guerra"
-created: 2026-01-29T19:17:23.157-03:00
-modified: 2026-04-18T18:24:42.834-03:00
-tags:
-  - lusitania
-  - primera-guerra-mundial
-  - falsa-bandera-pasiva
-  - jp-morgan
-  - tl-intel-v3
 ---
 
 # Lusitania

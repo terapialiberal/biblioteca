@@ -1,12 +1,12 @@
 ---
+titulo: "Plan Andinia: El Arca De Noé De La Patagonia"
+tipo: "evento"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [arca, guerra, patagonia, theodore]
 publish: true
-created: 2026-01-29T19:17:30.700-03:00
-modified: 2026-05-02T18:25:55.687-03:00
-tags:
-  - arca
-  - guerra
-  - patagonia
-  - theodore
 ---
 
 # Plan Andinia: El Arca De Noé De La Patagonia

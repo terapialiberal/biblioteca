@@ -1,15 +1,11 @@
 ---
+titulo: Burbuja Inmobiliaria
+tipo: concepto
+fecha: 2026-05-02
+estado: activo
+aliases: ["Burbuja Inmobiliaria"]
+tags: [burbuja-inmobiliaria, vivienda, credito, crisis, tl-intel-v3]
 publish: true
-aliases:
-  - Burbuja Inmobiliaria
-created: 2026-05-01T20:11:05.315-03:00
-modified: 2026-05-02T13:47:17.069-03:00
-tags:
-  - burbuja-inmobiliaria
-  - vivienda
-  - credito
-  - crisis
-  - tl-intel-v3
 ---
 
 # Burbuja Inmobiliaria

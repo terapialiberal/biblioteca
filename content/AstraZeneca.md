@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T13:53:50.680-03:00
-modified: 2026-04-29T13:53:50.680-03:00
-tags:
-  - big-pharma
-  - biotecnologia
-  - salud-publica
-  - tl-intel-v3
+tipo: actor
+titulo: AstraZeneca
+estado: activo
+tags: [big-pharma, biotecnologia, salud-publica, tl-intel-v3]
 ---
 
 # AstraZeneca

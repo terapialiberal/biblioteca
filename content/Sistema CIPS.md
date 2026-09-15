@@ -1,17 +1,13 @@
 ---
+titulo: Sistema CIPS
+tipo: infraestructura
+fecha: 2026-04-22
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["CIPS", "Cross-Border Interbank Payment System"]
+tags: [cips, china, pagos-transfronterizos, yuan, desdolarizacion, tl-intel-v3]
 publish: true
-aliases:
-  - CIPS
-  - Cross-Border Interbank Payment System
-created: 2026-01-29T19:17:37.014-03:00
-modified: 2026-04-22T09:59:43.570-03:00
-tags:
-  - cips
-  - china
-  - pagos-transfronterizos
-  - yuan
-  - desdolarizacion
-  - tl-intel-v3
 ---
 
 # Sistema CIPS

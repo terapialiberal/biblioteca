@@ -1,16 +1,13 @@
 ---
+titulo: Maximo Kirchner
+tipo: persona
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Máximo Kirchner"]
+tags: [argentina, kirchnerismo, campora, maximo, dinastia, tl-intel-v3]
 publish: true
-aliases:
-  - Máximo Kirchner
-created: 2026-01-29T19:17:26.195-03:00
-modified: 2026-04-18T11:50:10.740-03:00
-tags:
-  - argentina
-  - kirchnerismo
-  - campora
-  - maximo
-  - dinastia
-  - tl-intel-v3
 ---
 
 # Maximo Kirchner

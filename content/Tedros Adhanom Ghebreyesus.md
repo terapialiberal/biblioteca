@@ -1,17 +1,13 @@
 ---
+titulo: Tedros Adhanom Ghebreyesus
+tipo: entidad
+fecha: 2026-04-21
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Tedros", "Dr. Tedros"]
+tags: [tedros, who, oms, salud-global, bioseguridad, tl-intel-v3]
 publish: true
-aliases:
-  - Tedros
-  - Dr. Tedros
-created: 2026-04-21T11:35:26.028-03:00
-modified: 2026-04-22T16:07:44.816-03:00
-tags:
-  - tedros
-  - who
-  - oms
-  - salud-global
-  - bioseguridad
-  - tl-intel-v3
 ---
 
 # Tedros Adhanom Ghebreyesus

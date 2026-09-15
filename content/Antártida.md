@@ -1,17 +1,13 @@
 ---
+titulo: Antártida
+tipo: nodo
+fecha: 2026-05-02
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Antartida", "Antártida (Tratado y Recursos)"]
+tags: [antartida, recursos, tratado-antartico, argentina, geopolitica, tl-intel-v3]
 publish: true
-aliases:
-  - Antartida
-  - Antártida (Tratado y Recursos)
-created: 2026-05-01T20:45:11.434-03:00
-modified: 2026-05-02T12:42:17.629-03:00
-tags:
-  - antartida
-  - recursos
-  - tratado-antartico
-  - argentina
-  - geopolitica
-  - tl-intel-v3
 ---
 
 # Antártida

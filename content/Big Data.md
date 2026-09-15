@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:05:24.580-03:00
-modified: 2026-04-29T14:05:36.710-03:00
-tags:
-  - datos
-  - vigilancia
-  - plataformas
-  - tl-intel-v3
+tipo: concepto
+titulo: Big Data
+estado: activo
+tags: [datos, vigilancia, plataformas, tl-intel-v3]
 ---
 
 # Big Data

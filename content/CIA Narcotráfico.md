@@ -1,16 +1,11 @@
 ---
+titulo: CIA Narcotráfico
+tipo: concepto
+fecha: 2026-05-02
+estado: activo
+aliases: ["CIA Narcotrafico", "CIA y Narcotráfico"]
+tags: [cia, narcotrafico, inteligencia, crimen, tl-intel-v3]
 publish: true
-aliases:
-  - CIA Narcotrafico
-  - CIA y Narcotráfico
-created: 2026-04-27T11:52:22.033-03:00
-modified: 2026-05-02T12:56:15.192-03:00
-tags:
-  - cia
-  - narcotrafico
-  - inteligencia
-  - crimen
-  - tl-intel-v3
 ---
 
 # CIA Narcotráfico

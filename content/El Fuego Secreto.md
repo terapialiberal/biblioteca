@@ -1,14 +1,12 @@
 ---
+titulo: El Fuego Secreto
+tipo: concepto
+fecha: 2026-04-27
+estado: activo
+tags: [fuego-secreto, alquimia, energia, iniciacion, simbolismo, tl-intel-v3]
+tier_primario: c
+nivel_evidencia: medio
 publish: true
-created: 2026-02-25T22:08:53.206-03:00
-modified: 2026-04-27T10:22:07.740-03:00
-tags:
-  - fuego-secreto
-  - alquimia
-  - energia
-  - iniciacion
-  - simbolismo
-  - tl-intel-v3
 ---
 
 # El Fuego Secreto

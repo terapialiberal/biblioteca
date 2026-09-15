@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:09:26.277-03:00
-modified: 2026-04-29T14:09:46.634-03:00
-tags:
-  - eeuu
-  - elecciones
-  - legitimidad
-  - tl-intel-v3
+tipo: evento
+titulo: Elecciones EE.UU. 2020
+estado: activo
+tags: [eeuu, elecciones, legitimidad, tl-intel-v3]
 ---
 
 # Elecciones EE.UU. 2020

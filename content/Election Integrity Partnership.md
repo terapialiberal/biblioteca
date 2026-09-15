@@ -1,16 +1,13 @@
 ---
+titulo: Election Integrity Partnership
+aliases: ["Election Integrity Partnership (EIP)"]
+tipo: entidad
+fecha: 2026-04-19
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [eip, elecciones, censura, cisa, plataformas, tl-intel-v3]
 publish: true
-aliases:
-  - Election Integrity Partnership (EIP)
-created: 2026-01-29T19:17:11.707-03:00
-modified: 2026-04-19T12:28:59.207-03:00
-tags:
-  - eip
-  - elecciones
-  - censura
-  - cisa
-  - plataformas
-  - tl-intel-v3
 ---
 
 # Election Integrity Partnership

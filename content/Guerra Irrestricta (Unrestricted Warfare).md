@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:13:10.560-03:00
-modified: 2026-04-29T14:13:28.617-03:00
-tags:
-  - china
-  - guerra-hibrida
-  - estrategia
-  - tl-intel-v3
+tipo: concepto
+titulo: Guerra Irrestricta (Unrestricted Warfare)
+estado: activo
+tags: [china, guerra-hibrida, estrategia, tl-intel-v3]
 ---
 
 # Guerra Irrestricta (Unrestricted Warfare)

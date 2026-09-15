@@ -1,14 +1,12 @@
 ---
+titulo: Prometeo y el Transhumanismo
+tipo: concepto
+fecha: 2026-04-21
+tier_primario: b
+nivel_evidencia: bajo
+estado: activo
+tags: [prometeo, transhumanismo, mito, simbolismo, tecnocultura, tl-intel-v3]
 publish: true
-created: 2026-02-25T22:28:04.008-03:00
-modified: 2026-04-21T12:24:11.864-03:00
-tags:
-  - prometeo
-  - transhumanismo
-  - mito
-  - simbolismo
-  - tecnocultura
-  - tl-intel-v3
 ---
 
 # Prometeo y el Transhumanismo

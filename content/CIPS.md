@@ -1,17 +1,12 @@
 ---
+titulo: CIPS
+tipo: alias
+fecha: 2026-05-02
+estado: legacy
+reemplazado_por: [[Sistema CIPS]]
+aliases: ["CIPS", "Cross-Border Interbank Payment System"]
+tags: [alias, legacy, cips, china, pagos, tl-intel-v3]
 publish: true
-aliases:
-  - CIPS
-  - Cross-Border Interbank Payment System
-created: 2026-05-01T20:37:10.850-03:00
-modified: 2026-05-02T13:05:22.774-03:00
-tags:
-  - alias
-  - legacy
-  - cips
-  - china
-  - pagos
-  - tl-intel-v3
 ---
 
 # CIPS

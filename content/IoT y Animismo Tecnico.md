@@ -1,15 +1,13 @@
 ---
+titulo: IoT y Animismo Tecnico
+tipo: concepto
+fecha: 2026-04-27
+estado: activo
+aliases: ["IoT Y Animismo Técnico"]
+tags: [iot, animismo-tecnico, smart-devices, vigilancia, tl-intel-v3]
+tier_primario: b
+nivel_evidencia: medio
 publish: true
-aliases:
-  - IoT Y Animismo Técnico
-created: 2026-02-25T22:08:55.377-03:00
-modified: 2026-04-27T10:56:06.818-03:00
-tags:
-  - iot
-  - animismo-tecnico
-  - smart-devices
-  - vigilancia
-  - tl-intel-v3
 ---
 
 # IoT y Animismo Tecnico

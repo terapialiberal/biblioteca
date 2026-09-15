@@ -1,12 +1,12 @@
 ---
+titulo: SMR
+tipo: "concepto"
+fecha: 2026-02-25
+tier_primario: "a"
+nivel_evidencia: "alto"
+estado: activo
+tags: [bill, modular, pila, small]
 publish: true
-created: 2026-02-25T14:22:57.642-03:00
-modified: 2026-05-02T18:26:07.537-03:00
-tags:
-  - bill
-  - modular
-  - pila
-  - small
 ---
 
 # SMR

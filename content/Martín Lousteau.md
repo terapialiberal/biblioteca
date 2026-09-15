@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T13:34:40.342-03:00
-modified: 2026-04-29T13:34:54.103-03:00
-tags:
-  - actor
-  - argentina
-  - politica
-  - tl-intel-v3
+tipo: actor
+titulo: Martín Lousteau
+estado: activo
+tags: [actor, argentina, politica, tl-intel-v3]
 ---
 
 # Martín Lousteau

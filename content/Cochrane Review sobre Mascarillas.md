@@ -1,14 +1,12 @@
 ---
+titulo: Cochrane Review sobre Mascarillas
+tipo: documento
+fecha: 2026-04-19
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [cochrane-review-mascarillas, evidencia, salud-publica, mascarillas, covid, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:08.104-03:00
-modified: 2026-04-19T13:05:49.096-03:00
-tags:
-  - cochrane-review-mascarillas
-  - evidencia
-  - salud-publica
-  - mascarillas
-  - covid
-  - tl-intel-v3
 ---
 
 # Cochrane Review sobre Mascarillas

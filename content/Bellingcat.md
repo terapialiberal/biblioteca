@@ -1,14 +1,12 @@
 ---
+titulo: Bellingcat
+tipo: entidad
+fecha: 2026-04-21
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [bellingcat, osint, medios, narrativa, atlantismo, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:05.075-03:00
-modified: 2026-04-21T12:33:51.237-03:00
-tags:
-  - bellingcat
-  - osint
-  - medios
-  - narrativa
-  - atlantismo
-  - tl-intel-v3
 ---
 
 # Bellingcat

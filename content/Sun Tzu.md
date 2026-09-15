@@ -1,15 +1,11 @@
 ---
+titulo: Sun Tzu
+tipo: nodo
+fecha: 2026-05-02
+estado: activo
+aliases: ["Sun Tzu (El Arte de la Guerra)"]
+tags: [sun-tzu, estrategia, china, guerra, tl-intel-v3]
 publish: true
-aliases:
-  - Sun Tzu (El Arte de la Guerra)
-created: 2026-05-01T20:16:46.703-03:00
-modified: 2026-05-02T13:44:41.992-03:00
-tags:
-  - sun-tzu
-  - estrategia
-  - china
-  - guerra
-  - tl-intel-v3
 ---
 
 # Sun Tzu

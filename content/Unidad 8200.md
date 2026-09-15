@@ -1,16 +1,13 @@
 ---
+titulo: Unidad 8200
+tipo: entidad
+fecha: 2026-04-21
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Unit 8200"]
+tags: [unidad-8200, sigint, israel, ciberinteligencia, vigilancia, tl-intel-v3]
 publish: true
-aliases:
-  - Unit 8200
-created: 2026-01-29T19:17:42.183-03:00
-modified: 2026-04-22T16:22:00.012-03:00
-tags:
-  - unidad-8200
-  - sigint
-  - israel
-  - ciberinteligencia
-  - vigilancia
-  - tl-intel-v3
 ---
 
 # Unidad 8200

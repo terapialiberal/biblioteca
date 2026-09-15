@@ -1,18 +1,13 @@
 ---
+titulo: Instituto de Virologia de Wuhan
+tipo: entidad
+fecha: 2026-04-21
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Instituto de Virología de Wuhan", "Wuhan Institute of Virology", "WIV"]
+tags: [wuhan, virologia, laboratorio, bioseguridad, china, tl-intel-v3]
 publish: true
-aliases:
-  - Instituto de Virología de Wuhan
-  - Wuhan Institute of Virology
-  - WIV
-created: 2026-04-21T11:39:06.539-03:00
-modified: 2026-04-21T11:39:06.539-03:00
-tags:
-  - wuhan
-  - virologia
-  - laboratorio
-  - bioseguridad
-  - china
-  - tl-intel-v3
 ---
 
 # Instituto de Virologia de Wuhan

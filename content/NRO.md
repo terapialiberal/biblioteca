@@ -1,17 +1,13 @@
 ---
+titulo: NRO
+tipo: organizacion
+fecha: 2026-04-20
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: [National Reconnaissance Office, NRO (National Reconnaissance Office)]
+tags: [nro, inteligencia, satelites, vigilancia, espacio, tl-intel-v3]
 publish: true
-aliases:
-  - National Reconnaissance Office
-  - NRO (National Reconnaissance Office)
-created: 2026-04-20T10:08:17.066-03:00
-modified: 2026-04-20T10:11:14.138-03:00
-tags:
-  - nro
-  - inteligencia
-  - satelites
-  - vigilancia
-  - espacio
-  - tl-intel-v3
 ---
 
 # NRO

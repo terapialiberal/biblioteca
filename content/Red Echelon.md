@@ -1,14 +1,12 @@
 ---
+titulo: Red Echelon
+tipo: programa
+fecha: 2026-04-19
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [red-echelon, five-eyes, sigint, vigilancia, intercepcion, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:32.802-03:00
-modified: 2026-04-19T13:04:03.042-03:00
-tags:
-  - red-echelon
-  - five-eyes
-  - sigint
-  - vigilancia
-  - intercepcion
-  - tl-intel-v3
 ---
 
 # Red Echelon

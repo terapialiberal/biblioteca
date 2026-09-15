@@ -1,12 +1,16 @@
 ---
 publish: true
-created: 2026-05-01T17:35:08.852-03:00
-modified: 2026-05-02T18:26:08.588-03:00
+titulo: "Stargate"
 tags:
   - alias
   - tecnologia
   - ia
   - infraestructura
+tipo: alias
+fecha: 2026-05-01
+estado: activo
+reemplazado_por: "[[Stargate Project]]"
+canonico: "[[Stargate Project]]"
 ---
 
 # Stargate

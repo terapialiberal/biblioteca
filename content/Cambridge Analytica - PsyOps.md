@@ -1,15 +1,11 @@
 ---
+titulo: Cambridge Analytica - PsyOps
+tipo: nodo
+fecha: 2026-05-02
+estado: activo
+aliases: ["Cambridge Analytica / PsyOps"]
+tags: [cambridge-analytica, psyops, datos, elecciones, tl-intel-v3]
 publish: true
-aliases:
-  - Cambridge Analytica / PsyOps
-created: 2026-05-01T19:12:08.594-03:00
-modified: 2026-05-02T13:54:27.845-03:00
-tags:
-  - cambridge-analytica
-  - psyops
-  - datos
-  - elecciones
-  - tl-intel-v3
 ---
 
 # Cambridge Analytica - PsyOps

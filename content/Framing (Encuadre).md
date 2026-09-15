@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:13:03.220-03:00
-modified: 2026-04-29T14:13:24.941-03:00
-tags:
-  - medios
-  - propaganda
-  - lenguaje
-  - tl-intel-v3
+tipo: mecanismo
+titulo: Framing (Encuadre)
+estado: activo
+tags: [medios, propaganda, lenguaje, tl-intel-v3]
 ---
 
 # Framing (Encuadre)

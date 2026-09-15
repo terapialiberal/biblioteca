@@ -1,16 +1,11 @@
 ---
+titulo: Marx
+tipo: nodo
+fecha: 2026-05-02
+estado: activo
+aliases: ["Karl Marx", "Karl Marx (Pensamiento)"]
+tags: [marx, comunismo, capitalismo, ideologia, tl-intel-v3]
 publish: true
-aliases:
-  - Karl Marx
-  - Karl Marx (Pensamiento)
-created: 2026-05-01T20:17:18.135-03:00
-modified: 2026-05-02T13:44:01.634-03:00
-tags:
-  - marx
-  - comunismo
-  - capitalismo
-  - ideologia
-  - tl-intel-v3
 ---
 
 # Marx

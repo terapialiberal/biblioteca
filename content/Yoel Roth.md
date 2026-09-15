@@ -1,14 +1,12 @@
 ---
+titulo: Yoel Roth
+tipo: persona
+fecha: 2026-04-19
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [yoel-roth, twitter, trust-and-safety, censura, plataformas, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:44.854-03:00
-modified: 2026-04-19T12:29:00.294-03:00
-tags:
-  - yoel-roth
-  - twitter
-  - trust-and-safety
-  - censura
-  - plataformas
-  - tl-intel-v3
 ---
 
 # Yoel Roth

@@ -1,16 +1,13 @@
 ---
+titulo: Narendra Modi
+tipo: persona
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Narendra Modi: El Gestor Del Panoptico Biometrico"]
+tags: [narendra-modi, india, biometria, vigilancia, aadhaar, tl-intel-v3]
 publish: true
-aliases:
-  - "Narendra Modi: El Gestor Del Panoptico Biometrico"
-created: 2026-01-29T19:17:26.361-03:00
-modified: 2026-04-24T10:40:32.534-03:00
-tags:
-  - narendra-modi
-  - india
-  - biometria
-  - vigilancia
-  - aadhaar
-  - tl-intel-v3
 ---
 
 # Narendra Modi

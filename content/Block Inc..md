@@ -1,18 +1,11 @@
 ---
+titulo: Block Inc.
+tipo: nodo
+fecha: 2026-05-02
+estado: activo
+aliases: ["Block Inc.", "Block (Square)", "Square"]
+tags: [block, square, fintech, pagos, bitcoin, tl-intel-v3]
 publish: true
-aliases:
-  - Block Inc.
-  - Block (Square)
-  - Square
-created: 2026-05-01T19:11:45.664-03:00
-modified: 2026-05-02T13:53:47.695-03:00
-tags:
-  - block
-  - square
-  - fintech
-  - pagos
-  - bitcoin
-  - tl-intel-v3
 ---
 
 # Block Inc.

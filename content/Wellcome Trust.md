@@ -1,13 +1,12 @@
 ---
+titulo: Wellcome Trust
+tipo: entidad
+fecha: 2026-04-22
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [wellcome-trust, salud-global, filantrocapitalismo, bioseguridad, tl-intel-v3]
 publish: true
-created: 2026-04-22T15:14:24.090-03:00
-modified: 2026-04-22T15:14:24.090-03:00
-tags:
-  - wellcome-trust
-  - salud-global
-  - filantrocapitalismo
-  - bioseguridad
-  - tl-intel-v3
 ---
 
 # Wellcome Trust

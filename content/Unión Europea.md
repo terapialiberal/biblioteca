@@ -1,12 +1,10 @@
 ---
 publish: true
-created: 2026-04-29T13:20:54.885-03:00
-modified: 2026-05-02T14:00:39.993-03:00
-tags:
-  - alias
-  - europa
-  - gobernanza
-  - tl-intel-v3
+tipo: alias
+titulo: Unión Europea
+estado: activo
+reemplazado_por: "[[Union Europea]]"
+tags: [alias, europa, gobernanza, tl-intel-v3]
 ---
 
 # Unión Europea

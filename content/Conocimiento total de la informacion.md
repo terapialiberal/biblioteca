@@ -1,14 +1,12 @@
 ---
+titulo: Conocimiento total de la informacion
+tipo: concepto
+fecha: 2026-04-19
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [tia, total-information-awareness, vigilancia, datos, prediccion, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:08.640-03:00
-modified: 2026-04-19T12:56:41.531-03:00
-tags:
-  - tia
-  - total-information-awareness
-  - vigilancia
-  - datos
-  - prediccion
-  - tl-intel-v3
 ---
 
 # Conocimiento total de la informacion

@@ -1,16 +1,11 @@
 ---
+titulo: Censura en China
+tipo: concepto
+fecha: 2026-05-02
+estado: activo
+aliases: ["Great Firewall", "Gran Cortafuegos"]
+tags: [china, censura, internet, control, tl-intel-v3]
 publish: true
-aliases:
-  - Great Firewall
-  - Gran Cortafuegos
-created: 2026-05-01T20:10:59.036-03:00
-modified: 2026-05-02T13:47:57.071-03:00
-tags:
-  - china
-  - censura
-  - internet
-  - control
-  - tl-intel-v3
 ---
 
 # Censura en China

@@ -1,15 +1,14 @@
 ---
+titulo: "Conciencia de Clase"
 publish: true
-aliases:
-  - Resumen General
-created: 2026-01-29T19:17:08.489-03:00
-modified: 2026-05-02T18:24:34.765-03:00
-tags:
-  - conciencia-de-clase
-  - elites
-  - coordinacion
-  - clases
-  - tl-intel-v3
+tipo: concepto
+fecha: 2026-04-07
+tier_primario: B
+moc_canonico: [[00_MOC - Redes de Poder]]
+estado: activo
+aliases: ["Resumen General"]
+fuentes_clave: []
+tags: [conciencia-de-clase, elites, coordinacion, clases, tl-intel-v3]
 ---
 
 # [[Conciencia de Clase]]

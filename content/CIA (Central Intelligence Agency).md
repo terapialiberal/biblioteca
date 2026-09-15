@@ -1,16 +1,12 @@
 ---
+titulo: CIA (Central Intelligence Agency)
+tipo: alias
+fecha: 2026-05-02
+estado: legacy
+reemplazado_por: [[CIA]]
+aliases: ["CIA (Central Intelligence Agency)", "Agencia Central de Inteligencia"]
+tags: [alias, legacy, cia, inteligencia, tl-intel-v3]
 publish: true
-aliases:
-  - CIA (Central Intelligence Agency)
-  - Agencia Central de Inteligencia
-created: 2026-04-29T14:05:25.931-03:00
-modified: 2026-05-02T13:47:57.163-03:00
-tags:
-  - alias
-  - legacy
-  - cia
-  - inteligencia
-  - tl-intel-v3
 ---
 
 # CIA (Central Intelligence Agency)

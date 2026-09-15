@@ -1,15 +1,16 @@
 ---
-publish: true
+titulo: Masacre de Waco
 aliases:
   - Waco
   - Masacre De Waco
-created: 2026-01-29T19:17:24.329-03:00
-modified: 2026-04-07T13:13:59.479-03:00
+tipo: evento
+estado: activo
 tags:
   - estados-unidos
   - evento
   - represion
   - estado
+publish: true
 ---
 
 # Masacre de Waco

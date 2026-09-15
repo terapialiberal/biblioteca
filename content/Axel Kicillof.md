@@ -1,14 +1,12 @@
 ---
+titulo: Axel Kicillof
+tipo: persona
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+tags: [argentina, kicillof, kirchnerismo, provincia, economia, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:04.596-03:00
-modified: 2026-04-18T11:50:10.804-03:00
-tags:
-  - argentina
-  - kicillof
-  - kirchnerismo
-  - provincia
-  - economia
-  - tl-intel-v3
 ---
 
 # Axel Kicillof

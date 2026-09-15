@@ -1,14 +1,15 @@
 ---
-publish: true
+titulo: Alan Greenspan
 aliases:
   - Alan Greenspan
-created: 2026-01-29T19:17:03.120-03:00
-modified: 2026-04-07T13:12:37.615-03:00
+tipo: persona
+estado: activo
 tags:
   - persona
   - finanzas
   - fed
   - estados-unidos
+publish: true
 ---
 
 # Alan Greenspan

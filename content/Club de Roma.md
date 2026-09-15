@@ -1,14 +1,10 @@
 ---
 publish: true
-aliases:
-  - Clube de Roma
-created: 2026-01-29T19:17:07.995-03:00
-modified: 2026-05-02T18:25:15.538-03:00
-tags:
-  - think-tank
-  - globalismo
-  - limites-crecimiento
-  - poblacion
+titulo: "Club de Roma"
+aliases: ["Clube de Roma"]
+tags: [think-tank, globalismo, limites-crecimiento, poblacion]
+tipo: think-tank
+nivel: A
 ---
 
 # Club de Roma

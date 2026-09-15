@@ -1,17 +1,13 @@
 ---
+titulo: Fundacion Bill y Melinda Gates
+tipo: entidad
+fecha: 2026-04-17
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Bill & Melinda Gates Foundation", "Fundación Bill y Melinda Gates", "BMGF"]
+tags: [gates-foundation, salud-global, filantrocapitalismo, bioseguridad, tl-intel-v3]
 publish: true
-aliases:
-  - Bill & Melinda Gates Foundation
-  - Fundación Bill y Melinda Gates
-  - BMGF
-created: 2026-01-29T19:17:14.378-03:00
-modified: 2026-04-17T18:27:26.096-03:00
-tags:
-  - gates-foundation
-  - salud-global
-  - filantrocapitalismo
-  - bioseguridad
-  - tl-intel-v3
 ---
 
 # Fundacion Bill y Melinda Gates

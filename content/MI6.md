@@ -1,16 +1,11 @@
 ---
+titulo: MI6
+tipo: entidad
+fecha: 2026-05-02
+estado: activo
+aliases: ["Secret Intelligence Service", "SIS"]
+tags: [mi6, inteligencia, reino-unido, five-eyes, tl-intel-v3]
 publish: true
-aliases:
-  - Secret Intelligence Service
-  - SIS
-created: 2026-04-19T13:23:47.379-03:00
-modified: 2026-05-02T13:07:08.891-03:00
-tags:
-  - mi6
-  - inteligencia
-  - reino-unido
-  - five-eyes
-  - tl-intel-v3
 ---
 
 # MI6

@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T13:58:24.099-03:00
-modified: 2026-04-29T13:58:24.099-03:00
-tags:
-  - argentina
-  - democracia
-  - radicalismo
-  - tl-intel-v3
+tipo: actor
+titulo: Raúl Alfonsín
+estado: activo
+tags: [argentina, democracia, radicalismo, tl-intel-v3]
 ---
 
 # Raúl Alfonsín

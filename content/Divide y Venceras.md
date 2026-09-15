@@ -1,12 +1,12 @@
 ---
+titulo: Resumen General
+tipo: "concepto"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [divide, loops, operaciones, vencers]
 publish: true
-created: 2026-01-29T19:17:10.374-03:00
-modified: 2026-05-02T18:24:39.521-03:00
-tags:
-  - divide
-  - loops
-  - operaciones
-  - vencers
 ---
 
 # Resumen General

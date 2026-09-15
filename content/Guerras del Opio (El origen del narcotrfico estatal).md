@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:13:10.691-03:00
-modified: 2026-04-29T14:13:28.967-03:00
-tags:
-  - opio
-  - imperio-britanico
-  - china
-  - tl-intel-v3
+tipo: evento
+titulo: Guerras del Opio (El origen del narcotrfico estatal)
+estado: activo
+tags: [opio, imperio-britanico, china, tl-intel-v3]
 ---
 
 # Guerras del Opio (El origen del narcotrfico estatal)

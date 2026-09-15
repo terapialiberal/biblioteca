@@ -1,15 +1,11 @@
 ---
+titulo: Transhumanismo
+tipo: concepto
+fecha: 2026-05-02
+estado: activo
+aliases: ["Transhumanismo (Movimiento)"]
+tags: [transhumanismo, biotecnologia, ia, cuerpo, tl-intel-v3]
 publish: true
-aliases:
-  - Transhumanismo (Movimiento)
-created: 2026-01-29T19:17:41.022-03:00
-modified: 2026-05-02T12:51:26.723-03:00
-tags:
-  - transhumanismo
-  - biotecnologia
-  - ia
-  - cuerpo
-  - tl-intel-v3
 ---
 
 # Transhumanismo

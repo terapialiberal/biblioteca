@@ -1,14 +1,15 @@
 ---
-publish: true
+titulo: La Fiesta de Olivos
 aliases:
   - La Fiesta de Olivos
-created: 2026-01-29T19:17:21.227-03:00
-modified: 2026-04-07T13:34:49.366-03:00
+tipo: evento
+estado: activo
 tags:
   - argentina
   - pandemia
   - casta
   - evento
+publish: true
 ---
 
 # La Fiesta de Olivos

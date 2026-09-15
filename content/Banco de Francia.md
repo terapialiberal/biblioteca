@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:05:23.507-03:00
-modified: 2026-04-29T14:05:36.621-03:00
-tags:
-  - banca-central
-  - francia
-  - eurozona
-  - tl-intel-v3
+tipo: organizacion
+titulo: Banco de Francia
+estado: activo
+tags: [banca-central, francia, eurozona, tl-intel-v3]
 ---
 
 # Banco de Francia

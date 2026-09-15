@@ -1,12 +1,14 @@
 ---
 publish: true
-created: 2026-04-29T13:36:22.647-03:00
-modified: 2026-05-02T14:12:48.324-03:00
+tipo: alias
+titulo: Guerra de Cuarta Generación
+estado: activo
 tags:
   - alias
   - guerra
   - propaganda
   - tl-intel-v3
+reemplazado_por: '[[Teoria de las Generaciones de Guerra]]'
 ---
 
 # Guerra de Cuarta Generación

@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:09:25.618-03:00
-modified: 2026-04-29T14:09:45.255-03:00
-tags:
-  - emiratos
-  - golfo
-  - geoeconomia
-  - tl-intel-v3
+tipo: actor
+titulo: EAU
+estado: activo
+tags: [emiratos, golfo, geoeconomia, tl-intel-v3]
 ---
 
 # EAU

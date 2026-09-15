@@ -121,7 +121,9 @@ Mirar la `Big Three` como bloque evita el error de personalizar demasiado el an�
 
 - [[06_Videos_Publicados/2025/2025-11-12_Como_Funciona_el_Mundo/POSTMORTEM_INTEL.md|Como Funciona el Mundo]] — tríada como infraestructura de coordinación financiera distribuida. Estado: refuerza.
 - [[06_Videos_Publicados/2026/2026-06-10_Fitts_Pulte_Gran_Israel/POSTMORTEM_INTEL.md|Fitts-Pulte-Gran Israel]] — Fitts describe el mismo mecanismo. Estado: confirmado parcial.
+- [[06_Videos_Publicados/2026/2026-08-04_Noticiero_El_Toll_Se_Tokeniza/POSTMORTEM_INTEL.md|Orden del Caos — El Toll Se Tokeniza]] (05-ago-2026) — BlackRock/GIP cobraban toll sobre Saudi Aramco ($15.5B 2021 + $11B 2025) ANTES de la guerra; el plan ICC/JCC (ONU) para Ormuz les agrega la administración del tránsito. El toll se institucionaliza y la capa supranacional es lo nuevo, no la financiarización. Estado: confirma H-01 (toll→fee de clearing).
 
 ## Conexiones nuevas
 
 - [[Propiedad Común como Gobierno Indirecto]] — mecanismo formalizado.
+- [[Estrecho de Ormuz]] — chokepoint cuyo toll se administra con la misma gente sentada en la mesa (leases Aramco, Ukraine Development Fund, consorcios IMEC/Gaza).

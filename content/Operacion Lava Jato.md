@@ -1,17 +1,13 @@
 ---
+titulo: Operacion Lava Jato
+tipo: evento
+fecha: 2026-04-24
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Lava Jato"]
+tags: [lava-jato, lawfare, brasil, odebrecht, justicia, geopolitica, tl-intel-v3]
 publish: true
-aliases:
-  - Lava Jato
-created: 2026-04-24T11:09:49.654-03:00
-modified: 2026-04-24T11:09:49.654-03:00
-tags:
-  - lava-jato
-  - lawfare
-  - brasil
-  - odebrecht
-  - justicia
-  - geopolitica
-  - tl-intel-v3
 ---
 
 # Operacion Lava Jato

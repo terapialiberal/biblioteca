@@ -1,15 +1,10 @@
 ---
 publish: true
-aliases:
-  - CBDC / Control Blockchain
-  - CBDC / Control Monetario
-created: 2026-05-01T20:10:45.046-03:00
-modified: 2026-05-02T18:25:15.142-03:00
-tags:
-  - concepto
-  - cbdc
-  - control-monetario
-  - vigilancia
+titulo: "CBDC - Control Programable"
+aliases: ["CBDC / Control Blockchain", "CBDC / Control Monetario"]
+tags: [concepto, cbdc, control-monetario, vigilancia]
+tipo: concepto
+nivel: A
 ---
 
 # CBDC - Control Monetario Programable

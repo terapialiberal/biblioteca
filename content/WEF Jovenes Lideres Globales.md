@@ -1,13 +1,11 @@
 ---
+titulo: WEF Jovenes Lideres Globales
+tipo: alias
+fecha: 2026-04-21
+estado: legacy
+reemplazado_por: [[Young Global Leaders]]
+tags: [alias, legacy, ygl, wef, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:44.084-03:00
-modified: 2026-04-21T20:11:46.666-03:00
-tags:
-  - alias
-  - legacy
-  - ygl
-  - wef
-  - tl-intel-v3
 ---
 
 # WEF Jovenes Lideres Globales

@@ -1,13 +1,12 @@
 ---
+titulo: Lilith y la Sombra Feminina
+tipo: concepto
+fecha: 2026-04-27
+estado: activo
+tags: [lilith, sombra-feminina, mitologia, arquetipos, tl-intel-v3]
+tier_primario: c
+nivel_evidencia: medio
 publish: true
-created: 2026-02-25T22:08:51.622-03:00
-modified: 2026-04-27T10:32:49.789-03:00
-tags:
-  - lilith
-  - sombra-feminina
-  - mitologia
-  - arquetipos
-  - tl-intel-v3
 ---
 
 # Lilith y la Sombra Feminina

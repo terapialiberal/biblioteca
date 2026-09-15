@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:13:03.111-03:00
-modified: 2026-04-29T14:13:24.894-03:00
-tags:
-  - taiwan
-  - manufactura
-  - electronica
-  - tl-intel-v3
+tipo: actor
+titulo: Foxconn
+estado: activo
+tags: [taiwan, manufactura, electronica, tl-intel-v3]
 ---
 
 # Foxconn

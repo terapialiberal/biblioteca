@@ -1,14 +1,12 @@
 ---
+titulo: Pfizer
+tipo: entidad
+fecha: 2026-04-21
+tier_primario: a
+nivel_evidencia: alto
+estado: activo
+tags: [pfizer, industria-farmaceutica, salud, captura-regulatoria, bioseguridad, tl-intel-v3]
 publish: true
-created: 2026-01-29T19:17:30.533-03:00
-modified: 2026-04-22T10:54:16.761-03:00
-tags:
-  - pfizer
-  - industria-farmaceutica
-  - salud
-  - captura-regulatoria
-  - bioseguridad
-  - tl-intel-v3
 ---
 
 # Pfizer

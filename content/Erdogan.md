@@ -1,16 +1,11 @@
 ---
+titulo: Erdogan
+tipo: nodo
+fecha: 2026-05-02
+estado: activo
+aliases: ["Recep Tayyip Erdogan", "Erdoğan"]
+tags: [erdogan, turquia, otan, medio-oriente, tl-intel-v3]
 publish: true
-aliases:
-  - Recep Tayyip Erdogan
-  - Erdoğan
-created: 2026-05-01T20:41:24.467-03:00
-modified: 2026-05-02T12:57:57.107-03:00
-tags:
-  - erdogan
-  - turquia
-  - otan
-  - medio-oriente
-  - tl-intel-v3
 ---
 
 # Erdogan

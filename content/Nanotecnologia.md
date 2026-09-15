@@ -1,16 +1,13 @@
 ---
+titulo: Nanotecnologia
+tipo: concepto
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: alto
+estado: activo
+aliases: ["Nano-tecnologia", "Nano-tecnologia (Polvo Inteligente)"]
+tags: [nanotecnologia, grafeno, biosensado, control, vigilancia]
 publish: true
-aliases:
-  - Nano-tecnologia
-  - Nano-tecnologia (Polvo Inteligente)
-created: 2026-03-04T13:54:16.869-03:00
-modified: 2026-04-18T17:40:46.711-03:00
-tags:
-  - nanotecnologia
-  - grafeno
-  - biosensado
-  - control
-  - vigilancia
 ---
 
 # Nanotecnologia

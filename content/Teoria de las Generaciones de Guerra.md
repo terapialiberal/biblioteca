@@ -1,13 +1,13 @@
 ---
+titulo: "Teoría de las Generaciones de Guerra"
 publish: true
-created: 2026-01-29T19:17:38.935-03:00
-modified: 2026-04-07T11:50:08.405-03:00
-tags:
-  - generaciones-de-guerra
-  - guerra-hibrida
-  - guerra-cognitiva
-  - geopolítica
-  - tl-intel-v3
+tipo: concepto
+fecha: 2026-04-07
+tier_primario: B
+moc_canonico: [[00_MOC - Operaciones Encubiertas]]
+estado: activo
+fuentes_clave: []
+tags: [generaciones-de-guerra, guerra-hibrida, guerra-cognitiva, geopolítica, tl-intel-v3]
 ---
 
 # [[Teoría de las Generaciones de Guerra]]

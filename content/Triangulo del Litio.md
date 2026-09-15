@@ -1,16 +1,13 @@
 ---
+titulo: Triangulo del Litio
+tipo: concepto
+fecha: 2026-04-18
+tier_primario: b
+nivel_evidencia: medio
+estado: activo
+aliases: ["Triángulo del Litio"]
+tags: [argentina, litio, mineria, recursos, geoeconomia, tl-intel-v3]
 publish: true
-aliases:
-  - Triángulo del Litio
-created: 2026-01-29T19:17:41.367-03:00
-modified: 2026-04-18T12:08:11.472-03:00
-tags:
-  - argentina
-  - litio
-  - mineria
-  - recursos
-  - geoeconomia
-  - tl-intel-v3
 ---
 
 # Triangulo del Litio

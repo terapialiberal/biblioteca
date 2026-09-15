@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T14:09:25.909-03:00
-modified: 2026-04-29T14:09:45.971-03:00
-tags:
-  - plataformas
-  - censura
-  - infraestructura-digital
-  - tl-intel-v3
+tipo: concepto
+titulo: Efecto Parler
+estado: activo
+tags: [plataformas, censura, infraestructura-digital, tl-intel-v3]
 ---
 
 # Efecto Parler

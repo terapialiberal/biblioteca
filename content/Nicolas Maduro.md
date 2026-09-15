@@ -1,12 +1,12 @@
 ---
+titulo: "Nicolás Maduro: El Gestor Del Estado-Cartel Multipolar"
+tipo: "persona"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [cartel, estado, hugo, multipolar]
 publish: true
-created: 2026-01-29T19:17:27.046-03:00
-modified: 2026-05-02T18:25:49.816-03:00
-tags:
-  - cartel
-  - estado
-  - hugo
-  - multipolar
 ---
 
 # Nicolás Maduro: El Gestor Del Estado-Cartel Multipolar

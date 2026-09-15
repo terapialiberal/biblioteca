@@ -1,12 +1,12 @@
 ---
+titulo: "Orden De Los Nueve Ángulos: La Teología Del Colapso"
+tipo: "entidad"
+fecha: 2026-02-25
+tier_primario: "b"
+nivel_evidencia: "medio"
+estado: activo
+tags: [colapso, nueve, teologa, ngulos]
 publish: true
-created: 2026-01-29T19:17:29.236-03:00
-modified: 2026-05-02T18:25:53.327-03:00
-tags:
-  - colapso
-  - nueve
-  - teologa
-  - ngulos
 ---
 
 # Orden De Los Nueve Ángulos: La Teología Del Colapso

@@ -1,15 +1,11 @@
 ---
+titulo: Macron
+tipo: nodo
+fecha: 2026-05-02
+estado: activo
+aliases: ["Emmanuel Macron"]
+tags: [macron, francia, ue, tecnocracia, tl-intel-v3]
 publish: true
-aliases:
-  - Emmanuel Macron
-created: 2026-05-01T20:41:17.404-03:00
-modified: 2026-05-02T12:57:57.349-03:00
-tags:
-  - macron
-  - francia
-  - ue
-  - tecnocracia
-  - tl-intel-v3
 ---
 
 # Macron

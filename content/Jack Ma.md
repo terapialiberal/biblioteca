@@ -1,13 +1,14 @@
 ---
-publish: true
-created: 2026-05-02T14:22:33.598-03:00
-modified: 2026-05-02T14:23:47.997-03:00
+titulo: Jack Ma
+tipo: persona
+estado: activo
 tags:
   - china
   - tecnologia
   - alibaba
   - plataformas
   - tl-intel-v3
+publish: true
 ---
 
 # Jack Ma

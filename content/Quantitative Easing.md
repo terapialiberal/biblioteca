@@ -1,18 +1,13 @@
 ---
+titulo: Quantitative Easing
+tipo: concepto
+fecha: 2026-05-02
+tier_primario: b
+nivel_evidencia: alto
+estado: activo
+aliases: ["QE", "Quantitative Easing (Expansión Monetaria)", "Expansión cuantitativa"]
+tags: [qe, reserva-federal, liquidez, bonos, control-financiero, tl-intel-v3]
 publish: true
-aliases:
-  - QE
-  - Quantitative Easing (Expansión Monetaria)
-  - Expansión cuantitativa
-created: 2026-05-01T20:46:02.144-03:00
-modified: 2026-05-02T12:22:04.333-03:00
-tags:
-  - qe
-  - reserva-federal
-  - liquidez
-  - bonos
-  - control-financiero
-  - tl-intel-v3
 ---
 
 # Quantitative Easing

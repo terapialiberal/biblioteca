@@ -1,11 +1,13 @@
 ---
-publish: true
+titulo: DTCC
+tipo: entidad
+fecha: '2026-05-02'
+estado: activo
+tier: A
 aliases:
   - Depository Trust & Clearing Corporation
   - DTC
   - Cede & Co
-created: 2026-01-29T19:17:10.609-03:00
-modified: 2026-06-11T14:41:33.272-03:00
 tags:
   - dtcc
   - custodia
@@ -14,6 +16,8 @@ tags:
   - stellar
   - wall-street
   - tl-intel-v3
+publish: true
+last_stream: '[[00_ARCHIVO_2026-05-28_El_Gran_Simulador]]'
 ---
 
 # DTCC
@@ -60,5 +64,7 @@ DTCC es la **Capa 1 (Custodia)** del framework TL de [[4 Capas del Sistema de To
 - [[Cede & Co]]
 
 ## Casos relacionados
+
+- [[06_Videos_Publicados/2026/2026-07-13_Graham_BigThree_Ankara/POSTMORTEM_INTEL|Graham / Big Three / Ankara]] (17 jul 2026) — DTCC como la tubería del supra-bloque: clearancea $2.5 cuatrillones/año y es la capa de custodia que el Big Three ya controla. El toll de Ormuz (20%) y Trump Accounts (Big Three) se liquidan a través de ella. Piloto $114T on-chain (jul-2026) acelera la tokenización de la tubería. La frase del vivo \[49:05]: "las acciones las tiene la DTCC, la gran toma también parte del cártel bancario".
 
 - [[06_Videos_Publicados/2026/2026-05-28_El_Gran_Simulador/POSTMORTEM_INTEL|El Gran Simulador]] (28 may 2026) — DTCC+Stellar anuncio de tokenización de \$114T. Timeline: Jul 2026 24x5 → limited production → H1 2027 live. Capa 2 del stack stablecoin→Treasury.

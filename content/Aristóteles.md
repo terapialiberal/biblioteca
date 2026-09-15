@@ -1,16 +1,11 @@
 ---
+titulo: Aristóteles
+tipo: nodo
+fecha: 2026-05-02
+estado: activo
+aliases: ["Aristóteles", "Aristoteles"]
+tags: [alias, legacy, filosofia, grecia, tl-intel-v3]
 publish: true
-aliases:
-  - Aristóteles
-  - Aristoteles
-created: 2026-05-01T20:17:10.912-03:00
-modified: 2026-05-02T13:49:15.573-03:00
-tags:
-  - alias
-  - legacy
-  - filosofia
-  - grecia
-  - tl-intel-v3
 ---
 
 # Aristóteles

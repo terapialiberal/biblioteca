@@ -1,12 +1,9 @@
 ---
 publish: true
-created: 2026-04-29T13:53:50.897-03:00
-modified: 2026-04-29T13:53:50.897-03:00
-tags:
-  - behavioral-economics
-  - nudge
-  - regulacion
-  - tl-intel-v3
+tipo: actor
+titulo: Cass Sunstein
+estado: activo
+tags: [behavioral-economics, nudge, regulacion, tl-intel-v3]
 ---
 
 # Cass Sunstein
