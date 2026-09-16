@@ -2,7 +2,7 @@
 titulo: Libra - Diem
 tipo: concepto
 fecha: 2026-04-18
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 aliases: ["Libra / Diem", "Libra / Diem: El Intento De Golpe De Estado De Silicon Valley"]

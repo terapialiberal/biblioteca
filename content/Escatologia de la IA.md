@@ -5,7 +5,7 @@ fecha: 2026-04-27
 estado: activo
 aliases: ["Escatología de la IA", "AI eschatology"]
 tags: [escatologia-ia, agi, transhumanismo, singularidad, tecnoreligion, tl-intel-v3]
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 publish: true
 ---

@@ -2,7 +2,7 @@
 titulo: "Nobleza Negra Veneciana: La Oligarquía Patricia y el Primer Family Office Soberano"
 tipo: "concepto"
 fecha: 2026-06-04
-tier_primario: "a"
+capa_tema: "a"
 nivel_evidencia: "medio"
 estado: activo
 tags: [nobleza-negra, venecia, oligarquia, bancos-centrales, chokepoints, modelo-veneciano, quigley, rothschild]

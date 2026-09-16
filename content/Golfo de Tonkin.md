@@ -2,7 +2,7 @@
 titulo: Golfo De Tonkín (Incidente)
 tipo: "concepto"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [complejo, falsa, golfo, tonkn]
@@ -21,12 +21,12 @@ publish: true
 
 ### Tier A (Los Dueños De La Guerra)
 
-- **Contratos de Sangre:** El Tier A financiero y las empresas de armamento (Bell Helicopter, Dow Chemical) necesitaban una guerra larga para justificar presupuestos infinitos. El Tier A orquestó la necesidad de la guerra y utilizó el incidente de Tonkín como el "teatro necesario" para obtener el consentimiento del pueblo.
+- **Contratos de Sangre:** El Tier A y las empresas de armamento (Bell Helicopter, Dow Chemical) necesitaban una guerra larga para justificar presupuestos infinitos. El Tier A orquestó la necesidad de la guerra y utilizó el incidente de Tonkín como el "teatro necesario" para obtener el consentimiento del pueblo.
 - **Diseño Geopolítico:** La guerra no era por Vietnam, era por el control de la región y por aplicar la teoría del dominó de Tier A para justificar la presencia militar permanente en Asia.
 
 ### Tier B (Operadores / La Inteligencia Y LBJ)
 
-- **Lyndon B. Johnson:** El presidente de Tier B que sabía que los informes eran dudosos pero los utilizó para obtener la "Resolución del Golfo de Tonkín", otorgándose poderes dictatoriales de guerra.
+- **Lyndon B. Johnson:** El presidente (capa C) que sabía que los informes eran dudosos pero los utilizó para obtener la "Resolución del Golfo de Tonkín", otorgándose poderes dictatoriales de guerra.
 - **NSA y Pentágono:** Manipularon las transcripciones de las intercepciones de radio para que pareciera que hubo un ataque, operando el nivel técnico del engaño para blindar al Tier A de cualquier escrutinio.
 
 ### Tier C (Narrativa Pública)

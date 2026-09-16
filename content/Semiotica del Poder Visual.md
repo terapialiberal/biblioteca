@@ -5,7 +5,7 @@ fecha: 2026-04-27
 estado: activo
 aliases: ["Semiótica del Poder Visual"]
 tags: [semiotica, poder-visual, propaganda, simbolismo, percepcion, tl-intel-v3]
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 publish: true
 ---

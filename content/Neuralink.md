@@ -2,7 +2,7 @@
 titulo: Neuralink
 tipo: entidad
 fecha: 2026-04-17
-tier_primario: a
+tier_primario: b
 nivel_evidencia: medio
 estado: activo
 tags: [neuralink, bci, cerebro-computadora, transhumanismo, tl-intel-v3]
@@ -10,6 +10,8 @@ publish: true
 ---
 
 # Neuralink
+
+> **Clasificación (2026-09-15):** no es dueño del capital: vehículo operativo o aparato estatal (Tier B por canon).
 
 ## BLUF
 

@@ -2,7 +2,7 @@
 titulo: Deuda Soberana
 tipo: concepto
 fecha: 2026-05-02
-tier_primario: b
+capa_tema: b
 nivel_evidencia: alto
 estado: activo
 aliases: ["Deuda Soberana (Mecanismo de Control)", "Sovereign Debt"]

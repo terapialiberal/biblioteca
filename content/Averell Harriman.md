@@ -2,7 +2,7 @@
 titulo: Averell Harriman
 tipo: "persona"
 fecha: 2026-02-25
-tier_primario: "b"
+tier_primario: c
 nivel_evidencia: "medio"
 estado: activo
 tags: [averell, brown, harriman, skull]
@@ -10,6 +10,8 @@ publish: true
 ---
 
 # Averell Harriman
+
+> **Clasificación (2026-09-15):** cargo político de gobierno: cuadro visible y reemplazable (Tier C por canon).
 
 > [!INFO] Perfil Operativo (Tier A)
 > **Resumen:** Diplomático, banquero, heredero. Definió política hacia URSS por décadas.

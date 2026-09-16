@@ -2,7 +2,7 @@
 titulo: Lattice
 tipo: producto
 fecha: 2026-04-20
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 tags: [lattice, anduril, defensa, sensores, mando, autonomia, tl-intel-v3]

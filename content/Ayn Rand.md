@@ -4,7 +4,7 @@ titulo: "Ayn Rand"
 aliases: ["Ayn Rand"]
 tags: [actor, filosofia, objetivismo, libertarianismo]
 tipo: actor
-nivel: B
+tier_primario: B
 ---
 
 # Ayn Rand

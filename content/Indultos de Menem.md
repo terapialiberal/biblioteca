@@ -2,7 +2,7 @@
 titulo: Indultos De Menem
 tipo: "concepto"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [carlos, dictadura, indultos, menem]
@@ -21,7 +21,7 @@ publish: true
 
 ### Tier A (Los Dueños De La Continuidad)
 
-- **Consenso de Washington:** El Tier A financiero necesitaba que Menem tuviera las manos libres y las fuerzas armadas subordinadas para ejecutar el plan de reformas neoliberales. Los indultos fueron el precio que Menem pagó para comprar la paz militar necesaria para vender las joyas del estado.
+- **Consenso de Washington:** El Tier A necesitaba que Menem tuviera las manos libres y las fuerzas armadas subordinadas para ejecutar el plan de reformas neoliberales. Los indultos fueron el precio que Menem pagó para comprar la paz militar necesaria para vender las joyas del estado.
 - **Impune Perpetuidad:** El mensaje del Tier A fue claro: los crímenes cometidos en defensa del sistema (o durante su transición) pueden ser perdonados si el beneficio económico del presente es lo suficientemente alto.
 
 ### Tier B (Operadores / Menem Y Los Líderes Del Bando)

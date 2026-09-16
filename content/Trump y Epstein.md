@@ -2,7 +2,7 @@
 titulo: Trump y Epstein
 tipo: relacion
 fecha: 2026-04-17
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 aliases: ["Trump y Epstein (Cronología)"]

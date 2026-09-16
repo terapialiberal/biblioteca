@@ -2,7 +2,7 @@
 titulo: Mar-a-Lago Accord
 tipo: concepto
 fecha: 2026-04-20
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 tags: [mar-a-lago-accord, dolar, treasuries, reset-monetario, trump, tl-intel-v3]

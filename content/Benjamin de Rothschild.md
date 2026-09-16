@@ -4,7 +4,7 @@ titulo: "Benjamin de Rothschild"
 aliases: ["Benjamin de Rothschild"]
 tags: [actor, banquero, dinastia, rothschild]
 tipo: actor
-nivel: B
+tier_primario: B
 ---
 
 # Benjamin de Rothschild

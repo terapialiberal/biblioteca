@@ -2,7 +2,7 @@
 titulo: Libertad de Prensa
 tipo: concepto
 fecha: 2026-04-24
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 tags: [libertad-de-prensa, medios, narrativa, pauta, censura, tl-intel-v3]

@@ -2,7 +2,7 @@
 titulo: Schedule F
 tipo: concepto
 fecha: 2026-04-20
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 tags: [schedule-f, burocracia, ejecutivo, staffing, project-2025, tl-intel-v3]

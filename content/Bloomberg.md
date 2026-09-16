@@ -4,7 +4,7 @@ titulo: "Bloomberg"
 aliases: ["Bloomberg"]
 tags: [empresa, medios, finanzas, datos]
 tipo: empresa
-nivel: B
+tier_primario: B
 ---
 
 # Bloomberg LP

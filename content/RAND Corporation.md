@@ -4,7 +4,7 @@ titulo: "RAND Corporation"
 aliases: ["RAND Corporation"]
 tags: [think-tank, militar, estrategia, guerra-fria]
 tipo: think-tank
-nivel: A
+tier_primario: A
 ---
 
 # RAND Corporation

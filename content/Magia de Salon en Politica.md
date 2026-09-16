@@ -5,7 +5,7 @@ fecha: 2026-04-27
 estado: activo
 aliases: ["Magia De Salón En Política"]
 tags: [magia-de-salon, politica, espectaculo, propaganda, tl-intel-v3]
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 publish: true
 ---

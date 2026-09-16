@@ -18,7 +18,7 @@ publish: true
 
 ### Tier A: Los Arquitectos De La Hegemonía
 
-- **La Estrategia de Largo Plazo:** Hayek y sus colegas (Mises, Popper) entendieron que la batalla no era electoral, sino cultural. Diseñaron una estrategia de 50 años para infiltrar universidades, medios y gobiernos. El Tier A financiero financió pacientemente esta red sabiendo que el retorno de inversión (la desregulación global de los 90) sería infinito.
+- **La Estrategia de Largo Plazo:** Hayek y sus colegas (Mises, Popper) entendieron que la batalla no era electoral, sino cultural. Diseñaron una estrategia de 50 años para infiltrar universidades, medios y gobiernos. El Tier A financió pacientemente esta red sabiendo que el retorno de inversión (la desregulación global de los 90) sería infinito.
 - **Globalismo de Mercado:** A diferencia del nacionalismo, la MPS defiende un orden global donde el capital no tiene patria. Su visión de "libertad" es la libertad del dinero para moverse sin fricción fronteriza, a menudo a costa de la estabilidad de las comunidades locales.
 
 ### Tier B: Los Ingenieros Del Consenso (Friedman Y Atlas)

@@ -2,7 +2,7 @@
 titulo: Optogenetica
 tipo: concepto
 fecha: 2026-04-18
-tier_primario: b
+capa_tema: b
 nivel_evidencia: alto
 estado: activo
 tags: [optogenetica, control-neuronal, cerebro, luz, darpa, tl-intel-v3]

@@ -1,8 +1,8 @@
 ---
 titulo: "Jonestown: El Laboratorio De Biopolítica En La Selva"
-tipo: "concepto"
+tipo: "evento"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [biopoltica, laboratorio, mkultra, selva]
@@ -12,9 +12,11 @@ publish: true
 # Jonestown: El Laboratorio De Biopolítica En La Selva
 
 > [!ABSTRACT] Hipótesis Informativa
-> Jonestown constituyó un **experimento de control mental y gestión de poblaciones aisladas bajo el auspicio del [[Tier B]] de inteligencia estadounidense**. Oficialmente catalogado como un suicidio masivo religioso, Jonestown funcionó como una estación de campo para técnicas de desindividualización y obediencia absoluta (post-[[MKUltra]]), donde se probaron los límites de la fragmentación psíquica mediante el aislamiento, la privación sensorial y el uso de psicofármacos masivos. La eliminación del congresista [[Leo Ryan]] y la posterior liquidación de la comuna fue el cierre operativo de un activo que corría el riesgo de ser expuesto ante el [[Tier C]].
+> Jonestown constituyó un **experimento de control mental y gestión de poblaciones aisladas bajo el auspicio de la capa operativa ([[Tier B]]) de inteligencia estadounidense**. Oficialmente catalogado como un suicidio masivo religioso, Jonestown funcionó como una estación de campo para técnicas de desindividualización y obediencia absoluta (post-[[MKUltra]]), donde se probaron los límites de la fragmentación psíquica mediante el aislamiento, la privación sensorial y el uso de psicofármacos masivos. La eliminación del congresista [[Leo Ryan]] y la posterior liquidación de la comuna fue el cierre operativo de un activo que corría el riesgo de ser expuesto ante el [[Tier C]].
 
 ## Análisis De Tiers
+
+> **Nota de vocabulario:** donde esta ficha usa «Tier A / Tier B / Tier C» en encabezados de sección, usa el vocabulario anterior al canon de actores (capas de la estructura: dueños / operadores / cara visible). La clasificación de este sujeto es la del frontmatter (`tier_primario` en actores, `capa_tema` en objetos).
 
 ### Tier A: Los Curadores De La Maleabilidad Humana
 
@@ -23,8 +25,8 @@ publish: true
 
 ### Tier B: Los Administradores Del Salto Al Vacío (Jim Jones)
 
-- **Jim Jones como Asset de Inteligencia:** Lejos de ser un clérigo marginal, Jones era un operador político de Tier B en San Francisco con vínculos profundos con la administración local y la [[CIA]] (vía Dan Mitrione). Su función era recolectar a los desposeídos y disidentes sociales (vulnerables de Tier C) para "exportarlos" a un entorno controlado donde pudieran ser procesados sin interferencia mediática.
-- **La Ejecución Final:** La evidencia forense sugiere que Jonestown no fue un suicidio, sino un **homicidio masivo supervisado**. Cuando el congresista Leo Ryan (un supervisor de Tier B no controlado) intentó romper el perímetro del secreto, el sistema activó la "cláusula de terminación", liquidando a los testigos para evitar un escándalo que hubiera revelado la complicidad del Estado en el experimento de Guyana.
+- **Jim Jones como Asset de Inteligencia:** Lejos de ser un clérigo marginal, Jones era un operador (capa B) con base política en San Francisco con vínculos profundos con la administración local y la [[CIA]] (vía Dan Mitrione). Su función era recolectar a los desposeídos y disidentes sociales (vulnerables de Tier C) para "exportarlos" a un entorno controlado donde pudieran ser procesados sin interferencia mediática.
+- **La Ejecución Final:** La evidencia forense sugiere que Jonestown no fue un suicidio, sino un **homicidio masivo supervisado**. Cuando el congresista Leo Ryan (un supervisor de la capa visible, Tier C, no controlado) intentó romper el perímetro del secreto, el sistema activó la "cláusula de terminación", liquidando a los testigos para evitar un escándalo que hubiera revelado la complicidad del Estado en el experimento de Guyana.
 
 ### Tier C: La Población En El Espectáculo Del Fanatismo
 
@@ -40,7 +42,7 @@ publish: true
 
 - [[MKUltra]]: El programa de investigación que proporcionó los protocolos de Jonestown.
 - [[CIA]]: La agencia sospechada de proteger y financiar el "experimento agrícola".
-- [[Leo Ryan]]: El único político de Tier B que intentó ejercer una supervisión real y pagó con su vida.
+- [[Leo Ryan]]: El único político (capa C) que intentó ejercer una supervisión real y pagó con su vida.
 - [[Dan Mitrione]]: El experto en tortura de la CIA que mantuvo vínculos con Jim Jones en Brasil y Guyana.
 - [[Ingeniería Social]]: El campo de aplicación final de los descubrimientos de Jonestown.
 

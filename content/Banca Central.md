@@ -2,7 +2,7 @@
 titulo: "Banca Central"
 tipo: concepto
 estado: activo
-tier_primario: a
+capa_tema: a
 nivel_evidencia: alto
 tags: [banca-central, moneda, inflacion, cbdc, tl-intel-v3]
 publish: true

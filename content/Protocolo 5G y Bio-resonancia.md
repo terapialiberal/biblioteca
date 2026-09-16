@@ -1,7 +1,7 @@
 ---
 titulo: Protocolo 5G y Bio-resonancia
 tipo: "concepto"
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [tecnologia, señales, bio-control, 5g]

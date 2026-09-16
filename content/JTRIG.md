@@ -2,7 +2,7 @@
 titulo: "JTRIG: El Escuadrón De La Inquisición Digital"
 tipo: "concepto"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [digital, five, gchq, jtrig]

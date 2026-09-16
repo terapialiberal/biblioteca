@@ -2,7 +2,7 @@
 titulo: Lusitania
 tipo: evento
 fecha: 2026-04-18
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 aliases: ["Lusitania: El Sacrificio Necesario Para La Guerra"]

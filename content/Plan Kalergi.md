@@ -2,7 +2,7 @@
 titulo: "Plan Kalergi: El Diseño De La Nueva Europa"
 tipo: "evento"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [europa, george, nueva, unin]
@@ -22,7 +22,7 @@ publish: true
 
 ### Tier B (Los Operativos De La Invasión Migratoria)
 
-- **Logística y Legislación del Caos:** El Tier B político (Bruselas) y financiero (Soros) implementa la infraestructura de la migración. A través del **Pacto Mundial sobre Migración de la ONU**, se criminaliza la defensa de las fronteras nacionales de **[[Tier C]]**. Las ONGs de Tier B actúan como el brazo logístico, operando barcos en el Mediterráneo que coordinan con traficantes de personas para asegurar un flujo constante de inmigrantes. El Tier B administrativo otorga el "Premio Kalergi" a líderes como Merkel o el Papa Francisco, señalando su lealtad al plan demo-ingenieril de la élite.
+- **Logística y Legislación del Caos:** la capa política (Bruselas) y financiera (Soros) implementa la infraestructura de la migración. A través del **Pacto Mundial sobre Migración de la ONU**, se criminaliza la defensa de las fronteras nacionales de **[[Tier C]]**. Las ONGs de Tier B actúan como el brazo logístico, operando barcos en el Mediterráneo que coordinan con traficantes de personas para asegurar un flujo constante de inmigrantes. El Tier B administrativo otorga el "Premio Kalergi" a líderes como Merkel o el Papa Francisco, señalando su lealtad al plan demo-ingenieril de la élite.
 
 ## Mecanismos De Poder (Sistémicos)
 

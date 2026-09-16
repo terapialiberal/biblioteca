@@ -2,7 +2,7 @@
 titulo: Stablecoins
 tipo: concepto
 fecha: 2026-04-19
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 tags: [stablecoins, dolar-digital, cripto, liquidez, rails-financieros, tl-intel-v3]

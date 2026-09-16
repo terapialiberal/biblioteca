@@ -2,7 +2,7 @@
 titulo: Los 4 Jinetes del Agro
 tipo: concepto
 fecha: 2026-04-18
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 aliases: ["Los 4 Jinetes Del Agro (Cartel ABCD)", "Cartel ABCD"]

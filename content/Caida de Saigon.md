@@ -2,7 +2,7 @@
 titulo: Caída De Saigón
 tipo: "evento"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [cada, golfo, saign, tringulo]

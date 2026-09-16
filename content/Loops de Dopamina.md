@@ -2,7 +2,7 @@
 titulo: Loops de Dopamina
 tipo: concepto
 fecha: 2026-04-18
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 aliases: ["Loops De Dopamina: El Hackeo Neuroquimico Del Tier B"]

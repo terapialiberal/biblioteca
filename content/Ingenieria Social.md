@@ -2,7 +2,7 @@
 titulo: Ingenieria Social
 tipo: concepto
 fecha: 2026-04-21
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 tags: [ingenieria-social, conducta, percepcion, gobernanza, manipulacion, tl-intel-v3]

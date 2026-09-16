@@ -7,7 +7,7 @@ tipo: alias
 estado: legacy
 reemplazado_por: "[[Genie Energy]]"
 fecha:
-tier:
+
 tags: [legacy, alias, import-crudo, wikipedia]
 ---
 

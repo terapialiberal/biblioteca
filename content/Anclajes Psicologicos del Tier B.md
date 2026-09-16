@@ -5,7 +5,7 @@ fecha: 2026-04-27
 estado: activo
 aliases: ["Anclajes Psicológicos del Tier B"]
 tags: [tier-b, anclajes-psicologicos, operadores, incentivos, tl-intel-v3]
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 publish: true
 ---

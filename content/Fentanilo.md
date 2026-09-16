@@ -2,7 +2,7 @@
 titulo: Fentanilo (Guerra Híbrida)
 tipo: "concepto"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [cjng, fentanilo, guerra, hbrida]
@@ -22,7 +22,7 @@ publish: true
 ### Tier A (Los Estrategas Del Caos)
 
 - **Doctrina de Guerra Irrestricta:** China utiliza el narcotráfico como un vector militar no convencional. Al mantener la frontera de EE.UU. abierta y la adicción al máximo, China incapacita a la juventud estadounidense en edad militar, debilitando la capacidad de defensa del país a largo plazo.
-- **Lavado de Dinero Tecnológico:** El Tier A financiero chino utiliza aplicaciones de mensajería (WeChat) y sistemas bancarios informales para lavar los activos del fentanilo, integrándolos en la economía formal china mientras el valor fluye fuera de Occidente.
+- **Lavado de Dinero Tecnológico:** El Tier A chino utiliza aplicaciones de mensajería (WeChat) y sistemas bancarios informales para lavar los activos del fentanilo, integrándolos en la economía formal china mientras el valor fluye fuera de Occidente.
 
 ### Tier B (Operadores / Cárteles Y Logística)
 

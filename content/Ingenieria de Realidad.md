@@ -5,7 +5,7 @@ fecha: 2026-04-27
 estado: activo
 aliases: ["Ingeniería De Realidad (AR/VR)"]
 tags: [ingenieria-de-realidad, ar, vr, percepcion, tecnologia-de-control, tl-intel-v3]
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 publish: true
 ---

@@ -2,7 +2,7 @@
 titulo: El Vacunatorio VIP
 tipo: evento
 fecha: 2026-04-21
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 tags: [vacunatorio-vip, argentina, covid, privilegio, biopolitica, tl-intel-v3]

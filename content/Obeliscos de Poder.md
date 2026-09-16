@@ -2,7 +2,7 @@
 titulo: "Obeliscos De Poder: Las Antenas Del Dominio Geomántico"
 tipo: "concepto"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [antenas, jesuitas, obeliscos, poder]

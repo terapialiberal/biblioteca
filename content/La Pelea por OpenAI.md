@@ -2,7 +2,7 @@
 titulo: "La Pelea Por OpenAI: El Golpe De Estado Del Capital Aceleracionista"
 tipo: "evento"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [estado, golpe, openai, pelea]

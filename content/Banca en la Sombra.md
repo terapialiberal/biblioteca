@@ -2,7 +2,7 @@
 titulo: Banca en la Sombra
 tipo: concepto
 fecha: 2026-04-18
-tier_primario: a
+capa_tema: a
 nivel_evidencia: alto
 estado: activo
 aliases: ["Shadow Banking", "Banca en la Sombra - El Sistema Financiero Paralelo (Shadow Banking)"]

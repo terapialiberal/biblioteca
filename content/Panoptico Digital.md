@@ -2,7 +2,7 @@
 titulo: Panoptico Digital
 tipo: concepto
 fecha: 2026-04-21
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 aliases: ["Panóptico Digital", "Panóptico Digital: El Ojo Que Está En Todas Partes"]

@@ -2,7 +2,7 @@
 titulo: Hiperinflación
 tipo: concepto
 fecha: 2026-05-02
-tier_primario: c
+capa_tema: c
 nivel_evidencia: alto
 estado: activo
 aliases: ["Hiperinflacion", "Hiperinflación (Fenómeno)"]

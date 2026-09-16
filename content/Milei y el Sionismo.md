@@ -2,7 +2,7 @@
 titulo: "Milei Y El Sionismo: El Pacto Espiritual Y Geopolítico"
 tipo: "concepto"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [eduardo, espiritual, geopoltico, sionismo]

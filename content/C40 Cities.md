@@ -24,7 +24,7 @@ publish: true
 - **Financiamiento de Élite:** Bloomberg y Soros usan C40 para puentear a los gobiernos nacionales y aplicar agendas globales directamente a nivel municipal. El objetivo es la desarticulación de la soberanía nacional a favor de una red de ciudades-estado bajo mando tecnocrático.
 - **Arup & Leeds University:** Los autores de los informes técnicos que sugieren metas radicales para 2030: **0 kg de carne**, **0 vehículos privados** y **3 prendas de ropa** al año por habitante.
 
-### Tier B (Operadores / Alcaldes)
+### Operadores / Alcaldes
 
 - **Sadiq Khan (Londres):** Principal promotor de las ZBE (Zonas de Bajas Emisiones) que multan a los trabajadores por circular en sus vehículos propios, forzándolos al transporte público vigilado.
 - **Alcaldes Globalistas:** Actúan como los "capataces" del barrio, aplicando regulaciones que gentrifican los centros y empujan a la clase media a la periferia controlada.

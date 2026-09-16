@@ -4,7 +4,7 @@ titulo: "Bermudas"
 aliases: ["Bermudas"]
 tags: [jurisdiccion, offshore, paraiso-fiscal, reaseguros]
 tipo: jurisdiccion
-nivel: B
+capa_tema: b
 ---
 
 # Bermudas

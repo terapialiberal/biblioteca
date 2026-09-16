@@ -2,7 +2,7 @@
 titulo: Golpe En Irán 1953
 tipo: "evento"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: ["1953", golpe, irn, petrleo]

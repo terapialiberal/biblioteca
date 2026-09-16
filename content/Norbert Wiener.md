@@ -18,7 +18,7 @@ publish: true
 
 ### Tier A: Los Diseñadores Del Panóptico
 
-- **La Ciencia del Control Global:** El Tier A financiero y militar adoptó la Cibernética de Wiener para gestionar la complejidad del mundo post-Segunda Guerra Mundial. Al ver a los seres humanos (Tier C) como nodos de información intercambiables, crearon un modelo de gobernanza donde el "orden" se mantiene mediante estímulos y respuestas programadas.
+- **La Ciencia del Control Global:** El Tier A y militar adoptó la Cibernética de Wiener para gestionar la complejidad del mundo post-Segunda Guerra Mundial. Al ver a los seres humanos (Tier C) como nodos de información intercambiables, crearon un modelo de gobernanza donde el "orden" se mantiene mediante estímulos y respuestas programadas.
 - **Las Conferencias Macy:** Wiener fue la figura central de estas reuniones financiadas por el Tier A, donde se fusionaron las matemáticas, la psicología y la sociología para sentar las bases de la IA y el control mental masivo. El objetivo final era la creación de un sistema de equilibrio homeostático donde el conflicto (la libertad) fuera eliminado por el diseño del sistema.
 
 ### Tier B: Los Administradores Del Algoritmo

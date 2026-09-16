@@ -4,7 +4,7 @@ titulo: "Bitfinex"
 aliases: ["Bitfinex"]
 tags: [cripto, exchange, tether, offshore]
 tipo: empresa
-nivel: C
+tier_primario: C
 ---
 
 # Bitfinex

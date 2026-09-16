@@ -2,7 +2,7 @@
 titulo: Golpes En El Sahel
 tipo: "evento"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [golpes, sahel, uranio, wagner]
@@ -21,7 +21,7 @@ publish: true
 
 ### Tier A (Los Dueños De La Energía Nuclear Y El Oro)
 
-- **Françafrique:** El Tier A financiero francés (Areva/Orano) depende del uranio de Níger para que las luces de París sigan encendidas. La pérdida de estos países es un golpe mortal a la autonomía estratégica de Francia y, por extensión, de la UE.
+- **Françafrique:** El Tier A francés (Areva/Orano) depende del uranio de Níger para que las luces de París sigan encendidas. La pérdida de estos países es un golpe mortal a la autonomía estratégica de Francia y, por extensión, de la UE.
 - **Guerra de Recursos Rusia vs Occidente:** El Tier A ruso (Vía Wagner) ha aprovechado el vacío para asegurar el acceso a recursos críticos, desplazando a las multinacionales occidentales en un movimiento de pinza geopolítica sobre el continente.
 
 ### Tier B (Operadores / Capitanes Del Cambio)

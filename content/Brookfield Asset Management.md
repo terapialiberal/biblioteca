@@ -4,7 +4,7 @@ titulo: "Brookfield Asset Management"
 aliases: ["Brookfield Asset Management"]
 tags: [empresa, infraestructura, private-equity, canadiense]
 tipo: empresa
-nivel: A
+tier_primario: A
 ---
 
 # Brookfield Asset Management

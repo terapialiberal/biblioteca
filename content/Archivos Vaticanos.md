@@ -4,12 +4,13 @@ tipo: "entidad"
 fecha: 2026-02-25
 estado: activo
 tags: [archivos, dones, lnea, vaticanos]
-tier_primario: "a"
 nivel_evidencia: "total"
 publish: true
 ---
 
 # Archivos Vaticanos (El Búnker De La Historia)
+
+> **Clasificación (2026-09-15):** no es un actor (objeto, archivo o concepto): el tier clasifica actores, así que el campo se retira.
 
 > [!ABSTRACT] Hipótesis Informativa
 > Los **Archivos Apostólicos Vaticanos** (antes Secretos) contienen 85 kilómetros de estanterías con documentos que abarcan más de un milenio. Forensemente, son la **Caja Negra de la Civilización**. No solo guardan registros religiosos, sino los títulos de propiedad, linajes reales y pruebas de tecnologías antiguas que el Tier A utiliza para mantener su legitimidad. Es el nodo de información central donde el "Tiempo Real" se encuentra con el "Tiempo Sagrado".

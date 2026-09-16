@@ -4,12 +4,13 @@ tipo: "entidad"
 fecha: 2026-02-25
 estado: activo
 tags: [caminos, discretos, hcate]
-tier_primario: "a"
 nivel_evidencia: "alto"
 publish: true
 ---
 
 # Hécate - La Red De Caminos Discretos
+
+> **Clasificación (2026-09-15):** no es un actor (objeto, archivo o concepto): el tier clasifica actores, así que el campo se retira.
 
 > [!ABSTRACT] Hipótesis Informativa
 > **Hécate** es la diosa de las encrucijadas, la magia y el mundo subterráneo. Forensemente, representa la **Gestión de Redes No-Institucionales (Dark Networks)**. Hécate es la protectora de los caminos que no aparecen en los mapas oficiales del Tier C. Es el arquetipo de la **Operación Clandestina**.

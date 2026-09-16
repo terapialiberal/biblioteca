@@ -2,7 +2,7 @@
 titulo: Resumen General
 tipo: "persona"
 fecha: 2026-02-25
-tier_primario: "b"
+tier_primario: c
 nivel_evidencia: "medio"
 estado: activo
 tags: [donald, elon, ramaswamy, vivek]
@@ -11,7 +11,8 @@ publish: true
 
 # Resumen General
 
-Vivek Ramaswamy (1985-) es un empresario y político que compitió por la nominación republicana 2024. Fundador de Roivant Sciences (biotech), se posicionó como candidato "anti-woke" y luego se alineó con Trump.
+> **Clasificación (2026-09-15):** cargo político de gobierno: cuadro visible y reemplazable (Tier C por canon).
+> Vivek Ramaswamy (1985-) es un empresario y político que compitió por la nominación republicana 2024. Fundador de Roivant Sciences (biotech), se posicionó como candidato "anti-woke" y luego se alineó con Trump.
 
 # Puntos Clave
 

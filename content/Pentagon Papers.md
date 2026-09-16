@@ -18,7 +18,7 @@ publish: true
 
 ### Tier B (El Estado Como Generador De Realidades Falsas)
 
-- **La Mentira Estructural:** Para el Tier B gubernamental (Kennedy, Johnson, Nixon), la Guerra de Vietnam no era un fin en sí mismo, sino un medio para demostrar la resolución global de EE.UU. Los Pentagon Papers mostraron que el Tier B expandió la guerra secretamente a países vecinos (Laos y Camboya) mientras públicamente prometía desescalar. El informe McNamara (que dio origen a los papeles) es la autopsia de la **Hubris Tecnocrática**: la creencia de que el poder militar y estadístico de Tier B podía doblegar la voluntad nacional de un país del Tercer Mundo mediante el engaño sistemático a su propio electorado.
+- **La Mentira Estructural:** Para la capa de gobierno (Kennedy, Johnson, Nixon), la Guerra de Vietnam no era un fin en sí mismo, sino un medio para demostrar la resolución global de EE.UU. Los Pentagon Papers mostraron que el Tier B expandió la guerra secretamente a países vecinos (Laos y Camboya) mientras públicamente prometía desescalar. El informe McNamara (que dio origen a los papeles) es la autopsia de la **Hubris Tecnocrática**: la creencia de que el poder militar y estadístico de Tier B podía doblegar la voluntad nacional de un país del Tercer Mundo mediante el engaño sistemático a su propio electorado.
 
 ### Tier C (El Whistleblower Y El Despertar De La Prensa)
 
@@ -26,7 +26,7 @@ publish: true
 
 ## Mecanismos De Poder (Control De Información)
 
-1. **Restricción Previa (Prior Restraint)**: El intento de la administración Nixon de usar la justicia para prohibir que periódicos publicaran materiales de defensa, un precedente que buscaba convertir a la prensa en una oficina del gobierno de Tier B.
+1. **Restricción Previa (Prior Restraint)**: El intento de la administración Nixon de usar la justicia para prohibir que periódicos publicaran materiales de defensa, un precedente que buscaba convertir a la prensa en una oficina del gobierno (Tier C).
 2. **Expansión Clandestina de Hostilidades**: Uso de misiones secretas en países neutrales sin autorización del Congreso, demostrando que el Tier B operativo ignora los límites constitucionales cuando su agenda de poder así lo requiere.
 
 ## Conexiones Críticas

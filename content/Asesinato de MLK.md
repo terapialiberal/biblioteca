@@ -2,7 +2,7 @@
 titulo: Asesinato De MLK (Juicio 1999)
 tipo: "evento"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: ["1999", asesinato, juicio]

@@ -8,7 +8,7 @@ tags:
   - energia
   - poblacion
 tipo: concepto
-nivel: C
+capa_tema: c
 titulo: Aborto y Gestión de Energía
 ---
 

@@ -19,7 +19,7 @@ publish: true
 
 ## Análisis De Poder (Tiers)
 
-### Tier A (El Pentágono Y El Departamento De Estado)
+### El Pentágono Y El Departamento De Estado
 
 - **Tercerización de la Influencia:** El Tier A utiliza a Chemonics para realizar operaciones que serían políticamente sensibles si las hiciera directamente el gobierno. Permiten una "negación plausible" mientras instalan la infraestructura necesaria para los intereses corporativos estadounidenses.
 - **Captura de Mercados Emergentes:** Su función real es abrir los mercados de las naciones en desarrollo para las multinacionales de Tier A, reescribiendo códigos comerciales y agrarios en nombre de la "eficiencia".

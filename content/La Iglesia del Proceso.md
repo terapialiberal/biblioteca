@@ -2,7 +2,7 @@
 titulo: "La Iglesia Del Proceso: El Laboratorio De La Oscuridad Sintética"
 tipo: "concepto"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [charles, cienciologa, laboratorio, proceso]

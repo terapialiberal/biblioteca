@@ -18,12 +18,12 @@ publish: true
 
 ### Tier A: Los Curadores De La Inestabilidad Programada
 
-- **El Control de la Metrópolis:** Para el Tier A financiero y político nacional, la Bonaerense es el "botón de pánico". El sistema permite la existencia de esta fuerza corrupta porque es la única que tiene la capilaridad necesaria para contener (o encender) estallidos sociales en el Gran Buenos Aires. El Tier A utiliza a la cúpula policial como un interlocutor secreto para negociar la "paz social" en momentos de crisis económica, entendiendo que el orden en GBA es la garantía de la estabilidad del sistema institucional argentino.
+- **El Control de la Metrópolis:** Para el Tier A y político nacional, la Bonaerense es el "botón de pánico". El sistema permite la existencia de esta fuerza corrupta porque es la única que tiene la capilaridad necesaria para contener (o encender) estallidos sociales en el Gran Buenos Aires. El Tier A utiliza a la cúpula policial como un interlocutor secreto para negociar la "paz social" en momentos de crisis económica, entendiendo que el orden en GBA es la garantía de la estabilidad del sistema institucional argentino.
 - **La Inteligencia Territorial (DIPBA):** Los archivos históricos y actuales de la inteligencia policial bonaerense son un activo de Tier A. Poseen información de campo sobre cada movimiento social, puntero político y sacerdote de barrio, permitiendo una micro-gestión de la población que las agencias federales no pueden replicar.
 
 ### Tier B: Los Administradores Del Peaje Y La Caja (La Cúpula)
 
-- **El Pacto de Autogobierno:** El Tier B político (Gobernadores e Intendentes) ha establecido una relación simbiótica con la fuerza. La política cede el mando operativo ("se autogobiernan") a cambio de que la policía financie las campañas electorales con la recaudación de los búnkeres de droga y desarmaderos. Cuando un civil intenta una reforma real, el Tier B policial responde con **Zonas Liberadas**, disparando la sensación de inseguridad hasta que el reformista es eyectado del cargo.
+- **El Pacto de Autogobierno:** la capa política (Gobernadores e Intendentes) ha establecido una relación simbiótica con la fuerza. La política cede el mando operativo ("se autogobiernan") a cambio de que la policía financie las campañas electorales con la recaudación de los búnkeres de droga y desarmaderos. Cuando un civil intenta una reforma real, el Tier B policial responde con **Zonas Liberadas**, disparando la sensación de inseguridad hasta que el reformista es eyectado del cargo.
 - **Los Barones del Conurbano:** La Bonaerense es el brazo armado de los intendentes locales. Cada comisaría funciona como una embajada de poder que negocia con el crimen y la política local, asegurando que el territorio permanezca bajo control y que la disidencia sea neutralizada mediante el acoso policial o la fabricación de causas.
 
 ### Tier C: La Población En La Extorsión Cotidiana

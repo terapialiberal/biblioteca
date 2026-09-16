@@ -1,7 +1,7 @@
 ---
 titulo: Alquimia Digital
 tipo: "concepto"
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "alto"
 estado: activo
 tags: [blockchain, cbdc, alquimia, oro-digital, control]

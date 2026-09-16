@@ -21,7 +21,7 @@ publish: true
 
 ### Tier A (Los Dueños De La Continuidad Del Reich)
 
-- **Standard Oil y el Pacto Global:** Incluso durante la Segunda Guerra Mundial, el Tier A americano (**Rockefeller / Standard Oil**) mantuvo acuerdos de patentes y carteles con IG Farben. El Tier A financiero decidió qué fábricas de IG Farben NO bombardear, preservando la infraestructura para la economía global de posguerra.
+- **Standard Oil y el Pacto Global:** Incluso durante la Segunda Guerra Mundial, el Tier A americano (**Rockefeller / Standard Oil**) mantuvo acuerdos de patentes y carteles con IG Farben. El Tier A decidió qué fábricas de IG Farben NO bombardear, preservando la infraestructura para la economía global de posguerra.
 - **Arquitectos de la UE:** Walter Hallstein, un abogado que trabajó para IG Farben durante el nazismo, se convirtió en el primer presidente de la Comisión Europea. El plan de IG Farben para un "Espacio Económico Europeo" centralizado es el plano fundacional de la UE actual.
 
 ### Tier B (Operadores / Directores De Bayer Y BASF)

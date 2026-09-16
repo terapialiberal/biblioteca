@@ -2,7 +2,7 @@
 titulo: Complejo Militar-Industrial
 tipo: concepto
 fecha: 2026-05-02
-tier_primario: b
+capa_tema: b
 nivel_evidencia: alto
 estado: activo
 aliases: ["Complejo Militar Industrial", "Military-Industrial Complex", "Industria Militar Complejo"]

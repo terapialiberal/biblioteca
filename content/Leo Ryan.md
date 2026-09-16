@@ -4,7 +4,7 @@ titulo: "Leo Ryan"
 aliases: ["Leo Ryan"]
 tags: [actor, congreso-eeuu, jonestown]
 tipo: actor
-nivel: C
+tier_primario: C
 ---
 
 # Leo Ryan

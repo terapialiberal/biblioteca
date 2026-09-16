@@ -2,7 +2,7 @@
 titulo: Nadine Chakar
 tipo: persona
 fecha: '2026-05-29'
-tier: A
+tier_primario: A
 rol: 'DTCC Managing Director, Global Head of Digital Assets'
 estado: activo
 tags:

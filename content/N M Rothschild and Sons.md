@@ -1,8 +1,8 @@
 ---
 titulo: "N M Rothschild and Sons: El Arquitecto De La Deuda Soberana"
-tipo: "concepto"
+tipo: "entidad"
 fecha: 2026-02-25
-tier_primario: "b"
+tier_primario: "a"
 nivel_evidencia: "medio"
 estado: activo
 tags: [arquitecto, city, deuda, rothschild]
@@ -10,6 +10,9 @@ publish: true
 ---
 
 # N M Rothschild and Sons: El Arquitecto De La Deuda Soberana
+
+> **Clasificación corregida (2026-09-15):** `B` → `A` — casa bancaria de la dinastía Rothschild: capital propio, no administración de capital ajeno (los bancos de la lista blanca de A incluyen ya a Goldman, JPMorgan, HSBC y Deutsche).
+> **Nota de vocabulario:** donde esta ficha usa «Tier A / Tier B / Tier C» en encabezados de sección, usa el vocabulario anterior al canon de actores (capas de la estructura: dueños / operadores / cara visible). La clasificación de este sujeto es la del frontmatter (`tier_primario` en actores, `capa_tema` en objetos).
 
 > [!ABSTRACT] Hipótesis Informativa
 > N M Rothschild and Sons no es solo un banco de inversión; es el **nodo central de la arquitectura financiera de [[Tier A]]**. Desde las guerras napoleónicas hasta las privatizaciones modernas, ha actuado como el asesor invisible que transforma el patrimonio de las naciones en activos para la élite global. Su poder reside en su rol como intermediario de confianza de las dinastías europeas y su control histórico sobre los mecanismos de fijación de valor (oro), asegurando que el sistema de deuda global siempre favorezca a los acreedores sutiles sobre los estados soberanos.
@@ -21,9 +24,9 @@ publish: true
 - **Financiación de Imperios:** El banco consolidó su poder al financiar las rutas coloniales británicas y el canal de Suez. Esta capacidad de emitir deuda para estados nacionales le otorgó a los Rothschild un **Veto Operativo** sobre las políticas de guerra y paz de las potencias europeas. Si el banco no financiaba, la guerra no ocurría; si financiaba a ambos bandos, el banco siempre ganaba.
 - **El Oro y el Control del Valor:** Al liderar el mercado del oro, el banco controlaba la medida última del valor frente al papel moneda. Esto les permitió gestionar las transiciones monetarias globales y proteger la riqueza de la Nobleza de Tier A ante las devaluaciones que sufría el Tier C.
 
-### Tier B (Los Ingenieros De La Privatización)
+### Los Ingenieros De La Privatización
 
-- **La Era de las Desnacionalizaciones:** Bajo la dirección de Evelyn de Rothschild, el banco fue el cerebro técnico detrás de las privatizaciones de British Telecom, British Gas y otras joyas estatales. Es la operativa de Tier B: tomar el patrimonio construido por el Tier C y entregárselo a las corporaciones de Tier A mediante una ingeniería financiera que se vende como "eficiencia del mercado".
+- **La Era de las Desnacionalizaciones:** Bajo la dirección de Evelyn de Rothschild, el banco fue el cerebro técnico detrás de las privatizaciones de British Telecom, British Gas y otras joyas estatales. Es la operativa financiera de la casa (Tier A) sobre el terreno: tomar el patrimonio construido por el Tier C y entregárselo a las corporaciones de Tier A mediante una ingeniería financiera que se vende como "eficiencia del mercado".
 
 ## ¸ Mecanismos De Poder
 

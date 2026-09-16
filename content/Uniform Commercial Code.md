@@ -3,7 +3,7 @@ titulo: Uniform Commercial Code
 tipo: concepto
 fecha: 2026-04-22
 aliases: ["UCC"]
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 tags: [ucc, uniform-commercial-code, propiedad-beneficiaria, colateral, clearing, tl-intel-v3]

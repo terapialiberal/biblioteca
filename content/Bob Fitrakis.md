@@ -4,7 +4,7 @@ titulo: "Bob Fitrakis"
 aliases: ["Bob Fitrakis"]
 tags: [actor, periodismo, investigacion, elecciones]
 tipo: actor
-nivel: C
+tier_primario: C
 ---
 
 # Bob Fitrakis

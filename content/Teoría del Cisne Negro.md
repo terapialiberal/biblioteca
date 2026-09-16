@@ -4,7 +4,7 @@ titulo: "Teoría del Cisne Negro"
 aliases: ["Teoria del Cisne Negro", "Teoría del Cisne Negro"]
 tags: [concepto, riesgo, finanzas, taleb]
 tipo: concepto
-nivel: C
+capa_tema: c
 ---
 
 # Teoría del Cisne Negro

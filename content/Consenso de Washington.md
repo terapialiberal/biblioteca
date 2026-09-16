@@ -2,7 +2,7 @@
 titulo: Consenso de Washington
 tipo: concepto
 fecha: 2026-04-24
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 tags: [consenso-de-washington, fmi, banco-mundial, ajuste, neoliberalismo, tl-intel-v3]

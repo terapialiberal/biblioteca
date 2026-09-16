@@ -1,7 +1,7 @@
 ---
 titulo: Neuromarketing Esoterico
 tipo: "concepto"
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [marketing, esoterismo, simbolos, inconsciente]

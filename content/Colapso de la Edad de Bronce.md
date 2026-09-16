@@ -2,7 +2,7 @@
 titulo: Colapso De La Edad De Bronce (1177 a.C.)
 tipo: "concepto"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [cisne, colapso, edad, naciones]

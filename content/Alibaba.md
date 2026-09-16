@@ -8,7 +8,7 @@ tags:
   - ecommerce
   - tecnologia
 tipo: empresa
-nivel: B
+tier_primario: B
 titulo: Alibaba
 ---
 

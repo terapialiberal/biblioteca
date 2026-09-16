@@ -2,7 +2,7 @@
 titulo: Google Glass
 tipo: producto
 fecha: 2026-04-19
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 tags: [google-glass, wearables, vigilancia, realidad-aumentada, google, tl-intel-v3]

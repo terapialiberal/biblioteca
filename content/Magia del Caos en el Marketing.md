@@ -4,7 +4,7 @@ tipo: concepto
 fecha: 2026-04-27
 estado: activo
 tags: [magia-del-caos, marketing, branding, simbolismo, propaganda, tl-intel-v3]
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 publish: true
 ---

@@ -8,7 +8,7 @@ tags:
   - vigilancia
   - eeuu
 tipo: empresa
-nivel: B
+tier_primario: B
 titulo: AT&T
 ---
 

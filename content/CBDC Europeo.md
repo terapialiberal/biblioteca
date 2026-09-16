@@ -2,7 +2,7 @@
 titulo: CBDC Europeo
 tipo: concepto
 fecha: 2026-04-19
-tier_primario: a
+capa_tema: a
 nivel_evidencia: medio
 estado: activo
 moc_canonico: [[00_MOC - Finanzas y CBDC]]

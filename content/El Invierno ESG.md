@@ -24,7 +24,7 @@ publish: true
 - **Abandono del Título, no del Objetivo:** Larry Fink declaró que el término ESG "está demasiado politizado". Pero el Tier A no ha abandonado el plan de control; simplemente lo están renombrando como "Inversión de Impacto" o "Resiliencia Climática" para evadir la hostilidad pública mientras mantienen los mismos mecanismos de presión corporativa.
 - **La Disciplina del Mercado:** El Tier A aprendió que forzar la ideología por encima de la eficiencia productiva crea vulnerabilidades que potencias como China o los **[[BRICS]]** están dispuestos a explotar.
 
-### Tier B (Operadores / Gestores De Fondos Y Políticos)
+### Operadores / Gestores De Fondos Y Políticos
 
 - **Greenwashing al Descubierto:** Los operadores de Tier B fueron expuestos al demostrarse que el ESG no prevenía el fraude (ej: **[[SBF / FTX]]** tenía altos puntajes ESG) ni la insolvencia (ej: **Silicon Valley Bank**). La etiqueta era un producto de branding sin sustancia técnica.
 - **Resistencia Política:** Los fiscales generales de estados como Texas y Florida actuaron como el contrapoder de Tier B, utilizando las leyes anti-monopolio para frenar la coordinación de las gestoras de activos en la desinversión de combustibles fósiles.

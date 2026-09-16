@@ -2,7 +2,7 @@
 titulo: Eurodolares
 tipo: concepto
 fecha: 2026-04-17
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 tags: [eurodolares, dolar, liquidez, city-de-londres, banca-sombra, tl-intel-v3]

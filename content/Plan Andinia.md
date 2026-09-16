@@ -2,7 +2,7 @@
 titulo: "Plan Andinia: El Arca De Noé De La Patagonia"
 tipo: "evento"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [arca, guerra, patagonia, theodore]
@@ -22,7 +22,7 @@ publish: true
 
 ### Tier B (La Burocracia Entreguista Y La Operativa)
 
-- **El Mapeo de Defensa:** El Tier B operativo del IDF facilita que miles de oficiales de inteligencia y fuerzas especiales recorran la Patagonia anualmente bajo la fachada de "mochileros". Estos grupos no son turistas comunes; realizan cartografía detallada, establecen redes logísticas en hostales propios y mantienen un monitoreo constante del terreno. El Tier B político local (Chile/Argentina) facilita este proceso mediante legislaciones laxas sobre la venta de tierras a extranjeros y la inacción ante las pistas de aterrizaje clandestinas, actuando como el **Facilitador de la Desmembración Territorial**.
+- **El Mapeo de Defensa:** El Tier B operativo del IDF facilita que miles de oficiales de inteligencia y fuerzas especiales recorran la Patagonia anualmente bajo la fachada de "mochileros". Estos grupos no son turistas comunes; realizan cartografía detallada, establecen redes logísticas en hostales propios y mantienen un monitoreo constante del terreno. La capa política local (Chile/Argentina) facilita este proceso mediante legislaciones laxas sobre la venta de tierras a extranjeros y la inacción ante las pistas de aterrizaje clandestinas, actuando como el **Facilitador de la Desmembración Territorial**.
 
 ## Mecanismos De Poder (Geotácticos)
 

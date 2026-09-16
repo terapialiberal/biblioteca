@@ -15,14 +15,14 @@ publish: true
 
 **¿Qué fue?** La creación del primer banco central moderno de propiedad privada, establecido para financiar las deudas de guerra del rey Guillermo III.
 
-**¿Por qué importa?** La fundación del Banco de Inglaterra en 1694 es el **"Pacientes Cero" del sistema de esclavitud por deuda de Tier A**. Fue el momento en que se invirtió la jerarquía del poder: el Estado (el Rey) dejó de emitir su propia moneda y pasó a pedírsela prestada a un grupo privado de banqueros (los dueños del Banco) a cambio de pagar intereses eternos mediante impuestos a la población (Tier C). Este modelo de **"Deuda Perpetua"** permitió que una pequeña casta financiera controlara la política exterior y militar del Imperio Británico sin necesidad de ocupar cargos públicos. Es la arquitectura madre que luego se replicó en la **[[Reserva Federal]]** y en todos los bancos centrales modernos, asegurando que el Tier A financiero sea el verdadero soberano por encima de cualquier gobierno electo.
+**¿Por qué importa?** La fundación del Banco de Inglaterra en 1694 es el **"Pacientes Cero" del sistema de esclavitud por deuda de Tier A**. Fue el momento en que se invirtió la jerarquía del poder: el Estado (el Rey) dejó de emitir su propia moneda y pasó a pedírsela prestada a un grupo privado de banqueros (los dueños del Banco) a cambio de pagar intereses eternos mediante impuestos a la población (Tier C). Este modelo de **"Deuda Perpetua"** permitió que una pequeña casta financiera controlara la política exterior y militar del Imperio Británico sin necesidad de ocupar cargos públicos. Es la arquitectura madre que luego se replicó en la **[[Reserva Federal]]** y en todos los bancos centrales modernos, asegurando que el Tier A sea el verdadero soberano por encima de cualquier gobierno electo.
 
 ## Análisis De Poder (Tiers)
 
 ### Tier A (Los Dueños Del Aire)
 
 - **Dinero de la Nada:** El charter de 1694 permitió a los banqueros emitir billetes (papel) basados en la deuda del gobierno. Por primera vez, el dinero se convirtió en un pasivo en lugar de una reserva física (oro). El Tier A descubrió que podía "crear" valor de la nada y cobrar intereses reales por ello.
-- **La City de Londres:** La fundación del banco consolidó a la City como un "Estado dentro del Estado", una jurisdicción independiente donde el Tier A financiero dicta sus propias leyes y protege su anonimato.
+- **La City de Londres:** La fundación del banco consolidó a la City como un "Estado dentro del Estado", una jurisdicción independiente donde el Tier A dicta sus propias leyes y protege su anonimato.
 
 ### Tier B (Operadores / Guillermo III Y El Parlamento)
 

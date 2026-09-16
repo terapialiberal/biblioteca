@@ -4,7 +4,7 @@ publish: true
 tipo: concepto
 fecha: 2026-07-14
 vigencia: 2026-07-14
-tier_primario: A
+capa_tema: a
 nivel_evidencia: medio
 estado: activo
 aliases: ["MICC", "Military-industrial complex", "Complejo Militar-Industrial-Congresional"]

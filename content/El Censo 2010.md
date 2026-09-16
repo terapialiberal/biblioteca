@@ -2,7 +2,7 @@
 titulo: El Censo 2010 (Manipulado)
 tipo: "evento"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: ["2010", guillermo, indec, manipulado]
@@ -15,13 +15,13 @@ publish: true
 
 **¿Qué fue?** El censo nacional de hogares y población de Argentina realizado el día de la muerte de Néstor Kirchner, que presuntamente incluyó la manipulación de datos demográficos en municipios clave.
 
-**¿Por qué importa?** El Censo 2010 es el ejemplo perfecto de la **"Corrupción del Dato Base" por parte del Tier B político**. Mediante la inflación artificial de la población de **La Matanza** (bastión del kirchnerismo), el poder político logró desviar billones de pesos de la coparticipación federal que correspondían a otros municipios. No fue solo un error técnico; fue una herramienta de ingeniería financiera para financiar el aparato territorial peronista. La confirmación del fraude llegó en el Censo 2022, donde se demostró que en La Matanza "sobraban" cientos de miles de personas que supuestamente existían en 2010 pero que no aparecieron doce años después. Es la prueba de que el Tier B no solo manipula la inflación o el PIB, sino que es capaz de "inventar personas" para saquear el tesoro nacional.
+**¿Por qué importa?** El Censo 2010 es el ejemplo perfecto de la **"Corrupción del Dato Base" por parte de la capa política**. Mediante la inflación artificial de la población de **La Matanza** (bastión del kirchnerismo), el poder político logró desviar billones de pesos de la coparticipación federal que correspondían a otros municipios. No fue solo un error técnico; fue una herramienta de ingeniería financiera para financiar el aparato territorial peronista. La confirmación del fraude llegó en el Censo 2022, donde se demostró que en La Matanza "sobraban" cientos de miles de personas que supuestamente existían en 2010 pero que no aparecieron doce años después. Es la prueba de que el Tier B no solo manipula la inflación o el PIB, sino que es capaz de "inventar personas" para saquear el tesoro nacional.
 
 ## Análisis De Poder (Tiers)
 
 ### Tier A (La Matriz De Fondos Públicos)
 
-- **Financiamiento del Feudo:** El Tier A político-sindical utiliza las estadísticas para garantizar el flujo de fondos hacia sus "zonas liberadas" de control electoral. El Censo capturado fue la garantía de que el dinero de Córdoba, CABA o Santa Fe terminara subsidiando la estructura clientelar del Conurbano.
+- **Financiamiento del Feudo:** la dirigencia política-sindical utiliza las estadísticas para garantizar el flujo de fondos hacia sus "zonas liberadas" de control electoral. El Censo capturado fue la garantía de que el dinero de Córdoba, CABA o Santa Fe terminara subsidiando la estructura clientelar del Conurbano.
 
 ### Tier B (Operadores / El INDEC De Moreno)
 

@@ -2,7 +2,7 @@
 titulo: Causa Cuadernos
 tipo: evento
 fecha: 2026-04-18
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 tags: [argentina, cuadernos, obra-publica, kirchnerismo, corrupcion, tl-intel-v3]

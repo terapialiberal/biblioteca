@@ -2,7 +2,7 @@
 titulo: Eurovision
 tipo: "evento"
 fecha: 2026-03-04
-tier_primario: "c"
+capa_tema: "c"
 nivel_evidencia: "medio"
 estado: activo
 tags: [ingenieria-social, percepcion, cultura, propaganda, psicologica]

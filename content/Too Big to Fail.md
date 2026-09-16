@@ -2,7 +2,7 @@
 titulo: Too Big to Fail
 tipo: concepto
 fecha: 2026-05-02
-tier_primario: b
+capa_tema: b
 nivel_evidencia: alto
 estado: activo
 aliases: ["Too Big to Fail (Bancos Sistémicos)", "Demasiado grande para caer"]

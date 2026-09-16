@@ -2,7 +2,7 @@
 titulo: "La Laptop De Hunter Biden: El Registro De La Decadencia Oligárquica"
 tipo: "concepto"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [biden, burisma, decadencia, twitter]
@@ -18,7 +18,7 @@ publish: true
 
 ### Tier A: Los Curadores De La Inmunidad Dinástica
 
-- **La Protección del "Activo Biden":** Para el Tier A financiero y globalista, la familia Biden es un administrador útil de la política exterior de EE.UU. (especialmente en el eje Ucrania-Rusia). La filtración de la laptop amenazaba la estabilidad de esta gestión. El Tier A activó a sus mandos en la comunidad de inteligencia para emitir la "Carta de los 51 Espías", una operación de **guerra psicológica doméstica** destinada a invalidar la evidencia antes de que el [[Tier C]] pudiera procesarla.
+- **La Protección del "Activo Biden":** Para el Tier A y globalista, la familia Biden es un administrador útil de la política exterior de EE.UU. (especialmente en el eje Ucrania-Rusia). La filtración de la laptop amenazaba la estabilidad de esta gestión. El Tier A activó a sus mandos en la comunidad de inteligencia para emitir la "Carta de los 51 Espías", una operación de **guerra psicológica doméstica** destinada a invalidar la evidencia antes de que el [[Tier C]] pudiera procesarla.
 - **Titulización de la Corrupción:** Los correos sobre el "10% para el Big Guy" demuestran que las políticas de estado del Tier B son, en realidad, activos financieros que se liquidan en mesas de dinero de Beijing y Kyiv. El Tier A consiente esta corrupción mientras el administrador mantenga las líneas generales de la agenda transnacional.
 
 ### Tier B: Los Administradores Del Bloqueo (Deep State Y Big Tech)

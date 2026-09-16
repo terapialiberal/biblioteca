@@ -2,7 +2,7 @@
 titulo: Palantir AIP
 tipo: producto
 fecha: 2026-04-17
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 tags: [palantir-aip, palantir, ia, decision, tecnocracia, tl-intel-v3]

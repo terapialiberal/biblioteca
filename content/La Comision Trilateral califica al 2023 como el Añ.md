@@ -6,7 +6,7 @@ https: //asia.nikkei.com/politics/international-relations/indo-pacific/trilatera
 tipo: "evento"
 fecha: 2023-03-14T00:00:00.000Z
 usado en: null
-tier: null
+
 estado: activo
 tags: [comision-trilateral, geopolitica, geopolitica-china, geopolitica-orden-mundial, tecnologia-inteligencia-artificial]
 publish: true

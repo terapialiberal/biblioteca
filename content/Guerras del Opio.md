@@ -1,8 +1,8 @@
 ---
 titulo: Guerras Del Opio
-tipo: "concepto"
+tipo: "evento"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [fentanilo, guerras, hsbc, opio]
@@ -15,18 +15,20 @@ publish: true
 
 **¿Qué fueron?** Dos conflictos armados en el siglo XIX donde el Imperio Británico forzó a China a legalizar el comercio de opio y a abrir sus puertos al comercio extranjero, tras el intento chino de prohibir la droga que estaba destruyendo a su población.
 
-**¿Por qué importa?** Las Guerras del Opio son la **Partida de Nacimiento del Narcotráfico de Estado de Tier A**. Fue la primera vez que una potencia mundial utilizó su marina de guerra (la Royal Navy) para imponer el tráfico de drogas como una política económica oficial para equilibrar una balanza comercial (Reino Unido quería té y seda chinas, pero no tenía nada que vender a cambio, excepto el opio que cultivaba en India). Este evento fundó el poder financiero del Sudeste Asiático (creación de **[[HSBC]]** para lavar el dinero del opio) y enriqueció a las familias de élite que hoy dominan Wall Street y el Parlamento Británico (Sassoons, Jardines, Forbes, Delanos). Para China, esto inició el **"Siglo de la Humillación"**, un trauma histórico que el Tier A chino está cobrando hoy en día mediante la inundación de Occidente con **[[Fentanilo]]**.
+**¿Por qué importa?** Las Guerras del Opio son la **partida de nacimiento del narcotráfico de Estado**, ejecutada por la capa dueña (Tier A). Fue la primera vez que una potencia mundial utilizó su marina de guerra (la Royal Navy) para imponer el tráfico de drogas como una política económica oficial para equilibrar una balanza comercial (Reino Unido quería té y seda chinas, pero no tenía nada que vender a cambio, excepto el opio que cultivaba en India). Este evento fundó el poder financiero del Sudeste Asiático (creación de **[[HSBC]]** para lavar el dinero del opio) y enriqueció a las familias de élite que hoy dominan Wall Street y el Parlamento Británico (Sassoons, Jardines, Forbes, Delanos). Para China, esto inició el **"Siglo de la Humillación"**, un trauma histórico que el Tier A chino está cobrando hoy en día mediante la inundación de Occidente con **[[Fentanilo]]**.
 
 ## Análisis De Poder (Tiers)
+
+> **Nota de vocabulario:** donde esta ficha usa «Tier A / Tier B / Tier C» en encabezados de sección, usa el vocabulario anterior al canon de actores (capas de la estructura: dueños / operadores / cara visible). La clasificación de este sujeto es la del frontmatter (`tier_primario` en actores, `capa_tema` en objetos).
 
 ### Tier A (La Nobleza Británica Y Los Mercaderes Del Opio)
 
 - **La Corona como Cártel:** La Reina Victoria y la aristocracia británica eran los beneficiarios reales de la **Compañía de las Indias Orientales**, que monopolizaba el opio. La guerra fue una gestión de recuperación de activos privados mediante el uso del presupuesto del Estado.
-- **Fundación de HSBC:** El Tier A financiero creó el "Hong Kong and Shanghai Banking Corporation" específicamente para procesar y legalizar las ganancias del tráfico de opio, estableciendo el estándar de que la gran banca siempre está ligada al mercado negro de Tier A.
+- **Fundación de HSBC:** El Tier A creó el "Hong Kong and Shanghai Banking Corporation" específicamente para procesar y legalizar las ganancias del tráfico de opio, estableciendo el estándar de que la gran banca siempre está ligada al mercado negro de Tier A.
 
-### Tier B (Operadores / Comisionado Lin Y La Royal Navy)
+### Operadores / Comisionado Lin Y La Royal Navy
 
-- **Comisionado Lin Zexu:** El operador chino de Tier B que intentó defender la soberanía y la salud de su pueblo quemando cajas de opio, lo que sirvió de pretexto (falsa bandera moral) para la invasión británica.
+- **Comisionado Lin Zexu:** El funcionario imperial (capa C) que intentó defender la soberanía y la salud de su pueblo quemando cajas de opio, lo que sirvió de pretexto (falsa bandera moral) para la invasión británica.
 - **Mercaderes de Cantón (Jardine Matheson):** Los operadores de Tier B en el terreno que presionaron al Parlamento Británico para declarar la guerra, demostrando que la política exterior la dictan los balances contables de las empresas de Tier A.
 
 ### Tier C (Narrativa Pública)

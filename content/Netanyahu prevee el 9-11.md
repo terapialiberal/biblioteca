@@ -2,7 +2,7 @@
 titulo: Netanyahu Prevee El 9-11
 tipo: "concepto"
 fecha: 2026-03-04
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "alto"
 estado: activo
 tags: [netanyahu, 9-11, terrorismo, inteligencia, presciencia]

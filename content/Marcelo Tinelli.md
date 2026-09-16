@@ -4,7 +4,7 @@ titulo: "Marcelo Tinelli"
 aliases: ["Marcelo Tinelli"]
 tags: [actor, argentina, medios, entretenimiento]
 tipo: actor
-nivel: C
+tier_primario: C
 ---
 
 # Marcelo Tinelli

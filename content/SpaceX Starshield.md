@@ -2,7 +2,7 @@
 titulo: SpaceX Starshield
 tipo: programa
 fecha: 2026-04-19
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 tags: [spacex-starshield, spacex, satelites, defensa, espacio, tl-intel-v3]

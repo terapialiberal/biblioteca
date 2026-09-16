@@ -4,7 +4,7 @@ titulo: "Marcelo Figueiras"
 aliases: ["Marcelo Figueiras"]
 tags: [actor, argentina, farmaceutica, richmond]
 tipo: actor
-nivel: C
+tier_primario: C
 ---
 
 # Marcelo Figueiras

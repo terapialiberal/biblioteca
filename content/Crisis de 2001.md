@@ -2,7 +2,7 @@
 titulo: Crisis de 2001
 tipo: evento
 fecha: 2026-04-18
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 tags: [argentina, 2001, corralito, colapso, deuda, tl-intel-v3]

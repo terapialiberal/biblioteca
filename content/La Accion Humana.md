@@ -18,7 +18,7 @@ publish: true
 
 ### Tier A: Los Curadores Del Silencio Académico
 
-- **La Censura por Omisión:** Para el Tier A financiero y globalista (representado por las universidades de la Ivy League y los bancos centrales), _La Acción Humana_ es un documento prohibido. El sistema no puede refutar sus argumentos lógicos, por lo que opta por el silenciamiento institucional. Si la población del [[Tier C]] comprendiera que el Estado es, por definición, un destructor de valor y un falsificador de señales (inflación), la infraestructura de deuda sobre la que se asienta el Tier A colapsaría.
+- **La Censura por Omisión:** Para el Tier A y globalista (representado por las universidades de la Ivy League y los bancos centrales), _La Acción Humana_ es un documento prohibido. El sistema no puede refutar sus argumentos lógicos, por lo que opta por el silenciamiento institucional. Si la población del [[Tier C]] comprendiera que el Estado es, por definición, un destructor de valor y un falsificador de señales (inflación), la infraestructura de deuda sobre la que se asienta el Tier A colapsaría.
 - **Mises vs Davos:** El libro es la antítesis absoluta de la agenda del Foro Económico Mundial. Mientras **[[Klaus Schwab]]** aboga por el "Capitalismo de Stakeholders" (fascismo tecnocrático), Mises demuestra que solo la propiedad privada y el sistema de precios libre permiten la cooperación pacífica y la prosperidad.
 
 ### Tier B: Los Administradores De La Ilusión Del Control (Planificadores)

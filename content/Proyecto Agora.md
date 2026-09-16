@@ -2,7 +2,7 @@
 titulo: Proyecto Agora
 tipo: programa
 fecha: 2026-04-19
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 tags: [proyecto-agora, bis, cbdc, dinero-programable, unified-ledger, tl-intel-v3]

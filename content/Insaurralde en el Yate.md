@@ -2,7 +2,7 @@
 titulo: Insaurralde En El Yate
 tipo: "concepto"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [axel, insaurralde, javier, yate]
@@ -15,13 +15,13 @@ publish: true
 
 **¿Qué fue?** El escándalo público estallado tras la difusión de imágenes de Martín Insaurralde (entonces Jefe de Gabinete del Gobierno de la Provincia de Buenos Aires) en un yate de lujo llamado "Bandido" en Marbella, junto a la modelo Sofía Clerici, ostentando gastos millonarios en plena crisis económica argentina.
 
-**¿Por qué importa?** El "Yategate" es la **Pornografía de la Corrupción de Tier B**. No fue solo un caso de malversación de fondos o enriquecimiento ilícito; fue el momento en que la **Fricción Estética** rompió el relato político. Mientras el gobierno (Tier B) exigía sacrificios al Tier C (con 50% de pobreza e inflación desbocada) bajo la bandera de la "justicia social", uno de sus máximos referentes exhibía un nivel de vida monárquico con relojes Rolex y carteras Louis Vuitton en euros. Fue el catalizador que validó ante el Tier C la narrativa de "La Casta" de **[[Javier Milei]]**, demostrando que para el Tier B político, la "patria" es un negocio de extracción de rentas y el "pueblo" es solo el financista involuntario de sus vacaciones en el Mediterráneo.
+**¿Por qué importa?** El "Yategate" es la **Pornografía de la Corrupción de Tier B**. No fue solo un caso de malversación de fondos o enriquecimiento ilícito; fue el momento en que la **Fricción Estética** rompió el relato político. Mientras el gobierno (Tier B) exigía sacrificios al Tier C (con 50% de pobreza e inflación desbocada) bajo la bandera de la "justicia social", uno de sus máximos referentes exhibía un nivel de vida monárquico con relojes Rolex y carteras Louis Vuitton en euros. Fue el catalizador que validó ante el Tier C la narrativa de "La Casta" de **[[Javier Milei]]**, demostrando que para la capa política, la "patria" es un negocio de extracción de rentas y el "pueblo" es solo el financista involuntario de sus vacaciones en el Mediterráneo.
 
 ## Análisis De Poder (Tiers)
 
 ### Tier A (Los Beneficiarios De La Decadencia)
 
-- **Fin de un Ciclo Hegemónico:** El Tier A financiero y judicial utilizó la exposición de este escándalo (posiblemente una "operación de inteligencia" interna) para terminar de hundir al kirchnerismo y preparar la transición hacia un nuevo modelo de gestión. El Tier A deja caer a sus operadores de Tier B cuando su obscenidad se vuelve un lastre para la estabilidad del sistema.
+- **Fin de un Ciclo Hegemónico:** El Tier A y judicial utilizó la exposición de este escándalo (posiblemente una "operación de inteligencia" interna) para terminar de hundir al kirchnerismo y preparar la transición hacia un nuevo modelo de gestión. El Tier A deja caer a sus operadores de Tier B cuando su obscenidad se vuelve un lastre para la estabilidad del sistema.
 
 ### Tier B (Operadores / La Casta De Lomas De Zamora)
 

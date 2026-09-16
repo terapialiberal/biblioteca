@@ -18,7 +18,7 @@ publish: true
 
 ### Tier A (La Financiación Del Gran Conflicto)
 
-- **El Laboratorio Rothschild:** Las guerras de Napoleón fueron el Big Bang de la alta finanza. Mientras él bloqueaba el comercio, el Tier A financiero financiaba su caída y, simultáneamente, compraba el control del crédito británico tras el pánico de Waterloo. Napoleón fue el pretexto para que el dinero se moviera de las manos de la aristocracia terrestre a las de los banqueros internacionales.
+- **El Laboratorio Rothschild:** Las guerras de Napoleón fueron el Big Bang de la alta finanza. Mientras él bloqueaba el comercio, el Tier A financiaba su caída y, simultáneamente, compraba el control del crédito británico tras el pánico de Waterloo. Napoleón fue el pretexto para que el dinero se moviera de las manos de la aristocracia terrestre a las de los banqueros internacionales.
 - **La Centralización Monetaria:** La fundación del **[[Banco de Francia]]** fue el paso esencial para atar el destino de la nación al crédito centralizado, un modelo que el Tier A replicaría en todo el mundo.
 
 ### Tier B (La Estandarización De Los Súbditos)

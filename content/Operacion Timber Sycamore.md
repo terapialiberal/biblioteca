@@ -2,7 +2,7 @@
 titulo: "Operación Timber Sycamore: La Fábrica De Yihadistas De La CIA"
 tipo: "evento"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [fbrica, guerra, sycamore, timber]
@@ -23,7 +23,7 @@ publish: true
 
 ### Tier B (Los Operadores Del Puente Aéreo)
 
-- **John McCain y los Interfaces de Campo:** El Tier B político (Senadores, directores de la CIA como David Petraeus) operó como el interface de legitimación, viajando a la frontera de Turquía y Jordania para dar una imagen heroica a lo que era simplemente un programa de tráfico masivo de armas hacia terroristas. Estos operadores coordinaron la logística con Arabia Saudita y Qatar, diluyendo la responsabilidad legal de EE.UU. mediante la fragmentación de la cadena de mando.
+- **John McCain y los Interfaces de Campo:** la capa política (Senadores, directores de la CIA como David Petraeus) operó como el interface de legitimación, viajando a la frontera de Turquía y Jordania para dar una imagen heroica a lo que era simplemente un programa de tráfico masivo de armas hacia terroristas. Estos operadores coordinaron la logística con Arabia Saudita y Qatar, diluyendo la responsabilidad legal de EE.UU. mediante la fragmentación de la cadena de mando.
 
 ## ¸ Mecanismos De Poder (Desestabilizadores)
 

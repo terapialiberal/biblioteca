@@ -2,7 +2,7 @@
 titulo: Big Pharma Fines
 tipo: concepto
 fecha: 2026-04-19
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 tags: [big-pharma-fines, multas, fraude-farmaceutico, sanciones, industria-farmaceutica, tl-intel-v3]

@@ -2,7 +2,7 @@
 titulo: Iniciativa De Integridad (Integrity Initiative)
 tipo: "concepto"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [brigada, initiative, integridad, otan]
@@ -15,13 +15,13 @@ publish: true
 
 **¿Qué es?** Una red encubierta de propaganda y guerra de información financiada secretamente por el Ministerio de Relaciones Exteriores del Reino Unido (Foreign Office), la OTAN y Facebook, operada bajo la fachada de la ONG "Institute for Statecraft".
 
-**¿Por qué importa?** La Iniciativa de Integridad es la **Prueba Documental de la Manipulación de Medios por el Deep State de Tier B**. Expuesta por una filtración de documentos en 2018, la red operaba mediante "clusters" (grupos coordinados) de periodistas, militares, académicos y políticos en toda Europa y EE.UU. Su misión era inyectar narrativas anti-rusas en la prensa comercial y, fundamentalmente, **intervenir en la política doméstica** de países "aliados". Orquestaron campañas de difamación para evitar el nombramiento de funcionarios soberanos (como el General Pedro Baños en España) y atacaron a líderes políticos británicos (como Jeremy Corbyn) utilizando fondos públicos destinados a la "lucha contra la desinformación". Es la demostración de que el Tier B gubernamental crea activamente la "realidad" informativa que consume el Tier C para justificar presupuestos militares y tensiones geopolíticas artificiales.
+**¿Por qué importa?** La Iniciativa de Integridad es la **Prueba Documental de la Manipulación de Medios por el Deep State de Tier B**. Expuesta por una filtración de documentos en 2018, la red operaba mediante "clusters" (grupos coordinados) de periodistas, militares, académicos y políticos en toda Europa y EE.UU. Su misión era inyectar narrativas anti-rusas en la prensa comercial y, fundamentalmente, **intervenir en la política doméstica** de países "aliados". Orquestaron campañas de difamación para evitar el nombramiento de funcionarios soberanos (como el General Pedro Baños en España) y atacaron a líderes políticos británicos (como Jeremy Corbyn) utilizando fondos públicos destinados a la "lucha contra la desinformación". Es la demostración de que la capa de gobierno crea activamente la "realidad" informativa que consume el Tier C para justificar presupuestos militares y tensiones geopolíticas artificiales.
 
 ## Análisis De Poder (Tiers)
 
 ### Tier A (Los Dueños De La Guerra Perpetua)
 
-- **Mantenimiento de la Tensión Geopolítica:** El Tier A financiero y militar necesita que la percepción de "amenaza externa" sea constante para asegurar el flujo de contratos de defensa y la integridad de la OTAN. La Iniciativa de Integridad fue la herramienta para silenciar cualquier voz de distensión o neutralidad en Europa.
+- **Mantenimiento de la Tensión Geopolítica:** El Tier A y militar necesita que la percepción de "amenaza externa" sea constante para asegurar el flujo de contratos de defensa y la integridad de la OTAN. La Iniciativa de Integridad fue la herramienta para silenciar cualquier voz de distensión o neutralidad en Europa.
 
 ### Tier B (Operadores / Christopher Donnelly Y Los Clusters Periodísticos)
 

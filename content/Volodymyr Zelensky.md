@@ -2,7 +2,7 @@
 titulo: Volodymyr Zelensky
 tipo: "persona"
 fecha: 2026-02-25
-tier_primario: "b"
+tier_primario: c
 nivel_evidencia: "medio"
 estado: activo
 tags: [ihor, tulo, victoria, volodymyr]
@@ -12,6 +12,8 @@ publish: true
 ![Volodymyr Zelensky](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Volodymyr_Zelensky_Official_portrait.jpg/220px-Volodymyr_Zelensky_Official_portrait.jpg)
 
 # Volodymyr Zelensky
+
+> **Clasificación (2026-09-15):** cargo político de gobierno: cuadro visible y reemplazable (Tier C por canon).
 
 ## Resumen Ejecutivo
 

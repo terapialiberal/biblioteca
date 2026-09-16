@@ -1,6 +1,6 @@
 ---
 titulo: "Office of Net Assessment: El Oráculo De La Guerra Permanente"
-tipo: "concepto"
+tipo: "entidad"
 fecha: 2026-02-25
 tier_primario: "b"
 nivel_evidencia: "medio"
@@ -12,9 +12,11 @@ publish: true
 # Office of Net Assessment: El Oráculo De La Guerra Permanente
 
 > [!ABSTRACT] Hipótesis Informativa
-> La Office of Net Assessment (ONA) es el **centro de procesamiento de datos estratégicos de [[Tier A]]** dentro del ejército de EE.UU. Liderada durante décadas por el mítico **Andrew Marshall** ("Yoda"), la ONA no analiza batallas, sino la **trayectoria histórica del poder**. Su función es identificar las tendencias tecnológicas y sociales a 30 años para asegurar que la Matrix militar-industrial mantenga su hegemonía. Es el lugar donde se diseñan las narrativas de "amenaza" que justifican billones de dólares en gasto militar para el **[[Tier C]]**, transformando el futuro en un campo de batalla predecible y gestionado administrativamente.
+> La Office of Net Assessment (ONA) es el **centro de procesamiento de datos estratégicos (Tier B)** que trabaja para la capa dueña ([[Tier A]]) dentro del ejército de EE.UU. Liderada durante décadas por el mítico **Andrew Marshall** ("Yoda"), la ONA no analiza batallas, sino la **trayectoria histórica del poder**. Su función es identificar las tendencias tecnológicas y sociales a 30 años para asegurar que la Matrix militar-industrial mantenga su hegemonía. Es el lugar donde se diseñan las narrativas de "amenaza" que justifican billones de dólares en gasto militar para el **[[Tier C]]**, transformando el futuro en un campo de batalla predecible y gestionado administrativamente.
 
 ## Análisis De Tiers
+
+> **Nota de vocabulario:** donde esta ficha usa «Tier A / Tier B / Tier C» en encabezados de sección, usa el vocabulario anterior al canon de actores (capas de la estructura: dueños / operadores / cara visible). La clasificación de este sujeto es la del frontmatter (`tier_primario` en actores, `capa_tema` en objetos).
 
 ### Tier A (La Planificación De La Hegemonía Centenaria)
 

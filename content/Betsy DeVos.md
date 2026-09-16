@@ -4,7 +4,7 @@ titulo: "Betsy DeVos"
 aliases: ["Betsy DeVos"]
 tags: [actor, eeuu, educacion, filantropia, privatizacion]
 tipo: actor
-nivel: C
+tier_primario: C
 ---
 
 # Betsy DeVos

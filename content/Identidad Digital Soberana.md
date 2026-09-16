@@ -2,7 +2,7 @@
 titulo: Identidad Digital Soberana (SSI)
 tipo: "concepto"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [criptografa, digital, id2020, identidad]
@@ -15,9 +15,11 @@ publish: true
 
 **¿Qué es?** Un modelo tecnológico de identidad digital donde el individuo tiene la propiedad y el control total de sus propios datos, sin depender de ninguna autoridad central (Gobierno, Big Tech) para verificar quién es.
 
-**¿Por qué importa?** La Identidad Digital Soberana (SSI) es el **Antídoto de Tier C contra el Panóptico de [[ID2020]]**. Mientras el sistema de Tier A busca centralizar tu biometría y tus datos en una base de datos estatal/corporativa para controlarte, la SSI utiliza criptografía y blockchain para crear un "Pasaporte Digital Privado". Tú llevas tus "credenciales verificables" (título médico, licencia de conducir, certificado de nacimiento) en tu propio dispositivo, y solo compartes lo estrictamente necesario (ej. demostrar que eres mayor de edad sin revelar tu fecha de nacimiento ni tu nombre) mediante **ZKP (Zero-Knowledge Proofs)**. Es la **Secesión Tecnológica** definitiva: si el individuo posee su identidad, el Estado pierde la capacidad de "borrarlo" o condicionar su existencia digital al cumplimiento de agendas sociales o sanitarias.
+**¿Por qué importa?** La Identidad Digital Soberana (SSI) es el **antídoto técnico contra el panóptico de [[ID2020]]**: su capa operativa está en el Tier B (desarrolladores open source y cypherpunks) y su base política en el Tier C. Mientras el sistema de Tier A busca centralizar tu biometría y tus datos en una base de datos estatal/corporativa para controlarte, la SSI utiliza criptografía y blockchain para crear un "Pasaporte Digital Privado". Tú llevas tus "credenciales verificables" (título médico, licencia de conducir, certificado de nacimiento) en tu propio dispositivo, y solo compartes lo estrictamente necesario (ej. demostrar que eres mayor de edad sin revelar tu fecha de nacimiento ni tu nombre) mediante **ZKP (Zero-Knowledge Proofs)**. Es la **Secesión Tecnológica** definitiva: si el individuo posee su identidad, el Estado pierde la capacidad de "borrarlo" o condicionar su existencia digital al cumplimiento de agendas sociales o sanitarias.
 
 ## Análisis De Poder (Tiers)
+
+> **Nota de vocabulario:** donde esta ficha usa «Tier A / Tier B / Tier C» en encabezados de sección, usa el vocabulario anterior al canon de actores (capas de la estructura: dueños / operadores / cara visible). La clasificación de este sujeto es la del frontmatter (`tier_primario` en actores, `capa_tema` en objetos).
 
 ### Tier A (Los Dueños De La Centralización / Enemigos De La SSI)
 

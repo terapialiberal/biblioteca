@@ -2,7 +2,7 @@
 titulo: "Behavioral Sponging"
 tipo: concepto
 fecha: 2026-02-25
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 tags: [behavioral, datos, ia, vigilancia, psicometria, tl-intel-v3]

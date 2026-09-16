@@ -4,7 +4,7 @@ titulo: "Manhattan Institute"
 aliases: ["Manhattan Institute"]
 tags: [think-tank, conservador, politica-urbana]
 tipo: think-tank
-nivel: B
+tier_primario: B
 ---
 
 # Manhattan Institute

@@ -2,7 +2,7 @@
 titulo: Computacion Espacial
 tipo: concepto
 fecha: 2026-04-19
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 tags: [computacion-espacial, realidad-aumentada, wearables, vigilancia, apple, tl-intel-v3]

@@ -1,7 +1,7 @@
 ---
 titulo: Resonancia Schuman
 tipo: "concepto"
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [ciencia, bio-resonancia, tierra, consciencia]

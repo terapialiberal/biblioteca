@@ -2,7 +2,7 @@
 titulo: Edelman
 tipo: "concepto"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [blackrock, edelman, edward]
@@ -15,7 +15,7 @@ publish: true
 
 **¿Qué es?** La firma de relaciones públicas (PR) y comunicaciones más grande del mundo, de propiedad privada, famosa por su influyente "Edelman Trust Barometer".
 
-**¿Por qué importa?** Edelman es la **maquinaria de ingeniería del consentimiento de Tier B para las corporaciones y gobiernos de Tier A**. Su función real es fabricar y gestionar la "confianza" pública mediante la manipulación de narrativas. A través de su barómetro anual, Edelman le dice a la élite qué tan efectiva está siendo su propaganda y en qué instituciones la masa aún confía (o desconfía). Son expertos en el **"Astroturfing"** (crear movimientos de base falsos) y en la gestión de crisis para empresas que han cometido crímenes ambientales o sociales. Si una empresa de Tier A necesita que el público acepte una tecnología invasiva o una política impopular (como las vacunas durante la pandemia o los criterios ESG), Edelman es la encargada de diseñar el envoltorio moral y emocional para que la plebe lo trague sin quejarse.
+**¿Por qué importa?** Edelman es la **maquinaria de ingeniería del consentimiento (Tier B) que sirve a las corporaciones y gobiernos alineados con Tier A**. Su función real es fabricar y gestionar la "confianza" pública mediante la manipulación de narrativas. A través de su barómetro anual, Edelman le dice a la élite qué tan efectiva está siendo su propaganda y en qué instituciones la masa aún confía (o desconfía). Son expertos en el **"Astroturfing"** (crear movimientos de base falsos) y en la gestión de crisis para empresas que han cometido crímenes ambientales o sociales. Si una empresa de Tier A necesita que el público acepte una tecnología invasiva o una política impopular (como las vacunas durante la pandemia o los criterios ESG), Edelman es la encargada de diseñar el envoltorio moral y emocional para que la plebe lo trague sin quejarse.
 
 ## Análisis De Poder (Tiers)
 

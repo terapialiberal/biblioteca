@@ -2,7 +2,7 @@
 titulo: ECHELON
 tipo: programa
 fecha: 2026-04-22
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 tags: [echelon, vigilancia, five-eyes, sigint, intercepcion, tl-intel-v3]

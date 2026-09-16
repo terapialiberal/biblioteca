@@ -2,7 +2,7 @@
 titulo: The Matrix
 tipo: obra
 fecha: 2026-04-17
-tier_primario: c
+capa_tema: c
 nivel_evidencia: medio
 estado: activo
 tags: [matrix, cine, gnosticismo, simulacion, despertar, tl-intel-v3]

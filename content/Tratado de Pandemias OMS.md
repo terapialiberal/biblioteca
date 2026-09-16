@@ -2,7 +2,7 @@
 titulo: Tratado de Pandemias OMS
 tipo: concepto
 fecha: 2026-04-17
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 aliases: ["Tratado de Pandemias", "Tratado de Pandemias de la OMS", "Tratado De Pandemias (OMS)"]

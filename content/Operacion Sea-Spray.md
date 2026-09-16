@@ -2,7 +2,7 @@
 titulo: "Operación Sea-Spray: El Rocío De La Traición Biológica"
 tipo: "evento"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [biolgica, roco, spray, traicin]

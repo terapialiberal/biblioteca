@@ -2,7 +2,7 @@
 titulo: Unitary Executive Theory
 tipo: concepto
 fecha: 2026-04-20
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 tags: [unitary-executive-theory, ejecutivo, derecho, centralizacion, project-2025, tl-intel-v3]

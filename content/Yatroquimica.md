@@ -5,7 +5,7 @@ fecha: 2026-04-27
 estado: activo
 aliases: ["Yatroquímica", "Iatroquímica", "Iatrochemistry"]
 tags: [yatroquimica, paracelso, medicina, alquimia, historia-de-la-ciencia, tl-intel-v3]
-tier_primario: c
+capa_tema: c
 nivel_evidencia: alto
 publish: true
 ---

@@ -3,7 +3,7 @@ publish: true
 titulo: Angela Merkel
 tipo: "persona"
 fecha: 2026-02-25
-tier_primario: "b"
+tier_primario: c
 nivel_evidencia: "medio"
 estado: activo
 tags: [angela, klaus, merkel, vladimir]
@@ -12,6 +12,8 @@ tags: [angela, klaus, merkel, vladimir]
 ![Angela Merkel](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Besuch_Bundeskanzlerin_Angela_Merkel_im_Rathaus_K%C3%B6ln-0901.jpg/220px-Besuch_Bundeskanzlerin_Angela_Merkel_im_Rathaus_K%C3%B6ln-0901.jpg)
 
 # Angela Merkel
+
+> **Clasificación (2026-09-15):** cargo político de gobierno: cuadro visible y reemplazable (Tier C por canon).
 
 ## Resumen Ejecutivo
 

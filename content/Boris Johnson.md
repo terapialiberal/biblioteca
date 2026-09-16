@@ -2,7 +2,7 @@
 titulo: Boris Johnson
 tipo: "persona"
 fecha: 2026-02-25
-tier_primario: "b"
+tier_primario: c
 nivel_evidencia: "medio"
 estado: activo
 tags: [boris, dominic, johnson]
@@ -10,6 +10,8 @@ publish: true
 ---
 
 # Boris Johnson
+
+> **Clasificación (2026-09-15):** cargo político de gobierno: cuadro visible y reemplazable (Tier C por canon).
 
 > [!INFO] Perfil Operativo (Tier C)
 > **Resumen:** PM británico (2019-2022). Líder del Brexit. Caótico y controversial.

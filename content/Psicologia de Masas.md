@@ -5,7 +5,7 @@ fecha: 2026-04-27
 estado: activo
 aliases: ["Psicología de Masas", "Mass psychology"]
 tags: [psicologia-de-masas, propaganda, opinion-publica, operaciones-psicologicas, tl-intel-v3]
-tier_primario: b
+capa_tema: b
 nivel_evidencia: alto
 publish: true
 ---

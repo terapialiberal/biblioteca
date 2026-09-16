@@ -2,7 +2,7 @@
 titulo: Hunter Biden Laptop
 tipo: evento
 fecha: 2026-04-19
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 tags: [hunter-biden-laptop, censura, elecciones, twitter, biden, tl-intel-v3]

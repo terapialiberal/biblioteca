@@ -2,7 +2,7 @@
 titulo: Barones del Conurbano
 tipo: concepto
 fecha: 2026-04-18
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 tags: [argentina, conurbano, peronismo, territorio, clientelismo, tl-intel-v3]

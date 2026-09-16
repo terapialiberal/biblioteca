@@ -8,7 +8,7 @@ tags:
   - sendero-luminoso
   - terrorismo
 tipo: actor
-nivel: C
+tier_primario: C
 titulo: Abimael Guzmán
 ---
 

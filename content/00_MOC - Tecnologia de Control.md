@@ -535,6 +535,10 @@ tags: [moc, tecnologia-de-control, ia, vigilancia, tl-intel-v3]
 
 - [[SAIC.md|SAIC]]
 
+- [[Sanger Institute.md|Sanger Institute]]
+
+- [[Sergey Brin.md|Sergey Brin]]
+
 - [[SIDE.md|SIDE]]
 
 - [[Silicio y Memoria de Cristal.md|Silicio y Memoria de Cristal]]

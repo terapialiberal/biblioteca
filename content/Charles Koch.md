@@ -27,7 +27,7 @@ publish: true
 ### Tier B (Operadores / Astroturfing)
 
 - **Americans for Prosperity (AFP):** Su grupo de choque político que organiza protestas "populares" ficticias (como el Tea Party original) para presionar al Congreso. Es la ingeniería social disfrazada de voluntad ciudadana.
-- **Red de Donantes:** Coordina a otros millonarios para canalizar fondos masivos hacia candidatos republicanos, asegurándose de que el Tier B político les deba la carrera antes de asumir el cargo.
+- **Red de Donantes:** Coordina a otros millonarios para canalizar fondos masivos hacia candidatos republicanos, asegurándose de que la capa política les deba la carrera antes de asumir el cargo.
 
 ### Tier C (Narrativa Pública)
 

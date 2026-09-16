@@ -2,7 +2,7 @@
 publish: true
 titulo: Monte del Templo
 tipo: concepto
-tier_primario: "a"
+capa_tema: "a"
 nivel_evidencia: "alto"
 estado: activo
 tags: [monte-del-templo, jerusalem, ben-gvir, smotrich, escatologia, e3-acelerador, agencia-descontrolada, waqf, al-aqsa, trigger-escatologico]

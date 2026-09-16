@@ -4,7 +4,7 @@ titulo: "Børge Brende"
 aliases: ["Børge Brende"]
 tags: [actor, wef, noruega, globalismo]
 tipo: actor
-nivel: B
+tier_primario: B
 ---
 
 # Børge Brende

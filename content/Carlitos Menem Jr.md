@@ -15,7 +15,7 @@ publish: true
 
 **¿Qué fue?** La muerte del hijo del presidente argentino Carlos Menem al caer el helicóptero que piloteaba. Oficialmente fue un "accidente", pero múltiples pruebas y testimonios indican que fue un derribo.
 
-**¿Por qué importa?** Se considera el **"Tercer Atentado"** de la era Menem (junto a la Embajada de Israel y la AMIA). Fue un mensaje mafioso de alta geopolítica. Menem había recibido financiamiento de campaña y apoyo de potencias de Medio Oriente (Siria/Libia) a cambio de promesas que luego rompió para alinearse con EE.UU. e Israel. La muerte de su hijo fue el cobro de esa traición. Es el ejemplo más crudo de cómo el Tier B político paga sus deudas con sangre familiar.
+**¿Por qué importa?** Se considera el **"Tercer Atentado"** de la era Menem (junto a la Embajada de Israel y la AMIA). Fue un mensaje mafioso de alta geopolítica. Menem había recibido financiamiento de campaña y apoyo de potencias de Medio Oriente (Siria/Libia) a cambio de promesas que luego rompió para alinearse con EE.UU. e Israel. La muerte de su hijo fue el cobro de esa traición. Es el ejemplo más crudo de cómo la capa política paga sus deudas con sangre familiar.
 
 ## Análisis De Poder (Tiers)
 

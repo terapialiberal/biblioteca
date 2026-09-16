@@ -22,7 +22,7 @@ publish: true
 ### Tier A (Los Arquitectos Del Arbitraje Global)
 
 - **Trading de Alta Frecuencia (HFT):** DE Shaw fue uno de los primeros en entender que la velocidad de ejecución y los micro-arbitrajes matemáticos eran la clave del poder moderno. No predicen el futuro; simplemente extraen renta de la inercia del sistema mediante algoritmos que actúan en milisegundos.
-- **Nexo Científico-Militar:** David E. Shaw ha servido en el Consejo de Asesores de Ciencia y Tecnología de los presidentes Clinton y Obama, demostrando que este hedge fund es, en realidad, un centro de inteligencia financiera que colabora con el Tier A estatal.
+- **Nexo Científico-Militar:** David E. Shaw ha servido en el Consejo de Asesores de Ciencia y Tecnología de los presidentes Clinton y Obama, demostrando que este hedge fund es, en realidad, un centro de inteligencia financiera que colabora con el aparato estatal (capa B).
 
 ### Tier B (Operadores / Los Quants)
 

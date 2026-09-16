@@ -2,7 +2,7 @@
 titulo: Foro De Sao Paulo
 tipo: "concepto"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [foro, hugo, lula, paulo]
@@ -24,7 +24,7 @@ publish: true
 - **Conexión con China e Irán:** El Foro ha facilitado la entrada de potencias extra-continentales en Latinoamérica como contrapeso a EE.UU. El Tier A de Beijing e Teherán utiliza la estructura del Foro para asegurar contratos de energía, minería y puertos bajo gobiernos "amigables" que odian el imperialismo yanqui pero aceptan el neocolonialismo asiático.
 - **Narcotráfico y Financiamiento:** Hay evidencia sustancial de la participación de grupos terroristas/narcotraficantes (como las FARC o el Cartel de los Soles) en la órbita del Foro, proveyendo los "fondos negros" necesarios para las campañas políticas del bloque.
 
-### Tier B (Operadores / Presidentes Y Aparatos Estatales)
+### Operadores / Presidentes Y Aparatos Estatales
 
 - **Lula, Chávez, Kirchner, Evo:** Los operadores estrella que implementaron la agenda de captura estatal, redistribución clientelar y toma de la justicia. Su táctica es el **Lawfare** invertido y la colonización de todas las cajas del Estado para perpetuarse.
 - **Grupo de Puebla:** La evolución "moderada" y estética del Foro, diseñada para lavar la imagen de autoritarismo y presentar las mismas ideas bajo un barniz de legalismo y "progresismo" institucional.

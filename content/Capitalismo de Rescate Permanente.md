@@ -4,7 +4,7 @@ titulo: "Capitalismo de Rescate Permanente"
 aliases: ["Capitalismo de Rescate Permanente"]
 tags: [concepto, finanzas, riesgo-moral, fed]
 tipo: concepto
-nivel: A
+capa_tema: a
 ---
 
 # Capitalismo de Rescate Permanente

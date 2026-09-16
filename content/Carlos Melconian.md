@@ -4,7 +4,7 @@ titulo: "Carlos Melconian"
 aliases: ["Carlos Melconian"]
 tags: [actor, argentina, economia, liberalismo]
 tipo: actor
-nivel: C
+tier_primario: C
 ---
 
 # Carlos Melconian

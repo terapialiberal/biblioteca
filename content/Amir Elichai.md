@@ -4,7 +4,7 @@ titulo: "Amir Elichai"
 aliases: ["Amir Elichai"]
 tags: [actor, israel, vigilancia, tecnologia]
 tipo: actor
-nivel: C
+tier_primario: C
 ---
 
 # Amir Elichai

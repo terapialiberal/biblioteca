@@ -21,7 +21,7 @@ publish: true
 
 ### Tier A (El Capital Global Y Chabad)
 
-- **La Herencia de Soros:** Elsztain fue la "ficha argentina" de Soros para capturar activos estratégicos tras la hiperinflación de los 80. Hoy, opera como el embajador del Tier A financiero-religioso, asegurando que Argentina se mantenga como una reserva de recursos naturales y activos inmobiliarios para la élite de Tier A.
+- **La Herencia de Soros:** Elsztain fue la "ficha argentina" de Soros para capturar activos estratégicos tras la hiperinflación de los 80. Hoy, opera como el embajador de la facción financiero-religiosa del Tier A, asegurando que Argentina se mantenga como una reserva de recursos naturales y activos inmobiliarios para la élite de Tier A.
 - **Teopolítica:** Su rol en Chabad Lubavitch no es solo religioso; es el canal de diplomacia paralela que permite a Milei saltarse los canales oficiales y hablar directamente con los "dueños de la guita" en Wall Street.
 
 ### Tier B (Operadores / IRSA Y Banco Hipotecario)

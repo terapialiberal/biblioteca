@@ -3,7 +3,7 @@ titulo: "Ley de Hierro de la Oligarquía"
 publish: true
 tipo: concepto
 fecha: 2026-04-07
-tier_primario: B
+capa_tema: b
 moc_canonico: [[00_MOC - Patrones Clasicos de Poder]]
 estado: activo
 fuentes_clave: []

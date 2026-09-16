@@ -2,7 +2,7 @@
 titulo: Tornado Cash
 tipo: protocolo
 fecha: 2026-04-19
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 tags: [tornado-cash, privacidad, ethereum, ofac, protocolo, tl-intel-v3]

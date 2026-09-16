@@ -2,7 +2,7 @@
 titulo: Palantir Gotham vs Foundry
 tipo: concepto
 fecha: 2026-04-17
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 tags: [palantir, gotham, foundry, vigilancia, datos, tl-intel-v3]

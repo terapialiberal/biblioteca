@@ -4,7 +4,7 @@ titulo: "Andrew Lobaczewski"
 aliases: ["Andrew Lobaczewski"]
 tags: [actor, psicologia, ponerologia, totalitarismo]
 tipo: actor
-nivel: C
+tier_primario: C
 ---
 
 # Andrew Lobaczewski

@@ -2,7 +2,7 @@
 titulo: 678 y el Relato
 tipo: concepto
 fecha: 2026-04-18
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 tags: [argentina, kirchnerismo, medios, relato, propaganda, tl-intel-v3]

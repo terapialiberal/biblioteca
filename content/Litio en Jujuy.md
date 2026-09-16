@@ -2,7 +2,7 @@
 titulo: Litio en Jujuy
 tipo: concepto
 fecha: 2026-04-18
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 aliases: ["Litio En Jujuy: La Cara Oculta De La Transicion Verde"]

@@ -4,7 +4,7 @@ titulo: "Bertrand Russell"
 aliases: ["Bertrand Russell"]
 tags: [actor, filosofia, pacifismo, logica]
 tipo: actor
-nivel: C
+tier_primario: C
 ---
 
 # Bertrand Russell

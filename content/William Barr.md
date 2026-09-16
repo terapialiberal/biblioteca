@@ -4,7 +4,7 @@ titulo: "William Barr"
 aliases: ["Bill Barr"]
 tags: [actor, eeuu, justicia, doj, trump]
 tipo: actor
-nivel: B
+tier_primario: B
 ---
 
 # William Barr

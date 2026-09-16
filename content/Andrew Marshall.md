@@ -4,7 +4,7 @@ titulo: "Andrew Marshall"
 aliases: ["Andrew Marshall"]
 tags: [actor, pentagono, estrategia, rand]
 tipo: actor
-nivel: B
+tier_primario: B
 ---
 
 # Andrew Marshall

@@ -2,7 +2,7 @@
 titulo: Kairos Power
 tipo: "entidad"
 fecha: 2026-02-25
-tier_primario: "a"
+tier_primario: b
 nivel_evidencia: "alto"
 estado: activo
 tags: [alphabet, google, power, reactor]
@@ -10,6 +10,8 @@ publish: true
 ---
 
 # Kairos Power
+
+> **Clasificación (2026-09-15):** no es dueño del capital: vehículo operativo o aparato estatal (Tier B por canon).
 
 #### BLUF
 

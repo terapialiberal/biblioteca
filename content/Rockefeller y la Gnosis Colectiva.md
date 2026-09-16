@@ -3,7 +3,7 @@ titulo: Rockefeller y la Gnosis Colectiva
 tipo: hipotesis
 fecha: 2026-04-21
 estado: activo
-tier_primario: b
+capa_tema: b
 nivel_evidencia: bajo
 tags: [rockefeller, gnosis, espiritualidad-politica, transhumanismo, hipotesis, tl-intel-v3]
 publish: true

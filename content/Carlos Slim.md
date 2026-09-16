@@ -24,7 +24,7 @@ publish: true
 - **Control del Nexo:** Mediante Telmex y América Móvil (Claro), Slim posee el cableado por donde fluye la información en la región. Su poder es infraestructural: es el "dueño del pasillo" por el que todos deben transitar.
 - **Invasión de la Narrativa:** Como uno de los mayores accionistas individuales del _New York Times_, Slim tiene un asiento en la mesa donde se decide qué es noticia y qué es "desinformación" en el mundo occidental.
 
-### Tier B (Operador / Político De Negocios)
+### Operador / Político De Negocios
 
 - **Relación con el Estado:** Ha logrado sobrevivir y prosperar bajo todos los gobiernos mexicanos recientes, desde Salinas de Gortari hasta AMLO, demostrando que el poder del Tier A es permanente frente a la transitoriedad de los políticos de turno.
 - **Monopolio por Regulación:** Su estrategia siempre ha sido el uso del _Lawfare_ y la captura institucional para evitar que competidores reales entren a disputar su mercado.

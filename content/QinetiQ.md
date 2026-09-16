@@ -2,7 +2,7 @@
 titulo: "QinetiQ: La Privatización De Los Secretos De Estado"
 tipo: "concepto"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [carlyle, estado, privatizacin, secretos]

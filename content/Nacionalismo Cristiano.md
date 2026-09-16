@@ -2,7 +2,7 @@
 titulo: "Nacionalismo Cristiano: La Teología Del Imperio"
 tipo: "concepto"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [biblia, nacionalismo, sionismo, teologa]
@@ -18,7 +18,7 @@ publish: true
 
 ### Tier A: Los Arquitectos De La Profecía
 
-- **El Caballo de Troya Scofield:** A principios del siglo XX, el Tier A financiero (financiando a Cyrus Scofield) inyectó una versión de la Biblia con notas que redefinieron el cristianismo occidental, haciéndolo compatible con el proyecto geopolítico de creación de un Estado en Oriente Medio. Esto convirtió al votante cristiano en un activo de **Lobby Geopolítico Externo**, garantizando apoyo incondicional a intervenciones militares basadas en "profecías" que solo benefician a los acreedores de la deuda.
+- **El Caballo de Troya Scofield:** A principios del siglo XX, el Tier A (financiando a Cyrus Scofield) inyectó una versión de la Biblia con notas que redefinieron el cristianismo occidental, haciéndolo compatible con el proyecto geopolítico de creación de un Estado en Oriente Medio. Esto convirtió al votante cristiano en un activo de **Lobby Geopolítico Externo**, garantizando apoyo incondicional a intervenciones militares basadas en "profecías" que solo benefician a los acreedores de la deuda.
 - **La Religión del Orden Global:** El Tier A utiliza el Nacionalismo Cristiano para fracturar a la población (Tier C) entre "creyentes" y "seculares", impidiendo cualquier unión populista real contra la Matriz de Poder económica.
 
 ### Tier B: Los Pastores Del Dominionismo

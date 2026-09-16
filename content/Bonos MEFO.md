@@ -4,7 +4,7 @@ titulo: "Bonos MEFO"
 aliases: ["Bonos MEFO"]
 tags: [concepto, finanzas, alemania-nazi, deuda]
 tipo: concepto
-nivel: C
+capa_tema: c
 ---
 
 # Bonos MEFO

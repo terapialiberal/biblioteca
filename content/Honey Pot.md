@@ -2,7 +2,7 @@
 titulo: Honey Pot
 tipo: patron
 fecha: 2026-04-17
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 aliases: ["Honey Pot (Operación)", "Honey Pot (Operacion)", "Honey Trap"]

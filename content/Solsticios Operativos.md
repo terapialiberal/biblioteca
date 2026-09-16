@@ -1,7 +1,7 @@
 ---
 titulo: Solsticios Operativos
 tipo: "concepto"
-tier_primario: "a"
+capa_tema: "a"
 nivel_evidencia: "bajo"
 estado: activo
 tags: [esoterismo, ciclos, tiempo, ritual, poder]

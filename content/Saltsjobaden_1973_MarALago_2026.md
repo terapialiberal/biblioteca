@@ -2,7 +2,7 @@
 titulo: Saltsjobaden 1973 MarALago 2026
 tipo: patron
 fecha: 2026-04-20
-tier_primario: a
+capa_tema: a
 nivel_evidencia: medio
 estado: activo
 tags: [saltsjobaden, mar-a-lago, bilderberg, reset-monetario, petrodolar, reanclaje-hibrido, tl-intel-v3]

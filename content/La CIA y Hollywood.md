@@ -2,7 +2,7 @@
 titulo: La CIA y Hollywood
 tipo: concepto
 fecha: 2026-04-19
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 tags: [cia, hollywood, propaganda, entretenimiento, guerra-cognitiva, tl-intel-v3]

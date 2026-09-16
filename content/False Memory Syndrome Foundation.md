@@ -2,7 +2,7 @@
 titulo: False Memory Syndrome Foundation (FMSF)
 tipo: "concepto"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [fmsf, foundation, jeffrey, memory]

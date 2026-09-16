@@ -2,7 +2,7 @@
 titulo: Compliance
 tipo: concepto
 fecha: 2026-04-21
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 tags: [compliance, cumplimiento, regulacion, burocracia, control, tl-intel-v3]

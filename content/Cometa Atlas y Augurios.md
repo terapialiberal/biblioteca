@@ -5,7 +5,7 @@ fecha: 2026-04-27
 estado: activo
 aliases: ["Cometa Atlas Y Augurios"]
 tags: [cometa-atlas, augurios, astronomia-cultural, profecia, tl-intel-v3]
-tier_primario: c
+capa_tema: c
 nivel_evidencia: bajo
 publish: true
 ---

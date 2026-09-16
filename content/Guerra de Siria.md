@@ -2,7 +2,7 @@
 titulo: Guerra De Siria
 tipo: "evento"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [guerra, isis, operacin, siria]
@@ -21,7 +21,7 @@ publish: true
 
 ### Tier A (Los Dueños De La Energía Y La Hegemonía)
 
-- **Guerra Energética Total:** El Tier A financiero y petrolero de Qatar y EE.UU. impulsó la desestabilización para instalar un régimen favorable. Rusia (Tier A defensivo) intervino militarmente para proteger su única base naval en el Mediterráneo (Tartus) y su control del mercado de gas europeo.
+- **Guerra Energética Total:** El Tier A y petrolero de Qatar y EE.UU. impulsó la desestabilización para instalar un régimen favorable. Rusia (el Estado, capa C)) intervino militarmente para proteger su única base naval en el Mediterráneo (Tartus) y su control del mercado de gas europeo.
 - **Rediseño del Medio Oriente:** Siria fue el siguiente paso tras Libia para el proyecto de Tier A de fragmentar los estados-nación árabes en pequeñas entidades sectarias manejables.
 
 ### Tier B (Operadores / CIA, Wagner Y El Estado Profundo Turco)

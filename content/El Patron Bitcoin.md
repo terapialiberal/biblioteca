@@ -21,7 +21,7 @@ publish: true
 
 ### Tier A (Los Alquimistas Del Papel Moneda)
 
-- **Pérdida del Señoreaje:** El Tier A financiero sobrevive gracias a su capacidad de crear dinero de la nada y ser los primeros en gastarlo (Efecto Cantillon). Un Patrón Bitcoin eliminaría este privilegio, forzando a los estados a financiarse vía impuestos directos y no mediante la inflación (robo silencioso), lo que limita drásticamente su capacidad de control social y belicismo.
+- **Pérdida del Señoreaje:** El Tier A sobrevive gracias a su capacidad de crear dinero de la nada y ser los primeros en gastarlo (Efecto Cantillon). Un Patrón Bitcoin eliminaría este privilegio, forzando a los estados a financiarse vía impuestos directos y no mediante la inflación (robo silencioso), lo que limita drásticamente su capacidad de control social y belicismo.
 - **Ataque Narrativo:** Por esto, el Tier A ataca a Bitcoin utilizando narrativas de "crimen", "daño medioambiental" (minería) o "inseguridad", intentando asustar al Tier C para que se mantenga dentro del cercado del dinero fiat.
 
 ### Tier B (Operadores / Maximalistas Y Adopción)

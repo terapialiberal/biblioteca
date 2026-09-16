@@ -4,7 +4,7 @@ titulo: "Maoísmo"
 aliases: ["Maoísmo"]
 tags: [ideologia, comunismo, china, revolucion]
 tipo: concepto
-nivel: B
+capa_tema: b
 ---
 
 # Maoísmo

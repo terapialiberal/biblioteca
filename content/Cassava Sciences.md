@@ -4,7 +4,7 @@ titulo: "Cassava Sciences"
 aliases: ["Cassava"]
 tags: [empresa, biotech, alzheimer, fraude]
 tipo: empresa
-nivel: C
+tier_primario: C
 ---
 
 # Cassava Sciences

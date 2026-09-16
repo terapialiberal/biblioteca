@@ -3,7 +3,7 @@ titulo: "Reserva Estratégica de Bitcoin"
 publish: true
 tipo: concepto-estrategico
 fecha: 2026-05-27
-tier_primario: A
+capa_tema: a
 estado: activo
 tags: [bitcoin, reserva-estrategica, fed, tokenizacion, cripto, tl-intel-v3]
 last_stream: "[[06_Videos_Publicados/2026/2026-05-26_La_Trampa_de_Ormuz/00_ARCHIVO_2026-05-26_La_Trampa_de_Ormuz|ARCHIVO: La Trampa de Ormuz]]"

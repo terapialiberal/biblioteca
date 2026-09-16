@@ -2,7 +2,7 @@
 titulo: Elección De Trump 2016
 tipo: "evento"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: ["2016", hillary, russiagate, trump]
@@ -22,7 +22,7 @@ publish: true
 ### Tier A (La Reacción Del Estado Profundo)
 
 - **Sabotaje Institucional:** El Tier A de inteligencia y burocracia estatal (el "Interagency") consideró a Trump un riesgo existencial para el orden globalista (OTAN, acuerdos comerciales, hegemonía del dólar). La respuesta fue activar una campaña de desinformación interna y filtraciones constantes para evitar que Trump pudiera "Drenar el Pantano".
-- **La Captura del Populismo:** A pesar de su retórica, el Tier A financiero (representado por figuras como Steve Mnuchin o Wilbur Ross en su gabinete) logró cooptar gran parte de la política económica de Trump, asegurando que los intereses de Wall Street permanecieran protegidos.
+- **La Captura del Populismo:** A pesar de su retórica, el Tier A (representado por figuras como Steve Mnuchin o Wilbur Ross en su gabinete) logró cooptar gran parte de la política económica de Trump, asegurando que los intereses de Wall Street permanecieran protegidos.
 
 ### Tier B (Operadores / Cambridge Analytica Y MAGA)
 

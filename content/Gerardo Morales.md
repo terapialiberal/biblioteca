@@ -2,7 +2,7 @@
 titulo: Gerardo Morales
 tipo: "persona"
 fecha: 2026-02-25
-tier_primario: "b"
+tier_primario: c
 nivel_evidencia: "medio"
 estado: activo
 tags: [gerardo, litio, morales, sergio]
@@ -11,18 +11,21 @@ publish: true
 
 # Gerardo Morales
 
+> **Clasificación (2026-09-15):** cargo político de gobierno: cuadro visible y reemplazable (Tier C por canon).
+> **Nota de vocabulario:** donde esta ficha usa «Tier A / Tier B / Tier C» en encabezados de sección, usa el vocabulario anterior al canon de actores (capas de la estructura: dueños / operadores / cara visible). La clasificación de este sujeto es la del frontmatter (`tier_primario` en actores, `capa_tema` en objetos).
+
 ## Perfil TL (Resumen Ejecutivo)
 
 **¿Quién es?** Ex-gobernador de la provincia de Jujuy (2015-2023) y ex-presidente de la Unión Cívica Radical (UCR).
 
-**¿Por qué importa?** Gerardo Morales es el **operador de Tier B que transformó una provincia en un laboratorio de "Feudalismo de Recursos"**. Bajo una fachada republicana, Morales construyó un sistema de control absoluto en Jujuy donde el poder judicial, la policía y los recursos estratégicos (**[[Litio]]**) responden únicamente a su voluntad. Su gestión se destaca por la criminalización quirúrgica de la protesta social y la persecución de opositores (tanto del peronismo terminal como de la disidencia digital). Para el Tier A global, Morales fue el **"Portero del Triángulo del Litio"**, garantizando seguridad jurídica a las mineras multinacionales a cambio de permitirle manejar la provincia como un feudo personal. Su alianza en las sombras con **[[Sergio Massa]]** demuestra que en el nivel de Tier B, las etiquetas partidarias son irrelevantes frente a la gestión compartida del presupuesto público y las cajas de recursos naturales.
+**¿Por qué importa?** Gerardo Morales es **la cara política visible (Tier C)** que transformó una provincia en un laboratorio de "Feudalismo de Recursos". Bajo una fachada republicana, Morales construyó un sistema de control absoluto en Jujuy donde el poder judicial, la policía y los recursos estratégicos (**[[Litio]]**) responden únicamente a su voluntad. Su gestión se destaca por la criminalización quirúrgica de la protesta social y la persecución de opositores (tanto del peronismo terminal como de la disidencia digital). Para el Tier A global, Morales fue el **"Portero del Triángulo del Litio"**, garantizando seguridad jurídica a las mineras multinacionales a cambio de permitirle manejar la provincia como un feudo personal. Su alianza en las sombras con **[[Sergio Massa]]** demuestra que en el nivel de Tier B, las etiquetas partidarias son irrelevantes frente a la gestión compartida del presupuesto público y las cajas de recursos naturales.
 
 ## Análisis De Poder (Tiers)
 
 ### Tier A (Los Dueños De La Energía)
 
 - **Alianza con las Mineras:** Morales facilitó la entrega de salares a empresas como **Livent** y **Allkem** (hoy Arcadium Lithium), asegurando el flujo de litio para la transición "verde" de Tier A. A cambio, el sistema internacional le otorgó blindaje político para sus excesos autoritarios domésticos.
-- **El Pacto de la Casta:** Morales es el nexo necesario para que la UCR siga siendo la "pata colaboradora" que le permite al Tier A financiero mantener la gobernabilidad en Argentina, independientemente de quién ocupe la Casa Rosada.
+- **El Pacto de la Casta:** Morales es el nexo necesario para que la UCR siga siendo la "pata colaboradora" que le permite al Tier A mantener la gobernabilidad en Argentina, independientemente de quién ocupe la Casa Rosada.
 
 ### Tier B (Operadores / La Familia Y La Justicia)
 

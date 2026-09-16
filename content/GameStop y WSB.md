@@ -2,7 +2,7 @@
 titulo: GameStop Y r/WallStreetBets
 tipo: "concepto"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [blackrock, citadel, gamestop, wallstreetbets]
@@ -21,7 +21,7 @@ publish: true
 
 ### Tier A (Los Dueños Del Tablero)
 
-- **Ken Griffin y Citadel:** Citadel no solo es un fondo de cobertura, es el mayor "market maker" de EE.UU. El Tier A financiero utilizó su posición dominante para ver las órdenes de los minoristas de antemano (Payment for Order Flow) y luego supuestamente presionó a Robinhood para detener el comercio, demostrando que ellos controlan tanto los jugadores como el árbitro.
+- **Ken Griffin y Citadel:** Citadel no solo es un fondo de cobertura, es el mayor "market maker" de EE.UU. El Tier A utilizó su posición dominante para ver las órdenes de los minoristas de antemano (Payment for Order Flow) y luego supuestamente presionó a Robinhood para detener el comercio, demostrando que ellos controlan tanto los jugadores como el árbitro.
 - **Sanción Social:** Tras el evento, el Tier A mediático inició una campaña para pintar a los inversores de Reddit como "terroristas financieros" o "manipuladores", ignorando que los fondos de cobertura hacen lo mismo a diario de forma legal.
 
 ### Tier B (Operadores / Robinhood Y Reguladores)

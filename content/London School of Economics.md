@@ -4,7 +4,7 @@ titulo: "London School of Economics"
 aliases: ["London School of Economics (LSE)", "LSE"]
 tags: [institucion, academia, think-tank, elite-global]
 tipo: institucion
-nivel: B
+tier_primario: B
 ---
 
 # London School of Economics

@@ -2,7 +2,7 @@
 titulo: "Jesús Huerta De Soto: El Fabricante De La Disidencia Intelectual"
 tipo: "concepto"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [huerta, jess, ludwig, soto]
@@ -18,7 +18,7 @@ publish: true
 
 ### Tier A: La Independencia Del Capital Real
 
-- **El Empresario-Teórico:** A diferencia de los intelectuales de Tier B que dependen de becas estatales o fundaciones globalistas, Huerta de Soto posee su propia base de capital (España S.A.). Esta **autonomía financiera** le permite atacar directamente a los cimientos del Tier A financiero (la banca central y el FMI) sin temor a represalias profesionales. Es un "oligarca desertor" que utiliza su posición para deslegitimar a su propia clase burocrática.
+- **El Empresario-Teórico:** A diferencia de los intelectuales de Tier B que dependen de becas estatales o fundaciones globalistas, Huerta de Soto posee su propia base de capital (España S.A.). Esta **autonomía financiera** le permite atacar directamente a los cimientos del Tier A (la banca central y el FMI) sin temor a represalias profesionales. Es un "oligarca desertor" que utiliza su posición para deslegitimar a su propia clase burocrática.
 - **Custodio de la Tradición de Salamanca:** Su labor reivindica las raíces españolas y cristianas del liberalismo, intentando crear un bloque cultural que resista la ingeniería social del globalismo anglosajón mediante la defensa de la propiedad privada como un derecho natural sagrado.
 
 ### Tier B: El Formador De Cuadros (Profesor De Presidentes)

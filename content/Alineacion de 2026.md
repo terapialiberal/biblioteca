@@ -5,7 +5,7 @@ fecha: 2026-04-27
 estado: activo
 aliases: ["Alineación De 2026"]
 tags: [2026, alineacion, ciclos, narrativa-profetica, tl-intel-v3]
-tier_primario: c
+capa_tema: c
 nivel_evidencia: bajo
 publish: true
 ---

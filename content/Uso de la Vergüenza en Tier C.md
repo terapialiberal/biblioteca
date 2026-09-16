@@ -5,7 +5,7 @@ fecha: 2026-04-27
 estado: activo
 aliases: ["Uso De La Vergüenza En Tier C", "Uso de la Verguenza en Tier C"]
 tags: [verguenza, tier-c, control-social, psicologia-de-masas, tl-intel-v3]
-tier_primario: c
+capa_tema: c
 nivel_evidencia: medio
 publish: true
 ---

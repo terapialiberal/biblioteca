@@ -5,7 +5,7 @@ fecha: 2026-04-27
 estado: activo
 aliases: ["Metaverso Como Prisión De Platón", "Metaverso como Prisión de Platón"]
 tags: [metaverso, platon, realidad-virtual, simulacro, tecnologia-de-control, tl-intel-v3]
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 publish: true
 ---

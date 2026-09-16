@@ -4,7 +4,7 @@ titulo: "Mayer Amschel Rothschild"
 aliases: ["Mayer Amschel", "Mayer Amschel Rothschild"]
 tags: [actor, banquero, dinastia, rothschild]
 tipo: actor
-nivel: A
+tier_primario: A
 ---
 
 # Mayer Amschel Rothschild

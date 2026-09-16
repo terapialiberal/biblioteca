@@ -2,7 +2,7 @@
 titulo: Narrativa Unica
 tipo: concepto
 fecha: 2026-04-20
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 aliases: ["Narrativa Única", "Narrativa Unica: El Monopolio Epistemologico De La Matrix"]

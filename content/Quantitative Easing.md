@@ -2,7 +2,7 @@
 titulo: Quantitative Easing
 tipo: concepto
 fecha: 2026-05-02
-tier_primario: b
+capa_tema: b
 nivel_evidencia: alto
 estado: activo
 aliases: ["QE", "Quantitative Easing (Expansión Monetaria)", "Expansión cuantitativa"]

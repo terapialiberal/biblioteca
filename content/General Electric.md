@@ -21,7 +21,7 @@ publish: true
 
 ### Tier A (Los Dueños De La Liquidez)
 
-- **J.P. Morgan y el Origen:** GE nació de la fusión entre el genio (Edison) y el banquero (Morgan). El Tier A financiero siempre tuvo el control final, utilizando a GE como un vehículo para consolidar el monopolio eléctrico y luego como un motor de ingeniería financiera global.
+- **J.P. Morgan y el Origen:** GE nació de la fusión entre el genio (Edison) y el banquero (Morgan). El Tier A siempre tuvo el control final, utilizando a GE como un vehículo para consolidar el monopolio eléctrico y luego como un motor de ingeniería financiera global.
 - **El Modelo de "Valor para el Accionista":** El Tier A impuso la doctrina de que lo único que importa es el precio de la acción mañana por la mañana, forzando a GE a canibalizar su propio futuro (I+D) para pagar dividendos masivos a los fondos de inversión de Wall Street.
 
 ### Tier B (Operadores / Jack Welch Y Los "Neutron Jacks")

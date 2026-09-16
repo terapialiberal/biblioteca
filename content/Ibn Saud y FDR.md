@@ -2,7 +2,7 @@
 titulo: Ibn Saud y FDR
 tipo: evento
 fecha: 2026-04-17
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 tags: [ibn-saud, fdr, uss-quincy, saudi, petrodolar, tl-intel-v3]

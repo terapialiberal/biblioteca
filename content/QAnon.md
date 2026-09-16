@@ -4,7 +4,7 @@ titulo: "QAnon"
 aliases: ["QAnon"]
 tags: [fenomeno, conspiracion, internet, psyop]
 tipo: fenomeno
-nivel: C
+capa_tema: c
 ---
 
 # QAnon

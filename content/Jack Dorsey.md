@@ -23,7 +23,7 @@ publish: true
 
 ### Tier B: El Arquitecto De La Secesión (Dorsey)
 
-- **De la Plataforma al Protocolo:** El gran descubrimiento operativo de Dorsey es que las "plataformas" (Twitter, Facebook) son inherentemente capturables por el Estado. Su respuesta es financiar "protocolos" (redes sin dueño). Esto es un acto de **sabotaje al modelo de vigilancia**: al crear herramientas que nadie puede "apagar" o moderar centralizadamente, le quita el control del flujo informativo al Tier B gubernamental.
+- **De la Plataforma al Protocolo:** El gran descubrimiento operativo de Dorsey es que las "plataformas" (Twitter, Facebook) son inherentemente capturables por el Estado. Su respuesta es financiar "protocolos" (redes sin dueño). Esto es un acto de **sabotaje al modelo de vigilancia**: al crear herramientas que nadie puede "apagar" o moderar centralizadamente, le quita el control del flujo informativo a la capa de gobierno.
 - **Redención o Estrategia:** Sus silencios y disculpas tras las revelaciones de los "Twitter Files" sugieren un remordimiento táctico. Busca limpiar su legado transformándose en el facilitador técnico de la resistencia global.
 
 ### Tier C: El Usuario En Transición

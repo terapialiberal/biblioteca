@@ -2,7 +2,7 @@
 titulo: La Puerta Giratoria de la FDA
 tipo: concepto
 fecha: 2026-04-21
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 aliases: ["FDA y las Puertas Giratorias (Pfizer)"]

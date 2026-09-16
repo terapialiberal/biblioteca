@@ -2,7 +2,7 @@
 titulo: "Leave the World Behind: El Guion De La Inevitabilidad"
 tipo: "concepto"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [behind, gran, guion, inevitabilidad]
@@ -21,7 +21,7 @@ publish: true
 - **La Profecía Autocumplida:** El Tier A global (WEF, corporaciones de ciberseguridad transnacional) ha advertido repetidamente sobre un "Cisne Negro" digital que detendrá la economía mundial. "Leave the World Behind" es la **visualización emocional** de esa advertencia. Para el Tier A, la película sirve para testear la respuesta social ante la falta de suministros y la desinformación masiva. Es la "precuela cultural" de un evento que justificaría el censo digital total y la eliminación del anonimato en red bajo el pretexto de la seguridad nacional.
 - **Sincronización con Cyber Polygon:** La temática coincide milimétricamente con las simulaciones de **[[Cyber Polygon]]**, donde el Tier A ensaya la respuesta de los bancos y gobiernos a la caída de internet. La película asegura que la población de Tier C asimile el colapso no como una falla del sistema, sino como un ataque externo inevitable contra el cual solo el Estado puede protegerlos.
 
-### Tier B: Los Administradores Del Relato (Los Obama Como Productores)
+### Los Administradores Del Relato (Los Obama Como Productores)
 
 - **Validación de Inteligencia en la Ficción:** En el nivel de Tier B, el involucramiento de Barack Obama no es artístico, sino directivo. El director Sam Esmail confirmó que Obama "aterrizó" la historia con notas técnicas sobre cómo colapsaría realmente el mando y control del país. El Tier B utiliza estas producciones para **insuflar realismo al miedo**: al saber que el productor "lo sabe todo", el espectador asimila la distopía como un destino probable.
 - **Ingeniería del Aislamiento:** La película promueve la idea de que en una crisis, el vecino es el enemigo. El Tier B gestiona esta narrativa de atomización social para asegurar que, llegado el momento del colapso real, el [[Tier C]] sea incapaz de organizarse comunitariamente, buscando desesperadamente la salvación en las estructuras de control vertical de Tier B que habrán "sobrevivido" al reset.

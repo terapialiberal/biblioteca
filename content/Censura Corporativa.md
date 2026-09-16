@@ -2,7 +2,7 @@
 titulo: Censura Corporativa
 tipo: concepto
 fecha: 2026-04-20
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 tags: [censura-corporativa, plataformas, reputacion, anunciantes, moderacion, tl-intel-v3]

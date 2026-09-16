@@ -4,7 +4,7 @@ titulo: "Arthur Shapiro"
 aliases: ["Arthur Shapiro"]
 tags: [actor, academia, psicologia, control-social]
 tipo: actor
-nivel: C
+tier_primario: C
 ---
 
 # Arthur Shapiro

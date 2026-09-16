@@ -3,7 +3,7 @@ titulo: Beneficial Ownership
 tipo: concepto
 fecha: 2026-04-22
 aliases: ["Propiedad Beneficiaria", "Beneficial owner", "Beneficial ownership"]
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 tags: [beneficial-ownership, custodia, propiedad-beneficiaria, dtcc, clearing, tl-intel-v3]

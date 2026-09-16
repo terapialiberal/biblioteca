@@ -4,7 +4,7 @@ titulo: "Anne Hidalgo"
 aliases: ["Anne Hidalgo"]
 tags: [actor, francia, paris, urbanismo, agenda-2030]
 tipo: actor
-nivel: C
+tier_primario: C
 ---
 
 # Anne Hidalgo

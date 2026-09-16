@@ -3,7 +3,7 @@ titulo: NED
 publish: true
 tipo: entidad
 fecha: 2026-04-24
-tier_primario: a
+tier_primario: b
 moc_canonico: [[00_MOC - Operaciones Encubiertas]]
 estado: activo
 aliases: ["National Endowment for Democracy", "NED: El Caballo De Troya De La Sociedad Civil"]
@@ -12,6 +12,8 @@ tags: [ned, sociedad-civil, cambio-de-regimen, soft-power, geopolitica, tl-intel
 ---
 
 # NED
+
+> **Clasificación (2026-09-15):** no es dueño del capital: vehículo operativo o aparato estatal (Tier B por canon).
 
 > [!abstract] PERFIL TL-INTEL
 > [[NED]] importa en TL como vehiculo de proyeccion politica bajo lenguaje de democracia, derechos y sociedad civil. Su rol no es solo financiar iniciativas civicas, sino ayudar a organizar elites, oposiciones, medios y marcos de legitimidad compatibles con intereses estrategicos estadounidenses.

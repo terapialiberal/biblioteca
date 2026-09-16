@@ -2,7 +2,7 @@
 titulo: Data Centers
 tipo: concepto
 fecha: 2026-05-26
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 tags: [data-centers, ia, energia, compute, infraestructura, tl-intel-v3]

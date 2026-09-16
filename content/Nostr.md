@@ -2,7 +2,7 @@
 titulo: "Nostr: El Protocolo De La Secesión Digital"
 tipo: "concepto"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [bitcoin, digital, nostr, protocolo]

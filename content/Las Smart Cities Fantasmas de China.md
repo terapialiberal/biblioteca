@@ -2,7 +2,7 @@
 titulo: "Las Smart Cities Fantasmas De China: Los Servidores Físicos De La Sociedad"
 tipo: "concepto"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [china, evergrande, fsicos, servidores]
@@ -18,7 +18,7 @@ publish: true
 
 ### Tier A: Los Curadores Del Modelo De La Colmena (The Global Technocrats)
 
-- **La Exportación del Modelo China:** Para el Tier A globalista, las ciudades como Xiong'an son el "Faro" del nuevo orden. No se construyen para satisfacer una demanda de vivienda del [[Tier C]], sino para establecer el estándar de la **Ciudad 15 Minutos de Máxima Seguridad**. El Tier A financiero occidental (BlackRock, Goldman Sachs) ha canalizado billones de dólares hacia estos proyectos mediante bonos de deuda, validando el experimento chino como la solución definitiva a la "fricción" de la vida urbana libre.
+- **La Exportación del Modelo China:** Para el Tier A globalista, las ciudades como Xiong'an son el "Faro" del nuevo orden. No se construyen para satisfacer una demanda de vivienda del [[Tier C]], sino para establecer el estándar de la **Ciudad 15 Minutos de Máxima Seguridad**. El Tier A occidental (BlackRock, Goldman Sachs) ha canalizado billones de dólares hacia estos proyectos mediante bonos de deuda, validando el experimento chino como la solución definitiva a la "fricción" de la vida urbana libre.
 - **Búnkers de Continuidad Estatal:** Estas ciudades funcionan como activos estratégicos de Tier A frente a catástrofes climáticas o conflictos bélicos. Están preparadas para recibir a las élites y a la fuerza laboral técnica necesaria en caso de que las metrópolis tradicionales colapsen, funcionando como un **"Plan B" geográfico** para el mantenimiento del poder del Partido y sus socios corporativos.
 
 ### Tier B: Los Administradores De La Burbuja De Hormigón (Gobiernos Locales)

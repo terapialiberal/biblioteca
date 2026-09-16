@@ -2,7 +2,7 @@
 titulo: AUKUS II - Expansion Japon
 tipo: concepto
 fecha: 2026-04-22
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 aliases: ["AUKUS II: El Pilar Digital Y La Integración De Japón", "AUKUS Pillar 2"]

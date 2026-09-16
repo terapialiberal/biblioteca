@@ -21,7 +21,7 @@ publish: true
 
 ### Tier A (Los Dueños De La Logística Forzada)
 
-- **Pacto de Inactividad Estatal:** El Tier A político permite la existencia de Moyano porque es el encargado de realizar el "trabajo sucio" de control social y financiero que el Estado no puede hacer directamente. Moyano es el brazo armado civil que puede paralizar el país si el Tier A así lo decide en una interna de poder.
+- **Pacto de Inactividad Estatal:** la dirigencia política permite la existencia de Moyano porque es el encargado de realizar el "trabajo sucio" de control social y financiero que el Estado no puede hacer directamente. Moyano es el brazo armado civil que puede paralizar el país si el Tier A así lo decide en una interna de poder.
 
 ### Tier B (Operadores / La Familia Y Los Bloqueadores)
 

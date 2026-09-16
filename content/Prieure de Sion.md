@@ -5,7 +5,7 @@ fecha: 2026-04-27
 estado: activo
 aliases: ["Prieuré de Sion", "Priory of Sion"]
 tags: [prieure-de-sion, mito-moderno, genealogia, esoterismo, desinformacion, tl-intel-v3]
-tier_primario: c
+capa_tema: c
 nivel_evidencia: bajo
 publish: true
 ---

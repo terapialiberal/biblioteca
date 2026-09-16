@@ -2,7 +2,7 @@
 titulo: Manual de Conceptos Terapia Liberal
 tipo: concepto
 fecha: 2026-02-25T00:00:00.000Z
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 tags:

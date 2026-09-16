@@ -18,12 +18,12 @@ publish: true
 
 ### Tier A: Los Dueños De La Corporatocracia
 
-- **La Ingeniería del Saqueo Transnacional:** El Tier A financiero (vía el [[FMI]] y el [[Banco Mundial]]) utiliza a individuos como Perkins para crear "trampas de deuda". El objetivo no es el cobro del préstamo, sino el **incumplimiento estratégico**: una vez que el país no puede pagar, el Tier A exige la privatización de su infraestructura (agua, electricidad, minería) a precio de remate, consolidando un monopolio global sobre los recursos esenciales.
+- **La Ingeniería del Saqueo Transnacional:** El Tier A (vía el [[FMI]] y el [[Banco Mundial]]) utiliza a individuos como Perkins para crear "trampas de deuda". El objetivo no es el cobro del préstamo, sino el **incumplimiento estratégico**: una vez que el país no puede pagar, el Tier A exige la privatización de su infraestructura (agua, electricidad, minería) a precio de remate, consolidando un monopolio global sobre los recursos esenciales.
 - **Soberanía por encima de la Ley:** Las instituciones que Perkins describe operan en una atmósfera de extraterritorialidad, dictando las leyes internas de los países del [[Tier C]] mediante condicionalidades de préstamo que destruyen el tejido social en beneficio del capital de Tier A.
 
 ### Tier B: Los Operadores Y La Elite Compradora
 
-- **El EHM (Economic Hitman):** El operador de Tier B que infla estadísticas para convencer a los líderes locales de aceptar proyectos de infraestructura que no necesitan. Perkins confiesa que su función era engañar al Tier B político de los países subdesarrollados, prometiéndoles un crecimiento que solo existía en sus maquetas de powerpoint.
+- **El EHM (Economic Hitman):** El operador de Tier B que infla estadísticas para convencer a los líderes locales de aceptar proyectos de infraestructura que no necesitan. Perkins confiesa que su función era engañar a la capa política de los países subdesarrollados, prometiéndoles un crecimiento que solo existía en sus maquetas de powerpoint.
 - **Los Chacales:** Si el EHM falla, entra en juego el ala violenta del Tier B (la [[CIA]] o contratistas militares). Perkins documenta cómo los líderes que rechazaron la esclavitud por deuda, como **[[Jaime Roldós]]** (Ecuador) o **[[Omar Torrijos]]** (Panamá), fueron eliminados físicamente ("accidentes" aéreos) para dar paso a operadores de Tier B más dóciles a la agenda de Tier A.
 
 ### Tier C: La Población En El Neocolonialismo

@@ -2,7 +2,7 @@
 titulo: Falta De Reclutas (Crisis Militar)
 tipo: "evento"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [cada, crisis, falta, woke]

@@ -2,7 +2,7 @@
 titulo: "Medialuna De Oro (Opio En Afganistán): La Caja Chica De La CIA"
 tipo: "concepto"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [chica, guerra, hsbc, medialuna]

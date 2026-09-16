@@ -1,7 +1,7 @@
 ---
 titulo: Vida Artificial
 tipo: "concepto"
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [tecnologia, biologia-sintetica, ia, control]

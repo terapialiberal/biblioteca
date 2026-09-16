@@ -2,7 +2,7 @@
 titulo: Starlink
 tipo: infraestructura
 fecha: 2026-04-20
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 aliases: ["Starlink: Geopolítica: la Infraestructura de la Soberanía Orbital"]

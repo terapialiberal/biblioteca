@@ -2,7 +2,7 @@
 titulo: Fed Put
 tipo: concepto
 fecha: 2026-05-02
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 aliases: ["Fed Put (Backstop Implícito de la FED)", "Backstop de la Fed"]

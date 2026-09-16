@@ -21,7 +21,7 @@ publish: true
 
 ### Tier A (Los Dueños De La Arquitectura Global)
 
-- **George Soros / Open Society:** El Tier A financiero utiliza al ICG para "proyectar poder blando". Al financiar el análisis de los conflictos, controlan la solución de los mismos. El ICG es el brazo de inteligencia civil que complementa la fuerza militar del Tier A.
+- **George Soros / Open Society:** El Tier A utiliza al ICG para "proyectar poder blando". Al financiar el análisis de los conflictos, controlan la solución de los mismos. El ICG es el brazo de inteligencia civil que complementa la fuerza militar del Tier A.
 - **Centralización del Orden Mundial:** El objetivo recurrente del ICG es promover la "responsabilidad de proteger" (R2P), una doctrina que permite violar la soberanía de cualquier nación si el ICG decide que hay una crisis humanitaria.
 
 ### Tier B (Operadores / Robert Malley Y Alexander Soros)

@@ -2,7 +2,7 @@
 titulo: "Muerte De Allende: El Castigo Imperial"
 tipo: "concepto"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [allende, augusto, castigo, henry]

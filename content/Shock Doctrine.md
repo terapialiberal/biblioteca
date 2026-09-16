@@ -5,7 +5,7 @@ fecha: 2026-04-27
 estado: activo
 aliases: ["Doctrina del Shock"]
 tags: [shock-doctrine, crisis, neoliberalismo, gobernanza, tl-intel-v3]
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 publish: true
 ---

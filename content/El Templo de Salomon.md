@@ -1,7 +1,7 @@
 ---
 titulo: El Templo de Salomon
 tipo: "concepto"
-tier_primario: "a"
+capa_tema: "a"
 nivel_evidencia: "medio"
 estado: activo
 tags: [esoterismo, arquitectura, masoneria, control, orden]

@@ -4,7 +4,7 @@ titulo: "Luxemburgo"
 aliases: ["Luxemburgo", "Gran Ducado de Luxemburgo"]
 tags: [pais, finanzas, paraiso-fiscal, ue]
 tipo: jurisdiccion
-nivel: C
+capa_tema: c
 ---
 
 # Luxemburgo

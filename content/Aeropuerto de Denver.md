@@ -2,7 +2,7 @@
 titulo: Aeropuerto De Denver (Murales Y Búnker)
 tipo: "concepto"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [aeropuerto, continuity, masonera, murales]

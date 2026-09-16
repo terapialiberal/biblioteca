@@ -15,9 +15,11 @@ publish: true
 
 **¿Quién fue?** Un ingeniero y economista excéntrico, fundador del **Movimiento Tecnocrático** y director de _Technocracy Inc._ en los años 30.
 
-**¿Por qué importa?** Howard Scott es el **Arquitecto Visionario de la Dictadura Científica de Tier A**. Fue el primero en proponer la eliminación del dinero (sistema de precios) y su reemplazo por una **Contabilidad Energética**. Scott imaginaba una sociedad gobernada por ingenieros y expertos (no políticos) donde cada ciudadano tuviera una tarjeta de crédito de energía intransferible que registrara cada una de sus actividades y consumos. Aunque fue desacreditado en su época, sus ideas son la base directa de la **Economía basada en la Huella de Carbono**, los **Certificados de Energía** y las **CBDC** modernas. Scott diseñó el plano para el **Panóptico Tecnológico** décadas antes de que existiera la computadora; su visión es exactamente lo que el Tier A de Davos intenta implementar hoy bajo el nombre de "El Gran Reinicio".
+**¿Por qué importa?** Howard Scott es el **arquitecto visionario (Tier B)** de la dictadura científica que sirvió a la capa dueña (Tier A). Fue el primero en proponer la eliminación del dinero (sistema de precios) y su reemplazo por una **Contabilidad Energética**. Scott imaginaba una sociedad gobernada por ingenieros y expertos (no políticos) donde cada ciudadano tuviera una tarjeta de crédito de energía intransferible que registrara cada una de sus actividades y consumos. Aunque fue desacreditado en su época, sus ideas son la base directa de la **Economía basada en la Huella de Carbono**, los **Certificados de Energía** y las **CBDC** modernas. Scott diseñó el plano para el **Panóptico Tecnológico** décadas antes de que existiera la computadora; su visión es exactamente lo que el Tier A de Davos intenta implementar hoy bajo el nombre de "El Gran Reinicio".
 
 ## Análisis De Poder (Tiers)
+
+> **Nota de vocabulario:** donde esta ficha usa «Tier A / Tier B / Tier C» en encabezados de sección, usa el vocabulario anterior al canon de actores (capas de la estructura: dueños / operadores / cara visible). La clasificación de este sujeto es la del frontmatter (`tier_primario` en actores, `capa_tema` en objetos).
 
 ### Tier A (Los Dueños De La Gestión Del Recurso)
 

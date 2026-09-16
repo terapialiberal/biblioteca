@@ -2,7 +2,7 @@
 titulo: Guerra Del Litio (El Triángulo De Sudamérica)
 tipo: "evento"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [elon, guerra, litio, sudamrica]
@@ -21,7 +21,7 @@ publish: true
 
 ### Tier A (Los Dueños De La Movilidad Futura)
 
-- **La Agenda de la Electrificación Forzada:** El Tier A financiero (BlackRock, Bill Gates) impulsa leyes contra los motores de combustión para forzar a la población de Tier C a depender de baterías de litio, cuyo suministro controlan ellos mismos mediante concesiones mineras en el Sur Global.
+- **La Agenda de la Electrificación Forzada:** El Tier A (BlackRock, Bill Gates) impulsa leyes contra los motores de combustión para forzar a la población de Tier C a depender de baterías de litio, cuyo suministro controlan ellos mismos mediante concesiones mineras en el Sur Global.
 - **Elon Musk:** Actúa como el rostro público de Tier A que no tiene reparos en admitir la intervención política para asegurar su cadena de suministro ("We will coup whoever we want! Deal with it").
 
 ### Tier B (Operadores / OEA, Gobiernos Locales Y Mineras)

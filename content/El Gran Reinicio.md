@@ -31,7 +31,7 @@ publish: true
 
 ### Tier B (Operadores / Build Back Better)
 
-- **Coordinación Global:** El uso simultáneo del eslogan **"Build Back Better"** por parte de Trudeau, Biden, Johnson y la ONU demuestra que el Tier B político está totalmente sincronizado con las directrices del WEF.
+- **Coordinación Global:** El uso simultáneo del eslogan **"Build Back Better"** por parte de Trudeau, Biden, Johnson y la ONU demuestra que la capa política está totalmente sincronizado con las directrices del WEF.
 - **Ingenieros de la Identidad Digital:** Las empresas tecnológicas y ONGs que desarrollan los "pasaportes de salud" y sistemas de crédito social son los ejecutores técnicos que transforman el concepto filosófico del Reset en una realidad operativa ineludible.
 
 ### Tier C (Narrativa Pública)

@@ -2,7 +2,7 @@
 titulo: Desastre del Hindenburg
 tipo: evento
 fecha: 2026-04-18
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 tags: [hindenburg, tecnologia, sabotaje, standard-oil, tl-intel-v3]

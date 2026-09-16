@@ -2,7 +2,7 @@
 titulo: Bioseguridad
 tipo: concepto
 fecha: 2026-04-21
-tier_primario: a
+capa_tema: a
 nivel_evidencia: medio
 estado: activo
 tags: [bioseguridad, salud-global, vigilancia, preparacion-pandemica, control, tl-intel-v3]

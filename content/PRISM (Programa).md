@@ -2,7 +2,7 @@
 titulo: "PRISM (Programa)"
 tipo: programa
 fecha: 2026-04-22
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 aliases: ["Programa PRISM", "PRISM"]

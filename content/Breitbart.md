@@ -4,7 +4,7 @@ titulo: "Breitbart"
 aliases: ["Breitbart"]
 tags: [medio, derecha, eeuu, bannon]
 tipo: medio
-nivel: C
+tier_primario: C
 ---
 
 # Breitbart

@@ -5,7 +5,7 @@ fecha: 2026-04-27
 estado: activo
 aliases: ["Singularidad Noosférica"]
 tags: [singularidad-noosferica, noosfera, agi, conciencia-colectiva, tl-intel-v3]
-tier_primario: b
+capa_tema: b
 nivel_evidencia: bajo
 publish: true
 ---

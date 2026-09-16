@@ -2,7 +2,7 @@
 titulo: "Muerte De Juan Pablo I: El Magnicidio En El Vaticano"
 tipo: "concepto"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [banco, juan, muerte, pablo]
@@ -18,7 +18,7 @@ publish: true
 
 ### Tier A: La Lavadora De Dinero De Dios
 
-- **La Conexión Calvi-Sindona-Marcinkus:** El Vaticano funcionaba como el paraíso fiscal definitivo (soberano y opaco) para la Mafia italiana y la CIA (financiación de operaciones anticomunistas como Solidarnosc). Juan Pablo I amenazaba con cerrar este grifo ("Iglesia de los Pobres"). El Tier A financiero no podía permitir que un Papa ético desmantelara su infraestructura de lavado de dinero global. Matarlo fue una decisión de negocios.
+- **La Conexión Calvi-Sindona-Marcinkus:** El Vaticano funcionaba como el paraíso fiscal definitivo (soberano y opaco) para la Mafia italiana y la CIA (financiación de operaciones anticomunistas como Solidarnosc). Juan Pablo I amenazaba con cerrar este grifo ("Iglesia de los Pobres"). El Tier A no podía permitir que un Papa ético desmantelara su infraestructura de lavado de dinero global. Matarlo fue una decisión de negocios.
 - **Logia P2:** Licio Gelli y la Logia Propaganda Due habían infiltrado la curia romana. Luciani tenía la lista de masones eclesiásticos y se disponía a exponerla. Su muerte protegió la red de influencia oculta más poderosa de Italia.
 
 ### Tier B: La Burocracia Vaticana (Curia)

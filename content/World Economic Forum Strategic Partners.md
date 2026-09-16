@@ -2,7 +2,7 @@
 titulo: World Economic Forum Strategic Partners
 tipo: concepto
 fecha: 2026-04-21
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 tags: [wef, strategic-partners, corporatocracia, gobernanza-corporativa, tl-intel-v3]

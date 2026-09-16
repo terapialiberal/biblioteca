@@ -2,7 +2,7 @@
 titulo: Frank La Salla
 tipo: persona
 fecha: '2026-05-29'
-tier: A
+tier_primario: A
 rol: CEO de DTCC
 estado: activo
 tags:

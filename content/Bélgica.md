@@ -4,7 +4,7 @@ titulo: "Bélgica"
 aliases: ["Bélgica"]
 tags: [pais, ue, nato, bruselas]
 tipo: pais
-nivel: C
+tier_primario: C
 ---
 
 # Bélgica

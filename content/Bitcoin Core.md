@@ -4,7 +4,7 @@ titulo: "Bitcoin Core"
 aliases: ["Bitcoin Core"]
 tags: [concepto, bitcoin, software, gobernanza]
 tipo: concepto
-nivel: C
+capa_tema: c
 ---
 
 # Bitcoin Core

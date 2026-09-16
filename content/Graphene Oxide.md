@@ -21,7 +21,7 @@ publish: true
 
 ### Tier A (Los Arquitectos De La Fusión Biológica)
 
-- **Agenda de la Pos-Humanidad:** El Tier A financiero y científico (WEF, DARPA) financia masivamente la investigación en grafeno para alcanzar la "singularidad". Ven al cuerpo humano como un hardware obsoleto que debe ser "mejorado" o "conectado" para asegurar la gestión total de la biomasa de Tier C.
+- **Agenda de la Pos-Humanidad:** El Tier A y científico (WEF, DARPA) financia masivamente la investigación en grafeno para alcanzar la "singularidad". Ven al cuerpo humano como un hardware obsoleto que debe ser "mejorado" o "conectado" para asegurar la gestión total de la biomasa de Tier C.
 - **Patentes de Vida:** Al introducir materiales sintéticos patentados en el cuerpo humano, el Tier A busca técnicamente "reivindicar la propiedad" sobre los procesos biológicos de la población.
 
 ### Tier B (Operadores / Big Pharma Y Nanotecnólogos)

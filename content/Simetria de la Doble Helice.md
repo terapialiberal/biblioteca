@@ -5,7 +5,7 @@ fecha: 2026-04-27
 estado: activo
 aliases: ["Simetría de la Doble Hélice"]
 tags: [doble-helice, adn, biotecnologia, simbolismo, tl-intel-v3]
-tier_primario: b
+capa_tema: b
 nivel_evidencia: alto
 publish: true
 ---

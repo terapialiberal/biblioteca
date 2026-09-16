@@ -2,7 +2,7 @@
 titulo: "Lazard: El Arquitecto De La Quiebra Soberana"
 tipo: "concepto"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [arquitecto, felix, quiebra, rothschild]
@@ -18,8 +18,8 @@ publish: true
 
 ### Tier A: Los Curadores Del Ajuste Global (The High Hand)
 
-- **El Poder de la Firma:** El Tier A financiero utiliza a Lazard como su "rostro amable" y técnico ante los gobiernos de [[Tier B]]. Figuras históricas como **[[Felix Rohatyn]]** personifican esta dinámica: Rohatyn "salvó" a Nueva York de la quiebra en los 70 imponiendo una junta de control financiero que sustituyó a los representantes elegidos por el pueblo por banqueros de Tier A. Para el nivel de los dueños del capital, Lazard es el **agente de despolitización de la economía**: transforma conflictos de clase y soberanía en "problemas técnicos de solvencia" que solo ellos pueden resolver.
-- **La Red de los "Lazard Frères":** La firma mantiene una red de contactos que incluye a ex-primeros ministros, directores de bancos centrales y dueños de medios. Este nexo asegura que, en caso de un default nacional, la respuesta de los acreedores sea coordinada y letal, obligando al Tier B político a aceptar las condiciones de Lazard como la única salida "respetable".
+- **El Poder de la Firma:** El Tier A utiliza a Lazard como su "rostro amable" y técnico ante los gobiernos de [[Tier B]]. Figuras históricas como **[[Felix Rohatyn]]** personifican esta dinámica: Rohatyn "salvó" a Nueva York de la quiebra en los 70 imponiendo una junta de control financiero que sustituyó a los representantes elegidos por el pueblo por banqueros de Tier A. Para el nivel de los dueños del capital, Lazard es el **agente de despolitización de la economía**: transforma conflictos de clase y soberanía en "problemas técnicos de solvencia" que solo ellos pueden resolver.
+- **La Red de los "Lazard Frères":** La firma mantiene una red de contactos que incluye a ex-primeros ministros, directores de bancos centrales y dueños de medios. Este nexo asegura que, en caso de un default nacional, la respuesta de los acreedores sea coordinada y letal, obligando a la capa política a aceptar las condiciones de Lazard como la única salida "respetable".
 
 ### Tier B: Los Administradores Del "Default" (The Technocratic Proxy)
 
@@ -29,7 +29,7 @@ publish: true
 ### Tier C: La Población En La Servidumbre Fiscal
 
 - **El Sujeto del Ajuste:** Para el ciudadano de Tier C, Lazard es un nombre invisible en letras pequeñas de los contratos estatales. Sin embargo, las decisiones tomadas en las oficinas de Lazard determinan cuántos hospitales se cierran o cuánto suben los impuestos para pagar intereses de deuda durante las próximas tres décadas. El Tier C asimila el mensaje de "necesidad técnica" de la austeridad, sin notar que está financiando los honorarios millonarios del asesor que diseñó su propia pobreza.
-- **La Disolución de la Democracia:** El éxito de Lazard se traduce en la pérdida de agencia del elector. El Tier C vota a presidentes de Tier B, pero estos presidentes están atados a los contratos diseñados por Lazard que entregan la caja del Estado a los acreedores de Tier A. El ciudadano termina viviendo en una **"Democracia Hipotecada"** donde las decisiones clave han sido privatizadas por la asesoría financiera.
+- **La Disolución de la Democracia:** El éxito de Lazard se traduce en la pérdida de agencia del elector. El Tier C vota a presidentes (políticos de Tier C), pero estos están atados a los contratos diseñados por Lazard que entregan la caja del Estado a los acreedores de Tier A. El ciudadano termina viviendo en una **"Democracia Hipotecada"** donde las decisiones clave han sido privatizadas por la asesoría financiera.
 
 ## ¸ Mecanismos De Poder
 

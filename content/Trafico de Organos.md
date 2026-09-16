@@ -4,7 +4,7 @@ tipo: "concepto"
 fecha: 2026-02-25
 estado: activo
 tags: [adrenocromo, trfico, rganos]
-tier_primario: "a"
+capa_tema: "a"
 nivel_evidencia: "alto"
 publish: true
 ---
@@ -23,7 +23,7 @@ publish: true
 
 ### 2. Hubs Geopolíticos Y "Zonas De Sacrificio" (Tier B)
 
-- **China y el Sistema Estatal**: El caso de **Falun Gong** y los **Uigures**. Forensemente, China ha industrializado la ejecución judicial sincronizada con la demanda de trasplantes. El Tier B político gestiona los hospitales militares donde los "pedidos" se cumplen en plazos imposibles para cualquier sistema de donación altruista.
+- **China y el Sistema Estatal**: El caso de **Falun Gong** y los **Uigures**. Forensemente, China ha industrializado la ejecución judicial sincronizada con la demanda de trasplantes. La capa política gestiona los hospitales militares donde los "pedidos" se cumplen en plazos imposibles para cualquier sistema de donación altruista.
 - **Kosovo y el Corredor Balcánico**: Durante la guerra de 1999, la "Casa Amarilla" fue el nodo logístico donde el KLA (respaldado por el Tier B occidental) extraía órganos de prisioneros para venderlos en el mercado negro europeo.
 
 ## Análisis De Tiers

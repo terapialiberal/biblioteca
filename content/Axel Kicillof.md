@@ -2,7 +2,7 @@
 titulo: Axel Kicillof
 tipo: persona
 fecha: 2026-04-18
-tier_primario: b
+tier_primario: c
 nivel_evidencia: medio
 estado: activo
 tags: [argentina, kicillof, kirchnerismo, provincia, economia, tl-intel-v3]
@@ -10,6 +10,8 @@ publish: true
 ---
 
 # Axel Kicillof
+
+> **Clasificación (2026-09-15):** cargo político de gobierno: cuadro visible y reemplazable (Tier C por canon).
 
 ## BLUF
 

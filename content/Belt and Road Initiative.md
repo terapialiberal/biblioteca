@@ -2,7 +2,7 @@
 titulo: Belt and Road Initiative
 tipo: concepto
 fecha: 2026-04-21
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 aliases: ["BRI", "Belt and Road Initiative (BRI)", "Nueva Ruta de la Seda"]

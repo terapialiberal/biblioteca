@@ -2,7 +2,7 @@
 titulo: Bill Clinton
 tipo: "persona"
 fecha: 2026-02-25
-tier_primario: "b"
+tier_primario: c
 nivel_evidencia: "medio"
 estado: activo
 tags: [barry, bill, clinton, hillary]
@@ -12,6 +12,8 @@ publish: true
 ![Bill Clinton](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bill_Clinton.jpg/220px-Bill_Clinton.jpg)
 
 # Bill Clinton
+
+> **Clasificación (2026-09-15):** cargo político de gobierno: cuadro visible y reemplazable (Tier C por canon).
 
 ## Resumen Ejecutivo
 

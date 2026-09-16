@@ -2,7 +2,7 @@
 titulo: Revolucion de Color
 tipo: concepto
 fecha: 2026-04-18
-tier_primario: B
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 aliases:

@@ -2,7 +2,7 @@
 titulo: Gnosticismo (El Demiurgo Y La Prisión Planetaria)
 tipo: "concepto"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [demiurgo, gnosticismo, planetaria, transhumanismo]
@@ -26,7 +26,7 @@ publish: true
 
 ### Tier B (Operadores / Archones Y Sacerdotes)
 
-- **El Concepto de los Archones:** En la teología gnóstica, los Archones son los carceleros del Demiurgo que vigilan las "puertas" del mundo material. En el análisis moderno, el Tier B político y mediático funciona como los **Archones Modernos**: los guardianes de la narrativa que impiden que el Tier C despierte a su verdadera situación de esclavitud.
+- **El Concepto de los Archones:** En la teología gnóstica, los Archones son los carceleros del Demiurgo que vigilan las "puertas" del mundo material. En el análisis moderno, la capa política y mediática funciona como los **Archones Modernos**: los guardianes de la narrativa que impiden que el Tier C despierte a su verdadera situación de esclavitud.
 - **Censura de Nag Hammadi:** La Iglesia (Tier B histórico) persiguió y quemó los textos gnósticos durante siglos para mantener el monopolio de la espiritualidad, hasta que el hallazgo accidental en 1945 obligó a una reevaluación masiva de los orígenes del cristianismo.
 
 ### Tier C (Narrativa Pública)

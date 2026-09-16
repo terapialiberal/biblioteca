@@ -2,7 +2,7 @@
 titulo: Geopolítica Del Agua (El Oro Azul)
 tipo: "concepto"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [agua, azul, geopoltica, nestl]
@@ -15,19 +15,19 @@ publish: true
 
 **¿Qué es?** La lucha estratégica por el control, acceso y propiedad de las reservas de agua dulce del planeta, ante la creciente escasez proyectada para el siglo XXI.
 
-**¿Por qué importa?** El agua es el **"Nuevo Petróleo" del Tier A financiero**. A diferencia del petróleo, no hay sustituto para el agua; es la base de la vida y de toda la industria. El Tier A (bancos como **Goldman Sachs** y corporaciones como **Nestlé**) busca la **Privatización Total del Ciclo del Agua**, eliminando el concepto de "derecho humano" para transformarlo en una mercancía transable en bolsa. Quien controla el agua controla la demografía: puede decidir qué regiones son habitables y cuáles deben ser abandonadas. El Tier A está comprando tierras sobre acuíferos estratégicos (como el **[[Acuífero Guaraní]]**) y promoviendo leyes que prioricen el uso industrial/extractivo sobre el consumo humano, asegurando un monopolio sobre la supervivencia misma del Tier C.
+**¿Por qué importa?** El agua es el **"Nuevo Petróleo" del Tier A**. A diferencia del petróleo, no hay sustituto para el agua; es la base de la vida y de toda la industria. El Tier A (bancos como **Goldman Sachs** y corporaciones como **Nestlé**) busca la **Privatización Total del Ciclo del Agua**, eliminando el concepto de "derecho humano" para transformarlo en una mercancía transable en bolsa. Quien controla el agua controla la demografía: puede decidir qué regiones son habitables y cuáles deben ser abandonadas. El Tier A está comprando tierras sobre acuíferos estratégicos (como el **[[Acuífero Guaraní]]**) y promoviendo leyes que prioricen el uso industrial/extractivo sobre el consumo humano, asegurando un monopolio sobre la supervivencia misma del Tier C.
 
 ## Análisis De Poder (Tiers)
 
 ### Tier A (Los Dueños De La Sed)
 
-- **Financiarización del Agua:** El Tier A financiero ha logrado que el agua empiece a cotizar en los mercados de futuros de Wall Street (NQH2O). Esto permite a los inversores de élite especular con el precio de la escasez futura, enriqueciéndose mientras la población de Tier C sufre sequías.
+- **Financiarización del Agua:** El Tier A ha logrado que el agua empiece a cotizar en los mercados de futuros de Wall Street (NQH2O). Esto permite a los inversores de élite especular con el precio de la escasez futura, enriqueciéndose mientras la población de Tier C sufre sequías.
 - **Nestlé y la Doctrina Brabeck:** El ex-CEO de Nestlé, Peter Brabeck, afirmó que la idea de que el agua sea un derecho es "extrema". El Tier A opera bajo esta premisa, buscando que cada litro de agua tenga un precio de mercado controlado por ellos.
 
 ### Tier B (Operadores / Gobiernos Y Represas)
 
-- **Guerra de Represas (Etiopía/Egipto/China):** Los gobiernos de Tier B utilizan la infraestructura hidroeléctrica como arma de presión contra sus vecinos. China (Tier A estatal) controla las nacientes de los ríos más importantes de Asia en el Tíbet, permitiéndole cortar el flujo de agua a India y Vietnam a su voluntad.
-- **El Acuífero Guaraní:** En Sudamérica, el Tier B político está permitiendo la instalación de bases extranjeras o la venta de tierras clave sobre la mayor reserva de agua subterránea del mundo, facilitando el saqueo de Tier A bajo la excusa de la "inversión extranjera".
+- **Guerra de Represas (Etiopía/Egipto/China):** Los gobiernos (Tier C) utilizan la infraestructura hidroeléctrica como arma de presión contra sus vecinos. China (el aparato estatal: capa B) controla las nacientes de los ríos más importantes de Asia en el Tíbet, permitiéndole cortar el flujo de agua a India y Vietnam a su voluntad.
+- **El Acuífero Guaraní:** En Sudamérica, la capa política está permitiendo la instalación de bases extranjeras o la venta de tierras clave sobre la mayor reserva de agua subterránea del mundo, facilitando el saqueo de Tier A bajo la excusa de la "inversión extranjera".
 
 ### Tier C (Narrativa Pública)
 

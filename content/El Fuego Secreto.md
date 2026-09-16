@@ -4,7 +4,7 @@ tipo: concepto
 fecha: 2026-04-27
 estado: activo
 tags: [fuego-secreto, alquimia, energia, iniciacion, simbolismo, tl-intel-v3]
-tier_primario: c
+capa_tema: c
 nivel_evidencia: medio
 publish: true
 ---

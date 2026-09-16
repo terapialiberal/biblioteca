@@ -5,7 +5,7 @@ fecha: 2026-04-27
 estado: activo
 aliases: ["Control De Grid Energético"]
 tags: [grid-energetico, red-inteligente, energia, control, tl-intel-v3]
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 publish: true
 ---

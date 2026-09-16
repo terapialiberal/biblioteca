@@ -2,7 +2,7 @@
 titulo: "José Luis Manzano: El Maestro De La Metamorfosis Del Poder"
 tipo: "persona"
 fecha: 2026-02-25
-tier_primario: "b"
+tier_primario: c
 nivel_evidencia: "medio"
 estado: activo
 tags: [edenor, luis, manzano, poder]
@@ -10,6 +10,8 @@ publish: true
 ---
 
 # José Luis Manzano: El Maestro De La Metamorfosis Del Poder
+
+> **Clasificación (2026-09-15):** cargo político de gobierno: cuadro visible y reemplazable (Tier C por canon).
 
 > [!ABSTRACT] Hipótesis Informativa
 > José Luis Manzano personifica la **transmutación del capital político de [[Tier B]] en propiedad estratégica de [[Tier A]] local**. De ser el operador principal del menemismo y ejecutor de la "corrupción para la corona", Manzano se recicló como un magnate transnacional de medios y energía. Su función es actuar como el **interlocutor soberano de la élite globalista** en Argentina, controlando los flujos de información ([[Grupo América]]), de energía domiciliaria ([[Edenor]]) y de recursos del futuro (Litio), asegurando que la soberanía nacional sea una cáscara vacía subordinada a sus alianzas con Washington y el capital financiero.

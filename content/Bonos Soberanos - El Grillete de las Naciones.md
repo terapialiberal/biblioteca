@@ -5,7 +5,7 @@ fecha: 2026-04-24
 estado: activo
 aliases: ["Bonos Soberanos - El Grillete de las Naciones"]
 tags: [bonos, deuda, deuda-soberana, finanzas, argentina, tl-intel-v3]
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 publish: true
 ---

@@ -2,7 +2,7 @@
 titulo: Hiperinflación De Weimar
 tipo: "concepto"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [hiperinflacin, hjalmar, tratado, weimar]
@@ -21,7 +21,7 @@ publish: true
 
 ### Tier A (Los Dueños De La Imprenta Y El Caos)
 
-- **Banqueros Internacionales (JP Morgan, Warburg, Rothschild):** El Tier A financiero utilizó las reparaciones de guerra para atrapar a Alemania en una espiral de deuda eterna. La hiperinflación permitió que los activos reales (tierras, fábricas) fueran comprados por centavos por las élites extranjeras y locales.
+- **Banqueros Internacionales (JP Morgan, Warburg, Rothschild):** El Tier A utilizó las reparaciones de guerra para atrapar a Alemania en una espiral de deuda eterna. La hiperinflación permitió que los activos reales (tierras, fábricas) fueran comprados por centavos por las élites extranjeras y locales.
 - **Grandes Industriales (Hugo Stinnes):** El "Rey de la Inflación" de Tier A, quien utilizó los créditos baratos para comprar miles de empresas rivales mientras los trabajadores morían de hambre, concentrando la riqueza nacional en manos de una micro-élite.
 
 ### Tier B (Operadores / Rudolf Havenstein Y El Reichsbank)

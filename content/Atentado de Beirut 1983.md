@@ -3,7 +3,7 @@ publish: true
 titulo: Atentado De Beirut 1983
 tipo: evento
 fecha: 2026-02-25
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 tags: [atentado, hezbollah, irn]

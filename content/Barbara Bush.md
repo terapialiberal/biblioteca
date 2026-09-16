@@ -4,7 +4,7 @@ titulo: "Barbara Bush"
 aliases: ["Barbara Bush"]
 tags: [actor, dinastia, eeuu, bush]
 tipo: actor
-nivel: C
+tier_primario: C
 ---
 
 # Barbara Bush

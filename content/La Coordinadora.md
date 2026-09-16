@@ -18,7 +18,7 @@ publish: true
 
 ### Tier A: Los Curadores De La Estabilidad Del Régimen
 
-- **La Garantía de Continuidad:** Para el Tier A financiero y diplomático, la Coordinadora fue el interlocutor necesario para asegurar que el fin de la dictadura no derivara en un desborde revolucionario o en un default de la deuda externa. El Tier A delegó en estos "jóvenes brillantes" la tarea de domesticar las expectativas del [[Tier C]], asegurando que el diseño macroeconómico permaneciera alineado con las directrices internacionales a cambio de permitirles el manejo discrecional de la burocracia doméstica.
+- **La Garantía de Continuidad:** Para el Tier A y diplomático, la Coordinadora fue el interlocutor necesario para asegurar que el fin de la dictadura no derivara en un desborde revolucionario o en un default de la deuda externa. El Tier A delegó en estos "jóvenes brillantes" la tarea de domesticar las expectativas del [[Tier C]], asegurando que el diseño macroeconómico permaneciera alineado con las directrices internacionales a cambio de permitirles el manejo discrecional de la burocracia doméstica.
 - **El Puente Nosiglia:** A través de **[[Enrique _Coti_ Nosiglia|Enrique Coti Nosiglia]]**, el Tier A mantuvo un canal de comunicación permanente con el peronismo (su supuesto enemigo), demostrando que la Coordinadora era el pegamento que mantenía unido al **Unipartido Argentino** bajo el disfraz del radicalismo.
 
 ### Tier B: Los Administradores Del Botón Del Estado (La Cúpula)

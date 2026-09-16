@@ -1,7 +1,7 @@
 ---
 titulo: El Algoritmo como Oraculo
 tipo: "concepto"
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [ia, esoterismo, control, tecnocracia]

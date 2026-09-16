@@ -2,7 +2,7 @@
 titulo: "Odessa Network: La Continuidad Biológica Del Reich"
 tipo: "concepto"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [biolgica, continuidad, juan, reich]
@@ -23,7 +23,7 @@ publish: true
 
 ### Tier B (Los Operadores De La Reubicación)
 
-- **El Refugio en el Cono Sur:** Gobiernos de Tier B como el de **[[Juan Domingo Perón]]** en Argentina facilitaron la entrada masiva de técnicos y espías a cambio de transferencia tecnológica y militar. Los operadores de ODESSA se infiltraron en las estructuras de defensa y educación de sus países de acogida, asegurando que la ideología de control centralizado y eugenesia permaneciera latente en el ADN del sistema latinoamericano.
+- **El Refugio en el Cono Sur:** Gobiernos (Tier C) como el de **[[Juan Domingo Perón]]** en Argentina facilitaron la entrada masiva de técnicos y espías a cambio de transferencia tecnológica y militar. Los operadores de ODESSA se infiltraron en las estructuras de defensa y educación de sus países de acogida, asegurando que la ideología de control centralizado y eugenesia permaneciera latente en el ADN del sistema latinoamericano.
 
 ## ¸ Mecanismos De Poder (Redes De Escape)
 

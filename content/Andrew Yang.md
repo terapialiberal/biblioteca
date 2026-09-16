@@ -4,7 +4,7 @@ titulo: "Andrew Yang"
 aliases: ["Andrew Yang"]
 tags: [actor, eeuu, ubi, tecnologia, politica]
 tipo: actor
-nivel: C
+tier_primario: C
 ---
 
 # Andrew Yang

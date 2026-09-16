@@ -8,7 +8,7 @@ tags:
   - autoritarismo
   - neoliberalismo
 tipo: actor
-nivel: B
+tier_primario: B
 titulo: Alberto Fujimori
 ---
 

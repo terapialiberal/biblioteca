@@ -2,7 +2,7 @@
 titulo: Limited Hangout
 tipo: concepto
 fecha: 2026-04-18
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 aliases: ["Limited Hangout: La Tactica De La Verdad Parcial"]

@@ -2,7 +2,7 @@
 titulo: Sistema CIPS
 tipo: infraestructura
 fecha: 2026-04-22
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 aliases: ["CIPS", "Cross-Border Interbank Payment System"]

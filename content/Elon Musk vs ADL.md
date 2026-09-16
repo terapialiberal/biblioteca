@@ -2,7 +2,7 @@
 titulo: Elon Musk vs ADL
 tipo: evento
 fecha: 2026-04-20
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 aliases: ["Elon Musk Vs ADL (Anti-Defamation League)"]

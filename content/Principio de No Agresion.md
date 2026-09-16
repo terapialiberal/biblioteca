@@ -3,7 +3,7 @@ titulo: "Principio de No Agresión"
 publish: true
 tipo: concepto
 fecha: 2026-04-07
-tier_primario: B
+capa_tema: b
 moc_canonico: [[00_MOC - Fricciones de la Matrix]]
 estado: activo
 aliases: ["NAP", "Principio De No Agresión"]

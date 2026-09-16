@@ -23,7 +23,7 @@ publish: true
 
 ### Tier B (Los Operadores De La Legislación De Choque)
 
-- **John Howard y el Consenso Instantáneo:** El Primer Ministro John Howard ejecutó las leyes de desarme en apenas 12 días tras la masacre, una velocidad que sugiere que la legislación ya estaba redactada y esperando su momento (**[[Overton Window]]**). El Tier B político actuó como el martillo que golpeó al Tier C mientras este aún estaba en estado de shock emocional, utilizando la culpa colectiva para prohibir la propiedad privada de armas semiautomáticas.
+- **John Howard y el Consenso Instantáneo:** El Primer Ministro John Howard ejecutó las leyes de desarme en apenas 12 días tras la masacre, una velocidad que sugiere que la legislación ya estaba redactada y esperando su momento (**[[Overton Window]]**). La capa política actuó como el martillo que golpeó al Tier C mientras este aún estaba en estado de shock emocional, utilizando la culpa colectiva para prohibir la propiedad privada de armas semiautomáticas.
 
 ## Mecanismos De Poder (Control Social)
 

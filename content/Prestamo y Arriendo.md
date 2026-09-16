@@ -2,7 +2,7 @@
 titulo: "Préstamo Y Arriendo (Lend-Lease): La Construcción Del Enemigo"
 tipo: "concepto"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [arriendo, enemigo, lease, prstamo]
@@ -22,7 +22,7 @@ publish: true
 
 ### Tier B (Los Operadores Infiltrados)
 
-- **La Quinta Columna en el Tesoro:** Personajes como **Harry Dexter White** (el arquitecto del FMI) operaron como activos soviéticos dentro del gobierno de EE.UU. No solo enviaron recursos físicos (tanques, camiones, comida), sino que entregaron las placas de impresión del Tesoro de EE.UU. a la URSS, permitiendo a Stalin imprimir marcos alemanes de ocupación que EE.UU. luego debía canjear por dólares. El Tier B político facilitó el saqueo de la soberanía americana para fortalecer el futuro bloque comunista, siguiendo las directrices de largo plazo de la Matrix globalista.
+- **La Quinta Columna en el Tesoro:** Personajes como **Harry Dexter White** (el arquitecto del FMI) operaron como activos soviéticos dentro del gobierno de EE.UU. No solo enviaron recursos físicos (tanques, camiones, comida), sino que entregaron las placas de impresión del Tesoro de EE.UU. a la URSS, permitiendo a Stalin imprimir marcos alemanes de ocupación que EE.UU. luego debía canjear por dólares. La capa política facilitó el saqueo de la soberanía americana para fortalecer el futuro bloque comunista, siguiendo las directrices de largo plazo de la Matrix globalista.
 
 ## Mecanismos De Poder (Logísticos)
 

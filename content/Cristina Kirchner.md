@@ -2,7 +2,7 @@
 titulo: Cristina Kirchner
 tipo: persona
 fecha: 2026-04-18
-tier_primario: b
+tier_primario: c
 nivel_evidencia: medio
 estado: activo
 aliases: ["Cristina Fernandez de Kirchner", "Cristina Fernandez de Kirchner (CFK)"]
@@ -11,6 +11,8 @@ publish: true
 ---
 
 # Cristina Kirchner
+
+> **Clasificación (2026-09-15):** cargo político de gobierno: cuadro visible y reemplazable (Tier C por canon).
 
 ## BLUF
 

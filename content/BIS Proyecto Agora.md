@@ -3,7 +3,7 @@ titulo: BIS Proyecto Agora
 tipo: proyecto
 fecha: '2026-05-29'
 vigencia: 2026-05-29
-tier: A
+tier_primario: A
 estado: activo
 tags:
   - bis

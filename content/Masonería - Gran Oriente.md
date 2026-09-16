@@ -4,7 +4,7 @@ titulo: "Masonería - Gran Oriente"
 aliases: ["Masonería (Gran Oriente)", "Gran Oriente"]
 tags: [sociedad-discreta, masoneria, poder]
 tipo: red-discreta
-nivel: B
+tier_primario: B
 ---
 
 # Masonería - Gran Oriente

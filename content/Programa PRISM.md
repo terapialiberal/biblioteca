@@ -2,7 +2,7 @@
 titulo: Programa PRISM
 tipo: programa
 fecha: 2026-04-21
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 aliases: ["PRISM", "Programa PRISM: El Cordón Umbilical De La Vigilancia"]

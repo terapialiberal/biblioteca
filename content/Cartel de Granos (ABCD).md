@@ -2,7 +2,7 @@
 titulo: Cartel de Granos (ABCD)
 tipo: concepto
 fecha: 2026-04-19
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 tags: [cartel-de-granos, abcd, agroindustria, commodities, alimentos, tl-intel-v3]

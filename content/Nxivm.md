@@ -3,7 +3,7 @@ titulo: "NXIVM"
 publish: true
 tipo: concepto
 fecha: 2026-04-07
-tier_primario: B
+capa_tema: b
 moc_canonico: [[00_MOC - Kompromat y Dark Game Theory]]
 estado: activo
 aliases: ["Nxivm"]

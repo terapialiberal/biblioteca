@@ -5,7 +5,7 @@ fecha: 2026-04-27
 estado: activo
 aliases: ["Ciclo De 80 Años (The Turning)", "Fourth Turning", "The Fourth Turning"]
 tags: [ciclo-80-anos, fourth-turning, ciclos-historicos, crisis, tl-intel-v3]
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 publish: true
 ---

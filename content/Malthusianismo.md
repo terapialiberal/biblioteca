@@ -2,7 +2,7 @@
 titulo: "Malthusianismo"
 tipo: concepto
 estado: activo
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio-alto
 tags: [malthusianismo, poblacion, recursos, gobernanza, tl-intel-v3]
 publish: true

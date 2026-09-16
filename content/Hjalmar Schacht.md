@@ -2,7 +2,7 @@
 titulo: Hjalmar Schacht
 tipo: "concepto"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [bonos, hjalmar, montagu, schacht]
@@ -21,7 +21,7 @@ publish: true
 
 ### Tier A (Los Dueños De La Financiación De La Guerra)
 
-- **El Nexo Wall Street-Berlín:** Schacht fue el puente que permitió que empresas como Ford, GM e ITT invirtieran en la Alemania de Hitler. El Tier A financiero no ve enemigos, ve oportunidades de inversión en ambos bandos de un conflicto que ellos mismos alimentan.
+- **El Nexo Wall Street-Berlín:** Schacht fue el puente que permitió que empresas como Ford, GM e ITT invirtieran en la Alemania de Hitler. El Tier A no ve enemigos, ve oportunidades de inversión en ambos bandos de un conflicto que ellos mismos alimentan.
 - **Fundador del BIS:** Al crear el Banco de Pagos Internacionales, Schacht aseguró una zona de soberanía financiera pura, fuera del alcance de los gobiernos nacionales y de la opinión pública de Tier C.
 
 ### Tier B (Operadores / El Reichsbank Y Los Industriales)

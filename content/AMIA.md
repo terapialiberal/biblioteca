@@ -2,7 +2,7 @@
 titulo: AMIA
 tipo: atentado-caso
 fecha: 2026-04-18
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 aliases: ["Atentado a la AMIA", "AMIA (Pista Siria)"]

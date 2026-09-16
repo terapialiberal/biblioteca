@@ -3,7 +3,7 @@ titulo: Litio y Comando Sur
 publish: true
 tipo: concepto
 fecha: 2026-04-18
-tier_primario: b
+capa_tema: b
 moc_canonico: [[00_MOC - Argentina]]
 estado: activo
 aliases: ["Litio y Comando Sur: La Militarizacion de los Recursos"]

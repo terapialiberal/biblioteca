@@ -2,7 +2,7 @@
 titulo: China Taiwan Escalada 2026
 tipo: evento
 fecha: 2026-04-20
-tier_primario: a
+capa_tema: a
 nivel_evidencia: medio
 estado: activo
 tags: [china, taiwan, indo-pacifico, liaoning, policrisis, tl-intel-v3]

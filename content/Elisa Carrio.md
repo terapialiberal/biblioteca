@@ -2,7 +2,7 @@
 titulo: 'Elisa Carrió ("Lilita")'
 tipo: "persona"
 fecha: 2026-02-25
-tier_primario: "b"
+tier_primario: c
 nivel_evidencia: "medio"
 estado: activo
 tags: [carri, elisa, jaime, lawfare]
@@ -10,6 +10,8 @@ publish: true
 ---
 
 # Elisa Carrió ("Lilita")
+
+> **Clasificación (2026-09-15):** cargo político de gobierno: cuadro visible y reemplazable (Tier C por canon).
 
 ## Perfil TL (Resumen Ejecutivo)
 

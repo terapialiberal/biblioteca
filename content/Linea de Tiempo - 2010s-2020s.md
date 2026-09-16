@@ -3,7 +3,7 @@ titulo: "Línea de Tiempo - 2010s-2020s"
 publish: true
 tipo: concepto
 fecha: 2026-04-07
-tier_primario: B
+capa_tema: b
 moc_canonico: [[00_MOC - Cronologico]]
 estado: activo
 aliases: ["Línea De Tiempo: 2010s-2020s (La Captura Tecnocrática)"]

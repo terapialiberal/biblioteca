@@ -2,7 +2,7 @@
 titulo: Elección De Trump 2024
 tipo: "evento"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: ["2024", eleccin, elon, trump]
@@ -21,7 +21,7 @@ publish: true
 
 ### Tier A (El Nuevo Eje Del Poder)
 
-- **Musk / Thiel / Silicon Valley:** La entrada de **[[Elon Musk]]** en la campaña (donando millones y convirtiendo a **[[X]]** en una plataforma de contra-narrativa) demuestra que el Tier A tecnológico ha roto con el Tier A financiero/burocrático (Deep State). La victoria de Trump es la victoria de esta nueva facción que busca desmantelar el "Estado Administrativo".
+- **Musk / Thiel / Silicon Valley:** La entrada de **[[Elon Musk]]** en la campaña (donando millones y convirtiendo a **[[X]]** en una plataforma de contra-narrativa) demuestra que el Tier A tecnológico ha roto con la rama burocrático-financiera del Tier A (el Deep State). La victoria de Trump es la victoria de esta nueva facción que busca desmantelar el "Estado Administrativo".
 - **Realineamiento Global:** El triunfo de Trump acelera el giro hacia un mundo multipolar donde EE.UU. se retira de la "Policía Global" para enfocarse en la competencia tecnológica directa con China y la soberanía energética.
 
 ### Tier B (Operadores / El Desmantelamiento)

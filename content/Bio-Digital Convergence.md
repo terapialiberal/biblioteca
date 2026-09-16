@@ -2,7 +2,7 @@
 titulo: Bio-Digital Convergence
 tipo: concepto
 fecha: 2026-04-21
-tier_primario: a
+capa_tema: a
 nivel_evidencia: medio
 estado: activo
 tags: [bio-digital-convergence, identidad, biometria, datos, control, tl-intel-v3]

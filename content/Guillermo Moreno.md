@@ -21,7 +21,7 @@ publish: true
 
 ### Tier A (Los Dueños Del Relato Político)
 
-- **Encubrimiento de la Quiebra:** El Tier A político (la familia Kirchner) utilizó a Moreno como el "perro de presa" para destruir las estadísticas oficiales, permitiendo que el sistema político siguiera gastando y endeudando al país basado en números ficticios.
+- **Encubrimiento de la Quiebra:** la dirigencia política (la familia Kirchner) utilizó a Moreno como el "perro de presa" para destruir las estadísticas oficiales, permitiendo que el sistema político siguiera gastando y endeudando al país basado en números ficticios.
 - **Destrucción de la Inversión:** Las políticas de Moreno sirvieron para que las empresas de Tier A ligadas al gobierno (capitalismo de amigos) eliminaran a la competencia pequeña, capturando mercados enteros mediante la regulación selectiva.
 
 ### Tier B (Operadores / La Burocracia Militante)

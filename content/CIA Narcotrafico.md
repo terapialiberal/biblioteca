@@ -3,7 +3,7 @@ titulo: CIA Narcotrafico
 tipo: hipotesis
 fecha: 2026-04-21
 estado: activo
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 aliases: ["CIA Narcotráfico"]
 tags: [cia-narcotrafico, black-budget, air-america, iran-contra, crimen-sistemico, tl-intel-v3]

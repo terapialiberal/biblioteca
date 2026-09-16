@@ -23,7 +23,7 @@ publish: true
 
 ### Tier B: Los Operadores De Los Dos Bandos (Simons Y Mercer)
 
-- **La Pinza Política:** Renaissance Technologies personifica la dualidad del Tier B de alto nivel. Mientras Jim Simons fue un donante masivo del Partido Demócrata, su socio **[[Robert Mercer]]** financió el ascenso de Trump y Cambridge Analytica. Esta estrategia asegura que, independientemente del resultado electoral, la infraestructura algorítmica de Renaissance permanezca intocable. El Tier B político es solo el guardián de la seguridad jurídica para la máquina de Simons.
+- **La Pinza Política:** Renaissance Technologies personifica la dualidad del Tier B de alto nivel. Mientras Jim Simons fue un donante masivo del Partido Demócrata, su socio **[[Robert Mercer]]** financió el ascenso de Trump y Cambridge Analytica. Esta estrategia asegura que, independientemente del resultado electoral, la infraestructura algorítmica de Renaissance permanezca intocable. La capa política es solo el guardián de la seguridad jurídica para la máquina de Simons.
 - **La NSA en Wall Street:** Simons mantuvo vínculos informales con la comunidad de inteligencia durante toda su carrera, sugiriendo que Renaissance podría funcionar como un **vehículo de financiamiento para operaciones negras** o como un laboratorio de pruebas para nuevas tecnologías de vigilancia y predicción social.
 
 ### Tier C: El Inversor Obsoleto

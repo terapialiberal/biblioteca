@@ -8,7 +8,7 @@ tags:
   - inteligencia
   - blowback
 tipo: organizacion
-nivel: B
+tier_primario: B
 titulo: Al Qaeda
 ---
 

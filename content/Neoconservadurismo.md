@@ -2,7 +2,7 @@
 titulo: Neoconservadurismo
 tipo: concepto
 fecha: 2026-04-18
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 tags: [neoconservadurismo, hegemonia, guerra, politica-exterior, tl-intel-v3]

@@ -2,7 +2,7 @@
 titulo: "Operación Griffin: La Arquitectura De La Unión Europea"
 tipo: "evento"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [arquitectura, europea, european, unin]
@@ -18,7 +18,7 @@ publish: true
 
 ### Tier A (El Establishment Transatlántico)
 
-- **La Creación del Cliente Europeo:** Para el Tier A financiero, una Europa de naciones soberanas era difícil de controlar y comerciar. La UE fue diseñada como una única interfaz administrativa ("un solo número de teléfono", según Kissinger). Griffin asegura que las decisiones críticas sobre moneda, defensa y energía se tomen en Bruselas bajo la supervisión de las élites del **[[Bilderberg]]**, vaciando de contenido real la democracia nacional.
+- **La Creación del Cliente Europeo:** Para el Tier A, una Europa de naciones soberanas era difícil de controlar y comerciar. La UE fue diseñada como una única interfaz administrativa ("un solo número de teléfono", según Kissinger). Griffin asegura que las decisiones críticas sobre moneda, defensa y energía se tomen en Bruselas bajo la supervisión de las élites del **[[Bilderberg]]**, vaciando de contenido real la democracia nacional.
 - **La Fundación Ford y el Capital de Control:** El uso de fundaciones para financiar a los "Padres Fundadores" de la UE (**Jean Monnet**, Robert Schuman) demuestra el modelo de **Ingeniería Social por Tercerización**. El Tier A no impuso la UE por la fuerza, sino que la "compró" mediante la financiación de instituciones académicas y políticas que normalizaron la idea de que la soberanía nacional es una reliquia peligrosa.
 
 ### Tier B (La Tecnocracia De Bruselas)

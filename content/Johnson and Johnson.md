@@ -2,7 +2,7 @@
 titulo: Johnson and Johnson
 tipo: entidad
 fecha: 2026-04-21
-tier_primario: a
+tier_primario: b
 nivel_evidencia: medio
 estado: activo
 tags: [johnson-and-johnson, pharma, salud, captura-regulatoria, big-pharma, tl-intel-v3]
@@ -10,6 +10,8 @@ publish: true
 ---
 
 # Johnson and Johnson
+
+> **Clasificación (2026-09-15):** no es dueño del capital: vehículo operativo o aparato estatal (Tier B por canon).
 
 ## BLUF
 

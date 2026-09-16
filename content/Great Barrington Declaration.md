@@ -2,7 +2,7 @@
 titulo: Great Barrington Declaration
 tipo: documento
 fecha: 2026-04-19
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 tags: [great-barrington-declaration, lockdowns, salud-publica, censura, covid, tl-intel-v3]

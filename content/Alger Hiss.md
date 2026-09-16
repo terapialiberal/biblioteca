@@ -8,7 +8,7 @@ tags:
   - guerra-fria
   - establishment
 tipo: actor
-nivel: C
+tier_primario: C
 titulo: Alger Hiss
 ---
 

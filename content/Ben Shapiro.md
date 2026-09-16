@@ -4,7 +4,7 @@ titulo: "Ben Shapiro"
 aliases: ["Ben Shapiro"]
 tags: [actor, medios, derecha, eeuu]
 tipo: actor
-nivel: C
+tier_primario: C
 ---
 
 # Ben Shapiro

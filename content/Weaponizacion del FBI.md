@@ -2,7 +2,7 @@
 titulo: Weaponizacion del FBI
 tipo: concepto
 fecha: 2026-04-19
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 tags: [fbi, weaponizacion, lawfare, seguridad-interna, politizacion, tl-intel-v3]

@@ -5,7 +5,7 @@ tipo: "concepto"
 fecha: 2026-02-25
 estado: activo
 tags: [azoth, confluencia]
-tier_primario: "a"
+capa_tema: "a"
 nivel_evidencia: "medio"
 ---
 

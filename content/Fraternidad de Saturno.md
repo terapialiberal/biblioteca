@@ -4,7 +4,7 @@ tipo: "concepto"
 fecha: 2026-02-25
 estado: activo
 tags: [astrologa, fraternidad, ordo, saturno]
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "alto"
 publish: true
 ---

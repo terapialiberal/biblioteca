@@ -2,7 +2,7 @@
 titulo: Project Nimbus
 tipo: programa
 fecha: 2026-04-17
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 tags: [project-nimbus, israel, nube, google, amazon, vigilancia, tl-intel-v3]

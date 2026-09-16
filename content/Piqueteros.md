@@ -2,7 +2,7 @@
 titulo: "Piqueteros: Los Gerentes De La Pobreza Estructural"
 tipo: "evento"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [clientelismo, estructural, gerentes, juan]
@@ -18,7 +18,7 @@ publish: true
 
 ### Tier B (La Burocracia De La Extorsión)
 
-- **El Estado Delegado:** Para el Tier B político (especialmente durante el kirchnerismo), los movimientos sociales fueron una forma de **Subcontratar la Paz Social**. Al entregarles el manejo de los planes (como el Potenciar Trabajo), el gobierno convirtió a los líderes piqueteros (Pérsico, Grabois, Belliboni) en funcionarios de facto. Estos líderes gestionan presupuestos billonarios y tienen el poder de movilizar a decenas de miles de personas mediante la coacción: el que no marcha, no cobra. El Tier B utiliza estas masas como un "ejército de reserva" para presionar a la justicia, al parlamento o a gobiernos opositores.
+- **El Estado Delegado:** Para la capa política (especialmente durante el kirchnerismo), los movimientos sociales fueron una forma de **Subcontratar la Paz Social**. Al entregarles el manejo de los planes (como el Potenciar Trabajo), el gobierno convirtió a los líderes piqueteros (Pérsico, Grabois, Belliboni) en funcionarios de facto. Estos líderes gestionan presupuestos billonarios y tienen el poder de movilizar a decenas de miles de personas mediante la coacción: el que no marcha, no cobra. El Tier B utiliza estas masas como un "ejército de reserva" para presionar a la justicia, al parlamento o a gobiernos opositores.
 
 ### Tier C (El Beneficiario Capturado)
 

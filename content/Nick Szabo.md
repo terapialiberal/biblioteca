@@ -19,7 +19,7 @@ publish: true
 ### Tier C (La Independencia Mediante El Código)
 
 - **Smart Contracts como Ley Autónoma:** Szabo comprendió que la ley humana es lenta, cara y corruptible (Tier B). Su propuesta de contratos que se ejecutan a sí mismos permite que el individuo recupere la **Soberanía Contractual**. En la Matrix de Szabo, la justicia es inmanente al código: si se cumplen las condiciones, el pago se realiza, sin posibilidad de veto político o judicial.
-- **Bit Gold y la Escasez Digital:** Szabo resolvió el problema de cómo crear valor digital que no pueda ser inflado por el Tier A financiero. Bit Gold fue el antídoto contra el robo de poder adquisitivo que el sistema de banca central impone a la población.
+- **Bit Gold y la Escasez Digital:** Szabo resolvió el problema de cómo crear valor digital que no pueda ser inflado por el Tier A. Bit Gold fue el antídoto contra el robo de poder adquisitivo que el sistema de banca central impone a la población.
 
 ### Tier A (El Temor Al Anonimato Soberano)
 

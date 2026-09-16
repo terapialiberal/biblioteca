@@ -2,7 +2,7 @@
 titulo: Etiopía
 tipo: nodo
 fecha: 2026-05-02
-tier_primario: c
+capa_tema: c
 nivel_evidencia: medio
 estado: activo
 aliases: ["Etiopia", "Etiopía (Geopolítica)"]

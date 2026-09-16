@@ -2,7 +2,7 @@
 titulo: XKeyscore
 tipo: programa
 fecha: 2026-04-19
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 tags: [xkeyscore, nsa, vigilancia, internet, indexacion, tl-intel-v3]

@@ -24,7 +24,7 @@ publish: true
 ### Tier B: Los Administradores Del "Círculo Rojo" (Jueces Y Operadores)
 
 - **El Retiro de los "Huemules":** En el Tier B operativo, Lago Escondido sirve como el lubricante social donde se cierran acuerdos que luego se ejecutan en los tribunales de Comodoro Py o en los ministerios. La filtración de los chats de jueces, fiscales y directivos del **[[Grupo Clarín]]** en 2022 desnudó la función real del lugar: un espacio de cooptación donde se agasaja a los administradores del sistema nacional para asegurar su lealtad al Tier A. El Tier B no visita la estancia para descansar, sino para recibir validación y directrices en un entorno de total opacidad.
-- **La Amistad Presidencial:** El vínculo de Lewis con figuras como **[[Mauricio Macri]]** (quien se alojó repetidamente en la estancia) asegura que el Tier B político actúe como escudo humano y legal frente a los reclamos de soberanía del [[Tier C]], garantizando que la "propiedad privada" extranjera sea sagrada incluso cuando viola las leyes nacionales de seguridad fronteriza.
+- **La Amistad Presidencial:** El vínculo de Lewis con figuras como **[[Mauricio Macri]]** (quien se alojó repetidamente en la estancia) asegura que la capa política actúe como escudo humano y legal frente a los reclamos de soberanía del [[Tier C]], garantizando que la "propiedad privada" extranjera sea sagrada incluso cuando viola las leyes nacionales de seguridad fronteriza.
 
 ### Tier C: La Población En La Exclusión Territorial
 

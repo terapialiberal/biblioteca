@@ -8,7 +8,7 @@ tags:
   - epstein
   - defensa
 tipo: actor
-nivel: B
+tier_primario: B
 titulo: Alan Dershowitz
 ---
 

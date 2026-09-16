@@ -18,7 +18,7 @@ publish: true
 
 ### Tier B (La Burocracia Cleptocrática)
 
-- **La Petrolera más Endeudada del Mundo:** Para el Tier B político (PRI, PAN y morena), Pemex no es una empresa energética, es una **Fuenta de Liquidez Política**. A través de contratos inflados y la red de sobornos de **[[Odebrecht]]** (Caso Lozoya), se desviaron cientos de millones de dólares para asegurar la permanencia en el poder del "Grupo Atlacomulco" y sus sucesores. El sindicato petrolero (liderado por figuras como Romero Deschamps) actuó como el **Praetorian Guard** de este sistema, asegurando que la ineficiencia operativa fuera el telón de fondo perfecto para ocultar las fugas masivas de capital.
+- **La Petrolera más Endeudada del Mundo:** Para la capa política (PRI, PAN y morena), Pemex no es una empresa energética, es una **Fuenta de Liquidez Política**. A través de contratos inflados y la red de sobornos de **[[Odebrecht]]** (Caso Lozoya), se desviaron cientos de millones de dólares para asegurar la permanencia en el poder del "Grupo Atlacomulco" y sus sucesores. El sindicato petrolero (liderado por figuras como Romero Deschamps) actuó como el **Praetorian Guard** de este sistema, asegurando que la ineficiencia operativa fuera el telón de fondo perfecto para ocultar las fugas masivas de capital.
 
 ### Tier C (El Ciudadano Frente Al Narco-Combustible)
 

@@ -4,7 +4,7 @@ titulo: "Franklin D. Roosevelt"
 aliases: ["Franklin D. Roosevelt", "FDR"]
 tags: [actor, presidente-eeuu, new-deal, guerra-mundial]
 tipo: actor
-nivel: A
+tier_primario: A
 ---
 
 # Franklin D. Roosevelt

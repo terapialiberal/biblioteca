@@ -2,7 +2,7 @@
 titulo: Fluoruro Y Calcificación (Control Biológico)
 tipo: "concepto"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [calcificacin, edward, fluoruro, glndula]
@@ -21,7 +21,7 @@ publish: true
 
 ### Tier A (Los Diseñadores De La Pasividad)
 
-- **Edward Bernays y la Doble Ganancia:** El Tier A financiero (como el Mellon Institute / ALCOA) contrató al padre de la propaganda, Bernays, para cambiar la percepción del fluoruro de "veneno para ratas" a "milagro dental". Lograron que el público no solo aceptara ser medicado sin consentimiento, sino que lo exigiera.
+- **Edward Bernays y la Doble Ganancia:** El Tier A (como el Mellon Institute / ALCOA) contrató al padre de la propaganda, Bernays, para cambiar la percepción del fluoruro de "veneno para ratas" a "milagro dental". Lograron que el público no solo aceptara ser medicado sin consentimiento, sino que lo exigiera.
 - **Control de IQ:** Estudios de instituciones como Harvard han vinculado el fluoruro en el agua con una reducción medible del coeficiente intelectual en niños. El Tier A prefiere una fuerza laboral (Tier C) que sea lo suficientemente inteligente para operar las máquinas, pero no lo bastante para cuestionar el sistema.
 
 ### Tier B (Operadores / Asociación Médica Y Odontológica)

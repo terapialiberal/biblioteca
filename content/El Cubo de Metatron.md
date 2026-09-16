@@ -5,7 +5,7 @@ fecha: 2026-04-27
 estado: activo
 aliases: ["El Cubo De Metatrón", "Cubo de Metatrón", "Metatron's Cube"]
 tags: [cubo-de-metatron, geometria-sagrada, simbolismo, esoterismo, tl-intel-v3]
-tier_primario: c
+capa_tema: c
 nivel_evidencia: medio
 publish: true
 ---

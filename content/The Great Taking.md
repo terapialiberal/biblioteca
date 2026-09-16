@@ -3,7 +3,7 @@ titulo: The Great Taking
 tipo: concepto
 fecha: 2026-04-22
 aliases: ["The Great Taking (La Gran Toma)", "The Great Taking (David Webb)", "El Gran Despojo"]
-tier_primario: a
+capa_tema: a
 nivel_evidencia: medio
 estado: activo
 tags: [great-taking, ucc, propiedad-beneficiaria, colateral, derivados, tl-intel-v3]

@@ -2,7 +2,7 @@
 titulo: El Atentado a Cristina Kirchner (El Copito)
 tipo: "evento"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [atentado, copito, cristina, kirchner]
@@ -15,7 +15,7 @@ publish: true
 
 **¿Qué pasó?** Un individuo (Fernando Sabag Montiel) gatilló una pistola a centímetros del rostro de la Vicepresidenta **[[Cristina Kirchner]]** mientras esta saludaba a manifestantes frente a su casa. La bala no salió y el agresor fue reducido.
 
-**¿Por qué importa?** El atentado a CFK es el **caso de estudio definitivo sobre la "Muerte de la Confianza en el Relato"**. A pesar de la gravedad visual del hecho, una parte masiva de la sociedad argentina (Tier C) reaccionó con total incredulidad, silenciando o calificando el evento de "armado" o "puesta en escena". Esta reacción no fue solo cinismo, sino el síntoma de una fractura social profunda: el gobierno de Tier B (Kirchnerismo) había manipulado tanto las instituciones (INDEC, Justicia, medios) durante décadas que, cuando realmente fueron víctimas, ya no tenían capital moral para ser creídos. El evento marcó el fracaso de la **Guerra Simbólica**: ni siquiera un intento de magnicidio televisado logró unificar al país; por el contrario, profundizó el odio y la sospecha, acelerando el colapso del contrato social previo.
+**¿Por qué importa?** El atentado a CFK es el **caso de estudio definitivo sobre la "Muerte de la Confianza en el Relato"**. A pesar de la gravedad visual del hecho, una parte masiva de la sociedad argentina (Tier C) reaccionó con total incredulidad, silenciando o calificando el evento de "armado" o "puesta en escena". Esta reacción no fue solo cinismo, sino el síntoma de una fractura social profunda: el gobierno del kirchnerismo (Tier C) había manipulado tanto las instituciones (INDEC, Justicia, medios) durante décadas que, cuando realmente fueron víctimas, ya no tenían capital moral para ser creídos. El evento marcó el fracaso de la **Guerra Simbólica**: ni siquiera un intento de magnicidio televisado logró unificar al país; por el contrario, profundizó el odio y la sospecha, acelerando el colapso del contrato social previo.
 
 ## Análisis De Poder (Tiers)
 

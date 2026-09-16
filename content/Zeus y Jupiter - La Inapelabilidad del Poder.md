@@ -4,7 +4,7 @@ tipo: concepto
 fecha: 2026-02-25T00:00:00.000Z
 estado: activo
 tags: [castigo-sistmico, jerarqua-poder, mitologa-zeus, poder-hegemona, poder-soberana]
-tier_primario: a
+capa_tema: a
 nivel_evidencia: alto
 publish: true
 ---

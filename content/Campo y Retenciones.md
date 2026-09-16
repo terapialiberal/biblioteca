@@ -2,7 +2,7 @@
 titulo: Campo y Retenciones
 tipo: concepto
 fecha: 2026-04-18
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 tags: [argentina, campo, retenciones, agro, estado, tl-intel-v3]

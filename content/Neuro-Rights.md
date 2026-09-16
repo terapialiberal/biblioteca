@@ -2,7 +2,7 @@
 titulo: Neuro-Rights
 tipo: "concepto"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "alto"
 estado: activo
 tags: [derechos, mente, neuro, rights]

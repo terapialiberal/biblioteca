@@ -4,7 +4,7 @@ titulo: "Neorreacción - NRx"
 aliases: ["NRx / Neoreaccion", "NRx", "Neoreacción", "Dark Enlightenment"]
 tags: [ideologia, tecnolibertarismo, neoreaccion, thiel]
 tipo: corriente
-nivel: B
+capa_tema: b
 ---
 
 # Neorreacción (NRx)

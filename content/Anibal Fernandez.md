@@ -2,7 +2,7 @@
 titulo: Aníbal Fernández
 tipo: "persona"
 fecha: 2026-02-25
-tier_primario: "b"
+tier_primario: c
 nivel_evidencia: "medio"
 estado: activo
 tags: [anbal, fernndez, naciones, triple]
@@ -10,6 +10,8 @@ publish: true
 ---
 
 # Aníbal Fernández
+
+> **Clasificación (2026-09-15):** cargo político de gobierno: cuadro visible y reemplazable (Tier C por canon).
 
 ## Resumen General
 

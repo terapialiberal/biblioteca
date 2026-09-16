@@ -4,7 +4,7 @@ titulo: "Carl Schmitt"
 aliases: ["Carl Schmitt"]
 tags: [actor, filosofia, derecho, soberania, excepcion]
 tipo: actor
-nivel: B
+tier_primario: B
 ---
 
 # Carl Schmitt

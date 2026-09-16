@@ -18,7 +18,7 @@ publish: true
 
 ### Tier A: Los Curadores Del Templo Del Capital
 
-- **Soberanía Extra-Jurisdiccional:** El Tier A financiero reside simbólicamente en la City. Posee su propia policía, su propio sistema judicial y un Representante Legislativo (The Remembrancer) dentro del Parlamento Británico encargado de vetar cualquier ley que amenace la autonomía del mercado. El Tier A de la City es el heredero directo de la **Compañía de las Indias Orientales**, habiendo transformado el imperio físico en un imperio financiero de "eurodólares" y derivados.
+- **Soberanía Extra-Jurisdiccional:** El Tier A reside simbólicamente en la City. Posee su propia policía, su propio sistema judicial y un Representante Legislativo (The Remembrancer) dentro del Parlamento Británico encargado de vetar cualquier ley que amenace la autonomía del mercado. El Tier A de la City es el heredero directo de la **Compañía de las Indias Orientales**, habiendo transformado el imperio físico en un imperio financiero de "eurodólares" y derivados.
 - **El Lord Mayor vs La Corona:** El Lord Mayor de la City posee un rango ceremonial que obliga incluso al monarca a pedir permiso para entrar en el territorio mediante la ceremonia de las Llaves en Temple Bar. Es la escenificación del contrato de Tier A: la Corona/Estado proporciona la fuerza militar, pero la City proporciona (y controla) el crédito que permite al Estado existir.
 
 ### Tier B: Los Administradores De La "Telaraña" (The City Corporation)

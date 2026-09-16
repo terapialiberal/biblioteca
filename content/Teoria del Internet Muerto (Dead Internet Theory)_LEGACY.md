@@ -5,7 +5,7 @@ fecha: 2026-04-18
 estado: activo
 reemplazado_por: "[[Teoria del Internet Muerto]]"
 tags: [alias, internet-muerto, bots, simulacro, tl-intel-v3]
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 publish: true
 ---

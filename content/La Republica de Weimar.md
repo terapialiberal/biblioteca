@@ -2,7 +2,7 @@
 titulo: "La República De Weimar: El Manual De La Demolición Controlada"
 tipo: "concepto"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [demolicin, hiperinflacin, ludwig, repblica]
@@ -18,7 +18,7 @@ publish: true
 
 ### Tier A: Los Curadores Del Péndulo Geopolítico
 
-- **La Destrucción del Ahorro mediante el Reichsbank:** El Tier A financiero internacional permitió y fomentó la impresión masiva de marcos por parte del banco central alemán. Esta maniobra técnica no fue una torpeza, sino una herramienta de **expropiación total de la clase media**. Al reducir el valor del marco a cero, el Tier A eliminó la base de poder de la burguesía independiente, forzando al Tier C a la dependencia absoluta de los subsidios estatales o de la caridad corporativa, mientras los activos físicos alemanes eran comprados por céntimos de dólar por capitales de Tier A.
+- **La Destrucción del Ahorro mediante el Reichsbank:** El Tier A internacional permitió y fomentó la impresión masiva de marcos por parte del banco central alemán. Esta maniobra técnica no fue una torpeza, sino una herramienta de **expropiación total de la clase media**. Al reducir el valor del marco a cero, el Tier A eliminó la base de poder de la burguesía independiente, forzando al Tier C a la dependencia absoluta de los subsidios estatales o de la caridad corporativa, mientras los activos físicos alemanes eran comprados por céntimos de dólar por capitales de Tier A.
 - **El Apoyo a los Extremos como Gestión del Caos:** El Tier A financió y protegió tanto a los movimientos espartaquistas (comunistas) como a los grupos paramilitares de derecha (Freikorps). El objetivo era asegurar que el centro político fuera inexistente. Esta técnica de **"Dialéctica del Caos"** asegura que cualquier solución futura sea dictada por la fuerza y no por el consenso, permitiendo que el Tier A instale el modelo de control (Leviatán) que considere más eficiente para la época.
 
 ### Tier B: Los Administradores De La Decadencia (La Elite De Berlín)

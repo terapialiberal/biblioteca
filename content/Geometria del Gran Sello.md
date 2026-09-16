@@ -2,7 +2,7 @@
 titulo: Geometria del Gran Sello
 tipo: "concepto"
 fecha: 2026-03-04
-tier_primario: "a"
+capa_tema: "a"
 nivel_evidencia: "alto"
 estado: activo
 tags: [esoterismo, dolar, simbología, gran-sello, masonería]

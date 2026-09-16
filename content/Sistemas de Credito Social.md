@@ -2,7 +2,7 @@
 titulo: "Sistemas De Crédito Social: El Control Conductual Total"
 tipo: "concepto"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [cbdcs, crdito, sistemas, total]

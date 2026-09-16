@@ -18,7 +18,7 @@ publish: true
 
 ### Tier A (La Capitalización De La Exclusión)
 
-- **El Banco como Policía:** El Tier A financiero comprendió que la forma más eficiente de controlar a la población es transformar el acceso al capital en un privilegio condicionado a la conducta política. Choke Point fue el prototipo del **Sistema de Crédito Social** en Occidente: si tus valores (o tu negocio) no se alinean con la agenda de la élite de Tier A, el sistema te elimina de la economía. No es una regulación, es un **Cercamiento Financiero** que convierte al ciudadano en un paria digital por decreto administrativo.
+- **El Banco como Policía:** El Tier A comprendió que la forma más eficiente de controlar a la población es transformar el acceso al capital en un privilegio condicionado a la conducta política. Choke Point fue el prototipo del **Sistema de Crédito Social** en Occidente: si tus valores (o tu negocio) no se alinean con la agenda de la élite de Tier A, el sistema te elimina de la economía. No es una regulación, es un **Cercamiento Financiero** que convierte al ciudadano en un paria digital por decreto administrativo.
 - **La Destrucción de la Disidencia por Asfixia:** Al atacar a las armerías de Tier C, el sistema buscaba un desarme indirecto. Si no puedes procesar pagos, no puedes vender armas; si no puedes vender armas, el pueblo está indefenso. Es un ataque a la Segunda Enmienda realizado a través de las condiciones de servicio de un banco privado, eludiendo la Constitución.
 
 ### Tier B (Los Operadores De La Intimidación Reguladora)

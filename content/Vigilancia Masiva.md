@@ -2,7 +2,7 @@
 titulo: "Vigilancia Masiva"
 tipo: concepto
 estado: activo
-tier_primario: b
+capa_tema: b
 nivel_evidencia: alto
 tags: [vigilancia-masiva, sigint, datos, seguridad, tl-intel-v3]
 publish: true

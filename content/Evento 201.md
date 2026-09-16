@@ -2,7 +2,7 @@
 titulo: Evento 201
 tipo: evento
 fecha: 2026-04-17
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 aliases: ["Event 201"]

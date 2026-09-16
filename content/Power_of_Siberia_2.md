@@ -2,7 +2,7 @@
 titulo: Power of Siberia 2
 tipo: infraestructura
 fecha: 2026-05-26
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 aliases: ["Power of Siberia 2", "PoS2"]

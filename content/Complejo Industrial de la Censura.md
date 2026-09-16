@@ -2,7 +2,7 @@
 titulo: Complejo Industrial de la Censura
 tipo: concepto
 fecha: 2026-04-19
-tier_primario: b
+capa_tema: b
 nivel_evidencia: alto
 estado: activo
 tags: [censura, plataformas, narrativa, inteligencia, reputacion, tl-intel-v3]

@@ -21,7 +21,7 @@ publish: true
 - **El Divide y Vencerás como Estrategia de Estabilidad:** El Tier A utiliza la política de identidad para evitar que el [[Tier C]] identifique los verdaderos vectores de opresión económica y biopolítica. Al financiar (vía fundaciones como las de [[George Soros]]) un aparato legal y mediático que premia el estatus de víctima, el Tier A asegura que la población permanezca en una guerra civil fría permanente entre colectivos raciales y sexuales, impidiendo cualquier coalición de clase contra la élite financiera.
 - **Incentivos para el Hoax:** El Tier A establece los fondos y las becas que exigen cuotas de "diversidad y lucha contra el odio", creando un mercado donde un ataque racista (incluso falso) tiene un valor inmenso en capital político y profesional.
 
-### Tier B: Los Administradores Del Relato (Políticos Y Medios)
+### Los Administradores Del Relato (Políticos Y Medios)
 
 - **Validación de la Narrativa sin Evidencia:** Figuras de Tier B como **[[Kamala Harris]]**, Joe Biden y Cory Booker validaron instantáneamente el ataque de Smollett como un "linchamiento moderno" sin esperar el reporte policial. Su función es anclar el evento en el subconsciente del Tier C como una verdad absoluta, de modo que incluso cuando se demuestra el fraude, la sensación de "peligro inminente" permanezca instalada.
 - **Protección Judicial Selectiva:** La fiscal de Chicago, **Kim Foxx** (cuya campaña fue financiada por la red de Soros), intentó retirar misteriosamente los cargos contra Smollett tras la exposición del fraude. Esto demuestra que el Tier B judicial protege a sus activos de propaganda incluso cuando estos cometen perjurio, siempre que su actuación sirva a la agenda de desestabilización social del Tier A.

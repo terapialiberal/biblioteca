@@ -18,7 +18,7 @@ publish: true
 
 ### Tier A: Los Curadores De La Deserción Democrática
 
-- **La Candidata de la Selección, no de la Elección:** El Tier A financiero y tecnológico seleccionó a Harris como la sucesora de [[Joe Biden]] en 2024 sin que mediara un solo voto de primarias. Este acto reveló la verdadera naturaleza de la jerarquía: el Tier A decide quién es el activo viable basándose en su ductilidad y obediencia a los donantes de Silicon Valley y Wall Street, eliminando el proceso de deliberación del [[Tier C]].
+- **La Candidata de la Selección, no de la Elección:** El Tier A y tecnológico seleccionó a Harris como la sucesora de [[Joe Biden]] en 2024 sin que mediara un solo voto de primarias. Este acto reveló la verdadera naturaleza de la jerarquía: el Tier A decide quién es el activo viable basándose en su ductilidad y obediencia a los donantes de Silicon Valley y Wall Street, eliminando el proceso de deliberación del [[Tier C]].
 - **Instrumentación del Wokeismo:** El Tier A utiliza la biografía de Harris para inmunizar al Estado Profundo. Cualquier crítica técnica a su gestión es redirigida mediante los medios de Tier B como un ataque de odio, bloqueando el análisis racional y fragmentando a la población por líneas identitarias.
 
 ### Tier B: El Administrador Del Punitivismo Progresista (Harris)

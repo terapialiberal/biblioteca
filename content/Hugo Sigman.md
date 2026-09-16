@@ -2,7 +2,7 @@
 titulo: Hugo Sigman (Grupo Insud)
 tipo: "persona"
 fecha: 2026-02-25
-tier_primario: "b"
+tier_primario: "a"
 nivel_evidencia: "medio"
 estado: activo
 tags: [astrazeneca, gins, hugo, sigman]
@@ -11,13 +11,17 @@ publish: true
 
 # Hugo Sigman (Grupo Insud)
 
+> **Clasificación corregida (2026-09-15):** `B` → `A` — dueño del capital del complejo farmacéutico en Latinoamérica: Insud y Mabxience son de su propiedad (capital propio, no administración de capital ajeno) — mismo criterio que Brin, Murdoch y Rothschild.
+
 ## Perfil TL (Resumen Ejecutivo)
 
 **¿Quién es?** Magnate farmacéutico argentino, dueño del **Grupo Insud** (Mabxience, Elea) y una de las figuras más influyentes en el nexo entre el poder político y la industria biotecnológica.
 
-**¿Por qué importa?** Hugo Sigman es el **Operador de Tier A del Complejo Farmacéutico en Latinoamérica**. Durante la crisis del COVID-19, fue el eje central del fallido acuerdo con **[[AstraZeneca]]** para producir la vacuna en Argentina. Sigman representa la **"Capitalismo de Amigos"** de alta gama: utiliza sus conexiones de nivel presidencial (especialmente con Ginés González García y los Kirchner) para asegurar contratos estatales masivos y monopolios de facto bajo el disfraz de "soberanía científica". Su influencia se extiende a la biotecnología agrícola (**Bioceres**) y a los medios de comunicación, operando como un financista clave de la narrativa oficialista. Sigman es el hombre que demuestra que la salud pública del Tier C es, ante todo, un negocio de transferencia de riqueza hacia las élites de Tier A protegidas por el Estado.
+**¿Por qué importa?** Hugo Sigman es **dueño del capital del complejo farmacéutico en Latinoamérica (Tier A)**: Insud y Mabxience son de su propiedad. Durante la crisis del COVID-19, fue el eje central del fallido acuerdo con **[[AstraZeneca]]** para producir la vacuna en Argentina. Sigman representa la **"Capitalismo de Amigos"** de alta gama: utiliza sus conexiones de nivel presidencial (especialmente con Ginés González García y los Kirchner) para asegurar contratos estatales masivos y monopolios de facto bajo el disfraz de "soberanía científica". Su influencia se extiende a la biotecnología agrícola (**Bioceres**) y a los medios de comunicación, operando como un financista clave de la narrativa oficialista. Sigman es el hombre que demuestra que la salud pública del Tier C es, ante todo, un negocio de transferencia de riqueza hacia las élites de Tier A protegidas por el Estado.
 
 ## Análisis De Poder (Tiers)
+
+> **Nota de vocabulario:** donde esta ficha usa «Tier A / Tier B / Tier C» en encabezados de sección, usa el vocabulario anterior al canon de actores (capas de la estructura: dueños / operadores / cara visible). La clasificación de este sujeto es la del frontmatter (`tier_primario` en actores, `capa_tema` en objetos).
 
 ### Tier A (Los Dueños De La Biopolítica)
 
@@ -26,7 +30,7 @@ publish: true
 
 ### Tier B (Operadores / El Ministerio De Salud Y La Ciencia Oficial)
 
-- **Ginés González García:** El operador de Tier B que facilitó el esquema de AstraZeneca-Sigman, priorizando su laboratorio por encima de otras opciones de suministro más rápidas, lo que resultó en demoras críticas de vacunación para el Tier C.
+- **Ginés González García:** El ministro de Salud (cargo de gobierno: capa C) que facilitó el esquema de AstraZeneca-Sigman, priorizando su laboratorio por encima de otras opciones de suministro más rápidas, lo que resultó en demoras críticas de vacunación para el Tier C.
 - **Mabxience:** La planta de Tier B utilizada para procesar el principio activo de vacunas que luego eran enviadas a México, mostrando la jerarquía de la producción internacional sobre la necesidad local.
 
 ### Tier C (Narrativa Pública)

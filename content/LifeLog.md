@@ -2,7 +2,7 @@
 titulo: LifeLog
 tipo: concepto
 fecha: 2026-04-18
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 aliases: ["LifeLog: La Privatizacion De La Vigilancia De DARPA"]

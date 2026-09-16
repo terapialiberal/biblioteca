@@ -22,7 +22,7 @@ publish: true
 ### Tier A (Los Dueños Del Chantaje)
 
 - **Control del Congreso:** La red Franklin no era solo para placer perverso; era para obtener "seguros de vida" políticos. El Tier A de la inteligencia (CIA) utilizó estas grabaciones para asegurar que los políticos votaran los presupuestos negros y las políticas de guerra necesarias durante la era Reagan-Bush.
-- **Irán-Contra Connection:** La Franklin Credit Union era utilizada para lavar dinero proveniente del narcotráfico de armas por drogas. El Tier A financiero necesitaba una lavandería discreta en el medio del país para sus operaciones ilegales globales.
+- **Irán-Contra Connection:** La Franklin Credit Union era utilizada para lavar dinero proveniente del narcotráfico de armas por drogas. El Tier A necesitaba una lavandería discreta en el medio del país para sus operaciones ilegales globales.
 
 ### Tier B (Operadores / Encubridores Y Sicarios)
 

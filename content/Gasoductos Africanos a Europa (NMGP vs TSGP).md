@@ -2,7 +2,7 @@
 titulo: "Gasoductos Africanos a Europa (NMGP vs TSGP)"
 tipo: "concepto"
 fecha: 2026-08-26
-tier_primario: "a"
+capa_tema: "a"
 nivel_evidencia: "alto"
 estado: activo
 tags: [gasoducto, marruecos, argelia, ceuta, nmgp, tsgp, fosforo, energia, h-02, h-03, h-16]
@@ -84,7 +84,7 @@ El punto de tensión con la crisis de Ceuta: el **NMGP entra a Europa justo por 
 - TSGP: 4.128 km, obras sección argelina iniciadas jun-2026 (SONATRACH), Níger arranca 2027. Fuentes: [Egypt Oil & Gas](https://egyptoil-gas.com/news/construction-begins-on-algerias-part-of-trans-saharan-gas-pipeline) · [Wikipedia TSGP](https://en.wikipedia.org/wiki/Trans-Saharan_gas_pipeline)
 - MEG: cerrado oct-2021 por ruptura Argelia-Marruecos; invertido desde 2022. Fuentes: [GEM MEG](https://www.gem.wiki/Maghreb-Europe_Gas_Pipeline) · [Reuters 2021](https://www.reuters.com/world/africa/algeria-end-gas-supplies-morocco-supply-spain-directly-sources-2021-10-25)
 - Proclamación Sáhara 2020: [URL oficial archivo](https://trumpwhitehouse.archives.gov/presidential-actions/proclamation-recognizing-sovereignty-kingdom-morocco-western-sahara/) (4-dic-2020).
-- Ceuta crisis 2026: 49K-60K migrantes/24h, Francia cerró Schengen. Fuentes: [BBC Ceuta 10-ago](https://www.bbc.com/news/articles/c5yv5l6yr5ko) · radar [02-ago Cluster 6](vault://01_Research/RADARES/SEMANAL/2026-08/2026-08-02_Radar_Semanal.md).
+- Ceuta crisis 2026: 49K-60K migrantes/24h, Francia cerró Schengen. Fuentes: [BBC Ceuta 10-ago](https://www.bbc.com/news/articles/c5yv5l6yr5ko) · radar [02-ago Cluster 6](vault://01_Research/01_RADARES/02_SEMANAL/2026-08/2026-08-02_Radar_Semanal.md).
 - Radar 15-ago anotó "Ceuta + batalla TSGP/NMGP" como nuevo teatro. Fuente: [Registro Radar](vault://01_Research/00_SISTEMA/REGISTRO_RADAR.md).
 
 ## interpretacion (NO es claim — lectura del analista)

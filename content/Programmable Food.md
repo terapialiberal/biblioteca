@@ -2,7 +2,7 @@
 titulo: Programmable Food
 tipo: "concepto"
 fecha: 2026-02-25
-tier_primario: "a"
+capa_tema: "a"
 nivel_evidencia: "alto"
 estado: activo
 tags: [algoritmo, bajo, dieta, nestl]

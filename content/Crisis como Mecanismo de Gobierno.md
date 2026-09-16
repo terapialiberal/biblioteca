@@ -4,7 +4,7 @@ tipo: patron
 fecha: 2026-04-27
 estado: activo
 tags: [crisis, gobernanza, shock, problema-reaccion-solucion, tl-intel-v3]
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 publish: true
 ---

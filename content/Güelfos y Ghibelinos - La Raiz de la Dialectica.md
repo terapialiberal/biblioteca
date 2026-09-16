@@ -4,7 +4,7 @@ tipo: "evento"
 fecha: 2026-02-25
 estado: activo
 tags: [dialctica, ghibelinos, gelfos, raz]
-tier_primario: "a"
+capa_tema: "a"
 nivel_evidencia: "alto"
 publish: true
 ---

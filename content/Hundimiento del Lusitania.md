@@ -2,7 +2,7 @@
 titulo: Hundimiento Del Lusitania
 tipo: "concepto"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [hundimiento, lusitania, propaganda, winston]
@@ -21,7 +21,7 @@ publish: true
 
 ### Tier A (Los Dueños De La Guerra Industrial)
 
-- **Banca J.P. Morgan:** El Tier A financiero había prestado billones a los Aliados. Si Gran Bretaña y Francia perdían la guerra, la banca americana quebraría. El Hundimiento del Lusitania fue la pieza necesaria para que el Estado americano movilizara al Tier C "en defensa de la humanidad", rescatando en realidad los balances de Wall Street.
+- **Banca J.P. Morgan:** El Tier A había prestado billones a los Aliados. Si Gran Bretaña y Francia perdían la guerra, la banca americana quebraría. El Hundimiento del Lusitania fue la pieza necesaria para que el Estado americano movilizara al Tier C "en defensa de la humanidad", rescatando en realidad los balances de Wall Street.
 - **Winston Churchill:** El operador de Tier A/B que entendía que el sacrificio de civiles era un precio aceptable para asegurar la alianza militar con EE.UU.
 
 ### Tier B (Operadores / El Almirantazgo Y La Prensa De Guerra)

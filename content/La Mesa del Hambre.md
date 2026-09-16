@@ -2,7 +2,7 @@
 titulo: "La Mesa Del Hambre: El Teatro De La Solidaridad De Estado"
 tipo: "concepto"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [alberto, estado, hambre, marcelo]
@@ -18,12 +18,12 @@ publish: true
 
 ### Tier A: Los Curadores Del Consenso De Miseria
 
-- **La Normalización de la Pobreza:** Para el Tier A financiero y político nacional, la "Mesa del Hambre" funcionó como una válvula de escape ideológica. El Tier A consiente estas puestas en escena porque permiten socializar la culpa del fracaso económico sin cuestionar la estructura de gasto público o la matriz de recaudación regresiva. Es el uso de la "filantropía de estado" para evitar que el descontento del Tier C se dirija hacia los dueños reales del capital y la deuda.
+- **La Normalización de la Pobreza:** Para el Tier A y político nacional, la "Mesa del Hambre" funcionó como una válvula de escape ideológica. El Tier A consiente estas puestas en escena porque permiten socializar la culpa del fracaso económico sin cuestionar la estructura de gasto público o la matriz de recaudación regresiva. Es el uso de la "filantropía de estado" para evitar que el descontento del Tier C se dirija hacia los dueños reales del capital y la deuda.
 - **El Kayfabe de la Preocupación:** El Tier A entiende que mientras el Tier C esté distraído con el espectáculo de sus ídolos mediáticos (como **[[Marcelo Tinelli]]**) "preocupándose" por los pobres, no se discutirán las leyes de fondo que impiden la creación de riqueza real.
 
 ### Tier B: Los Administradores Del Relato (Los "Integrantes De La Mesa")
 
-- **Cooptación de Rostros Amigables:** En el Tier B, el gobierno reclutó a figuras con alta visibilidad (Tinelli, Narda Lepes, Estela de Carlotto) para que actuaran como pararrayos sociales. Su función era ponerle un "rostro humano" al ajuste. Los integrantes de la Mesa proporcionaron el barniz de prestigio necesario para que el Tier B político pudiera seguir expandiendo la burocracia estatal bajo el pretexto de la "emergencia alimentaria".
+- **Cooptación de Rostros Amigables:** En el Tier B, el gobierno reclutó a figuras con alta visibilidad (Tinelli, Narda Lepes, Estela de Carlotto) para que actuaran como pararrayos sociales. Su función era ponerle un "rostro humano" al ajuste. Los integrantes de la Mesa proporcionaron el barniz de prestigio necesario para que la capa política pudiera seguir expandiendo la burocracia estatal bajo el pretexto de la "emergencia alimentaria".
 - **El Vacío Operativo:** La Mesa careció de poder de decisión, presupuesto propio y objetivos medibles. Fue un ente biológico diseñado para la foto y el zoom, que se disolvió orgánicamente cuando la realidad del 100% de inflación hizo que la simulación fuera insostenible incluso para los estándares de la Catedral.
 
 ### Tier C: La Población En La Ficción De La Cuidado

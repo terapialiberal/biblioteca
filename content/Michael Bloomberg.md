@@ -2,7 +2,7 @@
 titulo: Michael Bloomberg
 tipo: "persona"
 fecha: 2026-02-25
-tier_primario: "b"
+tier_primario: a
 nivel_evidencia: "medio"
 estado: activo
 tags: [bill, bloomberg, michael]
@@ -10,6 +10,10 @@ publish: true
 ---
 
 # Michael Bloomberg
+
+> **Clasificación corregida (2026-09-15):** `C` → `A` — dueño del capital de Bloomberg LP (el mayor aparato privado de datos financieros). Fue alcalde de Nueva York, pero se clasifica por la propiedad, con el mismo criterio aplicado a Brin, Murdoch y Rothschild.
+
+> **Clasificación (2026-09-15):** cargo político de gobierno: cuadro visible y reemplazable (Tier C por canon).
 
 ## Resumen Ejecutivo
 
@@ -23,7 +27,7 @@ publish: true
 - **La Terminal de Poder:** Ms de 325,000 suscriptores (la lite de Tier B de Wall Street) pagan \24,000 al ao para ver el mundo a travs de los ojos de Bloomberg. Al poseer el software y el flujo de noticias, Bloomberg tiene la capacidad de **Primado Algortmico**: decidir qu noticia financiera es "urgente" y cul se ignora, influyendo directamente en el precio de los activos y la estabilidad de las naciones.
 - **Filantropa como Arma de Estado:** Bloomberg utiliza sus donaciones no para la caridad, sino para la compra de capacidad regulatoria. Financia puestos de asesores en alcaldas de todo el mundo para implementar sus polticas "verdes" y de restriccin de armas, creando una red de gobernanza paralela que evade la soberana nacional.
 
-### Tier B (El Alcalde De La Vigilancia)
+### El Alcalde De La Vigilancia
 
 - **El Modelo Stop-and-Frisk:** En NYC, Bloomberg perfeccion el uso de la polica como una herramienta de gestin de datos y control social preventivo. Su visin de la ciudad es la de una corporacin eficiente donde el Tier C es un activo que debe ser monitoreado y corregido (prohibicin de bebidas azucaradas, vigilancia masiva en las calles).
 

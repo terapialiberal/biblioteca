@@ -2,7 +2,7 @@
 titulo: Primaveras Arabes
 tipo: evento
 fecha: 2026-04-24
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 aliases: ["Primaveras Árabes", "Primavera Arabe"]

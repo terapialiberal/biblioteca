@@ -1,7 +1,7 @@
 ---
 titulo: Alquimia Operativa
 tipo: "concepto"
-tier_primario: "a"
+capa_tema: "a"
 nivel_evidencia: "medio"
 estado: activo
 tags: [esoterismo, procesos, transformacion, control]

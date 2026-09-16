@@ -8,7 +8,7 @@ tags:
   - bear-stearns
   - wall-street
 tipo: actor
-nivel: B
+tier_primario: B
 titulo: Ace Greenberg
 ---
 

@@ -2,7 +2,7 @@
 titulo: Inversionismo (Gnosticismo Político)
 tipo: "concepto"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: ["1984", gaslighting, gnosticismo, inversionismo]

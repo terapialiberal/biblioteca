@@ -2,7 +2,7 @@
 titulo: Cadena De Favores (Política)
 tipo: "concepto"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [cadena, favores, jeffrey, poltica]
@@ -24,7 +24,7 @@ publish: true
 - **Servicios de Inteligencia:** Gestionan los archivos (Carpetazos) sobre la vida privada y financiera de los políticos. Son los administradores de la cadena. Un político es básicamente un activo gestionable mediante el miedo a la exposición.
 - **Operaciones Tipo Epstein:** El uso de compromisos sexuales o ilegales (Honey Pots) para asegurar que las figuras públicas de Tier B sigan las directivas del Tier A sin cuestionar.
 
-### Tier B (Operadores / Políticos)
+### Operadores / Políticos
 
 - **Gestión del Leverage:** La política no es el arte de lo posible, es el arte del intercambio de impunidad. "Yo te firmo la ley, vos me cerrás la causa". La traición se paga con la cárcel o la muerte civil mediante filtraciones coordinadas de prensa.
 

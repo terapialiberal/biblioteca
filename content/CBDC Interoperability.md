@@ -2,7 +2,7 @@
 titulo: CBDC Interoperability
 tipo: concepto
 fecha: 2026-04-19
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 tags: [cbdc-interoperability, cbdc, interoperabilidad, bis, pagos, tl-intel-v3]

@@ -2,7 +2,7 @@
 titulo: "Narcotráfico"
 tipo: concepto
 estado: activo
-tier_primario: b
+capa_tema: b
 nivel_evidencia: alto
 tags: [narcotrafico, crimen-organizado, inteligencia, finanzas, tl-intel-v3]
 publish: true

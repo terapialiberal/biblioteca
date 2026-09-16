@@ -4,7 +4,7 @@ titulo: "Bennie Thompson"
 aliases: ["Bennie Thompson", "Bennie G. Thompson"]
 tags: [actor, congreso-eeuu, democrata, seguridad-nacional]
 tipo: actor
-nivel: C
+tier_primario: C
 ---
 
 # Bennie Thompson

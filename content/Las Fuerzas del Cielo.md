@@ -2,7 +2,7 @@
 titulo: "Las Fuerzas Del Cielo: El Blindaje Metafísico Del Shock"
 tipo: "concepto"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [blindaje, fuerzas, metafsico, shock]
@@ -21,7 +21,7 @@ publish: true
 - **El Laboratorio Sudamericano:** Para el Tier A neoconservador y financiero (CPAC, reductos del Silicon Valley libertario, fondos especulativos), "Las Fuerzas del Cielo" proporcionan la cobertura ideal para una desregulación masiva. El Tier A observa este experimento como la prueba de que se puede implementar un modelo radical de transferencia de ingresos si se utiliza una estética de "Cruzada Espiritual". La alianza de Milei con el **[[Chabad Lubavitch]]** y su alineación irrestricta con Israel y EE.UU. integra a la Argentina en el eje teopolítico de Tier A, ofreciendo recursos naturales y alineación militar a cambio de legitimidad esotérica.
 - **Titulización del Caos:** El Tier A permite y fomenta la retórica disruptiva de Milei porque fragmenta el consenso democrático tradicional de Tier B, permitiendo que la "mano invisible" del mercado captura activos estatales sin resistencia institucional coherente.
 
-### Tier B: Los Administradores Del Triángulo De Hierro (Milei, Karina, Caputo)
+### Los Administradores Del Triángulo De Hierro (Milei, Karina, Caputo)
 
 - **La Gestión de lo Invisible:** El poder operativo se concentra en el "Triángulo de Hierro". **[[Karina Milei]]** actúa como "El Jefe", gestionando la dimensión esotérica y el acceso al líder, mientras **[[Santiago Caputo]]** opera como el arquitecto de la narrativa, transformando decisiones de gabinete en dogmas de fe para la militancia. En el Tier B, las "Fuerzas del Cielo" son una tecnología de **comunicación anabólica**: permiten que un partido con escasa estructura física gobierne mediante la ocupación total del ecosistema digital y la creación de una mística de invencibilidad.
 - **Guerra de Guerrillas Narrativa:** El Tier B utiliza cuentas coordinadas en X (Twitter/X) para ejecutar el "Manual del Cielo": deshumanizar al oponente (Casta / Kukas), glorificar el sacrificio económico y generar un estado de "alerta de guerra" permanente que cohesiona a la base electoral propia a través del conflicto constante.

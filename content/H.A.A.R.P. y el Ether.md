@@ -5,7 +5,7 @@ fecha: 2026-04-27
 estado: activo
 aliases: ["HAARP y el Éter", "HAARP y el Ether"]
 tags: [haarp, ether, ionosfera, tecnomito, weather-modification, tl-intel-v3]
-tier_primario: b
+capa_tema: b
 nivel_evidencia: bajo
 publish: true
 ---

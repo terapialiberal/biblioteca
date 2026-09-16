@@ -4,7 +4,7 @@ titulo: "Mao Zedong"
 aliases: ["Mao Zedong", "Mao Tse-tung"]
 tags: [actor, china, comunismo, revolucion]
 tipo: actor
-nivel: A
+tier_primario: A
 ---
 
 # Mao Zedong

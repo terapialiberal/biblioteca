@@ -5,7 +5,7 @@ fecha: 2026-04-27
 estado: activo
 aliases: ["El Retorno De Los Vigilantes"]
 tags: [vigilantes, mito, vigilancia, esoterismo, tl-intel-v3]
-tier_primario: c
+capa_tema: c
 nivel_evidencia: bajo
 publish: true
 ---

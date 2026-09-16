@@ -15,13 +15,13 @@ publish: true
 
 **¿Qué es?** El proceso por el cual las naciones mueven sus reservas físicas de oro desde bóvedas extranjeras (principalmente la Reserva Federal de NY y el Banco de Inglaterra) de regreso a sus propios territorios.
 
-**¿Por qué importa?** La Repatriación de Oro es la **señal de "Sálvese quien pueda" del Tier A financiero**. Los bancos centrales están acumulando y repatriando oro físico a niveles récord porque saben que el sistema de dinero fiat basado en el dólar está llegando a su fin. En un mundo de **[[Guerra de Divisas]]** e hiperinflación planificada, el oro es el único activo que no tiene "riesgo de contraparte" (nadie puede congelarlo mediante un clic). La repatriación indica que el Tier A nacional de cada país ya no confía en la "seguridad" de los hubs financieros occidentales. Es la preparación para el **Reset Financiero Global**: cuando el papel moneda colapse, solo los países (y élites) que posean el metal físico dentro de sus fronteras tendrán un asiento en la mesa del nuevo diseño económico.
+**¿Por qué importa?** La Repatriación de Oro es la **señal de "Sálvese quien pueda" del Tier A**. Los bancos centrales están acumulando y repatriando oro físico a niveles récord porque saben que el sistema de dinero fiat basado en el dólar está llegando a su fin. En un mundo de **[[Guerra de Divisas]]** e hiperinflación planificada, el oro es el único activo que no tiene "riesgo de contraparte" (nadie puede congelarlo mediante un clic). La repatriación indica que el Tier A nacional de cada país ya no confía en la "seguridad" de los hubs financieros occidentales. Es la preparación para el **Reset Financiero Global**: cuando el papel moneda colapse, solo los países (y élites) que posean el metal físico dentro de sus fronteras tendrán un asiento en la mesa del nuevo diseño económico.
 
 ## Análisis De Poder (Tiers)
 
 ### Tier A (Los Dueños Del Valor Real)
 
-- **Fin de la Confianza:** El Tier A financiero internacional ha utilizado el oro de otros países para manipular los precios mediante el "oro papel" (futuros). La repatriación corta esta línea de crédito, forzando un retorno a la realidad física.
+- **Fin de la Confianza:** El Tier A internacional ha utilizado el oro de otros países para manipular los precios mediante el "oro papel" (futuros). La repatriación corta esta línea de crédito, forzando un retorno a la realidad física.
 - **Preparación para la CBDC:** El Tier A promueve las monedas digitales (moneda esclava) para el Tier C, mientras ellos mismos aseguran el oro físico (moneda real) para asegurar su posición de supremacía tras la transición.
 
 ### Tier B (Operadores / Bancos Centrales)

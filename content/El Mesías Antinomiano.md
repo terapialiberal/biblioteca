@@ -5,7 +5,7 @@ descripcion: "In 18th-century Europe, Jacob Frank turned morality upside down, w
 link: "https://rockolo.substack.com/p/the-antinomian-messiah?utm_source=%2Fsearch%2FSabbatean%2520Frankism&utm_medium=reader2"
 tipo: "concepto"
 fecha: 2025-12-12
-tier:
+
 estado: activo
 ---
 

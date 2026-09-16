@@ -2,7 +2,7 @@
 titulo: Guerra De Georgia 2008
 tipo: "evento"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [georgia, guerra, otan, vladimir]
@@ -15,7 +15,7 @@ publish: true
 
 **¿Qué fue?** Un breve pero intenso conflicto armado entre Rusia y Georgia (con las regiones separatistas de Osetia del Sur y Abjasia) que duró 5 días en agosto de 2008.
 
-**¿Por qué importa?** La Guerra de Georgia es el **punto donde Rusia trazó su primera "Línea Roja" contra la expansión de la OTAN**. Fue el debut del presidente Saakashvili como un **operador de Tier B fallido**. Saakashvili, formado y apoyado por EE.UU., cometió el error de creer que el Tier A transatlántico entraría en combate directo para defenderlo si él lanzaba una ofensiva contra las fuerzas de paz rusas. No sucedió. Georgia fue el laboratorio donde el Tier A puso a prueba la capacidad de respuesta de la Rusia post-soviética. El resultado fue la destrucción rápida del ejército georgiano —entrenado por la OTAN— y la demostración de que Rusia no permitiría bases militares occidentales en su frontera inmediata. Es el antecedente directo y el "trailer" de lo que sucedería en Ucrania años después.
+**¿Por qué importa?** La Guerra de Georgia es el **punto donde Rusia trazó su primera "Línea Roja" contra la expansión de la OTAN**. Fue el debut del presidente Saakashvili (capa C) como **operador fallido de la capa B**. Saakashvili, formado y apoyado por EE.UU., cometió el error de creer que el Tier A transatlántico entraría en combate directo para defenderlo si él lanzaba una ofensiva contra las fuerzas de paz rusas. No sucedió. Georgia fue el laboratorio donde el Tier A puso a prueba la capacidad de respuesta de la Rusia post-soviética. El resultado fue la destrucción rápida del ejército georgiano —entrenado por la OTAN— y la demostración de que Rusia no permitiría bases militares occidentales en su frontera inmediata. Es el antecedente directo y el "trailer" de lo que sucedería en Ucrania años después.
 
 ## Análisis De Poder (Tiers)
 

@@ -18,7 +18,7 @@ publish: true
 
 ### Tier A: Los Curadores Del Patrimonio Brasileño
 
-- **La Subasta del Amazonas:** El Tier A financiero internacional (grandes fondos de Wall Street y bancos de inversión) apoyó el ascenso de Bolsonaro como una ventana de oportunidad para el **extractivismo desregulado**. El objetivo fue desmantelar la capacidad fiscal del Estado (Techo de Gasto) y forzar la privatización de sectores estratégicos. Bolsonaro fue el interface que permitió al Tier A ignorar la soberanía ambiental de Brasil en favor del rendimiento de capital de corto plazo.
+- **La Subasta del Amazonas:** El Tier A internacional (grandes fondos de Wall Street y bancos de inversión) apoyó el ascenso de Bolsonaro como una ventana de oportunidad para el **extractivismo desregulado**. El objetivo fue desmantelar la capacidad fiscal del Estado (Techo de Gasto) y forzar la privatización de sectores estratégicos. Bolsonaro fue el interface que permitió al Tier A ignorar la soberanía ambiental de Brasil en favor del rendimiento de capital de corto plazo.
 - **Alineamiento con el Eje Anglo-Sionista:** Bolsonaro rompió la tradición diplomática de neutralidad de Brasil para alinear al país de forma irrestricta con los intereses de Washington y Tel Aviv, neutralizando la influencia de los [[BRICS]] desde dentro y asegurando que Brasil funcionara como un satélite del polo occidental en el Sur Global.
 
 ### Tier B: Los Operadores De La Tutela (Miliares Y Pastores)

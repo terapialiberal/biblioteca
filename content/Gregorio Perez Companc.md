@@ -2,7 +2,7 @@
 titulo: 'Gregorio Pérez Companc ("Goyo")'
 tipo: "concepto"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [companc, molinos, opus, prez]
@@ -15,7 +15,7 @@ publish: true
 
 **¿Quién es?** Una de las fortunas más grandes de Argentina, ex-dueño de la petrolera Pecom y actual controlador de **Molinos Río de la Plata**, la empresa de alimentos más grande del país.
 
-**¿Por qué importa?** Gregorio Pérez Companc es el **operador de Tier A que controla la ganchera de los argentinos**. Tras vender su imperio petrolero a Petrobras en 2002 (un movimiento de Tier A para dolarizar su fortuna antes del colapso), Goyo se concentró en el sector estratégico de la alimentación. Controlar Molinos significa controlar el precio de los fideos, el aceite, el arroz y la harina de millones de hogares. Representa la **"Élite Silenciosa"** que opera por encima de los gobiernos de turno: mientras los políticos de Tier B se pelean en la televisión, el grupo Pérez Companc negocia en las sombras los "precios cuidados" y los subsidios, asegurando que el flujo de beneficios nunca se detenga. Su vinculación con el **[[Opus Dei]]** añade una dimensión de poder esotérico y discreto que es característica del Tier A aristocrático argentino.
+**¿Por qué importa?** Gregorio Pérez Companc es el **operador (Tier B) al servicio de la capa dueña (Tier A) que controla la ganchera de los argentinos**. Tras vender su imperio petrolero a Petrobras en 2002 (un movimiento de Tier A para dolarizar su fortuna antes del colapso), Goyo se concentró en el sector estratégico de la alimentación. Controlar Molinos significa controlar el precio de los fideos, el aceite, el arroz y la harina de millones de hogares. Representa la **"Élite Silenciosa"** que opera por encima de los gobiernos de turno: mientras los políticos de Tier B se pelean en la televisión, el grupo Pérez Companc negocia en las sombras los "precios cuidados" y los subsidios, asegurando que el flujo de beneficios nunca se detenga. Su vinculación con el **[[Opus Dei]]** añade una dimensión de poder esotérico y discreto que es característica del Tier A aristocrático argentino.
 
 ## Análisis De Poder (Tiers)
 
@@ -26,7 +26,7 @@ publish: true
 
 ### Tier B (Operadores / CEOs Y El Círculo Rojo)
 
-- **AEA (Asociación Empresaria Argentina):** El grupo participa activamente en el Tier B de presión empresarial, donde se dictan las políticas económicas que los presidentes luego deben implementar.
+- **AEA (Asociación Empresaria Argentina):** El grupo participa activamente en la capa de presión empresarial, donde se dictan las políticas económicas que los presidentes luego deben implementar.
 - **Gestión de Subsidios:** Operadores del grupo Molinos mantienen una presencia permanente en las secretarías de comercio, asegurando que las regulaciones estatales siempre tengan un "bypass" para sus productos de mayor rentabilidad.
 
 ### Tier C (Narrativa Pública)

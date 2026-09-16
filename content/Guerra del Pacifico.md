@@ -2,7 +2,7 @@
 titulo: Guerra Del Pacífico (Geopolítica)
 tipo: "evento"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [geopoltica, guerra, imperio, pacfico]
@@ -31,7 +31,7 @@ publish: true
 
 ### Tier C (Narrativa Pública)
 
-- "Guerra del 10 centavos". "Heroísmo naval y defensa de la bandera". Narrativas épicas inyectadas en el Tier C de los tres países para ocultar que los soldados estaban muriendo de sed en el desierto para asegurar dividendos en Londres. El Tier C boliviano perdió su territorio costero (Litoral), una herida abierta que el Tier B político sigue utilizando hoy para manipular emocionalmente a la población sin tocar jamás los intereses de las mineras extranjeras actuales.
+- "Guerra del 10 centavos". "Heroísmo naval y defensa de la bandera". Narrativas épicas inyectadas en el Tier C de los tres países para ocultar que los soldados estaban muriendo de sed en el desierto para asegurar dividendos en Londres. El Tier C boliviano perdió su territorio costero (Litoral), una herida abierta que la capa política sigue utilizando hoy para manipular emocionalmente a la población sin tocar jamás los intereses de las mineras extranjeras actuales.
 
 ## Conexiones Clave
 

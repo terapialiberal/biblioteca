@@ -4,7 +4,7 @@ tipo: "concepto"
 fecha: 2026-02-25
 estado: activo
 tags: [giza, lneas, meridianos]
-tier_primario: "a"
+capa_tema: "a"
 nivel_evidencia: "medio"
 publish: true
 ---

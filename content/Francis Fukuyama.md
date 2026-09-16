@@ -21,7 +21,7 @@ publish: true
 
 ### Tier A (Los Dueños De La Era Post-Histórica)
 
-- **Consenso de Washington:** La tesis de Fukuyama fue el software ideológico que acompañó al hardware económico del FMI y el Banco Mundial en los 90. El Tier A financiero utilizó su idea para forzar la apertura de mercados en todo el mundo ("no hay alternativa").
+- **Consenso de Washington:** La tesis de Fukuyama fue el software ideológico que acompañó al hardware económico del FMI y el Banco Mundial en los 90. El Tier A utilizó su idea para forzar la apertura de mercados en todo el mundo ("no hay alternativa").
 - **PNAC (Project for the New American Century):** Fukuyama fue signatario de este grupo neoconservador que diseñó la política exterior agresiva de EE.UU. (invasión de Irak), demostrando que el "fin de la historia" debía ser impuesto, si era necesario, mediante la fuerza militar.
 
 ### Tier B (Operadores / Academia Y Think Tanks)

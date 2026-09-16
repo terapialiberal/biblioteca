@@ -18,7 +18,7 @@ publish: true
 
 ### Tier A: Los Curadores De La Estrategia De La Tensión
 
-- **El Eje Gelli-Vaticano-Gladio:** López Rega no era un actor autónomo; era un comisionado de la **[[Logia P2]]** de **[[Licio Gelli]]**. El Tier A europeo y estadounidense utilizó a López Rega para asegurar que Argentina no se deslizara hacia el bloque soviético o el nacionalismo revolucionario. Su función fue inyectar el caos y el terror mediante asesinatos selectivos para justificar la posterior "reorganización" militar del Tier A financiero.
+- **El Eje Gelli-Vaticano-Gladio:** López Rega no era un actor autónomo; era un comisionado de la **[[Logia P2]]** de **[[Licio Gelli]]**. El Tier A europeo y estadounidense utilizó a López Rega para asegurar que Argentina no se deslizara hacia el bloque soviético o el nacionalismo revolucionario. Su función fue inyectar el caos y el terror mediante asesinatos selectivos para justificar la posterior "reorganización" militar del Tier A.
 - **La Ingeniería del Espanto:** El Tier A comprende que el miedo visceral (el terror nocturno, el secuestro sin uniforme) es más efectivo para paralizar al [[Tier C]] que la guerra abierta. López Rega fue el "especialista en sombras" que proveyó esta tecnología de control social.
 
 ### Tier B: El Administrador De La "Corona" Y El Esoterismo (López Rega)

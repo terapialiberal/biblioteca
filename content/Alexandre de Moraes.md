@@ -9,7 +9,7 @@ tags:
   - justicia
   - censura
 tipo: actor
-nivel: B
+tier_primario: B
 titulo: Alexandre de Moraes
 ---
 

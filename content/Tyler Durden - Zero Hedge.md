@@ -4,7 +4,7 @@ titulo: "Tyler Durden - Zero Hedge"
 aliases: ["Tyler Durden", "Zero Hedge"]
 tags: [medio, finanzas, disidente, anonimo]
 tipo: medio
-nivel: C
+tier_primario: C
 ---
 
 # Tyler Durden - Zero Hedge

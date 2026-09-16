@@ -2,7 +2,7 @@
 titulo: "Pacto De Olivos: El Tratado De Paz De La Casta"
 tipo: "concepto"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [carlos, casta, pacto, tratado]
@@ -18,7 +18,7 @@ publish: true
 
 ### Tier A (Los Dueños De La Regla De Juego)
 
-- **La Institucionalización de la Corrupción:** Para el Tier A político, la Constitución de 1853 era una limitación molesta. El Pacto de Olivos permitió una **"República Corporativa"**. Al crear el Consejo de la Magistratura, el sistema aseguró que los jueces de Tier B respondieran a pactos políticos y no a la ley. El Tier A negoció la extensión del mandato de Menem a cambio de una estructura burocrática inmensa que garantizaba empleos y presupuestos infinitos para la UCR (vía la creación del tercer senador y la jefatura de gabinete). Fue el nacimiento del **Consenso del Gasto**, donde ambos bandos acordaron saquear al Tier C mediante impuestos para alimentar la maquinaria estatal.
+- **La Institucionalización de la Corrupción:** Para la dirigencia política, la Constitución de 1853 era una limitación molesta. El Pacto de Olivos permitió una **"República Corporativa"**. Al crear el Consejo de la Magistratura, el sistema aseguró que los jueces de Tier B respondieran a pactos políticos y no a la ley. El Tier A negoció la extensión del mandato de Menem a cambio de una estructura burocrática inmensa que garantizaba empleos y presupuestos infinitos para la UCR (vía la creación del tercer senador y la jefatura de gabinete). Fue el nacimiento del **Consenso del Gasto**, donde ambos bandos acordaron saquear al Tier C mediante impuestos para alimentar la maquinaria estatal.
 
 ### Tier B (Los Operadores De La Ley 24.309)
 

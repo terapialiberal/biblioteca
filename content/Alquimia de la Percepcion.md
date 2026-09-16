@@ -1,7 +1,7 @@
 ---
 titulo: Alquimia de la Percepción
 tipo: "concepto"
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "muy-alto"
 estado: activo
 tags: [percepcion, narrativa, control-mental, guerra-cognitiva]

@@ -21,7 +21,7 @@ publish: true
 
 ### Tier A (El Diseño De La Dependencia)
 
-- **Nexo con el Consenso de Washington:** La Mediterránea fue el canal por el cual las ideas de desregulación y tipo de cambio fijo (Convertibilidad) fueron traducidas a la realidad argentina. El Tier A financiero utilizó a este grupo de empresarios de Tier B para que ellos mismos pidieran el "ajuste" que los bancos internacionales necesitaban para cobrar la deuda.
+- **Nexo con el Consenso de Washington:** La Mediterránea fue el canal por el cual las ideas de desregulación y tipo de cambio fijo (Convertibilidad) fueron traducidas a la realidad argentina. El Tier A utilizó a este grupo de empresarios de Tier B para que ellos mismos pidieran el "ajuste" que los bancos internacionales necesitaban para cobrar la deuda.
 - **Financiamiento Empresarial:** Los socios de la fundación son los "dueños de la comida" y la energía de Argentina. El Tier A les permite una cuota de lucro local a cambio de que mantengan al país dentro del sistema de endeudamiento y exportación de materias primas.
 
 ### Tier B (Operadores / Cavallo Y Melconian)

@@ -26,7 +26,7 @@ publish: true
 
 ### Tier B (Operadores / Publicistas)
 
-- **Arquetipos en el Branding:** Las marcas globales usan arquetipos (El Rebelde, El Sabio, El Héroe) para crear lealtades religiosas hacia productos mediocres. El Tier B político usa arquetipos para construir "Líderes Mesánicos" que resuenan con la necesidad de un padre/protector del inconsciente colectivo.
+- **Arquetipos en el Branding:** Las marcas globales usan arquetipos (El Rebelde, El Sabio, El Héroe) para crear lealtades religiosas hacia productos mediocres. La capa política usa arquetipos para construir "Líderes Mesánicos" que resuenan con la necesidad de un padre/protector del inconsciente colectivo.
 
 ### Tier C (Narrativa Pública)
 

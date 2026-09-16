@@ -21,7 +21,7 @@ publish: true
 
 ### Tier A (Los Dueños De Las Reglas Legales)
 
-- **Control Jurisdiccional:** Los Fondos Buitre operan bajo la protección de los tribunales de Nueva York y Londres. El Tier A financiero asegura que el derecho de propiedad de los acreedores siempre esté por encima del derecho de supervivencia de los pueblos (Tier C).
+- **Control Jurisdiccional:** Los Fondos Buitre operan bajo la protección de los tribunales de Nueva York y Londres. El Tier A asegura que el derecho de propiedad de los acreedores siempre esté por encima del derecho de supervivencia de los pueblos (Tier C).
 - **Financiamiento de Campañas:** Magnates de fondos buitre como Paul Singer son masivos donantes del sistema político estadounidense, asegurando que el Departamento de Estado intervenga a su favor cuando un país extranjero intenta resistirse al pago.
 
 ### Tier B (Operadores / Abogados E Investigadores)

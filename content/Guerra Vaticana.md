@@ -21,7 +21,7 @@ publish: true
 
 ### Tier A (Los Dueños De La Agenda Global)
 
-- **Pacto de Santa Marta y Davos:** Francisco ha alineado a la Iglesia con el Foro Económico Mundial y la ONU, promoviendo el "Gran Reset" y las políticas de confinamiento durante el COVID-19 como obligaciones morales. El Tier A financiero utiliza al Papa para legitimar moralmente el control digital ante millones de fieles de Tier C.
+- **Pacto de Santa Marta y Davos:** Francisco ha alineado a la Iglesia con el Foro Económico Mundial y la ONU, promoviendo el "Gran Reset" y las políticas de confinamiento durante el COVID-19 como obligaciones morales. El Tier A utiliza al Papa para legitimar moralmente el control digital ante millones de fieles de Tier C.
 - **La Red Jesuita:** El Tier A utiliza la estructura de inteligencia y educación de la Compañía de Jesús para infiltrar el globalismo en las estructuras eclesiásticas locales de todo el mundo.
 
 ### Tier B (Operadores / El Círculo Íntimo De Francisco)

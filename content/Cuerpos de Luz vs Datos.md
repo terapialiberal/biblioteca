@@ -1,7 +1,7 @@
 ---
 titulo: Cuerpos de Luz vs Datos
 tipo: "concepto"
-tier_primario: "a"
+capa_tema: "a"
 nivel_evidencia: "medio"
 estado: activo
 tags: [esoterismo, tecnologia, transhumanismo, alma]

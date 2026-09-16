@@ -2,7 +2,7 @@
 titulo: Los Papeles de Pfizer
 tipo: concepto
 fecha: 2026-04-21
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 aliases: ["Los Papeles De Pfizer: La Verdad Detras De La Inmunidad"]

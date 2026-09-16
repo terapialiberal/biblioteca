@@ -2,7 +2,7 @@
 titulo: Protocolo RWA
 tipo: concepto
 fecha: 2026-04-19
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 tags: [protocolo-rwa, rwa, tokenizacion, activos-reales, ledger, tl-intel-v3]

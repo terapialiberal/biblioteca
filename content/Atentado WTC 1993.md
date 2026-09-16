@@ -2,7 +2,7 @@
 titulo: Atentado WTC 1993
 tipo: "evento"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: ["1993", atentado]

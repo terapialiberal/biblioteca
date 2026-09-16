@@ -2,7 +2,7 @@
 titulo: Escándalo BCCI
 tipo: "evento"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [bcci, escndalo, irn, promis]
@@ -15,7 +15,7 @@ publish: true
 
 **¿Qué fue?** El colapso del **Bank of Credit and Commerce International (BCCI)** en 1991, tras descubrirse que operaba la red de fraude, lavado de dinero y financiamiento del terrorismo más grande de la historia, con activos superiores a los 20.000 millones de dólares.
 
-**¿Por qué importa?** El BCCI no era un banco común; era la **infraestructura financiera del Estado Profundo global**. Apodado "The Bank of Crooks and Criminals International", servía como el conducto para las operaciones negras de la **CIA**, el **MI6**, el Mossad y servicios de inteligencia de Arabia Saudita y Pakistán. A través del BCCI se financió el escándalo **[[Irán-Contra]]**, el tráfico de armas de **Adnan Khashoggi**, los programas nucleares clandestinos de varios países y el lavado de dinero de los carteles de la droga de Medellín y Cali. Su impunidad durante décadas se debió a que el Tier A político y de inteligencia de EE.UU. y Reino Unido lo utilizaba como un "banco fuera de los libros" para financiar guerras y operaciones que el Congreso nunca hubiera aprobado. Su caída solo ocurrió cuando la magnitud del fraude amenazó la estabilidad del sistema bancario tradicional de Tier A.
+**¿Por qué importa?** El BCCI no era un banco común; era la **infraestructura financiera del Estado Profundo global**. Apodado "The Bank of Crooks and Criminals International", servía como el conducto para las operaciones negras de la **CIA**, el **MI6**, el Mossad y servicios de inteligencia de Arabia Saudita y Pakistán. A través del BCCI se financió el escándalo **[[Irán-Contra]]**, el tráfico de armas de **Adnan Khashoggi**, los programas nucleares clandestinos de varios países y el lavado de dinero de los carteles de la droga de Medellín y Cali. Su impunidad durante décadas se debió a que la dirigencia política y de inteligencia de EE.UU. y Reino Unido lo utilizaba como un "banco fuera de los libros" para financiar guerras y operaciones que el Congreso nunca hubiera aprobado. Su caída solo ocurrió cuando la magnitud del fraude amenazó la estabilidad del sistema bancario tradicional de Tier A.
 
 ## Análisis De Poder (Tiers)
 

@@ -2,7 +2,7 @@
 titulo: Incidente Del U-2
 tipo: "evento"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [dwight, guerra, incidente]
@@ -21,7 +21,7 @@ publish: true
 
 ### Tier A (Los Dueños Del Conflicto Perpetuo)
 
-- **Complejo Militar-Industrial:** El Tier A financiero no deseaba la paz de 1960. Una desescalada real habría frenado el gasto masivo en misiles y armas nucleares. El incidente del U-2 fue la herramienta perfecta para recalentar la guerra fría y asegurar contratos por otros 30 años.
+- **Complejo Militar-Industrial:** El Tier A no deseaba la paz de 1960. Una desescalada real habría frenado el gasto masivo en misiles y armas nucleares. El incidente del U-2 fue la herramienta perfecta para recalentar la guerra fría y asegurar contratos por otros 30 años.
 
 ### Tier B (Operadores / Allen Dulles Y Gary Powers)
 

@@ -2,7 +2,7 @@
 titulo: Grupo De Puebla
 tipo: "concepto"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [agenda, grupo, lawfare, puebla]
@@ -24,7 +24,7 @@ publish: true
 - **Conexión Española (Zapatero):** José Luis Rodríguez Zapatero actúa como el enlace de Tier A europeo (Socialdemocracia globalista) para asegurar que la izquierda latinoamericana permanezca alineada con los objetivos de la ONU y el Foro Económico Mundial, evitando derivas nacionalistas reales.
 - **Financiamiento y Respaldo de ONGs:** El grupo cuenta con el respaldo de redes de Tier A que promueven la fragmentación social (políticas de identidad) como forma de control poblacional.
 
-### Tier B (Operadores / Políticos En Retirada Y Jueces Militantes)
+### Operadores / Políticos En Retirada Y Jueces Militantes
 
 - **Marco Enríquez-Ominami y Alberto J.L. Fernández:** Los operadores de Tier B que articulan las cumbres y los comunicados. Su función es mantener la cohesión del bloque para que, cuando uno caiga en desgracia judicial, el resto actúe como caja de resonancia mediática.
 - **CLAJUD (Consejo Latinoamericano de Justicia y Democracia):** Es el brazo legal de Tier B del grupo, cuya tarea es redactar defensas técnicas que "politizan" los expedientes criminales por malversación de fondos públicos.

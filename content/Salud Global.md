@@ -2,7 +2,7 @@
 titulo: Salud Global
 tipo: concepto
 fecha: 2026-04-21
-tier_primario: a
+capa_tema: a
 nivel_evidencia: medio
 estado: activo
 tags: [salud-global, gobernanza, who, gavi, cepi, filantrocapitalismo, tl-intel-v3]

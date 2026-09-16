@@ -3,13 +3,15 @@ publish: true
 titulo: Barack Obama
 tipo: persona
 fecha: 2026-02-25T00:00:00.000Z
-tier_primario: b
+tier_primario: c
 nivel_evidencia: medio
 estado: activo
 tags: [barack-obama, presidencia-eeuu, vigilancia-masiva, agencia-inteligencia, guerra-drones]
 ---
 
 # Barack Obama
+
+> **Clasificación (2026-09-15):** cargo político de gobierno: cuadro visible y reemplazable (Tier C por canon).
 
 ## Perfil TL (Resumen Ejecutivo)
 

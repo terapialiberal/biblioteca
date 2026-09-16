@@ -2,7 +2,7 @@
 titulo: Vigilancia Predictiva
 tipo: concepto
 fecha: 2026-04-17
-tier_primario: b
+capa_tema: b
 nivel_evidencia: alto
 estado: activo
 tags: [vigilancia-predictiva, pre-crimen, palantir, scoring, control, tl-intel-v3]

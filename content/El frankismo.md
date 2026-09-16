@@ -7,7 +7,7 @@ tipo: alias
 estado: legacy
 reemplazado_por: [[Sabateismo-Frankismo]]
 fecha: 2026-05-02
-tier:
+
 tags: [legacy, alias, frankismo, sabateismo, wikipedia, tl-intel-v3]
 ---
 

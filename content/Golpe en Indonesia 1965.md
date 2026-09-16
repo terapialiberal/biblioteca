@@ -2,7 +2,7 @@
 titulo: Golpe En Indonesia 1965
 tipo: "evento"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: ["1965", conferencia, golpe, indonesia]
@@ -22,7 +22,7 @@ publish: true
 ### Tier A (Los Dueños De La Hegemonía Global)
 
 - **Aplastamiento de los No Alineados:** Sukarno era un peligro para el Tier A porque promovía la independencia del Tercer Mundo frente a los bloques de la Guerra Fría. El Tier A decidió borrar a Indonesia del mapa político soberano para convertirla en un satélite extractivo.
-- **Normalización del Terror:** El Tier A financiero y mediático bendijo la masacre; la revista _Time_ celebró el golpe como "la mejor noticia del año en Asia", legitimando el uso del exterminio como técnica de gestión geopolítica.
+- **Normalización del Terror:** El Tier A y mediático bendijo la masacre; la revista _Time_ celebró el golpe como "la mejor noticia del año en Asia", legitimando el uso del exterminio como técnica de gestión geopolítica.
 
 ### Tier B (Operadores / La CIA Y Las Listas De Muerte)
 

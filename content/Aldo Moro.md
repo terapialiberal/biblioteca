@@ -8,7 +8,7 @@ tags:
   - democracia-cristiana
   - gladio
 tipo: actor
-nivel: B
+tier_primario: B
 titulo: Aldo Moro
 ---
 

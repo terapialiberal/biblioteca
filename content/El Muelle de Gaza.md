@@ -2,7 +2,7 @@
 titulo: El Muelle De Gaza (Biden)
 tipo: "concepto"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [biden, conflicto, gaza, muelle]
@@ -24,7 +24,7 @@ publish: true
 - **Prueba de Concepto Logística:** Para el Tier A militar, el muelle fue un experimento de despliegue rápido en condiciones hostiles. El fracaso técnico reveló una degradación preocupante de las capacidades de ingeniería real del Departamento de Defensa frente a problemas básicos del mundo físico.
 - **Control del Acceso:** El muelle permitió a EE.UU. e Israel controlar qué tipo de ayuda entraba y quién la gestionaba, evitando que actores internacionales no alineados tomaran el control de la costa de Gaza.
 
-### Tier B (Operadores / La Administración Biden)
+### Operadores / La Administración Biden
 
 - **Gestión de Marca:** Los operadores políticos de la Casa Blanca diseñaron el proyecto para "salir en las noticias" y calmar protestas internas. No les importó la viabilidad técnica, sino la imagen del muelle en las pantallas de Tier C.
 - **Inutilidad Operativa:** El muelle funcionó solo 20 días en total antes de ser desmantelado definitivamente en julio de 2024. El dinero quemado terminó en manos de contratistas militares sin haber aliviado significativamente la hambruna.

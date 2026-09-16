@@ -2,7 +2,7 @@
 titulo: Gustavo Grobocopatel
 tipo: "persona"
 fecha: 2026-02-25
-tier_primario: "b"
+tier_primario: "a"
 nivel_evidencia: "medio"
 estado: activo
 tags: [grobocopatel, gustavo, monsanto, soja]
@@ -11,23 +11,27 @@ publish: true
 
 # Gustavo Grobocopatel
 
+> **Clasificación corregida (2026-09-15):** `B` → `A` — dueño del capital del Grupo Los Grobo. Salvedad registrada: parte de su modelo opera tierra de terceros (fideicomisos y contratos de arrendamiento), así que su pata de gestión pertenece a la capa operativa (Tier B); se clasifica por la propiedad.
+
 ## Perfil TL (Resumen Ejecutivo)
 
 **¿Quién es?** Ingeniero agrónomo y empresario, fundador de "Los Grobo", una de las organizaciones agroindustriales más grandes de Latinoamérica, pionero en el modelo de agricultura "sin tierra".
 
-**¿Por qué importa?** Gustavo Grobocopatel es el **operador de Tier A que revolucionó la extracción de valor de la tierra mediante la tercerización total**. Su modelo transformó al campo argentino en una **"Fábrica a Cielo Abierto"** corporativa y financiera. Grobocopatel no es un estanciero tradicional; es un tecnócrata que introdujo la lógica del Silicon Valley en la soja: él no posee la mayor parte de la tierra que produce, sino que alquila, contrata y gestiona mediante un sistema de plataforma digital y financiamiento masivo. Representa el **Capitalismo de Plataforma aplicado a los alimentos**. Su cercanía con el poder político de Tier B le permitió expandir la **"Sojización"** del país, promoviendo el uso masivo de agroquímicos (Monsanto) y el desplazamiento de pequeños agricultores, convirtiendo a la alimentación en un activo financiero puramente extractivo para el mercado global.
+**¿Por qué importa?** Gustavo Grobocopatel es **dueño del capital del Grupo Los Grobo (Tier A)** y el operador que revolucionó la extracción de valor de la tierra mediante la tercerización total. Su modelo transformó al campo argentino en una **"Fábrica a Cielo Abierto"** corporativa y financiera. Grobocopatel no es un estanciero tradicional; es un tecnócrata que introdujo la lógica del Silicon Valley en la soja: él no posee la mayor parte de la tierra que produce, sino que alquila, contrata y gestiona mediante un sistema de plataforma digital y financiamiento masivo. Representa el **Capitalismo de Plataforma aplicado a los alimentos**. Su cercanía con el poder político de Tier B le permitió expandir la **"Sojización"** del país, promoviendo el uso masivo de agroquímicos (Monsanto) y el desplazamiento de pequeños agricultores, convirtiendo a la alimentación en un activo financiero puramente extractivo para el mercado global.
 
 ## Análisis De Poder (Tiers)
 
+> **Nota de vocabulario:** donde esta ficha usa «Tier A / Tier B / Tier C» en encabezados de sección, usa el vocabulario anterior al canon de actores (capas de la estructura: dueños / operadores / cara visible). La clasificación de este sujeto es la del frontmatter (`tier_primario` en actores, `capa_tema` en objetos).
+
 ### Tier A (Los Dueños De La Biotecnocracia)
 
-- **Financierización de la Comida:** El modelo de Grobocopatel alinea los recursos naturales de Argentina con los mercados de futuros de Chicago. El Tier A financiero utiliza su estructura para asegurar que el suelo argentino produzca lo que el mercado global demanda (commodities), sacrificando la soberanía alimentaria local.
+- **Financierización de la Comida:** El modelo de Grobocopatel alinea los recursos naturales de Argentina con los mercados de futuros de Chicago. El Tier A utiliza su estructura para asegurar que el suelo argentino produzca lo que el mercado global demanda (commodities), sacrificando la soberanía alimentaria local.
 - **Nexo con Multinacionales de Insumos:** Su modelo es el principal vehículo para la expansión de las patentes de semillas y herbicidas de Tier A (Bayer/Monsanto), convirtiendo a los productores locales en meros franquiciados del cartel biotecnológico.
 
 ### Tier B (Operadores / La Red De Los Grobo)
 
-- **Ingeniería de Redes:** Grobocopatel opera como un nodo central de Tier B que conecta bancos, dueños de tierra, contratistas de maquinaria y exportadoras. Su poder reside en el control de la información y la logística, no en la propiedad física.
-- **Lobista de la "Revolución Verde":** Actúa ante los gobiernos de Tier B para asegurar que las leyes de semillas y los impuestos a la exportación no afecten la rentabilidad de la red transnacional que representa.
+- **Ingeniería de Redes:** Grobocopatel es el nodo central que conecta bancos, dueños de tierra, contratistas de maquinaria y exportadoras. Su poder reside en el control de la información y la logística, no en la propiedad física.
+- **Lobista de la "Revolución Verde":** Actúa ante los gobiernos (Tier C) para asegurar que las leyes de semillas y los impuestos a la exportación no afecten la rentabilidad de la red transnacional que representa.
 
 ### Tier C (Narrativa Pública)
 

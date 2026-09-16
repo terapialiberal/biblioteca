@@ -2,7 +2,7 @@
 titulo: Triple Frontera
 tipo: territorio-estrategico
 fecha: 2026-04-18
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 tags: [triple-frontera, argentina, paraguay, brasil, inteligencia, contrabando, tl-intel-v3]

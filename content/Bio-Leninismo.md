@@ -1,7 +1,7 @@
 ---
 titulo: Bio-Leninismo
 tipo: "concepto"
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "alto"
 estado: activo
 tags: [sociologia, control, lealtad, bio-politica]

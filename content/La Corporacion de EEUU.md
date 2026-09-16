@@ -2,7 +2,7 @@
 titulo: "La Corporación De EEUU: El Acta De 1871 Y El Fin De La República"
 tipo: "concepto"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [city, corporacin, repblica, reserva]
@@ -18,7 +18,7 @@ publish: true
 
 ### Tier A: Los Curadores Del Título De Propiedad (Los Acreedores)
 
-- **La Hipoteca de una Nación:** Tras 1871, el Tier A financiero utilizó la deuda de guerra para forzar un cambio de estatus jurídico. EE.UU. pasó de ser un país soberano a ser el **brazo ejecutor y recolector de impuestos** de una oligarquía transnacional. El Tier A opera desde ciudades-estado independientes (Washington D.C., la City de Londres, el Vaticano) que funcionan bajo leyes comerciales internacionales, fuera del alcance del voto popular del [[Tier C]].
+- **La Hipoteca de una Nación:** Tras 1871, el Tier A utilizó la deuda de guerra para forzar un cambio de estatus jurídico. EE.UU. pasó de ser un país soberano a ser el **brazo ejecutor y recolector de impuestos** de una oligarquía transnacional. El Tier A opera desde ciudades-estado independientes (Washington D.C., la City de Londres, el Vaticano) que funcionan bajo leyes comerciales internacionales, fuera del alcance del voto popular del [[Tier C]].
 - **Jurisdicción de Almirantazgo:** El Tier A impuso el **Derecho Marítimo** (comercio) sobre el Derecho de la Tierra (Constitución). En este sistema, la justicia se administra como en un buque mercantil: el juez es el capitán, la corte es la cubierta del barco y el ciudadano es una "mercancía" que debe cumplir el contrato de deuda externa.
 
 ### Tier B: Los Administradores Del Inventario Humano (El Gobierno Corporativo)

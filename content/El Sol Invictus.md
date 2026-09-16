@@ -5,7 +5,7 @@ fecha: 2026-04-27
 estado: activo
 aliases: ["Sol Invictus", "Sol Invicto"]
 tags: [sol-invictus, simbolismo, roma, culto-solar, legitimacion, tl-intel-v3]
-tier_primario: c
+capa_tema: c
 nivel_evidencia: alto
 publish: true
 ---

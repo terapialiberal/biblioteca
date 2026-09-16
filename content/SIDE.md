@@ -3,13 +3,15 @@ titulo: "SIDE (Secretaria de Inteligencia del Estado)"
 publish: true
 tipo: entidad
 fecha: 2026-05-28
-tier_primario: A
+tier_primario: b
 estado: activo
 aliases: ["Secretaria de Inteligencia del Estado", "SIDE", "Servicio de Inteligencia del Estado", "SIDE (Servicio de Inteligencia del Estado)"]
 tags: [argentina, inteligencia, side, caputo, vigilancia, palantir, dnu-941, tl-intel-v3]
 ---
 
 # [[SIDE]]
+
+> **Clasificación (2026-09-15):** no es dueño del capital: vehículo operativo o aparato estatal (Tier B por canon).
 
 > [!abstract] PERFIL TL-INTEL
 > La SIDE (Secretaria de Inteligencia del Estado) es el organo de inteligencia superior de Argentina, creado en julio 2024 mediante DNU 614/615 para reemplazar a la [[AFI]]. Opera bajo control directo de [[Santiago Caputo]] y fue reformada estructuralmente por [[DNU 941]] en diciembre 2025. Representa el brazo ejecutor de la infraestructura de vigilancia del gobierno de [[Javier Milei]].

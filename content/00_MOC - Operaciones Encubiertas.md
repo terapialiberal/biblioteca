@@ -333,6 +333,8 @@ tags: [moc, operaciones-encubiertas, inteligencia, false-flag, tl-intel-v3]
 
 - [[Triple Frontera (Inteligencia).md|Triple Frontera (Inteligencia)]]
 
+- [[Turki Al Faisal.md|Turki Al Faisal]]
+
 - [[UK.md|UK]]
 
 - [[Vladimiro Montesinos.md|Vladimiro Montesinos]]

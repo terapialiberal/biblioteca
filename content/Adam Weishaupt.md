@@ -8,7 +8,7 @@ tags:
   - baviera
   - sociedades-secretas
 tipo: actor
-nivel: C
+tier_primario: C
 titulo: Adam Weishaupt
 ---
 

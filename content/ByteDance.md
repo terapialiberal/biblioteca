@@ -4,7 +4,7 @@ titulo: "ByteDance"
 aliases: ["ByteDance"]
 tags: [empresa, china, tiktok, redes-sociales]
 tipo: empresa
-nivel: B
+tier_primario: B
 ---
 
 # ByteDance

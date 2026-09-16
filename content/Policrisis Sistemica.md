@@ -2,7 +2,7 @@
 titulo: Policrisis Sistemica
 tipo: patron
 fecha: 2026-04-20
-tier_primario: a
+capa_tema: a
 nivel_evidencia: medio
 estado: activo
 tags: [policrisis, convergencia-sistemica, fragilidad-global, cascada, tl-intel-v3]

@@ -2,7 +2,7 @@
 titulo: Cognitive Warfare
 tipo: concepto
 fecha: 2026-04-19
-tier_primario: b
+capa_tema: b
 nivel_evidencia: alto
 estado: activo
 tags: [cognitive-warfare, guerra-cognitiva, narrativa, neuro-politica, plataformas, tl-intel-v3]

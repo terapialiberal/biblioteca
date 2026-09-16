@@ -2,7 +2,7 @@
 titulo: Crisis Financiera War Game Lehman 2026
 tipo: evento
 fecha: 2026-04-21
-tier_primario: a
+capa_tema: a
 nivel_evidencia: medio
 estado: activo
 tags: [crisis-financiera, bancos-centrales, lehman, war-game, real-estate-comercial, policrisis, tl-intel-v3]

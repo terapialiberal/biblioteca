@@ -5,7 +5,7 @@ fecha: 2026-04-27
 estado: activo
 aliases: ["Pánico Moral", "Moral panic"]
 tags: [panico-moral, propaganda, psicologia-de-masas, opinion-publica, tl-intel-v3]
-tier_primario: b
+capa_tema: b
 nivel_evidencia: alto
 publish: true
 ---

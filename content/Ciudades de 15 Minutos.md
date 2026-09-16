@@ -2,7 +2,7 @@
 titulo: "Ciudades de 15 Minutos"
 tipo: concepto
 estado: activo
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 tags: [ciudades-15-minutos, urbanismo, smart-cities, movilidad, tl-intel-v3]
 publish: true

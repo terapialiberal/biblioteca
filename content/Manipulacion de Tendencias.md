@@ -2,7 +2,7 @@
 titulo: Manipulacion de Tendencias
 tipo: concepto
 fecha: 2026-04-18
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 tags: [tendencias, astroturfing, bots, algoritmos, control-narrativo, tl-intel-v3]

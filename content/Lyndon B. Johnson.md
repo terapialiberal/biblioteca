@@ -4,7 +4,7 @@ titulo: "Lyndon B. Johnson"
 aliases: ["Lyndon Baines Johnson", "LBJ", "Lyndon B. Johnson"]
 tags: [actor, presidente-eeuu, vietnam, guerra-fria]
 tipo: actor
-nivel: B
+tier_primario: B
 ---
 
 # Lyndon B. Johnson

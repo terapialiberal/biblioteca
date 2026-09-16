@@ -4,7 +4,7 @@ titulo: "Cábala y el Golem"
 aliases: ["Cabalá y el Golem"]
 tags: [concepto, esoterismo, judaismo, simbolismo]
 tipo: concepto
-nivel: C
+capa_tema: c
 ---
 
 # Cábala y el Golem

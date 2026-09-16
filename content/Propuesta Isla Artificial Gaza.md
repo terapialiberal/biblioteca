@@ -6,7 +6,7 @@ https: //www.washingtonpost.com/world/middle_east/israel-wants-someone-to-build-
 tipo: "evento"
 fecha: 2016-06-20T00:00:00.000Z
 usado en: '[[2027-01-07 Gaza SA]]'
-tier: null
+
 estado: activo
 tags: [geopolitica-israel-palestina, isla-artificial-gaza, proyectos-infraestructura, puerto-maritimo, seguridad-regional]
 publish: true

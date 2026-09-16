@@ -2,7 +2,7 @@
 titulo: "Isla Sazan y el Estrecho de Otranto: El Chokepoint de la Nueva Venecia"
 tipo: "lugar"
 fecha: 2026-06-11
-tier_primario: "a"
+capa_tema: "a"
 nivel_evidencia: "alto"
 estado: activo
 tags: [sazan, otranto, adriatico, albania, kushner, rothschild, imec, corredor-viii, chokepoint, venecia, modelo-veneciano, vlore, tap, spak, belgrado, zvernec, affinity, escanor]

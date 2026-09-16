@@ -2,7 +2,7 @@
 titulo: Spirit Cooking
 tipo: concepto
 fecha: 2026-04-18
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 aliases: ["Spirit Cooking: la Liturgia Sangrienta del Poder Global", "Marina Abramović y el Spirit Cooking", "Marina Abramovic y el Spirit Cooking"]

@@ -4,7 +4,7 @@ tipo: "concepto"
 fecha: 2026-02-25
 estado: activo
 tags: [blackrock, mercado, monopolios, standard]
-tier_primario: "a"
+capa_tema: "a"
 nivel_evidencia: "alto"
 publish: true
 ---

@@ -2,7 +2,7 @@
 titulo: G4S (Group 4 Securicor)
 tipo: "concepto"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [agenda, blackrock, group, securicor]
@@ -15,14 +15,14 @@ publish: true
 
 **¿Qué es?** Durante años, fue la empresa de seguridad privada más grande del mundo y el tercer empleador privado más grande del planeta (solo superado por Walmart y Foxconn).
 
-**¿Por qué importa?** G4S es el **ejército pretoriano de Tier B especializado en la "Privatización de la Coerción"**. No es una simple empresa de guardias de seguridad; es una corporación que gestiona desde prisiones y centros de detención de inmigrantes hasta la protección de activos nucleares y zonas de guerra. G4S representa la externalización de las funciones más oscuras del Estado Profundo: cuando el Tier A necesita realizar vigilancia, control de masas o gestión de fronteras sin supervisión parlamentaria, contrata a empresas como G4S. Su presencia en más de 125 países permite al Tier A financiero desplegar una red global de control que no responde ante los ciudadanos, sino ante los accionistas. Es la infraestructura física necesaria para la implementación de las "Ciudades Seguras" y la gestión autoritaria de futuras crisis sociales.
+**¿Por qué importa?** G4S es el **ejército pretoriano de Tier B especializado en la "Privatización de la Coerción"**. No es una simple empresa de guardias de seguridad; es una corporación que gestiona desde prisiones y centros de detención de inmigrantes hasta la protección de activos nucleares y zonas de guerra. G4S representa la externalización de las funciones más oscuras del Estado Profundo: cuando el Tier A necesita realizar vigilancia, control de masas o gestión de fronteras sin supervisión parlamentaria, contrata a empresas como G4S. Su presencia en más de 125 países permite al Tier A desplegar una red global de control que no responde ante los ciudadanos, sino ante los accionistas. Es la infraestructura física necesaria para la implementación de las "Ciudades Seguras" y la gestión autoritaria de futuras crisis sociales.
 
 ## Análisis De Poder (Tiers)
 
 ### Tier A (Los Dueños De La Seguridad)
 
 - **Accionariado de Elite:** G4S ha tenido entre sus principales inversores a fondos de Tier A como **BlackRock**, **Vanguard** y **Bill Gates** (quien fue uno de los mayores accionistas individuales). El Tier A invierte en G4S porque entiende que, a medida que la desigualdad crezca y el Estado se debilite, el mercado del "control de población" será el negocio más lucrativo del siglo.
-- **Externalización del Abuso:** Al usar a G4S en centros de tortura o prisiones abusivas, el Tier A político puede lavarse las manos diciendo que son "fallos de una empresa privada", evitando la responsabilidad política directa.
+- **Externalización del Abuso:** Al usar a G4S en centros de tortura o prisiones abusivas, la dirigencia política puede lavarse las manos diciendo que son "fallos de una empresa privada", evitando la responsabilidad política directa.
 
 ### Tier B (Operadores / El Complejo Industrial-Penal)
 

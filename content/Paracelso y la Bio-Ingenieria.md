@@ -5,7 +5,7 @@ fecha: 2026-04-27
 estado: activo
 aliases: ["Paracelso Y La Bio-Ingeniería"]
 tags: [paracelso, bioingenieria, yatroquimica, medicina, alquimia, tl-intel-v3]
-tier_primario: c
+capa_tema: c
 nivel_evidencia: medio
 publish: true
 ---

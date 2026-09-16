@@ -4,7 +4,7 @@ titulo: "León Trotsky"
 aliases: ["Leon Trotsky", "Trotsky"]
 tags: [actor, revolucion-rusa, marxismo]
 tipo: actor
-nivel: B
+tier_primario: B
 ---
 
 # León Trotsky

@@ -3,7 +3,7 @@ publish: true
 titulo: Project Stargate
 tipo: concepto
 fecha: 2026-04-17
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 tags: [stargate, openai, microsoft, energia, data-centers, tl-intel-v3]

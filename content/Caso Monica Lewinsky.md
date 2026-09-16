@@ -2,7 +2,7 @@
 titulo: Caso Monica Lewinsky (Sexgate)
 tipo: "evento"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [bill, caso, hillary, lewinsky]

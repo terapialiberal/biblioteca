@@ -2,7 +2,7 @@
 titulo: Invasión De Irak 2003
 tipo: "evento"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: ["2003", halliburton, irak, pnac]
@@ -21,7 +21,7 @@ publish: true
 
 ### Tier A (Los Dueños De La Guerra Por Contrato)
 
-- **El Complejo Militar-Industrial:** El Tier A financiero utilizó la invasión para vaciar el tesoro público de EE.UU. y transferirlo a manos privadas mediante la guerra perpetua. Irak fue el laboratorio de la "guerra tercerizada".
+- **El Complejo Militar-Industrial:** El Tier A utilizó la invasión para vaciar el tesoro público de EE.UU. y transferirlo a manos privadas mediante la guerra perpetua. Irak fue el laboratorio de la "guerra tercerizada".
 - **Petrodólar en Riesgo:** Saddam Hussein había anunciado en 2000 que vendería petróleo en euros. El Tier A bancario lo eliminó para enviar un mensaje a cualquiera que intente desdolarizar la energía.
 
 ### Tier B (Operadores / Los Neocons Del PNAC)

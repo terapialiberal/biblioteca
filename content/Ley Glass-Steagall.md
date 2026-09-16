@@ -2,7 +2,7 @@
 titulo: Ley Glass-Steagall
 tipo: concepto
 fecha: 2026-04-18
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 aliases: ["Ley Glass-Steagall: El Muro Entre El Ahorro Y El Casino"]

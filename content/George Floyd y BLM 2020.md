@@ -2,7 +2,7 @@
 titulo: George Floyd y BLM 2020
 tipo: evento
 fecha: 2026-04-18
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 tags: [george-floyd, blm, woke, caos-controlado, fundacion-ford, tl-intel-v3]

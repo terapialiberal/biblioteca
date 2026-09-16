@@ -2,7 +2,7 @@
 titulo: "Pacto De Mayo: El Decálogo Liberal De La Matrix"
 tipo: "concepto"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [declogo, matrix, mayo, pacto]
@@ -18,7 +18,7 @@ publish: true
 
 ### Tier B (El Gobierno contra La Inercia De La Casta)
 
-- **La Disciplina como Negociación:** Para el Tier B gubernamental, el pacto es una herramienta de **Cooptación y Disciplina**. Milei utilizó la asfixia financiera de las provincias para obligar a los gobernadores a sentarse a la mesa. Los 10 puntos (que incluyen reforma laboral, previsional y tributaria) son el intento de transformar el "Estado de Bienestar" argentino en un "Estado de Vigilancia Fiscal". El Tier B político intenta usar este pacto como un escudo frente a futuros gobiernos, buscando que los pilares liberales se vuelvan irreversibles para el individuo de **[[Tier C]]**.
+- **La Disciplina como Negociación:** Para la capa de gobierno, el pacto es una herramienta de **Cooptación y Disciplina**. Milei utilizó la asfixia financiera de las provincias para obligar a los gobernadores a sentarse a la mesa. Los 10 puntos (que incluyen reforma laboral, previsional y tributaria) son el intento de transformar el "Estado de Bienestar" argentino en un "Estado de Vigilancia Fiscal". La capa política intenta usar este pacto como un escudo frente a futuros gobiernos, buscando que los pilares liberales se vuelvan irreversibles para el individuo de **[[Tier C]]**.
 
 ### Tier C (El Ciudadano Frente a La Refundación)
 

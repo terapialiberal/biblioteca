@@ -2,7 +2,7 @@
 titulo: Escándalo Del Azúcar (Harvard)
 tipo: "evento"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [ancel, azcar, escndalo, harvard]
@@ -21,7 +21,7 @@ publish: true
 
 ### Tier A (Los Beneficiarios De La Mala Salud)
 
-- **Sinergia Industrial:** El Tier A financiero vio una oportunidad de oro: vender comida procesada barata y adictiva basada en azúcar (Tier B de alimentos) y luego vender los tratamientos crónicos para la diabetes y la hipertensión resultantes (Tier B farmacéutico). Es un modelo de negocio circular de extracción de valor sobre la biología humana.
+- **Sinergia Industrial:** El Tier A vio una oportunidad de oro: vender comida procesada barata y adictiva basada en azúcar (Tier B de alimentos) y luego vender los tratamientos crónicos para la diabetes y la hipertensión resultantes (Tier B farmacéutico). Es un modelo de negocio circular de extracción de valor sobre la biología humana.
 
 ### Tier B (Operadores / Academia Capturada)
 

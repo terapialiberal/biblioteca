@@ -2,7 +2,7 @@
 titulo: Atentado De Oklahoma City (1995)
 tipo: "evento"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [andreas, atentado, city, oklahoma]

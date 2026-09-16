@@ -4,7 +4,7 @@ titulo: "Larry Fink"
 aliases: ["Larry Fink / BlackRock", "Larry Fink - BlackRock"]
 tags: [actor, finanzas, blackrock]
 tipo: actor
-nivel: A
+tier_primario: A
 ---
 
 # Larry Fink

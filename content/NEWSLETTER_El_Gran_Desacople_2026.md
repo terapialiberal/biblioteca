@@ -2,7 +2,7 @@
 titulo: EL GRAN DESACOPLE
 tipo: distribucion
 fecha: 2026-02-25
-tier_primario: "a"
+capa_tema: "a"
 nivel_evidencia: "alto"
 tags: [desacople, infraestructura, ia, neurotecnologia]
 familia: articulo

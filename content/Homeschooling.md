@@ -2,7 +2,7 @@
 titulo: Homeschooling (Éxodo Educativo)
 tipo: "concepto"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [educativo, escuela, homeschooling, xodo]
@@ -42,4 +42,4 @@ publish: true
 
 ## Por Qué Importa (Estilo Nico)
 
-> "El homeschooling es la verdadera rebeldía de este siglo. El Estado (Tier A) te quiere lavar la cabeza desde los 4 años para que seas un tornillo más de su máquina: obediente, consumidor y que no preguntes demasiado. La escuela es la cárcel del pensamiento, donde te enseñan a pedir permiso hasta para ir al baño. Los padres que sacan a sus pibes de ahí están rompiendo el hechizo. Están diciendo: 'Mis hijos no son propiedad del gobierno'. Es la salida de la Matrix: si no pueden formatear la cabeza de los chicos, los de arriba pierden el control del futuro. Por eso les da tanto miedo y te dicen que tu hijo va a ser un 'antisocial': tienen miedo de que el pibe sea libre de verdad."
+> "El homeschooling es la verdadera rebeldía de este siglo. El Estado (aparato estatal, capa B) te quiere lavar la cabeza desde los 4 años para que seas un tornillo más de su máquina: obediente, consumidor y que no preguntes demasiado. La escuela es la cárcel del pensamiento, donde te enseñan a pedir permiso hasta para ir al baño. Los padres que sacan a sus pibes de ahí están rompiendo el hechizo. Están diciendo: 'Mis hijos no son propiedad del gobierno'. Es la salida de la Matrix: si no pueden formatear la cabeza de los chicos, los de arriba pierden el control del futuro. Por eso les da tanto miedo y te dicen que tu hijo va a ser un 'antisocial': tienen miedo de que el pibe sea libre de verdad."

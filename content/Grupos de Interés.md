@@ -2,7 +2,7 @@
 titulo: Grupos de Interés
 tipo: concepto
 fecha: 2026-04-21
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 tags: [grupos-de-interes, lobbies, coaliciones, incentivos, politica, tl-intel-v3]

@@ -1,7 +1,7 @@
 ---
 titulo: Tokenizacion de Activos Reales (RWA)
 tipo: "concepto"
-tier_primario: "a"
+capa_tema: "a"
 nivel_evidencia: "muy-alto"
 estado: activo
 tags: [finanzas, blockchain, rwa, control-tangible]

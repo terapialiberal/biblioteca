@@ -2,7 +2,7 @@
 titulo: Operacion Northwoods
 tipo: evento
 fecha: 2026-04-18
-tier_primario: B
+capa_tema: b
 nivel_evidencia: alto
 estado: activo
 aliases:

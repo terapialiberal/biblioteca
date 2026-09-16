@@ -2,7 +2,7 @@
 titulo: Impuesto Inflacionario
 tipo: "concepto"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [banco, efecto, impuesto, inflacionario]
@@ -22,7 +22,7 @@ publish: true
 ### Tier A (Los Dueños De La Imprenta)
 
 - **Bancos Centrales (Reserva Federal, BCE, BCRA):** El Tier A tiene el monopolio de la falsificación legal. Al ser los primeros en recibir y gastar el dinero nuevo (antes de que los precios suban), adquieren recursos reales al precio actual, traspasando el costo de la devaluación posterior al resto de la sociedad (**[[Efecto Cantillon]]**).
-- **Licuación de Deudas:** Los gobiernos de Tier A utilizan la inflación para licuar sus propias deudas impagables. Al devolver dinero que vale menos, le están robando el valor futuro a los acreedores y a los jubilados (Tier C).
+- **Licuación de Deudas:** Los gobiernos (Tier C) utilizan la inflación, en beneficio de los acreedores de Tier A para licuar sus propias deudas impagables. Al devolver dinero que vale menos, le están robando el valor futuro a los acreedores y a los jubilados (Tier C).
 
 ### Tier B (Operadores / Economistas De La "Multicausalidad")
 

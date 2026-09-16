@@ -4,7 +4,7 @@ titulo: "LessWrong"
 aliases: ["LessWrong"]
 tags: [racionalidad, ia, comunidad-online, altruismo-efectivo]
 tipo: concepto
-nivel: C
+capa_tema: c
 ---
 
 # LessWrong

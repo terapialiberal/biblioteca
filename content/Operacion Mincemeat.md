@@ -2,7 +2,7 @@
 titulo: "Operación Mincemeat: El Arte De La Realidad Fabricada"
 tipo: "evento"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [arte, fabricada, guerra, realidad]

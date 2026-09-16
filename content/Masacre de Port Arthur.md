@@ -3,7 +3,7 @@ titulo: "Masacre de Port Arthur"
 publish: true
 tipo: evento
 fecha: 2026-04-07
-tier_primario: B
+capa_tema: b
 moc_canonico: [[00_MOC - Operaciones Encubiertas]]
 estado: activo
 fuentes_clave: []

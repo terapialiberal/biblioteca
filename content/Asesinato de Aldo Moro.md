@@ -2,7 +2,7 @@
 titulo: Asesinato De Aldo Moro
 tipo: "evento"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [aldo, asesinato, moro, operacin]

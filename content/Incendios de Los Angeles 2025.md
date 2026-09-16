@@ -2,7 +2,7 @@
 titulo: Incendios De Los Ángeles 2025
 tipo: "evento"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: ["2025", agenda, incendios, ngeles]
@@ -23,9 +23,9 @@ publish: true
 
 - **Gentrificación Post-Fuego:** Las tierras devastadas por el fuego son compradas a descuento por fondos de inversión de Tier A. El incendio actúa como una "limpieza de inventario" forzada para desplazar a propietarios individuales y facilitar desarrollos corporativos compactos.
 
-### Tier B (Operadores / Políticos De California Y Gestión Hídrica)
+### Operadores / Políticos De California Y Gestión Hídrica
 
-- **Gavin Newsom / Karen Bass:** El Tier B político que culpó exclusivamente al "cambio climático" para evadir su responsabilidad directa en la falta de hidrantes operativos y el mantenimiento de las líneas eléctricas de PG\&E.
+- **Gavin Newsom / Karen Bass:** la capa política que culpó exclusivamente al "cambio climático" para evadir su responsabilidad directa en la falta de hidrantes operativos y el mantenimiento de las líneas eléctricas de PG\&E.
 - **Burocracia del Agua:** Operadores de Tier B que priorizan mandatos ideológicos (salvaguarda de especies invasoras en ríos) por sobre la seguridad hídrica de los centros urbanos, induciendo una vulnerabilidad artificial.
 
 ### Tier C (Narrativa Pública)

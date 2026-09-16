@@ -1,7 +1,7 @@
 ---
 titulo: Teoria del Internet Muerto
 tipo: "concepto"
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "alto"
 estado: activo
 tags: [tecnologia, narrativas, ia, bots, simulacro]

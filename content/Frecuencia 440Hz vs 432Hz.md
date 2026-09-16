@@ -5,7 +5,7 @@ fecha: 2026-04-27
 estado: activo
 aliases: ["Frecuencia 440Hz Vs 432Hz", "432Hz vs 440Hz"]
 tags: [432hz, 440hz, musica, afinacion, simbolismo, tl-intel-v3]
-tier_primario: c
+capa_tema: c
 nivel_evidencia: bajo
 publish: true
 ---

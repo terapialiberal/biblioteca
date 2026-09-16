@@ -2,7 +2,7 @@
 titulo: Derecho a Reparar (Right to Repair)
 tipo: "concepto"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [obsolescencia, repair, reparar, right]

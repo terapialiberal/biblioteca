@@ -2,7 +2,7 @@
 titulo: Hertz Vende Sus Teslas
 tipo: "concepto"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [agenda, hertz, teslas, vende]
@@ -21,7 +21,7 @@ publish: true
 
 ### Tier A (Los Dueños De La Agenda Verde forzada)
 
-- **Métricas ESG como Trampa:** El Tier A financiero utilizó las métricas de sustentabilidad para obligar a empresas como Hertz a realizar inversiones irracionales. El objetivo no era el beneficio de Hertz, sino la creación artificial de un mercado para la industria del EV que el Tier A controla.
+- **Métricas ESG como Trampa:** El Tier A utilizó las métricas de sustentabilidad para obligar a empresas como Hertz a realizar inversiones irracionales. El objetivo no era el beneficio de Hertz, sino la creación artificial de un mercado para la industria del EV que el Tier A controla.
 
 ### Tier B (Operadores / CEOs Y Gurúes Tecnológicos)
 

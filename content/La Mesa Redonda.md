@@ -18,7 +18,7 @@ publish: true
 
 ### Tier A: Los Curadores Del Imperio Invisible (The Society of the Elect)
 
-- **La Estrategia de los Círculos Concéntricos:** Según el historiador de la red, **Carroll Quigley**, la Mesa Redonda no es una organización pública, sino un sistema de capas. El núcleo interno decide la dirección estratégica (ej. la transición del patrón oro al crédito fiduciario), mientras que las capas externas (CFR, Chatham House) actúan como el mecanismo de venta y legitimación ante los gobiernos de Tier B. El Tier A de la Mesa Redonda es el arquitecto de la **[[Reserva Federal]]** (1913), devolviendo de facto el control de la soberanía estadounidense a la banca central privada de Londres y Wall Street.
+- **La Estrategia de los Círculos Concéntricos:** Según el historiador de la red, **Carroll Quigley**, la Mesa Redonda no es una organización pública, sino un sistema de capas. El núcleo interno decide la dirección estratégica (ej. la transición del patrón oro al crédito fiduciario), mientras que las capas externas (CFR, Chatham House) actúan como el mecanismo de venta y legitimación ante los gobiernos (Tier C). El Tier A de la Mesa Redonda es el arquitecto de la **[[Reserva Federal]]** (1913), devolviendo de facto el control de la soberanía estadounidense a la banca central privada de Londres y Wall Street.
 - **Tutelaje Global:** La visión de Rhodes era la de una aristocracia del talento que gestionara el destino de la humanidad por encima de la "fricción" democrática del [[Tier C]]. Para el Tier A, la Mesa Redonda es el garante de que la política internacional sea una **gestión de flujos y recursos** coordinada por expertos financieros.
 
 ### Tier B: Los Administradores Del Adoctrinamiento (Rhodes Scholars)

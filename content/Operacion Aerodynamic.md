@@ -2,7 +2,7 @@
 titulo: Operación Aerodynamic
 tipo: "evento"
 fecha: 2026-03-04
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "alto"
 estado: activo
 tags: [cia, ucrania, otan, insurgencia, guerra-fria]

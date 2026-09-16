@@ -2,7 +2,7 @@
 titulo: Sistema SPFS
 tipo: infraestructura
 fecha: 2026-04-22
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 aliases: ["Sistema SPFS: el Cortafuegos Financiero de la Eurasia Soberana", "SPFS", "System for Transfer of Financial Messages"]

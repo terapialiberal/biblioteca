@@ -2,7 +2,7 @@
 titulo: Conferencia de Bretton Woods
 tipo: evento
 fecha: 2026-04-17
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 tags: [bretton-woods, dolar, oro, fmi, banco-mundial, tl-intel-v3]

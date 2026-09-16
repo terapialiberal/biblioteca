@@ -2,7 +2,7 @@
 titulo: "Serco: El Subcontratista Del Apocalipsis"
 tipo: "concepto"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [apocalipsis, crown, serco, subcontratista]

@@ -2,7 +2,7 @@
 titulo: Disonancia Cognitiva (Isis)
 tipo: "concepto"
 fecha: 2026-03-04
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "alto"
 estado: activo
 tags: [psicologia, control-mental, isis, percepcion, disonancia]

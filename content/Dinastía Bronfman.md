@@ -4,7 +4,7 @@ titulo: "Dinastía Bronfman"
 aliases: ["Bronfman", "Familia Bronfman"]
 tags: [dinastia, alcohol, entretenimiento, filantropia, seagrams]
 tipo: dinastia
-nivel: B
+tier_primario: B
 ---
 
 # Dinastía Bronfman

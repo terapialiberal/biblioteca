@@ -8,7 +8,7 @@ tags:
   - infraestructura
   - eurnekian
 tipo: empresa
-nivel: C
+tier_primario: C
 titulo: Aeropuertos Argentina 2000
 ---
 

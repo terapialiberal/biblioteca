@@ -2,7 +2,6 @@
 titulo: Three Mile Island
 tipo: entidad
 fecha: 2026-02-25
-tier_primario: "a"
 nivel_evidencia: "alto"
 estado: activo
 tags: [azure, mile, santuario, three]
@@ -10,6 +9,8 @@ publish: true
 ---
 
 # Three Mile Island
+
+> **Clasificación (2026-09-15):** no es un actor (objeto, archivo o concepto): el tier clasifica actores, así que el campo se retira.
 
 #### BLUF
 

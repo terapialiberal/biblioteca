@@ -4,7 +4,7 @@ titulo: "Pilgrims Society"
 aliases: ["Pilgrims Society"]
 tags: [sociedad-discreta, anglo-americano, elite]
 tipo: red-discreta
-nivel: A
+tier_primario: A
 ---
 
 # Pilgrims Society

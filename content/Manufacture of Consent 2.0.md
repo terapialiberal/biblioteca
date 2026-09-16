@@ -2,7 +2,7 @@
 titulo: Manufacture of Consent 2.0
 tipo: concepto
 fecha: 2026-04-21
-tier_primario: b
+capa_tema: b
 nivel_evidencia: alto
 estado: activo
 tags: [manufacture-of-consent-2-0, medios, plataformas, propaganda, reputacion, tl-intel-v3]

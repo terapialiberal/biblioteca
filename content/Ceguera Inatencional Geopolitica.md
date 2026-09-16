@@ -5,7 +5,7 @@ fecha: 2026-04-27
 estado: activo
 aliases: ["Ceguera Inatencional Geopolítica"]
 tags: [ceguera-inatencional, geopolitica, percepcion, propaganda, tl-intel-v3]
-tier_primario: b
+capa_tema: b
 nivel_evidencia: alto
 publish: true
 ---

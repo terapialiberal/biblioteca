@@ -3,7 +3,7 @@ titulo: CBDC
 publish: true
 tipo: concepto
 fecha: 2026-04-18
-tier_primario: a
+capa_tema: a
 moc_canonico: [[00_MOC - Finanzas y CBDC]]
 estado: activo
 aliases: ["Moneda Digital de Banco Central", "CBDC (Moneda Digital de Banco Central)", "CBDCs"]

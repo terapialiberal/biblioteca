@@ -2,7 +2,7 @@
 titulo: "Pre-Crimen: La Abolición De La Inocencia"
 tipo: "concepto"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [crimen, inocencia, operation, palantir]

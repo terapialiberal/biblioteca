@@ -2,7 +2,7 @@
 titulo: Reality Privilege
 tipo: concepto
 fecha: 2026-04-19
-tier_primario: a
+capa_tema: a
 nivel_evidencia: medio
 estado: activo
 tags: [reality-privilege, clase, digitalizacion, inmersion, estratificacion, tl-intel-v3]

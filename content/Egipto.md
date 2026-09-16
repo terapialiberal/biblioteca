@@ -2,7 +2,7 @@
 titulo: Egipto
 tipo: nodo
 fecha: 2026-05-02
-tier_primario: b
+capa_tema: b
 nivel_evidencia: alto
 estado: activo
 aliases: ["Egipto (Geopolítica)"]

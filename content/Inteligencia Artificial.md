@@ -2,7 +2,7 @@
 titulo: "Inteligencia Artificial"
 tipo: concepto
 estado: activo
-tier_primario: a
+capa_tema: a
 nivel_evidencia: alto
 tags: [ia, inteligencia-artificial, datos, automatizacion, tl-intel-v3]
 publish: true

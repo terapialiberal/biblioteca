@@ -3,7 +3,7 @@ titulo: Manufactura de Consenso
 aliases: [Manufactura De Consenso, Manufacturing Consent]
 tipo: concepto
 fecha: 2026-04-19
-tier_primario: b
+capa_tema: b
 nivel_evidencia: alto
 estado: activo
 tags: [manufactura-de-consenso, medios, propaganda, control-social, consenso, tl-intel-v3]

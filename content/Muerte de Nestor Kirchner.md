@@ -2,7 +2,7 @@
 titulo: Muerte de Nestor Kirchner
 tipo: evento
 fecha: 2026-04-18
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 aliases: ["Muerte De Néstor Kirchner", "Muerte De Néstor Kirchner: El Mito Fundacional De La Radicalización"]

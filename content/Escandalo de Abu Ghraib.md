@@ -2,7 +2,7 @@
 titulo: Escándalo De Abu Ghraib
 tipo: "evento"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [caci, donald, escndalo, ghraib]
@@ -21,7 +21,7 @@ publish: true
 
 ### Tier A (Los Arquitectos De La Impunidad)
 
-- **Memorándums de la Tortura:** Los abogados del Tier A (como Jay Bybee y John Yoo) redactaron documentos legales para redefinir el concepto de tortura, permitiendo que el Tier A político diera la orden de "quitarse los guantes" sin temor a juicios por crímenes de guerra. Ningún alto mando de Tier A fue a prisión por Abu Ghraib; los platos rotos los pagaron los soldados de bajo rango (Tier C militar).
+- **Memorándums de la Tortura:** Los abogados del Tier A (como Jay Bybee y John Yoo) redactaron documentos legales para redefinir el concepto de tortura, permitiendo que la dirigencia política diera la orden de "quitarse los guantes" sin temor a juicios por crímenes de guerra. Ningún alto mando de Tier A fue a prisión por Abu Ghraib; los platos rotos los pagaron los soldados de bajo rango (Tier C militar).
 
 ### Tier B (Operadores / Psicólogos Y Contratistas)
 

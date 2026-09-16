@@ -2,7 +2,7 @@
 titulo: "Tokamak Energy / Fusión Nuclear"
 tipo: concepto
 fecha: 2026-02-25
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 tags: [tokamak, fusion-nuclear, energia, infraestructura, technocracy, tl-intel-v3]

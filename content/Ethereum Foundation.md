@@ -15,13 +15,13 @@ publish: true
 
 **¿Qué es?** Una organización sin fines de lucro con sede en Suiza dedicada a apoyar el desarrollo del protocolo Ethereum y sus tecnologías relacionadas.
 
-**¿Por qué importa?** La Ethereum Foundation (EF) es el **"Gobierno en las Sombras" de la segunda red criptográfica más grande**. A diferencia de Bitcoin, que no tiene una entidad central, Ethereum nació y se mantiene bajo la tutela de la EF y de su figura mesiánica, **[[Vitalik Buterin]]**. La fundación controla enormes reservas de ETH (obtenidas en la preventa original de 2014) que utiliza para financiar grants y decidir qué actualizaciones se implementan. Esto plantea un dilema de Tier B: ¿puede una red que aspira a la descentralización estar gobernada por una fundación suiza que debe cumplir con regulaciones estatales y que tiene el poder de influir en el consenso? La transición a **Proof of Stake (The Merge)** en 2022 consolidó este poder, facilitando que el Tier A estatal/financiero pueda presionar a la Fundación para censurar transacciones (OFAC compliance), lo que pone en riesgo la neutralidad de la red.
+**¿Por qué importa?** La Ethereum Foundation (EF) es el **"Gobierno en las Sombras" de la segunda red criptográfica más grande**. A diferencia de Bitcoin, que no tiene una entidad central, Ethereum nació y se mantiene bajo la tutela de la EF y de su figura mesiánica, **[[Vitalik Buterin]]**. La fundación controla enormes reservas de ETH (obtenidas en la preventa original de 2014) que utiliza para financiar grants y decidir qué actualizaciones se implementan. Esto plantea un dilema de Tier B: ¿puede una red que aspira a la descentralización estar gobernada por una fundación suiza que debe cumplir con regulaciones estatales y que tiene el poder de influir en el consenso? La transición a **Proof of Stake (The Merge)** en 2022 consolidó este poder, facilitando que el aparato estatal y financiero (capa B) pueda presionar a la Fundación para censurar transacciones (OFAC compliance), lo que pone en riesgo la neutralidad de la red.
 
 ## Análisis De Poder (Tiers)
 
 ### Tier A (La Captura Del "Computador Mundial")
 
-- **Regulación y Censura:** El Tier A financiero (JP Morgan, Goldman Sachs) está profundamente integrado en el ecosistema Ethereum. La EF es el interlocutor necesario para que el sistema se vuelva "amigable" para las monedas digitales de bancos centrales (**[[CBDC]]**). La centralización de los nodos en servicios de nube como AWS (Amazon) permite al Tier A apagar la red si la EF no coopera.
+- **Regulación y Censura:** El Tier A (JP Morgan, Goldman Sachs) está profundamente integrado en el ecosistema Ethereum. La EF es el interlocutor necesario para que el sistema se vuelva "amigable" para las monedas digitales de bancos centrales (**[[CBDC]]**). La centralización de los nodos en servicios de nube como AWS (Amazon) permite al Tier A apagar la red si la EF no coopera.
 
 ### Tier B (Operadores / Vitalik Y Los Devs)
 

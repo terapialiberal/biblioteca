@@ -2,7 +2,7 @@
 titulo: Invasión De Panamá (1989)
 tipo: "evento"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [canal, george, invasin, panam]
@@ -21,11 +21,11 @@ publish: true
 
 ### Tier A (Los Dueños Del Paso Estratégico)
 
-- **Control del Canal:** El Tier A financiero y militar estadounidense no podía permitir que un operador inestable manejara el Canal de Panamá antes de su transferencia oficial en 1999. La invasión aseguró que el nuevo gobierno fuera un títere dócil que mantuviera los intereses comerciales de EE.UU. en la ruta marítima más crítica del hemisferio.
+- **Control del Canal:** El Tier A y militar estadounidense no podía permitir que un operador inestable manejara el Canal de Panamá antes de su transferencia oficial en 1999. La invasión aseguró que el nuevo gobierno fuera un títere dócil que mantuviera los intereses comerciales de EE.UU. en la ruta marítima más crítica del hemisferio.
 
 ### Tier B (Operadores / Manuel Noriega Y George H.W. Bush)
 
-- **George H.W. Bush (El ex-jefe que silencia):** Como presidente, Bush ordenó la invasión para capturar al hombre que conocía todos los "trapos sucios" de sus días en la CIA. El juicio a Noriega se convirtió en una parodia legal donde se prohibió mencionar su relación con la inteligencia estadounidense, protegiendo al Tier B político de Washington.
+- **George H.W. Bush (El ex-jefe que silencia):** Como presidente, Bush ordenó la invasión para capturar al hombre que conocía todos los "trapos sucios" de sus días en la CIA. El juicio a Noriega se convirtió en una parodia legal donde se prohibió mencionar su relación con la inteligencia estadounidense, protegiendo a la capa política de Washington.
 - **Manuel Noriega:** El operador de Tier B que creyó ser indispensable. Su caída enseña que en el Tier B, la lealtad es un bien de consumo descartable y que nadie es demasiado útil para no ser bombardeado si se vuelve un obstáculo.
 
 ### Tier C (Narrativa Pública)

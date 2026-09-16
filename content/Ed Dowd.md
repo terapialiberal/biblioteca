@@ -2,7 +2,7 @@
 titulo: Ed Dowd
 tipo: persona
 fecha: '2026-05-29'
-tier: A
+tier_primario: A
 rol: 'Ex-BlackRock, autor de "The Great Taking", analista financiero'
 estado: activo
 tags:

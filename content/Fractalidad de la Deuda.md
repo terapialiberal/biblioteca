@@ -4,7 +4,7 @@ tipo: patron
 fecha: 2026-04-27
 estado: activo
 tags: [fractalidad-deuda, deuda, sistema-financiero, dependencia, tl-intel-v3]
-tier_primario: a
+capa_tema: a
 nivel_evidencia: medio
 publish: true
 ---

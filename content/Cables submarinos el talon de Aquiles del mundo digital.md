@@ -6,7 +6,7 @@ https: //www.dw.com/es/cables-submarinos-el-tal%C3%B3n-de-aquiles-del-mundo-digi
 tipo: concepto
 fecha: 2025-01-30T00:00:00.000Z
 usado en: null
-tier: null
+
 estado: activo
 tags: [cables-submarinos, conectividad-global, internet, seguridad-infraestructura-critica, tecnologia-telecomunicaciones]
 publish: true

@@ -4,7 +4,7 @@ titulo: "Censura Digital"
 aliases: ["Censura Digital", "Censura Digital / Operación Mockingbird 2.0", "Censura Digital / Shadowbanning", "Censorship-Industrial Complex"]
 tags: [concepto, censura, internet, control]
 tipo: concepto
-nivel: B
+capa_tema: b
 ---
 
 # Censura Digital

@@ -4,7 +4,7 @@ titulo: "Azerbaiyán"
 aliases: ["Azerbaiyán"]
 tags: [pais, caucaso, petroleo, conflicto]
 tipo: pais
-nivel: C
+tier_primario: C
 ---
 
 # Azerbaiyán

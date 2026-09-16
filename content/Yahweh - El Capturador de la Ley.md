@@ -2,7 +2,7 @@
 titulo: Yahweh - El Capturador de la Ley
 tipo: "concepto"
 fecha: 2026-03-04
-tier_primario: "a"
+capa_tema: "a"
 nivel_evidencia: "alto"
 estado: activo
 tags: [esoterismo, arquetipo, ley, control, yahweh]

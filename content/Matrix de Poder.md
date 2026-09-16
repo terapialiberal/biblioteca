@@ -2,7 +2,7 @@
 titulo: Matrix de Poder
 tipo: concepto
 fecha: 2026-04-17
-tier_primario: a
+capa_tema: a
 nivel_evidencia: medio
 estado: activo
 tags: [matrix, poder, coordinacion, arquitectura, control, tl-intel-v3]

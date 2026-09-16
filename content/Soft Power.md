@@ -2,7 +2,7 @@
 titulo: Soft Power
 tipo: concepto
 fecha: 2026-05-02
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 aliases: ["Poder blando", "Hard Power", "Smart Power", "Soft Power (Poder Blando)"]

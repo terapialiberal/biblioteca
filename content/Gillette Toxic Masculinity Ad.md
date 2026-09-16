@@ -2,7 +2,7 @@
 titulo: 'Gillette "The Best Men Can Be" (2019)'
 tipo: "concepto"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [ideolog, ingenier, masculinity, toxic]
@@ -21,7 +21,7 @@ publish: true
 
 ### Tier A (Los Diseadores De La Batalla Cultural)
 
-- **Incentivos ESG:** El Tier A financiero recompens a P\&G no por sus ventas, sino por su alineacin con la agenda de demolicin de roles de gnero tradicionales. Para el Tier A, es preferible que una marca pierda dinero si a cambio logra "educar" (domesticar) a la poblacin de Tier C.
+- **Incentivos ESG:** El Tier A recompens a P\&G no por sus ventas, sino por su alineacin con la agenda de demolicin de roles de gnero tradicionales. Para el Tier A, es preferible que una marca pierda dinero si a cambio logra "educar" (domesticar) a la poblacin de Tier C.
 - **Fragmentacin Social:** Al atacar la identidad masculina, el Tier A asegura que la base de la sociedad (la familia y la fraternidad) se debilite, dejando individuos aislados y ms fciles de controlar por el Estado.
 
 ### Tier B (Operadores / Agencias De Publicidad Y HR)

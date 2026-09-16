@@ -2,7 +2,7 @@
 titulo: Hugo Chávez
 tipo: "persona"
 fecha: 2026-02-25
-tier_primario: "b"
+tier_primario: c
 nivel_evidencia: "medio"
 estado: activo
 tags: [chvez, fidel, foro, hugo]
@@ -10,6 +10,8 @@ publish: true
 ---
 
 # Hugo Chávez
+
+> **Clasificación (2026-09-15):** cargo político de gobierno: cuadro visible y reemplazable (Tier C por canon).
 
 ## Perfil TL (Resumen Ejecutivo)
 

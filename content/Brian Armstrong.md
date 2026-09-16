@@ -4,7 +4,7 @@ titulo: "Brian Armstrong"
 aliases: ["Brian Armstrong"]
 tags: [actor, cripto, coinbase]
 tipo: actor
-nivel: B
+tier_primario: B
 ---
 
 # Brian Armstrong

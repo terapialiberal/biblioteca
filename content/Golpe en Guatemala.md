@@ -2,7 +2,7 @@
 titulo: Golpe En Guatemala (1954)
 tipo: "evento"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [allen, edward, golpe, guatemala]
@@ -21,7 +21,7 @@ publish: true
 
 ### Tier A (Los Dueños De La United Fruit)
 
-- **La Bananera como Estado:** La United Fruit Company (hoy Chiquita) funcionaba como un soberano en Centroamérica. El Tier A financiero utilizó su control sobre el gobierno de EE.UU. para movilizar al ejército y la inteligencia a favor de su balance contable.
+- **La Bananera como Estado:** La United Fruit Company (hoy Chiquita) funcionaba como un soberano en Centroamérica. El Tier A utilizó su control sobre el gobierno de EE.UU. para movilizar al ejército y la inteligencia a favor de su balance contable.
 - **Los Hermanos Dulles:** Representan la fusión total entre el Tier A legal/corporativo y el Tier B operativo del Estado. Defendieron a sus clientes de Wall Street usando bombas y mercenarios.
 
 ### Tier B (Operadores / CIA Y Bernays)

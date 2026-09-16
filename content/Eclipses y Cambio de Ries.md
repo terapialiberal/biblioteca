@@ -1,7 +1,7 @@
 ---
 titulo: Eclipses y Cambio de Rieles
 tipo: "concepto"
-tier_primario: "a"
+capa_tema: "a"
 nivel_evidencia: "medio"
 estado: activo
 tags: [esoterismo, astrologia, ciclos, eventos, poder]

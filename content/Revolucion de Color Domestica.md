@@ -2,7 +2,7 @@
 titulo: Revolucion de Color Domestica
 tipo: concepto
 fecha: 2026-04-24
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 aliases: ["Revolucion de Color (Domestica)", "Revolución de Color Doméstica"]

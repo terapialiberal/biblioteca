@@ -3,7 +3,7 @@ titulo: "ICC - John Denton"
 publish: true
 tipo: entidad
 fecha: 2026-08-06
-tier_primario: A
+tier_primario: b
 nivel_evidencia: "alto"
 estado: activo
 aliases: ["Cámara de Comercio Internacional", "International Chamber of Commerce", "John Denton"]
@@ -11,6 +11,8 @@ tags: [icc, onu, ormuz, chokepoint, gobernanza-tecnocratica, peaje]
 ---
 
 # ICC — Cámara de Comercio Internacional (John Denton)
+
+> **Clasificación (2026-09-15):** no es dueño del capital: vehículo operativo o aparato estatal (Tier B por canon).
 
 > [!abstract] PERFIL TL-INTEL
 > La ICC (International Chamber of Commerce) es la organización empresarial global que articuló el plan respaldado por la ONU para reabrir el estrecho de Ormuz tras la guerra con Irán. En TL importa como el arquitecto institucional de la **gobernanza tecnocrática no electa de los chokepoints**: el organismo "neutral" que administra el tránsito cuando el Estado soberano ya no puede garantizar el flujo.

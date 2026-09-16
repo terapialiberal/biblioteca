@@ -2,7 +2,7 @@
 titulo: Gavin Newsom
 tipo: "persona"
 fecha: 2026-02-25
-tier_primario: "b"
+tier_primario: c
 nivel_evidencia: "medio"
 estado: activo
 tags: [familia, gavin, nancy, newsom]
@@ -11,11 +11,14 @@ publish: true
 
 # Gavin Newsom
 
+> **Clasificación (2026-09-15):** cargo político de gobierno: cuadro visible y reemplazable (Tier C por canon).
+> **Nota de vocabulario:** donde esta ficha usa «Tier A / Tier B / Tier C» en encabezados de sección, usa el vocabulario anterior al canon de actores (capas de la estructura: dueños / operadores / cara visible). La clasificación de este sujeto es la del frontmatter (`tier_primario` en actores, `capa_tema` en objetos).
+
 ## Perfil TL (Resumen Ejecutivo)
 
 **¿Quién es?** Actual Gobernador de California y figura ascendente del Partido Demócrata, posicionado como el sucesor ideológico y estético del establishment globalista.
 
-**¿Por qué importa?** Gavin Newsom es el **operador de Tier B de "Laboratorio" diseñado por la oligarquía de San Francisco**. No es un político orgánico; es un producto financiero y social de la **[[Familia Getty]]**, quienes financiaron todos sus negocios y su carrera política desde el inicio. Newsom representa la **"Californicación" de la política**: una estética de Hollywood combinada con políticas radicales de Tier A que incluyen lockdowns extremos, mandatos de identidad de género en niños y des-industrialización mediante agendas climáticas. Durante la pandemia, Newsom se convirtió en el símbolo de la hipocresía de las élites (**Escándalo del French Laundry**), demostrando que para el Tier B, las leyes son herramientas de control para el Tier C, no límites para ellos mismos. Es el candidato preferido del Tier A para implementar el "Gran Reinicio" a nivel nacional.
+**¿Por qué importa?** Gavin Newsom es **la cara política visible (Tier C)** del "Laboratorio" diseñado por la oligarquía de San Francisco: opera para la capa dueña (Tier A). No es un político orgánico; es un producto financiero y social de la **[[Familia Getty]]**, quienes financiaron todos sus negocios y su carrera política desde el inicio. Newsom representa la **"Californicación" de la política**: una estética de Hollywood combinada con políticas radicales de Tier A que incluyen lockdowns extremos, mandatos de identidad de género en niños y des-industrialización mediante agendas climáticas. Durante la pandemia, Newsom se convirtió en el símbolo de la hipocresía de las élites (**Escándalo del French Laundry**), demostrando que para el Tier B, las leyes son herramientas de control para el Tier C, no límites para ellos mismos. Es el candidato preferido del Tier A para implementar el "Gran Reinicio" a nivel nacional.
 
 ## Análisis De Poder (Tiers)
 

@@ -2,7 +2,7 @@
 titulo: Valijas de Antonini Wilson
 tipo: evento
 fecha: 2026-04-18
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 tags: [argentina, antonini, valijas, financiamiento, kirchnerismo, tl-intel-v3]

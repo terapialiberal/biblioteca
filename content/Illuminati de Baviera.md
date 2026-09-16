@@ -37,4 +37,4 @@ publish: true
 
 ## Cui Bono
 
-¿Quién ganó? El **Racionalismo Administrativo**. Los Illuminati sentaron las bases para que el Estado moderno se liberara de la tutela religiosa, permitiendo que el Tier A financiero operara sin las limitaciones morales de la antigua cristiandad.
+¿Quién ganó? El **Racionalismo Administrativo**. Los Illuminati sentaron las bases para que el Estado moderno se liberara de la tutela religiosa, permitiendo que el Tier A operara sin las limitaciones morales de la antigua cristiandad.

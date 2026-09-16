@@ -21,11 +21,11 @@ publish: true
 
 ### Tier A (Los Dueños De La Continuidad Del Sistema)
 
-- **Veto al Populismo:** El Tier A financiero decidió que un candidato como Sanders era una amenaza para los tratados de libre comercio (NAFTA/TPP) y el complejo militar-industrial. La orden de "detener a Bernie" bajó a través de los donantes de Tier A, obligando a los operadores de Tier B a romper sus propias reglas democráticas.
+- **Veto al Populismo:** El Tier A decidió que un candidato como Sanders era una amenaza para los tratados de libre comercio (NAFTA/TPP) y el complejo militar-industrial. La orden de "detener a Bernie" bajó a través de los donantes de Tier A, obligando a los operadores de Tier B a romper sus propias reglas democráticas.
 
 ### Tier B (Operadores / Debbie Wasserman Schultz Y Hillary Clinton)
 
-- **Debbie Wasserman Schultz (Presidenta DNC):** La operadora de Tier B que tuvo que renunciar tras filtrarse los mails que probaban su parcialidad. Ella personificó el uso del aparato burocrático para asfixiar a los movimientos de base.
+- **Debbie Wasserman Schultz (Presidenta DNC):** La operadora política (capa C) que tuvo que renunciar tras filtrarse los mails que probaban su parcialidad. Ella personificó el uso del aparato burocrático para asfixiar a los movimientos de base.
 - **Donna Brazile:** Operadora de Tier B que entregó preguntas de los debates a la campaña de Clinton por adelantado, demostrando que el "show electoral" es una coreografía diseñada por bastidores.
 
 ### Tier C (Narrativa Pública)

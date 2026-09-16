@@ -1,7 +1,7 @@
 ---
 titulo: Saturno y Deuda
 tipo: "concepto"
-tier_primario: "a"
+capa_tema: "a"
 nivel_evidencia: "medio"
 estado: activo
 tags: [esoterismo, arqueo-finanzas, saturno, deuda, contrato]

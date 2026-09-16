@@ -2,7 +2,7 @@
 titulo: Guerra De Oligarcas Rusos (Síndrome De La Ventana)
 tipo: "evento"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [rusos, sndrome, ventana, vladimir]

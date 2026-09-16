@@ -21,7 +21,7 @@ publish: true
 
 ### Tier A (Los Beneficiarios Finales)
 
-- **Finanzas Transnacionales:** Aunque Eskenazi parezca el protagonista, el Tier A financiero (JP Morgan, Credit Suisse) fue el que estructuró el préstamo para la compra de YPF, cobrando comisiones masivas por un negocio sin riesgo real.
+- **Finanzas Transnacionales:** Aunque Eskenazi parezca el protagonista, el Tier A (JP Morgan, Credit Suisse) fue el que estructuró el préstamo para la compra de YPF, cobrando comisiones masivas por un negocio sin riesgo real.
 - **Burford Capital:** El Tier A judicial/financiero que compró "el cadáver" del negocio de Eskenazi para ejecutar al Estado Argentino en tribunales internacionales por una cifra astronómica.
 
 ### Tier B (Operadores / La Burguesía Nacional De Mentira)

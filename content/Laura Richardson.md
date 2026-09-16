@@ -4,7 +4,7 @@ titulo: "Laura Richardson"
 aliases: ["Laura Richardson"]
 tags: [actor, militar, SOUTHCOM]
 tipo: actor
-nivel: B
+tier_primario: B
 ---
 
 # Laura Richardson

@@ -2,7 +2,7 @@
 titulo: "Modificación Del Clima: El Arma De Dominación Invisible"
 tipo: "concepto"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [arma, clima, haarp, invisible]
@@ -23,7 +23,7 @@ publish: true
 
 ### Tier B: La Gestión De La "Emergencia"
 
-- **La Cobertura del "Cambio Climático":** El Tier B político y mediático atribuye todos los eventos climáticos extremos al CO2 antropogénico ("Culpa del Tier C"), ocultando sistemáticamente el impacto de la geoingeniería militar. Esta narrativa permite imponer impuestos al carbono y restricciones de movilidad, mientras los verdaderos modificadores del clima operan impunes en la estratosfera.
+- **La Cobertura del "Cambio Climático":** la capa política y mediática atribuye todos los eventos climáticos extremos al CO2 antropogénico ("Culpa del Tier C"), ocultando sistemáticamente el impacto de la geoingeniería militar. Esta narrativa permite imponer impuestos al carbono y restricciones de movilidad, mientras los verdaderos modificadores del clima operan impunes en la estratosfera.
 - **Bill Gates y SCoPEx:** La financiación pública de experimentos para "tapar el sol" normaliza la intervención radical en la biósfera. Se vende como filantropía, pero es el intento de establecer un termostato global controlado por una élite tecnocrática.
 
 ### Tier C: Las Víctimas Del Ecocidio

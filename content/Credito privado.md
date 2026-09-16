@@ -3,7 +3,7 @@ publish: true
 titulo: "Credito privado"
 tipo: concepto
 fecha: 2026-04-13
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 tags: [credito, finanzas, private-credit, bdc, hedge]

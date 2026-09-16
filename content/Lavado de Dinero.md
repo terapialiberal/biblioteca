@@ -2,7 +2,7 @@
 titulo: "Lavado de Dinero"
 tipo: concepto
 estado: activo
-tier_primario: b
+capa_tema: b
 nivel_evidencia: alto
 tags: [lavado-de-dinero, crimen-financiero, banca, offshore, tl-intel-v3]
 publish: true

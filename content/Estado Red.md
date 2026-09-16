@@ -21,7 +21,7 @@ publish: true
 
 ### Tier A (Los Nuevos Fundadores)
 
-- **Soberanía Digital:** El Tier A tecnológico busca competir directamente con el Tier A político. Al crear sus propios estados, se saltan la autoridad de las naciones existentes, pudiendo experimentar con biotecnología, IA sin restricciones y sistemas monetarios paralelos (**[[Bitcoin]]**) sin supervisión estatal.
+- **Soberanía Digital:** El Tier A tecnológico busca competir directamente con la dirigencia política. Al crear sus propios estados, se saltan la autoridad de las naciones existentes, pudiendo experimentar con biotecnología, IA sin restricciones y sistemas monetarios paralelos (**[[Bitcoin]]**) sin supervisión estatal.
 
 ### Tier B (Operadores / Los Arquitectos Del Archipiélago)
 

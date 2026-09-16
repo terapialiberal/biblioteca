@@ -4,7 +4,7 @@ titulo: "Ariel Sharon"
 aliases: ["Ariel Sharon"]
 tags: [actor, israel, militar, likud]
 tipo: actor
-nivel: B
+tier_primario: B
 ---
 
 # Ariel Sharon

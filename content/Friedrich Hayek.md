@@ -21,7 +21,7 @@ publish: true
 
 ### Tier A (Los Dueños De La Libertad Selectiva)
 
-- **Uso del Neoliberalismo:** El Tier A financiero utilizó las ideas de Hayek sobre el "orden espontáneo" para justificar la desregulación bancaria. Al quitarle poder al Estado (Tier B político) para intervenir en la economía, el poder real se transfirió a los dueños del capital (Tier A), que ahora operan sin fronteras ni controles democráticos.
+- **Uso del Neoliberalismo:** El Tier A utilizó las ideas de Hayek sobre el "orden espontáneo" para justificar la desregulación bancaria. Al quitarle poder al Estado (capa política) para intervenir en la economía, el poder real se transfirió a los dueños del capital (Tier A), que ahora operan sin fronteras ni controles democráticos.
 - **Financiamiento de Think Tanks:** El Tier A inyectó fortunas en la red de organizaciones (como la Heritage Foundation o el IEA) que propagaron el pensamiento de Hayek, asegurando que su visión fuera la única permitida en las facultades de economía y los bancos centrales.
 
 ### Tier B (Operadores / La Mont Pelerin Society)

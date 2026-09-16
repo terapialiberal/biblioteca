@@ -2,7 +2,7 @@
 titulo: Reanclaje Hibrido
 tipo: concepto
 fecha: 2026-04-20
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 tags: [reanclaje-hibrido, dolar, treasuries, petrodolar, reset-monetario, tl-intel-v3]

@@ -2,7 +2,7 @@
 titulo: Crisis Del Canal De Suez (1956)
 tipo: "evento"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: ["1956", canal, crisis, suez]

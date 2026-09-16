@@ -4,7 +4,7 @@ titulo: "California"
 aliases: ["California"]
 tags: [estado, eeuu, tecnologia, economia]
 tipo: estado
-nivel: B
+tier_primario: B
 ---
 
 # California

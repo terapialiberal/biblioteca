@@ -2,7 +2,7 @@
 titulo: Genetic Tagging
 tipo: concepto
 fecha: 2026-04-17
-tier_primario: a
+capa_tema: a
 nivel_evidencia: medio
 estado: activo
 tags: [genetic-tagging, adn, propiedad-biologica, trazabilidad, tl-intel-v3]

@@ -2,7 +2,7 @@
 titulo: Biopolitica
 tipo: concepto
 fecha: 2026-04-21
-tier_primario: a
+capa_tema: a
 nivel_evidencia: medio
 estado: activo
 aliases: ["Biopolítica"]

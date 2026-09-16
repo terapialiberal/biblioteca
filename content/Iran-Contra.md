@@ -2,7 +2,7 @@
 titulo: Irán-Contra
 tipo: "concepto"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [contra, george, irn, oliver]
@@ -21,7 +21,7 @@ publish: true
 
 ### Tier A (Los Dueños De Las Guerras Sucias)
 
-- **Financiamiento Paralelo:** El Tier A financiero y de inteligencia (CFR/Agencias) diseñó Irán-Contra para crear un "presupuesto negro" independiente del control del Congreso. Al tener su propia fuente de dinero (drogas/armas), la inteligencia de Tier A se vuelve soberana respecto a la democracia.
+- **Financiamiento Paralelo:** El Tier A y de inteligencia (CFR/Agencias) diseñó Irán-Contra para crear un "presupuesto negro" independiente del control del Congreso. Al tener su propia fuente de dinero (drogas/armas), la inteligencia de Tier A se vuelve soberana respecto a la democracia.
 
 ### Tier B (Operadores / Oliver North Y Bush Padre)
 

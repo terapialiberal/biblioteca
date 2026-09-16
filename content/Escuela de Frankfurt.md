@@ -2,7 +2,7 @@
 titulo: Escuela De Frankfurt
 tipo: "concepto"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [correccin, escuela, frankfurt, marxismo]
@@ -21,7 +21,7 @@ publish: true
 
 ### Tier A (Los Ingenieros Del Virus Mental)
 
-- **Teoría Crítica como Arma:** El Tier A utiliza las ideas de Frankfurt para fragmentar a la sociedad de Tier C en miles de subgrupos de identidad enfrentados entre sí (raza, género, orientación sexual). Mientras el pueblo pelea por pronombres o estatuas, el Tier A financiero y tecnológico consolida el control total sobre los recursos y el dinero sin oposición unificada.
+- **Teoría Crítica como Arma:** El Tier A utiliza las ideas de Frankfurt para fragmentar a la sociedad de Tier C en miles de subgrupos de identidad enfrentados entre sí (raza, género, orientación sexual). Mientras el pueblo pelea por pronombres o estatuas, el Tier A y tecnológico consolida el control total sobre los recursos y el dinero sin oposición unificada.
 - **Conexión Columbia/CIA:** Tras huir de la Alemania nazi, la escuela fue recibida con honores en la Universidad de Columbia. Se ha documentado su colaboración con sectores de la inteligencia (vía Office of Strategic Services - precursora de la CIA) para el análisis de la psicología de masas y la desnasificación, que luego se aplicó para la "reeducación" de la población estadounidense.
 
 ### Tier B (Operadores / El Profesorado Y Los Activistas)

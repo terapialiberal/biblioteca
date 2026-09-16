@@ -4,7 +4,7 @@ titulo: "David Rockefeller"
 aliases: ["David Rockefeller"]
 tags: [actor, banquero, cfr, bilderberg, trilateral]
 tipo: actor
-nivel: A
+tier_primario: A
 ---
 
 # David Rockefeller

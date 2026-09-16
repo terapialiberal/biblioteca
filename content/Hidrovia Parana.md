@@ -2,7 +2,7 @@
 titulo: Hidrovia Parana
 tipo: infraestructura
 fecha: 2026-04-18
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 aliases: ["Hidrovia Parana", "Hidrovia Parana-Paraguay"]

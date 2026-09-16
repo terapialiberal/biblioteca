@@ -5,7 +5,7 @@ link: https://dossiergeopolitico.com/2025/05/15/10485/
 tipo: "concepto"
 fecha: 2001-05-15T00:00:00.000Z
 usado en: null
-tier: null
+
 estado: activo
 tags: [conflictos-guerra-fria, estrategia-contencion, geopolitica-spykman, geopolitica-teoria-rimland, poder-maritimo]
 publish: true

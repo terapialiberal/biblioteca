@@ -3,7 +3,7 @@ titulo: Acuifero Guarani
 publish: true
 tipo: recurso-estrategico
 fecha: 2026-04-18
-tier_primario: b
+capa_tema: b
 moc_canonico: [[00_MOC - Argentina]]
 estado: activo
 aliases: ["Acuifero Guarani", "Acuifero Guarani (Argentina)"]

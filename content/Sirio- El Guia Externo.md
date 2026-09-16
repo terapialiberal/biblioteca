@@ -5,7 +5,7 @@ fecha: 2026-04-27
 estado: activo
 aliases: ["Sirio: El Guía Externo", "Sirio"]
 tags: [sirio, guia-externo, astro-simbolismo, esoterismo, tl-intel-v3]
-tier_primario: c
+capa_tema: c
 nivel_evidencia: bajo
 publish: true
 ---

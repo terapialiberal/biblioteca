@@ -2,7 +2,7 @@
 publish: true
 titulo: "Gaza Marine"
 tipo: concepto
-tier_primario: a
+capa_tema: a
 nivel_evidencia: alto
 estado: activo
 tags: [gaza, gas, mediterraneo-oriental, imec, pa, israel, activo-tier-a, energia, 7-octubre, tl-intel-v3]

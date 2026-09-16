@@ -4,7 +4,7 @@ tipo: "concepto"
 fecha: 2026-02-25
 estado: activo
 tags: [diplomacia, john, rosacrucismo, royal]
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 publish: true
 ---

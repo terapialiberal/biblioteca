@@ -2,7 +2,7 @@
 titulo: Total Information Awareness
 tipo: programa
 fecha: 2026-04-17
-tier_primario: b
+capa_tema: b
 nivel_evidencia: alto
 estado: activo
 aliases: ["TIA", "Information Awareness Office"]

@@ -5,7 +5,7 @@ fecha: 2026-04-27
 estado: activo
 aliases: ["Neptuno Y El Velo De La Ilusión"]
 tags: [neptuno, ilusion, simbolismo, propaganda, percepcion, tl-intel-v3]
-tier_primario: c
+capa_tema: c
 nivel_evidencia: bajo
 publish: true
 ---

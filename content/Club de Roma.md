@@ -4,7 +4,7 @@ titulo: "Club de Roma"
 aliases: ["Clube de Roma"]
 tags: [think-tank, globalismo, limites-crecimiento, poblacion]
 tipo: think-tank
-nivel: A
+tier_primario: A
 ---
 
 # Club de Roma

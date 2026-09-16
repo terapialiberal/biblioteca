@@ -21,7 +21,7 @@ publish: true
 - **Presupuestos Negros (Black Budgets):** El Tier A necesita dinero que no tenga que ser fiscalizado por el Congreso para ejecutar golpes de estado y guerras sucias. Mena fue la solución logística: cambiar armas por drogas, vender las drogas en las calles de EE.UU. (creando la crisis del crack) y usar ese efectivo sucio para financiar la expansión imperial.
 - **La Selección del Líder:** Bill Clinton no llegó a la presidencia a pesar de Mena, sino **gracias a Mena**. Su disposición para encubrir una operación de tal magnitud probó su lealtad absoluta al "Deep State". El Tier A lo recompensó con la Casa Blanca, sabiendo que tenían el **Kompromat** definitivo sobre él.
 
-### Tier B: Los Operadores De La Ruta (Pilotos Y Políticos)
+### Los Operadores De La Ruta (Pilotos Y Políticos)
 
 - **Barry Seal y la Logística:** Barry Seal, el piloto más famoso de la operación, es el arquetipo del operador de Tier B: eficiente, audaz, pero prescindible. Transportaba ametralladoras hacia el sur y cocaína hacia el norte. Cuando se convirtió en un riesgo de relaciones públicas, el sistema (incluyendo la Casa Blanca de Bush y la justicia local) filtró su cooperación para que el Cartel de Medellín lo ejecutara. El Tier B limpia sus propios desastres con sangre.
 - **La Lavadora de Dinero Estatal:** La agencia estatal **ADFA** (Arkansas Development Finance Authority), creada por Clinton, funcionó como el mecanismo de lavado institucional, inyectando el dinero narco en la economía legal de Arkansas a través de bonos y préstamos a "amigos".

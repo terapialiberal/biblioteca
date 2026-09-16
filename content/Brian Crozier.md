@@ -4,7 +4,7 @@ titulo: "Brian Crozier"
 aliases: ["Brian Crozier"]
 tags: [actor, inteligencia, propaganda, guerra-fria]
 tipo: actor
-nivel: B
+tier_primario: B
 ---
 
 # Brian Crozier

@@ -3,7 +3,7 @@ publish: true
 titulo: Treasuries
 tipo: concepto
 fecha: 2026-04-19
-tier_primario: a
+capa_tema: a
 nivel_evidencia: medio
 estado: activo
 tags: [treasuries, deuda-eeuu, dolar, reanclaje, tl-intel-v3]

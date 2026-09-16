@@ -4,7 +4,7 @@ titulo: "Broadcom"
 aliases: ["Broadcom"]
 tags: [empresa, semiconductores, tecnologia]
 tipo: empresa
-nivel: B
+tier_primario: B
 ---
 
 # Broadcom

@@ -2,7 +2,7 @@
 titulo: Ruta del Mar del Norte
 tipo: concepto
 fecha: 2026-04-21
-tier_primario: a
+capa_tema: a
 nivel_evidencia: medio
 estado: activo
 aliases: ["Ruta del Mar del Norte: el Ártico Ruso: el Nuevo Eje del Mundo"]

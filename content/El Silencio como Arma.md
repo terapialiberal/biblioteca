@@ -5,7 +5,7 @@ fecha: 2026-04-27
 estado: activo
 aliases: ["El Silencio Como Arma"]
 tags: [silencio, censura, omision, propaganda, tl-intel-v3]
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 publish: true
 ---

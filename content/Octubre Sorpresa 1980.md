@@ -2,7 +2,7 @@
 titulo: "Octubre Sorpresa 1980: El Mercado De Rehenes Por Poder"
 tipo: "evento"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [george, octubre, poder, rehenes]

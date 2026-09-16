@@ -2,7 +2,7 @@
 titulo: Hiroshima Y Nagasaki
 tipo: "concepto"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [harry, hiroshima, nagasaki, proyecto]
@@ -22,7 +22,7 @@ publish: true
 ### Tier A (Los Dueños Del Átomo Y El Terror)
 
 - **El Grupo Manhattan:** La élite científica y militar de Tier A que operó por encima de la ley y de la supervisión presidencial durante el desarrollo. El uso de las bombas garantizó que el Tier A científico (Vannevar Bush, Oppenheimer) mantuviera el control perpetuo sobre la tecnología energética y militar.
-- **Geopolítica de la Intimidación:** El Tier A financiero utilizó el terror atómico para establecer el dólar como moneda de reserva mundial en Bretton Woods, respaldado ahora por el "sol artificial" destructivo.
+- **Geopolítica de la Intimidación:** El Tier A utilizó el terror atómico para establecer el dólar como moneda de reserva mundial en Bretton Woods, respaldado ahora por el "sol artificial" destructivo.
 
 ### Tier B (Operadores / Harry Truman Y Los Generales)
 

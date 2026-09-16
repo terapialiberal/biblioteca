@@ -6,7 +6,7 @@ link: "https://en.wikipedia.org/wiki/Vinod_Khosla"
 tipo: persona
 estado: activo
 fecha: 2026-05-02
-tier:
+
 tags: [vinod-khosla, silicon-valley, venture-capital, ia, openai, khosla-ventures, tl-intel-v3]
 ---
 

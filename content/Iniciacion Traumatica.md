@@ -5,7 +5,7 @@ fecha: 2026-04-27
 estado: activo
 aliases: ["Iniciación Traumática", "Traumatic initiation"]
 tags: [iniciacion-traumatica, trauma, ritual, operaciones-psicologicas, tl-intel-v3]
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 publish: true
 ---

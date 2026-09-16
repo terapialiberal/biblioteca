@@ -3,7 +3,7 @@ titulo: DTCC
 tipo: entidad
 fecha: '2026-05-02'
 estado: activo
-tier: A
+tier_primario: A
 aliases:
   - Depository Trust & Clearing Corporation
   - DTC

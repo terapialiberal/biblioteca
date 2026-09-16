@@ -21,7 +21,7 @@ publish: true
 
 ### Tier A (Los Dueños De La Continuidad Y El Plano)
 
-- **Sustituto de la Guerra:** El Tier A financiero implementó la sugerencia central del Informe de Iron Mountain: convertir el clima en un teatro de operaciones de guerra moral. El "enemigo" ya no es una nación extranjera, sino el propio metabolismo humano (CO2).
+- **Sustituto de la Guerra:** El Tier A implementó la sugerencia central del Informe de Iron Mountain: convertir el clima en un teatro de operaciones de guerra moral. El "enemigo" ya no es una nación extranjera, sino el propio metabolismo humano (CO2).
 - **Control del Archivo Real:** Al centralizar la custodia física de documentos sensibles en Iron Mountain Inc., el Tier A se asegura de que la historia real pueda ser "revisada" o borrada mediante incendios selectivos o simples restricciones de acceso.
 
 ### Tier B (Operadores / Leonard Lewin Y Los CEOs De Logística)

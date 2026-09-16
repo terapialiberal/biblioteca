@@ -2,7 +2,7 @@
 titulo: Internet de los Cuerpos
 tipo: concepto
 fecha: 2026-04-17
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 aliases: ["Internet de los Cuerpos (IoB)", "IoB"]

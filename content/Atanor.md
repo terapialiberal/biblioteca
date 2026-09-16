@@ -4,7 +4,7 @@ tipo: "evento"
 fecha: 2026-02-25
 estado: activo
 tags: [atanor]
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "alto"
 publish: true
 ---

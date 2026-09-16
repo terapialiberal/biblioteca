@@ -8,7 +8,7 @@ tags:
   - datos
   - privacidad
 tipo: empresa
-nivel: C
+tier_primario: C
 titulo: 23andMe
 ---
 

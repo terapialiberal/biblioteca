@@ -2,7 +2,7 @@
 publish: true
 titulo: "AES Corp"
 tipo: entidad
-tier_primario: a
+tier_primario: b
 nivel_evidencia: alto
 estado: activo
 tags: [aes-corp, blackrock, energia, infraestructura, iran-2026, timing, costly-signal, gip, eqt, tl-intel-v3]
@@ -10,6 +10,8 @@ fecha: 2026-03-12
 ---
 
 # AES Corp
+
+> **Clasificación (2026-09-15):** no es dueño del capital: vehículo operativo o aparato estatal (Tier B por canon).
 
 > [!CAUTION] Nodo de infraestructura energética
 > AES debe leerse como activo de red: generación, almacenamiento, contratos, transición energética y consolidación financiera.

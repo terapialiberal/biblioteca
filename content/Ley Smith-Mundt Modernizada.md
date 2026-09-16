@@ -2,7 +2,7 @@
 titulo: Ley Smith-Mundt Modernizada
 tipo: concepto
 fecha: 2026-04-18
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 aliases: ["Ley Smith-Mundt Modernizada: La Guerra De Informacion Legalizada"]

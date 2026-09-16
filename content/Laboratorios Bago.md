@@ -19,7 +19,7 @@ publish: true
 ### Tier A: Los Curadores Del Capital Sanitario Global
 
 - **Socios del Licenciamiento Transnacional:** Aunque proyectan una imagen de soberanía industrial, Bagó y el resto del bloque de la cámara CILFA funcionan como los **operadores logísticos y de mercado de [[Big Pharma]]** en Sudamérica. El Tier A permite que las familias locales (como los Bagó) mantengan su cuota de mercado protegida a cambio de que sirvan como el puente para la introducción de las agendas biopolíticas globales y el respeto a la estructura de propiedad intelectual que beneficia a los grandes fondos de inversión extranjeros.
-- **Blindaje contra la Competencia:** El Tier A financiero utiliza su influencia en los tratados de comercio para asegurar que Bagó mantenga un oligopolio donde la competencia de medicamentos genéricos de bajo costo sea sistemáticamente bloqueada por regulaciones fitosanitarias "a medida", garantizando que la salud en Argentina sea un negocio de alto margen y baja competencia.
+- **Blindaje contra la Competencia:** El Tier A utiliza su influencia en los tratados de comercio para asegurar que Bagó mantenga un oligopolio donde la competencia de medicamentos genéricos de bajo costo sea sistemáticamente bloqueada por regulaciones fitosanitarias "a medida", garantizando que la salud en Argentina sea un negocio de alto margen y baja competencia.
 
 ### Tier B: Los Administradores De La Caja Sanitaria (El Lobby De CILFA)
 

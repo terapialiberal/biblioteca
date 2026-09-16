@@ -2,7 +2,7 @@
 titulo: Escasez De Colateral Y Nueva Arquitectura Monetaria
 tipo: concepto
 fecha: 2026-09-02
-tier_primario: b
+capa_tema: b
 nivel_evidencia: alto
 estado: activo
 aliases: ["Escasez de Colateral", "Nueva Arquitectura Monetaria", "Plomería Monetaria y Colateral", "Ciclo de Deuda y Dinero Endógeno"]

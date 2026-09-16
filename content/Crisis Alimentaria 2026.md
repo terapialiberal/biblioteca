@@ -2,7 +2,7 @@
 titulo: Crisis Alimentaria 2026
 tipo: evento
 fecha: 2026-04-21
-tier_primario: a
+capa_tema: a
 nivel_evidencia: medio
 estado: activo
 tags: [crisis-alimentaria, energia, fertilizantes, hormuz, deuda, policrisis, tl-intel-v3]

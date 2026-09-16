@@ -2,7 +2,7 @@
 titulo: Viktor Orban - El Opositor Controlado
 tipo: "persona"
 fecha: 2026-02-25
-tier_primario: "b"
+tier_primario: c
 nivel_evidencia: "medio"
 estado: activo
 tags: [opositor, orban, tisza, viktor]
@@ -10,6 +10,8 @@ publish: true
 ---
 
 # [[Viktor Orban - El Opositor Controlado]]
+
+> **Clasificación (2026-09-15):** cargo político de gobierno: cuadro visible y reemplazable (Tier C por canon).
 
 **Clasificación:** Tier C (Regulador de Tensión / "Brake" sistémico)\
 **Rol Actual:** Primer Ministro de Hungría.

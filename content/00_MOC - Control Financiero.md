@@ -343,6 +343,8 @@ tags: [moc, control-financiero, deuda, banca, tl-intel-v3]
 
 - [[Cantillon Effect.md|Cantillon Effect]]
 
+- [[Cantor Fitzgerald.md|Cantor Fitzgerald]]
+
 - [[Capitalismo de Rescate Permanente.md|Capitalismo de Rescate Permanente]]
 
 - [[CBDC.md|CBDC]]
@@ -504,6 +506,8 @@ tags: [moc, control-financiero, deuda, banca, tl-intel-v3]
 - [[RWA Tokenization Protocol.md|RWA Tokenization Protocol]]
 
 - [[Santander.md|Santander]]
+
+- [[Santiago Bausili.md|Santiago Bausili]]
 
 - [[Saturno y Deuda.md|Saturno y Deuda]]
 

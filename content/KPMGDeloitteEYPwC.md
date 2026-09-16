@@ -2,7 +2,7 @@
 titulo: "The Big Four: Los Auditores De La Matrix Financiera"
 tipo: "concepto"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [blackrock, financiera, four, matrix]

@@ -4,7 +4,7 @@ titulo: "BIOS"
 aliases: ["BIOS (Basic Input Output System)"]
 tags: [concepto, computacion, firmware, control]
 tipo: concepto
-nivel: C
+capa_tema: c
 ---
 
 # BIOS - Sistema de Arranque

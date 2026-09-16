@@ -4,12 +4,13 @@ tipo: "entidad"
 fecha: 2026-02-25
 estado: activo
 tags: [albert, trazado, washington]
-tier_primario: "a"
 nivel_evidencia: "alto"
 publish: true
 ---
 
 # Trazado De Washington D.C. (Arquitectura Talismánica)
+
+> **Clasificación (2026-09-15):** no es un actor (objeto, archivo o concepto): el tier clasifica actores, así que el campo se retira.
 
 > [!ABSTRACT] Hipótesis Informativa
 > El trazado original de **Washington D.C.**, diseñado por **Pierre L'Enfant** (masón), no es un plano urbano convencional; es un **Talisman Geométrico** a escala nacional. La disposición de las avenidas, el pentagrama oculto que conecta la Casa Blanca con los puntos cardinales y la alineación del Capitolio con el Washington Monument (Obelisco) forman un circuito de ingeniería simbólica diseñado para concentrar y proyectar la voluntad de Tier A sobre el Rimland global.

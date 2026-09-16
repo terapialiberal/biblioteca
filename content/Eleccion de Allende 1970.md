@@ -2,7 +2,7 @@
 titulo: Elección De Allende 1970
 tipo: "evento"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: ["1970", allende, estado, golpe]
@@ -22,7 +22,7 @@ publish: true
 ### Tier A (La Geopolítica De La Guerra Fría)
 
 - **Nixon y Kissinger:** Para el Tier A atlantista, Chile era una casilla en el tablero global. No importaba la voluntad del pueblo chileno; lo que importaba era impedir que la Unión Soviética tuviera un pie en el Pacífico Sur. Kissinger lo resumió con una arrogancia de Tier A total: _"No veo por qué tenemos que aguantar y ver cómo un país se vuelve comunista debido a la irresponsabilidad de su propio pueblo"_.
-- **Intereses Corporativos (ITT y Anaconda):** El Tier A financiero utilizó a la CIA como su brazo armado privado para proteger las minas de cobre y las telecomunicaciones que Allende pretendía nacionalizar.
+- **Intereses Corporativos (ITT y Anaconda):** El Tier A utilizó a la CIA como su brazo armado privado para proteger las minas de cobre y las telecomunicaciones que Allende pretendía nacionalizar.
 
 ### Tier B (Operadores / CIA Y El Mercurio)
 

@@ -4,7 +4,7 @@ titulo: "Brown Brothers Harriman"
 aliases: ["Brown Brothers Harriman"]
 tags: [banco, dinastia, eeuu, elite]
 tipo: banco
-nivel: B
+tier_primario: B
 ---
 
 # Brown Brothers Harriman

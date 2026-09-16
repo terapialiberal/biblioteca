@@ -2,7 +2,7 @@
 titulo: "La Apertura De China: El Nacimiento Del Laboratorio Globalista"
 tipo: "concepto"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [apertura, henry, laboratorio, nacimiento]
@@ -18,7 +18,7 @@ publish: true
 
 ### Tier A: Los Curadores Del "Milagro" Totalitario
 
-- **La Elogia de los Rockefeller:** En 1973, **David Rockefeller** escribió en el _New York Times_ que el experimento social de Mao era "inspirador". Para el Tier A, China representaba el sueño de un sistema donde no hay huelgas, no hay oposición política y la población es un recurso infinitamente maleable. El Tier A financiero decidió que la eficiencia del hormiguero chino era superior a la "fricción" de las libertades individuales en Occidente.
+- **La Elogia de los Rockefeller:** En 1973, **David Rockefeller** escribió en el _New York Times_ que el experimento social de Mao era "inspirador". Para el Tier A, China representaba el sueño de un sistema donde no hay huelgas, no hay oposición política y la población es un recurso infinitamente maleable. El Tier A decidió que la eficiencia del hormiguero chino era superior a la "fricción" de las libertades individuales en Occidente.
 - **Creación de la Competencia Asimétrica:** El Tier A financió y transfirió tecnología a China para crear una amenaza existencial artificial que obligara a las poblaciones de Occidente a aceptar la pérdida de estándares de vida en nombre de la "competitividad global".
 
 ### Tier B: Los Administradores De La Traición Geopolítica (Kissinger)

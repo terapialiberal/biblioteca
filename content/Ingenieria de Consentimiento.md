@@ -2,7 +2,7 @@
 titulo: Ingenieria de Consentimiento
 tipo: concepto
 fecha: 2026-04-19
-tier_primario: b
+capa_tema: b
 nivel_evidencia: alto
 estado: activo
 tags: [consentimiento, bernays, propaganda, percepcion, control-social, tl-intel-v3]

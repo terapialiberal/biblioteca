@@ -2,7 +2,7 @@
 titulo: Ehud Barak
 tipo: "persona"
 fecha: 2026-02-25
-tier_primario: "b"
+tier_primario: c
 nivel_evidencia: "medio"
 estado: activo
 tags: [barak, edmond, ehud, jeffrey]
@@ -11,17 +11,20 @@ publish: true
 
 # Ehud Barak
 
+> **Clasificación (2026-09-15):** cargo político de gobierno: cuadro visible y reemplazable (Tier C por canon).
+> **Nota de vocabulario:** donde esta ficha usa «Tier A / Tier B / Tier C» en encabezados de sección, usa el vocabulario anterior al canon de actores (capas de la estructura: dueños / operadores / cara visible). La clasificación de este sujeto es la del frontmatter (`tier_primario` en actores, `capa_tema` en objetos).
+
 ## Perfil TL (Resumen Ejecutivo)
 
 **¿Quién es?** Ex Primer Ministro de Israel, ex Ministro de Defensa y el soldado con más condecoraciones de la historia de su país.
 
-**¿Por qué importa?** Ehud Barak es el **operador de Tier B de más alto nivel que conecta el complejo de inteligencia israelí con la red de chantaje de [[Jeffrey Epstein]]**. No fue un simple conocido; Barak fue un visitante regular de la residencia de Epstein en Nueva York (incluyendo visitas en las que fue fotografiado ocultando su rostro con una bufanda) y socio de negocios directo. Epstein canalizó billones de dólares de inversión del **[[Edmond de Rothschild Group]]** (vía **Ariane de Rothschild**) hacia la empresa de ciberinteligencia de Barak, **[[Carbine]]** (ahora Toka). Barak personifica la **"Simbiosis de Chantaje y Tecnología"**: el uso de redes de compromiso para financiar y proteger a las empresas de Tier B que desarrollan herramientas de vigilancia masiva y hackeo gubernamental que luego son vendidas a dictaduras y democracias por igual.
+**¿Por qué importa?** Ehud Barak es **la cara visible (Tier C) de más alto nivel** que conecta el complejo de inteligencia israelí con la red de chantaje de [[Jeffrey Epstein]]. No fue un simple conocido; Barak fue un visitante regular de la residencia de Epstein en Nueva York (incluyendo visitas en las que fue fotografiado ocultando su rostro con una bufanda) y socio de negocios directo. Epstein canalizó billones de dólares de inversión del **[[Edmond de Rothschild Group]]** (vía **Ariane de Rothschild**) hacia la empresa de ciberinteligencia de Barak, **[[Carbine]]** (ahora Toka). Barak personifica la **"Simbiosis de Chantaje y Tecnología"**: el uso de redes de compromiso para financiar y proteger a las empresas de Tier B que desarrollan herramientas de vigilancia masiva y hackeo gubernamental que luego son vendidas a dictaduras y democracias por igual.
 
 ## Análisis De Poder (Tiers)
 
 ### Tier A (El Eje Rothschild-Inteligencia)
 
-- **Financiamiento Dinástico:** El papel de Barak como receptor de fondos de Ariane de Rothschild a través de Epstein confirma que el Tier A financiero utiliza a operadores de inteligencia para lavarse las manos y proteger sus intereses estratégicos en el sector tecnológico y de defensa.
+- **Financiamiento Dinástico:** El papel de Barak como receptor de fondos de Ariane de Rothschild a través de Epstein confirma que el Tier A utiliza a operadores de inteligencia para lavarse las manos y proteger sus intereses estratégicos en el sector tecnológico y de defensa.
 
 ### Tier B (Operadores / Inteligencia Del Siglo XXI)
 

@@ -8,7 +8,7 @@ tags:
   - cpu
   - gpu
 tipo: empresa
-nivel: B
+tier_primario: B
 titulo: AMD
 ---
 

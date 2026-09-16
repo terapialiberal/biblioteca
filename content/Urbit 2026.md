@@ -2,7 +2,7 @@
 titulo: Urbit 2026
 tipo: "evento"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "alto"
 estado: activo
 tags: [panptico, peer, tlon, urbit]

@@ -4,7 +4,7 @@ titulo: "Comisión Warren"
 aliases: ["Comisión Warren"]
 tags: [evento, jfk, investigacion, encubrimiento]
 tipo: evento
-nivel: B
+capa_tema: b
 ---
 
 # Comisión Warren

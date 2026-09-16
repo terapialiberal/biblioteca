@@ -26,7 +26,7 @@ publish: true
 
 ### Tier B (Operadores / Ariane Y Los Gestores)
 
-- **Ariane de Rothschild:** La actual presidenta que ha modernizado el banco y lo ha vinculado estrechamente con el sector tech. Su relación documentada con Epstein demuestra que el "Operativo de Operadores" (Epstein) tenía acceso directo al núcleo del Tier A financiero.
+- **Ariane de Rothschild:** La actual presidenta que ha modernizado el banco y lo ha vinculado estrechamente con el sector tech. Su relación documentada con Epstein demuestra que el "Operativo de Operadores" (Epstein) tenía acceso directo al núcleo del Tier A.
 - **Ehud Barak y la Inteligencia Israelí:** El banco ha financiado proyectos vinculados al ex-primer ministro israelí, demostrando la coordinación entre la alta finanza suiza y el aparato de seguridad israelí.
 
 ### Tier C (Narrativa Pública)

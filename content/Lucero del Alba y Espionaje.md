@@ -1,7 +1,7 @@
 ---
 titulo: Lucero del Alba y Espionaje
 tipo: "concepto"
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [esoterismo, inteligencia, simbologia, vigilancia]

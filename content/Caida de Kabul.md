@@ -2,7 +2,7 @@
 titulo: Caída De Kabul (2021)
 tipo: "evento"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: ["2021", cada, complejo, medialuna]
@@ -24,7 +24,7 @@ publish: true
 - **Lavado de Trillones:** Durante 20 años, Afganistán sirvió para transferir riqueza del contribuyente estadounidense hacia los contratistas de defensa del Tier A. La "pérdida" de la guerra es un éxito financiero para el complejo militar-industrial.
 - **El Factor Opio:** Con la salida de EE.UU., el control de la **[[Medialuna de Oro]]** (producción mundial de heroína) cambia de manos. Se especula que la retirada fue el resultado de un nuevo acuerdo de inteligencia entre agencias regionales para gestionar el flujo de narcóticos de Tier A.
 
-### Tier B (Operadores / Políticos De Turno)
+### Operadores / Políticos De Turno
 
 - **Joe Biden:** Firmó la orden final, asumiendo el costo político de una ejecución caótica diseñada para ser un espectáculo mediático de fracaso, permitiendo al sistema dar vuelta la página rápidamente hacia el conflicto en Ucrania.
 - **Los Talibanes (Activos Híbridos):** Pasaron de ser "terroristas bárbaros" a interlocutores diplomáticos en Doha. Su regreso al poder estabiliza una región clave para China y Rusia, obligándolos a negociar con un nuevo tipo de "orden" teocrático gestionado.

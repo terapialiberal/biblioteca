@@ -21,7 +21,7 @@ publish: true
 
 ### Tier A (Los Dueños Del Caos Seminal)
 
-- **Gestión del "Coco" Global:** El Tier A financiero y militar necesitaba un nuevo enemigo tras el fin del comunismo. Gladio B proporcionó al "Islamista Radical" como el catalizador necesario para una movilización militar perpetua. Sin Gladio B, no hay presupuesto infinito para el Complejo Militar-Industrial.
+- **Gestión del "Coco" Global:** El Tier A y militar necesitaba un nuevo enemigo tras el fin del comunismo. Gladio B proporcionó al "Islamista Radical" como el catalizador necesario para una movilización militar perpetua. Sin Gladio B, no hay presupuesto infinito para el Complejo Militar-Industrial.
 - **Acuerdos Supranacionales:** La operación involucra no solo a EE.UU., sino también al MI6 británico y a la inteligencia turca, demostrando una coordinación de Tier A que trasciende a los gobiernos nacionales.
 
 ### Tier B (Operadores / Sibel Edmonds Y El FBI)

@@ -5,7 +5,7 @@ fecha: 2026-04-27
 estado: activo
 aliases: ["Milgram obedience experiment", "Experimento de obediencia de Milgram"]
 tags: [experimento-milgram, obediencia, autoridad, psicologia-social, operaciones-psicologicas, tl-intel-v3]
-tier_primario: b
+capa_tema: b
 nivel_evidencia: alto
 publish: true
 ---

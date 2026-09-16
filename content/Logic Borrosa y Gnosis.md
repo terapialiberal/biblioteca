@@ -1,7 +1,7 @@
 ---
 titulo: Lógica Borrosa y Gnosis
 tipo: "concepto"
-tier_primario: "a"
+capa_tema: "a"
 nivel_evidencia: "medio"
 estado: activo
 tags: [matematica, gnosticismo, ia, incertidumbre, control]

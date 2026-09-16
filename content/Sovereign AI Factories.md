@@ -35,7 +35,7 @@ En 2026, el concepto de "Nación" ha mutado a la capacidad de procesar datos en 
 #### CUI BONO REAL
 
 **¿Quién captura qué?**
-Los **Gobiernos de Tier B** capturan el **Control Biopolítico Local**. Al procesar los datos dentro de sus fronteras, eliminan la capacidad de las Big Tech de EE.UU. de "apagarles" la inteligencia (o espiarles directamente mediante la nube externa). **Nvidia** captura el **Collateral Físico**: todos estos Estados se vuelven clientes cautivos del soporte de CUDA por décadas.
+Los **gobiernos (Tier C)** capturan el **Control Biopolítico Local**. Al procesar los datos dentro de sus fronteras, eliminan la capacidad de las Big Tech de EE.UU. de "apagarles" la inteligencia (o espiarles directamente mediante la nube externa). **Nvidia** captura el **Collateral Físico**: todos estos Estados se vuelven clientes cautivos del soporte de CUDA por décadas.
 
 #### ANÁLISIS DE JUEGO
 

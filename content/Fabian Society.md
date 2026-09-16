@@ -24,7 +24,7 @@ publish: true
 - **Gradualismo Táctico:** El Tier A utiliza el fabianismo para mover la ventana de Overton lentamente hacia el estatismo. Entienden que la gente rechaza el cambio radical, pero acepta pequeños ajustes burocráticos constantes que terminan en la pérdida total de la libertad individual a lo largo de décadas.
 - **Conexión LSE:** La London School of Economics fue fundada por miembros de la sociedad (Sidney y Beatrice Webb) para formar a la "clase administrativa" global. Es la fábrica de los tecnócratas de Tier B que hoy dirigen el FMI, el Banco Mundial y los bancos centrales.
 
-### Tier B (Operadores / Políticos Y Académicos)
+### Operadores / Políticos Y Académicos
 
 - **Infiltración Partidaria:** Los fabianos operan dentro de casi todos los partidos socialdemócratas y liberales de Occidente. Su papel es redactar políticas de regulación asfixiante y centralización del poder que parecen "progresistas" pero que en realidad consolidan el control de la élite corporativa y estatal.
 - **H.G. Wells y George Bernard Shaw:** Intelectuales fabianos que diseñaron la narrativa de la "Nueva Religión de la Humanidad", promoviendo abiertamente el control poblacional y la eugenesia como herramientas de gestión social para los "sabios".

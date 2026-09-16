@@ -2,7 +2,7 @@
 titulo: "Pan Y Circo: La Anestesia De La Dopamina Infinita"
 tipo: "concepto"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [anestesia, dopamina, infinita, tiktok]

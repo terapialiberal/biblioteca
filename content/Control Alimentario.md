@@ -2,7 +2,7 @@
 titulo: Control Alimentario
 tipo: concepto
 fecha: 2026-04-19
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 tags: [control-alimentario, alimentos, soberania, dependencia, agroindustria, tl-intel-v3]

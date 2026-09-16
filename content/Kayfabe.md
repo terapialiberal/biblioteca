@@ -2,7 +2,7 @@
 titulo: "Kayfabe Político: La Gestión De La Realidad Simulada"
 tipo: "concepto"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [gestin, kayfabe, panem, simulada]
@@ -12,18 +12,20 @@ publish: true
 # Kayfabe Político: La Gestión De La Realidad Simulada
 
 > [!ABSTRACT] Hipótesis Informativa
-> El Kayfabe es el **sistema operativo de la democracia moderna**. Originado en el teatro de la lucha libre profesional, describe la convención colectiva de mantener la ficción de que las rivalidades y los combates son reales. Aplicado a la política, el Kayfabe es el mecanismo por el cual el [[Tier A]] gestiona la percepción del [[Tier C]], permitiendo que facciones del [[Tier B]] simulen una lucha encarnizada por el poder mientras mantienen un consenso hermético sobre las políticas de fondo (expansión de deuda, control biopolítico y centralización tecnocrática). El Kayfabe es la tecnología que transforma la soberanía popular en un **espectáculo de consumo emocional**.
+> El Kayfabe es el **sistema operativo de la democracia moderna** (mecanismo, no actor: pertenece al terreno de la narrativa que administra la capa operativa, Tier B). Originado en el teatro de la lucha libre profesional, describe la convención colectiva de mantener la ficción de que las rivalidades y los combates son reales. Aplicado a la política, el Kayfabe es el mecanismo por el cual el [[Tier A]] gestiona la percepción del [[Tier C]], permitiendo que facciones del [[Tier B]] simulen una lucha encarnizada por el poder mientras mantienen un consenso hermético sobre las políticas de fondo (expansión de deuda, control biopolítico y centralización tecnocrática). El Kayfabe es la tecnología que transforma la soberanía popular en un **espectáculo de consumo emocional**.
 
 ## Análisis De Tiers
 
+> **Nota de vocabulario:** donde esta ficha usa «Tier A / Tier B / Tier C» en encabezados de sección, usa el vocabulario anterior al canon de actores (capas de la estructura: dueños / operadores / cara visible). La clasificación de este sujeto es la del frontmatter (`tier_primario` en actores, `capa_tema` en objetos).
+
 ### Tier A: Los Curadores Del Libreto (Promotores)
 
-- **La Ilusión de Elección:** El Tier A financiero y tecnológico financia ambos extremos de la supuesta disputa política. Para los dueños de la Matrix, no importa quién gane la elección, sino que el [[Tier C]] siga creyendo que el resultado de la elección importa. El Tier A es el "promotor" que decide la duración de las temporadas de conflicto y cuándo es necesario un cambio de actor principal (Heel o Face) para mantener la atención de la audiencia cautiva.
+- **La Ilusión de Elección:** El Tier A y tecnológico financia ambos extremos de la supuesta disputa política. Para los dueños de la Matrix, no importa quién gane la elección, sino que el [[Tier C]] siga creyendo que el resultado de la elección importa. El Tier A es el "promotor" que decide la duración de las temporadas de conflicto y cuándo es necesario un cambio de actor principal (Heel o Face) para mantener la atención de la audiencia cautiva.
 - **Neutralización de la Amenaza Real:** El Kayfabe sirve para enterrar los temas que realmente afectan al Tier A (la creación del dinero, la propiedad de los recursos naturales, la vigilancia masiva). Al mantener al público discutiendo sobre el último insulto de un candidato, el Tier A asegura que la base del sistema nunca sea cuestionada.
 
-### Tier B: Los Administradores De La Performance (Los Políticos)
+### Los Administradores De La Performance (Los Políticos)
 
-- **El Heel (Villano) y el Face (Héroe):** En el Tier B, los políticos son actores profesionales entrenados en la retórica del conflicto. Sus "peleas" en redes sociales y televisión son "promos" diseñadas para radicalizar a sus respectivas bases. Sin embargo, tras bastidores (en las cenas de las embajadas, en los directorios de empresas), estos mismos actores coordinan el reparto de la renta estatal. El Tier B sabe que si rompe el Kayfabe y revela que "todos son amigos", pierde la legitimidad para extraer impuestos y obediencia del Tier C.
+- **El Heel (Villano) y el Face (Héroe):** En la capa visible (Tier C), los políticos son actores profesionales entrenados en la retórica del conflicto. Sus "peleas" en redes sociales y televisión son "promos" diseñadas para radicalizar a sus respectivas bases. Sin embargo, tras bastidores (en las cenas de las embajadas, en los directorios de empresas), estos mismos actores coordinan el reparto de la renta estatal. La capa visible sabe que si rompe el Kayfabe y revela que "todos son amigos", pierde la legitimidad para extraer impuestos y obediencia del Tier C.
 - **La Oposición Controlada:** Es la técnica suprema del Kayfabe. El sistema fabrica sus propios "rebeldes" para que el descontento del Tier C sea canalizado hacia líderes que, llegado el momento, entregarán esa energía de vuelta al sistema.
 
 ### Tier C: La Población En La Ficción De La Lucha

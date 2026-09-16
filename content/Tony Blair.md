@@ -3,7 +3,7 @@ titulo: "Tony Blair"
 publish: true
 tipo: persona
 fecha: 2026-04-07
-tier_primario: B
+tier_primario: c
 moc_canonico: [[00_MOC - Redes de Poder]]
 estado: activo
 fuentes_clave: []
@@ -11,6 +11,8 @@ tags: [tony-blair, uk, wef, gobernanza, tl-intel-v3]
 ---
 
 # [[Tony Blair]]
+
+> **Clasificación (2026-09-15):** cargo político de gobierno: cuadro visible y reemplazable (Tier C por canon).
 
 > [!abstract] PERFIL TL-INTEL
 > Ex primer ministro británico convertido en operador transnacional de gobernanza, consultoría y agenda tecnocrática.

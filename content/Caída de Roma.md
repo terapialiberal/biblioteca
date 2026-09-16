@@ -4,7 +4,7 @@ titulo: "Caída de Roma"
 aliases: ["Caída de Roma"]
 tags: [concepto, historia, imperio, colapso]
 tipo: concepto
-nivel: C
+capa_tema: c
 ---
 
 # Caída de Roma

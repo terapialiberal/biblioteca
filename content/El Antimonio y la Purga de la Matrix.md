@@ -5,7 +5,7 @@ fecha: 2026-04-27
 estado: activo
 aliases: ["El Antimonio Y La Purga De La Matrix"]
 tags: [antimonio, alquimia, purga, matrix, tl-intel-v3]
-tier_primario: c
+capa_tema: c
 nivel_evidencia: medio
 publish: true
 ---

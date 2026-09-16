@@ -2,7 +2,7 @@
 titulo: Incidente Del Golfo De Omán
 tipo: "evento"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [golfo, incidente, john, omn]
@@ -21,7 +21,7 @@ publish: true
 
 ### Tier A (Los Beneficiarios De La Tensión Energética)
 
-- **Complejo Militar-Industrial / Bancos de Petróleo:** Una guerra con Irán o el cierre del Estrecho de Ormuz (por donde pasa el 20% del petróleo mundial) dispararía los precios del crudo y las acciones de defensa. El Tier A financiero orquestó la crisis para maximizar retornos, utilizando a los operadores de inteligencia para crear el pretexto.
+- **Complejo Militar-Industrial / Bancos de Petróleo:** Una guerra con Irán o el cierre del Estrecho de Ormuz (por donde pasa el 20% del petróleo mundial) dispararía los precios del crudo y las acciones de defensa. El Tier A orquestó la crisis para maximizar retornos, utilizando a los operadores de inteligencia para crear el pretexto.
 
 ### Tier B (Operadores / John Bolton Y Mike Pompeo)
 

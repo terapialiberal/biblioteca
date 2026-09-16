@@ -2,7 +2,7 @@
 titulo: PayPal Mafia
 tipo: concepto
 fecha: 2026-04-20
-tier_primario: a
+capa_tema: a
 nivel_evidencia: medio
 estado: activo
 tags: [paypal-mafia, silicon-valley, redes-de-poder, venture-capital, tecnocracia, tl-intel-v3]

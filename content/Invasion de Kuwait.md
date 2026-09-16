@@ -2,7 +2,7 @@
 titulo: Invasión De Kuwait
 tipo: "evento"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [april, hill, invasin, kuwait]
@@ -21,7 +21,7 @@ publish: true
 
 ### Tier A (Los Dueños De La Seguridad Energética)
 
-- **Petróleo y Bases Permanentes:** El Tier A financiero necesitaba una excusa para militarizar de forma permanente la península arábiga. La invasión de Kuwait permitió a EE.UU. "salvar" a los saudíes y establecer la infraestructura militar que todavía hoy custodia el flujo del petróleo y el respaldo del dólar.
+- **Petróleo y Bases Permanentes:** El Tier A necesitaba una excusa para militarizar de forma permanente la península arábiga. La invasión de Kuwait permitió a EE.UU. "salvar" a los saudíes y establecer la infraestructura militar que todavía hoy custodia el flujo del petróleo y el respaldo del dólar.
 
 ### Tier B (Operadores / George H.W. Bush Y Hill+Knowlton)
 

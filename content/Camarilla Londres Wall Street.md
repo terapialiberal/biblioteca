@@ -2,7 +2,7 @@
 titulo: Camarilla Londres Wall Street
 tipo: concepto
 fecha: 2026-04-20
-tier_primario: a
+capa_tema: a
 nivel_evidencia: medio
 estado: activo
 tags: [londres-wall-street, atlantismo-financiero, reset-monetario, city-of-london, wall-street, tl-intel-v3]

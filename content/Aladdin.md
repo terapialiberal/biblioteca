@@ -2,7 +2,7 @@
 titulo: Aladdin
 tipo: producto
 fecha: 2026-04-17
-tier_primario: a
+capa_tema: a
 nivel_evidencia: medio
 estado: activo
 aliases: ["BlackRock Aladdin", "BlackRock (Aladdin)"]

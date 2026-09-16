@@ -2,7 +2,7 @@
 titulo: Experimento Tuskegee
 tipo: evento
 fecha: 2026-04-18
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 tags: [tuskegee, medicina, experimento, bioetica, eugenesia, tl-intel-v3]

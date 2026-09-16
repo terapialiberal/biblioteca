@@ -2,7 +2,7 @@
 titulo: El Fallo De La Corte Por La Coparticipación (CABA Vs Nación)
 tipo: "evento"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [alberto, caba, fallo, nacin]
@@ -15,13 +15,13 @@ publish: true
 
 **¿Qué pasó?** La Corte Suprema de Justicia de la Nación dictó una medida cautelar ordenando al Gobierno Nacional de **[[00_Glosario - Conceptos Fase 1#Alberto Fernández|Alberto Fernández]]** devolverle a la Ciudad de Buenos Aires parte de los fondos de coparticipación que le habían sido quitados por decreto para financiar un aumento salarial a la policía bonaerense de **[[Axel Kicillof]]**.
 
-**¿Por qué importa?** Este fallo representó el **momento de "Desobediencia Abierta" del Tier B político hacia el orden constitucional**. El Presidente, presionado por el kirchnerismo duro, declaró que el fallo era de "fallecimiento imposible" y amagó con no cumplirlo, lo que constituyó un quiebre de facto de la división de poderes. Es un caso testigo de cómo el Tier B peronista considera la "voluntad política" (y la necesidad de financiar sus feudos territoriales) como una jerarquía superior a la ley. La resolución del conflicto (pagar con bonos de deuda y no con efectivo) fue un parche técnico que no ocultó la fragilidad absoluta del Estado de Derecho frente a la voracidad de la caja política.
+**¿Por qué importa?** Este fallo representó el **momento de "Desobediencia Abierta" de la capa política hacia el orden constitucional**. El Presidente, presionado por el kirchnerismo duro, declaró que el fallo era de "fallecimiento imposible" y amagó con no cumplirlo, lo que constituyó un quiebre de facto de la división de poderes. Es un caso testigo de cómo el Tier B peronista considera la "voluntad política" (y la necesidad de financiar sus feudos territoriales) como una jerarquía superior a la ley. La resolución del conflicto (pagar con bonos de deuda y no con efectivo) fue un parche técnico que no ocultó la fragilidad absoluta del Estado de Derecho frente a la voracidad de la caja política.
 
 ## Análisis De Poder (Tiers)
 
 ### Tier A (La Matriz Unitaria De Fondos)
 
-- **Financiamiento del Conurbano:** El Tier A político-sindical centralizó los recursos en la Provincia de Buenos Aires para asegurar la supervivencia del proyecto kirchnerista. Quitarle fondos a CABA fue un acto de "expropiación política" para sostener la gobernabilidad en el territorio más volátil del país.
+- **Financiamiento del Conurbano:** la dirigencia política-sindical centralizó los recursos en la Provincia de Buenos Aires para asegurar la supervivencia del proyecto kirchnerista. Quitarle fondos a CABA fue un acto de "expropiación política" para sostener la gobernabilidad en el territorio más volátil del país.
 
 ### Tier B (Operadores / El Ejecutivo Vs La Corte)
 

@@ -2,7 +2,7 @@
 titulo: "Abuso Ritual Satánico (SRA)"
 tipo: concepto
 estado: activo
-tier_primario: c
+capa_tema: c
 nivel_evidencia: bajo-medio
 tags: [sra, panico-moral, abuso, satanic-panic, tl-intel-v3]
 publish: true

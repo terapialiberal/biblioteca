@@ -2,7 +2,7 @@
 publish: true
 titulo: "Khuzestán"
 tipo: concepto
-tier_primario: a
+capa_tema: a
 nivel_evidencia: medio-alto
 estado: activo
 tags: [iran, khuzestan, petroleo, irgc, activo-tier-a, fragmentacion-etnica, post-conflicto, imec, tl-intel-v3]

@@ -2,7 +2,7 @@
 titulo: Gildo Insfrán
 tipo: "persona"
 fecha: 2026-02-25
-tier_primario: "b"
+tier_primario: c
 nivel_evidencia: "medio"
 estado: activo
 tags: [coparticipacin, feudalismo, gildo, insfrn]
@@ -11,17 +11,21 @@ publish: true
 
 # Gildo Insfrán
 
+> **Clasificación (2026-09-15):** cargo político de gobierno: cuadro visible y reemplazable (Tier C por canon).
+
 ## Perfil TL (Resumen Ejecutivo)
 
 **¿Quién es?** Gobernador de la provincia de Formosa, Argentina, de manera ininterrumpida desde 1995.
 
-**¿Por qué importa?** Gildo Insfrán es el **operador de Tier B que perfeccionó el "Modelo de Captura Total" de una población**. Formosa bajo Insfrán no funciona como una democracia, sino como un feudo donde el 70% de la población activa depende del sueldo estatal y el sector privado es prácticamente inexistente. Insfrán representa la **"Feudalización de la Pobreza"**: utiliza los fondos de la Coparticipación Federal (dinero extraído de las provincias productoras) para mantener un sistema de clientelismo absoluto que le garantiza el 70% de los votos en cada elección. Durante la pandemia de 2020, Insfrán demostró el alcance de su control territorial mediante la creación de "Centros de Aislamiento" que fueron denunciados por organismos internacionales como centros de detención ilegales, evidenciando que en su territorio la Constitución Nacional es subordinada a su voluntad personal.
+**¿Por qué importa?** Gildo Insfrán es **la cara política visible (Tier C)** que perfeccionó el "Modelo de Captura Total" de una población. Formosa bajo Insfrán no funciona como una democracia, sino como un feudo donde el 70% de la población activa depende del sueldo estatal y el sector privado es prácticamente inexistente. Insfrán representa la **"Feudalización de la Pobreza"**: utiliza los fondos de la Coparticipación Federal (dinero extraído de las provincias productoras) para mantener un sistema de clientelismo absoluto que le garantiza el 70% de los votos en cada elección. Durante la pandemia de 2020, Insfrán demostró el alcance de su control territorial mediante la creación de "Centros de Aislamiento" que fueron denunciados por organismos internacionales como centros de detención ilegales, evidenciando que en su territorio la Constitución Nacional es subordinada a su voluntad personal.
 
 ## Análisis De Poder (Tiers)
 
+> **Nota de vocabulario:** donde esta ficha usa «Tier A / Tier B / Tier C» en encabezados de sección, usa el vocabulario anterior al canon de actores (capas de la estructura: dueños / operadores / cara visible). La clasificación de este sujeto es la del frontmatter (`tier_primario` en actores, `capa_tema` en objetos).
+
 ### Tier A (Los Dueños De La Coparticipación)
 
-- **Funcionalidad al Sistema:** El Tier A político de Buenos Aires (especialmente el peronismo/kirchnerismo) protege a Insfrán porque su provincia garantiza senadores y diputados leales "a libro cerrado". Formosa es el "voto seguro" que el Tier A nacional utiliza para aprobar leyes que el Tier C productivo rechaza.
+- **Funcionalidad al Sistema:** la dirigencia política de Buenos Aires (capa C: peronismo/kirchnerismo) protege a Insfrán porque su provincia garantiza senadores y diputados leales "a libro cerrado". Formosa es el "voto seguro" que el Tier A nacional utiliza para aprobar leyes que el Tier C productivo rechaza.
 - **Frontera Permeable:** Formosa es un nodo estratégico para el flujo de bienes y personas desde Paraguay. El Tier A de inteligencia permite la permanencia de Insfrán a cambio de un control (o facilitación) discrecional de esta frontera crítica.
 
 ### Tier B (Operadores / El Empleo Público Como Arma)

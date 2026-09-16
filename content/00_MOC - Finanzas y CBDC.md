@@ -171,8 +171,6 @@ tags: [moc, cbdc, tokenizacion, rieles-financieros, tl-intel-v3]
 
 - [[03_Produccion/2026-09-14_El_dia_despues_tiene_duenios/00_CONTROL_TEMA.md|00_CONTROL_TEMA]]
 
-- [[02_Preproduccion/2026-09-14_Compilado_Noticias_TL/00_CONTROL_TEMA.md|00_CONTROL_TEMA]]
-
 - [[00_MOC - Finanzas y CBDC.md|00_MOC - Finanzas y CBDC]]
 
 - [[06_Videos_Publicados/2026/2026-06-10_Fitts_Pulte_Gran_Israel/01_FUENTES/02_Archivo/2026-06-10_Fitts_Pulte_Gran_Israel_Marcadores.md|2026-06-10_Fitts_Pulte_Gran_Israel_Marcadores]]
@@ -285,8 +283,6 @@ tags: [moc, cbdc, tokenizacion, rieles-financieros, tl-intel-v3]
 
 - [[03_Produccion/2026-09-14_El_dia_despues_tiene_duenios/FUENTES_MARCADORES_2026-09-14.md|FUENTES_MARCADORES_2026-09-14]]
 
-- [[02_Preproduccion/2026-09-14_Compilado_Noticias_TL/FUENTES_MARCADORES_2026-09-14.md|FUENTES_MARCADORES_2026-09-14]]
-
 - [[G20.md|G20]]
 
 - [[G7.md|G7]]
@@ -370,6 +366,10 @@ tags: [moc, cbdc, tokenizacion, rieles-financieros, tl-intel-v3]
 - [[Proyecto Agora.md|Proyecto Agora]]
 
 - [[Proyecto mBridge.md|Proyecto mBridge]]
+
+- [[Rishi Sunak.md|Rishi Sunak]]
+
+- [[Score Ciudadano.md|Score Ciudadano]]
 
 - [[Señoreaje.md|Señoreaje]]
 

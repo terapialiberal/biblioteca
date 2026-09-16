@@ -4,12 +4,13 @@ tipo: "entidad"
 fecha: 2026-02-25
 estado: activo
 tags: [domo, estado, osiris, solve]
-tier_primario: "a"
 nivel_evidencia: "alto"
 publish: true
 ---
 
 # Osiris Y El Estado Resucitado
+
+> **Clasificación (2026-09-15):** no es un actor (objeto, archivo o concepto): el tier clasifica actores, así que el campo se retira.
 
 > [!ABSTRACT] Hipótesis Informativa
 > **Osiris** es el rey que fue desmembrado y luego reconstruido (resucitado) por Isis. Forensemente, es el **Arquetipo del Estado Perpetuo**. Representa la capacidad del Tier A de dejar que una estructura colapse (muera) para luego "reunir los pedazos" y lanzar una versión 2.0 más potente. Osiris es el principio de la **Continuidad Institucional a través del Caos**.

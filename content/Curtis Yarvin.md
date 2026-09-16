@@ -4,7 +4,7 @@ titulo: "Curtis Yarvin"
 aliases: ["Curtis Yarvin", "Mencius Moldbug", "Moldbug"]
 tags: [actor, ideologo, nrx, neoreaccion, thiel]
 tipo: actor
-nivel: B
+tier_primario: B
 ---
 
 # Curtis Yarvin (Moldbug)

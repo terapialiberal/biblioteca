@@ -3,7 +3,7 @@ titulo: Estrecho de Ormuz
 tipo: nodo
 fecha: 2026-05-02
 vigencia: 2026-05-26
-tier_primario: b
+capa_tema: b
 nivel_evidencia: alto
 estado: activo
 aliases: ["Ormuz", "Estrecho de Ormuz (Geopolítica)"]

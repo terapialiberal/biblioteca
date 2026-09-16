@@ -2,7 +2,7 @@
 titulo: Lab Leak Theory
 tipo: concepto
 fecha: 2026-04-21
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 aliases: ["Teoria De La Fuga De Laboratorio: El Encubrimiento De La Quimera Biopolitica"]

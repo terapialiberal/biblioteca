@@ -2,7 +2,7 @@
 titulo: Revolucion del color
 tipo: evento
 fecha: 2026-04-24
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 aliases: ["Revolución del Color", "Revoluciones de Color"]

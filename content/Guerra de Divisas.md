@@ -2,7 +2,7 @@
 titulo: Guerra De Corea
 tipo: "evento"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [complejo, corea, guerra, naciones]
@@ -21,7 +21,7 @@ publish: true
 
 ### Tier A (Los Dueños De La Emergencia Global)
 
-- **Institucionalización de la Guerra Fría:** El Tier A financiero y defensivo utilizó la guerra para cuadruplicar el presupuesto militar de EE.UU. (ver documento **NSC-68**), transformando a la república en un "Estado de Seguridad Nacional" permanente.
+- **Institucionalización de la Guerra Fría:** El Tier A y defensivo utilizó la guerra para cuadruplicar el presupuesto militar de EE.UU. (ver documento **NSC-68**), transformando a la república en un "Estado de Seguridad Nacional" permanente.
 - **La ONU como brazo ejecutivo:** Fue el estreno de la ONU como herramienta de intervención militar de Tier A, disfrazando intereses de hegemonía regional como "paz y seguridad colectiva".
 
 ### Tier B (Operadores / MacArthur Vs Truman)

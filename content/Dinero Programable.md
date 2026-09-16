@@ -3,7 +3,7 @@ titulo: Dinero Programable
 tipo: concepto
 fecha: 2026-04-19
 vigencia: 2026-04-19
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 tags: [dinero-programable, cbdc, stablecoins, compliance, control-financiero, tl-intel-v3]

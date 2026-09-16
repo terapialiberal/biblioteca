@@ -2,7 +2,7 @@
 titulo: "Justin Trudeau: El Prototipo De La Gobernanza Post-Democrática"
 tipo: "persona"
 fecha: 2026-02-25
-tier_primario: "b"
+tier_primario: c
 nivel_evidencia: "medio"
 estado: activo
 tags: [gobernanza, gran, post, prototipo]
@@ -11,8 +11,11 @@ publish: true
 
 # Justin Trudeau: El Prototipo De La Gobernanza Post-Democrática
 
+> **Clasificación (2026-09-15):** cargo político de gobierno: cuadro visible y reemplazable (Tier C por canon).
+> **Nota de vocabulario:** donde esta ficha usa «Tier A / Tier B / Tier C» en encabezados de sección, usa el vocabulario anterior al canon de actores (capas de la estructura: dueños / operadores / cara visible). La clasificación de este sujeto es la del frontmatter (`tier_primario` en actores, `capa_tema` en objetos).
+
 > [!ABSTRACT] Hipótesis Informativa
-> Justin Trudeau actúa como el **operativo de [[Tier B]] de alto nivel encargado de testear el totalitarismo tecnocrático en una democracia occidental de primer orden**. Como alumno destacado del **[[WEF]]** (Young Global Leaders), Trudeau ha transformado a Canadá en el laboratorio principal para la agenda del **[[Gran Reset]]**, implementando mecanismos de control financiero punitivo (de-banking), políticas de desatención biológica (MAID) y la erosión sistemática de la soberanía individual bajo el disfraz del progresismo identitario. Trudeau es la cara amable de la "penetración de gabinetes" que Klaus Schwab ha ejecutado para subordinar los estados nacionales a la gobernanza global de [[Tier A]].
+> Justin Trudeau actúa como **la cara visible (Tier C) de alto nivel encargada de testear el totalitarismo tecnocrático en una democracia occidental de primer orden**. Como alumno destacado del **[[WEF]]** (Young Global Leaders), Trudeau ha transformado a Canadá en el laboratorio principal para la agenda del **[[Gran Reset]]**, implementando mecanismos de control financiero punitivo (de-banking), políticas de desatención biológica (MAID) y la erosión sistemática de la soberanía individual bajo el disfraz del progresismo identitario. Trudeau es la cara amable de la "penetración de gabinetes" que Klaus Schwab ha ejecutado para subordinar los estados nacionales a la gobernanza global de [[Tier A]].
 
 ## Análisis De Tiers
 

@@ -36,4 +36,4 @@ publish: true
 
 ## Cui Bono
 
-**La Homeostasis del Régimen**. La Mafia Rusa asegura que no existan centros de poder independientes. Al criminalizar toda actividad económica relevante, el Estado (Tier A) garantiza que todos los actores sean vulnerables y, por lo tanto, leales.
+**La Homeostasis del Régimen**. La Mafia Rusa asegura que no existan centros de poder independientes. Al criminalizar toda actividad económica relevante, el Estado (aparato estatal, capa B) garantiza que todos los actores sean vulnerables y, por lo tanto, leales.

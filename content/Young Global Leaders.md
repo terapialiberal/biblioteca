@@ -2,7 +2,7 @@
 titulo: Young Global Leaders
 tipo: programa
 fecha: 2026-04-21
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 aliases: ["YGL", "WEF Young Global Leaders"]

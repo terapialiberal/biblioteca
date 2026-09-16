@@ -4,7 +4,7 @@ titulo: "Caso Santiago Maldonado"
 aliases: ["Caso Santiago Maldonado"]
 tags: [evento, argentina, mapuches, desaparicion]
 tipo: evento
-nivel: C
+capa_tema: c
 ---
 
 # Caso Santiago Maldonado

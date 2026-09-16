@@ -2,7 +2,7 @@
 titulo: Ventana de Overton
 tipo: concepto
 fecha: 2026-04-21
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 tags: [ventana-de-overton, opinion-publica, ingenieria-social, gradualismo, aceptabilidad, tl-intel-v3]

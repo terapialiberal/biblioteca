@@ -2,7 +2,7 @@
 titulo: George W. Bush
 tipo: "persona"
 fecha: 2026-02-25
-tier_primario: "b"
+tier_primario: c
 nivel_evidencia: "medio"
 estado: activo
 tags: [bush, george, pnac, skull]
@@ -11,11 +11,14 @@ publish: true
 
 # George W. Bush
 
+> **Clasificación (2026-09-15):** cargo político de gobierno: cuadro visible y reemplazable (Tier C por canon).
+> **Nota de vocabulario:** donde esta ficha usa «Tier A / Tier B / Tier C» en encabezados de sección, usa el vocabulario anterior al canon de actores (capas de la estructura: dueños / operadores / cara visible). La clasificación de este sujeto es la del frontmatter (`tier_primario` en actores, `capa_tema` en objetos).
+
 ## Perfil TL (Resumen Ejecutivo)
 
 **Quien es?** 43o Presidente de EE.UU. e hijo del ex-presidente y director de la CIA George H. W. Bush.
 
-**¿Por qué importa?** George W. Bush fue el **rostro de la "Guerra Infinita" y la consolidación del Estado de Vigilancia**. Su presidencia estuvo marcada por el evento catalizador del **[[9-11]]**, el cual utilizó como un "Nuevo Pearl Harbor" para implementar el **Patriot Act** (destrucción de la privacidad del Tier C) y para invadir Afganistán e Irak bajo falsas pretensiones (**Armas de Destrucción Masiva**). Bush representa la **Continuidad del Linaje de Tier A**; un miembro de **[[Skull and Bones]]** cuyo mandato fue gestionado por los Neoconservadores del **[[PNAC]]**. Su papel fue el de un "Frontman" simpático y aparentemente torpe que permitió que el Estado Profundo (encabezado por **[[Dick Cheney]]**) capturara permanentemente el aparato legislativo y militar de EE.UU., iniciando la era de la biovigilancia y la guerra preventiva global.
+**¿Por qué importa?** George W. Bush fue el **rostro de la "Guerra Infinita" y la consolidación del Estado de Vigilancia**. Su presidencia estuvo marcada por el evento catalizador del **[[9-11]]**, el cual utilizó como un "Nuevo Pearl Harbor" para implementar el **Patriot Act** (destrucción de la privacidad del Tier C) y para invadir Afganistán e Irak bajo falsas pretensiones (**Armas de Destrucción Masiva**). Bush representa la **continuidad del linaje familiar (Tier C: cara visible; la capa propietaria es Tier A)**; un miembro de **[[Skull and Bones]]** cuyo mandato fue gestionado por los Neoconservadores del **[[PNAC]]**. Su papel fue el de un "Frontman" simpático y aparentemente torpe que permitió que el Estado Profundo (encabezado por **[[Dick Cheney]]**) capturara permanentemente el aparato legislativo y militar de EE.UU., iniciando la era de la biovigilancia y la guerra preventiva global.
 
 ## Análisis De Poder (Tiers)
 

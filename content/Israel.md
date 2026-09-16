@@ -2,7 +2,7 @@
 titulo: "Israel"
 tipo: estado
 estado: activo
-tier_primario: a
+tier_primario: c
 nivel_evidencia: alto
 tags: [israel, medio-oriente, seguridad, inteligencia, energia, tl-intel-v3]
 publish: true
@@ -10,8 +10,8 @@ publish: true
 
 # Israel
 
-> [!IMPORTANT] Estado pivote de seguridad regional
-> Israel es nodo Tier A por inteligencia, defensa, tecnología, lobby, energía regional y función geopolítica en Medio Oriente.
+> **Clasificación corregida (2026-09-15):** el Estado no es Tier A (canón: A = dueños del capital; ⛔ nunca colapsar Estado/país con Tier A). El Estado ejecuta; los dueños del capital que lo sostiene son las gestoras y fondos de la capa A. La fachada visible (gobierno, coalición) es la capa C.
+> **Nota de vocabulario:** donde esta ficha usa «Tier A / Tier B / Tier C» en encabezados de sección, usa el vocabulario anterior al canon de actores (capas de la estructura: dueños / operadores / cara visible). La clasificación de este sujeto es la del frontmatter (`tier_primario` en actores, `capa_tema` en objetos).
 
 ## Qué es
 

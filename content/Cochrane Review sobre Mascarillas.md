@@ -2,7 +2,7 @@
 titulo: Cochrane Review sobre Mascarillas
 tipo: documento
 fecha: 2026-04-19
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 tags: [cochrane-review-mascarillas, evidencia, salud-publica, mascarillas, covid, tl-intel-v3]

@@ -2,7 +2,7 @@
 titulo: Hundimiento Del Titanic
 tipo: "concepto"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [hundimiento, reserva, titanic]
@@ -21,7 +21,7 @@ publish: true
 
 ### Tier A (Los Dueños Del Banco Central)
 
-- **J.P. Morgan / Cartel de Jekyll Island:** El Tier A financiero necesitaba un sistema de emisión de deuda privada para financiar las futuras guerras (WWI). El Titanic fue el "limpiador de obstáculos" perfecto. Al controlar la _White Star Line_, tenían el control total sobre la logística del desastre.
+- **J.P. Morgan / Cartel de Jekyll Island:** El Tier A necesitaba un sistema de emisión de deuda privada para financiar las futuras guerras (WWI). El Titanic fue el "limpiador de obstáculos" perfecto. Al controlar la _White Star Line_, tenían el control total sobre la logística del desastre.
 - **Eliminación de la Fortuna Competidora:** Al morir Astor IV, la fortuna más grande de EE.UU. dejó de ser un obstáculo para la hegemonía de los Morgan y los Rockefeller en la política económica del país.
 
 ### Tier B (Operadores / Capitanes Y Jesuitas)

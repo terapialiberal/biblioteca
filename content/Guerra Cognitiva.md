@@ -1,8 +1,8 @@
 ---
 titulo: Guerra Cognitiva (Cognitive Warfare)
-tipo: "persona"
+tipo: "concepto"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [ciberntica, cognitive, guerra, warfare]
@@ -10,6 +10,8 @@ publish: true
 ---
 
 # Guerra Cognitiva (Cognitive Warfare)
+
+> **Nota de vocabulario:** donde esta ficha usa «Tier A / Tier B / Tier C» en encabezados de sección, usa el vocabulario anterior al canon de actores (capas de la estructura: dueños / operadores / cara visible). La clasificación de este sujeto es la del frontmatter (`tier_primario` en actores, `capa_tema` en objetos).
 
 ## Perfil TL (Resumen Ejecutivo)
 

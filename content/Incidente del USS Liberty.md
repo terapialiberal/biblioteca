@@ -2,7 +2,7 @@
 titulo: Incidente Del USS Liberty
 tipo: "evento"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [guerra, incidente, liberty, lyndon]
@@ -21,7 +21,7 @@ publish: true
 
 ### Tier A (Los Dueños Del Pacto De Sangre)
 
-- **Inviolabilidad de Israel:** El Tier A financiero y político de EE.UU. decidió que la relación estratégica con Israel era superior a la vida de sus propios militares. El encubrimiento del USS Liberty selló para siempre la jerarquía donde ciertos "aliados" de Tier A tienen carta blanca para atacar a EE.UU. sin consecuencias.
+- **Inviolabilidad de Israel:** El Tier A y político de EE.UU. decidió que la relación estratégica con Israel era superior a la vida de sus propios militares. El encubrimiento del USS Liberty selló para siempre la jerarquía donde ciertos "aliados" de Tier A tienen carta blanca para atacar a EE.UU. sin consecuencias.
 - **Ingeniería de la Guerra:** El intento de usar el USS Liberty como un "nuevo Maine" o "nuevo Tonkín" muestra que el Tier A no tiene lealtad nacional, solo objetivos de expansión y captura de territorio (en este caso, el apoyo total a la expansión israelí).
 
 ### Tier B (Operadores / LBJ Y Robert McNamara)
@@ -42,4 +42,4 @@ publish: true
 
 ## Por Qué Importa (Estilo Nico)
 
-> "El USS Liberty es la prueba de que el patriotismo es un cuento para los giles. Israel bombardeó un barco yanqui durante horas, mató a 34 pibes a sangre fría y ametralló hasta los botes salvavidas para que no quede nadie vivo. ¿Qué hizo EE.UU.? Les echó la culpa a los marineros y les prohibió hablar. El presidente Johnson dejó que se desangren porque el negocio con Israel (Tier A) valía más que la vida de sus soldados. Si querés saber quién manda de verdad, fijate a quién podés atacar sin que te devuelvan el golpe. El Liberty no fue un accidente; fue un bautismo de sangre que demostró que el Pentágono tiene dueño y no es el pueblo americano."
+> "El USS Liberty es la prueba de que el patriotismo es un cuento para los giles. Israel bombardeó un barco yanqui durante horas, mató a 34 pibes a sangre fría y ametralló hasta los botes salvavidas para que no quede nadie vivo. ¿Qué hizo EE.UU.? Les echó la culpa a los marineros y les prohibió hablar. El presidente Johnson dejó que se desangren porque el negocio con Israel (el Estado, capa C) valía más que la vida de sus soldados. Si querés saber quién manda de verdad, fijate a quién podés atacar sin que te devuelvan el golpe. El Liberty no fue un accidente; fue un bautismo de sangre que demostró que el Pentágono tiene dueño y no es el pueblo americano."

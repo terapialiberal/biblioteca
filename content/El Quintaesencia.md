@@ -5,7 +5,7 @@ fecha: 2026-04-27
 estado: activo
 aliases: ["El Quintaesencia (Ether)", "Quintaesencia", "Quintessence"]
 tags: [quintaesencia, ether, alquimia, simbolismo, tl-intel-v3]
-tier_primario: c
+capa_tema: c
 nivel_evidencia: medio
 publish: true
 ---

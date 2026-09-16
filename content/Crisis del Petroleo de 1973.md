@@ -2,7 +2,7 @@
 titulo: Crisis Del Petróleo De 1973
 tipo: "evento"
 fecha: 2026-02-25
-tier_primario: "b"
+capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: ["1973", crisis, henry, sistema]

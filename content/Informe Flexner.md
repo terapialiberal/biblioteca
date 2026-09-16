@@ -2,7 +2,7 @@
 titulo: Informe Flexner
 tipo: documento
 fecha: 2026-04-18
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 estado: activo
 aliases: ["Informe Flexner (1910)"]

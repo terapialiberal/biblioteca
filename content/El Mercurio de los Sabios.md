@@ -5,7 +5,7 @@ fecha: 2026-04-27
 estado: activo
 aliases: ["El Mercurio De Los Sabios (Capital Flotante)", "Mercurio de los Sabios"]
 tags: [mercurio-de-los-sabios, alquimia, capital, liquidez, simbolismo, tl-intel-v3]
-tier_primario: b
+capa_tema: b
 nivel_evidencia: medio
 publish: true
 ---

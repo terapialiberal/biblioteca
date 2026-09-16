@@ -4,7 +4,7 @@ titulo: "Carlos Castaño"
 aliases: ["Carlos Castaño"]
 tags: [actor, colombia, paramilitares, auc, narcotrafico]
 tipo: actor
-nivel: C
+tier_primario: C
 ---
 
 # Carlos Castaño

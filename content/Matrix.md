@@ -4,7 +4,7 @@ titulo: "Matrix"
 aliases: ["Matrix", "The Matrix"]
 tags: [concepto, cultura-pop, simulacion, control-narrativo]
 tipo: concepto
-nivel: C
+capa_tema: c
 ---
 
 # Matrix (Película - Concepto)

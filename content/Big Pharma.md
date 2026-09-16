@@ -2,7 +2,7 @@
 titulo: Big Pharma
 tipo: concepto
 fecha: 2026-04-21
-tier_primario: a
+capa_tema: a
 nivel_evidencia: medio
 estado: activo
 tags: [big-pharma, farmaceuticas, captura-sanitaria, patentes, bioseguridad, tl-intel-v3]

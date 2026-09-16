@@ -3,7 +3,7 @@ titulo: "BlackRock - Vanguard - State Street"
 publish: true
 tipo: concepto
 fecha: 2026-04-07
-tier_primario: A
+capa_tema: a
 moc_canonico: [[00_MOC - Control Financiero]]
 estado: activo
 aliases: ["Big Three", "La Trifecta Del Control Financiero", "BlackRock - Vanguard - State Street: La Trifecta Del Control Financiero"]
