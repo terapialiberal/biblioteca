@@ -112,3 +112,12 @@ Warsh importa menos por su biografia aislada que por el momento en el que aparec
 - **Coartada Bessent:** "IA duplica productividad, inflación cede." Petróleo $126→$77 (paz Irán).
 - **Falsador:** Dot plot jun 2026: 9/18 FOMC a favor de subir. Si ejecutan y PCE cae a 3.6%, tasa real positiva hacia dic 2026.
 - **Fuentes:** Fed, BLS, transcript-1.txt \[63:27], \[66:37]
+
+## Caso 2026-09-24 — La guerra que está reordenando el mapa energético
+
+Fed sube a 3,75-4,00% — primera subida en 3 años — con el 10Y alrededor de 5%. Eleva el costo del dinero en un contexto de shock energético y stress de deuda, conectando la política monetaria con la reconfiguración del mapa energético.
+
+- [AP News: Federal Reserve Chair Warsh y la inflación](https://apnews.com/article/federal-reserve-warsh-trump-inflation-bab1bcb07e973bfb2dd0c3e5fbbb73b1) — cobertura de la subida de tasas
+- [Video: LA GUERRA QUE ESTÁ REORDENANDO EL MAPA ENERGÉTICO](https://www.youtube.com/watch?v=Fp76aYUEYnQ) — emitido 2026-09-24
+
+Transcript: [[03_Produccion/2026-09-14_El_dia_despues_tiene_duenios/transcripcion|transcripción curada]]

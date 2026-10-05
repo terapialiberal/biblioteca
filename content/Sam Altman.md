@@ -17,20 +17,20 @@ Altman ha consolidado un **Integración Vertical de Poder** sin precedentes: con
 
 #### MAPA DE ACTORES
 
-| Actor | Tier | Rol Real | Incentivo Oculto |
-|-------|------|----------|-----------------|
-| [[Sam Altman]] | A | Arquitecto de Realidades Sintéticas | Lograr la [[AGI\|Agi]] mediante el control del triplete Datos-Chips-Energía. |
-| [[Satya Nadella]] (Microsoft) | A | Socio / Landlord | Proveer la escala de Azure a cambio de exclusividad en modelos de IA. |
-| [[Bill Gates]] | A | Mentor / Competidor nuclear | Colaborar en la transición nuclear (Natrium) mientras compiten en Cloud. |
-| [[MBS (Saudi Arabia)]]| A | Financista (AI Infrastructure) | Inversiones en la red de Altman para diversificar el petróleo. |
+|| Actor | Tier | Rol Real | Incentivo Oculto |
+||-------|------|----------|-----------------|
+|| [[Sam Altman]] | A | Arquitecto de Realidades Sintéticas | Lograr la [[AGI\|Agi]] mediante el control del triplete Datos-Chips-Energía. |
+|| [[Satya Nadella]] (Microsoft) | A | Socio / Landlord | Proveer la escala de Azure a cambio de exclusividad en modelos de IA. |
+|| [[Bill Gates]] | A | Mentor / Competidor nuclear | Colaborar en la transición nuclear (Natrium) mientras compiten en Cloud. |
+|| [[MBS (Saudi Arabia)]]| A | Financista (AI Infrastructure) | Inversiones en la red de Altman para diversificar el petróleo. |
 
 #### SEÑALES VS RUIDO
 
-| Tipo | Acción / Declaración | Interpretación |
-|------|----------------------|----------------|
-| 🔊 Señal ✅ | Helion Polaris alcanza 150M de grados (Feb 2026). | Demostración técnica de que la fusión comercial es un horizonte real (2028). |
-| 🔊 Señal ✅ | Oklo inicia campus de 1.2 GW en Ohio para [[Meta]]. | Escalamiento masivo de la fisión modular para Big Tech. |
-| 🔇 Ruido ❌ | "Queremos que la IA sea para todos". | La IA es para quienes controlan el hardware y la energía física. |
+|| Tipo | Acción / Declaración | Interpretación |
+||------|----------------------|----------------|
+|| 🔊 Señal ✅ | Helion Polaris alcanza 150M de grados (Feb 2026). | Demostración técnica de que la fusión comercial es un horizonte real (2028). |
+|| 🔊 Señal ✅ | Oklo inicia campus de 1.2 GW en Ohio para [[Meta]]. | Escalamiento masivo de la fisión modular para Big Tech. |
+|| 🔇 Ruido ❌ | "Queremos que la IA sea para todos". | La IA es para quienes controlan el hardware y la energía física. |
 
 #### CUI BONO REAL
 
@@ -44,15 +44,15 @@ Altman captura el **Costo Marginal Cero de la Inteligencia**. Al dominar la fusi
 **Condición de ruptura:** El fracaso del reactor Orion de Helion en 2028 en inyectar energía a la red de Microsoft, colapsando la valoración de OpenAI.
 **Horizonte:** Centenario (El cambio de paradigma energético).
 
+**Indicador maestro:** Avance en el acuerdo de compra de energía (PPA) entre Helion y Microsoft.
+
 #### ESCENARIOS FUTUROS
 
-| Escenario | Prob. | Descripción | Indicador Temprano |
-|-----------|-------|-------------|-------------------|
-| 🔵 Base | 60% | Altman se convierte en el mayor proveedor de energía "computacional" del mundo. | Inicio de operaciones comerciales de Oklo en 2027. |
-| 🟡 Alternativo | 30% | Regulación antimonopolio desmantela el nexo OpenAI-Helion-Microsoft. | Demandas del DOJ por integración vertical predatoria. |
-| 🔴 Cisne Negro | 10% | La fusión de Helion funciona tan bien que destruye el mercado global de petróleo y gas en 5 años. | Desplome masivo de Aramco tras hitos de Helion. |
-
-**Indicador maestro:** Avance en el acuerdo de compra de energía (PPA) entre Helion y Microsoft.
+|| Escenario | Prob. | Descripción | Indicador Temprano |
+||-----------|-------|-------------|-------------------|
+|| 🔵 Base | 60% | Altman se convierte en el mayor proveedor de energía "computacional" del mundo. | Inicio de operaciones comerciales de Oklo en 2027. |
+|| 🟡 Alternativo | 30% | Regulación antimonopolio desmantela el nexo OpenAI-Helion-Microsoft. | Demandas del DOJ por integración vertical predatoria. |
+|| 🔴 Cisne Negro | 10% | La fusión de Helion funciona tan bien que destruye el mercado global de petróleo y gas en 5 años. | Desplome masivo de Aramco tras hitos de Helion. |
 
 #### FALSABILIDAD
 
@@ -71,3 +71,17 @@ Sam Altman es un inversor de riesgo agresivo que simplemente diversifica. Sus ap
 #### LAGUNAS
 
 ¿Cuál es la participación exacta de Altman en las redes de inteligencia (In-Q-Tel) para asegurar que su tríada de poder no sea intervenida por el Estado?
+
+## Caso 2026-09-24 — La guerra que está reordenando el mapa energético
+
+En el video "LA GUERRA QUE ESTÁ REORDENANDO EL MAPA ENERGÉTICO" (2026-09-24, caso [[El_dia_despues_tiene_duenios]]), Sam Altman aparece como actor visible de Tier C en dos escenas documentadas:
+
+1. **Normas globales de IA en la ONU**: Altman llevó a las Naciones Unidas la idea de normas globales de seguridad para la IA, presentándose como portador de la agenda regulatoria internacional (https://www.bloomberglinea.com/mundo/estados-unidos/sam-altman-de-openai-llevara-a-la-onu-la-idea-de-normas-globales-de-seguridad-para-la-ia/).
+
+2. **Pitch a utilities sobre defensa de red**: Recorrió la industria eléctrica estadounidense proponiendo que las utilities integraran defensa de red basada en IA. Politico documentó el recorrido como un cambio de rumbo estratégico de OpenAI hacia la infraestructura crítica (https://www.politico.com/news/2026/09/10/sam-altman-pitches-utilities-on-ai-grid-defense-01070425).
+
+3. **Reunión CSBS no es contrato**: En su comparecencia ante el Comparing America's Bank Supervisors, Altman se encontró con representantes del sector y dejó claro que la reunión era de presentación, no un contrato firmado ni compromiso de compra (https://x.com/cspan/status/2102851849066107252).
+
+**Fuentes del caso**: Transcripción en [[03_Produccion/2026-09-14_El_dia_despues_tiene_duenios/transcripcion.md]] · Video: https://www.youtube.com/watch?v=Fp76aYUEYnQ
+
+**Nota TL**: Altman operó en modo visible (Tier C) en este caso: presentaciones, pitch, reuniones — no firmas ni commitment. Las URLs son los hechos verificables; la interpretación de qué se jugó es tesis.

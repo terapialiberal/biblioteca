@@ -2,7 +2,7 @@
 link: "https://x.com/terapia_liberal/status/2000954895432593564"
 fecha: 2026-01-08T00:00:00.000Z
 tipo: concepto
-usado_en: "2027-01-07 Gaza SA"
+usado_en: "2027-01-07_Gaza_SA"
 estado: activo
 tags: [desarrollo-costero, gaza, jared-kushner, negocios-bienes-raices, politica-trump, tl-intel-v3]
 titulo: "Yerno de Trump planea construir en Gaza"
@@ -32,5 +32,5 @@ La reconstrucción post-guerra puede funcionar como mecanismo de transferencia d
 
 - [[Jared Kushner]]
 - [[Gaza Marine]]
-- 2027-01-07 Gaza SA
+- 2027-01-07\_Gaza\_SA
 - [[Cabinete Trump 2.0|Trumpismo]]

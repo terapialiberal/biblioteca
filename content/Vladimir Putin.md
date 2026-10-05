@@ -36,3 +36,12 @@ La inteligencia rusa (SVR) ha calificado el asesinato de Khamenei como una "oper
 ## 💰 Cui Bono
 
 Captura del mercado de energía de Eurasia y consolidación de Rusia como el "garante de seguridad" para los países que buscan saltar el dólar.
+
+## Caso 2026-09-24 — La guerra que está reordenando el mapa energético
+
+Pide coordinación BRICS DENTRO de las instituciones financieras de desarrollo global, no fuera. Mensaje clave del compilado: el gas pasa de 150 a 1000 y luego a 1500 — escalada del precio del energy como arma de reordenamiento.
+
+- [X/@TranslateMom (11 sep 2026): Putin sobre coordinación BRICS dentro de las instituciones](https://x.com/TranslateMom/status/2098823186024468598) — declaración del caso
+- [Reuters (11 sep 2026): Jefes de finanzas de BRICS urgen reforma de instituciones financieras de desarrollo global](https://www.reuters.com/business/finance/brics-finance-chiefs-urge-reform-global-development-financial-institutions-2026-09-11/) — contexto del eje BRICS
+
+Transcript: [[03_Produccion/2026-09-14_El_dia_despues_tiene_duenios/transcripcion|transcripción curada]]

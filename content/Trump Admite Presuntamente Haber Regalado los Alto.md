@@ -2,7 +2,7 @@
 link: https://x.com/TranslateMom/status/1869458331854918088
 fecha: 2026-01-08T00:00:00.000Z
 tipo: concepto
-usado en: '[[2027-01-07 Gaza SA]]'
+usado en: '[[2027-01-07_Gaza_SA]]'
 estado: activo
 tags: [geopolitica-altos-del-golan, politica-corrupcion, politica-donald-trump, politica-financiamiento-campanas, politica-influencia]
 titulo: Trump Admite Presuntamente Haber Regalado Los Alto

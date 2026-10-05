@@ -167,9 +167,9 @@ tags: [moc, cbdc, tokenizacion, rieles-financieros, tl-intel-v3]
 
 - [[06_Videos_Publicados/2025/2025-10-24_El_RESET_MALTHUSIANO_GEOPOLITICA/🚨 Prediccion de The Economist El Tiempo se acaba + Trump se enfurece con Rusia y otras noticias.md|🚨 Prediccion de The Economist El Tiempo se acaba + Trump se enfurece con Rusia y otras noticias]]
 
-- [[06_Videos_Publicados/2026/2026-03-17 IRAN_STREAM/00_ARCHIVO_2026-03-17_Iran.md|00_ARCHIVO_2026-03-17_Iran]]
+- [[06_Videos_Publicados/2026/2026-03-17_Iran_Stream/00_ARCHIVO_2026-03-17_Iran.md|00_ARCHIVO_2026-03-17_Iran]]
 
-- [[03_Produccion/2026-09-14_El_dia_despues_tiene_duenios/00_CONTROL_TEMA.md|00_CONTROL_TEMA]]
+- [[06_Videos_Publicados/2026/2026-09-14_El_dia_despues_tiene_duenios/_SISTEMA/00_CONTROL_TEMA.md|00_CONTROL_TEMA]]
 
 - [[00_MOC - Finanzas y CBDC.md|00_MOC - Finanzas y CBDC]]
 
@@ -229,7 +229,7 @@ tags: [moc, cbdc, tokenizacion, rieles-financieros, tl-intel-v3]
 
 - [[CBDCs (Monedas Digitales de Banco Central).md|CBDCs (Monedas Digitales de Banco Central)]]
 
-- [[06_Videos_Publicados/2026/2026-04-15_LAS GUERRAS MAGA/cc_ANALISIS_Bilderberg1973_Reset_Monetario.md|cc_ANALISIS_Bilderberg1973_Reset_Monetario]]
+- [[06_Videos_Publicados/2026/2026-04-15_Las_Guerras_Maga/cc_ANALISIS_Bilderberg1973_Reset_Monetario.md|cc_ANALISIS_Bilderberg1973_Reset_Monetario]]
 
 - [[Christine Lagarde.md|Christine Lagarde]]
 
@@ -281,8 +281,6 @@ tags: [moc, cbdc, tokenizacion, rieles-financieros, tl-intel-v3]
 
 - [[Federico Sturzenegger.md|Federico Sturzenegger]]
 
-- [[03_Produccion/2026-09-14_El_dia_despues_tiene_duenios/FUENTES_MARCADORES_2026-09-14.md|FUENTES_MARCADORES_2026-09-14]]
-
 - [[G20.md|G20]]
 
 - [[G7.md|G7]]
@@ -305,6 +303,8 @@ tags: [moc, cbdc, tokenizacion, rieles-financieros, tl-intel-v3]
 
 - [[Imperio Británico.md|Imperio Británico]]
 
+- [[07_Informes/02_PATREONS/2026-09-14_GoMining_DueDiligence/Reunion/INFORME_Reunion_2026-09-22.md|INFORME_Reunion_2026-09-22]]
+
 - [[Integra Capital.md|Integra Capital]]
 
 - [[Keynesianismo.md|Keynesianismo]]
@@ -314,8 +314,6 @@ tags: [moc, cbdc, tokenizacion, rieles-financieros, tl-intel-v3]
 - [[06_Videos_Publicados/2025/2025-11-12_Como_Funciona_el_Mundo/La Matrix del Poder Quienes son los Verdaderos Dueños del Planeta.md|La Matrix del Poder Quienes son los Verdaderos Dueños del Planeta]]
 
 - [[Larry Fink.md|Larry Fink]]
-
-- [[03_Produccion/2026-09-14_El_dia_despues_tiene_duenios/LECTURA_DE_CAMARA_El_dia_despues_tiene_duenios.md|LECTURA_DE_CAMARA_El_dia_despues_tiene_duenios]]
 
 - [[Libra - Diem.md|Libra - Diem]]
 
@@ -349,9 +347,9 @@ tags: [moc, cbdc, tokenizacion, rieles-financieros, tl-intel-v3]
 
 - [[06_Videos_Publicados/2026/2026-03-26_El_Reseteo_Perfecto/NOTA_TESIS_El_Reseteo_Perfecto.md|NOTA_TESIS_El_Reseteo_Perfecto]]
 
-- [[06_Videos_Publicados/2026/2026-03-17 IRAN_STREAM/nota-tesis-iran-2026-tablero-completo.md|nota-tesis-iran-2026-tablero-completo]]
+- [[06_Videos_Publicados/2026/2026-03-17_Iran_Stream/nota-tesis-iran-2026-tablero-completo.md|nota-tesis-iran-2026-tablero-completo]]
 
-- [[06_Videos_Publicados/2026/2026-03-17 IRAN_STREAM/NotaTesis_MegaGroup_RedContinuidad_v5.md|NotaTesis_MegaGroup_RedContinuidad_v5]]
+- [[06_Videos_Publicados/2026/2026-03-17_Iran_Stream/NotaTesis_MegaGroup_RedContinuidad_v5.md|NotaTesis_MegaGroup_RedContinuidad_v5]]
 
 - [[OCDE.md|OCDE]]
 
@@ -366,6 +364,8 @@ tags: [moc, cbdc, tokenizacion, rieles-financieros, tl-intel-v3]
 - [[Proyecto Agora.md|Proyecto Agora]]
 
 - [[Proyecto mBridge.md|Proyecto mBridge]]
+
+- [[02_Preproduccion/2026-09-09_La_Historia_no_se_repite_pero_rima/02_EVIDENCIA/REVISION_2026-09-17_ECONOMIA.md|REVISION_2026-09-17_ECONOMIA]]
 
 - [[Rishi Sunak.md|Rishi Sunak]]
 
@@ -387,7 +387,7 @@ tags: [moc, cbdc, tokenizacion, rieles-financieros, tl-intel-v3]
 
 - [[Toto Caputo.md|Toto Caputo]]
 
-- [[08_Archivados/2026-04-10_Milei_BlackRock_Elite/TRANSCRIPT_Massa_CBDC_WEF_20231002.md|TRANSCRIPT_Massa_CBDC_WEF_20231002]]
+- [[01_Research/03_RESEARCH/2026-04-10_Milei_BlackRock_Elite/TRANSCRIPT_Massa_CBDC_WEF_20231002.md|TRANSCRIPT_Massa_CBDC_WEF_20231002]]
 
 - [[Transmutacion de Metales y CBDCs.md|Transmutacion de Metales y CBDCs]]
 

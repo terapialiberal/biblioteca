@@ -195,7 +195,7 @@ tags: [moc, tecnologia-de-control, ia, vigilancia, tl-intel-v3]
 
 - [[06_Videos_Publicados/2026/2026-04-13_Ormuz_IA_Orden/00_ARCHIVO_2026-04-13_Ormuz_IA_Orden.md|00_ARCHIVO_2026-04-13_Ormuz_IA_Orden]]
 
-- [[06_Videos_Publicados/2026/2026-04-13_Ormuz_IA_Orden/00_CONTROL_TEMA.md|00_CONTROL_TEMA]]
+- [[06_Videos_Publicados/2026/2026-04-13_Ormuz_IA_Orden/_SISTEMA/00_CONTROL_TEMA.md|00_CONTROL_TEMA]]
 
 - [[00_MOC - Salud Global y Bioseguridad.md|00_MOC - Salud Global y Bioseguridad]]
 
@@ -250,6 +250,8 @@ tags: [moc, tecnologia-de-control, ia, vigilancia, tl-intel-v3]
 - [[Broadcom.md|Broadcom]]
 
 - [[Cables submarinos el talon de Aquiles del mundo digital.md|Cables submarinos el talon de Aquiles del mundo digital]]
+
+- [[Cadena física de la IA.md|Cadena física de la IA]]
 
 - [[California.md|California]]
 
@@ -383,8 +385,6 @@ tags: [moc, tecnologia-de-control, ia, vigilancia, tl-intel-v3]
 
 - [[In-Q-Tel.md|In-Q-Tel]]
 
-- [[India.md|India]]
-
 - [[07_Informes/01_AMAGI/2026-07_JULIO/INFORME_AMAGI_Julio2026_v2.0.md|INFORME_AMAGI_Julio2026_v2.0]]
 
 - [[Infosys.md|Infosys]]
@@ -406,8 +406,6 @@ tags: [moc, tecnologia-de-control, ia, vigilancia, tl-intel-v3]
 - [[Jack Ma.md|Jack Ma]]
 
 - [[Jamal Khashoggi.md|Jamal Khashoggi]]
-
-- [[Japón.md|Japón]]
 
 - [[Jensen Huang.md|Jensen Huang]]
 
@@ -487,7 +485,9 @@ tags: [moc, tecnologia-de-control, ia, vigilancia, tl-intel-v3]
 
 - [[Panopticon.md|Panopticon]]
 
-- [[06_Videos_Publicados/2026/2026-06-26_PAX SILICA/PATREON_2026-07-03_pax-silica-tecnato.md|PATREON_2026-07-03_pax-silica-tecnato]]
+- [[06_Videos_Publicados/2026/2026-06-26_Pax_Silica/PATREON_2026-07-03_pax-silica-tecnato.md|PATREON_2026-07-03_pax-silica-tecnato]]
+
+- [[06_Videos_Publicados/2026/2026-09-14_El_dia_despues_tiene_duenios/PATREON_El_dia_despues_tiene_duenios.md|PATREON_El_dia_despues_tiene_duenios]]
 
 - [[Patriot Act.md|Patriot Act]]
 
@@ -504,6 +504,8 @@ tags: [moc, tecnologia-de-control, ia, vigilancia, tl-intel-v3]
 - [[Pfizer.md|Pfizer]]
 
 - [[Police State.md|Police State]]
+
+- [[06_Videos_Publicados/2026/2026-09-14_El_dia_despues_tiene_duenios/POSTMORTEM_INTEL.md|POSTMORTEM_INTEL]]
 
 - [[06_Videos_Publicados/2026/2026-04-13_Ormuz_IA_Orden/PRE_STREAM_Ormuz_IA_Orden.md|PRE_STREAM_Ormuz_IA_Orden]]
 
@@ -557,7 +559,9 @@ tags: [moc, tecnologia-de-control, ia, vigilancia, tl-intel-v3]
 
 - [[Stephane Bancel.md|Stephane Bancel]]
 
-- [[06_Videos_Publicados/2026/2026-06-26_PAX SILICA/SUBSTACK_2026-07-03_pax-silica-tecnato.md|SUBSTACK_2026-07-03_pax-silica-tecnato]]
+- [[06_Videos_Publicados/2026/2026-06-26_Pax_Silica/SUBSTACK_2026-07-03_pax-silica-tecnato.md|SUBSTACK_2026-07-03_pax-silica-tecnato]]
+
+- [[06_Videos_Publicados/2026/2026-09-14_El_dia_despues_tiene_duenios/SUBSTACK_El_dia_despues_tiene_duenios.md|SUBSTACK_El_dia_despues_tiene_duenios]]
 
 - [[Surveillance State.md|Surveillance State]]
 

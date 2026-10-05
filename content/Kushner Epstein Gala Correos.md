@@ -6,7 +6,7 @@ descripcion: "Recorte sobre documentos que mencionan una invitacion de Jared Kus
 link: "https://www.trtworld.com/article/088169abbb7b"
 tipo: evento
 fecha: 2025-11-18
-usado_en: "2027-01-07 Gaza SA"
+usado_en: "2027-01-07_Gaza_SA"
 publish: true
 ---
 
@@ -34,4 +34,4 @@ En investigaciones de redes, las invitaciones no prueban subordinación ni consp
 - [[Jared Kushner]]
 - [[Jeffrey Epstein]]
 - [[Donald Trump]]
-- 2027-01-07 Gaza SA
+- 2027-01-07\_Gaza\_SA

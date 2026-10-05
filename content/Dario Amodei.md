@@ -49,3 +49,17 @@ publish: true
 ## Por Qué Importa (Estilo Nico)
 
 > "Amodei es el tipo que se fue de OpenAI porque decía que Altman era demasiado ambicioso, y para demostrar su 'ética' se fue a pedirle 4 mil millones de dólares a Amazon. Su 'IA Constitucional' es básicamente enseñarle a la computadora a ser políticamente correcta y obediente a lo que Amazon y Google consideren 'seguro'. No te dejes engañar por el aura de científico preocupado: Amodei es el que le está haciendo el control de calidad al cerebro digital que te va a vigilar mañana. Su trabajo no es salvarte de la IA, es asegurar que la IA trabaje para los dueños de siempre."
+
+## Caso 2026-09-24 — La guerra que está reordenando el mapa energético
+
+En el video "LA GUERRA QUE ESTÁ REORDENANDO EL MAPA ENERGÉTICO" (2026-09-24, caso [[El_dia_despues_tiene_duenios]]), Dario Amodei aparece citado en el minuto \[94:58] de la transcripción con un perfil que el video contrasta con su narrativa de "seguridad":
+
+- **Pide regular, cerrar y nacionalizar todo**: En el discurso analizado, Amodei aboga por un enfoque de regulación total, cierre de entradas y nacionalización de la infraestructura de IA — una postura que el video contextualiza dentro del debate sobre soberanía tecnológica.
+
+- **Vínculo con el entorno de Jeffrey**: Según NYT, Amodei está casado con alguien del entorno de Jeffrey Epstein, al que él pidió financiamiento para hacer películas. El chatbot de Anthropic, cuando se le preguntó, dijo desconocerlo — una respuesta que el video presenta como inconsistente con el reporting periodístico.
+
+- **Timestamp transcripción relevante**: \[94:58] "Estaba casada con el entorno de Jeffrey, de quien pidió financiamiento para hacer películas" (transcripción en [[03_Produccion/2026-09-14_El_dia_despues_tiene_duenios/transcripcion.md]], video https://www.youtube.com/watch?v=Fp76aYUEYnQ).
+
+**Fuentes del caso**: Transcripción en [[03_Produccion/2026-09-14_El_dia_despues_tiene_duenios/transcripcion.md]] · Video: https://www.youtube.com/watch?v=Fp76aYUEYnQ
+
+**Nota TL**: Amodei como Tier C visible en este caso: pide regulación pesada mientras su empresa sirve blancos militares. La contradicción entre narrativa de seguridad y práctica comercial es el tema del caso.

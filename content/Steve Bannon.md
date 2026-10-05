@@ -45,3 +45,13 @@ publish: true
 ## Conclusión Del Análisis
 
 Steve Bannon nos enseña que **las revoluciones televisadas suelen ser operaciones de inteligencia**. Nos advierte que quien más grita contra las élites puede ser el que mejor las sirve en las sombras. Para el habitante soberano del Tier C, el estudio de Bannon es el llamado al **Pensamiento Crítico Radical**: el rechazo a ser pastoreados por estratega de "guerra de la información" y la búsqueda de una soberanía que no dependa de líderes carismáticos ni de narrativas de odio. La libertad real exige entender que el "populismo" gestionado desde un estudio de podcast financiado por multimillonarios de Tier A no es el camino a la liberación. Mientras Bannon siga siendo el arquitecto del caos, el Tier C seguirá siendo el combustible de un motor que solo sabe destruir para reconstruir el poder en favor de los pocos.
+
+## Caso 2026-09-24 — La guerra que está reordenando el mapa energético
+
+En el video "LA GUERRA QUE ESTÁ REORDENANDO EL MAPA ENERGÉTICO" (2026-09-24, caso [[El_dia_despues_tiene_duenios]]), Steve Bannon aparece como actor visible de Tier C con una propuesta explícita:
+
+- **Desacople total de IA de China**: Bannon propone desacoplar la industria de IA estadounidense de China en tres dimensiones: chips (hardware), capital (financiamiento) y formación (talento/educación). La propuesta, publicada en su canal War Room, plantea el desacople como condición para la soberanía tecnológica de EE.UU. (https://x.com/Bannons\_WarRoom/status/2099510484676272591).
+
+**Fuentes del caso**: Transcripción en [[03_Produccion/2026-09-14_El_dia_despues_tiene_duenios/transcripcion.md]] · Video: https://www.youtube.com/watch?v=Fp76aYUEYnQ
+
+**Nota TL**: Bannon como Tier C visible en este caso: propone desacople total como narrativa pública. La pregunta de poder es quién beneficia el desacople propuesto — la respuesta queda en la ficha de [[Steve Bannon]] y sus conexiones de Tier A.

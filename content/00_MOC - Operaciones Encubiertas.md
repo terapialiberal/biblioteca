@@ -109,7 +109,7 @@ tags: [moc, operaciones-encubiertas, inteligencia, false-flag, tl-intel-v3]
 
 - solo despues bajar a [[CIA]] y operaciones mas duras cuando el caso muestre escalada por encima de la influencia blanda.
 
-- [[06_Videos_Publicados/2026/2026-04-07_NWO_Energetico_Blueprint/00_CONTROL_TEMA.md|00_CONTROL_TEMA]]
+- [[06_Videos_Publicados/2026/2026-04-07_NWO_Energetico_Blueprint/_SISTEMA/00_CONTROL_TEMA.md|00_CONTROL_TEMA]]
 
 - [[00_MOC - Inteligencia Clasica y Operaciones Historicas.md|00_MOC - Inteligencia Clasica y Operaciones Historicas]]
 
@@ -301,7 +301,7 @@ tags: [moc, operaciones-encubiertas, inteligencia, false-flag, tl-intel-v3]
 
 - [[Palantir CIA.md|Palantir CIA]]
 
-- [[08_Archivados/2026-04-10_Milei_BlackRock_Elite/Paper de Trabajo - Palantir-SIDE.md|Paper de Trabajo - Palantir-SIDE]]
+- [[01_Research/03_RESEARCH/2026-04-10_Milei_BlackRock_Elite/Paper de Trabajo - Palantir-SIDE.md|Paper de Trabajo - Palantir-SIDE]]
 
 - [[Patron - Need to Know (Necesidad de Saber).md|Patron - Need to Know (Necesidad de Saber)]]
 

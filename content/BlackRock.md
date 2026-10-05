@@ -77,3 +77,12 @@ El ajuste importante es este: en la base viva BlackRock conviene leerlo menos co
 ## Casos relacionados
 
 - [[06_Videos_Publicados/2026/2026-07-13_Graham_BigThree_Ankara/POSTMORTEM_INTEL|Graham / Big Three / Ankara]] (17 jul 2026) — BlackRock como pieza del supra-bloque: dueño cruzado de Lockheed/RTX/Northrop + MSFT/AMZN/GOOG (~25% votos EEUU), y primera gestora occidental 100% propia en China (2021). Cobra el toll de Ormuz sin elegir bando. Trump Accounts gestionadas por Big Three (CNBC 1-2 jul). DTCC \$114T on-chain (piloto jul-2026) es la tubería que BlackRock ya operó en TALF 2008.
+
+## Caso 2026-09-24 — La guerra que está reordenando el mapa energético
+
+Nombrada por Kushner en el plan de prosperidad Ucrania (clip M12, 13 sep 2026) como parte de la mesa de posguerra junto a Larry Fink y Ajay Banga. Aparece también en el contexto de los rieles energéticos 2027 del compilado.
+
+- [Video: LA GUERRA QUE ESTÁ REORDENANDO EL MAPA ENERGÉTICO](https://www.youtube.com/watch?v=Fp76aYUEYnQ) — emitido 2026-09-24
+- [X/@TranslateMom (13 sep 2026): Kushner sobre el plan de prosperidad con Banga, Fink y BlackRock](https://x.com/TranslateMom/status/2099112300225441960) — clip M12
+
+Transcript: [[03_Produccion/2026-09-14_El_dia_despues_tiene_duenios/transcripcion|transcripción curada]]

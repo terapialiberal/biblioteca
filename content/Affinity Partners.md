@@ -41,4 +41,11 @@ estado: activo
 - [[Donald Trump]]: El vehculo del poder poltico final.
 - [[MBS (Mohammed bin Salman)]]: El financista principal.
 - [[00_Glosario - Conceptos Fase 1#Acuerdos de Abraham|Acuerdos de Abraham]]: El marco diplomtico que Affinity explota comercialmente.
-- [[Corredor IMEC (India-Middle East-Europe)]]: Kushner prepara los nodos logsticos donde el IMEC debe terminar.
+- [[Corredor IMEC (India-Middle East-Europe)]]: Kushner prepara los nodos logísticos donde el IMEC debe terminar.
+
+## Caso 2026-09-28 — El Board como paraguas del fondeo
+
+Lectura de trabajo (señal en seguimiento): el Board of Peace oficializa el circuito Golfo→Kushner — los mismos soberanos que fondean Affinity (PIF, QIA, Emiratos) prometen la reconstrucción de Gaza (7.000M prometidos, fondo Banco Mundial en cero, donaciones por cuenta JPMorgan). Estructura jurídica amplia (carta de enero 2026, ticket de 1.000M por miembro), Kushner en el Executive Board y el Gaza Board, pedidos Raskin #14 (Board) y #15 (Gaza) sin responder. Vehículo en construcción: 2.450M a 6 meses presentados el 23-09, stablecoin flotado en abril (nexo World Liberty Financial).
+
+- [🔗 Irish Times: fondo vacío, cuenta JPMorgan](https://www.irishtimes.com/world/middle-east/2026/05/27/zero-dollars-why-does-donald-trumps-board-of-peace-fund-lie-empty/) · [The National 23-09: plan 2.450M](https://www.thenationalnews.com/news/us/2026/09/23/board-of-peace-gaza/) · [Straits Times: reticencia del Golfo](https://www.straitstimes.com/world/middle-east/trumps-push-for-gulf-to-pay-for-rebuilding-gaza-faces-hurdles)
+- Señal archivada: `01_Research/02_SEÑALES/2026-09-28_kushner-jeffries-board-vehiculo.md` (estado: en-seguimiento)

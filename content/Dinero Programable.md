@@ -74,4 +74,4 @@ En TL, el nodo gana todavía más fuerza cuando se lo conecta con [[00_MOC - Vig
 
 ## Casos relacionados
 
-- [[06_Videos_Publicados/2026/2026-05-13_El mundo se reconfigura/POSTMORTEM_INTEL|El mundo se reconfigura]] (13 may 2026) — "Jekyll Island 2.0": el nuevo dólar digital no vendrá como CBDC estatal pura sino como infraestructura privada/regulada de bancos (JPMorgan), gestores (BlackRock) y stablecoins. Warsh + CLARITY Act como arquitectura.
+- [[06_Videos_Publicados/2026/2026-05-13_El_Mundo_Se_Reconfigura/POSTMORTEM_INTEL|El mundo se reconfigura]] (13 may 2026) — "Jekyll Island 2.0": el nuevo dólar digital no vendrá como CBDC estatal pura sino como infraestructura privada/regulada de bancos (JPMorgan), gestores (BlackRock) y stablecoins. Warsh + CLARITY Act como arquitectura.

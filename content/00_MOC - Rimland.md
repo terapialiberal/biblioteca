@@ -132,15 +132,13 @@ tags: [moc, rimland, geopolitica, choke-points, tl-intel-v3]
 
 - [[06_Videos_Publicados/2025/2025-10-24_El_RESET_MALTHUSIANO_GEOPOLITICA/🚨 Prediccion de The Economist El Tiempo se acaba + Trump se enfurece con Rusia y otras noticias.md|🚨 Prediccion de The Economist El Tiempo se acaba + Trump se enfurece con Rusia y otras noticias]]
 
-- [[06_Videos_Publicados/2026/2026-05-13_El mundo se reconfigura/00_ARCHIVO_El_mundo_se_reconfigura.md|00_ARCHIVO_El_mundo_se_reconfigura]]
+- [[06_Videos_Publicados/2026/2026-05-13_El_Mundo_Se_Reconfigura/00_ARCHIVO_El_mundo_se_reconfigura.md|00_ARCHIVO_El_mundo_se_reconfigura]]
 
-- [[03_Produccion/2026-09-14_El_dia_despues_tiene_duenios/00_CONTROL_TEMA.md|00_CONTROL_TEMA]]
+- [[06_Videos_Publicados/2026/2026-09-14_El_dia_despues_tiene_duenios/_SISTEMA/00_CONTROL_TEMA.md|00_CONTROL_TEMA]]
 
-- [[03_Produccion/2026-09-14_El_dia_despues_tiene_duenios/00_CORPUS_FORENSE.md|00_CORPUS_FORENSE]]
+- [[06_Videos_Publicados/2026/2026-09-14_El_dia_despues_tiene_duenios/00_CORPUS_FORENSE.md|00_CORPUS_FORENSE]]
 
 - [[00_MOC - Rimland.md|00_MOC - Rimland]]
-
-- [[África.md|África]]
 
 - [[Antártida.md|Antártida]]
 
@@ -182,8 +180,6 @@ tags: [moc, rimland, geopolitica, choke-points, tl-intel-v3]
 
 - [[Estrecho de Malaca (El talon de Aquiles de China).md|Estrecho de Malaca (El talon de Aquiles de China)]]
 
-- [[03_Produccion/2026-09-14_El_dia_despues_tiene_duenios/FUENTES_MARCADORES_2026-09-14.md|FUENTES_MARCADORES_2026-09-14]]
-
 - [[06_Videos_Publicados/2025/2025-10-24_El_RESET_MALTHUSIANO_GEOPOLITICA/Graficos Geopolitica y Plan Marshall.md|Graficos Geopolitica y Plan Marshall]]
 
 - [[Haushofer.md|Haushofer]]
@@ -222,11 +218,11 @@ tags: [moc, rimland, geopolitica, choke-points, tl-intel-v3]
 
 - [[NED.md|NED]]
 
-- [[06_Videos_Publicados/2026/2026-04-15_LAS GUERRAS MAGA/NOTA_TESIS_CONSOLIDADA_LAS_GUERRAS_MAGA.md|NOTA_TESIS_CONSOLIDADA_LAS_GUERRAS_MAGA]]
+- [[06_Videos_Publicados/2026/2026-04-15_Las_Guerras_Maga/NOTA_TESIS_CONSOLIDADA_LAS_GUERRAS_MAGA.md|NOTA_TESIS_CONSOLIDADA_LAS_GUERRAS_MAGA]]
 
 - [[06_Videos_Publicados/2026/2026-03-26_El_Reseteo_Perfecto/NOTA_TESIS_El_Reseteo_Perfecto.md|NOTA_TESIS_El_Reseteo_Perfecto]]
 
-- [[06_Videos_Publicados/2026/2026-04-15_LAS GUERRAS MAGA/NOTA_TESIS_LAS_GUERRAS_MAGA.md|NOTA_TESIS_LAS_GUERRAS_MAGA]]
+- [[06_Videos_Publicados/2026/2026-04-15_Las_Guerras_Maga/NOTA_TESIS_LAS_GUERRAS_MAGA.md|NOTA_TESIS_LAS_GUERRAS_MAGA]]
 
 - [[Operacion Lava Jato.md|Operacion Lava Jato]]
 
@@ -245,8 +241,6 @@ tags: [moc, rimland, geopolitica, choke-points, tl-intel-v3]
 - [[Spykman.md|Spykman]]
 
 - [[Steve Witkoff.md|Steve Witkoff]]
-
-- [[Sudáfrica.md|Sudáfrica]]
 
 - [[Taiwán.md|Taiwán]]
 
