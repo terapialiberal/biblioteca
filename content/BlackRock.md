@@ -2,7 +2,8 @@
 titulo: "BlackRock"
 publish: true
 tipo: entidad
-fecha: 2026-04-07
+fecha: 2026-10-09
+creada: 2026-04-07
 vigencia: 2026-04-07
 tier_primario: A
 moc_canonico: [[00_MOC - Control Financiero]]
@@ -86,3 +87,15 @@ Nombrada por Kushner en el plan de prosperidad Ucrania (clip M12, 13 sep 2026) c
 - [X/@TranslateMom (13 sep 2026): Kushner sobre el plan de prosperidad con Banga, Fink y BlackRock](https://x.com/TranslateMom/status/2099112300225441960) — clip M12
 
 Transcript: [[03_Produccion/2026-09-14_El_dia_despues_tiene_duenios/transcripcion|transcripción curada]]
+
+## Casos TL relacionados
+
+- [[06_Videos_Publicados/2026/2026-10-07_Captura_Oligarquica_Crisis_Energetica/POSTMORTEM_INTEL.md|Captura oligárquica × crisis energética (2026-10-08)]] — GIP comprada antes del shock + AES 33.400M; fondos cobran gestión sobre flujos cautivos; traders BP/Shell/Total 15-20.000M — estado: confirmado.
+
+## Fuentes
+
+- [[06_Videos_Publicados/2026/2026-07-13_Graham_BigThree_Ankara/POSTMORTEM_INTEL.md|Graham / Big Three / Ankara]] — supra-bloque Big Three, primera gestora 100% propia en China, Trump Accounts, DTCC on-chain
+- [[06_Videos_Publicados/2026/2026-10-07_Captura_Oligarquica_Crisis_Energetica/POSTMORTEM_INTEL.md|Captura oligárquica × crisis energética]] — GIP + AES, fondos sobre flujos cautivos
+- [[03_Produccion/2026-09-14_El_dia_despues_tiene_duenios/transcripcion|Transcripción curada 2026-09-14]] — Kushner/Fink/Banga en mesa Ucrania
+- [[Aladdin]] — infraestructura de riesgo
+- [[NOTA_TESIS_MAESTRA]] — marco H

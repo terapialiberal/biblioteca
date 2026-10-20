@@ -203,6 +203,10 @@ tags: [moc, tecnologia-de-control, ia, vigilancia, tl-intel-v3]
 
 - [[1984.md|1984]]
 
+- [[01_Research/02_SEÑALES/2026-10-09_day-after-ia-buildout-too-big-to-stop.md|2026-10-09_day-after-ia-buildout-too-big-to-stop]]
+
+- [[01_Research/02_SEÑALES/2026-10-09_day-after-ia-regulacion-anticipada.md|2026-10-09_day-after-ia-regulacion-anticipada]]
+
 - [[Agencia de Seguridad Nacional.md|Agencia de Seguridad Nacional]]
 
 - [[Alan Turing.md|Alan Turing]]

@@ -365,7 +365,7 @@ tags: [moc, cbdc, tokenizacion, rieles-financieros, tl-intel-v3]
 
 - [[Proyecto mBridge.md|Proyecto mBridge]]
 
-- [[02_Preproduccion/2026-09-09_La_Historia_no_se_repite_pero_rima/02_EVIDENCIA/REVISION_2026-09-17_ECONOMIA.md|REVISION_2026-09-17_ECONOMIA]]
+- [[01_Research/03_RESEARCH/2026-09-09_La_Historia_no_se_repite_pero_rima/02_EVIDENCIA/REVISION_2026-09-17_ECONOMIA.md|REVISION_2026-09-17_ECONOMIA]]
 
 - [[Rishi Sunak.md|Rishi Sunak]]
 

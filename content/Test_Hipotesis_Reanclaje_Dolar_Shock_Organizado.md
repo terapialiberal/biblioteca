@@ -29,7 +29,7 @@ La hipótesis plantea un plan coordinado de reanclaje monetario que usa el shock
 
 **Veredicto parcial:** La hipótesis no es una conspiración centralizada, pero sí es **altamente plausible** como **convergencia de intereses alineados** entre actores institucionales, tecnocráticos y financieros. Múltiples componentes ya están en ejecución documentada (GENIUS Act, buybacks récord del Tesoro, nominación de Warsh, propuesta Mar-a-Lago Accord, discusiones UAE swap line, revaluación oro/BTC en proyecto de ley). Otros componentes son inferenciales o especulativos (Bail-in masivo como política deliberada, CBDC dolar como resultado inevitable, coordinación total de todos los actores).
 
-**Score de confianza global: 62/100** — Probable, con soporte estructural real pero dependiente de eventos futuros no controlados.
+**Score de confianza global (parcial, antes de la tabla de evaluación): 62/100** — Probable, con soporte estructural real pero dependiente de eventos futuros no controlados. **El score final, ya con la tabla completa, es 73/100** (ver §Evaluación).
 
 ---
 

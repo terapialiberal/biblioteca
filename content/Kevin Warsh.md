@@ -2,8 +2,9 @@
 titulo: "Kevin Warsh"
 publish: true
 tipo: persona
-fecha: 2026-04-15
-tier_primario: A
+fecha: 2026-10-09
+creada: 2026-04-15
+tier_primario: B
 estado: activo
 tags: [kevin-warsh, fed, politica-monetaria, tl-intel-v3]
 last_stream: "[[06_Videos_Publicados/2026/2026-06-17_Endgame_Ormuz/POSTMORTEM_INTEL|Endgame de Ormuz]]"
@@ -121,3 +122,7 @@ Fed sube a 3,75-4,00% — primera subida en 3 años — con el 10Y alrededor de 
 - [Video: LA GUERRA QUE ESTÁ REORDENANDO EL MAPA ENERGÉTICO](https://www.youtube.com/watch?v=Fp76aYUEYnQ) — emitido 2026-09-24
 
 Transcript: [[03_Produccion/2026-09-14_El_dia_despues_tiene_duenios/transcripcion|transcripción curada]]
+
+## Casos TL relacionados
+
+- [[06_Videos_Publicados/2026/2026-10-07_Captura_Oligarquica_Crisis_Energetica/POSTMORTEM_INTEL.md|Captura oligárquica × crisis energética (2026-10-08)]] — hold con IPC>3 + coordinación Tesoro-Fed dicha al aire + blindaje Corte Suprema 2026 (Fed casi privada); cero críticas de Trump — estado: confirmado.

@@ -2,7 +2,8 @@
 titulo: "Ronald Lauder"
 publish: true
 tipo: persona
-fecha: 2026-04-15
+fecha: 2026-10-09
+creada: 2026-04-15
 tier_primario: A
 estado: activo
 tags: [ronald-lauder, lauder, world-jewish-congress, redes-de-poder, tl-intel-v3]
@@ -81,3 +82,13 @@ Lauder importa en TL cuando aparece en cruces donde una red familiar deja de ser
 - **Groenlandia:** La idea de comprar Groenlandia fue de Ronald Lauder —yerno de Kevin Warsh—, no de Trump. Lauder es socio de Lex Wexner en el Mega Group. Wexner fue mentor de Jeffrey Epstein.
 - **Conexiones:** Lauder ↔ Warsh ↔ Trump ↔ Netanyahu. Promotor de la carrera política de Netanyahu.
 - **Fuentes:** Reuters, transcript-1.txt \[23:00-24:43]
+
+## Casos TL relacionados
+
+- [[06_Videos_Publicados/2026/2026-10-07_Captura_Oligarquica_Crisis_Energetica/POSTMORTEM_INTEL.md|Captura oligárquica × crisis energética (2026-10-08)]] — nexo A→B verificado en cámara: [[Kevin Warsh]] (yerno) preside la Fed que acompaña la licuación sin una sola crítica de Trump; Lauder como promotor de la carrera de Netanyahu — estado: confirmado.
+
+## Fuentes
+
+- [[06_Videos_Publicados/2026/2026-10-07_Captura_Oligarquica_Crisis_Energetica/POSTMORTEM_INTEL.md|Captura oligárquica × crisis energética]] — nexo A→B verificado en cámara (Warsh/Fed, Netanyahu)
+- [[Kevin Warsh]] — eje familiar Fed
+- [[NOTA_TESIS_MAESTRA]] — marco H

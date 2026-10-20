@@ -1,7 +1,8 @@
 ---
 titulo: Stephen Miran
 tipo: persona
-fecha: 2026-04-20
+fecha: 2026-10-09
+creada: 2026-04-20
 tier_primario: b
 nivel_evidencia: medio
 estado: activo
@@ -52,3 +53,13 @@ El nodo gana más valor cuando se lo inserta en la secuencia histórica recompil
 - [[Donald Trump]]
 - [[Reanclaje Hibrido]]
 - [[GENIUS Act]]
+
+## Casos TL relacionados
+
+- [[06_Videos_Publicados/2026/2026-10-07_Captura_Oligarquica_Crisis_Energetica/POSTMORTEM_INTEL.md|Captura oligárquica × crisis energética (2026-10-08)]] — 'por las buenas o por las malas' citado en cámara + CFR confirma el acuerdo volviéndose realidad — estado: confirmado.
+
+## Fuentes
+
+- [[Mar-a-Lago Accord]] — doctrina
+- [[06_Videos_Publicados/2026/2026-10-07_Captura_Oligarquica_Crisis_Energetica/POSTMORTEM_INTEL.md|Captura oligárquica × crisis energética]] — citado en cámara, CFR confirma el acuerdo
+- [[NOTA_TESIS_MAESTRA]] — marco H

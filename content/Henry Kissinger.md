@@ -1,7 +1,8 @@
 ---
 titulo: Henry Kissinger
 tipo: persona
-fecha: 2026-04-21
+fecha: 2026-10-09
+creada: 2026-04-21
 tier_primario: b
 nivel_evidencia: medio
 estado: activo
@@ -58,3 +59,14 @@ Leido junto con [[Allen Dulles]], [[Operacion Condor]] y [[Golpe de Chile 1973]]
 - [[Kissinger en 1992 Surgira un Nuevo Orden Mundial]]
 - [[Allen Dulles]]
 - [[William Donovan]]
+
+## Casos TL relacionados
+
+- [[06_Videos_Publicados/2026/2026-10-07_Captura_Oligarquica_Crisis_Energetica/POSTMORTEM_INTEL.md|Captura oligárquica × crisis energética (2026-10-08)]] — memo Levy 08-ago-1973: pass-through al cliente, intereses ≠ EE.UU., felicitación por ponencia Bilderberg (fuente primaria FRUS) — estado: confirmado.
+
+## Fuentes
+
+- [[06_Videos_Publicados/2026/2026-10-07_Captura_Oligarquica_Crisis_Energetica/POSTMORTEM_INTEL.md|Captura oligárquica × crisis energética]] — memo Levy 08-ago-1973, ponencia Bilderberg (fuente primaria FRUS)
+- [[Operacion Condor]] — corredor encubierto
+- [[NSSM 200]] — doctrina
+- [[NOTA_TESIS_MAESTRA]] — marco H

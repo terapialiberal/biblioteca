@@ -291,6 +291,10 @@ tags: [moc, control-financiero, deuda, banca, tl-intel-v3]
 
 - [[06_Videos_Publicados/2026/2026-05-21_Triple_Summit/01_PREPRODUCCION.md|01_PREPRODUCCION]]
 
+- [[99_AI/05_Memoria_Central/Archives/2026-10-05_Sutton_Crisis_Creada_Energia_Bilderberg_SUPERSEDED/02_ANEXO_Represion_Financiera_Prehn.md|02_ANEXO_Represion_Financiera_Prehn]]
+
+- [[01_Research/03_RESEARCH/2026-10-06_Captura_Oligarquica_Crisis_Energetica/06_ANEXO_Represion_Financiera_Prehn.md|06_ANEXO_Represion_Financiera_Prehn]]
+
 - [[Ace Greenberg.md|Ace Greenberg]]
 
 - [[Alan Greenspan.md|Alan Greenspan]]
@@ -302,8 +306,6 @@ tags: [moc, control-financiero, deuda, banca, tl-intel-v3]
 - [[Argentina.md|Argentina]]
 
 - [[Astrologia Financiera.md|Astrologia Financiera]]
-
-- [[99_AI/00_BOOT/AUDITORIA_CANON_2026-09-14.md|AUDITORIA_CANON_2026-09-14]]
 
 - [[Australia.md|Australia]]
 
@@ -449,6 +451,8 @@ tags: [moc, control-financiero, deuda, banca, tl-intel-v3]
 
 - [[Inflación.md|Inflación]]
 
+- [[07_Informes/01_AMAGI/2026-11_NOVIEMBRE/INFORME_AMAGI_Noviembre2026_DRAFT_v0.1.md|INFORME_AMAGI_Noviembre2026_DRAFT_v0.1]]
+
 - [[07_Informes/01_AMAGI/2026-10_OCTUBRE/INFORME_AMAGI_Octubre2026_FINAL.md|INFORME_AMAGI_Octubre2026_FINAL]]
 
 - [[ING.md|ING]]
@@ -501,7 +505,13 @@ tags: [moc, control-financiero, deuda, banca, tl-intel-v3]
 
 - [[06_Videos_Publicados/2026/2026-08-12_La_Cupula_de_La_Meca_Arabia_Turquia_Siria_IMEC/PATREON_2026-08-14_Endgame_La_Cupula_La_Meca.md|PATREON_2026-08-14_Endgame_La_Cupula_La_Meca]]
 
+- [[06_Videos_Publicados/2026/2026-10-07_Captura_Oligarquica_Crisis_Energetica/PATREON_Captura_Oligarquica_Crisis_Energetica.md|PATREON_Captura_Oligarquica_Crisis_Energetica]]
+
+- [[06_Videos_Publicados/2026/2026-10-07_Captura_Oligarquica_Crisis_Energetica/PATREON_Captura_Oligarquica_Crisis_Energetica_PUBLICAR.md|PATREON_Captura_Oligarquica_Crisis_Energetica_PUBLICAR]]
+
 - [[06_Videos_Publicados/2026/2026-05-21_Triple_Summit/PATREON_Triple_Summit.md|PATREON_Triple_Summit]]
+
+- [[Patron - Represion Financiera (Reinhart-Sbrancia).md|Patron - Represion Financiera (Reinhart-Sbrancia)]]
 
 - [[06_Videos_Publicados/2026/2026-01-07_Gaza_SA/Post Gaza SA.md|Post Gaza SA]]
 
@@ -536,6 +546,10 @@ tags: [moc, control-financiero, deuda, banca, tl-intel-v3]
 - [[Standard Chartered.md|Standard Chartered]]
 
 - [[State Street.md|State Street]]
+
+- [[06_Videos_Publicados/2026/2026-10-07_Captura_Oligarquica_Crisis_Energetica/SUBSTACK_Captura_Oligarquica_Crisis_Energetica.md|SUBSTACK_Captura_Oligarquica_Crisis_Energetica]]
+
+- [[06_Videos_Publicados/2026/2026-10-07_Captura_Oligarquica_Crisis_Energetica/SUBSTACK_Captura_Oligarquica_Crisis_Energetica_PUBLICAR.md|SUBSTACK_Captura_Oligarquica_Crisis_Energetica_PUBLICAR]]
 
 - [[06_Videos_Publicados/2026/2026-08-04_Noticiero_El_Toll_Se_Tokeniza/SUBSTACK_Noticiero_El_Toll_Se_Tokeniza.md|SUBSTACK_Noticiero_El_Toll_Se_Tokeniza]]
 

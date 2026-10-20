@@ -1,18 +1,22 @@
 ---
 titulo: Colateral Y Rehipotecación — El Truco Del Título
 tipo: "concepto"
-fecha: 2026-02-25
+fecha: 2026-10-19
+creada: 2026-02-25
 estado: activo
 tags: [colateral, rehipotecacin, tokenizacin, truco]
 capa_tema: "a"
-nivel_evidencia: "alto"
+nivel_evidencia: "medio"
 publish: true
 ---
 
 # Colateral Y Rehipotecación — El Truco Del Título
 
 > [!ABSTRACT] Hipótesis Informativa
-> El **Colateral** es el activo que garantiza una deuda. Forensemente, la **Rehipotecación** es la práctica por la cual el Tier A utiliza el colateral de un cliente (Tier C) para respaldar sus propias apuestas financieras, a menudo multiplicando el derecho sobre el mismo activo varias veces. Es el mecanismo legal que asegura que, en un colapso sistémico, **el Tier A retiene la propiedad física** mientras el Tier C se queda con una "reclamación de crédito" sin valor.
+> El **Colateral** es el activo que garantiza una deuda. La **Rehipotecación** es la práctica por la cual un intermediario financiero reutiliza el colateral de un cliente para respaldar sus propias operaciones, multiplicando los derechos sobre el mismo activo. **Hipótesis (no verificada):** en un colapso sistémico, los acreedores de primer rango podrían quedarse con el activo y el resto con una "reclamación de crédito" de menor valor. Lo que sí está medido es el reuso: un reuso del 65% al 85% de los Treasuries recibidos por los grandes intermediarios de EE.UU. (estimaciones de 2020 y 2024 citadas por la Fed y el FSB; para el repo europeo, otro estudio da cerca del 12%). Que ese reuso termine en que el Tier A retenga la propiedad física no está probado.
+
+> [!NOTE] Calibración 2026-10-19
+> Se bajó la fuerza de la afirmación original (antes: "el Tier A retiene la propiedad física"; nivel de evidencia pasó de alto a medio). Contraste con datos primarios en [[idea - colateral en Treasuries y reanclaje]].
 
 ## Análisis Forense
 
@@ -22,7 +26,7 @@ publish: true
 
 ### 2. El Castillo De Naipes De La Rehipotecación
 
-- Un solo lingote de oro o una casa puede estar respaldando diez deudas diferentes simultáneamente en los mercados de banca en la sombra. Esto genera una ilusión de liquidez masiva. Cuando el sistema se contraiga (Reset), solo el primer acreedor de la cadena (el Banco de Tier A) podrá reclamar el activo físico. El resto descubrirá que su colateral ha "desaparecido" en la contabilidad.
+- Un solo lingote de oro o una casa puede estar respaldando diez deudas diferentes simultáneamente en los mercados de banca en la sombra. Esto genera una ilusión de liquidez masiva. Hipótesis: cuando el sistema se contraiga (Reset), el primer acreedor de la cadena tendría prioridad para reclamar el activo, y el resto podría descubrir que su colateral no está disponible. El reuso es real y medible; la prioridad en un colapso depende del contrato y de la jurisdicción, y no la verificamos.
 
 ## Análisis De Tiers
 

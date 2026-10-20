@@ -1,7 +1,8 @@
 ---
 titulo: Aramco
 tipo: entidad
-fecha: 2026-09-25
+fecha: 2026-10-09
+creada: 2026-09-25
 nivel_evidencia: medio
 estado: activo
 tags: [aramco, mohammed, sistema]
@@ -106,3 +107,7 @@ La nota estaba escrita como mini tesis sobre petrodólar. Se recompila como enti
 - **ElEconomista** (18/09/2026): https://www.eleconomista.es/economia/noticias/14014999/09/26/arabia-saudi-comienza-a-informar-a-las-refinerias-de-europa-que-no-recibiran-entregas-de-petroleo-el-proximo-mes.html
 - **Financial Times**: https://www.ft.com/content/3a88d016-9575-4c11-bd34-14606964a867
 - Transcripción del video LA GUERRA QUE ESTÁ REORDENANDO EL MAPA ENERGÉTICO (24/09/2026): `03_Produccion/2026-09-14_El_dia_despues_tiene_duenios/transcripcion.md`
+
+## Casos TL relacionados
+
+- [[06_Videos_Publicados/2026/2026-10-07_Captura_Oligarquica_Crisis_Energetica/POSTMORTEM_INTEL.md|Captura oligárquica × crisis energética (2026-10-08)]] — Q1 +25% (32.500M); oleoductos con tarifa mínima (cobro por adelantado); Ras Tanura parada por dron; Kharg cuidada (solo radares/misiles): distinción refino vs pozo — estado: confirmado.
