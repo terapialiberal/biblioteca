@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [cartel, gentico, monsanto, semillas]
 publish: true
+sin_fuente: true
 ---
 
 # Semillas: Control Genético vs. Soberanía Alimentaria

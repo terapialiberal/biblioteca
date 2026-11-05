@@ -7,6 +7,7 @@ tags: [bailey, lucis, robert, trust]
 tier_primario: "a"
 nivel_evidencia: "total"
 publish: true
+sin_fuente: true
 ---
 
 # Alice Bailey Y El Lucis Trust (Nexo ONU)

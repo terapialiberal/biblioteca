@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [capital, robert, simons, soberano]
 publish: true
+sin_fuente: true
 ---
 
 # Jim Simons: El Criptógrafo Del Capital Soberano

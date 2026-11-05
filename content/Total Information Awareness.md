@@ -8,6 +8,7 @@ estado: activo
 aliases: ["TIA", "Information Awareness Office"]
 tags: [tia, vigilancia, darpa, palantir, inteligencia, tecnocracia, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Total Information Awareness

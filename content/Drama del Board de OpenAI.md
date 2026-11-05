@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [board, drama, openai, satya]
 publish: true
+sin_fuente: true
 ---
 
 # Drama Del Board De OpenAI

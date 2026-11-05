@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [ciudad, naciones, polica, super]
 publish: true
+sin_fuente: true
 ---
 
 # Policía De La Ciudad (Super Mario Bros)

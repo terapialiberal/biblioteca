@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [bandera, falsa, flag, incidente]
 publish: true
+sin_fuente: true
 ---
 
 # False Flag (Bandera Falsa)

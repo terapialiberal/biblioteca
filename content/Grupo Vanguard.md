@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [vanguard, propiedad-comun, gestores-de-activos, control-financiero, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Grupo Vanguard (Vanguard Group)

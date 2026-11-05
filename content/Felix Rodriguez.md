@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [felix, george, irn, rodriguez]
 publish: true
+sin_fuente: true
 ---
 
 # Felix Rodriguez

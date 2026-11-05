@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [abuso, franklin, jeffrey, scandal]
 publish: true
+sin_fuente: true
 ---
 
 # Franklin Scandal

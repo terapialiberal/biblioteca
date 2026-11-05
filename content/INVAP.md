@@ -4,6 +4,7 @@ tipo: entidad
 titulo: INVAP
 estado: activo
 tags: [argentina, tecnologia, satelites, nuclear, tl-intel-v3]
+sin_fuente: true
 ---
 
 # INVAP

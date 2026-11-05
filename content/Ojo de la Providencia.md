@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [gnosis, information, panptico, providencia]
 publish: true
+sin_fuente: true
 ---
 
 # Ojo De La Providencia: El Panóptico De La Gnosis

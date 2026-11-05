@@ -8,6 +8,7 @@ moc_canonico: [[00_MOC - Cronologico]]
 estado: activo
 fuentes_clave: []
 tags: [margaret-thatcher, neoliberalismo, city-de-londres, uk, tl-intel-v3]
+sin_fuente: true
 ---
 
 # [[Margaret Thatcher]]

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [enemigo, feind, freund, realismo]
 publish: true
+sin_fuente: true
 ---
 
 # Amigo-Enemigo (Freund-Feind)

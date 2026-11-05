@@ -7,6 +7,7 @@ tags: [crisis, gobernanza, shock, problema-reaccion-solucion, tl-intel-v3]
 capa_tema: b
 nivel_evidencia: medio
 publish: true
+sin_fuente: true
 ---
 
 # Crisis como Mecanismo de Gobierno

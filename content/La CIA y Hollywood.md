@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [cia, hollywood, propaganda, entretenimiento, guerra-cognitiva, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # La CIA y Hollywood

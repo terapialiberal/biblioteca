@@ -17,4 +17,4 @@ Import crudo estabilizado. El archivo tenia `estado: null` y frontmatter incompl
 
 ## Nota operativa
 
-Pendiente de recompilacion doctrinal como nodo reusable o satelite de la constelacion `MAGA / Peter Thiel / JD Vance / financiacion politica`.
+Pendiente de recompilación doctrinal como nodo reusable o satelite de la constelación `MAGA / Peter Thiel / JD Vance / financiación política`.

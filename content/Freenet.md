@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [cypherpunks, freenet, julian]
 publish: true
+sin_fuente: true
 ---
 
 # Freenet

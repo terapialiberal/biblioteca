@@ -8,17 +8,18 @@ estado: activo
 aliases: ["César Milani"]
 tags: [argentina, milani, inteligencia, ejercito, kirchnerismo, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Cesar Milani
 
 ## BLUF
 
-[[Cesar Milani]] importa en TL como figura de convergencia entre fuerzas armadas, inteligencia interna y reconfiguracion del aparato de seguridad durante el kirchnerismo tardio.
+[[Cesar Milani]] importa en TL como figura de convergencia entre fuerzas armadas, inteligencia interna y reconfiguración del aparato de seguridad durante el kirchnerismo tardio.
 
 ## Por que importa en TL
 
-- conecta ejercito, espionaje interno, lealtad presidencial y militarizacion parcial de funciones de inteligencia;
+- conecta ejercito, espionaje interno, lealtad presidencial y militarización parcial de funciones de inteligencia;
 - ayuda a leer como la crisis de confianza en los servicios tradicionales puede desplazar poder hacia otras estructuras del Estado;
 - funciona como nodo de cruce entre [[Cristina Kirchner]], [[AFI]] y la memoria conflictiva de las fuerzas armadas.
 
@@ -28,21 +29,21 @@ La nota venia como ficha minima, con encoding roto y varias formulaciones defect
 
 ## Lectura TL
 
-### 1. Militar con funcion politica expandida
+### 1. Militar con función política expandida
 
-En TL, Milani importa porque desborda la figura del jefe militar tradicional: su relevancia aparece cuando el aparato castrense empieza a tocar tareas de informacion, monitoreo y disputa interna del poder.
+En TL, Milani importa porque desborda la figura del jefe militar tradicional: su relevancia aparece cuando el aparato castrense empieza a tocar tareas de información, monitoreo y disputa interna del poder.
 
 ### 2. Inteligencia por fuera del carril clasico
 
-Su valor analitico aumenta cuando se observa que la desconfianza de Cristina hacia viejas redes de servicios empuja a reforzar otros canales de control y recoleccion de informacion.
+Su valor analitico aumenta cuando se observa que la desconfianza de Cristina hacia viejas redes de servicios empuja a reforzar otros canales de control y recolección de información.
 
-### 3. Nodo de friccion historica y presente
+### 3. Nodo de fricción histórica y presente
 
 Leido junto con [[Cristina Kirchner]] y la agenda de memoria militar, el nodo sirve para pensar una paradoja argentina: gobiernos que construyen legitimidad sobre los 70 pero al mismo tiempo vuelven a utilizar resortes opacos de seguridad e inteligencia.
 
 ### 4. Caso reusable para la rama Argentina
 
-Tambien importa porque permite conectar la subrama kirchnerista con la rama de inteligencia y Estado profundo ya saneada en el MOC.
+También importa porque permite conectar la subrama kirchnerista con la rama de inteligencia y Estado profundo ya saneada en el MOC.
 
 ## Conexiones
 

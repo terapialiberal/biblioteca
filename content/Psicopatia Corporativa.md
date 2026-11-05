@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [diseo, ponerologa, psicopata, wall]
 publish: true
+sin_fuente: true
 ---
 
 # Psicopatía Corporativa: el Diseño de la Crueldad

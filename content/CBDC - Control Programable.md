@@ -5,6 +5,7 @@ aliases: ["CBDC / Control Blockchain", "CBDC / Control Monetario"]
 tags: [concepto, cbdc, control-monetario, vigilancia]
 tipo: concepto
 capa_tema: a
+sin_fuente: true
 ---
 
 # CBDC - Control Monetario Programable

@@ -7,13 +7,14 @@ nivel_evidencia: medio
 estado: activo
 tags: [argentina, inteligencia, militar, fuerzas-armadas, estado-profundo, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Inteligencia Militar
 
 ## BLUF
 
-[[Inteligencia Militar]] importa en TL como brazo especifico de lectura, vigilancia y produccion de informacion dentro del aparato castrense argentino: no reemplaza a [[AFI]], pero agrega otra capa sobre defensa, territorio, doctrina y relaciones entre Fuerzas Armadas y poder politico.
+[[Inteligencia Militar]] importa en TL como brazo especifico de lectura, vigilancia y producción de información dentro del aparato castrense argentino: no reemplaza a [[AFI]], pero agrega otra capa sobre defensa, territorio, doctrina y relaciones entre Fuerzas Armadas y poder político.
 
 ## Por que importa en TL
 
@@ -29,19 +30,19 @@ Se crea nodo canonico para cerrar un hueco del `00_MOC - Argentina`. El objetivo
 
 ### 1. Inteligencia aplicada a defensa y territorio
 
-En teoria, su foco deberia ser amenazas externas, capacidades regionales, vigilancia territorial y soporte para la planificacion militar. TL la usa para separar ese plano del espionaje politico tipico de [[AFI]].
+En teoria, su foco deberia ser amenazas externas, capacidades regionales, vigilancia territorial y soporte para la planificación militar. TL la usa para separar ese plano del espionaje político tipico de [[AFI]].
 
-### 2. Frontera difusa con la politica interna
+### 2. Frontera difusa con la política interna
 
-En la practica, el nodo importa porque esa separacion no siempre fue limpia. Distintos ciclos politicos y mandos pueden empujar al aparato militar a zonas de mayor injerencia interna o de coordinacion opaca con otros servicios.
+En la practica, el nodo importa porque esa separación no siempre fue limpia. Distintos ciclos politicos y mandos pueden empujar al aparato militar a zonas de mayor injerencia interna o de coordinación opaca con otros servicios.
 
-### 3. Lectura estrategica del sur argentino
+### 3. Lectura estratégica del sur argentino
 
-Leida junto con [[Malvinas]], [[Antartida Argentina]] y [[Mar Argentino]], la inteligencia militar aparece como parte del problema mayor de soberania y capacidad de observacion real sobre espacios sensibles.
+Leida junto con [[Malvinas]], [[Antartida Argentina]] y [[Mar Argentino]], la inteligencia militar aparece como parte del problema mayor de soberania y capacidad de observación real sobre espacios sensibles.
 
 ### 4. Nodo complementario del estado profundo
 
-TL usa esta nota para recordar que el estado profundo argentino no se agota en jueces, medios y espias civiles. Tambien tiene una dimension militar con sus propias doctrinas, archivos y redes.
+TL usa esta nota para recordar que el estado profundo argentino no se agota en jueces, medios y espias civiles. También tiene una dimensión militar con sus propias doctrinas, archivos y redes.
 
 ## Conexiones
 

@@ -7,6 +7,7 @@ tags: [caos, coagula, great, solve]
 capa_tema: "a"
 nivel_evidencia: "total"
 publish: true
+sin_fuente: true
 ---
 
 # Solve Et Coagula (Reset Masivo)

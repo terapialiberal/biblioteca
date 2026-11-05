@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [albert-bourla, pfizer, vacunas, bioseguridad, corporacion, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Albert Bourla

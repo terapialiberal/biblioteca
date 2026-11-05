@@ -8,17 +8,18 @@ tags: [mitos-modernos, narrativa, propaganda, cultura, tl-intel-v3]
 capa_tema: b
 nivel_evidencia: medio
 publish: true
+sin_fuente: true
 ---
 
 # Morfologia de los Mitos Modernos
 
 ## BLUF
 
-Morfologia de los Mitos Modernos estudia la estructura repetida de relatos contemporaneos: salvador, enemigo, apocalipsis, revelacion, traicion, purga y nuevo orden.
+Morfologia de los Mitos Modernos estudia la estructura repetida de relatos contemporaneos: salvador, enemigo, apocalipsis, revelación, traición, purga y nuevo orden.
 
 ## Que es
 
-No trata al mito como falsedad simple. Lo lee como forma narrativa que organiza sentido, identidad y accion colectiva. Los mitos modernos pueden circular en politica, tecnologia, entretenimiento, ciencia popular o conspiracion.
+No trata al mito como falsedad simple. Lo lee como forma narrativa que organiza sentido, identidad y acción colectiva. Los mitos modernos pueden circular en política, tecnología, entretenimiento, ciencia popular o conspiración.
 
 ## Por que importa en TL
 
@@ -28,7 +29,7 @@ No trata al mito como falsedad simple. Lo lee como forma narrativa que organiza 
 
 ## Lectura TL
 
-Cuando una narrativa ya tiene heroe, demonio, prueba iniciatica y final redentor, conviene desconfiar de su comodidad. La forma mitica puede iluminar, pero tambien capturar.
+Cuando una narrativa ya tiene heroe, demonio, prueba iniciatica y final redentor, conviene desconfiar de su comodidad. La forma mitica puede iluminar, pero también capturar.
 
 ## Conexiones
 
@@ -40,4 +41,4 @@ Cuando una narrativa ya tiene heroe, demonio, prueba iniciatica y final redentor
 
 ## Nivel de evidencia
 
-Medio como herramienta de analisis narrativo. Depende del corpus concreto que se estudie.
+Medio como herramienta de análisis narrativo. Depende del corpus concreto que se estudie.

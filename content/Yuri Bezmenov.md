@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [bezmenov, escuela, naciones, yuri]
 publish: true
+sin_fuente: true
 ---
 
 # Yuri Bezmenov

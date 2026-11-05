@@ -7,6 +7,7 @@ tags: [gematra, nmero, wolfgang]
 tier_primario: "a"
 nivel_evidencia: "alto"
 publish: true
+sin_fuente: true
 ---
 
 # Número 137 (Constante De Estructura Fina)

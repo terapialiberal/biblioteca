@@ -7,6 +7,7 @@ tags: [militar, mitra, pacto]
 capa_tema: "b"
 nivel_evidencia: "alto"
 publish: true
+sin_fuente: true
 ---
 
 # Mitra Y El Pacto Militar

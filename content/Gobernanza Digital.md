@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [gobernanza-digital, plataformas, tecnocracia, datos, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Gobernanza Digital

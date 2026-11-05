@@ -8,41 +8,42 @@ estado: activo
 aliases: ["Jueces Federales De Comodoro Py: La Aduana De La Impunidad", "Comodoro Py"]
 tags: [argentina, justicia, lawfare, jueces, afi, impunidad, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Jueces Federales de Comodoro Py
 
 ## BLUF
 
-[[Jueces Federales de Comodoro Py]] importa en TL como nodo institucional donde se cruzan justicia federal, inteligencia, tiempos procesales, medios y disciplina politica dentro del sistema argentino.
+[[Jueces Federales de Comodoro Py]] importa en TL como nodo institucional donde se cruzan justicia federal, inteligencia, tiempos procesales, medios y disciplina política dentro del sistema argentino.
 
 ## Por que importa en TL
 
-- conecta expedientes judiciales, AFI, filtraciones, medios y negociacion politica;
-- ayuda a leer el poder judicial federal como arena de arbitraje y no solo de aplicacion de ley;
+- conecta expedientes judiciales, AFI, filtraciones, medios y negociación política;
+- ayuda a leer el poder judicial federal como arena de arbitraje y no solo de aplicación de ley;
 - funciona como satelite central de [[Lawfare]] en Argentina.
 
 ## Que cambio
 
-La nota venia como manifiesto largo, con encoding roto y exceso de cierre totalizante. Se recompila como nodo modular del corredor `argentina / justicia / inteligencia / arbitraje politico`.
+La nota venia como manifiesto largo, con encoding roto y exceso de cierre totalizante. Se recompila como nodo modular del corredor `argentina / justicia / inteligencia / arbitraje político`.
 
 ## Lectura TL
 
-### 1. Justicia federal como nodo de administracion
+### 1. Justicia federal como nodo de administración
 
 En TL, Comodoro Py no importa solo por las sentencias. Importa por su capacidad de administrar tiempos, amenazas, filtraciones y costos politicos sobre actores que dependen de permanecer negociables.
 
 ### 2. El poder esta en el calendario
 
-Su valor analitico aparece cuando se observa que muchas causas no se resuelven rapido ni del todo: se activan, se frenan, se recortan o se reordenan segun coyuntura, alianzas y cobertura.
+Su valor analitico aparece cuando se observa que muchas causas no se resuelven rapido ni del todo: se activan, se frenan, se recortan o se reordenan según coyuntura, alianzas y cobertura.
 
 ### 3. Cruce entre juzgado, inteligencia y medios
 
-Leido junto con [[AFI]], [[Jaime Stiuso]], [[Grupo Clarin]] y [[Lawfare]], el nodo ayuda a ver como informacion, expediente y narrativa publica pueden integrarse en una misma operacion de desgaste o blindaje.
+Leido junto con [[AFI]], [[Jaime Stiuso]], [[Grupo Clarin]] y [[Lawfare]], el nodo ayuda a ver como información, expediente y narrativa publica pueden integrarse en una misma operación de desgaste o blindaje.
 
-### 4. La institucion como mercado de disciplina
+### 4. La institución como mercado de disciplina
 
-Mas que una conspiracion unica, TL lo lee como mercado estable de incentivos, favores y miedo. El punto no es que todos respondan al mismo mando, sino que muchos actores aprenden a operar dentro del mismo sistema de premios y castigos.
+Mas que una conspiración unica, TL lo lee como mercado estable de incentivos, favores y miedo. El punto no es que todos respondan al mismo mando, sino que muchos actores aprenden a operar dentro del mismo sistema de premios y castigos.
 
 ## Conexiones
 

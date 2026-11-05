@@ -7,6 +7,7 @@ nivel_evidencia: "alto"
 estado: activo
 tags: [hacktivismo, open-access, rss, reddit, martir-digital]
 publish: true
+sin_fuente: true
 ---
 
 # Aaron Swartz: El Prometeo de la Información (V.3)

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [bancario, banco, basel, blackrock]
 publish: true
+sin_fuente: true
 ---
 
 # Basel III Y IV: El Control Bancario Estructurado

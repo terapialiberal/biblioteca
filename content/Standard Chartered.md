@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Standard Chartered Bank"]
 tags: [standard-chartered, banca, asia, city-londres, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Standard Chartered

@@ -5,6 +5,7 @@ aliases: ["Arcadium"]
 tags: [empresa, litio, mineria, argentina]
 tipo: empresa
 tier_primario: C
+sin_fuente: true
 ---
 
 # Arcadium Lithium

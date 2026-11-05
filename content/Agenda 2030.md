@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Agenda 2030 (ONU)", "ODS", "Objetivos de Desarrollo Sostenible"]
 tags: [agenda-2030, onu, ods, gobernanza-global, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Agenda 2030

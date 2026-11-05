@@ -3,6 +3,7 @@ publish: true
 titulo: Groq
 tipo: entidad
 estado: activo
+sin_fuente: true
 ---
 
 # Groq
@@ -26,14 +27,14 @@ Groq es el contendiente de **Tier B** que amenaza el predominio de NVIDIA en el 
 |------|----------------------|----------------|
 | ?? Seal ? | Groq logra +500 tokens/segundo en modelos Llama-3/4 (2025/26). | La barrera entre la conversacin humana y la sinttica ha sido demolida fsicamente. |
 | ?? Seal ? | Apertura de centros de computacin Groq en Europa y Arabia Saudita. | Estrategia de diversificacin geogrfica para evitar chokepoints de EE.UU. |
-| ?? Ruido ? | "Groq es solo para desarrolladores que quieren correr chats ms rpidos". | Groq es la infraestructura necesaria para que la IA acte como un agente autnomo de combate o trading sin latencia. |
+| ?? Ruido ? | "Groq es solo para desarrolladores que quieren correr chats más rpidos". | Groq es la infraestructura necesaria para que la IA acte como un agente autnomo de combate o trading sin latencia. |
 
 #### CUI BONO REAL
 
-**Quin captura qu?**
-**Groq** captura la **Voz de la Matrix**. Al controlar el hardware de inferencia ms rpido, se vuelven el "vocalista" de todas las inteligencias de Tier A. Capturan el mercado de aplicaciones que requieren interactividad (robots, asistentes, traductores en vivo) que Nvidia no puede optimizar sin desperdiciar energa masiva.
+**Quién captura qué?**
+**Groq** captura la **Voz de la Matrix**. Al controlar el hardware de inferencia más rpido, se vuelven el "vocalista" de todas las inteligencias de Tier A. Capturan el mercado de aplicaciones que requieren interactividad (robots, asistentes, traductores en vivo) que Nvidia no puede optimizar sin desperdiciar energa masiva.
 
-#### ANLISIS DE JUEGO
+#### ANÁLISIS DE JUEGO
 
 **Tipo:** signaling / signaling
 **Equilibrio actual:** El Foso de la Inferencia. Nvidia tiene el software, pero Groq tiene la eficiencia de silicio. El equilibrio se mantiene mientras Groq no logre crear un compilador tan fcil de usar como CUDA. En 2026, han logrado que portar modelos sea casi instantneo, rompiendo el equilibrio de "lock-in" de Nvidia.
@@ -66,4 +67,4 @@ Groq es solo una optimizacin tcnica, no un cambio de paradigma de poder. Es la e
 
 #### LAGUNAS
 
-Quines son los inversores reales detrs de la expansin de Groq en Oriente Medio, y qu acceso a los datos de inferencia estn exigiendo a cambio del financiamiento?
+Quines son los inversores reales detrs de la expansin de Groq en Oriente Medio, y qué acceso a los datos de inferencia estn exigiendo a cambio del financiamiento?

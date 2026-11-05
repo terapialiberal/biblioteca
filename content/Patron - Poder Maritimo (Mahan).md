@@ -4,6 +4,7 @@ tipo: concepto
 titulo: "Patrón - Poder Marítimo (Mahan)"
 estado: procesado
 tags: [patrones, geopolítica, poder-maritimo, mahan, tl-v3]
+sin_fuente: true
 ---
 
 # [[Patrón - Poder Marítimo (Mahan)]]

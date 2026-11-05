@@ -8,6 +8,7 @@ estado: activo
 aliases: ["CIPS", "Cross-Border Interbank Payment System"]
 tags: [cips, china, pagos-transfronterizos, yuan, desdolarizacion, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Sistema CIPS
@@ -34,11 +35,11 @@ El trabajo de writeback posterior a `ORDO AB CHAO!` agrega un delta claro: CIPS 
 
 CIPS importa porque ofrece una vía creciente para mensajería y liquidación en RMB, pero su valor estratégico no depende de reemplazar por completo al sistema occidental. Basta con abrir margen operativo para comercio sensible y socios prioritarios.
 
-### 2. Rail monetario con proyeccion regional
+### 2. Rail monetario con proyección regional
 
 En TL, su relevancia crece cuando se lo conecta con Asia, Golfo y rutas energéticas. Si comercio crítico puede liquidarse fuera del circuito dominado por Nueva York y SWIFT, la capacidad de coerción occidental pierde parte de su filo.
 
-### 3. Mensajeria y liquidacion como poder
+### 3. Mensajeria y liquidación como poder
 
 El nodo importa porque une funciones que en el sistema viejo estaban más separadas. Ahí aparece el desplazamiento real de poder: quien organiza el rail no solo transmite mensajes, también ordena settlement, visibilidad y dependencia.
 

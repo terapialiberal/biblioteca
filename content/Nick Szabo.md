@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [arquitecto, bitcoin, justicia, nick]
 publish: true
+sin_fuente: true
 ---
 
 # Nick Szabo: El Arquitecto De La Justicia Inmanente

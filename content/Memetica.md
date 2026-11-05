@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [egregore, guerra, memtica]
 publish: true
+sin_fuente: true
 ---
 
 # Memética: La Guerra Por El Egregore

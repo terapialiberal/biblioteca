@@ -6,6 +6,7 @@ capa_tema: b
 nivel_evidencia: medio
 tags: [ciudades-15-minutos, urbanismo, smart-cities, movilidad, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Ciudades de 15 Minutos

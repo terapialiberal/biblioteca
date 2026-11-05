@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [club-de-madrid, ex-jefes-de-estado, gobernanza, diplomacia, globalismo, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Club de Madrid

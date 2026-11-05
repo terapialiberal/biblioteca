@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [cbdc, control, cybernetics, programability]
 publish: true
+sin_fuente: true
 ---
 
 # [[Cybernetics of Control (CBDC Programability)]]

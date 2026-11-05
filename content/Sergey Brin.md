@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [google, sergey, total, vigilancia]
 publish: true
+sin_fuente: true
 ---
 
 # Sergey Brin: el Arquitecto de la Mente Global Y la Vigilancia Total

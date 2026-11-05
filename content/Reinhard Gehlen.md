@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [allen, espionaje, nazi, occidental]
 publish: true
+sin_fuente: true
 ---
 
 # Reinhard Gehlen: el Puente Nazi del Espionaje Occidental

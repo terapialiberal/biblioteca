@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [arquitecto, ecohealth, quimrico, ralph]
 publish: true
+sin_fuente: true
 ---
 
 # Ralph Baric: el Arquitecto del Virus Quimérico

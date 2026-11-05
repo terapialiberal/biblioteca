@@ -8,13 +8,14 @@ tags: [heroe-mil-caras, joseph-campbell, mito, narrativa, tl-intel-v3]
 capa_tema: c
 nivel_evidencia: medio
 publish: true
+sin_fuente: true
 ---
 
 # El Heroe de las Mil Caras
 
 ## BLUF
 
-El Heroe de las Mil Caras sirve en TL como mapa de la narrativa heroica: llamada, prueba, descenso, transformacion y retorno legitimador.
+El Heroe de las Mil Caras sirve en TL como mapa de la narrativa heroica: llamada, prueba, descenso, transformación y retorno legitimador.
 
 ## Que es
 
@@ -22,13 +23,13 @@ El concepto remite al monomito popularizado por Joseph Campbell. Su utilidad no 
 
 ## Por que importa en TL
 
-- ayuda a leer propaganda politica como relato de salvador;
-- conecta mito, marketing, liderazgo y movilizacion emocional;
+- ayuda a leer propaganda política como relato de salvador;
+- conecta mito, marketing, liderazgo y movilización emocional;
 - permite detectar cuando una figura publica es empaquetada como destino.
 
 ## Lectura TL
 
-El heroe es una tecnologia narrativa. Cuando una estructura compleja se reduce a un individuo salvador, el publico deja de analizar mecanismos y empieza a esperar redencion.
+El heroe es una tecnología narrativa. Cuando una estructura compleja se reduce a un individuo salvador, el público deja de analizar mecanismos y empieza a esperar redención.
 
 ## Conexiones
 

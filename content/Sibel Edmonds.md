@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [boiling, edmonds, entraas, estado]
 publish: true
+sin_fuente: true
 ---
 
 # Sibel Edmonds: la Mujer Que Vio las Entrañas del Estado Profundo

@@ -6,6 +6,7 @@ nivel_evidencia: "alto"
 estado: activo
 tags: [blockchain, cbdc, alquimia, oro-digital, control]
 publish: true
+sin_fuente: true
 ---
 
 # Alquimia Digital (V.3)

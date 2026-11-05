@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [bernays, propaganda, libro, opinion-publica, consentimiento, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Propaganda (Libro)

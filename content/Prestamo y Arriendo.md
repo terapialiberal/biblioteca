@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [arriendo, enemigo, lease, prstamo]
 publish: true
+sin_fuente: true
 ---
 
 # Préstamo Y Arriendo (Lend-Lease): La Construcción Del Enemigo

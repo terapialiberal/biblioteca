@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [atentado, contra, matrix, stream]
 publish: true
+sin_fuente: true
 ---
 
 # Sabotaje del Nord Stream: el Atentado de la Matrix contra la Soberanía Europea

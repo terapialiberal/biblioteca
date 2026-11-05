@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [chatham-house, riia, think-tank, atlantismo, reino-unido, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Chatham House (RIIA)

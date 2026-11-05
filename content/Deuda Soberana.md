@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Deuda Soberana (Mecanismo de Control)", "Sovereign Debt"]
 tags: [deuda-soberana, bonos, fmi, default, control-financiero, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Deuda Soberana

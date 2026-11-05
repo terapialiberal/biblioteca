@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Darwinismo Social (Supervivencia del más fuerte)"]
 tags: [darwinismo-social, ideologia, elite, eugenesia, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Darwinismo Social

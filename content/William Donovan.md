@@ -7,13 +7,14 @@ nivel_evidencia: medio
 estado: activo
 tags: [william-donovan, oss, inteligencia, cia, elite-estadounidense, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # William Donovan
 
 ## BLUF
 
-[[William Donovan]] importa en TL como figura fundacional del aparato de inteligencia exterior estadounidense. Como jefe de la [[OSS]], organizo una estructura que mezclo guerra, espionaje, elite profesional y cooperacion britanica, dejando buena parte del ADN institucional que luego heredaria la [[CIA]].
+[[William Donovan]] importa en TL como figura fundacional del aparato de inteligencia exterior estadounidense. Como jefe de la [[OSS]], organizo una estructura que mezclo guerra, espionaje, elite profesional y cooperación britanica, dejando buena parte del ADN institucional que luego heredaria la [[CIA]].
 
 ## Por que importa en TL
 
@@ -23,21 +24,21 @@ publish: true
 
 ## Que cambio
 
-La nota anterior mezclaba resumen, tono polemico y afirmaciones demasiado cerradas. Se recompila con foco en funcion historica, lectura TL y conectividad reusable.
+La nota anterior mezclaba resumen, tono polemico y afirmaciones demasiado cerradas. Se recompila con foco en función histórica, lectura TL y conectividad reusable.
 
 ## Lectura TL
 
 ### 1. Fundador operativo de la OSS
 
-Donovan dirigio la [[OSS]] durante la Segunda Guerra Mundial y empujo la idea de que Estados Unidos necesitaba una capacidad integrada de inteligencia, sabotaje, analisis y enlace internacional.
+Donovan dirigio la [[OSS]] durante la Segunda Guerra Mundial y empujo la idea de que Estados Unidos necesitaba una capacidad integrada de inteligencia, sabotaje, análisis y enlace internacional.
 
 ### 2. Inteligencia hecha desde redes altas
 
-Su importancia en TL radica tambien en el ecosistema social del que recluto cuadros: universidades de elite, bufetes, finanzas, diplomacia, academia y mandos militares. Eso sugiere que la inteligencia exterior estadounidense se organizo desde arriba y con fuerte sesgo de establishment.
+Su importancia en TL radica también en el ecosistema social del que recluto cuadros: universidades de elite, bufetes, finanzas, diplomacia, academia y mandos militares. Eso sugiere que la inteligencia exterior estadounidense se organizo desde arriba y con fuerte sesgo de establishment.
 
-### 3. Continuidad estrategica
+### 3. Continuidad estratégica
 
-Aunque la OSS no sobrevivio como tal al final de la guerra, la arquitectura mental que impulso Donovan si persistio: centralizacion de informacion, operaciones especiales y cooperacion estrecha con aliados anglosajones.
+Aunque la OSS no sobrevivio como tal al final de la guerra, la arquitectura mental que impulso Donovan si persistio: centralización de información, operaciones especiales y cooperación estrecha con aliados anglosajones.
 
 ### 4. Precedente para la seguridad nacional permanente
 

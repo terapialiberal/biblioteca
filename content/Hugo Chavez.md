@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [chvez, fidel, foro, hugo]
 publish: true
+sin_fuente: true
 ---
 
 # Hugo Chávez

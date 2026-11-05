@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [jeffrey, rebranding, victoria, victoria-s]
 publish: true
+sin_fuente: true
 ---
 
 # Victoria's Secret Rebranding

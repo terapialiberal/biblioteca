@@ -5,6 +5,7 @@ aliases: ["Benjamin de Rothschild"]
 tags: [actor, banquero, dinastia, rothschild]
 tipo: actor
 tier_primario: B
+sin_fuente: true
 ---
 
 # Benjamin de Rothschild

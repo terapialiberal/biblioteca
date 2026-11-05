@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [aldo, asesinato, moro, operacin]
 publish: true
+sin_fuente: true
 ---
 
 # Asesinato De Aldo Moro

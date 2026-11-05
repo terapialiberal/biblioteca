@@ -7,11 +7,12 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [carlson, gatekeepers, rupert, tucker]
 publish: true
+sin_fuente: true
 ---
 
 # Resumen General
 
-Tucker Carlson fue el host ms visto de Fox News hasta su abrupta salida en abril de 2023. El caso ilustra los lmites reales del discurso en medios mainstream, incluso en el "lado conservador".
+Tucker Carlson fue el host más visto de Fox News hasta su abrupta salida en abril de 2023. El caso ilustra los lmites reales del discurso en medios mainstream, incluso en el "lado conservador".
 
 # Puntos Clave
 
@@ -30,15 +31,15 @@ Tucker Carlson fue el host ms visto de Fox News hasta su abrupta salida en abril
 
 ## 3. Lo Que Cruz
 
-- Cuestion la guerra de Ucrania ("por qu debera odiar a Putin?")
-- Mencion conspiraciones sobre J6 (videos del Capitolio)
+- Cuestion la guerra de Ucrania ("por qué debera odiar a Putin?")
+- Mención conspiraciones sobre J6 (videos del Capitolio)
 - Llev discusin anti-vacunas a horario prime
 - Entrevist a Putin post-salida
 
 ## 4. Post-Fox
 
 - Lanz show en X/Twitter
-- Ms libertad pero menos alcance mainstream
+- Más libertad pero menos alcance mainstream
 - Entrevista a Putin: 200M+ vistas
 - Liberado o manejado hacia un nicho?
 
@@ -50,6 +51,6 @@ Tucker Carlson fue el host ms visto de Fox News hasta su abrupta salida en abril
 - [[La Cada de Tucker Carlson (Fox)]]
 - [[Derecha Controlada]]
 
-# Por Qu Importa
+# Por Qué Importa
 
 Tucker muestra que incluso la estrella #1 de la cadena "rebelde" tiene lmites. Y que esos lmites se hacen cumplir. La marca media de rating no te protege si cruzas las lneas.

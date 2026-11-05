@@ -7,6 +7,7 @@ nivel_evidencia: alto
 estado: activo
 tags: [chainalysis, blockchain, trazabilidad, compliance, vigilancia-financiera, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Chainalysis

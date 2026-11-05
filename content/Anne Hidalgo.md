@@ -5,6 +5,7 @@ aliases: ["Anne Hidalgo"]
 tags: [actor, francia, paris, urbanismo, agenda-2030]
 tipo: actor
 tier_primario: C
+sin_fuente: true
 ---
 
 # Anne Hidalgo

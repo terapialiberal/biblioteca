@@ -1,11 +1,12 @@
 ---
-titulo: Tokenizacion de Activos Reales (RWA)
+titulo: Tokenización de Activos Reales (RWA)
 tipo: "concepto"
 capa_tema: "a"
 nivel_evidencia: "muy-alto"
 estado: activo
 tags: [finanzas, blockchain, rwa, control-tangible]
 publish: true
+sin_fuente: true
 ---
 
 # Tokenización de Activos Reales: RWA (V.3)

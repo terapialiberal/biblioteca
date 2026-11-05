@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [arquetipos, carl, jung, tavistock]
 publish: true
+sin_fuente: true
 ---
 
 # Carl Jung

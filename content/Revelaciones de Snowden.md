@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [snowden, vigilancia, nsa, five-eyes, whistleblower, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Revelaciones de Snowden
@@ -39,7 +40,7 @@ En TL, el punto fuerte de estas revelaciones está en mostrar que inteligencia, 
 
 Leídas junto con [[ECHELON]], las revelaciones permiten trazar continuidad: captura global, cooperación aliada, acceso a plataformas e indexación de datos aparecen como fases de un mismo régimen.
 
-### 4. Soberania digital como problema politico
+### 4. Soberania digital como problema político
 
 Su potencia aumenta cuando se la conecta con [[Edward Snowden]] y [[Julian Assange]]. Ahí deja de ser solo un archivo histórico y pasa a funcionar como advertencia sobre el costo político de exponer infraestructuras de poder técnico.
 

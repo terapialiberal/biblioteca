@@ -8,6 +8,7 @@ moc_canonico: [[00_MOC - Operaciones Encubiertas]]
 estado: activo
 fuentes_clave: []
 tags: [generaciones-de-guerra, guerra-hibrida, guerra-cognitiva, geopolítica, tl-intel-v3]
+sin_fuente: true
 ---
 
 # [[Teoría de las Generaciones de Guerra]]

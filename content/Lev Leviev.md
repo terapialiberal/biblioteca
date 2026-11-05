@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [berel, diamantes, oligarca, putin]
 publish: true
+sin_fuente: true
 ---
 
 # Lev Leviev (v1.0): El Oligarca De Los Diamantes Y La Red De Putin

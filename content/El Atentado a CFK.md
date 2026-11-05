@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [atentado, copito, cristina, kirchner]
 publish: true
+sin_fuente: true
 ---
 
 # El Atentado a Cristina Kirchner (El Copito)

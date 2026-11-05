@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [elite, coordinacion, clase, poder, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Elite Coordinada

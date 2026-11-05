@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [emmanuel, familia, macron, rothschild]
 publish: true
+sin_fuente: true
 ---
 
 # Emmanuel Macron

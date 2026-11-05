@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [inversin, jacob, matrix, sabbatai]
 publish: true
+sin_fuente: true
 ---
 
 # Sabateísmo-Frankismo: la Inversión Moral de la Matrix

@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [katharine-graham, washington-post, medios, inteligencia, legitimacion, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Katharine Graham

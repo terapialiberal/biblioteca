@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [cisne, colapso, edad, naciones]
 publish: true
+sin_fuente: true
 ---
 
 # Colapso De La Edad De Bronce (1177 a.C.)

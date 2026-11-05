@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [nso-group, pegasus, spyware, vigilancia, zero-click, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # NSO Group

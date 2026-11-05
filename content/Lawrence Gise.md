@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [amazon, estado, gentico, gise]
 publish: true
+sin_fuente: true
 ---
 
 # Lawrence Gise: El Código Genético Del Estado Profundo En Amazon

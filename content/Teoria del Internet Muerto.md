@@ -6,6 +6,7 @@ nivel_evidencia: "alto"
 estado: activo
 tags: [tecnologia, narrativas, ia, bots, simulacro]
 publish: true
+sin_fuente: true
 ---
 
 # Teoría del Internet Muerto (V.3)

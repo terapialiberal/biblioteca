@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [agenda, cambio, climtico, club]
 publish: true
+sin_fuente: true
 ---
 
 # Agenda Del Cambio Climático

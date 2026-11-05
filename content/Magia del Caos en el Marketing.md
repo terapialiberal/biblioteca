@@ -7,6 +7,7 @@ tags: [magia-del-caos, marketing, branding, simbolismo, propaganda, tl-intel-v3]
 capa_tema: b
 nivel_evidencia: medio
 publish: true
+sin_fuente: true
 ---
 
 # Magia del Caos en el Marketing

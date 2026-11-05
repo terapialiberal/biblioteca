@@ -5,6 +5,7 @@ aliases: ["CERN", "CERN / Simbolismo de Shiva"]
 tags: [institucion, fisica, particulas, ginebra]
 tipo: institucion
 tier_primario: C
+sin_fuente: true
 ---
 
 # CERN

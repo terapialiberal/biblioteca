@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [banco, masonera, origen, templarios]
 publish: true
+sin_fuente: true
 ---
 
 # Caballeros Templarios (Origen Banca)

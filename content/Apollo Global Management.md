@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [global, jeffrey, leon, management]
 publish: true
+sin_fuente: true
 ---
 
 # Apollo Global Management
@@ -32,7 +33,7 @@ Inversiones en:
 
 ## ⚠️ Escndalo Epstein
 
-[[Leon Black]] pag ms de **\150 millones** a [[Jeffrey Epstein]] por "asesora fiscal y estate planning" entre 2012-2017.
+[[Leon Black]] pag más de **\150 millones** a [[Jeffrey Epstein]] por "asesora fiscal y estate planning" entre 2012-2017.
 
 Renunci como CEO en 2021 tras revelaciones.
 

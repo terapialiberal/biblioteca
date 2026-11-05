@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [cebo, guerra, harbor, memorndum]
 publish: true
+sin_fuente: true
 ---
 
 # Pearl Harbor: El Cebo De La Guerra Global

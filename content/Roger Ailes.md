@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [ailes, richard, roger, rupert]
 publish: true
+sin_fuente: true
 ---
 
 # Roger Ailes: el Fabricante de la Realidad Conservadora en Cable

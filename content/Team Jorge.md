@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [democracia, fantasmas, team, unit]
 publish: true
+sin_fuente: true
 ---
 
 # Team Jorge: Los Fantasmas De La Democracia

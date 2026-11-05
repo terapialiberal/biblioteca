@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Metodo Wim Hof"]
 tags: [wim-hof, respiracion, frio, hormesis, soberania-biologica, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Metodo Wim Hof

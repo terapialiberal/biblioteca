@@ -5,6 +5,7 @@ aliases: ["Arthur Shapiro"]
 tags: [actor, academia, psicologia, control-social]
 tipo: actor
 tier_primario: C
+sin_fuente: true
 ---
 
 # Arthur Shapiro

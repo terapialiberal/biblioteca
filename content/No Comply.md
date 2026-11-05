@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [comply, indefensin, matrix, movimiento]
 publish: true
+sin_fuente: true
 ---
 
 # No Comply (Movimiento) \[TL V.3]: La Secesión Psicológica De La Matrix

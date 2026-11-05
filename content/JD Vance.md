@@ -54,3 +54,8 @@ Si Vance declina, no es una retirada: es un movimiento de tablero. Puede estar n
 - Respaldos de Thiel, Musk u otros del ecosistema
 - Apariciones públicas y estado de salud de Trump
 - Movimientos de Rubio en política exterior (Quad, OTAN, Medio Oriente)
+
+## Fuentes
+
+- https://www.dailymail.co.uk/news/article-15650523/Trumps-billionaire-adviser-publicly-rebukes-Iran-war-JD-Vance-camp-erupts-Israel-nuclear-threat.html  ·  en `06_Videos_Publicados\2026\2026-03-17_Iran_Stream\00_LINKS_Iran_2026.md`
+- https://www.axios.com/2026/03/27/vance-netanyahu-iran-skeptical  ·  en `06_Videos_Publicados\2026\2026-03-31_Ormuz_Jerusalen_Fractura_Bloque_Occidental\PATREON_Ormuz_Jerusalen_31-03.md`

@@ -6,6 +6,7 @@ estado: activo
 aliases: ["ESMA (Autoridad Europea de Valores)", "European Securities and Markets Authority"]
 tags: [esma, regulacion, mercados, europa, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # ESMA

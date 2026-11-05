@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Nigeria (Geopolítica)"]
 tags: [nigeria, africa, petroleo, poblacion, energia, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Nigeria

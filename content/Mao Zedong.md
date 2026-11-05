@@ -5,6 +5,7 @@ aliases: ["Mao Zedong", "Mao Tse-tung"]
 tags: [actor, china, comunismo, revolucion]
 tipo: actor
 tier_primario: A
+sin_fuente: true
 ---
 
 # Mao Zedong

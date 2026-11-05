@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [joost, lobotoma, menticidio, sistmica]
 publish: true
+sin_fuente: true
 ---
 
 # Menticidio: La Lobotomía Sistémica

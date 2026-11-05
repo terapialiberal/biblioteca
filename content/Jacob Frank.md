@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [frank, inversin, jacob, sabbatai]
 publish: true
+sin_fuente: true
 ---
 
 # Jacob Frank: El Mesías De La Inversión Moral

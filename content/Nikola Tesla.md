@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [energa, nikola, sabotaje, soberana]
 publish: true
+sin_fuente: true
 ---
 
 # Nikola Tesla: El Sabotaje a La Soberanía Energética

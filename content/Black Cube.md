@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [black, cube, harvey, mossad]
 publish: true
+sin_fuente: true
 ---
 
 # Black Cube

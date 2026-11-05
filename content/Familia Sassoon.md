@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [guerras, hsbc, reyes, sassoon]
 publish: true
+sin_fuente: true
 ---
 
 # Familia Sassoon: Los Reyes Del Opio Imperial

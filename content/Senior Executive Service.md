@@ -8,19 +8,20 @@ estado: activo
 aliases: ["SES", "Senior Executive Service: Los Verdaderos Dueños De Washington"]
 tags: [senior-executive-service, ses, burocracia, ejecutivo, deep-state, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Senior Executive Service
 
 ## BLUF
 
-[[Senior Executive Service]] importa en TL como capa directiva de alta burocracia federal que ayuda a sostener continuidad operativa, memoria institucional y capacidad de friccion dentro del aparato estadounidense. Su valor analitico esta en mostrar que la disputa por el Estado no se resuelve solo en la cima politica, sino tambien en quien controla cuadros permanentes, prioridades administrativas y ejecucion diaria.
+[[Senior Executive Service]] importa en TL como capa directiva de alta burocracia federal que ayuda a sostener continuidad operativa, memoria institucional y capacidad de fricción dentro del aparato estadounidense. Su valor analitico esta en mostrar que la disputa por el Estado no se resuelve solo en la cima política, sino también en quien controla cuadros permanentes, prioridades administrativas y ejecución diaria.
 
 ## Por que importa en TL
 
-- conecta burocracia, continuidad institucional y resistencia o adaptacion frente a cambios de gobierno;
+- conecta burocracia, continuidad institucional y resistencia o adaptación frente a cambios de gobierno;
 - ayuda a leer por que proyectos como [[Schedule F]] se enfocan en cuadros y no solo en doctrina;
-- funciona como nodo material entre aparato administrativo, [[Deep State]] y centralizacion ejecutiva.
+- funciona como nodo material entre aparato administrativo, [[Deep State]] y centralización ejecutiva.
 
 ## Que cambio
 
@@ -30,15 +31,15 @@ La nota venia en formato forense viejo, con tipo incorrecto y exceso de framing 
 
 ### 1. Capa de continuidad del aparato
 
-El SES importa porque concentra puestos donde se traducen prioridades politicas en implementacion concreta, pero tambien donde se amortiguan, frenan o redirigen cambios segun cultura institucional y correlacion de fuerzas.
+El SES importa porque concentra puestos donde se traducen prioridades políticas en implementación concreta, pero también donde se amortiguan, frenan o redirigen cambios según cultura institucional y correlación de fuerzas.
 
 ### 2. Burocracia como poder propio
 
-En TL, su relevancia aumenta cuando se observa que la alta administracion no es solo obediencia mecanica. Tiene conocimiento, redes, procedimientos y capacidad para ralentizar o canalizar decisiones presidenciales.
+En TL, su relevancia aumenta cuando se observa que la alta administración no es solo obediencia mecanica. Tiene conocimiento, redes, procedimientos y capacidad para ralentizar o canalizar decisiones presidenciales.
 
 ### 3. Campo de batalla del nuevo trumpismo
 
-Su valor crece porque vuelve comprensible por que la nueva derecha pone tanto enfasis en purga burocratica, reemplazo de cuadros y recentralizacion del Ejecutivo.
+Su valor crece porque vuelve comprensible por que la nueva derecha pone tanto enfasis en purga burocratica, reemplazo de cuadros y recentralización del Ejecutivo.
 
 ## Con que conecta
 

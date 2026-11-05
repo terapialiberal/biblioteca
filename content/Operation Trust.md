@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [neutralizar, operation, trust, vladimir]
 publish: true
+sin_fuente: true
 ---
 
 # Operation Trust: El Arte De Neutralizar La Esperanza

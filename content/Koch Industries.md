@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [cato, industries, koch, mercatus]
 publish: true
+sin_fuente: true
 ---
 
 # Koch Industries: Los Arquitectos De La Libertad Corporativa

@@ -6,6 +6,7 @@ tier_primario: a
 nivel_evidencia: alto
 tags: [standard-oil, rockefeller, petroleo, monopolio, energia, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Standard Oil

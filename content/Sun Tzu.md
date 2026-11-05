@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Sun Tzu (El Arte de la Guerra)"]
 tags: [sun-tzu, estrategia, china, guerra, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Sun Tzu

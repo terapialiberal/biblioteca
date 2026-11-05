@@ -5,6 +5,7 @@ aliases: ["Marcelo Tinelli"]
 tags: [actor, argentina, medios, entretenimiento]
 tipo: actor
 tier_primario: C
+sin_fuente: true
 ---
 
 # Marcelo Tinelli

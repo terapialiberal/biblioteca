@@ -7,6 +7,7 @@ estado: activo
 tags: [azoth, confluencia]
 capa_tema: "a"
 nivel_evidencia: "medio"
+sin_fuente: true
 ---
 
 # Azoth — La Interconexión Total (El Solvente Universal)

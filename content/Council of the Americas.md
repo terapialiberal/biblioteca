@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [council-of-the-americas, david-rockefeller, latinoamerica, lobby, elites, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Council of the Americas

@@ -8,6 +8,7 @@ tags: [sol-invictus, simbolismo, roma, culto-solar, legitimacion, tl-intel-v3]
 capa_tema: c
 nivel_evidencia: alto
 publish: true
+sin_fuente: true
 ---
 
 # El Sol Invictus

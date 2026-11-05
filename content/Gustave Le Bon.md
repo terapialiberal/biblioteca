@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [edward, gustave, propaganda]
 publish: true
+sin_fuente: true
 ---
 
 # Gustave Le Bon

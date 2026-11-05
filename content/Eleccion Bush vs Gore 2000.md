@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [bush, gore, patriot, pnac]
 publish: true
+sin_fuente: true
 ---
 
 # Elección Bush Vs Gore 2000

@@ -7,13 +7,14 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [bernie, madoff]
 publish: true
+sin_fuente: true
 ---
 
 # Bernie Madoff
 
 > [!INFO] Perfil (Criminal)
-> **Resumen:** Orquest el Ponzi scheme ms grande de la historia: \65 billion.
-> **Funcin Real:** Ejemplo de cmo reguladores fallan en detectar fraude obvio.
+> **Resumen:** Orquest el Ponzi scheme más grande de la historia: \65 billion.
+> **Funcin Real:** Ejemplo de cómo reguladores fallan en detectar fraude obvio.
 
 ## Biografa
 

@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Long-Term Capital Management (LTCM)", "Long-Term Capital Management (LTCM): El Fracaso De Los Genios"]
 tags: [ltcm, finanzas, apalancamiento, rescate-sistemico, riesgo, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Long-Term Capital Management

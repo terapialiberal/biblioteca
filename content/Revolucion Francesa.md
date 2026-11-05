@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [francesa, global, masonera, prototipo]
 publish: true
+sin_fuente: true
 ---
 
 # Revolución Francesa: el Prototipo de la Ingeniería Social Global

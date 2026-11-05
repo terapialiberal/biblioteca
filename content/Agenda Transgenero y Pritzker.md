@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [agenda, neuralink, pfizer, pritzker]
 publish: true
+sin_fuente: true
 ---
 
 # Agenda Transgénero Y Pritzker

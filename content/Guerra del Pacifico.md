@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [geopoltica, guerra, imperio, pacfico]
 publish: true
+sin_fuente: true
 ---
 
 # Guerra Del Pacífico (Geopolítica)

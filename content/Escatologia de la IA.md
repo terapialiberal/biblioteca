@@ -8,6 +8,7 @@ tags: [escatologia-ia, agi, transhumanismo, singularidad, tecnoreligion, tl-inte
 capa_tema: b
 nivel_evidencia: medio
 publish: true
+sin_fuente: true
 ---
 
 # Escatologia de la IA

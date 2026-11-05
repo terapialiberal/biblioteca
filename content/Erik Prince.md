@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [blackwater, donald, erik, prince]
 publish: true
+sin_fuente: true
 ---
 
 # Erik Prince

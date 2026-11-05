@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [james-burnham, managerial-revolution, burocracia, elite, estado-profundo, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # The Managerial Revolution

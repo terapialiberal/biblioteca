@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [amricas, escuela, golpe, whinsec]
 publish: true
+sin_fuente: true
 ---
 
 # Escuela De Las Américas (SOA / WHINSEC)

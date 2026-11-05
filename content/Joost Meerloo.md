@@ -4,6 +4,7 @@ tipo: actor
 titulo: Joost Meerloo
 estado: activo
 tags: [psicologia, propaganda, menticidio, guerra-psicologica, tl-intel-v3]
+sin_fuente: true
 ---
 
 # Joost Meerloo

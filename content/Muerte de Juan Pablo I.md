@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [banco, juan, muerte, pablo]
 publish: true
+sin_fuente: true
 ---
 
 # Muerte De Juan Pablo I: El Magnicidio En El Vaticano

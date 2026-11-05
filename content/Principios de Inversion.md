@@ -7,6 +7,7 @@ tags: [inversin, jacob, principios, transhumanismo]
 capa_tema: "a"
 nivel_evidencia: "alto"
 publish: true
+sin_fuente: true
 ---
 
 # Principios De Inversión (El Cielo En La Tierra)

@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Nicholas F. Brady", "Plan Brady"]
 tags: [deuda, finanzas, deuda-soberana, bonos, ajuste, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Nicholas Brady

@@ -7,6 +7,7 @@ tags: [derecho, espritu, gnosis, soberana]
 capa_tema: "a"
 nivel_evidencia: "alto"
 publish: true
+sin_fuente: true
 ---
 
 # Soberanía Del Espíritu

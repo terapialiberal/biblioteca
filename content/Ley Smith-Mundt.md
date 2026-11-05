@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [mundt, operacin, smith, voice]
 publish: true
+sin_fuente: true
 ---
 
 # Ley Smith-Mundt

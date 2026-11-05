@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [bcg, consultoria, vision-2030, reforma-estatal, technocracy, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Boston Consulting Group
@@ -25,7 +26,7 @@ La consultoría no gobierna formalmente, pero escribe diagnósticos, modelos, KP
 ## Señales a monitorear
 
 - Contratos en ministerios, ciudades inteligentes, energía o defensa.
-- Participación en planes nacionales tipo Vision 2030.
+- Participación en planes nacionales tipo Visión 2030.
 - Circulación de ex consultores hacia gobierno y viceversa.
 - Uso de lenguaje homogéneo: resiliencia, transición, eficiencia, stakeholder, digital government.
 
@@ -34,4 +35,4 @@ La consultoría no gobierna formalmente, pero escribe diagnósticos, modelos, KP
 - [[McKinsey and Company|McKinsey]]
 - [[AlixPartners]]
 - [[Technocracy Inc|Technocracy]]
-- Saudi Vision 2030
+- Saudi Visión 2030

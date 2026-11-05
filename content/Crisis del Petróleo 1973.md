@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Crisis del Petroleo 1973", "Crisis del Petróleo 1973"]
 tags: [petroleo, energia, 1973, petrodolar, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Crisis del Petróleo 1973

@@ -7,6 +7,7 @@ tags: [agharta, misterios, operacin]
 capa_tema: "a"
 nivel_evidencia: "bajo"
 publish: true
+sin_fuente: true
 ---
 
 # Agharta Y El Tier A (La Continuidad Oculta)

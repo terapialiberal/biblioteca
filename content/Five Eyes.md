@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Los Cinco Ojos", "Five Eyes Alliance", "Cinco Ojos"]
 tags: [five-eyes, sigint, vigilancia-global, alianza-anglo, espionaje, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Five Eyes

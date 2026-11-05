@@ -6,6 +6,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [tecnologia, historia, criptografia, secretos, poder]
 publish: true
+sin_fuente: true
 ---
 
 # Criptografía Arcaica (V.3)

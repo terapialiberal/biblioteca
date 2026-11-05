@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: ["1929", crash, reserva]
 publish: true
+sin_fuente: true
 ---
 
 # Crash De 1929

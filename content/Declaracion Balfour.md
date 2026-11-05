@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [balfour, declaracin, familia, woodrow]
 publish: true
+sin_fuente: true
 ---
 
 # Declaración Balfour

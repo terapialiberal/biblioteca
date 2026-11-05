@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [alianza, anticomunista, argentina, jos]
 publish: true
+sin_fuente: true
 ---
 
 # Resumen General

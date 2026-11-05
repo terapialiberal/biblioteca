@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Netflix (Streaming)"]
 tags: [netflix, streaming, entretenimiento, plataforma, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Netflix

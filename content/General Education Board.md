@@ -8,6 +8,7 @@ estado: activo
 aliases: ["General Education Board (Rockefeller)"]
 tags: [general-education-board, educacion, rockefeller, curriculo, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # General Education Board

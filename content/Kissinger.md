@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Henry Kissinger"]
 tags: [kissinger, realpolitik, diplomacia, eeuu, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Kissinger

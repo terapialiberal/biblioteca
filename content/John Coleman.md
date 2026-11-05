@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [cartgrafo, coleman, comit, instituto]
 publish: true
+sin_fuente: true
 ---
 
 # John Coleman: El Cartógrafo De La Jerarquía De Los 300

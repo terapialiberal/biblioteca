@@ -11,6 +11,7 @@ tags:
   - singularidad
   - google
 publish: true
+sin_fuente: true
 ---
 
 # [[Ray Kurzweil]]

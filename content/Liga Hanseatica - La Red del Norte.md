@@ -7,6 +7,7 @@ tags: [hansetica, liga, norte]
 tier_primario: "a"
 nivel_evidencia: "alto"
 publish: true
+sin_fuente: true
 ---
 
 # Liga Hanseática - La Red Del Norte

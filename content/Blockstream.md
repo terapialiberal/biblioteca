@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [adam, blockstream, satoshi]
 publish: true
+sin_fuente: true
 ---
 
 # Blockstream

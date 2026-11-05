@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [barak, edmond, ehud, jeffrey]
 publish: true
+sin_fuente: true
 ---
 
 # Ehud Barak

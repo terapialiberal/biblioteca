@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [georgia, guerra, otan, vladimir]
 publish: true
+sin_fuente: true
 ---
 
 # Guerra De Georgia 2008

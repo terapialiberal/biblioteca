@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [cienciologa, crisis, ingeniera, replicacin]
 publish: true
+sin_fuente: true
 ---
 
 # Crisis De Replicación

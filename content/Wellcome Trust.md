@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [wellcome-trust, salud-global, filantrocapitalismo, bioseguridad, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Wellcome Trust
@@ -27,7 +28,7 @@ Wellcome Trust es una fundación filantrópica británica con fuerte presencia e
 
 ## Lectura TL
 
-### 1. Filantropía con capacidad de direccion
+### 1. Filantropía con capacidad de dirección
 
 Wellcome importa porque muestra cómo una fundación puede influir sobre investigación, prioridades y marcos de respuesta sin necesidad de soberanía formal ni mandato electoral.
 

@@ -5,6 +5,7 @@ aliases: ["Brookfield Asset Management"]
 tags: [empresa, infraestructura, private-equity, canadiense]
 tipo: empresa
 tier_primario: A
+sin_fuente: true
 ---
 
 # Brookfield Asset Management

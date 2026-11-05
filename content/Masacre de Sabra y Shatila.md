@@ -8,6 +8,7 @@ moc_canonico: [[00_MOC - Operaciones Encubiertas]]
 estado: activo
 fuentes_clave: []
 tags: [sabra-shatila, libano, israel, proxies, tl-intel-v3]
+sin_fuente: true
 ---
 
 # [[Masacre de Sabra y Shatila]]

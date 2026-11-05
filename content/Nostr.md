@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [bitcoin, digital, nostr, protocolo]
 publish: true
+sin_fuente: true
 ---
 
 # Nostr: El Protocolo De La Secesión Digital

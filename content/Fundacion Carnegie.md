@@ -1,5 +1,5 @@
 ---
-titulo: Fundacion Carnegie
+titulo: Fundación Carnegie
 tipo: entidad
 fecha: 2026-04-18
 tier_primario: b
@@ -8,9 +8,10 @@ estado: activo
 aliases: ["Fundación Carnegie"]
 tags: [carnegie, fundaciones, educacion, politica-exterior, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
-# Fundacion Carnegie
+# Fundación Carnegie
 
 ## BLUF
 

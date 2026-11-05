@@ -57,7 +57,7 @@ La nota estaba demasiado apoyada en framing totalizante y épica forense. Se rec
 
 ## Caso 2026-09-24 — La guerra que está reordenando el mapa energético
 
-**Fuente principal:** transcripción del video LA GUERRA QUE ESTÁ REORDENANDO EL MAPA ENERGÉTICO (emitido 2026-09-24): `03_Produccion/2026-09-14_El_dia_despues_tiene_duenios/transcripcion.md`
+**Fuente principal:** transcripción del video LA GUERRA QUE ESTÁ REORDENANDO EL MAPA ENERGÉTICO (emitido 2026-09-24): `03_Produccion/2026-09-14_El_dia_despues_tiene_duenios/transcripción.md`
 
 **MBS pidió strikes a Trump contra los hutíes.** El príncipe heredero saudí llamó **dos veces a Donald Trump el jueves 11 de septiembre de 2026**, urgiéndolo a lanzar ataques militares contra los hutíes mientras el grupo con apoyo iraní cerraba sobre un punto de inflexión vital del Mar Rojo, según dos funcionarios estadounidenses que informaron a Axios. Trump **se negó**, y funcionarios de EE.UU. enfatizaron que la administración no tiene planes de intervenir directamente contra los hutíes en este momento.
 

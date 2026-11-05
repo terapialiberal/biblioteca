@@ -5,6 +5,7 @@ titulo: "Patrón - Financiamiento Bi-frontal (Sutton)"
 fecha: 2026-10-06
 estado: procesado
 tags: [patrones, financiamiento-bifrontal, guerra, sutton, quigley, tl-intel-v3]
+sin_fuente: true
 ---
 
 # [[Patron - Financiamiento Bi-frontal (Sutton)]]

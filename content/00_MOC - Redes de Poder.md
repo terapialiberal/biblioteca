@@ -6,6 +6,7 @@ fecha: 2026-04-07
 estado: activo
 moc_canonico: [[00_MOC - Base de Conocimiento]]
 tags: [moc, redes-de-poder, tier-a, tier-b, tl-intel-v3]
+sin_fuente: true
 ---
 
 # MOC - Redes de Poder
@@ -86,11 +87,11 @@ tags: [moc, redes-de-poder, tier-a, tier-b, tl-intel-v3]
 - [[Council on Foundations]]
 - [[Skoll Foundation]]
 
-## Como leer la rama de proyeccion blanda
+## Como leer la rama de proyección blanda
 
 - empezar por [[Soft Power]] para fijar la logica de conquista por prestigio, ayuda y legitimidad;
 - pasar luego a [[NED]] y [[USAID]] para ver las dos grandes interfaces de sociedad civil financiada y desarrollo geopolitico;
-- sumar [[George Soros]] y [[Open Society Foundations]] para leer la extension privada o filantropica del mismo corredor;
+- sumar [[George Soros]] y [[Open Society Foundations]] para leer la extensión privada o filantropica del mismo corredor;
 - cerrar con [[Revolucion del color]] para observar como esa infraestructura puede traducirse en recambio de elites y cambio de regimen de baja visibilidad militar.
 
 ## Nodos Relacionados

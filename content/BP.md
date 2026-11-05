@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [british, golpe, petroleum]
 publish: true
+sin_fuente: true
 ---
 
 # BP (British Petroleum)
@@ -25,7 +26,7 @@ El [[Golpe en Irán 1953|Golpe en Irn 1953]] fue para proteger esta empresa.
 
 2010: Mayor derrame de petrleo en historia americana.
 
-11 muertos, catstrofe ambiental.
+11 muertos, catástrofe ambiental.
 
 \65+ billion en costos.
 

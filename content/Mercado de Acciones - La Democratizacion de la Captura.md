@@ -7,6 +7,7 @@ tags: [acciones, democratizacin, derivados, mercado]
 capa_tema: "a"
 nivel_evidencia: "alto"
 publish: true
+sin_fuente: true
 ---
 
 # Mercado De Acciones — La Democratización De La Captura

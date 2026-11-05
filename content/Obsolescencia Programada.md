@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [apple, escasez, forzada, programada]
 publish: true
+sin_fuente: true
 ---
 
 # Obsolescencia Programada: La Ingeniería De La Escasez Forzada

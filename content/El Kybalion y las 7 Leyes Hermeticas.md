@@ -7,6 +7,7 @@ tags: [hermetismo, hermticas, kybalin, leyes]
 capa_tema: "a"
 nivel_evidencia: "alto"
 publish: true
+sin_fuente: true
 ---
 
 # El Kybalión Y Las 7 Leyes Herméticas

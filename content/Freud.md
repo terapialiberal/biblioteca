@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Sigmund Freud"]
 tags: [freud, psicoanalisis, inconsciente, propaganda, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Freud

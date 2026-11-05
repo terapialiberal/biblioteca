@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [desfalco, pdvsa, saqueo, venezuela]
 publish: true
+sin_fuente: true
 ---
 
 # Saqueo de Venezuela: la Ingeniería del Desfalco del Siglo XXI

@@ -8,23 +8,24 @@ tags: [silencio, censura, omision, propaganda, tl-intel-v3]
 capa_tema: b
 nivel_evidencia: medio
 publish: true
+sin_fuente: true
 ---
 
 # El Silencio como Arma
 
 ## BLUF
 
-El Silencio como Arma describe el poder de no nombrar: omitir, demorar, despriorizar o invisibilizar una señal hasta que pierde capacidad politica.
+El Silencio como Arma describe el poder de no nombrar: omitir, demorar, despriorizar o invisibilizar una señal hasta que pierde capacidad política.
 
 ## Que es
 
-No toda ausencia es conspiracion. Pero en medios, burocracia y academia, el silencio selectivo puede funcionar como encuadre: aquello que no entra en agenda no existe socialmente.
+No toda ausencia es conspiración. Pero en medios, burocracia y academia, el silencio selectivo puede funcionar como encuadre: aquello que no entra en agenda no existe socialmente.
 
 ## Por que importa en TL
 
-- conecta censura blanda, agenda setting y legitimacion;
+- conecta censura blanda, agenda setting y legitimación;
 - ayuda a leer ausencia como dato;
-- complementa propaganda activa con propaganda por omision.
+- complementa propaganda activa con propaganda por omisión.
 
 ## Lectura TL
 
@@ -39,4 +40,4 @@ El poder no siempre grita. A veces gana haciendo que nadie pregunte. El silencio
 
 ## Nivel de evidencia
 
-Medio como patron mediatico-politico. Requiere comparar cobertura, incentivos y contexto.
+Medio como patron mediatico-político. Requiere comparar cobertura, incentivos y contexto.

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [cada, crisis, falta, woke]
 publish: true
+sin_fuente: true
 ---
 
 # Falta De Reclutas (Crisis Militar)

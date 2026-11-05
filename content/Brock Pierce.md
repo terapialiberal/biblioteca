@@ -36,7 +36,7 @@ Tres ex-empleados de DEN presentaron demandas civiles alegando:
 
 **Coacusados de Pierce:**
 
-- **Marc Collins-Rector** (cofundador de DEN) - Ms tarde se declar culpable de 8 cargos de "enticement of minors" y se registr como delincuente sexual.
+- **Marc Collins-Rector** (cofundador de DEN) - Más tarde se declar culpable de 8 cargos de "enticement of minors" y se registr como delincuente sexual.
 - **Chad Shackley** (cofundador de DEN)
 
 ### La Fuga a Espaa (2000-2002)
@@ -53,20 +53,20 @@ Tres ex-empleados de DEN presentaron demandas civiles alegando:
 ### Cofundador De Tether
 
 - **Perodo:** 2014 - presente
-- **Organizacin:** [[Tether]]
-- **Descripcin:** Tether (USDT) es la stablecoin ms grande del mundo, con una capitalizacin de ms de \100 mil millones. Pierce fue uno de los cofundadores originales, aunque dej formalmente la empresa aos despus.
+- **Organización:** [[Tether]]
+- **Descripcin:** Tether (USDT) es la stablecoin más grande del mundo, con una capitalizacin de más de \100 mil millones. Pierce fue uno de los cofundadores originales, aunque dej formalmente la empresa aos despus.
 
 ### Cofundador De Block.one
 
 - **Perodo:** 2017 - 2021
-- **Organizacin:** [[Block.one]]
-- **Descripcin:** Empresa detrs de la blockchain EOS, que recaud \4 mil millones en su ICO (2017-2018), una de las ms grandes de la historia. La SEC mult a Block.one con \24M por vendor valores no registrados.
+- **Organización:** [[Block.one]]
+- **Descripcin:** Empresa detrs de la blockchain EOS, que recaud \4 mil millones en su ICO (2017-2018), una de las más grandes de la historia. La SEC mult a Block.one con \24M por vendor valores no registrados.
 
 ### Presidente De Bitcoin Foundation
 
 - **Perodo:** 2014 - 2017 (aprox.)
-- **Organizacin:** [[Bitcoin Foundation]]
-- **Descripcin:** Organizacin sin fines de lucro que promova el desarrollo y adopcin de Bitcoin. Pierce asumi el cargo tras escndalos de sus predecesores.
+- **Organización:** [[Bitcoin Foundation]]
+- **Descripcin:** Organización sin fines de lucro que promova el desarrollo y adopcin de Bitcoin. Pierce asumi el cargo tras escndalos de sus predecesores.
 
 ## Conexiones Con Organizaciones
 
@@ -74,7 +74,7 @@ Tres ex-empleados de DEN presentaron demandas civiles alegando:
 
 - **Rol:** Cofundador
 - **Perodo:** 2014 - presente
-- **Detalles:** Tether es la stablecoin dominante del ecosistema cripto, fundamental para el trading global. Ha enfrentado acusaciones de no estar completamente respaldada por dlares, aunque nunca se ha probado.
+- **Detalles:** Tether es la stablecoin dominante del ecosistema cripto, fundamental para el trading global. Ha enfrentado acusaciones de no estar completamente respaldada por dólares, aunque nunca se ha probado.
 
 ### [[Bitcoin Foundation]]
 
@@ -86,19 +86,19 @@ Tres ex-empleados de DEN presentaron demandas civiles alegando:
 
 ### [[Reunin Epstein-Pierce-Summers (2015)]]
 
-- **Conexin:** Pierce se reuni con [[Jeffrey Epstein]] y [[Larry Summers]] (ex-Secretario del Tesoro) en la mansin de Epstein en Manhattan en 2015. Se present como _"el inversor ms activo en Bitcoin"_.
+- **Conexin:** Pierce se reuni con [[Jeffrey Epstein]] y [[Larry Summers]] (ex-Secretario del Tesoro) en la mansin de Epstein en Manhattan en 2015. Se present como _"el inversor más activo en Bitcoin"_.
 - **Evidencia:** Confirmado (correos desclasificados de Epstein, 2025)
 
 ### Financiacin De Bitcoin Core Va MIT
 
-- **Conexin:** Aunque no directamente involucrado, la reunin con Epstein coincidi con el perodo en que Epstein financiaba secretamente Bitcoin Core a travs del MIT Media Lab.
+- **Conexin:** Aunque no directamente involucrado, la reunin con Epstein coincidi con el perodo en que Epstein financiaba secretamente Bitcoin Core a través del MIT Media Lab.
 - **Evidencia:** Circunstancial
 
 ## Red De Contactos Clave
 
 - **[[Jeffrey Epstein]]** - Anfitrin de reunin clave (2015)
 - **[[Larry Summers]]** - Ex-Secretario del Tesoro, asistente a reunin Epstein
-- **[[Peter Thiel]]** - PayPal Mafia, tambin en agenda de Epstein
+- **[[Peter Thiel]]** - PayPal Mafia, también en agenda de Epstein
 - **[[Reid Hoffman]]** - PayPal Mafia, vnculos Epstein-MIT
 
 ## Puntos Clave Para Video
@@ -109,7 +109,7 @@ Pierce estuvo en el epicentro del escndalo DEN (abuso sexual de menores, 1999), 
 
 ### 2. El Hombre Detrs De Tether
 
-Tether es la stablecoin que "controla" el mercado cripto. Si Tether colapsa, colapsa todo el mercado. Pierce es uno de sus fundadores. Quin realmente controla \100 mil millones en "dlares digitales"?
+Tether es la stablecoin que "controla" el mercado cripto. Si Tether colapsa, colapsa todo el mercado. Pierce es uno de sus fundadores. Quién realmente controla \100 mil millones en "dólares digitales"?
 
 ### 3. La Reunin Oculta
 
@@ -117,18 +117,18 @@ Tether es la stablecoin que "controla" el mercado cripto. Si Tether colapsa, col
 
 ### 4. El Colapso De La Bitcoin Foundation
 
-Pierce asumi la presidencia de una organizacin en quiebra. Quin la salv realmente? Por qu Epstein financi Bitcoin Core en ese mismo perodo?
+Pierce asumi la presidencia de una organización en quiebra. Quién la salv realmente? Por qué Epstein financi Bitcoin Core en ese mismo perodo?
 
 ### 5. De Actor Infantil a Cripto Billonario
 
-Pierce fue actor infantil de Disney en los 90. Pas de DEN (escndalo de abuso) a Bitcoin Foundation a Tether (empresa ms poderosa de cripto). Quin lo "protegi" todo este tiempo?
+Pierce fue actor infantil de Disney en los 90. Pas de DEN (escndalo de abuso) a Bitcoin Foundation a Tether (empresa más poderosa de cripto). Quién lo "protegi" todo este tiempo?
 
 ## Ngulos Posibles Para Video
 
 1. **"El Lado Oscuro de Tether":** Los orgenes criminales del "dlar digital".
 2. **"La Reunin que Explica Todo":** Cuando un pedfilo conect a un ex-acusado de abuso con el Secretario del Tesoro para hablar de Bitcoin.
-3. **"El Dinero de Epstein en Bitcoin":** La historia oculta de quin realmente financi Bitcoin en su memento ms vulnerable, y quines eran sus "amigos".
-4. **"De DEN a Tether: El Patrn de Impunidad":** Cmo las lites protegen a los suyos, sin importar qu hayan hecho.
+3. **"El Dinero de Epstein en Bitcoin":** La historia oculta de quién realmente financi Bitcoin en su memento más vulnerable, y quines eran sus "amigos".
+4. **"De DEN a Tether: El Patrn de Impunidad":** Cómo las lites protegen a los suyos, sin importar qué hayan hecho.
 
 ## Fuentes
 
@@ -136,7 +136,7 @@ Pierce fue actor infantil de Disney en los 90. Pas de DEN (escndalo de abuso) a 
 - [Decrypt - Epstein Bitcoin Meeting](https://decrypt.co/)
 - [New York Magazine - Epstein's Guests](https://nymag.com/) (artculo no publicado pero circulado en correos)
 
-## Ver Tambin
+## Ver También
 
 - [[Jeffrey Epstein]]
 - [[Tether]]

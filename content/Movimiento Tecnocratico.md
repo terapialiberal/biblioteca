@@ -11,6 +11,7 @@ tags:
   - gobernanza
   - planificacion
 publish: true
+sin_fuente: true
 ---
 
 # Movimiento Tecnocratico

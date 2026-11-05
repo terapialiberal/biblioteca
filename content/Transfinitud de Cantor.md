@@ -6,6 +6,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [matematica, esoterismo, infinito, niveles]
 publish: true
+sin_fuente: true
 ---
 
 # Transfinitud de Cantor (V.3)

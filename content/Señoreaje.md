@@ -6,6 +6,7 @@ nivel_evidencia: "muy-alto"
 estado: activo
 tags: [finanzas, robo, banca-central, inflacion]
 publish: true
+sin_fuente: true
 ---
 
 # Señoreaje (V.3)

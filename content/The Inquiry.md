@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [the-inquiry, think-tanks, lippmann, gobernanza, geoestrategia, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # The Inquiry

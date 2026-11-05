@@ -7,6 +7,7 @@ tags: [fractal, geometra, mercado, ondas]
 capa_tema: "a"
 nivel_evidencia: "total"
 publish: true
+sin_fuente: true
 ---
 
 # Geometría Fractal En El Mercado (Predación Matemática)

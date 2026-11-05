@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [ahnenerbe, heinrich, sociedad]
 publish: true
+sin_fuente: true
 ---
 
 # Resumen General

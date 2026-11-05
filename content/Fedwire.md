@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Fedwire Funds Service"]
 tags: [fedwire, pagos, reserva-federal, settlement, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Fedwire

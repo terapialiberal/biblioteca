@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [buitre, deuda, fondos, paul]
 publish: true
+sin_fuente: true
 ---
 
 # Fondos Buitre

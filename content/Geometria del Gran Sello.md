@@ -7,6 +7,7 @@ nivel_evidencia: "alto"
 estado: activo
 tags: [esoterismo, dolar, simbología, gran-sello, masonería]
 publish: true
+sin_fuente: true
 ---
 
 # Geometría del Gran Sello: El Sigilo del Capital (V.3)

@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Ernesto Che Guevara"]
 tags: [che-guevara, cuba, revolucion, guerrilla, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Che Guevara

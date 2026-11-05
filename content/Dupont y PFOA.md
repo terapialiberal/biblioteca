@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [blackrock, dupont, monsanto, pfoa]
 publish: true
+sin_fuente: true
 ---
 
 # Dupont Y PFOA

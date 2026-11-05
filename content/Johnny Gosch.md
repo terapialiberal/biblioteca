@@ -8,6 +8,7 @@ moc_canonico: [[00_MOC - Kompromat y Dark Game Theory]]
 estado: activo
 fuentes_clave: []
 tags: [johnny-gosch, franklin, kompromat, trafficking, tl-intel-v3]
+sin_fuente: true
 ---
 
 # [[Johnny Gosch]]

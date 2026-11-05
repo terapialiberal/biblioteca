@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Circle (USDC)", "USDC"]
 tags: [circle, usdc, stablecoin, treasuries, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Circle

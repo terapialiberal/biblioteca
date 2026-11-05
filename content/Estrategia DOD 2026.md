@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: ["2026", anduril, china, estrategia]
 publish: true
+sin_fuente: true
 ---
 
 # Estrategia DoD 2026

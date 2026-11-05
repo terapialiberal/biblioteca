@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [impeachment, jared, operaciones, trump]
 publish: true
+sin_fuente: true
 ---
 
 # Impeachment (Trump - Teatro De Operaciones)

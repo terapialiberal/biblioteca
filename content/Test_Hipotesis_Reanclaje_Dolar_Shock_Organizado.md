@@ -27,7 +27,7 @@ tags:
 
 La hipótesis plantea un plan coordinado de reanclaje monetario que usa el shock de Ormuz como acelerador, la devaluación del dólar como herramienta competitiva, las stablecoins como mecanismo de absorción de deuda, y la reconfiguración de la Fed (vía Warsh) para refinanciar la deuda soberana a costos más bajos. Se añade la dimensión cripto (BTC como reserva, tokenización RWA) y el riesgo de una crisis bancaria tipo 1907 que legitime intervención estatal en rails digitales.
 
-**Veredicto parcial:** La hipótesis no es una conspiración centralizada, pero sí es **altamente plausible** como **convergencia de intereses alineados** entre actores institucionales, tecnocráticos y financieros. Múltiples componentes ya están en ejecución documentada (GENIUS Act, buybacks récord del Tesoro, nominación de Warsh, propuesta Mar-a-Lago Accord, discusiones UAE swap line, revaluación oro/BTC en proyecto de ley). Otros componentes son inferenciales o especulativos (Bail-in masivo como política deliberada, CBDC dolar como resultado inevitable, coordinación total de todos los actores).
+**Veredicto parcial:** La hipótesis no es una conspiración centralizada, pero sí es **altamente plausible** como **convergencia de intereses alineados** entre actores institucionales, tecnocráticos y financieros. Múltiples componentes ya están en ejecución documentada (GENIUS Act, buybacks récord del Tesoro, nominación de Warsh, propuesta Mar-a-Lago Accord, discusiones UAE swap line, revaluación oro/BTC en proyecto de ley). Otros componentes son inferenciales o especulativos (Bail-in masivo como política deliberada, CBDC dólar como resultado inevitable, coordinación total de todos los actores).
 
 **Score de confianza global (parcial, antes de la tabla de evaluación): 62/100** — Probable, con soporte estructural real pero dependiente de eventos futuros no controlados. **El score final, ya con la tabla completa, es 73/100** (ver §Evaluación).
 
@@ -321,7 +321,7 @@ Si la hipótesis es verdadera, deberíamos observar:
 
 1. No se encontró evidencia directa de reuniones coordinadas entre Miran, Warsh, Bessent y Lutnick para ejecutar este plan.
 2. El componente "The Great Taking" es conceptual (David Webb) más que institucional confirmado.
-3. El componente CBDC dolar contradice la posición explícita de Warsh.
+3. El componente CBDC dólar contradice la posición explícita de Warsh.
 4. La hipótesis asume que el shock de Ormuz es el _trigger_, pero H-02 ya confirma que Ormuz opera como peaje en yuan, lo que complica la lectura de "demanda masiva de USD".
 5. No se encontró evidencia de que países estén liquidando oro masivamente para obtener USD.
 

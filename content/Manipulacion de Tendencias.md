@@ -1,5 +1,5 @@
 ---
-titulo: Manipulacion de Tendencias
+titulo: Manipulación de Tendencias
 tipo: concepto
 fecha: 2026-04-18
 capa_tema: b
@@ -7,9 +7,10 @@ nivel_evidencia: medio
 estado: activo
 tags: [tendencias, astroturfing, bots, algoritmos, control-narrativo, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
-# Manipulacion de Tendencias
+# Manipulación de Tendencias
 
 ## BLUF
 

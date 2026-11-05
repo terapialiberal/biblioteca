@@ -7,6 +7,7 @@ capa_tema: b
 nivel_evidencia: medio
 estado: activo
 tags: [anarco-tirania, sam-francis, orden-publico, estado, public-choice, tl-intel-v3]
+sin_fuente: true
 ---
 
 # Anarco-Tiranía

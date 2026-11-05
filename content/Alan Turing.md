@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Turing", "Alan Turing (Computación)"]
 tags: [alan-turing, computacion, criptografia, ia, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Alan Turing

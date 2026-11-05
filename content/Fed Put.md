@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Fed Put (Backstop Implícito de la FED)", "Backstop de la Fed"]
 tags: [fed-put, reserva-federal, mercados, bailout, moral-hazard, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Fed Put

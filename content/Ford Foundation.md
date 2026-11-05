@@ -1,5 +1,5 @@
 ---
-titulo: Fundacion Ford
+titulo: Fundación Ford
 tipo: entidad
 fecha: 2026-04-18
 tier_primario: b
@@ -8,9 +8,10 @@ estado: activo
 aliases: ["Ford Foundation", "Fundación Ford"]
 tags: [fundacion-ford, fundaciones, identidad, guerra-cultural, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
-# Fundacion Ford
+# Fundación Ford
 
 ## BLUF
 

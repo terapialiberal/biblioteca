@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [cartel, desarme, furious, ingeniera]
 publish: true
+sin_fuente: true
 ---
 
 # Operación Fast and Furious: El Tráfico De Armas Como Ingeniería De Desarme

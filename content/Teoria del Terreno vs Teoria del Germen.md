@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [terreno, germen, medicina, virologia, informe-flexner, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Teoria del Terreno vs Teoria del Germen

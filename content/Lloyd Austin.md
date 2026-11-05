@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [lloyd-austin, pentagono, defensa, puertas-giratorias, raytheon, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Lloyd Austin
@@ -27,17 +28,17 @@ El nodo faltaba pese a ser enlazado desde `Raytheon`. Se crea como entrada canon
 
 ## Lectura TL
 
-### 1. Figura de interseccion
+### 1. Figura de intersección
 
-Austin importa porque su trayectoria permite ver la continuidad entre mando militar de alto rango, entorno corporativo de defensa y luego conduccion politica del aparato militar.
+Austin importa porque su trayectoria permite ver la continuidad entre mando militar de alto rango, entorno corporativo de defensa y luego conducción política del aparato militar.
 
 ### 2. Puerta giratoria en defensa
 
-En TL, su valor principal esta en encarnar una logica sistemica: la proximidad entre quienes toman decisiones de seguridad, quienes administran presupuestos y quienes participan en empresas beneficiadas por ese mismo entorno.
+En TL, su valor principal esta en encarnar una logica sistémica: la proximidad entre quienes toman decisiones de seguridad, quienes administran presupuestos y quienes participan en empresas beneficiadas por ese mismo entorno.
 
 ### 3. El caso importa por el patron
 
-La nota no debe leerse como denuncia totalizante sobre una sola persona, sino como ejemplo de patron estructural de circulacion entre instituciones del complejo de defensa.
+La nota no debe leerse como denuncia totalizante sobre una sola persona, sino como ejemplo de patron estructural de circulación entre instituciones del complejo de defensa.
 
 ## Con que conecta
 

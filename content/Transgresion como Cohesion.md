@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [bohemian, concepto, skull, transgresin]
 publish: true
+sin_fuente: true
 ---
 
 # Transgresión Como Cohesión (Concepto)

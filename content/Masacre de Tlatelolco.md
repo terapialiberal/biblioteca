@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [tlatelolco, mexico, represion, guerra-fria, litempo, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Masacre de Tlatelolco

@@ -8,13 +8,14 @@ estado: activo
 aliases: ["Una Salud"]
 tags: [one-health, bioseguridad, salud-global, veterinaria, gobernanza, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # One Health
 
 ## BLUF
 
-[[One Health]] importa en TL como marco de expansion de la gobernanza sanitaria: conecta salud humana, salud animal, ambiente y cadenas de suministro bajo una misma logica de vigilancia, preparacion y gestion del riesgo.
+[[One Health]] importa en TL como marco de expansión de la gobernanza sanitaria: conecta salud humana, salud animal, ambiente y cadenas de suministro bajo una misma logica de vigilancia, preparación y gestion del riesgo.
 
 ## Por que importa en TL
 
@@ -28,21 +29,21 @@ El nodo no existia como archivo canonico y solo aparecia citado en notas dispers
 
 ## Lectura TL
 
-### 1. Expansion del radio de intervencion
+### 1. Expansión del radio de intervención
 
 One Health importa porque corre la frontera de la salud desde el individuo enfermo hacia ecosistemas completos: animales, alimentos, ambiente, movilidad y vigilancia preventiva.
 
-### 2. Integracion de stacks
+### 2. Integración de stacks
 
 En TL, el marco es util para entender por que nodos que antes parecian separados pueden converger: veterinaria, trazabilidad biologica, genomica, respuesta pandemica y control logistico.
 
-### 3. Lenguaje tecnico, consecuencias politicas
+### 3. Lenguaje tecnico, consecuencias políticas
 
-La doctrina puede presentarse como coordinacion sensata entre disciplinas, pero tambien habilita capas mas densas de normalizacion, compliance y monitoreo transnacional.
+La doctrina puede presentarse como coordinación sensata entre disciplinas, pero también habilita capas mas densas de normalización, compliance y monitoreo transnacional.
 
 ### 4. Bisagra del corredor bioseguridad
 
-Leido junto con [[World Health Organization]], [[Tratado de Pandemias OMS]], [[Fundacion Bill y Melinda Gates]] y [[Moderna]], One Health funciona como gramatica comun para ampliar la justificacion del control sanitario.
+Leido junto con [[World Health Organization]], [[Tratado de Pandemias OMS]], [[Fundacion Bill y Melinda Gates]] y [[Moderna]], One Health funciona como gramatica comun para ampliar la justificación del control sanitario.
 
 ## Conexiones
 

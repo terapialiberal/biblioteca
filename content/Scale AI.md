@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [fbrica, matrix, openai, scale]
 publish: true
+sin_fuente: true
 ---
 
 # Scale AI: la Fábrica de Datos de la Matrix Militar

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [delegada, efecto, panptico, propiedad]
 publish: true
+sin_fuente: true
 ---
 
 # La Nube: El Panóptico De La Propiedad Delegada

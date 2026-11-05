@@ -1,5 +1,6 @@
 ---
 titulo: Gladio (Estrategia De Tensión)
+aliases: [Operación Gladio, Operacion Gladio, Operation Gladio]
 tipo: "concepto"
 fecha: 2026-02-25
 capa_tema: "b"
@@ -7,6 +8,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [estrategia, gladio, otan, tensin]
 publish: true
+sin_fuente: true
 ---
 
 # Gladio (Estrategia De Tensión)

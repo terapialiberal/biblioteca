@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [blackrock, edelman, edward]
 publish: true
+sin_fuente: true
 ---
 
 # Edelman

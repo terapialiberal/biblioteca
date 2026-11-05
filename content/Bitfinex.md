@@ -5,6 +5,7 @@ aliases: ["Bitfinex"]
 tags: [cripto, exchange, tether, offshore]
 tipo: empresa
 tier_primario: C
+sin_fuente: true
 ---
 
 # Bitfinex

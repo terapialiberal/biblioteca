@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [blackrock, larry, texas]
 publish: true
+sin_fuente: true
 ---
 
 # Texas Vs BlackRock

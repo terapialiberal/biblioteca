@@ -1,5 +1,5 @@
 ---
-titulo: Iniciacion Traumatica
+titulo: Iniciación Traumatica
 tipo: patron
 fecha: 2026-04-27
 estado: activo
@@ -8,9 +8,10 @@ tags: [iniciacion-traumatica, trauma, ritual, operaciones-psicologicas, tl-intel
 capa_tema: b
 nivel_evidencia: medio
 publish: true
+sin_fuente: true
 ---
 
-# Iniciacion Traumatica
+# Iniciación Traumatica
 
 ## BLUF
 

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [biblia, nacionalismo, sionismo, teologa]
 publish: true
+sin_fuente: true
 ---
 
 # Nacionalismo Cristiano: La Teología Del Imperio

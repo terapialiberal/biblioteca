@@ -8,6 +8,7 @@ tags: [privatizacion, activos-publicos, neoliberalismo, captura-regulatoria, tl-
 capa_tema: b
 nivel_evidencia: alto
 publish: true
+sin_fuente: true
 ---
 
 # Privatización

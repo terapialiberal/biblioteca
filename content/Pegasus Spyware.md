@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Pegasus Spyware (NSO Group)", "Pegasus"]
 tags: [pegasus, spyware, nso-group, zero-click, vigilancia, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Pegasus Spyware
@@ -32,7 +33,7 @@ Pegasus es un spyware asociado a NSO Group capaz de comprometer dispositivos y c
 
 Pegasus importa porque una vez dentro del dispositivo, el espionaje deja de ser periférico y se vuelve íntimo: mensajes, micrófono, cámara y geolocalización quedan al alcance del operador.
 
-### 2. Intrusion como servicio geopolitico
+### 2. Intrusión como servicio geopolitico
 
 En TL, su relevancia crece cuando se observa que estas herramientas no circulan solo por mercado. También funcionan como moneda diplomática, cooperación represiva y extensión indirecta de poder estatal.
 
@@ -40,7 +41,7 @@ En TL, su relevancia crece cuando se observa que estas herramientas no circulan 
 
 Leído junto con [[NSO Group]], [[Cellebrite]] y [[Citizen Lab]], Pegasus aparece como la pieza ofensiva más visible del mercado privado de vigilancia.
 
-### 4. Intrusion con consecuencias materiales
+### 4. Intrusión con consecuencias materiales
 
 La nota gana todavía más peso cuando se la conecta con [[Jamal Khashoggi]]. Ahí Pegasus deja de leerse solo como malware sofisticado y pasa a figurar como herramienta con potencial de traducirse en coerción, persecución y daño físico-político.
 

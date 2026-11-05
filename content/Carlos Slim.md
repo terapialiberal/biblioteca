@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [amrica, carlos, grupo, slim]
 publish: true
+sin_fuente: true
 ---
 
 # Carlos Slim

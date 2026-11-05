@@ -9,6 +9,7 @@ estado: activo
 aliases: ["Resumen General"]
 fuentes_clave: []
 tags: [conciencia-de-clase, elites, coordinacion, clases, tl-intel-v3]
+sin_fuente: true
 ---
 
 # [[Conciencia de Clase]]

@@ -7,6 +7,7 @@ tags: [enki, enlil, sinarqua]
 capa_tema: "a"
 nivel_evidencia: "bajo"
 publish: true
+sin_fuente: true
 ---
 
 # Enki Vs Enlil (Dualidad Primordial De Control)

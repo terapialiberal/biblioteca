@@ -27,7 +27,7 @@ Qatar muestra que el poder contemporáneo puede operar por gas, branding, mediac
 
 ## Caso 2026-09-24 — La guerra que está reordenando el mapa energético
 
-**Fuente principal:** transcripción del video LA GUERRA QUE ESTÁ REORDENANDO EL MAPA ENERGÉTICO (emitido 2026-09-24): `03_Produccion/2026-09-14_El_dia_despues_tiene_duenios/transcripcion.md`
+**Fuente principal:** transcripción del video LA GUERRA QUE ESTÁ REORDENANDO EL MAPA ENERGÉTICO (emitido 2026-09-24): `03_Produccion/2026-09-14_El_dia_despues_tiene_duenios/transcripción.md`
 
 **Qatar pasa de ser el mayor exportador mundial de GNL a negociar comprar GNL estadounidense.** El Estado del Golfo, históricamente el mayor exportador de gas natural licuado (GNL) del mundo, está en negociaciones para comprar GNL de EE.UU. — un giro sin precedentes en su estrategia energética. La noticia, reportada por ClashReport, señala además que **dos de los 14 trenes de licuación de Qatar están fuera de operación** en el contexto del conflicto que afecta las rutas marítimas del Golfo Pérsico y el Mar Rojo.
 
@@ -50,4 +50,4 @@ Qatar muestra que el poder contemporáneo puede operar por gas, branding, mediac
 ## Fuentes
 
 - **ClashReport (X)** (17/09/2026): https://x.com/clashreport/status/2098296544705347690
-- Transcripción del video LA GUERRA QUE ESTÁ REORDENANDO EL MAPA ENERGÉTICO (24/09/2026): `03_Produccion/2026-09-14_El_dia_despues_tiene_duenios/transcripcion.md`
+- Transcripción del video LA GUERRA QUE ESTÁ REORDENANDO EL MAPA ENERGÉTICO (24/09/2026): `03_Produccion/2026-09-14_El_dia_despues_tiene_duenios/transcripción.md`

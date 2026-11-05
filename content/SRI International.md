@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [arpanet, impensable, laboratorio, matrix]
 publish: true
+sin_fuente: true
 ---
 
 # SRI International: el Laboratorio de Lo Impensable de la Matrix
@@ -36,7 +37,7 @@ publish: true
 ## Conexiones Críticas
 
 - [[ARPANET]]: El precursor de internet desarrollado en parte en SRI.
-- [[Project Stargate|Proyecto Stargate]]: El programa de Remote Viewing financiado por la CIA/DIA en SRI.
+- [[Project Stargate|Proyecto Stargate]]: El programa de Remote Viewing financiado por la CIA/DÍA en SRI.
 - [[Siri]]: Tecnología de inteligencia artificial nacida de un proyecto de SRI para el Departamento de Defensa.
 - [[In-Q-Tel]]: El fondo de la CIA que financia muchos spin-offs industriales de SRI.
 - [[Silicon Valley]]: El ecosistema que se alimenta de la investigación base de SRI.

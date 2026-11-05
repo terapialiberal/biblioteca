@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [reality-privilege, clase, digitalizacion, inmersion, estratificacion, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Reality Privilege

@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Platón", "Platon"]
 tags: [alias, legacy, filosofia, grecia, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Platón

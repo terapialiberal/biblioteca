@@ -7,6 +7,7 @@ tags: [cagliostro]
 capa_tema: "b"
 nivel_evidencia: "medio"
 publish: true
+sin_fuente: true
 ---
 
 # Cagliostro — El Agente De La Transmutación Social

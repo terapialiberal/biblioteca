@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Lysenkoismo Moderno: El Secuestro De La Realidad Biologica"]
 tags: [lysenkoismo, ciencia, ideologia, biologica, consenso, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Lysenkoismo Moderno

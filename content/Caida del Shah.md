@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [cada, golpe, iran, shah]
 publish: true
+sin_fuente: true
 ---
 
 # Caída Del Shah (Revolución Iraní)

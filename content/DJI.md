@@ -6,6 +6,7 @@ estado: activo
 aliases: ["DJI (Drones)"]
 tags: [dji, china, drones, vigilancia, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # DJI

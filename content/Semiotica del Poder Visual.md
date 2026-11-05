@@ -8,6 +8,7 @@ tags: [semiotica, poder-visual, propaganda, simbolismo, percepcion, tl-intel-v3]
 capa_tema: b
 nivel_evidencia: medio
 publish: true
+sin_fuente: true
 ---
 
 # Semiotica del Poder Visual

@@ -26,7 +26,7 @@ interpretacion: "Lectura TL: Corea es el rehén tecnológico —fabrica la memor
 
 # Corea del Sur
 
-Potencia tecnologica asiatica, nodo de semiconductores, baterias, defensa y contencion de Corea del Norte. Aliado clave de Estados Unidos en la arquitectura Indo-Pacifico. Rehén de dos imperios: uno le compra, el otro le protege, los dos le cobran.
+Potencia tecnológica asiatica, nodo de semiconductores, baterias, defensa y contención de Corea del Norte. Aliado clave de Estados Unidos en la arquitectura Indo-Pacifico. Rehén de dos imperios: uno le compra, el otro le protege, los dos le cobran.
 
 ## Deuda sana, hogares no
 

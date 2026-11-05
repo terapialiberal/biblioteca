@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [anthony-fauci, niaid, salud-publica, bioseguridad, regulacion, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Anthony Fauci

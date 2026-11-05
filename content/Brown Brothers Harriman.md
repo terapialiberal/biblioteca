@@ -5,6 +5,7 @@ aliases: ["Brown Brothers Harriman"]
 tags: [banco, dinastia, eeuu, elite]
 tipo: banco
 tier_primario: B
+sin_fuente: true
 ---
 
 # Brown Brothers Harriman

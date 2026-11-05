@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Eugenesia (Historia y Actualidad)"]
 tags: [eugenesia, poblacion, genetica, biopolitica, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Eugenesia

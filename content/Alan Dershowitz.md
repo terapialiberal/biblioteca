@@ -10,6 +10,7 @@ tags:
 tipo: actor
 tier_primario: B
 titulo: Alan Dershowitz
+sin_fuente: true
 ---
 
 # Alan Dershowitz

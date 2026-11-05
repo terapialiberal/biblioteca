@@ -46,7 +46,7 @@ Worldcoin ayuda a pensar un escenario donde funciones clásicas de identificaci�
 
 Cuando biometría, credencial y dinero digital convergen, la promesa de inclusión puede convertirse en capacidad de filtrar, priorizar o excluir usuarios según reglas técnicas externas al sujeto.
 
-### 5. Identidad para tiempos de saturacion
+### 5. Identidad para tiempos de saturación
 
 En TL, [[Worldcoin]] gana peso cuando se la conecta con policrisis, desempleo tecnológico y soluciones de eficiencia. Cuanto más saturado y caótico se percibe el sistema, más fácil se vuelve vender una identidad biométrica persistente como requisito neutral de orden.
 
@@ -56,7 +56,7 @@ Leido junto con [[Biometria Global]] y [[Bio-Identidad Digital]], el nodo deja d
 
 ### 7. De credencial privada a infraestructura generalizable
 
-En TL, Worldcoin importa tambien porque ensaya algo exportable mas alla de su marca: la idea de que una prueba biometrica de humanidad puede volverse requisito base para entrar a plataformas, pagos, subsidios o servicios digitales.
+En TL, Worldcoin importa también porque ensaya algo exportable mas alla de su marca: la idea de que una prueba biometrica de humanidad puede volverse requisito base para entrar a plataformas, pagos, subsidios o servicios digitales.
 
 ## Conexiones
 
@@ -70,3 +70,7 @@ En TL, Worldcoin importa tambien porque ensaya algo exportable mas alla de su ma
 - [[Policrisis Sistemica]]
 - [[Bio-Identidad Digital]]
 - [[00_MOC - Tecnologia de Control]]
+
+## Fuentes
+
+- https://es.wikipedia.org/wiki/Worldcoin  ·  en `06_Videos_Publicados\2026\2026-04-22_ORDO_AB_CHAOS\PATREON_ORDO_AB_CHAOS.md`

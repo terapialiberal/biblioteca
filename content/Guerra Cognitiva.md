@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [ciberntica, cognitive, guerra, warfare]
 publish: true
+sin_fuente: true
 ---
 
 # Guerra Cognitiva (Cognitive Warfare)

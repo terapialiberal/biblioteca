@@ -7,6 +7,7 @@ tags: [logotipos, proporcin, sucesin, urea]
 tier_primario: "a"
 nivel_evidencia: "total"
 publish: true
+sin_fuente: true
 ---
 
 # La Proporción Áurea (Phi)

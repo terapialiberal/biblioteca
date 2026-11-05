@@ -8,6 +8,7 @@ estado: activo
 aliases: ["PIIE"]
 tags: [piie, economia-global, think-tank, consenso-de-washington, globalizacion, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Peterson Institute for International Economics

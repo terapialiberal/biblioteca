@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [asesinato, david, gurion, mossad]
 publish: true
+sin_fuente: true
 ---
 
 # David Ben-Gurion

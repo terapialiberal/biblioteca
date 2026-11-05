@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [bill, china, clinton, loral]
 publish: true
+sin_fuente: true
 ---
 
 # Transferencia Tecnológica a China (Clinton/Loral)

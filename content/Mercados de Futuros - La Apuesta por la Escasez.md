@@ -7,6 +7,7 @@ tags: [apuesta, blackrock, escasez, futuros]
 capa_tema: "a"
 nivel_evidencia: "alto"
 publish: true
+sin_fuente: true
 ---
 
 # Mercados De Futuros — La Apuesta Por La Escasez

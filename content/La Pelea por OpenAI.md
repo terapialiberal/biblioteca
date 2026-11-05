@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [estado, golpe, openai, pelea]
 publish: true
+sin_fuente: true
 ---
 
 # La Pelea Por OpenAI: El Golpe De Estado Del Capital Aceleracionista

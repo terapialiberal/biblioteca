@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Litio En Jujuy: La Cara Oculta De La Transicion Verde"]
 tags: [litio, jujuy, transicion-verde, extractivismo, argentina, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Litio en Jujuy

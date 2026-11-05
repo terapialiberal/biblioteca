@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Murray Rothbard: El Desprogramador Del Estado"]
 tags: [murray-rothbard, anarcocapitalismo, escuela-austriaca, estado, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Murray Rothbard

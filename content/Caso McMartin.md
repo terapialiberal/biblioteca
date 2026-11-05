@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [abuso, caso, original, panic]
 publish: true
+sin_fuente: true
 ---
 
 # Caso McMartin (Satanic Panic original)

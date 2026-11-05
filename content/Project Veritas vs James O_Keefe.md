@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [keefe, pfizer, project, veritas]
 publish: true
+sin_fuente: true
 ---
 
 # Project Veritas vs James O'keefe: la Captura Institucional

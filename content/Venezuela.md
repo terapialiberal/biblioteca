@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Venezuela (Crisis)"]
 tags: [venezuela, petroleo, socialismo, crisis, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Venezuela

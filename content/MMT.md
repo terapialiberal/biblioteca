@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Modern Monetary Theory", "Modern Monetary Theory (MMT)", "Teoría Monetaria Moderna"]
 tags: [mmt, deficit, moneda, deuda, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # MMT

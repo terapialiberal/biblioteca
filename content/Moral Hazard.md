@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Riesgo moral", "Moral Hazard (Riesgo Moral)"]
 tags: [moral-hazard, bailout, riesgo, banca, control-financiero, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Moral Hazard

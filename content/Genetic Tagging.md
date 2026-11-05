@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [genetic-tagging, adn, propiedad-biologica, trazabilidad, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Genetic Tagging

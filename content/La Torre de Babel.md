@@ -8,6 +8,7 @@ moc_canonico: [[00_MOC - Simbolismo y Esoterismo]]
 estado: activo
 fuentes_clave: []
 tags: [babel, centralizacion, simbolismo, universalismo, tl-intel-v3]
+sin_fuente: true
 ---
 
 # [[La Torre de Babel]]

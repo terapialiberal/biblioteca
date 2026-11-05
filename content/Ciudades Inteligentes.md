@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [agenda, ciudades, inteligentes, world]
 publish: true
+sin_fuente: true
 ---
 
 # Ciudades Inteligentes (Smart Cities)

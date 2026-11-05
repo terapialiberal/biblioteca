@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [brics, northern, route, soberano]
 publish: true
+sin_fuente: true
 ---
 
 # Northern Sea Route (NSR): El Corredor Del Hielo Soberano

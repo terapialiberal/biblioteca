@@ -3,6 +3,7 @@ publish: true
 titulo: "Jamie Dimon: El Rey Del Riesgo Moral"
 tipo: persona
 estado: activo
+sin_fuente: true
 ---
 
 # Jamie Dimon (TL V.3): El Rey Del Riesgo Moral

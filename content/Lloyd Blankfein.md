@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [blankfein, crisis, goldman, lloyd]
 publish: true
+sin_fuente: true
 ---
 
 # Lloyd Blankfein: El Banquero Del "Trabajo De Dios"

@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Puerta Giratoria (Concepto)"]
 tags: [puerta-giratoria, captura, regulacion, lobby, estado-corporacion, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Puerta Giratoria

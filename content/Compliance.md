@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [compliance, cumplimiento, regulacion, burocracia, control, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Compliance
@@ -39,7 +40,7 @@ En TL, su relevancia crece cuando se observa que el cumplimiento puede servir ta
 
 También sirve para leer el pasaje desde norma legal a dashboard, scoring, filtro algorítmico y trazabilidad total.
 
-### 4. Cumplimiento como cartelizacion suave
+### 4. Cumplimiento como cartelización suave
 
 En TL, el compliance importa también porque puede transformar la regulación en barrera operativa. Cuando el costo de cumplir sube y la trazabilidad se vuelve obligatoria, los actores grandes consolidan ventaja y el corredor de [[Captura Regulatoria]] gana profundidad material.
 

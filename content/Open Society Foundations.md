@@ -7,13 +7,14 @@ nivel_evidencia: medio
 estado: activo
 tags: [osf, george-soros, ong, revoluciones-de-color, governance, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Open Society Foundations
 
 ## BLUF
 
-[[Open Society Foundations]] importa en TL como red de financiamiento e influencia capaz de operar sobre ONGs, fiscalias, medios, causas legales y marcos de cambio politico en multiples paises.
+[[Open Society Foundations]] importa en TL como red de financiamiento e influencia capaz de operar sobre ONGs, fiscalias, medios, causas legales y marcos de cambio político en multiples países.
 
 ## Por que importa en TL
 
@@ -34,8 +35,8 @@ En TL, el nodo es útil cuando se observa su papel como interfaz entre filantrop
 ## Como leerlo en TL
 
 - junto con [[George Soros]] para distinguir financiador visible y estructura distribuida;
-- junto con [[NED]] y [[USAID]] para mapear la superposicion entre filantropia privada e influencia geopolitica mas cercana al Estado;
-- junto con [[Lawfare]] y [[Revolucion del color]] para seguir como la financiacion se traduce en presion institucional y desestabilizacion politica.
+- junto con [[NED]] y [[USAID]] para mapear la superposición entre filantropia privada e influencia geopolitica mas cercana al Estado;
+- junto con [[Lawfare]] y [[Revolucion del color]] para seguir como la financiación se traduce en presión institucional y desestabilización política.
 
 ## Con que conecta
 

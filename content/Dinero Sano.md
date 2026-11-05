@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [bitcoin, dinero, reserva, sano]
 publish: true
+sin_fuente: true
 ---
 
 # Dinero Sano

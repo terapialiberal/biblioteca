@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Blackstone / Stephen Schwarzman"]
 tags: [alias, legacy, blackstone, private-equity, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Blackstone - Stephen Schwarzman

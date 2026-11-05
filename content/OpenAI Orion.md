@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [microsoft, openai, orion]
 publish: true
+sin_fuente: true
 ---
 
 # [[OpenAI Orion]]

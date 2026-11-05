@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [arthur, desarme, overton, total]
 publish: true
+sin_fuente: true
 ---
 
 # Port Arthur Massacre: El Diseño Del Desarme Total

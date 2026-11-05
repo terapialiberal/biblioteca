@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [choke, fdic, financiero, operation]
 publish: true
+sin_fuente: true
 ---
 
 # Operation Choke Point: El Desahucio Financiero De La Disidencia

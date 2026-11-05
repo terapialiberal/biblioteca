@@ -9,6 +9,7 @@ estado: activo
 aliases: ["State Street Corporation"]
 fuentes_clave: []
 tags: [state-street, custodia, gestores-de-activos, control-financiero, tl-intel-v3]
+sin_fuente: true
 ---
 
 # [[State Street]]

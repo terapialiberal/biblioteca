@@ -6,6 +6,7 @@ capa_tema: 'b'
 nivel_evidencia: 'confirmado'
 estado: activo
 tags: [cia, mossad, magnicidio, iran, inteligencia-ia]
+sin_fuente: true
 ---
 
 # Operación Decapitación (Teherán 2026)

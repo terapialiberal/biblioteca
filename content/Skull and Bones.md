@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Skull and Bones (Sociedad Secreta)"]
 tags: [skull-and-bones, yale, redes-elite, eeuu, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Skull and Bones

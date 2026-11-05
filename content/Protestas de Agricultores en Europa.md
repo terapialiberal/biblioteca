@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [agricultores, europa, foro, protestas]
 publish: true
+sin_fuente: true
 ---
 
 # Protestas de Agricultores en Europa: la Rebelión de la Tierra

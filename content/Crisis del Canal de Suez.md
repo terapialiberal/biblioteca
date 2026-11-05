@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: ["1956", canal, crisis, suez]
 publish: true
+sin_fuente: true
 ---
 
 # Crisis Del Canal De Suez (1956)

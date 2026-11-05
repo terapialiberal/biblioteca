@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [alemania, global, shield]
 publish: true
+sin_fuente: true
 ---
 
 # [[Global Shield (G7)]]

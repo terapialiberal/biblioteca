@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Cartel de Cali"]
 tags: [cartel-cali, narcotrafico, colombia, crimen, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Cártel de Cali

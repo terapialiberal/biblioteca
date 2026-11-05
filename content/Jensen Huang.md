@@ -7,6 +7,7 @@ tier_primario: A
 estado: activo
 tags: [jensen-huang, nvidia, bitcoin, energia, ia, tl-intel-v3]
 last_stream: "[[06_Videos_Publicados/2026/2026-05-26_La_Trampa_de_Ormuz/00_ARCHIVO_2026-05-26_La_Trampa_de_Ormuz|ARCHIVO: La Trampa de Ormuz]]"
+sin_fuente: true
 ---
 
 # [[Jensen Huang]]

@@ -6,6 +6,7 @@ estado: activo
 aliases: ["White House", "Casa Blanca (White House)"]
 tags: [casa-blanca, eeuu, poder-ejecutivo, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Casa Blanca

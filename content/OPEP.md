@@ -6,6 +6,7 @@ estado: activo
 aliases: ["OPEC"]
 tags: [opep, petroleo, energia, cartel, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # OPEP

@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [monsanto, agroindustria, biotecnologia, semillas, soberania-alimentaria, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Monsanto

@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Power of Siberia 2", "PoS2"]
 tags: [power-of-siberia-2, rusia, china, energia, gas, bypass, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Power of Siberia 2

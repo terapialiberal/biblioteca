@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Lula Da Silva: El Gestor Globalista Del Multipolarismo"]
 tags: [lula-da-silva, brasil, brics, foro-de-sao-paulo, politica, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Lula da Silva

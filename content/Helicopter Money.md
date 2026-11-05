@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Dinero helicóptero", "Helicopter Money (Estímulo Directo)", "Estimulo directo"]
 tags: [helicopter-money, politica-monetaria, estimulo, inflacion, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Helicopter Money

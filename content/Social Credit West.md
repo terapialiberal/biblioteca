@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Credito Social Occidental"]
 tags: [credito-social, scoring, debanking, identidad-digital, tecnocracia, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Social Credit West
@@ -46,7 +47,7 @@ El mecanismo central no necesita condena judicial. Puede operar mediante cierre 
 
 La idea gana fuerza cuando se conecta con identidad digital interoperable, wallets, scoring conductual y potencial integración con moneda programable o acceso condicionado.
 
-### 5. Scoring como respuesta a la saturacion
+### 5. Scoring como respuesta a la saturación
 
 En TL, este nodo gana fuerza cuando policrisis, fatiga institucional y automatización hacen parecer razonable una capa extra de filtrado. En ese contexto, puntuar usuarios, cuentas, pagos o accesos se vende como administración prudente del desorden.
 

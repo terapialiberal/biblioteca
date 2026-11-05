@@ -6,6 +6,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [esoterismo, astrologia, ciclos, eventos, poder]
 publish: true
+sin_fuente: true
 ---
 
 # Eclipses y Cambio de Rieles (V.3)

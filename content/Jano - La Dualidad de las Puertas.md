@@ -7,6 +7,7 @@ tags: [dualidad, jano, puertas]
 capa_tema: "a"
 nivel_evidencia: "alto"
 publish: true
+sin_fuente: true
 ---
 
 # Jano - La Dualidad De Las Puertas (Protocolo De Transición)

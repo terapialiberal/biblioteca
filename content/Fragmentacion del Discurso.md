@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [atomizacin, discurso, dividir, fragmentacin]
 publish: true
+sin_fuente: true
 ---
 
 # Fragmentación Del Discurso

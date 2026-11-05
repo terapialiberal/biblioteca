@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Joe Biden"]
 tags: [biden, eeuu, partido-democrata, ucrania, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Biden

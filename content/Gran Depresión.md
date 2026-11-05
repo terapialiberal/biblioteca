@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Gran Depresion", "Crack del 29", "Crack de 1929 y Gran Depresión"]
 tags: [gran-depresion, crisis, economia, wall-street, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Gran Depresión

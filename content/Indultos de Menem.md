@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [carlos, dictadura, indultos, menem]
 publish: true
+sin_fuente: true
 ---
 
 # Indultos De Menem

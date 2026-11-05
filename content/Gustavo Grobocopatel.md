@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [grobocopatel, gustavo, monsanto, soja]
 publish: true
+sin_fuente: true
 ---
 
 # Gustavo Grobocopatel

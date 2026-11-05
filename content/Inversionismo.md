@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: ["1984", gaslighting, gnosticismo, inversionismo]
 publish: true
+sin_fuente: true
 ---
 
 # Inversionismo (Gnosticismo Político)

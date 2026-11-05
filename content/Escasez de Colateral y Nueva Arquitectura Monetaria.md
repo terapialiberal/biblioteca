@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Escasez de Colateral", "Nueva Arquitectura Monetaria", "Plomería Monetaria y Colateral", "Ciclo de Deuda y Dinero Endógeno"]
 tags: [colateral, dinero-endogeno, repo, treasuries, stablecoins, dominancia-fiscal, triffin, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Escasez De Colateral Y Nueva Arquitectura Monetaria

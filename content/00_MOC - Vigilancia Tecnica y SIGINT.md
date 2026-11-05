@@ -6,6 +6,7 @@ fecha: 2026-04-22
 estado: activo
 moc_canonico: [[00_MOC - Base de Conocimiento]]
 tags: [moc, vigilancia-tecnica, sigint, spyware, biometria, tl-intel-v3]
+sin_fuente: true
 ---
 
 # MOC - Vigilancia Tecnica y SIGINT
@@ -44,7 +45,7 @@ tags: [moc, vigilancia-tecnica, sigint, spyware, biometria, tl-intel-v3]
 - [[Palantir AIP]]
 - [[Anduril Industries]]
 
-## Intrusion y Extraccion
+## Intrusión y Extracción
 
 - [[NSO Group]]
 - [[Pegasus Spyware]]

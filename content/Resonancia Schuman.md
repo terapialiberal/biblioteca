@@ -6,6 +6,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [ciencia, bio-resonancia, tierra, consciencia]
 publish: true
+sin_fuente: true
 ---
 
 # Resonancia Schuman (V.3)

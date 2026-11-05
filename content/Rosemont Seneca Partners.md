@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [china, influencias, matrix, rosemont]
 publish: true
+sin_fuente: true
 ---
 
 # Rosemont Seneca Partners: el Hub del Tráfico de Influencias de la Matrix

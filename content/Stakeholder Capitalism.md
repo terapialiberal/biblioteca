@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Capitalismo de Stakeholders", "Capitalismo de partes interesadas"]
 tags: [stakeholder-capitalism, wef, esg, corporaciones, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Stakeholder Capitalism

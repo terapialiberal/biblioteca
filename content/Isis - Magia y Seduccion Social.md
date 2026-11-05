@@ -7,6 +7,7 @@ tags: [isis, magia, seduccin, social]
 capa_tema: "a"
 nivel_evidencia: "alto"
 publish: true
+sin_fuente: true
 ---
 
 # Isis - Magia Y Seducción Social (El Velo Del Sistema)

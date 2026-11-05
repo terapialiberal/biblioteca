@@ -7,13 +7,14 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [encubrimiento, estonia, hundimiento, operaciones]
 publish: true
+sin_fuente: true
 ---
 
 # El Hundimiento Del Estonia
 
 ## Perfil TL (Resumen Ejecutivo)
 
-**¿Qué pasó?** El ferry de pasajeros **MS Estonia** se hundió en el Mar Báltico durante una tormenta, provocando la muerte de 852 personas. Es el naufragio más mortífero en aguas europeas en tiempos de paz.
+**¿Qué pasó?** El ferry de pasajeros **MÁS Estonia** se hundió en el Mar Báltico durante una tormenta, provocando la muerte de 852 personas. Es el naufragio más mortífero en aguas europeas en tiempos de paz.
 
 **¿Por qué importa?** El Estonia no es solo un accidente marítimo; es un **caso testigo de "Operaciones Negras" y encubrimiento estatal de nivel Tier A**. Investigaciones independientes y documentales recientes revelaron que el ferry se utilizaba regularmente como conducto para el contrabando de tecnología militar soviética robada (posiblemente componentes de defensa aérea o inteligencia electrónica) hacia Occidente, con el conocimiento de las agencias de inteligencia suecas y británicas (MI6). El descubrimiento de un agujero de 4 metros en el casco sugiere una explosión interna o una colisión con un submarino, contradiciendo la versión oficial de que solo falló la visera de proa. El hecho de que el gobierno sueco intentara cubrir el pecio con una losa de hormigón y prohibiera el buceo bajo pena de cárcel es la "firma" de un secreto de Estado que involucra la seguridad nacional del bloque OTAN.
 

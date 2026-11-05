@@ -8,6 +8,7 @@ moc_canonico: [[00_MOC - Finanzas y CBDC]]
 estado: activo
 fuentes_clave: []
 tags: [mark-carney, net-zero, banca-central, clima, tl-intel-v3]
+sin_fuente: true
 ---
 
 # [[Mark Carney]]

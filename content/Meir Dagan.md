@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [arquitecto, dagan, infinito, sabotaje]
 publish: true
+sin_fuente: true
 ---
 
 # Meir Dagan: El Arquitecto Del Sabotaje Infinito

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [biden, conflicto, gaza, muelle]
 publish: true
+sin_fuente: true
 ---
 
 # El Muelle De Gaza (Biden)

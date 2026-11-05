@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [tecnofeudalismo, plataformas, renta, silicon-valley, capitalismo, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Tecnofeudalismo

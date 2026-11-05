@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [badejo, crisis, doctrina, guerra]
 publish: true
+sin_fuente: true
 ---
 
 # El Badejo (Fatiga De Crisis)

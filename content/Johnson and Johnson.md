@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [johnson-and-johnson, pharma, salud, captura-regulatoria, big-pharma, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Johnson and Johnson

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [goat, programacin, simbologa]
 publish: true
+sin_fuente: true
 ---
 
 # I, Pet Goat II

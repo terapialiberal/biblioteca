@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Mossad (Israel)"]
 tags: [mossad, israel, inteligencia, operaciones, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Mossad

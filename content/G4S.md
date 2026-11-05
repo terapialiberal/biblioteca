@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [agenda, blackrock, group, securicor]
 publish: true
+sin_fuente: true
 ---
 
 # G4S (Group 4 Securicor)

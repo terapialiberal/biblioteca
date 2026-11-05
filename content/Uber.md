@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Uber (Plataforma)"]
 tags: [uber, plataforma, movilidad, gig-economy, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Uber

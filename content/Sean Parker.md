@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [algortmica, loops, mark, parker]
 publish: true
+sin_fuente: true
 ---
 
 # Sean Parker: el Confesor de la Adicción Algorítmica

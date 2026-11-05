@@ -7,6 +7,7 @@ tags: [fractalidad, geometra, smaragdina, tabula]
 capa_tema: "a"
 nivel_evidencia: "alto"
 publish: true
+sin_fuente: true
 ---
 
 # Tabula Smaragdina (La Tabla Esmeralda)

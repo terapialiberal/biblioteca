@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [controlada, digital, sistemas, universal]
 publish: true
+sin_fuente: true
 ---
 
 # ID Digital: La Identidad Universal Controlada

@@ -8,6 +8,7 @@ estado: activo
 aliases: ["BlackRock Aladdin", "BlackRock (Aladdin)"]
 tags: [aladdin, blackrock, riesgo, cartera, gobernanza-algoritmica, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Aladdin
@@ -44,7 +45,7 @@ En TL, Aladdin sirve para mostrar que la gobernanza algorítmica no vive solo en
 
 Su importancia crece cuando el riesgo deja de ser una métrica técnica interna y pasa a ordenar conducta institucional. Si una misma capa de modelización influye sobre bonos, liquidez, exposición o cobertura, termina afectando decisiones públicas y privadas sin pasar por deliberación democrática.
 
-### 5. Saturacion, volatilidad y dependencia de modelo
+### 5. Saturación, volatilidad y dependencia de modelo
 
 En contextos de stress, guerra, inflación o desorden de mercado, la dependencia de plataformas de riesgo se vuelve más fuerte. Ahí [[Aladdin]] importa como ejemplo de cómo la saturación acelera la delegación hacia sistemas opacos de lectura y priorización.
 

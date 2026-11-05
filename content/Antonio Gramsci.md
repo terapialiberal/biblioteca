@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [antonio, gramsci]
 publish: true
+sin_fuente: true
 ---
 
 # Antonio Gramsci

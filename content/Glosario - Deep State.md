@@ -7,6 +7,7 @@ nivel_evidencia: "alto"
 estado: activo
 tags: [estado-profundo, terminologia, tiers, control]
 publish: true
+sin_fuente: true
 ---
 
 # Glosario Maestro del Estado Profundo (TL-INTEL V.3)

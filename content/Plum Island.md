@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [erich, garrapata, laboratorio, plum]
 publish: true
+sin_fuente: true
 ---
 
 # Plum Island: El Laboratorio De La Garrapata Armadizada

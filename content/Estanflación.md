@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Estanflacion", "Estanflación (Fenómeno)"]
 tags: [estanflacion, inflacion, energia, crisis, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Estanflación

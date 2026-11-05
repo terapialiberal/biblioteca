@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [new-york-post, medios, tabloid, laptop, narrativa, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # The New York Post

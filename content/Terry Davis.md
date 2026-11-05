@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [temple-os, programacion, resistencia, salud-mental, cia]
 publish: true
+sin_fuente: true
 ---
 
 # Terry Davis: El Arquitecto del Templo Digital (V.3)

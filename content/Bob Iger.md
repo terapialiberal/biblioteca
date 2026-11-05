@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [disney, iger]
 publish: true
+sin_fuente: true
 ---
 
 # Bob Iger

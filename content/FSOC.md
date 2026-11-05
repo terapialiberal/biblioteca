@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Financial Stability Oversight Council"]
 tags: [fsoc, regulacion-financiera, eeuu, riesgo-sistemico, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # FSOC

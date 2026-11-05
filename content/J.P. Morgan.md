@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [abundancia, morgan, reserva, verdugo]
 publish: true
+sin_fuente: true
 ---
 
 # J.P. Morgan: El Verdugo De La Abundancia

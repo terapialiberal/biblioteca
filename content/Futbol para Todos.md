@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [ftbol, grupo, julio]
 publish: true
+sin_fuente: true
 ---
 
 # Fútbol Para Todos (FPT)

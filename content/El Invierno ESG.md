@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [blackrock, invierno, larry]
 publish: true
+sin_fuente: true
 ---
 
 # El Invierno ESG

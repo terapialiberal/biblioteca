@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [obsolescencia, repair, reparar, right]
 publish: true
+sin_fuente: true
 ---
 
 # Derecho a Reparar (Right to Repair)

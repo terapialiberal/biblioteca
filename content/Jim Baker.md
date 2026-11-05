@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [baker, comisario, puerta, twitter]
 publish: true
+sin_fuente: true
 ---
 
 # Jim Baker: El Comisario De La Puerta Giratoria

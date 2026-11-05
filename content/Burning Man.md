@@ -15,15 +15,15 @@ publish: true
 
 ## Resumen Ejecutivo
 
-**Qu es?** Festival annual de arte y "autoexpresin radical". Una ciudad temporal de 70,000 personas en el desierto que culmina con la quema de una efigie gigante (The Man).
+**Qué es?** Festival annual de arte y "autoexpresin radical". Una ciudad temporal de 70,000 personas en el desierto que culmina con la quema de una efigie gigante (The Man).
 
-**Por qu importa?** Dej de set un evento contracultural have mucho. Hoy es el **retiro de networking de la lite tecnolgica**. Google, Facebook, Amazon envan a sus ingenieros. Los billonarios (Mark Zuckerberg, Elon Musk, Ray Dalio) vuelan en jets privados a campamentos de lujo con aire acondicionado ("Turnkey Camps"). Es donde se disea la ideologa libertaria-tecnocrtica de Silicon Valley.
+**Por qué importa?** Dej de set un evento contracultural have mucho. Hoy es el **retiro de networking de la lite tecnológica**. Google, Facebook, Amazon envan a sus ingenieros. Los billonarios (Mark Zuckerberg, Elon Musk, Ray Dalio) vuelan en jets privados a campamentos de lujo con aire acondicionado ("Turnkey Camps"). Es donde se disea la ideología libertaria-tecnocrtica de Silicon Valley.
 
-## Anlisis (Tiers)
+## Análisis (Tiers)
 
 ### Tier A (El Culto Tech)
 
-- **Ritual Pagano:** La quema del hombre es simblicamente un ritual de sacrificio (Wicker Man). La lite tecnolgica, atea en pblico, practica neopaganismo en privado.
+- **Ritual Pagano:** La quema del hombre es simblicamente un ritual de sacrificio (Wicker Man). La lite tecnológica, atea en público, practica neopaganismo en privado.
 - **Google:** Larry Page y Sergey Brin usaron Burning Man para entrevistar a Eric Schmidt para CEO de Google. ("Pudiste sobrevivir al desierto? Contratado").
 
 ### Tier B (Operativa)

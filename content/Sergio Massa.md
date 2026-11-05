@@ -8,23 +8,24 @@ estado: activo
 aliases: ["Sergio Massa: el Prestidigitador de la Decadencia Argentina"]
 tags: [argentina, massa, peronismo, economia, operador, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Sergio Massa
 
 ## BLUF
 
-[[Sergio Massa]] importa en TL como operador de flexibilidad extrema dentro del sistema argentino: actua como puente entre peronismo, establishment empresario, aparatos estatales y negociacion internacional en contextos de crisis.
+[[Sergio Massa]] importa en TL como operador de flexibilidad extrema dentro del sistema argentino: actua como puente entre peronismo, establishment empresario, aparatos estatales y negociación internacional en contextos de crisis.
 
 ## Por que importa en TL
 
 - conecta caja estatal, acuerdos tacticos, FMI, medios y circulo rojo;
-- ayuda a leer cierta gobernabilidad argentina como administracion de la agonia y no como resolucion de fondo;
-- funciona como nodo de cruce entre [[Cristina Kirchner]], [[FMI]], [[Axel Kicillof]] y redes empresarias del sistema politico.
+- ayuda a leer cierta gobernabilidad argentina como administración de la agonia y no como resolución de fondo;
+- funciona como nodo de cruce entre [[Cristina Kirchner]], [[FMI]], [[Axel Kicillof]] y redes empresarias del sistema político.
 
 ## Que cambio
 
-La nota venia con exceso de manifiesto, encoding roto y una sola explicacion demasiado cerrada. Se recompila como perfil modular del corredor `argentina / operador / economia de crisis / peronismo adaptativo`.
+La nota venia con exceso de manifiesto, encoding roto y una sola explicación demasiado cerrada. Se recompila como perfil modular del corredor `argentina / operador / economía de crisis / peronismo adaptativo`.
 
 ## Lectura TL
 
@@ -34,15 +35,15 @@ En TL, Massa importa porque no se define por coherencia doctrinal sino por capac
 
 ### 2. Caja, parches y supervivencia
 
-Su valor analitico aumenta cuando se observa que muchas de sus intervenciones consisten en postergar colapsos mediante arbitrajes, tipos de cambio diferenciales, acuerdos transitorios y redistribucion discrecional de recursos.
+Su valor analitico aumenta cuando se observa que muchas de sus intervenciones consisten en postergar colapsos mediante arbitrajes, tipos de cambio diferenciales, acuerdos transitorios y redistribución discrecional de recursos.
 
-### 3. Interfaz entre politica y establishment
+### 3. Interfaz entre política y establishment
 
 Leido junto con [[FMI]], empresarios locales y medios, el nodo ayuda a ver como ciertos operadores se vuelven valiosos no por liderazgo popular sino por su capacidad para hablar varios lenguajes del poder al mismo tiempo.
 
-### 4. Figura de transicion permanente
+### 4. Figura de transición permanente
 
-Tambien importa porque encarna una forma de carrera politica argentina basada en nunca romper del todo con nadie y permanecer siempre util para el siguiente arreglo.
+También importa porque encarna una forma de carrera política argentina basada en nunca romper del todo con nadie y permanecer siempre util para el siguiente arreglo.
 
 ## Conexiones
 

@@ -15,16 +15,16 @@ publish: true
 
 ## Resumen Ejecutivo
 
-**Qu es?** El Instituto para las Obras de Religin. El banco privado del Papa.
+**Qué es?** El Instituto para las Obras de Religión. El banco privado del Papa.
 
-**Por qu importa?** Es el **paraso fiscal definitivo**. No hay auditoras externas, los fondos son soberanos y secretos. Ha sido histricamente la lavadora de dinero perfecta para:
+**Por qué importa?** Es el **paraso fiscal definitivo**. No hay auditoras externas, los fondos son soberanos y secretos. Ha sido histricamente la lavadora de dinero perfecta para:
 
 1. **La CIA:** Para financiar operaciones anticomunistas (Solidaridad en Polonia, Contras) sin rastro del Congreso.
 2. **La Mafia:** Para lavar ganancias de droga.
-3. **La P2:** Para corrupcin poltica italiana.
+3. **La P2:** Para corrupcin política italiana.
    El Arzobispo **Paul Marcinkus** ("El Gorila"), su director en los 70/80, dijo: "No se puede dirigir la Iglesia con Ave Maras".
 
-## Anlisis (Tiers)
+## Análisis (Tiers)
 
 ### Tier A (Soberana)
 

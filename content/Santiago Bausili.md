@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [banco, bausili, deuda, santiago]
 publish: true
+sin_fuente: true
 ---
 
 # Santiago Bausili: el Ejecutor de la Ingeniería de Deuda

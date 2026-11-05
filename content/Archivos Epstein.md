@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [archivos-epstein, 2024, liberacion-controlada, transparencia-coreografiada, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Archivos Epstein (2024)

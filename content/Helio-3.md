@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [fusin, futura, helio, minera]
 publish: true
+sin_fuente: true
 ---
 
 # Helio-3 (Minería Lunar futura)

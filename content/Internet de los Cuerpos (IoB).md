@@ -4,6 +4,7 @@ tipo: concepto
 titulo: Internet de los Cuerpos (IoB)
 estado: activo
 tags: [iob, biopolitica, wearables, salud-digital, tl-intel-v3]
+sin_fuente: true
 ---
 
 # Internet de los Cuerpos (IoB)

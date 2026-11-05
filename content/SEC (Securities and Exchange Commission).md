@@ -6,6 +6,7 @@ estado: activo
 aliases: ["SEC", "Securities and Exchange Commission"]
 tags: [sec, regulacion-financiera, captura-regulatoria, mercados, compliance, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # SEC (Securities and Exchange Commission)
@@ -26,7 +27,7 @@ La SEC es la agencia estadounidense encargada de supervisar mercados de valores,
 
 ## Lectura TL
 
-### 1. Supervisar tambien es diseñar mercado
+### 1. Supervisar también es diseñar mercado
 
 La SEC importa porque no solo castiga fraudes o vigila disclosure. También define qué prácticas resultan tolerables, qué costos de cumplimiento soporta el sistema y qué actores quedan mejor posicionados para operar dentro del marco regulatorio.
 

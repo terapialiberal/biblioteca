@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [pilgrims-society, atlantismo, angloamerica, elite, redes-discretas, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # The Pilgrims Society

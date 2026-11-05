@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [crimen, inocencia, operation, palantir]
 publish: true
+sin_fuente: true
 ---
 
 # Pre-Crimen: La Abolición De La Inocencia

@@ -5,6 +5,7 @@ aliases: ["Sudeste AsiÃ¡tico"]
 tags: [geografia, region]
 type: alias-note
 created: 2026-04-29
+sin_fuente: true
 ---
 
 # Sudeste AsiÃ¡tico

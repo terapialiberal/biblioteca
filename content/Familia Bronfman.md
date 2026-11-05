@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [bronfman, familia, nxivm, robert]
 publish: true
+sin_fuente: true
 ---
 
 # Familia Bronfman

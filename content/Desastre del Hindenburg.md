@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [hindenburg, tecnologia, sabotaje, standard-oil, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Desastre del Hindenburg

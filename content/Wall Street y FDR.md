@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [antony, corporativo, street, wall]
 publish: true
+sin_fuente: true
 ---
 
 # Wall Street Y FDR (Socialismo Corporativo)

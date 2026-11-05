@@ -8,37 +8,38 @@ estado: activo
 aliases: [Twitter, X (Twitter)]
 tags: [x, twitter, plataformas, moderacion, opinion-publica, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # X
 
 ## BLUF
 
-[[X]] importa en TL como plataforma donde se cruzan opinion publica, moderacion, guerra narrativa, periodismo en tiempo real y disputa por los limites de la libertad de expresion en entornos privados. Su valor no esta solo en el trafico o la marca, sino en funcionar como infraestructura de atencion con impacto politico desproporcionado.
+[[X]] importa en TL como plataforma donde se cruzan opinion publica, moderación, guerra narrativa, periodismo en tiempo real y disputa por los limites de la libertad de expresión en entornos privados. Su valor no esta solo en el trafico o la marca, sino en funcionar como infraestructura de atención con impacto político desproporcionado.
 
 ## Por que importa en TL
 
-- conecta plataformas, seguridad narrativa, reputacion y gestion de visibilidad;
+- conecta plataformas, seguridad narrativa, reputación y gestion de visibilidad;
 - ayuda a leer como una red supuestamente privada puede terminar operando con funciones cuasi-publicas de agenda y arbitraje;
 - funciona como nodo de acople entre [[Elon Musk]], [[Twitter Files]] y el corredor mas amplio de censura, plataformas y disidencia permitida.
 
 ## Que cambio
 
-No existia una nota canonica para `X` o `Twitter` pese a que la plataforma ya aparecia como pieza estructural en varios nodos del corredor. Se crea para absorber naming legacy y ordenar mejor el eje plataforma / moderacion / conflicto politico.
+No existia una nota canonica para `X` o `Twitter` pese a que la plataforma ya aparecia como pieza estructural en varios nodos del corredor. Se crea para absorber naming legacy y ordenar mejor el eje plataforma / moderación / conflicto político.
 
 ## Lectura TL
 
 ### 1. Plaza publica privatizada
 
-X importa porque actua como espacio de debate y distribucion informativa con efectos reales sobre politica, mercados, periodismo y reputacion, pero sin las obligaciones formales de una esfera publica institucional.
+X importa porque actua como espacio de debate y distribución informativa con efectos reales sobre política, mercados, periodismo y reputación, pero sin las obligaciones formales de una esfera publica institucional.
 
-### 2. Moderacion como poder
+### 2. Moderación como poder
 
-En TL, su valor crece cuando se observa que visibilidad, alcance, etiquetas y suspension pueden moldear el debate de forma mas eficaz que la censura clasica.
+En TL, su valor crece cuando se observa que visibilidad, alcance, etiquetas y suspensión pueden moldear el debate de forma mas eficaz que la censura clasica.
 
 ### 3. Plataforma como instrumento geopolitico
 
-Su relevancia aumenta porque actores estatales, periodistas, servicios, activistas y elites economicas usan el mismo entorno para instalar narrativas, filtrar informacion y probar correlaciones de fuerza.
+Su relevancia aumenta porque actores estatales, periodistas, servicios, activistas y elites economicas usan el mismo entorno para instalar narrativas, filtrar información y probar correlaciones de fuerza.
 
 ## Con que conecta
 

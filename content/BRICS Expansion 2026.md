@@ -1,5 +1,5 @@
 ---
-titulo: BRICS Expansion 2026
+titulo: BRICS Expansión 2026
 tipo: evento
 fecha: 2026-04-24
 capa_tema: b
@@ -8,9 +8,10 @@ estado: activo
 aliases: ["BRICS+ Expansion 2026"]
 tags: [brics, expansion, south-global, energia, desdolarizacion, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
-# BRICS Expansion 2026
+# BRICS Expansión 2026
 
 ## BLUF
 
@@ -24,7 +25,7 @@ publish: true
 
 ## Que cambio
 
-La nota venía como pieza legacy muy panfletaria, con enlaces viejos y afirmaciones demasiado cerradas. Se recompila como evento reusable del corredor `brics / energia / rails alternativos / reordenamiento monetario`.
+La nota venía como pieza legacy muy panfletaria, con enlaces viejos y afirmaciones demasiado cerradas. Se recompila como evento reusable del corredor `brics / energía / rails alternativos / reordenamiento monetario`.
 
 ## Lectura TL
 

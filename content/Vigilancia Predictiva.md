@@ -7,6 +7,7 @@ nivel_evidencia: alto
 estado: activo
 tags: [vigilancia-predictiva, pre-crimen, palantir, scoring, control, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Vigilancia Predictiva
@@ -49,7 +50,7 @@ En TL, el nodo se vuelve más legible cuando se conecta con plataformas concreta
 
 Este nodo importa más cuando el riesgo ya no se asocia solo a un sospechoso puntual, sino a sistemas enteros bajo stress: protestas, cuellos logísticos, fraude digital, conflicto, energía o desinformación. Ahí la vigilancia predictiva puede escalar desde seguridad a gobernanza general.
 
-### 6. Anticipacion como legitimacion del mando
+### 6. Anticipación como legitimación del mando
 
 La promesa no es simplemente saber más. Es actuar antes. En TL, esa lógica importa porque naturaliza intervención temprana, restricción preventiva y administración de perfiles aun sin infracción comprobada.
 

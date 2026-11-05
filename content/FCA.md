@@ -6,6 +6,7 @@ estado: activo
 aliases: ["FCA (Financial Conduct Authority)", "Financial Conduct Authority"]
 tags: [fca, regulacion, city-londres, mercados, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # FCA

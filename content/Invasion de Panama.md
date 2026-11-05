@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [canal, george, invasin, panam]
 publish: true
+sin_fuente: true
 ---
 
 # Invasión De Panamá (1989)

@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [maga, facciones, nueva-derecha, trump, thiel, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Facciones MAGA

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [edward, house, mandel, reserva]
 publish: true
+sin_fuente: true
 ---
 
 # Edward Mandel House

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [crisis, familia, filantropa, sackler]
 publish: true
+sin_fuente: true
 ---
 
 # Familia Sackler

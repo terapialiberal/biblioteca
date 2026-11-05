@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [gran, jeffrey, matrix, modelador]
 publish: true
+sin_fuente: true
 ---
 
 # Santa Fe Institute: el Modelador de los Sistemas Y el Caos de la Matrix

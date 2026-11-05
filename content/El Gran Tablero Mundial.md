@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [gran, mundial, otan, zbigniew]
 publish: true
+sin_fuente: true
 ---
 
 # El Gran Tablero Mundial

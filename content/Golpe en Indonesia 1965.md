@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: ["1965", conferencia, golpe, indonesia]
 publish: true
+sin_fuente: true
 ---
 
 # Golpe En Indonesia 1965

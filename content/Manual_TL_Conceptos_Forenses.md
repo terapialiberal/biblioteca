@@ -12,20 +12,21 @@ tags:
   - individualismo-metodologico
   - cui-bono
 publish: true
+sin_fuente: true
 ---
 
 # Manual de Conceptos Terapia Liberal
 
-## Gua De Inteligencia Forense Y Anlisis Geopoltico
+## Gua De Inteligencia Forense Y Análisis Geopoltico
 
 ## NDICE
 
 1. Fundamentos filosficos y metodolgicos
 2. Praxeologa forense
-3. Public Choice (Teora de la Eleccin Pblica)
+3. Public Choice (Teora de la Eleccin Pública)
 4. Teora de juegos aplicada
 5. Taxonoma de Tiers
-6. Anlisis de seales y narrativa
+6. Análisis de seales y narrativa
 7. Ejemplos reales y estudios de caso
 8. Glosario de trminos
 
@@ -33,8 +34,8 @@ publish: true
 
 ### 1.1. Individualismo Metodolgico
 
-**Definicin:**
-Es el enfoque que rechaza explicaciones en trminos de "fuerzas histricas", "sistemas" o "colectivos" abstractos. En su lugar, centra el anlisis en **individuos y entidades jurdicas concretas** que toman decisiones para maximizar sus intereses.
+**Definición:**
+Es el enfoque que rechaza explicaciones en trminos de "fuerzas histricas", "sistemas" o "colectivos" abstractos. En su lugar, centra el análisis en **individuos y entidades jurdicas concretas** que toman decisiones para maximizar sus intereses.
 
 **Lgica:**
 
@@ -43,58 +44,58 @@ Es el enfoque que rechaza explicaciones en trminos de "fuerzas histricas", "sist
 - "La sociedad" no existe: existen personas fsicas y jurdicas actuando bajo incentivos.
 
 **Implicacin prctica:**
-Cuando analices un evento geopoltico o econmico, la pregunta obligatoria es: **Quines son los individuos y entidades jurdicas que se benefician? Con qu incentivos concretos?**
+Cuando analices un evento geopoltico o económico, la pregunta obligatoria es: **Quines son los individuos y entidades jurdicas que se benefician? Con qué incentivos concretos?**
 
 **Ejemplo real:**
 En lugar de decir "la Fed subi tasas porque la economa lo requera", debes preguntarte:
 
-- Quin es el titular de la Fed en ese momento? (Jerome Powell, Janet Yellen, etc.)
-- Qu miembros del Board votaron a favor y en contra?
+- Quién es el titular de la Fed en ese momento? (Jerome Powell, Janet Yellen, etc.)
+- Qué miembros del Board votaron a favor y en contra?
 - Cules son sus historiales previos y sus conexiones financieras?
-- Qu bancos se benefician con tasas ms altas? (JP Morgan, Goldman Sachs, etc.)
-- Qu deuda en poder de estos bancos se revala?
+- Qué bancos se benefician con tasas más altas? (JP Morgan, Goldman Sachs, etc.)
+- Qué deuda en poder de estos bancos se revala?
 
-### 1.2. Cui Bono Real (Quin Se beneficia?)
+### 1.2. Cui Bono Real (Quién Se beneficia?)
 
-**Definicin:**
-Es el principio forense de siempre preguntarse quin captura el activo tangible al final de una cadena de eventos.
+**Definición:**
+Es el principio forense de siempre preguntarse quién captura el activo tangible al final de una cadena de eventos.
 
 **Activos tangibles clave:**
 
 - **Tierra y recursos naturales** (agua, petrleo, minerales raros).
-- **Deuda** (quin paga y quin cobra intereses).
+- **Deuda** (quién paga y quién cobra intereses).
 - **Infraestructura crtica** (puertos, ferrocarriles, energa, telecomunicaciones).
 - **Legislacin** (leyes que favorecen a ciertos sectores o empresas).
-- **Datos** (informacin de millones de personas).
+- **Datos** (información de millones de personas).
 - **Monopolios de plataforma** (control de redes, redes sociales, sistemas de pago).
 
 **Aplicacin:**
-No te dejes distraer por narrativas morales o ideolgicas. Pregunt siempre: **Qu activo tangible cambi de manos? Quin lo tiene ahora que no lo tena antes?**
+No te dejes distraer por narrativas morales o ideolgicas. Pregunt siempre: **Qué activo tangible cambi de manos? Quién lo tiene ahora que no lo tena antes?**
 
 **Ejemplo real:**
 Crisis financiera 2008:
 
 - Narrativa oficial: "Fue culpa de la incompetencia de los banqueros, ahora hay regulacin".
-- Anlisis Cui Bono:
+- Análisis Cui Bono:
   - **Activo transferido:** Viviendas (millones de personas perdieron casas).
-  - **Quin lo captur:** BlackRock, Vanguard, grandes fondos (compraron viviendas a precios deprimidos).
+  - **Quién lo captur:** BlackRock, Vanguard, grandes fondos (compraron viviendas a precios deprimidos).
   - **Legislacin:** Las regulaciones (Dodd-Frank) fueron escritas por los mismos bancos que causaron la crisis.
   - **Conclusin:** El activo se transfiri de clase media a lite financiera.
 
 ### 1.3. La Navaja Anti-Paranoica
 
-**Definicin:**
-Antes de asumir una conspiracin intencional, preguntate:
+**Definición:**
+Antes de asumir una conspiración intencional, preguntate:
 
 1. Puede ser incompetencia simple?
 2. Puede ser azar o circunstancia?
-3. Puede ser estupidez o falta de informacin?
+3. Puede ser estupidez o falta de información?
 
 **Propsito:**
-Evitar caer en paranoia y mantener el anlisis falsable. Si tu hiptesis es "todo es un complot", no hay forma de refutarla.
+Evitar caer en paranoia y mantener el análisis falsable. Si tu hiptesis es "todo es un complot", no hay forma de refutarla.
 
 **Aplicacin metodolgica:**
-En cada anlisis, inclu una seccin "Devil's Advocate" que explore la explicacin ms mundana y aburrida del evento, y luego marc qu dato discriminara entre la explicacin mundana y la conspirativa.
+En cada análisis, inclu una seccin "Devil's Advocate" que explore la explicacin más mundana y aburrida del evento, y luego marc qué dato discriminara entre la explicacin mundana y la conspirativa.
 
 **Ejemplo real:**
 Evento: La Fed sube tasas justo cuando el mercado de vivienda comienza a enfriarse.
@@ -112,7 +113,7 @@ Discriminador: Si la Fed realmente quisiera destruir el mercado, habra:
 
 ## 2. PRAXEOLOGA FORENSE
 
-### 2.1. Definicin Y Principios
+### 2.1. Definición Y Principios
 
 **Praxeologa:**
 Es la ciencia que estudia la accin humana. La palabra viene del griego "praxis" (accin) + "logos" (razn).
@@ -121,21 +122,21 @@ Es la ciencia que estudia la accin humana. La palabra viene del griego "praxis" 
 Los individuos actan para lograr fines usando medios escasos. Cada accin implica:
 
 1. Un **fin deseado**.
-2. **Medios disponibles** (dinero, tiempo, informacin, influencia).
+2. **Medios disponibles** (dinero, tiempo, información, influencia).
 3. Una **evaluacin de costo-beneficio**.
 
 **En contexto forense:**
-No necesitas entender por qu alguien "siente" o "cree" algo. Lo nico que necesitas es:
+No necesitas entender por qué alguien "siente" o "cree" algo. Lo nico que necesitas es:
 
-- **Qu medio escaso est moviendo?** (dinero, poder, informacin, reputacin).
-- **Hacia dnde lo mueve?** (quin se lo queda?).
+- **Qué medio escaso est moviendo?** (dinero, poder, información, reputacin).
+- **Hacia dnde lo mueve?** (quién se lo queda?).
 - **Cul es el patrn?** (se repite? hay consistencia?).
 
-### 2.2. Los Medios Escasos En poltica Y Finanzas
+### 2.2. Los Medios Escasos En política Y Finanzas
 
 #### Capital Financiero
 
-El dinero es el medio escaso ms obvio. Seguir flujos de capital es seguir poder.
+El dinero es el medio escaso más obvio. Seguir flujos de capital es seguir poder.
 
 **Ejemplo:**
 BlackRock controla ~\11 billones en activos. Cada decisin de inversin que toma (dnde invierte, dnde retira capital) revala empresas y gobiernos.
@@ -143,17 +144,17 @@ BlackRock controla ~\11 billones en activos. Cada decisin de inversin que toma (
 - Si BlackRock vende bonos argentinos, cae el precio y sube la tasa de inters que Argentina debe pagar.
 - BlackRock "vote" con su capital. Ese es su medio escaso.
 
-#### Informacin
+#### Información
 
-En la era digital, controlar informacin es poder.
+En la era digital, controlar información es poder.
 
 **Ejemplo:**
-Edward Snowden revel que la NSA estaba espiando a ciudadanos estadounidenses. Pero el anlisis praxeolgico pregunta:
+Edward Snowden revel que la NSA estaba espiando a ciudadanos estadounidenses. Pero el análisis praxeolgico pregunta:
 
-- Por qu la NSA gasta billones en espionaje?
-- Qu fin persigue? (control, inteligencia, extorsin, prediccin).
-- Quin se beneficia? (agencias de inteligencia que expanden presupuestos y poder).
-- Quin pierde? (ciudadanos: privacidad, libertad).
+- Por qué la NSA gasta billones en espionaje?
+- Qué fin persigue? (control, inteligencia, extorsin, prediccin).
+- Quién se beneficia? (agencias de inteligencia que expanden presupuestos y poder).
+- Quién pierde? (ciudadanos: privacidad, libertad).
 
 #### Coercin
 
@@ -163,19 +164,19 @@ La capacidad de usar fuerza (militar, policial, judicial) es un medio escaso con
 Intervenciones militares estadounidenses en Oriente Medio.
 
 - Fin declarado: "llevar democracia", "luchar contra el terrorismo".
-- Fin praxeolgico: controlar reservas de petrleo, ubicacin geogrfica estratgica, infraestructura.
+- Fin praxeolgico: controlar reservas de petrleo, ubicacin geogrfica estratégica, infraestructura.
 - Activo capturado: acceso a recursos y geopoltica.
 
 #### Reputacin Y Legitimidad
 
-En democracias, la reputacin es un medio escaso que permite obtener poder poltico y econmico.
+En democracias, la reputacin es un medio escaso que permite obtener poder político y económico.
 
 **Ejemplo:**
 Larry Fink (CEO de BlackRock) gasta enormes recursos en "narrativa ESG" (Environmental, Social, Governance).
 
 - Fin declarado: "salvar el planeta", "mejorar la sociedad".
-- Fin praxeolgico: convertirse en rbitro de qu empresas son "ticas", expandir poder de BlackRock sobre gobiernos y reguladores.
-- Resultado: gobiernos escuchan a BlackRock sobre poltica climtica. Eso es poder.
+- Fin praxeolgico: convertirse en rbitro de qué empresas son "ticas", expandir poder de BlackRock sobre gobiernos y reguladores.
+- Resultado: gobiernos escuchan a BlackRock sobre política climtica. Eso es poder.
 
 ### 2.3. Seales Vs Ruido: Costly Signals
 
@@ -184,7 +185,7 @@ En economa, hay dos tipos de comunicacin:
 
 **Cheap Talk (Palabras = Costo Cero):**
 
-- Declaraciones pblicas, promesas, narrativas.
+- Declaraciones públicas, promesas, narrativas.
 - Costo de decirlas es cercano a cero.
 - No revelan intencin real.
 
@@ -212,7 +213,7 @@ Cuando analices un evento:
 1. Separ **cheap talk** (narrativas mediticas, declaraciones de polticos) de **costly signals** (dinero invertido, cambios de posicin, acciones irreversibles).
 2. Las costly signals te dicen dnde est realmente el poder y la intencin.
 
-**Ejemplo real: Fed y poltica monetaria**
+**Ejemplo real: Fed y política monetaria**
 
 Cheap talk: "La Fed est comprometida con la estabilidad financiera".
 
@@ -222,15 +223,15 @@ Costly signals:
 - Baj tasas a cero (costo: pierde ingresos por intereses).
 - Esas acciones beneficiaron a grandes bancos (que pueden acceder a crdito barato) versus ciudadanos normales (que pierden poder adquisitivo por inflacin).
 
-**Anlisis correcto:**
+**Análisis correcto:**
 El cheap talk dice "estabilidad". Las costly signals dicen: "transferimos poder de ahorro a deuda corporativa".
 
-## 3. PUBLIC CHOICE (TEORA DE LA ELECCIN PBLICA)
+## 3. PUBLIC CHOICE (TEORA DE LA ELECCIN PÚBLICA)
 
-### 3.1. Definicin Y Axioma Central
+### 3.1. Definición Y Axioma Central
 
 **Public Choice:**
-Es la aplicacin de herramientas econmicas al anlisis del comportamiento de funcionarios pblicos, polticos y burcratas. Su axioma: **los polticos y burcratas actan para maximizar su propio inters, no el "inters pblico".**
+Es la aplicacin de herramientas econmicas al análisis del comportamiento de funcionarios públicos, polticos y burcratas. Su axioma: **los polticos y burcratas actan para maximizar su propio inters, no el "inters público".**
 
 **Implicacin provocadora:**
 Las decisiones de gobierno no se explican por "lo mejor para la sociedad", sino por:
@@ -247,16 +248,16 @@ Las decisiones de gobierno no se explican por "lo mejor para la sociedad", sino 
 
 **Incentivos:**
 
-- Expandir el balance sheet del banco central (ms activos = ms poder).
+- Expandir el balance sheet del banco central (más activos = más poder).
 - Mantener estabilidad financiera (si quiebra, cae el sistema y su prestigio).
-- Acceso a poder poltico.
+- Acceso a poder político.
 - Carrera post-retiro (puerta giratoria: banco central ? banca privada ? consultoras).
 
 **Ejemplo:**
 Jerome Powell (Fed):
 
-- Su poltica de tasas bajas benefici a grandes bancos.
-- Por qu? No es incompetencia; es incentivo: si sube tasas demasiado, quiebran fondos de pensin y bancos regionales (problema poltico).
+- Su política de tasas bajas benefici a grandes bancos.
+- Por qué? No es incompetencia; es incentivo: si sube tasas demasiado, quiebran fondos de pensin y bancos regionales (problema político).
 - Su carrera anterior: partner en Delphi Management (firma de inversin).
 - Su carrera post-Fed: potencialmente lucrativos contratos de consultora (esperar a que termine su mandato).
 
@@ -264,7 +265,7 @@ Jerome Powell (Fed):
 
 **Incentivos:**
 
-- Expander la agencia (ms poder, ms presupuesto).
+- Expander la agencia (más poder, más presupuesto).
 - Evitar "escndalos" que expongan fallas de la agencia.
 - Captura regulatoria (influencia de las industrias que regulan).
 
@@ -283,13 +284,13 @@ La SEC (Comisin de Valores de EE.UU.):
 - Reeleccin (votos).
 - Financiamiento de campaas (dinero, de corporaciones).
 - Poder y status.
-- Carrera post-poltica (lobbying, consejos de empresas, medios).
+- Carrera post-política (lobbying, consejos de empresas, medios).
 
 **Ejemplo:**
 Hillary Clinton:
 
-- Como secretaria de Estado, promovi polticas que beneficiaron a donantes de la Fundacin Clinton.
-- Su carrera post-poltica: speaking fees de \200k-\500k por discurso para Wall Street.
+- Como secretaria de Estado, promovi políticas que beneficiaron a donantes de la Fundacin Clinton.
+- Su carrera post-política: speaking fees de \200k-\500k por discurso para Wall Street.
 - Incentivo: construir relaciones con grandes corporaciones para monetizarlas despus de dejar cargo.
 
 ### 3.3. La "Burocracia Que Se Expande"
@@ -297,22 +298,22 @@ Hillary Clinton:
 **Dinmica:**
 Una agencia gubernamental siempre trata de expandir su presupuesto y jurisdiccin, independientemente de si es eficiente.
 
-**Ejemplo histrico:**
+**Ejemplo histórico:**
 La Guerra contra el Terrorismo (post-2001):
 
 - Presupuesto de defensa de EE.UU.: ~\300 mil millones anuales.
-- Nuevas agencias creadas: DHS, NSA expansion, FBI, CIA.
+- Nuevas agencias creadas: DHS, NSA expansión, FBI, CIA.
 - Resultado? Nunca disminuye el "terrorismo" (porque si lo hace, la agencia pierde justificacin).
 - Incentivo de las agencias: mantener la amenaza de terrorismo al nivel justo para justificar presupuestos.
 
-**Anlisis praxeolgico:**
+**Análisis praxeolgico:**
 Es incompetencia que no "ganen" la guerra? No. Es que la guerra es el **medio** para justificar la agencia, no el **fin**.
 
 ## 4. TEORA DE JUEGOS APLICADA
 
 ### 4.1. Concepto De Equilibrio De Nash
 
-**Definicin:**
+**Definición:**
 Un "Equilibrio de Nash" es una situacin donde ningn jugador puede mejorar su posicin cambiando su estrategia unilateralmente (solo, sin que otros cambien).
 
 **Propiedad crtica:**
@@ -349,20 +350,20 @@ Dos criminales son capturados. La polica los interroga por separado. Las opcione
 | A confesa | Ambos 5 aos | A libre, B 10 aos |
 | A no confesa | A 10 aos, B libre | Ambos 1 ao |
 
-**Anlisis:**
+**Análisis:**
 
 - ptimo conjunto: ambos guardan silencio (1 ao cada uno).
 - Pero si A guarda silencio, B tiene incentivo a confesar (A va 10 aos, B libre).
 - Resultado: ambos confiesan. Ambos reciben 5 aos (peor que guardar silencio).
 
-**Por qu es un "dilema":**
-No es por falta de informacin; es por falta de confianza. Ambos saben que el otro podra traicionarlos.
+**Por qué es un "dilema":**
+No es por falta de información; es por falta de confianza. Ambos saben que el otro podra traicionarlos.
 
 **Aplicacin en geopoltica:**
 
 Acuerdos nucleares:
 
-- ptimo conjunto: ambas potencias desarman (menos armas nucleares, mundo ms seguro).
+- ptimo conjunto: ambas potencias desarman (menos armas nucleares, mundo más seguro).
 - Pero cada uno teme que el otro esconda armas.
 - Resultado: ambos acumulan armas nucleares (Carrera Armamentstica).
 - Solucin parcial: tratados con inspecciones y verificacin mutua (crear confianza).
@@ -371,7 +372,7 @@ Acuerdos nucleares:
 
 Pnico financiero / "Bank Runs":
 
-- Un banco es solvente (tiene activos que valen ms que sus deudas).
+- Un banco es solvente (tiene activos que valen más que sus deudas).
 - Pero si todos los depositantes retiran dinero al mismo tiempo, el banco quiebra (porque dinero est invertido, no en efectivo).
 - ptimo individual: ser el primero en retirar tu dinero (antes de que se acabe).
 - Resultado: todos retiran ? el banco quiebra innecesariamente.
@@ -398,7 +399,7 @@ Crisis de Misiles de Cuba (1962):
 - URSS amenazaba guerra nuclear si bombardeaban.
 - Ambos avanzaban sin girar el volante.
 - **Solucin:** comunicaciones secretas entre Kennedy y Jruschov. URSS retira misiles (gira el volante) a cambio de que EE.UU. promete no invadir Cuba y retira misiles de Turqua.
-- Ambos "ganan" (evitan catstrofe) aunque nadie "gana" en el sentido de honor.
+- Ambos "ganan" (evitan catástrofe) aunque nadie "gana" en el sentido de honor.
 
 ### 4.4. El Juego Del Sacrificio Costoso (Stag Hunt)
 
@@ -411,7 +412,7 @@ Cazadores deben decidir si cazar un ciervo (presa grande, requiere coordinacin) 
 | Yo cazo conejo | Yo gano poco (mi conejo), otro pierde (el ciervo se escapa) | Ambos ganamos poco |
 
 **Caracterstica:**
-El equilibrio que prevalece depende de **confianza mutua**. Si crees que el otro va a cazar ciervo, vos tambin cazs ciervo (ganan juntos). Si desconfas, cazs conejo (resultado pobre pero seguro).
+El equilibrio que prevalece depende de **confianza mutua**. Si crees que el otro va a cazar ciervo, vos también cazs ciervo (ganan juntos). Si desconfas, cazs conejo (resultado pobre pero seguro).
 
 **Aplicacin:**
 
@@ -425,8 +426,8 @@ Construccin de consensos internacionales:
 
 ### 5.1. Tier A: Dueos Y Vehculos De Control
 
-**Definicin:**
-Personas fsicas y jurdicas que controlan activos estructurales del sistema financiero y poltico global.
+**Definición:**
+Personas fsicas y jurdicas que controlan activos estructurales del sistema financiero y político global.
 
 **Caractersticas:**
 
@@ -440,7 +441,7 @@ Personas fsicas y jurdicas que controlan activos estructurales del sistema finan
 **Grandes gestoras de activos:**
 
 - BlackRock: ~\11 billones bajo gestin. Vota en juntas directivas de miles de empresas. Influye sobre gobiernos (Larry Fink, CEO, tiene acceso directo a mandatarios).
-- Vanguard: ~\8 billones. Similar a BlackRock pero ms discreto.
+- Vanguard: ~\8 billones. Similar a BlackRock pero más discreto.
 - State Street: ~\4 billones.
 
 **Bancos centrales:**
@@ -453,34 +454,34 @@ Personas fsicas y jurdicas que controlan activos estructurales del sistema finan
 
 - Rothschild family: histricamente controla banca europea.
 - Walton family: Walmart.
-- Mars family: Mars, Inc. (chocolate, M\&Ms).
+- Mars family: Mars, Inc. (chocolate, M\&Más).
 - Saudi PIF (Public Investment Fund): fondo soberano de Arabia Saudita, ~\925 billones.
 
 **Vehculos jurdicos opacos:**
 
-- Trusts familiares (no aparecen en registros pblicos).
+- Trusts familiares (no aparecen en registros públicos).
 - Fundaciones (Land Foundation, Ford Foundation, etc.): acumulan riqueza y no pagan impuestos.
 - Sociedades annimas opacas (hold-ups en parasos fiscales).
 
 **Organizaciones de coordinacin:**
 
 - Bilderberg Group: conferencia anual privada de ~130 lites (polticos, ejecutivos, militares, medios).
-- Trilateral Commission: fundada por David Rockefeller en 1973, rene lites de EE.UU., Europa y Asia.
+- Trilateral Commissión: fundada por David Rockefeller en 1973, rene lites de EE.UU., Europa y Asia.
 - World Economic Forum (WEF): "Davos", reunin anual de lites globales.
-- Council on Foreign Relations (CFR): think tank de poltica exterior estadounidense.
+- Council on Foreign Relations (CFR): think tank de política exterior estadounidense.
 
 **Lgica de Tier A:**
 Su poder no proviene de elecciones (son annimos) sino de:
 
 - Control de capital (dinero).
-- Control de informacin (medios de comunicacin, datos).
+- Control de información (medios de comunicacin, datos).
 - Control de legislacin (lobbying).
 - Control de Tier B (puertas giratorias, financiamiento de carreras).
 
 ### 5.2. Tier B: Ejecutores Y Conectores
 
-**Definicin:**
-Individuos y pequeos grupos que operan las decisiones de Tier A. Pueden ser visibles (necesitan reputacin pblica) o discretos (operan en la sombra).
+**Definición:**
+Individuos y pequeos grupos que operan las decisiones de Tier A. Pueden ser visibles (necesitan reputacin pública) o discretos (operan en la sombra).
 
 **Caractersticas:**
 
@@ -489,35 +490,35 @@ Individuos y pequeos grupos que operan las decisiones de Tier A. Pueden ser visi
 - Incentivos: dinero, poder de agenda, carrera, acceso.
 - Relacin con Tier A: dependencia (si Tier A retira apoyo, pierden poder).
 
-**Conectores visibles (necesitan reputacin pblica):**
+**Conectores visibles (necesitan reputacin pública):**
 
 **Ejemplo: Jared Kushner**
 
 - Rol declarado: "asesor senior" de Trump.
 - Rol real: conector de fondos saudes (Saudi PIF), redes Chabad, financistas como Sheldon Adelson, Mega Group.
-- Incentivo: carrera poltica y financiera. Despus de Trump, levant \2 billones para Affinity Partners (fondo de inversin).
-- Visibilidad: **necesita reputacin pblica** porque su valor es ser "el que tiene acceso a Trump" (reputacin de poder).
+- Incentivo: carrera política y financiera. Despus de Trump, levant \2 billones para Affinity Partners (fondo de inversin).
+- Visibilidad: **necesita reputacin pública** porque su valor es ser "el que tiene acceso a Trump" (reputacin de poder).
 
 **Ejemplo: Klaus Schwab (WEF)**
 
 - Rol: fundador y director ejecutivo del World Economic Forum.
 - Rol real: conector de lites globales. Su valor es armar las mesas donde Tier A se rene.
-- Incentivo: poder de agenda (qu se discute en Davos) y acceso.
-- Visibilidad: muy pblica (necesita que el mundo sepa que es l quien convoca a lites).
+- Incentivo: poder de agenda (qué se discute en Davos) y acceso.
+- Visibilidad: muy pública (necesita que el mundo sepa que es l quien convoca a lites).
 
 **Conectores discretos (operan en la sombra):**
 
-**Ejemplo histrico: Jeffrey Epstein**
+**Ejemplo histórico: Jeffrey Epstein**
 
 - Rol aparente: financista, philanthropista.
 - Rol real: conector entre Leslie Wexner (magnate textil Tier A) y otros oligarcas.
 - Incentivo: dinero, acceso a poder.
-- Visibilidad: **maximalmente discreta**. Su valor era que nadie saba realmente quin era ni cmo operaba.
+- Visibilidad: **maximalmente discreta**. Su valor era que nadie saba realmente quién era ni cómo operaba.
 
 **Ejemplo actual: Mauricio Claver-Carone**
 
 - Rol: presidente del Banco Interamericano de Desarrollo (BID).
-- Rol real: ejecutor de poltica de Tier A hacia Amrica Latina (bloqueos, alineamiento geopoltico).
+- Rol real: ejecutor de política de Tier A hacia Amrica Latina (bloqueos, alineamiento geopoltico).
 - Incentivo: poder de agenda sobre prstamos del BID, carrera institucional.
 - Visibilidad: moderada (funcional: necesita credibilidad como "presidente del BID", pero no celebridad).
 
@@ -539,11 +540,11 @@ Individuos y pequeos grupos que operan las decisiones de Tier A. Pueden ser visi
 
 - Directores de CIA, NSA, generales.
 - Incentivo: presupuesto, poder, carrera.
-- Visibilidad: variable (algunos pblicos, otros discretos).
+- Visibilidad: variable (algunos públicos, otros discretos).
 
 ### 5.3. Tier C: El Teatro
 
-**Definicin:**
+**Definición:**
 Actores visibles cuyo rol es justificar, legitimar o distraer de las decisiones que toma Tier A/B.
 
 **Caractersticas:**
@@ -565,7 +566,7 @@ Actores visibles cuyo rol es justificar, legitimar o distraer de las decisiones 
 **Medios de comunicacin:**
 
 - Periodistas, propietarios de medios.
-- Rol: seleccionar qu historias importan (narrativa).
+- Rol: seleccionar qué historias importan (narrativa).
 - Incentivo: audiencia, publicidad, financiamiento (que viene de Tier A/B).
 
 **Activistas y ONG:**
@@ -580,12 +581,12 @@ Actores visibles cuyo rol es justificar, legitimar o distraer de las decisiones 
 - Rol: proporcionar legitimidad terica a decisiones de Tier A/B.
 - Ejemplo: "economistas dicen que la inflacin requiere subir tasas" (es verdad, pero economistas fueron contratados por bancos centrales que quieren subir tasas).
 
-## 6. ANLISIS DE SEALES Y NARRATIVA
+## 6. ANÁLISIS DE SEALES Y NARRATIVA
 
 ### 6.1. Frame Y Ventana De Overton
 
 **Frame (Marco):**
-Es el contexto interpretativo que determina cmo entends un evento.
+Es el contexto interpretativo que determina cómo entends un evento.
 
 **Ejemplo:**
 
@@ -595,28 +596,28 @@ Frame 1 (oficial): "El BCE combate la inflacin para proteger el poder de compra 
 
 Frame 2 (crtico): "El BCE transfiere riqueza de deudores (clase media) a acreedores (bancos)".
 
-- Narrativa: decisin poltica que favorece a lite financiera.
+- Narrativa: decisin política que favorece a lite financiera.
 
 **Mismo evento, dos frames completamente diferentes. El frame que elijes determina tu interpretacin.**
 
 **Ventana de Overton:**
-Es el rango de opiniones que son "aceptables" en el debate pblico en un momento dado.
+Es el rango de opiniones que son "aceptables" en el debate público en un momento dado.
 
-**Ejemplo histrico:**
+**Ejemplo histórico:**
 
 - 1980: Hablar de "matrimonio del mismo sexo" estaba **fuera** de la ventana de Overton (era impensable).
 - 2010: Estaba **dentro** de la ventana en algunos pases, fuera en otros.
 - 2024: Est dentro de la ventana en Occidente, fuera en otros lugares.
 
-**Cmo se mueve la ventana:**
+**Cómo se mueve la ventana:**
 No por argumentos racionales. Por:
 
 1. **Repeticin meditica** (los medios hablan de un tema, la gente lo normaliza).
-2. **Influencia de celebridades** (si figuras pblicas apoyan una idea, se normaliza).
+2. **Influencia de celebridades** (si figuras públicas apoyan una idea, se normaliza).
 3. **Cambio generacional** (nuevas cohortes con valores diferentes).
 
 **Aplicacin forense:**
-Quin est moviendo la ventana de Overton? En qu direccin?
+Quién est moviendo la ventana de Overton? En qué direccin?
 
 - Si de repente todos los medios mainstream hablan de "dinero digital" como bueno ? alguien est moviendo la ventana hacia aceptacin de CBDC (monedas digitales de bancos centrales).
 
@@ -634,7 +635,7 @@ Narrativa dominante: "Bonos hipotecarios de baja calidad engaaron a los inversor
 
 Omisiones clave:
 
-- BlackRock y Vanguard compraron millones de viviendas a precio deprimido despus de 2008 (que no se hable de quin gan con el caos).
+- BlackRock y Vanguard compraron millones de viviendas a precio deprimido despus de 2008 (que no se hable de quién gan con el caos).
 - Los mismos banqueros que causaron la crisis no fueron procesados (que no se hable de impunidad).
 - Las reglas de Dodd-Frank fueron escritas por los mismos bancos que violaron las reglas previas (que no se hable de captura regulatoria).
 - BlackRock ahora es un "landlord" que cobra renta a millones de personas (que no se hable de transferencia de riqueza).
@@ -643,7 +644,7 @@ Omisiones clave:
 
 ### 6.3. Emocin Activada
 
-**Emociones polticas clave:**
+**Emociones políticas clave:**
 
 - **Miedo:** "Hay una amenaza, necesitas al gobierno para protegerte". Activa sumisin.
 - **Culpa:** "Es tu culpa (eres racista/sexista/malo), necesitas castigarse". Activa auto-censura.
@@ -653,12 +654,12 @@ Omisiones clave:
 **Tcnica:** siempre hay una emocin dominante en una narrativa. Preguntate:
 
 - Cul es la emocin que esta historia activa?
-- A quin beneficia que la gente sienta esa emocin?
+- A quién beneficia que la gente sienta esa emocin?
 
 **Ejemplo: "Salvemos el planeta"**
 
 - Emocin: culpa + esperanza (t eres culpable de cambio climtico, pero si actas, puedes salvarlo).
-- Beneficiado: BlackRock, que controla cmo se define "salvar el planeta" (ESG criteria) y obtiene poder sobre gobiernos.
+- Beneficiado: BlackRock, que controla cómo se define "salvar el planeta" (ESG criteria) y obtiene poder sobre gobiernos.
 
 ## 7. ESTUDIOS DE CASO REALES
 
@@ -670,22 +671,22 @@ Despus de Pars 2015 (Acuerdo de Cambio Climtico), gobiernos comenzaron a legisla
 **Clave: Larry Fink's Letter (2020)**
 Larry Fink (CEO de BlackRock) escribi una carta diciendo que BlackRock iba a desinvertir de combustibles fsiles e invertir en "clima".
 
-**Anlisis praxeolgico:**
+**Análisis praxeolgico:**
 
 Fue por bondad ambiental? No. Seales:
 
 1. BlackRock **sigue siendo accionista mayoritario** de empresas petroleras (no desinvirti, es propaganda).
-2. BlackRock **defini "inversin climtica"** como empresas que usan **sus productos de data/anlisis** (Aladdin).
-3. Gobiernos **escucharon a BlackRock** sobre cmo escribir legislacin climtica.
+2. BlackRock **defini "inversin climtica"** como empresas que usan **sus productos de data/análisis** (Aladdin).
+3. Gobiernos **escucharon a BlackRock** sobre cómo escribir legislacin climtica.
 4. Reguladores **basaron estndares ESG** en criterios de BlackRock.
-5. Resultado: BlackRock obtiene **poder sobre qu empresas pueden captar dinero**, convirtiendo ESG en un **monopolio de poder**.
+5. Resultado: BlackRock obtiene **poder sobre qué empresas pueden captar dinero**, convirtiendo ESG en un **monopolio de poder**.
 
 **Qui Bono Real:**
 
-- Larry Fink: poder poltico sin ser elegido.
+- Larry Fink: poder político sin ser elegido.
 - BlackRock: control de flujos de capital.
 - Gobiernos: pueden decir "estamos actuando en clima" (cheap talk) sin tocar intereses poderosos.
-- Ciudadanos: pagan ms caro la energa, creen que "el mercado" est resolviendo el clima (no es verdad).
+- Ciudadanos: pagan más caro la energa, creen que "el mercado" est resolviendo el clima (no es verdad).
 
 ### Caso 2: La Fed Y La Transferencia De Riqueza 2020-2024
 
@@ -693,20 +694,20 @@ Fue por bondad ambiental? No. Seales:
 
 **Marzo 2020:** Pandemia. Fed baja tasas a cero, comienza a comprar bonos.
 
-**Cheap talk (narrativa oficial):** "Salvamos la economa de una catstrofe".
+**Cheap talk (narrativa oficial):** "Salvamos la economa de una catástrofe".
 
-**Costly signals (qu pas realmente):**
+**Costly signals (qué pas realmente):**
 
 - Fed compr \120 billones en bonos, expandiendo su balance sheet un 115%.
 - Tasa de inters cerca de cero ? dinero prcticamente gratis para bancos.
 - Bancos grandes obtienen crdito barato, invierten en activos (viviendas, bitcoin, acciones).
 - Precios de activos suben 50-80% (2020-2022).
 
-**Quin gan:**
+**Quién gan:**
 
 - Dueos de activos (Tier A/B con dinero = bancos grandes, fondos, millonarios).
 
-**Quin perdi:**
+**Quién perdi:**
 
 - Ahorristas (reciben 0% en savings account, pierden poder adquisitivo a inflacin 7%+).
 - Clase media (quiere comprar casa, pero precios se duplicaron; renta suben).
@@ -721,18 +722,18 @@ Transfer de riqueza de clase media a lite financiera. **Funcin del sistema opera
 
 **Narrativa oficial:** "Luchar contra el comunismo".
 
-**Anlisis praxeolgico:**
+**Análisis praxeolgico:**
 
-Qu era realmente?
+Qué era realmente?
 
 - Argentina, Chile, Brasil, Uruguay, Paraguay eran "comunistas"? No.
-- Qu tenan en comn?: gobiernos que queran **nacionalizar recursos** (cobre, petrleo) o regular bancos extranjeros.
+- Qué tenan en comn?: gobiernos que queran **nacionalizar recursos** (cobre, petrleo) o regular bancos extranjeros.
 
-**Quin organiz Condor?:**
+**Quién organiz Condor?:**
 
 - CIA, NSA (agencias de inteligencia, Tier B ejecutores).
-- Para quin?: multinacionales estadounidenses (Tier A).
-- Qu pas?: >30.000 desapariciones, torturas, golpes de Estado.
+- Para quién?: multinacionales estadounidenses (Tier A).
+- Qué pas?: >30.000 desapariciones, torturas, golpes de Estado.
 
 **Resultado:**
 
@@ -748,7 +749,7 @@ Multinacionales estadounidenses lograron acceso a recursos. Agencias de intelige
 ### A
 
 **Activo Tangible:**
-Bien material o deuda que tiene valor econmico (tierra, dinero, infraestructura, recursos naturales).
+Bien material o deuda que tiene valor económico (tierra, dinero, infraestructura, recursos naturales).
 
 **Apalancamiento (Leverage):**
 Usar dinero prestado para multiplicar ganancias (o prdidas). Si inviertes \100 de tu dinero y pides \900 prestado, "apalancas" 10:1.
@@ -759,7 +760,7 @@ Comprar un activo en un mercado barato y venderlo en uno caro, capturando la dif
 ### B
 
 **Balance Sheet:**
-Documento que muestra qu tiene una empresa (activos) y qu debe (pasivos).
+Documento que muestra qué tiene una empresa (activos) y qué debe (pasivos).
 
 **Base Rate Fallacy:**
 Error de lgica: ignorar la probabilidad base de un evento. Ej.: Si alguien tiene un test positivo para enfermedad rara, es probable que NO tenga la enfermedad (porque es rara, aunque el test sea acertado).
@@ -768,12 +769,12 @@ Error de lgica: ignorar la probabilidad base de un evento. Ej.: Si alguien tiene
 Punto de referencia para comparar desempeo. Ej.: el S\&P 500 es un benchmark para fondos de acciones estadounidenses.
 
 **Bid-Ask Spread:**
-Diferencia entre el precio al que alguien quiere comprar (bid) y vender (ask). Cmo los intermediarios ganan dinero.
+Diferencia entre el precio al que alguien quiere comprar (bid) y vender (ask). Cómo los intermediarios ganan dinero.
 
 ### C
 
 **Captura Regulatoria:**
-Cuando la industria que se supone que es regulada controla realmente al regulador (a travs de lobbying, puertas giratorias, amenazas econmicas).
+Cuando la industria que se supone que es regulada controla realmente al regulador (a través de lobbying, puertas giratorias, amenazas econmicas).
 
 **Cartel:**
 Grupo de competidores que acuerdan no competir (precio fijo, divisin de mercado). Generalmente es ilegal, pero ocurre en finanzas de forma sofisticada.
@@ -787,7 +788,7 @@ Ataque deshonesto o sorpresivo sin advertencia.
 **Commodities:**
 Materias primas: petrleo, oro, trigo, cobre. Intercambiables y con precios de mercado global.
 
-**Contagio Sistmico:**
+**Contagio Sistémico:**
 Cuando la quiebra de una institucin provoca quiebras en cascada de otras (ej.: pnico bancario).
 
 ### D
@@ -796,13 +797,13 @@ Cuando la quiebra de una institucin provoca quiebras en cascada de otras (ej.: p
 El que debe dinero. Los gobiernos se endeudan comprando bonos. Ciudadanos se endeudan con hipotecas.
 
 **Deflacin:**
-Cada general de precios (lo opuesto a inflacin). Rara, pero peor: si saben que el dinero valdr ms maana, no compran hoy ? economa se paraliza.
+Cada general de precios (lo opuesto a inflacin). Rara, pero peor: si saben que el dinero valdr más maana, no compran hoy ? economa se paraliza.
 
 **Derivados:**
 Contratos cuyo valor depende de otro activo (opciones, futuros, swaps). Se usan para cobertura o especulacin.
 
 **Destituir / Destitucin:**
-Remover a un funcionario de su cargo (jurdicamente, a travs de un proceso).
+Remover a un funcionario de su cargo (jurdicamente, a través de un proceso).
 
 ### E
 
@@ -829,7 +830,7 @@ Intercambiable. Un dlar es fungible con otro dlar. Un Bitcoin es fungible con ot
 ### G
 
 **Geopoltica:**
-Anlisis de poder global basado en geografa, recursos y posiciones estratgicas.
+Análisis de poder global basado en geografa, recursos y posiciones estratgicas.
 
 **Goldilocks Economy:**
 Economa "ni muy caliente, ni muy fra": crecimiento moderado, inflacin controlada. El "punto dulce" de los bancos centrales.
@@ -848,7 +849,7 @@ Robots que compran/venden en milisegundos, capturando diferencias de precio micr
 Aumento general de precios. Significa que el dinero pierde poder de compra.
 
 **Insider Trading:**
-Comprar/vender acciones basndote en informacin no pblica. Es ilegal pero ocurre frecuentemente.
+Comprar/vender acciones basndote en información no pública. Es ilegal pero ocurre frecuentemente.
 
 **Intermediario:**
 Alguien en el medio de una transaccin (banco, broker, bolsa). Cobra una comisin.
@@ -861,7 +862,7 @@ Poder legal para hacer cumplir normas en un territorio.
 ### K
 
 **Keynesianismo:**
-Escuela econmica (de John Maynard Keynes) que dice que el gobierno debe gastar durante recesiones para estimular la economa.
+Escuela económica (de John Maynard Keynes) que dice que el gobierno debe gastar durante recesiones para estimular la economa.
 
 ### L
 
@@ -886,10 +887,10 @@ Bolsa donde se compran/venden contratos de futuros.
 Compra/venta de bienes legales pero sin pasar por los canales oficiales (ej.: dlar blue en Argentina).
 
 **Monetarismo:**
-Escuela econmica (Milton Friedman) que enfatiza control de oferta de dinero. Opuesta a Keynesianismo.
+Escuela económica (Milton Friedman) que enfatiza control de oferta de dinero. Opuesta a Keynesianismo.
 
 **Moral Hazard:**
-Cuando alguien toma ms riesgos porque sabe que ser rescatado si falla. Ej.: bancos "too big to fail" toman riesgos exagerados porque saben que la Fed los salvar.
+Cuando alguien toma más riesgos porque sabe que ser rescatado si falla. Ej.: bancos "too big to fail" toman riesgos exagerados porque saben que la Fed los salvar.
 
 ### N
 
@@ -897,18 +898,18 @@ Cuando alguien toma ms riesgos porque sabe que ser rescatado si falla. Ej.: banc
 Proceso de llegar a un acuerdo. Un buen negociador maximiza su posicin.
 
 **Neutral / Neutralidad:**
-No tomar partido. En poltica, es imposible (todo acto tiene consecuencias). En poltica "neutral" generalmente significa defender el status quo.
+No tomar partido. En política, es imposible (todo acto tiene consecuencias). En política "neutral" generalmente significa defender el status quo.
 
 ### O
 
-**OPA / Oferta Pblica de Adquisicin:**
-Cuando una empresa intenta comprar otra haciendo una oferta pblica a los accionistas.
+**OPA / Oferta Pública de Adquisicin:**
+Cuando una empresa intenta comprar otra haciendo una oferta pública a los accionistas.
 
 **Oportunidad de Inversin:**
 Situacin donde puedes comprar algo que se valorizar.
 
 **Opciones:**
-Contrato que te da el derecho (pero no la obligacin) a comprar/vender algo a un precio fijo. Ms flexible que futuros.
+Contrato que te da el derecho (pero no la obligacin) a comprar/vender algo a un precio fijo. Más flexible que futuros.
 
 **Opresin / Opresor:**
 Ejercer poder sobre otros de forma injusta o coercitiva.
@@ -949,7 +950,7 @@ Elemento fundamental que soporta una estructura. Ej.: "los pilares de la democra
 Esquema donde ganancias de nuevos inversionistas se usan para pagar a antiguos. Inevitablemente colapsa.
 
 **Piroueta:**
-Giro rpido. O evasiva poltica ("hizo una piroueta" = cambi de opinin repentinamente).
+Giro rpido. O evasiva política ("hizo una piroueta" = cambi de opinin repentinamente).
 
 **Placa Tectnica:**
 Seccin de la corteza terrestre. Usado metafricamente para "fuerzas geolgicas" (cambios fundamentales).
@@ -969,10 +970,10 @@ Documento formal (peticin).
 **Plusvala / Plusvalor:**
 Aumento de valor de un bien. Ganancia de capital.
 
-**Poblacin:**
+**Población:**
 Conjunto de personas en un territorio.
 
-**Poblacin Activa:**
+**Población Activa:**
 Personas en edad de trabajar (generalmente 15-65 aos).
 
 **Pobreza Estructural:**
@@ -999,14 +1000,14 @@ Controversia o debate acalorado.
 **Polica Monetaria:**
 Acciones de bancos centrales que afectan oferta de dinero, tasas de inters, liquidez.
 
-**Poltica Fiscal:**
+**Política Fiscal:**
 Decisiones de gobiernos sobre impuestos y gastos.
 
-**Poltica Industrial:**
+**Política Industrial:**
 Decisiones de gobiernos para favorecer ciertos sectores.
 
 **Politiquera:**
-Poltica motivada por inters personal, no por bien pblico.
+Política motivada por inters personal, no por bien público.
 
 **Polo:**
 Extremo o punto cardinal (Polo Norte, Polo Sur). O "polos opuestos".
@@ -1027,7 +1028,7 @@ Prenda de abrigo (Amrica del Sur).
 Accin de pesar o considerar cuidadosamente.
 
 **Ponderado:**
-Calificativo (promedio ponderado = promedio que da ms peso a ciertos elementos).
+Calificativo (promedio ponderado = promedio que da más peso a ciertos elementos).
 
 **Ponderable:**
 Que puede ser pesado o evaluado.
@@ -1046,7 +1047,7 @@ Pensamiento lgico.
 Decisiones basadas en lgica y maximizacin de inters propio.
 
 **Radicalizacin:**
-Proceso de volverse ms extremista.
+Proceso de volverse más extremista.
 
 **Radicalmente:**
 Fundamentalmente, completamente.
@@ -1086,8 +1087,8 @@ Romper algo longitudinalmente. O abandonar algo a mitad. O chismosear.
 **Sector Financiero:**
 Bancos, fondos de inversin, seguros, bolsas.
 
-**Sector Pblico:**
-Instituciones del Estado (gobierno, polica, educacin pblica, etc.).
+**Sector Público:**
+Instituciones del Estado (gobierno, polica, educación pública, etc.).
 
 **Sector Privado:**
 Empresas privadas (mercado).
@@ -1382,7 +1383,7 @@ Ria o pelea.
 Dicho o hecho insolente.
 
 **Zafeo:**
-Nativo de Ceuta (histrico).
+Nativo de Ceuta (histórico).
 
 **Zaferana / Zaferrana:**
 Azafrn.
@@ -1397,10 +1398,10 @@ Curandera (que trata enfermedades falsamente).
 
 Este manual es una gua para:
 
-1. Entender cmo funciona realmente el poder (no como se ensea en escuelas).
+1. Entender cómo funciona realmente el poder (no como se ensea en escuelas).
 2. Analizar eventos geopolticos y econmicos con rigor metodolgico.
 3. Identificar incentivos, flujos de capital y actores reales.
 4. Resistir narrativas y propagandas.
 5. Construir tu propia interpretacin del mundo.
 
-La clave es: **siempre pregunt quin se beneficia, con qu incentivo, y cundo cambiar de opinin si los datos lo indican.**
+La clave es: **siempre pregunt quién se beneficia, con qué incentivo, y cundo cambiar de opinin si los datos lo indican.**

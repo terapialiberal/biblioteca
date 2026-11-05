@@ -6,6 +6,7 @@ estado: activo
 aliases: ["J. Robert Oppenheimer", "Robert Oppenheimer"]
 tags: [oppenheimer, proyecto-manhattan, bomba-atomica, ciencia, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Oppenheimer

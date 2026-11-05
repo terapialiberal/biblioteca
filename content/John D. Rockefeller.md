@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [john-d-rockefeller, standard-oil, fundaciones, monopolio, medicina, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # John D. Rockefeller

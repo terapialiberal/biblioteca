@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [geocercas, geofencing, movilidad, control, vigilancia, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Geocercas

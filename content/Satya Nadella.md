@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [nadella, nube, openai, satya]
 publish: true
+sin_fuente: true
 ---
 
 # Satya Nadella: el Gestor de la Nube Militar E Inteligente

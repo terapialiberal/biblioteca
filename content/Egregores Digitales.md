@@ -7,6 +7,7 @@ tags: [digitales, egregores, magia, pepe]
 tier_primario: "b"
 nivel_evidencia: "medio"
 publish: true
+sin_fuente: true
 ---
 
 # Egregores Digitales (Tulpa-Internet)

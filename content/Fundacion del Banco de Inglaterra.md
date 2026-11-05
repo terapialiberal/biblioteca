@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [banco, fundacin, inglaterra, reserva]
 publish: true
+sin_fuente: true
 ---
 
 # Fundación Del Banco De Inglaterra

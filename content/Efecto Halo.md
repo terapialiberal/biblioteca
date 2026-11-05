@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [edelman, edward, efecto, halo]
 publish: true
+sin_fuente: true
 ---
 
 # Efecto Halo
@@ -43,7 +44,7 @@ publish: true
 ## Fuentes
 
 - Edward Thorndike: "A Constant Error in Psychological Ratings" (1920).
-- Robert Cialdini: "Influence: The Psychology of Persuasion".
+- Robert Cialdini: "Influence: The Psychology of Persuasión".
 - Daniel Kahneman: "Thinking, Fast and Slow".
 
 ## Por Qué Importa (Estilo Nico)

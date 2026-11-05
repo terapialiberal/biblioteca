@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Nicholas Spykman"]
 tags: [spykman, rimland, geopolitica, contencion, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Spykman

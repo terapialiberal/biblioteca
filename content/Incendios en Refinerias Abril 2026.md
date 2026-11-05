@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [refinerias, energia, incendios, sabotaje, cascada-sistemica, policrisis, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Incendios en Refinerias Abril 2026

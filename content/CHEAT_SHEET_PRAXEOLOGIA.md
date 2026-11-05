@@ -5,6 +5,7 @@ updated: 2026-02-28
 estado: activo
 tags: [praxeologia, accion-humana, mises, economia-austriaca, axiomas-fundamentales]
 titulo: "🧠 CHEAT SHEET: PRAXEOLOGÍA"
+sin_fuente: true
 ---
 
 # 🧠 CHEAT SHEET: PRAXEOLOGÍA

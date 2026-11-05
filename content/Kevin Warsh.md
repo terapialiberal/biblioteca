@@ -15,21 +15,21 @@ last_stream: "[[06_Videos_Publicados/2026/2026-06-17_Endgame_Ormuz/POSTMORTEM_IN
 > [!abstract] PERFIL TL-INTEL
 > Ex gobernador de la Reserva Federal, actual Fed Chair. Contrató a Paul Winfree (autor del capítulo Fed en Project 2025), prometió "regime change" en el banco central. Su ascenso coincide con la pérdida del oro como principal activo de reserva global (reemplazó Treasuries, BCE).
 
-## Clasificacion
+## Clasificación
 
 | Campo | Valor |
 |---|---|
 | Tier | B |
 | Tipo | Persona |
-| Funcion sistemica | puente entre elite financiera, politica monetaria y legitimacion tecnica |
-| Activo que captura | acceso a tasas, narrativa de normalizacion y redireccion del ciclo de deuda |
-| Rasgo diferencial | combina credenciales de Fed con insercion familiar en la red Lauder |
+| Función sistémica | puente entre elite financiera, política monetaria y legitimación tecnica |
+| Activo que captura | acceso a tasas, narrativa de normalización y redirección del ciclo de deuda |
+| Rasgo diferencial | combina credenciales de Fed con inserción familiar en la red Lauder |
 
 ## Contexto
 
-[[Kevin Warsh]] importa en TL porque aparece como relevo plausible de [[Jerome Powell]] cuando la Casa Blanca necesita una Fed mas alineada con la refinanciacion de deuda y una politica de tasas menos restrictiva.
+[[Kevin Warsh]] importa en TL porque aparece como relevo plausible de [[Jerome Powell]] cuando la Casa Blanca necesita una Fed mas alineada con la refinanciación de deuda y una política de tasas menos restrictiva.
 
-Su peso no depende solo de haber sido gobernador de la [[Reserva Federal]]. Tambien importa por su posicion en la interfaz entre finanzas, politica y red familiar: esta casado con Jane Lauder, hija de [[Ronald Lauder]].
+Su peso no depende solo de haber sido gobernador de la [[Reserva Federal]]. También importa por su posición en la interfaz entre finanzas, política y red familiar: esta casado con Jane Lauder, hija de [[Ronald Lauder]].
 
 ## Mecanismos de Poder
 
@@ -37,17 +37,17 @@ Su peso no depende solo de haber sido gobernador de la [[Reserva Federal]]. Tamb
 
 Warsh es relevante cuando la disputa deja de ser militar o fiscal y pasa a la pregunta central: quien define el precio del dinero en el momento de mayor stress de deuda soberana.
 
-### Legitimacion tecnica
+### Legitimación tecnica
 
-No opera como agitador politico. Opera como figura tecnicamente presentable para vender un giro monetario fuerte como si fuera prudencia institucional.
+No opera como agitador político. Opera como figura tecnicamente presentable para vender un giro monetario fuerte como si fuera prudencia institucional.
 
-### Red politico-financiera
+### Red político-financiera
 
-El vinculo familiar con [[Ronald Lauder]] vuelve a Warsh mas interesante que un simple ex funcionario: lo conecta con una red de elite con alcance politico, filantropico y geopolitico.
+El vinculo familiar con [[Ronald Lauder]] vuelve a Warsh mas interesante que un simple ex funcionario: lo conecta con una red de elite con alcance político, filantropico y geopolitico.
 
 ### Bisagra Fed-Tesoro para el reanclaje
 
-Su peso en TL aumenta si se lo lee no como actor aislado sino como posible complemento de [[Scott Bessent]]: Tesoro y Fed alineados en una misma fase de refinanciacion, licuacion parcial y defensa del mercado de [[Treasuries]].
+Su peso en TL aumenta si se lo lee no como actor aislado sino como posible complemento de [[Scott Bessent]]: Tesoro y Fed alineados en una misma fase de refinanciación, licuación parcial y defensa del mercado de [[Treasuries]].
 
 ## Senales vs Ruido
 
@@ -55,29 +55,29 @@ Su peso en TL aumenta si se lo lee no como actor aislado sino como posible compl
 |---|---|---|
 | circula como relevo real de [[Jerome Powell]] en momento de stress de deuda | presentarlo como tecnico neutro sin red propia | ✅ |
 | ex gobernador de la Fed con credenciales para mover expectativas de mercado | reducirlo a nombre de recambio partidario | ✅ |
-| vinculo familiar con [[Ronald Lauder]] | asumir automaticamente una coordinacion cerrada sin evidencia primaria suficiente | 🔶 |
+| vinculo familiar con [[Ronald Lauder]] | asumir automaticamente una coordinación cerrada sin evidencia primaria suficiente | 🔶 |
 
 ## Hipotesis de Trabajo
 
-**Hipotesis**: Kevin Warsh funciona como operador de transicion para una fase en la que la politica monetaria debe volverse mas funcional a la licuacion de deuda y a la captura de activos reales en distress.
+**Hipotesis**: Kevin Warsh funciona como operador de transición para una fase en la que la política monetaria debe volverse mas funcional a la licuación de deuda y a la captura de activos reales en distress.
 
-**Se refutaria si**: su nombre desaparece del radar de sucesion de la Fed o, en posicion de poder, sostuviera una linea monetaria mas restrictiva de lo esperado.
+**Se refutaria si**: su nombre desaparece del radar de sucesión de la Fed o, en posición de poder, sostuviera una linea monetaria mas restrictiva de lo esperado.
 
 **Evidencia necesaria**:
 
 - declaraciones propias sobre tasas, balance y reset monetario
-- confirmacion publica sostenida de su centralidad en el recambio de la Fed
+- confirmación publica sostenida de su centralidad en el recambio de la Fed
 - mejor trazabilidad documental del eje [[Kevin Warsh]] -> [[Ronald Lauder]]
 
 ## Lectura TL
 
 ### 1. Operador presentable para una Fed menos autonoma
 
-Warsh importa porque permitiria ejecutar un giro monetario fuerte sin presentarlo como ruptura abierta del marco institucional. Su valor es tecnico-politico: hacer legible un cambio de regimen como si fuera simple normalizacion.
+Warsh importa porque permitiria ejecutar un giro monetario fuerte sin presentarlo como ruptura abierta del marco institucional. Su valor es tecnico-político: hacer legible un cambio de regimen como si fuera simple normalización.
 
 ### 2. Fed funcional al corredor monetario 2026
 
-Leido junto con [[Mar-a-Lago Accord]], [[Reanclaje Hibrido]] y [[Nuevo Bretton Woods]], Warsh aparece como candidato util para una etapa donde la Fed deja de ser fondo de pantalla y vuelve a ser una pieza activa del sostenimiento del dolar.
+Leido junto con [[Mar-a-Lago Accord]], [[Reanclaje Hibrido]] y [[Nuevo Bretton Woods]], Warsh aparece como candidato util para una etapa donde la Fed deja de ser fondo de pantalla y vuelve a ser una pieza activa del sostenimiento del dólar.
 
 ## Conexiones Clave
 
@@ -91,9 +91,9 @@ Leido junto con [[Mar-a-Lago Accord]], [[Reanclaje Hibrido]] y [[Nuevo Bretton W
 - [[Nuevo Bretton Woods]]
 - [[Treasuries]]
 
-## Observacion Operativa
+## Observación Operativa
 
-Warsh importa menos por su biografia aislada que por el momento en el que aparece. Si entra al centro de escena en simultaneo con shock energetico y stress de deuda, su rol deja de ser tecnico y pasa a ser estrategico.
+Warsh importa menos por su biografia aislada que por el momento en el que aparece. Si entra al centro de escena en simultaneo con shock energetico y stress de deuda, su rol deja de ser tecnico y pasa a ser estratégico.
 
 ## Fuentes
 
@@ -126,3 +126,7 @@ Transcript: [[03_Produccion/2026-09-14_El_dia_despues_tiene_duenios/transcripcio
 ## Casos TL relacionados
 
 - [[06_Videos_Publicados/2026/2026-10-07_Captura_Oligarquica_Crisis_Energetica/POSTMORTEM_INTEL.md|Captura oligárquica × crisis energética (2026-10-08)]] — hold con IPC>3 + coordinación Tesoro-Fed dicha al aire + blindaje Corte Suprema 2026 (Fed casi privada); cero críticas de Trump — estado: confirmado.
+
+## Casos TL relacionados
+
+- [[06_Videos_Publicados/2026/2026-10-21_Diesel_Ormuz_Comida/POSTMORTEM_INTEL.md|Las élites controlan la política (21-10)]] — hold con inflación arriba de 3%: debutó con tasas en 3,50-3,75% y una inflación superior a 3% (IPC 3,7% el 21-10), terminó el forward guidance y el crudo en 77 dólares le sirve de cobertura. Es la pata monetaria de la tríada con Lauder (Groenlandia) y Fink (stablecoins). — estado: confirmado.

@@ -1,5 +1,5 @@
 ---
-titulo: Magia de Salon en Politica
+titulo: Magia de Salon en Política
 tipo: concepto
 fecha: 2026-04-27
 estado: activo
@@ -8,17 +8,18 @@ tags: [magia-de-salon, politica, espectaculo, propaganda, tl-intel-v3]
 capa_tema: b
 nivel_evidencia: medio
 publish: true
+sin_fuente: true
 ---
 
-# Magia de Salon en Politica
+# Magia de Salon en Política
 
 ## BLUF
 
-Magia de Salon en Politica describe trucos performativos de elite: gestos, frases, escenografias y distracciones que producen asombro o obediencia sin cambiar la estructura real.
+Magia de Salon en Política describe trucos performativos de elite: gestos, frases, escenografias y distracciones que producen asombro o obediencia sin cambiar la estructura real.
 
 ## Que es
 
-No refiere a magia literal. Es una metafora de prestidigitacion politica: mostrar una mano mientras la otra negocia, firma, captura o desplaza la atencion publica.
+No refiere a magia literal. Es una metafora de prestidigitación política: mostrar una mano mientras la otra negocia, firma, captura o desplaza la atención publica.
 
 ## Por que importa en TL
 
@@ -28,7 +29,7 @@ No refiere a magia literal. Es una metafora de prestidigitacion politica: mostra
 
 ## Lectura TL
 
-La politica de salon produce clima para audiencias iniciadas: periodistas, donantes, cuadros y operadores. El truco no necesita engañar a todos; basta con sincronizar a quienes repiten la escena.
+La política de salon produce clima para audiencias iniciadas: periodistas, donantes, cuadros y operadores. El truco no necesita engañar a todos; basta con sincronizar a quienes repiten la escena.
 
 ## Conexiones
 
@@ -40,4 +41,4 @@ La politica de salon produce clima para audiencias iniciadas: periodistas, donan
 
 ## Nivel de evidencia
 
-Medio como patron retorico-politico. Requiere caso concreto para atribuir intencionalidad.
+Medio como patron retorico-político. Requiere caso concreto para atribuir intencionalidad.

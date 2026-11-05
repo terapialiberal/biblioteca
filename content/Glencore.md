@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [glencore, marc, sector]
 publish: true
+sin_fuente: true
 ---
 
 # Glencore

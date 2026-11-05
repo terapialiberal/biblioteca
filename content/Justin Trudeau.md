@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [gobernanza, gran, post, prototipo]
 publish: true
+sin_fuente: true
 ---
 
 # Justin Trudeau: El Prototipo De La Gobernanza Post-Democrática

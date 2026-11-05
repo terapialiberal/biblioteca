@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [common, infiltracin, purpose, tavistock]
 publish: true
+sin_fuente: true
 ---
 
 # Common Purpose: La Infiltración Institucional

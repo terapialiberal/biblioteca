@@ -1,13 +1,48 @@
 ---
-publish: true
-tipo: caso
-titulo: Experimentos de Sífilis en Guatemala
+titulo: "Experimentos de Sífilis en Guatemala"
+tipo: "concepto"
+fecha: 2026-02-25
+capa_tema: "b"
+nivel_evidencia: "medio"
 estado: activo
-tags: [salud-publica, bioetica, guatemala, tl-intel-v3]
+tags: [experimentos, guatemala, hillary, sfilis]
+publish: true
+sin_fuente: true
 ---
 
-# Experimentos de Sífilis en Guatemala
+# Experimentos De Sífilis En Guatemala
 
-Caso de investigacion medica no consentida realizada en Guatemala en la decada de 1940 con exposicion deliberada a enfermedades venereas.
+## Resumen Ejecutivo
 
-En TL importa como antecedente de abuso sanitario: ciencia, poblaciones vulnerables, imperialismo medico y confianza institucional dañada.
+**¿Qué fue?** Médicos del gobierno de EEUU (dirigidos por John Charles Cutler) infectaron intencionalmente a 1,300 guatemaltecos (soldados, prostitutas, prisioneros, pacientes mentales) con sífilis y gonorrea.
+A diferencia de Tuskegee (donde solo "observaron"), aquí **inyectaron la enfermedad activamente** (incluso en los ojos de los pacientes) para probar la eficacia de la penicilina como profiláctico tras la exposición.
+
+**¿Por qué importa?** Fue descubierto por accidente en 2010 por una historiadora (Susan Reverby). Hillary Clinton tuvo que pedir perdón oficialmente a Guatemala.
+Demuestra que **Tuskegee no fue una anomalía**, sino parte de una política sistemática de usar a poblaciones vulnerables (especialmente en el "Tercer Mundo") como ratas de laboratorio para la ciencia imperial.
+John C. Cutler también participó en Tuskegee y luego en experimentos de inoculación en la prisión de Sing Sing. Un "Doctor Muerte" americano protegido por el NIH.
+
+## Análisis (Tiers)
+
+### Tier A (Bioética Imperial)
+
+- **Externalización de Riesgos:** Las leyes en EEUU se estaban endureciendo (juicios de Nuremberg), así que movieron los experimentos más atroces al extranjero ("offshoring"). Es el mismo patrón que los laboratorios biológicos en Ucrania hoy.
+
+### Tier B (Operativa)
+
+- **NIH:** Financiado por el Instituto Nacional de Salud. La ciencia official _es_ esto.
+- **Silencio:** Los archivos estuvieron ocultos en la Universidad de Pittsburgh durante 60 años.
+
+### Tier C (Narrativa)
+
+- "Un capítulo oscuro y olvidado"
+
+## Conexiones
+
+- [[Experimento Tuskegee]]
+- [[Hillary Clinton]] (gestión de daños)
+- [[Biolabs en Ucrania]] (continuación moderna)
+
+## Fuentes
+
+- "Normal Exposure" (informe de la historiadora Susan Reverby).
+- Disculpa official de la Casa Blanca (2010).

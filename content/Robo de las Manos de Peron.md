@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [desarticulacin, juan, pern, poder]
 publish: true
+sin_fuente: true
 ---
 
 # Robo de las Manos de Perón: el Ritual de Desarticulación del Poder

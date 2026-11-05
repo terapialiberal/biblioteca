@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [argentina, campo, retenciones, agro, estado, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Campo y Retenciones
@@ -17,9 +18,9 @@ publish: true
 
 ## Por que importa en TL
 
-- conecta agro, exportaciones, recaudacion, conflicto interior-centro y disciplinamiento fiscal;
-- ayuda a leer las retenciones no solo como impuesto sino como mecanismo de apropiacion de excedente y de poder politico;
-- funciona como nodo de cruce entre [[Resolucion 125]], [[Crisis de 2001]] y la persistente tension entre produccion y aparato estatal.
+- conecta agro, exportaciones, recaudación, conflicto interior-centro y disciplinamiento fiscal;
+- ayuda a leer las retenciones no solo como impuesto sino como mecanismo de apropiación de excedente y de poder político;
+- funciona como nodo de cruce entre [[Resolucion 125]], [[Crisis de 2001]] y la persistente tensión entre producción y aparato estatal.
 
 ## Que cambio
 
@@ -27,21 +28,21 @@ La nota venia como ficha vieja, con encoding roto y una lectura muy cerrada en c
 
 ## Lectura TL
 
-### 1. La renta como problema politico
+### 1. La renta como problema político
 
-En TL, el campo importa no solo por producir dolares, sino porque sobre esa renta se organiza una de las disputas centrales del pais: quien la captura, con que legitimidad y para financiar que tipo de Estado.
+En TL, el campo importa no solo por producir dólares, sino porque sobre esa renta se organiza una de las disputas centrales del país: quien la captura, con que legitimidad y para financiar que tipo de Estado.
 
 ### 2. Retenciones como poder central
 
-Su valor analitico aumenta cuando se observa que las retenciones no operan solo como recaudacion. Tambien funcionan como herramienta de disciplinamiento sobre provincias, productores y cadenas de comercializacion.
+Su valor analitico aumenta cuando se observa que las retenciones no operan solo como recaudación. También funcionan como herramienta de disciplinamiento sobre provincias, productores y cadenas de comercialización.
 
 ### 3. Interior productivo y aparato urbano
 
-Leido junto con la politica argentina reciente, el nodo ayuda a pensar una fractura persistente entre quienes generan exportaciones y quienes administran redistribucion, subsidios y caja desde el centro politico.
+Leido junto con la política argentina reciente, el nodo ayuda a pensar una fractura persistente entre quienes generan exportaciones y quienes administran redistribución, subsidios y caja desde el centro político.
 
 ### 4. Concepto reusable para varias epocas
 
-Tambien importa porque sirve para leer distintos gobiernos, no solo uno: cambia la narrativa, pero la tension entre agro, Estado y renta reaparece una y otra vez.
+También importa porque sirve para leer distintos gobiernos, no solo uno: cambia la narrativa, pero la tensión entre agro, Estado y renta reaparece una y otra vez.
 
 ## Conexiones
 

@@ -5,6 +5,7 @@ aliases: ["Olivier Janssens"]
 tags: [actor, bitcoin, libertad-financiera]
 tipo: actor
 tier_primario: C
+sin_fuente: true
 ---
 
 # Olivier Janssens

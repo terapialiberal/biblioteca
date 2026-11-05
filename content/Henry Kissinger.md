@@ -8,6 +8,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [henry-kissinger, realpolitik, golpes-de-estado, cfr, bilderberg, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Henry Kissinger
@@ -44,7 +45,7 @@ Su trayectoria permite enlazar [[Golpe de Chile 1973]], Camboya, apertura a Chin
 
 Leído junto con [[David Rockefeller]], [[CFR]] y [[Bilderberg]], Kissinger ayuda a entender cómo ciertas figuras sobreviven a distintos gobiernos porque su función real excede el cargo formal.
 
-### 5. Cierre politico del corredor encubierto
+### 5. Cierre político del corredor encubierto
 
 Leido junto con [[Allen Dulles]], [[Operacion Condor]] y [[Golpe de Chile 1973]], Kissinger gana valor como figura que traduce la violencia encubierta o semiencubierta al plano de la doctrina estatal, la coordinación diplomática y la justificación estratégica.
 

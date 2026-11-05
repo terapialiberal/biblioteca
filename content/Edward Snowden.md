@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [edward-snowden, whistleblower, nsa, vigilancia, privacidad, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Edward Snowden

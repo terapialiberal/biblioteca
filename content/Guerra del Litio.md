@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [elon, guerra, litio, sudamrica]
 publish: true
+sin_fuente: true
 ---
 
 # Guerra Del Litio (El Triángulo De Sudamérica)

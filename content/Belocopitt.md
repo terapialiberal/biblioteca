@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [belocopitt, claudio, daniel, jos]
 publish: true
+sin_fuente: true
 ---
 
 # Claudio Belocopitt

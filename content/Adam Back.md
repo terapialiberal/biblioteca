@@ -7,6 +7,7 @@ tier_primario: b
 nivel_evidencia: medio
 estado: activo
 tags: [adam, back, blockstream, satoshi]
+sin_fuente: true
 ---
 
 # Adam Back

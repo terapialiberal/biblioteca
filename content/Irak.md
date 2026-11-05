@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Irak (Invasión)", "Irak (Invasion)"]
 tags: [irak, petroleo, medio-oriente, guerra, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Irak

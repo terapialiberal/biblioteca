@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [digital, five, gchq, jtrig]
 publish: true
+sin_fuente: true
 ---
 
 # JTRIG: El Escuadrón De La Inquisición Digital

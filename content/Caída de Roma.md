@@ -5,6 +5,7 @@ aliases: ["Caída de Roma"]
 tags: [concepto, historia, imperio, colapso]
 tipo: concepto
 capa_tema: c
+sin_fuente: true
 ---
 
 # Caída de Roma

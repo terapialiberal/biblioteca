@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Amazon (Empresa)"]
 tags: [amazon, aws, ecommerce, nube, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Amazon

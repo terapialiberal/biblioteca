@@ -7,6 +7,7 @@ tags: [hipnosis-colectiva, psicologia-de-masas, propaganda, panico-moral, operac
 capa_tema: b
 nivel_evidencia: medio
 publish: true
+sin_fuente: true
 ---
 
 # Hipnosis Colectiva

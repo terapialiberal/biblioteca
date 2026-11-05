@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [arma, clima, haarp, popeye]
 publish: true
+sin_fuente: true
 ---
 
 # Operación Popeye: El Clima Como Arma De Asedio

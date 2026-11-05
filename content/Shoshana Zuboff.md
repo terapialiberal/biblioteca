@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [shoshana-zuboff, capitalismo-de-vigilancia, plataformas, datos, critica-digital, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Shoshana Zuboff

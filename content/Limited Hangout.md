@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Limited Hangout: La Tactica De La Verdad Parcial"]
 tags: [limited-hangout, inteligencia, desinformacion, control-de-danos, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Limited Hangout

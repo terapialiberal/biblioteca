@@ -7,6 +7,7 @@ tags: [blackrock, mercado, monopolios, standard]
 capa_tema: "a"
 nivel_evidencia: "alto"
 publish: true
+sin_fuente: true
 ---
 
 # Monopolios — La Estrangulación Del Mercado

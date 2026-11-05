@@ -30,3 +30,7 @@ Rubio importa en TL como caso de absorción del impulso anti-establishment por p
 ## Observación operativa
 
 Su utilidad analítica está en mostrar cómo el sistema puede redecorar continuidad estratégica con envoltorio populista o partidario.
+
+## Fuentes
+
+- https://www-theguardian-com.translate.goog/us-news/2015/oct/29/marco-rubio-campaign-funding-sheldon-adelson?\_x\_tr\_sl=en&\_x\_tr\_tl=es&\_x\_tr\_hl=es&\_x\_tr\_pto=tc  ·  en `06_Videos_Publicados\2026\2026-01-07_Gaza_SA\bookmarks_2026_1_8.md`

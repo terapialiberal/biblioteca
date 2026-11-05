@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [colapso, crisis, reserva, silicon]
 publish: true
+sin_fuente: true
 ---
 
 # Colapso De Silicon Valley Bank
@@ -14,13 +15,13 @@ publish: true
 > [!INFO] Contexto
 > Segunda mayor quiebra bancaria en historia de EEUU.
 
-## Qu Pas
+## Qué Pas
 
 En marzo de 2023, Silicon Valley Bank (SVB) colaps en 48 horas.
 
 - Corrida bancaria desencadenada por prdidas en bonos
-- 16to banco ms grande de EEUU
-- Signature Bank tambin colaps
+- 16to banco más grande de EEUU
+- Signature Bank también colaps
 
 ## Respuesta
 

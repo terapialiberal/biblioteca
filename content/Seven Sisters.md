@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [cartel, energtico, seven, sisters]
 publish: true
+sin_fuente: true
 ---
 
 # Seven Sisters: el Cartel Energético Que Diseñó el Siglo XX

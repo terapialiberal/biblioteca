@@ -7,6 +7,7 @@ tags: [banqueros, lombardos]
 capa_tema: "b"
 nivel_evidencia: "alto"
 publish: true
+sin_fuente: true
 ---
 
 # Los Lombardos - Los Banqueros Del Rey

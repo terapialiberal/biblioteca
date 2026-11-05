@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [dialctica, dicotomas, divide, falsas]
 publish: true
+sin_fuente: true
 ---
 
 # Falsas Dicotomías

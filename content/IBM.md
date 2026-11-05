@@ -5,17 +5,18 @@ tipo: "entidad"
 fecha: 2026-04-29
 estado: activo
 tags: [base-de-conocimiento, ibm, tecnologia, computacion]
+sin_fuente: true
 ---
 
 # IBM
 
-Corporacion tecnologica historica, relevante por mainframes, automatizacion, datos corporativos, contratos gubernamentales, IA empresarial y computacion cuantica.
+Corporación tecnológica histórica, relevante por mainframes, automatización, datos corporativos, contratos gubernamentales, IA empresarial y computación cuantica.
 
 ## Conexiones TL
 
 - [[IA]]
 - infraestructura estatal
-- computacion corporativa
+- computación corporativa
 
 ## Senales recientes
 

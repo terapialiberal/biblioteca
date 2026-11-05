@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [capitalismo-de-vigilancia, plataformas, datos, comportamiento, google, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Capitalismo de Vigilancia

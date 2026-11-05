@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [george, quantum, sistmico, stanley]
 publish: true
+sin_fuente: true
 ---
 
 # Stanley Druckenmiller: el Ejecutor del Arbitraje Sistémico

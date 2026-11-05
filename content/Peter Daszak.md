@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Peter Daszak: El Eslabón Perdido De Wuhan"]
 tags: [peter-daszak, ecohealth, bioseguridad, wuhan, gain-of-function, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Peter Daszak

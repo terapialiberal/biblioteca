@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [gerardo, litio, morales, sergio]
 publish: true
+sin_fuente: true
 ---
 
 # Gerardo Morales

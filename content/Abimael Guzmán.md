@@ -10,6 +10,7 @@ tags:
 tipo: actor
 tier_primario: C
 titulo: Abimael Guzmán
+sin_fuente: true
 ---
 
 # Abimael Guzmán

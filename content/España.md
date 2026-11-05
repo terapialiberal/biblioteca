@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Espana", "España (Geopolítica)"]
 tags: [espana, europa, iberoamerica, ue, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # España

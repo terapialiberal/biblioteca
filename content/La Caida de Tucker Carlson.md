@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [blackrock, carlson, cada, vanguard]
 publish: true
+sin_fuente: true
 ---
 
 # La Caída De Tucker Carlson: La Amputación De La Verdad Rentable

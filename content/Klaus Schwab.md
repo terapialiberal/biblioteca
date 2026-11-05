@@ -8,6 +8,7 @@ moc_canonico: [[00_MOC - Redes de Poder]]
 estado: activo
 fuentes_clave: []
 tags: [klaus-schwab, wef, great-reset, gobernanza, tl-intel-v3]
+sin_fuente: true
 ---
 
 # [[Klaus Schwab]]

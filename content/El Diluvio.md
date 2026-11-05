@@ -7,6 +7,7 @@ tags: [arca, atlantida, diluvio]
 tier_primario: "a"
 nivel_evidencia: "alto"
 publish: true
+sin_fuente: true
 ---
 
 # El Diluvio (Reseteo 1.0)

@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [argentina, kicillof, kirchnerismo, provincia, economia, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Axel Kicillof
@@ -15,35 +16,35 @@ publish: true
 
 ## BLUF
 
-[[Axel Kicillof]] importa en TL como cuadro economico-politico del kirchnerismo que combina justificacion ideologica, gestion estatal y continuidad territorial del espacio en la Provincia de Buenos Aires.
+[[Axel Kicillof]] importa en TL como cuadro económico-político del kirchnerismo que combina justificación ideologica, gestion estatal y continuidad territorial del espacio en la Provincia de Buenos Aires.
 
 ## Por que importa en TL
 
-- conecta kirchnerismo, Provincia de Buenos Aires, intervencion estatal y proyeccion de sucesion politica;
-- ayuda a leer la continuidad del espacio no solo por aparato partidario sino por administracion territorial e ideologica;
+- conecta kirchnerismo, Provincia de Buenos Aires, intervención estatal y proyección de sucesión política;
+- ayuda a leer la continuidad del espacio no solo por aparato partidario sino por administración territorial e ideologica;
 - funciona como nodo de cruce entre [[Cristina Kirchner]], [[La Campora]] y el uso del Estado provincial como base de reagrupamiento.
 
 ## Que cambio
 
-La nota venia como ficha minima, con encoding roto y errores de redaccion. Se recompila como perfil modular del corredor `argentina / provincia / kirchnerismo / intervencion estatal`.
+La nota venia como ficha minima, con encoding roto y errores de redacción. Se recompila como perfil modular del corredor `argentina / provincia / kirchnerismo / intervención estatal`.
 
 ## Lectura TL
 
 ### 1. Cuadro ideologico con poder territorial
 
-En TL, Kicillof importa porque no es solo un tecnico o un gobernador mas: representa la mezcla entre doctrina economica, legitimidad interna kirchnerista y capacidad de administrar el principal territorio politico del pais.
+En TL, Kicillof importa porque no es solo un tecnico o un gobernador mas: representa la mezcla entre doctrina económica, legitimidad interna kirchnerista y capacidad de administrar el principal territorio político del país.
 
 ### 2. Provincia como refugio de poder
 
-Su valor analitico aumenta cuando se observa que Buenos Aires funciona para el kirchnerismo como base de preservacion, acumulacion y relanzamiento aun cuando pierde centralidad nacional.
+Su valor analitico aumenta cuando se observa que Buenos Aires funciona para el kirchnerismo como base de preservación, acumulación y relanzamiento aun cuando pierde centralidad nacional.
 
-### 3. Economia y relato
+### 3. Economía y relato
 
-Leido junto con la historia economica del kirchnerismo, el nodo sirve para pensar como estatismo, subsidios, impuestos y conflicto con el mercado se vuelven parte de una misma narrativa de representacion politica.
+Leido junto con la historia económica del kirchnerismo, el nodo sirve para pensar como estatismo, subsidios, impuestos y conflicto con el mercado se vuelven parte de una misma narrativa de representación política.
 
 ### 4. Figura de recambio parcial
 
-Tambien importa porque encarna una tension interna del espacio: continuidad con Cristina pero con aspiracion propia, gestion territorial y margen de construccion algo diferenciado.
+También importa porque encarna una tensión interna del espacio: continuidad con Cristina pero con aspiración propia, gestion territorial y margen de construcción algo diferenciado.
 
 ## Conexiones
 

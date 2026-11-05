@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Narendra Modi"]
 tags: [modi, india, nacionalismo, brics, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Modi

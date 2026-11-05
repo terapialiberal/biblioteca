@@ -8,23 +8,24 @@ tags: [cometa-atlas, augurios, astronomia-cultural, profecia, tl-intel-v3]
 capa_tema: c
 nivel_evidencia: bajo
 publish: true
+sin_fuente: true
 ---
 
 # Cometa Atlas y Augurios
 
 ## BLUF
 
-Cometa Atlas y Augurios registra la tendencia historica a interpretar eventos celestes como señales de crisis, cambio de ciclo o juicio politico.
+Cometa Atlas y Augurios registra la tendencia histórica a interpretar eventos celestes como señales de crisis, cambio de ciclo o juicio político.
 
 ## Que es
 
-Los cometas son objetos astronomicos reales. La lectura de cometas como augurios pertenece a astronomia cultural, religion, astrologia historica y narrativa politica.
+Los cometas son objetos astronomicos reales. La lectura de cometas como augurios pertenece a astronomia cultural, religión, astrologia histórica y narrativa política.
 
 ## Por que importa en TL
 
 - conecta cielo, miedo social y expectativa de ruptura;
 - ayuda a leer como eventos naturales se convierten en mensajes;
-- permite separar fenomeno astronomico de interpretacion profetica.
+- permite separar fenomeno astronomico de interpretación profetica.
 
 ## Lectura TL
 
@@ -40,4 +41,4 @@ El augurio importa por sus efectos sociales, no por su verdad cosmica. Si una co
 
 ## Nivel de evidencia
 
-Bajo como prediccion. Medio como objeto de monitoreo narrativo.
+Bajo como predicción. Medio como objeto de monitoreo narrativo.

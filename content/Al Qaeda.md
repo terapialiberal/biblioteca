@@ -10,6 +10,7 @@ tags:
 tipo: organizacion
 tier_primario: B
 titulo: Al Qaeda
+sin_fuente: true
 ---
 
 # Al Qaeda

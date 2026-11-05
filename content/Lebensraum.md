@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [biologa, karl, lebensraum, territorial]
 publish: true
+sin_fuente: true
 ---
 
 # Lebensraum: La Biología Del Dominio Territorial

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [batalla, highjump, sagrado, tratado]
 publish: true
+sin_fuente: true
 ---
 
 # Operación Highjump: La Batalla Por El Hielo Sagrado

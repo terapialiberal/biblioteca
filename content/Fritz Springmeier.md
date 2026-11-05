@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [abuso, familia, fritz, springmeier]
 publish: true
+sin_fuente: true
 ---
 
 # Fritz Springmeier

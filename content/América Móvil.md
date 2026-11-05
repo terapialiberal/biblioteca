@@ -4,10 +4,11 @@ tipo: actor
 titulo: América Móvil
 estado: activo
 tags: [telecomunicaciones, latinoamerica, carlos-slim, tl-intel-v3]
+sin_fuente: true
 ---
 
 # América Móvil
 
 Grupo latinoamericano de telecomunicaciones asociado a Carlos Slim, con presencia regional masiva en telefonia, datos e infraestructura digital.
 
-En TL importa como operador privado de conectividad: controla capas materiales de comunicacion, datos, mercado regional y dependencia tecnologica cotidiana.
+En TL importa como operador privado de conectividad: controla capas materiales de comunicación, datos, mercado regional y dependencia tecnológica cotidiana.

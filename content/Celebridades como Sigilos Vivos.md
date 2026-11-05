@@ -7,6 +7,7 @@ tags: [egregores, sigilos, simbolismo, vivos]
 capa_tema: "b"
 nivel_evidencia: "medio"
 publish: true
+sin_fuente: true
 ---
 
 # Celebridades Como Sigilos Vivos

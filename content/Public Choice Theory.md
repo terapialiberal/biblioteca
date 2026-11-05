@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Public Choice Theory: el Desnudo del Leviatán", "Teoría de la Elección Pública"]
 tags: [public-choice, economia-politica, incentivos, estado, grupos-de-interes, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Public Choice Theory

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [balaji, bitcoin, estado, state]
 publish: true
+sin_fuente: true
 ---
 
 # Estado Red (The Network State)

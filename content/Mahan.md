@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Alfred Thayer Mahan"]
 tags: [mahan, poder-naval, geopolitica, mar, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Mahan

@@ -5,11 +5,12 @@ tipo: "entidad"
 fecha: 2026-04-29
 estado: activo
 tags: [base-de-conocimiento, kazajistan, asia-central, energia]
+sin_fuente: true
 ---
 
 # Kazajistan
 
-Potencia energetica de Asia Central, ruta terrestre de Eurasia y bisagra entre Rusia y China. Importa por energia, uranio, corredores logisticos y equilibrio postsovietico.
+Potencia energetica de Asia Central, ruta terrestre de Eurasia y bisagra entre Rusia y China. Importa por energía, uranio, corredores logisticos y equilibrio postsovietico.
 
 ## Conexiones TL
 
@@ -19,7 +20,7 @@ Potencia energetica de Asia Central, ruta terrestre de Eurasia y bisagra entre R
 
 ## Senales recientes
 
-- Energia, uranio, rutas terrestres euroasiaticas y presion entre potencias.
+- Energía, uranio, rutas terrestres euroasiaticas y presión entre potencias.
 
 ---
 

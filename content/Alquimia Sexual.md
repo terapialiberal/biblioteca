@@ -6,6 +6,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [esoterismo, energia, control, sexualidad]
 publish: true
+sin_fuente: true
 ---
 
 # Alquimia Sexual (V.3)

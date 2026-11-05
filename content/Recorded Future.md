@@ -11,6 +11,7 @@ tags:
   - analitica-predictiva
   - vigilancia
 publish: true
+sin_fuente: true
 ---
 
 # [[Recorded Future]]

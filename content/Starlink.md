@@ -8,13 +8,14 @@ estado: activo
 aliases: ["Starlink: Geopolítica: la Infraestructura de la Soberanía Orbital"]
 tags: [starlink, spacex, satelites, conectividad, guerra-en-redes, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Starlink
 
 ## BLUF
 
-[[Starlink]] importa en TL como constelacion satelital de [[SpaceX]] que convierte conectividad orbital privada en infraestructura geopolitica. Su valor no esta solo en proveer internet, sino en mostrar como comunicaciones, logistica militar, resiliencia tactica y soberania informacional pueden quedar condicionadas por una red corporativa con peso estrategico creciente.
+[[Starlink]] importa en TL como constelación satelital de [[SpaceX]] que convierte conectividad orbital privada en infraestructura geopolitica. Su valor no esta solo en proveer internet, sino en mostrar como comunicaciones, logistica militar, resiliencia tactica y soberania informacional pueden quedar condicionadas por una red corporativa con peso estratégico creciente.
 
 ## Por que importa en TL
 
@@ -30,15 +31,15 @@ La nota venia en formato manifiesto viejo, con exceso de retorica y framing dema
 
 ### 1. Conectividad como poder material
 
-Starlink importa porque vuelve visible que comunicar ya no es solo transmitir datos: es sostener mando, coordinacion, resiliencia y continuidad operativa en escenarios de conflicto o aislamiento.
+Starlink importa porque vuelve visible que comunicar ya no es solo transmitir datos: es sostener mando, coordinación, resiliencia y continuidad operativa en escenarios de conflicto o aislamiento.
 
 ### 2. Red privada con consecuencias soberanas
 
-En TL, su relevancia aumenta cuando se observa que estados, fuerzas armadas o poblaciones pueden terminar dependiendo de una infraestructura cuyo control final no es plenamente publico.
+En TL, su relevancia aumenta cuando se observa que estados, fuerzas armadas o poblaciones pueden terminar dependiendo de una infraestructura cuyo control final no es plenamente público.
 
 ### 3. Del servicio al instrumento geopolitico
 
-No hace falta leerla solo como proveedor de internet. Starlink sirve para entender como una constelacion satelital puede influir sobre guerra, diplomacia, acceso y equilibrio entre actores estatales y corporativos.
+No hace falta leerla solo como proveedor de internet. Starlink sirve para entender como una constelación satelital puede influir sobre guerra, diplomacia, acceso y equilibrio entre actores estatales y corporativos.
 
 ### 4. Plataforma hacia usos mas militarizados
 

@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Oman", "Omán (Geopolítica)"]
 tags: [oman, golfo, diplomacia, ormuz, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Omán

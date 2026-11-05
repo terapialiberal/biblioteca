@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [neuralink, bci, cerebro-computadora, transhumanismo, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Neuralink
@@ -49,9 +50,9 @@ Leído junto con [[Transhumanismo]] y [[Neuro-Rights]], Neuralink deja de ser un
 
 Leido junto con [[Internet de los Cuerpos]], el nodo marca un salto cualitativo: ya no se trata solo de medir constantes biologicas o comportamiento corporal, sino de abrir una interfaz directa con actividad neuronal.
 
-### 6. Legitimacion clinica, horizonte ampliado
+### 6. Legitimación clinica, horizonte ampliado
 
-En TL, la clave no es negar el vector terapeutico, sino leer como ese mismo carril puede normalizar capas posteriores de enhancement, dependencia tecnica e integracion cognitiva con software.
+En TL, la clave no es negar el vector terapeutico, sino leer como ese mismo carril puede normalizar capas posteriores de enhancement, dependencia tecnica e integración cognitiva con software.
 
 ## Conexiones
 

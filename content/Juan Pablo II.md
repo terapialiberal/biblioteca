@@ -4,6 +4,7 @@ tipo: actor
 titulo: Juan Pablo II
 estado: activo
 tags: [vaticano, iglesia, guerra-fria, polonia, tl-intel-v3]
+sin_fuente: true
 ---
 
 # Juan Pablo II

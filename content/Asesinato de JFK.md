@@ -7,6 +7,7 @@ capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [allen, asesinato, kennedy, warren]
+sin_fuente: true
 ---
 
 # Asesinato De JFK (John F. Kennedy)

@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [argentina, cuadernos, obra-publica, kirchnerismo, corrupcion, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Causa Cuadernos
@@ -23,7 +24,7 @@ publish: true
 
 ## Que cambio
 
-La nota venía como ficha vieja, con encoding roto y narrativa demasiado cerrada. Se recompila como evento modular del corredor `argentina / obra publica / coimas / recaudacion politica`.
+La nota venía como ficha vieja, con encoding roto y narrativa demasiado cerrada. Se recompila como evento modular del corredor `argentina / obra publica / coimas / recaudación política`.
 
 ## Lectura TL
 

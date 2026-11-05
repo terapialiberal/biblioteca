@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [curtis, descentralizado, hegemona, sistema]
 publish: true
+sin_fuente: true
 ---
 
 # La Catedral: El Sistema De Control Descentralizado

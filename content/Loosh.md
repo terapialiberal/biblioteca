@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Loosh: La Energetica Del Sufrimiento Colectivo"]
 tags: [loosh, robert-monroe, sufrimiento, energia, metafisica, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Loosh

@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Apple Inc", "Apple Inc."]
 tags: [apple, hardware, ecosistema, privacidad, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Apple

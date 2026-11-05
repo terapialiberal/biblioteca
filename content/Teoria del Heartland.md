@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [heartland, teora, zbigniew]
 publish: true
+sin_fuente: true
 ---
 
 # Teoría Del Heartland

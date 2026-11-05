@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [harry, hiroshima, nagasaki, proyecto]
 publish: true
+sin_fuente: true
 ---
 
 # Hiroshima Y Nagasaki

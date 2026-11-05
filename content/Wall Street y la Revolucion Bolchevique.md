@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [antony, bolchevique, jacob, wall]
 publish: true
+sin_fuente: true
 ---
 
 # Wall Street Y La Revolución Bolchevique
@@ -19,15 +20,15 @@ No fue una revuelta de "campesinos oprimidos" espontnea. Fue una operacin de cam
 
 **Los Actores Principales:**
 
-1. **Jacob Schiff (Kuhn, Loeb & Co.):** Financi a los revolucionarios con \20 millones de dlares (de 1917) para derrocar al Czar.
-2. **William Boyce Thompson:** Director de la Reserva Federal de Nueva York. Viaj a Rusia disfrazado de la "Misin de la Cruz Roja" (que tena ms banqueros que mdicos) y entreg \1 milln en efectivo a los bolcheviques para propaganda.
+1. **Jacob Schiff (Kuhn, Loeb & Co.):** Financi a los revolucionarios con \20 millones de dólares (de 1917) para derrocar al Czar.
+2. **William Boyce Thompson:** Director de la Reserva Federal de Nueva York. Viaj a Rusia disfrazado de la "Misin de la Cruz Roja" (que tena más banqueros que mdicos) y entreg \1 milln en efectivo a los bolcheviques para propaganda.
 3. **Olof Aschberg (Banco Nya Banken):** El "Banquero de la Revolución" en Suecia, que lavaba el oro zarista robado por los bolcheviques y lo converta en divisas occidentales.
 
-## Anlisis (Tiers)
+## Análisis (Tiers)
 
 ### Tier A (Dialctica Falsa)
 
-- **Capitalismo vs Comunismo:** Sutton demostr que los capitalistas _aman_ el comunismo. Por qu? Porque el comunismo es el monopolio supremo. El Estado es el nico cliente y el nico pagador. Si controlas al Estado comunista (a travs de deuda y tecnologa), tienes el monopolio perfecto protegido por la polica secreta.
+- **Capitalismo vs Comunismo:** Sutton demostr que los capitalistas _aman_ el comunismo. Por qué? Porque el comunismo es el monopolio supremo. El Estado es el nico cliente y el nico pagador. Si controlas al Estado comunista (a través de deuda y tecnologa), tienes el monopolio perfecto protegido por la polica secreta.
 
 ### Tier B (Operativa)
 

@@ -1,5 +1,5 @@
 ---
-titulo: Cine y Programacion Predictiva
+titulo: Cine y Programación Predictiva
 tipo: concepto
 fecha: 2026-04-19
 capa_tema: b
@@ -8,9 +8,10 @@ estado: activo
 aliases: ["Cine Y Programación Predictiva (Nota Maestra)"]
 tags: [cine, programacion-predictiva, narrativa, propaganda, entretenimiento, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
-# Cine y Programacion Predictiva
+# Cine y Programación Predictiva
 
 ## BLUF
 

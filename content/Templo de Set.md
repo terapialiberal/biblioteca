@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [abuso, guerra, templo]
 publish: true
+sin_fuente: true
 ---
 
 # Templo De Set

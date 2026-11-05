@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: ["2023", brics, desdolarizacin, expansin]
 publish: true
+sin_fuente: true
 ---
 
 # Expansión De BRICS 2023

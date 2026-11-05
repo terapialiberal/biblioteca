@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Huawei (Tecnología China)"]
 tags: [huawei, china, 5g, telecomunicaciones, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Huawei

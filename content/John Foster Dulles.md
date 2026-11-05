@@ -7,18 +7,19 @@ nivel_evidencia: medio
 estado: activo
 tags: [john-foster-dulles, guerra-fria, diplomacia, estados-unidos, elite-estadounidense, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # John Foster Dulles
 
 ## BLUF
 
-[[John Foster Dulles]] importa en TL como figura central de la politica exterior estadounidense de la Guerra Fria temprana y como contraparte diplomatica del corredor de inteligencia asociado a [[Allen Dulles]]. Su relevancia esta en mostrar como diplomacia, estrategia anticomunista y redes de elite convergieron en un mismo periodo.
+[[John Foster Dulles]] importa en TL como figura central de la política exterior estadounidense de la Guerra Fria temprana y como contraparte diplomatica del corredor de inteligencia asociado a [[Allen Dulles]]. Su relevancia esta en mostrar como diplomacia, estrategia anticomunista y redes de elite convergieron en un mismo periodo.
 
 ## Por que importa en TL
 
-- permite leer el brazo diplomatico del mismo clima estrategico que se ve en [[CIA]] y [[Allen Dulles]];
-- ayuda a entender el acople entre discurso de contencion, presion geopolitica y defensa de posicion occidental;
+- permite leer el brazo diplomatico del mismo clima estratégico que se ve en [[CIA]] y [[Allen Dulles]];
+- ayuda a entender el acople entre discurso de contención, presión geopolitica y defensa de posición occidental;
 - funciona como nodo necesario para [[Hermanos Dulles]] y para los casos [[Golpe en Iran 1953]] y [[Golpe en Guatemala]].
 
 ## Que cambio
@@ -29,15 +30,15 @@ La nota previa estaba muy cargada de macrotesis y menos util como pieza de base 
 
 ### 1. Secretario de Estado de una fase dura de la Guerra Fria
 
-John Foster Dulles fue secretario de Estado de Estados Unidos durante la administracion Eisenhower. En ese rol ayudo a codificar una politica exterior de fuerte confrontacion ideologica y amplia disposicion a intervenir para sostener alineamientos favorables.
+John Foster Dulles fue secretario de Estado de Estados Unidos durante la administración Eisenhower. En ese rol ayudo a codificar una política exterior de fuerte confrontación ideologica y amplia disposición a intervenir para sostener alineamientos favorables.
 
 ### 2. Complemento diplomatico del aparato encubierto
 
-En TL, su interes aumenta cuando se lo lee junto con [[Allen Dulles]]: uno representa la capa diplomatica visible y el otro la capa clandestina. Esa proximidad vuelve a los [[Hermanos Dulles]] un nodo util para pensar coordinacion entre politica exterior formal y accion encubierta.
+En TL, su interes aumenta cuando se lo lee junto con [[Allen Dulles]]: uno representa la capa diplomatica visible y el otro la capa clandestina. Esa proximidad vuelve a los [[Hermanos Dulles]] un nodo util para pensar coordinación entre política exterior formal y acción encubierta.
 
 ### 3. Geopolitica y elite
 
-Su paso por [[Sullivan & Cromwell]] y su insercion en redes de elite ayudan a explicar por que aparece tan seguido en lecturas TL sobre continuidad entre establishment privado y Estado estrategico.
+Su paso por [[Sullivan & Cromwell]] y su inserción en redes de elite ayudan a explicar por que aparece tan seguido en lecturas TL sobre continuidad entre establishment privado y Estado estratégico.
 
 ## Con que conecta
 

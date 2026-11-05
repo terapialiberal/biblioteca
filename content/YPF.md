@@ -8,23 +8,24 @@ estado: activo
 aliases: ["YPF (Yacimientos Petrolíferos Fiscales)"]
 tags: [argentina, energia, petroleo, ypf, vaca-muerta, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # YPF
 
 ## BLUF
 
-[[YPF]] importa en TL como nodo central donde se cruzan soberania energetica, caja politica, litigio internacional, recursos estrategicos y disputa por la direccion del sector hidrocarburifero argentino.
+[[YPF]] importa en TL como nodo central donde se cruzan soberania energetica, caja política, litigio internacional, recursos estrategicos y disputa por la dirección del sector hidrocarburifero argentino.
 
 ## Por que importa en TL
 
-- conecta energia, Estado, Vaca Muerta, expropiacion, deuda y control de caja;
-- ayuda a leer la empresa no solo como petrolera sino como artefacto politico-economico argentino de largo plazo;
+- conecta energía, Estado, Vaca Muerta, expropiación, deuda y control de caja;
+- ayuda a leer la empresa no solo como petrolera sino como artefacto político-económico argentino de largo plazo;
 - funciona como nodo de cruce entre [[Vaca Muerta]], [[Axel Kicillof]], [[Mauricio Macri]] y [[Javier Milei]].
 
 ## Que cambio
 
-La nota venia como ficha vieja, con encoding roto y demasiado concentrada en enumerar hitos sueltos. Se recompila como entidad modular del corredor `argentina / energia / recursos / caja estatal`.
+La nota venia como ficha vieja, con encoding roto y demasiado concentrada en enumerar hitos sueltos. Se recompila como entidad modular del corredor `argentina / energía / recursos / caja estatal`.
 
 ## Lectura TL
 

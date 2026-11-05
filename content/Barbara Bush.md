@@ -5,6 +5,7 @@ aliases: ["Barbara Bush"]
 tags: [actor, dinastia, eeuu, bush]
 tipo: actor
 tier_primario: C
+sin_fuente: true
 ---
 
 # Barbara Bush

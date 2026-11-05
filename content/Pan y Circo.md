@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [anestesia, dopamina, infinita, tiktok]
 publish: true
+sin_fuente: true
 ---
 
 # Pan Y Circo: La Anestesia De La Dopamina Infinita

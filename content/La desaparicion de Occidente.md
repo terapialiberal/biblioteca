@@ -1,5 +1,5 @@
 ---
-titulo: La desaparicion de Occidente
+titulo: La desaparición de Occidente
 tipo: import
 estado: capturado
 fuente: https://theobjective.com/internacional/2025-12-09/desaparicion-occidente/
@@ -9,7 +9,7 @@ tags: [occidente, multipolaridad, geopolítica, eeuu, orden-mundial, import]
 publish: true
 ---
 
-# La desaparicion de Occidente
+# La desaparición de Occidente
 
 ## Estado
 
@@ -17,8 +17,8 @@ Import crudo estabilizado. La nota conservaba extractos utiles pero seguia marca
 
 ## Resumen util
 
-La pieza plantea que la unipolaridad estadounidense se erosiona y que el sistema entra en una fase multipolar inestable, con menor compromiso de EE.UU. con el rol de garante global, mayor friccion con aliados y una priorizacion del frente China por encima de Europa.
+La pieza plantea que la unipolaridad estadounidense se erosiona y que el sistema entra en una fase multipolar inestable, con menor compromiso de EE.UU. con el rol de garante global, mayor fricción con aliados y una priorización del frente China por encima de Europa.
 
 ## Nota operativa
 
-Pendiente de recompilacion hacia un nodo reusable sobre [[Multipolaridad]], [[Occidente]] o reordenamiento de la estrategia estadounidense.
+Pendiente de recompilación hacia un nodo reusable sobre [[Multipolaridad]], [[Occidente]] o reordenamiento de la estrategia estadounidense.

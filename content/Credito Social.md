@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [cbdc, crdito, occidental, social]
 publish: true
+sin_fuente: true
 ---
 
 # Crédito Social (Occidental)

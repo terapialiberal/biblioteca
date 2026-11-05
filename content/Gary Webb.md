@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [gary, operacin, rick, webb]
 publish: true
+sin_fuente: true
 ---
 
 # Gary Webb

@@ -8,6 +8,7 @@ moc_canonico: [[00_MOC - Operaciones Psicologicas]]
 estado: activo
 fuentes_clave: []
 tags: [uniparty, falsas-dicotomias, kayfabe, politica, tl-intel-v3]
+sin_fuente: true
 ---
 
 # [[Uniparty]]

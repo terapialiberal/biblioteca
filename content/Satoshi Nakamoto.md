@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [bitcoin, nakamoto, tecnologa, trampa]
 publish: true
+sin_fuente: true
 ---
 
 # Satoshi Nakamoto: el Prometeo de la Red O el Arquitecto de la Trampa

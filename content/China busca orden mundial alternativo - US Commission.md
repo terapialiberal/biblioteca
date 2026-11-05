@@ -6,6 +6,7 @@ fecha: 2026-04-18
 descripcion: "Import estabilizado desde un recorte sobre advertencias de una comision estadounidense acerca de un orden mundial alternativo impulsado por China."
 tags: [china, eeuu, orden-mundial, geopolitica, import, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # China busca orden mundial alternativo - US Commission

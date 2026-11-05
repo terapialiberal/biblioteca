@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [departamento, elon, tecnocrtica, vivek]
 publish: true
+sin_fuente: true
 ---
 
 # DOGE (Departamento De Eficiencia): La Purga Tecnocrática

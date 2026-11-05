@@ -4,6 +4,7 @@ tipo: actor
 titulo: David Icke
 estado: activo
 tags: [literatura-conspirativa, medios, esoterismo-politico, tl-intel-v3]
+sin_fuente: true
 ---
 
 # David Icke

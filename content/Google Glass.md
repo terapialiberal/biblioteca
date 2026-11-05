@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [google-glass, wearables, vigilancia, realidad-aumentada, google, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Google Glass

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [medicina, monopolio, origen, rockefeller]
 publish: true
+sin_fuente: true
 ---
 
 # Medicina Alopática Vs Holística: El Origen Del Monopolio De Rockefeller

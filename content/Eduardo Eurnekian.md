@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [corporacin, eduardo, eurnekian, javier]
 publish: true
+sin_fuente: true
 ---
 
 # Eduardo Eurnekian

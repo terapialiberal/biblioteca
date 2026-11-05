@@ -7,6 +7,7 @@ tags: [vesica-piscis, geometria-sagrada, simbolismo, arquitectura, esoterismo, t
 capa_tema: c
 nivel_evidencia: medio
 publish: true
+sin_fuente: true
 ---
 
 # Vesica Piscis

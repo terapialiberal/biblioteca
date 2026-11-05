@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [protocolo-rwa, rwa, tokenizacion, activos-reales, ledger, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Protocolo RWA

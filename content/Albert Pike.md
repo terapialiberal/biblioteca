@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [albert, giuseppe, masonera, pike]
 publish: true
+sin_fuente: true
 ---
 
 # Albert Pike

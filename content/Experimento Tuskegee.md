@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [tuskegee, medicina, experimento, bioetica, eugenesia, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Experimento Tuskegee

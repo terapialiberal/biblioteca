@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [cartel-de-granos, abcd, agroindustria, commodities, alimentos, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Cartel de Granos (ABCD)

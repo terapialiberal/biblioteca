@@ -126,3 +126,8 @@ El caso Epstein importa porque obliga a pensar el poder no solo como dinero o id
 - [[Fixer (Activo de Inteligencia)]] — función que Epstein cumple.
 - [[Red Anfibia]] — Epstein operaba bajo ambos partidos.
 - [[El Pulpo (Casolaro)]] — genealogía de la red.
+
+## Fuentes
+
+- https://www.middleeasteye.net/news/how-jeffrey-epsteins-intelligence-ties-go-back-decades  ·  en `06_Videos_Publicados\2026\2026-03-17_Iran_Stream\00_LINKS_Iran_2026.md`
+- https://www.ibtimes.co.uk/allegations-linking-melania-trump-jeffrey-epstein-1800225  ·  en `06_Videos_Publicados\2026\2026-06-10_Fitts_Pulte_Gran_Israel\01_FUENTES\02_Archivo\2026-06-10_Fitts_Pulte_Gran_Israel_Marcadores.md`

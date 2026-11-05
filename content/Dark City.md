@@ -7,6 +7,7 @@ tags: [city, dark, solve, tartaria]
 tier_primario: "a"
 nivel_evidencia: "alto"
 publish: true
+sin_fuente: true
 ---
 
 # Dark City (La Ciudad Del Reset Perpetuo)

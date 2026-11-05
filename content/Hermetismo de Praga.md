@@ -7,6 +7,7 @@ tags: [hermetismo, praga]
 capa_tema: "a"
 nivel_evidencia: "alto"
 publish: true
+sin_fuente: true
 ---
 
 # Hermetismo De Praga (El Nodo De La Ingeniería Artificial)

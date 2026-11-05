@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Suiza (Sistema Financiero)"]
 tags: [suiza, banca, neutralidad, finanzas, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Suiza

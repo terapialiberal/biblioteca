@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [adnan, jeffrey, khashoggi, oliver]
 publish: true
+sin_fuente: true
 ---
 
 # Adnan Khashoggi

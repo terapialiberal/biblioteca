@@ -11,6 +11,7 @@ tags:
   - credito
   - arquitectura-financiera
 publish: true
+sin_fuente: true
 ---
 
 # [[Reserva Fraccionaria]]

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [austraca, ciclo, escuela, ludwig]
 publish: true
+sin_fuente: true
 ---
 
 # Teoría Austríaca Del Ciclo Económico

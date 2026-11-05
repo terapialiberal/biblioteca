@@ -8,6 +8,7 @@ moc_canonico: [[00_MOC - Patrones Clasicos de Poder]]
 estado: activo
 fuentes_clave: []
 tags: [precedente, metodo, patrones, historia, tl-intel-v3]
+sin_fuente: true
 ---
 
 # [[Precedente]]

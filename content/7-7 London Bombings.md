@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [bombings, guerra, london, tony]
 publish: true
+sin_fuente: true
 ---
 
 # 7/7 London Bombings

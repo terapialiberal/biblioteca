@@ -3,6 +3,7 @@ publish: true
 titulo: "Janet Yellen: La Tesorera De La Puerta Giratoria"
 tipo: persona
 estado: activo
+sin_fuente: true
 ---
 
 # Janet Yellen (TL V.3): La Tesorera De La Puerta Giratoria

@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Carl Jung", "Carl Gustav Jung"]
 tags: [jung, psicologia, arquetipos, simbolismo, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Jung

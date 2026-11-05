@@ -6,6 +6,7 @@ estado: activo
 aliases: ["WTO", "OMC (Organización Mundial del Comercio)"]
 tags: [omc, comercio, globalizacion, reglas, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # OMC

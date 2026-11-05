@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [openvpp, rwa, energia, tokenizacion, technocracy, certificado-energia, blockchain, sistema-monetario, 2026, tl-intel-v3]
 fecha: 2026-03-12
+sin_fuente: true
 ---
 
 # OpenVPP

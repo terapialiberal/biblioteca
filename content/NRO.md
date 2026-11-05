@@ -8,18 +8,19 @@ estado: activo
 aliases: [National Reconnaissance Office, NRO (National Reconnaissance Office)]
 tags: [nro, inteligencia, satelites, vigilancia, espacio, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # NRO
 
 ## BLUF
 
-[[NRO]] importa en TL como organismo estadounidense dedicado a satelites de reconocimiento e infraestructura orbital de inteligencia. Su utilidad analitica esta en mostrar la capa espacial del aparato de vigilancia: observacion persistente, recoleccion tecnica, soporte a targeting y dependencia creciente de plataformas orbitales para mando y seguridad nacional.
+[[NRO]] importa en TL como organismo estadounidense dedicado a satelites de reconocimiento e infraestructura orbital de inteligencia. Su utilidad analitica esta en mostrar la capa espacial del aparato de vigilancia: observación persistente, recolección tecnica, soporte a targeting y dependencia creciente de plataformas orbitales para mando y seguridad nacional.
 
 ## Por que importa en TL
 
-- conecta inteligencia, satelites, contratistas aeroespaciales y militarizacion de la orbita;
-- ayuda a leer como parte del poder real ya no se juega solo en tierra, sino en infraestructura de observacion y comunicaciones espaciales;
+- conecta inteligencia, satelites, contratistas aeroespaciales y militarización de la orbita;
+- ayuda a leer como parte del poder real ya no se juega solo en tierra, sino en infraestructura de observación y comunicaciones espaciales;
 - funciona como puente entre [[CIA]], [[Pentagono]], [[Northrop Grumman]] y corredores mas nuevos como [[SpaceX Starshield]].
 
 ## Que cambio
@@ -30,11 +31,11 @@ El nodo faltaba fisicamente en la base pese a aparecer como referencia estructur
 
 ### 1. Ojos orbitales del aparato
 
-NRO importa porque concentra una funcion material critica: sostener capacidad de observacion y recoleccion desde orbita para inteligencia, vigilancia y soporte operativo.
+NRO importa porque concentra una función material critica: sostener capacidad de observación y recolección desde orbita para inteligencia, vigilancia y soporte operativo.
 
 ### 2. Espacio como infraestructura de mando
 
-En TL, su valor crece cuando se observa que la superioridad militar contemporanea depende tambien de sensores, enlaces y activos orbitales capaces de dar persistencia, cobertura y ventaja informacional.
+En TL, su valor crece cuando se observa que la superioridad militar contemporanea depende también de sensores, enlaces y activos orbitales capaces de dar persistencia, cobertura y ventaja informacional.
 
 ### 3. Contratismo de alta opacidad
 

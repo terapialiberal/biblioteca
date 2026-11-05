@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: ["2006", guerra, hezbollah, lbano]
 publish: true
+sin_fuente: true
 ---
 
 # Guerra Del Líbano 2006

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [cirujano, kash, patel, populista]
 publish: true
+sin_fuente: true
 ---
 
 # Kash Patel: El Cirujano De La Contrainteligencia Populista

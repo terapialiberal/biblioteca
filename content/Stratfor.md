@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [estratgico, george, privatizacin, wikileaks]
 publish: true
+sin_fuente: true
 ---
 
 # Stratfor: la Privatización del Ojo Estratégico

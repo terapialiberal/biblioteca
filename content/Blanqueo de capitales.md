@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Lavado de dinero", "Money laundering"]
 tags: [blanqueo, lavado, crimen-financiero, offshore, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Blanqueo de capitales

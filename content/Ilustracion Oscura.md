@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [curtis, enlightenment, oscura, peter]
 publish: true
+sin_fuente: true
 ---
 
 # Dark Enlightenment (Ilustración Oscura)

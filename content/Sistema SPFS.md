@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Sistema SPFS: el Cortafuegos Financiero de la Eurasia Soberana", "SPFS", "System for Transfer of Financial Messages"]
 tags: [spfs, rusia, pagos-transfronterizos, swift, sanciones, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Sistema SPFS
@@ -38,7 +39,7 @@ SPFS importa porque nace como respuesta concreta a la posibilidad de quedar fuer
 
 En TL, la lección central es que quien controla el canal de instrucciones bancarias controla buena parte del comercio posible. La mensajería financiera no es neutralidad técnica; es poder geoeconómico.
 
-### 3. Fragmentacion sin colapso total
+### 3. Fragmentación sin colapso total
 
 Su valor analítico crece cuando se evita el error de pensar en dos bloques totalmente separados. SPFS expresa más bien una fragmentación parcial: aumenta la resiliencia de ciertos circuitos sin destruir de inmediato la primacía occidental.
 

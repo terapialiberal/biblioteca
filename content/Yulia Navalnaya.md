@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [navalnaya, rusia, yulia]
 publish: true
+sin_fuente: true
 ---
 
 # [[Yulia Navalnaya]]

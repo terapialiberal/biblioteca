@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [digital, edward, glenn, imagen]
 publish: true
+sin_fuente: true
 ---
 
 # Omidyar Network: El Lavado De Imagen Del Control Digital

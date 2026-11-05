@@ -4,6 +4,7 @@ tipo: concepto
 titulo: "Patrón - Trampa de Tucídides"
 estado: procesado
 tags: [patrones, geopolítica, trampa-de-tucidides, tl-v3]
+sin_fuente: true
 ---
 
 # [[Patrón - Trampa de Tucídides]]

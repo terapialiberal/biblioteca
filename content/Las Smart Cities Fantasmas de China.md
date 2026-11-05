@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [china, evergrande, fsicos, servidores]
 publish: true
+sin_fuente: true
 ---
 
 # Las Smart Cities Fantasmas De China: Los Servidores Físicos De La Sociedad
@@ -24,7 +25,7 @@ publish: true
 ### Tier B: Los Administradores De La Burbuja De Hormigón (Gobiernos Locales)
 
 - **Ponzi Inmobiliario Institucional:** En el Tier B administrativo, el crecimiento del PIB chino se ha basado en la construcción perpetua. Los gobiernos locales de Tier B se financian vendiendo tierras a desarrolladoras como **[[Evergrande]]**, que construyen ciudades que nadie habita. Esta es una **ingeniería de la deuda** diseñada para mantener la ilusión de prosperidad y pleno empleo, mientras se crea una infraestructura física que el Tier A puede utilizar en el futuro. El Tier B gestiona la degradación de estas ciudades ("mantenimiento de fantasmas") esperando la orden de activación poblacional.
-- **El Panóptico Vacío:** El Tier B tecnológico (Huawei, Hikvision) ha instalado en estas ciudades una red de vigilancia que no tiene "puntos ciegos". Al estar vacías, permiten el testeo de algoritmos de persecución y seguimiento sin la complejidad del ruido social, perfeccionando el software de control que luego se aplica en las ciudades habitadas.
+- **El Panóptico Vacío:** El Tier B tecnológico (Huawei, Hikvisión) ha instalado en estas ciudades una red de vigilancia que no tiene "puntos ciegos". Al estar vacías, permiten el testeo de algoritmos de persecución y seguimiento sin la complejidad del ruido social, perfeccionando el software de control que luego se aplica en las ciudades habitadas.
 
 ### Tier C: La Población En La Ficción De La Propiedad
 

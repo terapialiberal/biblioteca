@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Emmanuel Macron"]
 tags: [macron, francia, ue, tecnocracia, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Macron

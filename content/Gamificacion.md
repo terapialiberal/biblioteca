@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [comportamiento, crdito, dopamina, gamificacin]
 publish: true
+sin_fuente: true
 ---
 
 # Gamificación (Ingeniería Del Comportamiento)

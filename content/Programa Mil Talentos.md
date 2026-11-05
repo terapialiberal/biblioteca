@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [brics, guerra, mente, occidental]
 publish: true
+sin_fuente: true
 ---
 
 # Programa Mil Talentos: El Robo De La Mente Occidental

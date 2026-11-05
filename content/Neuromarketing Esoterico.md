@@ -6,6 +6,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [marketing, esoterismo, simbolos, inconsciente]
 publish: true
+sin_fuente: true
 ---
 
 # Neuromarketing Esotérico (V.3)

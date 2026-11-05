@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [proyecto-agora, bis, cbdc, dinero-programable, unified-ledger, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Proyecto Agora
@@ -41,17 +42,17 @@ En TL, su relevancia crece cuando se observa que eficiencia y programabilidad pu
 
 Su utilidad aparece al pensar estos proyectos no solo como pruebas, sino como laboratorios de la próxima arquitectura monetaria internacional.
 
-### 4. Unified ledger como politica material
+### 4. Unified ledger como política material
 
 En TL, Agora importa cuando la unificación de capas deja de ser solo eficiencia de settlement y empieza a funcionar como convergencia de supervisión, elegibilidad y control sobre quién liquida qué, con qué activo y bajo qué reglas.
 
-### 5. Orden monetario despues del desborde
+### 5. Orden monetario después del desborde
 
 Su relevancia crece en escenarios donde la policrisis erosiona confianza en la arquitectura existente. Ahí la promesa de integración técnica puede venderse como respuesta neutral a un problema que es profundamente político.
 
-### 6. Coordinacion institucional tras la fragilidad del plumbing
+### 6. Coordinación institucional tras la fragilidad del plumbing
 
-Leido junto con [[Repo Market Crisis 2019]], [[Reverse Repo Facility]] y [[Tokenized Sovereign Debt]], Agora gana relieve como respuesta institucional a un sistema cuya liquidacion clasica ya mostró puntos de fatiga. La unificacion programable aparece entonces no solo como eficiencia, sino como intento de reducir fricciones en colateral, settlement y supervisión.
+Leido junto con [[Repo Market Crisis 2019]], [[Reverse Repo Facility]] y [[Tokenized Sovereign Debt]], Agora gana relieve como respuesta institucional a un sistema cuya liquidación clasica ya mostró puntos de fatiga. La unificación programable aparece entonces no solo como eficiencia, sino como intento de reducir fricciones en colateral, settlement y supervisión.
 
 ### 7. Laboratorio del nuevo rail
 

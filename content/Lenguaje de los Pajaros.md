@@ -7,6 +7,7 @@ tags: [fulcanelli, gematra, lenguaje, pjaros]
 capa_tema: "a"
 nivel_evidencia: "medio"
 publish: true
+sin_fuente: true
 ---
 
 # Lenguaje De Los Pájaros (Diplomacia Fonética)

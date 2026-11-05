@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Marshall McLuhan"]
 tags: [mcluhan, medios, comunicacion, tecnologia, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # McLuhan

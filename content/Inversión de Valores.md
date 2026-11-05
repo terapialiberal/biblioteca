@@ -4,6 +4,7 @@ tipo: concepto
 titulo: Inversión de Valores
 estado: activo
 tags: [ingenieria-social, cultura, simbolismo, tl-intel-v3]
+sin_fuente: true
 ---
 
 # Inversión de Valores

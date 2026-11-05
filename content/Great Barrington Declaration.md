@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [great-barrington-declaration, lockdowns, salud-publica, censura, covid, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Great Barrington Declaration

@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [ibn-saud, fdr, uss-quincy, saudi, petrodolar, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Ibn Saud y FDR

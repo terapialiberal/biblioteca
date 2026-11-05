@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [foro, hugo, lula, paulo]
 publish: true
+sin_fuente: true
 ---
 
 # Foro De Sao Paulo

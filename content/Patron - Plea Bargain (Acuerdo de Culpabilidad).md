@@ -7,6 +7,7 @@ capa_tema: c
 nivel_evidencia: alto
 estado: activo
 tags: [00-patron, justicia, statecraft, encubrimiento, tl-v2]
+sin_fuente: true
 ---
 
 # ⚖️ Patrón – Plea Bargain (Acuerdo de Culpabilidad)

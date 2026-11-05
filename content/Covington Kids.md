@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [chicos, kids, naciones, sandmann]
 publish: true
+sin_fuente: true
 ---
 
 # Los Chicos De Covington (Nick Sandmann)

@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [argentina, antonini, valijas, financiamiento, kirchnerismo, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Valijas de Antonini Wilson
@@ -23,7 +24,7 @@ publish: true
 
 ## Que cambio
 
-La nota venía como ficha muy breve, con encoding roto y errores básicos de redacción. Se recompila como evento modular del corredor `argentina / financiamiento politico / opacidad / alianzas regionales`.
+La nota venía como ficha muy breve, con encoding roto y errores básicos de redacción. Se recompila como evento modular del corredor `argentina / financiamiento político / opacidad / alianzas regionales`.
 
 ## Lectura TL
 

@@ -6,6 +6,7 @@ estado: activo
 aliases: ["AUKUS"]
 tags: [aukus, australia, uk, eeuu, china, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # AUKUS

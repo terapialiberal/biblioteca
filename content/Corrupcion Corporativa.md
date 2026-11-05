@@ -1,13 +1,14 @@
 ---
 publish: true
 tipo: concepto
-titulo: Corrupcion Corporativa
+titulo: Corrupción Corporativa
 estado: activo
 tags: [corporaciones, compliance, captura-regulatoria, tl-intel-v3]
+sin_fuente: true
 ---
 
-# Corrupcion Corporativa
+# Corrupción Corporativa
 
-Patron por el cual empresas usan sobornos, lobby opaco, cartelizacion, puerta giratoria, fraude contable o captura regulatoria para sostener ventajas.
+Patron por el cual empresas usan sobornos, lobby opaco, cartelización, puerta giratoria, fraude contable o captura regulatoria para sostener ventajas.
 
 En TL conecta la retorica de mercado con la realidad institucional: muchas rentas privadas dependen de reglas publicas, arbitraje regulatorio y penalidades que no alteran el modelo de negocio.

@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Federal Bureau of Investigation"]
 tags: [fbi, eeuu, contrainteligencia, lawfare, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # FBI

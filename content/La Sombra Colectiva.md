@@ -7,6 +7,7 @@ tags: [sombra-colectiva, jung, psicologia-de-masas, propaganda, tl-intel-v3]
 capa_tema: b
 nivel_evidencia: medio
 publish: true
+sin_fuente: true
 ---
 
 # La Sombra Colectiva

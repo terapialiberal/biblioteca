@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [irn, john, north, oliver]
 publish: true
+sin_fuente: true
 ---
 
 # Oliver North

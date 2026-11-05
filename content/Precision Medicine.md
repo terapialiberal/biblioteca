@@ -1,5 +1,5 @@
 ---
-titulo: Precision Medicine
+titulo: Precisión Medicine
 tipo: concepto
 fecha: 2026-04-17
 capa_tema: b
@@ -7,9 +7,10 @@ nivel_evidencia: medio
 estado: activo
 tags: [precision-medicine, genomica, seguros, bio-digital, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
-# Precision Medicine
+# Precisión Medicine
 
 ## BLUF
 
@@ -47,7 +48,7 @@ Leída junto con [[Genomic ID]], esta nota muestra el argumento respetable y cl�
 
 En TL, el punto fuerte aparece cuando la personalización médica deja de verse solo como mejora terapéutica y empieza a operar como justificación para separar pacientes por perfil, pronóstico, costo o prioridad.
 
-### 6. Antesala de la intervencion bio-digital
+### 6. Antesala de la intervención bio-digital
 
 Leida junto con [[Internet de los Cuerpos]], [[Neuralink]] e [[Internet of Bio-Nano Things]], la medicina de precisión deja de ser solamente dato genómico. Pasa a funcionar como carril respetable hacia monitoreo, ajuste e intervención continua sobre el organismo.
 

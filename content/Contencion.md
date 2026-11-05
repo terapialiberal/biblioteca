@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [contencin, george, guerra, kennan]
 publish: true
+sin_fuente: true
 ---
 
 # Contención (George Kennan)

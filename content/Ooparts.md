@@ -7,6 +7,7 @@ tags: [ooparts]
 capa_tema: "a"
 nivel_evidencia: "alto"
 publish: true
+sin_fuente: true
 ---
 
 # Ooparts (Out of Place Artifacts)

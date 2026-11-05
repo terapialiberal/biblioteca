@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [atentado, falsa, gladio, international]
 publish: true
+sin_fuente: true
 ---
 
 # Atentado De Boston (Craft International)

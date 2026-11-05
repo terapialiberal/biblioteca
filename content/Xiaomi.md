@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Xiaomi (Tecnología China)"]
 tags: [xiaomi, china, hardware, smartphones, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Xiaomi

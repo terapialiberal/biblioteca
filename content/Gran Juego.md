@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [game, gran, guerra, juego]
 publish: true
+sin_fuente: true
 ---
 
 # Gran Juego (The Great Game)

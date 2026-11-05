@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [asesinato, hariri, hezbollah, rafik]
 publish: true
+sin_fuente: true
 ---
 
 # Asesinato De Rafik Hariri

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [crisis, estratgicas, reservas, sabotaje]
 publish: true
+sin_fuente: true
 ---
 
 # Reservas Estratégicas de Petróleo (SPR): el Sabotaje de la Seguridad Nacional

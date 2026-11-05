@@ -1,12 +1,13 @@
 ---
 publish: true
-titulo: Patron – Weaponization (Armamentizacion)
+titulo: Patron – Weaponization (Armamentización)
 tipo: concepto
 fecha: 2026-02-28
 capa_tema: b
 nivel_evidencia: alto
 estado: activo
 tags: [00-patron, weaponization, geopolitica, statecraft, tl-v2]
+sin_fuente: true
 ---
 
 # ⚔️ Patrón – Weaponization (Armamentización)

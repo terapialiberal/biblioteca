@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Reducción de compras de activos", "Taper"]
 tags: [tapering, qe, reserva-federal, liquidez, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Tapering

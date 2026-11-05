@@ -1,5 +1,5 @@
 ---
-titulo: Fundacion Rockefeller
+titulo: Fundación Rockefeller
 tipo: entidad
 fecha: 2026-04-17
 tier_primario: b
@@ -8,9 +8,10 @@ estado: activo
 aliases: ["Fundación Rockefeller", "Rockefeller Foundation"]
 tags: [rockefeller-foundation, salud-global, agricultura, filantrocapitalismo, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
-# Fundacion Rockefeller
+# Fundación Rockefeller
 
 ## BLUF
 

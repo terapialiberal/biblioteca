@@ -7,6 +7,7 @@ tags: [mundo, subterrneo]
 tier_primario: "a"
 nivel_evidencia: "bajo"
 publish: true
+sin_fuente: true
 ---
 
 # Mundo Subterráneo (Agartha)

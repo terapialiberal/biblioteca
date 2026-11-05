@@ -6,6 +6,7 @@ tier_primario: b
 nivel_evidencia: alto
 tags: [burford-capital, litigios, financiamiento, argentina, ypf, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Burford Capital

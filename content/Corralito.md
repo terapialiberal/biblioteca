@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Corralito (2001)"]
 tags: [argentina, corralito, bancos, crisis-2001, ahorros, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Corralito
@@ -18,8 +19,8 @@ publish: true
 
 ## Por que importa en TL
 
-- conecta bancos, corrida, confianza, corralon, trauma social y crisis de representacion;
-- ayuda a leer por que la relacion del argentino con el sistema financiero cambia de forma duradera;
+- conecta bancos, corrida, confianza, corralon, trauma social y crisis de representación;
+- ayuda a leer por que la relación del argentino con el sistema financiero cambia de forma duradera;
 - funciona como nodo de cruce entre [[Crisis de 2001]], [[Domingo Cavallo]], [[FMI]] y [[Fernando de la Rua]].
 
 ## Que cambio
@@ -34,15 +35,15 @@ En TL, el corralito importa porque condensa en un gesto concreto la ruptura de c
 
 ### 2. Crisis financiera convertida en trauma cultural
 
-Su valor analitico aumenta cuando se observa que el corralito no fue solo una medida tecnica. Tambien reprogramo practicas de ahorro, miedo bancario y sentido comun economico durante decadas.
+Su valor analitico aumenta cuando se observa que el corralito no fue solo una medida tecnica. También reprogramo practicas de ahorro, miedo bancario y sentido comun económico durante decadas.
 
-### 3. Tecnologia de emergencia y quiebre politico
+### 3. Tecnología de emergencia y quiebre político
 
-Leido junto con [[Crisis de 2001]] y [[Fernando de la Rua]], el nodo ayuda a ver como una medida pensada para contener una corrida puede acelerar el colapso politico cuando destruye la ultima capa de legitimidad cotidiana.
+Leido junto con [[Crisis de 2001]] y [[Fernando de la Rua]], el nodo ayuda a ver como una medida pensada para contener una corrida puede acelerar el colapso político cuando destruye la ultima capa de legitimidad cotidiana.
 
 ### 4. Puente entre finanzas y memoria popular
 
-Tambien importa porque sirve como traductor entre conceptos complejos de deuda o liquidez y una memoria social muy concreta que sigue operando sobre cualquier crisis posterior.
+También importa porque sirve como traductor entre conceptos complejos de deuda o liquidez y una memoria social muy concreta que sigue operando sobre cualquier crisis posterior.
 
 ## Conexiones
 

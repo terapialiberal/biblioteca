@@ -6,6 +6,7 @@ estado: activo
 aliases: ["TSMC (Taiwan Semiconductor)", "Taiwan Semiconductor Manufacturing Company"]
 tags: [tsmc, taiwan, semiconductores, chips, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # TSMC

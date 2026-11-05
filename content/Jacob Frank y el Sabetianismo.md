@@ -7,6 +7,7 @@ tags: [frank, inversin, jacob, sabetianismo]
 tier_primario: "a"
 nivel_evidencia: "alto"
 publish: true
+sin_fuente: true
 ---
 
 # Jacob Frank Y El Sabetianismo (La Inversión)

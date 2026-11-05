@@ -6,6 +6,7 @@ estado: activo
 aliases: ["chips", "semiconductores"]
 tags: [chips, semiconductores, ia, defensa, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # chips

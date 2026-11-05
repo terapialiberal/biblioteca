@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [china, cobalto, cuarta, sangre]
 publish: true
+sin_fuente: true
 ---
 
 # Cobalto De Sangre

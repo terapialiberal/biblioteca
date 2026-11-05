@@ -17,9 +17,9 @@ publish: true
 
 **Quines son?** La familia duea del imperio de licor **Seagram**. Edgar Bronfman Sr. fue presidente del **World Jewish Congress (WJC)** por dcadas.
 
-**Por qu importan?** Su fortuna original (Sam Bronfman) proviene del **contrabando de alcohol** durante la Ley Seca americana, en alianza con la mafia de Meyer Lansky. Luego lavaron su imagen y dinero para convertirse en la "realeza sionista" de Norteamrica, usando el WJC para influir en poltica exterior. Conectan el crimen organizado con la alta diplomacia.
+**Por qué importan?** Su fortuna original (Sam Bronfman) proviene del **contrabando de alcohol** durante la Ley Seca americana, en alianza con la mafia de Meyer Lansky. Luego lavaron su imagen y dinero para convertirse en la "realeza sionista" de Norteamrica, usando el WJC para influir en política exterior. Conectan el crimen organizado con la alta diplomacia.
 
-## Anlisis (Tiers)
+## Análisis (Tiers)
 
 ### Tier A (Poder Real)
 
@@ -30,7 +30,7 @@ publish: true
 
 - **Orgenes Mafiosos:** Sam Bronfman ("Mr. Sam") abasteci a Al Capone y otras familias. Compr respetablidad casando a sus hijos con la nobleza financiera.
 - **NXIVM:** Clare y Sara Bronfman (hijas de Edgar) financiaron con \150 millones al culto sexual/esclavista de Keith Raniere. Usaron el dinero de la familia para acosar legalmente a enemigos del culto.
-- **Epstein link:** A travs del Mega Group y Wexner.
+- **Epstein link:** A través del Mega Group y Wexner.
 
 ### Tier C (Narrativa)
 

@@ -17,7 +17,7 @@ Import crudo estabilizado. La nota tenia contenido util pero seguia en `sin-proc
 
 ## Resumen util
 
-La pieza compila citas y argumentos para sostener la tesis de una gobernanza global cada vez mas explicita, enlazando elites politicas, discursos tecnocraticos, control poblacional y transferencia de soberania a escalas supranacionales.
+La pieza compila citas y argumentos para sostener la tesis de una gobernanza global cada vez mas explicita, enlazando elites políticas, discursos tecnocraticos, control poblacional y transferencia de soberania a escalas supranacionales.
 
 ## Nota operativa
 

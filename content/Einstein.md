@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Albert Einstein"]
 tags: [einstein, fisica, ciencia, nuclear, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Einstein

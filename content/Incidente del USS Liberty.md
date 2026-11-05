@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [guerra, incidente, liberty, lyndon]
 publish: true
+sin_fuente: true
 ---
 
 # Incidente Del USS Liberty

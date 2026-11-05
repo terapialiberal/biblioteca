@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [adebayo, blackrock, ogunlesi]
 publish: true
+sin_fuente: true
 ---
 
 # [[Adebayo Ogunlesi]]
@@ -14,7 +15,7 @@ publish: true
 **Clasificacin:** Tier A (Conector del Rimland)\
 **Roles Clave:** Fundador de Global Infrastructure Partners (GIP), Miembro del Board de [[BlackRock]], Miembro del Board de [[OpenAI]] (desde 2025).
 
-## ?? ANLISIS FORENSE
+## ?? ANÁLISIS FORENSE
 
 Adebayo Ogunlesi no es un banquero tradicional; es el arquitecto del control fsico de la infraestructura global. Tras la adquisicin de GIP por parte de [[BlackRock]] en octubre de 2024 (\12.5B), Ogunlesi se consolid como el brazo operativo de [[Larry Fink]] para la captura de activos reales.
 
@@ -25,11 +26,11 @@ Adebayo Ogunlesi no es un banquero tradicional; es el arquitecto del control fsi
 
 ### Cui Bono
 
-Ogunlesi facilita que capitales como el de [[BlackRock]] capturen "choke points" estratgicos (puertos panameos, energa en UK, aeropuertos) bajo una gestin privada que elude el escrutinio pblico soberano.
+Ogunlesi facilita que capitales como el de [[BlackRock]] capturen "choke points" estratgicos (puertos panameos, energa en UK, aeropuertos) bajo una gestin privada que elude el escrutinio público soberano.
 
 ## ??? MAPA DE PODER
 
-- **Conector Tier A:** Nexo entre el capital de inversin ([[BlackRock]]) y la gobernanza tecnolgica ([[OpenAI]]).
+- **Conector Tier A:** Nexo entre el capital de inversin ([[BlackRock]]) y la gobernanza tecnológica ([[OpenAI]]).
 - **Rimland:** Especialista en logstica y activos de transporte que definen la fluidez del comercio global.
 
 ## ?? CONEXIONES

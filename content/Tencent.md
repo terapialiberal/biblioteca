@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Tencent (Tecnología China)"]
 tags: [tencent, china, wechat, plataforma, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Tencent

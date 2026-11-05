@@ -7,23 +7,24 @@ nivel_evidencia: medio
 estado: activo
 tags: [northrop-grumman, defensa, stealth, espacio, contratistas, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Northrop Grumman
 
 ## BLUF
 
-[[Northrop Grumman]] importa en TL como contratista de defensa especializado en plataformas furtivas, sistemas espaciales y arquitectura de guerra de alta complejidad. Su utilidad analitica esta en mostrar la capa menos visible del [[Complejo Militar-Industrial]]: programas negros, sensores, dominio del espectro y capacidad de proyeccion sin exposicion publica proporcional.
+[[Northrop Grumman]] importa en TL como contratista de defensa especializado en plataformas furtivas, sistemas espaciales y arquitectura de guerra de alta complejidad. Su utilidad analitica esta en mostrar la capa menos visible del [[Complejo Militar-Industrial]]: programas negros, sensores, dominio del espectro y capacidad de proyección sin exposición publica proporcional.
 
 ## Por que importa en TL
 
-- ayuda a leer la militarizacion de la invisibilidad: stealth, ISR, satelites y mando integrado;
-- conecta presupuesto negro, superioridad tecnologica y dependencia estatal de contratistas con barreras de salida altisimas;
+- ayuda a leer la militarización de la invisibilidad: stealth, ISR, satelites y mando integrado;
+- conecta presupuesto negro, superioridad tecnológica y dependencia estatal de contratistas con barreras de salida altisimas;
 - sirve para seguir el puente entre defensa clasica, guerra algoritmica y vigilancia de teatro global.
 
 ## Que cambio
 
-La nota venia en formato manifiesto viejo, con tipo incorrecto (`persona`) y lenguaje demasiado cerrado. Se recompila como nodo canonico del corredor contratistas / innovacion militar / programas opacos.
+La nota venia en formato manifiesto viejo, con tipo incorrecto (`persona`) y lenguaje demasiado cerrado. Se recompila como nodo canonico del corredor contratistas / innovación militar / programas opacos.
 
 ## Lectura TL
 
@@ -33,15 +34,15 @@ Northrop Grumman importa porque ocupa una franja del aparato militar que suele q
 
 ### 2. Complejidad que genera dependencia
 
-En TL, su peso no se explica solo por facturacion sino por el tipo de programas que concentra: caros, largos, tecnicamente dificiles de reemplazar y muchas veces asociados a disuasion, inteligencia o superioridad inicial de combate.
+En TL, su peso no se explica solo por facturación sino por el tipo de programas que concentra: caros, largos, tecnicamente dificiles de reemplazar y muchas veces asociados a disuasión, inteligencia o superioridad inicial de combate.
 
 ### 3. Guerra invisibilizada
 
-Su valor analitico crece cuando se la conecta con la mutacion de la guerra hacia infraestructura menos visible: observacion persistente, coordinacion multidominio y capacidad de ataque o vigilancia con baja firma publica.
+Su valor analitico crece cuando se la conecta con la mutación de la guerra hacia infraestructura menos visible: observación persistente, coordinación multidominio y capacidad de ataque o vigilancia con baja firma publica.
 
-### 4. Presupuesto negro y frontera tecnologica
+### 4. Presupuesto negro y frontera tecnológica
 
-No hace falta hiperdimensionarla para entender su lugar. Basta verla como una pieza fuerte del ecosistema que absorbe gasto estrategico, traduce investigacion militar en hardware critico y vuelve opacos segmentos enteros del poder material estadounidense.
+No hace falta hiperdimensionarla para entender su lugar. Basta verla como una pieza fuerte del ecosistema que absorbe gasto estratégico, traduce investigación militar en hardware critico y vuelve opacos segmentos enteros del poder material estadounidense.
 
 ## Con que conecta
 

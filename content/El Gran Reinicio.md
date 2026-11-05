@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [cbdc, gran, reinicio, reset]
 publish: true
+sin_fuente: true
 ---
 
 # The Great Reset (El Gran Reinicio)

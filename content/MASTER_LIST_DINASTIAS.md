@@ -4,6 +4,7 @@ titulo: "Master List Expandido: Dinastias y Oligarcas (Tier A/B)"
 tipo: moc
 estado: activo
 tags: [dinastias, oligarcas, tier-a, tier-b, mapa-de-poder, tl-intel-v3]
+sin_fuente: true
 ---
 
 # Master List Expandido: Dinastias y Oligarcas

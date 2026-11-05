@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [allen, edward, golpe, guatemala]
 publish: true
+sin_fuente: true
 ---
 
 # Golpe En Guatemala (1954)

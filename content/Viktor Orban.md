@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [opositor, orban, tisza, viktor]
 publish: true
+sin_fuente: true
 ---
 
 # [[Viktor Orban - El Opositor Controlado]]

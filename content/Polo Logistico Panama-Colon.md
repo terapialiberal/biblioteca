@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [blackrock, colon, logistico, panam]
 publish: true
+sin_fuente: true
 ---
 
 # [[Polo Logístico Panamá-Colón]]

@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Despoblacion", "Despoblación y Agenda 2030"]
 tags: [despoblacion, poblacion, malthus, biopolitica, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Despoblación

@@ -6,6 +6,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [geopolitica, esoterismo, rimland, astrologia]
 publish: true
+sin_fuente: true
 ---
 
 # Astro-Cartografía del Rimland (V.3)

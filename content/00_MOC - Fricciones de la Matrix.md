@@ -6,6 +6,7 @@ fecha: 2026-04-07
 estado: activo
 moc_canonico: [[00_MOC - Base de Conocimiento]]
 tags: [moc, fricciones, fallas-del-sistema, resistencia, tl-intel-v3]
+sin_fuente: true
 ---
 
 # MOC - Fricciones de la Matrix

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [bandung, mundiales, prebisch, sistemas]
 publish: true
+sin_fuente: true
 ---
 
 # Teoría De Sistemas Mundiales

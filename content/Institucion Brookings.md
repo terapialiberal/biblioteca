@@ -1,5 +1,5 @@
 ---
-titulo: Institucion Brookings
+titulo: Institución Brookings
 tipo: entidad
 fecha: 2026-04-18
 tier_primario: b
@@ -8,9 +8,10 @@ estado: activo
 aliases: ["Brookings Institution", "Institución Brookings"]
 tags: [brookings, think-tank, washington, fundaciones, deep-state, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
-# Institucion Brookings
+# Institución Brookings
 
 ## BLUF
 

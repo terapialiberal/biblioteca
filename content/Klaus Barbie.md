@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [estado, klaus, profundo, proyecto]
 publish: true
+sin_fuente: true
 ---
 
 # Klaus Barbie: El Mercenario De La Sangre Del Estado Profundo

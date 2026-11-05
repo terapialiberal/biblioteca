@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [accord, acuerdo, guerra, naciones]
 publish: true
+sin_fuente: true
 ---
 
 # Plaza Accord (1985)

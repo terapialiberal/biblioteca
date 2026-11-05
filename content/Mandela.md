@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Nelson Mandela"]
 tags: [mandela, sudafrica, apartheid, reconciliacion, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Mandela

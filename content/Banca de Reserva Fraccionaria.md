@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Reserva Fraccionaria", "Banca de Reserva Fraccionaria"]
 tags: [reserva-fraccionaria, banca, dinero, deuda, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Banca de Reserva Fraccionaria

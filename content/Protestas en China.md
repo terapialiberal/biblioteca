@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [blancos, crdito, panptico, protestas]
 publish: true
+sin_fuente: true
 ---
 
 # Protestas en China: la Revolución de los Papeles Blancos

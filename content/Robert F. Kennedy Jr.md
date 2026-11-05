@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [contra, jeffrey, matrix, robert]
 publish: true
+sin_fuente: true
 ---
 
 # Robert F. Kennedy Jr.: el Caballo de Troya contra la Matrix Sanitaria

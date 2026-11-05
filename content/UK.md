@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Reino Unido", "United Kingdom"]
 tags: [uk, reino-unido, city-londres, inteligencia, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # UK

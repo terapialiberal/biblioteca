@@ -8,23 +8,24 @@ tags: [tabernaculo, simbolismo, arquitectura-sacra, ritual, tl-intel-v3]
 capa_tema: c
 nivel_evidencia: medio
 publish: true
+sin_fuente: true
 ---
 
 # Simbologia del Tabernaculo
 
 ## BLUF
 
-La simbologia del Tabernaculo importa como modelo de espacio ritual: separacion, acceso graduado, centro sagrado y administracion de presencia.
+La simbologia del Tabernaculo importa como modelo de espacio ritual: separación, acceso graduado, centro sagrado y administración de presencia.
 
 ## Que es
 
-El Tabernaculo biblico puede leerse como arquitectura movil de culto. Su organizacion espacial distingue exterior, umbral, recinto, velo y lugar de maxima sacralidad.
+El Tabernaculo biblico puede leerse como arquitectura movil de culto. Su organización espacial distingue exterior, umbral, recinto, velo y lugar de maxima sacralidad.
 
 ## Por que importa en TL
 
 - conecta arquitectura, jerarquia y acceso restringido;
 - permite comparar templos, bancos centrales, parlamentos y espacios de poder;
-- ayuda a leer ritualizacion del centro.
+- ayuda a leer ritualización del centro.
 
 ## Lectura TL
 

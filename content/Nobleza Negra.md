@@ -5,6 +5,7 @@ aliases: ["Black Nobility"]
 tags: [concepto, aristocracia, vaticano, roma]
 tipo: concepto
 capa_tema: c
+sin_fuente: true
 ---
 
 # Nobleza Negra

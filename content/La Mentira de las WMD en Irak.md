@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [colin, irak, mentira, pnac]
 publish: true
+sin_fuente: true
 ---
 
 # La Mentira De Las WMD En Irak: La Fabricación De La Realidad Bélica

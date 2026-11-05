@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [edward, griffin, norman, reserva]
 publish: true
+sin_fuente: true
 ---
 
 # G. Edward Griffin

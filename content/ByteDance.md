@@ -5,6 +5,7 @@ aliases: ["ByteDance"]
 tags: [empresa, china, tiktok, redes-sociales]
 tipo: empresa
 tier_primario: B
+sin_fuente: true
 ---
 
 # ByteDance

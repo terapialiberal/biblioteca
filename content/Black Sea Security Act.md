@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [black, nato, security]
 publish: true
+sin_fuente: true
 ---
 
 # [[Black Sea Security Act]]

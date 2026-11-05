@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [banco, estatal, operativo, sistema]
 publish: true
+sin_fuente: true
 ---
 
 # Napoleón Bonaparte: El Instalador Del Sistema Operativo Estatal

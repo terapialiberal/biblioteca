@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [concilio, gnosticismo, nicea, vatican]
 publish: true
+sin_fuente: true
 ---
 
 # Concilio De Nicea

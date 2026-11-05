@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Centers for Disease Control and Prevention", "CDC (Centers for Disease Control and Prevention)"]
 tags: [cdc, salud-publica, bioseguridad, vigilancia, gobernanza-sanitaria, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # CDC
@@ -40,13 +41,13 @@ En TL, su relevancia crece cuando se observa cómo brotes, métricas y protocolo
 
 También sirve para leer cómo organismos nacionales se acoplan con agencias regulatorias, medios y actores globales durante momentos de alta coordinación narrativa.
 
-### 4. Vigilancia como infraestructura de decision
+### 4. Vigilancia como infraestructura de decisión
 
 La nota gana más fuerza cuando se la conecta con [[Vigilancia Biologica]] y [[World Health Organization]]. Ahí el CDC deja de ser solo agencia sanitaria doméstica y aparece como sensor, traductor de riesgo y nodo de activación dentro de una red más amplia.
 
-### 5. Recomendacion tecnica como disciplina social
+### 5. Recomendación tecnica como disciplina social
 
-Leido junto con [[Safe and Effective]] y [[FDA]], el CDC deja de ser solo productor de lineamientos y pasa a verse como actor que convierte indicadores, lenguaje epidemiologico y urgencia sanitaria en conducta esperada de la poblacion.
+Leido junto con [[Safe and Effective]] y [[FDA]], el CDC deja de ser solo productor de lineamientos y pasa a verse como actor que convierte indicadores, lenguaje epidemiologico y urgencia sanitaria en conducta esperada de la población.
 
 ## Con que conecta
 

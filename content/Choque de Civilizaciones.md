@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [choque, civilizaciones, gladio, plan]
 publish: true
+sin_fuente: true
 ---
 
 # Choque De Civilizaciones

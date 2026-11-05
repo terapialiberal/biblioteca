@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [christian, fuellmich, reiner, reiner-20fuellmich]
 publish: true
+sin_fuente: true
 ---
 
 # Reiner Fuellmich: el Invitado del Nuremberg 2.0

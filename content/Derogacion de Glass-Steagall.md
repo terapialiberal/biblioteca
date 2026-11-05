@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [bill, citigroup, derogacin, glass]
 publish: true
+sin_fuente: true
 ---
 
 # Derogación De Glass-Steagall

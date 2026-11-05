@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [andreas, atentado, city, oklahoma]
 publish: true
+sin_fuente: true
 ---
 
 # Atentado De Oklahoma City (1995)

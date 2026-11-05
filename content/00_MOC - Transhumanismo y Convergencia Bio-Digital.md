@@ -6,6 +6,7 @@ fecha: 2026-04-21
 estado: activo
 moc_canonico: [[00_MOC - Base de Conocimiento]]
 tags: [moc, transhumanismo, bio-digital, identidad, control, tl-intel-v3]
+sin_fuente: true
 ---
 
 # MOC - Transhumanismo y Convergencia Bio-Digital
@@ -43,12 +44,12 @@ tags: [moc, transhumanismo, bio-digital, identidad, control, tl-intel-v3]
 - [[Precision Medicine]]
 - [[Bio-Identidad Digital]]
 
-## Como leer el corredor de integracion profunda
+## Como leer el corredor de integración profunda
 
-- [[Precision Medicine]] aporta la legitimacion clinica y actuarial;
-- [[Internet de los Cuerpos]] aporta la capa de sensado y retroalimentacion continua;
+- [[Precision Medicine]] aporta la legitimación clinica y actuarial;
+- [[Internet de los Cuerpos]] aporta la capa de sensado y retroalimentación continua;
 - [[Neuralink]] abre la interfaz neuro-digital explicita;
-- [[Internet of Bio-Nano Things]] marca el extremo de miniaturizacion e intervencion intracorporal.
+- [[Internet of Bio-Nano Things]] marca el extremo de miniaturización e intervención intracorporal.
 
 ## Nodos Relacionados
 

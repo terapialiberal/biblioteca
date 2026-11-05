@@ -7,6 +7,7 @@ tags: [astrologa, fraternidad, ordo, saturno]
 capa_tema: "b"
 nivel_evidencia: "alto"
 publish: true
+sin_fuente: true
 ---
 
 # Fraternidad De Saturno (Fraternitas Saturni)

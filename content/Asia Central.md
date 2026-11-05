@@ -5,13 +5,14 @@ aliases: ["Asia Central"]
 tags: [geografia, region]
 type: alias-note
 created: 2026-04-29
+sin_fuente: true
 ---
 
 # Asia Central
 
 > Nota de cobertura geogrÃ¡fica. Creada por batch de aliases TL.
 
-**Referido desde (3 notas):** 05\_Fuentes/03\_Compiladas/EE.UU., Rusia, drogas, petroleo y guerra la estrategia de dominacion....
+**Referido desde (3 notas):** 05\_Fuentes/03\_Compiladas/EE.UU., Rusia, drogas, petróleo y guerra la estrategia de dominación....
 
 ## Para desarrollar
 

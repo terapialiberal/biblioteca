@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Crédito Social", "Sistema de Crédito Social Chino"]
 tags: [social-credit-score, vigilancia, china, scoring, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Social Credit Score

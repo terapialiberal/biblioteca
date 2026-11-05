@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [carlyle, familia, george, group]
 publish: true
+sin_fuente: true
 ---
 
 # Carlyle Group (The Carlyle Group)

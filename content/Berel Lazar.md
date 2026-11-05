@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [arquitecto, berel, lazar, vladimir]
 publish: true
+sin_fuente: true
 ---
 
 # Berel Lazar: El Arquitecto Del Eje Moscú-Chabad

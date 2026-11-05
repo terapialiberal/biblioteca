@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [alimentarius, codex, monsanto, organizacin]
 publish: true
+sin_fuente: true
 ---
 
 # Codex Alimentarius

@@ -8,6 +8,7 @@ estado: activo
 aliases: ["QE", "Quantitative Easing (Expansión Monetaria)", "Expansión cuantitativa"]
 tags: [qe, reserva-federal, liquidez, bonos, control-financiero, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Quantitative Easing

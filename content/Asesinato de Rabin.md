@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [acuerdos, asesinato, benjamin, rabin]
 publish: true
+sin_fuente: true
 ---
 
 # Asesinato De Rabin

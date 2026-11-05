@@ -4,6 +4,7 @@ tipo: lugar
 titulo: Kosovo
 estado: activo
 tags: [balcanes, otan, crimen-organizado, geopolitica, tl-intel-v3]
+sin_fuente: true
 ---
 
 # Kosovo

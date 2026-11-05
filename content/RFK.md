@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Robert F. Kennedy", "Robert Kennedy"]
 tags: [rfk, kennedy, asesinato, eeuu, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # RFK

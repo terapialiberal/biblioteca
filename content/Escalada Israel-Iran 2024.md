@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: ["2024", benjamin, irn, israel]
 publish: true
+sin_fuente: true
 ---
 
 # Escalada Israel-Irán 2024

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [epstein, estado, ladra, omisin]
 publish: true
+sin_fuente: true
 ---
 
 # El Perro Que No Ladra (Análisis De Omisión)

@@ -7,6 +7,7 @@ tags: [cine, eyes, ocultista, they]
 tier_primario: "b"
 nivel_evidencia: "alto"
 publish: true
+sin_fuente: true
 ---
 
 # Cine Ocultista (Análisis De Películas)

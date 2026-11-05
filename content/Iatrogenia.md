@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [iatrogenia, salud, dano-medico, intervencion, sistema-sanitario, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Iatrogenia

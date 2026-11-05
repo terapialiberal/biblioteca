@@ -8,17 +8,18 @@ estado: activo
 aliases: ["Event 201"]
 tags: [event-201, bioseguridad, simulacro, pandemia, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Evento 201
 
 ## BLUF
 
-[[Evento 201]] importa en TL como simulacro de pandemia que sirve para leer coordinacion previa entre salud global, comunicacion de crisis, actores corporativos y gestion narrativa. Su valor analitico esta menos en "probar" un plan total y mas en mostrar que tipo de respuestas ya estaban siendo pensadas y ensayadas.
+[[Evento 201]] importa en TL como simulacro de pandemia que sirve para leer coordinación previa entre salud global, comunicación de crisis, actores corporativos y gestion narrativa. Su valor analitico esta menos en "probar" un plan total y mas en mostrar que tipo de respuestas ya estaban siendo pensadas y ensayadas.
 
 ## Por que importa en TL
 
-- conecta preparacion pandemica, management narrativo y coordinacion multisectorial;
+- conecta preparación pandemica, management narrativo y coordinación multisectorial;
 - ayuda a leer como ciertas respuestas pueden preconfigurarse antes de una crisis real;
 - funciona como punto de cruce entre [[Fundacion Bill y Melinda Gates]], [[WEF]] y el ecosistema de bioseguridad.
 
@@ -34,15 +35,15 @@ Evento 201 importa porque muestra que preocupaciones, protocolos y actores ya es
 
 ### 2. La capa narrativa pesa tanto como la sanitaria
 
-En TL, uno de los aspectos mas relevantes es que el ejercicio no trato solo de hospitales o vacunas, sino tambien de comunicacion, censura, plataformas y coordinacion del mensaje.
+En TL, uno de los aspectos mas relevantes es que el ejercicio no trato solo de hospitales o vacunas, sino también de comunicación, censura, plataformas y coordinación del mensaje.
 
-### 3. Preparacion como infraestructura de poder
+### 3. Preparación como infraestructura de poder
 
 No hace falta saltar directo a causalidad total. Alcanza con ver que estos ejercicios consolidan redes, reflejos institucionales y marcos de legitimidad que luego pueden activarse en crisis reales.
 
 ### 4. Nodo de entrada al corredor bioseguridad
 
-Leido junto con [[Fundacion Bill y Melinda Gates]], [[CEPI]], [[World Health Organization]] y [[Tratado de Pandemias OMS]], Evento 201 funciona como pieza de prefiguracion del mismo ecosistema.
+Leido junto con [[Fundacion Bill y Melinda Gates]], [[CEPI]], [[World Health Organization]] y [[Tratado de Pandemias OMS]], Evento 201 funciona como pieza de prefiguración del mismo ecosistema.
 
 ## Conexiones
 

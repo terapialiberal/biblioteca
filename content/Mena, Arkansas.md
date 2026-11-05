@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [arkansas, bill, mena, puerto]
 publish: true
+sin_fuente: true
 ---
 
 # Mena, Arkansas: El Puerto Seco De La Narco-Inteligencia (TL V.3)

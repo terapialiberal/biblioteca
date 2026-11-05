@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: ["2012", covid, juegos, primado]
 publish: true
+sin_fuente: true
 ---
 
 # Juegos Olímpicos Londres 2012: El Ritual De Primado Global

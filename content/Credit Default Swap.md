@@ -8,6 +8,7 @@ estado: activo
 aliases: ["CDS", "Credit Default Swaps", "Seguro contra default"]
 tags: [cds, derivados, default, deuda, riesgo, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Credit Default Swap

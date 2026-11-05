@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [bronfman, edgar, mega, meyer]
 publish: true
+sin_fuente: true
 ---
 
 # Edgar Bronfman

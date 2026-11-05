@@ -1,14 +1,15 @@
 ---
-titulo: Operacion Condor
+titulo: Operación Condor
 tipo: evento
 fecha: 2026-04-22
 estado: activo
 aliases: ["Operación Condor", "Operación Condor: El Sindicato Del Crimen De Estado"]
 tags: [operacion-condor, terrorismo-de-estado, latinoamerica, cia, contrainsurgencia, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
-# Operacion Condor
+# Operación Condor
 
 ## BLUF
 
@@ -26,11 +27,11 @@ La nota seguía en formato legacy duro, con tiering forzado y una tesis demasiad
 
 ## Que es
 
-Operacion Condor nombra la coordinación entre servicios de inteligencia y regímenes militares del Cono Sur para vigilar, secuestrar, trasladar, torturar y eliminar opositores a escala transnacional durante los años 70 y 80.
+Operación Condor nombra la coordinación entre servicios de inteligencia y regímenes militares del Cono Sur para vigilar, secuestrar, trasladar, torturar y eliminar opositores a escala transnacional durante los años 70 y 80.
 
 ## Lectura TL
 
-### 1. Represion regionalizada
+### 1. Represión regionalizada
 
 Condor importa porque muestra que la violencia política no quedó contenida dentro de fronteras nacionales. El aparato represivo se volvió red y empezó a compartir información, prisioneros, métodos y cobertura política.
 

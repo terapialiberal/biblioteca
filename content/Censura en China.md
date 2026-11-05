@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Great Firewall", "Gran Cortafuegos"]
 tags: [china, censura, internet, control, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Censura en China

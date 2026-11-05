@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [tornado-cash, privacidad, ethereum, ofac, protocolo, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Tornado Cash

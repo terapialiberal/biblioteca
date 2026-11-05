@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [bitcoin, foundation, fundacin, jeffrey]
 publish: true
+sin_fuente: true
 ---
 
 # Bitcoin Foundation

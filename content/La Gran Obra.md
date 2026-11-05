@@ -8,27 +8,28 @@ tags: [gran-obra, alquimia, transformacion, simbolismo, tl-intel-v3]
 capa_tema: c
 nivel_evidencia: medio
 publish: true
+sin_fuente: true
 ---
 
 # La Gran Obra
 
 ## BLUF
 
-La Gran Obra es el horizonte alquimico de transformacion total: materia, sujeto y mundo llevados a una forma superior.
+La Gran Obra es el horizonte alquimico de transformación total: materia, sujeto y mundo llevados a una forma superior.
 
 ## Que es
 
-En alquimia, Magnum Opus nombra el proceso completo de transmutacion. En TL funciona como matriz simbolica para proyectos de rediseño humano, social o civilizatorio.
+En alquimia, Magnum Opus nombra el proceso completo de transmutación. En TL funciona como matriz simbolica para proyectos de rediseño humano, social o civilizatorio.
 
 ## Por que importa en TL
 
-- conecta transhumanismo, reset, purga e ingenieria social;
-- ayuda a leer proyectos que prometen regeneracion total;
-- advierte contra utopias que justifican sacrificio presente por perfeccion futura.
+- conecta transhumanismo, reset, purga e ingeniería social;
+- ayuda a leer proyectos que prometen regeneración total;
+- advierte contra utopias que justifican sacrificio presente por perfección futura.
 
 ## Lectura TL
 
-Toda Gran Obra politica pregunta quien es el alquimista y quien es la materia prima. Si el Tier C es material de laboratorio, la promesa de perfeccion es amenaza.
+Toda Gran Obra política pregunta quien es el alquimista y quien es la materia prima. Si el Tier C es material de laboratorio, la promesa de perfección es amenaza.
 
 ## Conexiones
 
@@ -40,4 +41,4 @@ Toda Gran Obra politica pregunta quien es el alquimista y quien es la materia pr
 
 ## Nivel de evidencia
 
-Medio como simbolo historico. Medio-bajo como lente sobre proyectos modernos sin evidencia directa.
+Medio como simbolo histórico. Medio-bajo como lente sobre proyectos modernos sin evidencia directa.

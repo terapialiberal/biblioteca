@@ -3,6 +3,7 @@ publish: true
 titulo: Mu Y Atlántida (Iteraciones Del Sistema V1.0 Y TL V.3)
 tipo: concepto
 estado: activo
+sin_fuente: true
 ---
 
 # Mu Y Atlántida (Iteraciones Del Sistema V1.0 Y TL V.3)

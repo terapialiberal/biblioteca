@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Libra / Diem", "Libra / Diem: El Intento De Golpe De Estado De Silicon Valley"]
 tags: [libra, diem, cbdc, facebook, soberania-monetaria, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Libra - Diem

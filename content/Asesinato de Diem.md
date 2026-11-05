@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [asesinato, diem]
 publish: true
+sin_fuente: true
 ---
 
 # Asesinato De Diem

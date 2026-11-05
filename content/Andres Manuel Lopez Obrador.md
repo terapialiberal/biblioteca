@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [foro, lpez, manuel, morena]
 publish: true
+sin_fuente: true
 ---
 
 # Andrés Manuel López Obrador

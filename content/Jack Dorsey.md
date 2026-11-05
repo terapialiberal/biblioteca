@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [bitcoin, dorsey, shaman, verdugo]
 publish: true
+sin_fuente: true
 ---
 
 # Jack Dorsey: El Verdugo Arrepentido Y El Shaman De La Red

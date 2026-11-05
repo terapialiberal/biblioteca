@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [asesinato, estado, reserva, usds]
 publish: true
+sin_fuente: true
 ---
 
 # Estados Unidos Estado Profundo (USDS)

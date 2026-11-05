@@ -7,6 +7,7 @@ tags: [arquitectura, bancos-centrales, poder-visual, tecnocracia, tl-intel-v3]
 capa_tema: b
 nivel_evidencia: medio
 publish: true
+sin_fuente: true
 ---
 
 # Arquitectura de Bancos Centrales

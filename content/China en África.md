@@ -4,6 +4,7 @@ tipo: corredor
 titulo: China en África
 estado: activo
 tags: [china, africa, infraestructura, tl-intel-v3]
+sin_fuente: true
 ---
 
 # China en África

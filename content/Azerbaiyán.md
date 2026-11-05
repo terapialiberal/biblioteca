@@ -5,6 +5,7 @@ aliases: ["Azerbaiyán"]
 tags: [pais, caucaso, petroleo, conflicto]
 tipo: pais
 tier_primario: C
+sin_fuente: true
 ---
 
 # Azerbaiyán

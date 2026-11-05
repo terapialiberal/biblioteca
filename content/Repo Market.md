@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Mercado repo", "Repurchase agreements", "Repos"]
 tags: [repo, liquidez, colateral, treasuries, control-financiero, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Repo Market

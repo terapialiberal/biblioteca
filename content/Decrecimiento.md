@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [agenda, club, decrecimiento, degrowth]
 publish: true
+sin_fuente: true
 ---
 
 # Decrecimiento (Degrowth)

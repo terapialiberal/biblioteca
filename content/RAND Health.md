@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [capital, crdito, health, humano]
 publish: true
+sin_fuente: true
 ---
 
 # RAND Health: la Ingeniería del Capital Humano

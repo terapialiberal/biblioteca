@@ -5,6 +5,7 @@ aliases: ["Maoísmo"]
 tags: [ideologia, comunismo, china, revolucion]
 tipo: concepto
 capa_tema: b
+sin_fuente: true
 ---
 
 # Maoísmo

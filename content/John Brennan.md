@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [barack, ejecutor, guerra, tecnocrtica]
 publish: true
+sin_fuente: true
 ---
 
 # John Brennan: El Ejecutor De La Guerra Tecnocrática

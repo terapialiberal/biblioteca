@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Banco Mundial (World Bank)", "World Bank"]
 tags: [deuda, desarrollo, infraestructura, organismo-internacional, ajuste, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Banco Mundial
@@ -18,8 +19,8 @@ publish: true
 
 ## Por que importa en TL
 
-- conecta deuda, infraestructura, consultoria, privatizacion y gobernanza internacional;
-- ayuda a leer el desarrollo financiado como vector de condicionamiento politico y economico;
+- conecta deuda, infraestructura, consultoria, privatización y gobernanza internacional;
+- ayuda a leer el desarrollo financiado como vector de condicionamiento político y económico;
 - funciona como nodo de cruce entre [[FMI]], [[BIS]] y megaproyectos de reforma estatal o territorial.
 
 ## Que cambio
@@ -30,7 +31,7 @@ La nota venia como ficha vieja, con encoding roto y tesis demasiado cerrada en u
 
 ### 1. Desarrollo como arquitectura de dependencia
 
-En TL, el Banco Mundial importa porque no solo presta para obras: tambien define marcos de reforma, criterios de eficiencia, consultores validos y prioridades de inversion que alteran la estructura del Estado receptor.
+En TL, el Banco Mundial importa porque no solo presta para obras: también define marcos de reforma, criterios de eficiencia, consultores validos y prioridades de inversión que alteran la estructura del Estado receptor.
 
 ### 2. Infraestructura y reordenamiento social
 
@@ -38,11 +39,11 @@ Su valor analitico aumenta cuando se observa que muchos proyectos no impactan so
 
 ### 3. Hermano funcional del FMI
 
-Leido junto con [[FMI]], el nodo ayuda a ver una division del trabajo: uno condiciona el frente macro y la estabilidad; el otro baja programas, obras y racionalidades de desarrollo que consolidan la misma orientacion.
+Leido junto con [[FMI]], el nodo ayuda a ver una división del trabajo: uno condiciona el frente macro y la estabilidad; el otro baja programas, obras y racionalidades de desarrollo que consolidan la misma orientación.
 
 ### 4. Tecnocracia con retorica humanitaria
 
-Tambien importa porque muestra como la legitimidad moral del "desarrollo" puede servir para avanzar reformas estructurales de alto impacto sin presentarlas abiertamente como imposicion geopolitica.
+También importa porque muestra como la legitimidad moral del "desarrollo" puede servir para avanzar reformas estructurales de alto impacto sin presentarlas abiertamente como imposición geopolitica.
 
 ## Conexiones
 

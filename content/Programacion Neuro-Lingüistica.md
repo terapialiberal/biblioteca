@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [edward, lingstica, neuro, poltica]
 publish: true
+sin_fuente: true
 ---
 
 # Programación Neuro-Lingüística (Política): El Bypass Crítico

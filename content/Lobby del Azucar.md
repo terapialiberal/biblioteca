@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Lobby Del Azucar (Big Sugar): El Fraude Nutricional Del Siglo"]
 tags: [azucar, nutricion, lobby, salud-publica, captura-cientifica, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Lobby del Azucar

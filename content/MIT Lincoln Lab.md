@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [acadmica, darpa, fbrica, lincoln]
 publish: true
+sin_fuente: true
 ---
 
 # MIT Lincoln Lab: La Fábrica De Armas Académica

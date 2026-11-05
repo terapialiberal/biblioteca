@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [crimson-contagion, simulacion-pandemia, preparacion-pandemica, respuesta-gubernamental, bioseguridad, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Crimson Contagion

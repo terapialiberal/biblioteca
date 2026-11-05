@@ -5,6 +5,7 @@ aliases: ["Bermudas"]
 tags: [jurisdiccion, offshore, paraiso-fiscal, reaseguros]
 tipo: jurisdiccion
 capa_tema: b
+sin_fuente: true
 ---
 
 # Bermudas

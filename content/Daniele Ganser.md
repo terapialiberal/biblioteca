@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [daniele, ganser, operacin, otan]
 publish: true
+sin_fuente: true
 ---
 
 # Daniele Ganser

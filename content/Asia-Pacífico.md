@@ -25,7 +25,7 @@ Bloque donde cinco cadenas se cruzan: chips partidos por geografia, controles BI
 
 - BIS en oleadas: oct-2022 (chips avanzados y equipos a RPC), oct-2023 (umbral de densidad, 13 entidades), dic-2024 (24 equipos, software, **HBM**, 140 entidades), dic-2025 (foundries, 16 entidades).
   https://www.bis.gov/press-release/commerce-strengthens-export-controls-restrict-chinas-capability-produce-advanced-semiconductors-military
-- [[China]] responde: controles galio/germanio (ago-2023; produce ~90% del galio, ~60% del germanio) y **prohibicion a [[Estados Unidos]]** de galio/germanio/antimonio (dic-2024). Efecto practico limitado (exportaciones a USA ya en cero), valor simbolico alto; patron repetido (tierras raras a [[Japón]] 2010).
+- [[China]] responde: controles galio/germanio (ago-2023; produce ~90% del galio, ~60% del germanio) y **prohibición a [[Estados Unidos]]** de galio/germanio/antimonio (dic-2024). Efecto practico limitado (exportaciones a USA ya en cero), valor simbolico alto; patron repetido (tierras raras a [[Japón]] 2010).
   https://apnews.com/article/china-united-states-technology-germanium-gallium-aa6bffcb62ff95d7ae562da58139fe71
   https://www.reuters.com/markets/commodities/china-bans-exports-gallium-germanium-antimony-us-2024-12-03/
   https://www.csis.org/analysis/china-imposes-its-most-stringent-critical-minerals-export-restrictions-yet-amidst
@@ -34,7 +34,7 @@ Bloque donde cinco cadenas se cruzan: chips partidos por geografia, controles BI
 
 - Tenencias (TIC jun-2025): [[Japón]] 2,88B USD en valores USA (1,17B en Treasuries de largo plazo, 1,29B incluyendo corto plazo; primer tenedor extranjero); [[Corea del Sur]] 804kM (204kM Treasuries); [[China]] 1,28B (859kM, en baja desde 2014).
   https://ticdata.treasury.gov/Publish/shlptab1.html
-- Carry yen y unwind ago-2024: BOJ sube, yen +11% desde minimo de 38 anos, TOPIX -20% en 3 dias, VIX a niveles COVID. Cortos especulativos ~2B yenes (~14kM USD); OTC estimado ~160kM USD; reclamos bancarios en yenes +80B (~500kM USD).
+- Carry yen y unwind ago-2024: BOJ sube, yen +11% desde minimo de 38 anos, TOPIX -20% en 3 días, VIX a niveles COVID. Cortos especulativos ~2B yenes (~14kM USD); OTC estimado ~160kM USD; reclamos bancarios en yenes +80B (~500kM USD).
   https://www.bis.org/publications/bulletin-90-market-turbulence-and-carry-trade-unwind-august-2024.pdf
 - Riesgo 2026: el carry no se resolvio; si BOJ acelera o la Fed recorta menos, el unwind vuelve — y capitales de vuelta a [[Japón]]/Corea elevan yields USA. Ver ficha [[Japón]].
 
@@ -64,7 +64,7 @@ Bloque donde cinco cadenas se cruzan: chips partidos por geografia, controles BI
 - Demanda electrica de datacenters Asia-Pacifico: 2,2 GW (2024) -> 4,8 GW (2028), CAGR 21% (solo IA). Global datacenters: 460 TWh (2024) -> +1.000 TWh (2030).
   https://www.pwc.com/gx/en/asia-pacific/pwc-asia-pacific-data-centres-clean-energy-gap-2025.pdf
   https://www.iea.org/reports/energy-and-ai/energy-supply-for-ai
-- [[Japón]]: 7mo Plan Energetico (feb-2025) con GNL como transicion realista **mas alla de 2050** (importo 65 Mt en 2024; METI ve ~74 Mt en 2040) — los datacenters mandan.
+- [[Japón]]: 7mo Plan Energetico (feb-2025) con GNL como transición realista **mas alla de 2050** (importo 65 Mt en 2024; METI ve ~74 Mt en 2040) — los datacenters mandan.
   https://www.japantimes.co.jp/business/2025/06/20/companies/japan-seeks-lng-past-2050/
   Ver [[Formación de precios energéticos]], [[Cadena física de la IA]].
 

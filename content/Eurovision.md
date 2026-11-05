@@ -1,5 +1,5 @@
 ---
-titulo: Eurovision
+titulo: Eurovisión
 tipo: "evento"
 fecha: 2026-03-04
 capa_tema: "c"
@@ -7,12 +7,13 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [ingenieria-social, percepcion, cultura, propaganda, psicologica]
 publish: true
+sin_fuente: true
 ---
 
-# Eurovision: La Liturgia de la Ingeniería Social (V.3)
+# Eurovisión: La Liturgia de la Ingeniería Social (V.3)
 
 > [!IMPORTANT] AXIOMA 5: CRISIS Y HOMEOSTASIS
-> Eurovision no es un concurso musical; es una operación de **Gestión de la Percepción** diseñada para estandarizar valores culturales y morales en el Tier C europeo.
+> Eurovisión no es un concurso musical; es una operación de **Gestión de la Percepción** diseñada para estandarizar valores culturales y morales en el Tier C europeo.
 
 ## 🎭 Función Operativa (Tier B)
 
@@ -24,13 +25,13 @@ Administrado por la **EBU (European Broadcasting Union)**, el festival sirve com
 
 ## 📡 Rol en 2026
 
-En un contexto de guerra híbrida, Eurovision opera como la "Capa de Entretenimiento" de la **Estrategia de Seguridad Nacional** de la UE. Se utiliza para canalizar el odio o el amor hacia actores específicos (Ej: Israel vs bloque árabe) según la conveniencia del momento del Tier B.
+En un contexto de guerra híbrida, Eurovisión opera como la "Capa de Entretenimiento" de la **Estrategia de Seguridad Nacional** de la UE. Se utiliza para canalizar el odio o el amor hacia actores específicos (Ej: Israel vs bloque árabe) según la conveniencia del momento del Tier B.
 
 ## 🔗 Nodos Conectados
 
 - **[[EBU]]**: El brazo ejecutor de la infraestructura de medios en Europa.
 - **[[Ingenieria Social]]**: La disciplina base que dicta las temáticas del show.
-- **[[OTAN]]**: Frecuente coincidencia entre la expansión de la OTAN y la integración cultural vía Eurovision.
+- **[[OTAN]]**: Frecuente coincidencia entre la expansión de la OTAN y la integración cultural vía Eurovisión.
 
 ## 📊 Cui Bono
 

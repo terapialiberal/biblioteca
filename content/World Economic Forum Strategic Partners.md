@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [wef, strategic-partners, corporatocracia, gobernanza-corporativa, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # World Economic Forum Strategic Partners

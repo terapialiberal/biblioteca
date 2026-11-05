@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [charles, cienciologa, laboratorio, proceso]
 publish: true
+sin_fuente: true
 ---
 
 # La Iglesia Del Proceso: El Laboratorio De La Oscuridad Sintética

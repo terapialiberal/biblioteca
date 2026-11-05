@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [confucio, institutos, pcch, united]
 publish: true
+sin_fuente: true
 ---
 
 # Institutos Confucio

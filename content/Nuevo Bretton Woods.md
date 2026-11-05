@@ -8,19 +8,20 @@ nivel_evidencia: medio
 estado: activo
 tags: [nuevo-bretton-woods, sistema-monetario, dolar, reset, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Nuevo Bretton Woods
 
 ## BLUF
 
-[[Nuevo Bretton Woods]] importa en TL como etiqueta paraguas para distintos intentos de rediseñar el orden monetario internacional despues del agotamiento relativo del esquema post-1971. Su utilidad no esta en suponer que ya existe un nuevo acuerdo cerrado, sino en ordenar las hipotesis sobre como podria reconfigurarse la centralidad del dolar, la deuda estadounidense y los nuevos rails de pago.
+[[Nuevo Bretton Woods]] importa en TL como etiqueta paraguas para distintos intentos de rediseñar el orden monetario internacional después del agotamiento relativo del esquema post-1971. Su utilidad no esta en suponer que ya existe un nuevo acuerdo cerrado, sino en ordenar las hipotesis sobre como podria reconfigurarse la centralidad del dólar, la deuda estadounidense y los nuevos rails de pago.
 
 ## Por que importa en TL
 
 - permite reunir en una sola pregunta el eje [[CBDC]] / [[Dinero Programable]] / [[Treasuries]] / [[Desdolarizacion]];
 - ayuda a no confundir escenario general de reordenamiento con doctrinas mas concretas como [[Mar-a-Lago Accord]];
-- funciona como nodo conceptual para leer si la transicion sera multipolar, coercitiva, hibrida o parcialmente programable.
+- funciona como nodo conceptual para leer si la transición sera multipolar, coercitiva, hibrida o parcialmente programable.
 
 ## Que cambio
 
@@ -28,13 +29,13 @@ La nota existia, pero estaba demasiado minima y quedaba a medio camino entre slo
 
 ## Que es
 
-Nuevo Bretton Woods es una formula de trabajo para nombrar discusiones, propuestas y maniobras orientadas a redefinir reglas del sistema monetario internacional. Puede referirse a soluciones rivales: mayor coordinacion multilateral, transicion mas fragmentada, orden dolarizado reforzado por coercion o combinaciones intermedias.
+Nuevo Bretton Woods es una formula de trabajo para nombrar discusiones, propuestas y maniobras orientadas a redefinir reglas del sistema monetario internacional. Puede referirse a soluciones rivales: mayor coordinación multilateral, transición mas fragmentada, orden dolarizado reforzado por coerción o combinaciones intermedias.
 
 ## Lectura TL
 
 ### 1. El problema no es solo monetario
 
-Nuevo Bretton Woods importa porque en TL el rediseño del sistema no se juega solo en bancos centrales. Tambien se juega en rutas comerciales, energia, sanciones, seguridad, infraestructura digital y capacidad de imponer demanda por activos estadounidenses.
+Nuevo Bretton Woods importa porque en TL el rediseño del sistema no se juega solo en bancos centrales. También se juega en rutas comerciales, energía, sanciones, seguridad, infraestructura digital y capacidad de imponer demanda por activos estadounidenses.
 
 ### 2. Paraguas, no doctrina unica
 
@@ -42,19 +43,19 @@ Su valor analitico crece cuando se usa como contenedor de escenarios y no como n
 
 ### 3. Del petrodolar al reanclaje complejo
 
-La nota gana utilidad cuando se la conecta con el pasaje desde [[Sistema Petrodolar]] hacia hipotesis como [[Reanclaje Hibrido]]. La transicion puede no desembocar en un patron limpio, sino en una arquitectura mas coercitiva, mas digital y mas inestable.
+La nota gana utilidad cuando se la conecta con el pasaje desde [[Sistema Petrodolar]] hacia hipotesis como [[Reanclaje Hibrido]]. La transición puede no desembocar en un patron limpio, sino en una arquitectura mas coercitiva, mas digital y mas inestable.
 
-### 4. Multipolaridad bajo administracion
+### 4. Multipolaridad bajo administración
 
-En TL, uno de los puntos clave es distinguir entre desdolarizacion real y redistribucion administrada del poder monetario. El nuevo tablero puede cambiar de forma sin que desaparezca la capacidad de EEUU para disciplinar pagos, deuda y liquidez.
+En TL, uno de los puntos clave es distinguir entre desdolarización real y redistribución administrada del poder monetario. El nuevo tablero puede cambiar de forma sin que desaparezca la capacidad de EEUU para disciplinar pagos, deuda y liquidez.
 
 ### 5. Paraguas sobre doctrinas y ejecutores
 
-La nota gana precision cuando se diferencia entre nivel de paraguas y nivel de operador. [[Mar-a-Lago Accord]] nombra una doctrina concreta; [[Stephen Miran]] formula parte de ese lenguaje; [[Scott Bessent]] y [[Kevin Warsh]] importan como ejecutores posibles dentro de un tablero mas amplio.
+La nota gana precisión cuando se diferencia entre nivel de paraguas y nivel de operador. [[Mar-a-Lago Accord]] nombra una doctrina concreta; [[Stephen Miran]] formula parte de ese lenguaje; [[Scott Bessent]] y [[Kevin Warsh]] importan como ejecutores posibles dentro de un tablero mas amplio.
 
-### 6. No acuerdo limpio, sino reconfiguracion bajo stress
+### 6. No acuerdo limpio, sino reconfiguración bajo stress
 
-Su valor en TL no depende de probar una nueva conferencia estilo 1944. Depende de mostrar que el sistema ya esta buscando nuevas reglas de coordinacion bajo condiciones peores: deuda alta, fragmentacion geopolitica, rails alternativos y necesidad de sostener demanda por activos de EEUU.
+Su valor en TL no depende de probar una nueva conferencia estilo 1944. Depende de mostrar que el sistema ya esta buscando nuevas reglas de coordinación bajo condiciones peores: deuda alta, fragmentación geopolitica, rails alternativos y necesidad de sostener demanda por activos de EEUU.
 
 ## Con que conecta
 

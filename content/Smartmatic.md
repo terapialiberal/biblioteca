@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [george, lord, smartmatic, tecnocrtico]
 publish: true
+sin_fuente: true
 ---
 
 # Smartmatic: el Gestor Tecnocrático del Consenso Electoral

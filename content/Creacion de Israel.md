@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [creacin, david, declaracin, israel]
 publish: true
+sin_fuente: true
 ---
 
 # Creación De Israel

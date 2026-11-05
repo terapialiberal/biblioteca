@@ -1,5 +1,5 @@
 ---
-titulo: Fundacion Huesped
+titulo: Fundación Huesped
 tipo: entidad
 fecha: 2026-04-18
 tier_primario: b
@@ -8,19 +8,20 @@ estado: activo
 aliases: ["Fundación Huésped", "Fundacion Huesped (Biopolitica Local)"]
 tags: [fundacion-huesped, argentina, salud-publica, bioseguridad, biopolitica, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
-# Fundacion Huesped
+# Fundación Huesped
 
 ## BLUF
 
-[[Fundacion Huesped]] importa en TL como nodo local de validacion y traduccion de agendas de salud global en Argentina: su peso analitico no esta solo en el trabajo sanitario historico, sino en su capacidad de conectar expertise medico, financiamiento externo, lobbying normativo y legitimidad publica.
+[[Fundacion Huesped]] importa en TL como nodo local de validación y traducción de agendas de salud global en Argentina: su peso analitico no esta solo en el trabajo sanitario histórico, sino en su capacidad de conectar expertise medico, financiamiento externo, lobbying normativo y legitimidad publica.
 
 ## Por que importa en TL
 
 - ayuda a leer como doctrinas y prioridades de salud global bajan al plano local a traves de ONGs prestigiosas;
 - conecta a la escena argentina con [[World Health Organization]], [[Fundacion Bill y Melinda Gates]] y el ecosistema pharma;
-- funciona como interfaz entre narrativa de derechos, autoridad medica y capacidad real de influencia sobre politica publica.
+- funciona como interfaz entre narrativa de derechos, autoridad medica y capacidad real de influencia sobre política publica.
 
 ## Que cambio
 
@@ -28,13 +29,13 @@ La nota venia con framing muy totalizante y demasiado anclada a la fase COVID. S
 
 ## Lectura TL
 
-### 1. Nodo de traduccion local
+### 1. Nodo de traducción local
 
-Fundacion Huesped importa porque convierte marcos globales de salud, financiamiento y advocacy en lenguaje institucional util para Argentina.
+Fundación Huesped importa porque convierte marcos globales de salud, financiamiento y advocacy en lenguaje institucional util para Argentina.
 
 ### 2. Autoridad medica con efectos politicos
 
-En TL, el punto fuerte no es solo la opinion tecnica. Es cuando la autoridad sanitaria desplaza deliberacion politica y vuelve "inevitables" decisiones que tienen impacto economico, educativo y juridico.
+En TL, el punto fuerte no es solo la opinion tecnica. Es cuando la autoridad sanitaria desplaza deliberación política y vuelve "inevitables" decisiones que tienen impacto económico, educativo y juridico.
 
 ### 3. Red mixta de ONG, pharma y organismos
 
@@ -42,7 +43,7 @@ Su valor analitico aumenta cuando se la lee como interfaz: no actua sola, sino d
 
 ### 4. Pieza argentina del corredor bioseguridad
 
-Leida junto con [[World Health Organization]], [[Fundacion Bill y Melinda Gates]], [[GSK]] y [[One Health]], Fundacion Huesped funciona como bajada local de un ecosistema mas amplio de salud, compliance y gobernanza biologica.
+Leida junto con [[World Health Organization]], [[Fundacion Bill y Melinda Gates]], [[GSK]] y [[One Health]], Fundación Huesped funciona como bajada local de un ecosistema mas amplio de salud, compliance y gobernanza biologica.
 
 ## Conexiones
 

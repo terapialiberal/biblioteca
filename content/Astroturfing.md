@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [astroturfing, open, revolucin]
 publish: true
+sin_fuente: true
 ---
 
 # Astroturfing

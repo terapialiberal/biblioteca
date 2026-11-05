@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [affair, caso, hermanos, lavon]
 publish: true
+sin_fuente: true
 ---
 
 # Lavon Affair (Asunto Lavon)

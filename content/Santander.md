@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Banco Santander"]
 tags: [santander, banca, espana, latinoamerica, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Santander

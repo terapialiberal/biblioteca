@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [departamento, garland, merrick, verdugo]
 publish: true
+sin_fuente: true
 ---
 
 # Merrick Garland: El Verdugo Burocrático

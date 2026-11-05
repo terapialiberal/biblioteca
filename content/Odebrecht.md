@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Odebrecht (Caso Lava Jato)"]
 tags: [odebrecht, lava-jato, corrupcion, lawfare, latinoamerica, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Odebrecht
@@ -34,14 +35,14 @@ En TL, el nodo sirve también para pensar el doble uso político del escándalo:
 
 ## Como leerlo en TL
 
-- junto con [[Operacion Lava Jato]] para ver el pasaje de corrupcion material a reordenamiento judicial;
-- junto con [[Lawfare]] para fijar el uso politico de la narrativa anticorrupcion;
-- junto con [[Embajada de EE.UU.]] cuando interese seguir la capa de cooperacion internacional y presion exterior.
+- junto con [[Operación Lava Jato]] para ver el pasaje de corrupción material a reordenamiento judicial;
+- junto con [[Lawfare]] para fijar el uso político de la narrativa anticorrupción;
+- junto con [[Embajada de EE.UU.]] cuando interese seguir la capa de cooperación internacional y presión exterior.
 
 ## Con qué conecta
 
 - [[Lava Jato]]
-- [[Operacion Lava Jato]]
+- [[Operación Lava Jato]]
 - [[Lawfare]]
 - [[Lula da Silva]]
 - [[Marcelo Odebrecht]]

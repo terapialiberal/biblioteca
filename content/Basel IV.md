@@ -7,6 +7,7 @@ capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [basel, project]
+sin_fuente: true
 ---
 
 # [[Basel IV]]

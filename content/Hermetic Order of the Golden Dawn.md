@@ -7,6 +7,7 @@ tags: [alistair, golden, order, ordo]
 tier_primario: "b"
 nivel_evidencia: "alto"
 publish: true
+sin_fuente: true
 ---
 
 # Hermetic Order of the Golden Dawn

@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Block Inc.", "Block (Square)", "Square"]
 tags: [block, square, fintech, pagos, bitcoin, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Block Inc.

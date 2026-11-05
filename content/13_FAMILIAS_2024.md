@@ -3,6 +3,7 @@ publish: true
 titulo: "Informe: Las 13 Familias - Mito vs Realidad Forense"
 estado: activo
 tags: [dinastias-operativas, control-global, poder-sistemico, inteligencia-forense, cibernetica-de-poder]
+sin_fuente: true
 ---
 
 # Informe: Las 13 Familias - Mito vs Realidad Forense

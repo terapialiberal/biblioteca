@@ -5,6 +5,7 @@ aliases: ["David Rockefeller"]
 tags: [actor, banquero, cfr, bilderberg, trilateral]
 tipo: actor
 tier_primario: A
+sin_fuente: true
 ---
 
 # David Rockefeller

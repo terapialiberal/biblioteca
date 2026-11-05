@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: ["1970", allende, estado, golpe]
 publish: true
+sin_fuente: true
 ---
 
 # Elección De Allende 1970

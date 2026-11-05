@@ -4,10 +4,11 @@ tipo: concepto
 titulo: Censura
 estado: activo
 tags: [discurso, plataformas, poder, tl-intel-v3]
+sin_fuente: true
 ---
 
 # Censura
 
-Restriccion, remocion o desincentivo de expresion por autoridad estatal, corporativa, social o algorítmica.
+Restricción, remoción o desincentivo de expresión por autoridad estatal, corporativa, social o algorítmica.
 
-En TL importa por su mutacion: ya no opera solo como prohibicion formal, sino como ranking, demonetizacion, shadowban, compliance, fact-checking y presion reputacional.
+En TL importa por su mutación: ya no opera solo como prohibición formal, sino como ranking, demonetización, shadowban, compliance, fact-checking y presión reputacional.

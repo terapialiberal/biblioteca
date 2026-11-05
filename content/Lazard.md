@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [arquitecto, felix, quiebra, rothschild]
 publish: true
+sin_fuente: true
 ---
 
 # Lazard: El Arquitecto De La Quiebra Soberana

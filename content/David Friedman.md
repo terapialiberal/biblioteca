@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [david, estado, friedman, milton]
 publish: true
+sin_fuente: true
 ---
 
 # David Friedman

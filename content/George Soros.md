@@ -7,12 +7,13 @@ nivel_evidencia: medio
 estado: activo
 tags: [george-soros, open-society, soft-power, filantrocapitalismo, cambio-de-regimen, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # George Soros
 
 > [!abstract] PERFIL TL-INTEL
-> [[George Soros]] importa en TL como operador-financista de proyeccion blanda: un actor que combina especulacion, filantropia, red transnacional de ONGs y capacidad de intervenir sobre marcos juridicos, mediaticos y politicos sin aparecer como Estado formal.
+> [[George Soros]] importa en TL como operador-financista de proyección blanda: un actor que combina especulación, filantropia, red transnacional de ONGs y capacidad de intervenir sobre marcos juridicos, mediaticos y politicos sin aparecer como Estado formal.
 
 ## Que es
 
@@ -22,7 +23,7 @@ George Soros es inversor y fundador de [[Open Society Foundations]]. En TL inter
 
 - conecta mercados financieros, fundaciones, ONGs y cambio institucional;
 - ayuda a leer como la filantropia puede operar como vector de agenda y no solo como beneficencia;
-- sirve como figura visible del corredor `capital privado -> sociedad civil financiada -> presion normativa -> recambio de elites`.
+- sirve como figura visible del corredor `capital privado -> sociedad civil financiada -> presión normativa -> recambio de elites`.
 
 ## Mecanismos de poder
 
@@ -30,9 +31,9 @@ George Soros es inversor y fundador de [[Open Society Foundations]]. En TL inter
 
 Soros importa porque no se limita a apoyar individuos o causas aisladas. Lo relevante es la capacidad de financiar ecosistemas enteros: ONGs, medios, litigios, observatorios, becas y lenguaje moral compatible con una agenda de apertura y gobernanza supranacional.
 
-### 2. Filantropia como tecnologia politica
+### 2. Filantropia como tecnología política
 
-Su peso analitico crece cuando se observa que la filantropia puede intervenir en fiscalias, reformas juridicas, migracion, derechos, medios y protesta sin asumir la forma clasica de partido o agencia estatal.
+Su peso analitico crece cuando se observa que la filantropia puede intervenir en fiscalias, reformas juridicas, migración, derechos, medios y protesta sin asumir la forma clasica de partido o agencia estatal.
 
 ### 3. Operador visible de una arquitectura mas amplia
 
@@ -45,8 +46,8 @@ La nota venia en formato muy viejo, excesivamente cerrada y con tono demasiado t
 ## Como leerlo en TL
 
 - junto con [[Open Society Foundations]] para separar actor y red operativa;
-- junto con [[NED]] y [[USAID]] para ver la articulacion entre infraestructura privada y proyeccion semiestatal;
-- junto con [[Revolucion del color]] para seguir la traduccion politica de esa infraestructura.
+- junto con [[NED]] y [[USAID]] para ver la articulación entre infraestructura privada y proyección semiestatal;
+- junto con [[Revolucion del color]] para seguir la traducción política de esa infraestructura.
 
 ## Con que conecta
 

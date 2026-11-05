@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Lawfare (Guerra Judicial)", "Guerra judicial", "Guerra jurídica"]
 tags: [lawfare, justicia, inteligencia, medios, operaciones-politicas, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Lawfare

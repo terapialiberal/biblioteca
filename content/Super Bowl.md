@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [matrix, medio, super, tiempo]
 publish: true
+sin_fuente: true
 ---
 
 # Super Bowl: Rituales de Medio Tiempo: la Liturgia Eléctrica de la Matrix

@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Banco Central", "Banco Central / Reserva Federal"]
 tags: [bancos-centrales, politica-monetaria, dinero, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Bancos Centrales

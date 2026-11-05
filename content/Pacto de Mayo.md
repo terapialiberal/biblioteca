@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [declogo, matrix, mayo, pacto]
 publish: true
+sin_fuente: true
 ---
 
 # Pacto De Mayo: El Decálogo Liberal De La Matrix

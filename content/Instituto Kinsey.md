@@ -4,6 +4,7 @@ tipo: entidad
 titulo: Instituto Kinsey
 estado: activo
 tags: [sexualidad, academia, cultura, biopolitica, tl-intel-v3]
+sin_fuente: true
 ---
 
 # Instituto Kinsey

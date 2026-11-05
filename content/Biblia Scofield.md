@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [biblia, scofield, sionismo, woodrow]
 publish: true
+sin_fuente: true
 ---
 
 # Biblia Scofield

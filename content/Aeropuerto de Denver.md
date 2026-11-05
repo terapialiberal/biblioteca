@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [aeropuerto, continuity, masonera, murales]
 publish: true
+sin_fuente: true
 ---
 
 # Aeropuerto De Denver (Murales Y Búnker)

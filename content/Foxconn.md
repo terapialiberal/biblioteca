@@ -4,6 +4,7 @@ tipo: actor
 titulo: Foxconn
 estado: activo
 tags: [taiwan, manufactura, electronica, tl-intel-v3]
+sin_fuente: true
 ---
 
 # Foxconn

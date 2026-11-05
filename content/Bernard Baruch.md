@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [baruch, bernard, woodrow]
 publish: true
+sin_fuente: true
 ---
 
 # Bernard Baruch

@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [ventana-de-overton, opinion-publica, ingenieria-social, gradualismo, aceptabilidad, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Ventana de Overton
@@ -23,7 +24,7 @@ publish: true
 
 ## Que cambio
 
-La nota estaba en formato muy viejo, con texto roto y además enlazaba a canónicos inexistentes. Se recompila como concepto reusable y se integra mejor con `Primado Negativo`, `Teoria del Empujon` e `Ingenieria Social`.
+La nota estaba en formato muy viejo, con texto roto y además enlazaba a canónicos inexistentes. Se recompila como concepto reusable y se integra mejor con `Primado Negativo`, `Teoria del Empujon` e `Ingeniería Social`.
 
 ## Lectura TL
 

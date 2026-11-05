@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [crisis, goldman, hank, paulson]
 publish: true
+sin_fuente: true
 ---
 
 # Hank Paulson

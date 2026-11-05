@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [eurodolares, dolar, liquidez, city-de-londres, banca-sombra, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Eurodolares
@@ -43,11 +44,11 @@ En TL, los eurodólares funcionan como recordatorio de que la hegemonía del dó
 
 Su valor analítico aumenta cuando se evita pensar el mercado offshore como periferia exótica. Buena parte de la elasticidad real del dólar depende justamente de circuitos externos a la banca doméstica estadounidense, pero íntimamente conectados con su centralidad.
 
-### 5. City, banca sombra y propagacion global
+### 5. City, banca sombra y propagación global
 
 Leído junto con [[City de Londres]] y la banca offshore, el nodo ayuda a ver cómo la liquidez en dólares puede expandirse fuera del perímetro regulatorio clásico y, al mismo tiempo, volver más sistémicas las crisis cuando ese circuito se tensiona.
 
-### 6. Capa invisible del privilegio del dolar
+### 6. Capa invisible del privilegio del dólar
 
 También importa porque permite leer [[Exorbitant Privilege]] en clave operativa. El privilegio del dólar no descansa solo en el Tesoro o la Fed: también en una red transfronteriza que multiplica su uso y su dependencia global.
 

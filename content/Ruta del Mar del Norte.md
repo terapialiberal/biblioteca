@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Ruta del Mar del Norte: el Ártico Ruso: el Nuevo Eje del Mundo"]
 tags: [ruta-del-mar-del-norte, artico, rusia, comercio, chokepoints, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Ruta del Mar del Norte

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [china, poder, trampa, tucdides]
 publish: true
+sin_fuente: true
 ---
 
 # Trampa De Tucídides

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [arquitectura, escuadra, globales, obeliscos]
 publish: true
+sin_fuente: true
 ---
 
 # Monumentos Masónicos Globales: La Arquitectura Del Dominio

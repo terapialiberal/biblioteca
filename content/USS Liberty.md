@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [ataque, israel, lyndon, silenciado]
 publish: true
+sin_fuente: true
 ---
 
 # USS Liberty (El Ataque Silenciado)

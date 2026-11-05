@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [antony, dialctica, hegeliana, strategy]
 publish: true
+sin_fuente: true
 ---
 
 # Dialéctica Hegeliana

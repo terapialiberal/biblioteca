@@ -7,6 +7,7 @@ tier_primario: B
 estado: activo
 tags: [thomas-massie, oposicion-controlada, congress, maga, tl-intel-v3]
 last_stream: "[[06_Videos_Publicados/2026/2026-05-26_La_Trampa_de_Ormuz/00_ARCHIVO_2026-05-26_La_Trampa_de_Ormuz|ARCHIVO: La Trampa de Ormuz]]"
+sin_fuente: true
 ---
 
 # [[Thomas Massie]]

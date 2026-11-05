@@ -7,6 +7,7 @@ tags: [lovecraft, necronomicn]
 capa_tema: "a"
 nivel_evidencia: "medio"
 publish: true
+sin_fuente: true
 ---
 
 # Necronomicón Y Lovecraft (El Horror De Los Primigenios)

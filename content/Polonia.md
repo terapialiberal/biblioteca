@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Polonia (Geopolítica)"]
 tags: [polonia, europa, nato, rusia, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Polonia

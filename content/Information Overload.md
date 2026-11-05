@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [guerra, information, overload, sobrecarga]
 publish: true
+sin_fuente: true
 ---
 
 # Information Overload (Sobrecarga Informativa)

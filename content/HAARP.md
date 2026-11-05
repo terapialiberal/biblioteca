@@ -6,6 +6,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [tecnologia, ionosfera, clima, señales, control]
 publish: true
+sin_fuente: true
 ---
 
 # HAARP y el Control del Ether (V.3)

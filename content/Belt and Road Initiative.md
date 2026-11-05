@@ -8,6 +8,7 @@ estado: activo
 aliases: ["BRI", "Belt and Road Initiative (BRI)", "Nueva Ruta de la Seda"]
 tags: [belt-and-road, bri, china, infraestructura, eurasia, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Belt and Road Initiative

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [golfo, incidente, john, omn]
 publish: true
+sin_fuente: true
 ---
 
 # Incidente Del Golfo De Omán

@@ -7,6 +7,7 @@ tags: [logos, proporcin, sagrada]
 capa_tema: "b"
 nivel_evidencia: "alto"
 publish: true
+sin_fuente: true
 ---
 
 # Proporción Sagrada En Logos

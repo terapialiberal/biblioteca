@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Facebook", "Meta Platforms"]
 tags: [meta, facebook, plataformas, vigilancia, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Meta

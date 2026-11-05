@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [cbdc, chino, crdito, cyber]
 publish: true
+sin_fuente: true
 ---
 
 # Crédito Social Chino

@@ -7,6 +7,7 @@ tags: [iniciacin, show, truman, ventana]
 tier_primario: "b"
 nivel_evidencia: "alto"
 publish: true
+sin_fuente: true
 ---
 
 # The Truman Show (El Panóptico De La Complacencia)

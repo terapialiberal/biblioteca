@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Real World Asset Tokenization", "Protocolo RWA"]
 tags: [rwa, tokenizacion, activos-reales, deuda, rails-programables, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # RWA Tokenization Protocol
@@ -42,7 +43,7 @@ En TL, la promesa de liquidez y fraccionalización importa menos por la novedad 
 
 Cuando títulos, deuda, fondos o activos productivos pasan a circular por rails tokenizados, compliance, elegibilidad y trazabilidad pueden integrarse directamente al objeto financiero.
 
-### 4. Absorcion institucional de la blockchain
+### 4. Absorción institucional de la blockchain
 
 RWA sirve para mostrar que el sistema dominante no necesita rechazar la infraestructura cripto. Puede reconfigurarla en formatos más convenientes para bancos, custodios, reguladores y grandes gestores.
 

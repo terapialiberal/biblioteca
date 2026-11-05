@@ -8,6 +8,7 @@ moc_canonico: [[00_MOC - Finanzas y CBDC]]
 estado: activo
 fuentes_clave: []
 tags: [mario-draghi, bce, goldman-sachs, tecnocracia, europa, tl-intel-v3]
+sin_fuente: true
 ---
 
 # Mario Draghi

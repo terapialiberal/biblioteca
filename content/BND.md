@@ -6,6 +6,7 @@ estado: activo
 aliases: ["BND (Servicio Federal de Inteligencia)", "BND (Servicio Federal de Inteligencia de Alemania)"]
 tags: [bnd, alemania, inteligencia, europa, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # BND

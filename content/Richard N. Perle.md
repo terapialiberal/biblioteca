@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [arquitecto, guerra, pnac, richard]
 publish: true
+sin_fuente: true
 ---
 
 # Richard N. Perle: el Arquitecto de la Guerra Perpetua

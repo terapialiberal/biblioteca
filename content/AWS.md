@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Amazon Web Services", "Amazon Web Services (AWS)"]
 tags: [aws, amazon, cloud, infraestructura, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # AWS

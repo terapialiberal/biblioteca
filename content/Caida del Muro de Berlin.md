@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [berln, cada, muro, vladimir]
 publish: true
+sin_fuente: true
 ---
 
 # Caída Del Muro De Berlín

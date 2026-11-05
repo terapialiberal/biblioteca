@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [experimento, protocolo, psicologa, tercera]
 publish: true
+sin_fuente: true
 ---
 
 # La Tercera Ola: El Protocolo De Activación Totalitaria

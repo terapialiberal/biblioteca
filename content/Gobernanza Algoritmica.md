@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [gobernanza-algoritmica, tecnocracia, codigo, automatizacion, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Gobernanza Algoritmica
@@ -45,11 +46,11 @@ En TL, este nodo sirve para entender cómo crédito, movilidad, salud, seguridad
 
 No es un tema separado de la tecnocracia. Es la forma en que la tecnocracia se vuelve operativa.
 
-### 5. Crisis como acelerador de delegacion
+### 5. Crisis como acelerador de delegación
 
 En TL, este nodo gana peso cuando guerras, disrupción logística, presión energética o saturación burocrática preparan el terreno para delegar más criterio a sistemas técnicos. La automatización no entra solo por innovación: entra como respuesta aparentemente inevitable al desborde.
 
-### 6. De recomendacion a disciplina
+### 6. De recomendación a disciplina
 
 La gobernanza algorítmica no se agota en sugerir acciones. Su potencia real aparece cuando recomendación, scoring, permisos y distribución de recursos empiezan a encadenarse en un mismo flujo. Ahí el algoritmo no solo informa: disciplina.
 

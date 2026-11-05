@@ -7,6 +7,7 @@ estado: inactivo
 tags: [base-de-conocimiento, redirect]
 aliases: ["LOG_AGENT_CONTEXT.md", "LOG_AGENT_CONTEXT"]
 redirect: "[[LOG_AGENT_CONTEXT]]"
+sin_fuente: true
 ---
 
 # LOG OPERATIVO WIKI — REDIRECT

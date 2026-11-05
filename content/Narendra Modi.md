@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Narendra Modi: El Gestor Del Panoptico Biometrico"]
 tags: [narendra-modi, india, biometria, vigilancia, aadhaar, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Narendra Modi

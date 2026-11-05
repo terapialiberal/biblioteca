@@ -5,6 +5,7 @@ aliases: ["Ben Shapiro"]
 tags: [actor, medios, derecha, eeuu]
 tipo: actor
 tier_primario: C
+sin_fuente: true
 ---
 
 # Ben Shapiro

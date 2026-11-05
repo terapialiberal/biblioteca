@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [aprendida, guerra, indefensin, pandemia]
 publish: true
+sin_fuente: true
 ---
 
 # Indefensión Aprendida

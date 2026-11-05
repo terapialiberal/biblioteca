@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [ciudades, crdito, grid, smart]
 publish: true
+sin_fuente: true
 ---
 
 # Red Inteligente (Smart Grid): el Interruptor Maestro de la Tecnocracia

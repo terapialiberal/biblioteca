@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Complejo Militar Industrial", "Military-Industrial Complex", "Industria Militar Complejo"]
 tags: [complejo-militar-industrial, defensa, contratistas, guerra, presupuesto, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Complejo Militar-Industrial

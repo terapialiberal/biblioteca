@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [estado, irn, southern, transport]
 publish: true
+sin_fuente: true
 ---
 
 # Southern Air Transport: el Puente Aéreo del Narcotráfico de Estado

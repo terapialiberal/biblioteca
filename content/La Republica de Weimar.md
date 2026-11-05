@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [demolicin, hiperinflacin, ludwig, repblica]
 publish: true
+sin_fuente: true
 ---
 
 # La República De Weimar: El Manual De La Demolición Controlada

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [jiang, sociedades-secretas, teoria-de-juegos, kompromat, lealtad, coordinacion]
 publish: true
+sin_fuente: true
 ---
 
 # Prof. Jiang

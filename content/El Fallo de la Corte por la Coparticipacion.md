@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [alberto, caba, fallo, nacin]
 publish: true
+sin_fuente: true
 ---
 
 # El Fallo De La Corte Por La Coparticipación (CABA Vs Nación)

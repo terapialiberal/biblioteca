@@ -7,6 +7,7 @@ nivel_evidencia: alto
 estado: activo
 tags: [clearview, reconocimiento-facial, vigilancia, biometria, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Clearview AI
@@ -43,7 +44,7 @@ En TL, este nodo sirve para mostrar que la biometría no necesita chips ni walle
 
 Leída junto con [[Biometria Global]], Clearview representa la cara policial y de seguridad del mismo stack que en otros carriles aparece como identidad, onboarding o conveniencia.
 
-### 5. Reconocimiento sin cooperacion explicita
+### 5. Reconocimiento sin cooperación explicita
 
 En TL, Clearview gana todavía más densidad cuando se la conecta con [[Cellebrite]] y [[NSO Group]]. Ahí el corredor biométrico deja de parecer una excepción aislada y pasa a leerse como parte del mismo mercado de identificación, extracción e intrusión.
 

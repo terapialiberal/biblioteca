@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [asesinato, hammarskjld]
 publish: true
+sin_fuente: true
 ---
 
 # Asesinato De Dag Hammarskjöld

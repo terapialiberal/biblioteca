@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [nuland, proyecto, robert, victoria]
 publish: true
+sin_fuente: true
 ---
 
 # Victoria Nuland

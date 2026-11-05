@@ -7,6 +7,7 @@ tags: [cloud, plano-astral, datos, metaverso, simbolismo, tl-intel-v3]
 capa_tema: b
 nivel_evidencia: medio
 publish: true
+sin_fuente: true
 ---
 
 # El Cloud y el Plano Astral
@@ -23,7 +24,7 @@ No afirma que cloud computing sea literalmente un plano astral. Usa la analogia 
 
 - conecta datos, memoria, dependencia tecnica y soberania;
 - permite pensar la nube como infraestructura de vida post-material;
-- ayuda a leer el metaverso y la identidad digital como externalizacion del yo.
+- ayuda a leer el metaverso y la identidad digital como externalización del yo.
 
 ## Lectura TL
 

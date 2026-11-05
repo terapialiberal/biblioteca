@@ -7,6 +7,7 @@ tags: [edward-kelley, john-dee, enoquiano, alquimia, ocultismo, tl-intel-v3]
 tier_primario: c
 nivel_evidencia: medio
 publish: true
+sin_fuente: true
 ---
 
 # Edward Kelley

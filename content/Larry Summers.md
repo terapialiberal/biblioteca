@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [concentrado, jeffrey, larry, openai]
 publish: true
+sin_fuente: true
 ---
 
 # Larry Summers: El Centinela Del Capital Concentrado

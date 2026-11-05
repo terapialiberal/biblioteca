@@ -1,5 +1,5 @@
 ---
-titulo: Ingenieria Social
+titulo: Ingeniería Social
 tipo: concepto
 fecha: 2026-04-21
 capa_tema: b
@@ -7,9 +7,10 @@ nivel_evidencia: medio
 estado: activo
 tags: [ingenieria-social, conducta, percepcion, gobernanza, manipulacion, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
-# Ingenieria Social
+# Ingeniería Social
 
 ## BLUF
 

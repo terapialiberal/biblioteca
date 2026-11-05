@@ -7,6 +7,7 @@ tags: [giza, nikola, proporciones, velocidad]
 capa_tema: "a"
 nivel_evidencia: "medio"
 publish: true
+sin_fuente: true
 ---
 
 # Proporciones De Giza (Ingeniería De La Antigüedad)

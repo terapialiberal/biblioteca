@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [estado, infiltracin, operation, secta]
 publish: true
+sin_fuente: true
 ---
 
 # Operation Snow White: El Asedio De La Secta Al Estado

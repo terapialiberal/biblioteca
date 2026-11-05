@@ -3,6 +3,7 @@ publish: true
 titulo: "Informe: Dinastias Financieras (Tier A Raiz)"
 estado: activo
 tags: [dinastias-financieras, elite-global, poder-economico, control-corporativo, banca-privada]
+sin_fuente: true
 ---
 
 # Informe: Dinastias Financieras (Tier A Raiz)

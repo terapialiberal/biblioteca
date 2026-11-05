@@ -7,6 +7,7 @@ tags: [blockchain, cbdcs, inmutabilidad, satoshi]
 capa_tema: "a"
 nivel_evidencia: "alto"
 publish: true
+sin_fuente: true
 ---
 
 # Blockchain: El Libro De La Verdad Inmutable

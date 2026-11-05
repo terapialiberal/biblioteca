@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [bayer, farben, standard]
 publish: true
+sin_fuente: true
 ---
 
 # IG Farben

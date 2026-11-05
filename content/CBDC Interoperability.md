@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [cbdc-interoperability, cbdc, interoperabilidad, bis, pagos, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # CBDC Interoperability
@@ -45,11 +46,11 @@ Su utilidad aparece al mostrar que una capa de interoperabilidad puede pasar de 
 
 En TL, este nodo gana relevancia cuando la compatibilidad entre rails implica también compatibilidad entre reglas de reporte, trazabilidad, filtrado y control. No se trata solo de que los sistemas “hablen”; se trata de bajo qué autoridad técnica lo hacen.
 
-### 5. Fragmentacion visible, normalizacion profunda
+### 5. Fragmentación visible, normalización profunda
 
 La interoperabilidad importa porque permite que bloques formalmente rivales mantengan grados altos de coordinación infraestructural. Aun cuando el relato geopolítico enfatiza ruptura, el estándar compartido puede seguir alineando vigilancia y gobernanza monetaria.
 
-### 6. Traduccion entre arquitecturas rivales
+### 6. Traducción entre arquitecturas rivales
 
 Leida junto con [[Proyecto mBridge]], [[Proyecto Agora]] y [[Stablecoin Regulation US]], la interoperabilidad deja de ser solo coordinación entre CBDC y pasa a verse como posible capa de traducción entre modelos rivales de dinero programable, settlement y enforcement.
 

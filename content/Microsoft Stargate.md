@@ -3,14 +3,15 @@ publish: true
 titulo: "Microsoft Stargate: El Trono De La Conciencia Algortmica"
 tipo: concepto
 estado: activo
+sin_fuente: true
 ---
 
 # Microsoft Stargate: El Trono De La Conciencia Algortmica
 
 > [!ABSTRACT] BLUF (Bottom Line Up Front)
-> Stargate es el proyecto de infraestructura ms masivo de la historia, una red de supercomputacin cuyo costo se proyecta ahora en **\500B** para finales de la dcada. No es solo un data center; es el nodo fsico donde el **Tier A** planea alojar la AGI (Inteligencia Artificial General). En 2026, el proyecto enfrenta fricciones internas de control entre Microsoft, SoftBank y Oracle, mientras acelera la captura de la energa nuclear privada.
+> Stargate es el proyecto de infraestructura más masivo de la historia, una red de supercomputacin cuyo costo se proyecta ahora en **\500B** para finales de la dcada. No es solo un data center; es el nodo fsico donde el **Tier A** planea alojar la AGI (Inteligencia Artificial General). En 2026, el proyecto enfrenta fricciones internas de control entre Microsoft, SoftBank y Oracle, mientras acelera la captura de la energa nuclear privada.
 
-## ??? Anlisis De Tiers
+## ??? Análisis De Tiers
 
 ### Tier A: Los Dueos (Soberana Del Silicio)
 
@@ -24,14 +25,14 @@ estado: activo
 
 ### Tier C: El Teatro (Narrativa De Progreso)
 
-- "IA para curar enfermedades". La realidad es que Stargate es una herramienta de guerra cognitiva y predireccin econmica total (Aladdin 2.0).
+- "IA para curar enfermedades". La realidad es que Stargate es una herramienta de guerra cognitiva y predireccin económica total (Aladdin 2.0).
 
 ## ?? Estado Forense 2026
 
 - ? **Documentado**: Microsoft ha reservado capacidad de fusin nuclear para 2028. Oracle construye 1.5 GW en Ohio y Texas por \30B/ao.
 - ?? **Inferencia razonable**: Stargate es el "rea 51" del capital privado; un territorio extraterritorial donde las leyes nacionales de IA no aplican.
 
-## ?? Cui Bono (Quin gana?)
+## ?? Cui Bono (Quién gana?)
 
 - **Sam Altman**: Se posiciona como el "Sumo Sacerdote" del cmputo.
 - **Microsoft**: Asegura que cualquier competidor de IA tenga que pagarle "renta" por usar la nica infraestructura capaz de correr modelos de Nivel 5.

@@ -43,3 +43,7 @@ La señal central es el trato diferencial. Si la población recibe racionamiento
 - [[Palantir]]
 - [[Tokenizacion de Activos Reales]]
 - [[Reanclaje Hibrido]]
+
+## Fuentes
+
+- https://insidecybersecurity.com/daily-news/house-panel-weighs-designating-ai-data-centers-critical-infrastructure  ·  en `99_AI\05_Memoria_Central\00_TRACK_RECORD.md`

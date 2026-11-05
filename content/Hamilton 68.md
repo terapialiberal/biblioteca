@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [hamilton, russiagate, twitter]
 publish: true
+sin_fuente: true
 ---
 
 # Hamilton 68

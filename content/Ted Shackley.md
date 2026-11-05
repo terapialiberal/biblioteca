@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [george, irn, shackley]
 publish: true
+sin_fuente: true
 ---
 
 # Ted Shackley

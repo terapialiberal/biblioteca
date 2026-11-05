@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [burford, enrique, nstor, petersen]
 publish: true
+sin_fuente: true
 ---
 
 # Enrique Eskenazi (Grupo Petersen)

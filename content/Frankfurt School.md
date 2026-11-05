@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Frankfurt School"]
 tags: [escuela-de-frankfurt, teoria-critica, cultura, fundaciones, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Escuela de Frankfurt
@@ -20,7 +21,7 @@ publish: true
 
 - conecta teoría crítica, academia, fundaciones y reconfiguración cultural;
 - ayuda a leer cómo marcos intelectuales pueden ser reutilizados por redes de poder distintas de sus autores originales;
-- funciona como nodo conceptual del corredor `Fundacion Ford / Fundacion Rockefeller / cultura`.
+- funciona como nodo conceptual del corredor `Fundación Ford / Fundación Rockefeller / cultura`.
 
 ## Que cambio
 

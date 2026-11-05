@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Halford Mackinder"]
 tags: [mackinder, heartland, geopolitica, eurasia, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Mackinder

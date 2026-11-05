@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [genius-act, stablecoins, dolar, rails, regulacion, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # GENIUS Act
@@ -35,7 +36,7 @@ El nodo importa porque sugiere que la respuesta estadounidense a la fragmentaci�
 
 En TL, su relevancia crece cuando se observa que stablecoins reguladas pueden convertirse en capa de circulación, liquidez y demanda indirecta de activos estadounidenses, especialmente si terminan encajadas en marcos compatibles con bonos, banca y settlement oficial.
 
-### 3. Regulacion como herramienta de hegemonia
+### 3. Regulación como herramienta de hegemonia
 
 Su valor analítico aparece cuando se evita la lectura ingenua de “innovación financiera neutral”. La regulación no solo limita: también selecciona qué forma de dinero digital puede expandirse y bajo qué soberanía.
 

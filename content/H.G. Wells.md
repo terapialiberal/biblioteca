@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [programacin, sociedad, wells]
 publish: true
+sin_fuente: true
 ---
 
 # H.G. Wells

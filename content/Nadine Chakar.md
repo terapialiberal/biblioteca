@@ -13,6 +13,7 @@ tags:
   - tl-intel-v3
 publish: true
 last_stream: '[[00_ARCHIVO_2026-05-28_El_Gran_Simulador]]'
+sin_fuente: true
 ---
 
 # Nadine Chakar

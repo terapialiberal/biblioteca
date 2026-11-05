@@ -1,5 +1,5 @@
 ---
-titulo: Constelacion del Dragon
+titulo: Constelación del Dragon
 tipo: concepto
 fecha: 2026-04-27
 estado: activo
@@ -8,17 +8,18 @@ tags: [draco, dragon, constelacion, simbolismo, tl-intel-v3]
 capa_tema: c
 nivel_evidencia: bajo
 publish: true
+sin_fuente: true
 ---
 
-# Constelacion del Dragon
+# Constelación del Dragon
 
 ## BLUF
 
-La Constelacion del Dragon funciona como nodo de astro-simbolismo: guardian, serpiente celeste, eje polar y figura de poder antiguo.
+La Constelación del Dragon funciona como nodo de astro-simbolismo: guardian, serpiente celeste, eje polar y figura de poder antiguo.
 
 ## Que es
 
-Draco es una constelacion real del hemisferio norte. Su valor TL no esta en claims astrologicos, sino en la persistencia del dragon como arquetipo de custodia, amenaza y soberania.
+Draco es una constelación real del hemisferio norte. Su valor TL no esta en claims astrologicos, sino en la persistencia del dragon como arquetipo de custodia, amenaza y soberania.
 
 ## Por que importa en TL
 

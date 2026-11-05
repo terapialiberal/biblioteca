@@ -7,6 +7,7 @@ nivel_evidencia: "alto"
 estado: activo
 tags: [panptico, peer, tlon, urbit]
 publish: true
+sin_fuente: true
 ---
 
 # Urbit 2026

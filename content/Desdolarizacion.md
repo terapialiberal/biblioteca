@@ -1,5 +1,5 @@
 ---
-titulo: Desdolarizacion
+titulo: Desdolarización
 tipo: concepto
 fecha: 2026-04-22
 capa_tema: b
@@ -8,9 +8,10 @@ estado: activo
 aliases: ["Desdolarización"]
 tags: [desdolarizacion, dolar, cips, mbridge, yuan, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
-# Desdolarizacion
+# Desdolarización
 
 ## BLUF
 
@@ -34,7 +35,7 @@ El cierre del brazo asiático posterior a `ORDO AB CHAO!` agrega un delta import
 
 La desdolarización importa porque no necesita desplazar al dólar en todo el sistema para ser estratégica. Basta con abrir zonas de autonomía en energía, comercio bilateral, reservas o settlement sensible.
 
-### 2. Sancion y confianza rota
+### 2. Sanción y confianza rota
 
 En TL, su aceleración se entiende mejor después de la congelación de reservas y la militarización visible del sistema financiero occidental. Cuando el dólar y su infraestructura dejan de percibirse como neutralidad operativa, crece el incentivo a construir bypasses.
 
@@ -42,7 +43,7 @@ En TL, su aceleración se entiende mejor después de la congelación de reservas
 
 Su relevancia sube cuando se conecta con [[Sistema CIPS]], [[Proyecto mBridge]] y [[Digital Yuan Expansion]]. El cambio importante no es la retórica antiestadounidense, sino la aparición de canales concretos para facturar, liquidar y mover valor sin pasar siempre por el mismo stack occidental.
 
-### 4. No invalida el reanclaje del dolar
+### 4. No invalida el reanclaje del dólar
 
 Leída correctamente, la desdolarización no contradice [[NOTA_TESIS_MAESTRA#^h10]]. La refuerza: si crecen los rails alternativos, Washington tiene todavía más incentivo a sostener demanda por dólar y Treasuries mediante choke points, energía y nueva arquitectura híbrida.
 

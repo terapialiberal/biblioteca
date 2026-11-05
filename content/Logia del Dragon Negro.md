@@ -7,6 +7,7 @@ tags: [dragn, expansionismo, logia, negro]
 tier_primario: "b"
 nivel_evidencia: "medio"
 publish: true
+sin_fuente: true
 ---
 
 # Logia Del Dragón Negro (Kokuryūkai)

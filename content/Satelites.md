@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [arsat, digital, rbita, satlites]
 publish: true
+sin_fuente: true
 ---
 
 # Satélites (ARSAT): la Soberanía Digital Y los Activos de la Órbita

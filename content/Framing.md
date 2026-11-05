@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [consenso, encuadre, framing, ventana]
 publish: true
+sin_fuente: true
 ---
 
 # Framing (Encuadre)

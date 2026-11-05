@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [amazon, just, naciones, walk]
 publish: true
+sin_fuente: true
 ---
 
 # Cierre De Amazon Go (Just Walk Out)

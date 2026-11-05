@@ -7,6 +7,7 @@ nivel_evidencia: alto
 estado: activo
 tags: [pfizer, industria-farmaceutica, salud, captura-regulatoria, bioseguridad, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Pfizer

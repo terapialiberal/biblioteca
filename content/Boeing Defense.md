@@ -7,19 +7,20 @@ nivel_evidencia: medio
 estado: activo
 tags: [boeing-defense, defensa, contratistas, complejo-militar-industrial, aeroespacial, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Boeing Defense
 
 ## BLUF
 
-[[Boeing Defense]] importa en TL como brazo militar del ecosistema Boeing y como uno de los nodos industriales relevantes del aparato de defensa estadounidense. Su valor analitico no esta solo en fabricar plataformas, sino en mostrar como el sector aeroespacial participa en la continuidad presupuestaria, tecnologica y geopolitica del [[Complejo Militar-Industrial]].
+[[Boeing Defense]] importa en TL como brazo militar del ecosistema Boeing y como uno de los nodos industriales relevantes del aparato de defensa estadounidense. Su valor analitico no esta solo en fabricar plataformas, sino en mostrar como el sector aeroespacial participa en la continuidad presupuestaria, tecnológica y geopolitica del [[Complejo Militar-Industrial]].
 
 ## Por que importa en TL
 
 - ayuda a leer la capa industrial de defensa mas alla de Lockheed o Raytheon;
-- conecta aviacion militar, espacio, contratos publicos y dependencia tecnologica;
-- funciona como pieza de comparacion dentro del mapa de grandes contratistas estadounidenses.
+- conecta aviación militar, espacio, contratos publicos y dependencia tecnológica;
+- funciona como pieza de comparación dentro del mapa de grandes contratistas estadounidenses.
 
 ## Que cambio
 
@@ -37,7 +38,7 @@ En TL, su interes aumenta porque muestra como la defensa moderna no depende solo
 
 ### 3. Nodo de continuidad presupuestaria
 
-Como otros grandes contratistas, Boeing Defense importa menos por un solo producto y mas por su insercion estable dentro de presupuestos, alianzas y necesidades doctrinales que se reproducen durante anos.
+Como otros grandes contratistas, Boeing Defense importa menos por un solo producto y mas por su inserción estable dentro de presupuestos, alianzas y necesidades doctrinales que se reproducen durante anos.
 
 ## Con que conecta
 

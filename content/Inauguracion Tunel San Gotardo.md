@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [gotardo, inauguracin, rituales, simbolismo]
 publish: true
+sin_fuente: true
 ---
 
 # Inauguración Túnel De San Gotardo

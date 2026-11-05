@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [barones, bonaerense, eduardo, regulacin]
 publish: true
+sin_fuente: true
 ---
 
 # La Bonaerense: La Agencia De Regulación Del Delito

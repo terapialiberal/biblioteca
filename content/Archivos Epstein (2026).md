@@ -7,6 +7,7 @@ nivel_evidencia: "alto"
 estado: activo
 tags: [andrew, archivos, definitivo, vertido]
 publish: true
+sin_fuente: true
 ---
 
 # Archivos Epstein (2026): El Vertido De Datos Definitivo

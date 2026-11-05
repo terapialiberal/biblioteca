@@ -6,6 +6,7 @@ estado: activo
 aliases: ["DEI (Diversidad Equidad Inclusión)", "Diversidad Equidad Inclusión"]
 tags: [dei, cultura-corporativa, identidad, gobernanza, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # DEI

@@ -1,5 +1,5 @@
 ---
-titulo: Eleccion de Milei
+titulo: Elección de Milei
 tipo: evento
 fecha: 2026-04-24
 capa_tema: b
@@ -8,9 +8,10 @@ estado: activo
 aliases: ["Elección de Milei"]
 tags: [argentina, milei, elecciones, oficialismo, crisis-politica, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
-# Eleccion de Milei
+# Elección de Milei
 
 ## BLUF
 
@@ -24,7 +25,7 @@ publish: true
 
 ## Que cambio
 
-La nota venía como ficha electoral demasiado breve. Se recompila como evento reusable del corredor `argentina / crisis de representacion / mileismo`.
+La nota venía como ficha electoral demasiado breve. Se recompila como evento reusable del corredor `argentina / crisis de representación / mileismo`.
 
 ## Lectura TL
 

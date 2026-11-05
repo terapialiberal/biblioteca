@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [dgb, desinformacion, dhs, censura, gobernanza, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Disinformation Governance Board

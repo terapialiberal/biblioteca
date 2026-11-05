@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [vacunatorio-vip, argentina, covid, privilegio, biopolitica, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # El Vacunatorio VIP

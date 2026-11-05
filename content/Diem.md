@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [cbdc, diem, libra, mark]
 publish: true
+sin_fuente: true
 ---
 
 # Diem (Libra)

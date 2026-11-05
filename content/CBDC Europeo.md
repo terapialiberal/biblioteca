@@ -8,6 +8,7 @@ estado: activo
 moc_canonico: [[00_MOC - Finanzas y CBDC]]
 tags: [cbdc-europeo, euro-digital, bce, dinero-programable, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # CBDC Europeo

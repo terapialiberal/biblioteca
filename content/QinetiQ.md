@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [carlyle, estado, privatizacin, secretos]
 publish: true
+sin_fuente: true
 ---
 
 # QinetiQ: La Privatización De Los Secretos De Estado

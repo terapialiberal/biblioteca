@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Lobbyismo"]
 tags: [lobby, lobbying, grupos-de-interes, influencia, captura, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Lobby

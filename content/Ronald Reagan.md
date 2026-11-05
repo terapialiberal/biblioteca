@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [amigable, reingeniera, ronald, wall]
 publish: true
+sin_fuente: true
 ---
 
 # Ronald Reagan: el Rostro Amigable de la Reingeniería Estructural

@@ -5,6 +5,7 @@ aliases: ["Mayer Amschel", "Mayer Amschel Rothschild"]
 tags: [actor, banquero, dinastia, rothschild]
 tipo: actor
 tier_primario: A
+sin_fuente: true
 ---
 
 # Mayer Amschel Rothschild

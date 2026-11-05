@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: ["1993", atentado]
 publish: true
+sin_fuente: true
 ---
 
 # Atentado WTC 1993

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [atentado, estrategia, operacin, tensin]
 publish: true
+sin_fuente: true
 ---
 
 # Estrategia De La Tensión

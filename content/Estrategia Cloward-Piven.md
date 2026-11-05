@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [cloward, estrategia, piven, saul]
 publish: true
+sin_fuente: true
 ---
 
 # Estrategia Cloward-Piven

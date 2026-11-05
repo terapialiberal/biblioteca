@@ -7,6 +7,7 @@ capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [aceleracionismo, nick, singularidad]
+sin_fuente: true
 ---
 
 # Aceleracionismo

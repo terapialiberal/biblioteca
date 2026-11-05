@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [big-pharma, farmaceuticas, captura-sanitaria, patentes, bioseguridad, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Big Pharma
@@ -39,7 +40,7 @@ En TL, su relevancia crece cuando se observa la tensión estructural entre salud
 
 También sirve para leer cómo laboratorios, agencias, fundaciones, medios médicos y plataformas técnicas pueden actuar como corredor más que como actores aislados.
 
-### 4. Cartelizacion sanitaria con lenguaje tecnico
+### 4. Cartelización sanitaria con lenguaje tecnico
 
 La nota gana más espesor cuando se la conecta con [[Lobby]], [[Compliance]] y [[Captura Regulatoria]]. Big Pharma importa no solo por su escala económica, sino por su capacidad de convertir ciencia regulatoria, estándar clínico y urgencia sanitaria en ventajas estructurales duraderas.
 

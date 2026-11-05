@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [plunge, protection, reserva, team]
 publish: true
+sin_fuente: true
 ---
 
 # Plunge Protection Team: La Falsificación Del Mercado

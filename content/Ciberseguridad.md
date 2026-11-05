@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [ciberseguridad, seguridad-digital, vigilancia, infraestructura, riesgo, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Ciberseguridad

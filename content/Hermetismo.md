@@ -4,13 +4,14 @@ tipo: concepto
 titulo: Hermetismo
 estado: activo
 tags: [esoterismo, simbolismo, tradicion, tl-intel-v3]
+sin_fuente: true
 ---
 
 # Hermetismo
 
-Tradicion simbolica y filosofica asociada a textos hermeticos, correspondencias, analogias y lectura iniciatica del mundo.
+Tradición simbolica y filosofica asociada a textos hermeticos, correspondencias, analogias y lectura iniciatica del mundo.
 
-En TL funciona como capa de interpretacion cultural: permite leer lenguaje simbolico, arquitectura ritual y codigos de elite sin confundir metafora con prueba factual.
+En TL funciona como capa de interpretación cultural: permite leer lenguaje simbolico, arquitectura ritual y codigos de elite sin confundir metafora con prueba factual.
 
 ## Conecta
 

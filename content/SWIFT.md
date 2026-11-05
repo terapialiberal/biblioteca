@@ -15,3 +15,8 @@ publish: true
 ## Lectura TL
 
 SWIFT no mueve dinero por sí sola, pero coordina mensajes críticos. Excluir actores del sistema puede convertir infraestructura financiera en arma geopolítica.
+
+## Fuentes
+
+- https://www.aljazeera.com/news/2026/9/16/what-is-brics-pay-and-can-it-rival-the-wests-swift-payments-system  ·  en `99_AI\05_Memoria_Central\Informe sesión 2026-09-24.md`
+- https://x.com/swiftcommunity/status/2028776524829090043  ·  en `06_Videos_Publicados\2026\2026-03-17_Iran_Stream\00_LINKS_Iran_2026.md`

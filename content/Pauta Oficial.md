@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [argentina, pauta, medios, propaganda, estado, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Pauta Oficial
@@ -23,7 +24,7 @@ publish: true
 
 ## Que cambio
 
-La nota venía como texto-manifiesto, con encoding roto y tipo mal clasificado. Se recompila como concepto modular del corredor `argentina / medios / financiamiento politico / propaganda`.
+La nota venía como texto-manifiesto, con encoding roto y tipo mal clasificado. Se recompila como concepto modular del corredor `argentina / medios / financiamiento político / propaganda`.
 
 ## Lectura TL
 

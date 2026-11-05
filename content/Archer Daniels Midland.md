@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [archer-daniels-midland, adm, agroindustria, granos, procesamiento, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Archer Daniels Midland

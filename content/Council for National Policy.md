@@ -8,6 +8,7 @@ estado: activo
 aliases: ["CNP"]
 tags: [cnp, derecha-estadounidense, donantes, evangelicos, estrategia, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Council for National Policy

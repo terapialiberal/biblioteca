@@ -9,6 +9,7 @@ estado: activo
 aliases: ["Línea De Tiempo: 1980s-2000s (Narcointeligencia Y Shock)"]
 fuentes_clave: []
 tags: [timeline, iran-contra, 9-11, shock, vigilancia, tl-intel-v3]
+sin_fuente: true
 ---
 
 # [[Línea de Tiempo - 1980s-2000s]]

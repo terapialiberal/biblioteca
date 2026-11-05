@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [atentado, carlitos, carlos, tercer]
 publish: true
+sin_fuente: true
 ---
 
 # Carlitos Menem Jr. (El Tercer Atentado)

@@ -8,6 +8,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [isda, derivados, cds, netting, default, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # ISDA
@@ -28,11 +29,11 @@ La nota seguía con problemas de encoding y formato viejo. Se recompila como ent
 
 ## Lectura TL
 
-### 1. El contrato por encima del relato publico
+### 1. El contrato por encima del relato público
 
 ISDA importa porque buena parte del sistema no se estabiliza por confianza abstracta, sino por contratos privados que definen cómo se compensa, acelera o ejecuta el riesgo.
 
-### 2. Default como decision operativa
+### 2. Default como decisión operativa
 
 Leido junto con [[CDS (Credit Default Swaps)]], el nodo muestra que el impago no es solo hecho económico; también es evento interpretado dentro de una arquitectura privada con enormes consecuencias de mercado.
 

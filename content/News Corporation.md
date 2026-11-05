@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [central, comando, distraccin, guerra]
 publish: true
+sin_fuente: true
 ---
 
 # News Corporation: El Comando Central De La Dialéctica De Distracción

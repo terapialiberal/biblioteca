@@ -7,6 +7,7 @@ tags: [aborto, eduacin, estado, sacrificio]
 capa_tema: "a"
 nivel_evidencia: "alto"
 publish: true
+sin_fuente: true
 ---
 
 # Moloch — Sacrificio Y Estado (La Maquina Del Futuro)

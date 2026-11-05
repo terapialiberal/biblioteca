@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [crisis, jpmorgan, quantum, supremacy]
 publish: true
+sin_fuente: true
 ---
 
 # [[Quantum Supremacy Crisis (Q-Day)]]

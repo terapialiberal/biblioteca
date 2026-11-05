@@ -4,6 +4,7 @@ tipo: actor
 titulo: Glenn Greenwald
 estado: activo
 tags: [periodismo, snowden, vigilancia, tl-intel-v3]
+sin_fuente: true
 ---
 
 # Glenn Greenwald

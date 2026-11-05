@@ -8,30 +8,31 @@ estado: activo
 tags: [austin, blackrock, catherine, departamento]
 publish: true
 last_stream: "[[06_Videos_Publicados/2026/2026-05-26_La_Trampa_de_Ormuz/00_ARCHIVO_2026-05-26_La_Trampa_de_Ormuz|ARCHIVO: La Trampa de Ormuz]]"
+sin_fuente: true
 ---
 
 # Catherine Austin Fitts
 
 ## Perfil TL (Resumen Ejecutivo)
 
-**Quin es?** Analista financiera, exdirectora de inversiones del banco de inversin Dillon, Read & Co. y exsubsecretaria de Vivienda y Desarrollo Urbano (HUD) bajo la presidencia de George H.W. Bush.
+**Quién es?** Analista financiera, exdirectora de inversiones del banco de inversin Dillon, Read & Co. y exsubsecretaria de Vivienda y Desarrollo Urbano (HUD) bajo la presidencia de George H.W. Bush.
 
-**Por qu importa?** Es una de las voces ms autorizadas que ha desertado del sistema de Tier B para exponer la **ingeniera financiera del Tier A**. Fitts es quien populariz la denuncia de los **21 trillones de dlares desaparecidos** (Missing Trillions) de los libros contables del Departamento de Defensa (DoD) y del HUD. Su tesis es que existe una "economa paralela" o un **"Black Budget"** financiado mediante el saqueo sistmico del contribuyente y el narcotrfico, utilizado para financiar proyectos tecnolgicos y militares fuera de toda supervisin democrtica. Ella no habla desde la conspiracin, sino desde el conocimiento tcnico de cmo se mueven los flujos de capital en el corazn de Washington.
+**Por qué importa?** Es una de las voces más autorizadas que ha desertado del sistema de Tier B para exponer la **ingeniería financiera del Tier A**. Fitts es quien populariz la denuncia de los **21 trillones de dólares desaparecidos** (Missing Trillions) de los libros contables del Departamento de Defensa (DoD) y del HUD. Su tesis es que existe una "economa paralela" o un **"Black Budget"** financiado mediante el saqueo sistémico del contribuyente y el narcotrfico, utilizado para financiar proyectos tecnolgicos y militares fuera de toda supervisin democrática. Ella no habla desde la conspiración, sino desde el conocimiento tcnico de cómo se mueven los flujos de capital en el corazón de Washington.
 
-## Anlisis De Poder (Tiers)
+## Análisis De Poder (Tiers)
 
 ### Tier A (El Destino De Los Trillones)
 
 - **El Presupuesto Negro:** Fitts expone que el Tier A ha creado una estructura de "gobierno privado" que no rinde cuentas. Los fondos desaparecidos van a parar a contratistas de defensa y proyectos espaciales/tecnolgicos que aseguran el dominio global pero que son invisibles para la contabilidad oficial.
-- **Ingeniera de Control Social:** Advierte sistemticamente sobre el paso hacia un sistema de **Monedas Digitales de Bancos Centrales (CBDC)** como la herramienta final de esclavitud financiera, donde el Tier A podr apagar tu capacidad de compra por motivos ideolgicos.
+- **Ingeniería de Control Social:** Advierte sistemticamente sobre el paso hacia un sistema de **Monedas Digitales de Bancos Centrales (CBDC)** como la herramienta final de esclavitud financiera, donde el Tier A podr apagar tu capacidad de compra por motivos ideolgicos.
 
 ### Tier B (Operadores / HUD Y DoD)
 
-- **Lavado Institucional:** Explica cmo las agencias gubernamentales (como HUD) se utilizan para inflar burbujas inmobiliarias y mover dinero hacia intereses corporativos, dejando a la poblacin con deudas impagables mientras el Tier B poltico firma las autorizaciones.
+- **Lavado Institucional:** Explica cómo las agencias gubernamentales (como HUD) se utilizan para inflar burbujas inmobiliarias y mover dinero hacia intereses corporativos, dejando a la población con deudas impagables mientras el Tier B político firma las autorizaciones.
 
 ### Tier C (Narrativa De Resistencia)
 
-- **Solari Report:** Su plataforma desde la cual educa a la poblacin sobre cmo "desenchufarse" del sistema financiero centralizado, promoviendo la inversin en lo local y la soberana alimentaria y econmica.
+- **Solari Report:** Su plataforma desde la cual educa a la población sobre cómo "desenchufarse" del sistema financiero centralizado, promoviendo la inversin en lo local y la soberana alimentaria y económica.
 
 ## Conexiones Clave
 
@@ -42,10 +43,10 @@ last_stream: "[[06_Videos_Publicados/2026/2026-05-26_La_Trampa_de_Ormuz/00_ARCHI
 
 ## Fuentes
 
-- The Solari Report (Sitio oficial de investigacin).
+- The Solari Report (Sitio oficial de investigación).
 - Reporte Michigan State University (Dr. Mark Skidmore) sobre los \21T faltantes, impulsado por Fitts.
 - Documental: "Planet Lockdown" (Entrevista clave sobre control financiero).
 
-## Por Qu Importa (Estilo Nico)
+## Por Qué Importa (Estilo Nico)
 
 > "Catherine es la que sabe dnde estn enterrados los cadveres financieros de Washington porque ella misma ayud a cavar las tumbas. Te explica que el gobierno no es que sea 'ineficiente' y pierda la plata; es que la est robando para financiar cosas que si supieras, no pagaras un peso de impuestos. Ella pas de las oficinas de Wall Street a avisarte que vienen por tu billetera digital. No la escuches por lo que dice sobre el futuro, escuchala por lo que vio en el pasado desde adentro del HUD."

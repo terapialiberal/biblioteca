@@ -7,6 +7,7 @@ tags: [dialctica, ghibelinos, gelfos, raz]
 capa_tema: "a"
 nivel_evidencia: "alto"
 publish: true
+sin_fuente: true
 ---
 
 # Güelfos Y Ghibelinos - La Raíz De La Dialéctica

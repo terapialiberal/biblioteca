@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Captura Regulatoria (Regulatory Capture)", "Regulatory Capture"]
 tags: [captura-regulatoria, regulacion, lobby, monopolio, estado-corporacion, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Captura Regulatoria

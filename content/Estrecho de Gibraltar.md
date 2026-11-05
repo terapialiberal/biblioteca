@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Estrecho de Gibraltar (La llave del Mediterráneo)"]
 tags: [estrecho-de-gibraltar, chokepoint, mediterraneo, reino-unido, sigint, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Estrecho de Gibraltar

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [craig, escndalo, naciones, spence]
 publish: true
+sin_fuente: true
 ---
 
 # Craig Spence

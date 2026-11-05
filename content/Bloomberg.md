@@ -5,6 +5,7 @@ aliases: ["Bloomberg"]
 tags: [empresa, medios, finanzas, datos]
 tipo: empresa
 tier_primario: B
+sin_fuente: true
 ---
 
 # Bloomberg LP

@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [tavistock, psicologia-social, ingenieria-social, cultura, rockefeller, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Instituto Tavistock

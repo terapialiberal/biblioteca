@@ -1,5 +1,5 @@
 ---
-titulo: Operacion Phoenix
+titulo: Operación Phoenix
 tipo: evento
 fecha: 2026-04-21
 capa_tema: b
@@ -8,9 +8,10 @@ estado: activo
 aliases: ["Operación Phoenix"]
 tags: [operacion-phoenix, contrainsurgencia, vietnam, cia, asesinato-selectivo, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
-# Operacion Phoenix
+# Operación Phoenix
 
 ## BLUF
 
@@ -28,7 +29,7 @@ La Operación Phoenix fue un programa de contrainsurgencia en Vietnam del Sur, a
 
 ## Que cambio
 
-La nota seguía en formato ensayístico viejo y demasiado cerrada en retórica. Se recompila como evento modular para integrarla mejor con `Operacion Condor`, `William Colby` y el corredor de contrainsurgencia.
+La nota seguía en formato ensayístico viejo y demasiado cerrada en retórica. Se recompila como evento modular para integrarla mejor con `Operación Condor`, `William Colby` y el corredor de contrainsurgencia.
 
 ## Lectura TL
 
@@ -44,7 +45,7 @@ En TL, el valor del nodo está en cómo combina burocracia, listas, incentivos y
 
 También sirve como patrón: muchas arquitecturas posteriores de guerra sucia y contrainsurgencia retoman la idea de identificar nodos sociales, aislarlos y destruir su capacidad organizativa.
 
-### 4. Burocracia de la neutralizacion
+### 4. Burocracia de la neutralización
 
 La nota gana más fuerza cuando se la lee como antecedente de violencia administrada. Phoenix importa no solo por la represión, sino por haber convertido inteligencia, clasificación y ejecución en procedimiento repetible.
 

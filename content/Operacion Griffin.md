@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [arquitectura, europea, european, unin]
 publish: true
+sin_fuente: true
 ---
 
 # Operación Griffin: La Arquitectura De La Unión Europea

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [diseador, ganado, humano, julian]
 publish: true
+sin_fuente: true
 ---
 
 # Julian Huxley: El Diseñador Del Ganado Humano Global

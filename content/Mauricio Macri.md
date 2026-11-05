@@ -8,18 +8,19 @@ estado: activo
 aliases: ["Mauricio Macri: El Gerente de la Dependencia Estructural"]
 tags: [argentina, macri, deuda, afi, lawfare, circulo-rojo, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Mauricio Macri
 
 ## BLUF
 
-[[Mauricio Macri]] importa en TL como figura de rearticulacion entre establishment empresario, deuda externa, inteligencia interna, medios y reordenamiento del poder argentino despues del ciclo kirchnerista.
+[[Mauricio Macri]] importa en TL como figura de rearticulación entre establishment empresario, deuda externa, inteligencia interna, medios y reordenamiento del poder argentino después del ciclo kirchnerista.
 
 ## Por que importa en TL
 
 - conecta deuda, FMI, AFI, medios, empresarios amigos y guerra judicial;
-- ayuda a leer su gobierno menos como "normalizacion liberal" y mas como reacomodamiento del bloque de poder local e internacional;
+- ayuda a leer su gobierno menos como "normalización liberal" y mas como reacomodamiento del bloque de poder local e internacional;
 - funciona como nodo de cruce entre [[FMI]], [[Grupo Clarin]], [[AFI]] y [[Cristina Kirchner]].
 
 ## Que cambio
@@ -28,21 +29,21 @@ La nota venia como manifiesto largo, con encoding roto y framing demasiado cerra
 
 ## Lectura TL
 
-### 1. CEOcracia y restauracion del bloque tradicional
+### 1. CEOcracia y restauración del bloque tradicional
 
-En TL, Macri importa porque condensa la vuelta explicita del management empresario al centro del Estado, con fuerte articulacion entre negocios regulados, elites financieras y narrativa de modernizacion.
+En TL, Macri importa porque condensa la vuelta explicita del management empresario al centro del Estado, con fuerte articulación entre negocios regulados, elites financieras y narrativa de modernización.
 
 ### 2. Deuda como mecanismo de disciplina
 
-Leido junto con [[FMI]], su valor analitico aumenta cuando se observa el endeudamiento no solo como error de gestion, sino como forma de reinsertar al pais en una matriz de dependencia financiera y condicionalidad externa.
+Leido junto con [[FMI]], su valor analitico aumenta cuando se observa el endeudamiento no solo como error de gestion, sino como forma de reinsertar al país en una matriz de dependencia financiera y condicionalidad externa.
 
 ### 3. Inteligencia y lawfare como herramientas de gobierno
 
-Conectado a [[AFI]], [[Lawfare]] y [[Jueces Federales de Comodoro Py]], el nodo ayuda a ver como espionaje, presion judicial y clima mediatico pudieron integrarse dentro de una misma arquitectura de gobernanza.
+Conectado a [[AFI]], [[Lawfare]] y [[Jueces Federales de Comodoro Py]], el nodo ayuda a ver como espionaje, presión judicial y clima mediatico pudieron integrarse dentro de una misma arquitectura de gobernanza.
 
-### 4. Bisagra entre vieja derecha y nueva reconfiguracion
+### 4. Bisagra entre vieja derecha y nueva reconfiguración
 
-Tambien importa como punto de paso entre el sistema politico anterior y la reconfiguracion posterior: no agota el fenomeno, pero ayuda a leer continuidades con [[Javier Milei]], empresarios del circulo rojo y aparatos del Estado profundo local.
+También importa como punto de paso entre el sistema político anterior y la reconfiguración posterior: no agota el fenomeno, pero ayuda a leer continuidades con [[Javier Milei]], empresarios del circulo rojo y aparatos del Estado profundo local.
 
 ## Conexiones
 

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [blackrock, declaracin, patrn, rothschild]
 publish: true
+sin_fuente: true
 ---
 
 # Familia Rothschild: El Patrón Del Nivel 1

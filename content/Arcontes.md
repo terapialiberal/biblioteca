@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [arcontes, gnosticismo, loosh]
 publish: true
+sin_fuente: true
 ---
 
 # Resumen General

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [atentado, carlos, estado, matrix]
 publish: true
+sin_fuente: true
 ---
 
 # Río Tercero: el Atentado de Estado para el Encubrimiento de la Matrix

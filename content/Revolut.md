@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Revolut (Neobanco)"]
 tags: [revolut, fintech, neobanco, pagos, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Revolut

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [cientfica, darpa, jason, proyecto]
 publish: true
+sin_fuente: true
 ---
 
 # The Jason Group: La Élite Científica Del Pentágono

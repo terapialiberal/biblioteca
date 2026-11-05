@@ -6,6 +6,7 @@ estado: activo
 aliases: ["UBS - Credit Suisse"]
 tags: [credit-suisse, suiza, banca, crisis, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Credit Suisse

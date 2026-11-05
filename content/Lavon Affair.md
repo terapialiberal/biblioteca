@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [bandera, falsa, moderna, prototipo]
 publish: true
+sin_fuente: true
 ---
 
 # Lavon Affair: El Prototipo De La Falsa Bandera Moderna

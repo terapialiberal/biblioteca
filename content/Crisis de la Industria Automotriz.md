@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [automotriz, crisis, industria, litio]
 publish: true
+sin_fuente: true
 ---
 
 # Crisis De Los Vehículos Eléctricos (EVs)

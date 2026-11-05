@@ -6,13 +6,14 @@ estado: activo
 descripcion: Directorio curado de fuentes, think tanks, medios y herramientas de mapeo usados como apoyo para analisis TL.
 tags: [fuentes, marcadores, directorio, curaduria, contenedor]
 publish: true
+sin_fuente: true
 ---
 
 # Fuentes y Marcadores
 
 ## Que es
 
-Directorio operativo de fuentes y herramientas que pueden servir para investigacion, contraste o mapeo de redes. No es un nodo doctrinal ni una entidad del grafo.
+Directorio operativo de fuentes y herramientas que pueden servir para investigación, contraste o mapeo de redes. No es un nodo doctrinal ni una entidad del grafo.
 
 ## Por que importa en TL
 

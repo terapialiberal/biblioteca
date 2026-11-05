@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [colapso, enron, george]
 publish: true
+sin_fuente: true
 ---
 
 # Colapso De Enron

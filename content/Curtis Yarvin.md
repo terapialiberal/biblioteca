@@ -5,6 +5,7 @@ aliases: ["Curtis Yarvin", "Mencius Moldbug", "Moldbug"]
 tags: [actor, ideologo, nrx, neoreaccion, thiel]
 tipo: actor
 tier_primario: B
+sin_fuente: true
 ---
 
 # Curtis Yarvin (Moldbug)

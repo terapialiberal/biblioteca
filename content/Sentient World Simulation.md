@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [avatar, digital, panptico, sentient]
 publish: true
+sin_fuente: true
 ---
 
 # Sentient World Simulation: el Avatar Digital de la Humanidad

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [bcci, octopus, promis, pulpo]
 publish: true
+sin_fuente: true
 ---
 
 # The Octopus (El Pulpo)

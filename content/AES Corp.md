@@ -7,6 +7,7 @@ nivel_evidencia: alto
 estado: activo
 tags: [aes-corp, blackrock, energia, infraestructura, iran-2026, timing, costly-signal, gip, eqt, tl-intel-v3]
 fecha: 2026-03-12
+sin_fuente: true
 ---
 
 # AES Corp

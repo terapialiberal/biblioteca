@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [cbdc, ethereum, foundation, vitalik]
 publish: true
+sin_fuente: true
 ---
 
 # Ethereum Foundation

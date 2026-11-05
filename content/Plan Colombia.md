@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [colombia, militarizacin, monsanto, plan]
 publish: true
+sin_fuente: true
 ---
 
 # Plan Colombia: La Militarización Negocio Del Narcotráfico

@@ -7,6 +7,7 @@ nivel_evidencia: bajo
 estado: activo
 tags: [prometeo, transhumanismo, mito, simbolismo, tecnocultura, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Prometeo y el Transhumanismo

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [caci, donald, escndalo, ghraib]
 publish: true
+sin_fuente: true
 ---
 
 # Escándalo De Abu Ghraib

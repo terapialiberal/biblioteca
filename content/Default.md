@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Default soberano", "Incumplimiento de deuda"]
 tags: [default, deuda-soberana, crisis, acreedores, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Default

@@ -5,6 +5,7 @@ aliases: ["Leo Ryan"]
 tags: [actor, congreso-eeuu, jonestown]
 tipo: actor
 tier_primario: C
+sin_fuente: true
 ---
 
 # Leo Ryan

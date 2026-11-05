@@ -7,13 +7,14 @@ nivel_evidencia: medio
 estado: activo
 tags: [matrix, poder, coordinacion, arquitectura, control, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Matrix de Poder
 
 ## BLUF
 
-[[Matrix de Poder]] importa en TL como marco de coordinacion sistemica: no describe un jefe unico, sino una arquitectura donde finanzas, inteligencia, tecnologia, medios y politica se refuerzan mutuamente.
+[[Matrix de Poder]] importa en TL como marco de coordinación sistémica: no describe un jefe unico, sino una arquitectura donde finanzas, inteligencia, tecnología, medios y política se refuerzan mutuamente.
 
 ## Por que importa en TL
 
@@ -27,21 +28,21 @@ La auditoria de base detecto que esta nota tenia formato viejo y problemas de en
 
 ## Lectura TL
 
-### 1. Coordinacion sin mando unico visible
+### 1. Coordinación sin mando unico visible
 
-La matrix no requiere una mesa unica de comando para cada movimiento. Funciona porque distintos actores comparten incentivos, lenguaje, circuitos de legitimacion y dependencia mutua.
+La matrix no requiere una mesa unica de comando para cada movimiento. Funciona porque distintos actores comparten incentivos, lenguaje, circuitos de legitimación y dependencia mutua.
 
 ### 2. Cinco pilares recurrentes
 
 - finanzas: credito, deuda, gestores de activos, bancos centrales;
-- inteligencia: recoleccion de datos, kompromat, operaciones encubiertas, seguridad;
+- inteligencia: recolección de datos, kompromat, operaciones encubiertas, seguridad;
 - medios y academia: ventana de legitimidad, manufactura de consenso, filtro epistemico;
-- tecnologia: plataformas, nube, identidad digital, vigilancia predictiva;
-- politica y derecho: traduccion institucional, excepcion regulatoria y cobertura juridica.
+- tecnología: plataformas, nube, identidad digital, vigilancia predictiva;
+- política y derecho: traducción institucional, excepción regulatoria y cobertura juridica.
 
-### 3. Gestion por consenso, friccion y castigo
+### 3. Gestion por consenso, fricción y castigo
 
-Su modo preferido no es la coercion abierta permanente. Prefiere inducir comportamiento via relato, incentivos, dependencia y reputacion. Cuando eso falla, aparecen lawfare, censura, de-banking, aislamiento o shock disciplinario.
+Su modo preferido no es la coerción abierta permanente. Prefiere inducir comportamiento via relato, incentivos, dependencia y reputación. Cuando eso falla, aparecen lawfare, censura, de-banking, aislamiento o shock disciplinario.
 
 ### 4. Utilidad analitica
 

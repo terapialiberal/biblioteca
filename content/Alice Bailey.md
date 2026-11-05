@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [agenda, alice, bailey, teosofa]
 publish: true
+sin_fuente: true
 ---
 
 # Alice Bailey

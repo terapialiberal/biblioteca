@@ -5,6 +5,7 @@ aliases: ["Bélgica"]
 tags: [pais, ue, nato, bruselas]
 tipo: pais
 tier_primario: C
+sin_fuente: true
 ---
 
 # Bélgica

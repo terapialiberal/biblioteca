@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [familia, gavin, nancy, newsom]
 publish: true
+sin_fuente: true
 ---
 
 # Gavin Newsom

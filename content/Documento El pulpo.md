@@ -7,6 +7,7 @@ nivel_evidencia: "alto"
 estado: activo
 tags: [casolaro, promis, inteligencia, pulpo, espionaje]
 publish: true
+sin_fuente: true
 ---
 
 # El Pulpo (The Octopus): La Red de Inteligencia Privatizada

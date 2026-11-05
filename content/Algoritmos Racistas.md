@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [gemini, imgenes, sesgo, woke]
 publish: true
+sin_fuente: true
 ---
 
 # El Desastre De Google Gemini (Imágenes Woke)

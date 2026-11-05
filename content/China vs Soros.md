@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [brics, china, george, soros]
 publish: true
+sin_fuente: true
 ---
 
 # China Vs Soros

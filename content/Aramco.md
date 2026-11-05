@@ -69,7 +69,7 @@ La nota estaba escrita como mini tesis sobre petrodólar. Se recompila como enti
 
 ## Caso 2026-09-24 — La guerra que está reordenando el mapa energético
 
-**Fuente principal:** transcripción del video LA GUERRA QUE ESTÁ REORDENANDO EL MAPA ENERGÉTICO (emitido 2026-09-24): `03_Produccion/2026-09-14_El_dia_despues_tiene_duenios/transcripcion.md`
+**Fuente principal:** transcripción del video LA GUERRA QUE ESTÁ REORDENANDO EL MAPA ENERGÉTICO (emitido 2026-09-24): `03_Produccion/2026-09-14_El_dia_despues_tiene_duenios/transcripción.md`
 
 **Aramco evalúa nuevas rutas de exportación y almacenamiento exterior ante interrupciones del suministro por la guerra EE.UU.-Irán.** La petrolera anunció que nunca detuvo sus operaciones pese a las "interrupciones" — ataques cruzados en Ormuz y Bab el-Mandeb — y que la infraestructura ha demostrado resistencia. Amin Nasser (CEO, presidente) negó dar una actualización sobre el oleoducto Este-Oeste, dañado hace dos semanas por un ataque de milicias proiraníes desde Irak, pero indicó que está próximo a reactivar operaciones según medios saudíes. El oleoducto permite al reino esquivar Ormuz enviando crudo desde los campos orientales a terminales de exportación en el mar Rojo; su interrupción disparó los precios, con el Brent en **106 dólares el barril**.
 
@@ -106,7 +106,7 @@ La nota estaba escrita como mini tesis sobre petrodólar. Se recompila como enti
 - **TheObjective** (24/09/2026): https://theobjective.com/internacional/2026-09-24/saudi-aramco-rutas-exportacion-petroleo/
 - **ElEconomista** (18/09/2026): https://www.eleconomista.es/economia/noticias/14014999/09/26/arabia-saudi-comienza-a-informar-a-las-refinerias-de-europa-que-no-recibiran-entregas-de-petroleo-el-proximo-mes.html
 - **Financial Times**: https://www.ft.com/content/3a88d016-9575-4c11-bd34-14606964a867
-- Transcripción del video LA GUERRA QUE ESTÁ REORDENANDO EL MAPA ENERGÉTICO (24/09/2026): `03_Produccion/2026-09-14_El_dia_despues_tiene_duenios/transcripcion.md`
+- Transcripción del video LA GUERRA QUE ESTÁ REORDENANDO EL MAPA ENERGÉTICO (24/09/2026): `03_Produccion/2026-09-14_El_dia_despues_tiene_duenios/transcripción.md`
 
 ## Casos TL relacionados
 

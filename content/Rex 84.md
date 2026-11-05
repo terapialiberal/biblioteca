@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [john, oliver]
 publish: true
+sin_fuente: true
 ---
 
 # Rex 84

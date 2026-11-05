@@ -4,6 +4,7 @@ tipo: concepto
 titulo: "Patrón - El Gran Tablero Mundial (Brzezinski)"
 estado: procesado
 tags: [patrones, brzezinski, atlantismo, geopolítica, tl-v3]
+sin_fuente: true
 ---
 
 # [[Patrón - El Gran Tablero Mundial (Brzezinski)]]

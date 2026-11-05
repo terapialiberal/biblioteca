@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [baluarte, renta, rural, tradicin]
 publish: true
+sin_fuente: true
 ---
 
 # Sociedad Rural Argentina: el Baluarte de la Renta Y la Tradición

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [boring, company, elon, hubs]
 publish: true
+sin_fuente: true
 ---
 
 # [[Boring Company (Hubs Logísticos)]]

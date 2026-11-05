@@ -7,6 +7,7 @@ nivel_evidencia: alto
 estado: activo
 tags: [iran, pahlavi, transicion, iran-prosperity-project, regimen-change, occidente, sha, tier-b, tl-intel-v3]
 fecha: 2026-03-12
+sin_fuente: true
 ---
 
 # Reza Pahlavi

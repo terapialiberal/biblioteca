@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [alarmismo, coordinado, operaciones, problema]
 publish: true
+sin_fuente: true
 ---
 
 # Resumen General

@@ -4,6 +4,7 @@ tipo: concepto
 titulo: "Patrón - Equilibrio de Nash (Teoría de Juegos)"
 estado: procesado
 tags: [game-theory, tl-v3, nash, patrones, teoria-de-juegos]
+sin_fuente: true
 ---
 
 # Patrón - Equilibrio de Nash

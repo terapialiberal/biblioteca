@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [estado, indefensin, infantilizacin, sociedad]
 publish: true
+sin_fuente: true
 ---
 
 # Infantilización De La Sociedad

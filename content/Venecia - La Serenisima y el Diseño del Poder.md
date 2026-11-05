@@ -7,6 +7,7 @@ tags: [noblezas, poder, serensima, venecia]
 capa_tema: "a"
 nivel_evidencia: "alto"
 publish: true
+sin_fuente: true
 ---
 
 # Venecia - La Serenísima Y El Diseño Del Poder

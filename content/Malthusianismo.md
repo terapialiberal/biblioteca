@@ -6,6 +6,7 @@ capa_tema: b
 nivel_evidencia: medio-alto
 tags: [malthusianismo, poblacion, recursos, gobernanza, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Malthusianismo

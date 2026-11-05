@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [behind, gran, guion, inevitabilidad]
 publish: true
+sin_fuente: true
 ---
 
 # Leave the World Behind: El Guion De La Inevitabilidad

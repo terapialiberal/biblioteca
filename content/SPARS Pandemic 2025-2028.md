@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [spars, pandemia, simulacion, gestion-narrativa, bioseguridad, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # SPARS Pandemic 2025-2028

@@ -9,6 +9,7 @@ estado: activo
 aliases: ["4IR", "Cuarta Revolución Industrial (4IR)"]
 fuentes_clave: []
 tags: [4ir, wef, transhumanismo, automatizacion, tecnologia-de-control, tl-intel-v3]
+sin_fuente: true
 ---
 
 # [[Cuarta Revolución Industrial]]

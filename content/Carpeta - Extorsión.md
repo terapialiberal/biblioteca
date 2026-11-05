@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Carpeta", "Carpeta (Extorsión)", "Kompromat"]
 tags: [carpeta, extorsion, kompromat, inteligencia, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Carpeta - Extorsión

@@ -12,6 +12,7 @@ tags:
   - denunciante
   - manipulacion-politica
 publish: true
+sin_fuente: true
 ---
 
 # Dominic Cummings

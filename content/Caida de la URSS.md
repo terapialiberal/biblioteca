@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [cada, hipernormalizacin, jeffrey, urss]
 publish: true
+sin_fuente: true
 ---
 
 # Caída De La URSS

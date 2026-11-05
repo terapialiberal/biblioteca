@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Tratado de Pandemias", "Tratado de Pandemias de la OMS", "Tratado De Pandemias (OMS)"]
 tags: [tratado-de-pandemias, oms, bioseguridad, soberania, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Tratado de Pandemias OMS

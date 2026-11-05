@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Thomas Hobbes"]
 tags: [hobbes, leviatan, estado, seguridad, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Hobbes

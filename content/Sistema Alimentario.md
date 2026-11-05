@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [sistema-alimentario, alimentos, cadena-de-valor, agricultura, centralizacion, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Sistema Alimentario

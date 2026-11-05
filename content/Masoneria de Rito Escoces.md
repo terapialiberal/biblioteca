@@ -7,6 +7,7 @@ tags: [albert, complejo, escocs, masonera]
 tier_primario: "a"
 nivel_evidencia: "total"
 publish: true
+sin_fuente: true
 ---
 
 # Masonería De Rito Escocés

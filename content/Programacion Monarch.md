@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [jeffrey, mecanizacin, monarch, trauma]
 publish: true
+sin_fuente: true
 ---
 
 # Programación Monarch: La Mecanización Del Trauma

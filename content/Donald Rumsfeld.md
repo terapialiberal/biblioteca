@@ -7,17 +7,18 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [dick, donald, paul, rumsfeld]
 publish: true
+sin_fuente: true
 ---
 
 # Donald Rumsfeld
 
 ## Resumen Ejecutivo
 
-**Quin es?** Secretario de Defensa dos veces (Ford y Bush Jr), CEO de varias corporaciones, firmante de PNAC. El da antes del 9/11 anunci que el Pentgono haba "perdido" \2.3 trillones.
+**Quién es?** Secretario de Defensa dos veces (Ford y Bush Jr), CEO de varias corporaciones, firmante de PNAC. El da antes del 9/11 anunci que el Pentgono haba "perdido" \2.3 trillones.
 
-**Por qu importa?** Ejecutor de la doctrina neocon. Responsible directo de Afganistn e Irak. Su anuncio del 10 de septiembre de 2001 sobre los trillones perdidos qued enterrado por los eventos del da siguiente.
+**Por qué importa?** Ejecutor de la doctrina neocon. Responsible directo de Afganistn e Irak. Su anuncio del 10 de septiembre de 2001 sobre los trillones perdidos qued enterrado por los eventos del da siguiente.
 
-## Anlisis (Tiers)
+## Análisis (Tiers)
 
 ### Tier A (Beneficiarios)
 
@@ -27,7 +28,7 @@ publish: true
 
 ### Tier B (Operativa)
 
-- **Transformacin militar:** Agenda de "modernizacin" = ms contratos high-tech.
+- **Transformacin militar:** Agenda de "modernizacin" = más contratos high-tech.
 - **Tortura:** Abu Ghraib, Guantnamo - aprob "enhanced interrogation".
 - **Known unknowns:** Maestro del doublespeak para oscurecer la verdad.
 - **\2.3 trillones:** Anunci fondos perdidos del Pentgono el 10/9/2001. El da siguiente...

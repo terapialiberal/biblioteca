@@ -40,3 +40,7 @@ publish: true
 ## Conclusión Del Análisis
 
 Rothschild and Co nos enseña que **el verdadero poder no necesita publicidad, necesita asesoría**. Nos advierte que cuando un banco entrena a los presidentes, la democracia se convierte en un departamento de relaciones públicas para la banca de inversión. Para el habitante soberano del Tier C, Rothschild and Co es la cara moderna de una red centenaria que entiende que la deuda es el arma de conquista más efectiva de la historia. La libertad real exige la auditoría ciudadana de la deuda soberana, el fin de la captura tecnocrática de los gobiernos y la recuperación de una moneda que no esté diseñada para enriquecer a los asesores de París mientras empobrece a los ciudadanos de las naciones.
+
+## Fuentes
+
+- https://en.wikipedia.org/wiki/Nathaniel\_Rothschild  ·  en `06_Videos_Publicados\2026\2026-04-07_NWO_Energetico_Blueprint\NOTA_TESIS_NWO_Energetico_Blueprint.md`

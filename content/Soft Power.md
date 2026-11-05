@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Poder blando", "Hard Power", "Smart Power", "Soft Power (Poder Blando)"]
 tags: [soft-power, hegemonia, cultura, medios, influencia, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Soft Power

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [blackrock, inversin, poder, riesgo]
 publish: true
+sin_fuente: true
 ---
 
 # Riesgo de la Inversión Pasiva: la Centralización del Poder Accionarial

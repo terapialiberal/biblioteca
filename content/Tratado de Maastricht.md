@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [club, european, maastricht, tratado]
 publish: true
+sin_fuente: true
 ---
 
 # Tratado De Maastricht

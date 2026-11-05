@@ -7,13 +7,14 @@ nivel_evidencia: medio
 estado: activo
 tags: [jfk, john-f-kennedy, estados-unidos, presidencia, cia, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # John F. Kennedy (JFK)
 
 ## BLUF
 
-[[John F. Kennedy (JFK)]] importa en TL como presidente asociado a una fase critica de friccion entre Casa Blanca, [[CIA]], Guerra Fria y aparato de seguridad nacional. Su lugar en la base no depende solo de su asesinato, sino tambien de su posicion dentro de conflictos como [[Bahia de Cochinos]].
+[[John F. Kennedy (JFK)]] importa en TL como presidente asociado a una fase critica de fricción entre Casa Blanca, [[CIA]], Guerra Fria y aparato de seguridad nacional. Su lugar en la base no depende solo de su asesinato, sino también de su posición dentro de conflictos como [[Bahia de Cochinos]].
 
 ## Por que importa en TL
 
@@ -23,11 +24,11 @@ publish: true
 
 ## Que cambio
 
-El nodo faltaba como entrada personal canonica, pese a que aparecia referido desde multiples notas. Se crea para estabilizar enlaces del cluster historico de inteligencia.
+El nodo faltaba como entrada personal canonica, pese a que aparecia referido desde multiples notas. Se crea para estabilizar enlaces del cluster histórico de inteligencia.
 
 ## Lectura TL
 
-### 1. Presidencia en un punto de maxima tension
+### 1. Presidencia en un punto de maxima tensión
 
 Kennedy goberno durante una fase intensa de Guerra Fria marcada por crisis nucleares, operaciones encubiertas y disputas entre presidencia, Pentagono e inteligencia.
 
@@ -37,7 +38,7 @@ En TL, su relevancia crece por el choque con la [[CIA]] alrededor de [[Bahia de 
 
 ### 3. Nodo de conflicto interpretativo
 
-Su asesinato genero una de las mayores zonas de disputa historica del siglo XX. Por eso conviene que el nodo personal exista separado de [[Asesinato de JFK]], para no mezclar biografia presidencial con las capas interpretativas del magnicidio.
+Su asesinato genero una de las mayores zonas de disputa histórica del siglo XX. Por eso conviene que el nodo personal exista separado de [[Asesinato de JFK]], para no mezclar biografia presidencial con las capas interpretativas del magnicidio.
 
 ## Con que conecta
 

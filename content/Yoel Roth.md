@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [yoel-roth, twitter, trust-and-safety, censura, plataformas, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Yoel Roth

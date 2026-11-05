@@ -6,6 +6,7 @@ capa_tema: b
 nivel_evidencia: alto
 tags: [control-narrativo, propaganda, medios, censura, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Control Narrativo

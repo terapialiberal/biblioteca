@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [cristbal, lavado, lpez, medios]
 publish: true
+sin_fuente: true
 ---
 
 # Cristóbal López

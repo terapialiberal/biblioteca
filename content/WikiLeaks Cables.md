@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [cables, julian, wikileaks]
 publish: true
+sin_fuente: true
 ---
 
 # WikiLeaks Cables

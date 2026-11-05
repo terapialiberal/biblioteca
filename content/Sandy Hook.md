@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [fema, hook, sagrado, trauma]
 publish: true
+sin_fuente: true
 ---
 
 # Sandy Hook: el Trauma Sagrado Y el Cierre de la Disidencia

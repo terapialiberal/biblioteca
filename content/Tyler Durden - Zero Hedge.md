@@ -5,6 +5,7 @@ aliases: ["Tyler Durden", "Zero Hedge"]
 tags: [medio, finanzas, disidente, anonimo]
 tipo: medio
 tier_primario: C
+sin_fuente: true
 ---
 
 # Tyler Durden - Zero Hedge

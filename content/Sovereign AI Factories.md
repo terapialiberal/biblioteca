@@ -7,6 +7,7 @@ nivel_evidencia: "alto"
 estado: activo
 tags: [factories, japn, nacionalismo, tecnolgico]
 publish: true
+sin_fuente: true
 ---
 
 # Sovereign AI Factories

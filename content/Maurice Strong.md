@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [gobierno, klaus, maurice, strong]
 publish: true
+sin_fuente: true
 ---
 
 # Maurice Strong: El Arquitecto Del Gobierno Global

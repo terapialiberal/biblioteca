@@ -1,5 +1,5 @@
 ---
-titulo: Precision Fermentation
+titulo: Precisión Fermentation
 tipo: concepto
 fecha: 2026-04-19
 capa_tema: b
@@ -7,9 +7,10 @@ nivel_evidencia: medio
 estado: activo
 tags: [precision-fermentation, biotecnologia, alimentos, sintesis, centralizacion, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
-# Precision Fermentation
+# Precisión Fermentation
 
 ## BLUF
 

@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [cambridge-analytica, microtargeting, elecciones, facebook, datos, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Cambridge Analytica

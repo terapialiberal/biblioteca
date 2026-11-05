@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [blackrock, citadel, gamestop, wallstreetbets]
 publish: true
+sin_fuente: true
 ---
 
 # GameStop Y r/WallStreetBets

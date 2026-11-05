@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [david, liquidez, reserva, verdugo]
 publish: true
+sin_fuente: true
 ---
 
 # Paul Volcker: El Verdugo De La Liquidez Global

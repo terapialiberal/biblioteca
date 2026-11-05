@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [american, center, hillary, progress]
 publish: true
+sin_fuente: true
 ---
 
 # Center for American Progress

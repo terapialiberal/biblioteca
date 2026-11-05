@@ -7,6 +7,7 @@ tags: [glndula, matrix, psicodlicos, telfono]
 capa_tema: "a"
 nivel_evidencia: "medio"
 publish: true
+sin_fuente: true
 ---
 
 # DMT- Teléfono De La Matrix (La Molécula Del Espíritu)

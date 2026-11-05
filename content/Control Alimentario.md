@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [control-alimentario, alimentos, soberania, dependencia, agroindustria, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Control Alimentario

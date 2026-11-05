@@ -7,6 +7,7 @@ capa_tema: b
 nivel_evidencia: medio
 estado: activo
 tags: [00-patron, psyop, ia, tecnologia, statecraft, tl-v2]
+sin_fuente: true
 ---
 
 # 🤖 Patrón – Deepfake

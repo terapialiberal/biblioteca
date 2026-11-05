@@ -7,6 +7,7 @@ capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [bayer, monsanto]
+sin_fuente: true
 ---
 
 # Bayer

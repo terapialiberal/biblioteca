@@ -5,6 +5,7 @@ titulo: Terapia Liberal - Base de Conocimiento
 fecha: 2026-04-21
 estado: activo
 tags: [base-de-conocimiento, moc, quartz, tl-intel-v3]
+sin_fuente: true
 ---
 
 # Terapia Liberal - Base de Conocimiento

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: ["1973", crisis, henry, sistema]
 publish: true
+sin_fuente: true
 ---
 
 # Crisis Del Petróleo De 1973

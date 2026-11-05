@@ -7,6 +7,7 @@ tags: [alejandra, archivos, biblioteca]
 capa_tema: "a"
 nivel_evidencia: "medio"
 publish: true
+sin_fuente: true
 ---
 
 # Biblioteca De Alejandría (El Reset De La Información)

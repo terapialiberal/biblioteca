@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Kuwait (Petróleo)"]
 tags: [kuwait, golfo, petroleo, energia, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Kuwait

@@ -8,19 +8,20 @@ estado: activo
 aliases: ["Los Papeles De Pfizer: La Verdad Detras De La Inmunidad"]
 tags: [pfizer, fda, covid, captura-regulatoria, documentos, bioseguridad, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Los Papeles de Pfizer
 
 ## BLUF
 
-[[Los Papeles de Pfizer]] importa en TL como nombre operativo para el corpus documental liberado en torno a ensayos, aprobaciones y datos regulatorios asociados a Pfizer durante la etapa COVID. Su valor esta en el cruce entre farmaceutica, regulador, opacidad y disputa por acceso a informacion.
+[[Los Papeles de Pfizer]] importa en TL como nombre operativo para el corpus documental liberado en torno a ensayos, aprobaciones y datos regulatorios asociados a Pfizer durante la etapa COVID. Su valor esta en el cruce entre farmaceutica, regulador, opacidad y disputa por acceso a información.
 
 ## Por que importa en TL
 
 - conecta documentos tecnicos, tiempos regulatorios y narrativa publica;
-- sirve para pensar la relacion entre [[FDA]], industria farmaceutica y transparencia;
-- ayuda a distinguir entre dato liberado, interpretacion del dato y sobrelectura conspirativa.
+- sirve para pensar la relación entre [[FDA]], industria farmaceutica y transparencia;
+- ayuda a distinguir entre dato liberado, interpretación del dato y sobrelectura conspirativa.
 
 ## Que cambio
 
@@ -28,21 +29,21 @@ La nota venia recompilada pero todavia demasiado corta para el estandar actual d
 
 ## Que es
 
-Es el nombre operativo usado para el conjunto de documentos, anexos, reportes y materiales regulatorios vinculados a los ensayos, aprobaciones y procesos de revision alrededor de Pfizer durante la etapa COVID.
+Es el nombre operativo usado para el conjunto de documentos, anexos, reportes y materiales regulatorios vinculados a los ensayos, aprobaciones y procesos de revisión alrededor de Pfizer durante la etapa COVID.
 
 ## Lectura TL
 
 ### 1. Opacidad con sello tecnico
 
-El interes del nodo no esta solo en el contenido de cada archivo, sino en el patron institucional que revela: resistencia a publicar, litigio por acceso, asimetria tecnica entre poblacion y reguladores, y enorme dependencia social de procesos que casi nadie puede auditar en tiempo real.
+El interes del nodo no esta solo en el contenido de cada archivo, sino en el patron institucional que revela: resistencia a publicar, litigio por acceso, asimetria tecnica entre población y reguladores, y enorme dependencia social de procesos que casi nadie puede auditar en tiempo real.
 
 ### 2. Tiempo regulatorio vs tiempo social
 
-Tambien sirve para leer la distancia entre el ritmo de aprobacion y despliegue masivo, por un lado, y el ritmo mucho mas lento del escrutinio documental, por el otro.
+También sirve para leer la distancia entre el ritmo de aprobación y despliegue masivo, por un lado, y el ritmo mucho mas lento del escrutinio documental, por el otro.
 
 ### 3. Confianza delegada
 
-El punto fuerte del nodo es mostrar como millones de personas dependen de cadenas de validacion que operan a puertas cerradas y solo se vuelven parcialmente auditables cuando la decision principal ya fue tomada.
+El punto fuerte del nodo es mostrar como millones de personas dependen de cadenas de validación que operan a puertas cerradas y solo se vuelven parcialmente auditables cuando la decisión principal ya fue tomada.
 
 ## Con que conecta
 

@@ -7,17 +7,18 @@ nivel_evidencia: medio
 estado: activo
 tags: [censura-corporativa, plataformas, reputacion, anunciantes, moderacion, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Censura Corporativa
 
 ## BLUF
 
-[[Censura Corporativa]] importa en TL como forma de disciplinamiento discursivo ejercida por plataformas, anunciantes, redes de reputacion y proveedores privados de confianza sin necesidad de coercion estatal abierta. Su utilidad analitica esta en mostrar como el control del debate puede pasar por terminos de servicio, castigo economico, labels y gestion de visibilidad.
+[[Censura Corporativa]] importa en TL como forma de disciplinamiento discursivo ejercida por plataformas, anunciantes, redes de reputación y proveedores privados de confianza sin necesidad de coerción estatal abierta. Su utilidad analitica esta en mostrar como el control del debate puede pasar por terminos de servicio, castigo económico, labels y gestion de visibilidad.
 
 ## Por que importa en TL
 
-- conecta plataformas, reputacion, publicidad y arbitraje privado del discurso;
+- conecta plataformas, reputación, publicidad y arbitraje privado del discurso;
 - ayuda a leer como parte de la censura contemporanea opera mediante empresas y no solo via ley o decreto;
 - funciona como nodo puente entre [[X]], [[NewsGuard]], [[ADL (Anti-Defamation League)|ADL]] y [[Complejo Industrial de la Censura]].
 
@@ -33,9 +34,9 @@ Censura Corporativa importa porque muestra que el control del discurso puede del
 
 ### 2. Castigo sin tribunal
 
-En TL, su valor aumenta cuando se observa que desmonetizacion, degradacion de alcance, bloqueo de cuentas o perdida de anunciantes pueden operar como sanciones informales muy efectivas.
+En TL, su valor aumenta cuando se observa que desmonetización, degradación de alcance, bloqueo de cuentas o perdida de anunciantes pueden operar como sanciones informales muy efectivas.
 
-### 3. Intermediacion moral y comercial
+### 3. Intermediación moral y comercial
 
 Su relevancia crece porque muchas veces no decide una sola plataforma por si sola: entran en juego ONG, verificadores, medios, marcas y actores institucionales que comparten criterios de riesgo y respetabilidad.
 

@@ -7,6 +7,7 @@ nivel_evidencia: "alto"
 estado: activo
 tags: [geopolitica, crisis-artificial, caos, estrategia]
 publish: true
+sin_fuente: true
 ---
 
 # Vudú Geopolítico: El Arte de la Crisis Simulada (V.3)

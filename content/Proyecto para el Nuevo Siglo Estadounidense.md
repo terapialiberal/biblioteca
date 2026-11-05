@@ -8,6 +8,7 @@ estado: activo
 aliases: ["PNAC", "Project for the New American Century"]
 tags: [pnac, neocon, think-tank, hegemonia, guerra-preventiva, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Proyecto para el Nuevo Siglo Estadounidense

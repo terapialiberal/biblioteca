@@ -6,6 +6,7 @@ estado: activo
 aliases: ["COVID-19", "Coronavirus", "COVID-19 (Pandemia)"]
 tags: [covid-19, pandemia, salud-global, biopolitica, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Pandemia COVID-19

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [alice, naciones, teosofa]
 publish: true
+sin_fuente: true
 ---
 
 # Teosofía

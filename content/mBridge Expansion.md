@@ -1,5 +1,5 @@
 ---
-titulo: mBridge Expansion
+titulo: mBridge Expansión
 tipo: concepto
 fecha: 2026-04-24
 capa_tema: b
@@ -8,9 +8,10 @@ estado: activo
 aliases: ["mBridge Expansion (ASEAN)", "mBridge Expansion"]
 tags: [mbridge, asean, rails-financieros, desdolarizacion, asia, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
-# mBridge Expansion
+# mBridge Expansión
 
 ## BLUF
 
@@ -24,7 +25,7 @@ publish: true
 
 ## Que cambio
 
-La nota venía como pieza forense vieja, con encoding roto y afirmaciones demasiado cerradas. Se recompila como nodo modular del corredor `mBridge / ASEAN / rails asiaticos / expansion regional`.
+La nota venía como pieza forense vieja, con encoding roto y afirmaciones demasiado cerradas. Se recompila como nodo modular del corredor `mBridge / ASEAN / rails asiaticos / expansión regional`.
 
 ## Lectura TL
 

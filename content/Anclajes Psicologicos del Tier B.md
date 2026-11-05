@@ -8,6 +8,7 @@ tags: [tier-b, anclajes-psicologicos, operadores, incentivos, tl-intel-v3]
 capa_tema: b
 nivel_evidencia: medio
 publish: true
+sin_fuente: true
 ---
 
 # Anclajes Psicologicos del Tier B

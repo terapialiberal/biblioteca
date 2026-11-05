@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [twitter-files, censura, big-tech, moderacion, fbi, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Twitter Files

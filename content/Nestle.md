@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [blackrock, nestl, privatizacin, vital]
 publish: true
+sin_fuente: true
 ---
 
 # Nestlé: El Depredador De Lo Vital

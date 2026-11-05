@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [dwight, guerra, incidente]
 publish: true
+sin_fuente: true
 ---
 
 # Incidente Del U-2

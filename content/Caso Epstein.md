@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Caso Epstein"]
 tags: [epstein, kompromat, trafico, elite, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Caso Epstein

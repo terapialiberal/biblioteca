@@ -7,6 +7,7 @@ tags: [disociacin, fragmentacin, operacin, ultra]
 capa_tema: "a"
 nivel_evidencia: "total"
 publish: true
+sin_fuente: true
 ---
 
 # Mk-Ultra Y Fragmentación Del Alma

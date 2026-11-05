@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [affair, caso, dutroux, jeffrey]
 publish: true
+sin_fuente: true
 ---
 
 # Caso Dutroux (Affair Dutroux)

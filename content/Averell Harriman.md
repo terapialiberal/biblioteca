@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [averell, brown, harriman, skull]
 publish: true
+sin_fuente: true
 ---
 
 # Averell Harriman

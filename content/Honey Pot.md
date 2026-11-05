@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Honey Pot (Operación)", "Honey Pot (Operacion)", "Honey Trap"]
 tags: [honey-pot, kompromat, chantaje, inteligencia, patron, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Honey Pot

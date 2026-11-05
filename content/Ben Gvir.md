@@ -7,6 +7,7 @@ nivel_evidencia: alto
 estado: activo
 tags: [ben-gvir, israel, monte-del-templo, e3-acelerador, agencia-descontrolada, otzma-yehudit, sionismo-religioso, tl-intel-v3]
 fecha: 2026-03-12
+sin_fuente: true
 ---
 
 # Itamar Ben Gvir

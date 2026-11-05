@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [aceleracionismo, hipersticin, hyperstition, nick]
 publish: true
+sin_fuente: true
 ---
 
 # Hiperstición (Hyperstition)

@@ -6,6 +6,7 @@ estado: activo
 aliases: ["George W. Bush", "George Bush"]
 tags: [bush, eeuu, guerra-terror, neoconservadurismo, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Bush

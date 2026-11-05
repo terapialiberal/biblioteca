@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [abuelo, elon, silicon, valley]
 publish: true
+sin_fuente: true
 ---
 
 # Technocracy Inc: El Abuelo De Silicon Valley

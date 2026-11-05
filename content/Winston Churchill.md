@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [churchill, conferencia, hundimiento, winston]
 publish: true
+sin_fuente: true
 ---
 
 # Winston Churchill

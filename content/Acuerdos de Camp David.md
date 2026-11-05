@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [acuerdos, asesinato, camp, david]
 publish: true
+sin_fuente: true
 ---
 
 # Acuerdos De Camp David
@@ -14,7 +15,7 @@ publish: true
 > [!INFO] Contexto
 > Paz entre Israel y Egipto, con EEUU como intermediario.
 
-## Qu Pas
+## Qué Pas
 
 En septiembre de 1978, el presidente Carter medi acuerdos entre Israel (Begin) y Egipto (Sadat).
 
@@ -25,7 +26,7 @@ Egipto reconoci a Israel. Israel devolvi el Sina.
 - Egipto fue el primer pas rabe en reconocer a Israel
 - Sadat fue asesinado 3 aos despus (1981)
 - Egipto recibe ~\1.5 billion anuales de EEUU desde entonces
-- Israel: misma cantidad o ms
+- Israel: misma cantidad o más
 
 ## Significado
 

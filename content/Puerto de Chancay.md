@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [belt, pacfico, puerto, tringulo]
 publish: true
+sin_fuente: true
 ---
 
 # Puerto De Chancay: El Chokepoint De China En El Pacífico Sur

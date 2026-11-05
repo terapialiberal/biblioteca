@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [desdolarizacin, efecto, europa, rusia]
 publish: true
+sin_fuente: true
 ---
 
 # Sanciones a Rusia: el Efecto Boomerang Y la Demolición de Europa

@@ -4,6 +4,7 @@ tipo: instrumento
 titulo: CDS (Credit Default Swaps)
 estado: activo
 tags: [derivados, deuda, riesgo-financiero, tl-intel-v3]
+sin_fuente: true
 ---
 
 # CDS (Credit Default Swaps)

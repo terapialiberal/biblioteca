@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [companc, molinos, opus, prez]
 publish: true
+sin_fuente: true
 ---
 
 # Gregorio Pérez Companc ("Goyo")

@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Burbuja Inmobiliaria"]
 tags: [burbuja-inmobiliaria, vivienda, credito, crisis, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Burbuja Inmobiliaria

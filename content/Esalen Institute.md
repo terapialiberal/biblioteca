@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [esalen, contracultura, conciencia, cultura, fundaciones, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Esalen Institute

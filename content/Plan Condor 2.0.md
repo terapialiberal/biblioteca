@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [guerra, lawfare, medios, otros]
 publish: true
+sin_fuente: true
 ---
 
 # Plan Cóndor 2.0 (Lawfare): La Guerra Por Otros Medios

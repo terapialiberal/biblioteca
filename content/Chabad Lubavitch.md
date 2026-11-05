@@ -7,6 +7,7 @@ tier_primario: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [benjamin, infraestructura, jared, poder]
+sin_fuente: true
 ---
 
 # Chabad Lubavitch: La Infraestructura De Coordinación Del Poder
@@ -48,4 +49,4 @@ tags: [benjamin, infraestructura, jared, poder]
 
 ## Conclusión Del Análisis
 
-Chabad Lubavitch es el **"Sistema Nervioso de la Elite Transnacional"**. Su importancia reside en haber borrado la frontera entre la religion y la inteligencia de Estado. No es una congregacion; es un **organo de gobernanza invisible**. Entender Chabad es comprender que los tratados internacionales son solo papel frente a los acuerdos de sangre y fe sellados en el 770 de Brooklyn. Para el Tier C, son rabinos bailando januca; para el Tier A, es la **garantia de que el mundo sigue siendo administrado por una minoria organizada** que sabe que el poder, si es divino, es absoluto e irrevocable.
+Chabad Lubavitch es el **"Sistema Nervioso de la Elite Transnacional"**. Su importancia reside en haber borrado la frontera entre la religión y la inteligencia de Estado. No es una congregación; es un **organo de gobernanza invisible**. Entender Chabad es comprender que los tratados internacionales son solo papel frente a los acuerdos de sangre y fe sellados en el 770 de Brooklyn. Para el Tier C, son rabinos bailando januca; para el Tier A, es la **garantia de que el mundo sigue siendo administrado por una minoria organizada** que sabe que el poder, si es divino, es absoluto e irrevocable.

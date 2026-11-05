@@ -5,6 +5,7 @@ aliases: ["California"]
 tags: [estado, eeuu, tecnologia, economia]
 tipo: estado
 tier_primario: B
+sin_fuente: true
 ---
 
 # California

@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Ley Smith-Mundt Modernizada: La Guerra De Informacion Legalizada"]
 tags: [smith-mundt, guerra-cognitiva, propaganda, operaciones-de-informacion, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Ley Smith-Mundt Modernizada

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [antony, guerra, tecnolgica, transferencia]
 publish: true
+sin_fuente: true
 ---
 
 # Transferencia Tecnológica a La URSS

@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [bio-digital-convergence, identidad, biometria, datos, control, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Bio-Digital Convergence

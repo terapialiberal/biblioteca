@@ -10,6 +10,7 @@ tags:
 tipo: empresa
 tier_primario: B
 titulo: AMD
+sin_fuente: true
 ---
 
 # AMD

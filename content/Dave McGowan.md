@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [dave, laurel, mcgowan, mkultra]
 publish: true
+sin_fuente: true
 ---
 
 # Dave McGowan

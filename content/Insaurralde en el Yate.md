@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [axel, insaurralde, javier, yate]
 publish: true
+sin_fuente: true
 ---
 
 # Insaurralde En El Yate

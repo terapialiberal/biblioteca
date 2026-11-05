@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [conflicto, george, jussie, manufactura]
 publish: true
+sin_fuente: true
 ---
 
 # Jussie Smollett: La Manufactura Del Conflicto Racial

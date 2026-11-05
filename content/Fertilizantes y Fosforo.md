@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [abcd, fertilizantes, fsforo, marruecos]
 publish: true
+sin_fuente: true
 ---
 
 # Fertilizantes Y Fósforo (Seguridad Alimentaria)

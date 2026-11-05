@@ -4,6 +4,7 @@ tipo: organizacion
 titulo: Chase Manhattan Bank
 estado: activo
 tags: [organizacion, banca, rockefeller, tl-intel-v3]
+sin_fuente: true
 ---
 
 # Chase Manhattan Bank

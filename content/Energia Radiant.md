@@ -1,5 +1,5 @@
 ---
-titulo: Energia Radiant
+titulo: Energía Radiant
 tipo: concepto
 fecha: 2026-04-27
 estado: activo
@@ -8,13 +8,14 @@ tags: [energia-radiant, tesla, energia, tecnomito, tl-intel-v3]
 capa_tema: c
 nivel_evidencia: bajo
 publish: true
+sin_fuente: true
 ---
 
-# Energia Radiant
+# Energía Radiant
 
 ## BLUF
 
-Energia Radiant es un nodo de frontera entre historia de Nikola Tesla, experimentación eléctrica real y mitología moderna sobre energía libre o tecnología suprimida.
+Energía Radiant es un nodo de frontera entre historia de Nikola Tesla, experimentación eléctrica real y mitología moderna sobre energía libre o tecnología suprimida.
 
 ## Qué es
 

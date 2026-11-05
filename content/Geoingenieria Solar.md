@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [bill, modificacin, scopex, solar]
 publish: true
+sin_fuente: true
 ---
 
 # Geoingeniería Solar (SCoPEx)

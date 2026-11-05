@@ -1,5 +1,5 @@
 ---
-titulo: Operacion Able Danger
+titulo: Operación Able Danger
 tipo: evento
 fecha: 2026-04-21
 capa_tema: b
@@ -8,9 +8,10 @@ estado: activo
 aliases: ["Operación Able Danger"]
 tags: [able-danger, 9-11, inteligencia, minado-de-datos, conocimiento-previo, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
-# Operacion Able Danger
+# Operación Able Danger
 
 ## BLUF
 

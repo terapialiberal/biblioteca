@@ -1,5 +1,5 @@
 ---
-titulo: Nodos Lunares en la Economia
+titulo: Nodos Lunares en la Economía
 tipo: concepto
 fecha: 2026-04-27
 estado: activo
@@ -8,13 +8,14 @@ tags: [nodos-lunares, economia, ciclos, simbolismo, tl-intel-v3]
 capa_tema: c
 nivel_evidencia: bajo
 publish: true
+sin_fuente: true
 ---
 
-# Nodos Lunares en la Economia
+# Nodos Lunares en la Economía
 
 ## BLUF
 
-Nodos Lunares en la Economia es un nodo de astrologia financiera y simbolismo de ciclos. TL lo conserva como objeto cultural, no como metodo predictivo validado.
+Nodos Lunares en la Economía es un nodo de astrologia financiera y simbolismo de ciclos. TL lo conserva como objeto cultural, no como metodo predictivo validado.
 
 ## Que es
 
@@ -24,7 +25,7 @@ La idea vincula posiciones lunares o ciclos astrologicos con cambios economicos.
 
 - conecta incertidumbre financiera con busqueda de patron;
 - ayuda a estudiar astrologia financiera como fenomeno cultural;
-- advierte contra reemplazar analisis material por calendario simbolico.
+- advierte contra reemplazar análisis material por calendario simbolico.
 
 ## Lectura TL
 

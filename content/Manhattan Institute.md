@@ -5,6 +5,7 @@ aliases: ["Manhattan Institute"]
 tags: [think-tank, conservador, politica-urbana]
 tipo: think-tank
 tier_primario: B
+sin_fuente: true
 ---
 
 # Manhattan Institute

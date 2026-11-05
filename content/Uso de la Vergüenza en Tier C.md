@@ -8,22 +8,23 @@ tags: [verguenza, tier-c, control-social, psicologia-de-masas, tl-intel-v3]
 capa_tema: c
 nivel_evidencia: medio
 publish: true
+sin_fuente: true
 ---
 
 # Uso de la Vergüenza en Tier C
 
 ## BLUF
 
-El uso de la vergüenza en Tier C describe la gestion social por humillacion: hacer que el individuo se autocensure, obedezca o compita por aprobacion moral.
+El uso de la vergüenza en Tier C describe la gestion social por humillación: hacer que el individuo se autocensure, obedezca o compita por aprobación moral.
 
 ## Que es
 
-La vergüenza opera como castigo distribuido. No siempre requiere Estado; puede circular por medios, redes, escuela, empresa, tribu politica o comunidad religiosa.
+La vergüenza opera como castigo distribuido. No siempre requiere Estado; puede circular por medios, redes, escuela, empresa, tribu política o comunidad religiosa.
 
 ## Por que importa en TL
 
-- explica control social sin coercion directa;
-- conecta cancelacion, reputacion, moralismo y obediencia;
+- explica control social sin coerción directa;
+- conecta cancelación, reputación, moralismo y obediencia;
 - muestra como el Tier C puede vigilarse a si mismo.
 
 ## Lectura TL

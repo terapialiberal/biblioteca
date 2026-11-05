@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [capitalismo, problema, quiebre, regulado]
 publish: true
+sin_fuente: true
 ---
 
 # Quiebre de FTX: el Caballo de Troya del Capitalismo Regulado

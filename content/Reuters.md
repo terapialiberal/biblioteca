@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [blackrock, monopolio, percepcin, reuters]
 publish: true
+sin_fuente: true
 ---
 
 # Reuters: el Monopolio de la Percepción Global

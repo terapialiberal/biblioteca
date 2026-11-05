@@ -9,6 +9,7 @@ estado: activo
 aliases: ["Línea De Tiempo: 2010s-2020s (La Captura Tecnocrática)"]
 fuentes_clave: []
 tags: [timeline, tecnocracia, great-reset, cbdc, vigilancia-digital, tl-intel-v3]
+sin_fuente: true
 ---
 
 # [[Línea de Tiempo - 2010s-2020s]]

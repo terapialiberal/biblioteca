@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [bill, buffett, planned, warren]
 publish: true
+sin_fuente: true
 ---
 
 # Warren Buffett

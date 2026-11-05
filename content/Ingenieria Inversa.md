@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [dialctica, inversa, mtodo, problema]
 publish: true
+sin_fuente: true
 ---
 
 # Ingeniería Inversa (Método De Análisis)

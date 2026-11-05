@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [eric, google, panptico, schmidt]
 publish: true
+sin_fuente: true
 ---
 
 # Eric Schmidt
@@ -43,7 +44,7 @@ publish: true
 ## Fuentes
 
 - "The Age of AI: And Our Human Future" (Eric Schmidt & Henry Kissinger).
-- Investigaciones de "Politico" sobre la influencia de Schmidt Futures en la Casa Blanca.
+- Investigaciones de "Político" sobre la influencia de Schmidt Futures en la Casa Blanca.
 - Reporte final de la NSCAI (2021).
 
 ## Por Qué Importa (Estilo Nico)

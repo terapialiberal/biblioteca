@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [jamal-khashoggi, saudi-arabia, pegasus, vigilancia, represion, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Jamal Khashoggi
@@ -31,7 +32,7 @@ Jamal Khashoggi fue un periodista saudí cuyo caso quedó asociado, en el corred
 
 Khashoggi importa porque muestra que la vigilancia técnica no termina en el dato. Puede ser etapa previa de coerción, persecución y eliminación de márgenes de seguridad.
 
-### 2. Spyware con consecuencias politicas
+### 2. Spyware con consecuencias políticas
 
 En TL, su relevancia crece cuando se lo conecta con [[Pegasus Spyware]] y [[NSO Group]]. Ahí el debate deja de ser técnico y pasa a ser político: quién puede comprar intrusión y para qué fines.
 

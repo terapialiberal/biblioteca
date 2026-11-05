@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Secret Intelligence Service", "SIS"]
 tags: [mi6, inteligencia, reino-unido, five-eyes, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # MI6

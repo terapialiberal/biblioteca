@@ -7,6 +7,7 @@ tags: [chamanismo, control]
 capa_tema: "b"
 nivel_evidencia: "alto"
 publish: true
+sin_fuente: true
 ---
 
 # Chamanismo Y Control (La Gestión Del Éxtasis)

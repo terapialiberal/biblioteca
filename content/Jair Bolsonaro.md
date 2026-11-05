@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [bolsonaro, brics, rompehielos, sistema]
 publish: true
+sin_fuente: true
 ---
 
 # Jair Bolsonaro: El Rompehielos Del Sistema

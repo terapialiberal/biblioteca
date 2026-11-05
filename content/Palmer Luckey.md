@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [palmer-luckey, anduril, defensa, realidad-virtual, vigilancia, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Palmer Luckey
@@ -39,7 +40,7 @@ En TL, su relevancia aumenta cuando Anduril se lee como síntoma de una nueva fa
 
 Su perfil sirve para observar cómo lenguaje antiestablishment y branding hacker pueden convivir con integración profunda al aparato de seguridad nacional.
 
-### 4. Operador de la sensorizacion militar
+### 4. Operador de la sensorización militar
 
 En TL, Luckey gana todavía más espesor cuando se lo conecta con [[Anduril Industries]], [[Peter Thiel]] y [[00_MOC - Vigilancia Tecnica y SIGINT]]. Ahí deja de ser solo fundador carismático y pasa a verse como operador del pasaje entre cultura tech, venture y vigilancia aplicada a defensa.
 

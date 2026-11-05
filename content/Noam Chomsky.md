@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Noam Chomsky: El Maestro De La Disidencia Permitida"]
 tags: [noam-chomsky, propaganda, manufactura-del-consentimiento, disidencia, medios, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Noam Chomsky

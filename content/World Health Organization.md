@@ -8,6 +8,7 @@ estado: activo
 aliases: ["WHO", "OMS", "Organizacion Mundial de la Salud", "Organización Mundial de la Salud"]
 tags: [who, oms, salud-global, bioseguridad, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # World Health Organization
@@ -24,7 +25,7 @@ publish: true
 
 ## Que cambio
 
-La familia estaba duplicada entre `World Health Organization` y `Organizacion Mundial de la Salud`, con enlaces dispersos a `OMS`. Se recompila este nodo como versión canónica con aliases para absorber todas las rutas vivas sin seguir abriendo bifurcaciones.
+La familia estaba duplicada entre `World Health Organization` y `Organización Mundial de la Salud`, con enlaces dispersos a `OMS`. Se recompila este nodo como versión canónica con aliases para absorber todas las rutas vivas sin seguir abriendo bifurcaciones.
 
 ## Lectura TL
 

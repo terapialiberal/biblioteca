@@ -6,6 +6,7 @@ estado: activo
 aliases: ["WHO", "World Health Organization"]
 tags: [oms, salud-global, onu, pandemia, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # OMS

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: ["2023", boicot, naciones, target]
 publish: true
+sin_fuente: true
 ---
 
 # Boicot a Target (2023)

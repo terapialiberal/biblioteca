@@ -7,6 +7,7 @@ tags: [cuerpo, ingo, operacin, stargate]
 capa_tema: "b"
 nivel_evidencia: "total"
 publish: true
+sin_fuente: true
 ---
 
 # Operación Stargate (Visión Remota)

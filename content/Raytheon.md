@@ -11,6 +11,7 @@ tags:
   - contratistas-de-defensa
   - guerra
 publish: true
+sin_fuente: true
 ---
 
 # [[Raytheon]]

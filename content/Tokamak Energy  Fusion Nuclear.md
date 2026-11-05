@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [tokamak, fusion-nuclear, energia, infraestructura, technocracy, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Tokamak Energy / Fusión Nuclear

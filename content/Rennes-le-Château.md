@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Rennes-le-Château"]
 tags: [rennes-le-chateau, esoterismo, simbolismo, francia, linajes, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Rennes-le-Chateau

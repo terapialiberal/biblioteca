@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [custodio, mueller, robert, russiagate]
 publish: true
+sin_fuente: true
 ---
 
 # Robert Mueller: el Custodio del Encubrimiento Sistémico

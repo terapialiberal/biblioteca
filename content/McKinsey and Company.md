@@ -8,6 +8,7 @@ estado: activo
 aliases: ["McKinsey & Company"]
 tags: [mckinsey, consultoria, tecnocracia, captura-institucional, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # McKinsey and Company

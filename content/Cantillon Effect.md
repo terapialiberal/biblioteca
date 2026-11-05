@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Efecto Cantillon", "Cantillon", "Cantillon Effect (Efecto de Primera Emisión)"]
 tags: [cantillon-effect, inflacion, liquidez, desigualdad, control-financiero, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Cantillon Effect

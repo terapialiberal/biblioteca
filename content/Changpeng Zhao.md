@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [binance, changpeng, gary, zhao]
 publish: true
+sin_fuente: true
 ---
 
 # Changpeng Zhao (CZ)

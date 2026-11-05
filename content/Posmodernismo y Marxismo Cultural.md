@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [antonio, civilizacin, cultural, posmodernismo]
 publish: true
+sin_fuente: true
 ---
 
 # Posmodernismo Y Marxismo Cultural: El Ácido De La Civilización

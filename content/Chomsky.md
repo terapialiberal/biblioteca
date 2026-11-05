@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Noam Chomsky"]
 tags: [chomsky, medios, propaganda, critica, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Chomsky

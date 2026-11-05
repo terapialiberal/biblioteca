@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [paolo, poder, rocca, techint]
 publish: true
+sin_fuente: true
 ---
 
 # Paolo Rocca: El Estratega Del Acero Y El Poder

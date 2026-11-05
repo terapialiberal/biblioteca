@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [dick, guerra, halliburton]
 publish: true
+sin_fuente: true
 ---
 
 # Halliburton

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [lpez, pontfice, rega, triple]
 publish: true
+sin_fuente: true
 ---
 
 # José López Rega: El Pontífice Del Terror Paraestatal

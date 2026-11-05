@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [crtel, naciones, soles, venezuela]
 publish: true
+sin_fuente: true
 ---
 
 # Cártel De Los Soles

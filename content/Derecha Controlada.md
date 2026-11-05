@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [aipac, controlada, derecha, oposicin]
 publish: true
+sin_fuente: true
 ---
 
 # Derecha Controlada

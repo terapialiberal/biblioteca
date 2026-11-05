@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [ahnenerbe, black, heinrich]
 publish: true
+sin_fuente: true
 ---
 
 # Resumen General

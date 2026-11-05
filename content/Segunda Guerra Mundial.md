@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [bretton, gran, matrix, segunda]
 publish: true
+sin_fuente: true
 ---
 
 # Segunda Guerra Mundial: el Gran Reequilibrio de la Matrix Global

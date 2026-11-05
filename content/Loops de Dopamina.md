@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Loops De Dopamina: El Hackeo Neuroquimico Del Tier B"]
 tags: [dopamina, adiccion, atencion, redes-sociales, capitalismo-de-vigilancia, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Loops de Dopamina

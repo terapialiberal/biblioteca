@@ -87,7 +87,7 @@ El punto de tensión con la crisis de Ceuta: el **NMGP entra a Europa justo por 
 - Ceuta crisis 2026: 49K-60K migrantes/24h, Francia cerró Schengen. Fuentes: [BBC Ceuta 10-ago](https://www.bbc.com/news/articles/c5yv5l6yr5ko) · radar [02-ago Cluster 6](vault://01_Research/01_RADARES/02_SEMANAL/2026-08/2026-08-02_Radar_Semanal.md).
 - Radar 15-ago anotó "Ceuta + batalla TSGP/NMGP" como nuevo teatro. Fuente: [Registro Radar](vault://01_Research/00_SISTEMA/REGISTRO_RADAR.md).
 
-## interpretacion (NO es claim — lectura del analista)
+## interpretación (NO es claim — lectura del analista)
 
 > **Tesis de Nico (2026-08-26): la crisis migratoria de Ceuta SÍ parece coreografiada / armada**, no un desborde espontáneo. El vault (H-12, auditoría 10-ago) la había matizado como "no parece coreografiada / ingobernable" — esa lectura queda registrada como el estado previo del debate, no como concluyente. La tesis de Nico la revierte: Marruecos, teniendo el control de la frontera sur de Europa y siendo cliente leal atlantista desde 2020, usaría la migración como **palanca de presión coordinada** sobre España/UE — paralela al NMGP que entra por el mismo punto. Esto eleva Ceuta de "policrisis descontrolada" (H-12) a "chokepoint administrado intencionalmente" (H-02), en línea con el patrón TL de que el sistema administra crisis sobre nodos de paso para negociar.
 >

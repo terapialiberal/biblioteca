@@ -7,6 +7,7 @@ tags: [jack, nasa, ocultismo, wernher]
 capa_tema: "a"
 nivel_evidencia: "total"
 publish: true
+sin_fuente: true
 ---
 
 # El Ocultismo De La NASA

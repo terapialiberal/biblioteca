@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [mh17, ucrania, rusia, bellingcat, guerra-informativa, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # MH17 Derribado

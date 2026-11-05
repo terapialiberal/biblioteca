@@ -7,11 +7,12 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [beam, blue, nuevo, voice]
 publish: true
+sin_fuente: true
 ---
 
 # Resumen General
 
-Teoria difundida por el periodista canadiense Serge Monast (muerto sospechosamente) en los 90. Sostiene que la NASA/ONU planean una falsa "Segunda Venida" o invasion alienigena usando hologramas satelitales avanzados y tecnologia de ondas cerebrales para instaurar una Religion Mundial Unica y el Nuevo Orden Mundial.
+Teoria difundida por el periodista canadiense Serge Monast (muerto sospechosamente) en los 90. Sostiene que la NASA/ONU planean una falsa "Segunda Venida" o invasión alienigena usando hologramas satelitales avanzados y tecnología de ondas cerebrales para instaurar una Religión Mundial Unica y el Nuevo Orden Mundial.
 
 # Puntos Clave
 

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [burning, elon, festival, mark]
 publish: true
+sin_fuente: true
 ---
 
 # Festival Burning Man
@@ -31,7 +32,7 @@ publish: true
 
 ### Tier C (Narrativa Pública)
 
-- "Radical Inclusion". "Leave No Trace". "Gifting Economy". Narrativas utópicas que atraen a miles de jóvenes creativos que sirven de decorado y mano de obra gratuita para el parque de diversiones privado de la élite.
+- "Radical Inclusión". "Leave No Trace". "Gifting Economy". Narrativas utópicas que atraen a miles de jóvenes creativos que sirven de decorado y mano de obra gratuita para el parque de diversiones privado de la élite.
 
 ## Conexiones Clave
 

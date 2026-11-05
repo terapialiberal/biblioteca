@@ -10,6 +10,7 @@ tags:
   - israel
   - estados-unidos
 publish: true
+sin_fuente: true
 ---
 
 # Sheldon Adelson

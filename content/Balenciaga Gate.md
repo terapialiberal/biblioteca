@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [balenciaga, gate, pizzagate, spirit]
 publish: true
+sin_fuente: true
 ---
 
 # Balenciaga Gate

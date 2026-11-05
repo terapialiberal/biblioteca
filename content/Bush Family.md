@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Familia Bush"]
 tags: [bush-family, dinastia, eeuu, petroleo, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Bush Family

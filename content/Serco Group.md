@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [corona, invisible, reino, serco]
 publish: true
+sin_fuente: true
 ---
 
 # Serco: el Gestor Invisible de la Soberanía Privatizada

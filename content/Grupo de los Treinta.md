@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [cbdc, grupo, reserva, treinta]
 publish: true
+sin_fuente: true
 ---
 
 # Grupo De Los Treinta (G-30)

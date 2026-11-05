@@ -7,6 +7,7 @@ tier_primario: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [abuso, fmsf, programacin, satnico]
+sin_fuente: true
 ---
 
 # Abuso Ritual Satánico (SRA)

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [alberto, cristina, guzmn, renuncia]
 publish: true
+sin_fuente: true
 ---
 
 # Renuncia de Guzmán: el Colapso de la Simulación "Sarasa

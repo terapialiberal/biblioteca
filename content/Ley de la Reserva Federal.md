@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Ley De La Reserva Federal: El Acta De Rendicion Monetaria"]
 tags: [reserva-federal, banco-central, soberania-monetaria, control-financiero, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Ley de la Reserva Federal
@@ -36,7 +37,7 @@ En TL, el nodo es útil porque marca el momento en que el dinero deja de ser sol
 
 - junto con [[Panico de 1907]] para fijar la crisis que vuelve vendible la reforma;
 - junto con [[Conferencia de Jekyll Island]] para ver la capa de diseño previo;
-- junto con [[Reserva Federal]] para seguir la institucion que la ley habilita y normaliza.
+- junto con [[Reserva Federal]] para seguir la institución que la ley habilita y normaliza.
 
 ## Con qué conecta
 

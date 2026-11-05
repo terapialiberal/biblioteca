@@ -5,6 +5,7 @@ aliases: ["Bandung Conference", "Conferencia de Bandung"]
 tags: [evento, tercer-mundo, no-alineados, descolonizacion]
 tipo: evento
 capa_tema: b
+sin_fuente: true
 ---
 
 # Conferencia de Bandung

@@ -7,6 +7,7 @@ tags: [almas, anubis, deuda, pescador]
 capa_tema: "b"
 nivel_evidencia: "alto"
 publish: true
+sin_fuente: true
 ---
 
 # Anubis - El Pescador De Almas En Deuda

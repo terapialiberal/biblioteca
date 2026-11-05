@@ -8,13 +8,14 @@ estado: activo
 aliases: ["Safe And Effective: la Programacion Neurolinguistica del Consentimiento"]
 tags: [safe-and-effective, consentimiento, propaganda, vacunas, bioseguridad, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Safe and Effective
 
 ## BLUF
 
-[[Safe and Effective]] importa en TL como mantra operativo del corredor sanitario COVID: una formula breve de legitimacion que condensaba confianza tecnica, urgencia politica y obediencia social en una misma consigna.
+[[Safe and Effective]] importa en TL como mantra operativo del corredor sanitario COVID: una formula breve de legitimación que condensaba confianza tecnica, urgencia política y obediencia social en una misma consigna.
 
 ## Por que importa en TL
 
@@ -28,33 +29,33 @@ La nota seguia en formato manifiesto viejo, con tiers rigidos, exceso de retoric
 
 ## Que es
 
-`Safe and effective` fue la formula repetida para presentar vacunas y politicas sanitarias como respuesta indiscutible durante la etapa COVID. Mas que una descripcion tecnica estable, opero como marco comunicacional de cierre: reducia complejidad, absorbia duda y desplazaba el debate hacia la obediencia al consenso.
+`Safe and effective` fue la formula repetida para presentar vacunas y políticas sanitarias como respuesta indiscutible durante la etapa COVID. Mas que una descripción tecnica estable, opero como marco comunicacional de cierre: reducia complejidad, absorbia duda y desplazaba el debate hacia la obediencia al consenso.
 
 ## Lectura TL
 
-### 1. Lenguaje como tecnologia de cumplimiento
+### 1. Lenguaje como tecnología de cumplimiento
 
 El valor del lema no estuvo solo en persuadir, sino en fijar rapidamente una frontera moral y cognitiva entre lo aceptable y lo sospechoso.
 
 ### 2. Elasticidad semantica
 
-En TL importa porque la formula podia sobrevivir a cambios de criterio, eficacia observada o perfil de riesgo: si el contexto cambiaba, cambiaba la interpretacion de `effective`, no la consigna central.
+En TL importa porque la formula podia sobrevivir a cambios de criterio, eficacia observada o perfil de riesgo: si el contexto cambiaba, cambiaba la interpretación de `effective`, no la consigna central.
 
-### 3. Consentimiento bajo administracion
+### 3. Consentimiento bajo administración
 
-Tambien sirve para leer como salud publica, plataformas, medios y laboratorios pueden coordinar una narrativa donde el consentimiento informado queda desplazado por repeticion, urgencia y sancion social.
+También sirve para leer como salud publica, plataformas, medios y laboratorios pueden coordinar una narrativa donde el consentimiento informado queda desplazado por repetición, urgencia y sanción social.
 
-### 4. Friccion posterior
+### 4. Fricción posterior
 
-La erosion de confianza aparece cuando la experiencia vivida, los efectos adversos discutidos o los giros de politica ya no encajan con la promesa inicial. Ahi el lema deja de funcionar como garantia y pasa a operar como recuerdo de gaslighting institucional.
+La erosión de confianza aparece cuando la experiencia vivida, los efectos adversos discutidos o los giros de política ya no encajan con la promesa inicial. Ahi el lema deja de funcionar como garantia y pasa a operar como recuerdo de gaslighting institucional.
 
 ### 5. Consigna-puente entre agencia y conducta
 
-Leido junto con [[FDA]], [[CDC]] y [[EMA]], el nodo deja de ser simple slogan y pasa a verse como interfaz narrativa entre decision regulatoria, recomendacion sanitaria y obediencia poblacional.
+Leido junto con [[FDA]], [[CDC]] y [[EMA]], el nodo deja de ser simple slogan y pasa a verse como interfaz narrativa entre decisión regulatoria, recomendación sanitaria y obediencia poblacional.
 
 ### 6. La formula que evita discutir grados de riesgo
 
-En TL, la fuerza del lema estuvo en reemplazar matices de edad, condicion, eficacia variable o incertidumbre por una frase unica que simplificaba la complejidad y reducia el margen de deliberacion publica.
+En TL, la fuerza del lema estuvo en reemplazar matices de edad, condición, eficacia variable o incertidumbre por una frase unica que simplificaba la complejidad y reducia el margen de deliberación publica.
 
 ## Con que conecta
 

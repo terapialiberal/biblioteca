@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [desmantelamiento, febrero, jacob, soberana]
 publish: true
+sin_fuente: true
 ---
 
 # Revolución de Febrero de 1917: el Desmantelamiento de la Soberanía Imperial

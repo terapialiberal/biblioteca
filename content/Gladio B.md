@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [gladio, islam, otan, radical]
 publish: true
+sin_fuente: true
 ---
 
 # Gladio B (La Alianza OTAN-Islam Radical)

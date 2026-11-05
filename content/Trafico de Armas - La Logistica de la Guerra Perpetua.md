@@ -7,6 +7,7 @@ tags: [guerra, irn, logstica, viktor]
 capa_tema: "a"
 nivel_evidencia: "alto"
 publish: true
+sin_fuente: true
 ---
 
 # Tráfico De Armas — La Logística De La Guerra Perpetua

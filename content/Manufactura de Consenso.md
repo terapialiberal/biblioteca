@@ -8,6 +8,7 @@ nivel_evidencia: alto
 estado: activo
 tags: [manufactura-de-consenso, medios, propaganda, control-social, consenso, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Manufactura de Consenso

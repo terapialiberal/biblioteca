@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [carlos, casta, pacto, tratado]
 publish: true
+sin_fuente: true
 ---
 
 # Pacto De Olivos: El Tratado De Paz De La Casta

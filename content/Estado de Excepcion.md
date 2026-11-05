@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [estado, excepcin, giorgio]
 publish: true
+sin_fuente: true
 ---
 
 # Estado De Excepción

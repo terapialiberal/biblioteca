@@ -3,6 +3,7 @@ publish: true
 titulo: "Corredor Trans-Caspio (Middle Corridor): El Bypass De Eurasia"
 tipo: concepto
 estado: activo
+sin_fuente: true
 ---
 
 # Corredor Trans-Caspio (Middle Corridor): El Bypass De Eurasia

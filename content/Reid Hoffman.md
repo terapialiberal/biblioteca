@@ -11,6 +11,7 @@ tags:
   - paypal-mafia
   - redes-de-poder
 publish: true
+sin_fuente: true
 ---
 
 # [[Reid Hoffman]]

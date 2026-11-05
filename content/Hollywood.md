@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [hollywood, entretenimiento, cultura, soft-power, propaganda, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Hollywood

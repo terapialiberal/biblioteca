@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [nina-jankowicz, desinformacion, dgb, censura, dhs, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Nina Jankowicz

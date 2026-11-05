@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Ronald Reagan"]
 tags: [reagan, eeuu, neoliberalismo, guerra-fria, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Reagan

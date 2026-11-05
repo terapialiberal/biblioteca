@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [blackrock, capitalismo, interesadas, stakeholder]
 publish: true
+sin_fuente: true
 ---
 
 # Capitalismo De Partes Interesadas (Stakeholder Capitalism)

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [cabinete, kash, trump, tulsi]
 publish: true
+sin_fuente: true
 ---
 
 # Resumen General

@@ -4,6 +4,7 @@ tipo: entidad
 titulo: ARSAT
 estado: activo
 tags: [argentina, satelites, telecomunicaciones, soberania-tecnica, tl-intel-v3]
+sin_fuente: true
 ---
 
 # ARSAT

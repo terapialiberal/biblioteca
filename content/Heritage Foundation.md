@@ -19,25 +19,25 @@ publish: true
 
 - articula el pasaje de documento a aparato;
 - vuelve operativo [[Project 2025]];
-- ofrece un puente entre guerra cultural, seguridad, energia e infraestructura tecnopolitica dentro del bloque conservador.
+- ofrece un puente entre guerra cultural, seguridad, energía e infraestructura tecnopolitica dentro del bloque conservador.
 
 ## Que cambio
 
-La nota ya tenia una lectura util, pero quedaba algo breve para el peso que ahora tiene dentro del frente `venture / politica`. Se recompila para dejar mas clara su funcion como interfaz entre doctrina, staffing y gobierno.
+La nota ya tenia una lectura util, pero quedaba algo breve para el peso que ahora tiene dentro del frente `venture / política`. Se recompila para dejar mas clara su función como interfaz entre doctrina, staffing y gobierno.
 
 ## Lectura TL
 
-### 1. Think tank con vocacion de mando
+### 1. Think tank con vocación de mando
 
-Heritage importa porque no se conforma con influir en el debate. Su potencia aparece cuando recluta cuadros, ordena prioridades y deja preescritos mecanismos de intervencion sobre el Estado.
+Heritage importa porque no se conforma con influir en el debate. Su potencia aparece cuando recluta cuadros, ordena prioridades y deja preescritos mecanismos de intervención sobre el Estado.
 
 ### 2. Doctrina que busca ejecutarse
 
-En TL, su relevancia aumenta cuando se la conecta con agendas de seguridad, energia, burocracia y guerra cultural que requieren mas que narrativa: requieren manuales, equipos y arquitectura administrativa.
+En TL, su relevancia aumenta cuando se la conecta con agendas de seguridad, energía, burocracia y guerra cultural que requieren mas que narrativa: requieren manuales, equipos y arquitectura administrativa.
 
 ### 3. Interfaz entre conservadurismo y nueva derecha
 
-Su valor crece porque puede actuar como traductor institucional entre la derecha conservadora clasica y corrientes mas nuevas ligadas a tecnocracia, soberania industrial y centralizacion ejecutiva.
+Su valor crece porque puede actuar como traductor institucional entre la derecha conservadora clasica y corrientes mas nuevas ligadas a tecnocracia, soberania industrial y centralización ejecutiva.
 
 ## Con que conecta
 
@@ -50,3 +50,8 @@ Su valor crece porque puede actuar como traductor institucional entre la derecha
 ## Casos relacionados
 
 - [[06_Videos_Publicados/2026/2026-04-07_NWO_Energetico_Blueprint/POSTMORTEM_INTEL|NWO Energético Blueprint]] (7 abr 2026) — Heritage 2007 wargame como precedente operativo: simulación de Ormuz con impactos macro que reaparecen en 2026.
+
+## Fuentes
+
+- https://www.heritage.org/environment/report/if-iran-provokes-energy-crisis-modeling-the-problem-wargame  ·  en `06_Videos_Publicados\2026\2026-04-07_NWO_Energetico_Blueprint\SUBSTACK_NWO_Energetico_Blueprint.md`
+- https://upload.wikimedia.org/wikipedia/commons/b/be/The\_heritage\_foundation\_building\_on\_mass.\_ave.jpg  ·  en `06_Videos_Publicados\2026\2026-04-07_NWO_Energetico_Blueprint\PATREON_NWO_Energetico_Blueprint_CON_IMAGENES.md`

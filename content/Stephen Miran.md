@@ -8,37 +8,38 @@ nivel_evidencia: medio
 estado: activo
 tags: [stephen-miran, cea, mar-a-lago-accord, dolar, treasuries, trump, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Stephen Miran
 
 ## BLUF
 
-[[Stephen Miran]] importa en TL como arquitecto intelectual de una salida coercitiva al dilema monetario estadounidense. Su valor no esta solo en ocupar un cargo economico, sino en formular un esquema donde devaluacion del dolar, presion sobre tenedores extranjeros de [[Treasuries]] y reindustrializacion se intentan compatibilizar bajo una misma narrativa de poder.
+[[Stephen Miran]] importa en TL como arquitecto intelectual de una salida coercitiva al dilema monetario estadounidense. Su valor no esta solo en ocupar un cargo económico, sino en formular un esquema donde devaluación del dólar, presión sobre tenedores extranjeros de [[Treasuries]] y reindustrialización se intentan compatibilizar bajo una misma narrativa de poder.
 
 ## Por que importa en TL
 
 - conecta Casa Blanca, Consejo de Asesores Economicos y reordenamiento monetario de largo plazo;
-- ayuda a leer el frente MAGA menos como improvisacion y mas como busqueda de blueprint para una nueva fase de hegemonia;
+- ayuda a leer el frente MAGA menos como improvisación y mas como busqueda de blueprint para una nueva fase de hegemonia;
 - funciona como puente entre operadores como [[Scott Bessent]], recambio potencial de Fed via [[Kevin Warsh]] y la doctrina resumida en [[Mar-a-Lago Accord]].
 
 ## Que cambio
 
-El nodo no existia fisicamente en la base pese a quedar marcado en `LAS GUERRAS MAGA` como actor relevante del rediseño monetario. Se crea para absorber esa capa doctrinal y evitar que el corredor `dolar / deuda EEUU / Treasuries / Bretton Woods post-dolar` quede apoyado solo en ejecutores.
+El nodo no existia fisicamente en la base pese a quedar marcado en `LAS GUERRAS MAGA` como actor relevante del rediseño monetario. Se crea para absorber esa capa doctrinal y evitar que el corredor `dólar / deuda EEUU / Treasuries / Bretton Woods post-dólar` quede apoyado solo en ejecutores.
 
 ## Lectura TL
 
 ### 1. Intelectual organico del reset monetario
 
-Stephen Miran importa porque no aparece como figura de TV ni como simple tecnico. Aparece como autor de una formula que intenta volver administrable una transicion conflictiva del sistema dolar.
+Stephen Miran importa porque no aparece como figura de TV ni como simple tecnico. Aparece como autor de una formula que intenta volver administrable una transición conflictiva del sistema dólar.
 
 ### 2. Externalizar el costo de Triffin
 
-En TL, su relevancia aumenta cuando se observa que su esquema no resuelve de verdad la contradiccion entre dolar fuerte y manufactura domestica. Intenta desplazar el costo hacia aliados, tenedores extranjeros y periferia financiera.
+En TL, su relevancia aumenta cuando se observa que su esquema no resuelve de verdad la contradicción entre dólar fuerte y manufactura domestica. Intenta desplazar el costo hacia aliados, tenedores extranjeros y periferia financiera.
 
-### 3. Doctrina para la coercion elegante
+### 3. Doctrina para la coerción elegante
 
-Su valor crece porque ofrece cobertura intelectual a medidas que, sin ese marco, se verian como mero forcejeo imperial: devaluacion administrada, extension de plazos de deuda, tarifas o fees sobre acreedores externos y disciplina monetaria por vias no clasicas.
+Su valor crece porque ofrece cobertura intelectual a medidas que, sin ese marco, se verian como mero forcejeo imperial: devaluación administrada, extensión de plazos de deuda, tarifas o fees sobre acreedores externos y disciplina monetaria por vias no clasicas.
 
 ### 4. Miran como bisagra 1973/2026
 

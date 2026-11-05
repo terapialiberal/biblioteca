@@ -7,6 +7,7 @@ nivel_evidencia: alto
 estado: activo
 tags: [nudge, behavioral-insights, cass-sunstein, arquitectura-de-eleccion, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Nudge Theory

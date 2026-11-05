@@ -7,6 +7,7 @@ nivel_evidencia: medio-alto
 estado: activo
 tags: [iran, khuzestan, petroleo, irgc, activo-tier-a, fragmentacion-etnica, post-conflicto, imec, tl-intel-v3]
 fecha: 2026-03-12
+sin_fuente: true
 ---
 
 # Khuzestán

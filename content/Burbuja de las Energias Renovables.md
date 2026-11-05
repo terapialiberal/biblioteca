@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [blackrock, burbuja, energas, offshore]
 publish: true
+sin_fuente: true
 ---
 
 # Burbuja De Las Renovables (Offshore Wind)

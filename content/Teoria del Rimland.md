@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Teoría del Rimland", "Teoría del Rimland (Nicholas Spykman)", "Rimland"]
 tags: [rimland, spykman, geopolitica, chokepoints, contencion, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Teoria del Rimland
@@ -42,7 +43,7 @@ En TL, el Rimland sirve para leer por qué estrechos, canales y corredores impor
 
 El nodo gana fuerza cuando se observa que el lenguaje contemporáneo de “Indo-Pacífico” es, en gran parte, una actualización operativa de la lógica rimlandista: alianzas marítimas, primera cadena de islas, contención de China y control de rutas críticas.
 
-### 4. Energia, deuda y rails
+### 4. Energía, deuda y rails
 
 Rimland también importa porque ya no se juega solo con flotas y bases. Se juega con seguros marítimos, pagos transfronterizos, rails alternativos y presión sobre cadenas logísticas. El borde geográfico y la infraestructura financiera convergen.
 

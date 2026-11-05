@@ -1,5 +1,5 @@
 ---
-titulo: Revolucion de Color
+titulo: Revolución de Color
 tipo: concepto
 fecha: 2026-04-18
 capa_tema: b
@@ -14,6 +14,7 @@ tags:
   - soft-power
   - guerra-politica
 publish: true
+sin_fuente: true
 ---
 
 # [[Revolucion de Color]]

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [eduardo, elsztain, george, javier]
 publish: true
+sin_fuente: true
 ---
 
 # Eduardo Elsztain

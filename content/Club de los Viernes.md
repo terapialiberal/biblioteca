@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [banco, city, club, corazn]
 publish: true
+sin_fuente: true
 ---
 
 # Club De Los Viernes: El Corazón De La City

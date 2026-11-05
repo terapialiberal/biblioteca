@@ -8,27 +8,28 @@ tags: [grid-energetico, red-inteligente, energia, control, tl-intel-v3]
 capa_tema: b
 nivel_evidencia: medio
 publish: true
+sin_fuente: true
 ---
 
 # Control de Grid Energetico
 
 ## BLUF
 
-Control de Grid Energetico describe la capa de poder que aparece cuando energia, sensores, racionamiento y datos convergen en redes inteligentes.
+Control de Grid Energetico describe la capa de poder que aparece cuando energía, sensores, racionamiento y datos convergen en redes inteligentes.
 
 ## Que es
 
-El grid energetico moderno ya no es solo cableado y generacion. Con medidores inteligentes, gestion remota y criterios climaticos o de emergencia, puede convertirse en infraestructura de modulacion social.
+El grid energetico moderno ya no es solo cableado y generación. Con medidores inteligentes, gestion remota y criterios climaticos o de emergencia, puede convertirse en infraestructura de modulación social.
 
 ## Por que importa en TL
 
-- conecta energia, smart grid, vigilancia y obediencia material;
-- muestra que el control digital tambien necesita interruptores fisicos;
+- conecta energía, smart grid, vigilancia y obediencia material;
+- muestra que el control digital también necesita interruptores fisicos;
 - ayuda a leer racionamiento selectivo y dependencia tecnica.
 
 ## Lectura TL
 
-Quien controla energia controla ritmo de vida. La digitalizacion del grid puede aumentar eficiencia, pero tambien granularidad de control.
+Quien controla energía controla ritmo de vida. La digitalización del grid puede aumentar eficiencia, pero también granularidad de control.
 
 ## Conexiones
 

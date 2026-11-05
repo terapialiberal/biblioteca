@@ -7,6 +7,7 @@ tags: [gnosis]
 capa_tema: "a"
 nivel_evidencia: "alto"
 publish: true
+sin_fuente: true
 ---
 
 # La Gnosis Del Mal (Dualismo Y Control)

@@ -9,6 +9,7 @@ estado: activo
 aliases: ["Big Three", "La Trifecta Del Control Financiero", "BlackRock - Vanguard - State Street: La Trifecta Del Control Financiero"]
 fuentes_clave: []
 tags: [big-three, blackrock, vanguard, state-street, control-financiero, tl-intel-v3]
+sin_fuente: true
 ---
 
 # [[BlackRock - Vanguard - State Street]]

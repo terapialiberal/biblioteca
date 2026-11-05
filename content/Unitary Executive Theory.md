@@ -7,37 +7,38 @@ nivel_evidencia: medio
 estado: activo
 tags: [unitary-executive-theory, ejecutivo, derecho, centralizacion, project-2025, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Unitary Executive Theory
 
 ## BLUF
 
-[[Unitary Executive Theory]] importa en TL como doctrina que empuja una vision mas centralizada del poder presidencial sobre el Ejecutivo. Su valor analitico esta en ofrecer justificacion conceptual para subordinar burocracia, agencias y funcionarios a una cadena de mando mas compacta y politicamente controlada.
+[[Unitary Executive Theory]] importa en TL como doctrina que empuja una visión mas centralizada del poder presidencial sobre el Ejecutivo. Su valor analitico esta en ofrecer justificación conceptual para subordinar burocracia, agencias y funcionarios a una cadena de mando mas compacta y politicamente controlada.
 
 ## Por que importa en TL
 
-- conecta teoria juridico-constitucional con proyectos concretos de reorganizacion del Estado;
+- conecta teoria juridico-constitucional con proyectos concretos de reorganización del Estado;
 - ayuda a leer como debates aparentemente tecnicos sobre el Ejecutivo tienen consecuencias directas sobre captura institucional;
 - funciona como soporte doctrinal para tramos como [[Schedule F]] y [[Project 2025]].
 
 ## Que cambio
 
-El nodo no existia fisicamente en la base pese a ser un concepto util para estabilizar el frente `venture / politica`. Se crea como nota canonica minima para ordenar la capa doctrinal de centralizacion ejecutiva.
+El nodo no existia fisicamente en la base pese a ser un concepto util para estabilizar el frente `venture / política`. Se crea como nota canonica minima para ordenar la capa doctrinal de centralización ejecutiva.
 
 ## Lectura TL
 
 ### 1. Teoria para recentralizar mando
 
-Unitary Executive Theory importa porque provee lenguaje y legitimacion a la idea de que el presidente debe controlar de forma mas directa el conjunto del aparato ejecutivo.
+Unitary Executive Theory importa porque provee lenguaje y legitimación a la idea de que el presidente debe controlar de forma mas directa el conjunto del aparato ejecutivo.
 
 ### 2. Del debate legal a la guerra faccional
 
-En TL, su relevancia aumenta cuando se observa que no es solo una discusion academica. Puede servir para destrabar purgas, reemplazos de cuadros y reduccion de autonomia dentro de agencias y burocracias.
+En TL, su relevancia aumenta cuando se observa que no es solo una discusión academica. Puede servir para destrabar purgas, reemplazos de cuadros y reducción de autonomia dentro de agencias y burocracias.
 
 ### 3. Doctrina como herramienta operativa
 
-Su valor crece porque convierte una preferencia politica por mayor control en una arquitectura justificable dentro de un proyecto mas amplio de captura del Estado.
+Su valor crece porque convierte una preferencia política por mayor control en una arquitectura justificable dentro de un proyecto mas amplio de captura del Estado.
 
 ## Con que conecta
 

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [albert, comps, escuadra, francmasonera]
 publish: true
+sin_fuente: true
 ---
 
 # Escuadra Y Compás

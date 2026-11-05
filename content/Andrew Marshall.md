@@ -5,6 +5,7 @@ aliases: ["Andrew Marshall"]
 tags: [actor, pentagono, estrategia, rand]
 tipo: actor
 tier_primario: B
+sin_fuente: true
 ---
 
 # Andrew Marshall

@@ -4,10 +4,11 @@ tipo: organizacion
 titulo: Bitcoin Foundation
 estado: activo
 tags: [bitcoin, criptomonedas, fundaciones, tl-intel-v3]
+sin_fuente: true
 ---
 
 # Bitcoin Foundation
 
-Organizacion temprana del ecosistema Bitcoin creada para promover estandarizacion, defensa publica y coordinacion institucional del protocolo.
+Organización temprana del ecosistema Bitcoin creada para promover estandarización, defensa publica y coordinación institucional del protocolo.
 
-En TL importa como ejemplo de la tension inicial entre ethos cypherpunk, profesionalizacion del sector cripto, lobby regulatorio y captura reputacional por actores visibles.
+En TL importa como ejemplo de la tensión inicial entre ethos cypherpunk, profesionalización del sector cripto, lobby regulatorio y captura reputacional por actores visibles.

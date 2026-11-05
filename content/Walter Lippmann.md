@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [lippmann, propaganda, opinion-publica, consentimiento, medios, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Walter Lippmann

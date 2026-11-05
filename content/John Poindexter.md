@@ -10,6 +10,7 @@ nivel_evidencia: alto
 estado: activo
 tags: [john-poindexter, iran-contra, tia, palantir, vigilancia, darpa, thiel, perle, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # John Poindexter

@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Mahatma Gandhi"]
 tags: [gandhi, india, independencia, no-violencia, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Gandhi

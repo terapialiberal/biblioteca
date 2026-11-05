@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [milton, naciones, silenciosas, weapons]
 publish: true
+sin_fuente: true
 ---
 
 # Silent Weapons for Quiet Wars

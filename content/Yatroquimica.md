@@ -8,6 +8,7 @@ tags: [yatroquimica, paracelso, medicina, alquimia, historia-de-la-ciencia, tl-i
 capa_tema: c
 nivel_evidencia: alto
 publish: true
+sin_fuente: true
 ---
 
 # Yatroquimica

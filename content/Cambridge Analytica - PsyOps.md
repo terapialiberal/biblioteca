@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Cambridge Analytica / PsyOps"]
 tags: [cambridge-analytica, psyops, datos, elecciones, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Cambridge Analytica - PsyOps

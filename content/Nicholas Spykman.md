@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [nicholas, spykman]
 publish: true
+sin_fuente: true
 ---
 
 # Nicholas Spykman
@@ -31,7 +32,7 @@ La nota estaba demasiado mínima y más biográfica que analítica. Se alinea me
 
 Spykman importa porque vuelve visible que el poder no se juega solo en ideologías o PIB, sino en acceso a mares, cuellos de botella y bordes donde se cruzan comercio y coerción.
 
-### 2. Contencion por borde
+### 2. Contención por borde
 
 En TL, su relevancia crece cuando se observa que muchas estrategias occidentales no apuntan a tomar el interior euroasiático, sino a rodearlo, fragmentarlo o disciplinarlo desde su periferia conectiva.
 

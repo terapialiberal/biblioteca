@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [fifth, generation, guerra, warfare]
 publish: true
+sin_fuente: true
 ---
 
 # Fifth Generation Warfare (5GW)

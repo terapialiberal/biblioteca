@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [clima, geopoltico, pluvial, siembra]
 publish: true
+sin_fuente: true
 ---
 
 # Siembra de Nubes: la Arquitectura del Robo Pluvial Geopolítico

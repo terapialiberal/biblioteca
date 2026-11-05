@@ -3,6 +3,7 @@ publish: true
 titulo: "Fondo Noruego (NBIM): El Dueo Silencioso Del Planeta"
 tipo: entidad
 estado: activo
+sin_fuente: true
 ---
 
 # Fondo Noruego (NBIM): El Dueo Silencioso Del Planeta

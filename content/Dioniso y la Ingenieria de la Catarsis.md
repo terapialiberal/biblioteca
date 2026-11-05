@@ -7,6 +7,7 @@ tags: [catarsis, dioniso, ingeniera]
 capa_tema: "b"
 nivel_evidencia: "alto"
 publish: true
+sin_fuente: true
 ---
 
 # Dioniso Y La Ingeniería De La Catarsis

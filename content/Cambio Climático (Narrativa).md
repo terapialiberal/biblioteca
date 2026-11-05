@@ -4,10 +4,11 @@ tipo: concepto
 titulo: Cambio Climático (Narrativa)
 estado: activo
 tags: [clima, narrativa, gobernanza-global, tl-intel-v3]
+sin_fuente: true
 ---
 
 # Cambio Climático (Narrativa)
 
-Capa discursiva e institucional alrededor del cambio climatico: riesgo, transicion energetica, carbono, finanzas verdes y legitimidad regulatoria.
+Capa discursiva e institucional alrededor del cambio climatico: riesgo, transición energetica, carbono, finanzas verdes y legitimidad regulatoria.
 
-En TL importa distinguir fenomeno fisico, modelizacion cientifica, uso politico, mercado de carbono, disciplinamiento industrial y oportunidades de renta.
+En TL importa distinguir fenomeno fisico, modelización cientifica, uso político, mercado de carbono, disciplinamiento industrial y oportunidades de renta.

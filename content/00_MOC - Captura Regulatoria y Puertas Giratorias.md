@@ -6,6 +6,7 @@ fecha: 2026-04-07
 estado: activo
 moc_canonico: [[00_MOC - Base de Conocimiento]]
 tags: [moc, captura-regulatoria, puerta-giratoria, tl-intel-v3]
+sin_fuente: true
 ---
 
 # MOC - Captura Regulatoria y Puertas Giratorias
@@ -77,17 +78,17 @@ tags: [moc, captura-regulatoria, puerta-giratoria, tl-intel-v3]
 
 ## Como leer la captura sanitaria
 
-- [[FDA]] y [[EMA]] muestran la capa de legitimacion regulatoria;
+- [[FDA]] y [[EMA]] muestran la capa de legitimación regulatoria;
 - [[CDC]] muestra la capa de vigilancia y conducta publica;
-- [[Safe and Effective]] muestra la traduccion narrativa que vuelve administrable esa arquitectura;
-- leer el conjunto junto con [[Pfizer]], [[Scott Gottlieb]] y [[La Puerta Giratoria de la FDA]] para no separar institucion, mensaje y rentabilidad.
+- [[Safe and Effective]] muestra la traducción narrativa que vuelve administrable esa arquitectura;
+- leer el conjunto junto con [[Pfizer]], [[Scott Gottlieb]] y [[La Puerta Giratoria de la FDA]] para no separar institución, mensaje y rentabilidad.
 
 ## Como leer la captura monetaria
 
-- empezar por [[Derogacion de Glass-Steagall]] para ubicar la liberacion previa del sistema;
-- seguir con [[Larry Summers|Larry Summers]] como operador doctrinal de la desregulacion;
+- empezar por [[Derogacion de Glass-Steagall]] para ubicar la liberación previa del sistema;
+- seguir con [[Larry Summers|Larry Summers]] como operador doctrinal de la desregulación;
 - bajar luego a [[Ben Bernanke]], [[Timothy Geithner]] y [[Hank Paulson]] para ver como Fed, NY Fed y Tesoro administran el rescate del mismo ecosistema financiero;
-- cerrar con [[Jamie Dimon]], [[Citadel]] y [[BlackRock]] para leer la continuidad entre crisis, consolidacion y nueva centralidad del capital concentrado.
+- cerrar con [[Jamie Dimon]], [[Citadel]] y [[BlackRock]] para leer la continuidad entre crisis, consolidación y nueva centralidad del capital concentrado.
 
 ## Nodos Relacionados
 

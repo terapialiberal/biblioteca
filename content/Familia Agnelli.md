@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [custodios, europa, industriales, stellantis]
 publish: true
+sin_fuente: true
 ---
 
 # Familia Agnelli: Los Custodios Industriales De Europa

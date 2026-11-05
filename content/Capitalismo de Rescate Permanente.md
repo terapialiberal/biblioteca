@@ -5,6 +5,7 @@ aliases: ["Capitalismo de Rescate Permanente"]
 tags: [concepto, finanzas, riesgo-moral, fed]
 tipo: concepto
 capa_tema: a
+sin_fuente: true
 ---
 
 # Capitalismo de Rescate Permanente

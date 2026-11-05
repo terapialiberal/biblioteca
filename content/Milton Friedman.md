@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Milton Friedman: El Mercenario Academico Del Neoliberalismo"]
 tags: [milton-friedman, escuela-de-chicago, monetarismo, neoliberalismo, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Milton Friedman

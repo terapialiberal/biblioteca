@@ -6,6 +6,7 @@ nivel_evidencia: "alto"
 estado: activo
 tags: [sociologia, control, lealtad, bio-politica]
 publish: true
+sin_fuente: true
 ---
 
 # Bio-Leninismo (V.3)

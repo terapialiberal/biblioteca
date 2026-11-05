@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Bab el Mandeb"]
 tags: [bab-el-mandeb, chokepoint, yemen, mar-rojo, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Bab el-Mandeb

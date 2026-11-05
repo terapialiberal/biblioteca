@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [stablecoins, dolar-digital, cripto, liquidez, rails-financieros, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Stablecoins

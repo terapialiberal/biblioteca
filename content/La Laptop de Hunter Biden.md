@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [biden, burisma, decadencia, twitter]
 publish: true
+sin_fuente: true
 ---
 
 # La Laptop De Hunter Biden: El Registro De La Decadencia Oligárquica

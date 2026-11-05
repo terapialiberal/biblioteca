@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [asesinato, blanco, henry, naciones]
 publish: true
+sin_fuente: true
 ---
 
 # Asesinato De Carrero Blanco

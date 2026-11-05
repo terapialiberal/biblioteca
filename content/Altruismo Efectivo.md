@@ -16,11 +16,11 @@ _(SBF, el poster boy cado del EA)_
 
 ## Resumen Ejecutivo
 
-**Qu es?** Filosofa utilitarista nacida en Oxford (William MacAskill) popular en [[Silicon Valley]]. Propone "ganar tanto dinero como sea possible" (Earn to Give) para donarlo a causas "eficaces" a largo plazo.
+**Qué es?** Filosofa utilitarista nacida en Oxford (William MacAskill) popular en [[Silicon Valley]]. Propone "ganar tanto dinero como sea possible" (Earn to Give) para donarlo a causas "eficaces" a largo plazo.
 
-**Por qu importa?** Se convirti en la justificacin moral para el fraude financiero masivo (FTX/Sam Bankman-Fried) y la obsesin peligrosa con la "AI Safety" eugensica. Bajo la excusa de salvar a "trillones de humanos futuros" (Longtermism), justifica sacrificar a humanos presentes o cometer crmenes financieros hoy. Es el nuevo disfraz tico del tecno-elitismo.
+**Por qué importa?** Se convirti en la justificacin moral para el fraude financiero masivo (FTX/Sam Bankman-Fried) y la obsesin peligrosa con la "AI Safety" eugensica. Bajo la excusa de salvar a "trillones de humanos futuros" (Longtermism), justifica sacrificar a humanos presentes o cometer crmenes financieros hoy. Es el nuevo disfraz tico del tecno-elitismo.
 
-## Anlisis (Tiers)
+## Análisis (Tiers)
 
 ### Tier A (Beneficiarios)
 

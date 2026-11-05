@@ -4,6 +4,7 @@ tipo: entidad
 titulo: Infosys
 estado: activo
 tags: [india, tecnologia, outsourcing, elite-politica, tl-intel-v3]
+sin_fuente: true
 ---
 
 # Infosys

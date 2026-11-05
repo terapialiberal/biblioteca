@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [banco, efecto, impuesto, inflacionario]
 publish: true
+sin_fuente: true
 ---
 
 # Impuesto Inflacionario

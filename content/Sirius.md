@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [estatua, estrella, faro, oculta]
 publish: true
+sin_fuente: true
 ---
 
 # Sirius: la Estrella Oculta: el Faro de la Iluminación de Élite

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [aniquilacin, gottlieb, mkultra, sidney]
 publish: true
+sin_fuente: true
 ---
 
 # Sidney Gottlieb: el Alquimista del Terror Y la Aniquilación del Yo

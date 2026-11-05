@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: ["2024", eleccin, elon, trump]
 publish: true
+sin_fuente: true
 ---
 
 # Elección De Trump 2024

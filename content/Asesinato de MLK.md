@@ -13,11 +13,11 @@ publish: true
 
 ## Resumen Ejecutivo
 
-**Qu fue?** Martin Luther King Jr. asesinado en Memphis. James Earl Ray condenado como tirador solitario.
+**Qué fue?** Martin Luther King Jr. asesinado en Memphis. James Earl Ray condenado como tirador solitario.
 
-**Por qu importa?** En 1999, la familia King demand a Lloyd Jowers (dueo del grill frente al motel) por conspiracin. Un jurado civil en Memphis declar CULPABLE a Jowers y determin que _"agencias gubernamentales"_ (incluyendo FBI y MPD) fueron co-conspiradoras. **Es el nico asesinato poltico de los 60s con veredicto judicial official de conspiracin gubernamental.** Los medios ignoraron el veredicto casi por completo.
+**Por qué importa?** En 1999, la familia King demand a Lloyd Jowers (dueo del grill frente al motel) por conspiración. Un jurado civil en Memphis declar CULPABLE a Jowers y determin que _"agencias gubernamentales"_ (incluyendo FBI y MPD) fueron co-conspiradoras. **Es el nico asesinato político de los 60s con veredicto judicial official de conspiración gubernamental.** Los medios ignoraron el veredicto casi por completo.
 
-## Anlisis (Tiers)
+## Análisis (Tiers)
 
 ### Tier A (Beneficiarios)
 

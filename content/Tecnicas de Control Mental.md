@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [control-mental, condicionamiento, trauma, dopamina, guerra-cognitiva, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Tecnicas de Control Mental

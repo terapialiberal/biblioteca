@@ -5,6 +5,7 @@ updated: 2026-02-28
 estado: activo
 tags: [teoria-de-juegos, estrategias, analisis-de-conflictos, modelos-de-juego, equilibrio-de-nash]
 titulo: "♟️ CHEAT SHEET: GAME THEORY"
+sin_fuente: true
 ---
 
 # ♟️ CHEAT SHEET: GAME THEORY

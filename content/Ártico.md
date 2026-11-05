@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Artico", "Ártico (Geopolítica)"]
 tags: [artico, recursos, rutas, energia, geopolitica, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Ártico

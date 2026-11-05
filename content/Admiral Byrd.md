@@ -7,6 +7,7 @@ tier_primario: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [admiral, antrtida, byrd, operacin]
+sin_fuente: true
 ---
 
 # Resumen General

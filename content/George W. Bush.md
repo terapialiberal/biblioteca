@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [bush, george, pnac, skull]
 publish: true
+sin_fuente: true
 ---
 
 # George W. Bush

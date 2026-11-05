@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [director, frank, mentiras, orquesta]
 publish: true
+sin_fuente: true
 ---
 
 # Frank Wisner: El Director De La Orquesta De Mentiras

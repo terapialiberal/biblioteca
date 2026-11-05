@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [blackrock, corporaciones, vanguard, zurich]
 publish: true
+sin_fuente: true
 ---
 
 # Estudio De Las 147 Corporaciones (ETH Zurich)

@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [palantir-aip, palantir, ia, decision, tecnocracia, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Palantir AIP
@@ -41,7 +42,7 @@ Su utilidad estratégica aparece cuando el sistema ya no solo muestra informaci�
 
 En TL, AIP sirve para marcar un paso más en la automatización del mando técnico.
 
-### 4. Software para gobernar saturacion
+### 4. Software para gobernar saturación
 
 Su relevancia crece cuando organizaciones públicas o privadas sienten que el entorno ya no puede gestionarse con ritmo humano. Policrisis, guerra, compliance y presión reputacional vuelven más atractiva una capa que resume, prioriza y recomienda.
 

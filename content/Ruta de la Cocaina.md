@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [balcanes, cocana, otan, soberano]
 publish: true
+sin_fuente: true
 ---
 
 # Ruta de la Cocaína: los Balcanes Y África: el Corredor Narco-Soberano

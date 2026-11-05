@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Berkshire", "Berkshire Hathaway (Warren Buffett)"]
 tags: [berkshire-hathaway, warren-buffett, holding, seguros, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Berkshire Hathaway

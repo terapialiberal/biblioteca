@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [dinero, moderna, monetaria, reserva]
 publish: true
+sin_fuente: true
 ---
 
 # Teoría Monetaria Moderna (MMT)

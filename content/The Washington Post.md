@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [washington-post, medios, establishment, bezos, narrativa, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # The Washington Post
@@ -56,4 +57,4 @@ Leído junto con [[The New York Times]], el Post ayuda a ver cómo el sistema pr
 - [[CIA]]
 - [[Narrativa Unica]]
 - [[The New York Times]]
-- [[Operacion Mockingbird]]
+- [[Operación Mockingbird]]

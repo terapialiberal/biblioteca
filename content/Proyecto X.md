@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [panptico, progresa, proyecto, sergio]
 publish: true
+sin_fuente: true
 ---
 
 # Proyecto X: el Panóptico de la Progresía

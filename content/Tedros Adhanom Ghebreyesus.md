@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Tedros", "Dr. Tedros"]
 tags: [tedros, who, oms, salud-global, bioseguridad, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Tedros Adhanom Ghebreyesus

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [ataques, charlie, guerra, hebdo]
 publish: true
+sin_fuente: true
 ---
 
 # Charlie Hebdo (Ataques 2015)

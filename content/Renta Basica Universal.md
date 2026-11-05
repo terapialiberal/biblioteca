@@ -8,6 +8,7 @@ estado: activo
 aliases: [UBI, Universal Basic Income]
 tags: [renta-basica, ubi, ia, identidad-digital, tecnocracia, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Renta Basica Universal

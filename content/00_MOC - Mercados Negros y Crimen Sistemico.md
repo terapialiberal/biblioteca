@@ -1,14 +1,15 @@
 ---
 publish: true
-titulo: "MOC - Mercados Negros y Crimen Sistemico"
+titulo: "MOC - Mercados Negros y Crimen Sistémico"
 tipo: moc
 fecha: 2026-04-07
 estado: activo
 moc_canonico: [[00_MOC - Base de Conocimiento]]
 tags: [moc, crimen-sistemico, mercados-negros, narcotrafico, tl-intel-v3]
+sin_fuente: true
 ---
 
-# MOC - Mercados Negros y Crimen Sistemico
+# MOC - Mercados Negros y Crimen Sistémico
 
 > El crimen no es solo anomalía: muchas veces cumple función sistémica como fuente de liquidez, coerción y administración territorial.
 

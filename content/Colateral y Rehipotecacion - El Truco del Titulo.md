@@ -8,6 +8,7 @@ tags: [colateral, rehipotecacin, tokenizacin, truco]
 capa_tema: "a"
 nivel_evidencia: "medio"
 publish: true
+sin_fuente: true
 ---
 
 # Colateral Y Rehipotecación — El Truco Del Título

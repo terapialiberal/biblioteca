@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [new-america, think-tank, google, gobernanza-digital, censura, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # New America Foundation

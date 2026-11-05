@@ -6,6 +6,7 @@ nivel_evidencia: "alto"
 estado: activo
 tags: [politica, medios, distraccion, corto-plazo]
 publish: true
+sin_fuente: true
 ---
 
 # Tier C: El Teatro (V.3)

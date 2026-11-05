@@ -6,6 +6,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [esoterismo, inteligencia, simbologia, vigilancia]
 publish: true
+sin_fuente: true
 ---
 
 # Lucero del Alba y Espionaje (V.3)

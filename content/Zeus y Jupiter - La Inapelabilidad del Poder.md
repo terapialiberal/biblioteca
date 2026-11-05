@@ -7,6 +7,7 @@ tags: [castigo-sistmico, jerarqua-poder, mitologa-zeus, poder-hegemona, poder-so
 capa_tema: a
 nivel_evidencia: alto
 publish: true
+sin_fuente: true
 ---
 
 # Zeus Y Júpiter - La Inapelabilidad Del Poder

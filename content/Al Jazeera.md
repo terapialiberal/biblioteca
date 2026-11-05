@@ -8,6 +8,7 @@ moc_canonico: [[00_MOC - Operaciones Psicologicas]]
 estado: activo
 fuentes_clave: []
 tags: [al-jazeera, qatar, medios, soft-power, tl-intel-v3]
+sin_fuente: true
 ---
 
 # [[Al Jazeera]]

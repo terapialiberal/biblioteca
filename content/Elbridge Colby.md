@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [colby, elbridge]
 publish: true
+sin_fuente: true
 ---
 
 # Elbridge Colby

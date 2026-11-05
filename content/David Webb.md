@@ -7,6 +7,7 @@ nivel_evidencia: "alto"
 estado: activo
 tags: [webb, great-taking, ucc, propiedad, reset, captura]
 publish: true
+sin_fuente: true
 ---
 
 # David Webb

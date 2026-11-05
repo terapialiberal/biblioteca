@@ -7,6 +7,7 @@ tags: [cabal, gematra, numerologa, sephirot]
 capa_tema: "a"
 nivel_evidencia: "alto"
 publish: true
+sin_fuente: true
 ---
 
 # Gematría Bíblica Y Cabalá

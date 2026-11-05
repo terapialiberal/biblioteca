@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [corporation, roger, tucker]
 publish: true
+sin_fuente: true
 ---
 
 # Fox Corporation

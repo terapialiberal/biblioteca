@@ -1,5 +1,5 @@
 ---
-titulo: AUKUS II - Expansion Japon
+titulo: AUKUS II - Expansión Japon
 tipo: concepto
 fecha: 2026-04-22
 capa_tema: b
@@ -8,9 +8,10 @@ estado: activo
 aliases: ["AUKUS II: El Pilar Digital Y La Integración De Japón", "AUKUS Pillar 2"]
 tags: [aukus, japon, indo-pacifico, defensa, anduril, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
-# AUKUS II - Expansion Japon
+# AUKUS II - Expansión Japon
 
 > [!abstract] PERFIL TL-INTEL
 > [[AUKUS II - Expansion Japon]] importa en TL como expansión del frente tecnológico-militar anglosajón en el Indo-Pacífico: menos un pacto puntual y más una infraestructura regional de software, sensores e interoperabilidad para contener a China.

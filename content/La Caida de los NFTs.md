@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [bayer, cada, despojo, psicolgico]
 publish: true
+sin_fuente: true
 ---
 
 # La Caída De Los NFTs: El Experimento De Despojo Psicológico

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [bill, fundacin, seed, svalbard]
 publish: true
+sin_fuente: true
 ---
 
 # Svalbard Global Seed Vault: el Arca de Noé de la Biopolítica

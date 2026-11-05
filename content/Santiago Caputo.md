@@ -8,13 +8,14 @@ estado: activo
 aliases: ["Santiago Caputo: el Arquitecto del Espectaculo y las Sombras"]
 tags: [argentina, milei, inteligencia, narrativa, caputo, poder-blando, side, palantir, thiel, libra, tl-intel-v3]
 last_stream: "[[06_Videos_Publicados/2026/2026-05-26_La_Trampa_de_Ormuz/00_ARCHIVO_2026-05-26_La_Trampa_de_Ormuz|ARCHIVO: La Trampa de Ormuz]]"
+sin_fuente: true
 ---
 
 # Santiago Caputo
 
 ## BLUF
 
-[[Santiago Caputo]] importa en TL como el operador que controla la [[SIDE]] (Secretaria de Inteligencia del Estado) y funciona como nexo entre [[Javier Milei]], el aparato de vigilancia, la red Trump y el ecosistema [[Peter Thiel]]. Sin cargo ministerial formal, maneja fondos reservados por \$100.000M sin supervision y es el enlace operativo del posible contrato [[Palantir]]-SIDE.
+[[Santiago Caputo]] importa en TL como el operador que controla la [[SIDE]] (Secretaria de Inteligencia del Estado) y funciona como nexo entre [[Javier Milei]], el aparato de vigilancia, la red Trump y el ecosistema [[Peter Thiel]]. Sin cargo ministerial formal, maneja fondos reservados por \$100.000M sin supervisión y es el enlace operativo del posible contrato [[Palantir]]-SIDE.
 
 ## Por que importa en TL
 
@@ -49,7 +50,7 @@ Su valor analitico crece cuando se lo observa como nexo entre Milei y actores ex
 
 ### 3. El vinculo Thiel-Caputo-SIDE
 
-La conexion mas relevante para TL: el [[DNU 941]] crea el marco legal exacto que necesita [[Palantir]] para operar en Argentina: unificacion de bases de datos, CIN, fondos reservados sin control. **El contrato Palantir-SIDE no es teoria: la infraestructura legal ya esta operativa.**
+La conexion mas relevante para TL: el [[DNU 941]] crea el marco legal exacto que necesita [[Palantir]] para operar en Argentina: unificación de bases de datos, CIN, fondos reservados sin control. **El contrato Palantir-SIDE no es teoria: la infraestructura legal ya esta operativa.**
 
 ### 4. Inteligencia y ecosistema digital
 
@@ -57,7 +58,7 @@ Leido junto con [[SIDE]] y la capa digital del oficialismo, el nodo sirve para p
 
 ### 5. Puente entre redes familiares y nuevo oficialismo
 
-Tambien importa como figura bisagra entre el nuevo experimento politico y redes previas de poder economico y acceso estatal conectadas con la familia Caputo.
+También importa como figura bisagra entre el nuevo experimento político y redes previas de poder económico y acceso estatal conectadas con la familia Caputo.
 
 ## Conexiones
 
@@ -65,12 +66,12 @@ Tambien importa como figura bisagra entre el nuevo experimento politico y redes 
 - [[Karina Milei]]
 - [[SIDE]] -- organismo que controla operativamente
 - [[DNU 941]] -- marco legal de la reforma de inteligencia
-- [[Peter Thiel]] -- vinculo estrategico, posible contrato Palantir
+- [[Peter Thiel]] -- vinculo estratégico, posible contrato Palantir
 - [[Palantir]] -- posible contratista de vigilancia bajo su gestion
 - [[AFI]] -- organismo predecesor
 - [[Mauricio Macri]] -- nexo operativo del balotaje 2023
 - [[Nicolas Caputo]] -- mismo apellido, redes de poder previas
-- [[Victoria Villarruel]] -- disputa por acceso y direccion del oficialismo
+- [[Victoria Villarruel]] -- disputa por acceso y dirección del oficialismo
 
 ## Fuentes en el vault
 

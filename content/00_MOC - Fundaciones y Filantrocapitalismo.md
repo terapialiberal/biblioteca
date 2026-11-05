@@ -6,6 +6,7 @@ fecha: 2026-04-21
 estado: activo
 moc_canonico: [[00_MOC - Base de Conocimiento]]
 tags: [moc, fundaciones, filantrocapitalismo, gobernanza, tl-intel-v3]
+sin_fuente: true
 ---
 
 # MOC - Fundaciones y Filantrocapitalismo
@@ -55,12 +56,12 @@ tags: [moc, fundaciones, filantrocapitalismo, gobernanza, tl-intel-v3]
 - [[Comision EAT-Lancet]]
 - [[Proteina de Insectos]]
 
-## Como leer la rama filantropica-politica
+## Como leer la rama filantropica-política
 
 - empezar por [[Open Society Foundations]] para fijar la red de financiamiento;
 - sumar [[George Soros]] para identificar al financiador visible y la capa especulativa previa;
-- conectar luego con [[NED]] y [[USAID]] para leer la zona de interseccion entre filantropia privada, sociedad civil financiada y proyeccion exterior;
-- cerrar con [[Lawfare]] y [[Revolucion del color]] para ver como la financiacion puede bajar a disputa juridica, cambio institucional y reemplazo de elites.
+- conectar luego con [[NED]] y [[USAID]] para leer la zona de intersección entre filantropia privada, sociedad civil financiada y proyección exterior;
+- cerrar con [[Lawfare]] y [[Revolucion del color]] para ver como la financiación puede bajar a disputa juridica, cambio institucional y reemplazo de elites.
 
 ## Nodos Relacionados
 

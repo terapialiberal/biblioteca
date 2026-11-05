@@ -1,15 +1,55 @@
 ---
-publish: true
+titulo: "Ganancia de Función"
 tipo: concepto
-titulo: Ganancia de Función
+fecha: 2026-04-21
+capa_tema: a
+nivel_evidencia: medio
 estado: activo
-tags: [concepto, bioseguridad, virologia, tl-intel-v3]
+aliases: ["Gain of Function", "Gain-of-Function"]
+tags: [ganancia-de-funcion, bioseguridad, virologia, laboratorio, riesgo, tl-intel-v3]
+publish: true
+sin_fuente: true
 ---
 
 # Ganancia de Función
 
-Investigacion biologica que modifica organismos o virus para adquirir nuevas capacidades, como mayor transmisibilidad, rango de hospedador o resistencia.
+## BLUF
 
-En TL importa por el cruce entre ciencia dual-use, bioseguridad, financiamiento, laboratorios, secreto, salud publica y atribucion de responsabilidad.
+[[Ganancia de Funcion]] importa en TL como el punto donde investigación biomédica, bioseguridad y riesgo civil se cruzan de forma más tensa. Su utilidad no está en usar el término como comodín conspirativo, sino en fijar el problema estratégico: ciertas investigaciones pueden aumentar capacidad, transmisibilidad o peligrosidad de patógenos y por eso desplazan la frontera entre ciencia, defensa y amenaza sistémica.
 
-Conecta con [[COVID-19]], [[Bioseguridad]], [[Anthony Fauci]] y [[Tratado de Pandemias OMS]].
+## Por que importa en TL
+
+- conecta laboratorio, financiamiento y riesgo biológico de alto impacto;
+- ayuda a leer por qué investigación avanzada puede volverse asunto geopolítico y no solo académico;
+- funciona como nodo técnico clave del corredor `Wuhan / EcoHealth / bioseguridad`.
+
+## Que es
+
+Ganancia de Función nombra experimentos orientados a modificar patógenos o sistemas biológicos para estudiar cambios en comportamiento, adaptación, transmisibilidad o virulencia. Su debate central no es solo científico, sino también político y ético.
+
+## Lectura TL
+
+### 1. Conocimiento con costo sistémico
+
+El punto relevante no es negar toda investigación de alto riesgo, sino observar cuándo la promesa de conocimiento útil se monta sobre riesgos que luego no son absorbidos por quienes toman las decisiones.
+
+### 2. Offshoring y opacidad
+
+En TL, la ganancia de función importa porque investigaciones sensibles pueden externalizarse a redes, laboratorios o marcos regulatorios más opacos sin que desaparezca la dependencia del financiamiento occidental.
+
+### 3. De ciencia a seguridad
+
+Cuando el objeto de estudio puede generar consecuencias pandémicas o militarizables, la frontera entre salud pública, biodefensa y geopolítica deja de ser limpia.
+
+### 4. Nodo técnico del cluster bioseguridad
+
+Leída junto con [[EcoHealth Alliance]], [[Peter Daszak]] e [[Instituto de Virologia de Wuhan]], la ganancia de función funciona como la pieza técnica que vuelve inteligible el resto del corredor.
+
+## Con que conecta
+
+- [[Bioseguridad]]
+- [[EcoHealth Alliance]]
+- [[Peter Daszak]]
+- [[Instituto de Virologia de Wuhan]]
+- [[Anthony Fauci]]
+- [[Vigilancia Biologica]]

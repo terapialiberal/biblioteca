@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [canad, convoy, justin, trucker]
 publish: true
+sin_fuente: true
 ---
 
 # Trucker Convoy Canadá

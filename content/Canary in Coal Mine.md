@@ -9,6 +9,7 @@ estado: activo
 aliases: ["Resumen General"]
 fuentes_clave: []
 tags: [canary, early-warning, patrones, senales, tl-intel-v3]
+sin_fuente: true
 ---
 
 # [[Canary in Coal Mine]]

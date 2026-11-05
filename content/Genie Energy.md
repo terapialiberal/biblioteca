@@ -7,6 +7,7 @@ nivel_evidencia: alto
 estado: activo
 tags: [genie-energy, golan, israel, rothschild, steinhardt, cheney, activo-tier-a, petroleo, mega-group, costly-signal, tl-intel-v3]
 fecha: 2026-03-12
+sin_fuente: true
 ---
 
 # Genie Energy

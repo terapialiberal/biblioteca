@@ -4,6 +4,7 @@ tipo: concepto
 titulo: "Patrón - Teoría del Rimland (Spykman)"
 estado: procesado
 tags: [patrones, geopolítica, rimland, tl-v3]
+sin_fuente: true
 ---
 
 # [[Patrón - Teoría del Rimland (Spykman)]]

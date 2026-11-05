@@ -7,6 +7,7 @@ capa_tema: b
 nivel_evidencia: medio
 estado: activo
 tags: [atentado, hezbollah, irn]
+sin_fuente: true
 ---
 
 # Atentado De Beirut 1983
@@ -35,7 +36,7 @@ El atentado demostró que el terrorismo suicida podía derrotar a superpotencias
 ## Conexiones
 
 - [[00_Glosario - Conceptos Fase 1#Hezbollah|Hezbollah]]
-- Invasion de Líbano 1982
+- Invasión de Líbano 1982
 - [[Irán]] (sponsor)
 
 ## Fuentes

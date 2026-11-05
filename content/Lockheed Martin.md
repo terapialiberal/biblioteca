@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Lockheed Martin: El Martillo Del Complejo Militar-Industrial"]
 tags: [lockheed-martin, defensa, complejo-militar-industrial, contratistas, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Lockheed Martin

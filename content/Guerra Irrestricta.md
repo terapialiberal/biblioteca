@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [guerra, irrestricta, lawfare, warfare]
 publish: true
+sin_fuente: true
 ---
 
 # Guerra Irrestricta (Unrestricted Warfare)

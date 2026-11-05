@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [caso, naciones, propiedad, vicentin]
 publish: true
+sin_fuente: true
 ---
 
 # Caso Vicentin (2020)

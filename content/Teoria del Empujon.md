@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Teoría del Empujón (Nudge Theory)", "Nudge Theory"]
 tags: [nudge, teoria-del-empujon, comportamiento, paternalismo, gobernanza, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Teoria del Empujon
@@ -24,7 +25,7 @@ publish: true
 
 ## Que cambio
 
-La nota estaba en formato viejo y muy resumido. Se recompila como concepto reusable para integrarla mejor con `Guerra Cognitiva`, `Ingenieria Social` y `Compliance`.
+La nota estaba en formato viejo y muy resumido. Se recompila como concepto reusable para integrarla mejor con `Guerra Cognitiva`, `Ingeniería Social` y `Compliance`.
 
 ## Lectura TL
 

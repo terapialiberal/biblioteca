@@ -8,6 +8,7 @@ estado: activo
 aliases: ["BIS", "BIS - El Banco de Pagos Internacionales", "Banco de Pagos Internacionales (BIS)"]
 tags: [bis, bancos-centrales, basilea, cbdc, coordinacion-monetaria, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Banco de Pagos Internacionales

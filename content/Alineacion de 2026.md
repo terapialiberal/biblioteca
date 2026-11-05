@@ -1,5 +1,5 @@
 ---
-titulo: Alineacion de 2026
+titulo: Alineación de 2026
 tipo: evento
 fecha: 2026-04-27
 estado: activo
@@ -8,27 +8,28 @@ tags: [2026, alineacion, ciclos, narrativa-profetica, tl-intel-v3]
 capa_tema: c
 nivel_evidencia: bajo
 publish: true
+sin_fuente: true
 ---
 
-# Alineacion de 2026
+# Alineación de 2026
 
 ## BLUF
 
-Alineacion de 2026 es un nodo de narrativa temporal: eventos astronomicos, geopoliticos o simbolicos interpretados como convergencia de ciclo, crisis y destino.
+Alineación de 2026 es un nodo de narrativa temporal: eventos astronomicos, geopoliticos o simbolicos interpretados como convergencia de ciclo, crisis y destino.
 
 ## Que es
 
-La nota debe tratarse como contenedor de lecturas y no como afirmacion profetica. Su utilidad es registrar como ciertas comunidades cargan el año 2026 con sentido de umbral.
+La nota debe tratarse como contenedor de lecturas y no como afirmación profetica. Su utilidad es registrar como ciertas comunidades cargan el año 2026 con sentido de umbral.
 
 ## Por que importa en TL
 
-- conecta calendario, profecia, ciclos historicos y expectativa politica;
+- conecta calendario, profecia, ciclos historicos y expectativa política;
 - ayuda a detectar narrativas que preparan emocionalmente a una audiencia para crisis;
-- permite separar evento verificable, interpretacion y prediccion.
+- permite separar evento verificable, interpretación y predicción.
 
 ## Lectura TL
 
-Una fecha puede operar como dispositivo de coordinacion aunque su base sea debil. Si muchos actores creen que un año es umbral, esa creencia puede modificar conducta, inversion, miedo y propaganda.
+Una fecha puede operar como dispositivo de coordinación aunque su base sea debil. Si muchos actores creen que un año es umbral, esa creencia puede modificar conducta, inversión, miedo y propaganda.
 
 ## Conexiones
 

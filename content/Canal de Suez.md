@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Suez", "Canal de Suez (Geopolítica)"]
 tags: [suez, chokepoint, comercio, energia, rimland, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Canal de Suez

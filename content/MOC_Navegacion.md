@@ -1,13 +1,14 @@
 ---
-titulo: "MOC - Navegacion del Vault"
+titulo: "MOC - Navegación del Vault"
 tipo: moc
 fecha: 2026-04-07
 estado: activo
 tags: [moc, navegacion, vault, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
-# MOC - Navegacion del Vault
+# MOC - Navegación del Vault
 
 > Mapa operativo para navegar el vault actual sin depender de rutas legacy.
 

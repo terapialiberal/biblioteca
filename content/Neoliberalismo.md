@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Neoliberalismo (Doctrina Económica)"]
 tags: [neoliberalismo, economia, privatizacion, fmi, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Neoliberalismo

@@ -6,6 +6,7 @@ fecha: 2026-04-18
 descripcion: Guia minima de uso de la base de conocimiento viva del vault.
 tags: [guia, base-de-conocimiento, wiki, contenedor]
 publish: true
+sin_fuente: true
 ---
 
 # 04\_Base\_de\_Conocimiento - Guia de uso

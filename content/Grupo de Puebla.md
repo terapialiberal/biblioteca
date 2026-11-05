@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [agenda, grupo, lawfare, puebla]
 publish: true
+sin_fuente: true
 ---
 
 # Grupo De Puebla

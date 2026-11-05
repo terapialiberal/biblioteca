@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [bretton-woods, dolar, oro, fmi, banco-mundial, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Conferencia de Bretton Woods

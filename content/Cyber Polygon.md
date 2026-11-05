@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [ciberataque, global, simulacin, world]
 publish: true
+sin_fuente: true
 ---
 
 # Cyber Polygon: La Simulación De Ciberataque Global

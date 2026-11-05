@@ -7,6 +7,7 @@ tags: [luna, mareas-mentales, ciclos, simbolismo, psicologia, tl-intel-v3]
 capa_tema: c
 nivel_evidencia: bajo
 publish: true
+sin_fuente: true
 ---
 
 # La Luna y Mareas Mentales

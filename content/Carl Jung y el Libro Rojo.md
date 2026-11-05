@@ -7,6 +7,7 @@ tags: [carl, libro, rojo, sincronicidad]
 tier_primario: "b"
 nivel_evidencia: "alto"
 publish: true
+sin_fuente: true
 ---
 
 # Carl Jung Y El Libro Rojo

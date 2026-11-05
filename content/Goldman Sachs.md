@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Goldman"]
 tags: [goldman-sachs, banca, wall-street, puerta-giratoria, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Goldman Sachs

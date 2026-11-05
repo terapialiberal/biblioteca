@@ -6,6 +6,7 @@ estado: activo
 aliases: ["GAFI", "Financial Action Task Force"]
 tags: [fatf, gafi, lavado, compliance, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # FATF

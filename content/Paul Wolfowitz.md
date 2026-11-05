@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [paul-wolfowitz, neocon, guerra-preventiva, irak, doctrina, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Paul Wolfowitz

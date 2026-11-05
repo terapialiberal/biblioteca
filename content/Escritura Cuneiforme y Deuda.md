@@ -7,6 +7,7 @@ tags: [cuneiforme, deuda, escritura]
 capa_tema: "a"
 nivel_evidencia: "alto"
 publish: true
+sin_fuente: true
 ---
 
 # Escritura Cuneiforme Y Deuda (El Origen Del Ledger)

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [contencin, expansin, industria, otan]
 publish: true
+sin_fuente: true
 ---
 
 # NATO Expansión: La Estrategia De Contención Geopolítica

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [bank, brian, business, moynihan]
 publish: true
+sin_fuente: true
 ---
 
 # Brian Moynihan

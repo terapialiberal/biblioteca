@@ -55,7 +55,7 @@ El plan se publicó **un día antes** de que Bessent y Trump salieran a hablar d
 
 ## Fuentes
 
-- Fortune, "As confusion reigns over Hormuz talks, Fortune gets exclusive access to a UN-backed plan to reopen the strait," 04-ago-2026. https://fortune.com/2026/08/04/confusion-reigns-over-hormuz-fortune-exclusive-access-un-backed-plan-to-reopen-the-strait-icc/
+- Fortune, "As confusión reigns over Hormuz talks, Fortune gets exclusive access to a UN-backed plan to reopen the strait," 04-ago-2026. https://fortune.com/2026/08/04/confusion-reigns-over-hormuz-fortune-exclusive-access-un-backed-plan-to-reopen-the-strait-icc/
 - ICC, "Proposed UN mechanism to reopen Hormuz to commercial shipping." https://iccwbo.org/news-publications/news/proposed-un-mechanism-to-reopen-hormuz-to-commercial-shipping/
 - Noticias ONU, "¿Qué es y por qué es importante para el mundo la Iniciativa de Granos del Mar Negro?" https://news.un.org/es/story/2022/09/1514581
 - AP News, 05-ago-2026 (acuerdo Ormuz). https://apnews.com/article/iran-war-us-hormuz-trump-august-5-2026-ecdbd96f2b46c70beb5926d8508f9c55

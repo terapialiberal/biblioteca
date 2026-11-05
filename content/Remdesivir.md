@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [estndar, inducida, protocolo, remdesivir]
 publish: true
+sin_fuente: true
 ---
 
 # Remdesivir (Protocolo): el Estándar de la Mortalidad Inducida

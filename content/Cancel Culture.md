@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Cancel Culture (Cultura de la Cancelación)", "Cultura de la Cancelación"]
 tags: [cancel-culture, censura, reputacion, cultura, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Cancel Culture

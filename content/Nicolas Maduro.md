@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [cartel, estado, hugo, multipolar]
 publish: true
+sin_fuente: true
 ---
 
 # Nicolás Maduro: El Gestor Del Estado-Cartel Multipolar

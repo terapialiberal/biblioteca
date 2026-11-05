@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Amazonas (Geopolítica)", "Amazonia"]
 tags: [amazonas, recursos, biodiversidad, agua, soberania, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Amazonas

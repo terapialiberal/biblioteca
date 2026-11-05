@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [estrecho, islas, spratly]
 publish: true
+sin_fuente: true
 ---
 
 # [[Islas Spratly]]

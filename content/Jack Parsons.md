@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [aleister, espacial, jack, nasa]
 publish: true
+sin_fuente: true
 ---
 
 # Jack Parsons: El Alquimista De La Era Espacial

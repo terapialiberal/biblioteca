@@ -7,6 +7,7 @@ tags: [apotheosis, derecha, izquierda, mano]
 capa_tema: "b"
 nivel_evidencia: "medio"
 publish: true
+sin_fuente: true
 ---
 
 # Vía De La Mano Izquierda Vs Vía De La Mano Derecha

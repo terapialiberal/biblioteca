@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [carl, donald, icahn]
 publish: true
+sin_fuente: true
 ---
 
 # Carl Icahn
@@ -17,7 +18,7 @@ publish: true
 
 ## Biografa Resumida
 
-Carl Icahn es uno de los inversores activistas ms famosos del mundo. Su estrategia: comprar participaciones en empresas "subvaluadas", presionar por cambios (venta de activos, despidos, dividendos), y vendor.
+Carl Icahn es uno de los inversores activistas más famosos del mundo. Su estrategia: comprar participaciones en empresas "subvaluadas", presionar por cambios (venta de activos, despidos, dividendos), y vendor.
 
 Objetivos famosos: TWA, Texaco, RJR Nabisco, Apple, Netflix.
 
@@ -25,7 +26,7 @@ Asesor de [[Donald Trump]] brevemente.
 
 ## Red De Conexiones
 
-- **Trump:** Asesor econmico (breve)
+- **Trump:** Asesor económico (breve)
 - **Wall Street:** Legendario entre raiders
 - **Corporaciones:** Cientos de targets
 

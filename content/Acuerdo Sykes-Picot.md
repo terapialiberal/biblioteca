@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [declaracin, lawrence, picot, sykes]
 publish: true
+sin_fuente: true
 ---
 
 # Acuerdo Sykes-Picot

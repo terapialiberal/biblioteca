@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Solana (Blockchain)"]
 tags: [solana, cripto, blockchain, velocidad, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Solana

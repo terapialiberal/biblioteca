@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [bcci, escndalo, irn, promis]
 publish: true
+sin_fuente: true
 ---
 
 # Escándalo BCCI

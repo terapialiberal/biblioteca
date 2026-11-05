@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Too Big to Fail (Bancos Sistémicos)", "Demasiado grande para caer"]
 tags: [too-big-to-fail, banca-sistemica, bailout, moral-hazard, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Too Big to Fail

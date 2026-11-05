@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [rusos, sndrome, ventana, vladimir]
 publish: true
+sin_fuente: true
 ---
 
 # Guerra De Oligarcas Rusos (Síndrome De La Ventana)

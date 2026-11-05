@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Curva de rendimientos", "Curva de tasas", "Yield Curve (Curva de Rendimientos)"]
 tags: [yield-curve, bonos, tasas, treasuries, control-financiero, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Yield Curve

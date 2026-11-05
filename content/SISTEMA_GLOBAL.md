@@ -6,6 +6,7 @@ fecha: 2026-04-07
 estado: activo
 moc_canonico: [[00_Mapa_de_Poder_Global_A-Z]]
 tags: [sistema-global, jerarquia-de-poder, modelo-proxy, tl-intel-v3]
+sin_fuente: true
 ---
 
 # Sistema Global

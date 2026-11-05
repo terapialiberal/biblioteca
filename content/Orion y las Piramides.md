@@ -8,6 +8,7 @@ tags: [orion, piramides, astroarqueologia, egipto, tl-intel-v3]
 capa_tema: c
 nivel_evidencia: bajo
 publish: true
+sin_fuente: true
 ---
 
 # Orion y las Piramides
@@ -18,17 +19,17 @@ Orion y las Piramides es un nodo de astroarqueologia popular: alineaciones, Egip
 
 ## Que es
 
-La hipotesis de correlacion entre Orion y piramides ha circulado ampliamente. Su valor TL esta en el imaginario de alineacion cielo-tierra, no en tomarla como prueba cerrada.
+La hipotesis de correlación entre Orion y piramides ha circulado ampliamente. Su valor TL esta en el imaginario de alineación cielo-tierra, no en tomarla como prueba cerrada.
 
 ## Por que importa en TL
 
 - conecta arquitectura monumental, astronomia cultural y legitimidad sagrada;
 - ayuda a leer como las elites antiguas usaban cielo y territorio;
-- advierte contra convertir patrones visuales en certeza historica.
+- advierte contra convertir patrones visuales en certeza histórica.
 
 ## Lectura TL
 
-Aunque una alineacion concreta sea discutible, la funcion politica del cielo es real: dar al poder terrestre una apariencia cosmica.
+Aunque una alineación concreta sea discutible, la función política del cielo es real: dar al poder terrestre una apariencia cosmica.
 
 ## Conexiones
 

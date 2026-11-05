@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [darpa, futuro, palantir, prediccin]
 publish: true
+sin_fuente: true
 ---
 
 # IARPA: La Predicción Del Futuro Humano

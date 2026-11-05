@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [aaron, russo]
 publish: true
+sin_fuente: true
 ---
 
 # Aaron Russo

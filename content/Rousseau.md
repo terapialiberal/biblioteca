@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Jean-Jacques Rousseau"]
 tags: [rousseau, contrato-social, filosofia-politica, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Rousseau

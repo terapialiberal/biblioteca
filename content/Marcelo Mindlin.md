@@ -8,6 +8,7 @@ moc_canonico: [[00_MOC - Argentina]]
 estado: activo
 fuentes_clave: []
 tags: [marcelo-mindlin, energia, argentina, pampa-energia, tl-intel-v3]
+sin_fuente: true
 ---
 
 # [[Marcelo Mindlin]]

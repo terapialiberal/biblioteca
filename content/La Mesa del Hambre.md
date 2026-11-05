@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [alberto, estado, hambre, marcelo]
 publish: true
+sin_fuente: true
 ---
 
 # La Mesa Del Hambre: El Teatro De La Solidaridad De Estado

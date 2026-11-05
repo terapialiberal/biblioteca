@@ -7,13 +7,14 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [andreessen, horowitz, marc]
 publish: true
+sin_fuente: true
 ---
 
 # Andreessen Horowitz
 
 > [!ABSTRACT] Ficha Tcnica
 > **Narrativa Official:** Firma de venture capital lder.
-> **Funcin Real:** Kingmaker de Silicon Valley. Define qu startups reciben financiamiento.
+> **Funcin Real:** Kingmaker de Silicon Valley. Define qué startups reciben financiamiento.
 
 ## Actores Clave
 
@@ -29,7 +30,7 @@ Portfolio incluye:
 - Facebook (early investor)
 - Airbnb, Coinbase, GitHub, Stripe, etc.
 
-## Ideologa
+## Ideología
 
 Marc Andreessen public "Techno-Optimist Manifesto" (2023) - manifiesto de tecno-libertarianismo agresivo.
 

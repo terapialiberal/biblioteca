@@ -15,11 +15,11 @@ publish: true
 
 ## Resumen Ejecutivo
 
-**Quin era?** El comerciante de materias primas ms infame del siglo XX. Fundador de Glencore. Invent el mercado spot de petrleo.
+**Quién era?** El comerciante de materias primas más infame del siglo XX. Fundador de Glencore. Invent el mercado spot de petrleo.
 
-**Por qu importa?** Comerci con todos los enemigos de EEUU durante la Guerra Fra: Irn (durante la crisis de rehenes), Cuba, Apartheid Sudfrica, URSS. Estuvo fugitivo del FBI por evasin de impuestos masiva, viviendo en lujo en Suiza. Fue polmicamente **indultado por Bill Clinton** en su ltimo da de mandato (2001) tras presin del Mossad y donaciones de su ex-esposa Denise Rich.
+**Por qué importa?** Comerci con todos los enemigos de EEUU durante la Guerra Fra: Irn (durante la crisis de rehenes), Cuba, Apartheid Sudfrica, URSS. Estuvo fugitivo del FBI por evasin de impuestos masiva, viviendo en lujo en Suiza. Fue polmicamente **indultado por Bill Clinton** en su ltimo da de mandato (2001) tras presin del Mossad y donaciones de su ex-esposa Denise Rich.
 
-## Anlisis (Tiers)
+## Análisis (Tiers)
 
 ### Tier A (Geopoltica Privada)
 
@@ -30,7 +30,7 @@ publish: true
 
 - **Sanction Busting:** Su especialidad era violar embargoes. Si un pas estaba bloqueado, Rich le consegua petrleo o venda su cobre.
 - **El Indulto:** Eric Holder (luego Fiscal General de Obama) facilit el indulto. Ehud Barak (PM Israel) llam a Clinton personalmente para pedirlo. Clinton recibi \450k para su biblioteca presidencial de Denise Rich.
-- **Proteccin:** Vivi dcadas en Suiza intocable, protegido por servicios de inteligencia a cambio de informacin/favores.
+- **Proteccin:** Vivi dcadas en Suiza intocable, protegido por servicios de inteligencia a cambio de información/favores.
 
 ### Tier C (Narrativa)
 

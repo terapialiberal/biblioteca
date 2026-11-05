@@ -7,6 +7,7 @@ tags: [adrenocromo, trfico, rganos]
 capa_tema: "a"
 nivel_evidencia: "alto"
 publish: true
+sin_fuente: true
 ---
 
 # Tráfico De Órganos — El Mercado Rojo De La Biopolítica

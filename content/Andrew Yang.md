@@ -5,6 +5,7 @@ aliases: ["Andrew Yang"]
 tags: [actor, eeuu, ubi, tecnologia, politica]
 tipo: actor
 tier_primario: C
+sin_fuente: true
 ---
 
 # Andrew Yang

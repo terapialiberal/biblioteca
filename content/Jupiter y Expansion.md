@@ -1,11 +1,12 @@
 ---
-titulo: Jupiter y Expansion
+titulo: Jupiter y Expansión
 tipo: "concepto"
 capa_tema: "a"
 nivel_evidencia: "medio"
 estado: activo
 tags: [esoterismo, astrologia-financiera, jupiter, expansion]
 publish: true
+sin_fuente: true
 ---
 
 # Júpiter y Expansión (V.3)
@@ -15,7 +16,7 @@ publish: true
 
 ## 👁️ Análisis Forense de Ciclos
 
-1. **El Ciclo de 12 Años:** El sistema suele lanzar grandes paradigmas de crecimiento o integraciones regionales (ej. expansion de [[BRICS]]) coincidiendo con tránsitos jupiterianos clave.
+1. **El Ciclo de 12 Años:** El sistema suele lanzar grandes paradigmas de crecimiento o integraciones regionales (ej. expansión de [[BRICS]]) coincidiendo con tránsitos jupiterianos clave.
 2. **Exceso y Burbujas:** La energía de Júpiter, sin el límite de [[Saturno y Deuda]], genera las burbujas financieras que el Tier A utiliza para atraer al [[Tier C]] hacia el mercado antes de la purga (Nigredo).
 3. **Validación Teológica:** El uso de Júpiter como símbolo del "Rey de los Dioses" para legitimar la autoridad final del sistema.
 

@@ -8,37 +8,38 @@ estado: activo
 aliases: ["Guerra de las Malvinas (Recursos Estrategicos)"]
 tags: [malvinas, guerra, argentina, reino-unido, atlantico-sur, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Guerra de las Malvinas
 
 ## BLUF
 
-[[Guerra de las Malvinas]] importa en TL como evento bisagra del corredor austral: condensa soberania, derrota militar, reposicionamiento britanico y una reconfiguracion duradera del Atlantico Sur.
+[[Guerra de las Malvinas]] importa en TL como evento bisagra del corredor austral: condensa soberania, derrota militar, reposicionamiento britanico y una reconfiguración duradera del Atlantico Sur.
 
 ## Por que importa en TL
 
 - permite leer la guerra mas alla del simbolo o la efemeride;
-- conecta decision militar, geoestrategia britanica y efectos de largo plazo sobre soberania;
+- conecta decisión militar, geoestrategia britanica y efectos de largo plazo sobre soberania;
 - sirve como evento madre para enlazar [[Malvinas]], [[Mar Argentino]] y [[Antartida Argentina]].
 
 ## Que cambio
 
-La nota se recompila desde una version vieja muy cargada en retorica. Queda como evento analitico reusable, separado del nodo territorial [[Malvinas]].
+La nota se recompila desde una versión vieja muy cargada en retorica. Queda como evento analitico reusable, separado del nodo territorial [[Malvinas]].
 
 ## Lectura TL
 
 ### 1. Derrota que reordena el tablero
 
-La guerra importa no solo por el conflicto de 1982, sino porque consolidó una disposicion posterior del poder en el Atlantico Sur que sigue teniendo efectos.
+La guerra importa no solo por el conflicto de 1982, sino porque consolidó una disposición posterior del poder en el Atlantico Sur que sigue teniendo efectos.
 
-### 2. Capacidad militar y vulnerabilidad politica
+### 2. Capacidad militar y vulnerabilidad política
 
-TL la usa para mostrar como un error de calculo politico-militar puede terminar habilitando una posicion mas fuerte del adversario durante decadas.
+TL la usa para mostrar como un error de calculo político-militar puede terminar habilitando una posición mas fuerte del adversario durante decadas.
 
-### 3. Relacion con recursos y proyeccion
+### 3. Relación con recursos y proyección
 
-Leida junto con [[Malvinas]] y [[Antartida Argentina]], la guerra deja de ser solo episodio historico y pasa a ser punto de inflexion para pensar rutas, bases, pesca e hidrocarburos.
+Leida junto con [[Malvinas]] y [[Antartida Argentina]], la guerra deja de ser solo episodio histórico y pasa a ser punto de inflexion para pensar rutas, bases, pesca e hidrocarburos.
 
 ### 4. Memoria y estructura
 

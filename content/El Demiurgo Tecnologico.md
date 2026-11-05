@@ -7,6 +7,7 @@ tags: [censura, demiurgo, tecnolgico, yaldabaoth]
 tier_primario: "a"
 nivel_evidencia: "bajo"
 publish: true
+sin_fuente: true
 ---
 
 # El Demiurgo Tecnológico

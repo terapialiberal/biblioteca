@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [bitcoin, cbdc, patrn, saifedean]
 publish: true
+sin_fuente: true
 ---
 
 # El Patrón Bitcoin

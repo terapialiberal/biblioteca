@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [asesinato, bush, george, skull]
 publish: true
+sin_fuente: true
 ---
 
 # George H. W. Bush

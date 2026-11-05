@@ -10,6 +10,7 @@ tags:
 tipo: actor
 tier_primario: B
 titulo: Aldo Moro
+sin_fuente: true
 ---
 
 # Aldo Moro

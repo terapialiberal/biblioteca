@@ -12,6 +12,7 @@ tags:
   - inteligencia-británica
   - propaganda
 publish: true
+sin_fuente: true
 ---
 
 # Caso Skripal (Envenenamiento De Salisbury)

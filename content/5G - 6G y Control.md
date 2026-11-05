@@ -5,6 +5,7 @@ tipo: "concepto"
 fecha: 2026-02-27
 estado: activo
 tags: [intel, analisis, TL V.3]
+sin_fuente: true
 ---
 
 # 5G - 6G: La Infraestructura De Control Total

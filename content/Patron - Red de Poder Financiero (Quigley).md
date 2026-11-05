@@ -4,6 +4,7 @@ tipo: concepto
 titulo: "Patrón - Red de Poder Financiero (Quigley)"
 estado: procesado
 tags: [patrones, poder-financiero, quigley, atlanticismo, tl-v3]
+sin_fuente: true
 ---
 
 # [[Patrón - Red de Poder Financiero (Quigley)]]

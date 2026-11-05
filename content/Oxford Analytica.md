@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [oxford-analytica, inteligencia-privada, consultoria, geoestrategia, academia, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Oxford Analytica

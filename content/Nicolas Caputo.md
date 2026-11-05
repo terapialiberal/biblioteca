@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Nicolás Caputo", "Nicolas Caputo: El Patriarca del Capitalismo de Amigos"]
 tags: [argentina, empresarios, macri, caputo, circulo-rojo, obra-publica, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Nicolas Caputo
@@ -18,8 +19,8 @@ publish: true
 
 ## Por que importa en TL
 
-- conecta negocios regulados, cercania personal al poder y reproduccion de elites locales;
-- ayuda a leer el capitalismo de amigos como infraestructura estable y no como desviacion puntual;
+- conecta negocios regulados, cercania personal al poder y reproducción de elites locales;
+- ayuda a leer el capitalismo de amigos como infraestructura estable y no como desviación puntual;
 - funciona como nodo de cruce entre [[Mauricio Macri]], [[Santiago Caputo]] y el circuito de empresarios del circulo rojo.
 
 ## Que cambio
@@ -28,21 +29,21 @@ La nota venia como perfil-manifiesto, con encoding roto y varios enlaces a nodos
 
 ## Lectura TL
 
-### 1. Acceso personal como activo economico
+### 1. Acceso personal como activo económico
 
-En TL, Caputo importa porque muestra que en Argentina el valor politico no pasa solo por ideologia o programa, sino por acceso concreto al entorno presidencial y a las mesas donde se reparten regulacion, contratos y favores.
+En TL, Caputo importa porque muestra que en Argentina el valor político no pasa solo por ideologia o programa, sino por acceso concreto al entorno presidencial y a las mesas donde se reparten regulación, contratos y favores.
 
 ### 2. Capitalismo de amigos como estructura
 
-Su valor analitico aumenta cuando se lo lee no como caso aislado de empresario cercano, sino como pieza de una arquitectura mas amplia donde obra publica, proteccion regulatoria y relaciones personales se refuerzan mutuamente.
+Su valor analitico aumenta cuando se lo lee no como caso aislado de empresario cercano, sino como pieza de una arquitectura mas amplia donde obra publica, protección regulatoria y relaciones personales se refuerzan mutuamente.
 
-### 3. Bisagra entre vieja elite y reconfiguracion actual
+### 3. Bisagra entre vieja elite y reconfiguración actual
 
 Leido junto con [[Mauricio Macri]] y [[Santiago Caputo]], el nodo ayuda a ver como ciertas familias y redes empresariales atraviesan ciclos politicos distintos sin perder centralidad.
 
 ### 4. Poder sin demasiada visibilidad
 
-Tambien importa porque encarna una forma de influencia de baja exposicion publica: no necesita ser la cara principal del sistema para seguir pesando dentro de su zona de decisiones reales.
+También importa porque encarna una forma de influencia de baja exposición publica: no necesita ser la cara principal del sistema para seguir pesando dentro de su zona de decisiones reales.
 
 ## Conexiones
 

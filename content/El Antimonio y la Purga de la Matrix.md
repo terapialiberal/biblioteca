@@ -8,27 +8,28 @@ tags: [antimonio, alquimia, purga, matrix, tl-intel-v3]
 capa_tema: c
 nivel_evidencia: medio
 publish: true
+sin_fuente: true
 ---
 
 # El Antimonio y la Purga de la Matrix
 
 ## BLUF
 
-El Antimonio y la Purga de la Matrix usa una imagen alquimica para leer procesos de expulsion, limpieza simbolica y ruptura con un orden percibido como falso.
+El Antimonio y la Purga de la Matrix usa una imagen alquimica para leer procesos de expulsión, limpieza simbolica y ruptura con un orden percibido como falso.
 
 ## Que es
 
-En alquimia, sustancias como el antimonio fueron asociadas a purificacion y transformacion. En TL el nodo funciona como metafora, no como quimica politica literal.
+En alquimia, sustancias como el antimonio fueron asociadas a purificación y transformación. En TL el nodo funciona como metafora, no como quimica política literal.
 
 ## Por que importa en TL
 
-- conecta purga, crisis, iniciacion y narrativa anti-sistema;
+- conecta purga, crisis, iniciación y narrativa anti-sistema;
 - permite leer discursos que prometen limpieza total;
-- advierte contra esteticas de purificacion que terminan justificando violencia.
+- advierte contra esteticas de purificación que terminan justificando violencia.
 
 ## Lectura TL
 
-Toda purga promete liberar. El riesgo es que la limpieza se vuelva tecnologia de obediencia: definir impureza, expulsar disenso y crear un nuevo dogma.
+Toda purga promete liberar. El riesgo es que la limpieza se vuelva tecnología de obediencia: definir impureza, expulsar disenso y crear un nuevo dogma.
 
 ## Conexiones
 

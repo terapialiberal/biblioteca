@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [arma, clima, haarp, invisible]
 publish: true
+sin_fuente: true
 ---
 
 # Modificación Del Clima: El Arma De Dominación Invisible

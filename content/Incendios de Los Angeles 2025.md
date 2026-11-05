@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: ["2025", agenda, incendios, ngeles]
 publish: true
+sin_fuente: true
 ---
 
 # Incendios De Los Ángeles 2025

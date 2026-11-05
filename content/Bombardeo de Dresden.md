@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [bombardeo, dresden, segunda]
 publish: true
+sin_fuente: true
 ---
 
 # Bombardeo De Dresden

@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Irán-Contra", "Iran-Contra", "Irán-Contra (Escándalo)"]
 tags: [irangate, iran-contra, cia, nicaragua, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Irangate

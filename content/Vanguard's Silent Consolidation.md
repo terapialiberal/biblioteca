@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [blackrock, consolidation, silent, vanguard]
 publish: true
+sin_fuente: true
 ---
 
 # [[Vanguard's Silent Consolidation]]

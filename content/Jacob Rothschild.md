@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [custodio, henry, jacob, rothschild]
 publish: true
+sin_fuente: true
 ---
 
 # Jacob Rothschild: El Custodio Del Orden Global

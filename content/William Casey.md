@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [william-casey, cia, iran-contra, bcci, operaciones-encubiertas, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # William Casey

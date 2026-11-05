@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [epstein, cartas, libro-de-cumpleanos, elite, kompromat, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Cartas de Cumpleaños (Epstein)

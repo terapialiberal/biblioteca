@@ -5,6 +5,7 @@ aliases: ["Laura Richardson"]
 tags: [actor, militar, SOUTHCOM]
 tipo: actor
 tier_primario: B
+sin_fuente: true
 ---
 
 # Laura Richardson

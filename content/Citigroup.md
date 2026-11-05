@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Citi"]
 tags: [citigroup, banca, wall-street, global, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Citigroup

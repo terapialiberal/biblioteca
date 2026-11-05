@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [chemtrails, darpa, polvo, smart]
 publish: true
+sin_fuente: true
 ---
 
 # Polvo Inteligente (Smart Dust)

@@ -7,6 +7,7 @@ tags: [archivos, hammadi, rollos]
 capa_tema: "a"
 nivel_evidencia: "alto"
 publish: true
+sin_fuente: true
 ---
 
 # Rollos De Nag Hammadi (La Anomalía Gnóstica)

@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Volodymyr Zelensky", "Zelenskyy"]
 tags: [zelensky, ucrania, guerra, otan, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Zelensky

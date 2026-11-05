@@ -5,6 +5,7 @@ titulo: "Patrón - Escasez Creada (Sutton)"
 fecha: 2026-10-06
 estado: procesado
 tags: [patrones, escasez-creada, energia, sutton, engdahl, tl-intel-v3]
+sin_fuente: true
 ---
 
 # [[Patron - Escasez Creada (Sutton)]]

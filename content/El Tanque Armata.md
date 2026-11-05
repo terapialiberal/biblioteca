@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [armata, complejo, tanque, vladimir]
 publish: true
+sin_fuente: true
 ---
 
 # El Tanque Armata (T-14)

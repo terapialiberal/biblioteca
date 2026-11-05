@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [arquitecto, burstil, janet, simulacin]
 publish: true
+sin_fuente: true
 ---
 
 # Ken Griffin: El Arquitecto De La Simulación Bursátil

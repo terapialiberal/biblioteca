@@ -6,6 +6,7 @@ estado: activo
 aliases: ["CFR", "Council on Foreign Relations"]
 tags: [cfr, think-tank, eeuu, elite, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # CFR (Council on Foreign Relations)

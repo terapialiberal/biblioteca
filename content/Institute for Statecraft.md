@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [ciudadano, contra, institute, otan]
 publish: true
+sin_fuente: true
 ---
 
 # Institute for Statecraft: La Guerra Psicológica contra El Ciudadano

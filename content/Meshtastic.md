@@ -3,18 +3,19 @@ publish: true
 titulo: "Meshtastic: La Red De La Resistencia"
 tipo: concepto
 estado: activo
+sin_fuente: true
 ---
 
 # Meshtastic (TL V.3): La Red De La Resistencia
 
 > [!ABSTRACT] Hiptesis Informativa
-> Meshtastic es la respuesta tecnolgica del **[[Tier C]]** ante la amenaza del **Apagn Digital (Kill Switch)**. Utilizando dispositivos de radio baratos (LoRa) que operan en frecuencias libres, crea una red descentralizada en malla (Mesh) que permite el chat y la geolocalizacin cifrada **sin necesidad de torres de telefona, internet ni satlites**. En un escenario donde el **[[Tier A]]** decida "apagar la Matrix" para controlar una insurreccin o una crisis, Meshtastic se convierte en la nica infraestructura de comunicacin civil soberana e incensurable.
+> Meshtastic es la respuesta tecnológica del **[[Tier C]]** ante la amenaza del **Apagn Digital (Kill Switch)**. Utilizando dispositivos de radio baratos (LoRa) que operan en frecuencias libres, crea una red descentralizada en malla (Mesh) que permite el chat y la geolocalizacin cifrada **sin necesidad de torres de telefona, internet ni satlites**. En un escenario donde el **[[Tier A]]** decida "apagar la Matrix" para controlar una insurreccin o una crisis, Meshtastic se convierte en la nica infraestructura de comunicacin civil soberana e incensurable.
 
-## Anlisis De Tiers
+## Análisis De Tiers
 
 ### Tier C: La Soberana De Las Comunicaciones
 
-- **Descentralizacin Real:** A diferencia de Telegram o Signal, que dependen de servidores centrales e internet, Meshtastic es una red peer-to-peer fsica. Cada usuario es un nodo repetidor. Esto hace que la red sea **Antifrgil**: cuantos ms usuarios la usan, ms fuerte y extenso es el alcance. Es imposible de "bajar" sin confiscar fsicamente cada dispositivo.
+- **Descentralizacin Real:** A diferencia de Telegram o Signal, que dependen de servidores centrales e internet, Meshtastic es una red peer-to-peer fsica. Cada usuario es un nodo repetidor. Esto hace que la red sea **Antifrgil**: cuantos más usuarios la usan, más fuerte y extenso es el alcance. Es imposible de "bajar" sin confiscar fsicamente cada dispositivo.
 - **Bajo Costo y Acceso:** Con hardware de \30 USD, democratiza el acceso a comunicaciones tcticas de nivel militar (encriptacin AES-256), rompiendo el monopolio de las telecomunicaciones corporativas.
 
 ### Tier A: La Amenaza Del Espectro
@@ -34,6 +35,6 @@ estado: activo
 - [[Cifrado (AES-256)]]: La proteccin del contenido.
 - [[Cyber Polygon]]: La simulacin del apagn que justifica su uso.
 
-## Conclusin Del Anlisis
+## Conclusin Del Análisis
 
 Meshtastic no es un juguete de hobby; es el "Walkie-Talkie del Siglo XXI". Representa la capacidad de las comunidades de mantenerse coordinadas cuando el Estado apaga la luz. Tener un nodo Meshtastic es un acto de soberana digital fsica.

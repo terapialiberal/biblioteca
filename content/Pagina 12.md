@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Página/12", "Página 12"]
 tags: [argentina, medios, kirchnerismo, pauta, narrativa, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Pagina 12

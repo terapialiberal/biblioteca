@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [disidencia, gatt, james, maverick]
 publish: true
+sin_fuente: true
 ---
 
 # Sir James Goldsmith: el Maverick de la Disidencia Élite

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [francisco, guardia, guerra, tradicin]
 publish: true
+sin_fuente: true
 ---
 
 # Guerra Vaticana (Francisco Vs Tradición)

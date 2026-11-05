@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Singapur (Centro Financiero)"]
 tags: [singapur, asia, finanzas, malaca, hub, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Singapur

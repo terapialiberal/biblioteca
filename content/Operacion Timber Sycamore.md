@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [fbrica, guerra, sycamore, timber]
 publish: true
+sin_fuente: true
 ---
 
 # Operación Timber Sycamore: La Fábrica De Yihadistas De La CIA

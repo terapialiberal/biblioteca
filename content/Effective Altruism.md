@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [altruismo, efectivo, effective, openai]
 publish: true
+sin_fuente: true
 ---
 
 # Effective Altruism (Altruismo Efectivo)

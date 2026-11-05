@@ -7,6 +7,7 @@ tags: [canan, cartago, expansivo, nodo]
 capa_tema: "a"
 nivel_evidencia: "alto"
 publish: true
+sin_fuente: true
 ---
 
 # Cartago - El Nodo Expansivo De Canaán

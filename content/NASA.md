@@ -7,18 +7,19 @@ nivel_evidencia: medio
 estado: activo
 tags: [nasa, espacio, aeroespacial, ciencia, contratistas, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # NASA
 
 ## BLUF
 
-[[NASA]] importa en TL como agencia espacial estadounidense que combina ciencia, infraestructura aeroespacial, contratismo tecnologico y funcion simbolica dentro del imaginario de poder de Estados Unidos. Su utilidad analitica no esta solo en exploracion o investigacion, sino en servir de interfaz entre Estado, industria, defensa blanda, prestigio nacional y despliegue de capacidades espaciales reutilizables por otros aparatos.
+[[NASA]] importa en TL como agencia espacial estadounidense que combina ciencia, infraestructura aeroespacial, contratismo tecnológico y función simbolica dentro del imaginario de poder de Estados Unidos. Su utilidad analitica no esta solo en exploración o investigación, sino en servir de interfaz entre Estado, industria, defensa blanda, prestigio nacional y despliegue de capacidades espaciales reutilizables por otros aparatos.
 
 ## Por que importa en TL
 
-- conecta presupuesto publico, contratistas privados y legitimacion civil del poder aeroespacial;
-- ayuda a leer la continuidad entre exploracion, tecnologia dual y ecosistemas como [[SpaceX]];
+- conecta presupuesto público, contratistas privados y legitimación civil del poder aeroespacial;
+- ayuda a leer la continuidad entre exploración, tecnología dual y ecosistemas como [[SpaceX]];
 - sirve como nodo base para ordenar mejor el subcorredor `orbita / contratismo / infraestructura espacial`.
 
 ## Que cambio
@@ -27,13 +28,13 @@ No habia una nota canónica simple para `NASA` en la base; solo existia un nodo 
 
 ## Lectura TL
 
-### 1. Ciencia con funcion de Estado
+### 1. Ciencia con función de Estado
 
-NASA importa porque no es solo una agencia de descubrimiento. Tambien organiza capacidades tecnicas, legitimidad publica y redes industriales que fortalecen el posicionamiento espacial de Estados Unidos.
+NASA importa porque no es solo una agencia de descubrimiento. También organiza capacidades tecnicas, legitimidad publica y redes industriales que fortalecen el posicionamiento espacial de Estados Unidos.
 
 ### 2. Plataforma de contratismo
 
-En TL, su valor aumenta cuando se observa que buena parte de su potencia practica depende de contratistas, proveedores y alianzas publico-privadas que despues irradian hacia defensa, telecomunicaciones o lanzamientos estrategicos.
+En TL, su valor aumenta cuando se observa que buena parte de su potencia practica depende de contratistas, proveedores y alianzas público-privadas que después irradian hacia defensa, telecomunicaciones o lanzamientos estrategicos.
 
 ### 3. Capa civil de un ecosistema mas amplio
 

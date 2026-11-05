@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [bill, cncer, sv40, vacunas]
 publish: true
+sin_fuente: true
 ---
 
 # Virus SV40 (Cáncer En Vacunas)

@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Neuralink & Transhumanismo"]
 tags: [neuralink, transhumanismo, colmena, simbolismo, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Neuralink y la Colmena Esoterica

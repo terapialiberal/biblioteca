@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Manning", "Chelsea Manning"]
 tags: [alias, legacy, wikileaks, whistleblower, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Manning

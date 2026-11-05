@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Estado Policial", "Estado Policial (Police State)"]
 tags: [police-state, autoritarismo, seguridad, vigilancia, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Police State

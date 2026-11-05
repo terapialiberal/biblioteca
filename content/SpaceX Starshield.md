@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [spacex-starshield, spacex, satelites, defensa, espacio, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # SpaceX Starshield

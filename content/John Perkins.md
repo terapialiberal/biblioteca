@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [banco, colonialismo, financiero, perkins]
 publish: true
+sin_fuente: true
 ---
 
 # John Perkins: El Confesor Del Colonialismo Financiero

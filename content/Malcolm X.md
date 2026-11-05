@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Malcolm X (Activista)"]
 tags: [malcolm-x, derechos-civiles, islam, asesinato, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Malcolm X

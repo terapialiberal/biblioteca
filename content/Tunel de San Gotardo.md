@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [cern, european, gotardo, tnel]
 publish: true
+sin_fuente: true
 ---
 
 # Túnel De San Gotardo (Ritual)

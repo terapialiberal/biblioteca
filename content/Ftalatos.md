@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [biolgica, bisfenol, despoblacin, ftlatos]
 publish: true
+sin_fuente: true
 ---
 
 # Ftálatos (Interferencia Biológica)

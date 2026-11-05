@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [guerra, sesgo, silicon, verdad]
 publish: true
+sin_fuente: true
 ---
 
 # Sesgo Algorítmico: la Codificación de la Verdad Oficial

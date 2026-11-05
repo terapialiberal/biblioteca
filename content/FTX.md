@@ -6,6 +6,7 @@ estado: activo
 aliases: ["FTX (Colapso)"]
 tags: [ftx, cripto, exchange, fraude, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # FTX

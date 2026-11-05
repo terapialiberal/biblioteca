@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [archivos, rupert, street, wall]
 publish: true
+sin_fuente: true
 ---
 
 # Resumen General

@@ -7,6 +7,7 @@ tags: [invisible, manipulacin, mano, mercados]
 capa_tema: "b"
 nivel_evidencia: "alto"
 publish: true
+sin_fuente: true
 ---
 
 # Manipulación De Mercados — La Mano Invisible De Tier B

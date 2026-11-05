@@ -7,6 +7,7 @@ nivel_evidencia: "alto"
 estado: activo
 tags: [andrew, archivos, jeffrey, real]
 publish: true
+sin_fuente: true
 ---
 
 # Andrew Mountbatten-Windsor: El Activo Real Capturado
@@ -30,7 +31,7 @@ A diferencia del proceso civil de 2022, el arresto de 2026 es de carácter **cri
 
 El arresto sugiere que la Corona Británica y los servicios de inteligencia del Tier A han decidido **soltar lastre**. Andrew ya no es un activo útil; es una carga reputacional en medio del gran re-set institucional de 2026. Su detención sirve como válvula de escape para la presión popular del Tier C, distrayendo de las redacciones que protegen a los verdaderos arquitectos de la red.
 
-## Analisis De Tiers
+## Análisis De Tiers
 
 | Tier | Función respecto a Andrew |
 | :--- | :--- |

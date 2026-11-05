@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [control, hakluyt, kroll, risks]
 publish: true
+sin_fuente: true
 ---
 
 # Control Risks

@@ -6,6 +6,7 @@ fecha: 2026-04-18
 descripcion: Contenedor auxiliar estabilizado. El archivo original tenia frontmatter roto y no constituia un nodo conceptual reutilizable.
 tags: [contenedor, fuentes, marcadores, import]
 publish: true
+sin_fuente: true
 ---
 
 # Fuentes y Marcadores

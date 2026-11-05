@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [comit, nobleza, tavistock]
 publish: true
+sin_fuente: true
 ---
 
 # Comité De Los 300

@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Nikola Tesla", "Nikola Tesla (Inventor)"]
 tags: [tesla, electricidad, energia, inventor, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Tesla

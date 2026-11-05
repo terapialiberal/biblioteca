@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [demiurgo, gnosticismo, planetaria, transhumanismo]
 publish: true
+sin_fuente: true
 ---
 
 # Gnosticismo (El Demiurgo Y La Prisión Planetaria)

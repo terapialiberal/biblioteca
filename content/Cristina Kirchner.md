@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Cristina Fernandez de Kirchner", "Cristina Fernandez de Kirchner (CFK)"]
 tags: [argentina, kirchnerismo, lawfare, poder, relato, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Cristina Kirchner
@@ -16,11 +17,11 @@ publish: true
 
 ## BLUF
 
-[[Cristina Kirchner]] importa en TL como nodo politico central del kirchnerismo tardio: combina narrativa, control de faccion, aparato estatal, blindaje simbolico y guerra judicial en una misma figura.
+[[Cristina Kirchner]] importa en TL como nodo político central del kirchnerismo tardio: combina narrativa, control de facción, aparato estatal, blindaje simbolico y guerra judicial en una misma figura.
 
 ## Por que importa en TL
 
-- conecta kirchnerismo, justicia federal, medios, inteligencia y polarizacion;
+- conecta kirchnerismo, justicia federal, medios, inteligencia y polarización;
 - ayuda a leer como liderazgo personalista, relato y estructura de impunidad pueden reforzarse mutuamente;
 - funciona como nodo de cruce entre [[Lawfare]], [[Jueces Federales de Comodoro Py]], [[Nestor Kirchner]] y [[Grupo Clarin]].
 
@@ -30,21 +31,21 @@ La nota venia como ficha minima, con encoding roto, links viejos y varias formul
 
 ## Lectura TL
 
-### 1. Liderazgo de faccion antes que administracion
+### 1. Liderazgo de facción antes que administración
 
-En TL, Cristina importa menos como ex presidenta aislada y mas como centro de gravedad de una red politica, judicial, mediatica y emocional que sobrevivio a distintos gobiernos y crisis.
+En TL, Cristina importa menos como ex presidenta aislada y mas como centro de gravedad de una red política, judicial, mediatica y emocional que sobrevivio a distintos gobiernos y crisis.
 
-### 2. Narrativa de confrontacion como tecnologia de poder
+### 2. Narrativa de confrontación como tecnología de poder
 
-Su fuerza no depende solo de gestion o de votos. Tambien depende de haber instalado un esquema amigo-enemigo que ordena lealtades, excusas, blindajes morales y marcos de interpretacion para su base.
+Su fuerza no depende solo de gestion o de votos. También depende de haber instalado un esquema amigo-enemigo que ordena lealtades, excusas, blindajes morales y marcos de interpretación para su base.
 
 ### 3. Justicia como amenaza y como escudo
 
-Leida junto con [[Lawfare]] y [[Jueces Federales de Comodoro Py]], la figura sirve para ver el doble uso del frente judicial: amenaza real para su supervivencia politica, pero tambien recurso narrativo para consolidar cohesion propia y denunciar persecucion.
+Leida junto con [[Lawfare]] y [[Jueces Federales de Comodoro Py]], la figura sirve para ver el doble uso del frente judicial: amenaza real para su supervivencia política, pero también recurso narrativo para consolidar cohesión propia y denunciar persecución.
 
 ### 4. El kirchnerismo como ecosistema
 
-Su valor analitico aumenta cuando se la conecta con el circuito completo: [[Nestor Kirchner]], [[Lazaro Baez]], [[Hotesur y Los Sauces]], medios afines, operadores juridicos y el uso persistente de memoria, identidad y conflicto como capital politico.
+Su valor analitico aumenta cuando se la conecta con el circuito completo: [[Nestor Kirchner]], [[Lazaro Baez]], [[Hotesur y Los Sauces]], medios afines, operadores juridicos y el uso persistente de memoria, identidad y conflicto como capital político.
 
 ## Conexiones
 

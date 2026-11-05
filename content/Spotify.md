@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Spotify (Audio)"]
 tags: [spotify, streaming, audio, plataforma, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Spotify

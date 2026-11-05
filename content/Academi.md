@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [academi, betsy, blackwater, erik]
 publish: true
+sin_fuente: true
 ---
 
 # Academi (Blackwater / Xe)

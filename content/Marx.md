@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Karl Marx", "Karl Marx (Pensamiento)"]
 tags: [marx, comunismo, capitalismo, ideologia, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Marx

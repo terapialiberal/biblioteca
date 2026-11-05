@@ -6,6 +6,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [esoterismo, arquitectura, masoneria, control, orden]
 publish: true
+sin_fuente: true
 ---
 
 # El Templo de Salomón (V.3)

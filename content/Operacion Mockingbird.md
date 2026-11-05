@@ -1,5 +1,5 @@
 ---
-titulo: Operacion Mockingbird
+titulo: Operación Mockingbird
 tipo: concepto
 fecha: 2026-04-18
 capa_tema: b
@@ -8,9 +8,10 @@ estado: activo
 aliases: ["Operacion Mockingbird: El Eco-Camara De La Matrix"]
 tags: [mockingbird, cia, medios, propaganda, guerra-cognitiva, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
-# Operacion Mockingbird
+# Operación Mockingbird
 
 ## BLUF
 

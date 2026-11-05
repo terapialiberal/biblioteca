@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [autonomous, decentralized, organization, smart]
 publish: true
+sin_fuente: true
 ---
 
 # DAO (Decentralized Autonomous Organization)

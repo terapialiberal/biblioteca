@@ -8,6 +8,7 @@ tags: [megalitos, arqueologia, arquitectura-sacra, simbolismo, tl-intel-v3]
 capa_tema: c
 nivel_evidencia: medio
 publish: true
+sin_fuente: true
 ---
 
 # Construcciones Megaliticas

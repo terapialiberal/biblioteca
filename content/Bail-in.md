@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Bail-in (Rescate Interno)", "Rescate interno"]
 tags: [bail-in, banca, depositos, deuda, control-financiero, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Bail-in

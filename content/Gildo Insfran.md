@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [coparticipacin, feudalismo, gildo, insfrn]
 publish: true
+sin_fuente: true
 ---
 
 # Gildo Insfrán

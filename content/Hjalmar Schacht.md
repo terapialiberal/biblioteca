@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [bonos, hjalmar, montagu, schacht]
 publish: true
+sin_fuente: true
 ---
 
 # Hjalmar Schacht

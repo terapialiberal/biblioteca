@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [asesinato, jamal, jared, khashoggi]
 publish: true
+sin_fuente: true
 ---
 
 # Asesinato De Jamal Khashoggi

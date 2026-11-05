@@ -7,6 +7,7 @@ nivel_evidencia: "alto"
 estado: activo
 tags: [biotecnologia, datos, dna, vigilancia, cia]
 publish: true
+sin_fuente: true
 ---
 
 # DNA Data Storage: El Archivo Eterno de la Matrix (V.3)

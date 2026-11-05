@@ -6,6 +6,7 @@ estado: activo
 aliases: ["ING Group"]
 tags: [ing, banca, paises-bajos, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # ING

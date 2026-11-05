@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [adam, curtis]
 publish: true
+sin_fuente: true
 ---
 
 # Adam Curtis

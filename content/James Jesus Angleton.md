@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [james, mirrors, mossad, sacerdote]
 publish: true
+sin_fuente: true
 ---
 
 # James Jesus Angleton: El Sumo Sacerdote De La Wilderness of Mirrors

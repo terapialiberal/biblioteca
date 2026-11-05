@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [arquitecto, eitan, rafi, tcnico]
 publish: true
+sin_fuente: true
 ---
 
 # Rafi Eitan: el Arquitecto del Espionaje Técnico Y Humano

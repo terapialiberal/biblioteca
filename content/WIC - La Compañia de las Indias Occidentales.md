@@ -7,6 +7,7 @@ tags: [compaa, indias, occidentales]
 tier_primario: "a"
 nivel_evidencia: "alto"
 publish: true
+sin_fuente: true
 ---
 
 # WIC - La Compañía De Las Indias Occidentales

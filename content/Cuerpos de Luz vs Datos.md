@@ -6,6 +6,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [esoterismo, tecnologia, transhumanismo, alma]
 publish: true
+sin_fuente: true
 ---
 
 # Cuerpos de Luz vs Datos (V.3)

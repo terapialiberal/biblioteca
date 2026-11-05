@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [ciberntica, tecnocracia, transhumanismo]
 publish: true
+sin_fuente: true
 ---
 
 # Cibernética

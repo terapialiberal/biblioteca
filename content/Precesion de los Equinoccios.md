@@ -7,6 +7,7 @@ tags: [equinoccios, gran, mitos, precesin]
 capa_tema: "a"
 nivel_evidencia: "alto"
 publish: true
+sin_fuente: true
 ---
 
 # Precesión De Los Equinoccios Y El Reseteo Del Mundo

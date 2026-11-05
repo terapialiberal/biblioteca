@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [deep, estado, operativo, sistema]
 publish: true
+sin_fuente: true
 ---
 
 # Mitre Corporation: El Sistema Operativo Del Estado Profundo

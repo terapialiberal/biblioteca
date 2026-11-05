@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [jesuitas, liberacin, marxismo, teologa]
 publish: true
+sin_fuente: true
 ---
 
 # Teología De La Liberación

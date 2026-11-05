@@ -8,6 +8,7 @@ estado: activo
 aliases: ["C40 Cities"]
 tags: [c40, ciudades-inteligentes, gobernanza-urbana, agenda-climatica, bloomberg, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Ciudades C40

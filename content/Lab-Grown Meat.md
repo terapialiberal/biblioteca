@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [lab-grown-meat, alimentos, biotecnologia, sintetico, centralizacion, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Lab-Grown Meat

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [ceausescu, colapso, comunismo, psicologa]
 publish: true
+sin_fuente: true
 ---
 
 # Ceausescu En Rumania (El Colapso)

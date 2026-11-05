@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: ["2010", guillermo, indec, manipulado]
 publish: true
+sin_fuente: true
 ---
 
 # El Censo 2010 (Manipulado)

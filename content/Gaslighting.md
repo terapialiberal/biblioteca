@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [disonancia, gaslighting, indefensin, poltico]
 publish: true
+sin_fuente: true
 ---
 
 # Gaslighting (Político)

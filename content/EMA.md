@@ -8,6 +8,7 @@ estado: activo
 aliases: ["European Medicines Agency", "Agencia Europea de Medicamentos"]
 tags: [ema, regulacion, europa, medicamentos, bioseguridad, captura-regulatoria, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # EMA
@@ -40,13 +41,13 @@ En TL, su relevancia crece cuando se ve la circulación de estándares, consenso
 
 También sirve para leer que la gobernanza farmacéutica no opera solo por empresas aisladas, sino por una ecología institucional transatlántica.
 
-### 4. Escala regional como legitimacion ampliada
+### 4. Escala regional como legitimación ampliada
 
 En TL, la EMA importa porque muestra que la captura o la coordinación sanitaria no pasan solo por Washington. La capa europea permite extender autorización, consenso experto e interoperabilidad regulatoria a escala continental.
 
-### 5. Validacion transatlantica del consenso
+### 5. Validación transatlantica del consenso
 
-Leida junto con [[FDA]] y [[Safe and Effective]], la EMA ayuda a entender cómo una consigna o decision sanitaria gana robustez cuando aparece refrendada por multiples capas institucionales occidentales y no solo por una agencia nacional.
+Leida junto con [[FDA]] y [[Safe and Effective]], la EMA ayuda a entender cómo una consigna o decisión sanitaria gana robustez cuando aparece refrendada por multiples capas institucionales occidentales y no solo por una agencia nacional.
 
 ## Con que conecta
 

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [cables, edward, submarinos, swift]
 publish: true
+sin_fuente: true
 ---
 
 # Cables Submarinos (El Sistema Nervioso De Internet)

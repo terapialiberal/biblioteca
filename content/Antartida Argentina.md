@@ -7,19 +7,20 @@ nivel_evidencia: medio
 estado: activo
 tags: [antartida, argentina, malvinas, tratado-antartico, soberania, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Antartida Argentina
 
 ## BLUF
 
-[[Antartida Argentina]] importa en TL como territorio de proyeccion larga: combina soberania congelada, presencia cientifica, disputa logistica y valor estrategico futuro en agua, rutas y posicionamiento polar.
+[[Antartida Argentina]] importa en TL como territorio de proyección larga: combina soberania congelada, presencia cientifica, disputa logistica y valor estratégico futuro en agua, rutas y posicionamiento polar.
 
 ## Por que importa en TL
 
 - obliga a pensar la soberania en escala de decadas y no de ciclos electorales;
 - conecta ciencia, defensa, puertos australes y competencia geopolitica;
-- permite leer la relacion entre [[Malvinas]], Atlantico Sur y presencia extra-regional.
+- permite leer la relación entre [[Malvinas]], Atlantico Sur y presencia extra-regional.
 
 ## Que cambio
 
@@ -29,19 +30,19 @@ La nota se recompila desde una ficha muy vieja y comprimida. Queda integrada al 
 
 ### 1. Soberania suspendida, no resuelta
 
-El Tratado Antartico congela reclamos, pero no elimina su importancia estrategica. TL usa este nodo para mostrar que una controversia puede quedar administrada durante años sin dejar de ser central para el poder real.
+El Tratado Antartico congela reclamos, pero no elimina su importancia estratégica. TL usa este nodo para mostrar que una controversia puede quedar administrada durante años sin dejar de ser central para el poder real.
 
 ### 2. Ciencia como presencia territorial
 
-La infraestructura cientifica y logistica no es neutra. Bases, campañas y abastecimiento tambien son formas de presencia efectiva en un espacio donde la soberania se proyecta a muy largo plazo.
+La infraestructura cientifica y logistica no es neutra. Bases, campañas y abastecimiento también son formas de presencia efectiva en un espacio donde la soberania se proyecta a muy largo plazo.
 
 ### 3. Conexion con Malvinas y Atlantico Sur
 
-Leida junto con [[Malvinas]] y [[Mar Argentino]], la Antartida muestra que el tablero austral no se entiende por piezas aisladas. Puertos, rutas, bases y control del pasaje sur forman parte del mismo problema estrategico.
+Leida junto con [[Malvinas]] y [[Mar Argentino]], la Antartida muestra que el tablero austral no se entiende por piezas aisladas. Puertos, rutas, bases y control del pasaje sur forman parte del mismo problema estratégico.
 
 ### 4. Recursos y competencia futura
 
-Aunque buena parte del debate publico se mueve entre simbolismo y nacionalismo, TL la usa sobre todo para pensar recursos, agua, posicion geografica y margen de maniobra frente a actores extra-regionales.
+Aunque buena parte del debate público se mueve entre simbolismo y nacionalismo, TL la usa sobre todo para pensar recursos, agua, posición geografica y margen de maniobra frente a actores extra-regionales.
 
 ## Conexiones
 

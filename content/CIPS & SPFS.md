@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [cips, spfs, swift, rails, desdolarizacion, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # CIPS & SPFS
@@ -43,7 +44,7 @@ La nota sirve para evitar lecturas simplistas. No hay simetría plena entre ambo
 
 Aunque no desplacen al viejo orden, estos rails importan porque vuelven más difícil la sanción bancaria total y más plausible el comercio sensible fuera del dólar y SWIFT.
 
-### 5. El costado material de la desdolarizacion
+### 5. El costado material de la desdolarización
 
 Leído junto con [[Desdolarizacion]], el nodo ayuda a recordar que la fragmentación monetaria no vive solo en discursos BRICS. Vive en infraestructura concreta: mensajes, settlement, compliance y conectividad financiera.
 

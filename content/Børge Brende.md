@@ -5,6 +5,7 @@ aliases: ["Børge Brende"]
 tags: [actor, wef, noruega, globalismo]
 tipo: actor
 tier_primario: B
+sin_fuente: true
 ---
 
 # Børge Brende

@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [geithner, ny-fed, tesoro, crisis-2008, puerta-giratoria, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Timothy Geithner
@@ -16,19 +17,19 @@ publish: true
 
 ## Que es
 
-Timothy Geithner fue presidente de la Reserva Federal de Nueva York durante la previa y el estallido de la [[Crisis Financiera 2008]], y luego secretario del Tesoro de EE.UU. bajo [[Barack Obama]]. En TL interesa como ejecutor tecnocratico de la estabilizacion del sistema bancario postcolapso.
+Timothy Geithner fue presidente de la Reserva Federal de Nueva York durante la previa y el estallido de la [[Crisis Financiera 2008]], y luego secretario del Tesoro de EE.UU. bajo [[Barack Obama]]. En TL interesa como ejecutor tecnocratico de la estabilización del sistema bancario postcolapso.
 
 ## Por que importa en TL
 
 - conecta la Fed de Nueva York con el Tesoro y la gestion practica del rescate;
-- permite leer la crisis no solo como fallo de mercado sino como reorganizacion administrada del poder financiero;
+- permite leer la crisis no solo como fallo de mercado sino como reorganización administrada del poder financiero;
 - sirve como caso de continuidad entre banca central, gobierno y posterior reciclaje al sector privado.
 
 ## Mecanismos de poder
 
 ### 1. Gestion interna del colapso
 
-Geithner importa porque encarna la capa ejecutiva que traduce el diagnostico del sistema en paquetes concretos de respaldo, liquidez y contencion.
+Geithner importa porque encarna la capa ejecutiva que traduce el diagnostico del sistema en paquetes concretos de respaldo, liquidez y contención.
 
 ### 2. Puerta giratoria en tiempo real
 
@@ -40,7 +41,7 @@ En TL, el nodo sirve para fijar un punto central de 2008: se rescata estructura,
 
 ## Que cambio
 
-La nota venia como ficha corta con tono demasiado declarativo. Se recompila como perfil reusable para fijar mejor su funcion de operador de continuidad entre NY Fed, Tesoro y rescate postcrisis.
+La nota venia como ficha corta con tono demasiado declarativo. Se recompila como perfil reusable para fijar mejor su función de operador de continuidad entre NY Fed, Tesoro y rescate postcrisis.
 
 ## Como leerlo en TL
 

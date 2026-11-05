@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [aleister, babalon, jack, working]
 publish: true
+sin_fuente: true
 ---
 
 # Babalon Working
@@ -21,7 +22,7 @@ publish: true
 
 ### Tier A / B (La Raíz Ideológica)
 
-- **Programa Espacial Oculto:** El Babalon Working demuestra que la conquista del espacio tiene una raíz mística, no puramente científica. La creación del **JPL (Jet Propulsion Laboratory)** está bañada en las ideas de Crowley sobre la "Era de Horus".
+- **Programa Espacial Oculto:** El Babalon Working demuestra que la conquista del espacio tiene una raíz mística, no puramente científica. La creación del **JPL (Jet Propulsión Laboratory)** está bañada en las ideas de Crowley sobre la "Era de Horus".
 - **Cienciología:** Este fue el campo de entrenamiento de Hubbard para sus técnicas de manipulación mental y creación de mitos que luego usaría para su propia estructura de control.
 
 ### Tier C (Operativo / Personajes)

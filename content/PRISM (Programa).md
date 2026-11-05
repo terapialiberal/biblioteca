@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Programa PRISM", "PRISM"]
 tags: [prism, nsa, vigilancia, five-eyes, big-tech, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # PRISM (Programa)
@@ -36,7 +37,7 @@ PRISM importa porque muestra que la vigilancia moderna no depende solo de antena
 
 En TL, el punto clave es que la acumulación de datos se vuelve mucho más potente cuando existe una vía de acceso relativamente estable a proveedores y servicios centrales de internet.
 
-### 3. Publico y privado como stack unico
+### 3. Público y privado como stack unico
 
 La nota gana valor cuando se la lee junto con [[XKeyscore]] y [[Agencia de Seguridad Nacional]]. Ahí PRISM aparece como capa de ingestión dentro de un stack más amplio donde captura, indexación y análisis ya no están claramente separados.
 

@@ -5,6 +5,7 @@ aliases: ["Bob Fitrakis"]
 tags: [actor, periodismo, investigacion, elecciones]
 tipo: actor
 tier_primario: C
+sin_fuente: true
 ---
 
 # Bob Fitrakis

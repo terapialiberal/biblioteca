@@ -8,6 +8,7 @@ estado: activo
 aliases: ["NSSM 200: La Logistica del Exterminio Silencioso"]
 tags: [nssm-200, poblacion, geopolítica, malthusianismo, biopolitica, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # NSSM 200

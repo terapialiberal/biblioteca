@@ -6,6 +6,7 @@ estado: activo
 aliases: ["CLS (Continuous Linked Settlement)", "Continuous Linked Settlement"]
 tags: [cls, fx, settlement, pagos, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # CLS

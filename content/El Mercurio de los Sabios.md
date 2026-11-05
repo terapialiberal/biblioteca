@@ -8,6 +8,7 @@ tags: [mercurio-de-los-sabios, alquimia, capital, liquidez, simbolismo, tl-intel
 capa_tema: b
 nivel_evidencia: medio
 publish: true
+sin_fuente: true
 ---
 
 # El Mercurio de los Sabios

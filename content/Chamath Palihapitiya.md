@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [chamath, facebook, mark, palihapitiya]
 publish: true
+sin_fuente: true
 ---
 
 # Chamath Palihapitiya

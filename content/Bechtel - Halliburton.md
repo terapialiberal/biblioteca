@@ -5,6 +5,7 @@ aliases: ["Bechtel / Halliburton"]
 tags: [empresa, construccion, militar, irak]
 tipo: empresa
 tier_primario: b
+sin_fuente: true
 ---
 
 # Bechtel - Halliburton

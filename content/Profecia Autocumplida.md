@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [autocumplida, manufactura, profeca, programacin]
 publish: true
+sin_fuente: true
 ---
 
 # Profecía Autocumplida

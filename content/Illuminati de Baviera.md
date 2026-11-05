@@ -7,6 +7,7 @@ tags: [baviera, illuminati, jesuitas, revolucin]
 tier_primario: "a"
 nivel_evidencia: "alto"
 publish: true
+sin_fuente: true
 ---
 
 # Illuminati De Baviera (Hechos Vs Mitos)

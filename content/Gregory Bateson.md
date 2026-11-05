@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [bateson, conferencias, gaslighting, gregory]
 publish: true
+sin_fuente: true
 ---
 
 # Gregory Bateson

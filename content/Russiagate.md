@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [contra, golpe, hillary, russiagate]
 publish: true
+sin_fuente: true
 ---
 
 # Russiagate: el Golpe Blando de la Inteligencia contra la Urna

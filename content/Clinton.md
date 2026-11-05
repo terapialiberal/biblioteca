@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Bill Clinton"]
 tags: [clinton, eeuu, globalizacion, finanzas, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Clinton

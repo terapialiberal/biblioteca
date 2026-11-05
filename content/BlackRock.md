@@ -99,3 +99,7 @@ Transcript: [[03_Produccion/2026-09-14_El_dia_despues_tiene_duenios/transcripcio
 - [[03_Produccion/2026-09-14_El_dia_despues_tiene_duenios/transcripcion|Transcripción curada 2026-09-14]] — Kushner/Fink/Banga en mesa Ucrania
 - [[Aladdin]] — infraestructura de riesgo
 - [[NOTA_TESIS_MAESTRA]] — marco H
+
+## Casos TL relacionados
+
+- [[06_Videos_Publicados/2026/2026-10-21_Diesel_Ormuz_Comida/POSTMORTEM_INTEL.md|Las élites controlan la política (21-10)]] — lista de donantes del salón: BlackRock figura con 5M en la misma lista que Singer, Yass y Schwarzman; la lectura del caso es que el dueño de la tubería aparece en el registro de acceso junto a los contratistas (Lockheed, Microsoft, Palantir, 10M). — estado: confirmado.

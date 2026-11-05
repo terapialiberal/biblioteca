@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Securities and Exchange Commission", "SEC (Securities and Exchange Commission)"]
 tags: [sec, regulacion, mercados, eeuu, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # SEC

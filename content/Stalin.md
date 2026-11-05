@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Josef Stalin", "Joseph Stalin"]
 tags: [stalin, urss, totalitarismo, comunismo, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Stalin

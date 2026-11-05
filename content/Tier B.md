@@ -6,6 +6,7 @@ nivel_evidencia: "muy-alto"
 estado: activo
 tags: [inteligencia, ejecucion, burocracia, influencia]
 publish: true
+sin_fuente: true
 ---
 
 # Tier B: Los Ejecutores (V.3)

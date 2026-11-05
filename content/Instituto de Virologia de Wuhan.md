@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Instituto de Virología de Wuhan", "Wuhan Institute of Virology", "WIV"]
 tags: [wuhan, virologia, laboratorio, bioseguridad, china, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Instituto de Virologia de Wuhan
@@ -42,13 +43,13 @@ La relevancia no está solo en “qué pasó”, sino en qué revela sobre audit
 
 ### 4. Pieza material del cluster
 
-Leído junto con [[EcoHealth Alliance]], [[Peter Daszak]] y [[Ganancia de Funcion]], el instituto funciona como el soporte físico de un corredor que de otro modo quedaría demasiado abstracto.
+Leído junto con [[EcoHealth Alliance]], [[Peter Daszak]] y [[Ganancia de Función]], el instituto funciona como el soporte físico de un corredor que de otro modo quedaría demasiado abstracto.
 
 ## Con que conecta
 
 - [[EcoHealth Alliance]]
 - [[Peter Daszak]]
-- [[Ganancia de Funcion]]
+- [[Ganancia de Función]]
 - [[Anthony Fauci]]
 - [[Bioseguridad]]
 - [[Vigilancia Biologica]]

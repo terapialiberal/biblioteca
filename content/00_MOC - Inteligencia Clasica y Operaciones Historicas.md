@@ -6,6 +6,7 @@ fecha: 2026-04-21
 estado: activo
 moc_canonico: [[00_MOC - Base de Conocimiento]]
 tags: [moc, inteligencia, operaciones-encubiertas, guerra-fria, tl-intel-v3]
+sin_fuente: true
 ---
 
 # MOC - Inteligencia Clasica y Operaciones Historicas

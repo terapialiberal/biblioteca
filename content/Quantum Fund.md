@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [financiera, fund, george, open]
 publish: true
+sin_fuente: true
 ---
 
 # Quantum Fund: el Cañón de la Guerra Financiera Privada

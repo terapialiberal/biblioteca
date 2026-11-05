@@ -1,5 +1,5 @@
 ---
-titulo: Asociacion Medica Americana
+titulo: Asociación Medica Americana
 tipo: entidad
 fecha: 2026-04-18
 tier_primario: b
@@ -8,9 +8,10 @@ estado: activo
 aliases: ["Asociación Médica Americana", "American Medical Association", "AMA"]
 tags: [ama, medicina, licencias, informe-flexner, rockefeller, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
-# Asociacion Medica Americana
+# Asociación Medica Americana
 
 ## BLUF
 

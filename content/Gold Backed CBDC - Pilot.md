@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [cbdc, oro, pagos-transfronterizos, rusia, iran, desdolarizacion, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Gold Backed CBDC - Pilot

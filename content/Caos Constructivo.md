@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Caos Constructivo"]
 tags: [caos-constructivo, shock, orden, geopolitica, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Caos Constructivo

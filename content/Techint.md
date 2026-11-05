@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [brics, techint, vaca]
 publish: true
+sin_fuente: true
 ---
 
 # Techint

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [cartel, descodificador, gates, rappoport]
 publish: true
+sin_fuente: true
 ---
 
 # Jon Rappoport: El Descodificador Del Cartel Médico

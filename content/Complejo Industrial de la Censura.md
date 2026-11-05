@@ -7,6 +7,7 @@ nivel_evidencia: alto
 estado: activo
 tags: [censura, plataformas, narrativa, inteligencia, reputacion, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Complejo Industrial de la Censura

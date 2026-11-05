@@ -7,6 +7,7 @@ tags: [francisco, lautaro, logia, plan]
 tier_primario: "b"
 nivel_evidencia: "alto"
 publish: true
+sin_fuente: true
 ---
 
 # Logia Lautaro

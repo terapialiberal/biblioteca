@@ -40,7 +40,7 @@ En el G20 de Houston, Burgum presenta la doctrina de energía barata y segura de
 
 ## Caso 2026-09-24 — La guerra que está reordenando el mapa energético
 
-**Fuente principal:** transcripción del video LA GUERRA QUE ESTÁ REORDENANDO EL MAPA ENERGÉTICO (emitido 2026-09-24): `03_Produccion/2026-09-14_El_dia_despues_tiene_duenios/transcripcion.md`
+**Fuente principal:** transcripción del video LA GUERRA QUE ESTÁ REORDENANDO EL MAPA ENERGÉTICO (emitido 2026-09-24): `03_Produccion/2026-09-14_El_dia_despues_tiene_duenios/transcripción.md`
 
 **Doug Burgum: doctrina de energía barata y segura de EE.UU. en el G20 de Houston — el proveedor seguro que reemplaza al Golfo.** En el G20 de Houston, el Secretario de Energía de EE.UU., Doug Burgum, presenta la doctrina de energía barata y segura de EE.UU. como el nuevo paradigma para el sistema energético global. El mensaje central: EE.UU. puede y debe ser el proveedor de energía seguro que reemplace al Golfo Pérsico como fuente de estabilidad energética para el mundo, en el contexto del conflicto con Irán que colapsa los tres corredores energéticos del Oriente Medio (Ormuz, Bab el-Mandeb, oleoducto Este-Oeste).
 
@@ -70,4 +70,4 @@ En el G20 de Houston, Burgum presenta la doctrina de energía barata y segura de
 
 - **Axios** (Barak Ravid, 11/09/2026): https://www.axios.com/2026/09/11/houthis-yemen-saudi-trump-mbs-strikes
 - **ElEconomista** (18/09/2026): https://www.eleconomista.es/economia/noticias/14014999/09/26/arabia-saudi-comienza-a-informar-a-las-refinerias-de-europa-que-no-recibiran-entregas-de-petroleo-el-proximo-mes.html
-- Transcripción del video LA GUERRA QUE ESTÁ REORDENANDO EL MAPA ENERGÉTICO (24/09/2026): `03_Produccion/2026-09-14_El_dia_despues_tiene_duenios/transcripcion.md`
+- Transcripción del video LA GUERRA QUE ESTÁ REORDENANDO EL MAPA ENERGÉTICO (24/09/2026): `03_Produccion/2026-09-14_El_dia_despues_tiene_duenios/transcripción.md`

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [asesinato, crisis, cuba, misiles]
 publish: true
+sin_fuente: true
 ---
 
 # Crisis De Los Misiles De Cuba

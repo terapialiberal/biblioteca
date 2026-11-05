@@ -8,6 +8,7 @@ moc_canonico: [[00_MOC - Redes de Poder]]
 estado: activo
 fuentes_clave: []
 tags: [peter-mandelson, uk, labour, epstein, tl-intel-v3]
+sin_fuente: true
 ---
 
 # [[Peter Mandelson]]

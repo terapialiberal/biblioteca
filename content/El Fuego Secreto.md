@@ -7,6 +7,7 @@ tags: [fuego-secreto, alquimia, energia, iniciacion, simbolismo, tl-intel-v3]
 capa_tema: c
 nivel_evidencia: medio
 publish: true
+sin_fuente: true
 ---
 
 # El Fuego Secreto

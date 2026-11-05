@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Teoria De La Fuga De Laboratorio: El Encubrimiento De La Quimera Biopolitica"]
 tags: [lab-leak, fuga-de-laboratorio, wuhan, bioseguridad, censura, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Lab Leak Theory

@@ -8,6 +8,7 @@ estado: activo
 aliases: ["COVID-19 Origenes: La Pandemia Planificada"]
 tags: [covid-19, origenes, bioseguridad, pandemia, riesgo-biologico, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # COVID-19 Origenes

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [cbdc, finney, satoshi]
 publish: true
+sin_fuente: true
 ---
 
 # Hal Finney

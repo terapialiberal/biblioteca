@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [energtico, holands, nigeria, tentculo]
 publish: true
+sin_fuente: true
 ---
 
 # Shell: el Tentáculo Energético del Imperio Anglo-Holandés

@@ -7,6 +7,7 @@ tags: [hermes, inteligencia, seales, trimegisto]
 tier_primario: "b"
 nivel_evidencia: "alto"
 publish: true
+sin_fuente: true
 ---
 
 # Hermes - Trimegisto - Inteligencia Y Señales

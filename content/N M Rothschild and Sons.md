@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [arquitecto, city, deuda, rothschild]
 publish: true
+sin_fuente: true
 ---
 
 # N M Rothschild and Sons: El Arquitecto De La Deuda Soberana

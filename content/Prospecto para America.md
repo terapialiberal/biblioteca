@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [hegemona, henry, mapa, prospecto]
 publish: true
+sin_fuente: true
 ---
 
 # Prospecto para America (1961): el Mapa de la Hegemonía

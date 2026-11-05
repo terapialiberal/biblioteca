@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [cbdcs, crdito, sistemas, total]
 publish: true
+sin_fuente: true
 ---
 
 # Sistemas De Crédito Social: El Control Conductual Total

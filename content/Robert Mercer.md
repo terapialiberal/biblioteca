@@ -11,6 +11,7 @@ tags:
   - politica
   - cambridge-analytica
 publish: true
+sin_fuente: true
 ---
 
 # [[Robert Mercer]]

@@ -6,6 +6,7 @@ nivel_evidencia: "bajo"
 estado: activo
 tags: [esoterismo, ciclos, tiempo, ritual, poder]
 publish: true
+sin_fuente: true
 ---
 
 # Solsticios Operativos (V.3)

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [asset, blackrock, brookfield, management]
 publish: true
+sin_fuente: true
 ---
 
 # [[Brookfield Asset Management]]

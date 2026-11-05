@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [george-floyd, blm, woke, caos-controlado, fundacion-ford, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # George Floyd y BLM 2020

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [fabiana, george, london, totalitario]
 publish: true
+sin_fuente: true
 ---
 
 # Sociedad Fabiana: los Arquitectos del Gradualismo Totalitario

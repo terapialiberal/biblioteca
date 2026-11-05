@@ -7,6 +7,7 @@ tags: [acuario, precesin, transhumanismo]
 capa_tema: "a"
 nivel_evidencia: "alto"
 publish: true
+sin_fuente: true
 ---
 
 # La Era De Acuario (Tecno-Religión)

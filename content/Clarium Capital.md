@@ -7,13 +7,14 @@ nivel_evidencia: medio
 estado: activo
 tags: [clarium-capital, peter-thiel, hedge-fund, finanzas, elite-networks, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Clarium Capital
 
 ## BLUF
 
-[[Clarium Capital]] importa en TL como vehiculo financiero temprano del ecosistema de [[Peter Thiel]], util para leer la transicion desde emprendedorismo PayPal hacia gestion de capital con pretensiones geoeconomicas y de elite. Su valor analitico esta en mostrar que la red Thiel no se construye solo con startups o think tanks, sino tambien con estructuras de capital capaces de amplificar influencia, contactos y narrativa de largo plazo.
+[[Clarium Capital]] importa en TL como vehiculo financiero temprano del ecosistema de [[Peter Thiel]], util para leer la transición desde emprendedorismo PayPal hacia gestion de capital con pretensiones geoeconomicas y de elite. Su valor analitico esta en mostrar que la red Thiel no se construye solo con startups o think tanks, sino también con estructuras de capital capaces de amplificar influencia, contactos y narrativa de largo plazo.
 
 ## Por que importa en TL
 
@@ -29,15 +30,15 @@ El nodo no existia fisicamente en la base pese a ser una pieza natural del mapa 
 
 ### 1. Capital como salto de escala
 
-Clarium Capital importa porque marca una fase donde el ecosistema Thiel deja de ser solo emprendedor y empieza a operar con lenguaje de macro, asignacion de capital y vision sistemica.
+Clarium Capital importa porque marca una fase donde el ecosistema Thiel deja de ser solo emprendedor y empieza a operar con lenguaje de macro, asignación de capital y visión sistémica.
 
 ### 2. De startup a red de elite
 
-En TL, su valor aumenta cuando se observa que los fondos no solo mueven dinero. Tambien producen acceso, reputacion y conexiones con otras capas de poder economico e institucional.
+En TL, su valor aumenta cuando se observa que los fondos no solo mueven dinero. También producen acceso, reputación y conexiones con otras capas de poder económico e institucional.
 
 ### 3. Prehistoria del bloque tecnofinanciero
 
-Su relevancia crece porque ayuda a leer la continuidad entre una elite surgida del software y su posterior proyeccion sobre defensa, venture, politica y gobernanza.
+Su relevancia crece porque ayuda a leer la continuidad entre una elite surgida del software y su posterior proyección sobre defensa, venture, política y gobernanza.
 
 ## Con que conecta
 

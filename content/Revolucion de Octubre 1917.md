@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [antony, experimento, financiera, octubre]
 publish: true
+sin_fuente: true
 ---
 
 # Revolución de Octubre 1917: el Experimento de la Élite Financiera

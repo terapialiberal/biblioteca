@@ -8,6 +8,7 @@ tags: [432hz, 440hz, musica, afinacion, simbolismo, tl-intel-v3]
 capa_tema: c
 nivel_evidencia: bajo
 publish: true
+sin_fuente: true
 ---
 
 # Frecuencia 440Hz vs 432Hz

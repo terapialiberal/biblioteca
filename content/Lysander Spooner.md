@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Lysander Spooner: El Demoledor De La Legitimidad Estatal"]
 tags: [lysander-spooner, soberania-individual, estado, anarquismo, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Lysander Spooner

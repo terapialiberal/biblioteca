@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [caso, encubrimiento, george, original]
 publish: true
+sin_fuente: true
 ---
 
 # Caso Franklin (El Encubrimiento original)

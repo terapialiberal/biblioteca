@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [grupos-de-interes, lobbies, coaliciones, incentivos, politica, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Grupos de Interés

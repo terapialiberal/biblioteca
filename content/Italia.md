@@ -76,5 +76,5 @@ Spread sobre 120pb por 30 días seguidos (contención rota). TPI activado con co
 - Banca d'Italia (exportaciones QEF 981): https://www.bancaditalia.it/pubblicazioni/qef/2025-0981/QEF\_981\_25.pdf
 - Prometeia (gas 39%/Ormuz): https://prometeia.com/en/about-us/insights/article/crisi-di-hormuz-ed-energia-quanto-e-vulnerabile-la-manifattura-italiana-55838442
 - Bundesbank (acreedores deuda euro): https://publikationen.bundesbank.de/publikationen-en/reports-studies/monthly-reports/government-debt-in-the-euro-area-current-developments-in-creditor-structure--929590
-- Politico (Meloni-Trump): https://www.politico.eu/article/giorgia-meloni-donald-trump-italy-us-american-reckoning/
+- Político (Meloni-Trump): https://www.politico.eu/article/giorgia-meloni-donald-trump-italy-us-american-reckoning/
 - Carnegie (Meloni transatlántica): https://carnegieendowment.org/europe/strategic-europe/2025/04/can-meloni-save-the-transatlantic-alliance

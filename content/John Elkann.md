@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [elkann, modernizador, silencioso, wallenberg]
 publish: true
+sin_fuente: true
 ---
 
 # John Elkann: El Modernizador Silencioso

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [daniel, engao, imperial, watergate]
 publish: true
+sin_fuente: true
 ---
 
 # Pentagon Papers: El Desnudo Del Engaño Imperial

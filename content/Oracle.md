@@ -6,6 +6,7 @@ tier_primario: b
 nivel_evidencia: alto
 tags: [oracle, cloud, bases-de-datos, larry-ellison, tecnologia, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Oracle

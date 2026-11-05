@@ -15,11 +15,11 @@ last_stream: "[[06_Videos_Publicados/2026/2026-05-26_La_Trampa_de_Ormuz/00_ARCHI
 
 ## BLUF
 
-[[Javier Milei]] importa en TL como figura de reconfiguracion del poder argentino: mezcla insurgencia narrativa, ajuste economico, centralizacion del entorno y uso intenso del conflicto como tecnica de gobierno.
+[[Javier Milei]] importa en TL como figura de reconfiguración del poder argentino: mezcla insurgencia narrativa, ajuste económico, centralización del entorno y uso intenso del conflicto como tecnica de gobierno.
 
 ## Por que importa en TL
 
-- conecta oficialismo actual, ajuste, mesa chica, inteligencia, redes y reordenamiento del sistema politico;
+- conecta oficialismo actual, ajuste, mesa chica, inteligencia, redes y reordenamiento del sistema político;
 - ayuda a leer el mileismo no solo como liderazgo carismatico sino como forma de reorganizar elites, disciplina institucional y clima social;
 - funciona como nodo de cruce entre [[Karina Milei]], [[Santiago Caputo]], [[AFI]], [[Mauricio Macri]] y [[FMI]].
 
@@ -31,17 +31,17 @@ La nota venia como pieza muy cerrada en una tesis geopolítica única, con encod
 
 ### 1. Liderazgo carismatico con entorno muy concentrado
 
-En TL, Milei importa por la combinacion entre figura disruptiva de alto voltaje y una estructura de poder extremadamente cerrada, donde el acceso, la estrategia y la administracion del conflicto quedan muy concentrados.
+En TL, Milei importa por la combinación entre figura disruptiva de alto voltaje y una estructura de poder extremadamente cerrada, donde el acceso, la estrategia y la administración del conflicto quedan muy concentrados.
 
-### 2. Ajuste economico y reordenamiento de elites
+### 2. Ajuste económico y reordenamiento de elites
 
-Leido junto con [[FMI]] y la capa empresaria del sistema argentino, el nodo sirve para ver como el discurso anti casta puede convivir con una rearticulacion de viejas y nuevas elites alrededor del ajuste, la deuda y la gobernabilidad.
+Leido junto con [[FMI]] y la capa empresaria del sistema argentino, el nodo sirve para ver como el discurso anti casta puede convivir con una rearticulación de viejas y nuevas elites alrededor del ajuste, la deuda y la gobernabilidad.
 
 ### 3. Narrativa permanente como metodo
 
-Su valor analitico aumenta cuando se observa el conflicto no como efecto secundario sino como metodo: polarizacion, choque simbólico, saturacion digital y redefinicion constante del enemigo.
+Su valor analitico aumenta cuando se observa el conflicto no como efecto secundario sino como metodo: polarización, choque simbólico, saturación digital y redefinición constante del enemigo.
 
-### 4. Gobierno de operadores ademas de presidente
+### 4. Gobierno de operadores además de presidente
 
 Conectado a [[Karina Milei]], [[Santiago Caputo]] y [[AFI]], el nodo ayuda a pensar el mileismo como arquitectura de poder y no solo como biografia presidencial.
 
@@ -53,3 +53,8 @@ Conectado a [[Karina Milei]], [[Santiago Caputo]] y [[AFI]], el nodo ayuda a pen
 - [[FMI]]
 - [[Mauricio Macri]]
 - [[Victoria Villarruel]]
+
+## Fuentes
+
+- https://elpais.com/espana/2026-11-03/las-ausencias-de-lula-y-sheinbaum-dejan-solo-a-sanchez-frente-a-milei-en-la-cumbre-iberoamericana-de-madrid.html  ·  en `01_Research\01_RADARES\01_DIARIO\2026-11\2026-11-03_Radar_Diario.md`
+- https://laretaguardia.com.ar/2023/12/javier-milei-y-la-fuerzas-del-cielo.html  ·  en `01_Research\03_RESEARCH\2026-04-10_Milei_BlackRock_Elite\00_CORPUS_FORENSE.md`

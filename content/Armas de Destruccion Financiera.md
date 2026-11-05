@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [derivados, destruccin, financiera, naciones]
 publish: true
+sin_fuente: true
 ---
 
 # Armas De Destrucción Financiera (Derivados)

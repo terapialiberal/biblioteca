@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [david, warner, zaslav]
 publish: true
+sin_fuente: true
 ---
 
 # David Zaslav

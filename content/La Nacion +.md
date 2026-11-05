@@ -1,5 +1,5 @@
 ---
-titulo: La Nacion +
+titulo: La Nación +
 tipo: entidad
 fecha: 2026-04-18
 tier_primario: b
@@ -8,9 +8,10 @@ estado: activo
 aliases: ["La Nación +", "LN+"]
 tags: [argentina, medios, derecha, narrativa, tv, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
-# La Nacion +
+# La Nación +
 
 ## BLUF
 

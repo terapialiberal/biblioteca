@@ -8,6 +8,7 @@ tags: [prieure-de-sion, mito-moderno, genealogia, esoterismo, desinformacion, tl
 capa_tema: c
 nivel_evidencia: bajo
 publish: true
+sin_fuente: true
 ---
 
 # Prieure de Sion

@@ -9,6 +9,7 @@ tags:
   - plataformas
   - tl-intel-v3
 publish: true
+sin_fuente: true
 ---
 
 # Jack Ma
@@ -19,7 +20,7 @@ publish: true
 
 ## Lectura TL
 
-Su retirada forzada del centro público tras el choque regulatorio con Pekin muestra el limite real del poder corporativo privado en China: infraestructura, pagos, datos y cloud pueden crecer, pero no quedan por encima de la soberania politica del partido.
+Su retirada forzada del centro público tras el choque regulatorio con Pekin muestra el limite real del poder corporativo privado en China: infraestructura, pagos, datos y cloud pueden crecer, pero no quedan por encima de la soberania política del partido.
 
 ## Conecta
 

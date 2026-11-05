@@ -9,6 +9,7 @@ moc_canonico: [[00_MOC - Operaciones Encubiertas]]
 estado: activo
 aliases: ["Michael T. Flynn", "LTG Flynn"]
 tags: [michael-flynn, jsoc, centcom, isaf, afganistan, inteligencia, palantir, tl-intel-v3]
+sin_fuente: true
 ---
 
 # Michael Flynn
@@ -19,9 +20,9 @@ tags: [michael-flynn, jsoc, centcom, isaf, afganistan, inteligencia, palantir, t
 
 ## Por qué importa en TL
 
-- concentra el paso de la inteligencia clásica al "data fusion" en terreno (JSOC → ISAF);
+- concentra el paso de la inteligencia clásica al "data fusión" en terreno (JSOC → ISAF);
 - su trayectoria operativa conecta la doctrina neocon ([[Richard Perle]], [[Iran-Contra]]) con la infraestructura defensa-tech actual (Palantir/[[Anduril Industries]]);
-- funciona como caso de estudio del "operador que se vuelve político" (Trump 2016, DIA 2012-14) y de la guerra interna del aparato.
+- funciona como caso de estudio del "operador que se vuelve político" (Trump 2016, DÍA 2012-14) y de la guerra interna del aparato.
 
 ## Lectura TL
 
@@ -33,7 +34,7 @@ Flynn no era un teórico. Ocupó los puestos de inteligencia donde se fusionaba 
 - **jun-2007 a jul-2008:** Director de Inteligencia del **CENTCOM**. \[Wikipedia]
 - **jul-2008 a jun-2009:** Director de Inteligencia del **Joint Staff**. \[Wikipedia]
 - **jun-2009 a oct-2010:** Director de Inteligencia de la **ISAF en Afganistán** — la ventana donde Palantir/Gotham se desplegaba para Special Operations en ese país. \[Wikipedia / PBS]
-- **jul-2012 a ago-2014:** Director de la **DIA**. \[Wikipedia]
+- **jul-2012 a ago-2014:** Director de la **DÍA**. \[Wikipedia]
 
 ### 2. La ventana que cierra el anillo Afganistán
 
@@ -49,7 +50,7 @@ Su giro post-2014 (Flynn Intel Group, trumpismo, ecosistema [[QAnon]]) plantea l
 
 ## Ejes de lectura
 
-- conflicto con sectores del aparato durante la era Trump (destitución de la DIA 2014)
+- conflicto con sectores del aparato durante la era Trump (destitución de la DÍA 2014)
 - relación con Siria, CENTCOM y seguridad nacional
 - peso simbólico dentro de [[QAnon]] y ecosistemas afines
 - conexión operativa (no declarada en su momento) con el stack Palantir vía ISAF/Afganistán

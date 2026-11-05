@@ -8,6 +8,7 @@ tags: [silicio, memoria, datos, cristales, tecnologia, tl-intel-v3]
 capa_tema: b
 nivel_evidencia: medio
 publish: true
+sin_fuente: true
 ---
 
 # Silicio y Memoria de Cristal
@@ -18,17 +19,17 @@ Silicio y Memoria de Cristal conecta soporte material, almacenamiento de datos y
 
 ## Que es
 
-El silicio sostiene chips, sensores y computacion moderna. La memoria de cristal aparece tanto en investigacion de almacenamiento como en imaginarios esotericos de registro mineral.
+El silicio sostiene chips, sensores y computación moderna. La memoria de cristal aparece tanto en investigación de almacenamiento como en imaginarios esotericos de registro mineral.
 
 ## Por que importa en TL
 
 - conecta semiconductores, data centers y memoria civilizatoria;
-- permite leer datos como forma de inmortalizacion tecnica;
+- permite leer datos como forma de inmortalización tecnica;
 - une materialidad dura con imaginario de archivo total.
 
 ## Lectura TL
 
-La nube parece intangible, pero descansa sobre minerales, energia y fabricas. La memoria digital es geologia politizada.
+La nube parece intangible, pero descansa sobre minerales, energía y fabricas. La memoria digital es geologia politizada.
 
 ## Conexiones
 

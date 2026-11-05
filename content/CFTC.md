@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Commodity Futures Trading Commission"]
 tags: [cftc, derivados, commodities, regulacion, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # CFTC

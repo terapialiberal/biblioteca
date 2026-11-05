@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Collar de Perlas (Estrategia China)"]
 tags: [collar-de-perlas, china, puertos, oceano-indico, geoestrategia, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Collar de Perlas

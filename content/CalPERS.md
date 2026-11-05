@@ -5,6 +5,7 @@ aliases: ["CalPERS"]
 tags: [fondo-pension, california, inversion-institucional]
 tipo: institucion
 tier_primario: B
+sin_fuente: true
 ---
 
 # CalPERS

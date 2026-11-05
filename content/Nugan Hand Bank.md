@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [automtico, guerra, negra, nugan]
 publish: true
+sin_fuente: true
 ---
 
 # Nugan Hand Bank: El Cajero Automático De La Guerra Negra

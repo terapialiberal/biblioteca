@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [estrs, pelosi, plausible, test]
 publish: true
+sin_fuente: true
 ---
 
 # Pelosi En Taiwán: El Test De Estrés Del Estrecho

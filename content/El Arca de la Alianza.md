@@ -6,6 +6,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [esoterismo, reliquia, pacto, ley, poder]
 publish: true
+sin_fuente: true
 ---
 
 # El Arca de la Alianza (V.3)

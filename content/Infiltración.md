@@ -4,6 +4,7 @@ tipo: concepto
 titulo: Infiltración
 estado: activo
 tags: [operaciones, inteligencia, captura, tl-intel-v3]
+sin_fuente: true
 ---
 
 # Infiltración

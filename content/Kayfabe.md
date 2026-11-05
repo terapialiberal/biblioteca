@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [gestin, kayfabe, panem, simulada]
 publish: true
+sin_fuente: true
 ---
 
 # Kayfabe Político: La Gestión De La Realidad Simulada

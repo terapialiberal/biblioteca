@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Estado de Vigilancia", "Estado de Vigilancia (Surveillance State)"]
 tags: [surveillance-state, vigilancia, sigint, datos, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Surveillance State

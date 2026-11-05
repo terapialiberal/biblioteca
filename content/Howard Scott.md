@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [howard, joshua, movimiento, scott]
 publish: true
+sin_fuente: true
 ---
 
 # Howard Scott

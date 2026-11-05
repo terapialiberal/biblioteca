@@ -7,17 +7,18 @@ nivel_evidencia: medio
 estado: activo
 tags: [departamento-de-defensa, dod, pentagono, defensa, burocracia, contratistas, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Departamento de Defensa
 
 ## BLUF
 
-[[Departamento de Defensa]] importa en TL como aparato burocratico-militar que administra presupuesto, doctrina, procurement, investigacion y despliegue del poder militar estadounidense. Su valor analitico no esta solo en la defensa formal, sino en funcionar como interfaz entre Estado, contratistas, tecnologia, bases, cadenas logisticas e innovacion belica permanente.
+[[Departamento de Defensa]] importa en TL como aparato burocratico-militar que administra presupuesto, doctrina, procurement, investigación y despliegue del poder militar estadounidense. Su valor analitico no esta solo en la defensa formal, sino en funcionar como interfaz entre Estado, contratistas, tecnología, bases, cadenas logisticas e innovación belica permanente.
 
 ## Por que importa en TL
 
-- conecta presupuesto publico, politica exterior y transferencia estructural hacia contratistas de defensa;
+- conecta presupuesto público, política exterior y transferencia estructural hacia contratistas de defensa;
 - ayuda a leer como la guerra continua necesita una burocracia estable, no solo presidentes o crisis puntuales;
 - sirve como nodo rector para unir [[Pentagono]], [[DARPA]], [[Northrop Grumman]], [[Raytheon]] y otros tramos del [[Complejo Militar-Industrial]].
 
@@ -29,19 +30,19 @@ La nota venia en formato manifiesto viejo, con enfasis retorico excesivo y frami
 
 ### 1. Administrador del poder material
 
-El Departamento de Defensa importa porque traduce estrategia, amenazas, doctrina y gasto en una maquina institucional capaz de sostener guerra, preparacion, investigacion y despliegue de largo plazo.
+El Departamento de Defensa importa porque traduce estrategia, amenazas, doctrina y gasto en una maquina institucional capaz de sostener guerra, preparación, investigación y despliegue de largo plazo.
 
 ### 2. Burocracia que estabiliza la continuidad
 
-En TL, su peso aparece cuando se observa que el aparato militar no depende solo del ciclo electoral. El DoD conserva continuidad operativa, contractual y doctrinal incluso cuando cambia la capa politica visible.
+En TL, su peso aparece cuando se observa que el aparato militar no depende solo del ciclo electoral. El DoD conserva continuidad operativa, contractual y doctrinal incluso cuando cambia la capa política visible.
 
 ### 3. Centro de acople con contratistas
 
-Su relevancia aumenta al verlo como gran comprador, coordinador y legitimador de ecosistemas privados de defensa. Buena parte de la capacidad efectiva estadounidense se monta sobre esa interfaz entre presupuesto publico y proveedor estrategico.
+Su relevancia aumenta al verlo como gran comprador, coordinador y legitimador de ecosistemas privados de defensa. Buena parte de la capacidad efectiva estadounidense se monta sobre esa interfaz entre presupuesto público y proveedor estratégico.
 
 ### 4. Defensa mas alla de la defensa
 
-No hace falta reducirlo a conspiracion unica para entender su escala. Ya es suficiente verlo como la estructura que organiza proyeccion militar, innovacion dual, bases globales, procurement masivo y dependencia creciente de software, sensores y plataformas privadas.
+No hace falta reducirlo a conspiración unica para entender su escala. Ya es suficiente verlo como la estructura que organiza proyección militar, innovación dual, bases globales, procurement masivo y dependencia creciente de software, sensores y plataformas privadas.
 
 ## Con que conecta
 

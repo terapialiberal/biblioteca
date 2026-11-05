@@ -7,6 +7,7 @@ nivel_evidencia: alto
 estado: activo
 tags: [cognitive-warfare, guerra-cognitiva, narrativa, neuro-politica, plataformas, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Cognitive Warfare

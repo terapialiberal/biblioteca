@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Winston Churchill"]
 tags: [churchill, reino-unido, guerra, imperio, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Churchill

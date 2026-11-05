@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [arabia, fund, gaza, reconstruction]
 publish: true
+sin_fuente: true
 ---
 
 # [[Gaza Reconstruction Fund]]

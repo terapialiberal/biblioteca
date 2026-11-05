@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [pasaportes-de-vacuna, salud-digital, movilidad, identidad-digital, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Pasaportes de Vacuna
@@ -43,7 +44,7 @@ Más allá del episodio puntual, dejaron instalada la idea de que derechos ordin
 
 Leídos en continuidad con identidad digital y biometría, aparecen como ensayo general de credenciales reutilizables entre jurisdicciones, plataformas y capas de acceso.
 
-### 5. Salud como legitimacion del filtro
+### 5. Salud como legitimación del filtro
 
 En TL, su importancia histórica está en haber mostrado que un filtro de acceso puede presentarse como protección sanitaria y, desde ahí, normalizar capas más amplias de validación interoperable sobre movilidad, trabajo y vida cotidiana.
 

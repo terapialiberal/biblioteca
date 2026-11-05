@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [guerra, industria, knowlton, strategies]
 publish: true
+sin_fuente: true
 ---
 
 # Hill+Knowlton Strategies

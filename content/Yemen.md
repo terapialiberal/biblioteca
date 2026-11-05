@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Yemen (Conflicto)"]
 tags: [yemen, huties, mar-rojo, arabia-saudita, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Yemen

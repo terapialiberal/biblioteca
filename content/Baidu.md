@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Baidu (Motor de Búsqueda Chino)"]
 tags: [baidu, china, ia, busqueda, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Baidu

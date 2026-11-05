@@ -7,6 +7,7 @@ tier_primario: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [basel, basilea, drafts]
+sin_fuente: true
 ---
 
 # [[Basilea V (Drafts)]]

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [cnea, energa, nuclear, satlites]
 publish: true
+sin_fuente: true
 ---
 
 # Energía Nuclear (INVAP)

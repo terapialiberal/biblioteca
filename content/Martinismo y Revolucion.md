@@ -6,6 +6,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [esoterismo, historia, revolucion, iniciacion, francia]
 publish: true
+sin_fuente: true
 ---
 
 # Martinismo y Revolución (V.3)

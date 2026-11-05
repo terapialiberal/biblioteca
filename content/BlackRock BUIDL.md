@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [blackrock-buidl, blackrock, rwa, tokenizacion, liquidez, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # BlackRock BUIDL
@@ -45,21 +46,21 @@ Su utilidad aparece al mostrar cómo la blockchain puede dejar de ser contra-sis
 
 En TL, BUIDL importa porque acerca activos de alta calidad institucional a entornos donde trazabilidad, elegibilidad y uso como colateral pueden gestionarse con mucha más granularidad.
 
-### 5. Tokenizacion como absorcion del disenso tecnico
+### 5. Tokenización como absorción del disenso tecnico
 
 También sirve para leer cómo el sistema dominante absorbe herramientas nacidas como alternativa y las recompone dentro de marcos más previsibles para custodios, reguladores y grandes asignadores de capital.
 
 ### 6. Ensayo institucional para nueva liquidez
 
-Leido junto con [[Repo Market Crisis 2019]], [[Reverse Repo Facility]] y [[Treasuries]], BUIDL deja de parecer solo producto innovador y pasa a leerse como ensayo de una liquidez mas programable, mas portable y potencialmente mejor coordinada con las necesidades del sistema dolar.
+Leido junto con [[Repo Market Crisis 2019]], [[Reverse Repo Facility]] y [[Treasuries]], BUIDL deja de parecer solo producto innovador y pasa a leerse como ensayo de una liquidez mas programable, mas portable y potencialmente mejor coordinada con las necesidades del sistema dólar.
 
-### 7. Tokenizacion del activo mas demandado
+### 7. Tokenización del activo mas demandado
 
 La nota se vuelve mas potente cuando se la junta con [[Tokenized Sovereign Debt]] y [[Stablecoin Regulation US]]: no se trata solo de digitalizar un fondo, sino de abrir canales mas fluidos para que deuda y cash-equivalents circulen como piezas reutilizables de un ecosistema regulado.
 
 ### 8. BlackRock como puente entre colateral y rail
 
-En TL, BUIDL importa tambien porque acorta la distancia entre gestor dominante, infraestructura digital y demanda de activos seguros. Ese puente convierte a la tokenizacion en herramienta de coordinacion financiera, no solo en narrativa de innovacion.
+En TL, BUIDL importa también porque acorta la distancia entre gestor dominante, infraestructura digital y demanda de activos seguros. Ese puente convierte a la tokenización en herramienta de coordinación financiera, no solo en narrativa de innovación.
 
 ## Con que conecta
 

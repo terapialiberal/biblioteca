@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [capital, dyncorp, management, stephen]
 publish: true
+sin_fuente: true
 ---
 
 # Cerberus Capital Management

@@ -65,3 +65,7 @@ En TL, Karp rinde todavía más cuando se lo conecta con [[Peter Thiel]], [[Pala
 - [[Tecnocracia]]
 - [[Policrisis Sistemica]]
 - [[00_MOC - Vigilancia Tecnica y SIGINT]]
+
+## Fuentes
+
+- https://www.fastcompany.com/91446398/cia-police-palantir-alex-karp-predictive-peter-thiel-paypal-sequoia  ·  en `06_Videos_Publicados\2026\2026-07-13_Graham_BigThree_Ankara\00_CORPUS_FORENSE.md`

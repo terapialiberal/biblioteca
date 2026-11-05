@@ -6,6 +6,7 @@ estado: activo
 aliases: ["ESG (Environmental Social Governance)", "Environmental Social Governance"]
 tags: [esg, finanzas, blackrock, sostenibilidad, gobernanza, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # ESG

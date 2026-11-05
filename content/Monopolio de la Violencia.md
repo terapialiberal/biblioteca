@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [algoritmo, grupo, monopolio, violencia]
 publish: true
+sin_fuente: true
 ---
 
 # Monopolio De La Violencia: Del Garrote Al Algoritmo

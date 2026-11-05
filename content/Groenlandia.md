@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Groenlandia (Recursos y Geopolítica)"]
 tags: [groenlandia, artico, recursos, rutas, eeuu, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Groenlandia

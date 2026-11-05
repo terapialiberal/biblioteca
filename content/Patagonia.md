@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Patagonia (Recursos Estratégicos)"]
 tags: [patagonia, argentina, recursos, agua, soberania, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Patagonia

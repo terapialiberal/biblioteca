@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Airbnb (Plataforma)"]
 tags: [airbnb, plataforma, vivienda, turismo, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Airbnb

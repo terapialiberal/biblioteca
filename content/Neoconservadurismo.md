@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [neoconservadurismo, hegemonia, guerra, politica-exterior, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Neoconservadurismo

@@ -6,6 +6,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [finanzas, astrologia, ciclos, mercado]
 publish: true
+sin_fuente: true
 ---
 
 # Astrología Financiera (V.3)

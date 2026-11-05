@@ -146,4 +146,4 @@ Página 1 de 1
 
 ## 🏷 Tags Sugeridos Por IA
 
-#cables submarinos #tecnologia #internet #infraestructura #seguridad
+#cables submarinos #tecnología #internet #infraestructura #seguridad

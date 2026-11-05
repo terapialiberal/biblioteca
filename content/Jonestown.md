@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [biopoltica, laboratorio, mkultra, selva]
 publish: true
+sin_fuente: true
 ---
 
 # Jonestown: El Laboratorio De Biopolítica En La Selva

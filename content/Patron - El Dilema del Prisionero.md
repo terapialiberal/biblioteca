@@ -4,6 +4,7 @@ tipo: concepto
 titulo: "Patrón - El Dilema del Prisionero"
 estado: procesado
 tags: [patrones, teoria-de-juegos, dilema-del-prisionero, tl-v3]
+sin_fuente: true
 ---
 
 # [[Patrón - El Dilema del Prisionero]]

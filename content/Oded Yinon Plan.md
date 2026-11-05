@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [clean, fragmentacin, mapa, oded]
 publish: true
+sin_fuente: true
 ---
 
 # Oded Yinon Plan: El Mapa De La Fragmentación Del Mundo Árabe

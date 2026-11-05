@@ -7,6 +7,7 @@ tags: [alistair, hermetismo, libro, thot]
 capa_tema: "a"
 nivel_evidencia: "medio"
 publish: true
+sin_fuente: true
 ---
 
 # El Libro De Thot (Tarot Y Programación)

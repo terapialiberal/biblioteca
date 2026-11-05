@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [bin-laden, guerra-contra-el-terror, cia, pakistan, narrativa, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Muerte de Bin Laden

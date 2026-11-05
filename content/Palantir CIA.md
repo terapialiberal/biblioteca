@@ -8,12 +8,13 @@ estado: activo
 aliases: ["Palantir CIA", "Palantir Technologies CIA"]
 tags: [palantir, cia, in-q-tel, inteligencia, data-fusion, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Palantir CIA
 
 > [!NOTE] Nota puente histórica
-> Lectura de Palantir como empresa incubada en el ecosistema de inteligencia y convertida en infraestructura civil-militar de data fusion.
+> Lectura de Palantir como empresa incubada en el ecosistema de inteligencia y convertida en infraestructura civil-militar de data fusión.
 
 ## Qué es
 

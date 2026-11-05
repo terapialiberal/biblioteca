@@ -6,6 +6,7 @@ capa_tema: a
 nivel_evidencia: alto
 tags: [ia, inteligencia-artificial, datos, automatizacion, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Inteligencia Artificial

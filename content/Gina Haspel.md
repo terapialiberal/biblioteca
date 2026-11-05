@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [donald, gina, haspel, tortura]
 publish: true
+sin_fuente: true
 ---
 
 # Gina Haspel

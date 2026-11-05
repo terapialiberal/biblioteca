@@ -7,6 +7,7 @@ nivel_evidencia: "alto"
 estado: activo
 tags: [psicologia, control-mental, isis, percepcion, disonancia]
 publish: true
+sin_fuente: true
 ---
 
 # Disonancia Cognitiva (Isis): El Velo de la Percepción (V.3)

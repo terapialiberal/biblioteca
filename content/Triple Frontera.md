@@ -7,18 +7,19 @@ nivel_evidencia: medio
 estado: activo
 tags: [triple-frontera, argentina, paraguay, brasil, inteligencia, contrabando, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Triple Frontera
 
 ## BLUF
 
-[[Triple Frontera]] importa en TL como zona gris estrategica del Cono Sur: concentra flujos comerciales opacos, contrabando, vigilancia, inteligencia y sensibilidad sobre recursos e infraestructura regional.
+[[Triple Frontera]] importa en TL como zona gris estratégica del Cono Sur: concentra flujos comerciales opacos, contrabando, vigilancia, inteligencia y sensibilidad sobre recursos e infraestructura regional.
 
 ## Por que importa en TL
 
 - funciona como laboratorio de soberania debilitada y enforcement fragmentado;
-- conecta economia informal, redes criminales y narrativa de seguridad hemisferica;
+- conecta economía informal, redes criminales y narrativa de seguridad hemisferica;
 - sirve para vincular recursos, frontera, inteligencia y capacidad de injerencia externa.
 
 ## Que cambio
@@ -29,7 +30,7 @@ La nota se recompila desde una ficha vieja y una subnota incompleta de inteligen
 
 ### 1. Zona gris util para muchos actores
 
-La Triple Frontera importa no solo por un supuesto actor puntual, sino porque su propia opacidad la vuelve util para contrabando, lavado, vigilancia e intermediacion informal. TL la trata como estructura de oportunidad antes que como mito unico.
+La Triple Frontera importa no solo por un supuesto actor puntual, sino porque su propia opacidad la vuelve util para contrabando, lavado, vigilancia e intermediación informal. TL la trata como estructura de oportunidad antes que como mito unico.
 
 ### 2. Seguridad narrada, control desigual
 
@@ -37,11 +38,11 @@ El nodo ayuda a leer como la narrativa de "amenaza terrorista" puede convivir co
 
 ### 3. Frontera, recursos y geografia sensible
 
-Leida junto con [[Acuifero Guarani]] y el corredor regional, la zona importa porque combina frontera porosa con un entorno de alto valor logistico y estrategico.
+Leida junto con [[Acuifero Guarani]] y el corredor regional, la zona importa porque combina frontera porosa con un entorno de alto valor logistico y estratégico.
 
-### 4. Plataforma regional de observacion
+### 4. Plataforma regional de observación
 
-Tambien funciona como punto de cruce para mirar a [[AMIA]], [[Hezbollah en Latinoamerica]] y nodos de inteligencia sin reducir toda la explicacion a una sola causalidad.
+También funciona como punto de cruce para mirar a [[AMIA]], [[Hezbollah en Latinoamerica]] y nodos de inteligencia sin reducir toda la explicación a una sola causalidad.
 
 ## Conexiones
 

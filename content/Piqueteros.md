@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [clientelismo, estructural, gerentes, juan]
 publish: true
+sin_fuente: true
 ---
 
 # Piqueteros: Los Gerentes De La Pobreza Estructural

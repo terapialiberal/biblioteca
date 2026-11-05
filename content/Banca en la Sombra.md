@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Shadow Banking", "Banca en la Sombra - El Sistema Financiero Paralelo (Shadow Banking)"]
 tags: [shadow-banking, liquidez, apalancamiento, colateral, riesgo-sistemico, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Banca en la Sombra

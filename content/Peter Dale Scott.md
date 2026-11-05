@@ -7,6 +7,7 @@ nivel_evidencia: "alto"
 estado: activo
 tags: [scott, deep-politics, petrodolar, deep-state, parapolitica]
 publish: true
+sin_fuente: true
 ---
 
 # Peter Dale Scott

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [grupo, jorge, lanata, pgina]
 publish: true
+sin_fuente: true
 ---
 
 # Jorge Lanata

@@ -6,6 +6,7 @@ fecha: 2026-04-22
 estado: activo
 moc_canonico: [[00_MOC - Base de Conocimiento]]
 tags: [moc, salud-global, bioseguridad, biopolitica, identidad-digital, tl-intel-v3]
+sin_fuente: true
 ---
 
 # MOC - Salud Global y Bioseguridad
@@ -56,8 +57,8 @@ tags: [moc, salud-global, bioseguridad, biopolitica, identidad-digital, tl-intel
 ## Como leer este subcorredor
 
 - [[ID2020]] fija la entrada humanitaria y sanitaria de la identidad interoperable;
-- [[Genomic ID]] empuja la identidad hacia datos biologicos profundos y clasificacion de riesgo;
-- [[Internet de los Cuerpos]] traduce esa logica a monitoreo e intervencion continua sobre el organismo;
+- [[Genomic ID]] empuja la identidad hacia datos biologicos profundos y clasificación de riesgo;
+- [[Internet de los Cuerpos]] traduce esa logica a monitoreo e intervención continua sobre el organismo;
 - este tramo conecta salud global con [[00_MOC - Tecnologia de Control]] y la convergencia bio-digital.
 
 ## Ciencia, Plataformas y Bioindustria
@@ -70,21 +71,21 @@ tags: [moc, salud-global, bioseguridad, biopolitica, identidad-digital, tl-intel
 - [[Precision Medicine]]
 - [[Internet de los Cuerpos]]
 
-## Intervencion Bio-Digital
+## Intervención Bio-Digital
 
 - [[Precision Medicine]]
 - [[Internet de los Cuerpos]]
 - [[Neuralink]]
 - [[Internet of Bio-Nano Things]]
 
-## Como leer la bajada de intervencion
+## Como leer la bajada de intervención
 
 - [[Precision Medicine]] legitima la captura intensiva de datos biologicos bajo promesa terapeutica;
 - [[Internet de los Cuerpos]] vuelve continuo el monitoreo del organismo;
 - [[Neuralink]] abre el carril de interfaz directa con el sistema nervioso;
-- [[Internet of Bio-Nano Things]] empuja el horizonte hacia una lectura e intervencion molecular del cuerpo.
+- [[Internet of Bio-Nano Things]] empuja el horizonte hacia una lectura e intervención molecular del cuerpo.
 
-## Regulacion y Legitimacion
+## Regulación y Legitimación
 
 - [[FDA]]
 - [[CDC]]
@@ -97,11 +98,11 @@ tags: [moc, salud-global, bioseguridad, biopolitica, identidad-digital, tl-intel
 - [[Stephane Bancel]]
 - [[Safe and Effective]]
 
-## Como leer el corredor de legitimacion regulatoria
+## Como leer el corredor de legitimación regulatoria
 
-- empezar por [[FDA]] y [[EMA]]: la autorizacion y validacion como capa de cierre tecnico;
-- seguir con [[CDC]]: la traduccion de riesgo y recomendacion en conducta poblacional;
-- cerrar en [[Safe and Effective]]: la formula narrativa que convierte regulacion y vigilancia en consentimiento administrado.
+- empezar por [[FDA]] y [[EMA]]: la autorización y validación como capa de cierre tecnico;
+- seguir con [[CDC]]: la traducción de riesgo y recomendación en conducta poblacional;
+- cerrar en [[Safe and Effective]]: la formula narrativa que convierte regulación y vigilancia en consentimiento administrado.
 
 ## Secuencia TL
 

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [bill, criadero, matrix, trust]
 publish: true
+sin_fuente: true
 ---
 
 # Rhodes Trust: el Criadero de los Gestores de la Matrix

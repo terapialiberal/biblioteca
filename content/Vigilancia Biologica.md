@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Vigilancia Biológica", "Biological Surveillance"]
 tags: [vigilancia-biologica, bioseguridad, genomica, trazabilidad, salud-global, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Vigilancia Biologica

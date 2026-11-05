@@ -6,6 +6,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [esoterismo, procesos, transformacion, control]
 publish: true
+sin_fuente: true
 ---
 
 # Alquimia Operativa (V.3)

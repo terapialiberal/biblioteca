@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Bayer / Monsanto"]
 tags: [bayer, monsanto, semillas, agroquimicos, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Bayer - Monsanto

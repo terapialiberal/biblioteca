@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [complejo, falsa, golfo, tonkn]
 publish: true
+sin_fuente: true
 ---
 
 # Golfo De Tonkín (Incidente)

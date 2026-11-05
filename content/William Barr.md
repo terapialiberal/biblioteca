@@ -5,6 +5,7 @@ aliases: ["Bill Barr"]
 tags: [actor, eeuu, justicia, doj, trump]
 tipo: actor
 tier_primario: B
+sin_fuente: true
 ---
 
 # William Barr

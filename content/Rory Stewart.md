@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [clsico, espejismo, reino, stewart]
 publish: true
+sin_fuente: true
 ---
 
 # Rory Stewart: el Insider Clásico Y el Espejismo de la Democracia

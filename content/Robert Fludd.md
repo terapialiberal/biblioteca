@@ -7,6 +7,7 @@ tags: [robert-fludd, hermetismo, rosacrucismo, simbolismo, esoterismo, tl-intel-
 tier_primario: c
 nivel_evidencia: alto
 publish: true
+sin_fuente: true
 ---
 
 # Robert Fludd

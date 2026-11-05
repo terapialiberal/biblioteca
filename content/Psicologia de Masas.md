@@ -8,6 +8,7 @@ tags: [psicologia-de-masas, propaganda, opinion-publica, operaciones-psicologica
 capa_tema: b
 nivel_evidencia: alto
 publish: true
+sin_fuente: true
 ---
 
 # Psicologia de Masas

@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [anduril-industries, defensa, drones, vigilancia, palmer-luckey, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Anduril Industries
@@ -39,7 +40,7 @@ En TL, su relevancia aumenta cuando el mismo stack sirve tanto para control fron
 
 Su potencia aparece cuando una empresa nacida con estética startup pasa a ocupar funciones típicas de aparato estatal o contratista estratégico de largo plazo.
 
-### 4. Sensorizacion del poder
+### 4. Sensorización del poder
 
 En TL, Anduril gana más espesor cuando se la conecta con [[Palantir]], [[In-Q-Tel]] y [[00_MOC - Vigilancia Tecnica y SIGINT]]. Ahí deja de ser solo defensa autónoma y pasa a aparecer como capa de sensorización y respuesta dentro del mismo régimen de vigilancia técnica.
 

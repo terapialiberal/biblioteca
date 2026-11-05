@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [brazo, debanking, digital, splc]
 publish: true
+sin_fuente: true
 ---
 
 # SPLC: el Brazo Jurídico de la Inquisición Digital

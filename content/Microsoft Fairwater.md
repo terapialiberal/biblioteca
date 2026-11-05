@@ -3,21 +3,22 @@ publish: true
 titulo: Microsoft Fairwater
 tipo: entidad
 estado: activo
+sin_fuente: true
 ---
 
 # Microsoft Fairwater
 
 #### BLUF
 
-Microsoft Fairwater es la manifestacin fsica de la **Soberana Territorial del Tier A** en el corazn de EE.UU. (Mount Pleasant, Wisconsin). Tras el fracaso de Foxconn en la misma zona, Microsoft ha capturado el terreno y la red elctrica para desplegar la infraestructura base que alimentar a [[Project Stargate]]. En 2026, Fairwater no es un parque industrial; es un **Enclave Tecnocrtico** con su propia seguridad y priorizacin energtica por encima de los residentes locales.
+Microsoft Fairwater es la manifestacin fsica de la **Soberana Territorial del Tier A** en el corazón de EE.UU. (Mount Pleasant, Wisconsin). Tras el fracaso de Foxconn en la misma zona, Microsoft ha capturado el terreno y la red elctrica para desplegar la infraestructura base que alimentar a [[Project Stargate]]. En 2026, Fairwater no es un parque industrial; es un **Enclave Tecnocrtico** con su propia seguridad y priorizacin energtica por encima de los residentes locales.
 
 #### MAPA DE ACTORES
 
 | Actor | Tier | Rol Real | Incentivo Oculto |
 |-------|------|----------|-----------------|
 | [[Satya Nadella]] | A | El Landlord de Wisconsin | Transformar tierras agrcolas en colateral para el entrenamiento de IA. |
-| [[OpenAI]] | A | El Inquilino Estratgico | Utilizar la capacidad de Fairwater para sus modelos de frontera. |
-| [[Gobernador de Wisconsin]] | B | El Facilitador | Buscar legitimidad poltica mediante la creacin de "empleos del futuro" (Ruido). |
+| [[OpenAI]] | A | El Inquilino Estratégico | Utilizar la capacidad de Fairwater para sus modelos de frontera. |
+| [[Gobernador de Wisconsin]] | B | El Facilitador | Buscar legitimidad política mediante la creacin de "empleos del futuro" (Ruido). |
 | [[Vantage Data Centers]] | B | El Operador de Campo | Gestionar la logstica y construccin masiva bajo el radar de Microsoft. |
 
 #### SEALES VS RUIDO
@@ -30,10 +31,10 @@ Microsoft Fairwater es la manifestacin fsica de la **Soberana Territorial del Ti
 
 #### CUI BONO REAL
 
-**Quin captura qu?**
+**Quién captura qué?**
 **Microsoft** captura el **Control de la Cadena de Suministro del Midwest**. Al dominar Wisconsin, se posicionan en el "hub" logstico que conecta los grandes lagos con la red troncal de EE.UU. Capturan la capacidad de chantajear al estado con la retirada de la infraestructura si no se cumplen sus demandas de desregulacin nuclear ([[SMR]]).
 
-#### ANLISIS DE JUEGO
+#### ANÁLISIS DE JUEGO
 
 **Tipo:** signaling / signaling
 **Equilibrio actual:** Captura de Territorio. El Estado de Wisconsin est desesperado por borrar el estigma del fracaso de Foxconn, lo que le da a Microsoft un poder de negociacin casi infinito. El equilibrio se mantiene mientras Microsoft siga inyectando capital, convirtiendo al gobierno local en una sucursal corporativa de Microsoft.
@@ -66,4 +67,4 @@ Microsoft est revitalizando una zona que fue abandonada por la industria manufac
 
 #### LAGUNAS
 
-Cmo planea Microsoft gestionar los residuos de calor masivos y su efecto en el microclima local de Wisconsin sin afectar la agricultura circundante?
+Cómo planea Microsoft gestionar los residuos de calor masivos y su efecto en el microclima local de Wisconsin sin afectar la agricultura circundante?

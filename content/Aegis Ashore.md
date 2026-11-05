@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [aegis, ashore, lockheed, polonia]
 publish: true
+sin_fuente: true
 ---
 
 # [[Aegis Ashore (Polonia-Rumania)]]

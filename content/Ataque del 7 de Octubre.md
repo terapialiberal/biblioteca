@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [ataque, benjamin, mossad, octubre]
 publish: true
+sin_fuente: true
 ---
 
 # Ataque Del 7 De Octubre

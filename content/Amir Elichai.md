@@ -5,6 +5,7 @@ aliases: ["Amir Elichai"]
 tags: [actor, israel, vigilancia, tecnologia]
 tipo: actor
 tier_primario: C
+sin_fuente: true
 ---
 
 # Amir Elichai

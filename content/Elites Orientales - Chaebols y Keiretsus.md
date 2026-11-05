@@ -7,6 +7,7 @@ tags: [blackrock, keiretsus, orientales, vanguard]
 capa_tema: "a"
 nivel_evidencia: "alto"
 publish: true
+sin_fuente: true
 ---
 
 # Elites Orientales — Chaebol Y Keiretsu (El Neo-Feudalismo Industrial)

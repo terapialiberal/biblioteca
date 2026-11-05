@@ -12,6 +12,7 @@ tags:
   - estados-unidos
   - multipolaridad
 publish: true
+sin_fuente: true
 ---
 
 # Retirada de Afganistán: el Colapso de la Simulación de Hegemonía

@@ -7,13 +7,14 @@ nivel_evidencia: medio
 estado: activo
 tags: [general-dynamics, defensa, contratistas, submarinos, complejo-militar-industrial, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # General Dynamics
 
 ## BLUF
 
-[[General Dynamics]] importa en TL como gran contratista de defensa estadounidense, especialmente relevante en sistemas navales, plataformas terrestres, tecnologia militar e infraestructura critica de seguridad. Su utilidad analitica esta en mostrar la profundidad industrial y de largo plazo del [[Complejo Militar-Industrial]].
+[[General Dynamics]] importa en TL como gran contratista de defensa estadounidense, especialmente relevante en sistemas navales, plataformas terrestres, tecnología militar e infraestructura critica de seguridad. Su utilidad analitica esta en mostrar la profundidad industrial y de largo plazo del [[Complejo Militar-Industrial]].
 
 ## Por que importa en TL
 
@@ -29,15 +30,15 @@ La nota anterior tenia tipo incorrecto (`persona`) y tono muy sobredimensionado.
 
 ### 1. Contratista de capa profunda
 
-General Dynamics importa porque participa en programas de defensa especialmente duraderos y sensibles, como sistemas navales, vehiculos militares e infraestructura asociada a disuasion y despliegue.
+General Dynamics importa porque participa en programas de defensa especialmente duraderos y sensibles, como sistemas navales, vehiculos militares e infraestructura asociada a disuasión y despliegue.
 
 ### 2. Programas de largo aliento
 
-En TL, su peso no se explica solo por facturacion, sino por la clase de programas en los que interviene: sistemas complejos, multianuales y con altisimo costo de sustitucion.
+En TL, su peso no se explica solo por facturación, sino por la clase de programas en los que interviene: sistemas complejos, multianuales y con altisimo costo de sustitución.
 
 ### 3. Defensa como dependencia
 
-Su presencia ayuda a leer como las necesidades militares se traducen en dependencia tecnica, presupuestaria y politica sobre contratistas que terminan integrados al funcionamiento ordinario del Estado estrategico.
+Su presencia ayuda a leer como las necesidades militares se traducen en dependencia tecnica, presupuestaria y política sobre contratistas que terminan integrados al funcionamiento ordinario del Estado estratégico.
 
 ## Con que conecta
 

@@ -8,6 +8,7 @@ estado: activo
 aliases: ["ARC"]
 tags: [arc, conservadurismo, think-tank, gatekeeping, valores-occidentales, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Alliance for Responsible Citizenship

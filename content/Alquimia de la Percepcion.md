@@ -6,6 +6,7 @@ nivel_evidencia: "muy-alto"
 estado: activo
 tags: [percepcion, narrativa, control-mental, guerra-cognitiva]
 publish: true
+sin_fuente: true
 ---
 
 # Alquimia de la Percepción (V.3)

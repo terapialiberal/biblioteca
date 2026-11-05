@@ -5,6 +5,7 @@ aliases: ["RAND Corporation"]
 tags: [think-tank, militar, estrategia, guerra-fria]
 tipo: think-tank
 tier_primario: A
+sin_fuente: true
 ---
 
 # RAND Corporation

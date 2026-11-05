@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [allen, asesinato, lumumba, patrice]
 publish: true
+sin_fuente: true
 ---
 
 # Asesinato De Patrice Lumumba

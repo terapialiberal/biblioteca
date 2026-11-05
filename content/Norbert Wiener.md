@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [norbert, sistema, transhumanismo, wiener]
 publish: true
+sin_fuente: true
 ---
 
 # Norbert Wiener: El Programador Del Sistema Operativo Social
@@ -46,4 +47,4 @@ publish: true
 
 ## Conclusión Del Análisis
 
-Norbert Wiener fue el genio que nos dio el mapa de nuestra prision, pero tambien el visionario que advirtió sobre el **"Uso Humano de los Seres Humanos"**. El sabía que si la cibernética caía en manos de quienes solo buscan el control, el hombre dejaría de ser un fin en sí mismo para convertirse en una pieza de repuesto de una megamáquina planetaria. Hoy vivimos en el mundo que Wiener predijo: un sistema de retroalimentación perfecta donde el Tier A nos susurra al oído lo que queremos escuchar para que nunca dejemos de alimentar a la máquina con nuestros datos y nuestras vidas.
+Norbert Wiener fue el genio que nos dio el mapa de nuestra prisión, pero también el visionario que advirtió sobre el **"Uso Humano de los Seres Humanos"**. El sabía que si la cibernética caía en manos de quienes solo buscan el control, el hombre dejaría de ser un fin en sí mismo para convertirse en una pieza de repuesto de una megamáquina planetaria. Hoy vivimos en el mundo que Wiener predijo: un sistema de retroalimentación perfecta donde el Tier A nos susurra al oído lo que queremos escuchar para que nunca dejemos de alimentar a la máquina con nuestros datos y nuestras vidas.

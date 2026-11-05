@@ -7,6 +7,7 @@ tags: [compaa, estado, mercantil, privado]
 tier_primario: "a"
 nivel_evidencia: "alto"
 publish: true
+sin_fuente: true
 ---
 
 # Compañía De Las Indias - El Estado Mercantil Privado

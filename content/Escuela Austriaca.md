@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [austraca, ciclo, economa, praxeologa]
 publish: true
+sin_fuente: true
 ---
 
 # Escuela Austríaca De Economía

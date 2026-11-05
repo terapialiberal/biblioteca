@@ -5,6 +5,7 @@ aliases: ["Franklin D. Roosevelt", "FDR"]
 tags: [actor, presidente-eeuu, new-deal, guerra-mundial]
 tipo: actor
 tier_primario: A
+sin_fuente: true
 ---
 
 # Franklin D. Roosevelt

@@ -5,6 +5,7 @@ aliases: ["Carl Schmitt"]
 tags: [actor, filosofia, derecho, soberania, excepcion]
 tipo: actor
 tier_primario: B
+sin_fuente: true
 ---
 
 # Carl Schmitt

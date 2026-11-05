@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Great Reset", "Gran Reset", "Gran Reset (WEF)"]
 tags: [gran-reinicio, wef, davos, gobernanza-global, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Gran Reinicio

@@ -41,3 +41,7 @@ publish: true
 ## Conclusión Del Análisis
 
 Ray Dalio nos enseña que **el capital no tiene patria, solo ciclos de acumulación**. Nos advierte que cuando los "grandes pensadores" de Wall Street empiezan a predicar sobre la inevitabilidad de la caída de tu nación, ya han apostado contra ella. Para el habitante de Tier C, Dalio representa la tentación del determinismo: la idea de que no podemos cambiar la historia porque "los ciclos" son más fuertes que nosotros. La libertad real comienza rechazando la profecía de Dalio y entendiendo que el futuro de la soberanía no está escrito en las tablas de Excel de un hedge fund, sino en la voluntad resiliente de quienes se niegan a ser procesados por la máquina.
+
+## Fuentes
+
+- https://www.bloomberg.com/news/articles/2026-08-21/ray-dalio-recomienda-oro-ante-crisis-de-deuda-de-ee-uu  ·  en `06_Videos_Publicados\2026\2026-08-25_Bessent_Bretton_Woods_Dia_D\FUENTES_MARCADORES_2026-08-25.md`

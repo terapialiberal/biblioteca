@@ -5,6 +5,7 @@ aliases: ["Cártel Phoebus"]
 tags: [concepto, monopolio, obsolescencia-programada, cartel]
 tipo: concepto
 capa_tema: b
+sin_fuente: true
 ---
 
 # Cártel Phoebus

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [dinero, george, oscuro, robert]
 publish: true
+sin_fuente: true
 ---
 
 # Resumen General

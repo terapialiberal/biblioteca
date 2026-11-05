@@ -6,6 +6,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [matematica, gnosticismo, ia, incertidumbre, control]
 publish: true
+sin_fuente: true
 ---
 
 # Lógica Borrosa y Gnosis (V.3)

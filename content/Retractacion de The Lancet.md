@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [donald, lancet, retractacin, surgisphere]
 publish: true
+sin_fuente: true
 ---
 
 # Retractación de The Lancet: el Fraude de la "Ciencia" Como Arma de Guerra

@@ -7,18 +7,19 @@ nivel_evidencia: medio
 estado: activo
 tags: [project-nimbus, israel, nube, google, amazon, vigilancia, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Project Nimbus
 
 ## BLUF
 
-[[Project Nimbus]] importa en TL como infraestructura de nube soberano-militar: muestra como servicios comerciales de datos, IA y almacenamiento pueden volverse columna operativa de vigilancia, administracion territorial y guerra.
+[[Project Nimbus]] importa en TL como infraestructura de nube soberano-militar: muestra como servicios comerciales de datos, IA y almacenamiento pueden volverse columna operativa de vigilancia, administración territorial y guerra.
 
 ## Por que importa en TL
 
-- vuelve visible la fusion entre Big Tech y aparato estatal;
-- conecta computacion en nube con capacidad de vigilancia y decision operacional;
+- vuelve visible la fusión entre Big Tech y aparato estatal;
+- conecta computación en nube con capacidad de vigilancia y decisión operacional;
 - sirve para leer la capa digital de conflictos donde la logistica de datos pesa tanto como la logistica fisica.
 
 ## Que cambio
@@ -27,9 +28,9 @@ Esta nota estaba contaminada por un error: duplicaba el contenido de [[Plan Mars
 
 ## Lectura TL
 
-### 1. Infraestructura civil, uso estrategico
+### 1. Infraestructura civil, uso estratégico
 
-Nimbus refiere al contrato de nube entre el Estado de Israel y proveedores como [[Google]] y [[Amazon]]. Su importancia no esta solo en la tecnologia, sino en la conversion de servicios corporativos en capacidad estatal persistente.
+Nimbus refiere al contrato de nube entre el Estado de Israel y proveedores como [[Google]] y [[Amazon]]. Su importancia no esta solo en la tecnología, sino en la conversión de servicios corporativos en capacidad estatal persistente.
 
 ### 2. Datos, IA y soberania operacional
 
@@ -37,9 +38,9 @@ Cuando nube, almacenamiento y herramientas de IA quedan embebidas en gestion ter
 
 ### 3. Precedente del nuevo complejo tecno-estatal
 
-Su utilidad en TL es mostrar que el control contemporaneo no depende solo de armas o burocracia clasica. Tambien depende de stacks cloud, contratos empresariales y dependencia tecnica de plataformas privadas.
+Su utilidad en TL es mostrar que el control contemporaneo no depende solo de armas o burocracia clasica. También depende de stacks cloud, contratos empresariales y dependencia tecnica de plataformas privadas.
 
-### 4. Nube para mando y ocupacion
+### 4. Nube para mando y ocupación
 
 La nota gana más fuerza cuando se la conecta con [[Palantir AIP]], [[Shoshana Zuboff]] y [[00_MOC - Vigilancia Tecnica y SIGINT]]. Ahí Nimbus deja de ser solo contrato cloud y pasa a aparecer como capa de infraestructura para vigilancia, decisión y administración territorial.
 

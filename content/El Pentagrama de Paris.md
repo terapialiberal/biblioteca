@@ -8,6 +8,7 @@ tags: [paris, pentagrama, urbanismo, simbolismo, tl-intel-v3]
 capa_tema: c
 nivel_evidencia: bajo
 publish: true
+sin_fuente: true
 ---
 
 # El Pentagrama de Paris

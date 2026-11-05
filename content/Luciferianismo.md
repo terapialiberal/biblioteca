@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Luciferianismo: El Inversionismo Moral De La Elite"]
 tags: [luciferianismo, esoterismo, gnosis, inversion-moral, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Luciferianismo

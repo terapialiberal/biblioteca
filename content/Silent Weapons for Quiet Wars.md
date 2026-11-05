@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [matrix, milton, wars, weapons]
 publish: true
+sin_fuente: true
 ---
 
 # Silent Weapons For Quiet Wars: el Manual de Operaciones de la Matrix

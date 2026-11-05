@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [cjng, fentanilo, guerra, hbrida]
 publish: true
+sin_fuente: true
 ---
 
 # Fentanilo (Guerra Híbrida)

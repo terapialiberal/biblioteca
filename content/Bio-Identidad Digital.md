@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Bio-Identidad Digital (La Marca)"]
 tags: [bio-identidad, biometria, identidad-digital, scoring, control, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Bio-Identidad Digital
@@ -46,7 +47,7 @@ En TL, este nodo se vuelve central cuando se conecta con sistemas de cumplimient
 
 Leído junto con [[Digital ID - Global Protocol]], [[Biometria Global]] y [[Social Credit West]], este nodo resume la mutación desde identificación administrativa hacia administración integral del individuo.
 
-### 5. Prueba de humanidad como vector de adopcion
+### 5. Prueba de humanidad como vector de adopción
 
 En TL, este nodo gana densidad cuando la identidad biométrica se ofrece no como vigilancia sino como solución anti-bots, anti-fraude o anti-suplantación. La prueba de humanidad desplaza el eje del control: ya no parece castigo, parece higiene digital.
 
@@ -60,7 +61,7 @@ Leida junto con [[Worldcoin]] y [[Biometria Global]], la nota resume el punto de
 
 ### 8. Del cuerpo verificado al acceso programable
 
-En TL, este nodo gana su forma mas fuerte cuando se conecta con [[Digital ID - Global Protocol]], [[Social Credit West]] y [[CBDC]]. Ahi la bio-identidad ya no aparece como autenticacion reforzada, sino como posible base corporal de permisos, scoring y dinero filtrado.
+En TL, este nodo gana su forma mas fuerte cuando se conecta con [[Digital ID - Global Protocol]], [[Social Credit West]] y [[CBDC]]. Ahi la bio-identidad ya no aparece como autenticación reforzada, sino como posible base corporal de permisos, scoring y dinero filtrado.
 
 ## Conexiones
 

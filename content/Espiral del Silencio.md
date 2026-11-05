@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [consenso, correccin, espiral, silencio]
 publish: true
+sin_fuente: true
 ---
 
 # Espiral Del Silencio

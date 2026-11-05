@@ -7,13 +7,14 @@ nivel_evidencia: medio
 estado: activo
 tags: [crisis-financiera, bancos-centrales, lehman, war-game, real-estate-comercial, policrisis, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Crisis Financiera War Game Lehman 2026
 
 ## BLUF
 
-[[Crisis Financiera War Game Lehman 2026]] importa en TL porque muestra que la capa monetaria y bancaria tambien percibe fragilidad sistémica real en abril 2026. Su valor no está en leer el ejercicio como prueba automática de colapso inminente, sino en fijar que bancos centrales de peso ya war-gamean un escenario tipo Lehman mientras el sistema además arrastra shock energético, tensiones geopolíticas y saturación institucional.
+[[Crisis Financiera War Game Lehman 2026]] importa en TL porque muestra que la capa monetaria y bancaria también percibe fragilidad sistémica real en abril 2026. Su valor no está en leer el ejercicio como prueba automática de colapso inminente, sino en fijar que bancos centrales de peso ya war-gamean un escenario tipo Lehman mientras el sistema además arrastra shock energético, tensiones geopolíticas y saturación institucional.
 
 ## Por que importa en TL
 

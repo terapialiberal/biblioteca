@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [espiral, gran, mayora, silenciamiento]
 publish: true
+sin_fuente: true
 ---
 
 # Silenciamiento de la Mayoría: la Arquitectura del Aislamiento Social

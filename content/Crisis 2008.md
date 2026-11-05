@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Crisis Financiera 2008", "GFC", "Crisis Financiera Global 2008"]
 tags: [crisis-2008, finanzas, bailout, banca, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Crisis 2008

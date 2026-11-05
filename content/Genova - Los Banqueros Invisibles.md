@@ -7,6 +7,7 @@ tags: [banqueros, gnova, invisibles]
 capa_tema: "a"
 nivel_evidencia: "alto"
 publish: true
+sin_fuente: true
 ---
 
 # Génova - Los Banqueros Invisibles

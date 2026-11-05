@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Cuba (Régimen)"]
 tags: [cuba, caribe, comunismo, inteligencia, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Cuba

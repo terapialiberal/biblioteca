@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [familia-rockefeller, dinastias, fundaciones, banca, energia, gobernanza, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Familia Rockefeller

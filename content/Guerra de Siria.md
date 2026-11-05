@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [guerra, isis, operacin, siria]
 publish: true
+sin_fuente: true
 ---
 
 # Guerra De Siria

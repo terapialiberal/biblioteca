@@ -7,6 +7,7 @@ tags: [competencia, crteles, ilusin, plan]
 capa_tema: "a"
 nivel_evidencia: "alto"
 publish: true
+sin_fuente: true
 ---
 
 # Cárteles — La Ilusión De La Competencia

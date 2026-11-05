@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [george, limpieza, papers, selectiva]
 publish: true
+sin_fuente: true
 ---
 
 # Panama Papers: La Limpieza Selectiva Del Capital

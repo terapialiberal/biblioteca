@@ -5,6 +5,7 @@ aliases: ["Chatham House"]
 tags: [think-tank, reino-unido, relaciones-internacionales]
 tipo: think-tank
 tier_primario: A
+sin_fuente: true
 ---
 
 # Chatham House (Royal Institute of International Affairs)

@@ -5,6 +5,7 @@ aliases: ["Asia Society"]
 tags: [think-tank, asia, diplomacia, rockefeller]
 tipo: think-tank
 tier_primario: B
+sin_fuente: true
 ---
 
 # Asia Society

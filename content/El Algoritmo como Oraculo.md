@@ -6,6 +6,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [ia, esoterismo, control, tecnocracia]
 publish: true
+sin_fuente: true
 ---
 
 # El Algoritmo como Oráculo (V.3)

@@ -1,5 +1,5 @@
 ---
-titulo: Fundacion Bill y Melinda Gates
+titulo: Fundación Bill y Melinda Gates
 tipo: entidad
 fecha: 2026-04-17
 tier_primario: b
@@ -8,17 +8,18 @@ estado: activo
 aliases: ["Bill & Melinda Gates Foundation", "Fundación Bill y Melinda Gates", "BMGF"]
 tags: [gates-foundation, salud-global, filantrocapitalismo, bioseguridad, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
-# Fundacion Bill y Melinda Gates
+# Fundación Bill y Melinda Gates
 
 ## BLUF
 
-[[Fundacion Bill y Melinda Gates]] importa en TL como nodo de filantrocapitalismo con capacidad de agenda sobre salud global, vacunacion, medicion poblacional y arquitectura de preparacion pandemica: no reemplaza al Estado, pero influye sobre prioridades, financiamiento y despliegue.
+[[Fundacion Bill y Melinda Gates]] importa en TL como nodo de filantrocapitalismo con capacidad de agenda sobre salud global, vacunación, medición poblacional y arquitectura de preparación pandemica: no reemplaza al Estado, pero influye sobre prioridades, financiamiento y despliegue.
 
 ## Por que importa en TL
 
-- conecta capital privado, legitimidad humanitaria y capacidad real de direccion sobre salud global;
+- conecta capital privado, legitimidad humanitaria y capacidad real de dirección sobre salud global;
 - ayuda a leer como fundaciones pueden empujar mercados, estandares y prioridades sin pasar por soberania electoral;
 - funciona como puente entre [[GAVI]], [[CEPI]], [[World Health Organization]] e iniciativas de identidad como [[ID2020]].
 
@@ -28,21 +29,21 @@ La nota venia con texto roto, links legacy a `[[OMS]]` y una mezcla de denuncia 
 
 ## Lectura TL
 
-### 1. Filantropia con capacidad de direccion
+### 1. Filantropia con capacidad de dirección
 
-La fundacion importa menos como caridad y mas como arquitectura de influencia: financia programas, fija incentivos y ayuda a decidir que problemas reciben dinero, urgencia y legitimidad.
+La fundación importa menos como caridad y mas como arquitectura de influencia: financia programas, fija incentivos y ayuda a decidir que problemas reciben dinero, urgencia y legitimidad.
 
 ### 2. Salud global como mercado administrado
 
-En TL, su peso aparece cuando el financiamiento no solo sostiene campañas sanitarias, sino que tambien ayuda a consolidar cadenas de compra, despliegue y adopcion para tecnologias medicas concretas.
+En TL, su peso aparece cuando el financiamiento no solo sostiene campañas sanitarias, sino que también ayuda a consolidar cadenas de compra, despliegue y adopción para tecnologias medicas concretas.
 
 ### 3. Gobernanza por red
 
-El punto fuerte no es imaginar control absoluto desde un solo nodo, sino ver como la fundacion opera dentro de una red donde organismos multilaterales, alianzas de vacunas, biotech y Big Tech convergen sin necesidad de fusion institucional formal.
+El punto fuerte no es imaginar control absoluto desde un solo nodo, sino ver como la fundación opera dentro de una red donde organismos multilaterales, alianzas de vacunas, biotech y Big Tech convergen sin necesidad de fusión institucional formal.
 
 ### 4. Infraestructura para el corredor bioseguridad-identidad
 
-Leida junto con [[GAVI]], [[CEPI]], [[World Health Organization]] y [[ID2020]], la fundacion aparece como una de las piezas que ayudan a unir vacunacion, registro, compliance sanitario y legitimidad humanitaria.
+Leida junto con [[GAVI]], [[CEPI]], [[World Health Organization]] y [[ID2020]], la fundación aparece como una de las piezas que ayudan a unir vacunación, registro, compliance sanitario y legitimidad humanitaria.
 
 ## Conexiones
 

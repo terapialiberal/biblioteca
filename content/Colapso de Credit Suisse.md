@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [colapso, credit, suisse]
 publish: true
+sin_fuente: true
 ---
 
 # Colapso De Credit Suisse
@@ -14,7 +15,7 @@ publish: true
 > [!INFO] Contexto
 > Segundo banco suizo forzado a fusin de emergencia.
 
-## Qu Pas
+## Qué Pas
 
 En marzo de 2023, [[Credit Suisse]] colaps tras aos de escndalos y corrida bancaria.
 

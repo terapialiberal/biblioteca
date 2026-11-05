@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [elon, openai]
 publish: true
+sin_fuente: true
 ---
 
 # xAI

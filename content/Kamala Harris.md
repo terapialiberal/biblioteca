@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [envase, establishment, multicultural, silicon]
 publish: true
+sin_fuente: true
 ---
 
 # Kamala Harris: El Envase Multicultural Del Establishment

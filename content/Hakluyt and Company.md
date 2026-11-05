@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [company, hakluyt, henry, royal]
 publish: true
+sin_fuente: true
 ---
 
 # Hakluyt & Company

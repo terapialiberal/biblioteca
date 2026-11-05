@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Banco Central Europeo", "ECB", "European Central Bank"]
 tags: [bce, europa, banco-central, euro, cbdc, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # BCE

@@ -8,6 +8,7 @@ tags: [experimento-milgram, obediencia, autoridad, psicologia-social, operacione
 capa_tema: b
 nivel_evidencia: alto
 publish: true
+sin_fuente: true
 ---
 
 # Experimento Milgram

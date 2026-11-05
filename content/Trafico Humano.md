@@ -7,6 +7,7 @@ tags: [george, humano, plan, trfico]
 tier_primario: "a"
 nivel_evidencia: "alto"
 publish: true
+sin_fuente: true
 ---
 
 # Tráfico Humano — El Arma De La Desestabilización Demográfica

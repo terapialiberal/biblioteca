@@ -7,17 +7,18 @@ nivel_evidencia: medio
 estado: activo
 tags: [allen-dulles, cia, operaciones-encubiertas, guerra-fria, intelligence-establishment, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Allen Dulles
 
 ## BLUF
 
-[[Allen Dulles]] importa en TL como uno de los grandes arquitectos del aparato encubierto de Estados Unidos durante la Guerra Fria. Su trayectoria conecta [[OSS]], [[CIA]], redes legales-financieras de elite y la consolidacion de la accion clandestina como herramienta recurrente de politica exterior.
+[[Allen Dulles]] importa en TL como uno de los grandes arquitectos del aparato encubierto de Estados Unidos durante la Guerra Fria. Su trayectoria conecta [[OSS]], [[CIA]], redes legales-financieras de elite y la consolidación de la acción clandestina como herramienta recurrente de política exterior.
 
 ## Por que importa en TL
 
-- concentra en una figura la transicion desde inteligencia de guerra hacia intervencion encubierta permanente;
+- concentra en una figura la transición desde inteligencia de guerra hacia intervención encubierta permanente;
 - sirve para leer la conexion entre establishment juridico-financiero y seguridad nacional;
 - ordena un corredor que toca [[John Foster Dulles]], [[Hermanos Dulles]], [[Bahia de Cochinos]], [[Golpe en Iran 1953]] y [[Golpe en Guatemala]].
 
@@ -33,17 +34,17 @@ Dulles opero en la [[OSS]] durante la Segunda Guerra Mundial y mas tarde dirigio
 
 ### 2. Centralidad de las operaciones encubiertas
 
-Su periodo es clave para entender el auge de golpes, penetracion politica, guerra psicologica y accion clandestina como herramientas normales de la politica exterior estadounidense. En TL, eso vuelve a Dulles un nodo central del pasaje desde diplomacia clasica hacia intervencion discreta de alta negacion.
+Su periodo es clave para entender el auge de golpes, penetración política, guerra psicologica y acción clandestina como herramientas normales de la política exterior estadounidense. En TL, eso vuelve a Dulles un nodo central del pasaje desde diplomacia clasica hacia intervención discreta de alta negación.
 
-### 3. Relacion con establishment de elite
+### 3. Relación con establishment de elite
 
-La referencia constante a [[Sullivan & Cromwell]] y a su circulacion por entornos de elite importa menos por biografia colorida que por lo que revela del ecosistema de reclutamiento y confianza del aparato.
+La referencia constante a [[Sullivan & Cromwell]] y a su circulación por entornos de elite importa menos por biografia colorida que por lo que revela del ecosistema de reclutamiento y confianza del aparato.
 
 ### 4. Ruptura con Kennedy
 
 La crisis de [[Bahia de Cochinos]] y su salida de la CIA vuelven a Dulles una figura recurrente en lecturas TL sobre conflicto entre presidencia formal y aparato permanente. Ese punto requiere separar bien hechos comprobados de hipotesis posteriores, pero sigue siendo un nodo interpretativo importante.
 
-### 5. Operador del pasaje a la clandestinidad sistemica
+### 5. Operador del pasaje a la clandestinidad sistémica
 
 Leido junto con [[William Donovan]] y [[Henry Kissinger]], Dulles gana más relieve como figura del pasaje entre aparato fundacional, institucionalización de la CIA y normalización de la operación encubierta como herramienta estructural de política exterior.
 

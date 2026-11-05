@@ -7,6 +7,7 @@ tags: [billete, horus]
 capa_tema: "a"
 nivel_evidencia: "alto"
 publish: true
+sin_fuente: true
 ---
 
 # El Ojo De Horus En El Billete - La Vigilancia Del Crédito

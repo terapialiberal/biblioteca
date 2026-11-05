@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [maiman, mossad, yosef]
 publish: true
+sin_fuente: true
 ---
 
 # Yosef Maiman

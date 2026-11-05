@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [banco, cuadrada, milla, parasos]
 publish: true
+sin_fuente: true
 ---
 
 # La Milla Cuadrada: El Cuartel General De La Oligarquía Financiera

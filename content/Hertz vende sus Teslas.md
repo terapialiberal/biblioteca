@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [agenda, hertz, teslas, vende]
 publish: true
+sin_fuente: true
 ---
 
 # Hertz Vende Sus Teslas

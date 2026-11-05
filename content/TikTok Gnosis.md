@@ -6,6 +6,7 @@ nivel_evidencia: "alto"
 estado: activo
 tags: [tecnologia, fragmentacion, control-mental, gnosis]
 publish: true
+sin_fuente: true
 ---
 
 # TikTok Gnosis (V.3)

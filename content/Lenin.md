@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Vladimir Lenin"]
 tags: [lenin, urss, revolucion, comunismo, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Lenin

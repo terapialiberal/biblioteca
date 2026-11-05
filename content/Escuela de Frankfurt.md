@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [correccin, escuela, frankfurt, marxismo]
 publish: true
+sin_fuente: true
 ---
 
 # Escuela De Frankfurt

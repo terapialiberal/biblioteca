@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [astrazeneca, gins, hugo, sigman]
 publish: true
+sin_fuente: true
 ---
 
 # Hugo Sigman (Grupo Insud)

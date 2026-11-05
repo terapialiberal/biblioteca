@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [alphabet, google, holding, datos, plataformas, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Alphabet Inc

@@ -69,7 +69,7 @@ Los hutíes, con orientación iraní, forman parte de la ecuación de tres corre
 
 ## Caso 2026-09-24 — La guerra que está reordenando el mapa energético
 
-**Fuente principal:** transcripción del video LA GUERRA QUE ESTÁ REORDENANDO EL MAPA ENERGÉTICO (emitido 2026-09-24): `03_Produccion/2026-09-14_El_dia_despues_tiene_duenios/transcripcion.md`
+**Fuente principal:** transcripción del video LA GUERRA QUE ESTÁ REORDENANDO EL MAPA ENERGÉTICO (emitido 2026-09-24): `03_Produccion/2026-09-14_El_dia_despues_tiene_duenios/transcripción.md`
 
 **Hutíes: avance en la costa del Mar Rojo con orientación iraní, captura de Perim, paso selectivo declarado por Trump.** Los hutíes avanzaron sobre la costa occidental de Yemen en septiembre de 2026, tomando la ciudad de Mocha y la isla de Perim en el centro del estrecho de Bab el-Mandeb. El avance fue orientado directamente por la Guardia Revolucionaria Iraní, según Reuters, en el marco de la guerra EE.UU.-Irán. Irán instruyó a los hutíes para escalar los ataques contra Arabia Saudí en la semana previa a la captura de Mocha.
 
@@ -101,4 +101,4 @@ Los hutíes, con orientación iraní, forman parte de la ecuación de tres corre
 
 - **Reuters** (10/09/2026): https://www.reuters.com/world/middle-east/iranian-arms-advice-helped-yemens-houthis-seize-key-red-sea-city-sources-say-2026-09-10/
 - **DW Español** (14/09/2026): https://www.dw.com/es/ir%C3%A1n-niega-su-implicaci%C3%B3n-en-la-guerra-de-los-hut%C3%ADes-de-yemen/a-79259286
-- Transcripción del video LA GUERRA QUE ESTÁ REORDENANDO EL MAPA ENERGÉTICO (24/09/2026): `03_Produccion/2026-09-14_El_dia_despues_tiene_duenios/transcripcion.md`
+- Transcripción del video LA GUERRA QUE ESTÁ REORDENANDO EL MAPA ENERGÉTICO (24/09/2026): `03_Produccion/2026-09-14_El_dia_despues_tiene_duenios/transcripción.md`

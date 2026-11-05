@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [asesinato, mckinley]
 publish: true
+sin_fuente: true
 ---
 
 # Asesinato De McKinley

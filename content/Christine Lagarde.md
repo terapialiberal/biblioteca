@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [lagarde, bce, fmi, europa, cbdc, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Christine Lagarde

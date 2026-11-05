@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Proteína de Insectos"]
 tags: [proteina-de-insectos, alimentacion, dieta, agroindustria, sostenibilidad, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Proteina de Insectos

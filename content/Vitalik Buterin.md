@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [buterin, ethereum, vitalik]
 publish: true
+sin_fuente: true
 ---
 
 # Vitalik Buterin

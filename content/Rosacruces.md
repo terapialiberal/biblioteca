@@ -8,6 +8,7 @@ tags: [rosacruces, rosacrucismo, hermetismo, redes-discretas, esoterismo, tl-int
 tier_primario: c
 nivel_evidencia: medio
 publish: true
+sin_fuente: true
 ---
 
 # Rosacruces

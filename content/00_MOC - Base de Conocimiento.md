@@ -5,6 +5,7 @@ titulo: Base de Conocimiento
 fecha: 2026-04-07
 estado: activo
 tags: [moc, indice, tl-intel-v3, zettelkasten]
+sin_fuente: true
 ---
 
 # Base de Conocimiento

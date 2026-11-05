@@ -6,6 +6,7 @@ estado: activo
 tags: [albert, trazado, washington]
 nivel_evidencia: "alto"
 publish: true
+sin_fuente: true
 ---
 
 # Trazado De Washington D.C. (Arquitectura Talismánica)

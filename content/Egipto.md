@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Egipto (Geopolítica)"]
 tags: [egipto, suez, nilo, africa, medio-oriente, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Egipto

@@ -7,6 +7,7 @@ nivel_evidencia: alto
 estado: activo
 tags: [optogenetica, control-neuronal, cerebro, luz, darpa, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Optogenetica

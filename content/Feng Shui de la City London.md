@@ -8,6 +8,7 @@ tags: [city-of-london, feng-shui, urbanismo, simbolismo, tl-intel-v3]
 capa_tema: b
 nivel_evidencia: bajo
 publish: true
+sin_fuente: true
 ---
 
 # Feng Shui de la City London
@@ -18,7 +19,7 @@ Feng Shui de la City London es una lectura simbolica del distrito financiero lon
 
 ## Que es
 
-No afirma que la City este diseñada literalmente bajo feng shui. Usa la idea de flujo espacial para leer como arquitectura financiera organiza movimiento, prestigio y percepcion de poder.
+No afirma que la City este diseñada literalmente bajo feng shui. Usa la idea de flujo espacial para leer como arquitectura financiera organiza movimiento, prestigio y percepción de poder.
 
 ## Por que importa en TL
 
@@ -28,7 +29,7 @@ No afirma que la City este diseñada literalmente bajo feng shui. Usa la idea de
 
 ## Lectura TL
 
-La City gobierna por flujos: dinero, abogados, seguros, datos, reputacion. Su espacio fisico traduce esa funcion en torres, clubes, iglesias y fronteras institucionales.
+La City gobierna por flujos: dinero, abogados, seguros, datos, reputación. Su espacio fisico traduce esa función en torres, clubes, iglesias y fronteras institucionales.
 
 ## Conexiones
 

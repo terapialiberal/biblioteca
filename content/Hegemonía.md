@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Hegemonia", "Hegemonía (Concepto)"]
 tags: [hegemonia, poder, geopolitica, legitimacion, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Hegemonía

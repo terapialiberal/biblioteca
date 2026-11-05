@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Council on Foreign Relations", "Council on Foreign Relations (CFR)"]
 tags: [cfr, think-tanks, atlantismo, politica-exterior, coordinacion-elite, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # CFR
@@ -39,4 +40,4 @@ Si el sistema necesita continuidad narrativa para sostener sanciones, guerras po
 - [[BlackRock]]
 - [[WEF]]
 - [[Comision Trilateral]]
-- politica exterior de Estados Unidos
+- política exterior de Estados Unidos

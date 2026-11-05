@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [caso, guerra, nuclear, proyecto]
 publish: true
+sin_fuente: true
 ---
 
 # Caso Rosenberg (Espionaje Nuclear)

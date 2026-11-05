@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [apple, blackrock, foxconn]
 publish: true
+sin_fuente: true
 ---
 
 # Apple Inc

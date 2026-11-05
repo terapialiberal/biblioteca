@@ -8,23 +8,24 @@ estado: activo
 aliases: ["World Economic Forum", "Foro Economico Mundial"]
 tags: [wef, davos, gobernanza, tecnocracia, young-global-leaders, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # WEF
 
 ## BLUF
 
-[[WEF]] importa en TL como foro de coordinacion, socializacion de agenda y reclutamiento de elites transnacionales: su utilidad analitica esta menos en presentarlo como mando unico y mas en leerlo como interfaz estable entre corporaciones, Estados, filantropia estrategica y tecnocracia global.
+[[WEF]] importa en TL como foro de coordinación, socialización de agenda y reclutamiento de elites transnacionales: su utilidad analitica esta menos en presentarlo como mando unico y mas en leerlo como interfaz estable entre corporaciones, Estados, filantropia estratégica y tecnocracia global.
 
 ## Por que importa en TL
 
 - conecta [[Klaus Schwab]], [[Young Global Leaders]], [[Great Reset]] y la capa corporativa de [[World Economic Forum Strategic Partners]];
-- ayuda a leer Davos no solo como evento sino como dispositivo de alineacion entre agenda regulatoria, lenguaje de crisis y prestigio de elite;
-- funciona como puente entre redes privadas de poder y ejecucion estatal o semiestatal.
+- ayuda a leer Davos no solo como evento sino como dispositivo de alineación entre agenda regulatoria, lenguaje de crisis y prestigio de elite;
+- funciona como puente entre redes privadas de poder y ejecución estatal o semiestatal.
 
 ## Que cambio
 
-La nota venia en formato viejo y coexistia con `[[World Economic Forum]]` como duplicado conceptual. Se recompila como canonico breve del corredor `tecnocracia / davos / coordinacion transnacional` y absorbe el naming alternativo via aliases.
+La nota venia en formato viejo y coexistia con `[[World Economic Forum]]` como duplicado conceptual. Se recompila como canonico breve del corredor `tecnocracia / davos / coordinación transnacional` y absorbe el naming alternativo via aliases.
 
 ## Lectura TL
 
@@ -32,17 +33,17 @@ La nota venia en formato viejo y coexistia con `[[World Economic Forum]]` como d
 
 El WEF importa porque sincroniza prioridades, vocabulario y contactos. No hace falta atribuirle soberania absoluta para ver su peso como dispositivo de agenda.
 
-### 2. Reclutamiento y socializacion de cuadros
+### 2. Reclutamiento y socialización de cuadros
 
-Su valor analitico aumenta cuando se lo observa junto con [[Young Global Leaders]] y redes afines. El foro no solo debate: tambien detecta, premia y normaliza perfiles compatibles con cierto orden tecnocratico.
+Su valor analitico aumenta cuando se lo observa junto con [[Young Global Leaders]] y redes afines. El foro no solo debate: también detecta, premia y normaliza perfiles compatibles con cierto orden tecnocratico.
 
 ### 3. Crisis como oportunidad de rediseno
 
-Leido junto con [[Evento 201]], [[Great Reset]] y [[Agenda 2030]], el WEF ayuda a entender como distintas crisis pueden convertirse en ventanas para empujar reorganizacion economica, digital y regulatoria.
+Leido junto con [[Evento 201]], [[Great Reset]] y [[Agenda 2030]], el WEF ayuda a entender como distintas crisis pueden convertirse en ventanas para empujar reorganización económica, digital y regulatoria.
 
 ### 4. Capa visible de una red mas amplia
 
-El WEF sirve mejor como interfaz que como explicacion total. En TL, conviene leerlo conectado con socios corporativos, fundaciones, organismos multilaterales y consultoras antes que como actor aislado.
+El WEF sirve mejor como interfaz que como explicación total. En TL, conviene leerlo conectado con socios corporativos, fundaciones, organismos multilaterales y consultoras antes que como actor aislado.
 
 ## Conexiones
 

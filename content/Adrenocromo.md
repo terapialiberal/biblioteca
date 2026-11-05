@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [abuso, adrenocromo, jeffrey]
 publish: true
+sin_fuente: true
 ---
 
 # Adrenocromo

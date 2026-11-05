@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [cpulas, david, haavara, sinazis]
 publish: true
+sin_fuente: true
 ---
 
 # Sinazis: el Acuerdo Haavara: la Dialéctica de las Cúpulas

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [david, goldman, lloyd, solomon]
 publish: true
+sin_fuente: true
 ---
 
 # David Solomon

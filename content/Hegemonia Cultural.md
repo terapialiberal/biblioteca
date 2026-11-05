@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [antonio, cultural, hegemona, ventana]
 publish: true
+sin_fuente: true
 ---
 
 # Hegemonía Cultural

@@ -52,7 +52,7 @@ En TL, esto convierte a Ormuz en laboratorio de gobernanza de chokepoints: el cu
 
 ## Caso 2026-09-24 — La guerra que está reordenando el mapa energético
 
-**Fuente principal:** transcripción del video LA GUERRA QUE ESTÁ REORDENANDO EL MAPA ENERGÉTICO (emitido 2026-09-24): `03_Produccion/2026-09-14_El_dia_despues_tiene_duenios/transcripcion.md`
+**Fuente principal:** transcripción del video LA GUERRA QUE ESTÁ REORDENANDO EL MAPA ENERGÉTICO (emitido 2026-09-24): `03_Produccion/2026-09-14_El_dia_despues_tiene_duenios/transcripción.md`
 
 **Ormuz en la ecuación del conflicto actual: degradado y la ecuación de tres corredores.** En el contexto de la guerra EE.UU.-Irán, el Estrecho de Ormuz funciona como uno de los tres corredores energéticos principales en juego — junto con Bab el-Mandeb (Mar Rojo / Canal de Suez) y el oleoducto Este-Oeste de Arabia Saudí (Petroline). La tensión en Ormuz no se manifiesta como un cierre total sino como una **degradación del flujo**: riesgo creíble, ataques a buques, subas de seguros, presión sobre la navegación comercial. Esto ya es suficiente para alterar precios globales de petróleo y generar reacciones en cadena en el sistema energético internacional.
 
@@ -88,4 +88,4 @@ En TL, esto convierte a Ormuz en laboratorio de gobernanza de chokepoints: el cu
 ## Fuentes
 
 - **Reuters** (10/09/2026): https://www.reuters.com/world/middle-east/iranian-arms-advice-helped-yemens-houthis-seize-key-red-sea-city-sources-say-2026-09-10/
-- Transcripción del video LA GUERRA QUE ESTÁ REORDENANDO EL MAPA ENERGÉTICO (24/09/2026): `03_Produccion/2026-09-14_El_dia_despues_tiene_duenios/transcripcion.md`
+- Transcripción del video LA GUERRA QUE ESTÁ REORDENANDO EL MAPA ENERGÉTICO (24/09/2026): `03_Produccion/2026-09-14_El_dia_despues_tiene_duenios/transcripción.md`

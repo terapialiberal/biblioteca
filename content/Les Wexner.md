@@ -61,3 +61,8 @@ La lectura TL fuerte no necesita afirmar control total de Wexner sobre todo el s
 - [[El Pulpo (Casolaro)]] — Wexner → SAT → Iran-Contra → BCCI.
 - [[Roy Cohn]] — puente legal a Trump.
 - [[Fixer (Activo de Inteligencia)]] — financiador del fixer.
+
+## Fuentes
+
+- https://www.dropsitenews.com/p/jeffrey-epstein-iran-contra-planes-leslie-wexner-pottinger-leese-arms-weapons-smuggling  ·  en `06_Videos_Publicados\2026\2026-03-17_Iran_Stream\00_LINKS_Iran_2026.md`
+- https://www.bunkhistory.org/resources/epstein-israel-and-the-cia-how-the-iran-contra-planes-landed-at-les-wexners-base  ·  en `06_Videos_Publicados\2026\2026-07-13_Graham_BigThree_Ankara\00_CORPUS_FORENSE.md`

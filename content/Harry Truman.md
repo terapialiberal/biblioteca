@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [harry, israel, masonera, truman]
 publish: true
+sin_fuente: true
 ---
 
 # Harry S. Truman

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [creacin, enemigo, iran, zbigniew]
 publish: true
+sin_fuente: true
 ---
 
 # Revolución Iraní: la Creación del Enemigo Teocrático

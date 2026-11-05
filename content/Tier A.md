@@ -6,6 +6,7 @@ nivel_evidencia: "muy-alto"
 estado: activo
 tags: [poder, elite, estrategia, a-ideologico]
 publish: true
+sin_fuente: true
 ---
 
 # Tier A: Los Dueños (V.3)

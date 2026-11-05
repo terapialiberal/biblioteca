@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Rent-Seeking: el Parasitismo Institucionalizado"]
 tags: [rent-seeking, renta-politica, captura, privilegio, economia-politica, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Rent-Seeking

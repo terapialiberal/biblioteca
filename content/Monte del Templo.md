@@ -7,6 +7,7 @@ nivel_evidencia: "alto"
 estado: activo
 tags: [monte-del-templo, jerusalem, ben-gvir, smotrich, escatologia, e3-acelerador, agencia-descontrolada, waqf, al-aqsa, trigger-escatologico]
 fecha: 2026-03-12
+sin_fuente: true
 ---
 
 # Monte del Templo — El Trigger Escatológico con Cargo Ministerial

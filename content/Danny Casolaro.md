@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [bcci, casolaro, danny, promis]
 publish: true
+sin_fuente: true
 ---
 
 # Danny Casolaro

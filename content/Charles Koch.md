@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [cato, charles, koch, standard]
 publish: true
+sin_fuente: true
 ---
 
 # Charles Koch

@@ -1,5 +1,5 @@
 ---
-titulo: Operacion Chaos
+titulo: Operación Chaos
 tipo: evento
 fecha: 2026-04-21
 capa_tema: b
@@ -8,9 +8,10 @@ estado: activo
 aliases: ["Operación Chaos"]
 tags: [operacion-chaos, cia, vigilancia-domestica, disidencia, inteligencia, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
-# Operacion Chaos
+# Operación Chaos
 
 ## BLUF
 

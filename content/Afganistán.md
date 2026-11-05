@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Afganistan", "Afganistán (Conflicto)"]
 tags: [afganistan, asia-central, taliban, guerra, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Afganistán

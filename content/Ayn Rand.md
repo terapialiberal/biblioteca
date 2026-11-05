@@ -5,6 +5,7 @@ aliases: ["Ayn Rand"]
 tags: [actor, filosofia, objetivismo, libertarianismo]
 tipo: actor
 tier_primario: B
+sin_fuente: true
 ---
 
 # Ayn Rand

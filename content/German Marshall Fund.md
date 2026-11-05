@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [atlantic, fund, marshall, otan]
 publish: true
+sin_fuente: true
 ---
 
 # German Marshall Fund (GMF)

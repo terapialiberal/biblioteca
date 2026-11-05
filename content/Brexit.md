@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Brexit (Salida del Reino Unido de la UE)"]
 tags: [brexit, reino-unido, ue, soberania, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Brexit

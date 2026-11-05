@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [cientfico, darpa, jason, orculo]
 publish: true
+sin_fuente: true
 ---
 
 # Jason Group: El Oráculo Científico Del Pentágono

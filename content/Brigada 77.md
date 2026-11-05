@@ -8,6 +8,7 @@ estado: activo
 aliases: ["77th Brigade"]
 tags: [brigada-77, guerra-cognitiva, psyops, reino-unido, informacion, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Brigada 77
@@ -24,7 +25,7 @@ publish: true
 
 ## Que cambio
 
-La nota existía en formato muy viejo, con tipado incorrecto, links rotos y framing demasiado comprimido. Se recompila como entidad reusable y se alinea con los nodos de `JTRIG`, `Operacion Mockingbird` y `Guerra Cognitiva`.
+La nota existía en formato muy viejo, con tipado incorrecto, links rotos y framing demasiado comprimido. Se recompila como entidad reusable y se alinea con los nodos de `JTRIG`, `Operación Mockingbird` y `Guerra Cognitiva`.
 
 ## Que es
 

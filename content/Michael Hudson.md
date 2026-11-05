@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [hudson, michael]
 publish: true
+sin_fuente: true
 ---
 
 # Michael Hudson

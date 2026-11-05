@@ -4,6 +4,7 @@ tipo: corredor
 titulo: Françafrique
 estado: activo
 tags: [francia, africa, neocolonialismo, tl-intel-v3]
+sin_fuente: true
 ---
 
 # Françafrique

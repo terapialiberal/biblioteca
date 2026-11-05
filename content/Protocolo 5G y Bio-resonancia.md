@@ -6,6 +6,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [tecnologia, señales, bio-control, 5g]
 publish: true
+sin_fuente: true
 ---
 
 # Protocolo 5G y Bio-resonancia (V.3)

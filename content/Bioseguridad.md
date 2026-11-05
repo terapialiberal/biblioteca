@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [bioseguridad, salud-global, vigilancia, preparacion-pandemica, control, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Bioseguridad

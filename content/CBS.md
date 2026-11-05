@@ -6,6 +6,7 @@ estado: activo
 aliases: ["CBS News"]
 tags: [cbs, medios, television, eeuu, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # CBS

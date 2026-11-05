@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Golpe De Chile 1973"]
 tags: [golpe-de-chile-1973, chile, cia, kissinger, pinochet, cambio-de-regimen, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Golpe de Chile 1973
@@ -34,15 +35,15 @@ El Golpe de Chile de 1973 fue el derrocamiento violento del presidente Salvador 
 
 Chile importa porque el objetivo no fue solo quitar a un gobierno. El golpe abrió paso a una reconfiguración más profunda del país en lo político, represivo y económico.
 
-### 2. Trauma como condicion de reforma
+### 2. Trauma como condición de reforma
 
 En TL, su relevancia crece cuando se observa que la violencia no fue simple exceso represivo, sino condición de posibilidad para imponer un nuevo marco de gobernanza y reordenamiento social.
 
-### 3. Interseccion entre inteligencia y doctrina economica
+### 3. Intersección entre inteligencia y doctrina económica
 
 La nota gana espesor cuando se la conecta con [[CIA]], [[Henry Kissinger]] y [[Chicago Boys]]. Ahí el golpe deja de leerse como mera guerra fría ideológica y pasa a verse como articulación entre seguridad, recursos e ingeniería económica.
 
-### 4. Precedente de coordinacion regional
+### 4. Precedente de coordinación regional
 
 Leido junto con [[Operacion Condor]], el nodo ayuda a entender cómo Chile funcionó también como laboratorio y pivote para escaladas represivas posteriores a nivel sudamericano.
 

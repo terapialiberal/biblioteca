@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [clculo, econmico, ludwig, problema]
 publish: true
+sin_fuente: true
 ---
 
 # Problema Del Cálculo Económico: La Ceguera Del Leviatán

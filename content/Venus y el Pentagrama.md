@@ -8,6 +8,7 @@ tags: [venus, pentagrama, simbolismo, geometria, tl-intel-v3]
 capa_tema: c
 nivel_evidencia: medio
 publish: true
+sin_fuente: true
 ---
 
 # Venus y el Pentagrama
@@ -18,17 +19,17 @@ Venus y el Pentagrama conecta astronomia cultural, geometria simbolica y asociac
 
 ## Que es
 
-El movimiento aparente de Venus genero lecturas geometricas y simbolicas en distintas tradiciones. El pentagrama tambien tiene usos religiosos, magicos, esteticos y politicos muy variados.
+El movimiento aparente de Venus genero lecturas geometricas y simbolicas en distintas tradiciones. El pentagrama también tiene usos religiosos, magicos, esteticos y politicos muy variados.
 
 ## Por que importa en TL
 
 - ordena un simbolo recurrente sin inflarlo como prueba unica;
-- conecta estetica, deseo y legitimacion visual;
-- ayuda a distinguir geometria, tradicion e inferencia.
+- conecta estetica, deseo y legitimación visual;
+- ayuda a distinguir geometria, tradición e inferencia.
 
 ## Lectura TL
 
-El pentagrama no significa siempre lo mismo. Su poder esta en la ambivalencia: proteccion, belleza, inversion, magia, orden o amenaza segun contexto.
+El pentagrama no significa siempre lo mismo. Su poder esta en la ambivalencia: protección, belleza, inversión, magia, orden o amenaza según contexto.
 
 ## Conexiones
 
@@ -40,4 +41,4 @@ El pentagrama no significa siempre lo mismo. Su poder esta en la ambivalencia: p
 
 ## Nivel de evidencia
 
-Medio como simbolo historico-cultural. Bajo como indicio operativo aislado.
+Medio como simbolo histórico-cultural. Bajo como indicio operativo aislado.

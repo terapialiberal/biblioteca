@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Watergate (Escándalo)"]
 tags: [watergate, nixon, espionaje, estado-profundo, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Watergate

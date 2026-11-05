@@ -8,6 +8,7 @@ tags:
   - tier-b
 tipo: actor
 fecha: 2026-05-01
+sin_fuente: true
 ---
 
 # Oleg Deripaska

@@ -9,6 +9,7 @@ estado: activo
 aliases: ["Moneda Digital de Banco Central", "CBDC (Moneda Digital de Banco Central)", "CBDCs"]
 fuentes_clave: []
 tags: [cbdc, dinero-programable, banca-central, control-financiero, vigilancia-financiera, tl-intel-v3]
+sin_fuente: true
 ---
 
 # CBDC
@@ -35,7 +36,7 @@ La clave de una CBDC no es solo que sea "dinero digital", porque casi todo el di
 
 Por eso en TL la discusión no pasa por futurismo abstracto sino por gobernanza. Una CBDC puede servir para eficiencia de pagos, pero también para tasas negativas más fáciles de imponer, restricciones por tipo de consumo, expiración de saldos o segmentación financiera por perfil de riesgo.
 
-### 1. Emision central, control expandido
+### 1. Emisión central, control expandido
 
 La CBDC importa porque concentra en una sola capa la posibilidad de emitir, observar, condicionar y eventualmente restringir dinero bajo autoridad pública o cuasi pública.
 

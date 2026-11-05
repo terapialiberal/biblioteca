@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [glencore, marc, mossad, rich]
 publish: true
+sin_fuente: true
 ---
 
 # Marc Rich (Glencore)

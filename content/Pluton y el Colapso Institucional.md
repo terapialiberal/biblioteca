@@ -7,6 +7,7 @@ tags: [colapso, gran, plutn, solve]
 capa_tema: "a"
 nivel_evidencia: "alto"
 publish: true
+sin_fuente: true
 ---
 
 # Plutón Y El Colapso Institucional

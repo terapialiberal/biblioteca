@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [arte, fabricada, guerra, realidad]
 publish: true
+sin_fuente: true
 ---
 
 # Operación Mincemeat: El Arte De La Realidad Fabricada

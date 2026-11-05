@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Internet de los Cuerpos (IoB)", "IoB"]
 tags: [iob, wearables, implantes, bio-digital, control, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Internet de los Cuerpos
@@ -48,7 +49,7 @@ Leído junto con [[Bio-Identidad Digital]], [[Precision Medicine]] y [[Internet 
 
 Su importancia crece cuando sensores, wearables e implantes dejan de ser cuantificación voluntaria y empiezan a intervenir en seguros, tratamientos, productividad o acceso a servicios.
 
-### 6. Salud conectada como normalizacion del monitoreo
+### 6. Salud conectada como normalización del monitoreo
 
 Leido junto con [[ID2020]] y [[Genomic ID]], el nodo deja de parecer gadget futurista y pasa a verse como capa operativa donde identidad sanitaria, lectura biológica y retroalimentación continua convergen sobre el organismo.
 

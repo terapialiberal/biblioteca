@@ -5,6 +5,7 @@ aliases: ["BlackRock - Vanguard - State Street (Trifecta)", "BlackRock / Vanguar
 tags: [finanzas, gestora, poder-accionarial]
 tipo: concepto
 capa_tema: a
+sin_fuente: true
 ---
 
 # Trifecta de Gestión de Activos

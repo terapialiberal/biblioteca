@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [basilisk, elon, lesswrong, roko]
 publish: true
+sin_fuente: true
 ---
 
 # Roko's Basilisk: el Infoterrorismo de la Inteligencia Artificial

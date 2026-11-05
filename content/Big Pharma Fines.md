@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [big-pharma-fines, multas, fraude-farmaceutico, sanciones, industria-farmaceutica, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Big Pharma Fines

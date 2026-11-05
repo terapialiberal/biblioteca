@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [cargill, agroindustria, granos, logistica, alimentos, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Cargill

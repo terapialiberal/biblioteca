@@ -5,6 +5,7 @@ titulo: "Patrón - Tecnocracia Energética (Wood)"
 fecha: 2026-10-06
 estado: procesado
 tags: [patrones, tecnocracia-energetica, energia, carbono, wood, tl-intel-v3]
+sin_fuente: true
 ---
 
 # [[Patron - Tecnocracia Energetica (Wood)]]

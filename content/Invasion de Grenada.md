@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [atentado, grenada, invasin, ronald]
 publish: true
+sin_fuente: true
 ---
 
 # Invasión De Grenada

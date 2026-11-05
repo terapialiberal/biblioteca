@@ -7,12 +7,13 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [jane, turner]
 publish: true
+sin_fuente: true
 ---
 
 # Ted Turner
 
 > [!INFO] Perfil Operativo (Tier A)
-> **Resumen:** Fundador de CNN, primer canal de noticias 24/7. Revolucion la televisin.
+> **Resumen:** Fundador de CNN, primer canal de noticias 24/7. Revolución la televisin.
 > **Funcin Real:** Pionero del ciclo de noticias perpetuo. Mega-donante globalista.
 
 ## Biografa

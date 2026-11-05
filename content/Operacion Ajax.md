@@ -1,5 +1,5 @@
 ---
-titulo: Operacion Ajax
+titulo: Operación Ajax
 tipo: evento
 fecha: 2026-04-21
 capa_tema: b
@@ -8,9 +8,10 @@ estado: activo
 aliases: ["Operación Ajax"]
 tags: [operacion-ajax, golpe-de-estado, iran, cia, mi6, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
-# Operacion Ajax
+# Operación Ajax
 
 ## BLUF
 
@@ -28,7 +29,7 @@ La Operación Ajax fue el golpe impulsado por CIA y MI6 en 1953 para desplazar a
 
 ## Que cambio
 
-La nota seguía en formato manifiesto viejo, muy cargada de retórica y poco reusable. Se recompila como evento modular para integrarla mejor con `Operacion Gladio`, `Golpe en Iran 1953`, `MI6` y el corredor de golpes encubiertos.
+La nota seguía en formato manifiesto viejo, muy cargada de retórica y poco reusable. Se recompila como evento modular para integrarla mejor con `Operación Gladio`, `Golpe en Iran 1953`, `MI6` y el corredor de golpes encubiertos.
 
 ## Lectura TL
 

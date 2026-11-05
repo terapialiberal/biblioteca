@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Estado Profundo", "Estado Profundo (Deep State)", "Deep State (EEUU)"]
 tags: [deep-state, estado-profundo, burocracia, inteligencia, continuidad, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Deep State

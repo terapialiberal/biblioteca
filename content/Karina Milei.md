@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Karina Milei: La Arquitecta del Sosten Psico-Politico"]
 tags: [argentina, milei, karina, operadores, entorno-presidencial, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Karina Milei
@@ -24,25 +25,25 @@ publish: true
 
 ## Que cambio
 
-La nota venia muy cargada, con encoding roto y demasiado cerrada en una sola explicacion psicopolitica. Se recompila como perfil modular del corredor `argentina / entorno presidencial / operadores / control interno`.
+La nota venia muy cargada, con encoding roto y demasiado cerrada en una sola explicación psicopolitica. Se recompila como perfil modular del corredor `argentina / entorno presidencial / operadores / control interno`.
 
 ## Lectura TL
 
 ### 1. El poder de filtrar acceso
 
-En TL, Karina importa porque muestra que gran parte del poder real no pasa solo por decidir politicas, sino por decidir quien entra, quien queda afuera y bajo que condiciones se organiza la cercania al presidente.
+En TL, Karina importa porque muestra que gran parte del poder real no pasa solo por decidir políticas, sino por decidir quien entra, quien queda afuera y bajo que condiciones se organiza la cercania al presidente.
 
 ### 2. Lealtad antes que institucionalidad
 
-Su valor analitico aumenta cuando se la lee como pieza de orden interno: purgas, cierres del circulo de confianza y administracion de rivalidades que permiten sostener un esquema muy personalista de mando.
+Su valor analitico aumenta cuando se la lee como pieza de orden interno: purgas, cierres del circulo de confianza y administración de rivalidades que permiten sostener un esquema muy personalista de mando.
 
 ### 3. Complemento de la capa narrativa
 
-Leida junto con [[Santiago Caputo]], ayuda a pensar la division funcional del poder: una capa mas orientada a clima y estrategia, y otra mas orientada a caja, acceso, estructura y control del entorno.
+Leida junto con [[Santiago Caputo]], ayuda a pensar la división funcional del poder: una capa mas orientada a clima y estrategia, y otra mas orientada a caja, acceso, estructura y control del entorno.
 
 ### 4. Nodo util para leer la dinastica del presente
 
-Tambien importa porque permite ver como la politica contemporanea puede reordenarse alrededor de vinculos familiares, lealtades intensas y administracion cerrada del circulo de decision.
+También importa porque permite ver como la política contemporanea puede reordenarse alrededor de vinculos familiares, lealtades intensas y administración cerrada del circulo de decisión.
 
 ## Conexiones
 

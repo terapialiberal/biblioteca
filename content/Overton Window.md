@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [grilletes, overton, pensable, window]
 publish: true
+sin_fuente: true
 ---
 
 # Overton Window: Los Grilletes De Lo Pensable

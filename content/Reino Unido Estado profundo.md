@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [estado, invisible, reino, unido]
 publish: true
+sin_fuente: true
 ---
 
 # Reino Unido Estado Profundo: el Corazón del Imperio Invisible

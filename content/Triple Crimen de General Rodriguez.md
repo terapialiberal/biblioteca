@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [cartel, crimen, cristina, triple]
 publish: true
+sin_fuente: true
 ---
 
 # Triple Crimen De General Rodríguez

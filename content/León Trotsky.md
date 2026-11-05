@@ -5,6 +5,7 @@ aliases: ["Leon Trotsky", "Trotsky"]
 tags: [actor, revolucion-rusa, marxismo]
 tipo: actor
 tier_primario: B
+sin_fuente: true
 ---
 
 # León Trotsky

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [better, bill, cash, crdito]
 publish: true
+sin_fuente: true
 ---
 
 # Better Than Cash Alliance

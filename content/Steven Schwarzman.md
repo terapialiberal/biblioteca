@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [dueo, matrix, schwarzman, skull]
 publish: true
+sin_fuente: true
 ---
 
 # Steven Schwarzman: el Dueño de los Ladrillos de la Matrix

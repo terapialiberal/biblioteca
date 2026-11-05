@@ -9,6 +9,7 @@ nivel_evidencia: alto
 estado: activo
 aliases: ["Lindsey Olin Graham"]
 tags: [lindsey-graham, senador, republicano, halcon, bilderberg, wef, munich-security-conference, atlantismo, afganistan, tl-intel-v3]
+sin_fuente: true
 ---
 
 # Lindsey Graham
@@ -40,7 +41,7 @@ tags: [lindsey-graham, senador, republicano, halcon, bilderberg, wef, munich-sec
 ### 3. Quién lo financiaba (HECHO, FEC/OpenSecrets)
 
 - Super PAC "Security is Strength" (2015) bankrolleado por **defense contractors**. \[The Intercept]
-- OpenSecrets (FEC): defensa + **AIPAC**; Sheldon Adelson (casino pro-Israel) entre donantes. \[OpenSecrets · Politico]
+- OpenSecrets (FEC): defensa + **AIPAC**; Sheldon Adelson (casino pro-Israel) entre donantes. \[OpenSecrets · Político]
 - Esos contratistas ESTÁN bajo los **Big Three** (Vanguard/BlackRock/State Street). Graham = altavoz Tier C financiado por la MISMA cúspide que el video denuncia. \[Corpus forense caso Graham, Capa 1]
 
 ### 4. Le Cercle (🔶 INFERENCIA NO CONFIRMADA)

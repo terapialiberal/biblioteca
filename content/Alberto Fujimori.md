@@ -10,6 +10,7 @@ tags:
 tipo: actor
 tier_primario: B
 titulo: Alberto Fujimori
+sin_fuente: true
 ---
 
 # Alberto Fujimori

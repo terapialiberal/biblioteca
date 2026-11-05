@@ -7,6 +7,7 @@ tags: [baal, canan, pacto, territorio]
 capa_tema: "a"
 nivel_evidencia: "alto"
 publish: true
+sin_fuente: true
 ---
 
 # Canaán — El Territorio Del Pacto De Sangre

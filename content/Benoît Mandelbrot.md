@@ -5,6 +5,7 @@ aliases: ["Benoît Mandelbrot"]
 tags: [actor, matematicas, fractales, finanzas]
 tipo: actor
 tier_primario: C
+sin_fuente: true
 ---
 
 # Benoît Mandelbrot

@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Bill Browder (Caso Magnitsky)"]
 tags: [bill-browder, magnitsky, rusia, sanciones, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Bill Browder - Caso Magnitsky

@@ -6,6 +6,7 @@ estado: activo
 aliases: ["CIA (Central Intelligence Agency)", "Central Intelligence Agency"]
 tags: [cia, inteligencia, eeuu, operaciones-encubiertas, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # CIA

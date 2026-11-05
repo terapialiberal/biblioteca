@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [nudge, theory, world]
 publish: true
+sin_fuente: true
 ---
 
 # [[Nudge Theory 2.0]]

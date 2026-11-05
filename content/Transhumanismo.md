@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Transhumanismo (Movimiento)"]
 tags: [transhumanismo, biotecnologia, ia, cuerpo, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Transhumanismo

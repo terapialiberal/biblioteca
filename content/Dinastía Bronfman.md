@@ -5,6 +5,7 @@ aliases: ["Bronfman", "Familia Bronfman"]
 tags: [dinastia, alcohol, entretenimiento, filantropia, seagrams]
 tipo: dinastia
 tier_primario: B
+sin_fuente: true
 ---
 
 # Dinastía Bronfman

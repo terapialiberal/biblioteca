@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [hugo, marcos, moyano, sindicato]
 publish: true
+sin_fuente: true
 ---
 
 # Hugo Moyano

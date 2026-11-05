@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [aceleracionismo, altruismo, efectivo, marc]
 publish: true
+sin_fuente: true
 ---
 
 # E-acc (Aceleracionismo Efectivo)

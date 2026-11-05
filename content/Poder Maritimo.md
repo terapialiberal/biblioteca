@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [mahan, martimo, poder, thayer]
 publish: true
+sin_fuente: true
 ---
 
 # Poder Marítimo (Alfred Thayer Mahan)

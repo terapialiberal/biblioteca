@@ -5,41 +5,42 @@ fecha: 2026-04-19
 estado: activo
 tags: [petrodolar, dolar, energia, saudi, treasuries, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Sistema Petrodolar
 
 ## BLUF
 
-[[Sistema Petrodolar]] importa en TL como la arquitectura de reanclaje posterior a 1971: vincula energia, demanda global de dolares, reciclaje financiero y proteccion estrategica de EE.UU.
+[[Sistema Petrodolar]] importa en TL como la arquitectura de reanclaje posterior a 1971: vincula energía, demanda global de dólares, reciclaje financiero y protección estratégica de EE.UU.
 
 ## Por que importa en TL
 
-- explica como el dolar sobrevivio al fin del oro sin colapsar inmediatamente;
-- conecta petroleo, seguridad, [[Treasuries]] y poder militar en una misma logica;
-- sirve para entender por que la tesis actual ya no alcanza con decir solo `petroleo = dolar`.
+- explica como el dólar sobrevivio al fin del oro sin colapsar inmediatamente;
+- conecta petróleo, seguridad, [[Treasuries]] y poder militar en una misma logica;
+- sirve para entender por que la tesis actual ya no alcanza con decir solo `petróleo = dólar`.
 
 ## Que cambio
 
-La nota ya habia sido recompilada, pero seguia con restos de encoding roto y sin una definicion explicita de objeto. Se ajusta para dejar mas claro que es sistema y que es simplificacion.
+La nota ya habia sido recompilada, pero seguia con restos de encoding roto y sin una definición explicita de objeto. Se ajusta para dejar mas claro que es sistema y que es simplificación.
 
 ## Que es
 
-El sistema petrodolar es la combinacion de ventas energeticas denominadas en dolares, reciclaje de excedentes hacia finanzas occidentales y garantia politico-militar que vuelve estable esa relacion. No es solo moneda de facturacion: es una arquitectura de seguridad, liquidez y deuda.
+El sistema petrodolar es la combinación de ventas energeticas denominadas en dólares, reciclaje de excedentes hacia finanzas occidentales y garantia político-militar que vuelve estable esa relación. No es solo moneda de facturación: es una arquitectura de seguridad, liquidez y deuda.
 
 ## Lectura TL
 
-### 1. Reanclaje despues del oro
+### 1. Reanclaje después del oro
 
-Tras el [[Shock de Nixon]], el sistema necesito una nueva fuente de demanda estructural para el dolar. El petroleo ayudo a cumplir esa funcion.
+Tras el [[Shock de Nixon]], el sistema necesito una nueva fuente de demanda estructural para el dólar. El petróleo ayudo a cumplir esa función.
 
-### 2. Energia y reciclaje financiero
+### 2. Energía y reciclaje financiero
 
-La importancia no esta solo en vender petroleo en dolares. Tambien importa que se hace con esos excedentes: reciclaje hacia bonos del Tesoro, banca occidental e infraestructura de seguridad.
+La importancia no esta solo en vender petróleo en dólares. También importa que se hace con esos excedentes: reciclaje hacia bonos del Tesoro, banca occidental e infraestructura de seguridad.
 
 ### 3. No alcanza por si solo
 
-La correccion fuerte de 2026 es esta: el sistema petrodolar sigue siendo clave, pero ya no explica por si mismo todo el sosten del dolar. Hoy hay que sumar [[Treasuries]], rutas, liquidez y arquitectura de pagos.
+La corrección fuerte de 2026 es esta: el sistema petrodolar sigue siendo clave, pero ya no explica por si mismo todo el sosten del dólar. Hoy hay que sumar [[Treasuries]], rutas, liquidez y arquitectura de pagos.
 
 ### 4. Del petrodolar al reanclaje hibrido
 

@@ -7,23 +7,24 @@ nivel_evidencia: medio
 estado: activo
 tags: [leidos, contratistas, inteligencia, defensa, datos, privatizacion, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Leidos
 
 ## BLUF
 
-[[Leidos]] importa en TL como contratista de servicios tecnologicos, inteligencia, salud y defensa que ayuda a privatizar funciones estatales sensibles sin reducir control real del aparato. Su relevancia esta en mostrar como el Estado estrategico puede externalizar infraestructura operativa mientras gana continuidad, opacidad y flexibilidad burocratica.
+[[Leidos]] importa en TL como contratista de servicios tecnologicos, inteligencia, salud y defensa que ayuda a privatizar funciones estatales sensibles sin reducir control real del aparato. Su relevancia esta en mostrar como el Estado estratégico puede externalizar infraestructura operativa mientras gana continuidad, opacidad y flexibilidad burocratica.
 
 ## Por que importa en TL
 
-- deja ver que la expansion del poder no siempre llega via agencia nueva; muchas veces llega via contratista;
-- conecta datos, seguridad, salud, defensa e inteligencia bajo una misma logica de tercerizacion estructural;
+- deja ver que la expansión del poder no siempre llega via agencia nueva; muchas veces llega via contratista;
+- conecta datos, seguridad, salud, defensa e inteligencia bajo una misma logica de tercerización estructural;
 - sirve para leer la continuidad entre la vieja cultura de [[SAIC]] y el contratismo tecnocratico contemporaneo.
 
 ## Que cambio
 
-La nota existia en un formato intermedio, todavia demasiado corta y sin delta claro para la base viva. Se recompila como nodo canonico del corredor contratistas / inteligencia / privatizacion del esqueleto tecnico estatal.
+La nota existia en un formato intermedio, todavia demasiado corta y sin delta claro para la base viva. Se recompila como nodo canonico del corredor contratistas / inteligencia / privatización del esqueleto tecnico estatal.
 
 ## Lectura TL
 
@@ -33,7 +34,7 @@ Leidos importa porque muestra una dinamica central en TL: muchas funciones sensi
 
 ### 2. Opacidad por outsourcing
 
-Cuando inteligencia, analitica, soporte logistico, salud militar o administracion de sistemas se tercerizan, parte del poder se vuelve menos visible. Lo que antes era secreto estatal pasa a combinarse con secreto comercial y contratos tecnicos.
+Cuando inteligencia, analitica, soporte logistico, salud militar o administración de sistemas se tercerizan, parte del poder se vuelve menos visible. Lo que antes era secreto estatal pasa a combinarse con secreto comercial y contratos tecnicos.
 
 ### 3. Continuidad de aparato
 
@@ -41,7 +42,7 @@ Su relevancia aumenta al leerse como heredera de una cultura de seguridad nacion
 
 ### 4. Nodo de capa media
 
-Leidos no necesita protagonismo mediatico para ser importante. Su fuerza esta en ocupar funciones concretas dentro de infraestructuras que sostienen defensa, inteligencia, administracion de datos y servicios criticos.
+Leidos no necesita protagonismo mediatico para ser importante. Su fuerza esta en ocupar funciones concretas dentro de infraestructuras que sostienen defensa, inteligencia, administración de datos y servicios criticos.
 
 ## Con que conecta
 

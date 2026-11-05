@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [alex, atrazina, naciones]
 publish: true
+sin_fuente: true
 ---
 
 # Atrazina

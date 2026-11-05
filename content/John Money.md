@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [instituto, inversin, money, rockefeller]
 publish: true
+sin_fuente: true
 ---
 
 # John Money: El Ingeniero De La Inversión Antropológica

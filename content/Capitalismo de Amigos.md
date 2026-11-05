@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Capitalismo De Amigos (Crony Capitalism)", "Crony Capitalism"]
 tags: [capitalismo-de-amigos, crony-capitalism, captura, monopolio, estado-corporacion, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Capitalismo de Amigos

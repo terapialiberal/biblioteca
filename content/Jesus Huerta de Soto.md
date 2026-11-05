@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [huerta, jess, ludwig, soto]
 publish: true
+sin_fuente: true
 ---
 
 # Jesús Huerta De Soto: El Fabricante De La Disidencia Intelectual

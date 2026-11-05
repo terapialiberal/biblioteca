@@ -4,6 +4,7 @@ tipo: actor
 titulo: Jorge Rafael Videla
 estado: activo
 tags: [argentina, dictadura, militar, represion, tl-intel-v3]
+sin_fuente: true
 ---
 
 # Jorge Rafael Videla

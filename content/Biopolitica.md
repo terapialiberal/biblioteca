@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Biopolítica"]
 tags: [biopolitica, salud, gobernanza, cuerpo, bioseguridad, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Biopolitica
@@ -48,7 +49,7 @@ La capa relevante ya no es solo médica. Cuando estado biológico, credenciales 
 
 Leída junto con [[World Health Organization]], [[GAVI]], [[CEPI]], [[One Health]] y [[Pasaportes de Vacuna]], la biopolítica deja de ser teoría abstracta y pasa a funcionar como gramática de un ecosistema de gobernanza sanitaria más amplio.
 
-### 5. Del sujeto politico al sujeto verificable
+### 5. Del sujeto político al sujeto verificable
 
 La nota gana aun más fuerza cuando se la conecta con [[Digital ID - Global Protocol]] y [[Compliance]]. Ahí la biopolítica deja de ser solo administración de cuerpos y pasa a incluir validación, trazabilidad y acceso condicionado sobre la vida cotidiana.
 

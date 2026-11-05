@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [dick-cheney, guerra-de-irak, halliburton, ejecutivo, neocon, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Dick Cheney

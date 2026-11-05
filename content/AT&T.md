@@ -10,6 +10,7 @@ tags:
 tipo: empresa
 tier_primario: B
 titulo: AT&T
+sin_fuente: true
 ---
 
 # AT\&T

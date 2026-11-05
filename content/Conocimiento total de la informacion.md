@@ -1,5 +1,5 @@
 ---
-titulo: Conocimiento total de la informacion
+titulo: Conocimiento total de la información
 tipo: concepto
 fecha: 2026-04-19
 capa_tema: b
@@ -7,9 +7,10 @@ nivel_evidencia: medio
 estado: activo
 tags: [tia, total-information-awareness, vigilancia, datos, prediccion, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
-# Conocimiento total de la informacion
+# Conocimiento total de la información
 
 ## BLUF
 

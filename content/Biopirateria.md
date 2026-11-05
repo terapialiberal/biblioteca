@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [biopiratera, brics, naciones]
 publish: true
+sin_fuente: true
 ---
 
 # Biopiratería

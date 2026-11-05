@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [club-safari, inteligencia, cia, outsourcing, guerra-fria, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Club Safari

@@ -7,12 +7,13 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [dustin, moskovitz, open]
 publish: true
+sin_fuente: true
 ---
 
 # Dustin Moskovitz
 
 > [!INFO] Perfil Operativo (Tier B)
-> **Resumen:** Co-fundador de Facebook. Cuarto billonario ms joven de la historia. Ahora enfocado en "effective altruism".
+> **Resumen:** Co-fundador de Facebook. Cuarto billonario más joven de la historia. Ahora enfocado en "effective altruism".
 > **Funcin Real:** Financista de la agenda EA/bioseguridad que se volvi controversial con FTX.
 
 ## Biografa Resumida
@@ -21,7 +22,7 @@ Dustin Moskovitz fue roommate de Zuckerberg en Harvard y co-fund Facebook. Dej l
 
 Fund **Asana** (software de productividad) y **[[Open Philanthropy]]** con su esposa Cari Tuna. Open Philanthropy es uno de los mayores financistas del movimiento de "Effective Altruism".
 
-EA se volvi controversial tras el colapso de [[FTX & Sam Bankman-Fried|FTX]], cuyos fondos tambin venan del ecosistema EA.
+EA se volvi controversial tras el colapso de [[FTX & Sam Bankman-Fried|FTX]], cuyos fondos también venan del ecosistema EA.
 
 ## Red De Conexiones
 

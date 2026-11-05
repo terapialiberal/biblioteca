@@ -8,17 +8,18 @@ tags: [sindrome-estocolmo-estatal, estado, obediencia, psicologia-de-masas, tl-i
 capa_tema: b
 nivel_evidencia: medio
 publish: true
+sin_fuente: true
 ---
 
 # Sindrome de Estocolmo Estatal
 
 ## BLUF
 
-Sindrome de Estocolmo Estatal describe la identificacion emocional de una poblacion con el aparato que la vigila, disciplina o empobrece, hasta defenderlo como si fuera proteccion.
+Sindrome de Estocolmo Estatal describe la identificación emocional de una población con el aparato que la vigila, disciplina o empobrece, hasta defenderlo como si fuera protección.
 
 ## Que es
 
-Es una extension politica del patron de apego al captor. No debe usarse como diagnostico clinico literal, sino como metafora operativa para leer dependencia, miedo y legitimacion de autoridad.
+Es una extensión política del patron de apego al captor. No debe usarse como diagnostico clinico literal, sino como metafora operativa para leer dependencia, miedo y legitimación de autoridad.
 
 ## Por que importa en TL
 

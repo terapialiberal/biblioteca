@@ -8,6 +8,7 @@ moc_canonico: [[00_MOC - Argentina]]
 estado: activo
 fuentes_clave: []
 tags: [marcos-galperin, mercado-libre, mercado-pago, plataformas, tl-intel-v3]
+sin_fuente: true
 ---
 
 # [[Marcos Galperin]]

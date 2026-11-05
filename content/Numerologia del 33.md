@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [firma, masonera, matrix, trinity]
 publish: true
+sin_fuente: true
 ---
 
 # Numerología Del 33: La Firma Ritual En La Matrix

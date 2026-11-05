@@ -8,6 +8,7 @@ estado: activo
 aliases: ["LifeLog: La Privatizacion De La Vigilancia De DARPA"]
 tags: [lifelog, darpa, facebook, vigilancia, datos, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # LifeLog

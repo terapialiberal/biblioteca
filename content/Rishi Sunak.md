@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [cbdc, financiero, sunak, tecnocrtico]
 publish: true
+sin_fuente: true
 ---
 
 # Rishi Sunak: el Gestor Tecnocrático del Capital Financiero

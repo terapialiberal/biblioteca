@@ -4,6 +4,7 @@ tipo: concepto
 titulo: ISIS (Orígenes)
 estado: activo
 tags: [isis, siria, irak, proxies, guerra-hibrida, tl-intel-v3]
+sin_fuente: true
 ---
 
 # ISIS (Orígenes)

@@ -9,6 +9,7 @@ estado: activo
 aliases: ["Resumen General"]
 fuentes_clave: []
 tags: [autopsia-de-profecia, problema-reaccion-solucion, framing, psyops, tl-intel-v3]
+sin_fuente: true
 ---
 
 # [[Autopsia de Profecía]]

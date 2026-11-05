@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [agenda, ciudades]
 publish: true
+sin_fuente: true
 ---
 
 # Agenda 21

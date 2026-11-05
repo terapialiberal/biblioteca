@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [bill-gates, microsoft, filantrocapitalismo, salud-global, tecnocracia, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Bill Gates

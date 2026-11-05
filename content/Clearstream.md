@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [clearstream, clearing, custodia, luxemburgo, colateral, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Clearstream
@@ -31,7 +32,7 @@ La nota venía en formato legacy y demasiado centrada en la denuncia forense. Se
 
 Clearstream importa porque ayuda a fijar y transferir posiciones financieras a escala internacional sin que cada operación dependa de registros nacionales visibles para el público.
 
-### 2. Duopolio europeo de custodia y liquidacion
+### 2. Duopolio europeo de custodia y liquidación
 
 Leído junto con [[Euroclear]], el nodo muestra que buena parte del plumbing europeo de deuda y valores descansa en muy pocas infraestructuras privadas de alcance sistémico.
 
@@ -43,7 +44,7 @@ Su relevancia no depende solo de probar cada acusación histórica, sino de ente
 
 En TL, el nodo gana fuerza cuando se lo une a [[Beneficial Ownership]], [[DTCC]] y [[The Great Taking]]: la custodia internacional ayuda a que la titularidad real y el derecho exigible no coincidan de manera transparente para el tenedor final.
 
-### 5. Infraestructura financiera con sombra politica
+### 5. Infraestructura financiera con sombra política
 
 Leído junto con [[BCCI]] y [[Luxemburgo]], Clearstream deja de parecer solo un backend de mercado y pasa a verse como una pieza donde finanzas, secreto jurisdiccional y poder geopolítico pueden cruzarse.
 

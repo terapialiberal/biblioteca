@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [cuello, escudo, semiconductores, silicio]
 publish: true
+sin_fuente: true
 ---
 
 # Semiconductores: el Escudo de Silicio: el Cuello de Botella del Cerebro Global

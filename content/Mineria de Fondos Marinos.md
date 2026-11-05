@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [lockheed, minera, naciones, nueva]
 publish: true
+sin_fuente: true
 ---
 
 # Minería De Fondos Marinos (La Nueva Frontera TL V.3)

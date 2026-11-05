@@ -15,17 +15,17 @@ publish: true
 
 ## BLUF
 
-[[Palantir]] importa en TL como firma de software que conecta inteligencia, defensa, seguridad, salud y administracion algoritimica de grandes sistemas. Su valor no esta solo en integrar datos, sino en volverlos operables para vigilancia, priorizacion, coordinacion y toma de decisiones dentro de aparatos estatales y corporativos.
+[[Palantir]] importa en TL como firma de software que conecta inteligencia, defensa, seguridad, salud y administración algoritimica de grandes sistemas. Su valor no esta solo en integrar datos, sino en volverlos operables para vigilancia, priorización, coordinación y toma de decisiones dentro de aparatos estatales y corporativos.
 
 ## Por que importa en TL
 
 - ayuda a leer el pasaje desde vigilancia fragmentada hacia gobernanza algoritimica integrada;
-- conecta contratismo de defensa, analitica avanzada y administracion automatizada del riesgo;
+- conecta contratismo de defensa, analitica avanzada y administración automatizada del riesgo;
 - funciona como puente entre ecosistemas como [[In-Q-Tel]], [[Peter Thiel]], [[Palantir AIP]] y el corredor mas amplio de software de poder.
 
 ## Que cambio
 
-La nota seguia en un formato intermedio mas viejo que el resto del corredor y sin seccion de delta clara para la base viva. Se recompila como nodo canonico del tramo defensa / datos / decision algoritimica.
+La nota seguia en un formato intermedio mas viejo que el resto del corredor y sin sección de delta clara para la base viva. Se recompila como nodo canonico del tramo defensa / datos / decisión algoritimica.
 
 El archivo del video `ORDO AB CHAO! Nada es Accidental. Todo es GESTION DEL CAOS` agrega una capa nueva: [[Palantir]] deja de leerse solo como contratista o stack de analitica y pasa a figurar explicitamente como doctrina de orden. El valor ya no esta solo en integrar datos, sino en legitimar una moral del mando tecnico durante policrisis.
 
@@ -33,27 +33,27 @@ El archivo del video `ORDO AB CHAO! Nada es Accidental. Todo es GESTION DEL CAOS
 
 ### 1. De datos dispersos a mando operativo
 
-Palantir importa porque transforma informacion heterogenea en arquitectura de decision. Ese salto convierte bases sueltas, eventos y actores en algo accionable para inteligencia, seguridad, logistica o control.
+Palantir importa porque transforma información heterogenea en arquitectura de decisión. Ese salto convierte bases sueltas, eventos y actores en algo accionable para inteligencia, seguridad, logistica o control.
 
-### 2. Privatizacion funcional de capacidades soberanas
+### 2. Privatización funcional de capacidades soberanas
 
-En TL, su relevancia aumenta cuando se observa que funciones antes mas claramente estatales pasan a depender de plataformas privadas con enorme poder sobre flujos de informacion, visualizacion y coordinacion.
+En TL, su relevancia aumenta cuando se observa que funciones antes mas claramente estatales pasan a depender de plataformas privadas con enorme poder sobre flujos de información, visualización y coordinación.
 
 ### 3. Doble uso como principio estructural
 
-No hace falta limitarla a espionaje o defensa. Su potencia esta justamente en la portabilidad del stack: lo que sirve para teatro militar tambien puede migrar a policia, salud, frontera, compliance o gestion corporativa.
+No hace falta limitarla a espionaje o defensa. Su potencia esta justamente en la portabilidad del stack: lo que sirve para teatro militar también puede migrar a policia, salud, frontera, compliance o gestion corporativa.
 
 ### 4. Infraestructura de gobierno tecnico
 
-Palantir sirve para leer la consolidacion de una capa donde datos, permisos, scoring, simulacion y recomendacion operativa empiezan a reemplazar juicio politico abierto por mando tecnocratico.
+Palantir sirve para leer la consolidación de una capa donde datos, permisos, scoring, simulación y recomendación operativa empiezan a reemplazar juicio político abierto por mando tecnocratico.
 
 ### 5. Del software a la doctrina
 
-Cuando el discurso de la empresa se vuelve tan importante como sus contratos, [[Palantir]] empieza a operar tambien como aparato de justificacion. En TL, eso importa porque indica que la tecnocracia ya no busca solo vender herramientas: busca definir que tipo de orden se considera razonable despues del caos.
+Cuando el discurso de la empresa se vuelve tan importante como sus contratos, [[Palantir]] empieza a operar también como aparato de justificación. En TL, eso importa porque indica que la tecnocracia ya no busca solo vender herramientas: busca definir que tipo de orden se considera razonable después del caos.
 
 ### 6. Compliance, seguridad y captura tecnocratica
 
-Leida junto con [[Compliance]], [[Captura Regulatoria]] y [[Palantir AIP]], la nota gana otra capa: Palantir no solo procesa datos, tambien ofrece una forma de traducir regulación, riesgo y supervisión en mando operativo codificado dentro de plataformas privadas.
+Leida junto con [[Compliance]], [[Captura Regulatoria]] y [[Palantir AIP]], la nota gana otra capa: Palantir no solo procesa datos, también ofrece una forma de traducir regulación, riesgo y supervisión en mando operativo codificado dentro de plataformas privadas.
 
 ### 7. Bisagra entre vigilancia y gobierno
 
@@ -93,3 +93,11 @@ Lectura TL: cuando el Estado vende caos y pérdida de control, Palantir vende le
 - [[06_Videos_Publicados/2026/2026-04-28_TODO ES TEATRO/POSTMORTEM_INTEL|TODO ES TEATRO]] (28 abr 2026) — Palantir captura datos, Oracle captura compute, el Estado captura vigilancia. Shock WHCD → bill bunker/ballroom. USDA + Palantir.
 - [[06_Videos_Publicados/2026/2026-04-22_ORDO_AB_CHAOS/POSTMORTEM_INTEL|ORDO AB CHAOS]] (22 abr 2026) — Palantir no es influencia blanda: es infraestructura operativa. DOGE/Maven/SSA/Worldcoin como piezas de misma lógica de identidad, datos y administración.
 - [[06_Videos_Publicados/2026/2026-04-07_NWO_Energetico_Blueprint/POSTMORTEM_INTEL|NWO Energético Blueprint]] (7 abr 2026) — Palantir/Thiel/BlackRock/GIP/Carlyle como red de captura energético-digital.
+
+## Casos TL relacionados
+
+- [[06_Videos_Publicados/2026/2026-10-21_Diesel_Ormuz_Comida/POSTMORTEM_INTEL.md|Las élites controlan la política (21-10)]] — «servicio esencial OTAN»: Karp reclamó públicamente que Francia no puede expulsarlo por ser servicio esencial de la OTAN («France digital sovereignty going wrong») y Palantir aparece con 10M en la lista de donantes del salón, junto a Lockheed y Microsoft. — estado: confirmado.
+
+## Fuentes
+
+- https://www.reuters.com/technology/pentagon-adopt-palantir-ai-as-core-us-military-system-memo-says-2026-03-20/?taid=69be55e25e19590001dc556e\&utm\_campaign=trueAnthem:+Trending+Content\&utm\_medium=trueAnthem\&utm\_source=twitter  ·  en `06_Videos_Publicados\2026\2026-03-26_El_Reseteo_Perfecto\Fuentes.md`

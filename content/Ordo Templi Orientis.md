@@ -7,6 +7,7 @@ tags: [jack, ordo, orientis, templi]
 tier_primario: "b"
 nivel_evidencia: "alto"
 publish: true
+sin_fuente: true
 ---
 
 # Ordo Templi Orientis (OTO)

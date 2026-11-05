@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [charlie, gatekeepers, tpusa]
 publish: true
+sin_fuente: true
 ---
 
 # Resumen General

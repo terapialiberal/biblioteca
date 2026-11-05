@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Morgan Stanley (Banco)"]
 tags: [morgan-stanley, banca-inversion, wall-street, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Morgan Stanley

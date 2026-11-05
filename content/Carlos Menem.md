@@ -7,17 +7,18 @@ nivel_evidencia: medio
 estado: activo
 tags: [argentina, menem, privatizaciones, convertibilidad, noventa, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Carlos Menem
 
 ## BLUF
 
-[[Carlos Menem]] importa en TL como figura central de la reingenieria neoliberal argentina de los 90: concentra convertibilidad, privatizaciones, alineamiento externo y mutacion del Estado hacia una forma mas financierizada y dependiente.
+[[Carlos Menem]] importa en TL como figura central de la reingenieria neoliberal argentina de los 90: concentra convertibilidad, privatizaciones, alineamiento externo y mutación del Estado hacia una forma mas financierizada y dependiente.
 
 ## Por que importa en TL
 
-- conecta convertibilidad, privatizaciones, FMI, apertura y nueva relacion entre politica y grandes negocios;
+- conecta convertibilidad, privatizaciones, FMI, apertura y nueva relación entre política y grandes negocios;
 - ayuda a leer los 90 no como episodio aislado sino como matriz de varias recurrencias posteriores;
 - funciona como nodo de cruce entre [[Domingo Cavallo]], [[FMI]], [[AMIA]] y [[Crisis de 2001]].
 
@@ -29,19 +30,19 @@ La nota venia como ficha minima, con encoding roto y poco valor reusable. Se rec
 
 ### 1. Orden de shock con legitimidad electoral
 
-En TL, Menem importa porque muestra como un programa de transformacion profunda del Estado puede avanzar con amplio respaldo inicial, apelando a estabilizacion, consumo y modernizacion.
+En TL, Menem importa porque muestra como un programa de transformación profunda del Estado puede avanzar con amplio respaldo inicial, apelando a estabilización, consumo y modernización.
 
-### 2. Privatizacion y reordenamiento del poder
+### 2. Privatización y reordenamiento del poder
 
-Su valor analitico aumenta cuando se observa que las privatizaciones no fueron solo ventas de activos: tambien redistribuyeron poder, dependencia y acceso a rentas dentro del sistema argentino.
+Su valor analitico aumenta cuando se observa que las privatizaciones no fueron solo ventas de activos: también redistribuyeron poder, dependencia y acceso a rentas dentro del sistema argentino.
 
-### 3. Alineamiento exterior y mutacion interna
+### 3. Alineamiento exterior y mutación interna
 
-Leido junto con [[FMI]] y la apertura economica, el nodo ayuda a ver como alineamiento geopolitico, deuda y transformacion productiva quedaron integrados en una sola direccion de gobierno.
+Leido junto con [[FMI]] y la apertura económica, el nodo ayuda a ver como alineamiento geopolitico, deuda y transformación productiva quedaron integrados en una sola dirección de gobierno.
 
 ### 4. Antecedente directo de la crisis posterior
 
-Tambien importa porque sirve como puente entre la promesa de estabilidad de los 90 y la fragilidad acumulada que desemboca en [[Crisis de 2001]].
+También importa porque sirve como puente entre la promesa de estabilidad de los 90 y la fragilidad acumulada que desemboca en [[Crisis de 2001]].
 
 ## Conexiones
 

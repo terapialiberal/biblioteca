@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [consenso, francis, fukuyama, neoconservadurismo]
 publish: true
+sin_fuente: true
 ---
 
 # Francis Fukuyama

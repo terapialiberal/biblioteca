@@ -6,6 +6,7 @@ fecha: 2026-04-07
 estado: activo
 moc_canonico: [[00_MOC - Base de Conocimiento]]
 tags: [moc, patrones, modelos-mentales, tl-intel-v3]
+sin_fuente: true
 ---
 
 # MOC - Patrones Clasicos de Poder

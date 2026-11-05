@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [digital, ethereum, matrix, verdugo]
 publish: true
+sin_fuente: true
 ---
 
 # Smart Contracts: el Verdugo Automático de la Matrix Digital

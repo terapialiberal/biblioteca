@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [gobernanza, naciones, sistema, unidas]
 publish: true
+sin_fuente: true
 ---
 
 # Naciones Unidas: El Sistema Operativo De La Gobernanza Global

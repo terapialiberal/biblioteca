@@ -4,6 +4,7 @@ tipo: entidad
 titulo: IRS
 estado: activo
 tags: [eeuu, impuestos, enforcement, estado, tl-intel-v3]
+sin_fuente: true
 ---
 
 # IRS

@@ -6,19 +6,20 @@ estado: activo
 aliases: ["USDS"]
 tags: [tether, stablecoins, dolar-digital, treasuries, control-financiero, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Tether USDS
 
 ## BLUF
 
-[[Tether USDS]] importa en TL como hipotesis de mutacion regulada de la mayor stablecoin del mercado: de instrumento gris y offshore a pieza funcional del blindaje del dolar, con mas integracion a reservas en [[Treasuries]] y a la capa de enforcement occidental.
+[[Tether USDS]] importa en TL como hipotesis de mutación regulada de la mayor stablecoin del mercado: de instrumento gris y offshore a pieza funcional del blindaje del dólar, con mas integración a reservas en [[Treasuries]] y a la capa de enforcement occidental.
 
 ## Por que importa en TL
 
-- permite leer a Tether menos como excepcion cripto y mas como brazo informal del dolar;
+- permite leer a Tether menos como excepción cripto y mas como brazo informal del dólar;
 - conecta deuda estadounidense, liquidez global, vigilancia financiera y rails digitales;
-- ayuda a pensar la transicion desde el petrodolar clasico hacia mecanismos de demanda monetaria mas distribuidos y programables.
+- ayuda a pensar la transición desde el petrodolar clasico hacia mecanismos de demanda monetaria mas distribuidos y programables.
 
 ## Que cambio
 
@@ -38,13 +39,13 @@ Si parte del problema central es como seguir sosteniendo la demanda por deuda de
 
 La promesa de refugio frente a monedas debiles sigue operando a nivel de usuario, pero en TL importa la otra cara: wallets congelables, compliance creciente y dependencia de custodios conectados con el poder estatal-financiero.
 
-### 4. Prefiguracion del dolar digital privado
+### 4. Prefiguración del dólar digital privado
 
-Leido junto con [[Stablecoin Regulation US]] y [[Howard Lutnick]], el nodo deja de ser una anomalia del mercado cripto y pasa a parecerse a un prototipo pragmatico de dolar digital privado supervisado.
+Leido junto con [[Stablecoin Regulation US]] y [[Howard Lutnick]], el nodo deja de ser una anomalia del mercado cripto y pasa a parecerse a un prototipo pragmatico de dólar digital privado supervisado.
 
-### 5. Distribucion de Treasuries por rail privado
+### 5. Distribución de Treasuries por rail privado
 
-Su valor en TL aumenta cuando se lo conecta con [[GENIUS Act]], [[Tokenized Sovereign Debt]] y [[Reanclaje Hibrido]]. Ahi Tether deja de ser solo stablecoin dominante y empieza a leerse como canal potencial de distribucion internacional de deuda, liquidez dolarizada y enforcement financiero en formato portable.
+Su valor en TL aumenta cuando se lo conecta con [[GENIUS Act]], [[Tokenized Sovereign Debt]] y [[Reanclaje Hibrido]]. Ahi Tether deja de ser solo stablecoin dominante y empieza a leerse como canal potencial de distribución internacional de deuda, liquidez dolarizada y enforcement financiero en formato portable.
 
 ## Con que conecta
 

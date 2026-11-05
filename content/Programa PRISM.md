@@ -8,6 +8,7 @@ estado: activo
 aliases: ["PRISM", "Programa PRISM: El Cordón Umbilical De La Vigilancia"]
 tags: [prism, nsa, vigilancia, big-tech, datos, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Programa PRISM

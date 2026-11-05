@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [evelyn, jeffrey, lynn, rothschild]
 publish: true
+sin_fuente: true
 ---
 
 # Evelyn De Rothschild

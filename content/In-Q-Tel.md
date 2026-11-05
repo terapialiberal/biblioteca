@@ -8,41 +8,42 @@ estado: activo
 aliases: [In Q Tel, IQT]
 tags: [in-q-tel, cia, venture-capital, inteligencia, defensa, tecnologia, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # In-Q-Tel
 
 ## BLUF
 
-[[In-Q-Tel]] importa en TL como vehiculo de inversion tecnologica ligado al ecosistema de inteligencia estadounidense, orientado a detectar, financiar y acercar capacidades emergentes al aparato de seguridad nacional. Su utilidad analitica esta en mostrar como venture capital, inteligencia y contratismo pueden converger antes de que una tecnologia se masifique.
+[[In-Q-Tel]] importa en TL como vehiculo de inversión tecnológica ligado al ecosistema de inteligencia estadounidense, orientado a detectar, financiar y acercar capacidades emergentes al aparato de seguridad nacional. Su utilidad analitica esta en mostrar como venture capital, inteligencia y contratismo pueden converger antes de que una tecnología se masifique.
 
 ## Por que importa en TL
 
-- conecta comunidad de inteligencia, startups y adopcion temprana de tecnologias sensibles;
-- ayuda a leer como el poder no solo compra tecnologia terminada, sino que moldea su trayectoria desde etapas iniciales;
+- conecta comunidad de inteligencia, startups y adopción temprana de tecnologias sensibles;
+- ayuda a leer como el poder no solo compra tecnología terminada, sino que moldea su trayectoria desde etapas iniciales;
 - funciona como nodo de acople entre [[Palantir]], [[Peter Thiel]], ecosistemas de datos y el corredor mas amplio de gobernanza tecnica.
 
 ## Que cambio
 
-La nota estaba en formato minimo viejo, demasiado corta para la base viva actual. Se recompila como nodo canonico del corredor inteligencia / venture / incubacion tecnologica.
+La nota estaba en formato minimo viejo, demasiado corta para la base viva actual. Se recompila como nodo canonico del corredor inteligencia / venture / incubación tecnológica.
 
 ## Lectura TL
 
-### 1. Capital con funcion estrategica
+### 1. Capital con función estratégica
 
-In-Q-Tel importa porque no opera como venture capital neutral. Su razon de ser es reducir distancia entre innovacion emergente y necesidades del aparato de inteligencia y seguridad.
+In-Q-Tel importa porque no opera como venture capital neutral. Su razon de ser es reducir distancia entre innovación emergente y necesidades del aparato de inteligencia y seguridad.
 
-### 2. Precaptura de tecnologia
+### 2. Precaptura de tecnología
 
-En TL, su valor aparece cuando se observa que ciertas capacidades no entran al Estado solo por contrato posterior. Muchas veces son orientadas, testeadas o acercadas desde antes mediante redes de inversion y validacion temprana.
+En TL, su valor aparece cuando se observa que ciertas capacidades no entran al Estado solo por contrato posterior. Muchas veces son orientadas, testeadas o acercadas desde antes mediante redes de inversión y validación temprana.
 
 ### 3. Frontera borrosa entre mercado y aparato
 
-Su relevancia crece al mostrar que la innovacion tecnologica no siempre sigue un camino puramente comercial. Puede nacer en una zona gris donde interes estrategico, financiamiento y despliegue institucional avanzan en paralelo.
+Su relevancia crece al mostrar que la innovación tecnológica no siempre sigue un camino puramente comercial. Puede nacer en una zona gris donde interes estratégico, financiamiento y despliegue institucional avanzan en paralelo.
 
 ### 4. Nodo de genealogia
 
-In-Q-Tel sirve para mapear genealogias: que empresas, stacks y fundadores quedan mejor posicionados cuando el criterio de adopcion ya no es solo mercado sino compatibilidad con inteligencia, defensa y gobierno tecnico.
+In-Q-Tel sirve para mapear genealogias: que empresas, stacks y fundadores quedan mejor posicionados cuando el criterio de adopción ya no es solo mercado sino compatibilidad con inteligencia, defensa y gobierno tecnico.
 
 ### 5. Incubadora del stack
 

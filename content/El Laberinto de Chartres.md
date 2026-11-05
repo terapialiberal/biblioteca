@@ -8,6 +8,7 @@ tags: [laberinto-chartres, arquitectura-sacra, peregrinacion, simbolismo, tl-int
 capa_tema: c
 nivel_evidencia: alto
 publish: true
+sin_fuente: true
 ---
 
 # El Laberinto de Chartres

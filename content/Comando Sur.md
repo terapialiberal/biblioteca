@@ -8,13 +8,14 @@ estado: activo
 aliases: ["SOUTHCOM"]
 tags: [eeuu, comando-sur, seguridad, geopolitica, argentina, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Comando Sur
 
 ## BLUF
 
-[[Comando Sur]] importa en TL como brazo de lectura, influencia y coordinacion estrategica de Estados Unidos sobre America Latina: combina seguridad, doctrina, recursos, infraestructura y competencia con potencias rivales dentro de una misma matriz operacional.
+[[Comando Sur]] importa en TL como brazo de lectura, influencia y coordinación estratégica de Estados Unidos sobre America Latina: combina seguridad, doctrina, recursos, infraestructura y competencia con potencias rivales dentro de una misma matriz operacional.
 
 ## Por que importa en TL
 
@@ -30,7 +31,7 @@ Se crea nodo canonico para evitar depender de titulos circunstanciales como [[Li
 
 ### 1. Seguridad como interfaz de recursos
 
-Cuando el Comando Sur habla de minerales, agua, puertos o infraestructura critica, TL no lo lee como comentario accesorio. Lo lee como traduccion militar de intereses geoeconomicos.
+Cuando el Comando Sur habla de minerales, agua, puertos o infraestructura critica, TL no lo lee como comentario accesorio. Lo lee como traducción militar de intereses geoeconomicos.
 
 ### 2. Infraestructura y vigilancia regional
 
@@ -38,11 +39,11 @@ El nodo ayuda a conectar presencia militar, ejercicios, convenios y monitoreo co
 
 ### 3. Competencia con China
 
-Leido junto con [[Base China en Neuquen]] y [[Triangulo del Litio]], muestra que la region aparece como tablero de disputa entre aseguramiento estadounidense e insercion china.
+Leido junto con [[Base China en Neuquen]] y [[Triangulo del Litio]], muestra que la región aparece como tablero de disputa entre aseguramiento estadounidense e inserción china.
 
 ### 4. Uso operativo para la rama Argentina
 
-En la base TL, este nodo sirve como puente entre recursos estrategicos, Atlantico Sur, fronteras porosas y narrativas de estabilizacion regional.
+En la base TL, este nodo sirve como puente entre recursos estrategicos, Atlantico Sur, fronteras porosas y narrativas de estabilización regional.
 
 ## Conexiones
 

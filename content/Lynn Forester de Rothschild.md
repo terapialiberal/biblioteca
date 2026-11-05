@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Lynn Forester De Rothschild: El Puente Entre El Capital Y La Politica"]
 tags: [lynn-forester, rothschild, capitalismo-inclusivo, clinton, redes-de-poder, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Lynn Forester de Rothschild

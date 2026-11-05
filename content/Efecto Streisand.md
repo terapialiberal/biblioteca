@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [censura, efecto, psicologa, streisand]
 publish: true
+sin_fuente: true
 ---
 
 # Efecto Streisand (Censura)

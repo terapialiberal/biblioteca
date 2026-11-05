@@ -8,13 +8,14 @@ tags: [john-dee, enoquiano, criptografia, ocultismo, tl-intel-v3]
 tier_primario: c
 nivel_evidencia: medio
 publish: true
+sin_fuente: true
 ---
 
 # John Dee y el Lenguaje Enoquiano
 
 ## BLUF
 
-John Dee y el lenguaje enoquiano conectan corte isabelina, ocultismo, matematica, navegacion, inteligencia temprana y autoridad del lenguaje reservado.
+John Dee y el lenguaje enoquiano conectan corte isabelina, ocultismo, matematica, navegación, inteligencia temprana y autoridad del lenguaje reservado.
 
 ## Que es
 
@@ -22,13 +23,13 @@ John Dee fue matematico, consejero y figura esoterica inglesa. El corpus enoquia
 
 ## Por que importa en TL
 
-- muestra la mezcla premoderna entre ciencia, magia, Estado y expansion imperial;
-- conecta lenguaje secreto, criptografia e iniciacion;
+- muestra la mezcla premoderna entre ciencia, magia, Estado y expansión imperial;
+- conecta lenguaje secreto, criptografia e iniciación;
 - ayuda a leer la autoridad de codigos reservados.
 
 ## Lectura TL
 
-Dee importa porque el poder moderno nace tambien de mapas, calculo, simbolos y secreto. La frontera entre saber tecnico y saber ritual no siempre fue nitida.
+Dee importa porque el poder moderno nace también de mapas, calculo, simbolos y secreto. La frontera entre saber tecnico y saber ritual no siempre fue nitida.
 
 ## Conexiones
 
@@ -40,4 +41,4 @@ Dee importa porque el poder moderno nace tambien de mapas, calculo, simbolos y s
 
 ## Nivel de evidencia
 
-Medio: alto para Dee como figura historica; bajo para claims sobrenaturales.
+Medio: alto para Dee como figura histórica; bajo para claims sobrenaturales.

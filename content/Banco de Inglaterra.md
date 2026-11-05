@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Banco De Inglaterra", "Banco de Inglaterra (BoE)", "Bank of England"]
 tags: [banco-de-inglaterra, boe, banca-central, city-londres, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Banco de Inglaterra

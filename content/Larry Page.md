@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [destino, google, humano, sergey]
 publish: true
+sin_fuente: true
 ---
 
 # Larry Page: El Programador Del Destino Humano

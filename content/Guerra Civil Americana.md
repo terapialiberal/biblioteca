@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [asesinato, civil, guerra, reserva]
 publish: true
+sin_fuente: true
 ---
 
 # Guerra Civil Americana

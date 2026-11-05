@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [accin, fuente, ludwig, praxeologa]
 publish: true
+sin_fuente: true
 ---
 
 # La Acción Humana: El Código Fuente De La Desobediencia Económica

@@ -6,6 +6,7 @@ tier_primario: c
 nivel_evidencia: medio-alto
 tags: [cienciologia, sectas, inteligencia, religion, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Cienciología

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [george, octubre, poder, rehenes]
 publish: true
+sin_fuente: true
 ---
 
 # Octubre Sorpresa 1980: El Mercado De Rehenes Por Poder

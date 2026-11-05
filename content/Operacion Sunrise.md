@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [impunidad, pacto, secreto, sunrise]
 publish: true
+sin_fuente: true
 ---
 
 # Operación Sunrise: El Pacto Secreto De La Impunidad

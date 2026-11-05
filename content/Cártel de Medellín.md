@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Cartel de Medellin", "Cártel de Medellín"]
 tags: [cartel-medellin, narcotrafico, colombia, escobar, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Cártel de Medellín

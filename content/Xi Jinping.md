@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Xi"]
 tags: [xi-jinping, china, partido-comunista-chino, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Xi Jinping

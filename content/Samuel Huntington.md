@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [conflicto, harvard, huntington, samuel]
 publish: true
+sin_fuente: true
 ---
 
 # Samuel Huntington: el Arquitecto del Conflicto de Civilizaciones

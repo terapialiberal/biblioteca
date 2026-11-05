@@ -10,6 +10,7 @@ tags:
 tipo: actor
 tier_primario: C
 titulo: Adam Weishaupt
+sin_fuente: true
 ---
 
 # Adam Weishaupt

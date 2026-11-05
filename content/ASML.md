@@ -3,6 +3,7 @@ publish: true
 titulo: ASML
 tipo: entidad
 estado: activo
+sin_fuente: true
 ---
 
 # ASML (TL V.3)

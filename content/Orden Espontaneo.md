@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [algoritmo, espontneo, libertad, libertarianismo]
 publish: true
+sin_fuente: true
 ---
 
 # Orden Espontáneo: El Algoritmo De La Libertad

@@ -7,6 +7,7 @@ tier_primario: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [cass, insights, miedo, team]
+sin_fuente: true
 ---
 
 # Behavioral Insights Team: Los Arquitectos Del Miedo

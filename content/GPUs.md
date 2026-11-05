@@ -9,6 +9,7 @@ tags:
   - infraestructura
 tipo: concepto
 fecha: 2026-05-01
+sin_fuente: true
 ---
 
 # GPUs
@@ -17,4 +18,4 @@ Unidades de Procesamiento Grafico. Originalmente disenadas para renderizado visu
 
 Controladas mayoritariamente por [[NVIDIA]] (~80% del mercado de GPUs para datacenters). La carrera de [[Stargate Project]] y la infraestructura de IA depende de suministro de GPUs.
 
-Vector geoeconomico: las restricciones de exportacion de GPUs a [[China]] son una de las principales armas de coercion tecnologica de EE.UU. en la [[Guerra Fria 2.0]].
+Vector geoeconomico: las restricciones de exportación de GPUs a [[China]] son una de las principales armas de coerción tecnológica de EE.UU. en la [[Guerra Fria 2.0]].

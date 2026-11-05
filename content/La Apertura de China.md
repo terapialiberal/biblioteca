@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [apertura, henry, laboratorio, nacimiento]
 publish: true
+sin_fuente: true
 ---
 
 # La Apertura De China: El Nacimiento Del Laboratorio Globalista

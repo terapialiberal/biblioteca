@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [matrix, otto, skorzeny, transversal]
 publish: true
+sin_fuente: true
 ---
 
 # Otto Skorzeny: El Mercenario De La Matrix Transversal

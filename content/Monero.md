@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [bitcoin, digital, efectivo, monedas]
 publish: true
+sin_fuente: true
 ---
 
 # Monero: El Efectivo Digital Inconfiscable

@@ -8,6 +8,7 @@ moc_canonico: [[00_MOC - Operaciones Encubiertas]]
 estado: activo
 fuentes_clave: []
 tags: [my-lai, vietnam, crimen-de-guerra, encubrimiento, tl-intel-v3]
+sin_fuente: true
 ---
 
 # [[Masacre de My Lai]]

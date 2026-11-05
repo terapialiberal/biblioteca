@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [estado, gelli, juan, logia]
 publish: true
+sin_fuente: true
 ---
 
 # Licio Gelli: El Gerente Del Estado Profundo

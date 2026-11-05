@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [alfredo, carlos, domingo, yabrn]
 publish: true
+sin_fuente: true
 ---
 
 # Resumen General

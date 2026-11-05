@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [franafrique, geopoltica, nuclear, uranio]
 publish: true
+sin_fuente: true
 ---
 
 # Uranio (Geopolítica Nuclear)

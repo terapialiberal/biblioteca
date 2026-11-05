@@ -5,6 +5,7 @@ aliases: ["Bombardeo de la OTAN a la Embajada China (Belgrado 1999)"]
 tags: [evento, nato, china, belgrado]
 tipo: evento
 capa_tema: c
+sin_fuente: true
 ---
 
 # Bombardeo Embajada China Belgrado 1999

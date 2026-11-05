@@ -7,6 +7,7 @@ capa_tema: b
 nivel_evidencia: alto
 estado: activo
 tags: [00-patron, inteligencia, compartimentacion, tl-v2]
+sin_fuente: true
 ---
 
 # 🗄️ Patrón – Need to Know (Necesidad de Saber)

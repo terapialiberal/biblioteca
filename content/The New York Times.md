@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [nyt, medios, narrativa, legitimacion, propaganda, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # The New York Times

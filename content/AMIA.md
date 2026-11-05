@@ -8,18 +8,19 @@ estado: activo
 aliases: ["Atentado a la AMIA", "AMIA (Pista Siria)"]
 tags: [amia, argentina, atentado, inteligencia, justicia, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # AMIA
 
 ## BLUF
 
-[[AMIA]] importa en TL como caso donde convergen atentado, inteligencia, geopolitica, encubrimiento y degradacion institucional: no solo por el hecho en si, sino por lo que revela sobre Estado, servicios, justicia y uso politico de la investigacion.
+[[AMIA]] importa en TL como caso donde convergen atentado, inteligencia, geopolitica, encubrimiento y degradación institucional: no solo por el hecho en si, sino por lo que revela sobre Estado, servicios, justicia y uso político de la investigación.
 
 ## Por que importa en TL
 
 - conecta terrorismo, seguridad, inteligencia local e injerencia internacional;
-- sirve para leer encubrimiento y fragmentacion judicial como problema estructural;
+- sirve para leer encubrimiento y fragmentación judicial como problema estructural;
 - es nodo clave para unir `Triple Frontera`, `Hezbollah`, `Nisman`, `Stiuso` y `Cristina Kirchner`.
 
 ## Que cambio
@@ -34,9 +35,9 @@ La AMIA importa porque expone la dificultad argentina para investigar, sostener 
 
 ### 2. El expediente como campo de disputa
 
-En TL, el problema no es solo quien perpetró el atentado, sino como la investigacion se convierte en espacio de presion, encubrimiento, alineamiento externo y operacion interna.
+En TL, el problema no es solo quien perpetró el atentado, sino como la investigación se convierte en espacio de presión, encubrimiento, alineamiento externo y operación interna.
 
-### 3. Nodo puente entre inteligencia y politica
+### 3. Nodo puente entre inteligencia y política
 
 Leida junto con [[Muerte de Alberto Nisman]], [[Jaime Stiuso]] y [[AFI]], la AMIA sirve para mostrar como un caso terrorista puede mutar en dispositivo permanente de lucha intraestatal.
 

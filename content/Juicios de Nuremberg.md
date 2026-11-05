@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [activos, juicios, lavado, operacin]
 publish: true
+sin_fuente: true
 ---
 
 # Juicios De Nuremberg: El Teatro Del Lavado De Activos

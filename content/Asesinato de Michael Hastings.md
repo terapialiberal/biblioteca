@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [asesinato, internet, julian, michael]
 publish: true
+sin_fuente: true
 ---
 
 # Asesinato De Michael Hastings

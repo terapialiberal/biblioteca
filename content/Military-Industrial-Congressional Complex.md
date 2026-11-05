@@ -9,6 +9,7 @@ nivel_evidencia: medio
 estado: activo
 aliases: ["MICC", "Military-industrial complex", "Complejo Militar-Industrial-Congresional"]
 tags: [micc, eisenhower, complejo-militar, complejo-tecnologico, complejo-financiero, deep-state, tl-intel-v3]
+sin_fuente: true
 ---
 
 # Military-Industrial-Congressional Complex

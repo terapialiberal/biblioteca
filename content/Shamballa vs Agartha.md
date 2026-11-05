@@ -7,6 +7,7 @@ tags: [agartha, jano, shamballa]
 capa_tema: "a"
 nivel_evidencia: "bajo"
 publish: true
+sin_fuente: true
 ---
 
 # Shamballa Vs Agartha (La Dialéctica De La Soberanía)

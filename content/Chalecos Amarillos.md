@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [agenda, chalecos, emmanuel, jaunes]
 publish: true
+sin_fuente: true
 ---
 
 # Chalecos Amarillos (Gilets Jaunes)

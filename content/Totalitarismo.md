@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [totalitarismo, control-social, masa, atomizacion, poder, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Totalitarismo
@@ -33,7 +34,7 @@ El totalitarismo importa porque no se limita a castigar oposición. También fab
 
 ### 2. Individuos aislados, masas administrables
 
-En TL, su relevancia crece cuando se conecta con `Atomizacion Social`: una población desanclada y sin refugios intermedios es más fácil de sincronizar.
+En TL, su relevancia crece cuando se conecta con `Atomización Social`: una población desanclada y sin refugios intermedios es más fácil de sincronizar.
 
 ### 3. Ecos modernos
 

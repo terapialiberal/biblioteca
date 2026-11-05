@@ -1,5 +1,5 @@
 ---
-titulo: Operacion Paperclip
+titulo: Operación Paperclip
 tipo: evento
 fecha: 2026-04-18
 capa_tema: b
@@ -13,6 +13,7 @@ tags:
   - guerra-fria
   - complejo-militar-industrial
 publish: true
+sin_fuente: true
 ---
 
 # [[Operacion Paperclip]]

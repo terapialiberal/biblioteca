@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [cienciologa, escatolgica, ingeniero, jack]
 publish: true
+sin_fuente: true
 ---
 
 # L. Ron Hubbard: El Ingeniero De La Inteligencia Escatológica
@@ -19,7 +20,7 @@ publish: true
 ### Tier A: Los Curadores Del Experimento De Control
 
 - **El Trasfondo del ONI y la Post-Guerra:** Hubbard operó en el entorno de la **Oficina de Inteligencia Naval (ONI)** en un momento donde el [[Tier A]] experimentaba con la transición de la propaganda bélica a la gestión masiva de la psique civil. La Cienciología puede ser interpretada como una "franquicia de inteligencia" que permitió al sistema probar técnicas de **interrogatorio cooperativo** (Auditación) sin las restricciones legales del Estado oficial. Hubbard proporcionó la infraestructura para que el secreto fuera monetizado y convertido en una jerarquía de poder.
-- **Sincronicidad con Jack Parsons:** Su participación en el **Babalon Working** junto al fundador del Jet Propulsion Laboratory (JPL) vincula a Hubbard con el núcleo del complejo científico-militar-ocultista que diseñó la era aeroespacial. Para el Tier A, Hubbard fue el encargado de gestionar la dimensión espiritual y psicológica del nuevo mito tecnológico.
+- **Sincronicidad con Jack Parsons:** Su participación en el **Babalon Working** junto al fundador del Jet Propulsión Laboratory (JPL) vincula a Hubbard con el núcleo del complejo científico-militar-ocultista que diseñó la era aeroespacial. Para el Tier A, Hubbard fue el encargado de gestionar la dimensión espiritual y psicológica del nuevo mito tecnológico.
 
 ### Tier B: El Administrador De La Red De Vigilancia (Hubbard)
 

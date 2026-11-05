@@ -8,6 +8,7 @@ moc_canonico: [[00_MOC - Operaciones Psicologicas]]
 estado: activo
 fuentes_clave: []
 tags: [margaret-sanger, eugenesia, planned-parenthood, biopolitica, tl-intel-v3]
+sin_fuente: true
 ---
 
 # [[Margaret Sanger]]

@@ -8,6 +8,7 @@ tags: [canberra, urbanismo, geometria, poder-visual, tl-intel-v3]
 capa_tema: b
 nivel_evidencia: medio
 publish: true
+sin_fuente: true
 ---
 
 # Geometria de Canberra

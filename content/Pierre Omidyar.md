@@ -11,6 +11,7 @@ tags:
   - filantrocapitalismo
   - soft-power
 publish: true
+sin_fuente: true
 ---
 
 # [[Pierre Omidyar]]

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [arquetipos, carl, jungianos, programacin]
 publish: true
+sin_fuente: true
 ---
 
 # Arquetipos Jungianos

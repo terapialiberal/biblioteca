@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [blindaje, fuerzas, metafsico, shock]
 publish: true
+sin_fuente: true
 ---
 
 # Las Fuerzas Del Cielo: El Blindaje Metafísico Del Shock

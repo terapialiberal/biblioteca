@@ -9,6 +9,7 @@ estado: activo
 aliases: ["Línea De Tiempo: 1940s-1960s (La Cuna Del Deep State)"]
 fuentes_clave: []
 tags: [timeline, deep-state, cia, bilderberg, guerra-fria, tl-intel-v3]
+sin_fuente: true
 ---
 
 # [[Línea de Tiempo - 1940s-1960s]]

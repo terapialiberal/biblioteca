@@ -6,6 +6,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [psicologia, autoridad, jung, esoterismo]
 publish: true
+sin_fuente: true
 ---
 
 # Arquetipos de Poder (V.3)

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [cintica, digital, guerra, irn]
 publish: true
+sin_fuente: true
 ---
 
 # Stuxnet: el Rubicón de la Guerra Cinética Digital

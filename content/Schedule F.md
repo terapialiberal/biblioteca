@@ -7,37 +7,38 @@ nivel_evidencia: medio
 estado: activo
 tags: [schedule-f, burocracia, ejecutivo, staffing, project-2025, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Schedule F
 
 ## BLUF
 
-[[Schedule F]] importa en TL como intento de reclasificar parte de la burocracia federal para facilitar remocion, reemplazo y disciplina politica del aparato ejecutivo. Su utilidad analitica esta en mostrar como la disputa por el Estado no pasa solo por elecciones o leyes visibles, sino por control de cuadros, mandos intermedios y capacidad de depuracion administrativa.
+[[Schedule F]] importa en TL como intento de reclasificar parte de la burocracia federal para facilitar remoción, reemplazo y disciplina política del aparato ejecutivo. Su utilidad analitica esta en mostrar como la disputa por el Estado no pasa solo por elecciones o leyes visibles, sino por control de cuadros, mandos intermedios y capacidad de depuración administrativa.
 
 ## Por que importa en TL
 
 - conecta [[Project 2025]] con una herramienta concreta de captura institucional;
 - ayuda a leer la guerra contra la burocracia no como retorica, sino como programa operativo de staffing y lealtad;
-- funciona como pieza de acople entre [[Heritage Foundation]], trumpismo y centralizacion ejecutiva.
+- funciona como pieza de acople entre [[Heritage Foundation]], trumpismo y centralización ejecutiva.
 
 ## Que cambio
 
-El nodo no existia fisicamente en la base pese a ser una referencia estructural del frente `venture / politica`. Se crea para absorber ese tramo y darle soporte al corredor de reorganizacion burocratica.
+El nodo no existia fisicamente en la base pese a ser una referencia estructural del frente `venture / política`. Se crea para absorber ese tramo y darle soporte al corredor de reorganización burocratica.
 
 ## Lectura TL
 
 ### 1. Burocracia como campo de batalla
 
-Schedule F importa porque desplaza la discusion desde "quien gana la eleccion" hacia "quien controla el aparato que ejecuta". Sin tocar esa capa, muchas agendas quedan frenadas por continuidad institucional y resistencia interna.
+Schedule F importa porque desplaza la discusión desde "quien gana la elección" hacia "quien controla el aparato que ejecuta". Sin tocar esa capa, muchas agendas quedan frenadas por continuidad institucional y resistencia interna.
 
 ### 2. Lealtad administrativa como activo
 
-En TL, su valor aumenta cuando se observa que la reorganizacion de personal no es un detalle tecnico. Es una forma de alinear Estado, doctrina y prioridad politica con menos friccion burocratica.
+En TL, su valor aumenta cuando se observa que la reorganización de personal no es un detalle tecnico. Es una forma de alinear Estado, doctrina y prioridad política con menos fricción burocratica.
 
 ### 3. Manual de purga blanda
 
-Su relevancia crece porque ofrece un mecanismo para convertir una victoria electoral en una reconfiguracion mas profunda del Ejecutivo, reduciendo autonomia de capas tecnicas y reforzando mando vertical.
+Su relevancia crece porque ofrece un mecanismo para convertir una victoria electoral en una reconfiguración mas profunda del Ejecutivo, reduciendo autonomia de capas tecnicas y reforzando mando vertical.
 
 ## Con que conecta
 

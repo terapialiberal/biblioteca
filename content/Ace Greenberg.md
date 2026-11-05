@@ -10,6 +10,7 @@ tags:
 tipo: actor
 tier_primario: B
 titulo: Ace Greenberg
+sin_fuente: true
 ---
 
 # Ace Greenberg

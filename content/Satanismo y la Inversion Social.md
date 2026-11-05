@@ -7,6 +7,7 @@ tags: [alice, inversin, satanismo, social]
 capa_tema: "a"
 nivel_evidencia: "alto"
 publish: true
+sin_fuente: true
 ---
 
 # Satanismo Y La Inversión Social

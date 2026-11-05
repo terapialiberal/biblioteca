@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [institucionalizado, mexicanos, petrleos, saqueo]
 publish: true
+sin_fuente: true
 ---
 
 # Petróleos Mexicanos: El Saqueo Institucionalizado

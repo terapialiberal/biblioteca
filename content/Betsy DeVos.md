@@ -5,6 +5,7 @@ aliases: ["Betsy DeVos"]
 tags: [actor, eeuu, educacion, filantropia, privatizacion]
 tipo: actor
 tier_primario: C
+sin_fuente: true
 ---
 
 # Betsy DeVos

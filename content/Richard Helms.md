@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [helms, mkultra, richard, sidney]
 publish: true
+sin_fuente: true
 ---
 
 # Richard Helms: el Guardián de las Tinieblas Institucionales

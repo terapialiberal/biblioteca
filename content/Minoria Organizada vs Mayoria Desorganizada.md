@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [desorganizada, minora, organizada, transgresin]
 publish: true
+sin_fuente: true
 ---
 
 # Minoría Organizada Vs Mayoría Desorganizada

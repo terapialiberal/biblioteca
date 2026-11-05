@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [emilio, firmenich, inteligencia, revolucionario]
 publish: true
+sin_fuente: true
 ---
 
 # Mario Firmenich: El Revolucionario De Inteligencia

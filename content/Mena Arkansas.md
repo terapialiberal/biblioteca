@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [arkansas, barry, irn, mena]
 publish: true
+sin_fuente: true
 ---
 
 # Mena Arkansas

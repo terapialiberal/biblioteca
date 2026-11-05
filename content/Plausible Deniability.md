@@ -9,6 +9,7 @@ estado: activo
 aliases: ["Negación Plausible"]
 fuentes_clave: []
 tags: [plausible-deniability, negacion-plausible, inteligencia, impunidad, tl-intel-v3]
+sin_fuente: true
 ---
 
 # [[Plausible Deniability]]

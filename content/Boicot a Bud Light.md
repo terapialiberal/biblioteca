@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [blackrock, boicot, light, naciones]
 publish: true
+sin_fuente: true
 ---
 
 # Boicot a Bud Light

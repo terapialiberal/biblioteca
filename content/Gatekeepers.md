@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [agenda, gatekeepers, informacin, porteros]
 publish: true
+sin_fuente: true
 ---
 
 # Gatekeepers (Porteros De La Información)

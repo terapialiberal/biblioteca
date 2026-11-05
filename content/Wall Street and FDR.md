@@ -8,6 +8,7 @@ estado: activo
 tags: [categora-finanzas, categora-historia, categora-poltica, era-1930s, era-1970s, nivel-evidencia-documental, regin-eeuu, tipo-libro]
 titulo: Wall Street and FDR
 publish: true
+sin_fuente: true
 ---
 
 # Wall Street and FDR
@@ -118,7 +119,7 @@ Franklin D. Roosevelt y sus asociados de Wall Street eran **"socialistas corpora
 
 **Reformas clave (narrativa official):**
 
-- **Securities and Exchange Commission (SEC):** Reguló Wall Street
+- **Securities and Exchange Commissión (SEC):** Reguló Wall Street
 - **Securities Act of 1934:** Transparencia para inversores
 - **Glass-Steagall:** Separó banca comercial de inversión
 
@@ -279,5 +280,5 @@ Sutton documentó cómo agencias creadas para "regular" Wall Street fueron captu
 - [[00_Glosario - Conceptos Fase 1#Franklin D. Roosevelt|Franklin D. Roosevelt]]
 - [[Wall Street]]
 - [[New Deal]]
-- [[Great Depression]]
-- [[SEC (Securities and Exchange Commission)]]
+- [[Great Depressión]]
+- [[SEC (Securities and Exchange Commissión)]]

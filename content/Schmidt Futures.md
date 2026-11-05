@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [caballo, futures, google, schmidt]
 publish: true
+sin_fuente: true
 ---
 
 # Schmidt Futures: el Caballo de Troya de la Tecnocracia de Élite

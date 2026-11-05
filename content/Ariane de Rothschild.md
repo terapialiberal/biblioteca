@@ -7,19 +7,20 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [ariane, carbine, jeffrey, rothschild]
 publish: true
+sin_fuente: true
 ---
 
 # Ariane De Rothschild
 
 > [!INFO] Perfil Operativo (Tier A)
-> **Resumen:** Presidenta del Edmond de Rothschild Group. La Rothschild que canaliz dinero a travs de Epstein para Carbine.
+> **Resumen:** Presidenta del Edmond de Rothschild Group. La Rothschild que canaliz dinero a través de Epstein para Carbine.
 > **Funcin Real:** Cabeza de la rama suiza de la dinasta. Conexin directa Rothschild-Epstein-Mossad.
 
 ## Biografa Resumida
 
 Ariane de Rothschild lidera el **Edmond de Rothschild Group**, el banco privado de la rama suiza de la familia.
 
-**Conexin Epstein:** Los emails filtrados muestran que Ariane de Rothschild canaliz dinero a travs de [[Jeffrey Epstein]] para financiar **[[Carbine]]** (ahora parte del ecosistema de ciberinteligencia israel), la empresa de [[Ehud Barak]].
+**Conexin Epstein:** Los emails filtrados muestran que Ariane de Rothschild canaliz dinero a través de [[Jeffrey Epstein]] para financiar **[[Carbine]]** (ahora parte del ecosistema de ciberinteligencia israel), la empresa de [[Ehud Barak]].
 
 Mensaje a Epstein: "Dganle a Barack que si quiere hacer dinero en serio, tiene que hacerlo con nosotros."
 

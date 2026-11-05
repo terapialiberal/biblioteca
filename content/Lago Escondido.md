@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [escondido, george, grupo, lago]
 publish: true
+sin_fuente: true
 ---
 
 # Lago Escondido: El Cuartel General De La Soberanía Delegada

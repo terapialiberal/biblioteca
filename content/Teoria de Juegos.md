@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [juegos, public, teora]
 publish: true
+sin_fuente: true
 ---
 
 # Teoría De Juegos

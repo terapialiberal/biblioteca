@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [agenda, cities, michael]
 publish: true
+sin_fuente: true
 ---
 
 # C40 Cities

@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [jen-easterly, cisa, censura, seguridad-nacional, infraestructura-cognitiva, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Jen Easterly

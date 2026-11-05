@@ -6,6 +6,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [tecnologia, biologia-sintetica, ia, control]
 publish: true
+sin_fuente: true
 ---
 
 # Vida Artificial (V.3)

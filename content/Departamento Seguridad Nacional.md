@@ -8,6 +8,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [dhs, seguridad-nacional, estado-policial, vigilancia, cisa, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Departamento de Seguridad Nacional

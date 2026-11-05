@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [donald, gabbard, militar, tulsi]
 publish: true
+sin_fuente: true
 ---
 
 # Resumen General

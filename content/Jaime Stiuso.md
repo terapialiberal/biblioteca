@@ -8,13 +8,14 @@ estado: activo
 aliases: ["Antonio Stiuso", "Antonio Jaime Stiuso", "AFI / SIDE"]
 tags: [argentina, inteligencia, side, afi, carpetazos, justicia, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Jaime Stiuso
 
 ## BLUF
 
-[[Jaime Stiuso]] importa en TL como figura de continuidad profunda del espionaje argentino: condensa archivos, relaciones personales, poder de informacion y capacidad de arbitraje informal entre inteligencia, justicia y politica.
+[[Jaime Stiuso]] importa en TL como figura de continuidad profunda del espionaje argentino: condensa archivos, relaciones personales, poder de información y capacidad de arbitraje informal entre inteligencia, justicia y política.
 
 ## Por que importa en TL
 
@@ -28,21 +29,21 @@ La nota venia utilizable pero demasiado breve, con naming mezclado y algunos enl
 
 ## Lectura TL
 
-### 1. Continuidad burocratica por encima de la rotacion politica
+### 1. Continuidad burocratica por encima de la rotación política
 
 En TL, Stiuso importa menos como individuo excepcional y mas como ejemplo visible de una capa estatal que acumula memoria, favores y capacidad operativa a lo largo de distintos gobiernos.
 
 ### 2. Archivo como poder
 
-Su relevancia aparece cuando se lo lee no solo como espia, sino como administrador de informacion sensible: escuchas, carpetas, relaciones internacionales y conocimiento fino sobre debilidades del sistema politico argentino.
+Su relevancia aparece cuando se lo lee no solo como espia, sino como administrador de información sensible: escuchas, carpetas, relaciones internacionales y conocimiento fino sobre debilidades del sistema político argentino.
 
 ### 3. Inteligencia y justicia como ecosistema
 
-Leido junto con [[AFI]], [[Jueces Federales de Comodoro Py]] y [[Lawfare]], el nodo ayuda a entender como informacion obtenida en zonas grises puede terminar convertida en presion, expediente o cobertura mediatica.
+Leido junto con [[AFI]], [[Jueces Federales de Comodoro Py]] y [[Lawfare]], el nodo ayuda a entender como información obtenida en zonas grises puede terminar convertida en presión, expediente o cobertura mediatica.
 
 ### 4. Figura util para no personalizar de mas
 
-TL lo usa como condensador, no como explicacion unica. El punto no es creer que Stiuso explica toda la cloaca argentina, sino que permite visualizar mejor una arquitectura de poder que lo excede.
+TL lo usa como condensador, no como explicación unica. El punto no es creer que Stiuso explica toda la cloaca argentina, sino que permite visualizar mejor una arquitectura de poder que lo excede.
 
 ## Conexiones
 

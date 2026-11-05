@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Biologia Sintetica", "Synthetic Biology"]
 tags: [biologia-sintetica, biotecnologia, bioseguridad, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Biología Sintética

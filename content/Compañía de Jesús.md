@@ -5,6 +5,7 @@ aliases: ["La Compañía de Jesús (Jesuitas)", "Jesuitas", "Compañía de Jesú
 tags: [orden-religiosa, poder, vaticano]
 tipo: actor
 tier_primario: A
+sin_fuente: true
 ---
 
 # Compañía de Jesús

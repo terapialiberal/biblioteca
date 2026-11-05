@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [amazon, andy, jeff, trainium]
 publish: true
+sin_fuente: true
 ---
 
 # Amazon Trainium 2

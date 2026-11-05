@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [norman-dodd, fundaciones, educacion, reece-committee, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Norman Dodd

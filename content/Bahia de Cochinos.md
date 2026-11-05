@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Bahía de Cochinos"]
 tags: [bahia-de-cochinos, cuba, cia, exiliados-cubanos, cambio-de-regimen, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Bahia de Cochinos
@@ -34,7 +35,7 @@ Bahia de Cochinos fue la invasión fallida de Cuba en 1961, ejecutada por exilia
 
 Bahia de Cochinos importa porque muestra un formato clásico del repertorio encubierto: evitar intervención directa abierta y operar mediante terceros entrenados, financiados y coordinados por inteligencia.
 
-### 2. Fracaso operativo, crisis politica
+### 2. Fracaso operativo, crisis política
 
 En TL, su relevancia crece cuando se observa que el evento no solo golpea a Cuba o a la imagen de Estados Unidos; también abre una fractura entre la presidencia y sectores del aparato de seguridad que esperaban otra respuesta.
 

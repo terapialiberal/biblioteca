@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [city, corporacin, repblica, reserva]
 publish: true
+sin_fuente: true
 ---
 
 # La Corporación De EEUU: El Acta De 1871 Y El Fin De La República

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [industrial, naciones, proteccionismo, unin]
 publish: true
+sin_fuente: true
 ---
 
 # Unión Industrial Argentina (UIA)

@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Bailout (Rescate Financiero)", "Rescate financiero"]
 tags: [bailout, rescate, banca, moral-hazard, control-financiero, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Bailout

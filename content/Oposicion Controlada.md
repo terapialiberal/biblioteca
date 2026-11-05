@@ -1,5 +1,5 @@
 ---
-titulo: Oposicion Controlada
+titulo: Oposición Controlada
 tipo: concepto
 fecha: 2026-04-21
 capa_tema: b
@@ -7,9 +7,10 @@ nivel_evidencia: medio
 estado: activo
 tags: [oposicion-controlada, guerra-cognitiva, disidencia, cooptacion, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
-# Oposicion Controlada
+# Oposición Controlada
 
 ## BLUF
 

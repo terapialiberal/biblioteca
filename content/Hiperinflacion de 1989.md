@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: ["1989", carlos, hiperinflacin, ral]
 publish: true
+sin_fuente: true
 ---
 
 # Hiperinflación De 1989

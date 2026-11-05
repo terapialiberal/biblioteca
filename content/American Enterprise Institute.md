@@ -8,6 +8,7 @@ estado: activo
 aliases: ["American Enterprise Institute (AEI)", "AEI"]
 tags: [aei, think-tank, neocon, defensa, washington, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # American Enterprise Institute

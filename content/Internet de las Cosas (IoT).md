@@ -4,6 +4,7 @@ tipo: concepto
 titulo: Internet de las Cosas (IoT)
 estado: activo
 tags: [iot, sensores, vigilancia, smart-grid, tl-intel-v3]
+sin_fuente: true
 ---
 
 # Internet de las Cosas (IoT)

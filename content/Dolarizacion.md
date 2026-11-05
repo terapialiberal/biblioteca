@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [dolarizacin, javier, seoreaje]
 publish: true
+sin_fuente: true
 ---
 
 # Dolarización

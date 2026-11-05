@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [burford, matrix, nstor, poltica]
 publish: true
+sin_fuente: true
 ---
 
 # Sebastián Eskenazi: el Prestamista de la Matrix Política Argentina

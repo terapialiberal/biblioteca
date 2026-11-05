@@ -7,6 +7,7 @@ tags: [lilith, sombra-feminina, mitologia, arquetipos, tl-intel-v3]
 capa_tema: c
 nivel_evidencia: medio
 publish: true
+sin_fuente: true
 ---
 
 # Lilith y la Sombra Feminina

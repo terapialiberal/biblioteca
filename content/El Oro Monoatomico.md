@@ -8,6 +8,7 @@ tags: [oro-monoatomico, orme, alquimia, pseudociencia, simbolismo, tl-intel-v3]
 capa_tema: c
 nivel_evidencia: bajo
 publish: true
+sin_fuente: true
 ---
 
 # El Oro Monoatomico

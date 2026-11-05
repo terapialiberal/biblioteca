@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [oculus-rift, realidad-virtual, interfaces, palmer-luckey, meta, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Oculus Rift

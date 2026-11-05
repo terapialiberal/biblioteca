@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [correccin, frankfurt, george, poltica]
 publish: true
+sin_fuente: true
 ---
 
 # Corrección Política

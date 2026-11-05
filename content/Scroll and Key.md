@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [dean, diplomacia, skull, tumba]
 publish: true
+sin_fuente: true
 ---
 
 # Scroll And Key: la Tumba de la Inteligencia Y la Diplomacia

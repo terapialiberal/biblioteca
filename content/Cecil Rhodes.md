@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [cecil, chatham, lord, rhodes]
 publish: true
+sin_fuente: true
 ---
 
 # Cecil Rhodes

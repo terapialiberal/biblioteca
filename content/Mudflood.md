@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [barro, diluvio, mudflood, reset]
 publish: true
+sin_fuente: true
 ---
 
 # Mudflood (Diluvio De Barro): La Evidencia Del Reset

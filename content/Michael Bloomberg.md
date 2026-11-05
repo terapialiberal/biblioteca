@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [bill, bloomberg, michael]
 publish: true
+sin_fuente: true
 ---
 
 # Michael Bloomberg
@@ -17,19 +18,19 @@ publish: true
 
 ## Resumen Ejecutivo
 
-**Quin es:** Fundador y dueo mayoritario de **Bloomberg LP**, ex Alcalde de Nueva York (3 mandatos) y uno de los filntropos/oligarcas ms influyentes del mundo.
-**Por qu Importa:** Michael Bloomberg es el **Custodio de la Infraestructura de Datos de Tier A**. Al controlar la "Bloomberg Terminal", posee el monopolio de la informacin financiera en tiempo real que mueve los mercados globales. Bloomberg representa la fusin perfecta entre el capital financiero, el poder meditico y la ingeniera social tecnocrtica. A travs de su inmensa fortuna (\100B+), financia de forma masiva la agenda de desarme civil (**Everytown**), el control climtico urbano (**C40**) y polticas de salud restrictivas, actuando como un "Gobierno Global en las Sombras" que impone su visin de un orden centralizado y ultra-regulado sin necesidad de consenso democrtico local.
+**Quién es:** Fundador y dueo mayoritario de **Bloomberg LP**, ex Alcalde de Nueva York (3 mandatos) y uno de los filntropos/oligarcas más influyentes del mundo.
+**Por qué Importa:** Michael Bloomberg es el **Custodio de la Infraestructura de Datos de Tier A**. Al controlar la "Bloomberg Terminal", posee el monopolio de la información financiera en tiempo real que mueve los mercados globales. Bloomberg representa la fusin perfecta entre el capital financiero, el poder meditico y la ingeniería social tecnocrtica. A través de su inmensa fortuna (\100B+), financia de forma masiva la agenda de desarme civil (**Everytown**), el control climtico urbano (**C40**) y políticas de salud restrictivas, actuando como un "Gobierno Global en las Sombras" que impone su visin de un orden centralizado y ultra-regulado sin necesidad de consenso democrático local.
 
-## Anlisis (Tiers)
+## Análisis (Tiers)
 
 ### Tier A (El Monopolio De La Verdad Financiera)
 
-- **La Terminal de Poder:** Ms de 325,000 suscriptores (la lite de Tier B de Wall Street) pagan \24,000 al ao para ver el mundo a travs de los ojos de Bloomberg. Al poseer el software y el flujo de noticias, Bloomberg tiene la capacidad de **Primado Algortmico**: decidir qu noticia financiera es "urgente" y cul se ignora, influyendo directamente en el precio de los activos y la estabilidad de las naciones.
-- **Filantropa como Arma de Estado:** Bloomberg utiliza sus donaciones no para la caridad, sino para la compra de capacidad regulatoria. Financia puestos de asesores en alcaldas de todo el mundo para implementar sus polticas "verdes" y de restriccin de armas, creando una red de gobernanza paralela que evade la soberana nacional.
+- **La Terminal de Poder:** Más de 325,000 suscriptores (la lite de Tier B de Wall Street) pagan \24,000 al ao para ver el mundo a través de los ojos de Bloomberg. Al poseer el software y el flujo de noticias, Bloomberg tiene la capacidad de **Primado Algortmico**: decidir qué noticia financiera es "urgente" y cul se ignora, influyendo directamente en el precio de los activos y la estabilidad de las naciones.
+- **Filantropa como Arma de Estado:** Bloomberg utiliza sus donaciones no para la caridad, sino para la compra de capacidad regulatoria. Financia puestos de asesores en alcaldas de todo el mundo para implementar sus políticas "verdes" y de restriccin de armas, creando una red de gobernanza paralela que evade la soberana nacional.
 
 ### El Alcalde De La Vigilancia
 
-- **El Modelo Stop-and-Frisk:** En NYC, Bloomberg perfeccion el uso de la polica como una herramienta de gestin de datos y control social preventivo. Su visin de la ciudad es la de una corporacin eficiente donde el Tier C es un activo que debe ser monitoreado y corregido (prohibicin de bebidas azucaradas, vigilancia masiva en las calles).
+- **El Modelo Stop-and-Frisk:** En NYC, Bloomberg perfección el uso de la polica como una herramienta de gestin de datos y control social preventivo. Su visin de la ciudad es la de una corporacin eficiente donde el Tier C es un activo que debe ser monitoreado y corregido (prohibicin de bebidas azucaradas, vigilancia masiva en las calles).
 
 ## ⚡ Conclusin TL
 

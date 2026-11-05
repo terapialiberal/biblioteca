@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: ["2008", crisis, financiera, goldman]
 publish: true
+sin_fuente: true
 ---
 
 # Crisis Financiera 2008

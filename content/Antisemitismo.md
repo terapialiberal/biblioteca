@@ -7,6 +7,7 @@ capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [aipac, antisemitismo, charlie]
+sin_fuente: true
 ---
 
 # Resumen General

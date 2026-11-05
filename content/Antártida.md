@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Antartida", "Antártida (Tratado y Recursos)"]
 tags: [antartida, recursos, tratado-antartico, argentina, geopolitica, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Antártida

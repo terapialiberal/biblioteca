@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [ghislaine-maxwell, epstein, kompromat, honey-trap, inteligencia, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Ghislaine Maxwell

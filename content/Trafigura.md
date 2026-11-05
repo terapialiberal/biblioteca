@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [glencore, trafigura]
 publish: true
+sin_fuente: true
 ---
 
 # Trafigura
@@ -18,7 +19,7 @@ publish: true
 ## Escándalos
 
 - **Côte d'Ivoire (2006):** Dumping de residuos tóxicos que enfermó a miles
-- Sanciones evasion
+- Sanciones evasión
 - Trading con regímenes cuestionables
 
 ## Operaciones

@@ -6,6 +6,7 @@ tier_primario: 'c'
 nivel_evidencia: 'alto'
 estado: activo
 tags: [iran, presidente, teatro-politico]
+sin_fuente: true
 ---
 
 # Masoud Pezeshkian

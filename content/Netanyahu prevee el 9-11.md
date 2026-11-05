@@ -7,6 +7,7 @@ nivel_evidencia: "alto"
 estado: activo
 tags: [netanyahu, 9-11, terrorismo, inteligencia, presciencia]
 publish: true
+sin_fuente: true
 ---
 
 # Netanyahu y la Presciencia del 9-11: El "Adivino" del Tier B

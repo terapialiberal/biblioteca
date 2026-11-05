@@ -8,6 +8,7 @@ moc_canonico: [[00_MOC - Kompromat y Dark Game Theory]]
 estado: activo
 fuentes_clave: []
 tags: [pizzagate, wikileaks, ridicule-weapon, podesta, tl-intel-v3]
+sin_fuente: true
 ---
 
 # [[Pizzagate]]

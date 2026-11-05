@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [arthur, gregg, sulzberger]
 publish: true
+sin_fuente: true
 ---
 
 # Arthur Gregg Sulzberger

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [asesinato, guerra, lincoln]
 publish: true
+sin_fuente: true
 ---
 
 # Asesinato De Lincoln

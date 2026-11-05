@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Jordania (Geopolítica)"]
 tags: [jordania, medio-oriente, diplomacia, seguridad, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Jordania

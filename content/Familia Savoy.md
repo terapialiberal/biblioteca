@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [logia, realeza, savoy, sombras]
 publish: true
+sin_fuente: true
 ---
 
 # Familia Savoy: La Realeza En Las Sombras

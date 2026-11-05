@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [canario, fertilizantes, foro, mina]
 publish: true
+sin_fuente: true
 ---
 
 # Revuelta de Sri Lanka: el Canario en la Mina de la Agenda Verde

@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Federal Security Service"]
 tags: [fsb, rusia, inteligencia, seguridad, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # FSB

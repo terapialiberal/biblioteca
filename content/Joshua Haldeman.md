@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [elon, expertos, gobierno, haldeman]
 publish: true
+sin_fuente: true
 ---
 
 # Joshua Haldeman: El Semillero Del Gobierno De Los Expertos

@@ -1,5 +1,5 @@
 ---
-titulo: Metaverso como Prision de Platon
+titulo: Metaverso como Prisión de Platon
 tipo: concepto
 fecha: 2026-04-27
 estado: activo
@@ -8,9 +8,10 @@ tags: [metaverso, platon, realidad-virtual, simulacro, tecnologia-de-control, tl
 capa_tema: b
 nivel_evidencia: medio
 publish: true
+sin_fuente: true
 ---
 
-# Metaverso como Prision de Platon
+# Metaverso como Prisión de Platon
 
 ## BLUF
 

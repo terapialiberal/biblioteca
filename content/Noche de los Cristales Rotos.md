@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [cristales, joseph, noche, prototipo]
 publish: true
+sin_fuente: true
 ---
 
 # Noche De Los Cristales Rotos: El Prototipo De La Purga Administrada

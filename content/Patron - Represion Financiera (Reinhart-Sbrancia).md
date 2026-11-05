@@ -5,6 +5,7 @@ titulo: "Patrón - Represión Financiera (Reinhart-Sbrancia)"
 fecha: 2026-10-06
 estado: procesado
 tags: [patrones, represion-financiera, deuda, inflacion, reinhart, hudson, tl-intel-v3]
+sin_fuente: true
 ---
 
 # [[Patron - Represion Financiera (Reinhart-Sbrancia)]]

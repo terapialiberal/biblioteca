@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [llama, mark, meta, nvidia]
 publish: true
+sin_fuente: true
 ---
 
 # Meta Llama 4

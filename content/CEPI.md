@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Coalition for Epidemic Preparedness Innovations"]
 tags: [cepi, vacunas, bioseguridad, preparacion-pandemica, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # CEPI

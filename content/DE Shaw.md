@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [blackrock, jeff, shaw]
 publish: true
+sin_fuente: true
 ---
 
 # D. E. Shaw & Co

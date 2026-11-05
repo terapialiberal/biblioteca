@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [bernays, propaganda, consentimiento, psicologia, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Edward Bernays

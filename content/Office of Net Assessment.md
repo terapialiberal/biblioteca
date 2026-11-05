@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [andrew, assessment, guerra, permanente]
 publish: true
+sin_fuente: true
 ---
 
 # Office of Net Assessment: El Oráculo De La Guerra Permanente

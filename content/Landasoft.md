@@ -5,11 +5,12 @@ tipo: "entidad"
 fecha: 2026-04-29
 estado: activo
 tags: [base-de-conocimiento, vigilancia, software, inteligencia]
+sin_fuente: true
 ---
 
 # Landasoft
 
-Empresa de software de vigilancia y analisis de datos asociada al cruce entre inteligencia, big data, OSINT privado y contratistas de seguridad.
+Empresa de software de vigilancia y análisis de datos asociada al cruce entre inteligencia, big data, OSINT privado y contratistas de seguridad.
 
 ## Conexiones TL
 

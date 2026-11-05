@@ -8,6 +8,7 @@ estado: activo
 aliases: ["FDA y las Puertas Giratorias (Pfizer)"]
 tags: [fda, puerta-giratoria, captura-regulatoria, pfizer, big-pharma, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # La Puerta Giratoria de la FDA

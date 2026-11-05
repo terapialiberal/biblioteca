@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [amrica, corporacin, eduardo, naciones]
 publish: true
+sin_fuente: true
 ---
 
 # Corporación América

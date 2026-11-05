@@ -7,6 +7,7 @@ tags: [banderas, estrellas, simbologa, union]
 tier_primario: "b"
 nivel_evidencia: "alto"
 publish: true
+sin_fuente: true
 ---
 
 # Simbología De Banderas Tier B (Heráldica De Operaciones)

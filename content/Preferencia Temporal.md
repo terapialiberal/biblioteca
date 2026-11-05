@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [civilizacin, hans, preferencia, temporal]
 publish: true
+sin_fuente: true
 ---
 
 # Preferencia Temporal: El Pulso De La Civilización

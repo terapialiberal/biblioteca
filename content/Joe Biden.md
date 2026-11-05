@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [biden, blackrock, continuidad, departamento]
 publish: true
+sin_fuente: true
 ---
 
 # Joe Biden: El Gerente De La Continuidad Atlantista

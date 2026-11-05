@@ -5,6 +5,7 @@ tags: [missing-nodes, entity-graph, backlog, tl-intel-v3]
 fecha: "2026-04-07"
 estado: activo
 publish: true
+sin_fuente: true
 ---
 
 # MISSING NODES

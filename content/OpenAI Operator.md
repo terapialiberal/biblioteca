@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [apple, microsoft, openai, operator]
 publish: true
+sin_fuente: true
 ---
 
 # OpenAI Operator

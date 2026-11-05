@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [deep, matrix, palantir, state]
 publish: true
+sin_fuente: true
 ---
 
 # Playbooks Del Deep State: El Manual De La Matrix
@@ -28,7 +29,7 @@ publish: true
 
 1. **Limited Hangout (Revelación Limitada)**: Admitir una parte menor del crimen para proteger el secreto mayor, satisfaciendo la sed de justicia del Tier C con un chivo expiatorio mientras la estructura nuclear del Tier A permanece intacta (v.g. Church Committee).
 2. **Privatización de lo Ilegal**: Transferir programas de vigilancia o tortura del gobierno a corporaciones de Tier B (v.g. de TIA a **[[Palantir]]**) para eludir el control parlamentario y la ley de libertad de información (FOIA).
-3. **Strategy of Tension (Estrategia de Tensión)**: Mantener a la población en un estado constante de alerta mediante ataques de "falsa bandera" o enemigos perpetuos para justificar la suspensión de libertades civiles.
+3. **Strategy of Tensión (Estrategia de Tensión)**: Mantener a la población en un estado constante de alerta mediante ataques de "falsa bandera" o enemigos perpetuos para justificar la suspensión de libertades civiles.
 
 ## Conexiones Críticas
 

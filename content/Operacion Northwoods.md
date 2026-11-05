@@ -1,5 +1,5 @@
 ---
-titulo: Operacion Northwoods
+titulo: Operación Northwoods
 tipo: evento
 fecha: 2026-04-18
 capa_tema: b
@@ -13,6 +13,7 @@ tags:
   - guerra-psicologica
   - seguridad-nacional
 publish: true
+sin_fuente: true
 ---
 
 # [[Operacion Northwoods]]

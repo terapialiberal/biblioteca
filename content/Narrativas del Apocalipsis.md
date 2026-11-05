@@ -8,13 +8,14 @@ tags: [apocalipsis, narrativa, crisis, propaganda, tl-intel-v3]
 capa_tema: b
 nivel_evidencia: medio
 publish: true
+sin_fuente: true
 ---
 
 # Narrativas del Apocalipsis
 
 ## BLUF
 
-Narrativas del Apocalipsis son relatos de fin de mundo, purga o revelacion final que reordenan miedo, obediencia y expectativa de salvacion.
+Narrativas del Apocalipsis son relatos de fin de mundo, purga o revelación final que reordenan miedo, obediencia y expectativa de salvación.
 
 ## Que es
 
@@ -23,12 +24,12 @@ Pueden ser religiosas, climaticas, tecnologicas, financieras o geopoliticas. Lo 
 ## Por que importa en TL
 
 - conectan crisis, control social y promesa de nuevo orden;
-- aceleran aceptacion de medidas extraordinarias;
+- aceleran aceptación de medidas extraordinarias;
 - convierten incertidumbre en relato moral simple.
 
 ## Lectura TL
 
-Toda narrativa apocaliptica tiene politica incorporada: quien interpreta las señales, quien administra el refugio, quien queda como culpable y que obediencia se exige para sobrevivir.
+Toda narrativa apocaliptica tiene política incorporada: quien interpreta las señales, quien administra el refugio, quien queda como culpable y que obediencia se exige para sobrevivir.
 
 ## Conexiones
 

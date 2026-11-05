@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: ["1953", golpe, irn, petrleo]
 publish: true
+sin_fuente: true
 ---
 
 # Golpe En Irán 1953

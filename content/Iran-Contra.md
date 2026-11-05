@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [contra, george, irn, oliver]
 publish: true
+sin_fuente: true
 ---
 
 # Irán-Contra

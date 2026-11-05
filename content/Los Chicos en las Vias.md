@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Los Chicos En Las Vias: El Crimen De Mena Y La Proteccion Clinton"]
 tags: [mena, arkansas, cia, clinton, encubrimiento, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Los Chicos en las Vias

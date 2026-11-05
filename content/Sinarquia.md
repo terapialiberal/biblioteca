@@ -7,6 +7,7 @@ tags: [comisin, sinarqua, tecnocracia]
 capa_tema: "a"
 nivel_evidencia: "alto"
 publish: true
+sin_fuente: true
 ---
 
 # Sinarquía (Saint-Yves d'Alveydre)

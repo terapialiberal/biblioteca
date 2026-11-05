@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [burbuja, china, evergrande]
 publish: true
+sin_fuente: true
 ---
 
 # Evergrande
@@ -19,7 +20,7 @@ publish: true
 
 ### Tier A (Beneficiarios)
 
-- **PCCh (Faccion dura):** Xi Jinping usó la crisis ("Las casas son para vivir, no para especular") para purgar a rivales y disciplinar a los oligarcas chinos.
+- **PCCh (Facción dura):** Xi Jinping usó la crisis ("Las casas son para vivir, no para especular") para purgar a rivales y disciplinar a los oligarcas chinos.
 - **BlackRock:** Inversores occidentales quedaron atrapados con los bonos basura de Evergrande, perdiendo miles de millones.
 
 ## Puntos Clave

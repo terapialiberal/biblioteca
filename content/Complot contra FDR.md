@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [complot, contra]
 publish: true
+sin_fuente: true
 ---
 
 # Complot contra FDR

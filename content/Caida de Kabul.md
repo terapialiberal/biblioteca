@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: ["2021", cada, complejo, medialuna]
 publish: true
+sin_fuente: true
 ---
 
 # Caída De Kabul (2021)

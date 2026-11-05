@@ -6,6 +6,7 @@ estado: activo
 aliases: ["BNP Paribas (Banco)"]
 tags: [bnp-paribas, banca, francia, europa, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # BNP Paribas

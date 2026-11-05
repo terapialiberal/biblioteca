@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [caballo, cbdc, jpmorgan, pago]
 publish: true
+sin_fuente: true
 ---
 
 # Mercado Pago: El Caballo De Troya De Las CBDC

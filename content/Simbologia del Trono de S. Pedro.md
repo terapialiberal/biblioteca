@@ -7,6 +7,7 @@ tags: [pedro, simbologa, trono]
 capa_tema: "a"
 nivel_evidencia: "alto"
 publish: true
+sin_fuente: true
 ---
 
 # Simbología Del Trono De S. Pedro (La Silla Del Pescador)

@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [robert-malone, disidencia-cientifica, mrna, censura, bioseguridad, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Robert Malone

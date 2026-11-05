@@ -8,6 +8,7 @@ estado: activo
 aliases: ["GAVI (Vaccine Alliance)", "GAVI (The Vaccine Alliance)", "Gavi", "Gavi (Alianza para las Vacunas)"]
 tags: [gavi, vacunas, distribucion, salud-global, bioseguridad, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # GAVI
@@ -44,7 +45,7 @@ El salto relevante aparece cuando la entrega de salud empieza a acoplarse con in
 
 Leída junto con [[World Health Organization]] y [[Tratado de Pandemias OMS]], GAVI representa la capa logística y comercial del mismo ecosistema de gobernanza sanitaria.
 
-### 5. Del brazo logistico al vector de adopcion
+### 5. Del brazo logistico al vector de adopción
 
 En TL, GAVI gana densidad cuando se la lee no solo como distribuidor, sino como vector de adopción: si vacunas, elegibilidad y registro convergen, la logística sanitaria empieza a parecerse a una infraestructura de identificación y acceso.
 

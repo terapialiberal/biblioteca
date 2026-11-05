@@ -7,12 +7,13 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [citadel, renaissance, sigma]
 publish: true
+sin_fuente: true
 ---
 
 # Two Sigma
 
 > [!ABSTRACT] Ficha Tcnica
-> **Narrativa Official:** Firma de inversin tecnolgica.
+> **Narrativa Official:** Firma de inversin tecnológica.
 > **Funcin Real:** Hedge fund cuantitativo de lite, competidor de Renaissance Technologies.
 
 ## Actores Clave

@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Supply Chain", "Cadena de Suministro"]
 tags: [cadena-de-suministro, logistica, globalizacion, chokepoints, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Cadena de Suministro

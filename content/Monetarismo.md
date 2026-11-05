@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Monetarismo (Escuela de Chicago)"]
 tags: [monetarismo, economia, dinero, friedman, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Monetarismo

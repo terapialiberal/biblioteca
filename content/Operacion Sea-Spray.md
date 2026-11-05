@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [biolgica, roco, spray, traicin]
 publish: true
+sin_fuente: true
 ---
 
 # Operación Sea-Spray: El Rocío De La Traición Biológica

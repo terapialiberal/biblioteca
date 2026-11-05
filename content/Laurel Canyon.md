@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [canyon, golfo, laurel, tavistock]
 publish: true
+sin_fuente: true
 ---
 
 # Laurel Canyon: El Fabricante De La Rebeldía Programada

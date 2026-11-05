@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [armas, naciones, skull, voice]
 publish: true
+sin_fuente: true
 ---
 
 # Voice to Skull (V2K)

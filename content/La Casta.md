@@ -4,6 +4,7 @@ tipo: concepto
 titulo: La Casta
 estado: activo
 tags: [argentina, politica, elite, narrativa, tl-intel-v3]
+sin_fuente: true
 ---
 
 # La Casta

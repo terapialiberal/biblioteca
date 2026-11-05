@@ -6,6 +6,7 @@ capa_tema: c
 nivel_evidencia: bajo-medio
 tags: [sra, panico-moral, abuso, satanic-panic, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Abuso Ritual Satánico (SRA)

@@ -10,6 +10,7 @@ tags:
   - rimland
   - tl-intel-v3
 publish: true
+sin_fuente: true
 ---
 
 # ASEAN
@@ -20,7 +21,7 @@ publish: true
 
 ## Lectura TL
 
-Su valor no esta solo en la integracion regional, sino en su posicion sobre chokepoints, cadenas de suministro, semiconductores, energia y rutas entre el [[Estrecho de Malaca]], el Mar del Sur de China y el Oceano Indico.
+Su valor no esta solo en la integración regional, sino en su posición sobre chokepoints, cadenas de suministro, semiconductores, energía y rutas entre el [[Estrecho de Malaca]], el Mar del Sur de China y el Oceano Indico.
 
 ## Conexiones TL
 
@@ -33,9 +34,9 @@ Su valor no esta solo en la integracion regional, sino en su posicion sobre chok
 
 ## Señales recientes
 
-- presion cruzada entre infraestructura china, seguridad estadounidense y autonomia regional;
-- relocalizacion industrial desde China hacia Vietnam, Indonesia, Malasia y Tailandia;
-- competencia por puertos, cables submarinos, energia y manufactura avanzada.
+- presión cruzada entre infraestructura china, seguridad estadounidense y autonomia regional;
+- relocalización industrial desde China hacia Vietnam, Indonesia, Malasia y Tailandia;
+- competencia por puertos, cables submarinos, energía y manufactura avanzada.
 
 ---
 

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: ["2008", crisis, edward, obama]
 publish: true
+sin_fuente: true
 ---
 
 # Elección De Obama 2008

@@ -7,6 +7,7 @@ tags: [diplomacia, john, rosacrucismo, royal]
 capa_tema: "b"
 nivel_evidencia: "medio"
 publish: true
+sin_fuente: true
 ---
 
 # Rosacrucismo Y Diplomacia Secreta

@@ -8,27 +8,28 @@ tags: [vortices-energeticos, lugar-sagrado, turismo-esoterico, simbolismo, tl-in
 capa_tema: c
 nivel_evidencia: bajo
 publish: true
+sin_fuente: true
 ---
 
 # Vortices Energeticos
 
 ## BLUF
 
-Vortices Energeticos es un nodo sobre lugares interpretados como puntos de energia, portal o intensidad espiritual. TL los trata como fenomeno cultural y turistico-esoterico, no como hecho fisico demostrado.
+Vortices Energeticos es un nodo sobre lugares interpretados como puntos de energía, portal o intensidad espiritual. TL los trata como fenomeno cultural y turistico-esoterico, no como hecho fisico demostrado.
 
 ## Que es
 
-El concepto aparece en relatos New Age, turismo espiritual y geografia sagrada. Sitios naturales o arquitectonicos se convierten en lugares de peregrinacion por su supuesta carga energetica.
+El concepto aparece en relatos New Age, turismo espiritual y geografia sagrada. Sitios naturales o arquitectonicos se convierten en lugares de peregrinación por su supuesta carga energetica.
 
 ## Por que importa en TL
 
-- conecta territorio, mito, turismo, identidad y mercantilizacion de lo sagrado;
+- conecta territorio, mito, turismo, identidad y mercantilización de lo sagrado;
 - ayuda a leer como un lugar adquiere poder narrativo;
 - separa experiencia subjetiva de evidencia fisica.
 
 ## Lectura TL
 
-El vortice importa aunque no sea medible: organiza flujo de personas, dinero, reputacion y sentido. La pregunta TL es que red economica o cultural se construye alrededor del lugar.
+El vortice importa aunque no sea medible: organiza flujo de personas, dinero, reputación y sentido. La pregunta TL es que red económica o cultural se construye alrededor del lugar.
 
 ## Conexiones
 
@@ -40,4 +41,4 @@ El vortice importa aunque no sea medible: organiza flujo de personas, dinero, re
 
 ## Nivel de evidencia
 
-Bajo para claims fisicos extraordinarios. Medio como fenomeno cultural y economico.
+Bajo para claims fisicos extraordinarios. Medio como fenomeno cultural y económico.

@@ -6,6 +6,7 @@ estado: activo
 tags: [egregore]
 nivel_evidencia: "medio"
 publish: true
+sin_fuente: true
 ---
 
 # Egregore - La Entidad Colectiva Programada

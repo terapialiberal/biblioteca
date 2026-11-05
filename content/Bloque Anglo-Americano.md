@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [bloque-anglo-americano, atlantismo, imperio, inteligencia, finanzas, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Bloque Anglo-Americano

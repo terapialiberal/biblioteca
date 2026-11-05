@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [alfred-kinsey, sexualidad, ingenieria-social, fundaciones, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Alfred Kinsey

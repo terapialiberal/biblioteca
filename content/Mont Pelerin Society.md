@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [atlas, neoliberalismo, pelerin, society]
 publish: true
+sin_fuente: true
 ---
 
 # Mont Pelerin Society: El Politburó Del Neoliberalismo

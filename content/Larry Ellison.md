@@ -3,21 +3,22 @@ publish: true
 titulo: Larry Ellison
 tipo: persona
 estado: activo
+sin_fuente: true
 ---
 
 # Larry Ellison
 
 #### BLUF
 
-Ellison ha consolidado a [[Oracle]] como la infraestructura crtica del **Tier A** mediante la captura de la **Soberana de Datos** (TikTok USDS) y la independencia energtica (SMRs). En 2026, es el arquitecto del nexo hardware-poltica, operando como el guardin de la "Nube de Seguridad Nacional" de Trump.
+Ellison ha consolidado a [[Oracle]] como la infraestructura crtica del **Tier A** mediante la captura de la **Soberana de Datos** (TikTok USDS) y la independencia energtica (SMRs). En 2026, es el arquitecto del nexo hardware-política, operando como el guardin de la "Nube de Seguridad Nacional" de Trump.
 
 #### MAPA DE ACTORES
 
 | Actor | Tier | Rol Real | Incentivo Oculto |
 |-------|------|----------|-----------------|
 | [[Larry Ellison]] | A | Arquitecto de Infraestructura | Captura de RPO (\523B) y control biopoltico. |
-| [[Donald Trump]] | B | Validador Poltico | Centralizacin de datos federales en [[Oracle]]. |
-| [[MBS (Saudi Arabia)]]| A | Financista (Vision 2030) | Nube soberana para NEOM e IA regional. |
+| [[Donald Trump]] | B | Validador Político | Centralizacin de datos federales en [[Oracle]]. |
+| [[MBS (Saudi Arabia)]]| A | Financista (Visión 2030) | Nube soberana para NEOM e IA regional. |
 | [[Elon Musk]] | B | Competidor/Socio (xAI) | Acceso a clusters de GPUs de Oracle. |
 
 #### SEALES VS RUIDO
@@ -25,15 +26,15 @@ Ellison ha consolidado a [[Oracle]] como la infraestructura crtica del **Tier A*
 | Tipo | Accin / Declaracin | Interpretacin |
 |------|----------------------|----------------|
 | ?? Seal ? | Emisin de deuda de \50B para infraestructura AI (Feb 2026). | Apuesta total por el chokepoint fsico del cmputo. |
-| ?? Seal ? | Permisos aprobados para 3 SMRs (Reactores Nucleares) en Texas. | Desacople del sistema energtico civil; soberana total. |
+| ?? Seal ? | Permisos aprobados para 3 SMRs (Reactores Nucleares) en Texas. | Desacople del sistema energético civil; soberana total. |
 | ?? Ruido ? | "Oracle es una compaa de bases de datos". | Oracle es una compaa de gobernanza y vigilancia estatal en 2026. |
 
 #### CUI BONO REAL
 
-**Quin captura qu?**
+**Quién captura qué?**
 [[Oracle]] captura el **Collateral de los Datos Soberanos**. Al hospedar a [[TikTok]] (USDS) y a la NCIA ([[NATO]]), Ellison se vuelve el "Landlord" digital de los secretos de Estado. Nadie puede auditar el algoritmo de TikTok sin pasar por sus servidores.
 
-#### ANLISIS DE JUEGO
+#### ANÁLISIS DE JUEGO
 
 **Tipo:** signaling / signaling
 **Equilibrio actual:** Oracle se posiciona como el "Adulto en la sala" de la nube, ofreciendo seguridad total a cambio de integracin estructural. El G7 acepta la dependencia por miedo a China.
@@ -57,7 +58,7 @@ La tesis se invalida si [[AWS]] o [[Microsoft]] logran desplegar su propia flota
 #### DEVIL'S ADVOCATE
 
 **Probabilidad: 15%**
-Ellison simplemente es un inversor oportunista con suerte poltica. Su inversin en TikTok es solo un negocio publicitario y su apuesta nuclear es una tctica de marketing para inflar la accin de [[Oracle]] ante la burbuja de la IA.
+Ellison simplemente es un inversor oportunista con suerte política. Su inversin en TikTok es solo un negocio publicitario y su apuesta nuclear es una tctica de marketing para inflar la accin de [[Oracle]] ante la burbuja de la IA.
 
 #### BALAS DE PLATA
 

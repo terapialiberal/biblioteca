@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [informe, royal, supresin, vital]
 publish: true
+sin_fuente: true
 ---
 
 # Royal Rife: el Descifrador de la Resonancia Vital Y Su Supresión

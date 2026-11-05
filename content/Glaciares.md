@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [barrick, cristina, glaciares, veto]
 publish: true
+sin_fuente: true
 ---
 
 # Glaciares (Ley Y Veto Barrick)

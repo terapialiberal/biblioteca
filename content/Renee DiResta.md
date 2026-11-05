@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [renee-diresta, censura, virality-project, cisa, plataformas, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Renee DiResta

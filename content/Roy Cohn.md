@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [cohn, compromat, matrix, mentor]
 publish: true
+sin_fuente: true
 ---
 
 # Roy Cohn: el Maestro del Compromat Y el Mentor de la Matrix

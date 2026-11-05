@@ -5,6 +5,7 @@ aliases: ["Banco Popular de China", "PBOC", "People's Bank of China"]
 tags: [banco-central, china, yuan]
 tipo: institucion
 tier_primario: b
+sin_fuente: true
 ---
 
 # Banco Popular de China

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [arabia, debacle, shooting, vegas]
 publish: true
+sin_fuente: true
 ---
 
 # Las Vegas Shooting: El Debacle De La Operación En La Sombra

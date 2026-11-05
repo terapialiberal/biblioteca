@@ -6,28 +6,29 @@ fecha: 2026-04-15
 tier_primario: B
 estado: activo
 tags: [marina-abramovic, simbolismo, control-narrativo, tl-intel-v3]
+sin_fuente: true
 ---
 
 # [[Marina Abramovic]]
 
 > [!abstract] PERFIL TL-INTEL
-> Artista de performance y vector cultural util para leer capas simbolicas, esteticas de excepcion y legitimacion blanda.
+> Artista de performance y vector cultural util para leer capas simbolicas, esteticas de excepción y legitimación blanda.
 
-## Clasificacion
+## Clasificación
 
 | Campo | Valor |
 |---|---|
 | Tier | B |
 | Tipo | Persona |
-| Funcion sistemica | circulacion simbolica y legitimacion cultural |
-| Activo que captura | atencion, ambiguedad y densidad simbolica |
-| Rasgo diferencial | su utilidad analitica aparece cuando una elite usa su imaginario como marca de ruptura o transgresion |
+| Función sistémica | circulación simbolica y legitimación cultural |
+| Activo que captura | atención, ambiguedad y densidad simbolica |
+| Rasgo diferencial | su utilidad analitica aparece cuando una elite usa su imaginario como marca de ruptura o transgresión |
 
 ## Contexto
 
-[[Marina Abramovic]] no importa en TL como prueba dura de arquitectura politica, sino como indicador cultural. Su valor esta en la capacidad de su nombre para condensar ritual, transgresion, elite artistica y provocacion simbolica.
+[[Marina Abramovic]] no importa en TL como prueba dura de arquitectura política, sino como indicador cultural. Su valor esta en la capacidad de su nombre para condensar ritual, transgresión, elite artistica y provocación simbolica.
 
-Cuando aparece asociada a [[Donald Trump]] o a ecosistemas de poder no funciona como evidencia central. Funciona como capa de lectura sobre la construccion narrativa del momento.
+Cuando aparece asociada a [[Donald Trump]] o a ecosistemas de poder no funciona como evidencia central. Funciona como capa de lectura sobre la construcción narrativa del momento.
 
 ## Mecanismos de Poder
 
@@ -35,27 +36,27 @@ Cuando aparece asociada a [[Donald Trump]] o a ecosistemas de poder no funciona 
 
 Abramovic opera en un territorio donde la imagen vale por su capacidad de activar interpretaciones intensas y a veces contradictorias.
 
-### Legitimacion blanda
+### Legitimación blanda
 
-Su nombre puede ser usado para envolver a figuras politicas en una estetica de excepcion, ruptura o iniciacion.
+Su nombre puede ser usado para envolver a figuras políticas en una estetica de excepción, ruptura o iniciación.
 
 ### Ambiguedad funcional
 
-Precisamente porque no pertenece al circuito clasico de politica dura, su presencia sirve para producir clima, no para cerrar prueba.
+Precisamente porque no pertenece al circuito clasico de política dura, su presencia sirve para producir clima, no para cerrar prueba.
 
 ## Senales vs Ruido
 
 | Senal | Ruido | Gradiente |
 |---|---|---|
-| figura cultural con fuerte carga simbolica y red internacional | usar su nombre como prueba automatica de conspiracion cerrada | ✅ |
+| figura cultural con fuerte carga simbolica y red internacional | usar su nombre como prueba automatica de conspiración cerrada | ✅ |
 | declaraciones o asociaciones con figuras de alto perfil pueden servir como lectura narrativa | convertir cualquier contacto en arquitectura de poder demostrada | 🔶 |
-| su presencia ayuda a leer mitologia politica y estetica de ruptura | reemplazar evidencia material por simbolismo | ⚠️ |
+| su presencia ayuda a leer mitologia política y estetica de ruptura | reemplazar evidencia material por simbolismo | ⚠️ |
 
 ## Hipotesis de Trabajo
 
-**Hipotesis**: Marina Abramovic funciona en ciertos casos como vector cultural de legitimacion blanda para una politica de excepcion o de reset simbolico.
+**Hipotesis**: Marina Abramovic funciona en ciertos casos como vector cultural de legitimación blanda para una política de excepción o de reset simbolico.
 
-**Se refutaria si**: su aparicion en estos casos fuese puramente contingente y sin traccion narrativa real.
+**Se refutaria si**: su aparición en estos casos fuese puramente contingente y sin tracción narrativa real.
 
 **Evidencia necesaria**:
 
@@ -69,6 +70,6 @@ Precisamente porque no pertenece al circuito clasico de politica dura, su presen
 - [[Peter Thiel]]
 - [[Control Narrativo]]
 
-## Observacion Operativa
+## Observación Operativa
 
 Abramovic sirve mejor como lectura del clima simbolico que como prueba causal. En TL debe usarse como borde analitico, no como columna principal del caso.

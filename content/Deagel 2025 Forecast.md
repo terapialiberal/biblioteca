@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [deagel, demogrfico, despoblacin, forecast]
 publish: true
+sin_fuente: true
 ---
 
 # Deagel 2025 Forecast (Pronóstico Demográfico)
@@ -15,7 +16,7 @@ publish: true
 
 **¿Qué es?** Un oscuro y detallado pronóstico demográfico y económico por país para el año 2025, publicado originalmente en el sitio web de análisis militar **Deagel.com**.
 
-**¿Por qué importa?** El informe se volvió viral y luego fue borrado por predecir una **caída catastrófica de la población en los países occidentales** para el año 2025 (EE.UU. bajando de 330 millones a menos de 100 millones; Reino Unido y Alemania con caídas del 50-70%). Lo que lo hace inquietante es que Deagel no es un blog de conspiración, sino un proveedor de datos para agencias de inteligencia y contratistas de defensa (DIA, CIA, Banco Mundial). El pronóstico basaba el colapso en una combinación de **colapso financiero sistémico**, guerra biológica y una "migración inversa" masiva hacia los países del **[[BRICS]]**. Tras el inicio de la pandemia en 2020 y el aumento del exceso de mortalidad global post-2021, el "Pronóstico Deagel" pasó de ser una curiosidad a ser considerado por muchos como una **filtración de la agenda de despoblación de Tier A**.
+**¿Por qué importa?** El informe se volvió viral y luego fue borrado por predecir una **caída catastrófica de la población en los países occidentales** para el año 2025 (EE.UU. bajando de 330 millones a menos de 100 millones; Reino Unido y Alemania con caídas del 50-70%). Lo que lo hace inquietante es que Deagel no es un blog de conspiración, sino un proveedor de datos para agencias de inteligencia y contratistas de defensa (DÍA, CIA, Banco Mundial). El pronóstico basaba el colapso en una combinación de **colapso financiero sistémico**, guerra biológica y una "migración inversa" masiva hacia los países del **[[BRICS]]**. Tras el inicio de la pandemia en 2020 y el aumento del exceso de mortalidad global post-2021, el "Pronóstico Deagel" pasó de ser una curiosidad a ser considerado por muchos como una **filtración de la agenda de despoblación de Tier A**.
 
 ## Análisis De Poder (Tiers)
 

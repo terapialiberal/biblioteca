@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Panóptico Digital", "Panóptico Digital: El Ojo Que Está En Todas Partes"]
 tags: [panoptico-digital, vigilancia, autocensura, big-data, control-social, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Panoptico Digital

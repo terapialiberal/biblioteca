@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [aquino, escndalo, michael, temple]
 publish: true
+sin_fuente: true
 ---
 
 # Michael Aquino

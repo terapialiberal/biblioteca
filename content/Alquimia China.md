@@ -6,6 +6,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [esoterismo, china, longevidad, control-biologico]
 publish: true
+sin_fuente: true
 ---
 
 # Alquimia China: Waidan y Neidan (V.3)

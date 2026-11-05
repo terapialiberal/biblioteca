@@ -7,6 +7,7 @@ nivel_evidencia: "alto"
 estado: activo
 tags: [engdahl, energia, petroleo, guerra, rutas, geoeconomia]
 publish: true
+sin_fuente: true
 ---
 
 # William Engdahl

@@ -58,7 +58,7 @@ Trump sirve para leer cómo una personalidad hipermediática puede funcionar a l
 
 ## Caso 2026-09-24 — La guerra que está reordenando el mapa energético
 
-**Fuente principal:** transcripción del video LA GUERRA QUE ESTÁ REORDENANDO EL MAPA ENERGÉTICO (emitido 2026-09-24): `03_Produccion/2026-09-14_El_dia_despues_tiene_duenios/transcripcion.md`
+**Fuente principal:** transcripción del video LA GUERRA QUE ESTÁ REORDENANDO EL MAPA ENERGÉTICO (emitido 2026-09-24): `03_Produccion/2026-09-14_El_dia_despues_tiene_duenios/transcripción.md`
 
 **Trump se negó a atacar a pesar del pedido saudí.** El príncipe heredero saudí Mohammed bin Salman (MBS) llamó **dos veces a Trump el jueves 11 de septiembre de 2026** para pedirle que lanzara ataques militares contra los hutíes mientras el grupo con apoyo iraní avanzaba sobre un punto de inflexión vital del Mar Rojo. Trump **declinó**. Funcionarios de EE.UU. enfatizaron que la administración no tiene planes de intervenir directamente contra los hutíes en este momento. La prioridad de Washington es mantener abierto el Mar Rojo mientras se deja la batalla más amplia a los socios regionales.
 
@@ -86,4 +86,4 @@ Trump sirve para leer cómo una personalidad hipermediática puede funcionar a l
 
 - **Axios** (Barak Ravid, 11/09/2026): https://www.axios.com/2026/09/11/houthis-yemen-saudi-trump-mbs-strikes
 - **X (TranslateMom)** (24/09/2026): https://x.com/TranslateMom/status/2099517803384512733
-- Transcripción del video LA GUERRA QUE ESTÁ REORDENANDO EL MAPA ENERGÉTICO (24/09/2026): `03_Produccion/2026-09-14_El_dia_despues_tiene_duenios/transcripcion.md`
+- Transcripción del video LA GUERRA QUE ESTÁ REORDENANDO EL MAPA ENERGÉTICO (24/09/2026): `03_Produccion/2026-09-14_El_dia_despues_tiene_duenios/transcripción.md`

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [colapso, effective, open]
 publish: true
+sin_fuente: true
 ---
 
 # Colapso De FTX
@@ -14,7 +15,7 @@ publish: true
 > [!INFO] Contexto
 > Una de las mayores estafas financieras de la historia.
 
-## Qu Pas
+## Qué Pas
 
 En noviembre de 2022, FTX (exchange de crypto de Sam Bankman-Fried) colaps.
 
@@ -32,8 +33,8 @@ En noviembre de 2022, FTX (exchange de crypto de Sam Bankman-Fried) colaps.
 ## Preguntas
 
 - A dnde fue el dinero realmente?
-- Por qu Caroline Ellison (pareja, co-conspirador) recibi sentencia tan leve?
-- Qu rol jug la familia Bankman (abogados de alto nivel)?
+- Por qué Caroline Ellison (pareja, co-conspirador) recibi sentencia tan leve?
+- Qué rol jug la familia Bankman (abogados de alto nivel)?
 
 ## Conexiones
 

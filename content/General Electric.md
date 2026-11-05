@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [desindustrializacin, electric, financiarizacin]
 publish: true
+sin_fuente: true
 ---
 
 # General Electric (GE)

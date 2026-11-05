@@ -8,6 +8,7 @@ tags: [solidos-platonicos, geometria-sagrada, platon, simbolismo, tl-intel-v3]
 capa_tema: c
 nivel_evidencia: alto
 publish: true
+sin_fuente: true
 ---
 
 # Solidos Platonicos

@@ -7,6 +7,7 @@ tags: [calendario-13-lunas, tiempo, ciclos, simbolismo, tl-intel-v3]
 capa_tema: c
 nivel_evidencia: medio
 publish: true
+sin_fuente: true
 ---
 
 # Calendario de 13 Lunas

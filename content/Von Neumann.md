@@ -6,6 +6,7 @@ estado: activo
 aliases: ["John von Neumann", "Von Neumann"]
 tags: [von-neumann, computacion, teoria-juegos, nuclear, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Von Neumann

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [doctrina, patricia, protocolo, pblico]
 publish: true
+sin_fuente: true
 ---
 
 # Protocolo Anti-Piquetes: la Doctrina del Orden Público

@@ -8,27 +8,28 @@ tags: [sincro-destino, sincronicidad, destino, simbolismo, tl-intel-v3]
 capa_tema: c
 nivel_evidencia: bajo
 publish: true
+sin_fuente: true
 ---
 
 # Sincro-Destino Cosmico
 
 ## BLUF
 
-Sincro-Destino Cosmico agrupa narrativas donde coincidencias significativas son interpretadas como señales de destino, orden superior o direccion invisible.
+Sincro-Destino Cosmico agrupa narrativas donde coincidencias significativas son interpretadas como señales de destino, orden superior o dirección invisible.
 
 ## Que es
 
-Combina la idea de sincronicidad con lecturas cosmologicas o espirituales del curso historico. En TL se conserva como objeto cultural y simbolico, no como prueba causal.
+Combina la idea de sincronicidad con lecturas cosmologicas o espirituales del curso histórico. En TL se conserva como objeto cultural y simbolico, no como prueba causal.
 
 ## Por que importa en TL
 
 - ayuda a leer como individuos y comunidades convierten azar en sentido;
-- conecta profecia, narrativa politica y legitimacion por destino;
-- advierte contra confundir correlacion simbolica con evidencia operacional.
+- conecta profecia, narrativa política y legitimación por destino;
+- advierte contra confundir correlación simbolica con evidencia operacional.
 
 ## Lectura TL
 
-El poder puede aprovechar narrativas de destino cuando necesita que un resultado parezca inevitable. La pregunta TL es quien gana si la contingencia se reinterpreta como mision cosmica.
+El poder puede aprovechar narrativas de destino cuando necesita que un resultado parezca inevitable. La pregunta TL es quien gana si la contingencia se reinterpreta como misión cosmica.
 
 ## Conexiones
 

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [educativo, escuela, homeschooling, xodo]
 publish: true
+sin_fuente: true
 ---
 
 # Homeschooling (Éxodo Educativo)

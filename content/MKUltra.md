@@ -6,6 +6,7 @@ estado: activo
 aliases: ["MK Ultra", "MK-Ultra", "MK-Ultra (Control Mental CIA)"]
 tags: [mkultra, cia, control-mental, experimentos, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # MKUltra

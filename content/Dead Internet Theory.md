@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [agencias, desierto, openai, theory]
 publish: true
+sin_fuente: true
 ---
 
 # Dead Internet Theory

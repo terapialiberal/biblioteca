@@ -3,14 +3,15 @@ publish: true
 titulo: "Pentagon Misinformed Trillions: El Robo Del Siglo Y El Borrn Del 11-S"
 tipo: concepto
 estado: activo
+sin_fuente: true
 ---
 
 # Pentagon Misinformed Trillions (TL V.3): El Robo Del Siglo Y El Borrn Del 11-S
 
 > [!ABSTRACT] Hiptesis Informativa
-> El 10 de septiembre de 2001, el Secretario de Defensa **Donald Rumsfeld** anunci que el Pentgono no poda rastrear **\2.3 trillones de dlares** en gastos militares, definiendo a la burocracia propia como el "mayor enemigo" de EE.UU. Menos de 24 horas despus, los ataques del 11 de septiembre proporcionaron la **Operacin de Borrado de Datos** perfecta: el misil/avin que impact el Pentgono golpe precisamente el ala donde se encontraba la oficina de auditora que investigaba los fondos desaparecidos, destruyendo los registros y al personal encargado. Es la prueba definitiva de cmo el **[[Tier A]]** utiliza eventos catastrficos para ocultar desfalcos financieros masivos y financiar operaciones encubiertas fuera de todo control democrtico.
+> El 10 de septiembre de 2001, el Secretario de Defensa **Donald Rumsfeld** anunci que el Pentgono no poda rastrear **\2.3 trillones de dólares** en gastos militares, definiendo a la burocracia propia como el "mayor enemigo" de EE.UU. Menos de 24 horas despus, los ataques del 11 de septiembre proporcionaron la **Operacin de Borrado de Datos** perfecta: el misil/avin que impact el Pentgono golpe precisamente el ala donde se encontraba la oficina de auditora que investigaba los fondos desaparecidos, destruyendo los registros y al personal encargado. Es la prueba definitiva de cómo el **[[Tier A]]** utiliza eventos catastrficos para ocultar desfalcos financieros masivos y financiar operaciones encubiertas fuera de todo control democrático.
 
-## Anlisis De Tiers
+## Análisis De Tiers
 
 ### Tier A (Los Arquitectos Del Estado Profundo Financiero)
 
@@ -23,16 +24,16 @@ estado: activo
 ## Mecanismos De Poder (Financieros Y Tcticos)
 
 1. **Destruccin de Evidencia Selectiva**: Uso de un ataque de "alerta mxima" para realizar una limpieza de archivos domsticos, una tcnica de **[[Problema-Reacción-Solución|Problema-Reaccin-Solucin]]** donde la solucin final es la impunidad financiera total.
-2. **Presupuesto de Guerra Infinito**: Aprovechar el estado de guerra para inyectar billones de dlares adicionales en el Pentgono sin necesidad de responder por los faltantes previos, legalizando el robo mediante la emergencia nacional.
+2. **Presupuesto de Guerra Infinito**: Aprovechar el estado de guerra para inyectar billones de dólares adicionales en el Pentgono sin necesidad de responder por los faltantes previos, legalizando el robo mediante la emergencia nacional.
 
 ## Conexiones Críticas
 
-- [[9-11]]: El evento que borr la investigacin.
+- [[9-11]]: El evento que borr la investigación.
 - [[Donald Rumsfeld]]: El autor del anuncio de los trillones "perdidos".
 - [[Patriot Act]]: La legislacin que permiti ocultar los presupuestos de inteligencia tras el evento.
 - [[Presupuesto Negro]]: El destino final habitual de estos fondos no rastreables.
-- [[Guerra de Irak]]: El siguiente gran negocio que justific ms gasto sin auditora.
+- [[Guerra de Irak]]: El siguiente gran negocio que justific más gasto sin auditora.
 
-## Conclusin Del Anlisis
+## Conclusin Del Análisis
 
-"Pentagon Misinformed Trillions" nos ensea que **las grandes catstrofes suelen ser incendios en los archivos de la lite**. Nos advierte que no existen las coincidencias cuando se trata de billones de dlares y auditoras militares. Para el habitante soberano del Tier C, este caso es la prueba de que el dinero de sus impuestos no financia la "defensa", sino una estructura de poder invisible que opera por encima de cualquier ley. La libertad real exige la auditora total de la fuerza y el rechazo a financiar guerras que se alimentan del robo y el ocultamiento de la verdad.
+"Pentagon Misinformed Trillions" nos ensea que **las grandes catstrofes suelen ser incendios en los archivos de la lite**. Nos advierte que no existen las coincidencias cuando se trata de billones de dólares y auditoras militares. Para el habitante soberano del Tier C, este caso es la prueba de que el dinero de sus impuestos no financia la "defensa", sino una estructura de poder invisible que opera por encima de cualquier ley. La libertad real exige la auditora total de la fuerza y el rechazo a financiar guerras que se alimentan del robo y el ocultamiento de la verdad.

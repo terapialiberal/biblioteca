@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [sundar-pichai, google, alphabet, plataformas, gobernanza-digital, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Sundar Pichai

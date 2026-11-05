@@ -7,6 +7,7 @@ tags: [confluencia, digital]
 capa_tema: "a"
 nivel_evidencia: "alto"
 publish: true
+sin_fuente: true
 ---
 
 # Confluencia Bio-Digital

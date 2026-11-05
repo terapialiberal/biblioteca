@@ -6,6 +6,7 @@ nivel_evidencia: "alto"
 estado: activo
 tags: [psicologia, percepcion, narrativa, salud]
 publish: true
+sin_fuente: true
 ---
 
 # Efecto Nocebo Global (V.3)

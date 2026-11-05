@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [international, road, tripp, trump]
 publish: true
+sin_fuente: true
 ---
 
 # TRIPP (Trump Road for International Peace and Prosperity)

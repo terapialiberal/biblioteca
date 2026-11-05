@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [capitalista, dyncorp, industrial, stephen]
 publish: true
+sin_fuente: true
 ---
 
 # Stephen Feinberg: el Capitalista en la Sombra del Complejo Militar-Industrial

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [dancing, israelis, michael, mossad]
 publish: true
+sin_fuente: true
 ---
 
 # Dancing Israelis (9-11)

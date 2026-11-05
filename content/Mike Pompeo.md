@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [julian, mike, miriam, pompeo]
 publish: true
+sin_fuente: true
 ---
 
 # Mike Pompeo: El Halcón Del Sionismo Cristiano

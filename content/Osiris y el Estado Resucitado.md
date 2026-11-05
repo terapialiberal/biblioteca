@@ -6,6 +6,7 @@ estado: activo
 tags: [domo, estado, osiris, solve]
 nivel_evidencia: "alto"
 publish: true
+sin_fuente: true
 ---
 
 # Osiris Y El Estado Resucitado

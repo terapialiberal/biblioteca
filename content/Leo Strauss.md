@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Leo Strauss: El Arquitecto De La Mentira Noble"]
 tags: [leo-strauss, neoconservadores, mentira-noble, filosofia-politica, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Leo Strauss

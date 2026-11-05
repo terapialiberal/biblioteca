@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [palantir, gotham, foundry, vigilancia, datos, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Palantir Gotham vs Foundry

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [bros, david, discovery, warner]
 publish: true
+sin_fuente: true
 ---
 
 # Warner Bros Discovery

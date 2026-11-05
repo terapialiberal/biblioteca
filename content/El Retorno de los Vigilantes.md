@@ -8,6 +8,7 @@ tags: [vigilantes, mito, vigilancia, esoterismo, tl-intel-v3]
 capa_tema: c
 nivel_evidencia: bajo
 publish: true
+sin_fuente: true
 ---
 
 # El Retorno de los Vigilantes
@@ -23,7 +24,7 @@ La figura de los vigilantes aparece en tradiciones apocrifas, esotericas y consp
 ## Por que importa en TL
 
 - conecta mito antiguo con panoptico digital;
-- ayuda a leer deseos y temores de supervision superior;
+- ayuda a leer deseos y temores de supervisión superior;
 - permite separar arquetipo de evidencia.
 
 ## Lectura TL

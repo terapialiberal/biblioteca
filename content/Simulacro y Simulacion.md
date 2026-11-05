@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [mapa, simulacin, simulacro, territorio]
 publish: true
+sin_fuente: true
 ---
 
 # Simulacro Y Simulación: el Mapa Que Precede Al Territorio

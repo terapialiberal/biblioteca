@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [george, internacional, lawfare, penal]
 publish: true
+sin_fuente: true
 ---
 
 # Corte Penal Internacional (CPI)

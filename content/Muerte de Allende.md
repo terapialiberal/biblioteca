@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [allende, augusto, castigo, henry]
 publish: true
+sin_fuente: true
 ---
 
 # Muerte De Allende: El Castigo Imperial

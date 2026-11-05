@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [cicyp, argentina, lobby, empresariado, comercio, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Consejo Interamericano de Comercio y Producción

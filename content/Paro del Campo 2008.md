@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [campo, contra, paro, rebelin]
 publish: true
+sin_fuente: true
 ---
 
 # Paro Del Campo 2008: La Rebelión contra La Expropiación

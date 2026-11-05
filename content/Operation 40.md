@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [deep, operation, richard, universidad]
 publish: true
+sin_fuente: true
 ---
 
 # Operation 40: La Universidad Del Asesinato Del Deep State

@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Cambodia"]
 tags: [camboya, sudeste-asiatico, khmer-rouge, china, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Camboya

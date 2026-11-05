@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [constitucin, continuity, fema, suspender]
 publish: true
+sin_fuente: true
 ---
 
 # Continuity of Government: El Plan Para Suspender La Constitución

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [abuso, finders, programacin]
 publish: true
+sin_fuente: true
 ---
 
 # The Finders

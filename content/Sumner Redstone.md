@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [viacom, media, content, redstone]
 publish: true
+sin_fuente: true
 ---
 
 # Sumner Redstone: el Arquitecto del Psiquismo Colectivo

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [clientelismo, gerentes, liquidadora, pettovello]
 publish: true
+sin_fuente: true
 ---
 
 # Sandra Pettovello: la Liquidadora del Clientelismo Kirchnerista

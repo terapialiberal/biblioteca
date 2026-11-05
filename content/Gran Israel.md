@@ -7,6 +7,7 @@ capa_tema: b
 nivel_evidencia: medio
 estado: activo
 tags: [gran-israel, gaza, israel, corredor, territorio, tl-intel-v3]
+sin_fuente: true
 ---
 
 # Gran Israel

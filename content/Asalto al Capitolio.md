@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [asalto, capitolio, donald]
 publish: true
+sin_fuente: true
 ---
 
 # Asalto Al Capitolio

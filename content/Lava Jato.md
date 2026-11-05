@@ -5,6 +5,7 @@ aliases: ["Lava Jato", "Operación Lava Jato"]
 tags: [corrupcion, brasil, lawfare, operacion-judicial]
 tipo: evento
 capa_tema: b
+sin_fuente: true
 ---
 
 # Lava Jato

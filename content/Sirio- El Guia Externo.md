@@ -8,21 +8,22 @@ tags: [sirio, guia-externo, astro-simbolismo, esoterismo, tl-intel-v3]
 capa_tema: c
 nivel_evidencia: bajo
 publish: true
+sin_fuente: true
 ---
 
 # Sirio - El Guia Externo
 
 ## BLUF
 
-Sirio funciona como simbolo de guia externa, estrella de orientacion y conocimiento venido de afuera. TL lo trata como motivo cultural, no como causalidad astral.
+Sirio funciona como simbolo de guia externa, estrella de orientación y conocimiento venido de afuera. TL lo trata como motivo cultural, no como causalidad astral.
 
 ## Que es
 
-Sirio es una estrella real con fuerte presencia en mitologias, calendarios y sistemas esotericos. Su uso simbolico suele mezclar orientacion, iniciacion y origen superior.
+Sirio es una estrella real con fuerte presencia en mitologias, calendarios y sistemas esotericos. Su uso simbolico suele mezclar orientación, iniciación y origen superior.
 
 ## Por que importa en TL
 
-- conecta astronomia cultural, iniciacion y legitimacion por origen externo;
+- conecta astronomia cultural, iniciación y legitimación por origen externo;
 - ayuda a leer relatos donde la autoridad viene de una fuente no terrestre o superior;
 - obliga a separar astro real, mito y claim operativo.
 
@@ -39,4 +40,4 @@ La figura del guia externo aparece cuando una comunidad necesita legitimar una d
 
 ## Nivel de evidencia
 
-Bajo para claims causales. Medio como simbolo historico-cultural.
+Bajo para claims causales. Medio como simbolo histórico-cultural.

@@ -7,6 +7,7 @@ tags: [japn, martillo, yakuza]
 capa_tema: "b"
 nivel_evidencia: "alto"
 publish: true
+sin_fuente: true
 ---
 
 # Yakuza — El Martillo De La Reconstrucción Japonesa

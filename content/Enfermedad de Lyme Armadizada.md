@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [armadizada, enfermedad, fort, guerra]
 publish: true
+sin_fuente: true
 ---
 
 # Enfermedad De Lyme Armadizada

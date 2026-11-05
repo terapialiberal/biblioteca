@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [bis-innovation-hub, bis, cbdc, tokenizacion, liquidacion, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # BIS Innovation Hub
@@ -39,21 +40,21 @@ En TL, su relevancia crece cuando se observa que muchas transformaciones monetar
 
 Su utilidad aparece al mostrar que programabilidad, trazabilidad y liquidación ya no son meras funciones técnicas, sino decisiones de arquitectura con efectos de poder.
 
-### 4. Coordinacion transnacional antes del acuerdo politico
+### 4. Coordinación transnacional antes del acuerdo político
 
 Leido junto con [[CBDC Interoperability]], [[Proyecto Agora]] y [[Proyecto mBridge]], el nodo deja ver que la coordinación monetaria puede avanzar por infraestructura y pruebas conjuntas incluso cuando el consenso geopolítico de alto nivel sigue fragmentado.
 
-### 5. Nodo bisagra entre bloque dolar y rails alternativos
+### 5. Nodo bisagra entre bloque dólar y rails alternativos
 
 Su relevancia crece cuando se lo ubica entre dos dinámicas simultáneas: por un lado, proyectos de orden y supervisión coordinada; por otro, la presión de arquitecturas alternativas ligadas a [[Desdolarizacion]] y a nuevos rails regionales.
 
-### 6. Coordinacion tecnica para el problema del colateral
+### 6. Coordinación tecnica para el problema del colateral
 
-Leido junto con [[Treasuries]], [[Tokenized Sovereign Debt]] y [[BlackRock BUIDL]], el nodo gana otra capa: no solo experimenta con dinero digital, sino con la futura organizacion de activos elegibles, settlement y movilidad del colateral en un entorno mas programable.
+Leido junto con [[Treasuries]], [[Tokenized Sovereign Debt]] y [[BlackRock BUIDL]], el nodo gana otra capa: no solo experimenta con dinero digital, sino con la futura organización de activos elegibles, settlement y movilidad del colateral en un entorno mas programable.
 
-### 7. El piloto como politica monetaria encubierta
+### 7. El piloto como política monetaria encubierta
 
-En TL, el laboratorio importa porque los pilotos no son perifericos. Funcionan como espacio donde se prueba por adelantado que combinacion de identidad, compliance, interoperabilidad y tokenizacion puede sostener el siguiente tramo del sistema.
+En TL, el laboratorio importa porque los pilotos no son perifericos. Funcionan como espacio donde se prueba por adelantado que combinación de identidad, compliance, interoperabilidad y tokenización puede sostener el siguiente tramo del sistema.
 
 ## Con que conecta
 

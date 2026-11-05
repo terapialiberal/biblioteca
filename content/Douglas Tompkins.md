@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [douglas-tompkins, conservacionismo, patagonia, tierras, soberania, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Douglas Tompkins

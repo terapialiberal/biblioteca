@@ -4,6 +4,7 @@ tipo: evento
 titulo: Guerra de Kosovo
 estado: activo
 tags: [kosovo, otan, balcanes, intervencion-humanitaria, tl-intel-v3]
+sin_fuente: true
 ---
 
 # Guerra de Kosovo

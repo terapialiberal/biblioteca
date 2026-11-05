@@ -11,6 +11,7 @@ tags:
   - trading-algoritmico
   - datos
 publish: true
+sin_fuente: true
 ---
 
 # [[Renaissance Technologies]]

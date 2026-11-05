@@ -4,6 +4,7 @@ tipo: infraestructura
 titulo: Azure
 estado: activo
 tags: [microsoft, nube, infraestructura-digital, tl-intel-v3]
+sin_fuente: true
 ---
 
 # Azure

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [batalla, campo, instituto, psyops]
 publish: true
+sin_fuente: true
 ---
 
 # Operaciones Psicológicas (PsyOps) \[TL V.3]: El Campo De Batalla Mental

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [bufn, gobernanza, matrix, slavoj]
 publish: true
+sin_fuente: true
 ---
 
 # Slavoj Å½iå¾ek: el Bufón de la Corte de la Matrix Global
@@ -31,7 +32,7 @@ publish: true
 ## Mecanismos De Poder (Psicopolíticos Y Mediáticos)
 
 1. **Ideological Transubstantiation (Transustanciación Ideológica)**: Capacidad de tomar una política represiva del Tier A y revestirla de una narrativa de "resistencia común" o "necesidad histórica", haciendo que el Tier C la acepte por motivos estéticos o filosóficos.
-2. **Manufacture of Intellectual Confusion (Manufactura de Confusión Intelectual)**: Uso de paradojas constantes y cambios de postura bruscos para agotar la capacidad de discernimiento del Tier C, creando una dependencia hacia el "intérprete" (Å½iÅ¾ek) para entender la realidad.
+2. **Manufacture of Intellectual Confusión (Manufactura de Confusión Intelectual)**: Uso de paradojas constantes y cambios de postura bruscos para agotar la capacidad de discernimiento del Tier C, creando una dependencia hacia el "intérprete" (Å½iÅ¾ek) para entender la realidad.
 
 ## Conexiones Críticas
 

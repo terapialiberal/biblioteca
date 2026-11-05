@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [brics, complejo, crisis, otan]
 publish: true
+sin_fuente: true
 ---
 
 # Crisis De Municiones (Desindustrialización)

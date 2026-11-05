@@ -7,6 +7,7 @@ tags: [babel, fragmentacin, identidad, torre]
 capa_tema: "a"
 nivel_evidencia: "medio"
 publish: true
+sin_fuente: true
 ---
 
 # La Torre De Babel (Fragmentación De Identidades)

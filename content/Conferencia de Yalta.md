@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [conferencia, josef, winston, yalta]
 publish: true
+sin_fuente: true
 ---
 
 # Conferencia De Yalta

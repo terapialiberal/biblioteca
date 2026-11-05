@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Samsung (Grupo)"]
 tags: [samsung, corea, chips, chaebol, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Samsung

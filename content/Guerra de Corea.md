@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [complejo, corea, guerra, naciones]
 publish: true
+sin_fuente: true
 ---
 
 # Guerra De Corea

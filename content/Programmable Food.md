@@ -7,6 +7,7 @@ nivel_evidencia: "alto"
 estado: activo
 tags: [algoritmo, bajo, dieta, nestl]
 publish: true
+sin_fuente: true
 ---
 
 # Programmable Food
@@ -66,7 +67,7 @@ Es la culminación de la medicina preventiva. ¿Por qué esperar a que alguien t
 
 - **Nanobots Comestibles**: Sensores de grado alimentario que transmiten desde el intestino.
 - **Smart Hydrogels**: Materia que cambia sus propiedades nutricionales según la señal de una app.
-- **Precision Nutrition API**: El estándar de datos para el intercambio de información metabólica.
+- **Precisión Nutrition API**: El estándar de datos para el intercambio de información metabólica.
 
 #### LAGUNAS
 

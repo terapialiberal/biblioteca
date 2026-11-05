@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Nassim Nicholas Taleb: El Desmantelador De La Fragilidad Tecnocratica"]
 tags: [taleb, antifragilidad, cisne-negro, skin-in-the-game, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Nassim Nicholas Taleb

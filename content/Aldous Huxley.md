@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [aldous, huxley, julian, unesco]
 publish: true
+sin_fuente: true
 ---
 
 # Aldous Huxley

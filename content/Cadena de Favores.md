@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [cadena, favores, jeffrey, poltica]
 publish: true
+sin_fuente: true
 ---
 
 # Cadena De Favores (Política)

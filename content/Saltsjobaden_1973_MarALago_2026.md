@@ -7,13 +7,14 @@ nivel_evidencia: medio
 estado: activo
 tags: [saltsjobaden, mar-a-lago, bilderberg, reset-monetario, petrodolar, reanclaje-hibrido, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Saltsjobaden 1973 MarALago 2026
 
 ## BLUF
 
-[[Saltsjobaden_1973_MarALago_2026|Saltsjobaden 1973 MarALago 2026]] importa en TL como patron historico reusable para leer dos momentos de reconfiguracion monetaria bajo shock. La utilidad del paralelo no esta en afirmar identidad perfecta entre epocas, sino en mostrar una misma logica: crisis energetica o geoestrategica, licuacion de deuda, nuevo anclaje del dolar y desplazamiento del costo hacia terceros.
+[[Saltsjobaden_1973_MarALago_2026|Saltsjobaden 1973 MarALago 2026]] importa en TL como patron histórico reusable para leer dos momentos de reconfiguración monetaria bajo shock. La utilidad del paralelo no esta en afirmar identidad perfecta entre epocas, sino en mostrar una misma logica: crisis energetica o geoestrategica, licuación de deuda, nuevo anclaje del dólar y desplazamiento del costo hacia terceros.
 
 ## Por que importa en TL
 
@@ -27,13 +28,13 @@ El modulo aparecia explicitamente como nueva pagina base deseada en `LAS GUERRAS
 
 ## Lectura TL
 
-### 1. 1973 como solucion monetaria bajo cobertura petrolera
+### 1. 1973 como solución monetaria bajo cobertura petrolera
 
-Saltsjobaden importa porque en la lectura TL 1973 no se reduce a guerra de Yom Kippur o embargo petrolero. Importa como momento donde inflacion, petrodolar y reciclaje de liquidez ayudaron a aliviar el problema fiscal y monetario de EEUU.
+Saltsjobaden importa porque en la lectura TL 1973 no se reduce a guerra de Yom Kippur o embargo petrolero. Importa como momento donde inflación, petrodolar y reciclaje de liquidez ayudaron a aliviar el problema fiscal y monetario de EEUU.
 
-### 2. 2026 como repeticion con materiales nuevos
+### 2. 2026 como repetición con materiales nuevos
 
-En TL, la version actual ya no puede apoyarse solo en petroleo saudita y cautividad absoluta del sistema. Necesita combinar shock energetico, [[Treasuries]], stablecoins, rutas maritimas y narrativa de transicion para volver demandables los bonos y recentrar el dolar.
+En TL, la versión actual ya no puede apoyarse solo en petróleo saudita y cautividad absoluta del sistema. Necesita combinar shock energetico, [[Treasuries]], stablecoins, rutas maritimas y narrativa de transición para volver demandables los bonos y recentrar el dólar.
 
 ### 3. Parentesco de mecanismo, no calco total
 

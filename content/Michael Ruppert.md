@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [gary, mena, michael, ruppert]
 publish: true
+sin_fuente: true
 ---
 
 # Michael Ruppert

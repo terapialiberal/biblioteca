@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [aadhaar, digital, plano, stack]
 publish: true
+sin_fuente: true
 ---
 
 # India Stack (Aadhaar): El Plano Maestro Del Control Digital

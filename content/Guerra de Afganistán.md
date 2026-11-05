@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Guerra de Afganistan", "Guerra de Afganistán (2001-2021)"]
 tags: [afganistan, guerra, eeuu, taliban, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Guerra de Afganistán

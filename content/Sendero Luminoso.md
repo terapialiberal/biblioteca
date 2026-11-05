@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [estatal, luminoso, maosmo, motor]
 publish: true
+sin_fuente: true
 ---
 
 # Sendero Luminoso: el Fanatismo Como Motor del Caos Estatal

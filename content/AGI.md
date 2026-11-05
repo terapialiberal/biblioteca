@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [google, neuralink]
 publish: true
+sin_fuente: true
 ---
 
 # AGI (Inteligencia Artificial General)

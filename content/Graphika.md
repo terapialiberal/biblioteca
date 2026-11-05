@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [graphika, desinformacion, redes, plataformas, atlantic-council, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Graphika

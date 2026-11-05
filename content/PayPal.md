@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Paypal", "PayPal (Mafia)"]
 tags: [paypal, fintech, pagos, mafia-paypal, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # PayPal

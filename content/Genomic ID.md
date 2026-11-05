@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Genomic ID (Bio-Digital Convergence)"]
 tags: [genomic-id, adn, bio-digital, identidad-digital, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Genomic ID

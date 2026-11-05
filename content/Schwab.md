@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Klaus Schwab"]
 tags: [schwab, wef, davos, gran-reinicio, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Schwab

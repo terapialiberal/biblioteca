@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [friedrich, hayek, margaret, mont]
 publish: true
+sin_fuente: true
 ---
 
 # Friedrich Hayek

@@ -5,6 +5,7 @@ aliases: ["Comité de Basilea"]
 tags: [institucion, bancos, regulacion, bis]
 tipo: institucion
 tier_primario: b
+sin_fuente: true
 ---
 
 # Comité de Basilea

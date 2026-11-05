@@ -7,13 +7,14 @@ nivel_evidencia: medio
 estado: activo
 tags: [mar-a-lago, trump, elite, diplomacia-privada, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Mar-a-Lago
 
 ## BLUF
 
-[[Mar-a-Lago]] importa en TL como espacio fisico de coordinacion politica, social y simbolica del trumpismo de elite. No debe confundirse con [[Mar-a-Lago Accord]]: una cosa es el club-residencia donde se alinean operadores, invitados y circuitos de acceso; la otra es la etiqueta doctrinal para un posible rediseño coercitivo del orden monetario.
+[[Mar-a-Lago]] importa en TL como espacio fisico de coordinación política, social y simbolica del trumpismo de elite. No debe confundirse con [[Mar-a-Lago Accord]]: una cosa es el club-residencia donde se alinean operadores, invitados y circuitos de acceso; la otra es la etiqueta doctrinal para un posible rediseño coercitivo del orden monetario.
 
 ## Por que importa en TL
 
@@ -23,29 +24,29 @@ publish: true
 
 ## Que cambio
 
-La nota venia en formato legacy, con encoding roto y un cruce desordenado entre club, trama Epstein y doctrina monetaria. Se recompila para dejar un objeto mas limpio: [[Mar-a-Lago]] como infraestructura social y politica del trumpismo, explicitamente separado de [[Mar-a-Lago Accord]].
+La nota venia en formato legacy, con encoding roto y un cruce desordenado entre club, trama Epstein y doctrina monetaria. Se recompila para dejar un objeto mas limpio: [[Mar-a-Lago]] como infraestructura social y política del trumpismo, explicitamente separado de [[Mar-a-Lago Accord]].
 
 ## Que es
 
-Mar-a-Lago es un club privado y residencia asociada a [[Donald Trump]] en Palm Beach. En TL no importa como mera direccion o hotel de lujo, sino como espacio de acceso, ritual politico y diplomacia informal donde se mezclan financistas, operadores partidarios, figuras extranjeras y circulos de lealtad personal.
+Mar-a-Lago es un club privado y residencia asociada a [[Donald Trump]] en Palm Beach. En TL no importa como mera dirección o hotel de lujo, sino como espacio de acceso, ritual político y diplomacia informal donde se mezclan financistas, operadores partidarios, figuras extranjeras y circulos de lealtad personal.
 
 ## Lectura TL
 
 ### 1. Capital alternativa del trumpismo
 
-Mar-a-Lago importa porque actua como sede semi privada desde la cual una faccion puede negociar cargos, bendecir operadores y escenificar centralidad sin pasar siempre por Washington.
+Mar-a-Lago importa porque actua como sede semi privada desde la cual una facción puede negociar cargos, bendecir operadores y escenificar centralidad sin pasar siempre por Washington.
 
-### 2. Privatizacion del acceso
+### 2. Privatización del acceso
 
-Su valor analitico crece cuando se observa que relaciones politicas sensibles, interlocucion con donantes y parte de la diplomacia pasan por un entorno de membresia, invitacion y proximidad personal.
+Su valor analitico crece cuando se observa que relaciones políticas sensibles, interlocución con donantes y parte de la diplomacia pasan por un entorno de membresia, invitación y proximidad personal.
 
 ### 3. Punto de cruce entre elites y vulnerabilidades
 
-Tambien importa porque el lugar aparece en el corredor Trump/Epstein como espacio donde elite, captacion social y manejo opaco de accesos se cruzan. Eso no convierte automaticamente todo lo que pasa ahi en una sola trama, pero vuelve al sitio estructuralmente relevante.
+También importa porque el lugar aparece en el corredor Trump/Epstein como espacio donde elite, captación social y manejo opaco de accesos se cruzan. Eso no convierte automaticamente todo lo que pasa ahi en una sola trama, pero vuelve al sitio estructuralmente relevante.
 
 ### 4. No confundir lugar con doctrina
 
-En el eje monetario/MAGA conviene separar capas: [[Mar-a-Lago]] es el escenario social y politico; [[Mar-a-Lago Accord]] es la formulacion doctrinal que usa ese nombre para hablar de un eventual reordenamiento monetario.
+En el eje monetario/MAGA conviene separar capas: [[Mar-a-Lago]] es el escenario social y político; [[Mar-a-Lago Accord]] es la formulación doctrinal que usa ese nombre para hablar de un eventual reordenamiento monetario.
 
 ## Con que conecta
 

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [darpa, grafeno, graphene, transhumanismo]
 publish: true
+sin_fuente: true
 ---
 
 # Graphene Oxide (Óxido De Grafeno)

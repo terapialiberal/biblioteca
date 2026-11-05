@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [george, global, nobleza, pallavicini]
 publish: true
+sin_fuente: true
 ---
 
 # Familia Pallavicini: Los Arquitectos De La Banca Global

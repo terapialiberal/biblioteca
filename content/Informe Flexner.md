@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Informe Flexner (1910)"]
 tags: [informe-flexner, medicina, educacion-medica, ama, rockefeller, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Informe Flexner

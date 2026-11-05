@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [jeff-bezos, amazon, aws, medios, infraestructura, tecnocracia, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Jeff Bezos

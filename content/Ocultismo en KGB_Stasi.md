@@ -6,6 +6,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [espionaje, esoterismo, urss, guerra-fria, control]
 publish: true
+sin_fuente: true
 ---
 
 # Ocultismo en KGB y Stasi (V.3)

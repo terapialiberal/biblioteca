@@ -2,6 +2,7 @@
 publish: true
 titulo: "Informe Forense: EL NODO ALPHA (EL Ganador) 🔴"
 estado: activo
+sin_fuente: true
 ---
 
 # Informe Forense: EL NODO ALPHA (EL Ganador) 🔴

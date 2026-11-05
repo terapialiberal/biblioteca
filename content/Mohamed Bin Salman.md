@@ -7,6 +7,7 @@ tier_primario: A
 estado: activo
 tags: [mbs, arabia-saudita, acuerdos-abraham, imec, medio-oriente, tl-intel-v3]
 last_stream: "[[06_Videos_Publicados/2026/2026-05-26_La_Trampa_de_Ormuz/00_ARCHIVO_2026-05-26_La_Trampa_de_Ormuz|ARCHIVO: La Trampa de Ormuz]]"
+sin_fuente: true
 ---
 
 # [[Mohamed Bin Salman]]
@@ -42,7 +43,7 @@ MBS tiene la opción real de pivotar hacia China/Rusia si EEUU lo trata como vas
 
 ### Visión 2030 como coartada
 
-El proyecto de modernización saudí (Vision 2030, NEOM) es también un reposicionamiento estratégico: reducir dependencia del paraguas de seguridad estadounidense y construir soberanía económica real.
+El proyecto de modernización saudí (Visión 2030, NEOM) es también un reposicionamiento estratégico: reducir dependencia del paraguas de seguridad estadounidense y construir soberanía económica real.
 
 ### Sentimiento de traición
 

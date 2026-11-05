@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [china, familia, influencia, skull]
 publish: true
+sin_fuente: true
 ---
 
 # Yale-in-China (La Red De influencia)

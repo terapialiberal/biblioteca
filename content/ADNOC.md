@@ -10,6 +10,7 @@ tags:
 tipo: empresa
 tier_primario: b
 titulo: ADNOC
+sin_fuente: true
 ---
 
 # ADNOC

@@ -7,6 +7,7 @@ nivel_evidencia: "alto"
 estado: activo
 tags: [alphabet, google, power, reactor]
 publish: true
+sin_fuente: true
 ---
 
 # Kairos Power

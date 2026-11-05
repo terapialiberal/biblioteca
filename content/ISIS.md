@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Daesh", "Estado Islámico"]
 tags: [isis, terrorismo, medio-oriente, yihadismo, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # ISIS

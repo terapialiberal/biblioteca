@@ -9,6 +9,7 @@ estado: activo
 aliases: ["NAP", "Principio De No Agresión"]
 fuentes_clave: []
 tags: [nap, principio-de-no-agresion, ley-natural, soberania, tl-intel-v3]
+sin_fuente: true
 ---
 
 # [[Principio de No Agresión]]

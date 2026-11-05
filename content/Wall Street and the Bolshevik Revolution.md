@@ -8,6 +8,7 @@ estado: activo
 tags: [categora-finanzas, categora-historia, categora-poltica, era-1910s, era-1970s, nivel-evidencia-documental, regin-eeuu, regin-rusia, tipo-libro]
 titulo: Wall Street and the Bolshevik Revolution
 publish: true
+sin_fuente: true
 ---
 
 # Wall Street and the Bolshevik Revolution

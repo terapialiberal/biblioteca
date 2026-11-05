@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [scott-gottlieb, fda, pfizer, captura-regulatoria, big-pharma, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Scott Gottlieb
@@ -43,7 +44,7 @@ También sirve para leer que la captura sanitaria no opera solo por laboratorios
 
 Su valor en TL aumenta cuando se lo separa del escándalo puntual y se lo usa como patrón. Gottlieb importa no solo por lo que hizo en un cargo, sino por cómo la autoridad regulatoria puede reciclarse como activo privado, mediático y corporativo.
 
-### 5. Operador del tramo regulacion-medios-mercado
+### 5. Operador del tramo regulación-medios-mercado
 
 Leído junto con [[FDA]], [[Pfizer]] y [[Safe and Effective]], Gottlieb funciona como ejecutor personal de un corredor más amplio donde regulación, comentario experto, confianza pública y negocio farmacéutico dejan de estar claramente separados.
 

@@ -6,6 +6,7 @@ tier_primario: c
 nivel_evidencia: alto
 tags: [pinochet, chile, golpe-1973, guerra-fria, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Augusto Pinochet

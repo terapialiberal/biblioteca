@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [hope-porn, oposicion-controlada, indefension-aprendida, guerra-cognitiva, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Hope Porn

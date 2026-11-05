@@ -7,6 +7,7 @@ tags: [fractalidad-deuda, deuda, sistema-financiero, dependencia, tl-intel-v3]
 capa_tema: a
 nivel_evidencia: medio
 publish: true
+sin_fuente: true
 ---
 
 # Fractalidad de la Deuda

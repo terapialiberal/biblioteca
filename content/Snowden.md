@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Edward Snowden", "Edward Snowden (Denunciante)"]
 tags: [snowden, nsa, vigilancia, whistleblower, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Snowden

@@ -5,6 +5,7 @@ updated: 2026-02-28
 estado: activo
 tags: [eleccion-publica, burocracia, captura-regulatoria, busqueda-rentas, accion-colectiva]
 titulo: "🗳️ CHEAT SHEET: PUBLIC CHOICE"
+sin_fuente: true
 ---
 
 # 🗳️ CHEAT SHEET: PUBLIC CHOICE

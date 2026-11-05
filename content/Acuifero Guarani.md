@@ -9,18 +9,19 @@ estado: activo
 aliases: ["Acuifero Guarani", "Acuifero Guarani (Argentina)"]
 fuentes_clave: []
 tags: [acuifero-guarani, agua, recursos, triple-frontera, soberania, tl-intel-v3]
+sin_fuente: true
 ---
 
 # Acuifero Guarani
 
 ## BLUF
 
-[[Acuifero Guarani]] importa en TL como reserva estrategica de agua dulce del Cono Sur: no solo por su valor ambiental, sino porque agua, territorio y seguridad futura se vuelven activos geoeconomicos de largo plazo.
+[[Acuifero Guarani]] importa en TL como reserva estratégica de agua dulce del Cono Sur: no solo por su valor ambiental, sino porque agua, territorio y seguridad futura se vuelven activos geoeconomicos de largo plazo.
 
 ## Por que importa en TL
 
-- ayuda a leer el agua como infraestructura estrategica y no como simple recurso natural;
-- conecta soberania territorial, seguridad regional y presion corporativa futura;
+- ayuda a leer el agua como infraestructura estratégica y no como simple recurso natural;
+- conecta soberania territorial, seguridad regional y presión corporativa futura;
 - sirve para vincular `recursos / frontera / geopolitica / captura` en una misma pieza analitica.
 
 ## Que cambio
@@ -31,11 +32,11 @@ La nota se recompila para la rama Argentina con formato mas claro y reutilizable
 
 ### 1. Agua como activo del siglo XXI
 
-En TL, el acuifero importa porque anticipa una transicion: el agua deja de ser un fondo invisible y pasa a ser un activo sensible para agricultura, ciudades, energia y seguridad alimentaria.
+En TL, el acuifero importa porque anticipa una transición: el agua deja de ser un fondo invisible y pasa a ser un activo sensible para agricultura, ciudades, energía y seguridad alimentaria.
 
 ### 2. Recurso compartido, soberania fragmentada
 
-Al atravesar varios paises, el nodo obliga a pensar coordinacion regional, marcos de proteccion y vulnerabilidad institucional. Cuando un recurso estrategico es compartido, tambien se multiplica la posibilidad de injerencia indirecta.
+Al atravesar varios países, el nodo obliga a pensar coordinación regional, marcos de protección y vulnerabilidad institucional. Cuando un recurso estratégico es compartido, también se multiplica la posibilidad de injerencia indirecta.
 
 ### 3. Triple Frontera y sensibilidad regional
 

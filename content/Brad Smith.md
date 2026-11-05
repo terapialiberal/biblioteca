@@ -5,6 +5,7 @@ aliases: ["Brad Smith"]
 tags: [actor, microsoft, tecnologia, regulacion]
 tipo: actor
 tier_primario: B
+sin_fuente: true
 ---
 
 # Brad Smith

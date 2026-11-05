@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Bayer / BASF / Sanofi"]
 tags: [bayer, basf, sanofi, agroquimica, pharma, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Bayer - BASF - Sanofi

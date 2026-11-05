@@ -4,6 +4,7 @@ tipo: concepto
 titulo: "Patrón - Teoría del Heartland (Mackinder)"
 estado: procesado
 tags: [patrones, geopolítica, heartland, tl-v3]
+sin_fuente: true
 ---
 
 # [[Patrón - Teoría del Heartland (Mackinder)]]

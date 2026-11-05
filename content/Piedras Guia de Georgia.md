@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [agenda, georgia, manifiesto, rosacruces]
 publish: true
+sin_fuente: true
 ---
 
 # Piedras Guía De Georgia: El Manifiesto De Granito

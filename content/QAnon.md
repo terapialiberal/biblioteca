@@ -5,6 +5,7 @@ aliases: ["QAnon"]
 tags: [fenomeno, conspiracion, internet, psyop]
 tipo: fenomeno
 capa_tema: c
+sin_fuente: true
 ---
 
 # QAnon

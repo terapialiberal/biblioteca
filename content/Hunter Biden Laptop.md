@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [hunter-biden-laptop, censura, elecciones, twitter, biden, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Hunter Biden Laptop

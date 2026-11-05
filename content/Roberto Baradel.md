@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [adoctrinamiento, educativo, estancamiento, roberto]
 publish: true
+sin_fuente: true
 ---
 
 # Roberto Baradel: el Guardián del Estancamiento Educativo

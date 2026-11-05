@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Acuerdo de Bretton Woods", "Conferencia de Bretton Woods"]
 tags: [bretton-woods, dolar, oro, fmi, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Bretton Woods

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [anarcocapitalismo, gustave, molinari, murray]
 publish: true
+sin_fuente: true
 ---
 
 # Gustave De Molinari

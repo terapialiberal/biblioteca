@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [bancos, gold, guerra, repatriacin]
 publish: true
+sin_fuente: true
 ---
 
 # Gold Repatriation (Repatriación De Oro)

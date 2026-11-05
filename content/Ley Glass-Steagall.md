@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Ley Glass-Steagall: El Muro Entre El Ahorro Y El Casino"]
 tags: [glass-steagall, banca, regulacion-financiera, crisis-financiera, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Ley Glass-Steagall

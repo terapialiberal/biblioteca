@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Comision Trilateral", "Comisión Trilateral"]
 tags: [trilateral-commission, coordinacion-elite, atlantismo, japon, gobernanza-tecnocratica, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Trilateral Commission
@@ -24,7 +25,7 @@ La [[Trilateral Commission]] es un nodo de coordinación entre élites de Nortea
 
 ## Qué cambió
 
-Había dos notas vivas sobre el mismo objeto: `Comision Trilateral` y `Trilateral Commission`. Se consolida `Trilateral Commission` como nodo principal porque combina mejor calidad interna con mayor tracción en backlinks; `Comision Trilateral` queda como espejo para sostener navegación en español sin seguir duplicando la entidad.
+Había dos notas vivas sobre el mismo objeto: `Comisión Trilateral` y `Trilateral Commission`. Se consolida `Trilateral Commission` como nodo principal porque combina mejor calidad interna con mayor tracción en backlinks; `Comisión Trilateral` queda como espejo para sostener navegación en español sin seguir duplicando la entidad.
 
 ## Lectura TL
 

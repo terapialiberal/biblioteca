@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [blackrock, caballo, incentivo, inversiones]
 publish: true
+sin_fuente: true
 ---
 
 # RIGI (Régimen de Incentivo a las Grandes Inversiones): el Caballo de Troya de la Entrega Soberana

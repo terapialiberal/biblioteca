@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [efectivo, effective, open, philanthropy]
 publish: true
+sin_fuente: true
 ---
 
 # Open Philanthropy: La Ingeniería Social Del Altruismo Efectivo

@@ -8,6 +8,7 @@ tags: [cubo-de-metatron, geometria-sagrada, simbolismo, esoterismo, tl-intel-v3]
 capa_tema: c
 nivel_evidencia: medio
 publish: true
+sin_fuente: true
 ---
 
 # El Cubo de Metatron

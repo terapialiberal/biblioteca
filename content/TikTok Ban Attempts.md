@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [attempts, bytedance, tiktok]
 publish: true
+sin_fuente: true
 ---
 
 # TikTok Ban Attempts

@@ -5,6 +5,7 @@ tipo: "concepto"
 fecha: 2026-04-29
 estado: activo
 tags: [base-de-conocimiento]
+sin_fuente: true
 ---
 
 # centros de datos

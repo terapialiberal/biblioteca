@@ -4,6 +4,7 @@ tipo: entidad
 titulo: Integra Capital
 estado: activo
 tags: [argentina, litio, energia, finanzas, tl-intel-v3]
+sin_fuente: true
 ---
 
 # Integra Capital

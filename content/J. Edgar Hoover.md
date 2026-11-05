@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [edgar, jeffrey, patriot, sistmica]
 publish: true
+sin_fuente: true
 ---
 
 # J. Edgar Hoover: El Arquitecto De La Extorsión Sistémica
@@ -46,4 +47,4 @@ publish: true
 
 ## Conclusión Del Análisis
 
-J. Edgar Hoover fue el tipo que descubrio que **las democracias son, en realidad, tecnocracias de la extorsion**. No necesitaba ser presidente; le bastaba con tener una foto del presidente haciendo algo prohibido. El invento el Deep State tal como lo conocemos hoy: ese lugar oscuro donde los tipos sin rostro deciden quien puede gobernar y bajo que condiciones. Hoover no murio en 1972; vive en cada base de datos y en cada expediente que el sistema usa para recordarle a los vivos quien manda realmente.
+J. Edgar Hoover fue el tipo que descubrio que **las democracias son, en realidad, tecnocracias de la extorsión**. No necesitaba ser presidente; le bastaba con tener una foto del presidente haciendo algo prohibido. El invento el Deep State tal como lo conocemos hoy: ese lugar oscuro donde los tipos sin rostro deciden quien puede gobernar y bajo que condiciones. Hoover no murio en 1972; vive en cada base de datos y en cada expediente que el sistema usa para recordarle a los vivos quien manda realmente.

@@ -8,6 +8,7 @@ estado: activo
 aliases: ["ECFR"]
 tags: [ecfr, think-tank, europa, politica-exterior, soros, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # European Council on Foreign Relations

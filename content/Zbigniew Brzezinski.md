@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [brzezinski, comisin, david, zbigniew]
 publish: true
+sin_fuente: true
 ---
 
 # Zbigniew Brzezinski

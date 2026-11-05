@@ -7,6 +7,7 @@ nivel_evidencia: alto
 estado: activo
 tags: [gaza, gas, mediterraneo-oriental, imec, pa, israel, activo-tier-a, energia, 7-octubre, tl-intel-v3]
 fecha: 2026-03-12
+sin_fuente: true
 ---
 
 # Gaza Marine

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [antenas, jesuitas, obeliscos, poder]
 publish: true
+sin_fuente: true
 ---
 
 # Obeliscos De Poder: Las Antenas Del Dominio Geomántico

@@ -78,7 +78,7 @@ En el video "LA GUERRA QUE ESTÁ REORDENANDO EL MAPA ENERGÉTICO" (2026-09-24, c
 
 1. **Normas globales de IA en la ONU**: Altman llevó a las Naciones Unidas la idea de normas globales de seguridad para la IA, presentándose como portador de la agenda regulatoria internacional (https://www.bloomberglinea.com/mundo/estados-unidos/sam-altman-de-openai-llevara-a-la-onu-la-idea-de-normas-globales-de-seguridad-para-la-ia/).
 
-2. **Pitch a utilities sobre defensa de red**: Recorrió la industria eléctrica estadounidense proponiendo que las utilities integraran defensa de red basada en IA. Politico documentó el recorrido como un cambio de rumbo estratégico de OpenAI hacia la infraestructura crítica (https://www.politico.com/news/2026/09/10/sam-altman-pitches-utilities-on-ai-grid-defense-01070425).
+2. **Pitch a utilities sobre defensa de red**: Recorrió la industria eléctrica estadounidense proponiendo que las utilities integraran defensa de red basada en IA. Político documentó el recorrido como un cambio de rumbo estratégico de OpenAI hacia la infraestructura crítica (https://www.politico.com/news/2026/09/10/sam-altman-pitches-utilities-on-ai-grid-defense-01070425).
 
 3. **Reunión CSBS no es contrato**: En su comparecencia ante el Comparing America's Bank Supervisors, Altman se encontró con representantes del sector y dejó claro que la reunión era de presentación, no un contrato firmado ni compromiso de compra (https://x.com/cspan/status/2102851849066107252).
 

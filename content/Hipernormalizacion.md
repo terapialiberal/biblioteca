@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [adam, disonancia, hipernormalizacin]
 publish: true
+sin_fuente: true
 ---
 
 # Hipernormalización

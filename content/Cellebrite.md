@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [cellebrite, forense-digital, vigilancia, biometria, dispositivos, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Cellebrite

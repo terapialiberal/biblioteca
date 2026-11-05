@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Lilia Lemoine: La Interfaz Estetica De La Anti-Politica"]
 tags: [lilia-lemoine, la-libertad-avanza, guerra-cognitiva, argentina, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Lilia Lemoine

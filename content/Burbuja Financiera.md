@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Burbuja Financiera"]
 tags: [burbuja-financiera, especulacion, credito, crisis, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Burbuja Financiera

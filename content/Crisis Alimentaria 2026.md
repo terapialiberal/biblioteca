@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [crisis-alimentaria, energia, fertilizantes, hormuz, deuda, policrisis, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Crisis Alimentaria 2026
@@ -49,7 +50,7 @@ Su relevancia aumenta cuando se conecta con organismos multilaterales. Si la cri
 
 El caso se entiende mejor dentro de [[Policrisis Sistemica]] que como episodio aislado. La crisis alimentaria de abril 2026 no compite con Ormuz, Taiwán o el war game financiero: muestra cómo un shock energético se propaga a otro frente de reproducción material básica.
 
-### 5. Escasez como legitimacion administrativa
+### 5. Escasez como legitimación administrativa
 
 En TL, el nodo gana otra dimensión cuando el deterioro alimentario no solo presiona precios y gobernabilidad, sino que vuelve socialmente más tolerables medidas de racionamiento, subsidio condicionado o administración centralizada del acceso.
 

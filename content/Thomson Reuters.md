@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [blackstone, reuters, thomson]
 publish: true
+sin_fuente: true
 ---
 
 # Thomson Reuters

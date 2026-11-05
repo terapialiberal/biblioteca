@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [bitcoin, blackrock, fidelity, poder]
 publish: true
+sin_fuente: true
 ---
 
 # Fidelity: El Poder Privado En La Sombra

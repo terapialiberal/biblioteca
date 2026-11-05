@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Los 4 Jinetes Del Agro (Cartel ABCD)", "Cartel ABCD"]
 tags: [abcd, agro, commodities, alimentacion, cartel, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Los 4 Jinetes del Agro

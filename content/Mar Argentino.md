@@ -7,17 +7,18 @@ fecha: 2026-04-18
 capa_tema: b
 tags: [argentina, recursos, soberania, pesca-ilegal, mar, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Mar Argentino
 
 ## BLUF
 
-[[Mar Argentino]] importa en TL como corredor de soberania degradada: concentra recursos pesqueros, control maritimo, proyeccion geostrategica y una brecha persistente entre reclamo juridico y capacidad real de enforcement.
+[[Mar Argentino]] importa en TL como corredor de soberania degradada: concentra recursos pesqueros, control maritimo, proyección geostrategica y una brecha persistente entre reclamo juridico y capacidad real de enforcement.
 
 ## Por que importa en TL
 
-- muestra como un recurso estrategico puede perderse sin invasion formal;
+- muestra como un recurso estratégico puede perderse sin invasión formal;
 - conecta pesca ilegal, debilidad logistica, comercio exterior y defensa;
 - sirve para leer soberania como capacidad material y no solo como discurso diplomatico.
 
@@ -33,7 +34,7 @@ El problema central no es solo que existan flotas extranjeras, sino que la Argen
 
 ### 2. Recurso alimentario y renta perdida
 
-La pesca ilegal no es solo daño ambiental. Tambien es fuga sostenida de riqueza, empleo potencial y capacidad de planificacion sobre una fuente estrategica de alimentos y divisas.
+La pesca ilegal no es solo daño ambiental. También es fuga sostenida de riqueza, empleo potencial y capacidad de planificación sobre una fuente estratégica de alimentos y divisas.
 
 ### 3. Mar, puertos y logistica regional
 
@@ -41,7 +42,7 @@ Leido junto con [[Hidrovia Parana]], el nodo muestra otra cara del mismo problem
 
 ### 4. Geopolitica y presencia externa
 
-El Mar Argentino tambien se conecta con [[China]], [[Comando Sur]] y la proyeccion desde [[Malvinas]]. TL lo usa para vincular recursos naturales con competencia estrategica, vigilancia y posicionamiento de largo plazo.
+El Mar Argentino también se conecta con [[China]], [[Comando Sur]] y la proyección desde [[Malvinas]]. TL lo usa para vincular recursos naturales con competencia estratégica, vigilancia y posicionamiento de largo plazo.
 
 ## Conexiones
 

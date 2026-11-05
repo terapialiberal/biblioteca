@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [cognitiva, disonancia, efecto, menticidio]
 publish: true
+sin_fuente: true
 ---
 
 # Disonancia Cognitiva

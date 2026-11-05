@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [disidentes, matrix, rumble, wokismo]
 publish: true
+sin_fuente: true
 ---
 
 # Rumble: ¿refugio de Disidentes O Captura de Datos de la Matrix?

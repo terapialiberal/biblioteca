@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [blackwater, capital, detectives, kroll]
 publish: true
+sin_fuente: true
 ---
 
 # Kroll: Los Detectives Del Capital

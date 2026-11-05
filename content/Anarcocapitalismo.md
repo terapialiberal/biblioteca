@@ -7,6 +7,7 @@ capa_tema: b
 nivel_evidencia: medio
 estado: activo
 tags: [anarcocapitalismo, gustave_le_bon, rothbard]
+sin_fuente: true
 ---
 
 # Anarcocapitalismo

@@ -8,6 +8,7 @@ moc_canonico: [[00_MOC - Tecnologia de Control]]
 estado: activo
 fuentes_clave: []
 tags: [mark-zuckerberg, meta, plataformas, atencion, censura, tl-intel-v3]
+sin_fuente: true
 ---
 
 # Mark Zuckerberg

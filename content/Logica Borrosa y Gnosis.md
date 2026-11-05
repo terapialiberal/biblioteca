@@ -8,6 +8,7 @@ tags: [logica-borrosa, gnosis, ambiguedad, conocimiento, tl-intel-v3]
 capa_tema: c
 nivel_evidencia: medio
 publish: true
+sin_fuente: true
 ---
 
 # Logica Borrosa y Gnosis
@@ -22,13 +23,13 @@ La logica borrosa trabaja con grados de pertenencia, no solo verdadero/falso. La
 
 ## Por que importa en TL
 
-- ayuda a leer zonas grises, operaciones ambiguas y negacion plausible;
+- ayuda a leer zonas grises, operaciones ambiguas y negación plausible;
 - conecta conocimiento tecnico con jerarquias de acceso;
-- evita falsas dicotomias en analisis geopolitico.
+- evita falsas dicotomias en análisis geopolitico.
 
 ## Lectura TL
 
-El poder suele vivir en el gradiente: legal pero inmoral, publico pero opaco, privado pero estatal, espontaneo pero inducido. La gnosis moderna puede ser acceso a datos, modelos y lenguaje tecnico.
+El poder suele vivir en el gradiente: legal pero inmoral, público pero opaco, privado pero estatal, espontaneo pero inducido. La gnosis moderna puede ser acceso a datos, modelos y lenguaje tecnico.
 
 ## Conexiones
 

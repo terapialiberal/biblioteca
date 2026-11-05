@@ -1,5 +1,5 @@
 ---
-titulo: Ingenieria de Consentimiento
+titulo: Ingeniería de Consentimiento
 tipo: concepto
 fecha: 2026-04-19
 capa_tema: b
@@ -7,9 +7,10 @@ nivel_evidencia: alto
 estado: activo
 tags: [consentimiento, bernays, propaganda, percepcion, control-social, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
-# Ingenieria de Consentimiento
+# Ingeniería de Consentimiento
 
 ## BLUF
 

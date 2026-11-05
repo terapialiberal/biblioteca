@@ -7,13 +7,14 @@ nivel_evidencia: medio
 estado: activo
 tags: [londres-wall-street, atlantismo-financiero, reset-monetario, city-of-london, wall-street, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Camarilla Londres Wall Street
 
 ## BLUF
 
-[[Camarilla Londres Wall Street]] importa en TL como nombre operativo para la continuidad anglo-americana del poder financiero que atraviesa bancos, think tanks, diplomacia de elite y arquitectura monetaria. Su utilidad no esta en personalizar un sujeto unico omnipotente, sino en nombrar una coordinacion historica recurrente entre City de Londres, Wall Street y sus plataformas de pensamiento e influencia.
+[[Camarilla Londres Wall Street]] importa en TL como nombre operativo para la continuidad anglo-americana del poder financiero que atraviesa bancos, think tanks, diplomacia de elite y arquitectura monetaria. Su utilidad no esta en personalizar un sujeto unico omnipotente, sino en nombrar una coordinación histórica recurrente entre City de Londres, Wall Street y sus plataformas de pensamiento e influencia.
 
 ## Por que importa en TL
 
@@ -23,17 +24,17 @@ publish: true
 
 ## Que cambio
 
-El nodo aparecia en `LAS GUERRAS MAGA` como sujeto historico del tercer reset monetario anglo-americano, pero no existia fisicamente en la base. Se crea para absorber esa capa de continuidad estructural y evitar que quede dispersa entre nombres sueltos, casos historicos o hipotesis maestras.
+El nodo aparecia en `LAS GUERRAS MAGA` como sujeto histórico del tercer reset monetario anglo-americano, pero no existia fisicamente en la base. Se crea para absorber esa capa de continuidad estructural y evitar que quede dispersa entre nombres sueltos, casos historicos o hipotesis maestras.
 
 ## Lectura TL
 
-### 1. Continuidad mas que conspiracion puntual
+### 1. Continuidad mas que conspiración puntual
 
 Camarilla Londres Wall Street importa porque permite leer una persistencia de intereses y mecanismos entre ciclos historicos distintos sin necesidad de afirmar una mesa unica que decide todo de forma lineal.
 
-### 2. City y dolar como bloque operativo
+### 2. City y dólar como bloque operativo
 
-En TL, su relevancia aumenta cuando se observa que la hegemonia del dolar y la centralidad de la City no compiten necesariamente entre si. Muchas veces funcionan como capas complementarias de una misma arquitectura de finanzas, seguros, deuda y arbitraje global.
+En TL, su relevancia aumenta cuando se observa que la hegemonia del dólar y la centralidad de la City no compiten necesariamente entre si. Muchas veces funcionan como capas complementarias de una misma arquitectura de finanzas, seguros, deuda y arbitraje global.
 
 ### 3. Reset monetario como practica recurrente
 

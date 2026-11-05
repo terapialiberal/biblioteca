@@ -7,6 +7,7 @@ capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [acuerdos, oslo, rabin, yitzhak]
+sin_fuente: true
 ---
 
 # Acuerdos De Oslo

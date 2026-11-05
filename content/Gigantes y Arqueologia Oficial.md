@@ -7,6 +7,7 @@ tags: [arqueologa, gigantes, oficial]
 capa_tema: "a"
 nivel_evidencia: "bajo"
 publish: true
+sin_fuente: true
 ---
 
 # Gigantes Y Arqueología Oficial (Missing Nodes)

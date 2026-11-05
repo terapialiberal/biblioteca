@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [escndalo, estado, franklin, irn]
 publish: true
+sin_fuente: true
 ---
 
 # Escándalo Franklin

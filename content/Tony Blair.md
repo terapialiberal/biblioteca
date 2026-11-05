@@ -8,6 +8,7 @@ moc_canonico: [[00_MOC - Redes de Poder]]
 estado: activo
 fuentes_clave: []
 tags: [tony-blair, uk, wef, gobernanza, tl-intel-v3]
+sin_fuente: true
 ---
 
 # [[Tony Blair]]

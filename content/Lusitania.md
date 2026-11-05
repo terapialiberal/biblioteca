@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Lusitania: El Sacrificio Necesario Para La Guerra"]
 tags: [lusitania, primera-guerra-mundial, falsa-bandera-pasiva, jp-morgan, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Lusitania

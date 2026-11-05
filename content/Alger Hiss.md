@@ -10,6 +10,7 @@ tags:
 tipo: actor
 tier_primario: C
 titulo: Alger Hiss
+sin_fuente: true
 ---
 
 # Alger Hiss

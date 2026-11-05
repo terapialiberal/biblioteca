@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Smart Cities (Ciudades Inteligentes)", "Ciudades Inteligentes"]
 tags: [smart-cities, urbanismo, sensores, vigilancia, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Smart Cities

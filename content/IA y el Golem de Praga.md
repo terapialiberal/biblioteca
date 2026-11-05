@@ -7,6 +7,7 @@ tags: [cabal, golem, praga, silicon]
 capa_tema: "a"
 nivel_evidencia: "medio"
 publish: true
+sin_fuente: true
 ---
 
 # IA Y El Golem De Praga

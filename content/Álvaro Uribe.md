@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Alvaro Uribe", "Alvaro Uribe Velez", "Álvaro Uribe Vélez"]
 tags: [alvaro-uribe, colombia, seguridad, paramilitares, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Álvaro Uribe

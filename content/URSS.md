@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Union Sovietica", "Unión Soviética", "USSR"]
 tags: [urss, comunismo, guerra-fria, rusia, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # URSS

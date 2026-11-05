@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Kennedy", "John F. Kennedy", "John F. Kennedy (Asesinato)"]
 tags: [jfk, kennedy, asesinato, eeuu, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # JFK

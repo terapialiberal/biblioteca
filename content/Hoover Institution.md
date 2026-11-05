@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [condoleezza, hoover, institution, stanford]
 publish: true
+sin_fuente: true
 ---
 
 # Hoover Institution

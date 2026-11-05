@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [experimento, gustave, menticidio, milgram]
 publish: true
+sin_fuente: true
 ---
 
 # Experimento De Milgram

@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Malthusianismo", "Thomas Malthus", "Thomas Malthus (Sobre población)"]
 tags: [malthus, poblacion, escasez, biopolitica, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Malthus

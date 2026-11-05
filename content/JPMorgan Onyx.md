@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [jpmorgan-onyx, jpmorgan, tokenizacion, liquidacion, banca, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # JPMorgan Onyx

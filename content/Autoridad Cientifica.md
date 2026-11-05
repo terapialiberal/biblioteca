@@ -8,6 +8,7 @@ tags: [autoridad-cientifica, tecnocracia, ciencia, legitimacion, tl-intel-v3]
 capa_tema: b
 nivel_evidencia: medio
 publish: true
+sin_fuente: true
 ---
 
 # Autoridad Cientifica

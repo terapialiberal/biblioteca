@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [brigada, initiative, integridad, otan]
 publish: true
+sin_fuente: true
 ---
 
 # Iniciativa De Integridad (Integrity Initiative)

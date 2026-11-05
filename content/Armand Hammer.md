@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [albert, armand, hammer, transferencia]
 publish: true
+sin_fuente: true
 ---
 
 # Armand Hammer

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [panptico, sanger, transhumanismo, vigilancia]
 publish: true
+sin_fuente: true
 ---
 
 # Sanger Institute: el Panóptico de la Vigilancia Genómica Global

@@ -7,6 +7,7 @@ tags: [burning, psicodlicos, silicon, valley]
 capa_tema: "b"
 nivel_evidencia: "alto"
 publish: true
+sin_fuente: true
 ---
 
 # Psicodélicos En Silicon Valley (Tecno-Gnosis)

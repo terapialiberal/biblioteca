@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [banco, calvi, dios, sacrificio]
 publish: true
+sin_fuente: true
 ---
 
 # Roberto Calvi: el Banquero de Dios Y el Sacrificio de la P2

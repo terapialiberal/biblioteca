@@ -4,6 +4,7 @@ tipo: organizacion
 titulo: Gendarmería
 estado: activo
 tags: [argentina, seguridad, frontera, tl-intel-v3]
+sin_fuente: true
 ---
 
 # Gendarmería

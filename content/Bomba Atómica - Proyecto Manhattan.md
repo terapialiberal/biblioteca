@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Bomba Atómica / Proyecto Manhattan", "Bomba Atomica / Proyecto Manhattan"]
 tags: [alias, legacy, armas-nucleares, proyecto-manhattan, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Bomba Atómica - Proyecto Manhattan

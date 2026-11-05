@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Margaret Thatcher"]
 tags: [thatcher, reino-unido, neoliberalismo, privatizacion, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Thatcher

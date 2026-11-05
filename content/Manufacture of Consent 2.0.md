@@ -7,6 +7,7 @@ nivel_evidencia: alto
 estado: activo
 tags: [manufacture-of-consent-2-0, medios, plataformas, propaganda, reputacion, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Manufacture of Consent 2.0

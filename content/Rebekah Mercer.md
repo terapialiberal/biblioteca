@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [disidente, infraestructura, rebekah, robert]
 publish: true
+sin_fuente: true
 ---
 
 # Rebekah Mercer: la Arquitecta de la Infraestructura Disidente

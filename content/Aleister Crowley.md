@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [aleister, barbara, crowley, jack]
 publish: true
+sin_fuente: true
 ---
 
 # Aleister Crowley

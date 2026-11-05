@@ -6,6 +6,7 @@ estado: activo
 aliases: ["George Orwell"]
 tags: [orwell, distopia, vigilancia, lenguaje, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Orwell

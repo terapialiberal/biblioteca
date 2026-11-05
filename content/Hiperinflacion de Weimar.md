@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [hiperinflacin, hjalmar, tratado, weimar]
 publish: true
+sin_fuente: true
 ---
 
 # Hiperinflación De Weimar

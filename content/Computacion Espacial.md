@@ -1,5 +1,5 @@
 ---
-titulo: Computacion Espacial
+titulo: Computación Espacial
 tipo: concepto
 fecha: 2026-04-19
 capa_tema: b
@@ -7,9 +7,10 @@ nivel_evidencia: medio
 estado: activo
 tags: [computacion-espacial, realidad-aumentada, wearables, vigilancia, apple, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
-# Computacion Espacial
+# Computación Espacial
 
 ## BLUF
 

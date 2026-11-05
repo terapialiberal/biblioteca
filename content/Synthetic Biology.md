@@ -7,6 +7,7 @@ nivel_evidencia: "alto"
 estado: activo
 tags: [jennifer, manufactura, synthetic, vida]
 publish: true
+sin_fuente: true
 ---
 
 # Synthetic Biology

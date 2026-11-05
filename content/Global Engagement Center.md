@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [center, departamento, engagement, global]
 publish: true
+sin_fuente: true
 ---
 
 # Global Engagement Center (GEC)

@@ -7,6 +7,7 @@ capa_tema: b
 nivel_evidencia: medio
 estado: activo
 tags: [stargate, openai, microsoft, energia, data-centers, tl-intel-v3]
+sin_fuente: true
 ---
 
 # Project Stargate

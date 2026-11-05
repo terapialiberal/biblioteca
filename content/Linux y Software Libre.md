@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Linux Y Software Libre: La Ultima Trinchera De La Soberania"]
 tags: [linux, software-libre, soberania-digital, vigilancia, tecnologia, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Linux y Software Libre
@@ -24,7 +25,7 @@ publish: true
 
 ## Qué cambió
 
-La nota venía con encoding roto y tono manifiesto. Se recompila como concepto más usable dentro del corredor `tecnologia / vigilancia / soberania`.
+La nota venía con encoding roto y tono manifiesto. Se recompila como concepto más usable dentro del corredor `tecnología / vigilancia / soberania`.
 
 ## Lectura TL
 

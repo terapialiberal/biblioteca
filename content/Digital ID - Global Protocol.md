@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Global Digital ID", "Identidad Digital Global"]
 tags: [identidad-digital, wallets, interoperabilidad, salud-digital, control, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Digital ID - Global Protocol
@@ -46,7 +47,7 @@ La mutación relevante no es solo “tener un ID digital”, sino concentrar en 
 
 Cuando identidad, scoring, pagos y movilidad convergen, la identidad digital deja de ser administrativa y se vuelve pieza de una arquitectura tecnocrática de administración conductual.
 
-### 5. Humanidad verificable como nueva legitimacion
+### 5. Humanidad verificable como nueva legitimación
 
 En TL, este nodo se vuelve todavía más fuerte cuando la identidad digital se vende como prueba de humanidad. La promesa ya no es solo seguridad jurídica o sanitaria: es distinguir humanos de bots y asegurar acceso confiable a servicios y plataformas.
 

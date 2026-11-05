@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Lloyds of London", "Lloyd's"]
 tags: [lloyds, seguros, city-londres, riesgo, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Lloyds

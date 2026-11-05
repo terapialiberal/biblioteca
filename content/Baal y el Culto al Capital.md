@@ -7,6 +7,7 @@ tags: [baal, capital, culto, historia]
 capa_tema: "a"
 nivel_evidencia: "alto"
 publish: true
+sin_fuente: true
 ---
 
 # Baal Y El Culto Al Capital (El Señor De La Renta)

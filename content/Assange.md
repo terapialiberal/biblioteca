@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Julian Assange", "Julian Assange (WikiLeaks)"]
 tags: [assange, wikileaks, periodismo, whistleblower, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Assange

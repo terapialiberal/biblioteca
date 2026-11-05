@@ -1,15 +1,66 @@
 ---
-publish: true
+titulo: "Biometría Global"
 tipo: concepto
-titulo: Biometría Global
+fecha: 2026-04-17
+capa_tema: b
+nivel_evidencia: medio
 estado: activo
-tags: [concepto, identidad-digital, vigilancia, tl-intel-v3]
+aliases: ["Biometría Global"]
+tags: [biometria, reconocimiento-facial, iris, identidad-digital, control, tl-intel-v3]
+publish: true
+sin_fuente: true
 ---
 
-# Biometría Global
+# Biometria Global
 
-Convergencia de rostro, iris, huella, voz, ADN, patrones de marcha y otros identificadores corporales dentro de sistemas de identidad, frontera, pagos y seguridad.
+## BLUF
 
-En TL importa porque convierte el cuerpo en credencial persistente y reduce la posibilidad de salida anonima del sistema.
+[[Biometria Global]] importa en TL como la capa que vuelve a la identidad digital prácticamente inseparable del cuerpo: rostro, iris, huella, voz y patrones conductuales pasan a ser credenciales permanentes de acceso, trazabilidad y exclusión.
 
-Conecta con [[Aadhaar]], [[Worldcoin]], [[Bio-Identidad Digital (La Marca)]] y [[Vigilancia Biologica]].
+## Por que importa en TL
+
+- convierte el cuerpo en llave de autenticación y también en superficie de captura;
+- reduce la posibilidad de anonimato o de salida real del sistema;
+- conecta seguridad, plataformas, fronteras, banca e identidad bajo una misma lógica de verificación.
+
+## Que cambio
+
+La nota estaba útil pero llena de ruido heredado, errores de redacción y enlaces a glosarios viejos. Se recompiló como nodo conceptual para ordenar biometría como infraestructura transversal y no solo como lista de ejemplos.
+
+## Lectura TL
+
+### 1. Del documento al cuerpo
+
+La biometría importa porque desplaza el centro de la identificación desde algo que poseés a algo que sos. Eso vuelve más difícil revocar, reemplazar o escapar del sistema de validación.
+
+### 2. Multiplicación de vectores
+
+No se trata solo de huellas o iris. Reconocimiento facial, voz, marcha, patrones de uso y otras capas comportamentales amplían el campo biométrico y su potencial de monitoreo.
+
+### 3. Infraestructura de normalización
+
+Aeropuertos, teléfonos, onboarding bancario, vigilancia urbana y plataformas digitales acostumbran al usuario a entregar biometría como costo de entrada a servicios ordinarios.
+
+### 4. Base corporal del stack tecnocrático
+
+Leída junto con [[ID2020]], [[Worldcoin]] y [[Digital ID - Global Protocol]], la biometría aparece como la base material del wallet de permisos y del scoring de acceso.
+
+### 5. La credencial que no se puede dejar en casa
+
+La biometria gana centralidad porque convierte al propio cuerpo en token de autenticación. Eso reduce margen de anonimato, de delegación y de salida una vez que la infraestructura queda normalizada.
+
+### 6. Del sensor al permiso
+
+En TL, el salto clave aparece cuando rostro, iris o huella dejan de ser prueba puntual y pasan a alimentar decisiones de acceso, riesgo, prioridad o exclusión dentro del mismo stack.
+
+## Conexiones
+
+- [[Digital ID - Global Protocol]]
+- [[ID2020]]
+- [[Worldcoin]]
+- [[Clearview AI]]
+- [[CBDC]]
+- [[Gobernanza Algoritmica]]
+- [[Tecnocracia]]
+- [[Bio-Identidad Digital]]
+- [[00_MOC - Tecnologia de Control]]

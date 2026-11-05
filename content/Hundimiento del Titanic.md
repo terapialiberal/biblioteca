@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [hundimiento, reserva, titanic]
 publish: true
+sin_fuente: true
 ---
 
 # Hundimiento Del Titanic

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [decrecimiento, narrativa, sexta, sixth]
 publish: true
+sin_fuente: true
 ---
 
 # Sexta Extinción: la Narrativa de la Humanidad Como Virus

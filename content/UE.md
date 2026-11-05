@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Union Europea", "Unión Europea", "European Union"]
 tags: [ue, europa, tecnocracia, integracion, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # UE

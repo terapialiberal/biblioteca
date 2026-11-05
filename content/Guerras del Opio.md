@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [fentanilo, guerras, hsbc, opio]
 publish: true
+sin_fuente: true
 ---
 
 # Guerras Del Opio

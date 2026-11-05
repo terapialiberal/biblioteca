@@ -7,6 +7,7 @@ tags: [enoc, libro]
 capa_tema: "a"
 nivel_evidencia: "alto"
 publish: true
+sin_fuente: true
 ---
 
 # Libro De Enoc (El Informe De Los Vigilantes)

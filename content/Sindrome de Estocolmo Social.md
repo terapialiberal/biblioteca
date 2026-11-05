@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [derechos, idilio, indefensin, sndrome]
 publish: true
+sin_fuente: true
 ---
 
 # Síndrome de Estocolmo Social: el Idilio con el Captor de Derechos
@@ -31,7 +32,7 @@ publish: true
 ## Mecanismos De Poder (Psicológicos Y Narrativos)
 
 1. **Controlled Crisis-Relief Cycles (Ciclos Controlados de Crisis-Alivio)**: Implementación de medidas restrictivas seguidas de una "relajación" parcial de las mismas, lo que genera en el Tier C una oleada de gratitud dopaminérgica hacia el Estado, reforzando la lealtad al captor por el simple hecho de dejar de apretar el cuello por un momento.
-2. **Linguistic Subversion of Dependence (Subversión Lingüística de la Dependencia)**: Uso de términos como "asistencia social", "justicia distributiva" o "solidaridad obligatoria" para disfrazar el robo inflacionario y la confiscación impositiva, permitiendo que el Tier C perciba la transferencia de su riqueza hacia la élite como un acto de caridad hacia sí mismo.
+2. **Linguistic Subversión of Dependence (Subversión Lingüística de la Dependencia)**: Uso de términos como "asistencia social", "justicia distributiva" o "solidaridad obligatoria" para disfrazar el robo inflacionario y la confiscación impositiva, permitiendo que el Tier C perciba la transferencia de su riqueza hacia la élite como un acto de caridad hacia sí mismo.
 
 ## Conexiones Críticas
 

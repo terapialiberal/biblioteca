@@ -7,6 +7,7 @@ tags: [propaganda, opinion-publica, medios, operaciones-psicologicas, tl-intel-v
 capa_tema: b
 nivel_evidencia: alto
 publish: true
+sin_fuente: true
 ---
 
 # Propaganda

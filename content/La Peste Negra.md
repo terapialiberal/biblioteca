@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [negra, peste, renacimiento, servidumbre]
 publish: true
+sin_fuente: true
 ---
 
 # La Peste Negra: El Gran Reset De La Servidumbre

@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [cbdc-expiration, dinero-programable, expiracion, nudge, consumo, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # CBDC Expiration

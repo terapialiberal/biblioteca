@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [michael-hayden, nsa, cia, vigilancia, seguridad-nacional, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Michael Hayden

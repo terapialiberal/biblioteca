@@ -5,6 +5,7 @@ aliases: ["Ariel Sharon"]
 tags: [actor, israel, militar, likud]
 tipo: actor
 tier_primario: B
+sin_fuente: true
 ---
 
 # Ariel Sharon

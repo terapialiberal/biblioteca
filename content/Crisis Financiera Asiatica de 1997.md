@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: ["1997", asian, financiera, george]
 publish: true
+sin_fuente: true
 ---
 
 # Asian Financial Crisis (1997)

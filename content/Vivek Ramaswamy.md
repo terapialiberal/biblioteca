@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [donald, elon, ramaswamy, vivek]
 publish: true
+sin_fuente: true
 ---
 
 # Resumen General

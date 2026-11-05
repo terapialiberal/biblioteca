@@ -4,6 +4,7 @@ tipo: concepto
 titulo: "Patrón - Limited Hangout"
 estado: procesado
 tags: [patrones, limited-hangout, control-narrativo, tl-v3]
+sin_fuente: true
 ---
 
 # [[Patrón - Limited Hangout]]

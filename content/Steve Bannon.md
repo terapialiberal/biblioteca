@@ -52,6 +52,6 @@ En el video "LA GUERRA QUE ESTÁ REORDENANDO EL MAPA ENERGÉTICO" (2026-09-24, c
 
 - **Desacople total de IA de China**: Bannon propone desacoplar la industria de IA estadounidense de China en tres dimensiones: chips (hardware), capital (financiamiento) y formación (talento/educación). La propuesta, publicada en su canal War Room, plantea el desacople como condición para la soberanía tecnológica de EE.UU. (https://x.com/Bannons\_WarRoom/status/2099510484676272591).
 
-**Fuentes del caso**: Transcripción en [[03_Produccion/2026-09-14_El_dia_despues_tiene_duenios/transcripcion.md]] · Video: https://www.youtube.com/watch?v=Fp76aYUEYnQ
+**Fuentes del caso**: Transcripción en [[03_Produccion/2026-09-14_El_dia_despues_tiene_duenios/transcripción.md]] · Video: https://www.youtube.com/watch?v=Fp76aYUEYnQ
 
 **Nota TL**: Bannon como Tier C visible en este caso: propone desacople total como narrativa pública. La pregunta de poder es quién beneficia el desacople propuesto — la respuesta queda en la ficha de [[Steve Bannon]] y sus conexiones de Tier A.

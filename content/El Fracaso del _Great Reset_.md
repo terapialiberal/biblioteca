@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [branding, effective, fracaso, klaus]
 publish: true
+sin_fuente: true
 ---
 
 # El Fracaso Del Branding 'The Great Reset'

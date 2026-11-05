@@ -7,6 +7,7 @@ nivel_evidencia: "alto"
 estado: activo
 tags: [bill, modular, pila, small]
 publish: true
+sin_fuente: true
 ---
 
 # SMR

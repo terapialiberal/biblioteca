@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [aseem, estatinas, malhotra, naciones]
 publish: true
+sin_fuente: true
 ---
 
 # Dr. Aseem Malhotra

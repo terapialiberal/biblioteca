@@ -8,6 +8,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [ucc, uniform-commercial-code, propiedad-beneficiaria, colateral, clearing, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Uniform Commercial Code
@@ -40,7 +41,7 @@ Leído junto con [[Beneficial Ownership]], el nodo muestra que el lenguaje cotid
 
 Su relevancia en TL aparece cuando el análisis deja de centrarse solo en corrupción o abuso y pasa a observar que la jerarquía del sistema ya está escrita en contratos y normas que privilegian continuidad financiera y protección de acreedores superiores.
 
-### 4. Base discreta de escenarios de expropiacion funcional
+### 4. Base discreta de escenarios de expropiación funcional
 
 Leído junto con [[The Great Taking]] e [[ISDA]], el UCC deja de ser una sigla jurídica opaca y pasa a verse como parte del armazón que puede hacer viable una reasignación material de activos en escenarios de stress.
 

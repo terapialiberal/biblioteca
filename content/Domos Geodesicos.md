@@ -6,6 +6,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [arquitectura, buckminster-fuller, control-territorial, geometria]
 publish: true
+sin_fuente: true
 ---
 
 # Domos Geodésicos (V.3)

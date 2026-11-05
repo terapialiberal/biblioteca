@@ -7,6 +7,7 @@ nivel_evidencia: "alto"
 estado: activo
 tags: [banco, institucionalizada, logia, mafia, p2, gladio, argentina, lopez-rega, triple-a]
 publish: true
+sin_fuente: true
 ---
 
 # Logia P2: La Mafia Institucionalizada

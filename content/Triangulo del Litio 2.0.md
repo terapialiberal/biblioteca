@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [chokepoint, litio, puerto, transicin]
 publish: true
+sin_fuente: true
 ---
 
 # Triángulo Del Litio 2.0: El Chokepoint De La Transición Energética

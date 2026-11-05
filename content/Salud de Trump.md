@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [baluarte, fsico, matrix, salud]
 publish: true
+sin_fuente: true
 ---
 
 # Salud de Trump: el Baluarte Físico Y la Opacidad de la Matrix

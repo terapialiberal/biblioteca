@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [armas, descentralizacin, impresin, segunda]
 publish: true
+sin_fuente: true
 ---
 
 # Impresión 3D De Armas (FGC-9)

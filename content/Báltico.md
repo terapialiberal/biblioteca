@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Baltico", "Mar Báltico"]
 tags: [baltico, otan, rusia, europa, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Báltico

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [hersh, sabotaje, secretos, vietnam]
 publish: true
+sin_fuente: true
 ---
 
 # Seymour Hersh: el Cirujano de los Secretos del Imperio

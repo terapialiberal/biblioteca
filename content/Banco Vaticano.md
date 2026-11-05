@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [banco, mafia, vaticano]
 publish: true
+sin_fuente: true
 ---
 
 # Banco Vaticano (IOR)

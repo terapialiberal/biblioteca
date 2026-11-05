@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Leon Black: El Financista De La Sombra"]
 tags: [leon-black, apollo, jeffrey-epstein, private-equity, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Leon Black

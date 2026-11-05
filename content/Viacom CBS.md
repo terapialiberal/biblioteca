@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [sumner, viacom]
 publish: true
+sin_fuente: true
 ---
 
 # Viacom CBS

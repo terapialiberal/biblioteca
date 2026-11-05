@@ -8,6 +8,7 @@ tags: [fulcanelli, alquimia, fin-de-ciclo, simbolismo, tl-intel-v3]
 capa_tema: c
 nivel_evidencia: bajo
 publish: true
+sin_fuente: true
 ---
 
 # Fulcanelli y el Fin del Ciclo
@@ -24,7 +25,7 @@ Fulcanelli es figura enigmatica de la literatura alquimica moderna. Su relevanci
 
 - conecta catedrales, alquimia y mito de conocimiento reservado;
 - ayuda a leer autoridad producida por anonimato y misterio;
-- advierte contra transformar enigmas literarios en evidencia politica.
+- advierte contra transformar enigmas literarios en evidencia política.
 
 ## Lectura TL
 

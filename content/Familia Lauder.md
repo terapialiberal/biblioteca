@@ -7,18 +7,19 @@ nivel_evidencia: medio
 estado: activo
 tags: [familia-lauder, estee-lauder, ronald-lauder, elite-familiar, redes-de-poder, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Familia Lauder
 
 ## BLUF
 
-[[Familia Lauder]] importa en TL como linaje de elite donde fortuna empresarial, filantropia, redes institucionales y acceso politico se refuerzan mutuamente. Su valor analitico no esta en el apellido como dato social, sino en mostrar como una familia puede operar como infraestructura de continuidad entre capital, lobby, diplomacia y sucesion de cuadros.
+[[Familia Lauder]] importa en TL como linaje de elite donde fortuna empresarial, filantropia, redes institucionales y acceso político se refuerzan mutuamente. Su valor analitico no esta en el apellido como dato social, sino en mostrar como una familia puede operar como infraestructura de continuidad entre capital, lobby, diplomacia y sucesión de cuadros.
 
 ## Por que importa en TL
 
-- conecta riqueza heredada, legitimacion filantropica y posicionamiento geopolitico;
-- ayuda a leer por que el eje [[Ronald Lauder]] / [[Kevin Warsh]] no es solo una relacion familiar aislada sino una via de acceso entre dinero, institucion y politica monetaria;
+- conecta riqueza heredada, legitimación filantropica y posicionamiento geopolitico;
+- ayuda a leer por que el eje [[Ronald Lauder]] / [[Kevin Warsh]] no es solo una relación familiar aislada sino una via de acceso entre dinero, institución y política monetaria;
 - funciona como satelite del corredor [[Ronald Lauder]] / [[World Jewish Congress]] / [[Mega Group]].
 
 ## Que cambio
@@ -29,15 +30,15 @@ El nodo aparecia explicitamente en `LAS GUERRAS MAGA` como actor contextual del 
 
 ### 1. Familia como vehiculo de continuidad
 
-Familia Lauder importa porque muestra que parte del poder de elite no se transmite solo via cargos, sino via apellido, capital social, herencia economica y plataformas de representacion.
+Familia Lauder importa porque muestra que parte del poder de elite no se transmite solo via cargos, sino via apellido, capital social, herencia económica y plataformas de representación.
 
 ### 2. De empresa a red de influencia
 
-En TL, su relevancia aumenta cuando la fortuna deja de verse como simple exito corporativo y pasa a leerse como base material para filantropia estrategica, acceso diplomatico y sociabilidad de alto nivel.
+En TL, su relevancia aumenta cuando la fortuna deja de verse como simple exito corporativo y pasa a leerse como base material para filantropia estratégica, acceso diplomatico y sociabilidad de alto nivel.
 
 ### 3. Interfaz entre parentesco y arquitectura monetaria
 
-Su valor crece en casos como `LAS GUERRAS MAGA`, donde una nominacion monetaria sensible como la de [[Kevin Warsh]] se vuelve mas legible cuando se la inserta en una cadena de redes familiares e institucionales.
+Su valor crece en casos como `LAS GUERRAS MAGA`, donde una nominación monetaria sensible como la de [[Kevin Warsh]] se vuelve mas legible cuando se la inserta en una cadena de redes familiares e institucionales.
 
 ## Con que conecta
 

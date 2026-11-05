@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [jacob, nathaniel, rothschild, soberano]
 publish: true
+sin_fuente: true
 ---
 
 # Nathaniel Rothschild: El Soberano De Los Recursos (v1.0)

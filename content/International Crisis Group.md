@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [crisis, george, international, otan]
 publish: true
+sin_fuente: true
 ---
 
 # International Crisis Group

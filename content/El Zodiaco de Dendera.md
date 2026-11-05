@@ -6,6 +6,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [esoterismo, egipto, ciclos, precesion, tiempo]
 publish: true
+sin_fuente: true
 ---
 
 # El Zodiaco de Dendera (V.3)

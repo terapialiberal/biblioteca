@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [cada, golfo, saign, tringulo]
 publish: true
+sin_fuente: true
 ---
 
 # Caída De Saigón

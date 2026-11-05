@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [banca, chavanette, research]
 publish: true
+sin_fuente: true
 ---
 
 # [[Chavanette Research]]

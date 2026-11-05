@@ -7,6 +7,7 @@ tags: [giza, lneas, meridianos]
 capa_tema: "a"
 nivel_evidencia: "medio"
 publish: true
+sin_fuente: true
 ---
 
 # Líneas Ley (Meridianos Del Globo)

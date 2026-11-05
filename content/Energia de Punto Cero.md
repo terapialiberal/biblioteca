@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [cero, energa, punto, stanley]
 publish: true
+sin_fuente: true
 ---
 
 # Energía De Punto Cero

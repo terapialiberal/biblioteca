@@ -6,6 +6,7 @@ estado: activo
 aliases: ["BCG", "Boston Consulting Group"]
 tags: [bcg, consultora, elite, estrategia, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # BCG (Boston Consulting Group)

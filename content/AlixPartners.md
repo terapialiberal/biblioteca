@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [alixpartners, reestructuracion, quiebras, consultoria, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # AlixPartners

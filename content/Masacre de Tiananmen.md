@@ -11,6 +11,7 @@ tags:
   - evento
   - memoria
 publish: true
+sin_fuente: true
 ---
 
 # Masacre de Tiananmen

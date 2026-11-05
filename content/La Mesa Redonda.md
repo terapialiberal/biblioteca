@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [cecil, fuente, moderno, reserva]
 publish: true
+sin_fuente: true
 ---
 
 # La Mesa Redonda: El Código Fuente Del Globalismo Moderno

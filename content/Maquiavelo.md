@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Nicolás Maquiavelo", "Nicolas Maquiavelo"]
 tags: [maquiavelo, poder, realpolitik, estado, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Maquiavelo

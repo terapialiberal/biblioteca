@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [henry, rupert, theranos]
 publish: true
+sin_fuente: true
 ---
 
 # Theranos

@@ -6,6 +6,7 @@ capa_tema: b
 nivel_evidencia: alto
 tags: [lavado-de-dinero, crimen-financiero, banca, offshore, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Lavado de Dinero

@@ -7,6 +7,7 @@ nivel_evidencia: "alto"
 estado: activo
 tags: [cia, ucrania, otan, insurgencia, guerra-fria]
 publish: true
+sin_fuente: true
 ---
 
 # Operación Aerodynamic: El Genoma de la Resistencia Ucraniana

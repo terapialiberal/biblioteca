@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [bernie, demcrata, hillary, interna]
 publish: true
+sin_fuente: true
 ---
 
 # Interna Demócrata (Sanders Vs Clinton)

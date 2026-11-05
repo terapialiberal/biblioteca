@@ -7,6 +7,7 @@ capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [asesinato, declaracin, ferdinand, tratado]
+sin_fuente: true
 ---
 
 # Asesinato Del Archiduque Franz Ferdinand

@@ -11,6 +11,7 @@ tags:
   - comunismo
   - ingenieria-social
 publish: true
+sin_fuente: true
 ---
 
 # Mao Tse-Tung

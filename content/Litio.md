@@ -4,6 +4,7 @@ tipo: recurso
 titulo: Litio
 estado: activo
 tags: [litio, minerales-criticos, energia, argentina, tl-intel-v3]
+sin_fuente: true
 ---
 
 # Litio

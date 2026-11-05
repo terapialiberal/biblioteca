@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Dark Winter (Operacion Invierno Oscuro)"]
 tags: [dark-winter, simulacro, bioterrorismo, bioseguridad, estado-de-excepcion, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Dark Winter

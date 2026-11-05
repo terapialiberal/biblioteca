@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [gazprom, nord, vladimir]
 publish: true
+sin_fuente: true
 ---
 
 # Gazprom

@@ -7,18 +7,19 @@ nivel_evidencia: medio
 estado: activo
 tags: [argentina, ishii, conurbano, clientelismo, territorio, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Mario Ishii
 
 ## BLUF
 
-[[Mario Ishii]] importa en TL como arquetipo de caudillo territorial del conurbano: sintetiza clientelismo, control municipal, aparato politico y zonas grises entre gobernabilidad local e ilegalidades toleradas.
+[[Mario Ishii]] importa en TL como arquetipo de caudillo territorial del conurbano: sintetiza clientelismo, control municipal, aparato político y zonas grises entre gobernabilidad local e ilegalidades toleradas.
 
 ## Por que importa en TL
 
-- conecta municipios, punteros, empleo politico, policia local y administracion de pobreza;
-- ayuda a leer el poder territorial no como residuo folklorico sino como tecnologia viva de gobernabilidad;
+- conecta municipios, punteros, empleo político, policia local y administración de pobreza;
+- ayuda a leer el poder territorial no como residuo folklorico sino como tecnología viva de gobernabilidad;
 - funciona como satelite concreto de [[Barones del Conurbano]].
 
 ## Que cambio
@@ -33,15 +34,15 @@ En TL, Ishii importa porque permite aterrizar en una persona concreta varias log
 
 ### 2. Territorio, necesidad y control
 
-Su valor analitico aumenta cuando se lo lee como administrador de redes locales de dependencia: empleo, mediacion, seguridad informal y capacidad de ordenar o desordenar el distrito.
+Su valor analitico aumenta cuando se lo lee como administrador de redes locales de dependencia: empleo, mediación, seguridad informal y capacidad de ordenar o desordenar el distrito.
 
 ### 3. Zona gris como forma de gobierno
 
-Leido junto con [[Barones del Conurbano]], el nodo ayuda a pensar como muchas veces el poder local se sostiene no por legalidad impecable sino por una combinacion de tolerancia, eficacia practica y miedo.
+Leido junto con [[Barones del Conurbano]], el nodo ayuda a pensar como muchas veces el poder local se sostiene no por legalidad impecable sino por una combinación de tolerancia, eficacia practica y miedo.
 
 ### 4. Caso reusable para leer peronismo territorial
 
-Tambien importa porque funciona como caso concreto para entender por que ciertos intendentes se vuelven mas duraderos que muchos lideres nacionales.
+También importa porque funciona como caso concreto para entender por que ciertos intendentes se vuelven mas duraderos que muchos lideres nacionales.
 
 ## Conexiones
 

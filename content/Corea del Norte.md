@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Corea del Norte (Régimen)"]
 tags: [corea-del-norte, nuclear, asia, china, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Corea del Norte

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [bitcoin, digital, silk]
 publish: true
+sin_fuente: true
 ---
 
 # Ross Ulbricht: el Sacrificio en el Altar de la Libertad Digital

@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [hubbert, peak-oil, tecnocracia, energia, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # M. King Hubbert

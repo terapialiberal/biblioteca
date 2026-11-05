@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Internet of Bio-Nano Things (IoBNT)", "IoBNT"]
 tags: [iobnt, nano, bio-digital, vigilancia-molecular, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Internet of Bio-Nano Things
@@ -48,7 +49,7 @@ Leído junto con [[Internet de los Cuerpos]], [[Precision Medicine]] y [[Genetic
 
 Su importancia crece cuando la lectura del cuerpo ya no depende de dispositivos visibles o esporádicos, sino de capas integradas que vuelven molecularmente legible el organismo.
 
-### 6. Ultimo tramo del corredor de intervencion
+### 6. Ultimo tramo del corredor de intervención
 
 Leido junto con [[Neuralink]] e [[Internet de los Cuerpos]], este nodo deja de parecer futurismo aislado y pasa a verse como extremo lógico de una misma secuencia: medir, perfilar, retroalimentar e intervenir cada vez más adentro del cuerpo.
 

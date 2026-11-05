@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [cebo, complejo, lmite, nick]
 publish: true
+sin_fuente: true
 ---
 
 # Nick Fuentes: El Marcador De Límite Y El Cebo De Radicalización

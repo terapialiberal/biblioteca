@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [algas, fertilizantes, guerra, nocivas]
 publish: true
+sin_fuente: true
 ---
 
 # Floración De Algas Nocivas (Bio-Señales)

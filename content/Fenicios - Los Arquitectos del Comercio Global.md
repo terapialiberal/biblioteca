@@ -7,6 +7,7 @@ tags: [arquitectos, comercio, fenicios, global]
 capa_tema: "a"
 nivel_evidencia: "alto"
 publish: true
+sin_fuente: true
 ---
 
 # Fenicios - Los Arquitectos Del Comercio Global

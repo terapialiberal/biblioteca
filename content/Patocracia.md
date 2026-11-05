@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [andrew, gobernanza, ponerologa, totalitario]
 publish: true
+sin_fuente: true
 ---
 
 # Patocracia: La Gobernanza Del Mal Totalitario

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [bisfenol, ftlatos, naciones]
 publish: true
+sin_fuente: true
 ---
 
 # Bisfenol A (BPA)

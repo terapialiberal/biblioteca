@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [hjalmar, segunda, tratado, versalles]
 publish: true
+sin_fuente: true
 ---
 
 # Tratado De Versalles

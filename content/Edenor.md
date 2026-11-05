@@ -4,6 +4,7 @@ tipo: empresa
 titulo: Edenor
 estado: activo
 tags: [empresa, argentina, energia, servicios-publicos, tl-intel-v3]
+sin_fuente: true
 ---
 
 # Edenor

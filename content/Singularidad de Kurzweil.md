@@ -7,6 +7,7 @@ tags: [kurzweil, neuralink, singularidad, transhumanismo]
 capa_tema: "a"
 nivel_evidencia: "medio"
 publish: true
+sin_fuente: true
 ---
 
 # Singularidad De Kurzweil (Apotheosis)

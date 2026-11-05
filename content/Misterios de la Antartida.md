@@ -7,6 +7,7 @@ tags: [antrtida, misterios]
 capa_tema: "a"
 nivel_evidencia: "medio"
 publish: true
+sin_fuente: true
 ---
 
 # Misterios De La Antártida (El Santuario De Tier A)

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [experimento, naciones, prisin, stanford]
 publish: true
+sin_fuente: true
 ---
 
 # Experimento De La Prisión De Stanford

@@ -6,6 +6,7 @@ estado: activo
 aliases: ["NVIDIA"]
 tags: [nvidia, chips, ia, gpu, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Nvidia

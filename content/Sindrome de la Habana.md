@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [guerra, habana, invisible, sndrome]
 publish: true
+sin_fuente: true
 ---
 
 # Síndrome de la Habana: la Frontera de la Guerra Invisible

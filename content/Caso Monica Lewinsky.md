@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [bill, caso, hillary, lewinsky]
 publish: true
+sin_fuente: true
 ---
 
 # Caso Monica Lewinsky (Sexgate)

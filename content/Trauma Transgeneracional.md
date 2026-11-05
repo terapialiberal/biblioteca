@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [guerra, indefensin, transgeneracional, trauma]
 publish: true
+sin_fuente: true
 ---
 
 # Trauma Transgeneracional (Epigenética)

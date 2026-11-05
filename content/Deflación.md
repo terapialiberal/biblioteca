@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Deflacion", "Deflación (Fenómeno)"]
 tags: [deflacion, deuda, crisis, liquidez, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Deflación

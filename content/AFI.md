@@ -8,13 +8,14 @@ estado: activo
 aliases: ["AFI (Agencia Federal de Inteligencia)", "Agencia Federal de Inteligencia"]
 tags: [argentina, inteligencia, espionaje, carpetazos, stiuso, estado-profundo, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # AFI
 
 ## BLUF
 
-[[AFI]] importa en TL como nodo central del espionaje politico argentino: concentra informacion sensible, operaciones internas, carpetazos, mediacion con justicia y capacidad de presion sobre actores estatales y no estatales.
+[[AFI]] importa en TL como nodo central del espionaje político argentino: concentra información sensible, operaciones internas, carpetazos, mediación con justicia y capacidad de presión sobre actores estatales y no estatales.
 
 ## Por que importa en TL
 
@@ -30,11 +31,11 @@ La nota venia como ficha corta, con encoding roto y demasiado resumida para el p
 
 ### 1. Inteligencia orientada hacia adentro
 
-En TL, la AFI importa menos por su rol teorico de seguridad exterior y mas por su uso historico en vigilancia interna, administracion de informacion comprometida y disputa entre facciones del poder argentino.
+En TL, la AFI importa menos por su rol teorico de seguridad exterior y mas por su uso histórico en vigilancia interna, administración de información comprometida y disputa entre facciones del poder argentino.
 
-### 2. Carpeta, escucha y negociacion
+### 2. Carpeta, escucha y negociación
 
-Su valor analitico aparece cuando se la lee no solo como organismo formal sino como mercado de informacion: expedientes, grabaciones, filtraciones y relaciones personales que pueden activar o desactivar carreras politicas y judiciales.
+Su valor analitico aparece cuando se la lee no solo como organismo formal sino como mercado de información: expedientes, grabaciones, filtraciones y relaciones personales que pueden activar o desactivar carreras políticas y judiciales.
 
 ### 3. Interfaz con justicia y medios
 
@@ -42,7 +43,7 @@ Leida junto con [[Jueces Federales de Comodoro Py]], [[Lawfare]] y operadores me
 
 ### 4. Continuidad por encima de gobiernos
 
-La agencia cambia de nombre, jefes y discurso, pero el nodo importa porque muestra continuidad operativa mas alla de la rotacion democratica y de los relatos oficiales sobre reforma institucional.
+La agencia cambia de nombre, jefes y discurso, pero el nodo importa porque muestra continuidad operativa mas alla de la rotación democrática y de los relatos oficiales sobre reforma institucional.
 
 ## Conexiones
 

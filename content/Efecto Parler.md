@@ -4,10 +4,11 @@ tipo: concepto
 titulo: Efecto Parler
 estado: activo
 tags: [plataformas, censura, infraestructura-digital, tl-intel-v3]
+sin_fuente: true
 ---
 
 # Efecto Parler
 
-Patron donde una plataforma alternativa puede ser neutralizada no solo por moderacion interna, sino por dependencia de app stores, hosting, pagos y proveedores.
+Patron donde una plataforma alternativa puede ser neutralizada no solo por moderación interna, sino por dependencia de app stores, hosting, pagos y proveedores.
 
 En TL importa porque revela que la libertad digital depende de capas infraestructurales invisibles, no solo de reglas de contenido.

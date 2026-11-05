@@ -7,6 +7,7 @@ nivel_evidencia: "alto"
 estado: activo
 tags: [derechos, mente, neuro, rights]
 publish: true
+sin_fuente: true
 ---
 
 # Neuro-Rights

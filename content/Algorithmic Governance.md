@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Gobernanza Algoritmica"]
 tags: [algorithmic-governance, gobernanza-algoritmica, tecnocracia, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Algorithmic Governance

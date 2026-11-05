@@ -6,6 +6,7 @@ capa_tema: b
 nivel_evidencia: alto
 tags: [narcotrafico, crimen-organizado, inteligencia, finanzas, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Narcotráfico

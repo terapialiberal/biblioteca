@@ -19,3 +19,7 @@ Nombrado junto a Banga por Kushner como parte del equipo que diseña el plan de 
 - [X/@TranslateMom (13 sep 2026): Kushner sobre el plan de prosperidad con Banga, Fink y BlackRock](https://x.com/TranslateMom/status/2099112300225441960) — clip M12
 
 Transcript: [[03_Produccion/2026-09-14_El_dia_despues_tiene_duenios/transcripcion|transcripción curada]]
+
+## Casos TL relacionados
+
+- [[06_Videos_Publicados/2026/2026-10-21_Diesel_Ormuz_Comida/POSTMORTEM_INTEL.md|Las élites controlan la política (21-10)]] — «preferimos autoritarios» citado en cámara: el live retoma el input de Nico del 8-7 («prefirieron regímenes autoritarios») como marco del eje del programa, y BlackRock aparece en la lista de donantes (5M). El link original del 8-7 no está archivado: queda declarado como gap, no como cita verificada. — estado: confirmado.

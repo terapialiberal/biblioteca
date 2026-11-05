@@ -4,6 +4,7 @@ tipo: concepto
 titulo: "Patrón - Volcado Selectivo de Información (Kompromat)"
 estado: procesado
 tags: [patrones, kompromat, filtraciones, weaponized-transparency, tl-v3]
+sin_fuente: true
 ---
 
 # [[Patrón - Volcado Selectivo de Información (Kompromat)]]

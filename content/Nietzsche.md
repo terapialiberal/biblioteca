@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Friedrich Nietzsche"]
 tags: [nietzsche, filosofia, nihilismo, voluntad-poder, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Nietzsche

@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Fidel Castro (Dictador)"]
 tags: [fidel-castro, cuba, revolucion, comunismo, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Fidel Castro

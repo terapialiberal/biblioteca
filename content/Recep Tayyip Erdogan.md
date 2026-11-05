@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [erdoan, geopoltico, recep, vladimir]
 publish: true
+sin_fuente: true
 ---
 
 # Recep Tayyip Erdoäÿan: el Sultán del Equilibrio Geopolítico

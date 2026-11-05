@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [kingmaker, news, percepcin, roger]
 publish: true
+sin_fuente: true
 ---
 
 # Rupert Murdoch: el Kingmaker de la Percepción Global

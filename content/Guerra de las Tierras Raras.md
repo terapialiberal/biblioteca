@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [agenda, guerra, raras, tierras]
 publish: true
+sin_fuente: true
 ---
 
 # Guerra De Las Tierras Raras

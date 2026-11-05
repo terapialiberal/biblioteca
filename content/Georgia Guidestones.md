@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [club, georgia, guidestones, rosacruces]
 publish: true
+sin_fuente: true
 ---
 
 # Georgia Guidestones (Análisis Retrospectivo)

@@ -4,6 +4,7 @@ tipo: actor
 titulo: Jim Morrison
 estado: activo
 tags: [contracultura, musica, guerra-cultural, tl-intel-v3]
+sin_fuente: true
 ---
 
 # Jim Morrison

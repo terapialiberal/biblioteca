@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: ["2003", halliburton, irak, pnac]
 publish: true
+sin_fuente: true
 ---
 
 # Invasión De Irak 2003

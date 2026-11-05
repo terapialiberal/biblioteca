@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [arquidicesis, cilfa, pami, protegida]
 publish: true
+sin_fuente: true
 ---
 
 # Laboratorios Bagó: La Arquidiócesis De La Sanidad Protegida

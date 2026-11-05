@@ -7,13 +7,14 @@ nivel_evidencia: medio
 estado: activo
 tags: [reanclaje-hibrido, dolar, treasuries, petrodolar, reset-monetario, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Reanclaje Hibrido
 
 ## BLUF
 
-[[Reanclaje Hibrido]] importa en TL como hipotesis para leer la fase actual del dolar: ya no como petrodolar puro ni como retorno simple a un patron unico, sino como intento de sostener hegemonia combinando energia, [[Treasuries]], rutas maritimas, liquidez global y nuevos rails digitales de pago.
+[[Reanclaje Hibrido]] importa en TL como hipotesis para leer la fase actual del dólar: ya no como petrodolar puro ni como retorno simple a un patron unico, sino como intento de sostener hegemonia combinando energía, [[Treasuries]], rutas maritimas, liquidez global y nuevos rails digitales de pago.
 
 ## Por que importa en TL
 
@@ -23,19 +24,19 @@ publish: true
 
 ## Que cambio
 
-El concepto aparecia marcado como ganancia cognitiva neta del caso `LAS GUERRAS MAGA` y como writeback pendiente en varias piezas, pero no existia como nota fisica en la base. Se crea para estabilizar una lectura ya activa en el vault: el dolar busca un nuevo anclaje compuesto, no una repeticion mecanica del esquema 1973.
+El concepto aparecia marcado como ganancia cognitiva neta del caso `LAS GUERRAS MAGA` y como writeback pendiente en varias piezas, pero no existia como nota fisica en la base. Se crea para estabilizar una lectura ya activa en el vault: el dólar busca un nuevo anclaje compuesto, no una repetición mecanica del esquema 1973.
 
 ## Lectura TL
 
 ### 1. Del petrodolar al ensamblaje de soportes
 
-Reanclaje Hibrido importa porque corrige una lectura demasiado lineal del sistema. El dolar puede seguir apoyandose en energia, pero ahora necesita tambien mercado profundo de deuda, absorcion de liquidez, coercion sobre rutas y nueva infraestructura de pagos.
+Reanclaje Hibrido importa porque corrige una lectura demasiado lineal del sistema. El dólar puede seguir apoyandose en energía, pero ahora necesita también mercado profundo de deuda, absorción de liquidez, coerción sobre rutas y nueva infraestructura de pagos.
 
 ### 2. Hegemonia sin patron limpio
 
-En TL, su relevancia aumenta cuando se observa que el sistema no parece converger a un nuevo patron claro de oro, petroleo o canasta fija. Lo que aparece es una combinacion administrada de activos, coercion y confianza forzada.
+En TL, su relevancia aumenta cuando se observa que el sistema no parece converger a un nuevo patron claro de oro, petróleo o canasta fija. Lo que aparece es una combinación administrada de activos, coerción y confianza forzada.
 
-### 3. Transicion caotica administrada
+### 3. Transición caotica administrada
 
 Su valor crece porque permite leer guerra, aranceles, stress fiscal, stablecoins y soporte de Treasuries como piezas del mismo intento de ganar tiempo y recentrar demanda global alrededor de EEUU.
 
@@ -43,7 +44,7 @@ Su valor crece porque permite leer guerra, aranceles, stress fiscal, stablecoins
 
 Leído junto con [[Shock de Nixon]], [[Sistema Petrodolar]] y [[Saltsjobaden_1973_MarALago_2026]], el concepto sirve para marcar el cambio de época. En los 70 la salida fue más legible: petróleo, Arabia Saudita y reciclaje de excedentes. En 2026 la hipótesis es más compleja: energía, [[Treasuries]], choke points, liquidez, stablecoins y rails de pago compiten por ocupar el lugar del ancla perdida.
 
-### 5. Reanclaje versus desdolarizacion selectiva
+### 5. Reanclaje versus desdolarización selectiva
 
 Su utilidad crece aún más cuando se lo enfrenta con [[Desdolarizacion]]. No son lecturas incompatibles: una describe el intento occidental de sostener centralidad; la otra, la construcción parcial de bypasses regionales que presionan a ese mismo intento.
 

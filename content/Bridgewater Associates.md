@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [associates, bridgewater]
 publish: true
+sin_fuente: true
 ---
 
 # Bridgewater Associates
@@ -25,7 +26,7 @@ Gestiona ~\150 billion.
 
 Conocido por:
 
-- Anlisis macro global
+- Análisis macro global
 - "Radical transparency" (cultura interna filmada)
 - "Principles" de Dalio
 

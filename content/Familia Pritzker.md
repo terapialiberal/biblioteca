@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [complex, familia, obama, pritzker]
 publish: true
+sin_fuente: true
 ---
 
 # Familia Pritzker

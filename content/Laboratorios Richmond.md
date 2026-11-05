@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [geopoltica, marcelo, puerto, sanitario]
 publish: true
+sin_fuente: true
 ---
 
 # Laboratorios Richmond: El Puerto Sanitario De La Geopolítica

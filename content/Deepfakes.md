@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [deepfakes, guerra, posverdad, ultrafalsos]
 publish: true
+sin_fuente: true
 ---
 
 # Deepfakes (Ultrafalsos)

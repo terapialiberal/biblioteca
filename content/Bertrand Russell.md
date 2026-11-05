@@ -5,6 +5,7 @@ aliases: ["Bertrand Russell"]
 tags: [actor, filosofia, pacifismo, logica]
 tipo: actor
 tier_primario: C
+sin_fuente: true
 ---
 
 # Bertrand Russell

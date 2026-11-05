@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [colapso, nueve, teologa, ngulos]
 publish: true
+sin_fuente: true
 ---
 
 # Orden De Los Nueve Ángulos: La Teología Del Colapso
@@ -23,7 +24,7 @@ publish: true
 
 ### Tier B (David Myatt Y Los Ideólogos Del Mal)
 
-- **La Mutacion Ideologica:** David Myatt, el supuesto fundador, ha pasado del nazismo al radicalismo islamico y de vuelta al ocultismo "eonico". Este es el comportamiento tipico de un interface de Tier B encargado de probar diferentes **Virus Ideologicos** en el Tier C. Su labor es crear un sistema de creencias tan extremo que atraiga a cualquier individuo con tendencias psicopaticas, centralizandolos en una red que el sistema puede monitorizar y usar a su conveniencia.
+- **La Mutación Ideologica:** David Myatt, el supuesto fundador, ha pasado del nazismo al radicalismo islamico y de vuelta al ocultismo "eonico". Este es el comportamiento tipico de un interface de Tier B encargado de probar diferentes **Virus Ideologicos** en el Tier C. Su labor es crear un sistema de creencias tan extremo que atraiga a cualquier individuo con tendencias psicopaticas, centralizandolos en una red que el sistema puede monitorizar y usar a su conveniencia.
 
 ## ¸ Mecanismos De Poder (Estratégicos)
 

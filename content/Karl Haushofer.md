@@ -4,6 +4,7 @@ tipo: actor
 titulo: Karl Haushofer
 estado: activo
 tags: [geopolitica, alemania, heartland, lebensraum, tl-intel-v3]
+sin_fuente: true
 ---
 
 # Karl Haushofer

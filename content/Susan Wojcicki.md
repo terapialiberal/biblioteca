@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [susan-wojcicki, youtube, censura, plataformas, legitimacion, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Susan Wojcicki

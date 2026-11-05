@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Microsoft Corporation"]
 tags: [microsoft, nube, ia, software, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Microsoft

@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Etiopia", "Etiopía (Geopolítica)"]
 tags: [etiopia, africa, nilo, brics, infraestructura, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Etiopía

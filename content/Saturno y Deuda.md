@@ -6,6 +6,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [esoterismo, arqueo-finanzas, saturno, deuda, contrato]
 publish: true
+sin_fuente: true
 ---
 
 # Saturno y Deuda (V.3)

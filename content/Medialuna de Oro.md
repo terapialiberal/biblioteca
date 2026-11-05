@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [chica, guerra, hsbc, medialuna]
 publish: true
+sin_fuente: true
 ---
 
 # Medialuna De Oro (Opio En Afganistán): La Caja Chica De La CIA

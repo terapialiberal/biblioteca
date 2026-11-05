@@ -8,13 +8,14 @@ tags: [iot, animismo-tecnico, smart-devices, vigilancia, tl-intel-v3]
 capa_tema: b
 nivel_evidencia: medio
 publish: true
+sin_fuente: true
 ---
 
 # IoT y Animismo Tecnico
 
 ## BLUF
 
-IoT y Animismo Tecnico describe la sensacion moderna de objetos “vivos”: dispositivos que escuchan, responden, anticipan y modulan conducta dentro del hogar, la ciudad o el cuerpo.
+IoT y Animismo Tecnico describe la sensación moderna de objetos “vivos”: dispositivos que escuchan, responden, anticipan y modulan conducta dentro del hogar, la ciudad o el cuerpo.
 
 ## Que es
 
@@ -22,7 +23,7 @@ El Internet de las Cosas conecta objetos cotidianos a redes de datos. La lectura
 
 ## Por que importa en TL
 
-- conecta smart homes, vigilancia, dataficacion y dependencia tecnica;
+- conecta smart homes, vigilancia, dataficación y dependencia tecnica;
 - ayuda a leer como la comodidad vuelve aceptable la captura ambiental de datos;
 - muestra el paso de herramienta a entorno activo.
 
@@ -40,4 +41,4 @@ El dispositivo inteligente no solo obedece. Observa, recomienda, restringe, noti
 
 ## Nivel de evidencia
 
-Medio como marco sociotecnico. Alto para la expansion real de sensores, telemetria y dispositivos conectados.
+Medio como marco sociotecnico. Alto para la expansión real de sensores, telemetria y dispositivos conectados.

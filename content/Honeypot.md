@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Honeypot (Operación De Inteligencia)", "Honeypot (Operacion de Inteligencia)"]
 tags: [honeypot, honey-pot, kompromat, inteligencia, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Honeypot

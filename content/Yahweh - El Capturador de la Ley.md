@@ -7,6 +7,7 @@ nivel_evidencia: "alto"
 estado: activo
 tags: [esoterismo, arquetipo, ley, control, yahweh]
 publish: true
+sin_fuente: true
 ---
 
 # Yahweh: El Arquetipo del Capturador de la Ley (V.3)

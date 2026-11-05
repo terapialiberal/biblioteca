@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Guerra de Irak (2003)"]
 tags: [irak, guerra, eeuu, petroleo, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Guerra de Irak

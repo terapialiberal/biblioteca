@@ -5,6 +5,7 @@ aliases: ["Bennie Thompson", "Bennie G. Thompson"]
 tags: [actor, congreso-eeuu, democrata, seguridad-nacional]
 tipo: actor
 tier_primario: C
+sin_fuente: true
 ---
 
 # Bennie Thompson

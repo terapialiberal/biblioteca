@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [estado, francesa, logstica, mafia]
 publish: true
+sin_fuente: true
 ---
 
 # La Conexión Francesa: La Logística Del Narcotráfico De Estado

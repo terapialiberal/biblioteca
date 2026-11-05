@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [auto, nvidia, proyecto, titan]
 publish: true
+sin_fuente: true
 ---
 
 # El Auto De Apple (Proyecto Titan)

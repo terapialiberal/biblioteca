@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [cochrane-review-mascarillas, evidencia, salud-publica, mascarillas, covid, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Cochrane Review sobre Mascarillas

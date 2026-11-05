@@ -6,6 +6,7 @@ estado: activo
 tags: [caminos, discretos, hcate]
 nivel_evidencia: "alto"
 publish: true
+sin_fuente: true
 ---
 
 # Hécate - La Red De Caminos Discretos

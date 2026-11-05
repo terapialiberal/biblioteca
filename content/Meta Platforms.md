@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [meta-platforms, facebook, instagram, whatsapp, plataformas, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Meta Platforms

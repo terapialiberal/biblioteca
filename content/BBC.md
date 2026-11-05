@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [bbc, medios, reino-unido, soft-power, narrativa, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # BBC

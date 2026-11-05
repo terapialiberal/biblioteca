@@ -10,6 +10,7 @@ tags:
 tipo: empresa
 tier_primario: C
 titulo: 23andMe
+sin_fuente: true
 ---
 
 # 23andMe

@@ -1,5 +1,5 @@
 ---
-titulo: Normalizacion
+titulo: Normalización
 tipo: concepto
 fecha: 2026-04-18
 capa_tema: b
@@ -8,9 +8,10 @@ estado: activo
 aliases: ["Normalizacion (Proceso)"]
 tags: [normalizacion, ingenieria-social, overton, bezmenov, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
-# Normalizacion
+# Normalización
 
 ## BLUF
 

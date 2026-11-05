@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [elon, gnosticismo, simulacin, teora]
 publish: true
+sin_fuente: true
 ---
 
 # Teoría De La Simulación

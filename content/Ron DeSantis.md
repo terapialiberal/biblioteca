@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [baluarte, desantis, estatal, matrix]
 publish: true
+sin_fuente: true
 ---
 
 # Ron Desantis: el Baluarte de la Soberanía Estatal Frente a la Matrix

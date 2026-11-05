@@ -9,6 +9,7 @@ estado: activo
 aliases: ["Nxivm"]
 fuentes_clave: []
 tags: [nxivm, colateral, chantaje, cultos, tl-intel-v3]
+sin_fuente: true
 ---
 
 # [[NXIVM]]

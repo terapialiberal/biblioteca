@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Primado Negativo: La Vacuna contra La Verdad"]
 tags: [primado-negativo, inoculacion-cognitiva, ridiculizacion, percepcion, propaganda, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Primado Negativo

@@ -7,6 +7,7 @@ tags: [escriba, sistema, thot]
 capa_tema: "a"
 nivel_evidencia: "alto"
 publish: true
+sin_fuente: true
 ---
 
 # Thot - El Escriba Del Sistema

@@ -6,6 +6,7 @@ estado: activo
 aliases: ["MLK", "Martin Luther King"]
 tags: [alias, legacy, derechos-civiles, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # MLK

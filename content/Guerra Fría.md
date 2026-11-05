@@ -6,6 +6,7 @@ estado: activo
 aliases: ["Guerra Fria", "Guerra Fría (1947-1991)"]
 tags: [guerra-fria, eeuu, urss, inteligencia, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Guerra Fría

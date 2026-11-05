@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [comercio, dorado, tringulo]
 publish: true
+sin_fuente: true
 ---
 
 # Triángulo Dorado

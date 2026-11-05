@@ -4,13 +4,14 @@ tipo: entidad
 titulo: INDEC
 estado: activo
 tags: [argentina, estadistica, estado, narrativa-economica, tl-intel-v3]
+sin_fuente: true
 ---
 
 # INDEC
 
 Instituto Nacional de Estadistica y Censos de Argentina.
 
-En TL importa porque las estadisticas publicas son infraestructura narrativa: inflacion, pobreza, censo y actividad economica no solo describen realidad, tambien habilitan decisiones politicas, deuda y legitimidad.
+En TL importa porque las estadisticas publicas son infraestructura narrativa: inflación, pobreza, censo y actividad económica no solo describen realidad, también habilitan decisiones políticas, deuda y legitimidad.
 
 ## Conecta
 

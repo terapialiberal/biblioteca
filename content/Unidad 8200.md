@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Unit 8200"]
 tags: [unidad-8200, sigint, israel, ciberinteligencia, vigilancia, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Unidad 8200

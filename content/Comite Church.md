@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Comité Church", "Church Committee", "Comite Church (Evento)"]
 tags: [church-committee, inteligencia, oversight, cia, nsa, limited-hangout, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Comite Church

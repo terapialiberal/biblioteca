@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [chevron, john, standard]
 publish: true
+sin_fuente: true
 ---
 
 # Chevron

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [cada, chernobyl, desastre, nuclear]
 publish: true
+sin_fuente: true
 ---
 
 # Chernobyl (El Desastre Nuclear)

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [cuartel, guerra, nacionalismo, soberana]
 publish: true
+sin_fuente: true
 ---
 
 # Operación Soberanía: El Abismo Del Nacionalismo De Cuartel

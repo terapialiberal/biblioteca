@@ -7,6 +7,7 @@ tags: [energtico, estructuras, reset, tartaria]
 capa_tema: "a"
 nivel_evidencia: "bajo"
 publish: true
+sin_fuente: true
 ---
 
 # Tartaria Y El Reset Energético

@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [crdito, kong, panptico, protestas]
 publish: true
+sin_fuente: true
 ---
 
 # Protestas de Hong Kong: Entre la Libertad Y la Geopolítica

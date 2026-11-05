@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [facebook, girard, peter, ren]
 publish: true
+sin_fuente: true
 ---
 
 # René Girard: el Descifrador del Algoritmo del Deseo

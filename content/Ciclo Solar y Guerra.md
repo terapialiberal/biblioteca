@@ -7,6 +7,7 @@ estado: activo
 tags: [ciclo-solar, guerra, ciclos, geofisica, tl-intel-v3]
 capa_tema: c
 nivel_evidencia: bajo
+sin_fuente: true
 ---
 
 # Ciclo Solar y Guerra
@@ -22,12 +23,12 @@ El sol tiene ciclos fisicos reales. Las afirmaciones sobre influencia directa en
 ## Por que importa en TL
 
 - conecta geofisica, ciclos historicos y narrativa de destino;
-- ayuda a distinguir correlacion, causalidad y mito;
-- muestra el deseo de encontrar periodicidad natural en violencia politica.
+- ayuda a distinguir correlación, causalidad y mito;
+- muestra el deseo de encontrar periodicidad natural en violencia política.
 
 ## Lectura TL
 
-Si una teoria de ciclos solares ignora deuda, recursos, elites y decisiones, queda incompleta. Puede sugerir contexto, no reemplazar analisis politico.
+Si una teoria de ciclos solares ignora deuda, recursos, elites y decisiones, queda incompleta. Puede sugerir contexto, no reemplazar análisis político.
 
 ## Conexiones
 

@@ -7,6 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [dia, defense-intelligence-agency, inteligencia-militar, pentagono, defensa, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Defense Intelligence Agency
@@ -29,7 +30,7 @@ La nota seguía en formato viejo, muy cargada en narrativa cerrada y estilo mani
 
 ### 1. Inteligencia para la guerra continua
 
-La DIA importa porque convierte información militar y evaluación de capacidades rivales en insumo operativo para mandos, presupuestos y posturas de defensa.
+La DÍA importa porque convierte información militar y evaluación de capacidades rivales en insumo operativo para mandos, presupuestos y posturas de defensa.
 
 ### 2. Sensores de amenaza
 

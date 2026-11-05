@@ -8,6 +8,7 @@ tags: [ciclo-80-anos, fourth-turning, ciclos-historicos, crisis, tl-intel-v3]
 capa_tema: b
 nivel_evidencia: medio
 publish: true
+sin_fuente: true
 ---
 
 # Ciclo de 80 años

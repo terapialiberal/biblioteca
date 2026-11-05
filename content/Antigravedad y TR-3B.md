@@ -46,5 +46,5 @@ Funciona con tecnología de **Disruptor de Campo Magnético** (MFD): un anillo d
 
 ## Fuentes
 
-- "Secrets of Antigravity Propulsion" - Paul LaViolette
+- "Secrets of Antigravity Propulsión" - Paul LaViolette
 - Testimonios de Edgar Fouche (supuesto ingeniero del TR-3B).

@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Banco Popular de China", "People's Bank of China", "PBOC"]
 tags: [pboc, china, banca-central, cbdc, yuan-digital, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # PBOC (Banco Popular de China)
@@ -30,7 +31,7 @@ El batch `China / Taiwan / Malaca / Indo-Pacífico` y su extensión monetaria re
 
 ## Lectura TL
 
-### 1. Banco central con proyeccion geoeconomica
+### 1. Banco central con proyección geoeconomica
 
 El PBOC importa porque su acción ya no se limita al manejo interno del yuan. También participa en la construcción de alternativas de liquidación y cooperación monetaria con proyección regional.
 
@@ -42,7 +43,7 @@ En TL, el nodo gana peso cuando se observa que China no impulsa solo una divisa,
 
 Su utilidad aparece cuando se conecta el banco central con la expansión de dinero digital y protocolos de pago que combinan eficiencia, trazabilidad y margen estratégico frente al viejo orden del dólar.
 
-### 4. Banco central para un Rimland bajo presion
+### 4. Banco central para un Rimland bajo presión
 
 En TL, el nodo gana más densidad cuando se lo inserta en la secuencia `Malaca -> Taiwan -> rails asiáticos`. En ese marco, el PBOC aparece como administrador monetario de una estrategia más amplia de resiliencia, desvío y coordinación regional.
 

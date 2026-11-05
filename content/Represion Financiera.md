@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [ahorro, financiera, inflacin, invisible]
 publish: true
+sin_fuente: true
 ---
 
 # Represión Financiera: el Impuesto Invisible Sobre el Ahorro

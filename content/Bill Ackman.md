@@ -7,6 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [ackman, bill, carl]
 publish: true
+sin_fuente: true
 ---
 
 # Bill Ackman

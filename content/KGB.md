@@ -6,6 +6,7 @@ estado: activo
 aliases: ["KGB (URSS)"]
 tags: [kgb, urss, inteligencia, seguridad, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # KGB

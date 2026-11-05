@@ -8,6 +8,7 @@ estado: activo
 aliases: ["Fundacion Wellcome Trust", "Fundación Wellcome Trust"]
 tags: [wellcome-trust, biomedicina, salud-global, genomica, tl-intel-v3]
 publish: true
+sin_fuente: true
 ---
 
 # Wellcome Trust

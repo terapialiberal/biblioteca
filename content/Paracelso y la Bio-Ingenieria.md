@@ -1,5 +1,5 @@
 ---
-titulo: Paracelso y la Bio-Ingenieria
+titulo: Paracelso y la Bio-Ingeniería
 tipo: concepto
 fecha: 2026-04-27
 estado: activo
@@ -8,17 +8,18 @@ tags: [paracelso, bioingenieria, yatroquimica, medicina, alquimia, tl-intel-v3]
 capa_tema: c
 nivel_evidencia: medio
 publish: true
+sin_fuente: true
 ---
 
-# Paracelso y la Bio-Ingenieria
+# Paracelso y la Bio-Ingeniería
 
 ## BLUF
 
-Paracelso y la Bio-Ingenieria conecta la imaginacion alquimico-medica temprana con la promesa moderna de intervenir, optimizar y rediseñar procesos biologicos.
+Paracelso y la Bio-Ingeniería conecta la imaginación alquimico-medica temprana con la promesa moderna de intervenir, optimizar y rediseñar procesos biologicos.
 
 ## Que es
 
-Paracelso representa una transicion historica entre alquimia, medicina y quimica aplicada al cuerpo. La bio-ingenieria moderna pertenece a otro mundo tecnico, pero comparte un imaginario: la vida como sistema modificable.
+Paracelso representa una transición histórica entre alquimia, medicina y quimica aplicada al cuerpo. La bio-ingeniería moderna pertenece a otro mundo tecnico, pero comparte un imaginario: la vida como sistema modificable.
 
 ## Por que importa en TL
 
@@ -28,7 +29,7 @@ Paracelso representa una transicion historica entre alquimia, medicina y quimica
 
 ## Lectura TL
 
-El pasaje clave es del remedio a la arquitectura biologica. Cuando la vida se vuelve sistema editable, la pregunta politica es quien define mejora, riesgo, normalidad y acceso.
+El pasaje clave es del remedio a la arquitectura biologica. Cuando la vida se vuelve sistema editable, la pregunta política es quien define mejora, riesgo, normalidad y acceso.
 
 ## Conexiones
 
@@ -41,4 +42,4 @@ El pasaje clave es del remedio a la arquitectura biologica. Cuando la vida se vu
 
 ## Nivel de evidencia
 
-Medio como puente historico-cultural. Alto para la importancia de Paracelso en la historia medico-quimica; variable para extrapolaciones modernas.
+Medio como puente histórico-cultural. Alto para la importancia de Paracelso en la historia medico-quimica; variable para extrapolaciones modernas.
