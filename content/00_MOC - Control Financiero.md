@@ -6,6 +6,7 @@ fecha: 2026-04-07
 estado: activo
 moc_canonico: [[00_MOC - Base de Conocimiento]]
 tags: [moc, control-financiero, deuda, banca, tl-intel-v3]
+sin_fuente: true
 ---
 
 # MOC - Control Financiero
@@ -136,18 +137,18 @@ tags: [moc, control-financiero, deuda, banca, tl-intel-v3]
 ## Como leer el corredor Tesoro-Fed 2026
 
 - empezar por [[Stephen Miran]] para fijar la capa doctrinal del rediseño monetario;
-- seguir con [[Scott Bessent]] para bajar esa doctrina al Tesoro y la administracion de deuda;
+- seguir con [[Scott Bessent]] para bajar esa doctrina al Tesoro y la administración de deuda;
 - usar [[Kevin Warsh]] y [[Jerome Powell]] como eje de disputa sobre continuidad o alineamiento de la [[Reserva Federal]];
-- cerrar con [[Howard Lutnick]] y [[Treasuries]] para ver como comercio, stablecoins y deuda convergen sobre el mismo problema de absorcion de colateral.
+- cerrar con [[Howard Lutnick]] y [[Treasuries]] para ver como comercio, stablecoins y deuda convergen sobre el mismo problema de absorción de colateral.
 
 ## Como leer el plumbing monetario
 
 - empezar por [[Reserva Federal]] como coordinador del circuito;
 - pasar luego a [[Repo Market]] y [[Repo Market Crisis 2019]] para fijar la dependencia cotidiana de colateral y la señal temprana de fragilidad;
-- bajar a [[Reverse Repo Facility]] para ver la administracion fina de exceso de liquidez y piso de tasas;
+- bajar a [[Reverse Repo Facility]] para ver la administración fina de exceso de liquidez y piso de tasas;
 - cerrar con [[Treasuries]], [[BlackRock BUIDL]] y [[Proyecto Agora]] para entender por que el sistema experimenta con nuevas capas de colateral y settlement.
 
-## Secuencia Historica Del Ancla Monetaria
+## Secuencia Histórica Del Ancla Monetaria
 
 - [[Panico de 1907]]
 - [[Conferencia de Jekyll Island]]
@@ -168,26 +169,26 @@ tags: [moc, control-financiero, deuda, banca, tl-intel-v3]
 
 ## Como leer la genealogia monetaria larga
 
-- empezar por [[Conferencia de Bretton Woods]] para fijar el orden dolar-oro de posguerra;
+- empezar por [[Conferencia de Bretton Woods]] para fijar el orden dólar-oro de posguerra;
 - pasar luego a [[Shock de Nixon]] para ver la ruptura del ancla anterior;
-- bajar a [[Petrodolar]] y [[Sistema Petrodolar]] para entender el reanclaje historico posterior a 1971;
-- sumar [[Eurodolares]] para recordar que la expansion real del dolar tambien dependio de liquidez offshore y banca externa al territorio estadounidense;
+- bajar a [[Petrodolar]] y [[Sistema Petrodolar]] para entender el reanclaje histórico posterior a 1971;
+- sumar [[Eurodolares]] para recordar que la expansión real del dólar también dependio de liquidez offshore y banca externa al territorio estadounidense;
 - cerrar con [[Nuevo Bretton Woods]] y [[Reanclaje Hibrido]] para ubicar las hipotesis de reordenamiento actual bajo stress.
 
 ## Como leer el plumbing europeo transfronterizo
 
-- empezar por [[Eurodolares]] para fijar la capa offshore de liquidez global en dolares;
-- bajar luego a [[City de Londres]] para ubicar el centro historico de intermediacion y banca sombra;
+- empezar por [[Eurodolares]] para fijar la capa offshore de liquidez global en dólares;
+- bajar luego a [[City de Londres]] para ubicar el centro histórico de intermediación y banca sombra;
 - pasar a [[Euroclear]] y [[Clearstream]] para ver como esa liquidez y esa propiedad se vuelven settlement, custodia y colateral movil;
 - cerrar con [[DTCC]] para comparar la variante europea con la arquitectura estadounidense de propiedad desmaterializada.
 
 ## Como leer el frente monetario internacional
 
 - empezar por [[FMI]] y [[Banco Mundial]] para fijar la capa de disciplina macro y desarrollo condicionado;
-- sumar [[Consenso de Washington]] para fijar la capa doctrinal de apertura, privatizacion y ajuste;
-- bajar luego a [[Nicholas Brady]] para ver la traduccion financiera de esa disciplina via reestructuracion de deuda y retorno condicionado al mercado;
-- sumar [[Bonos Soberanos - El Grillete de las Naciones|Bonos Soberanos]] para fijar el instrumento cotidiano que traduce esa arquitectura a tasas, rollover y riesgo pais;
-- sumar [[Exorbitant Privilege]] para explicar por que el emisor del dolar juega con ventajas vedadas al resto;
+- sumar [[Consenso de Washington]] para fijar la capa doctrinal de apertura, privatización y ajuste;
+- bajar luego a [[Nicholas Brady]] para ver la traducción financiera de esa disciplina via reestructuración de deuda y retorno condicionado al mercado;
+- sumar [[Bonos Soberanos - El Grillete de las Naciones|Bonos Soberanos]] para fijar el instrumento cotidiano que traduce esa arquitectura a tasas, rollover y riesgo país;
+- sumar [[Exorbitant Privilege]] para explicar por que el emisor del dólar juega con ventajas vedadas al resto;
 - pasar luego a [[Desdolarizacion]] para ver la respuesta parcial y desigual de actores que buscan margen autonomo;
 - cerrar con [[Nuevo Bretton Woods]] y [[Reanclaje Hibrido]] para leer las salidas en disputa, no como final resuelto sino como tablero abierto.
 
@@ -195,13 +196,13 @@ tags: [moc, control-financiero, deuda, banca, tl-intel-v3]
 
 - empezar por [[Carlos Menem]] y [[Domingo Cavallo]] para fijar la fase de privatizaciones, convertibilidad y reingreso disciplinado al credito;
 - pasar luego por [[FMI]], [[Consenso de Washington]] y [[Nicholas Brady]] para ver el soporte internacional del mismo corredor;
-- bajar a [[Mauricio Macri]], [[Toto Caputo]] y [[Federico Sturzenegger]] para ubicar la reaparicion de cuadros e instrumentos de endeudamiento y ajuste;
-- cerrar con [[Javier Milei]] para leer la fase contemporanea del mismo problema bajo otra narrativa politica.
+- bajar a [[Mauricio Macri]], [[Toto Caputo]] y [[Federico Sturzenegger]] para ubicar la reaparición de cuadros e instrumentos de endeudamiento y ajuste;
+- cerrar con [[Javier Milei]] para leer la fase contemporanea del mismo problema bajo otra narrativa política.
 
 ## Como leer el corredor fundacional de la Fed
 
-- empezar por [[Panico de 1907]] como crisis que abre la ventana politica;
-- pasar luego a [[Conferencia de Jekyll Island]] para fijar la capa de coordinacion de elite;
+- empezar por [[Panico de 1907]] como crisis que abre la ventana política;
+- pasar luego a [[Conferencia de Jekyll Island]] para fijar la capa de coordinación de elite;
 - usar [[Paul Warburg]] como figura-puente del diseño bancario e institucional;
 - cerrar con [[Ley de la Reserva Federal]] y [[Reserva Federal]] para ver como el acuerdo se transforma en infraestructura estable de poder monetario.
 
@@ -239,8 +240,8 @@ tags: [moc, control-financiero, deuda, banca, tl-intel-v3]
 
 - empezar por [[Digital ID - Global Protocol]]: la identidad como llave interoperable de acceso;
 - bajar luego a [[Chainalysis]]: el compliance como trazabilidad y filtro operativo;
-- cerrar con [[Social Credit West]]: el score distribuido como castigo o permiso material sobre vida economica;
-- leer el conjunto no como excepcion cripto, sino como antesala de rails monetarios condicionados.
+- cerrar con [[Social Credit West]]: el score distribuido como castigo o permiso material sobre vida económica;
+- leer el conjunto no como excepción cripto, sino como antesala de rails monetarios condicionados.
 
 ## Custodia y The Great Taking
 
@@ -255,9 +256,9 @@ tags: [moc, control-financiero, deuda, banca, tl-intel-v3]
 
 ## Como leer el corredor de custodia
 
-- propiedad economica no equivale a titularidad registral: empezar por [[DTCC (Depository Trust & Clearing Corp)]] y [[Cede & Co]];
-- despues fijar la base conceptual y juridica: [[Beneficial Ownership]] y [[Uniform Commercial Code]];
-- despues pasar a prioridad contractual y crisis: [[ISDA]] y [[The Great Taking]];
+- propiedad económica no equivale a titularidad registral: empezar por [[DTCC (Depository Trust & Clearing Corp)]] y [[Cede & Co]];
+- después fijar la base conceptual y juridica: [[Beneficial Ownership]] y [[Uniform Commercial Code]];
+- después pasar a prioridad contractual y crisis: [[ISDA]] y [[The Great Taking]];
 - cerrar con escala internacional: [[Euroclear]] y [[Clearstream]] como capas de custodia y colateral transfronterizo.
 
 ## Lectura TL del corredor de custodia
@@ -287,7 +288,7 @@ tags: [moc, control-financiero, deuda, banca, tl-intel-v3]
 
 - [[00_MOC - Control Financiero.md|00_MOC - Control Financiero]]
 
-- [[99_AI/00_BOOT/00_NOTA_HONESTA.md|00_NOTA_HONESTA]]
+- [[99_AI/00_BOOT/_archivo/00_NOTA_HONESTA.md|00_NOTA_HONESTA]]
 
 - [[06_Videos_Publicados/2026/2026-05-21_Triple_Summit/01_PREPRODUCCION.md|01_PREPRODUCCION]]
 
@@ -419,7 +420,7 @@ tags: [moc, control-financiero, deuda, banca, tl-intel-v3]
 
 - [[Felix Rohatyn.md|Felix Rohatyn]]
 
-- [[Fernando de la Rua.md|Fernando de la Rua]]
+- [[Fernando de la Rúa.md|Fernando de la Rúa]]
 
 - [[FMI.md|FMI]]
 
@@ -451,7 +452,11 @@ tags: [moc, control-financiero, deuda, banca, tl-intel-v3]
 
 - [[Inflación.md|Inflación]]
 
-- [[07_Informes/01_AMAGI/2026-11_NOVIEMBRE/INFORME_AMAGI_Noviembre2026_DRAFT_v0.1.md|INFORME_AMAGI_Noviembre2026_DRAFT_v0.1]]
+- [[07_Informes/01_AMAGI/2026-11_NOVIEMBRE/INFORME_AMAGI_Noviembre2026_DRAFT_v0.4.md|INFORME_AMAGI_Noviembre2026_DRAFT_v0.4]]
+
+- [[07_Informes/01_AMAGI/2026-11_NOVIEMBRE/INFORME_AMAGI_Noviembre2026_FINAL.md|INFORME_AMAGI_Noviembre2026_FINAL]]
+
+- [[07_Informes/01_AMAGI/2026-11_NOVIEMBRE/_SISTEMA/rollback/INFORME_AMAGI_Noviembre2026_FINAL_2026-10-31.md|INFORME_AMAGI_Noviembre2026_FINAL_2026-10-31]]
 
 - [[07_Informes/01_AMAGI/2026-10_OCTUBRE/INFORME_AMAGI_Octubre2026_FINAL.md|INFORME_AMAGI_Octubre2026_FINAL]]
 
@@ -528,6 +533,8 @@ tags: [moc, control-financiero, deuda, banca, tl-intel-v3]
 - [[Reserva Federal.md|Reserva Federal]]
 
 - [[Reserva Fraccionaria.md|Reserva Fraccionaria]]
+
+- [[07_Informes/01_AMAGI/2026-11_NOVIEMBRE/_SISTEMA/ROLLBACK_INFORME_2026-11-04_pre_cierre.md|ROLLBACK_INFORME_2026-11-04_pre_cierre]]
 
 - [[RWA Tokenization Protocol.md|RWA Tokenization Protocol]]
 

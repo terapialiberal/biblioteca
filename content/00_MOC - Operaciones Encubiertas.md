@@ -6,6 +6,7 @@ fecha: 2026-04-07
 estado: activo
 moc_canonico: [[00_MOC - Base de Conocimiento]]
 tags: [moc, operaciones-encubiertas, inteligencia, false-flag, tl-intel-v3]
+sin_fuente: true
 ---
 
 # MOC - Operaciones Encubiertas
@@ -99,15 +100,15 @@ tags: [moc, operaciones-encubiertas, inteligencia, false-flag, tl-intel-v3]
 
 - no empezar por el golpe clasico, sino por [[Soft Power]];
 
-- seguir con [[NED]] y [[USAID]] para ubicar la preparacion institucional y civil;
+- seguir con [[NED]] y [[USAID]] para ubicar la preparación institucional y civil;
 
-- usar [[Revolucion del color]] como punto de condensacion entre calle, narrativa y presion externa;
+- usar [[Revolucion del color]] como punto de condensación entre calle, narrativa y presión externa;
 
 - sumar [[Primaveras Arabes]] cuando el corredor blando derive en caos regional y guerra proxy;
 
 - usar [[Revolucion de Color Domestica]] y [[Lawfare]] cuando el metodo vuelva sobre el propio bloque occidental;
 
-- solo despues bajar a [[CIA]] y operaciones mas duras cuando el caso muestre escalada por encima de la influencia blanda.
+- solo después bajar a [[CIA]] y operaciones mas duras cuando el caso muestre escalada por encima de la influencia blanda.
 
 - [[06_Videos_Publicados/2026/2026-04-07_NWO_Energetico_Blueprint/_SISTEMA/00_CONTROL_TEMA.md|00_CONTROL_TEMA]]
 
@@ -156,8 +157,6 @@ tags: [moc, operaciones-encubiertas, inteligencia, false-flag, tl-intel-v3]
 - [[CIA (Central Intelligence Agency).md|CIA (Central Intelligence Agency)]]
 
 - [[CIA (Operaciones en Latam).md|CIA (Operaciones en Latam)]]
-
-- [[CIA Narcotráfico.md|CIA Narcotráfico]]
 
 - [[Cienciología.md|Cienciología]]
 

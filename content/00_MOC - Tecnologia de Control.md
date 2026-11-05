@@ -1,14 +1,15 @@
 ---
 publish: true
-titulo: "MOC - Tecnologia de Control"
+titulo: "MOC - Tecnología de Control"
 tipo: moc
 fecha: 2026-04-07
 estado: activo
 moc_canonico: [[00_MOC - Base de Conocimiento]]
 tags: [moc, tecnologia-de-control, ia, vigilancia, tl-intel-v3]
+sin_fuente: true
 ---
 
-# MOC - Tecnologia de Control
+# MOC - Tecnología de Control
 
 > Entrada a inteligencia artificial, vigilancia masiva, identidad digital, biopolítica y convergencia bio-digital.
 
@@ -130,9 +131,9 @@ tags: [moc, tecnologia-de-control, ia, vigilancia, tl-intel-v3]
 
 ## Puente identidad-compliance-finanzas
 
-- [[Digital ID - Global Protocol]] aporta la capa de verificacion interoperable;
+- [[Digital ID - Global Protocol]] aporta la capa de verificación interoperable;
 - [[Chainalysis]] aporta la trazabilidad y el cumplimiento delegado;
-- [[Social Credit West]] muestra el efecto final: acceso, prioridad o exclusion sin necesidad de juicio formal;
+- [[Social Credit West]] muestra el efecto final: acceso, prioridad o exclusión sin necesidad de juicio formal;
 - este subcorredor enlaza vigilancia tecnica con [[00_MOC - Control Financiero]] y ya no debe leerse como rama separada.
 
 ## Bioseguridad y Control Corporal
@@ -167,15 +168,15 @@ tags: [moc, tecnologia-de-control, ia, vigilancia, tl-intel-v3]
 
 - empezar por [[ID2020]]: la credencial sanitaria interoperable como punto de entrada;
 - seguir con [[Genomic ID]]: el salto desde biometria visible hacia cuerpo profundo y perfil biologico;
-- cerrar en [[Internet de los Cuerpos]]: el organismo conectado como capa de monitoreo e intervencion continua;
-- leer este subcorredor como prolongacion del frente identidad-biometria hacia salud, precision medicine y bio-control.
+- cerrar en [[Internet de los Cuerpos]]: el organismo conectado como capa de monitoreo e intervención continua;
+- leer este subcorredor como prolongación del frente identidad-biometria hacia salud, precisión medicine y bio-control.
 
-## Como leer el corredor de intervencion bio-digital
+## Como leer el corredor de intervención bio-digital
 
-- empezar por [[Precision Medicine]]: la legitimacion clinica de perfilar y ajustar;
+- empezar por [[Precision Medicine]]: la legitimación clinica de perfilar y ajustar;
 - seguir con [[Internet de los Cuerpos]]: el cuerpo conectado como capa operativa;
 - pasar luego a [[Neuralink]]: la interfaz neuronal como salto de profundidad;
-- cerrar en [[Internet of Bio-Nano Things]]: la hipotesis de sensado e intervencion a escala molecular.
+- cerrar en [[Internet of Bio-Nano Things]]: la hipotesis de sensado e intervención a escala molecular.
 
 ## Nodos Relacionados
 
@@ -207,19 +208,15 @@ tags: [moc, tecnologia-de-control, ia, vigilancia, tl-intel-v3]
 
 - [[01_Research/02_SEÑALES/2026-10-09_day-after-ia-regulacion-anticipada.md|2026-10-09_day-after-ia-regulacion-anticipada]]
 
+- [[01_Research/05_DEBATES/2026-11-03_Tecnocracia_Metrica_Energia_Contrahipotesis.md|2026-11-03_Tecnocracia_Metrica_Energia_Contrahipotesis]]
+
 - [[Agencia de Seguridad Nacional.md|Agencia de Seguridad Nacional]]
 
 - [[Alan Turing.md|Alan Turing]]
 
 - [[Albert Bourla.md|Albert Bourla]]
 
-- [[Alibaba.md|Alibaba]]
-
 - [[Amir Elichai.md|Amir Elichai]]
-
-- [[Andreessen Horowitz (a16z).md|Andreessen Horowitz (a16z)]]
-
-- [[Andrew Yang.md|Andrew Yang]]
 
 - [[Anduril Industries.md|Anduril Industries]]
 
@@ -235,13 +232,7 @@ tags: [moc, tecnologia-de-control, ia, vigilancia, tl-intel-v3]
 
 - [[Big Pharma.md|Big Pharma]]
 
-- [[Big Tech.md|Big Tech]]
-
-- [[Biologia Sintetica.md|Biologia Sintetica]]
-
 - [[Biología Sintética.md|Biología Sintética]]
-
-- [[Biometría Global.md|Biometría Global]]
 
 - [[Biopolitica.md|Biopolitica]]
 
@@ -249,15 +240,9 @@ tags: [moc, tecnologia-de-control, ia, vigilancia, tl-intel-v3]
 
 - [[Booz Allen Hamilton.md|Booz Allen Hamilton]]
 
-- [[Brad Smith.md|Brad Smith]]
-
-- [[Broadcom.md|Broadcom]]
-
 - [[Cables submarinos el talon de Aquiles del mundo digital.md|Cables submarinos el talon de Aquiles del mundo digital]]
 
 - [[Cadena física de la IA.md|Cadena física de la IA]]
-
-- [[California.md|California]]
 
 - [[Carbine.md|Carbine]]
 
@@ -291,25 +276,13 @@ tags: [moc, tecnologia-de-control, ia, vigilancia, tl-intel-v3]
 
 - [[Crimson Contagion.md|Crimson Contagion]]
 
-- [[Criptografia Arcaica.md|Criptografia Arcaica]]
-
-- [[Cuarta Revolución Industrial.md|Cuarta Revolución Industrial]]
-
-- [[Cuerpos de Luz vs Datos.md|Cuerpos de Luz vs Datos]]
-
 - [[Dark Winter.md|Dark Winter]]
 
 - [[DarkTrace.md|DarkTrace]]
 
-- [[DARPA.md|DARPA]]
-
 - [[Data Centers.md|Data Centers]]
 
-- [[David Sacks.md|David Sacks]]
-
 - [[Departamento Seguridad Nacional.md|Departamento Seguridad Nacional]]
-
-- [[Desastre del Hindenburg.md|Desastre del Hindenburg]]
 
 - [[DHS (Departamento de Seguridad Nacional).md|DHS (Departamento de Seguridad Nacional)]]
 
@@ -331,8 +304,6 @@ tags: [moc, tecnologia-de-control, ia, vigilancia, tl-intel-v3]
 
 - [[El Retorno de los Vigilantes.md|El Retorno de los Vigilantes]]
 
-- [[Elon Musk (Análisis).md|Elon Musk (Análisis)]]
-
 - [[EMA.md|EMA]]
 
 - [[Erich Traub.md|Erich Traub]]
@@ -351,8 +322,6 @@ tags: [moc, tecnologia-de-control, ia, vigilancia, tl-intel-v3]
 
 - [[Fundacion Huesped.md|Fundacion Huesped]]
 
-- [[Ganancia de Funcion.md|Ganancia de Funcion]]
-
 - [[Ganancia de Función.md|Ganancia de Función]]
 
 - [[GAVI.md|GAVI]]
@@ -360,8 +329,6 @@ tags: [moc, tecnologia-de-control, ia, vigilancia, tl-intel-v3]
 - [[GCHQ.md|GCHQ]]
 
 - [[Geocercas.md|Geocercas]]
-
-- [[Geoingeniería.md|Geoingeniería]]
 
 - [[Glenn Greenwald.md|Glenn Greenwald]]
 
@@ -377,21 +344,17 @@ tags: [moc, tecnologia-de-control, ia, vigilancia, tl-intel-v3]
 
 - [[Guerra Biológica.md|Guerra Biológica]]
 
-- [[HAARP.md|HAARP]]
-
 - [[Helion.md|Helion]]
 
 - [[Horus - El Ojo de la Vigilancia.md|Horus - El Ojo de la Vigilancia]]
 
-- [[IBM.md|IBM]]
-
 - [[Identidad Digital.md|Identidad Digital]]
-
-- [[In-Q-Tel.md|In-Q-Tel]]
 
 - [[07_Informes/01_AMAGI/2026-07_JULIO/INFORME_AMAGI_Julio2026_v2.0.md|INFORME_AMAGI_Julio2026_v2.0]]
 
-- [[Infosys.md|Infosys]]
+- [[07_Informes/01_AMAGI/2026-11_NOVIEMBRE/INFORME_AMAGI_Noviembre2026_DRAFT_v0.4.md|INFORME_AMAGI_Noviembre2026_DRAFT_v0.4]]
+
+- [[07_Informes/01_AMAGI/2026-11_NOVIEMBRE/_SISTEMA/rollback/INFORME_AMAGI_Noviembre2026_FINAL_2026-10-31.md|INFORME_AMAGI_Noviembre2026_FINAL_2026-10-31]]
 
 - [[Instituto de Virologia de Wuhan.md|Instituto de Virologia de Wuhan]]
 
@@ -401,13 +364,9 @@ tags: [moc, tecnologia-de-control, ia, vigilancia, tl-intel-v3]
 
 - [[Internet de las Cosas (IoT).md|Internet de las Cosas (IoT)]]
 
-- [[INVAP.md|INVAP]]
-
 - [[IoT y Animismo Tecnico.md|IoT y Animismo Tecnico]]
 
 - [[Jack Clark - Anthropic.md|Jack Clark - Anthropic]]
-
-- [[Jack Ma.md|Jack Ma]]
 
 - [[Jamal Khashoggi.md|Jamal Khashoggi]]
 
@@ -433,8 +392,6 @@ tags: [moc, tecnologia-de-control, ia, vigilancia, tl-intel-v3]
 
 - [[Lucero del Alba y Espionaje.md|Lucero del Alba y Espionaje]]
 
-- [[McLuhan.md|McLuhan]]
-
 - [[Menwith Hill.md|Menwith Hill]]
 
 - [[Meta.md|Meta]]
@@ -450,8 +407,6 @@ tags: [moc, tecnologia-de-control, ia, vigilancia, tl-intel-v3]
 - [[Narendra Modi.md|Narendra Modi]]
 
 - [[NEWSLETTER_El_Gran_Desacople_2026.md|NEWSLETTER_El_Gran_Desacople_2026]]
-
-- [[Nikola Tesla (Supresión).md|Nikola Tesla (Supresión)]]
 
 - [[06_Videos_Publicados/2026/2026-04-13_Ormuz_IA_Orden/NOTA_TESIS_Ormuz_IA_Orden.md|NOTA_TESIS_Ormuz_IA_Orden]]
 
@@ -470,8 +425,6 @@ tags: [moc, tecnologia-de-control, ia, vigilancia, tl-intel-v3]
 - [[OpenAI.md|OpenAI]]
 
 - [[Operacion Lockstep.md|Operacion Lockstep]]
-
-- [[Oracle.md|Oracle]]
 
 - [[Orwell.md|Orwell]]
 
@@ -521,10 +474,6 @@ tags: [moc, tecnologia-de-control, ia, vigilancia, tl-intel-v3]
 
 - [[PROMIS Software.md|PROMIS Software]]
 
-- [[Propiedad Intelectual.md|Propiedad Intelectual]]
-
-- [[Protocolo 5G y Bio-resonancia.md|Protocolo 5G y Bio-resonancia]]
-
 - [[Recorded Future.md|Recorded Future]]
 
 - [[Red Echelon.md|Red Echelon]]
@@ -539,15 +488,11 @@ tags: [moc, tecnologia-de-control, ia, vigilancia, tl-intel-v3]
 
 - [[Safe and Effective.md|Safe and Effective]]
 
-- [[SAIC.md|SAIC]]
-
 - [[Sanger Institute.md|Sanger Institute]]
 
 - [[Sergey Brin.md|Sergey Brin]]
 
 - [[SIDE.md|SIDE]]
-
-- [[Silicio y Memoria de Cristal.md|Silicio y Memoria de Cristal]]
 
 - [[Silicon Valley.md|Silicon Valley]]
 
@@ -572,8 +517,6 @@ tags: [moc, tecnologia-de-control, ia, vigilancia, tl-intel-v3]
 - [[Tedros Adhanom Ghebreyesus.md|Tedros Adhanom Ghebreyesus]]
 
 - [[Teoria del Internet Muerto.md|Teoria del Internet Muerto]]
-
-- [[TikTok Gnosis.md|TikTok Gnosis]]
 
 - [[Total Information Awareness.md|Total Information Awareness]]
 

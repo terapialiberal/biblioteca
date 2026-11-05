@@ -6,6 +6,7 @@ fecha: 2026-04-07
 estado: activo
 moc_canonico: [[00_MOC - Base de Conocimiento]]
 tags: [moc, rimland, geopolitica, choke-points, tl-intel-v3]
+sin_fuente: true
 ---
 
 # MOC - Rimland
@@ -88,10 +89,10 @@ tags: [moc, rimland, geopolitica, choke-points, tl-intel-v3]
 ## Como leer el corredor monetario del Indo-Pacifico ampliado
 
 - empezar por [[Estrecho de Malaca]] para fijar el choke point logistico sobre el comercio asiatico;
-- bajar luego a [[Sistema CIPS]] y [[Proyecto mBridge]] para ver como la region busca redundancia monetaria;
-- sumar [[mBridge Expansion]] para medir la ampliacion del rail hacia ASEAN y socios de comercio;
-- usar [[BRICS Expansion 2026]] para ver la escala politica-material que puede absorber esos rails;
-- cerrar con [[Desdolarizacion]] como expresion monetaria del mismo tablero de corredores, energia y contencion.
+- bajar luego a [[Sistema CIPS]] y [[Proyecto mBridge]] para ver como la región busca redundancia monetaria;
+- sumar [[mBridge Expansion]] para medir la ampliación del rail hacia ASEAN y socios de comercio;
+- usar [[BRICS Expansion 2026]] para ver la escala política-material que puede absorber esos rails;
+- cerrar con [[Desdolarizacion]] como expresión monetaria del mismo tablero de corredores, energía y contención.
 
 ## Cómo leer el corredor asiático industrial
 

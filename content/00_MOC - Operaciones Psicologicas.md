@@ -6,6 +6,7 @@ fecha: 2026-04-07
 estado: activo
 moc_canonico: [[00_MOC - Base de Conocimiento]]
 tags: [moc, psyops, control-social, guerra-cognitiva, tl-intel-v3]
+sin_fuente: true
 ---
 
 # MOC - Operaciones Psicologicas
@@ -86,15 +87,15 @@ tags: [moc, psyops, control-social, guerra-cognitiva, tl-intel-v3]
 ## Como leer la capa de cambio de regimen blando
 
 - tomar [[Soft Power]] como marco conceptual;
-- seguir con [[NED]] y [[USAID]] para ver la incubacion de actores, medios y lenguaje civico;
-- pasar por [[Operacion Mockingbird]] y [[Atlantic Council DFRLab]] para la traduccion narrativa;
-- cerrar con [[Revolucion del color]] cuando esa preparacion blanda cristaliza en evento politico de alto voltaje.
+- seguir con [[NED]] y [[USAID]] para ver la incubación de actores, medios y lenguaje civico;
+- pasar por [[Operacion Mockingbird]] y [[Atlantic Council DFRLab]] para la traducción narrativa;
+- cerrar con [[Revolucion del color]] cuando esa preparación blanda cristaliza en evento político de alto voltaje.
 
-## Como leer la domesticacion del metodo
+## Como leer la domesticación del metodo
 
-- empezar por [[Revolucion de Color Domestica]] como retorno interno de tecnicas de deslegitimacion;
+- empezar por [[Revolucion de Color Domestica]] como retorno interno de tecnicas de deslegitimación;
 - bajar luego a [[Lawfare]], [[AFI]] y [[Jueces Federales de Comodoro Py]] para ver la capa judicial e informacional;
-- sumar [[Horacio Verbitsky]] y [[CELS]] cuando la legitimacion moral y juridica se integran al mismo corredor de presion.
+- sumar [[Horacio Verbitsky]] y [[CELS]] cuando la legitimación moral y juridica se integran al mismo corredor de presión.
 
 ## Defensa y Resistencia
 

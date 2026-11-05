@@ -6,17 +6,18 @@ fecha: 2026-04-18
 estado: activo
 moc_canonico: [[00_MOC - Base de Conocimiento]]
 tags: [moc, argentina, poder-local, tl-intel-v3]
+sin_fuente: true
 ---
 
 # MOC - Argentina
 
-> Punto de entrada para elites locales, operadores politicos, inteligencia, recursos estrategicos y fabricacion narrativa en Argentina.
+> Punto de entrada para elites locales, operadores politicos, inteligencia, recursos estrategicos y fabricación narrativa en Argentina.
 
 ## Resumen
 
 - Argentina funciona como laboratorio de captura local.
 - El poder real combina empresarios prebendarios, operadores politicos, inteligencia y recursos estrategicos.
-- El criterio TL sigue siendo: quien captura renta, territorio, regulacion y narrativa.
+- El criterio TL sigue siendo: quien captura renta, territorio, regulación y narrativa.
 
 ## Circulo Rojo y Duenos
 
@@ -100,33 +101,33 @@ tags: [moc, argentina, poder-local, tl-intel-v3]
 
 ## Como leer la persistencia del poder mediatico
 
-- empezar por [[Hector Magnetto]] para fijar el operador civil de larga duracion;
-- pasar luego a [[Carlos Menem]] para ver la fase noventista de mutacion del Estado y reordenamiento de negocios;
+- empezar por [[Hector Magnetto]] para fijar el operador civil de larga duración;
+- pasar luego a [[Carlos Menem]] para ver la fase noventista de mutación del Estado y reordenamiento de negocios;
 - bajar a [[Crisis de 2001]] como ruptura del esquema previo;
-- seguir con [[Nestor Kirchner]] para leer la reconstruccion estatal y el nuevo equilibrio con medios y cajas;
+- seguir con [[Nestor Kirchner]] para leer la reconstrucción estatal y el nuevo equilibrio con medios y cajas;
 - cerrar con [[Cristina Kirchner]] y [[Mauricio Macri]] para ver como el mismo corredor de medios, justicia e inteligencia sobrevive bajo facciones distintas.
 
 ## Como leer el corredor 90-2001-pos2001
 
 - empezar por [[Carlos Menem]] para fijar convertibilidad, privatizaciones y alineamiento externo;
 - sumar [[Domingo Cavallo]] como operador tecnocratico del mismo diseño;
-- pasar por [[Fernando de la Rua]] y [[Corralito]] para ver la implosion politico-financiera del esquema;
-- usar [[Crisis de 2001]] como condensacion social y politica del derrumbe;
-- usar [[Eduardo Duhalde]] como salida de emergencia y redistribucion brutal del colapso;
+- pasar por [[Fernando de la Rua]] y [[Corralito]] para ver la implosión político-financiera del esquema;
+- usar [[Crisis de 2001]] como condensación social y política del derrumbe;
+- usar [[Eduardo Duhalde]] como salida de emergencia y redistribución brutal del colapso;
 - cerrar con [[Nestor Kirchner]] para ver como el sistema se recompone sobre nuevas cajas y nueva legitimidad sin romper del todo con dependencias previas.
 
 ## Como leer la continuidad tecnocratica contemporanea
 
-- empezar por [[Mauricio Macri]] para fijar el regreso de deuda, FMI y management empresario como solucion de poder;
+- empezar por [[Mauricio Macri]] para fijar el regreso de deuda, FMI y management empresario como solución de poder;
 - bajar a [[Toto Caputo]] y [[Federico Sturzenegger]] para seguir la persistencia de cuadros tecnicos en crisis distintas;
-- usar [[FMI]] para ver la capa externa de disciplina y validacion;
-- cerrar con [[Javier Milei]] para leer la fase actual como reconfiguracion narrativa de un problema estructural mas viejo y no como ruptura total.
+- usar [[FMI]] para ver la capa externa de disciplina y validación;
+- cerrar con [[Javier Milei]] para leer la fase actual como reconfiguración narrativa de un problema estructural mas viejo y no como ruptura total.
 
-## Como leer el umbral politico del mileismo
+## Como leer el umbral político del mileismo
 
 - empezar por [[Eleccion de Milei]] para fijar la ruptura electoral del sistema partidario previo;
-- bajar luego a [[Javier Milei]] para ver la concentracion del liderazgo y la mesa chica;
-- pasar a [[Crisis Argentina Milei]] para observar como ajuste, licuacion y conflicto se vuelven tecnica de gobierno;
+- bajar luego a [[Javier Milei]] para ver la concentración del liderazgo y la mesa chica;
+- pasar a [[Crisis Argentina Milei]] para observar como ajuste, licuación y conflicto se vuelven tecnica de gobierno;
 - cerrar con [[Mauricio Macri]], [[Toto Caputo]] y [[Federico Sturzenegger]] para medir cuanta ruptura hay realmente y cuanta continuidad de elites y cuadros.
 
 ## Como leer el ecosistema mediatico argentino

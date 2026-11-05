@@ -6,6 +6,7 @@ fecha: 2026-04-07
 estado: activo
 moc_canonico: [[00_MOC - Base de Conocimiento]]
 tags: [moc, cbdc, tokenizacion, rieles-financieros, tl-intel-v3]
+sin_fuente: true
 ---
 
 # MOC - Finanzas y CBDC
@@ -73,17 +74,17 @@ tags: [moc, cbdc, tokenizacion, rieles-financieros, tl-intel-v3]
 
 ## Secuencia de lectura sugerida
 
-- coordinacion tecnica: [[BIS Innovation Hub]] y [[Proyecto Agora]];
+- coordinación tecnica: [[BIS Innovation Hub]] y [[Proyecto Agora]];
 - activo base y demanda: [[Treasuries]] y [[Tokenized Sovereign Debt]];
 - canal institucional de liquidez: [[BlackRock BUIDL]];
-- capa politica del enforcement: [[Stablecoin Regulation US]] y [[Dinero Programable]].
+- capa política del enforcement: [[Stablecoin Regulation US]] y [[Dinero Programable]].
 
-## Como leer el plumbing hacia la tokenizacion
+## Como leer el plumbing hacia la tokenización
 
 - empezar por [[Repo Market Crisis 2019]] para fijar la fragilidad del settlement clasico;
 - seguir con [[Reverse Repo Facility]] para ver la gestion transicional de liquidez y colateral;
 - pasar luego a [[Treasuries]] como activo base a sostener;
-- cerrar con [[BlackRock BUIDL]], [[Tokenized Sovereign Debt]] y [[Proyecto Agora]] como respuestas potenciales a ese mismo problema de circulacion y absorcion.
+- cerrar con [[BlackRock BUIDL]], [[Tokenized Sovereign Debt]] y [[Proyecto Agora]] como respuestas potenciales a ese mismo problema de circulación y absorción.
 
 ## Dos salidas del mismo problema
 
@@ -93,7 +94,7 @@ tags: [moc, cbdc, tokenizacion, rieles-financieros, tl-intel-v3]
 
 ## Como leer la disputa occidental por rails
 
-- empezar por [[SWIFT]] para fijar la infraestructura legacy de mensajeria y coercion;
+- empezar por [[SWIFT]] para fijar la infraestructura legacy de mensajeria y coerción;
 - pasar luego a [[Proyecto Agora]] y [[BIS Innovation Hub]] para ver la respuesta tecnico-institucional coordinada;
 - sumar [[BCE]] y [[CBDC Europeo]] para ubicar la variante europea, mas bancaria y regulatoria;
 - bajar a [[Stablecoin Regulation US]], [[GENIUS Act]] y [[Tether USDS]] para ver la variante estadounidense, mas privada pero igual de alineada con demanda por deuda y enforcement;
@@ -101,26 +102,26 @@ tags: [moc, cbdc, tokenizacion, rieles-financieros, tl-intel-v3]
 
 ## Como leer el brazo europeo institucional
 
-- empezar por [[Union Europea]] para fijar la capa supranacional donde se apoya la coordinacion normativa y monetaria;
+- empezar por [[Union Europea]] para fijar la capa supranacional donde se apoya la coordinación normativa y monetaria;
 - bajar luego a [[BCE]] como centro de gravedad financiero de la eurozona;
 - usar [[Mario Draghi]] para ver la fase de tecnocracia de emergencia y defensa del euro;
-- cerrar con [[Christine Lagarde]] y [[CBDC Europeo]] para leer la transicion desde estabilizacion de crisis hacia dinero mas programable y supervisado.
+- cerrar con [[Christine Lagarde]] y [[CBDC Europeo]] para leer la transición desde estabilización de crisis hacia dinero mas programable y supervisado.
 
 ## Como leer la salida dolarizada contemporanea
 
 - empezar por [[Stephen Miran]] para la cobertura doctrinal del rediseño;
 - bajar a [[Scott Bessent]] para la fase Tesoro y disciplina sobre demanda de deuda;
 - pasar por [[Kevin Warsh]] y [[Jerome Powell]] para ubicar la variable Fed dentro del mismo problema;
-- cerrar con [[Howard Lutnick]], [[Stablecoin Regulation US]] y [[Treasuries]] para ver cómo rails privados y deuda soberana pueden integrarse en una misma solucion de absorcion.
+- cerrar con [[Howard Lutnick]], [[Stablecoin Regulation US]] y [[Treasuries]] para ver cómo rails privados y deuda soberana pueden integrarse en una misma solución de absorción.
 
-## Como leer el frente dolar versus rails alternativos
+## Como leer el frente dólar versus rails alternativos
 
-- empezar por [[Exorbitant Privilege]] para fijar la ventaja estructural del dolar;
+- empezar por [[Exorbitant Privilege]] para fijar la ventaja estructural del dólar;
 - sumar [[Consenso de Washington]] para recordar la capa doctrinal de disciplina exportada via deuda y reforma;
-- bajar luego a [[Nicholas Brady]] para fijar la capa de ingenieria financiera que reempaqueta deuda periferica y la vuelve circulable;
-- pasar luego a [[Desdolarizacion]] y [[Proyecto mBridge]] para ver la presion de bypasses parciales;
+- bajar luego a [[Nicholas Brady]] para fijar la capa de ingeniería financiera que reempaqueta deuda periferica y la vuelve circulable;
+- pasar luego a [[Desdolarizacion]] y [[Proyecto mBridge]] para ver la presión de bypasses parciales;
 - sumar [[FMI]] y [[Banco Mundial]] como capas historicas de disciplina del orden dolarizado;
-- cerrar con [[Nuevo Bretton Woods]] para ubicar estas tensiones dentro de una reconfiguracion sistémica mas amplia.
+- cerrar con [[Nuevo Bretton Woods]] para ubicar estas tensiones dentro de una reconfiguración sistémica mas amplia.
 
 ## Tokenización y RWA
 
@@ -147,11 +148,11 @@ tags: [moc, cbdc, tokenizacion, rieles-financieros, tl-intel-v3]
 
 ## Como leer el corredor asiatico-golfo alternativo
 
-- empezar por [[Sistema CIPS]] para fijar la capa base de liquidacion y mensajeria china;
-- bajar luego a [[Proyecto mBridge]] para ver el rail transfronterizo de nueva generacion;
+- empezar por [[Sistema CIPS]] para fijar la capa base de liquidación y mensajeria china;
+- bajar luego a [[Proyecto mBridge]] para ver el rail transfronterizo de nueva generación;
 - sumar [[mBridge Expansion]] para medir el pasaje desde piloto a infraestructura regional mas amplia;
-- usar [[Digital Yuan Expansion]] para fijar la exportacion de estandares monetarios chinos;
-- cerrar con [[BRICS Expansion 2026]] y [[Gold Backed CBDC - Pilot]] para leer los dos bordes del mismo problema: coordinacion de bloque y busqueda de nuevos activos de confianza.
+- usar [[Digital Yuan Expansion]] para fijar la exportación de estandares monetarios chinos;
+- cerrar con [[BRICS Expansion 2026]] y [[Gold Backed CBDC - Pilot]] para leer los dos bordes del mismo problema: coordinación de bloque y busqueda de nuevos activos de confianza.
 
 ## Nodos Relacionados
 
@@ -163,13 +164,7 @@ tags: [moc, cbdc, tokenizacion, rieles-financieros, tl-intel-v3]
 
 - [[Entity_Graph]]
 
-- [[06_Videos_Publicados/2025/2025-10-29_Cometa_Atlas/🚨 Nave Extraterrestre o Ritual de la Elite La Verdad sobre 3IAtlas.md|🚨 Nave Extraterrestre o Ritual de la Elite La Verdad sobre 3IAtlas]]
-
-- [[06_Videos_Publicados/2025/2025-10-24_El_RESET_MALTHUSIANO_GEOPOLITICA/🚨 Prediccion de The Economist El Tiempo se acaba + Trump se enfurece con Rusia y otras noticias.md|🚨 Prediccion de The Economist El Tiempo se acaba + Trump se enfurece con Rusia y otras noticias]]
-
 - [[06_Videos_Publicados/2026/2026-03-17_Iran_Stream/00_ARCHIVO_2026-03-17_Iran.md|00_ARCHIVO_2026-03-17_Iran]]
-
-- [[06_Videos_Publicados/2026/2026-09-14_El_dia_despues_tiene_duenios/_SISTEMA/00_CONTROL_TEMA.md|00_CONTROL_TEMA]]
 
 - [[00_MOC - Finanzas y CBDC.md|00_MOC - Finanzas y CBDC]]
 
@@ -182,8 +177,6 @@ tags: [moc, cbdc, tokenizacion, rieles-financieros, tl-intel-v3]
 - [[Alquimia Digital.md|Alquimia Digital]]
 
 - [[Astrologia Financiera.md|Astrologia Financiera]]
-
-- [[Axel Kicillof.md|Axel Kicillof]]
 
 - [[Banca Central.md|Banca Central]]
 
@@ -209,11 +202,7 @@ tags: [moc, cbdc, tokenizacion, rieles-financieros, tl-intel-v3]
 
 - [[Bonos Soberanos - El Grillete de las Naciones.md|Bonos Soberanos - El Grillete de las Naciones]]
 
-- [[California.md|California]]
-
 - [[Capitalismo de Rescate Permanente.md|Capitalismo de Rescate Permanente]]
-
-- [[Carlos Melconian.md|Carlos Melconian]]
 
 - [[CBDC.md|CBDC]]
 
@@ -259,17 +248,11 @@ tags: [moc, cbdc, tokenizacion, rieles-financieros, tl-intel-v3]
 
 - [[Dinero Programable.md|Dinero Programable]]
 
-- [[Economía Circular.md|Economía Circular]]
-
 - [[El Gran Reinicio.md|El Gran Reinicio]]
 
 - [[El Patron Bitcoin.md|El Patron Bitcoin]]
 
 - [[Elliott Management.md|Elliott Management]]
-
-- [[Escuela Austríaca de Economía.md|Escuela Austríaca de Economía]]
-
-- [[Escuela de Chicago (Chicago Boys).md|Escuela de Chicago (Chicago Boys)]]
 
 - [[ESG.md|ESG]]
 
@@ -279,17 +262,9 @@ tags: [moc, cbdc, tokenizacion, rieles-financieros, tl-intel-v3]
 
 - [[Ethereum Foundation.md|Ethereum Foundation]]
 
-- [[Federico Sturzenegger.md|Federico Sturzenegger]]
-
-- [[G20.md|G20]]
-
-- [[G7.md|G7]]
-
 - [[Gary Gensler.md|Gary Gensler]]
 
 - [[Gold Backed CBDC - Pilot.md|Gold Backed CBDC - Pilot]]
-
-- [[Gran Depresión.md|Gran Depresión]]
 
 - [[Grupo de los Treinta.md|Grupo de los Treinta]]
 
@@ -303,15 +278,9 @@ tags: [moc, cbdc, tokenizacion, rieles-financieros, tl-intel-v3]
 
 - [[Imperio Británico.md|Imperio Británico]]
 
-- [[07_Informes/02_PATREONS/2026-09-14_GoMining_DueDiligence/Reunion/INFORME_Reunion_2026-09-22.md|INFORME_Reunion_2026-09-22]]
-
 - [[Integra Capital.md|Integra Capital]]
 
-- [[Keynesianismo.md|Keynesianismo]]
-
 - [[Kuhn, Loeb & Co..md|Kuhn, Loeb & Co.]]
-
-- [[06_Videos_Publicados/2025/2025-11-12_Como_Funciona_el_Mundo/La Matrix del Poder Quienes son los Verdaderos Dueños del Planeta.md|La Matrix del Poder Quienes son los Verdaderos Dueños del Planeta]]
 
 - [[Larry Fink.md|Larry Fink]]
 
@@ -329,29 +298,19 @@ tags: [moc, cbdc, tokenizacion, rieles-financieros, tl-intel-v3]
 
 - [[Mercados Financieros.md|Mercados Financieros]]
 
-- [[06_Videos_Publicados/2026/2026-06-17_Endgame_Ormuz/METADATA_YOUTUBE.md|METADATA_YOUTUBE]]
-
 - [[Monedas de Privacidad.md|Monedas de Privacidad]]
-
-- [[Monetarismo.md|Monetarismo]]
 
 - [[Mr. Robot (serie).md|Mr. Robot (serie)]]
 
 - [[Narcotráfico.md|Narcotráfico]]
 
-- [[Neoliberalismo.md|Neoliberalismo]]
-
 - [[Nicholas Brady.md|Nicholas Brady]]
-
-- [[Nodos Lunares en la Economia.md|Nodos Lunares en la Economia]]
 
 - [[06_Videos_Publicados/2026/2026-03-26_El_Reseteo_Perfecto/NOTA_TESIS_El_Reseteo_Perfecto.md|NOTA_TESIS_El_Reseteo_Perfecto]]
 
 - [[06_Videos_Publicados/2026/2026-03-17_Iran_Stream/nota-tesis-iran-2026-tablero-completo.md|nota-tesis-iran-2026-tablero-completo]]
 
 - [[06_Videos_Publicados/2026/2026-03-17_Iran_Stream/NotaTesis_MegaGroup_RedContinuidad_v5.md|NotaTesis_MegaGroup_RedContinuidad_v5]]
-
-- [[OCDE.md|OCDE]]
 
 - [[PBOC (Banco Popular de China).md|PBOC (Banco Popular de China)]]
 
@@ -365,15 +324,11 @@ tags: [moc, cbdc, tokenizacion, rieles-financieros, tl-intel-v3]
 
 - [[Proyecto mBridge.md|Proyecto mBridge]]
 
-- [[01_Research/03_RESEARCH/2026-09-09_La_Historia_no_se_repite_pero_rima/02_EVIDENCIA/REVISION_2026-09-17_ECONOMIA.md|REVISION_2026-09-17_ECONOMIA]]
-
 - [[Rishi Sunak.md|Rishi Sunak]]
 
 - [[Score Ciudadano.md|Score Ciudadano]]
 
 - [[Señoreaje.md|Señoreaje]]
-
-- [[Sergio Massa.md|Sergio Massa]]
 
 - [[Singapur.md|Singapur]]
 
