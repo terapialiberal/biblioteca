@@ -8,7 +8,8 @@ estado: activo
 aliases: ["Safe And Effective: la Programacion Neurolinguistica del Consentimiento"]
 tags: [safe-and-effective, consentimiento, propaganda, vacunas, bioseguridad, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
+marco_propio: true
 ---
 
 # Safe and Effective
@@ -73,3 +74,7 @@ En TL, la fuerza del lema estuvo en reemplazar matices de edad, condición, efic
 - [[EMA]]
 - [[00_MOC - Salud Global y Bioseguridad]]
 - [[00_MOC - Captura Regulatoria y Puertas Giratorias]]
+
+## Fuentes
+
+- **Marco propio:** concepto de TL sin fuente externa posible. Se define en las piezas donde aparece: rastrearlo con `dossier "Safe and Effective"`.

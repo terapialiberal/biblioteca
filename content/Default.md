@@ -1,5 +1,6 @@
 ---
 titulo: Default
+fuente: "https://www.oecd.org/en/publications/global-outlook-on-financing-for-sustainable-development-2025_753d5368-en/full-report/debt-and-debt-sustainability_51646937.html"
 tipo: concepto
 fecha: 2026-05-02
 capa_tema: b
@@ -8,7 +9,7 @@ estado: activo
 aliases: ["Default soberano", "Incumplimiento de deuda"]
 tags: [default, deuda-soberana, crisis, acreedores, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Default

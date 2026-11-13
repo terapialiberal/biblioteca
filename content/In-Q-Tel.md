@@ -8,7 +8,7 @@ estado: activo
 aliases: [In Q Tel, IQT]
 tags: [in-q-tel, cia, venture-capital, inteligencia, defensa, tecnologia, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # In-Q-Tel
@@ -60,3 +60,8 @@ La nota rinde todavía más cuando se la conecta con [[Palantir]], [[Anduril Ind
 - [[Vigilancia Predictiva]]
 - [[CIA]]
 - [[00_MOC - Vigilancia Tecnica y SIGINT]]
+
+## Fuentes
+
+- [In-Q-Tel — sitio oficial](https://www.iqt.org/) — misión declarada: conectar tecnologías emergentes con la comunidad de inteligencia.
+- **Lo que la fuente NO sostiene:** el sitio no publica su cartera completa ni los montos. Cualquier afirmación sobre una empresa concreta necesita su propio documento.

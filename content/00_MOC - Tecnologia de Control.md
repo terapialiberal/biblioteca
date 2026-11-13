@@ -222,6 +222,8 @@ sin_fuente: true
 
 - [[Anthony Fauci.md|Anthony Fauci]]
 
+- [[Anthropic.md|Anthropic]]
+
 - [[AT&T.md|AT&T]]
 
 - [[Baidu.md|Baidu]]
@@ -259,8 +261,6 @@ sin_fuente: true
 - [[chips.md|chips]]
 
 - [[Ciberseguridad.md|Ciberseguridad]]
-
-- [[Cinco Ojos_LEGACY.md|Cinco Ojos_LEGACY]]
 
 - [[CISA Vigilancia 2026.md|CISA Vigilancia 2026]]
 
@@ -314,7 +314,7 @@ sin_fuente: true
 
 - [[FDA.md|FDA]]
 
-- [[Five Eyes Alliance_LEGACY.md|Five Eyes Alliance_LEGACY]]
+- [[financiamiento circular de proveedores.md|financiamiento circular de proveedores]]
 
 - [[Fort Detrick.md|Fort Detrick]]
 
@@ -347,6 +347,8 @@ sin_fuente: true
 - [[Helion.md|Helion]]
 
 - [[Horus - El Ojo de la Vigilancia.md|Horus - El Ojo de la Vigilancia]]
+
+- [[IA.md|IA]]
 
 - [[Identidad Digital.md|Identidad Digital]]
 
@@ -483,8 +485,6 @@ sin_fuente: true
 - [[Revelaciones de Snowden.md|Revelaciones de Snowden]]
 
 - [[Robert Malone.md|Robert Malone]]
-
-- [[Roko_s Basilisk_LEGACY.md|Roko_s Basilisk_LEGACY]]
 
 - [[Safe and Effective.md|Safe and Effective]]
 

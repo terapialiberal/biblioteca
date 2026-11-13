@@ -8,7 +8,7 @@ estado: activo
 aliases: ["Banco Mundial (World Bank)", "World Bank"]
 tags: [deuda, desarrollo, infraestructura, organismo-internacional, ajuste, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Banco Mundial
@@ -52,3 +52,8 @@ También importa porque muestra como la legitimidad moral del "desarrollo" puede
 - [[Robert McNamara]]
 - [[Bechtel]]
 - [[Consenso de Washington]]
+
+## Fuentes
+
+- [Referencia documental](https://www.worldbank.org/) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

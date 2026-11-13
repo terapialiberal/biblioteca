@@ -8,7 +8,7 @@ estado: activo
 aliases: ["Programa PRISM", "PRISM"]
 tags: [prism, nsa, vigilancia, five-eyes, big-tech, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # PRISM (Programa)
@@ -55,3 +55,8 @@ Leído después del ciclo Snowden, PRISM deja de ser solo escándalo histórico 
 - [[ECHELON]]
 - [[Panoptico Digital]]
 - [[00_MOC - Tecnologia de Control]]
+
+## Fuentes
+
+- [Referencia documental](https://en.wikipedia.org/wiki/PRISM) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

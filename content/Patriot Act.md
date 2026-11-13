@@ -1,5 +1,6 @@
 ---
 titulo: Patriot Act
+fuente: "https://www.govinfo.gov/content/pkg/PLAW-107publ56/pdf/PLAW-107publ56.pdf"
 tipo: concepto
 fecha: 2026-04-18
 capa_tema: b
@@ -13,7 +14,7 @@ tags:
   - seguridad-nacional
   - legislacion-de-excepcion
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # [[Patriot Act]]

@@ -7,7 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [proyecto-agora, bis, cbdc, dinero-programable, unified-ledger, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Proyecto Agora
@@ -72,3 +72,8 @@ En TL, Agora gana todavía más peso cuando se la conecta con [[Dinero Programab
 - [[Repo Market Crisis 2019]]
 - [[Treasuries]]
 - [[00_MOC - Finanzas y CBDC]]
+
+## Fuentes
+
+- [Referencia documental](https://www.bis.org/about/bisih/topics/fmis/agora.htm) — el hecho, la organización o el proyecto: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

@@ -8,7 +8,7 @@ estado: activo
 aliases: ["Néstor Kirchner"]
 tags: [argentina, kirchnerismo, estado, pos-2001, poder, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Nestor Kirchner
@@ -52,3 +52,8 @@ También importa porque sin este nodo se entiende peor tanto el ascenso de [[Cri
 - [[Lazaro Baez]]
 - [[Crisis de 2001]]
 - [[Muerte de Nestor Kirchner]]
+
+## Fuentes
+
+- [Referencia documental](https://es.wikipedia.org/wiki/N%C3%A9stor_Kirchner) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

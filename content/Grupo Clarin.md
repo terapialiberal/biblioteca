@@ -8,7 +8,7 @@ estado: activo
 aliases: ["Grupo Clarin", "Grupo Clarín"]
 tags: [argentina, medios, telecom, narrativa, lawfare, magnetto, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Grupo Clarin
@@ -53,3 +53,8 @@ Leido junto con [[Lawfare]] y [[Jueces Federales de Comodoro Py]], el nodo ayuda
 - [[Héctor Magnetto]]
 - [[Nestor Kirchner]]
 - [[Mauricio Macri]]
+
+## Fuentes
+
+- [Referencia documental](https://es.wikipedia.org/wiki/Grupo_Clar%C3%ADn) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

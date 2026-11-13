@@ -8,7 +8,7 @@ estado: activo
 aliases: ["Mauricio Macri: El Gerente de la Dependencia Estructural"]
 tags: [argentina, macri, deuda, afi, lawfare, circulo-rojo, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Mauricio Macri
@@ -54,3 +54,8 @@ También importa como punto de paso entre el sistema político anterior y la rec
 - [[Nicolas Caputo]]
 - [[Javier Milei]]
 - [[Lawfare]]
+
+## Fuentes
+
+- [Referencia documental](https://es.wikipedia.org/wiki/Mauricio_Macri) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

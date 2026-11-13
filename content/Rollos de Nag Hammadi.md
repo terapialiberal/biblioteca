@@ -1,5 +1,6 @@
 ---
 titulo: Rollos De Nag Hammadi (La Anomalía Gnóstica)
+fuente: "http://www.gnosis.org/naghamm/nhl.html"
 tipo: "concepto"
 fecha: 2026-02-25
 estado: activo
@@ -7,7 +8,7 @@ tags: [archivos, hammadi, rollos]
 capa_tema: "a"
 nivel_evidencia: "alto"
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Rollos De Nag Hammadi (La Anomalía Gnóstica)

@@ -162,8 +162,6 @@ sin_fuente: true
 
 - [[Club Safari.md|Club Safari]]
 
-- [[Club Safari (La CIA privatizada)_LEGACY.md|Club Safari (La CIA privatizada)_LEGACY]]
-
 - [[Comite Church.md|Comite Church]]
 
 - [[Comite Church (Evento).md|Comite Church (Evento)]]

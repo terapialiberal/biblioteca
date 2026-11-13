@@ -7,7 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [big-pharma, farmaceuticas, captura-sanitaria, patentes, bioseguridad, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Big Pharma
@@ -57,3 +57,8 @@ La nota gana más espesor cuando se la conecta con [[Lobby]], [[Compliance]] y [
 - [[Lobby]]
 - [[Compliance]]
 - [[00_MOC - Captura Regulatoria y Puertas Giratorias]]
+
+## Fuentes
+
+- [Pharmaceutical industry — Wikipedia](https://en.wikipedia.org/wiki/Pharmaceutical_industry) — estructura del sector, márgenes y modelo de patentes.
+- **Qué es nuestro:** «Big Pharma» como bloque coordinado es TL; lo verificable es la industria y sus incentivos, no una coordinación formal.

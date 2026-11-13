@@ -8,7 +8,8 @@ estado: activo
 aliases: ["Credito Social Occidental"]
 tags: [credito-social, scoring, debanking, identidad-digital, tecnocracia, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
+marco_propio: true
 ---
 
 # Social Credit West
@@ -78,3 +79,7 @@ Leido junto con [[Digital ID - Global Protocol]] y [[CBDC]], el concepto deja de
 - [[Dinero Programable]]
 - [[00_MOC - Tecnologia de Control]]
 - [[00_MOC - Control Financiero]]
+
+## Fuentes
+
+- **Marco propio:** concepto de TL sin fuente externa posible. Se define en las piezas donde aparece: rastrearlo con `dossier "Social Credit West"`.

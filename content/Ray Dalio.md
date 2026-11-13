@@ -1,5 +1,6 @@
 ---
 titulo: "Ray Dalio: el Gestor de la Rendición de Occidente"
+fuente: "https://www.bloomberg.com/news/articles/2026-08-21/ray-dalio-recomienda-oro-ante-crisis-de-deuda-de-ee-uu"
 tipo: "persona"
 fecha: 2026-02-25
 tier_primario: "b"

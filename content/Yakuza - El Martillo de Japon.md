@@ -1,5 +1,6 @@
 ---
 titulo: Yakuza — El Martillo De La Reconstrucción Japonesa
+fuente: "https://www.ucpress.edu/books/yakuza/paper"
 tipo: "concepto"
 fecha: 2026-02-25
 estado: activo
@@ -7,7 +8,7 @@ tags: [japn, martillo, yakuza]
 capa_tema: "b"
 nivel_evidencia: "alto"
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Yakuza — El Martillo De La Reconstrucción Japonesa

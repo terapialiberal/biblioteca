@@ -1,5 +1,6 @@
 ---
 titulo: Elites Orientales — Chaebol Y Keiretsu (El Neo-Feudalismo Industrial)
+fuente: "https://www.oecd.org/content/dam/oecd/en/publications/reports/2022/03/good-policies-and-practices-for-corporate-governance-of-company-groups-in-asia_dfa69778/653bea79-en.pdf"
 tipo: "concepto"
 fecha: 2026-02-25
 estado: activo
@@ -7,7 +8,7 @@ tags: [blackrock, keiretsus, orientales, vanguard]
 capa_tema: "a"
 nivel_evidencia: "alto"
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Elites Orientales — Chaebol Y Keiretsu (El Neo-Feudalismo Industrial)

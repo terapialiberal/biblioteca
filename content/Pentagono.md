@@ -1,5 +1,6 @@
 ---
 titulo: Pentagono
+fuente: "https://www.defense.gov/about/"
 tipo: entidad
 fecha: 2026-04-19
 tier_primario: b
@@ -7,7 +8,7 @@ nivel_evidencia: alto
 estado: activo
 tags: [pentagono, defensa, eeuu, aparato-militar, contratistas, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Pentagono

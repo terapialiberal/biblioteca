@@ -8,7 +8,7 @@ estado: activo
 aliases: ["BlackRock Aladdin", "BlackRock (Aladdin)"]
 tags: [aladdin, blackrock, riesgo, cartera, gobernanza-algoritmica, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Aladdin
@@ -58,3 +58,8 @@ En contextos de stress, guerra, inflación o desorden de mercado, la dependencia
 - [[Matrix de Poder]]
 - [[Policrisis Sistemica]]
 - [[00_MOC - Control Financiero]]
+
+## Fuentes
+
+- [Aladdín — Wikipedia](https://es.wikipedia.org/wiki/Aladd%C3%ADn) — referencia enciclopédica del hecho, la persona o la organización.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

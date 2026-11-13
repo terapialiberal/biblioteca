@@ -7,7 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [argentina, cavallo, convertibilidad, deuda, tecnocracia, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Domingo Cavallo
@@ -51,3 +51,8 @@ También importa porque opera como puente histórico entre los 90, la crisis de 
 - [[FMI]]
 - [[Federico Sturzenegger]]
 - [[Mauricio Macri]]
+
+## Fuentes
+
+- [Referencia documental](https://es.wikipedia.org/wiki/Domingo_Cavallo) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

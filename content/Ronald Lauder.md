@@ -7,7 +7,7 @@ creada: 2026-04-15
 tier_primario: A
 estado: activo
 tags: [ronald-lauder, lauder, world-jewish-congress, redes-de-poder, tl-intel-v3]
-sin_fuente: true
+sin_fuente: false
 ---
 
 # [[Ronald Lauder]]
@@ -97,3 +97,9 @@ Lauder importa en TL cuando aparece en cruces donde una red familiar deja de ser
 ## Casos TL relacionados
 
 - [[06_Videos_Publicados/2026/2026-10-21_Diesel_Ormuz_Comida/POSTMORTEM_INTEL.md|Las élites controlan la política (21-10)]] — tríada Lauder–Fink–Warsh: el caso lo ubica en la misma semana que Fink y Warsh: Groenlandia como idea de Lauder, la inflación celebrada por Trump y el hold de la Fed. Nexo familiar declarado: Lauder es yerno de Warsh (el POSTMORTEM no aporta fuente primaria de ese parentesco; queda como dato del caso a verificar). — estado: confirmado.
+
+## Fuentes
+
+- [Ronald Lauder — Wikipedia](https://en.wikipedia.org/wiki/Ronald_Lauder) — Estée Lauder, presidencia del Congreso Judío Mundial y vínculo familiar con Kevin Warsh.
+- [World Jewish Congress — liderazgo](https://www.worldjewishcongress.org/en/about/leadership) — su posición institucional actual.
+- **Qué es nuestro:** «nodo de enlace» y «activo que captura: acceso» son lectura TL. Las fuentes sostienen los cargos y el parentesco, no la función que le atribuimos.

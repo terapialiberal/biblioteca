@@ -6,7 +6,7 @@ estado: activo
 aliases: ["Golpe De Chile 1973"]
 tags: [golpe-de-chile-1973, chile, cia, kissinger, pinochet, cambio-de-regimen, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Golpe de Chile 1973
@@ -56,3 +56,8 @@ Leido junto con [[Operacion Condor]], el nodo ayuda a entender cómo Chile funci
 - [[Operacion Condor]]
 - [[Doctrina del Shock]]
 - [[00_MOC - Inteligencia Clasica y Operaciones Historicas]]
+
+## Fuentes
+
+- [Referencia documental](https://es.wikipedia.org/wiki/Golpe_de_Estado_en_Chile_de_1973) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

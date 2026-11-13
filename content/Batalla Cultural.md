@@ -7,7 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [argentina, cultura, milei, relato, guerra-cultural, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Batalla Cultural (Argentina)
@@ -51,3 +51,8 @@ También importa porque sirve como puente entre medios, educación, memoria sete
 - [[Pagina 12]]
 - [[La Nacion +]]
 - [[Propaganda]]
+
+## Fuentes
+
+- [Culture war — Wikipedia](https://en.wikipedia.org/wiki/Culture_war) — origen del término, casos y críticas.
+- **Qué es nuestro:** tratarla como dispositivo de desplazamiento del conflicto material al simbólico es lectura TL.

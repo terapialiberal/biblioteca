@@ -8,7 +8,7 @@ estado: activo
 aliases: ["Coalition for Epidemic Preparedness Innovations"]
 tags: [cepi, vacunas, bioseguridad, preparacion-pandemica, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # CEPI
@@ -51,3 +51,8 @@ Leída junto con [[GAVI]], [[World Health Organization]], [[Tratado de Pandemias
 - [[Fundacion Bill y Melinda Gates]]
 - [[Moderna]]
 - [[Tecnocracia]]
+
+## Fuentes
+
+- [Referencia documental](https://cepi.net/) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

@@ -8,7 +8,7 @@ estado: activo
 aliases: ["Food and Drug Administration", "U.S. Food and Drug Administration"]
 tags: [fda, regulacion, salud, bioseguridad, big-pharma, captura-regulatoria, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # FDA
@@ -68,3 +68,8 @@ Leida junto con [[Safe and Effective]], la agencia gana otra capa: no solo autor
 - [[00_MOC - Salud Global y Bioseguridad]]
 - [[00_MOC - Captura Regulatoria y Puertas Giratorias]]
 - [[Safe and Effective]]
+
+## Fuentes
+
+- [Referencia documental](https://www.fda.gov/) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

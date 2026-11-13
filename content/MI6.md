@@ -6,7 +6,7 @@ estado: activo
 aliases: ["Secret Intelligence Service", "SIS"]
 tags: [mi6, inteligencia, reino-unido, five-eyes, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # MI6
@@ -16,3 +16,8 @@ sin_fuente: true
 ## Lectura TL
 
 MI6 permite leer la continuidad de poder británico después del imperio formal: inteligencia, diplomacia, finanzas y redes discretas.
+
+## Fuentes
+
+- [Referencia documental](https://en.wikipedia.org/wiki/Secret_Intelligence_Service) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

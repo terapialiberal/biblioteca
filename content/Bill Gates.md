@@ -7,7 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [bill-gates, microsoft, filantrocapitalismo, salud-global, tecnocracia, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Bill Gates
@@ -58,3 +58,8 @@ Leído junto con [[Microsoft]] y [[Breakthrough Energy]], Gates también aparece
 - [[Breakthrough Energy]]
 - [[Salud Global]]
 - [[Tecnocracia]]
+
+## Fuentes
+
+- [Referencia documental](https://en.wikipedia.org/wiki/Bill_Gates) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

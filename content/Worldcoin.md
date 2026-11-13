@@ -1,5 +1,6 @@
 ---
 titulo: Worldcoin
+fuente: "https://es.wikipedia.org/wiki/Worldcoin"
 tipo: proyecto
 fecha: 2026-04-17
 tier_primario: b

@@ -7,7 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [nso-group, pegasus, spyware, vigilancia, zero-click, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # NSO Group
@@ -59,3 +59,8 @@ En TL, la nota rinde todavía más cuando se la conecta con [[Jamal Khashoggi]] 
 - [[Panoptico Digital]]
 - [[00_MOC - Vigilancia Tecnica y SIGINT]]
 - [[00_MOC - Tecnologia de Control]]
+
+## Fuentes
+
+- [Referencia documental](https://en.wikipedia.org/wiki/NSO_Group) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

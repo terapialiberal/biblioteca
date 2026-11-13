@@ -1,13 +1,14 @@
 ---
 publish: true
 titulo: "Kirill Dmitriev"
+fuente: "https://www.rdif.ru/Eng_person_dmitriev_kirill/"
 tipo: persona
 tier_primario: b
 nivel_evidencia: alto
 estado: activo
 tags: [rusia, rdif, kushner, witkoff, ucrania, minerales, canal-privado, kremlin, tierras-raras, 2026, tl-intel-v3]
 fecha: 2026-03-12
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Kirill Dmitriev

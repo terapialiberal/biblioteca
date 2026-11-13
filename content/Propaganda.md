@@ -1,5 +1,6 @@
 ---
 titulo: Propaganda
+fuente: "https://www.ushmm.org/propaganda"
 tipo: concepto
 fecha: 2026-04-27
 estado: activo
@@ -7,7 +8,7 @@ tags: [propaganda, opinion-publica, medios, operaciones-psicologicas, tl-intel-v
 capa_tema: b
 nivel_evidencia: alto
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Propaganda

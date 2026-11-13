@@ -1,5 +1,6 @@
 ---
 titulo: Total Information Awareness
+fuente: "https://sgp.fas.org/congress/2003/tia.html"
 tipo: programa
 fecha: 2026-04-17
 capa_tema: b
@@ -8,7 +9,7 @@ estado: activo
 aliases: ["TIA", "Information Awareness Office"]
 tags: [tia, vigilancia, darpa, palantir, inteligencia, tecnocracia, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Total Information Awareness

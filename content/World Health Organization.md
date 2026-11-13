@@ -8,7 +8,7 @@ estado: activo
 aliases: ["WHO", "OMS", "Organizacion Mundial de la Salud", "Organización Mundial de la Salud"]
 tags: [who, oms, salud-global, bioseguridad, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # World Health Organization
@@ -61,3 +61,9 @@ La potencia de la OMS en TL no reside en mandar sola, sino en producir gramátic
 - [[Digital ID - Global Protocol]]
 - [[Tedros Adhanom Ghebreyesus]]
 - [[Tecnocracia]]
+
+## Fuentes
+
+- [World Health Organization — sitio oficial](https://www.who.int/) — mandato, gobernanza y publicaciones.
+- [World Health Organization — Wikipedia](https://en.wikipedia.org/wiki/World_Health_Organization) — historia, financiamiento y críticas documentadas.
+- **Qué es nuestro:** el rol en la arquitectura de gobernanza global es lectura TL; las fuentes sostienen el organismo y su financiamiento, no la función que le atribuimos.

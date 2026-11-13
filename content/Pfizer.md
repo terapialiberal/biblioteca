@@ -1,5 +1,6 @@
 ---
 titulo: Pfizer
+fuente: "https://www.pfizer.com/news/media-resources/press-kits/corporate-media-kit"
 tipo: entidad
 fecha: 2026-04-21
 tier_primario: b
@@ -7,7 +8,7 @@ nivel_evidencia: alto
 estado: activo
 tags: [pfizer, industria-farmaceutica, salud, captura-regulatoria, bioseguridad, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Pfizer

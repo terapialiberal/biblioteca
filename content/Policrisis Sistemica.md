@@ -7,7 +7,8 @@ nivel_evidencia: medio
 estado: activo
 tags: [policrisis, convergencia-sistemica, fragilidad-global, cascada, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
+fuentes: ["[[06_Videos_Publicados/2026/2026-04-22_ORDO_AB_CHAOS/POSTMORTEM_INTEL.md|Ordo ab Chaos]]", "[[06_Videos_Publicados/2026/2026-05-06_Punto_de_no_retorno/POSTMORTEM_INTEL.md|Punto de no retorno]]"]
 ---
 
 # Policrisis Sistémica
@@ -67,3 +68,9 @@ El patron gana fuerza cuando no solo multiplica crisis, sino también disponibil
 - [[PayPal Mafia]]
 - [[Palantir]]
 - [[Worldcoin]]
+
+## Fuentes
+
+- [[06_Videos_Publicados/2026/2026-04-22_ORDO_AB_CHAOS/POSTMORTEM_INTEL.md|Ordo ab Chaos — POSTMORTEM — 2026-04-22]] — primera aparición del patrón en el vault y definición operativa.
+- [[06_Videos_Publicados/2026/2026-05-06_Punto_de_no_retorno/POSTMORTEM_INTEL.md|Punto de no retorno — POSTMORTEM — 2026-05-06]] — aplicación posterior.
+- **Marco propio:** el término «policrisis» viene de la literatura económica; el uso TL —crisis que se amplifican entre sí y producen cascadas— es construcción nuestra y se define en las piezas de arriba, no en una fuente externa.

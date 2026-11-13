@@ -7,7 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [bernays, propaganda, consentimiento, psicologia, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Edward Bernays
@@ -47,3 +47,9 @@ El paso contemporáneo no invalida a Bernays. Lo escala. Lo que antes hacían me
 - [[Propaganda (Libro)]]
 - [[Ray Dalio]]
 - [[Tecnocracia]]
+
+## Fuentes
+
+- [Edward Bernays — Wikipedia](https://en.wikipedia.org/wiki/Edward_Bernays) — quién fue, sus campañas y su lugar en la historia de la propaganda.
+- [Propaganda (1928) — Internet Archive](https://archive.org/details/propagandaberna00bern) — el libro que funda la técnica.
+- **Qué es nuestro:** la lectura de que la ingeniería de consentimiento es hoy infraestructura y no oficio es TL.

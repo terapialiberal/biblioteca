@@ -8,7 +8,8 @@ estado: activo
 aliases: ["Genomic ID (Bio-Digital Convergence)"]
 tags: [genomic-id, adn, bio-digital, identidad-digital, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
+marco_propio: true
 ---
 
 # Genomic ID
@@ -67,3 +68,7 @@ Leido junto con [[ID2020]] y [[Bio-Identidad Digital]], este nodo ya no se limit
 - [[Internet de los Cuerpos]]
 - [[00_MOC - Salud Global y Bioseguridad]]
 - [[00_MOC - Tecnologia de Control]]
+
+## Fuentes
+
+- **Marco propio:** concepto de TL sin fuente externa posible. Se define en las piezas donde aparece: rastrearlo con `dossier "Genomic ID"`.

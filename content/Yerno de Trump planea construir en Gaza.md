@@ -6,6 +6,7 @@ usado_en: "2027-01-07_Gaza_SA"
 estado: activo
 tags: [desarrollo-costero, gaza, jared-kushner, negocios-bienes-raices, politica-trump, tl-intel-v3]
 titulo: "Yerno de Trump planea construir en Gaza"
+fuente: "https://x.com/terapia_liberal/status/2000954895432593564"
 publish: true
 ---
 

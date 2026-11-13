@@ -1,5 +1,6 @@
 ---
 titulo: "Rothschild And Co: el Corazón de la Ingeniería Financiera Soberana"
+fuente: "https://en.wikipedia.org/wiki/Nathaniel_Rothschild"
 tipo: "concepto"
 fecha: 2026-02-25
 capa_tema: "b"

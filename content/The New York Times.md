@@ -7,7 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [nyt, medios, narrativa, legitimacion, propaganda, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # The New York Times
@@ -58,3 +58,8 @@ También importa porque participa en la administración retrospectiva del archiv
 - [[Edward Bernays]]
 - [[The Washington Post]]
 - [[Katharine Graham]]
+
+## Fuentes
+
+- [Referencia documental](https://es.wikipedia.org/wiki/The_New_York_Times) — el hecho, la organización o el proyecto: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

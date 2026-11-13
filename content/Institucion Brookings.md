@@ -8,7 +8,7 @@ estado: activo
 aliases: ["Brookings Institution", "Institución Brookings"]
 tags: [brookings, think-tank, washington, fundaciones, deep-state, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Institución Brookings
@@ -52,3 +52,8 @@ Leída junto con [[Fundacion Ford]], [[CFR]] y [[Deep State]], Brookings ayuda a
 - [[Deep State]]
 - [[Rusiagate / Steele Dossier]]
 - [[Qatar]]
+
+## Fuentes
+
+- [Brookings Institution — sitio oficial](https://www.brookings.edu/) — programas, financiamiento declarado y publicaciones.
+- **Qué es nuestro:** leer los think tanks como productores de consenso y no de análisis neutral es TL.

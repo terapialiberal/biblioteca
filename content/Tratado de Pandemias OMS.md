@@ -8,7 +8,7 @@ estado: activo
 aliases: ["Tratado de Pandemias", "Tratado de Pandemias de la OMS", "Tratado De Pandemias (OMS)"]
 tags: [tratado-de-pandemias, oms, bioseguridad, soberania, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Tratado de Pandemias OMS
@@ -65,3 +65,8 @@ En TL, el tratado importa también porque muestra cómo un lenguaje técnico-jur
 - [[Tedros Adhanom Ghebreyesus]]
 - [[00_MOC - Salud Global y Bioseguridad]]
 - [[Tecnocracia]]
+
+## Fuentes
+
+- [Referencia documental](https://en.wikipedia.org/wiki/Pandemic_treaty) — el hecho, la institución o el acuerdo: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

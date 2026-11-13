@@ -1,5 +1,6 @@
 ---
 titulo: Manipulación De Mercados — La Mano Invisible De Tier B
+fuente: "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26445"
 tipo: "concepto"
 fecha: 2026-02-25
 estado: activo
@@ -7,7 +8,7 @@ tags: [invisible, manipulacin, mano, mercados]
 capa_tema: "b"
 nivel_evidencia: "alto"
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Manipulación De Mercados — La Mano Invisible De Tier B

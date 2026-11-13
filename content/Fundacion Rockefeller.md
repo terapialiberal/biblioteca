@@ -8,7 +8,7 @@ estado: activo
 aliases: ["Fundación Rockefeller", "Rockefeller Foundation"]
 tags: [rockefeller-foundation, salud-global, agricultura, filantrocapitalismo, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Fundación Rockefeller
@@ -53,3 +53,8 @@ Leída junto con [[Fundacion Bill y Melinda Gates]], [[World Health Organization
 - [[Monsanto]]
 - [[Operacion Lockstep]]
 - [[Tecnocracia]]
+
+## Fuentes
+
+- [The Rockefeller Foundation — sitio oficial](https://www.rockefellerfoundation.org/) — programas, donaciones y prioridades declaradas.
+- **Qué es nuestro:** la lectura de la fundación como nodo de diseño de agenda (filantrocapitalismo) es TL; la fuente sostiene los programas y los montos, no la intención.

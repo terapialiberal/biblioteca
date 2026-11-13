@@ -6,7 +6,7 @@ estado: activo
 aliases: ["Transhumanismo (Movimiento)"]
 tags: [transhumanismo, biotecnologia, ia, cuerpo, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Transhumanismo
@@ -25,3 +25,8 @@ Su relevancia no está solo en la promesa futurista, sino en quién financia, re
 - [[AGI]]
 - [[Biología Sintética]]
 - [[Digital ID - Global Protocol]]
+
+## Fuentes
+
+- [Transhumanism — Wikipedia](https://en.wikipedia.org/wiki/Transhumanism) — corrientes, propuestas y críticas.
+- **Qué es nuestro:** leerlo como proyecto de gobernanza —y no sólo como movimiento cultural— es TL.

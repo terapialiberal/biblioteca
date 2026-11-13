@@ -8,7 +8,7 @@ estado: activo
 aliases: ["Desdolarización"]
 tags: [desdolarizacion, dolar, cips, mbridge, yuan, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Desdolarización
@@ -60,3 +60,8 @@ El nodo gana espesor dentro del corredor `Malaca -> Taiwan -> CIPS -> mBridge`. 
 - [[PBOC (Banco Popular de China)]]
 - [[Renta Basica Universal]]
 - [[Teoria del Rimland]]
+
+## Fuentes
+
+- [Referencia documental](https://en.wikipedia.org/wiki/Dedollarisation) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

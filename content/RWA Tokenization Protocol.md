@@ -8,7 +8,8 @@ estado: activo
 aliases: ["Real World Asset Tokenization", "Protocolo RWA"]
 tags: [rwa, tokenizacion, activos-reales, deuda, rails-programables, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
+marco_propio: true
 ---
 
 # RWA Tokenization Protocol
@@ -59,3 +60,7 @@ Leído junto con [[CBDC Interoperability]] y [[Proyecto Agora]], el nodo muestra
 - [[CBDC Interoperability]]
 - [[Dinero Programable]]
 - [[00_MOC - Control Financiero]]
+
+## Fuentes
+
+- **Marco propio:** concepto de TL sin fuente externa posible. Se define en las piezas donde aparece: rastrearlo con `dossier "RWA Tokenization Protocol"`.

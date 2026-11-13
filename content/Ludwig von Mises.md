@@ -8,7 +8,7 @@ estado: activo
 aliases: ["Ludwig Von Mises: El Arquitecto De La Libertad Economica"]
 tags: [ludwig-von-mises, escuela-austriaca, praxeologia, libertad-economica, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Ludwig von Mises
@@ -40,3 +40,8 @@ No hace falta compartir toda su tradición para que el nodo sea útil. Su potenc
 - [[Problema del Calculo Economico]]
 - [[Murray Rothbard]]
 - [[Reserva Federal]]
+
+## Fuentes
+
+- [Referencia documental](https://en.wikipedia.org/wiki/Ludwig_von_Mises) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

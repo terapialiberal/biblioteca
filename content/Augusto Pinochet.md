@@ -1,12 +1,13 @@
 ---
 titulo: "Augusto Pinochet"
+fuente: "https://www.memoriachilena.gob.cl/602/w3-article-94640.html"
 tipo: persona
 estado: activo
 tier_primario: c
 nivel_evidencia: alto
 tags: [pinochet, chile, golpe-1973, guerra-fria, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Augusto Pinochet

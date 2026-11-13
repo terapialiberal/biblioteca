@@ -7,7 +7,7 @@ aliases: ["Corredor IMEC (India-Middle East-Europe)", "India-Middle East-Europe 
 tags: [imec, corredor, infraestructura, rimland, golfo, tl-intel-v3]
 publish: true
 last_stream: "[[06_Videos_Publicados/2026/2026-05-26_La_Trampa_de_Ormuz/00_ARCHIVO_2026-05-26_La_Trampa_de_Ormuz|ARCHIVO: La Trampa de Ormuz]]"
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Corredor IMEC
@@ -57,3 +57,8 @@ Leido con [[Estrecho de Ormuz]], [[Jared Kushner]] y [[MBS]], IMEC ayuda a enten
 - [[Belt and Road Initiative]]
 - [[Aramco]]
 - [[Sistema Petrodolar]]
+
+## Fuentes
+
+- [India–Middle East–Europe Economic Corridor — Wikipedia](https://en.wikipedia.org/wiki/India%E2%80%93Middle_East%E2%80%93Europe_Economic_Corridor) — anuncio en el G20 de 2023, trazado, firmantes y estado de implementación.
+- **Lo que la fuente NO sostiene:** que el corredor avance. Al día de hoy sigue sin obra significativa; la ficha lo lee como plantilla geoeconómica, y esa lectura necesita su propia fecha de corte.

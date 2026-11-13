@@ -1,5 +1,6 @@
 ---
 titulo: Mar del Sur de China
+fuente: "https://www.csis.org/analysis/south-china-sea-trade-chokepoints"
 tipo: nodo
 fecha: 2026-05-02
 capa_tema: b
@@ -8,7 +9,7 @@ estado: activo
 aliases: ["Mar del Sur de China (Disputa)", "South China Sea"]
 tags: [mar-del-sur-de-china, china, rimland, rutas, disputa-territorial, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Mar del Sur de China

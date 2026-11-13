@@ -7,7 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [red-echelon, five-eyes, sigint, vigilancia, intercepcion, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Red Echelon
@@ -48,3 +48,8 @@ Su utilidad aparece al mostrar que el sueño de vigilancia total no nace con red
 - [[Menwith Hill]]
 - [[Vigilancia Masiva]]
 - [[XKeyscore]]
+
+## Fuentes
+
+- [ECHELON — Wikipedia](https://en.wikipedia.org/wiki/ECHELON) — qué es la red, quién la opera y qué se documentó tras el informe del Parlamento Europeo.
+- **Advertencia:** el alcance exacto de la vigilancia nunca se confirmó oficialmente. Lo que se afirma como «todo el tráfico del mundo» no está probado; lo documentado es la existencia de la red y su marco de los Cinco Ojos.

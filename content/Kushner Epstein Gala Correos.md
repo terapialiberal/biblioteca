@@ -2,6 +2,7 @@
 estado: activo
 tags: [jared-kushner, jeffrey-epstein, trump, elite-networks, fuente, tl-intel-v3]
 titulo: "Kushner Epstein Gala Correos"
+fuente: "https://www.trtworld.com/article/088169abbb7b"
 descripcion: "Recorte sobre documentos que mencionan una invitacion de Jared Kushner a Jeffrey Epstein para un evento con figuras de alto perfil."
 link: "https://www.trtworld.com/article/088169abbb7b"
 tipo: evento

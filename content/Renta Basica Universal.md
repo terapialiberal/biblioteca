@@ -8,7 +8,7 @@ estado: activo
 aliases: [UBI, Universal Basic Income]
 tags: [renta-basica, ubi, ia, identidad-digital, tecnocracia, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Renta Basica Universal
@@ -59,3 +59,8 @@ Leída junto con [[Tecnocracia]] y [[Policrisis Sistemica]], la renta básica pu
 - [[Tecnocracia]]
 - [[Policrisis Sistemica]]
 - [[Sam Altman]]
+
+## Fuentes
+
+- [Referencia documental](https://es.wikipedia.org/wiki/Renta_b%C3%A1sica_universal) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

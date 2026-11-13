@@ -7,7 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [paypal-mafia, silicon-valley, redes-de-poder, venture-capital, tecnocracia, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # PayPal Mafia
@@ -51,3 +51,8 @@ PayPal Mafia sirve para leer una mutación mas amplia: del mito startup como inn
 - [[Founders Fund]]
 - [[JD Vance]]
 - [[In-Q-Tel]]
+
+## Fuentes
+
+- [Referencia documental](https://en.wikipedia.org/wiki/PayPal_Mafia) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

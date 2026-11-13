@@ -1,5 +1,6 @@
 ---
 titulo: Complejo Militar-Industrial
+fuente: "https://www.eisenhowerlibrary.gov/sites/default/files/file/farewell_address.pdf"
 tipo: concepto
 fecha: 2026-05-02
 capa_tema: b
@@ -8,7 +9,7 @@ estado: activo
 aliases: ["Complejo Militar Industrial", "Military-Industrial Complex", "Industria Militar Complejo"]
 tags: [complejo-militar-industrial, defensa, contratistas, guerra, presupuesto, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Complejo Militar-Industrial

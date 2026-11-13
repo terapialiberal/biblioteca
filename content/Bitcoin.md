@@ -30,6 +30,6 @@ Más allá del precio, Bitcoin es la única red monetaria descentralizada, sin d
 
 ## Fuentes
 
-- https://bitcoinmagazine.com/takes/what-the-clarity-act-actually-does-for-bitcoin  ·  en `99_AI\00_SISTEMA_05_FUENTES\00_BIBLIOTECA.md`
+- https://bitcoinmagazine.com/takes/what-the-clarity-act-actually-does-for-bitcoin  ·  en `99_AI\11_Sistema_Fuentes\00_BIBLIOTECA.md`
 - https://x.com/BitcoinMagazine/status/1988537568195928553  ·  en `06_Videos_Publicados\2025\2025-11-12_Como_Funciona_el_Mundo\Fuentes Utilizadas.md`
 - https://x.com/Bitcoin\_Teddy/status/2021450121494528431  ·  en `06_Videos_Publicados\2026\2026-03-17_Iran_Stream\KANBAN_CONDUCTOR_Stream_Iran_DEFINITIVO.md`

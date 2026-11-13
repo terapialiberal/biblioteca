@@ -1,5 +1,6 @@
 ---
 titulo: Mercado De Acciones — La Democratización De La Captura
+fuente: "https://www.investor.gov/introduction-investing/investing-basics/glossary/initial-public-offering-ipo"
 tipo: "concepto"
 fecha: 2026-02-25
 estado: activo
@@ -7,7 +8,7 @@ tags: [acciones, democratizacin, derivados, mercado]
 capa_tema: "a"
 nivel_evidencia: "alto"
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Mercado De Acciones — La Democratización De La Captura

@@ -7,7 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [aprendida, guerra, indefensin, pandemia]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Indefensión Aprendida
@@ -44,3 +44,8 @@ sin_fuente: true
 ## Por Qué Importa (Estilo Nico)
 
 > "La indefensión aprendida es el candado psicológico que te ponen para que no saltes de la jaula aunque la puerta esté abierta. Te cagan a palos con noticias horribles, te cambian las leyes cada dos minutos y te hacen sentir que tu voto no vale una mierda. Después de un tiempo, tu cerebro se apaga y decís 'fue, que hagan lo que quieran'. Ahí es donde te tienen: cuando ya no tenés ganas ni de quejarte. El Tier A te quiere deprimido, medicado y mirando Netflix, porque una persona con esperanza es peligrosa para el sistema. Romper la indefensión es entender que podés actuar, que tu vida importa y que ellos solo tienen poder porque vos aceptaste que no tenías ninguno."
+
+## Fuentes
+
+- [Learned helplessness — Wikipedia](https://en.wikipedia.org/wiki/Learned_helplessness) — los experimentos de Seligman y el estado actual de la teoría.
+- **Qué es nuestro:** aplicarlo a la población como efecto buscado —y no como respuesta individual— es una extensión TL sin respaldo experimental.

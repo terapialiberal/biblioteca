@@ -6,7 +6,8 @@ nivel_evidencia: "alto"
 estado: activo
 tags: [politica, medios, distraccion, corto-plazo]
 publish: true
-sin_fuente: true
+sin_fuente: false
+marco_propio: true
 ---
 
 # Tier C: El Teatro (V.3)
@@ -36,3 +37,9 @@ El **Tier C** es la cara visible del sistema. Son los protagonistas de las notic
 - [[Tier A]]: Los verdaderos beneficiarios de sus acciones.
 - [[Tier B]]: Quienes les entregan el libreto (scripts).
 - [[Espectaculo y Control]]: Análisis simbólico de este nivel.
+
+## Fuentes
+
+- [[99_AI/00_BOOT/SOUL.md|SOUL.md §1 — definición canónica de Tier]] — el nivel del teatro político y mediático.
+- [[AGENTS.md|AGENTS.md §4 — Vocabulario Tier]] — «no etiquetar político como Tier B: es Tier C».
+- **Definición propia:** marco descriptivo de TL, no hecho verificable externamente.

@@ -1,5 +1,6 @@
 ---
 titulo: Nudge Theory
+fuente: "https://www.behaviouralinsights.co.uk/"
 tipo: concepto
 fecha: 2026-04-18
 capa_tema: b
@@ -7,7 +8,7 @@ nivel_evidencia: alto
 estado: activo
 tags: [nudge, behavioral-insights, cass-sunstein, arquitectura-de-eleccion, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Nudge Theory

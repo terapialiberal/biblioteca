@@ -7,7 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [palantir-aip, palantir, ia, decision, tecnocracia, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Palantir AIP
@@ -68,3 +68,8 @@ En TL, AIP gana todavía más nitidez cuando se la conecta con [[Project Nimbus]
 - [[Shoshana Zuboff]]
 - [[Anduril Industries]]
 - [[00_MOC - Vigilancia Tecnica y SIGINT]]
+
+## Fuentes
+
+- [Referencia documental](https://www.palantir.com/platforms/aip/) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

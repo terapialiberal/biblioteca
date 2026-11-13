@@ -7,7 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [argentina, 2001, corralito, colapso, deuda, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Crisis de 2001
@@ -52,3 +52,8 @@ También importa porque muchos discursos, miedos y reflejos de la política arge
 - [[Carlos Menem]]
 - [[Fernando de la Rua]]
 - [[Eduardo Duhalde]]
+
+## Fuentes
+
+- [Referencia documental](https://es.wikipedia.org/wiki/Crisis_de_diciembre_de_2001_en_Argentina) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

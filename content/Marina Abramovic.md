@@ -6,7 +6,7 @@ fecha: 2026-04-15
 tier_primario: B
 estado: activo
 tags: [marina-abramovic, simbolismo, control-narrativo, tl-intel-v3]
-sin_fuente: true
+sin_fuente: false
 ---
 
 # [[Marina Abramovic]]
@@ -73,3 +73,8 @@ Precisamente porque no pertenece al circuito clasico de política dura, su prese
 ## Observación Operativa
 
 Abramovic sirve mejor como lectura del clima simbolico que como prueba causal. En TL debe usarse como borde analitico, no como columna principal del caso.
+
+## Fuentes
+
+- [Marina Abramovic: Trump es el «mago» — X — 2025](https://x.com/Vision4theBlind/status/1898892176467141097) — única fuente que registra la pieza de origen ([[06_Videos_Publicados/2026/2026-04-15_Las_Guerras_Maga/NOTA_TESIS_LAS_GUERRAS_MAGA.md|Las Guerras MAGA]]).
+- **Advertencia:** la afirmación que sostiene esta ficha —que Abramovic dijo algo sobre Trump— descansa en un posteo de X. No hay entrevista, grabación ni medio que lo respalde. Mientras siga así, esto es un rumor con link, no un hecho.

@@ -11,7 +11,7 @@ tags:
   - contratistas-de-defensa
   - guerra
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # [[Raytheon]]
@@ -72,3 +72,9 @@ Leida junto con [[Scott Gottlieb]] o [[La Puerta Giratoria de la FDA]], la nota 
 ## Observación operativa
 
 Raytheon sirve como nodo para estudiar cómo la industria armamentística moldea el entorno político que luego justifica su propia expansión.
+
+## Fuentes
+
+- [RTX (Raytheon Technologies) — sitio oficial](https://www.rtx.com/) — líneas de negocio y contratos declarados.
+- [Raytheon — Wikipedia](https://en.wikipedia.org/wiki/Raytheon_Technologies) — historia, fusiones y peso en el presupuesto de defensa.
+- **Qué es nuestro:** leerla como parte del complejo que sostiene la política exterior es TL; los montos concretos salen de los contratos del Pentágono, no de la empresa.

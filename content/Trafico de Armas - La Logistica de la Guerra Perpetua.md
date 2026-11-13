@@ -1,5 +1,6 @@
 ---
 titulo: Tráfico De Armas — La Logística De La Guerra Perpetua
+fuente: "https://armstransfers.sipri.org/"
 tipo: "evento"
 fecha: 2026-02-25
 estado: activo
@@ -7,7 +8,7 @@ tags: [guerra, irn, logstica, viktor]
 capa_tema: "a"
 nivel_evidencia: "alto"
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Tráfico De Armas — La Logística De La Guerra Perpetua

@@ -1,5 +1,6 @@
 ---
 titulo: Privatización
+fuente: "https://www.oecd.org/content/dam/oecd/en/publications/reports/2003/11/privatising-state-owned-enterprises_g1gh38f0/9789264104099-en.pdf"
 tipo: concepto
 fecha: 2026-04-27
 estado: activo
@@ -8,7 +9,7 @@ tags: [privatizacion, activos-publicos, neoliberalismo, captura-regulatoria, tl-
 capa_tema: b
 nivel_evidencia: alto
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Privatización

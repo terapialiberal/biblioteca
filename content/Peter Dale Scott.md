@@ -1,5 +1,6 @@
 ---
 titulo: Peter Dale Scott
+fuente: "https://www.peterdalescott.net/"
 tipo: "persona"
 fecha: 2026-07-24
 tier_primario: "b"
@@ -7,7 +8,7 @@ nivel_evidencia: "alto"
 estado: activo
 tags: [scott, deep-politics, petrodolar, deep-state, parapolitica]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Peter Dale Scott

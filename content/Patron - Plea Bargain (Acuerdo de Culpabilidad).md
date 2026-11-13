@@ -1,13 +1,14 @@
 ---
 publish: true
 titulo: Patron – Plea Bargain (Acuerdo de Culpabilidad)
+fuente: "https://www.justice.gov/usao/justice-101/pleabargaining"
 tipo: concepto
 fecha: 2026-02-28
 capa_tema: c
 nivel_evidencia: alto
 estado: activo
 tags: [00-patron, justicia, statecraft, encubrimiento, tl-v2]
-sin_fuente: true
+sin_fuente: false
 ---
 
 # ⚖️ Patrón – Plea Bargain (Acuerdo de Culpabilidad)

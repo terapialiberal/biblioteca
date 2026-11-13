@@ -1,12 +1,13 @@
 ---
 titulo: Trazado De Washington D.C. (Arquitectura Talismánica)
+fuente: "https://www.nps.gov/articles/dc-monumental-core-the-lenfant-plan.htm"
 tipo: "entidad"
 fecha: 2026-02-25
 estado: activo
 tags: [albert, trazado, washington]
 nivel_evidencia: "alto"
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Trazado De Washington D.C. (Arquitectura Talismánica)

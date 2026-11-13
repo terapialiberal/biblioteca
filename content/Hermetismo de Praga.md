@@ -1,5 +1,6 @@
 ---
 titulo: Hermetismo De Praga (El Nodo De La Ingeniería Artificial)
+fuente: "https://prague.eu/en/a-lion-a-mandrake-and-the-stars/"
 tipo: "concepto"
 fecha: 2026-02-25
 estado: activo
@@ -7,7 +8,7 @@ tags: [hermetismo, praga]
 capa_tema: "a"
 nivel_evidencia: "alto"
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Hermetismo De Praga (El Nodo De La Ingeniería Artificial)

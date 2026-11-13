@@ -7,7 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [wellcome-trust, salud-global, filantrocapitalismo, bioseguridad, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Wellcome Trust
@@ -54,3 +54,13 @@ Leída junto con [[CEPI]], [[GAVI]], [[One Health]] y [[Bioseguridad]], Wellcome
 - [[Salud Global]]
 - [[Bioseguridad]]
 - [[00_MOC - Fundaciones y Filantrocapitalismo]]
+
+## Fuentes
+
+- [Referencia documental](https://wellcome.org/) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.
+
+## Fuentes
+
+- [Referencia documental](https://en.wikipedia.org/wiki/Wellcome_Trust) — el hecho, la organización o el proyecto: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

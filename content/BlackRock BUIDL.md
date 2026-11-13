@@ -78,3 +78,7 @@ En TL, BUIDL importa también porque acorta la distancia entre gestor dominante,
 - [[BIS Innovation Hub]]
 - [[Stablecoin Regulation US]]
 - [[00_MOC - Finanzas y CBDC]]
+
+## Fuentes
+
+- **Sin fuente externa verificada al 2026-11-12:** la página pública del fondo BUIDL bloquea el acceso automático y el resto de las referencias disponibles exige cuenta. Queda registrada como deuda abierta, no como ficha respaldada.

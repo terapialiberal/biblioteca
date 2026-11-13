@@ -8,7 +8,7 @@ tags: [geometria-sagrada, simbolismo, arquitectura, esoterismo, tl-intel-v3]
 capa_tema: c
 nivel_evidencia: medio
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Geometria Sagrada
@@ -39,3 +39,8 @@ No toda geometría es operación simbólica deliberada. La lectura TL exige prud
 ## Nivel de evidencia
 
 Medio como tradición visual e histórica. Variable como prueba de intención en arquitectura o branding contemporáneo.
+
+## Fuentes
+
+- [Referencia documental](https://en.wikipedia.org/wiki/Sacred_geometry) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

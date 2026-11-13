@@ -7,7 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [cbdc-interoperability, cbdc, interoperabilidad, bis, pagos, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # CBDC Interoperability
@@ -66,3 +66,8 @@ Leida junto con [[Proyecto mBridge]], [[Proyecto Agora]] y [[Stablecoin Regulati
 - [[Tokenized Sovereign Debt]]
 - [[Stablecoin Regulation US]]
 - [[Desdolarizacion]]
+
+## Fuentes
+
+- [Referencia documental](https://www.bis.org/about/bisih/topics/cbdc/mcbdc_bridge.htm) — el hecho, la organización o el proyecto: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

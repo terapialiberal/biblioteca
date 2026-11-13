@@ -6,7 +6,7 @@ estado: activo
 aliases: ["Le Cercle (Sociedad Discreta)"]
 tags: [le-cercle, redes-elite, inteligencia, atlantismo, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Le Cercle
@@ -25,3 +25,8 @@ Su valor está en mapear sociabilidad de poder: lugares donde funcionarios, empr
 
 - [[Red Anfibia]] — Le Cercle como ejemplo de red anfibia política.
 - [[Propiedad Común como Gobierno Indirecto]] — capa financiera complementaria.
+
+## Fuentes
+
+- [Le Cercle — Wikipedia](https://en.wikipedia.org/wiki/Le_Cercle) — origen, membresía y vínculos con inteligencia y política exterior.
+- **Qué es nuestro:** «coordinación no pública de elites» es lectura TL. La fuente documenta reuniones y nombres; la coordinación es lo que se infiere, no lo que se prueba.

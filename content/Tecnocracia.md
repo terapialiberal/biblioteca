@@ -7,7 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [tecnocracia, control, infraestructura, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Tecnocracia
@@ -79,3 +79,8 @@ La nota gana todavía más valor cuando se la conecta con [[Capitalismo de Vigil
 - [[Capitalismo de Vigilancia]]
 - [[Palantir AIP]]
 - [[00_MOC - Vigilancia Tecnica y SIGINT]]
+
+## Fuentes
+
+- [Technocracy — Wikipedia](https://en.wikipedia.org/wiki/Technocracy) — origen y uso del término: gobierno por expertos técnicos.
+- **Qué es nuestro:** TL extiende el concepto de «gobierno de expertos» a régimen administrado por infraestructura, datos y acceso con baja rendición democrática. La fuente sostiene el término, no la extensión.

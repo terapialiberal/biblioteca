@@ -6,7 +6,8 @@ estado: activo
 aliases: ["Deuda Soberana Tokenizada"]
 tags: [deuda-soberana, tokenizacion, treasuries, rwa, gobernanza-programable, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
+marco_propio: true
 ---
 
 # Tokenized Sovereign Debt
@@ -80,3 +81,7 @@ La lectura TL mas dura no dice que toda tokenización implique automaticamente t
 - [[BIS Innovation Hub]]
 - [[Reverse Repo Facility]]
 - [[00_MOC - Control Financiero]]
+
+## Fuentes
+
+- **Marco propio:** concepto de TL sin fuente externa posible. Se define en las piezas donde aparece: rastrearlo con `dossier "Tokenized Sovereign Debt"`.

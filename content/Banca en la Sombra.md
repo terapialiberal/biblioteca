@@ -1,5 +1,6 @@
 ---
 titulo: Banca en la Sombra
+fuente: "https://www.fsb.org/2011/04/shadow-banking-scoping-the-issues/"
 tipo: concepto
 fecha: 2026-04-18
 capa_tema: a
@@ -8,7 +9,7 @@ estado: activo
 aliases: ["Shadow Banking", "Banca en la Sombra - El Sistema Financiero Paralelo (Shadow Banking)"]
 tags: [shadow-banking, liquidez, apalancamiento, colateral, riesgo-sistemico, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Banca en la Sombra

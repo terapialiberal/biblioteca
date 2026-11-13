@@ -8,7 +8,7 @@ aliases: ["Bibi Netanyahu", "Bibi"]
 tags: [benjamin-netanyahu, israel, gaza, iran, lobby, escalada, tl-intel-v3]
 publish: true
 last_stream: "[[06_Videos_Publicados/2026/2026-06-17_Endgame_Ormuz/POSTMORTEM_INTEL|Endgame de Ormuz]]"
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Benjamin Netanyahu
@@ -52,3 +52,9 @@ Su figura es clave para leer por que Iran vuelve una y otra vez al centro del ta
 - [[Sheldon Adelson]]
 - [[Samson Option]]
 - [[Abbas Araghchi]]
+
+## Fuentes
+
+- [Benjamin Netanyahu — Wikipedia](https://en.wikipedia.org/wiki/Benjamin_Netanyahu) — trayectoria, cargos y contexto político.
+- [Trump y Netanyahu: llamada tensa por la guerra con Irán — The Independent — 2026-11-11](https://www.the-independent.com/news/world/middle-east/trump-netanyahu-call-iran-war-shouting-match-b3083649.html) — el episodio de noviembre de 2026: Netanyahu empujando por reanudar los ataques y Trump sosteniendo la vía diplomática.
+- **Lo que estas fuentes NO sostienen:** los porcentajes de encuesta interna del Likud y el escenario sucesorio con Israel Katz, que la ficha da como datos de junio de 2026, no están respaldados por ninguna de las dos y necesitan su propia fuente.

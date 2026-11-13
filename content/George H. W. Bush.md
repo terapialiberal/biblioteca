@@ -7,7 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [asesinato, bush, george, skull]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # George H. W. Bush
@@ -44,3 +44,8 @@ sin_fuente: true
 ## Por Qué Importa (Estilo Nico)
 
 > "Bush padre no era un político; era el director de una empresa multinacional de espionaje y muerte. El tipo estaba en todos lados: cuando mataron a Kennedy, cuando explotó el Watergate y cuando la CIA empezó a vender crack en los barrios. Fue el que salvó a la Agencia cuando el Congreso los quería cerrar. Él inventó esa frase de 'Nuevo Orden Mundial' para avisarte que ahora mandan ellos, los de la sangre azul, y que tu presidente es solo un empleado del mes. Es el arquitecto de la jaula en la que vivimos hoy; un tipo que nunca perdió una elección real porque él manejaba a los que contaban los votos y a los que fabricaban las crisis."
+
+## Fuentes
+
+- [Referencia documental](https://en.wikipedia.org/wiki/George_H._W._Bush) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

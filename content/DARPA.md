@@ -7,7 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [darpa, defensa, innovacion, dual-use, tecnologia, pentagono, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # DARPA
@@ -51,3 +51,8 @@ No hace falta tratarla como explicación unica de toda innovación. Su lugar rea
 - [[Silicon Valley]]
 - [[LifeLog]]
 - [[Total Information Awareness]]
+
+## Fuentes
+
+- [DARPA — sitio oficial](https://www.darpa.mil/) — programas vigentes y mandato: financiar lo que el mercado no financia.
+- **Qué es nuestro:** leer DARPA como el origen del ciclo que hoy llamamos fusión Silicon Valley–Pentágono es interpretación TL; la fuente sostiene la agencia y sus programas.

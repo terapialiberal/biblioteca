@@ -7,7 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [chatham-house, riia, think-tank, atlantismo, reino-unido, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Chatham House (RIIA)
@@ -52,3 +52,8 @@ La `Chatham House Rule` importa porque institucionaliza una zona híbrida entre 
 - [[Le Cercle]]
 - [[Atlantic Council]]
 - [[00_MOC - Redes de Poder]]
+
+## Fuentes
+
+- [Referencia documental](https://www.chathamhouse.org/) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

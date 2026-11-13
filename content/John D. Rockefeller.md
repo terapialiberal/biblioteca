@@ -7,7 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [john-d-rockefeller, standard-oil, fundaciones, monopolio, medicina, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # John D. Rockefeller
@@ -52,3 +52,8 @@ Leído junto con [[Fundacion Rockefeller]], [[Informe Flexner]] y [[General Educ
 - [[General Education Board]]
 - [[David Rockefeller]]
 - [[Big Pharma]]
+
+## Fuentes
+
+- [Referencia documental](https://en.wikipedia.org/wiki/John_D._Rockefeller) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

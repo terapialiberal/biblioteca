@@ -1,6 +1,7 @@
 ---
 publish: true
 titulo: "El frankismo"
+fuente: "https://en.wikipedia.org/wiki/Frankism"
 descripcion: "Alias legacy para absorber import crudo y naming enciclopedico sobre frankismo."
 link: "https://en.wikipedia.org/wiki/Frankism"
 tipo: alias

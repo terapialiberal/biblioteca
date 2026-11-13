@@ -8,7 +8,7 @@ estado: activo
 aliases: ["Puerta Giratoria (Concepto)"]
 tags: [puerta-giratoria, captura, regulacion, lobby, estado-corporacion, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Puerta Giratoria
@@ -49,3 +49,8 @@ También sirve para entender por qué muchas políticas no fallan “por acciden
 - [[La Puerta Giratoria de la FDA]]
 - [[Heritage Foundation]]
 - [[00_MOC - Captura Regulatoria y Puertas Giratorias]]
+
+## Fuentes
+
+- [Referencia documental](https://es.wikipedia.org/wiki/Puerta_giratoria_\(pol%C3%ADtica\)) — el hecho, la organización o el proyecto: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

@@ -6,7 +6,8 @@ nivel_evidencia: "muy-alto"
 estado: activo
 tags: [poder, elite, estrategia, a-ideologico]
 publish: true
-sin_fuente: true
+sin_fuente: false
+marco_propio: true
 ---
 
 # Tier A: Los Dueños (V.3)
@@ -35,3 +36,9 @@ El **Tier A** representa el nivel más alto de la jerarquía de poder global. No
 - [[Tier B]]: Sus ejecutores (Agencias de Inteligencia, WEF).
 - [[Tier C]]: El teatro político (Políticos, medios).
 - [[Glosario - Deep State]]: Marco conceptual general.
+
+## Fuentes
+
+- [[99_AI/00_BOOT/SOUL.md|SOUL.md §1 — definición canónica de Tier]] — de dónde sale la clasificación y qué distingue cada nivel.
+- [[AGENTS.md|AGENTS.md §4 — Vocabulario Tier]] — las reglas de uso: no etiquetar Estado ni empresa como A, separar fachada de dueño.
+- **Definición propia:** el Tier es un marco descriptivo de TL, no un hecho verificable en una fuente externa. Su fuente es el canon del sistema, y se revisa cuando estepa deja de explicar (ver [[Jensen Huang]]: Tier A de fachada).

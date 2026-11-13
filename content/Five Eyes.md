@@ -8,7 +8,7 @@ estado: activo
 aliases: ["Los Cinco Ojos", "Five Eyes Alliance", "Cinco Ojos"]
 tags: [five-eyes, sigint, vigilancia-global, alianza-anglo, espionaje, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Five Eyes
@@ -47,3 +47,8 @@ La nota gana todavía más fuerza cuando se la conecta con [[PRISM (Programa)]],
 - [[Revelaciones de Snowden]]
 - [[00_MOC - Tecnologia de Control]]
 - [[Estado profundo]]
+
+## Fuentes
+
+- [Referencia documental](https://en.wikipedia.org/wiki/Five_Eyes) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

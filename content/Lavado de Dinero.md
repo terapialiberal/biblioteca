@@ -1,12 +1,13 @@
 ---
 titulo: "Lavado de Dinero"
+fuente: "https://www.unodc.org/unodc/en/money-laundering/overview.html"
 tipo: concepto
 estado: activo
 capa_tema: b
 nivel_evidencia: alto
 tags: [lavado-de-dinero, crimen-financiero, banca, offshore, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Lavado de Dinero

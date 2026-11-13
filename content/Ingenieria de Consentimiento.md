@@ -7,7 +7,7 @@ nivel_evidencia: alto
 estado: activo
 tags: [consentimiento, bernays, propaganda, percepcion, control-social, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Ingeniería de Consentimiento
@@ -64,3 +64,8 @@ En TL, el salto contemporáneo no invalida el concepto: lo vuelve granular. Plat
 
 - [[Problema-Reacción-Solución]] — mecanismo operativo derivado.
 - [[Operacion Gladio]] — plantilla histórica.
+
+## Fuentes
+
+- [Manufacturing Consent — Wikipedia](https://en.wikipedia.org/wiki/Manufacturing_Consent) — el modelo de Chomsky y Herman: cinco filtros que explican por qué los medios dicen lo que dicen.
+- **Qué es nuestro:** la expresión «ingeniería de consentimiento» en clave TL —fabricación activa, no solo filtrado estructural— es nuestra lectura. La fuente sostiene el modelo original, no la extensión.

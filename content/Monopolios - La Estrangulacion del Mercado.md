@@ -1,5 +1,6 @@
 ---
 titulo: Monopolios — La Estrangulación Del Mercado
+fuente: "https://www.ftc.gov/enforcement/anticompetitive-practices"
 tipo: "concepto"
 fecha: 2026-02-25
 estado: activo
@@ -7,7 +8,7 @@ tags: [blackrock, mercado, monopolios, standard]
 capa_tema: "a"
 nivel_evidencia: "alto"
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Monopolios — La Estrangulación Del Mercado

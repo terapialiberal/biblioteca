@@ -9,7 +9,8 @@ nivel_evidencia: medio
 estado: activo
 tags: [dinero-programable, cbdc, stablecoins, compliance, control-financiero, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
+marco_propio: true
 ---
 
 # Dinero Programable
@@ -77,3 +78,7 @@ En TL, el nodo gana todavía más fuerza cuando se lo conecta con [[00_MOC - Vig
 ## Casos relacionados
 
 - [[06_Videos_Publicados/2026/2026-05-13_El_Mundo_Se_Reconfigura/POSTMORTEM_INTEL|El mundo se reconfigura]] (13 may 2026) — "Jekyll Island 2.0": el nuevo dólar digital no vendrá como CBDC estatal pura sino como infraestructura privada/regulada de bancos (JPMorgan), gestores (BlackRock) y stablecoins. Warsh + CLARITY Act como arquitectura.
+
+## Fuentes
+
+- **Marco propio:** TL llama «dinero programable» al dinero con condiciones ejecutables por el emisor. El desarrollo técnico está en [[CBDC]]; la lectura de control político es nuestra y no del diseño técnico.

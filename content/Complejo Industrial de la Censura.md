@@ -7,7 +7,8 @@ nivel_evidencia: alto
 estado: activo
 tags: [censura, plataformas, narrativa, inteligencia, reputacion, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
+marco_propio: true
 ---
 
 # Complejo Industrial de la Censura
@@ -54,3 +55,7 @@ Su potencia aparece cuando plataformas, verificadores, think tanks y actores est
 - [[Ingenieria de Consentimiento]]
 - [[Cognitive Warfare]]
 - [[Twitter Files]]
+
+## Fuentes
+
+- **Marco propio:** la expresión es una construcción TL sobre el entramado de moderación, medios y agencias. Se define en las piezas donde aparece (ver `dossier "Complejo Industrial de la Censura"`). No existe como categoría académica.

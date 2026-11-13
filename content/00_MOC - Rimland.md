@@ -187,7 +187,7 @@ sin_fuente: true
 
 - [[Hegemonía.md|Hegemonía]]
 
-- [[99_AI/06_Hermes/HERRAMIENTAS_DECISION.md|HERRAMIENTAS_DECISION]]
+- [[99_AI/05_Hermes/HERRAMIENTAS_DECISION.md|HERRAMIENTAS_DECISION]]
 
 - [[06_Videos_Publicados/2026/2026-05-26_La_Trampa_de_Ormuz/HILO_X_2026-05-26_La_Trampa_de_Ormuz.md|HILO_X_2026-05-26_La_Trampa_de_Ormuz]]
 

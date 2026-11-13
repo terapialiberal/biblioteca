@@ -8,7 +8,7 @@ estado: activo
 aliases: ["Revolución del Color", "Revoluciones de Color"]
 tags: [revolucion-del-color, cambio-de-regimen, soft-power, ned, usaid, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Revolución del color
@@ -65,3 +65,8 @@ La nota estaba demasiado escrita como manifiesto cerrado y mezclaba descripción
 - [[Operacion Mockingbird]]
 - [[00_MOC - Operaciones Encubiertas]]
 - [[00_MOC - Operaciones Psicologicas]]
+
+## Fuentes
+
+- [Referencia documental](https://en.wikipedia.org/wiki/Colour_revolution) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

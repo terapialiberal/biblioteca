@@ -1,12 +1,13 @@
 ---
 titulo: Efecto Nocebo Global
+fuente: "https://pmc.ncbi.nlm.nih.gov/articles/PMC4804316/"
 tipo: "concepto"
 capa_tema: "b"
 nivel_evidencia: "alto"
 estado: activo
 tags: [psicologia, percepcion, narrativa, salud]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Efecto Nocebo Global (V.3)

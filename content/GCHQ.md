@@ -7,7 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [gchq, five-eyes, uk, sigint, vigilancia, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # GCHQ
@@ -55,3 +55,8 @@ La nota gana más fuerza cuando se la conecta con [[Five Eyes]], [[PRISM (Progra
 - [[Vigilancia Masiva]]
 - [[XKeyscore]]
 - [[00_MOC - Tecnologia de Control]]
+
+## Fuentes
+
+- [Referencia documental](https://www.gchq.gov.uk/) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

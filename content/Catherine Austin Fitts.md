@@ -8,7 +8,7 @@ estado: activo
 tags: [austin, blackrock, catherine, departamento]
 publish: true
 last_stream: "[[06_Videos_Publicados/2026/2026-05-26_La_Trampa_de_Ormuz/00_ARCHIVO_2026-05-26_La_Trampa_de_Ormuz|ARCHIVO: La Trampa de Ormuz]]"
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Catherine Austin Fitts
@@ -50,3 +50,9 @@ sin_fuente: true
 ## Por Qué Importa (Estilo Nico)
 
 > "Catherine es la que sabe dnde estn enterrados los cadveres financieros de Washington porque ella misma ayud a cavar las tumbas. Te explica que el gobierno no es que sea 'ineficiente' y pierda la plata; es que la est robando para financiar cosas que si supieras, no pagaras un peso de impuestos. Ella pas de las oficinas de Wall Street a avisarte que vienen por tu billetera digital. No la escuches por lo que dice sobre el futuro, escuchala por lo que vio en el pasado desde adentro del HUD."
+
+## Fuentes
+
+- [Catherine Austin Fitts — Wikipedia](https://en.wikipedia.org/wiki/Catherine_Austin_Fitts) — trayectoria: Dillon Read y subsecretaría de Vivienda (HUD) en la administración de George H. W. Bush.
+- [The Solari Report](https://home.solari.com/) — su plataforma, origen de la tesis de los «billones perdidos».
+- **Lo que estas fuentes NO sostienen:** los «21 billones desaparecidos» son una afirmación de Fitts, no una auditoría publicada. La ficha puede citarla como lo que ella sostiene, nunca como el hecho.

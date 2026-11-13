@@ -7,7 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [fort-detrick, biowarfare, bioseguridad, laboratorio, biodefensa, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Fort Detrick
@@ -48,3 +48,8 @@ Su utilidad aparece al mostrar cómo ciertos nodos biomédicos adquieren estatut
 - [[EcoHealth Alliance]]
 - [[MK-Ultra]]
 - [[Unidad 731]]
+
+## Fuentes
+
+- [Fort Detrick — Wikipedia](https://en.wikipedia.org/wiki/Fort_Detrick) — instalación, historia y programas biológicos que alojó.
+- **Advertencia:** el vínculo con el brote de 2019 y con programas de armas biológicas es un debate público con posiciones enfrentadas; la fuente documenta la instalación y sus programas históricos, no la atribución.

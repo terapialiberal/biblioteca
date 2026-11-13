@@ -7,7 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [meta-platforms, facebook, instagram, whatsapp, plataformas, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Meta Platforms
@@ -48,3 +48,8 @@ Su relevancia crece cuando se observa que Meta puede alterar alcance, visibilida
 - [[Complejo Industrial de la Censura]]
 - [[Metaverso]]
 - [[Gobernanza Algoritmica]]
+
+## Fuentes
+
+- [Referencia documental](https://en.wikipedia.org/wiki/Meta_Platforms) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

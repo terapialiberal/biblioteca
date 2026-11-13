@@ -1,5 +1,6 @@
 ---
 titulo: Cognitive Warfare
+fuente: "https://www.ccdcoe.org/news/2026/new-ccdcoe-research-reconceptualises-cognitive-warfare/"
 tipo: concepto
 fecha: 2026-04-19
 capa_tema: b
@@ -7,7 +8,7 @@ nivel_evidencia: alto
 estado: activo
 tags: [cognitive-warfare, guerra-cognitiva, narrativa, neuro-politica, plataformas, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Cognitive Warfare

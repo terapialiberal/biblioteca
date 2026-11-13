@@ -7,7 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [stablecoins, dolar-digital, cripto, liquidez, rails-financieros, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Stablecoins
@@ -48,3 +48,8 @@ Su utilidad aparece al mostrar que buena parte del futuro monetario ya se está 
 - [[CBDC]]
 - [[Treasuries]]
 - [[Dinero Programable]]
+
+## Fuentes
+
+- [Referencia documental](https://en.wikipedia.org/wiki/Stablecoin) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

@@ -1,12 +1,13 @@
 ---
 titulo: Señoreaje
+fuente: "https://www.elibrary.imf.org/display/book/9781557755544/ch008.xml"
 tipo: "concepto"
 capa_tema: "a"
 nivel_evidencia: "muy-alto"
 estado: activo
 tags: [finanzas, robo, banca-central, inflacion]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Señoreaje (V.3)

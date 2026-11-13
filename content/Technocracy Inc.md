@@ -7,7 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [abuelo, elon, silicon, valley]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Technocracy Inc: El Abuelo De Silicon Valley
@@ -47,3 +47,8 @@ sin_fuente: true
 ## Conclusión Del Análisis
 
 Technocracy Inc. no murió; se mudó a Palo Alto. **X.com** (la app de todo de Musk) es el sueño húmedo de la Tecnocracia original: un sistema integrado de identidad, pagos y gestión de recursos. Entender este movimiento es entender que el futuro que nos venden no es nuevo; es una distopía reciclada de 1930.
+
+## Fuentes
+
+- [Technocracy movement — Wikipedia](https://en.wikipedia.org/wiki/Technocracy_Inc.) — el movimiento histórico, sus propuestas y su declive.
+- **Qué es nuestro:** conectarlo con la tecnocracia actual como continuidad es nuestra lectura; la fuente documenta el movimiento de los años treinta.

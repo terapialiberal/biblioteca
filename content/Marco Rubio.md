@@ -1,5 +1,6 @@
 ---
 titulo: "Marco Rubio"
+fuente: "https://www-theguardian-com.translate.goog/us-news/2015/oct/29/marco-rubio-campaign-funding-sheldon-adelson?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc"
 publish: true
 tipo: persona
 fecha: 2026-04-07

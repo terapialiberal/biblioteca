@@ -7,7 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [xkeyscore, nsa, vigilancia, internet, indexacion, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # XKeyscore
@@ -48,3 +48,8 @@ Su potencia aparece cuando acceso, búsqueda y cruce de señales reducen el cost
 - [[Five Eyes]]
 - [[Panoptico Digital]]
 - [[Vigilancia Masiva]]
+
+## Fuentes
+
+- [Referencia documental](https://en.wikipedia.org/wiki/XKeyscore) — el hecho, la organización o el proyecto: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

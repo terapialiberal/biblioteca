@@ -8,7 +8,7 @@ estado: activo
 aliases: ["Lockheed Martin: El Martillo Del Complejo Militar-Industrial"]
 tags: [lockheed-martin, defensa, complejo-militar-industrial, contratistas, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Lockheed Martin
@@ -55,3 +55,8 @@ También sirve para leer cómo la venta de plataformas complejas no transfiere a
 - [[Captura Regulatoria]]
 - [[Raytheon]]
 - [[00_MOC - Captura Regulatoria y Puertas Giratorias]]
+
+## Fuentes
+
+- [Referencia documental](https://en.wikipedia.org/wiki/Lockheed_Martin) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

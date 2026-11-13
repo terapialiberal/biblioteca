@@ -1,5 +1,6 @@
 ---
 titulo: Alex Karp
+fuente: "https://www.fastcompany.com/91446398/cia-police-palantir-alex-karp-predictive-peter-thiel-paypal-sequoia"
 tipo: persona
 fecha: 2026-04-19
 tier_primario: b

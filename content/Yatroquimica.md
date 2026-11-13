@@ -1,5 +1,6 @@
 ---
 titulo: Yatroquimica
+fuente: "https://readingearlymedicine.org/initiatives/chemical-medicine-theory/"
 tipo: concepto
 fecha: 2026-04-27
 estado: activo
@@ -8,7 +9,7 @@ tags: [yatroquimica, paracelso, medicina, alquimia, historia-de-la-ciencia, tl-i
 capa_tema: c
 nivel_evidencia: alto
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Yatroquimica

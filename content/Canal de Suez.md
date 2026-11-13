@@ -1,5 +1,6 @@
 ---
 titulo: Canal de Suez
+fuente: "https://www.suezcanal.gov.eg/English/About/SuezCanalAuthority/Pages/default.aspx"
 tipo: nodo
 fecha: 2026-05-02
 capa_tema: b
@@ -8,7 +9,7 @@ estado: activo
 aliases: ["Suez", "Canal de Suez (Geopolítica)"]
 tags: [suez, chokepoint, comercio, energia, rimland, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Canal de Suez

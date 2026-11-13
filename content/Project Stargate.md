@@ -7,7 +7,7 @@ capa_tema: b
 nivel_evidencia: medio
 estado: activo
 tags: [stargate, openai, microsoft, energia, data-centers, tl-intel-v3]
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Project Stargate
@@ -58,3 +58,8 @@ La señal clave es el trato diferencial: racionamiento o presión energética pa
 - [[Estrecho de Ormuz]]
 - [[Tokenizacion de Activos Reales]]
 - [[Data Centers]]
+
+## Fuentes
+
+- [Announcing The Stargate Project — OpenAI — 2025-01-21](https://openai.com/index/announcing-the-stargate-project/) — anuncio original: inversión prevista, socios y cronograma.
+- **Qué es del anuncio y qué es nuestro:** los montos, los socios y el plazo salen del anuncio. La lectura de que el proyecto revela una tensión energética y financiera es interpretación TL, no un dato del comunicado.

@@ -8,7 +8,7 @@ estado: activo
 aliases: ["Sergio Massa: el Prestidigitador de la Decadencia Argentina"]
 tags: [argentina, massa, peronismo, economia, operador, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Sergio Massa
@@ -52,3 +52,8 @@ También importa porque encarna una forma de carrera política argentina basada 
 - [[Axel Kicillof]]
 - [[Eduardo Duhalde]]
 - [[Barones del Conurbano]]
+
+## Fuentes
+
+- [Referencia documental](https://es.wikipedia.org/wiki/Sergio_Massa) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

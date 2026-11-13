@@ -1,5 +1,6 @@
 ---
 titulo: "Carney visita Pekín para mejorar relación con China (DW)"
+fuente: "https://www.dw.com/es/carney-visita-pek%C3%ADn-para-mejorar-deteriorada-relaci%C3%B3n-con-china/a-75533412"
 tipo: evento
 link: "https://www.dw.com/es/carney-visita-pek%C3%ADn-para-mejorar-deteriorada-relaci%C3%B3n-con-china/a-75533412"
 descripcion: "Recorte sobre visita de Mark Carney a Pekin y deterioro de la relacion Canada-China."

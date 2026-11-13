@@ -1,5 +1,6 @@
 ---
 titulo: Liga Hanseática - La Red Del Norte
+fuente: "https://www.hansemuseum.eu/"
 tipo: "entidad"
 fecha: 2026-02-25
 estado: activo
@@ -7,7 +8,7 @@ tags: [hansetica, liga, norte]
 tier_primario: "a"
 nivel_evidencia: "alto"
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Liga Hanseática - La Red Del Norte

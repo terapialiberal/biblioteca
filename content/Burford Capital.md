@@ -1,12 +1,13 @@
 ---
 titulo: "Burford Capital"
+fuente: "https://www.burfordcapital.com/about-us/"
 tipo: entidad
 estado: activo
 tier_primario: b
 nivel_evidencia: alto
 tags: [burford-capital, litigios, financiamiento, argentina, ypf, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Burford Capital

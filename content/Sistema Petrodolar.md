@@ -5,7 +5,7 @@ fecha: 2026-04-19
 estado: activo
 tags: [petrodolar, dolar, energia, saudi, treasuries, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Sistema Petrodolar
@@ -61,3 +61,9 @@ Leido junto con [[Saltsjobaden_1973_MarALago_2026]], el sistema petrodolar gana 
 - [[Reanclaje Hibrido]]
 - [[Saltsjobaden_1973_MarALago_2026]]
 - [[Nuevo Bretton Woods]]
+
+## Fuentes
+
+- [[06_Videos_Publicados/2026/2026-04-15_Las_Guerras_Maga/NOTA_TESIS_Bretton_Woods_2_Petrodolar_Deuda.md|Las Guerras MAGA — nota tesis Bretton Woods 2, petrodólar y deuda — 2026-04-15]] — donde se define el concepto en TL.
+- [Petrodollar recycling — Wikipedia](https://en.wikipedia.org/wiki/Petrodollar) — el mecanismo descriptivo: excedentes petroleros reciclados en dólares y bonos.
+- **Marco propio en parte:** el reciclaje de petrodólares es un hecho documentado; leerlo como «arquitectura de reanclaje» del poder estadounidense es nuestra lectura. El término, además, es discutido: no hay un acuerdo único sobre su alcance.

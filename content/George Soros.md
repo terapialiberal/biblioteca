@@ -7,7 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [george-soros, open-society, soft-power, filantrocapitalismo, cambio-de-regimen, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # George Soros
@@ -59,3 +59,8 @@ La nota venia en formato muy viejo, excesivamente cerrada y con tono demasiado t
 - [[Lawfare]]
 - [[00_MOC - Redes de Poder]]
 - [[00_MOC - Fundaciones y Filantrocapitalismo]]
+
+## Fuentes
+
+- [George Soros — Wikipedia](https://en.wikipedia.org/wiki/George_Soros) — trayectoria financiera, fundaciones y actividad política.
+- **Qué es nuestro:** leerlo como operador de red y no como filántropo individual es TL. Las acusaciones concretas necesitan documento, no reputación.

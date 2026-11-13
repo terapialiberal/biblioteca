@@ -1,5 +1,6 @@
 ---
 titulo: Hiperinflación
+fuente: "https://www.elibrary.imf.org/view/journals/024/1992/003/article-A007-en.xml"
 tipo: concepto
 fecha: 2026-05-02
 capa_tema: c
@@ -8,7 +9,7 @@ estado: activo
 aliases: ["Hiperinflacion", "Hiperinflación (Fenómeno)"]
 tags: [hiperinflacion, moneda, crisis, deuda, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Hiperinflación

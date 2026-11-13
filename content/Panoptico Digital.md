@@ -8,7 +8,8 @@ estado: activo
 aliases: ["Panóptico Digital", "Panóptico Digital: El Ojo Que Está En Todas Partes"]
 tags: [panoptico-digital, vigilancia, autocensura, big-data, control-social, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
+marco_propio: true
 ---
 
 # Panoptico Digital
@@ -55,3 +56,7 @@ La nota gana más valor cuando se la lee junto con [[PRISM (Programa)]], [[Revel
 - [[Five Eyes]]
 - [[Gobernanza Algoritmica]]
 - [[00_MOC - Tecnologia de Control]]
+
+## Fuentes
+
+- **Marco propio:** concepto de TL sin fuente externa posible. Se define en las piezas donde aparece: rastrearlo con `dossier "Panoptico Digital"`.

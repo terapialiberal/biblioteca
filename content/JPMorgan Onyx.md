@@ -7,7 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [jpmorgan-onyx, jpmorgan, tokenizacion, liquidacion, banca, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # JPMorgan Onyx
@@ -48,3 +48,8 @@ Su utilidad aparece al mostrar cómo una infraestructura inicialmente privada pu
 - [[Tokenized Sovereign Debt]]
 - [[Dinero Programable]]
 - [[Jamie Dimon]]
+
+## Fuentes
+
+- [JPMorgan Onyx — sitio de la plataforma](https://www.jpmorgan.com/onyx) — hoy figura como **Kinexys**: JPMorgan renombró la unidad. Si la ficha se actualiza, el nombre correcto es ese.
+- **Qué es nuestro:** leer la infraestructura bancaria tokenizada como el riel del reanclaje es hipótesis TL; la fuente sostiene el producto.

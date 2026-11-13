@@ -8,7 +8,7 @@ nivel_evidencia: medio
 aliases: ["CIA Narcotráfico"]
 tags: [cia-narcotrafico, black-budget, air-america, iran-contra, crimen-sistemico, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # CIA Narcotrafico
@@ -60,3 +60,8 @@ Leida junto con [[Air America]] y [[Club Safari]], la nota gana otra capa: no so
 - [[00_MOC - Mercados Negros y Crimen Sistemico]]
 - [[Club Safari]]
 - [[00_MOC - Inteligencia Clasica y Operaciones Historicas]]
+
+## Fuentes
+
+- [Referencia documental](https://en.wikipedia.org/wiki/Allegations_of_CIA_drug_trafficking) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

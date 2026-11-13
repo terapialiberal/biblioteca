@@ -1,5 +1,6 @@
 ---
 titulo: Quantitative Easing
+fuente: "https://www.federalreserve.gov/monetarypolicy/monetary-policy-what-are-its-goals-how-does-it-work.htm"
 tipo: concepto
 fecha: 2026-05-02
 capa_tema: b
@@ -8,7 +9,7 @@ estado: activo
 aliases: ["QE", "Quantitative Easing (Expansión Monetaria)", "Expansión cuantitativa"]
 tags: [qe, reserva-federal, liquidez, bonos, control-financiero, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Quantitative Easing

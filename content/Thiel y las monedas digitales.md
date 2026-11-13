@@ -1,5 +1,6 @@
 ---
 titulo: "Thiel y las monedas digitales"
+fuente: "https://x.com/terapia_liberal/status/1982887994429452321"
 tipo: import
 estado: capturado
 source: "https://x.com/terapia_liberal/status/1982887994429452321"

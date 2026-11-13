@@ -1,5 +1,6 @@
 ---
 titulo: Compañía De Las Indias - El Estado Mercantil Privado
+fuente: "https://macmillan.yale.edu/stories/how-east-india-company-became-worlds-most-powerful-monopoly"
 tipo: "entidad"
 fecha: 2026-02-25
 estado: activo
@@ -7,7 +8,7 @@ tags: [compaa, estado, mercantil, privado]
 tier_primario: "a"
 nivel_evidencia: "alto"
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Compañía De Las Indias - El Estado Mercantil Privado

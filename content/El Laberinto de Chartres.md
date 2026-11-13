@@ -1,5 +1,6 @@
 ---
 titulo: El Laberinto de Chartres
+fuente: "https://whc.unesco.org/en/list/81"
 tipo: concepto
 fecha: 2026-04-27
 estado: activo
@@ -8,7 +9,7 @@ tags: [laberinto-chartres, arquitectura-sacra, peregrinacion, simbolismo, tl-int
 capa_tema: c
 nivel_evidencia: alto
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # El Laberinto de Chartres

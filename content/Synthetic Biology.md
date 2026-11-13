@@ -1,5 +1,6 @@
 ---
 titulo: Synthetic Biology
+fuente: "https://www.nature.com/articles/nrg2775"
 tipo: concepto
 fecha: 2026-02-25
 capa_tema: "a"
@@ -7,7 +8,7 @@ nivel_evidencia: "alto"
 estado: activo
 tags: [jennifer, manufactura, synthetic, vida]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Synthetic Biology

@@ -1,5 +1,6 @@
 ---
 titulo: Güelfos Y Ghibelinos - La Raíz De La Dialéctica
+fuente: "https://www.treccani.it/enciclopedia/guelfi-e-ghibellini_(Enciclopedia-Italiana)/"
 tipo: "evento"
 fecha: 2026-02-25
 estado: activo
@@ -7,7 +8,7 @@ tags: [dialctica, ghibelinos, gelfos, raz]
 capa_tema: "a"
 nivel_evidencia: "alto"
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Güelfos Y Ghibelinos - La Raíz De La Dialéctica

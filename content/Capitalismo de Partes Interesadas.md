@@ -7,7 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [blackrock, capitalismo, interesadas, stakeholder]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Capitalismo De Partes Interesadas (Stakeholder Capitalism)
@@ -49,3 +49,8 @@ sin_fuente: true
 ## Por Qué Importa (Estilo Nico)
 
 > "El Stakeholder Capitalism es Mussolini con un filtro de Instagram verde. Te dicen que las empresas ahora 'tienen corazón' para que no te des cuenta de que ahora tienen el poder de un gobierno pero sin que nadie los haya votado. Es el sistema por el cual un banco te puede cerrar la cuenta porque no les gusta tu opinión política, y decir que lo hacen por el 'bien de la sociedad'. Es el fin de la propiedad privada y el inicio de la gestión corporativa de tu vida."
+
+## Fuentes
+
+- [Stakeholder theory — Wikipedia](https://en.wikipedia.org/wiki/Stakeholder_theory) — el marco y sus críticos.
+- **Qué es nuestro:** leerlo como coartada para diluir la rendición de cuentas es TL; la fuente presenta la teoría y su debate.

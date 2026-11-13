@@ -1,5 +1,6 @@
 ---
 titulo: Operación Northwoods
+fuente: "https://catalog.archives.gov/id/305036"
 tipo: evento
 fecha: 2026-04-18
 capa_tema: b
@@ -13,7 +14,7 @@ tags:
   - guerra-psicologica
   - seguridad-nacional
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # [[Operacion Northwoods]]

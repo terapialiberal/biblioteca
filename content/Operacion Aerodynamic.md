@@ -1,5 +1,6 @@
 ---
 titulo: Operación Aerodynamic
+fuente: "https://www.cia.gov/readingroom/docs/AERODYNAMIC%20%20%20VOL.%201_0118.pdf"
 tipo: "evento"
 fecha: 2026-03-04
 capa_tema: "b"
@@ -7,7 +8,7 @@ nivel_evidencia: "alto"
 estado: activo
 tags: [cia, ucrania, otan, insurgencia, guerra-fria]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Operación Aerodynamic: El Genoma de la Resistencia Ucraniana

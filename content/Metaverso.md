@@ -7,7 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [metaverso, realidad-virtual, plataformas, meta, inmersion, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Metaverso
@@ -48,3 +48,8 @@ Su potencia política aparece cuando experiencias costosas, conflictivas o mater
 - [[Google Glass]]
 - [[Capitalismo de Vigilancia]]
 - [[Computacion Espacial]]
+
+## Fuentes
+
+- [Referencia documental](https://es.wikipedia.org/wiki/Metaverso) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

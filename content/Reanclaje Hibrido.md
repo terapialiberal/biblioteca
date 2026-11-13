@@ -7,7 +7,8 @@ nivel_evidencia: medio
 estado: activo
 tags: [reanclaje-hibrido, dolar, treasuries, petrodolar, reset-monetario, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
+fuentes: ["[[06_Videos_Publicados/2026/2026-02-05_Caos_Controlado/POSTMORTEM_INTEL.md|Caos Controlado]]", "[[06_Videos_Publicados/2026/2026-04-15_Las_Guerras_Maga/NOTA_TESIS_CONSOLIDADA_LAS_GUERRAS_MAGA.md|Las Guerras MAGA]]"]
 ---
 
 # Reanclaje Hibrido
@@ -71,3 +72,9 @@ La formulación fuerte queda así: el reanclaje híbrido no es un programa anunc
 
 - [[06_Videos_Publicados/2026/2026-03-26_El_Reseteo_Perfecto/POSTMORTEM_INTEL|El Reseteo Perfecto]] (26 mar 2026) — Ormuz como shock de reanclaje para empujar RWA, tokenización y migración de colateral. Primera formulación del marco "shock → migración de sistema".
 - [[Project Stargate]]
+
+## Fuentes
+
+- [[06_Videos_Publicados/2026/2026-02-05_Caos_Controlado/POSTMORTEM_INTEL.md|Caos Controlado — POSTMORTEM — 2026-02-05]] — primera aparición registrada del concepto.
+- [[06_Videos_Publicados/2026/2026-04-15_Las_Guerras_Maga/NOTA_TESIS_CONSOLIDADA_LAS_GUERRAS_MAGA.md|Las Guerras MAGA — nota tesis consolidada — 2026-04-15]] — desarrollo completo: energía, Treasuries, rutas y rails digitales.
+- **Marco propio:** no existe como concepto externo. Es una hipótesis TL y su fuente es el vault, no un documento de terceros.

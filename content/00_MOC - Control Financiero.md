@@ -1,4 +1,5 @@
 ---
+fuentes: ["[[Treasuries]]", "[[Sistema Petrodolar]]", "[[CBDC]]", "[[Shock de Nixon]]", "[[BlackRock - Vanguard - State Street]]"]
 publish: true
 titulo: "MOC - Control Financiero"
 tipo: moc
@@ -6,7 +7,7 @@ fecha: 2026-04-07
 estado: activo
 moc_canonico: [[00_MOC - Base de Conocimiento]]
 tags: [moc, control-financiero, deuda, banca, tl-intel-v3]
-sin_fuente: true
+sin_fuente: false
 ---
 
 # MOC - Control Financiero
@@ -19,6 +20,18 @@ sin_fuente: true
 - La deuda, la inflación y la custodia son mecanismos de gobierno.
 - La arquitectura financiera selecciona ganadores y perdedores.
 - La capa financiera converge cada vez más con identidad, score y gobernanza técnica.
+
+## Plomería: las cinco identidades
+
+> Antes de afirmar mecánica monetaria en cualquier pieza, pasar por acá. Las cinco cierran por contabilidad, no por opinión. Un claim que no las pasa no entra al corpus.
+
+1. **Base ≠ M2.** El banco central crea base (reservas + efectivo); los bancos crean M2 prestando; el déficit crea M2 gastando. Tres caños, tres responsables. → [[De dónde sale el dólar]]
+2. **Activos = pasivos.** El balance del banco central no tiene plata: tiene bonos de un lado y reservas del otro. Achicar drena; no financia. → [[El balance del banco central]]
+3. **El déficit es ingreso de alguien.** −US$2 billones = +US$2 billones de ingreso neto al sector privado, todos los años. El stock es el residuo; el flujo es la transferencia. → [[El déficit como inyección]]
+4. **La tasa larga es el precio de todo.** Duration → tasa larga → tasa de descuento → múltiplos. Opera en precio, no en cantidad. → [[Tasa larga y múltiplos]]
+5. **Alguien tiene que comerse el déficit.** Sin comprador marginal nombrado no hay mecanismo, solo intuición. → [[Quién absorbe la deuda]]
+
+Fichas de la capa: [[De dónde sale el dólar]] · [[El balance del banco central]] · [[El déficit como inyección]] · [[Recompras del Tesoro]] · [[Tasa larga y múltiplos]] · [[Quién absorbe la deuda]] · [[El IPO y la asignación]]
 
 ## Nodos Centrales
 
@@ -292,7 +305,7 @@ sin_fuente: true
 
 - [[06_Videos_Publicados/2026/2026-05-21_Triple_Summit/01_PREPRODUCCION.md|01_PREPRODUCCION]]
 
-- [[99_AI/05_Memoria_Central/Archives/2026-10-05_Sutton_Crisis_Creada_Energia_Bilderberg_SUPERSEDED/02_ANEXO_Represion_Financiera_Prehn.md|02_ANEXO_Represion_Financiera_Prehn]]
+- [[99_AI/04_Memoria_Central/Archives/2026-10-05_Sutton_Crisis_Creada_Energia_Bilderberg_SUPERSEDED/02_ANEXO_Represion_Financiera_Prehn.md|02_ANEXO_Represion_Financiera_Prehn]]
 
 - [[01_Research/03_RESEARCH/2026-10-06_Captura_Oligarquica_Crisis_Energetica/06_ANEXO_Represion_Financiera_Prehn.md|06_ANEXO_Represion_Financiera_Prehn]]
 
@@ -390,6 +403,8 @@ sin_fuente: true
 
 - [[Crisis de 2001.md|Crisis de 2001]]
 
+- [[De dónde sale el dólar.md|De dónde sale el dólar]]
+
 - [[De-banking.md|De-banking]]
 
 - [[Deflación.md|Deflación]]
@@ -403,6 +418,12 @@ sin_fuente: true
 - [[Dinero Programable.md|Dinero Programable]]
 
 - [[Domingo Cavallo.md|Domingo Cavallo]]
+
+- [[El balance del banco central.md|El balance del banco central]]
+
+- [[El déficit como inyección.md|El déficit como inyección]]
+
+- [[El IPO y la asignación.md|El IPO y la asignación]]
 
 - [[Elliott Management.md|Elliott Management]]
 
@@ -526,6 +547,10 @@ sin_fuente: true
 
 - [[Quantitative Easing.md|Quantitative Easing]]
 
+- [[Quién absorbe la deuda.md|Quién absorbe la deuda]]
+
+- [[Recompras del Tesoro.md|Recompras del Tesoro]]
+
 - [[Reordenamiento_Global.md|Reordenamiento_Global]]
 
 - [[Repo Market.md|Repo Market]]
@@ -562,6 +587,8 @@ sin_fuente: true
 
 - [[Suiza.md|Suiza]]
 
+- [[Tasa larga y múltiplos.md|Tasa larga y múltiplos]]
+
 - [[Teoría del Cisne Negro.md|Teoría del Cisne Negro]]
 
 - [[Tether USDS.md|Tether USDS]]
@@ -579,3 +606,7 @@ sin_fuente: true
 - [[Wells Fargo.md|Wells Fargo]]
 
 - [[Yield Curve.md|Yield Curve]]
+
+## Fuentes
+
+- **Índice, no afirmación:** este MOC agrupa fichas y no sostiene hechos propios. Su fuente son las fichas que reúne: [[Treasuries]], [[Sistema Petrodolar]], [[CBDC]], [[Shock de Nixon]], [[BlackRock - Vanguard - State Street]]. Si una línea del índice afirma algo que ninguna de ellas respalda, la línea sobra.

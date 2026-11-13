@@ -8,7 +8,7 @@ estado: activo
 aliases: ["Estado Profundo", "Estado Profundo (Deep State)", "Deep State (EEUU)"]
 tags: [deep-state, estado-profundo, burocracia, inteligencia, continuidad, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Deep State
@@ -35,3 +35,8 @@ La lectura útil evita dos errores: negar toda continuidad profunda porque suena
 - [[Complejo Militar-Industrial]]
 - [[Senior Executive Service]]
 - [[Peter Dale Scott]]
+
+## Fuentes
+
+- [Referencia documental](https://en.wikipedia.org/wiki/Deep_state) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

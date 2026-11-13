@@ -8,7 +8,7 @@ estado: activo
 aliases: ["Cristina Fernandez de Kirchner", "Cristina Fernandez de Kirchner (CFK)"]
 tags: [argentina, kirchnerismo, lawfare, poder, relato, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Cristina Kirchner
@@ -56,3 +56,8 @@ Su valor analitico aumenta cuando se la conecta con el circuito completo: [[Nest
 - [[Jueces Federales de Comodoro Py]]
 - [[Grupo Clarin]]
 - [[Horacio Verbitsky]]
+
+## Fuentes
+
+- [Cristina Fernández de Kirchner — Wikipedia](https://en.wikipedia.org/wiki/Cristina_Fern%C3%A1ndez_de_Kirchner) — trayectoria, gobiernos y causas judiciales.
+- **Qué es nuestro:** leerla como nodo de una estructura de poder territorial es TL; las causas son documentos judiciales, y cada una necesita su expediente.

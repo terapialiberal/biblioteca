@@ -7,7 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: ["2008", crisis, financiera, goldman]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Crisis Financiera 2008
@@ -58,3 +58,8 @@ sin_fuente: true
 - "The Big Short" (Michael Lewis)
 - Financial Crisis Inquiry Commission Report
 - "Inside Job" (documental)
+
+## Fuentes
+
+- [Referencia documental](https://en.wikipedia.org/wiki/2008_financial_crisis) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

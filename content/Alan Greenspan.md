@@ -10,7 +10,7 @@ tags:
   - fed
   - estados-unidos
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Alan Greenspan
@@ -50,3 +50,8 @@ Después de la crisis de 2008 reconoció públicamente que parte de su marco te�
 - discursos y testimonios públicos de Greenspan
 - memorias: _The Age of Turbulence_
 - revisiones críticas posteriores a la crisis de 2008
+
+## Fuentes
+
+- [Alan Greenspan — Wikipedia](https://es.wikipedia.org/wiki/Alan_Greenspan) — referencia enciclopédica del hecho, la persona o la organización.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

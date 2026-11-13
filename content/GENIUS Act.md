@@ -7,7 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [genius-act, stablecoins, dolar, rails, regulacion, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # GENIUS Act
@@ -52,3 +52,8 @@ Leído junto con [[Reanclaje Hibrido]], el nodo ayuda a mostrar que 2026 no se p
 - [[Dinero Programable]]
 - [[Treasuries]]
 - [[Desdolarizacion]]
+
+## Fuentes
+
+- [Referencia documental](https://en.wikipedia.org/wiki/GENIUS_Act) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

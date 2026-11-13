@@ -9,7 +9,7 @@ estado: activo
 aliases: ["National Endowment for Democracy", "NED: El Caballo De Troya De La Sociedad Civil"]
 fuentes_clave: []
 tags: [ned, sociedad-civil, cambio-de-regimen, soft-power, geopolitica, tl-intel-v3]
-sin_fuente: true
+sin_fuente: false
 ---
 
 # NED
@@ -64,3 +64,8 @@ La nota habia quedado casi vacia para un nodo que ya operaba fuerte en el grafo.
 - [[Atlantic Council]]
 - [[00_MOC - Redes de Poder]]
 - [[00_MOC - Operaciones Encubiertas]]
+
+## Fuentes
+
+- [Referencia documental](https://www.ned.org/) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

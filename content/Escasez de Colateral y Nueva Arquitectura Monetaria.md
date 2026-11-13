@@ -1,5 +1,6 @@
 ---
 titulo: Escasez De Colateral Y Nueva Arquitectura Monetaria
+fuente: "https://www.bankofengland.co.uk/quarterly-bulletin/2014/q1/money-creation-in-the-modern-economy"
 tipo: concepto
 fecha: 2026-09-02
 capa_tema: b
@@ -8,7 +9,7 @@ estado: activo
 aliases: ["Escasez de Colateral", "Nueva Arquitectura Monetaria", "Plomería Monetaria y Colateral", "Ciclo de Deuda y Dinero Endógeno"]
 tags: [colateral, dinero-endogeno, repo, treasuries, stablecoins, dominancia-fiscal, triffin, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Escasez De Colateral Y Nueva Arquitectura Monetaria

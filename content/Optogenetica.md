@@ -1,5 +1,6 @@
 ---
 titulo: Optogenetica
+fuente: "https://www.nature.com/collections/tqxhytcpwh/research"
 tipo: concepto
 fecha: 2026-04-18
 capa_tema: b
@@ -7,7 +8,7 @@ nivel_evidencia: alto
 estado: activo
 tags: [optogenetica, control-neuronal, cerebro, luz, darpa, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Optogenetica

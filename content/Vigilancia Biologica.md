@@ -8,7 +8,8 @@ estado: activo
 aliases: ["Vigilancia Biológica", "Biological Surveillance"]
 tags: [vigilancia-biologica, bioseguridad, genomica, trazabilidad, salud-global, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
+marco_propio: true
 ---
 
 # Vigilancia Biologica
@@ -54,3 +55,7 @@ Leída junto con [[Bioseguridad]], [[Genomic ID]], [[EcoHealth Alliance]] y [[Wo
 - [[EcoHealth Alliance]]
 - [[Ganancia de Funcion]]
 - [[Instituto de Virologia de Wuhan]]
+
+## Fuentes
+
+- **Marco propio:** concepto de TL sin fuente externa posible. Se define en las piezas donde aparece: rastrearlo con `dossier "Vigilancia Biologica"`.

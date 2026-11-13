@@ -1,6 +1,7 @@
 ---
 publish: true
 titulo: "Censura Digital"
+fuente: "https://www.hartgroup.org/the-governments-manipulation-manual/"
 aliases: ["Censura Digital", "Censura Digital / Operación Mockingbird 2.0", "Censura Digital / Shadowbanning", "Censorship-Industrial Complex"]
 tags: [concepto, censura, internet, control]
 tipo: concepto

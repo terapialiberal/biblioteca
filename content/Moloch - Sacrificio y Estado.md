@@ -1,5 +1,6 @@
 ---
 titulo: Moloch — Sacrificio Y Estado (La Maquina Del Futuro)
+fuente: "https://www.jewishencyclopedia.com/articles/10937-moloch-molech"
 tipo: "concepto"
 fecha: 2026-02-25
 estado: activo
@@ -7,7 +8,7 @@ tags: [aborto, eduacin, estado, sacrificio]
 capa_tema: "a"
 nivel_evidencia: "alto"
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Moloch — Sacrificio Y Estado (La Maquina Del Futuro)

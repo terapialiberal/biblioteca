@@ -7,7 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [nsa, agencia-de-seguridad-nacional, vigilancia, sigint, ciberespionaje, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Agencia de Seguridad Nacional
@@ -56,3 +56,8 @@ Leída junto con [[Five Eyes]], [[PRISM (Programa)]] y [[ECHELON]], la NSA pasa 
 - [[Revelaciones de Snowden]]
 - [[00_MOC - Tecnologia de Control]]
 - [[Vigilancia Masiva]]
+
+## Fuentes
+
+- [Referencia documental](https://en.wikipedia.org/wiki/National_Security_Agency) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

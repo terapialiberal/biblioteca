@@ -8,7 +8,7 @@ estado: activo
 aliases: ["BRI", "Belt and Road Initiative (BRI)", "Nueva Ruta de la Seda"]
 tags: [belt-and-road, bri, china, infraestructura, eurasia, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Belt and Road Initiative
@@ -52,3 +52,8 @@ No se trata solo de obra física. También puede incluir estándares, telecomuni
 - [[Teoria del Heartland]]
 - [[Rimland]]
 - [[00_MOC - Rimland]]
+
+## Fuentes
+
+- [Referencia documental](https://en.wikipedia.org/wiki/Belt_and_Road_Initiative) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

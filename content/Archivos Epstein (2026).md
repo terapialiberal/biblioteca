@@ -1,5 +1,6 @@
 ---
 titulo: "Archivos Epstein (2026): El Vertido De Datos Definitivo"
+fuente: "https://www.justice.gov/opa/pr/department-justice-publishes-35-million-responsive-pages-compliance-epstein-files"
 tipo: "entidad"
 fecha: 2026-01-30
 tier_primario: "b"
@@ -7,7 +8,7 @@ nivel_evidencia: "alto"
 estado: activo
 tags: [andrew, archivos, definitivo, vertido]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Archivos Epstein (2026): El Vertido De Datos Definitivo

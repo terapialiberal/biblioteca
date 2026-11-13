@@ -9,7 +9,7 @@ estado: activo
 aliases: ["Moneda Digital de Banco Central", "CBDC (Moneda Digital de Banco Central)", "CBDCs"]
 fuentes_clave: []
 tags: [cbdc, dinero-programable, banca-central, control-financiero, vigilancia-financiera, tl-intel-v3]
-sin_fuente: true
+sin_fuente: false
 ---
 
 # CBDC
@@ -66,3 +66,9 @@ En TL, la nota gana más densidad cuando se la conecta con [[Dinero Programable]
 - [[Policrisis Sistemica]]
 - [[00_MOC - Finanzas y CBDC]]
 - [[00_MOC - Vigilancia Tecnica y SIGINT]]
+
+## Fuentes
+
+- [Central bank digital currency — Wikipedia](https://en.wikipedia.org/wiki/Central_bank_digital_currency) — estado por país, diseños y pilotos.
+- [Banco de Pagos Internacionales — encuesta de CBDC](https://www.bis.org/publ/othp80.htm) — el relevamiento que usan los propios bancos centrales.
+- **Qué es nuestro:** leer la moneda programable como herramienta de control financiero es lectura TL. Las fuentes sostienen el diseño técnico; el uso político es la hipótesis.

@@ -1,12 +1,13 @@
 ---
 titulo: "Standard Oil"
+fuente: "https://www.law.cornell.edu/wex/standard_oil_co._of_new_jersey_v._united_states_(1911)"
 tipo: entidad
 estado: activo
 tier_primario: a
 nivel_evidencia: alto
 tags: [standard-oil, rockefeller, petroleo, monopolio, energia, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Standard Oil

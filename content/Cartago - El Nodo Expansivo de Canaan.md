@@ -1,5 +1,6 @@
 ---
 titulo: Cartago - El Nodo Expansivo De Canaán
+fuente: "https://whc.unesco.org/en/list/37"
 tipo: "evento"
 fecha: 2026-02-25
 estado: activo
@@ -7,7 +8,7 @@ tags: [canan, cartago, expansivo, nodo]
 capa_tema: "a"
 nivel_evidencia: "alto"
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Cartago - El Nodo Expansivo De Canaán

@@ -8,7 +8,7 @@ estado: activo
 aliases: ["GAVI (Vaccine Alliance)", "GAVI (The Vaccine Alliance)", "Gavi", "Gavi (Alianza para las Vacunas)"]
 tags: [gavi, vacunas, distribucion, salud-global, bioseguridad, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # GAVI
@@ -60,3 +60,8 @@ En TL, GAVI gana densidad cuando se la lee no solo como distribuidor, sino como 
 - [[Fundacion Bill y Melinda Gates]]
 - [[Bill Gates]]
 - [[Tecnocracia]]
+
+## Fuentes
+
+- [Referencia documental](https://www.gavi.org/) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

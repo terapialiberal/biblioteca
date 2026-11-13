@@ -7,7 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [anduril-industries, defensa, drones, vigilancia, palmer-luckey, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Anduril Industries
@@ -56,3 +56,8 @@ En TL, Anduril gana más espesor cuando se la conecta con [[Palantir]], [[In-Q-T
 - [[Vigilancia Predictiva]]
 - [[00_MOC - Vigilancia Tecnica y SIGINT]]
 - [[Pentagono]]
+
+## Fuentes
+
+- [Referencia documental](https://en.wikipedia.org/wiki/Anduril_Industries) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

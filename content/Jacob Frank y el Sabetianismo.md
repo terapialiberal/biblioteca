@@ -1,5 +1,6 @@
 ---
 titulo: Jacob Frank Y El Sabetianismo (La Inversión)
+fuente: "https://www.jewishencyclopedia.com/articles/6316-frankists"
 tipo: "persona"
 fecha: 2026-02-25
 estado: activo
@@ -7,7 +8,7 @@ tags: [frank, inversin, jacob, sabetianismo]
 tier_primario: "a"
 nivel_evidencia: "alto"
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Jacob Frank Y El Sabetianismo (La Inversión)

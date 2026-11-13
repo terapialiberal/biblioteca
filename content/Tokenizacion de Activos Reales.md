@@ -6,7 +6,8 @@ nivel_evidencia: "muy-alto"
 estado: activo
 tags: [finanzas, blockchain, rwa, control-tangible]
 publish: true
-sin_fuente: true
+sin_fuente: false
+marco_propio: true
 ---
 
 # Tokenización de Activos Reales: RWA (V.3)
@@ -35,3 +36,7 @@ Bajo la narrativa de "inclusión financiera" y "eficiencia", el proyecto de Real
 - [[The Great Taking]]: El marco legal que permite esta captura.
 - [[Smart Contracts]]: La ley algorítmica del RWA.
 - [[CBDC]]: El combustible monetario del sistema.
+
+## Fuentes
+
+- **Marco propio:** concepto de TL sin fuente externa posible. Se define en las piezas donde aparece: rastrearlo con `dossier "Tokenizacion de Activos Reales"`.

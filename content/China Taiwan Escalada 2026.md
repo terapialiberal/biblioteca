@@ -7,7 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [china, taiwan, indo-pacifico, liaoning, policrisis, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # China Taiwan Escalada 2026
@@ -63,3 +63,8 @@ En TL, el nodo gana más fuerza cuando se conecta con la arquitectura de flujo a
 - [[Teoria del Rimland]]
 - [[Xi Jinping]]
 - [[TSMC]]
+
+## Fuentes
+
+- [Referencia documental](https://www.aljazeera.com/news/2026/11/12/xi-jinping-says-taiwans-complete-reunification-with-china-will-happen) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

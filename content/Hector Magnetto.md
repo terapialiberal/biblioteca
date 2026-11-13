@@ -8,7 +8,7 @@ estado: activo
 aliases: ["Hector Magnetto"]
 tags: [argentina, medios, clarin, magnetto, poder-blando, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Hector Magnetto
@@ -53,3 +53,8 @@ TL usa este nodo como ejemplo de operador civil permanente: alguien que atravies
 - [[Nestor Kirchner]]
 - [[Cristina Kirchner]]
 - [[Lawfare]]
+
+## Fuentes
+
+- [Héctor Magnetto — Wikipedia](https://en.wikipedia.org/wiki/H%C3%A9ctor_Magnetto) — su rol en el Grupo Clarín y su trayectoria.
+- **Qué es nuestro:** leerlo como administrador de una cuota de poder mediático es TL; la fuente sostiene el cargo y la empresa.

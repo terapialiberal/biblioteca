@@ -7,7 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [brzezinski, comisin, david, zbigniew]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Zbigniew Brzezinski
@@ -33,3 +33,8 @@ Estratega geopolítico clave del siglo XX, co-fundador de la **[[Comisión Trila
 - [[Comisión Trilateral]]
 - [[CFR]]
 - [[Operación Gladio|Operación Gladio B]]
+
+## Fuentes
+
+- [Referencia documental](https://en.wikipedia.org/wiki/Zbigniew_Brzezinski) — el hecho, la organización o el proyecto: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

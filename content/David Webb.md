@@ -1,5 +1,6 @@
 ---
 titulo: David Webb
+fuente: "https://thegreattaking.com/about-this-book"
 tipo: "persona"
 fecha: 2026-07-24
 tier_primario: "b"
@@ -7,7 +8,7 @@ nivel_evidencia: "alto"
 estado: activo
 tags: [webb, great-taking, ucc, propiedad, reset, captura]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # David Webb

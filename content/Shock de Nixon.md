@@ -7,7 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [shock-de-nixon, 1971, dolar, oro, deuda, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Shock de Nixon
@@ -58,3 +58,8 @@ El nodo gana más espesor cuando se lo lee como arranque de una secuencia larga:
 - [[Nuevo Bretton Woods]]
 - [[Treasuries]]
 - [[Scott Bessent]]
+
+## Fuentes
+
+- [Nixon shock — Wikipedia](https://en.wikipedia.org/wiki/Nixon_shock) — qué se anunció el 15 de agosto de 1971, qué se suspendió y qué pasó después con el dólar.
+- **Nota de origen:** la pieza donde nació la ficha ([[06_Videos_Publicados/2026/2026-04-15_Las_Guerras_Maga/NOTA_TESIS_LAS_GUERRAS_MAGA.md|Las Guerras MAGA]]) no registra fuente para el episodio; se cita la referencia histórica. La lectura de que el shock es el origen del reanclaje es TL.

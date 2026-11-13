@@ -7,7 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [osf, george-soros, ong, revoluciones-de-color, governance, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Open Society Foundations
@@ -46,3 +46,8 @@ En TL, el nodo es útil cuando se observa su papel como interfaz entre filantrop
 - [[NED]]
 - [[Lawfare]]
 - [[00_MOC - Fundaciones y Filantrocapitalismo]]
+
+## Fuentes
+
+- [Referencia documental](https://www.opensocietyfoundations.org/) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

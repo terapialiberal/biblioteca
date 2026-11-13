@@ -1,5 +1,6 @@
 ---
 titulo: Illuminati De Baviera (Hechos Vs Mitos)
+fuente: "https://www.lmu.de/en/about-lmu/lmu-at-a-glance/history/1776/index.html"
 tipo: "entidad"
 fecha: 2026-02-25
 estado: activo
@@ -7,7 +8,7 @@ tags: [baviera, illuminati, jesuitas, revolucin]
 tier_primario: "a"
 nivel_evidencia: "alto"
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Illuminati De Baviera (Hechos Vs Mitos)

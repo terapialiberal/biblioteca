@@ -1,5 +1,6 @@
 ---
 titulo: Solidos Platonicos
+fuente: "https://mathworld.wolfram.com/PlatonicSolid.html"
 tipo: concepto
 fecha: 2026-04-27
 estado: activo
@@ -8,7 +9,7 @@ tags: [solidos-platonicos, geometria-sagrada, platon, simbolismo, tl-intel-v3]
 capa_tema: c
 nivel_evidencia: alto
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Solidos Platonicos

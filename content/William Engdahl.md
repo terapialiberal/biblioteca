@@ -1,5 +1,6 @@
 ---
 titulo: William Engdahl
+fuente: "http://www.williamengdahl.com/about.html"
 tipo: "persona"
 fecha: 2026-07-24
 tier_primario: "b"
@@ -7,7 +8,7 @@ nivel_evidencia: "alto"
 estado: activo
 tags: [engdahl, energia, petroleo, guerra, rutas, geoeconomia]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # William Engdahl

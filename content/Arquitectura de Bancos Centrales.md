@@ -7,7 +7,8 @@ tags: [arquitectura, bancos-centrales, poder-visual, tecnocracia, tl-intel-v3]
 capa_tema: b
 nivel_evidencia: medio
 publish: true
-sin_fuente: true
+sin_fuente: false
+marco_propio: true
 ---
 
 # Arquitectura de Bancos Centrales
@@ -44,3 +45,7 @@ Cuando la arquitectura se presenta como neutral, suele estar haciendo el trabajo
 ## Nivel de evidencia
 
 Medio: sólido como lectura de arquitectura institucional y legitimación; bajo si se usa para inferir intención oculta sin fuentes de diseño o contexto histórico.
+
+## Fuentes
+
+- **Marco propio:** concepto de TL sin fuente externa posible. Se define en las piezas donde aparece: rastrearlo con `dossier "Arquitectura de Bancos Centrales"`.

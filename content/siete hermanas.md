@@ -2,6 +2,7 @@
 publish: true
 tipo: concepto
 titulo: "Siete Hermanas"
+fuente: "https://es.wikipedia.org/wiki/Siete_Hermanas"
 fecha: 2026-10-09
 estado: activo
 tags: [cartel, petroleo, siete-hermanas, historia, tl-intel-v3]

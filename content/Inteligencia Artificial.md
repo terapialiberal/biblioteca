@@ -1,12 +1,13 @@
 ---
 titulo: "Inteligencia Artificial"
+fuente: "https://legalinstruments.oecd.org/en/instruments/oecd-legal-0449"
 tipo: concepto
 estado: activo
 capa_tema: a
 nivel_evidencia: alto
 tags: [ia, inteligencia-artificial, datos, automatizacion, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Inteligencia Artificial

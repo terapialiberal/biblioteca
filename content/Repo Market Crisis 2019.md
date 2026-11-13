@@ -6,7 +6,7 @@ estado: activo
 aliases: ["Repo Market Crisis 2019: el Colapso Silencioso Que Activó la Matrix"]
 tags: [repo-market, liquidez, reserva-federal, treasuries, colateral, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Repo Market Crisis 2019
@@ -56,3 +56,8 @@ Su valor aumenta aun mas cuando se conecta con [[BlackRock BUIDL]] y [[Proyecto 
 - [[BlackRock BUIDL]]
 - [[Proyecto Agora]]
 - [[Reanclaje Hibrido]]
+
+## Fuentes
+
+- [Referencia documental](https://en.wikipedia.org/wiki/September_2019_repurchase_agreement_crisis) — el hecho, la organización o el proyecto: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

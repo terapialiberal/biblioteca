@@ -7,7 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [sistema-alimentario, alimentos, cadena-de-valor, agricultura, centralizacion, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Sistema Alimentario
@@ -50,3 +50,8 @@ Su utilidad aparece al pensar que modificar dieta, producción o abastecimiento 
 - [[Archer Daniels Midland]]
 - [[Control Alimentario]]
 - [[Reality Privilege]]
+
+## Fuentes
+
+- [Referencia documental](https://en.wikipedia.org/wiki/Food_system) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

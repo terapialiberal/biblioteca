@@ -1,5 +1,6 @@
 ---
 titulo: WIC - La Compañía De Las Indias Occidentales
+fuente: "https://www.nps.gov/mava/learn/historyculture/new-netherland.htm"
 tipo: "entidad"
 fecha: 2026-02-25
 estado: activo
@@ -7,7 +8,7 @@ tags: [compaa, indias, occidentales]
 tier_primario: "a"
 nivel_evidencia: "alto"
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # WIC - La Compañía De Las Indias Occidentales

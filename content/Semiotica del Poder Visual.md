@@ -8,7 +8,8 @@ tags: [semiotica, poder-visual, propaganda, simbolismo, percepcion, tl-intel-v3]
 capa_tema: b
 nivel_evidencia: medio
 publish: true
-sin_fuente: true
+sin_fuente: false
+marco_propio: true
 ---
 
 # Semiotica del Poder Visual
@@ -46,3 +47,7 @@ La semiótica visual es especialmente útil cuando una agenda necesita parecer n
 ## Nivel de evidencia
 
 Medio: alto para el uso general de símbolos y diseño en propaganda; variable para inferencias sobre intención coordinada en casos concretos.
+
+## Fuentes
+
+- **Marco propio:** concepto de TL sin fuente externa posible. Se define en las piezas donde aparece: rastrearlo con `dossier "Semiotica del Poder Visual"`.

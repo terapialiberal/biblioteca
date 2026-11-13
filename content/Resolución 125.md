@@ -8,7 +8,7 @@ estado: activo
 aliases: ["Resolución 125"]
 tags: [argentina, 125, retenciones, campo, grieta, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Resolución 125
@@ -52,3 +52,8 @@ También importa porque condensa un cambio de epoca: desde entonces la polarizac
 - [[Carlos Menem]]
 - [[Crisis de 2001]]
 - [[La Nacion +]]
+
+## Fuentes
+
+- [Resolución 125 — Wikipedia](https://en.wikipedia.org/wiki/Resolution_125) — el conflicto de 2008 entre el campo y el Gobierno argentino, con las retenciones móviles como detonante.
+- **Qué es nuestro:** leerla como el momento en que se rompió el pacto entre el poder político y el agro exportador es TL.

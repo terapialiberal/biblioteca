@@ -7,7 +7,8 @@ nivel_evidencia: medio
 estado: activo
 tags: [gobernanza-digital, plataformas, tecnocracia, datos, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
+marco_propio: true
 ---
 
 # Gobernanza Digital
@@ -52,3 +53,7 @@ En TL, el punto decisivo aparece cuando el diseño de la interfaz ya no solo fac
 - [[Digital ID - Global Protocol]]
 - [[Social Credit West]]
 - [[Bio-Identidad Digital]]
+
+## Fuentes
+
+- **Marco propio:** concepto de TL sin fuente externa posible. Se define en las piezas donde aparece: rastrearlo con `dossier "Gobernanza Digital"`.

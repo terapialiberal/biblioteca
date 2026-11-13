@@ -7,7 +7,7 @@ capa_tema: a
 nivel_evidencia: medio
 estado: activo
 tags: [treasuries, deuda-eeuu, dolar, reanclaje, tl-intel-v3]
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Treasuries
@@ -75,3 +75,9 @@ Hito del 03-ago: intervención conjunta EEUU-Japón por el yen — Japón liquid
 - [[Tokenized Sovereign Debt]]
 - [[BIS Innovation Hub]]
 - [[00_MOC - Control Financiero]]
+
+## Fuentes
+
+- [TreasuryDirect — Tesoro de EE.UU.](https://www.treasurydirect.gov/) — qué son los títulos, plazos y mecánica de colocación.
+- [United States Treasury security — Wikipedia](https://en.wikipedia.org/wiki/United_States_Treasury_security) — tipos y rol en el sistema financiero.
+- **Qué es nuestro:** entenderlos como ancla del reanclaje ([[Reanclaje Hibrido]]) es hipótesis TL, no un dato del emisor.

@@ -7,7 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [blackrock, declaracin, patrn, rothschild]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Familia Rothschild: El Patrón Del Nivel 1
@@ -55,3 +55,8 @@ graph TD
 ## Conclusión Del Análisis
 
 Los Rothschild son el ejemplo perfecto de que el verdadero poder no grita, susurra. Son el Tier A original que entendió que es mejor ser el dueño de la cañería que el agua que pasa por ella. 🔴
+
+## Fuentes
+
+- [Rothschild family — Wikipedia](https://en.wikipedia.org/wiki/Rothschild_family) — historia bancaria, casas y declive relativo.
+- **Advertencia:** la ficha puede cargar con el mito. Lo documentado es una dinastía bancaria europea influyente en el siglo XIX; las afirmaciones sobre control financiero global actual necesitan fuente contemporánea, no reputación histórica.

@@ -1,5 +1,6 @@
 ---
 titulo: Fenicios - Los Arquitectos Del Comercio Global
+fuente: "https://www.usni.org/magazines/proceedings/1955/november/twenty-five-hundred-years-rules-road"
 tipo: "concepto"
 fecha: 2026-02-25
 estado: activo
@@ -7,7 +8,7 @@ tags: [arquitectos, comercio, fenicios, global]
 capa_tema: "a"
 nivel_evidencia: "alto"
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Fenicios - Los Arquitectos Del Comercio Global

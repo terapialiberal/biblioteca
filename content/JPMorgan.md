@@ -1,5 +1,6 @@
 ---
 titulo: JPMorgan
+fuente: "https://www.bloomberg.com"
 tipo: entidad
 fecha: 2026-05-02
 vigencia: 2026-05-02

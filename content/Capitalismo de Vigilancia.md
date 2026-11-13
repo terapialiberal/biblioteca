@@ -7,7 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [capitalismo-de-vigilancia, plataformas, datos, comportamiento, google, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Capitalismo de Vigilancia
@@ -54,3 +54,8 @@ En TL, la nota gana todavía más peso cuando se la conecta con [[Tecnocracia]] 
 - [[Cambridge Analytica]]
 - [[Tecnocracia]]
 - [[00_MOC - Vigilancia Tecnica y SIGINT]]
+
+## Fuentes
+
+- [Referencia documental](https://en.wikipedia.org/wiki/Surveillance_capitalism) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

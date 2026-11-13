@@ -7,7 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [ingenieria-social, conducta, percepcion, gobernanza, manipulacion, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Ingeniería Social
@@ -48,3 +48,8 @@ También sirve para unir propaganda clásica, behavioural insights, moderación 
 - [[Guerra Cognitiva]]
 - [[Edward Bernays]]
 - [[00_MOC - Operaciones Psicologicas]]
+
+## Fuentes
+
+- [Referencia documental](https://es.wikipedia.org/wiki/Ingenier%C3%ADa_social) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

@@ -1,5 +1,6 @@
 ---
 titulo: Urbit 2026
+fuente: "https://urbit.org/"
 tipo: "evento"
 fecha: 2026-02-25
 capa_tema: "b"
@@ -7,7 +8,7 @@ nivel_evidencia: "alto"
 estado: activo
 tags: [panptico, peer, tlon, urbit]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Urbit 2026

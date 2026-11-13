@@ -1,5 +1,6 @@
 ---
 titulo: "El Plan de Thiel desde 2012"
+fuente: "https://x.com/terapia_liberal/status/1993368429311701072"
 tipo: import
 estado: capturado
 source: "https://x.com/terapia_liberal/status/1993368429311701072"

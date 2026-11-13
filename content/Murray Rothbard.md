@@ -8,7 +8,7 @@ estado: activo
 aliases: ["Murray Rothbard: El Desprogramador Del Estado"]
 tags: [murray-rothbard, anarcocapitalismo, escuela-austriaca, estado, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Murray Rothbard
@@ -40,3 +40,8 @@ En TL también conviene leer sus límites: ciertas extrapolaciones privatistas p
 - [[Principio de No Agresion]]
 - [[Mises Institute]]
 - [[Soberania Individual]]
+
+## Fuentes
+
+- [Referencia documental](https://en.wikipedia.org/wiki/Murray_Rothbard) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

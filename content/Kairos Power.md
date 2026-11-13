@@ -1,5 +1,6 @@
 ---
 titulo: Kairos Power
+fuente: "https://www.kairospower.com/about"
 tipo: "entidad"
 fecha: 2026-02-25
 tier_primario: b
@@ -7,7 +8,7 @@ nivel_evidencia: "alto"
 estado: activo
 tags: [alphabet, google, power, reactor]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Kairos Power

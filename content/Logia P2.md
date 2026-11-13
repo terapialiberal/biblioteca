@@ -1,5 +1,6 @@
 ---
 titulo: "Logia P2: La Mafia Institucionalizada"
+fuente: "https://www.treccani.it/enciclopedia/p2_(Dizionario-di-Storia)/"
 tipo: "entidad"
 fecha: 2026-02-25
 tier_primario: "b"
@@ -7,7 +8,7 @@ nivel_evidencia: "alto"
 estado: activo
 tags: [banco, institucionalizada, logia, mafia, p2, gladio, argentina, lopez-rega, triple-a]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Logia P2: La Mafia Institucionalizada

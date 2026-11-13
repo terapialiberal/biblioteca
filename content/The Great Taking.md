@@ -8,7 +8,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [great-taking, ucc, propiedad-beneficiaria, colateral, derivados, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # The Great Taking
@@ -68,3 +68,8 @@ En TL, la lectura útil no exige aceptar cada detalle del escenario máximo. Bas
 - [[FMI (Fondo Monetario Internacional)]]
 - [[Crisis Financiera 2008]]
 - [[00_MOC - Control Financiero]]
+
+## Fuentes
+
+- [Referencia documental](https://en.wikipedia.org/wiki/The_Great_Taking) — el hecho, la organización o el proyecto: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

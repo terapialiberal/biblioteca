@@ -1,5 +1,6 @@
 ---
 titulo: Manufactura de Consenso
+fuente: "https://www.penguinrandomhouse.com/books/78912/manufacturing-consent-by-edward-s-herman-and-noam-chomsky/"
 aliases: [Manufactura De Consenso, Manufacturing Consent]
 tipo: concepto
 fecha: 2026-04-19
@@ -8,7 +9,7 @@ nivel_evidencia: alto
 estado: activo
 tags: [manufactura-de-consenso, medios, propaganda, control-social, consenso, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Manufactura de Consenso

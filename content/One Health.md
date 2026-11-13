@@ -8,7 +8,7 @@ estado: activo
 aliases: ["Una Salud"]
 tags: [one-health, bioseguridad, salud-global, veterinaria, gobernanza, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # One Health
@@ -57,3 +57,8 @@ Leido junto con [[World Health Organization]], [[Tratado de Pandemias OMS]], [[F
 - [[Bioseguridad]]
 - [[Salud Global]]
 - [[Tecnocracia]]
+
+## Fuentes
+
+- [Referencia documental](https://www.who.int/health-topics/one-health) — el hecho, la organización o el proyecto: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

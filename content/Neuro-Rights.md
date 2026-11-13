@@ -1,5 +1,6 @@
 ---
 titulo: Neuro-Rights
+fuente: "https://www.unesco.org/en/legal-affairs/recommendation-ethics-neurotechnology"
 tipo: "concepto"
 fecha: 2026-02-25
 capa_tema: "b"
@@ -7,7 +8,7 @@ nivel_evidencia: "alto"
 estado: activo
 tags: [derechos, mente, neuro, rights]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Neuro-Rights

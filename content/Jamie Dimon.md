@@ -3,7 +3,7 @@ publish: true
 titulo: "Jamie Dimon: El Rey Del Riesgo Moral"
 tipo: persona
 estado: activo
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Jamie Dimon (TL V.3): El Rey Del Riesgo Moral
@@ -53,3 +53,9 @@ La nota estaba demasiado novelada y cargada de framing totalizante. Se recompila
 - [[Crisis Financiera 2008]]
 - [[Citadel]]
 - [[00_MOC - Control Financiero]]
+
+## Fuentes
+
+- [Jamie Dimon — Wikipedia](https://en.wikipedia.org/wiki/Jamie_Dimon) — trayectoria y cargos.
+- [Jamie Dimon — JPMorganChase](https://www.jpmorganchase.com/about/leadership/jamie-dimon) — su posición actual, en la fuente de la propia empresa.
+- **Qué es nuestro:** «arquetipo del banquero sistémico» y «riesgo moral» son lectura TL. Las fuentes sostienen el cargo y la biografía, no la función que le atribuimos.

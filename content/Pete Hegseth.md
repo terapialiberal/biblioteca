@@ -1,13 +1,14 @@
 ---
 publish: true
 titulo: "Pete Hegseth"
+fuente: "https://www.defense.gov/About/Secretary-of-Defense/"
 tipo: persona
 tier_primario: c
 nivel_evidencia: alto
 estado: activo
 tags: [hegseth, defensa-eeuu, sionismo-cristiano, e2-instrumento-consciente, iran-2026, eeuu, trump, escatologia, tl-intel-v3]
 fecha: 2026-03-12
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Pete Hegseth

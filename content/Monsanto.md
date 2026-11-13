@@ -7,7 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [monsanto, agroindustria, biotecnologia, semillas, soberania-alimentaria, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Monsanto
@@ -53,3 +53,8 @@ Leída junto con [[Fundacion Rockefeller]], [[Fundacion Bill y Melinda Gates]] y
 - [[Fundacion Bill y Melinda Gates]]
 - [[One Health]]
 - [[Tecnocracia]]
+
+## Fuentes
+
+- [Referencia documental](https://en.wikipedia.org/wiki/Monsanto) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

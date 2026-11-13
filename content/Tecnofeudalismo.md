@@ -7,7 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [tecnofeudalismo, plataformas, renta, silicon-valley, capitalismo, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Tecnofeudalismo
@@ -48,3 +48,8 @@ Conviene usar el concepto como lente crítica y no como reemplazo total de otros
 - [[Google]]
 - [[Meta Platforms]]
 - [[Yanis Varoufakis]]
+
+## Fuentes
+
+- [Referencia documental](https://es.wikipedia.org/wiki/Tecnofeudalismo) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

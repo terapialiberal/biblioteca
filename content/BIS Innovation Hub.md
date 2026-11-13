@@ -7,7 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [bis-innovation-hub, bis, cbdc, tokenizacion, liquidacion, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # BIS Innovation Hub
@@ -69,3 +69,8 @@ En TL, el laboratorio importa porque los pilotos no son perifericos. Funcionan c
 - [[Treasuries]]
 - [[BlackRock BUIDL]]
 - [[00_MOC - Finanzas y CBDC]]
+
+## Fuentes
+
+- [Referencia documental](https://www.bis.org/about/bisih/about.htm) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

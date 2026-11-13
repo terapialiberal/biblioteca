@@ -1,5 +1,6 @@
 ---
 titulo: Elon Musk
+fuente: "https://www.wsj.com/politics/national-security/elon-musks-spacex-set-to-win-2-billion-pentagon-satellite-deal-c0a51325?mod=hp_lead_pos10"
 tipo: persona
 fecha: 2026-04-20
 vigencia: 2026-06-17

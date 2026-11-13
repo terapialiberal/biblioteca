@@ -1,5 +1,6 @@
 ---
 titulo: Psicologia de Masas
+fuente: "https://www.gutenberg.org/ebooks/445"
 tipo: concepto
 fecha: 2026-04-27
 estado: activo
@@ -8,7 +9,7 @@ tags: [psicologia-de-masas, propaganda, opinion-publica, operaciones-psicologica
 capa_tema: b
 nivel_evidencia: alto
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Psicologia de Masas

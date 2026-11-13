@@ -1,5 +1,6 @@
 ---
 titulo: Banco de Pagos Internacionales
+fuente: "https://www.bis.org/about"
 tipo: entidad
 fecha: 2026-04-18
 tier_primario: a
@@ -8,7 +9,7 @@ estado: activo
 aliases: ["BIS", "BIS - El Banco de Pagos Internacionales", "Banco de Pagos Internacionales (BIS)"]
 tags: [bis, bancos-centrales, basilea, cbdc, coordinacion-monetaria, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Banco de Pagos Internacionales

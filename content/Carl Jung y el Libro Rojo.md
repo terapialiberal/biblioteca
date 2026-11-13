@@ -1,5 +1,6 @@
 ---
 titulo: Carl Jung Y El Libro Rojo
+fuente: "https://philemonfoundation.org/works/red-book/"
 tipo: "persona"
 fecha: 2026-02-25
 estado: activo
@@ -7,7 +8,7 @@ tags: [carl, libro, rojo, sincronicidad]
 tier_primario: "b"
 nivel_evidencia: "alto"
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Carl Jung Y El Libro Rojo

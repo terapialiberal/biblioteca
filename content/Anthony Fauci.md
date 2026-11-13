@@ -7,7 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [anthony-fauci, niaid, salud-publica, bioseguridad, regulacion, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Anthony Fauci
@@ -57,3 +57,8 @@ En TL, Fauci gana más peso cuando se lo conecta con [[World Health Organization
 - [[Vigilancia Biologica]]
 - [[00_MOC - Salud Global y Bioseguridad]]
 - [[Great Barrington Declaration]]
+
+## Fuentes
+
+- [Referencia documental](https://en.wikipedia.org/wiki/Anthony_Fauci) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

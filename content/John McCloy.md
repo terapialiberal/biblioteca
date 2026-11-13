@@ -1,5 +1,6 @@
 ---
 titulo: John McCloy
+fuente: "https://www.worldbank.org/en/archive/history/past-presidents/john-jay-mccloy"
 tipo: persona
 fecha: 2026-04-27
 estado: activo
@@ -8,7 +9,7 @@ tags: [john-mccloy, cfr, establishment, wall-street, alemania-posguerra, tl-inte
 tier_primario: b
 nivel_evidencia: alto
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # John McCloy

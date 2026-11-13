@@ -7,7 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [neuralink, bci, cerebro-computadora, transhumanismo, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Neuralink
@@ -66,3 +66,8 @@ En TL, la clave no es negar el vector terapeutico, sino leer como ese mismo carr
 - [[Internet of Bio-Nano Things]]
 - [[00_MOC - Transhumanismo y Convergencia Bio-Digital]]
 - [[00_MOC - Tecnologia de Control]]
+
+## Fuentes
+
+- [Referencia documental](https://en.wikipedia.org/wiki/Neuralink) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

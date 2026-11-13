@@ -1,5 +1,6 @@
 ---
 titulo: Ordo Templi Orientis (OTO)
+fuente: "https://www.taylorfrancis.com/chapters/edit/10.4324/9781315745916-31/ordo-templi-orientis-christian-giudice"
 tipo: "persona"
 fecha: 2026-02-25
 estado: activo
@@ -7,7 +8,7 @@ tags: [jack, ordo, orientis, templi]
 tier_primario: "b"
 nivel_evidencia: "alto"
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Ordo Templi Orientis (OTO)

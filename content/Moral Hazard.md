@@ -1,5 +1,6 @@
 ---
 titulo: Moral Hazard
+fuente: "https://ethicsunwrapped.utexas.edu/glossary/moral-hazard"
 tipo: concepto
 fecha: 2026-05-02
 capa_tema: b
@@ -8,7 +9,7 @@ estado: activo
 aliases: ["Riesgo moral", "Moral Hazard (Riesgo Moral)"]
 tags: [moral-hazard, bailout, riesgo, banca, control-financiero, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Moral Hazard

@@ -1,5 +1,6 @@
 ---
 titulo: DNA Data Storage
+fuente: "https://wyss.harvard.edu/news/writing-the-book-in-dna/"
 tipo: "concepto"
 fecha: 2026-03-04
 capa_tema: "b"
@@ -7,7 +8,7 @@ nivel_evidencia: "alto"
 estado: activo
 tags: [biotecnologia, datos, dna, vigilancia, cia]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # DNA Data Storage: El Archivo Eterno de la Matrix (V.3)

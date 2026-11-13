@@ -6,7 +6,7 @@ estado: activo
 aliases: ["Ayatollah Ali Khamenei", "Ali Jamenei"]
 tags: [iran, liderazgo, sucesion, irgc, ormuz, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Ali Khamenei
@@ -54,3 +54,8 @@ El nodo gana valor estratégico cuando se lo conecta con [[Estrecho de Ormuz]], 
 - [[Abbas Araghchi]]
 - [[Estrecho de Ormuz]]
 - [[Proyecto mBridge]]
+
+## Fuentes
+
+- [Referencia documental](https://en.wikipedia.org/wiki/Ali_Khamenei) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

@@ -1,5 +1,6 @@
 ---
 titulo: John Poindexter
+fuente: "https://irp.fas.org/agency/dod/poindexter.html"
 aliases:
   - John Poindexter
 tipo: persona
@@ -10,7 +11,7 @@ nivel_evidencia: alto
 estado: activo
 tags: [john-poindexter, iran-contra, tia, palantir, vigilancia, darpa, thiel, perle, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # John Poindexter

@@ -6,7 +6,7 @@ estado: activo
 aliases: ["Project mBridge", "mBridge"]
 tags: [mbridge, cbdc, pagos-transfronterizos, china, desdolarizacion, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Proyecto mBridge
@@ -74,3 +74,8 @@ Leido junto con [[Reanclaje Hibrido]] y [[Treasuries]], mBridge gana peso no sol
 - [[BIS Innovation Hub]]
 - [[Reanclaje Hibrido]]
 - [[Treasuries]]
+
+## Fuentes
+
+- [Referencia documental](https://www.bis.org/about/bisih/topics/cbdc/mcbdc_bridge.htm) — el hecho, la organización o el proyecto: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

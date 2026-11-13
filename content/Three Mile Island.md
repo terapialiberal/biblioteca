@@ -1,12 +1,13 @@
 ---
 titulo: Three Mile Island
+fuente: "https://www.constellationenergy.com/news/2024/Constellation-to-Launch-Crane-Clean-Energy-Center-Restoring-Jobs-and-Carbon-Free-Power-to-The-Grid.html"
 tipo: entidad
 fecha: 2026-02-25
 nivel_evidencia: "alto"
 estado: activo
 tags: [azure, mile, santuario, three]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Three Mile Island

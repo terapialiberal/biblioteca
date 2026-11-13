@@ -6,7 +6,7 @@ estado: activo
 aliases: ["ESG (Environmental Social Governance)", "Environmental Social Governance"]
 tags: [esg, finanzas, blackrock, sostenibilidad, gobernanza, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # ESG
@@ -26,3 +26,8 @@ ESG no es solo ecología corporativa. Es una capa de scoring financiero-polític
 - [[Agenda 2030]]
 - [[Davos]]
 - [[Social Credit West]]
+
+## Fuentes
+
+- [Referencia documental](https://en.wikipedia.org/wiki/Environmental,_social,_and_governance) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

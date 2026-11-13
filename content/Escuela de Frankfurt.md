@@ -7,7 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [correccin, escuela, frankfurt, marxismo]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Escuela De Frankfurt
@@ -50,3 +50,8 @@ sin_fuente: true
 ## Por Qué Importa (Estilo Nico)
 
 > "La Escuela de Frankfurt es el laboratorio donde se cocinó el virus que nos está volviendo locos a todos. Estos tipos se dieron cuenta de que si no podían sacarte la plata por la fuerza, tenían que sacarte la cabeza. Inventaron la Teoría Crítica, que es básicamente quejarse de todo lo que funciona hasta que se rompa. Gracias a ellos, hoy no se puede decir nada sin que alguien se ofenda, la familia es vista como una cárcel y tus hijos aprenden cosas rarísimas en la escuela. No lo hacen para que seas libre; lo hacen para que no sepas quién sos ni de dónde venís. Una sociedad que no tiene raíces es una sociedad que el Tier A puede manejar como si fuera plastilina."
+
+## Fuentes
+
+- [Referencia documental](https://es.wikipedia.org/wiki/Escuela_de_Fr%C3%A1ncfort) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

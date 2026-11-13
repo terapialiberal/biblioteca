@@ -1,5 +1,6 @@
 ---
 titulo: Vigilancia Predictiva
+fuente: "https://www.rand.org/pubs/research_reports/RR233.html"
 tipo: concepto
 fecha: 2026-04-17
 capa_tema: b
@@ -7,7 +8,7 @@ nivel_evidencia: alto
 estado: activo
 tags: [vigilancia-predictiva, pre-crimen, palantir, scoring, control, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Vigilancia Predictiva

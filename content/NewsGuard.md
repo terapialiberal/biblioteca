@@ -7,7 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [newsguard, censura, fact-checking, medios, reputacion, plataformas, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # NewsGuard
@@ -51,3 +51,8 @@ NewsGuard sirve para leer la transición desde gatekeepers editoriales a sistema
 - [[Censura Corporativa]]
 - [[Twitter Files]]
 - [[Michael Hayden]]
+
+## Fuentes
+
+- [Referencia documental](https://www.newsguardtech.com/) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

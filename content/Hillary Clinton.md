@@ -7,7 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [clinton, fundaci, george, hillary]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Hillary Clinton
@@ -45,3 +45,8 @@ sin_fuente: true
 ## Por Qué Importa (Estilo Nico)
 
 > "Hillary es la jefa final del Deep State. Pas por todos los escndalos posibles (sangre, guita, correos borrados) y nunca le pas nada porque es una de las dueas del tablero. Su Fundacin fue el kiosco más grande de la historia para vender influencias de Tier A: vos ponas un par de palos verdes y ella te abra las puertas del Departamento de Estado. Es la que se rea cuando mataron a Gadafi y la que quiso meterle un dron a Assange porque le estaba sacando los trapitos al sol. Es la candidata de Teflon: nada se le pega porque arriba de ella estn los que deciden quién va preso y quién no. Hillary no es una política; es la gerente de operaciones de los que mandan."
+
+## Fuentes
+
+- [Referencia documental](https://en.wikipedia.org/wiki/Hillary_Clinton) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

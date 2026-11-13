@@ -6,7 +6,8 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [esoterismo, procesos, transformacion, control]
 publish: true
-sin_fuente: true
+sin_fuente: false
+marco_propio: true
 ---
 
 # Alquimia Operativa (V.3)
@@ -32,3 +33,7 @@ El sistema utiliza las tres fases de la Gran Obra para el control social:
 - [[Alquimia de la Percepcion]]: El campo de batalla mental.
 - [[Dialectica Hegeliana]]: La versión filosófica del proceso.
 - [[Modulo Esoterico]]: Análisis de correspondencias.
+
+## Fuentes
+
+- **Marco propio:** concepto de TL sin fuente externa posible. Se define en las piezas donde aparece: rastrearlo con `dossier "Alquimia Operativa"`.

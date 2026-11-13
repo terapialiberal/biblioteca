@@ -7,7 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [google, neuralink]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # AGI (Inteligencia Artificial General)
@@ -49,3 +49,8 @@ El peligro no es "Terminator" (robots disparando), sino manipulación y control 
 ## Fuentes
 
 - "Superintelligence" - Nick Bostrom.
+
+## Fuentes
+
+- [Referencia documental](https://en.wikipedia.org/wiki/Artificial_general_intelligence) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

@@ -7,7 +7,7 @@ tier_primario: c
 nivel_evidencia: medio
 estado: activo
 tags: [barack-obama, presidencia-eeuu, vigilancia-masiva, agencia-inteligencia, guerra-drones]
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Barack Obama
@@ -53,3 +53,8 @@ sin_fuente: true
 ## Por Qué Importa (Estilo Nico)
 
 > "Obama es el logo más exitoso de la multinacional llamada EE.UU. Te lo vendieron como el cambio, pero fue la continuidad perfecta: tiró más bombas que Bush pero con mejores discursos. Fue el tipo que le puso una cara amable a la vigilancia total y al rescate de los banqueros. Si querés entender cómo el Tier A usa el marketing para que la gente pida a gritos sus propias cadenas, estudialo a Barry."
+
+## Fuentes
+
+- [Referencia documental](https://en.wikipedia.org/wiki/Barack_Obama) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

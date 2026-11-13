@@ -1,6 +1,7 @@
 ---
 tipo: persona
 titulo: "William Colby - Wikispooks"
+fuente: "https://wikispooks.com/wiki/William_Colby"
 link: "https://wikispooks.com/wiki/William_Colby"
 fecha: 2026-02-06
 estado: activo

@@ -7,7 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [snowden, vigilancia, nsa, five-eyes, whistleblower, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Revelaciones de Snowden
@@ -56,3 +56,8 @@ Su potencia aumenta cuando se la conecta con [[Edward Snowden]] y [[Julian Assan
 - [[ECHELON]]
 - [[Julian Assange]]
 - [[00_MOC - Tecnologia de Control]]
+
+## Fuentes
+
+- [Referencia documental](https://en.wikipedia.org/wiki/Global_surveillance_disclosures_\(2013%E2%80%93present\)) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

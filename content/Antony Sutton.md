@@ -7,7 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [antony, skull, sutton, wall]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Antony Sutton
@@ -48,3 +48,8 @@ sin_fuente: true
 ## Por Qué Importa (Estilo Nico)
 
 > "A Sutton lo esconden porque te rompe el juguete de la ideología. Te explica que mientras tus abuelos se mataban en las trincheras peleando contra el comunismo o el fascismo, los banqueros de Nueva York firmaban los cheques para ambos bandos. Sutton te enseña la regla número uno: el dinero no tiene patria, tiene objetivos. Si entendés a Sutton, entendés que las guerras no se ganan, se financian."
+
+## Fuentes
+
+- [Referencia documental](https://en.wikipedia.org/wiki/Antony_C._Sutton) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

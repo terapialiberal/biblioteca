@@ -1,5 +1,6 @@
 ---
 titulo: Mercados De Futuros — La Apuesta Por La Escasez
+fuente: "https://www.cftc.gov/LearnAndProtect/AdvisoriesAndArticles/FuturesMarketBasics/index.htm"
 tipo: "concepto"
 fecha: 2026-02-25
 estado: activo
@@ -7,7 +8,7 @@ tags: [apuesta, blackrock, escasez, futuros]
 capa_tema: "a"
 nivel_evidencia: "alto"
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Mercados De Futuros — La Apuesta Por La Escasez

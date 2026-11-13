@@ -11,7 +11,7 @@ tags:
   - trading-algoritmico
   - datos
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # [[Renaissance Technologies]]
@@ -54,3 +54,8 @@ El nodo gana espesor cuando se lo vincula con figuras como [[Robert Mercer]] y e
 ## Observación operativa
 
 Renaissance Technologies sirve para estudiar cómo el secreto técnico se traduce en poder económico y luego en capacidad de influencia extra-financiera.
+
+## Fuentes
+
+- [Renaissance Technologies — Wikipedia](https://en.wikipedia.org/wiki/Renaissance_Technologies) — el fondo, sus retornos y el origen de su ventaja estadística.
+- **Qué es nuestro:** leerlo como caso del capital que no necesita narrativa pública es TL.

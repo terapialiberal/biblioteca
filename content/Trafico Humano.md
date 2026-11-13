@@ -1,5 +1,6 @@
 ---
 titulo: Tráfico Humano — El Arma De La Desestabilización Demográfica
+fuente: "https://www.unodc.org/unodc/data-and-analysis/glotip.html"
 tipo: "persona"
 fecha: 2026-02-25
 estado: activo
@@ -7,7 +8,7 @@ tags: [george, humano, plan, trfico]
 tier_primario: "a"
 nivel_evidencia: "alto"
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Tráfico Humano — El Arma De La Desestabilización Demográfica

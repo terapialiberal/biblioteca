@@ -7,7 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [bunge, agroindustria, granos, alimentos, logistica, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Bunge
@@ -48,3 +48,8 @@ Su lugar en la base es el de actor estructural más que marca popular: parte de 
 - [[Louis Dreyfus]]
 - [[Sistema Alimentario]]
 - [[Control Alimentario]]
+
+## Fuentes
+
+- [Bunge — sitio oficial](https://www.bunge.com/) — operaciones, volúmenes y presencia por país.
+- **Qué es nuestro:** leerla como eslabón del control de la cadena alimentaria global es TL; la fuente sostiene la empresa.

@@ -1,5 +1,6 @@
 ---
 titulo: CFR
+fuente: "https://www.cfr.org/about/mission-statement"
 tipo: entidad
 fecha: 2026-04-18
 tier_primario: b
@@ -8,7 +9,7 @@ estado: activo
 aliases: ["Council on Foreign Relations", "Council on Foreign Relations (CFR)"]
 tags: [cfr, think-tanks, atlantismo, politica-exterior, coordinacion-elite, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # CFR

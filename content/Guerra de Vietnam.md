@@ -6,7 +6,7 @@ estado: activo
 aliases: ["Guerra de Vietnam (Conflicto)"]
 tags: [vietnam, guerra-fria, eeuu, guerra, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Guerra de Vietnam
@@ -16,3 +16,8 @@ sin_fuente: true
 ## Lectura TL
 
 Vietnam muestra que superioridad tecnológica no garantiza victoria política. También marca crisis de confianza en gobierno, medios y mando militar.
+
+## Fuentes
+
+- [Vietnam War — Wikipedia](https://en.wikipedia.org/wiki/Vietnam_War) — cronología, bandos, bajas y consecuencias.
+- **Qué es nuestro:** leerla como banco de pruebas de doctrina y de propaganda —y no solo como guerra— es TL.

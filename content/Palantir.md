@@ -1,5 +1,6 @@
 ---
 titulo: Palantir
+fuente: "https://www.reuters.com/technology/pentagon-adopt-palantir-ai-as-core-us-military-system-memo-says-2026-03-20/?taid=69be55e25e19590001dc556e&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter"
 tipo: organizacion
 fecha: 2026-04-20
 vigencia: 2026-04-20

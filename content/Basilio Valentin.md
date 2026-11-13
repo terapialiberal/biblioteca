@@ -1,5 +1,6 @@
 ---
 titulo: Basilio Valentín
+fuente: "https://brill.com/view/journals/esm/24/5-6/article-p549_8.xml"
 tipo: "persona"
 fecha: 2026-02-25
 estado: activo
@@ -7,7 +8,7 @@ tags: [basilio, valentn]
 tier_primario: "b"
 nivel_evidencia: "alto"
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Basilio Valentín

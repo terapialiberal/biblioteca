@@ -7,7 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [gobernanza-algoritmica, tecnocracia, codigo, automatizacion, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Gobernanza Algoritmica
@@ -64,3 +64,8 @@ La gobernanza algorítmica no se agota en sugerir acciones. Su potencia real apa
 - [[Palantir AIP]]
 - [[Policrisis Sistemica]]
 - [[Digital ID - Global Protocol]]
+
+## Fuentes
+
+- [Government by algorithm — Wikipedia](https://en.wikipedia.org/wiki/Algorithmic_governance) — el campo: decisiones públicas delegadas en sistemas automáticos, con sus casos y críticas.
+- **Qué es nuestro:** leer la gobernanza algorítmica como tecnocracia operativa —no como mejora de gestión— es interpretación TL.

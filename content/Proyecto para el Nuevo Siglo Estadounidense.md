@@ -8,7 +8,7 @@ estado: activo
 aliases: ["PNAC", "Project for the New American Century"]
 tags: [pnac, neocon, think-tank, hegemonia, guerra-preventiva, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Proyecto para el Nuevo Siglo Estadounidense
@@ -50,3 +50,8 @@ También sirve para leer la pretensión unipolar no como reflejo espontáneo del
 - [[Richard Perle]]
 - [[American Enterprise Institute]]
 - [[00_MOC - Redes de Poder]]
+
+## Fuentes
+
+- [Referencia documental](https://en.wikipedia.org/wiki/Project_for_the_New_American_Century) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

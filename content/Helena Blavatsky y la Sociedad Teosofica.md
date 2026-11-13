@@ -1,5 +1,6 @@
 ---
 titulo: Helena Blavatsky Y La Sociedad Teosófica
+fuente: "https://www.theosophical.org/about/about-the-society"
 tipo: "entidad"
 fecha: 2026-02-25
 estado: activo
@@ -7,7 +8,7 @@ tags: [blavatsky, helena, sociedad, teosfica]
 tier_primario: "b"
 nivel_evidencia: "alto"
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Helena Blavatsky Y La Sociedad Teosófica

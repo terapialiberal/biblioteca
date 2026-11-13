@@ -7,7 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [francisco, histrico, jesuitas, universidad]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Jesuitas: El Servicio De Inteligencia Trans-Histórico
@@ -48,3 +48,8 @@ sin_fuente: true
 ## Conclusión Del Análisis
 
 Los Jesuitas son los **"Arquitectos del Síntesis"**. Su poder no reside en la fuerza bruta, sino en su capacidad de estar presentes en la mente de quienes mandan. Son la prueba de que el Tier A prefiere la influencia de largo plazo sobre la dominación inmediata. Entender a los Jesuitas es comprender que la política no es un conflicto de ideas, sino un conflicto de **programas de control** manejados por una élite que tiene la paciencia de los siglos. No son solo una orden religiosa; son el **software del poder occidental** que se actualiza constantemente para que, no importa quién gane, el Vaticano y su orden sigan ostentando la llave del consenso global.
+
+## Fuentes
+
+- [Jesuits — Wikipedia](https://en.wikipedia.org/wiki/Jesuits) — fundación, historia, educación y peso institucional.
+- **Qué es nuestro:** leer la Compañía como nodo de poder de largo plazo es interpretación TL; la fuente sostiene la orden y su obra.

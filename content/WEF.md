@@ -8,7 +8,7 @@ estado: activo
 aliases: ["World Economic Forum", "Foro Economico Mundial"]
 tags: [wef, davos, gobernanza, tecnocracia, young-global-leaders, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # WEF
@@ -54,3 +54,8 @@ El WEF sirve mejor como interfaz que como explicación total. En TL, conviene le
 - [[Agenda 2030]]
 - [[Evento 201]]
 - [[Capitalismo de Partes Interesadas]]
+
+## Fuentes
+
+- [World Economic Forum — sitio oficial](https://www.weforum.org/) — misión declarada, miembros, informes y agenda anual.
+- **Qué es nuestro:** leerlo como productor de consenso para el capital transnacional es TL; la fuente sostiene la institución y sus socios.

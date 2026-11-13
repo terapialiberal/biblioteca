@@ -1,5 +1,6 @@
 ---
 titulo: Logia Lautaro
+fuente: "https://sanmartiniano.cultura.gob.ar/noticia/historia-de-san-martin-y-de-la-emancipacion-sudamericana-de-bartolome-mitre-capitulo-3-la-logia-lautaro-1812-1813/"
 tipo: "entidad"
 fecha: 2026-02-25
 estado: activo
@@ -7,7 +8,7 @@ tags: [francisco, lautaro, logia, plan]
 tier_primario: "b"
 nivel_evidencia: "alto"
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Logia Lautaro

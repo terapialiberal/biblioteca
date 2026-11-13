@@ -7,7 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [edward-snowden, whistleblower, nsa, vigilancia, privacidad, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Edward Snowden
@@ -56,3 +56,8 @@ En TL, Snowden rinde más cuando se lo lee junto con [[PRISM (Programa)]], [[ECH
 - [[XKeyscore]]
 - [[Glenn Greenwald]]
 - [[00_MOC - Tecnologia de Control]]
+
+## Fuentes
+
+- [Referencia documental](https://en.wikipedia.org/wiki/Edward_Snowden) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

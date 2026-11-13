@@ -8,7 +8,7 @@ estado: activo
 aliases: ["Banco Popular de China", "People's Bank of China", "PBOC"]
 tags: [pboc, china, banca-central, cbdc, yuan-digital, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # PBOC (Banco Popular de China)
@@ -58,3 +58,8 @@ En TL, el nodo gana más densidad cuando se lo inserta en la secuencia `Malaca -
 - [[Corredor IMEC]]
 - [[China Taiwan Escalada 2026]]
 - [[Teoria del Rimland]]
+
+## Fuentes
+
+- [Referencia documental](https://en.wikipedia.org/wiki/People%27s_Bank_of_China) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

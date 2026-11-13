@@ -1,5 +1,6 @@
 ---
 titulo: Chainalysis
+fuente: "https://www.chainalysis.com/company/"
 tipo: organizacion
 fecha: 2026-04-22
 tier_primario: b
@@ -7,7 +8,7 @@ nivel_evidencia: alto
 estado: activo
 tags: [chainalysis, blockchain, trazabilidad, compliance, vigilancia-financiera, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Chainalysis

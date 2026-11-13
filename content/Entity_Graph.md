@@ -8,12 +8,12 @@ tags:
   - memoria-operativa
   - agentes
   - tl-intel-v3
-canonico: 99_AI/05_Memoria_Central/Entity_Graph.yaml
+canonico: 99_AI/04_Memoria_Central/Entity_Graph.yaml
 ---
 
 # Entity\_Graph
 
-Puente hacia el grafo operativo vivo: `99_AI/05_Memoria_Central/Entity_Graph.yaml`.
+Puente hacia el grafo operativo vivo: `99_AI/04_Memoria_Central/Entity_Graph.yaml`.
 
 **Estado:** ACTIVO — poblado el 16-jul-2026 escaneando `04_Base_de_Conocimiento/` (3065 notas, 10059 edges). Se regenera con `tl-entity-graph` tras cada archivo nuevo en la KB.
 

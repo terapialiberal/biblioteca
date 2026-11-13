@@ -1,5 +1,6 @@
 ---
 titulo: "Blockchain: El Libro De La Verdad Inmutable"
+fuente: "https://bitcoin.org/en/bitcoin-paper"
 tipo: "concepto"
 fecha: 2026-02-25
 estado: activo
@@ -7,7 +8,7 @@ tags: [blockchain, cbdcs, inmutabilidad, satoshi]
 capa_tema: "a"
 nivel_evidencia: "alto"
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Blockchain: El Libro De La Verdad Inmutable

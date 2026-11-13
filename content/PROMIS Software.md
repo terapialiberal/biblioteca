@@ -95,4 +95,4 @@ no forzado a ninguna H vigente.
 - WIRED "The INSLAW Octopus" (ene-1993)
 - NYT / WaPo / Newsweek ago-1991 (muerte Casolaro)
 - Reporte investigativo INSLAW (archive.org) + DOJ-OPR 1994
-- `99_AI/05_Memoria_Central/CANON_AUTORES_2026-09-28.md` §4 (brief operativo 28-09)
+- `99_AI/04_Memoria_Central/CANON_AUTORES_2026-09-28.md` §4 (brief operativo 28-09)

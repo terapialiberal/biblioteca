@@ -1,5 +1,6 @@
 ---
 titulo: Operación Paperclip
+fuente: "https://www.archives.gov/iwg/declassified-records/rg-330-defense-secretary"
 tipo: evento
 fecha: 2026-04-18
 capa_tema: b
@@ -13,7 +14,7 @@ tags:
   - guerra-fria
   - complejo-militar-industrial
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # [[Operacion Paperclip]]

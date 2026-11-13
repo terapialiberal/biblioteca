@@ -8,7 +8,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [henry-kissinger, realpolitik, golpes-de-estado, cfr, bilderberg, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Henry Kissinger
@@ -71,3 +71,8 @@ Leido junto con [[Allen Dulles]], [[Operacion Condor]] y [[Golpe de Chile 1973]]
 - [[Operacion Condor]] — corredor encubierto
 - [[NSSM 200]] — doctrina
 - [[NOTA_TESIS_MAESTRA]] — marco H
+
+## Fuentes
+
+- [Referencia documental](https://en.wikipedia.org/wiki/Henry_Kissinger) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

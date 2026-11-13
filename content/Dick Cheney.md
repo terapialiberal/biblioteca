@@ -7,7 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [dick-cheney, guerra-de-irak, halliburton, ejecutivo, neocon, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Dick Cheney
@@ -49,3 +49,8 @@ También sirve para entender cómo el trauma del 11-S se tradujo en Patriot Act,
 - [[Donald Rumsfeld]]
 - [[Patriot Act]]
 - [[00_MOC - Redes de Poder]]
+
+## Fuentes
+
+- [Referencia documental](https://en.wikipedia.org/wiki/Dick_Cheney) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

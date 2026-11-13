@@ -1,12 +1,13 @@
 ---
 titulo: "Banca Central"
+fuente: "https://www.federalreserve.gov/aboutthefed/fedexplained/who-we-are.htm"
 tipo: concepto
 estado: activo
 capa_tema: a
 nivel_evidencia: alto
 tags: [banca-central, moneda, inflacion, cbdc, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Banca Central

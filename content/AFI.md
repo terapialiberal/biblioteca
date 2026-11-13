@@ -8,7 +8,7 @@ estado: activo
 aliases: ["AFI (Agencia Federal de Inteligencia)", "Agencia Federal de Inteligencia"]
 tags: [argentina, inteligencia, espionaje, carpetazos, stiuso, estado-profundo, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # AFI
@@ -53,3 +53,8 @@ La agencia cambia de nombre, jefes y discurso, pero el nodo importa porque muest
 - [[Lawfare]]
 - [[Cristina Kirchner]]
 - [[Carpeta]]
+
+## Fuentes
+
+- [Referencia documental](https://es.wikipedia.org/wiki/Agencia_Federal_de_Inteligencia) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

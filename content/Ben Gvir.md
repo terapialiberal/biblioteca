@@ -1,13 +1,14 @@
 ---
 publish: true
 titulo: "Ben Gvir"
+fuente: "https://m.knesset.gov.il/en/mk/pages/mkpersonaldetails.aspx?mkid=1056"
 tipo: persona
 tier_primario: c
 nivel_evidencia: alto
 estado: activo
 tags: [ben-gvir, israel, monte-del-templo, e3-acelerador, agencia-descontrolada, otzma-yehudit, sionismo-religioso, tl-intel-v3]
 fecha: 2026-03-12
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Itamar Ben Gvir

@@ -1,5 +1,6 @@
 ---
 titulo: "Palantir CIA"
+fuente: "https://www.palantir.com/about/"
 tipo: entidad
 fecha: 2026-04-17
 tier_primario: b
@@ -8,7 +9,7 @@ estado: activo
 aliases: ["Palantir CIA", "Palantir Technologies CIA"]
 tags: [palantir, cia, in-q-tel, inteligencia, data-fusion, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Palantir CIA

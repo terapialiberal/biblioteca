@@ -8,7 +8,7 @@ estado: activo
 aliases: ["Biopolítica"]
 tags: [biopolitica, salud, gobernanza, cuerpo, bioseguridad, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Biopolitica
@@ -63,3 +63,8 @@ La nota gana aun más fuerza cuando se la conecta con [[Digital ID - Global Prot
 - [[Digital ID - Global Protocol]]
 - [[Tecnocracia]]
 - [[Compliance]]
+
+## Fuentes
+
+- [Referencia documental](https://en.wikipedia.org/wiki/Biopolitics) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

@@ -6,7 +6,7 @@ estado: activo
 aliases: ["Islamic Revolutionary Guard Corps", "Guardia Revolucionaria de Iran", "Cuerpo de la Guardia Revolucionaria Islamica"]
 tags: [irgc, iran, seguridad, economia-paraestatal, ormuz, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # IRGC
@@ -50,3 +50,9 @@ En una crisis sucesoria, el IRGC importa porque puede convertirse en arbitro rea
 - [[Abbas Araghchi]]
 - [[Estrecho de Ormuz]]
 - [[Benjamin Netanyahu]]
+
+## Fuentes
+
+- [Islamic Revolutionary Guard Corps — Wikipedia](https://en.wikipedia.org/wiki/Islamic_Revolutionary_Guard_Corps) — origen, estructura, mando y peso económico paraestatal.
+- [Irán: dos superpetroleros y el cierre de Ormuz — Iran International — 2026-11-12](https://www.iranintl.com/en/202611128180) — el rol operativo actual: la Armada del IRGC administra el paso por el estrecho.
+- **Qué es nuestro:** «administrador de capacidad de escalada regional» es lectura TL; las fuentes sostienen el aparato y su función económica.

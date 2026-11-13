@@ -9,7 +9,7 @@ estado: activo
 aliases: ["State Street Corporation"]
 fuentes_clave: []
 tags: [state-street, custodia, gestores-de-activos, control-financiero, tl-intel-v3]
-sin_fuente: true
+sin_fuente: false
 ---
 
 # [[State Street]]
@@ -70,3 +70,8 @@ Se recompila para dejar claro su valor específico: menos protagonismo discursiv
 ## Casos relacionados
 
 - [[06_Videos_Publicados/2026/2026-07-13_Graham_BigThree_Ankara/POSTMORTEM_INTEL|Graham / Big Three / Ankara]] (17 jul 2026) — State Street como el nodo de custodia/voto del supra-bloque: SPYM (ETF S\&P 500) elegido para Trump Accounts (CNBC 1-2 jul). Completa la tríada Big Three que cobra el toll de Ormuz sin elegir bando. Vanguard no cotiza → opacidad estructural del dueño.
+
+## Fuentes
+
+- [Referencia documental](https://en.wikipedia.org/wiki/State_Street_Corporation) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

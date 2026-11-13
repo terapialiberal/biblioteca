@@ -1,5 +1,6 @@
 ---
 titulo: Bailout
+fuente: "https://www.elibrary.imf.org/display/book/9781557753069/ch001.xml"
 tipo: concepto
 fecha: 2026-05-02
 capa_tema: b
@@ -8,7 +9,7 @@ estado: activo
 aliases: ["Bailout (Rescate Financiero)", "Rescate financiero"]
 tags: [bailout, rescate, banca, moral-hazard, control-financiero, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Bailout

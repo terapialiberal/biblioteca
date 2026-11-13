@@ -8,7 +8,7 @@ estado: activo
 aliases: ["Lawfare (Guerra Judicial)", "Guerra judicial", "Guerra jurídica"]
 tags: [lawfare, justicia, inteligencia, medios, operaciones-politicas, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Lawfare
@@ -35,3 +35,8 @@ El lawfare funciona cuando el proceso judicial deja de ser solo búsqueda de ver
 - [[Open Society Foundations]]
 - [[Revolucion de Color]]
 - [[00_MOC - Operaciones Psicologicas]]
+
+## Fuentes
+
+- [Lawfare — Wikipedia](https://en.wikipedia.org/wiki/Lawfare) — origen del término, usos y debate sobre su definición.
+- **Qué es nuestro:** aplicarlo a la judicialización de la política argentina como método y no como consecuencia es lectura TL.

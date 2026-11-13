@@ -7,7 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [concentrado, jeffrey, larry, openai]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Larry Summers: El Centinela Del Capital Concentrado
@@ -57,3 +57,8 @@ La nota venía demasiado épica y mezclaba demasiados frentes a la vez. Se recom
 - [[OpenAI]]
 - [[BlackRock]]
 - [[00_MOC - Control Financiero]]
+
+## Fuentes
+
+- [Referencia documental](https://en.wikipedia.org/wiki/Lawrence_Summers) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

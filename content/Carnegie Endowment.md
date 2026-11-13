@@ -8,7 +8,7 @@ estado: activo
 aliases: ["Carnegie Endowment (CEIP)", "CEIP"]
 tags: [carnegie-endowment, think-tank, politica-exterior, fundaciones, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Carnegie Endowment
@@ -56,3 +56,8 @@ No conviene usarlo como sinónimo de [[Fundacion Carnegie]]. Para lectura TL, el
 - [[CIA]]
 - [[Deep State (EEUU)]]
 - [[ONU (Organización de las Naciones Unidas)]]
+
+## Fuentes
+
+- [Carnegie Endowment for International Peace — sitio oficial](https://carnegieendowment.org/) — programas, donantes y publicaciones.
+- **Qué es nuestro:** leerlo como parte de la arquitectura de producción de política exterior es TL.

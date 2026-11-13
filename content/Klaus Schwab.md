@@ -8,7 +8,7 @@ moc_canonico: [[00_MOC - Redes de Poder]]
 estado: activo
 fuentes_clave: []
 tags: [klaus-schwab, wef, great-reset, gobernanza, tl-intel-v3]
-sin_fuente: true
+sin_fuente: false
 ---
 
 # [[Klaus Schwab]]
@@ -36,3 +36,9 @@ Schwab importa en TL como interfaz entre élites financieras, corporativas, tecn
 ## Observación operativa
 
 Schwab sirve como rostro visible de una arquitectura más amplia. Su importancia en TL está en hacer presentable y coordinable una agenda de transición tecnocrática.
+
+## Fuentes
+
+- [Klaus Schwab — Wikipedia](https://en.wikipedia.org/wiki/Klaus_Schwab) — fundación del Foro Económico Mundial y trayectoria.
+- [World Economic Forum — sobre Klaus Schwab](https://www.weforum.org/about/klaus-schwab/) — su propio relato institucional.
+- **Qué es nuestro:** «operador de visibilización pública» es lectura TL. El Foro se describe como plataforma de diálogo; la función de socializar agenda es nuestra interpretación, no una declaración de la fuente.

@@ -1,5 +1,6 @@
 ---
 titulo: Experimento Milgram
+fuente: "https://psycnet.apa.org/record/1964-03472-001"
 tipo: concepto
 fecha: 2026-04-27
 estado: activo
@@ -8,7 +9,7 @@ tags: [experimento-milgram, obediencia, autoridad, psicologia-social, operacione
 capa_tema: b
 nivel_evidencia: alto
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Experimento Milgram

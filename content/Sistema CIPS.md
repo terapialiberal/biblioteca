@@ -8,7 +8,7 @@ estado: activo
 aliases: ["CIPS", "Cross-Border Interbank Payment System"]
 tags: [cips, china, pagos-transfronterizos, yuan, desdolarizacion, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Sistema CIPS
@@ -59,3 +59,8 @@ En TL, el nodo gana otra dimensión cuando se lo inserta en el corredor `Ormuz -
 - [[SWIFT]]
 - [[Desdolarizacion]]
 - [[Teoria del Rimland]]
+
+## Fuentes
+
+- [Referencia documental](https://en.wikipedia.org/wiki/Cross-Border_Interbank_Payments_System) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

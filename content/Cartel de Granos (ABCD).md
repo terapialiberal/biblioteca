@@ -7,7 +7,8 @@ nivel_evidencia: medio
 estado: activo
 tags: [cartel-de-granos, abcd, agroindustria, commodities, alimentos, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
+marco_propio: true
 ---
 
 # Cartel de Granos (ABCD)
@@ -49,3 +50,7 @@ Su potencia aparece cuando el comercio de granos se entiende no solo como cadena
 - [[Sistema Alimentario]]
 - [[Control Alimentario]]
 - [[Campo y Retenciones]]
+
+## Fuentes
+
+- **Marco propio:** concepto de TL sin fuente externa posible. Se define en las piezas donde aparece: rastrearlo con `dossier "Cartel de Granos (ABCD)"`.

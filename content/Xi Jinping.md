@@ -6,7 +6,7 @@ estado: activo
 aliases: ["Xi"]
 tags: [xi-jinping, china, partido-comunista-chino, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Xi Jinping
@@ -23,3 +23,8 @@ Xi expresa el pasaje de China desde integración global pragmática hacia poder 
 - BRI
 - [[Sistema CIPS]]
 - [[Mar del Sur de China]]
+
+## Fuentes
+
+- [Referencia documental](https://en.wikipedia.org/wiki/Xi_Jinping) — el hecho, la organización o el proyecto: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

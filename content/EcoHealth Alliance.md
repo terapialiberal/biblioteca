@@ -7,7 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [ecohealth-alliance, bioseguridad, ganancia-de-funcion, wuhan, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # EcoHealth Alliance
@@ -62,3 +62,8 @@ En TL, el nodo rinde más cuando se lo conecta con [[Vigilancia Biologica]] y [[
 - [[Bioseguridad]]
 - [[00_MOC - Salud Global y Bioseguridad]]
 - [[Tecnocracia]]
+
+## Fuentes
+
+- [Referencia documental](https://en.wikipedia.org/wiki/EcoHealth_Alliance) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

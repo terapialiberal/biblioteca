@@ -6,7 +6,7 @@ estado: activo
 aliases: ["MK Ultra", "MK-Ultra", "MK-Ultra (Control Mental CIA)"]
 tags: [mkultra, cia, control-mental, experimentos, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # MKUltra
@@ -23,3 +23,9 @@ Su valor no está en convertir toda conducta en MKUltra, sino en recordar que ag
 - control mental
 - [[Aldous Huxley]]
 - [[Panoptico Digital]]
+
+## Fuentes
+
+- [Project MKUltra — Wikipedia](https://en.wikipedia.org/wiki/Project_MKUltra) — el programa, su alcance documentado y los archivos desclasificados.
+- [Documentos del Church Committee y del Senado — archivo](https://www.intelligence.senate.gov/) — las audiencias que expusieron el programa.
+- **Advertencia:** el alcance real nunca se conoció del todo: buena parte de los archivos se destruyó en 1973. Lo documentado es el programa; lo demás es inferencia.

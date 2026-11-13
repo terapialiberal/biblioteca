@@ -7,7 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [ventana-de-overton, opinion-publica, ingenieria-social, gradualismo, aceptabilidad, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Ventana de Overton
@@ -48,3 +48,8 @@ También sirve para leer cómo una posición extrema puede ser lanzada para que 
 - [[Problema-Reaccion-Solucion]]
 - [[Guerra Cultural]]
 - [[00_MOC - Operaciones Psicologicas]]
+
+## Fuentes
+
+- [Referencia documental](https://es.wikipedia.org/wiki/Ventana_de_Overton) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

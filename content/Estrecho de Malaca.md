@@ -1,5 +1,6 @@
 ---
 titulo: Estrecho de Malaca
+fuente: "https://www.ft.com/content/c6517e52-b855-487c-8408-7071936cf3b0"
 tipo: nodo
 fecha: 2026-05-02
 capa_tema: b

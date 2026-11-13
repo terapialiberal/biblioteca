@@ -1,5 +1,6 @@
 ---
 titulo: Nanotecnologia
+fuente: "https://www.nano.gov/about-nanotechnology/"
 tipo: concepto
 fecha: 2026-04-18
 capa_tema: b
@@ -8,7 +9,7 @@ estado: activo
 aliases: ["Nano-tecnologia", "Nano-tecnologia (Polvo Inteligente)"]
 tags: [nanotecnologia, grafeno, biosensado, control, vigilancia]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Nanotecnologia

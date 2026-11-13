@@ -1,6 +1,7 @@
 ---
 publish: true
 titulo: "Vinod Khosla"
+fuente: "https://en.wikipedia.org/wiki/Vinod_Khosla"
 descripcion: "Inversor de Silicon Valley, fundador de Khosla Ventures y figura relevante en IA, energia, capital de riesgo y OpenAI."
 link: "https://en.wikipedia.org/wiki/Vinod_Khosla"
 tipo: persona

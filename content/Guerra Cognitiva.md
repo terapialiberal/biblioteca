@@ -7,7 +7,8 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [ciberntica, cognitive, guerra, warfare]
 publish: true
-sin_fuente: true
+sin_fuente: false
+marco_propio: true
 ---
 
 # Guerra Cognitiva (Cognitive Warfare)
@@ -46,3 +47,7 @@ sin_fuente: true
 ## Por Qué Importa (Estilo Nico)
 
 > "La Guerra Cognitiva es cuando el campo de batalla está adentro de tu cabeza. Ya no necesitan bombardecharte la ciudad; les alcanza con bombardearte el celular. Los de la OTAN dicen clarito que ahora el objetivo es tu cerebro. Te saturan de noticias contradictorias, te pelean con tu vecino por cualquier boludez y te cansan tanto que al final decís 'que hagan lo que quieran, yo no entiendo más nada'. Ahí es cuando ganan. Es el hackeo total: usan tus propias emociones para manejarte como una marioneta. El que controla tu atención, controla tu vida, y hoy los dueños del mundo están peleando por cada segundo que pasás mirando una pantalla."
+
+## Fuentes
+
+- **Marco propio:** concepto de TL sin fuente externa posible. Se define en las piezas donde aparece: rastrearlo con `dossier "Guerra Cognitiva"`.

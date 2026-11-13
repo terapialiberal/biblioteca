@@ -7,7 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [biden, blackrock, continuidad, departamento]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Joe Biden: El Gerente De La Continuidad Atlantista
@@ -48,3 +48,8 @@ sin_fuente: true
 ## Conclusión Del Análisis
 
 Joe Biden es el **"Holograma del Establishment"**. Su carrera es la historia de cómo un hombre puede estar en el lado correcto de cada poder de turno durante 50 años. No es un líder, es un **ajuste institucional**. Representa la era del presidente decorativo, donde la soberanía reside en el algoritmo burocrático y en los comités de expertos de Tier B que sirven al capital de Tier A. Entender a Biden es comprender que, en la Matrix política moderna, el ocupante de la silla puede estar ausente siempre y cuando la red de intereses permanezca intacta. Es la "decencia" como máscara de la decadencia sistémica.
+
+## Fuentes
+
+- [Referencia documental](https://en.wikipedia.org/wiki/Joe_Biden) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

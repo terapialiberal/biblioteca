@@ -6,7 +6,7 @@ estado: activo
 aliases: ["Agenda 2030 (ONU)", "ODS", "Objetivos de Desarrollo Sostenible"]
 tags: [agenda-2030, onu, ods, gobernanza-global, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Agenda 2030
@@ -26,3 +26,8 @@ Su relevancia no está solo en los objetivos declarados. Importa porque crea len
 - [[Stakeholder Capitalism]]
 - [[Salud Global]]
 - [[Gobernanza Digital]]
+
+## Fuentes
+
+- [Transforming our world: the 2030 Agenda for Sustainable Development — ONU](https://sdgs.un.org/2030agenda) — el documento aprobado: 17 objetivos, 169 metas y el mecanismo de seguimiento.
+- **Qué es nuestro:** leer los ODS como arquitectura de gobernanza global —y no como lista de buenas intenciones— es interpretación TL; la fuente sostiene el texto y sus metas.

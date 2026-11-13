@@ -8,7 +8,7 @@ moc_canonico: [[00_MOC - Tecnologia de Control]]
 estado: activo
 fuentes_clave: []
 tags: [mark-zuckerberg, meta, plataformas, atencion, censura, tl-intel-v3]
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Mark Zuckerberg
@@ -49,3 +49,8 @@ Su relevancia ya no es la de un simple fundador tech. Opera sobre capas de socia
 - [[Complejo Industrial de la Censura]]
 - [[Panoptico Digital]]
 - [[Metaverso]]
+
+## Fuentes
+
+- [Referencia documental](https://en.wikipedia.org/wiki/Mark_Zuckerberg) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

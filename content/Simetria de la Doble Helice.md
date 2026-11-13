@@ -1,5 +1,6 @@
 ---
 titulo: Simetria de la Doble Helice
+fuente: "https://www.nature.com/articles/171737a0"
 tipo: concepto
 fecha: 2026-04-27
 estado: activo
@@ -8,7 +9,7 @@ tags: [doble-helice, adn, biotecnologia, simbolismo, tl-intel-v3]
 capa_tema: b
 nivel_evidencia: alto
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Simetria de la Doble Helice

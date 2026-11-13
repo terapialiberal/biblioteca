@@ -7,7 +7,7 @@ nivel_evidencia: alto
 estado: activo
 tags: [clearview, reconocimiento-facial, vigilancia, biometria, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Clearview AI
@@ -64,3 +64,8 @@ Leída junto con [[Palantir]] y [[Anduril Industries]], la nota gana una capa m�
 - [[Tecnocracia]]
 - [[Gobernanza Algoritmica]]
 - [[00_MOC - Vigilancia Tecnica y SIGINT]]
+
+## Fuentes
+
+- [Referencia documental](https://en.wikipedia.org/wiki/Clearview_AI) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

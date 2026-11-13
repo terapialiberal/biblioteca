@@ -8,7 +8,7 @@ estado: activo
 aliases: ["Página/12", "Página 12"]
 tags: [argentina, medios, kirchnerismo, pauta, narrativa, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Pagina 12
@@ -52,3 +52,8 @@ También importa porque permite detectar cómo quiere hablarse a sí mismo un bl
 - [[Cristina Kirchner]]
 - [[Batalla Cultural (Argentina)]]
 - [[Lawfare]]
+
+## Fuentes
+
+- [Referencia documental](https://es.wikipedia.org/wiki/P%C3%A1gina/12) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

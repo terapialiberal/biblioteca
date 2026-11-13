@@ -7,7 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [atlantic-council, think-tank, otan, politica-exterior, gobernanza-digital, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Atlantic Council
@@ -51,3 +51,8 @@ No hace falta tratarlo como centro omnipotente para entender su peso. Su influen
 - [[CFR]]
 - [[Raytheon]]
 - [[BlackRock]]
+
+## Fuentes
+
+- [Referencia documental](https://www.atlanticcouncil.org/) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

@@ -8,7 +8,8 @@ estado: activo
 aliases: ["Global Digital ID", "Identidad Digital Global"]
 tags: [identidad-digital, wallets, interoperabilidad, salud-digital, control, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
+marco_propio: true
 ---
 
 # Digital ID - Global Protocol
@@ -86,3 +87,7 @@ En TL, el punto fuerte aparece cuando la identidad deja de verificar solamente q
 - [[Dinero Programable]]
 - [[00_MOC - Tecnologia de Control]]
 - [[00_MOC - Control Financiero]]
+
+## Fuentes
+
+- **Marco propio:** la ficha describe una arquitectura de identidad digital global como programa de gobernanza. Se apoya en piezas propias; la referencia externa para el insumo técnico es el programa ID4D del Banco Mundial, que no avala la lectura de coordinación.

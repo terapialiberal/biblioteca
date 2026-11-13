@@ -7,7 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [familia-rockefeller, dinastias, fundaciones, banca, energia, gobernanza, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Familia Rockefeller
@@ -53,3 +53,8 @@ Leída junto con [[Fundacion Rockefeller]], [[David Rockefeller]], [[CFR]] y [[N
 - [[CFR]]
 - [[Naciones Unidas]]
 - [[Council of the Americas]]
+
+## Fuentes
+
+- [Referencia documental](https://en.wikipedia.org/wiki/Rockefeller_family) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

@@ -6,7 +6,8 @@ estado: activo
 aliases: ["Stablecoin Regulation US (2026)"]
 tags: [stablecoins, regulacion-eeuu, dolar-digital, treasuries, cripto, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
+marco_propio: true
 ---
 
 # Stablecoin Regulation US
@@ -58,3 +59,7 @@ La lectura gana espesor cuando se conecta esta regulación con [[Treasuries]], [
 - [[GENIUS Act]]
 - [[Scott Bessent]]
 - [[Reanclaje Hibrido]]
+
+## Fuentes
+
+- **Marco propio:** concepto de TL sin fuente externa posible. Se define en las piezas donde aparece: rastrearlo con `dossier "Stablecoin Regulation US"`.

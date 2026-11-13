@@ -7,7 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [silicon-valley, plataformas, vigilancia, tecnocracia, inteligencia, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Silicon Valley
@@ -57,3 +57,8 @@ Leído junto con [[Susan Wojcicki]], [[Google]], [[Palantir]], [[In-Q-Tel]] y [[
 - [[PayPal Mafia]]
 - [[Susan Wojcicki]]
 - [[Censura Corporativa]]
+
+## Fuentes
+
+- [Referencia documental](https://en.wikipedia.org/wiki/Silicon_Valley) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

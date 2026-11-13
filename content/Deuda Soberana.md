@@ -1,5 +1,6 @@
 ---
 titulo: Deuda Soberana
+fuente: "https://www.worldbank.org/en/topic/debt/overview"
 tipo: concepto
 fecha: 2026-05-02
 capa_tema: b
@@ -8,7 +9,7 @@ estado: activo
 aliases: ["Deuda Soberana (Mecanismo de Control)", "Sovereign Debt"]
 tags: [deuda-soberana, bonos, fmi, default, control-financiero, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Deuda Soberana

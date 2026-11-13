@@ -6,7 +6,8 @@ nivel_evidencia: "muy-alto"
 estado: activo
 tags: [inteligencia, ejecucion, burocracia, influencia]
 publish: true
-sin_fuente: true
+sin_fuente: false
+marco_propio: true
 ---
 
 # Tier B: Los Ejecutores (V.3)
@@ -36,3 +37,9 @@ El **Tier B** está compuesto por individuos y organizaciones que diseñan e imp
 - [[Tier A]]: Sus mandantes.
 - [[Tier C]]: Su campo de juego.
 - [[Kompromat y Dark Game Theory]]: Sus herramientas de control.
+
+## Fuentes
+
+- [[99_AI/00_BOOT/SOUL.md|SOUL.md §1 — definición canónica de Tier]] — el nivel de ejecución como puente entre A y C.
+- [[AGENTS.md|AGENTS.md §4 — Vocabulario Tier]] — reglas de uso y confusión frecuente con «fixer».
+- **Definición propia:** marco descriptivo de TL, no hecho verificable externamente.

@@ -1,5 +1,6 @@
 ---
 titulo: "Lindsey Graham"
+fuente: "https://bioguide.congress.gov/search/bio/G000359"
 publish: true
 tipo: persona
 fecha: 2026-07-14
@@ -9,7 +10,7 @@ nivel_evidencia: alto
 estado: activo
 aliases: ["Lindsey Olin Graham"]
 tags: [lindsey-graham, senador, republicano, halcon, bilderberg, wef, munich-security-conference, atlantismo, afganistan, tl-intel-v3]
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Lindsey Graham

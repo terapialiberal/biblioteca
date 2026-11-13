@@ -1,5 +1,6 @@
 ---
 titulo: Libro De Enoc (El Informe De Los Vigilantes)
+fuente: "https://archive.org/details/bookofenoch0000unse"
 tipo: "concepto"
 fecha: 2026-02-25
 estado: activo
@@ -7,7 +8,7 @@ tags: [enoc, libro]
 capa_tema: "a"
 nivel_evidencia: "alto"
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Libro De Enoc (El Informe De Los Vigilantes)

@@ -1,5 +1,6 @@
 ---
 titulo: Los Lombardos - Los Banqueros Del Rey
+fuente: "https://museum.nbb.be/en/resources/money-changers-bench-very-special-table"
 tipo: "concepto"
 fecha: 2026-02-25
 estado: activo
@@ -7,7 +8,7 @@ tags: [banqueros, lombardos]
 capa_tema: "b"
 nivel_evidencia: "alto"
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Los Lombardos - Los Banqueros Del Rey

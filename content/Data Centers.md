@@ -1,5 +1,6 @@
 ---
 titulo: Data Centers
+fuente: "https://insidecybersecurity.com/daily-news/house-panel-weighs-designating-ai-data-centers-critical-infrastructure"
 tipo: concepto
 fecha: 2026-05-26
 capa_tema: b
@@ -46,4 +47,4 @@ La señal central es el trato diferencial. Si la población recibe racionamiento
 
 ## Fuentes
 
-- https://insidecybersecurity.com/daily-news/house-panel-weighs-designating-ai-data-centers-critical-infrastructure  ·  en `99_AI\05_Memoria_Central\00_TRACK_RECORD.md`
+- https://insidecybersecurity.com/daily-news/house-panel-weighs-designating-ai-data-centers-critical-infrastructure  ·  en `99_AI\04_Memoria_Central\00_TRACK_RECORD.md`

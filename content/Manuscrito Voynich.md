@@ -1,5 +1,6 @@
 ---
 titulo: Manuscrito Voynich (Cifrado De Alta Extrañeza)
+fuente: "https://beinecke.library.yale.edu/beinecke/collections/beinecke-cipher-voynich-manuscript"
 tipo: "persona"
 fecha: 2026-02-25
 estado: activo
@@ -7,7 +8,7 @@ tags: [manuscrito, voynich]
 tier_primario: "a"
 nivel_evidencia: "alto"
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Manuscrito Voynich (Cifrado De Alta Extrañeza)

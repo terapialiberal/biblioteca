@@ -1,5 +1,6 @@
 ---
 titulo: El Kybalión Y Las 7 Leyes Herméticas
+fuente: "https://en.wikisource.org/wiki/The_Kybalion"
 tipo: "concepto"
 fecha: 2026-02-25
 estado: activo
@@ -7,7 +8,7 @@ tags: [hermetismo, hermticas, kybalin, leyes]
 capa_tema: "a"
 nivel_evidencia: "alto"
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # El Kybalión Y Las 7 Leyes Herméticas

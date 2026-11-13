@@ -1,5 +1,6 @@
 ---
 titulo: They Live (Señales Vs Ruido En La Vía Pública)
+fuente: "https://www.imdb.com/title/tt0096256/"
 tipo: "concepto"
 fecha: 2026-02-25
 estado: activo
@@ -7,7 +8,7 @@ tags: [forense, live, proporcin, simbologa]
 capa_tema: "b"
 nivel_evidencia: "alto"
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # They Live (Señales Vs Ruido En La Vía Pública)

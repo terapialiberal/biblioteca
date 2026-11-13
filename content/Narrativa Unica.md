@@ -8,7 +8,8 @@ estado: activo
 aliases: ["Narrativa Única", "Narrativa Unica: El Monopolio Epistemologico De La Matrix"]
 tags: [narrativa-unica, guerra-cognitiva, censura, medios, plataformas, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
+marco_propio: true
 ---
 
 # Narrativa Unica
@@ -52,3 +53,7 @@ Narrativa Unica sirve para leer una forma de control donde la obediencia no se p
 - [[NewsGuard]]
 - [[Cognitive Warfare]]
 - [[Twitter Files]]
+
+## Fuentes
+
+- **Marco propio:** concepto de TL sin fuente externa posible. Se define en las piezas donde aparece: rastrearlo con `dossier "Narrativa Unica"`.

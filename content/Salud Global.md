@@ -7,7 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [salud-global, gobernanza, who, gavi, cepi, filantrocapitalismo, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Salud Global
@@ -60,3 +60,8 @@ La nota gana espesor cuando se la separa de la caricatura de un mando único. En
 - [[Bioseguridad]]
 - [[Big Pharma]]
 - [[Pasaportes de Vacuna]]
+
+## Fuentes
+
+- [Referencia documental](https://en.wikipedia.org/wiki/Global_health) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

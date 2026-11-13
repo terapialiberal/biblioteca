@@ -7,7 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [allen-dulles, cia, operaciones-encubiertas, guerra-fria, intelligence-establishment, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Allen Dulles
@@ -58,3 +58,8 @@ Leido junto con [[William Donovan]] y [[Henry Kissinger]], Dulles gana más reli
 - [[Sullivan & Cromwell]]
 - [[William Donovan]]
 - [[Henry Kissinger]]
+
+## Fuentes
+
+- [Referencia documental](https://en.wikipedia.org/wiki/Allen_Dulles) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

@@ -1,5 +1,6 @@
 ---
 titulo: Surveillance State
+fuente: "https://epic.org/issues/surveillance-oversight/"
 tipo: concepto
 fecha: 2026-05-02
 capa_tema: b
@@ -8,7 +9,7 @@ estado: activo
 aliases: ["Estado de Vigilancia", "Estado de Vigilancia (Surveillance State)"]
 tags: [surveillance-state, vigilancia, sigint, datos, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Surveillance State

@@ -7,7 +7,8 @@ nivel_evidencia: medio
 estado: activo
 tags: [bioseguridad, salud-global, vigilancia, preparacion-pandemica, control, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
+marco_propio: true
 ---
 
 # Bioseguridad
@@ -61,3 +62,7 @@ Su valor en TL crece cuando se la lee junto con [[Biopolitica]], [[Pasaportes de
 - [[Pasaportes de Vacuna]]
 - [[Digital ID - Global Protocol]]
 - [[Compliance]]
+
+## Fuentes
+
+- **Marco propio:** TL usa «bioseguridad» para el cruce entre salud global, seguridad y gobernanza —no en el sentido técnico de contención de patógenos—. Se define en las piezas donde aparece (ver el rastro del tema con `dossier Bioseguridad`). Si se quiere el sentido técnico, la referencia es el marco de la OMS, que no es el que usa la ficha.

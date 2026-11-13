@@ -7,7 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [argentina, menem, privatizaciones, convertibilidad, noventa, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Carlos Menem
@@ -51,3 +51,8 @@ También importa porque sirve como puente entre la promesa de estabilidad de los
 - [[AMIA]]
 - [[Indultos de Menem]]
 - [[Crisis de 2001]]
+
+## Fuentes
+
+- [Referencia documental](https://es.wikipedia.org/wiki/Carlos_Menem) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

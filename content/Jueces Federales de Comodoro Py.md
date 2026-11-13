@@ -8,7 +8,7 @@ estado: activo
 aliases: ["Jueces Federales De Comodoro Py: La Aduana De La Impunidad", "Comodoro Py"]
 tags: [argentina, justicia, lawfare, jueces, afi, impunidad, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Jueces Federales de Comodoro Py
@@ -54,3 +54,8 @@ Mas que una conspiración unica, TL lo lee como mercado estable de incentivos, f
 - [[Grupo Clarin]]
 - [[Joe Lewis]]
 - [[Lago Escondido]]
+
+## Fuentes
+
+- [Referencia documental](https://es.wikipedia.org/wiki/Comodoro_Py) — el hecho, la institución o el acuerdo: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

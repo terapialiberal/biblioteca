@@ -8,7 +8,7 @@ estado: activo
 moc_canonico: [[00_MOC - Finanzas y CBDC]]
 tags: [cbdc-europeo, euro-digital, bce, dinero-programable, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # CBDC Europeo
@@ -55,3 +55,8 @@ Leído junto con [[Proyecto Agora]] y [[CBDC Interoperability]], el nodo ayuda a
 - [[Proyecto Agora]]
 - [[Dinero Programable]]
 - [[Identidad Digital Soberana]]
+
+## Fuentes
+
+- [Referencia documental](https://www.ecb.europa.eu/euro/digital_euro/html/index.en.html) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

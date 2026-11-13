@@ -7,7 +7,7 @@ nivel_evidencia: "medio"
 estado: activo
 tags: [agenda, ciudades, inteligentes, world]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Ciudades Inteligentes (Smart Cities)
@@ -47,3 +47,8 @@ La "Ciudad Inteligente" require saber dónde estás, qué compras y con quién e
 
 - Documentos de C40 Cities sobre reducción de consumo.
 - Plan "Oxford 2040".
+
+## Fuentes
+
+- [Smart city — Wikipedia](https://en.wikipedia.org/wiki/Smart_city) — qué se entiende por ciudad inteligente, casos y críticas por privacidad y gobernanza.
+- **Qué es nuestro:** leerla como infraestructura de gobernanza algorítmica —y no como eficiencia urbana— es interpretación TL.

@@ -1,5 +1,6 @@
 ---
 titulo: Escritura Cuneiforme Y Deuda (El Origen Del Ledger)
+fuente: "https://davidgraeber.org/articles/debt-the-first-five-thousand-years/"
 tipo: "concepto"
 fecha: 2026-02-25
 estado: activo
@@ -7,7 +8,7 @@ tags: [cuneiforme, deuda, escritura]
 capa_tema: "a"
 nivel_evidencia: "alto"
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Escritura Cuneiforme Y Deuda (El Origen Del Ledger)

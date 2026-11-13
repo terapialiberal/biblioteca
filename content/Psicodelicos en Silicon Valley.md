@@ -1,5 +1,6 @@
 ---
 titulo: Psicodélicos En Silicon Valley (Tecno-Gnosis)
+fuente: "https://www.wired.com/story/lsd-microdosing-drugs-silicon-valley/"
 tipo: "concepto"
 fecha: 2026-02-25
 estado: activo
@@ -7,7 +8,7 @@ tags: [burning, psicodlicos, silicon, valley]
 capa_tema: "b"
 nivel_evidencia: "alto"
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Psicodélicos En Silicon Valley (Tecno-Gnosis)

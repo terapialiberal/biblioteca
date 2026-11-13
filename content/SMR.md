@@ -1,5 +1,6 @@
 ---
 titulo: SMR
+fuente: "https://aris.iaea.org/publications/smr_book_2020.pdf"
 tipo: "concepto"
 fecha: 2026-02-25
 capa_tema: "a"
@@ -7,7 +8,7 @@ nivel_evidencia: "alto"
 estado: activo
 tags: [bill, modular, pila, small]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # SMR

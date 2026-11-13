@@ -1,5 +1,6 @@
 ---
 titulo: Asesinato De MLK (Juicio 1999)
+fuente: "https://thekingcenter.org/conspiracy-trial/"
 tipo: "evento"
 fecha: 2026-02-25
 capa_tema: "b"

@@ -1,12 +1,13 @@
 ---
 titulo: "Merrill Lynch"
+fuente: "https://www.federalreserve.gov/newsevents/testimony/bernanke20090625a.htm"
 tipo: entidad
 estado: activo
 tier_primario: b
 nivel_evidencia: alto
 tags: [merrill-lynch, bank-of-america, banca-inversion, crisis-2008, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Merrill Lynch

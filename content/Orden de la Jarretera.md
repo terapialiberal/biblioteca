@@ -1,5 +1,6 @@
 ---
 titulo: Orden De La Jarretera
+fuente: "https://www.royal.uk/the-order-of-the-garter"
 tipo: "entidad"
 fecha: 2026-02-25
 estado: activo
@@ -7,7 +8,7 @@ tags: [city, jarretera, monarqua, orden]
 tier_primario: "a"
 nivel_evidencia: "alto"
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Orden De La Jarretera

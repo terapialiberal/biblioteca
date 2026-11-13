@@ -8,7 +8,7 @@ estado: activo
 aliases: ["Bill & Melinda Gates Foundation", "Fundación Bill y Melinda Gates", "BMGF"]
 tags: [gates-foundation, salud-global, filantrocapitalismo, bioseguridad, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Fundación Bill y Melinda Gates
@@ -54,3 +54,8 @@ Leida junto con [[GAVI]], [[CEPI]], [[World Health Organization]] y [[ID2020]], 
 - [[ID2020]]
 - [[One Health]]
 - [[Tecnocracia]]
+
+## Fuentes
+
+- [Referencia documental](https://www.gatesfoundation.org/) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

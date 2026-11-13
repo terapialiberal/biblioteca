@@ -1,5 +1,6 @@
 ---
 titulo: The Truman Show (El Panóptico De La Complacencia)
+fuente: "https://www.imdb.com/title/tt0120382/"
 tipo: "persona"
 fecha: 2026-02-25
 estado: activo
@@ -7,7 +8,7 @@ tags: [iniciacin, show, truman, ventana]
 tier_primario: "b"
 nivel_evidencia: "alto"
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # The Truman Show (El Panóptico De La Complacencia)

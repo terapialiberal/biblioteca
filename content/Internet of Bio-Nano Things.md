@@ -8,7 +8,8 @@ estado: activo
 aliases: ["Internet of Bio-Nano Things (IoBNT)", "IoBNT"]
 tags: [iobnt, nano, bio-digital, vigilancia-molecular, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
+marco_propio: true
 ---
 
 # Internet of Bio-Nano Things
@@ -64,3 +65,7 @@ Leido junto con [[Neuralink]] e [[Internet de los Cuerpos]], este nodo deja de p
 - [[Neuralink]]
 - [[00_MOC - Transhumanismo y Convergencia Bio-Digital]]
 - [[00_MOC - Tecnologia de Control]]
+
+## Fuentes
+
+- **Marco propio:** concepto de TL sin fuente externa posible. Se define en las piezas donde aparece: rastrearlo con `dossier "Internet of Bio-Nano Things"`.

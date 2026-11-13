@@ -8,7 +8,8 @@ estado: activo
 aliases: ["Bio-Identidad Digital (La Marca)"]
 tags: [bio-identidad, biometria, identidad-digital, scoring, control, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
+marco_propio: true
 ---
 
 # Bio-Identidad Digital
@@ -75,3 +76,7 @@ En TL, este nodo gana su forma mas fuerte cuando se conecta con [[Digital ID - G
 - [[Renta Basica Universal]]
 - [[00_MOC - Tecnologia de Control]]
 - [[00_MOC - Control Financiero]]
+
+## Fuentes
+
+- **Marco propio:** concepto TL que cruza identidad biométrica con gobernanza digital. Se define en las piezas donde aparece; la referencia técnica externa es la identificación biométrica del programa ID4D, que no sostiene la lectura.

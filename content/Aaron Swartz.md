@@ -1,5 +1,6 @@
 ---
 titulo: Aaron Swartz
+fuente: "https://www.justice.gov/archive/usao/ma/news/2011/July/SwartzAaronPR.html"
 tipo: "persona"
 fecha: 2026-03-04
 tier_primario: "c"
@@ -7,7 +8,7 @@ nivel_evidencia: "alto"
 estado: activo
 tags: [hacktivismo, open-access, rss, reddit, martir-digital]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Aaron Swartz: El Prometeo de la Información (V.3)

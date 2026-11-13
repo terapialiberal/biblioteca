@@ -8,7 +8,7 @@ estado: activo
 aliases: ["Internet de los Cuerpos (IoB)", "IoB"]
 tags: [iob, wearables, implantes, bio-digital, control, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Internet de los Cuerpos
@@ -65,3 +65,8 @@ Leido junto con [[ID2020]] y [[Genomic ID]], el nodo deja de parecer gadget futu
 - [[Genomic ID]]
 - [[00_MOC - Salud Global y Bioseguridad]]
 - [[00_MOC - Tecnologia de Control]]
+
+## Fuentes
+
+- [Referencia documental](https://en.wikipedia.org/wiki/Internet_of_bodies) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

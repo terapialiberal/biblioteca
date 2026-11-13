@@ -8,7 +8,7 @@ estado: activo
 aliases: ["Teoría del Rimland", "Teoría del Rimland (Nicholas Spykman)", "Rimland"]
 tags: [rimland, spykman, geopolitica, chokepoints, contencion, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Teoria del Rimland
@@ -59,3 +59,8 @@ Leída junto con [[Policrisis Sistemica]], la teoría deja de ser doctrina conge
 - [[China Taiwan Escalada 2026]]
 - [[Proyecto mBridge]]
 - [[00_MOC - Rimland]]
+
+## Fuentes
+
+- [Rimland — Wikipedia](https://en.wikipedia.org/wiki/Rimland) — la tesis de Spykman (1944): quién controla el borde euroasiático controla el mundo, y por qué desplazó a Mackinder.
+- **Qué es nuestro:** aplicarlo a rutas, corredores y chokepoints de hoy es nuestra lectura; la fuente sostiene la teoría geopolítica original.

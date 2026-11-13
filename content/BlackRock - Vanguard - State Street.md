@@ -9,7 +9,7 @@ estado: activo
 aliases: ["Big Three", "La Trifecta Del Control Financiero", "BlackRock - Vanguard - State Street: La Trifecta Del Control Financiero"]
 fuentes_clave: []
 tags: [big-three, blackrock, vanguard, state-street, control-financiero, tl-intel-v3]
-sin_fuente: true
+sin_fuente: false
 ---
 
 # [[BlackRock - Vanguard - State Street]]
@@ -128,3 +128,9 @@ Mirar la `Big Three` como bloque evita el error de personalizar demasiado el an�
 
 - [[Propiedad Común como Gobierno Indirecto]] — mecanismo formalizado.
 - [[Estrecho de Ormuz]] — chokepoint cuyo toll se administra con la misma gente sentada en la mesa (leases Aramco, Ukraine Development Fund, consorcios IMEC/Gaza).
+
+## Fuentes
+
+- [BlackRock — Wikipedia](https://en.wikipedia.org/wiki/BlackRock) — tamaño, composición y origen de la gestora.
+- [Formularios 13F — SEC EDGAR](https://www.sec.gov/edgar/searchedgar/companysearch) — las posiciones declaradas trimestralmente por cada gestora: la fuente primaria de «cuánto controlan».
+- **Cómo verificarlo:** la afirmación «son dueños del juego» se comprueba en los 13F, accionista por accionista. Sin ese documento es una impresión, no un dato.

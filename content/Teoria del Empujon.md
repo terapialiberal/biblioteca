@@ -8,7 +8,7 @@ estado: activo
 aliases: ["Teoría del Empujón (Nudge Theory)", "Nudge Theory"]
 tags: [nudge, teoria-del-empujon, comportamiento, paternalismo, gobernanza, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Teoria del Empujon
@@ -49,3 +49,13 @@ También sirve para ver cómo técnicas nacidas o popularizadas en economía con
 - [[Behavioural Insights Team]]
 - [[Compliance]]
 - [[00_MOC - Operaciones Psicologicas]]
+
+## Fuentes
+
+- [Referencia documental](https://es.wikipedia.org/wiki/Teor%C3%ADa_del_empuj%C3%B3n) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.
+
+## Fuentes
+
+- [Referencia documental](https://es.wikipedia.org/wiki/Teor%C3%ADa_del_empuj%C3%B3n) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

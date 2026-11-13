@@ -8,7 +8,7 @@ estado: activo
 aliases: ["United States Agency for International Development"]
 tags: [usaid, soft-power, cambio-de-regimen, desarrollo, geopolitica, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # USAID
@@ -64,3 +64,8 @@ La nota venia en formato legacy, demasiado cerrada y con problemas de tono y enc
 - [[Revolucion del color]]
 - [[00_MOC - Redes de Poder]]
 - [[00_MOC - Operaciones Encubiertas]]
+
+## Fuentes
+
+- [Referencia documental](https://en.wikipedia.org/wiki/USAID) — el hecho, la organización o el proyecto: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

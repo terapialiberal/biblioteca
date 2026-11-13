@@ -8,7 +8,7 @@ estado: activo
 aliases: ["Poder blando", "Hard Power", "Smart Power", "Soft Power (Poder Blando)"]
 tags: [soft-power, hegemonia, cultura, medios, influencia, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Soft Power
@@ -35,3 +35,8 @@ El soft power no reemplaza al hard power: lo prepara, lo legitima y lo abarata. 
 - [[Open Society Foundations]]
 - [[NED (National Endowment for Democracy)]]
 - [[00_MOC - Medios y Legitimacion]]
+
+## Fuentes
+
+- [Referencia documental](https://en.wikipedia.org/wiki/Soft_power) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

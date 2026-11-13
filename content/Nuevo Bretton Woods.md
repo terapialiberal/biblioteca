@@ -8,7 +8,8 @@ nivel_evidencia: medio
 estado: activo
 tags: [nuevo-bretton-woods, sistema-monetario, dolar, reset, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
+marco_propio: true
 ---
 
 # Nuevo Bretton Woods
@@ -68,3 +69,7 @@ Su valor en TL no depende de probar una nueva conferencia estilo 1944. Depende d
 - [[Stephen Miran]]
 - [[Scott Bessent]]
 - [[Kevin Warsh]]
+
+## Fuentes
+
+- **Marco propio:** concepto de TL sin fuente externa posible. Se define en las piezas donde aparece: rastrearlo con `dossier "Nuevo Bretton Woods"`.

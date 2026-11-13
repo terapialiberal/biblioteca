@@ -1,5 +1,6 @@
 ---
 titulo: Robert Fludd
+fuente: "https://www.rep.routledge.com/articles/biographical/fludd-robert-1574-1637/v-1"
 tipo: persona
 fecha: 2026-04-27
 estado: activo
@@ -7,7 +8,7 @@ tags: [robert-fludd, hermetismo, rosacrucismo, simbolismo, esoterismo, tl-intel-
 tier_primario: c
 nivel_evidencia: alto
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Robert Fludd

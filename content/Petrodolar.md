@@ -7,7 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [petrodolar, dolar, energia, demanda-global, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Petrodolar
@@ -49,3 +49,8 @@ Su utilidad actual crece cuando se lo usa como punto de comparación y no como r
 - [[Treasuries]]
 - [[Reanclaje Hibrido]]
 - [[Nuevo Bretton Woods]]
+
+## Fuentes
+
+- [Petrodollar recycling — Wikipedia](https://en.wikipedia.org/wiki/Petrodollar) — el mecanismo descriptivo.
+- **Ficha de entrada:** el desarrollo vive en [[Sistema Petrodolar]]. Esta ficha queda como puerta de búsqueda, no como análisis paralelo: dos fichas diciendo lo mismo es cómo se duplica un error.

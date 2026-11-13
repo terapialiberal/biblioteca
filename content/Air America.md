@@ -8,7 +8,7 @@ estado: activo
 aliases: ["Air America (La Aerolínea De La CIA)"]
 tags: [air-america, cia, logistica-encubierta, sudeste-asiatico, narcotrafico, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Air America
@@ -59,3 +59,8 @@ Leida junto con [[CIA]] y [[Club Safari]], la nota gana más fuerza porque muest
 - [[00_MOC - Operaciones Encubiertas]]
 - [[Club Safari]]
 - [[00_MOC - Inteligencia Clasica y Operaciones Historicas]]
+
+## Fuentes
+
+- [Agencia Central de Inteligencia — Wikipedia](https://es.wikipedia.org/wiki/Agencia_Central_de_Inteligencia) — referencia enciclopédica del hecho, la persona o la organización.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

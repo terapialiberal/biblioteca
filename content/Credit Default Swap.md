@@ -1,5 +1,6 @@
 ---
 titulo: Credit Default Swap
+fuente: "https://www.db.com/files/documents/dodd-frank/ISDA0721-Credit-Annex.pdf"
 tipo: concepto
 fecha: 2026-05-02
 capa_tema: b
@@ -8,7 +9,7 @@ estado: activo
 aliases: ["CDS", "Credit Default Swaps", "Seguro contra default"]
 tags: [cds, derivados, default, deuda, riesgo, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Credit Default Swap

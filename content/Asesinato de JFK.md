@@ -7,7 +7,7 @@ capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
 tags: [allen, asesinato, kennedy, warren]
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Asesinato De JFK (John F. Kennedy)
@@ -124,3 +124,8 @@ Antes de 11/22/63: Presidente manda. Después: Deep state manda. El asesinato fu
 - [[Golpe de estado]]
 - [[Lyndon Baines Johnson]]
 - [[Bahía de Cochinos]]
+
+## Fuentes
+
+- [Referencia documental](https://en.wikipedia.org/wiki/Assassination_of_John_F._Kennedy) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

@@ -1,5 +1,6 @@
 ---
 titulo: Inflación
+fuente: "https://www.ecb.europa.eu/ecb/educational/explainers/tell-me-more/html/what_is_inflation.en.html"
 tipo: concepto
 fecha: 2026-05-02
 capa_tema: b
@@ -8,7 +9,7 @@ estado: activo
 aliases: ["Inflacion", "Inflación (Mecanismo)"]
 tags: [inflacion, moneda, deuda, control-financiero, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Inflación

@@ -1,13 +1,14 @@
 ---
 publish: true
 titulo: "Reza Pahlavi"
+fuente: "https://rezapahlavi.org/en"
 tipo: persona
 tier_primario: b
 nivel_evidencia: alto
 estado: activo
 tags: [iran, pahlavi, transicion, iran-prosperity-project, regimen-change, occidente, sha, tier-b, tl-intel-v3]
 fecha: 2026-03-12
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Reza Pahlavi

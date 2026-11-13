@@ -8,7 +8,7 @@ estado: activo
 aliases: ["Operacion Mockingbird: El Eco-Camara De La Matrix"]
 tags: [mockingbird, cia, medios, propaganda, guerra-cognitiva, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Operación Mockingbird
@@ -44,3 +44,8 @@ Leida junto con [[CIA]] y [[Comite Church]], la nota también sirve para fijar u
 - [[Edward Bernays]]
 - [[OSS]]
 - [[00_MOC - Inteligencia Clasica y Operaciones Historicas]]
+
+## Fuentes
+
+- [Referencia documental](https://en.wikipedia.org/wiki/Operation_Mockingbird) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

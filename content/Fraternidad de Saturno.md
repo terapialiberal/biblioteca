@@ -1,5 +1,6 @@
 ---
 titulo: Fraternidad De Saturno (Fraternitas Saturni)
+fuente: "https://fraternitas.de/zeittafel/"
 tipo: "concepto"
 fecha: 2026-02-25
 estado: activo
@@ -7,7 +8,7 @@ tags: [astrologa, fraternidad, ordo, saturno]
 capa_tema: "b"
 nivel_evidencia: "alto"
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Fraternidad De Saturno (Fraternitas Saturni)

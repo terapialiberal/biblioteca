@@ -8,7 +8,7 @@ estado: activo
 aliases: ["Captura Regulatoria (Regulatory Capture)", "Regulatory Capture"]
 tags: [captura-regulatoria, regulacion, lobby, monopolio, estado-corporacion, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Captura Regulatoria
@@ -49,3 +49,8 @@ También sirve para leer la frontera borrosa entre burocracia y negocio: la agen
 - [[SEC (Securities and Exchange Commission)]]
 - [[FDA]]
 - [[00_MOC - Captura Regulatoria y Puertas Giratorias]]
+
+## Fuentes
+
+- [Referencia documental](https://en.wikipedia.org/wiki/Regulatory_capture) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

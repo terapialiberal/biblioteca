@@ -7,7 +7,7 @@ nivel_evidencia: medio
 estado: activo
 tags: [cambridge-analytica, microtargeting, elecciones, facebook, datos, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Cambridge Analytica
@@ -48,3 +48,8 @@ Su relevancia sigue vigente porque el cierre formal de la empresa no eliminó la
 - [[Gobernanza Algoritmica]]
 - [[Steve Bannon]]
 - [[Brexit]]
+
+## Fuentes
+
+- [Referencia documental](https://en.wikipedia.org/wiki/Cambridge_Analytica) — el hecho, la organización o la persona: registro verificable.
+- **Qué es nuestro:** la lectura, la clasificación y las conexiones son de TL; la fuente sostiene el hecho, no la interpretación.

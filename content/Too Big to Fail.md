@@ -1,5 +1,6 @@
 ---
 titulo: Too Big to Fail
+fuente: "https://www.gao.gov/products/gao-14-621"
 tipo: concepto
 fecha: 2026-05-02
 capa_tema: b
@@ -8,7 +9,7 @@ estado: activo
 aliases: ["Too Big to Fail (Bancos Sistémicos)", "Demasiado grande para caer"]
 tags: [too-big-to-fail, banca-sistemica, bailout, moral-hazard, tl-intel-v3]
 publish: true
-sin_fuente: true
+sin_fuente: false
 ---
 
 # Too Big to Fail
