@@ -73,6 +73,40 @@ Deuda general por debajo de 120% antes de 2028 con primario positivo (gana la co
 - [[China]] — el caso donde ni siquiera hay de dónde agarrar.
 - [[All Wars Are Bankers Wars (Rivero)]] — EEUU como emisor del mecanismo que el video describe.
 
+## Capa Factbook (archivo CIA)
+
+> Agregado al archivarse el Factbook. No altera el resto de la ficha.
+
+| Dato | Valor | Edición |
+|---|---|---|
+| Gobierno | constitutional federal republic | 18-04-2024 |
+| Capital | Washington, DC | 18-04-2024 |
+| Superficie | about half the size of Russia; about three-tenths the size of Africa; about half the size of South America (or slightly larger than Brazil); slightly larger th… | 18-04-2024 |
+| Población | 339,665,118 (2023 est.) | 18-04-2024 |
+| Independencia | 4 July 1776 (declared independence from Great Britain); 3 September 1783 (recognized by Great Britain) | 18-04-2024 |
+| Sistema legal | common law system based on English common law at the federal level; state legal systems based on common law, except Louisiana, where state law is based on Napo… | 18-04-2024 |
+
+- **Oleoductos:** 1,984,321 km natural gas, 240,711 km petroleum products (2013)
+- **Puertos:** major seaport(s): Atlantic Ocean: Baltimore, Charleston, Hampton Roads, New York/New Jersey, Savannah | Pacific Ocean: Long Beach, Los Angeles, Oakland, Seattle/Tacoma | Gulf of Mexico: Houston; oil terminal(s): LOOP terminal, Haymark terminal; container port(s) (TEUs): Charleston (2,751,442), Hampton Roads (3,522,834…
+- **Ferrocarriles:** total: 293,564.2 km (2014); standard gauge: 293,564.2 km (2014) 1.435-m gauge
+- **Marina mercante:** total: 3,533 (2023); by type: bulk carrier 4, container ship 60, general cargo 96, oil tanker 68, other 3,305
+- **Aeropuertos:** 15,873 (2024)
+- **Fuerzas:** United States Armed Forces (aka US Military): US Army (USA), US Navy (USN; includes US Marine Corps or USMC), US Air Force (USAF), US Space Force (USSF); US Coast Guard (USCG); National Guard (Army National Guard and Air National Guard) (2024)
+
+**Disputas (18-04-2024):** US-Antarctica: the US has made no territorial claim in Antarctica (but has reserved the right to do so) and does not recognize the claims of any other states US-Bahamas: the Bahamas and US have not been able to agree on a maritime boundary; the two countries have met several times to define their maritime boundary US-Canada: unresolved maritime boundary in the Beaufort Sea and Arctic Ocean and differ on the status of the Northwest Passage but continue to work cooperatively | US-Canada-Mexico: the US has intensified domestic security measures and is collaborating closely with its neighbors, Canada and Mexico, to monitor and control legal and illegal personnel, transport, and commodities acro…
+
+**Ilícitos (17-07-2025):** world's largest consumer of cocaine (shipped from Colombia through Mexico and the Caribbean), Colombian heroin, and Mexican heroin and marijuana; major consumer of ecstasy and Mexican methamphetamine; minor consumer of high-quality Southeast Asian heroin; illicit producer of cannabis, marijuana, depressants, stimulants, hallucinogens, and methamphetamine; money-laundering center
+
+**Activos en disputa:** Antarctica — United States; Canada — United States
+
+## Lectura TL
+
+Del otro lado del Paso del Noroeste y del Beaufort: EE.UU. sostiene la tesis del tránsito libre y no reclama soberanía sobre el paso. La coherencia con su doctrina marítima global es total.
+
+Para el marco, EE.UU. es el actor que **puede permitirse no administrar** una ruta mientras controla las que importan. La diferencia entre controlar y cobrar es la que separa hegemonía de peaje.
+
+**Falsador:** aceptación formal de la tesis canadiense de aguas interiores.
+
 ## Fuentes
 
 - FRED (deuda federal 122,6% Q1-2026): https://fred.stlouisfed.org/series/GFDEGDQ188S
@@ -90,3 +124,8 @@ Deuda general por debajo de 120% antes de 2028 con primario positivo (gana la co
 - SHL 2024 (extranjeros 21% valores): https://ticdata.treasury.gov/resource-center/data-chart-center/tic/Documents/shl2024r.pdf
 - EIA (GNL 2024 mayor exportador): https://www.eia.gov/todayinenergy/detail.php?id=64844
 - EIA (GNL global 2025): https://www.eia.gov/todayinenergy/detail.php?id=67864
+
+## Activos en disputa (cruce con la Maestra)
+
+- **Canada — United States** — activo que la Maestra ya nombra: **Ártico**
+- **Antarctica — United States** — hueco del mapa: **Antártida**

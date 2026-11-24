@@ -67,6 +67,30 @@ Déficit bajo 2,5% en 2027 con deuda frenada (ajuste real). IED nueva sobre 15.0
 - [[Cadena de Suministro]]
 - [[China]]
 
+## Capa Factbook (archivo CIA)
+
+> Agregado al archivarse el Factbook. No altera el resto de la ficha.
+
+| Dato | Valor | Edición |
+|---|---|---|
+| Gobierno | federal presidential republic | 18-04-2024 |
+| Capital | Mexico City (Ciudad de Mexico) | 18-04-2024 |
+| Superficie | slightly less than three times the size of Texas | 18-04-2024 |
+| Población | 129,875,529 (2023 est.) | 18-04-2024 |
+| Independencia | 16 September 1810 (declared independence from Spain); 27 September 1821 (recognized by Spain) | 18-04-2024 |
+| Sistema legal | civil law system with US constitutional law influence; judicial review of legislative acts | 18-04-2024 |
+
+- **Oleoductos:** 17,210 km natural gas (2022), 9,757 km oil (2017), 10,237 km refined products (2020)
+- **Puertos:** major seaport(s): Altamira, Coatzacoalcos, Lazaro Cardenas, Manzanillo, Veracruz; oil terminal(s): Cayo Arcas terminal, Dos Bocas terminal; cruise port(s): Cancun, Cozumel, Ensenada; container port(s) (TEUs): Lazaro Cardenas (1,686,076), Manzanillo (3,371,400), Veracruz (1,165,043) (2021); LNG terminal(s) (import): Al…
+- **Ferrocarriles:** total: 23,389 km (2017); standard gauge: 23,389 km (2017) 1.435-m gauge (27 km electrified)
+- **Marina mercante:** total: 674 (2023); by type: bulk carrier 4, general cargo 11, oil tanker 32, other 627
+- **Aeropuertos:** 1,485 (2024)
+- **Fuerzas:** the Mexican Armed Forces (Fuerzas Armadas de México) are divided between the Secretariat of National Defense and the Secretariat of the Navy: | Secretariat of National Defense (Secretaria de Defensa Nacional, SEDENA): Army (Ejercito), Mexican Air Force (Fuerza Aerea Mexicana, FAM), National Guard;…
+
+**Disputas (18-04-2024):** Mexico-Belize: Mexico and Belize are working to solve minor border demarcation discrepancies arising from inaccuracies in the 1898 border treaty Mexico-Guatemala: Mexico must deal with thousands of impoverished Guatemalans and other Central Americans who cross the porous border looking for work in Mexico and the US Mexico-US: the US has intensified security measures to monitor and control legal and illegal persons, transport, and commodities across its border with Mexico
+
+**Ilícitos (17-07-2025):** significant source and transit country for fentanyl, fentanyl-laced counterfeit pills, other synthetic opioids, cocaine from South America, heroin, marijuana, and methamphetamine destined for the United States; a destination for synthetic drug precursor chemicals from China, India, and other countries
+
 ## Fuentes
 
 - FMI (Art IV México sep-2025): https://www.imf.org/es/news/articles/2025/09/19/cs-mexico-staff-concluding-statement-of-the-2025-article-iv-mission

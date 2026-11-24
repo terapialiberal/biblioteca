@@ -69,6 +69,40 @@ Deuda bajo 98% en 24 meses con superávit primario (se estabiliza). LCH recupera
 - [[Petrodólar]]
 - [[All Wars Are Bankers Wars (Rivero)]]
 
+## Capa Factbook (archivo CIA)
+
+> Agregado al archivarse el Factbook. No altera el resto de la ficha.
+
+| Dato | Valor | Edición |
+|---|---|---|
+| Gobierno | parliamentary constitutional monarchy; a Commonwealth realm | 18-04-2024 |
+| Capital | London | 18-04-2024 |
+| Superficie | twice the size of Pennsylvania; slightly smaller than Oregon | 18-04-2024 |
+| Población | 68,138,484 (2023 est.) United Kingdom | 18-04-2024 |
+| Independencia | no official date of independence: 927 (minor English kingdoms unite); 3 March 1284 (enactment of the Statute of Rhuddlan uniting England and Wales); 1536 (Act… | 18-04-2024 |
+| Sistema legal | common law system; has nonbinding judicial review of Acts of Parliament under the Human Rights Act of 1998 | 18-04-2024 |
+
+- **Oleoductos:** 502 km condensate, 9 km condensate/gas, 28,603 km gas, 59 km liquid petroleum gas, 5,256 km oil, 175 km oil/gas/water, 4,919 km refined products, 255 km water (2013)
+- **Puertos:** major seaport(s): Dover, Felixstowe, Immingham, Liverpool, London, Southampton, Teesport (England); Forth Ports (Scotland); Milford Haven (Wales); oil terminal(s): Fawley Marine terminal, Liverpool Bay terminal (England); Braefoot Bay terminal, Finnart oil terminal, Hound Point terminal (Scotland); container port(s) (…
+- **Ferrocarriles:** total: 16,390 km (2020) 6,167 km electrified
+- **Marina mercante:** total: 868 (2023); by type: bulk carrier 34, container ship 46, general cargo 62, oil tanker 13, other 713
+- **Aeropuertos:** 1,043 (2024)
+- **Fuerzas:** United Kingdom Armed Forces (aka British Armed Forces, aka His Majesty's Armed Forces): British Army, Royal Navy (includes Royal Marines), Royal Air Force (2024)
+
+**Disputas (18-04-2024):** UK-Argentina: UK rejects sovereignty talks requested by Argentina, which still claims the Falkland Islands (Islas Malvinas) and South Georgia and the South Sandwich Islands UK-Argentina-Chile: the UK’s territorial claim in Antarctica (British Antarctic Territory) overlaps Argentine claim and partially overlaps Chilean claim UK-Denmark: the UK, Iceland, and Ireland dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; Iceland, Norway, and the Faroe Islands signed an agreement in 2019 extending the Faroe Islands’ northern continental shelf area UK (Gibraltar)-Spain: in 2002, Gibraltar residents voted overwhelmingly by referendum to reject any "shared soverei…
+
+**Ilícitos (17-07-2025):** a major consumer and transshipment point, though not a source, for illicit drugs; among the highest consumer of heroin and cocaine in Europe; one of the largest markets for cannabis; a major source of precursor or essential chemicals used in the production of illicit narcotics
+
+**Activos en disputa:** Argentina — United Kingdom
+
+## Lectura TL
+
+El Reino Unido conserva el enclave y con él una posición de observación sobre el acceso al Mediterráneo, sin administrar el tráfico. Es la lógica inversa a la de H-02: no cobra peaje, mantiene presencia.
+
+Para el marco sirve como control, no como caso: si todo el tráfico marítimo va a ser administrado, Gibraltar es el ejemplo de lo que **no** cambió —un punto de control que sigue siendo militar-estratégico sin ser comercial.
+
+**Falsador:** pérdida efectiva de la base o del control portuario, o incorporación del enclave a un régimen de administración compartida.
+
 ## Fuentes
 
 - FMI DataMapper (UK): https://www.imf.org/external/datamapper/GGXWDG\_NGDP@WEO/GBR
@@ -84,3 +118,9 @@ Deuda bajo 98% en 24 meses con superávit primario (se estabiliza). LCH recupera
 - Guardian (Corfú): https://www.theguardian.com/politics/2008/oct/22/georgeosborne-partyfunding-olegderipaska
 - Reuters (Treasuries récord jun-2025): https://www.reuters.com/business/foreign-holdings-us-treasuries-climb-record-913-trillion-june-2025-08-15/
 - Reuters (ventas jun-2026): https://www.reuters.com/world/china/foreign-holdings-us-treasuries-fall-june-led-by-japan-uk-china-data-shows-2026-08-17/
+
+## Activos en disputa (cruce con la Maestra)
+
+- **Argentina — United Kingdom** — activo que la Maestra ya nombra: **Malvinas**
+- **Spain — United Kingdom** — activo que la Maestra ya nombra: **Gibraltar**
+- **Chile — United Kingdom** — hueco del mapa: **Antártida**

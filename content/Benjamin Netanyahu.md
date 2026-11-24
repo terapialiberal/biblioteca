@@ -1,7 +1,8 @@
 ---
 titulo: Benjamin Netanyahu
 tipo: persona
-fecha: 2026-04-18
+fecha: 2026-11-19
+creada: 2026-04-18
 vigencia: 2026-06-17
 estado: activo
 aliases: ["Bibi Netanyahu", "Bibi"]
@@ -52,6 +53,12 @@ Su figura es clave para leer por que Iran vuelve una y otra vez al centro del ta
 - [[Sheldon Adelson]]
 - [[Samson Option]]
 - [[Abbas Araghchi]]
+
+## Shenzhen y la cláusula que lo cubre (2026-11-19)
+
+La cláusula tercera de la «Declaración hacia la Paz» firmada por Trump, Xi y Putin llega también a su casa: la CPI (Corte Penal Internacional) «no debe abusar de su jurisdicción», dicen los tres — con órdenes de captura vigentes sobre Putin por la deportación de niños ucranianos y sobre **Netanyahu por presuntos crímenes de guerra y de lesa humanidad en Gaza** (El País) \[13]. El aliado de Trump queda cubierto por la misma amnistía con membrete que el prófugo ruso. El archivo de Wikispooks para el contexto: lo clasifica como «deep politician» de larga duración — PM en tres eras, con la policía nacional israelí aconsejando procesarlo por sobornos y la prensa preguntándose cómo sigue siendo posible su permanencia; soldado del Sayeret Matkal tras 1967; y el testimonio del 12-09-2002 ante el Congreso de EE.UU. sobre la amenaza nuclear iraquí — seis meses antes de que la coalición invadiera Irak sobre la premisa falsa de las armas de destrucción masiva.
+
+**Lectura:** \[sostenible] — la cobertura de la cláusula es textual \[13]; el archivo del testimonio de 2002 es público. El hombre que pidió la guerra de Irak ahora cubierto por la cláusula anti-CPI de la paz de Shenzhen.
 
 ## Fuentes
 

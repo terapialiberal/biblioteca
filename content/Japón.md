@@ -71,6 +71,38 @@ BOJ llegando a terminal de 1,75-2,00% a mediados de 2027 sin desorden (normaliza
 - [[BRICS]]
 - [[Rusia]]
 
+## Capa Factbook (archivo CIA)
+
+> Agregado al archivarse el Factbook. No altera el resto de la ficha.
+
+| Dato | Valor | Edición |
+|---|---|---|
+| Gobierno | parliamentary constitutional monarchy | 18-04-2024 |
+| Capital | Tokyo | 18-04-2024 |
+| Superficie | slightly smaller than California | 18-04-2024 |
+| Población | 123,719,238 (2023 est.) | 18-04-2024 |
+| Independencia | 3 May 1947 (current constitution adopted as amendment to Meiji Constitution); notable earlier dates: 11 February 660 B.C. (mythological date of the founding of… | 18-04-2024 |
+| Sistema legal | civil law system based on German model; system also reflects Anglo-American influence and Japanese traditions; judicial review of legislative acts in the Supre… | 18-04-2024 |
+
+- **Oleoductos:** 4,456 km gas, 174 km oil, 104 km oil/gas/water (2013)
+- **Puertos:** major seaport(s): Chiba, Kawasaki, Kobe, Mizushima, Moji, Nagoya, Osaka, Tokyo, Tomakomai, Yokohama; container port(s) (TEUs): Kobe (2,823,774), Nagoya (2,725,597), Osaka (2,425,638), Tokyo (4,325,956), Yokohama (2,861,197) (2021); LNG terminal(s) (import): Chita, Chita Midorihama, Fukuoka, Futtsu, Hachinone, Hakodate…
+- **Ferrocarriles:** total: 27,311 km (2015); standard gauge: 4,800 km (2015) 1.435-m gauge (4,800 km electrified); narrow gauge: 124 km (2015) 1.372-m gauge (124 km electrified); dual gauge: 132 km (2015) 1.435-1.067-m…
+- **Marina mercante:** total: 5,229 (2023); by type: bulk carrier 166, container ship 49, general cargo 1,893, oil tanker 666, other 2,455
+- **Aeropuertos:** 279 (2024)
+- **Fuerzas:** Japan Self-Defense Force (JSDF): Ground Self-Defense Force (Rikujou Jieitai, GSDF; includes aviation), Maritime Self-Defense Force (Kaijou Jieitai, MSDF; includes naval aviation), Air Self-Defense Force (Koukuu Jieitai, ASDF) (2024)
+
+**Disputas (18-04-2024):** Japan-China-Taiwan: the Japanese-administered Senkaku Islands (Diaoyu Tai) are also claimed by China and Taiwan; Senkaku-shoto is situated near key shipping lanes, rich fishing grounds, and possibly significant oil and natural gas reserves Japan-Russia: the sovereignty dispute over the islands of Etorofu, Kunashiri, and Shikotan, and the Habomai group, known in Japan as the "Northern Territories" and in Russia as the "Southern Kuril Islands," occupied by the Soviet Union in 1945, now administered by Russia and claimed by Japan, remains the primary sticking point to signing a peace treaty formally ending World War II hostilities Japan-South Korea: Japan and South Korea claim Liancourt Rocks…
+
+**Activos en disputa:** Japan — Taiwan
+
+## Lectura TL
+
+El texto del archivo es literal: las Senkaku están "cerca de rutas de navegación clave, caladeros ricos y posiblemente reservas significativas de petróleo y gas natural". No hace falta interpretar: la CIA escribió el motivo.
+
+Japón es el actor que depende por completo de rutas que no controla —importa casi todo su energía— y por eso cada isla sin población vale. La lectura TL: **la dependencia de ruta es la forma pacífica de la vulnerabilidad**.
+
+**Falsador:** resolución diplomática del estatus de las islas o reducción verificable de la dependencia energética importada.
+
 ## Fuentes
 
 - FMI DataMapper (Japón 204,4): https://www.imf.org/external/datamapper/GGXWDG\_NGDP@WEO/KOR/ADVEC/EU/AUS/CAN/JPN/GBR/USA
@@ -85,3 +117,8 @@ BOJ llegando a terminal de 1,75-2,00% a mediados de 2027 sin desorden (normaliza
 - Reuters (ventas jun-2026): https://www.reuters.com/world/china/foreign-holdings-us-treasuries-fall-june-led-by-japan-uk-china-data-shows-2026-08-17/
 - CRS (Japón 12,79% deuda extranjera): https://www.congress.gov/crs\_external\_products/RS/HTML/RS22331.web.html
 - GPIF (FY2025, 293,6 billones): https://www.gpif.go.jp/en/performance/73509681gpif/gpifannual\_report\_summary\_2025\_en.pdf
+
+## Activos en disputa (cruce con la Maestra)
+
+- **Japan — Taiwan** — activo que la Maestra ya nombra: **Taiwán, Senkaku, gas**
+- **Japan — Russia** — hueco del mapa: **Kuriles**

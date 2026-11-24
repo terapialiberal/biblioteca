@@ -31,7 +31,7 @@ sin_fuente: false
 4. **La tasa larga es el precio de todo.** Duration → tasa larga → tasa de descuento → múltiplos. Opera en precio, no en cantidad. → [[Tasa larga y múltiplos]]
 5. **Alguien tiene que comerse el déficit.** Sin comprador marginal nombrado no hay mecanismo, solo intuición. → [[Quién absorbe la deuda]]
 
-Fichas de la capa: [[De dónde sale el dólar]] · [[El balance del banco central]] · [[El déficit como inyección]] · [[Recompras del Tesoro]] · [[Tasa larga y múltiplos]] · [[Quién absorbe la deuda]] · [[El IPO y la asignación]]
+Fichas de la capa: [[De dónde sale el dólar]] · [[El balance del banco central]] · [[El déficit como inyección]] · [[Recompras del Tesoro]] · [[Tasa larga y múltiplos]] · [[Quién absorbe la deuda]] · [[El IPO y la asignación]] · [[Oro vs Fiat]]
 
 ## Nodos Centrales
 
@@ -345,6 +345,8 @@ Fichas de la capa: [[De dónde sale el dólar]] · [[El balance del banco centra
 
 - [[Benoît Mandelbrot.md|Benoît Mandelbrot]]
 
+- [[Bezalel Smotrich.md|Bezalel Smotrich]]
+
 - [[BlackRock.md|BlackRock]]
 
 - [[BlackRock - Vanguard - State Street.md|BlackRock - Vanguard - State Street]]
@@ -409,6 +411,8 @@ Fichas de la capa: [[De dónde sale el dólar]] · [[El balance del banco centra
 
 - [[Deflación.md|Deflación]]
 
+- [[Deflación de Deuda y el Nuevo Bretton Woods.md|Deflación de Deuda y el Nuevo Bretton Woods]]
+
 - [[Deuda Soberana.md|Deuda Soberana]]
 
 - [[Deutsche Bank.md|Deutsche Bank]]
@@ -418,6 +422,10 @@ Fichas de la capa: [[De dónde sale el dólar]] · [[El balance del banco centra
 - [[Dinero Programable.md|Dinero Programable]]
 
 - [[Domingo Cavallo.md|Domingo Cavallo]]
+
+- [[99_AI/00_BOOT/ejemplos/EJEMPLO_PATREON.md|EJEMPLO_PATREON]]
+
+- [[99_AI/00_BOOT/ejemplos/EJEMPLO_SUBSTACK.md|EJEMPLO_SUBSTACK]]
 
 - [[El balance del banco central.md|El balance del banco central]]
 
@@ -505,6 +513,8 @@ Fichas de la capa: [[De dónde sale el dólar]] · [[El balance del banco centra
 
 - [[Ley Glass-Steagall.md|Ley Glass-Steagall]]
 
+- [[Lloyds Bank.md|Lloyds Bank]]
+
 - [[Long-Term Capital Management.md|Long-Term Capital Management]]
 
 - [[Luxemburgo.md|Luxemburgo]]
@@ -574,6 +584,8 @@ Fichas de la capa: [[De dónde sale el dólar]] · [[El balance del banco centra
 - [[Shock de Nixon.md|Shock de Nixon]]
 
 - [[Singapur.md|Singapur]]
+
+- [[Smotrich.md|Smotrich]]
 
 - [[Standard Chartered.md|Standard Chartered]]
 

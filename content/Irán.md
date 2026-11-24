@@ -33,6 +33,40 @@ publish: true
 
 **Fractura interna (R-7):** IRGC-estado (petróleo sombra, Quds) vs clero (legitimidad) vs bazar (quiere sanciones afuera). Sucesión abierta = la disputa por el botín sin árbitro. Falsable: purga cruzada IRGC-clero en 2027.
 
+## Capa Factbook (archivo CIA)
+
+> Agregado al archivarse el Factbook. No altera el resto de la ficha.
+
+| Dato | Valor | Edición |
+|---|---|---|
+| Gobierno | theocratic republic | 18-04-2024 |
+| Capital | Tehran | 18-04-2024 |
+| Superficie | almost 2.5 times the size of Texas; slightly smaller than Alaska | 18-04-2024 |
+| Población | 87,590,873 (2023 est.) | 18-04-2024 |
+| Independencia | 1 April 1979 (Islamic Republic of Iran proclaimed); notable earlier dates: ca. 550 B.C. (Achaemenid (Persian) Empire established); A.D. 1501 (Iran reunified un… | 18-04-2024 |
+| Sistema legal | religious legal system based on secular and Islamic law | 18-04-2024 |
+
+- **Oleoductos:** 7 km condensate, 973 km condensate/gas, 20,794 km gas, 570 km liquid petroleum gas, 8,625 km oil, 7,937 km refined products (2013)
+- **Puertos:** major seaport(s): Bandar-e Asaluyeh, Bandar Abbas, Bandar-e Emam Khomeyni; container port(s) (TEUs): Bandar Abbas
+- **Ferrocarriles:** total: 8,483.5 km (2014); standard gauge: 8,389.5 km (2014) 1.435-m gauge (189.5 km electrified); broad gauge: 94 km (2014) 1.676-m gauge
+- **Marina mercante:** total: 965 (2023); by type: bulk carrier 32, container ship 28, general cargo 398, oil tanker 86, other 421
+- **Aeropuertos:** 173 (2024)
+- **Fuerzas:** the military forces of Iran are divided between the Islamic Republic of Iran Regular Forces (Artesh) and the Islamic Revolutionary Guard Corps (Sepah): | Islamic Republic of Iran Regular Forces or Islamic Republic of Iran Army (Artesh): Ground Forces, Navy (includes marines), Air Force, Air Defense…
+
+**Disputas (18-04-2024):** Iran-Afghanistan: Iran protests Afghanistan's limiting flow of dammed Helmand River tributaries during drought; Afghan and Iranian commissioners have discussed boundary monument densification and resurvey Iran-Azerbaijan-Kazakhstan-Russia: Azerbaijan, Kazakhstan, and Russia ratified a Caspian seabed delimitation treaty in 2018 based on equidistance, while Iran continues to insist on a one-fifth slice of the sea Iran-Iraq: Iraq's lack of a maritime boundary with Iran prompts jurisdiction disputes beyond the mouth of the Shatt al Arab in the Persian Gulf | Iran-Kuwait: dispute over undemarcated maritime border and al Durra offshore gas field in the Arabian/Persian Gulf; talks continued as of…
+
+**Ilícitos (17-07-2025):** significant transit and destination country for opiates and cannabis products mainly from Afghanistan and Pakistan; produces and consumes methamphetamine and traffics it to international markets; one of the primary transshipment routes for Southwest Asian heroin to Europe; opium and cannabis most widely used drugs domestically along with increase in crystal methamphetamine
+
+**Activos en disputa:** Afghanistan — Iran
+
+## Lectura TL
+
+La disputa con los Emiratos por las islas Tunb Mayor, Tunb Menor y Abu Musa —ocupadas por Irán desde 1971, con ejercicios militares sobre ellas— se registra en el archivo como diferencia territorial. No lo es, o no es sólo eso: el valor de esas rocas es su posición a la entrada del estrecho de Ormuz.
+
+Es el caso donde el marco H-02 se ve mejor: la disputa insular es la **coartada jurídica** de la administración de un paso. Quien tiene las islas tiene el argumento para decidir quién pasa, cuánto paga y por qué carril. La renta de cuello de botella no necesita una guerra: necesita un título.
+
+**Falsador:** reapertura sostenida de Ormuz 60 días o más a volúmenes previos, sin peaje ni régimen de carriles (el TEST 60d ya fijado en H-02). Si eso pasa, la lectura cae.
+
 ## Fuentes
 
 Tranche B (sep-2026). https://fred.stlouisfed.org/series/IRNGGDGDPGDPPT
@@ -46,3 +80,8 @@ Tranche B (sep-2026). https://fred.stlouisfed.org/series/IRNGGDGDPGDPPT
 - https://www.fao.org/giews/countrybrief/country.jsp?code=IRN
 - https://iranmetalsmarket.ir/en/irans-copper-market/
 - https://data.un.org/en/iso/ir.html
+
+## Activos en disputa (cruce con la Maestra)
+
+- **Iran — Russia** — activo que la Maestra ya nombra: **Caspio**
+- **Iran — UAE** — activo que la Maestra ya nombra: **Ormuz**

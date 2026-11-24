@@ -65,6 +65,30 @@ Spread sobre 120pb por 30 días seguidos (contención rota). TPI activado con co
 - [[Estados Unidos]]
 - [[Federal Reserve]]
 
+## Capa Factbook (archivo CIA)
+
+> Agregado al archivarse el Factbook. No altera el resto de la ficha.
+
+| Dato | Valor | Edición |
+|---|---|---|
+| Gobierno | parliamentary republic | 18-04-2024 |
+| Capital | Rome | 18-04-2024 |
+| Superficie | almost twice the size of Georgia; slightly larger than Arizona | 18-04-2024 |
+| Población | 61,021,855 (2023 est.) | 18-04-2024 |
+| Independencia | 17 March 1861 (Kingdom of Italy proclaimed; Italy was not finally unified until 1871) | 18-04-2024 |
+| Sistema legal | civil law system; judicial review of legislation under certain conditions in Constitutional Court | 18-04-2024 |
+
+- **Oleoductos:** 20,223 km gas, 1,393 km oil, 1,574 km refined products (2013)
+- **Puertos:** major seaport(s): Augusta, Cagliari, Genoa, Livorno, Taranto, Trieste, Venice; oil terminal(s): Melilli (Santa Panagia) oil terminal, Sarroch oil terminal; container port(s) (TEUs): Genoa (2,557,847), Gioia Tauro (3,146,553) (2021); LNG terminal(s) (import): Panigaglia (La Spezia), Adriatic (Porto Levante), Oristano (…
+- **Ferrocarriles:** total: 18,475 km (2020) 12,936 km electrified
+- **Marina mercante:** total: 1,276 (2023); by type: bulk carrier 17, container ship 6, general cargo 109, oil tanker 95, other 1,049
+- **Aeropuertos:** 636 (2024)
+- **Fuerzas:** Italian Armed Forces (Forze Armate Italiane): Army (Esercito Italiano, EI), Navy (Marina Militare Italiana, MMI; includes aviation, marines), Italian Air Force (Aeronautica Militare Italiana, AMI); Carabinieri Corps (Arma dei Carabinieri, CC) (2024)
+
+**Disputas (18-04-2024):** Italy-Austria-Switzerland: borders are shifting because glacier peaks that had served as a natural boundary are melting
+
+**Ilícitos (17-07-2025):** important gateway for drug trafficking; organized crime groups allied with Colombian and Spanish groups trafficking cocaine to Europe
+
 ## Fuentes
 
 - FMI DataMapper (Italia ~138%): https://www.imf.org/external/datamapper/GGXWDG\_NGDP@WEO/OEMDC/ADVEC/WEOWORLD/ITA/USA/GRC/GBR/GRL

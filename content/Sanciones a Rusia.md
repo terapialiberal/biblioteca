@@ -1,7 +1,8 @@
 ---
 titulo: "Sanciones a Rusia: el Efecto Boomerang Y la Demolición de Europa"
 tipo: "concepto"
-fecha: 2026-02-25
+fecha: 2026-11-20
+creada: 2026-02-25
 capa_tema: "b"
 nivel_evidencia: "medio"
 estado: activo
@@ -45,3 +46,32 @@ sin_fuente: true
 ## Conclusión Del Análisis
 
 El Efecto Boomerang de las Sanciones nos enseña que **las leyes de la economía son inmunes a los decretos políticos de la élite**. Nos advierte que cuando una potencia intenta usar su moneda como arma, termina destruyendo la confianza que sostenía su propio poder. Para el habitante soberano del Tier C, el fracaso de las sanciones es la prueba de que el mundo unipolar ha terminado. La libertad real exige la soberanía económica basada en la realidad física (energía, alimentos, industria) y no en la manipulación de balances contables digitales que la Matrix de Tier A ya no puede controlar frente a la insurgencia del Sur Global.
+
+## Dientes y fugas: verificación del claim «las sanciones son propaganda» (nov-2026)
+
+Un posteo viral (X, 18-11-2026) sostiene que las sanciones son «propaganda to hide» que la City financia a los sancionados. La verificación con fuentes vivas agrega la mitad que esa tesis omite — las sanciones pican de verdad:
+
+- **Listados:** la LSE suspendió los 27 títulos rusos el 3-mar-2022 (Evraz, Polymetal, Petropavlovsk); los minoristas siguen atrapados. El canal de listados londinenses murió el día de la invasión.
+- **Precio:** en el cuarto año de guerra los ingresos fósiles rusos cayeron fuerte (CREA: volúmenes de crudo ~6% arriba de pre-guerra, ingresos lejos de los niveles previos).
+- **Rieles:** el yuan como vía de pago de exportaciones rusas cayó a la mitad —a 22%— desde su pico de mediados de 2024, bajo las sanciones secundarias de EEUU contra bancos extranjeros (Bloomberg, 11-11-2026).
+- **Enforcement:** 2025 fue el año récord de acciones de la OFSI (Office of Financial Sanctions Implementation, la oficina de sanciones del Tesoro británico).
+
+Y la mitad en la que el claim acierta: los volúmenes siguen fluyendo — China (€10.700M) e India (€6.400M) marcaron en oct-2026 sus récords mensuales de compra de combustibles rusos desde 2022, vía flota fantasma (CREA). Dientes y fugas a la vez: el dinero de la guerra lo ponen los compradores asiáticos, no la City.
+
+Lectura TL: «las sanciones son propaganda» es la inversión simétrica de «las sanciones funcionan». El registro documentado es mixto: muerden el precio y los rieles, no matan los volúmenes.
+
+Fuentes de esta sección:
+
+- https://www.theguardian.com/business/2022/mar/03/london-stock-exchange-suspends-trading-in-27-firms-with-strong-links-to-russia
+- https://euobserver.com/204320/russian-fossil-fuel-revenue-plunges-as-shadow-fleet-oil-increases-report-finds
+- https://www.bloomberg.com/news/articles/2026-11-11/russian-push-to-escape-dollar-for-yuan-collapses-under-sanctions
+- https://energyandcleanair.org/october-2026-monthly-analysis-of-russian-fossil-fuel-exports-and-sanctions
+- https://www.cliffordchance.com/insights/resources/blogs/regulatory-investigations-financial-crime-insights/2025/12/2025-uk-sanctions-round-up.html
+
+## Iteraciones
+
+### IT-2026-11-20-01 — Verificación «sanctions are propaganda»
+
+**Nico:** _«@url:https://x.com/ShounakSinhaRay/status/2122976198150213648 esto es verosimil?»_ y _«agrega fichas a la kb»_ (2026-11-20).
+
+**Ajuste del agente:** verificación con CREA, Bloomberg, Guardian y Clifford Chance. Se agrega la evidencia de enforcement que la tesis boomerang de esta ficha no cubría: dientes (listados, yuan, OFSI) junto a las fugas ya documentadas (China/India, flota fantasma).

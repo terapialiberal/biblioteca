@@ -75,12 +75,46 @@ Esto invierte la cita de Napoleón que usa Rivero (el dinero no tiene patria): l
 ## Conexiones
 
 - [[Sanciones a Rusia]]
-- [[Putin]]
+- [[Vladimir Putin]]
 - [[Kirill Dmitriev]]
 - [[BRICS]]
 - [[Gold Backed CBDC - Pilot]]
 - [[Petrodólar]] y [[Sistema Petrodólar]] — lo que Rusia rompió por el lado de la oferta.
 - [[All Wars Are Bankers Wars (Rivero)]] — Rusia como la excepción que confirma el mecanismo por la vía del fallo: se salió del dólar y no pudo ser invadida.
+
+## Capa Factbook (archivo CIA)
+
+> Agregado al archivarse el Factbook. No altera el resto de la ficha.
+
+| Dato | Valor | Edición |
+|---|---|---|
+| Gobierno | semi-presidential federation | 18-04-2024 |
+| Capital | Moscow | 18-04-2024 |
+| Superficie | approximately 1.8 times the size of the US | 18-04-2024 |
+| Población | 141,698,923 (2023 est.) | 18-04-2024 |
+| Independencia | 25 December 1991 (from the Soviet Union; Russian SFSR renamed Russian Federation); notable earlier dates: 1157 (Principality of Vladimir-Suzdal created); 16 Ja… | 18-04-2024 |
+| Sistema legal | civil law system; judicial review of legislative acts | 18-04-2024 |
+
+- **Oleoductos:** 177,700 km gas, 54,800 km oil, 19,300 km refined products (2017)
+- **Puertos:** major seaport(s): Arctic Ocean: Arkhangelsk, Murmansk | Baltic Sea: Kaliningrad, Primorsk, Saint Petersburg | Black Sea: Novorossiysk | Pacific Ocean: Nakhodka, Vladivostok, Vostochnyy; oil terminal(s): Kavkaz oil terminal, Primorsk; container port(s) (TEUs): Saint Petersburg (2,042,358) (2021); LNG terminal(s) (expor…
+- **Ferrocarriles:** total: 85,494 km (2019); narrow gauge: 957 km
+- **Marina mercante:** total: 2,910 (2023); by type: bulk carrier 15, container ship 20, general cargo 976, oil tanker 387, other 1,512
+- **Aeropuertos:** 904 (2024)
+- **Fuerzas:** Armed Forces of the Russian Federation: Ground Troops (Sukhoputnyye Voyskia, SV), Navy (Voyenno-Morskoy Flot, VMF), Aerospace Forces (Vozdushno-Kosmicheskiye Sily, VKS); Airborne Troops (Vozdushno-Desantnyye Voyska, VDV), and Missile Troops of Strategic Purpose (Raketnyye Voyska Strategicheskogo Na…
+
+**Disputas (18-04-2024):** Russia-China: in 2023, Russia rejected a new PRC map that laid claim to Bolshoi Ussuriysky Island in its entirety as Chinese territory; this move undermined a 2004 Agreement in which Russia and China demarcated long-disputed islands at the Amuri and Ussuri confluence and in the Argun River Russia-Denmark-Norway: Denmark (Greenland) and Norway have made submissions to the Commission on the Limits of the Continental Shelf (CLCS), and Russia is collecting additional data to augment its 2001 CLCS submission Russia and Estonia: Russia and Estonia signed a technical border agreement in May 2005, but Russia recalled its signature in June 2005 after the Estonian parliament added to its domestic rat…
+
+**Ilícitos (17-07-2025):** a destination country for heroin and other Afghan opiates; a transit country for cocaine from South America, especially Ecuador to Europe, Belgium and Netherlands; synthetic drugs are produced in clandestine drug laboratories throughout the country; marijuana cultivated in Russian Far East and the North Caucasus; the majority of hashish is smuggled in from Northern Africa
+
+**Activos en disputa:** China — Russia; Kazakhstan — Russia; Norway — Russia
+
+## Lectura TL
+
+Rusia amplió en 2015 y 2021 su presentación ante la CLCS, corriendo cada vez más lejos el límite de su plataforma continental en el Ártico. Es la disputa de H-02 en su forma más limpia: no hay islas ni población, hay **fondo marino con recursos** y una comisión técnica como árbitro.
+
+La lectura: el Ártico es el lugar donde el control de ruta se resuelve por geología, con papeles, durante décadas. Rusia lo juega como territorio, no como tránsito.
+
+**Falsador:** rechazo de la CLCS a la presentación rusa o acuerdo multilateral de reparto.
 
 ## Fuentes
 
@@ -97,3 +131,10 @@ Esto invierte la cita de Napoleón que usa Rivero (el dinero no tiene patria): l
 - The Guardian 27-10-2008 (Mandelson niega favores): https://www.theguardian.com/politics/2008/oct/27/peter-mandelson-oleg-deripaska
 - BP 27-02-2022 (salida Rosneft 19,75%, cargo 24.400M): https://www.bp.com/en/global/corporate/news-and-insights/press-releases/bps-position-in-russia.html
 - Reuters 27-02-2022 (BP abandona Rosneft): https://www.reuters.com/business/energy/britains-bp-says-exit-stake-russian-oil-giant-rosneft-2022-02-27/
+
+## Activos en disputa (cruce con la Maestra)
+
+- **Norway — Russia** — activo que la Maestra ya nombra: **Groenlandia, Ártico, gas**
+- **Iran — Russia** — activo que la Maestra ya nombra: **Caspio**
+- **Kazakhstan — Russia** — activo que la Maestra ya nombra: **Caspio**
+- **Japan — Russia** — hueco del mapa: **Kuriles**

@@ -68,6 +68,30 @@ Deuda sobre 60% antes de 2029 (sostenibilidad rota). Reservas bajo 400.000M sin 
 - [[Japón]]
 - [[Taiwán]]
 
+## Capa Factbook (archivo CIA)
+
+> Agregado al archivarse el Factbook. No altera el resto de la ficha.
+
+| Dato | Valor | Edición |
+|---|---|---|
+| Gobierno | presidential republic | 18-04-2024 |
+| Capital | Seoul; note - Sejong, located some 120 km (75 mi) south of Seoul, serves as an… | 18-04-2024 |
+| Superficie | slightly smaller than Pennsylvania; slightly larger than Indiana | 18-04-2024 |
+| Población | 51,966,948 (2023 est.) | 18-04-2024 |
+| Independencia | 15 August 1945 (from Japan) | 18-04-2024 |
+| Sistema legal | mixed legal system combining European civil law, Anglo-American law, and Chinese classical thought | 18-04-2024 |
+
+- **Oleoductos:** 3,790 km gas, 16 km oil, 889 km refined products (2018)
+- **Puertos:** major seaport(s): Busan, Incheon, Gunsan, Kwangyang, Mokpo, Pohang, Ulsan, Yeosu; container port(s) (TEUs): Busan (22,706,130), Incheon (3,353,781), Kwangyang (2,122,903) (2021); LNG terminal(s) (import): Incheon, Kwangyang, Pyeongtaek, Samcheok, Tongyeong, Yeosu
+- **Ferrocarriles:** total: 3,979 km (2016); standard gauge: 3,979 km (2016) 1.435-m gauge (2,727 km electrified)
+- **Marina mercante:** total: 2,149 (2023); by type: bulk carrier 93, container ship 115, general cargo 362, oil tanker 219, other 1,360
+- **Aeropuertos:** 89 (2024)
+- **Fuerzas:** Armed Forces of the Republic of Korea: Republic of Korea Army (ROKA), Republic of Korea Navy (ROKN, includes Marine Corps, ROKMC), Republic of Korea Air Force (ROKAF) | Ministry of Maritime Affairs and Fisheries: Korea Coast Guard; Ministry of Interior and Safety: Korean National Police Agency (202…
+
+**Disputas (18-04-2024):** South Korea-Japan: South Korea and Japan claim Liancourt Rocks (Tok-do/Take-shima), occupied by South Korea since 1954 South Korea-North Korea: Military Demarcation Line within the 4-km-wide Demilitarized Zone has separated North from South Korea since 1953; periodic incidents with North Korea in the Yellow Sea over the Northern Limit Line, which South Korea claims as a maritime boundary
+
+**Ilícitos (17-07-2025):** precursor chemicals used for illicit drugs, such as acetic anhydride, pseudoephedrine, and ephedrine, imported from the United States, Japan, India, and China and then either resold within South Korea or smuggled into other countries
+
 ## Fuentes
 
 - FMI GDD (52,49%): https://www.imf.org/external/datamapper/GG\_DEBT\_GDP@GDD/KOR

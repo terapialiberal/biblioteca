@@ -19,3 +19,7 @@ sin_fuente: true
 - Contexto geopolÃ­tico en el ecosistema TL
 - Relaciones con actores clave
 - Recursos estratÃ©gicos
+
+## Activos en disputa (cruce con la Maestra)
+
+- **Myanmar — Thailand** — activo que la Maestra ya nombra: **represa**

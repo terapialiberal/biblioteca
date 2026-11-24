@@ -172,6 +172,8 @@ sin_fuente: true
 
 - [[Ace Greenberg.md|Ace Greenberg]]
 
+- [[Agustín Carstens.md|Agustín Carstens]]
+
 - [[Alan Greenspan.md|Alan Greenspan]]
 
 - [[Alquimia Digital.md|Alquimia Digital]]
@@ -189,6 +191,8 @@ sin_fuente: true
 - [[Bear Stearns.md|Bear Stearns]]
 
 - [[Benoît Mandelbrot.md|Benoît Mandelbrot]]
+
+- [[Bezalel Smotrich.md|Bezalel Smotrich]]
 
 - [[BIS Innovation Hub.md|BIS Innovation Hub]]
 
@@ -332,6 +336,8 @@ sin_fuente: true
 
 - [[Singapur.md|Singapur]]
 
+- [[Smotrich.md|Smotrich]]
+
 - [[Suiza.md|Suiza]]
 
 - [[Teoría del Cisne Negro.md|Teoría del Cisne Negro]]
@@ -341,8 +347,6 @@ sin_fuente: true
 - [[Tokenizacion de Activos Reales.md|Tokenizacion de Activos Reales]]
 
 - [[Toto Caputo.md|Toto Caputo]]
-
-- [[01_Research/03_RESEARCH/2026-04-10_Milei_BlackRock_Elite/TRANSCRIPT_Massa_CBDC_WEF_20231002.md|TRANSCRIPT_Massa_CBDC_WEF_20231002]]
 
 - [[Transmutacion de Metales y CBDCs.md|Transmutacion de Metales y CBDCs]]
 

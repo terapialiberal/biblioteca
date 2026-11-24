@@ -82,6 +82,31 @@ Bruselas regula (arancel a urea rusa, CBAM, rearme por decreto) y las capitales 
 2. Chips Act 2.0 sin fab leading-edge operativa antes de 2033 (auditoria tenia razon).
 3. Le Pen gana 2027 y el eje entra en disfunción documentable en 12 meses (spreads OAT-Bund, silla vacia).
 
+## Capa Factbook (archivo CIA)
+
+> Agregado al archivarse el Factbook. No altera el resto de la ficha.
+
+| Dato | Valor | Edición |
+|---|---|---|
+| Estructura política | a hybrid and unique intergovernmental and supranational organization | 18-04-2024 |
+| Capital | Brussels (Belgium), Strasbourg (France), Luxembourg, Frankfurt (Germany); note… | 18-04-2024 |
+| Superficie | less than one half the size of the United States | 18-04-2024 |
+| Población | (July 2022 est.) 450,858,381 | 18-04-2024 |
+
+- **Estados miembros:** 27 countries: Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden; note - 9 candidate countries: Albania, Bosnia and Herzegovina, Georgia, Moldova, Montenegro, North Macedonia, Serbia, Turkey, Ukraine there are 13 overseas countries and territories (OCTs) (1 with Denmark \[Greenland], 6 with France \[French Polynesia, French Southern and Antarctic Lands, New Caledonia, Saint Barthelemy, Saint Pierre and Miquelon, Wallis and Futuna], and 6 with the Netherlands \[Aruba, Bonaire, Curacao, Saba, Sint Eustatius…
+
+- **Fuerzas:** the EU's Common Security and Defense Policy (CSDP) provides the civilian, military, and political structures for EU crisis management and security issues; the highest bodies are: the Political and Security Committee (PSC), which meets at the ambassadorial level as a preparatory body for the Council of the EU; it assis…
+
+- **Personal:** the 27 EU countries have a cumulative total of approximately 1.34 million active-duty troops; the largest EU country military forces belong to France, Germany, and Italy (2023)
+
+- **Gasto militar:** Military Expenditures 2022: 1.6% of GDP (2022 est.); Military Expenditures 2021: 1.6% of GDP (2021); Military Expenditures 2020: 1.6% of GDP (2020); Military Expenditures 2019: 1.4% of GDP (2019); Mi…
+
+- **Despliegues:** since 2003, the EU has launched more than 30 civilian and military crisis-management, advisory, and training missions in Africa, Asia, Europe, and the Middle East, as well as counter-piracy operations off the coast of Somalia and a naval operation in the Mediterranean to disrupt human smuggling and…
+
+- **Bloques y organismos:** ARF, ASEAN (dialogue member), Australian Group, BIS, BSEC (observer), CBSS, CERN, EBRD, FAO, FATF, G-7, G-10, G-20, IDA, IEA, IGAD (partners), LAIA (observer), NSG (observer), OAS (observer), OECD, PIF (partner), SAARC (observer), SICA (ob…
+
+**Disputas (18-04-2024):** see individual European countries and Schengen Convention in Appendix B
+
 ## Fuentes
 
 - https://commission.europa.eu/topics/europes-budget\_en

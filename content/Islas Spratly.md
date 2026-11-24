@@ -33,3 +33,16 @@ Mientras [[AUKUS II - Expansion Japon]] presiona desde el norte, China usa las S
 - [[Rimland]]
 - [[AUKUS II - Expansion Japon]]
 - [[Estrecho de Malaca]]
+
+## Capa Factbook (archivo CIA)
+
+> Agregado al archivarse el Factbook. No altera el resto de la ficha.
+
+| Dato | Valor | Edición |
+|---|---|---|
+| Superficie | land area is about seven times the size of the National Mall in Washington, DC | 18-04-2024 |
+| Población | (July 2021 est.) no indigenous inhabitants | 18-04-2024 |
+
+- **Puertos:** none; offshore anchorage only
+
+**Disputas (18-04-2024):** Taiwan-Brunei-China-Malaysia-Philippines-Vietnam: all of the Spratly Islands are claimed by China (including Taiwan) and Vietnam; parts of them are claimed by Brunei, Malaysia and the Philippines; despite no public territorial claim to Louisa Reef, Brunei implicitly lays claim by including it within the natural prolongation of its continental shelf and basis for a seabed median with Vietnam; the islands are strategically located in the South China Sea and are surrounded by rich fishing groups and potential oil and natural gas deposits; claimants in November 2002 signed the "Declaration on the Conduct of Parties in the South China Sea," which fell short of a legally binding "code of conduct"…

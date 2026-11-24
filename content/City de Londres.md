@@ -1,7 +1,8 @@
 ---
 titulo: City de Londres
 tipo: concepto
-fecha: 2026-04-18
+fecha: 2026-11-20
+creada: 2026-04-18
 capa_tema: a
 nivel_evidencia: medio
 estado: activo
@@ -40,6 +41,31 @@ En TL, la City sirve para explicar cómo un imperio puede perder masa territoria
 - Oro récord y non-doms afuera: LBMA con ATH $5.501,70 (ene-2026) tras cerrar 2025 en $4.481,85 (+62,9%); vault de Londres con 9.464 toneladas (\$1,2 billones). Non-domiciled abolido el 6-abr-2025 (régimen FIG de 4 años, ~9.300 afectados). https://www.lbma.org.uk/articles/lbma-precious-metals-market-report-q4-and-full-year-2025 https://www.gov.uk/government/publications/changes-to-the-taxation-of-non-uk-domiciled-individuals/technical-note-changes-to-the-taxation-of-non-uk-domiciled-individuals
 - Dominio intacto donde importa: FX global \$9,6 billones/día con UK en 37,8-38% (sin cambios desde 2022); derivados OTC de tasas en 49,6-50% (vs 42,9% en 2022). https://www.bis.org/media-releases/20250930-global-fx-trading-hits-96-trillion-day-april-2025-and-otc-interest-rate-derivatives-surge-79
 - Lectura TL: la City pierde listings y paga gilts caros, pero conserva lo estructural (clearing, FX, oro). El pasaporte heredado rinde donde hay red (riel + vault + ley), no donde hay empresas que cotizan. Falsables: oro sobre \$6.000 antes de dic-2026 (falla el consenso); LSE volviendo a 43 IPOs en 2026 (falla la sequía).
+
+## Actualización (nov-2026): el lavadero documentado y quién lo fiscaliza
+
+Verificación del claim viral «"Sanctions" are propaganda to hide that City of London fully funds» Rusia, Irán y Corea del Norte (X, 18-11-2026):
+
+- **El núcleo real.** El Comité de Inteligencia y Seguridad del Parlamento británico (ISC) describió la influencia rusa en el Reino Unido como «the new normal» y habló del «London 'laundromat'» por el que se recicló dinero ilícito ruso (Informe Rusia, jul-2020). Los bancos de la City tienen casos documentados de mover dinero sancionado: [[Standard Chartered]] escondió ~60.000 pagos iraníes por ~US$250.000 millones (NYDFS, 2012) y [[Lloyds Bank]] pagó US$350 millones por stripear transferencias de Irán/Sudán (DOJ, 2009).
+- **Lo que no aguanta el claim.** Los listados rusos en la LSE quedaron suspendidos el 3-mar-2022 (27 títulos: Evraz, Polymetal, Petropavlovsk) y siguen congelados — no son canal vigente. El dinero de la guerra rusa lo ponen los compradores asiáticos de crudo: China (€10.700M) e India (€6.400M) marcaron en oct-2026 sus récords mensuales desde 2022 (CREA). Y el enforcement acelera: 2025 fue el año récord de acciones de la OFSI (Office of Financial Sanctions Implementation, la oficina de sanciones del Tesoro británico).
+- **Lectura TL:** la City hospeda y estructura capital sin bandera; el policía del circuito del dólar es Washington (NYDFS/DOJ), no Londres. La versión honesta es incómoda sin necesitar invento: la City lavó para Irán hasta que EEUU la multó, y siguió siendo el club de los kleptócratas aún después.
+
+Fuentes de esta sección:
+
+- https://isc.independent.gov.uk/wp-content/uploads/2021/03/CCS207\_CCS0221966010-001\_Russia-Report-v02-Web\_Accessible.pdf
+- https://www.dfs.ny.gov/system/files/documents/2020/04/ea120806\_standard\_chartered.pdf
+- https://www.justice.gov/archive/opa/pr/2009/January/09-crm-023.html
+- https://www.theguardian.com/business/2022/mar/03/london-stock-exchange-suspends-trading-in-27-firms-with-strong-links-to-russia
+- https://energyandcleanair.org/october-2026-monthly-analysis-of-russian-fossil-fuel-exports-and-sanctions
+- https://www.cliffordchance.com/insights/resources/blogs/regulatory-investigations-financial-crime-insights/2025/12/2025-uk-sanctions-round-up.html
+
+## Iteraciones
+
+### IT-2026-11-20-01 — Claim viral «City of London fully funds»
+
+**Nico:** _«@url:https://x.com/ShounakSinhaRay/status/2122976198150213648 esto es verosimil?»_ y _«agrega fichas a la kb»_ (2026-11-20).
+
+**Ajuste del agente:** verificación con fuentes vivas (ISC, NYDFS, DOJ, CREA, Clifford Chance). Se separa el núcleo documentado (City como lavadero; multas de StanChart y Lloyds) del envoltorio fabricado (fully funds, Office 39 en la LSE, Santander-IRGC). Nico no aportó contenido: pidió la verificación y el fichado.
 
 ## Con qué conecta
 

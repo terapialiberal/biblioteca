@@ -6,7 +6,6 @@ estado: activo
 aliases: ["TSMC (Taiwan Semiconductor)", "Taiwan Semiconductor Manufacturing Company"]
 tags: [tsmc, taiwan, semiconductores, chips, tl-intel-v3]
 publish: true
-sin_fuente: true
 ---
 
 # TSMC
@@ -16,3 +15,8 @@ sin_fuente: true
 ## Lectura TL
 
 TSMC convierte una isla en seguro industrial global: chips, defensa, IA, cadenas de suministro y disuasión geopolítica se concentran en capacidad fabril.
+
+## Fuentes
+
+- TSMC Investor Relations — Annual Reports & Quarterly Financials: https://investor.tsmc.com/english
+- SEC EDGAR — TSMC Form 20-F Filings (NYSE: TSM): https://www.sec.gov/edgar/browse/?CIK=0001046179

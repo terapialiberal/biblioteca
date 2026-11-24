@@ -158,6 +158,8 @@ sin_fuente: true
 
 - [[CIA (Operaciones en Latam).md|CIA (Operaciones en Latam)]]
 
+- [[CIA World Factbook (archivo).md|CIA World Factbook (archivo)]]
+
 - [[Cienciología.md|Cienciología]]
 
 - [[Club Safari.md|Club Safari]]
@@ -232,6 +234,8 @@ sin_fuente: true
 
 - [[Jeffrey Epstein.md|Jeffrey Epstein]]
 
+- [[John Ratcliffe.md|John Ratcliffe]]
+
 - [[Jonathan Pollard.md|Jonathan Pollard]]
 
 - [[Katharine Graham.md|Katharine Graham]]
@@ -297,8 +301,6 @@ sin_fuente: true
 - [[Palantir.md|Palantir]]
 
 - [[Palantir CIA.md|Palantir CIA]]
-
-- [[01_Research/03_RESEARCH/2026-04-10_Milei_BlackRock_Elite/Paper de Trabajo - Palantir-SIDE.md|Paper de Trabajo - Palantir-SIDE]]
 
 - [[Patron - Need to Know (Necesidad de Saber).md|Patron - Need to Know (Necesidad de Saber)]]
 

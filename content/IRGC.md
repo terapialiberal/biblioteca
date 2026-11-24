@@ -1,8 +1,11 @@
 ---
 titulo: IRGC
 tipo: entidad
-fecha: 2026-04-18
+fecha: 2026-11-20
+creada: 2026-04-18
 estado: activo
+tier_primario: c
+fuente: "https://en.wikipedia.org/wiki/Islamic_Revolutionary_Guard_Corps"
 aliases: ["Islamic Revolutionary Guard Corps", "Guardia Revolucionaria de Iran", "Cuerpo de la Guardia Revolucionaria Islamica"]
 tags: [irgc, iran, seguridad, economia-paraestatal, ormuz, tl-intel-v3]
 publish: true
@@ -50,6 +53,24 @@ En una crisis sucesoria, el IRGC importa porque puede convertirse en arbitro rea
 - [[Abbas Araghchi]]
 - [[Estrecho de Ormuz]]
 - [[Benjamin Netanyahu]]
+
+## Financiamiento y el claim viral de la City (verificación nov-2026)
+
+Un posteo difundido (X, 18-11-2026) afirma que el IRGC se financia «via Lloyds, Santander & Standard Chartered». Verificación con fuentes vivas (20-11-2026):
+
+- [[Standard Chartered]] y [[Lloyds Bank]] tienen casos iraníes documentados, pero son clearing de dólares de ~2001-2011, cazados y multados por autoridades de EEUU (NYDFS/DOJ) — no un programa vigente de la City.
+- [[Santander]] jamás pagó multa por Irán; su revisión interna no encontró infracción.
+- No hay evidencia pública de un canal actual de la City que «financie completamente» al IRGC. El registro muestra oportunismo histórico sancionado, no coordinación vigente.
+
+Lectura TL: la economía paraestatal del IRGC (constructoras, puertos, contrabando, petróleo) se sostiene en redes propias y compradores asiáticos, no en banca británica.
+
+## Iteraciones
+
+### IT-2026-11-20-01 — Claim viral «City of London funds Iran/IRGC»
+
+**Nico:** _«@url:https://x.com/ShounakSinhaRay/status/2122976198150213648 esto es verosimil?»_ y _«agrega fichas a la kb»_ (2026-11-20).
+
+**Ajuste del agente:** se verificó el leg bancario del claim: casos históricos (StanChart 2012/2019, Lloyds 2009) y ausencia de caso Santander. Se registra para que ninguna pieza futura cite el claim como mecanismo vigente.
 
 ## Fuentes
 

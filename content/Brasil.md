@@ -67,6 +67,30 @@ Primario mejor que -0,4% en 2026 con deuda bajo 96% (el ajuste funciona). BCB ac
 - [[Estados Unidos]]
 - [[India]]
 
+## Capa Factbook (archivo CIA)
+
+> Agregado al archivarse el Factbook. No altera el resto de la ficha.
+
+| Dato | Valor | Edición |
+|---|---|---|
+| Gobierno | federal presidential republic | 18-04-2024 |
+| Capital | Brasília | 18-04-2024 |
+| Superficie | slightly smaller than the US | 18-04-2024 |
+| Población | 218,689,757 (2023 est.) | 18-04-2024 |
+| Independencia | 7 September 1822 (from Portugal) | 18-04-2024 |
+| Sistema legal | civil law; note - a new civil law code was enacted in 2002 replacing the 1916 code | 18-04-2024 |
+
+- **Oleoductos:** 5,959 km refined petroleum product (1,165 km distribution, 4,794 km transport), 11,696 km natural gas (2,274 km distribution, 9,422 km transport), 1,985 km crude oil (distribution), 77 km ethanol/petrochemical (37 km distribution, 40 km transport) (2016)
+- **Puertos:** major seaport(s): Belem, Itajai, Paranagua, Rio Grande, Rio de Janeiro, Santos, Sao Sebastiao, Tubarao; oil terminal(s): DTSE/Gegua oil terminal, Ilha Grande (Gebig), Guaiba Island terminal, Guamare oil terminal; container port(s) (TEUs): Itajai (1,610,092), Paranagua (1,044,157), Santos (4,442,876) (2021); LNG termin…
+- **Ferrocarriles:** total: 29,849.9 km (2014); standard gauge: 194 km (2014) 1.435-m gauge; narrow gauge: 23,341.6 km (2014) 1.000-m gauge (24 km electrified); broad gauge: 5,822.3 km (2014) 1.600-m gauge (498.3 km elec…
+- **Marina mercante:** total: 888 (2023); by type: bulk carrier 13, container ship 20, general cargo 38, oil tanker 27, other 790
+- **Aeropuertos:** 4,919 (2024)
+- **Fuerzas:** Brazilian Armed Forces (Forças Armadas Brasileiras): Brazilian Army (Exercito Brasileiro, EB), Brazilian Navy (Marinha do Brasil, MB, includes Naval Aviation (Aviacao Naval Brasileira) and Marine Corps (Corpo de Fuzileiros Navais)), Brazilian Air Force (Forca Aerea Brasileira, FAB) (2024)
+
+**Disputas (18-04-2024):** Brazil-Bolivia: the Roboré Accord of March 29, 1958 placed the long-disputed Isla Suárez/Ilha de Guajará-Mirim, a fluvial island on the Río Mamoré, between the two towns of Guajará-Mirim (Brazil) and Guayaramerin (Bolivia), under Bolivian administration but did not resolve the sovereignty dispute | Brazil-Colombia: contraband smuggling (narcotics and arms), illegal migration, trafficking in animals, plants, lumber, illegal exploitation of mineral resources, and incursions by Colombian insurgent/narco-terrorists groups in the area remain problematic issues | Brazil-Uruguay: the uncontested boundary dispute between Brazil and Uruguay over Arroyo de la Invernada triangle and sovereignty over I…
+
+**Ilícitos (17-07-2025):** a significant drug transit and destination country for cocaine bound for Europe and other destinations including the United States; domestic drug use and addiction is a significant problem and it is second only to the United States in cocaine consumption; a major source of precursor or essential chemicals used in the production of illicit narcotics
+
 ## Fuentes
 
 - FMI (Fiscal Monitor abr-2025): https://www.imf.org/en/Publications/FM/Issues/2025/04/15/fiscal-monitor-april-2025
@@ -81,3 +105,7 @@ Primario mejor que -0,4% en 2026 con deuda bajo 96% (el ajuste funciona). BCB ac
 - Valor International (inversión china): https://valorinternational.globo.com/business/news/2025/09/04/china-doubles-down-on-brazil-with-energy-focus-diversified-investment.ghtml
 - Reuters (inversión china récord): https://www.reuters.com/business/autos-transportation/chinese-investment-doubles-brazil-jumping-no-3-destination-2025-09-04/
 - Reuters (carne récord): https://www.reuters.com/markets/commodities/china-lower-grain-prices-bolster-brazil-beef-chicken-export-prospects-2025-01-07/
+
+## Activos en disputa (cruce con la Maestra)
+
+- **Brazil — Venezuela** — activo que la Maestra ya nombra: **Esequibo**

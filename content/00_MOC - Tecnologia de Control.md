@@ -204,11 +204,7 @@ sin_fuente: true
 
 - [[1984.md|1984]]
 
-- [[01_Research/02_SEÑALES/2026-10-09_day-after-ia-buildout-too-big-to-stop.md|2026-10-09_day-after-ia-buildout-too-big-to-stop]]
-
-- [[01_Research/02_SEÑALES/2026-10-09_day-after-ia-regulacion-anticipada.md|2026-10-09_day-after-ia-regulacion-anticipada]]
-
-- [[01_Research/05_DEBATES/2026-11-03_Tecnocracia_Metrica_Energia_Contrahipotesis.md|2026-11-03_Tecnocracia_Metrica_Energia_Contrahipotesis]]
+- [[01_Research/04_REDACCION/2026-11-03_Tecnocracia_Metrica_Energia_Contrahipotesis.md|2026-11-03_Tecnocracia_Metrica_Energia_Contrahipotesis]]
 
 - [[Agencia de Seguridad Nacional.md|Agencia de Seguridad Nacional]]
 
@@ -393,6 +389,8 @@ sin_fuente: true
 - [[Los Papeles de Pfizer.md|Los Papeles de Pfizer]]
 
 - [[Lucero del Alba y Espionaje.md|Lucero del Alba y Espionaje]]
+
+- [[Masayoshi Son.md|Masayoshi Son]]
 
 - [[Menwith Hill.md|Menwith Hill]]
 

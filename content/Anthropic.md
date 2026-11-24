@@ -40,6 +40,10 @@ Eso la vuelve el mejor lugar para mirar si la IA se financia con demanda real o 
 
 Discutido el 2026-11-12 con Nico. La hipótesis no resistió —entre otras cosas, porque Nvidia es comprador de 10.000 millones de este papel—.
 
+### IT-2026-09-14-01 — Mención del entorno de Jeffrey en el video del caso
+
+- **Timestamp transcripción relevante**: \[94:58] del video aborda el entorno de Jeffrey en relación con figuras del sector IA (transcripción en [[03_Produccion/2026-09-14_El_dia_despues_tiene_duenios/transcripcion.md]], video https://www.youtube.com/watch?v=Fp76aYUEYnQ).
+
 ## Conexiones
 
 - [[Dario Amodei]] — cofundador y CEO

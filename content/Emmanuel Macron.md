@@ -1,13 +1,19 @@
 ---
 titulo: Emmanuel Macron
-tipo: "persona"
-fecha: 2026-02-25
+tipo: persona
+fecha: 2026-11-19
+creada: 2026-02-25
 tier_primario: c
-nivel_evidencia: "medio"
+nivel_evidencia: medio
 estado: activo
-tags: [emmanuel, familia, macron, rothschild]
+aliases: ["Macron"]
+tags: [emmanuel, macron, rothschild, francia, berlin-2026, tl-intel-v3]
 publish: true
-sin_fuente: true
+claims_base:
+  - "Presidente de Francia desde 2017; ex-banquero de inversion (Rothschild & Cie), ex-ministro de Economia; co-anfitrion en Berlin (2026-11-19) de la Coalicion de los Dispuestos con Zelensky, Merz y Burnham [12]"
+  - "Wikispooks lo clasifica en su ficha como 'politician, banker, deep state operative', miembro de la comision Attali"
+  - "Producto de Rothschild & Cie: hizo su fortuna facilitando la compra de la unidad de nutricion de Pfizer por Nestle, con David de Rothschild como mentor financiero (archivo del vault)"
+interpretacion: "Lectura TL (no-claim): el arquetipo del lider de laboratorio — la operacion quirurgica de la elite financiera parisina para impedir el populismo e instalar un tecnocrata puro. En Berlin 2026 gobierna del lado europeo que pide silla en la mesa de la guerra mientras la mesa la administran otros tres."
 ---
 
 # Emmanuel Macron
@@ -18,7 +24,11 @@ sin_fuente: true
 
 **¿Quién es?** Presidente de Francia desde 2017. Ex-banquero de inversión y ex-ministro de economía, saltó de ser un burócrata desconocido a la presidencia en tiempo récord tras fundar su propio movimiento político.
 
-**¿Por qué importa?** Macron es el **arquetipo del "Líder de Laboratorio" de Tier A**. Su ascenso fue una operación quirúrgica de la élite financiera francesa (liderada por **[[Rothschild & Cie]]**) para impedir la victoria del populismo (Le Pen) y para instalar a un tecnócrata puro que pudiera disolver la soberanía francesa dentro de un "Superestado Europeo". Macron no representa a Francia; representa los intereses del **[[WEF]]** (es un "Young Global Leader") y de la banca transnacional. Es el presidente que gobierna "por encima de la gente" (autodenominándose "Júpiter"), utilizando la represión brutal contra movimientos como los **Chalecos Amarillos** mientras promueve la agenda climática y digital de las élites globales.
+**¿Por qué importa?** Macron es el **arquetipo del "Líder de Laboratorio"**. Su ascenso fue una operación quirúrgica de la élite financiera francesa (liderada por **[[Rothschild & Cie]]**) para impedir la victoria del populismo (Le Pen) y para instalar a un tecnócrata puro que pudiera disolver la soberanía francesa dentro de un "Superestado Europeo". Macron no representa a Francia; representa los intereses de la **[[WEF]]** (es un "Young Global Leader") y de la banca transnacional. Es el presidente que gobierna "por encima de la gente" (autodenominándose "Júpiter"), utilizando la represión brutal contra movimientos como los **Chalecos Amarillos** mientras promueve la agenda climática y digital de las élites globales.
+
+## El infobox de Wikispooks
+
+La ficha de Wikispooks lo clasifica sin eufemismos: **«politician, banker, deep state operative»** — político, banquero, operador del aparato — y lo enmarca en la comisión de [[Jacques Attali]] (donde el ideólogo globalista lo presentó al sistema) y en el molde del francés-americano de finanzas. Es la misma lectura que TL hace desde el ascenso del 2017, puesta en la solapa.
 
 ## Análisis De Poder (Tiers)
 
@@ -36,18 +46,27 @@ sin_fuente: true
 
 - "El centro progresista frente a los extremos". "El salvador de la Unión Europea". Narrativa mediática masiva que lo presenta como un intelectual pragmático para ocultar su rol como liquidador de la soberanía nacional.
 
+## Berlín, 2026-11-19
+
+Co-anfitrión con Merz y Burnham de la «Coalición de los Dispuestos»: más de veinticinco líderes, los jefes de la UE y de la OTAN, Zelensky de invitado — y los enviados de Trump (Kushner y Witkoff) informando qué decidieron en Shenzhen \[12]. El hombre que pidió «autonomía estratégica europea» desde 2017 recibe el acta de la mesa donde no estaba invitado, administrada por quienes la firmaron sin Europa.
+
+**Lectura:** \[sostenible] — la foto de Berlín es la del técnico sin silla: pide rol europeo en la negociación mientras Kushner y Witkoff traen las condiciones desde la otra punta del Atlántico.
+
 ## Conexiones Clave
 
 - [[Familia Rothschild]] (Su origen financiero)
 - [[WEF / Klaus Schwab]] (Su alineamiento ideológico)
 - [[Jacques Attali]] (Su mentor estratégico)
 - [[Chalecos Amarillos]] (Su principal resistencia de Tier C)
+- [[Friedrich Merz]] · [[Andy Burnham]] — los co-anfitriones de Berlín
 
 ## Fuentes
 
 - "Le Traître et le Néant" (Investigación sobre su traición al partido socialista y su ascenso).
 - Registros de la consultora McKinsey en el Elíseo.
 - Biografía: "Emmanuel Macron: Un joven tan perfecto".
+- [Wikispooks — Emmanuel Macron](https://wikispooks.com/wiki/Emmanuel_Macron) — la clasificación de solapa y la comisión Attali; la lectura es de TL.
+- [[00_CORPUS_FORENSE|Caso Trilateral_Shenzhen — corpus forense]] (AFP \[12], 2026-11-19)
 
 ## Por Qué Importa (Estilo Nico)
 

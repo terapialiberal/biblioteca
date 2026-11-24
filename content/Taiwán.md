@@ -46,6 +46,39 @@ Taiwán no es solo una disputa territorial. Es el lugar donde soberanía, chips,
 - [[Estrecho de Malaca]]
 - [[00_MOC - Rimland]]
 
+## Capa Factbook (archivo CIA)
+
+> Agregado al archivarse el Factbook. No altera el resto de la ficha.
+
+| Dato | Valor | Edición |
+|---|---|---|
+| Gobierno | semi-presidential republic | 18-04-2024 |
+| Capital | Taipei | 18-04-2024 |
+| Superficie | slightly smaller than Maryland and Delaware combined | 18-04-2024 |
+| Población | 23,588,613 (2023 est.) | 18-04-2024 |
+| Sistema legal | civil law system | 18-04-2024 |
+
+- **Oleoductos:** 25 km condensate, 2,200 km gas, 13,500 km oil (2018)
+- **Puertos:** major seaport(s): Keelung (Chi-lung), Kaohsiung, Hualian, Taichung; container port(s) (TEUs): Kaohsiung (9,864,448), Taichung (1,979,222), Taipei (2,091,132) (2021); LNG terminal(s) (import): Yung An (Kaohsiung), Taichung
+- **Ferrocarriles:** total: 1,613.1 km (2018); standard gauge: 345 km (2018) 1.435-m gauge (345 km electrified); narrow gauge: 1,118.1 km (2018) 1.067-m gauge (793.9 km electrified)
+- **Marina mercante:** total: 465 (2023); by type: bulk carrier 29, container ship 53, general cargo 58, oil tanker 35, other 290
+- **Aeropuertos:** 53 (2024)
+- **Fuerzas:** Taiwan Armed Forces: Army, Navy (includes Marine Corps), Air Force | Ocean Affairs Council: Coast Guard Administration (CGA) | Ministry of Interior: National Police (2024)
+
+**Disputas (18-04-2024):** Taiwan-Brunei-China-Malaysia-Philippines-Vietnam: involved in complex dispute over the Spratly Islands in the South China Sea that are thought to have large oil and natural gas reserves, as well as being located amidst prime fishing grounds and busy commercial shipping traffic; the Spratly Islands also are in a strategic position for establishing a military presence to monitor activity in the South China Sea; the 2002 "Declaration on the Conduct of Parties in the South China Sea" has eased tensions but falls short of a legally binding "code of conduct" desired by several of the disputants Taiwan-China-Philippines: border dispute over the Scarborough Reef in the South China Sea; Scarborough…
+
+**Ilícitos (17-07-2025):** major source of precursor chemicals used in the production of illicit narcotics
+
+**Activos en disputa:** Japan — Taiwan; Taiwan — Vietnam
+
+## Lectura TL — activo en disputa
+
+En el archivo, Taiwán aparece como **reclamante** en las Senkaku y en Spratly, no como reclamado. Ese detalle invierte el relato público: la isla es un punto del tablero de rutas antes que un objeto de invasión.
+
+Su valor estructural es doble y de la misma naturaleza: posición sobre el corredor y monopolio de fabricación de chips. Los dos son cuellos de botella; sólo uno está en el mar.
+
+**Falsador:** bloqueo o cuarentena verificable que corte el tránsito comercial por el estrecho.
+
 ## Fuentes
 
 Tranche B (sep-2026). https://www.cbc.gov.tw/en/cp-448-179882-46913-2.html
@@ -60,3 +93,10 @@ Tranche B (sep-2026). https://www.cbc.gov.tw/en/cp-448-179882-46913-2.html
 - https://english.cw.com.tw/article/article.action?id=3766
 - https://www.nomadsemi.com/p/tsmcs-cowos-capacity
 - https://population.un.org/wpp/
+
+## Activos en disputa (cruce con la Maestra)
+
+- **Taiwan — Vietnam** — activo que la Maestra ya nombra: **Taiwán, Mar de China Meridional, Spratly, Paracel, gas**
+- **Philippines — Taiwan** — activo que la Maestra ya nombra: **Mar de China Meridional, Spratly, Scarborough, gas**
+- **China — Taiwan** — activo que la Maestra ya nombra: **Taiwán, Senkaku, gas**
+- **Japan — Taiwan** — activo que la Maestra ya nombra: **Taiwán, Senkaku, gas**

@@ -36,6 +36,30 @@ publish: true
 
 Ucrania concentra guerra proxy, soberanía nacional, corrupción, ayuda externa y choque entre expansión occidental y seguridad rusa.
 
+## Capa Factbook (archivo CIA)
+
+> Agregado al archivarse el Factbook. No altera el resto de la ficha.
+
+| Dato | Valor | Edición |
+|---|---|---|
+| Gobierno | semi-presidential republic | 18-04-2024 |
+| Capital | Kyiv (Kiev is the transliteration from Russian) | 18-04-2024 |
+| Superficie | almost four times the size of Georgia; slightly smaller than Texas | 18-04-2024 |
+| Población | 43,306,477 (2023 est.) | 18-04-2024 |
+| Independencia | 24 August 1991 (from the Soviet Union); notable earlier dates: ca. 982 (VOLODYMYR I consolidates Kyivan Rus); 1199 (Principality (later Kingdom) of Ruthenia fo… | 18-04-2024 |
+| Sistema legal | civil law system; judicial review of legislative acts | 18-04-2024 |
+
+- **Oleoductos:** 36,720 km gas, 4,514 km oil, 4,363 km refined products (2013)
+- **Puertos:** major seaport(s): Feodosiia, Chornomorsk, Mariupol, Mykolaiv, Odesa, Yuzhne; river port(s): Kherson, Kyiv (Dnieper River), Mykolaiv (Pivdennyy Buh River)
+- **Ferrocarriles:** total: 21,733 km (2014); standard gauge: 49 km (2014) 1.435-m gauge (49 km electrified); broad gauge: 21,684 km (2014) 1.524-m gauge (9,250 km electrified)
+- **Marina mercante:** total: 410 (2023); by type: container ship 1, general cargo 83, oil tanker 14, other 312
+- **Aeropuertos:** 148 (2024)
+- **Fuerzas:** Armed Forces of Ukraine (AFU; Zbroyni Syly Ukrayiny or ZSU): Ground Forces (Sukhoputni Viys’ka), Naval Forces (Viys’kovo-Mors’ki Syly, VMS), Air Forces (Povitryani Syly, PS), Air Assault Forces (Desantno-shturmovi Viyska, DShV), Ukrainian Special Operations Forces (UASOF), Territorial Defense Force…
+
+**Disputas (18-04-2024):** Ukraine-Belarus: in 1997, Ukraine and Belarus signed a boundary delimitation treaty; the instruments of ratification were exchanged in 2013; a joint commission should be established to enable the actual demarcation to begin Ukraine-Hungary: hundreds of thousands of Ukrainian refugees are crossing the border to Hungary to escape the Russian invasion in their country Ukraine-Moldova: hundreds of thousands of Ukrainian refugees are crossing the border to Moldova to escape the Russian invasion in their country; Ukraine and Moldova signed an agreement officially delimiting their border in 1999, but the border has not been demarcated due to Moldova's difficulties with the break-away region of Tra…
+
+**Ilícitos (17-07-2025):** a transit country for non-domestically produced drugs, such as cocaine and heroin, bound for consumer markets in the European Union and Russia; overland corridors for the movement of these drugs exists, but Ukraine’s southern ports on the Black Sea, notably Odesa and Pivdennyi, are disrupted due to the war; domestically produced amphetamine, methamphetamine, methadone, alpha-PVP, and new psychoac…
+
 ## Fuentes
 
 Tranche B (sep-2026). https://www.elibrary.imf.org/view/journals/002/2025/156/article-A001-en.xml

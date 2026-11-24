@@ -81,6 +81,40 @@ Deuda pública bajo 100% antes de 2028 (ajuste real). CAD sobre 75 centavos sost
 - [[México]]
 - [[Steve Bannon]]
 
+## Capa Factbook (archivo CIA)
+
+> Agregado al archivarse el Factbook. No altera el resto de la ficha.
+
+| Dato | Valor | Edición |
+|---|---|---|
+| Gobierno | federal parliamentary democracy (Parliament of Canada) under a constitutional monarchy; a Commonwealth realm; federal and state authorities and respo… | 18-04-2024 |
+| Capital | Ottawa | 18-04-2024 |
+| Superficie | slightly larger than the US | 18-04-2024 |
+| Población | 38,516,736 (2023 est.) | 18-04-2024 |
+| Independencia | 1 July 1867 (union of British North American colonies); 11 December 1931 (recognized by UK per Statute of Westminster) | 18-04-2024 |
+| Sistema legal | common law system except in Quebec, where civil law based on the French civil code prevails | 18-04-2024 |
+
+- **Oleoductos:** 840,000 km oil and gas (2020)
+- **Puertos:** major seaport(s): Halifax, Saint John (New Brunswick), Vancouver; oil terminal(s): Lower Lakes terminal; container port(s) (TEUs): Montreal (1,585,465), Vancouver (3,678,952) (2021); LNG terminal(s) (import): Saint John; river and lake port(s): Montreal, Quebec City, Sept-Isles (St. Lawrence); dry bulk cargo port(s):…
+- **Ferrocarriles:** total: 49,422 km (2021) note: 129 km electrified (2021); standard gauge: 49,422 km (2021) 1.435-m gauge
+- **Marina mercante:** total: 716 (2023); by type: bulk carrier 22, container ship 1, general cargo 78, oil tanker 15, other 600
+- **Aeropuertos:** 1,425 (2024)
+- **Fuerzas:** Canadian Forces: Canadian Army, Royal Canadian Navy, Royal Canadian Air Force; Department of Fisheries and Oceans: Coast Guard (2024)
+
+**Disputas (18-04-2024):** managed maritime boundary disputes with the US at Dixon Entrance, Beaufort Sea, Strait of Juan de Fuca, and the Gulf of Maine, including the disputed Machias Seal Island and North Rock; Canada and the United States dispute how to divide the Beaufort Sea and the status of the Northwest Passage but continue to work cooperatively to survey the Arctic continental shelf; US works closely with Canada to intensify security measures for monitoring and controlling legal and illegal movement of people, transport, and commodities across the international border; commencing the collection of technical evidence for submission to the Commission on the Limits of the Continental Shelf in support of claims…
+
+**Ilícitos (17-07-2025):** transnational criminal organizations trafficked cocaine, opium, methamphetamine, other synthetic drugs, and prescription drugs (some of which transited the United States) to Canada for domestic consumption; a source of synthetic drugs (including synthetic opioids), cannabis, and MDMA trafficked to the United States; a major source of precursor or essential chemicals used in the production of illi…
+
+**Activos en disputa:** Canada — Denmark; Canada — United States
+
+## Lectura TL
+
+Canadá y EE.UU. no resolvieron el límite marítimo en el mar de Beaufort ni coinciden sobre el estatus del Paso del Noroeste, y sin embargo "continúan trabajando cooperativamente". Ese contraste es el dato.
+
+La disputa no es por pesca: es por si el Paso es **aguas interiores** (soberanía canadiense, tránsito con permiso) o **aguas internacionales** (libre tránsito). Es exactamente el régimen de administración de ruta que H-02 anticipa para el Ártico, con la diferencia de que acá no hay peaje: hay jurisdicción.
+
+**Falsador:** acuerdo formal sobre el estatus del Paso o tránsito militar sin permiso canadiense.
+
 ## Fuentes
 
 - FMI GDD (110,77%): https://www.imf.org/external/datamapper/GG\_DEBT\_GDP@GDD
@@ -105,3 +139,7 @@ Deuda pública bajo 100% antes de 2028 (ajuste real). CAD sobre 75 centavos sost
 - Eje separatista — Globe and Mail (Fréchette/EEUU): https://www.theglobeandmail.com/canada/article-quebec-premier-warns-of-us-attempts-to-sow-division-ahead-of-election/
 - Eje separatista — Winnipeg Free Press (CSIS/interferencia): https://www.winnipegfreepress.com/canada/2026/09/25/quebec-party-leaders-wrapping-up-another-week-of-election-campaign
 - Eje separatista — La Presse (PCQ pro-anexión): https://www.lapresse.ca/actualites/politique/2026-08-26/51e-etat-why-not/un-candidat-du-pcq-en-faveur-de-l-annexion-aux-etats-unis.php
+
+## Activos en disputa (cruce con la Maestra)
+
+- **Canada — United States** — activo que la Maestra ya nombra: **Ártico**

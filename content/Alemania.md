@@ -66,6 +66,28 @@ Industria sobre nivel pre-2022 en 2027 sin subsidios (recuperación real). Deuda
 - [[Francia]]
 - [[Federal Reserve]]
 
+## Capa Factbook (archivo CIA)
+
+> Agregado al archivarse el Factbook. No altera el resto de la ficha.
+
+| Dato | Valor | Edición |
+|---|---|---|
+| Gobierno | federal parliamentary republic | 18-04-2024 |
+| Capital | Berlin | 18-04-2024 |
+| Superficie | three times the size of Pennsylvania; slightly smaller than Montana | 18-04-2024 |
+| Población | 84,220,184 (2023 est.) | 18-04-2024 |
+| Independencia | 18 January 1871 (establishment of the German Empire); divided into four zones of occupation (UK, US, USSR, and France) in 1945 following World War II; Federal… | 18-04-2024 |
+| Sistema legal | civil law system | 18-04-2024 |
+
+- **Oleoductos:** 37 km condensate, 26,985 km gas, 2,400 km oil, 4,479 km refined products, 8 km water (2013)
+- **Puertos:** major seaport(s): Baltic Sea: Kiel, Rostock | North Sea: Bremerhaven, Brunsbuttel, Emden, Hamburg, Wilhelmshaven; oil terminal(s): Brunsbuttel Canal terminals; container port(s) (TEUs): Bremen/Bremerhaven (5,018,900), Hamburg (8,715,000) (2021); LNG terminal(s) (import): Hamburg; Brunsbuettel (FSRU); Lubmin (FSRU); Wi…
+- **Ferrocarriles:** total: 39,379 km (2020) 20,942 km electrified
+- **Marina mercante:** total: 595 (2023); by type: bulk carrier 1, container ship 69, general cargo 82, oil tanker 32, other 411
+- **Aeropuertos:** 838 (2024)
+- **Fuerzas:** Federal Armed Forces (Bundeswehr): Army (Heer), Navy (Deutsche Marine, includes naval air arm), Air Force (Luftwaffe, includes air defense), Joint Support and Enabling Service (Streitkraeftebasis, SKB), Central Medical Service (Zentraler Sanitaetsdienst, ZSanDstBw), Cyber and Information Space Comm…
+
+**Ilícitos (17-07-2025):** maritime transshipment point for cocaine heading for European drug; a major source of precursor or essential chemicals used in the production of illicit narcotics
+
 ## Fuentes
 
 - Bundesbank (deuda 2024): https://www.bundesbank.de/en/press/press-releases/deutsche-staatsschulden-954840

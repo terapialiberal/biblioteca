@@ -58,6 +58,32 @@ Su posición conecta Washington, Golfo, Irán, Mediterráneo oriental, gas offsh
 
 **Fractura interna (R-7):** haredim (6,6 hijos, sin ejército, subsidiados) vs seculares (pagan, pelean, fundan). Aritmética pura: cada año la minoría subsidiada es más grande. Ninguna guerra externa la arregla. Falsable: crisis de reclutamiento o revuelta fiscal haredim/secular en 2027.
 
+## Capa Factbook (archivo CIA)
+
+> Agregado al archivarse el Factbook. No altera el resto de la ficha.
+
+| Dato | Valor | Edición |
+|---|---|---|
+| Gobierno | parliamentary democracy | 18-04-2024 |
+| Capital | Jerusalem; note - the US recognized Jerusalem as Israel’s capital in December 2… | 18-04-2024 |
+| Superficie | slightly larger than New Jersey | 18-04-2024 |
+| Población | 9,043,387 (2023 est.) (includes populations of the Golan Heights or Golan Sub-District and also Eas… | 18-04-2024 |
+| Independencia | 14 May 1948 (following League of Nations mandate under British administration) | 18-04-2024 |
+| Sistema legal | mixed legal system of English common law, British Mandate regulations, and Jewish, Christian, and Muslim religious laws | 18-04-2024 |
+
+- **Oleoductos:** 763 km gas, 442 km oil, 261 km refined products (2013)
+- **Puertos:** major seaport(s): Ashdod, Elat (Eilat), Hadera, Haifa; container port(s) (TEUs): Ashdod (1,584,000) (2019); LNG terminal(s) (import): Hadera
+- **Ferrocarriles:** total: 1,497 km (2021) (2019); standard gauge: 1,497 km (2021) 1.435-m gauge
+- **Marina mercante:** total: 41 (2023); by type: container ship 4, general cargo 1, oil tanker 4, other 32
+- **Aeropuertos:** 37 (2024)
+- **Fuerzas:** Israel Defense Forces (IDF): Ground Forces, Israel Naval Force (IN, includes commandos), Israel Air Force (IAF, includes air defense) (2023)
+
+**Disputas (18-04-2024):** Israel-Gaza Strip: Israel withdrew its settlers and military from the Gaza Strip and from four settlements in the West Bank in August 2005 Israel-Syria: Golan Heights is Israeli-controlled (Lebanon claims the Shab'a Farms area of Golan Heights); in March 2019, the US Government recognized Israel's sovereignty over the Golan Heights; since 1948, about 350 peacekeepers from the UN Truce Supervision Organization headquartered in Jerusalem monitor ceasefires, supervise armistice agreements, prevent isolated incidents from escalating, and assist other UN personnel in the region | Israel-West Bank: West Bank is Israeli-occupied with current status subject to the Israeli-Palestinian Interim Agreem…
+
+**Ilícitos (17-07-2025):** increasingly concerned about ecstasy, cocaine, and heroin abuse; drugs arrive in country from Lebanon and, increasingly, from Jordan; money-laundering center
+
+**Activos en disputa:** Gaza Strip — Israel; Israel — Syria
+
 ## Fuentes
 
 - https://www.boi.org.il/en/communication-and-publications/regular-publications/bank-of-israel-annual-report/bank-of-israel-annual-report-2025-1/
@@ -65,3 +91,8 @@ Su posición conecta Washington, Golfo, Irán, Mediterráneo oriental, gas offsh
 - https://www.congress.gov/crs\_external\_products/RL/PDF/RL33222/RL33222.50.pdf
 - https://www.brookings.edu/articles/the-road-to-the-israel-iran-war/
 - https://www.timesofisrael.com/israels-birth-rate-remains-highest-in-oecd-by-far-at-2-9-children-per-woman/
+
+## Activos en disputa (cruce con la Maestra)
+
+- **Israel — Lebanon** — hueco del mapa: **Golán**
+- **Israel — Syria** — hueco del mapa: **Golán, Jerusalén**

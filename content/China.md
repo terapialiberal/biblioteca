@@ -72,6 +72,40 @@ Beijing quiere control, las provincias quieren crecimiento (viven del suelo que 
 - [[Credito Social Chino]]
 - [[China busca orden mundial alternativo - US Commission]]
 
+## Capa Factbook (archivo CIA)
+
+> Agregado al archivarse el Factbook. No altera el resto de la ficha.
+
+| Dato | Valor | Edición |
+|---|---|---|
+| Gobierno | communist party-led state | 18-04-2024 |
+| Capital | Beijing | 18-04-2024 |
+| Superficie | slightly smaller than the US | 18-04-2024 |
+| Población | 1,413,142,846 (2023 est.) | 18-04-2024 |
+| Independencia | 1 October 1949 (People's Republic of China established); notable earlier dates: 221 B.C. (unification under the Qin Dynasty); 1 January 1912 (Qing Dynasty repl… | 18-04-2024 |
+| Sistema legal | civil law influenced by Soviet and continental European civil law systems; legislature retains power to interpret statutes; note - on 28 May 2020, the National… | 18-04-2024 |
+
+- **Oleoductos:** 76,000 km gas, 30,400 km crude oil, 27,700 km refined petroleum products, 797,000 km water (2018)
+- **Puertos:** major seaport(s): Dalian, Ningbo, Qingdao, Qinhuangdao, Shanghai, Shenzhen, Tianjin, Xiamen; container port(s) (TEUs): Dalian (3,672,000), Guangzhou (24,180,000), Ningbo (31,070,000), Qingdao (23,710,000), Shanghai (47,030,300), Shenzhen (28,767,600), Tianjin (20,269,400), Xiamen (12,045,700) (2021); LNG terminal(s) (…
+- **Ferrocarriles:** total: 150,000 km (2021) 1.435-m gauge (100,000 km electrified); 104,0000 traditional, 40,000 high-speed
+- **Marina mercante:** total: 8,314 (2023); by type: bulk carrier 1,831, container ship 419, general cargo 1,392, oil tanker 1,196, other 3,476
+- **Aeropuertos:** 531 (2024)
+- **Fuerzas:** People's Liberation Army (PLA): Ground Forces, Navy (PLAN, includes naval aviation), Navy Marine Corps (PLANMC), Air Force (PLAAF, includes airborne forces), Rocket Force (strategic missile force), and Strategic Support Force (information, electronic, and cyber warfare, as well as space forces); Pe…
+
+**Disputas (18-04-2024):** China-India: continue their security and foreign policy dialogue started in 2005 related to a number of boundary disputes across the 2,000 mile shared border; India does not recognize Pakistan's 1964 ceding to China of the Aksai Chin, a territory designated as part of the princely state of Kashmir by the British Survey of India in 1865; China claims most of the Indian state Arunachal Pradesh to the base of the Himalayas, but the US recognizes the state of Arunachal Pradesh as Indian territory | China-Bhutan: continue negotiations to establish a common boundary alignment to resolve territorial disputes arising from substantial cartographic discrepancies, the most contentious of which lie in…
+
+**Ilícitos (17-07-2025):** a major source of precursor chemicals for narcotics such as fentanyl and methamphetamine, new psychoactive substances (NPS), and synthetic drugs; is a destination and transit country for methamphetamine and heroin produced in South east and Southwest Asia; China remains a major source of precursor chemicals sold in North America via the internet and shipped to overseas customers; domestic use of…
+
+**Activos en disputa:** China — India; China — Russia
+
+## Lectura TL
+
+China rechaza junto a Taiwán las pretensiones japonesas sobre las Senkaku y la ZEE unilateral de Japón en el Mar de China Oriental, donde todas las partes buscan hidrocarburos.
+
+H-04 sostiene que las guerras son por rutas y recursos para las tecnologías nuevas. Las Senkaku son el caso donde eso ocurre **sin guerra**: islas inhabitables, rodeadas de caladeros y de reservas posibles, que valen por lo que habilitan a su alrededor. La disputa no es por el suelo; es por la zona económica que el suelo proyecta.
+
+**Falsador:** acuerdo de explotación conjunta o retiro de las reclamaciones sobre la ZEE.
+
 ## Fuentes
 
 - FRED (deuda pública China 88,3% 2024): https://fred.stlouisfed.org/series/GGGDTACNA188N
@@ -89,3 +123,10 @@ Beijing quiere control, las provincias quieren crecimiento (viven del suelo que 
 - MOFCOM (tierras raras anuncio 18/2025): https://english.mofcom.gov.cn/Policies/AnnouncementsOrders/art/2025/art\_0dd87cbee7b045bf93fabe6ab2faceee.html
 - SASAC (96 centrales, ¥95B activos): http://en.sasac.gov.cn/directorynames.html
 - CSIS (células del Partido en empresas): https://www.csis.org/analysis/new-challenge-communist-corporate-governance
+
+## Activos en disputa (cruce con la Maestra)
+
+- **China — Taiwan** — activo que la Maestra ya nombra: **Taiwán, Senkaku, gas**
+- **China — Vietnam** — activo que la Maestra ya nombra: **Spratly, Paracel**
+- **China — Laos** — activo que la Maestra ya nombra: **represa**
+- **China — India** — hueco del mapa: **Cachemira**

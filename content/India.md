@@ -66,6 +66,32 @@ Deuda general bajo 75% en 2027 (consolidación más rápida que la proyectada). 
 - [[Modi]]
 - [[Estados Unidos]]
 
+## Capa Factbook (archivo CIA)
+
+> Agregado al archivarse el Factbook. No altera el resto de la ficha.
+
+| Dato | Valor | Edición |
+|---|---|---|
+| Gobierno | federal parliamentary republic | 18-04-2024 |
+| Capital | New Delhi | 18-04-2024 |
+| Superficie | slightly more than one-third the size of the US | 18-04-2024 |
+| Población | 1,399,179,585 (2023 est.) | 18-04-2024 |
+| Independencia | 15 August 1947 (from the UK) | 18-04-2024 |
+| Sistema legal | common law system based on the English model; separate personal law codes apply to Muslims, Christians, and Hindus; judicial review of legislative acts | 18-04-2024 |
+
+- **Oleoductos:** 17,389 km natural gas, 10, 419 km crude oil, 3,544 liquid petroleum gas, 14,729 km refined products (2020) 9 km condensate/gas, 20 km oil/gas/water (2013) (2020)
+- **Puertos:** major seaport(s): Chennai, Jawaharal Nehru Port, Kandla, Kolkata (Calcutta), Mumbai (Bombay), Sikka, Vishakhapatnam; container port(s) (TEUs): Jawaharal Nehru Port (5,630,000), Mundra (6,660,000) (2021); LNG terminal(s) (import): Dabhol, Dahej, Dhamra, Ennore, Hazira, Kochi, Mundra
+- **Ferrocarriles:** total: 65,554 km (2014); narrow gauge: 1,604 km (2014) 1.000-m gauge; broad gauge: 63,950 km (2014) (39, 329 km electrified)
+- **Marina mercante:** total: 1,859 (2023); by type: bulk carrier 66, container ship 22, general cargo 607, oil tanker 144, other 1020
+- **Aeropuertos:** 311 (2024)
+- **Fuerzas:** Indian Armed Forces: Army, Navy, Air Force, Coast Guard; Defense Security Corps | Ministry of Home Affairs: Central Armed Police Forces (includes Assam Rifles, Border Security Force, Central Industrial Security Force, Central Reserve Police Force, Indo-Tibetan Border Police, National Security Guard…
+
+**Disputas (18-04-2024):** India-China: India’s relations with China have been fraught for decades; issues include disputed frontiers, as well as China’s support for Pakistan, India’s key rival, and China’s growing influence in India’s periphery, including in the Indian Ocean; in 2020, the two engaged in the worst bilateral border conflict since the Sino-Indian War of 1962; despite ongoing negotiations, including nearly 20 rounds of military-to-military talks as of 2023, tensions at the disputed border, known as the Line of Actual Control (LAC), remain high, and China holds a reported 580 square miles of territory previously patrolled by India; non-lethal clashes involving hundreds of soldiers from each side occured…
+
+**Ilícitos (17-07-2025):** India is a source, transit, and destination for illicit narcotics and precursor chemicals; drug abuse in India growing, facilitated by illicit narcotics and the availability of over-the-counter medicines; commonly abused substances in India include heroin, cannabis, and cocaine, with growing use of pharmaceutical drugs in recent years including tramadol, opioids, and MDMA (ecstasy) analogues; lar…
+
+**Activos en disputa:** China — India; India — Pakistan
+
 ## Fuentes
 
 - FMI DataMapper (India ~81%): https://www.imf.org/external/datamapper/GGXWDG\_NGDP@WEO/OEMDC/ADVEC/WEOWORLD/IND
@@ -80,3 +106,8 @@ Deuda general bajo 75% en 2027 (consolidación más rápida que la proyectada). 
 - Invest India (farma): https://www.investindia.gov.in/sector/pharmaceuticals
 - Carnegie (presidencia BRICS 2026): https://carnegieendowment.org/india/research/2026/06/managing-divergence-indias-brics-presidency-in-2026
 - The Diplomat (equilibrio Delhi): https://thediplomat.com/2026/09/balancing-china-and-russia-indias-tightrope-walk-at-brics/
+
+## Activos en disputa (cruce con la Maestra)
+
+- **China — India** — hueco del mapa: **Cachemira**
+- **India — Pakistan** — hueco del mapa: **Cachemira**

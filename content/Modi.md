@@ -1,25 +1,16 @@
 ---
 titulo: Modi
-tipo: nodo
-fecha: 2026-05-02
+tipo: alias
+fecha: 2026-11-19
 estado: activo
+reemplazado_por: "[[Narendra Modi]]"
 aliases: ["Narendra Modi"]
-tags: [modi, india, nacionalismo, brics, tl-intel-v3]
+tags: [alias, india, brics, tl-intel-v3]
 publish: true
-sin_fuente: true
 ---
 
 # Modi
 
-[[Modi]] importa en TL como figura del nacionalismo indio contemporáneo y operador de una India que busca autonomía entre BRICS, Occidente y rivalidad con China.
+Nodo espejo. Ver [[Narendra Modi]].
 
-## Lectura TL
-
-Modi combina mercado, identidad nacional, tecnología estatal y geopolítica pragmática. Su India no es satélite simple: negocia con todos buscando escala propia.
-
-## Conecta
-
-- [[India]]
-- [[BRICS]]
-- [[China]]
-- [[Rusia]]
+La figura del nacionalismo indio contemporáneo — la India que negocia con todos buscando escala propia (BRICS, Occidente, rivalidad con China) — está consolidada en la ficha principal desde el 2026-11-19.

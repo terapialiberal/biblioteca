@@ -69,6 +69,32 @@ Presupuesto 2027 aprobado con el ajuste de 54.000M y deuda bajo 119% (gobierna).
 - [[Estados Unidos]]
 - [[Níger]]
 
+## Capa Factbook (archivo CIA)
+
+> Agregado al archivarse el Factbook. No altera el resto de la ficha.
+
+| Dato | Valor | Edición |
+|---|---|---|
+| Gobierno | semi-presidential republic | 18-04-2024 |
+| Capital | Paris | 18-04-2024 |
+| Superficie | slightly more than four times the size of Georgia; slightly less than the size of Texas | 18-04-2024 |
+| Población | 68,521,974 (2023 est.) | 18-04-2024 |
+| Independencia | no official date of independence: 486 (Frankish tribes unified under Merovingian kingship); 10 August 843 (Western Francia established from the division of the… | 18-04-2024 |
+| Sistema legal | civil law; review of administrative but not legislative acts | 18-04-2024 |
+
+- **Oleoductos:** 15,322 km gas, 2,939 km oil, 5,084 km refined products (2013)
+- **Puertos:** major seaport(s): Atlantic Ocean: Brest, Calais, Dunkerque, Le Havre, Nantes | Mediterranean Sea: Marseille; container port(s) (TEUs): Le Havre (3,018,550) (2021); LNG terminal(s) (import): Dunkerque, Fos Cavaou, Fos Tonkin, Montoir de Bretagne; river port(s): Bordeaux (Garronne); Nantes - Saint Nazaire (Loire); Paris…
+- **Ferrocarriles:** total: 27,860 km (2020) 16,660 km electrified; narrow gauge: -5 km
+- **Marina mercante:** total: 553 (2023); by type: container ship 32, general cargo 48, oil tanker 25, other 448
+- **Aeropuertos:** 689 (2024)
+- **Fuerzas:** French Armed Forces (Forces Armées Françaises): Army (l'Armee de Terre; includes Foreign Legion), Navy (Marine Nationale), Air and Space Force (l'Armee de l’Air et de l’Espace); includes Air Defense), National Guard (Reserves), National Gendarmerie (2024)
+
+**Disputas (18-04-2024):** Madagascar claims the French territories of Bassas da India, Europa Island, Glorioso Islands, and Juan de Nova Island; Comoros claims Mayotte; Mauritius claims Tromelin Island; territorial dispute between Suriname and the French overseas department of French Guiana; France asserts a territorial claim in Antarctica (Adelie Land); France and Vanuatu claim Matthew and Hunter Islands, east of New Caledonia
+
+**Ilícitos (17-07-2025):** metropolitan France: transshipment point for South American cocaine, Southwest Asian heroin, and European synthetics; French Guiana: small amount of marijuana grown for local consumption; minor transshipment point to Europe; Martinique: transshipment point for cocaine and marijuana bound for the US and Europe
+
+**Activos en disputa:** France — Mauritius; France — Spain
+
 ## Fuentes
 
 - INSEE (deuda/déficit): https://www.insee.fr/en/statistiques/8961174
@@ -84,3 +110,7 @@ Presupuesto 2027 aprobado con el ajuste de 54.000M y deuda bajo 119% (gobierna).
 - BBC (Orano pierde control): https://www.bbc.co.uk/news/articles/c5y23lvm05no
 - LSE (retirada Sahel): https://blogs.lse.ac.uk/africaatlse/2026/06/17/francafrique-is-retreating-but-sovereignty-must-be-built-in-its-place/
 - Elíseo (Consejo franco-alemán): https://www.elysee.fr/en/emmanuel-macron/2026/07/17/conclusion-of-the-26th-franco-german-ministerial-council
+
+## Activos en disputa (cruce con la Maestra)
+
+- **France — Mauritius** — hueco del mapa: **Antártida**
